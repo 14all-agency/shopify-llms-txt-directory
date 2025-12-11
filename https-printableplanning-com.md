@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-11T18:44:31.083Z
+- Updated At: 2025-12-11T18:46:00.708Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1764,7 +1764,1077 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet25sBLUE-PrintablePlanning.jpg?v=1687107868
   Price: $5.95 USD
-[List Continued](https://printableplanning.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMzczOTAyMDQ1Mjg2LCJsYXN0X3ZhbHVlIjoiMTM3MzkwMjA0NTI4NiJ9)
+- [Building an Emergency Fund Worksheet in Pink (by $25 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-pink-printable): A printable Building an Emergency Fund Worksheet in Pink (by $25 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $25 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background area of the chart is a light shade of pink. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $25 increments. $1,000 emergency fund plan. Simple and clean with gray shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Pink (by $25 increments) as needed if necessary.
+  Updated: 2025-08-21T08:08:01Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet25sPINK-PrintablePlanning.jpg?v=1687107846
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet in Green (by $25 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-green-printable): A printable Building an Emergency Fund Worksheet in Green (by $25 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $25 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background area of the chart is a light shade of green. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $25 increments. $1,000 emergency fund plan. Simple and clean with gray shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Green (by $25 increments) as needed if necessary.
+  Updated: 2025-12-04T04:43:52Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet25sGREEN-PrintablePlanning.jpg?v=1687107829
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet in Purple (by $25 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-purple-printable): A printable Building an Emergency Fund Worksheet in Purple (by $25 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $25 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background area of the chart is a light shade of purple. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $25 increments. $1,000 emergency fund plan. Simple and clean with gray shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Purple (by $25 increments) as needed if necessary.
+  Updated: 2025-08-31T10:57:32Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet25sPURPLE-PrintablePlanning.jpg?v=1687107870
+  Price: $5.95 USD
+- [Debt Payoff Progress Bar Worksheets in Gray - Printable](https://printableplanning.com/products/debt-payoff-progress-bar-worksheets-in-gray-printable): Printable Debt Payoff Progress Bar Worksheets in Gray to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Each chart has a gray background color with a white rectangle in the middle that you can color in as you reach the calculated dollar amounts at tiered percentages. Write your total debt amount in the top box, and calculate the tiered percentage amounts in the other boxes.INCLUDED (use the form/method that works best for you): Debt Payoff Progress Bar worksheet where amount paid ascends (Counting up). Remaining Debt Payoff Progress Bar worksheet where the remaining debt amount descends (Counting down). SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Simple and clean with a gray background. Easily keep track of your progress paying off debt. Print new printable Debt Payoff Progress Bar Worksheets in Gray as needed if necessary.
+  Updated: 2025-07-31T22:53:05Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/DebtPayoffProgressBarinGray-PrintablePlanning_b367eba3-aadb-4617-a7db-9080e6be9dca.jpg?v=1687190242
+  Price: $5.95 USD
+- [Debt Payoff Progress Bar Worksheets in Green - Printable](https://printableplanning.com/products/debt-payoff-progress-bar-worksheets-in-green-printable): Printable Debt Payoff Progress Bar Worksheets in Green to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Each chart has a green background color with a white rectangle in the middle that you can color in as you reach the calculated dollar amounts at tiered percentages. Write your total debt amount in the top box, and calculate the tiered percentage amounts in the other boxes.INCLUDED (use the form/method that works best for you): Debt Payoff Progress Bar worksheet where amount paid ascends (Counting up). Remaining Debt Payoff Progress Bar worksheet where the remaining debt amount descends (Counting down). SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Simple and clean with a green background. Easily keep track of your progress paying off debt. Print new printable Debt Payoff Progress Bar Worksheets in Green as needed if necessary.
+  Updated: 2025-07-21T19:20:09Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/DebtPayoffProgressBarinGreen-PrintablePlanning.jpg?v=1687190157
+  Price: $5.95 USD
+- [Debt Payoff Progress Bar Worksheets in Pink - Printable](https://printableplanning.com/products/debt-payoff-progress-bar-worksheets-in-pink-printable): Printable Debt Payoff Progress Bar Worksheets in Pink to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Each chart has a pink background color with a white rectangle in the middle that you can color in as you reach the calculated dollar amounts at tiered percentages. Write your total debt amount in the top box, and calculate the tiered percentage amounts in the other boxes.INCLUDED (use the form/method that works best for you): Debt Payoff Progress Bar worksheet where amount paid ascends (Counting up). Remaining Debt Payoff Progress Bar worksheet where the remaining debt amount descends (Counting down). SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Simple and clean with a pink background. Easily keep track of your progress paying off debt. Print new printable Debt Payoff Progress Bar Worksheets in Pink as needed if necessary.
+  Updated: 2025-07-21T19:20:09Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/DebtPayoffProgressBarinPink-PrintablePlanning.jpg?v=1687190250
+  Price: $5.95 USD
+- [Debt Payoff Progress Bar Worksheets in Blue - Printable](https://printableplanning.com/products/debt-payoff-progress-bar-worksheets-in-blue-printable): Printable Debt Payoff Progress Bar Worksheets in Blue to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Each chart has a blue background color with a white rectangle in the middle that you can color in as you reach the calculated dollar amounts at tiered percentages. Write your total debt amount in the top box, and calculate the tiered percentage amounts in the other boxes.INCLUDED (use the form/method that works best for you): Debt Payoff Progress Bar worksheet where amount paid ascends (Counting up). Remaining Debt Payoff Progress Bar worksheet where the remaining debt amount descends (Counting down). SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Simple and clean with a blue background. Easily keep track of your progress paying off debt. Print new printable Debt Payoff Progress Bar Worksheets in Blue as needed if necessary.
+  Updated: 2025-10-25T04:42:10Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/DebtPayoffProgressBarinBlue-PrintablePlanning.jpg?v=1687190218
+  Price: $5.95 USD
+- [Debt Payoff Progress Bar Worksheets in Purple - Printable](https://printableplanning.com/products/debt-payoff-progress-bar-worksheets-in-purple-printable): Printable Debt Payoff Progress Bar Worksheets in Purple to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Each chart has a purple background color with a white rectangle in the middle that you can color in as you reach the calculated dollar amounts at tiered percentages. Write your total debt amount in the top box, and calculate the tiered percentage amounts in the other boxes.INCLUDED (use the form/method that works best for you): Debt Payoff Progress Bar worksheet where amount paid ascends (Counting up). Remaining Debt Payoff Progress Bar worksheet where the remaining debt amount descends (Counting down). SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Simple and clean with a purple background. Easily keep track of your progress paying off debt. Print new printable Debt Payoff Progress Bar Worksheets in Purple as needed if necessary.
+  Updated: 2025-07-21T19:20:09Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/DebtPayoffProgressBarinPurple-PrintablePlanning.jpg?v=1687190169
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet (by $20 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-by-20-increments-printable): A printable Building an Emergency Fund Worksheet (by $20 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $20 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $20 increments. $1,000 emergency fund plan. Simple and clean with gray shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet (by $20 increments) as needed if necessary.
+  Updated: 2025-08-29T21:56:17Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet20sGRAY-PrintablePlanning.jpg?v=1687107857
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet in Blue (by $20 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-blue-by-20-increments-printable): A printable Building an Emergency Fund Worksheet in Blue (by $20 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $20 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background is a light blue color. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $20 increments. $1,000 emergency fund plan. Simple and clean with light blue shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Blue (by $20 increments) as needed if necessary.
+  Updated: 2025-08-29T14:08:11Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet20sBLUE-PrintablePlanning.jpg?v=1687107825
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet in Green (by $20 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-green-by-20-increments-printable): A printable Building an Emergency Fund Worksheet in Green (by $20 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $20 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background is a light green color. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $20 increments. $1,000 emergency fund plan. Simple and clean with light green shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Green (by $20 increments) as needed if necessary.
+  Updated: 2025-07-21T19:20:08Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet20sGREEN-PrintablePlanning.jpg?v=1687107874
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet in Pink (by $20 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-pink-by-20-increments-printable): A printable Building an Emergency Fund Worksheet in Pink (by $20 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $20 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background is a light pink color. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $20 increments. $1,000 emergency fund plan. Simple and clean with light pink shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Pink (by $20 increments) as needed if necessary.
+  Updated: 2025-08-10T00:43:28Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BuildinganEmergencyFundWorksheet20sPINK-PrintablePlanning.jpg?v=1687107866
+  Price: $5.95 USD
+- [Building an Emergency Fund Worksheet in Purple (by $20 increments) - Printable](https://printableplanning.com/products/building-an-emergency-fund-worksheet-in-purple-by-20-increments-printable): A printable Building an Emergency Fund Worksheet in Purple (by $20 increments) to help you get organized and track your savings efforts towards an $1,000 emergency fund. It's always a good idea to have funds set aside in the event of an emergency. This chart will help you display your progress as you save $20 at a time, coloring in each square as you go, to see your efforts as you set up your emergency fund. The background is a light purple color. SPECIFICATIONS: 8.5" x 11" printable PDF page. Setup for $20 increments. $1,000 emergency fund plan. Simple and clean with light purple shading. Easily keep track of your progress building your emergency fund. Print a new printable Building an Emergency Fund Worksheet in Purple (by $20 increments) as needed if necessary.
+  Updated: 2025-07-21T19:20:08Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Building_an_Emergency_Fund_Worksheet_20s_PURPLE_2_-_Printable_Planning.jpg?v=1564501350
+  Price: $5.95 USD
+- [Financial BUNDLE: Bill Payment, Transaction Register, Emergency Fund, Debt Payoff - Printable](https://printableplanning.com/products/financial-bundle-bill-payment-transaction-register-emergency-fund-debt-payoff-printable): A printable Financial BUNDLE: Bill Payment, Transaction Register, Emergency Fund, Debt Payoff package that includes 4 important financial categories (in 6 PDF files) towards financial organization. This printable bundle helps you with keeping track of paying your bills every month for 1 year, registering all of your banking transactions in fill page format, building an emergency fund in your choice of increments by 20s or by 25s, and a debt payoff progress bar in your choice of either ascending or descending amounts. BUNDLE INCLUDES: Monthly Bill Payment Tracker (1 year). A printable bill payment tracker log to help you keep track of paying your bills every month so that you don't miss or forget a payment for the entire year. Financial Transaction Register. These full size transaction sheets allow you to keep them all organized in a binder and have a better overall view of the activity in your bank account. Write down every single deposit, check, card purchase, and withdrawal, and easily track your actual balance. Emergency Fund worksheet (saving by $20s). A printable Building an Emergency Fund worksheet to help you get organized and track your savings efforts towards an $1,000 emergency fund. This chart will help you display your progress as you save $20 at a time. Emergency Fund Worksheet (saving by $25s). A printable Building an Emergency Fund worksheet to help you get organized and track your savings efforts towards an $1,000 emergency fund. This chart will help you display your progress as you save $25 at a time. Debt Payoff Progress Bar (ascending). Printable debt payoff progress bar worksheet to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Amount paid ascends (Counting up). Remaining Debt Payoff Progress Bar (descending). Printable debt payoff progress bar worksheet to help you get organized and track your efforts towards paying off your debt. These charts will help you display your progress as you pay off your debt(s), whether you want to chart your entire debt amount or by individual accounts. Remaining debt amount descends (Counting down). SPECIFICATIONS: (6) @ 8.5" x 11" printable PDF pages. Simple and clean with gray shading. Easy forms, worksheets, and charts to help with financial organization. Print a new Financial BUNDLE: Bill Payment, Transaction Register, Emergency Fund, Debt Payoff or individual pages as needed if necessary.
+  Updated: 2025-07-21T19:20:08Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/FinancialBUNDLE-Billpay-Register-EmergencyFund-DebtPayoff-PrintablePlanning.jpg?v=1687107855
+  Price: $11.95 USD
+- [Goals - Pink Full Page and Half Page Checklists - Printable](https://printableplanning.com/products/goals-pink-full-page-and-half-page-checklists-printable): Printable Goals - Pink Full Page and Half Page Checklists, in full page and half page (2 per page) versions, for stating your goals that you want to accomplish in a bold and clear way for you to see, wherever you keep the list. Each checklist has a pink header that reads GOALS and 10 lines for your listed goals. Each line has a circle to the left for checking off your goals as they are completed. The full page goals list fits on a standard clipboard and the half page goals list fits on a smaller half page clipboard. Print as many pages as you need. Easily used for your daily, weekly, monthly, or yearly goal lists. SPECIFICATIONS: (2) 8.5" x 11" printable PDF pages. Half page: (2) 5.5" x 8.5" to-do lists per (1) 8.5" x 11" printable page. Large, simple and clean with a big pink header. 10 goal checklist lines. Excellent for both personal and business goal lists. Print new Printable Goals - Pink Full Page and Half Page Checklists every time you need more.
+  Updated: 2025-07-21T19:20:08Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/Goals-FullandHalfPage-PINKHeader-PrintablePlanning.jpg?v=1687023371
+  Price: $5.95 USD
+- [Goals - Green Full Page and Half Page Checklists - Printable](https://printableplanning.com/products/goals-green-full-page-and-half-page-checklists-printable): Printable Goals - Green Full Page and Half Page Checklists, in full page and half page (2 per page) versions, for stating your goals that you want to accomplish in a bold and clear way for you to see, wherever you keep the list. Each checklist has a green header that reads GOALS and 10 lines for your listed goals. Each line has a circle to the left for checking off your goals as they are completed. The full page goals list fits on a standard clipboard and the half page goals list fits on a smaller half page clipboard. Print as many pages as you need. Easily used for your daily, weekly, monthly, or yearly goal lists. SPECIFICATIONS: (2) 8.5" x 11" printable PDF pages. Half page: (2) 5.5" x 8.5" to-do lists per (1) 8.5" x 11" printable page. Large, simple and clean with a big green header. 10 goal checklist lines. Excellent for both personal and business goal lists. Print new Printable Goals - Green Full Page and Half Page Checklists every time you need more.
+  Updated: 2025-07-21T19:20:08Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/Goals-FullandHalfPage-GREENHeader-PrintablePlanning.jpg?v=1687023386
+  Price: $5.95 USD
+- [Goals - Blue Full Page and Half Page Checklists - Printable](https://printableplanning.com/products/goals-blue-full-page-and-half-page-checklists-printable): Printable Goals - Blue Full Page and Half Page Checklists, in full page and half page (2 per page) versions, for stating your goals that you want to accomplish in a bold and clear way for you to see, wherever you keep the list. Each checklist has a blue header that reads GOALS and 10 lines for your listed goals. Each line has a circle to the left for checking off your goals as they are completed. The full page goals list fits on a standard clipboard and the half page goals list fits on a smaller half page clipboard. Print as many pages as you need. Easily used for your daily, weekly, monthly, or yearly goal lists. SPECIFICATIONS: (2) 8.5" x 11" printable PDF pages. Half page: (2) 5.5" x 8.5" to-do lists per (1) 8.5" x 11" printable page. Large, simple and clean with a big blue header. 10 goal checklist lines. Excellent for both personal and business goal lists. Print new Printable Goals - Blue Full Page and Half Page Checklists every time you need more.
+  Updated: 2025-07-21T19:20:07Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/Goals-FullandHalfPage-BLUEHeader-PrintablePlanning.jpg?v=1687023384
+  Price: $5.95 USD
+- [Goals - Purple Full Page and Half Page Checklists - Printable](https://printableplanning.com/products/goals-purple-full-page-and-half-page-checklists-printable): Printable Goals - Purple Full Page and Half Page Checklists, in full page and half page (2 per page) versions, for stating your goals that you want to accomplish in a bold and clear way for you to see, wherever you keep the list. Each checklist has a purple header that reads GOALS and 10 lines for your listed goals. Each line has a circle to the left for checking off your goals as they are completed. The full page goals list fits on a standard clipboard and the half page goals list fits on a smaller half page clipboard. Print as many pages as you need. Easily used for your daily, weekly, monthly, or yearly goal lists. SPECIFICATIONS: (2) 8.5" x 11" printable PDF pages. Half page: (2) 5.5" x 8.5" to-do lists per (1) 8.5" x 11" printable page. Large, simple and clean with a big purple header. 10 goal checklist lines. Excellent for both personal and business goal lists. Print new Printable Goals - Purple Full Page and Half Page Checklists every time you need more.
+  Updated: 2025-07-21T19:20:07Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/Goals-FullandHalfPage-PURPLEHeader-PrintablePlanning.jpg?v=1687023402
+  Price: $5.95 USD
+- [Debt Payoff Plan Chart - Debt Snowball Method - Printable](https://printableplanning.com/products/debt-payoff-plan-chart-debt-snowball-method-printable): A printable Debt Payoff Plan Chart - Debt Snowball Method page to help you pay down your debt with a fast and organized repayment plan. Do you want to be debt free? Using the Debt Snowball method can help you to stay committed to paying off your debts, doing it in an organized way, and paying everything down faster than paying just your minimum payments.Gather all of your bills and put them in order by the balance that is due. List them in this order on your Debt Payoff Plan chart. This is the order that you will be paying off your debt: lowest to highest owed. HOW IT WORKS: Take the first bill and decide how much you can pay over the minimum, and consistently pay down this balance until the entire bill is paid and there is nothing owed. Then, take that first bill’s total payment amount you've been making and add it to your second bill’s payment amount. This is your Snowball Payment. Consistently pay this amount until this balance is completely paid. Continue to do this, moving down the line, until all of your debt is paid off. SPECIFICATIONS: 8.5" x 11" printable PDF page. Modern, simple, and clean. 20 lines for listing up to 20 debts in your plan. Blue column for snowball payment amount. Green column for date debt has been paid off fully. Easily keep track of your efforts to pay off your debts. Print a new printable Debt Payoff Plan Chart - Debt Snowball Method page if needed. OPTION: Get it in a bundle and save! Financial BUNDLE: Budget Worksheet, Bill Payment, Debt Payoff Plan - Printable
+  Updated: 2025-07-31T17:57:02Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Debt_Payoff_Plan_-_Snowball_Method_2_-_Printable_Planning.jpg?v=1558039032
+  Price: $5.95 USD
+- [Budget Worksheet - Weekly or Monthly, Green Red Blue - Printable](https://printableplanning.com/products/budget-worksheet-weekly-or-monthly-green-red-blue-printable): A printable Budget Worksheet - Weekly or Monthly, Green Red Blue page to help you keep track of your weekly budget or monthly budget, keeping track of income, fixed and variable expenses, and logging totals including your budgeted and actual totals and a column to show the difference. The income has a green label column, the expenses have a light red label column, and the totals have a blue label column. Use this printable page to track your weekly or monthly budget for yourself or for your family. SPECIFICATIONS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch for binder inclusion. Simple and clean and color category labels. Easily specify weekly or monthly on the page. 4 income rows and 21 expense rows. Print a new printable Budget Worksheet - Weekly or Monthly, Green Red Blue page as needed. OPTION: Get it in a bundle and save! Financial BUNDLE: Budget Worksheet, Bill Payment, Debt Payoff Plan - Printable
+  Updated: 2025-07-31T15:13:29Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Budget_Worksheet_-_Weekly_or_Monthly_-_Printable_Planning_3efa685f-380b-4299-9683-2a32a4177944.jpg?v=1686174395
+  Price: $5.95 USD
+- [Financial BUNDLE: Budget Worksheet, Bill Payment, Debt Payoff Plan - Printable](https://printableplanning.com/products/financial-bundle-budget-worksheet-bill-payment-debt-payoff-plan-printable): A printable financial BUNDLE that includes 3 important financial categories (in 3 PDF files) towards financial organization. This printable Financial BUNDLE: Budget Worksheet, Bill Payment, Debt Payoff Plan bundle helps you with making your weekly or monthly budget, keeping track of paying your bills every month for 1 year, and paying off your debt with a debt payoff plan that uses the snowball method. BUNDLE INCLUDES: Weekly or Monthly Budget Worksheet. A printable budget worksheet to help you keep track of your weekly budget or monthly budget, keeping track of income, fixed and variable expenses, and logging totals including your budgeted and actual totals and a column to show the difference. Monthly Bill Payment Tracker (1 year). A printable bill payment tracker log to help you keep track of paying your bills every month so that you don't miss or forget a payment for the entire year. Debt Payoff Plan (Snowball Method). A printable debt payoff plan using the snowball method to help you pay down your debt with a fast and organized repayment plan. Do you want to be debt free? Using the Debt Snowball method can help you to stay committed to paying off your debts, doing it in an organized way, and paying everything down faster than paying just your minimum payments. SPECIFICATIONS: (3) @ 8.5" x 11" printable PDF pages. Simple and clean with gray shading and some color coding. Easy worksheets and charts to help with financial organization. Print a new printable Financial BUNDLE: Budget Worksheet, Bill Payment, Debt Payoff Plan or the individual pages as needed.
+  Updated: 2025-07-31T21:26:05Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Budget_-_Bill_Payment_-_Debt_Payoff_BUNDLE_2_-_Printable_Planning.jpg?v=1686174266
+  Price: $9.95 USD
+- [Pet Care - New Client Checklist, Visits and Overnights - Printable](https://printableplanning.com/products/pet-care-new-client-checklist-visits-and-overnights-printable): An editable printable Pet Care - New Client Checklist, Visits and Overnights page for your pet-sitting or pet care business to manage new clients. This new client checklist keeps track of client contact information and types and number of pets. You can log whether they need pet care for regular visits or overnight pet care. You have a 3 line full length notes section at the bottom. You also have a Office Checklist section with 8 check-boxes. The text in this section is editable! Change these 8 checklist lines to fit your business needs. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. Sections included: Contact information. Pet types and number of pets. Visits and/or overnights (and detailed information). Office Checklist - editable! Change the text (font and size stays the same). Notes section. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. The text in the Office Checklist is editable (Adobe Reader, preferred for editing). Print more printable Pet Care - New Client Checklist, Visits and Overnights pages as needed.
+  Updated: 2025-09-28T14:49:09Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Pet_Care_-_New_Client_Checklist_-_Visits_n_Overnights_-_Printable_Planning_8d2a490b-5ac6-4f3c-b115-56697050d78e.jpg?v=1564705800
+  Price: $5.95 USD
+- [Pet Care - New Client Checklist, Visits List - Printable](https://printableplanning.com/products/pet-care-new-client-checklist-visits-list-printable): An editable printable Pet Care - New Client Checklist, Visits List for your pet-sitting or pet care business to manage new clients. This new client checklist keeps track of client contact information and types and number of pets. You can the visits needed. You have a 3 line full length notes section at the bottom. You also have a Office Checklist section with 8 check-boxes. The text in this section is editable! Change these 8 checklist lines to fit your business needs. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. Sections included: Contact information. Pet types and number of pets. Visits list. Office Checklist - editable! Change the text (font and size stays the same). Notes section. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. The text in the Office Checklist is editable (Adobe Reader, preferred for editing). Print more printable Pet Care - New Client Checklist, Visits List pages as needed.
+  Updated: 2025-07-21T19:19:40Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Pet_Care_-_New_Client_Checklist_-_Visits_-_Printable_Planning_ace0e4a7-5caf-4821-8006-a32530ba26c0.jpg?v=1564705698
+  Price: $5.95 USD
+- [Cute Angry Ghost Halloween Stickers - Blue Orange Purple - Printable](https://printableplanning.com/products/cute-angry-ghost-halloween-stickers-blue-orange-purple-printable): 3 sets of round Halloween ghost stickers for your favors, goodies, or scrapbooking. These printable Cute Angry Ghost Halloween Stickers - Blue Orange Purple are designed with a cute angry ghost illustration in the center, peaking out from a circle, over a purple, orange, or blue background. These ghost stickers or favor tags are to be printed on regular card stock (use as cupcake toppers), sticker paper, or 2" 12-up round Avery sticker paper (template #22807 or comparable Avery template). These PDF pages are not editable and is sold as-is. SPECIFICATIONS: (3) 8.5" x 11" printable PDF pages. 12 stickers per page. 2" stickers. Design contains a bleed area so your design goes to the edge on template sticker paper.) Design is slightly over 2" if you manually cut them to the edge on non-template sticker paper. Fits Avery template #22807 or comparable template. See Avery for details. DIY, you will be responsible for this project and the supplies required. Print as many of these printable Cute Angry Ghost Halloween Stickers - Blue Orange Purple as you need for your personal needs.
+  Updated: 2025-08-09T05:00:43Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CuteAngryGhostHalloweenStickers-BlueOrangePurple12up-EXAMPLE-PrintablePlanning.jpg?v=1687885588
+  Price: $5.95 USD
+- [Palliative Care Form for Canines - Printable](https://printableplanning.com/products/palliative-care-form-for-canines-printable): A printable palliative care form for canines for the care of dogs who are suffering from life-limiting illnesses or conditions. If you're a pet caregiver or business that specializes in palliative care of canines, this form helps you log contact and pet information, vitals, and treatments, with a notes section at the bottom. It makes it easy to have important information in one place when discussing conditions and treatments with the dog owner. There is room on the left side of this form for you to use a 3-hole punch to organize your pages in a binder. Categories included: Contact Information Dog name, breed, and age. Vitals. Treatments. A checkbox for if the Euthanasia Vet has been informed. Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Print a new printable palliative care form for canines as needed (save the file).
+  Updated: 2025-07-21T19:19:40Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PalliativeCareFormforCanines-PrintablePlanning.jpg?v=1687031856
+  Price: $5.95 USD
+- [Printable Personalized Red Buffalo Plaid Gift Tags for Christmas Gifts](https://printableplanning.com/products/personalized-red-buffalo-plaid-gift-tags-printable): Printable Personalized Red Buffalo Plaid Gift Tags customizable with 'to' and 'from' names over a red & black plaid pattern with snowflakes. DIY: Print at home!
+  Updated: 2025-07-30T09:00:32Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableRedBuffaloPlaidChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687843944
+  Price: $5.95 USD
+- [Printable Personalized Red Buffalo Plaid Merry Christmas Gift Tags](https://printableplanning.com/products/personalized-red-buffalo-plaid-merry-christmas-gift-tags-printable): Customize your Christmas gifts with Printable Personalized Red Buffalo Plaid Merry Christmas Gift Tags. Easy-to-print & reusable file for every holiday season.
+  Updated: 2025-07-21T19:19:39Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableRedBuffaloPlaidMerryChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687843996
+  Price: $5.95 USD
+- [Printable Red Buffalo Plaid Gift Tag Stickers | Rustic Holiday Tags](https://printableplanning.com/products/red-buffalo-plaid-gift-tag-stickers-printable): Printable Red Buffalo Plaid Gift Tag Stickers with festive 'Merry Christmas' design. Handwrite names. Fits 2" round sticker paper for easy DIY gift wrapping.
+  Updated: 2025-07-21T19:19:39Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/RedBuffaloPlaidGiftTagStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885583
+  Price: $5.95 USD
+- [Printable Black & White Buffalo Plaid Gift Tag Stickers | Holiday Tags](https://printableplanning.com/products/black-and-white-buffalo-plaid-gift-tag-stickers-printable): Printable black & white buffalo plaid gift tag stickers for Christmas. Room to write the "To" & "From" details. 12 round tags per page. Instant download.
+  Updated: 2025-07-21T19:19:39Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BlackandWhiteBuffaloPlaidRoundGiftTagStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885553
+  Price: $5.95 USD
+- [Printable Cute Santa Hat Frog Hoppy Christmas Gift Tags | DIY Holiday](https://printableplanning.com/products/cute-santa-hat-frog-hoppy-christmas-gift-tags-printable): Print your own Cute Santa Hat Frog Hoppy Christmas Gift Tags with spaces for handwriting "To" and "From". Print on card stock for durable, DIY holiday tags.
+  Updated: 2025-10-17T02:29:30Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableCuteSantaHatFrogHoppyChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687843971
+  Price: $5.95 USD
+- [Printable Cute Santa Hat Elephant Gift Tags | Easy DIY Holiday Tags](https://printableplanning.com/products/cute-santa-hat-elephant-merry-christmas-gift-tags-printable): Shop our Printable Cute Santa Hat Elephant Merry Christmas Gift Tags. Adorable elephant in a Santa hat with space to write 'To' and 'From'. 9 tags per page.
+  Updated: 2025-10-26T10:48:25Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableCuteSantaHatElephantMerryChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687844025
+  Price: $5.95 USD
+- [Cute Santa Hat Elephant Gift Tag Stickers - Printable](https://printableplanning.com/products/cute-santa-hat-elephant-gift-tag-stickers-printable): Printable Cute Santa Hat Elephant Gift Tag Stickers designed with a cute elephant wearing a Santa Hat over light blue, and "to" and "from" for writing gifting names by hand over white below the cute elephant. These gift tags are round in shape to be printed on regular card stock, sticker paper, or 2" 12-up round sticker paper. SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 tags per page. Round Tags measure a diameter of 2"+ each. (Includes a bleed for when used with 2" round sticker paper or when using a 2" round paper punch. Fits Avery template #22807 or comparable template. See Avery for details. Print a new page of these printable Cute Santa Hat Elephant Gift Tag Stickers every time you need more.
+  Updated: 2025-07-21T19:19:39Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CuteSantaHatElephantGiftTagStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885623
+  Price: $5.95 USD
+- [Printable Cute Santa Hat Frog Gift Tag Stickers | Holiday Gift Tags](https://printableplanning.com/products/cute-santa-hat-frog-gift-tag-stickers-printable): Print these Printable Cute Santa Hat Frog Gift Tag Stickers. Easy-to-print PDF with 12 2" round tags per page. Perfect for Christmas and holiday gift wrapping.
+  Updated: 2025-10-16T13:29:27Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CuteSantaHatFrogGiftTagStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885557
+  Price: $5.95 USD
+- [Printable Cute Penguin Gift Tag Stickers | Fun for All Occasions](https://printableplanning.com/products/cute-penguin-gift-tag-stickers-printable): Printable Cute Penguin Gift Tag Stickers, perfect for personalizing gifts. Easy to print on peel-and-stick sticker paper. Add fun to your gift-giving today!
+  Updated: 2025-07-21T19:19:38Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CutePenguinGiftTagStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885567
+  Price: $5.95 USD
+- [Cute Penguin Merry Christmas Gift Tags - Printable](https://printableplanning.com/products/cute-penguin-merry-christmas-gift-tags-printable): Printable Cute Penguin Merry Christmas Gift Tags designed with a cute rounded penguin over "Merry Christmas", and "To" and "From" below where you can write the gifting names by hand. These gift tags are ticket shaped, and are recommended to be printed on regular card stock. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Print a new page every time you need more. Use these printable Cute Penguin Merry Christmas Gift Tags every year!
+  Updated: 2025-12-03T11:32:58Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableCutePenguinMerryChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687844012
+  Price: $5.95 USD
+- [Printable Snowflake Gift Tag Stickers - Blue Red Green | Holiday Tags](https://printableplanning.com/products/snowflake-gift-tag-stickers-blue-red-green-printable): Shop the Printable Snowflake Gift Tag Stickers – Blue, Red, Green. Festive, handwrite names, print 12 tags per page. Ideal for Christmas & holiday gifting!
+  Updated: 2025-09-05T12:44:23Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SnowflakeGiftTagStickers-BlueRedGreen12up-EXAMPLE-PrintablePlanning.jpg?v=1687885565
+  Price: $5.95 USD
+- [Printable Snowflake Gift Tag Stickers - Turquoise Purple Pink | DIY](https://printableplanning.com/products/snowflake-gift-tag-stickers-turquoise-purple-pink-printable): Printable Snowflake Gift Tag Stickers in turquoise, purple, and pink. Personalize gifts with these snowflake, festive tags. Print on 2" round sticker paper.
+  Updated: 2025-07-21T19:19:38Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SnowflakeGiftTagStickers-TurquoisePurplePink12up-EXAMPLE-PrintablePlanning.jpg?v=1687885574
+  Price: $5.95 USD
+- [Goals and Resolutions "What I Want" Page - Printable](https://printableplanning.com/products/goals-and-resolutions-page-what-i-want-printable): Printable goals and resolutions "what I want" page for planning your goals and resolutions. It's titled "What I want" and has you detail what you want, why you want it, by when, and what you can do or change to accomplish or obtain your goals. This section has circles you can check off if needed as accomplishing tasks or putting strategies into place. There's also a notes section at the bottom for anything additional you may need. A great page for your affirmations and strategies for your New Year's resolutions. A page to remind you to stick to your goals and display it proudly. Print as many pages as you need. Perfect for your New Year's resolutions, or for any time of year. SPECIFICATIONS: (1) 8.5" x 11" printable PDF page. Easy sections to fill out: What I want. Why I want it. I want it by... Things I can do or change to make it happen. Excellent for both personal and business goals and resolutions. Print new printable goals and resolutions "what I want" page every time you need more.
+  Updated: 2025-07-21T19:19:38Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/GoalsandResolutionsPage-WhatIWant-PrintablePlanning.jpg?v=1686944890
+  Price: $5.95 USD
+- [Cute Penguin Heart Balloon Valentine's Day Gift Tags - Printable](https://printableplanning.com/products/cute-penguin-heart-balloon-valentines-day-gift-tags-printable): Printable Cute Penguin Heart Balloon Valentine's Day Gift Tags designed with a cute rounded penguin holding a red heart balloon over "Happy Valentine's Day", and "To" and "From" below where you can write the gifting names by hand. These gift tags are ticket shaped, and are recommended to be printed on regular card stock. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Print a new page every time you need more. Use these printable Cute Penguin Heart Balloon Valentine's Day Gift Tags every year!
+  Updated: 2025-07-21T19:19:37Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CutePenguinHeartBalloonValentine_sDayGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687844032
+  Price: $5.95 USD
+- [Pink Gingham Love is Sweet Stickers - Printable](https://printableplanning.com/products/pink-gingham-love-is-sweet-stickers-printable): Printable Pink Gingham Love is Sweet Stickers for Valentine's Day designed with a slanted pink gingham pattern and a white frame area in the center with "Love is Sweet" in pink and gray fonts. They're perfect for sticking to your favorite sweets or goodies that you gift to others. These stickers are round in shape to be printed on regular card stock, sticker paper, or 2" 12-up round sticker paper. SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 tags per page. Round Tags measure a diameter of 2"+ each. (Includes a bleed for when used with 2" round sticker paper or when using a 2" round paper punch. Fits Avery template #22807 or comparable template. See Avery for details. Print a new page of these printable Pink Gingham Love is Sweet Stickers every time you need more.
+  Updated: 2025-08-21T02:24:23Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PinkGinghamLoveisSweetStickers12up-EXAMPLE-PrintablePlanning.jpg?v=1687885594
+  Price: $5.95 USD
+- [Pink Gingham Love is Sweet Gift Tags - Printable](https://printableplanning.com/products/pink-gingham-love-is-sweet-gift-tags-printable): Sweet printable Pink Gingham Love is Sweet Gift Tags for Valentine's Day gift tags that are designed with a slanted pink gingham background with a white frame design at the top that reads "Love is Sweet" in pink and gray. "To" and "From" are printed in gray over a transparent white rectangular area over the background so that you can write the names by hand. These gift tags are ticket-shaped, and are recommended to be printed on regular card stock. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Print a new page every time you need more. Use these printable Pink Gingham Love is Sweet Gift Tags every Valentine's Day!
+  Updated: 2025-07-21T19:19:38Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PinkGinghamLoveisSweetGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1687843976
+  Price: $5.95 USD
+- [Elderly Care, Daily Care Sheet - Printable](https://printableplanning.com/products/elderly-care-daily-care-sheet-printable): A printable Elderly Care, Daily Care Sheet for keeping track of the daily care of an elderly person who needs additional or monitored care. This caregiver's tracking sheet allows you to log a lot of information on a daily basis. This printable Elderly Care page tracks toilet use or diaper changes, meals or feedings, personal care, physical therapy, and blood pressure readings. It also logs activities, special care, and special concerns. There is also a section for keeping track of what supplies are running low or are needed, and a section for any additional notes. There is room on the left side of these Elderly Care sheets for you to use a 3-hole punch to organize your pages in a binder. Benefits for individualized care: You can personalize it at the top with the name of the person for whom you're caring. You can edit most of the line items under Personal Care, and all of the line items under Physical Therapy. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Print a new printable Elderly Care, Daily Care Sheet every day or as needed.
+  Updated: 2025-07-30T02:55:09Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Elderly_Care_-_Daily_Care_Sheet_-_Printable_Planning.jpg?v=1561318376
+  Price: $5.95 USD
+- [24-Hour Sleep Record, Monthly Sleep Tracking Sheet - Printable](https://printableplanning.com/products/24-hour-sleep-record-monthly-sleep-tracking-sheet-printable): A printable 24-Hour Sleep Record, Monthly Sleep Tracking Sheet for keep track of your monthly sleep hours. It includes both daytime hours and nighttime hours covering all 24 hours in a day, and can be logged over the course of up to 31 days for monthly sleep recording. You can record your totals for both the daytime hours and the nighttime hours for each day separately at the bottom. This 24-Hour Sleep Record is ideal for monthly sleep tracking for both personal use or for the sleep-tracking of another in caregiver's care. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Simple and clean. 24 hours, 31 Days, all on one page. There is a .25" border on each side, ideal for most printers. Print a new printable 24-Hour Sleep Record, Monthly Sleep Tracking Sheet every day or as needed.
+  Updated: 2025-07-29T23:58:17Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/24_Hour_Sleep_Record_-_Printable_Planning.jpg?v=1558039059
+  Price: $5.95 USD
+- [Teacher Thank You Notes - 2 Per Page, BUNDLE in 4 Colors - Printable](https://printableplanning.com/products/teacher-thank-you-notes-2-per-page-bundle-in-4-colors-printable): A bundle of printable Teacher Thank You Notes - 2 Per Page, BUNDLE in 4 Colors for your child or student to give to their teacher as a keepsake for the end of the school year. These thank you notes are available in 4 different color options: blue, green, pink, and purple. These 8.5" x 11" printable pages are set up 2 to a page. Simply print, cut in half, and have your child fill them out. Your child's teachers will love these fun and colorful thank you notes. Each thank you note includes: A line for the teacher's name. 2 lines for writing "I had so much fun when we". 2 lines for writing "I will always remember". A line for the student's name. A line for the student's grade. A line for the year given. SPECIFICATIONS: (4) 8.5" x 11" printable PDF pages in (1) ZIP file/folder. (2) 5.5" x 8.5" teacher thank you notes per (1) 8.5" x 11" printable page. Fun and colorful. 4 colors included: blue, green, pink, and purple. Print new pages from this printable Teacher Thank You Notes - 2 Per Page, BUNDLE in 4 Colors every year or every time you need more.
+  Updated: 2025-09-01T21:30:42Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableTeacherThankYou4COLORS-individuals-PrintablePlanning.jpg?v=1687790960
+  Price: $5.95 USD
+- [Invoice with Logo and Auto-Calculating Totals - Printable](https://printableplanning.com/products/invoice-with-logo-and-auto-calculating-totals-printable): An interactive printable invoice for small businesses that makes creating paper invoices for clients easy. This editable form allows you to add your logo to the top, add your business details, invoice and date, line items with amounts and quantities that auto-calculate totals for each line item, and then auto-calculates your totals along the way. Update your state and tax rate, add shipping or subtract discounts or payments and note what the discount or payment is from. You can also add a message at the bottom. ⭐ Save your file once you've added your logo from a desktop or laptop computer. Your saved invoice that will now include your logo can then be edited from a mobile device if desired. PRINTABLE INVOICE INCLUDES: Logo at the top. Colored or black and white. (Image will be centered and scaled to fit. A desktop or laptop computer MUST BE USED for this step and then saved.) Business details (business name, address, and phone number). "Bill to" name, address, and phone number. Date and invoice/order number. (A calendar menu appears to help with date selection.) Up to 7 line items with cost, quantity, and auto-calculating total cost. Subtotal (auto-calculates). Tax Rate (enter as decimal), Tax State (2-letter abbreviation), Tax (amount auto-calculates after you put in your tax rate percentage). Shipping. Total (auto-calculates). Payment(s) received or Discount(s). (Notes section to the left to explain this amount (include an asterisk, preceding this note). Enter amount as negative number with minus sign). Payment due (auto-calculates all fields). Payment Due Date. (A calendar menu appears to help with date selection.) Notes section at the bottom (up to 5 lines). ⚠️ NOTE: • Currency formatted for USD.• Total cost for line items that are not utilized will show $0.00 in that column.• Fonts, colors, and sections are available only as shown. The layout cannot be changed. Text positions cannot be moved. Everything is available as shown, you just change the information shown and the amounts. • This is an editable PDF file, not a computer program. It is not interactive with any accounting software or any other program. Adobe Acrobat Reader is most recommended for all editing.FILE TYPES for IMPORT: JPG, GIF, TIF, or PDF. • (There is a menu when you search for your image file that changes what type of images it looks for. PC defaults to JPG, but can be changed to PDF. Apple defaults to PDF, but can be changed to JPG.)⚠️---IMPORTANT!!!--- This editable logo/image function of the form can ONLY be done on a laptop or desktop PC or Apple computer, and preferably using Adobe Acrobat Reader (which is a free download at their site), for best results. You CANNOT use mobile devices such as iOS, Android, or other, using PDF apps instead of computer software. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Simple and clean. Editable PDF allows you to add your logo to the top in the provided area (centered) and edit relevant text information and amounts. FILE TYPES for IMPORT: JPG, GIF, TIF, or PDF. (There is a menu when you search for your image file that changes what type of images it looks for. PC defaults to JPG and other types, but can be changed to PDF. Apple defaults to PDF, but can be changed to JPG and other types.) Edit and print a new printable invoice as needed.
+  Updated: 2025-07-31T03:48:59Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Invoice_with_Logo_-_Auto-Calc_-_Printable_Planning.jpg?v=1559615756
+  Price: $9.95 USD
+- [Profit Loss Statement with Auto-Calculating Totals - Printable](https://printableplanning.com/products/profit-loss-statement-with-auto-calculating-totals-printable): An interactive printable Profit Loss statement for small businesses and eCommerce sole-proprietors. This editable form allows you to keep track of your monthly totals for revenue, cost of goods sold, expenses, and taxes. It auto-calculates your totals for you, for each section, for gross profit, and net profit. Page 2, a bonus page, is for small businesses to help them with their totals needed for filing their Quarterly Estimated Taxes, and have their Year End totals. The 2 page completely auto-calculates using the data from Page 1. This form is a great benefit to small business owners and sole-proprietors who do not use accounting software and don't have office suite software that is typically used for these calculations. BENEFITS: Edit line items in each section (the sections cannot be edited). This updates on both pages when change one page. Enter your totals for each line item, each month. Your totals will auto-calculate, saving you time and effort. The 2nd page, for the estimated quarterly numbers is a bonus page, so if those filing dates don't align with your business needs, though you still have the year end total on that page, you're still getting the monthly totals on the front page to use as you need! ⚠️ IMPORTANT DETAILS: • Currency formatted for USD.• IMPORTANT: Input negative numbers with a minus sign for all returns, costs, expenses, and tax rates. Calculations will not be correct without them.• Fonts, colors, and sections are available only as shown. The layout cannot be changed. Text positions cannot be moved. Everything is available as shown, you just change the highlighted information and the amounts.• THIS FORM IS NOT TO BE USED AS TAX ADVICE. No tax advice can be offered.• This is a 2-page editable PDF file, not a computer program. It is not interactive with any accounting software or any other program. Adobe Acrobat Reader is most recommended for all editing.• The calculated amounts can sometimes take a couple seconds to update. Input information for all rows in a column/month, adding $0.00 when an amount does not apply, to ensure the calculations can finish processing. Remember, this is a PDF file with a couple hundred interactive fields and calculations, not accounting software. Please be patient after adding or changing amounts or percentages. SPECIFICATIONS & BENEFITS: 2-Page 8.5" x 11" printable PDF. Professional clean layout. Use this Profit Loss statement every year. (It is recommended to save the file under a new name before proceeding, so you have the original file to start with when a new year begins.) Edit and print profit loss statement as needed.
+  Updated: 2025-08-24T06:46:01Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Profit_Loss_statement_-_YEAR_-_AutoCalc_pg1_-_Printable_Planning.jpg?v=1559712309
+  Price: $11.95 USD
+- [Personalized Chore Chart, Blue Weekly Page - Printable](https://printableplanning.com/products/personalized-chore-chart-blue-weekly-page-printable): A printable Personalized Chore Chart, Blue Weekly Page for your child. Using a PDF reader program or app, you can personalize their name, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. This visual and clean looking chore chart is a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Its versatile design makes it an ideal visual chore chart for anyone. ⭐ This purchase gets you the blue and gray chore chart. Other charts/colors are available in shop.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (1) 8.5" x 11" printable PDF page. Editable PDF. Edit: Name, chart title, chores list line items. Blue and gray color scheme, ideal for boys. Print a new printable Personalized Chore Chart, Blue Weekly Page every week or as needed.
+  Updated: 2025-09-15T21:22:58Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedBlueChoreChart-PrintablePlanning_625e8d17-d7b2-4856-8c0f-922cf00634d9.jpg?v=1687799997
+  Price: $5.95 USD
+- [Personalized Chore Chart, Green Weekly Page - Printable](https://printableplanning.com/products/personalized-chore-chart-green-weekly-page-printable): A printable Personalized Chore Chart, Green Weekly Page for your child. Using a PDF reader program or app, you can personalize their name, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. This visual and clean looking chore chart is a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Its versatile design makes it an ideal visual chore chart for anyone. ⭐ This purchase gets you the green and gray chore chart. Other charts/colors are available in shop.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (1) 8.5" x 11" printable PDF page. Editable PDF. Edit: Name, chart title, chores list line items. Green and gray color scheme, ideal for boys. Print a new printable Personalized Chore Chart, Green Weekly Page every week or as needed.
+  Updated: 2025-07-21T19:19:36Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedGreenChoreChart-PrintablePlanning_938de33a-28f0-4a6a-ab38-b176ff90d8ff.jpg?v=1687799979
+  Price: $5.95 USD
+- [Personalized Chore Chart, Red Weekly Page - Printable](https://printableplanning.com/products/personalized-chore-chart-red-weekly-page-printable): A printable Personalized Chore Chart, Red Weekly Page for your child. Using a PDF reader program or app, you can personalize their name, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. This visual and clean looking chore chart is a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Its versatile design makes it an ideal visual chore chart for anyone. ⭐ This purchase gets you the red and gray chore chart. Other charts/colors are available in shop.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (1) 8.5" x 11" printable PDF page. Editable PDF. Edit: Name, chart title, chores list line items. Red and gray color scheme, ideal for boys. Print a new printable Personalized Chore Chart, Red Weekly Page every week or as needed.
+  Updated: 2025-09-08T13:42:58Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedRedChoreChart-PrintablePlanning_32027fce-ea4a-4a31-ba56-97f8d009a484.jpg?v=1687800059
+  Price: $5.95 USD
+- [Personalized Chore Chart, Pink Weekly Page - Printable](https://printableplanning.com/products/personalized-chore-chart-pink-weekly-page-printable): A printable Personalized Chore Chart, Pink Weekly Page for your child. Using a PDF reader program or app, you can personalize their name, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. This visual and clean looking chore chart is a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Its versatile design makes it an ideal visual chore chart for anyone. ⭐ This purchase gets you the pink and gray chore chart. Other charts/colors are available in shop.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (1) 8.5" x 11" printable PDF page. Editable PDF. Edit: Name, chart title, chores list line items. Pink and gray color scheme, ideal for girls. Print a new printable Personalized Chore Chart, Pink Weekly Page every week or as needed.
+  Updated: 2025-07-21T19:19:35Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedPinkChoreChart-PrintablePlanning_36eb32a6-f319-44d3-935b-a205d1be2540.jpg?v=1687800049
+  Price: $5.95 USD
+- [Personalized Chore Chart, Purple Weekly Page - Printable](https://printableplanning.com/products/personalized-chore-chart-purple-weekly-page-printable): A printable Personalized Chore Chart, Purple Weekly Page for your child. Using a PDF reader program or app, you can personalize their name, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. This visual and clean looking chore chart is a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Its versatile design makes it an ideal visual chore chart for anyone. ⭐ This purchase gets you the purple and gray chore chart. Other charts/colors are available in shop.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (1) 8.5" x 11" printable PDF page. Editable PDF. Edit: Name, chart title, chores list line items. Purple and gray color scheme, ideal for girls. Print a new printable Personalized Chore Chart, Purple Weekly Page every week or as needed.
+  Updated: 2025-07-21T19:19:35Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedPurpleChoreChart-PrintablePlanning_d277404e-e813-441f-a3d8-371c7078ec11.jpg?v=1687799990
+  Price: $5.95 USD
+- [Personalized Chore Chart BUNDLE, Blue Purple Weekly Pages - Printable](https://printableplanning.com/products/personalized-chore-chart-bundle-blue-purple-weekly-pages-printable): A printable Personalized Chore Chart BUNDLE, Blue Purple Weekly Pages for your children. Using a PDF reader program or app, you can personalize their names, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. These visual and clean looking chore charts are a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Their versatile design makes them ideal visual chore charts for anyone. ⭐ This purchase includes the blue and purple chore charts. Other charts/colors/bundles are available in shop, individually as well.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Editable PDF. Edit: Name, chart title, chores list line items. Bundle includes: Blue and purple colors. Print new pages from this Personalized Chore Chart BUNDLE, Blue Purple Weekly Pages every week or as needed.
+  Updated: 2025-10-19T05:40:10Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedBluePurpleChoreChart-PrintablePlanning.jpg?v=1687799993
+  Price: $7.95 USD
+- [Personalized Chore Chart BUNDLE, Pink Blue Weekly Pages - Printable](https://printableplanning.com/products/personalized-chore-chart-bundle-pink-blue-weekly-pages-printable): A printable Personalized Chore Chart BUNDLE, Pink Blue Weekly Pages for your children. Using a PDF reader program or app, you can personalize their names, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. These visual and clean looking chore charts are a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Their versatile design makes them ideal visual chore charts for anyone. ⭐ This purchase includes the pink and blue chore charts. Other charts/colors/bundles are available in shop, individually as well.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Editable PDF. Edit: Name, chart title, chores list line items. Bundle includes: Pink and blue colors. Print new pages from this Personalized Chore Chart BUNDLE, Pink Blue Weekly Pages every week or as needed.
+  Updated: 2025-12-07T10:03:36Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedPinkBlueChoreChart-PrintablePlanning.jpg?v=1687800047
+  Price: $7.95 USD
+- [Personalized Chore Chart BUNDLE, Pink Purple Weekly Pages - Printable](https://printableplanning.com/products/personalized-chore-chart-bundle-pink-purple-weekly-pages-printable): A printable Personalized Chore Chart BUNDLE, Pink Purple Weekly Pages for your children. Using a PDF reader program or app, you can personalize their names, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. These visual and clean looking chore charts are a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Their versatile design makes them ideal visual chore charts for anyone. ⭐ This purchase includes the pink and purple chore charts. Other charts/colors/bundles are available in shop, individually as well.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Editable PDF. Edit: Name, chart title, chores list line items. Bundle includes: Pink and purple colors. Print new pages from this Personalized Chore Chart BUNDLE, Pink Purple Weekly Pages every week or as needed.
+  Updated: 2025-10-16T14:06:15Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedPinkPurpleChoreChart-PrintablePlanning.jpg?v=1687799963
+  Price: $7.95 USD
+- [Personalized Chore Chart BUNDLE, Blue Green Weekly Pages - Printable](https://printableplanning.com/products/personalized-chore-chart-bundle-blue-green-weekly-pages-printable): A printable Personalized Chore Chart BUNDLE, Blue Green Weekly Pages for your children. Using a PDF reader program or app, you can personalize their names, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. These visual and clean looking chore charts are a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Their versatile design makes them ideal visual chore charts for anyone. ⭐ This purchase includes the blue and green chore charts. Other charts/colors/bundles are available in shop, individually as well.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (2) @ 8.5" x 11" printable PDF pages. Editable PDF. Edit: Name, chart title, chores list line items. Bundle includes: Blue and Green colors. Print new pages from this printable Personalized Chore Chart BUNDLE, Blue Green Weekly Pages every week or as needed.
+  Updated: 2025-07-21T19:19:35Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedBlueGreenChoreChart-PrintablePlanning.jpg?v=1687800070
+  Price: $7.95 USD
+- [Personalized Chore Chart BUNDLE, 5 Colored Weekly Pages - Printable](https://printableplanning.com/products/personalized-chore-chart-bundle-5-colored-weekly-pages-printable): A printable Personalized Chore Chart BUNDLE, 5 Colored Weekly Pages for your children, in blue, purple, green, pink, and red. Using a PDF reader program or app, you can personalize their names, the text below the name, and the list of chores on the left before you print. This allows you to change their chores as needed, as they grow. These visual and clean looking chore charts are a clear way to manage your young child's, teenager's or even your own, chores or tasks for the week. Their versatile design makes them ideal visual chore charts for anyone. ⭐ This purchase includes 5 colored chore charts. Other charts/colors/bundles are available in shop, in bundles of 2, or individually as well.⚠️ NOTE: Font and text size is only available as shown. The chores list text is in a 1-line format. Your text must fit in that line. SPECIFICATIONS: (5) @ 8.5" x 11" printable PDF pages. Editable PDF. Edit: Name, chart title, chores list line items. Bundle includes: Blue, Purple, Green, Pink, and Red colors. Print new printable Personalized Chore Chart BUNDLE, 5 Colored Weekly Pages every week or as needed.
+  Updated: 2025-07-21T19:19:35Z
+  Vendor: Artistically Invited
+  Product Type: Chore Chart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedALLCOLORSChoreChart-PrintablePlanning.jpg?v=1687800038
+  Price: $9.95 USD
+- [My Summer Plan, Watermelon Summer Planner Page - Printable](https://printableplanning.com/products/my-summer-plan-watermelon-summer-planner-page-printable): A printable My Summer Plan, Watermelon Summer Planner Page for kids, teenagers, or adults to help plan out their summer vacation or summer months. This printable summer plan has a stylized watermelon background design, with My Summer Plan in a white script font at the top, and 4 categories for planning your summer. Categories included: My daily to-do list (lines to write the things you need to do on a daily basis). On the calendar (with lines to write the dates and events). Summer bucket list (lines to write them down and circles to check them off when completed). Books to read (specify 2 books you definitely want to read, and up to 9 circles to fill in for total number of books read). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Colorful and fun watermelon design. (The stylized glitter background is a printed illustration, not actual glitter.) There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Summer Plan, Watermelon Summer Planner Page every summer or as needed.
+  Updated: 2025-08-18T23:35:40Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Summer_Plan_-_Watermelon_design_-_Printable_Planning.jpg?v=1560096531
+  Price: $5.95 USD
+- [My Summer Plan, Watercolor Planner Page in Pink Purple Blue - Printable](https://printableplanning.com/products/my-summer-plan-watercolor-summer-planner-page-printable): A printable My Summer Plan, Watercolor Planner Page in Pink Purple Blue for kids, teenagers, or adults to help plan out their summer vacation or summer months. This printable summer plan has a pink, purple, and blue to white ombre background design, with My Summer Plan in a purple script font at the top, and 4 categories for planning your summer. Categories included: My daily to-do list (lines to write the things you need to do on a daily basis). On the calendar (with lines to write the dates and events). Summer bucket list (lines to write them down and circles to check them off when completed). Books to read (specify 2 books you definitely want to read, and up to 9 circles to fill in for total number of books read). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern watercolor design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Summer Plan, Watercolor Planner Page in Pink Purple Blue every summer or as needed.
+  Updated: 2025-08-04T21:57:21Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Summer_Plan_-_Watercolor_design_-_Printable_Planning.jpg?v=1560096521
+  Price: $5.95 USD
+- [My Summer Plan, Watercolor Planner Page in Blue Green Yellow - Printable](https://printableplanning.com/products/my-summer-plan-watercolor-planner-page-in-blue-green-yellow-printable): A printable My Summer Plan, Watercolor Planner Page in Blue Green Yellow for teenagers or adults to help plan out their summer vacation or summer months. This printable summer plan has a blue, green, and yellow to white ombre background design, with My Summer Plan in a blue script font at the top, and 4 categories for planning your summer. Categories included: My daily to-do list (lines to write the things you need to do on a daily basis). On the calendar (with lines to write the dates and events). Summer bucket list (lines to write them down and circles to check them off when completed). Books to read (specify 2 books you definitely want to read, and up to 9 circles to fill in for total number of books read). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern watercolor design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Summer Plan, Watercolor Planner Page in Blue Green Yellow every summer or as needed.
+  Updated: 2025-07-21T19:19:34Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Summer_Plan_-_Watercolor_design_Blue_Green_Yellow_-_Printable_Planning.jpg?v=1560096525
+  Price: $5.95 USD
+- [My Summer Plan, Blue Planner Page - Printable](https://printableplanning.com/products/my-summer-plan-blue-planner-page-printable): A printable My Summer Plan, Blue Planner Page for kids, teenagers, or adults to help plan out their summer vacation or summer months. This printable summer plan has a modern blue background design, with My Summer Plan in a white script font at the top, and 4 categories for planning your summer. Categories included: My daily to-do list (lines to write the things you need to do on a daily basis). On the calendar (with lines to write the dates and events). Summer bucket list (lines to write them down and circles to check them off when completed). Books to read (specify 2 books you definitely want to read, and up to 9 circles to fill in for total number of books read). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern blue design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Summer Plan, Blue Planner Page every summer or as needed.
+  Updated: 2025-09-11T16:25:27Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Summer_Plan_-_Blue_-_Printable_Planning.jpg?v=1560096539
+  Price: $5.95 USD
+- [My Summer Plan, Pink Planner Page - Printable](https://printableplanning.com/products/my-summer-plan-pink-planner-page-printable): A printable My Summer Plan, Pink Planner Page for kids, teenagers, or adults to help plan out their summer vacation or summer months. This printable summer plan has a modern pink background design, with My Summer Plan in a white script font at the top, and 4 categories for planning your summer. Categories included: My daily to-do list (lines to write the things you need to do on a daily basis). On the calendar (with lines to write the dates and events). Summer bucket list (lines to write them down and circles to check them off when completed). Books to read (specify 2 books you definitely want to read, and up to 9 circles to fill in for total number of books read). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern pink design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Summer Plan, Pink Planner Page every summer or as needed.
+  Updated: 2025-07-21T19:19:34Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Summer_Plan_-_Pink_-_Printable_Planning.jpg?v=1560096535
+  Price: $5.95 USD
+- [My Summer Plan, Purple Planner Page - Printable](https://printableplanning.com/products/my-summer-plan-purple-planner-page-printable): A printable My Summer Plan, Purple Planner Page for kids, teenagers, or adults to help plan out their summer vacation or summer months. This printable summer plan has a modern purple background design, with My Summer Plan in a white script font at the top, and 4 categories for planning your summer. Categories included: My daily to-do list (lines to write the things you need to do on a daily basis). On the calendar (with lines to write the dates and events). Summer bucket list (lines to write them down and circles to check them off when completed). Books to read (specify 2 books you definitely want to read, and up to 9 circles to fill in for total number of books read). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern purple design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Summer Plan, Purple Planner Page every summer or as needed.
+  Updated: 2025-07-21T19:19:34Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Summer_Plan_-_Purple_-_Printable_Planning.jpg?v=1560096544
+  Price: $5.95 USD
+- [My Plan for the Week, Purple Weekly Planner Page - Printable](https://printableplanning.com/products/my-plan-for-the-week-purple-weekly-planner-page-printable): A printable My Plan for the Week, Purple Weekly Planner Page with a grid format. Each row is a day of the week with the weekend days shaded. This purple to-do list for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled, you fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern purple and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Plan for the Week, Purple Weekly Planner Page every week or as needed.
+  Updated: 2025-08-24T00:27:18Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Plan_for_the_Week_-_Purple_Grid_-_Printable_Planning_d864bfce-0c3c-455c-b752-c302818fd226.jpg?v=1560293187
+  Price: $5.95 USD
+- [My Plan for the Week, Pink Weekly Planner Page - Printable](https://printableplanning.com/products/my-plan-for-the-week-pink-weekly-planner-page-printable): A printable My Plan for the Week, Pink Weekly Planner Page with a grid format. Each row is a day of the week with the weekend days shaded. This pink to-do list for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled, you fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern pink and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Plan for the Week, Pink Weekly Planner Page every week or as needed.
+  Updated: 2025-08-27T03:52:20Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Plan_for_the_Week_-_Pink_Grid_-_Printable_Planning_bbe5e2c1-dc57-4d76-a088-301e28728b6f.jpg?v=1560293204
+  Price: $5.95 USD
+- [My Plan for the Week, Turquoise Weekly Planner Page - Printable](https://printableplanning.com/products/my-plan-for-the-week-turquoise-weekly-planner-page-printable): A printable My Plan for the Week, Turquoise Weekly Planner Page with a grid format. Each row is a day of the week with the weekend days shaded. This turquoise to-do list for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled. You will fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern turquoise and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Plan for the Week, Turquoise Weekly Planner Page every week or as needed.
+  Updated: 2025-07-21T19:19:34Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Plan_for_the_Week_-_Turquoise_Grid_-_Printable_Planning_e2b4d3cd-ae8d-4911-b74d-562a47cc404e.jpg?v=1560293228
+  Price: $5.95 USD
+- [My Tasks for the Week, Turquoise To-Do List, Task Checklist - Printable](https://printableplanning.com/products/my-tasks-for-the-week-turquoise-to-do-list-task-checklist-printable): Introducing the My Tasks for the Week, Turquoise To-Do List, Task Checklist! A printable weekly to-do list with a grid format. Each row is a day of the week with the weekend days shaded. This turquoise task checklist for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled, you fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern turquoise and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Tasks for the Week, Turquoise To-Do List, Task Checklist page every week or as needed.
+  Updated: 2025-08-27T00:44:53Z
+  Vendor: Artistically Invited
+  Product Type: To-Do List
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Tasks_for_the_Week_-_Turquoise_Grid_-_Printable_Planning.jpg?v=1560293208
+  Price: $5.95 USD
+- [My Tasks for the Week, Pink To-Do List, Task Checklist - Printable](https://printableplanning.com/products/my-tasks-for-the-week-pink-to-do-list-task-checklist-printable): Introducing the My Tasks for the Week, Pink To-Do List, Task Checklist! A pink printable weekly to-do list with a grid format. Each row is a day of the week with the weekend days shaded. This pink task checklist for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled, you fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern pink and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Tasks for the Week, Pink To-Do List, Task Checklist page every week or as needed.
+  Updated: 2025-07-21T19:19:33Z
+  Vendor: Artistically Invited
+  Product Type: To-Do List
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Tasks_for_the_Week_-_Pink_Grid_-_Printable_Planning.jpg?v=1560293219
+  Price: $5.95 USD
+- [My Tasks for the Week, Purple To-Do List, Task Checklist - Printable](https://printableplanning.com/products/my-tasks-for-the-week-purple-to-do-list-task-checklist-printable): Introducing the My Tasks for the Week, Purple To-Do List, Task Checklist! A purple printable weekly to-do list with a grid format. Each row is a day of the week with the weekend days shaded. This purple task checklist for the week has a column for important tasks, regular tasks, and a place to write notes. Each task you write has up to 4 completion circles that you can fill in when the task is completed. Columns included: Day and Date. (Day is pre-filled, you fill in the date vertically.) Important Tasks (with 4 completion circles per day of the week). Tasks (with 4 completion circles per day of the week). Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Modern purple and gray design. There is a .25" border on each side, ideal for most printers. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable My Tasks for the Week, Purple To-Do List, Task Checklist page every week or as needed.
+  Updated: 2025-07-21T19:19:33Z
+  Vendor: Artistically Invited
+  Product Type: To-Do List
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Tasks_for_the_Week_-_Purple_Grid_-_Printable_Planning.jpg?v=1560293213
+  Price: $5.95 USD
+- [Phone Call Message Log - Printable](https://printableplanning.com/products/phone-call-message-log-printable): A printable phone call message log ideal for small businesses. Use this printable call log or call back list to write down the messages received, along with name and a contact number, date and time, and check off if the person wants a call back. Items included in each message block: Name. Contact Number. Date. Time. Message (with 4 lines for the message). Call back (checkbox). SPECIFICATIONS: 8.5" x 11" printable PDF page. Clean and simple design. 4 message blocks per page. There is a .25" border on each side, ideal for most printers. Excellent for small businesses. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new phone call message log every time you need more.
+  Updated: 2025-07-31T04:07:09Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Phone_Call_Message_Log_x4_blocks_-_Printable_Planning.jpg?v=1560293194
+  Price: $5.95 USD
+- [Schedule Sheet in 15 Minute Increments, 3 columns, front and back - Printable](https://printableplanning.com/products/schedule-sheet-in-15-minute-increments-front-and-back-printable): A printable schedule log with 3 columns ranging from 8:00 am through 7:00 pm, in 15 minute increments. This 2-page (front and back) schedule sheet or appointment sheet is perfect for small businesses such as salons, cosmetology centers, chiropractors, and other businesses where you write schedules for the day by hand. Benefits: Front and back page alignments to allow for a 3-hole punch for binder inclusion. Times range from 8:00am through 7:00pm, accommodating a majority of business hours. 15 minute increments. 3 columns per side, allowing 3 people to be scheduled for, or 6 columns per page, for up to 6 professionals. Write any date at the top of both sides. Print forever. Keep this file, printing your schedule sheets as you need them, never needing to buy schedule books. SPECIFICATIONS: 2-page (front and back) 8.5" x 11" printable PDF file. Clean and simple design. There is a .25" border on each side, ideal for most printers. Room for 3-hole punch (DIY). (It's suggested to use a 3-hole punch on these printed sheets.) Excellent for small businesses. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print new schedule or appointment sheets every time you need more.
+  Updated: 2025-07-30T09:32:42Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Schedule_Log_by_15min_-_Front_-_Printable_Planning.jpg?v=1560620806
+  Price: $5.95 USD
+- [Printable RSVP List with Meal Choices for Weddings and Events](https://printableplanning.com/products/rsvp-list-with-meal-choices-printable): Track RSVP details and meal choices for your event or occasion with this printable RSVP List. Easy-to-use PDF, editable text, and 25 guest rows per page.
+  Updated: 2025-11-29T08:44:13Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/RSVP_List_with_Meal_Choices_-_Printable_Planning.jpg?v=1560726050
+  Price: $5.95 USD
+- [Disability Care, Daily Care Sheet - Printable](https://printableplanning.com/products/disability-care-daily-care-sheet-printable): A printable Disability Care, Daily Care Sheet for keeping track of the daily care of a disabled person or a person with a disability who needs additional or monitored care. This caregiver's tracking sheet allows you to log a lot of information on a daily basis. This printable Disability Care page tracks toilet use or diaper changes, meals or feedings, personal care, physical therapy, and blood pressure readings. It also logs activities, special care, and special concerns. There is also a section for keeping track of what supplies are running low or are needed, and a section for any additional notes. There is room on the left side of these Disability Care sheets for you to use a 3-hole punch to organize your pages in a binder. Benefits for individualized care: You can personalize it at the top with the name of the person for whom you're caring. You can edit most of the line items under Personal Care, and all of the line items under Physical Therapy. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Print a new printable Disability Care, Daily Care Sheet every day or as needed.
+  Updated: 2025-09-07T00:33:53Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Disability_Care_-_Daily_Care_Sheet_-_Printable_Planning.jpg?v=1561318368
+  Price: $5.95 USD
+- [Fundraising Form, 12 Item Columns - Printable](https://printableplanning.com/products/fundraising-form-12-item-columns-printable): A printable fundraising form, 12 item columns with editable fields to fit your organization and cause, and fundraising items. Personalize this PDF file with your cause, organization and contact information, with your items and their prices, and a note along the bottom. This form supports up to 12 items with their prices and up to 10 customers per page. Editable Sections: Fundraising cause (1 line). Organization name, address, and phone (up to 4 lines). 12 Items and their prices. Note along the bottom (1 line). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Simple and clean. Edit the designated text. Fonts, colors, and layout are available only as shown. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable fundraising form with 12 item columns as needed for your fundraiser(s).
+  Updated: 2025-07-31T02:17:24Z
+  Vendor: Artistically Invited
+  Product Type: Fundraising Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Fundraising_Form_-_12_Items_-_Printable_Planning.jpg?v=1561619353
+  Price: $5.95 USD
+- [School Day Plan - Teacher Daily Planning Page - Printable](https://printableplanning.com/products/school-day-plan-teacher-daily-planning-printable): Printable School Day Plan - Teacher Daily Planning Page for teachers for planning their day to day school life. This teacher's daily planning page has a to-do list with check-boxes, a school day schedule for the day's schedule or scheduled tasks, a thoughts and ideas box, an administrative tasks section, and a blank space for notes. Print as many sheets as you need, or a new sheet every time you need one. Use this sheet for every day of the school year to stay organized. It's offset to the right to allow you to use a 3-hole punch for organizing your pages in a binder. Sections included: To-Do list with check-boxes. School day schedule lines (7:00 am through 3:30 pm). Thoughts and ideas box for brainstorming. Administrative Tasks list with check-boxes. Notes (blank space for anything). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Full page. Simple design. Use every day of every school year. Offset to the right to allow room for 3-hole punch for binder inclusion. Print a new printable School Day Plan - Teacher Daily Planning Page every time you need more.
+  Updated: 2025-07-21T19:19:31Z
+  Vendor: Artistically Invited
+  Product Type: School and Teachers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/School_Day_Plan_-_Teacher_Daily_Planning_-_Printable_Planning.jpg?v=1686174048
+  Price: $5.95 USD
+- [Sinking Funds Savings Chart, 1 Year Bi-Weekly - Printable](https://printableplanning.com/products/sinking-funds-savings-chart-1-year-bi-weekly-printable): A printable Sinking Funds Savings Chart, 1 Year Bi-Weekly with auto-calculating totals to help you save up for anything you want or need. This sinking funds chart is for when you have a goal or item to save money over 1 year when you have bi-weekly pay periods or plan to put money aside every 2 weeks. ⭐ How it works: Personalize this worksheet with the name of the thing or goal for which you're saving. Enter the total amount you need to save. This sheet will then auto-calculate the bi-weekly amount you'll need to save every 2 weeks. It will also pre-fill your progressive totals next to your bi-weekly boxes, keeping track of the total amount that will be saved as you go. As you save your money every 2 weeks, use a marker or crayon or whatever else you want to use to fill in the boxes for that period in the progress bar as you go so you can see your savings progress! ⭐ NOTE: This is only for: 1 Year time period. Bi-weekly savings. SPECIFICATIONS: 8.5" x 11" printable PDF page. (Use PDF Reader to make the applicable edits). 1 Year. Bi-Weekly savings. Personalize the item/goal for which you're saving. Chart auto-calculates all sub-totals when you edit your total amount. The lack of a currency symbol makes this chart work for most currencies. Easily keep track of your progress while saving. Print a new printable Sinking Funds Savings Chart, 1 Year Bi-Weekly with auto-calculating totals whenever needed.
+  Updated: 2025-07-31T18:12:21Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Sinking_Funds_-_1_Year_Bi-Weekly_-_Printable_Planning.jpg?v=1686174005
+  Price: $5.95 USD
+- [Sinking Funds Savings Chart, 6 Months Weekly - Printable](https://printableplanning.com/products/sinking-funds-savings-chart-6-months-weekly-printable): A printable Sinking Funds Savings Chart, 6 Months Weekly page with auto-calculating totals to help you save up for anything you want or need. This sinking funds chart is for when you have a goal or item to save money over 6 months when you have weekly pay periods or plan to put money aside every week. ⭐ How it works: Personalize this worksheet with the name of the thing or goal for which you're saving. Enter the total amount you need to save. This sheet will then auto-calculate the weekly amount you'll need to save every week. It will also pre-fill your progressive totals next to your weekly boxes, keeping track of the total amount that will be saved as you go. As you save your money every week, use a marker or crayon or whatever else you want to use to fill in the boxes for that period in the progress bar as you go so you can see your savings progress! ⭐ NOTE: This is only for: 6 Month time period. Weekly savings. SPECIFICATIONS: 8.5" x 11" printable PDF page. (Use PDF Reader to make the applicable edits). 6 Months. Weekly savings. Personalize the item/goal for which you're saving. Chart auto-calculates all sub-totals when you edit your total amount. The lack of a currency symbol makes this chart work for most currencies. Easily keep track of your progress while saving. Print a new printable Sinking Funds Savings Chart, 6 Months Weekly page with auto-calculating totals whenever needed.
+  Updated: 2025-07-21T19:19:31Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Sinking_Funds_-_6_Months_Weekly_-_Printable_Planning.jpg?v=1686174458
+  Price: $5.95 USD
+- [Printable Kraft design Black and White Christmas Gift Tags | DIY](https://printableplanning.com/products/kraft-design-black-and-white-christmas-gift-tags-printable): Personalize your holiday gifts with these Printable Kraft design Black and White Christmas Gift Tags. Customizable 'to' and 'from' names, easy DIY project.
+  Updated: 2025-09-10T22:47:43Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableKraftBlackandWhiteChristmasGiftTags-EXAMPLE-PrintablePlanning_0b6e0ac3-f0b3-4e47-9a89-45ca58edbbbb.jpg?v=1687843958
+  Price: $5.95 USD
+- [Disability with Physical Therapy Daily Care Sheet - Printable](https://printableplanning.com/products/disability-with-physical-therapy-daily-care-sheet-printable): A printable Disability with Physical Therapy Daily Care Sheet log for keeping track of the daily care and physical therapy of a disabled person or a person with a disability who needs additional or monitored care and therapy. This caregiver's tracking sheet allows you to log a lot of information on a daily basis. This printable page tracks toilet use, meals, personal care, physical therapy, stretching and range of motion, and blood pressure readings. It also logs social or extra activities, pain complaints, and a notes section for any additional information such as supplies needed or care notes. There is room on the left side of these Disability with Physical Therapy Care sheets for you to use a 3-hole punch to organize your pages in a binder. Benefits for individualized care: You can personalize it at the top with the name of the person for whom you're caring, next to a line where the caregiver will give their signature. You can edit most of the line items under Personal Care, and all of the activity line items under Physical Therapy. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Print a new printable Disability with Physical Therapy Daily Care Sheet every day or as needed.
+  Updated: 2025-10-18T03:35:41Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Disability_with_Therapy_-_Daily_Care_Sheet_-_Printable_Planning.jpg?v=1686174086
+  Price: $5.95 USD
+- [Medication Schedule for Long Prescription Medicine Lists - Printable](https://printableplanning.com/products/medication-schedule-for-long-prescription-medicine-lists-printable): A printable Medication Schedule for keeping track of a long list of medicines (and vitamins) that need to be taken throughout the day at different time schedules. This is ideal for people who have a large regimen of medications that need to be administered throughout the day, all at different times. Checking the medicines off as you take them (or administer them) helps to clearly see in a glance what has already been taken and what still remains that day. There is room on the left side of these Medication Schedule sheets for you to use a 3-hole punch to organize your pages in a binder. Benefits: You can personalize it at the top with the name of the person and date of birth. Edit list of medications in order of time administered, listing time, medication name and short description, and dosage. Listing by time of day allows you to list the same medication multiple times if it is to be taken more than once a day. Handwrite dates so list does not have to be re-edited every week. Check off medicines as they are administered for each day of the week to clearly see progress and keep schedule organized. 7 days of the week are included on one page. If your scheduled list is longer than one page, print two and continue your list on the second page. SPECIFICATIONS & BENEFITS: (2) 8.5" x 11" printable PDF pages. (1) file for PDF app editing and (1) file that is blank for writing by hand. Offset to the right to allow for a 3-hole punch. Simple and clean. Fonts and layout are available only as shown. Print a new Medication Schedule every week, or any time your list of medicines or their schedule change, or as needed.
+  Updated: 2025-07-31T03:27:13Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Medication_Schedule_-_Weekly_-_Printable_Planning.jpg?v=1686174236
+  Price: $5.95 USD
+- [I Pick You Guitar Valentine's Day Cards - Printable](https://printableplanning.com/products/i-pick-you-guitar-valentines-day-cards-printable): Printable I Pick You Guitar Valentine's Day Cards designed with an illustration of an acoustic guitar over a blue flourish design with a large guitar pick to the right with the words "I pick you" in white within the pick. "To" and "From" are printed with blue lines below the guitar design so that you can write the names by hand. These cards are rectangular shaped, and are recommended to be printed on regular card stock. These cards are DIY and are to be cut out by you on the gray outlines. SPECIFICATIONS: 8.5" x 11" printable PDF page. 6 cards per page. Cards measure 3" x 4" each when cut. Print a new page every time you need more. Use these printable I Pick You Guitar Valentine's Day Cards every year or whenever you want to send a sweet sentiment that's music themed.
+  Updated: 2025-08-21T08:32:48Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/IPickYou-GuitarValentine_sDayCards-EXAMPLE-PrintablePlanning.jpg?v=1687885585
+  Price: $5.95 USD
+- [Elderly Care, Daily Care Sheet with Housekeeping - Printable](https://printableplanning.com/products/elderly-care-daily-care-sheet-with-housekeeping-printable): The Printable Elderly Care, Daily Care Sheet with Housekeeping is an essential tool for caregivers who are responsible for the daily care and monitoring of elderly individuals who require additional support. This comprehensive and user-friendly tracking sheet is designed to help caregivers ensure that all aspects of the elderly person's care are meticulously recorded, promoting both individualized care and effective communication among caregiving teams. Comprehensive Tracking for Care: This daily care sheet is carefully structured to cover a wide range of care needs. It includes sections for tracking: Toilet Use or Diaper Changes: Monitor and log each occurrence, ensuring that the individual's hygiene and comfort are consistently maintained. Meals or Feedings: Document what the elderly person eats or drinks throughout the day, which is crucial for ensuring proper nutrition and managing any dietary restrictions. Personal Care: Track completion of activities such as bathing, dressing, grooming, and oral hygiene. The sheet allows for personalization of most line items under this category, enabling you to tailor the care to the individual's specific needs. Physical Therapy: Log completion of exercises or physical therapy activities that the person engages in. This section is editable, allowing for customization based on the therapy regimen prescribed by healthcare professionals. Housekeeping Tasks: Record completion of housekeeping activities that are necessary for maintaining a clean and safe living environment. Like the Physical Therapy section, all line items under Housekeeping are editable to suit the specific needs of the household. Activities: Keep track of recreational activities, social interactions, or any other daily engagements that contribute to the individual's mental and emotional well-being. Special Care: This section is dedicated to recording any medicines administered, including the time and dosage given. It helps ensure that medications are provided consistently and correctly, reducing the risk of missed doses or errors in administration. Supplies: This section allows caregivers to monitor and record supplies that are running low or needed, ensuring that essential items are always in stock. Additional Notes: Use this space to add any extra information or concerns that may not fit into the other categories but is still important for the individual’s care. Caregiver Signature: A designated line for the caregiver’s signature provides accountability and helps in maintaining a clear record of who provided care on any given day. Benefits for Individualized Care: The Elderly Care, Daily Care Sheet is designed with personalization in mind. At the top of the page, you can easily personalize the sheet with the name of the person receiving care, making it easy to organize and refer to specific individuals. Additionally, the ability to edit most of the line items under Personal Care, as well as all of the line items under Physical Therapy and Housekeeping, ensures that the care plan is tailored to meet the unique needs of each person. Who Benefits from This Care Sheet? This care sheet is particularly beneficial for caregivers, both professional and family members, who need a structured and reliable way to track the care they provide. It is also invaluable for healthcare providers who require detailed documentation to make informed decisions about an individual's care plan. By using this sheet, caregivers can ensure that all aspects of care are addressed, reducing the risk of oversight and enhancing the quality of life for the elderly person. Why Is This Form Important? Using this care sheet is crucial for maintaining a high standard of care. It provides a clear and organized method for recording daily activities and needs, which is essential for continuity of care, especially when multiple caregivers are involved. This form also serves as a communication tool that can be easily shared with healthcare providers, family members, and other stakeholders, ensuring that everyone is informed and involved in the care process. With space on the left side of the page for a 3-hole punch, these sheets can be conveniently organized in a binder, allowing caregivers to keep a well-documented record of the care provided over time. This organized approach not only supports better care but also provides peace of mind to caregivers and families alike. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Editable: Name at the top, 3 line items in Personal Care, all line items under Physical Therapy, and all line items under Housekeeping. (See product image with the blue fields.) Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Print a new printable Elderly Care, Daily Care Sheet with Housekeeping page every day or as needed.
+  Updated: 2025-07-30T16:55:27Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/ElderlyCare-DailyCareSheetwithHousekeeping-PrintablePlanning.jpg?v=1686174300
+  Price: $5.95 USD
+- [Bill Payment Tracker Log - Printable xlsm EXCEL file](https://printableplanning.com/products/bill-payment-tracker-log-printable-xlsm-excel-file): An in-app (Excel) and printable bill payment tracker log to help you keep track of paying your bills every month so that you don't miss or forget a payment for the entire year. Do you have a lot of bills? Do you dread paying bills and keeping all of the due dates straight? This bill payment tracker is designed to help you never miss a bill payment date again. ⭐ How to use: Gather all of your bills and put them input them into the Excel sheet in order by the date they're due. Include anything that is due every month on the same date. Include the name of the bill, the typical rounded dollar amount owed, and the date of each month that it is due. As you pay your bills, click to add a check to the checkbox of the month that you paid the bill. (NOTE: You may also input the info of your bills and print to add the checks to the checkboxes yourself by hand via pen or pencil.) ⭐ IMPORTANT (please read): This .xlsm (Excel) file is macro-enabled, so your application must support this. It allows the checkboxes to function. Input only. You may fill in your bill details and add checks to each checkbox, however the months and layout of the form cannot be selected or changed. UPDATE: The dollar amount column has been made slightly wider than the date column, as shown in the main product image (not the in-app images). This Excel file or printable sheet will help you for an entire year. It allows you to immediate see what bills you have already paid and which bills are due next. It allows you to see if you're behind on anything and if you've paid ahead on any as well. It's an instant visual of the current state of all of your bills. SPECIFICATIONS: Excel .xlsm file (macro-enabled). Excel application required (not included). Formatted to fit an 8.5" x 11" page when printed. Simple and clean. Easily keep track of your bills as you pay them. Digital/Printable purchase. No physical goods will be sent. (Application to read/use file not included).
+  Updated: 2025-07-30T23:34:53Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/BillPaymentTrackerLogEXCEL-mainimage-PrintablePlanning.jpg?v=1686173925
+  Price: $5.95 USD
+- [Elderly Independent Living Daily Page for Memory - Printable](https://printableplanning.com/products/elderly-independent-living-daily-page-for-memory-printable): Printable elderly independent living daily page for memory designed for older adults for tracking their day to day life and helping them retain independence by keeping track of their activities and self-care. This elderly daily log sheet has a column for keeping track of their meals and beverages, a to-do list with check-boxes, a section for tracking who they talked to that day or visited with, a thoughts and ideas box for creativity, and a blank space for miscellaneous notes. Print as many sheets as you need, or a new sheet every time you need one. Use this sheet for every day to stay organized and give elderly adults more independence in their care. It's offset to the right to allow you to use a 3-hole punch for organizing your pages in a binder. Sections included: Meals and Beverages tracking. To-Do list with check-boxes. People - Phone Calls and Visits tracking. Thoughts and ideas box for creativity and feelings. Notes (blank space for anything). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Full page. Simple design. Offset to the right to allow room for 3-hole punch for binder inclusion. Print a new "My Day" printable elderly independent living daily page for memory page every time you need more.
+  Updated: 2025-07-30T17:53:41Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/MyDay-ElderlyIndependenceDailyLogSheet-PrintablePlanning.jpg?v=1686173915
+  Price: $5.95 USD
+- [Tithe Record with Auto-Calculating Total - Printable](https://printableplanning.com/products/tithe-record-with-auto-calculating-total-printable): An editable PDF printable Tithe Record with Auto-Calculating Total for keeping track of family or individual donations. This editable page has 52 rows columns for date, cash or check number, description of donation, and with amounts that auto-calculate a total at the top of the page. You can personalize this tithe record with the year at the top along with your name or family name, address, and phone number if you want. This page is offset to the right in case you want to include your tithe record in a binder once you've printed it. TITHE RECORD INCLUDES: Year. Individual or Family information (name, address, and optional phone). Dates column. "Cash" or Check # column. Description of donation column. Amounts column. "Page Total" at the top, which displays the sums of all amounts in the rows (auto-calculates). ⚠️ NOTE: • When a row is not in use, use 0.00 in that amount column to help the Page Total calculate.• The total is specified as a Page Total in case you need to utilize more than one page, more than 52 donations.• You do not have to use all 52 rows (just keep 0.00 in the rows you do not use).• You may wish to save a blank, 0.00 amounts, tithe record for use the next year, to avoid having to delete all the fields when you start the next year over.• This is an editable PDF file, not a computer program. It is not interactive with any accounting software or any other program. Adobe Acrobat Reader is most recommended for all editing.⚠️ Fonts, colors, and sections are available only as shown. The layout cannot be changed. Text positions cannot be moved. Everything is available as shown, you just change the information shown and the amounts. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Simple and clean. Offset to the right for binder inclusion. Amounts auto-calculate a page total at the top. Edit your page throughout the year and print upon completion for your records. Edit and print a new printable Tithe Record with Auto-Calculating Total page as needed.
+  Updated: 2025-07-31T23:33:12Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/TitheRecord-52Weeks-Auto-Calc-PrintablePlanning.jpg?v=1686173940
+  Price: $5.95 USD
+- [Caloric Density Food and Snack List - Printable](https://printableplanning.com/products/caloric-density-food-and-snack-list-printable): Printable caloric density food and snack list that helps you to keep track of the calories of your every day snacks and foods and their caloric density for easy reference. Print this page to put on your refrigerator or anywhere you can easily refer to the foods and snacks you list. These are foods and snacks that you commonly eat so that you do not have to keep looking up the calorie content in an app or program. It will also allow you to keep track of which foods satisfy your hunger with less calories, or are more indulgent and less filling with a higher calorie count. The Food or Meal Type column makes for an easy reference to the type of food item you're seeking. ⭐ INCLUDED: Food or snack items column. Amount / Serving column. Calories column. Caloric Density columns in green, yellow, and red. Food / Meal Type columns for Breakfast, Lunch, Dinner, and Snack. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Color coded, clean design. Ideal for people who are counting calories every day and record the caloric density for their foods and snacks. Print new printable caloric density food and snack list pages as needed. ⚠️ This sheet is meant for people who are counting calories as part of a diet or healthy eating and want to keep a list of the foods and snacks they commonly eat. This sheet in no way is dieting advice or a dieting suggestion. Please consult a doctor before beginning any diet.
+  Updated: 2025-07-21T19:19:30Z
+  Vendor: Artistically Invited
+  Product Type: Diet and Exercise
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/CaloricDensityFoodandSnackList-PrintablePlanning.jpg?v=1686174177
+  Price: $5.95 USD
+- [Caregiver Schedule and Compensation Sheet - Printable](https://printableplanning.com/products/caregiver-schedule-and-compensation-sheet-printable): The weekly Printable Caregiver Schedule and Compensation Sheet is an essential tool for anyone managing or overseeing caregiving services, whether for an elderly family member, a loved one with special needs, or anyone requiring regular care. This detailed sheet is designed to streamline the process of scheduling and compensating caregivers, ensuring clarity, accuracy, and accountability for both the caregiver and the guardian or responsible party. Features and Layout: This caregiver schedule and compensation sheet is thoughtfully organized to cover every aspect of daily caregiving over a weekly period, running from Monday through Sunday. The sheet is laid out vertically, with each day having dedicated space to log critical information: Dates for Each Day: Easily record the specific date for each day of the week. Start and End Times: Accurately document the hours worked by the caregiver each day, ensuring there is a clear record of their time. Total Hours: Calculate and log the total hours worked each day to track time effectively. Compensation: Note the daily compensation paid to the caregiver, providing a transparent record of payment. Notes Section: Use this area to document any special notes or observations for the day, including care specifics, events, or reminders. Caregiver’s Signature: At the end of each day, the caregiver can sign off to confirm the accuracy of the information logged. Guardian’s Signature: The guardian or responsible party also signs to verify the day's entries and the care provided. At the bottom of the sheet, there is a Weekly Compensation Total box where you can sum up the total compensation paid to the caregiver for that week, providing a clear and concise financial overview. Additional Lines for Personalization At the top of the sheet, there are lines provided to add important details: Care Recipient’s Name: Record the name of the person receiving care, ensuring the sheet is specific to their needs. Caregiver’s Name: If there is a single caregiver for the week, you can note their name here. Alternatively, if multiple caregivers are used throughout the week, you can leave this blank and instead fill in their names in the notes section for the relevant day. TIPS FOR USE: Pre-Schedule the Week: You can input the caregiver's schedule ahead of time, making this sheet serve as both a schedule and a log. After each day, fill in the actual hours worked and compensation information. Flexibility for Variable Schedules: Only fill in the days that caregiving services are required. This flexibility ensures that the sheet is tailored to your unique needs. Binder-Friendly: With room on the left side for a 3-hole punch, these sheets can be easily organized in a binder, keeping all records neat, accessible, and secure. Who Will Benefit from This Form? This Printable Caregiver Schedule and Compensation Sheet is ideal for families, guardians, and care managers who are responsible for overseeing the care of an individual. It is particularly useful for those who need a structured and reliable way to track caregiver hours and ensure proper compensation. By keeping detailed records, you can avoid misunderstandings, maintain transparency, and ensure that both the caregiver and care recipient’s needs are met consistently and professionally. This sheet is a vital tool in any caregiving arrangement, helping to maintain order, ensure fair compensation, and foster trust between all parties involved. Whether you’re managing care for a loved one at home or overseeing a team of caregivers, this form will simplify your processes and provide peace of mind. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Days run Monday through Sunday, top to bottom. Offset to the right to allow for a 3-hole punch. Simple and clean. Fonts and layout are available only as shown. No editing included. Print a new weekly caregiver schedule and compensation sheet every week or as needed.
+  Updated: 2025-07-31T03:08:51Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/WeeklyCaregiverScheduleandCompensationSheet-PrintablePlanning.jpg?v=1686174136
+  Price: $5.95 USD
+- [Housekeeper Schedule and Compensation Sheet - Printable](https://printableplanning.com/products/housekeeper-schedule-and-compensation-sheet-printable): A printable weekly Housekeeper Schedule and Compensation sheet. This printable page allows you to keep a weekly schedule for your housekeeper and then log their hours, compensation, any relevant notes, and have the housekeeper and employer sign off on the day. The days run Monday through Sunday, top to bottom. There is a box at the bottom to log a total for the week in compensation paid to the housekeeper. There is room on the left side of these weekly housekeeper schedule and compensation sheets for you to use a 3-hole punch to organize your pages in a binder. ⭐ TIPS FOR USE: You can put the housekeeper's schedule in ahead of time to utilize as a schedule sheet, then add in the compensation information after the day has been worked. Only fill in the days you need. ⭐ INCLUDED: Dates for that week in the top right corner. Line at the top to write the housekeeper's name (if only one for the whole week). You can leave this blank and write their name(s) in the notes for the day if utilizing multiple housekeepers. Each day includes: Date, Start Time , End Time, Total Hour(s), Compensation, Note(s), Housekeeper's Signature, and Employer's Signature. Box at the bottom for Weekly Compensation Total. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Days run Monday through Sunday, top to bottom. Offset to the right to allow for a 3-hole punch. Simple and clean. Fonts and layout are available only as shown. No editing included. Print a new weekly housekeeper schedule and compensation sheet every week or as needed.
+  Updated: 2025-09-02T06:04:03Z
+  Vendor: Artistically Invited
+  Product Type: Housekeeper Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/WeeklyHousekeeperScheduleandCompensationSheet-PrintablePlanning.jpg?v=1686174084
+  Price: $5.95 USD
+- [Small Business Preorder Tracking Page with Order Status Columns - Printable](https://printableplanning.com/products/small-business-preorder-tracking-page-with-order-status-column-printable): A printable full page Small Business Preorder Tracker page that is a handy tool for small business entrepreneurs and sole-proprietors to use to track their preorders and order statuses. This page allows you to log all of the important order information as you get your preorders, and to keep track of each order's present status of completion. The column of circles on the right allow you to fill them in as you complete each level of the order's completion: Starting work on the Order, Completing the Order, and Shipping the Order. This list can easily be included in a binder if you use a 3-hole punch. Room for the holes has been made at the top. Print as many sheets as you need, or a new sheet every time you need one. The design of this list is clean and simple, allowing for minimal use of printer ink, saving a business money. Columns included on sheet: Date. Customer Name. QTY (Quantity). Size (if applicable). Product(s). Invoice Sent. Invoice Paid. Order Started. Order Finished. Order Sent (can use if order has shipped). SPECIFICATIONS: 8.5" x 11" printable PDF page. Landscape. Full page list. Simple and clean. Doesn't require a lot of printer ink. Excellent for small businesses. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new Small Business Preorder Tracking page every time you need more.
+  Updated: 2025-10-15T00:51:29Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SmallBusinessPreorderTracker-PrintablePlanning.jpg?v=1686174011
+  Price: $5.95 USD
+- [Homeschooling Page, Daily School Tracker - Printable](https://printableplanning.com/products/homeschooling-page-daily-school-tracker-printable): A printable Homeschooling Page, Daily School Tracker for keeping track of your child's daily homeschooling learning and work completed. This homeschooling tracking page allows you to log up to 4 subjects per page, outlining the material covered and up to 3 homework assignments, quizzes, or test for the day and the grade received. This page is personalized with your child's name at the top before you print, along with printing the 4 subjects and scheduled time(s) when the subjects are taught each day. (Print and personalize more than one page if your child's schedule includes more than 4 subjects, but saving the file separately for each page.) You'll write the date at the top, fill in the work for each day by hand, and put any notes in the box at the bottom. There is room on the left side of these homeschooling sheets for you to use a 3-hole punch to organize your pages in a binder. Personalize before printing: Name at the top. The 4 subject titles along with their scheduled time(s). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. 4 school subjects per page. Print a new printable Homeschooling Page, Daily School Tracker every day or as needed.
+  Updated: 2025-07-30T04:12:02Z
+  Vendor: Artistically Invited
+  Product Type: School and Teachers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/DailySchoolTracker-Homeschooling-PrintablePlanning.jpg?v=1686174071
+  Price: $5.95 USD
+- [Schedule Sheet in 15 Minute Increments, 4 columns, front and back - Printable](https://printableplanning.com/products/schedule-sheet-in-15-minute-increments-front-and-back-4-columns-printable): A printable schedule log with 4 columns ranging from 8:00 am through 7:00 pm, in 15 minute increments. This 2-page (front and back) schedule sheet or appointment sheet is perfect for small businesses such as salons, cosmetology centers, chiropractors, and other businesses where you write schedules for the day by hand. Benefits: Front and back page alignments to allow for a 3-hole punch for binder inclusion. Times range from 8:00am through 7:00pm, accommodating a majority of business hours. 15 minute increments. 4 columns per side, allowing 4 people to be scheduled for, or 8 columns per page, for up to 8 professionals. Write any date at the top of both sides. Print forever. Keep this file, printing your schedule sheets as you need them, never needing to buy schedule books. SPECIFICATIONS: 2-page (front and back) 8.5" x 11" printable PDF file. Clean and simple design. There is a .25" border on each side, ideal for most printers. Room for 3-hole punch (DIY). (It's suggested to use a 3-hole punch on these printed sheets.) Excellent for small businesses. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print new schedule or appointment sheets every time you need more.
+  Updated: 2025-07-30T09:47:02Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/ScheduleLogby15min4col-Front-PrintablePlanning.jpg?v=1686174204
+  Price: $5.95 USD
+- [Personalized Baby Log, Daily Infant Care Sheet, Blue Green - Printable](https://printableplanning.com/products/personalized-baby-log-daily-infant-care-sheet-blue-and-green-printable): A printable Personalized Baby Log, Daily Infant Care Sheet, Blue Green for new parents or a caregiver for keeping track of the daily care of an infant. This caregiver's tracking sheet allows you to log a lot of information while caring for a baby, with your baby's name personalized by you at the top in blue text. This printable page tracks diaper changes, feedings, nap times, mood, and tummy time. It also logs activities, special care, and special concerns. There is also a section for knowing and logging what supplies are running low and a section for any additional notes. All of the sections are clearly defined, and the subcategories are color coded in blue and green. ⭐ The baby's name is personalized by you after downloading the file at the top of this page in blue. (The name is the only editable part of this page.) There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Color coding ideal for boy babies. Print a new Personalized Baby Log, Daily Infant Care Sheet, Blue Green page for every day or as needed.
+  Updated: 2025-07-21T19:19:29Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/BabyLog-PersonalizedDailyCareSheetBlueGreen-PrintablePlanning.jpg?v=1686174341
+  Price: $5.95 USD
+- [Personalized Baby Log, Daily Infant Care Sheet, Pink Yellow - Printable](https://printableplanning.com/products/personalized-baby-log-daily-infant-care-sheet-pink-yellow-printable): A printable personalized Baby Log, Daily Infant Care Sheet, Pink Yellow page for new parents or a caregiver for keeping track of the daily care of an infant. This caregiver's tracking sheet allows you to log a lot of information while caring for a baby, with your baby's name personalized by you at the top in pink text. This printable page tracks diaper changes, feedings, nap times, mood, and tummy time. It also logs activities, special care, and special concerns. There is also a section for knowing and logging what supplies are running low and a section for any additional notes. All of the sections are clearly defined, and the subcategories are color coded in pink and yellow. ⭐ The baby's name is personalized by you, after download, at the top of this page in pink. (The name is the only editable part of this page.) There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Color coding ideal for girl babies. Print a new personalized Baby Log, Daily Infant Care Sheet, Pink Yellow page for every day or as needed.
+  Updated: 2025-09-13T17:12:04Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/BabyLog-PersonalizedDailyCareSheetPinkYellow-PrintablePlanning.jpg?v=1686173961
+  Price: $5.95 USD
+- [Snowflake Personalized Gift Tags, Red | Printable Custom Holiday Tags](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-red-printable): Personalize your gifts with these Printable Snowflake Personalized Gift Tags in Red. Add names to each tag with a red snowflake design. DIY: print and cut.
+  Updated: 2025-07-21T19:19:29Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Red-EXAMPLE-PrintablePlanning.jpg?v=1686174068
+  Price: $5.95 USD
+- [Printable Snowflake Personalized Gift Tags in Blue | Holiday Gift Tags](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-blue-printable): Personalize your gifts with Printable Snowflake Personalized Gift Tags in Blue. DIY editable, featuring a wintry snowflake design. Perfect for holiday gifting.
+  Updated: 2025-07-31T20:01:13Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Blue-EXAMPLE-PrintablePlanning.jpg?v=1686173942
+  Price: $5.95 USD
+- [Snowflake Personalized Gift Tags in Green - Printable](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-green-printable): Printable Snowflake Personalized Gift Tags in Green that you personalize with both the 'to' and 'from' names individually. Each snowflake design is made with a two-tone green color design paired with gray. These gift tags are ticket-shaped, and are best when printed on thick card stock paper. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide at the top of each tag. The names in green are the editable part of this page. NOTE: This is an editable PDF page, so you can put in the names by yourself, as needed. These gift tags are a DIY project. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these gift tags from these printable pages. ► You cannot change the font or the size of the font for the names, so please use good judgement based on the examples shown to determine if your child's name will fit. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Snowflake color: Green. Edit the names on each tag (every time you print). Print a new page every time you need more. Use these printable Snowflake Personalized Gift Tags in Green every year!
+  Updated: 2025-07-21T19:19:28Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Green-EXAMPLE-PrintablePlanning.jpg?v=1686174443
+  Price: $5.95 USD
+- [Snowflake Personalized Gift Tags in Pink - Printable](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-pink-printable): Printable Snowflake Personalized Gift Tags in Pink that you personalize with both the 'to' and 'from' names individually. Each snowflake design is made with a two-tone pink color design paired with gray. These gift tags are ticket-shaped, and are best when printed on thick card stock paper. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide at the top of each tag. The names in pink are the editable part of this page. NOTE: This is an editable PDF page, so you can put in the names by yourself, as needed. These gift tags are a DIY project. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these gift tags from these printable pages. ► You cannot change the font or the size of the font for the names, so please use good judgement based on the examples shown to determine if your child's name will fit. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Snowflake color: Pink. Edit the names on each tag (every time you print). Print a new page every time you need more. Use these printable Snowflake Personalized Gift Tags in Pink every year!
+  Updated: 2025-07-21T19:19:28Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Pink-EXAMPLE-PrintablePlanning.jpg?v=1686173931
+  Price: $5.95 USD
+- [Snowflake Personalized Gift Tags in Purple - Printable](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-purple-printable): Printable Snowflake Personalized Gift Tags in Purple that you personalize with both the 'to' and 'from' names individually. Each snowflake design is made with a two-tone purple color design paired with gray. These gift tags are ticket-shaped, and are best when printed on thick card stock paper. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide at the top of each tag. The names in purple are the editable part of this page. NOTE: This is an editable PDF page, so you can put in the names by yourself, as needed. These gift tags are a DIY project. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these gift tags from these printable pages. ► You cannot change the font or the size of the font for the names, so please use good judgement based on the examples shown to determine if your child's name will fit. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Snowflake color: Purple. Edit the names on each tag (every time you print). Print a new page every time you need more. Use these printable Snowflake Personalized Gift Tags in Purple every year!
+  Updated: 2025-07-21T19:19:28Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Purple-EXAMPLE-PrintablePlanning.jpg?v=1686174191
+  Price: $5.95 USD
+- [Snowflake Personalized Gift Tags in Turquoise - Printable](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-turquoise-printable): Printable Snowflake Personalized Gift Tags in Turquoise that you personalize with both the 'to' and 'from' names individually. Each snowflake design is made with a two-tone turquoise color design paired with gray. These gift tags are ticket shaped, and are best when printed on thick card stock paper. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide at the top of each tag. The names in turquoise are the editable part of this page. NOTE: This is an editable PDF page, so you can put in the names by yourself, as needed. These gift tags are a DIY project. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these gift tags from these printable pages. ► You cannot change the font or the size of the font for the names, so please use good judgement based on the examples shown to determine if your child's name will fit. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Snowflake color: Turquoise . Edit the names on each tag (every time you print). Print a new page every time you need more. Use these printable Snowflake Personalized Gift Tags in Turquoise every year!
+  Updated: 2025-09-01T06:13:36Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Turquoise-EXAMPLE-PrintablePlanning.jpg?v=1686174404
+  Price: $5.95 USD
+- [Printable Turquoise Snowflake Gift Tag Stickers for Winter Gifting](https://printableplanning.com/products/turquoise-snowflake-gift-tag-stickers-printable): Printable turquoise snowflake gift tag stickers with "to" and "from" sections for custom gifting. Perfect for Christmas and winter occasions. Print and stick!
+  Updated: 2025-07-21T19:19:28Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SnowflakeRoundGiftTagStickers12up-Turquoise-EXAMPLE-PrintablePlanning.jpg?v=1686173977
+  Price: $5.95 USD
+- [Printable Pink Snowflake Gift Tag Stickers | Perfect for Holidays](https://printableplanning.com/products/pink-snowflake-gift-tag-stickers-printable): Add a personal touch with Printable Pink Snowflake Gift Tag Stickers. Easy to print, elegant, and perfect for Christmas or winter occasions. 12 tags per page.
+  Updated: 2025-09-12T11:30:23Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SnowflakeRoundGiftTagStickers12up-Pink-EXAMPLE-PrintablePlanning.jpg?v=1686174296
+  Price: $5.95 USD
+- [Purple Snowflake Gift Tag Stickers - Printable](https://printableplanning.com/products/purple-snowflake-gift-tag-stickers-printable): Printable purple snowflake gift tag stickers designed with two-tone purple snowflakes with gray and silver glitter-illustrated elements and "to" and "from" for writing gifting names by hand over white below the snowflakes. These purple snowflake gift tags are round in shape to be printed on regular card stock, sticker paper, or 2" 12-up round sticker paper (recommended). SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 tags per page. Round Tags measure a diameter of 2"+ each. (Includes a bleed for when used with 2" round sticker paper or when using a 2" round paper punch. Fits Avery template #22807 or comparable template (recommended). See Avery for details. Print a new page of these printable purple snowflake gift tag stickers every time you need more.
+  Updated: 2025-11-16T10:05:28Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SnowflakeRoundGiftTagStickers12up-Purple-EXAMPLE-PrintablePlanning.jpg?v=1686174333
+  Price: $5.95 USD
+- [Printable Blue Snowflake Gift Tag Stickers | Holiday Gift Tags](https://printableplanning.com/products/blue-snowflake-gift-tag-stickers-printable): Make your gifts festive with Printable Blue Snowflake Gift Tag Stickers. Print easily on 2" round sticker paper, space to write 'To' and 'From' names by hand.
+  Updated: 2025-08-04T22:26:41Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SnowflakeRoundGiftTagStickers12up-Blue-EXAMPLE-PrintablePlanning.jpg?v=1686174367
+  Price: $5.95 USD
+- [Green Snowflake Gift Tag Stickers - Printable](https://printableplanning.com/products/green-snowflake-gift-tag-stickers-printable): Printable green snowflake gift tag stickers designed with two-tone green snowflakes with gray and silver glitter-illustrated elements and "to" and "from" for writing gifting names by hand over white below the snowflakes. These green snowflake gift tags are round in shape to be printed on regular card stock, sticker paper, or 2" 12-up round sticker paper (recommended). SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 tags per page. Round Tags measure a diameter of 2"+ each. (Includes a bleed for when used with 2" round sticker paper or when using a 2" round paper punch. Fits Avery template #22807 or comparable template (recommended). See Avery for details. Print a new page of these printable green snowflake gift tag stickers every time you need more.
+  Updated: 2025-10-26T09:06:45Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SnowflakeRoundGiftTagStickers12up-Green-EXAMPLE-PrintablePlanning.jpg?v=1686174166
+  Price: $5.95 USD
+- [Printable Red Snowflake Gift Tag Stickers | DIY Holiday Tags](https://printableplanning.com/products/red-snowflake-gift-tag-stickers-printable): Download Printable Red Snowflake Gift Tag Stickers. Handwrite 'To' and 'From' for a personal touch. Print on card stock, sticker paper, or 2" round stickers.
+  Updated: 2025-09-21T15:13:33Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/SnowflakeRoundGiftTagStickers12up-Red-EXAMPLE-PrintablePlanning.jpg?v=1686174380
+  Price: $5.95 USD
+- [Medical Expenses Tracker with Auto-Calculating Totals | Printable PDF](https://printableplanning.com/products/medical-expenses-with-auto-calculating-totals-printable): The Medical Expenses Tracker with Auto-Calculating Totals printable helps you log medical, prescription, vision, and dental costs with editable & blank PDFs.
+  Updated: 2025-09-22T03:22:30Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/MedicalExpenses-MedRxDntlVis-Auto-Calc-PrintablePlanning_bccfeadd-e5aa-4ce8-bed4-e476abf53bb0.jpg?v=1687099764
+  Price: $5.95 USD
+- [Medication List | Organize Prescription Medicines | Printable PDF](https://printableplanning.com/products/medication-list-organize-prescription-medicines-printable): The Medication List, Organize Prescription Medicines printable helps you track prescriptions with dosage, instructions, doctor, pharmacy details, and more.
+  Updated: 2025-09-14T04:38:34Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/MedicationList-PrintablePlanning.jpg?v=1686174449
+  Price: $5.95 USD
+- [Medical Care Daily Care Sheet with Housekeeping | Printable](https://printableplanning.com/products/medical-care-daily-care-sheet-with-housekeeping-printable): The Medical Care Daily Care Sheet helps caregivers log meals, personal care, therapy, rehabilitation tasks, supplies, and medical needs. Printable PDF.
+  Updated: 2025-09-14T04:16:16Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/MedicalCare-DailyCareSheetwithHousekeeping-PrintablePlanning.jpg?v=1686173936
+  Price: $5.95 USD
+- [Cash Log with Received and Split Columns | Printable PDF](https://printableplanning.com/products/cash-log-with-received-and-split-columns-printable): The Cash Log with Received and Split Columns helps you track cash payments, names, and totals. Printable PDF designed for small business or organization use.
+  Updated: 2025-09-14T05:16:26Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/CashLogwithReceivedSplit-PrintablePlanning.jpg?v=1686174264
+  Price: $5.95 USD
+- [Daily Calorie Count Sheet | Half Page Printable PDF](https://printableplanning.com/products/daily-calorie-count-sheet-half-page-printable): The Daily Calorie Count Sheet helps you track meals, portions, and daily calories. Half-page printable PDF with 2 sheets per page for easy diet logging.
+  Updated: 2025-09-14T03:57:53Z
+  Vendor: Artistically Invited
+  Product Type: Diet and Exercise
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/DailyCalorieCount-HalfPage-PrintablePlanning.jpg?v=1686174152
+  Price: $5.95 USD
+- [Vehicle Service Record with Auto-Calculating Total | Printable PDF](https://printableplanning.com/products/vehicle-service-record-with-auto-calculating-total-printable): The Vehicle Service Record with Auto-Calculating Total helps you log repairs, mileage, and costs. Editable PDF with totals for organized car maintenance.
+  Updated: 2025-09-14T04:13:06Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/VehicleServiceRecord-Auto-CalcEXAMPLE-PrintablePlanning.jpg?v=1686173956
+  Price: $5.95 USD
+- [Grocery Budget List and Worksheet | Printable Budget Sheet PDF](https://printableplanning.com/products/grocery-budget-list-and-worksheet-printable): The Grocery Budget List and Worksheet, an editable or blank PDF, is perfect for staying on budget by planning your grocery shopping items and costs.
+  Updated: 2025-09-14T18:49:57Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/GroceryBudgetListandWorksheet-Auto-Calc-PrintablePlanning.jpg?v=1686174375
+  Price: $5.95 USD
+- [Small Business Returns and Refunds Tracking Page | Printable](https://printableplanning.com/products/small-business-returns-and-refunds-tracking-page-printable): The Small Business Returns and Refunds Tracking Page helps you log problem orders, reasons, and refund amounts while tracking each stage to resolution.
+  Updated: 2025-09-03T05:04:07Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/ReturnsandRefundsTracker-SmallBusiness-PrintablePlanning.jpg?v=1686174234
+  Price: $5.95 USD
+- [Printable Holiday Candy Cane Gnome Merry Christmas Gift Tags | DIY](https://printableplanning.com/products/holiday-candy-cane-gnome-merry-christmas-gift-tags-printable): Make your gifts special with these Printable Holiday Candy Cane Gnome Merry Christmas Gift Tags. DIY printable tags with a cheerful gnome and lights design.
+  Updated: 2025-09-01T15:39:25Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PrintableHolidayCandyCaneGnomeMerryChristmasGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1686174110
+  Price: $5.95 USD
+- [Printable Personalized Holiday Candy Cane Gnome Bookmarks | DIY Gift](https://printableplanning.com/products/personalized-holiday-candy-cane-gnome-bookmarks-printable): Printable Personalized Holiday Candy Cane Gnome Bookmarks are customizable with names. Perfect for teachers and parents, print as needed for a festive gift.
+  Updated: 2025-09-01T15:39:22Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/HolidayCandyCaneGnomePersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1686174436
+  Price: $5.95 USD
+- [Printable Personalized Winter Snowman Bookmarks for Kids & Students](https://printableplanning.com/products/personalized-winter-snowman-bookmarks-printable): Printable Personalized Winter Snowman Bookmarks – Add magic to winter reading for classrooms or holiday gifts with custom bookmarks featuring a cute snowman.
+  Updated: 2025-09-12T22:15:16Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/WinterSnowmanPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1686174418
+  Price: $5.95 USD
+- [Printable Winter Snowman Happy Holidays Gift Tags | DIY Gift Tags](https://printableplanning.com/products/winter-snowman-happy-holidays-gift-tags-printable): Personalize your gifts with these Printable Winter Snowman Happy Holidays Gift Tags. Cute snowman design, easy to print, and perfect for any holiday season.
+  Updated: 2025-09-02T03:31:15Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PrintableWinterSnowmanHappyHolidaysGiftTags-EXAMPLE-PrintablePlanning.jpg?v=1686174213
+  Price: $5.95 USD
+- [Personalized Shamrocks 4-Leaf Clover Bookmarks | St. Patrick’s Day](https://printableplanning.com/products/personalized-shamrocks-4-leaf-clover-bookmarks-printable): The Personalized Shamrocks 4-Leaf Clover Bookmarks feature editable names with a green St. Patrick’s Day design. A reusable printable reading gift for kids.
+  Updated: 2025-09-02T02:13:27Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Shamrocksand4-LeafCloverPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1686174119
+  Price: $5.95 USD
+- [Personalized Green Gnome Shamrocks Bookmarks | St. Patrick’s Day](https://printableplanning.com/products/personalized-green-gnome-shamrocks-bookmarks-printable): Personalized Green Gnome Shamrocks Bookmarks with editable names and a festive St. Patrick’s Day design. A reusable printable reading gift for kids.
+  Updated: 2025-09-02T01:37:01Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/GreenGnomeShamrocksPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1686174454
+  Price: $5.95 USD
+- [Personalized Pink Gnome Hearts Bookmarks | Valentine Printable](https://printableplanning.com/products/personalized-pink-gnome-hearts-bookmarks-printable): The Personalized Pink Gnome Hearts Bookmarks feature editable names with a festive Valentine’s Day design. A reusable printable gift for kids or classrooms.
+  Updated: 2025-09-02T01:24:19Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PinkGnomeHeartsPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1686174201
+  Price: $5.95 USD
+- [Personalized Space Planets Pattern Bookmarks | Printable Reading Gift](https://printableplanning.com/products/personalized-space-planets-pattern-bookmarks-printable): The Personalized Space Planets Pattern Bookmarks feature editable names with Earth and solar system designs. Perfect science-themed reading gift. Print today!
+  Updated: 2025-09-02T01:47:45Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedSpacePlanetsPatternBookmarks5-up-PrintablePlanning.jpg?v=1686699918
+  Price: $5.95 USD
+- [Personalized Sunflower Polka Dot Bookmarks | Printable Reading Gift](https://printableplanning.com/products/personalized-sunflower-polka-dot-bookmarks-printable): The Personalized Sunflower Polka Dot Bookmarks feature editable names with a sunflower and polka dot design. Perfect reading gift for kids or classrooms.
+  Updated: 2025-09-02T01:12:47Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SunflowerPolkaDotPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1686328223
+  Price: $5.95 USD
+- [Modern Blank Monthly Calendar | Rainbow 6-Row Full Page PDF](https://printableplanning.com/products/modern-blank-monthly-calendar-rainbow-full-page-printable): The undated Modern Blank Monthly Calendar has 6 rows so every date has its own box. Rainbow days, notes section, and full-page design. Print and use yearly.
+  Updated: 2025-09-01T10:42:06Z
+  Vendor: Artistically Invited
+  Product Type: Calendar Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendar-Rainbow-FullPage-PrintablePlanning.jpg?v=1687190214
+  Price: $5.95 USD
+- [Personalized Happy Sun Bookmarks | Printable Reading Gift](https://printableplanning.com/products/personalized-happy-sun-bookmarks-printable): Personalized Happy Sun Bookmarks with editable names, a smiling sun, and yellow background. Perfect summer reading gift for kids or classrooms. Print today!
+  Updated: 2025-09-01T11:21:04Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedHappySunBookmarks5-up-PrintablePlanning.jpg?v=1687790962
+  Price: $5.95 USD
+- [Colorful Teacher Thank You Notes | Printable End of Year PDF](https://printableplanning.com/products/colorful-teacher-thank-you-notes-printable): The Colorful Teacher Thank You Notes have a rainbow gradient frame with two notes per page. Print, cut, and have students write memories for end-of-year gifts.
+  Updated: 2025-09-01T11:00:14Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableTeacherThankYouCOLORFUL-individuals-PrintablePlanning.jpg?v=1687790958
+  Price: $5.95 USD
+- [Personalized Pumpkin and Leaves Bookmarks | Printable Reading Gift](https://printableplanning.com/products/personalized-pumpkin-and-leaves-bookmarks-printable): The Personalized Pumpkin and Leaves Bookmarks feature editable names with a festive fall design. Perfect for kids, classrooms, or autumn reading. Print today!
+  Updated: 2025-09-01T06:57:57Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/FallPumpkinandLeavesBookmarks5-up-PrintablePlanning.jpg?v=1688037382
+  Price: $5.95 USD
+- [Personalized Coffee Shark Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-coffee-shark-bookmarks-printable): Create personalized coffee shark bookmarks with an editable printable PDF. Add names, print 5 per page, and use for classrooms, libraries, or summer reading.
+  Updated: 2025-12-11T14:27:13Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedCoffeeSharkBookmarks5-up-PrintablePlanning.jpg?v=1688233118
+  Price: $5.95 USD
+- [Personalized Watermelon Slices Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-watermelon-slices-bookmarks-printable): Create personalized watermelon slice bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms or summer reading.
+  Updated: 2025-12-11T10:19:11Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedWatermelonSlicesBookmarks5-up-PrintablePlanning.jpg?v=1688734421
+  Price: $5.95 USD
+- [Elderly Daily Care Sheet | Printable Caregiver Log PDF](https://printableplanning.com/products/elderly-care-daily-care-sheet-with-alertness-housekeeping-printable): Track daily elderly care with a printable caregiver log PDF. Monitor meals, medication, alertness, health notes, activities, and housekeeping tasks.
+  Updated: 2025-12-11T10:14:05Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ElderlyCareDailyCareSheetwithOxygenAlertnessandHousekeeping-PrintablePlanning.jpg?v=1689399368
+  Price: $5.95 USD
+- [Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/weekly-lesson-plan-for-teachers-school-planning-pages-printable): Plan lessons with printable weekly lesson plan pages for teachers. Ink-friendly black-and-white design with a 7-day layout and front-and-back printing.
+  Updated: 2025-12-11T09:41:14Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/WeeklyLessonPlanforTeachers-PrintablePlanning.jpg?v=1689656973
+  Price: $5.95 USD
+- [Email List Sign Up Form | Printable Contact Sheet PDF](https://printableplanning.com/products/email-list-sign-up-form-printable): Collect names and email addresses with a printable email list sign up form PDF. Includes 25 rows and a clean layout for events or businesses.
+  Updated: 2025-12-11T10:04:13Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/EmailList-SignUpForm-PrintablePlanning.jpg?v=1689923963
+  Price: $5.95 USD
+- [Usernames and Passwords List | Printable Login Tracker PDF](https://printableplanning.com/products/usernames-and-passwords-list-printable): Keep account details organized with a printable usernames and passwords list PDF. Track logins with space for website, username, and password.
+  Updated: 2025-12-11T09:59:47Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/UsernamesandPasswordsList-PrintablePlanning.jpg?v=1689923966
+  Price: $5.95 USD
+- [Sign In and Sign Out Sheet | Printable Attendance Log PDF](https://printableplanning.com/products/sign-in-and-sign-out-sheet-printable): Track attendance or visitors with a printable sign in and sign out sheet PDF. Includes space for names, times in/out, initials, and daily use.
+  Updated: 2025-12-11T09:56:06Z
+  Vendor: Artistically Invited
+  Product Type: Miscellaneous
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SignInandSignOutSheet-PrintablePlanning.jpg?v=1689923961
+  Price: $5.95 USD
+- [Personalized Cherries Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-cherries-bookmarks-printable): Create personalized cherries bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms, libraries, or gifts.
+  Updated: 2025-12-11T09:50:39Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedCherriesBookmarks5-up-PrintablePlanning.jpg?v=1690141396
+  Price: $5.95 USD
+- [Personalized Fall Pumpkin Gnome Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-fall-pumpkin-gnome-bookmarks-printable): Create personalized fall pumpkin gnome bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms or seasonal reading.
+  Updated: 2025-12-11T09:45:44Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/FallPumpkinGnomeBookmarks5-up-PrintablePlanning.jpg?v=1690141413
+  Price: $5.95 USD
+- [Turquoise Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/turquoise-weekly-lesson-plan-for-teachers-school-planning-pages-printable): Plan lessons with turquoise printable weekly lesson plan pages for teachers. 7-day layout with space for subjects, class times, and front-and-back printing.
+  Updated: 2025-12-11T12:35:46Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/TurquoiseWeeklyLessonPlanforTeachers-PrintablePlanning.jpg?v=1690357182
+  Price: $5.95 USD
+- [Purple Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/purple-weekly-lesson-plan-for-teachers-school-planning-pages-printable): Organize lessons with purple printable weekly lesson plan pages for teachers. 7-day layout with space for subjects, class times, and front-and-back printing.
+  Updated: 2025-12-11T09:33:51Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PurpleWeeklyLessonPlanforTeachers-PrintablePlanning.jpg?v=1690357222
+  Price: $5.95 USD
+- [Green Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/green-weekly-lesson-plan-for-teachers-school-planning-pages-printable): Plan lessons with green printable weekly lesson plan pages for teachers. 7-day layout with space for subjects, class times, and front-and-back printing.
+  Updated: 2025-12-11T09:30:48Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/GreenWeeklyLessonPlanforTeachers-PrintablePlanning.jpg?v=1690357196
+  Price: $5.95 USD
+- [Blue Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/blue-weekly-lesson-plan-for-teachers-school-planning-pages-printable): Organize lessons with blue printable weekly lesson plan pages for teachers. 7-day layout with space for subjects, times, and front-and-back printing.
+  Updated: 2025-12-11T09:26:34Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BlueWeeklyLessonPlanforTeachers-PrintablePlanning.jpg?v=1690357216
+  Price: $5.95 USD
+- [Pink Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/pink-weekly-lesson-plan-for-teachers-school-planning-pages-printable): Plan your week with pink printable lesson plan pages for teachers. Includes a 7-day layout, space for subjects, times, and front-and-back printing.
+  Updated: 2025-12-11T09:21:29Z
+  Vendor: Artistically Invited
+  Product Type: Planner Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PinkWeeklyLessonPlanforTeachers-PrintablePlanning.jpg?v=1690357209
+  Price: $5.95 USD
+- [Black Snowflake Personalized Gift Tags | Editable Printable PDF](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-black-printable): Add names to black snowflake gift tags with this editable holiday printable PDF. Print nine tags per page for winter gifts, events, and personal celebrations.
+  Updated: 2025-12-11T09:14:31Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedSnowflakeGiftTags-Black-EXAMPLE-PrintablePlanning.jpg?v=1701834050
+  Price: $5.95 USD
+- [Birthday Party Coloring Sheet | Printable Kids Activity PDF](https://printableplanning.com/products/birthday-party-coloring-activity-sheet-printable): Keep kids entertained at birthday parties with a printable coloring activity sheet PDF featuring party-themed images, a maze, and a word search.
+  Updated: 2025-12-11T09:06:00Z
+  Vendor: Artistically Invited
+  Product Type: Coloring Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BD001-BirthdayPartyActivitySheet-PrintablePlanning.jpg?v=1708395516
+  Price: $5.95 USD
+- [Space Birthday Party Coloring Sheet | Printable Activity PDF](https://printableplanning.com/products/space-birthday-party-coloring-activity-sheet-printable): Keep kids busy at a space birthday party with a printable coloring activity sheet PDF featuring coloring images, a maze, and a word search.
+  Updated: 2025-12-11T09:00:44Z
+  Vendor: Artistically Invited
+  Product Type: Coloring Pages
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BD002-SpaceGalaxyBirthdayPartyActivitySheet-PrintablePlanning.jpg?v=1708395514
+  Price: $5.95 USD
+- [Business Daily Planner | Printable To-Do List & Schedule PDF](https://printableplanning.com/products/business-daily-planner-with-to-do-list-and-schedule-printable): Plan your workday with a printable business daily planner PDF. Track tasks, calls, emails, and appointments with a to-do list and schedule.
+  Updated: 2025-12-11T08:55:33Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/BusinessDailyPlanner-To-DoListandSchedule-PrintablePlanning.jpg?v=1711047166
+  Price: $5.95 USD
+- [Scheduling Sheet with Notes | Printable Daily Planner PDF](https://printableplanning.com/products/scheduling-sheet-with-notes-printable): Stay organized with a printable daily scheduling sheet with notes. Track appointments and tasks from 6:00am–7:00pm in 15-minute intervals. PDF download.
+  Updated: 2025-12-11T08:51:41Z
+  Vendor: Artistically Invited
+  Product Type: Small Business Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SchedulingSheetwithNotes-PrintablePlanning.jpg?v=1712338244
+  Price: $5.95 USD
+- [Headache Diary Calendar | Printable Migraine Tracker PDF](https://printableplanning.com/products/headache-diary-calendar-printable): Track headaches and migraines with a printable headache diary calendar PDF. Record time, intensity, triggers, meds, and relief on a monthly layout.
+  Updated: 2025-12-11T08:42:24Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/HeadacheDiaryCalendar-PrintablePlanning.jpg?v=1713913598
+  Price: $5.95 USD
+- [Printable Medical Information Form | Personal Health Record PDF](https://printableplanning.com/products/medical-information-form-printable): Organize important health details with a printable medical information form PDF. Keep contacts, medications, allergies, and history in one place.
+  Updated: 2025-12-11T08:33:27Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/MedicalInformationForm-Pages1and2-PrintablePlanning.jpg?v=1714233804
+  Price: $5.95 USD
+- [Personalized Red Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-red-soccer-ball-bookmarks-printable): Make personalized red soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for teams, classrooms, or gifts.
+  Updated: 2025-12-11T08:23:49Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallRedPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630076
+  Price: $5.95 USD
+- [Personalized Blue Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-blue-soccer-ball-bookmarks-printable): Create personalized blue soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms, teams, or gifts.
+  Updated: 2025-12-11T08:21:25Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallBluePersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630086
+  Price: $5.95 USD
+- [Personalized Green Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-green-soccer-ball-bookmarks-printable): Make personalized green soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for teams, classrooms, or gifts.
+  Updated: 2025-12-11T08:19:19Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallGreenPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630060
+  Price: $5.95 USD
+- [Personalized Pink Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-pink-soccer-ball-bookmarks-printable): Create personalized pink soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms, teams, or gifts.
+  Updated: 2025-12-11T08:15:20Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallPinkPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630051
+  Price: $5.95 USD
+- [Personalized Purple Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-purple-soccer-ball-bookmarks-printable): Create personalized purple soccer bookmarks with this editable printable PDF. Add names, print five per page, and use for classrooms, teams, or gifts.
+  Updated: 2025-12-11T08:13:59Z
+  Vendor: Artistically Invited
+  Product Type: Bookmarks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallPurplePersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630063
+  Price: $5.95 USD
+- [Health Vitals Monitoring Form | Printable Caregiver Vital Signs Log](https://printableplanning.com/products/health-vitals-monitoring-form-printable): Track vital signs with a printable health monitoring form PDF. Record blood pressure, heart rate, temperature, pain scale, and more. Instant download.
+  Updated: 2025-12-11T08:09:25Z
+  Vendor: Artistically Invited
+  Product Type: Caregiver Forms
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/HealthVitalsMonitoringForm-PrintablePlanning.jpg?v=1717289001
+  Price: $5.95 USD
+- [Printable Party RSVP List | Guest List & Headcount Tracker](https://printableplanning.com/products/party-rsvp-list-printable): Organize your party guest list with this printable RSVP tracker PDF. Record names, replies, and headcounts for adults and kids. Instant download.
+  Updated: 2025-12-11T07:57:21Z
+  Vendor: Artistically Invited
+  Product Type: Holiday and Occasion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PartyRSVPList-PrintablePlanning.jpg?v=1717611873
+  Price: $5.95 USD
 
 ## Collections
 
