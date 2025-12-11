@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-10T00:00:19.548Z
+- Updated At: 2025-12-11T00:00:19.306Z
 
 ## Products
 
@@ -245,7 +245,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/New_York_Lip_Swatch_x1080_21a134e0-f02c-4465-8daa-71bbc30f6378.jpg?v=1737454157
   Price: $24.00 AUD
 - [Pink Nude Creamy Matte Lipstick - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-nude): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Nude is a pink nude matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2025-12-09T14:02:59Z
+  Updated: 2025-12-10T04:39:26Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
@@ -280,18 +280,18 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/lip_pencil_ava_swatch_fa99d36f-8375-4382-9a5e-6dc0959ddc20.png?v=1569421556
   Price: $19.00 AUD
 - [Gel Lip Pencil - Harper](https://mellowcosmetics.com.au/products/gel-lip-pencil-harper): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-12-09T00:23:59Z
+  Updated: 2025-12-10T06:19:58Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/HarperLipPencilNew.jpg?v=1711636574
   Price: $19.00 AUD
 - [Gel Lip Pencil - Jade](https://mellowcosmetics.com.au/products/gel-lip-pencil-jade): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-11-28T18:56:25Z
+  Updated: 2025-12-10T12:58:26Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2660/5960/products/lip_pencil_jade_swatch_1f03192e-babf-47ef-8e19-e184d147ba53.png?v=1547701481
+  Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Jade_New.jpg?v=1765371506
   Price: $19.00 AUD
 - [Gel Lip Pencil - Maya](https://mellowcosmetics.com.au/products/gel-lip-pencil-maya): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
   Updated: 2025-12-07T08:01:22Z
@@ -315,7 +315,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/AucklandNewLip.jpg?v=1706901691
   Price: $24.00 AUD
 - [Liquid Lip Paint - Barcelona](https://mellowcosmetics.com.au/products/liquid-lip-paint-barcelona): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-09T07:50:51Z
+  Updated: 2025-12-10T12:59:39Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -378,7 +378,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Rome-Lip-Swatch-x1080-600x600_e849aba8-3acb-4823-9017-227abca1c026.jpg?v=1569421662
   Price: $24.00 AUD
 - [Liquid Lip Paint - Shanghai](https://mellowcosmetics.com.au/products/liquid-lip-paint-shanghai): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-11-29T22:43:35Z
+  Updated: 2025-12-10T23:54:57Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -420,7 +420,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/PALMSPRINGSedit.jpg?v=1596513873
   Price: $24.00 AUD
 - [Stardust Glow Palette - Light to Medium](https://mellowcosmetics.com.au/products/stardust-glow-palette-light-to-medium): Take your glow to the next level with Mellow’s Stardust Glow Palette. The perfect face palette to warm up your complexion and achieve a youthful look. Use the blush and add a radiant finish to your face using the two highlight shades. This product is formulated with buttery, rich and high pigmented ingredients so a little goes a long way! This palette comes in two tones, Light to Medium and Medium to Dark. Cruelty Free, Vegan, Paraben Free! How to Use: Use the bronzer to contour your cheekbones. Apply the blush to the apples of your cheeks for a youthful-looking flush. Apply the highlighters on the high points of your face. For added impact, try wetting your brush before using. Net Weight: 4x8g / 4x0.28oz
-  Updated: 2025-12-04T09:50:12Z
+  Updated: 2025-12-10T02:08:36Z
   Vendor: Mellow Cosmetics
   Product Type: Face Palette
   Availability: Available
@@ -462,7 +462,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/CopperGlitterchromeeyeshadow.jpg?v=1712167674
   Price: $30.00 AUD
 - [Glitter Chrome Eyeshadow - Rose Gold](https://mellowcosmetics.com.au/products/glitter-chrome-eyeshadow-rose-gold): Your secret to a high Gleam Gaze and the richest and most Vibrant Cream Eyeshadow you've ever seen! The metallic Pressed Pigment melts instantly and stays put for the entire day. These luxurious Cream Glitter Pots are made with a spectacular mirrored metallic effect that dazzles and has the high sheen of a cream or gloss, and the easy wear and application of a powder. It's easy to apply with finger tips to melt the formula into skin without the need of a primer, or you can apply using a flat eyeshadow brush if preferred.
-  Updated: 2025-12-08T17:47:55Z
+  Updated: 2025-12-10T06:19:58Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeshadow
   Availability: Available
@@ -532,7 +532,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/3_3fc4a8b0-face-4cd5-970d-c7ab19da4114.png?v=1751629445
   Price: $38.00 AUD
 - [Eyeshadow Quad - Rhea](https://mellowcosmetics.com.au/products/eyeshadow-quad-rhea): An eyeshadow quad created with four complementary shades to achieve multiple looks, from a bold smoky eye to a sexy slash of colour and everything in between. There are Four Eyeshadow Quads available in this collection designed to bring out the modern goddess in you. With four opulent complement shades for you to achieve multiple looks, from Berry tone shades and Mauvey tones to Earthy Nudes too! Each quad is designed to help you create super easy and quick every day eye looks with two deeper shades included in each Quad to intensify the look and create the perfect night time eye look! The size of these Eyeshadow Quads make them the perfect Eyeshadows to carry in your makeup bag and when you are travelling. Formulated with highly pigmented, buttery shimmers and mattes, a little goes a long way. Apply dry for sheer effects and wet for intense colour payoff.
-  Updated: 2025-12-06T03:53:40Z
+  Updated: 2025-12-10T06:19:59Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeshadow Quad
   Availability: Available
@@ -553,14 +553,14 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/ScreenShot2021-02-11at9.38.56AM.png?v=1613000382
   Price: $22.00 AUD
 - [Auto Twist Eyeliner | Vegan Friendly Makeup Products | Mellow Cosmetics](https://mellowcosmetics.com.au/products/mineral-eyeliner-chocolate-chip): We provide long-lasting, non-flaking auto twist eyeliners that glide easily & stay smooth. The natural-based formula works on even the most sensitive eyes. Order now!
-  Updated: 2025-11-24T05:44:42Z
+  Updated: 2025-12-10T18:27:53Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeliner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/ScreenShot2021-02-11at9.32.46AM.png?v=1613000011
   Price: $22.00 AUD
 - [Pinky Promise Powder Blush](https://mellowcosmetics.com.au/products/pinky-promise-powder-blush): Ready to blush with Mellow? This buildable, budge-proof, do-it-all blush gives cheeks the perfect flush of colour with an innovative formula that helps minimise the appearance of pores while delivering a matte yet luminous finish. Pinky Promise: The perfect pinky luminous glow for your cheeks and eyes
-  Updated: 2025-12-08T17:47:55Z
+  Updated: 2025-12-10T06:20:00Z
   Vendor: Mellow Cosmetics
   Product Type: Blush
   Availability: Available
@@ -637,7 +637,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/StufIGPosts_InstagramStory_800x1130px_6.jpg?v=1700103250
   Price: $110.00 AUD
 - [Tube Turn-Key | Stuf Skin AU](https://mellowcosmetics.com.au/products/turn-key): Squeeze the most out of your Stuf Skin tubes with our turn-key. Just twist it around the top of the tube then roll as you go!
-  Updated: 2025-11-07T23:24:46Z
+  Updated: 2025-12-10T02:08:37Z
   Vendor: stufskin.com
   Product Type: 
   Availability: Available
