@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-11T04:00:34.875Z
+- Updated At: 2025-12-11T08:00:35.130Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_26_2025_at_06_25_55_PM.png?v=1764249931
   Price: $59.95 USD
 - [Affinati French Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-french-vanilla-10-oz): Pamper skin with Shea Butter Body Lotion, French Vanilla — sweet, comforting vanilla aroma in a rich, moisturizing shea formula.
-  Updated: 2025-12-10T19:04:56Z
+  Updated: 2025-12-11T04:40:14Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -68,7 +68,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Tobacco Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-tobacco-vanilla-10-oz): Shea Butter Body Lotion in Tobacco Vanilla — warm, masculine tobacco with creamy vanilla for a sophisticated scent and deep hydration.
-  Updated: 2025-12-10T19:04:56Z
+  Updated: 2025-12-11T04:40:09Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -98,7 +98,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Midnight Ember Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-midnight-ember-10-oz): Experience Shea Butter Body Lotion in Midnight Ember — smoky woods and spice blend with deep hydration for irresistibly soft skin.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:40:13Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -113,7 +113,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Chocolate Fudge Brownie Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-chocolate-fudge-brownie-10-oz): Indulge in our Shea Butter Body Lotion, Chocolate Fudge Brownie — rich cocoa aroma with ultra-hydrating shea for silky, smooth skin.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:40:12Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -128,7 +128,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Black Raspberry Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-black-raspberry-vanilla-10-oz): Revive your senses with Shea Butter Body Lotion in Black Raspberry — juicy berry fragrance meets lasting hydration for smooth, radiant skin.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:37:34Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -143,7 +143,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Lemon & Amber Musk Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-lemon-amber-musk-10-oz): Nourish skin with our Shea Butter Body Lotion in Lemon & Amber Musk — fresh citrus and warm musk for a vibrant, lasting scent.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:37:43Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Cocoa Butter Cashmere Lotion – 10 OZ (10 oz)](https://affinatiliving.com/products/shea-butter-body-lotion-cocoa-butter-cashmere-10-oz): Wrap skin in luxury with Shea Butter Body Lotion, Cocoa Butter Cashmere — warm, creamy scent with rich shea butter nourishment.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:37:31Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -173,7 +173,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Honey Lavender Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-honey-lavender-10-oz): Soothe and hydrate with Shea Butter Body Lotion, Honey Lavender — calming floral sweetness and deep moisture for soft, supple skin.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:37:41Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -188,7 +188,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Sandalwood &amp; Jasmine Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-sandalwood-jasmine-10-oz): Indulge in Shea Butter Body Lotion, Sandalwood & Jasmine — exotic florals and warm woods in a deeply moisturizing shea formula.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:37:32Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -203,7 +203,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Unscented Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-unscented-10-oz): Our Unscented Shea Butter Body Lotion delivers rich, all-day hydration with no fragrance — perfect for sensitive skin.
-  Updated: 2025-12-10T19:04:57Z
+  Updated: 2025-12-11T04:37:30Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -218,7 +218,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Almond Biscotti Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-almond-biscotti-10-oz): Sweeten your skincare with Shea Butter Body Lotion, Almond Biscotti — nutty almond and vanilla pastry scent with nourishing shea.
-  Updated: 2025-12-10T19:04:58Z
+  Updated: 2025-12-11T04:34:05Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4080,7 +4080,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_8_2025_01_30_38_PM.png?v=1759944653
   Price: $4.95 USD
 - [Affinati Coconut Flakes Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-10-oz-coconut-flakes): Indulge in the creamy scent of Coconut Flakes. This shea butter lotion deeply hydrates and softens skin for all-day tropical smoothness.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:34:00Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4095,7 +4095,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Mint Eucalyptus Lotion – 10 OZ](https://affinatiliving.com/products/mint-eucalyptus-shea-butter-body-lotion-10-oz): Revitalize your skin with Mint Eucalyptus. This shea butter lotion hydrates, refreshes, and leaves a cool, spa-fresh scent that lasts all day.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:34:00Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4110,7 +4110,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Eucalyptus Tea Lotion – 10 OZ](https://affinatiliving.com/products/eucalyptus-tea-shea-butter-body-lotion-10-oz): Relax and refresh with Eucalyptus Tea. This shea butter lotion deeply hydrates and soothes skin with a calming, clean fragrance that lasts all day.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:33:59Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4125,7 +4125,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Mahogany Teakwood Lotion – 10 OZ](https://affinatiliving.com/products/mahogany-teakwood-shea-butter-body-lotion-10-oz): Experience the rich, woodsy scent of Mahogany Teakwood. This shea butter lotion deeply hydrates and leaves skin soft, smooth, and confidently scented.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:34:04Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4140,7 +4140,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Smoked Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/smoked-vanilla-shea-butter-body-lotion-10-oz): Embrace the warmth of Smoked Vanilla. This shea butter lotion deeply hydrates while wrapping your skin in a soft, smoky-sweet fragrance that lasts all day.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:34:00Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4155,7 +4155,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Strawberry Banana Lotion – 10 OZ](https://affinatiliving.com/products/strawberry-banana-shea-butter-body-lotion-10-oz): Enjoy the sweet scent of Strawberry Banana. This shea butter lotion deeply hydrates, leaving skin soft, glowing, and deliciously fresh all day.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:34:08Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4170,7 +4170,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Vanilla Bean Lotion – 10 OZ](https://affinatiliving.com/products/vanilla-bean-shea-butter-body-lotion-10-oz): Experience the cozy scent of Vanilla Bean. This shea butter lotion deeply hydrates, softens, and leaves skin with a warm, lasting glow.
-  Updated: 2025-12-10T19:05:32Z
+  Updated: 2025-12-11T04:33:59Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4185,7 +4185,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Champagne Toast Lotion – 10 OZ](https://affinatiliving.com/products/champagne-toast-shea-butter-body-lotion-10-oz): Celebrate your skin with Champagne Toast. This shea butter lotion deeply hydrates while leaving a bright, bubbly scent that lasts all day.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:34:00Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4200,7 +4200,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Cinnamon Swirl Lotion – 10 OZ](https://affinatiliving.com/products/cinnamon-swirl-shea-butter-body-lotion-10-oz): Indulge in the cozy scent of Cinnamon Swirl. This shea butter lotion hydrates deeply and leaves skin soft, smooth, and warmly scented all day.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:29:34Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4215,7 +4215,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Peppermint Swirl Lotion – 10 OZ](https://affinatiliving.com/products/peppermint-swirl-shea-butter-body-lotion-10-oz): Refresh your skin with Peppermint Swirl. This shea butter lotion hydrates deeply and leaves a cool, sweet holiday scent that lasts all day.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:29:35Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4230,7 +4230,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Amber Noir Lotion – 10 OZ](https://affinatiliving.com/products/amber-noir-shea-butter-body-lotion-10-oz): Immerse your skin in Amber Noir. This shea butter lotion deeply hydrates and leaves a warm, sensual scent that lasts all day.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:29:34Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4245,7 +4245,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Cherry Noir Shea Butter Lotion – 10 OZ](https://affinatiliving.com/products/cherry-noir-shea-butter-body-lotion-10-oz): Dark cherry, plum, and soft woods create a bold, alluring fragrance. This hydrating 10 oz lotion leaves skin silky with a lasting scent.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:29:44Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4260,7 +4260,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati White Tea Lotion – 10 OZ](https://affinatiliving.com/products/white-tea-shea-butter-body-lotion-10-oz): Soft white tea and airy florals create a clean, calming scent. This 10 oz lotion hydrates deeply and leaves skin fresh and smooth.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:29:40Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4275,7 +4275,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Saffron Cedarwood Lotion – 10 OZ](https://affinatiliving.com/products/saffron-cedarwood-shea-butter-body-lotion-10-oz): Rich saffron and warm cedarwood create a luxurious, exotic scent. This 10 oz lotion hydrates deeply and leaves skin smooth and refined.
-  Updated: 2025-12-10T19:05:33Z
+  Updated: 2025-12-11T04:29:31Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -6761,7 +6761,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Affinati Lavender Vanilla Lotion – 10 OZ](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz): Soft lavender and warm vanilla create a soothing, calming scent. This hydrating 10 oz lotion leaves skin smooth, comforted, and fragrant.
-  Updated: 2025-12-10T19:06:00Z
+  Updated: 2025-12-11T04:29:33Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -6950,7 +6950,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7752.png?v=1763917866
   Price: $17.95 USD
 - [Affinati Rosemary Mint Lotion – 10 OZ](https://affinatiliving.com/products/rosemary-mint-shea-butter-body-lotion-10-oz): Herbal rosemary and crisp mint create a refreshing, clean aroma. This 10 oz lotion hydrates deeply and leaves skin smooth and invigorated.
-  Updated: 2025-12-10T19:06:02Z
+  Updated: 2025-12-11T04:29:32Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -6965,7 +6965,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Blackberry Sage Lotion – 10 OZ](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz): Juicy blackberry and soothing sage blend into a refreshing herbal-berry scent. This 10 oz lotion hydrates deeply and leaves skin soft.
-  Updated: 2025-12-10T19:06:03Z
+  Updated: 2025-12-11T04:29:36Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -7653,7 +7653,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_24_35_AM.png?v=1765117490
   Price: $17.95 USD
 - [White Christmas Original Candle](https://affinatiliving.com/products/white-christmas-original-candle): Celebrate the season with White Christmas—a crisp, cozy blend of pine, winter air, and soft vanilla. This 10 oz candle delivers a clean burn and lasting holiday fragrance.
-  Updated: 2025-12-10T19:27:47Z
+  Updated: 2025-12-11T07:23:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7668,7 +7668,7 @@
     Availability: Available
     Price: $64.95 USD
 - [White Tea Signature Candle](https://affinatiliving.com/products/white-tea-signature-candle): Enjoy soft white tea, airy citrus, and gentle florals with this clean-burning 10 oz candle. White Tea creates a calming, spa-like atmosphere with lasting fragrance.
-  Updated: 2025-12-11T03:01:34Z
+  Updated: 2025-12-11T07:38:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
