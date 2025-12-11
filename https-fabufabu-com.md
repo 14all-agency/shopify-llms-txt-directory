@@ -6,12 +6,12 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-09T10:36:07.424Z
+- Updated At: 2025-12-11T00:00:20.671Z
 
 ## Products
 
 - [Wrist Wrap Wide Arm Cuff Bracelets](https://fabufabu.com/products/wrist-wrap-wide-arm-cuff-bracelets): Elevate your accessory game with Gold Color Wide Arm Cuff Bracelet for Women designed to make a bold fashion statement and complement any outfit effortlessly
-  Updated: 2025-12-09T06:00:01Z
+  Updated: 2025-12-09T17:49:19Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/daisy-flower-bracelet-for-womenbraceletsfabufabufabufabu-design-storesl0269cover-d13ea397-f02a-439d-9e7c-68e59c08a702-4376453.jpg?v=1765257972
   Price: $21.83 USD
 - [Baby & Toddler Hanger Closet Dividers](https://fabufabu.com/products/baby-toddler-hanger-closet-dividers): Set of 8 - Durable Baby Clothes Organizer, Nursery Closet Organization for Baby Clothing by Size or Age from Infant to Toddler Boy & Girl - Mushroom
-  Updated: 2025-12-09T05:58:51Z
+  Updated: 2025-12-09T17:58:56Z
   Vendor: fabufabu
   Product Type: closet dividers
   Availability: Available
@@ -60,14 +60,14 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/morse-code-bracelet-couple-distance-matchingbraceletsfabufabu-design-storefabufabu-design-storems009-offoff7-9a09efaf-d249-4a59-ab14-ebbd53c7e96d-8020458.jpg?v=1765257972
     Price: $20.55 USD
 - [Hemp Cords Ethnic Tribal Bracelets](https://fabufabu.com/products/hemp-cords-ethnic-tribal-bracelets): Colorful adjustable woven braided bracelets, simple and fashionable. These bracelets can be worn alone or stacked as you like, suitable for various occasions
-  Updated: 2025-12-09T06:00:53Z
+  Updated: 2025-12-09T18:00:59Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/hemp-cords-ethnic-tribal-braceletsbraceletsfabufabufabufabu-design-storesl0265cover-b8cd2d77-7af7-487b-a702-84ae7dbfbe87-8222161.jpg?v=1765257969
   Price: $25.57 USD
 - [Sterling Silver 4-leaf clover Charm Bracelet](https://fabufabu.com/products/sterling-silver-4-leaf-clover-charm-bracelet): PURE DESIGN: less is more from FABUFABU’s theme, exquisite craftsmanship, using 5A synthetic colored zirconium oxide, 360 all-round polishing,
-  Updated: 2025-12-09T06:01:57Z
+  Updated: 2025-12-09T18:02:02Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/sterling-silver-4-leaf-clover-charm-braceletbraceletsfabufabufabufabu-design-storesl0260-whitewhite8-89118528-4726-41af-8f87-b4d9d3fe64f2-8349464.jpg?v=1765257969
     Price: $25.57 USD
 - [S925 Sterling Silver Stars Bracelet](https://fabufabu.com/products/s925-sterling-silver-stars-bracelet): bracelet is the actual idea of using star and beaded style, simple and elegant. Star bracelet can be free to match according to your preferences.
-  Updated: 2025-12-09T05:47:57Z
+  Updated: 2025-12-09T17:48:07Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
@@ -95,26 +95,47 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/s925-sterling-silver-stars-braceletbraceletsfabufabufabufabu-design-storesl0261-silversilver1-56cf3612-6d23-4970-9db7-71c2bd887624-4824293.jpg?v=1765257970
     Price: $25.57 USD
 - [Men Bracelet Raw Brass Cuff](https://fabufabu.com/products/men-bracelet-raw-brass-cuff): Men's taste accessories: Retro BLISS open texture, polished brass widening design, the bracelet is specially engraved with blessings, bringing you a low-key and delicate, and adding embellishments to life, it is very suitable for daily wear. RAW BRASS: The brass bracelet will change according to the user and the environment. Long-term use can develop a unique mark belonging to the user. The surface of the bracelet is only aged, without special processing, revealing the simple beauty of pure brass material. Spotted and slightly scratched, that's what makes brass so attractive. MINIMALIST STYLE: This flat bracelet measures 0.55” (1.4cm) wide. Our cuffs are very wearable for both women and men. The open design allows for easy adjustment to accommodate most wrist sizes. Fashion Jewelry Gifts: Fabufabu retro bracelets bring elegance and luxury to the modern man & woman, perfect as a gift for mom, wife, or friends on Mother's Day, Valentine's Day, Christmas and Anniversary. The color shown in the photo may deviate from the actual product due to the photography and post-processing by the photographer. The final product shall be subject to receipt.
-  Updated: 2025-12-09T06:40:13Z
+  Updated: 2025-12-10T07:34:19Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Cover_1.jpg?v=1765262127
   Price: $74.23 USD
 - [Retractable Pet Leash for Small/Medium Sized Dogs Cat](https://fabufabu.com/products/retractable-pet-leash-for-small-medium-sized-dogs-cat): Retractable dog leash, 3 meters (118 inches) in length, bearing less than 25kg, suitable for small and medium-sized dogs. 360° telescopic rotation without jamming, the rope will not be knotted and entangled, and you can freely control the direction of your gestures. Portable mini garbage bag box that can be put into small bags and taken out for use when needed. High-strength nylon webbing with impact-resistant ABS material on the outside for durability. The dog leash has reflective strips, Type-C charging interface, and LED lighting to avoid danger and provide safety for walking dogs at night. Explosion-proof Okinawa buckle, strong and firm. Soft rubber curved handle, comfortable to hold, light weight, your hands will not feel sore even if you walk for a long time. Flexible, durable inner coil spring, the spring does not rust, automatically expands and contracts. One push to lock, free to retract, very suitable for walking, running, jogging, training, camping, hiking, outing leisure activities, making dog walking more and more happy.
-  Updated: 2025-12-09T06:52:11Z
+  Updated: 2025-12-10T07:34:11Z
   Vendor: fabufabu design store
   Product Type: Pet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover.png?v=1765262874
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/retractable-pet-leash-for-smallmedium-sized-dogs-catpetfabufabu-design-storefabufabu-design-stores62cover-9118636.png?v=1765352047
   Price: $64.14 USD
 - [Stainless Steel Thermos Water Bottle](https://fabufabu.com/products/stainless-steel-thermos-water-bottle): Thermal Insulation: The bottle is designed with a heat-reflecting copper layer and vacuum insulation, which helps to maintain the temperature of your drinks. It is 500ml vacuum 304 stainless steel, double-layer structure can keep beverages cold for 24 hours and hot for 12 hours, providing extended temperature retention. Designed With Practicality In Mind: Leakproof Screw-Top Handle Lid: The bottle's lid is equipped with a screw-top handle, ensuring a secure and leakproof seal. This feature makes it convenient to carry the bottle without worrying about spills or leaks. Sleek and Portable Design: The bottle has a sleek body design and while on the go that allows it to fit in standard cup holders and backpack pockets. This makes it easy to carry and a weight of only 350g. Wide Opening Design: The wide opening of the bottle enables easy pouring of liquids and facilitates effortless cleaning. It allows for hassle-free filling and maintenance of the bottle. Flat angle design protects the base: The bottle is equipped with a protective flat angle desing base, which serves only one purposes. Firstly, it prevents the bottle from slipping on hard surfaces, providing stability. Bottle size: 500ml (16.9 oz). Height: 25cm (9.8 inches), mouth diameter: 6cm (2.4 inches), base diameter: 7cm (3.0 inches). Packaging size: 25.5cm (10 inches (height)) x 7.8cm (3 inches (width)) x 7.8cm (3 inches (length)) This product has a heat preservation function, but it is not recommended to provide children with hot drinking water
-  Updated: 2025-12-09T06:58:43Z
+  Updated: 2025-12-10T07:34:16Z
   Vendor: fabufabu design store
   Product Type: Bottle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover.jpg?v=1765263311
   Price: $19.29 USD
+- [925 Sterling Silver Layered Zirconium Diamonds Star Bracelet](https://fabufabu.com/products/925-sterling-silver-layered-zirconium-diamonds-star-bracelet): Fabufabu "Less is More” collection, The star-sharp bracelet implies the story of the starry sky, sincere love, and unwavering. Material : high-quality multi-layer electroplating process, small star zirconium diamonds are exquisite and elegant, rich in layers and not monotonous, bright and shiny. Design : The double-layer silver bracelet is matched with small balls and 1 main star with 1 main star zirconium diamonds star, patterns which is vivid and very beautiful and charming Size : The length of this star bracelet is adjustable, Size: Chain length about 15+5cm (15cm x 0.1 x 0.1cm) is the extendable length. Approximate weight: 0.01cm Thoughtful Present : Wearing this star bracelet will make you more charming and unique.It is a thoughtful gift for mother, wife, daughters, girlfriend and friends to express your wishes. Care Instructions : Do not pull or squeeze to avoid damage. Wash, sleep, soak in hot springs or sea water need to be unloaded. Regular cleaning and maintenance can last a long time. Silver jewelry is oxidized to metallic properties, so clean it and store it in a sealed bag when not wearing it. Avoid wearing jewelry to do heavy work, as it is easy to scratch and damage the surface of the jewelry. Do not touch perfume, vinegar, fruit juice, bleach to reduce the occurrence of erosion. For natural stones, crystals and pearls, please wash them with clean water and then wipe them with a soft cloth. Silver jewelry can be maintained by wiping with the attached silver cloth.
+  Updated: 2025-12-10T08:58:25Z
+  Vendor: fabufabu design store
+  Product Type: Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_20549c1a-a533-4952-9900-e8929a59e538.jpg?v=1765356593
+  Price: $24.42 USD
+- [Gold Plated Zircon Tennis Bracelet](https://fabufabu.com/products/gold-plated-zircon-tennis-bracelet): Fabufabu "Less is More” collection, Be a part of timeless luxury and elegance with this exquisite gold bracelet adorned with shimmering diamond-like gemstones. High Quality Material: This tennis bracelet is inlaid with sparkling cubic zirconia. The tennis bracelet Treatment process: diamond, electroplating gold plated bracelets, designed to keep its brilliance intact for a long time. Its high-quality handmade construction ensures it resists fading, no rusting, ensuring a long-lasting wearing experience. Adjustable Size: Drawstring bracelet is adjustable, you can slide the adjustable cord to adjust the size of the bracelet. The chain width is 4MM, the total length is 17CM/6.7IN and 22CM/8.6IN respectively, you can choose one that suits your wrist length. you can refer to the size chart for more details. Great Design: This tennis bracelet has a simple design with chic slide clasp, lightweight and very easy to put on and take off. The versatile design can be worn with both simple daywear and luxurious evening wear. Gift Choice: Jewelry is an eternal symbol of love and affection, this tennis bracelet comes with a beautiful gift box, making it an ideal gift. This bracelet set is perfect for wife, girlfriends, lovers, fianc es and friends, suitable for birthdays, Valentine's Day, Christmas, Mother's Day, holidays, proms, parties, anniversaries, proms, graduations and other occasions.
+  Updated: 2025-12-10T09:05:15Z
+  Vendor: fabufabu design store
+  Product Type: Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_c9d84b64-7ec9-4449-bb74-401f17133078.jpg?v=1765357281
+  Price: $19.28 USD
+- [Love Heart Charm Chain Bracelet titanium steel Lucky Bracelet](https://fabufabu.com/products/love-heart-charm-chain-bracelet-titanium-steel-lucky-bracelet): Fabufabu "Less is More” collection, simple and elegant jewellery is your preference, you love aesthetic and texture elements, and you can wear them with a different taste. Approximate size: 22cm x 0.9cm x 0.5cm & Approximate weight: 0.01kg. Length suitable for most women and girls.This bracelet looks very delicate and strong. It has a lobster clasp, so it's easy to put on. Material: Heart-shaped bracelet made of titanium steel. electroplated with silver. The bracelet is well polished and comfortable to wear. The color won't fade. The perfect gift: This stylish heart-shaped bracelet can be given to your friends and family during holidays, Christmas, Valentine's Day, Mother's Day, weddings, parties, engagements, classes, dates, the beach, home, office and everyday life. This simple gold bracelet can be given to your friends' relatives during the holidays and is an ideal gift for women and teenage girls. It also works for any dress-up occasion.
+  Updated: 2025-12-10T09:10:13Z
+  Vendor: fabufabu design store
+  Product Type: Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_f1bd45a6-2fc9-4a68-b131-d277d4cd3b48.jpg?v=1765357659
+  Price: $23.13 USD
 
 ## Collections
 
@@ -122,8 +143,8 @@
   Updated: 2025-12-09T05:24:09Z
   Total Products: 0
 - [Bracelets](https://fabufabu.com/collections/bracelets-1)
-  Updated: 2025-12-09T05:24:17Z
-  Total Products: 6
+  Updated: 2025-12-10T09:09:13Z
+  Total Products: 9
 - [Outfits](https://fabufabu.com/collections/outfits)
   Updated: 2025-12-09T05:24:28Z
   Total Products: 0
@@ -155,7 +176,7 @@
   Updated: 2025-12-09T06:57:55Z
   Total Products: 1
 - [Man](https://fabufabu.com/collections/man-1)
-  Updated: 2025-12-09T07:02:11Z
+  Updated: 2025-12-10T07:32:08Z
   Total Products: 1
 
 ## Store Pages
