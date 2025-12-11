@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-12-09T00:00:51.448Z
+- Updated At: 2025-12-11T00:00:54.535Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -12654,10 +12654,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
 ## Collections
 
 - [Ceramic Mugs, Travel Mugs, and Tumbler Cups | Gifts, Perfect for you!](https://amyscoffeemugs.com/collections/all-mugs-and-cups): Discover cute, stylish mugs, tumblers, and travel mugs featuring animals, gnomes, sports, patterns, hobbies, and more. Personalization options for gift-giving!
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-09T12:05:52Z
   Total Products: 977
 - [Ceramic Coffee Mugs | Unique Designs, Dishwasher and Microwave Safe](https://amyscoffeemugs.com/collections/ceramic-coffee-mugs): Shop 11oz or 15oz ceramic mugs with unique designs, including animals, seasonal, patterns, and personalized options. Dishwasher and microwave safe. Shop now!
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-09T12:05:52Z
   Total Products: 577
 - [Travel Mugs for Everyone | Stylish, Tapered, Stainless Steel Insulated](https://amyscoffeemugs.com/collections/travel-mugs): Shop stainless steel travel mugs with colorful or seasonal designs, personalization, & spill-resistant lids. Perfect for gifting and keeping drinks hot or cold.
   Updated: 2025-12-08T12:05:41Z
@@ -12675,7 +12675,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-12-08T12:05:41Z
   Total Products: 108
 - [Pattern Mugs, Travel Mugs, Tumbler Cups | Unique Designs for Everyone](https://amyscoffeemugs.com/collections/pattern): Discover pattern mugs and tumbler cups in seasonal, stylish, or cute animal designs. Find your favorite pattern and enjoy every sip. Shop the collection today!
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-09T12:05:52Z
   Total Products: 805
 - [Pink Mugs, Travel Mugs, and Tumbler Cups | Cute, Fun, and Stylish](https://amyscoffeemugs.com/collections/pink): Shop this collection of pink mugs and tumblers with cute animals, flowers, hearts, gnomes, hobbies, and more. Great for everyday use or as a cheerful gift.
   Updated: 2025-12-08T12:05:41Z
@@ -12693,7 +12693,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-12-05T12:06:21Z
   Total Products: 193
 - [Red Mugs, Travel Mugs, and Tumbler Cups | Stylish and Unique Designs](https://amyscoffeemugs.com/collections/red): Discover red mugs with cute and stylish designs, seasonal artwork, inspirational patterns, polka dots, and more. Perfect for your beverages and gifting.
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-09T12:05:52Z
   Total Products: 165
 - [Black and White Mugs, Travel Mugs, & Tumblers | Stylish Drinkware](https://amyscoffeemugs.com/collections/black-white): Shop black and white mugs and tumblers with patterns like polka dots, buffalo plaid, zebra, cow, and hearts. Perfect for gifts or stylish black and white decor!
   Updated: 2025-11-29T12:09:14Z
@@ -12714,10 +12714,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-12-05T12:06:21Z
   Total Products: 161
 - [Buffalo Plaid Mugs, Travel Mugs, and Tumbler Cups for Rustic Kitchens](https://amyscoffeemugs.com/collections/buffalo-plaid): Shop buffalo plaid mugs, tumblers, and travel mugs. Perfect for rustic or modern kitchens. Personalized options for gifting. Elevate your coffee bar or kitchen!
-  Updated: 2025-11-19T12:05:27Z
+  Updated: 2025-12-09T12:05:52Z
   Total Products: 65
 - [Gingham Mugs, Travel Mugs, and Tumbler Cups | Classic Drinkware](https://amyscoffeemugs.com/collections/gingham): Explore gingham mugs and tumblers in classic check patterns, available in various colors, styles, and personalized options. Perfect for daily use or gifting.
-  Updated: 2025-11-21T15:23:41Z
+  Updated: 2025-12-09T12:05:52Z
   Total Products: 123
 - [Elephant Mugs, Travel Mugs, Tumbler Cups | Gifts for Elephant Lovers](https://amyscoffeemugs.com/collections/elephant): Shop our cute elephant mugs and tumblers, perfect for elephant lovers. Colorful designs that bring joy with every sip, making them ideal gifts for any occasion.
   Updated: 2025-11-08T12:05:06Z
