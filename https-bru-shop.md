@@ -237,7 +237,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-12-07T00:00:33.825Z
+- Updated At: 2025-12-11T00:00:33.991Z
 
 wir lieben tee
 
@@ -346,7 +346,7 @@ wir lieben tee
     Updated: 2024-07-30T10:32:35Z
     Author: Bogdan Krinitchko
   - [Detaillierte Produktspezifikationen (PDF)](https://bru.shop/blogs/bru-maker-one-pflege/detaillierten-produktspezifikationen-pdf)
-    Updated: 2025-11-06T08:51:24Z
+    Updated: 2025-12-09T16:46:40Z
     Author: Jasmin Yang
 - [BRU Rezepte](https://bru.shop/blogs/bru-rezepte)
   - [Tropical Eistee mit Beeren & Limette](https://bru.shop/blogs/bru-rezepte/tropical-eistee-mit-beeren-limette): <p><meta charset="UTF-8"><span>Fruchtig, frisch und perfekt für heiße Tage: Entdecke unser einfaches Eistee-Rezept mit Beeren, Honig und Limette!</span></p>
