@@ -1,12 +1,16 @@
 # POKÉ JEUX (https://www.pokejeux.ca)
 
+> Poké Jeux is a Canadian-based store specializing in Pokémon cards, Magic: The Gathering, Lorcana, and other trading card games. We offer sealed products, single cards, and exclusive collector memberships. Our mission is to provide collectors across Canada with authentic products and excellent service.
+
 - Domain: https://www.pokejeux.ca
 - Locale: en
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2022-09-17T20:15:25Z
 - Contact Email: info@pokejeux.ca
-- Updated At: 2025-12-11T00:02:41.353Z
+- Contact Phone: 14503561007
+- Address: 100-513 rue samuel de champlain
+- Updated At: 2025-12-11T00:05:30.799Z
 
 ## Products
 
@@ -981,7 +985,7 @@
   Updated: 2025-12-10T23:50:34Z
   Total Products: 3728
 - [Best selling products](https://www.pokejeux.ca/collections/best-selling-collection)
-  Updated: 2025-12-11T00:02:23Z
+  Updated: 2025-12-11T00:05:09Z
   Total Products: 263953
 - [Banpresto](https://www.pokejeux.ca/collections/banpresto)
   Updated: 2025-09-04T11:17:12Z
@@ -1101,7 +1105,7 @@
   Updated: 2025-08-16T01:48:08Z
   Total Products: 20
 - [AVADA - Best Sellers](https://www.pokejeux.ca/collections/avada-best-sellers)
-  Updated: 2025-12-11T00:02:23Z
+  Updated: 2025-12-11T00:05:09Z
   Total Products: 263953
 - [Garbage Pail Sealed](https://www.pokejeux.ca/collections/garbage-pail)
   Updated: 2025-08-16T01:48:08Z
