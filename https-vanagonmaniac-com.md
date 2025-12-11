@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-12-10T00:00:40.102Z
+- Updated At: 2025-12-11T00:00:39.342Z
 
 ## Products
 
@@ -2458,7 +2458,7 @@
     Availability: Available
     Price: €111.00 EUR
 - [Magnetic Bug Screen for VW T3 Westfalia Sliding Door + Rear in BLACK](https://vanagonmaniac.com/products/magnetic-bug-screen-for-vw-t3-westfalia-sliding-door-black): Keep your VW T3 Westfalia Vanagon campervan bug-free with this top-quality magnetic bug mesh screen designed specifically for the sliding side door and rear hatch.
-  Updated: 2025-11-10T22:28:11Z
+  Updated: 2025-12-10T23:02:06Z
   Vendor: Vanagon Maniac
   Product Type: van accesories
   Availability: Available
@@ -3094,19 +3094,34 @@
     Price: €111.00 EUR
 - [VW T3 Full Interior 8-Panel Insulation Set | Complete 9-Layer Thermal Blinds Kit by VanagonManiac](https://vanagonmaniac.com/products/vw-t3-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your entire Volkswagen T3 interior comfort with our premium 9-layer full-window thermal insulation kit, designed and test-fitted by VanagonManiac for a perfect OEM fit.
 This complete set includes full coverage for all VW T3 windows - cockpit, sliding door, side windows, rear hatch, and rear quarter windows - providing maximum insulation, privacy, and climate control in every season.
-  Updated: 2025-12-09T13:17:00Z
+  Updated: 2025-12-10T01:17:11Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/coming_soon_35.png?v=1764937483
   Price: €500.00 EUR
 - [VW T4 Full Interior 8-Panel Thermal Insulation Kit (Complete Camper Set)](https://vanagonmaniac.com/products/vw-t4-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your Volkswagen T4 comfort instantly with our premium 9-layer full interior insulation system, engineered by VanagonManiac for an exact OEM-fit across all T4 models.
-  Updated: 2025-12-09T13:16:06Z
+  Updated: 2025-12-10T01:12:37Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/coming_soon_38.png?v=1765286165
   Price: €500.00 EUR
+- [VW T3 / T25 Rear Seat Organizer (Universal Fit) | Multi-Pocket Campervan Storage](https://vanagonmaniac.com/products/vw-t3-t25-rear-seat-organizer-universal-fit-multi-pocket-campervan-storage): Upgrade your VW T3 / T25 campervan interior with this premium Passenger Seat Rear Organizer, designed to maximize storage while keeping your essentials neatly within reach. Built from heavy-duty Oxford fabric and reinforced with clean black edging, this organizer provides a practical and stylish upgrade for both daily driving and long road trips. ✔ Custom Fit for VW T3 / T25 Perfectly sized for the original Westfalia/T25 passenger seat.Attaches securely using a top snap-rivet anchor point and a lower adjustable buckle strap. ✔ Made to Fit VW T3/T25 /Also, Universal fit to Most Vehicles VW T3 / T25 Westfalia campervans Also compatible with many passenger seats found in modern cars and vans (see size guide to confirm)Example shown installed on a Volvo XC90. 6 Functional Storage Pockets Thoughtfully arranged pockets to organize travel gear, tools, electronics, kids’ items, or camper essentials: 2 small upper pockets – great for sunglasses, small accessories 1 medium zipper pocket – secure storage for valuables 1 side utility pocket – perfect for bottles or small items 1 large middle pocket – ideal for maps, chargers, notebooks 1 wide bottom zipper pocket – full-width storage for documents or larger gear Size guide with pocket dimensions is included in the product photos. Available in 3 Premium Color Options Choose a tone that matches your camper interior style: Beige / Camel Grey Black All colors use identical durable materials and reinforced stitching.
+  Updated: 2025-12-10T12:12:05Z
+  Vendor: Vanagon Maniac
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/2_6.png?v=1765361559
+  - [Beige](https://vanagonmaniac.com/products/vw-t3-t25-rear-seat-organizer-universal-fit-multi-pocket-campervan-storage?variant=52057117753686)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Gray](https://vanagonmaniac.com/products/vw-t3-t25-rear-seat-organizer-universal-fit-multi-pocket-campervan-storage?variant=52057117786454)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Black](https://vanagonmaniac.com/products/vw-t3-t25-rear-seat-organizer-universal-fit-multi-pocket-campervan-storage?variant=52057117819222)
+    Availability: Available
+    Price: €75.00 EUR
 
 ## Collections
 
@@ -3114,14 +3129,14 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-11-28T12:15:53Z
   Total Products: 9
 - [T25/T3](https://vanagonmaniac.com/collections/t25): Volkswagen T25/T3/VANAGON/SCA/REIMO pop-top replacement canvas. Brand new VW Westfalia pop-up camper replacement canvas weather weather-resistant, model fit and in 14 colours.
-  Updated: 2025-12-09T13:17:02Z
-  Total Products: 12
+  Updated: 2025-12-10T12:01:47Z
+  Total Products: 14
 - [T4](https://vanagonmaniac.com/collections/t4): Volkswagen T4 Replacement Pop Top Canvas for short wheel and long wheel base.
   Updated: 2025-12-09T13:12:27Z
   Total Products: 13
 - [Accessories](https://vanagonmaniac.com/collections/accessories)
-  Updated: 2025-11-30T12:12:33Z
-  Total Products: 7
+  Updated: 2025-12-10T12:00:36Z
+  Total Products: 8
 - [Ford nugget](https://vanagonmaniac.com/collections/ford): Ford Transit Nugget Replacement Pop Top Roof Tent Canvas
   Updated: 2025-11-11T12:36:44Z
   Total Products: 5
@@ -3141,8 +3156,8 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-12-09T13:17:02Z
   Total Products: 8
 - [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
-  Updated: 2025-12-09T13:17:02Z
-  Total Products: 41
+  Updated: 2025-12-10T11:35:13Z
+  Total Products: 42
 
 ## Blogs
 
@@ -3195,6 +3210,12 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
     Updated: 2025-11-10T16:45:29Z
     Author: Kaspars Stabulnieks
     Tags: application tips, berner water proof spray, long lasting protection, pop top roof canvases, replacement canvas care tips, vw t3 canvas waterproofing, waterproofing
+  - [The Real Reason Vans Lose Heat Through the Windows - Explained](https://vanagonmaniac.com/blogs/get-inspired/the-real-reason-vans-lose-heat-through-the-windows-explained)
+    Updated: 2025-12-10T09:32:42Z
+    Author: Kaspars Stabulnieks
+  - [The Complete Guide to 9-Layer Campervan Window Insulation (For VW, Ducato, ProMaster, Sprinter & More)](https://vanagonmaniac.com/blogs/get-inspired/the-complete-guide-to-9-layer-campervan-window-insulation-for-vw-ducato-promaster-sprinter-more)
+    Updated: 2025-12-10T09:30:36Z
+    Author: Kaspars Stabulnieks
 
 ## Store Pages
 
