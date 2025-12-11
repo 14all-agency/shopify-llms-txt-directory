@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-10T19:31:25.218Z
+- Updated At: 2025-12-11T00:03:02.466Z
 
 ## Products
 
@@ -445,8 +445,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-07T22:28:13Z
   Price: $6,996.99 USD
 - [Majestic Traditional Sofa And Loveseat In Gold & Light Beige](https://homeeleganceusa.com/products/majestic-traditional-sofa-and-loveseat-in-gold-light-beige-wood-finish-by-cosmos-furniture): Update your living room with this Traditional piece. Featuring finest Fabric upholstery, Tufted Back and Cabriole Legs. This piece is sure to look fantastic ...
-  Updated: 2025-12-07T22:28:14Z
-  Price: $4,488.99 USD — $7,373.99 USD
+  Updated: 2025-12-10T22:04:11Z
+  Price: $3,671.99 USD — $7,373.99 USD
 - [Phoenix Traditional Sofa And Loveseat In Cherry Wood Finish](https://homeeleganceusa.com/products/phoenix-sofa-and-loveseat-cherry-by-cosmos-furniture): Update your living room with this Traditional piece. Featuring plush Fabric upholstery, button tufting all around. This piece is sure to look fantastic in any.
   Updated: 2025-12-07T22:28:15Z
   Price: $5,008.99 USD — $8,718.99 USD
@@ -679,8 +679,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-03T10:19:59Z
   Price: $4,001.99 USD
 - [Power Reclining Leather Loveseat Levelland 1700174 | Ashley](https://homeeleganceusa.com/products/levelland-power-reclining-loveseat-by-ashley-furniture): Padded cushions on waterfall back design and pillow top arms offer plenty of support. Top it all off with 100% leather in the deep seating area and a two-tone warm brown color, Dimensions: 64" L x 40" D x 42" H
-  Updated: 2025-12-03T10:20:01Z
-  Price: $867.99 USD
+  Updated: 2025-12-10T22:03:12Z
+  Price: $767.99 USD
 - [Platform Jeremaine Upholstered Bed In White Color | Coaster](https://homeeleganceusa.com/products/jeremaine-bed-in-white-by-coaster-furniture): The padded headboard provides a place to place accent pillows against or for you to lean on to read a good book or wind down with a movie. Add this bed to make a statement about your style.
   Updated: 2025-12-08T17:32:27Z
   Price: $876.99 USD — $1,124.99 USD
@@ -688,14 +688,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-08T15:02:04Z
   Price: $499.99 USD — $687.99 USD
 - [Tully Upholstered King Bed White Leatherette – Coaster](https://homeeleganceusa.com/products/tully-bed-by-coaster-furniture-300372ek): Tully King Upholstered Bed in White by Coaster with wave-style rails, button tufting & luxe faux leather. Elegant modern design. Includes headboard, footboard & rails.
-  Updated: 2025-12-08T17:32:28Z
-  Price: $777.99 USD
+  Updated: 2025-12-10T22:02:50Z
+  Price: $677.99 USD
 - [Contemporary Upholstered Bed in Silver by Furniture World](https://homeeleganceusa.com/products/b599-bed-by-furniture-world): B599 Contemporary Bed - Furniture World   Description  Beautiful Crystal Tufted Headboard with mirrored accents; Crocodile texture accents; Touch controlled, Dimensions: Queen: 63"W x 86"D x 66"H
   Updated: 2025-12-03T10:20:06Z
   Price: $494.99 USD — $579.99 USD
 - [Rectangular Coffee Table Watson| Ashley](https://homeeleganceusa.com/products/watson-coffee-table-by-ashley-furniture): Rectangular Coffee Table Watson T481-1 | Ashley  Description Showing off big-time with oversized tabletop space, this rectangular coffee table serves up major
-  Updated: 2025-12-03T10:20:07Z
-  Price: $428.99 USD
+  Updated: 2025-12-10T22:01:52Z
+  Price: $398.99 USD
 - [Sania Rustic Antique Server by Furniture of America](https://homeeleganceusa.com/products/sania-server-by-furniture-of-america): Sania Server Rustic charm meets upscale design in the form of this stunning collection. The rustic wood grain in antique black or rustic oak finish take you...
   Updated: 2025-12-03T10:20:09Z
   Price: $1,437.99 USD
@@ -742,14 +742,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-03T10:20:31Z
   Price: $4,996.99 USD
 - [Brighton Four-Door Buffet Black & Zebrawood – Stein World 12438](https://homeeleganceusa.com/products/12438-brighton-four-door-console-buffet): Stein World Brighton 4-Door Buffet with zebrawood fronts, mirrored trim & ample storage. A modern, mid-century cabinet perfect for dining rooms or entertainment spaces.
-  Updated: 2025-12-03T10:20:32Z
-  Price: $1,794.99 USD
+  Updated: 2025-12-10T22:01:38Z
+  Price: $1,894.99 USD
 - [Florentina Traditional Dining Extension Table | Homelegance](https://homeeleganceusa.com/products/florentina-traditional-dining-extension-table-by-homelegance-furniture): The acanthus motif is carried over to the display china, that along with carved cabriole feet, delicately designed knob hardware, glass shelving, and drawer storage, complete the traditional look of the collection.
   Updated: 2025-12-03T10:20:33Z
   Price: $1,599.00 USD
 - [Brownstone Traditional Console Table 28314 | Stein World](https://homeeleganceusa.com/products/brownstone-console-table-by-stein-world-furniture): Add some style and panache to your home with the addition of the Brownstone Console Table. The wooden made elegantly designed, four drawer console, has got six
-  Updated: 2025-12-03T10:20:34Z
-  Price: $374.99 USD
+  Updated: 2025-12-10T22:01:24Z
+  Price: $349.99 USD
 - [Ameillia Dining Table in Dark Gray | Homelegance](https://homeeleganceusa.com/products/ameillia-dining-table): Upgrade your dining experience with the Ameillia Transitional Dining Table, where timeless craftsmanship meets modern convenience. Shop now at Home Elegance USA!, ‎586GY-82
   Updated: 2025-12-03T10:20:35Z
   Price: $497.99 USD
@@ -17614,8 +17614,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-08T14:42:45Z
   Price: $3,631.99 USD
 - [Chester Brown Leather Power Reclining Sectional 603440PP – Coaster](https://homeeleganceusa.com/products/coaster-furniture-chester-chocolate-leather-power-reclining-sectional-603440pp): Chester Brown Genuine Leather Power Reclining Sectional by Coaster with USB ports, console, and cup holders. Luxury comfort meets modern function.
-  Updated: 2025-12-08T17:35:18Z
-  Price: $3,034.99 USD
+  Updated: 2025-12-10T22:03:23Z
+  Price: $2,794.99 USD
 - [Louis Philippe Rich Cappuccino 3 Piece Queen Sleigh Bedroom Set -](https://homeeleganceusa.com/products/coaster-furniture-louis-philippe-rich-cappuccino-3-piece-queen-sleigh-bedroom-set-202411q-3set): Coaster Furniture - Louis Philippe Rich Cappuccino 3 Piece Queen Sleigh Bedroom Set - 202411Q-3SETFeatures: Set Includes Queen Sleigh Bed and 2 Nightstands
   Updated: 2025-12-08T17:35:19Z
   Price: $968.99 USD
@@ -17752,8 +17752,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-03T11:54:14Z
   Price: $2,875.99 USD
 - [Antoinetta Chest in Champagne Finish – Homelegance 1919NC-9](https://homeeleganceusa.com/products/homelegance-antoinetta-champagne-chest-1919nc-9): Homelegance Antoinetta Chest in champagne finish with elegant carvings and 5 storage drawers. Free Nationwide Shipping + white-glove assembly included.
-  Updated: 2025-12-03T11:54:14Z
-  Price: $997.99 USD
+  Updated: 2025-12-10T22:03:33Z
+  Price: $897.99 USD
 - [Catalonia Cherry 7 Piece Dining Table Set 1824-112-7 | Homelegance](https://homeeleganceusa.com/products/homelegance-catalonia-cherry-7-piece-dining-table-set-1824-112-7): Homelegance - Catalonia Cherry 7 Piece Dining Table Set - 1824-112-7 Old-World European styling is captured in the dramatically elegant Catalonia Collection.
   Updated: 2025-12-03T11:54:16Z
   Price: $4,044.99 USD
@@ -24448,298 +24448,298 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-03T12:31:54Z
   Price: $1,679.00 USD
 - [Upholstery Wing Tip Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-wing-tip-chair): Caracole Upholstery Wing Tip Chair Command the room from any view with this contemporary take on the classic wing chair. Beckoning in a lush pewter velvet with
-  Updated: 2025-12-07T22:33:05Z
-  Price: $3,140.99 USD
+  Updated: 2025-12-10T21:06:08Z
+  Price: $2,884.99 USD
 - [Upholstery X Factor Sofa UPH-021-013-A | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-x-factor-sofa): Pair two pieces from our X Factor sectional collection to create an unforgettable sofa, smartly dressed in a fashionable herringbone performance fabric. UPH-021-013-A
-  Updated: 2025-12-07T22:33:06Z
-  Price: $5,298.99 USD
+  Updated: 2025-12-10T21:06:09Z
+  Price: $4,865.99 USD
 - [Upholstery Slippery Slope Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-slippery-slope-chair): Caracole Upholstery Slippery Slope Chair Classic elegance with a modern vibe, this accent chair makes an unforgettable statement. Arching metal arms in Brushed
-  Updated: 2025-12-07T22:33:07Z
-  Price: $3,481.99 USD
+  Updated: 2025-12-10T21:06:10Z
+  Price: $3,196.99 USD
 - [Classic Solid Ground Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-solid-ground-cocktail-table): Styled in multiples or on its own, this refined cocktail table makes a solid statement in a richly textured faux shagreen. Fully wrapped, its classic cube shape
-  Updated: 2025-12-07T22:33:08Z
-  Price: $724.99 USD
+  Updated: 2025-12-10T21:06:10Z
+  Price: $665.99 USD
 - [Classic Solid As A Rock Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-solid-as-a-rock-cocktail-table): With uncompromising beauty, this classic cocktail table showcases the exquisite veining and coloration found in natural stone. A work of art on its own, its
-  Updated: 2025-12-07T22:33:09Z
-  Price: $2,789.99 USD
+  Updated: 2025-12-10T21:06:11Z
+  Price: $2,561.99 USD
 - [Signature Metropolitan Opening Act Chair | Caracole](https://homeeleganceusa.com/products/caracole-signature-metropolitan-opening-act-chair): Caracole Signature Metropolitan Opening Act Chair A sleek introduction to modern living interiors, this chair merges form with function for a style that's as
-  Updated: 2025-12-07T22:33:13Z
-  Price: $4,247.99 USD
+  Updated: 2025-12-10T21:06:12Z
+  Price: $3,899.99 USD
 - [Classic Open Air Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-open-air-cocktail-table): Bunched or single, this architectural design lets you create an ever-changing cocktail table that's open to interpretation. Framed in Deep Bronze metal, a
-  Updated: 2025-12-07T22:33:14Z
-  Price: $1,221.99 USD
+  Updated: 2025-12-10T21:06:13Z
+  Price: $1,121.99 USD
 - [Signature Metropolitan Live Wire Chair | Caracole](https://homeeleganceusa.com/products/caracole-signature-metropolitan-live-wire-chair): Caracole Signature Metropolitan Live Wire Chair The designer created a perfect scale model to refine the details of this sleek modern chair, poised to make an
-  Updated: 2025-12-07T22:33:16Z
-  Price: $3,455.99 USD
+  Updated: 2025-12-10T21:06:14Z
+  Price: $3,172.99 USD
 - [Classic Foiled Again Buffet | Caracole](https://homeeleganceusa.com/products/caracole-classic-foiled-again-buffet): An elevated take on a casual, clean-lined design, this buffet makes an organic statement in an alluring material mix. Emulating the shimmer of mica minerals, Dimensions: 80" w x 18" d x 34" h
 Cubic Feet: 37.48 cu.ft
 Weight: 216.1 pounds
-  Updated: 2025-12-07T22:33:17Z
-  Price: $5,991.99 USD
+  Updated: 2025-12-10T21:06:14Z
+  Price: $5,501.99 USD
 - [Classic Here To Accommodate Dining Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-here-to-accommodate-dining-table): Accommodate everyone on your list, including surprise guests, with this extension dining table. Graceful in scale and proportion with a natural wood grain, CLA-021-202
-  Updated: 2025-12-07T22:33:18Z
-  Price: $5,760.99 USD
+  Updated: 2025-12-10T21:06:15Z
+  Price: $5,289.99 USD
 - [Classic Elegance Sofa | Caracole](https://homeeleganceusa.com/products/caracole-classic-elegance-sofa): Caracole Classic Elegance Sofa. Details: Collection: Classic Elegance Measurements: Cubic Feet: 62.08 cu.ft Weight: 217.8 pounds Caracole's design philosophy is
-  Updated: 2025-12-07T22:33:19Z
-  Price: $3,140.99 USD
+  Updated: 2025-12-10T21:06:16Z
+  Price: $2,884.99 USD
 - [Upholstery Deep Retreat Accent Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-deep-retreat-accent-chair): Caracole Upholstery Deep Retreat Accent Chair The epitome of livable luxury, this contemporary chair elegantly mixes sink-in comfort with clean modern lines.
-  Updated: 2025-12-07T22:33:21Z
-  Price: $2,660.99 USD
+  Updated: 2025-12-10T21:06:17Z
+  Price: $2,442.99 USD
 - [Upholstery Arm In Arm Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-arm-in-arm-chair): Caracole Upholstery Arm in Arm Chair Tactile and intriguing, this streamlined accent chair mixes the rich aesthetic of leather with the found beauty of wood and
-  Updated: 2025-12-07T22:33:22Z
-  Price: $3,454.99 USD
+  Updated: 2025-12-10T21:06:17Z
+  Price: $3,171.99 USD
 - [Fret Knot 4 Pc. Sectional Upholstery - Caracole](https://homeeleganceusa.com/products/caracole-upholstery-fret-knot-sectional): Fret Knot 4 Pc. Sectional Upholstery - Caracole Description Create your dream seating area with the customizability of these elegant seating segments featuring
-  Updated: 2025-12-07T22:33:23Z
-  Price: $12,550.99 USD
+  Updated: 2025-12-10T21:06:18Z
+  Price: $11,524.99 USD
 - [Upholstery Fanciful Sectional | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-fanciful-sectional): Free-flowing and organic, Fanciful's soft curves are artfully accented by a quilted ginkgo leaf pattern, fanning out along the back and sides. UPH-020-LL1-A / UPH-020-RL1-A
-  Updated: 2025-12-07T22:33:24Z
-  Price: $9,583.99 USD
+  Updated: 2025-12-10T21:06:19Z
+  Price: $8,799.99 USD
 - [Upholstery Welt Played Sleeper In Smokey Taupe | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-welt-played-sleeper-in-smokey-taupe): Drawing inspiration from Fashion Week in Paris, the Welt Played sofa offers modern styling brought to life with warmth and texture. Tailored in a smoky taupe
-  Updated: 2025-12-07T22:33:24Z
-  Price: $3,298.99 USD
+  Updated: 2025-12-10T21:06:20Z
+  Price: $3,029.99 USD
 - [Victoria Sofa | Caracole](https://homeeleganceusa.com/products/caracole-victoria-sofa): A fresh, yet familiar addition to living room interiors, this shapely sofa adds a note of effortless glamour in a cream performance basketweave with a subtle
-  Updated: 2025-12-07T22:33:25Z
-  Price: $3,048.99 USD
+  Updated: 2025-12-10T21:06:20Z
+  Price: $2,798.99 USD
 - [Upholstery Welt Played Chair In Smokey Taupe | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-welt-played-chair-in-smokey-taupe): Caracole Upholstery Welt Played Chair in Smokey Taupe Drawing inspiration from Fashion Week in Paris, the Welt Played chair offers modern styling brought to
-  Updated: 2025-12-07T22:33:26Z
-  Price: $1,703.99 USD
+  Updated: 2025-12-10T21:06:21Z
+  Price: $1,564.99 USD
 - [Upholstery Welt Played Sofa In Smokey Taupe | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-welt-played-sofa-in-smokey-taupe): Drawing inspiration from Fashion Week in Paris, the Welt Played sofa offers modern styling brought to life with warmth and texture. Tailored in a smoky taupe
-  Updated: 2025-12-07T22:33:27Z
-  Price: $2,891.99 USD
+  Updated: 2025-12-10T21:06:22Z
+  Price: $2,655.99 USD
 - [Lillian Rectangle Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-lillian-rectangle-cocktail-table): A luxe landing for art books and decor, this cocktail table features a fluid harp shape, accentuated by exquisite woodgrains and Soft Radiance paint. A capped
-  Updated: 2025-12-07T22:33:30Z
-  Price: $2,949.99 USD
+  Updated: 2025-12-10T21:06:23Z
+  Price: $2,708.99 USD
 - [Lillian Stone Manor Chair | Caracole](https://homeeleganceusa.com/products/caracole-lillian-stone-manor-chair): Beautifully embellished, the Lillian accent chair makes a luxe statement and adds refined comfort to conversation areas. Wrapping the inside and outside of its
-  Updated: 2025-12-07T22:33:32Z
-  Price: $2,265.99 USD
+  Updated: 2025-12-10T21:06:23Z
+  Price: $2,079.99 USD
 - [Modern Streamline Chair | Caracole](https://homeeleganceusa.com/products/caracole-modern-streamline-chair): A contemporary take on a classic shape, this accent chair makes a dramatic statement in a refined material mix. Sleek metal lines merge with an open curve and
-  Updated: 2025-12-07T22:33:34Z
-  Price: $1,927.99 USD
+  Updated: 2025-12-10T21:06:24Z
+  Price: $1,770.99 USD
 - [La Moda Dresser | Caracole](https://homeeleganceusa.com/products/caracole-la-moda-dresser): Bold lines and bronze mirror define this architecturally inspired dresser. Dramatic, yet unpretentious in a modest mix of materials, its sleek design lends a
-  Updated: 2025-12-07T22:33:35Z
-  Price: $3,221.99 USD
+  Updated: 2025-12-10T21:06:25Z
+  Price: $2,957.99 USD
 - [Caracole La Moda 3-Piece Sectional - Home Elegance USA](https://homeeleganceusa.com/products/caracole-la-moda-3-piece-sectional): A minimalist design with distinct Euro-modern style, this four-piece sectional is architectural, yet
-  Updated: 2025-12-07T22:33:38Z
-  Price: $4,791.99 USD
+  Updated: 2025-12-10T21:06:26Z
+  Price: $4,399.99 USD
 - [Upholstery Welt Played Chair In Brushed Tweed | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-welt-played-chair-in-brushed-tweed): Drawing inspiration from Fashion Week in Paris, the Welt Played chair offers modern styling brought to life with warmth and texture. Tailored in a brushed tweed
-  Updated: 2025-12-07T22:33:38Z
-  Price: $1,703.99 USD
+  Updated: 2025-12-10T21:06:26Z
+  Price: $1,564.99 USD
 - [La Moda Chair | Caracole](https://homeeleganceusa.com/products/caracole-la-moda-chair): Architectural in form with soft rounded edges, this chair introduces a minimalist design with distinct Euro-modern style. Expertly tailored in a brush twill
-  Updated: 2025-12-07T22:33:39Z
-  Price: $2,265.99 USD
+  Updated: 2025-12-10T21:06:27Z
+  Price: $2,079.99 USD
 - [La Moda Da Vita Sofa | Caracole](https://homeeleganceusa.com/products/caracole-la-moda-da-vita-sofa): Quintessential Italian elegance: this low, modern sofa features a comfortably curved back and subtly flared arms that beckon in a luxe cloud grey performance
-  Updated: 2025-12-07T22:33:40Z
-  Price: $4,512.99 USD
+  Updated: 2025-12-10T21:06:28Z
+  Price: $4,144.99 USD
 - [Classic Around The Edge Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-around-the-edge-table): Crafted with the utmost attention to detail, this pedestal table introduces an element of ageless beauty to dining interiors. Inspired by a piece found while
-  Updated: 2025-12-07T22:33:42Z
-  Price: $3,971.99 USD
+  Updated: 2025-12-10T21:06:29Z
+  Price: $3,646.99 USD
 - [Upholstery Special Invitation Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-special-invitation-chair): With a classic silhouette influenced by French elegance, this chair makes a gracious statement in a soothing oatmeal-colored performance fabric. Soft curves
-  Updated: 2025-12-07T22:33:43Z
-  Price: $3,147.99 USD
+  Updated: 2025-12-10T21:06:30Z
+  Price: $2,890.99 USD
 - [Classic Wrap It Up Chest | Caracole](https://homeeleganceusa.com/products/caracole-classic-wrap-it-up-chest): Caracole Classic Wrap It Up Chest. Details: Case finished in Dark Chocolate Metal trim in Champagne Gold Six drawers with vinyl fronts and undermount soft close
-  Updated: 2025-12-07T22:33:44Z
-  Price: $5,169.99 USD
+  Updated: 2025-12-10T21:06:31Z
+  Price: $4,746.99 USD
 - [Farrah Chair | Caracole](https://homeeleganceusa.com/products/caracole-farrah-chair): Soft curves converge with flowing lines to create an enveloping silhouette. Features a plush seat and smooth upholstered back, dramatically defined by pleated
-  Updated: 2025-12-07T22:33:45Z
-  Price: $2,005.99 USD
+  Updated: 2025-12-10T21:06:31Z
+  Price: $1,841.99 USD
 - [Farrah Sofa | Caracole](https://homeeleganceusa.com/products/caracole-farrah-sofa): With its classic kidney shape, this sofa adds a soft silhouette to modern seating areas. Features a gently bowed bench seat and comfortably curved back,
-  Updated: 2025-12-07T22:33:46Z
-  Price: $3,847.99 USD
+  Updated: 2025-12-10T21:06:32Z
+  Price: $3,532.99 USD
 - [Classic Up And Over Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-up-and-over-cocktail-table): Inspired by the shapely ginkgo leaf, this occasional table mixes materials and finishes for a style that's both casual and glamorous. Its gracefully undulating
-  Updated: 2025-12-07T22:33:47Z
-  Price: $1,880.99 USD
+  Updated: 2025-12-10T21:06:33Z
+  Price: $1,725.99 USD
 - [Classic Down And Under Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-down-and-under-table): Taking inspiration from the shapely ginkgo leaf, this casually glamorous occasional table brings a beautiful balance of materials and finishes. Adorning its
-  Updated: 2025-12-07T22:33:48Z
-  Price: $2,362.99 USD
+  Updated: 2025-12-10T21:06:34Z
+  Price: $2,169.99 USD
 - [Classic Dress To Impress Dresser | Caracole](https://homeeleganceusa.com/products/caracole-classic-dress-to-impress-dresser): Poised to make an elegant first impression, this generous dresser introduces a refined mix of natural materials, with soft color palettes and a shimmering
-  Updated: 2025-12-07T22:33:49Z
-  Price: $3,774.99 USD
+  Updated: 2025-12-10T21:06:34Z
+  Price: $3,465.99 USD
 - [Classic Perfectly Square Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-perfectly-square-cocktail-table): Worthy of a second look, the beauty of this cocktail table will surely prompt a double take. Its classic square shape is ideal for anchoring your conversation
-  Updated: 2025-12-07T22:33:50Z
-  Price: $1,999.99 USD
+  Updated: 2025-12-10T21:06:35Z
+  Price: $1,835.99 USD
 - [Classic Case Closed Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-case-closed-cocktail-table): A masterful mix of materials and functionality, this modern cocktail table makes an alluring focal feature in an ombre silver leaf. Using the time-honored verre
-  Updated: 2025-12-07T22:33:50Z
-  Price: $3,111.99 USD
+  Updated: 2025-12-10T21:06:36Z
+  Price: $2,857.99 USD
 - [Classic Around The Corner Dresser | Caracole](https://homeeleganceusa.com/products/caracole-classic-around-the-corner-dresser): A masterful mix of form and function, this mid-century-inspired console stirs interest with its linear design and host of storage options. Sliding tambour doors, CLA-020-031
-  Updated: 2025-12-07T22:33:51Z
-  Price: $7,002.99 USD
+  Updated: 2025-12-10T21:06:37Z
+  Price: $6,429.99 USD
 - [Classic Elegance Upholstery Sofa | Caracole](https://homeeleganceusa.com/products/caracole-classic-elegance-upholstery-sofa): Curvaceous and shapely, with traditional elements like button-tufting and decorative nailhead trim, this tight bench seat sofa also conveys a modern sensibility
-  Updated: 2025-12-07T22:33:53Z
-  Price: $3,485.99 USD
+  Updated: 2025-12-10T21:06:37Z
+  Price: $3,201.99 USD
 - [Classic Elegance Birch Chair | Caracole](https://homeeleganceusa.com/products/caracole-classic-elegance-birch-chair): This Chair embraces traditional elements like button-tufting and decorative nailhead trim and also conveys a modern sensibility covered in natural fabric.
-  Updated: 2025-12-07T22:33:53Z
-  Price: $1,621.99 USD
+  Updated: 2025-12-10T21:06:38Z
+  Price: $1,488.99 USD
 - [Classic Elegance Chestnut Upholstery Chair | Caracole](https://homeeleganceusa.com/products/caracole-classic-elegance-chestnut-upholstery-chair): Caracole Classic Elegance Chestnut Upholstery Chair. Details: Plush Poly Foam Cushion No Sag Seat Collection: Classic Elegance Finish: Chestnut Measurements:
-  Updated: 2025-12-07T22:33:54Z
-  Price: $1,599.99 USD
+  Updated: 2025-12-10T21:06:39Z
+  Price: $1,468.99 USD
 - [Upholstery Pop Your Collar Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-pop-your-collar-chair): Attention-getting by nature, this exceptional chair has considerable presence. Its tall winged back design is expertly upholstered in a luxurious chocolate plum
-  Updated: 2025-12-07T22:33:55Z
-  Price: $2,909.99 USD
+  Updated: 2025-12-10T21:06:40Z
+  Price: $2,672.99 USD
 - [Upholstery Eaves Drop | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-eaves-drop): When it's time for a refresh or a little something new, this luxurious chair is just the thing. Featuring all the right curves, its refined silhouette is
-  Updated: 2025-12-07T22:33:55Z
-  Price: $2,809.99 USD
+  Updated: 2025-12-10T21:06:40Z
+  Price: $2,579.99 USD
 - [Upholstery Eaves Drop Sofa | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-eaves-drop-sofa): Eaves Drop Sofa If you're longing to refresh a room or give it a little something new, this luxurious sofa is just the thing. Featuring all the right curves,
-  Updated: 2025-12-07T22:33:56Z
-  Price: $5,790.99 USD
+  Updated: 2025-12-10T21:06:41Z
+  Price: $5,316.99 USD
 - [Upholstery Slatitude Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-slatitude-chair): Evoking the idea of a relaxing summer's evening spent drinking cool cocktails and listening to the lapping water at the sand's edge, this gorgeous chair is
-  Updated: 2025-12-08T05:27:27Z
-  Price: $2,685.99 USD
+  Updated: 2025-12-10T21:06:42Z
+  Price: $2,466.99 USD
 - [Upholstery Two To Tango Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-two-to-tango-chair): Caracole Upholstery Two to Tango Chair. Details: Carved cabriole front legs Tight button-tufted inback Tight seat Plush poly foam cushion 8-Way hand tied seat
-  Updated: 2025-12-07T22:33:57Z
-  Price: $2,514.99 USD
+  Updated: 2025-12-10T21:06:42Z
+  Price: $2,309.99 USD
 - [Upholstery I'M Shelf-Ish 2-Piece Sectional | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-i-m-shelf-ish-2-piece-sectional): Create a destination in your home with the refined character and comfort of this stunning sectional sofa. Unique by design, its seat cushions nest under a wide
-  Updated: 2025-12-07T22:33:58Z
-  Price: $5,483.99 USD
+  Updated: 2025-12-10T21:06:43Z
+  Price: $5,035.99 USD
 - [Upholstery Pretty Little Thing Sofa | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-pretty-little-thing-sofa): It's impossible to miss the effervescent beauty this sofa adds to a room. Pretty from every angle, it boasts a svelte shape and distinguished silhouette.
-  Updated: 2025-12-07T22:33:59Z
-  Price: $4,937.99 USD
+  Updated: 2025-12-10T21:06:44Z
+  Price: $4,534.99 USD
 - [Upholstery Welt Played Sofa | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-welt-played-sofa): Caracole Upholstery Welt Played Sofa Drawing inspiration from Fashion Week in Paris, the Welt Played sofa offers modern styling brought to life with warmth and
-  Updated: 2025-12-07T22:34:00Z
-  Price: $4,083.99 USD
+  Updated: 2025-12-10T21:06:45Z
+  Price: $3,750.99 USD
 - [Upholstery Lean On Me Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-lean-on-me-chair): Who said recliners aren't stylish? This is reclining, reimagined. Lean On Me offers a simple, minimal silhouette in Almost Black leather that feels sleek and
-  Updated: 2025-12-07T22:34:02Z
-  Price: $2,109.99 USD
+  Updated: 2025-12-10T21:06:46Z
+  Price: $1,937.99 USD
 - [Classic Circle In Time Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-circle-in-time-cocktail-table): Caracole Classic Circle In Time. Details: Case finished in Auric Bronze mirror top with Gold Bouillon metal inlay and base Collection: Caracole Classic Finish:
-  Updated: 2025-12-07T22:34:08Z
-  Price: $2,909.99 USD
+  Updated: 2025-12-10T21:06:46Z
+  Price: $2,672.99 USD
 - [Classic All Around Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-all-around-cocktail-table): Caracole Classic All Around. Details: Case finished in Auric Bronze mirror top with Gold Bouillon metal inlay and base Collection: Caracole Classic Finish:
-  Updated: 2025-12-07T22:34:09Z
-  Price: $2,494.99 USD
+  Updated: 2025-12-10T21:06:47Z
+  Price: $2,291.99 USD
 - [Classic Long And Short Of It Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-long-and-short-of-it-table): Long And Short Of It Table For gatherings small or large, this bold statement-making dining table will sweep you off your feet. Its contemporized traditional
-  Updated: 2025-12-07T22:34:10Z
-  Price: $5,483.99 USD
+  Updated: 2025-12-10T21:06:48Z
+  Price: $5,035.99 USD
 - [Classic Rectangle The Reef Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-rectangle-the-reef-table): Classic Rectangle The Reef Table | Caracole Description Bold and memorable, this stunning rectangular dining table captures the majestic splendor of the ocean.
-  Updated: 2025-12-07T22:34:11Z
-  Price: $3,948.99 USD
+  Updated: 2025-12-10T21:06:48Z
+  Price: $3,625.99 USD
 - [Classic Sparkling Personality Sideboard Cla-019-681 | Caracole](https://homeeleganceusa.com/products/caracole-classic-sparkling-personality-sideboard): Caracole Classic Sparkling Personality Sideboard CLA-019-681 Capturing the allure of nature's most beautiful materials, this divine console boasts a stunning
-  Updated: 2025-12-07T22:34:12Z
-  Price: $5,311.99 USD
+  Updated: 2025-12-10T21:06:49Z
+  Price: $4,877.99 USD
 - [Classic Rock Steady Chest | Caracole](https://homeeleganceusa.com/products/caracole-classic-rock-steady-chest): Caracole Classic Rock Steady. Details: Metal frame finished in Brushed Nickel Two glass doors with painted agate pattern and finger pulls Interior with one
-  Updated: 2025-12-07T22:34:13Z
-  Price: $5,161.99 USD
+  Updated: 2025-12-10T21:06:50Z
+  Price: $4,739.99 USD
 - [Classic Flower Power Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-flower-power-cocktail-table): Defined by its distinctiveness, this cocktail table is in full bloom. A rounded rectangular metal frame encloses a tempered-glass top with elegant bevel. Look
-  Updated: 2025-12-07T22:34:15Z
-  Price: $3,325.99 USD
+  Updated: 2025-12-10T21:06:51Z
+  Price: $3,054.99 USD
 - [Classic Cool And Classic Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-cool-and-classic-cocktail-table): A study in the inherent beauty of simple architecture, this streamlined table boasts a stunning silhouette that's Cool and Classic. Its linear influences and
-  Updated: 2025-12-07T22:34:16Z
-  Price: $2,082.99 USD
+  Updated: 2025-12-10T21:06:52Z
+  Price: $1,912.99 USD
 - [Classic Dinner Circuit 96-Inch Dining Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-dinner-circuit-96-inch-dining-table): Already a favorite of many, this effortlessly elegant rectangular dining table is captivating in every way. Its substantial presence commands attention while
-  Updated: 2025-12-07T22:34:19Z
-  Price: $2,563.99 USD
+  Updated: 2025-12-10T21:06:52Z
+  Price: $2,354.99 USD
 - [Classic Rough And Ready 54-Inch Dining Table | Caracole](https://homeeleganceusa.com/products/caracole-classic-rough-and-ready-54-inch-dining-table): With effortless elegance this charming table invites friends and family to gather 'round for delicious meals, game night and leisurely after-dinner
-  Updated: 2025-12-07T22:34:20Z
-  Price: $3,733.99 USD
+  Updated: 2025-12-10T21:06:53Z
+  Price: $3,428.99 USD
 - [Wish You Were Here Dining Table Classic - Caracole](https://homeeleganceusa.com/products/caracole-classic-wish-you-were-here-dining-table): Wish You Were Here Dining Table Classic - Caracole Description Because not all dining rooms are created equal, there's the Wish You Were Here table. CLA-019-203
-  Updated: 2025-12-07T22:34:21Z
-  Price: $7,547.99 USD
+  Updated: 2025-12-10T21:06:54Z
+  Price: $9,699.99 USD
 - [Classic Love At First Sight Dresser CAR-CLA-019-031 | Caracole](https://homeeleganceusa.com/products/caracole-classic-love-at-first-sight-dresser): Caracole Classic Love At First Sight Dresser CAR-CLA-019-031 As rare as Love at First Sight, you're sure to find this dazzling dresser is a dream come true.
-  Updated: 2025-12-07T22:34:27Z
-  Price: $5,320.99 USD
+  Updated: 2025-12-10T21:06:55Z
+  Price: $4,885.99 USD
 - [Classic Naturally Six-Drawer Dresser | Caracole](https://homeeleganceusa.com/products/caracole-classic-naturally-six-drawer-dresser): Destined to be the focal point of the room, there's no denying this six-drawer dresser is ready to "WOW." With a simple silhouette and clean lines, its design
-  Updated: 2025-12-07T22:34:28Z
-  Price: $4,341.99 USD
+  Updated: 2025-12-10T21:06:55Z
+  Price: $3,986.99 USD
 - [Classic A Natural Chest | Caracole](https://homeeleganceusa.com/products/caracole-classic-a-natural-chest): Reflecting the modern organic beauty found only in nature, this remarkable chest lends authentic character to a space. Its simple silhouette is accentuated by
-  Updated: 2025-12-07T22:34:29Z
-  Price: $3,699.99 USD
+  Updated: 2025-12-10T21:06:56Z
+  Price: $3,397.99 USD
 - [Pierre Cocktail Table Signature Promethean - Caracole](https://homeeleganceusa.com/products/caracole-signature-promethean-pierre-cocktail-table): Pierre Cocktail Table Signature Promethean - Caracole Description Update a traditional interior or punctuate a modern seating arrangement with our stylish, SIG-419-403
-  Updated: 2025-12-07T22:34:30Z
-  Price: $7,588.99 USD
+  Updated: 2025-12-10T21:06:57Z
+  Price: $10,790.99 USD
 - [Signature Promethean Dauphine Chair | Caracole](https://homeeleganceusa.com/products/caracole-signature-promethean-dauphine-chair): A chair that speaks the language of haute-couture style. As if plucked from the penthouse of a designer's own salon, the Dauphin chair oozes World-of-Interiors
-  Updated: 2025-12-07T22:34:31Z
-  Price: $3,559.99 USD
+  Updated: 2025-12-10T21:06:58Z
+  Price: $3,268.99 USD
 - [Modern Expressions Sofa | Caracole](https://homeeleganceusa.com/products/caracole-modern-expressions-sofa): Caracole Modern Expressions Sofa. Details: (2) 20" x 20" Boxed Pillows with 1.5" Boxing Collection: Modern Expressions Finish: London Fog Materials: Birch
-  Updated: 2025-12-07T22:34:32Z
-  Price: $3,378.99 USD
+  Updated: 2025-12-10T21:06:58Z
+  Price: $3,102.99 USD
 - [Modern Expressions Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-modern-expressions-cocktail-table): Caracole Modern Expressions Cocktail Table. Details: Case finished in Winter Haze Smoked Blue glass insert back panel Open storage area Plinth base Collection:
-  Updated: 2025-12-07T22:34:33Z
-  Price: $1,411.99 USD
+  Updated: 2025-12-10T21:06:59Z
+  Price: $1,295.99 USD
 - [Modern Expressions Swivel Chair And A Half | Caracole](https://homeeleganceusa.com/products/caracole-modern-expressions-swivel-chair-and-a-half): Caracole Modern Expressions Swivel Chair and a Half. Details: Swivel base (2) 20" x 20" Boxed Pillows with 1.5" Boxing Collection: Modern Expressions Finish:
-  Updated: 2025-12-07T22:34:33Z
-  Price: $2,109.99 USD
+  Updated: 2025-12-10T21:07:00Z
+  Price: $1,937.99 USD
 - [Modern Edge Dining Table | Caracole](https://homeeleganceusa.com/products/caracole-modern-edge-dining-table): Treat yourself to an exceptional dining experience at every meal by incorporating this stunning dining table into your design plan. Its clean, simple lines
-  Updated: 2025-12-07T22:34:35Z
-  Price: $2,818.99 USD
+  Updated: 2025-12-10T21:07:01Z
+  Price: $2,587.99 USD
 - [Modern Artisan Remix Rewind Chair | Caracole](https://homeeleganceusa.com/products/caracole-modern-artisan-remix-rewind-chair): When it's time to relax and unwind in undeniable style, this is your chair. Its bold character was inspired by the svelte lines and powerful presence of an
-  Updated: 2025-12-07T22:34:36Z
-  Price: $1,826.99 USD
+  Updated: 2025-12-10T21:07:01Z
+  Price: $1,676.99 USD
 - [Modern Edge Boundless Chair | Caracole](https://homeeleganceusa.com/products/caracole-modern-edge-boundless-chair): Featuring style that knows no boundaries, this unique chair is rich in color, material and presence. It represents an artist's interpretation of the classic
-  Updated: 2025-12-07T22:34:38Z
-  Price: $2,158.99 USD
+  Updated: 2025-12-10T21:07:02Z
+  Price: $1,982.99 USD
 - [Modern Artisan Remix Glass Top 60-Inch Table | Caracole](https://homeeleganceusa.com/products/caracole-modern-artisan-remix-glass-top-60-inch-table): Destined for a second look-and even a third, this stunning 60-inch dining table features a substantial glass top sitting above an extraordinary metal base of
-  Updated: 2025-12-07T22:34:38Z
-  Price: $1,797.99 USD
+  Updated: 2025-12-10T21:07:03Z
+  Price: $1,650.99 USD
 - [Modern Artisan Remix Glass Top 48-Inch Table | Caracole](https://homeeleganceusa.com/products/caracole-modern-artisan-remix-glass-top-48-inch-table): Caracole Modern Artisan Remix Glass Top 48-Inch Table. Details: Base finished in Bronze Gold Metal Leg inserts in Black Stained Ash 48" round 1/2" tempered
-  Updated: 2025-12-07T22:34:39Z
-  Price: $1,635.99 USD
+  Updated: 2025-12-10T21:07:04Z
+  Price: $1,501.99 USD
 - [Signature Urban The Madison Chair | Caracole](https://homeeleganceusa.com/products/caracole-signature-urban-the-madison-chair): Smart and stylish, this classic chair has clean lines and a gently sloping track arm that makes it a timeless choice. It's sumptuously comfortable and
-  Updated: 2025-12-07T22:34:40Z
-  Price: $4,817.99 USD
+  Updated: 2025-12-10T21:07:05Z
+  Price: $4,423.99 USD
 - [Upholstery Go For A Spin Swivel Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-go-for-a-spin-swivel-chair): Expressing your unique perspective is easy with this sublime swivel chair. Bold in its every detail, it features a barrel base finished in Harvest Bronze with a
-  Updated: 2025-12-07T22:34:41Z
-  Price: $2,697.99 USD
+  Updated: 2025-12-10T21:07:06Z
+  Price: $2,477.99 USD
 - [Upholstery The Cat'S Meow Sofa | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-the-cat-s-meow-sofa): Upholstery The Cat'S Meow Sofa | Caracole Description It's never been easier to embrace fashion-forward style in a big way than with this stunning sofa.
-  Updated: 2025-12-07T22:34:43Z
-  Price: $5,481.99 USD
+  Updated: 2025-12-10T21:07:07Z
+  Price: $5,034.99 USD
 - [Upholstery Quit Your Metal-Ing Sofa | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-quit-your-metal-ing-sofa): Crisp and clean, this stylish sofa offers a fashion-forward mix of materials that are distinctly Caracole. A stunning, wraparound detail in Tungsten metal gives, UPH-015-211-A
-  Updated: 2025-12-07T22:34:44Z
-  Price: $7,022.99 USD
+  Updated: 2025-12-10T21:07:07Z
+  Price: $6,447.99 USD
 - [Upholstery I'M Shelf-Ish Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-i-m-shelf-ish-chair): Embodying design without limits, this sublime chair adds rich character to a space. Understated charm emanates comes from its clean, linear profile where its
-  Updated: 2025-12-07T22:34:45Z
-  Price: $2,514.99 USD
+  Updated: 2025-12-10T21:07:08Z
+  Price: $2,309.99 USD
 - [I'M Shelf-Ish 3-Piece Sectional - Caracole](https://homeeleganceusa.com/products/caracole-i-m-shelf-ish-3-piece-sectional): I'M Shelf-Ish 3-Piece Sectional - Caracole Description Create a destination in your home with the refined character and comfort of this stunning sectional sofa, M090-018-SEC1-A
-  Updated: 2025-12-07T22:34:45Z
-  Price: $9,003.99 USD
+  Updated: 2025-12-10T21:07:09Z
+  Price: $8,266.99 USD
 - [Upholstery Arch Support Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-arch-support-chair): Whether you escape here to relax yourself or offer it to your guests, this chair's destined to be the star of the room. A style standout, it features shapely
-  Updated: 2025-12-07T22:34:46Z
-  Price: $3,689.99 USD
+  Updated: 2025-12-10T21:07:10Z
+  Price: $3,388.99 USD
 - [Sociables Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-sociables-cocktail-table): Intriguingly designed by Caracole, this square cocktail table will prove a perfect centerpiece in any sophisticated living room or den. Sturdily fashioned from
-  Updated: 2025-12-07T22:34:47Z
-  Price: $2,230.99 USD
+  Updated: 2025-12-10T21:07:11Z
+  Price: $2,047.99 USD
 - [Black Beauty Chair | Caracole](https://homeeleganceusa.com/products/caracole-black-beauty-chair): Caracole Black Beauty Chair Ripe with character, this charming upholstered chair will easily make a statement in any room. Handsomely designed by Caracole, this
-  Updated: 2025-12-07T22:34:48Z
-  Price: $2,723.99 USD
+  Updated: 2025-12-10T21:07:11Z
+  Price: $2,501.99 USD
 - [Modern Streamline Moderne Chair | Caracole](https://homeeleganceusa.com/products/caracole-modern-streamline-moderne-chair): This flawlessly tailored chair beckons you with its comfortable back and arms. It’s linear frame is fully wrapped in a soft brushed neutral linen-look fabric.
-  Updated: 2025-12-07T22:34:52Z
-  Price: $2,143.99 USD
+  Updated: 2025-12-10T21:07:12Z
+  Price: $1,968.99 USD
 - [Modern Streamline Dresser | Caracole](https://homeeleganceusa.com/products/caracole-modern-streamline-dresser): Classic Streamline-era details come to life in this contemporized six-drawer dresser. Distinguished by its generously rounded corners, and recessed plinth base,
-  Updated: 2025-12-07T22:34:54Z
-  Price: $3,068.99 USD
+  Updated: 2025-12-10T21:07:13Z
+  Price: $2,817.99 USD
 - [Modern Fusion 3 Piece Sectional | Caracole](https://homeeleganceusa.com/products/caracole-modern-fusion-3-piece-sectional): Casually elegant, this fully upholstered sectional is the epitome of today's Modern Fusion lifestyle. Its versatility allows for an unlimited combination of two
-  Updated: 2025-12-07T22:34:57Z
-  Price: $4,346.99 USD
+  Updated: 2025-12-10T21:07:14Z
+  Price: $3,991.99 USD
 - [Modern Fusion 6 Piece Sectional | Caracole](https://homeeleganceusa.com/products/caracole-modern-fusion-6-piece-sectional): Casually elegant, this fully upholstered sectional is the epitome of today's Modern Fusion lifestyle. Its versatility allows for an unlimited combination, M050-017-SEC2-A
-  Updated: 2025-12-07T22:34:58Z
-  Price: $8,544.99 USD
+  Updated: 2025-12-10T21:07:15Z
+  Price: $7,845.99 USD
 - [Modern Fusion 3 Piece Sectional Sofa | Caracole](https://homeeleganceusa.com/products/caracole-modern-fusion-3-piece-sectional-sofa): Casually elegant, this fully upholstered sectional is the epitome of today's Modern Fusion lifestyle. Its versatility allows for an unlimited combination of two
-  Updated: 2025-12-07T22:34:59Z
-  Price: $4,564.99 USD
+  Updated: 2025-12-10T21:07:15Z
+  Price: $4,191.99 USD
 - [Upholstery Inside Story Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-inside-story-chair): Offering a new take on tradition, this style-driven chair is the essence of sophistication. Add one to complete a seating area, or put a pair in front of the
-  Updated: 2025-12-07T22:35:00Z
-  Price: $2,311.99 USD
+  Updated: 2025-12-10T21:07:16Z
+  Price: $2,123.99 USD
 - [Upholstery A Com Pleat Turn Around Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-a-com-pleat-turn-around-chair): Don't be surprised when this chair turns out to be everyone's favorite. Its stunning contemporary design is matched with a fun and functional swivel base
-  Updated: 2025-12-07T22:35:01Z
-  Price: $2,454.99 USD
+  Updated: 2025-12-10T21:07:17Z
+  Price: $2,253.99 USD
 - [Upholstery Bend The Rules Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-bend-the-rules-chair): At home in any room, this elegant chair bends all the rules to create the ultimate in glamorous seating. Its shaped back and sumptuous cushioning are accented
-  Updated: 2025-12-07T22:35:01Z
-  Price: $2,964.99 USD
+  Updated: 2025-12-10T21:07:18Z
+  Price: $2,722.99 USD
 - [Upholstery Ice Breaker Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-ice-breaker-chair): Here’s a chair that’s sure to become a topic of conversation. Its custom-designed pierced-metal frame offers a modern honeycomb design and is finished in
-  Updated: 2025-12-07T22:35:02Z
-  Price: $3,408.99 USD
+  Updated: 2025-12-10T21:07:18Z
+  Price: $3,129.99 USD
 - [Upholstery Whats New Pussycat Wing Chair | Caracole](https://homeeleganceusa.com/products/caracole-upholstery-whats-new-pussycat-wing-chair): This unique wing chair truly embodies Scandinavian style with the element of the wood detail across the outback finished in Almost Black. Its gracefully sloped
-  Updated: 2025-12-07T22:35:03Z
-  Price: $2,311.99 USD
+  Updated: 2025-12-10T21:07:19Z
+  Price: $2,123.99 USD
 - [Classic Shell It Like It Is Sideboard | Caracole](https://homeeleganceusa.com/products/caracole-classic-shell-it-like-it-is-sideboard): Capturing the beauty of nature, this stunning piece offers a modern organic aesthetic. Its two drawer fronts and end panels boast exquisite Silver Capiz Shell
-  Updated: 2025-12-07T22:35:04Z
-  Price: $3,439.99 USD
+  Updated: 2025-12-10T21:07:20Z
+  Price: $3,157.99 USD
 - [Adela Washed Alabaster Dresser | Caracole](https://homeeleganceusa.com/products/caracole-adela-washed-alabaster-dresser): Adela Washed Alabaster Dresser A modern interpretation on refined neoclassic design, this dresser is generously sized with twelve, self-closing drawers. It
-  Updated: 2025-12-07T22:35:07Z
-  Price: $5,283.99 USD
+  Updated: 2025-12-10T21:07:20Z
+  Price: $5,291.99 USD
 - [Adela Blush Taupe Upholstery Sofa | Caracole](https://homeeleganceusa.com/products/caracole-adela-blush-taupe-upholstery-sofa): Adela Blush Taupe Sofa Graceful style emanates from this awe-inspiring sofa. Finished in metallic Blush Taupe, its flowing, contemporized cabriole shape is warm, C010-016-013-A
-  Updated: 2025-12-07T22:35:08Z
-  Price: $5,645.99 USD
+  Updated: 2025-12-10T21:07:21Z
+  Price: $5,184.99 USD
 - [Adela Oval Cocktail Table | Caracole](https://homeeleganceusa.com/products/caracole-adela-oval-cocktail-table): Adela Oval Cocktail Table The Adela Oval Cocktail Table has modern neoclassic features and is beautifully detailed with a beveled glass top that reflects
-  Updated: 2025-12-07T22:35:09Z
-  Price: $2,685.99 USD
+  Updated: 2025-12-10T21:07:22Z
+  Price: $2,466.99 USD
 - [Wafa Velvet Sofa | TOV](https://homeeleganceusa.com/products/tov-furniture-wafa-velvet-sofa): Tov Furniture Wafa Velvet Sofa Description Introducing Wafa, the glamorous sofa you've always needed, exclusive from our Inspire Me! Home Decor x TOV collab.
   Updated: 2025-12-03T12:33:32Z
   Price: $1,822.99 USD
@@ -24878,9 +24878,6 @@ Weight: 216.1 pounds
 - [Arabelle Velvet Bed | TOV](https://homeeleganceusa.com/products/tov-furniture-arabelle-velvet-bed): Yes, taller is better. We've reached a whole new level with the Arabelle bed and its impressive stately, channel-tufted frame. Completing the look, we
   Updated: 2025-12-03T12:34:58Z
   Price: $1,128.99 USD — $1,563.99 USD
-- [Celerie Kemble For Arteriors Tilt & Clamp Lamp - Final Sale | Arteriors](https://homeeleganceusa.com/products/celerie-kemble-for-arteriors-tilt-clamp-lamp-final-sale): A slender task lamp that clamps to the side of a table. The steel antique brass arm articulates in two locations, allowing the pleated white linen shade to tilt
-  Updated: 2025-12-03T12:34:59Z
-  Price: $623.99 USD
 - [Celerie Kemble For Arteriors Tendril Accent Table | Arteriors](https://homeeleganceusa.com/products/celerie-kemble-for-arteriors-tendril-accent-table): The small, aluminum leaf shaped drinks table in antique brass curves upward from its white marble base and blackened iron stem to tuck easily under the skirt of
   Updated: 2025-12-03T12:34:59Z
   Price: $1,386.99 USD
@@ -25025,9 +25022,6 @@ Weight: 216.1 pounds
 - [Arteriors Gloria Wall Mirror | Arteriors](https://homeeleganceusa.com/products/arteriors-gloria-wall-mirror): Showcasing a daringly organic form, this mirror establishes a strong presence though it is smaller in scale. The abstract form is crafted from natural coco
   Updated: 2025-12-03T12:35:49Z
   Price: $2,232.99 USD
-- [Arteriors Glendale Linear Chandelier - Final Sale | Arteriors](https://homeeleganceusa.com/products/arteriors-glendale-linear-chandelier-final-sale): An exploration of linear design, the all-metal Arteriors Glendale showcases a modern, masculine profile, featuring a shade crafted of steel bronze that
-  Updated: 2025-12-03T12:35:49Z
-  Price: $1,172.99 USD
 - [Apd Workshop For Arteriors Roll Tray Set Of 3 | Arteriors](https://homeeleganceusa.com/products/apd-workshop-for-arteriors-roll-tray-set-of-3): Inspired by the act of hand building and rolling clay, the ethereal, organic Arteriors Roll Trays are both decorative and functional. Each tray in the set of
   Updated: 2025-12-03T12:35:50Z
   Price: $680.99 USD
@@ -25127,9 +25121,6 @@ Weight: 216.1 pounds
 - [Arteriors Hollie Tray Set Of 2 | Arteriors](https://homeeleganceusa.com/products/arteriors-hollie-tray-set-of-2): Explore the concept of yin and yang in this duo of trays. Black and white combinations sweep large-scale resin foundations, each with its own distinct swirl
   Updated: 2025-12-03T12:36:24Z
   Price: $642.99 USD
-- [Arteriors Heston Side Table - Final Sale | Arteriors](https://homeeleganceusa.com/products/arteriors-heston-side-table-final-sale): A traditional silhouette defined by clean lines makes the Arteriors Heston a noteworthy side table. A rich eucalyptus veneer finishes the sable oak foundation
-  Updated: 2025-12-03T12:36:25Z
-  Price: $2,203.99 USD
 - [Arteriors Herrick Bookshelf | Arteriors](https://homeeleganceusa.com/products/arteriors-herrick-bookshelf): The Arteriors Herrick presents a functional foundation to fill with books, collectibles, photos and more. Blackened iron offers a bold contrast to the solid
   Updated: 2025-12-03T12:36:26Z
   Price: $6,374.99 USD
@@ -25146,7 +25137,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-03T12:36:30Z
   Price: $2,045.99 USD
 - [Arteriors Kallahan Chandelier - Final Sale | Arteriors](https://homeeleganceusa.com/products/arteriors-kallahan-chandelier-final-sale): The modern and sleek Arteriors Kallahan brings a new take on glamour. An antique brass iron frame showcases a myriad of LED lights and clear crystal tubes in
-  Updated: 2025-12-03T12:36:31Z
+  Updated: 2025-12-10T23:38:58Z
   Price: $3,709.99 USD
 - [Arteriors Gideon Desk Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-gideon-desk-lamp): The architectural arrangement of the Arteriors Gideon favors designs created by famed American architect Frank Lloyd Wright. A bronze steel shade presents a
   Updated: 2025-12-03T12:36:32Z
@@ -25184,9 +25175,6 @@ Weight: 216.1 pounds
 - [Arteriors Huntlee Accent Table | Arteriors](https://homeeleganceusa.com/products/arteriors-huntlee-accent-table): The traditional silhouette of the Huntlee accent table is achieved through contemporary craftsmanship that does not sacrifice its classic appeal. Its cast
   Updated: 2025-12-08T08:12:12Z
   Price: $824.99 USD
-- [Arteriors Wagner Side Table | Arteriors](https://homeeleganceusa.com/products/arteriors-wagner-side-table): Refined and rustic elements are showcased through the mixture of materials that compose this side table. A solid oak frame in an umber finish is accented with a
-  Updated: 2025-12-08T11:29:27Z
-  Price: $3,710.99 USD
 - [Celerie Kemble For Arteriors Spitzy Centerpiece Bowl | Arteriors](https://homeeleganceusa.com/products/celerie-kemble-for-arteriors-spitzy-centerpiece-bowl): A ceramic centerpiece in an ivory finish, doused in soft hand-applied beads for a unique design. 16.5"W x 14"D x 4.5"H Color: Ivory, White Material: Ceramic
   Updated: 2025-12-03T12:36:45Z
   Price: $660.99 USD
@@ -25376,18 +25364,12 @@ Weight: 216.1 pounds
 - [Arteriors Mendee Wall Sconce | Arteriors](https://homeeleganceusa.com/products/arteriors-mendee-wall-sconce): The Arteriors Mendee's unitque aesthetic is simple, sophisticated and striking. The classic silhouette of this sconce features a foundation of English bronze
   Updated: 2025-12-03T12:37:52Z
   Price: $937.99 USD
-- [Arteriors Hammond Chandelier - Final Sale | Arteriors](https://homeeleganceusa.com/products/arteriors-hammond-chandelier-final-sale): Contemporary design details like antique brass and smoke glass update this tiered chandelier that resembles a modern day candelabra. Shown with a radio bulb.
-  Updated: 2025-12-03T12:37:53Z
-  Price: $1,152.99 USD
 - [Arteriors Milford Pendant | Arteriors](https://homeeleganceusa.com/products/arteriors-milford-pendant): The Arteriors Milford offers a contemporary fresh approach to a drum shade glass pendant. The smoke luster seedy glass of the shade casts a warming glow,
   Updated: 2025-12-03T12:37:54Z
   Price: $1,088.99 USD
 - [Arteriors Noah Pendant | Arteriors](https://homeeleganceusa.com/products/arteriors-noah-pendant): This classic conical-shaped pendant is a mainstay in modern industrial lighting. Its tiered silhouette is crafted from iron in a bronze finish and features an
   Updated: 2025-12-03T12:37:55Z
   Price: $994.99 USD
-- [Arteriors Wales Pendant - Final Sale | Arteriors](https://homeeleganceusa.com/products/arteriors-wales-pendant-final-sale): When it comes to contemporary lighting design, this pendant is top notch. A quarter-inch steel plate is seated on a sleek steel pipe above a pendulum-style
-  Updated: 2025-12-03T12:37:55Z
-  Price: $952.99 USD
 - [Arteriors Noel Side Table | Arteriors](https://homeeleganceusa.com/products/arteriors-noel-side-table): The sculptural silhouette of this side table brings together art and form. The architectural form features a top crafted from ricestone in an ivory finish and a
   Updated: 2025-12-03T12:37:57Z
   Price: $1,456.99 USD
@@ -26189,9 +26171,6 @@ Weight: 216.1 pounds
 - [Arteriors Slater Table Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-slater-table-lamp): The totemic Arteriors Slater is imagined in ivory ricestone with a radiating, fossil-inspired design pattern. The sculptural table lamp rests on a bracketed
   Updated: 2025-12-03T12:42:30Z
   Price: $937.99 USD
-- [Arteriors Nordic Table Lamp - Final Sale | Arteriors](https://homeeleganceusa.com/products/arteriors-nordic-table-lamp-final-sale): Old-world pots used throughout the ancient world, similar in shape to the base of the Arteriors Nordic, were crafted through a technique our artists today still
-  Updated: 2025-12-07T17:41:51Z
-  Price: $865.99 USD
 - [Arteriors Vickers Side Table | Arteriors](https://homeeleganceusa.com/products/arteriors-vickers-side-table): The Arteriors Vickers Side Table is a paradigm for natural sophistication. A thin piece of rattan pole is wrapped continuously around the polyresin frame to
   Updated: 2025-12-08T12:21:27Z
   Price: $2,045.99 USD
@@ -29021,18 +29000,54 @@ Weight: 216.1 pounds
 - [Four Hands Carlisle 6 Drawer Dresser - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-carlisle-6-drawer-dresser): Style meets simplicity in this Danish-inspired design. Six drawers of solid natural oak welcome
   Updated: 2025-12-03T13:01:19Z
   Price: $2,600.99 USD
-[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTcwMDAwNDYzLCJsYXN0X3ZhbHVlIjoiNjk4ODk3MDAwMDQ2MyJ9)
+- [Four Hands Capra Dining Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-capra-dining-table): The classic Parsons frame, reimagined for a new era. Made from light-smoked oak, a large scale and
+  Updated: 2025-12-03T13:01:21Z
+  Price: $1,822.99 USD
+- [Four Hands Carlisle 5 Drawer Dresser - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-carlisle-5-drawer-dresser): Style meets simplicity in this Danish-inspired design. Five drawers of solid natural oak welcome
+  Updated: 2025-12-03T13:01:21Z
+  Price: $2,211.99 USD
+- [Four Hands Caprice Large Bookshelf - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-caprice-large-bookshelf): Natural mango wood forms spacious open shelving, with lower cabinetry of woven cane for extra
+  Updated: 2025-12-03T13:01:23Z
+  Price: $3,118.99 USD
+- [Four Hands Caprice Sideboard - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-caprice-sideboard): Eye-catching contrast with a textural twist. Black-washed mango frames woven cane fronts with black
+  Updated: 2025-12-03T13:01:25Z
+  Price: $2,470.99 USD
+- [Four Hands Caminito 7 Drawer Dresser - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-caminito-7-drawer-dresser): Modern shapes, rustic materials. Reclaimed character woods are weathered to a deep, dark
+  Updated: 2025-12-03T13:01:26Z
+  Price: $2,211.99 USD
+- [Four Hands Brunswick End Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-brunswick-end-table): Mix in something modern. A shapely, overscaled oak base tapers into a slim iron neck, with a
+  Updated: 2025-12-03T13:01:27Z
+  Price: $915.99 USD
+- [Four Hands Bryce Dining Chair - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-bryce-dining-chair): Effortlessly transitional. Finished in a light honey, slightly splayed solid oak legs support a
+  Updated: 2025-12-03T13:01:28Z
+  Price: $656.99 USD
+- [Four Hands Camila Sideboard - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-camila-sideboard): A distressed black iron frame contrasts a clean white interior for an updated take on the
+  Updated: 2025-12-03T13:01:28Z
+  Price: $2,859.99 USD
+- [Four Hands Brooklyn Dining Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-brooklyn-dining-table): Light walnut veneer, Blonde yukas woods are blended and smoothed for a soft look with rich depth.
+  Updated: 2025-12-03T13:01:30Z
+  Price: $4,285.99 USD
+- [Four Hands Brooklyn Coffee Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-brooklyn-coffee-table): A shape-centric statement piece. Light walnut veneer, Blonde yukas woods are blended and smoothed
+  Updated: 2025-12-03T13:01:32Z
+  Price: $2,729.99 USD — $2,859.99 USD
+- [Four Hands Britt Dining Chair - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-britt-dining-chair): Mixed materials refresh retro dining style. Brushed ebony/Light-toasted nettlewood frames a
+  Updated: 2025-12-03T13:01:33Z
+  Price: $591.99 USD
+- [Four Hands Brennan Dining Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-brennan-dining-table): Wide, plank-style legs of pewter-finished/brass-finished stainless steel features an ombre pattern
+  Updated: 2025-12-03T13:01:35Z
+  Price: $2,600.99 USD — $2,729.99 USD
+[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTcwNTI0NzUxLCJsYXN0X3ZhbHVlIjoiNjk4ODk3MDUyNDc1MSJ9)
 
 ## Collections
 
 - [Bedroom Furniture – Beds, Dressers & Nightstands | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture): Discover stylish, affordable, modern, luxury, and rustic bedroom furniture sets at Home Elegance USA. Shop beds, dressers, nightstands & more.
-  Updated: 2025-12-09T15:09:23Z
+  Updated: 2025-12-10T22:03:34Z
   Total Products: 9416
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2025-12-10T16:29:40Z
+  Updated: 2025-12-10T23:50:47Z
   Total Products: 12859
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-12-10T17:02:10Z
+  Updated: 2025-12-10T22:22:05Z
   Total Products: 6864
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-12-08T18:04:00Z
@@ -29041,22 +29056,22 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:18:49Z
   Total Products: 358
 - [Shop Sofas Online – Leather, Fabric, Sectionals & Recliners](https://homeeleganceusa.com/collections/sofas): Discover premium sofas at Home Elegance USA. Curated leather, fabric, and sectional sofas designed for comfort, style, and lasting quality in your living space.
-  Updated: 2025-12-10T16:29:41Z
+  Updated: 2025-12-10T22:03:24Z
   Total Products: 4488
 - [Loveseats – Stylish & Comfortable Two-Seater Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/loveseats): Discover our Loveseats collection featuring leather and fabric two-seater sofas. Perfect for modern, traditional, and contemporary living rooms, offering style, comfort, and premium durability for everyday use.
-  Updated: 2025-12-09T18:21:40Z
+  Updated: 2025-12-10T22:03:13Z
   Total Products: 865
 - [Sectionals – Luxury Modular & L-Shaped Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/sectionals): Explore our Sectionals collection featuring modular, L-shaped, and U-shaped sofas in leather and fabric. Perfect for modern, contemporary, and traditional living rooms, offering versatile seating, premium comfort, and lasting durability.
-  Updated: 2025-12-10T16:29:41Z
+  Updated: 2025-12-10T22:03:24Z
   Total Products: 2211
 - [Sleepers – Convertible Sofa Beds & Pull-Out Couches | Home Elegance USA](https://homeeleganceusa.com/collections/sleepers): Explore our Sleepers collection featuring high-quality sofa beds, pull-out couches, and convertible sleepers in leather and fabric. Perfect for modern and traditional living rooms, guest rooms, and multifunctional spaces—offering comfort, style, and durability.
-  Updated: 2025-12-08T15:57:11Z
+  Updated: 2025-12-10T21:06:21Z
   Total Products: 78
 - [Reclining Chairs – Modern & Classic Recliners | Home Elegance USA](https://homeeleganceusa.com/collections/reclining-chairs): Shop reclining chairs in leather and fabric. Power and manual recliners designed for living rooms, home theaters, and offices—comfort and style built to last.
-  Updated: 2025-12-08T18:20:11Z
+  Updated: 2025-12-10T21:36:29Z
   Total Products: 374
 - [Accent Chairs – Modern, Contemporary & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-chairs): Shop accent chairs in modern, traditional, and contemporary styles. Perfect for living rooms, bedrooms, and offices—stylish seating with comfort and durability.
-  Updated: 2025-12-08T18:09:30Z
+  Updated: 2025-12-10T21:10:33Z
   Total Products: 1638
 - [Sofa Tables – Modern & Classic Console Tables | Home Elegance USA](https://homeeleganceusa.com/collections/sofa-tables): Shop sofa tables in modern, contemporary, and traditional styles. Elegant console tables perfect for living rooms, entryways, and hallways with versatile storage and style.
   Updated: 2025-12-08T18:10:27Z
@@ -29065,19 +29080,19 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T17:57:23Z
   Total Products: 26
 - [TV Stands – Media Consoles & Entertainment Units | Home Elegance USA](https://homeeleganceusa.com/collections/tv-stands): Shop TV stands and media consoles with storage, cable management, and stylish finishes. Perfect for living rooms, family rooms, and entertainment spaces.
-  Updated: 2025-12-08T18:10:22Z
+  Updated: 2025-12-10T21:34:44Z
   Total Products: 22
 - [Shop Living Room Sets – Modern & Classic Sofa Sets | Home Elegance USA](https://homeeleganceusa.com/collections/living-room-sets): Shop living room sets with curated sofas, loveseats. Available in modern, classic, and contemporary styles and lasting quality.
-  Updated: 2025-12-09T18:21:39Z
+  Updated: 2025-12-10T22:04:12Z
   Total Products: 1115
 - [Beds | King, Queen & California King Frames – Home Elegance](https://homeeleganceusa.com/collections/beds): Shop beds in King, Queen & California King sizes. Upholstered, wood, and panel designs in modern, classic & luxury styles. Durable frames with timeless appeal.
-  Updated: 2025-12-09T15:09:18Z
+  Updated: 2025-12-10T22:02:51Z
   Total Products: 2660
 - [Bedroom Sets – Beds & Complete Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-sets): Shop luxury bedroom sets with coordinated beds, dressers, mirrors, and nightstands. Choose modern, traditional, or rustic styles for a complete bedroom upgrade.
   Updated: 2025-12-09T15:09:23Z
   Total Products: 3713
 - [Nightstands & Bedside Tables – Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/nightstands): Shop nightstands and bedside tables in modern, traditional, and glam designs. Elegant storage solutions with drawers, shelves, and premium finishes. Free U.S. shipping.
-  Updated: 2025-12-09T15:09:24Z
+  Updated: 2025-12-10T21:07:26Z
   Total Products: 976
 - [Makeup Vanities – Dressing Tables with Storage | Home Elegance USA](https://homeeleganceusa.com/collections/makeup-vanities): Shop makeup vanities with mirrors, drawers, and lighting. Perfect for bedrooms and dressing rooms—blend beauty, storage, and style in your daily routine.
   Updated: 2025-12-08T18:10:56Z
@@ -29092,7 +29107,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-10T17:02:10Z
   Total Products: 2158
 - [Dining Tables – Shop Modern, Rustic & Traditional | Home Elegance USA](https://homeeleganceusa.com/collections/dining-tables): Discover dining tables in wood, glass, and marble finishes. Shop round, rectangular, and extendable tables perfect for family dining, entertaining, and modern living.
-  Updated: 2025-12-10T16:29:41Z
+  Updated: 2025-12-10T21:38:47Z
   Total Products: 1147
 - [Dining Chairs | Modern, Classic & Luxury Seating – Home Elegance](https://homeeleganceusa.com/collections/dining-chairs): Shop dining chairs in modern, classic, and luxury styles. Upholstered, wood, and metal seating for dining rooms. Elegant comfort, durable design, free shipping.
   Updated: 2025-12-10T16:29:38Z
@@ -29107,7 +29122,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:13:12Z
   Total Products: 333
 - [Dining Servers & Buffets – Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/dining-servers-and-buffets): Shop dining servers and buffets for elegant dining room storage. Perfect for hosting, entertaining, and organizing tableware in traditional or modern designs.
-  Updated: 2025-12-09T18:49:51Z
+  Updated: 2025-12-10T22:22:05Z
   Total Products: 707
 - [China Cabinets – Elegant Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/china-cabinets): Shop china cabinets in glass-front, hutch, and buffet styles. Perfect for dining rooms or kitchens. Elegant storage, fast shipping at Home Elegance USA.
   Updated: 2025-12-08T14:52:06Z
@@ -29137,16 +29152,16 @@ Weight: 216.1 pounds
   Updated: 2024-11-06T16:06:20Z
   Total Products: 0
 - [Table Lamps | Modern, Bedside & LED Lighting](https://homeeleganceusa.com/collections/table-lamps): Shop table lamps at Home Elegance. Find modern, traditional, bedside, and LED table lamps in ceramic, glass, and metal designs. Free shipping available.
-  Updated: 2025-12-08T15:00:59Z
+  Updated: 2025-12-10T23:50:46Z
   Total Products: 629
 - [Floor Lamps – Arc, Tripod, Task & Ambient Lighting | Home Elegance USA](https://homeeleganceusa.com/collections/floor-lamps): Shop floor lamps for modern, farmhouse & classic interiors. Arc, tripod & torchiere styles for living rooms, bedrooms & more. Fast shipping from Home Elegance USA.
-  Updated: 2025-12-08T18:09:18Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 219
 - [Office Desks – Executive & Modern Desks for Home Office | Home Elegance USA](https://homeeleganceusa.com/collections/office-desks): Shop office desks in executive, writing, and modern styles. Crafted in wood, glass, and metal for home offices and workspaces. Functional, stylish, and durable.
   Updated: 2025-12-08T18:10:33Z
   Total Products: 570
 - [Office Chairs – Ergonomic & Executive Seating | Home Elegance USA](https://homeeleganceusa.com/collections/office-chairs): Shop ergonomic and executive office chairs in leather, fabric, and mesh. Designed for comfort, productivity, and style in any home office or workspace.
-  Updated: 2025-12-08T18:05:15Z
+  Updated: 2025-12-10T21:37:04Z
   Total Products: 187
 - [Bookcases – Wooden, Glass & Modern Bookshelves | Home Elegance USA](https://homeeleganceusa.com/collections/bookcases): Shop bookcases in wood, glass, and metal finishes. Available in tall, low, and modular designs—perfect for living rooms, offices, and home libraries.
   Updated: 2025-12-08T18:10:49Z
@@ -29161,19 +29176,19 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:08:50Z
   Total Products: 12
 - [Coffee Tables – Modern & Classic Living Room Tables | Home Elegance USA](https://homeeleganceusa.com/collections/coffee-tables): Shop coffee tables in modern, traditional, and contemporary styles. Elegant living room tables crafted from wood, glass, and metal with style and functionality.
-  Updated: 2025-12-08T18:11:06Z
+  Updated: 2025-12-10T22:01:53Z
   Total Products: 1376
 - [End Tables – Modern & Classic Side Tables | Home Elegance USA](https://homeeleganceusa.com/collections/end-tables): Shop end tables in modern, traditional, and contemporary styles. Functional side tables for living rooms, bedrooms, and offices with stylish finishes and durable design.
-  Updated: 2025-12-08T18:11:05Z
+  Updated: 2025-12-10T23:50:47Z
   Total Products: 1401
 - [Accent Mirrors – Decorative Wall & Floor Mirrors](https://homeeleganceusa.com/collections/accent-mirrors): Shop accent mirrors in modern, rustic, and glam styles. Perfect for entryways, living rooms, and bedrooms. Wall-mounted or leaning floor designs available.
   Updated: 2025-12-08T18:19:22Z
   Total Products: 778
 - [Accent Furniture | Decorative Cabinets, Tables & Benches – Home Elegance](https://homeeleganceusa.com/collections/accent-furniture): Shop accent furniture including cabinets, tables, benches, and decor. Modern, glam, rustic, and traditional pieces designed to add storage, style, and personality to any room.
-  Updated: 2025-12-09T18:49:51Z
+  Updated: 2025-12-10T23:50:47Z
   Total Products: 3266
 - [Dressers – Bedroom Storage Solutions | Home Elegance USA](https://homeeleganceusa.com/collections/dressers-1): Shop dressers in modern, rustic, glam, and traditional styles. Spacious storage, durable finishes, and elegant design for bedrooms. Free U.S. nationwide shipping.
-  Updated: 2025-12-09T15:09:17Z
+  Updated: 2025-12-10T21:35:18Z
   Total Products: 1423
 - [Bar Cabinets & Tables – Wine Storage & Entertaining Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bar-tables-and-cabinets): Shop bar cabinets & tables with wine storage, shelves, & footrests. Perfect for home bars, game rooms & dining spaces. Fast shipping from Home Elegance USA.
   Updated: 2025-12-08T18:13:06Z
@@ -29218,25 +29233,25 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T17:57:21Z
   Total Products: 111
 - [Office Furniture | Ergonomic Chairs, Desks & Storage](https://homeeleganceusa.com/collections/office-furniture): Shop office furniture at Home Elegance! Find ergonomic chairs, office desks, workstations, and storage solutions for home or corporate offices. Free shipping!
-  Updated: 2025-12-08T18:10:49Z
+  Updated: 2025-12-10T21:37:04Z
   Total Products: 1078
 - [Accent Cabinets & Credenzas – Modern & Classic Storage | Home Elegance](https://homeeleganceusa.com/collections/accent-cabinets-and-credenzas): Shop accent cabinets and credenzas in modern and traditional styles. Elegant storage solutions for living rooms, dining areas, and entryways—style meets functionality.
   Updated: 2025-12-09T18:49:51Z
   Total Products: 829
 - [Ashley Furniture: Largest Furniture Manufacturer](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture's huge selection of living room, bedroom, dining room, and more. Quality home furnishings at great prices. Free Shipping Nationwide.
-  Updated: 2025-12-02T18:06:35Z
+  Updated: 2025-12-10T22:03:13Z
   Total Products: 1328
 - [Homey Design Inc. - Luxury Upholstery and Case Goods | Home Elegance USA](https://homeeleganceusa.com/collections/homey-design-furniture): Discover Homey Design Inc. at Home Elegance USA: Exquisite traditional and Victorian-inspired living room, bedroom, and dining room furniture.
   Updated: 2025-12-07T23:16:27Z
   Total Products: 441
 - [Coaster Furniture: Huge Selection of Fine Home Furnishings](https://homeeleganceusa.com/collections/coaster-furniture): Style your home without breaking the bank. Coaster Furniture offers a wide selection of affordable home furnishings and decor. Shop now at Home Elegance USA.
-  Updated: 2025-12-09T18:49:51Z
+  Updated: 2025-12-10T22:03:24Z
   Total Products: 3290
 - [ACME Furniture – Quality, Value & Service Since 1985 | Home Elegance Furniture](https://homeeleganceusa.com/collections/acme-furniture): Shop Acme Furniture's bestselling beds, sofas, dining sets & more. Affordable elegance, classic & modern styles for every room. Fast free shipping.
-  Updated: 2025-12-08T15:14:21Z
+  Updated: 2025-12-10T21:35:42Z
   Total Products: 2894
 - [Cosmos Furniture - Luxurious Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/cosmos-furniture): Discover Cosmos Furniture at Home Elegance USA: Exquisite bedroom, dining, & living room collections that blend international design with modern craftsmanship. Shop at Home Elegance USA
-  Updated: 2025-12-07T23:17:39Z
+  Updated: 2025-12-10T22:04:12Z
   Total Products: 450
 - [J&M Furniture - Modern & Contemporary Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/j-m-furniture): Explore J&M Furniture at Home Elegance USA: Stylish modern furniture for living, dining, bedroom, and office spaces. Quality craftsmanship at affordable prices.
   Updated: 2025-12-08T15:01:10Z
@@ -29245,10 +29260,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T14:52:06Z
   Total Products: 2001
 - [Global Furniture USA - Modern & Stylish Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/global-furniture-usa): Shop Global Furniture USA at Home Elegance for stylish modern furniture. Discover sleek designs, quality craftsmanship, and affordable luxury for your home.
-  Updated: 2025-12-08T15:57:44Z
+  Updated: 2025-12-10T21:39:00Z
   Total Products: 894
 - [Homelegance - Timeless Design & Craftsmanship | Home Elegance Furniture](https://homeeleganceusa.com/collections/homelegance-furniture): Explore Homelegance at Home Elegance Furniture — where timeless design meets lasting quality. Discover elegant collections for your living room, bedroom, dining area
-  Updated: 2025-12-09T18:21:40Z
+  Updated: 2025-12-10T22:03:34Z
   Total Products: 2317
 - [Artmax Furniture: Elevate Your Home with Artistic Elegance | Home Elegance USA](https://homeeleganceusa.com/collections/artmax-furniture): Express your style with Artmax Furniture. Discover captivating designs, high-quality craftsmanship, and artistic flair for a sophisticated home. | Home Elegance USA
   Updated: 2025-12-07T23:17:27Z
@@ -29263,7 +29278,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T14:22:50Z
   Total Products: 1
 - [Galaxy Home Furnishings - Stylish Furniture for Every Room | Home Elegance USA](https://homeeleganceusa.com/collections/galaxy-furniture): Discover Galaxy Home Furnishings at Home Elegance USA: Quality bedroom, living room, dining room, and fireplace furniture to enhance your home decor.
-  Updated: 2025-12-08T14:56:30Z
+  Updated: 2025-12-10T21:33:16Z
   Total Products: 16
 - [Legacy Classic Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/legacy-classic-furniture): Shop Legacy Classic Furniture on sale at Home Elegance USA. Find timeless and elegant pieces for every room.
   Updated: 2025-02-12T18:20:27Z
@@ -29284,7 +29299,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-04T12:15:05Z
   Total Products: 846
 - [Caracole Furniture: Timeless Design & Exquisite Craftsmanship](https://homeeleganceusa.com/collections/caracole-furniture): Discover Caracole's exquisite collection of luxury furniture and home decor. Shop elegant and inspired designs for every space, from classic to contemporary.
-  Updated: 2025-12-07T23:15:28Z
+  Updated: 2025-12-10T22:22:05Z
   Total Products: 811
 - [TOV Furniture - Chic & Affordable Designs for Modern Living | Home Elegance USA](https://homeeleganceusa.com/collections/tov-furniture): Discover TOV Furniture at Home Elegance USA: Stylish, affordable, and expertly crafted pieces to transform your home from boring to breathtaking. | Home Elegance USA
   Updated: 2025-12-03T17:22:27Z
@@ -29293,7 +29308,7 @@ Weight: 216.1 pounds
   Updated: 2025-04-20T15:02:35Z
   Total Products: 1406
 - [Arteriors - Luxury Lighting, Furniture, and Décor | Home Elegance USA](https://homeeleganceusa.com/collections/arteriors-furniture): Discover Arteriors Home at Home Elegance USA: Exquisite lighting, furniture, wall décor, and accessories meticulously crafted to transform your living spaces.
-  Updated: 2025-12-08T12:15:47Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 538
 - [Four Hands Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/four-hands): Shop the distinctive style of Four Hands Furniture on sale at Home Elegance USA. Find unique and design-forward pieces.
   Updated: 2025-09-27T16:02:01Z
@@ -29302,7 +29317,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-09T15:09:24Z
   Total Products: 1466
 - [Caracole Compositions Furniture - Luxury Designs](https://homeeleganceusa.com/collections/caracole-compositions): Discover the luxury furniture collection from Caracole Compositions, featuring elegant designs and high-quality materials.
-  Updated: 2025-12-07T23:02:41Z
+  Updated: 2025-12-10T22:22:05Z
   Total Products: 42
 - [Universal Furniture - Quality Home Furnishings for Modern Living | Home Elegance USA](https://homeeleganceusa.com/collections/universal-furniture): Discover Universal Furniture at Home Elegance USA: Stylish and functional furniture collections for your bedroom, living room, dining room, and office. | Home Elegance USA
   Updated: 2025-09-30T21:36:17Z
@@ -29317,7 +29332,7 @@ Weight: 216.1 pounds
   Updated: 2025-04-28T23:27:09Z
   Total Products: 0
 - [Elegant Lighting - Exquisite Lighting & Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/elegant-lighting): Shop Elegant Lighting at Home Elegance USA: High-quality chandeliers, pendants, wall sconces, and furniture to enhance your home's décor.
-  Updated: 2025-12-07T23:15:29Z
+  Updated: 2025-12-10T21:33:51Z
   Total Products: 226
 - [Phillips Collection Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/phillips-collection): - Home Elegance USA
   Updated: 2025-01-26T19:18:32Z
@@ -29326,13 +29341,13 @@ Weight: 216.1 pounds
   Updated: 2025-07-26T17:24:48Z
   Total Products: 375
 - [Chandeliers | Crystal, Modern & Rustic Lighting](https://homeeleganceusa.com/collections/chandeliers): Shop chandeliers at Home Elegance! Find modern, crystal, farmhouse & vintage chandeliers for dining rooms, bedrooms & foyers. Free shipping available!
-  Updated: 2025-12-08T15:01:07Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 782
 - [ILVE Get it now - Home Elegance Furniture](https://homeeleganceusa.com/collections/ilve): - Home Elegance Furniture
   Updated: 2025-07-20T16:22:58Z
   Total Products: 0
 - [Accent Tables – Side, End, Entryway & Designer Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-tables): Shop accent tables in modern, rustic, glam & minimalist designs. Round, square, end, side & hallway tables for every space. Fast shipping from Home Elegance USA
-  Updated: 2025-12-08T18:11:06Z
+  Updated: 2025-12-10T23:50:47Z
   Total Products: 3189
 - [Stools & Bar Stools Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/table-stools-bar-stools): Shop Stools & Bar Stools on sale at Home Elegance USA. Find stylish and comfortable seating for your kitchen island or bar.
   Updated: 2025-12-08T18:13:13Z
@@ -29356,13 +29371,13 @@ Weight: 216.1 pounds
   Updated: 2025-01-26T20:20:30Z
   Total Products: 806
 - [SUNPAN - Modern Home and Commercial Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/sunpan): Discover SUNPAN at Home Elegance USA: Thoughtfully designed modern furniture for residential and commercial spaces, including living, dining, bedroom & office. | Home Elegance USA
-  Updated: 2025-11-21T21:55:48Z
+  Updated: 2025-12-10T21:38:31Z
   Total Products: 666
 - [Moe's Home Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/moes-home): - Home Elegance USA
   Updated: 2025-01-26T20:22:51Z
   Total Products: 464
 - [Lighting | Chandeliers, Floor & Table Lamps – Home Elegance](https://homeeleganceusa.com/collections/lighting): Shop lighting including chandeliers, floor lamps, table lamps, and wall fixtures. Modern, glam, and classic designs crafted to brighten and elevate any room.
-  Updated: 2025-12-08T18:09:18Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 2202
 - [Fitness & Sports Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/fitness-sports): - Home Elegance USA
   Updated: 2024-11-06T16:06:26Z
@@ -29410,7 +29425,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-03T09:00:15Z
   Total Products: 1
 - [Home Decor | Wall Art, Lighting & Accent Furniture](https://homeeleganceusa.com/collections/decor): Shop home decor at Home Elegance! Find wall art, decorative mirrors, accent furniture, rugs & lighting to elevate your space. Free shipping available!
-  Updated: 2025-12-08T18:19:22Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 2126
 - [Wall Arts | Buy Beautiful Wall Arts Online](https://homeeleganceusa.com/collections/wall-art): Browse a wide selection of beautiful wall arts online. Shop now and refresh your space!
   Updated: 2025-11-22T16:37:19Z
@@ -29419,7 +29434,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:05:57Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2025-12-10T17:01:41Z
+  Updated: 2025-12-10T21:33:16Z
   Total Products: 1456
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
   Updated: 2025-12-08T13:39:14Z
@@ -29500,7 +29515,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-09T18:21:40Z
   Total Products: 256
 - [High Back Chairs – Elegant Accent, Dining & Office Seating](https://homeeleganceusa.com/collections/high-back-chairs): Shop High Back Chairs in dining, accent, and office styles. Discover comfort and support with tall-back seating in modern, classic, and upholstered designs.
-  Updated: 2025-12-08T17:50:55Z
+  Updated: 2025-12-10T21:10:27Z
   Total Products: 39
 - [Home Saunas – Traditional & Infrared for Ultimate Wellness](https://homeeleganceusa.com/collections/infrared-saunas): Relax and rejuvenate with our home saunas. Shop traditional steam & infrared saunas designed for stress relief, detox, and muscle relaxation.
   Updated: 2025-12-02T09:00:29Z
@@ -29509,7 +29524,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-07T23:00:38Z
   Total Products: 16
 - [Swivel Chairs – Modern & Contemporary Accent Seating | Home Elegance USA](https://homeeleganceusa.com/collections/swivel-chairs): Shop swivel chairs in modern, contemporary, and classic styles at Home Elegance USA. Perfect for living rooms, bedrooms, and offices—stylish rotating seating with comfort and versatility.
-  Updated: 2025-12-09T09:05:30Z
+  Updated: 2025-12-10T21:09:10Z
   Total Products: 262
 - [TV Entertainment Centers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/tv-entertainment-centers): Shop TV Entertainment Centers on sale at Home Elegance USA. Find the perfect entertainment center for your living room or family room.
   Updated: 2025-12-08T18:06:33Z
@@ -29518,10 +29533,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:06:37Z
   Total Products: 5
 - [Living Room Chairs | Accent & Recliner Seating – Home Elegance](https://homeeleganceusa.com/collections/living-room-chairs): Shop living room chairs in modern, classic & luxury styles. Accent chairs, recliners, and lounge chairs crafted for comfort, durability, and timeless design.
-  Updated: 2025-12-09T09:05:30Z
+  Updated: 2025-12-10T21:36:29Z
   Total Products: 2334
 - [Platform Beds – Modern & Upholstered Low-Profile Frames | Home Elegance USA](https://homeeleganceusa.com/collections/platform-beds): Shop platform beds with sleek low profiles, storage options, and upholstered finishes. Perfect for modern bedrooms. Free shipping nationwide.
-  Updated: 2025-12-09T15:09:18Z
+  Updated: 2025-12-10T22:02:51Z
   Total Products: 355
 - [Storage Beds – Modern, Upholstered & Platform Options | Home Elegance USA](https://homeeleganceusa.com/collections/storage-beds): Shop storage beds with built-in drawers and hidden compartments. Modern, upholstered, and platform designs that maximize bedroom space and style. Free shipping.
   Updated: 2025-12-08T18:18:41Z
@@ -29530,10 +29545,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:18:46Z
   Total Products: 613
 - [Sleigh Beds – Elegant Wood & Upholstered Designs | Home Elegance USA](https://homeeleganceusa.com/collections/sleigh-beds): Shop sleigh beds in wood, leather, and upholstered finishes. Classic curved headboards and timeless styles for traditional and modern bedrooms. Free shipping.
-  Updated: 2025-12-08T18:17:10Z
+  Updated: 2025-12-10T21:37:37Z
   Total Products: 33
 - [Chest of Drawers – Bedroom Storage Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/chest-of-drawers-1): Shop chests of drawers in modern, rustic, glam, and traditional styles. Elegant storage with durable finishes and spacious design. Free U.S. nationwide shipping.
-  Updated: 2025-12-09T15:09:15Z
+  Updated: 2025-12-10T22:03:34Z
   Total Products: 932
 - [Modern Bedroom Sets Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/modern-bedroom-sets): Create a stylish and modern bedroom oasis. Shop our Bedroom Sets on sale now at Home Elegance USA.
   Updated: 2025-12-08T14:41:14Z
@@ -29548,10 +29563,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:03:57Z
   Total Products: 32
 - [Rectangular Dining Tables in Wood, Marble & Extendable Styles](https://homeeleganceusa.com/collections/rectangular-dining-tables): Shop rectangular dining tables in solid wood, glass, and marble tops. Extendable and fixed styles for 4–10 guests. Perfect for any dining room or kitchen.
-  Updated: 2025-12-10T16:29:41Z
+  Updated: 2025-12-10T21:10:08Z
   Total Products: 751
 - [Round Dining Tables for Small Spaces, Kitchens & Modern Dining Rooms](https://homeeleganceusa.com/collections/round-dining-tables): Shop round dining tables for small spaces, kitchens, and open dining rooms. Fixed and extendable styles in wood, glass, and marble—ideal for 2 to 6 guests.
-  Updated: 2025-12-08T18:10:37Z
+  Updated: 2025-12-10T21:10:20Z
   Total Products: 308
 - [Square Dining Tables Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/square-dining-tables): Find the perfect Square Dining Table for your space. Shop our sale now at Home Elegance USA and enjoy stylish dining experiences.
   Updated: 2025-12-08T13:19:45Z
@@ -29572,7 +29587,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:13:06Z
   Total Products: 88
 - [Vases Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/vases): Shop Vases on sale at Home Elegance USA. Find the perfect vase to complement your flowers and decor.
-  Updated: 2025-12-08T14:59:34Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 230
 - [Decorative Bowls Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/decorative-bowls): Shop Decorative Bowls on sale at Home Elegance USA. Find beautiful decorative bowls to add a touch of elegance to your home decor.
   Updated: 2025-11-22T16:04:18Z
@@ -29599,7 +29614,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-07T23:07:32Z
   Total Products: 53
 - [Kitchen Cabinets and Storage Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/all-kitchen-cabinets-and-storage): Shop Kitchen Cabinets and Storage on sale at Home Elegance USA. Find the perfect cabinets and storage solutions to organize your kitchen.
-  Updated: 2025-12-08T18:19:02Z
+  Updated: 2025-12-10T22:22:05Z
   Total Products: 704
 - [Ergonomic, Stylish, and Comfortable Gaming Chairs](https://homeeleganceusa.com/collections/gaming-chairs): Boost your performance with our collection of high-quality Gaming Chairs. These chairs provide excellent comfort & support for marathon gaming sessions
   Updated: 2025-12-08T17:56:56Z
@@ -29611,7 +29626,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T15:27:23Z
   Total Products: 57
 - [Stationary Sofas – Modern, Traditional & Contemporary Living Room](https://homeeleganceusa.com/collections/stationary-sofas): Shop premium stationary sofas for your living room at Home Elegance USA. Leather & fabric options, modern and traditional styles, designed for comfort, luxury, and long-lasting durability.
-  Updated: 2025-12-08T18:12:32Z
+  Updated: 2025-12-10T21:10:34Z
   Total Products: 887
 - [Floor Mirrors – Full-Length, Arched & Leaning Mirrors for Every Room](https://homeeleganceusa.com/collections/floor-mirrors): Shop Floor Mirrors in arched, full-length, leaning, and modern styles. Perfect for bedrooms, entryways, and dressing rooms. Fast free shipping.
   Updated: 2025-12-08T18:14:42Z
@@ -29665,7 +29680,7 @@ Weight: 216.1 pounds
   Updated: 2025-07-26T17:24:48Z
   Total Products: 375
 - [Pendant Lights: Illuminate Your Space in Style](https://homeeleganceusa.com/collections/pendants): Shop high-quality pendant lighting at competitive prices. Our collection features durable materials and stylish designs to enhance any room.
-  Updated: 2025-12-08T15:00:54Z
+  Updated: 2025-12-10T23:50:46Z
   Total Products: 422
 - [Quilts & Comforters Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/quilts-comforters): Shop Quilts & Comforters on sale at Home Elegance USA. Find cozy and stylish quilts and comforters for your bedroom.
   Updated: 2025-12-02T19:43:35Z
@@ -29698,7 +29713,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T17:59:02Z
   Total Products: 37
 - [Bedroom Storage | Dressers, Chests & Armoires – Home Elegance](https://homeeleganceusa.com/collections/bedroom-storage): Shop bedroom storage furniture including dressers, chests, armoires, and nightstands. Modern, classic, and luxury designs with durable finishes and smart organization.
-  Updated: 2025-12-09T15:09:24Z
+  Updated: 2025-12-10T21:35:18Z
   Total Products: 6394
 - [Bedroom Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-seating): Bedroom Seating on sale at Home Elegance USA. Shop now for stylish and comfortable seating.
   Updated: 2025-12-08T18:18:47Z
@@ -29713,7 +29728,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-22T16:37:19Z
   Total Products: 48
 - [Accent Wall Décor – Stylish & Modern Wall Art | Home Elegance USA](https://homeeleganceusa.com/collections/accent-wall-decor): Elevate your space with accent wall décor. Discover stylish wall art, mirrors, and decorative pieces to enhance any room’s aesthetic. Shop now!
-  Updated: 2025-12-08T14:50:04Z
+  Updated: 2025-12-10T23:50:46Z
   Total Products: 451
 - [Desk & Shelf Clocks Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/desk-shelf-clocks): Enhance your home decor with Desk & Shelf Clocks on sale at Home Elegance USA. Shop now for a wide selection of styles and designs.
   Updated: 2025-09-19T16:33:01Z
@@ -29722,7 +29737,7 @@ Weight: 216.1 pounds
   Updated: 2025-03-08T18:03:35Z
   Total Products: 0
 - [Decorative Accents | Vases, Sculptures & Home Accessories – Home Elegance](https://homeeleganceusa.com/collections/decorative-accents): Shop decorative accents including vases, sculptures, trays, and home accessories. Modern, glam, rustic, and luxury décor designed to complete any living space.
-  Updated: 2025-12-08T14:59:34Z
+  Updated: 2025-12-10T23:50:48Z
   Total Products: 796
 - [Outdoor Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-seating): Shop Outdoor Seating on sale now at Home Elegance USA. Find the perfect stylish and comfortable furniture for your patio or deck at discounted prices.
   Updated: 2025-12-08T13:42:56Z
@@ -29788,7 +29803,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:04:53Z
   Total Products: 22
 - [Entertainment Centers & TV Stands – Stylish Media Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/entertainment-centers-and-tv-stands): Shop entertainment centers and TV stands in modern and classic styles. Functional media furniture with storage, cable management, and stylish finishes.
-  Updated: 2025-12-08T18:10:22Z
+  Updated: 2025-12-10T21:34:44Z
   Total Products: 686
 - [Game Room Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/game-room-furniture): Game Room Furniture on sale now at Home Elegance USA! Find the perfect pieces for your game room at amazing prices.
   Updated: 2025-12-08T18:08:50Z
@@ -29797,10 +29812,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:13:31Z
   Total Products: 85
 - [Entertainment Furniture | TV Stands, Consoles & Media Centers – Home Elegance](https://homeeleganceusa.com/collections/entertainment-furniture): Shop entertainment furniture including TV stands, media consoles, and home theater seating. Modern, classic, and luxury styles with storage, display, and durability.
-  Updated: 2025-12-08T18:10:22Z
+  Updated: 2025-12-10T21:34:44Z
   Total Products: 715
 - [Fireplace TV Stands – Media Consoles with Fireplaces | Home Elegance USA](https://homeeleganceusa.com/collections/fireplace-tv-stands): Shop fireplace TV stands with built-in electric fireplaces, media storage, and LED features. Perfect for living rooms and entertainment spaces with cozy ambiance.
-  Updated: 2025-12-08T13:39:12Z
+  Updated: 2025-12-10T21:34:27Z
   Total Products: 34
 - [Foldable Metal Foundations | Home Elegance USA](https://homeeleganceusa.com/collections/foldable-metal-foundations): Durable and portable, foldable metal foundations offer a stable and reliable base for various structures. Ideal for temporary or easily transportable setups.
   Updated: 2025-11-21T22:47:39Z
@@ -29819,13 +29834,13 @@ Weight: 216.1 pounds
   Total Products: 41
 - [Clearance Furniture | Designer Furniture at Unbeatable Price](https://homeeleganceusa.com/collections/clearance-furniture): Up to 70% off Clearance Furniture! 
 Upgrade your home without breaking the bank! Discover designer furniture at unbeatable prices in our Clearance Sale.
-  Updated: 2025-12-09T18:49:51Z
+  Updated: 2025-12-10T22:03:34Z
   Total Products: 62
 - [Living Room Furniture Clearance](https://homeeleganceusa.com/collections/living-room-furniture-clearance): Discover incredible savings in our living room furniture clearance. Find sofas, coffee tables, and more at discounted prices.
-  Updated: 2025-12-08T17:46:25Z
+  Updated: 2025-12-10T22:03:24Z
   Total Products: 16
 - [Bedroom Furniture Clearance | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture-clearance): Bedroom furniture clearance at amazing prices! Shop beds, dressers, nightstands and more.
-  Updated: 2025-12-08T18:11:20Z
+  Updated: 2025-12-10T22:03:34Z
   Total Products: 15
 - [Office Furniture Clearance | Home Elegance USA](https://homeeleganceusa.com/collections/office-furniture-clearance): Revamp your workspace with our office furniture clearance. Shop discounted desks, chairs, and storage solutions. Style and functionality at unbeatable prices
   Updated: 2025-06-08T16:07:00Z
@@ -29834,7 +29849,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-09T18:46:17Z
   Total Products: 7
 - [Dining Room Furniture Clearance](https://homeeleganceusa.com/collections/dining-room-furniture-clearance): Huge savings on Dining Room Furniture Clearance! Shop clearance tables, chairs & sets.
-  Updated: 2025-12-08T17:50:59Z
+  Updated: 2025-12-10T21:38:47Z
   Total Products: 11
 - [Outdoor Furniture Clearance | Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-furniture-clearance): Transform your outdoor space with our outdoor furniture clearance. Discover discounted patio sets, loungers, and more. Outdoor living at unbeatable prices.
   Updated: 2025-05-24T19:49:39Z
@@ -29930,52 +29945,52 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-11-29T19:05:03Z
   Total Products: 3
 - [Classic Collection | Caracole | Home Elegance USA](https://homeeleganceusa.com/collections/classic-caracole-furniture): Discover the Caracole Classic Collection at Home Elegance USA.  Experience playful, personality-filled, high-style furniture at an exceptional value.
-  Updated: 2025-12-07T23:05:50Z
+  Updated: 2025-12-10T21:10:33Z
   Total Products: 341
 - [Modern Edge Collection | Caracole](https://homeeleganceusa.com/collections/modern-edge-caracole-furniture): At the edge of exceptional and eternal, you’ll find this instinctive collection pushing the limits and stretching the boundaries of design.
-  Updated: 2025-12-07T23:03:43Z
+  Updated: 2025-12-10T21:08:38Z
   Total Products: 7
 - [Modern Expressions Collection | Caracole](https://homeeleganceusa.com/collections/modern-expressions-caracole-furniture): Explore the latest additions to our Modern Expressions Collection. Discover the brilliance of simple storytelling, revealed in every exquisite detail.
-  Updated: 2025-12-07T23:04:08Z
+  Updated: 2025-12-10T21:09:10Z
   Total Products: 7
 - [La Moda Collection | Caracole | Home Elegance USA](https://homeeleganceusa.com/collections/la-moda-caracole-furniture): Elevate your home with the La Moda Collection from Caracole. Indulge in sophisticated comfort and timeless Italian elegance with meticulously crafted pieces.
-  Updated: 2025-12-07T23:05:43Z
+  Updated: 2025-12-10T21:10:29Z
   Total Products: 23
 - [Modern Principles Collection | Caracole](https://homeeleganceusa.com/collections/modern-principles-caracole-furniture): Discover the Modern Principles Collection at Home Elegance USA. Elegant, functional design for your whole home.
-  Updated: 2025-12-07T23:04:08Z
+  Updated: 2025-12-10T21:09:29Z
   Total Products: 27
 - [Modern Remix Collection | Caracole](https://homeeleganceusa.com/collections/modern-remix-caracole-furniture): Discover our vibrant new collection, a fresh complement to the Modern Remix Artisan aesthetic, perfectly suited for today's active lifestyles.
-  Updated: 2025-12-07T23:03:42Z
+  Updated: 2025-12-10T21:08:35Z
   Total Products: 14
 - [Modern Streamline Collection | Caracole](https://homeeleganceusa.com/collections/modern-streamline-caracole-furniture): A synthesis of modern luxury and streamlined styling, Modern Streamline makes a statement like no other. Exquisitely designed to capture the beauty of 1940s
-  Updated: 2025-12-07T23:03:46Z
+  Updated: 2025-12-10T21:09:13Z
   Total Products: 12
 - [Kelly Hoppen Collection | Caracole](https://homeeleganceusa.com/collections/kelly-hoppen-caracole-furniture): Welcome to the House of Hoppen. Exclusive to Caracole, this master class ensemble conceived by design icon Kelly Hoppen celebrates modern simplicity.
-  Updated: 2025-12-07T23:04:18Z
+  Updated: 2025-12-10T21:09:36Z
   Total Products: 21
 - [Signature Debut Collection | Caracole](https://homeeleganceusa.com/collections/signature-debut-caracole-furniture): A statement in luxury, the Debut collection is a mélange of elegant materials that have been finely crafted into benchmade furniture with regal styling.
   Updated: 2025-12-07T23:02:28Z
   Total Products: 6
 - [Signature Metropolitan Collection | Caracole](https://homeeleganceusa.com/collections/signature-metropolitan-caracole-furniture): Discover Signature Metropolitan Collection design. Where clean lines meet fluid shapes and natural stone. Explore the collection.
-  Updated: 2025-12-07T23:05:21Z
+  Updated: 2025-12-10T21:10:17Z
   Total Products: 15
 - [Signature Simpatico Collection | Caracole](https://homeeleganceusa.com/collections/signature-simpatico-caracole-furniture): Signature Simpatico is an internationally inspired collection of cosmopolitan pieces designed to create modern and urbane interiors with a sophisticated aura.
   Updated: 2025-12-07T23:03:45Z
   Total Products: 3
 - [Adela Collection | Caracole | Home Elegance USA](https://homeeleganceusa.com/collections/adela-caracole-furniture): The Adela collection features beautiful curvaceous silhouettes for the entire home. Washed alabaster maple is brushed with a soft metallic blush taupe finish
-  Updated: 2025-12-07T23:02:41Z
+  Updated: 2025-12-10T21:08:31Z
   Total Products: 7
 - [Avondale Collection | Caracole](https://homeeleganceusa.com/collections/avondale-caracole-furniture): Serene, yet sophisticated, the Avondale collection is an authentic reflection of everyday elegance. With a timeless outlook all its own.
-  Updated: 2025-12-07T23:01:34Z
+  Updated: 2025-12-10T21:07:24Z
   Total Products: 9
 - [Fontainebleau Collection | Caracole](https://homeeleganceusa.com/collections/fontainebleau-caracole-furniture): Being an original comes naturally when you find yourself at home with the Fontainebleau collection. Encompassing designs and motifs.
-  Updated: 2025-12-07T23:02:15Z
+  Updated: 2025-12-10T22:22:05Z
   Total Products: 12
 - [Oxford Collection | Caracole | Home Elegance USA](https://homeeleganceusa.com/collections/oxford-caracole-furniture): Discover enduring luxury with the Oxford Collection. Classic details, dark wood, and warm gold create a timeless elegance
   Updated: 2025-11-30T20:28:29Z
   Total Products: 0
 - [Valentina Collection | Caracole](https://homeeleganceusa.com/collections/valentina-caracole-furniture): Discover the luxurious Valentina Collection by Caracole. Exquisite furniture and home decor designed to elevate your space. Explore the collection now
-  Updated: 2025-12-07T23:02:13Z
+  Updated: 2025-12-10T21:07:30Z
   Total Products: 14
 - [Albion Collection | Bernhardt | Home Elegance USA](https://homeeleganceusa.com/collections/albion-bernhardt): Explore the Albion Collection by Bernhardt and find the perfect pieces to transform your home. Experience the difference of exceptional quality and design.
   Updated: 2025-12-07T22:40:15Z
@@ -30041,7 +30056,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-08T17:46:58Z
   Total Products: 3
 - [Couches & Sofa Sets | Modern & Luxury Living Room Seating – Home Elegance](https://homeeleganceusa.com/collections/couches-sofa-sets): Shop couches & sofa sets in modern, traditional & luxury designs. Leather, fabric & sectional seating for living rooms. Stylish comfort with free nationwide shipping.
-  Updated: 2025-12-10T16:29:41Z
+  Updated: 2025-12-10T22:04:12Z
   Total Products: 5403
 - [Tall Display Cabinets – Glass & Wood Display Cases | Home Elegance](https://homeeleganceusa.com/collections/tall-display-cabinets): Shop tall display cabinets in glass, wood, and modern finishes. Perfect for showcasing décor, china, or collectibles in dining rooms, living rooms, and offices.
   Updated: 2025-12-08T18:10:14Z
@@ -30053,7 +30068,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-08T18:10:30Z
   Total Products: 30
 - [Panel Beds – Traditional & Modern Framed Bed Styles | Home Elegance USA](https://homeeleganceusa.com/collections/panel-beds): Shop panel beds with framed headboards, wood and upholstered finishes, and timeless styles. Perfect for any bedroom. Free nationwide shipping.
-  Updated: 2025-12-08T18:18:46Z
+  Updated: 2025-12-10T21:37:23Z
   Total Products: 801
 - [Metal Beds: Durable & Stylish Frames for Every Bedroom](https://homeeleganceusa.com/collections/metal-beds): Shop our selection of durable metal beds. Explore a variety of styles, from modern to classic. Find the perfect metal bed frame for your bedroom.
   Updated: 2025-12-08T18:04:01Z
@@ -30062,13 +30077,13 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-08T18:17:31Z
   Total Products: 181
 - [King Size Beds – Modern & Traditional Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/king-size-beds): Shop King Size Beds in wood, upholstered, and storage styles. Perfect for master bedrooms with elegant comfort and bold design. Free nationwide shipping.
-  Updated: 2025-12-08T18:18:46Z
+  Updated: 2025-12-10T22:02:51Z
   Total Products: 764
 - [Executive Desks – Modern, Traditional & Luxury Styles | Home Elegance USA](https://homeeleganceusa.com/collections/executive-desks): Shop executive desks in wood, glass, and leather finishes. Available in modern, traditional, and luxury styles—perfect for home offices and professional workspaces.
   Updated: 2025-12-08T18:08:45Z
   Total Products: 47
 - [Queen Size Beds – Modern & Traditional Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/queen-size-bed): Shop queen size beds in wood, upholstered, and storage designs. Modern, rustic, glam, and classic styles built for comfort and durability. Free U.S. nationwide shipping.
-  Updated: 2025-12-09T15:09:17Z
+  Updated: 2025-12-10T21:37:37Z
   Total Products: 1126
 - [BH Design](https://homeeleganceusa.com/collections/bh-design): Elevate your home with BH Design’s modern, a premier designer and manufacturer of high-quality contemporary furniture—stylish sectionals, sofas, bedroom sets, and dining pieces crafted for comfort & durability.
   Updated: 2025-09-12T16:26:13Z
