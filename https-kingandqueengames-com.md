@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2025-12-09T21:23:25.170Z
+- Updated At: 2025-12-11T00:00:40.457Z
 
 King And Queen Games, llc
 
@@ -509,7 +509,7 @@ King And Queen Games, llc
 - [Shipping Policy](https://kingandqueengames.com/policies/shipping-policy)
   Updated: 2025-06-27T13:49:19-05:00
 - [Refund Policy](https://kingandqueengames.com/policies/refund-policy)
-  Updated: 2025-09-17T04:47:50-05:00
+  Updated: 2025-12-10T15:37:56-06:00
 - [Terms of Service](https://kingandqueengames.com/policies/terms-of-service)
   Updated: 2025-03-20T00:38:29-05:00
 - [Contact Information](https://kingandqueengames.com/policies/contact-information)
