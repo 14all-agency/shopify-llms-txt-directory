@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-09T00:00:41.635Z
+- Updated At: 2025-12-11T05:32:23.208Z
 
 ## Products
 
@@ -5909,13 +5909,135 @@
     Availability: Available
     Price: $170.00 USD
 - [Pink Ikat Boho Maxi Dress – Free Size| PIKARU FASHION](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress): 🌺 Pink Ikat Printed Boho Maxi Dress – Free Size | Balloon Sleeves | 100% Soft Cotton Step into effortless elegance with our Handmade Pink Ikat Boho Maxi Dress
-  Updated: 2025-12-08T12:13:36Z
+  Updated: 2025-12-10T10:46:45Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_133311.jpg?v=1765195999
-  Price: $19.99 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1ODY1Njg3NDg2NiwibGFzdF92YWx1ZSI6IjE0ODU4NjU2ODc0ODY2In0=)
+  - [One size](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323899250)
+    Availability: Available
+    Price: $19.99 USD
+  - [S](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323932018)
+    Availability: Not Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323964786)
+    Availability: Not Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323997554)
+    Availability: Not Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349324030322)
+    Availability: Not Available
+    Price: $19.99 USD
+- [Boho Tassel Midi Dress — Aqua Diamond Print | PIKARU FASHION](https://pikarufashion.com/products/boho-tassel-midi-dress-aqua-diamond-print-puff-sleeves): Shop the airy Boho Tassel Midi Dress in an aqua diamond print. Lightweight, puff sleeves, tassel tie neckline — perfect for summer, beach,, Available in S–XL.
+  Updated: 2025-12-09T19:01:43Z
+  Vendor: PIKARU FASHION
+  Product Type: Dresses → Boho / Midi Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_134005.jpg?v=1765266102
+  - [S](https://pikarufashion.com/products/boho-tassel-midi-dress-aqua-diamond-print-puff-sleeves?variant=61344504709490)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/boho-tassel-midi-dress-aqua-diamond-print-puff-sleeves?variant=61344504742258)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/boho-tassel-midi-dress-aqua-diamond-print-puff-sleeves?variant=61344504775026)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/boho-tassel-midi-dress-aqua-diamond-print-puff-sleeves?variant=61344504807794)
+    Availability: Available
+    Price: $19.99 USD
+- [Crimson Floral Tassel Midi Dress—Puff Sleeves | PIKARU STORE](https://pikarufashion.com/products/crimson-floral-tassel-midi-dress): Discover the Crimson Floral Tassel Midi Dress — puff sleeves, gathered waist, and playful tassel ties. Lightweight and flattering for day or evening. SIZE S-XL.
+  Updated: 2025-12-09T19:03:18Z
+  Vendor: PIKARU FASHION
+  Product Type: Dresses → Midi Dresses / Boho Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_134726.jpg?v=1765266084
+  - [S](https://pikarufashion.com/products/crimson-floral-tassel-midi-dress?variant=61344521159026)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/crimson-floral-tassel-midi-dress?variant=61344521191794)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/crimson-floral-tassel-midi-dress?variant=61344521224562)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/crimson-floral-tassel-midi-dress?variant=61344521257330)
+    Availability: Available
+    Price: $19.99 USD
+- [Multi-Colour Floral Boho Midi Dress — Puff Sleeves & Tassel](https://pikarufashion.com/products/multi-colour-floral-boho-midi-dress-puff-sleeves): Discover the charm of our Multi-Colour Floral Boho Midi Dress. Perfect puff sleeves enhance its vibrant, flowy design for any occasion.
+  Updated: 2025-12-09T19:35:50Z
+  Vendor: PIKARU FASHION
+  Product Type: Dresses → Boho / Floral / Midi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_135511.jpg?v=1765266057
+  - [S](https://pikarufashion.com/products/multi-colour-floral-boho-midi-dress-puff-sleeves?variant=61344541639026)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/multi-colour-floral-boho-midi-dress-puff-sleeves?variant=61344541671794)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/multi-colour-floral-boho-midi-dress-puff-sleeves?variant=61344541704562)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/multi-colour-floral-boho-midi-dress-puff-sleeves?variant=61344541737330)
+    Availability: Available
+    Price: $19.99 USD
+- [Handblock Floral Boho Midi Dress—Puff Sleeves](https://pikarufashion.com/products/handblock-floral-boho-midi-dress): A breezy Handblock Floral Boho Midi Dress, featuring puff sleeves, a gathered waist, and a tassel-tie neckline — perfect for everyday.
+  Updated: 2025-12-10T20:09:47Z
+  Vendor: PIKARU FASHION
+  Product Type: Dresses → Boho / Handblock / Midi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_140333.jpg?v=1765271044
+  - [S](https://pikarufashion.com/products/handblock-floral-boho-midi-dress?variant=61344687554930)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/handblock-floral-boho-midi-dress?variant=61344687587698)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/handblock-floral-boho-midi-dress?variant=61344687620466)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/handblock-floral-boho-midi-dress?variant=61344687653234)
+    Availability: Available
+    Price: $19.99 USD
+- [Navy Botanical Boho Midi Dress— Puff Sleeves & Tassel Neck](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print): Shop the Navy Botanical Boho Midi Dress with vibrant floral print, puff sleeves, and tassel tie neckline. Lightweight, stylish & perfect for outings or daily
+  Updated: 2025-12-11T00:24:36Z
+  Vendor: PIKARU FASHION
+  Product Type: Dresses → Boho / Floral / Midi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_140839.jpg?v=1765271684
+  - [S](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print?variant=61344710885746)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print?variant=61344710918514)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print?variant=61344710951282)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print?variant=61344710984050)
+    Availability: Available
+    Price: $19.99 USD
+- [Boho Midi Dress -Floral Weave with Puff Sleeves & Tassel Tie](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress): Elevate your style with this Ivory Jacquard Boho Midi Dress featuring a textured floral weave, puff sleeves, and tassel tie neckline. Sizes S–XL.
+  Updated: 2025-12-10T22:13:45Z
+  Vendor: PIKARU FASHION
+  Product Type: Dresses → Boho / Jacquard / Midi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_141307.jpg?v=1765357055
+  - [S](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress?variant=61349307908466)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress?variant=61349307941234)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress?variant=61349307974002)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress?variant=61349308006770)
+    Availability: Available
+    Price: $19.99 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2MDE3NDk1MDc3MCwibGFzdF92YWx1ZSI6IjE0ODYwMTc0OTUwNzcwIn0=)
 
 ## Collections
 
@@ -5926,14 +6048,14 @@
   Updated: 2025-12-02T13:13:17Z
   Total Products: 16
 - [Printed Dress | Trendy Women’s Printed Dresses for Everyday](https://pikarufashion.com/collections/printed-dress-trendy-vibrant-modern-fashion): Shop stylish Printed Dresses crafted with vibrant patterns, premium fabrics, and flattering fits. Perfect for casual outings, travel, and everyday use -
-  Updated: 2025-12-08T12:11:27Z
-  Total Products: 42
+  Updated: 2025-12-10T08:10:23Z
+  Total Products: 43
 - [Maxi Dress | Trendy Women’s Long Dresses for Every Occasion](https://pikarufashion.com/collections/maxi-dress-by-pikaru-fashion): Shop stylish Maxi Dresses crafted with premium fabrics, flattering fits, and elegant long silhouettes. Perfect for vacations and daily wear- PIKARU FASHION
-  Updated: 2025-12-08T12:11:27Z
-  Total Products: 70
+  Updated: 2025-12-09T06:45:11Z
+  Total Products: 71
 - [Boho Dress | Bohemian Women’s Dresses for Daily, & Travel](https://pikarufashion.com/collections/boho-dress-pikaru-fashion-store): Shop stylish Boho Dresses featuring flowy silhouettes, soft fabrics, and artistic bohemian designs. beach days, daily comfort, and festive occasions
-  Updated: 2025-12-08T12:11:27Z
-  Total Products: 25
+  Updated: 2025-12-10T11:06:17Z
+  Total Products: 30
 - [Blouses | Designer Women’s Tops for Daily & Party Wear |](https://pikarufashion.com/collections/blouses-elegant-modern-trendy-women-s-tops): Shop stylish Blouses crafted with premium fabrics, elegant cuts, and modern designs. Perfect for work, parties, and everyday wear - PIKARU FASHION
   Updated: 2025-11-29T18:34:33Z
   Total Products: 7
@@ -5944,8 +6066,8 @@
   Updated: 2025-12-02T10:16:50Z
   Total Products: 7
 - [Midi Dress | Stylish Women’s Mid-Length Dresses for Everyday](https://pikarufashion.com/collections/midi-dress-elegant-versatile-modern-women-s-fashion): Shop elegant Midi Dresses crafted with premium fabrics, flattering fits, and stylish mid-length silhouettes. Perfect for office wear, parties, travel
-  Updated: 2025-12-02T13:13:17Z
-  Total Products: 17
+  Updated: 2025-12-10T10:13:38Z
+  Total Products: 23
 - [Long Sleeve Dress | Chic Women’s Dresses for Work, Casual](https://pikarufashion.com/collections/long-sleeve-dress-elegant-comfortable-stylish-women-s-fashion): Shop elegant long sleeve dresses crafted with premium fabrics, flattering silhouettes, and stylish designs. Perfect for parties, travel, and everyday comfort
   Updated: 2025-11-29T18:34:14Z
   Total Products: 36
@@ -6024,6 +6146,9 @@
 - [Suzzani Coats | Boho Embroidered Winter Jackets](https://pikarufashion.com/collections/suzzani-coats-boho-embroidered-winter-jackets): Explore our exquisite collection of handcrafted Suzzani Coats, featuring rich embroidery and traditional artisan designs.
   Updated: 2025-11-29T18:40:22Z
   Total Products: 18
+- [discount deals under 19.99 | SALE Under $19.99](https://pikarufashion.com/collections/discount-deals-under-19-99-best-budget-picks): Discount deals under 19.99 are here! Explore our SALE Under $19.99 for incredible savings on your favorite products.
+  Updated: 2025-12-10T10:13:38Z
+  Total Products: 31
 
 ## Store Pages
 
