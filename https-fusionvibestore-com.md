@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-12-07T00:00:35.687Z
+- Updated At: 2025-12-11T00:00:36.207Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-12-02T07:25:44Z
+  Updated: 2025-12-07T18:27:06Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-12-02T05:26:58Z
+  Updated: 2025-12-09T06:28:32Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1234,7 +1234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
     Price: $28.30 USD
 - [Portable Mini Thermal Label Printer Home Photo Printer Student Wrong Question Printer Bluetooth-compatible Mini Label Printer Price Tag](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag): Overview: 1. Efficient learning, 200 million free genuine open question banks; The Phomemo T02 series is a mini pocket printer that does not require ink. The independently developed app is more suitable for foreign users' usage habits. The app supports 10 languages (Chinese, Traditional Chinese, English, Japanese, Korean, Thai, French, German, Spanish, Portuguese) suitable for foreign trade styles. Apple iOS, Android download app, mobile Bluetooth link, built-in high-quality lithium battery, easy to carry, capable of printing images, text, errors, and supporting various specifications of label printing Product information: Material: ABS Style: simple and stylish Features: Thermal paper printing Color: white, pink Product size: 87mm×90mm×40mm Connection method: Bluetooth Print type: inkless printing Printing technology: thermal printing Compatible system: Android 4.4/iOS8.0 and above Power supply mode: lithium battery Battery capacity: 1000mAh Model number: Green (including a roll of 1-meter 1 roll of sticky paper ) Pink (including a roll of 1-meter 1 roll of sticky paper) White(including a roll of 1-meter 1 roll of sticky paper) Blue (including a roll of 1-meter 1 roll of sticky paper) Yellow (including a roll of 1-meter 1 roll of sticky paper) All green(including a roll of 1-meter 1 roll of sticky paper) Transparent Printer paper: 3 rolls 50mm*3.5m20 year transparent black letter thermal adhesive Style A: 50mm * 3.5m 10-year white background with black lettering thermosensitive adhesive（ Sticky paper ） Style B: 53mm * 6.5m 5-year-old yellow, pink, and blue background with black lettering on regular thermal paper (nonadhesive) Style C: 50mm * 3.5m 20-year green, purple, orange with black lettering thermosensitive adhesive（Sticky paper） Blue set: Blue printer +4 rolls Sticky paper Green set: Green printer +4 rolls Sticky paper Pink set: Pink printer +4 rolls Sticky paper White set: White printer +4 rolls Sticky paper Yellow set: Yellow printer +4 rolls Sticky paper Size Information: Packing list: Printer*1 Product Image:
-  Updated: 2025-11-22T07:26:04Z
+  Updated: 2025-12-08T11:28:27Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1592,7 +1592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-12-05T09:27:12Z
+  Updated: 2025-12-10T06:27:18Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2943,7 +2943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
     Price: $32.65 USD
 - [No Awkward Line Peach Butt Yoga Pants High Waist Tummy Control Running Sports Leggings](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings): 82.5 polyester 17.5 spandex
-  Updated: 2025-11-19T18:49:16Z
+  Updated: 2025-12-09T04:27:27Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3013,7 +3013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
     Price: $30.45 USD
 - [Ladies' Mid-length Solid Color Belt Coat, Casual Commuting Elegant Versatile Autumn And Winter Outerwear, Stand Collar Single-button Long Sleeve Coat.](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat): Composition:100.0% Polyester;
-  Updated: 2025-11-29T09:28:33Z
+  Updated: 2025-12-10T07:27:27Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3495,7 +3495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
     Price: $18.45 USD
 - [Simple And Stylish, Elegant Commuting Jumpsuit, Long Sleeve Straight Jumpsuit, V-neck, Cross Pleated, Tie-up Casual Jumpsuit, For Everyday Wear.](https://fusionvibestore.com/products/simple-and-stylish-elegant-commuting-jumpsuit-long-sleeve-straight-jumpsuit-v-neck-cross-pleated-tie-up-casual-jumpsuit-for-everyday-wear): Composition:95% Polyester;5% Elastane;
-  Updated: 2025-11-19T21:05:10Z
+  Updated: 2025-12-10T08:28:16Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3587,6 +3587,288 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
     Price: $18.45 USD
+- [Elegant And Chic Women's Sequined Lapel Jumpsuit](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit): Product information: Color: Red, magenta, black, white, reddish-brown, blue Stretch: Non-stretch Size: S, M, L, XL, 2XL, 3XL Style Category: Elegant women's casual wear Fashion Element: Belt Style: A-line Thickness: Thin Fabric Name: Polyester Sleeve Style: Regular Target Audience: Teenagers, young adults, millennials, middle-aged individuals Main Fabric Composition: Polyester Pants Style: Straight-leg Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Jumpsuit x 1 Product Image:
+  Updated: 2025-12-10T14:28:48Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine.jpg?v=1765376798
+  - [2XL / Black](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758698183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9b086ec9-efba-4782-a17c-17b6109b248a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [2XL / Blue](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758730951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a816edad-68e6-4f4b-bed5-2bb3ceb4295d_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [2XL / Purplish Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758763719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4be7746-7ee3-4c04-b0ae-badf8e4eed0a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [2XL / Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758796487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine_2b61ddd3-1ef5-4031-83ba-a68a551768bd.jpg?v=1765376803
+    Price: $30.35 USD
+  - [2XL / Reddish Brown](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758829255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8a470f3-4549-494a-9a37-06bd2af84320_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [2XL / White](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758862023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [3XL / Black](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758894791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9b086ec9-efba-4782-a17c-17b6109b248a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [3XL / Blue](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758927559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a816edad-68e6-4f4b-bed5-2bb3ceb4295d_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [3XL / Purplish Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758960327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4be7746-7ee3-4c04-b0ae-badf8e4eed0a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [3XL / Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944758993095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine_2b61ddd3-1ef5-4031-83ba-a68a551768bd.jpg?v=1765376803
+    Price: $30.35 USD
+  - [3XL / Reddish Brown](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759025863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8a470f3-4549-494a-9a37-06bd2af84320_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [3XL / White](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759058631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [L / Black](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759091399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9b086ec9-efba-4782-a17c-17b6109b248a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [L / Blue](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759124167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a816edad-68e6-4f4b-bed5-2bb3ceb4295d_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [L / Purplish Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759156935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4be7746-7ee3-4c04-b0ae-badf8e4eed0a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [L / Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759189703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine_2b61ddd3-1ef5-4031-83ba-a68a551768bd.jpg?v=1765376803
+    Price: $30.35 USD
+  - [L / Reddish Brown](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759222471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8a470f3-4549-494a-9a37-06bd2af84320_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [L / White](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759255239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [M / Black](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759288007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9b086ec9-efba-4782-a17c-17b6109b248a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [M / Blue](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759320775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a816edad-68e6-4f4b-bed5-2bb3ceb4295d_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [M / Purplish Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759353543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4be7746-7ee3-4c04-b0ae-badf8e4eed0a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [M / Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759386311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine_2b61ddd3-1ef5-4031-83ba-a68a551768bd.jpg?v=1765376803
+    Price: $30.35 USD
+  - [M / Reddish Brown](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759419079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8a470f3-4549-494a-9a37-06bd2af84320_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [M / White](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759451847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [S / Black](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759484615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9b086ec9-efba-4782-a17c-17b6109b248a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [S / Blue](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759517383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a816edad-68e6-4f4b-bed5-2bb3ceb4295d_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [S / Purplish Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759550151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4be7746-7ee3-4c04-b0ae-badf8e4eed0a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [S / Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759582919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine_2b61ddd3-1ef5-4031-83ba-a68a551768bd.jpg?v=1765376803
+    Price: $30.35 USD
+  - [S / Reddish Brown](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759615687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8a470f3-4549-494a-9a37-06bd2af84320_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [S / White](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759648455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [XL / Black](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759681223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9b086ec9-efba-4782-a17c-17b6109b248a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [XL / Blue](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759713991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a816edad-68e6-4f4b-bed5-2bb3ceb4295d_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [XL / Purplish Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759746759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4be7746-7ee3-4c04-b0ae-badf8e4eed0a_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [XL / Red](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759779527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7bf8b93f-3c06-46e5-b6dc-35afa657846f_fine_2b61ddd3-1ef5-4031-83ba-a68a551768bd.jpg?v=1765376803
+    Price: $30.35 USD
+  - [XL / Reddish Brown](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759812295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8a470f3-4549-494a-9a37-06bd2af84320_fine.jpg?v=1765376803
+    Price: $30.35 USD
+  - [XL / White](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit?variant=45944759845063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
+    Price: $30.35 USD
+- [Fashionable Price-adjusted Lace-up Slim-fit Printed Dress](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress): Product information: Skirt Style: A-line skirt Colors: Leopard print, black Waist Style: High waist Sizes: 1XL, 2XL, 3XL, 4XL, 5XL How to Style: Worn as a standalone piece Skirt Length: Mid-length Trendy Element: Lace-up details Design: Strapless Fabric Name: Knitted fabric Sleeve Style: Sleeveless Main Fabric Composition: Polyester fiber Sleeve Length: Sleeveless Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
+  Updated: 2025-12-10T14:52:49Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/01807c5d-232f-432d-9d39-ab1faa21246c.jpg?v=1765377786
+  - [Black / 1XL](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress?variant=45944767938759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
+    Price: $22.34 USD
+  - [Black / 2XL](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress?variant=45944767971527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
+    Price: $22.34 USD
+  - [Black / 3XL](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress?variant=45944768004295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
+    Price: $22.34 USD
+  - [Black / 4XL](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress?variant=45944768037063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
+    Price: $22.34 USD
+  - [Black / 5XL](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress?variant=45944768069831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
+    Price: $22.34 USD
+- [Solid-color Dress Halter-neck Midi Skirt](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt): Product information: Skirt Style: A-line skirt Waist Style: High waist Sizes: L, XL, 2XL, 3XL, 4XL How to Style: Worn as a standalone piece Skirt Length: Mid-length Design: Basic style Sleeve Style: Raglan sleeve Main Fabric Composition: Polyester fiber Sleeve Length: Short sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
+  Updated: 2025-12-10T14:56:58Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9a39c4f9-5d3a-4f8c-9613-436505968d66.jpg?v=1765378498
+  - [Black / 2XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780587207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b25821a6-8ef7-49e9-b226-af41e58ad52a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Black / 3XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780619975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b25821a6-8ef7-49e9-b226-af41e58ad52a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Black / 4XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780652743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b25821a6-8ef7-49e9-b226-af41e58ad52a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Black / L](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780685511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b25821a6-8ef7-49e9-b226-af41e58ad52a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Black / XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780718279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b25821a6-8ef7-49e9-b226-af41e58ad52a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Colorful Blue / 2XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780751047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fe0881d8-ec57-43fe-82ab-e3956fc9e212.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Colorful Blue / 3XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780783815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fe0881d8-ec57-43fe-82ab-e3956fc9e212.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Colorful Blue / 4XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780816583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fe0881d8-ec57-43fe-82ab-e3956fc9e212.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Colorful Blue / L](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780849351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fe0881d8-ec57-43fe-82ab-e3956fc9e212.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Colorful Blue / XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780882119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fe0881d8-ec57-43fe-82ab-e3956fc9e212.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Green / 2XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780914887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a0f7ce77-eef5-4835-a15e-32118ab0de8a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Green / 3XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780947655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a0f7ce77-eef5-4835-a15e-32118ab0de8a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Green / 4XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944780980423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a0f7ce77-eef5-4835-a15e-32118ab0de8a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Green / L](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781013191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a0f7ce77-eef5-4835-a15e-32118ab0de8a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Green / XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781045959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a0f7ce77-eef5-4835-a15e-32118ab0de8a.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Rose Purple / 2XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781078727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1a5daba3-cf3a-417d-915c-86980bea5b1c.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Rose Purple / 3XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781111495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1a5daba3-cf3a-417d-915c-86980bea5b1c.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Rose Purple / 4XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781144263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1a5daba3-cf3a-417d-915c-86980bea5b1c.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Rose Purple / L](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781177031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1a5daba3-cf3a-417d-915c-86980bea5b1c.jpg?v=1765378507
+    Price: $22.45 USD
+  - [Rose Purple / XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781209799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1a5daba3-cf3a-417d-915c-86980bea5b1c.jpg?v=1765378507
+    Price: $22.45 USD
+  - [White / 2XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781242567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
+    Price: $22.45 USD
+  - [White / 3XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781275335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
+    Price: $22.45 USD
+  - [White / 4XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781308103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
+    Price: $22.45 USD
+  - [White / L](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781340871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
+    Price: $22.45 USD
+  - [White / XL](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt?variant=45944781373639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
+    Price: $22.45 USD
 
 ## Collections
 
@@ -3609,8 +3891,8 @@
   Updated: 2025-10-29T17:11:35Z
   Total Products: 0
 - [Women](https://fusionvibestore.com/collections/women)
-  Updated: 2025-11-19T12:57:40Z
-  Total Products: 15
+  Updated: 2025-12-10T14:55:13Z
+  Total Products: 18
 - [car accessories](https://fusionvibestore.com/collections/car-accessories)
   Updated: 2025-10-29T17:30:04Z
   Total Products: 0
