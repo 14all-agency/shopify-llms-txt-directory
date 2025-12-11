@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-08-09T08:00:51Z
 - Contact Email: team@saanjhcollectives.in
-- Updated At: 2025-12-09T00:00:23.059Z
+- Updated At: 2025-12-11T00:00:29.428Z
 
 ## Products
 
@@ -192,6 +192,12 @@
     Author: Saanjh Collectives
   - [Aromatherapy Benefits India | Natural Stress Relief - Saanjh](https://saanjhcollectives.in/blogs/news/aromatherapy-benefits-natural-stress-relief-india): <p>Explore the science-backed benefits of aromatherapy with Saanjh Collectives' luxury candles and essential oils. From stress relief to better sleep, discover how traditional Indian fragrances can transform your wellness routine. Natural healing starts here.</p>
     Updated: 2025-12-08T04:30:06Z
+    Author: Saanjh Collectives
+  - [Home Decor Ideas India | Luxury Candles & Fragrance Styling - Saanjh](https://saanjhcollectives.in/blogs/news/home-decor-luxury-candles-fragrance-styling-india): <p>Discover how luxury candles and home fragrances have become essential elements of interior design. Learn expert styling tips, seasonal decoration ideas, and how to create a cohesive sensory experience that makes your home truly yours.</p>
+    Updated: 2025-12-09T04:30:01Z
+    Author: Saanjh Collectives
+  - [Self-Care Rituals India | Mindful Living with Candles - Saanjh](https://saanjhcollectives.in/blogs/news/self-care-rituals-mindfulness-candles-india): <p>Discover how to build sustainable self-care rituals using candles and aromatherapy. Learn morning routines, evening practices, and weekend reset rituals that support mental health, reduce burnout, and create moments of peace in busy lives.</p>
+    Updated: 2025-12-10T04:30:01Z
     Author: Saanjh Collectives
 
 ## Store Pages
