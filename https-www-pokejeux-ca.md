@@ -10,7 +10,7 @@
 - Contact Email: info@pokejeux.ca
 - Contact Phone: 14503561007
 - Address: 100-513 rue samuel de champlain
-- Updated At: 2025-12-11T00:06:32.124Z
+- Updated At: 2025-12-11T00:08:11.189Z
 
 ## Products
 
@@ -985,7 +985,7 @@
   Updated: 2025-12-10T23:50:34Z
   Total Products: 3728
 - [Best selling products](https://www.pokejeux.ca/collections/best-selling-collection)
-  Updated: 2025-12-11T00:05:09Z
+  Updated: 2025-12-11T00:08:03Z
   Total Products: 263953
 - [Banpresto](https://www.pokejeux.ca/collections/banpresto)
   Updated: 2025-09-04T11:17:12Z
@@ -1105,7 +1105,7 @@
   Updated: 2025-08-16T01:48:08Z
   Total Products: 20
 - [AVADA - Best Sellers](https://www.pokejeux.ca/collections/avada-best-sellers)
-  Updated: 2025-12-11T00:05:09Z
+  Updated: 2025-12-11T00:08:03Z
   Total Products: 263953
 - [Garbage Pail Sealed](https://www.pokejeux.ca/collections/garbage-pail)
   Updated: 2025-08-16T01:48:08Z
