@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-12T12:00:27.823Z
+- Updated At: 2025-12-12T16:00:27.567Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -2808,7 +2808,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallGreenPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630060
   Price: $5.95 USD
 - [Personalized Pink Soccer Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-pink-soccer-ball-bookmarks-printable): Personalized pink soccer bookmarks for kids and teams. Add names in the PDF, print on card stock, and create fun reading rewards for classrooms and teams.
-  Updated: 2025-12-11T19:09:47Z
+  Updated: 2025-12-12T12:37:21Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
