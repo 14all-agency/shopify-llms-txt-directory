@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-12-10T00:00:47.006Z
+- Updated At: 2025-12-12T00:00:47.677Z
 
 ## Products
 
@@ -8271,11 +8271,20 @@
     Availability: Available
     Price: $136.99 USD
 - [Gate Brocade Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-22T03:13:10Z
+  Updated: 2025-12-10T20:44:03Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/GATE-BLACK.jpg?v=1742574738
+  - [70 x 132](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978500833)
+    Availability: Available
+    Price: $102.99 USD
+  - [66 Round](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978926817)
+    Availability: Available
+    Price: $69.99 USD
+  - [70 Square](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978992353)
+    Availability: Available
+    Price: $74.99 USD
   - [Fabric Sample](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978336993)
     Availability: Available
     Price: $1.00 USD
@@ -8289,9 +8298,6 @@
     Availability: Available
     Price: $91.99 USD
   - [70 x 120](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978468065)
-    Availability: Available
-    Price: $102.99 USD
-  - [70 x 132](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978500833)
     Availability: Available
     Price: $102.99 USD
   - [70 x 140](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978533601)
@@ -8330,15 +8336,9 @@
   - [60 Round](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978894049)
     Availability: Available
     Price: $69.99 USD
-  - [66 Round](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978926817)
-    Availability: Available
-    Price: $69.99 USD
   - [132 Round](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978959585)
     Availability: Available
     Price: $193.99 USD
-  - [70 Square](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46842978992353)
-    Availability: Available
-    Price: $74.99 USD
 - [Gate Brocade Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
   Updated: 2025-11-22T06:24:48Z
   Vendor: The Tablecloth Store
@@ -9930,11 +9930,14 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-22T03:13:34Z
+  Updated: 2025-12-11T12:34:55Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/RIVERDALE-WHITE-1_9db0fc83-b28f-4cc8-b137-30b156badad2.jpg?v=1747596679
+  - [70 x 140](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store?variant=46822845612257)
+    Availability: Available
+    Price: $132.99 USD
   - [Fabric Sample](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store?variant=46822845317345)
     Availability: Available
     Price: $1.00 USD
@@ -9962,9 +9965,6 @@
   - [70 x 132](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store?variant=46822845579489)
     Availability: Available
     Price: $120.99 USD
-  - [70 x 140](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store?variant=46822845612257)
-    Availability: Available
-    Price: $132.99 USD
   - [70 x 160](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store?variant=46822845645025)
     Availability: Available
     Price: $149.99 USD
@@ -33544,7 +33544,7 @@
   Updated: 2025-11-20T23:15:00Z
   Total Products: 9
 - [Gate - The Tablecloth Store](https://thetableclothstore.com/collections/gate): - The Tablecloth Store
-  Updated: 2025-11-20T23:12:56Z
+  Updated: 2025-12-11T12:25:44Z
   Total Products: 8
 - [Vails - The Tablecloth Store](https://thetableclothstore.com/collections/vails): - The Tablecloth Store
   Updated: 2025-11-28T12:24:29Z
@@ -33682,10 +33682,10 @@
   Updated: 2025-11-20T23:15:24Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-12-09T12:25:51Z
+  Updated: 2025-12-11T12:25:44Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-12-09T12:25:51Z
+  Updated: 2025-12-11T12:25:44Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
   Updated: 2025-11-20T23:15:27Z
@@ -33694,7 +33694,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-12-09T12:25:51Z
+  Updated: 2025-12-11T12:25:44Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
@@ -33703,7 +33703,7 @@
   Updated: 2025-12-09T12:25:51Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-12-09T12:25:51Z
+  Updated: 2025-12-11T12:25:44Z
   Total Products: 613
 
 ## Blogs
@@ -33828,6 +33828,9 @@
     Author: User
   - [EDITORIAL: Redefining Dining Spaces with Tablecloths](https://thetableclothstore.com/blogs/news/editorial-redefining-dining-spaces-with-tablecloths): EDITORIAL: Redefining Dining Spaces with Tablecloths
     Updated: 2025-12-09T02:06:08Z
+    Author: User
+  - [How to Perfectly Match Tablecloths with Home Decor](https://thetableclothstore.com/blogs/news/how-to-perfectly-match-tablecloths-with-home-decor): How to Perfectly Match Tablecloths with Home Decor
+    Updated: 2025-12-11T01:34:27Z
     Author: User
 
 ## Store Pages
