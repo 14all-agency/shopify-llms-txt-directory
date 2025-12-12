@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-11T00:00:19.306Z
+- Updated At: 2025-12-12T00:00:20.088Z
 
 ## Products
 
@@ -287,7 +287,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/HarperLipPencilNew.jpg?v=1711636574
   Price: $19.00 AUD
 - [Gel Lip Pencil - Jade](https://mellowcosmetics.com.au/products/gel-lip-pencil-jade): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-12-10T12:58:26Z
+  Updated: 2025-12-11T00:58:33Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
@@ -399,7 +399,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/1_a6b773e9-e963-4cae-bd8d-c7a3aa9c84c0.png?v=1613532446
   Price: $25.00 AUD
 - [Liquid Lip Paint - Mykonos](https://mellowcosmetics.com.au/products/liquid-lip-paint-mykonos): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Mykonos - a sexy, vibrant red matte liquid lip paint Our exciting collaboration with mega babe and influencer Pia Muehlenbeck is inspired by some of the world's most famous sunsets. This is the shade Mykonos from the 3 shades we launched in collaboration with Pia. Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-02T09:04:21Z
+  Updated: 2025-12-11T13:15:17Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -511,7 +511,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/TAHITIedit.jpg?v=1596168754
   Price: $24.00 AUD
 - [Glamorous makeup bundle > Mellow Muse Bundle](https://mellowcosmetics.com.au/products/mellow-muse-bundle): Glamorous makeup bundle. Includes: makeup essentials: Glitter Eyeshadow, Liquid Lip Paint, Lip Pencil, Pink Blush, Eyeshadow Quad. This makeup bundle is the perfect gift for any makeup lover!
-  Updated: 2025-12-08T17:47:55Z
+  Updated: 2025-12-11T21:55:23Z
   Vendor: Mellow Cosmetics
   Product Type: makeup
   Availability: Available
