@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-12-11T20:42:01.830Z
+- Updated At: 2025-12-12T00:00:42.065Z
 
 ## Products
 
@@ -54,7 +54,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-schwein-mit-inlett-handgemacht-fuer-babys-pat-und-patty_1765223462.webp?v=1765224233
     Price: 68,90 € EUR
 - [Bio Kuschelkissen Eisbär – Spelzfüllung, superweich & Faire](https://patundpatty.de/products/bio-kuschelkissen-eisbaer): Bio Kuschelkissen Eisbär naturweiß aus weichem Bio-Plüsch mit natürlicher Spelzfüllung – superweich, nachhaltig, kuschelig & perfekt für Kinder jetzt bestellen!
-  Updated: 2025-12-09T12:20:18Z
+  Updated: 2025-12-11T21:48:45Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -198,7 +198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/bio-kuschelkissen-ziege-handgemacht-fuer-kinder-pat-und-patty_1765223957.webp?v=1765224428
     Price: 69,95 € EUR
 - [Bio Kuschelkissen Hund Naturweiß und Hellbraun handgemacht](https://patundpatty.de/products/bio-kuschelkissen-hund): Bio Kuschelkissen Hund in Naturweiß & Hellbraun – handgemacht, mit Hirsespelz gefüllt, weich und schadstofffrei. Für Babys & Kinder. Jetzt online entdecken!
-  Updated: 2025-12-09T12:09:08Z
+  Updated: 2025-12-11T21:47:17Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -500,7 +500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Abraxas_-_PAT_PATTY-4832764_1765262640.webp?v=1765285205
     Price: 116,00 € EUR
 - [Bio Steckenpferd Flicka – Plüsch, handgemacht und fair](https://patundpatty.de/products/bio-steckenpferd-flicka): Bio Steckenpferd „Flicka“ aus weichem Plüsch, handgemacht, fair & nachhaltig – ideal für fantasievolles Spielen kleiner Reiter:innen. Jetzt PAT&PATTY bestellen!
-  Updated: 2025-12-11T20:26:41Z
+  Updated: 2025-12-11T21:46:56Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1843,7 +1843,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Rassel_Schwein_-_PAT_PATTY-4831514_1765265356.webp?v=1765269092
     Price: 26,50 € EUR
 - [Bio Rassel Wildschwein – weich, nachhaltig & fair gefertigt](https://patundpatty.de/products/bio-rassel-wildschwein): Bio Rassel Wildschwein von PAT & PATTY: handgemacht, weich, schadstofffrei, nachhaltig & fair gefertigt perfekt zum Greifen, Spielen, Kuscheln & Freude schenken.
-  Updated: 2025-12-09T20:31:55Z
+  Updated: 2025-12-11T21:50:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2257,7 +2257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Alpaka-Kinder-PAT-UND-PATTY_1765266079.webp?v=1765286002
     Price: 19,95 € EUR
 - [Bio Kuscheltier Kuschelkissen Pferdekopf handgemacht nachhaltig](https://patundpatty.de/products/bio-kuscheltier-kuschelkissen-pferdekopf): Bio Kuschelkissen Pferdekopf aus Bio-Baumwollplüsch – weich, handgemacht und waschbar. Perfekt zum Kuscheln, Spielen & Träumen. Jetzt bei Pat & Patty entdecken.
-  Updated: 2025-12-09T20:41:17Z
+  Updated: 2025-12-11T22:13:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2485,7 +2485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/bio-hobby-horse-marshmallow-in-winterlandschaft_1765266595.webp?v=1765269966
   Price: 89,00 € EUR
 - [Bio Steckenpferd/Hobby Horse Coppa aus 100 % Baumwollsamt](https://patundpatty.de/products/bio-hobby-horse-coppa-aus-baumwollsamt-mit-einem-gebiss): Handgefertigtes Bio Steckenpferd aus Baumwollsamt mit dunkel Mähne. 100% Bio-Baumwolle, Schurwolle-Füllung. Nachhaltig & schadstofffrei für Kinder ab 3 Jahren.
-  Updated: 2025-12-11T09:53:49Z
+  Updated: 2025-12-11T21:40:26Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
