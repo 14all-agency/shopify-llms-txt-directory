@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-04T00:00:40.254Z
+- Updated At: 2025-12-12T00:00:41.092Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -266,7 +266,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4ce9f993-dad2-4f31-a9fb-966b1c9dfc77.jpg?v=1744908518
   Price: 1.099,00 € EUR
 - [Meridian G01 Control Unit gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/meridian-g01-control-unit-gebraucht-kaufen): Meridian G01 Control Unit gebraucht kaufen ✅ Geprüfte Vorstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:27Z
+  Updated: 2025-12-04T08:43:51Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -412,13 +412,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b2f1e981-8fa9-4a54-bdbe-98bef83e0a14.jpg?v=1745852908
   Price: 1.095,00 € EUR
-- [Neumann V442 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/neumann-v442-gebraucht-kaufen-1): Neumann V442 gebraucht kaufen ✅ Geprüfter Mikrofon-Isolationsverstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:30Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7dc60b44-b133-4184-bda2-f177f219e19c.jpg?v=1745852900
-  Price: 1.195,00 € EUR
 - [Neumann V442 Microphone Isolation Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/neumann-v442-mikrofon-isolationsverstaerker-gebraucht-kaufen-1): Neumann V442 Microphone Isolation Amplifier gebraucht kaufen ✅ Geprüfter Mikrofon-Isolationsverstärker gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:30Z
   Vendor: WorldWideHifi
@@ -546,7 +539,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_d0de2100-f69d-4eda-a74e-9bedcc9715e7.jpg?v=1745858183
   Price: 299,00 € EUR
 - [SONY Metal Master 90 Kassette gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sony-metal-master-90-gebraucht-kaufen): SONY Metal Master 90 Kassette gebraucht kaufen ✅ Geprüfte Metal Kassette mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:40Z
+  Updated: 2025-12-05T11:56:00Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -756,7 +749,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_d368bb80-3d2e-46cd-9f2e-570f053c2e70.jpg?v=1754991704
   Price: 14.420,00 € EUR
 - [Best Wire THE MAINS - 1x 150cm Power Cable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/best-wire-the-mains-1x-150cm-power-cable-gold-kontakte-gebraucht-kaufen): Best Wire THE MAINS - 1x 150cm Power Cable gebraucht kaufen ✅ Hochwertiges Stromkabel mit Goldkontakten kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:08Z
+  Updated: 2025-12-08T01:13:16Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -840,7 +833,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_105fea07-9063-40a4-b4f4-7edf2d8aca61.jpg?v=1748017281
   Price: 190,00 € EUR
 - [Kimber Kable 8TC Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kimber-kable-8tc-lautsprecherkabel-gebraucht-kaufen-1): Kimber Kable 8TC Lautsprecherkabel gebraucht kaufen ✅ Hochwertiges Lautsprecherkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:21Z
+  Updated: 2025-12-07T11:22:44Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -895,13 +888,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8f27a70d-aabe-42ad-b582-baa4d7c0d2a6.jpg?v=1748017231
   Price: 620,00 € EUR
-- [Transparent Cable MusicLink Ultra 2x 140cm XLR Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/transparent-audio-musiclink-ultra-2x-140cm-xlr-kabel-gebraucht-kaufen): Transparent Cable MusicLink Ultra 2x 140cm XLR Kabel gebraucht kaufen ✅ Hochwertige Verbindung mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:50Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_db79909d-66f3-4945-961d-456dd95da215.jpg?v=1748019086
-  Price: 890,00 € EUR
 - [Siltech SQ 88 Classic MK2 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/siltech-sq-88-classic-mk2-2x-60cm-cinch-auf-xlr-kabel-gebraucht-kaufen): Siltech SQ 88 Classic MK2 gebraucht kaufen ✅ Geprüftes Cinch auf XLR Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:39Z
   Vendor: WorldWideHifi
@@ -1176,13 +1162,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f3053e6d-163c-4a91-a826-a1d63dcd5225.jpg?v=1748016942
   Price: 399,00 € EUR
-- [T+A Quad XLR Kabel 2x 150cm gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/t-a-quad-xlr-kabel-2x-150cm-gebraucht-kaufen): T+A Quad XLR Kabel 2x 150cm gebraucht kaufen ✅ Hochwertiges XLR-Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:45Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_242ec421-1ffb-4309-8260-f4bb1f0702a0.jpg?v=1748018884
-  Price: 199,00 € EUR
 - [Audioquest Volcano 3 Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioquest-volcano-3-lautsprecherkabel-gebraucht-kaufen): Audioquest Volcano 3 Lautsprecherkabel gebraucht kaufen ✅ Geprüftes Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-16T04:32:30Z
   Vendor: WorldWideHifi
@@ -1533,13 +1512,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9d017989-909a-4937-a84c-08e147bd7c04.jpg?v=1751453998
   Price: 69,00 € EUR
-- [The Chord Company Cadenza Cinch Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/the-chord-company-cadenza-cinch-kabel-interconnect-rca-kabel-nf-2x-100cm-gebraucht-kaufen): The Chord Company Cadenza Cinch Kabel gebraucht kaufen ✅ Hochwertige RCA Kabel gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:47Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_e5058cbc-74f4-444b-8aa0-8f5e55433952.jpg?v=1751454558
-  Price: 150,00 € EUR
 - [T+A Digital Triax Cinch Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/t-a-digital-triax-cinch-kabel-gebraucht-kaufen): T+A Digital Triax Cinch Kabel gebraucht kaufen ✅ Hochwertiges Audiokabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:43Z
   Vendor: WorldWideHifi
@@ -1652,13 +1624,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3165eeab-5f36-4b4a-abb1-b7df3d95030a.png?v=1754667522
   Price: 180,00 € EUR
-- [2x Kimber Select 1121 XLR Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kimber-select-1121-xlr-kabel-gebraucht-kaufen-1): 2x Kimber Select 1121 XLR Kabel gebraucht kaufen ✅ Hochwertige Kabel für professionelle Anwendungen kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:26:58Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5b8563f9-b7e3-41e6-b4e7-6b1c17fbabb4.png?v=1754667616
-  Price: 980,00 € EUR
 - [Kimber Select 1121 XLR Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kimber-select-1121-xlr-kabel-gebraucht-kaufen): Kimber Select 1121 XLR Kabel gebraucht kaufen ✅ Hochwertige Audiokabel für HiFi und Studioanwendungen kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:26:58Z
   Vendor: WorldWideHifi
@@ -1834,13 +1799,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f3cff3af-5d40-4f3f-9ee1-27f409398f2b.jpg?v=1756382377
   Price: 2.930,00 € EUR
-- [Q-Acoustics Concept 500 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/q-acoustics-concept-500-gebraucht-kaufen): Q-Acoustics Concept 500 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-05T15:05:03Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1c83782a-5a92-4d32-b007-6cef7a0fbc04.png?v=1756382464
-  Price: 2.620,00 € EUR
 - [AVM MA 30.3 MK2 Mono Endstufen gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/avm-ma-30-3-mk2-gebraucht-kaufen): AVM MA 30.3 MK2 Mono Endstufen gebraucht kaufen ✅ Geprüfte Power Amplifiers mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:06Z
   Vendor: WorldWideHiFi
@@ -2009,13 +1967,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_af3a02b2-1a8d-4588-bf62-ef643f9233b4.jpg?v=1759771466
   Price: 1.380,00 € EUR
-- [AVM Competition Mono Endstufen gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/avm-competition-mono-endstufen-gebraucht-kaufen): AVM Competition Mono Endstufen gebraucht kaufen ✅ Geprüfte Power Amplifier mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-07T05:24:37Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_09997aaa-96e8-4a4b-9bad-adce121fb386.jpg?v=1759771472
-  Price: 695,00 € EUR
 - [BURMESTER Power Cord Gold-Plated Plugs gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-power-cord-gold-plated-plugs-gebraucht-kaufen): BURMESTER Power Cord Gold-Plated Plugs gebraucht kaufen ✅ Hochwertiges Netzkabel geprüft mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-17T04:16:56Z
   Vendor: WorldWideHiFi
@@ -2079,12 +2030,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5ee60d31-cc1f-4b70-b4dc-79c65b34df6d.png?v=1762788533
   Price: 499,00 € EUR
-- [Mission DAC 5 Full Differential Bitsream Converter D/A Wandler gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mission-dac-5-full-differential-bitsream-converter-gebraucht-kaufen): Mission DAC 5 Full Differential Bitsream Converter D/A Wandler gebraucht kaufen ✅ Hochwertiger D/A Wandler gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-19T04:16:33Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 189,00 € EUR
 - [Restek MCAB Highend Radio Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/restek-mcab-highend-radio-tuner-gebraucht-kaufen): Restek MCAB Highend Radio Tuner gebraucht kaufen ✅ Hochwertiger Tuner in nahezu neuwertigem Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-17T00:18:37Z
   Vendor: WorldWideHiFi
@@ -2126,12 +2071,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Product Type: 
   Availability: Available
   Price: 4.400,00 € EUR
-- [Einstein The Absolute Tune gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/einstein-the-absolute-tune-gepruft-kaufen): Einstein The Absolute Tune gebraucht kaufen ✅ Geprüfter Röhren-Verstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-19T04:18:55Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 2.650,00 € EUR
 - [BAT Balanced Audio Technology VK-300x gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bat-balanced-audio-technology-vk-300x-gebraucht-kaufen): BAT Balanced Audio Technology VK-300x gebraucht kaufen ✅ Integrierter Verstärker in OVP kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-19T04:13:53Z
   Vendor: WorldWideHiFi
@@ -2285,12 +2224,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Product Type: 
   Availability: Available
   Price: 640,00 € EUR
-- [Rotel RMB-1555 5-Kanal Verstärker kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/rotel-rmb-1555-5-kanal-verstaerker-kaufen): Rotel RMB-1555 5-Kanal Verstärker kaufen ✅ Neugerät in OVP kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-21T10:56:39Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 1.580,00 € EUR
 - [Bassocontinuo Accordeon XL4 Audio Research Edition gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bassocontinuo-accordeon-xl4-audio-research-edition-gebraucht-kaufen): Bassocontinuo Accordeon XL4 Audio Research Edition gebraucht kaufen ✅ Geprüftes HiFi Rack mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-21T10:56:38Z
   Vendor: WorldWideHiFi
@@ -2359,13 +2292,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Product Type: 
   Availability: Available
   Price: 2.260,00 € EUR
-- [B&W Bowers & Wilkins Ständer Formation Duo gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bw-bowers-wilkins-formation-duo-lautsprecherstaender-gebraucht-kaufen): B&W Bowers & Wilkins Ständer Formation Duo gebraucht kaufen ✅ Geprüfte Speaker Stands mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-21T21:23:05Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b1c8d6dc-d519-4407-b33f-bfcbdf5a65a2.jpg?v=1763716980
-  Price: 520,00 € EUR
 - [Marantz ST-8 Quartz Stereo Radio Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/marantz-st-8-gebraucht-kaufen): Marantz ST-8 Quartz Stereo Radio Tuner gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-11-21T22:10:54Z
   Vendor: WorldWideHiFi
@@ -2480,31 +2406,31 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-12-01T12:25:27Z
+  Updated: 2025-12-09T17:48:17Z
   Total Products: 60
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-01T12:25:27Z
+  Updated: 2025-12-10T12:23:23Z
   Total Products: 112
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
-  Updated: 2025-11-21T17:01:53Z
+  Updated: 2025-12-09T17:48:11Z
   Total Products: 18
 - [Vorverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/vorverstaerker-gebraucht-kaufen): Vorverstärker gebraucht kaufen ✓ Vorverstärker / gebrauchte Vorstufen im Top-Zustand! ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-12-01T12:25:27Z
+  Updated: 2025-12-09T17:48:17Z
   Total Products: 32
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-12-01T12:25:27Z
+  Updated: 2025-12-10T12:23:23Z
   Total Products: 36
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-11-27T12:23:56Z
+  Updated: 2025-12-05T12:23:37Z
   Total Products: 6
 - [Plattenspieler Zubehör & Tonarme gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/collections/plattenspieler-zubehoer-tonarme-gebraucht): Plattenspieler Zubehör & Tonarme gebraucht kaufen ✓ Plattenspieler Zubehör & Tonarme im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-29T12:36:02Z
   Total Products: 14
 - [Gebrauchte Plattenspieler kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-plattenspieler-kaufen): Gebrauchte Plattenspieler kaufen ✓ HiFi Schallplattenspeieler & Turntables im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-12-02T12:27:05Z
+  Updated: 2025-12-09T17:48:15Z
   Total Products: 43
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-16T18:46:49Z
@@ -2513,47 +2439,47 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T12:23:24Z
   Total Products: 8
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-11-30T12:26:54Z
+  Updated: 2025-12-09T17:48:17Z
   Total Products: 41
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
-  Updated: 2025-11-16T16:16:19Z
+  Updated: 2025-12-09T17:48:13Z
   Total Products: 9
 - [HiFi Tuner gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/netzwerkplayer-gebraucht-kaufen): HiFi Tuner gebraucht kaufen ✓ Netzwerkplayer, HiFi-Tuner, HiFi-Streamer & mehr im Top-Zustand ✓ Weltweit sicherer Versand ✓ Preiswertes High-End HiFi bestellen
   Updated: 2025-11-29T12:36:02Z
   Total Products: 17
 - [HiFi Möbel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-moebel-gebraucht-kaufen): HiFi Möbel gebraucht kaufen ✓ Gebrauchte HiFi Möbel & HiFi Racks im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-11-21T10:50:57Z
+  Updated: 2025-12-10T12:23:23Z
   Total Products: 7
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-03T12:22:09Z
+  Updated: 2025-12-11T12:23:31Z
   Total Products: 169
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-11-22T12:23:24Z
+  Updated: 2025-12-09T17:48:15Z
   Total Products: 39
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-12-01T12:25:27Z
+  Updated: 2025-12-09T17:48:15Z
   Total Products: 52
 - [HiFi-Netzleisten gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-netzleisten-gebraucht-kaufen): HiFi-Netzleisten gebraucht kaufen ✓ Gebrauchte Netzleisten für HiFi-Geräte im Top-Zustand! ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
-  Updated: 2025-10-28T11:25:41Z
+  Updated: 2025-12-09T17:48:16Z
   Total Products: 7
 - [Leermedien online bestellen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/leermedien-online-bestellen): Leermedien online bestellen ✓ Schallplatten, Audiokassetten, Tonbänder & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
-  Updated: 2025-09-02T11:20:04Z
+  Updated: 2025-12-06T12:23:22Z
   Total Products: 2
 - [Gebrauchtes HiFi Zubehör & HiFi Komponenten kaufen - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchtes-hifi-zubehoer-kaufen): Gebrauchtes HiFi Zubehör ✓ HiFi Komponenten & HiFi Zubehör im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-11-21T10:50:57Z
+  Updated: 2025-12-10T12:23:23Z
   Total Products: 9
 - [Vorgestellte Produkte](https://worldwidehifi.shop/collections/featured)
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-12-03T12:22:09Z
-  Total Products: 152
+  Updated: 2025-12-11T18:51:32Z
+  Total Products: 163
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-30T16:53:47Z
   Total Products: 26
 - [Neueste Produkte](https://worldwidehifi.shop/collections/neueste-produkte)
-  Updated: 2025-11-30T19:11:27Z
-  Total Products: 150
+  Updated: 2025-12-11T15:46:27Z
+  Total Products: 146
 
 ## Store Pages
 
