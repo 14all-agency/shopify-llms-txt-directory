@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-12T16:00:32.382Z
+- Updated At: 2025-12-12T20:00:34.956Z
 
 ## Products
 
@@ -289,7 +289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_16_2025_at_10_48_23_AM.png?v=1763308599
   Price: $17.95 USD
 - [Fresh Linen Room Spray](https://affinatiliving.com/products/fresh-linen-room-spray): Fresh Linen Room & Linen Spray Brighten your space with the crisp, clean scent of our Fresh Linen Room & Linen Spray. Made with a non-toxic formula and concentrated fragrance, this 4 oz spray captures the essence of sun-dried sheets and cool breezes for an instantly refreshed feel in any room or on any fabric. Ideal for use on bedding, curtains, upholstery, or as a daily air freshener, it dries quickly and leaves a long-lasting, airy fragrance. Safe, clean, and powerfully scented—bringing the comfort of clean laundry to every spritz. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
-  Updated: 2025-12-10T19:04:59Z
+  Updated: 2025-12-12T16:57:45Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -6091,7 +6091,7 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-12-09T23:44:46Z
+  Updated: 2025-12-12T18:29:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
