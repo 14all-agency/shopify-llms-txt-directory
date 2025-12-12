@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-11T18:02:54.700Z
+- Updated At: 2025-12-12T00:03:03.354Z
 
 ## Products
 
@@ -18255,9 +18255,6 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
 - [Crown Point 7 Piece Dining Room Set In Warm Merlot 1372-78-7Set | Homelegance](https://homeeleganceusa.com/products/homelegance-crown-point-7-piece-dining-room-set-in-warm-merlot-1372-78-7set): Homelegance - Crown Point 7 Piece Dining Room Set in Warm Merlot - 1372-78-7SETAdorn your dining area with Crown Point Collection. This grand scale casual
   Updated: 2025-12-11T02:53:52Z
   Price: $2,420.99 USD
-- [Josie 5 Piece Dining Room Set In Espresso 5718-60-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-josie-5-piece-dining-room-set-in-espresso-5718-60-5set): Homelegance - Josie 5 Piece Dining Room Set in Espresso - 5718-60-5SETThe collective enjoyment of mealtimes is amplified with the addition of the Josie
-  Updated: 2025-12-11T02:53:53Z
-  Price: $3,081.99 USD
 - [Oxton 7-Piece Counter Height Dining Set Dark Cherry – Homelegance](https://homeeleganceusa.com/products/homelegance-oxton-7-piece-counter-height-table-set-in-dark-cherry-5655-24-7set): Homelegance Oxton 7-Piece Counter Height Set includes storage table and 6 chairs with faux leather seats. Dark cherry finish and rustic charm for 6 guests.
   Updated: 2025-12-11T02:53:55Z
   Price: $1,789.00 USD
@@ -29036,25 +29033,28 @@ Weight: 216.1 pounds
 - [Four Hands Britt Counter Stool - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-britt-counter-stool): Mixed materials refresh retro styling. Brushed ebony/Light-toasted nettlewood frames a textural
   Updated: 2025-12-11T03:57:40Z
   Price: $785.99 USD
-[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTcwNTkwMjg3LCJsYXN0X3ZhbHVlIjoiNjk4ODk3MDU5MDI4NyJ9)
+- [Four Hands Bloor 3 PC Sectional with Ottoman - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-bloor-3-pc-sectional-with-ottoman): Deep, low seating says relax. An inviting sofa and ottoman are covered in an a soft, durable light
+  Updated: 2025-12-11T03:57:40Z
+  Price: $5,192.99 USD
+[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTcwNjU1ODIzLCJsYXN0X3ZhbHVlIjoiNjk4ODk3MDY1NTgyMyJ9)
 
 ## Collections
 
 - [Bedroom Furniture – Beds, Dressers & Nightstands | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture): Discover stylish, affordable, modern, luxury, and rustic bedroom furniture sets at Home Elegance USA. Shop beds, dressers, nightstands & more.
-  Updated: 2025-12-11T14:39:24Z
-  Total Products: 9416
+  Updated: 2025-12-11T23:45:41Z
+  Total Products: 9384
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
   Updated: 2025-12-11T09:05:51Z
   Total Products: 12859
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-12-11T09:06:11Z
-  Total Products: 6864
+  Updated: 2025-12-11T23:38:13Z
+  Total Products: 6822
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
-  Updated: 2025-12-08T18:04:00Z
-  Total Products: 633
+  Updated: 2025-12-11T23:45:41Z
+  Total Products: 604
 - [Kids Furniture – Beds, Dressers, Desks & Bunk Beds | Home Elegance USA](https://homeeleganceusa.com/collections/kids): Shop kids furniture for bedrooms and playrooms. Beds, bunk beds, dressers, and desks built for safety, storage, and fun. Fast shipping at Home Elegance USA.
-  Updated: 2025-12-08T18:18:49Z
-  Total Products: 358
+  Updated: 2025-12-11T23:16:55Z
+  Total Products: 355
 - [Shop Sofas Online – Leather, Fabric, Sectionals & Recliners](https://homeeleganceusa.com/collections/sofas): Discover premium sofas at Home Elegance USA. Curated leather, fabric, and sectional sofas designed for comfort, style, and lasting quality in your living space.
   Updated: 2025-12-11T09:05:32Z
   Total Products: 4488
@@ -29104,8 +29104,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T13:30:58Z
   Total Products: 7
 - [Dining Room Sets – Shop Modern, Rustic & Luxury Styles | Home Elegance USA](https://homeeleganceusa.com/collections/dining-room-sets): Shop dining room sets in wood, glass, and marble finishes. Available in 5-piece, 7-piece, and 9-piece options. Perfect for family dining, entertaining, and modern living.
-  Updated: 2025-12-11T09:06:11Z
-  Total Products: 2158
+  Updated: 2025-12-11T23:38:13Z
+  Total Products: 2116
 - [Dining Tables – Shop Modern, Rustic & Traditional | Home Elegance USA](https://homeeleganceusa.com/collections/dining-tables): Discover dining tables in wood, glass, and marble finishes. Shop round, rectangular, and extendable tables perfect for family dining, entertaining, and modern living.
   Updated: 2025-12-11T09:05:42Z
   Total Products: 1147
@@ -29134,8 +29134,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T17:50:54Z
   Total Products: 18
 - [Youth Bedroom Sets – Kids & Teen Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bunk-beds): Shop youth bedroom sets for kids and teens. Explore modern, classic, and space-saving designs with beds, dressers, and nightstands. Stylish, functional, and durable.
-  Updated: 2025-12-08T18:18:49Z
-  Total Products: 309
+  Updated: 2025-12-11T23:16:55Z
+  Total Products: 306
 - [Youth Beds for Kids & Teens – Modern & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/youth-beds): Shop youth beds for kids and teens. Explore twin, full, and storage beds in modern and classic designs. Durable, stylish, and perfect for growing bedrooms.
   Updated: 2025-12-08T18:11:30Z
   Total Products: 78
@@ -29263,8 +29263,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-10T21:39:00Z
   Total Products: 894
 - [Homelegance - Timeless Design & Craftsmanship | Home Elegance Furniture](https://homeeleganceusa.com/collections/homelegance-furniture): Explore Homelegance at Home Elegance Furniture — where timeless design meets lasting quality. Discover elegant collections for your living room, bedroom, dining area
-  Updated: 2025-12-10T22:03:34Z
-  Total Products: 2317
+  Updated: 2025-12-11T22:17:38Z
+  Total Products: 2316
 - [Artmax Furniture: Elevate Your Home with Artistic Elegance | Home Elegance USA](https://homeeleganceusa.com/collections/artmax-furniture): Express your style with Artmax Furniture. Discover captivating designs, high-quality craftsmanship, and artistic flair for a sophisticated home. | Home Elegance USA
   Updated: 2025-12-07T23:17:27Z
   Total Products: 119
@@ -29434,8 +29434,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:05:57Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2025-12-11T15:58:40Z
-  Total Products: 1450
+  Updated: 2025-12-11T23:45:41Z
+  Total Products: 1412
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
   Updated: 2025-12-08T13:39:14Z
   Total Products: 9
@@ -29518,8 +29518,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-10T21:10:27Z
   Total Products: 39
 - [Home Saunas – Traditional & Infrared for Ultimate Wellness](https://homeeleganceusa.com/collections/infrared-saunas): Relax and rejuvenate with our home saunas. Shop traditional steam & infrared saunas designed for stress relief, detox, and muscle relaxation.
-  Updated: 2025-12-11T15:58:40Z
-  Total Products: 99
+  Updated: 2025-12-11T23:00:15Z
+  Total Products: 91
 - [Flash Deals Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/flash-deals): Limited time only! Discover amazing deals on a wide selection of home decor during our Flash Sale at Home Elegance USA. Shop now before they're gone.
   Updated: 2025-12-07T23:00:38Z
   Total Products: 16
@@ -29575,8 +29575,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-11T09:05:38Z
   Total Products: 650
 - [Casual Dining Sets – 3 to 7-Piece Tables & Chairs for Everyday Dining](https://homeeleganceusa.com/collections/casual-dining-sets): Shop Casual Dining Sets in 3 to 7-piece options. Perfect for everyday meals, apartments, and breakfast nooks. Styles include modern, rustic, and farmhouse.
-  Updated: 2025-12-11T09:05:37Z
-  Total Products: 425
+  Updated: 2025-12-11T23:17:54Z
+  Total Products: 422
 - [Standard Height Dining Chairs Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/standard-height-dining-chairs): Shop Standard Height Dining Chairs on sale at Home Elegance USA. Find comfortable and stylish standard height dining chairs for your dining room.
   Updated: 2025-12-08T15:06:02Z
   Total Products: 176
@@ -29650,11 +29650,11 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T17:55:34Z
   Total Products: 87
 - [Memory Foam Mattresses – Supportive Beds for Better Sleep | Home Elegance USA](https://homeeleganceusa.com/collections/memory-foam-mattresses): Shop memory foam mattresses with pressure relief, cooling comfort, and motion isolation. Perfect for restful nights in every bedroom.
-  Updated: 2025-12-08T17:53:03Z
-  Total Products: 134
+  Updated: 2025-12-11T23:41:32Z
+  Total Products: 122
 - [Hybrid Mattresses – Memory Foam & Innerspring Beds | Home Elegance USA](https://homeeleganceusa.com/collections/hybrid-mattresses): Shop hybrid mattresses with cooling gel memory foam and supportive innerspring coils. Perfect balance of comfort and durability for restful sleep.
-  Updated: 2025-12-07T23:06:11Z
-  Total Products: 246
+  Updated: 2025-12-11T23:43:39Z
+  Total Products: 240
 - [Power Lift Recliners – Comfortable & Accessible Chairs | Home Elegance](https://homeeleganceusa.com/collections/power-lift-recliners): Shop power lift recliners with motorized lift and recline functions at Home Elegance USA. Comfortable and supportive chairs designed for living rooms, bedrooms, and mobility-friendly spaces.
   Updated: 2025-12-08T18:20:09Z
   Total Products: 34
@@ -29773,8 +29773,8 @@ Weight: 216.1 pounds
   Updated: 2025-07-04T09:02:25Z
   Total Products: 1
 - [Pool & Spa – Relaxing Home Spa & Pool Essentials](https://homeeleganceusa.com/collections/pool-spa): Upgrade your pool & spa experience with premium essentials. From luxury hot tubs to saunas, create a relaxing retreat at home. Shop now!
-  Updated: 2025-12-11T15:58:40Z
-  Total Products: 99
+  Updated: 2025-12-11T23:00:15Z
+  Total Products: 91
 - [Air Quality & Comfort Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/air-quality-comfort): Shop Air Quality & Comfort on sale now at Home Elegance USA. Create a healthier and more comfortable home at discounted prices.
   Updated: 2025-07-26T17:24:48Z
   Total Products: 375
