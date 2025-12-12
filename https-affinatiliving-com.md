@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-12T00:00:48.144Z
+- Updated At: 2025-12-12T04:00:34.959Z
 
 ## Products
 
@@ -7713,7 +7713,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pina Colada Signature Candle](https://affinatiliving.com/products/pina-colada-signature-candle): Experience tropical bliss with our Pina Colada Signature Candle. Creamy coconut, fresh pineapple, vanilla, and rum warmth create a bright, beachy aroma perfect for any space. Long-lasting, luxurious, and summer-ready.
-  Updated: 2025-12-11T15:30:03Z
+  Updated: 2025-12-12T03:02:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7728,7 +7728,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pina Colada Original Candle](https://affinatiliving.com/products/pina-colada-original-candle): Discover the tropical escape of our Pina Colada Candle. Juicy pineapple, creamy coconut milk, vanilla, and a hint of rum create a bright, beachy aroma that fills any room with refreshing summer warmth.
-  Updated: 2025-12-11T15:34:07Z
+  Updated: 2025-12-12T02:54:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
