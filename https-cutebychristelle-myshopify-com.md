@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-09-20T15:24:01Z
-- Updated At: 2025-12-10T00:00:29.683Z
+- Updated At: 2025-12-12T00:00:31.936Z
 
 ## Products
 
@@ -378,7 +378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/B025DF380D621FD11B0EF80DB8D2283F.jpg?v=1762534412
     Price: $32.46 USD
 - [Multicolour Jogging Sneakers - Stylish Comfort for All](https://cutebychristelle.myshopify.com/products/multicolour-jogging-sneakers-shoe): Shop Hot Sale Multicolour Jogging Sneakers Flat Shoes Women Casual Lace Up Plus Size Sport Shoes Man Luxury Trainers Run Shoes Unisex!
-  Updated: 2025-11-14T02:46:12Z
+  Updated: 2025-12-11T22:46:32Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
