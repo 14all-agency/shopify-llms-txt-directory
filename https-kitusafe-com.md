@@ -10,12 +10,12 @@
 - Contact Email: allamazon04@gmail.com
 - Contact Phone: +13017542500
 - Address: 11910 Parklawn Drive; Suite U Rockville, MD  20852
-- Updated At: 2025-12-10T00:00:23.815Z
+- Updated At: 2025-12-12T00:00:26.631Z
 
 ## Products
 
-- [Mini First Aid Kit – Multi-Color, Compact Emergency Kit | Kit U Safe](https://kitusafe.com/products/multi-color-mini-first-aid-kit): Be ready anywhere with our Multi-Color Mini First Aid Kit. Compact, colorful, and portable, it includes bandages, wipes, and essentials for travel or everyday emergencies.
-  Updated: 2025-11-19T20:52:51Z
+- [Multi-Color Mini First Aid Kit – Compact & Stylish Travel Essentials](https://kitusafe.com/products/multi-color-mini-first-aid-kit): Be ready anywhere with our Multi-Color Mini First Aid Kit. Compact, colorful, and portable, it includes bandages, wipes, and essentials for travel or everyday emergencies.
+  Updated: 2025-12-11T03:40:38Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1004,7 +1004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Abstract_60_Case_Pack.jpg?v=1761249096
     Price: $289.99 USD
 - [Space Mini First Aid Kit – Essential Safety for Travel and Home](https://kitusafe.com/products/space-mini-first-aid-kit): Be ready anywhere with the Space Mini First Aid Kit. Compact, travel-friendly, and packed with essentials for cuts, scrapes, and burns—perfect for home, school, or adventures.
-  Updated: 2025-11-19T20:52:55Z
+  Updated: 2025-12-11T12:45:53Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1034,7 +1034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/80_Pack_Space_First_Aid_Case_Pack.jpg?v=1761249108
     Price: $289.99 USD
 - [Red Mini First Aid Kit – Compact Emergency Essentials | Kit U Safe](https://kitusafe.com/products/red-mini-first-aid-kit): Be prepared anywhere with the Red Mini First Aid Kit. Compact, travel-friendly, and stocked with essentials for treating minor cuts, scrapes, and burns.
-  Updated: 2025-11-19T20:52:56Z
+  Updated: 2025-12-11T03:43:45Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1064,7 +1064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Gemini_Generated_Image_pujizwpujizwpuji.png?v=1761249127
     Price: $289.99 USD
 - [Orange Mini First Aid Kit – Compact Travel & Emergency Care](https://kitusafe.com/products/orange-mini-first-aid-kit): Stay ready with the Orange Mini First Aid Kit. Compact, travel-friendly, and stocked with essentials for quick care of minor cuts, scrapes, and burns anywhere you go.
-  Updated: 2025-11-19T20:52:56Z
+  Updated: 2025-12-11T03:42:20Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1094,7 +1094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Orange_First_Aid_Case_Pack.jpg?v=1761249147
     Price: $289.99 USD
 - [Green Mini First Aid Kit – Portable First Aid for Work & Travel](https://kitusafe.com/products/green-mini-first-aid-kit): Be ready for anything with the Green Mini First Aid Kit. Compact, portable, and stocked with essentials for cuts, scrapes, and burns—perfect for work, travel, or outdoor adventures.
-  Updated: 2025-11-19T20:52:56Z
+  Updated: 2025-12-11T03:41:23Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1124,7 +1124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Green_60_Case_Pack.jpg?v=1761249163
     Price: $289.99 USD
 - [Sea Life Mini First Aid Kit – Compact Travel & Everyday Essentials](https://kitusafe.com/products/sea-life-mini-first-aid-kit): Be ready for life’s small mishaps with the Sea Life Mini First Aid Kit. Compact, ocean-themed, and travel-ready for quick care anywhere you go.
-  Updated: 2025-11-19T20:52:56Z
+  Updated: 2025-12-11T03:44:39Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1154,7 +1154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/sea-life-mini-first-aid-kit-first-aid-kit-sea-life-first-aid-kit-50-pack-4677940.png?v=1761249190
     Price: $289.99 USD
 - [Unicorns Mini First Aid Kit – Compact Travel Safety Kit](https://kitusafe.com/products/unicorns-mini-first-aid-kit): Bring fun and safety together with the Unicorns Mini First Aid Kit. Compact, travel-ready, and filled with essentials for quick care anywhere you go.
-  Updated: 2025-11-19T20:52:56Z
+  Updated: 2025-12-11T03:46:45Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
@@ -1184,7 +1184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/unicorns-mini-first-aid-kit-first-aid-kit-unicorns-first-aid-kit-50-pack-2113648.png?v=1761249209
     Price: $289.99 USD
 - [Dinosaur Mini First Aid Kit – Compact Travel Safety Essentials](https://kitusafe.com/products/dinosaur-mini-first-aid-kit): Stay ready with the Dinosaur Mini First Aid Kit. Compact, kid-friendly, and travel-ready—perfect for quick care of cuts, scrapes, and burns anywhere.
-  Updated: 2025-11-19T20:52:56Z
+  Updated: 2025-12-11T03:40:36Z
   Vendor: Kit U Safe
   Product Type: First Aid Kit
   Availability: Available
