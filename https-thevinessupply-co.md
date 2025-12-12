@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-11T20:00:37.851Z
+- Updated At: 2025-12-12T00:00:52.295Z
 
 ## Products
 
@@ -1965,7 +1965,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-pin-badge-magenta-enamel-pin-badge-burnt-orange-1183717810.png?v=1757219053
   Price: £12.95 GBP
 - [Magenta Skateboard OG Denim Jeans | Washed Denim](https://thevinessupply.co/products/magenta-skateboard-og-denim-jeans-washed-denim): Buy the Magenta Skateboard OG Denim Jeans in Washed Denim at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-11T11:50:18Z
+  Updated: 2025-12-11T23:49:21Z
   Vendor: Magenta
   Product Type: Jeans
   Availability: Available
@@ -6991,7 +6991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/wknd-skateboards-decks-8-25-wknd-wendy-babe-series-skateboard-deck-8-25-mc-1210668484.png?v=1765338364
   Price: £79.95 GBP
 - [WKND 'SD2' Filip Almqvist Grey Skateboard Deck | 8.375" (WB)](https://thevinessupply.co/products/wknd-sd2-filip-almqvist-grey-skateboard-deck-8-375-wb): Buy the WKND 'SD2' Filip Almqvist Grey Skateboard Deck in 8.375" (WB) at The Vines, with free griptape & fast, premium delivery.
-  Updated: 2025-12-11T13:44:08Z
+  Updated: 2025-12-11T23:32:27Z
   Vendor: WKND Skateboards
   Product Type: Decks
   Availability: Available
