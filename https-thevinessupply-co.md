@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-12T16:00:37.377Z
+- Updated At: 2025-12-12T20:00:37.874Z
 
 ## Products
 
@@ -91,7 +91,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/bronson-bearings-bronson-speed-co-skateboard-bearings-g2-1183717451.jpg?v=1757216052
   Price: £19.95 GBP
 - [Bronze 56K Allen Key Skateboard Bolts](https://thevinessupply.co/products/bronze-56k-allen-key-skateboard-bolts): Buy Bronze 1 Inch Allen Key Bolts from The Vines. The worlds best skate brands from a skater owned store, with free delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-10-16T12:11:01Z
+  Updated: 2025-12-12T18:34:21Z
   Vendor: Bronze 56K
   Product Type: Nuts & Bolts
   Availability: Available
@@ -1075,7 +1075,7 @@
     Availability: Available
     Price: £67.95 GBP
 - [Butter Goods Wharfie Beanie | Brown](https://thevinessupply.co/products/butter-goods-wharfie-beanie-brown): Buy the Butter Goods Wharfie Beanie Hat in Brown at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-10T01:46:04Z
+  Updated: 2025-12-12T19:10:45Z
   Vendor: Butter Goods
   Product Type: Beanies
   Availability: Available
@@ -1423,7 +1423,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/shake-junt-grip-tape-black-shake-junt-stripes-grip-tape-single-sheet-black-1183718759.png?v=1757236578
   Price: £15.95 GBP
 - [Vans Slipped Trifold Wallet | Black & White Checked](https://thevinessupply.co/products/vans-slipped-trifold-wallet-black-white-checked): Buy the Vans Slipped Tri-fold Wallet in Black at The Vines. Get best prices on Vans Skate wallets and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-12T13:05:40Z
+  Updated: 2025-12-12T16:01:27Z
   Vendor: Vans
   Product Type: Wallets
   Availability: Available
@@ -2368,21 +2368,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/the-vines-supply-co-air-fresheners-the-vines-air-freshener-car-air-freshener-the-vines-supply-co-1183716061.png?v=1757189416
   Price: £11.95 GBP
-- [Dime MTL Stretch Crewneck | Grey Mist](https://thevinessupply.co/products/dime-mtl-stretch-crewneck-grey-mist): Buy the Dime MTL Stretch Crewneck in grey mist at The Vines, with fast, premium delivery and easy returns.
-  Updated: 2025-09-22T19:34:41Z
-  Vendor: Dime MTL
-  Product Type: Crews
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-crews-dime-mtl-stretch-crewneck-grey-mist-1183716057.png?v=1757189403
-  - [Medium](https://thevinessupply.co/products/dime-mtl-stretch-crewneck-grey-mist?variant=54506628841807)
-    Availability: Available
-    Price: £39.95 GBP
-  - [Large](https://thevinessupply.co/products/dime-mtl-stretch-crewneck-grey-mist?variant=54506628874575)
-    Availability: Not Available
-    Price: £39.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/dime-mtl-stretch-crewneck-grey-mist?variant=54506628907343)
-    Availability: Not Available
-    Price: £39.95 GBP
 - [Dime MTL Steampunk T-Shirt | Vintage Black](https://thevinessupply.co/products/dime-mtl-steampunk-t-shirt-vintage-black): Buy the Dime MTL Steampunk T-Shirt in Vintage Black at The Vines, with fast, premium delivery and easy returns.
   Updated: 2025-09-24T13:35:34Z
   Vendor: Dime MTL
@@ -2946,39 +2931,6 @@
   - [UK 12](https://thevinessupply.co/products/adidas-tyshawn-low-leather-skate-shoes-cloud-white-metallic?variant=55193110511951)
     Availability: Not Available
     Price: £44.95 GBP
-- [New Balance Numeric 808 Lite NM808LBB Tiago Lemos Skate Shoes | Tan & Black](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black): Buy the New Balance Numeric Tiago Lemos 808 Lite in tan and black at The Vines, With fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-10T12:21:22Z
-  Vendor: New Balance Numeric
-  Product Type: Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/new-balance-numeric-shoes-new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black-1183715021.png?v=1757168527
-  - [UK 7](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264192659791)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 7.5](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264228409679)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 8](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264192692559)
-    Availability: Available
-    Price: £59.95 GBP
-  - [UK 8.5](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264228442447)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 9](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264192725327)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 9.5](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264228475215)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 10](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264192758095)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 10.5](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264228507983)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 11](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbb-tiago-lemos-skate-shoes-tan-black?variant=55264192790863)
-    Availability: Not Available
-    Price: £59.95 GBP
 - [Bronze 56K Path T-Shirt | Sand](https://thevinessupply.co/products/bronze-56k-path-t-shirt-sand): Buy the Bronze 56K Path T-Shirt in Sand at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-12-06T11:38:31Z
   Vendor: Bronze 56K
@@ -3860,7 +3812,7 @@
     Availability: Not Available
     Price: £69.95 GBP
 - [New Balance Numeric 306 NM306TNB Jamie Foy Skate Shoes | Baked Clay & Navy](https://thevinessupply.co/products/new-balance-numeric-306-nm306tnb-jamie-foy-skate-shoes-baked-clay-navy): Buy the New Balance Numeric Jamie Foy 306 Skate Shoes in Baked Clay & Navy at The Vines. With premium, fast, delivery and easy returns.
-  Updated: 2025-12-10T15:26:14Z
+  Updated: 2025-12-12T19:43:46Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -4310,13 +4262,6 @@
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885400911)
     Availability: Available
     Price: £119.95 GBP
-- [Dime MTL Split Low Cap | Walnut & Olive](https://thevinessupply.co/products/dime-mtl-split-low-cap-walnut-olive): Buy the Dime MTL Split Low Cap in Walnut & Olive at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-27T12:47:50Z
-  Vendor: Dime MTL
-  Product Type: Caps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-caps-dime-mtl-split-low-cap-walnut-olive-1192092533.png?v=1757448373
-  Price: £34.95 GBP
 - [Yardsale Horizon Skateboard Deck Blue | 8"](https://thevinessupply.co/products/yardsale-horizon-skateboard-deck-blue-8): Buy the Yardsale Horizon Skateboard Deck Blue 8". Shop Yard Sale in our online skate store and get best price guarantee and free delivery
   Updated: 2025-09-24T22:44:46Z
   Vendor: Yardsale
@@ -4654,13 +4599,13 @@
     Availability: Available
     Price: £54.95 GBP
 - [Helas Clint Long Sleeve T-Shirt | Black](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black): Buy the Helas Clint Long Sleeve T-Shirt in Black at The Vines Skate Shop in Solihull or online at thevinessupply.co
-  Updated: 2025-11-03T21:33:08Z
+  Updated: 2025-12-12T18:00:48Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-tees-helas-clint-long-sleeve-t-shirt-black-1192684356.png?v=1757807780
   - [Medium](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931682193743)
-    Availability: Available
+    Availability: Not Available
     Price: £59.95 GBP
   - [Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931677245775)
     Availability: Available
@@ -6598,7 +6543,7 @@
     Availability: Not Available
     Price: £99.95 GBP
 - [Cash Only Business T-Shirt | White](https://thevinessupply.co/products/cash-only-business-t-shirt-white): Buy the Cash Only Business T-Shirt in White at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-04T12:35:06Z
+  Updated: 2025-12-12T18:35:01Z
   Vendor: Cash Only
   Product Type: Tees
   Availability: Available
@@ -7044,7 +6989,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/wknd-skateboards-decks-8-375-wknd-sd2-filip-almqvist-grey-skateboard-deck-8-375-wb-1210886729.jpg?v=1765460648
   Price: £79.95 GBP
 - [Loosey Stud Finder Belt | Blue Checkered](https://thevinessupply.co/products/loosey-stud-finder-belt-blue-checkered): Buy The Loosey Stud Finder Belt in Blue Checkered at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-12T01:30:48Z
+  Updated: 2025-12-12T19:47:56Z
   Vendor: Loosey Belts
   Product Type: Belts
   Availability: Available
@@ -7250,8 +7195,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-12T12:22:02Z
-  Total Products: 74
+  Updated: 2025-12-12T18:15:36Z
+  Total Products: 73
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-12T12:22:02Z
   Total Products: 386
@@ -7541,8 +7486,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-12T13:53:06Z
-  Total Products: 3245
+  Updated: 2025-12-12T18:15:36Z
+  Total Products: 3244
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-10T12:23:01Z
   Total Products: 110
@@ -7583,8 +7528,8 @@
   Updated: 2025-12-11T12:25:45Z
   Total Products: 27
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-12T15:10:02Z
-  Total Products: 25
+  Updated: 2025-12-12T18:15:36Z
+  Total Products: 24
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-11T12:25:45Z
   Total Products: 24
@@ -7625,8 +7570,8 @@
   Updated: 2025-12-12T12:22:02Z
   Total Products: 95
 - [Sale](https://thevinessupply.co/collections/sale)
-  Updated: 2025-12-12T12:22:02Z
-  Total Products: 74
+  Updated: 2025-12-12T18:15:37Z
+  Total Products: 73
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
   Updated: 2025-12-12T12:22:02Z
   Total Products: 39
