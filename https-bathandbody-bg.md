@@ -6,7 +6,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2024-05-20T16:02:27Z
 - Contact Email: bathandbodybg@gmail.com
-- Updated At: 2025-12-11T12:02:33.383Z
+- Updated At: 2025-12-12T00:00:43.267Z
 
 ## Products
 
@@ -136,12 +136,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/028005373.webp?v=1762139538
   Price: 19,90 лв. BGN
-- [ДУШ ГЕЛ ''GINGHAM GORGEOUS '' 295 Мл. - Bath&Body](https://bathandbody.bg/products/душ-гел-gingham-gorgeous-295-мл-1): Открий изключителната свежест и сладост на душ гела Gingham Gorgeous! Формулиран с хидратиращо масло от шеа, този душ гел не само почиства кожата, но я оставя нежно хидратирана и мека на допир. Леката текстура създава кремообразна пяна, която напълно обгръща кожата с комфорт и свежест. 💖 🌸 Ароматни нотки:✔️ Сочни плодове 🍓✔️ Романтични цветя 🌷✔️ Лек, сладък ванилов завършек 🍦 Този душ гел е идеален за тези, които търсят нежно, но изразително ухание, което ще те съпровожда през целия ден със свежест и женственост. 💕 - Bath&Body
-  Updated: 2025-12-04T16:59:45Z
-  Vendor: Bath&Body
-  Product Type: 
-  Availability: Available
-  Price: 32,90 лв. BGN
 - [ДУШ ГЕЛ '' BOURBON 3 IN 1 '' 295 Мл. - Bath&Body](https://bathandbody.bg/products/душ-гел-bourbon-3-in-1-295-мл): Класически и уверен — Bourbon е душ гел, създаден за мъжа с характер. Богатите нотки на гладък бърбън се преплитат с топъл дъб и капчица пикантен кехлибар. Формулата почиства в дълбочина и освежава, като оставя кожата ароматизирана с мъжествен и елегантен аромат, който подчертава твоя стил. - Bath&Body
   Updated: 2025-12-04T16:59:46Z
   Vendor: Bath&Body
@@ -279,175 +273,175 @@
   Updated: 2025-12-04T16:59:26Z
   Total Products: 17
 - [, - Bath&Body](https://bathandbody.bg/collections/алладлмсфпмеисфгс): - Bath&Body
-  Updated: 2025-12-04T16:59:27Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 124
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-1): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-2): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-3): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-4): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-5): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-6): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-7): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-8): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-9): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-10): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-11): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-12): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Кремове - Bath&Body](https://bathandbody.bg/collections/крем-за-ръце): - Bath&Body
   Updated: 2025-12-04T16:59:27Z
   Total Products: 9
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-13): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-14): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-15): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-16): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-17): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-18): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-19): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-20): - Bath&Body
-  Updated: 2025-12-11T10:53:03Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-21): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-22): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-23): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-24): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-25): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-26): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-27): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Крем за тяло - Bath&Body](https://bathandbody.bg/collections/крем-за-тяло): - Bath&Body
   Updated: 2025-12-04T16:59:27Z
   Total Products: 15
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-28): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-29): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-30): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-31): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-32): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-33): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-34): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-35): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-36): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-37): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-38): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-39): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-40): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-41): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-42): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-43): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-44): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-45): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-46): - Bath&Body
-  Updated: 2025-12-11T10:53:04Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-47): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-48): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-49): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-50): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-51): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-52): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-53): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Комплекти - Bath&Body](https://bathandbody.bg/collections/комплекти): Категория: Подаръчни комплекти Открийте нашата изискана селекция от подаръчни комплекти, създадени да впечатлят и зарадват всеки повод. Тук ще намерите перфектната комбинация от продукти за грижа за тялото, аромати и аксесоари, събрани в стилни и елегантни опаковки. Всеки комплект е внимателно подбран, за да съчетава лукс, качество и грижа. Независимо дали търсите идеалния подарък за празник, рожден ден, годишнина или просто искате да изненадате любим човек, в тази категория ще откриете всичко необходимо. Защо да изберете подаръчен комплект от нас? Уникални аромати и формули: Перфектна грижа за кожата и сетивата. Луксозни опаковки: Готови за подаряване без допълнителни усилия. Подходящи за всеки повод: Подарък, който оставя трайно впечатление. 🛍️ Разгледайте и изберете от нашите специални предложения, за да направите деня на някого по-ярък и специален! - Bath&Body
   Updated: 2025-12-04T16:59:27Z
@@ -456,343 +450,343 @@
   Updated: 2025-12-04T16:59:27Z
   Total Products: 41
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-54): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-55): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-56): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-57): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-58): - Bath&Body
-  Updated: 2025-12-11T10:53:05Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [In the Stars - Bath&Body](https://bathandbody.bg/collections/in-the-stars): - Bath&Body
-  Updated: 2025-12-04T16:59:27Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 4
 - [Into the night - Bath&Body](https://bathandbody.bg/collections/into-the-night): - Bath&Body
-  Updated: 2025-12-04T16:59:27Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 6
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-59): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-60): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-61): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-62): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-63): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-64): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-65): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-66): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-67): - Bath&Body
-  Updated: 2025-12-11T10:53:06Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-68): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Продукти в наличност - Bath&Body](https://bathandbody.bg/collections/in-stock-products-1): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Bath & Body Works | Най-широкият избор на едно място - Bath&Body](https://bathandbody.bg/collections/bath-body-works-най-широкият-избор-на-едно-място): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-69): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-70): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-71): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-72): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-73): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-74): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-75): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-76): - Bath&Body
-  Updated: 2025-12-11T10:53:07Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-77): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-78): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-79): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-80): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-81): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-82): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-83): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-84): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-85): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-86): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-87): - Bath&Body
-  Updated: 2025-12-11T10:53:08Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-88): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-89): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-90): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-91): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-92): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-93): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-94): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-95): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-96): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-97): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-98): - Bath&Body
-  Updated: 2025-12-11T10:53:09Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-99): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-100): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-101): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-102): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-103): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-104): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Антибактериални Гелове - Bath&Body](https://bathandbody.bg/collections/антибактериални-гелове): - Bath&Body
   Updated: 2025-12-04T16:59:28Z
   Total Products: 2
 - [Душ гелове - Bath&Body](https://bathandbody.bg/collections/душ-гелове): - Bath&Body
-  Updated: 2025-12-11T11:03:26Z
+  Updated: 2025-12-11T12:56:05Z
   Total Products: 42
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-105): - Bath&Body
-  Updated: 2025-12-11T10:53:10Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-106): - Bath&Body
-  Updated: 2025-12-11T10:53:11Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-107): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-108): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-109): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [ALL - Bath&Body](https://bathandbody.bg/collections/all): - Bath&Body
-  Updated: 2025-12-11T10:56:30Z
+  Updated: 2025-12-11T13:12:15Z
   Total Products: 253
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-110): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-111): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-112): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-113): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-114): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-115): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-116): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-117): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-118): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-119): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-120): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-121): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-122): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-123): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-124): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-125): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-126): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-127): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-128): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-129): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-130): - Bath&Body
-  Updated: 2025-12-11T10:53:12Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-131): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-132): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-133): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-134): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-135): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-136): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-137): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-138): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-139): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-140): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-141): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-142): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-143): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-144): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-145): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-146): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-147): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-148): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-149): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-150): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-151): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-152): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-153): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-154): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-155): - Bath&Body
-  Updated: 2025-12-11T10:53:13Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-156): - Bath&Body
-  Updated: 2025-12-11T10:53:14Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Notifier marketing - Best Sellers - Bath&Body](https://bathandbody.bg/collections/notifier-marketing-best-sellers-157): - Bath&Body
-  Updated: 2025-12-11T10:53:14Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [Нови Попълнения - Bath&Body](https://bathandbody.bg/collections/нови-попълнения): - Bath&Body
-  Updated: 2025-12-11T11:13:28Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 9
 - [Сапуни - Bath&Body](https://bathandbody.bg/collections/сапуни-1): - Bath&Body
-  Updated: 2025-12-11T11:07:22Z
+  Updated: 2025-12-11T12:44:05Z
   Total Products: 79
 - [Кремове - Bath&Body](https://bathandbody.bg/collections/кремове): - Bath&Body
   Updated: 2025-12-04T16:59:28Z
@@ -804,10 +798,10 @@
   Updated: 2025-12-04T16:59:29Z
   Total Products: 0
 - [, - Bath&Body](https://bathandbody.bg/collections/smart-collection): - Bath&Body
-  Updated: 2025-12-11T10:53:14Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 - [За Нея - Bath&Body](https://bathandbody.bg/collections/за-нея): - Bath&Body
-  Updated: 2025-12-11T10:53:14Z
+  Updated: 2025-12-11T12:30:43Z
   Total Products: 40
 
 ## Blogs
