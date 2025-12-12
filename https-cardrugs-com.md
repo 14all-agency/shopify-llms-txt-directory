@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2025-12-10T19:50:52.497Z
+- Updated At: 2025-12-12T00:00:43.332Z
 
 ## Products
 
@@ -160,7 +160,7 @@
   Updated: 2023-11-13T18:55:48Z
   Total Products: 0
 - [DieCut Banners](https://cardrugs.com/collections/24-die-cut-banners)
-  Updated: 2025-12-10T15:54:55Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 27
 - [DieCut Stickers](https://cardrugs.com/collections/die-cut-stickers)
   Updated: 2025-11-28T12:12:14Z
@@ -169,7 +169,7 @@
   Updated: 2025-12-01T12:13:27Z
   Total Products: 87
 - [Apparel](https://cardrugs.com/collections/apparel)
-  Updated: 2025-12-10T12:10:41Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 250
 - [Lanyards](https://cardrugs.com/collections/lanyards)
   Updated: 2024-12-29T00:39:19Z
@@ -301,7 +301,7 @@
   Updated: 2025-02-12T00:20:35Z
   Total Products: 1
 - [Hoodies](https://cardrugs.com/collections/hooded-sweatshirts)
-  Updated: 2025-12-09T12:09:44Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 70
 - [Hats](https://cardrugs.com/collections/hats)
   Updated: 2025-12-03T12:10:08Z
@@ -322,7 +322,7 @@
   Updated: 2025-02-12T00:20:34Z
   Total Products: 0
 - [Newest!](https://cardrugs.com/collections/featured)
-  Updated: 2025-12-10T12:10:41Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 131
 - [Series 32 Part 3](https://cardrugs.com/collections/series-32-part-3)
   Updated: 2025-02-12T00:18:16Z
@@ -364,7 +364,7 @@
   Updated: 2025-11-08T12:10:11Z
   Total Products: 25
 - [Jackets](https://cardrugs.com/collections/クラブ-jackets)
-  Updated: 2025-11-25T12:09:54Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 14
 - [Mystery Slap Pack: Base Set](https://cardrugs.com/collections/mystery-slap-packs-1)
   Updated: 2023-11-13T18:55:51Z
@@ -391,7 +391,7 @@
   Updated: 2025-10-11T11:08:04Z
   Total Products: 60
 - [Velcro Patches](https://cardrugs.com/collections/rubber-patches)
-  Updated: 2025-12-10T12:10:41Z
+  Updated: 2025-12-10T20:21:55Z
   Total Products: 103
 - [NEW Series 40](https://cardrugs.com/collections/new-series-40)
   Updated: 2025-02-12T00:21:58Z
@@ -412,7 +412,7 @@
   Updated: 2025-06-07T06:20:03Z
   Total Products: 5
 - [XMAS DROP](https://cardrugs.com/collections/xmas-drop)
-  Updated: 2025-12-10T15:33:21Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 71
 - [Series 43](https://cardrugs.com/collections/series-43)
   Updated: 2025-02-12T00:21:31Z
@@ -445,7 +445,7 @@
   Updated: 2025-02-12T00:13:56Z
   Total Products: 18
 - [June 14 2024 Release](https://cardrugs.com/collections/june-14-2024)
-  Updated: 2025-12-01T12:13:27Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 68
 - [Series 47](https://cardrugs.com/collections/series-47)
   Updated: 2025-10-11T11:08:04Z
@@ -463,7 +463,7 @@
   Updated: 2025-09-04T21:56:52Z
   Total Products: 26
 - [9 Year Annv](https://cardrugs.com/collections/9-year-annv)
-  Updated: 2025-12-06T12:10:41Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 32
 - [Mystery Slap Pack: Mascot Set](https://cardrugs.com/collections/msp-mascot-set)
   Updated: 2025-11-18T12:10:22Z
@@ -511,7 +511,7 @@
   Updated: 2025-12-09T12:09:44Z
   Total Products: 50
 - [Toys](https://cardrugs.com/collections/toys)
-  Updated: 2025-12-10T12:10:41Z
+  Updated: 2025-12-11T12:10:13Z
   Total Products: 5
 
 ## Store Pages
