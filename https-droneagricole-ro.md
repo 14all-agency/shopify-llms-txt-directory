@@ -5,7 +5,7 @@
 - Currency: RON
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
-- Updated At: 2025-12-09T18:29:19.796Z
+- Updated At: 2025-12-12T00:00:32.246Z
 
 ## Products
 
@@ -1959,8 +1959,14 @@
     Updated: 2025-04-28T10:34:35Z
     Author: Tendo Studio
   - [DJI Agras T50: De ce rămâne cea mai fiabilă alegere în fața modelului T100?](https://droneagricole.ro/blogs/articole/dji-agras-t50-de-ce-ramane-cea-mai-fiabila-alegere-in-fața-modelului-t100): <p>De obicei, nu ne grăbim să scriem despre produse care nu sunt lansate oficial sau nu sunt disponibile în România, însă în ultima perioadă am primit tot mai multe întrebări despre DJI Agras T100. Am căutat și noi la rândul nostru informații și ne-am documentat temeinic, pentru că înțelegem curiozitatea firească a celor care urmăresc evoluția dronelor agricole de ultimă generație.</p>
-    Updated: 2025-12-09T18:28:29Z
-    Author: Tendo Studio
+    Updated: 2025-12-10T03:09:31Z
+    Author: Riagro Drones
+  - [DJI Agras T100 vs T50: Test Comparativ Erbicidare Rapiță în Teren Greu (Mehedinți 2025)](https://droneagricole.ro/blogs/articole/dji-agras-t100-vs-t50-test-comparativ-erbicidare-rapița-in-teren-greu-mehedinți-2025)
+    Updated: 2025-12-11T10:43:34Z
+    Author: Riagro Drones
+  - [Drone Agricole în România: Noua Lege a Tratamentelor Fitosanitare și Avantajele pentru Fermieri](https://droneagricole.ro/blogs/articole/drone-agricole-in-romania-noua-lege-a-tratamentelor-fitosanitare-și-avantajele-pentru-fermieri): <p>Dronele devin oficial utilaje agricole! Este legal să facem tratamente fitosanitare cu drona în România? Da, contextul legislativ s-a schimbat favorabil. Recent, Senatul României a adoptat un proiect de lege crucial care reglementează utilizarea dronelor pentru aplicarea tratamentelor fitosanitare.</p>
+    Updated: 2025-12-11T10:31:21Z
+    Author: Riagro Drones
 
 ## Store Pages
 
