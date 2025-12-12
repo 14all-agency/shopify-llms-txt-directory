@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-11T05:32:23.208Z
+- Updated At: 2025-12-12T00:00:23.695Z
 
 ## Products
 
@@ -6037,7 +6037,32 @@
   - [XL](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress?variant=61349308006770)
     Availability: Available
     Price: $19.99 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2MDE3NDk1MDc3MCwibGFzdF92YWx1ZSI6IjE0ODYwMTc0OTUwNzcwIn0=)
+- [Suzani Coat with Fur Collar & Cuffs–Handcrafted Boho Jacket](https://pikarufashion.com/products/suzani-coat-with-fur-collar-cuffs-handcrafted-boho-jacket): A luxurious handcrafted Suzani coat with multicolour floral detailing, curly fur collar, and fur cuffs. A statement artisanal boho outerwear
+  Updated: 2025-12-11T22:09:43Z
+  Vendor: PIKARU FASHION
+  Product Type: Outerwear → Jackets / Coats → Embroidered / Velvet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Suzanicoat.webp?v=1765438756
+  Price: $499.00 USD
+- [Sujani Embroidered Sheepskin Trim Vest — Artisan Outerwear](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest): Hand-embroidered Sujani vest with plush sheepskin trim. Ethnic motifs, cozy fit, pockets. Limited edition artisan piece — free domestic shipping.
+  Updated: 2025-12-11T11:06:21Z
+  Vendor: PIKARU FASHION
+  Product Type: Women’s Vests / Outerwear / Ethnic Jackets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/sujani03.webp?v=1765450988
+  - [S](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505901426)
+    Availability: Available
+    Price: $399.00 USD
+  - [M](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505934194)
+    Availability: Available
+    Price: $399.00 USD
+  - [L](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505966962)
+    Availability: Available
+    Price: $399.00 USD
+  - [XL](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505999730)
+    Availability: Available
+    Price: $399.00 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2MTE2ODQ0Mzc2MiwibGFzdF92YWx1ZSI6IjE0ODYxMTY4NDQzNzYyIn0=)
 
 ## Collections
 
@@ -6078,8 +6103,8 @@
   Updated: 2025-12-08T06:50:56Z
   Total Products: 11
 - [Winter Sale | Up to 50% Off on Jackets, Dresses  |](https://pikarufashion.com/collections/winter-sale-big-discounts-on-seasonal-fashion): Winter sale: enjoy huge discounts on jackets, coats and more. Stylish, warm, and high-quality winter fashion at unbeatable prices — shop now and save big!
-  Updated: 2025-11-29T18:40:46Z
-  Total Products: 16
+  Updated: 2025-12-11T11:06:21Z
+  Total Products: 18
 - [Buy 1 Get 1 Free | Limited-Time BOGO Offer on Fashion](https://pikarufashion.com/collections/buy-1-get-1-free-biggest-fashion-deal-of-the-season): Shop our Buy 1 Get 1 Free sale! Get double the style at zero extra cost. Limited-time BOGO offer on trendy fashion dresses shop now and save big!-PIKARU FASHION
   Updated: 2025-11-29T18:34:18Z
   Total Products: 28
@@ -6099,8 +6124,8 @@
   Updated: 2025-11-29T18:39:45Z
   Total Products: 0
 - [Suzzani Furr Jacket | Premium Hand-Embroidered Winter stocks](https://pikarufashion.com/collections/suzzani-furr-jacket-luxury-warm-handcrafted-winter-fashion): Suzzani Furr Jackets featuring soft fur lining, detailed embroidery, and premium winter warmth. Perfect for festive wear, travel, and stylish winter outfits
-  Updated: 2025-11-29T18:40:06Z
-  Total Products: 11
+  Updated: 2025-12-11T11:06:21Z
+  Total Products: 13
 - [Beachwear | Chic Women’s Beach Outfits, Kaftans & Cover-Ups](https://pikarufashion.com/collections/beachwear-stylish-comfortable-trendy-summer-fashion): Beachwear crafted with lightweight fabrics, vibrant prints, and breezy silhouettes. Perfect for vacations, beach days, pool parties, and resort fashion
   Updated: 2025-11-29T18:36:56Z
   Total Products: 3
@@ -6117,8 +6142,8 @@
   Updated: 2025-11-29T18:40:39Z
   Total Products: 0
 - [Winter Dresses | Elegant & Warm Women’s Winter Outfits |](https://pikarufashion.com/collections/winter-dresses-warm-stylish-cozy-women-s-fashion): Shop stylish Winter Dresses crafted with warm fabrics, elegant designs, and cosy fits.  everyday winter styling. Explore Winter Dresses at PIKARU Fashion
-  Updated: 2025-12-08T12:09:41Z
-  Total Products: 66
+  Updated: 2025-12-11T11:06:21Z
+  Total Products: 68
 - [Two Piece Stylish Two Piece Set for Modern Fashion](https://pikarufashion.com/collections/two-piece-set-stylish-modern-trendy-co-ord-fashion): Explore our trendy Two Piece Set collection. Stay fashionable and comfortable with these stylish outfits.
   Updated: 2025-12-01T11:06:06Z
   Total Products: 2
@@ -6144,8 +6169,8 @@
   Updated: 2025-11-29T18:34:16Z
   Total Products: 1
 - [Suzzani Coats | Boho Embroidered Winter Jackets](https://pikarufashion.com/collections/suzzani-coats-boho-embroidered-winter-jackets): Explore our exquisite collection of handcrafted Suzzani Coats, featuring rich embroidery and traditional artisan designs.
-  Updated: 2025-11-29T18:40:22Z
-  Total Products: 18
+  Updated: 2025-12-11T11:06:21Z
+  Total Products: 20
 - [discount deals under 19.99 | SALE Under $19.99](https://pikarufashion.com/collections/discount-deals-under-19-99-best-budget-picks): Discount deals under 19.99 are here! Explore our SALE Under $19.99 for incredible savings on your favorite products.
   Updated: 2025-12-10T10:13:38Z
   Total Products: 31
