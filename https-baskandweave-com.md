@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-12-03T00:00:35.782Z
+- Updated At: 2025-12-12T00:00:39.219Z
 
 ## Products
 
@@ -3373,7 +3373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-muscle-shirt-black-front-678e4dbcde54e.jpg?v=1740360676
     Price: $33.50 USD
 - [Men's Raglan Shirt – 3/4 Sleeve Baseball Tee for Men](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt): Shop men's raglan shirts with 3/4 sleeves for a classic sporty look. Perfect for casual wear or workouts, these soft cotton tees offer comfort and style.
-  Updated: 2025-10-30T23:42:21Z
+  Updated: 2025-12-09T04:00:30Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -3455,7 +3455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-black-front-678e4edcc94d4.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Red / M](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065182994682)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-red-front-678e4edcc9a96.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Charcoal / M](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183027450)
@@ -3479,7 +3479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-black-front-678e4edcc94d4.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Red / XL](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183191290)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-red-front-678e4edcc9a96.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Charcoal / XL](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183224058)
@@ -6157,7 +6157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-6792312728b9b.jpg?v=1737634719
     Price: $42.00 USD
 - [Men's Sherpa Denim Jacket – Warm, Stylish & Comfortable](https://baskandweave.com/products/mens-denim-sherpa-jacket): Upgrade your wardrobe with our men's Sherpa denim jacket. This warm, stylish layer offers premium comfort and a timeless look for casual or cool-weather days.
-  Updated: 2025-12-02T21:53:46Z
+  Updated: 2025-12-04T15:54:50Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -6203,7 +6203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $116.50 USD
   - [Light Denim / L](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593590010)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $116.50 USD
   - [Light Denim / XL](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593622778)
@@ -7149,7 +7149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pullover-hoodie-white-front-6792435e47c12.jpg?v=1737830528
     Price: $59.00 USD
 - [Men's Pullover Hoodie – Soft, Stylish & Comfortable Fit](https://baskandweave.com/products/mens-pullover-hoodie): Shop the men's pullover hoodie for comfort and style. This soft, durable hoodie keeps you warm and pairs perfectly with any casual outfit.
-  Updated: 2025-11-02T22:42:17Z
+  Updated: 2025-12-06T23:56:55Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7839,7 +7839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-zip-hoodie-french-navy-front-67951e77e8853.jpg?v=1737830902
     Price: $55.50 USD
 - [Heavy Blend Hoodie for Men – Warm, Durable Zip-Up Style](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie): Stay warm in our Heavy Blend Hoodie for Men. This soft, durable zip-up hoodie offers everyday comfort and timeless style for any casual occasion.
-  Updated: 2025-12-02T15:53:30Z
+  Updated: 2025-12-05T15:56:28Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7861,7 +7861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740364003
     Price: $46.00 USD
   - [Black / 2XL](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie?variant=47078548242682)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740364003
     Price: $49.00 USD
   - [Black / 3XL](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie?variant=47078548275450)
@@ -8641,7 +8641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-white-front-67953601bed5e.jpg?v=1737833123
     Price: $60.50 USD
 - [Men's Organic Cotton Sweatshirt - Eco-Friendly Everyday Wear](https://baskandweave.com/products/mens-organic-sweatshirt): Upgrade your wardrobe with our men's organic cotton sweatshirt. Soft, eco-friendly, and perfect for a sustainable lifestyle with year-round comfort.
-  Updated: 2025-11-17T15:31:26Z
+  Updated: 2025-12-08T22:00:16Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8711,7 +8711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-679538640558a.jpg?v=1737833201
     Price: $47.50 USD
   - [French Navy / M](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078723813626)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-679538640558a.jpg?v=1737833201
     Price: $47.50 USD
   - [French Navy / L](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078723846394)
@@ -8771,7 +8771,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-grey-melange-front-679538640c1b4.jpg?v=1737833201
     Price: $47.50 USD
   - [Grey Melange / M](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078724305146)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-grey-melange-front-679538640c1b4.jpg?v=1737833201
     Price: $47.50 USD
   - [Grey Melange / L](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078724337914)
@@ -8807,7 +8807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-white-front-67953864110d1.jpg?v=1737833201
     Price: $50.50 USD
 - [Men's Organic Raglan Sweatshirt – Sustainable Comfort](https://baskandweave.com/products/mens-organic-raglan-sweatshirt): Men's Organic Raglan Sweatshirt made from sustainable fabrics for soft comfort and lasting style—ideal for casual, eco-friendly wardrobes.
-  Updated: 2025-11-02T23:09:43Z
+  Updated: 2025-12-08T22:00:16Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8845,7 +8845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burgundy-front-6795390206362.jpg?v=1737833332
     Price: $51.50 USD
   - [Burgundy / S](https://baskandweave.com/products/mens-organic-raglan-sweatshirt?variant=47078733447418)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burgundy-front-6795390206362.jpg?v=1737833332
     Price: $51.50 USD
   - [Burgundy / M](https://baskandweave.com/products/mens-organic-raglan-sweatshirt?variant=47078733480186)
@@ -8953,7 +8953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burnt-orange-front-679539021c3cb.jpg?v=1737833332
     Price: $57.00 USD
 - [Men's Fleece Pullover – Warm, Stylish & Comfortable Wear](https://baskandweave.com/products/mens-fleece-pullover): Stay cozy with our Men's Fleece Pullover—crafted for warmth, comfort, and timeless style. Perfect for casual outings or chilly days outdoors.
-  Updated: 2025-11-02T23:10:38Z
+  Updated: 2025-12-07T09:57:41Z
   Vendor: Bask & Weave
   Product Type: Fleece Pullover
   Availability: Available
@@ -9007,7 +9007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-navy-front-679539560fd1e.jpg?v=1737833391
     Price: $49.00 USD
   - [Carbon Grey / S](https://baskandweave.com/products/mens-fleece-pullover?variant=47078741180666)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-679539561029a.jpg?v=1737833391
     Price: $42.00 USD
   - [Carbon Grey / M](https://baskandweave.com/products/mens-fleece-pullover?variant=47078741213434)
@@ -14295,7 +14295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6796704589b26.jpg?v=1737915776
     Price: $33.00 USD
 - [Women's Short-Sleeve Embroidered T-Shirt – Softstyle Basic](https://baskandweave.com/products/womens-basic-softstyle-short-sleeve-embroidered-t-shirt): Discover the women's short-sleeve embroidered t-shirt made with softstyle cotton. A perfect everyday tee combining comfort, durability, and elegance.
-  Updated: 2025-11-03T23:10:01Z
+  Updated: 2025-12-05T02:22:16Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -16687,7 +16687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-padded-sports-bra-white-front-6796984732d80.jpg?v=1737925201
     Price: $47.00 USD
 - [Women's Biker Shorts – All-Over Print Activewear Style](https://baskandweave.com/products/womens-all-over-print-biker-shorts): Shop our women's biker shorts designed for comfort and movement. Featuring an all-over print, these soft, eco-friendly shorts elevate your activewear style.
-  Updated: 2025-11-03T23:54:11Z
+  Updated: 2025-12-03T06:29:14Z
   Vendor: Bask & Weave
   Product Type: Shorts
   Availability: Available
@@ -17007,7 +17007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-shorts-white-front-67969fcebd71a.jpg?v=1740884399
     Price: $38.00 USD
 - [Women's Cropped Hoodie – Stylish, Cozy & Perfect Fit](https://baskandweave.com/products/womens-cropped-hoodie): Shop the women's cropped hoodie for a stylish and cozy look. Perfect for casual wear, layering, or workouts — designed for comfort and modern style.
-  Updated: 2025-11-17T15:31:26Z
+  Updated: 2025-12-08T22:00:22Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -17045,7 +17045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-military-green-front-6796a8eb7edf4.jpg?v=1737941384
     Price: $64.00 USD
   - [Military Green / XL](https://baskandweave.com/products/womens-cropped-hoodie?variant=47080600404218)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-military-green-front-6796a8eb7edf4.jpg?v=1737941384
     Price: $64.00 USD
   - [Military Green / 2XL](https://baskandweave.com/products/womens-cropped-hoodie?variant=47080600436986)
@@ -18241,7 +18241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-zip-hoodie-french-navy-front-6796de6d99137.jpg?v=1737941925
     Price: $54.00 USD
 - [Heavy Blend Zip Hoodie Women | Warm & Comfortable Style](https://baskandweave.com/products/womens-heavy-blend-zip-hoodie): Shop the heavy blend zip hoodie women love for cozy comfort and style. Crafted from soft, durable fabric for warmth in every season.
-  Updated: 2025-12-02T15:53:30Z
+  Updated: 2025-12-05T15:56:28Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -18263,7 +18263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740879203
     Price: $45.00 USD
   - [Black / 2XL](https://baskandweave.com/products/womens-heavy-blend-zip-hoodie?variant=47081174597882)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740879203
     Price: $47.50 USD
   - [Black / 3XL](https://baskandweave.com/products/womens-heavy-blend-zip-hoodie?variant=47081174630650)
@@ -18803,7 +18803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-6796e0f738ec1.jpg?v=1737942196
     Price: $42.50 USD
 - [Women's Cropped Sweatshirt - Trendy & Stylish Everyday Wear](https://baskandweave.com/products/womens-cropped-sweatshirt): Shop the Women's Cropped Sweatshirt for a modern, relaxed look. Soft, stylish, and comfortable—perfect for pairing with jeans or leggings.
-  Updated: 2025-11-06T15:14:16Z
+  Updated: 2025-12-07T03:57:37Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -18817,7 +18817,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Cropped_Sweatshirt.jpg?v=1740865475
     Price: $53.50 USD
   - [Black / L](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853427450)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Cropped_Sweatshirt.jpg?v=1740865475
     Price: $53.50 USD
   - [Navy / S](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853460218)
@@ -18845,11 +18845,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-brick-front-67a682fd7e1e3.jpg?v=1738966548
     Price: $53.50 USD
   - [Mauve / S](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853656826)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-mauve-front-67a682fd7f446.jpg?v=1738966548
     Price: $53.50 USD
   - [Mauve / M](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853689594)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-mauve-front-67a682fd7f446.jpg?v=1738966548
     Price: $53.50 USD
   - [Mauve / L](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853722362)
@@ -18857,15 +18857,15 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-mauve-front-67a682fd7f446.jpg?v=1738966548
     Price: $53.50 USD
   - [Dusty Blue / S](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853755130)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-dusty-blue-front-67a682fd80afb.jpg?v=1738966548
     Price: $53.50 USD
   - [Dusty Blue / M](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853787898)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-dusty-blue-front-67a682fd80afb.jpg?v=1738966548
     Price: $53.50 USD
   - [Dusty Blue / L](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853820666)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-dusty-blue-front-67a682fd80afb.jpg?v=1738966548
     Price: $53.50 USD
 - [Premium Women's Sweatshirt - Soft, Stylish & Comfortable](https://baskandweave.com/products/womens-premium-sweatshirt): Discover the premium women's sweatshirt made for comfort and style. Perfect for casual days or layering—soft, durable, and effortlessly chic.
@@ -19121,7 +19121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-french-navy-front-67a68bef7764c.jpg?v=1738968074
     Price: $55.00 USD
 - [Women's Organic Sweatshirt - Eco-Friendly & Stylish Wear](https://baskandweave.com/products/womens-organic-sweatshirt): Discover the women's organic sweatshirt made from soft, sustainable fabrics. This women's organic sweatshirt blends comfort with eco-conscious style.
-  Updated: 2025-11-17T15:31:26Z
+  Updated: 2025-12-08T22:00:16Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -19191,7 +19191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-67a6896e61717.jpg?v=1738968220
     Price: $46.50 USD
   - [French Navy / M](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880395514)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-67a6896e61717.jpg?v=1738968220
     Price: $46.50 USD
   - [French Navy / L](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880428282)
@@ -19251,7 +19251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-grey-melange-front-67a6896e6eb55.jpg?v=1738968220
     Price: $46.50 USD
   - [Grey Melange / M](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880887034)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-grey-melange-front-67a6896e6eb55.jpg?v=1738968220
     Price: $46.50 USD
   - [Grey Melange / L](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880919802)
@@ -19287,7 +19287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-white-front-67a6896e73d06.jpg?v=1738968220
     Price: $49.00 USD
 - [Women's Organic Raglan Sweatshirt - Sustainable & Stylish](https://baskandweave.com/products/womens-organic-raglan-sweatshirt): Experience comfort and sustainability with our women's organic raglan sweatshirt. This women's organic raglan sweatshirt is soft, durable, and eco-friendly.
-  Updated: 2025-11-04T00:27:09Z
+  Updated: 2025-12-08T22:00:16Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -19325,7 +19325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burgundy-front-67a689f15b777.jpg?v=1738968298
     Price: $50.00 USD
   - [Burgundy / S](https://baskandweave.com/products/womens-organic-raglan-sweatshirt?variant=47110886949114)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burgundy-front-67a689f15b777.jpg?v=1738968298
     Price: $50.00 USD
   - [Burgundy / M](https://baskandweave.com/products/womens-organic-raglan-sweatshirt?variant=47110886981882)
@@ -19461,7 +19461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-white-front-67a689f168028.jpg?v=1738968298
     Price: $55.50 USD
 - [Women's Fleece Pullover - Cozy & Stylish Fleece Sweatshirt](https://baskandweave.com/products/womens-fleece-pullover): Stay warm and stylish with our women's fleece pullover. This cozy women's fleece pullover is perfect for layering and all-day comfort in any season.
-  Updated: 2025-11-04T00:28:03Z
+  Updated: 2025-12-07T09:57:40Z
   Vendor: Bask & Weave
   Product Type: Fleece Pullover
   Availability: Available
@@ -19515,7 +19515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-navy-front-2-67a68a761ea34.jpg?v=1738968410
     Price: $49.00 USD
   - [Carbon Grey / S](https://baskandweave.com/products/womens-fleece-pullover?variant=47110890520826)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-2-67a68a761f683.jpg?v=1738968410
     Price: $42.00 USD
   - [Carbon Grey / M](https://baskandweave.com/products/womens-fleece-pullover?variant=47110890553594)
@@ -19701,7 +19701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-67a68fba68b0c.jpg?v=1738971028
     Price: $45.50 USD
 - [Women's Sherpa Denim Jacket - Warm & Stylish Outerwear](https://baskandweave.com/products/womens-sherpa-denim-jacket): Stay cozy and chic with our Women's Sherpa Denim Jacket, blending classic denim with soft sherpa lining for warmth, comfort, and everyday style.
-  Updated: 2025-12-02T21:53:46Z
+  Updated: 2025-12-04T15:54:51Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -19747,7 +19747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $103.00 USD
   - [Light Denim / L](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942523642)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $103.00 USD
   - [Light Denim / XL](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942556410)
@@ -20661,7 +20661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Kids_Crew_Neck_T-Shirt.jpg?v=1740983136
     Price: $31.50 USD
 - [Youth Classic T-Shirt – Comfortable Everyday T-Shirt](https://baskandweave.com/products/youth-classic-tee): Discover the perfect Youth Classic T-Shirt for everyday wear. Soft, breathable, and stylish — ideal for school, play, or casual outings.
-  Updated: 2025-11-05T00:37:06Z
+  Updated: 2025-12-06T00:23:46Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -22008,13 +22008,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/large-eco-tote-oyster-front-67a6c63f138c6.jpg?v=1738983926
     Price: $34.00 USD
-- [Organic Denim Tote Bag – Eco-Friendly & Stylish Everyday Bag](https://baskandweave.com/products/organic-denim-tote-bag): Carry your essentials in our organic denim tote bag. Made from eco-friendly materials, this sustainable tote combines style, durability, and functionality.
-  Updated: 2025-11-25T09:44:32Z
-  Vendor: Bask & Weave
-  Product Type: Tote Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Organic_Denim_Tote_Bag.jpg?v=1740986741
-  Price: $43.00 USD
 - [Duffle Bag – All-Over Print Custom Travel & Gym Bag](https://baskandweave.com/products/all-over-print-duffle-bag): Travel in style with our all-over print duffle bag. Durable, spacious, and trendy, perfect for gym, weekend trips, or everyday use.
   Updated: 2025-11-07T23:57:15Z
   Vendor: Bask & Weave
