@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-08T00:00:34.966Z
+- Updated At: 2025-12-12T00:00:36.853Z
 
 ## Products
 
@@ -1289,7 +1289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
 - [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2025-12-05T10:24:31Z
+  Updated: 2025-12-09T16:01:11Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -2779,7 +2779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TSHIRTANEMAECORE.jpg?v=1746478058
     Price: 9,00 € EUR
 - [Set"Adesivo PVC Effetto Polaroid 'Ricordi Indelebili' - Personalizzabile con Foto, Data e Dedica"5 PZ](https://www.amashopstudio.it/products/adesivo-napoli-1926-nero-supporter-calcio-napoli-calcio-copia-1): Trasforma i tuoi ricordi più preziosi in adesivi unici con il nostro Adesivo PVC Effetto Polaroid "Ricordi Indelebili". Realizzato in PVC di alta qualità, questo adesivo resistente all'acqua e ai raggi UV ricrea perfettamente l'iconica cornice Polaroid, aggiungendo un tocco vintage e nostalgico alle tue foto preferite. Personalizzalo facilmente con la tua foto del cuore, aggiungi una data speciale e una dedica personale per rendere ogni adesivo unico e significativo. Ideale per decorare diari, laptop, valigie, smartphone, album fotografici o qualsiasi superficie liscia. Caratteristiche principali: Materiale PVC premium resistente all'acqua e ai raggi UV Effetto Polaroid autentico con spazio per foto, data e dedica Facile da applicare e rimuovere senza lasciare residui Perfetto per regali personalizzati e ricordi speciali Disponibile in diverse dimensioni per adattarsi a ogni esigenza Il set comprende 5pz. uno da 10 cm + 4 da 5 cm Cattura i tuoi momenti più belli e trasformali in adesivi che durano nel tempo. Ogni "Ricordo Indelebile" racconta una storia unica: la tua!
-  Updated: 2025-09-17T14:59:43Z
+  Updated: 2025-12-10T16:34:33Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -3154,13 +3154,13 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 62
 - [Adesivi](https://www.amashopstudio.it/collections/adesivi): Adesivi personalizzati in pvc
-  Updated: 2025-09-17T14:59:12Z
+  Updated: 2025-12-11T12:27:14Z
   Total Products: 41
 - [Penne](https://www.amashopstudio.it/collections/penne-1): Penne personalizzate con incisione laser
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-12-05T12:23:56Z
+  Updated: 2025-12-11T12:27:14Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-12-05T12:23:56Z
+  Updated: 2025-12-10T12:29:29Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
