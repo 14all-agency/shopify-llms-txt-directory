@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-12-07T00:00:34.251Z
+- Updated At: 2025-12-12T00:00:34.649Z
 
 ## Products
 
@@ -1003,7 +1003,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/organic-cotton-kids-t-shirt-white-front-6717a7bcc6bba.jpg?v=1729603527
     Price: £29.00 GBP
 - [Le Grand Combin, Verbier - Verbier Eco Clothing - Ethical Bubble-free stickers](https://www.tailormadetrekking.com/products/le-grand-combin-verbier-verbier-eco-clothing-ethical-bubble-free-stickers): Le Grand Combin, Verbier - Verbier Eco Clothing - Ethical Bubble-free stickers These stickers are printed on durable, high opacity adhesive vinyl which makes them perfect for regular use, as well as for covering other stickers or paint. The high-quality vinyl ensures there are no bubbles when applying the stickers. • Dispatched from EU & USA • High opacity film that’s impossible to see through • Fast and easy bubble-free application • Durable vinyl • 95µ density Don't forget to clean the surface before applying the sticker. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) WIDTH (inches) 3″×3″ 3 3 4″×4″ 4 4 5.5″×5.5″ 5 ½ 5 ½ HEIGHT (cm) WIDTH (cm) 3″×3″ 7.5 7.5 4″×4″ 10 10 5.5″×5.5″ 14 14
-  Updated: 2025-10-02T13:38:03Z
+  Updated: 2025-12-08T01:04:08Z
   Vendor: Georgina Talfana Treks
   Product Type: 
   Availability: Available
