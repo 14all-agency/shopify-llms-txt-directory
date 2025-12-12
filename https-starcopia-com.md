@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-11T00:00:40.695Z
+- Updated At: 2025-12-12T00:00:21.683Z
 
 ## Products
 
@@ -357,25 +357,25 @@
 ## Collections
 
 - [camera bag](https://starcopia.com/collections/camera-bag-1): The ideal companion, a dream for all photographers out there with a soul.
-  Updated: 2025-11-15T06:46:34Z
+  Updated: 2025-12-11T08:21:46Z
   Total Products: 4
 - [camera straps](https://starcopia.com/collections/camera-straps): Looking for something fresh? Our Collection brings in the newest straps with the same care, detail, and quality we’re known for
-  Updated: 2025-11-13T10:30:13Z
+  Updated: 2025-12-11T08:21:46Z
   Total Products: 14
 - [wrist straps](https://starcopia.com/collections/wrist-straps): Premium wrist straps for the timeless photographer
-  Updated: 2025-11-14T06:32:22Z
+  Updated: 2025-12-11T08:21:46Z
   Total Products: 10
 - [shutter toppers](https://starcopia.com/collections/shutter-toppers): Unlock the true potential of the first shutter button
-  Updated: 2025-11-15T09:33:32Z
+  Updated: 2025-12-11T08:21:46Z
   Total Products: 7
 - [thumb grip](https://starcopia.com/collections/thumb-grip): Giving you total freedom without compromise
-  Updated: 2025-11-15T07:43:10Z
+  Updated: 2025-12-11T08:21:46Z
   Total Products: 9
 - [camera goods](https://starcopia.com/collections/camera-goods): Products for your every about photography needs
-  Updated: 2025-12-05T12:17:22Z
+  Updated: 2025-12-11T08:21:46Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-10-29T07:54:53Z
+  Updated: 2025-12-11T08:21:47Z
   Total Products: 1
 
 ## Store Pages
