@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-11T20:00:28.291Z
+- Updated At: 2025-12-12T04:00:28.141Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -2640,7 +2640,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/FallPumpkinandLeavesBookmarks5-up-PrintablePlanning.jpg?v=1688037382
   Price: $5.95 USD
 - [Personalized Coffee Shark Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-coffee-shark-bookmarks-printable): Personalized coffee shark bookmarks for kids and classrooms. Add names in the editable PDF, print on card stock, and create fun custom shark reading gifts.
-  Updated: 2025-12-11T19:03:41Z
+  Updated: 2025-12-12T02:27:23Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
