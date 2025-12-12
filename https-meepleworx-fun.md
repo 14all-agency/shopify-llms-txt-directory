@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-12-12T00:00:49.611Z
+- Updated At: 2025-12-12T15:56:47.593Z
 
 ## Products
 
@@ -266,7 +266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/oversized-poker-wedding-props-for-big-name-playing-fun-meeple-worx-ltd-hwy.jpg?v=1760902336
   Price: £37.99 GBP
 - [Shady Housewives Bingo Game for Endless Fun and Laughter Experiences](https://meepleworx.fun/products/the-shady-housewives-bingo-game-722118565): Enjoy laughter-filled nights with the Shady Housewives Bingo Game! Perfect for parties and gatherings, this game guarantees fun and memorable moments.
-  Updated: 2025-12-07T03:29:52Z
+  Updated: 2025-12-12T15:41:26Z
   Vendor: Amethyst Daisy
   Product Type: Novelty
   Availability: Available
@@ -1781,7 +1781,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/dice-cufflinks-for-gamblers-and-dice-enthusiasts-unique-accessories-default-title-cufflinks-dice-cufflinks-dice-enthusiasts-gambler-gifts-unique-accessories-MUT.jpg?v=1765079074
   Price: £19.99 GBP
 - [Yoga Ball for Strength and Flexibility - Improve Your Balance and Core](https://meepleworx.fun/products/yoga-ball-417904282): Enhance your strength and flexibility with our premium yoga ball. Perfect for workouts and exercise, this yoga ball improves balance and core stability.
-  Updated: 2025-12-10T12:03:12Z
+  Updated: 2025-12-12T04:48:56Z
   Vendor: Yellow Pandora
   Product Type: Equipment & Accessories
   Availability: Available
@@ -2172,7 +2172,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/no-tip-card-simplify-gratuity-decisions-meeple-worx-ltd-gHB.jpg?v=1760902621
   Price: £14.99 GBP
 - [The Connoisseur's Set - Reserve Glass Edition | Premium Glassware Set](https://meepleworx.fun/products/the-connoisseurs-set-reserve-glass-edition-444897102): Elevate your drinking experience with The Connoisseur's Set - Reserve Glass Edition. Perfect for enthusiasts, this elegant set enhances flavor and presentation.
-  Updated: 2025-12-11T22:47:25Z
+  Updated: 2025-12-12T13:47:41Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2213,7 +2213,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/hidden-book-safe-discreet-storage-for-valuables-meeple-worx-ltd-VmE.jpg?v=1760888435
   Price: £18.99 GBP
 - [The Original Rocks - Premium Quality Natural Whisky Stones for Chill](https://meepleworx.fun/products/the-original-rocks-1756183694): Experience the purest taste with The Original Rocks - Premium Quality Natural Whisky Stones. Chill your whisky without dilution. Perfect for connoisseurs.
-  Updated: 2025-12-11T23:57:51Z
+  Updated: 2025-12-12T15:52:21Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2234,14 +2234,14 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/secret-safe-indoor-outdoor-thermometer-meeple-worx-ltd-Mq9.jpg?v=1760902487
   Price: £11.99 GBP
 - [The Gentleman's Set - Cigar Aficionado: Sophisticated Essentials](https://meepleworx.fun/products/whiskey-stones-gift-set-with-cigar-cutter-cigar-ashtray-6-handcrafted-round-stones-presentation-storage-tray-luxurious-whiskey-cigar-accessories-gold-foil-gift-box-by-r-o-c-k-s-844829114): Discover sophistication with The Gentleman's Set - Cigar Aficionado. This premium collection enhances your cigar experience. Elevate your style today!
-  Updated: 2025-12-11T19:28:36Z
+  Updated: 2025-12-12T06:25:06Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/the-gentleman-s-set-cigar-aficionado-meeple-worx-ltd-w1c.png?v=1760902158
   Price: £44.99 GBP
 - [The Rocks x Trivia Quiz Set - Fun Games for Family and Friends](https://meepleworx.fun/products/the-rocks-x-trivia-quiz-set-232594285): Discover the excitement of The Rocks x Trivia Quiz Set! Perfect for game nights, this fun-packed set challenges your knowledge and brings friends together.
-  Updated: 2025-12-11T16:53:50Z
+  Updated: 2025-12-12T13:35:06Z
   Vendor: Apricot Pontus
   Product Type: Novelty
   Availability: Available
@@ -3035,7 +3035,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/monopoly-app-banking-app-assisted-electronic-monopoly-game-default-title-board-games-app-assisted-board-game-electronic-monopoly-game-family-board-games-monopoly-app-banking-tqZ.jpg?v=1765078882
   Price: £34.10 GBP
 - [Catan: 5th Edition - Ultimate Board Game for Strategy Lovers](https://meepleworx.fun/products/catan-5th-edition-1): Discover the excitement of Catan: 5th Edition, the ultimate strategy board game. Build settlements, trade resources, and conquer the island for endless fun!
-  Updated: 2025-11-28T08:36:55Z
+  Updated: 2025-12-12T11:40:21Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -3302,7 +3302,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/outfoxed-the-ultimate-family-strategy-game-for-fun-and-strategy-meeple-worx-ltd-VSV.jpg?v=1760986748
   Price: £22.00 GBP
 - ["Retro" desktop bowling game - Fun Indoor Activity for All Ages](https://meepleworx.fun/products/retro-desk-top-bowling-game): Experience endless fun with our "Retro" desktop bowling game. Perfect for office breaks or family game nights, it's a nostalgic addition to your desk.
-  Updated: 2025-12-11T17:37:41Z
+  Updated: 2025-12-12T14:38:11Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -3722,7 +3722,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/ink-board-game-unleash-your-creativity-with-strategic-fun-default-title-family-fun-game-ink-board-game-interactive-game-strategy-board-game-sbA.webp?v=1765078825
   Price: £40.00 GBP
 - [Traditional Catapult - Classic Design for Ultimate Outdoor Play](https://meepleworx.fun/products/traditional-catapult): Experience the thrill of outdoor fun with our Traditional Catapult. This classic design is perfect for play, offering endless hours of excitement for all ages.
-  Updated: 2025-12-11T16:24:57Z
+  Updated: 2025-12-12T14:38:11Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -3743,7 +3743,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/exploding-kittens-the-board-game-meeple-worx-ltd-Ysf.jpg?v=1760901857
   Price: £25.00 GBP
 - [Daring Contest Game - Challenge Friends and Family for Fun Today!](https://meepleworx.fun/products/daring-contest-game): Challenge your friends and family with the Daring Contest Game! Enjoy hours of fun and excitement while testing your skills. Get yours today and make memories!
-  Updated: 2025-11-28T08:38:46Z
+  Updated: 2025-12-12T11:44:00Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -3981,7 +3981,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/monopoly-stitch-meeple-worx-ltd-DX4.jpg?v=1760887795
   Price: £35.00 GBP
 - [Justice League Fidget Spinner - Superhero Diztracto Toy for All Ages](https://meepleworx.fun/products/justice-league-fidget-spinner): Unleash your inner hero with the Justice League fidget spinner! Perfect for fans of superheroes, this high-quality diztracto spinner combines fun and focus.
-  Updated: 2025-12-07T03:40:02Z
+  Updated: 2025-12-12T11:32:06Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -4066,7 +4066,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/monopoly-fall-guys-ultimate-knockout-edition-meeple-worx-ltd-Yoc.jpg?v=1760902069
   Price: £30.00 GBP
 - [CLUE Signature Collection – Elegant Styles for Every Occasion](https://meepleworx.fun/products/clue-signature-collection): Discover the CLUE Signature Collection, where style meets sophistication. Elevate your wardrobe with our unique, curated pieces designed for every occasion.
-  Updated: 2025-12-07T03:39:52Z
+  Updated: 2025-12-12T10:37:40Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -4312,7 +4312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/star-wars-battle-of-hoth-meeple-worx-ltd-qSL.webp?v=1760902153
   Price: £49.99 GBP
 - [Brick Like This! LEGO Game - Exciting Building Fun for All Ages](https://meepleworx.fun/products/brick-like-this-lego-game): Unlock your imagination with the Brick Like This! LEGO Game. Perfect for all ages, it’s time to unleash creativity and build your dream world. Get yours now!
-  Updated: 2025-11-28T08:40:13Z
+  Updated: 2025-12-12T14:55:40Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -4727,13 +4727,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/27465.webp?v=1761143246
   Price: £10.00 GBP
-- [Duplo Space Shuttle Adventure | Fun Building Toy for Kids](https://meepleworx.fun/products/duplo-space-shuttle-adventure-for-toddlers-ages-3): Explore the Duplo Space Shuttle Adventure! Unleash creativity with this exciting Duplo Space Shuttle set, perfect for imaginative play and building skills.
-  Updated: 2025-12-10T21:46:45Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Duplo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/10422_Box1_v29.png?v=1761467433
-  Price: £59.99 GBP
 - [Duplo F1 Race Cars - Ultimate Racing Fun with Cars & Drivers Set](https://meepleworx.fun/products/duplo-f1-race-cars-drivers-for-toddlers-ages-2-up): Experience the thrill of speed with our Duplo F1 Race Cars & Drivers Set! Perfect for kids, this set sparks imagination and delivers ultimate racing fun.
   Updated: 2025-11-28T08:41:28Z
   Vendor: Curious Minds
@@ -4875,7 +4868,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T111527.927.png?v=1761467894
   Price: £109.99 GBP
 - [Lego Jurassic World Aquilops: Baby Dinosaur Dolores Set for Kids](https://meepleworx.fun/products/lego-jurassic-world-aquilops-for-ages-7): Discover the Lego Jurassic World Aquilops: Baby Dinosaur Dolores Set! Unleash fun adventures with this unique set and bring your Jurassic world to life today!
-  Updated: 2025-11-28T08:42:12Z
+  Updated: 2025-12-12T13:15:40Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Jurassic Park
   Availability: Available
@@ -4944,13 +4937,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T104655.597.png?v=1761468064
   Price: £17.99 GBP
-- [Lego Bluey Playground - Fun Adventures with Bluey and Chloe Set](https://meepleworx.fun/products/lego-bluey-playground-fun-with-bluey-and-chloe-for-ages-4-and-up): Explore endless adventure and fun with the Lego Bluey Playground set featuring Bluey and Chloe! Perfect for imaginative play and creativity. Get yours today!
-  Updated: 2025-12-11T09:57:59Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > Other LEGO Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T104316.713.png?v=1761409548
-  Price: £17.99 GBP
 - [Lego Transformers Soundwave: Ultimate Build and Transform](https://meepleworx.fun/products/lego-transformers-soundwave-for-collectors-aged-18-and-up): Transform your playtime with the Lego Transformers Soundwave! This ultimate collectible build and transform set brings your favorite character to life.
   Updated: 2025-11-28T08:42:31Z
   Vendor: Curious Minds
@@ -4966,7 +4952,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/C022250-m-lego-21362.png?v=1761409548
   Price: £54.99 GBP
 - [Lego Spider-Man Minifigures - Across the Spider-Verse Collection](https://meepleworx.fun/products/lego-spider-man-minifigures-across-the-spider-verse-for-ages-5): Discover the Lego Spider-Man Minifigures: Across the Spider-Verse Collection. Bring your favorite heroes to life with dynamic poses and endless adventures.
-  Updated: 2025-12-11T11:35:31Z
+  Updated: 2025-12-12T15:07:10Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minifigures
   Availability: Available
@@ -5386,7 +5372,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign_54.png?v=1762388388
   Price: £124.99 GBP
 - [Lego Botanicals Lucky Bamboo - Create Your Own Green Sanctuary Today](https://meepleworx.fun/products/lego-botanicals-lucky-bamboo): Transform your space with the Lego Botanicals Lucky Bamboo. This stunning kit brings a touch of nature indoors, offering a unique building experience.
-  Updated: 2025-12-11T23:26:01Z
+  Updated: 2025-12-12T13:47:47Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Flowers
   Availability: Available
@@ -5588,13 +5574,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/21254_Box1_v29_f9936baf-fd86-4e9a-888a-d601d86c84c8.png?v=1762388628
   Price: £20.99 GBP
-- [Lego Gabby's Dollhouse Gabby's Party Room - Fun Playset for Kids](https://meepleworx.fun/products/lego-gabbys-dollhouse-gabbys-party-room): Discover the fun with the Lego Gabby's Dollhouse Gabby's Party Room! Create exciting adventures with Gabby and her friends. Perfect for imaginative playtime!
-  Updated: 2025-11-28T08:48:09Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Gabby's Dollhouse
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/10797_Box1_v29_1.png?v=1762389533
-  Price: £44.99 GBP
 - [Lego Ninjago Jay's Mech Battle Pack - Epic Battles Await You](https://meepleworx.fun/products/lego-ninjago-jays-mech-battle-pack): Unleash epic battles with the Lego Ninjago Jay's Mech Battle Pack! Perfect for creative play, this set features Jay's powerful mech and exciting accessories.
   Updated: 2025-11-28T08:48:18Z
   Vendor: Curious Minds
@@ -5946,7 +5925,7 @@
 
 - [News](https://meepleworx.fun/blogs/news): Meeple Worx Ltd News Announcements!
   - [Meeple Worx Ltd Opening Announcement - Exciting New Ventures Ahead](https://meepleworx.fun/blogs/news/meeple-worx-ltd-opening-announcement): Meeple Worx Ltd Opening Announcement - Exciting New Ventures Ahead
-    Updated: 2025-12-10T09:06:08Z
+    Updated: 2025-12-12T10:42:26Z
     Author: Markus Gothe
   - [Board Games Blog: Discover Strategies, Tips, and Reviews Today](https://meepleworx.fun/blogs/news/board-games-blog): Board Games Blog: Discover Strategies, Tips, and Reviews Today
     Updated: 2025-12-07T03:35:26Z
@@ -5965,13 +5944,13 @@
     Updated: 2025-12-07T03:35:28Z
     Author: Markus Gothe
   - [History of Classic Board Games: Evolution and Cultural Impact](https://meepleworx.fun/blogs/the-missing-meeple/history-of-classic-board-games): History of Classic Board Games: Evolution and Cultural Impact
-    Updated: 2025-12-10T09:06:40Z
+    Updated: 2025-12-12T10:43:00Z
     Author: Meeple Worx Ltd
   - [Top Board Games for Camping: 10 Fun Picks for Family Vacations](https://meepleworx.fun/blogs/the-missing-meeple/top-board-games-for-camping): Top Board Games for Camping: 10 Fun Picks for Family Vacations
-    Updated: 2025-12-10T09:07:12Z
+    Updated: 2025-12-12T10:43:31Z
     Author: Markus Gothe
   - [Board Games Comeback: Exploring the Resurgence of Classic Fun](https://meepleworx.fun/blogs/the-missing-meeple/board-games-comeback): Board Games Comeback: Exploring the Resurgence of Classic Fun
-    Updated: 2025-12-10T09:07:30Z
+    Updated: 2025-12-12T10:43:50Z
     Author: Meeple Worx Ltd
   - [Mastering Strategy Board Games: Secrets to Winning Every Time](https://meepleworx.fun/blogs/the-missing-meeple/the-secrets-to-mastering-strategy-board-games): Mastering Strategy Board Games: Secrets to Winning Every Time
     Updated: 2025-12-09T22:41:18Z
@@ -6081,11 +6060,11 @@
   - [Strategy and Luck in Tabletop Games: A Deep Dive into Game Mechanics](https://meepleworx.fun/blogs/the-missing-meeple/understanding-strategy-and-luck-in-tabletop-games): Strategy and Luck in Tabletop Games: A Deep Dive into Game Mechanics
     Updated: 2025-12-10T00:15:48Z
     Author: Meeple Worx Ltd
-  - [The Vital Role of Sports in Community Building](https://meepleworx.fun/blogs/the-missing-meeple/the-vital-role-of-sports-in-community-building): <p>Sports have an incredible power to unite individuals, foster collaboration, and inspire passion within communities. From local football matches to larger tournaments, the influence of sports transcends competition; it’s about bringing people together. This blog delves deeply into the role of sports in community building, showcasing why they are indispensable in forging strong social ties and creating a sense of belonging.</p>
-    Updated: 2025-12-10T20:45:58Z
+  - [Sports Community Building: Strengthening Connections Through Athletics](https://meepleworx.fun/blogs/the-missing-meeple/the-vital-role-of-sports-in-community-building): Sports Community Building: Strengthening Connections Through Athletics
+    Updated: 2025-12-12T12:44:26Z
     Author: Meeple Worx Ltd
-  - [The Art of Balance in Strategy Game Design](https://meepleworx.fun/blogs/the-missing-meeple/the-art-of-balance-in-strategy-game-design): The Art of Balance in Strategy Game Design
-    Updated: 2025-12-11T11:00:41Z
+  - [Balance in Strategy Game Design: Mastering the Art of Game Mechanics](https://meepleworx.fun/blogs/the-missing-meeple/the-art-of-balance-in-strategy-game-design): Balance in Strategy Game Design: Mastering the Art of Game Mechanics
+    Updated: 2025-12-12T12:45:35Z
     Author: Meeple Worx Ltd
 
 ## Store Pages
