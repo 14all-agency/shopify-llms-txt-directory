@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2025-12-11T00:01:06.588Z
+- Updated At: 2025-12-12T00:01:07.171Z
 
 ## Products
 
@@ -1385,7 +1385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
     Price: $57.59 CAD
 - [Savannah Southwestern Blue Runner Rug | Rug Branch](https://www.rugbranch.com/products/sp2801ny): Southwestern blue runner rug from Turkey with a vibrant transitional design and durable jute backing. Perfect for hallways and narrow spaces.
-  Updated: 2025-12-09T20:13:14Z
+  Updated: 2025-12-11T07:02:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2483,7 +2483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-7100-2_4977f3c6-d9c3-4abb-95af-746690312978.jpg?v=1706027177
     Price: $76.49 CAD
 - [Montage Geometric Brown Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ve6969bg): Upgrade your space with the Montage Geometric Brown Rug. This loom-made olefin rug features a bold checkered pattern for a sleek, modern look.
-  Updated: 2025-12-10T11:14:41Z
+  Updated: 2025-12-11T02:29:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2557,14 +2557,14 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-6969-GREY_cc11e6d0-99d3-4bf5-a083-511dab5d5a71.jpg?v=1741925362
     Price: $39.79 CAD
   - [2' x 5'](https://www.rugbranch.com/products/ve6969bg?variant=42114297790487)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-6969-GREY_cc11e6d0-99d3-4bf5-a083-511dab5d5a71.jpg?v=1741925362
     Price: $57.69 CAD
   - [2' x 6'](https://www.rugbranch.com/products/ve6969bg?variant=42114297823255)
-    Availability: Available
+    Availability: Not Available
     Price: $71.39 CAD
 - [Montage Abstract Fractal Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ve6968gy): Upgrade your decor with the Montage Abstract Fractal Grey Rug. Its ornate patterns and modern design add style, while olefin and jute ensure durability.
-  Updated: 2025-12-10T11:12:38Z
+  Updated: 2025-12-11T00:36:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2646,7 +2646,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-6968-GREY_a5312c87-71ce-4b61-b8c3-e09fc493f85f.jpg?v=1741924929
     Price: $60.29 CAD
 - [Montage Geometric Modern Red Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/ve6704rd): Enhance your space with the Montage Geometric Modern Red Rug. Its checkered and circle design adds style, while olefin and jute ensure lasting durability.
-  Updated: 2025-12-10T11:24:54Z
+  Updated: 2025-12-11T01:08:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4521,7 +4521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4477-comfort-collection-area-rugs-koshani-213346_4e2bf0ed-9947-458c-b880-30522d31dd15.jpg?v=1710359895
     Price: $440.39 CAD
 - [Nova Geometric Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4474agybl): Nova Geometric Grey Rug, loom-made in Turkey with soft twisted polyester, featuring a sleek gradient block design for a stylish, modern touch.
-  Updated: 2025-12-08T18:13:23Z
+  Updated: 2025-12-11T00:36:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6978,7 +6978,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8250BG-Parent_1.jpg?v=1710346241
     Price: $326.99 CAD
 - [Eclipse Abstract Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8251bg): Eclipse Abstract Geometric Beige Rug – A Chinese loom-made rug with a sleek beige base and bold geometric curves. Durable polyester with sturdy canvas backing.
-  Updated: 2025-12-08T18:06:03Z
+  Updated: 2025-12-11T16:26:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7220,7 +7220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PR6924-Parent_1.jpg?v=1710340830
     Price: $326.99 CAD
 - [Aruba Traditional Black Rug - Distressed & Timeless | Rug Branch](https://www.rugbranch.com/products/pr6925bk): Add vintage charm with the Aruba Traditional Black Rug. Featuring a distressed design, soft polyester, and durable canvas backing for lasting elegance.
-  Updated: 2025-12-08T18:19:29Z
+  Updated: 2025-12-11T01:22:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8085,7 +8085,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
     Price: $459.99 CAD
 - [Super Soft Plush Shag Grey Rug - Cozy & Luxurious | Rug Branch](https://www.rugbranch.com/products/ssgy): Experience ultimate comfort with the Super Soft Plush Shag Grey Rug. Made from polyester with a luxe feel, this loom-made rug adds warmth to any space.
-  Updated: 2025-12-09T20:13:24Z
+  Updated: 2025-12-11T03:01:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8120,7 +8120,7 @@
     Availability: Not Available
     Price: $46.79 CAD
 - [Super Soft Plush Shag White Rug - Cozy & Elegant | Rug Branch](https://www.rugbranch.com/products/sswh): Enhance your space with the Super Soft Plush Shag White Rug. Made from ultra-soft polyester, this cozy, loom-made rug adds a touch of elegance to any room.
-  Updated: 2025-12-09T20:13:12Z
+  Updated: 2025-12-11T07:02:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9157,7 +9157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/7-501536_747e3d95-161a-4a0f-9487-c0ca62c346e1-324939.jpg?v=1709210620
     Price: $838.59 CAD
 - [Maya Abstract Modern Beige Rug – Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/le5001bg): Upgrade your space with the Maya Abstract Beige Rug, loom-made in India with soft polyester and sturdy canvas backing for modern elegance.
-  Updated: 2025-12-08T18:07:56Z
+  Updated: 2025-12-11T04:05:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9193,7 +9193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5001GY-Parent_1-min_321c5adf-782e-40d1-beca-842af5e01214.jpg?v=1710349740
     Price: $411.69 CAD
 - [Savannah Mid-Century Modern Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2855bl): Mid-century modern blue rug from Turkey with a vibrant floral pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-12-10T11:46:42Z
+  Updated: 2025-12-11T03:49:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9441,7 +9441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
     Price: $80.79 CAD
 - [Montage Geometric Checkered Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve1166br): Enhance your space with the Montage Geometric Checkered Brown Rug. Featuring a bold checkered pattern, this loom-made Turkish rug offers style and durability.
-  Updated: 2025-12-10T20:01:11Z
+  Updated: 2025-12-11T00:20:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10446,7 +10446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8975bk-parent_1_45ca25ac-edc1-4366-b43e-f2fbb4cff67b.jpg?v=1714997688
     Price: $354.29 CAD
 - [Eclipse Mid-Century Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8976bg): Modern Eclipse Mid-Century Abstract Beige Rug from China. Durable polyester with canvas backing and a sleek geometric design.
-  Updated: 2025-12-10T20:01:11Z
+  Updated: 2025-12-11T04:05:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10508,7 +10508,7 @@
     Availability: Available
     Price: $354.29 CAD
 - [Jules Modern Geometrical Grey Rug | Rug Branch](https://www.rugbranch.com/products/ba1226cr): Discover the epitome of luxury with Rug Branch's Jules Collection, where every rug is a masterpiece waiting to grace your home. With their enchanting patterns and rich hues, they add warmth and character to any room, elevating your decor to a whole new level of sophistication.
-  Updated: 2025-12-09T23:59:01Z
+  Updated: 2025-12-11T04:38:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11402,7 +11402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8327BG-Parent_1.jpg?v=1719365654
     Price: $394.99 CAD
 - [Casa Modern Beige Rug - Stylish & Cozy | Rug Branch](https://www.rugbranch.com/products/mi8344bg): Upgrade your space with the Casa Modern Beige Rug. This loom-made polyester rug features a subtle abstract pattern, perfect for contemporary interiors.
-  Updated: 2025-12-10T20:17:21Z
+  Updated: 2025-12-11T02:29:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12553,7 +12553,7 @@
     Availability: Available
     Price: $376.09 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te9005cr): Enhance your space with the Domus Abstract Rug. Its cream and black linear design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-12-08T18:06:24Z
+  Updated: 2025-12-11T07:02:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12589,7 +12589,7 @@
     Availability: Available
     Price: $376.09 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te9603cr): Upgrade your decor with the Domus Abstract Rug. Its cream and black geometric design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-12-08T18:06:27Z
+  Updated: 2025-12-11T04:05:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12783,7 +12783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/TU1735BG-Parent_1.jpg?v=1724184817
     Price: $357.39 CAD
 - [Astra Boho Beige Rug - Abstract & Cozy | Rug Branch](https://www.rugbranch.com/products/tu1946bg): Enhance your space with the Astra Boho Beige Rug. This loom-made polyester rug features a textured abstract design, perfect for a modern bohemian look.
-  Updated: 2025-12-09T20:21:57Z
+  Updated: 2025-12-11T03:33:23Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13190,7 +13190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT9803BG-Parent_1.jpg?v=1719364864
     Price: $322.99 CAD
 - [Nimbus Modern Geometric Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/va1651wh): Upgrade your space with the Nimbus Geometric Cream Rug. Its subtle striped pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-12-08T18:34:45Z
+  Updated: 2025-12-11T04:06:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13212,7 +13212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/va1651wh-parent_1.jpg?v=1718122631
     Price: $256.79 CAD
   - [8' x 11'](https://www.rugbranch.com/products/va1651wh?variant=41452512378903)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/va1651wh-parent_1.jpg?v=1718122631
     Price: $338.49 CAD
 - [Nimbus Cream Rug - Abstract & Modern | Rug Branch](https://www.rugbranch.com/products/va2116gy): Enhance your space with the Nimbus Cream Rug. This loom-made polypropylene rug features a subtle abstract design, perfect for a modern, stylish look.
@@ -16570,3920 +16570,3920 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RugBranchGiftCard_2000.png?v=1765226663
     Price: $2,000.00 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704103): The Side Table in Natual brings a touch of elegance to any room. Made from acacia wood, this table is suitable for both hospitality and residential use. Its contemporary and stylish urban style and versatile design make it a perfect addition to any decor.
-  Updated: 2025-12-10T10:44:57Z
+  Updated: 2025-12-11T11:00:19Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $672.34 CAD
 - [Side Table Natural & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704105): The Side Table in Graphite & natural offers a contemporary and stylish design with natural accents. Made from acacia wood and terrazzo, this table is perfect for both hospitality and residential use. Its urban style and long-lasting, and reliable construction make it a versatile piece for any decor.
-  Updated: 2025-12-10T10:44:58Z
+  Updated: 2025-12-11T11:00:11Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $640.84 CAD
 - [Side Table Natural & Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704106): The side table in gray & natural combines contemporary design with rustic charm. Crafted from acacia wood and terrazzo, this table is suitable for both hospitality and residential settings. Its unique texture and urban style make it a standout piece in any room.
-  Updated: 2025-12-10T10:45:00Z
+  Updated: 2025-12-11T11:00:19Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $640.84 CAD
 - [Coffee Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704110): Introduce a unique, stylish piece to your home with the Coffee Table Brown, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:00Z
+  Updated: 2025-12-11T11:00:31Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $942.00 CAD
 - [Coffee Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704113): Your outdoor space with the Coffee Table White is a remarkable example of contemporary and stylish design. Constructed from high-quality aluminum, this table offers the perfect blend of style and functionality, making it an ideal addition to patios, balconies, or garden areas. Its sleek and contemporary look ensures it stands out while enhancing the beauty of any outdoor setting.
-  Updated: 2025-12-10T10:45:01Z
+  Updated: 2025-12-11T11:00:31Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $833.91 CAD
 - [Coffee Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704116): Introduce a unique, stylish piece to your home with the Coffee Table Brown, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:10Z
+  Updated: 2025-12-11T11:00:24Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,401.60 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704136): The Side Table Black brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist exterior.
-  Updated: 2025-12-10T10:45:10Z
+  Updated: 2025-12-11T11:00:13Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $598.75 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704138): Introduce a unique, stylish piece to your home with the Coffee Table Gray, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:08Z
+  Updated: 2025-12-11T11:00:13Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $2,005.14 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704139): The Side Table Gray brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist exterior.
-  Updated: 2025-12-10T10:45:08Z
+  Updated: 2025-12-11T11:00:37Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,658.92 CAD
 - [Ottoman Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109219): The Ottoman has a wonderful boho chic braid with a fill for ergonomically designed for superior comfort seating
-  Updated: 2025-12-10T10:45:10Z
+  Updated: 2025-12-11T23:00:11Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $352.93 CAD
 - [Ottoman Misty Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109815): Your living space with the Ottoman. Crafted with a sturdy wood frame and featuring a fabric-wrapped seat, it combines form and function seamlessly. This versatile piece effortlessly complements any contemporary and stylish interior, adding both style and comfort to your home. Whether used as a footrest, extra seating, or a chic accent, the Ottoman is a perfect addition to your contemporary living space.
-  Updated: 2025-12-10T10:45:11Z
+  Updated: 2025-12-11T23:00:15Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $426.97 CAD
 - [Ottoman Beige & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109823): The woven cotton seat of the Ottoman provides a soft and ergonomically designed surface that is perfect for lounging. Its boho-hip design adds a unique and stylish touch to the overall look of the ottoman, making it a perfect fit for any contemporary and stylish living space.
-  Updated: 2025-12-10T10:45:12Z
+  Updated: 2025-12-11T23:00:14Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $501.17 CAD
 - [Ottoman Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109981): Elevate your space with the Ottoman. Wrapped in plush teddy fabric, it effortlessly enhances any setting, whether in hospitality or residential use. Boasting a contemporary and stylish design enriched with hints of glamour and deco flair, this ottoman is a striking addition to your interior. Redefine your seating and relaxation area with the ottoman, where comfort and style harmoniously come together.
-  Updated: 2025-12-10T10:45:13Z
+  Updated: 2025-12-11T23:00:16Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $847.46 CAD
 - [Ottoman Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110084): Introducing the Ottoman, a symbol of plush comfort and contemporary and stylish design. Adorned with luxurious fabric covering, this ottoman effortlessly complements a variety of contemporary and stylish spaces, from bedrooms to living areas and lofts. Its versatile presence adds an inviting touch to any room, inviting you to unwind and relax in style. Elevate your decor with the Ottoman, where plushness and contemporary aesthetics blend harmoniously.
-  Updated: 2025-12-10T10:45:12Z
+  Updated: 2025-12-11T23:00:19Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $739.22 CAD
 - [Ottoman Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110085): Meet the Ottoman, a fusion of plush indulgence and contemporary and stylish flair. Draped in sumptuous teddy fabric, this ottoman seamlessly fits into any contemporary setting, whether it's a bedroom, living area, or loft. Its adaptable presence adds a touch of comfort and style to your space, inviting you to kick back and relax in elegance. Elevate your decor with the Ottoman, where opulence and contemporary and stylish aesthetics converge effortlessly.
-  Updated: 2025-12-10T10:45:13Z
+  Updated: 2025-12-11T23:00:26Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $769.78 CAD
 - [Storage Ottoman Black & White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110181): Discover the Storage Ottoman, a perfect blend of functionality and style. This ottoman boasts a plush fabric top that invites comfort and relaxation, paired with a sturdy wood body for lasting durability. Its contemporary and stylish design, with a touch of glam, effortlessly complements any interior decor. Not just a chic seating option, it also offers practical storage space, making it ideal for keeping your living area tidy and stylish. your home with the versatile and elegant Storage Ottoman, where luxury meets practicality.
-  Updated: 2025-12-10T10:45:14Z
+  Updated: 2025-12-11T23:00:20Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $541.69 CAD
 - [Storage Ottoman Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110182): Discover the Storage Ottoman, a perfect blend of functionality and style. This ottoman boasts a plush fabric top that invites comfort and relaxation, paired with a sturdy wood body for lasting durability. Its contemporary and stylish design, with a touch of glam, effortlessly complements any interior decor. Not just a chic seating option, it also offers practical storage space, making it ideal for keeping your living area tidy and stylish. your home with the versatile and elegant Storage Ottoman, where luxury meets practicality.
-  Updated: 2025-12-10T10:45:17Z
+  Updated: 2025-12-11T23:00:24Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $541.69 CAD
 - [Ottoman Oat Yellow - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110184): Introducing the Ottoman, where classic style meets lasting durability. This ottoman boasts a solid wood frame for robust support, topped with a soft fabric cushion for ultimate comfort. Its timeless design makes it a versatile piece, fitting seamlessly into various decor styles. The Ottoman is not just an ergonomically designed, superior comfort seating option but also an elegant addition to any room. Elevate your space with this stylish and sturdy piece, seamlessly blending functionality and aesthetic appeal.
-  Updated: 2025-12-10T10:45:17Z
+  Updated: 2025-12-11T23:00:31Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $669.00 CAD
 - [Ottoman Wisteria Purple - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110185): Introducing the Ottoman, where classic style meets lasting durability. This ottoman boasts a solid wood frame for robust support, topped with a soft fabric cushion for ultimate comfort. Its timeless design makes it a versatile piece, fitting seamlessly into various decor styles. The Ottoman is not just an ergonomically designed superior comfort seating option but also an elegant addition to any room. Elevate your your space with this stylish and sturdy piece, blending functionality and aesthetic appeal effortlessly.
-  Updated: 2025-12-10T10:45:17Z
+  Updated: 2025-12-11T23:00:24Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $669.00 CAD
 - [Ottoman White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110304): With its thick and lush cord-style fabric, the sofa adds a level of sophistication to any space. It has a wood frame construction with foam supported by springs and bands with solid wood feet. A large and extremely comfy piece with a contemporary and stylish shape, it makes any living space glam and exciting.
-  Updated: 2025-12-10T10:45:18Z
+  Updated: 2025-12-11T23:00:28Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $1,341.35 CAD
 - [Ottoman Red - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110342): Discover the Ottoman, a stylish and functional addition to any room. This ottoman boasts a solid wood body, elegantly wrapped in a high-quality fabric, offering both durability and a touch of elegance. Its versatile design makes it a perfect match for a variety of decor styles, from contemporary to classic. Ideal for use as an ergonomically designed footrest for superior comfort, a footrest, additional seating, or as an accent piece, the Ottoman combines practicality with aesthetic appeal. Elevate your space with the Ottoman, where comfort meets style in perfect harmony.
-  Updated: 2025-12-10T10:45:24Z
+  Updated: 2025-12-11T23:00:32Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $469.43 CAD
 - [Ottoman Yellow - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110343): Discover the Ottoman, a stylish and functional addition to any room. This ottoman boasts a solid wood body, elegantly wrapped in a high-quality fabric, offering both durability and a touch of elegance. Its versatile design makes it a perfect match for a variety of decor styles, from contemporary to classic. Ideal for use as an ergonomically designed footrest for superior comfort, a footrest, additional seating, or as an accent piece, the Ottoman combines practicality with aesthetic appeal. Elevate your space with the Ottoman, where comfort meets style in perfect harmony.
-  Updated: 2025-12-10T10:45:23Z
+  Updated: 2025-12-11T23:00:34Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Price: $469.43 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo703989): This outdoor barstool provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-12-10T10:45:23Z
+  Updated: 2025-12-11T23:00:32Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo703990): This outdoor barstool provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-12-10T10:45:24Z
+  Updated: 2025-12-11T23:00:38Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,118.69 CAD
 - [Wave Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704027): Introducing the Barstool—a harmonious blend of style and function designed for your outdoor bar or kitchen. Crafted with a sturdy aluminum frame and featuring plush olefin fabric seating, this barstool offers both durability and comfort for your outdoor seating needs. Crafted with precision, the Wave Barstool seamlessly complements various outdoor settings, whether it's your home patio, a seaside bar, or any outdoor space in need of contemporary and stylish elegance. Its robust aluminum frame ensures long-lasting quality, making it a reliable choice for any seating arrangement. Enhance your outdoor seating experience with the barstool. Whether you're sipping cocktails with friends or adding a chic touch to your outdoor establishment, this barstool combines form and function to provide an ergonomically designed seat for superior comfort and stylish seating. Embrace contemporary and stylish outdoor design with the Barstool.
-  Updated: 2025-12-10T10:45:29Z
+  Updated: 2025-12-11T23:00:35Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $805.50 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704102): The Barstool in Natural offers a stylish seating option for any contemporary and stylish space. Featuring 100% olefin fabric and acacia wood, this barstool is perfect for both hospitality and residential environments. Its sleek, urban design ensures it fits seamlessly into any contemporary decor.
-  Updated: 2025-12-10T10:45:30Z
+  Updated: 2025-12-11T11:00:38Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,401.20 CAD
 - [Barstool (Set of 2) White & Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704140): Introduce a unique, stylish piece to your home with the Barstool White & Green, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:29Z
+  Updated: 2025-12-11T23:00:38Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,640.29 CAD
 - [Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704149): The Barstool in White is a sleek, contemporary, and stylish seating option for outdoor bar areas. Made from long-lasting and reliable aluminum, this barstool is lightweight yet sturdy. Its clean white finish complements a variety of outdoor settings, making it suitable for both residential patios and hospitality venues.
-  Updated: 2025-12-10T10:45:29Z
+  Updated: 2025-12-11T23:00:39Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $665.43 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704157): Enhance your outdoor space with the Barstool Black, a striking embodiment of contemporary and stylish design. Crafted from high-quality aluminum, this barstool perfectly balances style and practicality, making it a versatile addition to patios, decks, or outdoor bars. It's chic and contemporary aesthetic ensures it will be a standout feature in any outdoor setting.
-  Updated: 2025-12-10T10:45:31Z
+  Updated: 2025-12-11T23:00:40Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,894.81 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo703987): This outdoor dining chair provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric, blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-12-10T10:45:33Z
+  Updated: 2025-12-11T23:00:52Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,412.04 CAD
 - [Dining Chair (Set of 2) Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo703988): This outdoor dining chair provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric, blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-12-10T10:45:34Z
+  Updated: 2025-12-11T23:00:44Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,412.04 CAD
 - [Middle Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo703999): The Outdoor Sectional is sold in separate middle, corner, or ottoman pieces, allowing you to create a customized configuration that best fits your outdoor space. Each piece is crafted with a foam body and upholstered in long-lasting and reliable outdoor fabric, ensuring it can withstand the elements. Its clean lines and contemporary and stylish design make it a great addition to any outdoor space, whether you're relaxing poolside, hosting a barbecue, or simply enjoying a quiet evening outside.
-  Updated: 2025-12-10T10:45:36Z
+  Updated: 2025-12-11T23:00:49Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $643.94 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704008): Introducing the Dining Chair—a blend of form and function, designed for outdoor perfection. With a powder-coated aluminum frame and plush olefin-wrapped cushions, this chair offers both durability and comfort for al fresco dining. The Dining Chair's contemporary and stylish design and sleek silhouette effortlessly complement any outdoor living space or restaurant setting. Its weather-resistant construction ensures longevity, making it a reliable choice for year-round use. Elevate your outdoor experience with the Dining Chair. Whether you're hosting a backyard barbecue or enhancing your restaurant's outdoor parquet, this chair combines style and resilience to create a welcoming and inviting atmosphere. Embrace outdoor dining at its finest with the Dining Chair.
-  Updated: 2025-12-10T10:45:37Z
+  Updated: 2025-12-11T23:00:52Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,697.09 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704022): Introducing the Accent Chair—a versatile addition suitable for outdoor living spaces or elevating hotel outdoor seating arrangements. Crafted with a robust powder-coated aluminum frame and adorned with cushions wrapped in olefin fabric, this chair seamlessly blends durability with comfort. The Accent Chair showcases a contemporary design that effortlessly fits into various outdoor settings, whether it's your private patio haven or a hotel's al fresco seating area. Its resilience against the elements ensures its reliability for outdoor relaxation. Elevate your outdoor environment with the Accent Chair, where style and endurance converge. Whether you're creating a cozy retreat in your garden or enhancing the comfort of your hotel's outdoor lounge, this chair offers a chic and inviting outdoor seating option. Embrace the epitome of outdoor luxury with the Accent Chair.
-  Updated: 2025-12-10T10:45:42Z
+  Updated: 2025-12-11T11:01:12Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,125.72 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704024): The Accent Chair is a versatile addition, perfect for outdoor living spaces or enhancing hotel outdoor seating arrangements. Crafted with a sturdy powder-coated aluminum frame and adorned with olefin-wrapped cushions, this accent chair seamlessly combines durability and comfort. Designed with a contemporary flair, the Accent Chair effortlessly fits into various outdoor settings, whether it's your private patio retreat or a hotel's al fresco seating area. Its resilience against the elements ensures its reliability for outdoor relaxation. Elevate your outdoor ambiance with the Accent Chair, where style meets endurance. Whether you're looking to complete your garden setup or add a touch of sophistication to your hotel's outdoor lounge, this accent chair offers a chic and inviting outdoor seating solution. Embrace outdoor luxury with the Accent Chair.
-  Updated: 2025-12-10T10:45:40Z
+  Updated: 2025-12-11T11:01:05Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,268.00 CAD
 - [Reef Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704025): The Armchair, featuring a long-lasting and reliable aluminum frame and draped in olefin fabric, showcases a stylish, contemporary form adaptable to diverse environments like a rooftop deck in a condo, a serene Airbnb retreat, or an elegant boutique hotel.
-  Updated: 2025-12-10T10:45:42Z
+  Updated: 2025-12-11T11:01:23Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,789.20 CAD
 - [Lounge Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704031): Discover the Lounge Chair, a harmonious fusion of outdoor relaxation and contemporary and stylish design. Crafted with a solid acacia wood frame and a weather-resistant weave for the seat and back, this chair offers both durability and style. Whether it graces your contemporary and stylish outdoor living area or adds a touch of elegance to hospitable spaces, the lounge chair effortlessly adapts to diverse outdoor settings. With its inviting design and robust construction, it's the ideal choice for those who appreciate both aesthetics and resilience. Elevate your outdoor experience with the Lounge Chair, where comfort meets sophistication.
-  Updated: 2025-12-10T10:45:42Z
+  Updated: 2025-12-11T23:00:56Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $594.49 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704043): Introducing the Dining Chair, a stylish seating solution designed to enhance your dining experience. Crafted with meticulous attention to detail, this dining chair boasts a contemporary design that seamlessly fits into various settings. With its sturdy construction and timeless aesthetic, the dining chair effortlessly complements your dining room, kitchen, or any space in need of chic and ergonomically designed seating for superior comfort. Elevate your dining experience with the Dining Chair, where style meets practicality. Whether you're enjoying a family meal or hosting a dinner party with friends, this chair adds a touch of sophistication to your dining area. Embrace contemporary and stylish design with the Dining Chair.
-  Updated: 2025-12-10T10:45:47Z
+  Updated: 2025-12-11T23:01:02Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,732.16 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704046): In the realm of seating elegance, the accent chair stands as a paragon of both style and functionality. This chair, meticulously crafted and infused with exquisite detail, effortlessly blends aesthetic charm with practicality. With a design that embraces a contemporary aesthetic, the Accent Chair seamlessly integrates into an array of settings, whether it finds its place in your cozy living room, refined bedroom, or any space in search of a touch of sophistication. Its adaptability and steadfast reliability set it apart as a distinguished choice. Transform your interior decor with the Accent Chair, where style and utility gracefully converge. Whether you seek a captivating focal point or a refined seating solution, this chair infuses a touch of sophistication into any setting. Embrace contemporary design with the Accent Chair.
-  Updated: 2025-12-10T10:45:51Z
+  Updated: 2025-12-11T23:01:17Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,509.10 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704048): Meet the Dining Chair, a perfect blend of outdoor comfort and contemporary and stylish design. Crafted with a long-lasting and reliable aluminum frame and featuring weather-resistant fabric for the seat and back, this chair offers both style and resilience. Whether it graces your outdoor dining area or adds sophistication to hospitality spaces, the dining chair effortlessly adapts to various outdoor settings. With its inviting design and sturdy construction, it's the ideal choice for those who value aesthetics and durability. Elevate your outdoor dining experience with the Dining Chair, where comfort meets contemporary elegance.
-  Updated: 2025-12-10T10:45:52Z
+  Updated: 2025-12-11T23:01:11Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,992.00 CAD
 - [Dining Chair (Set of 2) Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704059): The Dining Chair in Natural is designed for both style and comfort. Featuring 100% olefin fabric and a robust aluminum frame, this chair is perfect for dining areas in both hospitality and residential spaces. Its contemporary and stylish urban design seamlessly integrates with various interior decors.
-  Updated: 2025-12-10T10:45:53Z
+  Updated: 2025-12-11T23:01:19Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,607.11 CAD
 - [Dining Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704077): Add a touch of contemporary and stylish sophistication to your home with the Dining Chair in White, a stunning example of contemporary design. Constructed from high-quality olefin and aluminum, this chair effortlessly balances aesthetics with practicality, making it a versatile choice for any dining space. Its sleek and chic design ensures it will be a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:57Z
+  Updated: 2025-12-11T23:01:16Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,359.67 CAD
 - [Dining Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704078): Introduce a unique, stylish piece to your home with the Dining Chair White, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:57Z
+  Updated: 2025-12-11T23:01:16Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $963.25 CAD
 - [Dining Chair Black & Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704079): In Black & Beige, a perfect embodiment of contemporary and stylish design. Crafted from premium olefin and aluminum, this chair combines style and functionality, offering a versatile seating solution for any room. Its chic, contemporary design ensures it will be a standout feature in any contemporary and stylish home, blending aesthetics and practicality seamlessly.
-  Updated: 2025-12-10T10:45:57Z
+  Updated: 2025-12-11T23:01:22Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $967.18 CAD
 - [Dining Chair Natural & Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704080): Introduce a unique, stylish piece to your home with the Dining Chair Natural & Beige, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:35Z
+  Updated: 2025-12-11T23:01:25Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $967.18 CAD
 - [Dining Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704081): Bring contemporary and stylish elegance to your home with the Dining Chair in Beige, a striking example of contemporary design. Made from high-quality polyester fabric and aluminum, this chair balances aesthetics and practicality perfectly, making it a versatile addition to any dining space. Its sleek and chic design ensures it will stand out as a stylish feature in any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:57Z
+  Updated: 2025-12-11T11:01:30Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,201.24 CAD
 - [Dining Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704082): The dining chair has a fully powder-coated aluminum frame with a matte finish. This fully welded design brings a contemporary and stylish, long-lasting, and reliable construction to a classic shape. Outdoor or indoor, this chair works well in any dining room or café.
-  Updated: 2025-12-10T10:45:57Z
+  Updated: 2025-12-11T23:01:20Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,217.43 CAD
 - [Dining Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704083): The dining chair has a fully powder-coated aluminum frame with a matte finish. This fully welded design brings a contemporary, stylish, long-lasting, and reliable construction to a classic shape. Outdoor or indoor, this chair works well in any dining room or café.
-  Updated: 2025-12-10T10:45:58Z
+  Updated: 2025-12-11T23:01:19Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,217.43 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704084): Introduce a unique, stylish piece to your home with the Dining Chair White, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:45:59Z
+  Updated: 2025-12-11T23:01:21Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,782.10 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704085): The Dining Chair Black is a contemporary and stylish masterpiece, designed for versatility and elegance. Made with premium aluminum, it provides both aesthetic appeal and functionality, fitting seamlessly into a variety of spaces. Its chic, boho-inspired design makes it the perfect piece to elevate any room or any style.
-  Updated: 2025-12-10T10:46:02Z
+  Updated: 2025-12-11T23:01:21Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,782.10 CAD
 - [Armchair Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704088): Enhance your outdoor space with the Armchair Green, a striking example of contemporary and stylish design. Crafted from high-quality olefin and aluminum, this armchair beautifully balances style and functionality, making it a versatile addition to patios, gardens, or conies. Its chic and contemporary aesthetic ensures it will be a standout feature in any outdoor setting.
-  Updated: 2025-12-10T10:46:01Z
+  Updated: 2025-12-11T11:01:48Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,110.50 CAD
 - [Lounge Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704117): The lounge chair has an olefin acrylic fabric cover and a foam bead filling. This indoor and outdoor lounge is the perfect piece for any home to add a contemporary and stylish touch, perfect for that Airbnb outdoor space.
-  Updated: 2025-12-10T10:46:07Z
+  Updated: 2025-12-11T23:01:24Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,268.00 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704124): Enhance your outdoor area with the Accent Chair Beige, a striking example of contemporary and stylish design. Crafted from premium olefin, aluminum, and polyethylene, this chair perfectly combines aesthetics with practicality, making it a versatile addition to patios, porches, or gardens. Its chic and contemporary design ensures it stands out, elevating the style of any outdoor setting.
-  Updated: 2025-12-10T10:46:07Z
+  Updated: 2025-12-11T11:01:24Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,504.25 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704126): The Accent Chair is wrapped in olefin acrylic fabric with an outdoor foam seat. With its contemporary and stylish shape and high-woven back, it adds a sense of style to any indoor or outdoor space.
-  Updated: 2025-12-10T10:46:08Z
+  Updated: 2025-12-11T11:01:34Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $3,134.25 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704128)
-  Updated: 2025-12-10T10:46:12Z
+  Updated: 2025-12-11T23:01:27Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,535.41 CAD
 - [Swivel Chair White & Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704134): Introduce a unique, stylish piece to your home with the Swivel Chair White & Brown, an exceptional example of contemporary and stylish design. Made from high-quality olefin, aluminum, and polyethylene, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:46:12Z
+  Updated: 2025-12-11T11:01:27Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,847.66 CAD
 - [Lounge Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704152): The Outdoor Lounge chair is made from recycled foam and upholstered in long-lasting and reliable outdoor olefin fabric. It is shipped compressed for easy delivery and shipping. Its clean lines and contemporary and stylish design make it a great addition to any outdoor space, whether you're relaxing poolside, hosting a barbecue, or simply enjoying a quiet evening outside.
-  Updated: 2025-12-10T10:46:12Z
+  Updated: 2025-12-11T11:01:40Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $857.91 CAD
 - [Lounge Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704153): Introducing the Lounge Chair Multicolor—a must-have for your interior. Finished in multicolor, this design is ideal for any setting. Constructed from solid acacia wood and synthetic rattan weave (100% polyethylene), it guarantees durability. Whether in a home or a hospitality setting, the Lounge Chair Multicolor excels in functionality and design. Elevate your interiors with the Lounge Chair Multicolor and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-12-10T10:46:13Z
+  Updated: 2025-12-11T11:01:26Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $634.41 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704023): The sofa is a versatile addition ideal for outdoor living spaces or enhancing hotel outdoor seating arrangements. Crafted with a sturdy powder-coated aluminum frame and adorned with olefin-wrapped cushions, this sofa offers a seamless combination of durability and comfort. With its contemporary design, the sofa effortlessly fits into various outdoor settings, whether it's your personal patio retreat or a hotel's al fresco seating area. Its resilience against the elements ensures its reliability for outdoor relaxation. Elevate your outdoor environment with the sofa, where style meets endurance. Whether you're creating a cozy corner in your garden or enhancing the comfort of your hotel's outdoor lounge, this sofa provides a chic and inviting outdoor seating solution. Embrace the epitome of outdoor luxury with the sofa.
-  Updated: 2025-12-10T10:46:13Z
+  Updated: 2025-12-11T11:01:27Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $4,362.75 CAD
 - [Reef Loveseat Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704026): Crafted with a robust aluminum frame and adorned in olefin fabric, the loveseat boasts a sleek, contemporary design suitable for various settings, from a chic condo rooftop deck to a tranquil Airbnb oasis or a boutique hotel.
-  Updated: 2025-12-10T10:46:17Z
+  Updated: 2025-12-11T11:02:06Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $3,049.20 CAD
 - [Sofa White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704045): The sofa is a true embodiment of style and functionality, offering a versatile addition suitable for various settings. Crafted with meticulous care and acute attention to detail, this sofa seamlessly harmonizes aesthetic elegance with practicality. Designed with a contemporary sensibility, the sofa effortlessly integrates into diverse environments, whether it graces your cozy living room, refined bedroom, or any space in need of a touch of sophistication. Its adaptability and reliability distinguish it as a remarkable choice. Elevate your interior decor with the sofa, where style and utility gracefully intersect. Whether you're seeking a captivating centerpiece or a refined seating solution, this sofa adds a dash of sophistication to any setting. Embrace contemporary design with the sofa.
-  Updated: 2025-12-10T10:46:17Z
+  Updated: 2025-12-11T11:01:26Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,724.75 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704047): In the realm of luxurious seating, the sofa reigns as an epitome of both style and functionality. This sofa, meticulously handcrafted and adorned with intricate detailing, seamlessly marries aesthetic charm with practicality. Designed with a contemporary flair, the sofa effortlessly integrates into an array of environments, whether it graces your inviting living room, elegant bedroom, or any space yearning for a touch of sophistication. Its versatility and steadfast reliability distinguish it as a distinguished choice. Elevate your interior decor with the sofa, where style and utility elegantly intersect. Whether you desire a captivating centerpiece or a refined seating solution, this sofa imparts a sense of sophistication to any setting. Embrace contemporary design with the sofa.
-  Updated: 2025-12-10T10:46:18Z
+  Updated: 2025-12-11T11:01:25Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,929.50 CAD
 - [Bench Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704086): Introduce a unique, stylish piece to your home with the Bench Naal, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:46:19Z
+  Updated: 2025-12-11T23:01:28Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $994.62 CAD
 - [Bench Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704087): Your home decor with the Bench Black, a striking embodiment of contemporary and stylish design. Crafted from premium aluminum, this bench seamlessly blends aesthetics with functionality, making it a versatile choice for any environment. Its contemporary and stylish appearance ensures it will be a focal point in any contemporary and stylish setting.
-  Updated: 2025-12-10T10:46:22Z
+  Updated: 2025-12-11T23:01:29Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $994.62 CAD
 - [Sofa Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704089): Enhance your living space with the Sofa Green, a remarkable showcase of contemporary and stylish design. Constructed from long-lasting and reliable olefin and aluminum, this sofa harmoniously combines style and functionality, providing a versatile option for various settings. With its sleek and contemporary look, it promises to be a striking addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:46:22Z
+  Updated: 2025-12-11T11:01:29Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $4,362.75 CAD
 - [Sofa Taupe & White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704112): Introduce a unique, stylish piece to your home with the Sofa Taupe & White, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any sp. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:46:21Z
+  Updated: 2025-12-11T11:01:37Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,205.00 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704115): Transform your outdoor area with the Sofa Gray, a striking embodiment of contemporary and stylish design. Crafted from premium olefin and aluminum, this sofa expertly combines style and practicality, providing a versatile solution for patios, decks, or gardens. It's chic and contemporary aesthetic ensures it will be a standout feature in any outdoor space.
-  Updated: 2025-12-10T10:46:23Z
+  Updated: 2025-12-11T11:01:35Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,961.00 CAD
 - [Ottoman Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704118): The Ottoman has an olefin acrylic fabric cover and a foam bead filling. This indoor and outdoor ottoman is the perfect piece for any home to add a contemporary and stylish touch, and it is ideal for that Airbnb outdoor space.
-  Updated: 2025-12-10T10:46:22Z
+  Updated: 2025-12-11T23:01:29Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $700.58 CAD
 - [Ottoman Red - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704119): Elevate your outdoor setting with the Ottoman Red, a stunning representation of contemporary and stylish design. Crafted from high-quality olefin, propylene, and Textilene, this ottoman beautifully balances style and functionality, making it a versatile choice for patios, decks, or gardens. Its chic and contemporary look ensures it will be a standout addition to any outdoor space.
-  Updated: 2025-12-10T10:46:23Z
+  Updated: 2025-12-11T11:01:42Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $534.56 CAD
 - [Sofa Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704125): Transform your outdoor area with the Sofa Beige, a stunning representation of contemporary and stylish design. Constructed from high-quality olefin, aluminum, and polyethylene, this sofa harmonizes style and functionality, providing a versatile seating option for patios, gardens, or conies. Its chic and contemporary look ensures it will be a standout piece in any outdoor setting.
-  Updated: 2025-12-10T10:46:27Z
+  Updated: 2025-12-11T11:01:29Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $3,874.50 CAD
 - [Sofa Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704127): The sofa is made with a powder-coated aluminum frame with olefin acrylic fabric coverings and accents. This sofa has a soft, contemporary, and stylish shape that brings a sense of design to any living space, indoor or outdoor, residential or hospitality.
-  Updated: 2025-12-10T10:46:27Z
+  Updated: 2025-12-11T11:01:36Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $3,669.75 CAD
 - [Loveseat Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704129): Transform your outdoor living area with the Loveseat Beige, a remarkable showcase of contemporary and stylish design. Crafted from premium olefin and aluminum, this loveseat masterfully balances style and practicality, providing a versatile seating solution for patios, gardens, or conies. Its chic and contemporary look ensures it will be a striking addition to any outdoor space.
-  Updated: 2025-12-10T10:46:27Z
+  Updated: 2025-12-11T11:01:30Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $2,063.25 CAD
 - [Ottoman Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704151): The Outdoor Sectional is sold in separate middle, corner, or ottoman pieces, allowing you to create a customized configuration that best fits your outdoor space. Each piece is crafted with a foam body and upholstered in long-lasting and reliable outdoor fabric, ensuring that it can withstand the elements. Its clean lines and contemporary and stylish design make it a great addition to any outdoor space, whether you're relaxing poolside, hosting a barbecue, or simply enjoying a quiet evening outside.
-  Updated: 2025-12-10T10:46:29Z
+  Updated: 2025-12-11T23:01:30Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $491.11 CAD
 - [Extendable Stool (Set of 2) Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704155): Introducing the Extendable Stool Natural—a must-have for your interior. This contemporary and stylish piece boasts a natural finish. Constructed from solid acacia wood, it guarantees durability. Ideal for outdoor dining, it seamlessly blends practicality with aesthetics. Elevate your interiors with the natural Extendable Stool and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-12-10T10:46:33Z
+  Updated: 2025-12-11T11:01:44Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $962.47 CAD
 - [Extendable Bench (Set of 2) Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704156): The Extendable Bench's natural wood makes a bold statement. Crafted with care, the Extendable Bench natural comes in a sophisticated, natural tone. Constructed from solid acacia wood, it guarantees durability. Ideal for outdoor living, it seamlessly blends practicality with aesthetics. Elevate your interiors with the Extendable Bench, natural, and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-12-10T10:46:32Z
+  Updated: 2025-12-11T23:01:33Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Price: $1,250.63 CAD
 - [Corner Chair Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109996): Discover the Corner Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in a rich velvet fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. The chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Corner Chair is not just seating but also a statement of sophisticated taste.
-  Updated: 2025-12-10T10:46:33Z
+  Updated: 2025-12-11T23:01:33Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,701.00 CAD
 - [Middle Chair Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109997): Discover the Middle Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in a rich velvet fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. This chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Middle Chair is not just seating but a statement of sophisticated taste.
-  Updated: 2025-12-10T10:46:34Z
+  Updated: 2025-12-11T23:01:42Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,824.92 CAD
 - [Middle Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110281): A contemporary, artistic, and opulent masterpiece, the Middle Chair is meticulously crafted from long-lasting and reliable plywood. It serves as a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design effortlessly complements any interior style, while the sumptuous velvet fabric ensures comfort and luxury. Its enduring white finish exudes sophistication in any environment. Elevate your space with this captivating piece, merging contemporary aesthetics with a hint of extravagance. Whether you desire a bold lobby focal point, a cozy living room addition, a chic bar seat, or a lavish bedroom accent, the Middle Chair delivers style and comfort in one remarkable package.
-  Updated: 2025-12-10T10:46:37Z
+  Updated: 2025-12-11T23:01:36Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,779.75 CAD
 - [Corner Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110282): A contemporary, artistic, and opulent masterpiece, the Corner Chair is meticulously crafted from long-lasting and reliable plywood. It serves as a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design effortlessly complements any interior style, while the sumptuous velvet fabric ensures comfort and luxury. Its enduring white finish exudes sophistication in any environment. Elevate your space with this captivating piece, merging contemporary aesthetics with a hint of extravagance. Whether you desire a bold lobby focal point, a cozy living room addition, a chic bar seat, or a lavish bedroom accent, the Corner Chair delivers style and comfort in one remarkable package.
-  Updated: 2025-12-10T10:46:38Z
+  Updated: 2025-12-11T23:01:41Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,858.50 CAD
 - [Modular Sectional Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110295): Introducing the Modular Sectional, a revolution in seating versatility and style. Crafted with a sturdy wood frame and adorned with sumptuous velvet seats and backs, this sectional exudes both contemporary and stylish flair and elegance. Its modular design allows the pieces to combine effortlessly, creating either a circular or crescent-shaped seating arrangement reminiscent of banquet-style gatherings. Whether arranged for intimate conversations or grand social events, the modular sectional adds sophistication and luxury to any space. Embrace its innovative design and opulent materials, making it the centerpiece of your contemporary or deco-inspired decor.
-  Updated: 2025-12-10T10:46:41Z
+  Updated: 2025-12-11T23:01:39Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,370.25 CAD
 - [Corner Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110366): Discover the Corner Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in poly linen fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. The chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Corner Chair is not just seating but also a statement of sophisticated taste.
-  Updated: 2025-12-10T10:46:46Z
+  Updated: 2025-12-11T23:01:48Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,811.25 CAD
 - [Middle Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110367): Discover the Middle Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in poly linen fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. The chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Middle Chair is not just seating but also a statement of sophisticated taste.
-  Updated: 2025-12-10T10:46:46Z
+  Updated: 2025-12-11T23:01:49Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,908.92 CAD
 - [Middle Chair Dune Greige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110432): Introduce a unique, stylish piece to your home with the Middle Chair Dune Greige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:46:47Z
+  Updated: 2025-12-11T23:01:52Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,554.27 CAD
 - [Corner Chair Dune Greige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110433): Introduce a unique, stylish piece to your home with the Corner Chair Dune Greige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:46:48Z
+  Updated: 2025-12-11T23:01:51Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,627.77 CAD
 - [Modular Sectional Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110775): Introducing the Modular Sectional, a revolution in seating versatility and style. Crafted with a sturdy wood frame and adorned with sumptuous velvet seats and backs, this sectional exudes both contemporary and stylish flair and deco elegance. Its modular design allows the pieces to combine effortlessly, creating either a circular or crescent-shaped seating arrangement reminiscent of banquet-style gatherings. Whether arranged for intimate conversations or grand social events, the modular sectional adds sophistication and luxury to any sp. Embrace its innovative design and opulent materials, making it the centerpiece of your contemporary or deco-inspired decor.
-  Updated: 2025-12-10T10:46:51Z
+  Updated: 2025-12-11T23:01:51Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Price: $1,370.25 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo102058): Clean and geometric in shape, solid and sturdy in construction, the stool/side table is made from mango wood and matte-stained. This versatile piece works in a multitude of applications as a stool or a table in any contemporary and stylish or mixed-design space.
-  Updated: 2025-12-10T10:46:51Z
+  Updated: 2025-12-11T23:01:51Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $414.08 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo102059): Clean and geometric in shape, solid and sturdy in construction, the stool/side table is made from mango wood and matte-stained. This versatile piece works in a multitude of applications as a stool or a table in any contemporary and stylish or mixed-design space.
-  Updated: 2025-12-10T10:46:51Z
+  Updated: 2025-12-11T23:01:51Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $500.47 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109085): The side table has a great minimalist shape and is made from mango wood.
-  Updated: 2025-12-10T10:46:57Z
+  Updated: 2025-12-11T23:01:54Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $593.29 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109268): The side table is made with a powder-coated steel frame. This minimalist piece looks great in any design space, industrial or contemporary and stylish, and works in residential or hospitality. It slides under most contemporary and stylish sofas.
-  Updated: 2025-12-10T10:46:56Z
+  Updated: 2025-12-11T23:01:57Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $354.00 CAD
 - [Side Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109363): The side table has a marble top on a steel base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-12-10T10:46:58Z
+  Updated: 2025-12-11T23:02:01Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $421.05 CAD
 - [Side Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109561): The side table has a steel frame with a marble top. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-12-10T10:47:02Z
+  Updated: 2025-12-11T23:02:03Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $264.89 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109563): The side table has a powder-coated steel frame and top with a marble base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-12-10T10:47:08Z
+  Updated: 2025-12-11T23:02:03Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $322.37 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109566): The side table has a steel frame with a marble top and base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-12-10T10:47:07Z
+  Updated: 2025-12-11T23:02:05Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $277.96 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109593): This fun side table has a powder-coated steel frame with a wood and rattan top, which works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-12-10T10:47:08Z
+  Updated: 2025-12-11T23:02:10Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $349.19 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109596): This side table is made with a powder-coated steel frame and trays. This fun table works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-12-10T10:47:11Z
+  Updated: 2025-12-11T23:02:11Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $299.36 CAD
 - [Accent Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109597): This table is made with a powder-coated steel frame and trays. This fun table works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-12-10T10:47:12Z
+  Updated: 2025-12-11T23:02:24Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $332.09 CAD
 - [Side Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109623): This side table has an MDF and plywood frame and two drawers wrapped in polyester fabric and sits on top of a powder-coated steel frame and looks great in any space, contemporary and stylish, urban, glam, or boho chic.
-  Updated: 2025-12-10T10:47:13Z
+  Updated: 2025-12-11T23:02:14Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $511.37 CAD
 - [Side Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109624): This side table has an MDF and plywood frame and two drawers wrapped in polyester fabric and sits on top of a powder-coated steel frame and looks great in any space, contemporary and stylish, urban, glam, or boho chic.
-  Updated: 2025-12-10T10:47:17Z
+  Updated: 2025-12-11T23:02:17Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $511.37 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109755): The side table is a sleek and stylish piece of furniture that brings a touch of contemporary and stylish minimalism to any hotel lobby. Crafted from black-painted steel, this side table boasts a unibody design that creates a seamless, flowing silhouette.
-  Updated: 2025-12-10T10:47:17Z
+  Updated: 2025-12-11T23:02:19Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $623.15 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109757): Despite its minimalist design, the side table is a highly functional piece of furniture that is built to last. Its sturdy steel construction ensures that it can withstand the rigors of daily use, while its ample surface area provides ample space for books, drinks, and other essentials.
-  Updated: 2025-12-10T10:47:19Z
+  Updated: 2025-12-11T23:02:24Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $690.59 CAD
 - [Drink Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109758): The multicolor marble top of the drink table provides a unique and sophisticated look to the overall design. The natural variations in the marble create a one-of-a-kind surface that is both elegant and long-lasting, and reliable. The sleek and sturdy steel body of the table provides a stable base for the marble top, while also adding a contemporary and stylish touch to the overall design.
-  Updated: 2025-12-10T10:47:22Z
+  Updated: 2025-12-11T23:02:25Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $540.75 CAD
 - [Drink Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109766): The Drink Table is a beautiful and functional piece of furniture that adds a touch of contemporary and stylish sophistication to any space. Its high-quality materials, sleek design, and versatility make it a great choice for those looking for a contemporary and stylish drink table for their home or hospitality space.
-  Updated: 2025-12-10T10:47:21Z
+  Updated: 2025-12-11T23:02:27Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $343.37 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109772): The side table is a contemporary and stylish piece of furniture that can be used in both residential and hospitality settings. It is made of walnut-lacquered acacia wood, which gives it a warm and natural look. The side table has a simple and minimalist design that fits well in any contemporary and stylish interior. It can be used as a bedside table, next to a sofa or armchair, or in a hotel room as a functional and stylish accessory. The side table is a versatile and practical piece that can enhance the aesthetic appeal of any space.
-  Updated: 2025-12-10T10:47:22Z
+  Updated: 2025-12-11T23:02:31Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $649.13 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109773): The side table boasts a walnut lacquered finish on its acacia wood construction, making it an ideal choice for both living room and hotel room settings. Its simple yet elegant design and sturdy construction make it a versatile piece that can be used as a side table or end table. The side table's warm finish adds a touch of natural beauty to any room and can easily complement a variety of decor styles.
-  Updated: 2025-12-10T10:47:23Z
+  Updated: 2025-12-11T23:02:31Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $710.47 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109774): The side table is a luxurious and elegant piece of furniture that boasts a beautiful combination of acacia wood and gold-brushed steel. Its contemporary and stylish glam design and sturdy construction make it a perfect addition to any hotel lobby or living room.
-  Updated: 2025-12-10T10:47:27Z
+  Updated: 2025-12-11T23:02:33Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $656.25 CAD
 - [Nesting Table Set (2-Piece) Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109776): The coffee table set is a stylish and functional addition to any contemporary and stylish living space. Crafted from high-quality natural acacia wood, the coffee table top boasts a warm and inviting texture that adds a touch of naal elegance to the overall design. The sleek steel frame provides a sturdy base that adds a contemporary and stylish touch to the design while also ensuring long-lasting durability. This coffee table set is versatile and can be used in both hospitality and residential settings. It includes a matching side table, providing ample surface area for display or storage.
-  Updated: 2025-12-10T10:47:27Z
+  Updated: 2025-12-11T23:02:45Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $690.04 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109777): The side table is a sleek, contemporary, and stylish piece of furniture that boasts a bronze steel frame and a painted wood top. Its minimalist and elegant design makes it a perfect addition to any contemporary and stylish living room or hotel lobby.
-  Updated: 2025-12-10T10:47:28Z
+  Updated: 2025-12-11T23:02:38Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $465.25 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109834): Experience the epitome of contemporary elegance with the Side Table, an exquisite fusion of glam and contemporary and stylish design. Crafted with a powder-coated steel frame and adorned with a sleek glass top, this side table exudes sophistication and luxury, making it a captivating addition to any space. Its versatility knows no bounds - from the grandeur of hotel lobbies to the intimacy of living rooms or bedside settings, the side table is the perfect embodiment of style and functionality.
-  Updated: 2025-12-10T10:47:33Z
+  Updated: 2025-12-11T23:02:44Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $512.63 CAD
 - [Side Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109862): Overall, the side table is a contemporary, stylish, and sophisticated piece of furniture that combines a white marble top with a natural, whitewashed frame. Its durability, versatility, and elegant design make it a great choice for anyone looking to add a touch of sophistication and functionality to their residential or hospitality space.
-  Updated: 2025-12-10T10:47:33Z
+  Updated: 2025-12-11T23:02:47Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $740.82 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109867): The sleek, contemporary, and stylish design of the side table makes it a perfect addition to any contemporary or minimalist space. Its natural wood finish adds a touch of warmth and texture to the overall design, while the clean lines create a sleek and sophisticated look.
-  Updated: 2025-12-10T10:47:32Z
+  Updated: 2025-12-11T23:03:16Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $565.93 CAD
 - [Side Table Set (2-Piece) White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109919): The Side Table Set is a sleek, contemporary, and stylish piece of furniture perfect for any contemporary living room or hotel lobby. It boasts an elegant white marble top. The base of the table is made from painted wood, which adds a touch of warmth to the overall design while maintaining the minimalist aesthetic. The clean lines and simple design of the coffee table make it an excellent choice for those who appreciate contemporary and stylish minimalist decor. Whether you're looking for a coffee table for your home or a hotel lobby, the Coffee Table is a stylish and functional choice.
-  Updated: 2025-12-10T10:47:37Z
+  Updated: 2025-12-11T23:02:49Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $945.00 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109923): The natural white-washed acacia wood top of the side table provides a warm and inviting surface that is perfect for displaying decorative items or storing everyday essentials. Its minimalist design adds a sleek and contemporary and stylish touch to the overall look of the table, making it a perfect fit for any contemporary living space. The sturdy construction of the table ensures long-lasting durability, making it a great choice for daily use.
-  Updated: 2025-12-10T10:47:37Z
+  Updated: 2025-12-11T23:02:50Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $573.55 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109924): The Side Table is a pinnacle of contemporary and stylish design that transcends the boundaries of form and function. Its black-painted acacia wood finish serves as a portal to the depths of the human psyche, evoking a sense of mystery and intrigue.
-  Updated: 2025-12-10T10:47:38Z
+  Updated: 2025-12-11T23:03:22Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $510.97 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109929): Timeless and classic, the side table adds a contemporary flare to any room. The entire table is gloss painted, made with a top and a steel base.
-  Updated: 2025-12-10T10:47:41Z
+  Updated: 2025-12-11T23:02:54Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $895.48 CAD
 - [Side Table Gold & Beige - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110141): The Side Table Gold & Beige brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:47:41Z
+  Updated: 2025-12-11T11:02:55Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $688.63 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110143): The Side Table Multicolor brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:47:41Z
+  Updated: 2025-12-11T11:02:55Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $612.65 CAD
 - [Side Table Gold & Beige - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110145): The Side Table Gold & Beige brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:47:41Z
+  Updated: 2025-12-11T11:02:56Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $500.93 CAD
 - [Side Table Gold & Beige - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110146): The side table in gold & beige adds a contemporary and stylish flair to your living space with its sleek design and functional build. Made from long-lasting and reliable iron, this table makes a chic companion to your sofa or bedside, offering a convenient place for essentials or decorative items. Its elegant silhouette and contemporary appeal allow it to blend effortlessly into both boho-inspired and minimalist interiors, making it a versatile choice for any room.
-  Updated: 2025-12-10T10:47:42Z
+  Updated: 2025-12-11T11:02:57Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $583.63 CAD
 - [Side Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110149): The White & Black Side Table brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble, MDF, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:47:47Z
+  Updated: 2025-12-11T11:03:25Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $542.93 CAD
 - [Side Table Set (2-Piece) Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110153): Enhance your living space with the Side Table Set, adorned with long-lasting and reliable aluminum frames and elegant glass tops. This contemporary and stylish duo seamlessly combines robustness and chic design, making it a versatile addition to any room. Make a stylish statement with the Side Table Set, where form and function harmoniously coexist in your home.
-  Updated: 2025-12-10T10:47:46Z
+  Updated: 2025-12-11T23:03:11Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $894.37 CAD
 - [Side Table Set (2-Piece) Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110155): Upgrade your living space with the Side Table Set, featuring sturdy aluminum bodies. This contemporary and stylish duo effortlessly combines durability and style, making it a versatile addition to any room. Make a sophisticated statement with the Side Table Set, where form and function blend seamlessly in your home.
-  Updated: 2025-12-10T10:47:48Z
+  Updated: 2025-12-11T23:03:02Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $1,386.61 CAD
 - [Accent Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110225): Introducing the Accent Table, a remarkable piece crafted from solid acacia wood. Its contemporary, organic design beautifully merges elements of minimalism and maximalism. This table is more than just furniture; it's a statement of art that seamlessly complements contemporary and stylish interiors. Elevate your decor with the Accent Table, where the timeless allure of acacia wood blends with an intriguing fusion of design aesthetics.
-  Updated: 2025-12-10T10:47:56Z
+  Updated: 2025-12-11T23:03:13Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $628.45 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110239): Introducing the Side Table, a remarkable creation meticulously crafted from solid mango wood. Its versatility shines through as it effortlessly harmonizes with an array of design styles, from the contemporary and glamorous to the art deco and maximalist, making it equally suitable for hotels and home interiors. Elevate your decor with the Side Table, where the timeless charm of mango wood imbues character and adaptability into any space, catering to those who value both aesthetics and substance.
-  Updated: 2025-12-10T10:48:00Z
+  Updated: 2025-12-11T23:03:33Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $647.47 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110242): Explore the side table, a striking piece designed with a captivating shape. Crafted to perfection with mango wood, this table complements a variety of design aesthetics, including contemporary and stylish, glam, deco, and maximalist styles. Ideal for both homes and hotels, the side table combines artistic form with functionality, enhancing any interior with its unique and eye-catching silhouette. Elevate your decor with the side table, where exceptional design takes center stage.
-  Updated: 2025-12-10T10:48:00Z
+  Updated: 2025-12-11T23:03:16Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $525.34 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110244): Introducing the Side Table, a remarkable creation that boasts an exceptional design. Expertly crafted with mango wood to suit various design aesthetics, from contemporary and stylish and glam to maximalist, it's a versatile addition ideal for both homes and hotels. Elevate your decor with the side table, where its distinctive charm and shape make a bold statement, promising to captivate and enhance any interior setting.
-  Updated: 2025-12-10T10:48:02Z
+  Updated: 2025-12-11T23:03:18Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $556.77 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110245): Meet the Side Table, a true design marvel made of solid mango wood. With its captivating form and impeccable craftsmanship, it effortlessly complements a range of design styles, from contemporary and stylish to glamorous and deco maximalist. Ideal for both homes and hotels, the side table adds a touch of sophistication to any interior. Elevate your decor with the side table, whose unique shape takes center stage, promising to enhance and captivate any setting.
-  Updated: 2025-12-10T10:48:03Z
+  Updated: 2025-12-11T23:03:21Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $559.94 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110252): Introducing the side table, a striking masterpiece crafted from solid mango wood. With its charismatic presence, it shines whether in a hotel lobby or a contemporary and stylish living room, effortlessly embracing maximalist design aesthetics. Elevate your decor with the Side Table, where the natural beauty of mango wood meets a bold, minimalist expression, adding character and opulence to any setting.
-  Updated: 2025-12-10T10:48:08Z
+  Updated: 2025-12-11T23:03:25Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $438.00 CAD
 - [Side Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110256): Meet the Side Table, a luxurious creation featuring a cast aluminum base and exquisite marble top. Perfect for hotel lobbies or contemporary and stylish living spaces, it exudes hints of glam that add a touch of opulence to any setting. Elevate your decor with the Harmas Side Table, where the robust elegance of cast aluminum meets the timeless beauty of marble, resulting in an irresistible fusion of style and sophistication.
-  Updated: 2025-12-10T10:48:08Z
+  Updated: 2025-12-11T23:03:28Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $675.44 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110347): Meet the Side Table, a perfect fusion of elegance and durability. Its sintered stone top offers both visual appeal and resilience, while the steel legs are expertly wrapped in vinyl for a sleek finish. This side table is a versatile addition to any space, whether it complements your living room decor or adds a contemporary and stylish touch to your office setup. The side table not only provides a stylish surface for your essentials but also exudes contemporary sophistication. your decor with the side table, where form meets function in perfect harmony.
-  Updated: 2025-12-10T10:48:09Z
+  Updated: 2025-12-11T23:03:59Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $791.89 CAD
 - [Side Table Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110364): The Side Table Silver brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired decor or minimalist interior.
-  Updated: 2025-12-10T10:48:09Z
+  Updated: 2025-12-11T11:03:31Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $518.89 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110592): The Side Table in White exudes a clean, contemporary, and stylish aesthetic. Made from sleek marble and iron, this side table is perfect for adding a touch of elegance to any living room or hospitality environment. Its bright white finish pairs effortlessly with a variety of decor styles, making it a versatile accent for contemporary interiors.
-  Updated: 2025-12-10T10:48:15Z
+  Updated: 2025-12-11T11:03:32Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $935.00 CAD
 - [Side Table White & Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110597): The Side Table in White & Brass is a stylish and functional accent piece for any contemporary and stylish living space. Its marble surf and iron frame provide both durability and elegance, while the white and brass color palette adds a touch of sophistication. Perfect for residential and hospitality settings, this side table is a versatile addition to any decor.
-  Updated: 2025-12-10T10:48:14Z
+  Updated: 2025-12-11T11:03:36Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $505.07 CAD
 - [Side Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110598): The side table in brass is a sleek and contemporary and stylish piece perfect for indoor living spaces. Crafted from iron with a polished marble top, this side table exudes elegance and durability. The brass finish enhances its contemporary and stylish design, making it a great addition to residential or hospitality settings. Its compact form is ideal for living rooms, bedrooms, or lounges, providing a functional and stylish surface.
-  Updated: 2025-12-10T10:48:14Z
+  Updated: 2025-12-11T11:03:34Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $743.09 CAD
 - [Side Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110601): The side table in brass is a refined piece crafted for contemporary and stylish indoor living. Constructed from glass, marble, and iron, the brass finish adds a layer of sophistication to its design. Perfect for residential or hospitality settings, this side table offers a stylish solution for living rooms, bedrooms, or lounges.
-  Updated: 2025-12-10T10:48:14Z
+  Updated: 2025-12-11T11:03:33Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $931.71 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110603): The side table in multicolor adds a lively touch to any indoor space. Constructed from terrazzo and iron, this table is not only long-lasting and reliable but also offers a unique, colorful design. Ideal for contemporary and stylish residential or hospitality interiors, it provides a fun and functional surface for living rooms, bedrooms, or lounges.
-  Updated: 2025-12-10T10:48:15Z
+  Updated: 2025-12-11T11:03:32Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $677.63 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110606): The side table in black is a contemporary and stylish accent piece, combining marble and iron for a sleek, stylish look. Its black finish brings a bold, contemporary touch to any indoor living area. Ideal for residential or hospitality use, this side table offers a functional yet elegant surface for living rooms or bedrooms.
-  Updated: 2025-12-10T10:48:18Z
+  Updated: 2025-12-11T11:03:36Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $850.63 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110613): The Side Table Bronze brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand, cast glass, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:19Z
+  Updated: 2025-12-11T11:03:34Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $358.07 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110614): The Side Table Bronze brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand-cast glass and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:19Z
+  Updated: 2025-12-11T11:03:35Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $922.51 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110616): The Side Table Black brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand-cast glass and aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:22Z
+  Updated: 2025-12-11T11:03:40Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $1,186.92 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110619): The Side Table Black brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand-cast glass and aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:23Z
+  Updated: 2025-12-11T11:03:39Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $727.48 CAD
 - [Nesting Tables (2-Piece) Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110621): Bring a contemporary and stylish touch to your home with the Nesting Tables in Bronze, a stunning example of contemporary design. Made from premium recycled sand-cast glass and iron, these tables perfectly combine style and functionality, providing a versatile solution for any space. Their sleek and chic design ensures they will stand out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:48:23Z
+  Updated: 2025-12-11T11:03:37Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $1,280.96 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110625): The side table naturally brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from mango wood and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:23Z
+  Updated: 2025-12-11T11:03:40Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $690.59 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110627): The Side Table Multicolor brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble, MDF, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:24Z
+  Updated: 2025-12-11T23:03:37Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $535.77 CAD
 - [Side Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110630): The Side Table White & natural brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:27Z
+  Updated: 2025-12-11T11:03:37Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $444.44 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110672): The Side Table White brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:29Z
+  Updated: 2025-12-11T11:03:39Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $648.21 CAD
 - [Side Table Brown & White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110673): The Side Table Brown & White brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble, mango wood, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:33Z
+  Updated: 2025-12-11T11:04:05Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $655.16 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110674): The side table in multicolor adds a contemporary and stylish charm to your living space with its sleek design and functional construction. Made from iron and marble, this table serves as a stylish companion next to your sofa or bedside, offering a convenient place for essentials or decor. Its smooth silhouette and contemporary appeal allow it to seamlessly complement both boho-inspired and minimalist interiors, making it a versatile addition to any room.
-  Updated: 2025-12-10T10:48:33Z
+  Updated: 2025-12-11T23:03:53Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $584.09 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110676): The Side Table Multicolor brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:33Z
+  Updated: 2025-12-11T11:03:41Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $687.37 CAD
 - [Side Table Brown & White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110734): The Side Table Brown & White brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:33Z
+  Updated: 2025-12-11T11:04:14Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $774.63 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110738): The Side Table Walnut brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:42Z
+  Updated: 2025-12-11T11:03:41Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $666.83 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110795): The Side Table Bronze brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:48:38Z
+  Updated: 2025-12-11T11:03:44Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $613.39 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110804): The Side Table in Walnut is a compact, stylish piece designed for contemporary and stylish indoor spaces. Crafted from mango wood, its walnut finish adds warmth and sophistication to living rooms, bedrooms, or lounges. Suitable for both residential and hospitality environments, this side table is perfect for enhancing any contemporary and stylish decor.
-  Updated: 2025-12-10T10:48:36Z
+  Updated: 2025-12-11T11:04:18Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $598.94 CAD
 - [Accent Table Set (2-Piece) Antique Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo405002): Accent tables are designed with a gorgeous set of legs together to create both form and function. A distressed antique gold finish gives them texture and additional visual interest. The rimmed top keeps everything contained.
-  Updated: 2025-12-10T10:48:42Z
+  Updated: 2025-12-11T23:03:44Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Price: $612.32 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101854): With its art deco shape, the sofa uses its glam and maximalist design to fit in any space. This sofa is covered in a lush velvet with electroplated gold legs. This sofa looks great in any home or hotel.
-  Updated: 2025-12-10T10:48:42Z
+  Updated: 2025-12-11T23:03:51Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $1,827.00 CAD
 - [Sofa Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101925): The ultimate in contemporary and stylish lounging, the sofa is wrapped in long-lasting and reliable vinyl with a powder-coated black steel frame. This sofa makes any space pop with a minimalist and urban style.
-  Updated: 2025-12-10T10:48:42Z
+  Updated: 2025-12-11T23:03:52Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $2,709.00 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109341): The sofa has a polyester shearling-style fabric. This sofa works great in any space, hospitality, or residential. The shape and design are glam, contemporary, and stylish deco and boho all at the same time.
-  Updated: 2025-12-10T10:48:43Z
+  Updated: 2025-12-11T23:03:56Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $3,811.50 CAD
 - [Sofa Light Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109342): The sofa has a polyester shearling-style fabric. This sofa works great in any space, whether it is hospitality or residential. The shape and design are glam, contemporary, stylish, deco, and boho all at the same time.
-  Updated: 2025-12-10T10:48:47Z
+  Updated: 2025-12-11T23:03:57Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $3,811.50 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109343): The sofa has a polyester shearling-style fabric. This sofa works great in any space, whether it is hospitality or residential. The shape and design are glam, contemporary, stylish, deco, and boho all at the same time.
-  Updated: 2025-12-10T10:48:47Z
+  Updated: 2025-12-11T23:04:08Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $3,969.00 CAD
 - [Sofa Vanilla - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110024): Introducing the Sofa, where plush comfort and contemporary design unite. Enveloped in cozy teddy fabric and built on a robust steel frame, this sofa is an ideal choice for any space. With its contemporary and stylish aesthetic, it effortlessly complements hotel lobbies and living areas. Embrace the inviting comfort of the teddy fabric. Elevates your interior with the sofa, where style and durability seamlessly come together.
-  Updated: 2025-12-10T10:48:47Z
+  Updated: 2025-12-11T23:04:06Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $1,890.00 CAD
 - [Sofa Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110027): Meet the Sofa, where durability and style effortlessly combine. Draped in resilient vinyl and supported by a robust steel frame, this sofa adds charm to any setting. With its contemporary and stylish design, it effortlessly enhances hotel lobbies and living areas. Experience lasting comfort and chic style with the sofa, where resilience harmoniously blends with contemporary design.
-  Updated: 2025-12-10T10:48:48Z
+  Updated: 2025-12-11T23:04:34Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $2,457.00 CAD
 - [Sofa Red - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110028): Introducing the Sofa, a seamless blend of durability and luxury. Cloaked in sumptuous velvet and supported by a sturdy steel frame, this chair exudes elegance in any setting. With its contemporary and stylish design, it effortlessly elevates hotel lobbies and living areas. Experience enduring comfort and opulent style with the sofa, where resilience seamlessly meets plush velvet.
-  Updated: 2025-12-10T10:48:49Z
+  Updated: 2025-12-11T23:04:09Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $2,457.00 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110079): The ultimate in contemporary and stylish lounging, the sofa is wrapped in long-lasting and reliable vinyl with a powder-coated black steel frame. This sofa makes any space pop with a minimalist and urban style.
-  Updated: 2025-12-10T10:48:52Z
+  Updated: 2025-12-11T23:04:29Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $2,488.50 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110277): Presenting the Sofa, a luxurious addition to any living space that combines comfort with contemporary style. Upholstered in plush cord-style fabric, this sofa offers a unique texture and a cozy seating experience. Its design is both contemporary and stylish and inviting, making it an ideal choice for a variety of settings, from a trendy loft to a casual living room. The sofa not only provides an ergonomically designed place to relax but also adds a touch of sophistication to your space. Embrace the blend of contemporary and stylish elegance and inviting comfort with the sofa.
-  Updated: 2025-12-10T10:48:52Z
+  Updated: 2025-12-11T23:04:13Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $3,921.75 CAD
 - [Loveseat Taupe - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110306): Presenting the Loveseat, a harmonious blend of contemporary and stylish sophistication and deco-inspired luxury. Crafted with a sturdy wood frame and enveloped in lavish velvet, this loveseat exudes timeless elegance and comfort. Its sleek design seamlessly combines contemporary and stylish aesthetics with deco influences, making it the perfect addition to upscale hotels or stylish homes. Whether placed in a chic hotel lobby or a cozy living room, the loveseat adds a touch of opulence to any space. Embrace its luxurious materials and versatile design, creating a captivating focal point that elevates your interior decor to new heights.
-  Updated: 2025-12-10T10:48:53Z
+  Updated: 2025-12-11T23:04:15Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $2,740.50 CAD
 - [Loveseat Taupe - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110430): Introduce a unique, stylish piece to your home with the Loveseat Taupe, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:48:57Z
+  Updated: 2025-12-11T11:04:17Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Price: $3,213.00 CAD
 - [Bar Cart Multicolor - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109778): Introducing the Bar Cart, a stunning and contemporary and stylish piece of furniture that adds a touch of elegance and functionality to any living room or dining area. The bar cart boasts a deco-inspired design with a combination of brown lacquered acacia wood and brushed steel.
-  Updated: 2025-12-10T10:48:57Z
+  Updated: 2025-12-11T23:04:21Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $1,253.38 CAD
 - [Bar Cart Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109845): Introducing the Bar Cart: A harmonious blend of form and function. This sleek black bar cart boasts a robust steel frame, tempered glass shelves, and luxurious marble accents. Its minimalist design effortlessly complements any interior, from contemporary and stylish to classic. Effortless mobility is guaranteed with smooth-rolling casters, and a locking mechanism adds stability. Beyond its role as a stylish bar cart, it's a versatile piece that adapts to your needs, whether as a coffee station, storage solution, or chic display unit. Elevate your entertaining and decor with the bar cart today.
-  Updated: 2025-12-10T10:49:01Z
+  Updated: 2025-12-11T23:04:23Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $707.76 CAD
 - [Sideboard Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110296): Indulge in the sophistication of the sideboard, where elegance meets functionality in perfect harmony. Crafted with precision, this sideboard boasts a robust MDF wood frame complemented by sleek wood legs, ensuring both durability and style. Its adaptable design effortlessly fits into contemporary and stylish, glam, or deco-inspired living spaces, adding a touch of refinement to any room. With generous storage capacity, the sideboard keeps your essentials organized while enhancing the aesthetic appeal of your home decor. Elevate your space with the timeless charm and practicality of the sideboard, a statement piece that exudes sophistication and versatility.
-  Updated: 2025-12-10T10:49:02Z
+  Updated: 2025-12-11T23:04:22Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $2,047.50 CAD
 - [Entertainment Stand Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110297): Introducing the Entertainment Stand, where style meets functionality in perfect harmony. Crafted with precision, this stand boasts a robust MDF wood frame with storage paired with charming wood legs, ensuring both durability and visual appeal. Its versatile design effortlessly complements contemporary and stylish, glam, or deco-inspired living spaces, seamlessly integrating into any room decor. With ample storage space, the Entertainment Stand keeps your media essentials organized while elevating the overall aesthetic of your entertainment area. Elevate your home entertainment experience with the timeless charm and practicality of the Entertainment Stand, a statement piece that exudes sophistication and versatility.
-  Updated: 2025-12-10T10:49:02Z
+  Updated: 2025-12-11T23:04:30Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $1,764.57 CAD
 - [Cabinet Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110799): The The Cabinet in natural offers a perfect balance of form and function. Made from solid acacia wood, this storage cabinet brings a natural, organic element to indoor living spaces. Its contemporary and stylish design is suitable for residential homes or hospitality environments, providing ample storage while maintaining a sleek, minimalist aesthetic.
-  Updated: 2025-12-10T10:49:07Z
+  Updated: 2025-12-11T11:04:52Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $1,821.83 CAD
 - [Cabinet Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110800): The Cabinet in Walnut is a sophisticated storage solution for contemporary and stylish interiors. Crafted from solid acacia wood, this cabinet boasts a rich walnut finish that enhances its elegant design. Perfect for both residential and hospitality spaces, the cabinet offers practical storage with a stylish touch, making it ideal for living rooms or bedrooms.
-  Updated: 2025-12-10T10:49:06Z
+  Updated: 2025-12-11T11:04:52Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $1,479.91 CAD
 - [Wide Entertainment Stand Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110881): Scandinavian in design the series boasts narrow, slim strips of solid fir wood, creating a modern, open, airy design finished in a rich walnut finish. The Wide TV Stand boasts a front-opening door with an adjustable shelf and holes for TV component accessibility.
-  Updated: 2025-12-10T10:49:07Z
+  Updated: 2025-12-11T23:04:29Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $1,779.75 CAD
 - [Cabinet Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo199050): The Scandinavian design of the series boasts narrow, slim strips of solid fir wood, creating a modern, airy design in a rich walnut finish. The cabinet boasts two front-opening doors, 2 interior drawers with two adjustable shelves, and holes for TV component accessibility.
-  Updated: 2025-12-10T10:49:09Z
+  Updated: 2025-12-11T23:04:30Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $1,842.75 CAD
 - [Credenza Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo199051): Scandinavian in design, the series boasts narrow, slim strips of solid fir wood, creating a modern, airy design finished in a rich walnut finish. It boasts two front-opening doors, two interior drawers with two adjustable shelves, and holes for TV component accessibility.
-  Updated: 2025-12-10T10:49:11Z
+  Updated: 2025-12-11T23:04:32Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Price: $2,157.75 CAD
 - [Table Lamp White & Bronze - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56050): Like a waterfall of tea lights, the Hale Ceiling Lamp sports six glass cylinders of varying shapes and sizes. Crafted from glass and chrome. 6 x Max Watt 10 W G4 Type Halogen Type G4. UL approved and listed.
-  Updated: 2025-12-10T10:49:13Z
+  Updated: 2025-12-11T23:04:39Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $598.63 CAD
 - [Table Lamp Black & White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56080): Overreaching and so stylish. This retro contemporary and stylish table lamp with its conical steel shade goes out of its way to keep you on task. Simply turn its white cube base to direct light exactly where you need it. Perfect on your desk or bedside table.
-  Updated: 2025-12-10T10:49:18Z
+  Updated: 2025-12-11T23:04:35Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $404.25 CAD
 - [Table Lamp Beige & White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56100): Elegant, contemporary, and stylish, the table lamp has a polyester shade, a brass-plated steel neck, and a marble base. It is the perfect lamp for any upscale, maximalist, or urban space.
-  Updated: 2025-12-10T10:49:17Z
+  Updated: 2025-12-11T23:04:36Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $500.22 CAD
 - [Table Lamp Red & Gold - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56137): The table lamp has a steel body and a polyester shade. This lamp has a glam design that fits in any bedroom, desk, or foyer.
-  Updated: 2025-12-10T10:49:17Z
+  Updated: 2025-12-11T23:04:38Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $363.43 CAD
 - [Table Lamp Gray & Black - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56138): The table lamp has a steel frame with a polyester shade. This lamp looks great on any desk or nightstand with its simple, contemporary, and stylish look.
-  Updated: 2025-12-10T10:49:18Z
+  Updated: 2025-12-11T23:04:40Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $405.43 CAD
 - [Table Lamp Brown & Brass - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56139): The table lamp has a steel frame with a brushed finish and a wood laminate finish on the upper arm. This contemporary, stylish, and minimalist lamp looks great on any desk or nightstand. Includes a USB port.
-  Updated: 2025-12-10T10:49:22Z
+  Updated: 2025-12-11T23:04:41Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $478.93 CAD
 - [Table Lamp Bronze - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56141): Crafted to enhance your ambiance, the table lamp boasts quality materials that ensure both durability and beauty. The sturdy base and refined detailing exude an air of industrial elegance, while the sleek lines and minimalist form embrace contemporary and stylish aesthetics, making it a versatile lamp that enhances various settings.
-  Updated: 2025-12-10T10:49:21Z
+  Updated: 2025-12-11T23:04:49Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $390.37 CAD
 - [Table Lamp White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56146): The table lamp effortlessly complements both hotel and home interiors. Crafted with premium materials for enduring allure and durability. Its glow transforms any space into an elegant sanctuary.
-  Updated: 2025-12-10T10:49:24Z
+  Updated: 2025-12-11T23:04:49Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $330.86 CAD
 - [Table Lamp Black - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56150): The table lamp's clean lines and minimalist form bring a sense of simplicity and tranquility, reflecting the balance found in the natural world. Its warm and inviting glow fills your room with an aura of serenity, making it an ideal addition to any living room, bedroom, or workspace.
-  Updated: 2025-12-10T10:49:23Z
+  Updated: 2025-12-11T23:04:46Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $605.47 CAD
 - [Table Lamp White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56151): Discover the allure of the table lamp, a captivating piece that seamlessly marries charm with contemporary and stylish elegance. Versatile and stylish, this lamp complements both hotel and home settings, becoming a striking addition to any room.
-  Updated: 2025-12-10T10:49:24Z
+  Updated: 2025-12-11T23:04:55Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $362.36 CAD
 - [Table Lamp Red - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56154): Crafted with meticulous attention to detail, the table lamp exudes enduring beauty and quality. Its boho influence brings a sense of artistic form and creativity, while Art Deco influences add a touch of vintage grandeur. Modern accents bring contemporary sophistication, making this lamp a true testament to harmonious design.
-  Updated: 2025-12-10T10:49:27Z
+  Updated: 2025-12-11T23:04:48Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $421.07 CAD
 - [Table Lamp Pink - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56179): Introduce a unique, stylish piece to your home with the Table Lamp Pink, an exceptional example of contemporary and stylish design. Made from high-quality PVC and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:49:26Z
+  Updated: 2025-12-11T23:04:47Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $259.01 CAD
 - [Table Lamp Beige & Gold - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56181): Introduce a unique, stylish piece to your home with the Table Lamp Beige & Gold, an exceptional example of contemporary and stylish design. Made from high-quality PVC and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:49:30Z
+  Updated: 2025-12-11T11:04:49Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Price: $283.23 CAD
 - [Ceiling Lamp Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo50209): The ceiling lamp has a large 2-level bell-shaped shade. Shade material surrounds a metal architecture with a grey polyester woven thread zigzag pattern woven throughout the pattern, creating a soft, see-through shade. Install in kitchens or day rooms, group over living and dining rooms, and perfect for a softer look for your contemporary and stylish design. Max Watt 60 W, Size E26, Type A19. UL approved and listed. Bulbs are not included; they are sold separately.
-  Updated: 2025-12-10T10:49:33Z
+  Updated: 2025-12-11T11:04:49Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $575.63 CAD
 - [Ceiling Lamp Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56016): Synthetic woven strands of zip-zagged as the simple teardrop shape encapsulates a single light; perfect for urban spaces and eclectic design. Max Watt 60 W, Size E26, Type A19. UL approved and listed. Bulbs are not included; they are sold separately.
-  Updated: 2025-12-10T10:49:33Z
+  Updated: 2025-12-11T11:04:49Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $272.77 CAD
 - [Ceiling Lamp Chrome - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56057): Make any room more glamorous with our eye-catching chandelier. Faceted, clear crystals elegantly cast a prism-like reflection around your room. Looks fabulous hanging over a dining table or as a statement piece in an entryway. Bulbs are not included; they are sold separately.
-  Updated: 2025-12-10T10:49:34Z
+  Updated: 2025-12-11T23:04:50Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $930.19 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56065): Mid-century inspiration results in this ten-light contemporary and stylish masterpiece. Its black metal frame with a three-dimensional point design and clear glass globes makes it so versatile. It hangs perfectly over a dining table & looks stunning in an entry. The perfect choice to beautifully illuminate any space.
-  Updated: 2025-12-10T10:49:37Z
+  Updated: 2025-12-11T23:04:56Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $925.93 CAD
 - [Ceiling Lamp Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56093): Adds warmth to your living room, dining room table, kitchen area, or even a child's play area. Design with paper rope for a natural look that brings life and texture to any space. Bulbs are not included; they are sold separately.
-  Updated: 2025-12-10T10:49:38Z
+  Updated: 2025-12-11T23:04:58Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $591.44 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56113): With contemporary, stylish, and geometric shapes, the ceiling lamp has a gold-plated steel body, a matte black steel shade, and a frosted glass shade. This lamp is for any space, living area, hotel lobby, or contemporary and stylish minimalist kitchen.
-  Updated: 2025-12-10T10:49:42Z
+  Updated: 2025-12-11T23:05:00Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $597.45 CAD
 - [Ceiling Lamp Brass - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56116): Fun, contemporary, and stylish, the ceiling lamp has a gold-plated steel frame. This simple lamp works well in any size space and can be installed in groups for a maximum cluster effect.
-  Updated: 2025-12-10T10:49:44Z
+  Updated: 2025-12-11T23:05:03Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $268.93 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56121): Fun and functional, the ceiling lamp has a polyurethane body, polyester braided wire, and can be plugged directly into a 110 AC outlet. Super versatile, this lamp works well in any space: a small dining area, bedroom, entryway, or any other space.
-  Updated: 2025-12-10T10:49:44Z
+  Updated: 2025-12-11T23:05:05Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $174.43 CAD
 - [Ceiling Lamp Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56123): With its boho chic and warm shape, the ceiling lamp is a versatile statement piece for any space: kitchen, dining, bedroom, or even hotel lobby. The shade has a powder-coated steel frame wrapped in a polyester straw-style weave
-  Updated: 2025-12-10T10:49:50Z
+  Updated: 2025-12-11T23:05:05Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $695.18 CAD
 - [Ceiling Lamp Brass - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56166): Introducing the Ceiling Lamp, a visionary marvel of contemporary and stylish lighting. Crafted with a resilient steel frame and featuring a flexible silicone LED light tube, this lamp redefines both durability and innovation. Its avant-garde design seamlessly integrates into a myriad of interior aesthetics, from contemporary chic to futuristic sophistication. Whether illuminating a minimalist workspace or enhancing the ambiance of a cutting-edge SO, the ceiling lamp illuminates any space with its unparalleled versatility. Embrace the sleek lines and dynamic functionality of the ceiling lamp, where the robust steel frame complements the flexible LED light tube, delivering an illuminating experience like no other.
-  Updated: 2025-12-10T10:49:49Z
+  Updated: 2025-12-11T23:05:02Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $1,354.42 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56167): The ceiling lamp boasts a contemporary and stylish design that combines functionality with style. Its sleek steel frame houses a flexible silicon LED light tube, providing innovative lighting solutions. Versatile and sophisticated, this lamp complements various interior aesthetics, from contemporary to urban chic. Whether illuminating a cozy home office or adding flair to a trendy loft space, the ceiling lamp delivers both practicality and elegance. Embrace its sleek lines and dynamic illumination, where cutting-edge technology meets timeless design for an exceptional lighting experience.
-  Updated: 2025-12-10T10:49:47Z
+  Updated: 2025-12-11T23:05:05Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Price: $686.91 CAD
 - [High Back Office Chair Taupe - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100373): High back office chair boasts a slim yet ergonomically designed for superior comfort, high back with added lumbar support, soft 100% polyurethane upholstery, and chrome arms. You sit elegantly as smooth glides create effortless motion. The tilting mechanism and seat height are both adjustable as hydraulic pistons sit on a metal star base to seamlessly glide you into place. Color options are black, white, gray & taupe 100% polyurethane.
-  Updated: 2025-12-10T10:49:53Z
+  Updated: 2025-12-11T23:05:05Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $973.75 CAD
 - [Conference Chair Taupe - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100379): Confece chair boasts a slim yet ergonomically designed for a superior comfort profile with added lumbar support, and soft 100% polyurethane upholstery accented with chrome star base. Color options are black, white & taupe 100% polyurethane.
-  Updated: 2025-12-10T10:49:55Z
+  Updated: 2025-12-11T23:05:07Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $773.96 CAD
 - [Dining Chair (Set of 2) Vintage Espresso - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100505): This dining chair's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and a crossbar for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T10:49:57Z
+  Updated: 2025-12-11T23:05:08Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $590.84 CAD
 - [Armchair Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo100917): With its crushed velvet fabric look, the chair has a solid wood frame and plush cushions. It looks great in any glam or sophisticated hotel lobby, or contemporary and stylish living area, or as a comfy statement piece for any bedroom.
-  Updated: 2025-12-10T10:49:59Z
+  Updated: 2025-12-11T23:05:13Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,406.64 CAD
 - [Dining Chair (Set of 2) Walnut & Light Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100979): This retro-contemporary and stylish chair gets an update with a flared open back. Simple lines make it a mainstay in any kitchen area. The contrasting ed cun in neutral gray provides comfort and visual interest.
-  Updated: 2025-12-10T10:49:55Z
+  Updated: 2025-12-11T23:05:12Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,432.72 CAD
 - [Dining Chair (Set of 2) Brown & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101269): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in brown faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:50:01Z
+  Updated: 2025-12-11T23:05:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) White & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101270): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in white faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:50:07Z
+  Updated: 2025-12-11T23:05:25Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) Black & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101271): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in black faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:50:07Z
+  Updated: 2025-12-11T23:05:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) White & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101273): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in white faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Matte brown Faux Wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:50:09Z
+  Updated: 2025-12-11T23:05:22Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,026.25 CAD
 - [Dining Chair (Set of 2) White & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101279): This sleek armless dining chair lets you sit back and relax in comfort. It's perfectly pitched back cradling you, while the sturdy steel frame supports your every move. The white faux leather seat is beautifully stitched, adding a designer detail to a simple profile. Protective plastic feet keep your floors from scratching. Gorgeous around your table, or pulled up to the desk in your home office.
-  Updated: 2025-12-10T10:50:12Z
+  Updated: 2025-12-11T23:05:29Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,042.78 CAD
 - [Dining Chair (Set of 2) Azure Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101695): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:50:17Z
+  Updated: 2025-12-11T23:05:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Beige & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101696): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in walnut heat-transfer vinyl-wrapped steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:50:19Z
+  Updated: 2025-12-11T11:05:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101696_3_86213a6f-4434-4bfb-96c0-62378855b69d.jpg?v=1765363818
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101777): The Chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this chair fits in any dining room, home office, or even as a bedroom accent chair. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:50:17Z
+  Updated: 2025-12-11T23:05:34Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $576.43 CAD
 - [Office Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101780): The Office Chair has mid-century contemporary and stylish urban lines and looks great in any space. The solid steel frame is powder coated with a matte black finish and has a heavy-duty vinyl covering. This chair fits in any room or home office, or even as a bedroom accent chair.
-  Updated: 2025-12-10T10:50:24Z
+  Updated: 2025-12-11T23:05:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $416.95 CAD
 - [Office Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101781): The Office Chair has mid-century contemporary and stylish urban lines and looks great in any space. The solid steel frame is powder coated with a matte black finish and has a heavy-duty vinyl covering. This chair fits in any room or home office, or even as a bedroom accent chair.
-  Updated: 2025-12-10T10:50:24Z
+  Updated: 2025-12-11T23:05:43Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $416.95 CAD
 - [Office Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101782): The Office Chair has mid-century contemporary and stylish urban lines and looks great in any space. The solid steel frame is powder coated with a matte black finish and has a heavy-duty vinyl covering. This chair fits in any room or home office, or even as a bedroom accent chair.
-  Updated: 2025-12-10T10:50:27Z
+  Updated: 2025-12-11T23:05:42Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $437.95 CAD
 - [Office Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101821): Get your work done in style with this classic armchair, showcasing faux leather upholstery and rolling design. Set it behind a mahogany desk for a traditional look.
-  Updated: 2025-12-10T10:50:28Z
+  Updated: 2025-12-11T23:05:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $546.25 CAD
 - [Office Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101822): Get your work done in style with this classic armchair, showcasing faux leather upholstery and rolling design. Set it behind a mahogany desk for a traditional look.
-  Updated: 2025-12-10T10:50:28Z
+  Updated: 2025-12-11T23:05:44Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $546.25 CAD
 - [Office Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101823): The Office Chair has a mid-century contemporary and stylish urban line and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this chair fits in any dining room, home office, or even as a bedroom accent chair. The frame and base are chrome-edged for a sleek, contemporary, and stylish look.
-  Updated: 2025-12-10T10:50:29Z
+  Updated: 2025-12-11T23:05:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $584.87 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101856): The chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this chair fits in any dining room, home office, or even as a bedroom accent chair. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:50:33Z
+  Updated: 2025-12-11T23:05:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,011.19 CAD
 - [Dining Chair (Set of 2) Vintage Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101947): With a contemporary and stylish scoop shape, the chair has a steel frame with powder-coated steel legs and is wrapped in vinyl or polyester fabric. This chair completes any dining or workspace, in any design, contemporary and stylish, minimal, or boho industrial.
-  Updated: 2025-12-10T10:50:34Z
+  Updated: 2025-12-11T23:05:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $700.60 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101949): With a contemporary and stylish scoop shape, the chair has a steel frame with powder-coated steel legs and is wrapped in vinyl or ester fabric. This chair completes any dining or workspace, in any design, contemporary and stylish, minimal, or boho industrial.
-  Updated: 2025-12-10T10:50:37Z
+  Updated: 2025-12-11T23:05:55Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $700.60 CAD
 - [Office Chair Espresso - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109022): This office chair has a simple frame, height, and locking tilt adjustment, with a rolling base. Looks great in any home, office, or commercial space.
-  Updated: 2025-12-10T10:50:42Z
+  Updated: 2025-12-11T23:05:59Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $595.37 CAD
 - [Dining Chair (Set of 2) White & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109068): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:50:48Z
+  Updated: 2025-12-11T23:06:14Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109325): The dining chair has powder-coated steel legs wrapped in a soft-textured polyester fabric. This chair has a mix of soft boho textures with a contemporary and stylish shape. It looks great in any space, dining room, bedroom, or restaurant bar.
-  Updated: 2025-12-10T10:50:54Z
+  Updated: 2025-12-11T23:06:11Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $908.40 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109328): The dining chair has powder-coated steel legs and is wrapped in a soft-textured polyester fabric. This chair has a mixture of soft boho textures and a contemporary and stylish shape. It looks great in any space, dining room, bedroom, or restaurant bar.
-  Updated: 2025-12-10T10:50:54Z
+  Updated: 2025-12-11T23:06:24Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $908.40 CAD
 - [Accent Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109345): The Accent Chair has a polyester shearling-style fabric. This chair works great in any space, hospitality, or residential. The shape and design are glam, contemporary, and stylish, deco, and boho, all at the same time.
-  Updated: 2025-12-10T10:50:55Z
+  Updated: 2025-12-11T23:06:14Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,631.28 CAD
 - [Accent Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109346): The Accent Chair has a polyester shearling-style fabric. This chair works great in any space, hospitality, or residential. The shape and design are glam, contemporary, and stylish, deco and boho, all at the same time.
-  Updated: 2025-12-10T10:51:00Z
+  Updated: 2025-12-11T23:06:25Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,631.28 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109364): The dining chair has a powder-coated steel frame with a water-resistant covering. This chair is a perfect hospitality piece with its durability and ease of cleaning.
-  Updated: 2025-12-10T10:51:02Z
+  Updated: 2025-12-11T23:06:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $935.13 CAD
 - [Dining Chair (Set of 2) Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109400): The dining chair has a powder-coated steel frame with a water-resistant covering. This chair is a perfect hospitality piece with its durability and ease of cleaning.
-  Updated: 2025-12-10T10:51:03Z
+  Updated: 2025-12-11T23:06:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $930.13 CAD
 - [Accent Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109518): This chair is wrapped in a shearling-style polyester and a powder-coated steel frame; it has a soft, contemporary, and stylish look with plush and boho lines. It looks great in any space, hotel lobby, spacious loft, or glam bedroom.
-  Updated: 2025-12-10T10:51:06Z
+  Updated: 2025-12-11T23:06:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,302.52 CAD
 - [York Accent Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109522): This chair is wrapped in velvet and sits on a powder-coated steel base, takes a contemporary and stylish shape, and combines it with deco style. It fits in any space, hotel lobby, spacious loft, or glam bedroom.
-  Updated: 2025-12-10T10:51:08Z
+  Updated: 2025-12-11T23:06:32Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,245.91 CAD
 - [Office Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109528): The office chair has polyester-wrapped cushions and arms with a height-adjustable rolling base. It's subtle, contemporary, and stylish. Mixed with a boho shape, it looks great in any home office or corporate headquarters.
-  Updated: 2025-12-10T10:51:12Z
+  Updated: 2025-12-11T23:06:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $637.45 CAD
 - [Office Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109529): The office chair has polyester-wrapped cushions and arms with a height-adjustable rolling base. It's subtle, contemporary, and stylish. Mixed with a boho shape, it makes it look great in any home office or corporate headquarters.
-  Updated: 2025-12-10T10:51:11Z
+  Updated: 2025-12-11T23:06:42Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $637.45 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109535): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:51:16Z
+  Updated: 2025-12-11T23:06:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Azure Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109536): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:51:16Z
+  Updated: 2025-12-11T23:06:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Black & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109549): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:51:21Z
+  Updated: 2025-12-11T23:06:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,173.27 CAD
 - [Dining Chair (Set of 2) White & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109550): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:51:20Z
+  Updated: 2025-12-11T23:06:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,173.27 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109628): This dining chair boasts an electroplated steel frame with a polyester seat, offering a glamorous remix of mid-century contemporary and stylish design. It works great in any space, whether residential or hospitality.
-  Updated: 2025-12-10T10:51:22Z
+  Updated: 2025-12-11T23:06:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $505.03 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109630): This dining chair has an electroplated steel frame with a faux leather seat. It is glam and a deco remix of a mid-century contemporary and stylish design that works great in any space, residential or hospitality.
-  Updated: 2025-12-10T10:51:22Z
+  Updated: 2025-12-11T23:06:56Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $505.03 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109648): This dining chair's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and a crossbar for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T10:51:26Z
+  Updated: 2025-12-11T23:06:59Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $590.84 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109651): This dining chair's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and a crossbar for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T10:51:26Z
+  Updated: 2025-12-11T23:07:00Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $590.84 CAD
 - [Dining Chair (Set of 2) Navy Blue - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109654): This dining chair has a powder-coated steel frame with a polyester fabric-wrapped seat and back that works in any space, residential or hospitality, and gives a glam or boho-chic look to every room.
-  Updated: 2025-12-10T10:51:26Z
+  Updated: 2025-12-11T23:07:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $872.87 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109655): This dining chair has a powder-coated steel frame with a polyester fabric-wrapped seat and back that works in any space, residential or hospitality, and gives a glam or boho-chic look to every room.
-  Updated: 2025-12-10T10:51:27Z
+  Updated: 2025-12-11T23:07:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $872.87 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109657): This dining chair has a powder-coated steel frame with a polyester fabric-wrapped seat and back that works in any space, residential or hospitality, and gives a glam or boho chic look to every room.
-  Updated: 2025-12-10T10:51:28Z
+  Updated: 2025-12-11T23:07:06Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $914.87 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109658): This chair has a powder-coated steel frame with a polyester fabric-wrapped seat and is an urban and boho-chic remix of a mid-century contemporary and stylish classic that works great in any space, residential or hospitality.
-  Updated: 2025-12-10T10:51:32Z
+  Updated: 2025-12-11T23:07:09Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $478.90 CAD
 - [Dining Chair (Set of 2) Light Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109659): This chair has a powder-coated steel frame with a polyester fabric-wrapped seat and is an urban and boho-chic remix of a mid-century contemporary and stylish classic that works great in any space, residential or hospitality.
-  Updated: 2025-12-10T10:51:32Z
+  Updated: 2025-12-11T23:07:10Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $505.03 CAD
 - [Dining Chair (Set of 2) Gray & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109661): This dining chair has a slender frame that combines mid-century contemporary and stylish with glamour and decorative elements and works well in residential or hospitality settings.
-  Updated: 2025-12-10T10:51:31Z
+  Updated: 2025-12-11T23:07:13Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $863.73 CAD
 - [Dining Chair (Set of 2) Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109663): This dining chair has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T10:51:32Z
+  Updated: 2025-12-11T23:07:15Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,109.83 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109664): This dining chair has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T10:51:33Z
+  Updated: 2025-12-11T23:07:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,109.83 CAD
 - [Dining Chair (Set of 2) Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109669): This dining chair has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T10:51:37Z
+  Updated: 2025-12-11T23:07:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $750.88 CAD
 - [Dining Chair (Set of 2) Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109677): This elegant dining chair has a beautifully wrapped seat and back with a fine frame that combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality. It also stacks for storage.
-  Updated: 2025-12-10T10:51:37Z
+  Updated: 2025-12-11T23:07:22Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,306.72 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109679): This elegant dining chair has a beautifully wrapped seat and back with a fine frame that combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality. It also stacks for storage.
-  Updated: 2025-12-10T10:51:38Z
+  Updated: 2025-12-11T23:07:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,306.72 CAD
 - [Dining Chair Gray & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109713): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-12-10T10:51:43Z
+  Updated: 2025-12-11T23:07:30Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $570.53 CAD
 - [Dining Chair Navy Blue & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109715): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-12-10T10:51:43Z
+  Updated: 2025-12-11T23:07:34Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $591.53 CAD
 - [Dining Chair Green & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109716): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-12-10T10:51:42Z
+  Updated: 2025-12-11T23:07:32Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $591.53 CAD
 - [Dining Chair Black & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109717): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-12-10T10:51:43Z
+  Updated: 2025-12-11T23:07:35Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $591.53 CAD
 - [Dining Chair (Set of 2) Beige & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109731): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish, the steel frame fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:51:45Z
+  Updated: 2025-12-11T23:07:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,173.27 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109738): The Dining Chair is a contemporary and stylish seating option that boasts an ivory polyester seat and a black steel frame. Its sleek and sophisticated design makes it a perfect addition to any contemporary and stylish hotel or home kitchen.
-  Updated: 2025-12-10T10:51:47Z
+  Updated: 2025-12-11T23:07:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $425.54 CAD
 - [Dining Chair (Set of 2) Green & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109804): Your space with the counter stool. Luxurious velvet, gold-electroplated steel, and a stackable design unite in this versatile, contemporary, and stylish masterpiece. Upgrade your decor with style, comfort, and functionality.
-  Updated: 2025-12-10T10:51:47Z
+  Updated: 2025-12-11T23:07:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $973.54 CAD
 - [Accent Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109817): The Accent Chair is a perfect blend of comfort and style. The cotton seat is not only cozy but also provides excellent support for long sitting periods. The chair's unique and eye-catching multicolor pattern is sure to be a conversation starter and a focal point in any room. Its sturdy steel frame ensures stability and durability, while its contemporary and stylish and boho-inspired design elements make it a great addition to any room setting.
-  Updated: 2025-12-10T10:51:48Z
+  Updated: 2025-12-11T23:07:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $377.73 CAD
 - [Accent Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109818): Overall, the Accent Chair is a stylish and unique seating option that combines contemporary and stylish and boho-inspired design elements. It's ergonomically designed for superior comfort; its cotton seat, sturdy steel frame, and eye-catching multicolor pattern make it a statement piece that adds charm and personality to any space.
-  Updated: 2025-12-10T10:51:49Z
+  Updated: 2025-12-11T23:07:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $377.73 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109873): With a deco-contemporary and stylish look, the chair is wrapped in polyester and sits on top of a powder-coated steel base. This chair pops in any dining space, glam, boho chic, or contemporary and stylish.
-  Updated: 2025-12-10T10:51:52Z
+  Updated: 2025-12-11T23:07:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $931.43 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109874): A new deco contemporary and stylish look, the chair is wrapped in polyester and sits on top of a powder-coated steel base. This chair pops in any dining space, glam, boho chic, or contemporary and stylish. With a deco-contemporary and stylish look, the chair is wrapped in ester and sits on top of a powder-coated steel base. This chair pops in any dining space, glam, boho chic, or contemporary and stylish.
-  Updated: 2025-12-10T10:51:52Z
+  Updated: 2025-12-11T23:07:52Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $931.43 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109876): A curved silhouette with simple button tufting makes this retro-contemporary and stylish occasional chair a perfect match for any decor and in any room. Luxurious linen-like fabric in gray is soft and ergonomically designed for superior comfort. Simple tapered legs in light brown support this classic beauty.
-  Updated: 2025-12-10T10:51:53Z
+  Updated: 2025-12-11T23:08:05Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,024.21 CAD
 - [Armchair Vintage Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109903): Classically contemporary and stylish in shape and design, the Arm Chair is ergonomically designed for superior comfort and style, wrapped in long-lasting and reliable vinyl and on powder-coated steel legs. This piece fits in any home or office lobby.
-  Updated: 2025-12-10T10:51:57Z
+  Updated: 2025-12-11T23:08:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,577.39 CAD
 - [Accent Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109932): Discover the Accent Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in a boucle-like fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. This chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the chair's versatile design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The accent chair is not just seating but a statement of sophisticated taste.
-  Updated: 2025-12-10T10:51:58Z
+  Updated: 2025-12-11T23:08:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,953.00 CAD
 - [Dining Chair (Set of 2) Slate Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109934): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. A beautifully stitched design in slate gray faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:51:58Z
+  Updated: 2025-12-11T23:08:07Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109948): Experience the dining chair—a flawless fusion of contemporary and stylish Art Deco design. Boasting a long-lasting and reliable vinyl seat and sturdy steel frame, this chair seamlessly complements any interior, be it a trendy hotel dining area or an elegant home setting. With its harmonious blend of comfort and style, the dining chair invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your dining space with the unmatched allure of the dining chair today.
-  Updated: 2025-12-10T10:52:01Z
+  Updated: 2025-12-11T23:08:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $784.54 CAD
 - [Chair Display Light Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109959): Modular seating display shelving system with adjustable height, tempered glass shelves, and LED light.
-  Updated: 2025-12-10T10:52:02Z
+  Updated: 2025-12-11T23:08:16Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $2,146.83 CAD
 - [Adjustable Shelf Light Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109960): Modular seating display shelving system with adjustable height, tempered glass shelves, and LED light.
-  Updated: 2025-12-10T10:52:03Z
+  Updated: 2025-12-11T23:08:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $571.41 CAD
 - [Dining Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109963): Discover the Dining Chair, a perfect blend of style and functionality for contemporary and stylish, deco, or glam dining areas. This chair's luxurious fabric seat offers supreme comfort, ideal for long, engaging meals in both residential and hospitality settings. Its robust steel frame boasts a sleek design, providing stability and durability without compromising on elegance. The dining chair's versatile aesthetic complements a variety of decor themes, making it an excellent choice for anyone looking to add a touch of sophistication to their dining space. Embrace comfort and style with the Dining Chair, a statement piece for any elegant setting.
-  Updated: 2025-12-10T10:52:06Z
+  Updated: 2025-12-11T23:08:20Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,140.66 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109976): The occasional chair has soft marbled 100% polyurethane fabric in a rich coffee color, with curved lines and slim wood legs.
-  Updated: 2025-12-10T10:52:06Z
+  Updated: 2025-12-11T23:08:24Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,697.43 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109977): Introducing the Dining Chair, where durability meets contemporary and stylish elegance. Ideal for any contemporary or glam dining area, this chair is perfect for both residential and bustling hospitality environments. The chair is upholstered in high-quality performance fabric, offering both luxurious comfort and resilience against spills and wear. Its solid wood frame, rich in natural texture and strength, promises lasting stability and adds a warm, organic touch to your dining space. The chair's versatile design effortlessly complements various interior themes, making it a superb choice for those seeking a blend of sophistication, durability, and style. The dining chair is not just a seat; it's an enhancement to any sophisticated dining experience.
-  Updated: 2025-12-10T10:52:07Z
+  Updated: 2025-12-11T23:08:23Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,301.43 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109978): Introducing the Dining Chair, a harmonious fusion of style and function. This chair is the perfect addition to any contemporary and stylish decor or glam dining space, whether in residential or hospitality settings. With its sleek design and exceptional craftsmanship, the dining chair exudes elegance and sophistication. Crafted with a keen eye for detail, this chair boasts a performance fabric seat, ensuring both comfort and durability. The solid wood frame adds a touch of natural beauty and strength, promising long-lasting support and stability. Versatile and timeless, the dining chair effortlessly complements a range of interior styles, making it a versatile choice for those who appreciate a blend of aesthetics and functionality. Elevate your dining experience with the Dining Chair, where comfort and style converge for an exquisite dining setting.
-  Updated: 2025-12-10T10:52:09Z
+  Updated: 2025-12-11T23:08:25Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,024.19 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109979): Meet the Dining Chair, a chic blend of durability and style, ideal for contemporary and stylish to glam dining spaces. Featuring a robust solid wood frame paired with a resilient performance fabric seat, it offers comfort and sophistication. Its versatile design ensures it fits seamlessly in various settings, from home dining rooms to upscale restaurants. The dining chair is more than just seating; it's a statement of elegance and functionality.
-  Updated: 2025-12-10T10:52:12Z
+  Updated: 2025-12-11T23:08:26Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,526.70 CAD
 - [Accent Chair Taupe - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109983): Introducing the loveseat, where sophistication meets comfort. Adorned in opulent velvet fabric and supported by sleek wooden legs, it seamlessly elevates any environment, ideal for both hospitality and residential settings. With its contemporary and stylish design infused with elements of glamour and deco flair, this loveseat becomes a captivating focal point in your interior. Redefine your seating experience with the loveseat, where comfort and style unite effortlessly.
-  Updated: 2025-12-10T10:52:11Z
+  Updated: 2025-12-11T23:08:28Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $933.76 CAD
 - [Accent Chair Sandy Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109989): Elevates your space with the accent chair, a perfect blend of contemporary and stylish style and comfort. Adorned with luxurious fabric upholstery, it effortlessly enhances any setting, whether it's for hospitality or residential use. With its contemporary design, infused with elements of glamour and deco flair, this chair becomes a captivating centerpiece in your interior. Redefine your seating experience with the Accent Chair, where sophistication and comfort effortlessly converge.
-  Updated: 2025-12-10T10:52:17Z
+  Updated: 2025-12-11T23:08:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,340.20 CAD
 - [Dining Chair Misty Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109990): Transform your dining area with the dining chair. Its exquisite fabric cover and elegant design create a versatile seating solution suitable for hospitality and residential spaces. With a contemporary and stylish aesthetic highlighted by touches of glamour and deco flair, the dining chair is an eye-catching addition that seamlessly combines style and comfort. Upgrade your dining experience with this exceptional piece.
-  Updated: 2025-12-10T10:52:16Z
+  Updated: 2025-12-11T23:08:33Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,364.60 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109993): Meet the Dining Chair: a versatile and chic addition to any space, whether it's your home or a hotel. Wrapped in quality fabric, this bench seamlessly blends into various rooms and design styles, from deco to contemporary and stylish and glam. The Dining Chair is the perfect balance of style and practicality for your interior needs.
-  Updated: 2025-12-10T10:52:17Z
+  Updated: 2025-12-11T23:08:34Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,117.26 CAD
 - [Accent Chair Red - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109999): Discover the Accent Chair, a beacon of contemporary elegance, perfect for adding a touch of sophistication to any space, from the grandeur of hotel lobbies to the intimacy of living rooms. This chair is gracefully draped in sumptuous velvet, offering a visually stunning and sensuously tactile experience. Supported by a long-lasting and reliable steel frame, the Accent Chair not only promises longevity but also complements the luxurious feel of the velvet.
-  Updated: 2025-12-10T10:52:21Z
+  Updated: 2025-12-11T23:08:37Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,729.48 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110003): Meet the Dining Chair, a perfect fusion of comfort and elegance. Draped in plush teddy fabric and supported by a robust steel frame, it effortlessly elevates any environment, be it in hospitality or residential settings. With its contemporary design enriched with touches of glamour and deco flair, this chair becomes a captivating centerpiece in your interior. Redefine your dining experience with the Dining Chair, where style and comfort converge harmoniously.
-  Updated: 2025-12-10T10:52:27Z
+  Updated: 2025-12-11T23:08:43Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $826.54 CAD
 - [Dining Chair Misty Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110005): Introducing the Dining Chair Misty Gray, a harmonious blend of comfort and style. Draped in sumptuous teddy fabric and framed with sturdy steel, it seamlessly elevates any space, whether it's a hospitality setting or your own home. With a contemporary design that exudes hints of glamour and deco flair, this chair adds a captivating touch to your interior. Redefine your dining experience with the Dining Chair Misty Gray, where sophistication and comfort unite seamlessly
-  Updated: 2025-12-10T10:52:27Z
+  Updated: 2025-12-11T23:08:46Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,322.64 CAD
 - [Accent Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110006): Introducing the Accent Chair, a touch of luxury and sophistication for any space. Adorned in sumptuous velvet, this chair boasts plush comfort and a contemporary and stylish design that seamlessly complements both hotel lobbies and living areas. With its glamorous details and inspired shape, the Accent Chair is a statement piece that combines style and comfort effortlessly. your interior with this elegant addition, where opulence meets contemporary design.
-  Updated: 2025-12-10T10:52:27Z
+  Updated: 2025-12-11T23:08:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $2,063.88 CAD
 - [Accent Chair Golden Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110007): Meet the Accent Chair, a plush and velvety masterpiece that effortlessly enhances any hotel lobby or living area. With its contemporary design, glamorous details, and captivating deco shape, this chair is the epitome of contemporary and stylish sophistication. Its luxurious velvet covering provides both comfort and style. Elevates your interior with the Accent Chair, where opulence and contemporary design unite harmoniously.
-  Updated: 2025-12-10T10:52:28Z
+  Updated: 2025-12-11T23:08:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,984.50 CAD
 - [Accent Chair Mauve Pink - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110008): Introducing the Accent Chair, an embodiment of plush comfort and contemporary and stylish elegance. Cloaked in opulent velvet, this chair adds a touch of luxury to any hotel lobby or living area. Its contemporary design, adorned with glamorous details and a distinctive deco shape, elevates the ambiance. Redefine your space with the Accent Chair, where sophistication seamlessly meets plush comfort.
-  Updated: 2025-12-10T10:52:30Z
+  Updated: 2025-12-11T23:08:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,575.00 CAD
 - [Accent Chair Truffle Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110014): Meet the Accent Chair, a perfect blend of style and durability. Adorned with resilient vinyl covering, this chair enhances any hotel lobby or living area. Its contemporary and stylish design, complemented by glamorous details and a distinctive deco shape, radiates sophistication. Experience lasting comfort and style with the Accent Chair, where resilience effortlessly merges with contemporary design.
-  Updated: 2025-12-10T10:52:34Z
+  Updated: 2025-12-11T23:08:55Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $967.24 CAD
 - [Swivel Chair Blue - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110015): Meet the Band Swivel Chair, a symbol of contemporary and stylish elegance suitable for both cutting-edge and traditional settings. Wrapped in a boucle-like fabric, it offers an inviting, tactile experience. This chair's standout feature is its smooth swivel mechanism, enhancing interaction and mobility. Supported by a sturdy plywood frame, it combines lasting durability with luxurious comfort. Its adaptable design effortlessly complements various decor styles, from contemporary to Art deco. The Band Swivel Chair isn't just a piece of furniture; it's a fusion of functionality, comfort, and style, making it a perfect addition to any refined interior.
-  Updated: 2025-12-10T10:52:37Z
+  Updated: 2025-12-11T23:08:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,494.76 CAD
 - [Dining Chair (Set of 2) Dove Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110017): Your dining experience with the Dining Chair. Adorned in luxurious teddy fabric and built on a sturdy steel frame, it effortlessly enhances any setting, whether it's in a hospitality establishment or a residential space. With its contemporary and stylish design, infused with elements of glamour and deco flair, this chair becomes an eye-catching addition to your interior. Redefine your dining space with the Dining Chair, where style and comfort effortlessly converge.
-  Updated: 2025-12-10T10:52:37Z
+  Updated: 2025-12-11T23:08:59Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,199.33 CAD
 - [Dining Chair (Set of 2) Maroon Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110018): Your dining experience with the Dining Chair. Adorned in luxurious teddy fabric and built on a sturdy steel frame, it effortlessly enhances any setting, whether it's in a hospitality establishment or a residential space. With its contemporary and stylish design, infused with elements of glamour and deco flair, this chair becomes an eye-catching addition to your interior. Redefine your dining space with the Dining Chair, where style and comfort effortlessly converge.
-  Updated: 2025-12-10T10:52:37Z
+  Updated: 2025-12-11T23:09:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,199.33 CAD
 - [Accent Chair Vanilla - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110023): Introducing the Accent Chair, where plush comfort harmonizes with contemporary design. Wrapped in cozy teddy fabric and supported by a sturdy steel frame, this chair is the perfect addition to any setting. With its contemporary and stylish allure, it effortlessly complements hotel lobbies and living areas alike. Embrace the inviting comfort of the teddy fabric. Elevates your space with the Accent Chair, where style and durability converge seamlessly.
-  Updated: 2025-12-10T10:52:38Z
+  Updated: 2025-12-11T23:09:03Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,275.67 CAD
 - [Accent Chair Red - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110026): Introducing the Accent Chair, a seamless blend of durability and luxury. Cloaked in sumptuous velvet and supported by a sturdy steel frame, this chair exudes elegance in any setting. With its contemporary and stylish design, it effortlessly elevates hotel lobbies and living areas. Experience enduring comfort and opulent style with the Accent Chair, where resilience seamlessly meets plush velvet.
-  Updated: 2025-12-10T10:52:41Z
+  Updated: 2025-12-11T23:09:07Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,764.82 CAD
 - [Dining Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110061): Introducing the Dining Chair, a masterpiece of contemporary and stylish Art Deco design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this chair effortlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. The dining chair exudes a harmonious blend of comfort and style, making it an inviting addition to any dining space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike. Elevate your dining experience with the Dining Chair today.
-  Updated: 2025-12-10T10:52:46Z
+  Updated: 2025-12-11T23:09:08Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $568.22 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110064): Introducing the Dining Chair - a masterpiece of contemporary and stylish Art Deco design. With a long-lasting and reliable poly linen seat and sturdy steel frame, this chair effortlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. The dining chair exudes a harmonious blend of comfort and style, making it an inviting addition to any dining space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike. Elevate your dining experience with the Dining Chair today.
-  Updated: 2025-12-10T10:52:48Z
+  Updated: 2025-12-11T23:09:09Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $568.22 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110067): Experience the Dining Chair, a flawless fusion of contemporary and stylish Art Deco design. Boasting a long-lasting and reliable vinyl seat and a sturdy steel frame, this chair seamlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. With its harmonious blend of comfort and style, the dining chair invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your dining space with the unmatched allure of the dining chair today.
-  Updated: 2025-12-10T10:52:49Z
+  Updated: 2025-12-11T23:09:12Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $784.43 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110070): Experience the Dining Chair, a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable ester seat and a sturdy steel frame, this chair seamlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. With its harmonious blend of comfort and style, the dining chair invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your dining space with the unmatched allure of the dining chair today.
-  Updated: 2025-12-10T10:52:52Z
+  Updated: 2025-12-11T23:09:14Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $763.43 CAD
 - [Dining Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110101): Experience unmatched comfort and style with the dining chair. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this chair exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Dining Chair, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-12-10T10:52:53Z
+  Updated: 2025-12-11T23:09:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $700.73 CAD
 - [Dining Chair Black & Bronze - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110102): Experience unmatched comfort and style with the dining chair. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this chair exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Dining Chair, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-12-10T10:52:57Z
+  Updated: 2025-12-11T23:09:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $700.73 CAD
 - [Dining Chair Red & Bronze - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110103): Indulge in superior comfort and style with the dining chair. Embraced by plush teddy fabric and supported by a chic bronze steel frame, this chair embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy design makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both contemporary and stylish interiors. Elevate your seating experience with the Chair, where opulence and adaptability converge seamlessly.
-  Updated: 2025-12-10T10:52:57Z
+  Updated: 2025-12-11T23:09:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $630.63 CAD
 - [Dining Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110104): Indulge in superior comfort and style with the dining chair. Embroidered with plush teddy fabric and supported by a chic black steel frame, this chair embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy design makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both deco and contemporary and stylish interiors. Elevate your seating experience with the chair, where opulence and adaptability converge seamlessly.
-  Updated: 2025-12-10T10:52:58Z
+  Updated: 2025-12-11T23:09:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $630.63 CAD
 - [Accent Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110105): Meet the Accent Chair, a fusion of durability and charm. Adorned in resilient fabric and crafted with quality, this chair enhances any space. Its contemporary and stylish design effortlessly suits both hotel lobbies and living areas. Experience lasting comfort and contemporary style with the Accent Chair, where resilience seamlessly combines with chic design.
-  Updated: 2025-12-10T10:53:04Z
+  Updated: 2025-12-11T23:09:22Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,569.67 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110106): Meet the Accent Chair, a fusion of durability and charm. Adorned in resilient fabric and crafted with quality, this chair enhances any space. Its contemporary and stylish design effortlessly suits both hotel lobbies and living areas. Experience lasting comfort and contemporary style with the Accent Chair, where resilience seamlessly combines with chic design.
-  Updated: 2025-12-10T10:53:02Z
+  Updated: 2025-12-11T23:09:24Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,622.17 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110107): Meet the Accent Chair, where elegance meets practicality. Adorned with a brushed swivel base and long-lasting and reliable vinyl covering, this chair adds a touch of sophistication to any space. Its contemporary and stylish design effortlessly elevates both hotel lobbies and living areas. Experience comfort and style with the Accent Chair, where timeless elegance seamlessly combines with a brushed base for a touch of luxury.
-  Updated: 2025-12-10T10:53:04Z
+  Updated: 2025-12-11T23:09:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,852.77 CAD
 - [Accent Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110108): Meet the Accent Chair, where elegance meets practicality. Adorned with a brushed swivel base and long-lasting and reliable vinyl covering, this chair adds a touch of sophistication to any space. Its contemporary and stylish design effortlessly suits both hotel lobbies and living areas. Experience comfort and style with the Accent Chair, where timeless elegance seamlessly combines with a brushed base for a touch of luxury.
-  Updated: 2025-12-10T10:53:07Z
+  Updated: 2025-12-11T23:09:30Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,852.77 CAD
 - [Accent Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110109): Discover the Accent Chair, a harmonious blend of style and durability. Featuring a sleek wood base and wrapped in resilient vinyl, this chair effortlessly enhances any space. With its contemporary and stylish design, it elevates both a hotel lobby and living areas. Experience comfort and contemporary style with the Accent Chair, where timeless elegance seamlessly combines with a practical vinyl cover.
-  Updated: 2025-12-10T10:53:07Z
+  Updated: 2025-12-11T23:09:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,564.14 CAD
 - [Accent Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110111): Meet the Accent Chair Black, where elegance meets practicality. Adorned with a swivel base and long-lasting and reliable vinyl covering, this chair adds a touch of sophistication to any space. Its contemporary and stylish design effortlessly fits both hotel lobbies and living areas. Experience comfort and style with the Accent Chair Black, where timeless elegance seamlessly combines with a brushed base for a touch of luxury.
-  Updated: 2025-12-10T10:53:07Z
+  Updated: 2025-12-11T23:09:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $2,324.15 CAD
 - [Accent Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110112): Discover the Accent Chair, a harmonious blend of style and durability. Featuring a sleek wood base and wrapped in resilient vinyl, this chair effortlessly enhances any space. With its contemporary and stylish design, it elevates both hotel lobbies and living areas. Experience comfort and contemporary style with the Accent Chair, where timeless elegance seamlessly combines with a practical vinyl cover.
-  Updated: 2025-12-10T10:53:08Z
+  Updated: 2025-12-11T23:09:32Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,112.26 CAD
 - [Accent Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110116): Meet the Accent Chair, a perfect fusion of style and durability. Draped in tough vinyl covering and supported by a robust steel frame, this chair effortlessly enhances any space. With its contemporary design, it complements hotel lounges, living rooms, and reading areas. Experience comfort and contemporary and stylish aesthetics with the Accent Chair, where resilience and sleek design harmoniously come together.
-  Updated: 2025-12-10T10:53:12Z
+  Updated: 2025-12-11T23:09:35Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,942.00 CAD
 - [Accent Chair Tan - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110117): Meet the Accent Chair, a perfect fusion of style and durability. Draped in tough vinyl covering and supported by a robust steel frame, this chair effortlessly enhances any space. With its contemporary design, it complements hotel lounges, living rooms, and reading areas. Experience comfort and contemporary and stylish aesthetics with the Accent Chair, where resilience and sleek design harmoniously come together.
-  Updated: 2025-12-10T10:53:17Z
+  Updated: 2025-12-11T23:09:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,942.00 CAD
 - [Armless Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110118): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-12-10T10:53:14Z
+  Updated: 2025-12-11T23:09:38Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,019.15 CAD
 - [Armless Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110119): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-12-10T10:53:17Z
+  Updated: 2025-12-11T23:09:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,019.15 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110120): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-12-10T10:53:17Z
+  Updated: 2025-12-11T23:09:42Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $732.04 CAD
 - [Dining Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110121): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-12-10T10:53:17Z
+  Updated: 2025-12-11T23:09:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $732.04 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110122): Meet the Dining Chair, a harmonious blend of style and durability. Featuring sturdy wood legs and a resilient vinyl seat, it effortlessly enhances any setting, whether in a dining establishment or a residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where sophistication and resilience unite seamlessly.
-  Updated: 2025-12-10T10:53:18Z
+  Updated: 2025-12-11T23:09:53Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,628.17 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110123): Meet the Dining Chair, a harmonious blend of style and durability. Featuring sturdy wood legs and a resilient vinyl seat, it effortlessly enhances any setting, whether in a dining establishment or a residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where sophistication and resilience unite seamlessly.
-  Updated: 2025-12-10T10:53:22Z
+  Updated: 2025-12-11T23:09:46Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,628.17 CAD
 - [Dining Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110124): Introducing the Dining Chair: a fusion of style and strength. This chair boasts a steel frame enveloped in resilient vinyl, providing durability and a sleek appearance. Whether in a dining establishment or residential setting, its contemporary and stylish design enhances any space. Elevate your dining experience with the Dining Chair, where toughness and elegance seamlessly converge.
-  Updated: 2025-12-10T10:53:22Z
+  Updated: 2025-12-11T23:09:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,553.29 CAD
 - [Dining Chair Tan - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110125): Introducing the Dining Chair: a fusion of style and strength. This chair boasts a steel frame enveloped in resilient vinyl, providing durability and a sleek appearance. Whether in a dining establishment or residential setting, its contemporary and stylish design enhances any space. Elevate your dining experience with the Dining Chair, where toughness and elegance seamlessly converge.
-  Updated: 2025-12-10T10:53:22Z
+  Updated: 2025-12-11T23:09:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,553.29 CAD
 - [Dining Chair (Set of 2) Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110126): Discover the Dining Chair, a harmonious balance of style and durability. With its robust wood legs and resilient fabric seat, it effortlessly elevates any environment, whether in a dining establishment or a residential space. Infused with a contemporary grace and practicality, this chair adds an inviting touch to your interior. Redefine your dining experience with the Dining Chair, where sophistication and resilience seamlessly unite.
-  Updated: 2025-12-10T10:53:22Z
+  Updated: 2025-12-11T23:09:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,816.16 CAD
 - [Dining Chair (Set of 2) Tan - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110127): Discover the Dining Chair, a harmonious balance of style and durability. With its robust wood legs and resilient fabric seat, it effortlessly elevates any environment, whether in a dining establishment or a residential space. Infused with a contemporary grace and practicality, this chair adds an inviting touch to your interior. Redefine your dining experience with the Dining Chair, where sophistication and resilience seamlessly unite.
-  Updated: 2025-12-10T10:53:24Z
+  Updated: 2025-12-11T23:09:53Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,816.16 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110157): The chair boasts a sleek steel frame and a luxurious fabric-covered seat, offering a perfect balance of contemporary and stylish and timeless elegance. With its blend of contemporary and stylish and deco-inspired design elements, this chair is equally suitable for residential and hospitality settings. Whether used around a dining table in a home or a stylish restaurant, the chair adds a touch of sophistication to any space. Embracing its chic aesthetic and plush comfort, it makes it an ideal choice for enhancing the ambiance of various environments.
-  Updated: 2025-12-10T10:53:26Z
+  Updated: 2025-12-11T23:09:56Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,349.17 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110159): The dining chair stands out with its arms, wooden frame, and fabric-covered seat, blending contemporary and stylish deco influences seamlessly. Ideal for both residential and hospitality settings, it exudes sophistication and comfort. Whether adorning a home dining area or a stylish restaurant, this chair adds a touch of elegance to any space. Embracing its chic design and plush seating, it elevates the ambiance of dining experiences with its perfect harmony of style and functionality.
-  Updated: 2025-12-10T10:53:26Z
+  Updated: 2025-12-11T23:09:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $805.77 CAD
 - [Dining Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110160): The dining chair stands out with its arms, wooden frame, and fabric-covered seat, blending contemporary and stylish influences seamlessly. Ideal for both residential and hospitality settings, it exudes sophistication and comfort. Whether adorning a home dining area or a stylish restaurant, this chair adds a touch of elegance to any space. Embracing its chic design and plush seating, it elevates the ambiance of dining experiences with its perfect harmony of style and functionality.
-  Updated: 2025-12-10T10:53:27Z
+  Updated: 2025-12-11T23:09:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $805.77 CAD
 - [Dining Chair (Set of 2) Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110167): Meet the Dining Chair, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this chair brings a welcoming charm to your interior. Redefine your dining experience with the Dining Chair, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-12-10T10:53:32Z
+  Updated: 2025-12-11T23:10:03Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,684.96 CAD
 - [Dining Chair (Set of 2) Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110168): Meet the Dining Chair, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this chair brings a welcoming charm to your interior. Redefine your dining experience with the Dining Chair, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-12-10T10:53:32Z
+  Updated: 2025-12-11T23:10:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,810.96 CAD
 - [Dining Chair (Set of 2) Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110171): Introducing the Dining Chair, where durability and style effortlessly merge. Crafted with a sturdy steel frame and featuring resilient vinyl upholstery, it seamlessly complements any dining setting, whether it's a bustling restaurant or a cozy home dining area. With its contemporary and stylish design and practicality, this dining chair adds a captivating touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication harmoniously converge.
-  Updated: 2025-12-10T10:53:32Z
+  Updated: 2025-12-11T23:10:03Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,367.29 CAD
 - [Dining Chair (Set of 2) Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110172): Introducing the Dining Chair, where durability and style effortlessly merge. Crafted with a sturdy steel frame and featuring resilient vinyl upholstery, it seamlessly complements any dining setting, whether it's a bustling restaurant or a cozy home dining area. With its contemporary and stylish design and practicality, this dining chair adds a captivating touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication harmoniously converge.
-  Updated: 2025-12-10T10:53:33Z
+  Updated: 2025-12-11T23:10:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,430.29 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110175): Meet the Dining Chair—a perfect harmony of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl upholstery, it complements any dining setting with ease, whether it's a restaurant or your home dining area. With its contemporary and stylish design and practicality, this chair enhances your interior effortlessly. Elevate your dining experience with the Gartson Dining Chair, where resilience and sophistication elegantly come together.
-  Updated: 2025-12-10T10:53:34Z
+  Updated: 2025-12-11T23:10:05Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $711.04 CAD
 - [Dining Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110176): Meet the Dining Chair—a perfect harmony of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl upholstery, it complements any dining setting with ease, whether it's a restaurant or your home dining area. With its contemporary and stylish design and practicality, this chair enhances your interior effortlessly. Elevate your dining experience with the Gartson Dining Chair, where resilience and sophistication elegantly come together.
-  Updated: 2025-12-10T10:53:37Z
+  Updated: 2025-12-11T23:10:06Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $700.54 CAD
 - [Accent Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110201): Introducing the Accent Chair, a harmonious blend of contemporary gn and luxurious comfort. Its steel frame, elegantly wrapped in a boucle-like fabric, creates a visual masterpiece that exudes contemporary and stylish sophistication. Whether gracing the lobby of a glamorous hotel or adding a touch of elegance to a contemporary and stylish loft, the accent chair seamlessly adapts to various settings. With its sleek lines and plush upholstery, it not only enhances the aesthetics of any space but also invites you to indulge in unparalleled comfort. Elevate your decor with the Accent Chair, where style meets opulence in perfect harmony.
-  Updated: 2025-12-10T10:53:37Z
+  Updated: 2025-12-11T23:10:09Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,323.57 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110202): Introducing the Accent Chair, a masterpiece of contemporary design that effortlessly elevates any space, from upscale hotel lobbies to cozy living rooms. Wrapped in a luxurious shearling-like fabric, this chair invites you to experience a delightful texture that's as visually striking as it is ergonomically designed for superior comfort to the touch. The Accent Chair's impeccable craftsmanship is evident in its robust steel frame, ensuring durability while complementing the fabric's plushness.
-  Updated: 2025-12-10T10:53:38Z
+  Updated: 2025-12-11T23:10:11Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,304.39 CAD
 - [Swivel Dining Chair Orange - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110203): Presenting the Swivel Dining Chair, a luxurious and functional piece for any dining setting. This chair, swathed in sumptuous velvet, offers an opulent touch to contemporary and classic interiors, suitable for residential or hospitality environments. The chair's swivel feature adds a dynamic and convenient aspect, enhancing the user experience. Its plush velvet upholstery ensures an ergonomically designed, superior comfort and stylish seat, while the chair's design combines elegance with practicality. The Swivel Dining Chair elevates any dining experience with its graceful presence and comfort, ideal for those who appreciate a fusion of sophistication and ease.
-  Updated: 2025-12-10T10:53:44Z
+  Updated: 2025-12-11T23:10:24Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,107.54 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110205): Introducing the Accent Chair, a marvel in contemporary design, perfect for elevating any space from a chic hotel lobby to a snug living room. Clad in a high-quality ester cover, this chair invites you with its visually stunning and tactilely pleasing texture. The Accent Chair is a beacon of exemplary craftsmanship, supported by a robust steel frame that ensures durability and complements the sleek comfort of the ester fabric.
-  Updated: 2025-12-10T10:53:44Z
+  Updated: 2025-12-11T11:10:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,646.78 CAD
 - [Accent Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110206): Introducing the Accent Chair, a contemporary design masterpiece that effortlessly elevates any space, from upscale hotel lobbies to cozy living rooms. Adorned in a premium polyester cover, this chair invites you with its visually stunning and tactilely pleasing texture. Supported by a robust steel frame, it ensures durability while harmonizing with the comfort of the ester fabric.
-  Updated: 2025-12-10T10:53:46Z
+  Updated: 2025-12-11T23:10:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,262.33 CAD
 - [Dining Chair (Set of 2) Quill Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110207): Introducing the Zen Dining Chair, a perfect blend of durability and contemporary style. Ideal for a range of dining environments, from contemporary and stylish homes to chic restaurants, this chair is upholstered in high-quty performance fabric, ensuring both comfort and long-lasting wear. The frame, with its forged-look steel gn, adds an industrial yet elegant touch. This combination of robust materials makes the Zen Dining Chair not only a stylish choice but also a practical one for everyday use. Its sleek gn and superior build quty make it a standout addition to any dining sp, embodying the ce of both stgth and beauty.
-  Updated: 2025-12-10T10:53:47Z
+  Updated: 2025-12-11T23:10:37Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $980.76 CAD
 - [Dining Chair (Set of 2) Truffle Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110208): Introducing the Zen Dining Chair, a perfect blend of durability and contemporary style. Ideal for a range of dining environments, from contemporary and stylish homes to chic restaurants, this chair is upholstered in high-quty performance fabric, ensuring both comfort and long-lasting wear. The frame, with its forged-look steel gn, adds an industrial yet elegant touch. This combination of robust materials makes the Zen Dining Chair not only a stylish choice but also a practical one for everyday use. Its sleek gn and superior build quty make it a standout addition to any dining sp, embodying the ce of both stgth and beauty.
-  Updated: 2025-12-10T10:53:51Z
+  Updated: 2025-12-11T23:10:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,001.76 CAD
 - [Dining Chair (Set of 2) Vintage Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110259): Comfy and Bauhaus, the dining chair has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-12-10T10:53:53Z
+  Updated: 2025-12-11T23:10:22Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $727.69 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110268): Introducing the Accent Chair, a luxurious seating option designed to elevate any space with its chic and opulent aesthetic. Featuring a sumptuous faux shearling seat atop a sturdy wood base, this chair seamlessly blends contemporary and stylish glam and deco influences. Its plush seat offers both comfort and style, making it perfect for residential homes or hospitality settings. Whether placed in a cozy living room or a trendy hotel lobby, the accent chair adds a touch of sophistication and elegance to any environment. Embrace uses lavish design and premium materials for an unforgettable seating experience that exudes glamour and refinement.
-  Updated: 2025-12-10T10:53:57Z
+  Updated: 2025-12-11T23:10:42Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,516.43 CAD
 - [Accent Chair Beige Frost - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110270): Introducing the Accent Chair, a perfect combination of elegance and resilience, designed to enhance both contemporary and stylish and Art Deco settings. This chair is enveloped in a boucle-style fabric, offering a rich, textured sensation that elevates its overall look and feel. Supported by a robust, forged-look steel frame, the chair ensures durability while beautifully offsetting the fabric's softness. Whether it's a statement in a hotel lobby or adding a touch of sophistication to a living room, adaptable design melds seamlessly with a variety of decor styles. Its blend of sleek elegance and comfort makes it a distinctive piece, symbolizing refined taste and style. The Accent Chair is more than just seating; it's an expression of exquisite elegance.
-  Updated: 2025-12-10T10:53:57Z
+  Updated: 2025-12-11T23:10:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $2,173.50 CAD
 - [Dining Chair Beige & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110275): Meet the Dining Chair, where durability meets contemporary and stylish elegance. Perfectly suited for various dining settings, from contemporary homes to trendy eateries, it boasts high-quality performance fabric for comfort and resilience. The chair's forged-look steel frame adds an industrial yet refined aesthetic. This blend of sturdy materials ensures the dining chair is not only stylish but also a practical choice for daily use. Its sleek design and exceptional build quality make it a distinguished addition to any dining area, capping a perfect appearance of robustness and sophistication.
-  Updated: 2025-12-10T10:53:58Z
+  Updated: 2025-12-11T23:10:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $960.75 CAD
 - [Dining Chair Cream & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110276): Introducing the Sdyen Dining Chair, a harmonious fusion of durability and contemporary style. Ideal for a variety of dining spaces, from contemporary and stylish homes to chic restaurants, this chair boasts high-quality performance fabric upholstery, ensuring both comfort and long-lasting wear. The forged-look steel frame adds an industrial yet elegant touch, enhancing its aesthetic appeal. This combination of robust materials makes the Sdyen Dining Chair not only a stylish choice but also a practical one for everyday use. With its sleek design and superior build quality, it becomes a standout addition to any dining area, embodying both strength and beauty.
-  Updated: 2025-12-10T10:54:00Z
+  Updated: 2025-12-11T23:10:30Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $960.75 CAD
 - [Accent Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110278): Introducing the Accent Chair, a luxurious seating option that combines comfort with contemporary style. Upholstered in plush cord-style fabric, this accent chair offers a unique texture and an inviting seating experience. Its design is both contemporary and stylish and cozy, making it an ideal choice for a variety of settings, from a trendy loft to a casual living room. The accent chair not only provides an ergonomically designed seat for superior comfort to relax but also adds a touch of sophistication to your space. Embrace the blend of contemporary and stylish elegance and inviting comfort with the Accent Chair.
-  Updated: 2025-12-10T10:54:01Z
+  Updated: 2025-12-11T23:10:47Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $2,063.25 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110279): Introducing the Accent Chair, a contemporary and stylish, and glamorous masterpiece. Crafted from long-lasting and reliable plywood, it's a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design complements any decor, while the luxurious shearling-style fabric offers comfort and opulence. Its timeless white hue adds elegance to any setting. Elevate your space with this statement piece, blending contemporary and stylish aesthetics with a touch of glamour. Whether for a bold lobby statement, a cozy living room, a chic bar, or a luxurious bedroom, the accent chair delivers style and comfort in one exquisite package.
-  Updated: 2025-12-10T10:54:07Z
+  Updated: 2025-12-11T23:10:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,709.65 CAD
 - [Swivel Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110280): Introducing the swivel chair, a contemporary and stylish deco and glam marvel. Crafted from robust plywood, it's a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design complements any decor, while the luxurious shearling-style fabric offers comfort and opulence. Its timeless white hue adds elegance to any setting. Elevate your space with this statement piece, blending contemporary and stylish aesthetics with a touch of glamour. Whether for a bold lobby statement, a cozy living room, a chic bar, or a luxurious bedroom, the swivel chair delivers style and comfort in one exquisite package.
-  Updated: 2025-12-10T10:54:07Z
+  Updated: 2025-12-11T23:10:33Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,606.50 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110283): Introducing the Accent Chair in White, a harmonious fusion of contemporary and stylish deco and glam styles, designed to enhance any space. Crafted with a sturdy plywood frame, this chair exudes both durability and elegance. Its sumptuous, thick, soft cord-style fabric upholstery not only adds a touch of opulence but also ensures your comfort. The Accent Chair's versatile design makes it a perfect fit for a chic hotel lobby, a cozy living room, a trendy bar, or a luxurious bedroom. Its sleek lines and minimalist aesthetic effortlessly complement various decor schemes, while the timeless white color radiates sophistication.
-  Updated: 2025-12-10T10:54:08Z
+  Updated: 2025-12-11T23:10:36Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,732.77 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110289): The dining chair offers versatility with its vinyl or fabric-covered seat atop a sleek steel frame, catering to contemporary and stylish or deco aesthetics in both residential and hospitality settings. With its refined design, this chair exudes sophistication and comfort. Whether placed around a dining table at home or in a chic restaurant, it enhances the ambiance with its stylish presence. Embracing its contemporary allure and plush seating, making it the perfect choice for elevating dining experiences in various environments.
-  Updated: 2025-12-10T10:54:07Z
+  Updated: 2025-12-11T23:10:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $710.47 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110290): The dining chair offers versatility with its vinyl or fabric-covered seat atop a sleek steel frame, catering to contemporary and stylish or deco aesthetics in both residential and hospitality settings. With its refined design, this chair exudes sophistication and comfort. Whether placed around a dining table at home or in a chic restaurant, it enhances the ambiance with its stylish presence. Embracing its contemporary allure and plush seating, making it the perfect choice for elevating dining experiences in various environments.
-  Updated: 2025-12-10T10:54:07Z
+  Updated: 2025-12-11T23:10:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $731.47 CAD
 - [Swivel Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110293): Introduce a unique, stylish piece to your home with the Swivel Chair Gray, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:08Z
+  Updated: 2025-12-11T23:10:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,542.60 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110294): The Accent Chair boasts a sleek design with a thick channeled ester fabric seat and sturdy wood legs. Its contemporary allure and ergonomic design for superior comfort seating make it suitable for various interior styles, from contemporary and stylish homes to chic hospitality settings. Whether placed in a living room or a hotel lobby, the accent chair adds sophistication and refinement to any space.
-  Updated: 2025-12-10T10:54:13Z
+  Updated: 2025-12-11T23:10:42Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,778.93 CAD
 - [Accent Chair Pink - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110339): Introducing the Swivel Accent Chair, a beacon of contemporary elegance perfect for adding sophistication to any space, from the grandeur of hotel lobbies to the intimacy of living rooms. Draped in sumptuous velvet, this chair offers a visually stunning and sensuously tactile experience. Supported by a long-lasting and reliable steel frame, the Swivel Accent Chair not only promises longevity but also complements the luxurious feel of the velvet.
-  Updated: 2025-12-10T10:54:13Z
+  Updated: 2025-12-11T23:10:47Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,569.27 CAD
 - [Armchair Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110344): Introducing the Armchair, a harmonious blend of contemporary and stylish design and industrial aesthetics. This armchair boasts fabric-wrapped cushions that provide both comfort and a stylish touch, all supported by a sturdy steel frame. Its versatile design is equally at home in a chic hotel lobby or an industrial loft living space. The armchair not only offers an ergonomically designed seating experience for superior comfort but also adds a contemporary edge to your decor. Embrace the fusion of contemporary and stylish elegance and industrial charm with the armchair, where style meets resilience effortlessly.
-  Updated: 2025-12-10T10:54:17Z
+  Updated: 2025-12-11T23:10:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $2,010.06 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110348): Upgrade your dining experience with the Dining Chair, a luxurious and ergonomically designed chair for superior comfort in your dining space. Featuring a shearling-like seat and backrest, this dining chair exudes opulence and style. Its design is a seamless fit for contemporary and stylish or upscale dining settings, whether in homes or high-end restaurants. The dining chair combines plush comfort with sophisticated aesthetics, making it a stunning addition to elevate any dining atmosphere.
-  Updated: 2025-12-10T10:54:17Z
+  Updated: 2025-12-11T23:10:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,404.10 CAD
 - [Dining Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110352): Your dining space with the Dining Chair, designed for both style and durability. This chair boasts a sleek vinyl seat and back, offering a sophisticated look and easy maintenance. Its design seamlessly integrates into contemporary and stylish dining areas, whether in residential homes or commercial venues. The dining chair combines practicality with a touch of elegance, making it an ideal choice for a refined yet long-lasting and reliable dining experience.
-  Updated: 2025-12-10T10:54:17Z
+  Updated: 2025-12-11T23:10:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $732.10 CAD
 - [Accent Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110357): Presenting the Accent Chair, a testament to timeless elegance and contemporary and stylish craftsmanship. With its sleek steel frame and vinyl body, this chair exudes sophistication and durability. Whether placed in a cozy reading nook or as a statement piece in a chic living room, the accent chair adds a touch of refinement to any space. Embracing its sleek lines and premium materials, it is the perfect choice for elevating your interior decor with a blend of style and functionality.
-  Updated: 2025-12-10T10:54:18Z
+  Updated: 2025-12-11T23:10:55Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $730.63 CAD
 - [Accent Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110358): The Accent Chair has a polyester shearling-style fabric. This chair works great in any space, hospitality, or residential. The shapes and design are glam, contemporary, and stylish and boho all at the same time.
-  Updated: 2025-12-10T10:54:22Z
+  Updated: 2025-12-11T23:10:56Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,575.00 CAD
 - [Dining Chair (Set of 2) Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110396): The Dining Chair boasts a solid rubberwood frame complemented by an ergonomically designed fabric seat and back. Designed to enhance any contemporary and stylish or urban space, it fits seamlessly into both residential and hospitality settings. Its sleek and stylish design makes it a versatile addition to your dining area, providing both elegance and comfort.
-  Updated: 2025-12-10T10:54:22Z
+  Updated: 2025-12-11T23:10:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $780.65 CAD
 - [Dining Chair Dove Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110397): The dining chair boasts a solid rubberwood frame paired with an ergonomically designed fabric seat for superior comfort. Perfect for contemporary and stylish or urban design spaces, it seamlessly fits into both residential and hospitality settings. With its sleek and stylish design, the dining chair adds a touch of elegance and comfort to any dining area.
-  Updated: 2025-12-10T10:54:22Z
+  Updated: 2025-12-11T23:11:16Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,076.10 CAD
 - [Swivel Chair Misty Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110437): Introduce a unique, stylish piece to your home with the Swivel Chair Misty Gray, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:24Z
+  Updated: 2025-12-11T23:11:00Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,606.50 CAD
 - [Office Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110438): Introduce a unique, stylish piece to your home with the Swivel Chair Misty Gray, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:27Z
+  Updated: 2025-12-11T23:11:00Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $546.13 CAD
 - [Office Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110439): Introduce a unique, stylish piece to your home with the Office Chair Gray, an exceptional example of contemporary and stylish design. Made from high-quality vinyl, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:27Z
+  Updated: 2025-12-11T23:11:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $567.13 CAD
 - [Office Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110446): Bring contemporary and stylish elegance to your home office with the Office Chair in Beige, a stunning showcase of contemporary design. Made from premium vinyl, plywood, and steel, this chair perfectly balances aesthetics and functionality. Its versatile design allows it to complement any space, while its chic and sleek appearance makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:27Z
+  Updated: 2025-12-11T23:11:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $584.87 CAD
 - [Office Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110447): Bring contemporary and stylish elegance to your home office with the Office Chair in Beige, a stunning showcase of contemporary design. Made from premium vinyl, plywood, and steel, this chair perfectly balances aesthetics and functionality. Its versatile design allows it to complement any space, while its chic and sleek appearance makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:28Z
+  Updated: 2025-12-11T23:11:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $595.37 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110467): Introduce a unique, stylish piece to your home with the Accent Chair Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:32Z
+  Updated: 2025-12-11T23:11:05Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,435.60 CAD
 - [Accent Chair Beige & Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110468): Bring a stylish and unique touch to your home with the Accent Chair in Beige & Natural, a remarkable example of contemporary and stylish design. Crafted from premium polyester fabric, plywood, and rubberwood, this chair effortlessly blends beauty with functionality, making it a versatile addition to any room. Its chic, contemporary design ensures it stands out as a striking feature in any contemporary and stylish living space, offering both comfort and elegance.
-  Updated: 2025-12-10T10:54:32Z
+  Updated: 2025-12-11T11:11:05Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,608.39 CAD
 - [Accent Chair Gray & Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110469): Introduce a unique, stylish piece to your home with the Accent Chair Gray & Natural, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary, design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:32Z
+  Updated: 2025-12-11T23:11:06Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,587.39 CAD
 - [Accent Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110470): Elevate your home with the accent chair in olive green, a stunning representation of contemporary and stylish design. Crafted from high-quality polyester fabric, plywood, and rubberwood, this chair perfectly merges style and functionality, providing a versatile addition to any room. Its chic and contemporary aesthetic ensures it stands out as a striking feature in any contemporary and stylish living space, delivering both comfort and visual appeal.
-  Updated: 2025-12-10T10:54:32Z
+  Updated: 2025-12-11T23:11:08Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,149.75 CAD
 - [Accent Chair Oatmeal Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110473): Introduce a unique, stylish piece to your home with the Accent Chair Oatmeal Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:54:33Z
+  Updated: 2025-12-11T23:11:08Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Price: $1,564.77 CAD
 - [Desk Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110512): Introduce a unique, stylish piece to your home with the Desk Natural, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:01Z
+  Updated: 2025-12-11T11:11:07Z
   Vendor: RBZO
   Product Type: Desks
   Availability: Available
   Price: $753.08 CAD
 - [Mirror Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110188): Introducing the Mirror, a stunning combination of natural elegance and contemporary and stylish design. Crafted with a solid wood frame, this mirror boasts an organic shape that adds a touch of nature-inspired beauty to any space. Its unique design effortlessly blends contemporary aesthetics with the warmth of solid wood, creating a captivating focal point. Whether it graces your living room, bedroom, or hallway, the mirror not only reflects your image but also mirrors your impeccable taste in decor. Elevate your space with this exquisite piece, where craftsmanship and contemporary style meet in perfect harmony.
-  Updated: 2025-12-10T10:55:08Z
+  Updated: 2025-12-11T23:11:09Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Price: $487.41 CAD
 - [Mirror White & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110189): Meet the Mirror, a captivating fusion of contemporary style and craftsmanship. With its solid wood frame, this mirror showcases a contemporary and stylish, organic shape that adds a touch of natural beauty to your space. Its unique design effortlessly harmonizes contemporary and stylish aesthetics with the warmth of solid wood, making it a striking focal point. Whether it graces your living room, bedroom, or hallway, the mirror not only reflects your image but also mirrors your discerning taste in decor. Elevate your space with this exceptional piece, where contemporary style and artistry unite in perfect harmony.
-  Updated: 2025-12-10T10:55:07Z
+  Updated: 2025-12-11T23:11:08Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Price: $269.09 CAD
 - [Mirror Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110307): Introducing the Mirror, a stunning addition to elevate the ambiance of any residential or hospitality space. Standing tall with a sleek wood frame, this mirror embodies contemporary and stylish design elements, seamlessly blending timeless elegance with contemporary flair. Whether gracing the walls of a stylish living room or enhancing the entrance of a boutique hotel, the mirror adds a touch of sophistication to any environment. Its versatile appeal makes it perfect for residential and hospitality settings, offering a chic focal point reflecting impeccable taste and style. Elevate your decor with the exquisite beauty of the mirror, where form meets function in perfect harmony.
-  Updated: 2025-12-10T10:55:07Z
+  Updated: 2025-12-11T23:11:17Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Price: $1,238.92 CAD
 - [Mirror Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110313): Presenting the Standing Mirror, a striking blend of contemporary design and enduring craftsmanship. With its distinguished wood frame, this mirror exudes timeless elegance and contemporary and stylish allure. Whether gracing the corner of a cozy residential bedroom or adorning the foyer of a luxury hotel, the mirror adds a touch of sophistication to any space. Its standing design offers versatility and convenience, allowing you to effortlessly enhance your reflection and your decor. Embrace the understated beauty and impeccable style of the Standing Mirror, a statement piece that reflects both refinement and practicality.
-  Updated: 2025-12-10T10:55:07Z
+  Updated: 2025-12-11T23:11:11Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Price: $1,228.42 CAD
 - [Mirror Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110316): Introducing the Mirror, a floor mirror designed to elevate any space. With its sleek steel frame and contemporary shape, it's a perfect addition for bedrooms, living rooms, or hotel entryways. This mirror effortlessly combines style and functionality, making it a versatile choice that enhances the aesthetics of any room. Elevate your decor with the mirror, where contemporary and stylish design meets practical elegance.
-  Updated: 2025-12-10T10:55:07Z
+  Updated: 2025-12-11T23:11:13Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Price: $1,301.92 CAD
 - [Bar Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109831): Introducing the bar table, a stylish and functional addition suitable for all your spaces: kitchen or bar area. This table offers the perfect combination of contemporary and stylish, and industrial style, adding an accent and charm to your dining room or bar. Its top floats gracefully on a pedestal that emerges from the floor, creating a unique visual appeal. With elegant colors, this table easily complements any piece of furniture in your home, making it a versatile and attractive choice for any room
-  Updated: 2025-12-10T10:55:17Z
+  Updated: 2025-12-11T23:11:19Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $619.29 CAD
 - [Bar Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109832): Introducing the bar table, a stylish and functional addition suitable for all your spaces: kitchen or bar area. This table offers the perfect combination of contemporary and stylish, and industrial style, adding an accent and charm to your dining room or bar. Its top floats gracefully on a pedestal that emerges from the floor, creating a unique visual appeal. With elegant colors, this table easily complements any piece of furniture in your home, making it a versatile and attractive choice for any room.
-  Updated: 2025-12-10T10:55:17Z
+  Updated: 2025-12-11T23:11:21Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $640.29 CAD
 - [Bar Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109833): Introducing the bar table, a stylish and functional addition suitable for all your spaces: kitchen or bar area. This table offers the perfect combination of contemporary and stylish, and industrial style, adding an accent and charm to your dining room or bar. Its top floats gracefully on a pedestal that emerges from the floor, creating a unique visual appeal. With elegant colors, this table easily complements any piece of furniture in your home, making it a versatile and attractive choice for any room
-  Updated: 2025-12-10T10:55:17Z
+  Updated: 2025-12-11T23:11:23Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $619.29 CAD
 - [Bar Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110051): Versatile and adaptable, the bar table seamlessly transitions between hospitality and residential environments, becoming a focal point in any setting. Its captivating blend of mid-century contemporary and stylish and industrial design elements ensures it complements various interior styles, making it a versatile and inspired choice for any space.
-  Updated: 2025-12-10T10:55:23Z
+  Updated: 2025-12-11T23:11:28Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $590.29 CAD
 - [Bar Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110089): Meet the Bar Table, a perfect union of style and strength. Designed with a high-pressure laminate top that emulates the luxurious look of marble and a solid wood base, this table radiates enduring charm. Whether it finds its place in a residential setting or adds character to a hospitality environment, the bar table seamlessly adapts to contemporary and stylish deco or glam designs. Versatile and chic, it's the ideal choice for those who appreciate a striking centerpiece that harmonizes with various styles. Elevate your space with the Bar Table, where elegance effortlessly coexists with resilience.
-  Updated: 2025-12-10T10:55:22Z
+  Updated: 2025-12-11T23:11:35Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $763.43 CAD
 - [Bar Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110402): Introduce a unique, stylish piece to your home with the Bar Table Beige & Gold, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:22Z
+  Updated: 2025-12-11T23:11:29Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $744.13 CAD
 - [Bar Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110404): Introduce a unique, stylish piece to your home with the Bar Table Gray & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:23Z
+  Updated: 2025-12-11T23:11:28Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $744.13 CAD
 - [Bar Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110406): Introduce a unique, stylish piece to your home with the Bar Table Black & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:27Z
+  Updated: 2025-12-11T23:11:30Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $744.13 CAD
 - [Bar Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110408): Introduce a unique, stylish piece to your home with the Bar Table Beige & Gold, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:27Z
+  Updated: 2025-12-11T23:11:30Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $744.13 CAD
 - [Bar Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110410): Introduce a unique, stylish piece to your home with the Bar Table Gray & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:26Z
+  Updated: 2025-12-11T23:11:32Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $744.13 CAD
 - [Bar Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110412): Add a sleek and stylish touch to your home with the Bar Table in Black & Bronze, a stunning showcase of contemporary and stylish design. Constructed from high-quality MDF and steel, this table seamlessly combines aesthetics with functionality, offering a versatile option for any room. Its contemporary and elegant design ensures it will stand out as a striking addition to any contemporary and stylish space, providing both beauty and practicality.
-  Updated: 2025-12-10T10:55:28Z
+  Updated: 2025-12-11T23:11:34Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $744.13 CAD
 - [Counter Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110586): Introduce a unique, stylish piece to your home with the Counter Table White, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:55:28Z
+  Updated: 2025-12-11T23:11:35Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $1,112.92 CAD
 - [Counter Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110587): The Counter Table White is a contemporary and stylish masterpiece, designed for versatility and elegance. Made with premium rubberwood, it provides both aesthetic appeal and functionality, fitting seamlessly into a variety of spaces. Its chic, boho-inspired design makes it the perfect piece to elevate any room or any style.
-  Updated: 2025-12-10T10:55:34Z
+  Updated: 2025-12-11T23:11:35Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $805.50 CAD
 - [Counter Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704101): The Counter Table in Graphite combines contemporary and stylish gn with natural elements. Crafted from terrazzo and acacia wood, this table is suitable for both hospitality and residential settings. Its urban style and unique texture make it a standout piece in any decor.
-  Updated: 2025-12-10T10:55:38Z
+  Updated: 2025-12-11T11:11:44Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Price: $1,884.67 CAD
 - [Barstool (Set of 2) Brown & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101274): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat is covered in brown faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:55:42Z
+  Updated: 2025-12-11T23:11:40Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101275): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in white faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:55:42Z
+  Updated: 2025-12-11T23:11:42Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101276): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in black faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:55:42Z
+  Updated: 2025-12-11T23:11:45Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Brown & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101277): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat is covered in brown faux leather with dramatic stitching. Matte brown Faux Wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:55:43Z
+  Updated: 2025-12-11T23:11:49Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,076.69 CAD
 - [Barstool (Set of 2) White & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101278): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in white faux leather with dramatic stitching. Matte brown Faux Wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:55:47Z
+  Updated: 2025-12-11T23:11:47Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,076.69 CAD
 - [Barstool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101283): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The white faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-12-10T10:55:47Z
+  Updated: 2025-12-11T23:11:50Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,097.69 CAD
 - [Barstool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101284): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The black faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-12-10T10:55:48Z
+  Updated: 2025-12-11T23:11:50Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,097.69 CAD
 - [Barstool (Set of 2) Light Pink & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101285): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The pink faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-12-10T10:55:59Z
+  Updated: 2025-12-11T23:11:52Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,097.69 CAD
 - [Barstool (Set of 2) Azure Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101698): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-12-10T10:55:56Z
+  Updated: 2025-12-11T23:12:03Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Beige & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101699): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-12-10T10:56:02Z
+  Updated: 2025-12-11T23:11:58Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101771): The barstool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this barstool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospital use.
-  Updated: 2025-12-10T10:56:01Z
+  Updated: 2025-12-11T23:12:00Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $430.75 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101772): The barstool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this barstool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospital use.
-  Updated: 2025-12-10T10:56:03Z
+  Updated: 2025-12-11T23:12:02Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $430.75 CAD
 - [Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101773): The barstool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this barstool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:56:01Z
+  Updated: 2025-12-11T23:12:06Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $399.25 CAD
 - [Barstool (Set of 2) White & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109070): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-12-10T10:56:06Z
+  Updated: 2025-12-11T23:12:06Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Dark Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109389): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A faux wood frame in walnut brown plays a supporting role while the built-in curved footrest keeps you firmly planted. The gray faux leather seat deck is sleek and contemporary and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-12-10T10:56:08Z
+  Updated: 2025-12-11T23:12:15Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,055.69 CAD
 - [Barstool (Set of 2) Dark Gray & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109391): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort. The curved seat is covered in dark gray faux leather with dramatic stitching. Matte black stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:56:12Z
+  Updated: 2025-12-11T23:12:15Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,076.69 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109540): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame and finished legs in a black matte finish that fits in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:12Z
+  Updated: 2025-12-11T23:12:21Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109541): This barstool chair has mid-century contemporary and stylish urban lines and looks great in any space, with heavy-duty vinyl covering a sturdy steel frame and finished legs in black powder-coated steel that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:13Z
+  Updated: 2025-12-11T23:12:20Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Azure Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109542): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with heavy-duty vinyl covering a sturdy steel frame and finished legs in black powder-coated steel that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:19Z
+  Updated: 2025-12-11T23:12:21Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Black & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109555): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame and finished legs in a gold semi-gloss finish that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:18Z
+  Updated: 2025-12-11T23:12:34Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,179.23 CAD
 - [Barstool (Set of 2) White & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109556): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame and finished legs in a gold semi-gloss finish that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:19Z
+  Updated: 2025-12-11T23:12:29Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,179.23 CAD
 - [Barstool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109667): This barstool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T10:56:20Z
+  Updated: 2025-12-11T23:12:39Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,261.45 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109668): This barstool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T10:56:23Z
+  Updated: 2025-12-11T23:12:32Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,261.45 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109674): This barstool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T10:56:24Z
+  Updated: 2025-12-11T23:12:36Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,135.76 CAD
 - [Barstool (Set of 2) Brown & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109734): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrap that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:28Z
+  Updated: 2025-12-11T23:12:36Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Beige & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109735): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame, and finished legs in a gold semi-gloss finish frame that fits in any home kitchen, dining area, or bar.
-  Updated: 2025-12-10T10:56:28Z
+  Updated: 2025-12-11T23:12:46Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,179.23 CAD
 - [Barstool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109740): The Barstool is a contemporary and stylish seating option that boasts an ivory polyester seat and a black steel frame. Its sleek and sophisticated design makes it a perfect addition to any contemporary and stylish hotel bar, home kitchen, or bar area.
-  Updated: 2025-12-10T10:56:29Z
+  Updated: 2025-12-11T23:12:40Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $474.73 CAD
 - [Barstool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109782): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the Barstool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-12-10T10:56:32Z
+  Updated: 2025-12-11T23:12:48Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $868.62 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109783): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the Barstool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-12-10T10:56:33Z
+  Updated: 2025-12-11T23:12:48Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $868.62 CAD
 - [Barstool (Set of 2) Green & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109806): Introducing the Bar Stool: where sophistication seamlessly melds with practicality. This exquisite stool boasts a lavish velvet seat, elegantly paired with a robust gold electroplated steel frame. Crafted for versatility, it's stackable for space-efficient storage and effortlessly complements both contemporary and stylish and classic settings. Your home decor with this perfect fusion of opulence and functionality, ensuring stylish comfort for your bar area. Redefine your seating experience with the bar stool today.
-  Updated: 2025-12-10T10:56:38Z
+  Updated: 2025-12-11T23:12:53Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,110.10 CAD
 - [Barstool Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109808): Experience unmatched comfort and style with the Barstool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-12-10T10:56:37Z
+  Updated: 2025-12-11T23:12:53Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $734.24 CAD
 - [Barstool Black & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109810): Experience unmatched comfort and style with the Barstool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-12-10T10:56:38Z
+  Updated: 2025-12-11T23:12:59Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $755.24 CAD
 - [Barstool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109937): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort with a curved seat covered in black faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:56:42Z
+  Updated: 2025-12-11T23:13:03Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Slate Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109938): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in slate gray faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:56:44Z
+  Updated: 2025-12-11T23:13:11Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109947): Introducing the Barstool, a masterpiece of contemporary and stylish art deco design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this stool effortlessly complements any interior, whether it's a trendy hotel bar area or an elegant home setting. The bar stool exudes a harmonious blend of comfort and style, making it an inviting addition to any bar space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike.
-  Updated: 2025-12-10T10:56:47Z
+  Updated: 2025-12-11T23:13:05Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $945.94 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109950): Experience the bar stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether a trendy hotel bar area or an elegant home setting. With its harmonious blend of comfort and style, the bar stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the bar stool today.
-  Updated: 2025-12-10T10:56:47Z
+  Updated: 2025-12-11T23:13:10Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $826.54 CAD
 - [Barstool (Set of 2) Green & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109961): The Barstool seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame has a powder-coated steel finish for universal appeal.
-  Updated: 2025-12-10T10:56:49Z
+  Updated: 2025-12-11T23:13:10Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $720.19 CAD
 - [Swivel Barstool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109974): The barstool is a wonderfully versatile and contemporary and stylish piece that works in any kitchen or workspace with its sleek design and functionally swivel seating. It is durably constructed with quality vinyl and a sturdy powder-coated steel frame. This piece brings glam and Art Deco design to any space.
-  Updated: 2025-12-10T10:56:52Z
+  Updated: 2025-12-11T23:13:19Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $735.63 CAD
 - [Swivel Barstool Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110044): Redesign your seating experience with the enchanting allure of the swivel barstool. This extraordinary Barstool combines durability, comfort, and unparalleled style, making it a remarkable statement piece that adds a touch of grandeur and contemporary and stylish luxury to any environment. Embrace the seamless fusion of deco, glam, and contemporary and stylish design embodied in the Swivel, and let it become the centerpiece of your space today.
-  Updated: 2025-12-10T10:56:57Z
+  Updated: 2025-12-11T23:13:20Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $715.43 CAD
 - [Swivel Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110046): Introducing the Swivel Barstool: deco glam and modern design in a brushed steel frame with a vinyl seat and back. Ideal for hospitality or residential use, offering durability, elegance, and superior comfort. Elevates any space with this captivating statement piece.
-  Updated: 2025-12-10T10:57:07Z
+  Updated: 2025-12-11T23:13:38Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $704.63 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110063): Introducing the Barstool, a masterpiece of contemporary and stylish art deco design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this stool effortlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. The bar stool exudes a harmonious blend of comfort and style, making it an inviting addition to any space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike.
-  Updated: 2025-12-10T10:57:11Z
+  Updated: 2025-12-11T23:13:27Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $945.94 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110066): Introducing the Barstool, a contemporary and stylish Art Deco masterpiece. Its poly linen seat and robust steel frame elegantly complement any interior, from trendy hotel bar areas to elegant homes. With a harmonious blend of comfort and style, the bar stool is an inviting addition to any space. Embrace its timeless allure and long-lasting and reliable construction for lasting sophistication.
-  Updated: 2025-12-10T10:57:08Z
+  Updated: 2025-12-11T23:13:29Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $945.94 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110069): Experience the bar stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel bar area or an elegant home setting. With its harmonious blend of comfort and style, the bar stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the bar stool today.
-  Updated: 2025-12-10T10:57:09Z
+  Updated: 2025-12-11T23:13:33Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $826.54 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110072): Experience the Counter Stool, a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable ester seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-12-10T10:57:17Z
+  Updated: 2025-12-11T23:13:35Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $805.54 CAD
 - [Barstool (Set of 2) Beige Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110097): Introducing the Barstool, a sleek, long-lasting, and reliable addition to any contemporary and stylish kitchen or bar area. Crafted for both style and functionality, this barstool is suitable for both residential and commercial settings. It boasts a sturdy steel frame, providing a robust and contemporary foundation. The seat is upholstered in high-quality performance fabric, offering both comfort and resilience against daily wear and tear. The combination of the steel frame and performance fabric makes the Barstool an ideal choice for bustling spaces, ensuring it remains a stylish and ergonomically designed seating option for superior comfort for years to come. Whether you're enjoying drinks at the bar or hosting a lively gathering, the Barstool adds contemporary and stylish elegance and practicality to your space.
-  Updated: 2025-12-10T10:57:12Z
+  Updated: 2025-12-11T23:13:39Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $812.72 CAD
 - [Barstool Green Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110100): Introducing the Barstool, a versatile and stylish addition to your kitchen or bar area. This barstool is designed to enhance both contemporary and stylish and traditional settings, whether in residential or hospitality spaces. With meticulous craftsmanship, the Barstool offers an ergonomically designed seat atop a sturdy frame for superior comfort. Its effortless design complements a range of interior styles, making it the perfect choice for those who appreciate both aesthetics and functionality. Elevate your seating experience with the Barstool, where style and comfort come together to create a sophisticated atmosphere in your space.
-  Updated: 2025-12-10T10:57:17Z
+  Updated: 2025-12-11T23:14:01Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $648.14 CAD
 - [Barstool Slate Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110169): Meet the Barstool, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this barstool brings a welcoming charm to your interior. Redefine your experience with the Barstool, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-12-10T10:57:17Z
+  Updated: 2025-12-11T23:13:40Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,193.24 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110170): Meet the Barstool, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this barstool brings a welcoming charm to your interior. Redefine your experience with the Barstool, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-12-10T10:57:16Z
+  Updated: 2025-12-11T23:13:44Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,256.24 CAD
 - [Barstool Slate Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110173): Meet the Barstool, where durability and style unite seamlessly. Designed with a sturdy steel frame and upholstered in resilient vinyl, it effortlessly complements any setting, whether it's a vibrant bar or a cozy home kitchen. With its contemporary and stylish design and practicality, this barstool adds an appealing touch to your interior. Elevate your seating experience with the Barstool, where resilience and sophistication harmoniously come together.
-  Updated: 2025-12-10T10:57:17Z
+  Updated: 2025-12-11T23:13:53Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,109.18 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110174): Meet the Barstool, where durability and style unite seamlessly. Designed with a sturdy steel frame and upholstered in resilient vinyl, it effortlessly complements any setting, whether it's a vibrant bar or a cozy home kitchen. With its contemporary and stylish design and practicality, this barstool adds an appealing touch to your interior. Elevate your seating experience with the Barstool, where resilience and sophistication harmoniously come together.
-  Updated: 2025-12-10T10:57:19Z
+  Updated: 2025-12-11T23:13:48Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,151.18 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110177): Introducing the Barstool, a seamless fusion of durability and style. Designed with a sturdy steel frame and upholstered in resilient vinyl, it effortlessly complements any bar setting, whether it's a bustling nightlife decor or your home kitchen counter. With its contemporary and stylish design and practicality, this barstool elevates your seating experience with ease. Experience elevated comfort and style with the Gartson Barstool, where resilience and sophistication unite effortlessly.
-  Updated: 2025-12-10T10:57:21Z
+  Updated: 2025-12-11T23:13:55Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $751.63 CAD
 - [Barstool (Set of 2) Vintage Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110261): Comfy and Bauhaus, the barstool has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-12-10T10:57:27Z
+  Updated: 2025-12-11T23:13:54Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $843.23 CAD
 - [Swivel Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110273): Discover the Nord Swivel Barstool, a sleek blend of practicality and contemporary and stylish design. Perfect for contemporary settings, this barstool boasts a swivel feature for enhanced functionality. Its standout forged-look steel frame not only adds an industrial edge but also promises durability. Ideal for both residential and commercial spaces, the Nord Swivel Barstool offers both comfort and style, making it a superb choice for any contemporary and stylish bar or kitchen area.
-  Updated: 2025-12-10T10:57:26Z
+  Updated: 2025-12-11T23:14:16Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,181.25 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110285): The Barstool boasts a sturdy steel base and a seat wrapped in your choice of vinyl or fabric. With its adjustable height and swivel function, this barstool offers comfort and versatility. Whether for your home bar or a commercial setting, it brings both style and practicality. Embrace its contemporary and stylish design and premium materials for an elevated seating experience.
-  Updated: 2025-12-10T10:57:27Z
+  Updated: 2025-12-11T23:13:58Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $687.83 CAD
 - [Barstool (Set of 2) White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110286): The Barstool boasts a sturdy steel base and a seat wrapped in your choice of vinyl or fabric. With its adjustable height and swivel function, this barstool offers comfort and versatility. Whether for your home bar or a commercial setting, it brings both style and practicality. Embrace its contemporary and stylish design and premium materials for an elevated seating experience.
-  Updated: 2025-12-10T10:57:28Z
+  Updated: 2025-12-11T23:14:01Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $750.83 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110305): The barstool boasts a robust steel base and a seat wrapped in vinyl, offering both durability and style. Its adjustable height and swivel function ensure versatility and comfort, making it perfect for various settings. Whether adorning your home bar or enhancing a commercial space, this barstool combines contemporary and stylish design with practicality. Embrace its sleek appearance and premium materials for an elevated seating experience in any environment.
-  Updated: 2025-12-10T10:57:32Z
+  Updated: 2025-12-11T23:14:07Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $607.13 CAD
 - [Barstool (Set of 2) Taupe & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110330): Introducing the Barstool, where style and comfort unite to elevate your bar or counter seating experience. This barstool boasts a plush fabric covering and a sleek steel frame, accented by a faux wood laminate for added warmth. Its elegant design is both practical and visually appealing, making it an ideal choice for daily use. Transform your bar area with the Barstool, a striking blend of contemporary and stylish sophistication and inviting comfort.
-  Updated: 2025-12-10T10:57:33Z
+  Updated: 2025-12-11T23:14:12Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $954.18 CAD
 - [Swivel Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110332): Redesign your seating experience with the enchanting allure of the swivel barstool. This extraordinary Barstool combines durability, comfort, and unparalleled style, making it a remarkable statement piece that adds a touch of grandeur and contemporary and stylish luxury to any environment. Embrace the seamless fusion of deco, glam, and contemporary and stylish design embodied in the Swivel, and let it become the centerpiece of your space today
-  Updated: 2025-12-10T10:57:36Z
+  Updated: 2025-12-11T23:14:13Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $782.42 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110338): Introduce a touch of sophistication to your bar area with the barstool. Designed with a long-lasting and reliable vinyl seat and back and supported by a sleek steel frame, this barstool showcases contemporary elegance. Its versatile style is a perfect match for contemporary and stylish, deco, or glam bars, ideal for both home and commercial settings. The Barstool is the epitome of chic functionality, offering comfort and style in a design that enhances any bar atmosphere.
-  Updated: 2025-12-10T10:57:36Z
+  Updated: 2025-12-11T23:14:10Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,481.07 CAD
 - [Barstool (Set of 2) Dove Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110400): The bar stool boasts a robust rubberwood frame paired with a plush fabric seat. Ideal for contemporary or urban design spaces, it effortlessly integrates into both residential and hospitality settings. With its chic and sophisticated design, the counter stool enhances any counter area with a touch of elegance and comfort.
-  Updated: 2025-12-10T10:57:38Z
+  Updated: 2025-12-11T23:14:11Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,017.32 CAD
 - [Barstool (Set of 2) Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110494): Introduce a unique, stylish piece to your home with the Barstool Gray & Walnut, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:42Z
+  Updated: 2025-12-11T23:14:18Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $868.58 CAD
 - [Barstool (Set of 2) Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110515): Introduce a unique, stylish piece to your home with the Barstool Gray & Espresso, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:42Z
+  Updated: 2025-12-11T11:14:13Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $893.63 CAD
 - [Barstool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110568): Introduce a unique, stylish piece to your home with the Barstool Brown, an exceptional example of contemporary and stylish design. Made from high-quality vinyl, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:42Z
+  Updated: 2025-12-11T23:14:18Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $493.77 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110569): Add a stylish and unique touch to your home with the Barstool in Gray, a superb example of contemporary and stylish design. Crafted from high-quality vinyl, plywood, and steel, this barstool combines aesthetics and practicality, making it a versatile choice for any space. Its sleek, contemporary design ensures it stands out as a chic addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:43Z
+  Updated: 2025-12-11T23:14:14Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $493.77 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110647): Enhance your home with the Barstool in Beige, a superb blend of contemporary and stylish design and functionality. Crafted from high-quality ester fabric, plywood, and solid ash wood, this barstool achieves the perfect balance of aesthetics and practicality. Its sleek, contemporary design makes it a versatile and standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:44Z
+  Updated: 2025-12-11T11:14:25Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,307.17 CAD
 - [Swivel Barstool Beige & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110821): The Swivel Barstool Beige & Brown makes a bold statement. This contemporary and stylish piece boasts a beige & brown finish. Constructed from textured fabric of 100% polyester and powder-coated steel, it guarantees durability. Whether in a home or a hospitality setting, the Swivel Barstool Beige & Brown excels in functionality and design. Experience elegance and function with the Swivel Barstool Beige & Brown.
-  Updated: 2025-12-10T10:57:46Z
+  Updated: 2025-12-11T11:14:22Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $1,127.68 CAD
 - [Barstool (Set of 2) Taupe & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110824): The Barstool Taupe & Brown makes a bold statement. This contemporary and stylish piece boasts a taupe & brown finish. Built to last, its faux leather 100% polyurethane, powder-coated steel composition enhances its appeal. Whether in a home or a hospitality setting, the Barstool Taupe & Brown excels in functionality and design. Add these stunning barstools to your collection today.
-  Updated: 2025-12-10T10:57:46Z
+  Updated: 2025-12-11T11:14:17Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Price: $972.11 CAD
 - [Queen Bed Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110663): Introduce a unique, stylish piece to your home with the Queen Bed Ivory, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, rubberwood, MDF, and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:52Z
+  Updated: 2025-12-11T23:14:17Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,449.00 CAD
 - [King Bed Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110664): Your bedroom with the king bed in ivory is a stunning example of contemporary and stylish design. Crafted from high-quality polyester fabric, rubberwood, MDF, and plywood, this bed seamlessly combines aesthetics and practicality. Its versatile design makes it an ideal fit for any space, while its chic, contemporary style ensures it stands out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:52Z
+  Updated: 2025-12-11T23:14:23Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,653.75 CAD
 - [Queen Bed Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110666): Introduce a unique, stylish piece to your home with the Queen Bed Black, an exceptional example of contemporary and stylish design. Made from high-quality vinyl, rubberwood, MDF, and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:52Z
+  Updated: 2025-12-11T23:14:24Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,197.00 CAD
 - [King Bed Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110667): Bring a distinctive, stylish touch to your bedroom with the King Bed in Black, a perfect showcase of contemporary and stylish design. Made from premium vinyl, rubberwood, MDF, and plywood, this bed offers the ideal blend of aesthetics and practicality. Its versatile design ensures it fits seamlessly into any space, while its sleek, contemporary style makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:54Z
+  Updated: 2025-12-11T23:14:30Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,449.00 CAD
 - [Queen Bed Beige & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110670): Introduce a unique, stylish piece to your home with the Queen Bed Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, MDF, and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:58Z
+  Updated: 2025-12-11T23:14:21Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $2,001.64 CAD
 - [King Bed Beige & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110671): Enhance your bedroom with the King Bed in Beige, a remarkable representation of contemporary and stylish design. Constructed from premium polyester fabric, MDF, and plywood, this bed offers the perfect fusion of style and practicality. Its versatile design makes it a great fit for any space, while its chic, contemporary look ensures it stands out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:57Z
+  Updated: 2025-12-11T23:14:24Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,622.25 CAD
 - [Queen Bed Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110711): The queen bed in black brings a distinctive, stylish touch to your home, showcasing contemporary and stylish design at its finest. Crafted from high-quality POLYester fabric, rubberwood, MDF, plywood, and polypropylene, this bed perfectly blends aesthetics with functionality. Its versatile design ensures it fits effortlessly into any space, while its sleek, contemporary look makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:57Z
+  Updated: 2025-12-11T23:14:32Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,228.50 CAD
 - [King Bed Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110712): Introduce a unique, stylish piece to your home with the King Bed Black, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, rubberwood, MDF, plywood, and polypropylene, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:57:58Z
+  Updated: 2025-12-11T23:14:33Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,606.50 CAD
 - [Queen Bed Olive Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110713): Bring a touch of sophistication to your home with the Queen Bed in Green, a remarkable example of contemporary and stylish design. Made from premium polyester fabric, rubberwood, MDF, plywood, and polypropylene, this bed combines aesthetic appeal with functionality. Its versatile design makes it suitable for a variety of spaces, while its chic, contemporary style ensures it stands out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:58:03Z
+  Updated: 2025-12-11T23:14:28Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,480.50 CAD
 - [King Bed Olive Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110714): Introduce a unique, stylish piece to your home with the King Bed Green, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, rubberwood, MDF, plywood, and polypropylene, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:58:03Z
+  Updated: 2025-12-11T23:14:30Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Price: $1,937.25 CAD
 - [Storage Bench (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109497): The storage bench has an MDF frame and a vinyl seat. This storage bench has multifunctional uses for any room.
-  Updated: 2025-12-10T10:58:03Z
+  Updated: 2025-12-11T23:14:30Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,260.00 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109980): Introducing the Bench, an exquisite fusion of style and comfort. Draped in luxurious fabric, it effortlessly enhances any environment, suitable for both hospitality and residential spaces. With its contemporary and stylish design infused with hints of glamour and flair, this bench becomes a captivating centerpiece of your interior. Redefine your seating with the Bench, where comfort and sophistication converge seamlessly.
-  Updated: 2025-12-10T10:58:04Z
+  Updated: 2025-12-11T23:14:32Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,194.27 CAD
 - [Storage Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109994): Meet the Storage Bench: a versatile and chic addition to any space, whether it's your home or a hotel. Wrapped in quilted fabric, this bench seamlessly blends into various rooms and design styles, from deco to contemporary and stylish and glam. With its dual functionality as both seating and storage, the Storage Bench is the perfect balance of style and practicality for your interior needs.
-  Updated: 2025-12-10T10:58:05Z
+  Updated: 2025-12-11T23:14:34Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,937.50 CAD
 - [Storage Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109995): Introducing the Storage Bench, a versatile piece that effortlessly complements any setting, be it a home or hotel. Adorned with quality fabric, this bench seamlessly harmonizes with diverse rooms and design aesthetics, including contemporary and stylish, and glam styles. With its dual functionality as both seating and storage, the Storage Bench strikes the perfect balance between style and practicality for all your interior needs.
-  Updated: 2025-12-10T10:58:07Z
+  Updated: 2025-12-11T23:14:35Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,463.66 CAD
 - [Bench Stone Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110080): Introducing the Bench, where elegance meets durability. Wrapped in luxurious velvet and supported by sleek steel legs, it is the perfect addition to any space. With its contemporary and stylish design, it seamlessly complements various interior styles. Experience comfort and style with the Bench, where opulence and resilience harmoniously come together.
-  Updated: 2025-12-10T10:58:08Z
+  Updated: 2025-12-11T23:14:38Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $803.69 CAD
 - [Bench Glitter Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110081): Meet the Bench, where sophistication seamlessly blends with strength. Draped in sumptuous velvet and perched upon sleek steel legs, it effortlessly elevates any space. With its contemporary and stylish design, it harmonizes effortlessly with diverse interior aesthetics. Experience comfort and style with the Bench, where opulence and durability unite seamlessly.
-  Updated: 2025-12-10T10:58:12Z
+  Updated: 2025-12-11T23:14:38Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $591.15 CAD
 - [Storage Bench Oatmeal Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110082): Discover the Storage Bench, a blend of practicality and style. With its plush velvet covering and sturdy steel legs, it offers both elegance and durability. This contemporary piece effortlessly elevates any space while providing hidden storage for your convenience. Redefine your decor with the Storage Bench, where sophistication and versatility come together harmoniously.
-  Updated: 2025-12-10T10:58:12Z
+  Updated: 2025-12-11T23:14:39Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $680.61 CAD
 - [Storage Bench Gravel Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110083): Introducing the Storage Bench, a versatile and elegant addition to any room. With its sleek design, practical storage, and luxurious velvet covering, it effortlessly enhances the functionality and style of your space. Crafted for both organization and sophistication, this bench is a must-have. You're with the Storage Bench, where versatility meets plush elegance.
-  Updated: 2025-12-10T10:58:12Z
+  Updated: 2025-12-11T23:14:42Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,217.33 CAD
 - [Bench Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110179): Introducing the Bench with Vinyl, a sleek and contemporary, and stylish addition perfect for any room. Designed with minimal elegance in mind, it effortlessly enhances your space's aesthetic. Crafted for both style and versatility, this bench is a must-have for contemporary interiors. Elevate your decor with the Bench, where contemporary and stylish minimalism meets durability.
-  Updated: 2025-12-10T10:58:15Z
+  Updated: 2025-12-11T23:14:41Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $868.60 CAD
 - [Bench Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110180): Introducing the Bench, a versatile addition that enhances any room crafted with contemporary and stylish design and featuring a convenient drink tray. This bench effortlessly elevates your space, combining style and functionality in one elegant piece. Upgrade your decor with this chic seating solution, where contemporary and stylish aesthetics seamlessly merge with practicality.
-  Updated: 2025-12-10T10:58:16Z
+  Updated: 2025-12-11T23:14:50Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $743.09 CAD
 - [Bench Black & White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110183): Meet the Bench, a harmonious fusion of form and function. This bench showcases a plush fabric top paired with a robust wood body, ensuring comfort and durability. Its versatile design, with a contemporary and stylish or glam touch, seamlessly fits into various interior styles. Beyond its stylish appearance, the bench offers practical seating and adds a touch of elegance to any space. Elevate your home with this versatile and chic piece, where functionality meets sophistication in perfect harmony.
-  Updated: 2025-12-10T10:58:16Z
+  Updated: 2025-12-11T23:14:44Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $912.32 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110186): Meet the Bench, a perfect blend of comfort and elegance. Crafted with a sturdy wood frame and adorned with soft fabric upholstery, this bench offers a cozy seating experience while adding a touch of sophistication to your space. Its versatile design allows it to effortlessly complement a range of interior styles. The Bench is not just an ergonomically designed, superior comfort seating option; it's a stylish statement piece that enhances the ambiance of any room. Elevate your decor with the Bench, where comfort meets timeless beauty.
-  Updated: 2025-12-10T10:58:17Z
+  Updated: 2025-12-11T23:14:59Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $659.95 CAD
 - [Bench Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110301): Introducing the Bench, a stylish seating solution marrying contemporary and stylish aesthetics with timeless charm. Crafted with care, this bench boasts a long-lasting and reliable wood frame complemented by a plush fabric seat, offering both comfort and sophistication. Its versatile design effortlessly complements contemporary and stylish, and deco-inspired dining areas, making it equally suitable for residential and hospitality settings. Whether for intimate family dinners or bustling restaurant atmospheres, the Bench adds a touch of elegance to any space. Elevate your dining experience with the Bench, where quality craftsmanship and contemporary design converge to create an inviting and stylish seating option.
-  Updated: 2025-12-10T10:58:18Z
+  Updated: 2025-12-11T23:14:47Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,015.39 CAD
 - [Bench White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110334): Introducing the Bench, an embodiment of contemporary elegance and robust design. This bench boasts a strong steel frame paired with a plush fabric seat, offering both unparalleled durability and comfort. Its sleek design makes it a versatile addition to any contemporary and stylish space, effortlessly blending with various decor styles. The Bench is more than just a seating option; it's a statement of sophistication and functionality. Enhance your living space with the Bench, where style and strength unite.
-  Updated: 2025-12-10T10:58:22Z
+  Updated: 2025-12-11T23:14:48Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $848.61 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110335): Introducing the Bench, an embodiment of contemporary elegance and robust design. This bench boasts a strong steel frame paired with a plush fabric seat, offering both unparalleled durability and comfort. Its sleek design makes it a versatile addition to any contemporary and stylish space, effortlessly blending with various decor styles. The Bench is more than just a seating option; it's a statement of sophistication and functionality. Enhance your living space with the Bench, where style and strength unite.
-  Updated: 2025-12-10T10:58:22Z
+  Updated: 2025-12-11T23:15:15Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $848.61 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110350): Presenting the Bench, a fusion of contemporary and stylish elegance and sturdy design. Meticulously constructed, this bench combines a long-lasting and reliable steel frame with a plush velvet seat, offering both comfort and a contemporary aesthetic. Its sleek, timeless design fits seamlessly into a variety of interior styles, making it a versatile addition to any setting. The Bench isn't just a seating solution; it's a stylish statement that enhances the overall charm and functionality of your space. Embrace the blend of durability and elegance with the Bench.
-  Updated: 2025-12-10T10:58:22Z
+  Updated: 2025-12-11T23:14:53Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $836.93 CAD
 - [Bench Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110351): Presenting the Bench, a fusion of contemporary and stylish elegance and sturdy design. Meticulously constructed, this bench combines a long-lasting and reliable steel frame with a plush velvet seat, offering both comfort and a contemporary aesthetic. Its sleek, timeless design fits seamlessly into a variety of interior styles, making it a versatile addition to any setting. The bench isn't just a seating solution; it's a stylish statement that enhances the overall charm and functionality of your space. Embrace the blend of durability and elegance with the Bench.
-  Updated: 2025-12-10T10:58:27Z
+  Updated: 2025-12-11T23:14:50Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $836.93 CAD
 - [Bench Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110353): Discover the Bench, an embodiment of contemporary and stylish design and durability. This bench pairs a robust steel frame with a plush fabric seat, creating a perfect balance of comfort and contemporary style. Its streamlined design allows it to blend seamlessly into various interior styles, adding both functionality and a touch of contemporary and stylish sophistication to any space. The Bench is more than just a seating option; it's a statement piece that enhances the ambiance of any room. Elevate your decor with the Bench, where robust construction meets elegant comfort.
-  Updated: 2025-12-10T10:58:27Z
+  Updated: 2025-12-11T23:14:52Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $858.04 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110354): Introducing the Bench, where robust design meets contemporary and stylish elegance. This bench boasts a long-lasting and reliable steel frame coupled with a plush fabric seat, blending comfort with a contemporary aesthetic. Its sleek and versatile style effortlessly enhances various interior decors, adding both functionality and a touch of sophistication to any setting. The Bench is more than a seating solution; it's a statement piece that elevates the ambiance of any room. Transform your space with the Bench, a perfect marriage of strength and style.
-  Updated: 2025-12-10T10:58:28Z
+  Updated: 2025-12-11T23:15:01Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $695.25 CAD
 - [Bench Blue - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110471): Introduce a unique, stylish piece to your home with the Bench Blue, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:58:32Z
+  Updated: 2025-12-11T11:14:54Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $1,350.68 CAD
 - [Bench Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110472): Introduce a unique, stylish piece to your home with the Bench Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:58:34Z
+  Updated: 2025-12-11T11:14:59Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Price: $811.82 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109084): The coffee table is a sleek, contemporary, and stylish piece made from long-lasting and reliable mango wood. Its minimalist design and rich black finish add a touch of sophistication to any living space, making it a stylish and functional centerpiece for contemporary interiors.
-  Updated: 2025-12-10T10:58:35Z
+  Updated: 2025-12-11T23:15:03Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $860.31 CAD
 - [Coffee Table White & Antique Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109457): The coffee table has a steel frame with a marble top. This piece works great in any contemporary and stylish residential or hospitality space.
-  Updated: 2025-12-10T10:58:36Z
+  Updated: 2025-12-11T23:15:05Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,159.20 CAD
 - [Coffee Table Antique Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109462): The coffee table has an aluminum body. This table makes the organic look contemporary and stylish and boho chic. It looks great in any space, a hospitality of residential space.
-  Updated: 2025-12-10T10:58:37Z
+  Updated: 2025-12-11T23:15:05Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,623.68 CAD
 - [Coffee Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109598): This coffee table is made with a powder-coated steel frame and trays. This fun table works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-12-10T10:58:42Z
+  Updated: 2025-12-11T23:15:07Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $325.23 CAD
 - [Coffee Table Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109751): With both form and function in mind, the coffee table is the perfect choice for any contemporary living space. Its sturdy construction and high-quality materials ensure that it will remain a stylish and functional piece for years to come. Whether you're looking to add a touch of contemporary and stylish sophistication to your hotel lobby, hotel room, or living room, the coffee table is the perfect choice.
-  Updated: 2025-12-10T10:58:46Z
+  Updated: 2025-12-11T23:14:59Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,670.97 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109764): The coffee table is a contemporary and stylish piece of furniture that boasts a painted wood body and a marble top. Its elegant design and sturdy construction make it a perfect addition to any hotel lobby or living room.
-  Updated: 2025-12-10T10:58:42Z
+  Updated: 2025-12-11T23:15:02Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,766.41 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109771): The coffee table is a luxurious and sophisticated piece that adds a touch of elegance to any hotel lobby or contemporary and stylish living room. Its stunning marble top and bottom create a sense of opulence and grandeur, while its mango wood legs provide a warm and natural contrast.
-  Updated: 2025-12-10T10:58:43Z
+  Updated: 2025-12-11T23:15:07Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,433.25 CAD
 - [Coffee Table Set (2-Piece) Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109775): Introducing the Coffee Table Set, a stunning addition to any contemporary and stylish residential or hospitality space. Crafted with a sleek steel frame and marble shelves, this set exudes elegance and sophistication.
-  Updated: 2025-12-10T10:58:47Z
+  Updated: 2025-12-11T23:15:06Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $799.43 CAD
 - [Coffee Table Set (2-Piece) Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109835): Elevate your interior decor with the captivating allure of the coffee table. This exceptional table seamlessly combines durability, charm, and functionality, making it an outstanding statement piece that adds a touch of luxury and sophistication to any setting. Redefine your space with the enchanting fusion of glam and contemporary and stylish design embodied in the coffee table, and let it become the centerpiece of your home or hotel today.
-  Updated: 2025-12-10T10:58:47Z
+  Updated: 2025-12-11T23:15:11Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $852.28 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109838): Discover the Coffee Table, where contemporary and stylish deco design seamlessly marries form and function. Its sturdy, powder-coated steel frame and rich wooden top combine to create a statement piece suitable for any living space or hallway. Versatile and stylish, it effortlessly complements various interior aesthetics.
-  Updated: 2025-12-10T10:58:52Z
+  Updated: 2025-12-11T23:15:08Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,317.60 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109840): Introducing the Coffee Table, a testament to contemporary and stylish design and versatility. Crafted with a long-lasting and reliable powder-coated steel frame and matching top, it effortlessly complements any living space or hallway. Its contemporary and stylish deco aesthetic adds a touch of elegance, while the sturdy construction ensures longevity. Elevate your decor with the coffee table, where contemporary style meets functional sophistication.
-  Updated: 2025-12-10T10:58:52Z
+  Updated: 2025-12-11T23:15:18Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,259.92 CAD
 - [Coffee Table Copper & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109841): Meet the Coffee Table, a striking marriage of form and function. Its sleek powder-coated steel frame, combined with its sophisticated glass top, exudes contemporary and stylish sophistication and deco-inspired aesthetics. Whether adorning a living space or hallway, this table effortlessly harmonizes with various interior styles. Elevate your home decor with the Coffee Table, a flawless synthesis of style and adaptability.
-  Updated: 2025-12-10T10:58:57Z
+  Updated: 2025-12-11T23:15:17Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $816.08 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109851): The coffee table is a stunning piece of furniture that seamlessly blends the natural beauty of acacia wood with a contemporary and stylish, and sleek design. Its natural white-washed finish creates a sense of warmth and comfort, while its minimalist aesthetic adds a touch of sophistication to any living room.
-  Updated: 2025-12-10T10:58:57Z
+  Updated: 2025-12-11T23:15:18Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,616.87 CAD
 - [Coffee Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109858): Crafted with precision and keen attention to detail, the coffee table is a testament to the beauty of simplicity. Its clean lines and minimalist aesthetic create a sense of order and balance, while its contrasting materials provide a striking visual contrast that turns heads.
-  Updated: 2025-12-10T10:58:58Z
+  Updated: 2025-12-11T23:15:22Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,228.50 CAD
 - [Coffee Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109861): Not only is it stylish, but it's also incredibly long-lasting, reliable, and versatile. The sturdy construction of the coffee table ensures that it can withstand the wear and tear of daily use, making it a great investment for those who want a long-lasting piece of furniture. Its ample surface area makes it perfect for displaying decorative items or hosting gatherings with friends and family.
-  Updated: 2025-12-10T10:59:04Z
+  Updated: 2025-12-11T23:15:19Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $771.75 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109866): The coffee table is a stunning piece of furniture that brings the natural beauty of travertine-style marble to any contemporary and stylish minimalist hotel lobby. Its clean lines and minimalist design create a sense of order and balance, while its travertine-style marble top exudes a sense of luxury and refinement.
-  Updated: 2025-12-10T10:59:05Z
+  Updated: 2025-12-11T23:15:24Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $771.75 CAD
 - [Coffee Table Set (2-Piece) Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109872): The Coffee Table Set is a stylish and functional set of furniture that boasts natural whitewashed acacia wood tops and a boho design. Its warm and inviting aesthetic makes it a perfect addition to any contemporary and stylish hotel lobby or living room.
-  Updated: 2025-12-10T10:59:03Z
+  Updated: 2025-12-11T23:15:26Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,350.66 CAD
 - [Coffee Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109914): Overall, the coffee table is a contemporary and stylish and sophisticated piece of furniture that combines a white marble top with a natural white-washed frame. Its durability, versatility, and elegant design make it a great choice for anyone looking to add a touch of sophistication and functionality to their residential or hospitality space.
-  Updated: 2025-12-10T10:59:04Z
+  Updated: 2025-12-11T23:15:24Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,118.25 CAD
 - [Coffee Table Set (2-Piece) White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109920): The coffee table set is a sleek, contemporary, and stylish piece of furniture that is perfect for any contemporary living room or hotel lobby. It boasts an elegant white marble top. The base of the table is made from painted wood, which adds a touch of warmth to the overall design while maintaining the minimalist aesthetic. The clean lines and simple design of the coffee table make it an excellent choice for those who appreciate contemporary and stylish minimalist decor. Whether you're looking for a coffee table for your home or a hotel lobby, the Coffee Table is a stylish and functional choice.
-  Updated: 2025-12-10T10:59:04Z
+  Updated: 2025-12-11T23:15:29Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,890.00 CAD
 - [Coffee Table Set (2-Piece) Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110032): Discover the Coffee Table Set, a celebration of contemporary design and adaptability. Made with a resilient powder-coated steel frame and a coordinating MDF top, it seamlessly enhances any living space or hallway. Its contemporary and stylish deco-inspired aesthetics bring an element of grace, all while the robust build promises lasting durability. Elevates your decor with the coffee table set, where the fusion of contemporary style and functional sophistication takes center stage.
-  Updated: 2025-12-10T10:59:05Z
+  Updated: 2025-12-11T23:15:29Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $560.89 CAD
 - [Coffee Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110255): Meet the Coffee Table, a luxurious creation featuring a cast aluminum base and exquisite marble top. Perfect for hotel lobbies or contemporary and stylish living spaces, it exudes hints of glam that add a touch of opulence to any setting. Elevate your decor with the Harmas Coffee Table, where the robust elegance of cast aluminum meets the timeless beauty of marble, resulting in an irresistible fusion of style and sophistication.
-  Updated: 2025-12-10T10:59:18Z
+  Updated: 2025-12-11T23:15:40Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $749.70 CAD
 - [Coffee Table Black & Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110299): Introducing the coffee table, where sophistication meets functionality with finesse. Crafted with meticulous attention, this table boasts a sturdy MDF wood frame with storage complemented by graceful wood legs, ensuring both durability and style. Its adaptable design effortlessly blends into contemporary and stylish, glam, or deco-inspired living spaces, enhancing the ambiance of any room. With its generous surface area, the coffee table provides ample space for beverages, books, and decor, while its sleek silhouette adds a touch of elegance to your living area.
-  Updated: 2025-12-10T10:59:13Z
+  Updated: 2025-12-11T23:16:01Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,406.60 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110346): Introducing the Coffee Table, a stunning blend of elegance and durability. Its sintered stone top boasts both visual appeal and resilience, while the steel legs are expertly wrapped in vinyl for a sleek finish. This coffee table is a versatile addition to any space, whether it graces your living room or enhances a contemporary and stylish office. The coffee table not only provides a stylish surface for your essentials but also adds a touch of contemporary sophistication. Elevate your decor with the coffee table, where form meets function in perfect harmony.
-  Updated: 2025-12-10T10:59:14Z
+  Updated: 2025-12-11T23:15:37Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,459.42 CAD
 - [Coffee Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110594): The coffee table in white is a stylish centerpiece for any contemporary and stylish living space. Its marble surf and iron frame offer a perfect balance of elegance and durability, making it a standout piece for both residential and hospitality environments. The clean, white finish complements a wide range of decor styles.
-  Updated: 2025-12-10T10:59:17Z
+  Updated: 2025-12-11T11:15:40Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,417.50 CAD
 - [Coffee Table White & Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110595): The coffee table in white & brass brings a contemporary edge to indoor living spaces. Featuring a luxurious marble surface paired with an iron frame, the contrast of white and brass gives this coffee table a chic, contemporary, and stylish look. Perfect for contemporary and stylish interiors, its design makes a bold statement while providing functional elegance.
-  Updated: 2025-12-10T10:59:17Z
+  Updated: 2025-12-11T11:15:43Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,874.25 CAD
 - [Coffee Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110599): The coffee table in brass is a stylish centerpiece for any contemporary and stylish living space. Featuring a combination of glass, marble, and iron, this coffee table provides both durability and a refined look. The brass accents complement the luxurious marble top, making it suitable for residential homes or hospitality lounges where elegance is key.
-  Updated: 2025-12-10T10:59:17Z
+  Updated: 2025-12-11T23:16:15Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,937.25 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110602): The coffee table in multicolor brings vibrant design to indoor living spaces. Made from terrazzo and iron, this coffee table is both long-lasting and reliable and visually striking. Its multicolor surf adds a playful touch, making it perfect for contemporary residential or hospitality environments. This table serves as a bold centerpiece in living rooms or common areas.
-  Updated: 2025-12-10T10:59:18Z
+  Updated: 2025-12-11T11:15:37Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,228.50 CAD
 - [Coffee Table Bronze Sand Cast Glass & Iron](https://www.rugbranch.com/products/rbzo110615): Introduce a unique, stylish piece to your home with the Coffee Table Bronze, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand cast glass and iron, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:59:21Z
+  Updated: 2025-12-11T23:15:40Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $2,184.71 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110617): Introduce a unique, stylish piece to your home with the Coffee Table Black, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand cast glass and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:59:21Z
+  Updated: 2025-12-11T11:15:38Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $2,043.78 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110620): Introduce a unique, stylish piece to your home with the Coffee Table Black, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand-cast glass and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:59:21Z
+  Updated: 2025-12-11T11:15:50Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $2,143.66 CAD
 - [Coffee Table Set (2-Piece) Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110622): Introduce a unique, stylish piece to your home with the Coffee Table Set Bronze, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand-cast glass and iron, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:59:22Z
+  Updated: 2025-12-11T11:15:48Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,002.10 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110626): Introduce a unique, stylish piece to your home with the Coffee Table Multicolor, an exceptional example of contemporary and stylish design. Made from high-quality marble, MDF, and iron, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary, design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T10:59:23Z
+  Updated: 2025-12-11T11:15:39Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,086.75 CAD
 - [Coffee Table Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110644): The Side Table White & natural brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-12-10T10:59:26Z
+  Updated: 2025-12-11T11:15:39Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,651.06 CAD
 - [Coffee Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110803): The coffee table in walnut brings warmth and elegance to indoor living spaces. Made from solid mango wood, this coffee table boasts a rich walnut finish that adds a natural touch to contemporary and stylish interiors. Its long-lasting and reliable design makes it suitable for both residential homes and hospitality settings, serving as a functional and stylish centerpiece.
-  Updated: 2025-12-10T10:59:32Z
+  Updated: 2025-12-11T11:15:42Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Price: $1,219.37 CAD
 - [Console Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109761): The console table boasts a sleek and contemporary style design that is perfect for hotel lobbies, entryways, or even behind sofas. The table boasts a luxurious marble top that is supported by steel legs, creating a sturdy and long-lasting, and reliable base. The table is designed to be both functional and stylish, while also adding a touch of glamour to any space. The console table is perfect for those who appreciate minimalist design and high-end materials.
-  Updated: 2025-12-10T10:59:32Z
+  Updated: 2025-12-11T23:15:46Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,228.50 CAD
 - [Console Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109770): Crafted with the highest-quality materials and designed with impeccable attention to detail, the console table is a testament to the beauty of simplicity and the power of minimalism. Its sleek and elegant design makes it an ideal choice for anyone who wants to create a stylish and practical space.
-  Updated: 2025-12-10T10:59:32Z
+  Updated: 2025-12-11T23:16:00Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,559.25 CAD
 - [Console Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109836): Introducing the Console Table: a stunning fusion of form and function. Crafted with a sleek powder-coated steel frame and topped with elegant glass, it embodies contemporary and stylish sophistication and inspired design. Ideal for any living space or hallway, this table seamlessly complements diverse interiors. Your decor with the Console Table, a perfect blend of style and versatility for your home.
-  Updated: 2025-12-10T10:59:33Z
+  Updated: 2025-12-11T23:15:48Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $706.65 CAD
 - [Console Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109854): The natural white-washed acacia wood top of the console table provides a warm and inviting surface that is perfect for displaying decorative items or storing everyday essentials. Its minimalist design adds a sleek and contemporary and stylish touch to the overall look of the table, making it a perfect fit for any contemporary living space. The sturdy construction of the table ensures long-lasting durability, making it a great choice for daily use.
-  Updated: 2025-12-10T10:59:41Z
+  Updated: 2025-12-11T23:15:52Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,016.74 CAD
 - [Console Table Set (2-Piece) White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109921): The Console Table Set is a stylish and functional piece of furniture that boasts a contemporary and stylish design, long-lasting and reliable construction, and versatile use. Its white marble top and painted wood base create an elegant look that is perfect for any contemporary and stylish home. Whether used in an entryway or behind a sofa, this console table is sure to make a statement in any room.
-  Updated: 2025-12-10T10:59:41Z
+  Updated: 2025-12-11T23:15:55Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,827.00 CAD
 - [Console Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110226): Discover the Console Table, an exquisite creation meticulously crafted from solid acacia wood. Its contemporary, organic design strikes a perfect harmony between minimalism and maximalism. This table is not just functional; it's a captivating statement piece that seamlessly complements contemporary and stylish interiors. Elevate your living space with the Console Table, where the timeless beauty of acacia wood converges with an artful blend of design elements.
-  Updated: 2025-12-10T10:59:42Z
+  Updated: 2025-12-11T23:15:56Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $962.18 CAD
 - [Console Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110230): Introducing the Console Table, an epitome of contemporary and stylish elegance with a touch of luxury. Topped with exquisite marble and supported by a sturdy mango wood base, this table exudes sophistication. Its minimalist design seamlessly adapts to various settings, be it in hospitality or residential spaces, living rooms, lobbies, or entryways. Experience the harmonious blend of minimalism and opulence with the Console Table, where the quality of materials meets a timeless aesthetic.
-  Updated: 2025-12-10T10:59:42Z
+  Updated: 2025-12-11T23:15:53Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $907.20 CAD
 - [Console Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110502): Bring a touch of contemporary and stylish elegance to your home with the Console Table in Espresso, a stunning example of contemporary design. Crafted from high-quality rubberwood, this table effortlessly combines aesthetics with practicality, making it a versatile option for any room. Its sleek, contemporary, and stylish style ensures it will stand out as a key feature in any contemporary and stylish home, offering both functionality and visual appeal.
-  Updated: 2025-12-10T10:59:46Z
+  Updated: 2025-12-11T11:15:56Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $623.91 CAD
 - [Console Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110593): The console table in white combines contemporary and stylish design with luxurious materials. Crafted from white marble and iron, this console table brings sophistication and functionality to indoor living spaces. Ideal for residential and hospital use, its sleek lines and minimalist look make it a perfect fit for entryways or living rooms.
-  Updated: 2025-12-10T10:59:46Z
+  Updated: 2025-12-11T11:15:56Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,890.00 CAD
 - [Console Table White & Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110596): The Console Table in White & Brass is a sophisticated addition to any contemporary living space. The marble top and iron frame combine to create a striking contrast between the white surf and brass accents. Ideal for entryways, living rooms, or hospitality settings, this console table offers both functionality and contemporary and stylish flair.
-  Updated: 2025-12-10T10:59:47Z
+  Updated: 2025-12-11T11:16:08Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $2,189.25 CAD
 - [Console Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110600): The console table in brass offers contemporary and stylish sophistication with its blend of materials. Built with glass, marble, and iron, this console table boasts a brass finish that adds a touch of luxury to any indoor living area. Its sleek design is ideal for both residential and hospitality environments, providing a functional yet stylish surface for entryways or living rooms.
-  Updated: 2025-12-10T10:59:47Z
+  Updated: 2025-12-11T11:15:57Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,984.50 CAD
 - [Console Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110805): The console table in walnut is a sleek and functional addition to contemporary and stylish interiors. Made from solid mango wood, its rich walnut finish complements its minimalist design. Perfect for residential homes or hospitality spaces, this console table offers both style and practical storage for entryways or living rooms.
-  Updated: 2025-12-10T10:59:48Z
+  Updated: 2025-12-11T11:16:07Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Price: $1,139.02 CAD
 - [Counter Stool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101390): Built for comfort, this ergonomic counter stool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The white faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-12-10T10:59:53Z
+  Updated: 2025-12-11T23:15:59Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,059.74 CAD
 - [Counter Stool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101408): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat is covered in white faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:59:52Z
+  Updated: 2025-12-11T23:16:05Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101409): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in black faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T10:59:53Z
+  Updated: 2025-12-11T23:16:08Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101691): This counter stool has mid century contemporary and stylish urban lines and looks great in any space, with a heavy duty vinyl covering a steel frame, and finished legs in walnut heat-transfer vinyl wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:59:54Z
+  Updated: 2025-12-11T23:16:07Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Azure Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101692): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame and finished legs in walnut heat-transfer vinyl-wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:59:57Z
+  Updated: 2025-12-11T23:16:12Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Beige & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101693): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame, and finished legs in walnut heat-transfer vinyl-wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:59:57Z
+  Updated: 2025-12-11T23:16:10Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101774): The counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this counter stool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:59:56Z
+  Updated: 2025-12-11T23:16:21Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $399.27 CAD
 - [Counter Stool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101775): The counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this counter stool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T10:59:58Z
+  Updated: 2025-12-11T23:16:22Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $399.27 CAD
 - [Counter Stool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101776): The counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this counter stool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:08Z
+  Updated: 2025-12-11T23:16:35Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $388.77 CAD
 - [Counter Stool (Set of 2) Brown & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo102028): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in brown faux leather with dramatic stitching. Brushed stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T11:00:08Z
+  Updated: 2025-12-11T23:16:17Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) White & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109069): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:08Z
+  Updated: 2025-12-11T23:17:03Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Vintage Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109323): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T11:00:11Z
+  Updated: 2025-12-11T23:16:27Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Charcoal - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109324): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T11:00:08Z
+  Updated: 2025-12-11T23:16:25Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Dark Gray & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109392): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort. The curved seat is covered in dark gray faux leather with dramatic stitching. Matte black stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T11:11:07Z
+  Updated: 2025-12-11T23:16:42Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,070.26 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109537): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black matte finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:08Z
+  Updated: 2025-12-11T23:16:34Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109538): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:09Z
+  Updated: 2025-12-11T23:16:39Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Azure Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109539): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:12Z
+  Updated: 2025-12-11T23:16:35Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Black & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109552): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:17Z
+  Updated: 2025-12-11T23:16:34Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,160.40 CAD
 - [Counter Stool (Set of 2) White & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109553): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:17Z
+  Updated: 2025-12-11T23:16:38Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,160.40 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109649): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% Polypolyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T11:00:17Z
+  Updated: 2025-12-11T23:16:57Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109652): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-12-10T11:00:19Z
+  Updated: 2025-12-11T23:16:42Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Gray & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109662): This counter stool has a slender frame that combines mid-century contemporary and stylish with glamour and decorative elements and works well in spaces, residential or hospitality.
-  Updated: 2025-12-10T11:00:22Z
+  Updated: 2025-12-11T23:16:41Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,008.90 CAD
 - [Counter Stool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109665): This counter stool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality setting.
-  Updated: 2025-12-10T11:00:22Z
+  Updated: 2025-12-11T23:17:39Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,241.77 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109666): This counter stool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in residential or hospitality settings.
-  Updated: 2025-12-10T11:00:25Z
+  Updated: 2025-12-11T23:16:54Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,241.77 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109672): This counter stool has a nice, wrapped seat and back with a sturdy frame that combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-12-10T11:00:28Z
+  Updated: 2025-12-11T23:17:14Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,142.76 CAD
 - [Counter Stool (Set of 2) Brown & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109732): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in walnut, the heat-transfer vinyl-wrapped steel frame fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:31Z
+  Updated: 2025-12-11T23:17:18Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Beige & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109733): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish steel frame It fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-12-10T11:00:28Z
+  Updated: 2025-12-11T23:16:56Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,160.40 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109739): The seat of the counter stool is made from a soft, long-lasting, and reliable shearling-style fabric that provides both comfort and style. The ivory color of the fabric adds a touch of sophistication to the overall design of the stool. The steel frame of the stool is sturdy, long-lasting, and reliable, providing long-lasting support and stability. The contemporary and stylish design of the stool makes it a perfect fit for any contemporary setting, whether in a hotel bar or a home kitchen.
-  Updated: 2025-12-10T11:00:28Z
+  Updated: 2025-12-11T23:16:55Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $488.42 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109741): The seat of the counter stool is made from a soft, long-lasting, and reliable shearling-style fabric that provides both comfort and style. The ivory color of the fabric adds a touch of sophistication to the overall design of the stool. The steel frame of the stool is sturdy, long-lasting, and reliable, providing long-lasting support and stability. The contemporary and stylish design of the stool makes it a perfect fit for any contemporary setting, whether in a hotel bar or a home kitchen.
-  Updated: 2025-12-10T11:00:39Z
+  Updated: 2025-12-11T23:17:54Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $390.73 CAD
 - [Counter Stool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109780): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the counter stool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of effortless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-12-10T11:00:38Z
+  Updated: 2025-12-11T23:17:03Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $841.18 CAD
 - [Counter Stool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109781): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the counter stool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-12-10T11:00:32Z
+  Updated: 2025-12-11T23:17:26Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $841.18 CAD
 - [Counter Stool (Set of 2) Green & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109805): Introducing the counter stool, where sophistication meets practicality. This stunning stool boasts a luxurious velvet seat, complemented by a sturdy gold electroplated steel frame. Designed with versatility in mind, it's stackable for convenient storage and fits seamlessly into any contemporary and stylish or classic setting. Your home decor with this blend of opulence and functionality ensures comfort and style for your kitchen or bar area. Upgrade your seating experience with the counter stool today.
-  Updated: 2025-12-10T11:00:37Z
+  Updated: 2025-12-11T23:17:10Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,078.60 CAD
 - [Counter Stool Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109807): Experience unmatched comfort and style with the counter stool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and effortless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-12-10T11:00:40Z
+  Updated: 2025-12-11T23:17:11Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $704.63 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109811): Indulge in superior comfort and style with the counter stool. Embraced with plush teddy fabric and supported by a chic black steel frame, this counter stool embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy design makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both deco and contemporary and stylish interiors. Your seating experience with the counter stool, where opulence and adaptability converge seamlessly.
-  Updated: 2025-12-10T11:00:36Z
+  Updated: 2025-12-11T23:17:24Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,172.16 CAD
 - [Counter Stool (Set of 2) Red & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109813): Indulge in superior comfort and style with the Counter Stool. Embrd by plush fabric and supported by a chic black steel frame, this counter stool embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy gn makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both and contemporary and stylish interiors. your seating experience with the Counter Stool, where opulence and adaptability converge seamlessly.
-  Updated: 2025-12-10T11:00:37Z
+  Updated: 2025-12-11T23:17:12Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,193.16 CAD
 - [Counter Stool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109935): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in black faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T11:00:47Z
+  Updated: 2025-12-11T23:17:39Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Slate Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109936): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in slate gray faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-12-10T11:00:42Z
+  Updated: 2025-12-11T23:18:03Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109946): Introducing the counter stool, a masterpiece of contemporary and stylish art design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this stool effortlessly complements any interior, whether a trendy hotel area or an elegant home setting. The counter stool exudes a harmonious blend of comfort and style, making it an inviting addition to any counter space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike. Elevate your counter experience with the Counter Stool today
-  Updated: 2025-12-10T11:00:47Z
+  Updated: 2025-12-11T23:17:19Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $949.60 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109949): Experience the Counter Stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-12-10T11:00:42Z
+  Updated: 2025-12-11T23:18:48Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $780.65 CAD
 - [Swivel Counter Stool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109972): The counter stool is a wonderfully versatile and contemporary and stylish piece that works in any kitchen or workspace with its sleek design and functionally swivel seating. It is durably constructed with quality vinyl and a sturdy powder-coated steel frame. This piece brings glam and Art Deco design to any space.
-  Updated: 2025-12-10T11:00:43Z
+  Updated: 2025-12-11T23:17:24Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $700.64 CAD
 - [Swivel Counter Stool Black & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109973): The counter stool is a wonderfully versatile and contemporary and stylish piece that works in any kitchen or workspace with its sleek design and functionally swivel seating. It is durably constructed with quality vinyl and a sturdy powder-coated steel frame. This piece brings glam and Art Deco design to any space.
-  Updated: 2025-12-10T11:00:47Z
+  Updated: 2025-12-11T23:17:33Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $711.14 CAD
 - [Counter Stool Midnight Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109992): Introducing the counter stool in midnight gray: where luxury and versatility harmonize effortlessly. Enveloped in sumptuous velvet, this barstool is equally at home in residential spaces and upscale hotels. Its dynamic design seamlessly blends deco, contemporary, and stylish and glam elements, making it a striking addition to any interior. Elevates your seating experience with the Counter Stool Gray, where style knows no bounds and comfort meets opulence.
-  Updated: 2025-12-10T11:00:47Z
+  Updated: 2025-12-11T23:17:25Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,356.89 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110062): Introducing the counter stool, a masterpiece of contemporary and stylish Art Deco design. With a long-lasting and reliable vinyl seat and a sturdy steel frame, this stool effortlessly complements any interior, whether it's a trendy hotel area or an elegant home setting. The counter stool exudes a harmonious blend of comfort and style, making it an inviting addition to any space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike.
-  Updated: 2025-12-10T11:00:47Z
+  Updated: 2025-12-11T23:17:51Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $938.45 CAD
 - [Counter Stool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110065): Introducing the Counter Stool, a contemporary and stylish Art Deco masterpiece. Its poly linen seat and robust steel frame elegantly complement any interior, from trendy hotel counter areas to elegant homes. With a harmonious blend of comfort and style, the counter stool is an inviting addition to any counter space. Embrace its timeless allure and long-lasting and reliable construction for lasting sophistication. Elevate your counter with the counter stool today.
-  Updated: 2025-12-10T11:00:48Z
+  Updated: 2025-12-11T23:17:34Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $949.60 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110068): Experience the Counter Stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-12-10T11:00:51Z
+  Updated: 2025-12-11T23:17:37Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $780.65 CAD
 - [Counter Stool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110071): Experience the Counter Stool, a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable ester seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-12-10T11:00:50Z
+  Updated: 2025-12-11T23:17:49Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $759.65 CAD
 - [Counter Stool (Set of 2) Beige Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110096): Introducing the counter stool, a sleek and long-lasting and reliable addition to any contemporary and stylish kitchen or dining area. Designed for both style and functionality, this stool is perfect for residential or commercial settings. It boasts a robust steel frame, providing a sturdy and long-lasting base with a contemporary flair. The seat is upholstered in high-quality performance fabric, offering both comfort and resilience against everyday wear and tear. The combination of the steel frame and performance fabric makes the counter stool an ideal choice for busy environments, ensuring it remains a stylish and ergonomically designed, superior comfort seating option for years to come. Whether you're enjoying a quick breakfast or hosting a casual gathering, the counter stool is sure to elevate your space with its contemporary and stylish elegance and practical design.
-  Updated: 2025-12-10T11:00:51Z
+  Updated: 2025-12-11T23:17:36Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $721.66 CAD
 - [Counter Stool Green Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110099): Meet the counter stool, a versatile and stylish addition to your kitchen or bar area. This counter stool is designed to elevate both contemporary and stylish and traditional settings, whether in residential or hospitality spaces. With meticulous craftsmanship, the counter stool offers an ergonomically designed seat atop a sturdy frame for superior comfort. Its timeless design effortlessly complements a range of interior styles, making it the perfect choice for those who appreciate both aesthetics and functionality. Enhance your seating experience with the counter stool, where style and comfort come together to create a sophisticated atmosphere in your space.
-  Updated: 2025-12-10T11:00:52Z
+  Updated: 2025-12-11T23:18:01Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $596.09 CAD
 - [Counter Stool (Set of 2) Vintage Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110262): Comfy and Bauhaus, the counter stool has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-12-10T11:00:54Z
+  Updated: 2025-12-11T23:18:09Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $812.72 CAD
 - [Counter Stool (Set of 2) Vintage Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110263): Comfy and Bauhaus, the counter stool has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-12-10T11:00:56Z
+  Updated: 2025-12-11T23:17:51Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $812.72 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110337): Elevate your counter seating with the counter stool is a harmonious blend of style and functionality. This stool boasts an ergonomically designed vinyl seat and backrest for superior comfort, supported by a sleek steel frame, exuding contemporary elegance. Its versatile design effortlessly complements contemporary and stylish deco or glam counter space, suitable for both residential and hospitality settings. Whether savoring meals at home or welcoming guests in a chic bar, the counter stool adds a touch of sophistication to any setting, ensuring both comfort and visual appeal in every seating experience.
-  Updated: 2025-12-10T11:01:02Z
+  Updated: 2025-12-11T23:17:59Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,445.09 CAD
 - [Counter Stool (Set of 2) Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110340): Transform your counter space with the Counter Stool, exuding luxury and comfort. Upholstered in sumptuous velvet for the seat and back and supported by a sleek frame, this stool radiates elegance. Its design is a perfect fit for contemporary and stylish or upscale counter areas in both residential and commercial settings. The counter stool combines plush comfort with sophisticated style, making it an exquisite addition to any high-end bar or kitchen counter.
-  Updated: 2025-12-10T11:01:02Z
+  Updated: 2025-12-11T23:17:57Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.69 CAD
 - [Counter Stool (Set of 2) Blue - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110341): Transform your counter space with the Counter Stool, exuding luxury and comfort. Upholstered in sumptuous velvet for the seat and back and supported by a sleek frame, this stool radiates elegance. Its design is a perfect fit for contemporary and stylish or upscale counter areas in both residential and commercial settings. The counter stool combines plush comfort with sophisticated style, making it an exquisite addition to any high-end bar or kitchen counter.
-  Updated: 2025-12-10T11:01:03Z
+  Updated: 2025-12-11T23:18:01Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $1,013.69 CAD
 - [Swivel Counter Stool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110375): Presenting the Swivel Counter Stool, a versatile seating solution perfect for residential or hospitality spaces. With its sturdy steel base and ergonomically designed fabric seat for superior comfort, this stool effortlessly combines contemporary and stylish deco and transitional design elements. Its swivel function enhances mobility and comfort, making it ideal for various settings. Whether placed at a home counter or in a stylish hotel lounge, the counter stool adds sophistication and practicality to any space. Embrace its timeless design and premium materials for an elevated seating experience that harmonizes style with functionality.
-  Updated: 2025-12-10T11:10:50Z
+  Updated: 2025-12-11T23:18:07Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $901.13 CAD
 - [Counter Stool (Set of 2) Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110493): Enhance your home with the Counter Stool in Gray & Walnut, a superb example of contemporary and stylish design. Crafted from premium polyester fabric and rubberwood, this stool offers a perfect blend of style and functionality. Its versatile design makes it ideal for any space, while its chic and contemporary look ensures it will stand out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:01:08Z
+  Updated: 2025-12-11T11:18:00Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $847.43 CAD
 - [Counter Stool (Set of 2) Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110514): Introduce a unique, stylish piece to your home with the Counter Stool Gray & Espresso, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:01:12Z
+  Updated: 2025-12-11T11:18:05Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $872.63 CAD
 - [Swivel Counter Stool Beige & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110820): Transform your space with the Swivel Counter Stool in Beige & Brown. Crafted with care, the Swivel Counter Stool Beige & Brown comes in a sophisticated beige & brown tone. Constructed from textured fabric of 100% polyester powder-coated steel, it guarantees durability. Ideal for indoor bars, it seamlessly blends practicality with aesthetics. Add these stunning counter stools to your collection today.
-  Updated: 2025-12-10T11:01:13Z
+  Updated: 2025-12-11T11:18:07Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $721.73 CAD
 - [Counter Stool (Set of 2) Taupe & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110823): Transform your space with the Counter Stool Taupe & Brown. This contemporary and stylish piece boasts a taupe & brown finish. Built to last, its faux leather 100% polyurethane, powder-coated steel composition enhances its appeal. A versatile choice for an indoor bar, this item is perfect for both hospitality and residential use. Add these stunning counter stools to your collection today.
-  Updated: 2025-12-10T11:01:13Z
+  Updated: 2025-12-11T11:18:05Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Price: $951.11 CAD
 - [Dining Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo100652): On-trend and decidedly contemporary and stylish, this sophisticated dining table will be on every designer's list. Gorgeous from every angle, the rectangular faux marble top seems to float atop its simple gold geometric base. Seats four comfortably, with room on either end for an additional chair.
-  Updated: 2025-12-10T11:01:14Z
+  Updated: 2025-12-11T23:19:37Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,505.70 CAD
 - [Dining Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo100707): On-trend and decidedly contemporary and stylish, this sophisticated dining table will be on every designer's list. Gorgeous from every angle, the rectangular faux marble top seems to float atop its simple brushed silver base. Long and narrow to fit in most spaces, it's a perfect piece for your dining room or kitchen. Pair with the console for use as a sideboard or extra serving surface.
-  Updated: 2025-12-10T11:01:17Z
+  Updated: 2025-12-11T23:18:12Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,411.20 CAD
 - [Dining Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101568): A stylish and hardworking table for all of your sapces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-12-10T11:01:22Z
+  Updated: 2025-12-11T23:18:10Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,259.92 CAD
 - [Bistro Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101570): A stylish and hardworking table for all of your sapces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-12-10T11:01:23Z
+  Updated: 2025-12-11T23:18:19Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $559.94 CAD
 - [Bistro Table Brown & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101571): A stylish and hardworking table for all of your sapces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-12-10T11:01:27Z
+  Updated: 2025-12-11T11:18:11Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $588.13 CAD
 - [Bistro Table Brown & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101740): A stylish and hardworking table for all of your spaces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-12-10T11:01:27Z
+  Updated: 2025-12-11T23:18:11Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $556.63 CAD
 - [Dining Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101845): A stylish and hardworking table for all of your spaces: kitchen, living room, office, or bar area. A marble disc floats on a pedestal that appears to emerge from the ground. Adding a contemporary and stylish touch to any space while still being a timeless piece.
-  Updated: 2025-12-10T11:01:32Z
+  Updated: 2025-12-11T11:18:31Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $2,709.00 CAD
 - [Dining Table Gray & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109445): The Dining Table 48" has a raw marble top with a steel base. This table looks great in any contemporary and stylish glam or deco dining area.
-  Updated: 2025-12-10T11:01:38Z
+  Updated: 2025-12-11T23:18:24Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,442.70 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109558): A stylish and hardworking table for all of your spaces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-12-10T11:01:44Z
+  Updated: 2025-12-11T23:18:34Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,259.92 CAD
 - [Dining Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109856): The dining table is a beautiful and functional piece of furniture that would make a great addition to any contemporary and stylish dining room. It is made from brown-stained mango wood, which provides a warm and inviting feeling to the space. The table boasts a unique storage compartment inside the base, which is perfect for storing dinnerware or other items. This feature makes it an excellent choice for smaller spaces, such as apartments or condos, where storage can be at a premium.
-  Updated: 2025-12-10T11:01:44Z
+  Updated: 2025-12-11T23:18:34Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,411.20 CAD
 - [Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109857): The natural, white-washed acacia wood top of the dining table provides a warm and inviting surface that is perfect for displaying decorative items or storing everyday essentials. Its minimalist design adds a sleek and contemporary, and stylish touch to the overall look of the table, making it a perfect fit for any contemporary living space. The sturdy construction of the table ensures long-lasting durability, making it a great choice for daily use.
-  Updated: 2025-12-10T11:01:44Z
+  Updated: 2025-12-11T23:19:33Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,606.50 CAD
 - [Dining Table Beige & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109928): Elevate your dining area with the Dining Table Beige & Bronze, a harmonious blend of MDF and steel that exudes both style and sturdiness. Perfect for everyday meals or special occasions, this table is designed to enrich any contemporary and stylish dining space with its sleek and contemporary appeal.
-  Updated: 2025-12-10T11:01:45Z
+  Updated: 2025-12-11T23:18:57Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $2,608.72 CAD
 - [Dining Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109957): The laminate MDF top is crafted with high-quality materials that make it long-lasting and reliable, easy to clean, and perfect for everyday use. The textured steel base provides a sturdy and stable foundation for the table while adding a touch of contemporary and stylish glam to the design.
-  Updated: 2025-12-10T11:01:45Z
+  Updated: 2025-12-11T23:18:45Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,433.25 CAD
 - [Bistro Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110019): Introducing the Bistro Table - a stunning fusion of contemporary and stylish industrial design and functionality. Crafted with a sturdy steel frame and a sleek laminate top, this table is not only long-lasting and reliable but also exudes contemporary elegance. Whether it graces your apartment's dining area or enhances the ambiance of your coffee shop, its versatile charm and minimalist aesthetic make it the perfect addition. Elevates your space with the Bistro Table, where form meets function in impeccable style.
-  Updated: 2025-12-10T11:01:49Z
+  Updated: 2025-12-11T23:18:52Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,312.42 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110022): Introducing the Dining Table - a stunning fusion of contemporary and stylish industrial design and functionality. Crafted with a sturdy steel frame and a sleek laminate top, this table is not only long-lasting and reliable but also exudes contemporary elegance. Whether it graces your apartment's dining area or enhances the ambiance of your coffee shop, its versatile charm and minimalist aesthetic make it the perfect addition. Elevates your space with the dining table, where form meets function in impeccable style.
-  Updated: 2025-12-10T11:01:49Z
+  Updated: 2025-12-11T23:18:48Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,575.00 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110052): Versatile and adaptable, the dining table seamlessly transitions between hospitality and residential environments, becoming a focal point in any setting. Its captivating blend of mid-century contemporary and stylish and industrial design elements ensures it complements various interior styles, making it a versatile and inspired choice for any space.
-  Updated: 2025-12-10T11:01:49Z
+  Updated: 2025-12-11T23:18:56Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $993.22 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110086): Introducing the Dining Table, a masterpiece that seamlessly marries aesthetics and durability. Its high-pressure laminate top beautifully mimics the luxurious look of marble, while the solid wood base adds a touch of natural elegance. Whether gracing a residential space or enhancing a hospitality setting, the dining table effortlessly adapts to contemporary and stylish, deco, or glam designs. Versatile and chic, it is the ideal choice for those seeking a stunning centerpiece that complements various styles. Elevate your ambiance with the dining table, where sophistication meets resilience.
-  Updated: 2025-12-10T11:01:50Z
+  Updated: 2025-12-11T23:18:47Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,291.50 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110087): Introducing the Dining Table, a testament to the perfect fusion of luxury and durability. With its high-pressure laminate top, beautifully emulating the opulence of marble, and a solid wood base, this table is a symbol of enduring charm. Whether gracing a residential space or complementing a hospitality setting, the dining table effortlessly adapts to contemporary and stylish deco or glam designs. Versatile and chic, it's the ideal choice for those who seek a stunning centerpiece that resonates with various styles. Elevate your space with the dining table, where sophistication meets resilience.
-  Updated: 2025-12-10T11:01:52Z
+  Updated: 2025-12-11T23:19:15Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,228.50 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110187): Versatile and adaptable, the dining table seamlessly transitions between hospitality and residential environments, becoming a focal point in any setting. Its captivating blend of mid-century contemporary and stylish and industrial design elements ensures it complements various interior styles, making it a versatile and inspired choice for any space.
-  Updated: 2025-12-10T11:01:57Z
+  Updated: 2025-12-11T23:19:04Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $650.45 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110349): Introducing the Dining Table, a masterpiece of style and durability. Its sintered stone top paired with a sturdy steel base creates a captivating focal point. Whether it graces your home's dining area or enhances the ambiance of a restaurant, the dining table effortlessly adapts to various settings. With its versatile charm and robust construction, this table is the perfect choice for those who appreciate both aesthetics and resilience. Elevate your space with the dining table, where form meets function in impeccable style.
-  Updated: 2025-12-10T11:01:57Z
+  Updated: 2025-12-11T23:18:55Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $2,063.25 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110356): Discover the dining table, a symbol of elegance and durability. Crafted with a sintered stone top and a robust steel base, this table exudes timeless charm. Whether it graces your home's dining area or enhances a restaurant's ambiance, the dining table seamlessly adapts to various settings. Its versatile appeal and sturdy construction make it the perfect choice for those who value both aesthetics and resilience. Elevate your space with the dining table, where form and function converge in perfect harmony.
-  Updated: 2025-12-10T11:01:57Z
+  Updated: 2025-12-11T23:19:18Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,921.50 CAD
 - [Dining Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110360): Meet the Kane Dining Table, a fusion of contemporary style and durability. Featuring a sleek steel base and a laminate wood top, this table effortlessly combines form and function. Whether it's the centerpiece of your home's dining area or a stylish addition to a restaurant, the Kane Dining Table adapts to diverse settings with ease. Its versatile design and sturdy construction make it an ideal choice for those who appreciate both aesthetics and reliability. Elevate your space with the Kane Dining Table, where contemporary and stylish elegance meets enduring strength.
-  Updated: 2025-12-10T11:01:58Z
+  Updated: 2025-12-11T23:18:59Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,386.00 CAD
 - [Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110392): Your dining is with the dining table. Featuring a solid rubberwood wood frame and a wood veneer top, this table ensures durability and timeless elegance. It's clean, contemporary, and stylish, and its design fits seamlessly into any decor, making it a versatile addition to your home. Perfect for both casual meals and special gatherings, the dining table combines functionality with sophisticated style. Make every meal memorable with this beautifully crafted table.
-  Updated: 2025-12-10T11:02:01Z
+  Updated: 2025-12-11T23:19:09Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $2,252.25 CAD
 - [Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110393): Your dining space with the dining table. Featuring a solid rubberwood frame and a wood veneer top, this table ensures durability and timeless elegance. It's clean, contemporary, and stylish, and its design fits seamlessly into any decor, making it a versatile addition to your home. Perfect for both casual meals and special gatherings, the dining table combines functionality with sophisticated style. Make every meal memorable with this beautifully crafted table.
-  Updated: 2025-12-10T11:02:01Z
+  Updated: 2025-12-11T23:19:20Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $2,252.25 CAD
 - [Bistro Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110401): Bring a distinctive and stylish element to your home with the Table in Beige & Gold, a remarkable showcase of contemporary and stylish design. Crafted from premium MDF and steel, it effortlessly balances form and function, making it a versatile addition to any room. With its chic, contemporary look, this table is sure to stand out and enhance the elegance of any contemporary and stylish space.
-  Updated: 2025-12-10T11:02:03Z
+  Updated: 2025-12-11T23:19:05Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $643.94 CAD
 - [Bistro Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110403): Elevate your home with the Table in Gray & Bronze, a striking piece that embodies contemporary and stylish design. Crafted from top-quality MDF and steel, this table perfectly merges style with functionality, offering a versatile addition to any room. Its sleek and contemporary aesthetic ensures it stands out as a bold feature in any contemporary and stylish home, bringing both elegance and practicality to your space.
-  Updated: 2025-12-10T11:02:16Z
+  Updated: 2025-12-11T23:19:12Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $643.94 CAD
 - [Bistro Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110405): Add a touch of sophistication to your home with the Table in Black & Bronze, a stunning example of contemporary and stylish design. Constructed from high-quality MDF and steel, it combines aesthetic appeal with practicality, making it a versatile choice for any room. Its chic, contemporary style ensures it becomes a standout feature in any contemporary and stylish living space, offering both beauty and functionality.
-  Updated: 2025-12-10T11:02:06Z
+  Updated: 2025-12-11T23:19:09Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $643.94 CAD
 - [Bistro Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110407): Bring a distinctive flair to your home with the Table in Beige & Gold, a prime example of contemporary and stylish design. Expertly crafted from high-quality MDF and steel, this table seamlessly blends style and functionality, making it a versatile choice for any space. Its sleek and contemporary aesthetic ensures it stands out as a statement piece in any contemporary and stylish home, offering both practicality and visual appeal.
-  Updated: 2025-12-10T11:02:12Z
+  Updated: 2025-12-11T23:19:30Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $686.91 CAD
 - [Bistro Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110409): Elevate your home decor with the Table in Gray & Bronze, a striking example of contemporary and stylish design. Made from premium MDF and steel, it perfectly balances style with functionality, making it a versatile option for any room. Its contemporary and chic design ensures it will stand out as a bold and practical addition to any contemporary and stylish living space.
-  Updated: 2025-12-10T11:02:12Z
+  Updated: 2025-12-11T23:21:17Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $686.91 CAD
 - [Bistro Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110411): Introduce a unique, stylish piece to your home with the Table Black & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:02:13Z
+  Updated: 2025-12-11T23:20:28Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $686.91 CAD
 - [2 in 1 Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110413): Introducing the 2-in-1 Dining/Gaming Table—a versatile and stylish addition to elevate your space. Crafted with a long-lasting and reliable MDF frame and top, this table seamlessly transitions from a sleek dining table to a gaming table perfect for poker and other games. Its contemporary and stylish design not only enhances the aesthetics of your space but also makes it an excellent choice for Airbnb properties. Whether you're hosting a dinner party or a game night, the table is the ultimate multi-functional solution that combines form and function effortlessly. Upgrade your space with the 2-in-1 dining/gaming table today.
-  Updated: 2025-12-10T11:02:16Z
+  Updated: 2025-12-11T23:19:15Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,874.25 CAD
 - [2 in 1 Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110445): The dining/game table has a wood laminate top with painted solid wood legs. This convertible table is versatile and stylish at the same time, with a beautiful look on one side and a soft felt surface with inlaid storage on the other. Liven up any multipurpose space with this cool table.
-  Updated: 2025-12-10T11:02:17Z
+  Updated: 2025-12-11T23:19:44Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,842.75 CAD
 - [Rectangular Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110500): Add a sophisticated touch to your home with the rectangular dining table in espresso, a remarkable showcase of contemporary and stylish design. Constructed from high-quality rubberwood, this table masterfully combines style and functionality, making it a versatile centerpiece for any dining space. Its sleek and contemporary look ensures it will be a standout feature in any contemporary and stylish home, blending aesthetics with practicality.
-  Updated: 2025-12-10T11:02:18Z
+  Updated: 2025-12-11T23:19:57Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,764.00 CAD
 - [Square Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110501): Introduce a unique, stylish piece to your home with the Square Dining Table Espresso, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:02:21Z
+  Updated: 2025-12-11T23:19:47Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,555.81 CAD
 - [Square Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110505): Introduce a unique, stylish piece to your home with the Square Dining Table Espresso, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:02:22Z
+  Updated: 2025-12-11T23:20:16Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,354.50 CAD
 - [Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110508): Your dining area with the natural dining table, a harmonious blend of rubberwood that exudes both style and sturdiness. Perfect for everyday meals or special occasions, this table is designed to enrich any contemporary and stylish dining space with its sleek and contemporary appeal.
-  Updated: 2025-12-10T11:02:22Z
+  Updated: 2025-12-11T23:19:58Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,289.21 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110588): Your dining area with the dining table, a harmonious blend of rubberwood that exudes both style and sturdiness. Perfect for everyday meals or special occasions, this table is designed to enrich any contemporary and stylish dining space with its sleek and contemporary appeal.
-  Updated: 2025-12-10T11:02:23Z
+  Updated: 2025-12-11T23:19:25Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,406.92 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110807): The Dining Table in Black brings a bold, contemporary, and stylish aesthetic to indoor dining spaces. Crafted from marble, MDF, and mango wood, this dining table offers durability and style. Its sleek black finish makes it a perfect fit for contemporary residential or hospitality environments, serving as an eye-catching centerpiece in dining rooms.
-  Updated: 2025-12-10T11:02:26Z
+  Updated: 2025-12-11T11:19:24Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $2,551.50 CAD
 - [Dining Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110808): The Dining Table in White & Black is a contemporary and stylish piece that enhances any dining space. Made from a combination of marble, MDF, and mango wood, its stylish white and black design offers both durability and elegance. Ideal for residential or hospitality use, this dining table serves as a sophisticated focal point for contemporary interiors.
-  Updated: 2025-12-10T11:02:26Z
+  Updated: 2025-12-11T11:19:50Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,921.50 CAD
 - [Bistro Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110809): The Bistro Table in White & Black is a sleek, contemporary, and stylish addition to indoor dining areas. Constructed from marble, MDF, and iron, this bistro table offers a perfect balance of style and function. Its white and black design complements a wide range of interior styles, making it suitable for both residential and hospitality spaces.
-  Updated: 2025-12-10T11:02:26Z
+  Updated: 2025-12-11T11:19:43Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $1,512.00 CAD
 - [Rectangular Dining Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704095): The Dining Table in Graphite offers a contemporary and stylish, sophisticated look. Crafted from terrazzo and acacia wood, this table is suitable for both hospitality and residential settings. Its urban design and long-lasting, and reliable materials make it a stylish and functional addition to any dining room.
-  Updated: 2025-12-10T11:02:35Z
+  Updated: 2025-12-11T11:19:38Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $3,402.00 CAD
 - [Extendable Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704154): The extendable dining table natural makes a bold statement. Crafted with care, the Extendable Dining Table Natural comes in a sophisticated natural tone. Constructed from solid acacia wood, it guarantees durability. A versatile choice for outdoor dining, this item is perfect for both hospitality and residential use. Elevate your interiors with the Extendable Dining Table, natural, and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-12-10T11:02:37Z
+  Updated: 2025-12-11T11:19:33Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Price: $804.36 CAD
 - [Floor Lamp White & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56053): This posh arc floor lamp with its iconic mid-century sensibility sets a contemporary and stylish mood wherever you place it. A frosted glass sphere combines with soft, brushed brass to double down on contemporary design. Looks gorgeous in your office, bedside, or next to your favorite chair. Bulbs are not included; they are sold separately.
-  Updated: 2025-12-10T11:02:36Z
+  Updated: 2025-12-11T11:19:41Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Price: $920.96 CAD
 - [Floor Lamp Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56142): Light up your surroundings with the captivating beauty of the floor lamp. Its exquisite combination of industrial and contemporary, and stylish design makes it a remarkable statement piece that enhances any environment. Embrace the seamless fusion of design sophistication and contemporary allure embodied in the table lamp, and let it illuminate your space with timeless elegance today!
-  Updated: 2025-12-10T11:02:37Z
+  Updated: 2025-12-11T23:20:17Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Price: $598.84 CAD
 - [Floor Lamp White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56178): Enhance your home with the Floor Lamp in White, a stunning example of contemporary and stylish design. Crafted from high-quality PVC and steel, this lamp offers the perfect blend of style and practicality, making it a versatile addition to any space. Its chic, contemporary aesthetic ensures it will stand out as a striking feature in any contemporary and stylish home.
-  Updated: 2025-12-10T11:02:41Z
+  Updated: 2025-12-11T11:19:40Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Price: $608.01 CAD
 - [Floor Lamp Beige & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56183): Introduce a unique, stylish piece to your home with the Floor Lamp Beige & Natural, an exceptional example of contemporary and stylish design. Made from high-quality PVC and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:02:42Z
+  Updated: 2025-12-11T23:19:38Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Price: $664.12 CAD
 - [Floor Lamp Black & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56184): The floor lamp in black & natural makes a bold statement. This contemporary and stylish piece boasts a striking black and natural finish. Crafted from high-quality powder-coated steel and paper, it ensures lasting style and durability. A versatile lighting choice, this lamp is perfect for both hospitality and residential use. Experience the perfect combination of elegance and functionality with the Floor Lamp in Black & Natural
-  Updated: 2025-12-10T11:02:42Z
+  Updated: 2025-12-11T11:19:43Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Price: $820.87 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704021): The side table is a stylish and functional addition, perfect for enhancing your living space or complementing various settings. Crafted with precision, this side table offers both aesthetic appeal and practicality. Designed with a contemporary and stylish aesthetic, the side table seamlessly integrates into different environments, whether it's your living room, bedroom, or any other space in need of a chic accent. Its meticulous craftsmanship ensures its reliability and versatility. Elevate your decor with the side table, where style meets functionality. Whether you're looking for a conversation piece or an elegant surface, this side table offers a sophisticated solution for any setting. Embrace the essence of contemporary design with the side table.
-  Updated: 2025-12-10T11:02:47Z
+  Updated: 2025-12-11T23:19:43Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $640.84 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704055): The side table in natural finish combines contemporary and stylish design with functional elegance. Made entirely of sturdy aluminum, this table is ideal for both hospitality and residential environments. Its clean lines and versatile aesthetic make it a perfect accent piece for any contemporary and stylish decor.
-  Updated: 2025-12-10T11:02:47Z
+  Updated: 2025-12-11T23:19:46Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $381.76 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704056): Elevate your space with the coffee table in natural. This contemporary and stylish, urban-style table is crafted from high-quality aluminum, offering both durability and sophistication. Perfect for hospitality settings or living rooms, it provides a sleek surface for your coffee table books and decor.
-  Updated: 2025-12-10T11:02:48Z
+  Updated: 2025-12-11T23:20:18Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $697.41 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704058): The Coffee Table in natural is a blend of contemporary design and practical functionality. Constructed with aluminum and ethylene, this table is both lightweight and long-lasting and reliable, making it suitable for both hospitality and residential use. Its contemporary and stylish urban aesthetic enhances any setting.
-  Updated: 2025-12-10T11:02:52Z
+  Updated: 2025-12-11T23:19:59Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,030.76 CAD
 - [End Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704061): The end table in Brown brings a warm, earthy touch to your decor. Crafted from ethylene, this table is designed for durability and style, making it ideal for hospitality and residential settings. It's contemporary and stylish; urban design ensures it fits seamlessly into any contemporary space.
-  Updated: 2025-12-10T11:02:52Z
+  Updated: 2025-12-11T23:20:11Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $379.07 CAD
 - [End Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704064): The End Table in White is the epitome of sleek contemporary and stylish design. Crafted from high-quality aluminum, this table is both lightweight and long-lasting and reliable, making it perfect for hospitality and residential settings. Its clean lines and minimalist aesthetic enhance any contemporary space.
-  Updated: 2025-12-10T11:02:52Z
+  Updated: 2025-12-11T23:19:50Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $732.10 CAD
 - [End Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704065): The end table in black offers a bold, contemporary, and stylish look. Made from sturdy aluminum, this table is ideal for both hospitality and residential environments. Its urban style and versatile design make it a chic addition to any room.
-  Updated: 2025-12-10T11:02:57Z
+  Updated: 2025-12-11T23:20:12Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $732.10 CAD
 - [End Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704066): The end table in white is a stylish and functional piece for any contemporary and stylish space. Constructed from aluminum, this table is perfect for both hospitality and residential use. Its sleek design and urban aesthetic make it a versatile addition to living rooms, lounges, and bedrooms.
-  Updated: 2025-12-10T11:02:58Z
+  Updated: 2025-12-11T23:19:52Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $696.65 CAD
 - [End Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704067): Add a touch of sophistication with the end table in black. Made from long-lasting and reliable aluminum, this table is designed for both hospitality and residential settings. Its contemporary and stylish urban style and sleek lines make it a perfect fit for any contemporary decor.
-  Updated: 2025-12-10T11:02:57Z
+  Updated: 2025-12-11T23:20:01Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $696.65 CAD
 - [Coffee Table Charcoal - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704068): The Coffee Table in Charcoal combines contemporary and stylish design with practicality. Crafted from high-quality aluminum, this table is perfect for both hospitality and residential environments. It's sleek, urban style enhances any living room or lounge area.
-  Updated: 2025-12-10T11:02:57Z
+  Updated: 2025-12-11T23:20:20Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $851.65 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704069): The coffee table in natural offers a blend of contemporary and stylish design and natural beauty. Made from long-lasting and reliable aluminum, this table is suitable for both hospital and residential use. Its clean lines and urban aesthetic make it a versatile piece for any decor.
-  Updated: 2025-12-10T11:02:59Z
+  Updated: 2025-12-11T23:19:58Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,435.60 CAD
 - [Coffee Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704070): The ier Coffee Table in White brings a fresh, contemporary, and stylish look to any space. Crafted from sturdy aluminum, this table is perfect for hospitality and residential settings. Its sleek design and urban style make it a chic addition to living rooms and lounges.
-  Updated: 2025-12-10T11:03:02Z
+  Updated: 2025-12-11T23:20:56Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,663.20 CAD
 - [Side Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704071): The side table in brown combines contemporary and stylish design with natural elements. Made from long-lasting and reliable aluminum, this table is suitable for both hospitality and residential environments. Its clean lines and urban aesthetic make it a versatile addition to any decor.
-  Updated: 2025-12-10T11:03:01Z
+  Updated: 2025-12-11T23:19:59Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $675.44 CAD
 - [Coffee Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704072): Enhance your space with the coffee table in brown. Crafted from high-quality aluminum, this table is perfect for both hospitality and residential settings. Its contemporary and stylish urban design and natural finish make it a stylish and functional addition to any room.
-  Updated: 2025-12-10T11:03:03Z
+  Updated: 2025-12-11T23:20:14Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,221.28 CAD
 - [Side Table Charcoal - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704073): The side table in charcoal offers a blend of contemporary style, design, and functionality. Made from long-lasting and reliable aluminum, this table is ideal for both hospitality and residential use. Its sleek, urban style and versatile design make it a perfect addition to any space.
-  Updated: 2025-12-10T11:03:04Z
+  Updated: 2025-12-11T23:20:28Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $431.11 CAD
 - [Coffee Table Charcoal - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704074): The Coffee Table in Charcoal combines contemporary and stylish design with practical functionality. Crafted from high-quality aluminum, this table is suitable for both hospitality and residential environments. Its sleek, urban style enhances any living room or lounge area.
-  Updated: 2025-12-10T11:03:07Z
+  Updated: 2025-12-11T23:20:16Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,257.04 CAD
 - [Coffee Table Set (2-Piece) White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704075): The coffee table set in white brings a contemporary and stylish, cohesive look to any space. Made from sturdy aluminum, these tables are perfect for both hospitality and residential settings. Their clean lines and urban design make them a chic addition to any room.
-  Updated: 2025-12-10T11:03:08Z
+  Updated: 2025-12-11T11:20:24Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $2,794.09 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704090): Introduce a unique, stylish piece to your home with the Coffee Table Black, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-12-10T11:03:12Z
+  Updated: 2025-12-11T11:20:07Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,694.51 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704091): The Side Table Black adds a contemporary and stylish flair to your living area through its elegant design and functional structure. Made from aluminum, this table acts as a chic companion to your sofa or bedside, offering an ideal space for essentials or decorative items. With its streamlined silhouette and contemporary aesthetic, it integrates effortlessly into any boho-inspired or minimalist setting.
-  Updated: 2025-12-10T11:03:12Z
+  Updated: 2025-12-11T11:20:07Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Price: $1,206.83 CAD
 - [Coffee Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704098): The coffee table in Gray blends contemporary and stylish design with natural materials. Made from terrazzo and acacia wood, this table is suitable for both hospitality and residential environments. Its urban style and long-lasting and reliable construction make it a perfect addition to any living room or lounge.
-  Updated: 2025-12-10T11:03:12Z
+  Updated: 2025-12-11T23:20:15Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
