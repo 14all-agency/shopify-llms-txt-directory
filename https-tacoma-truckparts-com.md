@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-10-16T16:13:42Z
 - Contact Email: tacomapartsoffice@yahoo.com
-- Updated At: 2025-12-10T00:00:23.134Z
+- Updated At: 2025-12-12T00:00:24.192Z
 
 ## Products
 
@@ -1051,7 +1051,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/222.webp?v=1718004474
   Price: $939.99 USD
 - [Front Step Fairing Skirt Panel with Steps Driver Kenworth T680](https://tacoma-truckparts.com/products/kozak-aftermarket-replacement-front-step-fairing-skirt-panel-left-driver-side-for-kenworth-t680-semi-trucks-plus-2x-steps-logo-kozak-reflective-vest-and-2x22-windshield-wipers): Replaces OE Number: A33-1097-2101 (Left) Front Step Fairing Panel with Steps  Left Driver Side For Kenworth T680 High quality parts. Durable and reliable in any weather  Easy to install. For Freight shipment, the shipping address must be a commercial address (non-residential)
-  Updated: 2025-10-20T20:20:30Z
+  Updated: 2025-12-11T22:52:39Z
   Vendor: Tacoma Parts Corporation
   Product Type: Fairing Panels
   Availability: Available
@@ -1870,16 +1870,16 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:55Z
   Total Products: 6
 - [Freightliner Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/freightliner-semi-truck-parts-accessories): Shop online for the best Freightliner Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-09T12:20:27Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 572
 - [Bumper Semi Truck Grille Guards](https://tacoma-truckparts.com/collections/semi-truck-grille-guards): Shop online for the best Semi Truck Grille Guards only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-12-08T09:03:40Z
   Total Products: 490
 - [Semi Truck Bumpers & Accessories](https://tacoma-truckparts.com/collections/semi-truck-bumpers-accessories): Shop online for the best Semi Truck Bumpers & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-05T12:22:18Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 441
 - [Semi Truck Headlights](https://tacoma-truckparts.com/collections/semi-truck-headlights): Shop online for the best Semi Truck Headlights only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-05T12:22:18Z
+  Updated: 2025-12-11T22:19:18Z
   Total Products: 202
 - [Semi Truck Grilles](https://tacoma-truckparts.com/collections/semi-truck-grilles): Shop online for the best Semi Truck Grilles only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-12-06T12:22:36Z
@@ -1888,13 +1888,13 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-12-03T12:24:01Z
   Total Products: 35
 - [Kenworth Truck Parts & Accessories](https://tacoma-truckparts.com/collections/kenworth-truck-parts-accessories): Shop online for the best Kenworth Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-09T12:20:27Z
+  Updated: 2025-12-11T23:44:48Z
   Total Products: 609
 - [Kenworth W900 Parts & Accessories](https://tacoma-truckparts.com/collections/kenworth-w900-truck-parts-accessories): Shop online for the best Kenworth W900 Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-10-20T20:17:00Z
   Total Products: 16
 - [Peterbilt Truck Parts](https://tacoma-truckparts.com/collections/peterbilt-truck-parts): Shop online for the best Peterbilt Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-09T20:02:28Z
+  Updated: 2025-12-11T22:19:18Z
   Total Products: 313
 - [International Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/international-semi-truck-parts): Shop online for the best International Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-12-09T12:20:27Z
@@ -1903,7 +1903,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-12-09T12:20:27Z
   Total Products: 202
 - [Semi Truck Panels, Fairings & Deflectors](https://tacoma-truckparts.com/collections/semi-truck-panels-fairing-deflectors): Shop online for the best Semi Truck Panels, Fairings & Deflectors only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-04T12:20:46Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 302
 - [Charge Air Coolers for Semi Trucks](https://tacoma-truckparts.com/collections/semi-trucks-charge-air-coolers): Shop online for the best Charge Air Coolers for Semi Trucks only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-10-20T20:17:09Z
@@ -1945,7 +1945,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:54Z
   Total Products: 1
 - [Semi Truck Reefer Panels](https://tacoma-truckparts.com/collections/semi-truck-reefer-panels): Shop online for the best Semi Truck Reefer Panels only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-10T00:32:36Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 22
 - [Semi Truck Fog Lights & LED Upgrades](https://tacoma-truckparts.com/collections/semi-truck-fog-led-lights): Shop online for the best Semi Truck Fog Lights at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-12-04T00:27:33Z
@@ -1960,7 +1960,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-12-01T03:19:24Z
   Total Products: 52
 - [Kozak Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/kozak-semi-truck-parts): Shop online for the best Kozak Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-09T12:20:27Z
+  Updated: 2025-12-11T22:19:18Z
   Total Products: 2547
 - [Autoterm Diesel Air Heaters](https://tacoma-truckparts.com/collections/autoterm-diesel-air-heaters): Shop online for the best Autoterm Diesel Air Heaters only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-11-26T04:31:40Z
@@ -2068,16 +2068,16 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:04Z
   Total Products: 11
 - [Kenworth T680 Semi Truck Fog Lights](https://tacoma-truckparts.com/collections/kenworth-t680-fog-lights): Shop online for the best Kenworth T680 Fog Lights at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-10-20T20:17:08Z
+  Updated: 2025-12-11T23:53:50Z
   Total Products: 3
 - [Kenworth T680 Semi Truck Bumpers](https://tacoma-truckparts.com/collections/kenworth-t680-bumpers): Shop online for the best & durable Kenworth T680 Semi Truck Bumpers at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-11-26T12:24:08Z
-  Total Products: 25
-- [Kenworth T680 Bumper Covers](https://tacoma-truckparts.com/collections/kenworth-t680-bumper-covers): Shop online for the best Kenworth T680 Bumper Covers at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-11-12T12:21:16Z
+  Updated: 2025-12-11T23:58:39Z
+  Total Products: 23
+- [Kenworth T680 Next Gen Bumper Covers](https://tacoma-truckparts.com/collections/kenworth-t680-next-gen-bumper-covers): Shop online for the best Kenworth T680 Bumper Covers at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
+  Updated: 2025-12-10T22:53:06Z
   Total Products: 27
-- [Kenworth T680 Bumper Spoilers](https://tacoma-truckparts.com/collections/kenworth-t680-bumper-spoilers): Shop online for the best Kenworth T680 Semi Truck Bumper Spoilers at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-10-20T20:17:01Z
+- [Kenworth T680 Next Gen Bumper Spoilers](https://tacoma-truckparts.com/collections/kenworth-t680-next-gen-bumper-spoilers): Shop online for the best Kenworth T680 Semi Truck Bumper Spoilers at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
+  Updated: 2025-12-10T23:11:05Z
   Total Products: 5
 - [Kenworth T680 Heavy Duty Grille Guards](https://tacoma-truckparts.com/collections/kenworth-t680-grille-guards): Shop online for the best heavy-duty grille guards for Kenworth T680 Semi Truck by Kozak, EX-Guard, and Herd at Tacoma Parts Corporation.
   Updated: 2025-12-08T07:27:48Z
@@ -2115,9 +2115,9 @@ Easy to install. Comes with 2x 22" Wipers and Vest
 - [Kenworth Semi Truck T680 Mirrors](https://tacoma-truckparts.com/collections/kenworth-t680-mirrors): Shop online for the best Kenworth T680 Mirrors at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-11-10T12:20:36Z
   Total Products: 19
-- [Kenworth T680 Quarter Fenders](https://tacoma-truckparts.com/collections/kenworth-t680-quarter-fenders): Shop online for the best quarter fenders for Kenworth T680 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-20T20:16:56Z
-  Total Products: 6
+- [Kenworth T680 Quarter Fenders](https://tacoma-truckparts.com/collections/quarter-fenders-for-kenworth-t680-next-gen): Shop online for the best quarter fenders for Kenworth T680 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
+  Updated: 2025-12-10T23:12:17Z
+  Total Products: 0
 - [Kenworth T680 Semi Truck Water Pumps](https://tacoma-truckparts.com/collections/kenworth-t680-water-pumps): Shop online for the best & highest-quality Kenworth T680 Semi Truck  Water Pumps at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:16:54Z
   Total Products: 1
@@ -2134,7 +2134,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-11-06T22:33:24Z
   Total Products: 15
 - [Kenworth T660 Bumper Brackets](https://tacoma-truckparts.com/collections/kenworth-t660-bumper-brackets): Shop online for the best & highest quality Bumper Brackets for Kenworth T660 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-20T20:17:02Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 4
 - [Kenworth T660 Grille Guards](https://tacoma-truckparts.com/collections/kenworth-t660-grille-guards): Shop online for the best Kenworth T660 Grille Guards at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-12-08T07:27:43Z
@@ -2275,7 +2275,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:55Z
   Total Products: 1
 - [Freightliner Cascadia Headlights 2008–2025 | LED & Halogen](https://tacoma-truckparts.com/collections/freightliner-cascadia-headlights): Shop Freightliner Cascadia Headlights (2008–2025). LED and halogen options, OEM fit, DOT-approved quality, and fast nationwide delivery.
-  Updated: 2025-11-23T23:52:50Z
+  Updated: 2025-12-11T00:49:08Z
   Total Products: 26
 - [Freightliner Cascadia Fog Lights 2008–2025 | LED & Halogen](https://tacoma-truckparts.com/collections/freightliner-cascadia-fog-lights): Shop Freightliner Cascadia Fog Lights (2008–2025). LED and halogen options, OEM fit, durable construction, and fast nationwide shipping.
   Updated: 2025-12-04T00:27:33Z
@@ -2293,7 +2293,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:55Z
   Total Products: 10
 - [Thermo King Precedent Parts](https://tacoma-truckparts.com/collections/thermo-king-precedent-parts): Shop online for the best high-quality body parts for Thermo King Precedent only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-10T00:32:36Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 10
 - [Semi Truck Carrier Reefer Parts & Accessories](https://tacoma-truckparts.com/collections/carrier-reefer-parts-accessories): Shop online for the best Semi Truck Carrier Reefer Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-10-20T20:17:09Z
@@ -2326,7 +2326,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-11-15T12:21:46Z
   Total Products: 95
 - [Freightliner Cascadia Fairing Panels](https://tacoma-truckparts.com/collections/freightliner-cascadia-fairing-panels): Shop online for the best & highest-quality Freightliner Cascadia Fairing Panels at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-11-15T12:21:46Z
+  Updated: 2025-12-11T12:21:48Z
   Total Products: 62
 - [Freightliner Cascadia Charge Air Coolers](https://tacoma-truckparts.com/collections/freightliner-cascadia-charge-air-coolers): Shop online for the best Freightliner Cascadia Charge Air Coolers at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
   Updated: 2025-10-20T20:17:08Z
@@ -2515,8 +2515,8 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-22T11:18:28Z
   Total Products: 14
 - [Peterbilt 579 Grille Guards](https://tacoma-truckparts.com/collections/peterbilt-579-grille-guards): Shop online for the best Peterbilt 579 Grille Guards at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-12-08T06:56:30Z
-  Total Products: 22
+  Updated: 2025-12-10T22:15:13Z
+  Total Products: 20
 - [Peterbilt 579 Grille Guard Brackets](https://tacoma-truckparts.com/collections/peterbilt-579-grille-guard-brackets): Shop online for the best Peterbilt 579 Grille Guard Brackets at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:16:57Z
   Total Products: 4
@@ -2652,8 +2652,6 @@ Easy to install. Comes with 2x 22" Wipers and Vest
 
 - [Review Submission](https://tacoma-truckparts.com/pages/review-submission)
   Updated: 2023-10-18T23:02:56Z
-- [Volvo Semi Truck Parts – Volvo VN, VNL, VNR, VNX, VNM Parts Online](https://tacoma-truckparts.com/pages/volvo-vnl-truck-parts): Tacoma Parts Corporation is your dedicated source for Volvo VN, VNL, VNR, VNX, VNM, or VT Semi Truck enthusiasts! Whether you're looking to upgrade...
-  Updated: 2025-11-17T12:14:22Z
 - [Kenworth T680 Semi Truck Parts & Accessories](https://tacoma-truckparts.com/pages/kenworth-t680-semi-truck-parts-accessories): Tacoma Parts Corporation is your premier destination for top-quality truck parts and accessories tailored specifically for the Kenworth T680 Semi T...
   Updated: 2025-03-27T21:19:57Z
 - [Kenworth T660 Semi Truck Parts & Accessories](https://tacoma-truckparts.com/pages/kenworth-t660-semi-truck-parts-accessories): Explore our selection of parts and accessories tailored for the Kenworth T660 Semi Truck at Tacoma Parts Corporation. From engine components to ext...
@@ -2670,8 +2668,6 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2024-06-08T21:35:00Z
 - [Kenworth T600 Semi Truck Parts & Accessories](https://tacoma-truckparts.com/pages/kenworth-t600-parts-accessories): Tacoma Parts Corporation is your go-to destination for semi-truck parts and accessories tailored for the Kenworth T600. From bright LED headlights ...
   Updated: 2024-07-05T02:36:12Z
-- [Freightliner truck parts online | Semi Truck Parts Components](https://tacoma-truckparts.com/pages/freightliner-cascadia-semi-truck-parts-accessories): Tacoma Parts Corporation is your trusted source for semi-truck parts and accessories tailored for the Freightliner Cascadia. From essential engine ...
-  Updated: 2025-12-03T15:03:03Z
 - [Freightliner Century Parts & Accessories](https://tacoma-truckparts.com/pages/freightliner-century-semi-truck-parts-accessories): At Tacoma Parts Corporation, we specialize in providing top-quality parts and accessories for Freightliner Century semi trucks. Our extensive inven...
   Updated: 2024-05-26T19:50:21Z
 - [Freightliner Classic Parts & Accessories](https://tacoma-truckparts.com/pages/freightliner-classic-semi-truck-parts-accessories): Tacoma Parts Corporation is your premier destination for high-quality Freightliner Classic parts and accessories. Whether you're looking to maintai...
@@ -2704,8 +2700,6 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2024-06-08T21:29:14Z
 - [Peterbilt 389 Truck Parts & Accessories](https://tacoma-truckparts.com/pages/peterbilt-389-semi-truck-parts-accessories): Find all your Peterbilt 389 parts and accessories at Tacoma Parts Corporation. Whether you're looking for grille guards, hood mirrors, headlights, ...
   Updated: 2024-07-05T02:55:39Z
-- [International LT625 Parts & Accessories](https://tacoma-truckparts.com/pages/international-lt625-parts-and-accessories): Tacoma Parts Corporation offers a wide range of parts and accessories for your International LT625. Whether you need headlights, fog lights, grille...
-  Updated: 2025-03-26T23:50:46Z
 - [International ProStar Truck Parts & Accessories](https://tacoma-truckparts.com/pages/international-prostar-parts-accessories): Discover a wide selection of parts and accessories for your International ProStar truck at Tacoma Parts Corporation. Whether it's headlights, bumpe...
   Updated: 2024-07-05T03:14:24Z
 - [International Lonestar Parts & Accessories](https://tacoma-truckparts.com/pages/international-lonestar-semi-truck-parts-accessories): Find all the parts and accessories you need for your International Lonestar truck at Tacoma Parts Corporation. Whether it's bumpers, mirrors, logo ...
@@ -2744,10 +2738,6 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2024-03-04T21:01:30Z
 - [Semi Truck Parts Store Seattle, WA | Tacoma Parts Corporation](https://tacoma-truckparts.com/pages/semi-truck-parts-store-near-me): Semi Truck Parts Store near me Visit our local warehouse in Seattle, WA.
   Updated: 2024-02-14T23:26:33Z
-- [Kenworth T680 Next Gen Semi Truck Parts & Accessories](https://tacoma-truckparts.com/pages/kenworth-t680-next-gen-semi-truck-parts-accessories): Tacoma Parts Corporation is your trusted source for high-quality truck parts and accessories, expertly crafted for the Kenworth T680 NEXT GEN Semi ...
-  Updated: 2025-04-11T23:39:26Z
-- [Peterbilt 579 2022+ Parts & Accessories](https://tacoma-truckparts.com/pages/peterbilt-579-2022-semi-truck-parts-and-accessories): The 2022+ Peterbilt 579 semi truck represents a significant investment for any trucking professional or fleet manager, making the selection of part...
-  Updated: 2025-03-26T16:06:30Z
 - [Search Results](https://tacoma-truckparts.com/pages/search-results-page): (function(window, undefined) { var snize_search_results_page = '/pages/search-results-page'; if (window.location.pathname.indexOf(snize_search_resu...
   Updated: 2025-03-27T17:26:10Z
 - [Kenworth T370 Semi Truck Parts & Accessories](https://tacoma-truckparts.com/pages/kenworth-t370-semi-truck-parts): Discover top-quality semi-truck parts and accessories for your Kenworth T370 at Tacoma Parts Corporation. Our extensive selection ranges from vital...
