@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-11T00:00:47.528Z
+- Updated At: 2025-12-13T00:00:55.032Z
 
 ## Products
 
@@ -3497,7 +3497,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/unwrapped-toilet-tissue-boxed-white-2-ply-400-sheets-12-pack-fsc-mix-48-rolls-household-toilet-tissue-essential-supplies-193338.jpg?v=1719445917
   Price: $60.00 NZD
 - [Luxury Unwrapped Toilet Tissue Boxed - White, 3 Ply, 250 Sheets, 4 Pack, FSC Mix® - 48 Rolls](https://essentialsupplies.co.nz/products/luxury-unwrapped-toilet-tissue-boxed-white-3-ply-250-sheets-4-pack-fsc-mix®-48): Unwrapped toilet tissue is a reliable, affordable and consistent tissue, ideal for standard workplace and home or hospitality establishments. Combining softness and strength at a competitive price for industry requirements. These rolls are certified which ensures you are making a sustainable paper choice. Available in a range of thicknesses with a 100mm x 110mm sheet size to cater for all industry requirements.
-  Updated: 2025-02-09T23:26:29Z
+  Updated: 2025-12-12T00:53:06Z
   Vendor: Mattews Packaging
   Product Type: Household Toilet Tissue
   Availability: Available
@@ -4279,7 +4279,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/microfibre-duster-black-wtelescopic-handle-dusters-essential-supplies-339851.jpg?v=1719445318
   Price: $23.00 NZD
 - [Cobweb Brush w/Handle - Blue, 22mm x 1200mm](https://essentialsupplies.co.nz/products/cobweb-brush-w-handle-blue-22mm-x-1200mm-6): Cobweb brushes are designed with a telescopic metal pole and plastic bristle head, this brush reduces strains on your back and arms while removing cobwebs. The dome shape head ensures all your gutters, cornices and architraves are not missed in the cleaning process and turns removing cobwebs into a quick and simple task.
-  Updated: 2025-02-14T17:41:35Z
+  Updated: 2025-12-12T04:11:09Z
   Vendor: Mattews Packaging
   Product Type: Dusters
   Availability: Available
