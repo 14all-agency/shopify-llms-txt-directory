@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-12-07T00:00:22.637Z
+- Updated At: 2025-12-13T00:00:28.509Z
 
 ## Products
 
@@ -375,7 +375,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/O1CN01POhTf61vr6FvqyqBg__4158646225.jpg?v=1719627344
   Price: £14.99 GBP
 - [Herman Hesse Tessin-Gebirge, 1927 Canvas Tote Bag with Zip](https://andcici.com/products/herman-hesse-tessin-gebirge-1927-canvas-tote-bag-with-zip): Herman Hesse German-Swiss Poet, Novelist & Painter "Tessin- Gebirge, 1927" Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the art: Hermann Hesse (1877–1962) was a German-Swiss poet, novelist, and painter, best known for his philosophical and spiritual works. In 1946, Hesse was awarded the Nobel Prize in Literature for his "inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style." Hesse was never known for his paintings as his writing & novels was what made him famous. He did painting as a way to escape from the horrors of World War I and his personal life, because of all these events, Hesse started to doubt his ability to write & thus started to channel his frustrations into art. He then painted Tessin-Gebirge, one of the Swiss Alps, with watercolours and pencil. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-05-18T03:24:22Z
+  Updated: 2025-12-07T06:37:31Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
@@ -825,7 +825,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_2a6c7d88-4679-4d2d-b48b-8858907604e6.jpg?v=1722925038
   Price: £14.99 GBP
 - [I'm going to see the World Canvas Tote Bag with Inner Zipped Pocket](https://andcici.com/products/im-going-to-see-the-world-canvas-tote-bag-with-inner-zipped-pocket): "I'm Going To See The World" Aesthetic Canvas Art Tote Bag with Inner Zipped Pocket About the Art: Carry your wanderlust with you wherever you go with our "I'm Going to See the World" canvas tote bag. This design captures the spirit of adventure and the excitement of exploring new horizons. Whether you're running errands or embarking on your next journey, this tote is the perfect companion for dreamers and travellers alike. Made from durable, eco-friendly canvas, it's as practical as it is inspiring. About the bag: Dimensions: 42cm x 37cm x 7cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a inner zipped pocket for small valuables to ensure it can carry all the daily essentials. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on both sides of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-03-22T17:38:22Z
+  Updated: 2025-12-07T09:42:53Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
@@ -1170,46 +1170,46 @@
 ## Collections
 
 - [Home page](https://andcici.com/collections/frontpage)
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-12T12:22:23Z
   Total Products: 13
 - [Alphonse Mucha](https://andcici.com/collections/alphonse-mucha): Alfons Maria Mucha known internationally as Alphonse Mucha, was a Czech painter, illustrator, and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, as well as designs, which became among the best-known images of the period.
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-10T12:22:57Z
   Total Products: 8
 - [Henri Matisse](https://andcici.com/collections/henri-matisse): Henri Émile Benoît Matisse (31 December 1869 – 3 November 1954) was a French visual artist, known for both his use of colour and his fluid and original draughtsmanship. He is one of the artists who best helped to define the revolutionary developments in the visual arts throughout the opening decades of the twentieth century, responsible for significant developments in painting and sculpture. The intense colourism of the works he painted between 1900 and 1905 brought him notoriety as one of the Fauves (French for "wild beasts").
   Updated: 2025-12-06T12:18:19Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
-  Updated: 2025-12-06T16:01:46Z
+  Updated: 2025-12-12T12:22:23Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-10T12:22:57Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-09T12:20:20Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-09T12:20:20Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-12T12:22:23Z
   Total Products: 12
 - [William Morris](https://andcici.com/collections/william-morris): William Morris was a British textile artist, writer, and designer who was a major leader in the Arts and Crafts Movement of the 19th century. He revolutionized the decorative arts with his intricate designs and notable use of color and pattern. His works included stained glass, wallpaper, furniture, and fabric, and his influence can still be seen today in many modern designs. His passion for craftsmanship and commitment to beauty remain an inspiration to artisans and designers everywhere.
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-09T12:20:20Z
   Total Products: 6
 - [Van Gogh](https://andcici.com/collections/van-gogh): Vincent Willem Van Gogh (30 March 1853 - 29 July 1890) was a Dutch Post-impressionist painter born in North Brabant, Netherlands. He was an influential Post-Impressionist painter who is still widely regarded as one of the most important figures in the history of art. After his passing, he became one of the most famous & influential figures in Western Art History. In a decade, he created about 2,100 artworks, including Starry Night, The Potato Eaters and Sunflowers
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-09T12:20:20Z
   Total Products: 28
 - [Johannes Vermeer](https://andcici.com/collections/johannes-vermeer): Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age, famous for his intimate household scenes with amazing light. In other paintings by Vermeer, such as the famous Girl with a Pearl Earring and View of Delft, he managed to create a calm, almost timeless atmosphere.
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-12-06T16:01:46Z
+  Updated: 2025-12-12T12:22:23Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-12-06T16:01:46Z
+  Updated: 2025-12-12T12:22:23Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-12-06T12:18:19Z
+  Updated: 2025-12-12T12:22:23Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-12-06T12:18:19Z
@@ -1441,7 +1441,7 @@
 - [Shipping Policy](https://andcici.com/policies/shipping-policy)
   Updated: 2025-01-01T06:09:24+00:00
 - [Refund Policy](https://andcici.com/policies/refund-policy)
-  Updated: 2024-08-26T16:58:46+01:00
+  Updated: 2025-12-09T08:58:04+00:00
 - [Terms of Service](https://andcici.com/policies/terms-of-service)
   Updated: 2024-05-22T12:24:48+01:00
 - [Contact Information](https://andcici.com/policies/contact-information)
