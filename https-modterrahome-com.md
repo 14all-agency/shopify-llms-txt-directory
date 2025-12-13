@@ -10,7 +10,7 @@ We curate reliable home essentials, fast-shipping items, and room-elevating stat
 - Timezone: America/Chicago
 - Created At: 2025-11-26T19:03:08Z
 - Contact Email: contact@modterrahome.com@gmail.com
-- Updated At: 2025-12-11T00:00:23.108Z
+- Updated At: 2025-12-13T00:00:23.641Z
 
 Thank you for indexing Modterra Home. For press, partnerships, or data questions, please contact us through our official support page at https://modterrahome.com/pages/contact.
 
@@ -165,7 +165,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/372789_1_1000x1000_1851d988-da1a-4110-bf81-4c86ad829ce7.jpg?v=1765345604
   Price: $167.99 USD
 - [Treble Black Metal Table Lamp](https://modterrahome.com/products/treble-black-metal-table-lamp): Introduce a contemporary accent to your living room or bedside with the treble table lamp. The black metal tripod legs are an angular counterpoint to the black drum shade. A three-way rotary switch on the socket controls a 100 Watt incandescent bulb or equivalent CFL. The 3-way rotary socket switch will only work with a 3-way light bulb, otherwise, this lamp will function with a simple on/off switch at its highest setting. This lamp has a black cord that runs through the leg, hidden from sight. This lamp is also smart outlet compatible. Bulb is not included. Details GTIN (UPC/EAN): 4512839456485 Shipping Weight: 7.00 Pounds Shipping Size (Inches.): 16.00 W x 13.00 D x 16.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 28.00 Inches Item Width: 14.00 Inches Item Depth: 14.00 Inches Item Weight: 3.10 Pounds Shipping Weight Carton 1: 7.00 Shipping Height Carton 1: 16.00 Shipping Width Carton 1: 16.00 Shipping Depth Carton 1: 13.00 Additional attributes Bulbs Required Yes Bulb Type Required E26 Medium Base Bulb Maximum Wattage 100 Table Lamp Type Tripod Base Color Black Switch Type Rotary Socket Shade Included Yes Shade Color Black Shade Material Fabric Base Material Metal Bulb base E26/Medium (Standard) Shade Shape Drum Commercial Use Yes Color Black Style contemporary Assembly Required Full Assembly Needed Country Of Manufacture China
-  Updated: 2025-12-10T21:58:56Z
+  Updated: 2025-12-11T09:58:58Z
   Vendor: HomeRoots
   Product Type: Table Lamps
   Availability: Available
@@ -221,7 +221,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/398798_1_1000x1000_e390808b-0d38-44bb-bfe7-af4485259975.jpg?v=1764913133
   Price: $221.99 USD
 - [White LED Two Light Can Shape Wall Sconce](https://modterrahome.com/products/white-led-two-light-can-shape-wall-sconce): With this White LED Two Light Can Shape Wall Sconce you can add a touch of industrial design to your home, indoors or out in your garden. The sconce has a long can shape which is attached to a circular frame that allows you to securely hang it up wherever you please. The whole wall light is colored in a classy white color. The sconce has two LED bulbs in it, one at the top and one at the bottom. The ambient light that it provides will elevate the look of your exterior as well as your interior easily. 6.5" H x 4.38" W x 4.63" D Details GTIN (UPC/EAN): 808230014404 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 6.00 W x 5.00 D x 8.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 6.50 Inches Item Width: 4.38 Inches Item Depth: 4.63 Inches Item Weight: 0.70 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 8.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 5.00 Additional attributes Bulb Type Required Integrated LED Wall Lighting Type Flush Mount Power Source Hardwired Style Garden Integrated LED Yes Country Of Manufacture China
-  Updated: 2025-12-10T21:59:06Z
+  Updated: 2025-12-11T09:59:08Z
   Vendor: HomeRoots
   Product Type: Wall Lighting
   Availability: Available
@@ -235,18 +235,18 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/398310_1_1000x1000_0e6f1b2f-d47e-44b5-b90d-fb5e92a8a22f.jpg?v=1764913138
   Price: $213.99 USD
 - [White No Slub Innsbruck Square Lamp Shade](https://modterrahome.com/products/white-no-slub-innsbruck-square-lamp-shade): The white no slub innsbruck square lamp shade adds a touch of elegance to any space. This traditional lamp shade features a stylish square shape that complements various decor styles. Designed with a convenient clip-on attachment, it easily fits onto your lamp. Measuring 4 inches in width and depth at the top, it provides a well-proportioned accent. The slant height of 7 inches enhances its visual appeal while allowing optimal light diffusion. Its pristine white color brings a fresh and clean look to your room, making it a versatile choice for any setting. This lamp shade is perfect for those looking to elevate their lighting fixtures with sophistication and charm. 7.00-inch h x 8.00-inch w x 8.00-inch d. Details GTIN (UPC/EAN): 606114556435 Shipping Weight: 2.25 Pounds Shipping Size (Inches.): 14.25 W x 14.25 D x 13.38 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 7.00 Inches Item Width: 8.00 Inches Item Depth: 8.00 Inches Item Weight: 0.50 Pounds Shipping Weight Carton 1: 2.25 Shipping Height Carton 1: 13.38 Shipping Width Carton 1: 14.25 Shipping Depth Carton 1: 14.25 Additional attributes Bulbs Required Yes Bulb Maximum Wattage 0 Lampshade Type Lamp Shade Attachment Type Clip on Shape Square Top Width - Side to Side 4 Top Depth - Front to Back 4 Slant Height 7 Color White Style Traditional Number of Shades Included 1 Country Of Manufacture China
-  Updated: 2025-12-10T21:59:15Z
+  Updated: 2025-12-12T10:42:44Z
   Vendor: HomeRoots
   Product Type: Lampshades
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/469976_3_1000x1000_142af70b-4eac-4c38-8a07-b720ba86662c.jpg?v=1765403942
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/469976_3_1000x1000_6a3b4807-54f2-4915-963c-cbff07d191dc.jpg?v=1765489881
   Price: $41.99 USD
 - [White No Slub Innsbruck Square Lamp Shade](https://modterrahome.com/products/white-no-slub-innsbruck-square-lamp-shade-1): The white no slub innsbruck square lamp shade is the perfect addition to elevate your lighting decor. Designed with a traditional style, this square-shaped lampshade radiates elegance and simplicity. The classic white color complements a variety of interior themes, enhancing your space with a clean and timeless look. Measuring 5 inches in width and depth at the top, it fits seamlessly onto any compatible lamp base. The slant height of 9 inches allows for effective light diffusion, creating a warm ambiance in any room. With a spider attachment type, installation is straightforward, making it an ideal choice for those looking to refresh their lighting without hassle. Enjoy the beauty and functionality this lampshade brings to your home. 9.00-inch h x 10.00-inch w x 10.00-inch d. Details GTIN (UPC/EAN): 606114556497 Shipping Weight: 2.50 Pounds Shipping Size (Inches.): 14.25 W x 14.25 D x 13.38 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 9.00 Inches Item Width: 10.00 Inches Item Depth: 10.00 Inches Item Weight: 0.75 Pounds Shipping Weight Carton 1: 2.50 Shipping Height Carton 1: 13.38 Shipping Width Carton 1: 14.25 Shipping Depth Carton 1: 14.25 Additional attributes Bulbs Required Yes Bulb Maximum Wattage 0 Lampshade Type Lamp Shade Attachment Type Spider Shape Square Top Width - Side to Side 5 Top Depth - Front to Back 5 Slant Height 9 Color White Style Traditional Number of Shades Included 1 Country Of Manufacture China
-  Updated: 2025-12-07T21:59:35Z
+  Updated: 2025-12-12T09:55:22Z
   Vendor: HomeRoots
   Product Type: Lampshades
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/469982_1_1000x1000_f51fd837-2e10-4871-9e61-e96df6fe4313.jpg?v=1764913143
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/469982_1_1000x1000_4443060a-b67f-4b5f-a9a2-5bbafeeb961b.jpg?v=1765489885
   Price: $50.99 USD
 - [White No Slub Innsbruck Oval Lamp Shade](https://modterrahome.com/products/white-no-slub-innsbruck-oval-lamp-shade): The white no slub innsbruck oval lamp shade adds a touch of elegance to your home decor. This mid-century style lampshade features a solid color design that effortlessly complements various interior themes. Its oval shape and spider attachment type ensure a seamless fit with your existing lamp base. With a top depth from front to back of 8 inches and a slant height also of 8 inches, it perfectly balances form and function. Crafted to diffuse light gently, this lampshade enhances any room's ambiance while maintaining a chic aesthetic. Ideal for creating a cozy atmosphere, it is suitable for different spaces where style meets practicality. Elevate your lighting setup with this stylish addition. 8.00-inch h x 12.00-inch w x 8.00-inch d. Details GTIN (UPC/EAN): 606114558682 Shipping Weight: 2.30 Pounds Shipping Size (Inches.): 14.25 W x 14.25 D x 13.38 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 8.00 Inches Item Width: 12.00 Inches Item Depth: 8.00 Inches Item Weight: 0.55 Pounds Shipping Weight Carton 1: 2.30 Shipping Height Carton 1: 13.38 Shipping Width Carton 1: 14.25 Shipping Depth Carton 1: 14.25 Additional attributes Bulbs Required Yes Bulb Maximum Wattage 0 Lampshade Type Lamp Shade Attachment Type Spider Shape Oval Top Width - Side to Side 12 Top Depth - Front to Back 8 Slant Height 8 Color White Style Mid-Century Shade Pattern Solid Color Number of Shades Included 1 Country Of Manufacture United States
   Updated: 2025-12-07T21:59:09Z
@@ -256,7 +256,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/470201_1_1000x1000_912701d7-9359-4019-a421-d9677f231508.jpg?v=1764913146
   Price: $100.99 USD
 - [White No Slub Innsbruck Oval Lamp Shade](https://modterrahome.com/products/white-no-slub-innsbruck-oval-lamp-shade-1): The white no slub innsbruck oval lamp shade is a stunning addition to your home decor. This mid-century lamp shade features a solid color design that effortlessly complements a variety of interiors. With an oval shape and a slant height of 9 inches, it provides a unique silhouette that enhances the overall aesthetic. The top depth from front to back measures 9 inches, ensuring a perfect fit for your lighting needs. Designed with a spider attachment type, it makes installation simple and straightforward. This elegant piece brings a touch of sophistication to any room, making it an ideal choice for those who appreciate timeless style and modern simplicity. Elevate your space with this versatile and chic lamp shade. 9.00-inch h x 14.00-inch w x 9.00-inch d. Details GTIN (UPC/EAN): 606114558743 Shipping Weight: 3.45 Pounds Shipping Size (Inches.): 17.75 W x 17.75 D x 15.50 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 9.00 Inches Item Width: 14.00 Inches Item Depth: 9.00 Inches Item Weight: 0.70 Pounds Shipping Weight Carton 1: 3.45 Shipping Height Carton 1: 15.50 Shipping Width Carton 1: 17.75 Shipping Depth Carton 1: 17.75 Additional attributes Bulbs Required Yes Bulb Maximum Wattage 0 Lampshade Type Lamp Shade Attachment Type Spider Shape Oval Top Width - Side to Side 14 Top Depth - Front to Back 9 Slant Height 9 Color White Style Mid-Century Shade Pattern Solid Color Number of Shades Included 1 Country Of Manufacture United States
-  Updated: 2025-12-10T21:59:13Z
+  Updated: 2025-12-11T09:59:07Z
   Vendor: HomeRoots
   Product Type: Lampshades
   Availability: Available
@@ -305,7 +305,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/469967_1_1000x1000_b66d5ba7-0af2-4747-9644-5c431459afe1.jpg?v=1764913163
   Price: $67.99 USD
 - [White No Slub Innsbruck Empire Lamp Shade](https://modterrahome.com/products/white-no-slub-innsbruck-empire-lamp-shade-1): The white no slub innsbruck empire lamp shade brings an elegant touch to any space. Featuring a traditional design, this lamp shade seamlessly complements various decor styles. Its empire shape ensures a classic silhouette that enhances your lighting fixture. With an 8-inch width and depth at the top, it provides a balanced look that fits well in both small and large rooms. The spider attachment type offers easy installation, making it convenient for anyone to update their lighting. Crafted in a timeless white color, this lamp shade reflects light beautifully, creating a warm and inviting atmosphere. Elevate your home decor with this stylish and functional addition to your lighting collection. 11.00-inch h x 14.00-inch w x 14.00-inch d. Details GTIN (UPC/EAN): 606114557012 Shipping Weight: 3.40 Pounds Shipping Size (Inches.): 17.75 W x 17.75 D x 15.50 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 11.00 Inches Item Width: 14.00 Inches Item Depth: 14.00 Inches Item Weight: 0.65 Pounds Shipping Weight Carton 1: 3.40 Shipping Height Carton 1: 15.50 Shipping Width Carton 1: 17.75 Shipping Depth Carton 1: 17.75 Additional attributes Bulbs Required Yes Bulb Maximum Wattage 0 Lampshade Type Lamp Shade Attachment Type Spider Shape Empire Top Width - Side to Side 8 Top Depth - Front to Back 8 Slant Height 11 Color White Style Traditional Number of Shades Included 1 Country Of Manufacture China
-  Updated: 2025-12-10T21:59:20Z
+  Updated: 2025-12-11T09:59:16Z
   Vendor: HomeRoots
   Product Type: Lampshades
   Availability: Available
@@ -368,7 +368,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/389632_5_1000x1000_fe11e47d-ac29-42b2-baa3-cc31d0db941f.jpg?v=1765143514
   Price: $342.99 USD
 - [Classic White Wood Wide Six Hook Coat Rack](https://modterrahome.com/products/classic-white-wood-wide-six-hook-coat-rack): Enliven your home with this aptly designed Traditional Classic Classic White Wood Wide Six Hook Coat Rack. Diligently handcrafted from mahogany wood, with six large antiqued brass hooks, the rack has exquisite detailed profiling engulfed in a semi gloss painted finish. Creatively fashioned to include a small shelf, the top of the rack has just the right amount of space to display decorative artifacts or even small plants. Unique crown moldings hightlight the top of the shelf to complete the traditional look of this rack. The all white color tone delivers a subtle and versatile rack which can be easily incorporated in any decor. The large multipurpose hooks are built to support anything from keys and coats to handbags as well. A vision in white, the elegant hook rack has the ability to add finesse and charm to any home. 7.87" x 39.37" x 8.27" Details GTIN (UPC/EAN): 808230003965 Shipping Weight: 27.56 Pounds Shipping Size (Inches.): 43.70 W x 11.81 D x 12.20 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 7.87 Inches Item Width: 39.37 Inches Item Depth: 8.27 Inches Item Weight: 24.25 Pounds Shipping Weight Carton 1: 27.56 Shipping Height Carton 1: 12.20 Shipping Width Carton 1: 43.70 Shipping Depth Carton 1: 11.81 Additional attributes Coat Hanger Type Wall Mounted Coat Rack Number of Pieces 1 Number of Hooks 6 Room Living Room Style Contemporary Color White Country Of Manufacture Indonesia
-  Updated: 2025-12-10T13:52:34Z
+  Updated: 2025-12-11T01:52:25Z
   Vendor: HomeRoots
   Product Type: Coat Hangers
   Availability: Available
@@ -430,12 +430,12 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/489580_4_1000x1000_435f4716-2d75-4c98-a22e-131904100580.jpg?v=1765141965
   Price: $127.99 USD
-- [Set Of Two Orange Faux Shagreen Jewelry Boxes With Decorative Hardware](https://modterrahome.com/products/set-of-two-orange-faux-shagreen-jewelry-boxes-with-decorative-hardware): The set of two orange faux shagreen jewelry boxes with decorative hardware adds a stylish touch to your living room. Crafted from high-quality manufactured wood covered with a faux shagreen vinyl overlay, these multi-purpose decorative boxes showcase a modern design that enhances any decor. The vibrant orange is accented by gold finished metal handles that creates a chic color combination that brings warmth and character, making them perfect statement pieces. Each box features a hinged lid for easy access to your treasured items, while the rectangular shape ensures efficient use of space. This set includes two beautifully crafted, different sized boxes, allowing you to mix and match or utilize them separately for added versatility in your home. 3.5-inch h x 11.75-inch w x 9-inch d. Details GTIN (UPC/EAN): 880016801149 Shipping Weight: 4.00 Pounds Shipping Size (Inches.): 18.00 W x 14.00 D x 7.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 3.50 Inches Item Width: 11.75 Inches Item Depth: 9.00 Inches Item Weight: 2.85 Pounds Shipping Weight Carton 1: 4.00 Shipping Height Carton 1: 7.00 Shipping Width Carton 1: 18.00 Shipping Depth Carton 1: 14.00 Additional attributes Commercial Use Yes Room Living Room Material Faux Shagreen Style Modern Color Orange Product Type Jewelry Box Overall Shape Rectangle Pattern Solid Color Storage Type Hinged Lid Standing Style Floor Number of items included in set 2 Height of first item in set 3.5 Height of second item in set 2.75 Width of first item in set 11.75 Width of second item in set 10 Country Of Manufacture China
-  Updated: 2025-12-08T04:04:13Z
+- [Set Of Two Orange Faux Shagreen Jewelry Boxes With Decorative Hardware](https://modterrahome.com/products/set-of-two-orange-faux-shagreen-jewelry-boxes-with-decorative-hardware): Set of two orange faux shagreen jewelry boxes with decorative hardware will add a pop of color to your living room decor. Crafted from luxurious faux shagreen, these jewelry boxes exhibit a modern aesthetic that complements any style. The vibrant orange hue offers a striking contrast, making them a stylish storage solution. Their rectangular shape allows for efficient organization, while the hinged lid design provides easy access to your cherished items. Designed to stand proudly on the floor, this set includes two boxes, ensuring ample space for your jewelry collection. Enhance your home with these elegant accessories that blend functionality and sophistication in one delightful package. 3.50-inch h x 11.75-inch w x 9.00-inch d. Details GTIN (UPC/EAN): 880016801149 Shipping Weight: 4.00 Pounds Shipping Size (Inches.): 18.00 W x 14.00 D x 7.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 3.50 Inches Item Width: 11.75 Inches Item Depth: 9.00 Inches Item Weight: 2.85 Pounds Shipping Weight Carton 1: 4.00 Shipping Height Carton 1: 7.00 Shipping Width Carton 1: 18.00 Shipping Depth Carton 1: 14.00 Additional attributes Commercial Use Yes Room Living Room Material Faux Shagreen Style Modern Color Orange Product Type Jewelry Box Overall Shape Rectangle Pattern Solid Color Storage Type Hinged Lid Standing Style Floor Number of items included in set 2 Height of first item in set 3.5 Height of second item in set 2.75 Width of first item in set 11.75 Width of second item in set 10 Country Of Manufacture China
+  Updated: 2025-12-12T09:53:45Z
   Vendor: HomeRoots
   Product Type: Jewelry Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/630405_3_drzga9c0_1000x1000_c1a3d354-4cf1-4fb2-9e14-e20ce19a410a.jpg?v=1765060423
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/630405_1_AGAQClPl_1000x1000_b7649017-6be1-4587-8d04-9babf710932d.jpg?v=1765489888
   Price: $82.99 USD
 - [Set Of Two Modern Orange Faux Shagreen Jewelry Boxes With Decorative Hardware](https://modterrahome.com/products/set-of-two-orange-faux-shagreen-jewelry-boxes-with-decorative-hardware-1): The set of two orange faux shagreen square jewelry boxes with decorative hardware adds a stylish touch to your living room. Crafted from high-quality manufactured wood covered with a faux shagreen vinyl overlay, these multi-purpose decorative boxes showcase a modern design that enhances any decor. The vibrant orange is accented by gold finished metal handles that creates a chic color combination that brings warmth and character, making them perfect statement pieces. Each box features a hinged lid for easy access to your treasured items, while the rectangular shape ensures efficient use of space. This set includes two beautifully crafted, different sized boxes, allowing you to mix and match or utilize them separately for added versatility in your home. 3.5-inch h x 9.75-inch w x 10.5-inch d. Details GTIN (UPC/EAN): 880016647457 Shipping Weight: 4.00 Pounds Shipping Size (Inches.): 18.00 W x 14.00 D x 7.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 3.50 Inches Item Width: 9.75 Inches Item Depth: 10.50 Inches Item Weight: 3.00 Pounds Shipping Weight Carton 1: 4.00 Shipping Height Carton 1: 7.00 Shipping Width Carton 1: 18.00 Shipping Depth Carton 1: 14.00 Additional attributes Commercial Use Yes Room Living Room Material Faux Shagreen Style Modern Color Orange Product Type Jewelry Box Overall Shape Square Pattern Solid Color Storage Type Hinged Lid Standing Style Floor Number of items included in set 2 Height of first item in set 3.5 Height of second item in set 2.75 Width of first item in set 9.75 Width of second item in set 8 Country Of Manufacture China
   Updated: 2025-12-08T04:04:13Z
@@ -508,11 +508,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/376343_2_1000x1000_67e79982-5fce-4181-a7c4-5c3404f970b3.jpg?v=1765061209
   Price: $95.99 USD
 - [White Solid Wood Corner Bookcase](https://modterrahome.com/products/white-solid-wood-corner-bookcase): The white solid wood corner bookcase offers you storage and display space in a good looking and refined manor. Great to use independently or pair with additional units to create a different look and add even more storage. Increase your room's capacity for storage and display with this great shelving unit. 60-inch h x 26.5-inch w x 15.25-inch d. Details GTIN (UPC/EAN): 4512822856360 Shipping Weight: 23.60 Pounds Shipping Size (Inches.): 16.00 W x 4.00 D x 72.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 60.00 Inches Item Width: 26.50 Inches Item Depth: 15.25 Inches Item Weight: 19.00 Pounds Shipping Weight Carton 1: 23.60 Shipping Height Carton 1: 72.00 Shipping Width Carton 1: 16.00 Shipping Depth Carton 1: 4.00 Additional attributes Bookcase Type Corner Bookcase Orientation Vertical Frame Material Solid Wood Shelf Weight Capacity 200 Shelves Yes Assembly Required Full Assembly Needed Style Modern Color White Country Of Manufacture Viet Nam
-  Updated: 2025-12-09T09:50:24Z
+  Updated: 2025-12-12T21:43:24Z
   Vendor: HomeRoots
   Product Type: Bookcases
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/379944_3_1000x1000_baf7239f-bd4b-47f7-971c-e571f41b0777.jpg?v=1765230621
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/379944_3_1000x1000_80a87514-97b9-43f1-8093-56ba987898c0.jpg?v=1765575796
   Price: $251.99 USD
 - [Modern Iconic Silver Aluminum Aviator File Cabinet](https://modterrahome.com/products/iconic-aviator-file-cabinet): Enhance your home office or work space with this aviation-inspired file cabinet. Crafted from mango wood solids and wood products, the cabinet's riveted polished aluminum shell is uniquely industrial, while its clean lines are decidedly modern. The top drawer provides convenient storage of office supplies or other miscellaneous items with a larger file storage drawer below featuring fully-extendable glides for easy opening and ample support of files. Details GTIN (UPC/EAN): 4512822878652 Shipping Weight: 60.00 Pounds Shipping Size (Inches.): 23.00 W x 24.00 D x 26.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 23.00 Inches Item Width: 20.00 Inches Item Depth: 18.00 Inches Item Weight: 57.00 Pounds Shipping Weight Carton 1: 60.00 Shipping Height Carton 1: 26.00 Shipping Width Carton 1: 23.00 Shipping Depth Carton 1: 24.00 Additional attributes Drawer Type Storage Drawer Number of Drawers 2 Material Aluminum Style Modern Color Silver Material Solid Wood Drawers Included Yes Number of Drawers 2 Country Of Manufacture India
   Updated: 2025-12-08T04:04:17Z
@@ -564,11 +564,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/402074_4_1000x1000_2c422e4a-96e2-49fb-8a5c-566c18c83dee.jpg?v=1765125911
   Price: $255.99 USD
 - [Navy Blue Writing Desk](https://modterrahome.com/products/navy-blue-writing-desk): Brighten your home with the colorful Navy Blue Writing Desk. The slim silhouette combined with it's country chic personality enhances the versatility of the desk making it convenient to serve as a work place, a storage for accessories and miscellaneous items or even as a kitchen appliance area. Traditional carved spindle legs supports the charming desk which also features two large drawers with knob pulls to stow away your knick knacks and various supplies. Take center stage with its's engaging presence smooth painted classic cottage appeal. 30.25" x 42.75" x 20.75" Details GTIN (UPC/EAN): 808230103979 Shipping Weight: 37.00 Pounds Shipping Size (Inches.): 7.50 W x 28.00 D x 44.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 30.25 Inches Item Width: 42.75 Inches Item Depth: 23.50 Inches Item Weight: 37.00 Pounds Shipping Weight Carton 1: 37.00 Shipping Height Carton 1: 44.00 Shipping Width Carton 1: 7.50 Shipping Depth Carton 1: 28.00 Additional attributes Shape Rectangular Desk Top Color Blue Top Material Manufactured Wood Base Material Manufactured Wood Base Wood Species Not wood Number of Interior Shelves 1 Drawers Included Yes Exterior Shelving Yes Number of Drawers 2 Base Type Standard Size Medium Style Formal Color Blue Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T09:53:40Z
+  Updated: 2025-12-12T21:43:32Z
   Vendor: HomeRoots
   Product Type: Desks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/402082_1_1000x1000_3e0ff9fa-2555-4984-9ec4-029a414dbb4d.jpg?v=1765317183
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/402082_1_1000x1000_e7f83091-a9fb-4348-abb9-5c88cc323dae.jpg?v=1765575799
   Price: $271.99 USD
 - [35" Black Wood Three Drawers Filing Cabinet](https://modterrahome.com/products/35-black-wood-three-drawers-filing-cabinet): The 35-inch black wood three drawers filing cabinet is a sleek and functional addition to any workspace. Its contemporary style seamlessly blends with modern decor while adding an organized touch. Crafted from high-quality manufactured wood, this cabinet offers durability and elegance. Featuring three spacious drawers, it provides ample storage for files, documents, and office supplies. The rich black color enhances its sophisticated appearance, making it an ideal choice for both home and office environments. This filing cabinet not only maximizes your storage potential but also elevates the aesthetic appeal of your space. Its versatile design ensures that it fits perfectly in various settings, whether for daily use or strategic document management. 35.43-inch h x 27.55-inch w x 15.98-inch d. Details GTIN (UPC/EAN): 880016555554 Shipping Weight: 77.16 Pounds Shipping Size (Inches.): 20.87 W x 35.83 D x 9.06 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 35.43 Inches Item Width: 27.55 Inches Item Depth: 15.98 Inches Item Weight: 74.16 Pounds Shipping Weight Carton 1: 77.16 Shipping Height Carton 1: 9.06 Shipping Width Carton 1: 20.87 Shipping Depth Carton 1: 35.83 Additional attributes Assembly Required Full Assembly Needed Style Contemporary Color Black Material Manufactured Wood Drawers Included Yes Number of Drawers 3 Country Of Manufacture Colombia
   Updated: 2025-12-08T04:04:09Z
@@ -585,7 +585,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/486286_2_1000x1000_10590adc-cdc7-4ab8-bf31-43d863aa18cf.jpg?v=1765125282
   Price: $890.99 USD
 - [White Wood Five Tier Bookcase](https://modterrahome.com/products/white-wood-five-tier-bookcase): Super versatile, the white wood five tier bookcase is an ideal piece for your living room, study, or office. 5 shelf tiers are available, providing great storage and display options for everything from books and photos to decorations. Great to use independently or pair with additional units to create a different look and add even more storage. Increase your room's capacity for storage and display with this great shelving unit. 63-inch h x 63-inch w x 11-inch d. Details GTIN (UPC/EAN): 606114705574 Shipping Weight: 110.00 Pounds Shipping Size (Inches.): 67.75 W x 16.75 D x 16.75 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 63.00 Inches Item Width: 63.00 Inches Item Depth: 11.00 Inches Item Weight: 110.00 Pounds Shipping Weight Carton 1: 110.00 Shipping Height Carton 1: 16.75 Shipping Width Carton 1: 67.75 Shipping Depth Carton 1: 16.75 Additional attributes Bookcase Type Standard Bookcase Orientation Vertical Frame Material Solid Wood Number of Shelf Tiers 5 Shelf Weight Capacity 100 Room Divider Yes Shelves Yes Style Traditional Color White Country Of Manufacture China
-  Updated: 2025-12-10T21:59:18Z
+  Updated: 2025-12-11T09:59:16Z
   Vendor: HomeRoots
   Product Type: Bookcases
   Availability: Available
@@ -627,14 +627,14 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/645618_16_BvK3wY9t_1000x1000_be48ba05-42c5-4d5b-b8f5-0d5c72a69e23.jpg?v=1765125028
   Price: $338.99 USD
 - [White And Gray Twin Loft Bed And Desk](https://modterrahome.com/products/white-and-teal-twin-loft-bed-and-desk): Elevate your space, literally, with this White and Gray Twin Loft Bed and Desk. Made of sturdy laminated veneer, this youth bed adds fun and function to the room, allowing you to utilize the space under the sleeping area as a school work desk area. A great utilization of space, this bed and desk combo is a great choice. This versatile bed frame includes a student left facing desk with 3 drawers and an open compartment, a non-reversible right facing front ladder and a right facing wardrobe. The top bed is complemented by an easy access guard-rail for the optimum safety. This bed, desk, and storage combo will be a functional, fun, and unique addition to a child's bedroom. It has a weight capacity of 165Lbs. Note that top bed is not to be used for children below 6 years of age. 70" X 78" X 41" Details GTIN (UPC/EAN): 614486162307 Shipping Weight: 342.00 Pounds Shipping Size (Inches.): 121.00 W x 294.00 D x 24.00 H Number Of Cartons: 5 Shipping Method: LTL Ship Palletized: No Item Height: 70.00 Inches Item Width: 78.00 Inches Item Depth: 41.00 Inches Item Weight: 307.00 Pounds Shipping Weight Carton 1: 77.00 Shipping Height Carton 1: 4.00 Shipping Width Carton 1: 43.00 Shipping Depth Carton 1: 73.00 Shipping Weight Carton 2: 77.00 Shipping Height Carton 2: 5.00 Shipping Width Carton 2: 19.00 Shipping Depth Carton 2: 78.00 Shipping Weight Carton 3: 65.00 Shipping Height Carton 3: 6.00 Shipping Width Carton 3: 18.00 Shipping Depth Carton 3: 43.00 Shipping Weight Carton 4: 71.00 Shipping Height Carton 4: 4.00 Shipping Width Carton 4: 21.00 Shipping Depth Carton 4: 56.00 Shipping Weight Carton 5: 52.00 Shipping Height Carton 5: 5.00 Shipping Width Carton 5: 20.00 Shipping Depth Carton 5: 44.00 Additional attributes Frame Material Solid and Manufactured Wood Headboard Shape Rectangular Number of Slats Included 0 Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture Malaysia
-  Updated: 2025-12-10T06:57:47Z
+  Updated: 2025-12-12T21:43:49Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/318775_1_1000x1000_3c3474a8-00eb-4479-842b-ed7533f4263d.jpg?v=1765345613
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/318775_1_1000x1000_492e3279-8a4e-4289-8a6f-6a5ea3336223.jpg?v=1765575818
   - [White & Gray](https://modterrahome.com/products/white-and-teal-twin-loft-bed-and-desk?variant=52045774061877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/318775_1_1000x1000_3c3474a8-00eb-4479-842b-ed7533f4263d.jpg?v=1765345613
+    Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/318775_1_1000x1000_492e3279-8a4e-4289-8a6f-6a5ea3336223.jpg?v=1765575818
     Price: $870.99 USD
   - [White & Oak](https://modterrahome.com/products/white-and-teal-twin-loft-bed-and-desk?variant=52045774094645)
     Availability: Available
@@ -789,14 +789,14 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/592800_13_a5IjSeud_1000x1000_64806c78-1554-4fd5-bc30-813096e73e1e.jpg?v=1765306700
   Price: $391.99 USD
 - [White Four Poster Wood Full Double Loft Bed with Desk and Shelves](https://modterrahome.com/products/white-four-poster-wood-full-double-loft-bed-with-desk-and-shelves): An instantaneous wonder, the white four poster wood full double loft bed with desk and shelves provides immediate sleeping and storage solutions. The entire frame is made from high-quality solid and manufactured wood to ensure its durability. The entire bed is finished in white color that complements any home decor style. Enjoy this loft bed for years to come with its durable build to withstand horseplay, scratching and other untimely wear. Highly efficient in design, this compact but spacious bed is super practical, convenient and a sight for sore eyes. 67-inch h x 77-inch w x 57-inch d. Details GTIN (UPC/EAN): Shipping Weight: 130.00 Pounds Shipping Size (Inches.): 77.40 W x 56.50 D x 66.50 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 67.00 Inches Item Width: 77.00 Inches Item Depth: 57.00 Inches Item Weight: 130.00 Pounds Shipping Weight Carton 1: 130.00 Shipping Height Carton 1: 66.50 Shipping Width Carton 1: 77.40 Shipping Depth Carton 1: 56.50 Additional attributes Clearance from Floor to Underside of Bed 10 Distance between the Slats 2 Frame Material Solid and Manufactured Wood Mattress Size Full Double Number of Slats Included 20 Recommended Mattress Thickness 6 Weight Capacity 300 Slat Kit Included Yes Frame Color White USB included Yes Assembly Required Full Assembly Needed Style Transitional Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T06:58:29Z
+  Updated: 2025-12-12T21:43:25Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/592802_13_aw4tGEpd_1000x1000_d566487b-2f78-4091-acc3-4d181e35017a.jpg?v=1765306702
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/592802_1_skFSnRfV_1000x1000_909a5a84-9ad0-4a49-ae2a-21c72ed5fb6c.jpg?v=1765575803
   Price: $488.99 USD
 - [White Twin Over Twin Metal Bunk Bed](https://modterrahome.com/products/white-twin-over-twin-metal-bunk-bed): Stylish and super eye-catching, the white twin over twin metal bunk bed will add a rich unique vibe to children's or teenager's bedrooms. The entire bed is finished in white color that complements any home decor style. This super simple yet elegant bunk bed features twin over twin size beds. To ensure safety, the top bunk bed features a guardrail. Enjoy this bunk for years to come with its durable build to withstand horseplay, scratching and other untimely wear. Owing it's stylish look with clean lines the design promotes comfort and a dash of elegance which invariably enhances the look of any bedroom. 60-inch h x 78-inch w x 41-inch d. Details GTIN (UPC/EAN): 689211812628 Shipping Weight: 91.00 Pounds Shipping Size (Inches.): 7.00 W x 76.00 D x 44.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 60.00 Inches Item Width: 78.00 Inches Item Depth: 41.00 Inches Item Weight: 77.00 Pounds Shipping Weight Carton 1: 91.00 Shipping Height Carton 1: 44.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 76.00 Additional attributes Frame Material Metal Legs Yes Mattress Size Twin Weight Capacity 350 Bed Size Twin Over Twin Bunk and Loft Configurations Standard Guardrails Included Yes Ladder Type Built-In (attached) Ladder Gender Gender Neutral Weight Capacity Bottom Bed or Futon 200 Weight Capacity Top Bed 150 Recommended Mattress Thickness Bottom Bed 6 Recommended Mattress Thickness Top Bed 6 Frame Color White Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture China
-  Updated: 2025-12-10T21:59:28Z
+  Updated: 2025-12-11T09:59:19Z
   Vendor: HomeRoots
   Product Type: Bunk Beds
   Availability: Available
@@ -824,18 +824,18 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/285831_1_1000x1000_1de0ffb1-92db-44a7-b34b-9f0254bd328d.jpg?v=1765345606
   Price: $595.99 USD
 - [White Twin Over Full Solid Wood Bunk Bed With Stairs And Trundle And Storage](https://modterrahome.com/products/white-twin-over-full-solid-wood-bunk-bed-with-stairs-and-trundle-and-storage): Subtle and compact, the white twin over full solid wood bunk bed with stairs and trundle and storage is a lovely choice for your small spaced home. The entire bed is finished in white color that complements any home decor style. This beautiful twin over full size bunk bed is the perfect choice for children's bedrooms. The upper bunk is surrounded by safe guard railings while the bottom bunk displays a headboard and footboard. Enjoy this bunk for years to come with its durable build to withstand horseplay, scratching and other untimely wear. Make your kids love you more by adding this fun and popular bunk bed to their cute bedroom. 65-inch h x 95-inch w x 56-inch d. Details GTIN (UPC/EAN): 689211851375 Shipping Weight: 241.00 Pounds Shipping Size (Inches.): 84.00 W x 282.00 D x 29.00 H Number Of Cartons: 4 Shipping Method: LTL Ship Palletized: Yes Item Height: 65.00 Inches Item Width: 95.00 Inches Item Depth: 56.00 Inches Item Weight: 215.00 Pounds Shipping Weight Carton 1: 75.00 Shipping Height Carton 1: 11.00 Shipping Width Carton 1: 34.00 Shipping Depth Carton 1: 59.00 Shipping Weight Carton 2: 64.00 Shipping Height Carton 2: 5.00 Shipping Width Carton 2: 16.00 Shipping Depth Carton 2: 94.00 Shipping Weight Carton 3: 60.00 Shipping Height Carton 3: 8.00 Shipping Width Carton 3: 20.00 Shipping Depth Carton 3: 50.00 Shipping Weight Carton 4: 42.00 Shipping Height Carton 4: 5.00 Shipping Width Carton 4: 14.00 Shipping Depth Carton 4: 79.00 Additional attributes Clearance from Floor to Underside of Bed 20 Number of Drawers 4 Frame Material Solid Wood Headboard Shape Rectangular Mattress Size Twin Number of Slats Included 39 Recommended Mattress Thickness 10 Trundle Bed Yes Weight Capacity 150 Slat Kit Included Yes Bed Size Twin Over Full Bunk and Loft Configurations Standard Guardrails Included Yes Built-In Stairs Included Yes Gender Gender Neutral Weight Capacity Bottom Bed or Futon 350 Weight Capacity Top Bed 165 Recommended Mattress Thickness Bottom Bed 6 Recommended Mattress Thickness Top Bed 6 Frame Color White Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T21:59:28Z
+  Updated: 2025-12-12T21:43:38Z
   Vendor: HomeRoots
   Product Type: Bunk Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/286160_1_1000x1000_fa806592-7d41-4154-8a53-69221a716378.jpg?v=1765403957
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/286160_1_1000x1000_b697751e-4947-44c4-a36b-d25d19dbd709.jpg?v=1765575805
   Price: $1,047.99 USD
 - [White Twin Solid Wood Bunk Bed With Trundle And Storage](https://modterrahome.com/products/white-twin-solid-wood-bunk-bed-with-trundle-and-storage): Charming and practical, the white twin solid wood bunk bed with trundle and storage is an excellent solution for maximizing space and storing items. Painted in white, it will add a timeless spark to your home. Guardrails surround the bunk that ensures your child sleeps safely at night. Highly efficient in design, this compact but spacious bed is super practical, convenient and a sight for sore eyes. This unique bunk bed will add tons of character and charm to any space. 70-inch h x 42-inch w x 80-inch d. Details GTIN (UPC/EAN): 4512822748948 Shipping Weight: 262.00 Pounds Shipping Size (Inches.): 63.00 W x 128.00 D x 15.00 H Number Of Cartons: 2 Shipping Method: LTL Ship Palletized: No Item Height: 70.00 Inches Item Width: 42.00 Inches Item Depth: 80.00 Inches Item Weight: 220.00 Pounds Shipping Weight Carton 1: 123.00 Shipping Height Carton 1: 9.00 Shipping Width Carton 1: 41.00 Shipping Depth Carton 1: 47.00 Shipping Weight Carton 2: 139.00 Shipping Height Carton 2: 6.00 Shipping Width Carton 2: 22.00 Shipping Depth Carton 2: 81.00 Additional attributes Number of Drawers 3 Frame Material Solid Wood Headboard included with frame Yes Headboard Shape Rectangular Headboard Type Panel Mattress Size Twin Number of Slats Included 39 Trundle Bed Yes Weight Capacity 180 Slat Kit Included Yes Bed Size Twin Bunk and Loft Configurations Standard Guardrails Included Yes Guardrail Height 20 Ladder Type Built-In (attached) Ladder Gender Gender Neutral Weight Capacity Bottom Bed or Futon 150 Weight Capacity Top Bed 150 Recommended Mattress Thickness Bottom Bed 6 Recommended Mattress Thickness Top Bed 6 Frame Color White Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture Brazil
-  Updated: 2025-12-10T21:59:32Z
+  Updated: 2025-12-12T21:43:41Z
   Vendor: HomeRoots
   Product Type: Bunk Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/332368_1.jpg?v=1765403960
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/332368_1.jpg?v=1765575808
   Price: $726.99 USD
 - [Luxurious White Waffle Weave Shower Curtain](https://modterrahome.com/products/luxurious-white-waffle-weave-shower-curtain): Giving an aesthetically pleasing touch to the bathroom can be tricky but with this Luxurious White Waffle Weaved Shower Curtain, you can add a stylish and high end appeal to the space. The beautiful pure white color adds a refreshing tone and reflects light to give a subtle glow to your bathroom with a luxurious spa-like ambiance. The exquisite waffle weave pattern with raised thread adds rich texture and prevents excessive moisture while the 12 glossy buttonholes make it easy to hang. Constructed with high quality polyester fabric to ensure durability that will serve you for years while being easy to wash and clean. Update your bathroom with this classic hotel style shower curtain that will keep the bathroom floor dry and add to the visual impact of the space. 70” x 72” Details GTIN (UPC/EAN): 808230080348 Shipping Weight: 2.00 Pounds Shipping Size (Inches.): 15.00 W x 4.00 D x 12.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 72.00 Inches Item Width: 70.00 Inches Item Depth: 1.00 Inches Item Weight: 2.00 Pounds Shipping Weight Carton 1: 2.00 Shipping Height Carton 1: 12.00 Shipping Width Carton 1: 15.00 Shipping Depth Carton 1: 4.00 Additional attributes Curtain Type Shower Curtain Water Repellent Yes Liner Required Yes Washing Care Machine wash Set/Single Single Piece Hook Hole Spacing 6 Style Traditional Shower Curtain Material Polyester Color White Country Of Manufacture China Hanging Style Buttonhole
   Updated: 2025-12-10T07:05:49Z
@@ -859,7 +859,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/399750_8_58aF3n3R_1000x1000_5226b1fd-d9af-4c96-a9a4-7c8ca514177b.jpg?v=1765307141
   Price: $31.99 USD
 - [Mocha Sheer and Grid Shower Curtain and Liner Set](https://modterrahome.com/products/mocha-sheer-and-grid-shower-curtain-and-liner-set): Standing out in fashion and function, this Mocha Sheer and Grid Shower Curtain and Liner Set will be an alluring piece of decorative accent for your bathroom space. The classy shade of mocha is pleasing to the eyes and gives an illusion of a deluxe spa while inducing a sense of relaxation and luxury in the air. This easy-to-clean cotton shower curtain comes with a liner that keeps water in the tub rather than splashing outside the shower area while preventing mildew on the curtains. You can seamlessly attach the liner to the curtain when needed and snap it off for easy cleaning. Bring home this classy shower curtain and liner set to enhance the aesthetics of your contemporary bathroom space with style and grace. 70” x 72” Details GTIN (UPC/EAN): 808230080676 Shipping Weight: 2.00 Pounds Shipping Size (Inches.): 15.00 W x 4.00 D x 12.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 72.00 Inches Item Width: 70.00 Inches Item Depth: 1.00 Inches Item Weight: 2.00 Pounds Shipping Weight Carton 1: 2.00 Shipping Height Carton 1: 12.00 Shipping Width Carton 1: 15.00 Shipping Depth Carton 1: 4.00 Additional attributes Curtain Type Shower Curtain Water Repellent Yes Washing Care Machine wash Set/Single Single Piece Hook Hole Spacing 6 Style Traditional Shower Curtain Material Cotton Color Brown Country Of Manufacture China Hanging Style Buttonhole
-  Updated: 2025-12-10T13:52:34Z
+  Updated: 2025-12-11T01:52:31Z
   Vendor: HomeRoots
   Product Type: Shower Curtains
   Availability: Available
@@ -929,18 +929,18 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590381_3_Icn3GuAO_1000x1000_fe95a62c-5237-49ad-9a46-1474368789c8.jpg?v=1765307162
   Price: $424.99 USD
 - [White Twin Over Twin Metal Bunk Bed With Slide](https://modterrahome.com/products/white-twin-over-twin-metal-bunk-bed-with-slide): Subtle and compact, the white twin over twin metal bunk bed with slide is a lovely choice for your small spaced home. It comes in a white finish that makes it a lovely sight in any bedroom. This unique twin over twin size bunk bed will shine in any room. To ensure safety, the top bunk bed features a guardrail. Highly efficient in design, this compact but spacious bed is super practical, convenient and a sight for sore eyes. Make your kids love you more by adding this fun and popular bunk bed to their cute bedroom. 52.00-inch h x 77.00-inch w x 84.00-inch d. Details GTIN (UPC/EAN): Shipping Weight: 101.00 Pounds Shipping Size (Inches.): 77.00 W x 84.00 D x 52.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 52.00 Inches Item Width: 77.00 Inches Item Depth: 84.00 Inches Item Weight: 101.00 Pounds Shipping Weight Carton 1: 101.00 Shipping Height Carton 1: 52.00 Shipping Width Carton 1: 77.00 Shipping Depth Carton 1: 84.00 Additional attributes Clearance from Floor to Underside of Bed 12 Footboard Included Yes Frame Material Metal Headboard included with frame Yes Headboard Type Open-Frame Mattress Size Twin Recommended Mattress Thickness 10 Weight Capacity 300 Bed Size Twin Over Twin Bunk and Loft Configurations Standard Guardrails Included Yes Guardrail Height 11 Ladder Type Built-In (attached) Ladder Gender Gender Neutral Weight Capacity Bottom Bed or Futon 300 Weight Capacity Top Bed 300 Slide Included Yes Recommended Mattress Thickness Bottom Bed 8 Recommended Mattress Thickness Top Bed 8 Frame Color White Assembly Required Full Assembly Needed Style Modern Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T07:06:19Z
+  Updated: 2025-12-12T21:43:42Z
   Vendor: HomeRoots
   Product Type: Bunk Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590395_1_GnOi5yxh_1000x1000_dacf7327-d6fb-43c1-93cb-d92bda5ee36c.jpg?v=1765345610
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590395_1_GnOi5yxh_1000x1000_e6ee0c0a-67ab-4890-9c5a-1ea47d811933.jpg?v=1765575812
   Price: $447.99 USD
 - [Set of Two 26" Walnut Solid Wood Distressed Three Drawer Nightstand](https://modterrahome.com/products/set-of-two-26-walnut-solid-wood-distressed-three-drawer-nightstand): Give your room the look and feel of 5-star accommodations with this set of two 26-inch walnut solid wood distressed three drawer nightstand. Sturdy and durable construction from solid wood ensures this trusty bedside table is built to last. This piece is purposefully distressed to give a worn, rustic/vintage finish. The unsung hero of the bedroom, this nightstand is perfect for keeping a glass of water, lamp, alarm clock, jewelry, and more, close by and easily accessible. Versatile in use this nightstand would also work as a great end table in the living room, hallway, or office. 25.60-inch h x 24.00-inch w x 17.00-inch d. Details GTIN (UPC/EAN): 880016804744 Shipping Weight: 54.17 Pounds Shipping Size (Inches.): 27.00 W x 30.10 D x 19.70 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 25.60 Inches Item Width: 24.00 Inches Item Depth: 17.00 Inches Item Weight: 37.50 Pounds Shipping Weight Carton 1: 54.17 Shipping Height Carton 1: 19.70 Shipping Width Carton 1: 27.00 Shipping Depth Carton 1: 30.10 Additional attributes Frame Material Solid Wood Frame Wood Species Pine Handle/Accent Material Metal Number of Drawers 3 Purposeful Distressing Type Wood Scoring & Rub Through Top Material Solid Wood Drawer Glide Mechanism Wood Slide Reclaimed Wood Yes Nightstand Shape Rectangular Number of Tables Included 2 Assembly Required Partial Assembly Needed Style Rustic Frame Color Walnut Top Color Walnut Leg Color Walnut Leg Material Solid Wood Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T07:06:49Z
+  Updated: 2025-12-12T21:43:49Z
   Vendor: HomeRoots
   Product Type: Nightstands & Bedside Tables
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/653105_15_MWL62iSa_1000x1000_c4f10819-381f-412c-bb22-7ff033a590d3.jpg?v=1765307167
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/653105_1_UroVOIQr_1000x1000_e8d97a32-be03-4950-bf09-035ba13e32b1.jpg?v=1765575815
   Price: $748.99 USD
 - [Set of Two White Turkish Cotton 13" X 13" Quick Dry Terry Cloth Washcloths](https://modterrahome.com/products/set-of-two-white-turkish-cotton-13-x-13-quick-dry-terry-cloth-washcloths): Soft and absorbent, this set of two white cotton 13-inch x 13-inch quick dry terry cloth washcloths is constructed from looped fibers that feel plush and comfortable on the skin and offer superior moisture-wicking properties. Crafted from soft, durable and absorbent European made Turkish cotton fibers that make these washcloths feel super plush and luxurious to the touch. Solid colors look classic and are easy to mix and match with any decor style. Crafted from soft, durable and absorbent European made Turkish cotton fibers that make this towel feel super plush and luxurious to the touch. Wash up in style with these premium, soft, and absorbent washcloths. 13.00-inch h x 13.00-inch w x 1.00-inch d. Details GTIN (UPC/EAN): 880016617153 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 10.00 W x 14.00 D x 6.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 13.00 Inches Item Width: 13.00 Inches Item Depth: 1.00 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 6.00 Shipping Width Carton 1: 10.00 Shipping Depth Carton 1: 14.00 Additional attributes Pieces Included Washcloth Set/Single Same Size Set Number of Pieces Included in Set 2 Weave Type Terry Cloth GSM 700 Pattern Solid Color Border Type Dobby Product Care Machine Washable Washcloth Yes Number of Washcloths Included 2 Washcloth Length - Top to Bottom 13 Washcloth Width - Side to Side 13 Towel Material Turkish Cotton Towel Standard Size Washcloth Style Cottage Types Of Towel Washcloth Main Towel Color White Country Of Manufacture Portugal Dry Time Quick Dry Doby Color White
   Updated: 2025-12-10T07:06:43Z
@@ -979,7 +979,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/546725_7_A8DbfiNa_1000x1000_13c65721-f2a1-4f45-a3eb-5f2aed3a5a26.jpg?v=1765307205
   Price: $616.99 USD
 - [Twin Size Gray Finish Pine Wood Loft Bed](https://modterrahome.com/products/twin-size-gray-finish-pine-wood-loft-bed): Carve out an exclusive space for your kids with this twin-size pine wood loft bed in gray finish. Our contemporary styled bed is uniquely designed to offer memorable adventures and luxury for your loved ones. It is equipped with all the frills and thrills that will make relaxation and sleeping a desire for any kid. This beautiful piece features a right-facing storage ladder, full-length guard-rail on the top bed, and a slat system with 14 slats, all for the safety and comfort of your lads. It has a weight capacity of 165Lbs and the top bed is not to be used for children below 6 years of age. Details GTIN (UPC/EAN): 614486162246 Shipping Weight: 414.00 Pounds Shipping Size (Inches.): 113.00 W x 252.00 D x 59.00 H Number Of Cartons: 4 Shipping Method: LTL Ship Palletized: No Item Height: 73.00 Inches Item Width: 98.00 Inches Item Depth: 57.00 Inches Item Weight: 363.00 Pounds Shipping Weight Carton 1: 123.00 Shipping Height Carton 1: 12.00 Shipping Width Carton 1: 46.00 Shipping Depth Carton 1: 59.00 Shipping Weight Carton 2: 77.00 Shipping Height Carton 2: 5.00 Shipping Width Carton 2: 28.00 Shipping Depth Carton 2: 79.00 Shipping Weight Carton 3: 108.00 Shipping Height Carton 3: 9.00 Shipping Width Carton 3: 20.00 Shipping Depth Carton 3: 56.00 Shipping Weight Carton 4: 106.00 Shipping Height Carton 4: 33.00 Shipping Width Carton 4: 19.00 Shipping Depth Carton 4: 58.00 Additional attributes Frame Material Solid and Manufactured Wood Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T21:59:31Z
+  Updated: 2025-12-11T09:59:28Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
@@ -1028,11 +1028,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/490206_11_YLmc5iO8_1000x1000_aa5b15f5-8201-41ac-b3a7-0770019d2281.jpg?v=1765307361
   Price: $569.99 USD
 - [Gray Solid Wood Twin Size Loft Bed with Desk and Storage](https://modterrahome.com/products/gray-solid-wood-twin-size-loft-bed-with-desk-and-storage): This Gray Solid Wood Twin Size Loft Bed with Desk and Storage is sure to bring a stylish, space saving and fun vibe to your child's bedroom. High quality construction of solid pine in a loft style bed combines with a built-in ladder and an under area that includes tabletop surface area, a desk, and a drawer for storage. The open area allows room for play and or additional storage as you can add in a bookcase, small dresser, or bins to keep everything neat and tidy. This modern design loft bed combines simple and good looking style with practicality and is space friendly. 72" x 60" x 80" Details GTIN (UPC/EAN): 606114667667 Shipping Weight: 158.00 Pounds Shipping Size (Inches.): 38.50 W x 124.00 D x 12.00 H Number Of Cartons: 2 Shipping Method: Parcel Ship Palletized: No Item Height: 72.00 Inches Item Width: 80.00 Inches Item Depth: 60.00 Inches Item Weight: 147.00 Pounds Shipping Weight Carton 1: 55.00 Shipping Height Carton 1: 5.50 Shipping Width Carton 1: 21.00 Shipping Depth Carton 1: 42.50 Shipping Weight Carton 2: 103.00 Shipping Height Carton 2: 6.50 Shipping Width Carton 2: 17.50 Shipping Depth Carton 2: 81.50 Additional attributes Clearance from Floor to Underside of Bed 54 Frame Material Solid Wood Legs Yes Mattress Size Twin Weight Capacity 250 Wood Species Pine Commercial Use Yes Frame Color Gray Assembly Required Full Assembly Needed Country Of Manufacture Brazil
-  Updated: 2025-12-10T07:09:41Z
+  Updated: 2025-12-12T09:51:51Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/490208_10_d0fJQQbU_1000x1000_fca50285-859d-444f-84fd-88447f06ec67.jpg?v=1765307364
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/490208_1_1000x1000_19780878-5d99-450a-8e89-42828de04408.jpg?v=1765489902
   Price: $488.99 USD
 - [Yellow Solid Wood Full Bed Frame](https://modterrahome.com/products/yellow-solid-wood-full-bed-frame): Create a haven for relaxation and sweet dreams with this fabulous yellow solid wood full bed frame. Quality craftsmanship in every facet of production ensures durability and long-lasting wear built to last, this piece not only looks good but reflects premium workmanship from top to bottom. This bed will help to create a peaceful environment that will provide restful slumber for years to come. 20-inch h x 81-inch w x 59-inch d. Details GTIN (UPC/EAN): 608219134495 Shipping Weight: 99.00 Pounds Shipping Size (Inches.): 141.00 W x 22.00 D x 12.00 H Number Of Cartons: 2 Shipping Method: Parcel Ship Palletized: No Item Height: 20.00 Inches Item Width: 81.00 Inches Item Depth: 59.00 Inches Item Weight: 92.00 Pounds Shipping Weight Carton 1: 45.00 Shipping Height Carton 1: 7.00 Shipping Width Carton 1: 85.00 Shipping Depth Carton 1: 10.00 Shipping Weight Carton 2: 54.00 Shipping Height Carton 2: 5.00 Shipping Width Carton 2: 56.00 Shipping Depth Carton 2: 12.00 Additional attributes Clearance from Floor to Underside of Bed 13 Frame Material Solid Wood Legs Yes Mattress Size Full Double Number of Slats Included 14 Recommended Mattress Thickness 12 Weight Capacity 800 Wood Species Pine Slat Kit Included Yes Frame Color Yellow Bed Type Standard Assembly Required Full Assembly Needed Style Traditional Country Of Manufacture United States
   Updated: 2025-12-10T07:10:04Z
@@ -1049,11 +1049,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/546754_6_vDtK2lp4_1000x1000_161bdf99-18c6-4730-8fbf-1e08ca9ee098.jpg?v=1765307367
   Price: $739.99 USD
 - [White And Brown Platform Wood And Metal Full Double Loft Bed With Stairs Desk And Shelves](https://modterrahome.com/products/white-and-brown-platform-wood-and-metal-full-double-loft-bed-with-stairs-desk-and-shelves): An instantaneous wonder, the white platform metal and wood full double loft bed with desk and shelve provides immediate sleeping and storage solutions. Constructed of high-quality metal and manufactured wood, this bed can withstand the test of time. Painted in white, it will add a timeless spark to your home. Highly suitable for large families or even for those sudden sleepovers, this bed provides a convenient and flexible option by taking advantage of the vertical space. Highly efficient in design, this compact but spacious bed is super practical, convenient and a sight for sore eyes. 67.00-inch h x 93.00-inch w x 56.00-inch d. Details GTIN (UPC/EAN): Shipping Weight: 130.00 Pounds Shipping Size (Inches.): 17.00 W x 76.00 D x 5.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 67.00 Inches Item Width: 93.00 Inches Item Depth: 56.00 Inches Item Weight: 130.00 Pounds Shipping Weight Carton 1: 130.00 Shipping Height Carton 1: 5.00 Shipping Width Carton 1: 17.00 Shipping Depth Carton 1: 76.00 Additional attributes Clearance from Floor to Underside of Bed 12 Distance between the Slats 2 Frame Material Manufactured Wood, Metal Legs Yes Mattress Size Full Double Number of Slats Included 20 Recommended Mattress Thickness 6 Weight Capacity 300 Slat Kit Included Yes Frame Color Brown, White Assembly Required Full Assembly Needed Style Modern Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T21:59:38Z
+  Updated: 2025-12-12T09:55:40Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590358_1_ERRJ2SNh_1000x1000_8f620e22-f6eb-4804-88c5-da22fe2ee542.jpg?v=1765403966
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590358_1_ERRJ2SNh_1000x1000_d7a44ee7-7b93-49cf-a07f-6da7426ccb78.jpg?v=1765489905
   Price: $426.99 USD
 - [Black Platform Solid and Manufactured Wood And Metal Twin Loft Bed with Desk and Shelves](https://modterrahome.com/products/black-platform-solid-and-manufactured-wood-and-metal-twin-loft-bed-with-desk-and-shelves): Super practical and built for any kind of living environment, the black platform solid and manufactured wood and metal twin loft bed with desk and shelves has a subtle appeal and displays a low profile. This super versatile loft bed features a sturdy solid solid and manufactured wood and metal construction, making it durable and super long-lasting. It comes in a black finish that makes it a lovely sight in any bedroom. Highly suitable for large families or even for those sudden sleepovers, this bed provides a convenient and flexible option by taking advantage of the vertical space. A combination of timeless design with unparalleled quality, this space saving creation adds a dash of elegance and invariably enhances the look of any bedroom. 68-inch h x 94-inch w x 41-inch d. Details GTIN (UPC/EAN): Shipping Weight: 121.00 Pounds Shipping Size (Inches.): 19.00 W x 43.00 D x 6.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 68.00 Inches Item Width: 94.00 Inches Item Depth: 41.00 Inches Item Weight: 121.00 Pounds Shipping Weight Carton 1: 121.00 Shipping Height Carton 1: 6.00 Shipping Width Carton 1: 19.00 Shipping Depth Carton 1: 43.00 Additional attributes Clearance from Floor to Underside of Bed 12 Distance between the Slats 2 Frame Material Solid and Manufactured Wood, Metal Mattress Size Twin Number of Slats Included 20 Recommended Mattress Thickness 6 Weight Capacity 300 Wood Species Rubberwood Slat Kit Included Yes Frame Color Black Assembly Required Full Assembly Needed Style Modern Country Of Manufacture Viet Nam
   Updated: 2025-12-10T07:10:32Z
@@ -1063,11 +1063,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590368_11_Sa9osYUg_1000x1000_690dc191-99cc-4184-84e6-40a86f75d33a.jpg?v=1765307372
   Price: $472.99 USD
 - [Black Platform Solid and Manufactured Wood And Metal Full Double Loft Bed with Desk and Shelves](https://modterrahome.com/products/black-platform-solid-and-manufactured-wood-and-metal-full-double-loft-bed-with-desk-and-shelves): Super practical and built for any kind of living environment, the black platform solid and manufactured wood and metal full double loft bed with desk and shelves has a subtle appeal and displays a low profile. This super versatile loft bed features a sturdy solid solid and manufactured wood and metal construction, making it durable and super long-lasting. The frame of this bed is covered in a black hue of casual elegance that suits any kind of style and decor and enhance the presence of your bedroom. This unique bed will add tons of character and charm to any space. A combination of timeless design with unparalleled quality, this space saving creation adds a dash of elegance and invariably enhances the look of any bedroom. 68-inch h x 94-inch w x 56-inch d. Details GTIN (UPC/EAN): Shipping Weight: 141.00 Pounds Shipping Size (Inches.): 23.00 W x 55.00 D x 6.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 68.00 Inches Item Width: 94.00 Inches Item Depth: 56.00 Inches Item Weight: 141.00 Pounds Shipping Weight Carton 1: 141.00 Shipping Height Carton 1: 6.00 Shipping Width Carton 1: 23.00 Shipping Depth Carton 1: 55.00 Additional attributes Clearance from Floor to Underside of Bed 12 Distance between the Slats 2 Frame Material Solid and Manufactured Wood, Metal Mattress Size Full Double Number of Slats Included 20 Recommended Mattress Thickness 6 Weight Capacity 300 Wood Species Rubberwood Slat Kit Included Yes Frame Color Black Assembly Required Full Assembly Needed Style Modern Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T07:09:57Z
+  Updated: 2025-12-12T21:43:53Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590370_1_JBAIlU0O_1000x1000_6d69343a-0246-4f19-9f1e-d4efb2d6add0.jpg?v=1765345619
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590370_1_JBAIlU0O_1000x1000_548ede80-bd32-4175-a532-216bba56ec6e.jpg?v=1765575822
   Price: $558.99 USD
 - [Light Pink Platform Metal Full Double Loft Bed With Shelves](https://modterrahome.com/products/light-pink-platform-metal-full-double-loft-bed-with-shelves): Artistically designed with a ton of charm, the light pink platform metal full double loft bed is bound to create a cool bedroom with increased functionality. Maximize your space as you enjoy a lofted bed that allows you to create storage are and space underneath for a work area, reading nook, play or lounge area. Four sturdy shelves gives you lots of options for storage and display. Enjoy this loft bed for years to come with its durable build to withstand horseplay, scratching and other untimely wear. A combination of timeless design with unparalleled quality, this space saving creation adds a dash of modern style and invariably enhances the look of any bedroom. 67.00-inch h x 77.00-inch w x 67.00-inch d. Details GTIN (UPC/EAN): 880016405095 Shipping Weight: 128.00 Pounds Shipping Size (Inches.): 16.00 W x 69.00 D x 6.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 67.00 Inches Item Width: 77.00 Inches Item Depth: 67.00 Inches Item Weight: 128.00 Pounds Shipping Weight Carton 1: 128.00 Shipping Height Carton 1: 6.00 Shipping Width Carton 1: 16.00 Shipping Depth Carton 1: 69.00 Additional attributes Clearance from Floor to Underside of Bed 12 Distance between the Slats 2 Frame Material Metal Legs Yes Mattress Size Full Double Number of Slats Included 20 Recommended Mattress Thickness 6 Weight Capacity 300 Slat Kit Included Yes Frame Color Light Pink Assembly Required Full Assembly Needed Style Modern Country Of Manufacture Viet Nam
   Updated: 2025-12-10T07:10:44Z
@@ -1077,32 +1077,32 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590376_13_Qs80a7M6_1000x1000_7642e521-052e-41e0-b51b-b835fe7aa538.jpg?v=1765307376
   Price: $360.99 USD
 - [Black Platform Solid and Manufactured Wood And Metal Full Double Loft Bed with Desk and Shelves](https://modterrahome.com/products/black-platform-solid-and-manufactured-wood-and-metal-full-double-loft-bed-with-desk-and-shelves-1): Charming and practical, the black platform solid and manufactured wood and metal full double loft bed with desk and shelves is an excellent solution for maximizing space and storing items. This super elegant bed features a high quality solid and manufactured wood and metal frame. Painted in black, it will add a timeless spark to your home. This unique bed will add tons of character and charm to any space. A combination of timeless design with unparalleled quality, this space saving creation adds a dash of elegance and invariably enhances the look of any bedroom. 68-inch h x 94-inch w x 56-inch d. Details GTIN (UPC/EAN): Shipping Weight: 141.00 Pounds Shipping Size (Inches.): 23.00 W x 55.00 D x 6.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 68.00 Inches Item Width: 94.00 Inches Item Depth: 56.00 Inches Item Weight: 141.00 Pounds Shipping Weight Carton 1: 141.00 Shipping Height Carton 1: 6.00 Shipping Width Carton 1: 23.00 Shipping Depth Carton 1: 55.00 Additional attributes Clearance from Floor to Underside of Bed 12 Distance between the Slats 2 Frame Material Solid and Manufactured Wood, Metal Mattress Size Full Double Number of Slats Included 20 Recommended Mattress Thickness 6 Weight Capacity 300 Wood Species Rubberwood Slat Kit Included Yes Frame Color Black Assembly Required Full Assembly Needed Style Modern Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T07:11:22Z
+  Updated: 2025-12-12T21:43:55Z
   Vendor: HomeRoots
   Product Type: Loft Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590378_14_XExAb6Jh_1000x1000_d9c72efa-4bd6-4c14-82df-5b5b06552c7c.jpg?v=1765307379
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590378_1_5UZn6n87_1000x1000_bc7d400d-764d-4ad6-ad20-3292754c7a74.jpg?v=1765575825
   Price: $553.99 USD
 - [White Wood Queen Murphy Bed With USB And Drawer](https://modterrahome.com/products/white-wood-queen-murphy-bed-with-usb-and-drawer): Create a haven for relaxation and sweet dreams with this fabulous white wood queen murphy bed with USB and drawer. Built to last, this piece not only looks good but reflects premium workmanship from top to bottom. For hidden storage and convenience, this great bed includes 1 drawer to stow your clothing and necessities. When not being used for sleeping, this bed conveniently retracts to be a good looking accent cabinet that conceals a hidden bedframe inside. A great option for space challenged rooms, studios, or multi-purpose rooms that a bed is only needed/used periodically. 41.50-inch h x 81.80-inch w x 63.60-inch d. Details GTIN (UPC/EAN): 880016565249 Shipping Weight: 151.59 Pounds Shipping Size (Inches.): 133.07 W x 40.74 D x 12.99 H Number Of Cartons: 2 Shipping Method: LTL Ship Palletized: No Item Height: 41.50 Inches Item Width: 81.80 Inches Item Depth: 63.60 Inches Item Weight: 135.00 Pounds Shipping Weight Carton 1: 92.59 Shipping Height Carton 1: 5.31 Shipping Width Carton 1: 65.75 Shipping Depth Carton 1: 24.80 Shipping Weight Carton 2: 59.00 Shipping Height Carton 2: 7.68 Shipping Width Carton 2: 67.32 Shipping Depth Carton 2: 15.94 Additional attributes Clearance from Floor to Underside of Bed 10.2 Number of Drawers 1 Frame Material Solid and Manufactured Wood Headboard included with frame Yes Headboard Shape Rectangular Headboard Type Panel Legs Yes Mattress Size Queen Murphy Bed Yes Recommended Mattress Thickness 10 Weight Capacity 500 Wood Species Acacia Frame Color White Bed Type Murphy Bed USB included Yes Assembly Required Full Assembly Needed Style Modern Type of Murphy Bed Cabinet Country Of Manufacture Viet Nam Drawer Type Attached to the frame
-  Updated: 2025-12-10T13:52:32Z
+  Updated: 2025-12-12T21:43:57Z
   Vendor: HomeRoots
   Product Type: Standard Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/653097_1_SBoRjoMv_1000x1000_aa13415a-b3d8-487c-9b81-078ec4c4a10c.jpg?v=1765374749
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/653097_1_SBoRjoMv_1000x1000_5c126fb1-2b62-42df-a022-9d9da71d9ff8.jpg?v=1765575828
   Price: $1,117.99 USD
 - [White Wood Full Murphy Bed With USB And Drawer](https://modterrahome.com/products/white-wood-full-murphy-bed-with-usb-and-drawer): The white wood full murphy bed with USB and drawer is the ultimate combination of comfort and style. Built to last, this piece not only looks good but reflects premium workmanship from top to bottom. For hidden storage and convenience, this great bed includes 1 drawer to stow your clothing and necessities. When not being used for sleeping, this bed conveniently retracts to be a good looking accent cabinet that conceals a hidden bedframe inside. This murphy bed is a great way to have the functionality of a bed that doesn't detract from the room's aesthetics by looking like a bed. 41.50-inch h x 77.00-inch w x 57.00-inch d. Details GTIN (UPC/EAN): 880016439397 Shipping Weight: 127.18 Pounds Shipping Size (Inches.): 119.69 W x 42.32 D x 12.99 H Number Of Cartons: 2 Shipping Method: LTL Ship Palletized: No Item Height: 41.50 Inches Item Width: 77.00 Inches Item Depth: 57.00 Inches Item Weight: 122.00 Pounds Shipping Weight Carton 1: 88.18 Shipping Height Carton 1: 7.68 Shipping Width Carton 1: 60.63 Shipping Depth Carton 1: 17.52 Shipping Weight Carton 2: 39.00 Shipping Height Carton 2: 5.31 Shipping Width Carton 2: 59.06 Shipping Depth Carton 2: 24.80 Additional attributes Clearance from Floor to Underside of Bed 10.2 Number of Drawers 1 Frame Material Solid and Manufactured Wood Headboard included with frame Yes Headboard Shape Rectangular Headboard Type Panel Legs Yes Mattress Size Full Double Murphy Bed Yes Recommended Mattress Thickness 10 Weight Capacity 400 Wood Species Acacia Frame Color White Bed Type Murphy Bed USB included Yes Assembly Required Full Assembly Needed Style Modern Type of Murphy Bed Cabinet Country Of Manufacture Viet Nam
-  Updated: 2025-12-10T21:59:44Z
+  Updated: 2025-12-12T21:43:56Z
   Vendor: HomeRoots
   Product Type: Standard Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/653100_1_v2wxc25c_1000x1000_035eaba6-0aa0-4e39-8b53-bfb848fb1550.jpg?v=1765403970
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/653100_1_v2wxc25c_1000x1000_9c99be41-831a-4521-a68d-9b7f132c86ca.jpg?v=1765575832
   Price: $1,060.99 USD
 - [White Twin Contemporary Metal Bunk Bed](https://modterrahome.com/products/white-twin-contemporary-metal-bunk-bed): Super sturdy and practical, the white twin contemporary metal bunk bed is the perfect solution for large families who require hard wearing to maximizing their sleeping space. The entire bed is finished in white color that complements any home decor style. Crafted with care and built with safety in mind, the top level includes a guardrail that runs along the upper edge. Highly suitable for large families or even for those sudden sleepovers, this bunk bed provides a convenient and flexible option by taking advantage of the vertical space. Owing it's stylish look with clean lines the design promotes comfort and a dash of elegance which invariably enhances the look of any bedroom. 65-inch H x 78-inch W x 41-inch D Details GTIN (UPC/EAN): 689211813113 Shipping Weight: 118.00 Pounds Shipping Size (Inches.): 7.00 W x 76.00 D x 44.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 65.00 Inches Item Width: 78.00 Inches Item Depth: 41.00 Inches Item Weight: 105.00 Pounds Shipping Weight Carton 1: 118.00 Shipping Height Carton 1: 44.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 76.00 Additional attributes Bed Size Twin Bunk and Loft Configurations Standard Guardrails Included Yes Ladder Type Built-In (attached) Ladder Gender Gender Neutral Weight Capacity Bottom Bed or Futon 150 Weight Capacity Top Bed 150 Recommended Mattress Thickness Bottom Bed 6 Recommended Mattress Thickness Top Bed 6 Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture China
-  Updated: 2025-12-10T07:14:11Z
+  Updated: 2025-12-12T21:44:07Z
   Vendor: HomeRoots
   Product Type: Bunk Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/285192_2_OKAstI91_1000x1000_6fd54b62-e037-4815-a5e4-28bb57406fe0.jpg?v=1765307578
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/285192_2_OKAstI91_1000x1000_395d854e-92f0-4907-84f2-0f0dd136b1c0.jpg?v=1765575835
   Price: $434.99 USD
 - [White Twin Over Full Contemporary Metal Bunk Bed](https://modterrahome.com/products/white-twin-over-full-contemporary-metal-bunk-bed): Charming and practical, the white twin over full contemporary metal bunk bed is an excellent solution for maximizing space and storing items. The entire bed is finished in white color that complements any home decor style. This unique twin over full size bunk bed will shine in any room. The upper bunk is surrounded by safe guard railings while the bottom bunk displays a headboard and footboard. Enjoy this bunk for years to come with its durable build to withstand horseplay, scratching and other untimely wear. Owing it's stylish look with clean lines the design promotes comfort and a dash of elegance which invariably enhances the look of any bedroom. 60" H x 78" W x 54" D Details GTIN (UPC/EAN): 689211812963 Shipping Weight: 99.00 Pounds Shipping Size (Inches.): 6.00 W x 76.00 D x 59.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 60.00 Inches Item Width: 78.00 Inches Item Depth: 54.00 Inches Item Weight: 83.00 Pounds Shipping Weight Carton 1: 99.00 Shipping Height Carton 1: 59.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 76.00 Additional attributes Headboard included with frame Yes Headboard Shape Rectangular Headboard Type Open-Frame Legs Yes Mattress Size Full Double Weight Capacity 200 Bed Size Twin Over Full Guardrails Included Yes Ladder Type Built-In (attached) Ladder Gender Gender Neutral Weight Capacity Bottom Bed or Futon 200 Weight Capacity Top Bed 150 Recommended Mattress Thickness Bottom Bed 6 Recommended Mattress Thickness Top Bed 6 Frame Color White Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture China
   Updated: 2025-12-10T07:13:06Z
@@ -1119,11 +1119,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/548312_1_1000x1000_81f8389c-c9ac-4bc6-8704-01b8554b9e30.jpg?v=1765307582
   Price: $1,624.99 USD
 - [White Full XL Over Queen Contemporary Metal Bunk Bed](https://modterrahome.com/products/white-full-xl-over-queen-contemporary-metal-bunk-bed): Charming and practical, the white full xl over queen contemporary metal bunk bed is an excellent solution for maximizing space and storing items. Painted in white, it will add a timeless spark to your home. This beautiful full xl over queen size bunk bed is the perfect choice for children's bedrooms. The upper bunk is surrounded by safe guard railings while the bottom bunk displays a headboard and footboard. The integrated structure delivers a high level of stability with a full on stylish appearance. Owing it's stylish look with clean lines the design promotes comfort and a dash of elegance which invariably enhances the look of any bedroom. 63-inch h x 81-inch w x 62-inch d. Details GTIN (UPC/EAN): 880016407518 Shipping Weight: 129.00 Pounds Shipping Size (Inches.): 63.00 W x 14.00 D x 6.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 63.00 Inches Item Width: 81.00 Inches Item Depth: 62.00 Inches Item Weight: 129.00 Pounds Shipping Weight Carton 1: 129.00 Shipping Height Carton 1: 6.00 Shipping Width Carton 1: 63.00 Shipping Depth Carton 1: 14.00 Additional attributes Adjustable Bed Yes Clearance from Floor to Underside of Bed 12 Footboard Included Yes Frame Material Metal Headboard included with frame Yes Headboard Shape Rectangular Headboard Type Open-Frame Legs Yes Mattress Size Full Double, Queen Recommended Mattress Thickness 10 Weight Capacity 300 Slat Kit Included Yes Bed Size Full Over Queen Bunk and Loft Configurations Standard Converts to Two Beds Yes Guardrails Included Yes Ladder Type Built-In (attached) Ladder Gender Gender Neutral Frame Color White Assembly Required Partial Assembly Needed Style Contemporary Country Of Manufacture China
-  Updated: 2025-12-10T21:59:48Z
+  Updated: 2025-12-12T09:52:02Z
   Vendor: HomeRoots
   Product Type: Bunk Beds
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590296_1_2jxbsP1e_1000x1000_6e3b30be-a3f7-41be-9c61-c6d11fbdff83.jpg?v=1765403974
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/590296_1_2jxbsP1e_1000x1000_77aa01a5-e7e5-4b63-b514-99e8769e4a3a.jpg?v=1765489915
   Price: $402.99 USD
 - [White Twin Over Full Industrial Metal Bunk Bed With Shelves](https://modterrahome.com/products/white-twin-over-full-industrial-metal-bunk-bed-with-shelves): Super sturdy and practical, the white twin over full industrial metal bunk bed with shelves is the perfect solution for large families who require hard wearing to maximizing their sleeping space. With the white finish it blend in to any home decor style seamlessly. The upper bunk includes guardrail that protects your kids from accidental mishaps. Highly suitable for large families or even for those sudden sleepovers, this bunk bed provides a convenient and flexible option by taking advantage of the vertical space. It suits all styles of home decoration, and completes the look of any bedroom. 67-inch h x 93-inch w x 56-inch d. Details GTIN (UPC/EAN): 880016401677 Shipping Weight: 152.00 Pounds Shipping Size (Inches.): 95.00 W x 58.00 D x 8.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 67.00 Inches Item Width: 93.00 Inches Item Depth: 56.00 Inches Item Weight: 149.00 Pounds Shipping Weight Carton 1: 152.00 Shipping Height Carton 1: 8.00 Shipping Width Carton 1: 95.00 Shipping Depth Carton 1: 58.00 Additional attributes Clearance from Floor to Underside of Bed 1 Footboard Included Yes Frame Material Metal Headboard included with frame Yes Headboard Shape Rectangular Headboard Type Open-Frame Legs Yes Mattress Size Twin, Full Double Recommended Mattress Thickness 10 Weight Capacity 309 Slat Kit Included Yes Bed Size Twin Over Full Bunk and Loft Configurations Standard Guardrails Included Yes Ladder Type Built-In (attached) Ladder Gender Gender Neutral Frame Color White Assembly Required Partial Assembly Needed Style Industrial Country Of Manufacture Viet Nam
   Updated: 2025-12-10T07:13:15Z
@@ -1133,11 +1133,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/592812_15_DIQ9uIlC_1000x1000_23c639c2-f517-4ae1-bcbf-1a548517c087.jpg?v=1765307586
   Price: $451.99 USD
 - [Elegant White 3 Drawer Nightstand](https://modterrahome.com/products/elegant-white-3-drawer-nightstand): The alluring beauty and contemporary style of this nightstand will surely transform the hollow of any bedroom or living room into something spectacular. Its sleek edges and design offer a perfect accent to the existing decor in your living space. This masterpiece features three drawers with glide center metal for safekeeping personal stuffs like novels, jewelry box or cosmetics. The unique design is solidified by the embossing veneer in white finish. Our nightstand comes with intricate design that makes it an ideal piece for your bedroom. 26" X 17" X 25" Details GTIN (UPC/EAN): 689211808751 Shipping Weight: 55.00 Pounds Shipping Size (Inches.): 28.00 W x 30.00 D x 19.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 25.00 Inches Item Width: 26.00 Inches Item Depth: 17.00 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 55.00 Shipping Height Carton 1: 19.00 Shipping Width Carton 1: 28.00 Shipping Depth Carton 1: 30.00 Additional attributes Frame Material Solid Wood Frame Wood Species Okoume Handle/Accent Material Metal Mirrored Yes Removable Handle Yes Top Material Solid Wood Nightstand Shape Rectangular Number of Tables Included 1 Assembly Required Full Assembly Needed Style Traditional Country Of Manufacture Malaysia
-  Updated: 2025-12-10T07:18:56Z
+  Updated: 2025-12-12T09:52:04Z
   Vendor: HomeRoots
   Product Type: Nightstands & Bedside Tables
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/285871_1_1000x1000_c20f957d-d432-44a3-9ec9-677d8bdbc356.jpg?v=1765345622
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/285871_1_1000x1000_e3cc5668-07c9-4c69-8d16-c86349aee489.jpg?v=1765489918
   Price: $255.99 USD
 - [Modern Gray Woodgrain Finish 2 Drawer Nightstand](https://modterrahome.com/products/modern-gray-woodgrain-finish-2-drawer-nightstand): The quintessential addition to your rooms, this nightstand will do more than embellish your rooms. It will improve upon your interior design as well. This nightstand is a fantastic piece, with a contemporary style that will be an augmentation for your space no one can ignore and a grey color that will breathe some fresh air into your rooms. This nightstand is a high quality piece, proficiently made of high grade stainless steel. You want your nightstands to be resilient, and that?s exactly what you get with this one. It's a part of the Atel collection, and its brilliant charm and design will give a fresh feel to the atmosphere of your home. You can introduce it into your interior to achieve the perfect look. Details GTIN (UPC/EAN): 4512839465319 Shipping Weight: 51.00 Pounds Shipping Size (Inches.): 21.00 W x 26.00 D x 55.00 H Number Of Cartons: 1 Shipping Method: LTL Ship Palletized: No Item Height: 18.00 Inches Item Width: 24.00 Inches Item Depth: 16.00 Inches Item Weight: 51.00 Pounds Shipping Weight Carton 1: 51.00 Shipping Height Carton 1: 55.00 Shipping Width Carton 1: 21.00 Shipping Depth Carton 1: 26.00 Additional attributes Frame Material Solid and Manufactured Wood Top Material Solid and Manufactured Wood Nightstand Shape Rectangular Style Contemporary Frame Color Light Gray Top Color Light Gray Country Of Manufacture China
   Updated: 2025-12-10T07:19:51Z
@@ -1147,7 +1147,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/370735_9_I58V1Rry_1000x1000_9227bb2f-b10b-4ba2-9b2d-3c0b72633694.jpg?v=1765307929
   Price: $486.99 USD
 - [Dark Walnut and Black Mod Drawer Nightstand](https://modterrahome.com/products/dark-walnut-and-black-mod-drawer-nightstand): Bring sophistication and style into your space with this Dark Walnut and Black Mod Drawer Nightstand. This nightstand is a high quality piece crafted of durable mahogany wood and veneer and finished in a dashing combination of dark walnut stain, black rattan texture, and gold accents. There are two drawers for storage making this bold and dashing piece a great choice for modern spaces. 25" x 22" x 15". Details GTIN (UPC/EAN): 808230075702 Shipping Weight: 55.00 Pounds Shipping Size (Inches.): 25.00 W x 20.00 D x 29.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 25.00 Inches Item Width: 21.00 Inches Item Depth: 15.00 Inches Item Weight: 50.00 Pounds Shipping Weight Carton 1: 55.00 Shipping Height Carton 1: 29.00 Shipping Width Carton 1: 25.00 Shipping Depth Carton 1: 20.00 Additional attributes Frame Material Solid Wood Handle/Accent Material Metal Number of Drawers 2 Removable Handle Yes Top Material Manufactured Wood Drawer Glide Mechanism Ball Bearing Glides Nightstand Shape Rectangular Number of Tables Included 1 Style Contemporary Country Of Manufacture Indonesia
-  Updated: 2025-12-10T13:52:45Z
+  Updated: 2025-12-11T01:52:36Z
   Vendor: HomeRoots
   Product Type: Nightstands & Bedside Tables
   Availability: Available
@@ -1161,25 +1161,25 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/399264_8_sPPjE8vf_1000x1000_6874c2c4-eca4-45f0-91ee-589762e56292.jpg?v=1765307933
   Price: $254.99 USD
 - [Modern Mid Century Walnut Nightstand with Single Drawer](https://modterrahome.com/products/modern-mid-century-walnut-nightstand-with-single-drawer): Flaunting a sleek contour, the Modern Mid-Century Walnut Nightstand with Single Drawer is a paradigm of bedside tables. Handcrafted from solid wood with a classic walnut brown veneer finish the wood grain design accentuates it's monotonous surface by adding character. Displaying a wide spacious drawer, it features a dark walnut mini rod-shaped drawer pull knob. Splayed tapered solid rubber wood legs complete the look of this entire creation whilst providing stability. Highlight the charming aspect in your bedroom with this simple and functional modern nightstand. 22" x 20" x 16" Details GTIN (UPC/EAN): 606114586869 Shipping Weight: 39.00 Pounds Shipping Size (Inches.): 22.00 W x 18.00 D x 14.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 22.00 Inches Item Width: 20.00 Inches Item Depth: 16.00 Inches Item Weight: 36.66 Pounds Shipping Weight Carton 1: 39.00 Shipping Height Carton 1: 14.00 Shipping Width Carton 1: 22.00 Shipping Depth Carton 1: 18.00 Additional attributes Frame Material Solid Wood Frame Wood Species Rubberwood Handle/Accent Material Metal Number of Drawers 1 Soft Close or Self Close Drawer Glides Yes Top Material Manufactured Wood Nightstand Shape Rectangular Number of Tables Included 1 Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture Malaysia
-  Updated: 2025-12-10T13:52:41Z
+  Updated: 2025-12-11T01:52:41Z
   Vendor: HomeRoots
   Product Type: Nightstands & Bedside Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/473016_1_1000x1000_28418ec2-e201-4f01-b72a-5de910b42a52.jpg?v=1765374755
   Price: $347.99 USD
 - [Modern Walnut Brown Nightstand with Two Drawers](https://modterrahome.com/products/modern-walnut-brown-nightstand-with-two-drawers): A depiction of subtle elegance, the Modern Walnut Brown Nightstand with Two Drawers emanates an opulent presence. Handcrafted from solid rubber wood, the nightstand is entirely enveloped in a walnut veneer finish aesthetically outlining the wood grains. The two wide drawers utilizes a slide push to open mechanism to access the contents of the drawer. Smooth round corner edges portrays a sophisticated nightstand that bring to light the refined essence of the entire unit. 18.11" x 15.75" x 23.62" Details GTIN (UPC/EAN): 606114586982 Shipping Weight: 53.00 Pounds Shipping Size (Inches.): 27.00 W x 21.00 D x 19.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 18.11 Inches Item Width: 15.75 Inches Item Depth: 23.62 Inches Item Weight: 49.82 Pounds Shipping Weight Carton 1: 53.00 Shipping Height Carton 1: 19.00 Shipping Width Carton 1: 27.00 Shipping Depth Carton 1: 21.00 Additional attributes Frame Material Solid Wood Frame Wood Species Rubberwood Handle/Accent Material Wood Number of Drawers 2 Soft Close or Self Close Drawer Glides Yes Top Material Manufactured Wood Nightstand Shape Rectangular Number of Tables Included 1 Style Contemporary Top Color Walnut Country Of Manufacture Malaysia
-  Updated: 2025-12-10T07:19:48Z
+  Updated: 2025-12-12T13:58:25Z
   Vendor: HomeRoots
   Product Type: Nightstands & Bedside Tables
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/473028_10_Sa3gPQ0R_1000x1000_050a5499-bca8-4a40-85e1-de327a3330d0.jpg?v=1765307936
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/473028_1_1000x1000_a0915f7f-8c0f-4b0b-adbb-6b7404e1efea.jpg?v=1765547892
   Price: $434.99 USD
 - [Mid Century Walnut and Gray Faux Marble Two Drawer Nightstand](https://modterrahome.com/products/mid-century-walnut-and-gray-faux-marble-two-drawer-nightstand): Distinguished by it's fine craftsmanship, the Mid-Century Walnut and Faux Dark Gray Marbelized Slate Look Nightstand with Two Drawers emanates a charm of it's own. The walnut veneer creation flawlessly encloses two soft closing drawers that display two faux volcanic slate drawer fronts. Four unique black and gold beam legs support the entire structure that highlights the mid-century glam quotient of this piece making it a perfect addition to your modern or industrial decor. 18" x 26" x 16" Details GTIN (UPC/EAN): 606114587088 Shipping Weight: 57.00 Pounds Shipping Size (Inches.): 30.00 W x 19.00 D x 15.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 18.00 Inches Item Width: 26.00 Inches Item Depth: 16.00 Inches Item Weight: 53.58 Pounds Shipping Weight Carton 1: 57.00 Shipping Height Carton 1: 15.00 Shipping Width Carton 1: 30.00 Shipping Depth Carton 1: 19.00 Additional attributes Frame Material Manufactured Wood Handle/Accent Material Wood Number of Drawers 2 Soft Close or Self Close Drawer Glides Yes Top Material Manufactured Wood Nightstand Shape Rectangular Number of Tables Included 1 Assembly Required Full Assembly Needed Style Contemporary Country Of Manufacture Malaysia
-  Updated: 2025-12-10T13:52:45Z
+  Updated: 2025-12-12T01:59:51Z
   Vendor: HomeRoots
   Product Type: Nightstands & Bedside Tables
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/473038_1_1000x1000_96f9ca3f-ffb9-4af3-a232-3d8104c495e9.jpg?v=1765374757
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/473038_1_1000x1000_8cf93d1d-f702-4f36-b9c3-1ac45a38fcee.jpg?v=1765489921
   Price: $482.99 USD
 - [5" Brown Wood One Drawer Floating Nightstand](https://modterrahome.com/products/5-brown-wood-one-drawer-floating-nightstand): Give your room the look and feel of 5-star accommodations with this 5-inch brown wood one drawer floating nightstand. Maximize your floor space and adjust to the exact height you need, when you add this wall-mounted design to your space. Sturdy and durable construction from manufactured wood ensures this trusty bedside table is built to last. The easy open drawer allows you hidden storage to keep your essentials close at hand. The unsung hero of the bedroom, this nightstand is perfect for keeping a glass of water, lamp, alarm clock, jewelry, and more, close by and easily accessible. 5.1-inch h x 15.7-inch w x 13.4-inch d. Details GTIN (UPC/EAN): 606114849254 Shipping Weight: 14.33 Pounds Shipping Size (Inches.): 16.90 W x 20.07 D x 3.54 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 5.10 Inches Item Width: 15.70 Inches Item Depth: 13.40 Inches Item Weight: 13.87 Pounds Shipping Weight Carton 1: 14.33 Shipping Height Carton 1: 3.54 Shipping Width Carton 1: 16.90 Shipping Depth Carton 1: 20.07 Additional attributes Floating Shelf Yes Frame Material Manufactured Wood Number of Doors 0 Number of Drawers 1 Removable Handle Yes Top Material Manufactured Wood Drawer Glide Mechanism Roller Glides Nightstand Shape Rectangular Number of Tables Included 1 Commercial Use Yes Assembly Required Full Assembly Needed Style Modern Frame Color Brown Top Color Brown Country Of Manufacture Colombia
   Updated: 2025-12-10T07:19:20Z
@@ -1203,75 +1203,75 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/546183_1_1000x1000_e44519e3-6a80-4db7-954b-168f98a4afbf.jpg?v=1765307944
   Price: $92.99 USD
 - [Wool Striped Hand Braided Area Rug](https://modterrahome.com/products/wool-striped-hand-braided-area-rug): Add great coloration and comfortable texture to your space with this wool striped hand braided area rug. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, coastal styled rug is ready to create a focal point or statement piece in your room. 96.00-inch h x 120.00-inch w x 0.50-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 8.00 W x 8.00 D x 100.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 96.00 Inches Item Width: 120.00 Inches Item Depth: 0.50 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 100.00 Shipping Width Carton 1: 8.00 Shipping Depth Carton 1: 8.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Striped Rug Shape Rectangle Technique Hand Braided Construction Handmade Product Care Spot clean with mild detergent Size 8' X 10' Material Wool Color Brown, Charcoal Style Coastal Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:20:43Z
+  Updated: 2025-12-11T17:59:28Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674429_1_o9Hf37g3_1000x1000_e863af5e-55ae-4699-82e0-92fcbf83e360.jpg?v=1765308034
-  Price: $335.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674429_1_o9Hf37g3_1000x1000_4e0bfb52-e997-4c44-9c52-b962aa7a795d.jpg?v=1765461591
+  Price: $380.99 USD
 - [Wool Striped Hand Braided Area Rug](https://modterrahome.com/products/wool-striped-hand-braided-area-rug-1): This wool striped hand braided area rug, is a great way to add warmth to a room. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, coastal styled rug is ready to create a focal point or statement piece in your room. 60.00-inch h x 93.00-inch w x 0.50-inch d. Details GTIN (UPC/EAN): Shipping Weight: 22.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 53.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 60.00 Inches Item Width: 93.00 Inches Item Depth: 0.50 Inches Item Weight: 20.00 Pounds Shipping Weight Carton 1: 22.00 Shipping Height Carton 1: 53.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Striped Rug Shape Rectangle Technique Hand Braided Construction Handmade Product Care Spot clean with mild detergent Size 5' X 8' Material Wool Color Charcoal Style Coastal Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:20:47Z
+  Updated: 2025-12-11T17:59:52Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674430_6_uJeLUVTv_1000x1000_02c71775-2eeb-43fc-b278-7de9fcc7eff4.jpg?v=1765308036
-  Price: $207.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674430_1_KT41Eg08_1000x1000_3b21db2d-2cf0-4307-a9a6-ea5d4e64230d.jpg?v=1765461594
+  Price: $235.99 USD
 - [Wool Striped Hand Braided Area Rug](https://modterrahome.com/products/wool-striped-hand-braided-area-rug-2): Add great coloration and comfortable texture to your space with this wool striped hand braided area rug. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, coastal styled rug is ready to create a focal point or statement piece in your room. 60.00-inch h x 93.00-inch w x 0.50-inch d. Details GTIN (UPC/EAN): Shipping Weight: 22.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 53.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 60.00 Inches Item Width: 93.00 Inches Item Depth: 0.50 Inches Item Weight: 20.00 Pounds Shipping Weight Carton 1: 22.00 Shipping Height Carton 1: 53.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Striped Rug Shape Rectangle Technique Hand Braided Construction Handmade Product Care Spot clean with mild detergent Size 5' X 8' Material Wool Color Dark Gray Style Coastal Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:20:52Z
+  Updated: 2025-12-11T17:59:36Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674431_1_Vk4471wh_1000x1000_edb417c1-3d33-40c7-a5e8-e9163d6380f4.jpg?v=1765308039
-  Price: $207.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674431_1_Vk4471wh_1000x1000_b976295e-d67f-4fa3-9ffd-15f8fcf321b8.jpg?v=1765461598
+  Price: $235.99 USD
 - [Wool Striped Hand Braided Area Rug](https://modterrahome.com/products/wool-striped-hand-braided-area-rug-3): This wool striped hand braided area rug, is a great way to add warmth to a room. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, coastal styled rug is ready to create a focal point or statement piece in your room. 60.00-inch h x 93.00-inch w x 0.50-inch d. Details GTIN (UPC/EAN): Shipping Weight: 22.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 53.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 60.00 Inches Item Width: 93.00 Inches Item Depth: 0.50 Inches Item Weight: 20.00 Pounds Shipping Weight Carton 1: 22.00 Shipping Height Carton 1: 53.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Striped Rug Shape Rectangle Technique Hand Braided Construction Handmade Product Care Spot clean with mild detergent Size 5' X 8' Material Wool Color Silver Style Coastal Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:20:58Z
+  Updated: 2025-12-12T00:36:56Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674432_1_miskyyY2_1000x1000_ff2861bc-ebab-4063-bd3a-af2073db93a4.jpg?v=1765308040
-  Price: $207.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674432_1_miskyyY2_1000x1000_247b7a9f-9c45-4e79-b228-1569eb70190b.jpg?v=1765461601
+  Price: $235.99 USD
 - [Wool Trellis Hand Tufted Round Rug](https://modterrahome.com/products/wool-trellis-hand-tufted-round-rug): Set an inviting tone in your space with this wool trellis hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.23-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.23 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Trellis Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 7' X 7' Material Wool Color Navy Blue, Red Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:20:54Z
+  Updated: 2025-12-11T17:59:47Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674451_1_HISThFk7_1000x1000_ca3ae4e9-c2e4-4410-bc3f-a0cd062865b2.jpg?v=1765308043
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674451_1_HISThFk7_1000x1000_46a8d39b-890f-4d26-b88a-93bb0e74cf36.jpg?v=1765461606
+  Price: $288.99 USD
 - [Wool Trellis Hand Tufted Round Rug](https://modterrahome.com/products/wool-trellis-hand-tufted-round-rug-1): Add great coloration and comfortable texture to your space with this wool trellis hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 58.00-inch h x 58.00-inch w x 0.23-inch d. Details GTIN (UPC/EAN): Shipping Weight: 16.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 60.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 58.00 Inches Item Width: 58.00 Inches Item Depth: 0.23 Inches Item Weight: 14.00 Pounds Shipping Weight Carton 1: 16.00 Shipping Height Carton 1: 60.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Trellis Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 5' X 5' Material Wool Color Navy Blue, Red Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:20:57Z
+  Updated: 2025-12-11T17:59:46Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674452_1_DXJz6pav_1000x1000_a09b5e6a-94f6-4d9a-b0c1-2f3fb2304c9a.jpg?v=1765308045
-  Price: $143.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674452_1_DXJz6pav_1000x1000_9f3d53d9-2f46-4fd3-81bb-a7bb1091bb0f.jpg?v=1765461607
+  Price: $152.99 USD
 - [Wool Trellis Hand Tufted Round Rug](https://modterrahome.com/products/wool-trellis-hand-tufted-round-rug-2): Add some artistry to your room with this wool trellis hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This smaller sized, contemporary styled rug is just what you need for your walkway, bedside, in front of door, cabinet, refrigerator, or chair. 36.00-inch h x 36.00-inch w x 0.23-inch d. Details GTIN (UPC/EAN): Shipping Weight: 9.00 Pounds Shipping Size (Inches.): 5.00 W x 5.00 D x 38.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 36.00 Inches Item Width: 36.00 Inches Item Depth: 0.23 Inches Item Weight: 7.00 Pounds Shipping Weight Carton 1: 9.00 Shipping Height Carton 1: 38.00 Shipping Width Carton 1: 5.00 Shipping Depth Carton 1: 5.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Trellis Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 3' Round Material Wool Color Navy Blue, Red Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:21:04Z
+  Updated: 2025-12-11T17:59:46Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674453_1_HlOVHlSC_1000x1000_45c99032-d87c-43cd-925d-0f4f10514448.jpg?v=1765308047
-  Price: $55.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674453_1_HlOVHlSC_1000x1000_63b4e786-8d32-4991-a613-bd8ad5423097.jpg?v=1765461611
+  Price: $62.99 USD
 - [Wool Medallion Hand Tufted Washable Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-washable-round-rug): This wool medallion hand tufted washable round rug, is a great way to add warmth to a room. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 58.00-inch h x 58.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 16.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 60.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 58.00 Inches Item Width: 58.00 Inches Item Depth: 0.19 Inches Item Weight: 14.00 Pounds Shipping Weight Carton 1: 16.00 Shipping Height Carton 1: 60.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Machine washable Size 5' X 5' Material Wool Color Beige, Blue Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:21:03Z
+  Updated: 2025-12-11T18:00:01Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674464_1_GDYm5jyR_1000x1000_ebc4d25d-9ade-45a9-9e3f-be10bb4795f4.jpg?v=1765308049
-  Price: $143.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674464_1_GDYm5jyR_1000x1000_d44c727b-b90e-4991-b289-42f004a1f330.jpg?v=1765461614
+  Price: $152.99 USD
 - [Wool Medallion Hand Tufted Washable Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-washable-round-rug-1): Add great coloration and comfortable texture to your space with this wool medallion hand tufted washable round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This smaller sized, contemporary styled rug is just what you need for your walkway, bedside, in front of door, cabinet, refrigerator, or chair. 36.00-inch h x 36.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 9.00 Pounds Shipping Size (Inches.): 5.00 W x 5.00 D x 38.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 36.00 Inches Item Width: 36.00 Inches Item Depth: 0.19 Inches Item Weight: 7.00 Pounds Shipping Weight Carton 1: 9.00 Shipping Height Carton 1: 38.00 Shipping Width Carton 1: 5.00 Shipping Depth Carton 1: 5.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Machine washable Size 3' Round Material Wool Color Beige, Blue Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:21:02Z
+  Updated: 2025-12-11T17:59:56Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674465_1_8HsX5PiA_1000x1000_145ef9ac-6571-4712-87ad-af78cc770b57.jpg?v=1765308051
-  Price: $55.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674465_1_8HsX5PiA_1000x1000_e2548017-bdb4-4b74-97e6-4cad2d63d10a.jpg?v=1765461617
+  Price: $62.99 USD
 - [Wool Medallion Hand Tufted Washable Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-washable-round-rug-2): This wool medallion hand tufted washable round rug, is a great way to add warmth to a room. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.19 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Machine washable Size 7' X 7' Material Wool Color Beige, Blue Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:21:04Z
+  Updated: 2025-12-11T17:59:54Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674468_1_ZhbN9V5D_1000x1000_c2ab5b05-fdd6-4db7-b853-856b612722b3.jpg?v=1765308053
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674468_1_ZhbN9V5D_1000x1000_01e27a9e-6045-4c37-a9df-2b1c19711b57.jpg?v=1765461620
+  Price: $288.99 USD
 - [Yellow Wood Wall Decor](https://modterrahome.com/products/yellow-wood-wall-decor): Our wooden wall decor in a vibrant yellow hue brings a modern touch to any space. Crafted with precision, this hanging text piece features a unique design that seamlessly combines text and numbers, adding a stylish element to your home decor. Elevate your walls with this contemporary artwork that effortlessly blends into any modern setting. The intricate detailing and sleek finish of this piece make it a standout accent in any room. Infuse your space with a pop of color and a touch of sophistication with our meticulously crafted wall decor. Embrace the power of words as they beautifully adorn your walls, creating a captivating focal point in your living space. 10-inch h x 8-inch w x 1-inch d. Details GTIN (UPC/EAN): 689805004774 Shipping Weight: 20.00 Pounds Shipping Size (Inches.): 10.24 W x 11.42 D x 9.06 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 10.00 Inches Item Width: 8.00 Inches Item Depth: 1.00 Inches Item Weight: 2.00 Pounds Shipping Weight Carton 1: 20.00 Shipping Height Carton 1: 10.24 Shipping Width Carton 1: 11.42 Shipping Depth Carton 1: 9.06 Additional attributes Material Wood Assembly Required Full Assembly Needed Wall Decor Type Hanging Text Color Yellow Style Modern Country Of Manufacture China Room Living Room, Dining Room
   Updated: 2025-12-10T07:22:00Z
   Vendor: HomeRoots
@@ -1343,75 +1343,75 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/574020_12_NNCiETop_1000x1000_f37db62d-dcda-498b-95ad-64dc3580d900.jpg?v=1765308127
   Price: $262.99 USD
 - [Wool Floral Hand Tufted Round Rug](https://modterrahome.com/products/wool-floral-hand-tufted-round-rug): This wool floral hand tufted round rug, is a great way to add warmth to a room. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.19 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Floral Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 7' X 7' Material Wool Color Gray, Ivory Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:53Z
+  Updated: 2025-12-11T17:59:56Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674454_1_e5RP049X_1000x1000_9ce57f5c-f743-41e1-ac4a-0ef75d9b7c47.jpg?v=1765309774
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674454_1_e5RP049X_1000x1000_1fb299ee-5537-4d55-a692-3ae37567c512.jpg?v=1765461623
+  Price: $288.99 USD
 - [Wool Floral Hand Tufted Round Rug](https://modterrahome.com/products/wool-floral-hand-tufted-round-rug-1): Add great coloration and comfortable texture to your space with this wool floral hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This smaller sized, contemporary styled rug is just what you need for your walkway, bedside, in front of door, cabinet, refrigerator, or chair. 36.00-inch h x 36.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 9.00 Pounds Shipping Size (Inches.): 5.00 W x 5.00 D x 38.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 36.00 Inches Item Width: 36.00 Inches Item Depth: 0.19 Inches Item Weight: 7.00 Pounds Shipping Weight Carton 1: 9.00 Shipping Height Carton 1: 38.00 Shipping Width Carton 1: 5.00 Shipping Depth Carton 1: 5.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Floral Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 3' Round Material Wool Color Gray, Ivory Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:55Z
+  Updated: 2025-12-11T18:00:01Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674455_1_rO2dkfat_1000x1000_936599fd-6ebf-4ecc-a1f6-2e77c0e01329.jpg?v=1765309776
-  Price: $55.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674455_1_rO2dkfat_1000x1000_2859d1d8-1b33-4f22-be9e-4a83fdf44a03.jpg?v=1765461626
+  Price: $62.99 USD
 - [Wool Floral Hand Tufted Round Rug](https://modterrahome.com/products/wool-floral-hand-tufted-round-rug-2): Set an inviting tone in your space with this wool floral hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.23-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.23 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Floral Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 7' X 7' Material Wool Color Blue, Sage Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:47Z
+  Updated: 2025-12-11T18:00:09Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674456_1_kFvzureE_1000x1000_a666243d-12f0-4fd6-931b-c60039144b95.jpg?v=1765309778
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674456_1_kFvzureE_1000x1000_e16b0508-7bf6-411e-86da-f1fc3623cd0c.jpg?v=1765461629
+  Price: $288.99 USD
 - [Wool Floral Hand Tufted Round Rug](https://modterrahome.com/products/wool-floral-hand-tufted-round-rug-3): This wool floral hand tufted round rug, is a great way to add warmth to a room. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.19 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Floral Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 7' X 7' Material Wool Color Brown, Gray Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:50Z
+  Updated: 2025-12-11T18:00:07Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674458_1_GTw6N91i_1000x1000_413558eb-3559-473c-94e1-f12c09b19080.jpg?v=1765309780
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674458_1_GTw6N91i_1000x1000_537942c3-7696-4729-abdc-2f94e954f9fb.jpg?v=1765461632
+  Price: $288.99 USD
 - [Wool Medallion Hand Tufted Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-round-rug): Add great coloration and comfortable texture to your space with this wool medallion hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.23-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.23 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 7' X 7' Material Wool Color Blue, Gray Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:50Z
+  Updated: 2025-12-11T18:00:19Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674461_1_iGCm3Gl2_1000x1000_3e669454-34bf-402e-ac96-a5c5e7da41a9.jpg?v=1765309782
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674461_1_iGCm3Gl2_1000x1000_70188724-8926-4b5d-bc2a-e1df62812dd3.jpg?v=1765461635
+  Price: $288.99 USD
 - [Wool Medallion Hand Tufted Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-round-rug-1): Set an inviting tone in your space with this wool medallion hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This smaller sized, contemporary styled rug is just what you need for your walkway, bedside, in front of door, cabinet, refrigerator, or chair. 36.00-inch h x 36.00-inch w x 0.23-inch d. Details GTIN (UPC/EAN): Shipping Weight: 9.00 Pounds Shipping Size (Inches.): 5.00 W x 5.00 D x 38.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 36.00 Inches Item Width: 36.00 Inches Item Depth: 0.23 Inches Item Weight: 7.00 Pounds Shipping Weight Carton 1: 9.00 Shipping Height Carton 1: 38.00 Shipping Width Carton 1: 5.00 Shipping Depth Carton 1: 5.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 3' Round Material Wool Color Blue, Gray Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:56Z
+  Updated: 2025-12-11T18:00:14Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674462_1_1RRCC9ko_1000x1000_e47970a3-a406-43eb-94b5-7d4018754856.jpg?v=1765309784
-  Price: $55.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674462_1_1RRCC9ko_1000x1000_799df327-d4df-4281-8d81-4a4e0a974e53.jpg?v=1765461638
+  Price: $62.99 USD
 - [Wool Medallion Hand Tufted Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-round-rug-2): Add great coloration and comfortable texture to your space with this wool medallion hand tufted round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.19 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Spot clean with mild detergent Size 7' X 7' Material Wool Color Beige, Blue Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:54Z
+  Updated: 2025-12-11T18:00:18Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674463_1_QL99hvnL_1000x1000_cb49f33e-1e86-4ae9-8aa7-b311d0743711.jpg?v=1765309785
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674463_1_QL99hvnL_1000x1000_c7e9b132-b829-489f-9bfe-5ede07606974.jpg?v=1765461641
+  Price: $288.99 USD
 - [Wool Floral Hand Tufted Washable Round Rug](https://modterrahome.com/products/wool-floral-hand-tufted-washable-round-rug): Set an inviting tone in your space with this wool floral hand tufted washable round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 87.00-inch h x 87.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 46.00 Pounds Shipping Size (Inches.): 7.00 W x 7.00 D x 89.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 87.00 Inches Item Width: 87.00 Inches Item Depth: 0.19 Inches Item Weight: 44.00 Pounds Shipping Weight Carton 1: 46.00 Shipping Height Carton 1: 89.00 Shipping Width Carton 1: 7.00 Shipping Depth Carton 1: 7.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Floral Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Machine washable Size 7' X 7' Material Wool Color Gray, Ivory Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:52:12Z
+  Updated: 2025-12-11T18:00:23Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674466_1_oag1yFKb_1000x1000_65985c0a-2257-4925-9019-4364be301c56.jpg?v=1765309787
-  Price: $254.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674466_1_oag1yFKb_1000x1000_53899dce-e2ba-4605-b9c5-f22c033d4c48.jpg?v=1765461644
+  Price: $288.99 USD
 - [Wool Floral Hand Tufted Washable Round Rug](https://modterrahome.com/products/wool-floral-hand-tufted-washable-round-rug-1): Add some artistry to your room with this wool floral hand tufted washable round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 58.00-inch h x 58.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 16.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 60.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 58.00 Inches Item Width: 58.00 Inches Item Depth: 0.19 Inches Item Weight: 14.00 Pounds Shipping Weight Carton 1: 16.00 Shipping Height Carton 1: 60.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Floral Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Machine washable Size 5' X 5' Material Wool Color Gray, Ivory Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:51:14Z
+  Updated: 2025-12-11T18:06:59Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674467_1_BbFouiav_1000x1000_08a0bd57-4501-49fc-9ab4-3abcc332f3b7.jpg?v=1765309789
-  Price: $143.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674467_1_BbFouiav_1000x1000_7673f18b-5fc0-4639-b18b-38bd81e57b5f.jpg?v=1765461647
+  Price: $152.99 USD
 - [Wool Medallion Hand Tufted Washable Round Rug](https://modterrahome.com/products/wool-medallion-hand-tufted-washable-round-rug-3): Add some artistry to your room with this wool medallion hand tufted washable round rug. Crafted by skilled artisans, this hand tufted rug is genuine and unique. No two will be exactly alike. Rugs are a great way to showcase your style, hide imperfections, warm your home and reduce noise. This larger sized, contemporary styled rug is ready to create a focal point or statement piece in your room. 58.00-inch h x 58.00-inch w x 0.19-inch d. Details GTIN (UPC/EAN): Shipping Weight: 16.00 Pounds Shipping Size (Inches.): 6.00 W x 6.00 D x 60.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 58.00 Inches Item Width: 58.00 Inches Item Depth: 0.19 Inches Item Weight: 14.00 Pounds Shipping Weight Carton 1: 16.00 Shipping Height Carton 1: 60.00 Shipping Width Carton 1: 6.00 Shipping Depth Carton 1: 6.00 Additional attributes Backing Material Yes Backing Material Details Cotton Pattern Medallion Rug Shape Round Technique Hand Tufted Construction Handmade Product Care Machine washable Size 5' X 5' Material Wool Color Beige, Blue Style Contemporary Country Of Manufacture India Room Bedroom, Dining Room, Entry, Hallway, Kitchen, Laundry, Living Room
-  Updated: 2025-12-10T07:49:59Z
+  Updated: 2025-12-11T18:00:26Z
   Vendor: HomeRoots
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674469_1_qOsY4ghd_1000x1000_3220993d-bb4f-43b9-8f35-14092a368fdf.jpg?v=1765309791
-  Price: $143.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/674469_1_qOsY4ghd_1000x1000_098b8f7f-0078-490e-a349-b2d173dac21c.jpg?v=1765461650
+  Price: $152.99 USD
 - [White Finish Wood Shutter 3 Panel Room Divider Screen](https://modterrahome.com/products/white-finish-wood-shutter-3-panel-room-divider-screen): A great way to carve a special space for yourself in order to enjoy the personal privacy you have always wanted is by using our 3 panel wood shutter screen. Not only will this elegant piece give you the needed exclusivity but it will also add style and beauty to your decor, thanks to its fitted slats that allow gentle light filtering. Framed by top-quality wooden structure with white finish, it is meant to fill your room with inspiring visual flair for many years to come 1" x 48" x 67" Details GTIN (UPC/EAN): 689805007850 Shipping Weight: 15.00 Pounds Shipping Size (Inches.): 17.00 W x 3.00 D x 68.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 67.00 Inches Item Width: 48.00 Inches Item Depth: 1.00 Inches Item Weight: 12.00 Pounds Shipping Weight Carton 1: 15.00 Shipping Height Carton 1: 68.00 Shipping Width Carton 1: 17.00 Shipping Depth Carton 1: 3.00 Additional attributes Room Divider Type Folding Number of Panels 3 Frame Material Wood Screen Material Wood Color White Style Modern Country Of Manufacture China Room Living Room
   Updated: 2025-12-10T07:50:58Z
   Vendor: HomeRoots
@@ -1434,12 +1434,12 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/384580_7_2atuBZOM_1000x1000_a99ca137-9ae5-4ae1-a78d-d8102eec78a7.jpg?v=1765309858
   Price: $393.99 USD
 - [Vintage Oak Blanket Stand](https://modterrahome.com/products/vintage-oak-blanket-stand): Traditionally carved and structured the Vintage Oak Blanket Stand is a lovely addition to your bedroom and living room. Perfect aligned horizontal rails help for hanging your blankets or quilts. Entirely made of solid wood and resin materials with an oak finish this elegant piece stands firmly on a pedestal. Its aesthetic presence adds a touch of charm to any room. 3.25" x 29.25" x 15.25" Details GTIN (UPC/EAN): 4512822875453 Shipping Weight: 18.00 Pounds Shipping Size (Inches.): 20.00 W x 8.00 D x 43.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 37.25 Inches Item Width: 29.25 Inches Item Depth: 15.25 Inches Item Weight: 13.00 Pounds Shipping Weight Carton 1: 18.00 Shipping Height Carton 1: 43.00 Shipping Width Carton 1: 20.00 Shipping Depth Carton 1: 8.00 Additional attributes Frame Material Solid and Manufactured Wood Screen Material Solid and Manufactured Wood Material Wood Assembly Required Full Assembly Needed Color Brown Style Traditional Country Of Manufacture China
-  Updated: 2025-12-10T07:51:08Z
+  Updated: 2025-12-12T02:10:01Z
   Vendor: HomeRoots
   Product Type: Room Dividers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/389630_2_1000x1000_e552974d-6c75-4f78-8484-7e91f1a1d004.jpg?v=1765309862
-  Price: $435.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/389630_1_1000x1000_b77ba722-d066-428c-aa6d-eed135284d29.jpg?v=1765461653
+  Price: $378.99 USD
 - [Stylish Three Panel Washed Brown Shutter Divider Screen](https://modterrahome.com/products/stylish-three-panel-washed-brown-shutter-divider-screen): Enjoy the finer things in interior decoration with this Stylish Washed Brown Wood Shutter Screen. The stunning paneled wood design gives a texturally interesting element to a practical room divider. This functional decorative piece will help tie your living space together with its natural brown wood, providing you with a stylish piece that can suit any room or space. This shutter screen is designed to be easily foldable, allowing for a transitional item that can be foldeed smaller, or stored away with ease. This stylish item is multifaceted in its use, acting as not only a decorative screen for the background of your office space, but also a room divider, providing you the luxury of room seperation for privacy. 67" x 48" x 1" Details GTIN (UPC/EAN): 606114026952 Shipping Weight: 15.00 Pounds Shipping Size (Inches.): 17.00 W x 4.00 D x 68.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 67.00 Inches Item Width: 48.00 Inches Item Depth: 1.00 Inches Item Weight: 12.00 Pounds Shipping Weight Carton 1: 15.00 Shipping Height Carton 1: 68.00 Shipping Width Carton 1: 17.00 Shipping Depth Carton 1: 4.00 Additional attributes Room Divider Type Folding Number of Panels 3 Frame Material Solid Wood Screen Material Solid Wood Material wood Color Brown Style Traditional Country Of Manufacture China
   Updated: 2025-12-10T07:53:09Z
   Vendor: HomeRoots
@@ -1490,11 +1490,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/358165_4_1000x1000_a6d6e9b3-437f-4e9e-8b4b-1e708fb6e33f.jpg?v=1765309889
   Price: $210.99 USD
 - [Zoo Animals Woven Knitted Baby Blanket](https://modterrahome.com/products/zoo-animals-woven-knitted-baby-blanket): This meticulously crafted Zoo Animals Woven Knitted Baby Blanket is a perfect choice to provide warmth and comfort to your baby. This beautiful baby blanket features lions, giraffes, hippos and more. This swaddling blanket is incredibly soft, stretchy, and made up of 100% cotton. Due to its gentleness and unique look, this adorable baby blanket is a perfect companion for your little one. With a light grey color combination, this blanket is stylish and easy to carry anywhere. 32" x 40" Details GTIN (UPC/EAN): 608219095895 Shipping Weight: 2.00 Pounds Shipping Size (Inches.): 5.00 W x 5.00 D x 9.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 32.00 Inches Item Width: 40.00 Inches Item Depth: 1.00 Inches Item Weight: 1.40 Pounds Shipping Weight Carton 1: 2.00 Shipping Height Carton 1: 9.00 Shipping Width Carton 1: 5.00 Shipping Depth Carton 1: 5.00 Additional attributes Pattern Animal Print Back Side Color Light Gray Material Cotton Color Light Gray Style Transitional Country Of Manufacture India Room Living Room
-  Updated: 2025-12-10T07:51:41Z
+  Updated: 2025-12-12T09:56:07Z
   Vendor: HomeRoots
   Product Type: Throws & Blankets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383164_1_1000x1000_870a5d30-5965-4990-b706-d83ae9466f90.jpg?v=1765345633
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383164_1_1000x1000_0a37e787-06ca-4c30-9452-2bf6aaf92d80.jpg?v=1765489924
   Price: $33.99 USD
 - [Super Soft Gray Soft Solid Color Handloomed Throw Blanket](https://modterrahome.com/products/super-soft-gray-soft-solid-color-handloomed-throw-blanket): Get ready to cozy up with this Super Soft Gray Soft Solid Color Handloomed Throw Blanket. Hand-crafted by expert artisans, this soft and cuddly wool blend blanket with thick fringe is an ideal way to accent your space and keep warm at the same time. The beautiful gray shade will easily blend with most any decor and bring a feeling of warmth to your space. Perfect for your bed, couch, or favorite spot by the fireplace, this generous in size and fashionable throw blanket is a soft and natural way to accent your room. 67" x 52" x .5". Details GTIN (UPC/EAN): 808230112278 Shipping Weight: 2.00 Pounds Shipping Size (Inches.): 9.00 W x 4.00 D x 14.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 52.00 Inches Item Width: 67.00 Inches Item Depth: 0.50 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 2.00 Shipping Height Carton 1: 14.00 Shipping Width Carton 1: 9.00 Shipping Depth Carton 1: 4.00 Additional attributes Back Side Color Gray Material Acrylic Color Gray Style Transitional Country Of Manufacture India Room Living Room
   Updated: 2025-12-10T07:51:41Z
@@ -1665,7 +1665,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/634842_73_Ts2pyHZb_1000x1000_96344c64-a9a8-4ada-a24a-60f1e3330f15.jpg?v=1765309946
   Price: $94.99 USD
 - [Set of Two White And Brown Geometric Metal Tabletop Lantern Candle Holders](https://modterrahome.com/products/set-of-two-white-and-brown-geometric-metal-tabletop-lantern-candle-holders): This set of two white and brown geometric metal tabletop lantern candle holders is perfect whether you’re creating a beautiful tablescape centerpiece or looking to illuminate a space. Sold as a set of 2, this candleholder makes both the perfect gift and functional, decorative accent. Add an extra pop of personality to every corner of your home with this gorgeous candleholder candleholders are an attractive way to turn a simple candle into a piece of décor. 10.25-inch h x 6.50-inch w x 6.50-inch d. Details GTIN (UPC/EAN): Shipping Weight: 2.30 Pounds Shipping Size (Inches.): 12.00 W x 14.00 D x 10.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 10.25 Inches Item Width: 6.50 Inches Item Depth: 6.50 Inches Item Weight: 2.30 Pounds Shipping Weight Carton 1: 2.30 Shipping Height Carton 1: 10.00 Shipping Width Carton 1: 12.00 Shipping Depth Carton 1: 14.00 Additional attributes Candle Capacity 1 Candle Shape Compatibility Pillar Holder Placement Tabletop Holder Type Lantern Manufacturing Type Machine Made Set Yes Number of Pieces in the Set 2 Commercial Use Yes Primary Candle Holder Material Metal Decoration Pattern Geometric Color White, Brown Style Coastal Country Of Manufacture China Room Dining Room
-  Updated: 2025-12-10T21:59:45Z
+  Updated: 2025-12-11T09:59:39Z
   Vendor: HomeRoots
   Product Type: Candle Holders
   Availability: Available
@@ -1707,18 +1707,17 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/376347_13_Wn3s6tBh_1000x1000_15ce4818-6525-4193-8512-cf1fbf9d0488.jpg?v=1765309966
   Price: $605.99 USD
 - [White Medium  Pear Shaped Aluminum Accent Home Decor](https://modterrahome.com/products/white-medium-pear-shaped-aluminum-accent-home-decor): The perfect accent decor for any contemporary living space, this Pera Blanco Medium White Pear is both classic and trendy. Made of aluminum then coated in White Enamel, this modern and bright piece can be arranged on a bookshelf, corralled on an accent tray, or displayed in the kitchen. Details GTIN (UPC/EAN): 4512822754222 Shipping Weight: 3.00 Pounds Shipping Size (Inches.): 9.00 W x 8.00 D x 9.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 9.00 Inches Item Width: 6.00 Inches Item Depth: 6.00 Inches Item Weight: 1.65 Pounds Shipping Weight Carton 1: 3.00 Shipping Height Carton 1: 9.00 Shipping Width Carton 1: 9.00 Shipping Depth Carton 1: 8.00 Additional attributes Sculpture Type Decorative Pear Material Aluminum Assembly Required Full Assembly Needed Color White Style contemporary Country Of Manufacture India Room Living Room
-  Updated: 2025-12-10T07:53:00Z
+  Updated: 2025-12-12T17:45:38Z
   Vendor: HomeRoots
   Product Type: Sculptures
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383744_1.jpg?v=1765309969
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383744_1.jpg?v=1765518336
   - [Medium / White](https://modterrahome.com/products/white-medium-pear-shaped-aluminum-accent-home-decor?variant=52045900611893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383744_1.jpg?v=1765309969
+    Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383744_1.jpg?v=1765518336
     Price: $59.99 USD
   - [Extra Large / White](https://modterrahome.com/products/white-medium-pear-shaped-aluminum-accent-home-decor?variant=52045900644661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/383754_1.jpg?v=1765309969
     Price: $151.99 USD
 - [White Petite Rustic Wooden Lighthouse](https://modterrahome.com/products/white-petite-rustic-wooden-lighthouse): With this White Petite Rustic Wooden Lighthouse Decor Piece you can bring in the perfect beachy element to your home decor. This distressed wooden decor piece is shaped like a smaller lighthouse. The lower part of this piece is longer and has four small vertical windows in it. The upper part is smaller and have four windows in a square pattern. The tops of both of these parts is colored in a brown color and adds a rustic touch to the whole piece. You can use this decor piece in any room in your home as the neutral colors will work with any interior decor style you have. 10" H x 3" W x 3" D Details GTIN (UPC/EAN): 808230025516 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 4.00 W x 4.00 D x 11.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: Yes Item Height: 10.00 Inches Item Width: 3.00 Inches Item Depth: 3.00 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 11.00 Shipping Width Carton 1: 4.00 Shipping Depth Carton 1: 4.00 Additional attributes Animals Not an animal Manufacturing Type Machine-Made Sculpture Type Tabletop Sculpture Number of Pieces in the Set 1 Subject Structures and buildings Material Metal Color Brown Style contemporary Country Of Manufacture China Room Living Room
   Updated: 2025-12-10T07:52:58Z
@@ -1756,11 +1755,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/399646_1_1000x1000_f7210733-580d-426f-9167-16164c892ff3.jpg?v=1765309979
   Price: $30.99 USD
 - [Wall-E Robot Coin Bank Sculpture](https://modterrahome.com/products/wall-e-robot-coin-bank-sculpture): harming and eye-catching, the Wall-E Robot Coin Bank Sculpture is a unique handmade replica of the popular Disney character and Hal, his cockroach friend. It also motivates money-saving since Wall-E doubles as a coin bank. It is a beautiful and practical gift for all Wall-E fans. 9" x 8" x 6" Details GTIN (UPC/EAN): 606114002130 Shipping Weight: 3.45 Pounds Shipping Size (Inches.): 10.00 W x 12.00 D x 10.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 9.00 Inches Item Width: 8.00 Inches Item Depth: 6.00 Inches Item Weight: 2.35 Pounds Shipping Weight Carton 1: 3.45 Shipping Height Carton 1: 10.00 Shipping Width Carton 1: 10.00 Shipping Depth Carton 1: 12.00 Additional attributes Hand Painted Yes Manufacturing Type Handmade Sculpture Type Figurine Number of Pieces in the Set 1 Subject Entertainment Material Metal Color Yellow Style contemporary Country Of Manufacture Viet Nam Room Living Room
-  Updated: 2025-12-10T07:55:03Z
+  Updated: 2025-12-11T18:00:26Z
   Vendor: HomeRoots
   Product Type: Sculptures
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/401140_1_1000x1000_f65a5012-2ef2-4396-93bd-11e215f73bf6.jpg?v=1765345636
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/401140_1_1000x1000_49bb0422-a988-4b1c-aaae-d927b853a82f.jpg?v=1765432822
   Price: $189.99 USD
 - [Set of Two Brown Wood Classic Round Drawer Pull Knobs](https://modterrahome.com/products/set-of-two-brown-wood-classic-round-drawer-pull-knobs): Upgrade your space with a high end look with this set of two brown wood round drawer pull knobs. Each knob features a generous 2-inch diameter, providing a substantial grip for ease of use. Crafted from durable solid teak wood that is durable and able to withstand humidity and moisture, making them a great option for the bathroom or kitchen. These classically shaped round knobs will add a touch of timeless elegance to your space. The clean and modern minimalist design compliments a variety of styles and will be a great decorative addition to your cabinets, drawers, or favorite furniture piece. 1-inch h x 2-inch w x 2-inch d. Details GTIN (UPC/EAN): 880016511284 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 8.00 W x 5.00 D x 4.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 1.00 Inches Item Width: 2.00 Inches Item Depth: 2.00 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 4.00 Shipping Width Carton 1: 8.00 Shipping Depth Carton 1: 5.00 Additional attributes Knob Shape Round Knob Number of Knobs 2 Primary Material Wood Screws Included Yes Theme Nautical Color Brown Style Transitional Country Of Manufacture Thailand Room Bathroom
   Updated: 2025-12-10T07:53:39Z
@@ -1777,11 +1776,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/476577_6_BgPcPpeG_1000x1000_05353036-f81c-4d56-a0b2-d4b00ceac380.jpg?v=1765310015
   Price: $14.99 USD
 - [Set of Two Brown Wood Recessed Round Drawer Pull Knobs](https://modterrahome.com/products/set-of-two-brown-wood-recessed-round-drawer-pull-knobs): Transform your space quickly and easily with this set of two brown wood recessed round drawer pull knobs. Made from durable solid teak wood, these round knobs add a touch of elegance to your furniture. Embracing a nautical theme, they evoke a sense of coastal charm while maintaining a classic traditional style. Crafted from durable solid teak wood that is durable and able to withstand humidity and moisture, making them a great option for the bathroom or kitchen. Enhance your home decor with this simple yet effective hardware upgrade. 0.38-inch h x 1.38-inch w x 1.38-inch d. Details GTIN (UPC/EAN): 880016720723 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 8.00 W x 5.00 D x 4.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 0.38 Inches Item Width: 1.38 Inches Item Depth: 1.38 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 4.00 Shipping Width Carton 1: 8.00 Shipping Depth Carton 1: 5.00 Additional attributes Knob Shape Round Knob Number of Knobs 2 Primary Material Wood Theme Nautical Color Brown Style Transitional Country Of Manufacture Thailand Room Bathroom
-  Updated: 2025-12-10T07:53:43Z
+  Updated: 2025-12-11T18:00:29Z
   Vendor: HomeRoots
   Product Type: Knobs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/476578_8_zWLO3x6Z_1000x1000_70ecedb7-784c-42c3-bd67-9ce19f082ba1.jpg?v=1765310017
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/476578_1_1000x1000_63398e06-201a-475b-80e1-d2f77e215a27.jpg?v=1765432824
   Price: $10.99 USD
 - [Set of Two Brown Wood Square Drawer Pull Knobs](https://modterrahome.com/products/set-of-two-brown-wood-square-drawer-pull-knobs): Upgrade your space with a high end look with this set of two brown wood square drawer pull knobs. Improve the look of your old boring or builder grade furniture and cabinetry with these high quality square knobs. Crafted from durable solid teak wood that is durable and able to withstand humidity and moisture, making them a great option for the bathroom or kitchen. These square knobs bring a touch of simple and refined elegance to your decor. Each knob comes with screws included for easy installation, making it a hassle-free upgrade for your furniture and cabinetry. 1-inch h x 1.13-inch w x 1.13-inch d. Details GTIN (UPC/EAN): 880016737417 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 8.00 W x 5.00 D x 4.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 1.00 Inches Item Width: 1.13 Inches Item Depth: 1.13 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 4.00 Shipping Width Carton 1: 8.00 Shipping Depth Carton 1: 5.00 Additional attributes Knob Shape Square Knob Number of Knobs 2 Primary Material Wood Screws Included Yes Theme Nautical Color Brown Style Traditional Country Of Manufacture Thailand Room Bathroom
   Updated: 2025-12-10T07:53:46Z
@@ -1819,11 +1818,11 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/476583_8_DrID16qW_1000x1000_77b84299-3dbe-4fa4-a3fe-440f082a87b7.jpg?v=1765310027
   Price: $14.99 USD
 - [Set of Two Brown Wood Round Open Circle Drawer Pull Knobs](https://modterrahome.com/products/set-of-two-brown-wood-round-open-circle-drawer-pull-knobs): Upgrade your space with a high end look with this set of two brown wood round open circle drawer pull knobs. Crafted from durable solid teak wood that is sturdy and able to withstand humidity and moisture, making them a great option for the bathroom or kitchen. These classically shaped round knobs will add a touch of timeless elegance to your space. The clean and modern minimalist design compliments a variety of styles and will be a great decorative addition to your cabinets, drawers, or favorite furniture piece. 1-inch h x 1.25-inch w x 1-inch d. Details GTIN (UPC/EAN): 880016583663 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 8.00 W x 5.00 D x 4.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 1.00 Inches Item Width: 1.25 Inches Item Depth: 1.00 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 4.00 Shipping Width Carton 1: 8.00 Shipping Depth Carton 1: 5.00 Additional attributes Knob Diameter 1.25 Knob Shape Round Knob Number of Knobs 2 Primary Material Wood Theme Nautical Color Brown Style Traditional Country Of Manufacture Thailand Room Bathroom
-  Updated: 2025-12-10T07:53:54Z
+  Updated: 2025-12-11T18:00:37Z
   Vendor: HomeRoots
   Product Type: Knobs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/476585_7_QBqKMrXz_1000x1000_b91d441c-20d2-45de-a0dd-bd4ca17a16d4.jpg?v=1765310028
+  Image: https://cdn.shopify.com/s/files/1/0975/2323/7173/files/476585_1_1000x1000_6d2120e5-e55b-40d3-a9d9-169bd90419ec.jpg?v=1765432827
   Price: $10.99 USD
 - [Set of Two Brown Wood Oval Drawer Pull Knobs](https://modterrahome.com/products/set-of-two-brown-wood-oval-drawer-pull-knobs): Upgrade your space with a high end look with this set of two brown wood oval drawer pull knobs. A favorite of designers and diyer's alike, these high quality oval knob traditional style knobs are versatile in use and will change up the look of your existing furniture and cabinetry in a snap. Crafted from durable solid teak wood that is durable and able to withstand humidity and moisture, making them a great option for the bathroom or kitchen. 0.32-inch h x 4-inch w x 1-inch d. Details GTIN (UPC/EAN): 880016583229 Shipping Weight: 1.00 Pounds Shipping Size (Inches.): 8.00 W x 5.00 D x 4.00 H Number Of Cartons: 1 Shipping Method: Parcel Ship Palletized: No Item Height: 0.32 Inches Item Width: 4.00 Inches Item Depth: 1.00 Inches Item Weight: 1.00 Pounds Shipping Weight Carton 1: 1.00 Shipping Height Carton 1: 4.00 Shipping Width Carton 1: 8.00 Shipping Depth Carton 1: 5.00 Additional attributes Knob Shape Oval Knob Number of Knobs 2 Primary Material Wood Screws Included Yes Theme Nautical Color Brown Style Traditional Country Of Manufacture Thailand Room Bathroom
   Updated: 2025-12-10T07:53:57Z
@@ -1878,9 +1877,6 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
 - [Wall Mounted Shelves - Floating & Bracket Shelving - Modterra Home](https://modterrahome.com/collections/wall-mounted-shelves): Shop wall mounted shelves at Modterra Home. Floating & bracket designs in solid wood & metal. Single & multi-tier options.
   Updated: 2025-12-08T22:37:59Z
   Total Products: 4
-- [Bathroom Cabinets & Shelving - Storage Solutions - Modterra](https://modterrahome.com/collections/bathroom-cabinets-shelving): Shop bathroom cabinets & shelving at Modterra Home. Wall-mounted & freestanding storage in modern & traditional styles. Moisture-resistant.
-  Updated: 2025-12-08T21:18:50Z
-  Total Products: 0
 - [Blanket Racks & Ladders - Decorative Storage - Modterra Home](https://modterrahome.com/collections/blanket-racks-and-ladders): Shop blanket racks & ladders at Modterra Home. Leaning & wall-mounted designs in wood & metal. 3-rung to 6-rung options.
   Updated: 2025-12-08T22:06:19Z
   Total Products: 3
@@ -1908,9 +1904,6 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
 - [Bedroom Furniture & Decor - Premium Modern Designs - Modterra Home](https://modterrahome.com/collections/bedroom): Shop bedroom furniture & decor at Modterra Home. Premium beds, dressers, nightstands, mattresses & bedding for warm-modern interiors.
   Updated: 2025-12-08T22:45:08Z
   Total Products: 0
-- [Bathroom Furniture & Accessories - Modern Designs - Modterra Home](https://modterrahome.com/collections/bathroom-furniture-accessories): Shop bathroom furniture & accessories at Modterra Home. Premium vanities, storage, towels & bath essentials for warm-modern interiors.
-  Updated: 2025-12-08T22:58:01Z
-  Total Products: 0
 - [Mirrors - Wall, Floor & Decorative Designs - Modterra Home](https://modterrahome.com/collections/mirrors): Shop mirrors at Modterra Home. Wall-mounted & floor designs in round, rectangular & arched shapes. Framed & frameless options.
   Updated: 2025-12-10T04:56:30Z
   Total Products: 10
@@ -1930,7 +1923,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:56:03Z
   Total Products: 10
 - [Dog Beds - Comfortable Pet Sleeping Solutions - Modterra Home](https://modterrahome.com/collections/dog-beds): Shop dog beds at Modterra Home. Plush & orthopedic designs in bolster, pillow & mat styles. Machine washable covers in all sizes.
-  Updated: 2025-12-10T04:55:55Z
+  Updated: 2025-12-11T17:06:01Z
   Total Products: 9
 - [Shower Curtains - Fabric & Waterproof Designs - Modterra Home](https://modterrahome.com/collections/shower-curtains): Shop shower curtains at Modterra Home. Fabric & waterproof options in modern patterns & solid colors. Machine washable.
   Updated: 2025-12-10T04:21:18Z
@@ -1945,8 +1938,8 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:55:40Z
   Total Products: 10
 - [Mattress Toppers - Memory Foam & Gel Comfort - Modterra Home](https://modterrahome.com/collections/mattress-toppers): Shop mattress toppers at Modterra Home. Memory foam & gel-infused designs add plush comfort & pressure relief. Multiple thickness options.
-  Updated: 2025-12-10T04:55:33Z
-  Total Products: 3
+  Updated: 2025-12-11T21:51:15Z
+  Total Products: 0
 - [Bunk Beds for Kids & Adults - Modern Designs - Modterra Home](https://modterrahome.com/collections/bunk-beds): Shop bunk beds at Modterra Home. Space-saving designs with solid construction for kids & adults. Modern & traditional styles.
   Updated: 2025-12-10T04:21:31Z
   Total Products: 20
@@ -1990,13 +1983,13 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:55:23Z
   Total Products: 10
 - [Area Rugs - Modern & Traditional Designs - Modterra Home](https://modterrahome.com/collections/area-rugs): Shop area rugs at Modterra Home. Modern & traditional designs in plush, flatweave & shag textures. Multiple sizes for every room.
-  Updated: 2025-12-10T04:20:32Z
+  Updated: 2025-12-11T17:06:01Z
   Total Products: 20
 - [Wall Decor - Art, Mirrors & Decorative Accents - Modterra Home](https://modterrahome.com/collections/wall-decor): Shop wall decor at Modterra Home. Art, mirrors, sculptures & shelves for warm-modern interiors. Living room, bedroom & entryway designs.
   Updated: 2025-12-10T04:20:24Z
   Total Products: 9
 - [Room Dividers - Folding & Panel Screens - Modterra Home](https://modterrahome.com/collections/room-dividers): Shop room dividers at Modterra Home. Folding & panel screens in wood, fabric & metal. 3-panel to 6-panel freestanding designs.
-  Updated: 2025-12-10T04:20:08Z
+  Updated: 2025-12-11T17:06:01Z
   Total Products: 10
 - [Vases - Decorative & Floral Display Designs - Modterra Home](https://modterrahome.com/collections/vases): Shop vases at Modterra Home. Ceramic, glass & metal designs for floor & tabletop display. Modern & traditional styles in multiple sizes.
   Updated: 2025-12-10T04:54:55Z
@@ -2023,8 +2016,8 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:19:42Z
   Total Products: 10
 - [Sculptures](https://modterrahome.com/collections/sculptures)
-  Updated: 2025-12-10T04:19:31Z
-  Total Products: 9
+  Updated: 2025-12-12T05:45:39Z
+  Total Products: 10
 - [Knobs](https://modterrahome.com/collections/knobs)
   Updated: 2025-12-10T04:19:24Z
   Total Products: 10
@@ -2038,7 +2031,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:19:12Z
   Total Products: 4
 - [Wall Clocks](https://modterrahome.com/collections/wall-clocks)
-  Updated: 2025-12-10T04:19:09Z
+  Updated: 2025-12-12T05:45:39Z
   Total Products: 10
 - [Curtains and Drapes](https://modterrahome.com/collections/curtains-and-drapes)
   Updated: 2025-12-10T04:19:01Z
@@ -2047,7 +2040,7 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:18:04Z
   Total Products: 10
 - [Rug Pads](https://modterrahome.com/collections/rug-pads)
-  Updated: 2025-12-10T04:18:53Z
+  Updated: 2025-12-11T14:00:58Z
   Total Products: 7
 - [Christmas Ornaments](https://modterrahome.com/collections/christmas-ornaments)
   Updated: 2025-12-10T04:18:48Z
@@ -2071,26 +2064,26 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
   Updated: 2025-12-10T04:54:25Z
   Total Products: 10
 - [Doormats](https://modterrahome.com/collections/doormats)
-  Updated: 2025-12-10T04:54:38Z
+  Updated: 2025-12-11T01:06:50Z
   Total Products: 10
 - [Wall Panels](https://modterrahome.com/collections/wall-panels-1)
   Updated: 2025-12-10T04:54:31Z
   Total Products: 8
 - [Doors](https://modterrahome.com/collections/doors)
-  Updated: 2025-12-10T04:18:13Z
+  Updated: 2025-12-11T09:08:07Z
   Total Products: 10
 - [DIY](https://modterrahome.com/collections/diy)
-  Updated: 2025-12-10T04:18:20Z
+  Updated: 2025-12-11T09:08:07Z
   Total Products: 20
 - [Holiday](https://modterrahome.com/collections/holiday)
   Updated: 2025-12-10T04:18:48Z
   Total Products: 30
-- [Candles](https://modterrahome.com/collections/candles-1)
-  Updated: 2025-12-10T04:19:42Z
+- [Candles & Holders](https://modterrahome.com/collections/candles-1)
+  Updated: 2025-12-12T18:57:23Z
   Total Products: 20
 - [Cabinets](https://modterrahome.com/collections/cabinets)
-  Updated: 2025-12-10T22:22:44Z
-  Total Products: 0
+  Updated: 2025-12-12T18:00:47Z
+  Total Products: 10
 - [Fire Pit Accessories](https://modterrahome.com/collections/fire-pit-accessories)
   Updated: 2025-12-10T23:25:36Z
   Total Products: 0
@@ -2112,6 +2105,162 @@ Thank you for indexing Modterra Home. For press, partnerships, or data questions
 - [Outdoor Hanging Lights](https://modterrahome.com/collections/outdoor-hanging-lights)
   Updated: 2025-12-10T23:28:08Z
   Total Products: 0
+- [Dining Sets](https://modterrahome.com/collections/dining-sets)
+  Updated: 2025-12-12T18:00:38Z
+  Total Products: 10
+- [Kitchen Carts-Islands](https://modterrahome.com/collections/kitchen-carts-islands)
+  Updated: 2025-12-12T18:00:29Z
+  Total Products: 10
+- [Kitchen Trays](https://modterrahome.com/collections/kitchen-trays)
+  Updated: 2025-12-12T18:00:19Z
+  Total Products: 10
+- [Seat Cushions](https://modterrahome.com/collections/seat-cushions)
+  Updated: 2025-12-12T18:00:10Z
+  Total Products: 10
+- [Dining Chairs](https://modterrahome.com/collections/dining-chairs)
+  Updated: 2025-12-12T18:00:01Z
+  Total Products: 10
+- [Dining Linens](https://modterrahome.com/collections/dining-linens)
+  Updated: 2025-12-12T17:59:53Z
+  Total Products: 8
+- [Barware and Drinkware](https://modterrahome.com/collections/barware-and-drinkware)
+  Updated: 2025-12-12T17:59:46Z
+  Total Products: 10
+- [Dinnerware](https://modterrahome.com/collections/dinnerware)
+  Updated: 2025-12-12T17:59:38Z
+  Total Products: 10
+- [Flatware](https://modterrahome.com/collections/flatware)
+  Updated: 2025-12-12T17:59:29Z
+  Total Products: 10
+- [Dining Tables](https://modterrahome.com/collections/dining-tables)
+  Updated: 2025-12-12T17:59:11Z
+  Total Products: 9
+- [Serving Bowls](https://modterrahome.com/collections/serving-bowls)
+  Updated: 2025-12-12T17:59:20Z
+  Total Products: 10
+- [Kitchen Accessories](https://modterrahome.com/collections/kitchen-accessories)
+  Updated: 2025-12-12T17:59:03Z
+  Total Products: 10
+- [Pantry Cabinets](https://modterrahome.com/collections/pantry-cabinets)
+  Updated: 2025-12-12T17:58:51Z
+  Total Products: 10
+- [Sideboards](https://modterrahome.com/collections/sideboards)
+  Updated: 2025-12-12T17:58:43Z
+  Total Products: 10
+- [Bar Carts and Servers](https://modterrahome.com/collections/bar-carts-and-servers)
+  Updated: 2025-12-12T17:58:34Z
+  Total Products: 10
+- [Kitchen & Utility Sinks](https://modterrahome.com/collections/kitchen-utility-sinks)
+  Updated: 2025-12-12T17:58:25Z
+  Total Products: 2
+- [Kitchen & Dining Rooms](https://modterrahome.com/collections/kitchen-dining-rooms)
+  Updated: 2025-12-11T21:16:20Z
+  Total Products: 0
+- [Outdoors](https://modterrahome.com/collections/outdoors)
+  Updated: 2025-12-11T21:17:43Z
+  Total Products: 0
+- [Bathroom Furniture & Accessories](https://modterrahome.com/collections/bathroom-furniture-accessories-copy)
+  Updated: 2025-12-12T22:21:05Z
+  Total Products: 62
+- [Bedroom Beds & Essentials](https://modterrahome.com/collections/bedroom-beds-essentials)
+  Updated: 2025-12-12T18:47:25Z
+  Total Products: 172
+- [Bedroom & Bathroom Collections](https://modterrahome.com/collections/bedroom-bathroom-collections)
+  Updated: 2025-12-12T02:29:05Z
+  Total Products: 201
+- [Living Room Ottomans](https://modterrahome.com/collections/living-room-ottomans)
+  Updated: 2025-12-12T22:28:22Z
+  Total Products: 10
+- [TV Stands](https://modterrahome.com/collections/tv-stands)
+  Updated: 2025-12-12T22:28:12Z
+  Total Products: 10
+- [Recliners](https://modterrahome.com/collections/recliners)
+  Updated: 2025-12-12T22:27:29Z
+  Total Products: 10
+- [Rocking Chairs](https://modterrahome.com/collections/rocking-chairs)
+  Updated: 2025-12-12T17:01:24Z
+  Total Products: 0
+- [Accent Chairs](https://modterrahome.com/collections/accent-chairs)
+  Updated: 2025-12-12T22:28:03Z
+  Total Products: 10
+- [Bar Chairs](https://modterrahome.com/collections/bar-chairs)
+  Updated: 2025-12-12T22:27:54Z
+  Total Products: 10
+- [Coffee Tables](https://modterrahome.com/collections/coffee-tables)
+  Updated: 2025-12-12T22:29:21Z
+  Total Products: 12
+- [Floor Chairs](https://modterrahome.com/collections/floor-chairs)
+  Updated: 2025-12-12T22:27:44Z
+  Total Products: 1
+- [End-Side Tables](https://modterrahome.com/collections/end-side-tables)
+  Updated: 2025-12-12T22:29:12Z
+  Total Products: 10
+- [Tray Tables](https://modterrahome.com/collections/tray-tables)
+  Updated: 2025-12-12T22:29:00Z
+  Total Products: 8
+- [Vanity Tables](https://modterrahome.com/collections/vanity-tables)
+  Updated: 2025-12-12T22:28:51Z
+  Total Products: 8
+- [Sofas](https://modterrahome.com/collections/sofas)
+  Updated: 2025-12-12T22:27:20Z
+  Total Products: 10
+- [Love Seats](https://modterrahome.com/collections/love-seats)
+  Updated: 2025-12-12T22:51:40Z
+  Total Products: 3
+- [Seating Sets](https://modterrahome.com/collections/seating-sets)
+  Updated: 2025-12-12T22:27:11Z
+  Total Products: 10
+- [Sectionals](https://modterrahome.com/collections/sectionals)
+  Updated: 2025-12-12T22:27:01Z
+  Total Products: 10
+- [Console Tables](https://modterrahome.com/collections/console-tables)
+  Updated: 2025-12-12T22:28:44Z
+  Total Products: 10
+- [Living Room Benches](https://modterrahome.com/collections/living-room-benches)
+  Updated: 2025-12-12T22:26:52Z
+  Total Products: 10
+- [Kids Chairs](https://modterrahome.com/collections/kids-chairs)
+  Updated: 2025-12-12T22:27:43Z
+  Total Products: 10
+- [Bar & Restaurant Tables](https://modterrahome.com/collections/bar-restaurant-tables)
+  Updated: 2025-12-12T22:28:34Z
+  Total Products: 10
+- [Living Room Furniture Set](https://modterrahome.com/collections/living-room-furniture-set)
+  Updated: 2025-12-12T17:14:23Z
+  Total Products: 0
+- [Game Tables](https://modterrahome.com/collections/game-tables)
+  Updated: 2025-12-12T22:28:25Z
+  Total Products: 4
+- [Living Room Ladders](https://modterrahome.com/collections/living-room-ladders)
+  Updated: 2025-12-12T22:26:41Z
+  Total Products: 1
+- [Living Room Collections](https://modterrahome.com/collections/living-room-collections)
+  Updated: 2025-12-12T22:29:21Z
+  Total Products: 196
+- [Kitchen & Dining Room Collections](https://modterrahome.com/collections/kitchen-dining-room-collections)
+  Updated: 2025-12-12T18:00:38Z
+  Total Products: 129
+- [Kitchen Essentials](https://modterrahome.com/collections/kitchen-essentials-1)
+  Updated: 2025-12-12T18:00:47Z
+  Total Products: 113
+- [Dining Room](https://modterrahome.com/collections/dining-room)
+  Updated: 2025-12-12T18:00:38Z
+  Total Products: 47
+- [Home Decor](https://modterrahome.com/collections/home-decor)
+  Updated: 2025-12-12T18:42:26Z
+  Total Products: 157
+- [Home Rugs](https://modterrahome.com/collections/home-rugs)
+  Updated: 2025-12-12T19:02:08Z
+  Total Products: 27
+- [Indoor Plants & Planters](https://modterrahome.com/collections/indoor-plants-planters)
+  Updated: 2025-12-12T19:12:29Z
+  Total Products: 20
+- [Bar](https://modterrahome.com/collections/bar)
+  Updated: 2025-12-12T21:13:11Z
+  Total Products: 20
+- [Living Room Furniture](https://modterrahome.com/collections/living-room-furniture)
+  Updated: 2025-12-12T22:54:04Z
+  Total Products: 136
 
 ## Blogs
 
