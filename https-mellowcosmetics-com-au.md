@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-12T00:00:20.088Z
+- Updated At: 2025-12-13T00:00:20.741Z
 
 ## Products
 
@@ -511,7 +511,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/TAHITIedit.jpg?v=1596168754
   Price: $24.00 AUD
 - [Glamorous makeup bundle > Mellow Muse Bundle](https://mellowcosmetics.com.au/products/mellow-muse-bundle): Glamorous makeup bundle. Includes: makeup essentials: Glitter Eyeshadow, Liquid Lip Paint, Lip Pencil, Pink Blush, Eyeshadow Quad. This makeup bundle is the perfect gift for any makeup lover!
-  Updated: 2025-12-11T21:55:23Z
+  Updated: 2025-12-12T16:20:15Z
   Vendor: Mellow Cosmetics
   Product Type: makeup
   Availability: Available
