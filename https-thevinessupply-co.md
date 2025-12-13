@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-13T04:00:37.229Z
+- Updated At: 2025-12-13T08:00:37.213Z
 
 ## Products
 
@@ -712,7 +712,7 @@
     Availability: Available
     Price: £64.95 GBP
 - [New Balance Numeric Tiago Lemos 808 Skate Shoes | White, Blue & Black](https://thevinessupply.co/products/new-balance-numeric-tiago-lemos-808-skate-shoes-white-blue-black): Buy the New Balance Numeric Tiago Lemos 808 in white, blue and black at The Vines Supply Co Skate Shop in Solihull.
-  Updated: 2025-12-10T15:23:27Z
+  Updated: 2025-12-13T05:02:11Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
