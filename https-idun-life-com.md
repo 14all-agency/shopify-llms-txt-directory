@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-01-13T11:56:16Z
 - Contact Email: hello@idun-life.com
-- Updated At: 2025-12-08T00:00:21.559Z
+- Updated At: 2025-12-13T00:00:30.548Z
 
 ## Products
 
-- [IdunLife Liposomal Resveratrol - Liquid High Absorption - 250ml](https://idun-life.com/products/liposomal-resveratrol-250ml): 250 ml liquid liposomal trans – resveratrol supplement. Derived from the root of the Japanese knotweed. High Absorption. Premium quality, manufactured in Germany. Free of allergens, vegan and organic. Resveratrol is a powerful, naturally occurring antioxidant that has long been studied for its longevity and health benefits.
-  Updated: 2025-12-04T05:23:03Z
+- [IdunLife Liposomal Resveratrol - Liquid High Absorption - 250ml](https://idun-life.com/products/liposomal-resveratrol-250ml): Idun Life Liposomal Resveratrol 250 ml is a premium liquid antioxidant supplement designed for high absorption. It delivers trans-resveratrol extracted from Japanese Knotweed root, supported by an advanced liposomal delivery system to improve bioavailability compared with standard capsules or powders. This supplement is ideal for people looking for cardiovascular support, healthy aging benefits, and powerful antioxidant protection. Each 250 ml bottle provides a convenient daily dose; take 5 ml once or twice per day and shake well before use. The formula includes purified water, glycerol, phospholipids, trans-resveratrol, apple acid, and rosemary extract, with no unnecessary additives. Made in Germany under strict quality standards, this liquid format allows for better uptake than dried supplements. Tested for PAH and Emodin to ensure safe levels. Store in a cool, dry place away from direct sunlight. Do not exceed the recommended dose. Not suitable for pregnant or breastfeeding women. This is a dietary supplement and should not replace a balanced lifestyle.
+  Updated: 2025-12-10T10:47:32Z
   Vendor: IDUN
   Product Type: 
   Availability: Available
