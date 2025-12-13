@@ -26,7 +26,7 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
 - Timezone: Europe/Paris
 - Created At: 2024-08-29T09:25:50Z
 - Contact Email: sav@mylittledeen.com
-- Updated At: 2025-12-13T16:56:57.291Z
+- Updated At: 2025-12-13T17:00:02.624Z
 
 ## Products
 
