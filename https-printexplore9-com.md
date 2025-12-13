@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-12-04T00:00:35.129Z
+- Updated At: 2025-12-13T17:14:28.009Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -278,32 +278,32 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Scented_Soy_Candle_pink_flowers.jpg?v=1759081823
   Price: $18.65 USD
 - [Cosmic Bloom Men’s Garment Dyed Cotton T-Shirt](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore): Stay comfortable and stylish in the Cosmic Bloom garment dyed cotton tee with a vibrant purple fractal design relaxed fit and pre-shrunk fabric for lasting shape.
-  Updated: 2025-11-09T06:27:45Z
+  Updated: 2025-12-07T10:30:27Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-5.jpg?v=1759081487
   - [Black / S](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716436235)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
   - [Black / M](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716501771)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
   - [Black / L](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716567307)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
   - [Black / XL](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716600075)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
   - [Ivory / S](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716469003)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
   - [Ivory / M](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716534539)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
   - [Ivory / XL](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716632843)
     Availability: Available
-    Price: $26.95 USD
+    Price: $29.95 USD
 - [Phone Case](https://printexplore9.com/products/tough-cases-print-explore-1): Shield your phone in style with a  pink heart design dual-layer protection sleek glossy or matte. precise cutouts wireless charging.
   Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
@@ -317,14 +317,14 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $23.88 USD
 - [Spacious & Durable Weekender Tote](https://printexplore9.com/products/weekender-bag-print-explore): Escape in style with this spacious blue floral Weekender Tote—durable, comfy, and chic. Your perfect travel companion awaits!
-  Updated: 2025-10-12T09:54:41Z
+  Updated: 2025-12-07T10:32:33Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/weekender-bag-Blue_Flowers.jpg?v=1759081942
-  Price: $39.95 USD
+  Price: $49.95 USD
 - [Vibrant & Stylish Phone Case – Colorful Grace](https://printexplore9.com/products/tough-cases-print-explore-2): Keep your iPhone safe and stylish with the Colorful Grace Tough Case. Vibrant colors, premium durability, and a perfect fit.
-  Updated: 2025-10-16T00:09:02Z
+  Updated: 2025-12-08T07:00:50Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -360,11 +360,11 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $29.95 USD
 - [Floral Scented Soy Candle](https://printexplore9.com/products/scented-soy-candle-9oz-print-explore-2): Experience pure bliss with our floral soy candle—natural wax |long burn |cotton wick, stylish jar and 5 refreshing scents to uplift your space!
-  Updated: 2025-10-12T09:52:46Z
+  Updated: 2025-12-11T13:46:32Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Scented_Soy_Candle.jpg?v=1759081817
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Scented_Soy_Candle.jpg?v=1765460791
   Price: $18.65 USD
 - [Ceramic Mug- inspirational](https://printexplore9.com/products/ceramic-mug-inspirational-11oz-print-explore): Kickstart your day with our vibrant “Wake Up and Smell the Coffee” mug—durable, safe, and made for your perfect cozy moment!
   Updated: 2025-10-12T09:52:46Z
@@ -1241,118 +1241,118 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Daily_Moisturizer.jpg?v=1759081847
   Price: $21.88 USD
-- [Adidas® Unisex Sport T-Shirt | Breathable Moisture-Wicking](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore): this adidas® Unisex Sport T-shirt offers comfort and breathability. Made with moisture-wicking fabric to keep you dry. ideal for workouts.
-  Updated: 2025-10-17T11:41:27Z
+- [Premium Unisex Sport T-Shirt | Breathable Moisture-Wicking](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore): This premium Unisex Sport T-shirt offers comfort and breathability. Made with moisture-wicking fabric to keep you dry. ideal for workouts.
+  Updated: 2025-12-08T04:36:22Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Unisex_Sport_T-shirt.jpg?v=1759081790
-  - [Collegiate Navy Heather / S](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541694731)
+  - [Collegiate Navy Heather / S](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541694731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/11824262964027353686_2048.jpg?v=1759081630
-    Price: $54.90 USD
-  - [Collegiate Royal Heather / S](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541727499)
+    Price: $54.95 USD
+  - [Collegiate Royal Heather / S](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541727499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/1429543527841532708_2048.jpg?v=1759081637
-    Price: $54.90 USD
-  - [Grey Three Heather / S](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541760267)
+    Price: $54.95 USD
+  - [Grey Three Heather / S](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541760267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Unisex_Sport_T-shirt.jpg?v=1759081790
-    Price: $54.90 USD
-  - [Power Red Heather / S](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541793035)
+    Price: $54.95 USD
+  - [Power Red Heather / S](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541793035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/16778143074597199383_2048.jpg?v=1759081643
-    Price: $54.90 USD
-  - [White / S](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541825803)
+    Price: $54.95 USD
+  - [White / S](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541825803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $54.90 USD
-  - [Collegiate Navy Heather / M](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541858571)
+  - [Collegiate Navy Heather / M](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541858571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/11824262964027353686_2048.jpg?v=1759081630
-    Price: $54.90 USD
-  - [Collegiate Royal Heather / M](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541891339)
+    Price: $54.95 USD
+  - [Collegiate Royal Heather / M](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541891339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/1429543527841532708_2048.jpg?v=1759081637
-    Price: $54.90 USD
-  - [Grey Three Heather / M](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541924107)
+    Price: $54.95 USD
+  - [Grey Three Heather / M](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541924107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Unisex_Sport_T-shirt.jpg?v=1759081790
-    Price: $54.90 USD
-  - [Power Red Heather / M](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541956875)
+    Price: $54.95 USD
+  - [Power Red Heather / M](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541956875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/16778143074597199383_2048.jpg?v=1759081643
-    Price: $54.90 USD
-  - [White / M](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623541989643)
+    Price: $54.95 USD
+  - [White / M](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623541989643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $54.90 USD
-  - [Collegiate Navy Heather / L](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542022411)
+  - [Collegiate Navy Heather / L](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542022411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/11824262964027353686_2048.jpg?v=1759081630
-    Price: $54.90 USD
-  - [Collegiate Royal Heather / L](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542055179)
+    Price: $54.95 USD
+  - [Collegiate Royal Heather / L](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542055179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/1429543527841532708_2048.jpg?v=1759081637
-    Price: $54.90 USD
-  - [Grey Three Heather / L](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542087947)
+    Price: $54.95 USD
+  - [Grey Three Heather / L](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542087947)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Unisex_Sport_T-shirt.jpg?v=1759081790
-    Price: $54.90 USD
-  - [Power Red Heather / L](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542120715)
+    Price: $54.95 USD
+  - [Power Red Heather / L](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542120715)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/16778143074597199383_2048.jpg?v=1759081643
-    Price: $54.90 USD
-  - [White / L](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542153483)
+    Price: $54.95 USD
+  - [White / L](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542153483)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $54.90 USD
-  - [Grey Three Heather / XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542186251)
+  - [Grey Three Heather / XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542186251)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Unisex_Sport_T-shirt.jpg?v=1759081790
-    Price: $54.90 USD
-  - [Power Red Heather / XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542219019)
+    Price: $54.95 USD
+  - [Power Red Heather / XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542219019)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/16778143074597199383_2048.jpg?v=1759081643
-    Price: $54.90 USD
-  - [White / XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542251787)
+    Price: $54.95 USD
+  - [White / XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542251787)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $54.90 USD
-  - [Collegiate Royal Heather / 2XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542284555)
+  - [Collegiate Royal Heather / 2XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542284555)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/1429543527841532708_2048.jpg?v=1759081637
-    Price: $60.85 USD
-  - [Grey Three Heather / 2XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542317323)
+    Price: $54.95 USD
+  - [Grey Three Heather / 2XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542317323)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Unisex_Sport_T-shirt.jpg?v=1759081790
-    Price: $60.85 USD
-  - [Power Red Heather / 2XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542350091)
+    Price: $54.95 USD
+  - [Power Red Heather / 2XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542350091)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/16778143074597199383_2048.jpg?v=1759081643
-    Price: $60.85 USD
-  - [White / 2XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542382859)
+    Price: $54.95 USD
+  - [White / 2XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542382859)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $60.85 USD
-  - [Collegiate Royal Heather / 3XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542415627)
+  - [Collegiate Royal Heather / 3XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542415627)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/1429543527841532708_2048.jpg?v=1759081637
-    Price: $64.15 USD
-  - [White / 3XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542448395)
+    Price: $54.95 USD
+  - [White / 3XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542448395)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $64.15 USD
-  - [Collegiate Royal Heather / 4XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542481163)
+  - [Collegiate Royal Heather / 4XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542481163)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/1429543527841532708_2048.jpg?v=1759081637
-    Price: $64.15 USD
-  - [White / 4XL](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore?variant=45623542513931)
+    Price: $54.95 USD
+  - [White / 4XL](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore?variant=45623542513931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $64.15 USD
 - [Adidas®  Women's Sports T-Shirt](https://printexplore9.com/products/womens-sports-t-shirt): Shop Adidas®  Unisex Women's Sports T-Shirt for a blend of performance and style. Perfect for any activity. These tees are must-have for your wardrobe.
-  Updated: 2025-10-17T11:39:38Z
+  Updated: 2025-12-08T04:25:19Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1453,270 +1453,270 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_t-shirt_performance_meets_sustainability.jpg?v=1759082379
     Price: $64.15 USD
-- [adidas® Fleece Hoodies - Warm and comfortable wear](https://printexplore9.com/products/adidas-fleece-hoodies): The adidas® Fleece Hoodies keeps you warm on chilly days. ideal for active wear. it has a soft interior and relaxed fit for comfort.
-  Updated: 2025-10-18T03:39:03Z
+- [Premium Fleece Hoodies - Warm and comfortable wear](https://printexplore9.com/products/luxury-fleece-hoodies): Stay warm in elevated comfort with this premium luxury fleece hoodie. Soft interior, relaxed fit, and timeless style — ideal for everyday wear.
+  Updated: 2025-12-08T04:24:09Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
-  - [Black / XS](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300207371)
+  - [Black / XS](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300207371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $73.42 USD
-  - [Collegiate Navy / XS](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300240139)
+  - [Collegiate Navy / XS](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300240139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $73.42 USD
-  - [Red / XS](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300272907)
+  - [Red / XS](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300272907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $73.42 USD
-  - [White / XS](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300305675)
+  - [White / XS](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300305675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $73.42 USD
-  - [Black / S](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300338443)
+  - [Black / S](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300338443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $73.42 USD
-  - [Collegiate Navy / S](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300371211)
+  - [Collegiate Navy / S](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300371211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $73.42 USD
-  - [Red / S](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300403979)
+  - [Red / S](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300403979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $73.42 USD
-  - [White / S](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300436747)
+  - [White / S](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300436747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $73.42 USD
-  - [Black / M](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300469515)
+  - [Black / M](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300469515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $73.42 USD
-  - [Collegiate Navy / M](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300502283)
+  - [Collegiate Navy / M](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300502283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $73.42 USD
-  - [Red / M](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300535051)
+  - [Red / M](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300535051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $73.42 USD
-  - [White / M](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300567819)
+  - [White / M](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300567819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $73.42 USD
-  - [Black / L](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300600587)
+  - [Black / L](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300600587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $73.42 USD
-  - [Collegiate Navy / L](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300633355)
+  - [Collegiate Navy / L](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300633355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $73.42 USD
-  - [Red / L](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300666123)
+  - [Red / L](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300666123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $73.42 USD
-  - [White / L](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300698891)
+  - [White / L](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300698891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $73.42 USD
-  - [Black / XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300731659)
+  - [Black / XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300731659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $73.42 USD
-  - [Collegiate Navy / XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300764427)
+  - [Collegiate Navy / XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300764427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $73.42 USD
-  - [Red / XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300797195)
+  - [Red / XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300797195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $73.42 USD
-  - [White / XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300829963)
+  - [White / XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300829963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $73.42 USD
-  - [Black / 2XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300862731)
+  - [Black / 2XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300862731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $79.37 USD
-  - [Collegiate Navy / 2XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300895499)
+  - [Collegiate Navy / 2XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300895499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $79.37 USD
-  - [Red / 2XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300928267)
+  - [Red / 2XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300928267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $79.37 USD
-  - [White / 2XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300961035)
+  - [White / 2XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300961035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $79.37 USD
-  - [Black / 3XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650300993803)
+  - [Black / 3XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650300993803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $82.67 USD
-  - [Collegiate Navy / 3XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650301026571)
+  - [Collegiate Navy / 3XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650301026571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $82.67 USD
-  - [Red / 3XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650301059339)
+  - [Red / 3XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650301059339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/5819398310757262673_2048.jpg?v=1759082505
     Price: $82.67 USD
-  - [White / 3XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650301092107)
+  - [White / 3XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650301092107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
-  - [Black / 4XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650301124875)
+  - [Black / 4XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650301124875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9792701514927440170_2048.jpg?v=1759082494
     Price: $82.67 USD
-  - [Collegiate Navy / 4XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650301157643)
+  - [Collegiate Navy / 4XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650301157643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/4809530094795735737_2048.jpg?v=1759082499
     Price: $82.67 USD
-  - [White / 4XL](https://printexplore9.com/products/adidas-fleece-hoodies?variant=45650301190411)
+  - [White / 4XL](https://printexplore9.com/products/luxury-fleece-hoodies?variant=45650301190411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
-- [Adidas® Sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt): Adidas® Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
-  Updated: 2025-10-18T02:05:44Z
+- [Premium sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt): Premium Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
+  Updated: 2025-12-11T06:43:04Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-  - [Black / XS](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404306187)
+  - [Black / XS](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404306187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $66.00 USD
-  - [Collegiate Navy / XS](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404338955)
+    Price: $59.46 USD
+  - [Collegiate Navy / XS](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404338955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $66.00 USD
-  - [Red / XS](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404371723)
+    Price: $59.46 USD
+  - [Red / XS](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404371723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $66.00 USD
-  - [White / XS](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404404491)
+    Price: $59.46 USD
+  - [White / XS](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404404491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $66.00 USD
-  - [Black / S](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404437259)
+    Price: $59.46 USD
+  - [Black / S](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404437259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $66.00 USD
-  - [Collegiate Navy / S](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404470027)
+    Price: $59.46 USD
+  - [Collegiate Navy / S](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404470027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $66.00 USD
-  - [Red / S](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404502795)
+    Price: $59.46 USD
+  - [Red / S](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404502795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $66.00 USD
-  - [White / S](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404535563)
+    Price: $59.46 USD
+  - [White / S](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404535563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $66.00 USD
-  - [Black / M](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404568331)
+    Price: $59.46 USD
+  - [Black / M](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404568331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $66.00 USD
-  - [Collegiate Navy / M](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404601099)
+    Price: $59.46 USD
+  - [Collegiate Navy / M](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404601099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $66.00 USD
-  - [Red / M](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404633867)
+    Price: $59.46 USD
+  - [Red / M](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404633867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $66.00 USD
-  - [White / M](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404666635)
+    Price: $59.46 USD
+  - [White / M](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404666635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $66.00 USD
-  - [Black / L](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404699403)
+    Price: $59.46 USD
+  - [Black / L](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404699403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $66.00 USD
-  - [Collegiate Navy / L](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404732171)
+    Price: $59.46 USD
+  - [Collegiate Navy / L](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404732171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $66.00 USD
-  - [Red / L](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404764939)
+    Price: $59.46 USD
+  - [Red / L](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404764939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $66.00 USD
-  - [White / L](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404797707)
+    Price: $59.46 USD
+  - [White / L](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404797707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $66.00 USD
-  - [Black / XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404830475)
+    Price: $59.46 USD
+  - [Black / XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404830475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $66.00 USD
-  - [Collegiate Navy / XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404863243)
+    Price: $59.46 USD
+  - [Collegiate Navy / XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404863243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $66.00 USD
-  - [Red / XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404896011)
+    Price: $59.46 USD
+  - [Red / XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404896011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $66.00 USD
-  - [White / XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404928779)
+    Price: $59.46 USD
+  - [White / XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404928779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $66.00 USD
-  - [Black / 2XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404961547)
+    Price: $59.46 USD
+  - [Black / 2XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404961547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $71.95 USD
-  - [Collegiate Navy / 2XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652404994315)
+    Price: $59.46 USD
+  - [Collegiate Navy / 2XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652404994315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $71.95 USD
-  - [Red / 2XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405027083)
+    Price: $59.46 USD
+  - [Red / 2XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405027083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $71.95 USD
-  - [White / 2XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405059851)
+    Price: $59.46 USD
+  - [White / 2XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405059851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $71.95 USD
-  - [Black / 3XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405092619)
+    Price: $59.46 USD
+  - [Black / 3XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405092619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $75.27 USD
-  - [Collegiate Navy / 3XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405125387)
+    Price: $59.46 USD
+  - [Collegiate Navy / 3XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405125387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $75.27 USD
-  - [Red / 3XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405158155)
+    Price: $59.46 USD
+  - [Red / 3XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405158155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $75.27 USD
-  - [White / 3XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405190923)
+    Price: $59.46 USD
+  - [White / 3XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405190923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $75.27 USD
-  - [Black / 4XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405223691)
+    Price: $59.46 USD
+  - [Black / 4XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405223691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/3303830549465075283_2048.jpg?v=1759081560
-    Price: $75.27 USD
-  - [Collegiate Navy / 4XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405256459)
+    Price: $59.46 USD
+  - [Collegiate Navy / 4XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405256459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15044360969399558885_2048.jpg?v=1759081564
-    Price: $75.27 USD
-  - [Red / 4XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405289227)
+    Price: $59.46 USD
+  - [Red / 4XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405289227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/9041935286270988121_2048.jpg?v=1759081570
-    Price: $75.27 USD
-  - [White / 4XL](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt?variant=45652405321995)
+    Price: $59.46 USD
+  - [White / 4XL](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt?variant=45652405321995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
-    Price: $75.27 USD
+    Price: $59.46 USD
 - [Vegan Hair Growth Oil | Smooth Frizz & Nourish Your Hair](https://printexplore9.com/products/hair-oil-2oz): Vegan Hair  Oil smooths frizz, boosts scalp health & locks in moisture for silky, strong, nourished hair. Helps Hair growth.
   Updated: 2025-10-18T00:15:40Z
   Vendor: Printify
@@ -1909,25 +1909,25 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 ## Collections
 
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-11-10T20:38:09Z
-  Total Products: 41
+  Updated: 2025-12-13T16:41:51Z
+  Total Products: 39
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
-  Updated: 2025-11-10T20:37:04Z
+  Updated: 2025-12-07T17:18:44Z
   Total Products: 9
 - [Sustainable Women's  T-Shirts & Sweatshirts](https://printexplore9.com/collections/womens): Eco friendly womens t-shirts and sweatshirts made from organic cotton. Customize your style with sustainable apparel made for you.
-  Updated: 2025-11-09T07:29:52Z
+  Updated: 2025-12-10T14:27:43Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-11-09T07:30:30Z
-  Total Products: 30
-- [Kids Clothes Collection](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
-  Updated: 2025-11-10T20:38:09Z
+  Updated: 2025-12-13T16:39:44Z
+  Total Products: 29
+- [Kids Clothing for Little Ones | Comfortable & Stylish Picks](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
+  Updated: 2025-12-11T13:07:55Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
-  Updated: 2025-11-09T06:47:15Z
+  Updated: 2025-12-10T14:27:43Z
   Total Products: 11
-- [Candles](https://printexplore9.com/collections/candles)
-  Updated: 2025-09-28T17:11:36Z
+- [Relaxing Soy Candle for Stress Relief and Peace](https://printexplore9.com/collections/candles): Turn any room into a calming escape with our relaxing soy candle. Long-lasting fragrance and clean soy wax help you unwind at home or in the office.
+  Updated: 2025-12-12T02:02:10Z
   Total Products: 3
 - [Custom Phone Cases](https://printexplore9.com/collections/phone-cases): Explore our collection of custom phone cases Durable dual-layer protection wireless charging compatible Choose matte or glossy.
   Updated: 2025-10-15T12:01:15Z
@@ -1936,38 +1936,38 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-10-18T17:48:44Z
   Total Products: 2
 - [Bags](https://printexplore9.com/collections/bags): Sustainable bags that turn heads Built to last with bold designs Elevate your everyday look while protecting the planet.
-  Updated: 2025-11-09T07:30:30Z
+  Updated: 2025-12-07T10:32:34Z
   Total Products: 8
 - [Unisex distressed Caps](https://printexplore9.com/collections/unisex-distressed-caps)
-  Updated: 2025-11-09T06:43:39Z
-  Total Products: 1
+  Updated: 2025-12-13T16:41:51Z
+  Total Products: 0
 - [Home/Room Decor](https://printexplore9.com/collections/home-room-decor): Eco-friendly home decor crafted to enhance your room with natural materials Stylish designs that bring warmth and care.
   Updated: 2025-11-09T06:47:33Z
   Total Products: 8
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
-  Updated: 2025-11-09T07:30:30Z
+  Updated: 2025-12-07T10:32:34Z
   Total Products: 12
-- [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
-  Updated: 2025-10-18T17:21:39Z
+- [Organic Skincare Collection | Hydrating & Brightening Care](https://printexplore9.com/collections/organic-skincare): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
+  Updated: 2025-12-12T02:02:10Z
   Total Products: 10
 
 ## Blogs
 
 - [News](https://printexplore9.com/blogs/news)
   - [Style That Lasts, Fashion That Matters | Sustainable & Bold](https://printexplore9.com/blogs/news/treat-yourself-and-the-planet-to-sustainable-style-40-off-free-shipping): Style That Lasts, Fashion That Matters | Sustainable & Bold
-    Updated: 2025-10-12T18:56:49Z
+    Updated: 2025-12-05T16:43:46Z
     Author: NAIRA AVALIANI
   - [Unleash Your Style Fearlessly | Bold & Guilt-Free Fashion](https://printexplore9.com/blogs/news/unleash-your-style-fearlessly-unique-designs-secure-shopping-sustainable-choices): Unleash Your Style Fearlessly | Bold & Guilt-Free Fashion
-    Updated: 2025-11-28T15:48:11Z
+    Updated: 2025-12-05T16:45:35Z
     Author: NAIRA AVALIANI
   - [Celebrate Mom: Exclusive Mother’s Day Discounts & Deals](https://printexplore9.com/blogs/news/make-moms-heart-sing-unique-designs-unbeatable-savings-the-gift-of-security): Celebrate Mom: Exclusive Mother’s Day Discounts & Deals
     Updated: 2025-11-28T15:48:12Z
     Author: NAIRA AVALIANI
   - [Printexplore: US Sustainable Apparel & Organic Skincare](https://printexplore9.com/blogs/news/press-release-printexplore-usa-made-sustainable-apparel-skincare): Printexplore: US Sustainable Apparel & Organic Skincare
-    Updated: 2025-10-12T18:50:09Z
+    Updated: 2025-12-05T16:39:45Z
     Author: NAIRA AVALIANI
   - [7  Ways to Glow This Holiday  | Clean Skincare & Mindful Gifts](https://printexplore9.com/blogs/news/7-ways-to-enjoy-a-sustainable-holiday-glow-natural-skincare-self-care-mindful-gifts): 7  Ways to Glow This Holiday  | Clean Skincare & Mindful Gifts
-    Updated: 2025-11-28T15:48:13Z
+    Updated: 2025-12-05T16:35:51Z
     Author: NAIRA AVALIANI
     Tags: eco-friendly skincare, holiday beauty tips, mindful living, sustainable holiday gifts
 
@@ -1978,7 +1978,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 - [About | Print & Explore 9](https://printexplore9.com/pages/about-us): We Stand Behind Our Products At Print & Explore 9, we’re more than just a store—we’re your go-to destination for high-quality, sustainable products...
   Updated: 2025-11-01T10:55:34Z
 - [Shipping Policy – Delivery Information | Printexplore9](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
-  Updated: 2025-10-12T09:49:23Z
+  Updated: 2025-12-05T16:27:39Z
 - [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
   Updated: 2025-10-12T09:47:15Z
 - [Loyalty Program | Earn Rewards Today |Join For Free](https://printexplore9.com/pages/loyalty-program): Join the Print&Explore Loyalty Program and turn every purchase into points that you can redeem for discounts, free shipping, exclusive offers. its ...
@@ -1994,14 +1994,14 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 - [Subscribe to Printexplore Insights](https://printexplore9.com/pages/subscribe-to-printexplore-insights): Get smart, actionable ideas on Brand protection and growth! “Don’t just shop — grow with us!” Join us for brand strategies, creative stories, and i...
   Updated: 2025-11-01T11:01:18Z
 - [Featured on|Printexplore9](https://printexplore9.com/pages/featured-on-printexplore9): https://www.bignewsnetwork.com/news/278541498/your-complete-wellness-and-style-routine-hydrating-hyaluronic-acid-serum-and-eco-friendly-activewear ...
-  Updated: 2025-11-01T17:08:12Z
+  Updated: 2025-12-08T20:26:59Z
 
 ## Policies
 
 - [Privacy Policy](https://printexplore9.com/policies/privacy-policy)
   Updated: 2024-09-01T12:01:36+03:00
 - [Shipping Policy](https://printexplore9.com/policies/shipping-policy)
-  Updated: 2025-09-14T21:24:22+03:00
+  Updated: 2025-12-05T18:21:42+02:00
 - [Refund Policy](https://printexplore9.com/policies/refund-policy)
   Updated: 2025-09-14T20:40:16+03:00
 - [Terms of Service](https://printexplore9.com/policies/terms-of-service)
