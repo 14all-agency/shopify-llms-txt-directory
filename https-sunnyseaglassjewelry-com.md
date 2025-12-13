@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-12-09T00:00:35.187Z
+- Updated At: 2025-12-13T00:00:39.161Z
 
 ## Products
 
@@ -769,13 +769,6 @@
   - [No.7 Seafoam Green / 20](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-necklace-in-sterling-silver-sea-glass-wavey-design-blue-green-periwinkle-necklace-ocean-inspired-jewelry?variant=42904285610065)
     Availability: Available
     Price: $38.95 USD
-- [Wire wrapped Long Sea Glass Earrings | Sterling Silver Aqua Blue Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrapped-long-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-silver-earrings-beach-weddings-sea-glass-jewelry-beach-glass): Discover the beautiful Wire wrapped Long Sea Glass Earrings, inspired by the sea. Perfect for beach weddings and everyday wear with .925 sterling silver.
-  Updated: 2025-11-20T22:10:56Z
-  Vendor: My Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Long-Sea-Glass-Earrings-in-Sterling-Silver_-Aqua-Blue-Sea-Glass-Silver-Earrings_Beach-Weddings_-Sea-Glass-Jewelry_-Beach-Glass-My-Store-9859193.jpg?v=1763676655
-  Price: $23.95 USD
 - [Handmade Cobalt Blue Sea Glass Earrings | Sterling Silver & Unique Design](https://sunnyseaglassjewelry.com/products/handmade-cobalt-blue-sea-glass-earrings-in-sterling-silver-wire-wrapped-blue-sea-glass-earrings-beach-weddings-cobalt-sea-glass-earrings): Shop Handmade Cobalt Blue Sea Glass Earrings, crafted with lab-created sea glass and sterling silver wire. Perfect for beach weddings, ocean lovers, and style lovers.
   Updated: 2025-11-20T22:11:04Z
   Vendor: My Store
@@ -4760,7 +4753,7 @@
   Updated: 2025-11-15T23:02:49Z
   Total Products: 31
 - [Sea Glass Earrings - Sunny Sea Glass Jewelry](https://sunnyseaglassjewelry.com/collections/sea-glass-earrings): - Sunny Sea Glass Jewelry
-  Updated: 2025-11-15T23:03:46Z
+  Updated: 2025-12-10T04:30:47Z
   Total Products: 58
 - [Sea Glass Bracelets/Anklets - Sunny Sea Glass Jewelry](https://sunnyseaglassjewelry.com/collections/sea-glass-bracelets-anklets): - Sunny Sea Glass Jewelry
   Updated: 2025-11-07T03:02:04Z
@@ -4787,7 +4780,7 @@
   Updated: 2025-11-08T03:16:41Z
   Total Products: 7
 - [All Products (ChatGPT-AI Product Description) - Sunny Sea Glass](https://sunnyseaglassjewelry.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-15T23:03:46Z
+  Updated: 2025-12-10T04:30:47Z
   Total Products: 437
 
 ## Blogs
