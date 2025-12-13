@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-12T20:00:34.956Z
+- Updated At: 2025-12-13T00:00:53.184Z
 
 ## Products
 
@@ -5965,7 +5965,7 @@
     Availability: Available
     Price: $64.95 USD
 - [40lb IGI 6006 Wax](https://affinatiliving.com/products/40lb-igi-6006-wax)
-  Updated: 2025-12-08T15:09:30Z
+  Updated: 2025-12-12T20:57:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5983,7 +5983,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Large Room Sprays (30 Pack)](https://affinatiliving.com/products/room-sprays-large)
-  Updated: 2025-12-12T14:55:51Z
+  Updated: 2025-12-12T21:41:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6019,7 +6019,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Original/Small Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/original-small-wooden-wick-candle-containers)
-  Updated: 2025-12-09T23:44:39Z
+  Updated: 2025-12-12T22:41:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6049,7 +6049,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature Teal Jars (12 pack)](https://affinatiliving.com/products/signature-teal-jars)
-  Updated: 2025-11-15T06:40:23Z
+  Updated: 2025-12-12T22:41:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6061,7 +6061,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature/Original/Sm & Lg Wooden Wick Black Lids (12 Pack)](https://affinatiliving.com/products/signature-black-lids)
-  Updated: 2025-12-09T23:46:40Z
+  Updated: 2025-12-12T22:40:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6073,7 +6073,7 @@
   Availability: Not Available
   Price: $0.00 USD
 - [3-Wick Red Jars (12 Pack)](https://affinatiliving.com/products/3-wick-red-jars)
-  Updated: 2025-12-05T22:04:16Z
+  Updated: 2025-12-12T22:42:07Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6085,7 +6085,7 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Amber Jars (12 Pack)](https://affinatiliving.com/products/3-wick-amber-jars)
-  Updated: 2025-12-05T22:03:50Z
+  Updated: 2025-12-12T22:42:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6097,7 +6097,7 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Lids (12 Pack)](https://affinatiliving.com/products/3-wick-lids)
-  Updated: 2025-12-09T23:46:20Z
+  Updated: 2025-12-12T22:40:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6121,13 +6121,13 @@
   Availability: Not Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-12-09T23:45:59Z
+  Updated: 2025-12-12T22:44:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [8x8x6 White Packing Boxes](https://affinatiliving.com/products/8x8x6-white-packing-boxes)
-  Updated: 2025-12-03T01:45:07Z
+  Updated: 2025-12-12T22:45:00Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6139,7 +6139,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-12-10T22:00:09Z
+  Updated: 2025-12-12T22:44:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6255,7 +6255,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Signature Frosted Jars (12 pack)](https://affinatiliving.com/products/signature-frosted-jars)
-  Updated: 2025-11-19T23:40:20Z
+  Updated: 2025-12-12T22:41:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
