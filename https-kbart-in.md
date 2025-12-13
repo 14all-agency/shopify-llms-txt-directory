@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-23T06:41:23Z
 - Contact Email: info.kbart@gmail.com
-- Updated At: 2025-12-04T00:00:34.869Z
+- Updated At: 2025-12-13T00:00:40.057Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Artistic_handcrafted_horse_wall_sculpture.jpg?v=1758721487
   Price: ₹999.00 INR
 - [Rustic Wooden Horse Wall Decor - Handcrafted Vintage 16-Inch Art Piece](https://kbart.in/products/rustic-wooden-horse-wall-decor): Enhance your space with our KB ART Rustic Wooden Horse Wall Decor. This 16-inch orange distressed horse head features a golden touch, perfect for vintage-style Indian home decor.
-  Updated: 2025-11-07T09:09:27Z
+  Updated: 2025-12-05T05:40:27Z
   Vendor: KB ART
   Product Type: Wooden Handcrafted Handpianted Horse Head
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Wooden_Handpainted_Mirror_9209d236-3583-449c-8de8-e677d7f1f399.png?v=1758721710
   Price: ₹1,099.00 INR
 - [Handpainted Wooden Wall Mirror - KB ART Yellow Arch Jharokha Decor](https://kbart.in/products/kb-art-multicolor-handpainted-wooden-wall-mirror-9-5x19-inch-traditional-misri-art-arch-mirror-jharokha-boho-decor-frame): Elevate your decor with the KB ART Handpainted Wooden Wall Mirror. This 9.5x19 inch mirror features vibrant yellow with white Amboz embroidery, perfect for traditional boho style.
-  Updated: 2025-11-07T09:09:28Z
+  Updated: 2025-12-05T05:40:26Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
   Availability: Available
@@ -182,7 +182,7 @@
 ## Collections
 
 - [Home Decor Collection for Stunning Interior Spaces - KB ART](https://kbart.in/collections/home-decor-collection): Elevate Your Living Space with Our Home Decor CollectionWelcome to our stunning home decor collection, meticulously curated to transform your interior spaces into comfortable and stylish sanctuaries. Whether you’re looking to add a touch of elegance to your living room, introduce a calming vibe to your bedroom, or create a welcoming atmosphere in your dining area, our home decor collection offers the perfect pieces to elevate your environment.Unleashing Your StyleChoosing the right decor can redefine your space. Our home decor collection is all about versatility, featuring a range of styles from modern minimalism to vintage chic. With carefully selected items that cater to varied tastes, you can effortlessly express your unique personality through your home.Exceptional QualityQuality is at the heart of our home decor collection. Each piece is crafted with finest materials, ensuring durability and a timeless appeal. Here’s what makes our collection stand out: Durable Materials: Our decor is made from high-quality materials designed to withstand the test of time. Unique Designs: Enjoy exclusive styles that you won’t find anywhere else, allowing your home to maintain its individuality. Eco-Friendly Options: We prioritize sustainability, offering decor that’s gentle on the planet. Affordable Luxury: Elevate your space without breaking the bank with our competitively priced home decor. Create a Cohesive LookOne of the key elements of impactful home decor is creating a cohesive look throughout your space. Our collection allows you to mix and match various items that complement each other, ensuring a harmonious aesthetic. Whether you're looking for elegant wall art, plush cushions, or stunning sculptures, our selection helps you put together a personalized style with ease.Trendy Color PalettesTransform the mood of your home with color. Our home decor collection features trendy color palettes that enhance any room. From soothing neutrals to vibrant accents, you can find the right hues to express your style. Incorporating the right colors not only boosts the aesthetic appeal but can also have a psychological impact, making your space feel more inviting and lively.Versatile Decor SolutionsOur home decor collection includes versatile solutions designed to fit various spaces and needs. Here are just a few inspirations: Wall Decor: Statement pieces that add character to any room. Textiles: Cushions, throws, and rugs that add comfort and warmth. Furniture Accents: Stools, tables, and shelving that balance functionality with style. Lighting: Unique lamps and fixtures that enhance the ambiance. Perfect for Any OccasionRedecorating doesn’t have to be daunting, nor should it be reserved for special occasions. Our collection enables you to refresh your space effortlessly for any season or celebration. From cozy autumn accents to vibrant spring decorations, our home decor collection makes it easy to stay stylish all year round.Customer Satisfaction GuaranteedWe believe shopping should be a joy, not a chore. Our friendly customer service team is always ready to assist you in selecting the perfect additions to your home decor collection. We are dedicated to ensuring your satisfaction and are happy to share tips for using our products to their full potential.Join Our CommunityWhen you shop with us, you’re not just purchasing decor; you’re joining a community of decor enthusiasts. Share your beautiful spaces with us on social media and see how others are enhancing their homes with our collection. We love seeing how you put together your unique styles!Ready to Transform Your Home?Don’t wait any longer to elevate your interior spaces. Explore our home decor collection today and find innovative ways to transform your home. With a variety of exceptional designs and quality products, you’ll fall in love with your space all over again. Let's create a home that reflects your style and inspires warmth and happiness! - KB ART
-  Updated: 2025-11-07T09:10:42Z
+  Updated: 2025-12-05T12:24:32Z
   Total Products: 32
 - [DIY Craft Supplies for Creative Projects and Inspiration | Shop Now](https://kbart.in/collections/diy-craft-supplies): Discover top-quality DIY craft supplies perfect for all your creative projects. Unleash your imagination with our diverse collection designed to inspire and elevate your crafting experience!
   Updated: 2025-11-07T09:10:42Z
@@ -191,13 +191,13 @@
   Updated: 2025-11-07T09:10:42Z
   Total Products: 6
 - [Wall Art Decor: Stunning Designs to Transform Your Space Today](https://kbart.in/collections/wall-art-decor): Transform your space with our Wall Art Decor Collection. Discover stunning art and designs that elevate your home aesthetics and create a personalized atmosphere. Shop now!
-  Updated: 2025-11-07T09:10:42Z
+  Updated: 2025-12-05T12:24:32Z
   Total Products: 26
 - [Festive 2025 Collection: Celebrate in Style with Exclusive Range](https://kbart.in/collections/festive-2025-collection): Discover the Festive 2025 Collection, where style meets celebration. Explore our exclusive range for the perfect outfits to shine this festive season!
-  Updated: 2025-11-07T09:10:42Z
+  Updated: 2025-12-05T12:24:32Z
   Total Products: 32
 - [KBART Products Collection - Unique Designs & Exceptional Craftsmanship](https://kbart.in/collections/all-products): Discover the KBART Products Collection, showcasing exceptional craftsmanship and unique designs that elevate your style. Shop now for timeless pieces that stand out!
-  Updated: 2025-11-07T09:10:42Z
+  Updated: 2025-12-05T12:24:32Z
   Total Products: 32
 - [Elephant Stools - Unique and Stylish Furniture for Your Home Decor](https://kbart.in/collections/elephant-stools): Discover our unique elephant stools collection, perfect for adding a touch of elegance and charm to any space. Shop now to enhance your home decor with these stylish pieces!
   Updated: 2025-11-07T09:10:42Z
@@ -212,10 +212,10 @@
   Updated: 2025-11-07T09:10:42Z
   Total Products: 9
 - [Wooden Wall Mirror - Elegant Rustic Designs for Your Beautiful Home](https://kbart.in/collections/wooden-mirror): Discover our Wooden Wall Mirror Collection, featuring elegant and rustic designs perfect for enhancing your home decor. Shop now for stunning mirrors that reflect your style!
-  Updated: 2025-11-07T09:10:42Z
+  Updated: 2025-12-05T12:24:32Z
   Total Products: 5
 - [Horse Head Decor Collection: Unique Equestrian Art for Your Space](https://kbart.in/collections/horse-head-1): Elevate your equestrian spaces with our Horse Head Decor Collection. Discover unique art pieces that showcase stunning horse head designs, perfect for any horse lover’s home.
-  Updated: 2025-11-07T09:10:42Z
+  Updated: 2025-12-05T12:24:32Z
   Total Products: 4
 - [Cow Head Decor - Unique Home Accents for Rustic Charm Collection](https://kbart.in/collections/cow-head-1): Transform your space with our Cow Head Decor Collection. Discover unique home accents that add rustic charm and personality to any room. Shop now for the perfect cow head decor!
   Updated: 2025-11-07T09:10:42Z
