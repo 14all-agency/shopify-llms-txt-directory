@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-12-12T00:00:40.279Z
+- Updated At: 2025-12-13T00:00:43.564Z
 
 ## Products
 
@@ -3129,7 +3129,7 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-11-28T12:15:53Z
   Total Products: 9
 - [T25/T3](https://vanagonmaniac.com/collections/t25): Volkswagen T25/T3/VANAGON/SCA/REIMO pop-top replacement canvas. Brand new VW Westfalia pop-up camper replacement canvas weather weather-resistant, model fit and in 14 colours.
-  Updated: 2025-12-11T12:12:00Z
+  Updated: 2025-12-12T12:13:05Z
   Total Products: 14
 - [T4](https://vanagonmaniac.com/collections/t4): Volkswagen T4 Replacement Pop Top Canvas for short wheel and long wheel base.
   Updated: 2025-12-09T13:12:27Z
@@ -3144,7 +3144,7 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-12-01T10:31:00Z
   Total Products: 1
 - [MOSQUITO NETS](https://vanagonmaniac.com/collections/mosquito-nets): VW camper mosquito nets for T3/T25, T4/Eurovan, and T5.No-see-um mesh. Sliding door, rear hatch, and cab options.Closures: zipper or magnetic. Model-specific fit. EU-made.DDP worldwide shipping (duties & taxes prepaid, no hidden fees).
-  Updated: 2025-12-11T12:12:00Z
+  Updated: 2025-12-12T12:13:05Z
   Total Products: 5
 - [Top sellers](https://vanagonmaniac.com/collections/top-sellers)
   Updated: 2025-11-29T12:16:56Z
@@ -3156,7 +3156,7 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-12-09T13:17:02Z
   Total Products: 8
 - [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
-  Updated: 2025-12-11T12:12:00Z
+  Updated: 2025-12-12T12:13:05Z
   Total Products: 42
 
 ## Blogs
