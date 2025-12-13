@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-14T19:34:39Z
 - Contact Email: info@openroadsupplycompany.com
-- Updated At: 2025-12-12T00:00:22.845Z
+- Updated At: 2025-12-13T00:00:22.797Z
 
 ## Products
 
 - [Magnetic Surfboard Rack](https://openroadsupplycompany.com/products/pre-order-special-magnetic-surfboard-rack): Meet the Magnetic Surfboard Rack—the easiest, cleanest way to store and display your board on the road. Designed for van-life surfers, weekend warriors, and coa
-  Updated: 2025-12-11T06:12:55Z
+  Updated: 2025-12-12T02:07:06Z
   Vendor: Open Road Supply Co.
   Product Type: Surfboard Rack
   Availability: Available
@@ -65,7 +65,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/9_flexfin.png?v=1763881112
   Price: $81.00 USD
 - [Fin Key Bottle Opener](https://openroadsupplycompany.com/products/fin-key-bottle-opener): Two functions in one Key Chain: Use the flat-head screwdriver to take your longboard fin out of your board—or install it. Use it to crack open a bottle of your favorite cold, bottled beverage.
-  Updated: 2025-12-10T03:41:13Z
+  Updated: 2025-12-12T21:58:51Z
   Vendor: Almond Surfboards & Designs
   Product Type: Accessories
   Availability: Available
@@ -375,7 +375,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/image_c94390c4-e67b-49df-bccf-73560eeba1af.png?v=1764089676
   Price: $875.00 USD
 - [Transit B-Pillar Lagun Table Mount](https://openroadsupplycompany.com/products/transit-b-pillar-lagun-table-mount): Horizontal surfaces in a van are extremely important. Modular (look at us using cool kid words) horizontal surfaces, like a Lagun table, are a great solution for adding utility to your work space. The Lagun mount and Lagun Slim/Sliver mount both provide a simple and secure place to mount your table system to the B pillar in your Ford Transit. Get one and get to doing what ever you do in your van. Slim mount is designed for the narrow "Sliver" bracket from Lagun. Includes: 1x Aluminum Mount 4x 8mm x 1.25mm x 25mm Bolt 4x 8mm x 1.25mm Nut 4x 8mm Flat Washer 2x 6mm x 1mm x 20mm Button Head 2x Fender Washer
-  Updated: 2025-12-10T19:57:47Z
+  Updated: 2025-12-12T02:11:31Z
   Vendor: AVC RIG
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $500.00 USD
 - [Transit Floor Step and Trim](https://openroadsupplycompany.com/products/transit-floor-step-and-trim): The AVC RIG Transit Floor Step and Trim is the perfect solution for DIYers looking for a professional way to finish out the floor in a Ford Transit van build! See our Transit Floor Step and Trim videos HERE and HERE Full kit includes: Front trim Rear trim Side step and trim Grip tape 3D printed spare tire access cap Key Features: Transit-Specific Design: Perfectly fits 2020-current Ford Transit models Heavy-Duty Construction: Built from powder coated steel for exceptional durability. New L-Track Punch-outs: Now featuring a place to mount L-Track accessories on the fron and rear of the step! Pre-Drilled: Pre-drilled for screws for perfect spacing. Extend the Floor: Extends a little over 8 inches into the step space while maintaining plenty of space for egress. Grip tape and Spare Tire Plug: Includes everything you need to finish your floor! Installation: The step trim and the step overlap by about 2" which gives you the flexibility to vary the thickness of the floor (3/4" thickness above the ribs minimum). The front trim piece has some pass-thus in strategic locations of you want to run wiring to the passenger seat base.
-  Updated: 2025-12-11T22:29:59Z
+  Updated: 2025-12-12T08:21:42Z
   Vendor: AVC RIG
   Product Type: 
   Availability: Available
@@ -414,7 +414,7 @@
     Availability: Available
     Price: $700.00 USD
 - [Transit Paper Patterns: Walls and Ceiling](https://openroadsupplycompany.com/products/transit-paper-patterns-walls-and-ceiling): The AVC Rig Transit Paper Patterns provide the perfect opportunity to rapidly build wall panels in any desired material. With exact cut shapes already provided in paper form, they offer an easy, effective solution to your interior kit needs, shipping conveniently across the country. Details on the Walls and Ceilings Exterior contour of all panels Ford Factory 8mm threaded insert locations Ceiling light suggested patterning Ceiling rivnut suggested location Front driver side factory style window shape Slider door factory style window shape CRLVW1033 Bunk Window shape Rear doors have outlines for with or without windows Additional Notes: Full wall kit includes walls, ceiling, rear/slider doors, and aluminum wall/ceiling supports Rear Doors and slider door panels are sold individually as well
-  Updated: 2025-12-10T03:41:15Z
+  Updated: 2025-12-12T22:00:17Z
   Vendor: AVC RIG
   Product Type: 
   Availability: Available
@@ -556,7 +556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/sitka-black-new-strap-hero.jpg?v=1764097503
     Price: $35.00 USD
 - [PowerPro All-in-One Emergency Starter and Tire inflator](https://openroadsupplycompany.com/products/powerpro-all-in-one-emergency-starter-and-tire-inflator): Battery powered jump starter, portable USB charger , SOS LED flashlight and Air Compressor. This compact, multi-functional device combines a high-power 1200A starting current and 2000A peak current, capable of jump-starting 12V vehicles up to 8.5L gasoline and 6.5L diesel engines. The built-in air compressor inflates tires with a maximum output pressure of 160 psi and includes an automatic stop for precise inflation. Equipped with a bright emergency light, Type-C input for charging (5V/2A), and versatile USB output ports (5V/2A, 9V/2A, 12V/1.5A), the PowerPro is built to keep you moving. Specifications: Capacity: 18,000 mAh Dimensions: 6.5 x 4.3 x 8.0 inches Weight: 3.68 lbs Type-C Input: 5V/2A USB Output Ports: 5V/2A, 9V/2A, 12V/1.5A Max Output Pressure: 160 psi Starting Current: 1200A Peak Current: 2000A Stay prepared for any challenge with the MOJAB PowerPro – the ultimate emergency solution in one portable unit.
-  Updated: 2025-12-10T03:41:15Z
+  Updated: 2025-12-12T21:35:30Z
   Vendor: MOJAB OFFROAD
   Product Type: Battery Booster
   Availability: Available
@@ -736,7 +736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/IMG_4819_563e9f60-07c3-4362-b495-4fd509f4029e.jpg?v=1765008039
     Price: $1,149.00 USD
 - [Space-Saving Camper Van/Truck RV Sink](https://openroadsupplycompany.com/products/space-saving-camper-van-truck-rv-sink): -FREE Shipping to Lower 48 States. TEC Features: Hideaway Design: The faucet retracts below the countertop when not in use, maximizing workspace and keeping surfaces sleek. 52" Pull-Out Spray Head: Multipurpose use—perfect for washing dishes, rinsing gear, or using as a showerhead. Deep Basin: A 9-inch depth accommodates full-size dishes while containing splashes. Low-Profile Drain: Saves precious under-sink cabinet space, optimizing your van layout. Black Nanotechnology Coating: Durable, stain-resistant, and easy to clean, with a premium, modern finish. TEC Specs: Exterior Dimensions: 450mm x 390mm (17.7" x 15.3") Interior Dimensions: 380mm x 347mm (14.9" x 13.6") Cutout Dimensions: 420mm x 360mm (16.5" x 14.2") Depth: 230mm (9") Material Thickness: 3mm Why Choose the Tec Vanlife Hidden Sink? We’ve redefined camper van sinks with a focus on innovation, quality, and functionality. Here’s what sets our sink apart: Superior Faucet System: The retractable faucet pivots 360° and disappears below the counter when not in use, ensuring the cover board rests flush. The smooth and compact water mixer arm maximizes workspace. 52-Inch Pull-Out Spray Hose: Store over 4 feet of hose neatly under the sink. Use it as a showerhead (compatible with our low-profile shower pan) or rinse gear outside—saving plumbing complexity, cost, and potential leaks. Optimized Sink Depth: The 9-inch basin handles large dishes easily while containing splashes, keeping your space clean. Low-Profile Drain: Designed to save under-sink cabinet space, balancing depth and storage needs. How It’s Made Constructed from thick stainless steel with nanotechnology, this sink is designed to withstand the demands of vanlife. The material’s advanced coating offers unmatched durability, stain resistance, and effortless cleaning. The sleek finish ensures your sink retains its pristine look, even after rigorous use. Additional Features Scratch Protection: Integrated rubber bushings prevent metal-to-metal contact, ensuring a scratch-free faucet mechanism. Soap Dispenser Option: Add a dispenser of your choice by drilling a custom hole in the sink. Easy Installation: Standard 1/2" NPT fittings ensure hassle-free connections to your water supply system. The Nanotech Advantage Our nanotechnology coating not only enhances durability but also simplifies maintenance. Dust, dirt, and grease wipe away effortlessly, keeping your sink looking brand new with minimal effort. Size Options: Exterior Dimensions: 450mm x 390mm (17.7" x 15.3") Cutout Dimensions: 420mm x 360mm (16.5" x 14.2") Depth: 230mm (9") Upgrade your vanlife experience with the Tec Vanlife Hidden Sink—where innovation meets practicality for life on the road. Installing the Pull-Out Faucet on Nanotech Stainless Steel Sink (Professional Plumber Recommended) Warranty: Our products come with a limited warranty that covers manufacturing defects. This warranty does not cover damage resulting from misuse, improper installation, natural wear and tear, or exposure to harsh environmental conditions. For warranty claims, please contact our customer service team with proof of purchase and a description of the issue. Returns and Refunds: Returns and refunds are subject to our return policy. Products that have been installed or used may not be eligible for return or resale. If you encounter any issues with your product, please contact our customer service team for assistance. By purchasing our products, you acknowledge and agree to the terms as outlined above. Thank you for your understanding.
-  Updated: 2025-12-11T21:48:26Z
+  Updated: 2025-12-12T22:12:09Z
   Vendor: Tec Vanlife USA
   Product Type: Recommended parts for DIYers
   Availability: Available
@@ -764,7 +764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/2C6A1580BackgroundRemoved.png?v=1764258656
     Price: $1,299.00 USD
 - [Flanged / Recessed L Track](https://openroadsupplycompany.com/products/flanged-recessed-l-track): -On orders $150.00 and up, FREE Shipping to Lower 48 states. TEC Features: Premium anodized surface finish: ensuring a sleek and smooth appearance that seamlessly complements your van's interiors. High strength aluminum: made with super strong and super durable 6061-T6 grade aluminum. Trimmed edges: eliminating rough edges and ensuring a safe, comfortable user experience. TEC Specs: Length: 84” Number of mounting holes: 12 Spacing between mounting holes: Outer six: 8” center to center Central two: 3 1/2” center to center Mounting screw size: M6 socket flat head (Metric) or ¼”-20 flat head Note: mounting screws are not included. Why 84" L Tracks? For 170" Sprinters and 148" extended Transits, you need two 84" tracks to run the lengthwise of the van. For 144" Sprinters and 148" Transits, you need one full 84" track and half of another 84" track to cover the length of the van. This is why we choose to manufacture 84" L tracks: it optimizes material effectiveness, minimizes cutting, and reduces waste.
-  Updated: 2025-12-10T03:41:16Z
+  Updated: 2025-12-12T16:10:18Z
   Vendor: Tec Vanlife USA
   Product Type: Logistic Track
   Availability: Available
@@ -1077,7 +1077,7 @@
     Availability: Available
     Price: $599.00 USD
 - [Low Profile Drain For Camper Van / RV Plumbing 3 1/2 inch](https://openroadsupplycompany.com/products/low-profile-drain-for-camper-van-rv-plumbing-3-1-2-inch): Flat shipping rate $15 to lower 48s. Maximize your under-sink storage with our Low Profile Drain, designed specifically for camper van and RV plumbing systems. Unlike traditional drains with straight pipes that consume valuable cabinet space, this innovative low profile drain offers a compact solution without compromising functionality. Key Features: Space-Saving Design: The unique low profile structure ensures minimal intrusion into your under-sink area, providing more room for storage and organization. Standard Size Fit: With a 3-1/2 inch opening, this drain is compatible with most American family and commercial kitchen sinks, ensuring a seamless fit for your existing setup. Compact Height: The overall height of just 3 inches makes this drain perfect for tight spaces, allowing for easy installation and efficient use of space. Easy Installation: Designed for hassle-free installation, this drain fits easily with existing plumbing. Please measure your current setup to ensure compatibility before purchasing. A drain hose is also included with adaptors to fit 1 1/4" & 1 1/2" fittings. Upgrade your camper van or RV's plumbing system with our Low Profile Drain, and enjoy a more organized and spacious under-sink area. Perfect for those who value both functionality and efficiency in their compact living spaces.
-  Updated: 2025-12-11T18:49:36Z
+  Updated: 2025-12-12T22:25:51Z
   Vendor: Tec Vanlife USA
   Product Type: Plumbing & Kitchen
   Availability: Available
@@ -1103,7 +1103,7 @@
     Availability: Available
     Price: $201.60 USD
 - [Tec Vanlife Sprinter Roof Bar Set (3pc)](https://openroadsupplycompany.com/products/tec-vanlife-sprinter-roof-bar-set-3pc): Heavy-duty, versatile roof bars for 2007+ Sprinter 144" & 170" High Roof vans. - Free shipping to the lower 48 states. - Download installation instructions [PDF] Designed to mount seamlessly to factory or Tec Vanlife roof rails, this system provides a rigid foundation for solar panels, cargo boxes, and outdoor gear with a simple, no drill installation process. Key Features: Engineered specifically for 2007+ Mercedes Sprinter High Roof models equipped with roof rails Clamps directly to existing roof rails for a fast, drill-free installation process Constructed from high-strength extruded aluminum to handle heavy static and dynamic loads Finished with a textured black powder coat for superior durability and corrosion resistance Features reinforced corner brackets designed to withstand significant torsional stress Integrates seamlessly with Fiamma F45 awnings for expanded functionality Utilizes a standard 1.5" T-slot profile to easily accommodate bolts and other mounting accessories Measurements: Useable Width: 52" (1325 mm) Frame Height: 5 1/8" (130 mm) Under-Bar Clearance: 2 3/8" (60 mm) Cross Bar Profile: 1.5" x 1.5" (38 mm) Description: This roof bar system transforms your Tec Vanlife or factory roof rails into a complete cargo management solution. By bridging the empty space between the rails, these bars create a stable platform essential for mounting solar arrays, cargo boxes, or recreational equipment. The system is fully adjustable, allowing you to slide the bars along the track to accommodate loads of varying lengths from short storage cases to kayaks. The elevated brackets provide the necessary clearance for roof vents while maintaining a low profile to minimize wind noise. Manufactured from lightweight extruded aluminum, the system offers an exceptional strength-to-weight ratio. The brackets are reinforced to resist torsional twisting, ensuring load stability even when weight is unevenly distributed or during off-road travel. The roof bars utilize a standard T-slot channel, offering universal compatibility with a wide range of mounting hardware and seamless integration with the Fiamma F45 Awning. Finished with a weather-resistant black powder coating, these bars are built to withstand harsh environmental exposure while complementing the aesthetic of professional van builds.
-  Updated: 2025-12-11T12:00:18Z
+  Updated: 2025-12-12T00:00:24Z
   Vendor: Tec Vanlife USA
   Product Type: 
   Availability: Available
@@ -1247,7 +1247,7 @@
     Availability: Not Available
     Price: $201.60 USD
 - [Ford Transit Roof Rack / Rail Mounting Bracket (Set of 2)](https://openroadsupplycompany.com/products/ford-transit-roof-rack-rail-mounting-bracket-set-of-2): Establish a secure and modular foundation for your custom van build with these heavy-duty aluminum mounting brackets, designed to connect Ford Transit factory mounting points to crossbars, roof racks, or 8020 framing. - Free shipping to the lower 48 states on orders $150.00 or more. Key Features: Constructed from 1/4-inch high-strength aluminum Finished with powder coating to resist rust and UV damage Engineered specifically to align with the factory mounting locations Top flange designed to create a flexible platform for mounting roof racks, roof rails, or crossbars Set includes two brackets for custom configuration Measurements: Base length: 4 1/4" (108 mm) Top flange length: 2 1/2" (64 mm) Total height: 2 3/4" (70 mm) Description: These mounting brackets provide the essential structural interface required to build a custom roof rack system on a Ford Transit. While the Ford Transit roof features specific factory mounting points, utilizing them for a DIY build often requires complex fabrication to create a level surface. These brackets solve that geometry problem by creating a stable interface between the curved vehicle roof and your preferred cargo solution. Manufactured from 1/4-inch thick aluminum, the brackets offer high tensile strength for securing heavy loads such as solar panels, cargo boxes, or rooftop decks. The bottom flange is engineered to align perfectly with the factory mounting holes on the van roof for a simple bolt-on installation. The top flange serves as a universal mounting platform, featuring a slotted design that accommodates a wide variety of setups, including standard crossbars, commercial roof racks, or DIY 8020 t-slot rails.
-  Updated: 2025-12-11T22:51:36Z
+  Updated: 2025-12-12T23:00:11Z
   Vendor: Tec Vanlife USA
   Product Type: Recommended parts for DIYers
   Availability: Available
@@ -1344,7 +1344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/16_e9cb04fa-22b8-4682-8dbb-6117a6d71c43.png?v=1764258658
     Price: $845.00 USD
 - [Sprinter Roof Rails / Roof Tracks](https://openroadsupplycompany.com/products/sprinter-roof-rails-roof-tracks): Direct-fit roof rail kit for 2007+ Sprinter vans engineered to support roof racks, solar panels, and other rooftop equipment through a straightforward bolt-on installation. - FREE shipping to the lower 48 states. - Download installation instructions [PDF] Key Features: Heavy-duty Aluminum extrusion construction Fits 2007-on Mercedes Sprinter 144" and 170" models Direct-mount design using factory roof holes Easy bolt alignment during installation Rigid base for racks, solar panels, lighting, and other accessories Powder-coated or anodized finish options Straightforward installation with standard tools Compatible with urethane or butyl weather-sealing tape Mounting hardware included Measurements: 144": 114.6" (2910 mm) 170": 152.0" (3860 mm) Description: The Tec Vanlife Heavy Duty Roof Rail Kit is manufactured from a high-strength aluminum extrusion specifically engineered for 2007-on Sprinter 144" and 170" models. The rails provide a rigid and dependable mounting base suitable for roof racks, crossbars, solar panels, lighting, and other rooftop equipment commonly used in van conversions. Installation follows a simple, direct bolt-on process. After removing the factory roof caps to expose the OEM roof holes, the supplied bolts are inserted through these openings from above. The rails are then positioned over the bolts and secured from inside the vehicle using the included washers and self-locking nuts. The entire installation can be completed using standard tools. The kit is offered in Anodized Black and Satin Silver. Both finishes provide excellent corrosion resistance and long-term durability. For additional weather protection, urethane or butyl tape can be applied around the fasteners during installation. FAQ: 1. Do the mounting holes already exist on the Sprinter roof, or do I need to drill new ones? No drilling is required. Remove the factory plastic covers to access the OEM mounting holes. 2. Do I need to remove the interior ceiling panels to access the roof mounting points? Yes. The interior ceiling panels need to be removed to access the mounting points from the inside and tighten the nuts. 3. Can this roof rail be installed by one person? How long does installation typically take? Two people are recommended. Installation takes around 30 minutes. 4. What tools or sealants are recommended to ensure the roof rail installation is fully waterproof? The kit includes weather-sealing strips. No additional sealant is required. 5. Can I mount solar panels, awnings, a roof deck, or other rooftop accessories on these roof rails, and will additional hardware be required? Yes. Mounting accessories requires the appropriate brackets or hardware, which are available separately in this store. 6. Are there any installation differences between Sprinter 144" and 170" models, or between high-roof and low-roof versions? Installation is identical across all models; only the rail length differs.
-  Updated: 2025-12-10T03:41:18Z
+  Updated: 2025-12-12T17:45:25Z
   Vendor: Tec Vanlife USA
   Product Type: Logistic Track
   Availability: Available
@@ -1373,7 +1373,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/IMG_9360.jpg?v=1764440159
   Price: $59.00 USD
 - [Stealth II Heated Glove Liners (3500mAh USB-C batt)](https://openroadsupplycompany.com/products/stealth-ii-heated-glove-liners-3500mah-usb-c-batt): Elevate your cold-weather comfort with the Stealth II glove liners. Designed to fit seamlessly under your favorite gloves, these liners offer up to 6 hours of warmth powered by slim, USB-C rechargeable batteries. Steel fiber heating elements wrap around each fingertip, providing targeted heat where you need it most. Whether you're snowboarding, working outdoors, or managing conditions like arthritis or Raynaud’s, these liners deliver dependable warmth with three heat settings controlled via integrated buttons. Stay active, stay comfortable.
-  Updated: 2025-12-12T00:00:16Z
+  Updated: 2025-12-12T23:16:45Z
   Vendor: Gobi Heat
   Product Type: Heated Gloves
   Availability: Available
@@ -1391,7 +1391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/stealth-ii-heated-glove-liners-3500mah-usb-c-batt-793366.jpg?v=1764619950
     Price: $179.00 USD
 - [Cove Heated Portable Blanket - with Dual Control](https://openroadsupplycompany.com/products/cove-heated-portable-blanket-with-dual-control): Stay warm anywhere with the Gobi Heat® Cove Heated Wearable Blanket. This portable heated blanket combines the comfort of a premium quilted throw with the freedom of a hands-free wrap — powered by Gobi’s reliable heating technology. With 4 independent heating zones and dual-button controls, you can choose front-only, back-only, or full-coverage warmth. Perfect as a camping heated blanket, a stadium blanket for sports, or a cozy travel heated blanket at home or on the road. The included universal power kit gives you unmatched flexibility: plug into the rechargeable Gobi Heat® battery, a wall outlet, or your vehicle’s 12V socket. That means all-day warmth, indoors or outdoors, wherever life takes you. 🔌🔋 Key Features: Wearable Heated Blanket - Hands-free design that won’t slip or slide off. Multi-functional - use as a regular blanket or snap it up to wear it! 4 Heat Zones - Independent front and back panels for personalized warmth. Dual Controls - Power front or back zones separately, or all at once. 3 Heat Settings - Low, Medium, High (up to 140°F / 60°C). Universal Power Options - Use the battery, wall outlet, or 12V car adapter. Long Battery Life - up to 9 hours of heat, depending on zone and setting. Portable Travel Blanket - Folds into itself as a compact pillow (must be powered off first). Durable + Washable - Wind/water-resistant nylon shell, machine-washable for easy care. Complete Kit - Includes 1× Cove Heated Blanket, 1× 5,000mAh battery, 1× charging cable, 1× universal power kit, 1× storage bag. Cove is the ultimate portable heated blanket — designed for travel, camping, sports, and everyday comfort.
-  Updated: 2025-12-11T23:30:21Z
+  Updated: 2025-12-12T23:50:26Z
   Vendor: Gobi Heat
   Product Type: Heated Blanket
   Availability: Available
@@ -1409,7 +1409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Cove_Folded_Rye_WR.png?v=1764619951
     Price: $229.00 USD
 - [The Beck Chair - Ultra-Portable Heated Camping Chair](https://openroadsupplycompany.com/products/the-beck-chair-ultra-portable-heated-camping-chair): Meet The Beck Chair — the ultimate heated camp chair designed for adventurers who refuse to let the cold slow them down. Inspired by the wildly popular Terrain Heated Camping Chair, this new lightweight (only 6 lbs!) and ultra-portable design delivers comfort and warmth wherever your journey takes you—whether it’s a mountaintop sunrise, a cozy riverside camp, or the quiet depths of a slot canyon. Why It Exists Outdoor adventures shouldn’t end when temperatures drop. The Beck Chair was created for hikers, campers, hunters, and travelers who want lasting comfort without carrying heavy gear. With built-in heating zones in both the seat and backrest, it targets your large muscle groups, keeping you warm so you can relax longer in nature’s beauty. Key Features Dual Heat Zones – One in the seat, one in the backrest, for total warmth coverage. Powerful & Long-Lasting Heat – Includes a 10,000 mAh 5V power bank to keep you toasty for hours. Ultra-Portable Design – Weighs less than most folding chairs and packs down into a 14” x 6” x 6” carrying bag. Adventure-Ready – Perfect for camping, hiking, fishing, tailgating, or any outdoor escape. Convenient Carrying Case – Durable bag makes transport effortless. Three Stunning Color Options – Available in Marine, Onyx, and Cardinal. Your Comfort. Anywhere. From your own backyard to the farthest backcountry trail, The Beck Chair is built to go wherever you go—so you can sip coffee at sunrise, watch the stars in comfort, and make every outdoor moment warmer. Stay warm. Stay outside longer. Take The Beck Chair with you.
-  Updated: 2025-12-11T20:20:31Z
+  Updated: 2025-12-12T21:55:32Z
   Vendor: Gobi Heat
   Product Type: Heated Chair
   Availability: Available
@@ -1427,14 +1427,14 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/BeckCampChair_Onyx_Tonal.png?v=1764619950
     Price: $149.00 USD
 - [Additional/Replacement Ultra-Compact 5,000 mAh 5V power bank](https://openroadsupplycompany.com/products/additional-replacement-ultra-compact-5-000-mah-5v-power-bank): Stay powered and stay warm. The Gobi Heat® 5,000mAh lithium-ion battery delivers hours of heating performance, so you can take comfort wherever life takes you. Whether you’re commuting in the city, exploring the outdoors, or enjoying a night out, this compact, rechargeable battery keeps your heated gear running strong. Compatible with the following heated products: Enso Heated Scarf Squall Heated Balaclava Battery Specs: • Capacity: 5,000mAh • Type: Rechargeable Lithium-Ion • Runtime: Hours of warmth (depending on settings and product) • Charging Time: ~2.5 hours • Compact and lightweight for easy portability
-  Updated: 2025-12-11T23:45:16Z
+  Updated: 2025-12-12T23:53:32Z
   Vendor: Gobi Heat
   Product Type: Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/KE035_Frnt_1f9eea4a-b718-408b-9f26-960cf99db337.png?v=1765041318
   Price: $39.00 USD
 - [Dune Heated Vest for Women](https://openroadsupplycompany.com/products/dune-heated-vest-for-women): By combining lightweight, abrasion resistant nylon with conductive thread heating elements, our heated women's vest is your perfect solution for keeping warm on the go. With our New Quick-Charge Multi-Voltage Battery the Dune Heated Women's Vest provides up to 10 hours of electric warmth! Available in four colors (Plum, Onyx, Moss & Horizon) this vest has the ability to match any mood mother nature tosses at you. A low setting for those brisk days, medium for the cold ones and high for the bone chillingly "why do I live here?" ones! Our ultra compact battery supplies 3x the juice of other competitors and has a USB port for easy mobile charging.
-  Updated: 2025-12-11T23:58:00Z
+  Updated: 2025-12-12T23:55:36Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1599,7 +1599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/core-614w-portable-power-station-546444.jpg?v=1764619951
   Price: $350.00 USD
 - [Terrain Heated Camping Chair](https://openroadsupplycompany.com/products/terrain-heated-camping-chair): Stay warm. Sit strong. Anywhere. The Terrain Heated Camping Chair is built for adventure, season after season. Featuring a durable steel frame and weather-resistant 600/300 Denier Polyester, it’s designed to handle the outdoors with ease. Dual-zone heating in the seat and back is powered by a 7.4V 6500 mAh battery—delivering up to 9 hours of warmth and even doubling as a phone charger when you need it. Low (113°F): up to 9 hours Medium (122°F): up to 6 hours High (131°F): up to 4.5 hours Built tough at 11 lbs, the Terrain offers extra stability and supports up to 325 lbs. With its oversized carrying bag, it packs up easily while delivering the strength and staying power serious adventurers need. Comfort-focused features include: Padded armrests Self-leveling feet for uneven ground Built-in cup holder Zippered phone pocket with charging pass-through LED controller for instant heat adjustment Whether you’re camping, tailgating, or watching the game, the Terrain is your go-to for rugged comfort and reliable, all-day warmth.
-  Updated: 2025-12-11T23:25:21Z
+  Updated: 2025-12-12T23:55:21Z
   Vendor: Gobi Heat
   Product Type: Heated Chair
   Availability: Available
@@ -1628,15 +1628,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/CH-SUN-HM.png?v=1764619951
     Price: $179.00 USD
-- [Squall Heated Balaclava](https://openroadsupplycompany.com/products/squall-heated-balaclava): Full-face warmth. Total comfort. When the temperature drops, the Gobi Heat® Squall Heated Balaclava brings powerful, all-around warmth to your cold-weather adventures. Made from ultra-soft polar fleece, Squall combines the coverage of a hood with the snug fit of a gaiter — keeping your face, ears, and neck warm no matter where the day takes you. Key Features Four Heat Zones – Targeted warmth across the face, ears, and neck. Cozy Polar Fleece – Plush, insulating fabric that feels soft against the skin while locking in heat. Adjustable Drawstring – Tighten or loosen for a perfect, stay-put fit. Hybrid Design – The perfect balance between a hood and a gaiter for versatile, breathable comfort. Powered by Gobi Heat® – Includes a 5V 5,000 mAh rechargeable battery for lasting warmth on the go. Fit & Details Size: One Size Fits Most Color: Onyx Why You’ll Love It The Squall is your go-anywhere cold-weather essential, built for everything from morning commutes to mountain trails. With four heating zones and a soft, adjustable fleece fit, it delivers the perfect combination of protection, comfort, and warmth — right where you need it most.
-  Updated: 2025-12-11T23:53:06Z
-  Vendor: Gobi Heat
-  Product Type: Heated Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Squall_Pair_Full_HM_WR.png?v=1764619952
-  Price: $59.00 USD
 - [Dune Mens Heated Vest](https://openroadsupplycompany.com/products/dune-mens-heated-vest): By combining lightweight, abrasion resistant nylon with conductive thread heating elements, our heated men's vest is your perfect solution for keeping warm on the go. With our New Quick-Charge Multi-Voltage Battery the Dune Heated men's Vest provides up to 10 hours of electric warmth! Available in four colors (Onyx, Moss, Navy & Horizon) this vest has the ability to match any mood mother nature tosses at you. A low setting for those brisk days, medium for the cold ones and high for the bone chillingly "why do I live here?" ones! Our ultra compact battery supplies 3x the juice of other competitors and has a USB port for easy mobile charging.
-  Updated: 2025-12-12T00:00:17Z
+  Updated: 2025-12-12T23:30:32Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1754,7 +1747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/dune-mens-heated-vest-258928.jpg?v=1764619951
     Price: $189.00 USD
 - [Sierra Heated Knit Vest - Men's](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens): Everyday warmth. Effortless value. Meet the Gobi Heat® Sierra Heated Knit Vest — lightweight, flexible, and designed to keep warmth within reach. Built with the same trusted Gobi Heat technology found in our premium outerwear, Sierra delivers dependable heat, a comfortable knit feel, and everyday versatility at our most accessible price yet. Key Features Four Heat Zones – Two in the chest, one in the neck, and one on the upper back for complete core warmth. Simple, Reliable Heat – Powered by the Gobi Heat® 5V 10,000 mAh battery for long-lasting comfort wherever you go. Lightweight Knit Fabric – Soft, breathable, and easy to layer for year-round wear. Zippered Pockets – Secure your essentials while keeping a clean, casual profile. Easy Control – One-touch heat settings (Low, Medium, High) make warmth as simple as pressing a button. Fit & Details Men’s Sizes: S–4XL Women’s Sizes: XS–3XL Color: Onyx Why You’ll Love It Sierra brings core warmth to everyone. With four targeted heating zones, soft knit construction, and a clean everyday design, it’s your go-to layer for workdays, weekends, and everything in between — all at a price that makes heated comfort easier than ever to own.
-  Updated: 2025-12-11T23:26:26Z
+  Updated: 2025-12-12T21:55:52Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1768,7 +1761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
   - [Onyx / L](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens?variant=58439759265873)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
   - [Onyx / XL](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens?variant=58439759298641)
@@ -1788,7 +1781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
 - [Sierra Heated Knit Vest - Women's](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-womens): Everyday warmth. Effortless value. Meet the Gobi Heat® Sierra Heated Knit Vest — lightweight, flexible, and designed to keep warmth within reach. Built with the same trusted Gobi Heat technology found in our premium outerwear, Sierra delivers dependable heat, a comfortable knit feel, and everyday versatility at our most accessible price yet. Key Features Four Heat Zones – Two in the chest, one in the neck, and one on the upper back for complete core warmth. Simple, Reliable Heat – Powered by the Gobi Heat® 5V 10,000 mAh battery for long-lasting comfort wherever you go. Lightweight Knit Fabric – Soft, breathable, and easy to layer for year-round wear. Zippered Pockets – Secure your essentials while keeping a clean, casual profile. Easy Control – One-touch heat settings (Low, Medium, High) make warmth as simple as pressing a button. Fit & Details Men’s Sizes: S–4XL Women’s Sizes: XS–3XL Color: Onyx Why You’ll Love It Sierra brings core warmth to everyone. With four targeted heating zones, soft knit construction, and a clean everyday design, it’s your go-to layer for workdays, weekends, and everything in between — all at a price that makes heated comfort easier than ever to own.
-  Updated: 2025-12-11T23:53:31Z
+  Updated: 2025-12-12T21:51:07Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1802,7 +1795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Womens_Front_WR.png?v=1764619955
     Price: $119.00 USD
   - [Onyx / M](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-womens?variant=58439759495249)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Womens_Front_WR.png?v=1764619955
     Price: $119.00 USD
   - [Onyx / L](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-womens?variant=58439759528017)
@@ -1822,7 +1815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Womens_Front_WR.png?v=1764619955
     Price: $119.00 USD
 - [Polaris Heated Puffer Jacket - Men's](https://openroadsupplycompany.com/products/polaris-heated-puffer-jacket-mens): Premium warmth. Elevated design. The Gobi Heat® Polaris Heated Puffer Jacket redefines cold-weather luxury with precision heating technology wrapped in buttery-soft performance fabric. Engineered for both men and women, Polaris combines four targeted heat zones, refined quilting, and a sleek hooded silhouette for all-day comfort that looks as good as it feels. Key Features Four Heat Zones – Two in the chest, one in the neck, and one in the upper back deliver balanced, all-around warmth. Dual-Control Heating – Independently adjust your zones with three heat settings (Low, Medium, High) for complete temperature control. Fast-Charge Power – Powered by the Gobi Heat® PD 5,000 mAh battery for quick charging and dependable performance. Buttery Soft Shell – Smooth to the touch yet built to endure the elements with a durable, water-resistant finish. Signature Watermarked Lining – Subtle Gobi Heat logo lining adds a refined touch and premium feel inside every jacket. Adjustable Hood with Peak – Shields against wind and snow while maintaining a clean, athletic silhouette. Functional Storage – Two zippered hand pockets and a left-arm zip pocket keep essentials close and secure. Fit & Details Men’s Sizes: S–4XL Women’s Sizes: XS–3XL Colors: Onyx Black | Eddy Blue | Fog Gray Why You’ll Love It Polaris delivers sophisticated warmth without compromise — luxurious in feel, intelligent in design, and ready for the coldest days. With its buttery-soft exterior, logo-lined interior, and powerful four-zone heating system, Polaris keeps you warm, comfortable, and confidently styled wherever winter takes you.
-  Updated: 2025-12-11T20:05:56Z
+  Updated: 2025-12-12T22:05:30Z
   Vendor: Gobi Heat
   Product Type: Mens Heated Jackets
   Availability: Available
@@ -1912,7 +1905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Polaris_Mens_Front_WR_3098fc66-e511-45e8-b189-35170e52551c.png?v=1764619955
     Price: $239.00 USD
 - [Polaris Heated Puffer Jacket - Woman's](https://openroadsupplycompany.com/products/polaris-heated-puffer-jacket-womans): Premium warmth. Elevated design. The Gobi Heat® Polaris Heated Puffer Jacket redefines cold-weather luxury with precision heating technology wrapped in buttery-soft performance fabric. Engineered for both men and women, Polaris combines four targeted heat zones, refined quilting, and a sleek hooded silhouette for all-day comfort that looks as good as it feels. Four Heat Zones – Two in the chest, one in the neck, and one in the upper back deliver balanced, all-around warmth. Dual-Control Heating – Independently adjust your zones with three heat settings (Low, Medium, High) for complete temperature control. Fast-Charge Power – Powered by the Gobi Heat® PD 5,000 mAh battery for quick charging and dependable performance. Buttery Soft Shell – Smooth to the touch yet built to endure the elements with a durable, water-resistant finish. Signature Watermarked Lining – Subtle Gobi Heat logo lining adds a refined touch and premium feel inside every jacket. Adjustable Hood with Peak – Shields against wind and snow while maintaining a clean, athletic silhouette. Functional Storage – Two zippered hand pockets and a left-arm zip pocket keep essentials close and secure. Why You’ll Love It Polaris delivers sophisticated warmth without compromise — luxurious in feel, intelligent in design, and ready for the coldest days. With its buttery-soft exterior, logo-lined interior, and powerful four-zone heating system, Polaris keeps you warm, comfortable, and confidently styled wherever winter takes you.
-  Updated: 2025-12-11T21:06:04Z
+  Updated: 2025-12-12T20:31:02Z
   Vendor: Gobi Heat
   Product Type: Womens Heated Jackets
   Availability: Available
@@ -2023,7 +2016,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/wavebandit6__amazon.jpg?v=1764624079
   Price: $33.95 USD
 - [Easy Rider (Tri Fin)](https://openroadsupplycompany.com/products/easy-rider-tri-fin): The Wave Bandit Easy Rider is the ultimate soft surfboard for beginners, offering a smooth, stable ride that makes catching waves a breeze. Its softboard construction, extra foam, and longboard shape make gliding and learning maneuvers effortless, while the durable composite foam core and dual wood stringers ensure it’s built to last. Plus, the built-in handle makes it easy to carry, so you're always ready for your next adventure! SIZES: 7’0” x 22.0” x 3.125” (72 Liters) 8'0" x 23.0" x 3.375" (86 Liters) FEATURES: Designed for: Beginners seeking a smooth, stable ride for easy wave catching Performance: Softboard construction with extra foam for effortless gliding and learning maneuvers Construction: Dual-Composite EPS Core, HD PE Slick Deck, and Dual-Wood Stringers to provide maximum stiffness for speed and durability. Built-in handle for easy carrying, making it ready for any surf adventure Skill Level: Perfect for first-time surfers and those mastering the basics Purpose: Helps beginners progress with ease while enjoying a stable, fun ride on the waves Required: Surf Wax for grip & Surf Leash Included: 4.5” Pop Thru Tri Fin Set
-  Updated: 2025-12-11T18:17:36Z
+  Updated: 2025-12-12T16:49:21Z
   Vendor: Catch Surf®
   Product Type: Surfboards
   Availability: Available
@@ -2053,7 +2046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB70_PK25_Pcopy.jpg?v=1764624079
     Price: $374.99 USD
 - [Performer (Tri Fin)](https://openroadsupplycompany.com/products/performer-tri-fin): The Wave Bandit Performer is the perfect blend of performance and durability, making it ideal for everyone from beginners to expert surfers. With its sleek fish shape and tri-fin setup, this board excels in all surf conditions, helping you rip down the line and carve clean turns in no time. Whether you're just starting or leveling up your skills, the Performer’s got you covered! SIZES: 5’6” x 21.0” x 2.875” (42 Liters) 6’0” x 21.5” x 3.0” (48 Liters) 6'6" x 22.0" x 3.125" (55 Liters) FEATURES: Designed for: All skill levels, mainly for the intermediate to expert surfers Performance: Sleek fish shape and tri-fin setup for enhanced speed and maneuverability Construction: Dual-Composite EPS Core, HD PE Slick Deck, and Dual-Wood Stringers to provide maximum stiffness for speed and durability Skill Level: Perfect for surfers starting out or leveling up their skills Purpose: Provides everything you need to rip and carve with confidence on the waves Required: Surf Wax for grip & Surf Leash Included: 4.5” Pop Thru Tri Fin Set
-  Updated: 2025-12-10T23:28:02Z
+  Updated: 2025-12-12T19:19:18Z
   Vendor: Catch Surf®
   Product Type: Surfboards
   Availability: Available
@@ -2151,7 +2144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_POD_solo_2x_410w_50ftcable.webp?v=1764625574
     Price: $2,299.99 USD
 - [Nature's Generator Lithium 1800 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-1800-power-station): High-Performance Power: Delivers 1800 watts of clean, renewable energy, ideal as a portable power station for home battery backup, RV trips, camping, or on-the-go. Long-Lasting LiFePO4 Battery: Equipped with a durable 1440Wh LiFePO4 battery for reliable, and extended use. Multi-Charging Options: Supports solar, wind, and AC charging, offering flexibility for home, on the road, or off-grid scenarios. Double Your Power: Easily expand up to 3600 watts by pairing a second Lithium 1800 and combiner, boosting capacity for larger energy demands. Home Integration Ready: Offers transfer switch or power inlet box options for seamless integration, providing power backup for essential home circuits during outages. Versatile Output Ports: Includes AC, DC, USB, and 12V outlets to power devices from phones to essential home appliances. User-Friendly Display: Features an LED screen for easy monitoring of battery levels, wattage usage, and remaining power time. Durable and Portable: Built with rugged, high-quality materials for easy transport and lasting outdoor reliability.
-  Updated: 2025-12-11T17:37:19Z
+  Updated: 2025-12-12T05:36:21Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
@@ -2218,7 +2211,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Screenshot2025-02-26at5.26.42PM_943f9f12-f11b-4ec3-809f-cedf4363a1b4.png?v=1764651490
   Price: $149.00 USD
 - [Sauna Tent Wood Stove XL](https://openroadsupplycompany.com/products/sauna-tent-wood-stove-xl): Stainless-Steel Sauna Tent Wood Stove XL Intense Heat for Ultimate Relaxation Our sauna wood stove XL is considerably wider than our standard stove and made with thicker metal, making it more durable and a more even heat. It also holds more sauna stones so you can enjoy more steam! Fill the firebox with standard-length firewood, stack 70-80 lbs. of sauna stones in the XL Rock Basket (sold separately), and sweat away! This XL stove is portable, but it is quite a bit heavier than the standard stove. If you're not so concerned about portability and/or live in a cold area, this is the stove for your Nova 6 or Dome Sauna tent. Product Specifications: Sizes of the firebox and stove include 16" tall, 12" wide, and 21" long; 19" tall, 10" wide, 24" long; and 25" high with extended legs. includes six 4-inch-diameter chimney sections. SS304 Stainless Steel Weight: ~80 lbs
-  Updated: 2025-12-10T03:41:20Z
+  Updated: 2025-12-12T19:00:33Z
   Vendor: North Shore Sauna
   Product Type: Tent Sauna Stove
   Availability: Available
@@ -2239,7 +2232,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/jackery-battery-pack-1000-plusrefurbished-9472174.png?v=1764627158
   Price: $459.00 USD
 - [Jackery Explorer 1500 v2 Portable Power Station](https://openroadsupplycompany.com/products/jackery-explorer-1500-v2-portable-power-station): High Power OutputDelivers 1536Wh capacity with 2000W AC output and 4000W surge for high-demand devices. Ultra Cost-EffectiveEnjoy 9% lower cost per Wh than other 1.5kWh portable power stations. 7 Ports for Multiple DevicesDual USB-C fast-charge and 3 AC outlets power phones, laptops, e-bikes, and car fridges — indoors or outdoors. Fast Charging ModeRecharges from 0% to 100% in just 64 minutes for instant readiness. Space-Saving & LightweightThe world’s smallest and lightest 1.5kWh LiFePO4 power station - only 31.97 lbs ≈ 1 bucket of water. Built to Last6,000+ Life Cycles, 10 years lifespan. Multi-Layer Safety ProtectionEquipped with over 10 safety protocols to protect both you and your devices.
-  Updated: 2025-12-11T20:16:59Z
+  Updated: 2025-12-12T19:22:47Z
   Vendor: Jackery
   Product Type: 
   Availability: Available
@@ -2253,7 +2246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/jackery-explorer-1500-v2-portable-power-station-3175036.png?v=1764627158
     Price: $899.00 USD
 - [Explorer 5000 Plus](https://openroadsupplycompany.com/products/explorer-5000-plus): No More Spoiled Food or Wet Clothes Even During Hurricanes, Thunderstorms, and Blackouts: 5-60kWh capacity & 7200-14400W output supports multiple devices for up to 30 days Your Fridge Stays Cold, Your Zoom Call Stays On: 0ms Power Transition, Zero Worries Always Power Your Essential Rooms: Smart Transfer Switch Ensures Uninterrupted Power Where It Matters Most, Learn More > From Indoors to Outdoors: 120V/240V Dual Voltage Enhances Compatibility, Supporting More Loads and More Scenarios Fully Charged in 1.7 Hours: 4000W Solar Input, 5 Ways to Charge, Never Run Out of Power Learn more about Jackery Explorer 5000 Plus> Learn more about Jackery Smart Transfer Switch>
-  Updated: 2025-12-11T21:18:29Z
+  Updated: 2025-12-12T20:30:36Z
   Vendor: Jackery
   Product Type: 
   Availability: Available
@@ -2265,7 +2258,7 @@
   - [Explorer 5000 Plus + SolarSaga 500 X x 2](https://openroadsupplycompany.com/products/explorer-5000-plus?variant=58440113782865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/explorer-5000-plus-series-1559672.png?v=1764627158
-    Price: $4,099.00 USD
+    Price: $3,999.00 USD
   - [Explorer 5000 Plus + SolarSaga 500 X x 2 + Smart Transfer Switch](https://openroadsupplycompany.com/products/explorer-5000-plus?variant=58440113815633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/explorer-5000-plus-9216994.png?v=1764627158
@@ -2283,7 +2276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/jackery-whole-home-backup-kit-5000-plus-20kwh-7509991.png?v=1764627158
     Price: $9,699.00 USD
 - [FireCan Fire Pit](https://openroadsupplycompany.com/products/firecan-fire-pit): *WE ARE SORRY, BUT THE FIRECAN IS NOT AVAILABLE TO SHIP OUTSIDE THE USA An absolute workhorse, and the best flame for your buck. The FireCan OG’s bomber powder-coated black steel frame holds up through any adventure, cranking out 37,000 BTUs of blazing heat. BURN BAN PARTY PLAN - No Smoke, No Wood, No Spark. Raised off the forest floor, providing the perfect alternative to wood fires during the summer burn bans. COMPACT & DURABLE - Tried-and-true ammo can design, powder-coated black steel, stows, and fits anywhere. The collapsible legs and removable lid are easy to set up and quick to break down. SETS UP IN SECONDS - With the quick-release connection, you can have 37,00 BTUs of campfire instantly. MORE HEAT, MORE FLAME - Mesh sides increase visibility and transmission of heat. PLUG AND PLAY - Includes everything you need, all together. Includes FireCan and a 5 ft. hose with an adjustable regulator. * FireCan Fire Rocks or Moon Rocks Highly Recommended
-  Updated: 2025-12-11T02:00:16Z
+  Updated: 2025-12-12T12:51:46Z
   Vendor: Ignik Outdoors
   Product Type: Sporting Goods
   Availability: Available
@@ -2297,7 +2290,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/FLIPSIDE-MOCK-fleece-1copy.jpg?v=1764633359
   Price: $249.95 USD
 - [FireCan Rocks](https://openroadsupplycompany.com/products/firecan-rocks): Made from pure lava rock! Make your FireCan™ flames dance!• 5 lbs of natural tumbled lava stone• Fits perfect over the FireCan™ burners• Provides variable flames for a more natural look. WARNING: Volcanic rock has the ability to trap moisture and fracture or pop upon rapid heating. When using lava rock apply heat gradually and at low levels to reduce the release of any moisture or internal steam buildup.
-  Updated: 2025-12-10T03:41:20Z
+  Updated: 2025-12-12T03:05:06Z
   Vendor: Ignik Outdoors
   Product Type: PROPANE HEAT
   Availability: Available
@@ -2318,7 +2311,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-flipside-duo-hot.jpg?v=1764633359
   Price: $379.95 USD
 - [Ripple Rechargeable Hand Warmers](https://openroadsupplycompany.com/products/ripple-rechargeable-hand-warmers): Finally, a rechargeable hand warmer small enough to fit in your gloves and designed specifically for everyday winter adventures. The Ripple is the future of on-the-go instant heat, built for those who live and play out in the cold all winter long. Crank up the heat with Turbo Mode for extra frigid days or switch to Efficiency Mode for lasting warmth on the long haul. Need heat for the whole crew? Pack extras in your pocket for backup. The Ripple’s quick-charge USB-C dock lets you power up multiple warmers at once—fast, easy, and hassle-free. Plus, they come zipped up and secure in a rugged travel case. The days of cold hands and wasteful single-use hand warmers are over. FEATURES: Instant Heat! Ripple heats up in just seconds. Rechargeable hand warmers that fit in your gloves and are ready to send it. Designed specifically for skiing, snowboarding, and snowy adventures. IPX4 Water Resistant. Heat settings lasting 3 hours on High and 8-12 hours on Efficiency Mode. Charge all your warmers at once. The innovative charging station is low-profile, magnetic, easy-to-use, and uses just one cable. No more charging each hand warmer separately. Each 6-pack replaces 3600 single-use hand warmers, enough to fill a 52-gallon trash can. Each 4-pack replaces 2400 single-use hand warmers, enough to fill a 35-gallon trash can. Each set saves around $3000 worth of single-use Hand Warmers
-  Updated: 2025-12-11T22:59:15Z
+  Updated: 2025-12-12T17:30:29Z
   Vendor: Ignik Outdoors
   Product Type: 
   Availability: Available
@@ -2332,27 +2325,27 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-ripple-web-orange-bundle-6.jpg?v=1764633358
     Price: $169.95 USD
 - [FireCan Elite Fire Pit](https://openroadsupplycompany.com/products/firecan-elite-fire-pit): The next evolution of the FireCan, with more power, lighter weight and more control, lets you take your campfire further. MORE HEAT – CSA Certified, a powerful OVER 50K BTU/Hr. heat output. MORE COMPACT – Tucked-away Quick-release connector and Flame controls on the FireCan. LIGHTER & MORE DURABLE - Stainless Steel Construction with Anodized Aluminum removable lid - 25% lighter weight. INDUSTRY FIRST - First-ever CSA Certified product with 5psi, quick-release. Includes CSA propane cylinder stand. * FireCan Fire Rocks or Moon Rocks Highly Recommended
-  Updated: 2025-12-11T19:39:31Z
+  Updated: 2025-12-12T18:55:31Z
   Vendor: Ignik Outdoors
   Product Type: Sustainable Campfire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-firecan-elite-hero-temp.jpg?v=1764633358
   Price: $299.95 USD
 - [FireCan Deluxe Fire Pit](https://openroadsupplycompany.com/products/firecan-deluxe-fire-pit): *WE ARE SORRY, BUT THE FIRECAN DELUXE IS NOT AVAILABLE TO SHIP OUTSIDE THE USA Stay Fueled, Fed, and Fired Up—everything you need to grill and chill trailside. GRILL MODE + REMOVABLE GRILL INSERT - Stainless steel flame tray insert for the perfect cooking temperatures. Flame Adjustment knob for controlling the cook temperatures. FlRE PIT MODE - Dual burner portable Fire Pit for campfire anywhere you go. COMPACT & DURABLE - Stainless steel can construction, stows, and fits anywhere. Collapsible legs and removable lid, are easy to set up and quick to break down. REMOVABLE GREASE TRAY - Easy-to-use tray to catch excess grease. FOREST SAFE - Replaces wood fires, raised off the forest floor. PLUG AND PLAY - Includes everything you need, all together. Includes FireCan and a 5 ft. quick-release hose. GREAT FOR:
-  Updated: 2025-12-10T03:41:21Z
+  Updated: 2025-12-12T23:57:21Z
   Vendor: Ignik Outdoors
   Product Type: Sporting Goods
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-firecan-deluxe-front.jpg?v=1764633358
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-firecan-deluxe-front.jpg?v=1765583837
   Price: $349.95 USD
 - [Gas Growler X Deluxe](https://openroadsupplycompany.com/products/gas-growler-x-deluxe): 10 times the adventure potential for those longer trips. 10 lb. (2.5 gallons) refillable propane tank eliminates the waste associated with smaller single-use propane bottles 4 ft. adapter hose with 1-in 20UNEF connector attaches to popular 2-burner camp stoves, along with 0.5-inch QCC1/OPD devices like home BBQ grills. Dual zip-top case, detachable carrying handle, and Molle stitching make for easy transport, storage and versatility. Complies with DOT specifications 4BA, 4BW and 4E, making it safe to transport in your car, SUV, RV or boat. Complies with Transport Canada specification TC-4BAM16 making it safe to transport in your car, SUV, RV or boat. Tank is pre-purged and ready to be filled at any propane filling station. GREAT FOR:
-  Updated: 2025-12-11T20:46:07Z
+  Updated: 2025-12-12T18:00:10Z
   Vendor: Ignik Outdoors
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-10-dlx-black_a14102a8-ec84-4ea8-968e-2fc8275403fb.jpg?v=1764633783
   - [Black](https://openroadsupplycompany.com/products/gas-growler-x-deluxe?variant=58440251441233)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-10-dlx-black_a14102a8-ec84-4ea8-968e-2fc8275403fb.jpg?v=1764633783
     Price: $199.95 USD
   - [White](https://openroadsupplycompany.com/products/gas-growler-x-deluxe?variant=58440251474001)
@@ -2360,7 +2353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-10-dlx-white_57ed6e3f-9eec-4516-9856-8469c40082f5.jpg?v=1765308078
     Price: $199.95 USD
 - [Gas Growler 3.8 Deluxe](https://openroadsupplycompany.com/products/gas-growler-3-8-deluxe): The perfect refillable propane solution for your outdoor kitchen. The Gas Growler 3.8 is nearly 4 times the propane as those single-use 1lb green bottles and is easy to pack and take anywhere. With its high-quality construction, extra durable rubber edging, and optimal size, this gas growler will keep you fueled, fed, and fired up all season long. FEATURES: 3.8-pound (0.9 gallon) refillable propane tank is more economical and less wasteful than single-use, 16-ounce "green" propane bottles and more portable than traditional 20-lb tanks. Includes: Our compact 3.8 lb (0.9-gallon) Refillable Tank, 4ft. (1.2m) Adapter Hose, and a rugged, easy-to-carry, protective Case. Each refill provides 3.8X the fuel of one single-use bottle and about the same price. That’s like getting nearly 4x the fuel for the price of one. The perfect addition to your camp kitchen setup, use with your 1 or 2-burner stove, ready for your next adventure with everything you need in one place. Super compact and highly portable (8.5" x 8.5" x 11.8"). Ideal for adventures that require portability, or when space is limited, such as camping, overlanding, RVing, boating, and tailgating. DOT-approved, 12-year valve certification. Ignik is a member of 1% for The Planet, meaning it donates 1% of all sales help to fight climate change in the Arctic. Tanks are shipped pre-purged and ready to be filled at any propane filling station. Note: Propane not included, cylinder will need to be filled prior to first use.
-  Updated: 2025-12-11T13:56:38Z
+  Updated: 2025-12-12T14:27:41Z
   Vendor: Ignik Outdoors
   Product Type: PROPANE HEAT
   Availability: Available
@@ -2374,7 +2367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-3.8-white.jpg?v=1764633783
     Price: $129.95 USD
 - [Gas Growler 5.0 Deluxe](https://openroadsupplycompany.com/products/gas-growler-5-0-deluxe): THE GAS GROWLER DELUXE FEATURES Outdoor Retailer + Snow Show Innovation Award Winner! One Gas Growler fill costs about the same as one single-use green bottle and lasts 5 times as long. Includes a 4’/1.2M hose that attaches to all heaters and stoves that use single-use green propane bottles. The Gas Growler complies with DOT specifications 4BA, 4BW and 4E. It is safe to transport in your car, SUV, RV, or boat. Rugged protective case with room for hose and wrench storage. Molle stitched webbing for attaching pouches for accessories or strapping down for transport. Tanks are shipped pre-purged and ready to be filled at any propane filling station. GREAT FOR:
-  Updated: 2025-12-11T23:53:41Z
+  Updated: 2025-12-12T17:26:11Z
   Vendor: Ignik Outdoors
   Product Type: 
   Availability: Available
@@ -2396,7 +2389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-5-dlx-white_ec57318c-0563-4d43-b28b-9f58b36b4dd6.jpg?v=1764633789
     Price: $149.95 USD
 - [Roam Heated Socks – Unisex Rechargeable Heated Socks with Remote Control](https://openroadsupplycompany.com/products/roam-heated-socks-unisex-rechargeable-heated-socks-with-remote-control): Stay warm wherever life takes you with Gobi Heat® Roam Heated Socks. Engineered with premium-grade materials, these unisex heated socks deliver lasting comfort and full-foot warmth whether you’re hiking, working, or relaxing outdoors. With three heat settings (Low, Medium, High) and temperatures up to 149°F, you’ll have total control over your comfort in any condition. We’ve improved on the Tread with a super soft, silky-smooth modal cotton blend that feels cool and luxurious against the skin while keeping warmth locked in. This unique fabric not only enhances comfort but also adds breathability and durability, making the Roam perfect for all-day wear. We’ve also expanded the heating zone to cover the entire bottom of your foot—from toe to heel—for even more warmth where you need it most. The included rechargeable batteries last up to 6 hours on a single charge, and the handy wireless remote lets you adjust heat levels without missing a step. Plus, they’re machine washable for everyday convenience. Perfect for outdoor enthusiasts, cold-weather workers, or anyone who wants to stay warm from toe to heel, Roam Heated Socks are your all-day solution to the cold. ✅ 3 Heat Settings – Low, Medium, High ✅ Battery Life – Up to 6 hours of warmth ✅ Temperature – Up to 149°F ✅ Remote Included – Easily change heat settings on the go ✅ Machine Washable – Designed for everyday wear ✅ Unisex Fit – Ideal for men and women What’s in the box: 1 Pair of Roam Heated Socks 2 Rechargeable Batteries Wireless Remote Control Charger Click here for how to pair your batteries with your remote!
-  Updated: 2025-12-11T21:41:12Z
+  Updated: 2025-12-12T23:47:16Z
   Vendor: Gobi Heat
   Product Type: Heated Socks
   Availability: Available
@@ -2418,7 +2411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Roam_Back_Bottom_Orange_WR_44bc206d-22ef-4d74-83bd-c8f6ced5b8d3.png?v=1764887184
     Price: $179.00 USD
 - [Crest Womens Heated Beanie](https://openroadsupplycompany.com/products/crest-womens-heated-beanie): Our polyester & spandex womens knit beanie can power your warmth for up to 7.5 hours! Activate the over ear dual steel fiber tech heating areas, across 3 temperature settings, with our one touch led controller. This durable heated womens beanie with 100% acrylic fiber interior is machine washable as well! Don’t let the winter cold stop you from doing the things you love!
-  Updated: 2025-12-11T23:57:56Z
+  Updated: 2025-12-12T23:50:26Z
   Vendor: Gobi Heat
   Product Type: Heated Hats
   Availability: Available
@@ -2432,7 +2425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/crest-womens-heated-beanie-845594.jpg?v=1764652824
     Price: $119.00 USD
 - [Summit Mens Heated Beanie](https://openroadsupplycompany.com/products/summit-mens-heated-beanie): Stay warm and stylish this winter with the Summit Heated Beanie. Made from a soft, machine-washable cotton/acrylic blend, this cozy beanie comes in a range of trendy colors, making it an essential addition to your cold-weather wardrobe. Powered by innovative steel fiber heating technology, the Summit Heated Beanie delivers exceptional warmth with up to 7.5 hours of heat. Its two strategically placed heating zones—one over each ear—ensure you stay comfortable in even the coldest conditions. With a simple one-touch LED controller, you can easily switch between low, medium, or high heat settings to match your personal preference. Whether you're braving chilly commutes, hiking snowy trails, or simply enjoying outdoor winter activities, the Summit Heated Beanie keeps the cold at bay so you can focus on what you love. Don’t let winter slow you down—experience the warmth of Gobi Heat’s heated beanies today!
-  Updated: 2025-12-11T22:07:08Z
+  Updated: 2025-12-12T23:04:11Z
   Vendor: Gobi Heat
   Product Type: Heated Hats
   Availability: Available
@@ -2446,14 +2439,14 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/summit-mens-heated-beanie-325232.jpg?v=1764652824
     Price: $119.00 USD
 - [Portable Magnetic Hand Warmers](https://openroadsupplycompany.com/products/portable-magnetic-hand-warmers): Introducing our Portable Magnetic Hand Warmers Pair – the perfect solution for on-the-go, on-demand heat! These compact hand warmers are designed to comfortably fit in your pockets, providing up to 6 hours of reusable, battery-powered warmth. Forget about single-use chemical packs; our hand warmers are USB rechargeable, so you can stay warm while keeping things sustainable. With just a single press, you can switch between 3 heat levels to find the perfect temperature, and they’re magnetically designed to stay together when not in use. These hand warmers are ready to tackle cold weather, wherever you are. Features: Magnetic Design: Conveniently keep the pair together. Comfortable Heat: Heats to a cozy temperature perfect for your pockets. Long-Lasting: Provides up to 6 hours of heat with a 5000mAh battery. Eco-Friendly & Reusable: No chemicals – just recharge via USB! Portable and Lightweight: Easily fits in your bag or pockets. Safe & Reliable Our hand warmers are built with safety in mind, offering multiple protection features and a design that's safe for travel. Whether you’re outdoors, at work, or just need a little extra warmth on a chilly day, these hand warmers are the perfect companion.
-  Updated: 2025-12-11T23:52:32Z
+  Updated: 2025-12-12T23:55:18Z
   Vendor: Gobi Heat
   Product Type: Heated Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/HandWarmers_WEB.jpg?v=1764652824
   Price: $39.00 USD
 - [Tread Heated Socks (Final Sale)](https://openroadsupplycompany.com/products/tread-heated-socks): Stay warm and comfortable in the cold with our Tread Heated Socks. Made from 100% cotton for breathability and comfort, these socks feature advanced heating elements beneath the toes, providing instant warmth. The included remote control allows you to switch between three heat settings—no need to remove your boots or adjust layers. Powered by two rechargeable batteries, you'll get up to 12 hours of heat, making them perfect for all-day adventures. Plus, they're machine washable and come with a 1-year warranty, so you're ready to take on winter without worry! Key Features: Adjustable heat settings (low, medium, high) Up to 12 hours of warmth Machine washable Remote control for easy heat adjustments 1-year warranty Don't let the cold slow you down—experience warmth with every step!
-  Updated: 2025-12-11T22:05:51Z
+  Updated: 2025-12-12T22:08:16Z
   Vendor: Gobi Heat
   Product Type: Heated Socks
   Availability: Available
@@ -2527,7 +2520,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Untitleddesign_5.png?v=1764804004
   Price: $1,250.00 USD
 - [SV Off-Road Lights](https://openroadsupplycompany.com/products/sv-off-road-lights): Build out your products on a van! Our 7" off-road headlights are a rugged and powerful lighting solution designed to enhance your nighttime, snowy, dusty, rainy, or foggy adventures. Sold as a pair in both amber and white color options, these headlights come in a durable construction with high-intensity beams, ensuring you can confidently navigate off-road trails, conquer rough terrain, and explore the great outdoors safely, even in the darkest of nights. Upgrade your vehicle with our off-road headlights and illuminate your path with confidence. Includes 2 off-road lights and wiring harness with switch. 8000 Lumens 90W Combo Beam Pattern ..further questions? Give the Sandy Vans Team a call (619) 812-1903
-  Updated: 2025-12-10T17:33:52Z
+  Updated: 2025-12-12T22:31:09Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -2548,7 +2541,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/BoostBoxMiniTransparent.png?v=1764804011
   Price: $1,000.00 USD
 - [SV Shoreline Power Bracket](https://openroadsupplycompany.com/products/sv-shoreline-power-bracket): Sandy Vans designed accessory coming your way, the 'Shoreline' power bracket! Mount the shore power hookup in a discrete easy to access location all while saving yourself the fear of drilling another hole in the side of your van. Includes plug Bracket built from 3/16 in Aluminum Powder-coated black Easy DIY Install 15 amp / 110v plug (Included) Plug has 16" pigtail Mounts directly to factory Mercedes Sprinter (2008+) tow package assembly Compatible with Mercedes Sprinter 144, 170, & 170 EXT What's in the box: Hardware & electrical FREE SHIPPING!
-  Updated: 2025-12-10T03:41:21Z
+  Updated: 2025-12-12T19:38:30Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -2561,8 +2554,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/photo-3_ef28356f-fda7-4fc3-b217-0c97a929a856.jpg?v=1764804006
     Price: $160.00 USD
-- [Sprinter Van Rear Door Bug Screen](https://openroadsupplycompany.com/products/sprinter-van-rear-door-bug-screen): RESTOCK ROLLING IN LATE JANUARY Keep your adventure bug-free with the Sandy Vans Bug Screen kit! The Sandy Vans Mercedes Sprinter Door Bug Screens create a complete, sealed barrier to BUGS out! Transparent micro-mesh material offers you optimal visibility so you can enjoy a bug-free environment without obstructing your view of the outdoors. Complete with no hassle entry & exit, your next trip is about to get a whole lot more comfortable. KEY FEATURES: Zipper center for easy access. Zipper opening on both sides so screen can be rolled up and stored out of the way when seasons change. (new photos coming soon) Fits Mercedes Sprinter 2007-2025 High Roof van models Maximum Pest Protection - Screens are meticulously sized to fit perfectly & seal your van off from the outside creating a complete barrier to even the smallest of pests. Superior Visibility - Fine weaved transparent mesh provides you with optimal visibility of the outdoors while keeping your van bug-free. When looking out, you’ll forget the screen is even there. Convenient to Install - Follow simple steps and screens will be up in no time. Once they’re up, they stay put. Complete with no hassle entry & exit through zippered doors. What's Included: [1] Rear Door Bug Screen [4] Clamps (for installation) [25] Metal Clips (for installation)Magnetic door for easy access.Zip up to store. Zipper opening on both sides so screen can be rolled up and stored out of the way when seasons change. Happy to install bug screens at our facility for an installation charge FREE SHIPPING!
-  Updated: 2025-12-11T09:20:29Z
+- [Sprinter Van Rear Door Bug Screen](https://openroadsupplycompany.com/products/sprinter-van-rear-door-bug-screen): RESTOCK ROLLING IN LATE JANUARY Keep your adventure bug-free with the Sandy Vans Bug Screen kit! The Sandy Vans Mercedes Sprinter Door Bug Screens create a complete, sealed barrier to BUGS out! Transparent micro-mesh material offers you optimal visibility so you can enjoy a bug-free environment without obstructing your view of the outdoors. Complete with no hassle entry & exit, your next trip is about to get a whole lot more comfortable. KEY FEATURES: Zipper center for easy access. Zipper opening on both sides so screen can be rolled up and stored out of the way when seasons change. (new photos coming soon) Fits Mercedes Sprinter 2007-2025 High Roof van models Maximum Pest Protection - Screens are meticulously sized to fit perfectly & seal your van off from the outside creating a complete barrier to even the smallest of pests. Superior Visibility - Fine weaved transparent mesh provides you with optimal visibility of the outdoors while keeping your van bug-free. When looking out, you’ll forget the screen is even there. Convenient to Install - Follow simple steps and screens will be up in no time. Once they’re up, they stay put. Complete with no hassle entry & exit through zippered doors. What's Included: [1] Rear Door Bug Screen [4] Clamps (for installation) [25] Metal Clips (for installation)Zip up to store. Zipper opening on both sides so screen can be rolled up and stored out of the way when seasons change. Happy to install bug screens at our facility for an installation charge FREE SHIPPING!
+  Updated: 2025-12-12T20:22:02Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -2662,7 +2655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Screenshot_2024-05-29_at_10.08.58_AM_10315f07-a6b7-4deb-bcce-e0826c89458b.jpg?v=1764804004
     Price: $255.00 USD
 - [SV Sprinter Rear Upper Door Storage](https://openroadsupplycompany.com/products/sv-sprinter-rear-upper-door-storage): Smart storage made simple. The Sandy Vans Rear Upper Door Storage Panel Bags is the perfect addition to your 2019+ Mercedes Sprinter. Designed to mount on the upper rear door for extra storage and easy access. It adds organized, accessible storage without sacrificing valuable living space. You will need a Rivet Nut tool to install. Features: Factory-Mount Fit – Installs directly into factory holes on 2019+ Mercedes Sprinter rear upper doors. You will need a Rivet Nut tool to install. Durable Build – Heavy-duty, water-resistant fabric stands up to life on the road. Easy Access – Easy to grab items when you need them. Low-Profile Design – Slim yet roomy enough for gloves, headlamps, tools, maps, or toiletries. Quick Install & Removal – Hassle-free mounting with the flexibility to detach anytime. Whats in the Box: 2 storage bags All install hardware Why You’ll Love It: This bag transforms unused space into functional storage while keeping your van clutter-free. Whether you’re pulling out trail gear or road trip essentials, it keeps everything organized and right where you need it. ..further questions? Give the Sandy Vans Team a call (619) 812-1903 FREE SHIPPING!
-  Updated: 2025-12-10T03:41:22Z
+  Updated: 2025-12-12T17:49:41Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -3063,8 +3056,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/shower_Curtain.jpg?v=1764883583
   Price: $249.00 USD
-- [VANNON Utility Baskets & Bottle Holders](https://openroadsupplycompany.com/products/vannon-utility-baskets-bottle-holders): Stay organized on the road with the VANNON Utility Baskets and Bottle Holders! Designed for mobile living and custom van builds, these versatile mesh storage solutions are ideal for holding tools, cables, water bottles, toiletries, and other essentials. Whether you're outfitting a Sprinter camper, off-road rig, or DIY adventure van, this modular, mid-weight storage upgrade keeps your gear secure and easily accessible. Crafted from high-strength nylon mesh, these utility baskets combine lightweight functionality with rugged durability. Each piece comes with all necessary hardware for quick installation on L-Track systems or flat surfaces—perfect for mounting on doors, cabinet faces, bulkheads, or garage walls. Mix and match different colors and sizes or grab a four pack (one large, one small, and two bottle holders), a slim bundle (one slim large, one slim small, one bottle holder) to create your own custom modular storage solution, wherever you roam. KEY FEATURES Durable nylon mesh construction for flexible and rugged use without rattling Universal mounting: includes hardware compatible with L-Track; also compatible with flat wall screws Ideal for van builds, Sprinter campers, off-road rigs, and utility trailers Lightweight, breathable design reduces clutter Made in the USA AVAILABLE SIZES Small Basket: 7" x 5" opening, 4" height Large Basket: 11" x 5" opening, 5.5" height Small Slim Basket: 8" x 2" opening, 4" height Large Slim Basket: 11" x 2" opening, 4" height Bottle Holder: 3.5" diameter opening, 4" height 4 piece set: One large, one small, two bottle holders 3 piece set: One slim large, one slim small, one bottle holder Big bundle: One each size (large, slim large, small, slim small) and two bottle holders (total 6 piece set) AVAILABLE COLORS Grey Carbon Black
-  Updated: 2025-12-10T03:41:24Z
+- [VANNON Utility Baskets & Bottle Holders](https://openroadsupplycompany.com/products/vannon-utility-baskets-bottle-holders): DECEMBER SPECIAL Buy a VANNON Big Basket Bundle, get a $25 digital gift card FREE! Added automatically to your order; offer expires 12/15/25. Stay organized on the road with the VANNON Utility Baskets and Bottle Holders! Designed for mobile living and custom van builds, these versatile mesh storage solutions are ideal for holding tools, cables, water bottles, toiletries, and other essentials. Whether you're outfitting a Sprinter camper, off-road rig, or DIY adventure van, this modular, mid-weight storage upgrade keeps your gear secure and easily accessible. Crafted from high-strength nylon mesh, these utility baskets combine lightweight functionality with rugged durability. Each piece comes with all necessary hardware for quick installation on L-Track systems or flat surfaces—perfect for mounting on doors, cabinet faces, bulkheads, or garage walls. Mix and match different colors and sizes or grab a four pack (one large, one small, and two bottle holders), a slim bundle (one slim large, one slim small, one bottle holder) to create your own custom modular storage solution, wherever you roam. KEY FEATURES Durable nylon mesh construction for flexible and rugged use without rattling Universal mounting: includes hardware compatible with L-Track; also compatible with flat wall screws Ideal for van builds, Sprinter campers, off-road rigs, and utility trailers Lightweight, breathable design reduces clutter Made in the USA AVAILABLE SIZES Small Basket: 7" x 5" opening, 4" height Large Basket: 11" x 5" opening, 5.5" height Small Slim Basket: 8" x 2" opening, 4" height Large Slim Basket: 11" x 2" opening, 4" height Bottle Holder: 3.5" diameter opening, 4" height 4 piece set: One large, one small, two bottle holders 3 piece set: One slim large, one slim small, one bottle holder Big bundle: One each size (large, slim large, small, slim small) and two bottle holders (total 6 piece set) AVAILABLE COLORS Grey Carbon Black
+  Updated: 2025-12-12T19:25:17Z
   Vendor: VANNON
   Product Type: 
   Availability: Available
@@ -3191,7 +3184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/948_57defcc0-19d8-40a9-abff-446827dd46810.jpg?v=1764990399
     Price: $49.95 USD
 - [DORSAL Rudder Surf Fins for SUP Longboard Surfboard Center D-Fin](https://openroadsupplycompany.com/products/dorsal-rudder-surf-fins-for-sup-longboard-surfboard-center-d-fin): Introducing the game-changer in the world of surfing - the DORSAL Rudder D-Fin Surf Fin for SUP Longboard Surfboard Center. Prepare to elevate your surfing experience like never before! These cutting-edge fins are designed with innovation and precision, delivering unparalleled performance and control.Crafted with meticulous craftsmanship, they boast a sleek and stylish 8.5 inch blue fin, adding a touch of flair to your surfboard. Unleash your full potential on the waves with the DORSAL Rudder Surf Fins. With their advanced technology, these fins offer exceptional stability and maneuverability, allowing you to ride with confidence and precision. Whether you're a seasoned pro or a beginner looking to improve, these fins will take your surfing skills to new heights. But it doesn't stop there - the benefits of these fins extend far beyond just the waves. Experience unmatched versatility as you effortlessly glide through any type of water.From tranquil lakes to powerful ocean swells, the DORSAL Rudder Surf Fins adapt flawlessly, ensuring a smooth and unforgettable ride every time. Not only do these fins enhance your performance, but they also have a profound impact on your lifestyle. Imagine the freedom and thrill of conquering each wave with ease, effortlessly riding towards the horizon. They allow you to embrace the true spirit of surfing - the exhilaration, the connection with nature, and the pure joy that comes with it. Don't settle for anything less than extraordinary.Choose the DORSAL Rudder Surf Fins and embark on an extraordinary surfing journey. Upgrade your surfboard now and witness the transformation in your skills, your passion, and your very way of life. It's time to discover what you've been missing.
-  Updated: 2025-12-10T03:41:24Z
+  Updated: 2025-12-12T02:59:51Z
   Vendor: DORSAL®
   Product Type: Longboard Rudder Fins
   Availability: Available
@@ -3264,7 +3257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/StarFincopy_4ff823a0-7b85-4a15-91c9-711bb77a917c.jpg?v=1765218470
   Price: $120.00 USD
 - [Aipa DNA Sequencers - Apex](https://openroadsupplycompany.com/products/aipa-dna-sequencers-apex): The DNA Sequencer Quads were developed specifically to complement the Aipa brothers DNA model. With Akila being a twin guy and Duke leaning more towards quads, Duke wanted to design a quad set that felt like it was in between the twin and quad world. The sensation of quad drive and twin pivot was achieved by scaling down the Ahi twin for the forward and balancing it out with a full, small upright rear.This configuration is best surfed in up to head high surf. Switch out the upright rear for the Horsemen rear for additional holding power in overhead surf.This fin also is suggested for the Genome (overall) and the Wrecking Ball (on smaller days). Front:Base: 4.83"Height: 5.25"Area: 16.81 in²Foil: Flat SeriesIII Trailers:Base: 3.60"Height: 3.50"Area: 9.02 in²Foil: Flat SeriesIII
-  Updated: 2025-12-11T15:45:00Z
+  Updated: 2025-12-12T15:45:24Z
   Vendor: NVS
   Product Type: 
   Availability: Available
@@ -3374,10 +3367,10 @@
   Updated: 2025-12-09T23:34:00Z
   Total Products: 1
 - [Best Sellers](https://openroadsupplycompany.com/collections/best-sellers)
-  Updated: 2025-12-10T18:12:38Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 10
 - [Magnetic Surf Rack](https://openroadsupplycompany.com/collections/magnetic-surf-rack)
-  Updated: 2025-12-10T18:12:38Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 1
 - [Surfboard Fins](https://openroadsupplycompany.com/collections/surfboard-fins): We believe every good road trip ends in the water — and having the right equipment makes all the difference. That’s why we partner with amazing brands who share our passion for quality, craftsmanship, and good waves. Our curated fin selection is built to help you dial in the perfect setup for your favorite boards, whether you’re camping by the coast, chasing long points, or squeezing in a quick session before hitting the road again. Grab the fins that make your board come alive, and keep the adventure rolling.
   Updated: 2025-12-09T23:34:00Z
@@ -3389,19 +3382,19 @@
   Updated: 2025-12-09T23:34:00Z
   Total Products: 18
 - [Exterior Parts](https://openroadsupplycompany.com/collections/van-exterior-parts): Upgrade the Outside of Your Home on Wheels Your van’s exterior should work just as hard as the interior. Our Exterior Parts collection is built around durability, utility, and smart upgrades that make life outdoors easier. Whether you’re parking at the beach, setting up camp, or gearing up for a weekend escape, these products help you stay organized, protected, and adventure-ready. From rugged accessories to space-saving solutions, every piece is selected to enhance your van’s capability and make every stop along the way smoother, cleaner, and more enjoyable.
-  Updated: 2025-12-10T18:12:38Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 18
 - [Surfboards](https://openroadsupplycompany.com/collections/surfboards): We believe every good road trip ends in the water — and having the right equipment makes all the difference. That’s why we partner with amazing brands who share our passion for quality, craftsmanship, and good waves. Our curated boards selection is built to help you fin the perfect board for the waves you're on, whether you’re camping by the coast, chasing long points, or squeezing in a quick session before hitting the road again. Grab the board that makes every session fire, and keep the adventure rolling.
   Updated: 2025-12-10T20:36:27Z
   Total Products: 12
 - [Surfing Accessories](https://openroadsupplycompany.com/collections/surfing-accessories): We believe the best surf sessions start before you hit the water — and the right accessories make every moment smoother. From gearing up at camp to breaking everything down after your session, the little things matter. That’s why we hand-select accessories that elevate your routine, protect your gear, and keep the stoke high. Our lineup includes innovative essentials like our Magnetic Surfboard Hooks for effortless board storage at camp, fin tools that make swaps quick and frustration-free, and wetsuit hangers that keep your suit drying faster and lasting longer. Whether you’re setting up for dawn patrol, winding down after a long day in the water, or living out of your van on a weekend mission, these tools make the whole experience cleaner, easier, and more enjoyable. Grab the accessories that simplify the pre- and post-surf chaos — and keep your adventures rolling.
-  Updated: 2025-12-10T20:29:57Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 19
 - [Almond Fin Giveaway Options (Jan 25)](https://openroadsupplycompany.com/collections/almond-fin-giveaway-options)
   Updated: 2025-12-09T23:34:00Z
   Total Products: 4
 - [At Camp](https://openroadsupplycompany.com/collections/at-camp): Whether you're parked at the beach, posted in the mountains, or settling in for a long-weekend road trip, this collection is built to make camp feel less like “roughing it” and more like home. We curated heated clothing for all-day warmth, portable seating for easy comfort, and compact power packs to keep your lights, phones, and cameras running.Everything in this lineup is designed to elevate your campsite without adding bulk, noise, or extra work. Just pack it, pull up, and enjoy the quiet.
-  Updated: 2025-12-10T18:12:38Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 22
 - [Roof Racks](https://openroadsupplycompany.com/collections/roof-racks)
   Updated: 2025-12-09T23:34:00Z
@@ -3416,13 +3409,13 @@
   Updated: 2025-12-10T20:29:03Z
   Total Products: 13
 - [Camp Essentials](https://openroadsupplycompany.com/collections/camp-essentials): The right essentials turn any pull-off into a fully functioning basecamp. This collection brings together the gear that keeps everything running smoothly—portable power stations for charging your devices, water-bottle slings for hands-free exploring, organizers, tools, and all the small conveniences that make a big difference once you’re settled in.These are the items you reach for daily—the simple upgrades that keep camp cleaner, calmer, and easier to live in.
-  Updated: 2025-12-10T18:12:38Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 10
 - [Seating](https://openroadsupplycompany.com/collections/seating): A good campsite starts with a good seat. This collection brings together chairs, stools, and loungers designed to keep you comfortable from sunrise coffee to late-night fireside hangs. Lightweight to carry, sturdy where it counts, and built to handle real outdoor use, these are the seats you’ll reach for every time you set up camp.Because relaxing outdoors should actually feel relaxing.
   Updated: 2025-12-09T23:34:00Z
   Total Products: 2
 - [Power Stations](https://openroadsupplycompany.com/collections/power-stations)
-  Updated: 2025-12-09T23:34:00Z
+  Updated: 2025-12-12T06:41:25Z
   Total Products: 10
 - [Stay Warm](https://openroadsupplycompany.com/collections/stay-warm)
   Updated: 2025-12-09T23:34:00Z
@@ -3437,7 +3430,7 @@
   Updated: 2025-12-09T23:34:00Z
   Total Products: 60
 - [Featured Products](https://openroadsupplycompany.com/collections/featured-products)
-  Updated: 2025-12-10T18:12:38Z
+  Updated: 2025-12-12T12:23:59Z
   Total Products: 6
 - [2) Make: Transit Parts](https://openroadsupplycompany.com/collections/transit)
   Updated: 2025-12-10T20:21:36Z
@@ -3461,8 +3454,8 @@
   Updated: 2025-12-10T20:27:30Z
   Total Products: 0
 - [Gobi Heat](https://openroadsupplycompany.com/collections/gobi-heat)
-  Updated: 2025-12-10T17:35:27Z
-  Total Products: 18
+  Updated: 2025-12-12T21:15:22Z
+  Total Products: 17
 - [Almond Surfboards](https://openroadsupplycompany.com/collections/almond-surfboards)
   Updated: 2025-12-09T23:34:01Z
   Total Products: 7
@@ -3491,7 +3484,7 @@
   Updated: 2025-12-09T23:34:01Z
   Total Products: 0
 - [Power Supplier](https://openroadsupplycompany.com/collections/power-supplier)
-  Updated: 2025-12-09T23:34:01Z
+  Updated: 2025-12-12T06:41:25Z
   Total Products: 13
 - [Single Fins](https://openroadsupplycompany.com/collections/single-fins)
   Updated: 2025-12-10T20:31:38Z
@@ -3499,6 +3492,9 @@
 - [Fin Sets](https://openroadsupplycompany.com/collections/fin-sets)
   Updated: 2025-12-10T20:33:25Z
   Total Products: 11
+- [FUNNER Surf Craft](https://openroadsupplycompany.com/collections/funner-surf-craft)
+  Updated: 2025-12-12T00:28:57Z
+  Total Products: 5
 
 ## Blogs
 
