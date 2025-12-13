@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2025-12-11T22:11:26.050Z
+- Updated At: 2025-12-13T00:00:44.261Z
 
 ## Products
 
@@ -1805,13 +1805,13 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 37
 - [Armbänder](https://laasio.de/collections/armband-1)
-  Updated: 2025-12-10T12:16:59Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 20
 - [Alle produkte](https://laasio.de/collections/produkte-produkte)
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 59
 - [Armband mit Haustierportrait](https://laasio.de/collections/armband-haustierportrait-1)
-  Updated: 2025-12-10T12:16:59Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 5
 - [Kette mit Fußabdruck](https://laasio.de/collections/kette-mit-fussabdruck)
   Updated: 2025-02-24T16:35:01Z
@@ -1820,7 +1820,7 @@ Einzigartiges Armband
   Updated: 2025-12-07T12:16:16Z
   Total Products: 3
 - [Best Sellers](https://laasio.de/collections/best-sellers)
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 68
 - [Neuheiten](https://laasio.de/collections/neuheiten)
   Updated: 2025-02-24T16:35:01Z
@@ -1856,7 +1856,7 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 10
 - [Tierporträts und Pfotenabdrücke](https://laasio.de/collections/tierportrats-und-pfotenabdrucke)
-  Updated: 2025-12-10T12:16:59Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 11
 - [Menschenfotos](https://laasio.de/collections/menschenfotos)
   Updated: 2025-02-24T16:35:02Z
@@ -1877,7 +1877,7 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 15
 - [Für Tierliebhaber](https://laasio.de/collections/fur-tierliebhaber)
-  Updated: 2025-12-10T12:16:59Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 11
 - [Zur Geburt](https://laasio.de/collections/zur-geburt)
   Updated: 2025-12-07T12:16:16Z
@@ -1898,7 +1898,7 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 6
 - [Haustier Verstorben](https://laasio.de/collections/haustier-verstorben)
-  Updated: 2025-12-10T12:16:59Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 12
 - [Schmuck mit Haustier](https://laasio.de/collections/schmuck-mit-haustier)
   Updated: 2025-12-06T12:14:49Z
@@ -1940,7 +1940,7 @@ Einzigartiges Armband
   Updated: 2025-11-07T12:14:29Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://laasio.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-12T12:16:30Z
   Total Products: 68
 
 ## Store Pages
