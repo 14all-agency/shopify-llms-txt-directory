@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-13T16:00:33.570Z
+- Updated At: 2025-12-13T20:00:34.789Z
 
 ## Products
 
@@ -9579,7 +9579,7 @@
     Updated: 2025-12-13T15:46:41Z
     Author: Gerard Collins
   - [Bath & Body Works vs Cetaphil Lotion: Full Comparison Guide](https://affinatiliving.com/blogs/debates/bath-body-works-vs-cetaphil-lotion-full-comparison-guide)
-    Updated: 2025-12-12T12:55:42Z
+    Updated: 2025-12-13T16:07:35Z
     Author: Gerard Collins
   - [Bath & Body Works vs OUAI Lotion: Full Comparison Guide](https://affinatiliving.com/blogs/debates/bath-body-works-vs-ouai-lotion-full-comparison-guide)
     Updated: 2025-12-12T13:01:29Z
