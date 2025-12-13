@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2025-11-27T18:17:59Z
 - Contact Email: mama3diene@gmail.com
-- Updated At: 2025-12-12T17:09:59.797Z
+- Updated At: 2025-12-13T00:00:46.703Z
 
 Maliame Store, it's your best Store! 
 
@@ -285,7 +285,7 @@ Maliame Store, it's your best Store!
   Image: https://cdn.shopify.com/s/files/1/0739/4027/1293/files/Screenshot-20251126-161143_1.png?v=1764400735
   Price: $8.00 USD
 - [AI Smart Camera Glasses Bluetooth Smart Glasses](https://maliamestore.myshopify.com/products/ai-smart-camera-glasses-bluetooth-smart-glasses): 80O0MP AI Smart Camera Glasses Bluetooth Smart Glasses With Calling Playing Music Object Recognition AI Translation Multifunction
-  Updated: 2025-12-08T10:27:34Z
+  Updated: 2025-12-12T19:14:16Z
   Vendor: Maliame Store
   Product Type: Smart Glasses
   Availability: Available
@@ -9309,7 +9309,7 @@ Maliame Store, it's your best Store!
     Image: https://cdn.shopify.com/s/files/1/0739/4027/1293/files/Scfe30d25159a46edbd8cc59b1e360889J_a5c7fb07-e1bf-40a8-9f8c-d94e6fecd97c.webp?v=1764701373
     Price: $5.92 USD
 - [Xiaomi 6K HD AI Smart Glasses Photochromic Multifunction Camera Bluetooth Call Music Player Voice Assistant Translate Glasses](https://maliamestore.myshopify.com/products/xiaomi-6k-hd-ai-smart-glasses-photochromic-multifunction-camera-bluetooth-call-music-player-voice-assistant-translate-glasses): Xiaomi 6K HD AI Smart Glasses Photochromic Multifunction Camera Bluetooth Call Music Player Voice Assistant Translate Glasses
-  Updated: 2025-12-08T10:32:13Z
+  Updated: 2025-12-12T19:14:17Z
   Vendor: Maliame Store
   Product Type: 
   Availability: Available
@@ -11840,7 +11840,7 @@ Maliame Store, it's your best Store!
     Image: https://cdn.shopify.com/s/files/1/0739/4027/1293/files/S1ff322020e8c4005b31da60181a6152cv.webp?v=1764930779
     Price: $55.89 USD
 - [Smart AI glasses 8MP Camera, Multifunction translation, music, call](https://maliamestore.myshopify.com/products/smart-ai-glasses-8mp-camera-multifunction-translation-music-call): Smart Glasses AI 8MP HD Recording Videos Photo Recognition Answer Translation Music Player Multifunction Anti-UV Lenses Features: 1. Equipped with an HD camera, capturing high-definition photos and videos without shaking, ensuring clear and sharp images. 2. 290mAh battery 3. LED flashlight 4. Video recording 5. Audio recording 6. Bluetooth calling 7. The lens can automatically change color under sunlight exposure Product specifications: Main Features: AI voice assistant/photo taking/video recording/audio recording/ music control/calling/alert sounds/ indicator lights/translation/object recognition/touchscreen/music playback (music control, local music) etc.
-  Updated: 2025-12-08T10:33:21Z
+  Updated: 2025-12-12T19:14:17Z
   Vendor: Maliame Store
   Product Type: Smart Glasses
   Availability: Available
