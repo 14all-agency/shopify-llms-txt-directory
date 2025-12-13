@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2025-12-13T05:43:46.496Z
+- Updated At: 2025-12-13T06:19:58.700Z
 
 ## Products
 
