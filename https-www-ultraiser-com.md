@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-09-05T05:49:56Z
 - Contact Email: sales@ultraiser.com
-- Updated At: 2025-12-05T00:00:36.519Z
+- Updated At: 2025-12-13T00:00:41.358Z
 
 The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine designed for home use, focusing on anti-aging and skin smoothing treatments. It is available for purchase online.
 
@@ -27,7 +27,7 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/ULTRAISERP1Pro-ProfessionalPortableHIFUDevice.jpg?v=1699067670
   Price: £949.00 GBP
 - [HIFU Cartridge | HIFU Replacement Cartridge (2mm)](https://www.ultraiser.com/products/hifu-replacement-cartridge-2mm): The 2mm HIFU Cartridge price is £199, provides up to 100,000 shots to a skin depth of 4mm and has been specifically developed for use with ULTRAISER.
-  Updated: 2025-11-28T16:24:03Z
+  Updated: 2025-12-07T19:23:27Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
@@ -58,7 +58,7 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
 ## Collections
 
 - [ULTRAISER](https://www.ultraiser.com/collections/frontpage)
-  Updated: 2025-11-29T13:05:25Z
+  Updated: 2025-12-08T12:47:24Z
   Total Products: 5
 - [Home](https://www.ultraiser.com/collections/home)
   Updated: 2025-11-29T13:05:25Z
