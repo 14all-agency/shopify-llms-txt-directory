@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-12T00:00:52.219Z
+- Updated At: 2025-12-13T00:00:58.073Z
 
 ## Products
 
@@ -41156,7 +41156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-164_1.jpg?v=1715852797
     Price: $1,004.00 USD
 - [Moissanite 1.80CT Princess Diamond minimalist Wedding Ring](https://ibizjewel.com/products/moissanite-1-80ct-princess-diamond-minimalist-wedding-ring): Exude Elegance And Sophistication With Our Moissanite 1.80ct Emerald Diamond Art Deco Engagement Ring. This Stunning Ring Features A 1.80ct Emerald Cut Lab-created Moissanite Diamond, Known For Its Brilliance And Durability. The Art Deco Design Adds A Vintage Touch To This Modern Ring, Making It The Perfect Choice For A Timeless And Luxurious Engagement.
-  Updated: 2025-10-02T10:31:13Z
+  Updated: 2025-12-12T04:39:50Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Princess Diamond Ring
   Availability: Available
