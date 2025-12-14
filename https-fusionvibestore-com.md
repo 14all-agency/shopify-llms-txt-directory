@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-12-11T00:00:36.207Z
+- Updated At: 2025-12-14T00:00:41.540Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-11-20T06:45:02Z
+  Updated: 2025-12-13T10:44:27Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-12-07T18:27:06Z
+  Updated: 2025-12-13T20:27:08Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2903836891585.jpg?v=1759343558
     Price: $15.69 USD
 - [V Back Scrunch Butt Leggings for Women | Seamless Gym & Yoga](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist): Temu platform sheet currently supports: USPS UPS FEDEX UNI Butt lift Leggings: sexy booty leggings for women butt lift, stretchy hips lifting leggings, push up your bum into a juicepeach, leg bottom leggings show your curve gorgeously. High Quality & Garment Care: 90%Polyamide 10%Elastane. Power stretch fit, Naturally breathable, Non see-through. It's made of high quality materials, Great for for your workout gym and casual. Machine wash cold, Do not bleach Stretchy Seamless Leggings: The fabric stretches in all directions, allowing you to move freely without any restrictions. From training to yoga, they are squat proof and truly stay in place during intense workout positions. Moisture wicking, Soft, Smooth, Low-friction and Long-lasting comfortable performance. High Waist: These yoga pants designed with high waistband and tummy control, contour your curves and give you a streamlined look. It offers all the support and compression for your tummy and butt to get back in its original shape. Ultra-supportive but less rubbing and chafing. Applicable Occasions:This leg workout pants can make you perfect for yoga, fitness, dancing, running, pilates, hiking and other sports. You can also use it in your daily life such as work, school, shopping, traveling, party and so on.
-  Updated: 2025-11-14T10:26:06Z
+  Updated: 2025-12-12T10:26:56Z
   Vendor: FusionVibestore
   Product Type: CLOTHING
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-21T05:45:30Z
+  Updated: 2025-12-13T17:44:14Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1592,7 +1592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-12-10T06:27:18Z
+  Updated: 2025-12-13T14:27:14Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3541,7 +3541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/71a29876-a740-4a88-9086-06dbe0426531.jpg?v=1763541850
     Price: $43.67 USD
 - [E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control](https://fusionvibestore.com/products/e99-drone-quadcopter-dual-camera-hd-aerial-photography-remote-control): E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control Aircraft
-  Updated: 2025-11-20T01:54:31Z
+  Updated: 2025-12-13T10:37:22Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
@@ -3588,7 +3588,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
     Price: $18.45 USD
 - [Elegant And Chic Women's Sequined Lapel Jumpsuit](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit): Product information: Color: Red, magenta, black, white, reddish-brown, blue Stretch: Non-stretch Size: S, M, L, XL, 2XL, 3XL Style Category: Elegant women's casual wear Fashion Element: Belt Style: A-line Thickness: Thin Fabric Name: Polyester Sleeve Style: Regular Target Audience: Teenagers, young adults, millennials, middle-aged individuals Main Fabric Composition: Polyester Pants Style: Straight-leg Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Jumpsuit x 1 Product Image:
-  Updated: 2025-12-10T14:28:48Z
+  Updated: 2025-12-13T22:50:40Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3738,7 +3738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
     Price: $30.35 USD
 - [Fashionable Price-adjusted Lace-up Slim-fit Printed Dress](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress): Product information: Skirt Style: A-line skirt Colors: Leopard print, black Waist Style: High waist Sizes: 1XL, 2XL, 3XL, 4XL, 5XL How to Style: Worn as a standalone piece Skirt Length: Mid-length Trendy Element: Lace-up details Design: Strapless Fabric Name: Knitted fabric Sleeve Style: Sleeveless Main Fabric Composition: Polyester fiber Sleeve Length: Sleeveless Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-12-10T14:52:49Z
+  Updated: 2025-12-11T02:44:43Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3764,7 +3764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
     Price: $22.34 USD
 - [Solid-color Dress Halter-neck Midi Skirt](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt): Product information: Skirt Style: A-line skirt Waist Style: High waist Sizes: L, XL, 2XL, 3XL, 4XL How to Style: Worn as a standalone piece Skirt Length: Mid-length Design: Basic style Sleeve Style: Raglan sleeve Main Fabric Composition: Polyester fiber Sleeve Length: Short sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-12-10T14:56:58Z
+  Updated: 2025-12-11T02:59:06Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3869,6 +3869,35 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
     Price: $22.45 USD
+- [Women's Solid-Color Casual Elegant Slip Dress](https://fusionvibestore.com/products/womens-solid-color-casual-elegant-slip-dress): Product information: Pattern: Solid color Skirt style: Bodycon skirt Color: Burgundy Waist style: Mid-rise Sizes: S, M, L, XL Skirt length: Maxi length Material: Polyester Skirt category: Dress Style: Elegant Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1PC Product Image:
+  Updated: 2025-12-11T20:05:29Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9f33f147-ef05-44a6-913b-95e96269839c.jpg?v=1765440211
+  - [Wine Red / L](https://fusionvibestore.com/products/womens-solid-color-casual-elegant-slip-dress?variant=45947527332039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
+    Price: $22.34 USD
+  - [Wine Red / M](https://fusionvibestore.com/products/womens-solid-color-casual-elegant-slip-dress?variant=45947527364807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
+    Price: $22.34 USD
+  - [Wine Red / S](https://fusionvibestore.com/products/womens-solid-color-casual-elegant-slip-dress?variant=45947527397575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
+    Price: $22.34 USD
+  - [Wine Red / XL](https://fusionvibestore.com/products/womens-solid-color-casual-elegant-slip-dress?variant=45947527430343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
+    Price: $22.34 USD
+- [Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool](https://fusionvibestore.com/products/electronic-cordless-pedicure-callus-dead-skin-remover-polishing-tool): Product Name: Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool Package Contains: It has 1 Pack of Electronic Pedicure ToolMaterial: PlasticSize: 19cm x 3.5cmColor: As Per Availability Combo: Pack of 1Weight: 400 gmAbout this item: Featuring remarkable polishing effect, this foot file is suitable for smoothing out rough skin and dead skin on the feet. Indisputable that it is easy to use because the product is with the adoption of minimalistic feature.
+  Updated: 2025-12-13T20:42:15Z
+  Vendor: z60ja0-0n
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5016979406.jpg?v=1765634993
+  Price: $557.00 USD
 
 ## Collections
 
@@ -3879,7 +3908,7 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-11-19T09:58:13Z
+  Updated: 2025-12-13T12:23:28Z
   Total Products: 20
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-29T18:27:30Z
@@ -3891,8 +3920,8 @@
   Updated: 2025-10-29T17:11:35Z
   Total Products: 0
 - [Women](https://fusionvibestore.com/collections/women)
-  Updated: 2025-12-10T14:55:13Z
-  Total Products: 18
+  Updated: 2025-12-11T08:03:38Z
+  Total Products: 19
 - [car accessories](https://fusionvibestore.com/collections/car-accessories)
   Updated: 2025-10-29T17:30:04Z
   Total Products: 0
