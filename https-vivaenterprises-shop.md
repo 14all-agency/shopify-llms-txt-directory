@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-22T16:52:50Z
 - Contact Email: vicky2more@gmail.com
-- Updated At: 2025-12-13T00:00:58.638Z
+- Updated At: 2025-12-14T00:00:57.005Z
 
 ## Products
 
@@ -28419,7 +28419,7 @@
     Availability: Available
     Price: ₹550.00 INR
 - [Men's/Women's Red Skull & Bones Graphic Tee/Sweatshirt](https://vivaenterprises.shop/products/unisex-raglan-t-shirt-1): Fabric: 100% cotton, 180 GSM – Bio-washed for long-lasting softness and comfort.Fit: Classic raglan style with contrast sleeves – sporty, stylish, and built to stand out.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-12-12T15:28:20Z
+  Updated: 2025-12-13T03:28:34Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -28473,7 +28473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_18_bdee8d59-701c-478c-a8e4-133a31346769.jpg?v=1764246778
     Price: ₹699.00 INR
 - [Vibrant Red Skull  Pullover Hooded Sweatshirt](https://vivaenterprises.shop/products/unisex-hoodie-2): Fabric: 100% cotton, 300 GSM brushed fleece – heavyweight and cozy, for chilly days.Fit: Unisex regular fit – snug around the cuffs and hem with a comfy relaxed feel.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-12-12T16:24:39Z
+  Updated: 2025-12-13T04:27:57Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -28679,7 +28679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_10136405-cbe1-44fd-b2fe-3e21f77dc918.jpg?v=1765556679
     Price: ₹599.00 INR
 - [BTC Logo Pullover Hoodie | Cryptocurrency Apparel](https://vivaenterprises.shop/products/unisex-hoodie-3): Fabric: 100% cotton, 300 GSM brushed fleece – heavyweight and cozy, for chilly days.Fit: Unisex regular fit – snug around the cuffs and hem with a comfy relaxed feel.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-12-12T16:25:04Z
+  Updated: 2025-12-13T04:25:19Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -37761,7 +37761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Left_Pocket_1_c_49_c15005ff-b32d-4a4a-bad0-e0c0be28862d.jpg?v=1764332745
     Price: ₹799.00 INR
 - [Unisex Sweatshirt](https://vivaenterprises.shop/products/unisex-sweatshirt-11): Fabric: 100% cotton, 300 GSM fleece – thick, soft, and breathable for daily comfort. Fit: Unisex regular fit – crafted for a relaxed silhouette with snug ribbed cuffs and hem.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-12-12T15:26:04Z
+  Updated: 2025-12-13T03:19:05Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
