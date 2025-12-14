@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-12-13T00:00:40.219Z
+- Updated At: 2025-12-14T00:00:40.511Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo & Conditioner (Box of 6)](https://mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): Limited availability. Maximum of 1 six-pack per order. 6 x Individual Scalp Stimulating Shampoo and Conditioners per box The KeraFactor Shampoo & Conditioner exfoliates and stimulates the scalp and hair. Using a unique combination of both conditioners and growth factors this product is designed to enhance scalp circulation and reinvigorate the scalp. Continuous use of this conditioning shampoo combined with other Kerafactor products helps create hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair conditioner than a shampoo wash. RRP per Bottle of Shampoo + Conditioner is $49.00 USD Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol We are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-12-12T19:38:32Z
+  Updated: 2025-12-13T00:18:36Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-8.jpg?v=1763738995
   Price: $150.00 USD
 - [Take-Home : KeraFactor Scalp Stimulating Solution (Box of 6)](https://mykerafactor.com/products/take-home-kerafactor-scalp-stimulating-solution-box-of-6): This is a Box of 6 of Patient Take-Home KeraFactor Scalp Stimulating Solution. RRP per Bottle of Solution is $169.00 USD Each highly concentrated 50ml bottle of KeraFactor Solution contains the proprietary KeraFactor Peptide Complex (KFP™). KFP is unique in that it contains 7 Polypeptides that include both specifically selected growth factors and skin proteins to help with hair and scalp health. This patented complex helps to "turn on" weak or resting hair follicles, improve scalp circulation and nutrients to help produce thicker, longer healthy-looking hair. We are very happy to announce the next generation of our proprietary KeraFactor formula, Kerafactor with Nanofluorosomes. Nanofluorosomes are a technology that we have been working on for quite a while at KeraFactor and the new KeraFactor take-home solution is the first to include this new compound. What is a nanofluorosome and why are we so excited to add it into our products? Since the beginning of KeraFactor, we have strived to be the best fertilizer for the scalp, but we also know that being the fertilizer is not good enough alone you also have to try and reduce inflammation and follicle miniaturization. This is where the nanofluorosomes come in. We found a potent anti-inflammatory and anti-androgenic compound and wrapped it into our nanoliposome technology to create a nanofluorosome. What makes the compound even more special is that it is naturally fluorescent, which means this compound can be additionally activated with the correct laser or light source. This is why we call it a nanofluorosome and why this new formula has a yellowish glow to it. Nanofluorosomes can be activated by laser hair caps or machines in the 630-690nm range. Which is already used by many patients to improve hair and scalp circulation and inflammation, now they can add this new formula to their at-home laser routine for even better results. In addition to the solution, each bottle contains a dropper applicator for specific and efficient delivery of the KFP to the scalp and surrounding follicles. IF YOU ARE A LUTRONIC KERALASE CUSTOMER AND WANT THE STARTER KIT CONTAINING 2 OF EACH BOX OF SERUM, SOLUTION, AND SHAMPOO PLEASE ASK THE KERABOT FOR THE DISCOUNT CODE. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Polysorbate 60, p-Anisic Acid, Lecithin, Ascorbyl Glucoside, Phenoxyethanol, Disodium EDTA, Sodium Citrate, Copper Tripeptide-1, Citric Acid, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-12-12T21:43:50Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-12-12T23:15:11Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -60,14 +60,14 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-4.jpg?v=1763738814
   Price: $330.00 USD
 - [KeraFactor® Brochure](https://mykerafactor.com/products/keralase-brochure): (50 QTY) KeraLase brochures per package
-  Updated: 2025-12-12T23:15:10Z
+  Updated: 2025-12-13T01:34:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/image001.png?v=1752279411
   Price: $15.00 USD
 - [Solution Slim Pamphlet](https://mykerafactor.com/products/solution-slim-pamphlet): (50 QTY) Solution pamphlets per package
-  Updated: 2025-12-12T19:38:32Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -81,21 +81,21 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/screenshot2024-02-16at11.33.57am-opt.jpg?v=1751550863
   Price: $15.00 USD
 - [Lashes By KeraFactor® (Box of 6)](https://mykerafactor.com/products/lashes-by-kerafactor): Introducing Lashes by KeraFactor – a revolutionary lash serum meticulously formulated with a blend of nine biomimetic polypeptides scientifically proven to nourish, strengthen, and enhance your lashes like never before. At the heart of our formula lies Pentylene Glycol and Glycerin, multifunctional ingredients renowned for their moisturizing, hydrating, and antimicrobial properties. This ensures that your delicate lash area stays deeply hydrated while safeguarding against harmful microbes. For optimal lash health and rejuvenation, Lashes by KeraFactor features PolyDeoxyRiboNucleotide (PDRN), which enhances cellular metabolism, increases blood flow, reduces shedding, and revitalizes dormant follicles, leading to a thicker, fuller appearance of the lash. Sh-Oligopeptide-1 and Sh-Oligopeptide-4, play pivotal roles in hair rejuvenation and combating aging. By stimulating the follicle, improving circulation, and encouraging the Anagen Phase, they contribute to thicker-looking, healthier lashes while restoring vitality. Seven additional biomimetic growth factors further enhance lash strength, and improve overall resilience, ensuring your lashes are fortified from root to tip. To combat signs of aging and promote cellular repair, Lashes by KeraFactor incorporates Nicotinamide Mononucleotide and Adenosine, rejuvenating skin from within and combating aging. Acetyl Cysteine, Ketoglutaric Acid, and 3-0-Ethyl Ascorbic Acid provide antioxidant and anti-inflammatory benefits promoting optimal lash health. Furthermore, essential ingredients like Glycine, Glutathione, Arginine, and Lecithin enhance moisture retention, protect against dehydration, and fortify the skin barrier, ensuring your lashes stay nourished. Lashes by KeraFactor boasts antimicrobial, pH-regulating, and preservative properties, ensuring product safety and efficacy. Transform your lashes with Lashes by KeraFactor – the ultimate solution for longer, fuller, and healthier-looking lashes. DIRECTIONS: Remove makeup and contact lenses before applying Lashes by KeraFactor. Apply once daily. Apply only on the lid of the eye at the base of the upper lash line. Do not apply to the lower lid. INGREDIENTS: Agua; Pentylene Glycol; Glycerin; PDRN; sh-Oligopeptide-1; sh-Oligopeptide-4; sh-Polypeptide-1; sh-Polypeptide-4; sh-Polypeptide-7; sh-Polypeptide-9; sh-Polypeptide-11; sh-Polypeptide-71; sh-Polypeptide-86; Nicotinamide Mononucleotide; Adenosine, Acetyl Cysteine; Ketoglutaric Acid; 3-0-Ethyl Ascorbic Acid; Glycine; Glutathione; Arginine; Lecithin,Carbomer; Sodium Citrate; Citric Acid; Polysorbate 60; Phenoxyethanol Safe Products: Our serums are proudly free of drugs, hormones, SLS, parabens, gluten, bimatoprost, prostaglandin analogs (PGAs), sulfates, phthalates, animal testing, carcinogens, oils, and fragrances. Since KeraFactor does not contain bimatoprost and prostaglandin analogs (PGAs), it won't alter the iris or eye color, nor will it cause skin discoloration around the eye or break down fat in the eye area. Possible Adverse Reactions: Irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.We are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-12-10T13:45:19Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-20.jpg?v=1763738769
   Price: $297.00 USD
 - [Brows by KeraFactor® (Box of 6)](https://mykerafactor.com/products/brows-by-kerafactor): Introducing Brows by KeraFactor, a cutting-edge brow serum formulated with a potent blend of nine biomimetic growth factors, meticulously selected to stimulate and nourish brow follicles for fuller, thicker, and more defined looking brows. At the heart of our formula lies a powerful combination of biomimetic growth factors harnessed to ignite the growth phase of your brows. These growth factors work synergistically to activate dormant follicles while enhancing the thickness and density of existing ones. Pentylene Glycol serves as the foundation of our formula, offering moisturizing, hydrating, and antimicrobial properties to create an optimal environment for healthy brows. Glycerin, a staple in skincare, not only shapes and defines your brows but also seals in moisture, ensuring they stay hydrated, which is crucial for promoting healthy brow rejuvenation. To maximize brow health, Brows by KeraFactor features a proprietary blend of nine growth factors. These growth factors, including Sh-Oligopeptides, and sh-Polypeptides, stimulate the follicle, improve circulation, and enhance the Anagen Phase. This synergistic action revitalizes dormant follicles, elongates the Anagen Phase, and reduces shedding, resulting in fuller-looking, more defined brows. Additional ingredients like Nicotinamide Mononucleotide, Adenosine, and Acetyl Cysteine provide antioxidant properties, promote cellular repair, reduce inflammation, and induce the Anagen Phase, further optimizing brow health. It's fuel for your brows! Unlock the full potential of your brows with Brows by KeraFactor – the ultimate solution for achieving fuller, thicker, and more defined-looking brows through the power of nine bioidentical growth factors. DIRECTIONS: Apply once daily to a clean makeup-free brow area. INGREDIENTS: Aqua; Pentylene Glycol; Glycerin; PDRN; sh-Oligopeptide-1; sh-Oligopeptide-4; sh-Polypeptide-1; sh-Polypeptide-4; sh-Polypeptide-7; sh-Polypeptide-9; sh-Polypeptide-11; sh-Polypeptide-71; sh-Polypeptide-86; Nicotinamide Mononucleotide; Adenosine; Acetyl Cysteine; Ketoglutaric Acid; 3-0-Ethyl Ascorbic Acid; Glycine; Glutathione; Arginine; Lecithin; Carbomer; Sodium Citrate; Citric Acid; Polysorbate 60; Phenoxyethanol Safe Products: Our serums are proudly free of drugs, hormones, SLS, parabens, gluten, bimatoprost, prostaglandin analogs (PGAs), sulfates, phthalates, animal testing, carcinogens, oils, and fragrances. Since KeraFactor does not contain bimatoprost and prostaglandin analogs (PGAs), it won't alter the iris or eye color, nor will it cause skin discoloration around the eye or break down fat in the eye area. Possible Adverse Reactions: irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.We are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-12-12T17:29:07Z
+  Updated: 2025-12-13T22:08:26Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/Brows_by_KeraFactor.png?v=1763776910
   Price: $297.00 USD
 - [Slim for Lash and Brow](https://mykerafactor.com/products/slim-for-lash-and-brow): (50 QTY) Lash + Brow pamphlets per package
-  Updated: 2025-12-10T13:45:46Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -149,56 +149,56 @@
     Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-31.jpg?v=1763738595
     Price: $108.00 USD
 - [KeraFlex Duo](https://mykerafactor.com/products/keraflex-duo): KeraDuo Laser Cap — Advanced Dual Wavelength Technology Engineered for Elite Hair Rejuvenation Step into the future of hair restoration with the KeraDuo Laser Cap, a next-generation solution engineered with 312 medical-grade laser diodes and dual wavelength technology to deliver unparalleled scalp revitalization. Designed for those who demand results backed by science and crafted with luxury in mind. Scientific Breakthroughs Built Into Every Detail: • 312 Precision-Calibrated Laser Diodes: Complete scalp coverage for maximum light energy delivery at clinically effective dosages. • Dual Wavelength Technology: • 272 diodes at 650nm: Penetrate the epidermis to stimulate follicular metabolism and reawaken dormant hair follicles. • 40 diodes at 808nm (Near Infrared Light): Penetrate deeper into the dermis, enhancing blood flow and delivering oxygen and nutrients at a cellular level. • Flexible Design: Adapts to the contours of your head. • Smart Sensor Activation: Auto-start technology initiates treatment seamlessly once the cap is properly positioned. • Timed 6-Minute Sessions: Designed to deliver therapeutic benefit without overexposure, with automatic shut-off for consistency and safety. • Sleek Protective Carrying Case: Tailored for modern lifestyles — secure, stylish, and ready for travel. The Dual Wavelength Advantage: KeraDuo’s integrated 650nm and 808nm wavelengths represent a synergistic therapeutic approach, simultaneously targeting both surface and deep scalp layers. • 650nm Red Light: Activates mitochondrial function within hair follicles, boosting ATP production for stronger, healthier hair strands. • 808nm Near-Infrared Light: Promotes angiogenesis (formation of new blood vessels) to enhance scalp nourishment and long-term follicle support. This two-tiered system enhances scalp vitality, strengthens hair from root to tip, and promotes visible improvements in thickness, density, and overall scalp health. Sizing Details: Engineered with flexible, comfort-fit materials. The cap’s opening measures approximately 8 inches long by 7 inches wide, flexing to comfortably fit a wide range of head sizes for optimal treatment precision. User Guide for KeraFlex DuoCap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-12-12T14:54:52Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-30-logo_24262be0-90cd-46ee-be7d-24b0218c5cf5.jpg?v=1764168645
   Price: $1,000.00 USD
 - [KeraRoller](https://mykerafactor.com/products/keraroller): Precision Scalp Microneedling – 6 Pack for Professional RetailOptimize your patients’ hair restoration regimen with the KeraRoller, a professional-grade, handheld microneedling device designed to enhance the effectiveness of topical scalp treatments. Each roller features 1,200 stainless steel needles (0.25mm), ideal for creating microchannels in the scalp to help improve absorption and support healthier-looking hair. ✨ Key Benefits for Your Practice & Patients • Enhances penetration of growth factor serums for improved results • Painless and easy-to-use 0.25mm microneedles • Ideal for at-home maintenance between in-office treatments • Pairs perfectly with our Scalp Stimulating Solution Suggested Use: Instruct patients to gently roll the KeraRoller over targeted areas of the scalp, then apply the Scalp Stimulating Solution immediately after. Always clean the device with alcohol before and after each use. Available in 6-packs for retail or bundled treatment protocols. Empower your patients with tools that complement your in-office results and extend the benefits at home.
-  Updated: 2025-12-12T21:43:51Z
+  Updated: 2025-12-13T17:03:00Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-10.jpg?v=1763738447
   Price: $114.00 USD
 - [KeraTote 6pk](https://mykerafactor.com/products/keratote-6pk): Offer your patients a touch of luxury with the KeraFactor Embroidered Tote Bag (6 Pack), perfect for building promotional bundles or as the ultimate gift with purchase. Made from durable cotton canvas and embroidered with the signature KeraFactor logo, these premium totes elevate your practice’s presentation and patient experience. Ideal for pairing with in-office treatments or retail products, they add a polished, professional touch to every KeraFactor regimen.
-  Updated: 2025-12-12T23:15:10Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-28.jpg?v=1763738414
   Price: $60.00 USD
 - [KeraFlex/ KeraFlex Duo Slim Pamphlet](https://mykerafactor.com/products/solution-slim-pamphlet-copy): (50 QTY) KeraFlex/ KeraFlex Duo pamphlets per package
-  Updated: 2025-12-12T19:38:32Z
+  Updated: 2025-12-13T22:08:26Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/5_9c4de0f4-3ecf-4f9f-8ff7-33d92e4576d4.png?v=1760070719
   Price: $15.00 USD
 - [KeraFactorMD Buy 4 Get, 1 plus Toiletry Bags Save $560](https://mykerafactor.com/products/kerafactormd-buy-4-get-1-plus-toiletry-bags): Stock your practice with our best professional in office serum and receive a bonus. When you purchase 4 KeraFactorMD Serums for your clinic, you will receive 1 additional KeraFactorMD Serum at no cost plus a set of premium KeraFactor branded toiletry bags. Perfect for clinics who are actively recommending hair restoration treatments and want to have inventory ready for patients who are ready to begin. The KeraFactorMD serum is formulated with biomimetic growth factors, peptides, and copper tripeptides to support healthier looking hair. Our patented nanoliposome delivery helps drive actives where they are needed most by deeply nourishing the scalp to support a fuller, stronger, thicker appearance. This offer is great to promote in practice to increase your upsell revenue and provide patients with a take home product bundle aligned with their in office treatment plan. Includes Buy: 4 KeraFactorMD Serums Get: 1 KeraFactorMD Serum (Free) Get: Premium KeraFactor Toiletry Bags 6pk (Free)
-  Updated: 2025-12-12T23:15:16Z
+  Updated: 2025-12-13T22:08:30Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-22.jpg?v=1763738389
   Price: $2,000.00 USD
 - [Scalp Restore Set](https://mykerafactor.com/products/scalp-restore-set): Reset and revive the scalp with this powerful at home set designed to promote healthier looking hair from the root. The Scalp Restore Set pairs our KeraFactor Scalp Stimulating Solution with the KeraRoller and a set of premium KeraFactor branded toiletry bags for a complete self care experience. The KeraRoller features ultra fine medical grade needles to gently condition the scalp and prep the skin for deeper absorption of the KeraFactor Solution. The Scalp Stimulating Solution is formulated with biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support the look of fuller, stronger, more resilient hair. Perfect for maintaining results between in office treatments or as a standalone home care routine, this set makes it easy to elevate scalp health and improve the appearance of density over time. Includes • KeraRoller 6pk • KeraFactor Scalp Stimulating Solution 6pk Easy weekly at home use. No downtime. Consistent use supports visible improvement in scalp and hair vitality.
-  Updated: 2025-12-12T21:43:55Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-5.jpg?v=1763738306
   Price: $492.15 USD
 - [Total Transformation Trio (KeraFlex Laser Cap plus Solution plus Roller)](https://mykerafactor.com/products/total-transformation-trio-keraflex-laser-cap-plus-solution-plus-roller-plus-toiletry-bags): Experience the most complete at home hair restoration system we offer. The Total Transformation Trio combines three powerful modalities working together to support the look of thicker, stronger, fuller hair. The KeraFlex Laser Cap provides consistent low level light therapy using medical grade laser diodes to support healthier looking hair through increased scalp stimulation. The KeraFactor Scalp Stimulating Solution delivers biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support visible density. The KeraRoller gently conditions the scalp and helps enhance absorption of the Solution. This bundle was designed for patients who want the most comprehensive at home program for advanced scalp support and hair appearance improvement. Includes KeraFlex Laser Cap KeraFactor Scalp Stimulating Solution 6pk KeraRoller 6pk This set is perfect for creating a full at home protocol to complement your in office treatments.
-  Updated: 2025-12-12T21:43:55Z
+  Updated: 2025-12-13T22:08:25Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-25.jpg?v=1763738262
   Price: $1,104.15 USD
 - [Brow Boost (Roller plus Brow Serum)](https://mykerafactor.com/products/brow-boost-roller-plus-brow-serum-plus-toiletry-bag): Lift your brow game with the Brow Boost Set. This powerful pairing was created to support fuller looking brows and a stronger appearance over time. The KeraFactor Brow Serum features our proprietary blend of biomimetic growth factors, peptides, and copper tripeptides formulated to nourish the brow area and help support a thicker, more defined look. The precision Roller gently preps the skin, helping condition the brow area so the serum can absorb more effectively. This special bundle also includes a premium KeraFactor toiletry bag, perfect for storing your brow essentials at home or on the go. Includes KeraFactor Brow Serum 6pk Precision Brow Roller 6pk Ideal for patients seeking to enhance the look of sparse or thinning brows with a simple at home routine. Consistent use supports visible improvement over time.
-  Updated: 2025-12-12T21:43:55Z
+  Updated: 2025-12-13T22:08:30Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -208,7 +208,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-12-12T12:06:13Z
+  Updated: 2025-12-13T12:05:56Z
   Total Products: 27
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
