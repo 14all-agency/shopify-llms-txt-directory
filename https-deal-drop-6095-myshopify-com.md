@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-03T12:30:24Z
 - Contact Email: Shopthedealdrop@gmail.com
-- Updated At: 2025-12-10T00:00:44.699Z
+- Updated At: 2025-12-14T00:00:25.252Z
 
 ## Products
 
@@ -9730,6 +9730,13 @@
     Author: Heaven Travis
   - [Mastering the Art of Deal Hunting: A Beginner's Guide to Cost-Effective Shopping Tips](https://deal-drop-6095.myshopify.com/blogs/news/mastering-the-art-of-deal-hunting-a-beginners-guide-to-cost-effective-shopping-tips): Mastering the Art of Deal Hunting: A Beginner's Guide to Cost-Effective Shopping Tips
     Updated: 2025-12-09T19:00:34Z
+    Author: Heaven Travis
+  - [7 Smart Coupon Shopping Tips for Maximum Savings Online](https://deal-drop-6095.myshopify.com/blogs/news/7-smart-coupon-shopping-tips-for-maximum-savings-online): Discover 7 smart coupon shopping tips to save more on toys, gifts, and deals. Learn effective ways to find, use, and combine coupons for big online savings.
+    Updated: 2025-12-10T03:43:33Z
+    Author: AUTHOR
+    Tags: coupon shopping tips
+  - [Top Ten Gift Ideas That Won't Break the Bank](https://deal-drop-6095.myshopify.com/blogs/news/top-ten-gift-ideas-that-wont-break-the-bank): Top Ten Gift Ideas That Won't Break the Bank
+    Updated: 2025-12-12T19:01:36Z
     Author: Heaven Travis
 
 ## Store Pages
