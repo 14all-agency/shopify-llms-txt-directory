@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-12-13T00:00:28.509Z
+- Updated At: 2025-12-14T00:00:33.518Z
 
 ## Products
 
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_b7f5b5f2-b3ed-4020-8366-6aaaca8724f6.jpg?v=1719627617
   Price: £14.99 GBP
 - [Claude Monet Sailboats on the Seine at Petit, 1874 Canvas Tote Bag with Zip](https://andcici.com/products/claude-monet-sailboats-on-the-seine-at-petit-1874-canvas-tote-bag-with-zip): Claude Monet French Oil Painter “Sailboats on the Seine at Petit, 1874” Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: Claude Monet's "Sailboats on the Seine at Petit" is a painting from 1874 that captures the beauty of the Petit-Andely region of the Seine River in France. It depicts a sunny day with a picturesque view of small sailboats and the shoreline, lit up by the bright sunlight. The painting is composed of simple brushstrokes and a soft, muted palette of blues and greens, which creates a peaceful atmosphere. This painting is famous for its representation of the tranquil beauty of the region, and it is considered one of Monet's most important works from his early career. It is part of a series of paintings by Monet that he executed while he stayed in the Petit-Andely region in 1868. During this period, he explored the local landscape and painted a series of works depicting the Seine River, its banks, and its surrounding villages. Monet's "Sailboats on the Seine at Petit" is a classic example of his Impressionist style. It was praised for its innovative use of color and light, and it helped to establish Impressionism as an important movement in art history. Today, the painting is held in the collection of the Musee d'Orsay in Paris, and it continues to be admired for its captivating beauty and its historical significance. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-05-18T03:24:22Z
+  Updated: 2025-12-13T05:13:51Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
