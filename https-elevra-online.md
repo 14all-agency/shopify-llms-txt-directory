@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2025-11-11T03:32:35Z
 - Contact Email: elevrafashion@gmail.com
-- Updated At: 2025-12-09T00:00:24.958Z
+- Updated At: 2025-12-14T00:00:27.425Z
 
 ## Products
 
