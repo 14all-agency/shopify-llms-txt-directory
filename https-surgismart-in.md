@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-12-13T00:00:44.336Z
+- Updated At: 2025-12-14T00:00:44.265Z
 
 ## Products
 
@@ -1817,7 +1817,7 @@
     Availability: Available
     Price: ₹792.00 INR
 - [Buy ​Medvance Shoe Cover (50 Pair's) - Surgismart](https://surgismart.in/products/medvance-shoe-cover-50-pairs): Protect your shoes with the Medvance Shoe Cover. Each pack contains 50 pairs, ensuring long-lasting use. Made with durable material, these covers provide reliable protection from dirt and debris. Perfect for professionals in healthcare, laboratories, and more. Keep your shoes clean and tidy with Medvance. - Surgismart
-  Updated: 2025-10-15T09:37:04Z
+  Updated: 2025-12-13T03:57:22Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-12-12T12:20:44Z
+  Updated: 2025-12-13T12:20:52Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-12-12T12:20:44Z
+  Updated: 2025-12-13T12:20:52Z
   Total Products: 5
 
 ## Blogs
