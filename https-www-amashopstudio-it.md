@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-12T00:00:36.853Z
+- Updated At: 2025-12-14T00:00:39.404Z
 
 ## Products
 
@@ -794,7 +794,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/famiglia.jpg?v=1739632395
   Price: 8,00 € EUR
 - [Blocco note ''Cose da fare'' personalizzabile](https://www.amashopstudio.it/products/blocco-note-cose-da-fare-personalizzabile): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:25Z
+  Updated: 2025-12-12T02:20:41Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -2779,7 +2779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TSHIRTANEMAECORE.jpg?v=1746478058
     Price: 9,00 € EUR
 - [Set"Adesivo PVC Effetto Polaroid 'Ricordi Indelebili' - Personalizzabile con Foto, Data e Dedica"5 PZ](https://www.amashopstudio.it/products/adesivo-napoli-1926-nero-supporter-calcio-napoli-calcio-copia-1): Trasforma i tuoi ricordi più preziosi in adesivi unici con il nostro Adesivo PVC Effetto Polaroid "Ricordi Indelebili". Realizzato in PVC di alta qualità, questo adesivo resistente all'acqua e ai raggi UV ricrea perfettamente l'iconica cornice Polaroid, aggiungendo un tocco vintage e nostalgico alle tue foto preferite. Personalizzalo facilmente con la tua foto del cuore, aggiungi una data speciale e una dedica personale per rendere ogni adesivo unico e significativo. Ideale per decorare diari, laptop, valigie, smartphone, album fotografici o qualsiasi superficie liscia. Caratteristiche principali: Materiale PVC premium resistente all'acqua e ai raggi UV Effetto Polaroid autentico con spazio per foto, data e dedica Facile da applicare e rimuovere senza lasciare residui Perfetto per regali personalizzati e ricordi speciali Disponibile in diverse dimensioni per adattarsi a ogni esigenza Il set comprende 5pz. uno da 10 cm + 4 da 5 cm Cattura i tuoi momenti più belli e trasformali in adesivi che durano nel tempo. Ogni "Ricordo Indelebile" racconta una storia unica: la tua!
-  Updated: 2025-12-10T16:34:33Z
+  Updated: 2025-12-12T23:41:33Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
