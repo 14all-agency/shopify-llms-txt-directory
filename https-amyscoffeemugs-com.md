@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-12-13T00:00:58.047Z
+- Updated At: 2025-12-14T00:00:59.143Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -12654,10 +12654,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
 ## Collections
 
 - [Ceramic Mugs, Travel Mugs, and Tumbler Cups | Gifts, Perfect for you!](https://amyscoffeemugs.com/collections/all-mugs-and-cups): Discover cute, stylish mugs, tumblers, and travel mugs featuring animals, gnomes, sports, patterns, hobbies, and more. Personalization options for gift-giving!
-  Updated: 2025-12-09T12:05:52Z
+  Updated: 2025-12-13T12:06:17Z
   Total Products: 977
 - [Ceramic Coffee Mugs | Unique Designs, Dishwasher and Microwave Safe](https://amyscoffeemugs.com/collections/ceramic-coffee-mugs): Shop 11oz or 15oz ceramic mugs with unique designs, including animals, seasonal, patterns, and personalized options. Dishwasher and microwave safe. Shop now!
-  Updated: 2025-12-09T12:05:52Z
+  Updated: 2025-12-13T12:06:17Z
   Total Products: 577
 - [Travel Mugs for Everyone | Stylish, Tapered, Stainless Steel Insulated](https://amyscoffeemugs.com/collections/travel-mugs): Shop stainless steel travel mugs with colorful or seasonal designs, personalization, & spill-resistant lids. Perfect for gifting and keeping drinks hot or cold.
   Updated: 2025-12-08T12:05:41Z
@@ -12669,7 +12669,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-12-05T12:06:21Z
   Total Products: 236
 - [Purple Mugs, Travel Mugs, and Tumbler Cups | Perfect for Purple Lovers](https://amyscoffeemugs.com/collections/purple): Shop stylish, modern purple mugs and cups with cute designs like hearts, gingham, and more. Find personalized options for yourself or as gifts. Enjoy every sip!
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-13T12:06:17Z
   Total Products: 172
 - [Teal & Turquoise Mugs, Travel Mugs, and Tumbler Cups | Stylish & Cute](https://amyscoffeemugs.com/collections/teal-turquoise): Brighten your day with these teal and turquoise mugs and tumblers. Fun, cute, and refreshing designs make them ideal for gift-giving or daily personal use!
   Updated: 2025-12-08T12:05:41Z
@@ -12699,7 +12699,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-29T12:09:14Z
   Total Products: 43
 - [Green Mugs, Travel Mugs, Tumbler Cups | Personalized & Stylish Designs](https://amyscoffeemugs.com/collections/green): Shop these green mugs, travel mugs, and tumblers with frogs, sports, clovers, polka dots, personalized gifts, and more. Perfect for coffee lovers everywhere!
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-13T12:06:17Z
   Total Products: 250
 - [Yellow Mugs, Travel Mugs, and Tumbler Cups | Brighten Your Morning](https://amyscoffeemugs.com/collections/yellow): Explore our yellow coffee mugs and tumbler cups, perfect for brightening mornings. Fun, sunny designs for tea, cocoa, or coffee. Find your favorite today!
   Updated: 2025-12-03T12:05:14Z
@@ -12735,7 +12735,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-12-03T12:05:14Z
   Total Products: 67
 - [Valentine's Day Mugs, Travel Mugs, Tumbler Cups | Love-Themed Gifts](https://amyscoffeemugs.com/collections/valentines-day): Shop cute Valentine’s Day mugs, travel mugs, and tumblers with heart patterns and loving designs. Great gifts for friends, loved ones, or a treat for yourself.
-  Updated: 2025-12-08T12:05:41Z
+  Updated: 2025-12-13T12:06:17Z
   Total Products: 108
 - [St. Patrick's Day Mugs, Travel Mugs, Tumbler Cups | Shamrocks & Gnomes](https://amyscoffeemugs.com/collections/st-patricks-day): Shop our festive St. Patrick's Day mugs, travel mugs, and tumbler cups featuring shamrocks, gnomes, and green patterns. Perfect for celebrating or gifting!
   Updated: 2025-12-08T12:05:41Z
