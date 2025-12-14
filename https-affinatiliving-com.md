@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-14T16:00:34.163Z
+- Updated At: 2025-12-14T20:00:34.529Z
 
 ## Products
 
@@ -564,7 +564,7 @@
     Availability: Available
     Price: $39.95 USD
 - [Almond Macaron Signature Candle](https://affinatiliving.com/products/almond-macaron-signature-candle): Sweet and nutty, Almond Macaron delivers a bakery-fresh blend of almond, sugar, and vanilla in a 10 oz clean-burning soy candle.
-  Updated: 2025-12-10T19:05:00Z
+  Updated: 2025-12-14T16:47:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -579,7 +579,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Christmas Cookie Signature Candle](https://affinatiliving.com/products/christmas-cookie-signature-candle): Capture the spirit of the holidays with Christmas Cookie—warm vanilla, sugar, and fresh-baked aroma in a festive 10 oz soy candle.
-  Updated: 2025-12-10T19:05:00Z
+  Updated: 2025-12-14T16:47:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -594,7 +594,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Cocoa Butter Cashmere Signature Candle](https://affinatiliving.com/products/cocoa-butter-cashmere-signature-candle): Indulge in luxurious calm with Cocoa Butter Cashmere—a velvety blend of cocoa butter, vanilla, and musk in a clean-burning 10 oz soy candle
-  Updated: 2025-12-10T19:05:00Z
+  Updated: 2025-12-14T16:47:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -609,7 +609,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Chocolate Fudge Brownie Signature Candle](https://affinatiliving.com/products/chocolate-fudge-brownie-signature-candle): Decadent and sweet, Chocolate Fudge Brownie fills your space with rich cocoa and baked goodness in a clean-burning 10 oz soy wax candle.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -624,7 +624,7 @@
     Availability: Available
     Price: $72.95 USD
 - [French Vanilla Signature Candle](https://affinatiliving.com/products/french-vanilla-signature-candle): Classic and cozy, French Vanilla offers a rich vanilla bean scent in a clean-burning 10 oz soy candle. Comfort you can light.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -639,7 +639,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Vanilla Orchid Signature Candle](https://affinatiliving.com/products/vanilla-orchid-signature-candle): Elegant and smooth, Vanilla Orchid combines floral notes with creamy vanilla for a refined fragrance in a 10 oz clean-burning soy candle.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -654,7 +654,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Coffee Shop Signature Candle](https://affinatiliving.com/products/coffee-shop-signature-candle): Wake up to the aroma of your favorite café. Coffee Shop blends roasted beans, vanilla, and sweet cream in a cozy 10 oz soy wax candle.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -669,7 +669,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Tobacco Signature Candle](https://affinatiliving.com/products/tobacco-signature-candle): Infuse your space with sophistication using Tobacco Signature Candle—rich cured tobacco and warm spice in a clean-burning 10 oz soy candle.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -684,7 +684,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Bourbon & Butterscotch Signature Candle](https://affinatiliving.com/products/bourbon-butterscotch-signature-candle): Warm and indulgent, Bourbon & Butterscotch combines smoky oak, rich caramel, and sweet vanilla in a luxurious 10 oz clean-burning soy candle.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -699,7 +699,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Mahogany Teakwood Signature Candle](https://affinatiliving.com/products/mahogany-teakwood-signature-candle): Enhance your space with Mahogany Teakwood—a bold blend of rich mahogany, cedar, and spice in a clean-burning 10 oz soy candle. Elevate your evenings.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -714,7 +714,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Fresh Cut Sage Signature Candle](https://affinatiliving.com/products/fresh-sage-signature-candle): Earthy, herbal, and clean. Fresh Cut Sage delivers a grounding scent of fresh herbs and soft woods in a 10 oz soy candle. Calm meets clarity.
-  Updated: 2025-12-10T19:05:01Z
+  Updated: 2025-12-14T16:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Not Available
@@ -729,7 +729,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Honey Lavender Signature Candle](https://affinatiliving.com/products/honey-lavender-signature-candle): Relax deeply with the Honey Lavender Signature Candle—10 oz of calming lavender and sweet honey in a clean-burning soy jar. Shop sleep-worthy scent
-  Updated: 2025-12-10T19:05:02Z
+  Updated: 2025-12-14T16:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -744,7 +744,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Mint Eucalyptus Signature Candle](https://affinatiliving.com/products/eucalyptus-spearmint-signature-candle): Refresh your senses with Mint Eucalyptus—crisp mint and clearing eucalyptus in our 10 oz soy candle. Perfect for focus, baths, or an energizing reset
-  Updated: 2025-12-10T19:05:02Z
+  Updated: 2025-12-14T16:47:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Not Available
@@ -759,7 +759,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Hawaiian Hibiscus Signature Candle](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle): Transport your senses to the islands with Hawaiian Hibiscus—bright florals, tropical fruit, and soft musk in a 10 oz clean-burning soy candle.
-  Updated: 2025-12-10T19:05:02Z
+  Updated: 2025-12-14T16:47:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -774,7 +774,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pink Sands Signature Candle](https://affinatiliving.com/products/pink-sands-signature-candle): Escape to paradise with Pink Sands—a soft, tropical blend of citrus, sweet florals, and vanilla in a clean-burning 10 oz soy candle.
-  Updated: 2025-12-10T19:05:02Z
+  Updated: 2025-12-14T16:47:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -789,7 +789,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Twisted Peppermint Signature Candle](https://affinatiliving.com/products/twisted-peppermint-signature-candle): Cool and invigorating, Twisted Peppermint blends fresh mint, vanilla, and a hint of sweetness in a crisp 10 oz soy candle. Perfect for winter vibes.
-  Updated: 2025-12-10T19:05:02Z
+  Updated: 2025-12-14T16:47:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1698,7 +1698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Photoroom_20250413_134450.jpg?v=1746029324
   Price: $14.95 USD
 - [Ocean Breeze Signature Candle](https://affinatiliving.com/products/ocean-breeze-signature-candle): Escape to the coast with Ocean Breeze—a refreshing fusion of marine air, driftwood, and citrus in a 10 oz clean-burning soy candle
-  Updated: 2025-12-10T19:05:10Z
+  Updated: 2025-12-14T16:36:39Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1713,7 +1713,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Black Raspberry Signature Candle](https://affinatiliving.com/products/black-raspberry-signature-candle): Sweeten your home with Black Raspberry—ripe berries, vanilla, and sugar in a vibrant 10 oz soy candle. Bold, fruity, and delightfully inviting.
-  Updated: 2025-12-10T19:05:10Z
+  Updated: 2025-12-14T16:36:39Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1728,7 +1728,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Fresh Linen Signature Candle](https://affinatiliving.com/products/fresh-linen-signature-candle): Breathe in clean comfort. Fresh Linen offers airy cotton, soft florals, and powder notes in a 10 oz soy candle—perfect for any room or reset
-  Updated: 2025-12-10T19:05:10Z
+  Updated: 2025-12-14T16:36:39Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1743,7 +1743,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Fruit Fusion Signature Candle](https://affinatiliving.com/products/fruit-fusion-signature-candle): Bright, juicy, and uplifting. Fruit Fusion blends tropical fruits and citrus zest in a 10 oz soy candle for a vibrant, mood-boosting experience
-  Updated: 2025-12-10T19:05:10Z
+  Updated: 2025-12-14T16:36:38Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1758,7 +1758,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Spa Day Signature Candle](https://affinatiliving.com/products/spa-day-signature-candle): Turn your home into a sanctuary. Spa Day blends eucalyptus, cucumber water, and white tea in a clean-burning 10 oz soy candle for total relaxation.
-  Updated: 2025-12-10T19:05:10Z
+  Updated: 2025-12-14T16:36:38Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1773,7 +1773,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Bouquet of Roses Signature Candle](https://affinatiliving.com/products/bouquet-of-roses-signature-candle): Fill your space with classic elegance. The Bouquet of Roses candle offers soft floral notes in a clean-burning 10 oz soy wax jar. Romantic and timeless.
-  Updated: 2025-12-10T19:05:10Z
+  Updated: 2025-12-14T16:36:38Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1788,7 +1788,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Amber Noir Signature Candle](https://affinatiliving.com/products/amber-noir-signature-candle): Set the mood with Amber Noir—a 10 oz soy candle layered in dark amber and warm woods. Sophisticated, long-lasting aroma meets refined ambiance.
-  Updated: 2025-12-10T19:05:11Z
+  Updated: 2025-12-14T16:36:38Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1803,7 +1803,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Bonfire Signature Candle](https://affinatiliving.com/products/bonfire-signature-candle): Relive cozy nights with Bonfire. A warm blend of smoked cedarwood, toasted marshmallow, and glowing embers in a clean-burning 10 oz soy candle.
-  Updated: 2025-12-10T19:05:11Z
+  Updated: 2025-12-14T16:36:37Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1818,7 +1818,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Blue Spruce Signature Candle](https://affinatiliving.com/products/blue-spruce-signature-candle): Bring the outdoors in with Blue Spruce. This 10 oz soy candle blends crisp pine, fir, and evergreen notes for a refreshing woodland escape.
-  Updated: 2025-12-10T19:05:11Z
+  Updated: 2025-12-14T16:36:37Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2793,7 +2793,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Coconut Flakes Signature Candle](https://affinatiliving.com/products/coconut-flakes-signature-candle): Escape to a tropical paradise with the Coconut Flakes Signature Candle—10 oz of creamy coconut aroma in a clean-burning soy wax jar. Light freedom.
-  Updated: 2025-12-10T19:05:21Z
+  Updated: 2025-12-14T16:36:37Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2808,7 +2808,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Cotton Candy Signature Candle](https://affinatiliving.com/products/cotton-candy-signature-candle): Bring sweet nostalgia to your home with our 10 oz Cotton Candy Signature Candle—hand-poured soy wax, clean-burning, and irresistibly fragrant. Shop now.
-  Updated: 2025-12-10T19:05:21Z
+  Updated: 2025-12-14T16:36:37Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2823,7 +2823,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Apple Cider Signature Candle](https://affinatiliving.com/products/apple-cider-signature-candle): Sip into the season with Apple Cider. This 10 oz soy candle features fresh apple, warm spice, and a hint of sweetness for the perfect autumn vibe.
-  Updated: 2025-12-10T19:05:21Z
+  Updated: 2025-12-14T16:36:36Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Not Available
@@ -2838,7 +2838,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Apple Spice Signature Candle](https://affinatiliving.com/products/apple-spice-signature-candle): Bring home the warmth of fall. The Apple Spice candle blends crisp apples, cinnamon, and clove in a cozy 10 oz clean-burning soy wax jar.
-  Updated: 2025-12-10T19:05:21Z
+  Updated: 2025-12-14T16:36:36Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Not Available
@@ -2853,7 +2853,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Black Cherry Signature Candle](https://affinatiliving.com/products/black-cherry-signature-candle): Fill your space with bold, juicy aroma. Our Black Cherry candle features ripe cherries and vanilla in a clean-burning 10 oz soy wax blend.
-  Updated: 2025-12-10T19:05:21Z
+  Updated: 2025-12-14T16:36:36Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2868,7 +2868,7 @@
     Availability: Available
     Price: $72.95 USD
 - [S’mores Signature Candle](https://affinatiliving.com/products/s-mores-signature-candle): Cozy up with the scent of campfire nights. Our S’mores candle blends graham cracker, melted marshmallow, and rich chocolate in a clean 10 oz soy jar.
-  Updated: 2025-12-10T19:05:21Z
+  Updated: 2025-12-14T16:36:36Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3033,7 +3033,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Fresh Peaches Signature Candle](https://affinatiliving.com/products/fresh-peaches-signature-candle): Brighten any room with Fresh Peaches—juicy peach nectar in a clean-burning 10 oz soy candle. Summer vibes all year round—shop now
-  Updated: 2025-12-10T19:05:23Z
+  Updated: 2025-12-14T16:36:34Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3873,7 +3873,7 @@
     Availability: Available
     Price: $29.95 USD
 - [White Christmas Signature Candle](https://affinatiliving.com/products/white-christmas-signature-candle): Bring the magic of the holidays home with our White Christmas Luxury Soy Candle. Clean-burning soy wax with notes of pine, frosted berries, and vanilla creates a cozy, festive atmosphere all season long
-  Updated: 2025-12-10T19:05:30Z
+  Updated: 2025-12-14T16:36:34Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Not Available
@@ -3888,7 +3888,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Hot Chocolate Signature Candle](https://affinatiliving.com/products/hot-chocolate-signature-candle): Warm up your home with our Hot Chocolate Signature Candle. A soy wax blend with rich cocoa, vanilla, and milk notes for a cozy, inviting winter fragrance.
-  Updated: 2025-12-10T19:05:30Z
+  Updated: 2025-12-14T16:36:34Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4014,7 +4014,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Peppermint Swirl Signature Candle](https://affinatiliving.com/products/peppermint-swirl-signature-candle): Experience the festive sweetness of our Peppermint Swirl Signature Candle. A refreshing blend of cool peppermint and creamy vanilla for a cozy, candy-cane holiday aroma.
-  Updated: 2025-12-10T19:05:31Z
+  Updated: 2025-12-14T16:36:34Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4044,7 +4044,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Clean Cotton Signature Candle](https://affinatiliving.com/products/clean-cotton-signature-candle): Brighten your home with Affinati’s Clean Cotton Signature Candle. This 10 oz soy-wax candle captures the scent of freshly washed linens and soft white musk for a clean, airy fragrance that lasts.
-  Updated: 2025-12-10T19:05:31Z
+  Updated: 2025-12-14T16:36:33Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4376,7 +4376,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Pumpkin Pie Signature Candle](https://affinatiliving.com/products/pumpkin-pie-signature-candle): Warm up your home with the comforting aroma of pumpkin pie. This 10 oz soy-blend candle fills the air with creamy pumpkin, buttery crust, and cinnamon spice for a cozy fall glow. Perfect for autumn décor or seasonal gifting.
-  Updated: 2025-12-10T19:05:34Z
+  Updated: 2025-12-14T16:36:33Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4391,7 +4391,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pumpkin Cheesecake Signature Candle](https://affinatiliving.com/products/pumpkin-cheesecake-signature-candle): Delight your senses with our Pumpkin Cheesecake Candle — a creamy blend of spiced pumpkin, vanilla, and brown sugar in a 10 oz soy-wax jar. The perfect indulgent fall fragrance.
-  Updated: 2025-12-10T19:05:34Z
+  Updated: 2025-12-14T16:36:33Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4406,7 +4406,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Candied Yams Signature Candle](https://affinatiliving.com/products/candied-yams-signature-candle): Wrap your space in the sweet warmth of Candied Yams. This 10 oz soy-blend candle combines brown sugar, spiced sweet potato, and vanilla for a cozy, nostalgic holiday scent.
-  Updated: 2025-12-10T19:05:35Z
+  Updated: 2025-12-14T16:36:33Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4611,7 +4611,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Champagne Toast Signature Candle](https://affinatiliving.com/products/champagne-toast-signature-candle): Add sparkle to your space with the Affinati Champagne Toast Signature Candle. A blend of bubbly champagne, sugared berries, and nectarine creates a joyful, effervescent scent.
-  Updated: 2025-12-10T19:05:37Z
+  Updated: 2025-12-14T16:36:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4626,7 +4626,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Apple Cinnamon Signature Candle](https://affinatiliving.com/products/apple-cinnamon-signature-candle): Bring home the warmth of the season with our Apple Cinnamon Signature Candle. Crisp apples and spiced cinnamon create a cozy, inviting aroma perfect for any autumn evening.
-  Updated: 2025-12-10T19:05:38Z
+  Updated: 2025-12-14T16:36:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
@@ -4671,7 +4671,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Black Coffee Signature Candle](https://affinatiliving.com/products/black-coffee-signature-candle): Awaken your home with the rich aroma of our Black Coffee Signature Candle. Crafted with a premium soy wax blend, this 10 oz candle blends espresso, roasted beans, and vanilla cream for a warm, invigorating fragrance that lasts.
-  Updated: 2025-12-10T19:05:38Z
+  Updated: 2025-12-14T16:36:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4686,7 +4686,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Smoked Vanilla Signature Candle](https://affinatiliving.com/products/smoked-vanilla-signature-candle): Indulge in the rich, smoky elegance of our Smoked Vanilla Signature Candle. Crafted with a premium soy wax blend, it blends warm vanilla, amber, and smoked wood for a cozy, luxurious aroma that fills your home with lasting fragrance.
-  Updated: 2025-12-10T19:05:38Z
+  Updated: 2025-12-14T16:36:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4731,7 +4731,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Birthday Cake Signature Candle](https://affinatiliving.com/products/birthday-cake-signature-candle): Indulge in the sweet scent of celebration with our Birthday Cake Signature Candle. Crafted from a premium soy wax blend, it blends vanilla frosting, buttery cake, and sugar sprinkles for a cozy, joyful fragrance that fills your home with warmth.
-  Updated: 2025-12-10T19:05:39Z
+  Updated: 2025-12-14T16:36:30Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5618,7 +5618,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Coconut Dream Signature Candle](https://affinatiliving.com/products/coconut-dream-signature-candle): Unwind with the Affinati Coconut Dream Signature Candle. A blend of creamy coconut milk, soft vanilla, and island blossom creates a soothing tropical escape with a clean, even burn.
-  Updated: 2025-12-10T19:05:48Z
+  Updated: 2025-12-14T16:36:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5633,7 +5633,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Chocolate Element Signature Candle](https://affinatiliving.com/products/chocolate-element-signature-candle): Indulge in pure decadence with the Chocolate Element Signature Candle. Crafted from a premium soy wax blend, it fills your home with the rich, comforting scent of melted chocolate and vanilla cream for a cozy, luxurious experience.
-  Updated: 2025-12-10T19:05:48Z
+  Updated: 2025-12-14T16:36:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5714,7 +5714,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Toasted Pumpkin Cream Signature Candle](https://affinatiliving.com/products/toasted-pumpkin-cream-signature-candle): Fill your home with the cozy aroma of our Toasted Pumpkin Cream Candle. Hand-poured with a premium soy wax blend, it blends creamy pumpkin, vanilla, and toasted spice for a warm, comforting fall fragrance.
-  Updated: 2025-12-10T19:05:49Z
+  Updated: 2025-12-14T16:36:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5729,7 +5729,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pumpkin Spice Latte Signature Candle](https://affinatiliving.com/products/pumpkin-spice-latte-signature-candle): Cozy up with our Pumpkin Spice Latte Signature Candle — a warm blend of pumpkin, espresso, vanilla, and cinnamon. Fill your home with the rich, comforting aroma of fall.
-  Updated: 2025-12-10T19:05:49Z
+  Updated: 2025-12-14T16:36:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5744,7 +5744,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Autumn Breeze Signature Candle](https://affinatiliving.com/products/amber-breeze-signature-candle): Capture the essence of fall with our Autumn Breeze Candle. Hand-poured with natural soy wax, it blends crisp apple, warm cinnamon, and cedarwood for a fresh, cozy autumn fragrance.
-  Updated: 2025-12-10T19:05:50Z
+  Updated: 2025-12-14T16:36:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5823,7 +5823,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Strawberry Shortcake Signature Candle](https://affinatiliving.com/products/strawberry-shortcake-signature-candle): Delight in the cozy sweetness of our Strawberry Shortcake Luxury Soy Candle. Hand-poured with premium soy wax, it fills your home with notes of ripe strawberries, vanilla cake, and whipped cream for a warm, bakery-fresh aroma.
-  Updated: 2025-12-10T19:05:51Z
+  Updated: 2025-12-14T16:36:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5883,7 +5883,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Spiked Eggnog Signature Candle](https://affinatiliving.com/products/spiked-eggnog-signature-candle): Unwind with the Affinati Coconut Dream Signature Candle. A blend of creamy coconut milk, soft vanilla, and island blossom creates a soothing tropical escape with a clean, even burn.
-  Updated: 2025-12-10T19:05:52Z
+  Updated: 2025-12-14T16:36:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5928,7 +5928,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Whipped Pistachio Signature Candle](https://affinatiliving.com/products/whipped-pistachio-signature-candle): Indulge in the rich, nutty sweetness of our Whipped Pistachio Signature Candle — a creamy blend of pistachio, vanilla, and almond in a premium soy wax candle that fills your home with cozy, luxurious fragrance.
-  Updated: 2025-12-10T19:05:52Z
+  Updated: 2025-12-14T16:36:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
@@ -5987,7 +5987,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Vanilla Sugar Signature Candle](https://affinatiliving.com/products/vanilla-sugar-signature-candle): Indulge in cozy elegance with Affinati’s Vanilla Sugar Signature Candle. A creamy blend of vanilla bean, amber, and whipped sugar hand-poured in soy wax for a warm, long-lasting, and refined fragrance experience.
-  Updated: 2025-12-10T19:05:53Z
+  Updated: 2025-12-14T16:36:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6017,7 +6017,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Hazelnut Coffee Signature Candle](https://affinatiliving.com/products/hazelnut-coffee-signature-candle): Wake up to rich hazelnut and fresh coffee notes. This 10 oz soy candle fills your home with the warm, comforting scent of your favorite morning brew.
-  Updated: 2025-12-10T19:05:53Z
+  Updated: 2025-12-14T16:36:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6251,7 +6251,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Eucalyptus Pine Signature Candle](https://affinatiliving.com/products/eucalyptus-pine-signature-candle): Experience refreshing clarity with our Eucalyptus Pine Signature Candle. This 10 oz soy blend candle fills your space with crisp eucalyptus, pine needles, and cedarwood. Strongly scented, clean burning, and perfect for uplifting any room.
-  Updated: 2025-12-10T19:05:58Z
+  Updated: 2025-12-14T16:36:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
@@ -6303,7 +6303,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Driftwood & Sea Salt Signature Candle](https://affinatiliving.com/products/driftwood-sea-salt-signature-candle): A clean, coastal 10 oz candle blending driftwood, sea salt, and soft marine minerals. Strongly scented, clean-burning, and perfect for refreshing any room.
-  Updated: 2025-12-10T19:05:58Z
+  Updated: 2025-12-14T16:36:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6372,7 +6372,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Rustic Sandalwood Signature Candle](https://affinatiliving.com/products/rustic-sandalwood-signature-candle): Cozy and refined, the Rustic Sandalwood Signature Candle blends warm sandalwood, amber, and cedarwood in a clean-burning 10 oz soy wax candle. Perfect for adding inviting, wood-toned comfort to any room.
-  Updated: 2025-12-10T19:05:59Z
+  Updated: 2025-12-14T16:36:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6448,7 +6448,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Lavender Vanilla Signature Candle](https://affinatiliving.com/products/lavender-vanilla-signature-candle): Relax your home with the calming blend of fresh lavender and creamy vanilla. This 10 oz soy-blend signature candle offers a strong, long-lasting scent and a clean, even burn—perfect for creating a peaceful, cozy atmosphere in any room.
-  Updated: 2025-12-10T19:06:00Z
+  Updated: 2025-12-14T16:36:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6538,7 +6538,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Rosemary Mint Signature Candle](https://affinatiliving.com/products/rosemary-mint-signature-candle): Refresh your space with our Rosemary Mint Signature Candle—an invigorating blend of cool mint and fresh rosemary, hand-poured for a clean, long-lasting burn.
-  Updated: 2025-12-10T19:06:00Z
+  Updated: 2025-12-14T16:36:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
@@ -6606,7 +6606,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_08_57_08_AM.png?v=1763906395
   Price: $17.95 USD
 - [Carrot Cake Signature Candle](https://affinatiliving.com/products/carrot-cake-signature-candle): Warm your home with our Carrot Cake Signature Candle—notes of spiced cake, creamy vanilla frosting, and brown sugar for a cozy, bakery-fresh aroma.
-  Updated: 2025-12-10T19:06:01Z
+  Updated: 2025-12-14T16:36:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6636,7 +6636,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Blackberry Sage Signature Candle](https://affinatiliving.com/products/blackberry-sage-signature-candle): Refresh your space with our Blackberry Sage Signature Candle—juicy berries and fresh sage create a bright, calming aroma with a clean, long-lasting burn.
-  Updated: 2025-12-10T19:06:02Z
+  Updated: 2025-12-14T16:36:26Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6773,7 +6773,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Blackberry Absinthe Signature Candle](https://affinatiliving.com/products/blackberry-absinthe-signature-candle): A rich, luxurious scent. Our Blackberry Absinthe Signature Candle blends dark berries, plum, and absinthe for a smooth, elegant, long-lasting home fragrance.
-  Updated: 2025-12-10T19:06:04Z
+  Updated: 2025-12-14T16:36:26Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6818,7 +6818,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Maple Pancakes Signature Candle](https://affinatiliving.com/products/maple-pancakes-signature-candle): Affinati Maple Pancakes Signature Candle blends warm maple syrup, buttery pancakes, and vanilla in a 10 oz soy candle for a sweet, cozy, long-lasting aroma.
-  Updated: 2025-12-10T19:06:04Z
+  Updated: 2025-12-14T16:36:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6933,7 +6933,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Ivory Woods Signature Candle](https://affinatiliving.com/products/ivory-woods-signature-candle): A warm, elegant fragrance. Ivory Woods blends cashmere woods, amber, and ivory musk for a soft, woodsy scent in a clean-burning 10 oz Signature Candle.
-  Updated: 2025-12-10T19:06:08Z
+  Updated: 2025-12-14T16:36:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7055,7 +7055,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_12_07_26_PM.png?v=1764263294
   Price: $17.95 USD
 - [Arctic Cedarwood Signature Candle](https://affinatiliving.com/products/arctic-cedarwood-signature-candle): A crisp, modern scent. Arctic Cedarwood blends cool cedar, frosted pine, amber, and icy musk for a clean, refreshing, long-lasting fragrance in any room.
-  Updated: 2025-12-10T19:06:09Z
+  Updated: 2025-12-14T16:36:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7184,7 +7184,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Vanilla Chai Signature Candle](https://affinatiliving.com/products/vanilla-chai-signature-candle): Cozy up with creamy vanilla and chai spice. Our 10 oz Vanilla Chai Signature Candle fills any room with rich, comforting, long-lasting fragrance.
-  Updated: 2025-12-10T19:06:13Z
+  Updated: 2025-12-14T16:36:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7214,7 +7214,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Whiskey Reserve Signature Candle](https://affinatiliving.com/products/whiskey-reserve-signature-candle): Whiskey Reserve Signature Candle – 10 oz. A warm blend of whiskey, toasted oak, amber, and vanilla. Strongly scented soy wax candle that adds rich, masculine, luxurious warmth to any room.
-  Updated: 2025-12-10T19:06:13Z
+  Updated: 2025-12-14T16:36:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7321,7 +7321,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Toasted Coconut Signature Candle](https://affinatiliving.com/products/toasted-coconut-signature-candle): Indulge in creamy, warm sweetness with our Toasted Coconut Signature Candle. A rich 10 oz soy blend candle that fills your home with cozy, tropical luxury.
-  Updated: 2025-12-10T19:06:14Z
+  Updated: 2025-12-14T16:36:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7397,7 +7397,7 @@
     Availability: Available
     Price: $64.95 USD
 - [White Tea Signature Candle](https://affinatiliving.com/products/white-tea-signature-candle): Enjoy soft white tea, airy citrus, and gentle florals with this clean-burning 10 oz candle. White Tea creates a calming, spa-like atmosphere with lasting fragrance.
-  Updated: 2025-12-11T07:38:52Z
+  Updated: 2025-12-14T16:36:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7412,7 +7412,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Saffron Cedarwood Signature Candle](https://affinatiliving.com/products/saffron-cedarwood-signature-candle): Experience warm elegance with our Saffron Cedarwood 10 oz Signature Candle—rich saffron, smoky cedar, and smooth amber for a cozy, luxurious home fragrance.
-  Updated: 2025-12-11T15:04:47Z
+  Updated: 2025-12-14T16:36:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7427,7 +7427,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Fire Roasted Marshmallow Signature Candle](https://affinatiliving.com/products/fire-roasted-marshmallow-signature-candle): Cozy up with our Fire Roasted Marshmallow 10 oz Signature Candle—sweet toasted marshmallow, vanilla, and warm ember smoke for the perfect fireside ambiance.
-  Updated: 2025-12-11T15:09:39Z
+  Updated: 2025-12-14T16:36:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7442,7 +7442,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pina Colada Signature Candle](https://affinatiliving.com/products/pina-colada-signature-candle): Experience tropical bliss with our Pina Colada Signature Candle. Creamy coconut, fresh pineapple, vanilla, and rum warmth create a bright, beachy aroma perfect for any space. Long-lasting, luxurious, and summer-ready.
-  Updated: 2025-12-12T03:02:06Z
+  Updated: 2025-12-14T16:36:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7487,7 +7487,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Eucalyptus Tea Signature Candle](https://affinatiliving.com/products/eucalyptus-tea-signature-candle): Discover calming, spa-like freshness with our Eucalyptus Tea Signature Candle. Crisp eucalyptus and soft white tea create a clean, soothing aroma perfect for relaxation and everyday tranquility. Strongly scented, clean-burning, and hand-poured for refined elegance.
-  Updated: 2025-12-13T03:25:30Z
+  Updated: 2025-12-14T16:36:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
@@ -7502,7 +7502,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Smoked Bourbon Signature Candle](https://affinatiliving.com/products/smoked-bourbon-signature-candle): Experience deep fireside luxury with our Smoked Bourbon Signature Candle. Notes of warm bourbon, charred oak, smoked vanilla, and amber create a bold, refined aroma perfect for cozy nights and elegant atmospheres.
-  Updated: 2025-12-13T03:29:14Z
+  Updated: 2025-12-14T16:36:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7547,7 +7547,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Pineapple Margarita's Signature Candle](https://affinatiliving.com/products/pineapple-margaritas-signature-candle): Brighten your space with our Pineapple Margarita Signature Candle. Juicy pineapple, fresh lime, and smooth agave in a clean-burning 10 oz soy wax candle by Affinati.
-  Updated: 2025-12-14T12:45:04Z
+  Updated: 2025-12-14T16:36:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
