@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-09T00:00:31.436Z
+- Updated At: 2025-12-14T00:00:36.903Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1750698346
     Price: 819,00 € EUR
 - [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2025-11-14T15:15:57Z
+  Updated: 2025-12-09T14:20:11Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_beige_flame.webp?v=1751053385
     Price: 1.894,60 € EUR
   - [Rot](https://www.pelios.de/products/holzofen-22-kw?variant=51278228947283)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_red.webp?v=1751053385
     Price: 1.794,60 € EUR
   - [Silber](https://www.pelios.de/products/holzofen-22-kw?variant=51278300184915)
@@ -264,7 +264,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-11-14T15:15:58Z
+  Updated: 2025-12-10T12:35:53Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-11-11T15:58:21Z
@@ -294,7 +294,7 @@
   Updated: 2025-11-14T14:43:57Z
   Total Products: 2
 - [bis 200 qm](https://www.pelios.de/collections/bis-200-qm)
-  Updated: 2025-11-14T15:15:58Z
+  Updated: 2025-12-10T12:35:53Z
   Total Products: 1
 - [Wandmontage](https://www.pelios.de/collections/wandmontage)
   Updated: 2025-11-20T18:23:40Z
@@ -309,7 +309,7 @@
   Updated: 2025-11-20T18:39:54Z
   Total Products: 14
 - [ohne Strom](https://www.pelios.de/collections/ohne-strom)
-  Updated: 2025-11-20T18:39:54Z
+  Updated: 2025-12-10T12:35:53Z
   Total Products: 11
 - [Infrarot](https://www.pelios.de/collections/infrarot)
   Updated: 2025-11-11T15:58:22Z
@@ -368,6 +368,26 @@
     Updated: 2025-12-08T04:18:08Z
     Author: ms@nova02.de
     Tags: pelletofen förderung
+  - [Kaminofen anschließen an Schornstein – Schritt‑für‑Schritt Anleitung für sichere Montage](https://www.pelios.de/blogs/news/kaminofen-anschliessen-an-schornstein-schritt-fur-schritt-anleitung-fur-sichere-montage)
+    Updated: 2025-12-09T04:25:58Z
+    Author: ms@nova02.de
+    Tags: kaminofen anschließen an schornstein
+  - [Elektro Kamin mit Heizung: 7 Gründe, warum er die ideale Heizlösung ist](https://www.pelios.de/blogs/news/elektro-kamin-mit-heizung-7-grunde-warum-er-die-ideale-heizlosung-ist)
+    Updated: 2025-12-10T03:06:56Z
+    Author: Marek Stein
+    Tags: elektro kamin mit heizung
+  - [Kaminofen eckig modern: 6 inspirierende Design-Ideen für Ihr Zuhause](https://www.pelios.de/blogs/news/kaminofen-eckig-modern-6-inspirierende-design-ideen-fur-ihr-zuhause)
+    Updated: 2025-12-11T03:23:52Z
+    Author: Marek Stein
+    Tags: kaminofen eckig modern
+  - [Alles, was Sie über den Pelletofen Stromverbrauch wissen sollten](https://www.pelios.de/blogs/news/alles-was-sie-uber-den-pelletofen-stromverbrauch-wissen-sollten)
+    Updated: 2025-12-12T03:19:14Z
+    Author: Marek Stein
+    Tags: pelletofen stromverbrauch
+  - [Kaminofen ohne Schornstein: Praktischer Leitfaden für Installation, Nutzung und Kosten](https://www.pelios.de/blogs/news/kaminofen-ohne-schornstein-praktischer-leitfaden-fur-installation-nutzung-und-kosten)
+    Updated: 2025-12-13T02:58:35Z
+    Author: Marek Stein
+    Tags: kaminofen ohne schornstein
 
 ## Store Pages
 
