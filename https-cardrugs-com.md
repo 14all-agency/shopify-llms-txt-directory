@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2025-12-13T00:00:24.755Z
+- Updated At: 2025-12-14T00:00:26.512Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0103/8204/9380/products/IMG_0259.jpg?v=1759445118
   Price: $8.88 USD
 - [Neko Head (Pink)](https://cardrugs.com/products/neko-head-pink): PEEKER RELEASEFinish: GlossyTranslation: N/ASize: 4.5" wideGuarantee: 6 Years Outside / 10 Years InsideSafe for any surface including car paint / windowsDesign by Denlin (CarDrugs) ---Shipping ---United States First Class / Free Shipping / NO TRACKING / 5-10 DAYSFirst Class / Protect Box $4 / WITH TRACKING / 5-7 DAYSPriority Protect Box $7 / WITH TRACKING / 2-3 DAYS---WorldwideFirst Class Slaps or Decals / $2 Protected Envelope / 7-12 DaysTracked for All other Items that will not fit into an envelope as follows$12 anywhere in the world for Flight Tags, Clothing, Plates, Mirrors, Skateboards, etc
-  Updated: 2025-11-06T20:10:41Z
+  Updated: 2025-12-13T01:16:32Z
   Vendor: CarDrugs.com
   Product Type: 
   Availability: Available
@@ -169,7 +169,7 @@
   Updated: 2025-12-01T12:13:27Z
   Total Products: 87
 - [Apparel](https://cardrugs.com/collections/apparel)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 250
 - [Lanyards](https://cardrugs.com/collections/lanyards)
   Updated: 2024-12-29T00:39:19Z
@@ -178,7 +178,7 @@
   Updated: 2024-06-05T23:09:48Z
   Total Products: 1
 - [All Slaps & Decals](https://cardrugs.com/collections/slaps-printed-decals)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 227
 - [Plates & Overlays](https://cardrugs.com/collections/plates-overlays)
   Updated: 2024-07-20T01:20:12Z
@@ -301,7 +301,7 @@
   Updated: 2025-02-12T00:20:35Z
   Total Products: 1
 - [Hoodies](https://cardrugs.com/collections/hooded-sweatshirts)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 70
 - [Hats](https://cardrugs.com/collections/hats)
   Updated: 2025-12-03T12:10:08Z
@@ -322,7 +322,7 @@
   Updated: 2025-02-12T00:20:34Z
   Total Products: 0
 - [Newest!](https://cardrugs.com/collections/featured)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 131
 - [Series 32 Part 3](https://cardrugs.com/collections/series-32-part-3)
   Updated: 2025-02-12T00:18:16Z
@@ -337,10 +337,10 @@
   Updated: 2025-02-12T00:22:28Z
   Total Products: 0
 - [Nobori Flags](https://cardrugs.com/collections/nobori-flags)
-  Updated: 2025-12-05T12:09:09Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 169
 - [Bags & Wallets](https://cardrugs.com/collections/bags)
-  Updated: 2025-12-10T12:10:41Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 80
 - [Series 34](https://cardrugs.com/collections/series-34)
   Updated: 2025-02-12T00:16:07Z
@@ -364,7 +364,7 @@
   Updated: 2025-11-08T12:10:11Z
   Total Products: 25
 - [Jackets](https://cardrugs.com/collections/クラブ-jackets)
-  Updated: 2025-12-11T12:10:13Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 14
 - [Mystery Slap Pack: Base Set](https://cardrugs.com/collections/mystery-slap-packs-1)
   Updated: 2023-11-13T18:55:51Z
@@ -439,13 +439,13 @@
   Updated: 2025-12-05T12:09:09Z
   Total Products: 16
 - [CarDrugs X JP60](https://cardrugs.com/collections/jp60-drop)
-  Updated: 2025-11-30T12:12:34Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 58
 - [Series 46](https://cardrugs.com/collections/series-46)
   Updated: 2025-02-12T00:13:56Z
   Total Products: 18
 - [June 14 2024 Release](https://cardrugs.com/collections/june-14-2024)
-  Updated: 2025-12-11T12:10:13Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 68
 - [Series 47](https://cardrugs.com/collections/series-47)
   Updated: 2025-10-11T11:08:04Z
@@ -472,13 +472,13 @@
   Updated: 2025-02-15T12:00:44Z
   Total Products: 19
 - [Black Friday 2024](https://cardrugs.com/collections/black-friday-2024)
-  Updated: 2025-11-30T12:12:34Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 39
 - [Series 49](https://cardrugs.com/collections/series-50): OUR SMALLEST SERIES EVER!
   Updated: 2024-12-24T23:40:23Z
   Total Products: 5
 - [XMAS 2024](https://cardrugs.com/collections/xmas-2024)
-  Updated: 2025-11-04T12:09:43Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 6
 - [Series 50 XMAS 2024](https://cardrugs.com/collections/series-50-xmas-2024)
   Updated: 2025-11-30T12:12:34Z
@@ -487,7 +487,7 @@
   Updated: 2025-10-11T11:08:04Z
   Total Products: 38
 - [Mystery Sale!](https://cardrugs.com/collections/mystery-sale): WELCOME TO THE MYSTERY SALE We release so many products here at Car Drugs every month we have to keep things moving quickly. We only have a set amount of space for inventory so when we run out of space, items are posted here. The oldest release we still have in stock goes for stupid cheap! Currently in Mystery Items: Summer 2025 releases All items are in 100% perfect condition we just need room for new stuff!
-  Updated: 2025-12-05T12:09:09Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 8
 - [Plushie](https://cardrugs.com/collections/plushie)
   Updated: 2025-05-03T15:45:28Z
@@ -508,7 +508,7 @@
   Updated: 2025-11-30T12:12:34Z
   Total Products: 27
 - [Series 55](https://cardrugs.com/collections/series-55)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-13T12:10:26Z
   Total Products: 50
 - [Toys](https://cardrugs.com/collections/toys)
   Updated: 2025-12-12T12:10:01Z
