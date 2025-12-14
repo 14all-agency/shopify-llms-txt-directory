@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-14T08:00:37.545Z
+- Updated At: 2025-12-14T12:00:39.050Z
 
 ## Products
 
@@ -2014,7 +2014,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/pass-port-socks-pass-port-hi-sox-3-pack-socks-navy-white-grey-1183716885.png?v=1757207776
   Price: £19.95 GBP
 - [Stance Smilings My Favourite Socks | Green](https://thevinessupply.co/products/stance-smilings-my-favourite-socks-green): Buy the Stance Smilings My Favourite Socks at The Vines. Christmas is coming.... these feature the Christmas character Elf made famous by Will Farrell. Get free* delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-12-06T11:16:09Z
+  Updated: 2025-12-14T09:56:42Z
   Vendor: Stance
   Product Type: Socks
   Availability: Available
@@ -2050,7 +2050,7 @@
     Availability: Available
     Price: £15.95 GBP
 - [Dime MTL Polar Fleece Sherpa Zip | Black](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-black): Buy the Dime MTL Polar Fleece Sherpa Zip in Black at The Vines, with fast, premium delivery and 90 day returns.
-  Updated: 2025-12-10T18:06:16Z
+  Updated: 2025-12-14T11:32:44Z
   Vendor: Dime MTL
   Product Type: Fleece
   Availability: Available
@@ -2062,7 +2062,7 @@
     Availability: Available
     Price: £129.95 GBP
   - [Large](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-black?variant=53671680508239)
-    Availability: Available
+    Availability: Not Available
     Price: £129.95 GBP
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-black?variant=53671680541007)
     Availability: Available
@@ -3243,13 +3243,6 @@
   - [36W x 32L](https://thevinessupply.co/products/polar-skate-co-92-jeans-silver-black?variant=55375646720335)
     Availability: Not Available
     Price: £69.95 GBP
-- [Polar Skate Co Michael Polar Skate Club Cap | Black](https://thevinessupply.co/products/polar-skate-co-michael-polar-skate-club-cap-black): Buy the Polar Skate Co Michael Polar Skate Club Cap in Black at The Vines, with fast, premium delivery and easy returns.
-  Updated: 2025-12-05T17:32:55Z
-  Vendor: Polar
-  Product Type: Caps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-caps-polar-skate-co-michael-polar-skate-club-cap-black-1183714686.png?v=1757162534
-  Price: £27.95 GBP
 - [Dime MTL Carpenter Denim Shorts | Sunblasted Black](https://thevinessupply.co/products/dime-mtl-carpenter-denim-shorts-sunblasted-black): Buy the Dime MTL Carpenter Denim Shorts in Sunblasted Black at The Vines, with Fast Premium Delivery & Easy Returns.
   Updated: 2025-12-05T07:47:07Z
   Vendor: Dime MTL
@@ -4196,7 +4189,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/butter-goods-hip-bag-butter-goods-express-side-bag-black-1192379943.png?v=1757613365
   Price: £69.95 GBP
 - [Dime MTL Cursive Fold Beanie | Coffee](https://thevinessupply.co/products/dime-mtl-cursive-fold-beanie-coffee): Buy the Dime MTL Cursive Fold Beanie in Coffee at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-27T12:47:50Z
+  Updated: 2025-12-14T09:34:17Z
   Vendor: Dime MTL
   Product Type: Beanies
   Availability: Available
@@ -6303,7 +6296,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/pepsi-pepsi-max-cherry-1199492692.webp?v=1761320887
   Price: £1.50 GBP
 - [The Vines Supply Co Badge Fingerboard | Green](https://thevinessupply.co/products/the-vines-supply-co-badge-fingerboard-green): Buy the The Vines Supply Co Badge Fingerboard in Green at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-12T23:08:36Z
+  Updated: 2025-12-14T09:49:19Z
   Vendor: The Vines Supply Co
   Product Type: Fingerboards
   Availability: Available
@@ -7194,8 +7187,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-13T15:39:23Z
-  Total Products: 69
+  Updated: 2025-12-14T11:21:33Z
+  Total Products: 68
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-13T12:20:43Z
   Total Products: 386
@@ -7569,8 +7562,8 @@
   Updated: 2025-12-13T12:20:43Z
   Total Products: 95
 - [Sale](https://thevinessupply.co/collections/sale)
-  Updated: 2025-12-13T15:39:23Z
-  Total Products: 69
+  Updated: 2025-12-14T11:21:33Z
+  Total Products: 68
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
   Updated: 2025-12-13T12:20:43Z
   Total Products: 39
