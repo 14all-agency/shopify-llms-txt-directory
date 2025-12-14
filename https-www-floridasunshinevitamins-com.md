@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-12-13T00:00:37.002Z
+- Updated At: 2025-12-14T00:00:36.597Z
 
 ## Products
 
@@ -126,16 +126,16 @@
 ## Collections
 
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
-  Updated: 2025-12-08T12:25:58Z
+  Updated: 2025-12-13T12:25:31Z
   Total Products: 5
 - [Liposomal Vitamins Collection](https://www.floridasunshinevitamins.com/collections/liposomal-vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-12-08T12:25:58Z
+  Updated: 2025-12-13T12:25:31Z
   Total Products: 5
 - [Bundles](https://www.floridasunshinevitamins.com/collections/vitamin-bundles)
   Updated: 2025-11-07T14:58:45Z
   Total Products: 6
 - [Bestsellers](https://www.floridasunshinevitamins.com/collections/bestsellers)
-  Updated: 2025-12-03T12:23:28Z
+  Updated: 2025-12-13T12:25:31Z
   Total Products: 6
 - [Exclusive Winter Bundles – Buy One, Get One Free!](https://www.floridasunshinevitamins.com/collections/winter-bundles): Discover our limited-time BOGO bundles designed to keep you healthy and energized this season. Stock up now—once these bundles are gone, they’re gone!
   Updated: 2025-11-26T14:28:53Z
