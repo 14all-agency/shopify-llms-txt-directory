@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-12-10T00:00:49.977Z
+- Updated At: 2025-12-14T00:00:52.468Z
 
 ## Products
 
@@ -15891,7 +15891,7 @@
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3be78f8c-27f0-42f5-9b09-96217cf121dc.jpg?v=1757359764
   Price: CHF 68.80 CHF
 - [Foldable Dog Stairs – 3 Stufen Hundetreppe mit Stauraum](https://cilly.us/products/foldable-dog-stairs-3-stufen-hundetreppe-mit-stauraum): Erleichtere deinem Haustier den Aufstieg mit den Foldable Dog Stairs rutschfest klappbar mit integriertem Stauraum geeignet für kleine und mittelgroße Hunderassen.
-  Updated: 2025-09-11T12:27:28Z
+  Updated: 2025-12-10T05:13:03Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
