@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-10-16T16:13:42Z
 - Contact Email: tacomapartsoffice@yahoo.com
-- Updated At: 2025-12-12T00:00:24.192Z
+- Updated At: 2025-12-14T00:00:27.620Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/products/blob-0006.png?v=1704995798
   Price: $119.99 USD
 - [Front Grille Deer Moose Brush Bumper Guard Large Black for Kenworth T660](https://tacoma-truckparts.com/products/kozak-front-grille-guard-large-black-for-kenworth-t660): PROTECTS Your Kenworth Bumper, Front Grille And Headlights. HIGH POLISH Stainless Steel Bumper Guard HEAVY DUTY Grill Guard 3" Durable Tubular Construction. PROVIDES STRONG and Stylish Bumper, Lights and Grille Protection for Your Kenworth Truck
-  Updated: 2025-10-20T20:20:13Z
+  Updated: 2025-12-13T10:59:24Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/348_6df2ddef-b10b-4c7c-b16e-666502c2f75a.webp?v=1718153788
     Price: $1,399.99 USD
 - [Front Grille Bumper Guard Large Black 2013-2021 Peterbilt 579](https://tacoma-truckparts.com/products/black-front-grille-guard-large-2013-2021-peterbilt-579): Protects Your Bumper, Front Grille and Headlights. Easy Installation 100% bolt-on installation, No cutting, drilling or front end modification required. Installation can be done easily in a home garage using common tools.
-  Updated: 2025-10-20T20:20:13Z
+  Updated: 2025-12-13T10:59:17Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -69,7 +69,7 @@
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/348.webp?v=1718153625
     Price: $1,399.99 USD
 - [Headlights LED Set 2013-2021 Peterbilt 579 587](https://tacoma-truckparts.com/products/headlight-led-pair-set-peterbilt-579-587): Full LED 12-24 volt Performance Headlights Assembly Black Housing Set for Peterbilt 579 587. High Quality. USA Brand. Same day shipping to USA and Canada.
-  Updated: 2025-10-20T20:20:14Z
+  Updated: 2025-12-12T23:18:56Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -153,7 +153,7 @@
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/244.webp?v=1718006628
   Price: $899.99 USD
 - [Herd 300 Grille Guard 2012-2021 Kenworth T680](https://tacoma-truckparts.com/products/kenworth-t680-t660-truck-grille-deer-moose-brush-bumper-guard-herd-300): Grille Deer Moose Brush Bumper Guard HERD 300 For Kenworth T680 2012-2021, T660 EXTRA PROTECTION. The truck bumper guard enhances the safety of your front end, helping to protect your investment from costly damage STYLISH DESIGN. The unique tube design of this semi truck bumper guard gives your truck and business a professional touch and modern accent CORROSION-RESISTANT BUILD. HERD Guard 300 series semi truck grill guards are constructed from stainless steel for lasting corrosion resistance.
-  Updated: 2025-12-08T07:27:47Z
+  Updated: 2025-12-13T10:59:19Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -174,7 +174,7 @@
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/t880_1_a15e7b81-751e-464f-871b-7a1ef84629ea.webp?v=1758174141
     Price: $1,999.99 USD
 - [Grille Bumper Guard Herd 300 2005-2016 Peterbilt 386](https://tacoma-truckparts.com/products/peterbilt-386-579-truck-grille-deer-moose-brush-bumper-guard-herd-300): Herd 300 Stainless Steel Grille Bumper Guard for 2005-2016 Peterbilt 386 . Same day shipping to US and Canada.
-  Updated: 2025-12-08T06:55:27Z
+  Updated: 2025-12-13T10:59:20Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -195,7 +195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/t880_1_a15e7b81-751e-464f-871b-7a1ef84629ea.webp?v=1758174141
     Price: $1,999.99 USD
 - [Grille Guard Herd Series 300 2018+ Freightliner Cascadia 126 116](https://tacoma-truckparts.com/products/freightliner-cascadia-2018-grille-deer-moose-brush-bumper-guard-herd-300): Grille Deer Moose Brush Bumper Guard Herd 300 for Freightliner Cascadia 2018+ Truck EXTRA PROTECTION. The truck bumper guard enhances the safety of your front end, helping to protect your investment from costly damage STYLISH DESIGN. NO-DRILL INSTALL.
-  Updated: 2025-12-08T07:26:27Z
+  Updated: 2025-12-13T10:59:20Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -216,7 +216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/9_51ce0923-ff11-44fd-a379-962ba13e895f.webp?v=1758177822
     Price: $1,999.99 USD
 - [17" Bumper Chrome 2001-2007 Freightliner Columbia](https://tacoma-truckparts.com/products/kozak-aftermarket-replacement-17-chrome-bumper-compatible-with-freightliner-columbia-2001-2007-truck-models-plus-freightliner-logo-2x-22-windshield-wipers-and-kozak-reflective-vest): Replaces OE Number: #1699 Compatible With Freightliner Columbia Models 2001-2007 17" Chrome Bumper with foglight holes Comes with Logo and 2x22" Windshield Wipers and KOZAK Vest The item is for commercial or warehouse delivery ONLY. Valid phone number and COMMERCIAL ADDRESS should be provided for delivery.
-  Updated: 2025-10-20T20:20:15Z
+  Updated: 2025-12-13T00:48:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
@@ -272,14 +272,14 @@
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/116_f0dc1d1e-e5cd-4a2c-ac89-5ba71bd0c94c.webp?v=1717989264
   Price: $99.99 USD
 - [Headlight LED Driver 2013-2021 Peterbilt 579 587](https://tacoma-truckparts.com/products/headlight-led-left-driver-side-peterbilt-579-587): Full LED 12-24 volt Headlights Assembly Black Housing Left Driver compatible with Peterbilt 579 587 Amber LED Front Sequential Indicator Low Beam:2400 Raw Lumens, 42W LED High Beam: 1600 Raw Lumens, 6 LED x 5W LEDs Plug And Play Installation Comes with Logo, Windshield Wipers, Frame License Plate and KOZAK Vest
-  Updated: 2025-10-20T20:20:17Z
+  Updated: 2025-12-12T23:18:56Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/293.webp?v=1718075474
   Price: $424.99 USD
 - [Headlight LED Passenger 2013-2021 Peterbilt 579 587](https://tacoma-truckparts.com/products/headlight-led-right-passenger-side-peterbilt-579-587): Full LED 12-24 volt Headlights Assembly Black Housing Right Passenger Side Compatible with Peterbilt 579 587 Amber LED Front Sequential Indicator Low Beam:2400 Raw Lumens, 42W LED High Beam: 1600 Raw Lumens, 6 LED x 5W LEDs Plug And Play Installation Comes with Logo, Windshield Wipers, Frame License Plate and KOZAK Vest
-  Updated: 2025-10-23T15:03:08Z
+  Updated: 2025-12-12T23:18:56Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -342,21 +342,21 @@
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/121_cf67307b-5f92-4695-b472-b78a7f724786.webp?v=1718062269
   Price: $199.99 USD
 - [Headlights Full LED Chrome Set 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/full-led-performance-headlight-pair-with-sequential-turn-signals-for-volvo-vnl-2004-2017): True Full LED Headlight Assembly with Chrome Housing Fits Volvo VNL Truck 300 430 630 670 730 780 2004-2017, Volvo VNX 300 430 630 2015-2017 Sequential Chasing Amber LED Turn Signals, High and Low BEAM for improved road safety Direct Aftermarket Replacement, Includes Both Left Driver and Right Passenger Side Comes with Volvo Logo Emblem, 2x 22" Windshield Wipers, Frame License Plate, Vest
-  Updated: 2025-10-20T20:20:18Z
+  Updated: 2025-12-12T23:18:56Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/6c_27816e24-19a9-4de6-9514-ff89cbb9d7bc.webp?v=1754899177
   Price: $704.99 USD
 - [Headlights Full LED Black Set 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/full-led-performance-headlight-pair-with-sequential-turn-signals-black-housing-compatible-with-volvo-vnl-2004-2017-plus-logo-chrome-fender-guard-trim-set-2x-wipers-frame-license-plate-vest): Replaces OE Number: ‎20737496, 20737497   Full LED Performance Headlight Pair with Sequential Turn Signals Black Housing Left Driver and Right Passenger Side Volvo VNL Truck 300 430 630 670 730 780 2004-2017, Volvo VNX 300 430 630 2015-2017 LED [High & Low Beam] Comes with Volvo Logo Emblem, 2x 22" Wipers, Frame License Plate and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:18Z
+  Updated: 2025-12-12T23:18:56Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/5c_b510765f-c58b-41c8-83d3-4f793c2e7c61.webp?v=1754899094
   Price: $699.99 USD
 - [Headlights LED Set Freightliner Cascadia 116 126 2018+](https://tacoma-truckparts.com/products/headlight-led-set-freightliner-cascadia-116-126-2018): Replaces OE Number: A6601512003, A6601512002. LED Projection Headlight Pair Set Chrome Housing Halo Ring LED Day Time Running Light. LED Turn Signals Comes with Freightliner Logo Emblem, 2x 22" Windshield Wipers and KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:18Z
+  Updated: 2025-12-12T23:18:56Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -504,7 +504,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/71Jwh-CcdvL._AC_SL1500.jpg?v=1704789724
   Price: $949.99 USD
 - [Front Grille Guard Round 2012-2021 Kenworth T680](https://tacoma-truckparts.com/products/kozak-front-bumper-grill-deer-brush-moose-guard-round-for-kenworth): COMPATIBLE with Kenworth T660, Kenworth T680 2012-2021 High Quality Stainless Steel Semi Truck Bumper Guard. Great Source Of Kenworth Accessories GET Your Kenworth Grill Brush Guard And Enjoy Style And Protection FITS PERFECTLY Kenworth PREMIUM Kenworth Truck Parts And Deer Guard, Kenworth Accessories This listing is for 1x grille guard with your choice of lights, Kenworth Logo, Mounting Brackets, 1x License Plate holder, 1x License plate frame, 2x 22" Windshield wipers and Reflective Vest
-  Updated: 2025-10-20T20:20:21Z
+  Updated: 2025-12-13T10:59:26Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -526,7 +526,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/318_f76c704d-e9bd-4063-98ed-1e198143d35f.webp?v=1718088913
     Price: $999.99 USD
 - [Peterbilt 386 Front Coated Stainless Steel Grille Bumper Guard](https://tacoma-truckparts.com/products/kozak-peterbilt-386-front-coated-stainless-steel-grille-bumper-guard): Shop online for the best Peterbilt 386 Front Coated Stainless Steel Grille Bumper Guard only at Tacoma Semi Truck Parts & Accessories.
-  Updated: 2025-11-04T03:08:12Z
+  Updated: 2025-12-13T10:59:27Z
   Vendor: Tacoma Parts Corporation
   Product Type: Grill Guards
   Availability: Available
@@ -548,70 +548,70 @@ Easy to install. Comes with 2x 22" Wipers and Vest
     Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/318_3083d20f-817b-4f1a-b5dc-a137e8bd6570.webp?v=1718091219
     Price: $999.99 USD
 - [LED Headlight Set 2008-2017 Freightliner Cascadia 125 113](https://tacoma-truckparts.com/products/led-headlight-set-freightliner-cascadia-125-113-2008-2017): Replaces OE Number: A0651907003, A0651907002. Full LED Performance Headlight Assembly. Fits Freightliner Cascadia 125 113 2008-2017. Sequential Chasing Amber LED Turn Signals. High and Low BEAM for improved road safety. Includes Left Driver and Right Passenger Side Headlights.
-  Updated: 2025-10-20T20:20:21Z
+  Updated: 2025-12-12T23:18:57Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/94copy.webp?v=1706774057
   Price: $499.99 USD
 - [Headlights with LED Bar Chrome 2013-2019 Kenworth T680](https://tacoma-truckparts.com/products/kozak-replacement-chrome-housing-headlight-assembly-with-led-bar-left-driver-right-passenger-for-kenworth-t680-plus-2x-h7-2x-h1-led-bulbs-logo-wipers-license-plate-holder-and-vest): Chrome Housing Headlight Assembly with LED Bar Fits Kenworth T680 2013-2019 Unique Projector Lens Design - Improved Beam Focus and Light Dispersal with Reduced Scatter Loss DOT/SAE Approved No Modification Needed Comes with 2x H7, 2x H1 LED Bulbs, Logo, Wipers, License Plate Holder and Vest
-  Updated: 2025-10-20T20:20:21Z
+  Updated: 2025-12-12T23:18:57Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/198_8f3b68b9-6f5e-42e6-a6fa-811f118fc5ab.webp?v=1718001074
   Price: $899.99 USD
 - [Headlights LED Black with Turn Signal Dual Set 2008-2018 Kenworth T660](https://tacoma-truckparts.com/products/kozak-black-housing-led-headlight-assembly-turn-signal-dual-projector-headlight-lamp-set-passenger-right-driver-left-side-for-kenworth-t660-plus-logo-wipers-frame-license-plate-and-vest): Black Housing LED Headlight Assembly + Turn Signal Dual Projector Headlight Lamp Set Fits Kenworth T660 2008-2018 Left Driver & Right Passenger Side Dual Projection High and Low Beams Black Housing Comes with Kenworth Logo, 2x 22" Windshield Wipers, Frame License Plate and KOZAK Reflective Vest
-  Updated: 2025-12-02T01:48:11Z
+  Updated: 2025-12-12T23:18:57Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/196_7e5ce8ca-e034-456a-b0e1-7c3e2943612e.webp?v=1718000832
   Price: $649.99 USD
 - [Headlight Full LED Black Passenger 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/full-led-performance-headlight-passenger-side-sequential-turn-signals-volvo-vnl-2004-2018): True Full LED Headlight with Black Housing Fits Volvo VNL Truck 300 430 630 670 730 780 2004-2017, Volvo VNX 300 430 630 2015-2017 Sequential Chasing Amber LED Turn Signals, High and Low BEAM for improved road safety Direct Aftermarket Replacement. Right Passenger Side.
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-12T23:18:57Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/4c_45805237-7b0e-4a05-b817-0f71fe8094d2.webp?v=1754898987
   Price: $349.99 USD
 - [Headlight Full LED Black Driver 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/full-led-performance-headlight-driver-side-sequential-turn-signals-volvo-vnl-2004-2018): True Full LED Headlight with Black Housing Fits Volvo VNL Truck 300 430 630 670 730 780 2004-2017, Volvo VNX 300 430 630 2015-2017 Sequential Chasing Amber LED Turn Signals, High and Low BEAM for improved road safety Direct Aftermarket Replacement. Includes Left Driver Side.
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-12T23:18:57Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/3c_edf6db1c-2593-4c07-9cb4-a297be60399f.webp?v=1754898979
   Price: $349.99 USD
 - [Headlight Full LED Chrome Driver 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/full-led-performance-headlight-driver-side-sequential-turn-signals-volvo-vnl-2004-2017): High and Low BEAM for improved road safety Direct Aftermarket Replacement. Left Driver Side Comes with Volvo Logo Emblem, 2x 22" Windshield Wipers, Frame License Plate, Vest.
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-12T23:18:57Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/1c_c3198751-118c-4317-ba03-1c15ee28d4d6.webp?v=1754898895
   Price: $354.99 USD
 - [Headlight Full LED Chrome Passenger 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/full-led-performance-headlight-passenger-side-sequential-turn-signals-volvo-vnl-2004-2017): True Full LED Headlight Assembly with Chrome Housing Fits Volvo VNL Truck 300 430 630 670 730 780 2004-2017, Volvo VNX 300 430 630 2015-2017 Sequential Chasing Amber LED Turn Signals, High and Low BEAM for improved road safety Direct Aftermarket Replacement.
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-12T23:18:58Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/2c_7cf89b1c-85cb-4b81-b768-83c7c105fd3d.webp?v=1754898892
   Price: $354.99 USD
 - [Headlights Halogen Set with Chrome Bezel 2004+ Freightliner Columbia](https://tacoma-truckparts.com/products/freightliner-columbia-replacement-halogen-headlight-pair-with-chrome-finish-auxiliary-bezel-pair-plus-freightliner-logo-2x-9005-2x-9006-led-bulbs-2x-22-wipers-and-kozak-vest): Replacement Halogen Headlight Pair with Chrome Finish Auxiliary Bezel Pair Fits Freightliner Columbia 2004+ DOT and SAE stamped and meets all safety requirements Left Driver & Right Passenger Side Comes with Freightliner Logo, 2x 9005, 2x 9006 Bulbs, 2x 22" Wipers and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-12T23:18:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/10copy_90e3886c-2244-460c-b567-5c24f4de3ad3.webp?v=1707897066
   Price: $349.99 USD
 - [Headlights Chrome Set Hino 2006-2010 145 165 185 2006-2010 238 258 268 338](https://tacoma-truckparts.com/products/headlight-set-hino-238-258-268-338-145-165-185): Replaces OE Number: 81110E0530, 81150E0530. Hino Replacement Chrome Housing Headlight Assembly (Left Driver Side and Right Passenger Side) Fits Hino 2006-2010 model 145 165 185, Hino 2006-2010 model 238 258 268 338.
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-12T23:18:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/35_fcb3c880-255e-48f1-a81c-8044d762b24c.webp?v=1711604467
   Price: $349.99 USD
 - [Headlights Halogen Set 2004+ Freightliner Columbia](https://tacoma-truckparts.com/products/freightliner-columbia-replacement-halogen-headlight-pair-set-left-driver-side-and-right-passenger-side-plus-freightliner-logo-2x-9005-2x-9006-led-bulbs-2x-22-wipers-and-kozak-vest): Halogen Headlights Pair Fits Freightliner Columbia 2004+ DOT and SAE stamped and meets all safety requirements Left Driver & Right Passenger Side Comes with Freightliner Logo, 2x 9005, 2x 9006 Bulbs, 2x 22" Wipers and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:23Z
+  Updated: 2025-12-12T23:18:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -625,14 +625,14 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/cfqn10.jpg?v=1703115281
   Price: $239.99 USD
 - [International Prostar Headlights Chrome with LED Glow - Pair](https://tacoma-truckparts.com/products/kozak-international-prostar-headlights-chrome-led-glow-pair): Shop online for the best International Prostar Headlights Chrome with LED Glow - Pair only at Tacoma Semi Truck Parts & Accessories.
-  Updated: 2025-10-20T20:20:23Z
+  Updated: 2025-12-12T23:18:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/146copy.webp?v=1708333785
   Price: $549.99 USD
 - [International Prostar Black Projector Headlights with Glow LED Pair](https://tacoma-truckparts.com/products/kozak-international-prostar-black-projector-headlights-glow-led-pair): Shop online for the best International Prostar Black Projector Headlights with Glow LED Pair only at Tacoma Semi Truck Parts Corporation. We offer fast shipping in the USA & Canada.
-  Updated: 2025-10-20T20:20:23Z
+  Updated: 2025-12-12T23:18:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -709,21 +709,21 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/21copy_144f95fa-96cf-4f95-9631-663ae8051ec9.webp?v=1708489499
   Price: $599.99 USD
 - [Headlights Black with LED Bar Set 2015-2019 Kenworth T680](https://tacoma-truckparts.com/products/black-housing-headlight-set-with-led-bar-kenworth-t680): Replacement Black Housing Headlight Set with LED Bar fits Kenworth T680 2015-2019 Unique Projector Lens Design - Improved Beam Focus and Light Dispersal with Reduced Scatter Loss DOT/SAE Approved Direct OEM Replacement. No Modification Needed Comes with 2x H7, 2x H1 LED Bulbs, 2x 22" Wipers and KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:24Z
+  Updated: 2025-12-12T23:18:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/185_1510e7e2-c2f2-4860-b03a-21356e79ced1.webp?v=1718000087
   Price: $799.99 USD
 - [Headlight LED Black Set 2008-2017 Freightliner Cascadia 125 113](https://tacoma-truckparts.com/products/headlight-led-black-set-freightliner-cascadia-125-113-2008-2017): OEM Part Number Cross Reference: A06-51907-001, A06-51907-003, A06-51907-007,  A06-51907-006, A06-51907-002, A06-51907-000. Fits Freightliner Cascadia 125 113 2008-2017 Left Driver and Right Passenger Side Pair Set LED Headlights in Black Housing.
-  Updated: 2025-11-25T02:23:47Z
+  Updated: 2025-12-12T23:19:00Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/90copy.webp?v=1706773574
   Price: $899.99 USD
 - [Headlight Set 2008-2017 Freightliner Cascadia 113 125](https://tacoma-truckparts.com/products/headlight-set-freightliner-cascadia-113-125-2008-2017): OEM Part Number Cross Reference: A06-51907-001, A06-51907-003, A06-51907-007, A06-51907-006, A06-51907-002, A06-51907-000. Freightliner Cascadia Headlight Assembly Fits Freightliner Cascadia 113/125 Models (2008-2017).
-  Updated: 2025-10-20T20:20:24Z
+  Updated: 2025-12-12T23:19:00Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -835,7 +835,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/4_6be1c81e-1bf5-40b8-bd9e-550c1445b57f.jpg?v=1705308207
   Price: $349.99 USD
 - [Headlights Full LED Black Set 2013-2021 Kenworth T680](https://tacoma-truckparts.com/products/kozak-black-housing-full-led-headlight-assembly-pair-passenger-right-and-driver-left-side-for-kenworth-t680-2013-2021-plus-logo-2x22-windshield-wipers-license-plate-frame-and-vest): Black Housing Full LED Headlight Assembly Pair Fits: Kenworth T680 2013 - 2021 Passenger Right and Driver Left Side  True Full LED High and Low beam lamps for improved road performance Quality Made Product Comes with Kenworht Logo, 2x 22" Wipers, License Plate Frame and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:26Z
+  Updated: 2025-12-12T23:19:00Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -890,7 +890,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/156_7f0934cf-1a96-41ec-9a79-23ba58dd501f.webp?v=1711003018
   Price: $399.99 USD
 - [Headlights Full LED Chrome Set 2013+ Kenworth T680](https://tacoma-truckparts.com/products/performance-chrome-housing-full-led-headlight-assembly-set-kenworth-t680): Fits Kenworth 2013+ True Full LED with High and Low beam lamps for improved road performance. Compatible with P54-6103-11000 Quality Made Product. Comes with Kenworth Logo, 2x 22" Wipers and KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:27Z
+  Updated: 2025-12-12T23:19:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -953,7 +953,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/8_a4b2c5c0-a816-49d5-859c-d47663cbf549.jpg?v=1705278055
   Price: $399.99 USD
 - [Headlights Led Chrome With Turn Signal Set 2008-2018 Kenworth T660](https://tacoma-truckparts.com/products/kozak-chrome-housing-led-headlight-assembly-turn-signal-dual-projector-headlight-lamp-set-passenger-right-driver-left-for-kenworth-t660-plus-logo-wipers-frame-license-plate-and-vest): Chrome Housing LED Headlight Assembly + Turn Signal Dual Projector Headlight Lamp Set Fits Kenworth T660 2008-2018 Left Driver & Right Passenger Side Dual Projection High and Low Beams Chrome Housing Comes with Logo, Wipers, Frame License Plate and KOZAK Reflective Vest
-  Updated: 2025-12-02T01:48:04Z
+  Updated: 2025-12-12T23:19:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1128,7 +1128,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/28copy_522ef6a2-cd1c-4090-aa55-878711f644b5.webp?v=1707380221
   Price: $299.99 USD
 - [Bumper with Fog Light Holes 14" Steel 2008-2017 Freightliner Cascadia 125 113](https://tacoma-truckparts.com/products/steel-bumper-with-fog-light-holes-14-2008-2017-freightliner-cascadia-125-113): USA Brand. Compatible with 2008-2017 Freightliner Cascadia 125 113 Bracket Included 14" Stainless Steel For Freight shipment, Buyer must provide valid phone number and the shipping address must be a commercial address (non-residential). Come with Freightliner Logo, 2x22" Windshield wipers and KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:31Z
+  Updated: 2025-12-13T00:51:28Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
@@ -1254,7 +1254,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/86.webp?v=1707197260
   Price: $499.99 USD
 - [Freightliner Cascadia 125 113 Bumper Set with Fog Light Holes](https://tacoma-truckparts.com/products/freightliner-cascadia-bumper-set-with-fog-light-holes): Shop online for the best Freightliner Cascadia 125 113 Bumper Set with Fog Light Holes only at Tacoma Parts Corporation. We offer fast shipping in the USA & Canada.
-  Updated: 2025-10-20T20:20:34Z
+  Updated: 2025-12-13T01:20:07Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
@@ -1289,21 +1289,21 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/7_a2e80af0-8b1c-48ed-8ab4-31f35dbab4aa.webp?v=1707119054
   Price: $999.99 USD
 - [Headlights Full LED Pair 2004-2017 Volvo VNL VT](https://tacoma-truckparts.com/products/full-led-headlights-pair-volvo-vnl): Brand New Full LED Chrome Headlight Assembly (Left driver ans Right Passenger) KOZAK compatible with Volvo VNL VNL 630 670 730 780 and VT Models Year: 2004-2017 Direct Aftermarket Replacement for OEM number: 82329590 82329124 82329592 82329127 Quality KOZAK compatible with Volvo Truck Full LED Headlights. Meet DOT and SAE Standards.
-  Updated: 2025-12-07T03:27:07Z
+  Updated: 2025-12-12T23:19:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/6_1f118ac8-c5e4-4aa8-a0cc-088e4aa2646d.jpg?v=1705039673
   Price: $899.99 USD
 - [Headlight Full LED Passenger 2004-2017 Volvo VNL VT](https://tacoma-truckparts.com/products/full-led-headlight-passenger-side-for-volvo-vnl-2004-2017): Brand New Full LED Chrome Headlight Right Passenger Side Fits Volvo VNL VNL 630 670 730 780 and VT Models Year: 2004-2017 Direct Aftermarket Replacement for OEM number: 82329592 82329127 Quality Volvo Truck Full LED Headlights. Meet DOT and SAE Standards.
-  Updated: 2025-10-20T20:20:34Z
+  Updated: 2025-12-12T23:19:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/5_c89fbe63-e056-434a-8a89-e35c26e85ce4.jpg?v=1705039720
   Price: $449.99 USD
 - [Headlight Full LED Driver 2004-2017 Volvo VNL VT](https://tacoma-truckparts.com/products/full-led-headlight-driver-side-for-volvo-vnl-2004-2017): Brand New Full LED Black Headlight Left Driver Side Fits Volvo VNL VNL 630 670 730 780 and VT Models Year: 2004-2017 Direct Aftermarket Replacement for OEM number: 82329590 82329124 Quality Volvo Truck Full LED Headlights. Meet DOT and SAE Standards.
-  Updated: 2025-10-20T20:20:34Z
+  Updated: 2025-12-12T23:19:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1492,56 +1492,56 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/98copy_7866671f-ef62-4785-98a3-a53db62ae96e.webp?v=1707806430
   Price: $899.99 USD
 - [Headlights Full LED Black Set 2004-2017 Volvo VNL VT](https://tacoma-truckparts.com/products/full-led-headlight-assembly-black-pair-for-volvo-vnl-2004-2017): Direct Aftermarket Replacement for OEM number: 82329590 82329124 82329592 82329127 Quality KOZAK (Volvo-Compatible) Truck Full LED Headlights. Meet DOT and SAE Standards.
-  Updated: 2025-10-20T20:20:37Z
+  Updated: 2025-12-12T23:19:02Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/1_e8628d68-25fc-4014-ae0c-742a34bf8a70.jpg?v=1705038657
   Price: $899.99 USD
 - [Headlight Full LED Black Passenger 2004-2017 Volvo VNL VT](https://tacoma-truckparts.com/products/full-led-headlight-black-passenger-side-volvo-vnl-2004-2017): Direct Aftermarket Replacement for OEM number: 82329592 82329127 Quality Volvo Truck Full LED Headlights. Meet DOT and SAE Standards PLUS Volvo Logo Emblem, 2x 22" Wipers, Frame License Plate and KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:37Z
+  Updated: 2025-12-12T23:19:02Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/2_e5367c59-42c9-4b3b-b15b-321885364315.jpg?v=1705038673
   Price: $449.99 USD
 - [Headlights Set 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-set-for-volvo-vnl-2004-2017): Direct OEM Replacement No Modification Needed New Aftermarket Part, Includes Both Driver & Passenger Side Comes with Volvo Logo Emblem, 4x H7 LED Bulbs, Chrome Fender Guard Trim Set, 2x 22" Wipers, Frame License Plate, Kozak Vest.
-  Updated: 2025-10-20T20:20:38Z
+  Updated: 2025-12-12T23:19:02Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/21_f222902e-4212-4e5a-9d43-2ae7473f0570.jpg?v=1705045552
   Price: $499.99 USD
 - [Headlight Driver 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-driver-side-volvo-vnl-2004-2017): Direct OEM Replacement. No Modification Needed. New Aftermarket Part, Includes Driver Side Comes with Logo Emblem, 2x 22" Windshield Wipers, Frame License Plate, KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:38Z
+  Updated: 2025-12-12T23:19:02Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/20_587e36b8-5217-4779-a82b-3a30f45a1200.jpg?v=1757389786
   Price: $249.99 USD
 - [Headlight Passenger 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-passenger-side-for-volvo-vnl-2004-2017): Direct OEM Replacement No Modification Needed New Aftermarket Part, Includes Passenger Side Comes with Logo Emblem, 2x 22" Windshield Wipers, Chrome Fender Trim Set (Left Driver Side and Right Passenger Side), Frame License Plate,KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:38Z
+  Updated: 2025-12-12T23:19:02Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/19_a70882a5-f804-4b52-b166-cd03bee2f6b7.jpg?v=1757389643
   Price: $249.99 USD
 - [Headlights with LED bar Black Set 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/black-dual-led-halo-drl-projector-headlights-pair-volvo-vnl-2004-2017): Fits: 2004-2017 Volvo VNL / 2015-2017 Volvo VNX Meets or Exceeds DOT & SAE Standards Direct OEM Replacement No Modification Needed New Aftermarket Part, Includes Both Driver & Passenger Side Comes with 1x H7, 1x H11, 2x H1 LED Bulbs, 1x Volvo Logo Emblem, 2x 22" Wipers, Frame License Plate, KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:38Z
+  Updated: 2025-12-12T23:19:03Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/15_d4229c9a-8e82-40f7-a00b-ad80dc04bdf2.jpg?v=1705042849
   Price: $499.99 USD
 - [Headlight with LED bar Black Driver 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-black-with-led-bar-halos-driver-side-for-volvo-vnl-2004-2017): Brand New Headlights Compatible with Volvo Truck Headlights, for Volvo Truck Parts Meets DOT standards Aftermarket Part. Left Driver Side Comes with 2x H1 High beam LED Bulbs, 1x H7 LED Bulb, 1x H11 LED Bulb, 1x Volvo Logo Emblem, 2x 22 inch Windshield Wipers, Frame License Plate, KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:38Z
+  Updated: 2025-12-12T23:19:03Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/13Ss.webp?v=1757396168
   Price: $249.99 USD
 - [Headlight with LED bar Black Passenger 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-black-with-led-bar-halos-passenger-side-volvo-vnl-2004-2017): Brand New Headlights Compatible with Volvo Truck Headlights Meets DOT standards New Aftermarket Part. Right Passenger Side Comes with 2x H1 High beam LED Bulbs, 1x H7 LED Bulb, 1x H11 LED Bulb, 1x Volvo Logo Emblem, 2x 22 inch Windshield Wipers, Frame License Plate, KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:38Z
+  Updated: 2025-12-12T23:19:03Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1604,21 +1604,21 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/20_970a136d-3981-4b09-9316-861ec4d3d933.jpg?v=1704788599
   Price: $349.99 USD
 - [Headlights with LED bar Chrome Set 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-set-with-led-bar-halos-volvo-vnl-2004-2017): Brand New Headlight Fits Volvo Truck Headlights, Compatible With Volvo Truck Parts Get Your Volvo Headlight, meets DOT standards New Aftermarket Part, Includes Both Left Driver and Right Passenger Side.
-  Updated: 2025-10-20T20:20:39Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/18_dbe820a4-d50e-4d69-aa9b-35198bf72817.jpg?v=1705044297
   Price: $499.99 USD
 - [Headlight with LED bar Chrome Passenger 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-chrome-right-side-with-led-bar-halos-volvo-vnl-2004-2017): Brand New Headlights Compatible With Volvo Truck Headlights, for Volvo Truck Parts Meets DOT standards New Aftermarket Part. Right Passenger Side Comes with 2x H1 High beam LED Bulbs, 1x H7 LED Bulb, 1x H11 LED Bulb, 1x Volvo Emblem, 2x 22 inch Windshield Wipers, Frame License Plate, KOZAK Reflective Vest.
-  Updated: 2025-10-20T20:20:39Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/11Ss.webp?v=1757392966
   Price: $249.99 USD
 - [Headlight with LED bar Chrome Driver 2004-2017 Volvo VNL VNX VT](https://tacoma-truckparts.com/products/headlight-chrome-left-side-with-led-bar-halos-volvo-vnl-2004-2017): Brand New Headlight Fits Volvo Truck Headlights, for Volvo Truck Parts Meets DOT standards New Aftermarket Part - Left Driver Side.
-  Updated: 2025-10-20T20:20:39Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1751,28 +1751,28 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/1_ce80613b-a104-4981-a294-ae194f297c0a.jpg?v=1704846411
   Price: $199.99 USD
 - [Headlights LED Set 2013-2021 Peterbilt 579 587](https://tacoma-truckparts.com/products/headlight-led-pair-set-2014-2016-peterbilt-579): PETERBILT 579 587 Blackout LED Lights. DOT/SAE Approved. High Quality Made Product. USA Brand. Same day shipping to US and Canada.
-  Updated: 2025-10-20T20:20:42Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/295.webp?v=1718075490
   Price: $899.99 USD
 - [Headlight Halogen Passenger 2004+ Freightliner Columbia](https://tacoma-truckparts.com/products/aftermarket-replacement-halogen-headlights-passenger-side-only-right-side-for-freightliner-columbia-2004-semi-trucks-plus-freightliner-logo-emblem-2x22-wipers-kozak-reflective-vest): Halogen Headlight Fits Freightliner Columbia 2004+ DOT and SAE stamped and meets all safety requirements Right Passenger Side Comes with Freightliner Logo, 2x 9005, 2x 9006 Bulbs, 2x 22" Wipers and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:42Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/7copy_ffd50293-5ad7-4ef1-b647-cd439e662527.webp?v=1757385659
   Price: $149.99 USD
 - [Headlight Halogen Driver 2004+ Freightliner Columbia](https://tacoma-truckparts.com/products/aftermarket-replacement-halogen-headlights-driver-side-only-left-side-for-freightliner-columbia-2004-semi-trucks-plus-freightliner-logo-emblem-2x22-wipers-kozak-reflective-vest): Halogen Headlight Fits Freightliner Columbia 2004+ DOT and SAE stamped and meets all safety requirements Left Driver Side Comes with Freightliner Logo, 2x 9005, 2x 9006 Bulbs, 2x 22" Wipers and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:42Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/8copy_73f0c663-5e52-46d8-ae72-3276a3b5fdf9.webp?v=1757385679
   Price: $149.99 USD
 - [Headlight Full LED Black Driver 2004-2017 Volvo VNL VT](https://tacoma-truckparts.com/products/full-led-headlight-driver-side-black-volvo-vnl-2004-2017): Brand New Full LED Black Headlight Left Driver Side Fits Volvo VNL VNL 630 670 730 780 and VT Models Year: 2004-2017 Direct Aftermarket Replacement for OEM number: 82329592 82329127 Quality Volvo Truck Full LED Headlights.
-  Updated: 2025-11-12T05:13:06Z
+  Updated: 2025-12-12T23:19:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1821,7 +1821,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/39_1c194a23-fd43-4cf4-af3f-3a80265cef3f.jpg?v=1704866742
   Price: $149.99 USD
 - [Headlights LED Bar Turn Signal Black Set 2008-2016 Kenworth T660 T700](https://tacoma-truckparts.com/products/black-projector-replacement-headlights-led-bar-turn-signal-set-for-kenworth-t660-t700-left-and-right-side-high-low-beam-bulb-included-plus-2x22-wipers-kenworth-logo-and-kozak-reflective-vest): Black Projector Replacement Headlights LED Bar Turn Signal Fits: 2008-2016 Kenworth T660 600 T370 T270 T170 T470 T440 T700 Left Driver & Right Passenger Side Meets or Exceeds DOT & SAE Standards No Modification Needed Please verify that your product shape and connector match photo Comes with 2x H7, 2x 9005 LED Bulbs, Logo, Wipers, License Plate Holder and Vest
-  Updated: 2025-12-02T01:47:59Z
+  Updated: 2025-12-12T23:19:05Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1856,7 +1856,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/34_afd1d611-6638-46ea-9a15-cf39bd134c9e.jpg?v=1704862210
   Price: $349.99 USD
 - [Headlights LED Bar Turn Signal Chrome Set 2008-2016 Kenworth T660 T700](https://tacoma-truckparts.com/products/kozak-chrome-projector-replacement-headlights-led-bar-turn-signal-set-right-left-pair-for-kenworth-t660-t700-high-low-beam-bulbs-included-plus-logo-wipers-frame-license-plate-and-vest): Chrome Projector Replacement Headlights LED Bar Turn Signal Fits: 2008-2016 Kenworth T660 T700 T170 T270 T300 T370 Left Driver & Right Passenger Side Meets or Exceeds DOT & SAE Standards No Modification Needed Comes with Logo, Wipers, License Plate Holder and Vest
-  Updated: 2025-12-02T01:47:53Z
+  Updated: 2025-12-12T23:19:05Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1870,16 +1870,16 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:55Z
   Total Products: 6
 - [Freightliner Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/freightliner-semi-truck-parts-accessories): Shop online for the best Freightliner Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T12:21:48Z
+  Updated: 2025-12-13T12:21:51Z
   Total Products: 572
 - [Bumper Semi Truck Grille Guards](https://tacoma-truckparts.com/collections/semi-truck-grille-guards): Shop online for the best Semi Truck Grille Guards only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-08T09:03:40Z
-  Total Products: 490
+  Updated: 2025-12-13T12:21:51Z
+  Total Products: 491
 - [Semi Truck Bumpers & Accessories](https://tacoma-truckparts.com/collections/semi-truck-bumpers-accessories): Shop online for the best Semi Truck Bumpers & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T12:21:48Z
+  Updated: 2025-12-12T12:20:50Z
   Total Products: 441
 - [Semi Truck Headlights](https://tacoma-truckparts.com/collections/semi-truck-headlights): Shop online for the best Semi Truck Headlights only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T22:19:18Z
+  Updated: 2025-12-12T12:20:50Z
   Total Products: 202
 - [Semi Truck Grilles](https://tacoma-truckparts.com/collections/semi-truck-grilles): Shop online for the best Semi Truck Grilles only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-12-06T12:22:36Z
@@ -1888,22 +1888,22 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-12-03T12:24:01Z
   Total Products: 35
 - [Kenworth Truck Parts & Accessories](https://tacoma-truckparts.com/collections/kenworth-truck-parts-accessories): Shop online for the best Kenworth Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T23:44:48Z
+  Updated: 2025-12-12T12:20:50Z
   Total Products: 609
 - [Kenworth W900 Parts & Accessories](https://tacoma-truckparts.com/collections/kenworth-w900-truck-parts-accessories): Shop online for the best Kenworth W900 Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-10-20T20:17:00Z
   Total Products: 16
 - [Peterbilt Truck Parts](https://tacoma-truckparts.com/collections/peterbilt-truck-parts): Shop online for the best Peterbilt Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T22:19:18Z
+  Updated: 2025-12-13T12:21:51Z
   Total Products: 313
 - [International Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/international-semi-truck-parts): Shop online for the best International Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-09T12:20:27Z
-  Total Products: 296
+  Updated: 2025-12-13T12:21:51Z
+  Total Products: 297
 - [Semi Truck Mirrors](https://tacoma-truckparts.com/collections/semi-truck-mirrors): Shop online for the best Semi Truck Mirrors only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-12-09T12:20:27Z
   Total Products: 202
 - [Semi Truck Panels, Fairings & Deflectors](https://tacoma-truckparts.com/collections/semi-truck-panels-fairing-deflectors): Shop online for the best Semi Truck Panels, Fairings & Deflectors only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T12:21:48Z
+  Updated: 2025-12-13T12:21:51Z
   Total Products: 302
 - [Charge Air Coolers for Semi Trucks](https://tacoma-truckparts.com/collections/semi-trucks-charge-air-coolers): Shop online for the best Charge Air Coolers for Semi Trucks only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-10-20T20:17:09Z
@@ -1927,7 +1927,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:56Z
   Total Products: 2
 - [Semi Truck Hoods](https://tacoma-truckparts.com/collections/semi-truck-hoods): Shop online for the best Semi Truck Hoods at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-27T12:24:19Z
+  Updated: 2025-12-12T12:20:50Z
   Total Products: 38
 - [Hino Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/hino-semi-truck-parts-accessories): Shop online for the best Hino Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-11-04T12:19:09Z
@@ -1960,8 +1960,8 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-12-01T03:19:24Z
   Total Products: 52
 - [Kozak Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/kozak-semi-truck-parts): Shop online for the best Kozak Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-12-11T22:19:18Z
-  Total Products: 2547
+  Updated: 2025-12-13T12:21:51Z
+  Total Products: 2548
 - [Autoterm Diesel Air Heaters](https://tacoma-truckparts.com/collections/autoterm-diesel-air-heaters): Shop online for the best Autoterm Diesel Air Heaters only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-11-26T04:31:40Z
   Total Products: 4
@@ -2089,22 +2089,22 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:04Z
   Total Products: 5
 - [Kenworth T680 Cabin Fairings & Brackets](https://tacoma-truckparts.com/collections/kenworth-t680-cabin-fairings-brackets): Shop online for the best Cabin Fairings & Cabin Fairing Brackets for Kenworth T680 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-20T20:17:09Z
+  Updated: 2025-12-12T00:00:54Z
   Total Products: 17
-- [Kenworth T680 Fairing Panels](https://tacoma-truckparts.com/collections/kenworth-t680-fairing-panels): Shop online for the best Kenworth T680 Fairing Panels at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-11-28T00:31:12Z
+- [Fairing Panels for Kenworth T680](https://tacoma-truckparts.com/collections/fairing-panels-for-kenworth-t680): Shop online for the best Kenworth T680 Fairing Panels at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
+  Updated: 2025-12-12T12:20:50Z
   Total Products: 69
 - [Kenworth T680 Fairing Extensions](https://tacoma-truckparts.com/collections/kenworth-t680-fairing-extensions): Shop online for the best Fairing Extensions for Kenworth T680 Semi Trucks at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-10-20T20:17:08Z
+  Updated: 2025-12-12T00:10:20Z
   Total Products: 2
-- [Kenworth T680 Semi Truck Steps](https://tacoma-truckparts.com/collections/kenworth-t680-truck-steps): Shop online for the best Kenworth T680 Semi Truck Steps at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-11-07T12:18:54Z
+- [Kenworth T680 Semi Truck Steps](https://tacoma-truckparts.com/collections/steps-for-kenworth-t680): Shop online for the best Kenworth T680 Semi Truck Steps at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
+  Updated: 2025-12-12T00:12:02Z
   Total Products: 9
 - [Kenworth T680 Semi Truck Radiators](https://tacoma-truckparts.com/collections/kenworth-t680-truck-radiators): Shop online for the best high-quality radiators for Kenworth T680 Semi Trucks at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:16:56Z
   Total Products: 2
 - [Kenworth T680 Hoods](https://tacoma-truckparts.com/collections/kenworth-t680-hoods): Shop online for the best & highest quality Hoods for Kenworth T680 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-11-27T12:24:19Z
+  Updated: 2025-12-12T12:20:50Z
   Total Products: 11
 - [Kenworth T680 Hood Fenders](https://tacoma-truckparts.com/collections/kenworth-t680-hood-fenders): Shop online for the best Kenworth T680 Hood Fenders at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-11-10T00:11:51Z
@@ -2314,7 +2314,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:08Z
   Total Products: 5
 - [Freightliner Cascadia Deer Guard and Grill Guard for Semi Trucks](https://tacoma-truckparts.com/collections/freightliner-cascadia-grille-guards): Shop online for the best Freightliner Cascadia Grille Guards at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-12-08T07:26:24Z
+  Updated: 2025-12-13T12:21:51Z
   Total Products: 53
 - [Freightliner Cascadia Grille Guard Brackets](https://tacoma-truckparts.com/collections/freightliner-cascadia-grille-guard-brackets): Shop online for the best Freightliner Cascadia Grille Guard Brackets only at Tacoma Semi Truck parts & accessories. We offer fast shipping across Canada & the United States.
   Updated: 2025-11-21T12:19:04Z
@@ -2515,7 +2515,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-22T11:18:28Z
   Total Products: 14
 - [Peterbilt 579 Grille Guards](https://tacoma-truckparts.com/collections/peterbilt-579-grille-guards): Shop online for the best Peterbilt 579 Grille Guards at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-12-10T22:15:13Z
+  Updated: 2025-12-13T12:21:51Z
   Total Products: 20
 - [Peterbilt 579 Grille Guard Brackets](https://tacoma-truckparts.com/collections/peterbilt-579-grille-guard-brackets): Shop online for the best Peterbilt 579 Grille Guard Brackets at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:16:57Z
