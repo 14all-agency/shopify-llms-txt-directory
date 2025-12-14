@@ -10,7 +10,7 @@ Jigsaw puzzles and more  fascinating journals coming soon because extraordinary 
 - Timezone: Australia/Adelaide
 - Created At: 2025-07-30T03:40:26Z
 - Contact Email: imagineyourjournals@gmail.com
-- Updated At: 2025-12-10T00:00:41.342Z
+- Updated At: 2025-12-14T00:00:45.108Z
 
 Imaginarium blends imagination with the page, creating journals that celebrate what makes life worth pondering. 
 
@@ -147,7 +147,7 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/6932519094514500202_2048.jpg?v=1759366642
   Price: $27.99 AUD
 - [The Emperor Tarot Journal - Leadership Ancient Wisdom Spiritual Gift](https://imaginarium.com.im/products/tarot-04-the-emperor-1): Mystical Tarot IV The Emperor card journal with burnished gold artwork. Perfect for leadership development, strategic planning, and authority building.
-  Updated: 2025-11-24T21:33:45Z
+  Updated: 2025-12-12T21:34:02Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -210,7 +210,7 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/14647049648540219422_2048.jpg?v=1759370345
   Price: $27.99 AUD
 - [the Justice xi HC_Journal-tarot](https://imaginarium.com.im/products/tarot-the-justice_11__hardcover-journal): Journal Height, cm 20.50 Width, cm 14.50 Depth, cm 1.40 Balance, Truth, and Accountability (With Style) Justice doesn't mess around—and neither should your journal. This is for those who believe in fairness, karmic balance, and the delicious satisfaction of consequences catching up. Whether you're weighing decisions, documenting truths, or simply keeping the universe honest, this journal has your back. Why Justice Prevails in This Journal Premium hardcover binding - As solid as your moral compass Lined pages - For recording truths, decisions, and the occasional "I told you so" Striking Justice card artwork - Because accountability should look this elegant Perfectly balanced size - Fits in your bag for on-the-go truth-telling Warning: Side Effects May Include: Heightened sense of fairness in all situations Compulsive need to weigh pros and cons before deciding anything Sudden clarity about what you truly deserve An irresistible urge to call out injustice (politely, of course) Friends seeking your counsel for major life decisions Karmic awareness reaching unprecedented levels Ideal for tarot enthusiasts, truth-seekers, and anyone who knows that what goes around absolutely comes around. Available in 5.75"x8", with 150 lined pages,these elegant, stylish and popular journals are waiting for your inspired thoughts and ideas to manifest on its fresh pages with a swipe of your creative penmanship. The matte laminate coating on the cover will last long after the pages are full and stay true to your personal style. Buy the whole series of Major ArcanaTarot Journals as a gift to your loved ones or keep it as a collectable addition to your home library for years to come.These beautiful journalsare great to display on your mantle, kitchen bench or coffee table top. Hard cover journals for a stylish and luxurious addition imbuing all the wit and wisdom of classic , timeless Tarot right in your hands and heart! .: Full wraparound print .: 150 lined pages (75 sheets) .: Matte finish .: Case-wrap binding SEO Title: Justice Tarot Journal - Hardcover Balance & Truth Notebook | Journal Your Imaginings SEO Description: Justice XI Tarot hardcover journal for balance, truth, and accountability. Premium quality with elegant artwork. Perfect for tarot lovers and truth-seekers. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Brand- Journal Your Imaginings:, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.
-  Updated: 2025-11-07T05:13:35Z
+  Updated: 2025-12-10T21:35:55Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -737,7 +737,7 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/the_Cancer_Poker_Card_Zodiac_Deck.jpg?v=1763620217
   Price: $22.99 AUD
 - [the Leo Poker Cards - Zodiac Playing Cards Leo Golden Symbol on Black Background and Spiral Star System](https://imaginarium.com.im/products/the-leo-poker-cards-zodiac-playing-cards-leo-golden-symbol-on-black-background-and-spiral-star-system): Title: Leo Poker Cards - Zodiac Playing Cards Golden Lion Symbol on Black Backgroundand Spiral Star System Description: Command the table with this Leo-themed deck of playing cards, where the golden lion symbol roars against deep black, surrounded by a spiral star system. For those born between July 23 and August 22, or anyone who channels the confident, charismatic energy of the fire sign, this deck brings regal presence to every game. The Leo lion gleams in burnished gold against the darkness, encircled by a mesmerizing spiral of stars—a visual reminder that the best card players, like all Leos, know how to own the spotlight, inspire loyalty, and turn every hand into a performance. Whether you're playing poker, blackjack, or inventing entirely new games where you make the rules, this deck adds celestial drama to every shuffle. Standard 52-card deck plus jokers, because royalty always keeps a wild card in reserve. Perfect for game nights where you're the star, astrology enthusiasts, or anyone who believes that winning is just another form of self-expression. Warning: Prolonged use may result in theatrical card reveals, tendency to narrate your own winning hands, and the sudden conviction that you deserve a throne instead of a chair at the card table. Side Effects May Include: Compulsive need to be dealer, inability to play without an audience, tendency to shuffle with unnecessary flourish, and the firm belief that the deck recognizes true royalty and responds accordingly. Features: Standard 52-card deck plus jokers Golden Leo lion symbol on black background Spiral star system design Premium quality cards for smooth shuffling Perfect gift for Leo or astrology lovers A collaboration between Imaginarium and AI artistry For those who understand that every game deserves a leading role. These cards give off a mysterious and elegant vibe, perfect for astrology loversand card game enthusiasts. Ideal for gifting during birthdays, holidays,Christmas and game nights.Product features- UV protective laminate for durability- Premium 300gsm paper for a high-quality feel- Classic poker card set with 52 cards and 2 jokers- Customizable back design for personalization- Ideal for adults and meets toy safety standardsCare instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the card outwards. SEO Title:Leo Zodiac Playing Cards - Golden Lion Symbol Spiral Star Poker Deck SEO Description: Premium Leo zodiac playing cards featuring golden lion symbol and spiral star system on black. Standard 52-card poker deck perfect for astrology enthusiasts and game nights. Regal celestial design gift. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Brand: journalyourimaginings, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, product sourced from EU
-  Updated: 2025-11-28T03:31:40Z
+  Updated: 2025-12-11T22:08:14Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -937,8 +937,8 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Updated: 2025-12-09T05:00:22Z
   Total Products: 19
 - [Premium Journals - Literary, Tarot, Zodiac & More - Journal Your Imaginings](https://imaginarium.com.im/collections/journals): Discover luxury journals featuring Shakespeare, tarot, zodiac, and historical themes. Premium quality for writers, dreamers, and creative souls.
-  Updated: 2025-12-09T05:00:22Z
-  Total Products: 87
+  Updated: 2025-12-12T12:23:24Z
+  Total Products: 89
 
 ## Blogs
 
@@ -947,6 +947,10 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
     Updated: 2025-11-25T07:43:32Z
     Author: Imaginarium
     Tags: ancestral tarot, everyday reflections, journal, spiritual practice, tarot, tarot readings daily, weaving family traditions, wisdom
+  - [Guided by the Stars: Crafting Inner Peace and Personal Legends with the Sagittarius HC Journal](https://imaginarium.com.im/blogs/news/guided-by-the-stars-crafting-inner-peace-and-personal-legends-with-the-sagittarius-hc-journal): Guided by the Stars: Crafting Inner Peace and Personal Legends with the Sagittarius HC Journal
+    Updated: 2025-12-10T08:43:20Z
+    Author: Imaginarium
+    Tags: astrology, astrology journal prompts, crafting a personal legend, inner peace, journal, personal growth, sagittarius, self-discovery
 
 ## Store Pages
 
