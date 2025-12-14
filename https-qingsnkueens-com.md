@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-12-09T00:00:40.063Z
+- Updated At: 2025-12-14T00:00:45.890Z
 
 ## Products
 
@@ -5317,7 +5317,213 @@
   - [5.40](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233906855)
     Availability: Available
     Price: $5.40 USD
-[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjQwNjc3OTA0NTUxLCJsYXN0X3ZhbHVlIjoiODY0MDY3NzkwNDU1MSJ9)
+- [Premium Moon Boots – Insulated Winter Snow Boots for Men & Women](https://qingsnkueens.com/products/moon-boots): Shop premium Moon Boots – warm, insulated, waterproof winter snow boots with plush lining, anti-slip sole, and stylish cold-weather footwear.
+  Updated: 2025-12-13T08:29:03Z
+  Vendor: Qings & Kueens
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+  - [Camel / 33](https://qingsnkueens.com/products/moon-boots?variant=47429409767591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 34](https://qingsnkueens.com/products/moon-boots?variant=47432153202855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 35](https://qingsnkueens.com/products/moon-boots?variant=47432153235623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 36](https://qingsnkueens.com/products/moon-boots?variant=47432153268391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 37](https://qingsnkueens.com/products/moon-boots?variant=47432153301159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 38](https://qingsnkueens.com/products/moon-boots?variant=47432153333927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 39](https://qingsnkueens.com/products/moon-boots?variant=47432153366695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Camel / 40](https://qingsnkueens.com/products/moon-boots?variant=47432153399463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-M047_e83d874ebfdd8c90a94a54344560c87cedb87f95.jpg?v=1765572527
+    Price: $175.00 USD
+  - [Pink / 33](https://qingsnkueens.com/products/moon-boots?variant=47432153432231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 34](https://qingsnkueens.com/products/moon-boots?variant=47432153464999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 35](https://qingsnkueens.com/products/moon-boots?variant=47432153497767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 36](https://qingsnkueens.com/products/moon-boots?variant=47432153530535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 37](https://qingsnkueens.com/products/moon-boots?variant=47432153563303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 38](https://qingsnkueens.com/products/moon-boots?variant=47432153596071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 39](https://qingsnkueens.com/products/moon-boots?variant=47432153628839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Pink / 40](https://qingsnkueens.com/products/moon-boots?variant=47432153661607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409700-J001_80a72a5df74ab4040eab77bc51db61d5125a855c_0b72b538-f67a-4887-950e-80a5a69b4086.jpg?v=1765572837
+    Price: $175.00 USD
+  - [Light Yellow / 33](https://qingsnkueens.com/products/moon-boots?variant=47432153694375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 34](https://qingsnkueens.com/products/moon-boots?variant=47432153727143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 35](https://qingsnkueens.com/products/moon-boots?variant=47432153759911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 36](https://qingsnkueens.com/products/moon-boots?variant=47432153792679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 37](https://qingsnkueens.com/products/moon-boots?variant=47432153825447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 38](https://qingsnkueens.com/products/moon-boots?variant=47432153858215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 39](https://qingsnkueens.com/products/moon-boots?variant=47432153890983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Light Yellow / 40](https://qingsnkueens.com/products/moon-boots?variant=47432153923751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-B021_a924f6befb9bc40425417148c440db43b03fc34e.jpg?v=1765572884
+    Price: $175.00 USD
+  - [Burgundy / 33](https://qingsnkueens.com/products/moon-boots?variant=47432153956519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 34](https://qingsnkueens.com/products/moon-boots?variant=47432153989287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 35](https://qingsnkueens.com/products/moon-boots?variant=47432154022055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 36](https://qingsnkueens.com/products/moon-boots?variant=47432154054823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 37](https://qingsnkueens.com/products/moon-boots?variant=47432154087591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 38](https://qingsnkueens.com/products/moon-boots?variant=47432154120359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 39](https://qingsnkueens.com/products/moon-boots?variant=47432154153127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Burgundy / 40](https://qingsnkueens.com/products/moon-boots?variant=47432154185895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409670-D013_e7e33cbc715f323069e1a125c5b5507b3008db2a.jpg?v=1765573007
+    Price: $189.00 USD
+  - [Black / 33](https://qingsnkueens.com/products/moon-boots?variant=47432154218663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 34](https://qingsnkueens.com/products/moon-boots?variant=47432154251431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 35](https://qingsnkueens.com/products/moon-boots?variant=47432154284199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 36](https://qingsnkueens.com/products/moon-boots?variant=47432154316967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 37](https://qingsnkueens.com/products/moon-boots?variant=47432154349735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 38](https://qingsnkueens.com/products/moon-boots?variant=47432154382503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 39](https://qingsnkueens.com/products/moon-boots?variant=47432154415271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [Black / 40](https://qingsnkueens.com/products/moon-boots?variant=47432154448039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-N001_7360730ebec76750b04cca0448adedf19c491b16.jpg?v=1765573100
+    Price: $207.00 USD
+  - [White / 33](https://qingsnkueens.com/products/moon-boots?variant=47432154480807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 34](https://qingsnkueens.com/products/moon-boots?variant=47432154513575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 35](https://qingsnkueens.com/products/moon-boots?variant=47432154546343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 36](https://qingsnkueens.com/products/moon-boots?variant=47432154579111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 37](https://qingsnkueens.com/products/moon-boots?variant=47432154611879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 38](https://qingsnkueens.com/products/moon-boots?variant=47432154644647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 39](https://qingsnkueens.com/products/moon-boots?variant=47432154677415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [White / 40](https://qingsnkueens.com/products/moon-boots?variant=47432154710183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D2450130-A001_15f3d5fcc08003271f666c661ee466f3b0f56b56.jpg?v=1765573180
+    Price: $199.00 USD
+  - [Gray / 33](https://qingsnkueens.com/products/moon-boots?variant=47432154742951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409350-H001_44f5aa6845182e608d5a1194e69d641ef4e4d5e4.jpg?v=1765573300
+    Price: $212.00 USD
+  - [Gray / 34](https://qingsnkueens.com/products/moon-boots?variant=47432154775719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/80D1409350-H001_44f5aa6845182e608d5a1194e69d641ef4e4d5e4.jpg?v=1765573300
+    Price: $212.00 USD
+[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjYyMzQ4OTU1ODE1LCJsYXN0X3ZhbHVlIjoiODY2MjM0ODk1NTgxNSJ9)
 
 ## Collections
 
@@ -5340,8 +5546,8 @@
   Updated: 2025-12-06T09:20:07Z
   Total Products: 0
 - [Hoodies](https://qingsnkueens.com/collections/hoodies)
-  Updated: 2025-12-06T16:58:22Z
-  Total Products: 13
+  Updated: 2025-12-13T19:48:53Z
+  Total Products: 14
 - [Jump suits](https://qingsnkueens.com/collections/jump-suits)
   Updated: 2025-12-06T11:09:12Z
   Total Products: 2
@@ -5364,8 +5570,8 @@
   Updated: 2025-12-06T11:49:09Z
   Total Products: 2
 - [men hoodies](https://qingsnkueens.com/collections/men-hoodies)
-  Updated: 2025-12-06T11:31:26Z
-  Total Products: 5
+  Updated: 2025-12-13T19:48:53Z
+  Total Products: 6
 - [men shorts](https://qingsnkueens.com/collections/men-shorts)
   Updated: 2025-12-06T11:48:06Z
   Total Products: 2
@@ -5472,8 +5678,8 @@
   Updated: 2025-12-06T09:20:10Z
   Total Products: 1
 - [Boots](https://qingsnkueens.com/collections/boots)
-  Updated: 2025-12-06T09:20:10Z
-  Total Products: 1
+  Updated: 2025-12-12T22:08:00Z
+  Total Products: 2
 - [All Dresses](https://qingsnkueens.com/collections/all-dresses)
   Updated: 2025-12-06T11:42:21Z
   Total Products: 19
@@ -5669,6 +5875,8 @@
   Updated: 2025-11-05T20:11:12Z
 - [Twill Coat with Stand-Up Collar](https://qingsnkueens.com/pages/twill-coat-with-stand-up-collar)
   Updated: 2025-11-08T19:30:02Z
+- [Moon Boots Size Chart](https://qingsnkueens.com/pages/moon-boots-size-chart)
+  Updated: 2025-12-12T22:15:37Z
 
 ## Policies
 
