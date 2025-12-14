@@ -6,14 +6,14 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-12-12T00:00:36.565Z
+- Updated At: 2025-12-14T00:00:39.508Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
 ## Products
 
 - [Bindegürtel aus Leder](https://lastradafashion.de/products/bindegurtel-aus-leder): Dieser Leder Gürtel zum Binden ist ein zeitloses Accessoire, das jedes Outfit aufwertet. Mit einer Breite von 9 cm an der breitesten Stelle sorgt er für eine feminine Silhouette und betont die Taille gekonnt. Durch das schmale Ende des Gürtels kann er einfach durch die Schlaufen von Kleidern oder Jumpsuits gezogen und individuell gebunden werden. Das weiche Leder fühlt sich angenehm auf der Haut an und macht den Gürtel zu einem bequemen Begleiter im Alltag. Ob zu einem schlichten Sommerkleid oder einem lässigen Overall, dieser Gürtel ist vielseitig einsetzbar und verleiht jedem Look das gewisse Etwas. Holen Sie sich diesen zeitlosen Klassiker und setzen Sie modische Akzente! MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten MATERIAL UND VERARBEITUNG - Materialmix: Leder - Materialqualität: mittelschweres Material, festes, nicht dehnbares Material PFLEGEHINWEIS - Nicht waschen, Mit einem feuchten Tuch abwischen, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf)
-  Updated: 2025-12-08T17:55:56Z
+  Updated: 2025-12-13T15:13:12Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -27,11 +27,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311164.jpg?v=1727093923
     Price: 25,00 € EUR
   - [BEIGE / One Size](https://lastradafashion.de/products/bindegurtel-aus-leder?variant=50237647978845)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311165.jpg?v=1727093923
     Price: 25,00 € EUR
   - [BRAUN / One Size](https://lastradafashion.de/products/bindegurtel-aus-leder?variant=53717661942109)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11310900.jpg?v=1727093923
     Price: 25,00 € EUR
   - [KHAKI / One Size](https://lastradafashion.de/products/bindegurtel-aus-leder?variant=50237648011613)
@@ -47,25 +47,25 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311146.jpg?v=1727093923
     Price: 25,00 € EUR
   - [COGNAC / One Size](https://lastradafashion.de/products/bindegurtel-aus-leder?variant=53717662138717)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11310961.jpg?v=1727093923
     Price: 25,00 € EUR
   - [ROT / One Size](https://lastradafashion.de/products/bindegurtel-aus-leder?variant=53717662302557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311145.jpg?v=1727093923
     Price: 25,00 € EUR
 - [Spitzentop in Seidenoptik](https://lastradafashion.de/products/top-mit-spitze): Zart, feminin und luxuriös – dieses Top in edler Seidenoptik bringt romantischen Charme und modische Raffinesse perfekt zusammen. Die feine florale Spitze am tiefen V-Ausschnitt und den Trägern verleiht dem Look eine sinnliche Note, während die fließende Qualität sanft die Figur umspielt. Der raffinierte Schnitt mit zartem Faltenwurf unterhalb der Brust sorgt für eine schmeichelnde Silhouette. Dieses Top ist ein vielseitiger Styling-Partner mit femininer Ausstrahlung. Ein Must-have für jeden Kleiderschrank. Materialzusammensetzung 60 % Viskose 40 % Polyester Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen Passform und Schnitt Lockerer, kastiger Schnitt mit leicht verkürztem Saum und Ballonärmeln Materialqualität Leicht, weich, fließend, leicht transparent Verarbeitung Glänzender Stoff in Seidenoptik, florale Spitzenborte
-  Updated: 2025-12-11T14:56:00Z
+  Updated: 2025-12-13T13:12:18Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MjQ2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_1f484079-570f-49b3-92e8-bb9255c6facb.jpg?v=1761071331
   - [GRAU / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=53018584252765)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyOTk5NzUyLWdyYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_2f0f87d6-7eb9-472f-b19d-2049c039a2f9.jpg?v=1761072065
     Price: 25,00 € EUR
   - [KHAKI / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=48885116698973)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MTc4LWtoYWtpLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_7990cfe0-d0fb-4a57-b622-958b10ab594d.jpg?v=1761071676
     Price: 25,00 € EUR
   - [SCHWARZ / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=48885116731741)
@@ -73,7 +73,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MTkyLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw_daf95538-c17c-4465-92c9-aff845c385ed.jpg?v=1761071676
     Price: 25,00 € EUR
   - [WEIß / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=48885116764509)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NTUwNDIuanBn_04c44520-58b9-44c2-9e71-14f827307aa9.jpg?v=1761071676
     Price: 25,00 € EUR
   - [BEIGE / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=57103288861021)
@@ -81,15 +81,15 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyOTk5Nzc2LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_0cac6389-b9cc-4207-9480-ae0f4041b921.jpg?v=1761071676
     Price: 25,00 € EUR
   - [CREME / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=50167141302621)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQwMTg1Ni5qcGc_754cf98f-c0d1-4dac-becc-1a3134de9e96.jpg?v=1761071676
     Price: 25,00 € EUR
   - [TAUPE / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=51887516352861)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MjUzLXRhdXBlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_997e9e47-486c-476e-9c13-93b676cc840c.jpg?v=1761071676
     Price: 25,00 € EUR
   - [ROSA / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=57103288926557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzUuanBn_224ff94b-5672-4c7a-bf92-390b153ab68f.jpg?v=1761071676
     Price: 25,00 € EUR
   - [VIOLETT / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=50167141400925)
@@ -101,23 +101,23 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyOTk5NzkwLWFsdHJvc2EtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_ae26eadd-0de5-4d6e-bc4f-64a0e100ddf0.jpg?v=1761071332
     Price: 25,00 € EUR
   - [GELB / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=50979392094557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTkyNjUuanBn_5b8f4774-eb97-4508-b267-2b0ad2af6f1c.jpg?v=1761071676
     Price: 25,00 € EUR
   - [CAMEL / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=51887516418397)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5Mjg0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_c6b91b46-1563-4ce9-b6fd-54bdfadf93e9.jpg?v=1761071331
     Price: 25,00 € EUR
   - [HELLGRAU / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=57103288959325)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MjkxLWhlbGxncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_a223c82d-6d5a-4cbc-a5b1-207c6f14ea28.jpg?v=1761071331
     Price: 25,00 € EUR
   - [HELLBLAU / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=48885117026653)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQwMTg1My5qcGc_1da4bfe2-7970-4585-b9db-8f6b99ef0ca1.jpg?v=1761071676
     Price: 25,00 € EUR
   - [BRAUN / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=48885117059421)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MjQ2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_1f484079-570f-49b3-92e8-bb9255c6facb.jpg?v=1761071331
     Price: 25,00 € EUR
   - [JEANSBLAU / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=51887516582237)
@@ -125,63 +125,29 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNS0yMTMzNi00MDY4MzgyMDA5MjM5LWplYW5zYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_ad82eaa2-3dd3-40dd-a7b5-e24121fb4bf3.jpg?v=1761071331
     Price: 25,00 € EUR
   - [MINT / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=50167141433693)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzkuanBn_771a7e6d-ef0a-4d64-870f-2fb1e1177e13.jpg?v=1761071676
     Price: 25,00 € EUR
   - [KIWI / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=50979392192861)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTkyNjEuanBn_9f6bb19b-4a31-4223-9427-f9e97428239e.jpg?v=1761071676
     Price: 25,00 € EUR
   - [HELLROSA / One Size](https://lastradafashion.de/products/top-mit-spitze?variant=57103288992093)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzQuanBn_69246603-f948-45ee-91e5-e55cac4465bb.jpg?v=1761071676
     Price: 25,00 € EUR
-- [Oversize-Pullover](https://lastradafashion.de/products/oversize-pullover): Der Pullover vereint entspannten Chic mit edler Strickqualität – ein Statement für moderne Lässigkeit. Der locker fallende Oversize-Schnitt mit überschnittenen Schultern und Fledermausärmeln sorgt für maximale Bewegungsfreiheit und einen modischen Look. Der asymmetrisch abgerundete Saum verleiht dem Design eine spannende Dynamik und macht den Pullover zum perfekten Stylingpartner für Layering-Looks. Ob zu schmalen Hosen, über einem Kleid oder als cozy Look zu Jeans: Der Pullover passt sich deinem Stil an und bleibt dabei immer stilvoll. Ein absolutes Must-have für kühlere Tage mit modischem Anspruch.
-  Updated: 2025-12-06T15:41:31Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC00MDY4MzgyMTUzMTkyLWFsdHJvc2EtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761578891
-  - [KHAKI / One Size](https://lastradafashion.de/products/oversize-pullover?variant=46559033196893)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC0yMDAwMDU1NDIwMTAzLWtoYWtpLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761578891
-    Price: 29,90 € EUR
-  - [SCHWARZ / One Size](https://lastradafashion.de/products/oversize-pullover?variant=46559033229661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC0yMDAwMDU1MzYwMTAyLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761578891
-    Price: 29,90 € EUR
-  - [CREME / One Size](https://lastradafashion.de/products/oversize-pullover?variant=58899696877917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC0yMDAwMDU1NDEwMTA0LWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761578891
-    Price: 29,90 € EUR
-  - [GRAU / One Size](https://lastradafashion.de/products/oversize-pullover?variant=58899696910685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC0yMDAwMDEwMDgwMTgyLWdyYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761578891
-    Price: 29,90 € EUR
-  - [JEANSBLAU / One Size](https://lastradafashion.de/products/oversize-pullover?variant=58899696943453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC0yMDAwMDU1MzkwMTA5LWplYW5zYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761578891
-    Price: 29,90 € EUR
-  - [TAUPE / One Size](https://lastradafashion.de/products/oversize-pullover?variant=58899696976221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC0yMDAwMDIzNjQwMTgyLXRhdXBlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761578891
-    Price: 29,90 € EUR
-  - [ALTROSA / One Size](https://lastradafashion.de/products/oversize-pullover?variant=58899697008989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC05ODQwMC00MDY4MzgyMTUzMTkyLWFsdHJvc2EtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761578891
-    Price: 29,90 € EUR
 - [Freizeithose in Knitteroptik](https://lastradafashion.de/products/freizeithose-in-knitteroptik): Casual Chic auf den Punkt gebracht – diese Hose überzeugt mit moderner Knitterstruktur und komfortabler Passform. Der weiche, elastische Materialmix verleiht der Hose einen coolen Used-Charakter mit modischem Twist. Der elastische Bund mit Tunnelzug sorgt für einen perfekten Sitz, während die schmal zulaufende Beinform und die gekrempelten Abschlüsse einen urbanen Touch einbringen. Die gewollte Knitteroptik verleiht dem Look bewusst lässige Nonchalance – perfekt für stylische Alltagslooks mit Wohlfühlfaktor. Ein echtes Must-have für unkomplizierte Looks mit Persönlichkeit.
-  Updated: 2025-12-08T16:42:41Z
+  Updated: 2025-12-12T23:19:28Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNjIxNDktYW50aHJheml0LTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_f61cbf02-a204-45b0-ab16-f30490db7b3a.jpg?v=1761417010
   - [One Size / KHAKI](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=51627506631005)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4ODIyNDYuanBn_1b421990-80c9-4ac4-8a3e-3abce90a5b26.jpg?v=1761498293
     Price: 35,00 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=58887719321949)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4ODIyNDUuanBn_6def9773-2dbb-46f0-b22f-4310596a57f5.jpg?v=1761577920
     Price: 35,00 € EUR
   - [One Size / GRAU](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=53033835790685)
@@ -193,7 +159,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwMDQ0NTYtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTQuanBlZw_47249333-82ce-46dc-a096-78f73be73c7c.jpg?v=1761417010
     Price: 35,00 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=51627506696541)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwMDkxMjMtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItNC5qcGVn_9f663a54-ba99-49cc-b3a0-7fddfe46eb20.jpg?v=1761417010
     Price: 35,00 € EUR
   - [One Size / MARINE](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=50197284651357)
@@ -201,7 +167,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwMzU4OTQtbWFyaW5lLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_2d06e664-d20e-445d-ae5a-5e194f89be28.jpg?v=1761417010
     Price: 35,00 € EUR
   - [One Size / TAUPE](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=53033835823453)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwODEwNzUtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTQuanBlZw_c3b4349f-4414-4111-be8c-6d3fc641b920.jpg?v=1761417010
     Price: 35,00 € EUR
   - [One Size / BORDEAUX](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=58887719354717)
@@ -209,11 +175,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNTE5MTQtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTQuanBlZw_17f6f23c-b9e1-438a-9388-b13dc4502f72.jpg?v=1761417010
     Price: 35,00 € EUR
   - [One Size / ANTHRAZIT](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=58887719387485)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNjIxNDktYW50aHJheml0LTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_f61cbf02-a204-45b0-ab16-f30490db7b3a.jpg?v=1761417010
     Price: 35,00 € EUR
 - [Slim-Fit Jeans](https://lastradafashion.de/products/slim-fit-jeans): Die Slim-Fit Jeans begeistert mit ihrem zeitlosen Chic und einer schmeichelnden Passform, die jede Silhouette perfekt in Szene setzt. Die figurbetonte Schnittführung betont Beine und Taille, während das elastische Material ein angenehmes Tragegefühl garantiert. Dezente Details wie aufgesetzte Gesäßtaschen und angedeutete Nähte an den Knien setzen modische Akzente und verleihen der Jeans einen Hauch von Urban-Coolness. Ob lässig mit Oversize-Pullover und Sneakern oder feminin mit Bluse und Absatzschuh – dieses Must-have passt sich deinem Stil mühelos an.
-  Updated: 2025-11-24T18:19:02Z
+  Updated: 2025-12-12T23:19:28Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -223,19 +189,19 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XS / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999902045)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XS / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734247261)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XS / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591478621)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [S / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999934813)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [S / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999967581)
@@ -243,27 +209,27 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [S / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734476637)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
     Price: 59,00 € EUR
   - [S / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591511389)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [M / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000000349)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [M / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000033117)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [M / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734706013)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
     Price: 59,00 € EUR
   - [M / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591544157)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [L / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000065885)
@@ -275,11 +241,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [L / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734935389)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
     Price: 59,00 € EUR
   - [L / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591576925)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XL / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000131421)
@@ -291,11 +257,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XL / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196735164765)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XL / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591609693)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
 - [Geschenkgutschein](https://lastradafashion.de/products/geschenkgutschein): Mit unserem Online Geschenkgutschein machen Sie Ihren Liebsten eine Freude. Wählen Sie einfach die Höhe aus und Sie haben das perfekte Geschenk für Ihre Freunde und Familie. Einlösbar im Onlineshop, erleichtert der Gutschein das Einkaufen und bietet der Beschenkten eine große Auswahl an Möglichkeiten.
@@ -401,7 +367,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
     Price: 400,00 € EUR
 - [Große Blumen Brosche](https://lastradafashion.de/products/grosse-blumen-brosche): Diese Brosche ist ein wunderschönes Schmuckstück in Form einer großen Blume. Sie besteht aus glänzendem Material, die die Blütenblätter der Blume darstellen. Mit einem praktischen Nadelverschluss lässt sich die Brosche einfach an der Kleidung befestigen, wodurch sie ein echter Blickfang und ein edler Schmuckakzent wird. Sie kann sowohl an einem Blusenkragen, einem Pullover oder auch an einem Schal getragen werden. Die Kombinationsmöglichkeiten sind vielfältig und sie passt zu vielen verschiedenen Outfits und Anlässen. Die Blumenbrosche ist ein zeitloses Accessoire, das jedem Look eine elegante Note verleiht. Sie eignet sich perfekt als Geschenk für einen besonderen Menschen oder auch als persönliche Belohnung für sich selbst. Egal ob als Eyecatcher im Alltag oder als eleganter Schmuck für festliche Anlässe - diese Brosche wird viele bewundernde Blicke auf sich ziehen. MARKE - La Strada PASSFORM UND SCHNITT - One Size - Brosche MATERIAL UND VERARBEITUNG - Muster: Unifarben GrößeOne Size
-  Updated: 2025-11-30T23:00:58Z
+  Updated: 2025-12-12T23:13:48Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -431,11 +397,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-8.jpg?v=1719331923
     Price: 12,00 € EUR
   - [One Size / TÜRKIS](https://lastradafashion.de/products/grosse-blumen-brosche?variant=51367357481309)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-12-08T13:57:12Z
+  Updated: 2025-12-12T23:19:18Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -449,188 +415,43 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwODU1MzAta2FraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_213790fc-22d9-41bb-bb43-9d4d1201b1fa.jpg?v=1761411783
     Price: 29,90 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=53229701726557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwODU1Nzgtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_eaaa429a-7d2c-4922-8185-818c299e726d.jpg?v=1761411783
     Price: 29,90 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457636701)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwOTg1NDctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw_88011db6-2dbe-437c-8337-114c36341e1a.jpg?v=1761411783
     Price: 29,90 € EUR
   - [One Size / BORDEAUX](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=55150608122205)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxMDI5OTItYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_08ba3c90-2798-437c-a765-8d997fb1d350.jpg?v=1761411783
     Price: 29,90 € EUR
   - [One Size / GRAU](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=55150608154973)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxMDMwMDUtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_fd5b59a2-50f3-4c27-a8b7-0fef087243fd.jpg?v=1761411783
     Price: 29,90 € EUR
   - [One Size / TAUPE](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=55150608253277)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxMDMwMzYtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_747b46a8-0382-442e-b7c2-3e802d2eb35b.jpg?v=1761411783
     Price: 29,90 € EUR
   - [One Size / ALTROSA](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457669469)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNjMtYWx0cm9zYS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_30e1097b-54f3-4d99-99d3-49babab7d118.jpg?v=1761411373
     Price: 29,90 € EUR
   - [One Size / CAMEL](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457702237)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNDktY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_60b268f9-c49a-43d1-8979-8e95e51d4dc8.jpg?v=1761411373
     Price: 29,90 € EUR
   - [One Size / DUNKELORANGE](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457735005)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNzAtZHVua2Vsb3JhbmdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_9e72ed8a-c102-4288-9729-bc81d37a8dbd.jpg?v=1761411373
     Price: 29,90 € EUR
   - [One Size / JEANSBLAU](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457767773)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNTYtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_8eb5574e-488e-489b-bd63-36a006b3a950.jpg?v=1761411373
     Price: 29,90 € EUR
-- [Strickpullover mit Leo-Muster](https://lastradafashion.de/products/strickpullover-mit-leo-muster): Setzen Sie ein modisches Statement mit unserem Strickpullover im Leo-Muster. Dieser Pullover kombiniert auffälliges Design mit einem bequemen Schnitt und ist das ideale Kleidungsstück für modebewusste Frauen, die es stilvoll und komfortabel mögen. Das markante Leo-Muster verleiht dem Pullover eine dynamische und trendbewusste Optik, die alle Blicke auf sich zieht. Es verleiht Ihrem Outfit einen wilden und dennoch eleganten Touch, der vielseitig kombinierbar ist. Der Stehkragen sorgt für einen eleganten und modernen Look, während er gleichzeitig angenehmen Schutz vor kühlerem Wetter bietet. Er verleiht dem Pullover eine stilvolle Note und macht ihn zum perfekten Begleiter für die Übergangszeit. Mit seinem halben Arm bietet der Pullover eine modische Alternative zu langärmeligen Designs und eignet sich hervorragend für wechselhaftes Wetter. Die Ärmel enden auf halber Länge und verleihen dem Look eine leichte, frische Note, die sowohl lässig als auch elegant wirkt. Hergestellt aus weichem Strickmaterial, fühlt sich der Pullover angenehm auf der Haut an und sorgt für höchsten Tragekomfort. Der figurumspielende Schnitt bietet Bewegungsfreiheit und schmeichelt der Silhouette, ohne aufdringlich zu sein. Ob zu einer schmalen Jeans oder einem Rock kombiniert, dieser Strickpullover passt zu vielen Gelegenheiten. Tragen Sie ihn mit dezenten Accessoires für einen harmonischen Look oder setzen Sie weitere Akzente mit auffälligem Schmuck. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Fällt der Größe entsprechend normal aus - normal geschnitten, lockerer Schnitt - Stehkragen, halber Arm, Schultern im Oversize Schnitt MATERIAL UND VERARBEITUNG - Muster: Leo - Materialmix: 65% Viskose, 35% Nylon - Materialqualität: mittelschweres Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 178cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne SizeFarbeBEIGE
-  Updated: 2025-11-30T23:00:59Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11095551.jpg?v=1725299880
-  Price: 29,90 € EUR
-- [Stretch Gürtel mit großer Schnalle](https://lastradafashion.de/products/stretch-gurtel-mit-grosser-schnalle): Dieser Stretch Gürtel ist ein zeitloses Accessoire, das sowohl Stil als auch Komfort vereint. Sein klassisches Design macht ihn zu einer vielseitigen Ergänzung für jede Garderobe. Der Gürtel besteht aus einem elastischen Material, das sich sanft an die Körperform anpasst, wodurch er eine angenehme und flexible Passform bietet. Die runde goldene Schnalle verleiht dem Gürtel einen Hauch von Eleganz und sorgt für einen ansprechenden Akzent. Diese Schnalle ist nicht nur ästhetisch ansprechend, sondern auch funktional; sie ermöglicht ein einfaches An- und Ablegen des Gürtels. Ein weiteres praktisches Merkmal des Stretch Gürtels ist die Größenverstellbarkeit. Dies bedeutet, dass der Gürtel leicht an die individuellen Maße angepasst werden kann, was ihn besonders komfortabel macht. Ob für lässige Alltagsoutfits oder schickere Anlässe, dieser Gürtel ist die perfekte Wahl für jeden, der sowohl Stil als auch Komfort schätzt. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten - Stretchgürtel MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 50% PU, 40% Elastan, 10% Metall - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - mit einem feuchten Tuch abwischen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-11-30T23:00:59Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311150.jpg?v=1727093449
-  - [One Size / GRAU](https://lastradafashion.de/products/stretch-gurtel-mit-grosser-schnalle?variant=53717413658973)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311152.jpg?v=1727093449
-    Price: 12,00 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/stretch-gurtel-mit-grosser-schnalle?variant=53717413691741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311150.jpg?v=1727093449
-    Price: 12,00 € EUR
-  - [One Size / ROT](https://lastradafashion.de/products/stretch-gurtel-mit-grosser-schnalle?variant=53717413724509)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311149.jpg?v=1727093449
-    Price: 12,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/stretch-gurtel-mit-grosser-schnalle?variant=53717413757277)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311151.jpg?v=1727093449
-    Price: 12,00 € EUR
-- [Gürtel mit Animal Muster](https://lastradafashion.de/products/gurtel-mit-animal-muster): Dieser Stretchgürtel mit Animal-Muster ist ein modisches Accessoire, das sich durch seine Flexibilität und den auffälligen Druck auszeichnet. Er besteht aus einem elastischen Material, das sich angenehm anpasst und für hohen Tragekomfort sorgt. Die ovale Schnalle ist ein weiteres Highlight des Gürtels. Insgesamt kombiniert dieser Stretchgürtel Funktionalität mit einem modischen Statement und eignet sich sowohl für lässige Alltagslooks als auch für besondere Anlässe, bei denen ein Hauch von Wildheit gewünscht ist. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten - Stretchgürtel MATERIAL UND VERARBEITUNG - Muster: Animal Print, Leo - Materialmix: 60% PU, 40% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - mit einem feuchten Tuch abwischen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-11-30T23:01:00Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311162.jpg?v=1727094071
-  - [One Size / BEIGE](https://lastradafashion.de/products/gurtel-mit-animal-muster?variant=53717761720669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311161.jpg?v=1727094071
-    Price: 15,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/gurtel-mit-animal-muster?variant=53717761753437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311162.jpg?v=1727094071
-    Price: 15,00 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/gurtel-mit-animal-muster?variant=53717761786205)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311160.jpg?v=1727094071
-    Price: 15,00 € EUR
-- [Schimmernder Gürtel mit runder Schnalle](https://lastradafashion.de/products/schimmernder-gurtel-mit-runder-schnalle): Dieser Stretchgürtel ist ein elegantes Accessoire, das sowohl Funktionalität als auch Stil vereint. Sein schimmerndes Material sorgt für einen modischen Akzent und lässt ihn in verschiedenen Lichtverhältnissen strahlen. Die flexible Beschaffenheit des Gürtels ermöglicht eine optimale Anpassung an die Taille und sorgt für einen komfortablen Sitz, egal ob über einem Kleid, einer Bluse oder einer klassischen Hose. Besonders auffällig ist die runde Schnalle, die mit funkelnden Strasssteinen besetzt ist. Diese glitzernden Details verleihen dem Gürtel eine glamouröse Note und machen ihn zu einem perfekten Begleiter für besondere Anlässe oder festliche Outfits. Die Kombination aus schimmerndem Material und der glamourösen Schnalle macht diesen Stretchgürtel zu einem Eye-Catcher, der jeder Garderobe das gewisse Etwas verleiht. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten - Stretchgürtel MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 80% Polyester, 10% Metall, 10% Vetro - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - mit einem feuchten Tuch abwischen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-11-30T23:01:01Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311239.jpg?v=1727094238
-  - [One Size / GOLD](https://lastradafashion.de/products/schimmernder-gurtel-mit-runder-schnalle?variant=53717842067805)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311236.jpg?v=1727094239
-    Price: 25,00 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/schimmernder-gurtel-mit-runder-schnalle?variant=53717842133341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311237.jpg?v=1727094239
-    Price: 25,00 € EUR
-  - [One Size / ROT](https://lastradafashion.de/products/schimmernder-gurtel-mit-runder-schnalle?variant=53717842166109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311238.jpg?v=1727094239
-    Price: 25,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/schimmernder-gurtel-mit-runder-schnalle?variant=53717842198877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311239.jpg?v=1727094238
-    Price: 25,00 € EUR
-- [Taillengürtel mit Schnalle](https://lastradafashion.de/products/taillengurtel-mit-schnalle): Dieser Taillengürtel ist ein vielseitiges Accessoire, das jedem Outfit eine elegante und feminine Note verleiht. Seine elastische Eigenschaft macht ihn besonders bequem zu tragen und sorgt gleichzeitig für eine perfekte Passform. Die ovale Schnalle des Gürtels ist ein echter Blickfang und verleiht dem Accessoire einen Hauch von Vintage-Chic. Der Hakenverschluss sorgt für eine einfache und sichere Befestigung, sodass der Gürtel den ganzen Tag über an seinem Platz bleibt. Der Taillengürtel eignet sich perfekt für Kleider und Röcke, da er die Taille betont und die Silhouette schmeichelt. Er lässt sich sowohl zu lässigen Outfits als auch zu festlichen Anlässen tragen und verleiht jedem Look eine extra Portion Raffinesse. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - Stretchgürtel MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 50% PU, 40% Elastik, 10% Metall - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - mit einem feuchten Tuch abwischen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-11-30T23:01:01Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311291.jpg?v=1727094562
-  - [One Size / BEERE](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964423517)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311267.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964456285)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311293.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964489053)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311243.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964521821)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311291.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / COGNAC](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964554589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311292.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / GOLD](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964587357)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311297.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964620125)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311296.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / PETROL](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964652893)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311289.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964685661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311244.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964718429)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311294.jpg?v=1727094562
-    Price: 19,90 € EUR
-  - [One Size / SILBER](https://lastradafashion.de/products/taillengurtel-mit-schnalle?variant=53717964751197)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311295.jpg?v=1727094562
-    Price: 19,90 € EUR
-- [Taschengurt Mix](https://lastradafashion.de/products/taschengurt-mix): Dieser Taschengurt ist ein verstellbarer Riemen, der an Taschen, Rucksäcken oder Umhängetaschen befestigt wird, um das Tragen zu erleichtern. Ein typisches Merkmal eines Taschengurts ist seine Anpassungsfähigkeit. Er ist längenverstellbar, sodass er je nach Bedarf auf unterschiedliche Körpergrößen und Tragestile eingestellt werden kann. Insgesamt sorgt der Taschengurt dafür, dass die Tasche bequem und sicher am Körper getragen werden kann, was besonders bei längeren Tragezeiten von Vorteil ist. MARKE - La Strada PASSFORM UND SCHNITT - One Size - Taschengurt MATERIAL UND VERARBEITUNG - Muster: Muster Mix - Materialmix: 95% Polyester, 5% Leder PFLEGEHINWEIS - mit einem feuchten Tuch abwischen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-11-30T23:01:02Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312358.jpg?v=1727097548
-  - [One Size / CAMEL](https://lastradafashion.de/products/taschengurt-mix?variant=53719154491741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312389.jpg?v=1727097548
-    Price: 12,00 € EUR
-  - [One Size / COGNAC](https://lastradafashion.de/products/taschengurt-mix?variant=53719154524509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312371.jpg?v=1727097548
-    Price: 12,00 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/taschengurt-mix?variant=53719154557277)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312388.jpg?v=1727097548
-    Price: 12,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/taschengurt-mix?variant=53719154590045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312358.jpg?v=1727097548
-    Price: 12,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/taschengurt-mix?variant=53719154622813)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312387.jpg?v=1727097548
-    Price: 12,00 € EUR
 - [Schlichter Schal aus Strick](https://lastradafashion.de/products/schlichter-schal-aus-strick): Dieser Schal ist gefertigt aus einem weichen Material, das sanft über die Haut gleitet. Er fällt leicht und geschmeidig, was das Tragen äußerst angenehm macht. Zusätzlich bietet der Schal eine vielseitige Anwendbarkeit. Ob beim Spaziergang im Park, auf dem Weg zur Arbeit oder in geselliger Runde mit Freunden – er ist der ideale Begleiter für jede Gelegenheit. Besonders an kalten Tagen schenkt er wohlige Wärme und lässt die Trägerin oder den Träger nicht frieren. Insgesamt ist dieser Schal mehr als nur ein Accessoire; er ist ein unverzichtbarer Teil der Garderobe, der Stil und Funktionalität auf perfektem Niveau vereint. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - Schal MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 30% Merinowolle, 60% Acryl, 10% Spandex - Materialqualität: leichtes Material, Weiche Haptik PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Nicht bügeln, Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-12-01T10:12:36Z
+  Updated: 2025-12-12T23:14:06Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -655,34 +476,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5NTY2ODYuanBn.jpg?v=1732031803
     Price: 23,90 € EUR
-- [Strickmütze mit Smiley-Patch](https://lastradafashion.de/products/strickmutze-mit-smiley-patch): Diese Strickmütze mit Smiley-Patch ist das perfekte Accessoire, um Ihrem Look eine fröhliche und moderne Note zu verleihen. Die unifarbene Strickmütze ist zeitlos und vielseitig kombinierbar, während der auffällige Smiley-Patch einen verspielten Akzent setzt, der gute Laune verbreitet. Der hochwertige Materialmix aus Acryl und Angora sorgt für eine weiche Haptik und angenehme Wärme, ideal für kalte Tage. Die leichte Verarbeitung macht die Mütze besonders komfortabel und alltagstauglich, ohne dabei auf Stil zu verzichten. Kombinieren Sie sie mit einem lässigen Outfit für einen entspannten Look oder nutzen Sie sie als trendiges Highlight zu eleganteren Winteroutfits. Ein Must-have für alle, die Funktionalität und modische Details in einem Accessoire vereinen möchten! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - Strickmütze MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 75% Acryl, 25% Angora - Materialqualität: leichtes Material, Weiche Haptik PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Nicht bügeln, Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-11-30T23:00:23Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTMuanBn.jpg?v=1733129297
-  - [One Size / BEIGE](https://lastradafashion.de/products/strickmutze-mit-smiley-patch?variant=55030677995869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTUuanBn.jpg?v=1733129297
-    Price: 15,90 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/strickmutze-mit-smiley-patch?variant=55030678028637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTMuanBn.jpg?v=1733129297
-    Price: 15,90 € EUR
-  - [One Size / JEANSBLAU](https://lastradafashion.de/products/strickmutze-mit-smiley-patch?variant=55030678061405)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTYuanBn.jpg?v=1733129297
-    Price: 15,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/strickmutze-mit-smiley-patch?variant=55030678094173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTcuanBn.jpg?v=1733129297
-    Price: 15,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/strickmutze-mit-smiley-patch?variant=55030678126941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTguanBn.jpg?v=1733129297
-    Price: 15,90 € EUR
 - [Feinstrickpullover](https://lastradafashion.de/products/basic-feinstrickpullover): Ein modernes Essential mit femininer Silhouette – dieser Pullover besticht durch seine klare Linie und das weiche, feine Maschenbild. Der klassische Rundhalsausschnitt wird durch die angeschnittenen Fledermausärmel und die umschmeichelte Taille stilvoll kontrastiert. Die leicht verkürzte, körpernahe Passform am Saumverlauf lässt sich ideal zu High-Waist-Hosen oder Röcken kombinieren und zaubert eine elegante Kontur. Dieser Pullover begleitet dich stilvoll durch jeden Tag. Ein Must-have für elegante Wohlfühlmomente.
-  Updated: 2025-12-05T11:41:40Z
+  Updated: 2025-12-12T23:19:23Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -692,27 +487,27 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxMDk2NzAtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
     Price: 29,90 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/basic-feinstrickpullover?variant=55903812321629)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxMDk2NTYtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761413657
     Price: 29,90 € EUR
   - [One Size / ALTROSA](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887542997341)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMzItYWx0cm9zYS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761412605
     Price: 29,90 € EUR
   - [One Size / BORDEAUX](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543030109)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMDEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761412605
     Price: 29,90 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543062877)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyOTUtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761412605
     Price: 29,90 € EUR
   - [One Size / CAMEL](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543095645)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMTgtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
     Price: 29,90 € EUR
   - [One Size / DUNKELORANGE](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543128413)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyODgtZHVua2Vsb3JhbmdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413657
     Price: 29,90 € EUR
   - [One Size / GRAU](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543161181)
@@ -720,471 +515,37 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyNzEtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761413657
     Price: 29,90 € EUR
   - [One Size / JEANSBLAU](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543193949)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMjUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413657
     Price: 29,90 € EUR
   - [One Size / KHAKI](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543226717)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyNjQta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
     Price: 29,90 € EUR
-- [Langer Karo-Wollmantel](https://lastradafashion.de/products/langer-karo-wollmantel): Dieser lange Karo-Wollmantel ist ein wahrer Klassiker, der Ihre Garderobe mit einem Hauch von Eleganz und modernem Charme bereichert. Der oversize Schnitt sorgt für eine lässige, aber dennoch raffinierte Silhouette, die locker fällt und bis über die Knie reicht. Die One-Size-Passform (geeignet für Größen 36 bis 42) macht den Mantel besonders vielseitig und angenehm zu tragen – perfekt für jede Frau, die es bequem und stilvoll mag. Das auffällige Karo-Muster setzt einen markanten Akzent und verleiht dem Mantel eine zeitlose, modische Note, die nie aus der Mode kommt. Egal, ob Sie ihn zu einem Casual-Look oder einem eleganteren Outfit kombinieren – dieser Mantel sorgt stets für einen gelungenen Auftritt. Die gerade Schnittführung und der weite Fall schaffen eine entspannte, gleichzeitig stilbewusste Silhouette. Der Materialmix aus 80 % Polyester und 20 % Wolle sorgt für eine angenehme Wärme und ist dennoch leicht genug, um den Mantel auch bei milderen Temperaturen zu tragen. Das mittelschwere Material garantiert eine hervorragende Formstabilität und fühlt sich weich auf der Haut an – ideal für den täglichen Gebrauch, ohne an Komfort oder Eleganz einzubüßen. Ob im Büro, beim Spaziergang oder beim Treffen mit Freunden – der lange Karo Wollmantel ist ein vielseitiges Statement-Piece, das jedes Outfit aufwertet. Ein absolutes Must-have für modebewusste Frauen, die ihren Look mit einem Hauch von Tradition und Stil perfektionieren möchten.MARKE- La StradaPASSFORM UND SCHNITT- One Size (von Größen 36 bis 42)- oversize geschnitten, gerader Schnitt, locker fallend, reicht bis über die Knie- LangmantelMATERIAL UND VERARBEITUNG- Muster: Karo- Materialmix: 80% Polyester, 20% Wolle- Materialqualität: mittelschweres MaterialPFLEGEHINWEIS- Handwäsche, Maschinenwäsche bis 30°C, Nicht waschen, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubtMODEL- Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S Größe One Size
-  Updated: 2025-11-30T23:00:24Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjEzMDguanBn.jpg?v=1740491944
-  - [BLAU](https://lastradafashion.de/products/langer-karo-wollmantel?variant=56541473735005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjEzMDguanBn.jpg?v=1740491944
-    Price: 139,00 € EUR
-  - [ROT](https://lastradafashion.de/products/langer-karo-wollmantel?variant=56541473767773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjEzMzkuanBn.jpg?v=1740491944
-    Price: 139,00 € EUR
 - [Sweatshirt mit Blüten-Applikation](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation): Lässig trifft luxuriös: Das Sweatshirt verleiht deinem Casual-Look ein stilvolles Update, es wird durch die große Blüten-Applikation mit plastischen Blütenblättern und funkelndem Strass-Mittelpunkt zum echten Eyecatcher. Der klassische Rundhalsausschnitt und die gerade, leicht verkürzte Passform sorgen für eine moderne Silhouette mit Wohlfühlfaktor. Ein Highlight für alle, die Alltag mit Glamour verbinden möchten – ideal zu Jeans, Stoffhose oder Rock kombinierbar. Ein Fashion-Piece mit besonderem Charme – dieses Sweatshirt ist ein stilvolles Must-have für deine Garderobe.
-  Updated: 2025-12-11T16:25:11Z
+  Updated: 2025-12-12T23:19:23Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzYxLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
   - [BEIGE / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=56842717430109)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTE1NTU4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
   - [BRAUN / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587234141)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzQ3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
   - [GRÜN / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587266909)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzYxLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
   - [TERRA / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587299677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzU0LXRlcnJhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
-- [Jeanshose mit weitem Umschlag](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag): Ein starker Auftritt für Denim-Liebhaberinnen: Die Jeanshose „Urban Cuff“ begeistert mit ihrem modischen Wide-Leg-Schnitt und dem markanten, extrabreiten Saumumschlag. Das dunkle Denim mit Kontrastnähten unterstreicht den modernen Charakter und verleiht der Hose einen cleanen, urbanen Look. Die aufgesetzten Taschen vorn sorgen für eine trendige Utility-Note, während der elastische Baumwollmix angenehm nachgibt und optimalen Tragekomfort bietet. Ein Highlight für stilbewusste Frauen, die das Besondere suchen – ein echtes Must-have!
-  Updated: 2025-11-30T23:00:26Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761655520
-  - [XS / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag?variant=58789302927709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761655520
-    Price: 69,00 € EUR
-  - [S / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag?variant=58789302960477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761655520
-    Price: 69,00 € EUR
-  - [M / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag?variant=58789302993245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761655520
-    Price: 69,00 € EUR
-  - [L / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag?variant=58789303026013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761655520
-    Price: 69,00 € EUR
-  - [XL / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag?variant=58789303058781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761655520
-    Price: 69,00 € EUR
-- [Velours-Fransenbolero](https://lastradafashion.de/products/velours-fransenbolero): Statement-Piece mit Boho-Flair – dieser Bolero aus softem Velours zieht mit seinen langen, schwingenden Fransen alle Blicke auf sich. Die verkürzte Schnittform setzen die Taille gekonnt in Szene und sorgen für eine betont feminine Silhouette. Die elastische Velours-Qualität verleiht dem Look eine luxuriöse Haptik mit weichem Griff, während die Fransen entlang der Ärmel und Vorderkante bei jeder Bewegung stilvoll mitschwingen. Ideal als Eyecatcher über simplen Tops, Kleidern oder zur High-Waist-Hose. Ein Must-have für alle, die Mode inszenieren wollen.
-  Updated: 2025-11-30T23:00:26Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyNzk4LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760538173
-  - [One Size / BRAUN](https://lastradafashion.de/products/velours-fransenbolero?variant=58801188012381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyNzk4LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760538173
-    Price: 39,90 € EUR
-  - [One Size / CAMEL](https://lastradafashion.de/products/velours-fransenbolero?variant=58801188045149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyODA0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760619489
-    Price: 39,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/velours-fransenbolero?variant=58801188077917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyODExLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760563585
-    Price: 39,90 € EUR
-- [Fellweste mit Stickdetails](https://lastradafashion.de/products/fellweste-mit-stickdetails): Rustikaler Charme trifft auf kunstvolles Design: Die Weste vereint traditionelle Handwerksoptik mit modernem Boho-Flair. Die Außenseite in weicher Veloursleder-Optik ist mit filigranen floralen und Paisley-Stickereien verziert – ein stilvoller Hingucker mit folkloristischem Touch. Die grob gearbeitete Kontrastkante rundet den Look handwerklich ab. Innen überrascht ein kuscheliges Teddyfutter, das für wohlige Wärme und hohen Tragekomfort sorgt. Der gerade, ärmellose Schnitt bietet viel Bewegungsfreiheit und macht die Weste zum perfekten Layering-Piece über Longsleeves, Blusen oder Strick. Ein charakterstarkes It-Piece für stilbewusste Looks mit Persönlichkeit – ein echtes Must-have!
-  Updated: 2025-11-30T23:00:27Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC0xNjgtNDA2ODM4MjE1MTg0Ni1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760788876
-  - [BRAUN](https://lastradafashion.de/products/fellweste-mit-stickdetails?variant=58825010348381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC0xNjgtNDA2ODM4MjE1MTg0Ni1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760788876
-    Price: 45,00 € EUR
-  - [CAMEL](https://lastradafashion.de/products/fellweste-mit-stickdetails?variant=58825010381149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC0xNjgtNDA2ODM4MjE1MTg1My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760788876
-    Price: 45,00 € EUR
-- [Sweatjacke mit Kapuze und Kunstfell-Front](https://lastradafashion.de/products/sweatjacke-mit-kapuze-und-kunstfell-front): Diese Kapuzenjacke kombiniert lässigen Komfort mit edlen Details. Die Vorderseite ist mit weichem Kunstfell gearbeitet, was für eine luxuriöse Haptik und einen besonderen Look sorgt. Die Ärmel und die Rückseite sind aus feinem Sweatmaterial gefertigt, wodurch die Jacke leicht und bequem bleibt. Ein durchgehender Reißverschluss, die praktische Kapuze und die sportiven Strickbündchen machen das Modell zu einem vielseitigen Stylingpartner – perfekt für entspannte Alltags-Outfits mit einem Hauch Eleganz.
-  Updated: 2025-11-30T23:00:27Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxNS1MSjYxOS00MDY4MzgyMTYwMzUwLXdlaXNzLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_14fdc18f-6d69-4362-9c65-58a1497a9f15.jpg?v=1760953521
-  - [S/M / WEIß](https://lastradafashion.de/products/sweatjacke-mit-kapuze-und-kunstfell-front?variant=58836532199773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxNS1MSjYxOS00MDY4MzgyMTYwMzUwLXdlaXNzLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_14fdc18f-6d69-4362-9c65-58a1497a9f15.jpg?v=1760953521
-    Price: 98,00 € EUR
-  - [L/XL / WEIß](https://lastradafashion.de/products/sweatjacke-mit-kapuze-und-kunstfell-front?variant=58836532232541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxNS1MSjYxOS00MDY4MzgyMTYwMzUwLXdlaXNzLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_14fdc18f-6d69-4362-9c65-58a1497a9f15.jpg?v=1760953521
-    Price: 98,00 € EUR
-- [Sweathose](https://lastradafashion.de/products/sweathose-1): Minimalistisch, modern und maximal bequem – diese Hose überzeugt mit klarer Linie und entspanntem Fit. Der elastische Bund sorgt für einen perfekten Sitz und hohen Tragekomfort, während das weite Bein eine elegante, fließende Silhouette schafft. Die leicht strukturierte Look mit weichem Griff unterstreicht das cleanen Erscheinungsbild und macht diese Hose zum idealen Kombipartner – egal ob für Business, Freizeit oder City-Style. Seitliche Eingrifftaschen ergänzen den funktionalen Charakter mit einem Hauch Lässigkeit. Ein vielseitiges Must-have für stilbewusste Looks mit Wohlfühlgarantie. GrößeOne SizeMaterialzusammensetzung 47 % Polyester 47 % Viskose 6 % Elasthan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittLockerer Schnitt mit weitem Bein und elastischem BundFit Guide2MaterialqualitätWeich, elastisch, formstabilVerarbeitungGlatte, strukturierte Jersey-Qualität, EingrifftaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:27Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS0yOTgxMi00MDY4MzgyMTU5MzU0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_090aa32d-0ec6-4d05-be0f-3f7deac1ee48.jpg?v=1760970061
-  - [BEIGE](https://lastradafashion.de/products/sweathose-1?variant=58838637150557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS0yOTgxMi00MDY4MzgyMTU5MzU0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_090aa32d-0ec6-4d05-be0f-3f7deac1ee48.jpg?v=1760970061
-    Price: 49,90 € EUR
-  - [BORDEAUX](https://lastradafashion.de/products/sweathose-1?variant=58838637183325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS0yOTgxMi00MDY4MzgyMTU5Mzg1LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_1638c059-d197-44b5-84eb-5ac81fba5237.jpg?v=1760970061
-    Price: 49,90 € EUR
-  - [BRAUN](https://lastradafashion.de/products/sweathose-1?variant=58838637216093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS0yOTgxMi00MDY4MzgyMTU5MzYxLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_05b3deea-c757-426b-a11a-8b89a3bf6c18.jpg?v=1760970062
-    Price: 49,90 € EUR
-  - [SCHWARZ](https://lastradafashion.de/products/sweathose-1?variant=58838637248861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS0yOTgxMi00MDY4MzgyMTU5Mzc4LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw_d9411238-6249-4f5d-995d-c75f2852fb46.jpg?v=1760970062
-    Price: 49,90 € EUR
-- [Feinstrickpullover mit halblangen Ärmeln](https://lastradafashion.de/products/feinstrickpullover-mit-halblangen-armeln): Der Pullover besticht durch seine frische Farbe und feminine Leichtigkeit. Er setzt er ein klares Statement und verleiht deinem Look eine moderne Note. Der tiefe V-Ausschnitt und die halblangen Ärmel sorgen für eine elegante, aber entspannte Ausstrahlung. Der gerade Schnitt umspielt die Figur sanft und macht den Pullover zum vielseitigen Begleiter für Jeans, elegante Stoffhosen oder Röcke. Dank seiner weichen Strickqualität bietet er höchsten Tragekomfort – ein Piece, das zum Wohlfühlen und Strahlen einlädt. GrößeOne SizeMaterialzusammensetzung 27 % Baby Suri Alpaka 38 % Polyamid 22 % Acryl 10 % Wolle 3 % Elasthan Pflegehinweis Handwäsche nicht bleichen nicht im Trockner trocknen liegend trocknen bei niedriger Temperatur bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittGerader, leicht lockerer Schnitt, tiefer V-Ausschnitt, halblange Ärmel mit schmalem BündchenFit Guide3MaterialqualitätBesonders weiches Material, leichtes Material, fein strukturiertes MaterialVerarbeitungBesonders weicher FeinstrickModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-25T06:23:38Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS01MDgtNDA2ODM4MjE1ODU0OC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760967267
-  - [CREME](https://lastradafashion.de/products/feinstrickpullover-mit-halblangen-armeln?variant=58838645768541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS01MDgtNDA2ODM4MjE1ODU0OC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760967267
-    Price: 45,00 € EUR
-  - [GRAU](https://lastradafashion.de/products/feinstrickpullover-mit-halblangen-armeln?variant=58838645801309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS01MDgtNDA2ODM4MjE1ODU3OS1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760967267
-    Price: 45,00 € EUR
-  - [HELLBLAU](https://lastradafashion.de/products/feinstrickpullover-mit-halblangen-armeln?variant=58838645834077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS01MDgtNDA2ODM4MjE1ODU1NS1oZWxsYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760967267
-    Price: 45,00 € EUR
-  - [ROSA](https://lastradafashion.de/products/feinstrickpullover-mit-halblangen-armeln?variant=58838645866845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS01MDgtNDA2ODM4MjE1ODU2Mi1yb3NhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760967267
-    Price: 45,00 € EUR
-- [Kurzjacke](https://lastradafashion.de/products/kurzjacke): Modern, minimalistisch und mit einem Hauch Extravaganz: Die Jacke ist ein stilvolles Highlight für alle, die klare Linien lieben. Die kastige, leicht verkürzte Silhouette mit Rundhalsausschnitt und großen aufgesetzten Taschen verleiht dem Modell einen angesagten Utility-Charakter. Die edel schimmernde, glatte Oberfläche und die mattgoldenen Druckknöpfe sorgen für ein harmonisches Spiel zwischen sportivem Stil und femininer Raffinesse. Der elastische Saum am Rücken rundet das Design funktional ab. Dank des hochwertigen Stretchmaterials trägt sich die Jacke besonders angenehm und bleibt gleichzeitig in Form. Ein urbanes Key-Piece mit modischer Aussage – ein absolutes Must-have! Materialzusammensetzung 49 % Polyester 44 % Viskose 7 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen Herstellungsland Italien Passform und Schnitt Gerade, leicht kastige Passform mit Rundhalsausschnitt, langen Ärmeln und verkürztem Schnitt Fit Guide 3 Materialqualität Glatt, elastisch, formstabil mit leichtem Schimmer Verarbeitung Leicht glänzender Stoff mit aufgesetzten Taschen, elastischem Rückensaum und Knopfleiste Model Das Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:28Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5Mjc5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi00LmpwZw.jpg?v=1760969506
-  - [S/M / BEIGE](https://lastradafashion.de/products/kurzjacke?variant=58838897262941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5MjMxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969239
-    Price: 49,90 € EUR
-  - [L/XL / BEIGE](https://lastradafashion.de/products/kurzjacke?variant=58838897295709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5MjMxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969239
-    Price: 49,90 € EUR
-  - [S/M / BORDEAUX](https://lastradafashion.de/products/kurzjacke?variant=58838897328477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5Mjc5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969506
-    Price: 49,90 € EUR
-  - [L/XL / BORDEAUX](https://lastradafashion.de/products/kurzjacke?variant=58838897361245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5Mjc5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969506
-    Price: 49,90 € EUR
-  - [S/M / BRAUN](https://lastradafashion.de/products/kurzjacke?variant=58838897394013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5MjU1LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969239
-    Price: 49,90 € EUR
-  - [L/XL / BRAUN](https://lastradafashion.de/products/kurzjacke?variant=58838897426781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5MjU1LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969239
-    Price: 49,90 € EUR
-  - [S/M / SCHWARZ](https://lastradafashion.de/products/kurzjacke?variant=58838897459549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5MjkzLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760969239
-    Price: 49,90 € EUR
-  - [L/XL / SCHWARZ](https://lastradafashion.de/products/kurzjacke?variant=58838897492317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTA5MS00MDY4MzgyMTU5MjkzLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760969239
-    Price: 49,90 € EUR
-- [Feines Longsleeve](https://lastradafashion.de/products/feines-longsleeve): Ein elegantes Essential-Basic mit luxuriösem Touch: Dieses Longsleeve begeistert mit seiner feinen, leicht transparenten Qualität und einem wunderbar soften Griff. Die schlanke Silhouette mit Rundhalsausschnitt und langen Ärmeln betont feminin die Figur, während der hochwertige Materialmix mit Kaschmir-Anteil für einen Hauch von Luxus sorgt. Der leichte Fall des Stoffes macht das Longsleeve zur perfekten Basis für Statement-Outfits. Ein vielseitiges Key-Piece, das Minimalismus auf höchstem Niveau verkörpert – dein stilvoller Allrounder für jeden Tag! Materialzusammensetzung 20 % Kaschmir 20 % Viskose 20 % Modal 20 % Nylon 10 % Elasthan 10 % Seide Pflegehinweis Handwäsche empfohlen bei 30 °C waschen nicht bleichen nicht im Trockner trocknen HerstellungslandItalienPassform und SchnittKörpernah geschnitten mit Rundhalsausschnitt und langen ÄrmelnFit Guide3MaterialqualitätSehr weich, elastisches Material, leicht transparent und luxuriös im GriffVerarbeitungFeinstrick in leicht transparenter QualitätModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-25T12:20:19Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzMzIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_3760a325-2748-49de-a3f0-585d50b3655d.jpg?v=1760970007
-  - [S/M / BEIGE](https://lastradafashion.de/products/feines-longsleeve?variant=58838926295389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzMzIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_3760a325-2748-49de-a3f0-585d50b3655d.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [L/XL / BEIGE](https://lastradafashion.de/products/feines-longsleeve?variant=58838926328157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzMzIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_3760a325-2748-49de-a3f0-585d50b3655d.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [S/M / BORDEAUX](https://lastradafashion.de/products/feines-longsleeve?variant=58838926360925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzNDA2LWJyb2RlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_99dd5924-6487-4644-8668-a5ce8dd80ac9.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [L/XL / BORDEAUX](https://lastradafashion.de/products/feines-longsleeve?variant=58838926393693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzNDA2LWJyb2RlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_99dd5924-6487-4644-8668-a5ce8dd80ac9.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [S/M / BRAUN](https://lastradafashion.de/products/feines-longsleeve?variant=58838926426461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzNDIwLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_beaf3389-1515-4ad2-b2ac-1451ca452b98.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [L/XL / BRAUN](https://lastradafashion.de/products/feines-longsleeve?variant=58838926459229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzNDIwLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_beaf3389-1515-4ad2-b2ac-1451ca452b98.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [S/M / CREME](https://lastradafashion.de/products/feines-longsleeve?variant=58838926491997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzMzQ1LWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_3bc2037e-1ca8-448b-bed0-fcf02ebcfbfa.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [L/XL / CREME](https://lastradafashion.de/products/feines-longsleeve?variant=58838926524765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzMzQ1LWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_3bc2037e-1ca8-448b-bed0-fcf02ebcfbfa.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [S/M / SCHWARZ](https://lastradafashion.de/products/feines-longsleeve?variant=58838926754141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzNDY4LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBn_5730c3a3-5fff-4156-ad24-b4eba355d92f.jpg?v=1760970007
-    Price: 25,00 € EUR
-  - [L/XL / SCHWARZ](https://lastradafashion.de/products/feines-longsleeve?variant=58838926786909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS00Njg3My00MDY4MzgyMTUzNDY4LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBn_5730c3a3-5fff-4156-ad24-b4eba355d92f.jpg?v=1760970007
-    Price: 25,00 € EUR
-- [Strukturshirt mit halblangem Ärmel](https://lastradafashion.de/products/strukturshirt-mit-halblangem-armel): Puristisches Design trifft auf moderne Struktur – dieses Shirt begeistert mit klarer Formensprache und hochwertiger Materialanmutung. Die kastige Silhouette mit halblangen Ärmeln verleiht dem Look urbanen Chic und sorgt zugleich für einen entspannten Sitz. Das glatte, leicht strukturierte Material mit Stretch-Anteil liegt angenehm auf der Haut und bewahrt auch nach langem Tragen seine Form. Der klassische Rundhalsausschnitt und die minimalistischen Abschlüsse machen das Shirt zu einem idealen Kombiteil für vielfältige Stylings. Ein Must-have für Fans von zeitloser Eleganz. GrößeOne Size
-  Updated: 2025-11-30T23:00:28Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zMTIwMy00MDY4MzgyMTU5MzE2LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760969934
-  - [BEIGE](https://lastradafashion.de/products/strukturshirt-mit-halblangem-armel?variant=58838971777373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zMTIwMy00MDY4MzgyMTU5MzE2LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760969934
-    Price: 39,90 € EUR
-  - [BORDEAUX](https://lastradafashion.de/products/strukturshirt-mit-halblangem-armel?variant=58838971810141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zMTIwMy00MDY4MzgyMTU5MzMwLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969934
-    Price: 39,90 € EUR
-  - [BRAUN](https://lastradafashion.de/products/strukturshirt-mit-halblangem-armel?variant=58838971842909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zMTIwMy00MDY4MzgyMTU5MzIzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760969934
-    Price: 39,90 € EUR
-  - [SCHWARZ](https://lastradafashion.de/products/strukturshirt-mit-halblangem-armel?variant=58838971875677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zMTIwMy00MDY4MzgyMTU5MzQ3LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760969934
-    Price: 39,90 € EUR
-- [Fransenweste in Wildleder-Optik](https://lastradafashion.de/products/fransenweste-in-wildleder-optik): Ein modisches Statement mit Wild-West-Charme: Die Fransenweste verleiht jedem Look eine kraftvolle, trendbewusste Note. Sie begeistert sie mit einer geschmeidigen Wildleder-Optik und auffälligen, langen Fransen, die bei jeder Bewegung stilvoll mitschwingen. Die ärmellose, offen getragene Silhouette macht die Weste zu einem vielseitigen Styling-Piece – ob über einer Bluse, einem Kleid oder einem schlichten Longsleeve. Der anschmiegsame Materialmix sorgt für ein angenehmes Tragegefühl und bleibt gleichzeitig formstabil. Ein Fashion-Piece mit Charakter! GrößeOne SizeMaterialzusammensetzung 95 % Polyester 5 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen nicht heiß bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittLocker geschnitten, ärmellos, offen tragbarFit Guide3MaterialqualitätWeich, leicht elastisch, formstabilVerarbeitungGlatte Wildleder-Optik, lange Fransen vorn und hintenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:29Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0zMzU2NTEtNDA2ODM4MjE2Mjc3NC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760970539
-  - [BRAUN](https://lastradafashion.de/products/fransenweste-in-wildleder-optik?variant=58839061627229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0zMzU2NTEtNDA2ODM4MjE2Mjc3NC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760970539
-    Price: 39,90 € EUR
-  - [CAMEL](https://lastradafashion.de/products/fransenweste-in-wildleder-optik?variant=58839061659997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0zMzU2NTEtNDA2ODM4MjE2Mjc2Ny1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760970539
-    Price: 39,90 € EUR
-  - [SCHWARZ](https://lastradafashion.de/products/fransenweste-in-wildleder-optik?variant=58839061692765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0zMzU2NTEtNDA2ODM4MjE2Mjc4MS1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970540
-    Price: 39,90 € EUR
-- [Feinstrickpullover mit Animalprint-Applikation](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation): Mit diesem Feinstrickpullover ziehst du alle Blicke auf dich. Im Zentrum steht der auffällige „N°5“-Schriftzug mit Animalprint-Applikation – ein modisches Statement, das Coolness und feminine Raffinesse gekonnt vereint. Die lässige Passform mit Fledermausärmeln sorgt für angenehme Bewegungsfreiheit und unterstreicht den entspannten Chic des Designs. Die weichfließende Strickqualität fühlt sich traumhaft weich auf der Haut an und schenkt angenehme Wärme – perfekt für stilvolle Übergangslooks. Ein Lieblingsstück mit hohem Style-Faktor und Must-have-Charakter. GrößeOne SizeMaterialzusammensetzung 40 % Viskose 30 % Angora 30 % Wolle Pflegehinweis Nur Handwäsche nicht bleichen nicht im Trockner trocknen nicht heiß bügeln nicht chemisch reinigen HerstellungslandItalienFit Guide3MaterialqualitätSehr weiche Haptik, leichtes Material, leicht elastisches MaterialVerarbeitungFeinstrick, Frontprint mit Animal-ApplikationModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-05T11:41:07Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzEyMy1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_4863643c-01cf-4150-866b-c7eb72d80e6d.jpg?v=1760974248
-  - [BEIGE / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839091806557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzEyMy1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_4863643c-01cf-4150-866b-c7eb72d80e6d.jpg?v=1760974248
-    Price: 35,00 € EUR
-  - [BORDEAUX / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839091839325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzE2MS1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_1755c83c-37e8-4959-a768-ac5adbab1681.jpg?v=1760974248
-    Price: 35,00 € EUR
-  - [BRAUN / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839091872093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzE0Ny1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_3169d6a6-570b-4a38-8c5d-c911bacc57d0.jpg?v=1760974248
-    Price: 35,00 € EUR
-  - [CREME / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839091904861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzEzMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_171948a0-cdf1-401a-b6b7-6e4ed2630017.jpg?v=1760974248
-    Price: 35,00 € EUR
-  - [GRÜN / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839091937629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzE3OC1ncnVlbi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_f07d53e6-c914-4ae5-8b1e-351dbb9d18ae.jpg?v=1760974248
-    Price: 35,00 € EUR
-  - [ORANGE / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839091970397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzE4NS1vcmFuZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_d4d882f5-3daa-49ce-a649-335bdffe7099.jpg?v=1760974431
-    Price: 35,00 € EUR
-  - [TAUPE / One Size](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation?variant=58839092003165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODQwMC1OTzUtNDA2ODM4MjE1MzE1NC10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_0f48b08c-c06c-439a-bf13-90d90b294b9b.jpg?v=1760974431
-    Price: 35,00 € EUR
-- [Zebraprint-Pullover](https://lastradafashion.de/products/zebraprint-pullover): Statement-Print trifft auf kuschelweichen Strick – dieser Pullover mit modernem Zebra-Muster ist ein stilvoller Hingucker für alle, die Mode mit Charakter lieben. Der gerade, leicht lockere Schnitt mit Rundhalsausschnitt sorgt für ein angenehmes Tragegefühl und schmeichelt der Figur, ohne aufzutragen. Die luxuriöse Materialmischung macht den Pullover besonders weich, wärmend und ideal für die kühlere Saison. Kombiniere ihn mit Lederleggings oder Wide-Leg-Pants für einen urbanen Look mit Fashion-Faktor. Ein Must-have für alle, die gerne modische Akzente setzen – und dabei nicht auf Komfort verzichten wollen. GrößeOne SizeMaterialzusammensetzung 40 % Viskose 30 % Angora 30 % Wolle Pflegehinweis Nur Handwäsche nicht bleichen nicht im Trockner trocknen nicht heiß bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittGerader Schnitt, leicht figurumspielende Form, V-AusschnittFit Guide2MaterialqualitätSehr weiche Haptik, elastisches MaterialVerarbeitungFeinstrick, Zebraprint in warmen Tönen, Glitzergarn am Saum und an der HalslinieModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-05T11:40:45Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEyNTE5MS00MDY4MzgyMTUzMjIyLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970934
-  - [One Size / BRAUN](https://lastradafashion.de/products/zebraprint-pullover?variant=58839105044829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEyNTE5MS00MDY4MzgyMTUzMjIyLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970934
-    Price: 35,00 € EUR
-  - [One Size / JEANSBLAU](https://lastradafashion.de/products/zebraprint-pullover?variant=58839105077597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEyNTE5MS00MDY4MzgyMTUzMjE1LWplYW5zYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760970934
-    Price: 35,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/zebraprint-pullover?variant=58839105110365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEyNTE5MS00MDY4MzgyMTUzMjA4LWtoYWtpLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970934
-    Price: 35,00 € EUR
-  - [One Size / ROT](https://lastradafashion.de/products/zebraprint-pullover?variant=58839105143133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEyNTE5MS00MDY4MzgyMTUzMjM5LXJvdC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760970934
-    Price: 35,00 € EUR
-- [Oversize-Bluse mit modischen Schmuckdetails](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails): Diese elegante Oversize-Bluse vereint lässige Silhouette mit raffiniertem Design. Der wahre Blickfang: Die auffälligen Schmuckknöpfe in Form von Lippenstift, Parfumflakon und goldener Ziffer – ein verspieltes Statement mit modischem Augenzwinkern. Der lockere Schnitt mit überschnittener Schulterpartie und die leicht ausgestellte Form sorgen für einen fließenden Fall und höchsten Tragekomfort. Klassische Elemente wie der Hemdkragen und die langen Manschettenärmel setzen stilvolle Kontraste zur femininen Leichtigkeit. Das Modell ist vielseitig kombinierbar – ob zur schmalen Jeans, Culotte oder eleganten Stoffhose – und verleiht jedem Outfit einen Hauch von Individualität. Eine Bluse, die mit Charme und Stilbewusstsein begeistert – ein echtes Must-have für Fashion-Liebhaberinnen. GrößeOne Size
-  Updated: 2025-12-05T11:41:31Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEtMjUxNjgtNDA2ODM4MjE1MzI1My1qZWFuc2JsYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760970997
-  - [JEANSBLAU](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails?variant=58839113597277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEtMjUxNjgtNDA2ODM4MjE1MzI1My1qZWFuc2JsYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760970997
-    Price: 35,00 € EUR
-  - [KHAKI](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails?variant=58839113630045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEtMjUxNjgtNDA2ODM4MjE1MzI3Ny1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760970997
-    Price: 35,00 € EUR
-  - [ROT](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails?variant=58839113662813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEtMjUxNjgtNDA2ODM4MjE1MzI2MC1yb3QtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760970997
-    Price: 35,00 € EUR
-  - [SCHWARZ](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails?variant=58839113695581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS05ODM5NzEtMjUxNjgtNDA2ODM4MjE1MzI0Ni1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970997
-    Price: 35,00 € EUR
-- [Strick-Cardigan mit Glanzknöpfen](https://lastradafashion.de/products/strick-cardigan-mit-glanzknopfen): Der Cardigan ist ein stilvoller Begleiter für kühlere Tage. Die sanften Töne wirken edel und schmeichelnd, während der tiefe V-Ausschnitt mit glänzenden goldenen Knöpfen eine luxuriöse Note setzt. Die legere Passform mit überschnittenen Schultern und leicht ausgestelltem Ärmel sorgt für eine moderne, entspannte Silhouette. Besonders schön lässt sich der Cardigan mit Skinny Jeans, Chunky Boots oder femininen Midikleidern kombinieren. Ob im Alltag, im Office oder am Wochenende – dieser Strickliebling ist die perfekte Wahl für stilbewusste Layering-Looks. GrößeOne Size
-  Updated: 2025-11-30T23:00:30Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yNzAxLTQwNjgzODIxNTUzOTQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971065
-  - [BEIGE](https://lastradafashion.de/products/strick-cardigan-mit-glanzknopfen?variant=58839119167837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yNzAxLTQwNjgzODIxNTUzOTQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971065
-    Price: 39,90 € EUR
-  - [BRAUN](https://lastradafashion.de/products/strick-cardigan-mit-glanzknopfen?variant=58839119200605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yNzAxLTQwNjgzODIxNTU0MDAtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971065
-    Price: 39,90 € EUR
-  - [CREME](https://lastradafashion.de/products/strick-cardigan-mit-glanzknopfen?variant=58839119233373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yNzAxLTQwNjgzODIxNTUzODctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971065
-    Price: 39,90 € EUR
-  - [HELLGRAU](https://lastradafashion.de/products/strick-cardigan-mit-glanzknopfen?variant=58839119266141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yNzAxLTQwNjgzODIxNTU0MzEtaGVsbGdyYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971066
-    Price: 39,90 € EUR
-  - [TAUPE](https://lastradafashion.de/products/strick-cardigan-mit-glanzknopfen?variant=58839119298909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yNzAxLTQwNjgzODIxNTU0MTctdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971066
-    Price: 39,90 € EUR
-- [Zip-Hoodie mit Kapuze](https://lastradafashion.de/products/zip-hoodie-mit-kapuze): Sportlich trifft clean: Dieser Zip-Hoodie vereint modernes Design mit hohem Komfort. Der glatte, leicht glänzende Stoff verleiht dem Hoodie eine edle Note, während der taillierte Schnitt und der formschöne Stehkragen mit angesetzter Kapuze für eine minimalistische, urbane Ausstrahlung sorgen. Die durchgehende Reißverschlussleiste und die klaren Linien machen dieses Modell zum unkomplizierten Allrounder – perfekt für City-Looks, Travel-Days oder stilvolle Athleisure-Outfits. Dank des hochwertigen Stretchmaterials trägt sich der Hoodie angenehm weich auf der Haut und bleibt stets in Form. Ein Essential mit Understatement – und absolutem Must-have-Potenzial. Materialzusammensetzung 49 % Polyester 44 % Viskose 7 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittTaillierter Schnitt mit Stehkragen, angeschnittener Kapuze, langen Ärmeln und ReißverschlussFit Guide3MaterialqualitätWeich, elastisch, formstabil mit glatter OberflächeVerarbeitungleicht glänzender Stoff mit ReißverschlussModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:31Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTk0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971126
-  - [S/M / BEIGE](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124443485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTU2LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971127
-    Price: 55,00 € EUR
-  - [L/XL / BEIGE](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124476253)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTU2LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971127
-    Price: 55,00 € EUR
-  - [S/M / BORDEAUX](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124509021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTk0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971126
-    Price: 55,00 € EUR
-  - [L/XL / BORDEAUX](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124541789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTk0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971126
-    Price: 55,00 € EUR
-  - [S/M / BRAUN](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124574557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTcwLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971127
-    Price: 55,00 € EUR
-  - [L/XL / BRAUN](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124607325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MTcwLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971127
-    Price: 55,00 € EUR
-  - [S/M / SCHWARZ](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124640093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MjE3LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971127
-    Price: 55,00 € EUR
-  - [L/XL / SCHWARZ](https://lastradafashion.de/products/zip-hoodie-mit-kapuze?variant=58839124672861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMTEyNS00MDY4MzgyMTU5MjE3LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971127
-    Price: 55,00 € EUR
-- [Rock in A-Linie](https://lastradafashion.de/products/rock-in-a-linie): Klassisch, elegant und wunderbar vielseitig: Der Rock überzeugt mit seiner cleanen A-Linie und einem femininen Schwung bei jedem Schritt. Der minimalistische Look erhält durch den fließenden Stoff eine sanfte Struktur, die für moderne Leichtigkeit sorgt. Dank elastischem Bund bietet der Rock höchsten Tragekomfort, während die kniebedeckende Länge sowohl für Alltag als auch Office-Looks perfekt geeignet ist. Der weich fallende Materialmix sorgt für ein angenehmes Hautgefühl und zuverlässige Formstabilität. Ein unverzichtbares Essential für stilbewusste Kombinationen – Must-have für jede Garderobe. Materialzusammensetzung 49 % Polyester 44 % Viskose 7 % Elasthan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittA-Linie mit elastischem Bund, leicht ausgestellt, WadenlängeFit Guide3MaterialqualitätWeich, elastisch, formstabil mit angenehmer HaptikVerarbeitungGlatter Stoff mit leichtem FallModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:31Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5MzkyLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-  - [S/M / BEIGE](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129260381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5MzkyLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [L/XL / BEIGE](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129293149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5MzkyLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [S/M / BORDEAUX](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129325917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5NDM5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [L/XL / BORDEAUX](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129358685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5NDM5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [S/M / BRAUN](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129391453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5NDE1LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [L/XL / BRAUN](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129424221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5NDE1LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [S/M / SCHWARZ](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129456989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5NDUzLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971194
-    Price: 39,90 € EUR
-  - [L/XL / SCHWARZ](https://lastradafashion.de/products/rock-in-a-linie?variant=58839129489757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE4MC0zMDE4OS00MDY4MzgyMTU5NDUzLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760971194
-    Price: 39,90 € EUR
 - [Weit geschnittene Hose im Schlangenprint](https://lastradafashion.de/products/weit-geschnittene-hose-im-schlangenprint): Diese Hose im markanten Schlangenprint sorgt für einen modischen Auftritt. Mit ihrem hohen Bund und dem weiten Bein schafft sie eine elegante Silhouette, die zugleich lässig und trendbewusst wirkt. Der feste Stoff unterstreicht den klaren Schnitt, während der Animal-Print das Design zu einem echten Statement-Piece macht. Ob einzeln kombiniert oder als kompletter Look mit der passenden Jacke – diese Hose ist ein Highlight in jeder Garderobe. FarbeCREMEMaterialzusammensetzung 99 % Baumwolle 1 % Elastan Pflegehinweis Bei 30 °C waschen (schonend) nicht bleichen nicht bügeln nicht chemisch reinigen im Trockner trocknen HerstellungslandP.R.CPassform und SchnittHigh-Waist, weites Bein, längere, verkürzte Form (7/8-Länge)Fit Guide3MaterialqualitätRobust, formstabil, leicht elastisches MaterialVerarbeitungEingrifftaschen vorn, Gesäßtaschen, hochwertige Knopf- und Reißverschlussverarbeitung, fester Stoff mit SchlangenprintModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:32Z
+  Updated: 2025-12-12T23:15:48Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1209,216 +570,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMC1NQy04MjEwLTQwNjgzODIxNTMwMTctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760974379
     Price: 59,00 € EUR
-- [Cordhose mit weitem Bein](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1): Ein stilvolles Comeback der 70er trifft auf modernen Komfort – diese Cordhose begeistert mit weichem Breitcord und einem entspannten Schnitt mit weitem Bein. Die Kombination aus Retro-Charme und zeitgemäßem Design macht sie zu einem unverzichtbaren Liebling für die kühleren Tage. Dank des elastischen Bundes sitzt die Hose bequem und passt sich ideal an die Silhouette an. Der robuste, strukturierte Cordstoff sorgt für ein luxuriöses Tragegefühl und hält angenehm warm. Ob mit kuscheligem Strickpulli oder schicker Bluse – diese Hose lässt sich vielseitig stylen und verleiht jedem Outfit eine Extraportion Stil. Materialzusammensetzung 95 % Polyester 5 % Elasthan Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittLocker geschnittenes, gerades Bein, elastischer BundFit Guide4MaterialqualitätMittelschweres Material, weich, angenehm elastischVerarbeitungStrukturierter Breitcord, EingrifftaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-07T20:35:01Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MjU4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-  - [S / BORDEAUX](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622484317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MjU4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622517085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MjU4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622549853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MjU4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622582621)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MjU4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622615389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4Mjk2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622648157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4Mjk2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622680925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4Mjk2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622713693)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4Mjk2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [S / CAMEL](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622746461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzMzLWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [M / CAMEL](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622779229)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzMzLWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [L / CAMEL](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622811997)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzMzLWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XL / CAMEL](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622844765)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzMzLWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [S / CREME](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622877533)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzcxLWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [M / CREME](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622910301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzcxLWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [L / CREME](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622943069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzcxLWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XL / CREME](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839622975837)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzcxLWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XS / BORDEAUX](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839623008605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MjU4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XS / BRAUN](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839623041373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4Mjk2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XS / CAMEL](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839623074141)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzMzLWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-  - [XS / CREME](https://lastradafashion.de/products/cordhose-mit-weitem-bein-1?variant=58839623106909)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi1NUDU5RTE2NC00MDY4MzgyMTU4MzcxLWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760974454
-    Price: 49,90 € EUR
-- [Faux-Fur Schal](https://lastradafashion.de/products/faux-fur-schal): Ein Hauch von Luxus für kühle Tage – dieser Faux-Fur Schal ist das ultimative It-Piece für alle, die Stil und Wärme vereinen möchten. Die strukturierte Optik mit changierendem Glanz verleiht dem Schal eine extravagante Note, während das großzügige Format vielseitige Tragevarianten ermöglicht – ob lässig über die Schultern gelegt, kuschelig um den Hals geschlungen oder als Akzent über dem Mantel. Ideal zu cleanen Basics oder als Kontrast zu Leder und Denim – Dieser Eyecatcher bringt Glamour in jedes Winter-Outfit. GrößeOne SizeMaterialzusammensetzung100 % PolyesterPflegehinweis Bei 30 °C waschen nicht bleichen bei niedriger Temperatur bügeln nicht im Trockner trocknen schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittGroßzügiges, längliches Format, vielseitig tragbarFit Guide3MaterialqualitätSehr weich, wärmend, voluminös, formstabilVerarbeitungHochwertiger Kunstpelz mit flauschiger Textur und GlanzeffektModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-08T16:07:04Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyNDExMC1MRDMzNjktNDA2ODM4MjE2MDQ2Ni1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760974494
-  - [BRAUN](https://lastradafashion.de/products/faux-fur-schal?variant=58839626940765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyNDExMC1MRDMzNjktNDA2ODM4MjE2MDQ2Ni1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760974494
-    Price: 49,90 € EUR
-  - [CREME](https://lastradafashion.de/products/faux-fur-schal?variant=58839626973533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyNDExMC1MRDMzNjktNDA2ODM4MjE2MDQ3My1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760974494
-    Price: 49,90 € EUR
-- [Tupfenbluse mit Bindegürtel](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel): Diese Bluse vereint verspielten Charme mit femininer Eleganz – ein stilvolles Highlight für jeden Tag. Der edle Stoff versehen mit einem klassischen Tupfenmuster sorgt für einen zeitlosen, dennoch modernen Look. Der besondere Eyecatcher: ein angenähter Bindegürtel, der die Taille betont und der Figur eine schmeichelhafte Silhouette verleiht. Mit ihrem geraden Schnitt, dem runden Halsausschnitt und den langen Ärmeln wirkt die Bluse zugleich lässig und feminin. Gefertigt aus 100 % Polyester, ist das Material angenehm leicht, pflegeleicht und bietet einen fließenden Fall. Ob im Büro mit Stoffhose oder am Wochenende zu Jeans – dieses Modell ist ein stilvoller Allrounder mit modischem Twist. Materialzusammensetzung100 % PolyesterPflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln schonend chemisch reinigen HerstellungslandItalienPassform und SchnittTaillierte Form durch den Taillengürtel, runder Halsausschnitt, lange ÄrmelFit Guide4MaterialqualitätLeichtes Material, nicht dehnbares Material, blickdichtes MaterialVerarbeitungAllover-Tupfenprint, Satinoptik, Integrierter TaillengürtelModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:33Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTQwLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760975936
-  - [S / BEIGE](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916118365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTQwLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760975936
-    Price: 49,90 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916151133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTQwLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760975936
-    Price: 49,90 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916183901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTQwLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760975936
-    Price: 49,90 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916216669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTcxLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760975936
-    Price: 49,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916249437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTcxLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760975936
-    Price: 49,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916282205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTcxLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760975936
-    Price: 49,90 € EUR
-  - [S / SCHWARZ](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916314973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTE5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760975937
-    Price: 49,90 € EUR
-  - [M / SCHWARZ](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916347741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTE5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760975937
-    Price: 49,90 € EUR
-  - [L / SCHWARZ](https://lastradafashion.de/products/tupfenbluse-mit-bindegurtel?variant=58839916380509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NTY2Mi00MDY4MzgyMTU2OTE5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760975937
-    Price: 49,90 € EUR
-- [Jeansjacke in Raw-Denim-Optik](https://lastradafashion.de/products/jeansjacke-in-raw-denim-optik): Ein zeitloser Allrounder mit modernem Twist: Die Jeansjacke überzeugt mit ihrer dunklen Raw-Denim-Waschung und klassischem Schnitt. Brusttaschen mit Patten, markante Ziernähte und die durchgehende Knopfleiste unterstreichen den authentischen Denim-Look. Die figurbetonte Passform mit leicht taillierter Silhouette sorgt für einen femininen Sitz, ohne einzuengen. Dank des hochwertigen Baumwoll-Mixes mit Stretch-Anteil bietet sie angenehmen Tragekomfort und optimale Bewegungsfreiheit – perfekt für jeden Tag. Ein echtes Must-have, das in keiner Garderobe fehlen darf – lässig, vielseitig, stilvoll! FarbeJEANSBLAUMaterialzusammensetzung 92 % Baumwolle 6 % Polyester 2 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandP.R.CPassform und SchnittKlassisch taillierte Jeansjacken-Passform, lange ÄrmelFit Guide3MaterialqualitätStrapazierfähig, leicht elastisch, formstabilVerarbeitungRobuster Denim in dunkler Waschung mit Kontrastnähten und Knopfdetails, mit BrusttaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:34Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy05ODkzLTQwNjgzODIxNTE0MTktamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760976203
-  - [S / JEANSBLAU](https://lastradafashion.de/products/jeansjacke-in-raw-denim-optik?variant=58839952916829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy05ODkzLTQwNjgzODIxNTE0MTktamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976203
-    Price: 59,00 € EUR
-  - [M / JEANSBLAU](https://lastradafashion.de/products/jeansjacke-in-raw-denim-optik?variant=58839952949597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy05ODkzLTQwNjgzODIxNTE0MTktamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976203
-    Price: 59,00 € EUR
-  - [L / JEANSBLAU](https://lastradafashion.de/products/jeansjacke-in-raw-denim-optik?variant=58839952982365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy05ODkzLTQwNjgzODIxNTE0MTktamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976203
-    Price: 59,00 € EUR
-  - [XL / JEANSBLAU](https://lastradafashion.de/products/jeansjacke-in-raw-denim-optik?variant=58839953015133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy05ODkzLTQwNjgzODIxNTE0MTktamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976203
-    Price: 59,00 € EUR
-  - [XXL / JEANSBLAU](https://lastradafashion.de/products/jeansjacke-in-raw-denim-optik?variant=58839953080669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy05ODkzLTQwNjgzODIxNTE0MTktamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976203
-    Price: 59,00 € EUR
-- [Hoodie mit Animal-Print und Eye-Motiv](https://lastradafashion.de/products/hoodie-mit-animal-print-und-eye-motiv): Dieser Hoodie ist ein echtes Statement-Piece: Der auffällige Animal-Print sorgt für einen extravaganten Look, während das Eye-Motiv in Rosa und Braun auf dem Rücken einen überraschenden Eyecatcher setzt. Mit seiner entspannten Oversize-Passform und der Kapuze vereint er Komfort und Design auf moderne Weise. Ob als Teil des kompletten Sets mit passender Hose oder solo zur Jeans getragen – dieser Hoodie bringt Individualität und Streetstyle-Charme in jedes Outfit. GrößeOne Size
-  Updated: 2025-11-30T23:00:34Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE1NS00MDY4MzgyMTUxNzYxLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976238
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/hoodie-mit-animal-print-und-eye-motiv?variant=58839956914525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE1NS00MDY4MzgyMTUxNzYxLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976238
-    Price: 55,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/hoodie-mit-animal-print-und-eye-motiv?variant=58839956947293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE1NS00MDY4MzgyMTUxNzc4LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976238
-    Price: 55,00 € EUR
-- [Bouclé-Cardigan kurzarm](https://lastradafashion.de/products/boucle-cardigan-kurzarm): Diese kuschelig-weiche Strickjacke verführt mit einem stilvollen Retro-Charme und luxuriösem Komfort. Der leicht kastige, locker fallende Schnitt sorgt für eine moderne Silhouette mit angenehmer Bewegungsfreiheit, während die halblangen Ärmel eine stilvolle Lässigkeit ausstrahlen. Die flauschige Bouclé-Oberfläche verleiht dem Kleidungsstück nicht nur einen außergewöhnlichen Look, sondern auch ein wunderbar weiches Tragegefühl. Ein echtes Must-have für alle, die modische Wärme mit raffiniertem Design verbinden möchten. GrößeOne SizeMaterialzusammensetzung 65 % Acryl 17 % Polyamid 9 % Viskose 9 % Wolle Pflegehinweis Handwäsche nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln (max. 110 °C) HerstellungslandItalienPassform und SchnittLockerer, leicht kastiger Schnitt mit halblangen ÄrmelnFit Guide2MaterialqualitätLeichtes Material, weich, wärmendVerarbeitung5 goldene KnöpfeModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:34Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS03MjgxOS00MDY4MzgyMTU0NzI0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976319
-  - [One Size / BEIGE](https://lastradafashion.de/products/boucle-cardigan-kurzarm?variant=58839960977757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS03MjgxOS00MDY4MzgyMTU0NzI0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976319
-    Price: 45,00 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/boucle-cardigan-kurzarm?variant=58839961010525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS03MjgxOS00MDY4MzgyMTU0NzAwLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976319
-    Price: 45,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/boucle-cardigan-kurzarm?variant=58839961043293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS03MjgxOS00MDY4MzgyMTU0NzE3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976319
-    Price: 45,00 € EUR
-  - [One Size / JEANSBLAU](https://lastradafashion.de/products/boucle-cardigan-kurzarm?variant=58839961076061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS03MjgxOS00MDY4MzgyMTU0NzMxLWplYW5zYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760976319
-    Price: 45,00 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/boucle-cardigan-kurzarm?variant=58839961108829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS03MjgxOS00MDY4MzgyMTU0NzQ4LXJvc2EtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976319
-    Price: 45,00 € EUR
 - [Ärmelloses Etuikleid](https://lastradafashion.de/products/armelloses-etuikleid): Dieses elegante Etuikleid vereint feminine Raffinesse mit klarer Linienführung – perfekt für stilvolle Auftritte, ob bei Events, Dinner-Dates oder besonderen Anlässen. Der ärmellose Schnitt und der klassisch runde Halsausschnitt unterstreichen die puristische Eleganz, während die taillierte Passform die Silhouette charmant umschmeichelt. Kombiniere es mit filigranen Heels und einer Clutch für einen unvergesslichen Auftritt. Ein stilvolles Must-have für anspruchsvolle Mode-Liebhaberinnen. Materialzusammensetzung 95 % Polyester 5 % Elasthan Pflegehinweis 30 °C Schonwaschgang nicht bleichen nicht im Trockner trocknen bügeln bei niedriger Temperatur HerstellungslandItalienPassform und SchnittTaillierter Etui-Schnitt, ärmellos, knieumspielend, RundhalsausschnittFit Guide4MaterialqualitätGlatt, leicht elastisch, angenehm formstabilVerarbeitungSeitliche Drappage, formgebende NähteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:35Z
+  Updated: 2025-12-12T23:16:11Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1455,115 +608,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDAxMi01NTY2NC00MDY4MzgyMTU3NTY1LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976354
     Price: 59,00 € EUR
-- [Feinstrick-Pullover](https://lastradafashion.de/products/feinstrick-pullover): Dieser Pullover ist ein echtes Essential für jede Garderobe. In eleganten Tönen gehalten, bringt er zeitlose Schlichtheit und moderne Leichtigkeit zusammen. Mit seiner weichen Strickqualität sorgt er für Gemütlichkeit und wird schnell zum Lieblingsstück – ob im Alltag oder im Büro. Der klassische Rundhalsausschnitt und die lockere Passform machen ihn besonders vielseitig kombinierbar. Ein Pullover, der Komfort, Stil und Understatement perfekt vereint. GrößeOne SizeMaterialzusammensetzung 27 % Baby Suri Alpaka 38 % Polyamid 22 % Acryl 10 % Wolle 3 % Elasthan Pflegehinweis Handwäsche nicht bleichen nicht im Trockner trocknen liegend trocknen bei niedriger Temperatur bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittGerade, leicht lockere Silhouette, klassischer Rundhalsausschnitt, lange Ärmel mit schmalen BündchenFit Guide2MaterialqualitätBesonders weiches Material, leichtes Material, fein strukturiertes MaterialVerarbeitungHochwertiger Feinstrick, feine, angenehme StrukturModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:36Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC03MDMtNDA2ODM4MjE1ODQxOC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760976410
-  - [One Size / BEIGE](https://lastradafashion.de/products/feinstrick-pullover?variant=58839986569565)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC03MDMtNDA2ODM4MjE1ODQxOC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760976410
-    Price: 49,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/feinstrick-pullover?variant=58839986602333)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC03MDMtNDA2ODM4MjE1ODQzMi1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760976410
-    Price: 49,90 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/feinstrick-pullover?variant=58839986635101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC03MDMtNDA2ODM4MjE1ODQyNS1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760976410
-    Price: 49,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/feinstrick-pullover?variant=58839986667869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC03MDMtNDA2ODM4MjE1ODQ0OS1yb3NhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760976410
-    Price: 49,90 € EUR
-- [Steppmantel mit Kapuze und Kunstfell-Innenfutter](https://lastradafashion.de/products/steppmantel-mit-kapuze-und-kunstfell-innenfutter): Warm eingepackt mit Stil: Dieser lange Steppmantel in sanftem Creme-Ton überzeugt mit kuscheligem Teddy-Innenfutter, das nicht nur wärmt, sondern auch für einen trendigen Kontrast sorgt. Der hohe Kragen mit Kapuze schützt zuverlässig vor Kälte und Wind, während seitliche Reißverschlüsse am Saum Bewegungsfreiheit bieten. Praktische Eingrifftaschen und der durchgehende Reißverschluss machen den Mantel zum funktionalen Lieblingsstück. Ein zeitloses Essential für den Winter, das Komfort, Wärme und moderne Eleganz vereint. FarbeCREMEMaterialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis Bei 30 °C waschen (schonend) nicht bleichen nicht bügeln nicht chemisch reinigen für das Trocknen im Trockner geeignet HerstellungslandChinaPassform und SchnittLanger, gerader Schnitt, mit Kapuze und seitlichen ReißverschlüssenFit Guide3MaterialqualitätGlatte, matte Oberfläche, mittelschweres Material, wärmendVerarbeitungWattierte Steppung, glatte, pflegeleichte OberflächeModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-04T13:02:52Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTExLTQwNjgzODIxNjIzNzgtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976434
-  - [36 / CREME](https://lastradafashion.de/products/steppmantel-mit-kapuze-und-kunstfell-innenfutter?variant=58840009474397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTExLTQwNjgzODIxNjIzNzgtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976434
-    Price: 179,00 € EUR
-  - [38 / CREME](https://lastradafashion.de/products/steppmantel-mit-kapuze-und-kunstfell-innenfutter?variant=58840009507165)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTExLTQwNjgzODIxNjIzNzgtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976434
-    Price: 179,00 € EUR
-  - [40 / CREME](https://lastradafashion.de/products/steppmantel-mit-kapuze-und-kunstfell-innenfutter?variant=58840009539933)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTExLTQwNjgzODIxNjIzNzgtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976434
-    Price: 179,00 € EUR
-  - [42 / CREME](https://lastradafashion.de/products/steppmantel-mit-kapuze-und-kunstfell-innenfutter?variant=58840009572701)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTExLTQwNjgzODIxNjIzNzgtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976434
-    Price: 179,00 € EUR
-  - [44 / CREME](https://lastradafashion.de/products/steppmantel-mit-kapuze-und-kunstfell-innenfutter?variant=58840009605469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTExLTQwNjgzODIxNjIzNzgtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760976434
-    Price: 179,00 € EUR
-- [Oversize-Bluse im Mix aus Leo-Print und Streifen](https://lastradafashion.de/products/oversize-bluse-im-mix-aus-leo-print-und-streifen): Die Bluse vereint zwei Klassiker zu einem Fashion-Statement: wildes Leo-Muster trifft auf elegante Streifen in Hellblau-Weiß. Die kontrastreiche Kombination sorgt für einen modernen Twist und verleiht dem Oversize-Schnitt lässige Coolness. Mit ihrem spitzen Kragen, den Manschetten und der durchgehenden Knopfleiste erinnert sie an klassische Hemdblusen, während der ausdrucksstarke Animal-Print für modische Spannung sorgt. Dank der lockeren Passform bietet die Bluse höchsten Tragekomfort und lässt sich sowohl offen als leichte Jacke als auch geschlossen als Eyecatcher-Bluse stylen. Perfekt zu Denim oder Leder – für einen Look, der Selbstbewusstsein und Trendgespür ausstrahlt. Ein Highlight-Piece für alle, die auffallen möchten! GrößeOne SizeFarbeCAMELMaterialzusammensetzung100 % BaumwollePflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen mit niedriger Temperatur bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittOversize-Schnitt, Spitzkragen, lange Ärmel mit Manschetten, verlängertes RückenteilFit Guide3MaterialqualitätLeichtes Material, weiches Material, formstabilVerarbeitungKontrastknopfleiste, Manschetten, Hemdkragen, Materialmix mit Leo-Print und feinen StreifenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:37Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC0xNTk3NzEwOS00MDY4MzgyMTUzODY0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760976573
-  Price: 59,00 € EUR
-- [Wendbarer Steppmantel mit Kapuze](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze): Zwei Looks in einem: Dieser lange Steppmantel begeistert mit seiner Wendefunktion und lässt sich je nach Outfit oder Stimmung von schlichtem Beige zu elegantem Schwarz wenden. Das wattierte Design sorgt für angenehme Wärme, während die große Kapuze zusätzlichen Schutz bietet. Praktische Seitentaschen und der durchgehende Reißverschluss mit sportivem Zipper runden das funktionale Design ab. Ein vielseitiger Begleiter für kalte Tage, der modische Flexibilität und Komfort in einem vereint – ideal für den Alltag wie auch für den City-Look.
-  Updated: 2025-11-30T23:00:37Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI0MjItc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760977734
-  - [36 / SCHWARZ](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze?variant=58840225939805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI0MjItc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760977734
-    Price: 179,00 € EUR
-  - [38 / SCHWARZ](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze?variant=58840225972573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI0MjItc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760977734
-    Price: 179,00 € EUR
-  - [40 / SCHWARZ](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze?variant=58840226005341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI0MjItc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760977734
-    Price: 179,00 € EUR
-  - [42 / SCHWARZ](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze?variant=58840226038109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI0MjItc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760977734
-    Price: 179,00 € EUR
-  - [44 / SCHWARZ](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze?variant=58840226070877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI0MjItc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760977734
-    Price: 179,00 € EUR
-- [Jeanshose mit weitem Bein](https://lastradafashion.de/products/jeanshose-mit-weitem-bein): Ein Denim-Klassiker in neuem Look: Die Jeanshose setzt auf ein modisches Update mit weitem Beinverlauf und hoher Taille. Der gerade, ausgestellte Schnitt sorgt für eine schmeichelhafte Silhouette und wirkt zugleich lässig und stilbewusst. Mit markanten Nähten, aufgesetzten Taschen vorne und hinten, sowie einem fixierten Saumaufschlag bekommt die Hose ihren modernen, urbanen Charakter. Hergestellt aus einem elastischen Baumwoll-Mix bietet sie den perfekten Mix aus Tragekomfort und Formbeständigkeit – ideal für lange Tage mit viel Bewegung oder stilvolle Alltagslooks. FarbeJEANSBLAUMaterialzusammensetzung 92 % Baumwolle 6 % Polyester 2 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandP.C.RPassform und SchnittWeites Bein (Flared Leg), hoher BundFit Guide3MaterialqualitätLeicht elastisch, formstabil, robustVerarbeitungDoppelnähte, Saum mit Umschlag, klassische Gürtelschlaufen, aufgesetzte Taschen vorne und hintenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-07T15:38:43Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzE2LTQwNjgzODIxNTEyNzMtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978011
-  - [XS / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein?variant=58840239243613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzE2LTQwNjgzODIxNTEyNzMtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978011
-    Price: 59,00 € EUR
-  - [S / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein?variant=58840239276381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzE2LTQwNjgzODIxNTEyNzMtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978011
-    Price: 59,00 € EUR
-  - [M / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein?variant=58840239309149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzE2LTQwNjgzODIxNTEyNzMtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978011
-    Price: 59,00 € EUR
-  - [L / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein?variant=58840239341917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzE2LTQwNjgzODIxNTEyNzMtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978011
-    Price: 59,00 € EUR
-  - [XL / JEANSBLAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein?variant=58840239374685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzE2LTQwNjgzODIxNTEyNzMtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978011
-    Price: 59,00 € EUR
 - [Kurze Jacke im Schlangenprint](https://lastradafashion.de/products/kurze-jacke-im-schlangenprint): Diese kurze Jacke im angesagten Schlangenprint ist ein echtes Statement-Piece. Mit ihrem klassischen Schnitt im Stil einer Jeansjacke und dem auffälligen Muster verbindet sie zeitlose Silhouette mit modernem Animal-Look. Die Jacke ist leicht tailliert, vorne mit Knopfleiste ausgestattet und bietet durch ihre kompakte Länge vielseitige Styling-Möglichkeiten – ob als Akzent zu schlichten Outfits oder als Komplett-Look mit passender Hose. FarbeCREMEMaterialzusammensetzung 98 % Baumwolle 2 % Elastan Pflegehinweis Bei 30 °C waschen (schonend) nicht bleichen nicht bügeln nicht chemisch reinigen im Trockner trocknen HerstellungslandP.R.CPassform und SchnittKurzer, gerader Schnitt, lange, anliegende ÄrmelFit Guide3MaterialqualitätRobust, formstabil, leicht elastisches MaterialVerarbeitungKlassische Knopfleiste vorn, Brusttaschen und seitliche Eingrifftaschen, Ärmel mit ManschettenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:38Z
+  Updated: 2025-12-12T23:16:22Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1592,498 +638,26 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy1NQy05NjI2LTQwNjgzODIxNTI5NjYtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978038
     Price: 69,00 € EUR
-- [Plissee-Midirock mit Tupfenprint](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint): Dieser Midirock bringt Bewegung, Leichtigkeit und femininen Esprit in deinen Look. Das Tupfenmuster wirkt verspielt und zugleich zeitlos – ein Klassiker, der immer passt. Die feine Plissee-Struktur verleiht dem Rock eine wunderschöne Dynamik bei jedem Schritt und sorgt für einen eleganten Schwung. Dank des elastischen Bunds sitzt der Rock angenehm und flexibel in der Taille. Ob mit schlichter Bluse im Office oder mit T-Shirt und Sneakern für den City-Look – dieser Rock ist ein wandelbares Lieblingsstück. Ein Must-have für moderne Romantikerinnen mit Stilgefühl. Materialzusammensetzung100 % PolyesterPflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen mit niedriger Temperatur Bügeln HerstellungslandItalienPassform und SchnittAusgestellter Schnitt, wadenlangFit Guide3MaterialqualitätLeichtes Material, fließendes Material, blickdichtes MaterialVerarbeitungAllover-Tupfenprint, feine Plissee-Falten, GummibundModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:38Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-  - [S / BEIGE](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240718173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240750941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240783709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [XL / BEIGE](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240816477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTIxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240849245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTY5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240882013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTY5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240914781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTY5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240947549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MTY5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [S / SCHWARZ](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840240980317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MjA2LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [M / SCHWARZ](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840241013085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MjA2LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [L / SCHWARZ](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840241045853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MjA2LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978097
-    Price: 59,00 € EUR
-  - [XL / SCHWARZ](https://lastradafashion.de/products/plissee-midirock-mit-tupfenprint?variant=58840241078621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC01NDA1My00MDY4MzgyMTU3MjA2LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978097
-    Price: 59,00 € EUR
-- [Wide-Leg-Hose aus Baumwoll-Stretch](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch): Diese Hose vereint casual Eleganz mit italienischer Raffinesse – perfekt für stilvolle Everyday-Looks. Ihr gerade geschnittener Beinverlauf sorgt für eine moderne Silhouette und schmeichelt jeder Figur. Die aufgesetzten Fronttaschen mit dezentem Retro-Flair setzen subtile Akzente und verleihen dem Modell Struktur. Hinten sorgen paspelierte Taschen für eine cleane Rückansicht. Der weiche Baumwoll-Stretch trägt sich besonders angenehm und macht diese Hose zum komfortablen Allrounder. Ob mit Bluse und Loafern fürs Office oder entspannt mit Sneakern gestylt – diese Hose passt sich deinem Alltag mühelos an. Ein vielseitiges Must-have für alle, die auf Komfort und Stil nicht verzichten möchten. Materialzusammensetzung 95 % Baumwolle 5 % Elasthan Pflegehinweis Maschinenwäsche bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittGerade geschnittenes Bein, normale LeibhöheFit Guide3MaterialqualitätLeicht elastisch, formstabilVerarbeitungDekorative Taschen, klassische GürtelschlaufenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-07T15:38:42Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-  - [S / BEIGE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245535069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245567837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245600605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XL / BEIGE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245633373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XXL / BEIGE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245666141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XS / BRAUN](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245698909)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODg2OS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245731677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODg2OS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245764445)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODg2OS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245797213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODg2OS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245829981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODg2OS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XXL / BRAUN](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245862749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODg2OS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XS / GRAU](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245895517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTA0MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [S / GRAU](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245928285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTA0MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [M / GRAU](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245961053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTA0MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [L / GRAU](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840245993821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTA0MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XL / GRAU](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246026589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTA0MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XXL / GRAU](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246059357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTA0MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XS / KHAKI](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246092125)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODk4Mi1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [S / KHAKI](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246124893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODk4Mi1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [M / KHAKI](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246157661)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODk4Mi1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [L / KHAKI](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246190429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODk4Mi1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XL / KHAKI](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246223197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODk4Mi1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XXL / KHAKI](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246255965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODk4Mi1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XS / MARINE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246288733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTEwMS1tYXJpbmUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [S / MARINE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246321501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTEwMS1tYXJpbmUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [M / MARINE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246354269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTEwMS1tYXJpbmUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [L / MARINE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246387037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTEwMS1tYXJpbmUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XL / MARINE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246419805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTEwMS1tYXJpbmUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XXL / MARINE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246452573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1OTEwMS1tYXJpbmUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978183
-    Price: 59,00 € EUR
-  - [XS / BEIGE](https://lastradafashion.de/products/wide-leg-hose-aus-baumwoll-stretch?variant=58840246485341)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC04MjM2ODYyNDctNDA2ODM4MjE1ODkyMC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978183
-    Price: 59,00 € EUR
-- [Faux Fur Jacke](https://lastradafashion.de/products/faux-fur-jacke): Mit der Faux Fur Jacke wird jeder Winterlook zum stilvollen Statement. Die voluminöse Silhouette und das flauschige Material sorgen für einen Look, der sowohl luxuriös als auch cozy wirkt. Der changierende Effekt der Struktur verleiht der Jacke eine spannende Tiefe – ideal für Fashionistas, die auffallen möchten. Die locker geschnittene Form mit überschnittenen Schultern und großzügigem Schalkragen umhüllt dich wie eine warme Umarmung. Ob über Denim mit Boots oder elegant zu einem Midikleid gestylt – diese Jacke bringt Glanz in graue Tage und hebt deinen Style auf ein neues Level. GrößeOne SizeMaterialzusammensetzung100 % PolyesterPflegehinweis Bei 30 °C waschen nicht bleichen bei niedriger Temperatur bügeln nicht im Trockner trocknen schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittLocker geschnitten mit überschnittener Schulter und weitem SchalkragenFit Guide3MaterialqualitätSehr weich, wärmend, voluminös, formstabilVerarbeitungFlauschiger Kunstpelz, changierender Effekt, vollständig gefüttertModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-03T17:22:20Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxNS1MRDMzNjgtNDA2ODM4MjE2MDIwNi1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978218
-  - [One Size / BRAUN](https://lastradafashion.de/products/faux-fur-jacke?variant=58840253792605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxNS1MRDMzNjgtNDA2ODM4MjE2MDIwNi1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978218
-    Price: 129,00 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/faux-fur-jacke?variant=58840253825373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxNS1MRDMzNjgtNDA2ODM4MjE2MDIxMy1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978218
-    Price: 129,00 € EUR
-- [Cordhose in Knöchelhöhe](https://lastradafashion.de/products/cordhose-in-knochelhohe): Die Hose bringt den Trendstoff Cord stilvoll in deine Garderobe. Mit feiner Rippenstruktur überzeugt sie durch ihre zeitlose Eleganz und die moderne Silhouette. Der gerade Schnitt mit leicht verkürztem Bein sorgt für eine entspannte Passform, während der Bund mit Gürtelschlaufen und Knopfverschluss klassischen Chic verleiht. Seitliche Eingrifftaschen und dezente Gesäßtaschen machen die Hose alltagstauglich und vielseitig kombinierbar. Diese Cordhose passt sich deinem Stil an und bietet einen lässigen, aber gepflegten Look für Büro und Freizeit. Materialzusammensetzung 98 % Polyester 2 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen bei niedriger Temperatur bügeln nicht im Trockner trocknen schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittGerade geschnittenes Bein, leicht verkürzt, mittelhoher BundFit Guide4MaterialqualitätStrukturierter Cord, weiche Oberfläche, robust, leicht elastisches MaterialVerarbeitungHochwertig verarbeitet mit klaren Linien, Bund mit Knopf- und Reißverschluss, seitliche Eingrifftaschen & GesäßtaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-09T21:18:11Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4MzE1MTYuanBn.jpg?v=1760978297
-  - [XS / BORDEAUX](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257921373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4MzE1MTYuanBn.jpg?v=1760978297
-    Price: 59,00 € EUR
-  - [XS / BRAUN](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257954141)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODEzNS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [XS / CAMEL](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257986909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODE3My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [XS / CREME](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840258019677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODIxMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257397085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4MzE1MTYuanBn.jpg?v=1760978297
-    Price: 59,00 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257528157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODEzNS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [S / CAMEL](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257659229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODE3My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [S / CREME](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257790301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODIxMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257429853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4MzE1MTYuanBn.jpg?v=1760978297
-    Price: 59,00 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257560925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODEzNS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [M / CAMEL](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257691997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODE3My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [M / CREME](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257823069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODIxMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257462621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4MzE1MTYuanBn.jpg?v=1760978297
-    Price: 59,00 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257593693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODEzNS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [L / CAMEL](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257724765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODE3My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [L / CREME](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257855837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODIxMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257495389)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4MzE1MTYuanBn.jpg?v=1760978297
-    Price: 59,00 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257626461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODEzNS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [XL / CAMEL](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257757533)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODE3My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-  - [XL / CREME](https://lastradafashion.de/products/cordhose-in-knochelhohe?variant=58840257888605)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODIxMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
-    Price: 59,00 € EUR
-- [Statement-Strickpullover „Look Back“](https://lastradafashion.de/products/statement-strickpullover-look-back): Lässigkeit trifft auf gute Laune: Der grobgestrickte Pullover in warmen Tönen begeistert mit einem verspielten Smiley-Design vorn und einem auffälligen Rückenprint samt Message. Der oversized geschnittene Pullover setzt ein Statement – und das nicht nur modisch, sondern auch emotional. Der weiche Griff und die legere Silhouette mit überschnittenen Schultern machen ihn zum idealen Wohlfühl-Piece für entspannte Casual-Looks. Die kräftige Farbe des Smiley-Motivs bringt einen farblichen Eyecatcher ins Spiel und verleiht deinem Outfit einen jugendlichen, positiven Twist. Ein echtes It-Piece für kreative Fashion-Liebhaberinnen! GrößeOne SizeMaterialzusammensetzung 65 % Polyacryl 17 % Polyamid 9 % Wolle 9 % Viskose Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln sanfte chemische Reinigung möglich liegend trocknen HerstellungslandItalienPassform und SchnittOversized-Schnitt, überschnittene Schultern, klassischer Rundhalsausschnitt, locker fallender RumpfFit Guide3MaterialqualitätWeich, griffig, wärmendes Material, mittelschweres MaterialVerarbeitungGrobstrick mit auffälligem Intarsienmuster (Smiley vorn und hinten)ModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:41Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNTk4LTQwNjgzODIxNTE1MjUtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTQuanBlZw.jpg?v=1760978941
-  - [One Size / BEIGE](https://lastradafashion.de/products/statement-strickpullover-look-back?variant=58840304877917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNTk4LTQwNjgzODIxNTE1MjUtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTQuanBlZw.jpg?v=1760978941
-    Price: 59,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/statement-strickpullover-look-back?variant=58840304910685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNTk4LTQwNjgzODIxNTE1NDktYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978941
-    Price: 59,00 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/statement-strickpullover-look-back?variant=58840304943453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNTk4LTQwNjgzODIxNTE1MzItY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978941
-    Price: 59,00 € EUR
-- [Weit geschnittene Hose mit Animal-Print](https://lastradafashion.de/products/weit-geschnittene-hose-mit-animal-print): Auffällig, modern und gleichzeitig super bequem: Diese Hose im angesagten Animal-Print ist ein echtes Statement-Piece. Der lockere, gerade Schnitt sorgt für Bewegungsfreiheit und ein entspanntes Tragegefühl, während der beige-braune Leoparden-Look dem Outfit einen modischen Hingucker verleiht. Ob als Solo-Piece zu schlichten Basics oder in Kombination mit dem passenden Sweatshirt oder Hoodie – diese Hose bringt sofort trendigen Streetstyle-Charme. GrößeOne SizeMaterialzusammensetzung 80 % Baumwolle 20 % Polyester Pflegehinweis Handwäsche empfohlen bei 30 °C waschen nicht bleichen sanfte chemische Reinigung möglich HerstellungslandItalienPassform und SchnittLockerer, weiter Beinverlauf, mittlere Leibhöhe, gerader SchnittFit Guide2MaterialqualitätWeich, elastisches Material, mittelschweres Material, innen angerautVerarbeitungAllover-Animal-Print in Beige und Braun, seitliche EingrifftaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-02T10:56:38Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MDcxMy00MDY4MzgyMTUxNzQ3LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978973
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/weit-geschnittene-hose-mit-animal-print?variant=58840310186333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MDcxMy00MDY4MzgyMTUxNzQ3LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978973
-    Price: 45,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/weit-geschnittene-hose-mit-animal-print?variant=58840310219101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MDcxMy00MDY4MzgyMTUxNzU0LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760978973
-    Price: 45,00 € EUR
-- [Hemdbluse mit Strass-Applikation](https://lastradafashion.de/products/hemdbluse-mit-strass-applikation): Ein echtes Statement-Piece: Die Hemdbluse zieht mit ihrem auffälligen Eye-Motiv in Gold und Silber garantiert alle Blicke auf sich und ist sowohl auf Vorder-als auch Rückseite kunstvoll platziert. Die fließende Baumwollqualität sorgt für angenehmen Tragekomfort, während der lockere, hinten verlängerte Schnitt eine moderne, lässige Silhouette schafft. Klassische Elemente wie der Hemdkragen und die verdeckte Knopfleiste sorgen für einen stilvollen Ausgleich zur extravaganten Verzierung. Ein Fashion-Highlight für starke Frauen mit Sinn für das Außergewöhnliche – ein Must-have mit Wow-Effekt! GrößeOne SizeMaterialzusammensetzung100 % BaumwollePflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittLocker geschnitten, hinten länger, mit Hemdkragen, verdeckter Knopfleiste und langen Ärmeln mit ManschetteFit Guide3MaterialqualitätGlatt, leicht, angenehm auf der HautVerarbeitungBaumwollwebware mit großflächiger Strass-Applikation im Eye-Motiv vorn und hintenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:42Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC1QMzJBLTQwNjgzODIxNTM5MDEtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760979020
-  - [One Size / BRAUN](https://lastradafashion.de/products/hemdbluse-mit-strass-applikation?variant=58840310710621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC1QMzJBLTQwNjgzODIxNTM5MDEtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760979020
-    Price: 59,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/hemdbluse-mit-strass-applikation?variant=58840310743389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC1QMzJBLTQwNjgzODIxNTM4OTUtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979020
-    Price: 59,00 € EUR
-  - [One Size / WEIß](https://lastradafashion.de/products/hemdbluse-mit-strass-applikation?variant=58840310776157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC1QMzJBLTQwNjgzODIxNTM4ODgtd2Vpc3MtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760979020
-    Price: 59,00 € EUR
-- [Sweatshirt mit Bündchen-Detail](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail): Ein sportiver Klassiker mit modischem Twist – das Sweatshirt bringt frischen Wind in deine Casual-Garderobe. Die relaxte Passform mit Raglanärmeln verleiht dem Design eine lässige Note, die durch den leicht elastischen Bund zusätzlich betont wird. Gefertigt aus einem soften Viskose-Mix bietet dieses Sweatshirt nicht nur Bewegungsfreiheit, sondern auch ein herrlich angenehmes Hautgefühl. Ideal kombinierbar mit der passenden Hose oder Jeans – ob für Travel, Lounge oder City. Dieses Oberteil steht für entspannten Stil mit einem Hauch Glam. Ein lässiges Must-have für moderne Daywear!
-  Updated: 2025-11-30T23:00:42Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTUxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-  - [XL / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312316253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTUxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312349021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTk5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312381789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTk5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312414557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTk5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312447325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTk5LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312480093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NjM2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312512861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NjM2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312545629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NjM2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312578397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NjM2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [S / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312611165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTUxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312643933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTUxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-bundchen-detail?variant=58840312676701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTA4Ni00MDY4MzgyMTU2NTUxLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979071
-    Price: 49,90 € EUR
-- [Bluse in Satin-Optik](https://lastradafashion.de/products/bluse-in-satin-optik): Diese Bluse in Satin-Optik verführt mit ihrer luxuriösen, fließenden Optik und einem Hauch von italienischer Leichtigkeit. Die edlen Farben unterstreichen den seidigen Glanz des Materials und machen dieses Modell zu einem eleganten Statement-Piece. Der zarte Stehkragen mit V-Ausschnitt und feiner Knopfleiste zaubert ein feminines Dekolleté, während der gerade Schnitt eine schmeichelhafte Silhouette formt. Die langen Ärmel sind mit einem Knopf-Detail versehen, sodass sie sich stilvoll krempeln lassen – perfekt für variable Looks. Ein Must-have für anspruchsvolle Looks mit stilvoller Zurückhaltung. Materialzusammensetzung100 % ViskosePflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittLocker fallender Schnitt mit femininer Linienführung, V-AusschnittFit Guide3MaterialqualitätGlatt, fließend, unelastischVerarbeitungGlänzende Oberfläche mit Knopfleiste und StehkragenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:43Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzYwMi1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-  - [S / BORDEAUX](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318607709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzYwMi1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318640477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzYwMi1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318673245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzYwMi1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318706013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzYwMi1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318738781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY0MC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318771549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY0MC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318804317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY0MC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318837085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY0MC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [S / CREME](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318869853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzcyNS1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [M / CREME](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318902621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzcyNS1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [L / CREME](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318935389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzcyNS1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [XL / CREME](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840318968157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzcyNS1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [S / TAUPE](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840319000925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY4OC10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [M / TAUPE](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840319033693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY4OC10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [L / TAUPE](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840319066461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY4OC10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-  - [XL / TAUPE](https://lastradafashion.de/products/bluse-in-satin-optik?variant=58840319099229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01NDUxOTEtNDA2ODM4MjE1NzY4OC10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979140
-    Price: 49,90 € EUR
-- [Blousonjacke](https://lastradafashion.de/products/blousonjacke): Diese edle Blousonjacke bringt femininen Glanz in deine Garderobe – ein stilvolles Statement-Piece mit lässigem Twist. Der klassische Frontreißverschluss und die aufgesetzten Pattentaschen sorgen für urbane Coolness. Die locker geschnittenen Ärmel und der elastische Saum sorgen für eine moderne, entspannte Passform mit modischem Volumen. Gefertigt aus einem hochwertigen Viskose-Polyester-Mix, fühlt sich die Jacke angenehm glatt auf der Haut an und überzeugt mit fließendem Fall. Ideal als Eyecatcher über Jeans, Kleid oder Jumpsuit – ob für den Alltag oder als stilvolles Finish für Abend-Looks. Diese Jacke ist ein echtes Fashion-Statement mit Must-have-Potenzial. GrößeOne SizeMaterial 65 % Viskose 35 % Polyester Pflegehinweis Schonwaschgang bis 30 °C nicht bleichen nicht im Trockner trocknen Bügeln bei niedriger Temperatur nicht chemisch reinigen HerstellungslandItalienPassform und SchnittLocker geschnitten, Elastischer Saum, Lange Ärmel, Rundhalsausschnitt, Voluminöse ÄrmelFit Guide2MaterialqualitätGlatt, mittelschweres Material, festes MaterialVerarbeitungReißverschluss, Pattentaschen, integrierte seitliche TaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:43Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC0xNzAtNDA2ODM4MjE1MTg5MS1iZWlnZS0yNTAweDE4NzVweC1iZ2ItNC5qcGVn.jpg?v=1760979838
-  - [One Size / BEIGE](https://lastradafashion.de/products/blousonjacke?variant=58840472322397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC0xNzAtNDA2ODM4MjE1MTg5MS1iZWlnZS0yNTAweDE4NzVweC1iZ2ItNC5qcGVn.jpg?v=1760979838
-    Price: 75,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/blousonjacke?variant=58840472355165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC0xNzAtNDA2ODM4MjE1MTg4NC1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979838
-    Price: 75,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/blousonjacke?variant=58840472387933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC0xNzAtNDA2ODM4MjE1MTkwNy1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979838
-    Price: 75,00 € EUR
 - [Bluse mit verdeckter Knopfleiste](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1): Zeitlose Eleganz trifft auf lässige Raffinesse – diese Bluse überzeugt mit klarer Linienführung und hochwertigen Details. Die verdeckte Knopfleiste sorgt für eine cleane Front, während der klassische Hemdkragen dem Look Struktur verleiht. Besonders raffiniert zeigt sich der Schnitt: Der abgerundete, hinten verlängerte Saum umspielt locker die Hüfte und sorgt für eine moderne, feminine Silhouette – perfekt auch zum Layern. Ob im Office mit Stoffhose oder casual zu Jeans – diese Bluse ist ein wandelbares Essential für stilbewusste Looks. Ein echtes Must-have für jede Saison. GrößeOne Size
-  Updated: 2025-12-08T12:26:22Z
+  Updated: 2025-12-12T23:17:31Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjU4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
   - [One Size / BEIGE](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480350557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjU4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
   - [One Size / BORDEAUX](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480383325)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjM0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480416093)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjY1LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
   - [One Size / HELLBLAU](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480448861)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjEwLWhlbGxibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
   - [One Size / MARINE](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480481629)
@@ -2094,34 +668,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjI3LXdlaXNzLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
-- [Straight-Leg Jeans mit Strass-Applikationen](https://lastradafashion.de/products/straight-leg-jeans-mit-strass-applikationen): Diese Straight-Leg Jeans ist ein echter Blickfang für modebewusste Frauen, die das Besondere lieben. Das dunkelblaue Denim wird durch ein edles Allover-Glitzer-Finish veredelt, das dezent funkelt und jedem Outfit einen Hauch Glamour verleiht. Der gerade Schnitt sorgt für eine moderne, entspannte Passform und zaubert dabei eine feminine Silhouette. Klassische Elemente wie das 5-Pocket-Design und ein mittelhoher Bund runden das Design stilvoll ab. Ob lässig mit Sneakern und Oversize-Shirt oder edel kombiniert mit Blazer und Heels – diese Jeans lässt sich vielseitig stylen. FarbeJEANSBLAUMaterialzusammensetzung 70 % Baumwolle 29 % Lyocell 1 % Elasthan Pflegehinweis Waschen bei 30 °C nicht bleichen nicht im Trockner trocknen nicht chemisch reinigen bei niedriger Temperatur bügeln HerstellungslandP.R.C.Passform und SchnittGerader Schnitt, Klassischer Sitz auf mittlerer HöheFit Guide3MaterialqualitätWeich, leicht elastisch, angenehm auf der HautVerarbeitungStrassstein Applikation vorne, 5-Pocket- DesignModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:44Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc4LTQwNjgzODIxNTEzMjctamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979959
-  - [XS / JEANSBLAU](https://lastradafashion.de/products/straight-leg-jeans-mit-strass-applikationen?variant=58840493949277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc4LTQwNjgzODIxNTEzMjctamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979959
-    Price: 69,00 € EUR
-  - [S / JEANSBLAU](https://lastradafashion.de/products/straight-leg-jeans-mit-strass-applikationen?variant=58840493982045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc4LTQwNjgzODIxNTEzMjctamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979959
-    Price: 69,00 € EUR
-  - [M / JEANSBLAU](https://lastradafashion.de/products/straight-leg-jeans-mit-strass-applikationen?variant=58840494014813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc4LTQwNjgzODIxNTEzMjctamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979959
-    Price: 69,00 € EUR
-  - [L / JEANSBLAU](https://lastradafashion.de/products/straight-leg-jeans-mit-strass-applikationen?variant=58840494047581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc4LTQwNjgzODIxNTEzMjctamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979959
-    Price: 69,00 € EUR
-  - [XL / JEANSBLAU](https://lastradafashion.de/products/straight-leg-jeans-mit-strass-applikationen?variant=58840494080349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc4LTQwNjgzODIxNTEzMjctamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979959
-    Price: 69,00 € EUR
 - [Strickjacke im Colorblock-Design](https://lastradafashion.de/products/strickjacke-im-colorblock-design): Diese Strickjacke bringt Farbe und Struktur in deinen Look – ein modernes Statement aus kuscheligem Grobstrick. Mit ihrem markanten Colorblock-Design schafft sie eine perfekte Balance zwischen Retro-Charme und zeitgemäßem Stil. Der lässige, leicht verkürzte Schnitt und die voluminösen Ballonärmel mit schmalem Bündchen sorgen für eine modische Silhouette mit Wohlfühlfaktor. Offen getragen umspielt sie den Körper und verleiht jedem Outfit eine entspannte Leichtigkeit. Die hochwertige Materialmischung mit Wolle und Viskose garantiert ein angenehm weiches Tragegefühl – ideal für kühle Tage. Ob über einem Kleid oder zur High-Waist-Jeans kombiniert – diese Strickjacke ist das Key-Piece für deinen kuscheligen Herbst-Look. Ein absolutes Must-have mit Charakter. GrößeOne Size
-  Updated: 2025-12-11T14:10:05Z
+  Updated: 2025-12-12T23:17:36Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2131,101 +679,25 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3My00MDY4MzgyMTUxNDk1LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980010
     Price: 55,00 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/strickjacke-im-colorblock-design?variant=58840501977437)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3My00MDY4MzgyMTUxNTAxLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980010
     Price: 55,00 € EUR
   - [One Size / HELLBLAU](https://lastradafashion.de/products/strickjacke-im-colorblock-design?variant=58840502010205)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3My00MDY4MzgyMTUxNTE4LWhlbGxibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980010
     Price: 55,00 € EUR
-- [Statement-Sweatshirt](https://lastradafashion.de/products/statement-sweatshirt): Ein echtes Feel-Good-Piece für alle, die Mode mit Message lieben: Dieses Sweatshirt begeistert mit stylischem Statement-Print – "HAPPY TO BE HERE" und "JUST HAPPY" bringen gute Laune in deinen Look. Der klassische, gerade Schnitt mit Rundhalsausschnitt und Bündchen an Saum und Ärmeln sorgt für eine bequeme Passform und einen sportlich-lässigen Stil. Die plakative Typografie in Kombination mit den fröhlichen Smileys macht dieses Modell zu einem echten Eyecatcher und unterstreicht deinen persönlichen, positiven Style. Ob zur Jogpants, Mom-Jeans oder über einem Plisseerock – dieses Sweatshirt versprüht Lebensfreude pur und ist ein modisches Must-have für alle, die Farbe bekennen wollen. GrößeOne Size
-  Updated: 2025-11-30T23:00:45Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTA5MC00MDY4MzgyMTUxNjI0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760980059
-  - [One Size / BEIGE](https://lastradafashion.de/products/statement-sweatshirt?variant=58840507875677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTA5MC00MDY4MzgyMTUxNjI0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760980059
-    Price: 59,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/statement-sweatshirt?variant=58840507908445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTA5MC00MDY4MzgyMTUxNjMxLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980059
-    Price: 59,00 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/statement-sweatshirt?variant=58840507941213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTA5MC00MDY4MzgyMTUxNjQ4LXJvc2EtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980059
-    Price: 59,00 € EUR
-- [Sweatshirt mit Smiley Applikation](https://lastradafashion.de/products/sweatshirt-mit-smiley-applikation): Dieses Sweatshirt bringt nicht nur Farbe, sondern auch positive Energie in deinen Look. Das Highlight: ein lässiger Patch mit Smiley und dem Statement „LOVE RULES“, der dem Design eine verspielte, trendige Note verleiht. Der klassische Rundhalsausschnitt, die breiten Bündchen und die bequeme, leicht kastige Silhouette machen das Sweatshirt zum idealen Alltagsbegleiter mit urbanem Appeal. Die hochwertige Baumwollmischung fühlt sich angenehm weich auf der Haut an, bleibt formstabil und sorgt für optimalen Tragekomfort. Ob casual mit Jeans oder sportlich zu Jogpants – dieses Piece setzt ein klares Zeichen für gute Laune und Stil. Ein lässiges Must-have für moderne Streetstyle-Looks mit Message. GrößeOne Size
-  Updated: 2025-11-30T23:00:46Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MS00MDY4MzgyMTUxNjYyLWdydWVuLTI1MDB4MTg3NXB4LWJnYi00LmpwZw.jpg?v=1760980113
-  - [One Size / GRAU](https://lastradafashion.de/products/sweatshirt-mit-smiley-applikation?variant=58840513413469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MS00MDY4MzgyMTUxNjU1LWdyYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980113
-    Price: 39,90 € EUR
-  - [One Size / GRÜN](https://lastradafashion.de/products/sweatshirt-mit-smiley-applikation?variant=58840513446237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MS00MDY4MzgyMTUxNjYyLWdydWVuLTI1MDB4MTg3NXB4LWJnYi00LmpwZw.jpg?v=1760980113
-    Price: 39,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/sweatshirt-mit-smiley-applikation?variant=58840513479005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MS00MDY4MzgyMTUxNjc5LXJvc2EtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980113
-    Price: 39,90 € EUR
-- [Oversized Hoodie „Love“](https://lastradafashion.de/products/oversized-hoodie-love): Statement-Piece mit Wohlfühlgarantie: Der Oversized Hoodie „Love“ bringt mit seinen Farbkombinationen gute Laune in deinen Alltag. Das auffällige „LOVE“-Patch auf der Brust sorgt für einen spielerischen Touch, während die legere Passform und die angesetzte Kapuze den klassischen Hoodie-Charakter bewahren. Die weiche Sweatware macht ihn zum idealen Begleiter für entspannte Tage, Reisen oder stylishe Streetstyle-Looks. Ob zu Denim, Leggings oder Rock – dieser Hoodie ist ein echtes Lieblingsstück mit modischem Augenzwinkern. GrößeOne Size
-  Updated: 2025-11-30T23:00:46Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE3OS00MDY4MzgyMTUxNzIzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980158
-  - [One Size / BRAUN](https://lastradafashion.de/products/oversized-hoodie-love?variant=58840523735389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE3OS00MDY4MzgyMTUxNzIzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980158
-    Price: 45,00 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/oversized-hoodie-love?variant=58840523768157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE3OS00MDY4MzgyMTUxNzE2LWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980158
-    Price: 45,00 € EUR
-  - [One Size / GRÜN](https://lastradafashion.de/products/oversized-hoodie-love?variant=58840523800925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE3OS00MDY4MzgyMTUxNzMwLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980159
-    Price: 45,00 € EUR
-- [Sweat-Hose Wide-Leg](https://lastradafashion.de/products/sweat-hose-wide-leg): Diese Wide-Leg-Hose vereint höchsten Tragekomfort mit stilvoller Lässigkeit – perfekt für entspannte Alltagslooks mit modischem Anspruch. Der breite, fließende Beinverlauf schmeichelt der Figur und sorgt für eine moderne Silhouette, während der elastische Bund ein unkompliziertes Anziehen und bequemes Tragen garantiert. Dank der soften Baumwollmischung fühlt sich das Material angenehm weich auf der Haut an und bleibt dabei formstabil und pflegeleicht. Ob lässig mit Sweatshirt und Sneakers oder elegant mit Bluse und Loafern – diese Hose passt sich deinem Stil mühelos an. Ein vielseitiges Must-have für alle, die Komfort und Stil harmonisch vereinen möchten. GrößeOne SizeMaterialzusammensetzung 80 % Baumwolle 20 % Polyester Pflegehinweis 30 °C Pflegeleicht nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittWeit geschnittenes Bein, elastischer Bund, High-WaistFit Guide3MaterialqualitätWeiches Material, leicht elastisches MaterialVerarbeitungEingrifftaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:46Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MTEyMS1TLTQwNjgzODIxNTE4MDgtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980217
-  - [One Size / BEIGE](https://lastradafashion.de/products/sweat-hose-wide-leg?variant=58840524325213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MTEyMS1TLTQwNjgzODIxNTE4MDgtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980217
-    Price: 49,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/sweat-hose-wide-leg?variant=58840524357981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MTEyMS1TLTQwNjgzODIxNTE4MjItYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980217
-    Price: 49,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/sweat-hose-wide-leg?variant=58840524390749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MTEyMS1TLTQwNjgzODIxNTE4MTUtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980217
-    Price: 49,90 € EUR
-  - [One Size / GRÜN](https://lastradafashion.de/products/sweat-hose-wide-leg?variant=58840524423517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MTEyMS1TLTQwNjgzODIxNTE4MzktZ3J1ZW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980217
-    Price: 49,90 € EUR
 - [Wide-Leg Hose mit Glitzerbund](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund): Schlicht, edel und komfortabel – diese Hose begeistert mit einer fließenden Silhouette und einem modernen Wide-Leg-Cut. Dank des elastischen Bunds mit kontrastierendem Streifen in Dunkelbraun und Gold sitzt sie angenehm auf der Taille und bietet gleichzeitig stilvolle Akzente. Die weite Beinform streckt optisch und sorgt für ein luftiges Tragegefühl – ideal für entspannte Looks mit modischer Wirkung. Kombiniert mit dem passenden Oberteil ergibt sich ein harmonischer Two-Piece-Look. Ein echtes Must-have für moderne Casual-Wear mit Klasse. Materialzusammensetzung 60 % Viskose 35 % Nylon 5 % Elasthan Pflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln sanfte chemische Reinigung möglich HerstellungslandItalienPassform und SchnittHohe Leibhöhe mit elastischem Bund, weites BeinFit Guide3MaterialqualitätWeich, leicht elastisch, angenehm fließendVerarbeitungUnifarbener Stoff, elastischer Taillenbund mit Streifen in Dunkelbraun und GoldModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-03T11:12:02Z
+  Updated: 2025-12-12T23:17:52Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2Njc0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
   - [S / BEIGE](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840525996381)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2Njc0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [M / BEIGE](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526029149)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2Njc0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [L / BEIGE](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526061917)
@@ -2233,11 +705,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2Njc0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [XL / BEIGE](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526094685)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2Njc0LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [S / BORDEAUX](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526127453)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzExLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [M / BORDEAUX](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526160221)
@@ -2245,23 +717,23 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzExLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [L / BORDEAUX](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526192989)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzExLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [XL / BORDEAUX](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526225757)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzExLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [S / BRAUN](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526258525)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzU5LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [M / BRAUN](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526291293)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzU5LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [L / BRAUN](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526324061)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzU5LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
   - [XL / BRAUN](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund?variant=58840526356829)
@@ -2269,13 +741,13 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01NTEzNS00MDY4MzgyMTU2NzU5LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980272
     Price: 45,00 € EUR
 - [Longsleeve mit weitem Rundhalsausschnitt](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt): Natürlich, modern und herrlich unkompliziert – das Longsleeve bringt frischen Wind in deine Casual-Garderobe. Mit seinem geraden, locker fallenden Schnitt und den überschnittenen Schultern bietet das Shirt maximalen Komfort und einen entspannten Look. Der leicht abgerundete Saum und der feine Rundhalsausschnitt unterstreichen die moderne Leichtigkeit dieses vielseitigen Begleiters. Das Longsleeve lässt sich perfekt zu Denim, Leinen oder Strick kombinieren. Ein echtes Must-have! GrößeOne SizeMaterialzusammensetzung 97 % Baumwolle 3 % Elastan HerstellungslandItalienPassform und SchnittLocker geschnitten mit überschnittenen Schultern, gerader, leicht kastiger SchnittFit Guide2MaterialqualitätWeich, leichtes Material, elastisches MaterialVerarbeitungUnifarben, dezente NahtdetailsModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-06T09:27:54Z
+  Updated: 2025-12-12T23:17:56Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODAwLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZw.jpg?v=1760980363
   - [One Size / BEIGE](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529600861)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODAwLWJlaWdlLTI1MDB4MTg3NXB4LWJnYi00LmpwZw.jpg?v=1760980363
     Price: 19,90 € EUR
   - [One Size / BORDEAUX](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529633629)
@@ -2283,7 +755,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODI0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980363
     Price: 19,90 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529666397)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODE3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980363
     Price: 19,90 € EUR
   - [One Size / CREME](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529699165)
@@ -2291,719 +763,42 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODYyLWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980363
     Price: 19,90 € EUR
   - [One Size / JEANSBLAU](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529731933)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODQ4LWplYW5zYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760980363
     Price: 19,90 € EUR
   - [One Size / KHAKI](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529764701)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODU1LWtoYWtpLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980363
     Price: 19,90 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/longsleeve-mit-weitem-rundhalsausschnitt?variant=58840529797469)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODMxLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980363
     Price: 19,90 € EUR
-- [Feinstrick-Weste mit Knöpfen](https://lastradafashion.de/products/feinstrick-weste-mit-knopfen): Diese Strick-Weste ist die perfekte Mischung aus Lässigkeit und Eleganz. Sie überzeugt mit einem modernen, kastigen Schnitt und einer femininen Knopfleiste. Die kurze, weite Silhouette sorgt für Bewegungsfreiheit und ein entspanntes Tragegefühl, während der V-Ausschnitt die Silhouette schmeichelhaft streckt. Dieses vielseitige Piece kann solo getragen werden oder als Layering-Highlight über Shirts und Blusen zum Einsatz kommen. GrößeOne SizeMaterialzusammensetzung 27 % Baby Alpaka 22 % Acryl 10 % Wolle 38 % Polyamid 3 % Elastan Pflegehinweis Handwäsche nicht bleichen nicht im Trockner trocknen nicht heiß bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittFällt locker und weit aus, kurzer, kastiger Schnitt, V-Ausschnitt mit durchgehender Knopfleiste, Ärmel in überschnittener SchulterpartieFit Guide2MaterialqualitätWeiche, leicht strukturierte Oberfläche, leichtes Material, elastisches MaterialVerarbeitungFeinstrick mit edler Perlmutt KnopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-11T13:41:47Z
+- [Tüllrock mit Satinband](https://lastradafashion.de/products/tullrock-mit-satinband): Wild, feminin und voller Dynamik – der Tüllrock bringt aufregende Eleganz in deinen Kleiderschrank. Der weich fallende Tüll verleiht dem Rock eine herrlich luftige Silhouette, während der elastische Bund mit schimmerndem Satinband charmant die Taille betont und gleichzeitig höchsten Tragekomfort garantiert. Die Midilänge schwingt bei jeder Bewegung leicht mit und verleiht deinem Look eine moderne Leichtigkeit. Ob als Stilbruch mit Chunky Boots und Longsleeve oder edel mit Seidenbluse und Heels – dieser Rock lässt sich vielseitig kombinieren und ist dabei immer ein Eyecatcher. GrößeOne SizeMaterialzusammensetzung 90 % Polyester 10 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln milde chemische Reinigung möglich HerstellungslandP.R.CPassform und SchnittMidilanger, weit schwingender Schnitt mit elastischem BundFit Guide2MaterialqualitätLeichtes Material, halbtransparent, formstabilVerarbeitungTüllrock, transparenter Mesh-Überrock, blickdichtes Futter, Satinband am BundModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
+  Updated: 2025-12-13T16:26:12Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0yMTUwNS00MDY4MzgyMTU4NTE3LWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980414
-  - [One Size / CREME](https://lastradafashion.de/products/feinstrick-weste-mit-knopfen?variant=58840545165661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0yMTUwNS00MDY4MzgyMTU4NTE3LWNyZW1lLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980414
-    Price: 55,00 € EUR
-  - [One Size / HELLGRAU](https://lastradafashion.de/products/feinstrick-weste-mit-knopfen?variant=58840545198429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0yMTUwNS00MDY4MzgyMTU4NTI0LWhlbGxncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980414
-    Price: 55,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/feinstrick-weste-mit-knopfen?variant=58840545231197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0yMTUwNS00MDY4MzgyMTU4NTMxLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980414
-    Price: 55,00 € EUR
-- [Kurzarm-Strickcardigan](https://lastradafashion.de/products/kurzarm-strickcardigan): Luftig, feminin und charmant – dieser Strickcardigan bringt frische Leichtigkeit in deinen Look. Mit seinem tiefen V-Ausschnitt und den halblangen Ärmeln verleiht er jedem Outfit eine sommerlich-sanfte Note. Die feine, leicht flauschige Struktur schmeichelt der Haut und sorgt für ein angenehmes Tragegefühl – perfekt für den Übergang oder kühle Sommerabende. Perlmuttfarbene Knöpfe unterstreichen die edle Optik und setzen dezente Akzente. Ob zu Jeans, Midirock oder Stoffhose – der Cardigan lässt sich vielseitig kombinieren und sorgt stets für einen stilvollen Auftritt. GrößeOne Size
-  Updated: 2025-11-30T23:00:48Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTktNDA2ODM4MjE1ODU4Ni1iZWlnZS0yNTAweDE4NzVweC1iZ2ItNC5qcGVn.jpg?v=1760980473
-  - [One Size / BEIGE](https://lastradafashion.de/products/kurzarm-strickcardigan?variant=58840549622109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTktNDA2ODM4MjE1ODU4Ni1iZWlnZS0yNTAweDE4NzVweC1iZ2ItNC5qcGVn.jpg?v=1760980473
-    Price: 55,00 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/kurzarm-strickcardigan?variant=58840549654877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTktNDA2ODM4MjE1ODYxNi1oZWxsYmxhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760980473
-    Price: 55,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/kurzarm-strickcardigan?variant=58840549687645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTktNDA2ODM4MjE1ODU5My1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760980474
-    Price: 55,00 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/kurzarm-strickcardigan?variant=58840549720413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTktNDA2ODM4MjE1ODYwOS1yb3NhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980474
-    Price: 55,00 € EUR
-- [Mantel in Wolloptik](https://lastradafashion.de/products/mantel-in-wolloptik): Dieser Mantel in edler Wolloptik vereint Wohlfühlcharakter und zeitlose Eleganz. Die softe, strukturierte Oberfläche verleiht ihm eine moderne Note, während der klassische Reverskragen und die doppelreihige Knopfleiste für einen stilvollen Auftritt sorgen. Dank des geraden Schnitts und der mittleren Länge bietet er hohen Tragekomfort und schmeichelt gleichzeitig der Silhouette. Seitliche Eingrifftaschen unterstreichen die Alltagstauglichkeit, ohne den femininen Chic zu mindern. Ein kuscheliger Begleiter, der jedem Winter-Look eine luxuriöse Leichtigkeit verleiht. FarbeCREMEMaterialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis Nicht waschen nicht bleichen nicht bügeln sanfte chemische Reinigung möglich nur trocken reinigen HerstellungslandChinaPassform und SchnittGerader, entspannter Schnitt, mittellang, bis zum Knie, ReverskragenFit Guide4MaterialqualitätWollähnlich, weiches Material, strukturiert, mittelschweres Material, robustVerarbeitungWeiche Wolloptik, Eingrifftaschen, doppelreihige Knopfleiste, beidseitsModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:48Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS03MDAyNTEyLTQwNjgzODIxNjI0NzctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980501
-  - [34 / CREME](https://lastradafashion.de/products/mantel-in-wolloptik?variant=58840551784797)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS03MDAyNTEyLTQwNjgzODIxNjI0NzctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980501
-    Price: 159,00 € EUR
-  - [36 / CREME](https://lastradafashion.de/products/mantel-in-wolloptik?variant=58840551817565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS03MDAyNTEyLTQwNjgzODIxNjI0NzctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980501
-    Price: 159,00 € EUR
-  - [38 / CREME](https://lastradafashion.de/products/mantel-in-wolloptik?variant=58840551850333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS03MDAyNTEyLTQwNjgzODIxNjI0NzctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980501
-    Price: 159,00 € EUR
-  - [40 / CREME](https://lastradafashion.de/products/mantel-in-wolloptik?variant=58840551883101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS03MDAyNTEyLTQwNjgzODIxNjI0NzctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980501
-    Price: 159,00 € EUR
-  - [42 / CREME](https://lastradafashion.de/products/mantel-in-wolloptik?variant=58840551915869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS03MDAyNTEyLTQwNjgzODIxNjI0NzctY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980501
-    Price: 159,00 € EUR
-- [Steppmantel mit Kapuze](https://lastradafashion.de/products/steppmantel-mit-kapuze-2): Ein Mantel, der Wärme, Komfort und modernen Chic perfekt vereint: Dieser wattierte Steppmantel ist der ideale Begleiter für kalte Tage. Der lange Schnitt schenkt zusätzlichen Schutz und eine elegante Silhouette, während die großzügige Kapuze für wohlige Geborgenheit sorgt. Praktische Seitentaschen unterstreichen die Alltagstauglichkeit, während seitliche Reißverschlüsse für mehr Bewegungsfreiheit und einen modischen Twist sorgen. Ob lässig zu Denim und Boots oder stilvoll über Strickkleidern getragen – dieser Mantel ergänzt jede Wintergarderobe mit zeitloser Klasse. Ein unverzichtbares Must-have für alle, die Wert auf Style und Funktion legen. FarbeBRAUNMaterialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandChinaPassform und SchnittLanger, gerader Schnitt mit leichter WeiteFit Guide3MaterialqualitätGlatte, matte Oberfläche, mittelschweres Material,VerarbeitungWattiertes Stepp-Design, seitliche Reißverschlüsse für BewegungsfreiheitModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:48Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI2MzctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980525
-  - [36 / BRAUN](https://lastradafashion.de/products/steppmantel-mit-kapuze-2?variant=58840552407389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI2MzctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980525
-    Price: 179,00 € EUR
-  - [38 / BRAUN](https://lastradafashion.de/products/steppmantel-mit-kapuze-2?variant=58840552440157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI2MzctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980525
-    Price: 179,00 € EUR
-  - [40 / BRAUN](https://lastradafashion.de/products/steppmantel-mit-kapuze-2?variant=58840552472925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI2MzctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980525
-    Price: 179,00 € EUR
-  - [42 / BRAUN](https://lastradafashion.de/products/steppmantel-mit-kapuze-2?variant=58840552505693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI2MzctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980525
-    Price: 179,00 € EUR
-  - [44 / BRAUN](https://lastradafashion.de/products/steppmantel-mit-kapuze-2?variant=58840552538461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxMC03MDAyNTEyLTQwNjgzODIxNjI2MzctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980525
-    Price: 179,00 € EUR
-- [Sweatshirt mit Animal-Print](https://lastradafashion.de/products/sweatshirt-mit-animal-print): Dieses Sweatshirt bringt lässigen Komfort und auffälliges Design zusammen. Der Animal-Print verleiht dem legeren Schnitt einen trendigen Twist. Mit Rundhalsausschnitt, breiten Bündchen und lockerer Passform ist es ein unkompliziertes Lieblingsstück für entspannte Alltagslooks oder als Teil eines kompletten Statement-Sets. Ob solo getragen zu Jeans oder kombiniert mit der passenden Hose – dieses Sweatshirt sorgt garantiert für einen modernen Auftritt. GrößeOne Size
-  Updated: 2025-11-30T23:00:49Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE2My00MDY4MzgyMTUxNzkyLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760980740
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-animal-print?variant=58840556503389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE2My00MDY4MzgyMTUxNzg1LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980740
-    Price: 45,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-animal-print?variant=58840556536157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE2My00MDY4MzgyMTUxNzkyLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760980740
-    Price: 45,00 € EUR
-- [Oversize-Bluse mit modischen Schmuckdetails](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails-1): Diese elegante Oversize-Bluse vereint lässige Silhouette mit raffiniertem Design. Der wahre Blickfang: Die auffälligen Schmuckknöpfe in Form von Lippenstift, Parfumflakon und goldener Ziffer – ein verspieltes Statement mit modischem Augenzwinkern. Der lockere Schnitt mit überschnittener Schulterpartie und die leicht ausgestellte Form sorgen für einen fließenden Fall und höchsten Tragekomfort. Klassische Elemente wie der Hemdkragen und die langen Manschettenärmel setzen stilvolle Kontraste zur femininen Leichtigkeit. Das Modell ist vielseitig kombinierbar – ob zur schmalen Jeans, Culotte oder eleganten Stoffhose – und verleiht jedem Outfit einen Hauch von Individualität. Eine Bluse, die mit Charme und Stilbewusstsein begeistert – ein echtes Must-have für Fashion-Liebhaberinnen. GrößeOne SizeMaterialzusammensetzung100 % BaumwollePflegehinweis 30 °C Pflegeleicht nicht bleichen nicht im Trockner trocknen mäßig heiß bügeln keine chemische Reinigung HerstellungslandItalienPassform und SchnittLockerer, oversize-inspirierter Schnitt mit gerundetem Saum, versteckte KnopfleisteFit Guide3MaterialqualitätWeich, leicht dehnbar, blickdicht, formstabilVerarbeitungUnifarbene, fließende Webstruktur mit dekorativen Schmuckknöpfen und versteckter KnopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:49Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwMTk5LTQwNjgzODIxNTM5NjMtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTQuanBn.jpg?v=1760980790
-  - [One Size / BEIGE](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails-1?variant=58840557158749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwMTk5LTQwNjgzODIxNTM5NjMtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTQuanBn.jpg?v=1760980790
-    Price: 49,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails-1?variant=58840557191517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwMTk5LTQwNjgzODIxNTM5OTQtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980790
-    Price: 49,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails-1?variant=58840557224285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwMTk5LTQwNjgzODIxNTM5ODctaGVsbGJsYXUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980791
-    Price: 49,90 € EUR
-  - [One Size / WEIß](https://lastradafashion.de/products/oversize-bluse-mit-modischen-schmuckdetails-1?variant=58840557257053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwMTk5LTQwNjgzODIxNTM5NzAtd2Vpc3MtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980791
-    Price: 49,90 € EUR
-- [Sweatshirt mit Goldstreifen](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen): Lässig, edel und absolut im Trend – das Sweatshirt überzeugt mit seinem entspannten Schnitt und sportlich-elegantem Design. Mit seinen goldfarbenen Streifen an den Schultern bringt es einen Hauch Glamour in jeden Look. Die leicht verkürzte Passform mit überschnittenen Schultern sorgt für einen modernen Silhouettenverlauf, der sowohl zu High-Waist-Hosen als auch zu Röcken perfekt harmoniert. Die soften, elastischen Materialien garantieren dabei höchsten Tragekomfort – ob im Alltag, auf Reisen oder beim entspannten Stadtbummel.
-  Updated: 2025-11-30T23:00:50Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDM4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980848
-  - [S / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558371165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDM4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980848
-    Price: 49,90 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558403933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDM4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980848
-    Price: 49,90 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558436701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDM4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980848
-    Price: 49,90 € EUR
-  - [XL / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558469469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDM4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980848
-    Price: 49,90 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558502237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDc2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558535005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDc2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558567773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDc2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558600541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NDc2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558633309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NTEzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558666077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NTEzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558698845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NTEzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-goldstreifen?variant=58840558731613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01NTYyMi00MDY4MzgyMTU2NTEzLWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980849
-    Price: 49,90 € EUR
-- [Fließende Kombi-Hose](https://lastradafashion.de/products/fliessende-kombi-hose): Ein Statement für moderne Eleganz: Diese Hose in besonderer Qualität vereint stilvolle Raffinesse mit maximalem Komfort. Die hohe Taille mit formgebendem Bund und eleganter Bundfalte sorgt für eine feminine Silhouette, während das weite Bein im Culotte-Stil eine zeitgemäße Lässigkeit verleiht– ein absoluter Blickfang, der zugleich vielseitig kombinierbar bleibt. Ob mit einer Seidenbluse und Pumps für einen eleganten Look oder mit Sneakern und Strick für einen entspannten Twist – diese Hose ist ein wandelbarer Allrounder. Ein stilvolles Must-have für anspruchsvolle Looks mit modischer Tiefe. Materialzusammensetzung 96 % Polyester 4 % Elastan Pflegehinweis Feinwäsche bei 30 °C nicht bleichen bei niedriger Temperatur bügeln (max. 110 °C) nicht im Trockner trocknen HerstellungslandItalienPassform und SchnittHigh Waist mit weitem BeinFit Guide4MaterialqualitätGlatt, fließend, elastischVerarbeitungBundfalten Detail, EingrifftaschenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-25T12:26:21Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjgyLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-  - [S / SCHWARZ](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840559878493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MzI5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [M / SCHWARZ](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840559911261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MzI5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [L / SCHWARZ](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840559944029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MzI5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [XL / SCHWARZ](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840559976797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MzI5LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560009565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjgyLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560042333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjgyLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560075101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjgyLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560107869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjgyLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560140637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjQ0LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560173405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjQ0LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560206173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjQ0LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/fliessende-kombi-hose?variant=58840560238941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi01NTA5Mi00MDY4MzgyMTU3MjQ0LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760980905
-    Price: 49,90 € EUR
-- [Ärmellose Satinbluse mit Tupfenprint](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint): Diese ärmellose Bluse mit kontrastivem Tupfenmuster ist ein echtes Lieblingsstück für feminine Looks mit Leichtigkeit. Der sanfte Glanz des Materials und der fließende Schnitt verleihen der Bluse eine elegante Ausstrahlung, während das verspielte Punktedesign für einen charmanten Twist sorgt. Der gerade Fall umspielt sanft die Figur und bietet vielseitige Styling-Möglichkeiten – von lässig bis chic. Die ärmellose Silhouette macht die Bluse ideal für warme Tage oder als stilvolle Layering-Basis unter Blazern und Strick– perfekt für Büro, Alltag oder besondere Anlässe. Materialzusammensetzung100 % PolyesterPflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln schonend chemisch reinigen HerstellungslandItalienPassform und SchnittGerade, leicht tailliert geschnitten, ärmellos, V-AusschnittFit Guide3MaterialqualitätLeichtes Material, nicht dehnbares Material, blickdichtes MaterialVerarbeitungAllover-Tupfenprint, SatinoptikModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:50Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDA4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-  - [S / BEIGE](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923046237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDA4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923079005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDA4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923111773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDA4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [XL / BEIGE](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923144541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDA4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [S / BORDEAUX](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923177309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDQ2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923210077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDQ2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923242845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDQ2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923275613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDQ2LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [S / SCHWARZ](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923308381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDg0LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [M / SCHWARZ](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923341149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDg0LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [L / SCHWARZ](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923373917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDg0LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760982542
-    Price: 39,90 € EUR
-  - [XL / SCHWARZ](https://lastradafashion.de/products/armellose-satinbluse-mit-tupfenprint?variant=58840923406685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIzNi01NTY2My00MDY4MzgyMTU3MDg0LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760982542
-    Price: 39,90 € EUR
-- [Jeanshose mit weitem Bein](https://lastradafashion.de/products/jeanshose-mit-weitem-bein-1): Ein Denim-Klassiker in neuem Look: Die Jeanshose setzt auf ein modisches Update mit weitem Beinverlauf und hoher Taille. Der gerade, ausgestellte Schnitt sorgt für eine schmeichelhafte Silhouette und wirkt zugleich lässig und stilbewusst. Mit markanten Nähten, aufgesetzten Taschen vorne und hinten, sowie einem fixierten Saumaufschlag bekommt die Hose ihren modernen, urbanen Charakter. Hergestellt aus einem elastischen Baumwoll-Mix bietet sie den perfekten Mix aus Tragekomfort und Formbeständigkeit – ideal für lange Tage mit viel Bewegung oder stilvolle Alltagslooks. Materialzusammensetzung 92 % Baumwolle 6 % Polyester 2 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandP.C.RPassform und SchnittWeites Bein (Flared Leg), hoher BundFit Guide3MaterialqualitätLeicht elastisch, formstabil, robustVerarbeitungDoppelnähte, Saum mit Umschlag, klassische Gürtelschlaufen, aufgesetzte Taschen vorne und hintenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:51Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc2LTQwNjgzODIxNTI2ODMtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985221
-  - [XS / GRAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein-1?variant=58841832915293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc2LTQwNjgzODIxNTI2ODMtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985221
-    Price: 69,00 € EUR
-  - [S / GRAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein-1?variant=58841832948061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc2LTQwNjgzODIxNTI2ODMtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985221
-    Price: 69,00 € EUR
-  - [M / GRAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein-1?variant=58841832980829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc2LTQwNjgzODIxNTI2ODMtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985221
-    Price: 69,00 € EUR
-  - [L / GRAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein-1?variant=58841833013597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc2LTQwNjgzODIxNTI2ODMtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985221
-    Price: 69,00 € EUR
-  - [XL / GRAU](https://lastradafashion.de/products/jeanshose-mit-weitem-bein-1?variant=58841833046365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTUxMi0yMzc2LTQwNjgzODIxNTI2ODMtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985221
-    Price: 69,00 € EUR
-- [Colorblock Strickjacke](https://lastradafashion.de/products/colorblock-strickjacke): Mit dieser Strickjacke ziehst du alle Blicke auf dich: Die knielange Strickjacke begeistert durch ihre ausdrucksstarke Strickoptik im modernen Colorblock-Stil. Der lockere, gerade Schnitt fällt weich und schmeichelnd, während die offene Front für einen lässigen Fall sorgt. Besonders die voluminösen Ballonärmel mit elastischem Bündchen verleihen dem Look eine trendige Silhouette. Das plakative Blockmuster unterstreicht die modische Aussagekraft dieses Lieblingsstücks, ohne aufdringlich zu wirken – ideal für stilvolle Kombinationen mit Jeans, Kleid oder Stoffhose. Dieser Cardigan ist dein perfekter Begleiter für kühle Tage – cozy, modern und mit echtem Statement-Charakter. GrößeOne Size
-  Updated: 2025-12-07T11:25:47Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3MzItNDA2ODM4MjE1MTQ4OC1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985270
-  - [One Size / BEIGE](https://lastradafashion.de/products/colorblock-strickjacke?variant=58841834226013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3MzItNDA2ODM4MjE1MTQ2NC1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985270
-    Price: 65,00 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/colorblock-strickjacke?variant=58841834258781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3MzItNDA2ODM4MjE1MTQ4OC1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985270
-    Price: 65,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/colorblock-strickjacke?variant=58841834291549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3MzItNDA2ODM4MjE1MTQ3MS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985270
-    Price: 65,00 € EUR
-- [Sweatshirt mit Applikation](https://lastradafashion.de/products/sweatshirt-mit-applikation): Dieses Sweatshirt bringt stylische Lässigkeit und verspielten Charme zusammen. Der „Love“-Patch auf der Vorderseite setzt ein besonderes Fashion-Statement und verleiht dem Look einen modernen, jugendlichen Twist. Der Rundhalsausschnitt und die leicht überschnittenen Schultern sorgen für ein entspanntes Tragegefühl, während der verlängerte Rückensaum dem klassischen Schnitt eine trendige Silhouette verleiht. Ob zu Denim, Leggings oder Minirock: Dieses Sweatshirt lässt sich vielseitig kombinieren und ist ein lässiger Eyecatcher mit Persönlichkeit. GrößeOne Size
-  Updated: 2025-11-30T23:00:51Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MC00MDY4MzgyMTUxNzA5LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985319
-  - [One Size / BEIGE](https://lastradafashion.de/products/sweatshirt-mit-applikation?variant=58841839829341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MC00MDY4MzgyMTUxNzA5LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985319
-    Price: 39,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/sweatshirt-mit-applikation?variant=58841839862109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MC00MDY4MzgyMTUxNjkzLWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985319
-    Price: 39,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/sweatshirt-mit-applikation?variant=58841839894877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC01MTE4MC00MDY4MzgyMTUxNjg2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985319
-    Price: 39,90 € EUR
-- [Hemdbluse mit Strassschrift](https://lastradafashion.de/products/hemdbluse-mit-strassschrift): Für alle, die modisch ein Zeichen setzen wollen: Diese Bluse begeistert mit auffälligem Glitzerschriftzug aus funkelnden Strasssteinen, der sich über Front und Ärmel zieht. Der moderne Look trifft auf klassischen Hemdblusen-Charakter – mit Kragen, verdeckter Knopfleiste und leicht verlängertem Rücken. Gefertigt aus 100 % Baumwolle, bietet sie ein natürliches Tragegefühl mit gleichzeitig edler Optik. Die lockere Silhouette macht sie zum perfekten Styling-Piece für ausdrucksstarke Looks – sowohl solo getragen als Eyecatcher als auch unter einem Blazer für coole Stilbrüche. Ein absolutes Highlight für Fashionistas mit Haltung – Must-have mit Glanzfaktor! GrößeOne SizeMaterialzusammensetzung100 % BaumwollePflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln nicht chemisch reinigen HerstellungslandItalienPassform und SchnittLocker geschnitten, mit Hemdkragen, verlängertem Rückteil und langen Ärmeln mit ManschettenFit Guide3MaterialqualitätGlatt, leicht, angenehm auf der HautVerarbeitungUnifarbene Webware mit großflächigem Strassschriftzug auf Vorderseite und Ärmeln, verdeckte KnopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:52Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwLTQwNjgzODIxNTM5NDktYnJhdW4tMjUwMHgxODc1cHgtYmdiLTQuanBlZw.jpg?v=1760985362
-  - [BRAUN](https://lastradafashion.de/products/hemdbluse-mit-strassschrift?variant=58841843171677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwLTQwNjgzODIxNTM5NDktYnJhdW4tMjUwMHgxODc1cHgtYmdiLTQuanBlZw.jpg?v=1760985362
-    Price: 59,00 € EUR
-  - [SCHWARZ](https://lastradafashion.de/products/hemdbluse-mit-strassschrift?variant=58841843204445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwLTQwNjgzODIxNTM5NTYtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985362
-    Price: 59,00 € EUR
-  - [WEIß](https://lastradafashion.de/products/hemdbluse-mit-strassschrift?variant=58841843237213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC05NjMwLTQwNjgzODIxNTM5MzItd2Vpc3MtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985362
-    Price: 59,00 € EUR
-- [Bouclé-Jacke mit Glitzergarn](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn): Diese edle Bouclé-Jacke in Melange-Optik vereint Pariser Chic mit moderner Struktur. In stilvollen Tönen mit dezentem Glanzfaden durchzogen, verleiht sie jedem Outfit sofort einen Hauch Luxus. Das strukturierte Design erinnert an klassische Tweedjacken, während die aufgesetzten Brusttaschen, markanten Zierknöpfe und die kontrastierenden Umschläge an Ärmeln und Kragen ihr eine modische Note verleihen. Ob zur schwarzen Stoffhose im Büro oder über einem schlichten Kleid gestylt – diese Jacke ist ein echtes Stilstatement. Materialzusammensetzung 59 % Baumwolle 31 % Polyester 4 % Acryl 4 % Wolle 2 % andere Fasern Pflegehinweis Feinwäsche bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln (max. 110 °C) HerstellungslandItalienPassform und SchnittGerader, leicht kastiger Schnitt, UmlegekragenFit Guide3MaterialqualitätStrukturiert, griffig, mittelschweres MaterialVerarbeitungzwei Vordertaschen, Verschluss durch goldene Knöpfe, dezenter GlitzerfadenModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:52Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODM0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985413
-  - [S / BORDEAUX](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845530973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODM0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985413
-    Price: 69,00 € EUR
-  - [M / BORDEAUX](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845563741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODM0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985413
-    Price: 69,00 € EUR
-  - [L / BORDEAUX](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845596509)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODM0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985413
-    Price: 69,00 € EUR
-  - [XL / BORDEAUX](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845629277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODM0LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985413
-    Price: 69,00 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845662045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2Nzk3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845694813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2Nzk3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845727581)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2Nzk3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845760349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2Nzk3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [S / SCHWARZ](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845793117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODcyLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [M / SCHWARZ](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845825885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODcyLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [L / SCHWARZ](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845858653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODcyLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985414
-    Price: 69,00 € EUR
-  - [XL / SCHWARZ](https://lastradafashion.de/products/boucle-jacke-mit-glitzergarn?variant=58841845891421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC01NTExOS00MDY4MzgyMTU2ODcyLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985414
-    Price: 69,00 € EUR
-- [Cordblazer](https://lastradafashion.de/products/cordblazer): Dieser Cordblazer ist ein elegantes Essential mit lässigem Twist. Gefertigt aus feinem, strukturiertem Cord vereint er klassischen Tailoring-Charme mit einem modernen, entspannten Look. Das Design besticht durch sein cleanes Revers, eine gerade Passform und zwei aufgesetzte Taschen, die dem Blazer eine ungezwungene Note verleihen. Die weiche Haptik und das natürliche Farbspiel des Cordmaterials sorgen für Wärme und Stil – perfekt für die Übergangszeit. Materialzusammensetzung 98 % Polyester 2 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen bei niedriger Temperatur bügeln nicht im Trockner trocknen schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittFigurumspielender Schnitt, ungefüttert für ein leichtes TragegefühlFit Guide3MaterialqualitätStrukturierter Feincord, weiche Oberfläche, robust, leicht elastisches MaterialVerarbeitungHochwertig verarbeitet mit klaren Linien, Einreiher mit zwei Knöpfen, Reverskragen und aufgesetzte Taschen
-  Updated: 2025-11-30T23:00:53Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwNTAtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-  - [XL / CREME](https://lastradafashion.de/products/cordblazer?variant=58841848512861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwMTItY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [S / BRAUN](https://lastradafashion.de/products/cordblazer?variant=58841848545629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwNTAtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [M / BRAUN](https://lastradafashion.de/products/cordblazer?variant=58841848578397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwNTAtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [L / BRAUN](https://lastradafashion.de/products/cordblazer?variant=58841848611165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwNTAtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [XL / BRAUN](https://lastradafashion.de/products/cordblazer?variant=58841848643933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwNTAtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [S / CAMEL](https://lastradafashion.de/products/cordblazer?variant=58841848676701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTc5NzgtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [M / CAMEL](https://lastradafashion.de/products/cordblazer?variant=58841848709469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTc5NzgtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [L / CAMEL](https://lastradafashion.de/products/cordblazer?variant=58841848742237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTc5NzgtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [XL / CAMEL](https://lastradafashion.de/products/cordblazer?variant=58841848775005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTc5NzgtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [S / CREME](https://lastradafashion.de/products/cordblazer?variant=58841848807773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwMTItY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [M / CREME](https://lastradafashion.de/products/cordblazer?variant=58841848840541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwMTItY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-  - [L / CREME](https://lastradafashion.de/products/cordblazer?variant=58841848873309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwMTItY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
-    Price: 59,00 € EUR
-- [Strick-Cardigan mit Perlmuttknöpfen](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen): Zart, feminin und wunderbar weich – der Cardigan überzeugt mit luxuriöser Haptik und stilvollem Design. Der tief ausgeschnittene V-Ausschnitt betont das Dekolleté, während schimmernde Perlmuttknöpfe einen dezenten, eleganten Akzent setzen. Die lockere Silhouette mit leicht überschnittenen Schultern und geripptem Abschluss wirkt entspannt und modern zugleich. Ideal kombinierbar mit Skinny Jeans, Lederleggings oder fließenden Röcken – ob fürs Büro oder zum entspannten Stadtbummel. Ein vielseitiger Lieblingsbegleiter, der deinem Outfit sofort eine stilvolle Wärme verleiht.
-  Updated: 2025-12-04T15:53:42Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ5NC1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItNC5qcGVn_7a3d416c-e657-4e12-8672-192b8ce5e4a6.jpg?v=1761652539
-  - [One Size / BEIGE](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen?variant=58841903464797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ2My1iZWlnZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_89002f06-e45e-43a3-b625-b556faaf1495.jpg?v=1761652539
-    Price: 59,00 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen?variant=58841903497565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ5NC1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItNC5qcGVn_7a3d416c-e657-4e12-8672-192b8ce5e4a6.jpg?v=1761652539
-    Price: 59,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen?variant=58841903530333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ1Ni1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_0bf38663-8023-4251-a0c5-035c5e2d42c4.jpg?v=1761652539
-    Price: 59,00 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen?variant=58841903563101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ3MC1ncmF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_111c7db3-bbb3-47e6-be5c-85e55cba7203.jpg?v=1761652540
-    Price: 59,00 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen?variant=58841903595869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ4Ny10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_e80c898f-4e0c-40b2-ae3f-49fc3b0110bc.jpg?v=1761652540
-    Price: 59,00 € EUR
-- [Mantel in Kunstfell-Optik](https://lastradafashion.de/products/mantel-in-kunstfell-optik): Dieser Mantel in edler Kunstfell-Optik ist ein Highlight für stilvolle Winter-Looks. Die samtig-weiche Oberfläche verleiht ihm eine luxuriöse Ausstrahlung, während der klassische Kragen und die durchgehende Knopfleiste für Eleganz und Struktur sorgen. Der gerade Schnitt mit mittlerer Länge macht ihn besonders vielseitig – perfekt zu Denim, schmalen Hosen oder eleganten Kleidern. Seitliche Eingrifftaschen unterstreichen die Alltagstauglichkeit und runden das Design ab. Ein kuscheliger Allrounder, der Wärme schenkt und zugleich modische Raffinesse verkörpert – ein Must-have für kalte Tage. Materialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen nicht bügeln nicht chemisch reinigen nicht auswringen HerstellungslandP.R.CPassform und SchnittGerader Schnitt, mittellang bis zum Oberschenkel klassischer KragenFit Guide4MaterialqualitätSehr weich, wärmend, voluminös, formstabil, Eingrifftaschen, KnopfleisteVerarbeitungHochwertige Kunstfell-Optik mit samtig-weicher Haptik, Eingrifftaschen, versteckte KnopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:54Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-  - [34 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928958301)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [34 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928761693)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [36 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928991069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [36 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928794461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [38 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928630621)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [38 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928827229)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [40 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928663389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [40 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928859997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [42 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928696157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [42 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928892765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [44 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928728925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
-    Price: 119,00 € EUR
-  - [44 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928925533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
-    Price: 119,00 € EUR
-- [Fellweste mit Stehkragen](https://lastradafashion.de/products/fellweste-mit-stehkragen): Ein kuscheliges Statement-Piece mit Stil – diese Weste aus hochwertigem Kunstfell verleiht jedem Outfit einen Hauch luxuriöser Lässigkeit. Der moderne Stehkragen und die verdeckte Druckknopfleiste sorgen für einen cleanen Look, während das seidig glänzende Innenfutter den Tragekomfort perfektioniert. Der gerade, leicht boxy geschnittene Fit macht die Weste zu einem vielseitigen Layering-Partner – ideal über Blusen, Strick oder dünnen Jacken. Die weiche Haptik des Fellimitats verleiht eine stilvolle Wärme, ohne aufzutragen. Ob City-Look mit Jeans und Boots oder elegant kombiniert mit Midikleid – diese Weste setzt modische Akzente und bringt Textur in jede Herbst-Garderobe. Materialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis Nur chemische Reinigung nicht waschen nicht bleichen nicht im Trockner trocknen nicht bügeln HerstellungslandChinaPassform und SchnittGerade geschnitten, StehkragenFit Guide3MaterialqualitätFlauschig, formstabil, angenehm gefüttertVerarbeitungHochwertiges, weiches Kunstfell mit glattem Futter, verdeckte DruckknopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:55Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA1MzQtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-  - [36 / CREME](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965461853)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA0ODAtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [38 / CREME](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965494621)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA0ODAtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [40 / CREME](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965527389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA0ODAtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [42 / CREME](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965560157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA0ODAtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [44 / CREME](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965592925)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA0ODAtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [36 / TAUPE](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965625693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA1MzQtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [38 / TAUPE](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965658461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA1MzQtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [40 / TAUPE](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965691229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA1MzQtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [42 / TAUPE](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965723997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA1MzQtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-  - [44 / TAUPE](https://lastradafashion.de/products/fellweste-mit-stehkragen?variant=58841965756765)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC03MDAyNTExLTQwNjgzODIxNjA1MzQtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760986118
-    Price: 89,90 € EUR
-- [Fransenmantel mit Gürtel-Detail](https://lastradafashion.de/products/fransenmantel-mit-gurtel-detail): Mit diesem Mantel setzt du ein stilvolles Fashion-Statement, das Eleganz und Trendgespür vereint. Die offene, gerade Schnittführung schmeichelt der Figur und lässt sich dank des dekorativen Gürtels mit goldfarbener Schnalle individuell akzentuieren. Der weiche Schalkragen verleiht dem Look eine feminine Note, während der großzügige Fransensaum dem Mantel eine moderne, leicht boho-inspirierte Leichtigkeit verleiht. Die melierte Optik unterstreicht die Tiefe der Oberfläche und bringt Struktur ins Styling. Ob urban kombiniert zu Lederleggings oder entspannt über Strick – dieser Mantel ist ein echtes Highlight mit Must-have-Charakter. GrößeOne SizeMaterialzusammensetzung100 % PolyesterPflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen nicht bügeln schonende chemische Reinigung möglich HerstellungslandItalienPassform und SchnittGerade, offene Form, knielange Länge, Gürtel zur TaillierungFit Guide3MaterialqualitätWollähnlich, weiches Material, strukturiert, mittelschweres Material, robustVerarbeitungMelierte Oberfläche, Fransensaum, Schalkragen und dekorativer GürtelModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-30T23:00:55Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS1MNU0yNTMtNDA2ODM4MjE2MjcyOS1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761055232
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/fransenmantel-mit-gurtel-detail?variant=58850878685533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS1MNU0yNTMtNDA2ODM4MjE2MjcyOS1ib3JkZWF1eC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761055232
-    Price: 59,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/fransenmantel-mit-gurtel-detail?variant=58850878718301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS1MNU0yNTMtNDA2ODM4MjE2MjczNi1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761055232
-    Price: 59,00 € EUR
-  - [One Size / CAMEL](https://lastradafashion.de/products/fransenmantel-mit-gurtel-detail?variant=58850878751069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS1MNU0yNTMtNDA2ODM4MjE2Mjc0My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761055232
-    Price: 59,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/fransenmantel-mit-gurtel-detail?variant=58850878783837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS1MNU0yNTMtNDA2ODM4MjE2Mjc1MC1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761055232
-    Price: 59,00 € EUR
-- [Tüllrock mit Satinband](https://lastradafashion.de/products/tullrock-mit-satinband): Wild, feminin und voller Dynamik – der Tüllrock bringt aufregende Eleganz in deinen Kleiderschrank. Der weich fallende Tüll verleiht dem Rock eine herrlich luftige Silhouette, während der elastische Bund mit schimmerndem Satinband charmant die Taille betont und gleichzeitig höchsten Tragekomfort garantiert. Die Midilänge schwingt bei jeder Bewegung leicht mit und verleiht deinem Look eine moderne Leichtigkeit. Ob als Stilbruch mit Chunky Boots und Longsleeve oder edel mit Seidenbluse und Heels – dieser Rock lässt sich vielseitig kombinieren und ist dabei immer ein Eyecatcher. Materialzusammensetzung 90 % Polyester 10 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln milde chemische Reinigung möglich HerstellungslandP.R.CPassform und SchnittMidilanger, weit schwingender Schnitt mit elastischem BundFit Guide2MaterialqualitätLeichtes Material, halbtransparent, formstabilVerarbeitungTüllrock, transparenter Mesh-Überrock, blickdichtes Futter, Satinband am BundModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-11T19:47:21Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTYxMTI4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761653731
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTYxMTI4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LTQuanBlZw_56cfae11-c9a6-4c85-874d-214d8ec03a5f.jpg?v=1765636165
   - [One Size / BRAUN](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415284994397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMDE5NDM2LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761653732
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMDE5NDM2LWJyYXVuLTI1MDB4MTg3NXB4LTQuanBn_a10285e9-b19b-4d8b-b00a-432bece7d81e.jpg?v=1765636165
     Price: 49,90 € EUR
   - [One Size / CAMEL](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415285027165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTQ4ODg0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761653732
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTQ4ODg0LWNhbWVsLTI1MDB4MTg3NXB4LTQuanBn_42749f5e-525a-42a6-b9c3-68b8a87b016e.jpg?v=1765636166
     Price: 49,90 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415285059933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTQ4OTA3LXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761653731
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTQ4OTA3LXNjaHdhcnotMjUwMHgxODc1cHgtNC5qcGc_27b4345f-1431-480e-9853-fa38dab88681.jpg?v=1765636166
     Price: 49,90 € EUR
   - [One Size / BORDEAUX](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415285092701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTYxMTI4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761653731
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTYxMTI4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LTQuanBlZw_56cfae11-c9a6-4c85-874d-214d8ec03a5f.jpg?v=1765636165
     Price: 49,90 € EUR
-- [Leo-Tüllrock mit Satinband](https://lastradafashion.de/products/leo-tullrock-mit-satinband): Wild, feminin und voller Dynamik – der Tüllrock bringt aufregende Eleganz in deinen Kleiderschrank. Der weich fallende Tüll verleiht dem Rock eine herrlich luftige Silhouette, während der elastische Bund mit schimmerndem Satinband charmant die Taille betont und gleichzeitig höchsten Tragekomfort garantiert. Die Midilänge schwingt bei jeder Bewegung leicht mit und verleiht deinem Look eine moderne Leichtigkeit. Ob als Stilbruch mit Chunky Boots und Longsleeve oder edel mit Seidenbluse und Heels – dieser Rock lässt sich vielseitig kombinieren und ist dabei immer ein Eyecatcher. GrößeOne SizeFarbeBRAUNMaterialzusammensetzung 90 % Polyester 10 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln milde chemische Reinigung möglich HerstellungslandP.R.CPassform und SchnittMidilanger, weit schwingender Schnitt mit elastischem BundFit Guide2MaterialqualitätLeichtes Material, halbtransparent, formstabilVerarbeitungTüllrock, transparenter Mesh-Überrock, blickdichtes Futter, Satinband am BundModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-25T12:31:41Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU5MzA4LTQwNjgzODIwMDUyODYtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761654889
-  Price: 59,00 € EUR
-- [Stiefelette](https://lastradafashion.de/products/schuhe-wgr)
-  Updated: 2025-12-10T00:48:21Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  - [36 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485226845)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [37 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485259613)
+  - [One Size / BEIGE](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62858195894621)
     Availability: Not Available
-    Price: 59,00 € EUR
-  - [38 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485292381)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [39 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485325149)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [40 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485357917)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [41 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485390685)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [42 / BEIGE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485423453)
-    Availability: Not Available
-    Price: 59,00 € EUR
-  - [36 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485456221)
-    Availability: Not Available
-    Price: 59,00 € EUR
-  - [37 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485488989)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [38 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485521757)
-    Availability: Not Available
-    Price: 59,00 € EUR
-  - [39 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485554525)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [40 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485587293)
-    Availability: Not Available
-    Price: 59,00 € EUR
-  - [41 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485620061)
-    Availability: Not Available
-    Price: 59,00 € EUR
-  - [42 / TAUPE](https://lastradafashion.de/products/schuhe-wgr?variant=62836485652829)
-    Availability: Not Available
-    Price: 59,00 € EUR
+    Price: 49,90 € EUR
 
 ## Collections
 
@@ -3026,10 +821,10 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-12-04T12:16:55Z
   Total Products: 252
 - [Röcke](https://lastradafashion.de/collections/roecke): Röcke von La Strada Die Röcke von La Strada bieten zahlreiche Kombinationsmöglichkeiten. Sie können mit Blusen, T-Shirts, Pullovern oder Blazern kombiniert werden, um verschiedene Looks zu kreieren, sei es für den Alltag, das Büro oder besondere Anlässe. Mit dem richtigen Schuhwerk und Accessoires können Sie Ihren persönlichen Stil unterstreichen und Ihren Look komplettieren. Sie verkörpern Eleganz, Weiblichkeit und Stil. Sie sind ein zeitloses Kleidungsstück, das sowohl Komfort als auch modische Ausdrucksstärke bietet. Egal ob für einen formellen Anlass oder einen entspannten Tag, die Röcke von La Strada sind die perfekte Wahl für eine ansprechende und modische Garderobe.
-  Updated: 2025-11-30T23:00:39Z
+  Updated: 2025-12-13T14:29:07Z
   Total Products: 102
 - [Strick](https://lastradafashion.de/collections/pullover-strick): Strick von La Strada La Strada präsentiert eine exquisite Auswahl an Strickpullovern und Strickjacken, die von der traditionellen Handwerkskunst und dem Sinn für Ästhetik inspiriert sind, für die Italien bekannt ist. Jedes Stück wurde mit Liebe zum Detail und einem Auge für Qualität entworfen.
-  Updated: 2025-12-07T12:15:44Z
+  Updated: 2025-12-13T12:15:38Z
   Total Products: 399
 - [Italienische Jeans für Damen](https://lastradafashion.de/collections/jeans): Jeans für Damen ✔ Vielseitige Styles ✔ Hochwertiger Denim ✔ Aktuelle Trends ➤ Finden Sie Ihre perfekte Jeans bei La Strada – jetzt online shoppen!
   Updated: 2025-12-08T12:15:59Z
@@ -3158,13 +953,13 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:55:29Z
   Total Products: 9
 - [Maxiröcke](https://lastradafashion.de/collections/maxiroecke): Maxiröcke von La Strada Die Maxiröcke von La Strada verkörpern Eleganz und Raffinesse. Mit ihrer bodenlangen Silhouette strahlen sie eine zeitlose Schönheit aus und verleihen Ihnen einen femininen und anspruchsvollen Look. Durch hochwertige Materialien wie feine Stoffe oder luftige Gewebe wird ein angenehmer Tragekomfort gewährleistet. Die Maxiröcke zeichnen sich durch ihre perfekte Passform und ihre sorgfältig verarbeiteten Details aus, die ihnen eine besondere Note verleihen. Ob für einen formellen Anlass, einen entspannten Tag in der Stadt oder einen Abend mit Freunden - die Maxiröcke von La Strada sind vielseitig einsetzbar und lassen sich leicht mit verschiedenen Oberteilen wie Blusen, Shirts oder Pullovern kombinieren.
-  Updated: 2025-11-30T23:00:39Z
+  Updated: 2025-12-13T14:29:06Z
   Total Products: 66
 - [Midiröcke](https://lastradafashion.de/collections/midiroecke): Midiröcke von La Strada Die Midiröcke von La Strada sind modische und elegante Kleidungsstücke, die die Beine einer Frau umschmeicheln und ihre feminine Seite betonen. Diese Röcke reichen etwa bis zur Mitte der Wade und umspielen diese. Die Midiröcke von La Strada sind zeitlos und vielseitig kombinierbar. Sie können mit einer Bluse und einem Blazer für einen schicken Büro-Look getragen werden oder mit einem T-Shirt und Sneakers für einen lässigen Freizeitstil kombiniert werden. Sie bieten unendliche Möglichkeiten, um verschiedene Outfits zu kreieren und jedem Look einen Hauch von Eleganz zu verleihen.
   Updated: 2025-11-30T23:00:32Z
   Total Products: 27
 - [Strickjacken für Damen](https://lastradafashion.de/collections/strickjacken): Strickjacken für Damen von La Strada Strickjacken und Cardigans für Damen: Immer eine gute Wahl Strickjacken und Cardigans sind vielseitige Klassiker in der Damenmode und unverzichtbar für jede Garderobe. Doch obwohl beide Kleidungsstücke häufig als Synonyme verwendet werden, gibt es subtile Unterschiede. Strickjacken bieten oft mehr Wärme und eine robustere Struktur, während Cardigans durch leichtere Materialien und einen offenen Schnitt bestechen. Bei La Strada findest du eine große Auswahl an beiden Stilen in unterschiedlichen Designs, Schnitten und Farben. Cardigans – Stilvolle Alleskönner für Damen Ein Cardigan ist mehr als nur eine offene Strickjacke – er vereint Stil, Komfort und Vielseitigkeit. Sie bestehen oft aus feineren Materialien wie Merino, Kaschmir oder Baumwolle und haben eine glattere Struktur. Sie sind meist ohne Knöpfe gestaltet und bieten durch ihre Länge und Offenheit einen lässigen Look. Bei La Strada findest du verschiedene Cardigans für Damen passend für alle Anlässe: Klassischer Cardigan: Kann schlicht und ohne Knöpfe sein, ideal für das Büro und vielseitig kombinierbar mit Blusen oder Tops. Oversized Cardigan: Der Oversized-Strickjacke-Look, auch hier sehr beliebt, ist super bequem und schafft einen legeren Freizeitlook. Elegante Details: Ein Cardigan mit Perlen-Details oder mit floralen Knöpfen verleiht jedem Outfit das gewisse Extra. Langer Cardigan für Damen: Für kühle Tage ist ein langer Cardigan ideal, da er extra Wärme spendet und gleichzeitig ein stilvolles Statement setzt. Strickjacken – Kuschelige Begleiter für kühle Tage Strickjacken werden in der Regel aus dickeren Materialien wie Wolle oder einem Wollmix gefertigt und besitzen oft eine gerippte Struktur. Bei La Strada haben wir auch besonders praktische Modelle wie die Strickjacke mit Taschen. Diese praktischen Details und ihre Vielseitigkeit machen die Strickjacken von La Strada zur perfekten Wahl für den Alltag: Grobstrick und Oversized: Für einen besonders gemütlichen Stil eignen sich Oversized Strickjacken. Alternativ ist die lange Grobstrickjacke ideal für Herbst und Winter. Strickjacke mit Knöpfen: Sie ist alltagstauglich, einfach funktional und unter der Jacke perfekt für die kalte Jahreszeit. Strickjacke mit Reißverschluss: Praktisch für jede Lage und immer ein wärmendes Lieblingsteil. Ideal für den Zwiebellook an kalten Tage oder ohne Jacke an milderen Tagen. Vielseitige Farboptionen: Ob weiße Strickjacke, beige Strickjacke oder eine Strickjacke in bunt – Strickjacken bieten eine große Auswahl an Farben für jeden Geschmack. Materialien und Qualität für höchsten Tragekomfort La Strada bietet hochwertige Strickjacken für Damen und Cardigans, die für optimalen Komfort ausgelegt sind. Besonders beliebt sind Strickjacken für Damen aus Wolle, die angenehm wärmen und pflegeleicht sind. Ein luxuriöses Gefühl vermittelt die weiche Strickjacke oder die Strickjacke mit Webpelz – perfekt für kältere Tage. Die leichte Sweatjacke ist ideal für mildere Temperaturen und sorgt für Komfort und Bewegungsfreiheit. Farben und Muster – Strickjacken und Cardigans in großer Auswahl Die Farbauswahl bei La Strada ist groß und bietet Modelle in klassischen und trendigen Farben: Unifarbene Basics: Schwarze Strickjacken für Damen sowie graue Strickjacken passen perfekt zu einer klassischen Garderobe. Bunte und gemusterte Strickjacken: Von der bunten Strickjacke bis zur Strickjacke in rosa oder in rot bieten wir Modelle für alle, die Individualität schätzen. Kombinationsideen für Strickjacken und Cardigans Für einen lässigen Alltagslook sind die langen Strickjacken oder ein langer Cardigan für Damen die perfekte Wahl. Kombiniert mit Jeans und T-Shirt verleihen sie deinem Outfit eine stilvolle und wärmende Note. Für das Büro bietet sich ein eleganter Cardigan für Damen in lang oder eine kurze Damen Strickjacke an. Sie können mit einer Bluse und Stoffhose kombiniert werden. So verbindet man Professionalität mit modischem Chic. Wenn du verspielte Akzente setzen möchtest, sind der Blusen-Cardigan oder die Strickjacke mit Fransen genau das Richtige. Sie ergänzen feminine Looks wunderbar und lassen sich hervorragend zu Röcken oder Kleidern tragen. Pflegehinweise für deine Strickjacke Damit deine Strickjacke für Damen lange schön bleibt, ist die richtige Pflege entscheidend. Strickmodelle aus Wolle benötigen spezielles Wollwaschmittel und sollten sanft behandelt werden. Besonders bei Strickjacken mit Perlen- oder Fransen-Details, um deren Form und Details zu erhalten. Dein perfekter Look mit Strickjacken und Cardigans bei La Strada Ob beige, graue oder eine Strickjacke in rosa – bei La Strada findest du die perfekte Strickjacke für Damen. Oder natürlich den passenden Cardigan für Damen, der deinen Stil optimal ergänzt. Entdecke unsere Kollektion und finde dein neues Lieblingsteil für einen stilvollen Auftritt in jeder Jahreszeit. FAQ zu Strickjacken und Cardigans für Damen Was ist der Unterschied zwischen einem Cardigan und einer Strickjacke? Der Unterschied zwischen Cardigan und Strickjacke ist gering: „Cardigan“ ist der englische Begriff für Strickjacke und bezeichnet oft leichtere, vorne offene Modelle mit und ohne Knöpfe. Eine Strickjacke für Damen hingegen kann Knöpfe oder Reißverschlüsse haben und ist meist aus dickerem Material gefertigt. Welche Strickjacke passt zu allem? Einfarbige und schlichte Strickjacken für Damen in neutralen Farben wie Schwarz, Grau oder Beige sind besonders vielseitig kombinierbar und passen zu fast jedem Outfit. Mittellange Schnitte bis zur Hüfte und feiner Strick ohne auffällige Muster machen eine Damen Strickjacke besonders anpassungsfähig. Sind lange Cardigans out? Nein, lange Cardigans sind nach wie vor modische Alleskönner. Sie wirken je nach Kombination entweder casual oder elegant und sind ideal für Lagenlooks. Ein langer Cardigan für Damen passt perfekt in jede Garderobe und bleibt weiterhin im Trend. Was trägt man unter einer kurzen Strickjacke? Unter einer kurzen Strickjacke sehen T-Shirts, Blusen oder figurbetonte Kleider gut aus. Für einen modernen Look passen auch High-Waist-Hosen oder Röcke ideal dazu. Haben Strickjacken immer Knöpfe? Nicht alle Strickjacken haben Knöpfe. Viele Modelle verzichten auf Verschlüsse, während sportlichere oder modernere Designs auch mit Reißverschlüssen gestaltet sein können. Dennoch sind Knöpfe die klassische Variante. Haben Strickjacken Reißverschlüsse? Einige Strickjacken sind mit Reißverschlüssen ausgestattet, was ihnen einen modernen und oft sportlichen Look verleiht. Diese sind jedoch seltener und bieten eine interessante Alternative zur klassischen Knopfleiste. Welche Farbe sollte meine Strickjacke haben? Die Farbwahl für eine Strickjacke hängt vom persönlichen Stil ab. Neutrale Farben wie Schwarz, Grau oder Beige sind besonders vielseitig, während Pastelltöne einen soften Look schaffen und kräftige Farben wie Rot oder Blau als Akzentfarben auffallen. Eine schwarze Strickjacke für Damen ist z. B. ein Allrounder in jeder Garderobe. Was trägt man über langen Strickjacken? Über einer langen Strickjacke für Damen sehen leichte Mäntel, Trenchcoats, Oversized Blazer oder Lederjacken toll aus. Dieser Lagenlook ist ideal für kältere Tage und schafft ein modernes und zugleich gemütliches Outfit. Sind Strickjacken im Jahr 2024 noch im Trend? Ganz klares JA, Strickjacken für Damen sind weiterhin ein beliebtes Kleidungsstück und vielseitig kombinierbar. Sie sind in vielen Styles von klassisch bis modern verfügbar und bieten zahlreiche Kombinationsmöglichkeiten. Sind Cardigans im Jahr 2024 noch in Mode? Auch Cardigans sind 2024 weiterhin im Trend. Ihre vielseitige Tragbarkeit und die zahlreichen Styling-Optionen machen sie zu einem wichtigen Bestandteil der Modewelt.
-  Updated: 2025-12-07T12:15:44Z
+  Updated: 2025-12-13T12:15:38Z
   Total Products: 113
 - [Wollmäntel](https://lastradafashion.de/collections/wollmaentel): Wollmäntel von la Strada La Strada präsentiert eine Auswahl an exquisiten Mänteln, die aus hochwertiger Wolle gefertigt sind. Dieses edle Material zeichnet sich durch seine Weichheit, Wärme und Langlebigkeit aus und sorgt dafür, dass Sie in den kalten Monaten stilvoll geschützt sind. Unsere Wollmäntel zeichnen sich nicht nur durch ihre ästhetische Schönheit aus, sondern auch durch ihre praktische Funktionalität. Sie bieten eine hervorragende Wärmeisolierung und sind gleichzeitig leicht und bequem zu tragen. Mit ihrer zeitlosen Eleganz sind sie die perfekte Wahl für formelle Anlässe, Bürooutfits oder den täglichen Gebrauch.
   Updated: 2025-11-30T23:00:56Z
@@ -3191,7 +986,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-30T23:00:27Z
   Total Products: 23
 - [Strickpullover für Damen - warm und vielseitig](https://lastradafashion.de/collections/strickpullover): Strickpullover für Damen – warm, stilvoll, vielseitig Einleitung Strickpullover für Damen sind ein unverzichtbarer Klassiker in jeder Garderobe – besonders in der kalten Jahreszeit. Sie alle – Wollpullover für damen, klassische Strick Pullover, oder Longpullover für Damen – bieten nicht nur gemütlichen Tragekomfort, sondern auch vielseitige Stylingmöglichkeiten. Die Kollektion von La Strada vereint italienische Strickkunst mit modernen Designs. Sie schafft damit Strickpullover, die warm, stilvoll und wandelbar sind. Stilvielfalt der Strickpullover für Damen Strickpullover für Damen bei La Strada sind vielseitig. Wir führen den klassischen Strickpulli für Damen, Knit Sweater und auch Strickpullover in Oversize. Eins haben sie alle gemeinsam: Es sind wohlig warme Pullis für Damen. Oversized Strickpullover und klassische Wollpullover Der Oversized Strickpullover ist die ideale Wahl für entspannte Outfits und gemütliche Tage. Mit einer lockeren Passform und weichen Materialien sorgt er für maximalen Komfort und einen lässigen Look. Die klassischen Damen Wollpullover hingegen sind vielseitige Begleiter, die für jeden Anlass geeignet sind. Vom Büro bis zum Abendessen. Modische Details – Feinstrick, Grobstrick und Lochstrickpullover Entdecken Sie die Vielfalt an Strickpullovern. Sie reichen von Feinstrickpullovern für Damen für elegante Anlässe bis hin zum Grobstrick Pullover für lässige Freizeit-Looks. Unsere Kollektion bietet ebenfalls spezielle Designs wie den Lochstrick Pullover, der durch sein einzigartiges Muster ein modisches Statement setzt. Hochwertige Materialien für maximalen Komfort Wolle und Baumwolle Unsere Wollpullover für Damen bieten hervorragende Wärme und Langlebigkeit. Baumwollpullover eignen sich perfekt für milde Tage und Übergangszeiten und garantieren dank ihrer Atmungsaktivität Komfort. Viskosemix für leichte Strickpullover Ein Knitted Pullover oder Sweater aus Viskosemix kombiniert den Tragekomfort von Baumwolle mit der Elastizität synthetischer Fasern. So ist er besonders angenehm auf der Haut. Damen Strickpullover für jeden Anlass und Stil Alltag und Büro Für den Alltag und das Büro sind klassische Strickpullis für Damen ideal. Kombinieren Sie einen Feinstrickpullover für Damen mit einer Bluse und eleganten Hosen für einen professionellen Look. Abend und besondere Anlässe Unsere schicken und ausgefallenen Pullover für Damen setzen stilvolle Akzente bei besonderen Gelegenheiten. Diese Pullover sorgen mit modischen Details und hochwertigen Materialien für Aufsehen und Wärme zugleich. Freizeit und lässige Looks Für ein lässiges Freizeitoutfit wählen Sie einen bunten Strickpullover oder einen Strickpulli in kurzarm für Damen. Kombinieren Sie diese Modelle mit einer Skinny-Jeans oder einem Rock, um Ihrer persönlichen Note Ausdruck zu verleihen. Pflegehinweise für Ihren Strickpullover Damit Sie lange Freude an Ihrem Strick Pulli haben, sollten Sie die Pflegehinweise beachten. Waschen Sie Ihren Pullover bei niedrigen Temperaturen und verzichten Sie auf den Trockner. Grobstrickpullover sollten flach getrocknet werden, um die Form zu erhalten. Kundenbewertungen und Erfahrungen Unsere Kundinnen schätzen die Qualität, den Stil und die Wärme der Strickpullover für Damen von La Strada. Besonders beliebt sind unsere Winterpullover für Damen und unsere Grobstrick Pullover. Beide überzeugen durch ihre angenehme Passform und das modische Design. Stöbern und Finden – Ihr perfekter Strickpullover Entdecken Sie unsere Auswahl und finden Sie den perfekten Damen Strickpullover. Aktuell warten besondere Angebote auf Sie. Jetzt ist der ideale Zeitpunkt, um Ihre Garderobe mit einem neuen warmen Pullover für die kalte Jahreszeit zu bereichern. FAQ – die häufigsten Fragen zu Strickpullovern für Damen Welches Material eignet sich am besten für Strickpullover? Strickpullover für Damen bestehen oft aus natürlichen Materialien wie Wolle, Mohair, Merino, Shetland, Alpaka, Angora und Kaschmir, die für Wärme und Langlebigkeit sorgen. Auch Mischungen wie 80 % Wolle und 20 % Kaschmir bieten hervorragenden Komfort und sind besonders robust. Für dünnere Pullover ist reine Baumwolle eine gute Wahl, während Mischungen aus Schurwolle, Baumwolle, Kaschmir und Seide zusätzlichen Tragekomfort und Atmungsaktivität bieten. Was kann man unter einem Strickpullover anziehen? Für den beliebten Lagen-Look ist ein Businesshemd unter einem dünnen Feinstrickpullover perfekt. Alternativ sorgt ein T-Shirt unter dem Pullover für zusätzliche Wärme und Komfort, ohne die Silhouette zu stark zu beeinflussen. Woran erkennt man einen hochwertigen Strickpullover? Ein hochwertiger Strickpullover für Damen besteht meist aus natürlichen Stoffen, die sich auf dem Etikett ablesen lassen. Ein schneller Test zur Qualität ist der Pilling-Test: Einfach zwei Stoffschichten aneinander reiben; bilden sich keine Fussel, ist dies ein gutes Zeichen. Zudem sind saubere Nähte, gleichmäßige Strickmuster und ein hoher Anteil an Naturfasern Merkmale, die auf gute Verarbeitung hinweisen. Welches Material hält bei Strickpullovern am längsten? Natürliche Stoffe wie Wolle, Merino oder Alpaka sind besonders langlebig und robust. Schurwolle und Merinowolle bieten ebenfalls eine hohe Haltbarkeit und sind weniger anfällig für Verschleiß als viele synthetische Materialien. Welche Strickmode-Trends sind 2024 angesagt? Für 2024 sind Oversized-Pullover sowie Strickpullover mit Zopfmustern und Strukturstrick besonders im Trend. Natürliche Farbtöne und erdige Nuancen dominieren die Saison, und nachhaltige, umweltfreundliche Materialien stehen ebenfalls im Fokus der Strickmode. Welche Pullover sind im Herbst 2024 modern? Im Herbst 2024 sind Grobstrickpullover mit Zopfmustern, Rollkragenpullover in warmen Herbstfarben und lässige Oversized-Modelle besonders gefragt. Auch Pullover mit interessanten Strukturmustern und texturierten Materialien setzen modische Akzente. Wie sollte ein Strickpullover sitzen? Strickpullover für Damen sollten bequem und nicht zu eng sitzen. Bei Pullovern aus Wolle empfiehlt es sich, eine Nummer größer zu wählen, da diese oft einlaufen können. Die Schulternähte sollten an den Schultern aufliegen, und die Ärmel bis zum Handgelenk reichen. Die Länge variiert je nach Stil – von hüftlangen Feinstrickpullovern bis hin zu oversized Modellen. Welche Farben sind 2024 im Trend? 2024 liegen erdige und natürliche Töne im Trend, darunter warme Farben wie Rostrot, Senfgelb und Olivgrün. Pastelltöne sorgen für einen soften Look, während klassische Farben wie Marineblau und Grau zeitlos bleiben. Welche Farben sind im Winter 2024/2025 angesagt? Im Winter 2024/2025 dominieren tiefe, satte Farben wie Burgunderrot und Tannengrün. Neutrale Töne wie Creme, Beige und Grau sowie metallische Akzente in Silber oder Gold verleihen den Pullovern Eleganz. Dunkle Blautöne und Tiefschwarz sind ebenfalls gefragt und lassen sich vielseitig kombinieren. Wie bleibt ein Strickpullover lange schön? Damit Strickpullover lange ihre Form und Qualität behalten, sollten die Pflegehinweise beachtet werden. Strickpullover sollten meist bei 30 Grad im Wollwaschprogramm gewaschen und zum Trocknen liegend auf einem Handtuch ausgelegt werden. Es ist ratsam, den Trockner zu meiden und den Pullover regelmäßig zu lüften, um häufiges Waschen zu vermeiden. Wenn der Pullover noch feucht ist, kann er vorsichtig in Form gezogen werden. Warum sollte man ein T-Shirt unter einem Pullover tragen? Ein T-Shirt unter dem Pullover sorgt für zusätzliche Wärmeisolierung, schützt die Haut vor kratzigen Materialien und nimmt Schweiß auf, was die Hygiene verbessert. Außerdem kann der Pullover dadurch länger getragen werden, bevor er gewaschen werden muss. Der Lagen-Look ermöglicht zudem modische Akzente und bietet Flexibilität bei wechselnden Temperaturen
-  Updated: 2025-12-06T12:14:36Z
+  Updated: 2025-12-13T12:15:38Z
   Total Products: 225
 - [Winterjacken](https://lastradafashion.de/collections/winterjacken): Winterjacken von La Strada Die Winterjacken von La Strada sind die perfekte Wahl, um sich in der kalten Jahreszeit stilvoll und warm zu halten. Sie bieten eine Kombination aus Funktionalität und modischem Design. Hergestellt aus hochwertigen Materialien, sind die Winterjacken von La Strada besonders langlebig und wetterbeständig. Sie sind mit einer wärmenden Fütterung ausgestattet, die eine optimale Isolierung gegen Kälte bietet. Damit sind sie ideal, um selbst bei niedrigen Temperaturen warm und gemütlich zu bleiben. Mit den Winterjacken von La Strada können Damen nicht nur den Winter warm und stilvoll überstehen, sondern auch ihre Persönlichkeit zum Ausdruck bringen. Egal ob für den Alltag, Outdoor-Aktivitäten oder besondere Anlässe, die Winterjacken von La Strada vereinen Funktionalität und modisches Design in einer harmonischen Balance.
   Updated: 2025-12-04T12:16:55Z
@@ -3302,7 +1097,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-12-04T12:16:55Z
   Total Products: 77
 - [Kleidung](https://lastradafashion.de/collections/kleidung): Entdecken Sie die inspirierende Welt der italienischen Damenmode mit der Kleidung von La Strada. Unsere exklusiven Kollektionen bieten Ihnen eine vielfältige Auswahl an stilvoller Bekleidung, die perfekt dazu geeignet ist, Ihren individuellen Stil zu unterstreichen. Mode, die Komfort und Stil vereint.
-  Updated: 2025-12-10T12:17:30Z
+  Updated: 2025-12-13T14:29:07Z
   Total Products: 2297
 - [Taschengurte](https://lastradafashion.de/collections/taschengurte): Taschengurte von La Strada Die Taschengurte von La Strada sind ein unverzichtbares Accessoire für alle, die ihre Taschenkollektion aufwerten und personalisieren möchten. Sie sind ein Ausdruck von Stil, Qualität und Praktikabilität, und tragen dazu bei, dass die Tasche zu einem unverwechselbaren und persönlichen Accessoire wird. Das Sortiment umfasst eine breite Auswahl an Taschengurten in verschiedenen Farben, Mustern und Stilen. Von schlichten und einfarbigen Gurten bis hin zu auffälligen Prints und Verzierungen bietet La Strada vielfältige Optionen, um den individuellen Geschmack und Stil jedes Kunden zu treffen.
   Updated: 2025-11-30T23:01:03Z
@@ -3314,8 +1109,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 1
 - [Neu eingetroffene italienische Damenmode](https://lastradafashion.de/collections/neuheiten): Die Neuheiten spiegeln die aktuellen Modetrends wider und bieten den Kunden die Möglichkeit, immer up-to-date zu sein. Jetzt vorbeischauen!
-  Updated: 2025-12-10T12:17:30Z
-  Total Products: 1584
+  Updated: 2025-12-13T12:15:38Z
+  Total Products: 1583
 - [Italienische Abendmode für Damen](https://lastradafashion.de/collections/abend-looks): Italienische Abend-Outfits von La Strada entdecken. Lassen Sie sich von der neusten italienischen Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-11-24T18:08:30Z
   Total Products: 237
@@ -3347,7 +1142,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:38:39Z
   Total Products: 95
 - [Neu eingetroffen: Trends direkt aus Italien](https://lastradafashion.de/collections/homepage-neu-im-shop): Entdecken Sie die Neuheiten von La Strada! Wir zeigen Ihnen die italienischen Trends des Sommers 2023.
-  Updated: 2025-11-30T23:01:03Z
+  Updated: 2025-12-12T12:17:44Z
   Total Products: 1075
 - [Italienische Casual Outfits für Damen](https://lastradafashion.de/collections/casual-look): Finden Sie bequeme Pullover, lässige Shirts, vielseitige Hosen und entspannte Kleider, die mühelos kombiniert werden können. Jetzt auf La Strada entdecken!
   Updated: 2025-11-24T18:18:19Z
@@ -3356,8 +1151,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:53Z
   Total Products: 60
 - [Bestseller](https://lastradafashion.de/collections/bestseller): Entdecken Sie die beliebtesten und meistverkauften Stücke von La Strada. Unsere "Bestseller" sind die Favoriten unserer Kundinnen und verkörpern den einzigartigen Stil und die Qualität, für die La Strada bekannt ist. In der "Bestseller"-Kollektion finden Sie eine handverlesene Auswahl an Kleidungsstücken, die sich durch ihre zeitlose Eleganz, erstklassige Qualität und perfekte Passform auszeichnen. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen einen modischen Look und höchsten Tragekomfort zu bieten. Unsere Bestseller repräsentieren eine Vielfalt an Styles und Designs, die jedem Geschmack gerecht werden. Von klassischen Kleidern über vielseitige Blusen bis hin zu bequemen Hosen - unsere Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und sich selbstbewusst zu präsentieren.
-  Updated: 2025-12-10T12:17:30Z
-  Total Products: 105
+  Updated: 2025-12-12T23:20:07Z
+  Total Products: 51
 - [Italienische Sommerschuhe für Damen](https://lastradafashion.de/collections/homepage-sommerschuhe): Von Pantoletten und Sandalen bis hin zu Espadrilles und Sneakers haben wir für jeden Geschmack und Anlass den passenden Schuh. Jetzt entdecken!
   Updated: 2025-10-21T09:42:35Z
   Total Products: 26
@@ -3545,10 +1340,10 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-12-04T12:16:55Z
   Total Products: 22
 - [Sortiment](https://lastradafashion.de/collections/sortiment): Angebote von La Strada La Strada präsentiert eine umfassende Auswahl an italienischer Damenmode, Schuhen und Accessoires. Unser Sortiment spiegelt die Vielfalt der italienischen Mode wider, von zeitlosen Schnitten bis zu modernen Designs. Sorgfältig ausgewählte Stücke betonen die Handwerkskunst und den Stil Italiens. Unsere Damenmode kombiniert klassische Eleganz mit zeitgemäßem Design. Die Schuhkollektion bietet sowohl traditionelle italienische Stiefel als auch moderne Sandalen, die auf Qualität und Komfort setzen. Unsere Accessoires, darunter Taschen, Schmuck und Tücher, runden das Angebot ab und setzen stilvolle Akzente. La Strada zeichnet sich durch ein Augenmerk auf Qualität und Stil aus. Unser Ziel ist es, Frauen jeden Alters zu inspirieren und ihnen die Möglichkeit zu bieten, ihre Persönlichkeit durch Mode auszudrücken. Bei uns finden Sie nicht nur Produkte, sondern ein Erlebnis, das die Eleganz und Kreativität der italienischen Mode betont. Willkommen bei La Strada, wo jedes Stück eine Geschichte erzählt und jede Kollektion die Vielfalt der Mode repräsentiert.
-  Updated: 2025-12-10T12:17:30Z
+  Updated: 2025-12-13T12:15:38Z
   Total Products: 2745
 - [discount_not-on-sale_cap-is-zero](https://lastradafashion.de/collections/not-on-sale)
-  Updated: 2025-12-10T12:17:30Z
+  Updated: 2025-12-13T12:15:38Z
   Total Products: 528
 - [Winter 2023](https://lastradafashion.de/collections/winter-2023): Die Winterkollektion von La Strada Tauchen Sie ein in die Welt der Eleganz und Behaglichkeit mit unserer Winterkollektion von La Strada. Diese exquisite Auswahl an Modestücken wurde sorgfältig zusammengestellt, um Ihnen in der kalten Jahreszeit Wärme und Stil zu bieten. Hier finden Sie eine breite Palette von Mänteln und Jacken, die nicht nur vor den winterlichen Temperaturen schützen, sondern auch Ihre Persönlichkeit unterstreichen. Kuschelige Mäntel und stilvolle Jacken Unsere Kollektion präsentiert eine Vielfalt an Mänteln, vom zeitlosen Wollmantel bis zum trendigen Steppmantel. Erleben Sie höchsten Tragekomfort und bleiben Sie dabei modisch im Fokus. Die sorgfältige Auswahl von hochwertigen Materialien und durchdachten Designs macht jeden Mantel zu einem Statement-Piece, das Ihren Winter-Look perfektioniert. Festliche Kleider für die Feiertage Für besondere Anlässe und festliche Momente bieten wir eine Auswahl an eleganten Kleidern. Von schlichten Schnitten bis zu aufwendig verzierten Designs – unsere Winterkollektion bringt den Zauber der Feiertage in Ihren Kleiderschrank. Verleihen Sie Ihren Festlichkeiten Glanz und Glamour mit einem Winterkleid von La Strada. Blusen für den perfekten Layering-Look Kombinieren Sie Ihre Wintergarderobe mit stilvollen Blusen, die nicht nur wärmend sind, sondern auch Vielseitigkeit in Ihre Outfits bringen. Ob unter einem Pullover getragen oder als eigenständiges Statement-Piece, unsere Blusen sind die perfekte Ergänzung für einen raffinierten Layering-Look. Wählen Sie Qualität und Stil La Strada steht für Qualität und Stil, und unsere Winterkollektion spiegelt dieses Versprechen wider. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen nicht nur Wärme zu bieten, sondern auch Ihre persönliche Stilpräferenz zu unterstreichen. Ihr Winter-Wardrobe Upgrade Entdecken Sie die Eleganz und Vielfalt der La Strada Winterkollektion. Tauchen Sie ein in die Welt von warmen Mänteln, festlichen Kleidern und stilvollen Blusen. Gestalten Sie Ihren Winter-Look mit zeitloser Eleganz und genießen Sie die Kombination aus Komfort und Stil. Ihre Winterkollektion erwartet Sie – erleben Sie Mode, die nicht nur vor Kälte schützt, sondern auch Ihr individuelles Stilbewusstsein unterstreicht.
   Updated: 2025-11-30T23:00:57Z
@@ -3617,7 +1412,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:39Z
   Total Products: 23
 - [discount_not-on-sale_cap-is-empty](https://lastradafashion.de/collections/discount_not-on-sale_cap-is-empty)
-  Updated: 2025-12-10T12:17:30Z
+  Updated: 2025-12-13T12:15:38Z
   Total Products: 528
 - [Beste Kundin Geschenk](https://lastradafashion.de/collections/beste-kundin-geschenk)
   Updated: 2025-10-21T09:41:44Z
@@ -3686,8 +1481,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-03-18T14:45:03Z
   Total Products: 0
 - [Creator Collection](https://lastradafashion.de/collections/creator-collection): Entdecke exklusive Styles für Creator! Wähle deine Favoriten für unsere Kollaborationen – trendy, hochwertig & perfekt für deinen Content.
-  Updated: 2025-12-10T12:17:30Z
-  Total Products: 32
+  Updated: 2025-12-12T23:20:01Z
+  Total Products: 3
 
 ## Blogs
 
