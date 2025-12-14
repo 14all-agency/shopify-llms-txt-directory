@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-13T20:00:34.789Z
+- Updated At: 2025-12-14T00:00:53.056Z
 
 ## Products
 
@@ -5957,222 +5957,6 @@
   - [Pack of 5](https://affinatiliving.com/products/whipped-pistachio-original-candle?variant=58354820218961)
     Availability: Available
     Price: $64.95 USD
-- [40lb IGI 6006 Wax](https://affinatiliving.com/products/40lb-igi-6006-wax)
-  Updated: 2025-12-12T20:57:41Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Reed Diffuser Bottles (12 Pack)](https://affinatiliving.com/products/reed-diffuser-bottles)
-  Updated: 2025-12-05T22:21:56Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Reed Diffuser Collars (12 Pack)](https://affinatiliving.com/products/reed-diffuser-collars)
-  Updated: 2025-12-05T22:21:52Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Large Room Sprays (30 Pack)](https://affinatiliving.com/products/room-sprays-large)
-  Updated: 2025-12-12T21:41:41Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Small Room Sprays (30 Pack)](https://affinatiliving.com/products/room-sprays-small)
-  Updated: 2025-12-09T23:45:16Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [8 oz Black Lotion Containers](https://affinatiliving.com/products/8-oz-black-lotion-containers)
-  Updated: 2025-11-24T19:48:40Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [8 oz Black Lotion Lids](https://affinatiliving.com/products/8-oz-black-lotion-lids)
-  Updated: 2025-11-24T19:48:46Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [4 oz Black Face Cream Lids](https://affinatiliving.com/products/4-oz-black-face-cream-lids)
-  Updated: 2025-11-09T12:08:54Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [4 oz Black Face Cream Containers](https://affinatiliving.com/products/4-oz-black-face-cream-containers)
-  Updated: 2025-11-09T12:09:27Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Original/Small Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/original-small-wooden-wick-candle-containers)
-  Updated: 2025-12-12T22:41:17Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature Amber Jars (12 Pack)](https://affinatiliving.com/products/signature-amber-jars)
-  Updated: 2025-11-25T05:06:23Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature Red Jars (12 Pack)](https://affinatiliving.com/products/signature-red-jars)
-  Updated: 2025-11-25T05:06:08Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature Purple Jars (12 Pack)](https://affinatiliving.com/products/signature-purple-jars)
-  Updated: 2025-12-05T22:44:25Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature Blue Jars (12 pack)](https://affinatiliving.com/products/signature-blue-jars)
-  Updated: 2025-11-15T06:40:29Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature Teal Jars (12 pack)](https://affinatiliving.com/products/signature-teal-jars)
-  Updated: 2025-12-12T22:41:53Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature Black Jars (Pack of 12)](https://affinatiliving.com/products/signature-black-jars)
-  Updated: 2025-11-24T17:05:35Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Signature/Original/Sm & Lg Wooden Wick Black Lids (12 Pack)](https://affinatiliving.com/products/signature-black-lids)
-  Updated: 2025-12-12T22:40:41Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [3-Wick Green Jars (Pack of 12)](https://affinatiliving.com/products/3-wick-green-jars)
-  Updated: 2025-11-19T17:18:51Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Not Available
-  Price: $0.00 USD
-- [3-Wick Red Jars (12 Pack)](https://affinatiliving.com/products/3-wick-red-jars)
-  Updated: 2025-12-12T22:42:07Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [3-Wick Black Jars (12 Pack)](https://affinatiliving.com/products/3-wick-black-jars)
-  Updated: 2025-11-30T01:35:42Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [3-Wick Amber Jars (12 Pack)](https://affinatiliving.com/products/3-wick-amber-jars)
-  Updated: 2025-12-12T22:42:16Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-12-12T18:29:51Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [3-Wick Lids (12 Pack)](https://affinatiliving.com/products/3-wick-lids)
-  Updated: 2025-12-12T22:40:31Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Bowl Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/medium-wooden-wick-candle-containers)
-  Updated: 2025-12-05T14:05:53Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Tall Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/large-wooden-wick-candle-containers)
-  Updated: 2025-12-05T14:56:46Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Apothecary Containers](https://affinatiliving.com/products/apothecary-containers)
-  Updated: 2025-11-30T00:26:06Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Not Available
-  Price: $0.00 USD
-- [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-12-12T22:44:41Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [8x8x6 White Packing Boxes](https://affinatiliving.com/products/8x8x6-white-packing-boxes)
-  Updated: 2025-12-12T22:45:00Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [20x12x12 ECT 48 Packing Boxes](https://affinatiliving.com/products/20x12x12-ect-48-packing-boxes)
-  Updated: 2025-12-07T20:54:25Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-12-12T22:44:52Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [6x6x6 Packing Boxes](https://affinatiliving.com/products/6x6x6-packing-boxes)
-  Updated: 2025-12-03T01:45:20Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Not Available
-  Price: $0.00 USD
-- [12x4x4 Packing Boxes](https://affinatiliving.com/products/12x4x4-packing-boxes)
-  Updated: 2025-11-09T23:05:40Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [4x4x4 Packing Boxes](https://affinatiliving.com/products/4x4x4-packing-boxes)
-  Updated: 2025-11-28T23:36:11Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Bubble Mailers (Box of 100)](https://affinatiliving.com/products/bubble-mailers-box-of-100)
-  Updated: 2025-11-22T19:16:26Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Packing Tape (Rolls)](https://affinatiliving.com/products/packing-tape)
-  Updated: 2025-12-09T23:47:21Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-12-10T21:59:51Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
   Updated: 2025-12-10T19:05:53Z
   Vendor: Affinati
@@ -6247,12 +6031,6 @@
   - [Pack of 5](https://affinatiliving.com/products/hazelnut-coffee-signature-candle?variant=58356291895377)
     Availability: Available
     Price: $72.95 USD
-- [Signature Frosted Jars (12 pack)](https://affinatiliving.com/products/signature-frosted-jars)
-  Updated: 2025-12-12T22:41:42Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [Velvet Lavender Bar Soap](https://affinatiliving.com/products/lavender-bar-soap): Relax with Velvet Lavender—crafted with olive, coconut & shea butter for a creamy lather and soothing floral calm.
   Updated: 2025-12-10T19:05:54Z
   Vendor: Affinati
@@ -6450,12 +6228,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4AB28387-47CA-4A09-B37C-8238E04E538A.png?v=1763304499
   Price: $8.95 USD
-- [ECO 10 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-12-6-wicks-box-of-1000): For Original & Signature.
-  Updated: 2025-12-01T19:17:39Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [Eucalyptus Pine Reed Diffuser](https://affinatiliving.com/products/eucalyptus-pine-reed-diffuser): Refresh your home with the Eucalyptus & Pine Reed Diffuser. Crisp eucalyptus and fresh pine create a clean, spa-like scent with long-lasting, flame-free fragrance.
   Updated: 2025-12-10T19:05:57Z
   Vendor: Affinati
@@ -6660,24 +6432,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7628.png?v=1763384417
   Price: $17.95 USD
-- [50MM Round Product Label Rolls (White)](https://affinatiliving.com/products/50mm-x-80mm-product-label-rolls)
-  Updated: 2025-11-28T23:34:36Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [50MM x 80MM Rectangle Product Label Rolls (White)](https://affinatiliving.com/products/50mm-x-80mm-rectangle-product-label-rolls)
-  Updated: 2025-11-24T17:07:55Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
-- [40MM x 30MM Rectangle Product Label Rolls (White)](https://affinatiliving.com/products/40mm-x-30mm-rectangle-product-label-rolls-white)
-  Updated: 2025-11-18T20:25:27Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [3-Wick Lavender Vanilla Candle](https://affinatiliving.com/products/3-wick-lavender-vanilla-candle): Relax your home with the soothing scent of lavender and creamy vanilla. This 17 oz 3-wick soy-blend candle delivers a strong, long-lasting aroma that fills any room with calming, spa-like comfort. Perfect for creating a peaceful, inviting atmosphere.
   Updated: 2025-12-13T02:04:51Z
   Vendor: Affinati
@@ -7093,12 +6847,6 @@
   - [Pack of 5](https://affinatiliving.com/products/maple-pancakes-original-candle?variant=58418979864657)
     Availability: Available
     Price: $64.95 USD
-- [ECO 6 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-6-6-wicks-box-of-1000): For 3 Wick.
-  Updated: 2025-11-28T23:33:25Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [Clean Cotton Whipped Soap - 64 oz](https://affinatiliving.com/products/clean-cotton-whipped-soap-64-oz): Clean Cotton whipped soap in a spacious 64 oz size. Fresh, airy, and crisp with a soft whipped texture. The largest whipped soap size available.
   Updated: 2025-12-10T19:06:05Z
   Vendor: Affinati
@@ -7377,12 +7125,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_09_15_56_PM.png?v=1764382583
   Price: $59.95 USD
-- [Wooden Wick Bowl Lids (12 Pack)](https://affinatiliving.com/products/wooden-wick-bowl-lids-12-pack)
-  Updated: 2025-12-05T02:05:20Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [Pumpkin Spice Latte Whipped Soap - 64 oz](https://affinatiliving.com/products/pumpkin-spice-latte-whipped-soap-64-oz): Pumpkin Spice Latte Whipped Soap — warm cinnamon, nutmeg, cloves, and creamy pumpkin blended into a rich, fluffy whipped soap. Perfect for body wash, shaving, and fall self-care.
   Updated: 2025-12-10T19:06:11Z
   Vendor: Affinati
@@ -7411,12 +7153,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7876.png?v=1764530348
   Price: $59.95 USD
-- [Bubble Mailers (Box of 250)](https://affinatiliving.com/products/bubble-mailers-box-of-250)
-  Updated: 2025-12-03T21:02:44Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 - [3-Wick Vanilla Chai Candle](https://affinatiliving.com/products/3-wick-vanilla-chai-candle): Indulge in creamy vanilla and warm chai spice. Our 17 oz Vanilla Chai 3-Wick Candle fills your home with rich, cozy café-inspired comfort.
   Updated: 2025-12-13T01:52:26Z
   Vendor: Affinati
@@ -7795,12 +7531,6 @@
   - [Pack of 5](https://affinatiliving.com/products/smoked-bourbon-original-candle?variant=58479539978321)
     Availability: Available
     Price: $64.95 USD
-- [Premium Lotion Gallons](https://affinatiliving.com/products/premium-lotion-gallons)
-  Updated: 2025-12-13T16:00:03Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $0.00 USD
 
 ## Collections
 
