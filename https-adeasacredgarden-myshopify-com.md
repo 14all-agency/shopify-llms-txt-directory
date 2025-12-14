@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-27T21:18:07Z
 - Contact Email: adeasacredgarden@gmail.com
-- Updated At: 2025-12-12T00:00:33.428Z
+- Updated At: 2025-12-14T00:00:36.214Z
 
 A’Dea’s Sacred Garden is a microgreens grower based in Tinley Park, Illinois, specializing in locally grown, nutrient-rich greens including broccoli, sunflower, radish, pea shoots, and basil. Our mission is to bring fresh, sustainable, and intentional food to the Chicagoland area through local delivery and wholesale distribution.
 
