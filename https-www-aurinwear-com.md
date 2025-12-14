@@ -4,12 +4,12 @@
 
 - Contact Email: support@aurinwear.com
 - Address: Dallas, TX, USA
-- Updated At: 2025-12-13T00:00:28.178Z
+- Updated At: 2025-12-14T00:00:25.061Z
 
 ## Products
 
 - [Best Wishes Sweatshirt – Motivational Quote Unisex Premium Black Sweater](https://www.aurinwear.com/products/unisex-best-wishes-premium-printed-sweatshirt): Bring positivity wherever you go with our Unisex Best Wishes Premium Sweatshirt. Featuring a bold and colorful graphic design with vibrant purple, green, and yellow accents, this sweatshirt delivers an uplifting message perfect for daily wear, celebrations, or gifting. Its modern street-style aesthetic combined with a motivational theme makes it a standout piece for anyone who loves expressing good vibes through their wardrobe. Features: Soft and comfortable premium material Unisex fit suitable for all body types Durable, high-quality print that lasts Perfect for casual wear, gifting, and special occasions Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather option: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T08:24:04Z
+  Updated: 2025-12-13T09:20:57Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6934a7a5d77ba.png?v=1765059636
     Price: $38.00 USD
 - [Unisex Eat Drink Be Thankful Fall Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-eat-drink-be-thankful-fall-premium-printed-sweatshirt): Celebrate the warmth of the season in style with our “Eat, Drink, and Be Thankful” Unisex Premium Sweatshirt. Featuring a bold vertical design with rich fall colors, this cozy crewneck captures the true spirit of gratitude, gathering, and good food. Perfect for Thanksgiving, Friendsgiving, fall festivals, or adding autumn vibes to your everyday wardrobe. Crafted with a 100% cotton face and a soft cotton-poly fleece blend, this sweatshirt delivers the perfect balance of durability and comfort. The tightly knit 3-end fleece, ribbed cuffs, and sturdy double-needle stitching make it a long-lasting favorite for chilly days. Its unisex fit pairs effortlessly with jeans, leggings, and casual fall outfits. Features Premium Fabric Blend: 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Medium-Heavy Weight: 8.5 oz/yd² (288.2 g/m²) for cozy autumn warmth Soft 3-End Fleece Interior for comfort Side-Seamed Construction for a clean, flattering fit Sturdy Rib Collar, Cuffs & Hem with double-needle stitching Stylish Self-Fabric Patch on the back Design: Vertical fall-tone bars reading Eat · Drink · and be · Thankful Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-08T01:05:04Z
+  Updated: 2025-12-13T09:20:58Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -405,7 +405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-69357b591e980.png?v=1765113537
     Price: $38.00 USD
 - [Unisex Xmas Tree Retro Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-xmas-tree-retro-premium-printed-sweatshirt): Bring cheerful holiday vibes to your wardrobe with this Xmas Tree Retro Unisex Premium Sweatshirt. Featuring a playful grid of pixel-style Christmas trees in festive green tones and bold “XMAS TREE” lettering, this design is perfect for holiday parties, cozy winter days, or gifting to your favorite Christmas lover. Made with a 100% cotton face and a soft, durable cotton-poly blend, this sweatshirt offers warmth, comfort, and a modern streetwear fit. The tightly knit 3-end fleece, ribbed cuffs, and strong double-needle stitching ensure long-lasting wear through the entire holiday season. Features Premium Fabric: 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Mid-Heavy Fabric Weight: 8.5 oz/yd² (288.2 g/m²) Soft Interior: Tightly knit 3-end fleece for warmth Classic Build: Side-seamed construction for structure Durable Details: Double-needle stitched collar, cuffs & hem Premium Touch: Self-fabric patch on the back Design: Retro pixel Christmas trees with “XMAS TREE” text Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-08T01:29:20Z
+  Updated: 2025-12-13T09:20:59Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -603,7 +603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693581073bb4f.png?v=1765114391
     Price: $38.00 USD
 - [Unisex Keep Going Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-keep-going-premium-printed-sweatshirt): Stay inspired no matter where life takes you with our Unisex Keep Going Motivational Quote Premium Sweatshirt. Designed with a bold red, white, and blue stacked text graphic, this sweatshirt delivers both style and encouragement. Perfect for anyone who loves motivational apparel, this cozy and uplifting piece keeps your mindset strong—whether you're at the gym, heading to work, studying, or relaxing at home. Crafted with premium materials and a unisex fit, it’s the ideal blend of comfort, durability, and positive energy. Features: Soft and comfortable premium material Unisex fit for everyday wear Durable motivational print that won't fade easily Available in multiple sizes Perfect inspirational gift for friends, family, or yourself 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T01:45:51Z
+  Updated: 2025-12-13T18:02:35Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693584ecb1d6e.png?v=1765115738
     Price: $38.00 USD
 - [Unisex Work Hard Party Harder Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-work-hard-party-harder-premium-printed-sweatshirt): Celebrate the perfect balance of hustle and fun with our Unisex Work Hard Party Harder Premium Sweatshirt. Featuring bold and colorful dancing silhouettes on a sleek black background, this vibrant design captures the energy of motivation, celebration, and nightlife. Whether you're heading to a party, hanging out with friends, or simply expressing your fun-loving spirit, this sweatshirt offers the ideal blend of comfort, style, and personality. Made with premium materials and designed for everyday wear, it’s a standout piece for anyone who loves to work hard—and party even harder. Features Soft and comfortable premium material Unisex fit suitable for all body types Durable and vibrant print quality Perfect for parties, casual wear, or gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T02:05:06Z
+  Updated: 2025-12-13T09:21:01Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -975,7 +975,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-6935896e90482.png?v=1765116843
     Price: $38.00 USD
 - [Unisex Let It Snow Winter Snowfall Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-let-it-snow-winter-snowfall-premium-printed-sweatshirt): Bring the magic of winter wherever you go with the Unisex Let It Snow Winter Snowfall Design Premium Sweatshirt. Featuring a charming snowfall graphic and the festive phrase “Let It Snow,” this cozy sweatshirt captures the joyful spirit of the holiday season. Perfect for winter outings, Christmas celebrations, holiday photos, or simply staying warm and stylish on cold days, this design adds a touch of seasonal cheer to any outfit. Features Soft and comfortable premium material Unisex fit for a relaxed and cozy feel Durable print quality for long-lasting wear Ideal for winter outfits, Christmas holidays, and festive gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction for improved durability Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T04:05:52Z
+  Updated: 2025-12-13T09:21:02Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1149,7 +1149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-6935a5c072692.png?v=1765125995
     Price: $38.00 USD
 - [Unisex You’re My Person Heart Line Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-you-re-my-person-heart-line-premium-printed-sweatshirt): Celebrate love in its sweetest form with the Unisex You’re My Person Heart Line Romantic Quote Premium Sweatshirt. Designed with a minimalist heart-line illustration and the touching phrase “You’re My Person,” this sweatshirt captures deep connection, loyalty, and affection. Whether you're gifting it to a partner, spouse, best friend, or someone who holds a special place in your heart, this cozy and stylish sweatshirt delivers warmth, comfort, and meaningful sentiment in one perfect piece. Features Soft and comfortable premium material Unisex fit ideal for all body types High-quality, long-lasting print Perfect for couples, anniversaries, Valentine’s Day, and heartfelt gifts Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction for added durability Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T04:08:29Z
+  Updated: 2025-12-13T09:20:57Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1299,7 +1299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-6935a663382d3.png?v=1765125331
     Price: $38.00 USD
 - [Unisex Yoga Dancer Pose Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-yoga-dancer-pose-premium-printed-sweatshirt): Embrace your love for mindfulness, flexibility, and inner balance with this Unisex Yoga Dancer Pose Minimalist Design Premium Sweatshirt. Featuring a modern silhouette of a yoga dancer pose against soft abstract shapes, this sweatshirt blends artistic style with the calming essence of yoga. Perfect for yoga enthusiasts, wellness lovers, and anyone who appreciates minimalist aesthetic apparel, this cozy sweatshirt delivers both comfort and inspiration for practice, relaxation, or everyday wear. Features Soft and comfortable premium material Unisex fit suitable for all body types Durable, high-quality print design Perfect for yoga lovers, fitness fans, and wellness gift ideas Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece for lasting warmth Side-seamed construction for improved durability Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T04:13:05Z
+  Updated: 2025-12-13T09:20:58Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1497,7 +1497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6935a776047ae.png?v=1765125065
     Price: $38.00 USD
 - [Unisex Geometric Christmas Pattern Holiday Premium Sweatshirt | Festive Ugly Xmas Sweater Style](https://www.aurinwear.com/products/unisex-geometric-christmas-pattern-premium-printed-sweatshirt): Bring festive charm to your winter wardrobe with our Unisex Geometric Christmas Pattern Premium Sweatshirt. Featuring a bold red and green pixel-style design inspired by classic ugly Christmas sweaters, this piece blends cozy holiday spirit with a modern geometric aesthetic. Perfect for Christmas parties, winter outings, gift-giving, or simply enjoying the season in comfort and style, this premium sweatshirt offers warmth, softness, and long-lasting print quality. A must-have for anyone who loves unique holiday apparel and minimalist Christmas-themed fashion. Features: Soft and comfortable premium material Unisex fit suitable for all genders Durable, high-quality print that lasts Perfect for Christmas, winter outfits, and holiday gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction for a structured fit Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-08T06:56:34Z
+  Updated: 2025-12-13T09:20:59Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1671,7 +1671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6935cdbce0636.png?v=1765134902
     Price: $38.00 USD
 - [Unisex Santa’s Helper Christmas Raglan Printed Sweatshirt](https://www.aurinwear.com/products/unisex-santa-s-helper-christmas-raglan-printed-sweatshirt): Celebrate the magic of the holiday season with our Unisex Santa’s Helper Christmas Graphic Premium Sweatshirt. Featuring a charming Santa face illustration and festive typography, this cozy sweatshirt captures the joyful spirit of Christmas. Designed for comfort, style, and seasonal cheer, it’s the perfect holiday outfit for parties, family gatherings, Christmas photos, or thoughtful gift-giving. Made with premium eco-friendly materials and a soft brushed fleece interior, this Santa's Helper sweatshirt delivers warmth, durability, and timeless festive charm. Features: Soft and comfortable premium material Unisex fit suitable for all Durable print quality with festive Santa graphic Cozy brushed fleece lining for extra warmth Available in multiple sizes Side-seamed construction for better durability Raglan sleeves for a classic, relaxed look 2 × 2 ribbed cuffs, collar, and hem Eco-friendly and breathable fabric blend Fabric Details: 100% organic cotton exterior Charcoal Melange exterior: 60% organic cotton, 40% recycled polyester 80% organic cotton, 20% recycled polyester interior 97% organic cotton, 3% elastane ribs Fabric weight: 8.3 oz/yd² (280 g/m²) Charcoal Melange fabric weight: 10.3 oz/yd² (348 g/m²) Side-seamed construction Neck tape for added comfort Brushed fleece interior
-  Updated: 2025-12-09T00:54:37Z
+  Updated: 2025-12-13T09:21:00Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1813,7 +1813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-organic-raglan-sweatshirt-charcoal-melange-front-6935d681d8929.png?v=1765137030
     Price: $38.50 USD
 - [Unisex Focus Motivational Quote Raglan Printed Sweatshirt](https://www.aurinwear.com/products/unisex-focus-motivational-quote-raglan-printed-sweatshirt): Stay inspired and driven every day with our Unisex Focus Motivational Quote Premium Printed Sweatshirt. Designed with a bold retro-style "FOCUS" graphic on a sleek black backdrop, this sweatshirt is perfect for anyone who values productivity, mental clarity, and personal growth. Whether you're studying, working, creating, or simply embracing a positive mindset, this cozy and stylish sweatshirt keeps your motivation front and center. Features Soft and comfortable premium material Unisex fit for all-day comfort Durable, high-quality print design Perfect for students, entrepreneurs, gym-goers, and creatives Available in multiple sizes 100% organic cotton exterior Charcoal Melange exterior: 60% organic cotton, 40% recycled polyester 80% organic cotton, 20% recycled polyester interior 97% organic cotton, 3% elastane ribs Fabric weight: 8.3 oz/yd² (280 g/m²) Fabric weight for Charcoal Melange: 10.3 oz/yd² (348 g/m²) Side-seamed construction Raglan sleeves for a relaxed fit Neck tape for added comfort Brushed fleece lining for warmth 2 × 2 ribbed cuffs, collar, and hem
-  Updated: 2025-12-09T00:54:36Z
+  Updated: 2025-12-13T09:21:01Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1983,184 +1983,184 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-organic-raglan-sweatshirt-white-front-6935ddefac9c2.png?v=1765138366
     Price: $41.50 USD
 - [Unisex Pride Rainbow Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt): Celebrate love, identity, and equality with our Unisex Pride Rainbow Typography Premium Printed Sweatshirt. Featuring a bold and vibrant rainbow “PRIDE” design, this sweatshirt is perfect for anyone who wants to express support for the LGBTQ community in a stylish and meaningful way. The minimalist geometric typography adds a modern touch, making it ideal for everyday wear, Pride events, or as a heartfelt gift for someone special. Crafted with premium materials, it offers incredible comfort, durability, and a unisex fit that looks great on everyone. Features Soft and comfortable premium material Unisex fit suitable for all genders High-quality, durable print Perfect for Pride events, casual wear, or gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/yd² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-12T16:47:45Z
+  Updated: 2025-12-13T17:32:28Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
   - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801846422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765647148
     Price: $33.50 USD
   - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801879190)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765647148
     Price: $33.50 USD
   - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801911958)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765647148
     Price: $33.50 USD
   - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801944726)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765647148
     Price: $33.50 USD
   - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801977494)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765647148
     Price: $35.50 USD
   - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802010262)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765558064
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765647148
     Price: $38.00 USD
   - [Team Royal / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802239638)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
     Price: $33.50 USD
   - [Team Royal / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802272406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
     Price: $33.50 USD
   - [Team Royal / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802305174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
     Price: $33.50 USD
   - [Team Royal / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802337942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
     Price: $33.50 USD
   - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802370710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
     Price: $35.50 USD
   - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802403478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765647148
     Price: $38.00 USD
   - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802436246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765647148
     Price: $33.50 USD
   - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802469014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765647148
     Price: $33.50 USD
   - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802501782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765647148
     Price: $33.50 USD
   - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802534550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765647148
     Price: $33.50 USD
   - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802567318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765647148
     Price: $35.50 USD
   - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802600086)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765647148
     Price: $38.00 USD
   - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802632854)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765647148
     Price: $33.50 USD
   - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802665622)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765647148
     Price: $33.50 USD
   - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802698390)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765647148
     Price: $33.50 USD
   - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802731158)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765647148
     Price: $33.50 USD
   - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802763926)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765647148
     Price: $35.50 USD
   - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802796694)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765647148
     Price: $38.00 USD
   - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802829462)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765647148
     Price: $33.50 USD
   - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802862230)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765647148
     Price: $33.50 USD
   - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802894998)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765647148
     Price: $33.50 USD
   - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802927766)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765647148
     Price: $33.50 USD
   - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802960534)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765647148
     Price: $35.50 USD
   - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802993302)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765647148
     Price: $38.00 USD
 - [Unisex Hold My Crown Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt): Celebrate pride, confidence, and bold self-expression with our Unisex Pride Rainbow Hold My Crown Premium Printed Sweatshirt. Featuring a powerful crown graphic and pride-inspired design, this sweatshirt blends style with comfort, making it the perfect choice for LGBTQ celebrations, everyday wear, or gifting. The soft fleece fabric and durable print ensure long-lasting quality, while the unisex fit flatters all body types. Show your pride in comfort and confidence! Features Soft and comfortable premium material Unisex fit suitable for all genders Vibrant and durable rainbow print quality Perfect for Pride Month, LGBTQ events, or casual wear Available in multiple sizes Front print placement Ideal as a meaningful LGBTQ pride gift Fabric Details 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-10T22:49:18Z
+  Updated: 2025-12-13T17:36:35Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
   - [Black / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831468694)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765647394
     Price: $33.50 USD
   - [Black / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831501462)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765647394
     Price: $33.50 USD
   - [Black / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831534230)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765647394
     Price: $33.50 USD
   - [Black / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831566998)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765647394
     Price: $33.50 USD
   - [Black / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831599766)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765647394
     Price: $35.50 USD
   - [Black / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831632534)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765647394
     Price: $38.00 USD
   - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831665302)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
     Price: $33.50 USD
   - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831698070)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
     Price: $33.50 USD
   - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831730838)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
     Price: $33.50 USD
   - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831763606)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
     Price: $33.50 USD
   - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831796374)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
     Price: $35.50 USD
   - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831829142)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765647394
     Price: $38.00 USD
   - [Team Royal / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831861910)
     Availability: Available
@@ -2235,7 +2235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
     Price: $38.00 USD
 - [Unisex I’m Awesome Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-i-m-awesome-premium-printed-sweatshirt): Elevate your everyday style with our Unisex I’m Awesome Motivational Quote Premium Printed Sweatshirt, designed for anyone who loves spreading positivity and confidence. Featuring a bold “I’M AWESOME” graphic on a sleek black backdrop, this sweatshirt blends inspiration with modern streetwear style. Soft, cozy, and durable—it's the perfect go-to piece for casual outings, lounging, or layering during cooler days. Whether you're shopping for yourself or gifting motivation to someone special, this premium printed sweatshirt is made to stand out. Features Soft and comfortable premium material Bold turquoise “I’M AWESOME” front graphic Unisex fit suitable for all body types Durable DTF print quality Perfect for casual wear, gifting, or motivation Available in sizes S–3XL Ribbed cuffs, collar, and hem for a clean fit Fabric Details 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-10T22:46:19Z
+  Updated: 2025-12-13T09:20:58Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -2433,34 +2433,34 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6938613b3fdbe.png?v=1765363565
     Price: $38.00 USD
 - [Unisex Kindness Is Invincible Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt): Celebrate positivity and empowerment with our Unisex Kindness Is Invincible Inspirational Quote Premium Printed Sweatshirt. Featuring a beautiful graphic design of people sharing kindness and a warm message that inspires, this sweatshirt blends comfort, style, and purpose. Perfect for spreading good vibes, supporting mental health awareness, and expressing compassion—whether you're gifting it or wearing it yourself. Crafted with premium fleece and high-quality printing, this uplifting sweatshirt is a must-have for anyone who believes kindness truly matters. Features: Soft and comfortable premium material Unisex fit suitable for all body types Durable high-quality print that stays vibrant Perfect for casual wear, gifting, and spreading positivity Available in multiple sizes (S–3XL) Ribbed cuffs, collar, and hem for enhanced durability Ideal for fall, winter, and cozy layering Fabric Details: 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-10T10:51:15Z
+  Updated: 2025-12-13T17:29:39Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
   - [Black / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847069846)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765646979
     Price: $33.50 USD
   - [Black / M](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847102614)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765646979
     Price: $33.50 USD
   - [Black / L](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847135382)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765646979
     Price: $33.50 USD
   - [Black / XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847168150)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765646979
     Price: $33.50 USD
   - [Black / 2XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847200918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765646979
     Price: $35.50 USD
   - [Black / 3XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847233686)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765304641
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69386925aa8e2.png?v=1765646979
     Price: $38.00 USD
   - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847266454)
     Availability: Available
@@ -2512,27 +2512,27 @@
     Price: $38.00 USD
   - [Forest Green / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847659670)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765305545
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
     Price: $33.50 USD
   - [Forest Green / M](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847692438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765305545
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
     Price: $33.50 USD
   - [Forest Green / L](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847725206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765305545
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
     Price: $33.50 USD
   - [Forest Green / XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847757974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765305545
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
     Price: $33.50 USD
   - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847790742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765305545
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
     Price: $35.50 USD
   - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847823510)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765305545
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69386925d3f9d.png?v=1765646979
     Price: $38.00 USD
   - [Team Red / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt?variant=46003847856278)
     Availability: Available
@@ -2639,82 +2639,82 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693869265dc5d.png?v=1765305545
     Price: $33.50 USD
 - [Unisex Kindness Is Invincible Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1): Celebrate the power of kindness with our Unisex Kindness Is Invincible Premium Printed Sweatshirt. Featuring a soft pastel illustration of a person spreading kindness, this cozy pullover beautifully blends warmth, comfort, and meaning. Whether you're promoting positivity, supporting mental-health awareness, or simply love inspirational quote apparel, this sweatshirt delivers the perfect blend of style and message. Its premium print and modern aesthetic make it an uplifting everyday piece and a thoughtful gift for anyone who believes kindness truly is invincible. Features Soft and comfortable premium material Unisex fit for all-day comfort High-quality durable print Perfect for casual wear, layering, or gifting Available in multiple colors and sizes Front DTF printing for crisp, long-lasting artwork Fabric Details 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-10T22:43:16Z
+  Updated: 2025-12-13T19:09:56Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
   - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273152150)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765647569
     Price: $33.50 USD
   - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273184918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765647569
     Price: $33.50 USD
   - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273217686)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765647569
     Price: $33.50 USD
   - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273250454)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765647569
     Price: $33.50 USD
   - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273283222)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765647569
     Price: $35.50 USD
   - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273315990)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69387289855bd.png?v=1765647569
     Price: $38.00 USD
   - [Black / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004272955542)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765647569
     Price: $33.50 USD
   - [Black / M](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004272988310)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765647569
     Price: $33.50 USD
   - [Black / L](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273021078)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765647569
     Price: $33.50 USD
   - [Black / XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273053846)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765647569
     Price: $33.50 USD
   - [Black / 2XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273086614)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765647569
     Price: $35.50 USD
   - [Black / 3XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273119382)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765307039
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6938728971945.png?v=1765647569
     Price: $38.00 USD
   - [Forest Green / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273348758)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
     Price: $33.50 USD
   - [Forest Green / M](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273381526)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
     Price: $33.50 USD
   - [Forest Green / L](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273414294)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
     Price: $33.50 USD
   - [Forest Green / XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273447062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
     Price: $33.50 USD
   - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273479830)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
     Price: $35.50 USD
   - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273512598)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765363075
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693872898b2c3.png?v=1765652995
     Price: $38.00 USD
   - [Team Red / S](https://www.aurinwear.com/products/unisex-kindness-is-invincible-premium-printed-sweatshirt-1?variant=46004273545366)
     Availability: Available
@@ -2836,1299 +2836,1590 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-69387289d8487.png?v=1765363075
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T06:06:19Z
+- [Unisex Pixel Cat Meow Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt): Add fun to your look with this pixel cat meow sweatshirt. A cozy unisex printed sweatshirt perfect for casual fall and winter wear.
+  Updated: 2025-12-13T17:24:30Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-693b07edadb7b.png?v=1765478711
-  - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025826959510)
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
+  - [Black / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025826959510)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765646568
     Price: $33.50 USD
-  - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025826992278)
+  - [Black / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025826992278)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765646568
     Price: $33.50 USD
-  - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827025046)
+  - [Black / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827025046)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765646568
     Price: $33.50 USD
-  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827057814)
+  - [Black / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827057814)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765646568
     Price: $33.50 USD
-  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827090582)
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827090582)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765646568
     Price: $35.50 USD
-  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827123350)
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827123350)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b07ed1eb05.png?v=1765646568
     Price: $38.00 USD
-  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827156118)
+  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827156118)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765479198
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765646568
     Price: $33.50 USD
-  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827188886)
+  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827188886)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765479198
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765646568
     Price: $33.50 USD
-  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827221654)
+  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827221654)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765479198
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765646568
     Price: $33.50 USD
-  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827254422)
+  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827254422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765479198
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765646568
     Price: $33.50 USD
-  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827287190)
+  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827287190)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765479198
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765646568
     Price: $35.50 USD
-  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827319958)
+  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827319958)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765479198
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b07edaf295.png?v=1765646568
     Price: $38.00 USD
-  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827352726)
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827352726)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765479233
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765646568
     Price: $33.50 USD
-  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827385494)
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827385494)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765479233
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765646568
     Price: $33.50 USD
-  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827418262)
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827418262)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765479233
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765646568
     Price: $33.50 USD
-  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827451030)
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827451030)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765479233
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765646568
     Price: $33.50 USD
-  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827483798)
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827483798)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765479233
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765646568
     Price: $35.50 USD
-  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827516566)
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827516566)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765479233
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b07edb9629.png?v=1765646568
     Price: $38.00 USD
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827549334)
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827549334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765646568
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827582102)
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827582102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765646568
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827614870)
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827614870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765646568
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827647638)
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827647638)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765646568
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827680406)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827680406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765646568
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827713174)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827713174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b07edc8175.png?v=1765646568
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827745942)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827745942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765646568
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827778710)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827778710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765646568
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827811478)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827811478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765646568
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827844246)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827844246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765646568
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827877014)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827877014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765646568
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827909782)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827909782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b07eddd7d7.png?v=1765646568
     Price: $38.00 USD
-  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827942550)
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827942550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
     Price: $33.50 USD
-  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025827975318)
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025827975318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
     Price: $33.50 USD
-  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828008086)
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828008086)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
     Price: $33.50 USD
-  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828040854)
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828040854)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
     Price: $33.50 USD
-  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828073622)
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828073622)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
     Price: $35.50 USD
-  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828106390)
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828106390)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b07ee0272e.png?v=1765646568
     Price: $38.00 USD
-  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828139158)
+  - [White / S](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828139158)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765646568
     Price: $33.50 USD
-  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828171926)
+  - [White / M](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828171926)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765646568
     Price: $33.50 USD
-  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828204694)
+  - [White / L](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828204694)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765646568
     Price: $33.50 USD
-  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828237462)
+  - [White / XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828237462)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765646568
     Price: $33.50 USD
-  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828270230)
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828270230)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765646568
     Price: $35.50 USD
-  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-1?variant=46025828302998)
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-printed-sweatshirt?variant=46025828302998)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765478711
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b07ee24315.png?v=1765646568
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T17:31:21Z
+- [Unisex Crowned Dog Graphic Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt): Show your playful side with this crowned dog graphic sweatshirt. A comfortable unisex printed sweatshirt perfect for fall and winter wear.
+  Updated: 2025-12-13T17:24:23Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-right-front-693b0b354db38.png?v=1765559422
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838690454)
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838690454)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765646296
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838723222)
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838723222)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765646296
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838755990)
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838755990)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765646296
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838788758)
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838788758)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765646296
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838821526)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838821526)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765646296
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838854294)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838854294)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0b351d1a5.png?v=1765646296
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838887062)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838887062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765646618
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838919830)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838919830)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765646618
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838952598)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838952598)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765646618
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025838985366)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025838985366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765646618
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839018134)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839018134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765646618
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839050902)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839050902)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0b3525f79.png?v=1765646618
     Price: $38.00 USD
-  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839083670)
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839083670)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765646618
     Price: $33.50 USD
-  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839116438)
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839116438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765646618
     Price: $33.50 USD
-  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839149206)
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839149206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765646618
     Price: $33.50 USD
-  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839181974)
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839181974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765646618
     Price: $33.50 USD
-  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839214742)
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839214742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765646618
     Price: $35.50 USD
-  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839247510)
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839247510)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0b3532657.png?v=1765646618
     Price: $38.00 USD
-  - [Bone / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839280278)
+  - [Bone / S](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839280278)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765559422
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
     Price: $33.50 USD
-  - [Bone / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839313046)
+  - [Bone / M](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839313046)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765559422
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
     Price: $33.50 USD
-  - [Bone / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839345814)
+  - [Bone / L](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839345814)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765559422
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
     Price: $33.50 USD
-  - [Bone / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839378582)
+  - [Bone / XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839378582)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765559422
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
     Price: $33.50 USD
-  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839411350)
+  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839411350)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765559422
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
     Price: $35.50 USD
-  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839444118)
+  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839444118)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765559422
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0b3542125.png?v=1765646296
     Price: $38.00 USD
-  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839476886)
+  - [White / S](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839476886)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765646618
     Price: $33.50 USD
-  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839509654)
+  - [White / M](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839509654)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765646618
     Price: $33.50 USD
-  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839542422)
+  - [White / L](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839542422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765646618
     Price: $33.50 USD
-  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839575190)
+  - [White / XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839575190)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765646618
     Price: $33.50 USD
-  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839607958)
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839607958)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765646618
     Price: $35.50 USD
-  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-2?variant=46025839640726)
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-crowned-dog-graphic-premium-printed-sweatshirt?variant=46025839640726)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765560631
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0b35584fe.png?v=1765646618
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T17:44:39Z
+- [Cute Cat Floral Unisex Printed Sweatshirt](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt): Stay cozy in this cute Cat  floral sweatshirt. A soft unisex printed sweatshirt designed for everyday comfort during fall and winter.
+  Updated: 2025-12-13T17:24:24Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
-  - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842458774)
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
+  - [Black / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842458774)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765645368
     Price: $33.50 USD
-  - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842491542)
+  - [Black / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842491542)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765645368
     Price: $33.50 USD
-  - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842524310)
+  - [Black / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842524310)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765645368
     Price: $33.50 USD
-  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842557078)
+  - [Black / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842557078)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765645368
     Price: $33.50 USD
-  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842589846)
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842589846)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765645368
     Price: $35.50 USD
-  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842622614)
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842622614)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765477557
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b0c94699da.png?v=1765645368
     Price: $38.00 USD
-  - [Navy Blazer / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842655382)
+  - [Navy Blazer / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842655382)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765645368
     Price: $33.50 USD
-  - [Navy Blazer / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842688150)
+  - [Navy Blazer / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842688150)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765645368
     Price: $33.50 USD
-  - [Navy Blazer / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842720918)
+  - [Navy Blazer / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842720918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765645368
     Price: $33.50 USD
-  - [Navy Blazer / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842753686)
+  - [Navy Blazer / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842753686)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765645368
     Price: $33.50 USD
-  - [Navy Blazer / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842786454)
+  - [Navy Blazer / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842786454)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765645368
     Price: $35.50 USD
-  - [Navy Blazer / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842819222)
+  - [Navy Blazer / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842819222)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b0c9529622.png?v=1765645368
     Price: $38.00 USD
-  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842851990)
+  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842851990)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
     Price: $33.50 USD
-  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842884758)
+  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842884758)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
     Price: $33.50 USD
-  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842917526)
+  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842917526)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
     Price: $33.50 USD
-  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842950294)
+  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842950294)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
     Price: $33.50 USD
-  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025842983062)
+  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025842983062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
     Price: $35.50 USD
-  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843015830)
+  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843015830)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b0c9532cda.png?v=1765645368
     Price: $38.00 USD
-  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843048598)
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843048598)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765645368
     Price: $33.50 USD
-  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843081366)
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843081366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765645368
     Price: $33.50 USD
-  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843114134)
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843114134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765645368
     Price: $33.50 USD
-  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843146902)
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843146902)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765645368
     Price: $33.50 USD
-  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843179670)
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843179670)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765645368
     Price: $35.50 USD
-  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843212438)
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843212438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b0c9541438.png?v=1765645368
     Price: $38.00 USD
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843245206)
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843245206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765645368
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843277974)
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843277974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765645368
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843310742)
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843310742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765645368
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843343510)
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843343510)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765645368
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843376278)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843376278)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765645368
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843409046)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843409046)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0c954a29f.png?v=1765645368
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843441814)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843441814)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765645368
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843474582)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843474582)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765645368
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843507350)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843507350)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765645368
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843540118)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843540118)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765645368
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843572886)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843572886)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765645368
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843605654)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843605654)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0c95745a6.png?v=1765645368
     Price: $38.00 USD
-  - [Bone / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843638422)
+  - [Bone / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843638422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765645368
     Price: $33.50 USD
-  - [Bone / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843671190)
+  - [Bone / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843671190)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765645368
     Price: $33.50 USD
-  - [Bone / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843703958)
+  - [Bone / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843703958)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765645368
     Price: $33.50 USD
-  - [Bone / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843736726)
+  - [Bone / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843736726)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765645368
     Price: $33.50 USD
-  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843769494)
+  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843769494)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765645368
     Price: $35.50 USD
-  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843802262)
+  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843802262)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0c9583340.png?v=1765645368
     Price: $38.00 USD
-  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843835030)
+  - [White / S](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843835030)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765645368
     Price: $33.50 USD
-  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843867798)
+  - [White / M](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843867798)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765645368
     Price: $33.50 USD
-  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843900566)
+  - [White / L](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843900566)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765645368
     Price: $33.50 USD
-  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843933334)
+  - [White / XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843933334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765645368
     Price: $33.50 USD
-  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843966102)
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843966102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765645368
     Price: $35.50 USD
-  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-3?variant=46025843998870)
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-cute-cat-floral-premium-printed-sweatshirt?variant=46025843998870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765561479
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0c95bc852.png?v=1765645368
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T18:00:52Z
+- [Floral Bunny Graphic Unisex Printed Sweatshirt](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt): Add charm to your wardrobe with this floral bunny graphic sweatshirt. A cozy unisex printed sweatshirt perfect for fall and winter wear.
+  Updated: 2025-12-13T17:24:26Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025847996566)
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025847996566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848029334)
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848029334)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848062102)
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848062102)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848094870)
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848094870)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848127638)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848127638)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848160406)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848160406)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b0ded91fbf.png?v=1765477895
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848193174)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848193174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0dedc7eaa.png?v=1765562452
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848225942)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848225942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0dedc7eaa.png?v=1765562452
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848258710)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848258710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0dedc7eaa.png?v=1765562452
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848291478)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848291478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0dedc7eaa.png?v=1765562452
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848324246)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848324246)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0dedc7eaa.png?v=1765562452
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848357014)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848357014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b0dedc7eaa.png?v=1765562452
     Price: $38.00 USD
-  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848389782)
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848389782)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0dedcfd3f.png?v=1765562452
     Price: $33.50 USD
-  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848422550)
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848422550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0dedcfd3f.png?v=1765562452
     Price: $33.50 USD
-  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848455318)
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848455318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0dedcfd3f.png?v=1765562452
     Price: $33.50 USD
-  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848488086)
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848488086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0dedcfd3f.png?v=1765562452
     Price: $33.50 USD
-  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848520854)
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848520854)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0dedcfd3f.png?v=1765562452
     Price: $35.50 USD
-  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848553622)
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848553622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b0dedcfd3f.png?v=1765562452
     Price: $38.00 USD
-  - [Bone / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848586390)
+  - [Bone / S](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848586390)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0dedd4b3e.png?v=1765562452
     Price: $33.50 USD
-  - [Bone / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848619158)
+  - [Bone / M](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848619158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0dedd4b3e.png?v=1765562452
     Price: $33.50 USD
-  - [Bone / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848651926)
+  - [Bone / L](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848651926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0dedd4b3e.png?v=1765562452
     Price: $33.50 USD
-  - [Bone / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848684694)
+  - [Bone / XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848684694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0dedd4b3e.png?v=1765562452
     Price: $33.50 USD
-  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848717462)
+  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848717462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0dedd4b3e.png?v=1765562452
     Price: $35.50 USD
-  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848750230)
+  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848750230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b0dedd4b3e.png?v=1765562452
     Price: $38.00 USD
-  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848782998)
+  - [White / S](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848782998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0dede9074.png?v=1765562452
     Price: $33.50 USD
-  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848815766)
+  - [White / M](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848815766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0dede9074.png?v=1765562452
     Price: $33.50 USD
-  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848848534)
+  - [White / L](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848848534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0dede9074.png?v=1765562452
     Price: $33.50 USD
-  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848881302)
+  - [White / XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848881302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0dede9074.png?v=1765562452
     Price: $33.50 USD
-  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848914070)
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848914070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0dede9074.png?v=1765562452
     Price: $35.50 USD
-  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-4?variant=46025848946838)
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-floral-bunny-graphic-premium-printed-sweatshirt?variant=46025848946838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b0dede9074.png?v=1765562452
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T18:08:50Z
+- [Girl With Dog Illustration Unisex Sweatshirt](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt): Stay cozy in this girl with dog illustration sweatshirt. A soft unisex printed sweatshirt made for dog lovers, perfect for fall and winter wear.
+  Updated: 2025-12-13T17:24:27Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
-  - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869099158)
+  - [Black / S](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869099158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
     Price: $33.50 USD
-  - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869131926)
+  - [Black / M](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869131926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
     Price: $33.50 USD
-  - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869164694)
+  - [Black / L](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869164694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
     Price: $33.50 USD
-  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869197462)
+  - [Black / XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869197462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
     Price: $33.50 USD
-  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869230230)
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869230230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
     Price: $35.50 USD
-  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869262998)
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869262998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b15c319da5.png?v=1765479902
     Price: $38.00 USD
-  - [Navy Blazer / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869295766)
+  - [Navy Blazer / S](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869295766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b15c3883fd.png?v=1765479902
     Price: $33.50 USD
-  - [Navy Blazer / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869328534)
+  - [Navy Blazer / M](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869328534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b15c3883fd.png?v=1765479902
     Price: $33.50 USD
-  - [Navy Blazer / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869361302)
+  - [Navy Blazer / L](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869361302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b15c3883fd.png?v=1765479902
     Price: $33.50 USD
-  - [Navy Blazer / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869394070)
+  - [Navy Blazer / XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869394070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b15c3883fd.png?v=1765479902
     Price: $33.50 USD
-  - [Navy Blazer / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869426838)
+  - [Navy Blazer / 2XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869426838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b15c3883fd.png?v=1765479902
     Price: $35.50 USD
-  - [Navy Blazer / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869459606)
+  - [Navy Blazer / 3XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869459606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b15c3883fd.png?v=1765479902
     Price: $38.00 USD
-  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869492374)
+  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869492374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b15c395547.png?v=1765479903
     Price: $33.50 USD
-  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869525142)
+  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869525142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b15c395547.png?v=1765479903
     Price: $33.50 USD
-  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869557910)
+  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869557910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b15c395547.png?v=1765479903
     Price: $33.50 USD
-  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869590678)
+  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869590678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b15c395547.png?v=1765479903
     Price: $33.50 USD
-  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869623446)
+  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869623446)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b15c395547.png?v=1765479903
     Price: $35.50 USD
-  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869656214)
+  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869656214)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b15c395547.png?v=1765479903
     Price: $38.00 USD
-  - [Team Royal / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869688982)
+  - [Team Royal / S](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869688982)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b15c3a9849.png?v=1765479902
     Price: $33.50 USD
-  - [Team Royal / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869721750)
+  - [Team Royal / M](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869721750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b15c3a9849.png?v=1765479902
     Price: $33.50 USD
-  - [Team Royal / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869754518)
+  - [Team Royal / L](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869754518)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b15c3a9849.png?v=1765479902
     Price: $33.50 USD
-  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869787286)
+  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869787286)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b15c3a9849.png?v=1765479902
     Price: $33.50 USD
-  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869820054)
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869820054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b15c3a9849.png?v=1765479902
     Price: $35.50 USD
-  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869852822)
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869852822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b15c3a9849.png?v=1765479902
     Price: $38.00 USD
-  - [Vintage Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869885590)
+  - [Vintage Black / S](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869885590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-vintage-black-front-693b15c3b333e.png?v=1765479903
     Price: $33.50 USD
-  - [Vintage Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869918358)
+  - [Vintage Black / M](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869918358)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-vintage-black-front-693b15c3b333e.png?v=1765479903
     Price: $33.50 USD
-  - [Vintage Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869951126)
+  - [Vintage Black / L](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869951126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-vintage-black-front-693b15c3b333e.png?v=1765479903
     Price: $33.50 USD
-  - [Vintage Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025869983894)
+  - [Vintage Black / XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025869983894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-vintage-black-front-693b15c3b333e.png?v=1765479903
     Price: $33.50 USD
-  - [Vintage Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870016662)
+  - [Vintage Black / 2XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870016662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-vintage-black-front-693b15c3b333e.png?v=1765479903
     Price: $35.50 USD
-  - [Vintage Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870049430)
+  - [Vintage Black / 3XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870049430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-vintage-black-front-693b15c3b333e.png?v=1765479903
     Price: $38.00 USD
-  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870082198)
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870082198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b15c3d3aa8.png?v=1765479903
     Price: $33.50 USD
-  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870114966)
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870114966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b15c3d3aa8.png?v=1765479903
     Price: $33.50 USD
-  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870147734)
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870147734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b15c3d3aa8.png?v=1765479903
     Price: $33.50 USD
-  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870180502)
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870180502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b15c3d3aa8.png?v=1765479903
     Price: $33.50 USD
-  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870213270)
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870213270)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b15c3d3aa8.png?v=1765479903
     Price: $35.50 USD
-  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-5?variant=46025870246038)
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-girl-with-dog-premium-printed-sweatshirt?variant=46025870246038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b15c3d3aa8.png?v=1765479903
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T18:24:52Z
+- [Cat Mama Unisex Printed Sweatshirt](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt): Celebrate your love for cats with this Cat Mama sweatshirt. A cozy unisex printed sweatshirt designed for everyday comfort in fall and winter.
+  Updated: 2025-12-13T17:24:22Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
-  - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872736406)
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
+  - [Black / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872736406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765643741
     Price: $33.50 USD
-  - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872769174)
+  - [Black / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872769174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765643741
     Price: $33.50 USD
-  - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872801942)
+  - [Black / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872801942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765643741
     Price: $33.50 USD
-  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872834710)
+  - [Black / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872834710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765643741
     Price: $33.50 USD
-  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872867478)
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872867478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765643741
     Price: $35.50 USD
-  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872900246)
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872900246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b17c65dc7d.png?v=1765643741
     Price: $38.00 USD
-  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872933014)
+  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872933014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b17c6e3c41.png?v=1765563892
     Price: $33.50 USD
-  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872965782)
+  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872965782)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b17c6e3c41.png?v=1765563892
     Price: $33.50 USD
-  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025872998550)
+  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025872998550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b17c6e3c41.png?v=1765563892
     Price: $33.50 USD
-  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873031318)
+  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873031318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b17c6e3c41.png?v=1765563892
     Price: $33.50 USD
-  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873064086)
+  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873064086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b17c6e3c41.png?v=1765563892
     Price: $35.50 USD
-  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873096854)
+  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873096854)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b17c6e3c41.png?v=1765563892
     Price: $38.00 USD
-  - [Team Royal / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873129622)
+  - [Team Royal / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873129622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b17c6f023d.png?v=1765563892
     Price: $33.50 USD
-  - [Team Royal / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873162390)
+  - [Team Royal / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873162390)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b17c6f023d.png?v=1765563892
     Price: $33.50 USD
-  - [Team Royal / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873195158)
+  - [Team Royal / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873195158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b17c6f023d.png?v=1765563892
     Price: $33.50 USD
-  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873227926)
+  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873227926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b17c6f023d.png?v=1765563892
     Price: $33.50 USD
-  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873260694)
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873260694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b17c6f023d.png?v=1765563892
     Price: $35.50 USD
-  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873293462)
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873293462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b17c6f023d.png?v=1765563892
     Price: $38.00 USD
-  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873326230)
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873326230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b17c70e165.png?v=1765563892
     Price: $33.50 USD
-  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873358998)
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873358998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b17c70e165.png?v=1765563892
     Price: $33.50 USD
-  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873391766)
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873391766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b17c70e165.png?v=1765563892
     Price: $33.50 USD
-  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873424534)
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873424534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b17c70e165.png?v=1765563892
     Price: $33.50 USD
-  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873457302)
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873457302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b17c70e165.png?v=1765563892
     Price: $35.50 USD
-  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873490070)
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873490070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b17c70e165.png?v=1765563892
     Price: $38.00 USD
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873522838)
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873522838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b17c7173ca.png?v=1765563892
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873555606)
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873555606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b17c7173ca.png?v=1765563892
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873588374)
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873588374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b17c7173ca.png?v=1765563892
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873621142)
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873621142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b17c7173ca.png?v=1765563892
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873653910)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873653910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b17c7173ca.png?v=1765563892
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873686678)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873686678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b17c7173ca.png?v=1765563892
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873719446)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873719446)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873752214)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873752214)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873784982)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873784982)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873817750)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873817750)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873850518)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873850518)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873883286)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873883286)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765563892
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b17c740679.png?v=1765643742
     Price: $38.00 USD
-  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873916054)
+  - [White / S](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873916054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b17c75ddea.png?v=1765563892
     Price: $33.50 USD
-  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873948822)
+  - [White / M](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873948822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b17c75ddea.png?v=1765563892
     Price: $33.50 USD
-  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025873981590)
+  - [White / L](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025873981590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b17c75ddea.png?v=1765563892
     Price: $33.50 USD
-  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025874014358)
+  - [White / XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025874014358)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b17c75ddea.png?v=1765563892
     Price: $33.50 USD
-  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025874047126)
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025874047126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b17c75ddea.png?v=1765563892
     Price: $35.50 USD
-  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-6?variant=46025874079894)
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-premium-printed-sweatshirt?variant=46025874079894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b17c75ddea.png?v=1765563892
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T18:34:33Z
+- [I Can't Have Plans With My Cat Unisex Sweatshirt](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt): Show your love for cats with this I can't have plans with my cat sweatshirt. A cozy unisex printed sweatshirt perfect for fall and winter wear.
+  Updated: 2025-12-13T17:24:29Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877323926)
+  - [Team Red / S](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877323926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b19bd9028b.png?v=1765564472
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877356694)
+  - [Team Red / M](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877356694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b19bd9028b.png?v=1765564472
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877389462)
+  - [Team Red / L](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877389462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b19bd9028b.png?v=1765564472
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877422230)
+  - [Team Red / XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877422230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b19bd9028b.png?v=1765564472
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877454998)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877454998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b19bd9028b.png?v=1765564472
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877487766)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877487766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b19bd9028b.png?v=1765564472
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877520534)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877520534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b19bda4f6b.png?v=1765564472
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877553302)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877553302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b19bda4f6b.png?v=1765564472
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877586070)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877586070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b19bda4f6b.png?v=1765564472
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877618838)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877618838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b19bda4f6b.png?v=1765564472
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877651606)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877651606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b19bda4f6b.png?v=1765564472
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877684374)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877684374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b19bda4f6b.png?v=1765564472
     Price: $38.00 USD
-  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877717142)
+  - [Carbon Grey / S](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877717142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b19bdb8373.png?v=1765564472
     Price: $33.50 USD
-  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877749910)
+  - [Carbon Grey / M](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877749910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b19bdb8373.png?v=1765564472
     Price: $33.50 USD
-  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877782678)
+  - [Carbon Grey / L](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877782678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b19bdb8373.png?v=1765564472
     Price: $33.50 USD
-  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877815446)
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877815446)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b19bdb8373.png?v=1765564472
     Price: $33.50 USD
-  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877848214)
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877848214)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b19bdb8373.png?v=1765564472
     Price: $35.50 USD
-  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877880982)
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877880982)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b19bdb8373.png?v=1765564472
     Price: $38.00 USD
-  - [Bone / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877913750)
+  - [Bone / S](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877913750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
     Price: $33.50 USD
-  - [Bone / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877946518)
+  - [Bone / M](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877946518)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
     Price: $33.50 USD
-  - [Bone / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025877979286)
+  - [Bone / L](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025877979286)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
     Price: $33.50 USD
-  - [Bone / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878012054)
+  - [Bone / XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878012054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
     Price: $33.50 USD
-  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878044822)
+  - [Bone / 2XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878044822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
     Price: $35.50 USD
-  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878077590)
+  - [Bone / 3XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878077590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b19bdc076f.png?v=1765564472
     Price: $38.00 USD
-  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878110358)
+  - [White / S](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878110358)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b19be0045e.png?v=1765564472
     Price: $33.50 USD
-  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878143126)
+  - [White / M](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878143126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b19be0045e.png?v=1765564472
     Price: $33.50 USD
-  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878175894)
+  - [White / L](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878175894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b19be0045e.png?v=1765564472
     Price: $33.50 USD
-  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878208662)
+  - [White / XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878208662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b19be0045e.png?v=1765564472
     Price: $33.50 USD
-  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878241430)
+  - [White / 2XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878241430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b19be0045e.png?v=1765564472
     Price: $35.50 USD
-  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-7?variant=46025878274198)
+  - [White / 3XL](https://www.aurinwear.com/products/i-cant-have-plans-with-my-cat-sweatshirt?variant=46025878274198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b19be0045e.png?v=1765564472
     Price: $38.00 USD
-- [Unisex Premium Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-12T18:53:44Z
+- [Cute Owl Graphic Sweatshirt for Men & Women](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt): Stay cozy in this cute owl graphic sweatshirt designed for everyday comfort. A unisex printed sweatshirt perfect for fall and winter wear.
+  Updated: 2025-12-13T17:24:25Z
   Vendor: Aurin Wear
-  Product Type: 
+  Product Type: Sweatshirts for Men's & Women's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693b1b144b40b.png?v=1765565624
-  - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881583766)
+  - [Black / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881583766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b1b1245fd3.png?v=1765565624
     Price: $33.50 USD
-  - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881616534)
+  - [Black / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881616534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b1b1245fd3.png?v=1765565624
     Price: $33.50 USD
-  - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881649302)
+  - [Black / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881649302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b1b1245fd3.png?v=1765565624
     Price: $33.50 USD
-  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881682070)
+  - [Black / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881682070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b1b1245fd3.png?v=1765565624
     Price: $33.50 USD
-  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881714838)
+  - [Black / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881714838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b1b1245fd3.png?v=1765565624
     Price: $35.50 USD
-  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881747606)
+  - [Black / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881747606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-693b1b1245fd3.png?v=1765565624
     Price: $38.00 USD
-  - [Navy Blazer / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881780374)
+  - [Navy Blazer / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881780374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b1b1365073.png?v=1765565624
     Price: $33.50 USD
-  - [Navy Blazer / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881813142)
+  - [Navy Blazer / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881813142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b1b1365073.png?v=1765565624
     Price: $33.50 USD
-  - [Navy Blazer / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881845910)
+  - [Navy Blazer / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881845910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b1b1365073.png?v=1765565624
     Price: $33.50 USD
-  - [Navy Blazer / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881878678)
+  - [Navy Blazer / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881878678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b1b1365073.png?v=1765565624
     Price: $33.50 USD
-  - [Navy Blazer / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881911446)
+  - [Navy Blazer / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881911446)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b1b1365073.png?v=1765565624
     Price: $35.50 USD
-  - [Navy Blazer / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881944214)
+  - [Navy Blazer / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881944214)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-navy-blazer-front-693b1b1365073.png?v=1765565624
     Price: $38.00 USD
-  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025881976982)
+  - [Charcoal Heather / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025881976982)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b1b136cfdf.png?v=1765565624
     Price: $33.50 USD
-  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882009750)
+  - [Charcoal Heather / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882009750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b1b136cfdf.png?v=1765565624
     Price: $33.50 USD
-  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882042518)
+  - [Charcoal Heather / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882042518)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b1b136cfdf.png?v=1765565624
     Price: $33.50 USD
-  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882075286)
+  - [Charcoal Heather / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882075286)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b1b136cfdf.png?v=1765565624
     Price: $33.50 USD
-  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882108054)
+  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882108054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b1b136cfdf.png?v=1765565624
     Price: $35.50 USD
-  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882140822)
+  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882140822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-693b1b136cfdf.png?v=1765565624
     Price: $38.00 USD
-  - [Team Royal / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882173590)
+  - [Team Royal / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882173590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b1b137b4f2.png?v=1765565624
     Price: $33.50 USD
-  - [Team Royal / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882206358)
+  - [Team Royal / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882206358)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b1b137b4f2.png?v=1765565624
     Price: $33.50 USD
-  - [Team Royal / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882239126)
+  - [Team Royal / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882239126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b1b137b4f2.png?v=1765565624
     Price: $33.50 USD
-  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882271894)
+  - [Team Royal / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882271894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b1b137b4f2.png?v=1765565624
     Price: $33.50 USD
-  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882304662)
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882304662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b1b137b4f2.png?v=1765565624
     Price: $35.50 USD
-  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882337430)
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882337430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693b1b137b4f2.png?v=1765565624
     Price: $38.00 USD
-  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882370198)
+  - [Forest Green / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882370198)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765565624
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765632326
     Price: $33.50 USD
-  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882402966)
+  - [Forest Green / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882402966)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765565624
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765632326
     Price: $33.50 USD
-  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882435734)
+  - [Forest Green / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882435734)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765565624
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765632326
     Price: $33.50 USD
-  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882468502)
+  - [Forest Green / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882468502)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765565624
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765632326
     Price: $33.50 USD
-  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882501270)
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882501270)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765565624
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765632326
     Price: $35.50 USD
-  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882534038)
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882534038)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765565624
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693b1b13927b1.png?v=1765632326
     Price: $38.00 USD
-  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882566806)
+  - [Team Red / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882566806)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b1b13ad219.png?v=1765565624
     Price: $33.50 USD
-  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882599574)
+  - [Team Red / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882599574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b1b13ad219.png?v=1765565624
     Price: $33.50 USD
-  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882632342)
+  - [Team Red / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882632342)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b1b13ad219.png?v=1765565624
     Price: $33.50 USD
-  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882665110)
+  - [Team Red / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882665110)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b1b13ad219.png?v=1765565624
     Price: $33.50 USD
-  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882697878)
+  - [Team Red / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882697878)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b1b13ad219.png?v=1765565624
     Price: $35.50 USD
-  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882730646)
+  - [Team Red / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882730646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693b1b13ad219.png?v=1765565624
     Price: $38.00 USD
-  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882763414)
+  - [Dusty Rose / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882763414)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b1b13cba0e.png?v=1765565624
     Price: $33.50 USD
-  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882796182)
+  - [Dusty Rose / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882796182)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b1b13cba0e.png?v=1765565624
     Price: $33.50 USD
-  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882828950)
+  - [Dusty Rose / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882828950)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b1b13cba0e.png?v=1765565624
     Price: $33.50 USD
-  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882861718)
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882861718)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b1b13cba0e.png?v=1765565624
     Price: $33.50 USD
-  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882894486)
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882894486)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b1b13cba0e.png?v=1765565624
     Price: $35.50 USD
-  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882927254)
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882927254)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693b1b13cba0e.png?v=1765565624
     Price: $38.00 USD
-  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882960022)
+  - [Carbon Grey / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882960022)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b1b13ef2b8.png?v=1765565624
     Price: $33.50 USD
-  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025882992790)
+  - [Carbon Grey / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025882992790)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b1b13ef2b8.png?v=1765565624
     Price: $33.50 USD
-  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025883025558)
+  - [Carbon Grey / L](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025883025558)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b1b13ef2b8.png?v=1765565624
     Price: $33.50 USD
-  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025883058326)
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025883058326)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b1b13ef2b8.png?v=1765565624
     Price: $33.50 USD
-  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025883091094)
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025883091094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b1b13ef2b8.png?v=1765565624
     Price: $35.50 USD
-  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025883123862)
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025883123862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693b1b13ef2b8.png?v=1765565624
     Price: $38.00 USD
-  - [Bone / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025883156630)
+  - [Bone / S](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025883156630)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b1b14207ba.png?v=1765565624
     Price: $33.50 USD
-  - [Bone / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt-8?variant=46025883189398)
+  - [Bone / M](https://www.aurinwear.com/products/cute-owl-graphic-sweatshirt?variant=46025883189398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693b1b14207ba.png?v=1765565624
     Price: $33.50 USD
+- [Unisex Not Today Cat Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt): Add a touch of attitude to your everyday wardrobe with this unisex Not Today Cat premium printed sweatshirt. Featuring a bold cat graphic with a playful message, it’s made for laid-back days and effortless streetwear style. This sweatshirt is ideal for casual outings, lounging at home, or layering during cooler fall and winter weather. The relaxed unisex fit makes it easy to style with jeans, joggers, or layered over a tee. Unisex fit suitable for everyday wear Soft fleece interior for all-day comfort Durable print designed to hold up wash after wash Perfect for fall, winter, and cool-weather layering Crafted with a 100% cotton face and a balanced cotton-poly blend, this sweatshirt offers warmth without feeling heavy. The tightly knit fleece, side-seamed construction, and reinforced ribbed collar, cuffs, and hem provide a premium feel you can rely on.
+  Updated: 2025-12-13T20:56:53Z
+  Vendor: Aurin Wear
+  Product Type: Sweatshirts for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028514918550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dad231ed66.png?v=1765649993
+    Price: $33.50 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028514951318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dad231ed66.png?v=1765649993
+    Price: $33.50 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028514984086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dad231ed66.png?v=1765649993
+    Price: $33.50 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515016854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dad231ed66.png?v=1765649993
+    Price: $33.50 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515049622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dad231ed66.png?v=1765649993
+    Price: $35.50 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515082390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dad231ed66.png?v=1765649993
+    Price: $38.00 USD
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515115158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dad2320cb5.png?v=1765649993
+    Price: $33.50 USD
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515147926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dad2320cb5.png?v=1765649993
+    Price: $33.50 USD
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515180694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dad2320cb5.png?v=1765649993
+    Price: $33.50 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515213462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dad2320cb5.png?v=1765649993
+    Price: $33.50 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515246230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dad2320cb5.png?v=1765649993
+    Price: $35.50 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515278998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dad2320cb5.png?v=1765649993
+    Price: $38.00 USD
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515311766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dad22c7b87.png?v=1765649993
+    Price: $33.50 USD
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515344534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dad22c7b87.png?v=1765649993
+    Price: $33.50 USD
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515377302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dad22c7b87.png?v=1765649993
+    Price: $33.50 USD
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515410070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dad22c7b87.png?v=1765649993
+    Price: $33.50 USD
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515442838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dad22c7b87.png?v=1765649993
+    Price: $35.50 USD
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515475606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dad22c7b87.png?v=1765649993
+    Price: $38.00 USD
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515508374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dad233af4a.png?v=1765649993
+    Price: $33.50 USD
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515541142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dad233af4a.png?v=1765649993
+    Price: $33.50 USD
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515573910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dad233af4a.png?v=1765649993
+    Price: $33.50 USD
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515606678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dad233af4a.png?v=1765649993
+    Price: $33.50 USD
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515639446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dad233af4a.png?v=1765649993
+    Price: $35.50 USD
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515672214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dad233af4a.png?v=1765649993
+    Price: $38.00 USD
+  - [Bone / S](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515704982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dad23446b9.png?v=1765649993
+    Price: $33.50 USD
+  - [Bone / M](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515737750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dad23446b9.png?v=1765649993
+    Price: $33.50 USD
+  - [Bone / L](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515770518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dad23446b9.png?v=1765649993
+    Price: $33.50 USD
+  - [Bone / XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515803286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dad23446b9.png?v=1765649993
+    Price: $33.50 USD
+  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515836054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dad23446b9.png?v=1765649993
+    Price: $35.50 USD
+  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515868822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dad23446b9.png?v=1765649993
+    Price: $38.00 USD
+  - [White / S](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515901590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+    Price: $33.50 USD
+  - [White / M](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515934358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+    Price: $33.50 USD
+  - [White / L](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515967126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+    Price: $33.50 USD
+  - [White / XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028515999894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+    Price: $33.50 USD
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028516032662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+    Price: $35.50 USD
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-not-today-cat-premium-printed-sweatshirt?variant=46028516065430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dad235fad1.png?v=1765650735
+    Price: $38.00 USD
+- [Unisex Dog Mom Graphic Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt): Show off your dog mom pride with this unisex Dog Mom graphic premium printed sweatshirt. Featuring a bold, playful graphic design, this sweatshirt is made for pet lovers who want comfort and personality in their everyday style. Perfect for casual outings, dog walks, or relaxing weekends, this sweatshirt delivers an easygoing streetwear look. The unisex crewneck fit pairs effortlessly with jeans, leggings, or joggers for fall and winter wear. Unisex fit designed for everyday comfort Soft fleece interior that feels warm and cozy Durable front graphic made to last Ideal for fall, winter, and cool-weather layering Made with a 100% cotton face and a premium cotton-poly blend, this sweatshirt offers reliable warmth without sacrificing breathability. Tightly knit 3-end fleece, side-seamed construction, and reinforced ribbed collar, cuffs, and hem ensure lasting quality and comfort.
+  Updated: 2025-12-13T21:01:35Z
+  Vendor: Aurin Wear
+  Product Type: Sweatshirts for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686491798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dbb8702669.png?v=1765654041
+    Price: $33.50 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686524566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dbb8702669.png?v=1765654041
+    Price: $33.50 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686557334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dbb8702669.png?v=1765654041
+    Price: $33.50 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686590102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dbb8702669.png?v=1765654041
+    Price: $33.50 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686622870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dbb8702669.png?v=1765654041
+    Price: $35.50 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686655638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693dbb8702669.png?v=1765654041
+    Price: $38.00 USD
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686688406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dbb8703731.png?v=1765654041
+    Price: $33.50 USD
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686721174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dbb8703731.png?v=1765654041
+    Price: $33.50 USD
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686753942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dbb8703731.png?v=1765654041
+    Price: $33.50 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686786710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dbb8703731.png?v=1765654041
+    Price: $33.50 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686819478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dbb8703731.png?v=1765654041
+    Price: $35.50 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686852246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693dbb8703731.png?v=1765654041
+    Price: $38.00 USD
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686885014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+    Price: $33.50 USD
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686917782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+    Price: $33.50 USD
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686950550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+    Price: $33.50 USD
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028686983318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+    Price: $33.50 USD
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687016086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+    Price: $35.50 USD
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687048854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-dusty-rose-front-693dbb86c0ed0.png?v=1765659695
+    Price: $38.00 USD
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687081622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dbb8716dba.png?v=1765654041
+    Price: $33.50 USD
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687114390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dbb8716dba.png?v=1765654041
+    Price: $33.50 USD
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687147158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dbb8716dba.png?v=1765654041
+    Price: $33.50 USD
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687179926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dbb8716dba.png?v=1765654041
+    Price: $33.50 USD
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687212694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dbb8716dba.png?v=1765654041
+    Price: $35.50 USD
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687245462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-693dbb8716dba.png?v=1765654041
+    Price: $38.00 USD
+  - [Bone / S](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687278230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dbb871e114.png?v=1765659695
+    Price: $33.50 USD
+  - [Bone / M](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687310998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dbb871e114.png?v=1765659695
+    Price: $33.50 USD
+  - [Bone / L](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687343766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dbb871e114.png?v=1765659695
+    Price: $33.50 USD
+  - [Bone / XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687376534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dbb871e114.png?v=1765659695
+    Price: $33.50 USD
+  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687409302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dbb871e114.png?v=1765659695
+    Price: $35.50 USD
+  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687442070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-693dbb871e114.png?v=1765659695
+    Price: $38.00 USD
+  - [White / S](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687474838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dbb8743ca0.png?v=1765659695
+    Price: $33.50 USD
+  - [White / M](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687507606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dbb8743ca0.png?v=1765659695
+    Price: $33.50 USD
+  - [White / L](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687540374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dbb8743ca0.png?v=1765659695
+    Price: $33.50 USD
+  - [White / XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687573142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dbb8743ca0.png?v=1765659695
+    Price: $33.50 USD
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687605910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dbb8743ca0.png?v=1765659695
+    Price: $35.50 USD
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-dog-mom-graphic-premium-printed-sweatshirt?variant=46028687638678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693dbb8743ca0.png?v=1765659695
+    Price: $38.00 USD
 
 ## Collections
 
 - [New Arrivals | Latest Fashion & Fresh Drops – Aurin Wear](https://www.aurinwear.com/collections/new-arrivals): Shop the latest New Arrivals at Aurin Wear. Discover fresh drops, trendy styles, and premium-quality apparel designed for comfort, style, and everyday wear. Stay ahead of fashion with our newest collection.
-  Updated: 2025-12-10T10:50:51Z
-  Total Products: 16
-- [T-Shirts | Unisex Graphic Tees & Streetwear Tops](https://www.aurinwear.com/collections/t-shirts): Shop unisex T-shirts with expressive graphics, modern streetwear style, and premium comfort. Discover everyday tees perfect for casual outfits and layering.
-  Updated: 2025-12-07T20:50:32Z
-  Total Products: 0
-- [Hoodies | Unisex Graphic Hoodies & Streetwear Styles](https://www.aurinwear.com/collections/hoodies): Shop unisex hoodies with bold graphics, soft fleece interiors, and modern streetwear style. Stay warm and expressive with comfortable hoodies for everyday wear.
-  Updated: 2025-12-07T20:52:38Z
-  Total Products: 0
-- [Crewnecks & Sweatshirts | Cozy Unisex Streetwear Tops](https://www.aurinwear.com/collections/crewnecks-sweatshirts): Shop cozy unisex crewnecks and sweatshirts with modern graphics and soft premium fabrics. Perfect for everyday comfort and streetwear style. Explore new drops.
   Updated: 2025-12-10T10:50:51Z
   Total Products: 16
 - [Limited Drops | Exclusive & Limited Edition Apparel – Aurin Wear](https://www.aurinwear.com/collections/limited-drops): Explore Aurin Wear's Limited Drops—exclusive, limited edition apparel released in small batches. Shop rare styles, premium designs, and collectible pieces before they're gone forever.
@@ -4137,30 +4428,39 @@
 - [Accessories | Stylish Fashion Essentials & Add-Ons – Aurin Wear](https://www.aurinwear.com/collections/accessories): Shop Aurin Wear’s Accessories collection featuring stylish caps, bags, socks, jewelry and everyday essentials. Upgrade your look with modern, durable, and trendy accessories that complete any outfit.
   Updated: 2025-12-04T10:37:34Z
   Total Products: 0
-- [Oversized T-Shirts | Trendy Streetwear & Graphic Tees](https://www.aurinwear.com/collections/oversized-t-shirts): Shop oversized T-shirts with bold graphics, relaxed fits, and unisex streetwear style. Soft, breathable tees perfect for everyday comfort. New designs weekly.
-  Updated: 2025-12-07T20:45:19Z
-  Total Products: 1
 - [Knitwear | Premium Cozy & Stylish Knits – Aurin Wear](https://www.aurinwear.com/collections/knitwear): Shop Aurin Wear’s Knitwear collection featuring premium cozy sweaters, soft knits, and modern winter essentials. Explore stylish, comfortable, and warm knitwear pieces perfect for layering and everyday wear.
   Updated: 2025-12-04T10:37:34Z
   Total Products: 0
-- [Short Sleeve T-Shirts | Unisex Graphic & Streetwear Tees](https://www.aurinwear.com/collections/short-sleeve-t-shirts): Shop unisex short sleeve T-shirts with bold graphics, soft fabrics, and modern streetwear style. Perfect for casual outfits and everyday comfort.
-  Updated: 2025-12-07T20:54:00Z
-  Total Products: 0
-- [Long Sleeve T-Shirts | Unisex Graphic & Streetwear Tees](https://www.aurinwear.com/collections/long-sleeve-t-shirts): Shop unisex long sleeve T-shirts with soft fabrics, modern graphics, and streetwear-inspired style. Comfortable everyday tees perfect for layering and all seasons.
-  Updated: 2025-12-07T20:55:04Z
-  Total Products: 0
 - [Aurin Wear Collection | Premium Stylish Clothing for Every Day](https://www.aurinwear.com/collections/all): Explore the Aurin Wear Collection featuring premium-quality, stylish, and comfortable apparel made for modern lifestyles. Shop trendy essentials, everyday favorites, and fashion pieces designed to elevate your style effortlessly.
-  Updated: 2025-12-11T19:28:23Z
-  Total Products: 24
+  Updated: 2025-12-13T19:31:49Z
+  Total Products: 26
 - [Best Selling Apparel | Top Streetwear & Trending Designs](https://www.aurinwear.com/collections/best-selling-aurin-wear-t-shirts-hoodies-sweatshirts): Shop our best-selling hoodies, shirts, and graphic apparel. Unisex styles inspired by streetwear, anime, and pet-lover designs. Explore top picks now.
   Updated: 2025-12-10T10:50:52Z
   Total Products: 16
-- [Featured Styles | New & Trending Streetwear Apparel](https://www.aurinwear.com/collections/featured-aurin-wear): Discover our featured styles including new releases, trending designs, anime apparel, pet-lover tops, and graphic streetwear. Fresh drops added weekly.
-  Updated: 2025-12-10T10:50:51Z
-  Total Products: 16
 - [Streetwear Shirts & Hoodies | Trendy Urban Graphic Apparel](https://www.aurinwear.com/collections/streetwear-shirts-hoodies): Shop trendy streetwear shirts and hoodies with bold graphics, modern fits, and unique designs. Perfect for everyday urban style. Explore new drops now.
-  Updated: 2025-12-11T18:52:14Z
-  Total Products: 17
+  Updated: 2025-12-13T18:35:10Z
+  Total Products: 16
+- [Crewnecks & Sweatshirts | Cozy Unisex Streetwear Tops](https://www.aurinwear.com/collections/crewnecks-sweatshirts): Shop cozy unisex crewnecks and sweatshirts with modern graphics and soft premium fabrics. Perfect for everyday comfort and streetwear style. Explore new drops.
+  Updated: 2025-12-13T21:00:21Z
+  Total Products: 26
+- [Featured Styles | New & Trending Streetwear Apparel](https://www.aurinwear.com/collections/featured-aurin-wear): Discover our featured styles including new releases, trending designs, anime apparel, pet-lover tops, and graphic streetwear. Fresh drops added weekly.
+  Updated: 2025-12-13T21:08:48Z
+  Total Products: 10
+- [Long Sleeve T-Shirts | Unisex Graphic & Streetwear Tees](https://www.aurinwear.com/collections/long-sleeve-t-shirts): Shop unisex long sleeve T-shirts with soft fabrics, modern graphics, and streetwear-inspired style. Comfortable everyday tees perfect for layering and all seasons.
+  Updated: 2025-12-13T21:13:09Z
+  Total Products: 0
+- [Oversized T-Shirts | Trendy Streetwear & Graphic Tees](https://www.aurinwear.com/collections/oversized-t-shirts): Shop oversized T-shirts with bold graphics, relaxed fits, and unisex streetwear style. Soft, breathable tees perfect for everyday comfort. New designs weekly.
+  Updated: 2025-12-13T21:16:51Z
+  Total Products: 0
+- [Short Sleeve T-Shirts | Unisex Graphic & Streetwear Tees](https://www.aurinwear.com/collections/short-sleeve-t-shirts): Shop unisex short sleeve T-shirts with bold graphics, soft fabrics, and modern streetwear style. Perfect for casual outfits and everyday comfort.
+  Updated: 2025-12-13T21:19:17Z
+  Total Products: 0
+- [T-Shirts for Men & Women | Premium Everyday Tees – Aurin Wear](https://www.aurinwear.com/collections/t-shirts-men-women): Shop Aurin Wear’s T-Shirts for Men & Women. Discover premium-quality tees in modern fits, soft fabrics, oversized styles, minimalist basics, and graphic designs made for everyday comfort and style."
+  Updated: 2025-12-13T21:21:54Z
+  Total Products: 0
+- [Hoodies | Unisex Graphic Hoodies & Streetwear Styles](https://www.aurinwear.com/collections/hoodies): Shop unisex hoodies with bold graphics, soft fleece interiors, and modern streetwear style. Stay warm and expressive with comfortable hoodies for everyday wear.
+  Updated: 2025-12-13T21:25:01Z
+  Total Products: 0
 
 ## Policies
 
