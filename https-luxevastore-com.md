@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-11-10T12:13:34Z
 - Contact Email: info@luxevastore.com
-- Updated At: 2025-12-13T00:00:22.896Z
+- Updated At: 2025-12-14T00:00:22.535Z
 
 ## Products
 
@@ -49,13 +49,13 @@
 ## Collections
 
 - [Sulphate Free Shampoo Sets: Elevate Your Haircare Ritual with LUXEVA](https://luxevastore.com/collections/frontpage): Discover sulfate-free shampoo by LUXEVA, blending plant-powered formulas to restore hair strength and soothe your scalp for a confident crown.
-  Updated: 2025-12-11T12:33:24Z
+  Updated: 2025-12-13T12:31:24Z
   Total Products: 6
 - [Scalp & Haircare Sets](https://luxevastore.com/collections/shampoo-and-conditioner-sets): Shop LUXEVA's natural shampoo and conditioner range, formulated to combat hair thinning, dryness, and breakage. Sulfate-free, vegan, and designed for scalp health and effortless repair.
-  Updated: 2025-12-11T12:33:24Z
+  Updated: 2025-12-13T12:31:24Z
   Total Products: 5
 - [Top Hair Growth Oils & Sprays: Conditioners, Detanglers, Protectants](https://luxevastore.com/collections/hair-oils-sprays): Discover top Hair Growth Oils, Heat Protection Sprays, Leave In Conditioner Sprays, and Detangling Spray for healthier, shinier hair. Explore now!
-  Updated: 2025-12-11T12:33:24Z
+  Updated: 2025-12-13T12:31:24Z
   Total Products: 2
 
 ## Blogs
@@ -86,7 +86,7 @@
     Author: LUXEVA
     Tags: what is a haircare ritual
   - [7 Key Paraben-Free Haircare Advantages for Healthy Hair](https://luxevastore.com/blogs/articles/paraben-free-haircare-advantages-healthy-hair): Discover 7 paraben-free haircare advantages for healthier, shinier hair. Learn why switching to clean beauty can transform your hair routine and wellbeing.
-    Updated: 2025-12-09T06:13:45Z
+    Updated: 2025-12-13T13:57:20Z
     Author: LUXEVA
     Tags: paraben free sulfate free shampoo, paraben-free haircare advantages, parabens and sulfate free shampoo, shampoo paraben free sulfate free, shampoo sulfate free, sulfate free haircair, sulfate free shampoo, sulphate free haircare
   - [How to Transition to Sulfate-Free Haircare Naturally](https://luxevastore.com/blogs/articles/how-to-transition-to-sulfate-free-haircare-naturally): Learn how to transition to sulfate-free haircare naturally with a step-by-step process for healthier, stronger hair. Discover premium clean beauty solutions.
@@ -102,9 +102,13 @@
     Author: LUXEVA
     Tags: hair oil, hair oils for hair growth, how natural oils support hair
   - [How to Reduce Hair Breakage Naturally for Healthier Hair](https://luxevastore.com/blogs/articles/how-to-reduce-hair-breakage-naturally): Discover how to reduce hair breakage naturally with expert steps. Follow this guide for effective, plant-powered routines to achieve stronger, healthier hair.
-    Updated: 2025-12-12T09:06:51Z
+    Updated: 2025-12-13T14:04:53Z
     Author: LUXEVA
     Tags: how to reduce hair breakage
+  - [7 Types of Hair Treatments for Naturally Healthy Hair](https://luxevastore.com/blogs/articles/types-of-hair-treatments-naturally-healthy-hair): Discover 7 types of hair treatments using clean, cruelty-free products. Learn practical haircare tips for naturally strong, shiny, and healthy hair.
+    Updated: 2025-12-13T14:06:35Z
+    Author: LUXEVA
+    Tags: types of hair treatments
 
 ## Store Pages
 
