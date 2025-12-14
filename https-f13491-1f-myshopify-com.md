@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-05-02T13:50:08Z
 - Contact Email: lucyonyinye123456@gmail.com
-- Updated At: 2025-12-11T02:10:42.396Z
+- Updated At: 2025-12-14T00:00:23.733Z
 
 ## Products
 
@@ -4447,8 +4447,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0830/1982/5487/files/embroidered-champion-packable-jacket-safety-green-front-67433ab2a1fa2.jpg?v=1732459203
     Price: €65.50 EUR
-- [Leather Bomber Jacket](https://f13491-1f.myshopify.com/products/leather-bomber-jacket): If there’s an item that never goes out of style, it’s a leather jacket. Made of 100% PU leather, this classic piece will complement casual, chic, or sporty outfits. • Outside: 100% polyurethane (PU) leather • Lining: 60% cotton, 40% polyester • Embroidery backing: 100% rayon • Fabric weight: 10.6 oz/yd² (359 g/m²) • Regular fit • Rib-knit banding at collar, cuffs, and hem • Side pockets • Utility pocket on the sleeve • Hidden inside access zipper at the back of the design area • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) XS 27 19 ½ 25 S 27 ½ 21 25 ¼ M 28 23 25 ½ XL 29 27 26 2XL 29 ½ 28 ½ 26 ¼ 3XL 30 30 26 ½ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) XS 68.6 49.5 63.5 S 69.9 53.3 64.1 M 71.1 58.4 64.8 XL 73.7 68.6 66 2XL 75 72.4 66.7 3XL 76.2 76.2 67.3
-  Updated: 2025-09-20T23:01:38Z
+- [Leather Bomber Jacket](https://f13491-1f.myshopify.com/products/leather-bomber-jacket): If there’s an item that never goes out of style, it’s a leather jacket. Made of 100% PU leather, this classic piece will complement casual, chic, or sporty outfits.• Outside: 100% polyurethane (PU) leather• Lining: 60% cotton, 40% polyester• Embroidery backing: 100% rayon • Fabric weight: 10.6 oz/yd² (359 g/m²)• Regular fit• Rib-knit banding at collar, cuffs, and hem• Side pockets• Utility pocket on the sleeve• Hidden inside access zipper at the back of the design area• Blank product sourced from ChinaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) XS 27 19 ½ 25 S 27 ½ 21 25 ¼ M 28 23 25 ½ XL 29 27 26 2XL 29 ½ 28 ½ 26 ¼ 3XL 30 30 26 ½ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) XS 68.6 49.5 63.5 S 69.9 53.3 64.1 M 71.1 58.4 64.8 XL 73.7 68.6 66 2XL 75 72.4 66.7 3XL 76.2 76.2 67.3
+  Updated: 2025-12-11T14:33:44Z
   Vendor: googluck
   Product Type: 
   Availability: Available
@@ -5105,6 +5105,8 @@
   Updated: 2024-11-21T13:09:41Z
 - [Track Your Order](https://f13491-1f.myshopify.com/pages/track-your-order): Please enter you tracking number below. if your tracking number doesn't work feel free to contact us at support@googluck2024.com. //
   Updated: 2024-11-21T10:56:11Z
+- [Your privacy choices](https://f13491-1f.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-12-11T02:54:11Z
 
 ## Policies
 
