@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-14T00:03:26.333Z
+- Updated At: 2025-12-14T18:22:13.735Z
 
 ## Products
 
@@ -22816,13 +22816,13 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:19:20Z
   Price: $2,917.99 USD
 - [Villa Valencia Entertainment Base - 72095B-55 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-entertainment-base-72095b-55): Shop the Villa Valencia Entertainment Base - 72095B-55 by Aico Furniture. Dimensions: 76.25"W x 24"D x 29"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:03Z
+  Updated: 2025-12-14T07:09:09Z
   Price: $3,119.00 USD
 - [Villa Valencia Decorative Mirror In Chestnut - 72041-55 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-decorative-mirror-in-chestnut-72041-55): Shop the Villa Valencia Decorative Mirror In Chestnut - 72041-55 by Aico Furniture. Dimensions: 64.25"W x 1.75"D x 51.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:19:21Z
   Price: $1,139.00 USD
 - [Metro Lights Midnight Bar - 9010500-809 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-metro-lights-midnight-bar-9010500-809): Shop the Metro Lights Midnight Bar - 9010500-809 by Aico Furniture. Dimensions: 76"W x 25"D x 42.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:05Z
+  Updated: 2025-12-14T07:09:09Z
   Price: $4,020.99 USD
 - [Sky Tower Queen Bed in Cloud White with LED Lights – AICO](https://homeeleganceusa.com/products/aico-furniture-sky-tower-queen-platform-bed-9025600qn-108): The Sky Tower Queen Bed features LED-lit tufted fabric, USB ports, and a sleek two-tone acrylic frame—luxury and functionality in perfect harmony.
   Updated: 2025-12-11T03:19:23Z
@@ -22840,7 +22840,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:19:27Z
   Price: $1,398.00 USD
 - [State St. Sideboard In Glossy White - N9016007-116 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-state-st-sideboard-in-glossy-white-n9016007-116): Shop the State St. Sideboard In Glossy White - N9016007-116 by Aico Furniture. Dimensions: 72.25"W x 18.25"D x 37"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:05Z
+  Updated: 2025-12-14T07:09:11Z
   Price: $2,879.00 USD
 - [Brooklyn Walk Side Chairs Set of 2 Gray Fabric Burnt Umber – AICO](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-side-chair-in-burnt-umber-set-of-2-ki-brkw003-408): Set of 2 Brooklyn Walk Side Chairs by AICO, upholstered in gray woven fabric with curved backrests and Acacia wood legs in a Burnt Umber finish.
   Updated: 2025-12-11T03:19:29Z
@@ -23311,7 +23311,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:22:05Z
   Price: $3,599.99 USD
 - [Paris Chic Display Cabinet In Espresso - N9003209-409 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-paris-chic-display-cabinet-in-espresso-n9003209-409): Shop the Paris Chic Display Cabinet In Espresso - N9003209-409 by Aico Furniture. Dimensions: W 32.00" D 19.25" H 78.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:11Z
+  Updated: 2025-12-14T07:09:17Z
   Price: $3,379.99 USD
 - [Paris Chic 5-Piece Round Dining Set in Espresso – AICO](https://homeeleganceusa.com/products/aico-furniture-paris-chic-5-piece-round-dining-table-set-in-espresso-n9003001-409-5set): Paris Chic 5-Piece Round Dining Set in Espresso with 2 side chairs, 2 arm chairs, modern style, and free white-glove assembly for an elegant dining experience.
   Updated: 2025-12-11T03:22:07Z
@@ -23359,13 +23359,13 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:22:20Z
   Price: $3,696.99 USD
 - [London Place Vanity Desk In Creamy Pearl - Nc9004058-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-vanity-desk-in-creamy-pearl-nc9004058-112): Shop the London Place Vanity Desk In Creamy Pearl - Nc9004058-112 by Aico Furniture. Dimensions: W 60.00" D 20.00" H 30.50" Building a better workspace? Shop our collection of ergonomic office chairs, wood writing desks, and modern home office furniture for productivity and comfort. Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:13Z
+  Updated: 2025-12-14T07:09:18Z
   Price: $2,399.00 USD
 - [London Place Vanity Desk With Vanity Mirror In Creamy Pearl - Nc9004058-068-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-vanity-desk-with-vanity-mirror-in-creamy-pearl-nc9004058-068-112): Shop the London Place Vanity Desk With Vanity Mirror In Creamy Pearl - Nc9004058-068-112 by Aico Furniture. Dimensions: Vanity Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:22:23Z
   Price: $4,298.99 USD
 - [London Place Media Cabinet In Creamy Pearl - Nc9004081-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-media-cabinet-in-creamy-pearl-nc9004081-112): Shop the London Place Media Cabinet In Creamy Pearl - Nc9004081-112 by Aico Furniture. Dimensions: W 78.00" D 16.25" H 22.25" Building a better workspace? Shop our collection of ergonomic office chairs, wood writing desks, and modern home office furniture for productivity and comfort. Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:14Z
+  Updated: 2025-12-14T07:09:19Z
   Price: $2,809.00 USD
 - [London Place Entry Table Creamy Pearl – AICO](https://homeeleganceusa.com/products/aico-furniture-london-place-entry-table-in-creamy-pearl-9004227-112): Shop the London Place Entry Table in Creamy Pearl by AICO—90" wide statement design with luxe finish, perfect for grand entrances. Setup included.
   Updated: 2025-12-11T03:22:24Z
@@ -23536,7 +23536,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:23:19Z
   Price: $1,139.00 USD
 - [Camden Court Accent Cabinet-Nightstand In Pearl - 9005040-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-accent-cabinet-nightstand-in-pearl-9005040-126): Shop the Camden Court Accent Cabinet-Nightstand In Pearl - 9005040-126 by Aico Furniture. Dimensions: W 29.00" D 19.00" H 28.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:17Z
+  Updated: 2025-12-14T07:09:22Z
   Price: $1,229.00 USD
 - [Camden Court Dresser Pearl Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-camden-court-storage-console-dresser-in-pearl-9005050-126): Graceful and modern, the Camden Court Dresser in Pearl features velvet-lined drawers, marble top, and acrylic feet—perfect for chic, upscale bedroom storage.
   Updated: 2025-12-11T03:23:21Z
@@ -23557,7 +23557,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:23:27Z
   Price: $1,158.00 USD
 - [Camden Court Display Cabinet In Pearl - 9005209-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-display-cabinet-in-pearl-9005209-126): Shop the Camden Court Display Cabinet In Pearl - 9005209-126 by Aico Furniture. Dimensions: W 32.00" D 20.00" H 79.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:18Z
+  Updated: 2025-12-14T07:09:21Z
   Price: $2,702.99 USD
 - [Camden Court End Table In Pearl - 9005202-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-end-table-in-pearl-9005202-126): Shop the Camden Court End Table In Pearl - 9005202-126 by Aico Furniture. Dimensions: W 27.00" D 22.00" H 26.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:23:28Z
@@ -23590,7 +23590,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:23:38Z
   Price: $4,205.99 USD
 - [Villa Valencia China Cabinet With Lighting Box - 72005-06-55-Lb by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-china-cabinet-with-lighting-box-72005-06-55-lb): Shop the Villa Valencia China Cabinet With Lighting Box - 72005-06-55-Lb by Aico Furniture. Dimensions: China Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:18Z
+  Updated: 2025-12-14T07:09:23Z
   Price: $9,989.99 USD
 - [Villa Valencia 9Pc Rectangular Dining Set Classic Chestnut by AICO](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-9-piece-rectangular-dining-table-set-72002-55-9set): The Villa Valencia 9-Piece Dining Set in Classic Chestnut features a grand rectangular table, leather chairs, marble pilasters, and carved details—perfect for luxurious traditional dining rooms.
   Updated: 2025-12-11T03:23:39Z
@@ -23605,247 +23605,247 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:23:42Z
   Price: $3,661.99 USD
 - [Villa Valencia Fireplace W-Electric Fireplace Insert - 72220-55-Afb33S by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-fireplace-w-electric-fireplace-insert-72220-55-afb33s): Shop the Villa Valencia Fireplace W-Electric Fireplace Insert - 72220-55-Afb33S by Aico Furniture. Dimensions: 74"W 20.5"D 46"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:20Z
+  Updated: 2025-12-14T07:09:24Z
   Price: $4,753.99 USD
 - [Villa Valencia China Cabinet - 72005-72006-55 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-china-cabinet-72005-72006-55): Shop the Villa Valencia China Cabinet - 72005-72006-55 by Aico Furniture. Dimensions: China Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:21Z
+  Updated: 2025-12-14T07:09:26Z
   Price: $9,621.99 USD
 - [Menlo Station Sideboard With Mirror In Eucalyptus - Ki-Menp007-067-123 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-menlo-station-sideboard-with-mirror-in-eucalyptus-ki-menp007-067-123): Michael Amini Menlo Station sideboard with coordinating mirror in eucalyptus finish. Velvet-lined drawers, silverware caddy, brushed silver frame. KI‑MENP007‑67‑123.
   Updated: 2025-12-11T03:23:45Z
   Price: $2,551.99 USD
 - [Vincennes 2 Light Wall Sconce - Lt-Wl006-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-vincennes-2-light-wall-sconce-lt-wl006-2clr): Shop the Vincennes 2 Light Wall Sconce - Lt-Wl006-2Clr by Aico Furniture. Dimensions: W 17.25" D 9.00" H 19.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:22Z
+  Updated: 2025-12-14T07:09:29Z
   Price: $749.00 USD
 - [Winter Palace 2 Light Wall Sconce - Lt-Wl003-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-winter-palace-2-light-wall-sconce-lt-wl003-2clr): Shop the Winter Palace 2 Light Wall Sconce - Lt-Wl003-2Clr by Aico Furniture. Dimensions: W 15.00" D 9.00" H 20.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:22Z
+  Updated: 2025-12-14T07:09:27Z
   Price: $729.00 USD
 - [Quill 2 Light Wall Sconce - Lt-Wl007-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-quill-2-light-wall-sconce-lt-wl007-2clr): Shop the Quill 2 Light Wall Sconce - Lt-Wl007-2Clr by Aico Furniture. Dimensions: W 9.00" D 5.50" H 11.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:23Z
+  Updated: 2025-12-14T07:09:29Z
   Price: $1,078.99 USD
 - [Vitoria 13 Light Chandelier - Lt-Ch943-13Smk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-vitoria-13-light-chandelier-lt-ch943-13smk): Shop the Vitoria 13 Light Chandelier - Lt-Ch943-13Smk by Aico Furniture. Dimensions: W 25.25" D 25.25" H 26.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:24Z
+  Updated: 2025-12-14T07:09:29Z
   Price: $1,229.00 USD
 - [Garnier 2 Light Wall Sconce - Lt-Wl005-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-garnier-2-light-wall-sconce-lt-wl005-2clr): Shop the Garnier 2 Light Wall Sconce - Lt-Wl005-2Clr by Aico Furniture. Dimensions: W 13.00" D 13.00" H 23.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:25Z
+  Updated: 2025-12-14T07:09:29Z
   Price: $729.00 USD
 - [Winter Palace 18 Light Chandelier - Lt-Ch928-18Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-winter-palace-18-light-chandelier-lt-ch928-18gld): Shop the Winter Palace 18 Light Chandelier - Lt-Ch928-18Gld by Aico Furniture. Dimensions: W 39.75" D 39.75" H 40.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:26Z
+  Updated: 2025-12-14T07:09:32Z
   Price: $4,799.00 USD
 - [Stacked Bouquet 30 Light Chandelier 3 Piece Set - Lt-Ch1013-30Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-stacked-bouquet-30-light-chandelier-3-piece-set-lt-ch1013-30gld): Shop the Stacked Bouquet 30 Light Chandelier 3 Piece Set - Lt-Ch1013-30Gld by Aico Furniture. Dimensions: W 23.50" D 23.50" H 86.50" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:23:53Z
   Price: $5,737.99 USD
 - [Summer Palace 11 Light Chandelier - Lt-Ch916-11Abr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-summer-palace-11-light-chandelier-lt-ch916-11abr): Shop the Summer Palace 11 Light Chandelier - Lt-Ch916-11Abr by Aico Furniture. Dimensions: W 34.00" D 34.00" H 35.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:27Z
+  Updated: 2025-12-14T07:09:32Z
   Price: $1,299.00 USD
 - [Vitoria 6 Light Chandelier - Lt-Ch941-6Smk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-vitoria-6-light-chandelier-lt-ch941-6smk): Shop the Vitoria 6 Light Chandelier - Lt-Ch941-6Smk by Aico Furniture. Dimensions: W 25.25" D 25.25" H 26.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:27Z
+  Updated: 2025-12-14T07:09:41Z
   Price: $1,309.99 USD
 - [Stacked Bouquet 54 Light Chandelier 3 Piece Set - Lt-Ch1014-54Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-stacked-bouquet-54-light-chandelier-3-piece-set-lt-ch1014-54gld): Shop the Stacked Bouquet 54 Light Chandelier 3 Piece Set - Lt-Ch1014-54Gld by Aico Furniture. Dimensions: W 31.50" D 31.50" H 110.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:23:56Z
   Price: $9,659.99 USD
 - [Wings Of Color Chandelier - Lt-Ch1008-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-wings-of-color-chandelier-lt-ch1008-gld): Shop the Wings Of Color Chandelier - Lt-Ch1008-Gld by Aico Furniture. Dimensions: W 25.50" D 25.50" H 90.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:28Z
+  Updated: 2025-12-14T07:09:33Z
   Price: $4,559.00 USD
 - [Sheer Waves 18 Light Round Led Chandelier Chrome - Lt-Ch1017Crm-18Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-sheer-waves-18-light-round-led-chandelier-chrome-lt-ch1017crm-18clr): Shop the Sheer Waves 18 Light Round Led Chandelier Chrome - Lt-Ch1017Crm-18Clr by Aico Furniture. Dimensions: W 31.50" D 31.50" H 118.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:29Z
+  Updated: 2025-12-14T07:09:35Z
   Price: $1,539.00 USD
 - [Sheer Waves 8 Light Rect Led Chandelier Chrome - Lt-Ch1016Crm-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-sheer-waves-8-light-rect-led-chandelier-chrome-lt-ch1016crm-8clr): Shop the Sheer Waves 8 Light Rect Led Chandelier Chrome - Lt-Ch1016Crm-8Clr by Aico Furniture. Dimensions: W 39.50" D 10.00" H 59.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:30Z
+  Updated: 2025-12-14T07:09:34Z
   Price: $969.00 USD
 - [Symphony Round 24 Light Chandelier - Lt-Ch974-24Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-symphony-round-24-light-chandelier-lt-ch974-24clr): Shop the Symphony Round 24 Light Chandelier - Lt-Ch974-24Clr by Aico Furniture. Dimensions: W 31.50" D 31.50" H 35.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:30Z
+  Updated: 2025-12-14T07:09:39Z
   Price: $2,879.00 USD
 - [San Marco 21 Light Chandelier - Lt-Ch908-21Opl by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-san-marco-21-light-chandelier-lt-ch908-21opl): Shop the San Marco 21 Light Chandelier - Lt-Ch908-21Opl by Aico Furniture. Dimensions: 41.50" W x 41.50" D x 28.00" H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:31Z
+  Updated: 2025-12-14T07:09:36Z
   Price: $2,759.00 USD
 - [Spiral 12 Light Chandelier - Lt-Ch976-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-spiral-12-light-chandelier-lt-ch976-12clr): Shop the Spiral 12 Light Chandelier - Lt-Ch976-12Clr by Aico Furniture. Dimensions: W 19.00" D 19.00" H 30.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:32Z
+  Updated: 2025-12-14T07:09:37Z
   Price: $1,829.00 USD
 - [Quill 6 Light Chandelier - Lt-Ch986-6Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-quill-6-light-chandelier-lt-ch986-6clr): Shop the Quill 6 Light Chandelier - Lt-Ch986-6Clr by Aico Furniture. Dimensions: W 19.75" D 19.75" H 10.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:33Z
+  Updated: 2025-12-14T07:09:37Z
   Price: $2,000.99 USD
 - [Royal Crown 9 Light Chandelier - Lt-Ch988-9Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-royal-crown-9-light-chandelier-lt-ch988-9clr): Shop the Royal Crown 9 Light Chandelier - Lt-Ch988-9Clr by Aico Furniture. Dimensions: W 23.75" D 23.75" H 11.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:33Z
+  Updated: 2025-12-14T07:09:39Z
   Price: $2,039.00 USD
 - [Quill 12 Light Chandelier - Lt-Ch987-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-quill-12-light-chandelier-lt-ch987-12clr): Shop the Quill 12 Light Chandelier - Lt-Ch987-12Clr by Aico Furniture. Dimensions: W 39.50" D 13.75" H 11.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:34Z
+  Updated: 2025-12-14T07:09:44Z
   Price: $3,697.99 USD
 - [Royal Crown Rect. 12 Light Chandelier - Lt-Ch990-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-royal-crown-rect-12-light-chandelier-lt-ch990-12clr): Shop the Royal Crown Rect. 12 Light Chandelier - Lt-Ch990-12Clr by Aico Furniture. Dimensions: W 39.50" D 14.75" H 11.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:35Z
+  Updated: 2025-12-14T07:09:39Z
   Price: $2,639.00 USD
 - [Royal Crown 12 Light Chandelier - Lt-Ch989-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-royal-crown-12-light-chandelier-lt-ch989-12clr): Shop the Royal Crown 12 Light Chandelier - Lt-Ch989-12Clr by Aico Furniture. Dimensions: W 31.50" D 31.50" H 11.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:35Z
+  Updated: 2025-12-14T07:09:40Z
   Price: $2,949.00 USD
 - [Pendant 8 Light Oblong Chandelier, Small - Lt-Ch1003-8Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-pendant-8-light-oblong-chandelier-small-lt-ch1003-8gld): Shop the Pendant 8 Light Oblong Chandelier, Small - Lt-Ch1003-8Gld by Aico Furniture. Dimensions: W 15.75" D 15.75" H 25.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:36Z
+  Updated: 2025-12-14T07:09:40Z
   Price: $2,199.99 USD
 - [Portola Ii 8 Light Chandelier - Lt-Ch993-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-portola-ii-8-light-chandelier-lt-ch993-8clr): Shop the Portola Ii 8 Light Chandelier - Lt-Ch993-8Clr by Aico Furniture. Dimensions: W 25.75" D 25.75" H 17.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:37Z
+  Updated: 2025-12-14T07:09:47Z
   Price: $1,309.00 USD
 - [Octavious 6 Light Chandelier - Lt-Ch961-6Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-octavious-6-light-chandelier-lt-ch961-6clr): Shop the Octavious 6 Light Chandelier - Lt-Ch961-6Clr by Aico Furniture. Dimensions: W 22.00" D 22.00" H 14.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:38Z
+  Updated: 2025-12-14T07:09:44Z
   Price: $1,249.00 USD
 - [Pendant 14 Light Chandelier - Lt-Ch997-14Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-pendant-14-light-chandelier-lt-ch997-14gld): Shop the Pendant 14 Light Chandelier - Lt-Ch997-14Gld by Aico Furniture. Dimensions: 19.5"W x 35.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:38Z
+  Updated: 2025-12-14T07:09:50Z
   Price: $2,759.00 USD
 - [Pendant 18 Light Round Chandelier - Lt-Ch1002-18Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-pendant-18-light-round-chandelier-lt-ch1002-18gld): Shop the Pendant 18 Light Round Chandelier - Lt-Ch1002-18Gld by Aico Furniture. Dimensions: W 31.50" D 31.50" H 31.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:39Z
+  Updated: 2025-12-14T07:09:49Z
   Price: $2,519.00 USD
 - [Octavious 8 Light Chandelier - Lt-Ch962-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-octavious-8-light-chandelier-lt-ch962-8clr): Shop the Octavious 8 Light Chandelier - Lt-Ch962-8Clr by Aico Furniture. Dimensions: 31.75"W x 31.75"D x 15.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:40Z
+  Updated: 2025-12-14T07:09:47Z
   Price: $1,919.00 USD
 - [Pendant 12 Light Round Chandelier - Lt-Ch1001-12Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-pendant-12-light-round-chandelier-lt-ch1001-12gld): Shop the Pendant 12 Light Round Chandelier - Lt-Ch1001-12Gld by Aico Furniture. Dimensions: W 23.75" D 23.75" H 23.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:41Z
+  Updated: 2025-12-14T07:09:52Z
   Price: $1,249.00 USD
 - [Octavious Rectangular 6 Light Chandelier - Lt-Ch963-6Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-octavious-rectangular-6-light-chandelier-lt-ch963-6clr): Shop the Octavious Rectangular 6 Light Chandelier - Lt-Ch963-6Clr by Aico Furniture. Dimensions: W 45.25" D 7.00" H 15.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:41Z
+  Updated: 2025-12-14T07:09:47Z
   Price: $1,439.00 USD
 - [Pena 15 Light Chandelier - Lt-Ch921-15Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-pena-15-light-chandelier-lt-ch921-15clr): Shop the Pena 15 Light Chandelier - Lt-Ch921-15Clr by Aico Furniture. Dimensions: W 33.50" D 33.50" H 33.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:42Z
+  Updated: 2025-12-14T07:09:47Z
   Price: $1,539.00 USD
 - [Madrid 8 Light Chandelier - Lt-Ch978-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-madrid-8-light-chandelier-lt-ch978-8clr): Shop the Madrid 8 Light Chandelier - Lt-Ch978-8Clr by Aico Furniture. Dimensions: W 47.25" D 21.75" H 18.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:43Z
+  Updated: 2025-12-14T07:09:48Z
   Price: $1,439.00 USD
 - [Gloucester 16 Light Chandelier - Lt-Ch957-16Blk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-gloucester-16-light-chandelier-lt-ch957-16blk): Shop the Gloucester 16 Light Chandelier - Lt-Ch957-16Blk by Aico Furniture. Dimensions: W 64.00" D 17.00" H 19.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:44Z
+  Updated: 2025-12-14T07:09:49Z
   Price: $1,589.00 USD
 - [Aico Grand Cathedral 176-Light Gold Chandelier | LT-CH946-176GLD](https://homeeleganceusa.com/products/aico-furniture-grand-cathedral-176-light-chandelier-lt-ch946-176gld): The Aico Grand Cathedral 176-Light Gold Chandelier features a 98.5" diameter, 118.25" height, and luxurious gold finish—perfect for grand foyers or ballrooms.
   Updated: 2025-12-11T03:24:18Z
   Price: $33,109.00 USD
 - [Grand Versailles 45 Light Chandelier - Lt-Ch915-45Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-grand-versailles-45-light-chandelier-lt-ch915-45gld): Shop the Grand Versailles 45 Light Chandelier - Lt-Ch915-45Gld by Aico Furniture. Dimensions: W 48.00" D 48.00" H 66.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:44Z
+  Updated: 2025-12-14T07:09:57Z
   Price: $8,869.00 USD
 - [Hexagon 18 Light Chandelier, Small - Lt-Ch1009-18Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hexagon-18-light-chandelier-small-lt-ch1009-18gld): Shop the Hexagon 18 Light Chandelier, Small - Lt-Ch1009-18Gld by Aico Furniture. Dimensions: W 36.00" D 36.00" H 6.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:45Z
+  Updated: 2025-12-14T07:09:56Z
   Price: $2,139.00 USD
 - [Hemispheres 8 Light Chandelier Silver - Lt-Ch703-8Svr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hemispheres-8-light-chandelier-silver-lt-ch703-8svr): Shop the Hemispheres 8 Light Chandelier Silver - Lt-Ch703-8Svr by Aico Furniture. Dimensions: W 27.75" D 27.75" H 25.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:46Z
+  Updated: 2025-12-14T07:09:52Z
   Price: $1,559.00 USD
 - [Facets 6 Light Chandelier - Lt-Ch964-6Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-facets-6-light-chandelier-lt-ch964-6clr): Shop the Facets 6 Light Chandelier - Lt-Ch964-6Clr by Aico Furniture. Dimensions: 13.75"W x 13.75"D x 11.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:46Z
+  Updated: 2025-12-14T07:09:51Z
   Price: $1,299.00 USD
 - [Facets 9 Light Chandelier - Lt-Ch965-9Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-facets-9-light-chandelier-lt-ch965-9clr): Shop the Facets 9 Light Chandelier - Lt-Ch965-9Clr by Aico Furniture. Dimensions: 20.75"W x 20.75"D x 11.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:47Z
+  Updated: 2025-12-14T07:09:54Z
   Price: $2,236.99 USD
 - [Gloucester 12 Light Chandelier - Lt-Ch956-12Blk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-gloucester-12-light-chandelier-lt-ch956-12blk): Shop the Gloucester 12 Light Chandelier - Lt-Ch956-12Blk by Aico Furniture. Dimensions: W 47.50" D 17.00" H 19.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:48Z
+  Updated: 2025-12-14T07:09:53Z
   Price: $1,309.00 USD
 - [Facets 12 Light Chandelier - Lt-Ch966-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-facets-12-light-chandelier-lt-ch966-12clr): Shop the Facets 12 Light Chandelier - Lt-Ch966-12Clr by Aico Furniture. Dimensions: 27.5"W x 27.5"D x 11.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:48Z
+  Updated: 2025-12-14T07:10:02Z
   Price: $2,589.00 USD
 - [Cool Breeze 10 Light Chandelier - Lt-Ch991-10Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-cool-breeze-10-light-chandelier-lt-ch991-10clr): Shop the Cool Breeze 10 Light Chandelier - Lt-Ch991-10Clr by Aico Furniture. Dimensions: W 39.50" D 11.50" H 12.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:49Z
+  Updated: 2025-12-14T07:10:02Z
   Price: $1,389.00 USD
 - [Daisy Chandelier - Lt-Ch1007-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-daisy-chandelier-lt-ch1007-gld): Shop the Daisy Chandelier - Lt-Ch1007-Gld by Aico Furniture. Dimensions: W 10.00" D 10.00" H 20.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:50Z
+  Updated: 2025-12-14T07:09:57Z
   Price: $949.00 USD
 - [Cubes Light Rectangular Chandelier - Lt-Ch1006-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-cubes-light-rectangular-chandelier-lt-ch1006-gld): Shop the Cubes Light Rectangular Chandelier - Lt-Ch1006-Gld by Aico Furniture. Dimensions: W 9.25" D 40.50" H 9.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:51Z
+  Updated: 2025-12-14T07:10:01Z
   Price: $4,598.99 USD
 - [Cubes Chandelier, Small - Lt-Ch1004-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-cubes-chandelier-small-lt-ch1004-gld): Shop the Cubes Chandelier, Small - Lt-Ch1004-Gld by Aico Furniture. Dimensions: W 13.50" D 13.50" H 13.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:52Z
+  Updated: 2025-12-14T07:09:59Z
   Price: $2,139.00 USD
 - [Cubes Chandelier, Large - Lt-Ch1005-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-cubes-chandelier-large-lt-ch1005-gld): Shop the Cubes Chandelier, Large - Lt-Ch1005-Gld by Aico Furniture. Dimensions: W 13.50" D 13.50" H 13.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:53Z
+  Updated: 2025-12-14T07:09:58Z
   Price: $3,049.00 USD
 - [Cool Breeze 14 Light Chandelier - Lt-Ch992-14Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-cool-breeze-14-light-chandelier-lt-ch992-14clr): Shop the Cool Breeze 14 Light Chandelier - Lt-Ch992-14Clr by Aico Furniture. Dimensions: W 47.25" D 13.75" H 14.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:54Z
+  Updated: 2025-12-14T07:10:07Z
   Price: $2,793.99 USD
 - [Chantilly 25 Light Chandelier - Lt-Ch934-25Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-chantilly-25-light-chandelier-lt-ch934-25gld): Shop the Chantilly 25 Light Chandelier - Lt-Ch934-25Gld by Aico Furniture. Dimensions: W 50.00" D 50.00" H 35.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:55Z
+  Updated: 2025-12-14T07:10:00Z
   Price: $3,118.99 USD
 - [Butterfly Dance Chandelier - Lt-Ch1012-Chrm by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-butterfly-dance-chandelier-lt-ch1012-chrm): Shop the Butterfly Dance Chandelier - Lt-Ch1012-Chrm by Aico Furniture. Dimensions: W 23.50" D 23.50" H 79.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:56Z
+  Updated: 2025-12-14T07:10:02Z
   Price: $3,839.00 USD
 - [City Lights Chandelier, Small - Lt-Ch977S-Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-city-lights-chandelier-small-lt-ch977s-clr): Shop the City Lights Chandelier, Small - Lt-Ch977S-Clr by Aico Furniture. Dimensions: W 39.50" D 8.00" H 12.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:57Z
+  Updated: 2025-12-14T07:10:02Z
   Price: $1,863.99 USD
 - [Solar Hoops Led Chandelier Small - Lt-Ch804 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-solar-hoops-led-chandelier-small-lt-ch804): Shop the Solar Hoops Led Chandelier Small - Lt-Ch804 by Aico Furniture. Dimensions: W 27.50" D 13.00" H 20.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:57Z
+  Updated: 2025-12-14T07:10:06Z
   Price: $1,209.00 USD
 - [Baguette 8 Light Chandelier - Lt-Ch968-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-baguette-8-light-chandelier-lt-ch968-8clr): Shop the Baguette 8 Light Chandelier - Lt-Ch968-8Clr by Aico Furniture. Dimensions: 23.75"W x 23.75"D x 10.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:58Z
+  Updated: 2025-12-14T07:10:08Z
   Price: $1,249.00 USD
 - [Winter Ice Wreath Led Chandelier, Large - Lt-Ch814L by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-winter-ice-wreath-led-chandelier-large-lt-ch814l): Shop the Winter Ice Wreath Led Chandelier, Large - Lt-Ch814L by Aico Furniture. Dimensions: W 31.00" D 6.50" H 35.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:59Z
+  Updated: 2025-12-14T07:10:04Z
   Price: $2,027.99 USD
 - [Solar Moon Led Chandelier - Lt-Ch815 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-solar-moon-led-chandelier-lt-ch815): Shop the Solar Moon Led Chandelier - Lt-Ch815 by Aico Furniture. Dimensions: W 33.50" D 33.50" H 39.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:09:59Z
+  Updated: 2025-12-14T07:10:08Z
   Price: $2,363.99 USD
 - [Galaxy Led Chandelier - Lt-Ch809 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-galaxy-led-chandelier-lt-ch809): Shop the Galaxy Led Chandelier - Lt-Ch809 by Aico Furniture. Dimensions: W 20.00" D 20.00" H 49.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:00Z
+  Updated: 2025-12-14T07:10:05Z
   Price: $1,439.00 USD
 - [Loops Led Chandelier - Lt-Ch811 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-loops-led-chandelier-lt-ch811): Shop the Loops Led Chandelier - Lt-Ch811 by Aico Furniture. Dimensions: W 32.50" D 12.00" H 12.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:01Z
+  Updated: 2025-12-14T07:10:10Z
   Price: $1,431.99 USD
 - [Planetary Led Chandelier Small - Lt-Ch810S by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-planetary-led-chandelier-small-lt-ch810s): Shop the Planetary Led Chandelier Small - Lt-Ch810S by Aico Furniture. Dimensions: W 23.75" D 23.75" H 23.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:02Z
+  Updated: 2025-12-14T07:10:09Z
   Price: $919.00 USD
 - [Planetary Led Chandelier Large - Lt-Ch810L by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-planetary-led-chandelier-large-lt-ch810l): Shop the Planetary Led Chandelier Large - Lt-Ch810L by Aico Furniture. Dimensions: W 31.50" D 31.50" H 31.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:03Z
+  Updated: 2025-12-14T07:10:07Z
   Price: $1,343.99 USD
 - [Solar Hoops Led Chandelier Large - Lt-Ch803 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-solar-hoops-led-chandelier-large-lt-ch803): Shop the Solar Hoops Led Chandelier Large - Lt-Ch803 by Aico Furniture. Dimensions: W 39.50" D 18.00" H 28.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:03Z
+  Updated: 2025-12-14T07:10:08Z
   Price: $1,599.99 USD
 - [Crossover Led Chandelier - Lt-Ch800 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossover-led-chandelier-lt-ch800): Shop the Crossover Led Chandelier - Lt-Ch800 by Aico Furniture. Dimensions: W 32.00" D 16.50" H 7.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:04Z
+  Updated: 2025-12-14T07:10:09Z
   Price: $1,039.00 USD
 - [Eclipse 18 Led Light Chandelier - Lt-Ch950-18Blk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-eclipse-18-led-light-chandelier-lt-ch950-18blk): Shop the Eclipse 18 Led Light Chandelier - Lt-Ch950-18Blk by Aico Furniture. Dimensions: W 23.75" D 23.75" H 23.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:05Z
+  Updated: 2025-12-14T07:10:10Z
   Price: $1,530.99 USD
 - [Interstellar Led Chandelier Large - Lt-Ch807 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-interstellar-led-chandelier-large-lt-ch807): Shop the Interstellar Led Chandelier Large - Lt-Ch807 by Aico Furniture. Dimensions: W 32.00" D 32.00" H 61.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:06Z
+  Updated: 2025-12-14T07:10:10Z
   Price: $2,399.00 USD
 - [Eclipse Led Light Chandelier W/Gold Dome - Lt-Ch985G-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-eclipse-led-light-chandelier-w-gold-dome-lt-ch985g-12clr): Shop the Eclipse Led Light Chandelier W/Gold Dome - Lt-Ch985G-12Clr by Aico Furniture. Dimensions: W 19.75" D 19.75" H 21.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:06Z
+  Updated: 2025-12-14T07:10:11Z
   Price: $1,249.00 USD
 - [Eclipse Led Light Chandelier W/Silver Dome - Lt-Ch984S-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-eclipse-led-light-chandelier-w-silver-dome-lt-ch984s-12clr): Shop the Eclipse Led Light Chandelier W/Silver Dome - Lt-Ch984S-12Clr by Aico Furniture. Dimensions: W 19.75" D 19.75" H 21.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:07Z
+  Updated: 2025-12-14T07:10:12Z
   Price: $1,249.00 USD
 - [Enterprise Led Chandelier - Lt-Ch805 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-enterprise-led-chandelier-lt-ch805): Shop the Enterprise Led Chandelier - Lt-Ch805 by Aico Furniture. Dimensions: W 35.00" D 20.50" H 9.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:08Z
+  Updated: 2025-12-14T07:10:12Z
   Price: $1,209.00 USD
 - [Crossover Led Chandelier Small - Lt-Ch802 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossover-led-chandelier-small-lt-ch802): Shop the Crossover Led Chandelier Small - Lt-Ch802 by Aico Furniture. Dimensions: W 41.00" D 23.75" H 7.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:09Z
+  Updated: 2025-12-14T07:10:13Z
   Price: $1,209.00 USD
 - [Base Camp Round Led Chandelier - Lt-Ch816 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-base-camp-round-led-chandelier-lt-ch816): Shop the Base Camp Round Led Chandelier - Lt-Ch816 by Aico Furniture. Dimensions: W 31.00" D 31.00" H 5.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:09Z
+  Updated: 2025-12-14T07:10:15Z
   Price: $1,629.00 USD
 - [Base Camp Oval Led Chandelier- Lt-Ch817 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-base-camp-oval-led-chandelier-lt-ch817): Shop the Base Camp Oval Led Chandelier- Lt-Ch817 by Aico Furniture. Dimensions: W 39.50" D 31.50" H 5.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:10Z
+  Updated: 2025-12-14T07:10:15Z
   Price: $1,659.00 USD
 - [Asteroids Led Chandelier Oval Rings - Lt-Ch801 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-asteroids-led-chandelier-oval-rings-lt-ch801): Shop the Asteroids Led Chandelier Oval Rings - Lt-Ch801 by Aico Furniture. Dimensions: W 41.00" D 23.75" H 9.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:11Z
+  Updated: 2025-12-14T07:10:16Z
   Price: $1,599.99 USD
 - [Spiral 5 Light Wall Sconce - Lt-Wl008-5Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-spiral-5-light-wall-sconce-lt-wl008-5clr): Shop the Spiral 5 Light Wall Sconce - Lt-Wl008-5Clr by Aico Furniture. Dimensions: 27.75"W x 27.75"D x 25.75"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:12Z
+  Updated: 2025-12-14T07:10:17Z
   Price: $779.00 USD
 - [Asteroids Led Chandelier Round Rings - Lt-Ch806 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-asteroids-led-chandelier-round-rings-lt-ch806): Shop the Asteroids Led Chandelier Round Rings - Lt-Ch806 by Aico Furniture. Dimensions: W 24.00" D 24.00" H 13.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:13Z
+  Updated: 2025-12-14T07:10:18Z
   Price: $1,109.00 USD
 - [Hemispheres Gold 8 Light Chandelier - Lt-Ch702-8Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hemispheres-gold-8-light-chandelier-lt-ch702-8gld): Shop the Hemispheres Gold 8 Light Chandelier - Lt-Ch702-8Gld by Aico Furniture. Dimensions: 27.75"W x 27.75"D x 25.75"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:13Z
+  Updated: 2025-12-14T07:10:18Z
   Price: $1,559.00 USD
 - [Asteroids Led Chandelier Round Rings - Lt-Ch808 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-asteroids-led-chandelier-round-rings-lt-ch808): Shop the Asteroids Led Chandelier Round Rings - Lt-Ch808 by Aico Furniture. Dimensions: W 32.00" D 32.00" H 6.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:14Z
+  Updated: 2025-12-14T07:10:18Z
   Price: $1,439.00 USD
 - [Portola Ii 14 Light Chandelier - Lt-Ch994-14Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-portola-ii-14-light-chandelier-lt-ch994-14clr): Shop the Portola Ii 14 Light Chandelier - Lt-Ch994-14Clr by Aico Furniture. Dimensions: 32.25"W x 32.25"D x 19.25"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:15Z
+  Updated: 2025-12-14T07:10:20Z
   Price: $1,659.00 USD
 - [Bouquet 18 Light Drum Chandelier - Lt-Ch995-18Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-bouquet-18-light-drum-chandelier-lt-ch995-18gld): Shop the Bouquet 18 Light Drum Chandelier - Lt-Ch995-18Gld by Aico Furniture. Dimensions: 31.5"W x 31.5"D x 9.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:15Z
+  Updated: 2025-12-14T07:10:20Z
   Price: $2,759.00 USD
 - [Autumn White 13 Light Chandelier - Lt-Ch971-13Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-autumn-white-13-light-chandelier-lt-ch971-13clr): Shop the Autumn White 13 Light Chandelier - Lt-Ch971-13Clr by Aico Furniture. Dimensions: 20"W x 20"D x 17.75"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:16Z
+  Updated: 2025-12-14T07:10:21Z
   Price: $1,349.00 USD
 - [Autumn White 21 Light Chandelier - Lt-Ch970-21Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-autumn-white-21-light-chandelier-lt-ch970-21clr): Shop the Autumn White 21 Light Chandelier - Lt-Ch970-21Clr by Aico Furniture. Dimensions: 30.5"W x 30.5"D x 20.5"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:17Z
+  Updated: 2025-12-14T07:10:21Z
   Price: $2,127.99 USD
 - [Autumn White Rectangular 12 Light Chandelier - Lt-Ch972-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-autumn-white-rectangular-12-light-chandelier-lt-ch972-12clr): Shop the Autumn White Rectangular 12 Light Chandelier - Lt-Ch972-12Clr by Aico Furniture. Dimensions: 39.5"W x 15.75"D x 13"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:17Z
+  Updated: 2025-12-14T07:10:22Z
   Price: $2,139.00 USD
 - [Bouquet 12 Light Chandelier - Lt-Ch996-12Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-bouquet-12-light-chandelier-lt-ch996-12gld): Shop the Bouquet 12 Light Chandelier - Lt-Ch996-12Gld by Aico Furniture. Dimensions: 31.5"W x 31.5"D x 9.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:18Z
+  Updated: 2025-12-14T07:10:23Z
   Price: $1,919.00 USD
 - [Hollywood Swank Upholstered Dresser in Crystal Croc Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-hollywood-swank-upholstered-dresser-in-crystal-croc-nt03050-09): Elevate your glam bedroom with the Hollywood Swank Dresser in Crystal Croc. Upholstered in textured vinyl with mirrored accents and velvet-lined drawers.
   Updated: 2025-12-11T03:25:05Z
@@ -23938,16 +23938,16 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:25:33Z
   Price: $859.99 USD
 - [Crossings Nightstand 3 Drawer In Reclaimed Barn - Ki-Crsg042-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-nightstand-3-drawer-in-reclaimed-barn-ki-crsg042-217): Shop the Crossings Nightstand 3 Drawer In Reclaimed Barn - Ki-Crsg042-217 by Aico Furniture. Dimensions: W 24.00" D 17.25" H 26.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:20Z
+  Updated: 2025-12-14T07:10:25Z
   Price: $928.99 USD
 - [Crossings Rolling File Cabinet In Reclaimed Barn - Ki-Crsg250-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-rolling-file-cabinet-in-reclaimed-barn-ki-crsg250-217): Shop the Crossings Rolling File Cabinet In Reclaimed Barn - Ki-Crsg250-217 by Aico Furniture. Dimensions: W 19.25" D 22.25" H 23.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:21Z
+  Updated: 2025-12-14T07:10:25Z
   Price: $859.99 USD
 - [Crossings Rustic Writing Desk Reclaimed Barn Finish – Aico](https://homeeleganceusa.com/products/aico-furniture-crossings-writing-desk-in-reclaimed-barn-ki-crsg277-217): Rustic writing desk with pipe-style legs, velvet-lined drawers, and reclaimed barn wood finish. Crossings by Aico delivers charm and function.
   Updated: 2025-12-11T03:25:37Z
   Price: $1,211.99 USD
 - [Crossings Writing Desk With File Cabinet In Reclaimed Barn - Ki-Crsg277-Crsg250-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-writing-desk-with-file-cabinet-in-reclaimed-barn-ki-crsg277-crsg250-217): Shop the Crossings Writing Desk With File Cabinet In Reclaimed Barn - Ki-Crsg277-Crsg250-217 by Aico Furniture. Dimensions: Writing Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:22Z
+  Updated: 2025-12-14T07:10:26Z
   Price: $1,540.99 USD
 - [Crossings 3 Piece Writing Desk Set In Reclaimed Barn - Ki-Crsg277-217-3Set by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-3-piece-writing-desk-set-in-reclaimed-barn-ki-crsg277-217-3set): Shop the Crossings 3 Piece Writing Desk Set In Reclaimed Barn - Ki-Crsg277-217-3Set by Aico Furniture. Dimensions: Writing Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:25:38Z
@@ -24055,7 +24055,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:26:12Z
   Price: $842.99 USD
 - [Carrollton Nightstand, 2 Drawers In Rustic Ranch - Ki-Crln042-407N by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-carrollton-nightstand-2-drawers-in-rustic-ranch-ki-crln042-407n): Shop the Carrollton Nightstand, 2 Drawers In Rustic Ranch - Ki-Crln042-407N by Aico Furniture. Dimensions: W 24.00" D 17.50" H 26.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:24Z
+  Updated: 2025-12-14T07:10:28Z
   Price: $777.99 USD
 - [Carrollton Dresser With Mirror In Rustic Ranch - Ki-Crln050-060-407N by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-carrollton-dresser-with-mirror-in-rustic-ranch-ki-crln050-060-407n): Shop the Carrollton Dresser With Mirror In Rustic Ranch - Ki-Crln050-060-407N by Aico Furniture. Dimensions: Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:26:14Z
@@ -24112,7 +24112,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:26:31Z
   Price: $742.99 USD
 - [Brooklyn Walk Sideboard In Burnt Umber - Ki-Brkw007-408 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-sideboard-in-burnt-umber-ki-brkw007-408): Shop the Brooklyn Walk Sideboard In Burnt Umber - Ki-Brkw007-408 by Aico Furniture. Dimensions: W 68.75" D 16.75" H 40.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:25Z
+  Updated: 2025-12-14T07:10:30Z
   Price: $2,016.99 USD
 - [Laguna Ridge 5 Drawer Chest in Washed Oak with LED Storage – Aico](https://homeeleganceusa.com/products/aico-furniture-laguna-ridge-5-drawer-chest-in-washed-oak-9083070-129): The Laguna Ridge Chest by Aico features 5 velvet-lined drawers, hidden side storage with LED lighting, and a Washed Oak finish—ideal for elegant bedrooms.
   Updated: 2025-12-11T03:26:34Z
@@ -24160,7 +24160,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:26:47Z
   Price: $707.99 USD
 - [Silverlake Village Footwear Cabinet In Washed Oak - Ki-Slvg099-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-silverlake-village-footwear-cabinet-in-washed-oak-ki-slvg099-129): Shop the Silverlake Village Footwear Cabinet In Washed Oak - Ki-Slvg099-129 by Aico Furniture. Dimensions: W 36.00 / 72.00" D 24.00" H71.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:25Z
+  Updated: 2025-12-14T07:10:30Z
   Price: $3,240.99 USD
 - [Silverlake Village Sideboard In Washed Oak - Ki-Slvg007-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-silverlake-village-sideboard-in-washed-oak-ki-slvg007-129): Serve in style with the Silverlake Village Sideboard by Michael Amini. Washed oak, angled design, velvet drawers, brushed nickel hardware. KI-SLVG007-129.
   Updated: 2025-12-11T03:26:49Z
@@ -24217,10 +24217,10 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:27:07Z
   Price: $1,400.99 USD
 - [Discoveries Horse Head W-Hand Applied Metal Accents - Acf-Arf-Hrshd-001 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-discoveries-horse-head-w-hand-applied-metal-accents-acf-arf-hrshd-001): Shop the Discoveries Horse Head W-Hand Applied Metal Accents - Acf-Arf-Hrshd-001 by Aico Furniture. Dimensions: 26.75W x 11.50D x 33.50H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:28Z
+  Updated: 2025-12-14T07:10:32Z
   Price: $1,259.00 USD
 - [Discoveries Dear Head W-Wood Antlers And Hand Applied Metal - Acf-Arf-Derhd-002 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-discoveries-dear-head-w-wood-antlers-and-hand-applied-metal-acf-arf-derhd-002): Shop the Discoveries Dear Head W-Wood Antlers And Hand Applied Metal - Acf-Arf-Derhd-002 by Aico Furniture. Dimensions: 19.75W x 19.75D x 32.25H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:29Z
+  Updated: 2025-12-14T07:10:34Z
   Price: $659.00 USD
 - [Winter Palace 8-Light Red & Gold Crystal Chandelier – Aico](https://homeeleganceusa.com/products/aico-furniture-winter-palace-8-light-chandelier-in-red-clear-and-gold-lt-ch926-8gld): Add regal charm with the Winter Palace 8-Light Chandelier by Aico—featuring clear glass, red and gold finish, traditional crystal styling, and elegant details.
   Updated: 2025-12-11T03:27:10Z
@@ -24277,7 +24277,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:27:27Z
   Price: $4,201.99 USD
 - [Illusions Folding Tray - Fs-Ilusn-546 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-illusions-folding-tray-fs-ilusn-546): Shop the Illusions Folding Tray - Fs-Ilusn-546 by Aico Furniture. Dimensions: W23.75" x D15.75" x H31.00" https://youtu.be/I-ab4Y51_u8 Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:31Z
+  Updated: 2025-12-14T07:10:39Z
   Price: $659.00 USD
 - [Illusions Round Chest Multi Finish FS-ILUSN-015-1 – Aico](https://homeeleganceusa.com/products/aico-furniture-illusions-round-chest-fs-ilusn-015-1): Illusions Round Chest FS-ILUSN-015-1 by Aico features hand-painted finishes, elegant curves, and classic artistry—timeless storage meets high-end design.
   Updated: 2025-12-11T03:27:28Z
@@ -24304,7 +24304,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:27:35Z
   Price: $1,829.00 USD
 - [Illusions Mini Bar - Fs-Ilusn-025 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-illusions-mini-bar-fs-ilusn-025): Shop the Illusions Mini Bar - Fs-Ilusn-025 by Aico Furniture. Dimensions: W48.25" x D18.00" x H40.25" https://youtu.be/I-ab4Y51_u8 Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:31Z
+  Updated: 2025-12-14T07:10:35Z
   Price: $4,798.99 USD
 - [Tuscano Melange Sideboard Mirror - 34067-34 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-tuscano-melange-sideboard-mirror-34067-34): Shop the Tuscano Melange Sideboard Mirror - 34067-34 by Aico Furniture. Dimensions: 71"W x 19"D x 36"H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-12-11T03:27:37Z
@@ -24322,7 +24322,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:27:41Z
   Price: $1,266.99 USD
 - [Portrait Vue Media Cabinet - 26071B-43-26071T-43 - Clearance by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-portrait-vue-media-cabinet-26071b-43-26071t-43-clearance): Shop the Portrait Vue Media Cabinet - 26071B-43-26071T-43 - Clearance by Aico Furniture. Dimensions: D-24.0" L-59.0" H-77.3" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:33Z
+  Updated: 2025-12-14T07:10:37Z
   Price: $1,680.99 USD
 - [Windsor Court 5-Piece Gathering Table Set Vintage Fruitwood – AICO](https://homeeleganceusa.com/products/aico-furniture-windsor-court-5-piece-gathering-table-set-in-vintage-fruitwood-70000-54-5set): Elegant Windsor Court 5-Piece Gathering Table Set in Vintage Fruitwood. Extendable 40–60" counter-height table, 4 chairs, inlaid marquetry, carved details, white-glove assembly included.
   Updated: 2025-12-11T03:27:43Z
@@ -24370,7 +24370,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-11T03:27:58Z
   Price: $21,678.99 USD
 - [Studio Camelia Oval Ottoman In Bright Gold - St-Cmlia79-Oro-806 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-studio-camelia-oval-ottoman-in-bright-gold-st-cmlia79-oro-806): Shop the Studio Camelia Oval Ottoman In Bright Gold - St-Cmlia79-Oro-806 by Aico Furniture. Dimensions: W34.50 x D18.00 x H53.00 Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-13T19:10:34Z
+  Updated: 2025-12-14T07:10:44Z
   Price: $999.00 USD
 - [Trance Geo Rectangular Cocktail Table – Michael Amini by Aico](https://homeeleganceusa.com/products/aico-furniture-trance-geo-rectangular-cocktail-table-tr-geo201): Elevate your space with the Trance Geo Cocktail Table by Aico—featuring a sleek rectangular shape, durable design, off-white finish, and European modern flair.
   Updated: 2025-12-11T03:27:59Z
@@ -29047,7 +29047,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-13T21:08:01Z
   Total Products: 12859
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-12-13T21:07:39Z
+  Updated: 2025-12-14T12:16:23Z
   Total Products: 6778
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-12-12T14:25:31Z
@@ -29107,7 +29107,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-13T06:06:54Z
   Total Products: 2072
 - [Dining Tables – Shop Modern, Rustic & Traditional | Home Elegance USA](https://homeeleganceusa.com/collections/dining-tables): Discover dining tables in wood, glass, and marble finishes. Shop round, rectangular, and extendable tables perfect for family dining, entertaining, and modern living.
-  Updated: 2025-12-11T09:05:42Z
+  Updated: 2025-12-14T12:16:23Z
   Total Products: 1147
 - [Dining Chairs | Modern, Classic & Luxury Seating – Home Elegance](https://homeeleganceusa.com/collections/dining-chairs): Shop dining chairs in modern, classic, and luxury styles. Upholstered, wood, and metal seating for dining rooms. Elegant comfort, durable design, free shipping.
   Updated: 2025-12-10T16:29:38Z
@@ -29239,7 +29239,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-09T18:49:51Z
   Total Products: 829
 - [Ashley Furniture Industries – Living, Bedroom & Dining | Home Elegance Furniture](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture Industries for living room, bedroom, dining, office, and outdoor furniture. Free nationwide shipping + assembly on qualifying items.
-  Updated: 2025-12-13T13:43:17Z
+  Updated: 2025-12-14T12:16:23Z
   Total Products: 1328
 - [Homey Design Inc. - Luxury Upholstery and Case Goods | Home Elegance USA](https://homeeleganceusa.com/collections/homey-design-furniture): Discover Homey Design Inc. at Home Elegance USA: Exquisite traditional and Victorian-inspired living room, bedroom, and dining room furniture.
   Updated: 2025-12-07T23:16:27Z
@@ -29563,7 +29563,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:03:57Z
   Total Products: 32
 - [Rectangular Dining Tables in Wood, Marble & Extendable Styles](https://homeeleganceusa.com/collections/rectangular-dining-tables): Shop rectangular dining tables in solid wood, glass, and marble tops. Extendable and fixed styles for 4–10 guests. Perfect for any dining room or kitchen.
-  Updated: 2025-12-10T21:10:08Z
+  Updated: 2025-12-14T12:16:23Z
   Total Products: 751
 - [Round Dining Tables for Small Spaces, Kitchens & Modern Dining Rooms](https://homeeleganceusa.com/collections/round-dining-tables): Shop round dining tables for small spaces, kitchens, and open dining rooms. Fixed and extendable styles in wood, glass, and marble—ideal for 2 to 6 guests.
   Updated: 2025-12-11T09:05:42Z
