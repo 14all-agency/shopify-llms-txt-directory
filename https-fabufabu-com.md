@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-14T08:15:26.848Z
+- Updated At: 2025-12-15T00:00:20.463Z
 
 ## Products
 
@@ -164,6 +164,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_1c186e94-2ed1-4204-bdc0-4d93cbd58a01.jpg?v=1765461883
   Price: $19.28 USD
+- [Cowhide leather gold ball chain handbag](https://fabufabu.com/products/cowhide-leather-gold-ball-chain-handbag): FASHIONABLE DESIGN ---how people with fashionable design, the design is made of cow leather, with gold ball chains and gold zippers add style. The handbags are equipped with internal zipper compartments and two separate compartments, which are convenient for sorting mobile phones, banknotes, cosmetics, etc., and are matched with golden hanging chains. They are suitable for anniversary parties, thank you banquets, and daily carrying. The design is light and easy to carry, shoulder carry Side back is okay. The design pays special attention to versatility and fashion, so that it can show style. PERFECT PURSE FOR A NICE DATE NIGHT!---Quilted exterior with THICK CHAIN shoulder strap.This designer clutch purse from Montana West is bold without being over the top. It's a classic piece that will look good with practically everything already hanging in your closet. SMALL & COMPACT PHONE PURSE !--- 22cm(L) x 15 cm(H) x 7cm(W) : the interior side pocket is convenient for quick access to your cell phone. There is ample room for your small wallet, lipstick and tissue. Magnetic flap closure will keep your belongings safe and secure. Perfect for a night out or a special event! STURDY & DELICATE& SPACIOUS GOING OUT BAG!---This stylish purse comes in classic black & white. Just pick one of the colorways that match your everyday style best and fill it with your most beloved essentials. Buying more than one will get you everyone's approval. QUALITY MADE ! GREAT GIFT IDEA！--- The exterior is made of durable FAUX LEATHER, comes with wear resistant fabric lining and superior golden hardware accessories. Quality made quilted shoulder bags， It is also a nice gift choice for your families and friends. DETAIL---Cow leather; Golden Ball; Gold zipper; Two separate compartments; Inside zip pocket; Shoulder Straps: Adjustable; Dimensions: 22cm (L), 15 cm (H), 7cm (W); Color: White, Black
+  Updated: 2025-12-14T14:33:56Z
+  Vendor: fabufabu design store
+  Product Type: Hangbag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_black.png?v=1765722491
+  - [Black](https://fabufabu.com/products/cowhide-leather-gold-ball-chain-handbag?variant=45498608877765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_black.png?v=1765722491
+    Price: $115.00 USD
+  - [White](https://fabufabu.com/products/cowhide-leather-gold-ball-chain-handbag?variant=45498608910533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_white.jpg?v=1765722258
+    Price: $115.00 USD
 
 ## Collections
 
@@ -183,8 +197,8 @@
   Updated: 2025-12-12T05:14:15Z
   Total Products: 1
 - [Bags](https://fabufabu.com/collections/bags)
-  Updated: 2025-12-12T05:14:15Z
-  Total Products: 0
+  Updated: 2025-12-14T14:32:42Z
+  Total Products: 1
 - [Beauty](https://fabufabu.com/collections/beauty)
   Updated: 2025-12-12T05:14:15Z
   Total Products: 0
