@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-15T00:00:55.582Z
+- Updated At: 2025-12-15T04:00:33.250Z
 
 ## Products
 
@@ -7562,7 +7562,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Aloha Bloom Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/aloha-bloom-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Aloha Bloom Wooden Wick Candle – 21 oz. Hawaiian hibiscus, plumeria, and warm amberwood with a gentle crackling wooden wick. Up to 100-hour burn.
-  Updated: 2025-12-14T13:16:23Z
+  Updated: 2025-12-15T01:00:33Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7577,7 +7577,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Aloha Bloom Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/aloha-bloom-wooden-wick-candle-luxury-13-oz-soy-blend-affinati): Aloha Bloom Wooden Wick Candle – 13 oz with Hawaiian hibiscus, plumeria, jasmine, and warm amberwood. Premium soy wax and up to 75-hour burn.
-  Updated: 2025-12-14T13:16:37Z
+  Updated: 2025-12-15T01:07:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7592,7 +7592,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Aloha Bloom Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/aloha-bloom-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Aloha Bloom Wooden Wick Candle – 10 oz with Hawaiian hibiscus, plumeria, jasmine, and warm amberwood. Premium soy wax and up to 55-hour burn.
-  Updated: 2025-12-14T13:16:49Z
+  Updated: 2025-12-15T01:09:49Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7607,7 +7607,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Coastal Drift Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/coastal-drift-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Coastal Drift Wooden Wick Candle – 10 oz with marine air, sea salt, citrus zest, and driftwood. Premium soy wax and up to 55-hour burn.
-  Updated: 2025-12-14T15:09:03Z
+  Updated: 2025-12-15T02:54:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7622,7 +7622,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Coastal Drift Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/coastal-drift-wooden-wick-candle-luxury-13-oz-soy-blend-affinati): Coastal Drift Wooden Wick Candle – 13 oz with marine air, sea salt, citrus zest, and driftwood. Premium soy wax and up to 75-hour burn.
-  Updated: 2025-12-14T15:08:14Z
+  Updated: 2025-12-15T02:51:44Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7637,7 +7637,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Coastal Drift Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/coastal-drift-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Coastal Drift Wooden Wick Candle – 21 oz with marine air, sea salt, citrus zest, and driftwood. Premium soy wax and up to 100-hour burn time.
-  Updated: 2025-12-14T15:07:49Z
+  Updated: 2025-12-15T02:50:36Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
