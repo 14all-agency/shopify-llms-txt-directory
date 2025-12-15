@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-12-13T00:00:39.161Z
+- Updated At: 2025-12-15T00:00:38.855Z
 
 ## Products
 
@@ -252,7 +252,7 @@
     Availability: Available
     Price: $24.75 USD
 - [Handmade Macrame Sea Glass Bracelet - Adjustable Beach Jewelry](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet): Discover our Handmade Macrame Sea Glass Bracelet, a stylish and adjustable sea glass bracelet perfect for beach lovers. Great gift idea!
-  Updated: 2025-11-20T22:10:37Z
+  Updated: 2025-12-14T13:59:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -261,7 +261,7 @@
     Availability: Available
     Price: $20.00 USD
   - [No.2](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet?variant=42904251564113)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 USD
   - [No.3](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet?variant=42904251596881)
     Availability: Available
@@ -4492,21 +4492,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ruby-Copper-Pendant-Wire-Wrapped-Gemstone-Necklace-_-Earrings-Boho-Style-Jewelry-Sunny-Sea-Glass-Jewelry-10110653.jpg?v=1762487669
   Price: $85.95 USD
-- [Handmade Macrame Sea Glass Bracelet, Hunter Green Sea Glass Bracelet,](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets): Petty &amp; fun Sea Glass bracelet! A great gift for a friend who loves beaches &amp; oceans. Fun &amp; pretty summer beach bracelet!. Th bracelet  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T23:59:53Z
-  Vendor: Sunny Sea Glass Jewelry 
-  Product Type: Sea Glass Bracelet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Macrame-Sea-Glass-Bracelet_-Hunter-Green-Sea-Glass-Bracelet_-Adjustable-Sea-Glass-Macrame-Bracelets-Sunny-Sea-Glass-Jewelry-10110792.jpg?v=1762487683
-  - [No.1](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets?variant=42908138176593)
-    Availability: Available
-    Price: $20.00 USD
-  - [No.2](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets?variant=42908138209361)
-    Availability: Available
-    Price: $20.00 USD
-  - [No.3](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets?variant=42908138242129)
-    Availability: Available
-    Price: $20.00 USD
 - [Abalone macrame bracelet, Abalone Bracelet, - Sunny Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/abalone-macrame-bracelet): This bracelet features a hand wire-wrapped 14 mm abalone shell set on a sterling silver lavender macrame made from durable Korean polyester cord.  - Sunny Sea Glass Jewelry
   Updated: 2025-11-07T15:10:16Z
   Vendor: Sunny Sea Glass Jewelry 
@@ -4756,8 +4741,8 @@
   Updated: 2025-12-10T04:30:47Z
   Total Products: 58
 - [Sea Glass Bracelets/Anklets - Sunny Sea Glass Jewelry](https://sunnyseaglassjewelry.com/collections/sea-glass-bracelets-anklets): - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:02:04Z
-  Total Products: 10
+  Updated: 2025-12-14T13:58:46Z
+  Total Products: 9
 - [Wire Wrapped Earrings - Sunny Sea Glass Jewelry](https://sunnyseaglassjewelry.com/collections/sea-glass-jewlry): - Sunny Sea Glass Jewelry
   Updated: 2025-11-07T02:55:28Z
   Total Products: 31
@@ -4780,8 +4765,8 @@
   Updated: 2025-11-08T03:16:41Z
   Total Products: 7
 - [All Products (ChatGPT-AI Product Description) - Sunny Sea Glass](https://sunnyseaglassjewelry.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it  - Sunny Sea Glass Jewelry
-  Updated: 2025-12-10T04:30:47Z
-  Total Products: 437
+  Updated: 2025-12-14T13:58:46Z
+  Total Products: 436
 
 ## Blogs
 
