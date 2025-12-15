@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-15T12:00:33.592Z
+- Updated At: 2025-12-15T16:00:32.758Z
 
 ## Products
 
@@ -7658,10 +7658,10 @@
   Updated: 2025-12-10T19:04:55Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-12-14T13:32:53Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 88
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-12-14T14:06:12Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 75
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-10T19:04:56Z
@@ -7673,7 +7673,7 @@
   Updated: 2025-12-10T19:04:56Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-12-13T12:10:02Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 45
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
   Updated: 2025-12-10T19:04:56Z
@@ -7688,13 +7688,13 @@
   Updated: 2025-12-10T19:04:56Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-14T15:09:01Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 312
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-13T12:10:02Z
   Total Products: 99
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-12-13T12:10:02Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 87
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-12-14T12:09:56Z
@@ -7712,55 +7712,55 @@
   Updated: 2025-12-10T19:04:56Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-14T14:10:04Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 92
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-12-14T15:09:01Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-12-14T15:09:01Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 118
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 133
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 122
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-12-14T15:09:01Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 100
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 62
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-12-14T14:54:03Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-14T15:09:01Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 140
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 26
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
-  Updated: 2025-12-12T15:23:58Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 9
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 46
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 84
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-14T12:09:56Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 47
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-12-13T12:10:02Z
@@ -7772,7 +7772,7 @@
   Updated: 2025-12-10T19:04:58Z
   Total Products: 26
 - [New Years Candles](https://affinatiliving.com/collections/new-years-candles): Celebrate the New Year with luxurious candles crafted for midnight moments. Sparkling, warm, and elegant scents to welcome a fresh start.
-  Updated: 2025-12-14T00:45:07Z
+  Updated: 2025-12-15T12:09:51Z
   Total Products: 65
 
 ## Blogs
