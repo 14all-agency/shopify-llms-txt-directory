@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-02T00:01:20.133Z
+- Updated At: 2025-12-15T00:00:44.523Z
 
 ## Products
 
@@ -210,7 +210,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/6050SR.jpg?v=1672978780
   Price: RM 500.00 MYR
 - [DOCASA White Semi Recessed Wash Basin come with single pre-punched tap hole & overflow](https://bath2u.com/products/docasa-white-semi-recessed-wash-basin-come-with-single-pre-punched-tap-hole-overflow): Material: Ceramic Size: 500 (W) x 450 (L) x 157 (H) mm Type: Semi Recessed Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2024-04-18T15:03:15Z
+  Updated: 2025-12-02T07:54:27Z
   Vendor: DOCASA
   Product Type: Semi Recessed Basin
   Availability: Available
@@ -476,7 +476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTW1800-ZG3.jpg?v=1673937212
   Price: RM 96.00 MYR
 - [SORENTO 80mm Brass Gold Pop Up Waste with Over Flow](https://bath2u.com/products/sorento-80mm-gold-pop-up-waste-with-over-flow): Basin pop-up waste constructed from solid brass with gold chrome finish provides push button operation. This excellent mechanism and modern look add more to your bathroom. Designed for use with basins with overflow. Specification : - Material: Brass- Finish: Gold Chrome- Height: 80mm- Overflow: YesPackage Content : - 1x Gold Chrome Popup Waste
-  Updated: 2024-04-18T15:04:35Z
+  Updated: 2025-12-05T09:38:06Z
   Vendor: SORENTO
   Product Type: Basin Waste
   Availability: Available
@@ -581,7 +581,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT6856-GY.jpg?v=1673967415
   Price: RM 670.00 MYR
 - [SORENTO Modern Angled Radiator Valves Gold Chrome](https://bath2u.com/products/sorento-modern-angled-radiator-valves-gold-chrome): This modern angled radiator valves in gleaming gold chrome have manual rather than thermostatic controls, meaning you can turn them on and off as needed. Angled valves like these are necessary when your central heating pipework has to come out of the wall. This makes them an essential item when installing certain heated towel rails or wall mounted radiators. Specification : Material: Brass Finish: Polished Gold Chrome Shape: Round Style: Modern Type: Angled Valves Package Content : 1x Angle Valve
-  Updated: 2024-04-18T15:04:37Z
+  Updated: 2025-12-04T23:38:44Z
   Vendor: SORENTO
   Product Type: Angle Valve
   Availability: Available
@@ -728,7 +728,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWB2413-BL.jpg?v=1674057262
   Price: RM 510.00 MYR
 - [SORENTO 500mm Matte Black Square Counter Mounting Wash Basin come with single pre-punched tap hole](https://bath2u.com/products/sorento-500mm-matte-black-square-counter-mounting-wash-basin-come-with-single-pre-punched-tap-hole): Material: Ceramic Dimension: 500 (W) x 400 (L) x 140 (H) mm Type: Counter Top Colour: Black Finish: Matte Note: Tap is not included
-  Updated: 2024-04-18T15:04:48Z
+  Updated: 2025-12-07T04:46:43Z
   Vendor: SORENTO
   Product Type: Counter Top Basin
   Availability: Available
@@ -1285,7 +1285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/tap-5146-bk.png?v=1675142195
   Price: RM 704.00 MYR
 - [TAPI 200mm Matte Black Round Exposed Shower Column With Mixer Set](https://bath2u.com/products/tapi-200mm-matte-black-round-exposed-shower-column-with-mixer-set): Specifications : ABS 200mm Round Fixed Shower Head ABS Stainless Steel Round Hand Shower ABS Adjustable Holder 1.5m Hose Quarter Turn Valve Wall Mounted Material : Stainless steel PC Matt Black
-  Updated: 2025-01-25T16:09:12Z
+  Updated: 2025-12-02T07:20:48Z
   Vendor: TAPI
   Product Type: Exposed Shower
   Availability: Available
@@ -1948,7 +1948,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SS6046R.png?v=1675397074
   Price: RM 260.00 MYR
 - [ARTE 600mm Stainless Steel Black Nano Handmade Sink - Single Bowl](https://bath2u.com/products/arte-600mm-stainless-steel-black-nano-handmade-sink-single-bowl): Specifications : Colour: Black Outer Dimension: 600mm(L) x 460 mm(W) x 220mm(D) Material: 304 Stainless steel Thickness: 2mm Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion Suitable for Undermount, and Top Mount
-  Updated: 2025-03-07T04:09:46Z
+  Updated: 2025-12-05T00:21:00Z
   Vendor: ARTE
   Product Type: Kitchen Sinks
   Availability: Available
@@ -2291,7 +2291,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/HV-30440C.png?v=1678071522
   Price: RM 205.00 MYR
 - [TAPI 230mm Stainless Steel Corner Bathroom Basket](https://bath2u.com/products/tapi-230mm-stainless-steel-corner-bathroom-basket): Get ready to say goodbye to rust and hello to organization with our stainless steel basket. This German Quality Basket was made of high-quality steel that’s resistant to corrosion, ensuring it will be a reliable storage solution for years to come. Specification : Finish : Polish Material : SUS 304 Stainless Steel Height : 450mm Length : 230mm Width : 230mm Shape : Triangle Basket Tier : 1 Tier
-  Updated: 2024-04-18T15:10:32Z
+  Updated: 2025-12-03T07:39:40Z
   Vendor: TAPI
   Product Type: Shower Basket
   Availability: Available
@@ -2417,7 +2417,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/NV-8946BNB.png?v=1678115701
   Price: RM 1,050.00 MYR
 - [NOVA 890mm Matt Black Undermount Kitchen Sink - Double Bowl](https://bath2u.com/products/nova-890mm-matt-black-undermount-kitchen-sink-double-bowl-1): Specification : Material : 304 Stainless Steel Colour : Nano Matt Black Finish Type : Undermount Length : 460mm Width : 890mm Height : 230mm Thickness : 3.0 mm + 12 mm Corner Radius : 10 Degrees
-  Updated: 2025-02-16T22:23:58Z
+  Updated: 2025-12-08T07:26:32Z
   Vendor: NOVA
   Product Type: Undermount Kitchen Sinks
   Availability: Available
@@ -2761,7 +2761,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/VM135.png?v=1678684495
   Price: RM 1,099.00 MYR
 - [ALFRED VICTORIA 1150mm Round Exposed Rain Shower System - Chrome](https://bath2u.com/products/alfred-victoria-1150mm-round-exposed-rain-shower-system-chrome): Specification : 225mm ABS rain shower sprayer - Round ABS chrome finish - top surface ABS grey finish - bottom surface Five functions hand-held shower sprayer Soft spray nozzle head Extensible rain shower arm Complete mixer set with diverter (3 functions) Swivel bath spout Core material: brass body 1.5m stainless steel flexible hose Adjustable sprayer holder High quality chrome plated finish
-  Updated: 2025-02-13T23:23:48Z
+  Updated: 2025-12-02T10:19:14Z
   Vendor: ALFRED VICTORIA
   Product Type: Exposed Shower
   Availability: Available
