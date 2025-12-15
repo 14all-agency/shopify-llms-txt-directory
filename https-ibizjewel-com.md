@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-13T00:00:58.073Z
+- Updated At: 2025-12-15T00:01:01.223Z
 
 ## Products
 
@@ -20316,7 +20316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/IBIZ-02_4.jpg?v=1710565275
     Price: $499.00 USD
 - [Precious Plain Silver Wedding Band](https://ibizjewel.com/products/precious-plain-silver-wedding-band): Expertly Crafted From Precious Silver, This Plain Wedding Band Is A Timeless Symbol Of Love And Commitment. Designed For Durability And Everlasting Beauty, It Is The Perfect Choice For A Classic Wedding Band That Will Stand The Test Of Time. Made With Precision And Care, It Is A Precious Addition To Any Wedding Ceremony.
-  Updated: 2025-10-02T10:30:55Z
+  Updated: 2025-12-13T06:17:17Z
   Vendor: IBIZ Special
   Product Type: Wedding Band Ring
   Availability: Available
@@ -25044,7 +25044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-132_2.jpg?v=1710926536
     Price: $956.00 USD
 - [Natural Salt And Pepper 1.50CT Hexagon Diamond Art Nouveau Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-50ct-hexagon-diamond-art-nouveau-anniversary-ring): Discover The Unique Beauty Of Our Natural Salt And Pepper 1.50ct Hexagon Diamond Art Nouveau Anniversary Ring. Expertly Crafted With Exquisite Detailing, This Ring Features A Stunning 1.50ct Hexagon Diamond, Adding A Touch Of Elegance And Sophistication To Any Occasion. Elevate Your Style With This Timeless Piece.
-  Updated: 2025-10-02T10:31:00Z
+  Updated: 2025-12-13T03:28:25Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -44677,6 +44677,10 @@
     Updated: 2025-12-08T09:59:08Z
     Author: work inventions
     Tags: Affordable Diamond Rings
+  - [Top Reasons to Choose an Moissanite Diamond Ring for Your Next Special Moment](https://ibizjewel.com/blogs/news/top-reasons-to-choose-an-moissanite-diamond-ring-for-your-next-special-moment)
+    Updated: 2025-12-13T11:38:14Z
+    Author: work inventions
+    Tags: Moissanite Diamond Ring
 
 ## Store Pages
 
