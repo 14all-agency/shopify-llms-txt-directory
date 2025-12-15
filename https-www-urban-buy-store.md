@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-14T00:00:29.260Z
+- Updated At: 2025-12-15T00:00:31.129Z
 
 ## Products
 
@@ -642,7 +642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-12T02:46:26Z
+  Updated: 2025-12-14T09:49:24Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
