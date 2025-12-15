@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2025-12-13T00:00:25.789Z
+- Updated At: 2025-12-15T00:00:26.778Z
 
 ## Products
 
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1760525754
     Price: $34.95 USD
 - [Flairé™ 30” High-Waisted Flared Leggings with Pocket | Stretch Yoga & Athleisure Pants](https://hypesinventory.com/products/yoga-flare-leggings-with-pocket): Flairé™ 30” high-waisted flared leggings with pocket. Stretchy yoga and athleisure pants designed for comfort, support, and everyday wear.
-  Updated: 2025-12-12T19:30:31Z
+  Updated: 2025-12-13T07:27:10Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -7820,7 +7820,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Glow In The Dark Planet Keychain | Solar System Space Key Ring](https://hypesinventory.com/products/glow-in-the-dark-planet-keychain): Glow in the dark planet keychain featuring realistic solar system designs. A unique space gift made with premium glass. Perfect for keys, bags & backpacks.
-  Updated: 2025-12-12T18:55:04Z
+  Updated: 2025-12-13T06:52:59Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -8423,7 +8423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b24f2ce2d78639bdba93fd0979ed2b2f.jpg?v=1764988054
     Price: $14.99 USD
 - [NFC Social Media Sharing Keychain – Epoxy Tap Card for Google Reviews, Instagram & Facebook](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card): Smart NFC Tap Review Keychain for Google, Instagram, Facebook, TikTok, WhatsApp & more. One tap opens any review page, website, or social link. Waterproof & durable.
-  Updated: 2025-12-12T18:49:57Z
+  Updated: 2025-12-13T01:58:26Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -8431,27 +8431,27 @@
   - [Facebook](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160122109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1dcc91c78ef47e45890084eaa522fdd7.jpg?v=1765565396
-    Price: $9.90 USD
+    Price: $14.90 USD
   - [Google White](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160154877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b144541075d00cc14d0c667d9d242920.jpg?v=1765565396
-    Price: $9.90 USD
+    Price: $14.90 USD
   - [Instagram](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160187645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b943f5e6231bcd5f85c51fdca5cabb62.jpg?v=1765565396
-    Price: $9.90 USD
+    Price: $14.90 USD
   - [Google Black](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160220413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/526f569492ac34b8ba91f4bd2b72b493.jpg?v=1765565396
-    Price: $9.90 USD
+    Price: $14.90 USD
   - [Whatsapp](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160253181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8970f0fb64d5c97ba201481c9474f619.jpg?v=1765565396
-    Price: $9.90 USD
+    Price: $14.90 USD
   - [Tik-Tok](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160285949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ChatGPT_Image_Dec_10_2025_05_00_39_AM.png?v=1765565396
-    Price: $9.99 USD
+    Price: $14.90 USD
 [List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDgxNjI3NjQwMDYxLCJsYXN0X3ZhbHVlIjoiOTA4MTYyNzY0MDA2MSJ9)
 
 ## Collections
@@ -8460,10 +8460,10 @@
   Updated: 2025-12-10T23:25:13Z
   Total Products: 15
 - [Activewear](https://hypesinventory.com/collections/activewear)
-  Updated: 2025-12-12T19:23:54Z
+  Updated: 2025-12-13T12:24:12Z
   Total Products: 31
 - [Flairé™ collection](https://hypesinventory.com/collections/flaire™-collection)
-  Updated: 2025-12-12T19:23:54Z
+  Updated: 2025-12-13T12:24:12Z
   Total Products: 8
 - [Health & Beauty](https://hypesinventory.com/collections/health-beauty)
   Updated: 2025-12-10T23:25:14Z
@@ -8490,7 +8490,7 @@
   Updated: 2025-12-10T23:25:14Z
   Total Products: 1
 - [Featured Collection](https://hypesinventory.com/collections/featured-collection-yl5rv)
-  Updated: 2025-12-11T23:59:55Z
+  Updated: 2025-12-13T01:58:09Z
   Total Products: 22
 
 ## Blogs
