@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-12T01:32:47.371Z
+- Updated At: 2025-12-15T00:00:22.854Z
 
 ## Products
 
@@ -235,19 +235,19 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-5041.jpg?v=1762845792
   Price: $69.00 AUD
 - [Karaca Hatır Plus Turkish Coffee Machine | Dual Brew | Red](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-red): Brew authentic Turkish coffee with Karaca Hatir Plus Turkish coffee machine. Enjoy sleek design and advanced features for the perfect cup every time!
-  Updated: 2025-11-11T07:21:33Z
+  Updated: 2025-12-12T02:53:50Z
   Vendor: Mita Kitchenware
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/1_900W.jpg?v=1758282102
-  Price: $279.00 AUD
+  Price: $259.00 AUD
 - [Karaca Hatır Plus 2-in-1 Coffee Machine | Rosie Brown](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-rosie-brown): Enjoy Turkish & filter coffee with the Karaca Hatır Plus. Features a steel filter, auto brewing, and a 30-min heat function.
-  Updated: 2025-11-09T03:43:35Z
+  Updated: 2025-12-12T02:54:05Z
   Vendor: Mita Kitchenware
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/153.01.06.4920-300.jpg?v=1758282110
-  Price: $290.00 AUD
+  Price: $279.00 AUD
 - [Karaca Eva 2pk Cake Mold Set - Non-Stick & Durable](https://www.mitakitchenware.com/products/karaca-eva-2-piece-cake-set): Shop Karaca Eva Cake Set, 2pc with non-stick coating for easy baking. Durable metal molds ideal for any kitchen. Order now for a seamless cake experience!
   Updated: 2025-09-19T11:42:08Z
   Vendor: Mita Kitchenware
@@ -476,13 +476,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4BEB5FF9-C13D-4451-992C-02951BB27B26.jpg?v=1758282359
     Price: $14.95 AUD
-- [Elegant Gift Wrapping Service - Shop Now](https://www.mitakitchenware.com/products/gift-wrapping): Elevate your gift with our elegant wrapping service. Add the perfect finishing touch to make your gift special. Order on our website today.
-  Updated: 2025-07-30T07:10:28Z
-  Vendor: Mita Kitchenware
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/amy-shamblen-M-dLdqCVfAY-unsplash.jpg?v=1708234441
-  Price: $10.00 AUD
 - [Kütahya Zeugma Coffee Cup Set for Two](https://www.mitakitchenware.com/products/kutahya-zeugma-4-pce-coffee-cup-set): Elevate your coffee moments with the Kütahya Zeugma 4-piece set. Crafted porcelain with modern designs for a luxurious sip.
   Updated: 2025-11-23T20:11:49Z
   Vendor: Mita Kitchenware
@@ -701,21 +694,21 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SOH24Y2720P04_01.jpg?v=1708237567
   Price: $289.00 AUD
 - [Kütahya Toledo Tea Set - Elegant Gift Boxed Set](https://www.mitakitchenware.com/products/kutahya-porcelain-toledo-tea-set-for-2): Discover the elegance of Kütahya Toledo Tea Set for 2. Unique design with platinum reflections, perfect for modern gifting. Made in Turkiye.
-  Updated: 2025-11-05T09:54:22Z
+  Updated: 2025-12-13T22:09:00Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_2518228b-d0f9-4a7b-b6e7-def6c5a7bc6a.jpg?v=1708237160
-  Price: $89.00 AUD
+  Price: $79.00 AUD
 - [Kütahya Porcelain Toledo Coffee Set for 2 - Gift Box](https://www.mitakitchenware.com/products/kutahya-porcelain-toledo-coffee-set-for-2): Enjoy elegance with the Toledo Coffee Set for two, featuring stunning platinum accents and superior quality in a beautiful gift box.
-  Updated: 2025-09-06T00:54:50Z
+  Updated: 2025-12-13T22:08:47Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/kuetahya-porcelain-toledo-coffee-set-for-2-gift-box-tea-and-sets-241.webp?v=1741174931
-  Price: $79.00 AUD
+  Price: $69.00 AUD
 - [Kütahya Porcelain Bone Rosa 29-Piece High-Grade Porcelain Dinner Set](https://www.mitakitchenware.com/products/kutahya-porcelain-bone-rosa-29-piece-dinnerware-set-white): Premium 29-piece high-grade porcelain dinnerware set by Kütahya. Award-winning Bone Rosa design. Elegant, durable, and perfect for luxury dining.
-  Updated: 2025-11-28T14:45:56Z
+  Updated: 2025-12-14T09:57:58Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -1130,13 +1123,13 @@
   Updated: 2025-12-08T22:17:47Z
   Total Products: 9
 - [Kitchen Appliances- Turkish Coffee Machine](https://www.mitakitchenware.com/collections/kitchen-appliances): Discover a wide range of kitchen appliances to level up your cooking game. Shop Karaca brands and find the perfect Turkish Coffee machines for your home.
-  Updated: 2025-11-11T07:21:34Z
+  Updated: 2025-12-12T02:54:49Z
   Total Products: 8
 - [Kitchenware - Buy Quality Kitchenware Online at Best Prices](https://www.mitakitchenware.com/collections/kitchenware): Shop our premium kitchenware collection, featuring Karaca cake tin sets, stylish thermos drinkware, and essential accessories for every cooking enthusiast .
   Updated: 2025-11-03T12:14:36Z
   Total Products: 11
 - [Tea and Coffee Collection | Shop the Best Selection Online](https://www.mitakitchenware.com/collections/tea-and-coffee-sets): Explore our exquisite Tea and Coffee Collection to find the perfect cu to energize your day. Choose from a variety of  designs
-  Updated: 2025-12-06T22:41:29Z
+  Updated: 2025-12-13T22:09:01Z
   Total Products: 38
 - [Turkish Peshtemal: Authentic, Handwoven Towels & Throws](https://www.mitakitchenware.com/collections/homewares): Discover a wide range of Turkish Peshtemal towels - a traditional, lightweight and highly absorbent option for your bath, beach or home décor needs.
   Updated: 2025-04-28T02:26:53Z
@@ -1154,10 +1147,10 @@
   Updated: 2025-11-26T12:16:09Z
   Total Products: 15
 - [Archive Sale | Exclusive Deals on Trendy Items | Sale](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE SALE collection. Shop now and add timeless pieces to your wardrobe.
-  Updated: 2025-12-09T10:58:58Z
+  Updated: 2025-12-13T22:09:01Z
   Total Products: 76
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2025-12-09T10:58:58Z
+  Updated: 2025-12-14T02:10:40Z
   Total Products: 200
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
   Updated: 2025-12-09T04:08:39Z
@@ -1166,10 +1159,10 @@
   Updated: 2025-12-09T04:08:39Z
   Total Products: 14
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2025-12-09T10:58:58Z
+  Updated: 2025-12-14T02:10:40Z
   Total Products: 200
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-09T10:58:58Z
+  Updated: 2025-12-14T02:10:40Z
   Total Products: 200
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-11-26T11:19:08Z
