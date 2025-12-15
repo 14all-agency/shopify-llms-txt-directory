@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-12T00:00:23.695Z
+- Updated At: 2025-12-15T00:00:26.396Z
 
 ## Products
 
@@ -5888,7 +5888,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Black Kashmiri Aari Embroidered Long Jacket](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket): Elegant black Kashmiri Aari embroidered long jacket with rich multicoloured floral handwork. Premium winter ethnic wear for women. Perfect for parties.
-  Updated: 2025-12-08T21:49:35Z
+  Updated: 2025-12-12T21:01:32Z
   Vendor: PIKARU FASHION
   Product Type: jacket
   Availability: Available
@@ -5984,11 +5984,11 @@
     Availability: Available
     Price: $19.99 USD
 - [Handblock Floral Boho Midi Dress—Puff Sleeves](https://pikarufashion.com/products/handblock-floral-boho-midi-dress): A breezy Handblock Floral Boho Midi Dress, featuring puff sleeves, a gathered waist, and a tassel-tie neckline — perfect for everyday.
-  Updated: 2025-12-10T20:09:47Z
+  Updated: 2025-12-13T08:54:41Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Handblock / Midi
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_140333.jpg?v=1765271044
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_140333.jpg?v=1765616056
   - [S](https://pikarufashion.com/products/handblock-floral-boho-midi-dress?variant=61344687554930)
     Availability: Available
     Price: $19.99 USD
@@ -6002,11 +6002,11 @@
     Availability: Available
     Price: $19.99 USD
 - [Navy Botanical Boho Midi Dress— Puff Sleeves & Tassel Neck](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print): Shop the Navy Botanical Boho Midi Dress with vibrant floral print, puff sleeves, and tassel tie neckline. Lightweight, stylish & perfect for outings or daily
-  Updated: 2025-12-11T00:24:36Z
+  Updated: 2025-12-13T08:54:12Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Floral / Midi
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_140839.jpg?v=1765271684
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_140839.jpg?v=1765616034
   - [S](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print?variant=61344710885746)
     Availability: Available
     Price: $19.99 USD
@@ -6020,11 +6020,11 @@
     Availability: Available
     Price: $19.99 USD
 - [Boho Midi Dress -Floral Weave with Puff Sleeves & Tassel Tie](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress): Elevate your style with this Ivory Jacquard Boho Midi Dress featuring a textured floral weave, puff sleeves, and tassel tie neckline. Sizes S–XL.
-  Updated: 2025-12-10T22:13:45Z
+  Updated: 2025-12-13T08:53:50Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Jacquard / Midi
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_141307.jpg?v=1765357055
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_141307.jpg?v=1765616009
   - [S](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress?variant=61349307908466)
     Availability: Available
     Price: $19.99 USD
@@ -6038,28 +6038,28 @@
     Availability: Available
     Price: $19.99 USD
 - [Suzani Coat with Fur Collar & Cuffs–Handcrafted Boho Jacket](https://pikarufashion.com/products/suzani-coat-with-fur-collar-cuffs-handcrafted-boho-jacket): A luxurious handcrafted Suzani coat with multicolour floral detailing, curly fur collar, and fur cuffs. A statement artisanal boho outerwear
-  Updated: 2025-12-11T22:09:43Z
+  Updated: 2025-12-13T08:53:23Z
   Vendor: PIKARU FASHION
   Product Type: Outerwear → Jackets / Coats → Embroidered / Velvet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Suzanicoat.webp?v=1765438756
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Suzanicoat.webp?v=1765615982
   Price: $499.00 USD
-- [Sujani Embroidered Sheepskin Trim Vest — Artisan Outerwear](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest): Hand-embroidered Sujani vest with plush sheepskin trim. Ethnic motifs, cozy fit, pockets. Limited edition artisan piece — free domestic shipping.
-  Updated: 2025-12-11T11:06:21Z
+- [hand-embroidered Sujani vest Sheepskin Trim - Artisan](https://pikarufashion.com/products/hand-embroidered-sujani-vest): Hand-embroidered Sujani vest with plush sheepskin trim. Ethnic motifs, cozy fit, pockets. Limited edition artisan piece — free domestic shipping.
+  Updated: 2025-12-13T21:07:55Z
   Vendor: PIKARU FASHION
   Product Type: Women’s Vests / Outerwear / Ethnic Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/sujani03.webp?v=1765450988
-  - [S](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505901426)
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/sujani03.webp?v=1765615949
+  - [S](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505901426)
     Availability: Available
     Price: $399.00 USD
-  - [M](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505934194)
+  - [M](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505934194)
     Availability: Available
     Price: $399.00 USD
-  - [L](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505966962)
+  - [L](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505966962)
     Availability: Available
     Price: $399.00 USD
-  - [XL](https://pikarufashion.com/products/sujani-embroidered-sheepskin-trim-vest?variant=61352505999730)
+  - [XL](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505999730)
     Availability: Available
     Price: $399.00 USD
 [List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2MTE2ODQ0Mzc2MiwibGFzdF92YWx1ZSI6IjE0ODYxMTY4NDQzNzYyIn0=)
