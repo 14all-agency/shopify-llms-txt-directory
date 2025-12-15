@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-11-10T12:13:34Z
 - Contact Email: info@luxevastore.com
-- Updated At: 2025-12-14T00:00:22.535Z
+- Updated At: 2025-12-15T00:00:27.931Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/SulphateFreeHairShampoo_Conditioner1.png?v=1762019730
   Price: £25.95 GBP
 - [LUXEVA Biotin & Rosemary Hair Growth Shampoo & Conditioner](https://luxevastore.com/products/luxeva-3-in-1-biotin-rosemary-hair-growth-shampoo-conditioner): Shop LUXEVA's Biotin & Rosemary Mint Hair Revival Ritual—enjoy seasonal savings, free shipping, and great prices. Buy now and revitalize your hair today!
-  Updated: 2025-12-12T21:02:21Z
+  Updated: 2025-12-14T14:52:45Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
@@ -32,14 +32,14 @@
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/3-in-1-Imperial-Caviar-Anti-Aging-Set-LUXEVA-46625851769098.png?v=1755116726
   Price: £35.00 GBP
 - [GROWLUX Hair Growth Oil + Scalp Massager | Conceals Scalp](https://luxevastore.com/products/growlux-hair-scalp-ritual-set): Struggling with hair thinning or post-partum shedding? GROWLUX supports baby hair regrowth, reduces scalp visibility & strengthens strands daily.
-  Updated: 2025-12-12T21:02:06Z
+  Updated: 2025-12-14T14:50:02Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/HairGrowthSerum_ScalpMassager1.png?v=1762086370
   Price: £24.95 GBP
 - [Argan Oil Heat Protection Spray & Serum Set | LUXEVA UK](https://luxevastore.com/products/argan-oil-heat-protection-repair-shine-set): Protect, repair & add shine with LUXEVA’s 2-in-1 Argan Oil Heat Protection Spray & Serum. Fights frizz, dryness & breakage. Sulfate-free. Shop now.
-  Updated: 2025-12-11T00:38:15Z
+  Updated: 2025-12-14T14:50:01Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
@@ -109,6 +109,10 @@
     Updated: 2025-12-13T14:06:35Z
     Author: LUXEVA
     Tags: types of hair treatments
+  - [Science Behind Hair Growth: Nature Meets Innovation](https://luxevastore.com/blogs/articles/science-behind-hair-growth): Science behind hair growth explained for women—learn about growth cycles, natural boosters like biotin and argan oil, and key factors for healthy hair.
+    Updated: 2025-12-14T05:19:38Z
+    Author: LUXEVA
+    Tags: science behind hair growth
 
 ## Store Pages
 
