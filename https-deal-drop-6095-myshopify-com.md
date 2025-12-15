@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-03T12:30:24Z
 - Contact Email: Shopthedealdrop@gmail.com
-- Updated At: 2025-12-14T00:00:25.252Z
+- Updated At: 2025-12-15T00:00:25.376Z
 
 ## Products
 
@@ -9737,6 +9737,9 @@
     Tags: coupon shopping tips
   - [Top Ten Gift Ideas That Won't Break the Bank](https://deal-drop-6095.myshopify.com/blogs/news/top-ten-gift-ideas-that-wont-break-the-bank): Top Ten Gift Ideas That Won't Break the Bank
     Updated: 2025-12-12T19:01:36Z
+    Author: Heaven Travis
+  - [The Pros and Cons of Online Coupons and How to Make the Most of Them](https://deal-drop-6095.myshopify.com/blogs/news/the-pros-and-cons-of-online-coupons-and-how-to-make-the-most-of-them): The Pros and Cons of Online Coupons and How to Make the Most of Them
+    Updated: 2025-12-14T19:00:31Z
     Author: Heaven Travis
 
 ## Store Pages
