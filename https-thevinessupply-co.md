@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-15T00:00:58.239Z
+- Updated At: 2025-12-15T04:00:36.726Z
 
 ## Products
 
@@ -6710,13 +6710,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/girl-decks-8-375-girl-93-til-cory-kennedy-g030-skateboard-deck-8-375-1209713788.jpg?v=1764704890
   Price: £69.95 GBP
-- [Chocolate Skateboards Glass Ashtray](https://thevinessupply.co/products/chocolate-skateboards-glass-ashtray): Buy the Chocolate Skateboards Glass Ashtray at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-13T00:36:41Z
-  Vendor: Chocolate
-  Product Type: Ashtray
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/chocolate-ashtray-chocolate-skateboards-glass-ashtray-1209713780.jpg?v=1764704880
-  Price: £14.95 GBP
 - [Footprint Kingfoam Elite High Pro Jaws Mallgrab Man Insoles](https://thevinessupply.co/products/footprint-kingfoam-elite-high-pro-jaws-mallgrab-man-insoles): Buy the Footprint Kingfoam Elite High Pro Jaws Mallgrab Man Insoles at The Vines, with fast, premium delivery & easy returns within 90 days
   Updated: 2025-12-03T05:52:24Z
   Vendor: Footprint
@@ -7464,8 +7457,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-14T22:16:22Z
-  Total Products: 3247
+  Updated: 2025-12-15T01:07:22Z
+  Total Products: 3246
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-13T12:20:43Z
   Total Products: 110
