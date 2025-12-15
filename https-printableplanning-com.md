@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-15T08:00:29.472Z
+- Updated At: 2025-12-15T12:00:28.239Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -428,7 +428,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PlannerGreenLeftMonthlyWeeklyPage-PrintablePlanning.jpg?v=1687190252
   Price: $5.95 USD
 - [Popcorn 2" Round "You Make My Heart Pop!" Favor Stickers - Printable](https://printableplanning.com/products/popcorn-2-round-you-make-my-heart-pop-favor-stickers-printable): Red and yellow printable Popcorn 2" Round "You Make My Heart Pop!" Favor Stickers or stickers for Valentine's Day popcorn favor bags. Fill your small paper bags with popcorn for your Valentine's Day recipients and adorn them with these favor stickers for a special touch. ► These gift tags are round in shape to be printed on regular card stock, sticker paper, or 2" 12-up round Avery sticker paper (template #22807 or comparable Avery template). This PDF page is not editable and is sold as-is. SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 stickers per page. 2" stickers. Design contains a bleed area so your design goes to the edge on template sticker paper.) Design is slightly over 2" if you manually cut them to the edge on non-template sticker paper. Fits Avery template #22807 or comparable template. See Avery for details. DIY, you will be responsible for this project and the supplies required. Print as many of these printable Popcorn 2" Round "You Make My Heart Pop!" Favor Stickers as you need for your Valentine's Day favors or other occasion.
-  Updated: 2025-07-21T19:21:08Z
+  Updated: 2025-12-15T08:09:17Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
