@@ -6,26 +6,26 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-12-10T00:00:40.863Z
+- Updated At: 2025-12-15T00:00:45.296Z
 
 ## Products
 
 - [100W Portable Solar Panel - OUPES](https://oupes.com/products/oupes-100-portable-solar-panel): Charge your devices anywhere with the OUPES 100W Portable Solar Panel. Lightweight, efficient, and foldable—this 100W Portable Solar Panel is perfect for camping, RVs, and off-grid adventures.
-  Updated: 2025-12-09T20:19:32Z
+  Updated: 2025-12-12T21:19:41Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-100w-portable-solar-panel-299381.png?v=1761806012
   Price: $180.00 USD
 - [200W AC Adapter](https://oupes.com/products/200w-ac-adapter): Stay powered and safe with our smart, fast-charging voltage consistency product
-  Updated: 2025-12-09T17:58:51Z
+  Updated: 2025-12-13T04:23:35Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/200w-ac-adapter-for-oupes-series-102746.jpg?v=1761806012
   Price: $99.99 USD
 - [240W Portable Solar Panels - OUPES](https://oupes.com/products/oupes-portable-solar-panel-240w): Harness clean energy with OUPES 240W solar panels. These portable solar panels are perfect for charging your power station on the go, ideal for camping, RVs, and off-grid adventures.
-  Updated: 2025-12-08T05:46:29Z
+  Updated: 2025-12-14T18:17:56Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1761806013
     Price: $2,520.00 USD
 - [OUPES Mega 5 Series 5040Wh 4000W Portable Home Backup Power Station](https://oupes.com/products/oupes-mega-5-portable-power-station): OUPES Mega 5 Series: a powerful 4000W portable power station with 5040Wh capacity. Stay prepared with this reliable home backup power solution!
-  Updated: 2025-12-09T15:32:45Z
+  Updated: 2025-12-14T16:53:41Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1761806013
   Price: $1,400.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-12-09T15:32:22Z
+  Updated: 2025-12-14T16:51:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -122,14 +122,14 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/product-media-oupes-mega-3-portable-power-station-8.webp?v=1761806481
     Price: $2,499.00 USD
 - [OUPES B2 Multi-functional Extra Battery](https://oupes.com/products/b2-battery): Discover the OUPES B2 Multi-functional Extra Battery—portable RV power with LiFePO4 safety and smart app control. Charge anywhere, anytime with ease.
-  Updated: 2025-12-09T16:16:52Z
+  Updated: 2025-12-14T16:45:13Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b2-multi-functional-extra-battery-for-mega-123-titan-3-power-station-322895.webp?v=1761806013
   Price: $680.00 USD
 - [OUPES Multi-functional Flashlight](https://oupes.com/products/oupes-multinational-flashlight)
-  Updated: 2025-12-06T22:49:49Z
+  Updated: 2025-12-14T08:34:00Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -143,21 +143,21 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-portable-folding-camping-chair-584797.jpg?v=1761806017
   Price: $89.00 USD
 - [Portable Solar Generator, Solar Panel Kit | OUPES Mega 3](https://oupes.com/products/mega-3-2-240w-solar-panel-solar-generator-kit): OUPES Mega 3 portable solar generator with solar panel kit, a 3600W 3072Wh power solution for home backup and outdoor energy needs.
-  Updated: 2025-12-09T07:54:47Z
+  Updated: 2025-12-13T06:42:50Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-3-2240w-solar-panel-solar-generator-kit-215324.webp?v=1761806017
   Price: $1,499.00 USD
 - [4000W Portable Solar Power Generator Kit | OUPES Mega 5](https://oupes.com/products/mega-5-2-240w-solar-panel-solar-generator-kit): OUPES Mega 5 portable solar power generator kit with 2*240W solar panels, a 4000W solar generator kit for home backup and outdoor use.
-  Updated: 2025-12-07T07:12:35Z
+  Updated: 2025-12-13T06:40:27Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_240W_2_bbdd1f3e-5378-45fe-8698-6c3f415ee0a2.png?v=1761731303
-  Price: $1,999.00 USD
+  Price: $1,949.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-12-09T15:30:50Z
+  Updated: 2025-12-14T20:37:06Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -191,20 +191,20 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/product-media-oupes-mega-2-portable-power-station-7.jpg?v=1761806369
     Price: $1,699.00 USD
 - [OUPES 4ft Charging Cable Adapter (Made for Mega Series Power Station)](https://oupes.com/products/oupes-4ft-charging-cable-adapter): A specific charging cable for Mega/Titan series power stations.
-  Updated: 2025-12-08T06:01:00Z
+  Updated: 2025-12-14T14:23:05Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-4ft-charging-cable-adapter-958823.png?v=1761806018
   Price: $19.00 USD
 - [B2/B5 Battery connection cable](https://oupes.com/products/b2-b5-battery-connection-cable): Used to connect B2 or B5 batteries to the Mega/Titan series power station.
-  Updated: 2025-12-09T18:30:04Z
+  Updated: 2025-12-13T14:50:11Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b2b5-battery-connection-cable-761572.jpg?v=1761806018
   - [2.6ft](https://oupes.com/products/b2-b5-battery-connection-cable?variant=43553775648945)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b2b5-battery-connection-cable-761572.jpg?v=1761806018
     Price: $49.00 USD
   - [4.9ft (Sold Out)](https://oupes.com/products/b2-b5-battery-connection-cable?variant=43553775681713)
@@ -216,28 +216,28 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b2b5-battery-connection-cable-313967.jpg?v=1761806017
     Price: $139.00 USD
 - [Mega 2 + 2*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/mega-2-2-240w-solar-panel-solar-generator-kit): OUPES Mega 2 Kit: 2048Wh, 2500W inverter, 5400W surge, LiFePO4 battery. 15 outputs, HD display, charges in 0.6 hours, 3700W max input.
-  Updated: 2025-12-09T07:26:10Z
+  Updated: 2025-12-13T06:44:03Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-2240w-solar-panel-solar-generator-kit-955776.webp?v=1761806019
   Price: $1,129.00 USD
 - [OUPES Mega 3 Portable Power Station | 240W Solar Panel Kit](https://oupes.com/products/mega-3-4-240w-solar-panel-solar-generator-kit): OUPES Mega 3 portable power station with 4*240W solar panel, a 3600W 3072Wh solar generator kit for reliable home backup.
-  Updated: 2025-12-09T07:56:43Z
+  Updated: 2025-12-13T06:42:50Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-3-4240w-solar-panel-solar-generator-kit-702183.webp?v=1761806017
   Price: $1,799.00 USD
 - [OUPES Mega 5 Solar Generator, Portable Solar Power Station Kit](https://oupes.com/products/mega-5-4-240w-solar-panel-solar-generator-kit): OUPES Mega 5 solar generator kit with 4*240W solar panel, a 4000W 5040Wh portable solar power station for home and outdoor backup.
-  Updated: 2025-12-09T07:57:04Z
+  Updated: 2025-12-13T06:40:27Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_240W_4_f8903af1-4ee3-41a6-b650-e0553afb4fc2.png?v=1761731332
   Price: $2,349.00 USD
 - [OUPES Mega 5 Power Station with B5 Extra Battery | Solar Generator for Home Backup​](https://oupes.com/products/oupes-mega-5-b5-extra-battery): OUPES power station is here! Maximize your energy with the 4000W, 5040Wh Mega 5 Solar Generator for Home Backup—stay powered, stay safe!
-  Updated: 2025-12-09T07:57:05Z
+  Updated: 2025-12-13T06:40:26Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -249,9 +249,9 @@
   - [Mega 5 + 2 * B5 Extra Battery](https://oupes.com/products/oupes-mega-5-b5-extra-battery?variant=43475547488433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-b5-extra-battery-home-backup-battery-151240.webp?v=1761806018
-    Price: $4,349.00 USD
+    Price: $3,999.00 USD
 - [Mega 3 Series 3072Wh 3600W Home Backup Power Station with B2 Extra Battery](https://oupes.com/products/oupes-mega-3-b2-extra-battery): OUPES portable power station offers 3600W of reliable backup power. Enhance your energy security with the Mega 3 home backup power station 3072Wh and B2 extra battery!
-  Updated: 2025-12-09T07:53:23Z
+  Updated: 2025-12-13T06:42:49Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -263,9 +263,9 @@
   - [Mega 3 + 2 * B2 Extra Battery](https://oupes.com/products/oupes-mega-3-b2-extra-battery?variant=43475675447473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-3-b2-extra-battery-home-backup-battery-321197.webp?v=1761806023
-    Price: $2,479.00 USD
+    Price: $2,299.00 USD
 - [OUPES Exodus 256Wh 600W Portable Power Station](https://oupes.com/products/exodus-600-exodus-600-plus): Empower Your Adventures with the Exodus 600 Series Portable Power Station! The OUPES 600W portable power station features a 256Wh capacity and 600W output, offering lightweight, reliable, and versatile energy for all your outdoor activities.
-  Updated: 2025-12-09T19:03:07Z
+  Updated: 2025-12-14T21:07:57Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-600-portable-power-station-600w-256wh-821749.webp?v=1761806022
     Price: $289.00 USD
 - [OUPES B2 Extra Home Backup Battery For Mega 2 Power Station](https://oupes.com/products/oupes-mega-2-b2-extra-battery): The OUPES B2 extra home backup battery enhances the Mega 2 power station, providing extended power for home backup during emergencies and off-grid situations.
-  Updated: 2025-12-09T07:26:10Z
+  Updated: 2025-12-13T06:44:03Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -294,7 +294,7 @@
     Price: $1,299.00 USD
   - [Mega 2 + 2 * B2 Extra Battery](https://oupes.com/products/oupes-mega-2-b2-extra-battery?variant=43567024603313)
     Availability: Available
-    Price: $2,009.00 USD
+    Price: $1,899.00 USD
 - [Mega 5 + B5 Extra Battery + 6*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/mega-5-b5-extra-battery-6-240w-solar-panel-solar-generator-kit): Get reliable backup power with OUPES Mega 5, a 4000W 5040Wh home backup and portable power station. Stay powered up wherever you go!
   Updated: 2025-12-09T07:55:42Z
   Vendor: OUPES
@@ -303,28 +303,28 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-b5-extra-battery-6240w-solar-panel-solar-generator-kit-215672.webp?v=1761806022
   Price: $4,119.00 USD
 - [OUPES Mega 3 Portable Solar Generator Kit + B2 Battery](https://oupes.com/products/mega-3-b2-extra-battery-4-240w-solar-panel): The OUPES Mega 3 kit with B2 extra battery delivers reliable solar power for camping, outdoor use, and backup. Lightweight, expandable, and ready to go.
-  Updated: 2025-12-09T07:52:55Z
+  Updated: 2025-12-13T06:42:49Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-3-b2-extra-battery-4240w-solar-panel-solar-generator-kit-605626.webp?v=1761806022
   Price: $2,499.00 USD
 - [Mega 2 + B2 Extra Battery  + 2*240W Solar Panel  | Solar Generator Kit](https://oupes.com/products/mega-2-b2-extra-battery-2-240w-solar-panel): OUPES Mega 2 Kit: 2048Wh, 2500W inverter, 5400W surge, LiFePO4 battery. 15 outputs, HD display, charges in 0.6 hours, 3700W max input.
-  Updated: 2025-12-09T07:26:09Z
+  Updated: 2025-12-13T06:44:02Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-b2-extra-battery-2240w-solar-panel-solar-generator-kit-637987.jpg?v=1761806023
   Price: $1,699.00 USD
 - [20ft 12AWG Solar Panel Extension Cables - OUPES](https://oupes.com/products/solar-panel-female-and-male-connectors): Extend your solar setup with OUPES 20ft 12AWG Solar Panel Extension Cables. Durable and efficient, this extension cord for solar panels ensures reliable power flow in any setup.
-  Updated: 2025-12-09T23:30:58Z
+  Updated: 2025-12-14T14:20:04Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/20ft-12awg-solar-panel-extension-cables-595204.jpg?v=1761806023
   Price: $29.90 USD
 - [Mega 2 Portable Solar Generator Kit with 240W Solar Panel](https://oupes.com/products/mega-2-240w-solar-panel-solar-generator-kit): OUPES Mega 2 Portable Solar Generator Kit with a 240W Solar Panel. Our solar panel generator kit offering efficient solar charging and portable energy storage for your devices. Get more info.
-  Updated: 2025-12-09T16:51:25Z
+  Updated: 2025-12-13T06:44:02Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -366,28 +366,28 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/White_T_shirt_1.png?v=1761806027
     Price: $29.00 USD
 - [OUPES Solar Panel Connector MC4 to DC7909 Female Adapter Cable](https://oupes.com/products/oupes-solar-panel-connector-mc4-to-dc7909-adapter-cable): Connect your solar panels with ease using the OUPES Solar Panel Connector MC4 to DC7909 cable. This durable mc4 to dc7909 cable ensures reliable power transfer for your portable solar setup.
-  Updated: 2025-11-26T09:29:20Z
+  Updated: 2025-12-14T16:38:00Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-solar-panel-connector-mc4-to-dc7909-adapter-cable-641955.jpg?v=1761806027
   Price: $39.90 USD
 - [Hand Truck Sturdy Roll Cart](https://oupes.com/products/oupes-hand-truck-sturdy-roll-cart): Designed for the Mega 1, and Mega 2 and OUPES 2400W power stations. Holding up to 60 lbs Smooth Mobility with Sturdy Wheels
-  Updated: 2025-12-05T13:27:07Z
+  Updated: 2025-12-11T01:16:54Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/hand-truck-sturdy-roll-cart-387570.jpg?v=1761806027
   Price: $89.00 USD
 - [OUPES Solar Parallel Connection Cable](https://oupes.com/products/oupes-solar-parallel-connection-cable): Connecting multiple solar panels in parallel
-  Updated: 2025-11-24T19:56:05Z
+  Updated: 2025-12-11T02:34:55Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-solar-parallel-connection-cable-451407.png?v=1761806027
   Price: $19.00 USD
 - [OUPES Y Branch Parallel Adapter 8mm Female to Anderson Connector](https://oupes.com/products/oupes-y-branch-parallel-adapter-8mm-female-to-anderson-connector): Connecting multiple solar panels (with 7909 connectors) to the OUPES 2400W power station's Anderson input port, or for DIY setups.
-  Updated: 2025-12-09T23:01:43Z
+  Updated: 2025-12-11T08:38:43Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -420,7 +420,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/extension-cable-2240w-solar-panel-solar-generator-kit-171015.png?v=1761806027
   Price: $908.00 USD
 - [Portable Power Station 2000W 1024Wh | OUPES Mega 1](https://oupes.com/products/oupes-mega-1-home-backup-portable-power-station-2000w-1024wh): Meet the OUPES Mega 1 Portable Power Station 2000W, your go-to solution for home backup and travel. Enjoy robust 1024Wh power anytime, anywhere.
-  Updated: 2025-12-09T23:36:12Z
+  Updated: 2025-12-14T23:57:31Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -463,15 +463,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/storage-shelves-with-casters-466844.jpg?v=1761806031
   Price: $129.00 USD
+- [E1600 Gas Generator](https://oupes.com/products/e1600-gas-generator): The E1600 Gas Generator delivers dependable backup power for home, outdoor, and emergency use. A compact and powerful Gas Generator built for reliability.
+  Updated: 2025-12-12T15:54:53Z
+  Vendor: OUPES
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/E1600_Gas_Generator.jpg?v=1761806031
+  Price: $450.00 USD
 - [OUPES Mega 2 Solar Generator Kit with 4×240W Panels](https://oupes.com/products/mega-2-4-240w-solar-panel-solar-generator-kit): Power your home or outdoor gear with the OUPES Mega 2. This 2048Wh solar generator kit includes 4×240W panels, a 2500W inverter, and 15 outputs. Fast charging, expandable, and built for any scenario.
-  Updated: 2025-12-09T07:26:09Z
+  Updated: 2025-12-13T06:44:02Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-4240w-solar-panel-solar-generator-kit-145424.webp?v=1761806031
   Price: $1,529.00 USD
 - [2000 Watt Portable Solar Generator Kit With 240W Panel | OUPES Mega 1](https://oupes.com/products/mega-1-240w-solar-panel-solar-generator-kit): Get the OUPES 2000 watt portable solar generator kit with a 240W panel! The OUPES Mega 1 series power station is your reliable solution for clean, portable energy.
-  Updated: 2025-12-07T03:28:12Z
+  Updated: 2025-12-14T15:57:11Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -506,7 +513,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/exodus-600-240w-solar-panel-solar-generator-kit-861784.webp?v=1761806032
   Price: $289.00 USD
 - [1200W Portable Solar Power Station - OUPES Exodus 1200](https://oupes.com/products/exodus-1200): The OUPES Exodus 1200 delivers 1200W output and 992Wh capacity – perfect for off-grid living, outdoor adventures, and emergencies. Compact, quiet, and solar-compatible.
-  Updated: 2025-12-09T22:32:48Z
+  Updated: 2025-12-14T16:45:46Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -524,7 +531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-1200-portable-power-station-1200w-992wh-169250.jpg?v=1761806032
     Price: $799.00 USD
 - [Best Portable Power Station 1500W 1488Wh | OUPES Exodus 1500](https://oupes.com/products/oupes-exodus-1500-portable-power-station-1500w-1488wh): Best 1500W portable power station with OUPES. 0-80% in 2 hrs with AC charging. Solar-ready for camping/home/outages. Premium after-sales service included.
-  Updated: 2025-12-08T22:30:32Z
+  Updated: 2025-12-13T19:25:11Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -553,7 +560,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/MC4_to_7909.png?v=1761806036
   Price: $29.90 USD
 - [Portable Solar Power Generator 2400W 2232Wh | OUPES Exodus 2400 Station](https://oupes.com/products/oupes-exodus-2400-portable-power-station-2400w-2232wh): OUPES 2400W Solar Power Station & Portable Generator: 0-100% AC charge in 1.5 hours. Solar-ready for camping, home backup, outages. Premium after-sales included.
-  Updated: 2025-12-09T22:15:32Z
+  Updated: 2025-12-13T03:17:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -571,7 +578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Exodus_2400_240W_Solar_Panel2.jpg?v=1761806036
     Price: $1,249.00 USD
 - [Best Portable Power Station 2400W 2232Wh | OUPES Exodus 2400](https://oupes.com/products/oupes-exodus-2400-240w-solar-panel-solar-generator-kits): Best 2400W portable power station with OUPES. 0-100% in 1.5 hrs with AC charging. Solar-ready for camping/home/outages. Premium after-sales service included.
-  Updated: 2025-12-09T08:31:14Z
+  Updated: 2025-12-12T16:45:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -641,42 +648,42 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-1200-portable-power-station-1200w-992wh-169250.jpg?v=1761806032
   Price: $799.00 USD
 - [Mega 2 + 3*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/mega-2-3-240w-solar-panel-solar-generator-kit): OUPES Mega 2 Kit: 2048Wh, 2500W inverter, 5400W surge, LiFePO4 battery. 15 outputs, HD display, charges in 0.6 hours, 3700W max input.
-  Updated: 2025-12-09T07:26:09Z
+  Updated: 2025-12-13T06:44:02Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/product-media-oupes-mega-2-portable-power-station-4.png?v=1761806339
   Price: $1,329.00 USD
 - [Portable Solar Generator, Solar Panel Kit | OUPES Mega 3](https://oupes.com/products/mega-3-3-240w-solar-panel-solar-generator-kit): OUPES Mega 3 portable solar generator with solar panel kit, a 3600W 3072Wh power solution for home backup and outdoor energy needs.
-  Updated: 2025-12-09T07:54:09Z
+  Updated: 2025-12-13T06:42:49Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/product-media-oupes-mega-3-portable-power-station-3.png?v=1761806434
   Price: $1,649.00 USD
 - [OUPES Mega 5 Solar Generator, Portable Solar Power Station Kit](https://oupes.com/products/mega-5-3-240w-solar-panel-solar-generator-kit): OUPES Mega 5 solar generator kit with 4*240W solar panel, a 4000W 5040Wh portable solar power station for home and outdoor backup.
-  Updated: 2025-12-09T07:56:12Z
+  Updated: 2025-12-13T06:40:26Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_240W_3_899b4b3f-6cbc-4d4f-88b4-22b6ec5f41bb.png?v=1761731381
   Price: $2,149.00 USD
 - [Mega 5 + B5 Extra Battery + 2*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/mega-5-b5-extra-battery-2-240w-solar-panel-solar-generator-kit): Get reliable backup power with OUPES Mega 5, a 4000W 5040Wh home backup and portable power station. Stay powered up wherever you go!
-  Updated: 2025-12-09T07:55:56Z
+  Updated: 2025-12-13T06:40:26Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_B5_240W_2.png?v=1761731264
   Price: $3,099.00 USD
 - [Mega 5 + B5 Extra Battery + 4*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/mega-5-b5-extra-battery-4-240w-solar-panel-solar-generator-kit): Get reliable backup power with OUPES Mega 5, a 4000W 5040Wh home backup and portable power station. Stay powered up wherever you go!
-  Updated: 2025-12-09T07:57:28Z
+  Updated: 2025-12-13T06:40:26Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_B5_240W_4.png?v=1761731264
   Price: $3,499.00 USD
 - [OUPES Mega 3 Portable Solar Generator Kit + B2 Battery](https://oupes.com/products/mega-3-b2-extra-battery-2-240w-solar-panel-solar-generator-kit): The OUPES Mega 3 kit with B2 extra battery delivers reliable solar power for camping, outdoor use, and backup. Lightweight, expandable, and ready to go.
-  Updated: 2025-12-09T07:53:02Z
+  Updated: 2025-12-13T06:42:49Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -690,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/product-media-oupes-mega-1-portable-power-station-5.png?v=1761806221
   Price: $1,799.00 USD
 - [OUPES Guardian 6000 Portable Power Station](https://oupes.com/products/oupes-guardian-6000-portable-power-station): Power up anywhere with the OUPES Guardian 6000 – 6000W of reliable energy for home backup, outdoor adventures, and all your devices.
-  Updated: 2025-12-09T23:33:57Z
+  Updated: 2025-12-14T23:57:07Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -719,43 +726,73 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_G5_240W_4.png?v=1764086906
     Price: $5,579.00 USD
+- [OUPES 800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger): 800W Fast Charging: Delivers Max. 800W power—8 times faster than traditional 100W car cigarette lighter chargers. Three Charging Mode: Combines charging mode, reverse charging mode and battery maintenance mode in one unit—ideal for daily driving, RV life, road trip and car camping. Smart Control: Adjust charging mode, monitor working status with Cleanergy APP in your hands. Wide Vehicle Compatibility: Perfect for most SUVs, pickups and RVs. Easy Installation: Quick to connect and setup with 3 simple steps. Made for Mega & Guardian Series: Fully compatible with all OUPES Mega series and Guardian series power stations, providing a seamless vehicle-to-power-station charging solution. Reliable Quality with 2-Year Warranty: Built for durability and stable performance on the road, backed by a 2-year warranty so you can charge with confidence on every trip
+  Updated: 2025-12-14T18:11:58Z
+  Vendor: OUPES
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/800W_Alternator_Charger.png?v=1764730460
+  - [800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger?variant=46351358492849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/800W_Alternator_Charger.png?v=1764730460
+    Price: $250.00 USD
+  - [Mega 1 + 800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger?variant=46351358132401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_1_800W_Alternator_Charger.png?v=1764730517
+    Price: $549.00 USD
+  - [Mega 2 + 800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger?variant=46351358165169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_2_800W_Alternator_Charger.png?v=1764730517
+    Price: $979.00 USD
+  - [Mega 3 + 800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger?variant=46351358197937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_3_800W_Alternator_Charger.png?v=1764730517
+    Price: $1,349.00 USD
+  - [Mega 5 + 800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger?variant=46351358230705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_800W_Alternator_Charger.png?v=1764730517
+    Price: $1,799.00 USD
+  - [Guardian 6000 + 800W Alternator Charger](https://oupes.com/products/oupes-800w-alternator-charger?variant=46351358263473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_800W_Alternator_Charger.png?v=1764730517
+    Price: $1,949.00 USD
 - [OUPES Guardian 6000 + 2*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/oupes-guardian-6000-2-240w-solar-panel-solar-generator-kit): Power up anywhere with the OUPES Guardian 6000 – 6000W of reliable energy for home backup, outdoor adventures, and all your devices.
-  Updated: 2025-11-28T20:49:32Z
+  Updated: 2025-12-10T03:06:29Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_240W_2.png?v=1764086906
   Price: $3,319.00 USD
 - [OUPES Guardian 6000 + 4*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/oupes-guardian-6000-4-240w-solar-panel-solar-generator-kit): Power up anywhere with the OUPES Guardian 6000 – 6000W of reliable energy for home backup, outdoor adventures, and all your devices.
-  Updated: 2025-11-28T20:38:50Z
+  Updated: 2025-12-10T03:06:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_240W_4.png?v=1764086906
   Price: $4,179.00 USD
 - [OUPES Guardian 6000 + G5 Extra Battery | Home Backup Battery](https://oupes.com/products/oupes-guardian-6000-g5-extra-battery-home-backup-battery): Power up anywhere with the OUPES Guardian 6000 – 6000W of reliable energy for home backup, outdoor adventures, and all your devices.
-  Updated: 2025-12-01T13:22:23Z
+  Updated: 2025-12-10T03:07:10Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_G5.png?v=1764086906
   Price: $3,899.00 USD
 - [OUPES Guardian 6000 + G5 Extra Battery + 4*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/oupes-guardian-6000-g5-extra-battery-4-240w-solar-panel-solar-generator-kit): Power up anywhere with the OUPES Guardian 6000 – 6000W of reliable energy for home backup, outdoor adventures, and all your devices.
-  Updated: 2025-11-28T20:30:38Z
+  Updated: 2025-12-10T03:07:29Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_G5_240W_4.png?v=1764086906
   Price: $5,579.00 USD
 - [OUPES Guardian 6000 + G5 Extra Battery + 2*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/oupes-guardian-6000-g5-extra-battery-2-240w-solar-panel-solar-generator-kit): Power up anywhere with the OUPES Guardian 6000 – 6000W of reliable energy for home backup, outdoor adventures, and all your devices.
-  Updated: 2025-11-28T20:48:12Z
+  Updated: 2025-12-10T03:07:49Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Guardian_6000_G5_240W_2.png?v=1764086906
   Price: $4,719.00 USD
 - [(Refurbished) OUPES 1800W, 1488Wh Portable Power Station](https://oupes.com/products/oupes-1800w-1488wh-portable-power-station): Powerful Output: Delivers 1800W AC output with a 4000W surge peak, capable of powering multiple appliances like AC units, fridges, and electric pots. High Capacity: Features a 1488Wh capacity and a compact design, weighing only 30.5 lbs, making it suitable for outdoor and emergency use. Rapid Charging: Achieves a full charge from 0% to 100% in as fast as 4 hours via AC or solar input, optimizing battery health. Extended Lifespan: Equipped with a durable LiFePO4 (LFP) battery, maintaining over 70% capacity after 4,000 charge cycles, offering a 10-year lifespan. Versatile Connectivity: Includes 60W USB-C ports, 2 USB-A ports, 1 DC car port, and 3 pure sine wave AC ports for simultaneous device charging. Multiple Recharging: Supports 5 recharging methods: AC, Solar, Car, AC+Solar, and Dual AC, providing flexible power replenishment options. Informative Display: Features a smart HD LCD display, LED soft lighting, and an SOS signal for enhanced usability and safety.
-  Updated: 2025-12-08T23:15:36Z
+  Updated: 2025-12-14T20:58:12Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -769,7 +806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/1800_240.avif?v=1763991285
     Price: $1,119.00 USD
 - [(Refurbished) OUPES 2400W, 2232Wh Portable Power Station](https://oupes.com/products/oupes-2400w-2232wh-portable-power-station): Powerful Output: Delivers 2,400W AC output with a 5,000W surge peak, capable of powering multiple appliances like AC units and fridges. Generous Capacity: Features a 2232Wh capacity in a compact 45.6 lbs design, suitable for outdoor camping, road trips, or home emergencies. Rapid Charging: Achieves a full charge from 0% to 100% in 5.5 hours via AC, or as quickly as 3 hours with solar input. Extended Lifespan: Equipped with a durable LiFePO4 battery, retaining over 70% capacity after 4,000 charge cycles for over 10 years of use. Versatile Connectivity: Includes 2 60W USB-C ports, 4 USB-A ports, 1 DC car port, and 5 pure sine wave AC ports for simultaneous device charging. Included Accessories: Comes with 1 OUPES 2400 unit, a user manual, warranty card, 2 AC charging adapters, and 1 car charging cable.
-  Updated: 2025-12-09T19:03:18Z
+  Updated: 2025-12-14T23:53:37Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -787,7 +824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/2400_240_2.avif?v=1763991748
     Price: $1,939.00 USD
 - [OUPES B5 Extra Battery : Reliable Power Solution For Power Station](https://oupes.com/products/oupes-g5-extra-battery-1): Extend your energy capacity with the OUPES Extra Battery. The B5 Battery is a powerful Extra Battery For Power Station, offering reliable, long-lasting performance for home backup and off-grid use.
-  Updated: 2025-12-09T04:11:40Z
+  Updated: 2025-12-14T20:39:33Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -843,7 +880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Free_USD818_Gift_Package_afdd2e6a-244a-42a7-8977-253aeb46809e.jpg?v=1764040457
   Price: $0.00 USD
 - [🎁 Free Launch Gift Pack ($59) (100% off)](https://oupes.com/products/free-launch-gift-pack-59-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Live chat in-app or email us at: help@bogos.io.
-  Updated: 2025-12-08T08:41:42Z
+  Updated: 2025-12-14T00:26:39Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -853,64 +890,64 @@
 ## Collections
 
 - [OUPES Portable Power Station Accessories](https://oupes.com/collections/accessories): OUPES Portable Power Station Accessories are perfect for your next trip. Equip yourself with the best tools for reliable power on-demand!
-  Updated: 2025-12-09T12:15:13Z
-  Total Products: 20
+  Updated: 2025-12-14T12:14:29Z
+  Total Products: 21
 - [OUPES Mega Series Power Station](https://oupes.com/collections/mega-series): Discover the OUPES Mega power station, The best portable power station and solar generator designed for reliable energy on the go. Perfect for outdoor adventures and emergencies.
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 32
 - [Best Portable Power Station For Sale - OUPES](https://oupes.com/collections/portable-power-station): Explore the best portable power stations in OUPES  – our power station perfect for camping, road trips, and emergency backup. Clean, quiet, solar-ready power you can rely on
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 39
 - [OUPES Power Station Extra Battery](https://oupes.com/collections/extra-battery): The OUPES Power Station Extra Battery offers extended power capacity, ensuring longer off-grid energy supply for your devices. Perfect for enhancing your OUPES power station’s performance during outdoor activities and emergencies.
-  Updated: 2025-12-07T12:14:09Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 4
 - [Accessories for Mega Power Station - OUPES](https://oupes.com/collections/accessories-for-mega-series): Explore accessories for OUPES Mega power station, including expansion batteries, solar panels, and essential add-ons for reliable backup power.
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 8
 - [OUPES Power Station, Solar Kit & Accessories](https://oupes.com/collections/all): Discover OUPES power stations, solar kits, and accessories built for reliable, portable energy. Perfect for home backup, outdoor adventures, and off-grid living .
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 118
 - [Google ads use](https://oupes.com/collections/google-ads-use)
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 45
 - [OUPES - Home Battery Backup Power](https://oupes.com/collections/home-backup): OUPES Home Battery Backup Power provides reliable, off-grid energy storage for your home. Keep essential devices running during power outages with efficient, sustainable battery backup solutions for everyday use.
-  Updated: 2025-12-09T08:38:19Z
+  Updated: 2025-12-14T08:34:15Z
   Total Products: 4
 - [Portable Solar Power Generator Kit - OUPES](https://oupes.com/collections/solar-generators): Shop OUPES portable solar power generator kit for reliable, eco-friendly power. Perfect for camping, emergencies, and sustainable off-grid living.
-  Updated: 2025-12-09T08:38:21Z
+  Updated: 2025-12-14T08:34:16Z
   Total Products: 27
 - [OUPES Titan Solar Generator & Portable Power Station](https://oupes.com/collections/titan-series): Oupes Titan solar generator: Your ultimate portable power station for outdoor adventures. Explore OUPES power station for reliable energy on the go!
-  Updated: 2025-10-07T08:45:00Z
+  Updated: 2025-12-12T03:54:46Z
   Total Products: 3
 - [OUPES Exodus Series Portable Power Station, Solar Generators](https://oupes.com/collections/exodus-series): Exodus Portable Power Station by OUPES offers reliable energy on-the-go. Discover the power of solar generators for your outdoor adventures!
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 15
 - [Portable Solar Panel - OUPES Power Station](https://oupes.com/collections/solar-panel): Power your adventures with OUPES Portable Solar Panels—lightweight, high-efficiency solar charging for OUPES Power Stations. Ideal for camping, emergencies, and off-grid living. Enjoy eco-friendly energy, fast setup, and durable design.
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-13T12:15:03Z
   Total Products: 6
 - [Hurricane Preparedness](https://oupes.com/collections/hurricane-preparedness-offers): Save up to 54% OFF!
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 43
 - [Warranty Register](https://oupes.com/collections/warranty-register)
-  Updated: 2025-12-09T08:38:29Z
+  Updated: 2025-12-14T08:34:24Z
   Total Products: 19
 - [National Preparedness Month](https://oupes.com/collections/national-preparedness-month)
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 51
 - [Best Portable Solar Power Generator In 2025 - OUPES](https://oupes.com/collections/portable-solar-power-station): Explore OUPES portable solar power generators — reliable, efficient, and built for both home backup and outdoor freedom.
-  Updated: 2025-12-09T08:38:32Z
+  Updated: 2025-12-14T08:34:27Z
   Total Products: 10
 - [2025 Black Friday](https://oupes.com/collections/2025-black-friday)
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 50
 - [referral-program-G6000](https://oupes.com/collections/referral-test)
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 1
 - [BFCM-BMSM](https://oupes.com/collections/bfcm-bmsm)
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 34
 - [BFCM-15% OFF Accessory](https://oupes.com/collections/bfcm-15-off-accessory)
-  Updated: 2025-12-09T12:15:13Z
+  Updated: 2025-12-14T12:14:29Z
   Total Products: 7
 
 ## Blogs
@@ -1808,7 +1845,7 @@
     Author: STOREOUPES
     Tags: best camping generator, camping power bank, camping power supply, camping solar generator, camping solar panels, outdoor camping, portable power station for camping, solar panel for camper
   - [How Long Can OUPES Mega Power Stations Run Different Types of Refrigerators?](https://oupes.com/blogs/blogs/oupes-how-long-can-mega-power-stations-run-different-types-of-refrigerators)
-    Updated: 2025-11-20T05:52:50Z
+    Updated: 2025-12-11T08:12:52Z
     Author: STOREOUPES
   - [Family life is changing, and it's time to upgrade backup power supplies.](https://oupes.com/blogs/blogs/oupes-family-life-is-changing-and-its-time-to-upgrade-backup-power-supplies)
     Updated: 2025-11-25T06:02:33Z
@@ -1834,6 +1871,12 @@
     Author: STOREOUPES
   - [OUPES Power Stations | Your Christmas Gift Guide](https://oupes.com/blogs/blogs/oupes-power-stations-your-christmas-gift-guide)
     Updated: 2025-12-05T01:40:12Z
+    Author: STOREOUPES
+  - [Turn your vehicle into a generator – OUPES 800W Alternator Charger officially released.](https://oupes.com/blogs/blogs/oupes-800w-alternator-charger-coming-soon-turn-your-vehicle-into-a-generator)
+    Updated: 2025-12-13T07:00:00Z
+    Author: STOREOUPES
+  - [Mega 1 Power Station vs Other MEGA Series Models｜Which One Is Right for You?](https://oupes.com/blogs/blogs/mega-1-power-station-vs-other-mega-series-models-which-one-is-right-for-you)
+    Updated: 2025-12-11T07:24:06Z
     Author: STOREOUPES
 - [Learning Center](https://oupes.com/blogs/learning-center)
   - [2. What are Volts, Amps, and Watts?](https://oupes.com/blogs/learning-center/what-is-volts-amps-and-watts): An explanation of volts, amps, and watts, and how to calculate electricity with them.
@@ -2150,6 +2193,8 @@
   Updated: 2025-10-23T09:17:41Z
 - [Don't Miss Out！](https://oupes.com/pages/reminder-email): We will notify you by email！
   Updated: 2025-12-09T08:20:03Z
+- [The OUPoint Rewards Guide](https://oupes.com/pages/the-oupoint-rewards-guide)
+  Updated: 2025-12-10T08:15:46Z
 - [OUPES Referral Program!](https://oupes.com/pages/rivo-refer)
   Updated: 2025-11-24T01:47:24Z
 - [Term & Conditions](https://oupes.com/pages/term-conditions): Eligibility The OUPES Halloween UGC Campaign ("Campaign") is open to legal residents of the fifty (50) United States and the District of Columbia w...
