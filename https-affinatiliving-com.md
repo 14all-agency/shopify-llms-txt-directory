@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-15T16:00:32.758Z
+- Updated At: 2025-12-15T20:00:33.306Z
 
 ## Products
 
@@ -669,7 +669,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Tobacco Signature Candle](https://affinatiliving.com/products/tobacco-signature-candle): Infuse your space with sophistication using Tobacco Signature Candle—rich cured tobacco and warm spice in a clean-burning 10 oz soy candle.
-  Updated: 2025-12-14T16:47:15Z
+  Updated: 2025-12-15T19:50:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7321,7 +7321,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Toasted Coconut Signature Candle](https://affinatiliving.com/products/toasted-coconut-signature-candle): Indulge in creamy, warm sweetness with our Toasted Coconut Signature Candle. A rich 10 oz soy blend candle that fills your home with cozy, tropical luxury.
-  Updated: 2025-12-14T16:36:23Z
+  Updated: 2025-12-15T19:24:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
