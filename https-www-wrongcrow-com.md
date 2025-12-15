@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2025-12-13T06:19:58.700Z
+- Updated At: 2025-12-15T00:00:47.251Z
 
 ## Products
 
@@ -7124,9 +7124,9 @@
 ## Store Pages
 
 - [Antworten zu Bestellung Versand und Schreib](https://www.wrongcrow.com/pages/fragen-zu-bestellung-versand-und-schreib-bei-wrongcrow): 🛒 Bestellung Wie bestell ich was?Einfach dein Teil aussuchen, Größe checken, in den Warenkorb ballern und ab zur Kasse. Easy. Kann ich meine Bestel...
-  Updated: 2025-06-16T08:21:02Z
-- [Über Uns](https://www.wrongcrow.com/pages/about-us): Wrongcrow ist mehr als nur eine Streetwear-Marke – wir sind ein Statement. Wir sind die, die aus den Straßen kommen, die Herausforderungen kennen u...
-  Updated: 2025-07-17T08:55:09Z
+  Updated: 2025-12-14T07:28:13Z
+- [Über Uns](https://www.wrongcrow.com/pages/about-us): WRONGCROW ist mehr als eine Streetwear-Marke.Es ist ein Statement. Wir kommen von der Straße.Aus einer Realität, in der man früh lernt, auf sich se...
+  Updated: 2025-12-14T07:31:00Z
 - [Kontaktiere Uns](https://www.wrongcrow.com/pages/contact-us): info@wrongcrow.com support@wrongcrow.com oder über Unsere Social Media Kanäle
   Updated: 2025-06-27T06:17:27Z
 - [Shipping Policy](https://www.wrongcrow.com/pages/shipping-policy)
