@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2025-12-14T00:00:21.457Z
+- Updated At: 2025-12-15T00:00:23.189Z
 
 King And Queen Games, llc
 
