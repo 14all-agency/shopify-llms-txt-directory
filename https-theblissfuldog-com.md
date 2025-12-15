@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-12-14T00:00:54.068Z
+- Updated At: 2025-12-15T00:00:52.738Z
 
 ## Products
 
@@ -14814,7 +14814,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/LAGOTTO-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738723332
     Price: $11.95 USD
 - [Is Your Lagotto Romagnolo Afraid of Thunder or Fireworks? Try Relax...](https://theblissfuldog.com/products/lagotto-romagnola-relax-dog-aromatherapy): The Blissful Dog Relax Dog Aromatherapy takes the edge off your scared Lagotto's anxiety…naturally. No more frightened Lagotto Romagnolo!
-  Updated: 2025-10-16T15:41:29Z
+  Updated: 2025-12-14T23:44:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -17119,28 +17119,28 @@
   Updated: 2025-12-13T12:03:27Z
   Total Products: 110
 - [Dog Aromatherapy Sprays & Blends | Relaxing Spray for Dogs](https://theblissfuldog.com/collections/relax-dog-aromatherapy): Ease your dog's anxiety during stressful situations like rainstorms with our dog aromatherapy sprays! The essential oils help calm and relax frightened dogs.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 113
 - [Shop The Blissful Dog AMERICAN BULLDOG for Dry Noses, Rough Paws +](https://theblissfuldog.com/collections/american-bulldog-collection): EVERYTHING AMERICAN BULLDOG COLLECTION features every product from The Blissful Dog with an American Bulldog on the label, all in one place.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 9
 - [The Blissful Dog Custom Dog Skin Care Kit | Dry Skin Products for Dogs](https://theblissfuldog.com/collections/the-blissful-dog-combos): Mix and Match your dog's custom combo kit to fit their unique needs. Want all Nose Butter? Sure! Need some of each, no problem. Pick and choose for your dog!
   Updated: 2025-12-13T12:03:27Z
   Total Products: 228
 - [Shop The Blissful Dog Australian Shepherd Collection Nose to Tail Care](https://theblissfuldog.com/collections/australian-shepherd-collection): Australian Shepherd Collection for Nose to Tail Care. Handcrafted balms for dry noses, rough paws, skin issues and aromatherapy for anxiety, aging and training.
-  Updated: 2025-12-07T12:03:12Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 12
 - [Shop Bernese Mountain Dog Collection for Your Berner's Care Needs](https://theblissfuldog.com/collections/bernese-mountain-dog-collection): Shop Blissful Dog Bernese Mountain Dog Collection: All natural, handcrafted balms for your Berner's dry nose, rough paws, elbow calluses, aromatherapy & more.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [The Blissful Dog Border Collie Shop for Dry Noses, Rough Paws + more](https://theblissfuldog.com/collections/border-collie-collection): The Blissful Dog Border Collie Shop for your hard-working dog. All natural balms for dry noses, rough, paws, skin irritations + aromatherapy and shampoos.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [SHOP The Blissful Dog BOSTON TERRIER Collection for Your Dog's Care](https://theblissfuldog.com/collections/boston-terrier-collection): Boston Terrier Collection features everything blissful for your Boston Terrier's health & well-being. From nose to stumpy tail, we've got your Boston covered.
   Updated: 2025-12-04T12:02:56Z
@@ -17152,13 +17152,13 @@
   Updated: 2025-12-09T12:02:02Z
   Total Products: 16
 - [Shop The Blissful Dog Chihuahua Collection Everything Nose To Tail](https://theblissfuldog.com/collections/chihuahua-collection): Chihuahua Collection features everything with Chi labels + products for your Chi's dry nose, rough paws, skin issues, emotional well-being and cleanliness.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [Shop Dogue de Bordeaux Collection for Dry Noses & Paws, Elbow Calluses](https://theblissfuldog.com/collections/dogue-de-bordeaux-collection): The Blissful Dog Shop for your Dogue de Bordeaux for For dry noses, elbow calluses, rough paws, skin issues and emotional health, with French Mastiff labels.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 12
 - [Shop The Blissful Dog French Bulldog Collection Frenchies Nose to Tail](https://theblissfuldog.com/collections/french-bulldog-collection): Calling All French Bulldog Fanatics! Everything The Blissful Dog offers with a French Bulldog label is featured right here in one ez to shop spot. Nose Butter+
-  Updated: 2025-12-01T12:02:39Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 17
 - [The Blissful Dog German Shepherd Collection Everything for Your GSD](https://theblissfuldog.com/collections/german-shepherd-collection): Shop German Shepherd Collection for your dog's skin care needs; for dry noses, elbow calluses, rough paws, skin issues, aromatherapy for anxiety & shampoos+
   Updated: 2025-11-20T12:01:48Z
@@ -17167,43 +17167,43 @@
   Updated: 2025-12-04T12:02:56Z
   Total Products: 11
 - [Shop The Blissful Dog Golden Retriever Collection from Nose to Tail](https://theblissfuldog.com/collections/golden-retriever-collection): The Blissful Dog Golden Retriever Shop All natural, balms for your dog's dry nose, rough paws, skin issues and aromatherapies for stress, anxiety and aging.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 12
 - [Shop Labrador Retriever Collection for Dry Noses, Elbow Calluses +](https://theblissfuldog.com/collections/labrador-retriever-collection): Shop The Blissful Dog Labrador Retriever Collection for everything Lab from nose to tail; natural butters for nose, paws, elbow calluses and skin irritations.
   Updated: 2025-12-13T12:03:27Z
   Total Products: 8
 - [Shop The Blissful Dog Newfoundland Dog Collection From Nose to Toes](https://theblissfuldog.com/collections/newfoundland-dog-collection): Newfoundland Dog Shop Handcrafted balms for dry dog noses, rough paws, elbow calluses and skin issues + aromatherapy for anxiety. And shampoos & conditioners.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Shop The Blissful Dog Springer Spaniel Collection for Nose To Tail](https://theblissfuldog.com/collections/springer-spaniel-collection): The Blissful Dog Springer Spaniel Shop all natural, handcrafted balms for dry noses, rough paws, skin care and aromatherapy for anxiety and aging support.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Shop Pekingese Collection for Your Peke's Complete Skin & Coat Care](https://theblissfuldog.com/collections/pekingese-collection): The Blissful Dog Pekingese Shop All natural balms for dry noses, rough paws, and skin irritations. Aromatherapy for anxieties and aging issues + shampoos & more
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [Pomeranian Products for Grooming & Dry Skin | The Blissful Dog](https://theblissfuldog.com/collections/pomeranian-collection): Shop all of our Pomeranian products for grooming and dry skin! We sell natural shampoos, conditioners, moisturizers, and more to help keep your Pom blissful.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 16
 - [Shop The Blissful Dog Cavalier King Charles Spaniel Collection](https://theblissfuldog.com/collections/cavalier-king-charles-spaniel-collection): Cavalier King Charles Spaniel Shop for dry noses, rough paws, skin issues, aromatherapy for emotional well-being & complete bath & body collection for shampoos.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [Siberian Husky Dry Skin & Coat Care Products | The Blissful Dog](https://theblissfuldog.com/collections/husky-collection): Find natural Siberian Husky dry skin and coat care products online at The Blissful Dog! We sell shampoos, conditioners, balms, and more to keep huskies happy.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 9
 - [Shop Rottweiler Collection for Dry Noses, Rough Paws, Elbow Calluses+](https://theblissfuldog.com/collections/rottweiler-collection): The Blissful Dog Rottweiler Shop Handcrafted herbal balms for dry noses, rough paws, elbow calluses and skin irritations. Plus aromatherapy for anxieties.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 8
 - [Shop Japanese Chin Collection for Your Dog's Needs from Nose to Tail](https://theblissfuldog.com/collections/japanese-chin-collection): Shop The Blissful Dog Japanese Chin Collection for everything blissful for your Japanese Chin. All natural handcrafted goodies for dry noses, rough paws, itchy skin issues, emotional support (fears, anxiety, aging) + our complete shampoo and conditioner line. Many items feature the Japanese Chin on the label.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [Shop The Blissful Dog Mastiff Collection for Your Big Dog's Needs](https://theblissfuldog.com/collections/mastiff-collection): The Blissful Dog Mastiff Shop Handcrafted Balms For Dry Noses, Elbow Calluses, Rough Paws, Skin Issues, Aromatherapy for Emotional Well-Being + Shampoos & More.
   Updated: 2025-12-13T12:03:27Z
   Total Products: 15
 - [Poodle Skin Care, Hair Care, & Grooming Products | The Blissful Dog](https://theblissfuldog.com/collections/poodle-collection): Visit the Blissful Dog to find all-natural poodle skin care, hair care, and grooming products! We have everything your poodle needs to stay happy and healthy.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [The Blissful Dog St Bernard Collection For Your Saint's Skin and Coat](https://theblissfuldog.com/collections/saint-bernard-collection): The Blissful Dog St Bernard Shop All natural balms for dry noses, rough paws, elbow calluses & skin issues, aromatherapy for anxieties and aging and shampoos
-  Updated: 2025-12-10T12:02:09Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [Shop The Blissful Dog Vizsla Collection for Nose to Tail Care](https://theblissfuldog.com/collections/vizsla-collection): The Blissful Dog Vizsla Shop Handcrafted balms for dry noses, elbow calluses, rough paw pads, skin issues. Plus aromatherapy for anxieties, aging & training.
   Updated: 2025-12-04T12:02:56Z
@@ -17212,19 +17212,19 @@
   Updated: 2025-11-27T12:02:31Z
   Total Products: 11
 - [Yorkie Skin Care & Hair Grooming Products | The Blissful Dog](https://theblissfuldog.com/collections/yorkshire-terrier-collection): Find all the skin care and hair grooming products you need for your spirited little Yorkie! The Blissful Dog sells natural skin balms, shampoos, and more.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [Shop The Blissful Dog Brittany Dog Skin & Coat Care Collection](https://theblissfuldog.com/collections/brittany-spaniel-collection): Shop everything featuring the Brittany dog from our Brittany Collection. Nose Butter® for dry noses, rough paws, itchy skin issues and elbow calluses.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 12
 - [The Blissful Dog Shop American Staffordshire Terrier Collection](https://theblissfuldog.com/collections/american-staffordshire-terrier): The Blissful Dog American Staffordshire Terrier Collection showcases everything blissful for your AmStaff. For dry noses, rough, paws, elbow calluses and more.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 9
 - [Affenpinscher Dog Skin Care & Grooming Supplies Online](https://theblissfuldog.com/collections/affenpinscher-collection): Shop our selection of Affenpinscher dog skin care and grooming supplies! From gentle shampoos to moisturizers, we have all you need to keep your Affie happy.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [Maltese Grooming Supplies & Dog Skin Care Products](https://theblissfuldog.com/collections/maltese-collection): Shop our site for all-natural Maltese grooming supplies and skin care products! We sell everything from shampoos to gentle touch puppy bar soaps.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 12
 - [The Blissful Dog Handcrafted Balms For Your Dog From Nose to Tail](https://theblissfuldog.com/collections/just-a-nose-collection): Shop The Blissful Dog Collection - NOSE BUTTER for dry dog noses, PAW BUTTER for rough paws, ELBOW BUTTER for elbow calluses & Boo Boo Butter for skin issues..
   Updated: 2025-12-03T12:02:24Z
@@ -17233,118 +17233,118 @@
   Updated: 2025-12-13T12:03:27Z
   Total Products: 9
 - [The Blissful Dog Collection for Your Shih Tzu's Skin and Coat Care](https://theblissfuldog.com/collections/shih-tzu-collection): The Blissful Dog Shih Tzu Shop All natural balms for dry noses, rough paws and skin issues, aromatherapy for anxieties and shampoos, sprays & conditioners.
-  Updated: 2025-12-10T12:02:09Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 12
 - [Rhodesian Ridgeback Dog Care & Grooming Supplies for Sale](https://theblissfuldog.com/collections/rhodesian-ridgeback-collection): Shop our Rhodesian Ridgeback dog care and grooming supplies  for handcrafted, all natural goodies for your Ridgie. Many have Ridgie label options!
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [Shop Staffordshire Bull Terrier Collection for Your Pit Head to Tail](https://theblissfuldog.com/collections/staffordshire-bull-terrier-collection): Staffordshire Bull Terrier Shop Pit Bull Terrier natural balms for dry noses, rough paws, elbow calluses and skin issues, + aromatherapy for aging & anxieties.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 10
 - [Shop The Blissful Dog Collie Dog Collection for Skin & Coat Care](https://theblissfuldog.com/collections/collie-collection): The Blissful Dog Collie Dog Shop - Handcrafted balms for dry noses, rough paws, skin issues and aromatherapy for anxiety and aging. Plus, Complete shampoo line.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 15
 - [Shop Shetland Sheepdog Collection for Your Sheltie's Bath & Body Needs](https://theblissfuldog.com/collections/shetland-sheepdog-collection): The Blissful Dog Shetland Sheepdog Shop handcrafted, all natural balms for dry Sheltie noses, rough paws and itchy skin issues, aromatherapy for anxiety.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [Shop Everything Shiba Inu for Your Dog's Skin and Coat Care Needs](https://theblissfuldog.com/collections/shiba-inu-collection): The Blissful Dog Shiba Inu Shop All natural, handcrafted balms for dry dog noses, rough paws & skin issues. Aromatherapy for anxieties, plus soaps & shampoos.
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 10
 - [Shop The Blissful Dog Samoyed Collection for Skin & Coat Care](https://theblissfuldog.com/collections/samoyed-collection): Samoyed Collection - Handcrafted balms for dry noses, rough paws and skin irritations, aromatherapy for stress, plus shampoos, conditioners and sprays.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [Shop Great Pyrenees Dog Collection for Dry Noses, Paws, Skin & Bath](https://theblissfuldog.com/collections/great-pyrenees-collection): For your Great Pyrenees dog - All natural, handcrafted balms for dry nose, rough paws, skin irritations and Relax Dog Aromatherapy for anxiety and stress.
-  Updated: 2025-12-06T12:02:34Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Shop Parson Russell Terrier Collection for Skin & Coat Care](https://theblissfuldog.com/collections/jack-russell-terrier-collection): The Blissful Dog Parson Russell Terrier shop - handcrafted balms for dry noses, rough paws, elbow, minor skin irritations, aromatherapy for anxiety & shampoos.
   Updated: 2025-11-27T12:02:31Z
   Total Products: 8
 - [The Blissful Dog Alaskan Malamute Shop for Your Mal's Skin & Coat Care](https://theblissfuldog.com/collections/malamute-collection): Alaskan Malamute Shop all natural balms for your Mal's dry nose, rough paws, elbow calluses & skin issues. Aromatherapy for anxiety + shampoos and conditioners.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Basset Collection for Your Basset's Nose, Paws, Elbows & Stress](https://theblissfuldog.com/collections/basset-hound-collection): Everything Blissful for your Basset! The Blissful Dog takes care of your Basset's dry nose, rough paws, elbow calluses and random itchy skin issues…naturally!
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 9
 - [Shop The Blissful Dog Beagle Collection from Nose to Toes and Elbows](https://theblissfuldog.com/collections/beagle-collection): Shop The Blissful Dog Beagle Collection All Natural, Handcrafted in USA Balms for your Beagle's Dry Nose, Rough Paws, Elbow Calluses and Itchy Discomforts.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 9
 - [Shop The Blissful Dog Bloodhound Collection From Nose To Tail](https://theblissfuldog.com/collections/bloodhound-collection): Shop Blissful Bloodhound Collection. All Natural, handcrafted in USA balms for your Bloodhound's dry nose, rough paws, elbow calluses and minor skin issues.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 11
 - [Shop The Blissful Dog Belgian Malinois Collection From Nose to Toes](https://theblissfuldog.com/collections/belgian-malinois): Shop our Belgian Malinois Collection. All natural, handcrafted in USA balms for your Belgian Malinois' dry nose, rough paws, elbow calluses and itchy skin.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [Shop The Blissful Dog AMERICAN ESKIMO DOG Collection](https://theblissfuldog.com/collections/american-eskimo-dog-collection): Shop All natural, handcrafted balms for your American Eskimo Dog - for dry nose, paws, itchy discomforts and anxieties. Plus shampoos & conditioners.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 9
 - [The Blissful Dog Bull Terrier Shop for Dry Noses, Rough Paws & Anxiety](https://theblissfuldog.com/collections/bull-terrier-collection): The Blissful Dog Bull Terrier Shop All natural, handcrafted balms for dry noses, rough paws, skin irritations and Relax Dog Aromatherapy to help calm your dog
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [Shop The Blissful Dog Bullmastiff Collection From Nose to Tail](https://theblissfuldog.com/collections/bullmastiff-collection): The Blissful Dog Bullmastiff Shop All Natural Handcrafted Balms for Your Bullmastiff's Nose, Paws, Elbows and Skin Irritations. Plus aromatherapy & shampoos.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 10
 - [Cane Corso Skin Care & Bathing Products | The Blissful Dog](https://theblissfuldog.com/collections/cane-corso-collection): Shop our selection of Cane Corso pet skin care and bathing products! From Nose Butter to shampoo, we sell everything you need to keep your dog happy & healthy.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 10
 - [Shop Chinese Crested Collection For Skin & Coat Care](https://theblissfuldog.com/collections/chinese-crested-collection): The Blissful Dog Chinese Crested Shop for your dog's skin, coat and emotional needs + shampoos. Chinese Crested dogs are featured on over a dozen labels.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 9
 - [Shar-Pei Products for Grooming & Skin Problems](https://theblissfuldog.com/collections/chinese-shar-pei-collection): Visit The Blissful Dog to find all the Shar-Pei products for grooming and skin problem treatment you need! We offer everything from aromatherapy to shampoos.
-  Updated: 2025-12-03T12:02:24Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 9
 - [The Blissful Dog Chow Dog Collection Shop for Dry Noses, Rough Paws +](https://theblissfuldog.com/collections/chow-collection): The Blissful Dog Chow Dog Collection All Natural, Handcrafted Balms for Your Chow's Dry Nose, Rough Paws, Skin Irritations and Emotional Stress & Anxieties.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [The Blissful Dog Doberman Pinscher Collection from  Nose to Tail](https://theblissfuldog.com/collections/doberman-pinscher-collection): Doberman Pinscher Shop for your Dobie's dry nose, rough paws, elbow calluses, skin issues & emotional well-being. Plus, shampoos for your dog's skincare needs.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 10
 - [The Blissful Dog Dachshund Shop Collection for Your Doxie Nose to Tail](https://theblissfuldog.com/collections/dachshund-collection): Blissful Dog Dachshund Shop - balms for dry noses, rough paws, elbow calluses & skin issues, aromatherapy for stress & aging + shampoo to keep your Doxie clean.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [English Toy Spaniel Dog Health & Beauty Grooming Supplies for Your ETS](https://theblissfuldog.com/collections/english-toy-spaniel-collection): The Blissful Dog all natural English Toy Spaniel products help keep your sweet dog looking and feeling their royal best.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 12
 - [English Cocker Spaniel Dog Care & Grooming Supplies Online](https://theblissfuldog.com/collections/english-cocker-spaniel): Keep your English Cocker Spaniel happy with our natural dog care and grooming supplies! From shampoo to nose butter, you can find everything you need online.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Goldendoodle Dog Care & Grooming Products Online](https://theblissfuldog.com/collections/goldendoodle-collection): Buy Goldendoodle dog care and grooming products online at The Blissful Dog! We sell all-natural shampoos, conditioners, soaps, and more to keep your pup happy.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Shop Greater Swiss Mountain Dog Skin & Coat Care Collection](https://theblissfuldog.com/collections/greater-swiss-mountain-dog-collection): The Blissful Dog Greater Swiss Mountain Dog Shop All natural, handcrafted balms for your Swissie's nose, paws, elbows, skin irritations, stress and anxieties.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [Shop Havanese Dog Collection for Everything From Nose to Tail](https://theblissfuldog.com/collections/havanese-collection): Havanese Dog Collection - All natural balms for dry noses, rough paws, skin irritations. Plus, aromatherapy for stress and anxiety and shampoos, conditioners.
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [The Blissful Dog Labradoodle Dog Grooming & Care Goodies](https://theblissfuldog.com/collections/labradoodle-collection): Your Labradoodle will find their bliss with our all natural skin care and bath & body products. Many items feature a Labradoodle on the label!
-  Updated: 2025-12-09T12:02:02Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 8
 - [Shop Leonberger Collection for All Your Leo's Skin & Coat Needs](https://theblissfuldog.com/collections/leonberger-collection): The Blissful Dog Leonberger Shop all natural balms for your Leo's dry nose, rough paws, skin issues, aromatherapy for anxiety and shampoo, conditioners, sprays.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [The Blissful Dog Shop Lhasa Apso Collection for Dog's Skin & Coat Care](https://theblissfuldog.com/collections/lhasa-apso-collection): Lhasa Apso Collection Featuring All Natural Balms for your Lhasa Apso's dry nose, rough paws, skin issues & stress + shampoo, conditioners & de-tangling sprays!
-  Updated: 2025-11-21T12:02:04Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Neapolitan Mastiff Collection Shop for Everything Your Neo Needs](https://theblissfuldog.com/collections/neapolitan-mastiff-collection): The Blissful Dog Neapolitan Mastiff Shop All Natural Balms for your Neo's dry nose, rough paws, elbow calluses, skin irritations + aromatherapy for anxiety.
   Updated: 2025-11-27T12:02:31Z
   Total Products: 8
 - [Shop Papillon Dog Collection for Your Dog's Skin & Coat Care Needs](https://theblissfuldog.com/collections/papillon-collection): The Blissful Dog Papillon Dog Shop - All Natural Balms for your Papillon's dry nose, rough paws and skin issues, aromatherapy for anxieties and shampoos.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [The Blissful Dog Shop for Your Tibetan Mastiff Skin Care](https://theblissfuldog.com/collections/tibetan-mastiff-collection): Tibetan Mastiff Shop - All Natural, Handcrafted Balms for dry dog noses, rough paws, elbow calluses & aromatherapy for anxiety. Shampoos, conditioners & sprays.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [SHOP The Blissful Dog Tibetan Spaniel Collection - Skin & Coat Care](https://theblissfuldog.com/collections/tibetan-spaniel): The Blissful Dog Tibetan Spaniel Collection for your Tibbie's skin & coat care. Handcrafted balms for dry noses, paws and skin issues, aromatherapy for stress.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 9
 - [The Blissful Dog Shop Dogo Argentino Collection for Your Dog's Care](https://theblissfuldog.com/collections/dogo-argentino-collection): Everything for Your Blissful Dogo Argentino All Natural, Handcrafted in the USA Balms for your Dogo's dry nose, rough paws, elbow calluses and skin irritations.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [Essential Oils for Senior Dogs | Cognitive Support for Aging Dogs](https://theblissfuldog.com/collections/age-well-dog-aromatherapy): Support your dog's aging process with our natural essential oils. Age Well Dog Aromatherapy provides cognitive support for your aging dog to keep them calm and peaceful.
   Updated: 2025-11-27T12:02:31Z
   Total Products: 31
 - [Shop The Blissful Dog Schnauzer Collection for Everything Schnauzer](https://theblissfuldog.com/collections/schnauzer-collection): The Blissful Dog Schnauzer Shop handcrafted herbal balms for dry noses, rough paws and skin irritations. Aromatherapy for stress, anxiety and aging support.
-  Updated: 2025-12-10T12:02:09Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Dog Lust Buster for Help In Keeping Boys At Bay - For Short Periods](https://theblissfuldog.com/collections/lust-buster-butter): DOG LUST BUSTER BUTTER Easy to use LUST BUSTER distracts boy dog's from girl dogs in heat for short periods of time, such as dog shows, obedience trials, etc
   Updated: 2025-12-11T12:02:12Z
@@ -17356,43 +17356,43 @@
   Updated: 2025-10-16T15:39:31Z
   Total Products: 13
 - [Westie Dog Skin & Coat Care Products | West Highland Terrier Care](https://theblissfuldog.com/collections/west-highland-white-terrier-collection): Shop our selection of all-natural Westie dog skin and coat care products! We have everything you need to keep your West Highland Terrier happy and healthy.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Australian Cattle Dog Shop for Your Cattle Dog's Care - Nose to Tail](https://theblissfuldog.com/collections/australian-cattle-dog): The Blissful Dog Australian Cattle Dog Collection - Handcrafted balms for dry noses, rough paws, elbow calluses, skin issues and aromatherapy for anxieties.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 15
 - [All-Natural Dog Soaps and Shampoos | Dog Bath Products](https://theblissfuldog.com/collections/blissfully-clean-dogs): Find all-natural dog soaps and shampoos that best suit your pet! The Blissful Dog sells a variety of bath products that blissfully clean all types of dog coats.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 26
 - [Dog Itch Relief Products | Natural Dog Skin Treatments](https://theblissfuldog.com/collections/bye-bye-boo-boo): Our Bye Bye Boo Boo dog skin care products provide relief for minor irritations and itches. Browse these natural shampoos, soaps, and other treatments today!
   Updated: 2025-12-13T12:03:27Z
   Total Products: 5
 - [Nova Scotia Duck Tolling Retriever Dog Grooming Supplies for Sale](https://theblissfuldog.com/collections/nova-scotia-duck-tolling-retriever): Get everything your Toller needs at The Blissful Dog! We offer a wide selection of Nova Scotia Duck Tolling Retriever dog grooming and care supplies for sale.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 10
 - [The Blissful Dog Xoloitzcuintli Skin Care Collection](https://theblissfuldog.com/collections/xoloitzcuintli): The Blissful Dog Xoloitzcuintli Collection - Keep your Xolo looking and feeling their best with handcrafted, all natural; balms and shampoos for your Xolo.
-  Updated: 2025-12-12T12:02:32Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 8
 - [Shop The Blissful Dog Cocker Spaniel Collection for Nose to Tail Care](https://theblissfuldog.com/collections/cocker-spaniel-collection): The Blissful Dog Cocker Spaniel Shop Handcrafted balms for dry noses, rough paws, skin issues, aromatherapy for emotional issues, plus, complete shampoo line.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 15
 - [Shop The Blissful Dog Portuguese Water Dog Collection](https://theblissfuldog.com/collections/portuguese-water-dog): The Blissful Dog Portuguese Water Dog Shop All natural balms for dry noses, rough paws and skin issues. Aromatherapy for anxiety + shampoos & conditioners.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Shop Fila Brasileiro Collection for Your Fila From Nose To Tail Care](https://theblissfuldog.com/collections/fila-brasileiro-collection): Fila Brasileiro Collection all natural balms soothe your Fila's dry nose, rough paws, elbow calluses and skin issues, plus, aromatherapy for stress and anxiety.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [The Blissful Dog Pet Safe Insect Repellents for Dogs | Bye Bye Bugs](https://theblissfuldog.com/collections/bug-off-collection): Bye Bye Bugs! Keep pesky pests away from your dog with these safe & natural bug repellent products! Our dog insect repellents are free of harmful chemicals.
   Updated: 2025-10-16T15:39:32Z
   Total Products: 5
 - [Blissful Dog Drama Queen & Rich Bitch Dog Shampoo For Your Doggie Diva](https://theblissfuldog.com/collections/rich-bitch-collection): Drama Queen & Rich Bitch Dog Shampoo for The Diva Dog who hires a dog to sniff butts for them. Moisturizing shampoo & luxury bar soap with G & PG-Rated Labels
-  Updated: 2025-12-10T12:02:09Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 35
 - [The Blissful Dog Stinky Filthy Dog Shampoo Gets Your Nasty Dog Clean](https://theblissfuldog.com/collections/stinky-filthy-dog-shampoo-soap-collection): The Blissful Dog Stinky Dog Collection Is your dog a stinky, filthy animal? From dirt to mud to SKUNKED, Stinky Filthy Dog Shampoo cleans your soiled dog FAST!
   Updated: 2025-11-01T11:02:18Z
   Total Products: 2
 - [Shampoos, Soap, Conditioners for Your Blissfully Clean Dog](https://theblissfuldog.com/collections/blissfully-clean-dog): Doesn't your dog deserve to be a blissfully clean dog? The Blissful Dog has dozens of shampoos, soaps, conditioners, sprays and more to pamper your pup!
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 57
 - [Gentle Touch Puppy Shampoo & Soap for Puppies, Seniors, Sensitive Dogs](https://theblissfuldog.com/collections/gentle-touch-collection): Gentle Touch Puppy Shampoo & Soap for puppies, senior dogs and dogs with more sensitive skin, tenderly cleans your best friend with no-tears sudsing.
   Updated: 2025-12-04T12:02:56Z
@@ -17413,10 +17413,10 @@
   Updated: 2025-12-13T12:03:27Z
   Total Products: 9
 - [Shop The Blissful Dog Italian Greyhound Collections From Nose to Tail](https://theblissfuldog.com/collections/italian-greyhound): The Blissful Dog Italian Greyhound Shop all natural balms for dry noses, rough paws, skin issues & aromatherapy for anxiety, plus shampoos+ for your IG's care.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 8
 - [Basenji Grooming & Dog Care Products Online | The Blissful Dog](https://theblissfuldog.com/collections/basenji): Find Basenji grooming and dog care products online at The Blissful Dog! From nose butter to calming sprays, we sell everything you need to keep your dog happy.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 9
 - [Shop Everything Blissful For Your Whippet Curated Collection](https://theblissfuldog.com/collections/whippet-collection): The Blissful Dog Whippet Shop all natural balms for dry noses, rough paws and skin irritation, aromatherapy for anxiety and shampoos, soaps and sprays.
   Updated: 2025-12-10T12:02:09Z
@@ -17428,7 +17428,7 @@
   Updated: 2025-12-13T12:03:27Z
   Total Products: 12
 - [Shop The Blissful Dog Dalmatian Collection for Everything Nose to Tail](https://theblissfuldog.com/collections/dalmatian-collection): The Blissful Dog Dalmatian Shop for handcrafted balms for dry noses, rough paws, elbow calluses and skin issues, plus, aromatherapy for stress and anxieties.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 10
 - [Everything Blissful for Your Dog All Products](https://theblissfuldog.com/collections/all): Shop Everything Blissful for Your Dog - Having a happy, healthy dog who looks and feels their very best is bliss for dog lovers. Enjoy finding your dog's bliss!
   Updated: 2025-10-16T15:39:33Z
@@ -17437,13 +17437,13 @@
   Updated: 2025-12-04T12:02:56Z
   Total Products: 10
 - [Shop The Blissful Dog Bichon Frise Nose to Tail Collection](https://theblissfuldog.com/collections/bichon-frise-collection): Shop Everything Blissful For Your Bichon Frise! From NOSE BUTTER® for healthy noses to BOO BOO BUTTER for skin irritations, to shampoos and conditioners.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 15
 - [Shop The Blissful Dog Corgi Collection For Your Blissful Corgi's Needs](https://theblissfuldog.com/collections/corgi-collection): Shop The Blissful Dog Corgi Collection for your Corgi's skin care, bath and body and emotional needs. First Sniff Dog Cologne features a Corgi as the spokesdog.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:23Z
   Total Products: 14
 - [Shop The Blissful Dog COTON DE TULEAR Collection](https://theblissfuldog.com/collections/coton-de-tulear): The Blissful Dog offers everything blissful for your Coton de Tulear. Featuring a Cotton de Tulear label! All natural, handcrafted goodness for your best friend
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 15
 - [French Bulldog Nose Butter Collection for Your Frenchie's Dry Nose](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection): The Blissful Dog French Bulldog Nose Butter® For Your Frenchie's Rough, Dry Nose. Many Frenchies have dry noses or nasal hyperkeratosis and Nose Butter helps!
   Updated: 2025-12-01T12:02:39Z
@@ -17476,10 +17476,10 @@
   Updated: 2025-12-01T12:02:39Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
-  Updated: 2025-11-10T12:02:08Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 3
 - [The Blissful Dog Helps You Support Your Senior Dog](https://theblissfuldog.com/collections/support-your-senior-dog): Support Your Senior Dog Physically, Mentally and Emotionally with aromatherapy, shampoos, sprays and our balms. Plus articles on how to support your senior.
   Updated: 2025-12-04T12:02:56Z
@@ -17494,41 +17494,41 @@
   Updated: 2025-12-13T12:03:27Z
   Total Products: 12
 - [Tibetan Terrier Collection for Your TT's Blissful Best](https://theblissfuldog.com/collections/tibetan-terrier-collection): The Blissful Dog Tibetan Terrier Collection offers several products with Tibetan Terrier labels, plus products to help your TT look & feel their Blissful Best!
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 8
 - [The Blissful Dog Apothecary | All Natural, Handcrafted Balms](https://theblissfuldog.com/collections/apothecary): The Blissful Dog Apothecary Showcases Skin Care Products for Your Blissful Dog 
 Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-13T12:03:27Z
   Total Products: 7
 - [Shop The Blissful Dog Soft Coated Wheaten Terrier Collection](https://theblissfuldog.com/collections/soft-coated-wheaten-terrier): Shop our Soft Coated Wheaten Terrier Collection for everything your Wheaten needs to look and feel their blissful best - from nose to toes!
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [The Blissful Dog Akita Collections for Your Akita's Health & Wellness](https://theblissfuldog.com/collections/akita): The Blissful Dog Akita Collection showcases curated products to keep your Akita looking & feeling their Blissful Best. Many items feature Akita labels.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 15
 - [Shop The Blissful Dog Bearded Collie Collection for Your Beardie](https://theblissfuldog.com/collections/bearded-collie): Bearded Collie Collection | For Your Beardie's Bliss. Our Beardie Collection showcases products featuring the Beardie on the label + recommendations for others.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [The Blissful Dog Scottish Terrier Collection for the Scottie's Bliss](https://theblissfuldog.com/collections/scottish-terrier): Scottish Terrier Collection is our curated selection of products that feature the Scottie on the labels and are recommended for their health and wellness.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [Shop The Blissful Dog Icelandic Sheepdog Curated Collection](https://theblissfuldog.com/collections/icelandic-sheepdog): The Icelandic Sheepdog  Collection features products showcasing an Icelandic Sheepdog on the label and others created to help you keep your Icie blissful.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [The Blissful Dog Irish Setter Collection for Your Dog's Bliss](https://theblissfuldog.com/collections/irish-setter): Irish Setter Curated Collection for Your Dog's Health & Well-Being - Your Irish Setter collection showcases products that feature Irish Setter labels +
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [The Blissful Dog Irish Wolfhound Collection for Your IW's Bliss](https://theblissfuldog.com/collections/irish-wolfhound): The Irish Wolfhound Collection | Handpicked to keep your stalwart Irish Wolfhound looking and feeling their blissful best! Complete bath & body products!
   Updated: 2025-12-13T12:03:27Z
   Total Products: 14
 - [The Blissful Dog Gordon Setter Collection for Your Dog's Bliss](https://theblissfuldog.com/collections/gordon-setter): Gordon Setter Collection Keeps Your Gordon Setter Looking & Feeling Their Blissful Best. Featuring products with Gordon Setter labels and those we recommend.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 14
 - [The Blissful Dog Clumber Spaniel Collection for Your Blissful Clumber](https://theblissfuldog.com/collections/clumber-spaniel): Clumber Spaniel Collection Keeps Your Clumber Looking & Feeling Their Blissful Best. Many products have Clumber Spaniels on labels + shampoos for their needs.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 16
 - [The Blissful Dog Petit Basset Griffon Vendéen Collection](https://theblissfuldog.com/collections/petit-basset-griffon-vendeen): Petit Basset Griffon Vendéen Collection keeps your PBGV looking and feeling their Blissful Best. Many items feature PBGV labels + more!
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 13
 - [The Blissful Dog Shop by Breed Curated Collections Makes Shopping FAST](https://theblissfuldog.com/collections/collection-of-collections): The Blissful Dog Shop by Breed - Shop curated collections of what your dog needs to look & feel their blissful best! Shop Apothecary, Aromatherapy + Bath & Body
   Updated: 2025-10-16T15:39:35Z
@@ -17537,19 +17537,19 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-10-16T15:39:35Z
   Total Products: 1
 - [Candy By The Cash Register | Dog Care With A Click](https://theblissfuldog.com/collections/candy-by-the-cash-register): Dog Care with a click is our version of how candy, magazines and must-have-stuff is right by the register in stores Wasn't it nice of them to put candy there?
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 33
 - [Blissfully Clean Dog Shampoos, Soaps & Conditioner](https://theblissfuldog.com/collections/shampoo-soap): Blissfully Clean Dog Shampoos, Soaps & Conditioner offers a complete range of shampoos, soap, and one heckuva conditioner to get your filthy dog clean.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 51
 - [Specialty Dog Grooming Sprays](https://theblissfuldog.com/collections/specialty-sprays): Spritz & Spray The Funk Away Simply Everything Fresh Deodorizing Spray - Simply Fresh doesn't mask odors, it busts smells apart & gets your abode fresh-smelling FAST.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 7
 - [Naughty or Nice? The Blissful Dog Holiday Gifts for All Dogs](https://theblissfuldog.com/collections/naughty-or-nice-holiday-shopping-for-all-blissful-dogs): Naughty or Nice? The Blissful Dog Holiday Gifts are for all dogs, no matter how naughty they are. Allow us to help you clear your canine shopping list!
   Updated: 2024-02-06T19:06:22Z
@@ -17567,16 +17567,16 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2024-02-06T19:06:23Z
   Total Products: 2
 - [Field Spaniel](https://theblissfuldog.com/collections/field-spaniel): Field Spaniel  Companion & Hard-Working Field Dog It's easy to confuse the Field Spaniel with the multitude of other Spaniels, but they are a unique breed.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 11
 - [The Blissful Dog Brussels Griffon Collection for Your Griff's Needs](https://theblissfuldog.com/collections/brussels-griffon): Shop The Blissful Dog Everything Brussels Griffon Collection for your born to be spoiled Griff. Everything you need for the Brussels Griffon in your life
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 8
 - [Blissfully Fresh® Face Wash Keeps Your Dog Kissably Fresh](https://theblissfuldog.com/collections/fresh-face-wash-for-blissfully-clean-faces): Blissfully Fresh® Face Wash for Blissfully Clean, Kissably Cuddly, Fresh Faces -  when your dog needs a quick freshen-up to feel and smell great again
   Updated: 2025-12-04T12:02:56Z
@@ -17591,7 +17591,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-10-16T15:39:36Z
   Total Products: 4
 - [Rich Bitch Holiday Combo](https://theblissfuldog.com/collections/rich-bitch-holiday-combo): Naughty AND Nice! Is there someone on your shopping list who you KNOW will get a kick out of this shampoo? Everyone on my list would love it, so my shopping is done! Of course, it's a hardworking, professional shampoo, we just had a little fun with the name. We stumbled upon these squeaky toys and HAD to do something fun with them. Hence, our Rich Bitch Happy Holidays Gift Combo! Our Rich Bitch Holiday Combo Includes 4 oz Bottle of Rich Bitch Shampoo with your choice of Rich Bitches gracing the label 11.95 value3.5 oz Rich Bitch Soap in a black, luxury gift box with the same label as the Shampoo 12.95 valueA Fabulous Rich Bitch Canine Couture Squeaky Toy Handbag (retail averages $20.00 alone!) All this for $14.95. We're clutching our own pearls at this great bargain! Shipping is, as always, free! While supplies last, we don't have an infinite supply of the squeak toy handbag toys!
-  Updated: 2025-12-10T12:02:09Z
+  Updated: 2025-12-14T12:03:24Z
   Total Products: 26
 
 ## Blogs
