@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-12-02T00:02:25.902Z
+- Updated At: 2025-12-15T00:00:45.669Z
 
 ## Products
 
@@ -464,13 +464,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/FullSizeRender_55bdf7da-47ed-41da-afa7-2c66934c391a.jpg?v=1739705737
   Price: 29,90 € EUR
-- [SIUX ELECTRA ST4 Stupa Pro 2025](https://www.mypropadelshop.fr/products/siux-electra-st4-stupa-pro-2025): Siux Electra ST4 Stupa Pro 2025 – La nouvelle référence de performance signée Franco Stupaczuk Résumé La Siux Electra ST4 Stupa Pro 2025 est la raquette officielle de Franco Stupaczuk, l’un des joueurs les plus explosifs du circuit professionnel. Conçue pour offrir un équilibre parfait entre puissance et contrôle, elle s’adresse aux joueurs exigeants qui recherchent précision, stabilité et réactivité sur chaque frappe. Équilibre entre attaque et défense Sa forme en goutte d’eau permet d’allier puissance et maniabilité, pour un jeu complet. Le sweet spot légèrement remonté favorise les frappes offensives tout en maintenant une excellente tolérance sur les coups décentrés. Idéale pour les joueurs polyvalents capables de varier le rythme entre défense et attaque. Structure rigide et stable Le cadre en carbone 15K assure une solidité supérieure et une stabilité parfaite à l’impact. Ce matériau haute performance garantit une transmission d’énergie optimale, offrant des frappes puissantes et précises tout en maintenant une sensation de contrôle exceptionnelle. Mousse Hard Touch – Puissance contrôlée La mousse Hard Touch fournit un toucher ferme et réactif, offrant un maximum de puissance sur les frappes sèches et agressives. Cette mousse dense améliore la vitesse de sortie de balle tout en conservant un haut niveau de précision, idéale pour les joueurs au jeu percutant. Technologies avancées Sand Finish : surface sablée améliorant l’adhérence et la prise d’effet sur chaque coup. Dual Pro Grip : manche ergonomique offrant un confort accru et une prise en main stable et personnalisée. Optimized Sweet Spot : élargit la zone de frappe idéale pour une meilleure tolérance et une régularité accrue sur les coups décentrés. Confort et maniabilité Grâce à son équilibre parfaitement ajusté et à sa structure en carbone, la Siux Electra ST4 garantit une maniabilité fluide et une stabilité remarquable lors des échanges rapides. Elle permet d’imprimer de la puissance sans sacrifier le contrôle, offrant un confort optimal même dans les matchs les plus intenses. Caractéristiques techniques Forme : Goutte d’eau Équilibre : Moyen-haut Structure : Carbone 15K Noyau : Mousse Hard Touch Surface : Sablée (technologie Sand Finish) Technologies : Dual Pro Grip, Optimized Sweet Spot Catégorie : Avancé / Professionnel Joueur : Franco Stupaczuk Marque : Siux Année : 2025 Pour quel type de joueur ? La Siux Electra ST4 Stupa Pro 2025 s’adresse aux joueurs avancés et professionnels qui recherchent une raquette polyvalente, offrant une frappe sèche et puissante sans compromettre le contrôle. Elle est parfaite pour les compétiteurs souhaitant un modèle précis, stable et rapide, capable de suivre un jeu explosif à l’image de Franco Stupaczuk. Passez à l’action Optez pour la Siux Electra ST4 Stupa Pro 2025 et dominez le court avec une raquette qui associe technologie, puissance et précision au service de la performance. La nouvelle référence de performance La Siux Electra ST4 Stupa Pro 2025 est la raquette de choix de Franco Stupaczuk, l’un des joueurs les plus dynamiques du circuit professionnel.Conçue pour offrir un équilibre parfait entre puissance et contrôle, elle s’adresse aux joueurs exigeants qui recherchent une frappe ferme et précise, tout en conservant une excellente maniabilité.Grâce à sa forme en goutte d’eau, cette raquette offre un compromis idéal entre attaque et défense. Son sweet spot légèrement remonté permet d’imprimer une puissance supplémentaire tout en conservant un bon contrôle sur les frappes les plus délicates.Son cadre en carbone 15K garantit une solidité exceptionnelle et une excellente stabilité à l’impact. Ce matériau assure une transmission optimale de l’énergie, permettant d’exploiter toute la puissance de chaque coup avec une précision redoutable.Équipée d’une mousse Hard Touch, cette raquette offre un maximum de puissance sur les frappes sèches et agressives, tout en assurant un excellent retour d’énergie.La surface intègre la technologie Sand Finish, qui apporte une texture sablée favorisant l’adhérence de la balle et la création d'effets.Sur le manche, on retourve également le Dual Pro Grip pour offrir un confort optimal et une prise en main personnalisée, améliorant ainsi la prise en main et le contrôle de la raquette pendant le jeu.Enfin, l’Optimized Sweet Spot élargit la zone de frappe idéale, augmentant la tolérance sur les coups décentrés.
-  Updated: 2025-11-05T14:22:53Z
-  Vendor: Pro Padel Toulouse
-  Product Type: Raquette
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-04-10143547.png?v=1744288871
-  Price: 229,90 € EUR
 - [Nox Elite FR 2025](https://www.mypropadelshop.fr/products/nox-elite-fr): NOX Elite FR Exclusive 2025 – Puissance, contrôle et confort pour un jeu polyvalent Résumé La NOX Elite FR Exclusive 2025 est une raquette de padel polyvalente et performante, conçue pour les joueurs qui recherchent un parfait équilibre entre puissance et contrôle. Inspirée de la célèbre AT10, sa forme goutte d’eau et ses technologies de pointe en font une alliée idéale pour progresser tout en profitant d’un confort de jeu exceptionnel. Puissance et contrôle équilibrés Grâce à sa forme goutte d’eau, la NOX Elite FR 2025 offre un compromis parfait entre frappe puissante et précision. Elle permet aux joueurs de passer facilement d’un jeu défensif à un jeu offensif sans perdre en stabilité ni en réactivité. Construction robuste et confortable La structure en fibre de verre apporte une grande résistance aux impacts tout en conservant une sensation douce et agréable à la frappe. Cette conception garantit une maniabilité fluide et un contrôle précis dans toutes les situations de jeu. Sortie de balle dynamique Le noyau en mousse HR3 assure une réactivité optimale et une sortie de balle vive. Chaque frappe gagne en puissance et en précision, sans compromettre la sensation de confort propre à la gamme NOX. Effets et technicité Sa surface rugueuse favorise la prise d’effets et permet d’imprimer des trajectoires variées et imprévisibles. Idéale pour les joueurs souhaitant ajouter une dimension technique à leur jeu. Confort et réduction des vibrations La technologie AVS (Anti-Vibration System) réduit significativement les vibrations à chaque impact, améliorant le confort de jeu et préservant les articulations. Elle aide à prévenir les blessures courantes au poignet et au coude. Durabilité et résistance Le système DCS (Dynamic Composite Structure) renforce les zones critiques de la raquette, améliorant la solidité du cadre et de la face. Ce renforcement prolonge la durée de vie de la raquette, même en usage intensif. Caractéristiques techniques Forme : Goutte d’eau Équilibre : Moyen Structure : Fibre de verre Noyau : Mousse HR3 Surface : Rugueuse Technologies : AVS (Anti-Vibration System), DCS (Dynamic Composite Structure) Catégorie : Polyvalente / Intermédiaire Marque : NOX Année : 2025 Pour quel type de joueur ? La NOX Elite FR Exclusive 2025 s’adresse aux joueurs intermédiaires ou polyvalents cherchant à combiner puissance, contrôle et confort. Son comportement équilibré et sa tolérance en font une raquette idéale pour progresser vers un jeu plus technique et percutant. Passez à l’action Adoptez la NOX Elite FR Exclusive 2025 et découvrez une raquette complète, confortable et performante, pensée pour élever votre jeu à un niveau supérieur.
   Updated: 2025-11-05T14:22:53Z
   Vendor: Pro Padel Toulouse
@@ -493,7 +486,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/FullSizeRender_b8c9fccd-2e1a-448f-9d28-cfc63af4c7aa.jpg?v=1754753976
   Price: 219,00 € EUR
 - [Adidas Metalbone Reserve 2025](https://www.mypropadelshop.fr/products/adidas-metalbone-reserve-2025): Raquette de padel Adidas Metalbone Reserve 2025 – Édition Limitée Ale Galán Une raquette exclusive, conçue pour les joueurs d’élite Adidas présente la Metalbone Reserve 2025, une raquette de padel en édition limitée développée en collaboration avec Alejandro Galán, star du padel mondial, et le circuit Reserve. Seulement 3000 exemplaires ont été fabriqués dans le monde, faisant de cette raquette une véritable pièce de collection pour les passionnés et les compétiteurs exigeants. Puissance et précision grâce aux technologies Adidas Padel Inspirée de la Metalbone 2025, cette version Reserve intègre les matériaux les plus avancés : Carbone 16K Alum : rigidité exceptionnelle et durabilité maximale. Forme diamant : sweetspot haut, idéal pour les smashs puissants et frappes explosives. EVA Soft Performance : mousse souple absorbant les vibrations pour plus de confort. Spin Blade : relief 3D améliorant l’adhérence de la balle pour des effets redoutables. Octogonal Structure : stabilité renforcée et précision accrue. Weight & Balance System : ajustez poids et équilibre pour adapter votre style de jeu. Power Extra Grip & Power Groove : grip rallongé et rail interne offrant puissance et contrôle supplémentaires. Design premium et finition unique Avec son look vert métallisé et blanc, ses finitions low poly et son cadre carbone haut de gamme, la Metalbone Reserve 2025 allie esthétique moderne et performance professionnelle. Pour quel joueur ? Niveau : expert / compétiteur Style de jeu : attaquant recherchant puissance, effets et précision Inspiration : utilisée par Ale Galán, l’un des meilleurs joueurs du monde Caractéristiques techniques – Adidas Metalbone Reserve 2025 Poids : 360–375 g Forme : Diamant Équilibre : Haut (raquette puissante) Mousse : EVA Soft Performance Cadre : Carbone 16K Alum Surface : reliefs 3D Spin Blade Collection : Adidas Padel 2025 Genre : Homme – joueur expert Couleur : Vert métallisé / Blanc Housse : Non fournie Pourquoi choisir la Metalbone Reserve 2025 ? Édition limitée à 3000 unités dans le monde Raquette officielle inspirée par Ale Galán Technologies de pointe Adidas Padel Puissance maximale, contrôle et confort réunis Un design unique pour se démarquer sur le court Disponible dès maintenant chez Pro Padel Toulouse / My Pro Padel Shop, distributeur officiel Adidas Padel.
-  Updated: 2025-11-05T14:22:53Z
+  Updated: 2025-12-07T08:20:30Z
   Vendor: Pro Padel Toulouse
   Product Type: Raquette
   Availability: Available
@@ -588,6 +581,48 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-10-30184516.png?v=1761846597
   Price: 22,90 € EUR
+- [Adidas Metalbone 3.5 2026](https://www.mypropadelshop.fr/products/adidas-metalbone-3-5-2026): Adidas Metalbone 3.5 2026 Description générale La Adidas Metalbone 3.5 2026 est une raquette de padel haut de gamme conçue pour les joueurs avancés à experts, notamment les joueurs offensifs recherchant puissance, frappe explosive et effets maîtrisés. Issue de la gamme “Metalbone”, cette version 2026 incarne l’équilibre entre agressivité, confort et technologies modernes pour dominer sur le court. Caractéristiques techniques Forme : Diamant — sweet spot élevé pour maximiser la puissance des frappes. :contentReference[oaicite:1]{index=1} Équilibre : Tête lourde (High Balance) — idéal pour les smashes et coups offensifs. Poids : ≈ 350–365 g — un poids optimisé pour combiner inertie et maniabilité. Noyau : EVA Soft Performance — toucher confortable, absorption des vibrations et contrôle même en volleys puissants. Cadre : Carbone 6K — rigidité, légèreté et retour d’énergie optimal pour des frappes explosives. Technologies intégrées : Power Groove, Low Poly, Spin Blade, Extra Power Grip, Octagonal Structure — pour maximiser puissance, effet, stabilité et contrôle. Performances & sensations de jeu La Metalbone 3.5 2026 délivre une puissance remarquable à chaque impact — smash, bandeja ou voleé — tout en conservant un bon niveau de confort et de précision. Le sweet spot excentré, combiné à l’équilibre tête lourde, favorise les frappes hautes et offensives. La mousse Soft Performance apporte un toucher souple, réduisant la fatigue du bras et améliorant la tolérance sur les frappes décentrées. L’ensemble des technologies (Spin Blade, Power Groove, Low Poly, etc.) offre une excellente rotation de balle, des impacts précis et un excellent contrôle, même sur coups puissants. Usage recommandé Cette raquette est idéale pour des joueurs offensifs, compétiteurs ou confirmés, souhaitant imposer le rythme avec des frappes puissantes et agressives. Elle convient parfaitement aux attaques, smashes et volées, ainsi qu’aux échanges rapides et agressifs en fond de court ou au filet. Pour quel type de joueur ? La Metalbone 3.5 2026 s’adresse notamment aux joueurs :— À l’aise techniquement et qui aiment dicter le jeu avec des frappes puissantes.— Qui jouent souvent au filet ou en attaque.— Qui recherchent un bon compromis entre puissance brute, confort et maniabilité. Conclusion La Adidas Metalbone 3.5 2026 est une raquette de padel premium taillée pour l’agressivité et la performance. Grâce à sa conception moderne, ses matériaux de qualité et ses technologies avancées, elle offre un excellent équilibre entre puissance, contrôle et confort — un choix idéal pour les joueurs confirmés qui veulent dominer sur le court.
+  Updated: 2025-12-10T06:11:12Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-12-06161015_c17ee3f0-88c6-4859-b0c5-ce5a6832d889.png?v=1765091757
+  Price: 339,90 € EUR
+- [Adidas Metalbone Control 3.5 2026](https://www.mypropadelshop.fr/products/adidas-metalbone-control-3-5-2026): Adidas Metalbone Control 3.5 2026 Description générale La raquette Adidas Metalbone Control 3.5 2026 incarne l’équilibre entre précision, confort et adaptabilité pour les joueurs de padel avancés ou experts. Son design soigné et moderne — souvent décliné en blanc et noir avec touches d’orange — combine élégance et performance. Cette version 2026 s’adresse aux joueurs recherchant un contrôle précis sans sacrifier la puissance lorsque nécessaire. Caractéristiques techniques Forme : Ronde, pour un sweet-spot bien centré optimisant le contrôle et la régularité. :contentReference[oaicite:1]{index=1} Équilibre : Basse (ajustable) — possibilité d’adapter le poids et l’équilibre selon votre style de jeu via le système Weight & Balance System. Poids : ~355–370 g, selon réglages. Cadre : Carbone Aluminisé 16K, assurant rigidité, durabilité et sensations de frappe qualitatives. Noyau : EVA Soft Performance, pour un bon confort, absorption des vibrations et sortie de balle fluide. Technologies intégrées : Octagonal Structure — section octogonale du cadre pour réduire la torsion et améliorer la stabilité sur les frappes. Low Poly — design du cœur et du cadre optimisé pour rigidité et frappe explosive lorsque nécessaire. Spin Blade (surface texturée) — surface avec relief pour améliorer l’accroche et les effets de balle. Usage recommandé Cette raquette s’adresse aux joueurs de niveau avancé à expert qui privilégient le contrôle, la précision et la régularité dans leur jeu — tout en conservant la possibilité d’envoyer des frappes puissantes quand le moment s’y prête. Elle convient particulièrement à un jeu posé, tactique, en fond de court ou pour des échanges stratégiques. Si vous aimez varier les effets et avoir un excellent toucher de balle, c’est un très bon choix. Pourquoi la choisir La Metalbone Control 3.5 2026 se distingue par sa polyvalence et sa capacité à s’adapter à différents styles de jeu grâce à son système de poids réglable et sa construction haut de gamme. Elle offre un très bon compromis entre confort, contrôle et puissance — ce qui en fait une raquette fiable pour les joueurs exigeants souhaitant performer sur tous les aspects du jeu.
+  Updated: 2025-12-10T06:11:44Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-12-06162440.png?v=1765091867
+  Price: 339,90 € EUR
+- [Siux Fenix Elite VI 2026](https://www.mypropadelshop.fr/products/siux-fenix-elite-vi-2026): Siux Fenix Elite VI 2026 Description générale La Siux Fenix Elite VI 2026 est une raquette haut de gamme conçue pour les joueurs avancés recherchant un équilibre parfait entre puissance maîtrisée, confort et précision. Cette nouvelle version de la célèbre gamme Fenix intègre une construction renforcée en carbone et un noyau EVA de haute performance, offrant une sensation de frappe solide et un contrôle supérieur. Elle se distingue également par un design moderne et agressif qui reflète son orientation vers un jeu explosif mais maîtrisé. Caractéristiques techniques Forme : Goutte d’eau, offrant un excellent compromis entre puissance et contrôle. Équilibre : Moyen-haut, adapté aux joueurs cherchant à générer plus de puissance sans perdre en maniabilité. Poids : Environ 360–375 g selon la fabrication. Cadre : Carbone haute résistance pour une plus grande durabilité et stabilité. Faces : Fibre de carbone 12K, augmentant la rigidité et la précision dans les frappes agressives. Noyau : EVA Soft High Recovery, favorisant le confort, l'amorti et une sortie de balle rapide. Technologies intégrées : ShockOut System pour réduire les vibrations et prévenir les douleurs articulaires. Reinforced Bridge améliorant la stabilité sur les coups décentrés. Surface Sandy Effect pour une meilleure accroche et un contrôle optimal des effets. Usage recommandé La Siux Fenix Elite VI 2026 s'adresse aux joueurs de niveau intermédiaire à expert recherchant une raquette polyvalente avec une orientation légèrement offensive. Elle conviendra parfaitement aux joueurs aimant frapper fort mais souhaitant garder une précision élevée dans les zones délicates du terrain. Pourquoi la choisir Grâce à son mélange idéal entre puissance, confort et stabilité, cette raquette devient un allié précieux pour les joueurs souhaitant faire évoluer leur jeu. Sa construction premium en carbone et son noyau EVA réactif garantissent un toucher professionnel et une performance constante lors des échanges les plus exigeants.
+  Updated: 2025-12-07T07:52:41Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-12-07082744.png?v=1765092941
+  Price: 269,90 € EUR
+- [Siux Electra ST5 Stupa Pro Rouge 2026](https://www.mypropadelshop.fr/products/siux-electra-st5-stupa-pro-rouge-2026): Siux Electra ST5 Stupa Pro Rouge 2026 Description générale La Siux Electra ST5 Stupa Pro Rouge 2026 est une raquette d’élite conçée en collaboration avec le joueur professionnel Franco Stupaczuk. Cette nouvelle version 2026, inspirée de la gamme Electra, offre un équilibre parfait entre explosivité offensive, stabilité et confort de jeu. Avec sa finition premium, sa couleur rouge signature et ses matériaux haut de gamme, elle s’adresse aux joueurs à la recherche de précision et de puissance maîtrisée. Caractéristiques techniques Forme : Goutte d’eau, combinant puissance et contrôle. Équilibre : Moyen-haut, idéal pour un jeu agressif tout en restant maniable. Poids : Environ 360–375 g. Cadre : Carbone haute résistance pour garantir solidité et longévité. Faces : Fibre de carbone 12K offrant précision, stabilité et réactivité. Noyau : EVA Medium High Recovery, apportant un excellent compromis entre confort et puissance. Technologies intégrées : ShockOut Dual Pro pour réduire les vibrations et améliorer le confort articulaire. Reinforced Bridge augmentant la stabilité lors des frappes décentrées. Spin Effect Ridge avec surface rugueuse pour un contrôle supérieur des effets. Usage recommandé La Siux Electra ST5 Stupa Pro Rouge 2026 convient parfaitement aux joueurs de niveau avancé à professionnel privilégiant un style de jeu agressif mais nécessitant précision et maniabilité. Elle est idéale pour les joueurs polyvalents cherchant à dominer les échanges avec puissance contrôlée et une excellente stabilité en défense comme en attaque. Pourquoi la choisir Modèle signature du joueur Stupa, cette raquette se distingue par sa puissance maîtrisée, sa sensation de frappe premium et sa très bonne absorption des vibrations. Son design rouge emblématique et sa construction en carbone 12K en font un choix incontournable pour les joueurs exigeants souhaitant une raquette performante, confortable et réactive.
+  Updated: 2025-12-07T07:52:22Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-12-07082624.png?v=1765093883
+  Price: 349,90 € EUR
+- [Babolat Viper Soft 3.0 Juan Lebron 2026](https://www.mypropadelshop.fr/products/babolat-viper-soft-3-0-juan-lebron-2026): Babolat Viper Soft 3.0 Juan Lebron 2026 Description générale La Babolat Viper Soft 3.0 Juan Lebron 2026 est la nouvelle version de la raquette iconique utilisée par le joueur professionnel Juan Lebron. Cette édition 2026 offre un mélange parfaitement équilibré entre puissance explosive, maniabilité et confort grâce à son noyau Soft adapté aux joueurs recherchant plus de tolérance et d’absorption des vibrations. Avec un design moderne et la signature du « Lobo », cette raquette se positionne comme un choix de premier ordre pour les joueurs offensifs désirant un toucher plus doux. Caractéristiques techniques Forme : Diamant, pour maximiser la puissance de frappe. Équilibre : Haut, idéal pour les joueurs agressifs et puissants. Poids : Environ 355–365 g. Cadre : Carbone complet pour une stabilité optimale et une durabilité renforcée. Faces : Fibre de carbone 3K, offrant une combinaison de rigidité et de confort. Noyau : EVA Soft, procurant plus de douceur, de tolérance et un très bon amorti. Technologies intégrées : X-EVA : construction multicouche pour plus de réactivité et de contrôle du toucher. 3D Spin+ : relief texturé pour accentuer les effets. Vibrasorb System : réduction des vibrations pour un maximum de confort articulaire. Holistic Frame Technology améliorant la stabilité générale sur les frappes décentrées. Usage recommandé La Viper Soft 3.0 Juan Lebron 2026 est idéale pour les joueurs avancés à professionnels recherchant puissance et confort. Son noyau soft la rend particulièrement adaptée aux joueurs souhaitant réduire les vibrations tout en conservant l’explosivité nécessaire à un jeu offensif dominant. Pourquoi la choisir Avec son équilibre en tête, sa structure carbone et son noyau EVA Soft, cette raquette offre un mélange parfait entre puissance contrôlée, maniabilité et confort exceptionnel. Son design signature Juan Lebron en fait un modèle incontournable pour les joueurs voulant adopter la même philosophie de jeu que l’un des meilleurs joueurs du monde.
+  Updated: 2025-12-07T08:19:17Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-12-07091022.png?v=1765095290
+  Price: 299,90 € EUR
+- [Babolat Veron 3.0 Juan Lebron 2026](https://www.mypropadelshop.fr/products/babolat-veron-3-0-juan-lebron-2026): Babolat Veron 3.0 Juan Lebron 2026 Description générale La Babolat Veron 3.0 Juan Lebron 2026 est une raquette conçue pour offrir une puissance dynamique et accessible à une large gamme de joueurs. Inspirée par le style offensif de Juan Lebron, cette version 2026 présente un équilibre parfait entre réactivité, confort et maniabilité. Équipée d’un noyau plus tolérant que la Viper, elle permet une frappe puissante tout en assurant un excellent contrôle, ce qui la rend idéale pour les joueurs cherchant un modèle explosif mais confortable. Caractéristiques techniques Forme : Diamant, spécialement pensée pour maximiser la puissance des frappes offensives. Équilibre : Haut, parfait pour les smashes et les coups d’attaque. Poids : Environ 355–365 g. Cadre : Construction 100 % carbone pour rigidité et stabilité. Faces : Fibre carbone/Veron pour une meilleure élasticité et un toucher plus dynamique. Noyau : EVA Black Medium offrant un excellent compromis entre confort et explosivité. Technologies intégrées : Carbon Flex : combinaison carbone + fibre souple pour puissance dynamique et sortie de balle rapide. X-EVA : construction multicouche pour répondre à toutes les phases du jeu. 3D Spin : relief texturé améliorant l’accroche et les effets. Vibrasorb System : absorption des vibrations pour un confort supérieur. Usage recommandé La Veron 3.0 Juan Lebron 2026 est idéale pour les joueurs intermédiaires à avancés recherchant une raquette puissante mais plus tolérante que la gamme Viper. Elle conviendra parfaitement à ceux qui aiment attaquer tout en gardant du confort et du contrôle sur les phases défensives. Pourquoi la choisir Grâce à sa composition flexible, son poids en tête et sa technologie Carbon Flex, cette raquette permet de générer une puissance dynamique sans perdre en précision. Inspirée de Juan Lebron, elle se positionne comme une option premium pour les joueurs désireux d’adopter un style de jeu agressif mais maîtrisé.
+  Updated: 2025-12-07T09:39:04Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-12-07103724.png?v=1765100340
+  Price: 239,90 € EUR
 
 ## Collections
 
@@ -613,17 +648,17 @@
   Updated: 2025-11-05T09:34:27Z
   Total Products: 2
 - [Raquettes Babolat](https://www.mypropadelshop.fr/collections/raquettes-babolat): Explorez les raquettes de padel Babolat, fruit d’un héritage de plus de 145 ans dans les sports de raquette. Conçues pour les joueurs en quête de performance, elles offrent un équilibre parfait entre puissance, contrôle et maniabilité. Grâce à des technologies de pointe comme Carbon Flex, la marque permet de porter votre jeu vers de nouveaux sommets. Pour chaque profil — attaquant, polyvalent ou débutant — Babolat propose une gamme dédiée : Air, Technical, Vertuo et Counter pour s’ajuster à votre style. Jouez avec précision, jouez avec confiance, jouez avec Babolat.
-  Updated: 2025-11-05T11:28:32Z
-  Total Products: 1
+  Updated: 2025-12-07T08:19:18Z
+  Total Products: 3
 - [Bagagerie Adidas](https://www.mypropadelshop.fr/collections/bagagerie-adidas): Découvrez la bagagerie Adidas : style, résistance et praticité au service de vos déplacements. Des sacs conçus pour les sportifs exigeants, alliant durabilité, ergonomie et design emblématique pour transporter votre équipement avec confiance et élégance.
   Updated: 2025-11-05T11:06:11Z
   Total Products: 0
 - [Raquettes](https://www.mypropadelshop.fr/collections/raquettes): Découvrez notre sélection de raquettes de padel : puissance, précision et confort pour tous les niveaux. Trouvez la raquette idéale parmi les plus grandes marques et améliorez votre jeu dès maintenant.
-  Updated: 2025-11-24T15:59:19Z
-  Total Products: 23
+  Updated: 2025-12-10T06:11:45Z
+  Total Products: 29
 - [Raquettes Siux](https://www.mypropadelshop.fr/collections/raquettes-siux): Explorez l’univers Siux, marque de référence en padel. Des raquettes alliant technologie, puissance et contrôle pour un jeu explosif et précis. Que vous soyez amateur ou pro, trouvez la Siux qui libérera tout votre potentiel sur le court.
-  Updated: 2025-11-05T11:05:26Z
-  Total Products: 2
+  Updated: 2025-12-07T08:25:41Z
+  Total Products: 4
 - [Bagagerie Nox](https://www.mypropadelshop.fr/collections/bagagerie-nox): Explorez la bagagerie Nox : performance, confort et élégance pour accompagner chaque match. Conçus pour les joueurs exigeants, les sacs Nox allient résistance, organisation optimale et design sportif pour transporter votre équipement en toute confiance.
   Updated: 2025-11-29T12:24:06Z
   Total Products: 3
@@ -631,8 +666,8 @@
   Updated: 2025-11-12T18:57:06Z
   Total Products: 11
 - [Raquettes Adidas](https://www.mypropadelshop.fr/collections/raquettes-adidas): Explorez les raquettes de padel Adidas : innovation, performance et design au service de votre jeu. Que vous cherchiez puissance, contrôle ou équilibre parfait, les technologies Adidas vous offrent la précision et la confiance pour dominer le court.
-  Updated: 2025-11-05T11:00:23Z
-  Total Products: 5
+  Updated: 2025-12-10T06:11:45Z
+  Total Products: 7
 - [Textiles Nox](https://www.mypropadelshop.fr/collections/textiles-nox): Découvrez la collection textile Nox : performance, confort et style sur et en dehors du court. Conçus avec des tissus techniques respirants, les vêtements Nox allient liberté de mouvement et élégance sportive. Affirmez votre jeu avec l’excellence signée Nox.
   Updated: 2025-11-05T11:07:50Z
   Total Products: 3
@@ -649,8 +684,8 @@
   Updated: 2025-11-24T15:59:19Z
   Total Products: 4
 - [Collection 2026](https://www.mypropadelshop.fr/collections/collection-2026): Découvrez les raquettes de padel 2026 : puissance, contrôle et innovation réunies dans une nouvelle génération d’équipements. Les plus grandes marques repoussent les limites de la performance et du design pour vous offrir des sensations inédites et une maîtrise totale sur le court.
-  Updated: 2025-11-05T14:15:52Z
-  Total Products: 5
+  Updated: 2025-12-07T08:19:18Z
+  Total Products: 9
 - [Chaussures](https://www.mypropadelshop.fr/collections/chaussures): Découvrez les chaussures de padel : confort, stabilité et performance pour chaque déplacement. Conçues pour offrir adhérence, légèreté et protection optimale, elles vous assurent vitesse et confiance sur tous les terrains.
   Updated: 2025-11-05T10:01:43Z
   Total Products: 3
@@ -658,20 +693,20 @@
   Updated: 2025-11-05T14:15:53Z
   Total Products: 1
 - [Intermédiaire](https://www.mypropadelshop.fr/collections/intermediaire): Explorez les raquettes de padel intermédiaire : équilibre parfait entre puissance et contrôle pour faire évoluer votre jeu. Conçues pour les joueurs en progression, elles allient stabilité, maniabilité et technologies performantes pour gagner en confiance et en précision à chaque frappe.
-  Updated: 2025-11-05T11:02:43Z
-  Total Products: 0
-- [Avancé](https://www.mypropadelshop.fr/collections/avance): Découvrez les raquettes de padel avancé : puissance, précision et réactivité pour un jeu sans compromis. Dotées des technologies les plus récentes, elles offrent un contrôle absolu et une frappe explosive pour dominer le court avec confiance et maîtrise.
-  Updated: 2025-11-05T14:13:51Z
-  Total Products: 2
-- [Expert](https://www.mypropadelshop.fr/collections/expert): Explorez les raquettes de padel expert : performance ultime, précision chirurgicale et puissance maîtrisée. Conçues pour les joueurs exigeants, elles intègrent les technologies les plus avancées pour offrir un contrôle total et des frappes décisives à chaque échange.
-  Updated: 2025-11-05T14:14:42Z
-  Total Products: 2
-- [Tous les produits](https://www.mypropadelshop.fr/collections/tous-les-produits)
-  Updated: 2025-11-29T12:24:06Z
-  Total Products: 49
-- [Edition Limitée](https://www.mypropadelshop.fr/collections/edition-limitee): Découvrez la collection Édition Limitée : exclusivité, style et performance réunis dans des produits d’exception. Conçus pour les passionnés en quête d’originalité et de technologie haut de gamme, ces modèles rares allient design unique et prestige sportif.
-  Updated: 2025-11-06T08:47:49Z
+  Updated: 2025-12-07T08:19:17Z
   Total Products: 1
+- [Avancé](https://www.mypropadelshop.fr/collections/avance): Découvrez les raquettes de padel avancé : puissance, précision et réactivité pour un jeu sans compromis. Dotées des technologies les plus récentes, elles offrent un contrôle absolu et une frappe explosive pour dominer le court avec confiance et maîtrise.
+  Updated: 2025-12-07T08:19:18Z
+  Total Products: 3
+- [Expert](https://www.mypropadelshop.fr/collections/expert): Explorez les raquettes de padel expert : performance ultime, précision chirurgicale et puissance maîtrisée. Conçues pour les joueurs exigeants, elles intègrent les technologies les plus avancées pour offrir un contrôle total et des frappes décisives à chaque échange.
+  Updated: 2025-12-10T06:11:45Z
+  Total Products: 7
+- [Tous les produits](https://www.mypropadelshop.fr/collections/tous-les-produits)
+  Updated: 2025-12-10T06:11:45Z
+  Total Products: 55
+- [Edition Limitée](https://www.mypropadelshop.fr/collections/edition-limitee): Découvrez la collection Édition Limitée : exclusivité, style et performance réunis dans des produits d’exception. Conçus pour les passionnés en quête d’originalité et de technologie haut de gamme, ces modèles rares allient design unique et prestige sportif.
+  Updated: 2025-12-07T08:21:00Z
+  Total Products: 4
 
 ## Store Pages
 
@@ -689,11 +724,17 @@
   Updated: 2025-07-18T13:50:22Z
 - [A propos de My Pro Padel Shop](https://www.mypropadelshop.fr/pages/a-propos-de-my-pro-padel-shop): 📄 À propos – My Pro Padel Shop 🎾 Pro Padel Shop, c’est un peu plus qu’un simple shop.C’est l’histoire d’une équipe de passionnés de padel qui ont t...
   Updated: 2025-07-18T15:13:51Z
+- [FAQ - Centre d'aide](https://www.mypropadelshop.fr/pages/4e3d470b-fdaf-4609-9336-f439da1ff695)
+  Updated: 2025-12-09T11:12:56Z
 
 ## Policies
 
 - [Privacy Policy](https://www.mypropadelshop.fr/policies/privacy-policy)
   Updated: 2025-11-05T16:16:38+01:00
+- [Shipping Policy](https://www.mypropadelshop.fr/policies/shipping-policy)
+  Updated: 2025-12-09T10:53:53+01:00
+- [Refund Policy](https://www.mypropadelshop.fr/policies/refund-policy)
+  Updated: 2025-12-09T10:55:49+01:00
 - [Terms of Service](https://www.mypropadelshop.fr/policies/terms-of-service)
   Updated: 2025-11-05T16:34:45+01:00
 - [Contact Information](https://www.mypropadelshop.fr/policies/contact-information)
