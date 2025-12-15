@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-14T00:00:36.903Z
+- Updated At: 2025-12-15T00:00:36.591Z
 
 ## Products
 
@@ -388,6 +388,10 @@
     Updated: 2025-12-13T02:58:35Z
     Author: Marek Stein
     Tags: kaminofen ohne schornstein
+  - [Ethanol Kamin freistehend: 5 Top‑Modelle, Installation & Pflege leicht erklärt](https://www.pelios.de/blogs/news/ethanol-kamin-freistehend-5-top-modelle-installation-pflege-leicht-erklart)
+    Updated: 2025-12-14T03:25:54Z
+    Author: Marek Stein
+    Tags: ethanol kamin freistehend
 
 ## Store Pages
 
