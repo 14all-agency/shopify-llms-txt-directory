@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-12-12T00:00:39.219Z
+- Updated At: 2025-12-15T00:00:43.491Z
 
 ## Products
 
@@ -3373,7 +3373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-muscle-shirt-black-front-678e4dbcde54e.jpg?v=1740360676
     Price: $33.50 USD
 - [Men's Raglan Shirt – 3/4 Sleeve Baseball Tee for Men](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt): Shop men's raglan shirts with 3/4 sleeves for a classic sporty look. Perfect for casual wear or workouts, these soft cotton tees offer comfort and style.
-  Updated: 2025-12-09T04:00:30Z
+  Updated: 2025-12-12T16:07:56Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -3431,7 +3431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-black-front-678e4edcc94d4.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Red / XS](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065182798074)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-red-front-678e4edcc9a96.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Charcoal / XS](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065182830842)
@@ -3443,7 +3443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-black-front-678e4edcc94d4.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Red / S](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065182896378)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-red-front-678e4edcc9a96.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Charcoal / S](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065182929146)
@@ -3467,7 +3467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-black-front-678e4edcc94d4.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Red / L](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183092986)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-red-front-678e4edcc9a96.jpg?v=1740366104
     Price: $29.50 USD
   - [Heather Grey/Heather Charcoal / L](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183125754)
@@ -3491,7 +3491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-black-front-678e4edcc94d4.jpg?v=1740366104
     Price: $31.50 USD
   - [Heather Grey/Heather Red / 2XL](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183289594)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-heather-grey-heather-red-front-678e4edcc9a96.jpg?v=1740366104
     Price: $31.50 USD
   - [Heather Grey/Heather Charcoal / 2XL](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt?variant=47065183322362)
