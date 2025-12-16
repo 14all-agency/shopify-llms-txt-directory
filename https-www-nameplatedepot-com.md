@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2020-01-08T15:55:40Z
 - Contact Email: info@nameplatedepot.com
-- Updated At: 2025-12-15T00:00:24.889Z
+- Updated At: 2025-12-16T00:00:24.648Z
 
 ## Products
 
 - [Sterling Silver Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/sterling-silver-classic-name-necklace): Here it is! The perfect silver name necklace. Our Personalized Classic Name Necklace in .925 Sterling Silver is a favorite. This beautiful necklace offers a classic script font that makes any name or word look simply lovely. It's the perfect piece of personalized jewelry that's sure to stand out and get you noticed wherever you go – perfect for making all your outfits sparkle! Plus, it has all the chic appeal of sterling silver, so your look will always impress. Features Standard Thickness: 0.7mm Height of pendant: 5-10mm (0.2" - 0.3") The width of the necklace varies in accordance with the length of the name. Chain Type: Box Chain
-  Updated: 2025-12-12T01:36:10Z
+  Updated: 2025-12-15T08:43:07Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS043-Rose-Gold-Name-Necklace.jpg?v=1765503364
     Price: $73.00 USD
 - [Kids 3D Nameplate Necklace with Diamond Accent at NamePlateDepot](https://www.nameplatedepot.com/products/kids-3d-nameplate-necklace-with-diamond-accent): Make your little one sparkle with this elegant Kids 3D Nameplate Necklace with Diamond Accent. Expertly crafted with 15 dazzling cubic zirconia, this stylish nameplate necklace features a wave and heart design underneath the name for an extra dose of girlish charm. An ideal birthday gift for your special someone, this timeless treasure will be cherished. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 32mm x 14mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 15
-  Updated: 2025-12-12T01:36:11Z
+  Updated: 2025-12-15T08:43:08Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -141,7 +141,7 @@
     Availability: Available
     Price: $262.00 USD
 - [Double Name Plate Necklace with Diamond Cut at NamePlateDepot](https://www.nameplatedepot.com/products/double-name-plate-necklace-with-diamond-cut): Enjoy timeless elegance with this custom-made Petite Double Name Plate Necklace with Diamond Cut and 15 CZ. Crafted from fine-quality metal and delicately encrusted with 15 cz diamonds, it features an exquisite diamond-cut design that is sure to make you sparkle. With stunning elegance and sophistication, this signature necklace is perfect for making a sophisticated statement. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 36mm x 15mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 15
-  Updated: 2025-12-12T01:36:14Z
+  Updated: 2025-12-15T08:43:09Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: $267.00 USD
 - [Personalized 3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-3d-nameplate-necklace): Show off your unique style with a personalized 3D Nameplate Necklace with 10 CZ. Crafted with care, this custom-made nameplate features a diamond-cut through the nameplate in a hip hop design. Cursive Carrie font offers an elegant look, perfect as a gift or to express your individuality. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 41mm x 18mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:14Z
+  Updated: 2025-12-15T08:43:10Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Double Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/double-nameplate-necklace): This personalized double nameplate necklaces comes with sparkling CZ set on rhodium cut to give max bling impact. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 44mm x 15mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:18Z
+  Updated: 2025-12-15T08:43:11Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -189,7 +189,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Custom 3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace): Make a unique statement with our Custom 3D Nameplate Necklace, featuring a double plate with wave pattern for a 3D look. The diamond cut and 20 CZ sparkle add a luxurious touch, perfect for any special occasion or beach house party. Let your name shine! Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 47mm x 20mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:19Z
+  Updated: 2025-12-15T08:43:13Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -213,7 +213,7 @@
     Availability: Available
     Price: $306.00 USD
 - [Nameplate Chain Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/nameplate-chain-necklace-with-heart): This exquisite Nameplate Chain Necklace with Heart is crafted with love and care, outfitted with 20 dazzling CZ stones for maximum sparkle. Customize it with your own name, and choose between sterling silver and gold plating for the perfect hip hop jewelry addition. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 53mm x 20mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:19Z
+  Updated: 2025-12-15T08:43:14Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: $315.00 USD
 - [3D Heart Nameplate Necklace  at NamePlateDepot](https://www.nameplatedepot.com/products/3d-heart-nameplate-necklace): Adorn yourself in luxury with the 3D Heart Nameplate Necklace Extra Big with 20 CZ. This chic name plate necklace showcases a double plate design with a big heart below the name with an eye-catching wave pattern. Show off your style with New York City-inspired Broadway fashion and hip hop vibes. An elegant look, perfect for any special occasion. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 51mm x 26mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20 - 12 clear cz in name and 8 birthstone of choice in heart
-  Updated: 2025-12-12T01:36:21Z
+  Updated: 2025-12-15T08:43:15Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -246,7 +246,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Personalized Necklace Name Plate at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-necklace-name-plate): Featuring a big, bold nameplate design, this timeless personalized necklace is sure to become your go-to accessory for any special occasion. Boasting 20 dazzling cz diamonds and a sleek diamond accent, it's a statement piece that will shine when paired with a low-cut neckline. Add a touch of timeless luxury to your wardrobe with this personalized necklace name plate extra big. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 55mm x 22mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:21Z
+  Updated: 2025-12-15T08:43:16Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -261,7 +261,7 @@
     Availability: Available
     Price: $340.00 USD
 - [Two Heart Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace): This two-heart nameplate necklace with 20 CZ offers a custom made design to give you something truly unique and special. Its diamond cut accents create a sparkle that makes it perfect for any special occasion or date night. The elegant waving pattern of two hearts beneath the name provides a sophisticated and tasteful finish. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 35mm x 13mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20 - 2 Birthstone in hearts & 18 randomly placed
-  Updated: 2025-12-12T01:36:24Z
+  Updated: 2025-12-15T08:43:19Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -285,7 +285,7 @@
     Availability: Available
     Price: $267.00 USD
 - [Double Personalized Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/double-personalized-necklace-with-heart): This double personalized necklace with heart is a luxurious expression of affection. Its name plate necklace is adorned with a wave design below the name, diamond cut, and 20 sparkle CZ that give off a dazzling bling effect fit for the most exclusive beach wear fashion. Make this necklace a part of your exquisite collection today. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 45mm x 19mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:24Z
+  Updated: 2025-12-15T08:43:24Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -313,7 +313,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP32.jpg?v=1765503383
     Price: $306.00 USD
 - [3D Nameplate Necklace with Bird & Heart at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-necklace-with-bird-heart): This 3D Nameplate Necklace with Bird & Heart with 20 CZ exudes chic elegance and understated sophistication. The diamond-cut nameplate necklace glistens with an exquisite sparkle that creates a hip hop fashion statement for any occasion. Wear it and make a lasting impression. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 40mm x 18mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:24Z
+  Updated: 2025-12-15T08:43:27Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -340,7 +340,7 @@
     Availability: Available
     Price: $301.00 USD
 - [Two Tone Nameplate Necklace with at Bow at NamePlateDepot](https://www.nameplatedepot.com/products/two-tone-nameplate-necklace-with-at-bow): This exquisite Two Tone Nameplate Necklace will elevate any look to luxurious heights. Crafted from sterling silver, this personalized piece features an elegant bow-wave pattern, with a glimmering diamond accent for a tasteful finishing touch and 20 cz stones set in the name. An exquisite addition to any jewellery collection. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 40mm x 18mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:25Z
+  Updated: 2025-12-15T08:43:29Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -355,7 +355,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Big Small Letter Nameplate Necklace Two Tone at NamePlateDepot](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone): This dazzling two-tone nameplate necklace brings a touch of elegance to any look. Crafted in sterling silver and plated in gold, it features a nameplate cut with diamond proportions that make the first initial larger and the other letters smaller in a beautifully designed swirling script. The necklace is further adorned with 20 dazzling cz stones for a hint of sparkle. Make a bold sartorial statement with this timelessly stylish Miami-inspired piece. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 45mm x 17mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:29Z
+  Updated: 2025-12-15T08:43:32Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -373,7 +373,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Custom 3D Nameplate Necklace with Birthstone Heart at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-with-birthstone-heart): Perfect for a unique expression of love, this custom 3D nameplate necklace features a diamond-cut name and a birthstone heart at its center. Crafted with 20 CZ and a stunning 3D design, it's the ideal gift for your special someone. Show them your appreciation in a sophisticated and exclusive expression with this beautiful nameplate necklace. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 38mm x 21mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:29Z
+  Updated: 2025-12-15T08:43:36Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -403,7 +403,7 @@
     Availability: Available
     Price: $346.00 USD
 - [3D Name Plate Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/3d-name-plate-necklace-with-heart): Adorn your neck in sparkling diamond-cut elegance with this exquisitely crafted custom-made 3D Name Plate Necklace with Heart. Featuring 20 extravagantly shimmering cz, the delicate heart pendant will make your name sparkle in style. The perfect fusion of luxurious beauty and personalization. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 41mm x 19mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:29Z
+  Updated: 2025-12-15T08:43:38Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -418,7 +418,7 @@
     Availability: Available
     Price: $306.00 USD
 - [Big Size Nameplate Necklace with Tail at NamePlateDepot](https://www.nameplatedepot.com/products/big-size-nameplate-necklace-with-tail): This Big Size Nameplate Necklace with Tail provides a personalized touch to a classic design. Crafted with 20 cubic zirconia stones set in a double necklace with a unique swirl design to add extra flair, this is the perfect accessory for those looking to make a statement. This Miami fashion is sure to elevate any look. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 42.5mm x 23mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:29Z
+  Updated: 2025-12-15T08:43:40Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -433,7 +433,7 @@
     Availability: Available
     Price: $335.00 USD
 - [Custom 3D Name Plate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace): This sophisticated name plate necklace is the perfect way to show your everlasting love and admiration with its exquisite design. The sparkling 10 CZs embedded into the diamond cut name plate is framed by an angle wing that surrounds a delicately carved heart at its center. Gift it to someone you love with all your heart. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 45mm x 19mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:34Z
+  Updated: 2025-12-15T08:43:46Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -467,7 +467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP39.jpg?v=1765503393
     Price: $536.00 USD
 - [Personalized Double Plate 3D Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-double-plate-3d-name-necklace): Adorn yourself with a timeless keepsake--the Personalized Double Plate 3D Name Necklace with 20 CZ. Showcasing your personal name or the name of a loved one, this elegant necklace is crafted from a beautiful double nameplate design with 20 CZ diamonds sparkling around it. Heart with wings on both ends of the nameplate to remember the some one dear. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 40mm x 20mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:36Z
+  Updated: 2025-12-15T08:43:48Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -486,7 +486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP40.jpg?v=1765503395
     Price: $315.00 USD
 - [Curved 3D Nameplate Necklace with Two Hearts at NamePlateDepot](https://www.nameplatedepot.com/products/curved-3d-nameplate-necklace-with-two-hearts): Introducing the Curved 3D Nameplate Necklace with Two Hearts with 10 CZ! This unique and stylish necklace is the perfect way to show your personality and style. Made from high quality materials, this necklace is durable and long lasting. The 1.75 inch nameplate is engraved with your name, and the two hearts are adorned with 10 sparkly cz stones. The rhodium finish on the nameplate and hearts gives this necklace a bling look that will make you stand out from the crowd. Whether you're dressing up for a special occasion or just want to add a little something extra to your everyday look, this necklace is a must have! Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 43mm x 23mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:38Z
+  Updated: 2025-12-15T08:44:13Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -644,7 +644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/JME001-3.jpg?v=1765503395
     Price: $615.50 USD
 - [Big 3D Double Plated CZ Nameplate Necklace with Crown at NamePlateDepot](https://www.nameplatedepot.com/products/big-3d-double-plated-cz-nameplate-necklace-with-crown): Admirably opulent, this Big 3D Double Plated CZ Nameplate Necklace with Crown is the perfect statement piece for the modern queen. Featuring a stunning name plate with a regal crown on top, encrusted with twenty sparkling CZs, this majestic necklace is crafted to exquisite detail, sure to turn heads and make a lasting impression. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 43mm x 12mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:38Z
+  Updated: 2025-12-15T08:44:17Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -665,7 +665,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Valentines Ruby Hearts Nameplate Necklace for Women at NamePlateDepot](https://www.nameplatedepot.com/products/valentines-ruby-hearts-nameplate-necklace-for-women): This Valentines Ruby Hearts Nameplate Necklace is a perfect way for her to show off her personal style. Crafted from two-tone silver with a classic nameplate ring and two hearts below, this necklace is adorned with stunning red birthstone and 30 CZ. The delightful 3D double plate design brings an extra touch of luxury to the piece. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 41mm x 27mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 30- 18 in name & 12 in heart any birthstone month
-  Updated: 2025-12-12T01:36:42Z
+  Updated: 2025-12-15T08:44:19Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -683,7 +683,7 @@
     Availability: Available
     Price: $572.00 USD
 - [Valentine Day Two Hearts Nameplate Necklace for Women at NamePlateDepot](https://www.nameplatedepot.com/products/valentine-day-two-hearts-nameplate-necklace-for-women): Celebrate love and affection with this Valentine Day Two Hearts Nameplate Necklace for Women. Crafted with a two-tone design, the necklace features a diamond-cut accent, two hearts beneath the name plate, and a choice of 20 shimmering Cubic Zirconias. An ideal gift for a special someone, the necklace will be a timeless reminder of your love and adoration. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 45mm x 24mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 28 - 20 in name & 8 in heart any birthstone month
-  Updated: 2025-12-12T01:36:42Z
+  Updated: 2025-12-15T08:44:21Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -698,7 +698,7 @@
     Availability: Available
     Price: $383.00 USD
 - [3D Nameplate Neckalce with Back Plate in Sterling Silver at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-neckalce-with-back-plate-in-sterling-silver): Adorn your neck with style, elegance, and exclusivity with our 3D Nameplate Necklace. Crafted in sterling silver and adorned with 20 dazzling CZ accents, the necklace is marked with three delicate hearts and features a show plate behind for a stunning 3D effect. Enjoy the sophistication of New York City's fashion scene with this exquisite adornment. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 46mm x 18mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:42Z
+  Updated: 2025-12-15T08:44:24Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -719,7 +719,7 @@
     Availability: Available
     Price: $335.00 USD
 - [Butterfly Name Plate Necklace Big in Gold Overlay at NamePlateDepot](https://www.nameplatedepot.com/products/butterfly-name-plate-necklace-big-in-gold-overlay): This exquisite Butterfly Name Plate Necklace Big with 10 CZ is the perfect way to express your individuality in style. Crafted with a double plate featuring a unique butterfly design beneath your personalized name, this piece is both fashionable and sophisticated. Its Florida fashion design ensures it stands out from the crowd, making it an ideal addition to any collection. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 50mm x 28mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:42Z
+  Updated: 2025-12-15T08:44:28Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -746,7 +746,7 @@
     Availability: Available
     Price: $354.00 USD
 - [Curssive Font Nameplate Necklace Double Plated at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated): Fully loaded nameplate necklace with 20 sparkling crystals will make it stand out in any necklace. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 50mm x 24mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:46Z
+  Updated: 2025-12-15T08:44:33Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -776,7 +776,7 @@
     Availability: Available
     Price: $335.00 USD
 - [3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-necklace): Enhance your look with this exquisite 3D Nameplate Necklace with 20 CZ. Crafted from sterling silver with an elegant plating option, this impressive double 3D necklace is adorned with 10 dazzling cubic zirconia stones and comes in a lavish cursive font. Be the belle of the ball with this luxurious bling-bling. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 45mm x 12mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 10
-  Updated: 2025-12-12T01:36:47Z
+  Updated: 2025-12-15T08:44:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -791,7 +791,7 @@
     Availability: Available
     Price: $295.00 USD
 - [Celebrity Double Plated Name Necklace in Gold Overlay at NamePlateDepot](https://www.nameplatedepot.com/products/celebrity-double-plated-name-necklace-in-gold-overlay): Stay ahead of the trends with this stylish and luxurious Celebrity Double Plated Name Necklace in Gold Overlay with 20 CZ. This high-end fashion accessory features a unique wave pattern with a 3D design, diamond cuts, and a perfect to wear in Beverly Hills, California. Stand out from the crowd in this beautiful and exclusive statement necklace. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 45mm x 13mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:49Z
+  Updated: 2025-12-15T08:44:39Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -815,7 +815,7 @@
     Availability: Available
     Price: $315.00 USD
 - [3D Block Nameplate Necklace  at NamePlateDepot](https://www.nameplatedepot.com/products/3d-block-nameplate-necklace): Designed for the fashion-forward man, this 3D Block Nameplate Necklace with 20 CZs stands out with its bold, block letters and luxurious nameplate. An ideal gift for him or the perfect accessory for a night out, this piece offers the latest in New York City fashion with a sophisticated and exclusive feel. Specs: Type: Double 3D Style Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Dimension: 41mm x 13mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 20
-  Updated: 2025-12-12T01:36:49Z
+  Updated: 2025-12-15T08:44:41Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP50.jpg?v=1765503408
     Price: $286.00 USD
 - [Large Personalized Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/large-personalized-name-necklace): This luxurious Large Personalized Name Necklace will add a touch of sophistication and class to your look. Crafted from sterling silver, the delicate cut of the metal creates a classic design that adds an elegant flair. As classic as it is beautiful, this timeless necklace can be personalized to make it your own. The perfect way to style your look and make a statement. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 17mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:36:54Z
+  Updated: 2025-12-15T08:44:44Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -858,14 +858,14 @@
     Availability: Available
     Price: $185.00 USD
 - [Name Plate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/name-plate-necklace): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 15mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:36:56Z
+  Updated: 2025-12-15T08:44:45Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP09B.jpg?v=1765503416
   Price: $131.00 USD
 - [Personalized Curssive Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-curssive-name-necklace): A classic, subtle style with a personalized touch, this personalized cursive name necklace is perfect for wearing every day. Its timeless design will pair with any neckline, and its customized look will stand out from the crowd no matter what your name is. A great accessory for any occasion! Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 13mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:36:56Z
+  Updated: 2025-12-15T08:44:48Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -886,7 +886,7 @@
     Availability: Available
     Price: $176.00 USD
 - [Curssive Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-name-necklace): For the perfect blend of personal customisation and sophisticated luxury, our sterling silver block name necklace is the perfect choice. Handcrafted for a unique and elegant look, this necklace also has the option of a gold overlay for added glimmer and glamour. Indulge yourself in the timeless beauty of a timeless classic. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 10mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:02Z
+  Updated: 2025-12-15T08:44:53Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -919,7 +919,7 @@
     Availability: Available
     Price: $166.00 USD
 - [Personalized Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-classic-name-necklace): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 15mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:04Z
+  Updated: 2025-12-15T08:44:55Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -931,7 +931,7 @@
     Availability: Available
     Price: $121.00 USD
 - [Large Name Necklace Princess Style at NamePlateDepot](https://www.nameplatedepot.com/products/large-name-necklace-princess-style): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 21mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:05Z
+  Updated: 2025-12-15T08:44:57Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -946,7 +946,7 @@
     Availability: Available
     Price: $176.00 USD
 - [Styled Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/styled-name-necklace): This elegant name necklace is the perfect choice to add a touch of sophistication and timeless style to your jewelry collection. Crafted with precise hand-cut details and a unique curvy script font, this personalized piece is designed to make a statement. Layer it with other necklaces to create your own personalized look. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 17mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:07Z
+  Updated: 2025-12-15T08:45:02Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -982,7 +982,7 @@
     Availability: Available
     Price: $225.00 USD
 - [Two Name Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/two-name-necklace-with-heart): This exquisite two name necklace is hand-cut with a diamond accent to commemorate a special bond or union. The top name and bottom name curve gracefully around a dainty heart, with a cursive font to seal the love. Perfect for a special wedding gift An exquisite, heartfelt symbol of your connection. This two name necklace is a timeless reminder of your bond, handcrafted with love and care to stand the test of time.. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 24mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:07Z
+  Updated: 2025-12-15T08:45:05Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1003,7 +1003,7 @@
     Availability: Available
     Price: $259.00 USD
 - [Gothic Name Necklace with All Capital Letters at NamePlateDepot](https://www.nameplatedepot.com/products/gothic-name-necklace-with-all-capital-letters): Crafted from sterling silver and finely detailed with a blockish font, this luxurious Gothic Name Necklace offers a sophisticated and exclusive way to make a statement. The satin finish and all capital lettering add a timeless touch, perfect for being admired for years to come. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 50mm x 13mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:09Z
+  Updated: 2025-12-15T08:45:09Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1027,7 +1027,7 @@
     Availability: Available
     Price: $176.00 USD
 - [Custom Name Necklace with Heart on Top at NamePlateDepot](https://www.nameplatedepot.com/products/custom-name-necklace-with-heart-on-top): This exclusive Custom Name Necklace with Heart on Top is the perfect gift for the little girl in your life. Crafted from sterling silver and featuring a delicate hand cut design on the letters, this necklace also displays a beautiful heart design at the top. Customized with your chosen name in an elegant cursive font, it's a luxurious accessory for any collection. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 11mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:14Z
+  Updated: 2025-12-15T08:45:12Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1048,7 +1048,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Curved Name Necklace with Heart & Accent at NamePlateDepot](https://www.nameplatedepot.com/products/curved-name-necklace-with-heart-accent): Elevate your wardrobe with this sophisticated curved name necklace made of sterling silver and gold overlay. Increase your style with the additional option to diamond cut for an extra sparkle. It's the perfect way to make a statement and show off your personality at an affordable price. Delicate satin finish with hand cuts. Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 43mm x 23mm. Total length depends on number of letter Chain: Comes with real .925 Sterling Silver 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:37:19Z
+  Updated: 2025-12-15T08:45:14Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1066,7 +1066,7 @@
     Availability: Available
     Price: $131.00 USD
 - [Kids Gold Name necklace with birthstone](https://www.nameplatedepot.com/products/gold-name-necklace-with-birthstone): Make a lasting impression with a stunning gold name necklace featuring a beautiful birthstone. Personalize it with your name, or the name of your child, and create a beloved keepsake to last a lifetime. Crafted from real gold and strung with a sparkling birthstone, this necklace is a perfect gift for newborns and beyond. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 30mm x 14mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Number of Swarovski CZ Crystals : 1 Birthstone of choice
-  Updated: 2025-12-12T01:37:24Z
+  Updated: 2025-12-15T08:45:20Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1105,7 +1105,7 @@
     Availability: Available
     Price: $808.50 USD
 - [Kids 3D Nameplate Necklace with Diamond Accent](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace): Introducing the Kids 3D Nameplate Necklace with Diamond Accent! This dainty and oh-so-cute piece is perfect for any new mama looking to adorn her little girl with real gold. Personalized with her name, it's a 3D design sure to put a sparkle in her eye! Specs: Type: Double 3D Style Dimension: 32mm x 14mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:24Z
+  Updated: 2025-12-15T08:45:25Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1141,7 +1141,7 @@
     Availability: Available
     Price: $1,023.50 USD
 - [Double Name Plate Necklace with Diamond Cut](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut): Make a daily statement with this 10K / 14K Gold Double Name Plate Necklace with Diamond Cut! It's delicate danity design is perfect for layering with your favorite dress, while its double 3d look makes it the latest fashion. Bonus points for the diamond cut on the lettering, 'cause you know it's gotta sparkle! Specs: Type: Double 3D Style Dimension: 36mm x 15mm. Total length depends on number of letter
-  Updated: 2025-12-12T01:37:26Z
+  Updated: 2025-12-15T08:45:31Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1178,7 +1178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP02_1f90d653-59b0-4c93-ab12-2f48d60fd188.jpg?v=1765503445
     Price: $1,818.50 USD
 - [Personalized 3D Nameplate Necklace](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace): Step up your necklace game with this personalized 3D Nameplate Necklace! Customize with any name of your choice on diamond-cut, 3D double plates that feature a sweet underline with a heart – all in shimmering, real gold. So rock your name in style, California! Specs: Type: Double 3D Style Dimension: 41mm x 18mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:26Z
+  Updated: 2025-12-15T08:45:36Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1214,7 +1214,7 @@
     Availability: Available
     Price: $1,218.50 USD
 - [Double Nameplate Necklace](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace): 3D double nameplate in Cursive font with diamond cut design and an underline accent. Fly like a celebrity with this diamond cut, 3D double nameplate necklace! Get creative with your name, and craft a unique statement piece that says it all -- with a classy underline, of course! (It's the little details that count, after all!) Specs: Type: Double 3D Style Dimension: 44mm x 15mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:31Z
+  Updated: 2025-12-15T08:45:41Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1247,7 +1247,7 @@
     Availability: Available
     Price: $2,065.50 USD
 - [Miami Magic Custom 3D Nameplate Necklace in 10K / 14K Gold](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold): Catch the magic of Miami nights with our Diamond Cut Personalized Nameplate Necklace, showcasing an enchanting wave design beneath your name. This radiant piece captures the soul of Miami’s sparkling coastline under the night sky, ready to bring that evening allure to your date night. Your name, meticulously cut in a real gold with diamond accent design, twinkles with the brilliance of Miami's star-studded sky. The wave design beneath, inspired by the rhythmic dance of the Atlantic against Miami's famed beaches, brings a lively dynamic to the necklace, akin to the city's vibrant nightlife. Expertly crafted to catch the light from every angle, this necklace is your personal starlight, bringing a piece of Miami's evening magic wherever you go. It's a gorgeous addition to your jewelry collection and a unique way to wear your name, Miami-style! Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 47mm x 20mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:31Z
+  Updated: 2025-12-15T08:45:48Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP08_0b0d0a1b-b75e-450c-a2b3-da981b82b6b6.jpg?v=1765503450
     Price: $2,253.50 USD
 - [Nameplate Chain Necklace with Heart](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart): Personalize the perfect necklace with your name and diamond cut in letters to make it stand out. Show off your special style with this one-of-a-kind piece - go big or no names! Specs: Type: Double 3D Style Dimension: 53mm x 20mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:44Z
+  Updated: 2025-12-15T08:45:54Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1326,7 +1326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP10_a705f90e-d415-4c0a-aeb1-6f89675d691f.jpg?v=1765503454
     Price: $1,646.50 USD
 - [Real Gold 3D Heart Nameplate Necklace](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace): Make a bold statement of love with this luxurious Real Gold 3D Heart Nameplate Necklace, intricately designed with two tones and diamond-cut lettering. The eye-catching wave pattern showcases a big heart with an option to add a vibrant red stones cz, creating a Valentine's Day-worthy showstopper for the perfect romantic gift. Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 51mm x 26mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:35Z
+  Updated: 2025-12-15T08:45:57Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1356,14 +1356,14 @@
     Availability: Available
     Price: $2,686.50 USD
 - [Gold Personalized Necklace Name Plate](https://www.nameplatedepot.com/products/gold-personalized-necklace-name-plate): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 55mm x 22mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:36Z
+  Updated: 2025-12-15T08:45:58Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP21_425e045a-440a-4236-8fab-8aab1c0c7cb0.jpg?v=1765503455
   Price: $1,828.50 USD
 - [Two Heart Nameplate Necklace](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold): Give your loved one a special birthday gift they won't forget with this two heart nameplate necklace! A real golden heart with their birthstone, plus a customized nameplate diamond cut design to sparkle.- it'll have them glowing brighter than the sun! Get it today and show your appreciation like never before! (!!) Specs: Type: Double 3D Style Dimension: 35mm x 13mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:40Z
+  Updated: 2025-12-15T08:46:03Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1391,7 +1391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP31.jpg?v=1765503459
     Price: $1,282.50 USD
 - [10K / 14K Gold Double Personalized Necklace with Heart](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart): Turn some heads with this 10K/14K Gold Double Personalized Necklace with Heart! This sparkly beauty features a diamond accent design, a wave design under each name, and double 3D design for an extra cool look. Perfect for layering with any outfit and letting the world know there are two special people in your life. Real gold for a real impact. Don't go unnoticed! Layering Tip: A summer afternoon picnic, a beachside brunch, or an evening date, the 3D Nameplate Necklace paired with a Floral Summer Dress will keep you shining bright. Remember, when it comes to fashion, it's all about expressing yourself and having fun! So don't be afraid to experiment with different looks and layering styles. Embrace this delightful blend of personalized luxury and summer fun with our 3D Nameplate Necklace. It's not just a piece of jewelry, it's your story, your style, your statement! Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 45mm x 19mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:40Z
+  Updated: 2025-12-15T08:46:08Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1427,7 +1427,7 @@
     Availability: Available
     Price: $2,554.50 USD
 - [3D Nameplate Necklace with Bird & Heart](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart): Show your love for NYC with this stunning 3D Nameplate Necklace with Bird & Heart! Our classic diamond-cut gold nameplate is elevated with a detailed bird and heart design, for an extra touch of sparkle and style. It's the perfect way to declare your heart belongs to the Big Apple! Dazzle friends and family with a unique expression of love. With its timeless silhouette and stylish details, this necklace will have you looking your best - from the City That Never Sleeps! Specs: Type: Double 3D Style Dimension: 40mm x 18mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:42Z
+  Updated: 2025-12-15T08:46:10Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1445,7 +1445,7 @@
     Availability: Available
     Price: $1,882.50 USD
 - [Two Tone Nameplate Necklace with at Bow](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow): Add a touch of sparkle to your neckline with this two tone nameplate necklace! You'll love the chic 3D design with its engraved ribbon-like detail underlining your name, creating a fashionable and designer look. When you want a trendy piece of jewelry without spending a fortune, this bow-tied necklace is the perfect choice! Specs: Type: Double 3D Style Dimension: 40mm x 18mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:45Z
+  Updated: 2025-12-15T08:46:13Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1463,7 +1463,7 @@
     Availability: Available
     Price: $1,882.50 USD
 - [Big Small Letter Nameplate Necklace Two Tone in 10K / 14K Gold](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold): Introducing our San Diego Sun-kissed Big & Small Letter Nameplate Necklace - an enchanting embodiment of San Diego's vibrant spirit, vivacious waves, and golden sunsets. This unique two-tone, double plated necklace, handcrafted from the finest real gold, is a tribute to your name and the lively city we all adore.The distinctive design showcases a blend of big and small personalized letters, artistically arranged to create a nameplate necklace that's as fun and unique as the city's iconic surf culture. The two-tone gold design adds a striking contrast, elevating the necklace's aesthetic appeal while echoing the diverse, golden hues of a San Diego sunset.Adding a playful twist is our double plated design, which lends depth and dimension to your piece. What's more, the nameplate is carved into an enchanting wave design, capturing the essence of the Pacific's invigorating waves crashing against the San Diego shores.Styling Tip:Get ready to turn heads at the beach or on a downtown stroll by pairing this delightful piece with our Minimalist Summer Dress. The dress's simple lines and cool comfort offer the perfect canvas to let your two-tone nameplate necklace truly shine.Layering Tip:Begin with your Big & Small Letter Nameplate Necklace. Add a shorter, delicate gold chain and a longer pendant necklace to achieve a fashionable layered look. Each piece brings out the others' beauty, mirroring the layers of a San Diego sunset against the Minimalist Summer Dress.With the Big & Small Letter Nameplate Necklace and the Minimalist Summer Dress, your style will shine brighter than a San Diego sunbeam. Get ready to make waves, just like the city itself, every time you step out! Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 45mm x 17mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:45Z
+  Updated: 2025-12-15T08:46:16Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1484,7 +1484,7 @@
     Availability: Available
     Price: $2,261.50 USD
 - [Custom 3D Nameplate Necklace with Birthstone Heart](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace): Treat yourself (or someone else!) to the perfect present with this Custom 3D Nameplate Necklace with Birthstone Heart. Not only will you or your loved one be able to wear your unique name proudly, but with the durable construction and customizable birthstone on heart, it's sure to become a treasured heirloom. It's the gift that lasts a lifetime! Specs: Type: Double 3D Style Dimension: 38mm x 21mm. Total length depends on number of letter
-  Updated: 2025-12-12T01:37:46Z
+  Updated: 2025-12-15T08:46:34Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1601,7 +1601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP36_f5a6048f-c778-4344-aafe-d4d987bf2c86.jpg?v=1765503465
     Price: $1,882.50 USD
 - [3D Name Plate Necklace with Heart](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart): Treat that special someone to love and NYC-style bling with this sparkling 3D Name Plate Necklace with Heart. Add a personalized name to the diamond cut plate, complete with a dainty engraved heart design, for a truly unique present. Make sure your wife or girlfriend sparkles from head to toe like the Big Apple! Specs: Type: Double 3D Style Dimension: 41mm x 19mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:46Z
+  Updated: 2025-12-15T08:46:38Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1622,7 +1622,7 @@
     Availability: Available
     Price: $1,388.50 USD
 - [Gold Big Size Nameplate Necklace with Tail](https://www.nameplatedepot.com/products/gold-big-size-nameplate-necklace-with-tail): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 42.5mm x 23mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:51Z
+  Updated: 2025-12-15T08:46:40Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1637,7 +1637,7 @@
     Availability: Available
     Price: $2,846.50 USD
 - [Our Everlasting Love: 3D Name Plate Necklace in 10K / 14K Gold](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold): Our Everlasting Love Nameplate Necklace serves as a beautiful reminder of the ones we hold dear. Expertly personalized and custom-made, this piece features a diamond-accented name and heart, and hearts with wings on both sides underneath the name. Designed as a tangible symbol of remembrance, this personalize name necklace elegantly embodies love, loss, and the strength to carry on. The heart, adorned with a twinkling diamond accent, symbolizes your undying love, while the wings represent a soaring spirit, free and unbound. Handcrafted with meticulous care, the nameplate features a custom name of your choosing. Each letter, outlined in shimmering diamond accents, brings a luxurious touch to this sentimental piece. Styling Tip: Pair this exquisite piece with our minimalist summer dress to create a look that is both simple and profound. The simplicity of the dress allows the intricate details of the necklace, from the diamond accents to the unique heart and wings design, to take center stage. Layering Tip: Begin with the Everlasting Love Nameplate Necklace as your base. Add a shorter, delicate chain with a small pendant and a longer chain for an eye-catching layered look. This balanced combination of lengths will create a visually appealing layered look, further emphasizing the nameplate necklace's unique features. Whether a keepsake for yourself or a gift for someone going through a loss, this Everlasting Love Nameplate Necklace serves as a loving tribute and a gentle reminder of the love and memories that endure. It's a symbol of love that continues to shine, just like the diamond accents adorning it. Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 45mm x 19mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:51Z
+  Updated: 2025-12-15T08:46:47Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1688,7 +1688,7 @@
     Availability: Available
     Price: $2,368.50 USD
 - [Personalized Double Plate 3D Name Necklace](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace): Show 'em who's boss with this unique 3D Name Necklace! Customize it with your own name and an underline, heart, and diamond for extra pizzazz. Specs: Type: Double 3D Style Dimension: 40mm x 20mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:51Z
+  Updated: 2025-12-15T08:46:52Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1718,7 +1718,7 @@
     Availability: Available
     Price: $2,046.50 USD
 - [Curved 3D Diamond Nameplate Pendant in Solid Gold & Diamonds](https://www.nameplatedepot.com/products/diamond-heart-necklace): Get this curved nameplate necklace personalized in solid gold 10K &amp; 14K and add diamonds to any name.
-  Updated: 2025-12-12T01:37:57Z
+  Updated: 2025-12-15T08:47:20Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1874,7 +1874,7 @@
     Availability: Available
     Price: $1,731.50 USD
 - [Gold Big 3D Double Plated CZ Nameplate Necklace with Crown](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 43mm x 12mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:55Z
+  Updated: 2025-12-15T08:47:24Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1901,7 +1901,7 @@
     Availability: Available
     Price: $1,500.50 USD
 - [Valentines Ruby Hearts Nameplate Necklace for Women](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women): This Valentines Ruby Hearts Nameplate Necklace is your passport to a posh look. Featuring two hearts, you can customize it with your name and even add a ruby birthstone or any other colored stones for that extra sparkle. Who needs Cupid when you have this personalized necklace? Whether you're going on a romantic date or grabbing drinks with your pals, this necklace will be a conversation starter and the perfect accessory to complete your look. Get ready to show off your bling and turn heads no matter what you're up to! Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 41mm x 27mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:58Z
+  Updated: 2025-12-15T08:47:29Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1928,7 +1928,7 @@
     Availability: Available
     Price: $2,046.50 USD
 - [Los Angeles Love: 3D Dual Heart Nameplate Necklace in Real Gold with Diamond Cut Name and Birthstone](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women): The heart of Los Angeles fashion meets personalized luxury in our spectacular 3D Dual Heart Nameplate Necklace. Crafted in exquisite, real gold, this necklace celebrates your individuality and the City of Angels' trendsetting style with an unmistakable flair. This exclusive piece features two intertwining hearts that symbolize a connection that's deeper than the ocean and as radiant as the LA sun. The 3D effect enhances the hearts' depth, making them stand out beautifully. A diamond cut name of your choice sits proudly between the hearts, cut with precision and polished to perfection to reflect light and garner admiring glances wherever you go. But that's not all! Add a vibrant touch to your necklace with a birthstone of your choice. Each birthstone, with its unique color, adds a pop of playfulness and personality to your golden ensemble, making it truly your own. Styling Tip: Match this striking piece with our Bohemian Summer Dress to achieve an unparalleled look. The flowing lines of the dress, adorned with whimsical patterns, provide a stunning backdrop to the radiant gold and vibrant birthstone on your necklace. Layering Tip: Start with the 3D Dual Heart Nameplate Necklace. Then, add a minimal gold chain and a lariat necklace to complete the look. The layers, combined with the fluid design of the Bohemian Summer Dress, create a dynamic style that's both boho-chic and luxurious. The Dual Heart Nameplate Necklace paired with the Bohemian Summer Dress allows you to make the LA streets your runway! From the palm-lined streets to the sun-kissed beaches, let your style shine bright. Experience the joyful marriage of personalized fashion and summertime freedom with this beautiful ensemble! Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 45mm x 24mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:37:59Z
+  Updated: 2025-12-15T08:47:35Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1971,7 +1971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP44_ef9d3e38-e661-4a07-bf3f-fab36676f62e.jpg?v=1765503478
     Price: $3,175.50 USD
 - [Real Gold 3D Nameplate Neckalce with Back Plate](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-neckalce-with-back-plate): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 46mm x 18mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:01Z
+  Updated: 2025-12-15T08:47:37Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1983,7 +1983,7 @@
     Availability: Available
     Price: $3,600.50 USD
 - [Gold Butterfly Name Plate Necklace Big](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay): This elegant Gold Butterfly Name Plate Necklace Big is a luxurious fashion statement crafted from real gold for an unmistakably opulent finish. Featuring a custom 3D name and a two-tone design, the necklace is completed by an exquisite butterfly nestled beneath the name with a heart on either side. Make a beautiful and meaningful statement with this exclusive accessory. Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 50mm x 28mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:03Z
+  Updated: 2025-12-15T08:47:40Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2010,7 +2010,7 @@
     Availability: Available
     Price: $2,904.50 USD
 - [Miami Magic: Nameplate Necklace Double Plated in 10K / 14K Gold](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold): Bask in the Miami Magic with our Personalized Gold Nameplate Necklace, beautifully adorned with diamond accents and a heart-wave design, meticulously crafted to spell out your name in custom letters. This magnificent piece brings together the charm of Florida's sun-drenched city, the allure of real diamonds, and the tenderness of love, encapsulated in the symbol of a heart. Our artisans have captured the effervescence of Miami's energetic waves in the heart-wave design underneath your custom name. Each crest and trough of the wave design, graced with the brilliant sparkle of diamond accents, mirrors the shimmering Atlantic lapping the sandy shores of Miami beach. The personalized nameplate, designed with custom letters of your choice, embodies the uniqueness of you and the city that never sleeps. It's a keepsake of your love for the Magic City, customized with your name or that of a loved one, creating a unique connection between you and the city. Styling Tip: Create a fun and fashionable ensemble by pairing this radiant necklace with our Chic Summer Dress. Its elegant cut and trendy design set the perfect stage for the necklace, allowing the diamond accents and the unique heart-wave design to truly stand out. Layering Tip: For a layered look that adds depth and dimension to your outfit, start with the Diamond Accent Personalized Nameplate Necklace. Complement it with a simple choker and a longer, thin gold chain. The contrast of the layers will enhance the unique design of the nameplate and the Chic Summer Dress, creating a look that's undeniably you. With the Diamond Accent Personalized Nameplate Necklace and the Chic Summer Dress, you'll be dressed to impress, embodying the vibrant spirit of Miami wherever you go. It's more than just a necklace; it's a story of you and the city you love! Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 50mm x 24mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:09Z
+  Updated: 2025-12-15T08:47:48Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2059,7 +2059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1765503484
     Price: $2,751.50 USD
 - [Curssive 3D Nameplate Necklace](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace): Make a statement with our Curssive 3D Nameplate Necklace! Handcrafted with love and care, this double-plated delight adds sass and style to your look. Choose your metal and chain type, then personalize it with your 10-letter name (first letter capitalized) and get ready to experience jewelry nirvana! Heart-stoppingly unique, this necklace is sure to be the envy of all your friends. Classy cursive font most popular style with diamond cut letters. Specs: Type: Double 3D Style Dimension: 45mm x 12mm. Total length depends on number of letter Chain: Comes with 16 inches chain in main nameplate metal selected. Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:15Z
+  Updated: 2025-12-15T08:48:29Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2215,7 +2215,7 @@
     Availability: Available
     Price: $600.50 USD
 - [Celebrity Double Plated Name Necklace](https://www.nameplatedepot.com/products/real-gold-celebrity-double-plated-name-necklace-in-gold-overlay): Head-turning style with a personalized touch! This celebrity double plated name necklace is sure to stand out - with a unique 3D design and real gold plating, it'll have 'em doin' double-takes! Wave hello to your new favorite accessory, complete with a cursive font for that extra bit of ~drama~. Get ready to make an entrance (and exit!) like a true celebrity! Specs: Type: Double 3D Style Dimension: 45mm x 13mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:16Z
+  Updated: 2025-12-15T08:48:35Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2251,7 +2251,7 @@
     Availability: Available
     Price: $2,118.50 USD
 - [3D Block Nameplate Necklace](https://www.nameplatedepot.com/products/gold-3d-block-nameplate-necklace): Get personal with Nameplatedepot's block name necklace, crafted with diamond accent design set in gold of your choice 10K or 14K. Choose either your name, numbers, date and we'll create a gorgeous real gold nameplate necklace that you'll love. Perfect for everyday wear. No matter the occasion, you'll be looking luxe in no time. The combination of diamonds and gold will have you sparkling in style! Plus, you'll be able to show off your personalized piece, making it a unique accessory for every look. Specs: Type: Double 3D Style Dimension: 41mm x 13mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:24Z
+  Updated: 2025-12-15T08:48:42Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2299,7 +2299,7 @@
     Availability: Available
     Price: $1,611.50 USD
 - [Classic Name Necklace in 10K / 14K Gold](https://www.nameplatedepot.com/products/classic-name-necklace-in-10k-14k-gold): Make a statement with this classic name necklace. It's a real stunner in 10K/14K gold, tailored for you with a personalized touch. Perfectly simple and elegant, you'll be showing off your name in style! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 40mm x 12mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:26Z
+  Updated: 2025-12-15T08:49:00Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2406,7 +2406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP03_34975152-d791-47a2-ad84-933c0e02f591.jpg?v=1765503505
     Price: $959.50 USD
 - [Gold Large Personalized Name Necklace](https://www.nameplatedepot.com/products/gold-large-personalized-name-necklace): Make a grand statement with this glittering Gold Large Personalized Name Necklace! Featuring a stunning cursive name, this necklace is perfect for showing off your individuality. Customize it with a diamond accent to make it your own and stand out from the crowd. And don't forget, this beauty is made of real gold! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 17mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:46Z
+  Updated: 2025-12-15T08:49:05Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2442,7 +2442,7 @@
     Availability: Available
     Price: $1,186.50 USD
 - [Name Plate Necklace in 10K / 14K Gold](https://www.nameplatedepot.com/products/name-plate-necklace-in-10k-14k-gold): This custom-made nameplate necklace crafted from 10K or 14K gold is the perfect piece for an unforgettable date night. Showcasing a unique big design with an underline for a classic look, this iconic necklace is sure to capture the attention of everyone in the room. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 15mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:47Z
+  Updated: 2025-12-15T08:49:14Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2500,7 +2500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP09B_3bb9f9b7-9e26-4d42-a4ab-828e90e9541f.jpg?v=1765503526
     Price: $901.50 USD
 - [10K / 14K Gold Personalized Curssive Name Necklace](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-curssive-name-necklace): Lookin' for a way to show off your name in a classy way? Get your name around your neck with this 10K/14K personalized cursive gold necklace! With a classic and accent-perfect design, it's perfect for making your name shine on any everyday occasion. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 13mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:38:53Z
+  Updated: 2025-12-15T08:49:30Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2603,7 +2603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP10A_de521d1c-fdca-41fe-b985-1eca6ce9bbbb.jpg?v=1765503530
     Price: $1,208.50 USD
 - [Real Gold Block Name Necklace](https://www.nameplatedepot.com/products/real-gold-curssive-name-necklace): Add a timeless look to your wardrobe with this luxurious Real Gold Block Name Necklace. Each stunning necklace is crafted with solid gold, allowing you to feature your chosen text or numbers in a classic block font. These necklaces come in a range of beautiful finishes, making them perfect for any special occasion. Wear yours to make your look truly unique. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 10mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:03Z
+  Updated: 2025-12-15T08:49:40Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2660,7 +2660,7 @@
     Availability: Available
     Price: $852.50 USD
 - [Gold Custom Name Necklace](https://www.nameplatedepot.com/products/gold-custom-name-necklace): Adorn yourself with this stunning Gold Custom Name Necklace! It is made of real gold and intricately engraved with your name written in a beautiful, cursive Carrie font, with a swirling tail and a heart. Perfect for any dress, and sure to dazzle! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 18mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:03Z
+  Updated: 2025-12-15T08:49:47Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2706,7 +2706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP12A_dbd69e0d-b84b-4847-a943-5d08321d7e9d.jpg?v=1765503542
     Price: $1,007.50 USD
 - [Personalized Classic Name Necklace in 10K / 14K Gold](https://www.nameplatedepot.com/products/personalized-classic-name-necklace-in-10k-14k-gold): This exquisite Personalized Classic Name Necklace in 10K or 14K Gold makes an unforgettable and stylish statement. Crafted with care and attention to detail, your necklace can include a special date or meaningful name to make a beautiful piece that your girl friend, or even your wife, will cherish for years to come. An ideal gift for any special occasion, this jewelry celebrates the special bond and love that you share with your loved one. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 15mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:05Z
+  Updated: 2025-12-15T08:49:54Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2760,7 +2760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP12B_74f486fd-32b9-4359-a8ff-6c811e85d1f1.jpg?v=1765503545
     Price: $1,113.50 USD
 - [10K / 14K Gold Large Name Necklace Princess Style](https://www.nameplatedepot.com/products/10k-14k-gold-large-name-necklace-princess-style): Make a statement with this blinged-out princess style name necklace! Crafted in your choice of 10k or 14k gold, this radiant accessory features a custom name hand-cut with a hip hop flair, plus a bird heart tail and hand cut accents. So stylish, it’ll have you feelin’ like royalty! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 21mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:08Z
+  Updated: 2025-12-15T08:50:11Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2869,7 +2869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP13A_f01d849e-d304-4fd2-ab79-030e1f97a13b.jpg?v=1765503547
     Price: $1,345.50 USD
 - [Real Gold Styled Name Necklace](https://www.nameplatedepot.com/products/real-gold-styled-name-necklace): Make a statement with this exclusive Real Gold Styled Name Necklace - a personalized accessory crafted with a wave design on top and bottom of your chosen name or word, hand-finished with delicate accent works. Elevate your ensemble to a luxurious level and take your look from day to night with this beach-ready piece of real gold. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 17mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:10Z
+  Updated: 2025-12-15T08:50:21Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2931,7 +2931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP14B_a9fb8ae2-2a6b-4408-b64b-3775564d8bc2.jpg?v=1765503550
     Price: $989.50 USD
 - [Gold Two Name Necklace with Heart](https://www.nameplatedepot.com/products/gold-two-name-necklace-with-heart): This luxurious Gold Two Name Necklace with Heart is the perfect way to express your love. With two names beautifully set top to bottom in a diamond-cut cursive script, the wife or partner of your choice can carry your undying devotion with them wherever they go. The names are inseparable, reminding them of the unbreakable bond of love between you. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 41mm x 24mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:13Z
+  Updated: 2025-12-15T08:50:24Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2958,7 +2958,7 @@
     Availability: Available
     Price: $1,266.50 USD
 - [Gothic Name Necklace with All Capital Letters in 10K / 14K Gold](https://www.nameplatedepot.com/products/gothic-name-necklace-with-all-capital-letters-in-10k-14k-gold): This luxurious Gothic Name Necklace with All Capital Letters is sure to delight and impress with its intricate design and exquisite craftsmanship. Expertly crafted with 10K or 14K gold, this stunning piece is custom engraved with a block font of all capital letters, creating a timeless yet contemporary look. With its distinguished aesthetic, this necklace will be the new statement piece to add a special touch to your wardrobe. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 50mm x 13mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:19Z
+  Updated: 2025-12-15T08:50:34Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -3021,7 +3021,7 @@
     Availability: Available
     Price: $914.50 USD
 - [Large Custom Name Necklace with Flower & Accents](https://www.nameplatedepot.com/products/10k-14k-gold-large-custom-name-necklace-with-flower-accents): This custom name necklace is a floral-accented name-dropper! Dress it up with and get ready to call the paparazzi - your personalized masterpiece will be sure to turn heads! Layering has never looked this good. Make a statement this summer! This timeless accessory is the perfect way to show off your unique style. Enjoy the summer weather as you show off your custom creations with confidence. Express yourself and stand out from the crowd. This fashionable accessory is one you won't want to pass up! Specs: Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 56mm x 27mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:20Z
+  Updated: 2025-12-15T08:50:40Z
   Vendor: Nameplatedepot
   Product Type: Hip Hop
   Availability: Available
@@ -3061,7 +3061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP36_4ff93873-a986-4abe-9cba-ec83787a0b8a.jpg?v=1765503559
     Price: $946.50 USD
 - [Real Gold Old English Name Necklace](https://www.nameplatedepot.com/products/real-gold-old-english-name-necklace): Crafted with real gold and the gothic font of the classic Old English, this custom name necklace is sure to add sophistication and elegance to your wardrobe. The thin underline below the name adds an extra pop of personality, while the accents on the letter draw attention to the fine details. Add a touch of luxury and refinement to your style with this timeless name necklace. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 49mm x 16mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:22Z
+  Updated: 2025-12-15T08:50:52Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -3129,7 +3129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP37_a1e2fcf5-ece6-4f1b-b8be-154fee92d00f.jpg?v=1765503562
     Price: $1,153.50 USD
 - [Gold Name Necklace with Design](https://www.nameplatedepot.com/products/gold-name-necklace-with-design): This intricately crafted custom Gold Name Necklace with Design creates a striking look! Made with real gold and featuring your name, a heart, and a stylish underline, it's an elegant way to show your unique style. Stand out with class and beauty! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 13mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:25Z
+  Updated: 2025-12-15T08:50:54Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -3153,7 +3153,7 @@
     Availability: Available
     Price: $1,063.50 USD
 - [Custom Name Necklace with Heart on Top in 10K / 14K Gold](https://www.nameplatedepot.com/products/custom-name-necklace-with-heart-on-top-in-10k-14k-gold): Show your love with a custom made heart-topped necklace featuring your special someone's name. Crafted from 10K / 14K solid gold, this beautiful piece is the perfect heartfelt gift! Get yours today! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 36mm x 11mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:27Z
+  Updated: 2025-12-15T08:51:01Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -3199,7 +3199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP45_bdb5941d-0287-4e25-ac37-ee66eea3287f.jpg?v=1765503566
     Price: $1,282.50 USD
 - [Gold Curved Name Necklace with Heart & Accent](https://www.nameplatedepot.com/products/gold-curved-name-necklace-with-heart-accent): Adorn yourself with a beautiful custom name necklace made with real gold! Enjoy the elegant curved design and sparkling heart and accent that will draw envy from all your friends. Make a stunning statement with the Gold Curved Name Necklace with Heart & Accent! Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Finish: Polish Finish or Brushed Satin Finish with Accents Dimension: 43mm x 23mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:39:40Z
+  Updated: 2025-12-15T08:51:06Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -3232,7 +3232,7 @@
     Availability: Available
     Price: $1,063.50 USD
 - [3D Princess Crown Nameplate Necklace](https://www.nameplatedepot.com/products/gold-3d-princess-crown-nameplate-necklace): Shop for Princess Crown Necklace that can be personalized with any name and made of real gold.
-  Updated: 2025-12-12T01:39:49Z
+  Updated: 2025-12-15T08:51:36Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -3388,7 +3388,7 @@
     Availability: Available
     Price: $1,742.50 USD
 - [Two Name Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-name-ring): Shop Two Name Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:39:50Z
+  Updated: 2025-12-15T08:51:38Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3403,7 +3403,7 @@
     Availability: Available
     Price: $2,150.50 USD
 - [Date Ring with Two Names & Birthstone Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/date-ring-with-two-names-birthstone): Shop Date Ring with Two Names & Birthstone made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:39:53Z
+  Updated: 2025-12-15T08:51:40Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3418,7 +3418,7 @@
     Availability: Available
     Price: $2,365.50 USD
 - [Personalized Two Name Ring with Birthstone Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-two-name-ring-with-birthstone): Shop Personalized Two Name Ring with Birthstone made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:39:55Z
+  Updated: 2025-12-15T08:51:42Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3433,7 +3433,7 @@
     Availability: Available
     Price: $2,259.50 USD
 - [Custom Made Two Name Ring  Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/custom-made-two-name-ring): Shop Custom Made Two Name Ring  made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:39:57Z
+  Updated: 2025-12-15T08:51:44Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3448,14 +3448,14 @@
     Availability: Available
     Price: $2,365.50 USD
 - [Couple Name Ring with Initials  Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/couple-name-ring-with-initials): Shop Couple Name Ring with Initials  made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:00Z
+  Updated: 2025-12-15T08:51:44Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/SR602.jpg?v=1765503599
   Price: $1,559.50 USD
 - [Two Finger Name Ring Curssive Font Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-finger-name-ring-curssive-font): Shop  Two Finger Name Ring Curssive Font made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:02Z
+  Updated: 2025-12-15T08:51:47Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3473,7 +3473,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Two Finger Name Ring Block Font Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-finger-name-ring-block-font): Shop Two Finger Name Ring Block Font made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:05Z
+  Updated: 2025-12-15T08:51:52Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -3500,7 +3500,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Engraved Name Two Finger Ring with Birthstone Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/engraved-name-two-finger-ring-with-birthstone): Shop Engraved Name Two Finger Ring with Birthstone made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:08Z
+  Updated: 2025-12-15T08:51:54Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -3521,7 +3521,7 @@
     Availability: Available
     Price: $170.00 USD
 - [Bar Name Ring 4mm Height Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/bar-name-ring-4mm-height): Shop Bar Name Ring 4mm Height made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:11Z
+  Updated: 2025-12-15T08:51:56Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -3536,7 +3536,7 @@
     Availability: Available
     Price: $179.00 USD
 - [Two Bar Name Ring 8mm Height Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-bar-name-ring-8mm-height): Shop Two Bar Name Ring 8mm Height made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:13Z
+  Updated: 2025-12-15T08:51:59Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -3557,7 +3557,7 @@
     Availability: Available
     Price: $209.00 USD
 - [NBA Style Name Initial Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/nba-style-name-initial-ring): Shop NBA Style Name Initial Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:16Z
+  Updated: 2025-12-15T08:52:02Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3582,7 +3582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IR203.jpg?v=1765503615
     Price: $267.00 USD
 - [Custom Initial Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/custom-initial-ring): Shop Custom Initial Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:21Z
+  Updated: 2025-12-15T08:52:06Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3610,7 +3610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IR204.jpg?v=1765503617
     Price: $179.00 USD
 - [Initial Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/initial-ring): Shop Initial Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:22Z
+  Updated: 2025-12-15T08:52:09Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3628,7 +3628,7 @@
     Availability: Available
     Price: $179.00 USD
 - [Diamond Cut Initial Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/diamond-cut-initial-ring): Shop Diamond Cut Initial Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:24Z
+  Updated: 2025-12-15T08:52:13Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3655,7 +3655,7 @@
     Availability: Available
     Price: $170.00 USD
 - [Custom Nameplate Ring with Diamond Cut Initial & Heart Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/custom-nameplate-ring-with-diamond-cut-initial-heart): Shop Custom Nameplate Ring with Diamond Cut Initial & Heart made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:32Z
+  Updated: 2025-12-15T08:52:18Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3688,7 +3688,7 @@
     Availability: Available
     Price: $189.00 USD
 - [Name Ring with Diamond Cut Initial & Tail Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/name-ring-with-diamond-cut-initial-tail): Shop Name Ring with Diamond Cut Initial & Tail made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:34Z
+  Updated: 2025-12-15T08:52:24Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3724,7 +3724,7 @@
     Availability: Available
     Price: $247.00 USD
 - [Block Font Name Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/block-font-name-ring): Shop Block Font Name Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:40Z
+  Updated: 2025-12-15T08:52:28Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3749,7 +3749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R125.jpg?v=1765503635
     Price: $180.00 USD
 - [Two Initial Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-initial-ring): Shop Two Initial Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:39Z
+  Updated: 2025-12-15T08:52:30Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3767,7 +3767,7 @@
     Availability: Available
     Price: $170.00 USD
 - [Two Heart Name Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-heart-name-ring): Shop Two Heart Name Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:44Z
+  Updated: 2025-12-15T08:52:32Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3789,7 +3789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R127.jpg?v=1765503643
     Price: $228.00 USD
 - [Curssive Font Name Ring with Birthstone Heart Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-font-name-ring-with-birthstone-heart): Shop Curssive Font Name Ring with Birthstone Heart made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:45Z
+  Updated: 2025-12-15T08:52:35Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3811,7 +3811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R128.jpg?v=1765503644
     Price: $170.00 USD
 - [Curssive Font with Swirl Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-font-with-swirl): Shop Curssive Font with Swirl made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:50Z
+  Updated: 2025-12-15T08:52:39Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3832,7 +3832,7 @@
     Availability: Available
     Price: $179.00 USD
 - [Custom Nameplate Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/custom-nameplate-ring): Shop Custom Nameplate Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:50Z
+  Updated: 2025-12-15T08:52:41Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3850,7 +3850,7 @@
     Availability: Available
     Price: $170.00 USD
 - [Personalized Nameplate Ring with Diamond Cut Heart Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-nameplate-ring-with-diamond-cut-heart): Shop Personalized Nameplate Ring with Diamond Cut Heart made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:55Z
+  Updated: 2025-12-15T08:52:43Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3865,7 +3865,7 @@
     Availability: Available
     Price: $170.00 USD
 - [Custom Name Ring Polished Finish Hearts Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/custom-name-ring-polished-finish-hearts): Shop Custom Name Ring Polished Finish Hearts made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:40:54Z
+  Updated: 2025-12-15T08:52:47Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3895,7 +3895,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Diamond Cut Name Ring with Hearts Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/diamond-cut-name-ring-with-hearts): Shop Diamond Cut Name Ring with Hearts made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:00Z
+  Updated: 2025-12-15T08:52:50Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3914,7 +3914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R134.jpg?v=1765503659
     Price: $379.00 USD
 - [Name Ring with Tail Design Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/name-ring-with-tail-design): Shop Name Ring with Tail Design made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:02Z
+  Updated: 2025-12-15T08:52:54Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3938,7 +3938,7 @@
     Availability: Available
     Price: $150.00 USD
 - [Gothic Name Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/gothic-name-ring): Shop Gothic Name Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:05Z
+  Updated: 2025-12-15T08:52:56Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3960,7 +3960,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R136.jpg?v=1765503664
     Price: $220.00 USD
 - [Big Name Ring with Diamond Cut Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/big-name-ring-with-diamond-cut): Shop Big Name Ring with Diamond Cut made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:07Z
+  Updated: 2025-12-15T08:53:00Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -3984,7 +3984,7 @@
     Availability: Available
     Price: $286.00 USD
 - [Name Ring with Diamond Cut Initial & Tail 12 mm Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/name-ring-with-diamond-cut-initial-tail-12-mm): Shop Name Ring with Diamond Cut Initial & Tail 12 mm made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:14Z
+  Updated: 2025-12-15T08:53:05Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4020,7 +4020,7 @@
     Availability: Available
     Price: $204.00 USD
 - [Big Nameplate Ring Diamond Cut 12mm Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/big-nameplate-ring-diamond-cut-12mm): Shop Big Nameplate Ring Diamond Cut 12mm made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:15Z
+  Updated: 2025-12-15T08:53:09Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4044,7 +4044,7 @@
     Availability: Available
     Price: $268.00 USD
 - [Big Nameplate Ring Block Font 12mm Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/big-nameplate-ring-block-font-12mm): Shop Big Nameplate Ring Block Font 12mm made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:18Z
+  Updated: 2025-12-15T08:53:12Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4065,7 +4065,7 @@
     Availability: Available
     Price: $224.00 USD
 - [Two Finger Ring 12 mm Big Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-finger-ring-12-mm-big): Shop Two Finger Ring 12 mm Big made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:20Z
+  Updated: 2025-12-15T08:53:18Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -4104,7 +4104,7 @@
     Availability: Available
     Price: $437.00 USD
 - [2 Finger Ring 12 mm Big Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/2-finger-ring-12-mm-big): Shop 2 Finger Ring 12 mm Big made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:23Z
+  Updated: 2025-12-15T08:53:20Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -4122,7 +4122,7 @@
     Availability: Available
     Price: $286.00 USD
 - [Two Finger Name Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-finger-name-ring): Shop Two Finger Name Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:24Z
+  Updated: 2025-12-15T08:53:25Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -4152,7 +4152,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Two Finger Big Nameplate Ring Fully Loaded | Ring for 2 Fingers](https://www.nameplatedepot.com/products/two-finger-nameplate-ring): Shop Nameplate Ring made of solid gold 10K, 14K or Silver for two fingers. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:27Z
+  Updated: 2025-12-15T08:53:31Z
   Vendor: Nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -4192,7 +4192,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R227.jpg?v=1765503686
     Price: $545.00 USD
 - [Kids Name Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/kids-name-ring): Shop Kids Name Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:30Z
+  Updated: 2025-12-15T08:53:34Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4216,7 +4216,7 @@
     Availability: Available
     Price: $146.00 USD
 - [Kids Nameplate Ring with heart Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/kids-nameplate-ring-with-heart): Shop Kids Nameplate Ring with heart made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:30Z
+  Updated: 2025-12-15T08:53:37Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4231,7 +4231,7 @@
     Availability: Available
     Price: $116.00 USD
 - [Name Ring for Girls Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/name-ring-for-girls): Shop Name Ring for Girls made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:35Z
+  Updated: 2025-12-15T08:53:41Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4261,7 +4261,7 @@
     Availability: Available
     Price: $141.00 USD
 - [Kids Block Font Name Ring for Boys Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/kids-block-font-name-ring-for-boys): Shop Kids Block Font Name Ring for Boys made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:35Z
+  Updated: 2025-12-15T08:53:44Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4282,7 +4282,7 @@
     Availability: Available
     Price: $126.00 USD
 - [Two Initial Name Ring Block Font Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/two-initial-name-ring-block-font): Shop Two Initial Name Ring Block Font made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:41Z
+  Updated: 2025-12-15T08:53:47Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4300,7 +4300,7 @@
     Availability: Available
     Price: $136.00 USD
 - [Nameplate Ring with Heart & Diamond Cut Tail Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/nameplate-ring-with-heart-diamond-cut-tail): Shop Nameplate Ring with Heart & Diamond Cut Tail made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:42Z
+  Updated: 2025-12-15T08:53:52Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4340,7 +4340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R824.jpg?v=1765503701
     Price: $220.00 USD
 - [Customized Nameplate Ring with Cz Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/customized-nameplate-ring-with-cz): Shop Customized Nameplate Ring with Cz made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:41:46Z
+  Updated: 2025-12-15T08:53:57Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4367,7 +4367,7 @@
     Availability: Available
     Price: $179.00 USD
 - [Script 14K Gold Name Necklace](https://www.nameplatedepot.com/products/script-14k-gold-name-necklace): Personalize 14 karat pure gold name necklace in yellow, white & rose color. This running font in high polished look. Comes with 14 ct gold chain. Create your own name necklace on gold that will last forever today. Specs: Metal: Real Solid Gold 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: .5 - 10mm / 0.2"-0.4" Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:41:50Z
+  Updated: 2025-12-15T08:54:21Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -4553,7 +4553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Olivia_Name_Necklace.jpg?v=1765503709
     Price: $488.50 USD
 - [Carrie Bradshaw Name Necklace 14 Karat Gold](https://www.nameplatedepot.com/products/carrie-14k-gold-name-necklace): This luxurious Carrie Bradshaw Name Necklace 14 Karat Gold is the perfect way to celebrate your favorite movie.
-  Updated: 2025-12-13T23:56:06Z
+  Updated: 2025-12-15T08:55:02Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -4709,7 +4709,7 @@
     Availability: Available
     Price: $609.50 USD
 - [Gold Customized Nameplate Ring with Cz 8mm](https://www.nameplatedepot.com/products/customized-nameplate-ring-with-cz-r825-gld): Nameplate ring is guaranteed to receive some 'oohs and aahs'. A delicate tail studded with sparkling stone set over rhodium diamond cut will make any name stand out. This ring is the perfect addition to your treasure trove of rings and looks beautiful on anyone's finger. Specs: Ring Height: 8 MM Comes with 5 cubic zirconia. Option to add more crystals or genuine diamonds all over ring from drop down above Metal: Real Gold 10K or 14K.
-  Updated: 2025-12-12T01:41:59Z
+  Updated: 2025-12-15T08:55:06Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4737,7 +4737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R825_af43f2c8-ca24-4df9-a99a-f1d4ecbf7c97.jpg?v=1765503718
     Price: $1,587.50 USD
 - [Gold Nameplate Ring with Heart & Diamond Cut Tail  8mm](https://www.nameplatedepot.com/products/nameplate-ring-with-heart-diamond-cut-tail-r824-gld): This dainty heart name ring with sparkling stone set on rhodium cut tail is an adorable design to express your personality. Specs: Ring Height: 8 MM Comes with 3 cubic zirconia. Option to add more crystals or genuine diamonds all over ring from drop down above Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:01Z
+  Updated: 2025-12-15T08:55:13Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4779,7 +4779,7 @@
     Availability: Available
     Price: $1,258.50 USD
 - [Gold Kids Two Initial Name Ring Block Font - 6mm](https://www.nameplatedepot.com/products/two-initial-name-ring-block-font-r611-kids-gld): Impress your little one with this precious two initial name ring, crafted in genuine gold. Perfectly scaled to fit their little finger, this ring is the perfect way to make them feel both unique and special. Enhanced with a novel block font, your child will love this elegant piece of jewelry. Specs: Ring Height: 6 MM Option to add crystals or genuine diamonds all over ring from drop down above Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:04Z
+  Updated: 2025-12-15T08:55:15Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4794,7 +4794,7 @@
     Availability: Available
     Price: $1,023.50 USD
 - [Kids Block Font Name Ring for Boys in Gold 6mm](https://www.nameplatedepot.com/products/kids-block-font-name-ring-for-boys-r610-kids-gld): Fun, fashionable and destined to stand out, this block font name ring for boyz can be personalized with any name. Specs: Ring Height: 6 MM Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:06Z
+  Updated: 2025-12-15T08:55:22Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4840,7 +4840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R610-Kids_35a300ca-c56b-47bf-b394-1886ee207acf.jpg?v=1765503725
     Price: $696.50 USD
 - [Gold Petite Name Ring for Girls 6mm](https://www.nameplatedepot.com/products/name-ring-for-girls-r609-kids-gld): This petite name ring for girls is the epitome of luxury and style. Its 6mm design is finely crafted with a minimalistic underline, making it a perfect accessory for any occasion. Enjoy the timeless beauty of gold with this exquisite and tasteful ring. Specs: Ring Height: 6 MM Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:08Z
+  Updated: 2025-12-15T08:55:24Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4858,7 +4858,7 @@
     Availability: Available
     Price: $808.50 USD
 - [Kids Nameplate Ring with heart 10/14 Gold 6mm](https://www.nameplatedepot.com/products/kids-nameplate-ring-with-heart-r608_kids-gld): Adorned with a heart silhouette, this petite Kids Nameplate Ring crafted from 10K gold is a perfect present for a little girl that will stay with her for years to come. The 6mm size is ideal for small hands, making this piece of jewelry fit for even the youngest of wearers. An exquisite piece to treasure and pass on. Specs: Ring Height: 6 MM Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:10Z
+  Updated: 2025-12-15T08:55:28Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4885,7 +4885,7 @@
     Availability: Available
     Price: $1,023.50 USD
 - [Kids Name Ring in Real Gold](https://www.nameplatedepot.com/products/kids-name-ring-r607-kids-gld): Designed with luxurious real gold, this Kids Name Ring is the perfect way to give your little one an elegant piece of jewelry that's as unique as they are. Crafted with a polished finish, the personalized ring is adorned with a vibrant, cursive name for a timeless look. Perfect for those special occasions and extra special moments. Specs: Dimension: .23 inch height by 1 inch wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:13Z
+  Updated: 2025-12-15T08:55:33Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4923,7 +4923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R607-Kids_0bb422c9-59cb-40bf-aff8-75cc6bbffe63.jpg?v=1765503732
     Price: $1,023.50 USD
 - [Gold Two Finger Big Nameplate Ring Fully Loaded 12mm](https://www.nameplatedepot.com/products/nameplate-ring-r227-gld): Custom nameplate ring is guaranteed to receive some 'oohs and aahs' as the name have an option to cover with sparkling stones set on rhodium cut. Rhodium is metal that is 15 times more expensive than gold. Amp up your style today and feel fearless with our two finger ring with name, customized with script font and name of your choice. It measures approx 1/2 inch height by 1 1/2 inch wide. Be the envy of all your friends with this chic, rhodium-adorned two-finger ring – because you're worth it! Whether you're off to the office or hitting the town, you can show off your style and your name with a bling-filled accessory. Stack it up or keep it solo, this custom-made sparkler will add an extra oomph to your look. Specs: Dimension: 1/2 inch height by 1 1/2 inch wide approx Option to add crystals or genuine diamonds all over ring from drop down above Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:14Z
+  Updated: 2025-12-15T08:55:37Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -4952,7 +4952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R227_398d9507-3015-4312-bbae-3936b394f52a.jpg?v=1765503734
     Price: $2,365.50 USD
 - [Gold Personalized  Double Finger Name Ring 12mm](https://www.nameplatedepot.com/products/two-finger-name-ring-r226-gld): Shop the exquisite double finger name ring in graffiti font and design with high craftsmanship. Create unique ghotic script ring that can be personalized with any name. Design your own version of this name ring by customizing it with the name of your choice, three to twelve letters in length. It measures approx 1/2 inch height by 1 1/2 inch wide. It's a one-of-a-kind piece with some serious wow-factor—sure to make heads turn! Perfect for infusing any wardrobe with a touch of pizzazz. Specs: Dimension: 1/2 inch height by 1 1/2 inch wide approx Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:17Z
+  Updated: 2025-12-15T08:55:42Z
   Vendor: nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -4985,7 +4985,7 @@
     Availability: Available
     Price: $3,223.50 USD
 - [Gold 2 Finger My Name Ring with Block Capital Letters 12mm](https://www.nameplatedepot.com/products/2-finger-ring-12-mm-big-r225-gld): Two finger Name Ring with block letters. Just spell any name and we'll do the rest . All letters will be capitalized, one name per ring. Rhodium cut design to give it diamond accent. It measures approx 1/2 inch height by 1 1/2 inch wide. With this custom gold name ring, you'll be the life of the party! Show off amazing style and your unique name at the same time. Specs: Dimension: 1/2 inch height by 1 1/2 inch wide approx Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:18Z
+  Updated: 2025-12-15T08:55:45Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5003,7 +5003,7 @@
     Availability: Available
     Price: $3,440.50 USD
 - [Gold Custom Two Finger Ring 12 mm Big](https://www.nameplatedepot.com/products/two-finger-ring-12-mm-big-r224-gld): Personalized double finger Name Ring with with cursive font. First initial and tail diamond cut. Just spell any name and we'll do the rest . It measures approx. 1/2 inch height by 1 1/2 inch wide. It's the perfect way to show your style and make a personal statement! Send a subtle signal to the world with this real gold ring - you're one-of-a-kind and not afraid to show it! Specs: Dimension: 1/2 inch height by 1 1/2 inch wide approx. Default finish is first initial & tail diamond cut. Option to add crystals or genuine diamonds all over ring from drop down above Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:20Z
+  Updated: 2025-12-15T08:55:53Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5052,7 +5052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R224_09ac92cd-1290-44c8-960d-b366aea1644d.jpg?v=1765503739
     Price: $3,430.50 USD
 - [Gold 10K / 14K Gold Big Nameplate Ring Block Font 12mm](https://www.nameplatedepot.com/products/big-nameplate-ring-block-font-12mm-r222-gld): Personalized name ring to make a fashion statement. Ring is amazing for special event or for every day wear. First letter is studded with stones and rest of the name in polished finish. It measures approx 1/2 inch height by 1 inch wide. Specs: Dimension: 1/2 inch height by 1 inch wide approx Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:21Z
+  Updated: 2025-12-15T08:55:59Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5094,7 +5094,7 @@
     Availability: Available
     Price: $1,440.50 USD
 - [Gold Big Nameplate Ring Diamond Cut 12mm](https://www.nameplatedepot.com/products/big-nameplate-ring-diamond-cut-12mm-r221-gld): Personalized this big gold ring with your desired names in curssive font and it will be handmade just for you. Diamond accent design that makes it stand out. It measures approx 1/2 inch height by 1 inch wide. Specs: Dimension: 1/2 inch height by 1 inch wide approx Diamond accent design with option to add stones cz Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:22Z
+  Updated: 2025-12-15T08:56:02Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5115,7 +5115,7 @@
     Availability: Available
     Price: $3,078.50 USD
 - [Gold Name Ring with Diamond Cut Initial & Tail 12 mm](https://www.nameplatedepot.com/products/name-ring-with-diamond-cut-initial-tail-12-mm-r220-gld): Personalized this big solid gold ring with your desired names in curssive font with first letter and tail with heart diamond cut to make it stand out. This ring is perfect for if you want a bigger design or want it stand out on your finger. It measures approx 1/2 inch height by 1 inch wide. Specs: Dimension: 1/2 inch height by 1 inch wide approx Diamond accent design with option to add genuine diamnds or sparkling cz crystals Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:24Z
+  Updated: 2025-12-15T08:56:09Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5163,7 +5163,7 @@
     Availability: Available
     Price: $1,428.50 USD
 - [Solid Gold ame Ring Diamond Cut  12mm](https://www.nameplatedepot.com/products/big-name-ring-with-diamond-cut-r219-gld): Custom made ring with your name sparkle in curssive font. Ring is diamond cut to enhance the sparkle of name. Perfect for evening out or red carpet. It measures approx 1/2 inch height by 1 inch wide. Specs: Dimension: 1/2 inch height by 1 inch wide approx Option to add crystals or genuine diamonds all over ring from drop down above Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:25Z
+  Updated: 2025-12-15T08:56:14Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5197,7 +5197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R219_f748ff76-36a7-4501-bd4c-eb53fc9609b6.jpg?v=1765503745
     Price: $3,081.50 USD
 - [Gothic Name Ring 10mm in Real Gold](https://www.nameplatedepot.com/products/gothic-name-ring-r136-gld): Unique nameplate ring with gothic font makes the letter stand out. Comes in polished finish and all capital letters. You can choose up to 8 letters. It measures approximately 1 inch wide x 0.38 inch height. Made of real gold. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Comes with polish finish with option to add diamond cut, cz stones or genuine diamonds Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:28Z
+  Updated: 2025-12-15T08:56:20Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5230,7 +5230,7 @@
     Availability: Available
     Price: $2,415.50 USD
 - [Name Ring with Tail Design 10mm in Solid Gold](https://www.nameplatedepot.com/products/name-ring-with-tail-design-r135-gld): This personalized name ring features a bold script that proudly pronounces your personalization on a wider band. The smooth polish style lettering is highlighted by tail with heart in middle. Design your own version of this name ring. It measures approx. 0.38 inches height and 1 inches wide. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Comes with polish finish with option to add diamond cut, cz stones or genuine diamonds Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:28Z
+  Updated: 2025-12-15T08:56:25Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5263,7 +5263,7 @@
     Availability: Available
     Price: $1,163.50 USD
 - [Diamond Cut Name Ring with Birthstone Hearts 10mm in Solid Gold](https://www.nameplatedepot.com/products/diamond-cut-name-ring-with-hearts-r134-gld): Make her day with this stunning Women's Birthstone Name Ring. It makes a lovely gift on Mother's Day, birthdays, holiday and more. This name ring features customizable letters in polished finish and tail made up of five hearts that can carry elegant birthstones if provided else it will carry clear cz . If your name contains letter i then it will be studded with a stone. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Stones: 6 CZ stones included in price, option to add more genuine diamonds or more cz stones Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:42:31Z
+  Updated: 2025-12-15T08:56:32Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5311,7 +5311,7 @@
     Availability: Available
     Price: $1,186.50 USD
 - [Gold Custom Name Ring Polished Finish Hearts 10mm](https://www.nameplatedepot.com/products/custom-name-ring-polished-finish-hearts-r133-gld): Wear your favorite custom name in style with this personalized Name Ring. It featurs a classic script font in polished finish with 5 hearts below it. This stunning personalized ring is truly individualized to you and your liking, making it a one of a kind piece. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:33Z
+  Updated: 2025-12-15T08:56:37Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5341,7 +5341,7 @@
     Availability: Available
     Price: $1,163.50 USD
 - [Gold Personalized Nameplate Ring with Birthstone Hearts 10mm](https://www.nameplatedepot.com/products/personalized-nameplate-ring-with-diamond-cut-heart-r132-gld): This birthstone name ring is eye catching and long lasting, making it an outstanding gift for yourself or or a special person in your life. This custom made name ring is forged from solid gold with Rhodium cut to give it sparkle. Unique engagement / wedding ring for couple that can be cheerised for years to come. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 2 Clear CZs by default or pur your birthstone and we will add corresponding stones. Option to add extra crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:39Z
+  Updated: 2025-12-15T08:56:46Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5405,7 +5405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/name-ring.jpg?v=1765503755
     Price: $1,164.50 USD
 - [Gold Custom Birthstone Nameplate Ring 10mm](https://www.nameplatedepot.com/products/custom-nameplate-ring-r131-gld): This exquisite 10mm Gold Custom Birthstone Nameplate Ring is a timeless treasure crafted from solid gold and graced with a personalized name of choice. Expertly custom made with a flow design and underline, the ring is set with a choice of birthstone and polished to perfection for a luxurious finish. A bespoke epitome of elegance and sophistication. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 1 Birthstone CZs by default. Just provide your birthmonth Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:39Z
+  Updated: 2025-12-15T08:56:50Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5432,7 +5432,7 @@
     Availability: Available
     Price: $1,130.50 USD
 - [Gold Curssive Font with Swirl 10mm](https://www.nameplatedepot.com/products/curssive-font-with-swirl-r130-gld): This beautiful and elegant 10mm gold name ring with a luxurious cursive font and swirling details is perfect for making a statement. Skillfully crafted with a polished finish and optional diamonds or cz stones, it's a timeless piece that will make you stand out in a crowd. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:43Z
+  Updated: 2025-12-15T08:56:54Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5453,7 +5453,7 @@
     Availability: Available
     Price: $1,269.50 USD
 - [Curssive Font Name Ring with Birthstone Heart  10mm in Gold](https://www.nameplatedepot.com/products/curssive-font-name-ring-with-birthstone-heart-r128-gld): Declare your specialness with this luxuriously crafted gold name ring, custom-made with a unique cursive-style font and embellished with a sparkling birthstone heart. 10mm in size, its artful design adds flair - alone or when layered with other rings. A true treasure to show off your personal style. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 1 Birthstone CZs. Just provide your birthmonth Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:44Z
+  Updated: 2025-12-15T08:56:57Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5477,7 +5477,7 @@
     Availability: Available
     Price: $1,186.50 USD
 - [Gold Two Heart Name Ring for Anniversary  10mm](https://www.nameplatedepot.com/products/two-heart-name-ring-r127-gld): The Gold Two Heart Name Ring for Anniversary 10mm is the perfect way to show your devotion and immortalize your union. This exquisite name ring is crafted from the finest solid gold and boasts two glistening hearts with diamond cut details that encase your name and provide a stunning stand out design. This truly unique piece is an ideal anniversary gift. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 2 Birthstone CZs. Just provide your birthmonths Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:47Z
+  Updated: 2025-12-15T08:57:01Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5502,7 +5502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R127_748f49ca-de53-4816-a6f0-f5a3d7b5ef1b.jpg?v=1765503766
     Price: $1,130.50 USD
 - [Solid Gold Two Initial Ring  10mm](https://www.nameplatedepot.com/products/two-initial-ring-r126-gld): This Solid Gold Two Initial Ring is the perfect accessory for the modern man or woman. Crafted from 10mm real gold, this luxurious ring boasts two initials in bold, block font, and is sure to make a statement. Treat yourself or someone special to this exclusive item, perfect for any occasion. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:47Z
+  Updated: 2025-12-15T08:57:05Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5533,7 +5533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R126_ab070235-d41a-42c7-826c-9d129bd63ed8.jpg?v=1765503766
     Price: $1,428.50 USD
 - [Real Gold Block Font Name Ring 10mm](https://www.nameplatedepot.com/products/block-font-name-ring-r125-gld): Crafted to perfection from real gold, this 10mm name ring features a luxurious block font, perfect for engraving your chosen text or number. Solidly built for a timeless, exclusive look, it's sure to become your go-to accessory for any occasion! Specs: Dimension: 10mm height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:53Z
+  Updated: 2025-12-15T08:57:15Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5601,7 +5601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R125_8cf4daa2-d81a-4ac1-b5cb-a49739f56c11.jpg?v=1765503769
     Price: $1,225.50 USD
 - [10K/14k Name Ring w/12 CZ Diamonds  10mm](https://www.nameplatedepot.com/products/name-ring-with-diamond-cut-initial-tail-r124-gld): Just a little bit—but careful my lovely—not too much. This Name Ring includes CZ Diamonds set to perfection and endorses the theme, not too much, but definitely not too little. Your first letter of your name or word is capitalized and encrusted with diamonds, preventing anyone else from ever reaching your level of fashionable class. Get on with it! Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 12 clear cz stones. Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:42:56Z
+  Updated: 2025-12-15T08:57:40Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5752,7 +5752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R124_f4317fb1-50b4-4624-8c08-7c556915d661.jpg?v=1765503775
     Price: $1,293.50 USD
 - [Custom Nameplate Ring with Diamond Cut Initial & Heart  10mm 10K/14k Gold](https://www.nameplatedepot.com/products/custom-nameplate-ring-with-diamond-cut-initial-heart-r123-gld): Dazzle in this custom name ring with option to diamond cut initial or full diamond cut on letters. If you are looking for diamond cut on entire letters just hit reply to confirmation email. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 10 clear cz stones. Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-14T22:47:10Z
+  Updated: 2025-12-15T08:57:56Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5860,7 +5860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R123_12f3e369-17b3-4b02-ae94-2ecd11af372f.jpg?v=1765503776
     Price: $1,500.50 USD
 - [Real Gold Diamond Cut Initial Ring 10mm](https://www.nameplatedepot.com/products/diamond-cut-initial-ring-r122-gld): This stunning 10mm initial ring from Real Gold is a sophisticated accessory crafted from premium solid gold. The precision diamond cut initial of your choice is enhanced with a classic cursive design, giving the piece a distinguished and timeless feel. The smooth polished finish adds an opulent touch, making it the perfect addition to any luxurious look. Specs: Dimension:10mm height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 5 clear cz stones in 1st initial with diamond accent. Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:43:03Z
+  Updated: 2025-12-15T08:58:02Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5893,7 +5893,7 @@
     Availability: Available
     Price: $1,558.50 USD
 - [Gold Initial Ring 10k  14k  - 12mm](https://www.nameplatedepot.com/products/initial-ring-ir205-gld): This deluxe Gold Initial Ring is exquisitely crafted in 10k or 14k solid gold for a truly timeless look. The raised initial stands out to create a unique, personalized piece that will be treasured for years to come. For an even more luxurious look, add diamonds to the ring for a sparkle that's sure to turn heads. Specs: Dimension: 0.5 inches height by .75 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:43:05Z
+  Updated: 2025-12-15T08:58:05Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5915,7 +5915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IR205_2880448b-ca8b-47cb-b87e-d44354b399df.jpg?v=1765503784
     Price: $2,366.50 USD
 - [Solid Gold Custom Initial Ring - 12mm](https://www.nameplatedepot.com/products/custom-initial-ring-ir204-gld): Capture the elegance of your initial with this 12mm Solid Gold Custom Initial Ring crafted from luxurious real gold. Refined with a polish finish, the ring offers a dazzling statement with the option to add diamonds for extra sparkle. Show off your name proudly with this timeless classic. Specs: Dimension: 0.5 inches height by .75 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:43:06Z
+  Updated: 2025-12-15T08:58:10Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5951,7 +5951,7 @@
     Availability: Available
     Price: $1,407.50 USD
 - [Solid Gold NBA Style Name Initial Ring - 12mm](https://www.nameplatedepot.com/products/nba-style-name-initial-ring-ir203-gld): Present a timeless statement of style and elegance with our Solid Gold NBA Style Name Initial Ring - 12mm. Crafted from exquisite solid gold and set with a sparkling diamond border, this big bold design is sure to add classic luxe to any outfit. Make this timeless piece yours for memories to last a lifetime. Specs: Dimension: 0.5 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 10 cz stones Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:43:09Z
+  Updated: 2025-12-15T08:58:16Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5987,7 +5987,7 @@
     Availability: Available
     Price: $2,816.50 USD
 - [Gold Engraved Two Finger Horizontal Bar Name Ring with Birthstone](https://www.nameplatedepot.com/products/two-bar-name-ring-8mm-height-tfg06-gld): Whether you want a name or inspirational word, this  horizontal bar engraved ring is made for you.&nbsp; You have an option birthstone stones of your choice on top bar, could be kids birth months or special someone.&nbsp; This horizonal bar ring sits on two fingers of your choice. Specs: Dimension: 8mm inches height by 1.25 inches wide approx. Metal: Real Solid Gold 10K or 14K Default clear sworski crystal, provide birthstone month in case you want different color.
-  Updated: 2025-12-12T01:43:15Z
+  Updated: 2025-12-15T08:58:18Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6005,7 +6005,7 @@
     Availability: Available
     Price: $1,400.50 USD
 - [Gold Engraved Bar Two Finger Name Ring 4mm with Birthstone](https://www.nameplatedepot.com/products/bar-name-ring-4mm-height-tfg05-gld): Be uniquely you with this personalized gold engraved two-finger name ring! Whether you want block letters, or a statement, you'll be rockin' that gold-star style with a real gold ring. And don't forget the birthstone - make it your statement-maker, for extra ~~bling-bling~~ dazzle! Specs: Dimension: 4mm inches height by 1.25 inches wide approx. Metal: Real Solid Gold 10K or 14K Default clear sworski crystal, provide birthstone month in case you want different color.
-  Updated: 2025-12-12T01:43:15Z
+  Updated: 2025-12-15T08:58:21Z
   Vendor: nameplatedepot
   Product Type: Engraved Ring
   Availability: Available
@@ -6023,7 +6023,7 @@
     Availability: Available
     Price: $1,400.50 USD
 - [Engraved Name Two Finger Ring with Birthstone in Real Gold](https://www.nameplatedepot.com/products/engraved-name-two-finger-ring-with-birthstone-tfg02-gld): Show off your style and that special someone with this dazzling two-finger ring! Crafted with real gold, it is engraved with a name and birthstone for an extra sparkle. Perfect for any occasion, this unisex stunner proves that true love knows no boundaries! This one-of-a-kind piece is the perfect way to show someone how much you care. Gift it as a reminder of your lasting love, and watch them sparkle with delight! Specs: Dimension: 7mm inches height by 1.25 inches wide approx. Metal: Real Solid Gold 10K or 14K Default clear sworski crystal, provide birthstone month in case you want different color.
-  Updated: 2025-12-12T01:43:17Z
+  Updated: 2025-12-15T08:58:25Z
   Vendor: nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -6053,7 +6053,7 @@
     Availability: Available
     Price: $971.50 USD
 - [Gold Two Finger Name Ring Block Font](https://www.nameplatedepot.com/products/two-finger-name-ring-block-font-tfg01b-gld): Introducing your new golden ticket to personalized fashion: the Two-Finger Name Ring! Crafted from real gold, this stylish set of two rings is custom-made with your cut-out name in a block font. Show off your creativity and express yourself with a statement piece like no other! Specs: Dimension: 9mm inches height by 1.25 inches wide approx. Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:43:19Z
+  Updated: 2025-12-15T08:58:32Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6098,7 +6098,7 @@
     Availability: Available
     Price: $971.50 USD
 - [Gold Two Finger Name Ring Curssive Font](https://www.nameplatedepot.com/products/two-finger-name-ring-curssive-font-tfg01-gld): Show off your unique style with this double-finger ring! Real gold and a custom name in a swanky script font make this a must-have for the trendsetter. Plus, you get two times the finger bling, so you can really turn heads! 💎 Specs: Dimension: 9mm inches height by 1.25 inches wide approx. Metal: Real Solid Gold 10K or 14K
-  Updated: 2025-12-12T01:43:21Z
+  Updated: 2025-12-15T08:58:37Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6128,7 +6128,7 @@
     Availability: Available
     Price: $1,246.50 USD
 - [Date Ring with Two Names & Birthstone Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/date-ring-with-two-names-birthstone-14mm): Shop Date Ring with Two Names & Birthstone made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:43:24Z
+  Updated: 2025-12-15T08:58:39Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6143,7 +6143,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Custom Made Two Name Ring  Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/custom-made-two-name-ring-16mm-silver): Shop Custom Made Two Name Ring  made of silver with gold overlay options. Personalized nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:43:25Z
+  Updated: 2025-12-15T08:58:42Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6161,7 +6161,7 @@
     Availability: Available
     Price: $480.00 USD
 - [Personalized Two Name Ring with Birthstone for Couples](https://www.nameplatedepot.com/products/personalized-two-name-ring-with-birthstone-14mm): Shop Personalized Two Name Ring in gold overlay makes a great gift idea for anniversary, milestone events or birthdays.
-  Updated: 2025-12-12T01:43:26Z
+  Updated: 2025-12-15T08:58:44Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6176,14 +6176,14 @@
     Availability: Available
     Price: $315.00 USD
 - [Two Name Ring for Milestone Couple Event or Anniversary](https://www.nameplatedepot.com/products/two-name-ring-14mm): Shop Two Name Ring made of gold overlay. Personalized nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:43:27Z
+  Updated: 2025-12-15T08:58:44Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/SR401_71cadbac-7e43-4591-b2e7-6a13e541a944.jpg?v=1765503807
   Price: $257.00 USD
 - [Personalized Memory Bracelet Engraved Phrase Quote or Words | Silver Hand Stamped Family Jewelry](https://www.nameplatedepot.com/products/engraved-bracelet): Keep your favorite saying or verse engraved on this memory bracelet in silver, its stunning and unique. This name bracelet is great gift year as graduation gift for your daughter or son.
-  Updated: 2025-12-12T01:43:36Z
+  Updated: 2025-12-15T08:58:54Z
   Vendor: Nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -6255,7 +6255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/LoveYouForever-Love.jpg?v=1765503808
     Price: $99.00 USD
 - [Personalized Memorial Handwriting Bracelet in Silver](https://www.nameplatedepot.com/products/handwriting-bracelet): Keep your handwriting of saying or verse engraved on this memorial handwriting bracelet in silver, its stunning and unique. This name bracelet is great gift in memory of loved ones or as a sympathy gifts
-  Updated: 2025-12-12T01:43:45Z
+  Updated: 2025-12-15T08:59:03Z
   Vendor: Nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -6312,13 +6312,13 @@
     Availability: Available
     Price: $83.00 USD
 - [test 1](https://www.nameplatedepot.com/products/test-1): test 1
-  Updated: 2025-12-12T00:31:04Z
+  Updated: 2025-12-15T08:59:04Z
   Vendor: nameplatedepot
   Product Type: 
   Availability: Available
   Price: $1.00 USD
 - [Carrie Style Diamond-Cut Double Thickness Sterling Silver Name Necklace| Name Jewelry](https://www.nameplatedepot.com/products/carrie-sterling-silver-name-necklace): Alba, Kardashian, Beyonce, Rihanna Or any name and we can personalize this Carrie Name Jewelry with your choice of Name. Get stunning silver designs at Nameplatedepot.com
-  Updated: 2025-12-12T01:43:55Z
+  Updated: 2025-12-15T08:59:11Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -6365,7 +6365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/files/diamond-cz-necklace.jpg?v=1765503827
     Price: $116.99 USD
 - [Custom Gold Name Plate Ring 10K or 14K gold | Personalized Name Rings at NamePlateDepot.com](https://www.nameplatedepot.com/products/custom-name-ring): Take a look at how your name look in this wonder fully handcrafted custom name ring with tail made gracefully and given extra details in Gold.
-  Updated: 2025-12-12T01:43:56Z
+  Updated: 2025-12-15T08:59:34Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6507,7 +6507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/929-2.jpg?v=1765503831
     Price: $1,192.50 USD
 - [Diamond Cut Initial Name Ring Real Gold](https://www.nameplatedepot.com/products/diamond-initial-name-ring): Custom made ring with your two initial sparkle in block font. Ring is diamond cut to enhance the sparkle of name.
-  Updated: 2025-12-12T01:44:00Z
+  Updated: 2025-12-15T08:59:39Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6546,7 +6546,7 @@
     Availability: Available
     Price: $1,940.50 USD
 - [Engraved Men Bracelet with Custom Name Beads](https://www.nameplatedepot.com/products/engraved-men-bracelet-gnn089): This personalized men bracelet features a braided band that is contrasted with circular custom engraved silver beads.
-  Updated: 2025-12-12T01:44:06Z
+  Updated: 2025-12-15T08:59:43Z
   Vendor: Nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -6568,7 +6568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GNN089-2.jpg?v=1765503841
     Price: $68.00 USD
 - [Custom Gold Initial Pendant 10K, 14K](https://www.nameplatedepot.com/products/gold-initial-pendant-gf237): This custom initial nameplate pendant has beautiful diamond accents set in a classic, ornate script font personalized with your initial. The font is delicate and feminine. This necklace measures 1.5 inches width by 0.80 inches height and is made of real gold.
-  Updated: 2025-12-12T01:44:07Z
+  Updated: 2025-12-15T08:59:46Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -6595,7 +6595,7 @@
     Availability: Available
     Price: $1,599.50 USD
 - [Name Ring - Frankie model - 10 mm](https://www.nameplatedepot.com/products/name-ring-frankie-model-r124): Personalized Name Rings jewelry on your anniversary in metal of your choice. Customize from 14K White or Yellow Gold and Silver.
-  Updated: 2025-12-12T01:44:15Z
+  Updated: 2025-12-15T09:00:14Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6751,7 +6751,7 @@
     Availability: Available
     Price: $1,309.50 USD
 - [14K Gold 2 Point Diamond Name Necklace](https://www.nameplatedepot.com/products/diamond-necklace-ajs057): Elegant diamond name necklace with one genuine 2 point diamond fitted makes your name stands out. This personalized diamond necklace comes with chain.
-  Updated: 2025-12-12T01:44:15Z
+  Updated: 2025-12-15T09:00:22Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -6802,7 +6802,7 @@
     Availability: Available
     Price: $903.50 USD
 - [Personalized Gold Nameplate Necklace with Diamond Cut Finish](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99): Beautiful gold nameplate necklace that is hand cut with cursive font and a diamond like effect. This stunning piece is a hand cut from 10K or 14K solid gold.
-  Updated: 2025-12-13T23:56:06Z
+  Updated: 2025-12-15T09:00:51Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -6958,7 +6958,7 @@
     Availability: Available
     Price: $1,400.50 USD
 - [Big Nameplate Ring Diamond Cut 12mm Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/name-ring-22mm-1-4-inch-high-top): Shop Big Nameplate Ring Diamond Cut 12mm made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:44:22Z
+  Updated: 2025-12-15T09:00:53Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6976,7 +6976,7 @@
     Availability: Available
     Price: $475.00 USD
 - [Big Nameplate Ring Diamond Cut 12mm Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/hip-hop-high-top-name-ring-rt102): Shop Big Nameplate Ring Diamond Cut 12mm made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-12T01:44:26Z
+  Updated: 2025-12-15T09:00:55Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6994,7 +6994,7 @@
     Availability: Available
     Price: $4,071.50 USD
 - [Personalized Heart Birthstone Mother Ring With Up to 8 Names](https://www.nameplatedepot.com/products/mom-birthstone-rings): Beautiful family name ring for all generations. Comes with heart shaped design birthstone beautiful set on the ring based on number of names that you select. Unique gift for your girl friend or surprise your mother / grandmother with all children name & birthstones. To personalize mention name & birth month in special request box along with engraving inside the ring e.g. 1. Jason - Aug, 2. Sophia - October and so on. Features: Thickness: 1.2mm Supports up to 8 birthstone & 8 names with engraving inside up to 15 characters. Metal .925 Sterling Silver or Gold Overlay on Silver
-  Updated: 2025-12-12T01:44:40Z
+  Updated: 2025-12-15T09:00:59Z
   Vendor: nameplatedepot
   Product Type: Engraved Ring
   Availability: Available
@@ -7021,7 +7021,7 @@
     Availability: Available
     Price: $58.00 USD
 - [Signet Diamond Initial Ring Solid Gold](https://www.nameplatedepot.com/products/graduation-signet-ring): Custom made ring with your two initial sparkle in block font. Ring is diamond cut to enhance the sparkle of name.
-  Updated: 2025-12-12T01:44:43Z
+  Updated: 2025-12-15T09:01:04Z
   Vendor: nameplatedepot
   Product Type: Signet Ring
   Availability: Available
@@ -7051,7 +7051,7 @@
     Availability: Available
     Price: $2,606.50 USD
 - [Block Monogram Signet Ring with Initials for Men Gold](https://www.nameplatedepot.com/products/block-monogram-signet-ring-with-initials-for-men): Custom made ring with your two initial sparkle in block font. Ring is diamond cut to enhance the sparkle of name.
-  Updated: 2025-12-12T01:44:58Z
+  Updated: 2025-12-15T09:01:13Z
   Vendor: nameplatedepot
   Product Type: Signet Ring
   Availability: Available
@@ -7108,7 +7108,7 @@
     Availability: Available
     Price: $2,898.50 USD
 - [Three Fingers Name Ring | 10K / 14K Gold Silver Nameplate Ring](https://www.nameplatedepot.com/products/three-finger-name-ring): This bold three finger name ring can be personalized in 925 Silver, 10K /14K gold, and features a name in script font. The nugget-textured shank adds a touch of class and name is finished with a polished shine. It sits beautifully on three fingers and have a option to add glimmering touch with diamonds.
-  Updated: 2025-12-12T01:44:53Z
+  Updated: 2025-12-15T09:01:20Z
   Vendor: nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -7151,7 +7151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IPR227-2.jpg?v=1765503892
     Price: $4,046.50 USD
 - [Three Finger Name Ring  |  3 Finger Ring Gold Silver Ring](https://www.nameplatedepot.com/products/men-three-fingers-name-ring): This bold three finger name ring can be personalized 10K /14K gold, and features a name in block font. The nugget-textured shank adds a touch of class and name is finished with a polished shine. It sits beautifully on 3 fingers and have a option to add glimmering touch with diamonds.
-  Updated: 2025-12-12T01:44:53Z
+  Updated: 2025-12-15T09:01:29Z
   Vendor: nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -7208,7 +7208,7 @@
     Availability: Available
     Price: $4,475.50 USD
 - [Diamond  Two Finger Ring 12 mm Big 14K Gold - Fully Loaded](https://www.nameplatedepot.com/products/diamond-custom-two-finger-ring-12-mm-big-real-gold): Courtesy NameBran Youtube To order enter in special request box - which hand you would wear the ring -> left hand or right hand, finger 1 size and finger 2 size. Specs: Dimension: 1/2 inch height by 1 1/2 inch wide approx. Comes with 50 Sparkling Diamonds 14K White Gold
-  Updated: 2025-12-12T01:44:57Z
+  Updated: 2025-12-15T09:01:33Z
   Vendor: nameplatedepot
   Product Type: Two Finger Ring
   Availability: Available
@@ -7235,7 +7235,7 @@
     Availability: Available
     Price: $4,726.50 USD
 - [Personalized Men Name Ring in Gold](https://www.nameplatedepot.com/products/personalized-men-name-ring-in-gold): Personalized name ring with block font and underline diamond cut accent. Ever seen an old friend and wished you’d worn your very best? Well, you should have been wearing this personalized Men’s Name Ring at that time. Say a LOT without saying very much at all. This subtle but strikingly exclusive ring is the solitary edition to your jewelry box that says, “Yes, I’m here, I’ve arrived.” Specs: Dimension:10mm height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-12T01:44:59Z
+  Updated: 2025-12-15T09:01:40Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -7283,7 +7283,7 @@
     Availability: Available
     Price: $1,447.50 USD
 - [Gold 3D Name Pendant](https://www.nameplatedepot.com/products/gold-3d-name-pendant): Make a fashionable statement with our Pendant Nameplate Necklace, an embodiment of style, grace, and personal touch. This stunning piece features a beautifully crafted nameplate with a wave design and a heart on under, intricately adorned with a diamond cut. This necklace captures the essence of the ocean's soothing rhythm in the wave design and celebrates love. This personalized nameplate, customized with your name, makes it a unique representation of your personality, always close to your heart. Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 44mm x 20mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:45:03Z
+  Updated: 2025-12-15T09:01:56Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -7384,7 +7384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-90-2T.jpg?v=1765503900
     Price: $2,450.50 USD
 - [Grandmother Bracelet Hand Stamped With Kids Names and Birthstones](https://www.nameplatedepot.com/products/grandmother-bracelet-with-children-name): This hand stamped personalized bracelet for grandmother or mother with definitely put a smile on her face. You can customize this hand stamped bracelet with up to 13 children names and birthstones. A beautiful sterling solid silver charm bracelet with round discs that measure 5/8" each. You can add additional charms & birthstone by selecting options. Shop the most unique personalized gift ideas for great grandmother, grandparent or mother at NamePlateDepot.com. Our sentimental hand stamped jewelry gifts can be customized with endless options and will definitely put a smile on her face. All of our gifts comes ready with beautiful gift packaging. Features: Thickness: 0.8 mm Disc Size: 5/8" Metal .925 Sterling Silver
-  Updated: 2025-12-12T01:45:10Z
+  Updated: 2025-12-15T09:02:06Z
   Vendor: nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -7447,7 +7447,7 @@
     Availability: Available
     Price: $152.00 USD
 - [Engraved Military Memorial Bracelet - POW / KIA](https://www.nameplatedepot.com/products/engraved-military-memorial-bracelet-pow-kia): Honor our country's service men missing in action (MIA) and prisoners of war (POW) with this beautiful engraved memorial bracelet. This bracelet has endless possibilities that is personalized with your favorite saying, verse, quotes, roman numerals, inspirational words, name & rank.
-  Updated: 2025-12-12T01:45:18Z
+  Updated: 2025-12-15T09:02:12Z
   Vendor: Nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -7483,7 +7483,7 @@
     Availability: Available
     Price: $121.99 USD
 - [Personalized Latitude Longitude Coordinate Engraved Bracelet](https://www.nameplatedepot.com/products/custom-coordinates-bracelet): There is one lace that holds special meaning in your heart,  our custom made Coordinates Bracelet can be engraved with GPS coordinates of city, country or an address.
-  Updated: 2025-12-12T01:45:24Z
+  Updated: 2025-12-15T09:02:15Z
   Vendor: Nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -7511,7 +7511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Coordinates-Bracelet-Latitude-Longitude.jpg?v=1765503920
     Price: $82.00 USD
 - [Gold Birthstone Nameplate - Birthday Gift](https://www.nameplatedepot.com/products/gold-birthstone-nameplate): Personalize this gold name necklace with birthstone of your birthday month. This necklace made of gold 10k / 14K would make a thoughtful gift for any woman in your life. The alluring sparkle of the semi-precious stone will echo the sparkle you will see in her eyes when she sees this elegant necklace. Specs: Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 1.5 inches length x 10mm height. Total length depends on number of letter Chain: Comes with real gold 16 inches Figaro chain in nameplate color selected Stones: Provide Birth month from drop down above.
-  Updated: 2025-12-12T01:45:30Z
+  Updated: 2025-12-15T09:02:25Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -7592,7 +7592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IMG_2244.jpg?v=1765503928
     Price: $1,012.50 USD
 - [Carrie Style Sterling Silver Name Necklace](https://www.nameplatedepot.com/products/carrie-style-sterling-silver-name-necklace): Personalized "Carrie" style finished to perfection and made out of solid sterling silver(0.925). Comes with Figaro chain in Silver. We will make any name or words of your choice. Eight letter or more we suggest ordering necklace with double thickness. This item makes great gift idea for teens girls or daughter. You can wear this jewelry with any outfit, whether shirt & jeans, skirts, classy & evening dresses. This personalized piece will look simply stunning on you. Make a statement with your one-of-a-kind necklace. Everyone will be asking where you got it, so get ready to spread the good news. Show off your uniquely personal style! Features Standard Thickness: 0.7mm / Extra thickness 1.2mm Height of pendant: 5-10mm (0.2" - 0.3") The width of the necklace varies in accordance with the length of the name. Chain Type: Figaro Chain
-  Updated: 2025-12-12T01:45:42Z
+  Updated: 2025-12-15T09:02:38Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -7692,7 +7692,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Robert-Name-Necklace.jpg?v=1765503932
     Price: $82.00 USD
 - [Gold Name Necklace Old English Font](https://www.nameplatedepot.com/products/gold-name-necklace-old-english-font): Made of solid 14k gold, your name looks beautiful in old English font necklace. Suspends on a free 14k gold twist chain. You can also choose metal color 14k yellow, white & rose gold. Once you provide us with your name for personalizing, our designers will create your customized necklace. Specs: Metal: Real Solid Gold 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: .5 - 10mm / 0.2"-0.4" Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected
-  Updated: 2025-12-12T01:45:41Z
+  Updated: 2025-12-15T09:02:50Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -7772,7 +7772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/necklace-gothic-font.jpg?v=1765503936
     Price: $596.50 USD
 - [Large Monogram Necklace 2 Inches - Bridesmaid / Graduation Gift](https://www.nameplatedepot.com/products/xxl-monogram-necklace-2-inches-in-silver): This extra large Big monogram necklace is talk of the town and very popular among women who want to wear it on their wedding day. This necklace is made of fine sterling silver and you can select your metal below for little extra if you are looking for gold plated and rose gold plated. This item is also available in solid gold (contact us for quote). This truly personalized beautifully crafted necklace, makes perfect jewelry gift idea for bridesmaids or brides or for a prom night. It comes with Rollo Chain. Perfect for a bridesmaid gift or a wear it on your wedding day. Features Thickness: 0.7mm / 0.03" Height of pendant: 45 mm x 52 mm / 1.8" x 2" Chain style: Rollo Chain
-  Updated: 2025-12-12T01:45:55Z
+  Updated: 2025-12-15T09:02:53Z
   Vendor: nameplatedepot
   Product Type: Monogram Necklace
   Availability: Available
@@ -7794,7 +7794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS057-4.jpg?v=1765503947
     Price: $82.00 USD
 - [Custom Bridesmaid Monogram Necklace Extra Large - Designer Font](https://www.nameplatedepot.com/products/bridesmaid-monogram-necklace-extra-large): This extra large Big monogram necklace with designer font is talk of the town. Check out our monogram necklace selection for the very best in unique or custom, handmade pieces from our monogram & name necklaces.
-  Updated: 2025-12-12T01:45:53Z
+  Updated: 2025-12-15T09:02:55Z
   Vendor: nameplatedepot
   Product Type: Monogram Necklace
   Availability: Available
@@ -7813,7 +7813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS057-Monogram-2.jpg?v=1765503950
     Price: $92.00 USD
 - [Sterling Silver Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/silver-carrie-style-swarovski-necklace): Features a brilliant Swarovski crystal. Sterling silver necklace with double thickness & "Carrie" font add the charm that no one can resist. Personalized with Colored Swarovski crystal or birth month stone. Comes with Sterling Silver Box Chain. Features Standard Thickness: 0.7mm Height of pendant: 5-10mm (0.2" - 0.3") The width of the necklace varies in accordance with the length of the name. Chain Type: Box Chain
-  Updated: 2025-12-12T01:45:58Z
+  Updated: 2025-12-15T09:03:06Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -7897,7 +7897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS004-2.jpg?v=1765503954
     Price: $73.00 USD
 - [Old English Silver Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/old-english-name-necklace-1): Personalized old English name necklace with any name up to 11 characters. This necklace is made of sterling silver. Order today
-  Updated: 2025-12-12T01:46:02Z
+  Updated: 2025-12-15T09:03:18Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -7974,7 +7974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS008-2.jpg?v=1765503959
     Price: $83.00 USD
 - [Mother Birthstone Necklace Hand Stamped Gold Filled Disc](https://www.nameplatedepot.com/products/mother-birthstone-necklace-hand-stamped-gold-filled-disc): This necklace with birthstone and hand stamped names are perfect for mothers, grandma or special someone. This necklace comes with gold filled one 5/8" 20g discs. One channel drop birthstones with flat cable chain also come with this necklace. You can choose more disc below. All comes with birthstone of your choice.
-  Updated: 2025-12-12T01:46:08Z
+  Updated: 2025-12-15T09:03:21Z
   Vendor: Nameplatedepot
   Product Type: Engraved Necklace
   Availability: Available
@@ -7998,7 +7998,7 @@
     Availability: Available
     Price: $156.00 USD
 - [Family Circle Tree Mothers Hand Stamped Necklace](https://www.nameplatedepot.com/products/family-circle-tree-mothers-hand-stamped-necklace): A beautiful tree of life pendant surrounded by open 1" silver circle. Looking for a unique gift idea this mother's day or any day for your grandma or mom, this family tree keepsake will truly put a smile on her face and cherished for years to come.
-  Updated: 2025-12-12T01:46:12Z
+  Updated: 2025-12-15T09:03:22Z
   Vendor: Nameplatedepot
   Product Type: Engraved Necklace
   Availability: Available
@@ -8011,7 +8011,7 @@
   Availability: Available
   Price: $296.00 USD
 - [Two Capital Letters Name Necklace 14K Gold](https://www.nameplatedepot.com/products/full-name-necklace-14-karat-gold): Showcase your name with two capital letters. This necklace can be personalized in 14K Solid gold if your name have two capital or want to include your full first and last name. This piece perfect for creating an effortless look that can be layered with other styles. For longer names don't forget to add double thickness from drop down. Specs: Metal: Real Solid Gold 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 5mm to 10 mm. Total length depends on number of letter Chain: Comes with real gold 16 inches box chain in nameplate color selected
-  Updated: 2025-12-12T01:46:13Z
+  Updated: 2025-12-15T09:03:41Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -8133,7 +8133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/full-name-necklace.jpg?v=1765503972
     Price: $794.50 USD
 - [Custom Design Kids](https://www.nameplatedepot.com/products/custom-design-kids): We've got this kids nameplate necklace that really stand out! Our custom design necklace is something special, boasting diamond cuts, wave underlines, and real gold. Your little on will shine like a celebrity where ever they go wearing this custom made nameplate necklace. Specs: Type: Double 3D Style Dimension: 32mm x 14mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:46:15Z
+  Updated: 2025-12-15T09:03:45Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8167,7 +8167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Custom-2-2.jpg?v=1765503976
   Price: $260.00 USD
 - [Sterling Silver Superman Initial Necklace – Custom Superhero Jewelry](https://www.nameplatedepot.com/products/custom-super-man-necklace): Celebrate your hero with a custom sterling silver Superman initial necklace. Add up to 3 initials for a unique, meaningful gift in 2025 and onwards.
-  Updated: 2025-12-12T01:46:22Z
+  Updated: 2025-12-15T09:03:53Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -8216,7 +8216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Superman-2T.jpg?v=1765503977
     Price: $87.00 USD
 - [Personalized Carrie Gold Name Bracelet](https://www.nameplatedepot.com/products/carrie-style-14k-gold-name-bracelet): Get your own personalized Carrie style Real Gold Name Bracelet / Anklet inspired from Carrie Bradshaw necklace in Sex and the City! Flaunt your name in cursive font and rock this bracelet with any look. Watch heads turn when you look truly one-of-a-kind. With your stylish bling and a few pointers from Carrie, you'll be ready to take on the world. Let the good times roll! Features: Height 0.4" X 1.35" wide approx (based on number of letters) Chain type: Figaro 2.5 mm thickness approx.
-  Updated: 2025-12-12T01:46:25Z
+  Updated: 2025-12-15T09:03:57Z
   Vendor: Nameplatedepot
   Product Type: Name Bracelet
   Availability: Available
@@ -8246,7 +8246,7 @@
     Availability: Available
     Price: $502.50 USD
 - [Real Gold Block Name Bracelet](https://www.nameplatedepot.com/products/real-14k-gold-block-name-bracelet): Show off your style with this shimmering Real Gold Block Name Bracelet! Its figaro chain and solid block font will make your name shine in real gold, turning a few words into block font into pure glamour. Wow! Features: Name plate is 0.8 mm extra thick Height 0.4" X 1.35" wide approx (based on number of letters) Chain type: Figaro 2.5 mm thickness approx.
-  Updated: 2025-12-12T01:46:38Z
+  Updated: 2025-12-15T09:04:01Z
   Vendor: Nameplatedepot
   Product Type: Name Bracelet
   Availability: Available
@@ -8270,7 +8270,7 @@
     Availability: Available
     Price: $662.50 USD
 - [Gold 3D Name Bracelet](https://www.nameplatedepot.com/products/gold-3d-name-bracelet): Make a statement with our name bracelet that is personalized and crafted from the real gold in our iconic classic cursive font. Whether it's a birthday gift for your girl friend or wife, or just want to treat yourself with something special, add a stunning new bracelet that can be layered with other jewelry to collection. Features: Metal: 10K Or 14K Gold Name plate is 3D look. Height 0.6" X 1.35" wide approx (based on number of letters) Chain type: Figaro 2.5 mm thickness approx.
-  Updated: 2025-12-12T01:46:41Z
+  Updated: 2025-12-15T09:04:07Z
   Vendor: Nameplatedepot
   Product Type: Name Bracelet
   Availability: Available
@@ -8311,7 +8311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PD48A-Bracelet-2.jpg?v=1765503989
     Price: $943.50 USD
 - [3D Name Bracelet](https://www.nameplatedepot.com/products/14k-gold-3d-name-bracelet): Layer up your arm with this&nbsp;bold block font personalized name bracelet. This design features a 3D look with diamond accent design or add genuine diamonds.
-  Updated: 2025-12-12T01:46:45Z
+  Updated: 2025-12-15T09:04:15Z
   Vendor: Nameplatedepot
   Product Type: 3D Bracelet
   Availability: Available
@@ -8365,7 +8365,7 @@
     Availability: Available
     Price: $698.50 USD
 - [Custom Gold Block Double Name Bracelet](https://www.nameplatedepot.com/products/10k-14k-gold-block-double-name-bracelet): Layer up your arm with this bold block font personalized name bracelet. This design features a 3D look with diamond accent design or add genuine diamonds. It is designed to make it stand out and nameplate comfortably sits on your wrist Make a lasting impression with this chic, stand-out piece of jewelry! Shine bright with the choice between diamond accents or genuine diamonds to add a little extra sparkle to your special accessory.. Features: Metal: 10K Gold or 14K Name plate is 3D look. Dimension: 38 mm X 13mm Chain type: Figaro 2.5 mm thickness approx.
-  Updated: 2025-12-12T01:46:38Z
+  Updated: 2025-12-15T09:04:21Z
   Vendor: Nameplatedepot
   Product Type: Name Bracelet
   Availability: Available
@@ -8490,7 +8490,7 @@
     Availability: Available
     Price: $2,572.50 USD
 - [3D Nameplate Necklace](https://www.nameplatedepot.com/products/gold-3d-nameplate-necklace): Check out our 3d name necklace selection for the very best in unique or custom design made for you in real gold.
-  Updated: 2025-12-12T01:46:49Z
+  Updated: 2025-12-15T09:04:29Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8545,7 +8545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-93-2.jpg?v=1765504008
     Price: $971.50 USD
 - [Valentine 3D Double NamePlate Necklace with 2 hearts](https://www.nameplatedepot.com/products/valentine-3d-double-gold-nameplate-necklace-with-2-hearts): 3d name necklace Diamond accented hearts aplenty, lavish necklace name plate has a pure sense of belonging, right at your neck. Surprise your special loved one with a beautiful piece of personalized gold jewelry-their name forever in gold.
-  Updated: 2025-12-12T01:46:55Z
+  Updated: 2025-12-15T09:04:33Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8572,7 +8572,7 @@
     Availability: Available
     Price: $1,400.50 USD
 - [Gold 3D NamePlate Necklaces with Border](https://www.nameplatedepot.com/products/gold-3d-nameplate-necklaces-with-border): Stand out with this custom nameplate with border and alternate letters with diamond cut and polish finish.  You also have option to make all letters diamond cut by hitting reply to order confirmation email at no extra cost.
-  Updated: 2025-12-12T01:46:56Z
+  Updated: 2025-12-15T09:04:39Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8614,7 +8614,7 @@
     Availability: Available
     Price: $1,302.50 USD
 - [Gold 3D Nameplate Necklace for Men](https://www.nameplatedepot.com/products/gold-3d-name-plate-necklace-for-men): A Gold 3D Double Name plate Necklace for Men that is one word: insane! Gorgeous diamond accented finish and a board around. Up to 7 letters
-  Updated: 2025-12-12T01:46:59Z
+  Updated: 2025-12-15T09:04:43Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8638,7 +8638,7 @@
     Availability: Available
     Price: $2,259.50 USD
 - [3D Gold Diamond Cut Name Necklaces](https://www.nameplatedepot.com/products/3d-gold-name-necklaces): Personalize this beautiful piece of Name Plate Gold necklace with not only your name or nickname, but also with a chain of a customized length. It measures 1.5 inches wide and thicker chain
-  Updated: 2025-12-12T01:46:59Z
+  Updated: 2025-12-15T09:04:51Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8688,7 +8688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-107-2.jpg?v=1765504018
     Price: $1,207.50 USD
 - [Gold 3D Nameplate Jewelry](https://www.nameplatedepot.com/products/gold-3d-nameplate-jewelry): Personalize this beautiful piece of Name Plate Gold necklace with not only your name or nickname, but also with a chain of a customized length. It measures 1.5 inches wide and thicker chain
-  Updated: 2025-12-12T01:47:02Z
+  Updated: 2025-12-15T09:04:55Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8721,7 +8721,7 @@
     Availability: Available
     Price: $1,508.50 USD
 - [Gold 3D Nameplate Necklace Flower Design](https://www.nameplatedepot.com/products/gold-3d-nameplate-necklace-flower-design-big-1): Accented with sheer detail and designed with perky flowers with a your name personalized in diamond accent. This is one of the big sizes we have.
-  Updated: 2025-12-12T01:47:04Z
+  Updated: 2025-12-15T09:05:07Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8793,7 +8793,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-12-2.jpg?v=1765504023
     Price: $1,516.50 USD
 - [Custom Gold 3D Name Pendant](https://www.nameplatedepot.com/products/custom-gold-3d-name-pendant): With a full backplate means more gold and custom text in bold block letters will make it stands out in diamond accent design. This is heavier name made of real gold in 10k or 14k.
-  Updated: 2025-12-12T01:47:06Z
+  Updated: 2025-12-15T09:05:14Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -8838,7 +8838,7 @@
     Availability: Available
     Price: $1,711.50 USD
 - [10K / 14K Gold 3D Nameplate Necklaces](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklaces): With a full backplate means more gold and custom text in bold block letters will make it stands out in diamond accent design. This is heavier name made of real gold in 10k or 14k.
-  Updated: 2025-12-12T01:47:07Z
+  Updated: 2025-12-15T09:05:38Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -8991,7 +8991,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-11-2.jpg?v=1765504027
     Price: $1,454.50 USD
 - [Gold 3D I Love You Nameplate Necklace](https://www.nameplatedepot.com/products/gold-3d-i-love-you-nameplate-necklace): Want to make it the happiest Anniversary, Birthday, or are you just a gentle romantic? A Gold 3D I Love You Nameplate Necklace should fix any problem. She'll croon at this deluxe gift-wrapped bowtie necklace that says Baby, I love you to an everlasting extent, poetry, just pure poetry. 3D I Love You Name Necklace, Say I Love You in a way that will last forever.
-  Updated: 2025-12-12T01:47:10Z
+  Updated: 2025-12-15T09:05:43Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -9022,7 +9022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-92-2.jpg?v=1765504029
     Price: $1,508.50 USD
 - [Gold 3D Nameplate Necklace for Men](https://www.nameplatedepot.com/products/gold-3d-nameplate-for-men): The Gold Double Nameplate appears in beautiful flowing script above an underlined swoosh. Our hand crafted nameplate gold jewelry is diamond-accented, at a fraction of the cost of real diamonds.
-  Updated: 2025-12-12T01:47:12Z
+  Updated: 2025-12-15T09:05:47Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -9050,7 +9050,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/GF-108-2.jpg?v=1765504031
     Price: $1,987.50 USD
 - [Hip Hop Two Name Necklace 3D](https://www.nameplatedepot.com/products/hip-hop-two-name-necklace-3d): With a full backplate means more gold and custom text in bold block letters will make it stands out in diamond accent design. This is heavier name made of real gold in 10k or 14k.
-  Updated: 2025-12-12T01:47:14Z
+  Updated: 2025-12-15T09:05:51Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -9080,7 +9080,7 @@
     Availability: Available
     Price: $5,264.50 USD
 - [Personalized Grandma Bracelet With Up to 14 Grandkids Names and Birthstones](https://www.nameplatedepot.com/products/grandmother-bracelet-with-upto-10-names-and-birthstones): Check out our grandmother bracelet selection for the very best in unique personalized family bracelets.
-  Updated: 2025-12-12T01:47:18Z
+  Updated: 2025-12-15T09:06:14Z
   Vendor: nameplatedepot
   Product Type: Engraved Bracelet
   Availability: Available
@@ -9222,7 +9222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IMG-20180210-WA0008.jpg?v=1765504035
     Price: $163.99 USD
 - [Personalized Ring Necklace](https://www.nameplatedepot.com/products/personalized-russian-ring-necklace): Get this Interlinked Russian Ring Necklace is a contemporary version of the classic design. It stands for the unbreakable bond or the promise made.
-  Updated: 2025-12-12T01:47:23Z
+  Updated: 2025-12-15T09:06:18Z
   Vendor: Nameplatedepot
   Product Type: Engraved Necklace
   Availability: Available
@@ -9253,13 +9253,13 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Ring-Necklace.jpg?v=1765504039
     Price: $68.00 USD
 - [Personalized Bar of Love Silver Engraved Necklace](https://www.nameplatedepot.com/products/personalized-bar-of-love-silver-engraved-necklace): Get this Interlinked Russian Ring Necklace is a contemporary version of the classic design. It stands for the unbreakable bond or the promise made.
-  Updated: 2025-12-12T00:31:14Z
+  Updated: 2025-12-15T09:06:20Z
   Vendor: Nameplatedepot
   Product Type: Engraved Necklace
   Availability: Available
   Price: $53.00 USD
 - [Gold 3D Nameplate Necklace for Men](https://www.nameplatedepot.com/products/gold-3d-nameplate-necklace-for-men): Custom nameplate design with slide through chain. Put your down chain or slide through the plate. This two tone design with name diamond cut and border is hand detailed This timeless necklace is perfect for expressing personal style, and is crafted to stand the test of time. With classic detailing and quality materials, it will be a treasured piece for years to come. Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 2 Inches Length x 0.75 inches height. Chain: you can slide your own chain. Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-12T01:47:25Z
+  Updated: 2025-12-15T09:06:24Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9297,7 +9297,7 @@
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/IPR224-Diamonds-2_a1a2577d-bbd8-44bb-a9bc-dbf297539bfe.jpg?v=1765504046
   Price: $1,649.00 USD
 - [Engraved Infinity Cord Bracelet](https://www.nameplatedepot.com/products/engraved-infinity-cord-bracelet): The infinity symbol represents eternity, empowerment, and everlasting love for the person who's name is engraved on this bracelet.
-  Updated: 2025-12-12T01:47:47Z
+  Updated: 2025-12-15T09:06:27Z
   Vendor: Nameplatedepot
   Product Type: Name Bracelet
   Availability: Available
@@ -9309,7 +9309,7 @@
     Availability: Available
     Price: $80.50 USD
 - [Custom Princess Crown Name Necklace](https://www.nameplatedepot.com/products/custom-princess-crown-name-necklace): The Princess Queen Crown Necklace is a beautiful and trendy piece of jewelry that is perfect for any occasion.
-  Updated: 2025-12-12T01:47:43Z
+  Updated: 2025-12-15T09:06:35Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9374,7 +9374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/Crown-Necklace-Girls.webp?v=1765504059
     Price: $73.00 USD
 - [Silver Custom Font Name Necklace](https://www.nameplatedepot.com/products/silver-custom-font-name-necklace): The Princess Queen Crown Necklace is a beautiful and trendy piece of jewelry that is perfect for any occasion.
-  Updated: 2025-12-12T01:47:59Z
+  Updated: 2025-12-15T09:06:42Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9432,7 +9432,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/SN83642268.jpg?v=1765504063
     Price: $58.00 USD
 - [Necklace with My Name on it](https://www.nameplatedepot.com/products/necklace-with-my-name-on-it): Do you want to make the woman in your life feel extra special? If so, then we have just the thing for you – a personalized name necklace from NamePlateDepot! Our talented designers have created a beautiful necklace with a block style font that is perfect for any woman.
-  Updated: 2025-12-12T01:47:56Z
+  Updated: 2025-12-15T09:06:48Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9468,7 +9468,7 @@
     Availability: Available
     Price: $73.00 USD
 - [Personalized Calligraphy Name Necklace](https://www.nameplatedepot.com/products/personalized-calligraphy-name-necklace-in-silver): With our Calligraphy Name Necklace, you can wear your name with pride and confidence. This beautiful necklace is personalized with your name in an elegant calligraphy script.
-  Updated: 2025-12-12T01:48:01Z
+  Updated: 2025-12-15T09:06:54Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9526,7 +9526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/1594370897_1.jpg?v=1765504075
     Price: $78.00 USD
 - [Princess Initial Crown Necklace](https://www.nameplatedepot.com/products/princess-initial-crown-necklace): A little princess deserves a regal necklace, fit for royalty! This dainty and personalized crown necklace features an initial, making it a unique and special gift for girls.
-  Updated: 2025-12-12T01:48:05Z
+  Updated: 2025-12-15T09:07:00Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9559,7 +9559,7 @@
     Availability: Available
     Price: $63.00 USD
 - [My Custom Arabic Script Necklace](https://www.nameplatedepot.com/products/custom-arabic-script-necklace): Looking to keep up with the latest trends or simply want to treat yourself to something special, our Custom Arabic Script Necklaces are the perfect choice. Order yours today!
-  Updated: 2025-12-12T01:48:12Z
+  Updated: 2025-12-15T09:07:04Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9598,7 +9598,7 @@
   Availability: Available
   Price: $30.00 USD
 - [Custom CASH Nameplate Necklace in Genuine Gold - Urban Streetwear Jewelry](https://www.nameplatedepot.com/products/custom-cash-nameplate-necklace): Stand out with this custom CASH nameplate necklace made of genuine gold and measuring 45mm x 18mm. Perfect for urban streetwear enthusiasts. Add diamonds for a touch of luxury. Free Shipping Available.
-  Updated: 2025-12-12T01:48:17Z
+  Updated: 2025-12-15T09:07:11Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -9660,7 +9660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/White-Gold-Hip-Hop-Nameplate-Necklace.jpg?v=1765504094
     Price: $743.00 USD
 - [Custom-Made Solid Gold Signet Ring for Men - Personalized with Initials](https://www.nameplatedepot.com/products/block-font-signet-ring-with-initials-in-gold-black-fill): Make a bold statement with our custom-made solid gold signet ring for men. Personalize with your desired initials and ring size for a one-of-a-kind piece. This classic oval signet has an enclosed circle block monogram design and weighs around 7.5 to 8 grams, ensuring good quality and beauty. Show off your individuality with this personalized signet ring.
-  Updated: 2025-12-12T01:48:19Z
+  Updated: 2025-12-15T09:07:16Z
   Vendor: nameplatedepot
   Product Type: Signet Ring
   Availability: Available
@@ -9697,7 +9697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/signet-block-family-ring.jpg?v=1765504098
     Price: $2,365.50 USD
 - [Custom Symbol Signet Ring - Solid Gold, Personalized with Your Own Symbol](https://www.nameplatedepot.com/products/custom-symbol-signet-ring-in-gold): Make a bold statement with our custom-made solid gold signet ring for men. Personalize with your desired symbol  weighs around 7.5 to 8 grams, ensuring good quality and beauty. Show off your individuality with this personalized signet ring.
-  Updated: 2025-12-12T01:48:23Z
+  Updated: 2025-12-15T09:07:20Z
   Vendor: nameplatedepot
   Product Type: Signet Ring
   Availability: Available
@@ -9721,7 +9721,7 @@
     Availability: Available
     Price: $1,889.50 USD
 - [Two Tone Couples Heart Necklace with Cross Engraved Names - Perfect Valentine's Gift](https://www.nameplatedepot.com/products/two-tone-couples-heart-necklace-with-cross-engraved-with-names): Show your love this Valentine's Day with our Two Tone Couples Heart Necklace with Cross. Engrave each other's names on the half-heart pendants, each with a dangling cross in gold and rose gold plating. A meaningful and elegant gift for your significant other, anniversary or any special occasion. Shop now at our website and make it a memorable Valentine's Day.
-  Updated: 2025-12-12T01:48:24Z
+  Updated: 2025-12-15T09:07:22Z
   Vendor: Nameplatedepot
   Product Type: Engraved Necklace
   Availability: Available
@@ -9736,7 +9736,7 @@
     Availability: Available
     Price: $73.00 USD
 - [Name Necklace with Birthstone Heart](https://www.nameplatedepot.com/products/birthstone-name-necklace-with-hearts): Stand out with a personalized touch. Our unique Birthstone Name Necklace with Underline Hearts is the perfect way to showcase your personal style. The flowing script font is accentuated by a charming swirl and heart design, and the addition of your birthstone adds a special touch.
-  Updated: 2025-12-12T01:48:38Z
+  Updated: 2025-12-15T21:21:06Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -9834,7 +9834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/rose_gold_necklace.png?v=1765504108
     Price: $107.00 USD
 - [Celebrity Diamond Signet Ring with Initial in Real Gold 10k / 14K](https://www.nameplatedepot.com/products/diamond-signet-ring-with-intials): The signet ring in 10K / 14Karat Gold features a letter of your choice surrounded by glittering diamonds, adding a touch of elegance and glamour to any look.
-  Updated: 2025-12-12T01:48:33Z
+  Updated: 2025-12-15T09:07:38Z
   Vendor: nameplatedepot
   Product Type: Signet Ring
   Availability: Available
@@ -9877,7 +9877,7 @@
   Updated: 2025-12-12T00:30:40Z
   Total Products: 0
 - [Unique Personalized Name Rings & Initial Signet Jewels at NamePlateDepot](https://www.nameplatedepot.com/collections/custom-name-rings): Dive into our collection of gold, silver, and diamond name rings, personalized signets, and initial jewelry designed just for you.
-  Updated: 2025-12-12T00:30:40Z
+  Updated: 2025-12-15T12:06:04Z
   Total Products: 116
 - [Bracelets Engraved Bracelets | Nameplate Bracelets](https://www.nameplatedepot.com/collections/name-bracelets): Pick from name, coordinates, initials and more custom engraved bracelets in highly polished 925 sterling silver or solid gold, for truly personalized gifts.  Shop at NamePlateDepot with FREE shipping & returns
   Updated: 2025-12-12T00:30:40Z
@@ -9889,7 +9889,7 @@
   Updated: 2025-12-12T00:30:40Z
   Total Products: 34
 - [Real Gold Name Rings | Personalized 10K / 14K Nameplate Ring &amp; Bands](https://www.nameplatedepot.com/collections/gold-name-rings): Dive deep into our premium range of real 14k / 10k gold name rings, from white to rose gold, personalized and engraved, capturing your identity in the world's most timeless metal.
-  Updated: 2025-12-12T00:30:40Z
+  Updated: 2025-12-15T12:06:04Z
   Total Products: 56
 - [Two Finger Or Three Finger Name Rings – A Tribute to 50 Years of Hip-Hop](https://www.nameplatedepot.com/collections/2-or-more-finger-name-ring): Three finger name ring, sterling silver, 10K gold, 14K gold, diamond embellishment, cubic zirconia, Beyoncé ring, Jennifer Lopez ring, hip-hop inspired jewelry
   Updated: 2025-12-12T00:30:40Z
@@ -9979,7 +9979,7 @@
   Updated: 2025-12-12T00:30:42Z
   Total Products: 27
 - [Products](https://www.nameplatedepot.com/collections/all)
-  Updated: 2025-12-14T12:05:39Z
+  Updated: 2025-12-15T12:06:04Z
   Total Products: 380
 - [Gifts for Her](https://www.nameplatedepot.com/collections/gifts-for-her)
   Updated: 2025-12-12T00:30:42Z
