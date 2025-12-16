@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-21T04:24:50Z
 - Contact Email: millerrick648@gmail.com
-- Updated At: 2025-12-16T21:52:52.741Z
+- Updated At: 2025-12-16T21:53:09.664Z
 
 We handle all your business needs so you don't have to. Your success is our mission! We have business and industrial products as well as furniture, jewelry, gifts, B2B and b2c services, and a unique start-up apprentice program. 
 
