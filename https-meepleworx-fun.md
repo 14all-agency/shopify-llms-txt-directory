@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-12-16T06:48:04.299Z
+- Updated At: 2025-12-16T06:48:31.993Z
 
 ## Products
 
