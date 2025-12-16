@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2025-12-15T00:00:30.425Z
+- Updated At: 2025-12-16T00:00:24.755Z
 
 ## Products
 
@@ -169,7 +169,7 @@
   Updated: 2025-12-01T12:13:27Z
   Total Products: 87
 - [Apparel](https://cardrugs.com/collections/apparel)
-  Updated: 2025-12-14T12:10:13Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 250
 - [Lanyards](https://cardrugs.com/collections/lanyards)
   Updated: 2024-12-29T00:39:19Z
@@ -178,7 +178,7 @@
   Updated: 2024-06-05T23:09:48Z
   Total Products: 1
 - [All Slaps & Decals](https://cardrugs.com/collections/slaps-printed-decals)
-  Updated: 2025-12-13T12:10:26Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 227
 - [Plates & Overlays](https://cardrugs.com/collections/plates-overlays)
   Updated: 2024-07-20T01:20:12Z
@@ -301,7 +301,7 @@
   Updated: 2025-02-12T00:20:35Z
   Total Products: 1
 - [Hoodies](https://cardrugs.com/collections/hooded-sweatshirts)
-  Updated: 2025-12-14T12:10:13Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 70
 - [Hats](https://cardrugs.com/collections/hats)
   Updated: 2025-12-03T12:10:08Z
@@ -322,13 +322,13 @@
   Updated: 2025-02-12T00:20:34Z
   Total Products: 0
 - [Newest!](https://cardrugs.com/collections/featured)
-  Updated: 2025-12-14T12:10:13Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 131
 - [Series 32 Part 3](https://cardrugs.com/collections/series-32-part-3)
   Updated: 2025-02-12T00:18:16Z
   Total Products: 0
 - [Lighting](https://cardrugs.com/collections/lighting)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 9
 - [Series 33](https://cardrugs.com/collections/series-33): GET 50% OFF SLAPS WITH CODE CLUB
   Updated: 2024-12-29T00:47:17Z
@@ -340,7 +340,7 @@
   Updated: 2025-12-14T12:10:13Z
   Total Products: 169
 - [Bags & Wallets](https://cardrugs.com/collections/bags)
-  Updated: 2025-12-13T12:10:26Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 80
 - [Series 34](https://cardrugs.com/collections/series-34)
   Updated: 2025-02-12T00:16:07Z
@@ -391,7 +391,7 @@
   Updated: 2025-10-11T11:08:04Z
   Total Products: 60
 - [Velcro Patches](https://cardrugs.com/collections/rubber-patches)
-  Updated: 2025-12-12T12:10:01Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 103
 - [NEW Series 40](https://cardrugs.com/collections/new-series-40)
   Updated: 2025-02-12T00:21:58Z
@@ -508,10 +508,10 @@
   Updated: 2025-11-30T12:12:34Z
   Total Products: 27
 - [Series 55](https://cardrugs.com/collections/series-55)
-  Updated: 2025-12-13T12:10:26Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 50
 - [Toys](https://cardrugs.com/collections/toys)
-  Updated: 2025-12-14T12:10:13Z
+  Updated: 2025-12-15T12:09:44Z
   Total Products: 5
 
 ## Store Pages
