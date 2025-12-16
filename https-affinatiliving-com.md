@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-15T20:00:33.306Z
+- Updated At: 2025-12-16T00:00:52.349Z
 
 ## Products
 
@@ -4044,7 +4044,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Clean Cotton Signature Candle](https://affinatiliving.com/products/clean-cotton-signature-candle): Brighten your home with Affinati’s Clean Cotton Signature Candle. This 10 oz soy-wax candle captures the scent of freshly washed linens and soft white musk for a clean, airy fragrance that lasts.
-  Updated: 2025-12-14T16:36:33Z
+  Updated: 2025-12-15T22:00:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4059,7 +4059,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2025-12-13T02:55:32Z
+  Updated: 2025-12-15T22:37:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4611,7 +4611,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Champagne Toast Signature Candle](https://affinatiliving.com/products/champagne-toast-signature-candle): Add sparkle to your space with the Affinati Champagne Toast Signature Candle. A blend of bubbly champagne, sugared berries, and nectarine creates a joyful, effervescent scent.
-  Updated: 2025-12-14T16:36:32Z
+  Updated: 2025-12-15T20:29:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5928,7 +5928,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Whipped Pistachio Signature Candle](https://affinatiliving.com/products/whipped-pistachio-signature-candle): Indulge in the rich, nutty sweetness of our Whipped Pistachio Signature Candle — a creamy blend of pistachio, vanilla, and almond in a premium soy wax candle that fills your home with cozy, luxurious fragrance.
-  Updated: 2025-12-14T16:36:28Z
+  Updated: 2025-12-15T23:30:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
