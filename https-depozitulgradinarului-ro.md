@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-10T00:00:37.404Z
+- Updated At: 2025-12-16T00:00:42.701Z
 
 ## Products
 
@@ -395,71 +395,71 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at22.20.58_1.jpg?v=1738873482
   Price: 59,90 lei RON
-- [Insecticid FORCE 1.5 G - 150 GR, Syngenta, Contact, Porumb](https://depozitulgradinarului.ro/products/insecticid-force-1-5-g-150-gr-syngenta-contact-porumb): Insecticidul Force 1.5 G se prezinta sub forma de granule fine, omogene, este ideal pentru culturile de Porumb.
-  Updated: 2025-06-19T16:48:14Z
+- [Insecticid FORCE 1.5 G - 150 GR, Syngenta, Contact | Porumb, Legume, Gazon](https://depozitulgradinarului.ro/products/insecticid-force-1-5-g-150-gr-syngenta-contact-porumb): FORCE 1.5 G, Syngenta – insecticid granulat cu acțiune de vapori, contact și ingestie. Control excelent al dăunătorilor din sol la porumb, legume și gazon. Depozitul Grădinarului
+  Updated: 2025-12-12T08:21:20Z
   Vendor: Syngenta
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at22.30.43.jpg?v=1738873975
   Price: 14,99 lei RON
-- [Insecticid K-OBIOL EC 25 – 10 ML, ENVU, Contact](https://depozitulgradinarului.ro/products/insecticid-k-obiol-ec-25-10-ml-envu-contact): K-OBIOL EC 25, insecticid piretroid pentru protectiaCerealelor si Legumelor depozitate. Substanteactive: 25 g/l deltametrin si 225 g/l piperonil butoxide.
-  Updated: 2025-07-31T09:35:40Z
+- [Insecticid K-OBIOL EC25 – 10 ML, ENVU, Contact | Cereale, Spatii Depozitare](https://depozitulgradinarului.ro/products/insecticid-k-obiol-ec-25-10-ml-envu-contact): K-OBIOL EC 25 – insecticid de contact pentru depozite și cereale. Elimină dăunătorii și oferă protecție până la 12 luni. Soluția profesională ENVU. Depozitul Grădinarului
+  Updated: 2025-12-12T08:13:24Z
   Vendor: ENVU
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at22.30.43_1.jpg?v=1738875085
   Price: 6,70 lei RON
-- [Insecticid K-OBIOL EC 25 – 100 ML, ENVU, Contact](https://depozitulgradinarului.ro/products/insecticid-k-obiol-ec-25-100-ml-envu-contact): K-OBIOL EC 25, insecticid piretroid pentru protectiaCerealelor si Legumelor depozitate. Substante active: 25 g/l deltametrin si 225 g/l piperonil butoxide.
-  Updated: 2025-07-31T09:40:54Z
+- [Insecticid K-OBIOL EC25 – 100 ML, ENVU, Contact | Cereale, Spatii Depozitare](https://depozitulgradinarului.ro/products/insecticid-k-obiol-ec-25-100-ml-envu-contact): K-OBIOL EC 25 – insecticid de contact pentru depozite și cereale. Elimină dăunătorii și oferă protecție până la 12 luni. Soluția profesională ENVU. Depozitul Grădinarului
+  Updated: 2025-12-12T08:13:35Z
   Vendor: ENVU
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at22.30.43_2.jpg?v=1738875633
   Price: 43,00 lei RON
-- [Fungicid Tratament Samanta Orius 2 WS – 60 GR, Adama](https://depozitulgradinarului.ro/products/fungicid-tratament-samanta-orius-2-ws-60-gr-adama-sistemic-grau-orz-fuzarioza): Orius 2 WS este un fungicid sistemic pentru combaterea bolilor cu transmitere prin samanta la cerealele paioase.
-  Updated: 2025-06-01T18:52:22Z
+- [Fungicid Tratament Samanta ORIUS 2 WS – 60 GR, Adama | Grâu, Orz, Fuzarioza](https://depozitulgradinarului.ro/products/fungicid-tratament-samanta-orius-2-ws-60-gr-adama-sistemic-grau-orz-fuzarioza): Fungicidul Tratament ORIUS 2WS - protejează grâul și orzul de fuzarioză și mălura comună. Tratament sămânță sistemic pentru germinare viguroasă și protecție durabilă.
+  Updated: 2025-12-12T07:41:05Z
   Vendor: Adama
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at21.28.11.jpg?v=1738957296
-  Price: 11,00 lei RON
-- [Insecticid Karate Zeon - 2 ML, ENO, Contact](https://depozitulgradinarului.ro/products/insecticid-karate-zeon-2-ml-eno-contact): KARATE ZEON, insecticid piretroid de contact care, pe langa efectul rapid si de soc impotriva daunatorilor, ofera cea mai lunga perioada de protectie.
-  Updated: 2025-07-30T09:00:51Z
+  Price: 9,90 lei RON
+- [Insecticid Karate Zeon - 2 ML, ENO, Contact | Legume, Cereale, Pomi, Vita-de-Vie](https://depozitulgradinarului.ro/products/insecticid-karate-zeon-2-ml-eno-contact): Insecticid KARATE ZEON, 2 ML – acțiune rapidă și protecție îndelungată împotriva celor mai duri dăunători. Tehnologie Zeon, eficient în legume, pomi, cereale și viță.
+  Updated: 2025-12-12T07:23:45Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.05.31.jpg?v=1738958771
   Price: 3,50 lei RON
-- [Insecticid MAVRIK 2F - 5 ML, Adama, Contact](https://depozitulgradinarului.ro/products/insecticid-mavrik-2f-5-ml-adama-contact): MAVRIK 2F, insecticid de contact de ultima generatie din Gama „Advanced“, cu o activare foarte rapida si persistenta (pana la 21 de zile).
-  Updated: 2025-07-30T09:00:51Z
+- [Insecticid MAVRIK 2F - 5 ML, Adama, Contact, Legume, Fructe, Cereale, Pomi Fructiferi](https://depozitulgradinarului.ro/products/insecticid-mavrik-2f-5-ml-adama-contact): Insecticid Contact MAVRIK 2F (5 ML) – distruge instant afide, tripsi și gândacul din Colorado. Protecție 21 zile, sigur pentru albine. Eficient pe legume, pomi, cereale și rapiță.
+  Updated: 2025-12-12T12:34:25Z
   Vendor: Adama
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.22.28.jpg?v=1738959766
   Price: 5,00 lei RON
-- [Insecticid MAVRIK 2F - 100 ML, Adama, Contact](https://depozitulgradinarului.ro/products/insecticid-mavrik-2f-100-ml-adama-contact): MAVRIK 2F, insecticid de contact de ultima generatie din Gama „Advanced“, cu o activare foarte rapida sipersistenta (pana la 21 de zile).
-  Updated: 2025-07-28T12:01:42Z
+- [Insecticid MAVRIK 2F - 100 ML, Adama, Contact, Legume, Fructe, Cereale, Pomi Fructiferi](https://depozitulgradinarului.ro/products/insecticid-mavrik-2f-100-ml-adama-contact): Insecticid Contact MAVRIK 2F (100 ML) – distruge instant afide, tripsi și gândacul din Colorado. Protecție 21 zile, sigur pentru albine. Eficient pe legume, pomi, cereale și rapiță.
+  Updated: 2025-12-12T12:39:41Z
   Vendor: Adama
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.22.28_1.jpg?v=1738960333
-  Price: 41,90 lei RON
-- [Ulei Horticol MERITUS OIL - 100 ML, ENO](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-100-ml-eno): Ulei Horticol MERITUS OIL - formulă specială destinată utilizării în amestec cu insecticide și acaricide care combat: Afide; Păduchele din San Jose; Acarianul roșu al pomilor; Păianjenul roșu comun; etc.
-  Updated: 2025-12-09T19:22:30Z
+  Price: 41,99 lei RON
+- [Ulei Horticol MERITUS OIL - 100 ML, ENO | Pomi Fructiferi, Aderență Maximă](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-100-ml-eno): Uleiul Horticol MERITUS OIL  (100 ML) - crește eficiența insecto–acaricidelor, asigurând aderență superioară și protecție maximă pentru pomii fructiferi. Rezultate vizibile!
+  Updated: 2025-12-12T06:56:55Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.40.03.jpg?v=1738960819
   Price: 8,00 lei RON
-- [Ulei Horticol MERITUS OIL - 500 ML, ENO](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-500-ml-eno): Ulei Horticol MERITUS OIL - formulă specială destinată utilizării în amestec cu insecticide și acaricide care combat: Afide; Păduchele din San Jose; Acarianul roșu al pomilor; Păianjenul roșu comun; etc.
-  Updated: 2025-12-09T19:22:29Z
+- [Ulei Horticol MERITUS OIL - 500 ML, ENO | Pomi Fructiferi, Aderență Maximă](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-500-ml-eno): Uleiul Horticol MERITUS OIL  (500 ML) - crește eficiența insecto–acaricidelor, asigurând aderență superioară și protecție maximă pentru pomii fructiferi. Rezultate vizibile!
+  Updated: 2025-12-12T12:33:37Z
   Vendor: ENO
   Product Type: GRAD-AGRO-Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.40.03_1.jpg?v=1738961163
   Price: 24,00 lei RON
-- [Ulei Horticol MERITUS OIL - 1 L, ENO](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-1-l-eno): Ulei Horticol MERITUS OIL - formulă specială destinată utilizării în amestec cu insecticide și acaricide care combat: Afide; Păduchele din San Jose; Acarianul roșu al pomilor; Păianjenul roșu comun; etc.
-  Updated: 2025-12-09T19:22:27Z
+- [Ulei Horticol MERITUS OIL - 1 L, ENO | Pomi Fructiferi, Aderență Maximă](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-1-l-eno): Uleiul Horticol MERITUS OIL  (1 L) - crește eficiența insecto–acaricidelor, asigurând aderență superioară și protecție maximă pentru pomii fructiferi. Rezultate vizibile!
+  Updated: 2025-12-12T06:56:37Z
   Vendor: ENO
   Product Type: GRAD-AGRO-Insecticid
   Availability: Available
@@ -467,7 +467,7 @@
   Price: 36,90 lei RON
 - [Insecticid MOSPILAN 20 SG – 1.5 GR, Sistemic, SUMI AGRO, Legume, Cereale, Pomi Fructiferi, Vita-de-Vie](https://depozitulgradinarului.ro/products/insecticid-mospilan-20-sg-1-5-gr-sistemic-sumi-agro): MOSPILAN 20 SG, insecticid sistemic cu efect de lunga durata si spectru larg de combatere.
 Substanta activa: acetamiprid 200 g/kg
-  Updated: 2025-12-09T18:26:36Z
+  Updated: 2025-12-10T06:26:45Z
   Vendor: Sumi Agro
   Product Type: Insecticid
   Availability: Available
@@ -475,21 +475,21 @@ Substanta activa: acetamiprid 200 g/kg
   Price: 2,99 lei RON
 - [Insecticid MOSPILAN 20 SG – 3 GR, Sistemic, SUMI AGRO, Legume, Cereale, Pomi Fructiferi, Vita-de-Vie](https://depozitulgradinarului.ro/products/insecticid-mospilan-20-sg-3-gr-sistemic-sumi-agro): MOSPILAN 20 SG, insecticid sistemic cu efect de lunga durata si spectru larg de combatere.
 Substanta activa: acetamiprid 200 g/kg
-  Updated: 2025-12-09T18:26:50Z
+  Updated: 2025-12-10T06:26:58Z
   Vendor: Sumi Agro
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.52.15.jpg?v=1738962140
   Price: 4,00 lei RON
 - [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 10-13 L Apa | Pomi Fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-10-13-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare. Rezultate rapide!
-  Updated: 2025-12-09T18:07:31Z
+  Updated: 2025-12-10T06:07:52Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47.jpg?v=1738998355
   Price: 8,09 lei RON
 - [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 65 L Apa | Pomi Fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-65-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare. Rezultate rapide!
-  Updated: 2025-12-09T18:07:39Z
+  Updated: 2025-12-10T05:55:48Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
@@ -3037,8 +3037,8 @@ Grupa FAO: 370, Grupa Plus4Grain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-03-13at22.40.55.jpg?v=1741898575
   Price: 197,00 lei RON
-- [Insecticid Granulat Syngenta FORCE 1.5 G - 300 GR, Contact, pentru Cereale, Legume Gazon](https://depozitulgradinarului.ro/products/insecticid-force-1-5-g-300-gr-syngenta-contact-porumb): Insecticidul Granulat Syngenta Force 1.5 G se prezinta sub forma de granule fine, omogene, este ideal pentru culturile de Porumb, alte cereale, legume, gazon.
-  Updated: 2025-10-20T04:29:06Z
+- [Insecticid Granulat Syngenta FORCE 1.5 G - 300 GR, Contact | Porumb, Legume, Gazon](https://depozitulgradinarului.ro/products/insecticid-force-1-5-g-300-gr-syngenta-contact-porumb): FORCE 1.5 G, Syngenta – insecticid granulat cu acțiune de vapori, contact și ingestie. Control excelent al dăunătorilor din sol la porumb, legume și gazon. Depozitul Grădinarului
+  Updated: 2025-12-12T08:41:32Z
   Vendor: Syngenta
   Product Type: GRAD-AGRO-Insecticid
   Availability: Available
@@ -3307,8 +3307,8 @@ Este perfectă pentru irigarea arborilor horticoli, culturilor pe rând, viilor 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_0497.jpg?v=1746117720
   Price: 14,31 lei RON
-- [Insecticid Karate Zeon - 100 ML, ENO, Contact, Legume, Pomi Fructiferi, Cereale, Vita-de-Vie, Lucerna](https://depozitulgradinarului.ro/products/insecticid-karate-zeon-100-ml-eno-contact): KARATE ZEON, insecticid piretroid de contact care, pe langa efectul rapid si de soc impotriva daunatorilor, ofera cea mai lunga perioada de protectie.
-  Updated: 2025-10-08T05:56:39Z
+- [Insecticid Karate Zeon - 100 ML, ENO, Contact | Legume, Cereale, Pomi, Vita-de-Vie](https://depozitulgradinarului.ro/products/insecticid-karate-zeon-100-ml-eno-contact): Insecticid KARATE ZEON, 100 ML – acțiune rapidă și protecție îndelungată împotriva celor mai duri dăunători. Tehnologie Zeon, eficient în legume, pomi, cereale și viță.
+  Updated: 2025-12-12T07:27:32Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
@@ -3367,8 +3367,8 @@ Formulat pe baza unei combinații unice de microorganisme benefice, acest fungic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_6994.jpg?v=1746910382
   Price: 27,81 lei RON
-- [Insecticid Granulat Syngenta FORCE 1.5 G -  1 KG, Contact, Cereale, Legume, Gazon](https://depozitulgradinarului.ro/products/insecticid-force-1-5-g-1-kg-syngenta-contact-porumb): Insecticidul Granulat Syngenta Force 1.5 G se prezinta sub forma de granule fine, omogene, este ideal pentru culturile de Porumb, alte cereale, legume, gazon.
-  Updated: 2025-10-12T17:14:36Z
+- [Insecticid Granulat Syngenta FORCE 1.5 G -  1 KG, Contact | Porumb, Legume, Gazon](https://depozitulgradinarului.ro/products/insecticid-force-1-5-g-1-kg-syngenta-contact-porumb): FORCE 1.5 G, Syngenta – insecticid granulat cu acțiune de vapori, contact și ingestie. Control excelent al dăunătorilor din sol la porumb, legume și gazon. Depozitul Grădinarului
+  Updated: 2025-12-12T08:20:38Z
   Vendor: Syngenta
   Product Type: GRAD-AGRO-Insecticid
   Availability: Available
@@ -4046,7 +4046,7 @@ Livrare rapidă!
   Updated: 2025-11-30T13:19:14Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-11-30T13:28:27Z
+  Updated: 2025-12-11T12:37:20Z
   Total Products: 125
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
   Updated: 2025-11-30T13:24:53Z
@@ -4067,10 +4067,10 @@ Livrare rapidă!
   Updated: 2025-10-27T08:16:24Z
   Total Products: 4
 - [Semințe Floarea-Soarelui Saaten Union – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui-saaten-union): Alege semințe de floarea-soarelui Saaten Union – hibrizi productivi și performanți, cu randament ridicat, rezistență la secetă și conținut mare de ulei. Clearfield & convenționali.
-  Updated: 2025-10-20T11:24:59Z
+  Updated: 2025-12-15T12:37:46Z
   Total Products: 5
 - [Semințe Floarea-Soarelui | Hibrizi Performanți](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui): Alege hibrizi de floarea-soarelui performanți, cu rezistență la diferite erbicide sau convenționali. Semințe de calitate, adaptate pentru randament ridicat și rezistență la secetă.
-  Updated: 2025-10-27T08:16:24Z
+  Updated: 2025-12-15T12:37:46Z
   Total Products: 16
 - [Sâmânță de Porumb](https://depozitulgradinarului.ro/collections/samanta-porumb): Descoperă gama noastră de sămânță porumb și hibrizi de înaltă performanță, ideale pentru o recoltă bogată. Alege semințe de calitate superioară pentru însămânțări eficiente și profitabile.
   Updated: 2025-12-06T12:28:37Z
@@ -4223,10 +4223,10 @@ Livrare rapidă!
   Updated: 2025-11-29T12:48:33Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-12-09T18:26:50Z
+  Updated: 2025-12-11T20:21:16Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
-  Updated: 2025-12-03T20:11:42Z
+  Updated: 2025-12-11T19:45:36Z
   Total Products: 36
 - [Adjuvanți Agricoli – Eficiență Sporită pentru Tratamente](https://depozitulgradinarului.ro/collections/adjuvanti): Adjuvanți agricoli profesionali pentru eficiență sporită a  tratamentelor fitosanitare și a îngrășămintelor foliare. Soluții compatibile cu erbicide, fungicide și insecticide pentru eficiență maximă.
   Updated: 2025-07-30T04:25:06Z
@@ -4241,7 +4241,7 @@ Livrare rapidă!
   Updated: 2025-07-25T09:31:10Z
   Total Products: 2
 - [Produse Profesionale pentru Tratarea Sămânței](https://depozitulgradinarului.ro/collections/tratamente-samanta): Alege produse profesionale pentru tratarea sămânței, cu acțiune fungicidă și insecticidă. Protejează culturile din primele faze de dezvoltare pentru o pornire sănătoasă.
-  Updated: 2025-05-29T15:23:02Z
+  Updated: 2025-12-11T19:45:36Z
   Total Products: 1
 - [Moluscocide eficiente | Combaterea melcilor și a limacșilor](https://depozitulgradinarului.ro/collections/moluscocide): Moluscocide eficiente pentru combaterea melcilor și limacșilor din grădină, solarii și solarii. Protecție rapidă și de lungă durată.
   Updated: 2025-10-27T08:49:17Z
@@ -4250,10 +4250,10 @@ Livrare rapidă!
   Updated: 2025-11-30T12:59:52Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-12-09T18:26:50Z
+  Updated: 2025-12-11T20:21:16Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-11-30T13:28:27Z
+  Updated: 2025-12-11T12:37:20Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
@@ -4332,7 +4332,7 @@ Livrare rapidă!
   Updated: 2025-12-09T18:07:32Z
   Total Products: 12
 - [Produse BIO | Legume, Flori, Pomi, Gazon, Dezinfectant sol, Raticide](https://depozitulgradinarului.ro/collections/produse-bio): Gama completă de produse BIO: tratamente naturale pentru legume, pomi, flori, gazon, sol și combaterea rozătoarelor. Alege soluții ecologice!
-  Updated: 2025-12-01T14:27:52Z
+  Updated: 2025-12-11T12:37:20Z
   Total Products: 33
 - [Semințe Floarea-Soarelui Syngenta – Hibrizi Performanți](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui-syngenta): Cumpără semințe de floarea-soarelui Syngenta – hibrizi performanți, toleranți la secetă și boli, cu randament ridicat și conținut mare de ulei. Tehnologia Clearfield® & Express®.
   Updated: 2025-08-19T14:55:22Z
@@ -4394,6 +4394,9 @@ Livrare rapidă!
 - [Saci Plasă Raschel & Saci Rafie – Ambalare Rezistentă pentru Legume, Fructe și Cereale](https://depozitulgradinarului.ro/collections/saci-plasa-raschel-saci-rafie): Alege Saci Plasă Raschel și Saci de Rafie durabili, ideali pentru ambalarea și depozitarea legumelor, fructelor, cerealelor și altor produse agricole.
   Updated: 2025-10-21T14:52:08Z
   Total Products: 8
+- [Promoții](https://depozitulgradinarului.ro/collections/promoții)
+  Updated: 2025-12-11T12:37:20Z
+  Total Products: 333
 
 ## Blogs
 
