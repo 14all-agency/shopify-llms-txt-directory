@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-12-09T00:00:34.191Z
+- Updated At: 2025-12-16T00:00:38.687Z
 
 ## Products
 
@@ -37,7 +37,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium jersey hijab - Jersey hoofddoek | byOumich](https://oumich.com/products/premium-jersey-met-lijn): Premium jersey hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-06T10:53:04Z
+  Updated: 2025-12-14T18:29:23Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -62,7 +62,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pickled_Bluewood_LQ.jpg?v=1760732591
     Price: € 11,70 EUR
-  - [Black](https://oumich.com/products/premium-jersey-met-lijn?variant=55836822897020)
+  - [Zwart](https://oumich.com/products/premium-jersey-met-lijn?variant=55836822897020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_LQ.jpg?v=1760732591
     Price: € 11,70 EUR
@@ -90,187 +90,187 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1_org_zoom_light.jpg?v=1762983272
   Price: € 27,70 EUR
 - [Hijab Grijs - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-27-lila-grijs): Hijab grijs ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:35Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_46_42.png?v=1763742161
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab Zwart - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-1-zwart): Hijab zwart ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:35Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_model.jpg?v=1763741969
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-2-wit): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:35Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Wit_model.jpg?v=1763742423
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-3-prelude): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:35Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_46_47.png?v=1763742676
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-6-roze): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:34Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_47_39.png?v=1763742769
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-11-oud-roze): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:34Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_47_46.png?v=1763742570
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-14-hampton): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:34Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Hampton_model_48997587-ed55-48b6-94b5-0e9cba8c7f19.jpg?v=1763742885
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-15-tan): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:26:34Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Tan_model.jpg?v=1763741727
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-16-lichte-klei): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:38Z
+  Updated: 2025-12-14T18:25:57Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Lichte_klei_model.jpg?v=1763744257
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab Beige - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-17-beige): Hijab beige ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:38Z
+  Updated: 2025-12-14T18:25:57Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Beige_grijs_model.jpg?v=1763744097
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-20-kashmir-blauw): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:38Z
+  Updated: 2025-12-14T18:25:57Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Kashmir_blauw_model.jpg?v=1763743085
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-21-konings-blauw): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:38Z
+  Updated: 2025-12-14T18:25:56Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Konings_blauw_model.jpg?v=1763744715
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-24-cape-cod): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:38Z
+  Updated: 2025-12-14T18:25:56Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Cape_cod_model.jpg?v=1763744397
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab Grijs - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-30-donker-grijs): Hijab grijs ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:38Z
+  Updated: 2025-12-14T18:25:56Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_grijs_model.jpg?v=1763744503
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab Bruin - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-32-donker-bruin): Hijab bruin ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:39Z
+  Updated: 2025-12-14T18:25:56Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_bruin_model.jpg?v=1763744593
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab Groen - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-37-donker-groen): Hijab groen ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:39Z
+  Updated: 2025-12-14T18:25:55Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_groen_model.jpg?v=1763744904
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-39-oosters-blauw): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:39Z
+  Updated: 2025-12-14T18:25:55Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Eastern_blue_model.jpg?v=1763742992
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-42-koper): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:39Z
+  Updated: 2025-12-14T18:25:55Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_model.jpg?v=1763744811
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Hijab Dennenappel - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-dennenappel): Hijab dennenappel ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:39Z
+  Updated: 2025-12-14T18:25:55Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dennappel_model_4115624c-5ac6-4553-8258-216d0a461ce2.jpg?v=1763741478
-  Price: € 11,70 EUR
+  Price: € 13,00 EUR
 - [Aquarel print hijab Grijs - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-1-grijs): Aquarel print hijab grijs ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:36Z
+  Updated: 2025-12-14T18:12:30Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_grijs.jpg?v=1763746620
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-2-roze): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:36Z
+  Updated: 2025-12-14T18:12:30Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_roze.jpg?v=1763746621
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Aquarel print hijab Grijs - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-3-marmer-grijs): Aquarel print hijab grijs ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:36Z
+  Updated: 2025-12-14T18:12:30Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_marmer_grijs.jpg?v=1763746622
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-4-aquarel-rood): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:36Z
+  Updated: 2025-12-14T18:12:29Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watrecolor_red.jpg?v=1763746625
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-5-cyaan): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:36Z
+  Updated: 2025-12-14T18:12:29Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_cyaan.jpg?v=1763746625
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-6-donker-blauw): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:38:37Z
+  Updated: 2025-12-14T18:12:29Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_donkerblauw.jpg?v=1763746626
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-7-marmer-roze): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-05T21:36:11Z
+  Updated: 2025-12-14T18:12:29Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_marmer_roze.jpg?v=1763746628
-  Price: € 17,00 EUR
+  Price: € 15,00 EUR
 - [Premium Hijab Spelden Set - 8 Stuks Ovaal Neutrale Mix | byOumich](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix): Shop 8 ovale hijab spelden in neutrale kleuren (nude, grijs, zwart). Veilig, geen scheurtjes. Premium kwaliteit. Gratis verzending vanaf €50. Bestel nu!
   Updated: 2025-12-05T14:05:32Z
   Vendor: byOumich
@@ -316,6 +316,44 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_10.avif?v=1764629338
     Price: € 5,00 EUR
+- [Instant Hijab met Knopen | Ready-to-Wear Hoofddoek | byOumich](https://oumich.com/products/instant-hijab-met-knopen): Koop de instant hijab met knopen. Ademend, comfortabel en makkelijk te dragen zonder spelden. Gratis verzending. Bestel nu bij byOumich
+  Updated: 2025-12-14T18:18:30Z
+  Vendor: byOumich
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorLO.avif?v=1765396966
+  - [Zwart](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879522172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorMK.avif?v=1765396434
+    Price: € 13,00 EUR
+  - [Wijnrood](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879554940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorLO.avif?v=1765396966
+    Price: € 13,00 EUR
+  - [Wit](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879587708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorZD.avif?v=1765396434
+    Price: € 13,00 EUR
+  - [Marineblauw](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879620476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorBH.avif?v=1765396966
+    Price: € 13,00 EUR
+  - [Koningsblauw](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879653244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorNJ.avif?v=1765396434
+    Price: € 13,00 EUR
+  - [Camel](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879686012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorCF.avif?v=1765396966
+    Price: € 13,00 EUR
+  - [Donkerbruin](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879718780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorVG.avif?v=1765396434
+    Price: € 13,00 EUR
+  - [Oud Roze](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879751548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorRT.avif?v=1765396434
+    Price: € 13,00 EUR
 
 ## Collections
 
@@ -325,9 +363,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - [Islamitische woondecoratie – spirituele decoratie | byOumich](https://oumich.com/collections/islam-woondecoratie): Creëer een serene sfeer thuis met islamitische decoratie: muurkunst, tapijten en decoratieve items. Snelle levering in België, Nederland & Frankrijk.
   Updated: 2025-12-01T21:21:52Z
   Total Products: 1
-- [Hijabs Kopen Online](https://oumich.com/collections/alle-hijabs): Shop alle hijabs bij byOumich. Jersey, instant en print hijabs in prachtige kleuren. Gratis verzending vanaf €50 in BE & NL.
-  Updated: 2025-12-08T19:25:14Z
-  Total Products: 30
 - [Specials](https://oumich.com/collections/specials): Speciale aanbiedingen.
   Updated: 2025-12-01T20:23:44Z
   Total Products: 0
@@ -335,30 +370,51 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-12-01T20:17:07Z
   Total Products: 0
 - [Premium Jersey Hijabs Kopen](https://oumich.com/collections/premium-jersey-hijabs): Ontdek onze premium jersey hijabs. Zacht, stretchy en kreukvrij. Gratis verzending vanaf €50. ✓ 30 dagen retour ✓ Snelle levering in BE & NL
-  Updated: 2025-12-08T19:10:14Z
+  Updated: 2025-12-14T18:19:54Z
   Total Products: 20
 - [Decoratieve hijabs & sjaals](https://oumich.com/collections/decoratief-laat-je-zien)
-  Updated: 2025-11-29T00:00:23Z
+  Updated: 2025-12-14T18:19:54Z
   Total Products: 8
 - [Sale Hijabs](https://oumich.com/collections/sale): Onze koopjeshoek. Wees er snel bij!Hijabs in de aanbieding. Profiteer van kortingen op premium kwaliteit hijabs. Op = op. Shop nu bij byOumich.
   Updated: 2025-12-08T19:28:12Z
   Total Products: 1
 - [Instant Hijabs Kopen](https://oumich.com/collections/instant-hijabs): Instant hijabs voor snelle styling. Klaar om te dragen in seconden. Ideaal voor drukke dagen. Shop de collectie bij byOumich.
-  Updated: 2025-12-08T19:20:58Z
-  Total Products: 1
+  Updated: 2025-12-14T18:20:30Z
+  Total Products: 2
 - [Luxe Jersey Hijabs](https://oumich.com/collections/luxe-jersey-hijabs): Luxe jersey hijabs met elegante afwerking. Premium kwaliteit voor dagelijks gebruik én speciale gelegenheden. Shop nu bij byOumich.
   Updated: 2025-12-08T19:13:51Z
   Total Products: 1
 - [Aquarel Print Hijabs](https://oumich.com/collections/aquarel-print-hijabs): Unieke hijabs met aquarel print in zacht modal katoen. Ademend, lichtgewicht en stijlvol. Bestel vandaag bij byOumich.
-  Updated: 2025-12-08T19:17:56Z
+  Updated: 2025-12-14T18:19:54Z
   Total Products: 8
 - [Hijab Pins & Magneten](https://oumich.com/collections/hijab-pins-magneten): Sterke hijab magneten en pins voor perfecte grip. Geen beschadiging aan je stof. Bestel accessoires bij byOumich.
   Updated: 2025-12-08T19:23:30Z
   Total Products: 2
+- [Hijabs voor beginners | Makkelijk om te starten](https://oumich.com/collections/hijabs-voor-beginners): Net begonnen met hijab dragen? Ontdek hijabs die eenvoudig te dragen zijn en ideaal voor beginners.
+  Updated: 2025-12-14T18:36:37Z
+  Total Products: 20
+- [Hijabs die goed blijven zitten | Comfort zonder afzakken](https://oumich.com/collections/hijabs-die-goed-blijven-zitten): Ontdek hijabs die goed blijven zitten en comfortabel zijn om de hele dag te dragen. Ideaal voor dagelijks gebruik, werk of school.
+  Updated: 2025-12-14T18:31:45Z
+  Total Products: 21
+- [Hijabs zonder spelden | Makkelijk & comfortabel](https://oumich.com/collections/hijabs-zonder-spelden): Geen spelden nodig. Ontdek hijabs die makkelijk te dragen zijn en goed blijven zitten, ideaal voor dagelijks gebruik.
+  Updated: 2025-12-14T18:32:59Z
+  Total Products: 20
+- [Hijabs voor dagelijks gebruik | Comfort elke dag](https://oumich.com/collections/hijabs-dagelijks-gebruik): Comfortabele hijabs voor dagelijks gebruik. Zacht voor de huid en aangenaam om de hele dag te dragen.
+  Updated: 2025-12-14T18:34:09Z
+  Total Products: 21
+- [Hijabs voor werk en school | Praktisch & comfortabel](https://oumich.com/collections/hijabs-werk-school): Ontdek hijabs die geschikt zijn voor werk en school. Discreet, comfortabel en betrouwbaar tijdens lange dagen.
+  Updated: 2025-12-14T18:35:21Z
+  Total Products: 21
+- [Decoratieve hijabs | Elegante hoofddoeken](https://oumich.com/collections/decoratieve-hijabs): Ontdek decoratieve hijabs voor een elegante uitstraling of speciale gelegenheden. Minder gericht op dagelijks gebruik.
+  Updated: 2025-12-14T18:37:26Z
+  Total Products: 7
+- [Hijab kopen online | Comfortabele hijabs in België | byOumich](https://oumich.com/collections/hijab-kopen-online): Vind jouw ideale hijab online: blijft goed zitten, zonder spelden of perfect voor beginners. Snelle levering in België. Bekijk onze selectie nu.
+  Updated: 2025-12-14T21:35:37Z
+  Total Products: 29
 
 ## Blogs
 
-- [Oumich blogt](https://oumich.com/blogs/byoumich-blogt)
+- [Hijab advies](https://oumich.com/blogs/byoumich-blogt)
   - [🌿 Islamitische milieu-ethiek: duurzaam leven als Khalīfah - byOumich](https://oumich.com/blogs/byoumich-blogt/islamitische-milieu-ethiek-duurzaam-leven-als-khalifah): 🌿 Islamitische milieu-ethiek: duurzaam leven als Khalīfah - byOumich
     Updated: 2025-11-23T16:35:46Z
     Author: Bart Desmaretz
@@ -368,24 +424,29 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Author: byOumich
     Tags: hijab kiezen, hijab materialen, hijab stijlen, soorten hijabs
   - [Hoe Begin Je met het Dragen van een Hijab? Een Zachte Gids voor Beginners](https://oumich.com/blogs/byoumich-blogt/hoe-begin-je-met-het-dragen-van-een-hijab-een-zachte-gids-voor-beginners): Hoe Begin Je met het Dragen van een Hijab? Een Zachte Gids voor Beginners
-    Updated: 2025-11-17T00:47:52Z
+    Updated: 2025-12-15T22:09:11Z
     Author: byOumich
     Tags: eerste hijab, hijab, hijab beginner, modest fashion
+  - [Ademende hijab voor dagelijks gebruik: zo kies je de juiste](https://oumich.com/blogs/byoumich-blogt/ademende-hijab-dagelijks-gebruik): Ademende hijab voor dagelijks gebruik: zo kies je de juiste
+    Updated: 2025-12-15T22:06:58Z
+    Author: Bart Desmaretz
 
 ## Store Pages
 
-- [اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ](https://oumich.com/pages/contacteer-ons): ‏اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ Je vindt hier een selectie van mooie Islamitisch geïnspireerde kleding die ik je van harte kan ...
-  Updated: 2025-11-30T22:19:35Z
-- [Verzending & Afhandeling](https://oumich.com/pages/verzending-afhandeling): De verzending van je product heeft onze hoogste prioriteit en elke dag versturen we honderden producten naar tevreden klanten over de hele wereld. ...
-  Updated: 2025-11-14T16:09:40Z
-- [Veelgestelde Vragen over Hijabs | FAQ | byOumich](https://oumich.com/pages/faq): Veelgestelde Vragen Heb je vragen over hijabs, stoffen of je bestelling? Hieronder vind je antwoorden op de meest gestelde vragen. Staat je vraag e...
-  Updated: 2025-12-08T23:16:53Z
+- [اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ](https://oumich.com/pages/contacteer-ons): 
+  Updated: 2025-12-11T00:08:49Z
+- [Verzending & Levering | Oumich.com – Info & Levertijden](https://oumich.com/pages/verzending-afhandeling): 
+  Updated: 2025-12-11T22:38:32Z
+- [Veelgestelde Vragen over Hijabs | FAQ | byOumich](https://oumich.com/pages/faq): /* ======================================== FONTS - Voeg toe aan theme.liquid ======================================== */ @import url('https://font...
+  Updated: 2025-12-11T17:04:33Z
 - [Retourneren & Terugbetalingen](https://oumich.com/pages/retourneren-terugbetalingen): Conform de Europese wetgeving heb je bij online aankopen binnen de EU het recht om je bestelling binnen 14 dagen na ontvangst te herroepen, zonder ...
   Updated: 2025-12-01T00:57:02Z
 - [HTML Sitemap](https://oumich.com/pages/html-sitemap): Products Islam armband - Gegraveerde RVS Bangle met Koran en Shahada Schrift Islam Halsketting MAAN-STER Zilveren Gouden Kleur met CZ Sieraad voor ...
   Updated: 2025-11-07T22:47:50Z
 - [Win een Premium Jersey Hijab!](https://oumich.com/pages/win-een-van-onze-premium-jersey-hijabs): Schrijf je in met je e-mailadres en maak automatisch kans op een luxe Premium Jersey naar keuze.Snel meedoen – het kost maar 10 seconden! (Trekking...
   Updated: 2025-11-23T20:44:28Z
+- [Contactgegevens](https://oumich.com/pages/contactgegevens)
+  Updated: 2025-12-11T21:44:17Z
 
 ## Policies
 
