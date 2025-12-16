@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-16T00:00:52.349Z
+- Updated At: 2025-12-16T04:00:33.834Z
 
 ## Products
 
@@ -9420,7 +9420,7 @@
     Updated: 2025-12-13T15:50:28Z
     Author: Gerard Collins
   - [Bath & Body Works vs Vaseline Lotion: Which Is Better?](https://affinatiliving.com/blogs/debates/bath-body-works-vs-vaseline-lotion-which-is-better)
-    Updated: 2025-12-13T15:53:11Z
+    Updated: 2025-12-16T03:06:16Z
     Author: Gerard Collins
   - [Bath & Body Works Lotion vs Tree Hut Lotion: Full Comparison & Review](https://affinatiliving.com/blogs/debates/bath-body-works-lotion-vs-tree-hut-lotion-full-comparison-review)
     Updated: 2025-12-13T15:48:51Z
@@ -9439,6 +9439,15 @@
     Author: Gerard Collins
   - [Bath & Body Works vs Aveeno Lotion: Which Is Better for Skin?](https://affinatiliving.com/blogs/debates/bath-body-works-vs-aveeno-lotion-which-is-better-for-skin)
     Updated: 2025-12-12T12:59:29Z
+    Author: Gerard Collins
+  - [Tree Hut vs Nécessaire Lotion: Which Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/tree-hut-vs-necessaire-lotion-which-is-better-for-your-skin)
+    Updated: 2025-12-16T03:10:20Z
+    Author: Gerard Collins
+  - [Tree Hut Lotion vs Ouai: Affordable Comfort or Elevated Luxury?](https://affinatiliving.com/blogs/debates/tree-hut-lotion-vs-ouai-affordable-comfort-or-elevated-luxury)
+    Updated: 2025-12-16T03:12:07Z
+    Author: Gerard Collins
+  - [Tree Hut Lotion vs Aveeno: Moisture, Texture, Scent & Skin Results](https://affinatiliving.com/blogs/debates/tree-hut-lotion-vs-aveeno-moisture-texture-scent-skin-results)
+    Updated: 2025-12-16T03:08:10Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
@@ -9560,7 +9569,7 @@
 - [Refund Policy](https://affinatiliving.com/policies/refund-policy)
   Updated: 2025-05-24T09:54:25-04:00
 - [Terms of Service](https://affinatiliving.com/policies/terms-of-service)
-  Updated: 2025-05-08T11:04:39-04:00
+  Updated: 2025-12-15T21:33:49-05:00
 - [Contact Information](https://affinatiliving.com/policies/contact-information)
   Updated: 2025-05-31T10:33:29-04:00
 
