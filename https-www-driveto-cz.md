@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-12-15T00:02:11.950Z
+- Updated At: 2025-12-16T00:02:14.828Z
 
 ## Naše služby
 
@@ -351,39 +351,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757410165085)
     Availability: Available
     Price: 16 397,00 Kč CZK
-- [Škoda Superb IV Selection 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Tato zcela nová generace Superbu byla představena světu na počátku roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý.. Interiér je jedním z nejvíce pozměněných míst. Vynikajícím způsobem kombinuje moderní pojetí s jednoduchým ovládáním. Jsou zde naprosto úžasná přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemný prostor, kde je jízda relax. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice komfortní.
-  Updated: 2025-11-28T13:58:02Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1.webp?v=1761572193
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411508573)
-    Availability: Available
-    Price: 9 981,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411541341)
-    Availability: Available
-    Price: 10 592,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411574109)
-    Availability: Available
-    Price: 11 153,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411606877)
-    Availability: Available
-    Price: 11 647,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411639645)
-    Availability: Available
-    Price: 12 473,00 Kč CZK
-  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411672413)
-    Availability: Available
-    Price: 13 053,00 Kč CZK
-  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411705181)
-    Availability: Available
-    Price: 13 707,00 Kč CZK
-  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411737949)
-    Availability: Available
-    Price: 14 158,00 Kč CZK
-  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411770717)
-    Availability: Available
-    Price: 14 795,00 Kč CZK
 - [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka): Nová čtvrtá generace Superbu byla představena světu počátkem roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velmi pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice pohodlný.
   Updated: 2025-12-01T20:43:47Z
   Vendor: Driveto
@@ -867,101 +834,179 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 19 807,00 Kč CZK
 - [Audi Q8 S line 3.0 TDi Quattro 210 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3): Audi Q8 přináší kombinaci elegance a sportovně střiženého vzhledu v rámci prémiového SUV. Proti lehce prostornější Q7 neposkytuje takovou míru praktičnosti, ale její styl a šarm to vyvažují. A nebojte - prostoru je zde stále dost. Navzdory svým rozměrům si stále zachovává výborné jízdní vlastnosti v zatáčkách, v městském provozu i v terénu. Díky vzduchovému podvozku a pohonu všech kol quattro se nemusíte obávat, že byste si netroufli do lehčího terénu. Vzduchový podvozek dodává pohodlí, ale zároveň však umožňuje úpravu světlé výšky dle aktuální potřeby. Spotřeba paliva se pohybuje kolem přijatelných 8 litrů v kombinovaném režimu. Pod kapotou Q8 najdeme silný naftový motor s výkonem 210 kW, který poskytuje vynikající dynamiku. Výbava vozu je opravdu bohatá, což dokazuje dlouhý výčet položek v nabídce. Tento konkrétní kousek navíc disponuje i panoramatickou střechou, tažným zařízením, LED Matrix světlomety, Bang & Olufsen ozvučením a mnoha dalšími pakety. Celková cena přesahuje 2,7 milionu.
-  Updated: 2025-12-10T10:19:15Z
+  Updated: 2025-12-15T11:52:03Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
   - [15000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804752221)
-    Availability: Available
+    Availability: Not Available
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804817757)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782550877)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576158557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 21 700,00 Kč CZK
-  - [20000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804883293)
+  - [15000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840110941)
     Availability: Available
+    Price: 17 999,00 Kč CZK
+  - [15000 km / 24 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840143709)
+    Availability: Not Available
+    Price: 17 999,00 Kč CZK
+  - [15000 km / 24 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840176477)
+    Availability: Not Available
+    Price: 17 999,00 Kč CZK
+  - [15000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840209245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 17 999,00 Kč CZK
+  - [20000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804883293)
+    Availability: Not Available
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804948829)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782583645)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576191325)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 21 800,00 Kč CZK
-  - [25000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805014365)
+  - [20000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840242013)
     Availability: Available
+    Price: 18 999,00 Kč CZK
+  - [20000 km / 24 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840274781)
+    Availability: Not Available
+    Price: 18 999,00 Kč CZK
+  - [20000 km / 24 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840307549)
+    Availability: Not Available
+    Price: 18 999,00 Kč CZK
+  - [20000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840340317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 18 999,00 Kč CZK
+  - [25000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805014365)
+    Availability: Not Available
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805079901)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782616413)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576224093)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 23 800,00 Kč CZK
-  - [30000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805145437)
+  - [25000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840373085)
     Availability: Available
+    Price: 19 999,00 Kč CZK
+  - [25000 km / 24 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840405853)
+    Availability: Not Available
+    Price: 19 999,00 Kč CZK
+  - [25000 km / 24 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840438621)
+    Availability: Not Available
+    Price: 19 999,00 Kč CZK
+  - [25000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840471389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 19 999,00 Kč CZK
+  - [30000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805145437)
+    Availability: Not Available
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805210973)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782649181)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576256861)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 24 600,00 Kč CZK
-  - [35000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805276509)
+  - [30000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840504157)
     Availability: Available
+    Price: 22 499,00 Kč CZK
+  - [30000 km / 24 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840536925)
+    Availability: Not Available
+    Price: 22 499,00 Kč CZK
+  - [30000 km / 24 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840569693)
+    Availability: Not Available
+    Price: 22 499,00 Kč CZK
+  - [30000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840602461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 22 499,00 Kč CZK
+  - [35000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805276509)
+    Availability: Not Available
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805342045)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782681949)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576289629)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 27 700,00 Kč CZK
-  - [40000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805407581)
+  - [35000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840635229)
     Availability: Available
+    Price: 23 999,00 Kč CZK
+  - [35000 km / 24 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840667997)
+    Availability: Not Available
+    Price: 23 999,00 Kč CZK
+  - [35000 km / 24 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840700765)
+    Availability: Not Available
+    Price: 23 999,00 Kč CZK
+  - [35000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840733533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 23 999,00 Kč CZK
+  - [40000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805407581)
+    Availability: Not Available
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805473117)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782714717)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576322397)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 28 400,00 Kč CZK
+  - [40000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840766301)
+    Availability: Available
+    Price: 24 999,00 Kč CZK
+  - [40000 km / 24 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840799069)
+    Availability: Not Available
+    Price: 24 999,00 Kč CZK
+  - [40000 km / 24 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840831837)
+    Availability: Not Available
+    Price: 24 999,00 Kč CZK
+  - [40000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62891840864605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 24 999,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
   Updated: 2025-12-01T19:38:26Z
   Vendor: Driveto
@@ -2995,39 +3040,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Zlatave_stribrna_Bright_Dusk_Volvo_XC60_Plus_Dark.webp?v=1761741516
     Price: 19 194,00 Kč CZK
-- [Volvo XC60 Plus Black Edition 2.0 B5 184 kW 4x4 Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka): Volvo XC60 ve verzi Plus Black Edition s motorem B5 (184 kW), automatickou převodovkou a pohonem všech kol je sebevědomé SUV, které spojuje špičkový design, výkon a bezpečnost v mimořádně atraktivním balení. Výkonný dvoulitrový čtyřválec s mild-hybridní technologií poskytuje hladkou a svižnou jízdu, zatímco pohon všech kol zaručuje stabilitu a jistotu v každém počasí. Automatická převodovka řadí plynule a přirozeně, což oceníte při každodenní jízdě i na delších trasách. Speciální edice Black Edition přidává výrazné černé prvky na karoserii, černá kola a další detaily, které vozu dodávají sportovní, až lehce dravý charakter. Uvnitř na vás čeká luxusní interiér s prémiovými materiály, výborně čitelnou digitální přístrojovkou a množstvím pokročilých technologií. XC60 B5 Black Edition tak nabízí nejen výkon a pohon všech kol, ale i styl a komfort, kterými se odlišíte. Ideální volba pro ty, kdo chtějí moderní, sebevědomé SUV bez kompromisů.
-  Updated: 2025-12-04T15:05:27Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/VolvoXC60PlusBlackfoto1.webp?v=1761741601
-  - [10000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394592093)
-    Availability: Available
-    Price: 13 359,00 Kč CZK
-  - [15000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394624861)
-    Availability: Available
-    Price: 14 172,00 Kč CZK
-  - [20000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394657629)
-    Availability: Available
-    Price: 15 162,00 Kč CZK
-  - [25000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394690397)
-    Availability: Available
-    Price: 15 970,00 Kč CZK
-  - [30000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394723165)
-    Availability: Available
-    Price: 17 086,00 Kč CZK
-  - [35000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394755933)
-    Availability: Available
-    Price: 17 984,00 Kč CZK
-  - [40000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394788701)
-    Availability: Available
-    Price: 18 808,00 Kč CZK
-  - [45000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394821469)
-    Availability: Available
-    Price: 19 549,00 Kč CZK
-  - [50000 km / 36 měsíců / Černá Onyx Black Metallic](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka?variant=58093394854237)
-    Availability: Available
-    Price: 20 397,00 Kč CZK
 - [MG MG3 Essential 1.5 Hybrid+ 143 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/mg-mg3-essential-1-5-hybrid-143-kw-natural-95-automaticka-prevodovka): MG3 je stylový a dostupný hatchback z dílny automobilky MG, který osloví především řidiče hledající menší a cenově přístupné auto s nízkou spotřebou. Tento model je jedním z nejdostupnějších vozů ve své kategorii, přičemž nabízí atraktivní design, jednoduchou ovladatelnost a dostatečnou výbavu pro každodenní použití. Kompaktní rozměry zajišťují snadné manévrování a parkování. Uvnitř MG3 najdete jednoduchý, ale účelný interiér s dostatkem prostoru pro pět pasažérů. Tento kousek nabízí hybridní pohonné ústrojí, jehož základem je benzínový motor o objemu 1,5 litru, který spolupracuje s elektromotorem. Celkový systémový výkon činí 143 kW, což je na tento segment velký nadprůměr. Poskytuje tedy velmi dobrou dynamiku, kterou oceníte i mimo město. Potěší také přítomnost automatické převodovky. Jedná se o vynikající hatchback, který nabízí mnoho muziky za málo peněz.
   Updated: 2025-12-01T09:48:03Z
   Vendor: Driveto
@@ -3773,16 +3785,16 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-14T12:22:16Z
-  Total Products: 183
+  Updated: 2025-12-15T12:27:39Z
+  Total Products: 180
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
-  Total Products: 65
+  Updated: 2025-12-15T12:27:39Z
+  Total Products: 64
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-13T12:23:10Z
   Total Products: 12
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 197
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-13T12:23:10Z
@@ -3806,7 +3818,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 13
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-14T12:22:16Z
@@ -3818,29 +3830,29 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-27T14:54:10Z
   Total Products: 0
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 4
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-13T12:23:10Z
-  Total Products: 15
+  Updated: 2025-12-15T10:59:40Z
+  Total Products: 14
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 15
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-12T12:26:20Z
   Total Products: 2
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-12T12:26:20Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 3
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 4
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-13T12:23:10Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
-  Total Products: 35
+  Updated: 2025-12-15T12:27:39Z
+  Total Products: 34
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-12T12:26:20Z
   Total Products: 5
@@ -3848,10 +3860,10 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-12T12:26:20Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
-  Total Products: 185
+  Updated: 2025-12-15T12:27:39Z
+  Total Products: 182
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-14T12:22:16Z
+  Updated: 2025-12-15T12:27:39Z
   Total Products: 15
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-13T12:23:10Z
@@ -3863,11 +3875,11 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-14T12:22:16Z
-  Total Products: 183
+  Updated: 2025-12-15T12:27:39Z
+  Total Products: 180
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-13T12:23:10Z
-  Total Products: 3
+  Updated: 2025-12-15T08:04:52Z
+  Total Products: 2
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
   Updated: 2025-12-01T08:32:13Z
   Total Products: 0
