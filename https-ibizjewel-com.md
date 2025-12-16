@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-15T00:01:01.223Z
+- Updated At: 2025-12-16T00:00:58.074Z
 
 ## Products
 
@@ -9774,7 +9774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/2_1_4e7da4dc-a203-45a6-a8be-eec3be62252c.jpg?v=1703134325
     Price: $856.00 USD
 - [Moissanite 1.95CT Radiant Diamond Art Deco minimalist Engagement Ring](https://ibizjewel.com/products/moissanite-1-95ct-radiant-diamond-art-deco-minimalist-engagement-ring): Crafted With A Sparkling 1.95CT Radiant Moissanite And An Elegant Art Deco Design, This Minimalist Engagement Ring Exudes Sophistication And Luxury. Made With Expert Craftsmanship And Attention To Detail, This Ring Is A Timeless Symbol Of Love And Commitment. Elevate Your Proposal With This One-Of-A-Kind Piece.
-  Updated: 2025-10-02T10:30:46Z
+  Updated: 2025-12-15T02:19:11Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Radiant Diamond Ring
   Availability: Available
