@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-16T08:00:34.604Z
+- Updated At: 2025-12-16T12:00:34.130Z
 
 ## Products
 
@@ -8276,8 +8276,8 @@
   - [Why You’ll Love Affinati’s Reed Diffusers](https://affinatiliving.com/blogs/news/why-you-ll-love-affinati-s-reed-diffusers)
     Updated: 2025-11-04T17:17:40Z
     Author: Gerard Collins
-  - [Best Candle Holders for Every Style | Pair with Affinati Candles](https://affinatiliving.com/blogs/news/best-candle-holders-for-every-style-pair-with-affinati-candles)
-    Updated: 2025-11-04T16:58:02Z
+  - [Best Candle Holders for Every Style | Modern, Rustic, Coastal & More](https://affinatiliving.com/blogs/news/best-candle-holders-for-every-style-pair-with-affinati-candles)
+    Updated: 2025-12-16T11:52:08Z
     Author: Gerard Collins
   - [Best Candle Scents for Canadian Winters ❄️ | Cozy & Warm Fragrances from Affinati](https://affinatiliving.com/blogs/news/best-candle-scents-for-canadian-winters-cozy-warm-fragrances-from-affinati)
     Updated: 2025-11-07T14:11:20Z
@@ -9261,7 +9261,7 @@
     Updated: 2025-11-19T12:40:53Z
     Author: Gerard Collins
   - [Yankee Candle vs Capri Blue: Full Comparison & Best Pick](https://affinatiliving.com/blogs/debates/yankee-candle-vs-capri-blue-full-comparison-best-pick)
-    Updated: 2025-11-19T12:42:57Z
+    Updated: 2025-12-16T11:55:41Z
     Author: Gerard Collins
   - [Yankee Candle vs NEST New York: Full Comparison + Best Luxury Alternative | Affinati](https://affinatiliving.com/blogs/debates/yankee-candle-vs-nest-new-york-full-comparison-best-luxury-alternative-affinati)
     Updated: 2025-11-19T12:26:00Z
@@ -9442,6 +9442,18 @@
     Author: Gerard Collins
   - [Tree Hut vs Nécessaire Lotion: Which Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/tree-hut-vs-necessaire-lotion-which-is-better-for-your-skin)
     Updated: 2025-12-16T03:10:20Z
+    Author: Gerard Collins
+  - [Tree Hut vs Cetaphil Lotion: Ingredients, Feel, and Results Compared](https://affinatiliving.com/blogs/debates/tree-hut-vs-cetaphil-lotion-ingredients-feel-and-results-compared)
+    Updated: 2025-12-16T11:43:04Z
+    Author: Gerard Collins
+  - [Tree Hut Lotion vs Vaseline Lotion: The Honest Body Care Debate](https://affinatiliving.com/blogs/debates/tree-hut-lotion-vs-vaseline-lotion-the-honest-body-care-debate)
+    Updated: 2025-12-16T11:41:01Z
+    Author: Gerard Collins
+  - [Tree Hut Lotion vs Hempz Lotion: Ingredients, Feel & Results Compared](https://affinatiliving.com/blogs/debates/tree-hut-lotion-vs-hempz-lotion-ingredients-feel-results-compared)
+    Updated: 2025-12-16T11:38:39Z
+    Author: Gerard Collins
+  - [Tree Hut vs Sol de Janeiro: Which Lotion Is Worth Buying?](https://affinatiliving.com/blogs/debates/tree-hut-vs-sol-de-janeiro-which-lotion-is-worth-buying)
+    Updated: 2025-12-16T11:37:01Z
     Author: Gerard Collins
   - [Tree Hut Lotion vs Ouai: Affordable Comfort or Elevated Luxury?](https://affinatiliving.com/blogs/debates/tree-hut-lotion-vs-ouai-affordable-comfort-or-elevated-luxury)
     Updated: 2025-12-16T03:12:07Z
