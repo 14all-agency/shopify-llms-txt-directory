@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-12-09T00:00:38.318Z
+- Updated At: 2025-12-16T00:00:42.616Z
 
 ## Products
 
@@ -2273,12 +2273,28 @@
   Updated: 2025-09-30T13:39:37Z
   Total Products: 5
 
+## Blogs
+
+- [Hotel and Hospitality](https://woodbarrow.com/blogs/hotel-and-hospitality)
+  - [Wooden Cutting Boards: The Ultimate Guide to Choosing the Best Ones](https://woodbarrow.com/blogs/hotel-and-hospitality/ultimate-guide-to-choosing-wooden-cutting-boards): Wooden Cutting Boards: The Ultimate Guide to Choosing the Best Ones
+    Updated: 2025-12-09T11:16:47Z
+    Author: Salih Usman
+    Tags: Restaurant Supplies
+  - [Chopping Boards: Top Picks for UAE Restaurants and Culinary Excellence](https://woodbarrow.com/blogs/hotel-and-hospitality/best-chopping-boards-for-uae-restaurants): Chopping Boards: Top Picks for UAE Restaurants and Culinary Excellence
+    Updated: 2025-12-09T11:18:07Z
+    Author: Salih Usman
+    Tags: Hotel Supplies, Restaurant Supplies
+  - [Eco-Friendly Products: Best Choices for a Sustainable Future in 2026](https://woodbarrow.com/blogs/hotel-and-hospitality/why-eco-friendly-products-are-a-must-in-2026): Eco-Friendly Products: Best Choices for a Sustainable Future in 2026
+    Updated: 2025-12-09T11:19:20Z
+    Author: Salih Usman
+    Tags: Hotel Supplies, Restaurant Supplies
+
 ## Store Pages
 
 - [Contact](https://woodbarrow.com/pages/contact)
   Updated: 2024-10-28T08:31:14Z
-- [About Us](https://woodbarrow.com/pages/about-us)
-  Updated: 2024-11-06T08:43:29Z
+- [Woodbarrow Hospitality - Explore Our Story, Mission, and Values](https://woodbarrow.com/pages/about-us): Discover the Essence of Woodbarrow Hospitality: Our Story and VisionWelcome to Woodbarrow Hospitality, where our commitment to exceptional service ...
+  Updated: 2025-12-09T11:26:12Z
 - [Privacy Policy](https://woodbarrow.com/pages/privacy-policy): We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordanc...
   Updated: 2024-11-08T11:03:44Z
 - [Terms & Conditions](https://woodbarrow.com/pages/terms-conditions): Welcome to Wood Barrow! These terms and conditions outline the rules and regulations for the use of Wood Barrow's Website, located at https://woodb...
