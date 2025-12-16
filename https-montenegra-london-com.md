@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2025-12-16T00:00:22.472Z
+- Updated At: 2025-12-16T22:50:25.696Z
 
 ## Products
 
@@ -2030,6 +2030,10 @@
     Updated: 2025-12-12T15:32:42Z
     Author: Montenegra
     Tags: London luxury fashion brand Montenégra clothing London UK designer fashion, Luxury fashion that empowers identity Clothing inspired by art and culture Intentional and timeless fashion pieces Quiet luxury for modern lifestyle Fashion beyond trends and logos, Minimalist luxury fashion Sustainable luxury clothing Fashion for self-expression Gender-neutral clothing Art-inspired fashion, Montenégra London Luxury fashion London Modern luxury clothing Timeless fashion Identity-driven fashion
+  - [Dark Academia Winter Style: Essential Pieces for Urban Edge Unleashed](https://montenegra-london.com/blogs/news/dark-academia-winter-style-essential-pieces-for-urban-edge): Dark Academia Winter Style: Essential Pieces for Urban Edge Unleashed
+    Updated: 2025-12-16T14:30:05Z
+    Author: Tinuke Lawal
+    Tags: Capsule Wardrobe, Dark Academia, Layering, Urban Style, Winter Fashion
   - [Trend Alert: Made-to-Order Fashion: Why Custom Clothing Defines 2025](https://montenegra-london.com/blogs/news/made-to-order-fashion-why-custom-clothing-defines-2025): Trend Alert: Made-to-Order Fashion: Why Custom Clothing Defines 2025
     Updated: 2025-12-13T10:00:05Z
     Author: Tinuke Lawal
