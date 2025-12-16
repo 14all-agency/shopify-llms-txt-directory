@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-12-15T00:00:37.343Z
+- Updated At: 2025-12-16T16:48:25.400Z
 
 ## Products
 
@@ -49,6 +49,56 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1241-1241-141.0.td_size_1_e224bab1-7466-4b57-8aa7-b5081cdace10.webp?v=1762873265
   Price: $24.19 USD
+- [Organic Hand Lotion Collection - All Things Good for Nourished Skin](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection): Discover the All Things Good Organic Hand Lotion Collection. Nourish your skin with our premium organic hand lotions, crafted for hydration and softness. Shop now for radiant hands!
+  Updated: 2025-12-16T15:51:58Z
+  Vendor: Earth to Malibu
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000031.0.td_size_1_872afd5e-826b-48f9-ba7f-fe9a780c68dc.webp?v=1763322523
+  - [1 / Wild flower song / 5OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303259383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000031.0.td_size_1_8b2227ab-4c09-4c9f-af05-fddd3caa3efe.webp?v=1763322560
+    Price: $69.12 USD
+  - [1 / Wild flower song / 1OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303292151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000032.0.td_size_1.webp?v=1763322573
+    Price: $23.04 USD
+  - [1 / Vivacious vanilla / 5OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303324919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000033.0.td_size_1.webp?v=1763322587
+    Price: $69.12 USD
+  - [1 / Vivacious vanilla / 1OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303357687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000034.0.td_size_1.webp?v=1763322602
+    Price: $23.04 USD
+  - [1 / Mango lemonade / 5OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303390455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000035.0.td_size_1.webp?v=1763322617
+    Price: $69.12 USD
+  - [1 / Mango lemonade / 1OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303423223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000036.0.td_size_1.webp?v=1763322629
+    Price: $23.04 USD
+  - [1 / Sweet almond / 5OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303455991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000037.0.td_size_1.webp?v=1763322642
+    Price: $69.12 USD
+  - [1 / Sweet almond / 1OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303488759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000038.0.td_size_1.webp?v=1763322654
+    Price: $23.04 USD
+  - [1 / Citrus splash / 5OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303521527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000039.0.td_size_1.webp?v=1763322665
+    Price: $69.12 USD
+  - [1 / Citrus splash / 1OZ](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303554295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000040.0.td_size_1.webp?v=1763322678
+    Price: $23.04 USD
+  - [1 / (5) 1oz sample collection / 1OZ EACH](https://www.perlamargherita.com/products/all-things-good-organic-hand-lotion-collection?variant=50237303587063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000041.0.td_size_1.webp?v=1763322691
+    Price: $115.20 USD
 - [Immune Boosting Lotion for Enhanced Wellness and Deep Hydration](https://www.perlamargherita.com/products/immune-boosting-body-lotion): Boost your wellness with our Immune Boosting Lotion. Hydrate your skin while enhancing your immune health. Experience the perfect balance of nourishment and defense today!
   Updated: 2025-12-10T17:10:40Z
   Vendor: R.D. Alchemy Natural Products
@@ -84,6 +134,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0020.0.td_size_1_da203099-7d5f-4ecc-b061-05fecc3662e5.webp?v=1762873312
   Price: $34.56 USD
+- [Instant Zen Body Butter Collection - Perla Margherita](https://www.perlamargherita.com/products/instant-zen-body-butter-collection): Indulge in our Instant Zen Body Butter Collection for ultimate hydration and relaxation. Experience the soothing blend of natural ingredients with our Instant Zen Body Butter today!
+  Updated: 2025-12-16T15:51:58Z
+  Vendor: Earth to Malibu
+  Product Type: Body Moisturizers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000023.0.td_size_1.webp?v=1763322956
+  - [1 set (5 pieces) / (5) 2oz collection](https://www.perlamargherita.com/products/instant-zen-body-butter-collection?variant=50237307617527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000023.0.td_size_1_03b0387e-ffe9-4caf-9282-d26a1c21fe1f.webp?v=1763322994
+    Price: $138.24 USD
+  - [1 piece / (1) 4oz coco loco](https://www.perlamargherita.com/products/instant-zen-body-butter-collection?variant=50237307650295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000024.0.td_size_1.webp?v=1763323006
+    Price: $52.99 USD
+  - [1 piece / (1) 4oz strawberry fields](https://www.perlamargherita.com/products/instant-zen-body-butter-collection?variant=50237307683063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000025.0.td_size_1.webp?v=1763323018
+    Price: $52.99 USD
+  - [1 piece / (1) 4oz sweet alomnd](https://www.perlamargherita.com/products/instant-zen-body-butter-collection?variant=50237307715831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000026.0.td_size_1.webp?v=1763323032
+    Price: $52.99 USD
+  - [1 piece / (1) 4oz country road](https://www.perlamargherita.com/products/instant-zen-body-butter-collection?variant=50237307748599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000027.0.td_size_1.webp?v=1763323044
+    Price: $52.99 USD
+  - [1 piece / (1) 4oz tropical breeze](https://www.perlamargherita.com/products/instant-zen-body-butter-collection?variant=50237307781367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000028.0.td_size_1.webp?v=1763323057
+    Price: $52.99 USD
 - [Anytime Anti-Aging Moisturizer for Youthful Skin - Rejuvenate Now!](https://www.perlamargherita.com/products/anytime-anti-aging-facial-moisturizer): Revitalize your skin with our Anytime Anti-Aging Moisturizer. Experience youthful, radiant skin every day with this essential moisturizer. Shop now for lasting beauty!
   Updated: 2025-12-10T17:10:41Z
   Vendor: Earth to Malibu
@@ -91,6 +171,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000045.0.td_size_1.webp?v=1762873322
   Price: $57.60 USD
+- [Elixir Pink Lip Color Bundle With Lip Liner - Perla Margherita](https://www.perlamargherita.com/products/elixir-pink-lip-color-bundle-with-lip-liner): Enhance your beauty with the Elixir Pink Lip Color Bundle with Lip Liner. Perfectly paired for a stunning, long-lasting look. Get yours today and elevate your lip game!
+  Updated: 2025-12-16T15:51:59Z
+  Vendor: Sydoni Skincare and Beauty
+  Product Type: Lip Liners
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/861-689585360824.0.td_size_1.webp?v=1762873336
+  Price: $56.45 USD
+- [Intense Hydration Skincare Bundle - Perla Margherita](https://www.perlamargherita.com/products/intense-hydration-skincare-bundle): Discover our Intense Hydration Skincare Bundle, designed to nourish and rejuvenate your skin. Experience deep moisture and radiance with every use. Perfect for hydration lovers!
+  Updated: 2025-12-16T15:52:00Z
+  Vendor: Sydoni Skincare and Beauty
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/861-689585360770.0.td_size_1_966ad36d-0229-4890-a95d-8928f56eb23a.webp?v=1763323171
+  Price: $93.89 USD
 - [Comfort Cleanser - Gentle Formula for Refreshing and Hydrating Skin](https://www.perlamargherita.com/products/comfort-cleanser): Experience the soothing power of our Comfort Cleanser. Perfect for all skin types, this gentle formula cleanses effectively while maintaining your skin's natural balance. Embrace comfort today!
   Updated: 2025-12-10T17:10:42Z
   Vendor: Solace
@@ -206,6 +300,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1176-680196962124.1.td_size_1_b5a123b5-01f2-46d7-8fec-d46dd6649698.webp?v=1763323667
   Price: $57.60 USD
+- [Chocolate Brown Lip Color Bundle With Lip Liner - Perla Margherita](https://www.perlamargherita.com/products/chocolate-brown-lip-color-bundle-with-lip-liner): Meta Description: Discover our Chocolate Brown Lip Color Bundle with Lip Liner. Achieve a stunning look with rich, long-lasting shades. Perfect for any occasion—shop now for irresistible beauty!
+  Updated: 2025-12-16T15:52:01Z
+  Vendor: Sydoni Skincare and Beauty
+  Product Type: Lip Liners
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/861-689585360817.0.td_size_1_47ff2b5e-3983-49f5-8370-a9463c65931b.webp?v=1762873415
+  Price: $56.45 USD
 - [Vitamin C Facial Cleanser for Radiant Skin - Glow Naturally](https://www.perlamargherita.com/products/vitamin-c-cleanser): Revitalize your skin with our Vitamin C Facial Cleanser. Achieve radiant, glowing skin while removing impurities. Perfect for all skin types. Shop now for luminous beauty!
   Updated: 2025-12-10T17:10:44Z
   Vendor: R.D. Alchemy Natural Products
@@ -213,6 +314,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0076.0.td_size_1_35b13763-b09c-46a2-9ad2-324816be2df6.webp?v=1763323714
   Price: $32.26 USD
+- [Simply Complete System - Achieve Your Goals with Ease and Efficiency](https://www.perlamargherita.com/products/simply-complete-system): Discover the Simply Complete System, your all-in-one solution for streamlined productivity and efficiency. Enhance your workflow today with our user-friendly system!
+  Updated: 2025-12-16T15:42:09Z
+  Vendor: Z Skin
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1241-1241-165.0.td_size_1_01b62b27-d411-4ec3-9d27-9164d3c0cb1b.webp?v=1763323796
+  Price: $207.36 USD
+- [Brightening Skincare Bundle for Radiant Glow and Protection - Shop Now](https://www.perlamargherita.com/products/brightening-protection-skincare-bundle): Achieve a radiant complexion with our Brightening Skincare Bundle. Perfect for enhancing glow and providing protection, this bundle is your go-to solution for luminous skin.
+  Updated: 2025-12-16T15:52:01Z
+  Vendor: Sydoni Skincare and Beauty
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/861-689585360855.0.td_size_1_2269828f-fad3-4cb8-9a69-e0c25f8370fb.webp?v=1763323808
+  Price: $84.10 USD
 - [Raspberry Pink Satin Finish Lipstick - Beacon Street Cool Undertone](https://www.perlamargherita.com/products/beacon-street-satin-finish-lipstick-rasberry-pink-with-a-cool-undertone): Discover the Beacon Street Raspberry Pink Satin Finish Lipstick with Cool Undertone. This perfect raspberry pink satin finish lipstick adds a vibrant touch to your look!
   Updated: 2025-12-10T17:10:45Z
   Vendor: Sydoni Skincare and Beauty
@@ -370,6 +485,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1176-680196962131.0.td_size_1.webp?v=1763324784
   Price: $57.60 USD
+- [Morning Skincare Essentials - Daily Regimen Collection for Fresh Skin](https://www.perlamargherita.com/products/morning-regimen-essentials-collection): Elevate your routine with our Morning Skincare Essentials Collection. Perfect for a refreshing start, this collection includes everything you need for glowing skin every day.
+  Updated: 2025-12-16T15:52:02Z
+  Vendor: Earth to Malibu
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000050.0.td_size_1.webp?v=1763324854
+  Price: $161.28 USD
 - [24k Gold Facial Cleanser with Aloe Vera & Vitamin C for Radiance](https://www.perlamargherita.com/products/24k-exfoliating-facial-cleanser-with-24k-gold-aloe-vera-vitamin-c): Unlock radiant skin with our 24k Gold Facial Cleanser enriched with Aloe Vera and Vitamin C. Exfoliate for a youthful glow and elevate your skincare routine today!
   Updated: 2025-12-10T17:10:48Z
   Vendor: GLO24K
@@ -398,6 +520,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0059.0.td_size_1.webp?v=1762873573
   Price: $29.95 USD
+- [Brightening Detox Skincare Bundle - Perla Margherita](https://www.perlamargherita.com/products/brightening-detox-skincare-bundle): Revitalize your skin with our Brightening Detox Skincare Bundle. Experience the power of brightening detox skincare for a radiant, refreshed complexion. Elevate your routine today!
+  Updated: 2025-12-16T15:52:04Z
+  Vendor: Sydoni Skincare and Beauty
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/861-689585360732.0.td_size_1_61dd2635-1152-43b9-ac37-7e2c0f152c2e.webp?v=1763325150
+  Price: $101.95 USD
 - [Summer Essentials: Must-Have Items for Your Perfect Summer Adventure](https://www.perlamargherita.com/products/the-summer-essentials): Discover our Summer Essentials collection, featuring must-have items for the season. Stay cool and stylish with the best summer essentials. Shop now for vibrant looks and comfort!
   Updated: 2025-12-10T17:10:50Z
   Vendor: Z Skin
@@ -419,6 +548,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000065.0.td_size_1.webp?v=1763325279
   Price: $52.99 USD
+- [Evening Skincare Essentials for Radiant Skin - Ultimate Collection](https://www.perlamargherita.com/products/evening-regimen-essentials-collection): Transform your skin with our Evening Skincare Essentials Collection. Unlock radiant skin with our curated, high-quality products designed for your nighttime routine. Enjoy glowing, healthy skin!
+  Updated: 2025-12-16T15:52:04Z
+  Vendor: Earth to Malibu
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1593-1593000017.0.td_size_1.webp?v=1763325292
+  Price: $172.80 USD
 - [Complete Acne Treatment System for Effective Clear Skin Solutions](https://www.perlamargherita.com/products/complete-acne-system): Transform your skin with our Complete Acne Treatment System. Achieve clear, radiant skin solutions and say goodbye to blemishes. Perfect for all skin types!
   Updated: 2025-12-10T17:10:50Z
   Vendor: Z Skin
@@ -458,6 +594,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0065.0.td_size_1.webp?v=1762873644
   Price: $36.86 USD
+- [Cherry Red Lip Color Set - Complete Bundle with Lip Liner Included](https://www.perlamargherita.com/products/cherry-red-lip-color-bundle-with-lip-liner): Elevate your makeup game with our Cherry Red Lip Color Set. This bundle includes a vibrant lip color and precise lip liner for a flawless, long-lasting pout. Perfect for any occasion!
+  Updated: 2025-12-16T15:52:05Z
+  Vendor: Sydoni Skincare and Beauty
+  Product Type: Lip Liners
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/861-689585360831.0.td_size_1_b9e6c735-ce0d-4a74-b725-2be759d7f625.webp?v=1763325484
+  Price: $56.45 USD
 - [Nutrient Flux Serum - Revitalize Your Skin with Powerful Ingredients](https://www.perlamargherita.com/products/nutrient-flux-serum): Unlock radiant skin with our Nutrient Flux Serum. Formulated to deeply hydrate and revitalize, this serum delivers essential nutrients for a healthy, glowing complexion.
   Updated: 2025-12-10T17:10:51Z
   Vendor: R.D. Alchemy Natural Products
@@ -1598,7 +1741,7 @@
   Updated: 2025-12-10T17:08:24Z
   Total Products: 24
 - [Beauty - Explore Our Beauty Products for Every Occasion](https://www.perlamargherita.com/collections/beauty): Discover our Beauty: Enhance Your Radiance and Wellness with our beauty products. Elevate your skincare routine and embrace your natural glow today!
-  Updated: 2025-12-10T17:08:23Z
+  Updated: 2025-12-16T15:48:05Z
   Total Products: 96
 - [Collection - Feature Clothing with Styles for Every Occasion](https://www.perlamargherita.com/collections/collection-feature-clothing): Discover our Feature Clothing Collections, showcasing stylish trends perfect for every occasion. Elevate your wardrobe with versatile pieces that make a statement!
   Updated: 2025-12-10T17:08:24Z
@@ -1658,14 +1801,14 @@
   Updated: 2025-12-10T17:08:24Z
   Total Products: 1
 - [Body Care Bundles - Perla Margherita](https://www.perlamargherita.com/collections/body-care-bundles): - Perla Margherita
-  Updated: 2025-12-10T17:08:23Z
+  Updated: 2025-12-16T15:42:09Z
   Total Products: 5
 - [Lips Bundles - Perla Margherita](https://www.perlamargherita.com/collections/lip-bundles): - Perla Margherita
   Updated: 2025-12-10T17:08:24Z
   Total Products: 5
 - [Category - Discover Our Top Essential Beauty Bundles](https://www.perlamargherita.com/collections/beauty-bundles-all-category): Discover our curated Beauty Bundles Category, featuring top-rated products across all categories. Elevate your routine and indulge in exclusive offers today!
-  Updated: 2025-12-10T17:08:23Z
-  Total Products: 13
+  Updated: 2025-12-16T15:48:05Z
+  Total Products: 31
 
 ## Blogs
 
@@ -1706,14 +1849,17 @@
   - [Latest Hair Coloring Trends: Explore 2023 Styles for a Fresh Look](https://www.perlamargherita.com/blogs/blogs/latest-hair-coloring-trends-your-ultimate-guide-to-2023-styles): Latest Hair Coloring Trends: Explore 2023 Styles for a Fresh Look
     Updated: 2025-12-07T15:50:59Z
     Author: Perla Margherita
-  - [Solving Common Wardrobe Malfunctions and Fashion Mishaps](https://www.perlamargherita.com/blogs/blogs/solving-common-wardrobe-malfunctions-and-fashion-mishaps): Solving Common Wardrobe Malfunctions and Fashion Mishaps
-    Updated: 2025-12-08T00:11:53Z
+  - [Wardrobe Malfunctions Solutions: Quick Fixes for Fashion Mishaps](https://www.perlamargherita.com/blogs/blogs/wardrobe-malfunctions-solutions-fixing-common-fashion-mishaps): Wardrobe Malfunctions Solutions: Quick Fixes for Fashion Mishaps
+    Updated: 2025-12-16T10:21:29Z
     Author: Perla Margherita
-  - [The History and Evolution of Iconic Footwear Designs](https://www.perlamargherita.com/blogs/blogs/the-history-and-evolution-of-iconic-footwear-designs): The History and Evolution of Iconic Footwear Designs
-    Updated: 2025-12-10T00:11:17Z
+  - [Iconic Footwear Designs: The History and Evolution of Timeless Styles](https://www.perlamargherita.com/blogs/blogs/the-history-and-evolution-of-iconic-footwear-designs): Iconic Footwear Designs: The History and Evolution of Timeless Styles
+    Updated: 2025-12-16T15:35:25Z
     Author: Perla Margherita
-  - [Five Secrets to Achieving Salon-Quality Nails at Home](https://www.perlamargherita.com/blogs/blogs/five-secrets-to-achieving-salon-quality-nails-at-home): Five Secrets to Achieving Salon-Quality Nails at Home
-    Updated: 2025-12-12T00:06:23Z
+  - [Salon-Quality Nails at Home: Five Secrets for Stunning Results](https://www.perlamargherita.com/blogs/blogs/five-secrets-to-achieving-salon-quality-nails-at-home): Salon-Quality Nails at Home: Five Secrets for Stunning Results
+    Updated: 2025-12-16T15:36:49Z
+    Author: Perla Margherita
+  - [Eco-Friendly Fabrics: Refresh Your Closet Style Sustainably Now](https://www.perlamargherita.com/blogs/blogs/eco-friendly-fabrics-to-refresh-your-closet-today): Eco-Friendly Fabrics: Refresh Your Closet Style Sustainably Now
+    Updated: 2025-12-16T15:38:30Z
     Author: Perla Margherita
 
 ## Store Pages
