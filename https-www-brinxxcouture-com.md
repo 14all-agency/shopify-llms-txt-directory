@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-12-15T00:01:02.928Z
+- Updated At: 2025-12-16T00:01:02.129Z
 
 ## Products
 
@@ -554,7 +554,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/26-Body-Wave-Wig-Brinxx-Couture-4057.jpg?v=1739988431
   Price: $31.00 USD
 - [26'' Long Straight Synthetic Wig  - Brinxx Couture](https://www.brinxxcouture.com/products/long-straight-synthetic-wigs-26): Look beautiful and elegant with this 26'' Long Straight Synthetic Wig. It is soft and smooth in texture, allowing for comfortable wear all day.
-  Updated: 2025-10-29T15:00:42Z
+  Updated: 2025-12-15T08:15:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4219,7 +4219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Striped-Tie-Back-Cropped-Cami-Brinxx-Couture-2006.jpg?v=1709311114
     Price: $25.00 USD
 - [Plus Size Drawstring Sweetheart Neck Babydoll Blouse](https://www.brinxxcouture.com/products/plus-size-drawstring-sweetheart-neck-babydoll-blouse): Sizing category: Plus Pattern type: Solid Style: Casual, chic Features: Drawstring Neckline: Sweetheart neck Length: Regular Sleeve length: Long sleeves Sleeve type: Flutter sleeves Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 1X: bust 41 in, sleeve length 11 in, length 21 in, hem width 70 in2X: bust 44 in, sleeve length 11 in, length 21 in, hem width 74 in3X: bust 47 in, sleeve length 12 in, length 22 in, hem width 78 in4X: bust 50 in, sleeve length 12 in, length 22 in, hem width 82 in5X: bust 53 in, sleeve length 12 in, length 22 in, hem width 86 in
-  Updated: 2025-12-12T11:13:10Z
+  Updated: 2025-12-15T07:51:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -6057,7 +6057,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-925-Sterling-Silver-Necklace-Brinxx-Couture-6736.jpg?v=1730298638
   Price: $149.00 USD
 - [Surplice Neck Slit Sleeveless Dress - Brinxx Couture](https://www.brinxxcouture.com/products/surplice-neck-slit-sleeveless-dress): This stylish dress features a surplice neck, sleeveless design, and a flattering slit. It's perfect for a night out or a special occasion. Made from high-quality fabric, this dress is both comfortable and stylish. Order yours today!
-  Updated: 2025-11-18T06:01:00Z
+  Updated: 2025-12-15T08:20:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -6067,7 +6067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Surplice-Neck-Slit-Sleeveless-Dress-Brinxx-Couture-4103.jpg?v=1709366771
     Price: $30.00 USD
   - [Black / M](https://www.brinxxcouture.com/products/surplice-neck-slit-sleeveless-dress?variant=42246294896822)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Surplice-Neck-Slit-Sleeveless-Dress-Brinxx-Couture-4103.jpg?v=1709366771
     Price: $30.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/surplice-neck-slit-sleeveless-dress?variant=42246294929590)
@@ -8166,7 +8166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-12-14T17:10:35Z
+  Updated: 2025-12-15T08:31:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9060,7 +9060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Surplice-Neck-Long-Sleeve-Slit-Dress-Brinxx-Couture-6647.jpg?v=1709850464
     Price: $39.99 USD
 - [Snap Down Collared Winter Coat - Brinxx Couture](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat): Stay warm and stylish in this Snap Down Collared Winter Coat. The high-quality fabric and unique snap closure ensures a weatherproof fit.
-  Updated: 2025-12-13T12:17:36Z
+  Updated: 2025-12-15T08:10:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10022,7 +10022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Up-Lug-Booties-Brinxx-Couture-206.jpg?v=1709859595
     Price: $60.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-12-12T03:10:20Z
+  Updated: 2025-12-15T15:40:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10222,7 +10222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Caramel-Platform-Combat-Boots-Brinxx-Couture-3438.jpg?v=1709862667
     Price: $50.00 USD
 - [Round Neck Puff Sleeve Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-puff-sleeve-sleeve-blouse): This Round Neck Puff Sleeve Sleeve Blouse is perfect for any occasion! Its round neck design and puff long sleeves add a touch of elegance to your style.
-  Updated: 2025-12-08T22:13:46Z
+  Updated: 2025-12-15T05:50:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11154,7 +11154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Hip-Lifting-Shaping-Shorts-Brinxx-Couture-3671.jpg?v=1709866906
     Price: $35.00 USD
 - [Lace Detail Hook-and-Eye Shaping Shorts - Brinxx Couture](https://www.brinxxcouture.com/products/lace-detail-hook-and-eye-shaping-shorts): Experience a perfect fit in these Lace Detail Hook-and-Eye Shaping Shorts. With delicate lace detail and comfortable hook-and-eye design.
-  Updated: 2025-11-24T22:15:04Z
+  Updated: 2025-12-15T22:23:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16690,7 +16690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-12-12T03:40:50Z
+  Updated: 2025-12-15T09:00:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18884,7 +18884,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Wide-Leg-Pants-with-Pockets-Brinxx-Couture-7151.jpg?v=1730295166
     Price: $50.00 USD
 - [Lace Detail V-Neck Short Sleeve Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/lace-detail-v-neck-short-sleeve-bodysuit): Elevate your everyday look with our Lace Detail V-Neck Short Sleeve Bodysuit. Delicately designed with lace detailing and a flattering v-neck.
-  Updated: 2025-12-14T03:40:37Z
+  Updated: 2025-12-15T07:40:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19948,7 +19948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Open-Front-Long-Sleeve-Cardigan-Brinxx-Couture-5427.jpg?v=1730295749
     Price: $25.00 USD
 - [Drawstring Half Zip Hoodie and Joggers Active Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-half-zip-hoodie-and-joggers-active-set): Unleash the ultimate athleisure look with our Drawstring Half Zip Hoodie and Joggers Active Set. Featuring a drawstring hoodie with a convenient half zip and cozy joggers.
-  Updated: 2025-12-14T23:11:15Z
+  Updated: 2025-12-15T23:21:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20698,7 +20698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-12-13T06:47:55Z
+  Updated: 2025-12-15T09:41:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20818,7 +20818,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-12-13T08:22:55Z
+  Updated: 2025-12-15T02:40:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21173,7 +21173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-12-14T07:31:15Z
+  Updated: 2025-12-15T10:00:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22309,7 +22309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Casual-Long-Parka-with-Pockets-and-Zipper-Brinxx-Couture-8040.jpg?v=1730297095
     Price: $69.99 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-12-14T23:50:35Z
+  Updated: 2025-12-15T23:57:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22445,7 +22445,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fuzzy-Zip-Up-Long-Sleeve-Hooded-Jacket-Brinxx-Couture-2156.jpg?v=1730297285
     Price: $49.99 USD
 - [Suede Fringe Adjustable Strap Shoulder Bag - Brinxx Couture](https://www.brinxxcouture.com/products/suede-fringe-adjustable-strap-shoulder-bag): Effortlessly stylish and versatile, our Suede Fringe Adjustable Strap Shoulder Bag is a must-have addition. The soft material provide comfort and durability.
-  Updated: 2025-12-12T16:52:45Z
+  Updated: 2025-12-15T01:01:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24370,7 +24370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-12-13T17:27:21Z
+  Updated: 2025-12-15T14:23:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24715,7 +24715,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-12-14T08:00:36Z
+  Updated: 2025-12-15T11:00:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24725,15 +24725,15 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / M](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892785334)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / L](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892818102)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / XL](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892850870)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Moss / S](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892883638)
@@ -26734,171 +26734,171 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Contrast-Split-Two-Piece-Set-Brinxx-Couture-4622.jpg?v=1735530184
     Price: $44.99 USD
-- [Jewel Strap Satin Platform Heels - Luxe Collection](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels): Step into luxury with our Jewel Strap Satin Platform Heels. Perfect for any formal occasion, these heels combine comfort and style. Shop now! Ships Free!
-  Updated: 2025-11-13T08:45:00Z
+- [Jewel Strap Satin Platform Heels | Brinxx Couture](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels): Luxurious satin platform heels with jeweled ankle straps. Comfortable design, sparkling details. Perfect for weddings and formal events. Free Shipping
+  Updated: 2025-12-15T14:41:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-4401.jpg?v=1735530188
   - [35 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078525110)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [36 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078557878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [37 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078590646)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [38 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078623414)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [39 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078656182)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [40 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078688950)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [41 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078721718)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [42 / Black](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078754486)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1734726228
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GjVinW1zKMT2Iiv5u__2209275056695-0-cib_6283e03f-ee7f-421b-8b41-b92a611516c0.jpg?v=1765809670
     Price: $69.99 USD
   - [35 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078787254)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [36 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078820022)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [37 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078852790)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [38 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078885558)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [39 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078918326)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [40 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078951094)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [41 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675078983862)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [42 / Yellow](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079016630)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1735530202
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1554.jpg?v=1765809670
     Price: $69.99 USD
   - [35 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079049398)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [36 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079082166)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [37 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079114934)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [38 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079147702)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [39 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079180470)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [40 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079213238)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [41 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079246006)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [42 / Coral Red](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079278774)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1735530207
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-1489.jpg?v=1765809670
     Price: $69.99 USD
   - [35 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079311542)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [36 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079344310)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [37 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079377078)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [38 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079409846)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [39 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079442614)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [40 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079475382)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [41 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079508150)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [42 / Pink](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079540918)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1735530200
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-3576.jpg?v=1765809670
     Price: $69.99 USD
   - [35 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079573686)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [36 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079606454)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [37 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079639222)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [38 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079671990)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [39 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079704758)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [40 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079737526)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [41 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079770294)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
   - [42 / Purple](https://www.brinxxcouture.com/products/jewel-strap-satin-platform-heels?variant=43675079803062)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1735530204
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Jewel-Strap-Satin-Platform-Heels-Brinxx-Couture-5328.jpg?v=1765809670
     Price: $69.99 USD
 - [Elegant Rhinestone Clear Heels | Sparkle & Shine](https://www.brinxxcouture.com/products/rhinestone-clear-heels): Step out in style with our Elegant Rhinestone Clear Heels. Perfect for any occasion, these elegant heels add a touch of sparkle and sophistication to your look.
   Updated: 2025-10-29T14:39:09Z
@@ -35201,8 +35201,8 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 17
 - [Accessories Collection | Jewelry, Bags & Fashion Add-Ons](https://www.brinxxcouture.com/collections/accessories): Shop stylish accessories including jewelry, handbags, scarves, and belts. Add the perfect finishing touch to any outfit. New arrivals added weekly.
-  Updated: 2025-12-12T19:12:56Z
-  Total Products: 32
+  Updated: 2025-12-15T14:41:39Z
+  Total Products: 33
 - [Stylish Women's Fashion Jackets | Trendy & Affordable](https://www.brinxxcouture.com/collections/womens-jackets): Explore our collection of women's fashion jackets. Trendy, affordable outerwear perfect for any season. Stay stylish, warm, and chic with our top picks!
   Updated: 2025-11-24T12:17:06Z
   Total Products: 25
@@ -35297,7 +35297,7 @@
   Updated: 2025-10-02T17:11:56Z
   Total Products: 5
 - [Women's Heels Collection | Stylish & Comfortable Heels Online](https://www.brinxxcouture.com/collections/heels): Shop our Women's Heels Collection for stylish, comfortable, and elegant heels. Perfect for every occasion, from casual outings to formal events. Explore now
-  Updated: 2025-11-27T05:37:45Z
+  Updated: 2025-12-15T14:41:10Z
   Total Products: 28
 - [Comfortable Women’s Flats](https://www.brinxxcouture.com/collections/flats): Discover stylish and comfortable flats for women at Brinxx Couture. Perfect for everyday wear and available in various styles.
   Updated: 2025-10-02T17:11:56Z
