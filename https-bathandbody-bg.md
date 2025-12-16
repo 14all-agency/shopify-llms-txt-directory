@@ -6,7 +6,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2024-05-20T16:02:27Z
 - Contact Email: bathandbodybg@gmail.com
-- Updated At: 2025-12-15T00:00:21.930Z
+- Updated At: 2025-12-16T00:00:22.373Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/dush-gel-gingham-gorgeous-295-ml-976.webp?v=1765670280
   Price: 31,90 лв. BGN
 - [САПУН ЗА РЪЦЕ '' SUNSHINE&LEMONS '' 259 Мл. - Bath&Body](https://bathandbody.bg/products/сапун-за-ръце-sunshine-lemons-259-мл): Как мирише: ярък, цитрусов аромат. Какво прави: отмива микробите и помага за поддържането на естествената бариера на кожата срещу влага – без оцветители, парабени или сулфати. - Bath&Body
-  Updated: 2025-12-14T14:57:38Z
+  Updated: 2025-12-15T00:39:53Z
   Vendor: Bath&Body
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/khidratirash-dush-gel-ariromatherapy-lavender-vanilla-s-maslo-ot-shiy-527.jpg?v=1765670377
   Price: 41,90 лв. BGN
 - [САПУН ЗА РЪЦЕ '' GHOUL FRIED '' 295 Мл. - Bath&Body](https://bathandbody.bg/products/сапун-за-ръце-ghoul-fried-295-мл): Име на аромата: Ghoul FriendАроматни нотки: тъмни ягоди, призрачен божур, смразяващ гръбнака цитрусРазмер: 8,75 течни унции (259 мл)Направен с витамин Е, алое, екстракт от шийНе е тестван върху животни / Произведен без парабени, изкуствени оцветители, сулфати - Bath&Body
-  Updated: 2025-12-14T14:59:20Z
+  Updated: 2025-12-15T02:59:25Z
   Vendor: Bath&Body
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/krem-za-litse-hydrating-face-cream-113-gr-192.webp?v=1765670491
   Price: 32,90 лв. BGN
 - [САПУН ЗА РЪЦЕ '' GOLDEN BURST SHE BUTTER '' 141.75 гр.з - Bath&Body](https://bathandbody.bg/products/сапун-за-ръце-golden-burst-she-butter-141-75-гр): На какво мирише: отделяне на време за почивка и подмладяване, за да бъдете най-доброто от себе си. Ароматни нотки: лаванда, евкалипт и роза. Защо ще ви хареса: Обогатен с добрите неща (масло от ший и кокосово масло)Богата, кремообразна пянаБез сулфати, парабени или изкуствени оцветителиДерматологично тестванОпаковани в 100% рециклиран материал, който е просто толкова красив - Bath&Body
-  Updated: 2025-12-14T00:01:54Z
+  Updated: 2025-12-15T10:02:22Z
   Vendor: Bath&Body
   Product Type: 
   Availability: Available
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/dush-gel-a-thousand-wishes-295-ml-869.webp?v=1765670694
   Price: 32,90 лв. BGN
 - [ДУШ ГЕЛ "CHAMPAGNE TOAST" 295 МЛ. - Bath&Body](https://bathandbody.bg/products/душ-гел-champagne-toast-295-мл): Потопете се в лукса и празничното настроение с душ гел "Champagne Toast". Със своята свежа и елегантна формула, този душ гел ще ви дари с аромат на шампанско и сладки плодови нотки, като превърне вашето душиране в истински ритуал на разкош. Характеристики: Уникален аромат: Смес от шампанско, сочни цитруси и нотки на сладки боровинки, създаваща весело и празнично усещане. Нежно почистване: Почиства кожата, като същевременно я хидратира и омекотява. Хидратираща формула: Поддържа кожата мека, гладка и освежена. Идеален за: Всекидневна употреба за всеки тип кожа. За онези моменти, когато искате да се почувствате специални и празнични. Подарете си момент на лукс с душ гел "Champagne Toast".Поръчайте сега и се насладете на ароматите на празнично шампанско и цитрусови свежести! - Bath&Body
-  Updated: 2025-12-14T00:06:15Z
+  Updated: 2025-12-15T02:25:11Z
   Vendor: Bath&Body
   Product Type: 
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/parfium-coastal-cliffs-100-ml-624.webp?v=1765670846
   Price: 97,99 лв. BGN
 - [МИСТ ЗА ТЯЛО " IN THE STARS" 236 МЛ - Bath&Body](https://bathandbody.bg/products/мист-за-тяло-in-the-stars-236-мл): - Bath&Body
-  Updated: 2025-12-14T00:07:40Z
+  Updated: 2025-12-15T09:09:56Z
   Vendor: Bath&Body
   Product Type: 
   Availability: Available
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/mist-za-tyalo-bahamas-236-ml-908.webp?v=1765671174
   Price: 33,90 лв. BGN
 - [ДУШ ГЕЛ '' VIVA VANILLA '' 295 Мл. - Bath&Body](https://bathandbody.bg/products/душ-гел-viva-vanilla-295-мл): Ако сте почитател на ванилията, този душ-гел е за вас. Богата кремообразна текстура и изкусителен аромат на ванилия и карамелизирана захар, които оставят кожата копринено мека и деликатно ароматизирана. - Bath&Body
-  Updated: 2025-12-14T15:19:16Z
+  Updated: 2025-12-15T09:09:56Z
   Vendor: Bath&Body
   Product Type: 
   Availability: Available
@@ -668,11 +668,18 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/aeff3b35257583ff1516f8075a4f4fd4.jpg?v=1765727497
   Price: 34,90 лв. BGN
+- [Untitled Dec14_17:55 - Bath&Body](https://bathandbody.bg/products/n): - Bath&Body
+  Updated: 2025-12-15T11:04:55Z
+  Vendor: Bath & Body BG
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/IMG-4282.jpg?v=1765727768
+  Price: 56,90 лв. BGN
 
 ## Collections
 
 - [За Нея - Bath&Body](https://bathandbody.bg/collections/за-нея): - Bath&Body
-  Updated: 2025-12-14T15:14:39Z
+  Updated: 2025-12-15T13:01:24Z
   Total Products: 61
 - [За Него - Bath&Body](https://bathandbody.bg/collections/за-него): - Bath&Body
   Updated: 2025-12-13T23:50:47Z
@@ -681,11 +688,11 @@
   Updated: 2025-12-14T16:02:34Z
   Total Products: 43
 - [Душ гелове - Bath&Body](https://bathandbody.bg/collections/душ-гелове): - Bath&Body
-  Updated: 2025-12-14T16:17:45Z
+  Updated: 2025-12-15T12:54:39Z
   Total Products: 37
 - [. - Bath&Body](https://bathandbody.bg/collections/smart-collection): - Bath&Body
-  Updated: 2025-12-14T16:18:20Z
-  Total Products: 100
+  Updated: 2025-12-15T13:01:35Z
+  Total Products: 101
 
 ## Blogs
 
