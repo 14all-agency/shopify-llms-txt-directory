@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2025-12-12T15:12:06.228Z
+- Updated At: 2025-12-16T00:00:22.472Z
 
 ## Products
 
@@ -350,8 +350,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
     Price: £75.00 GBP
-- [Montenégra Indoor Slippers](https://montenegra-london.com/products/montenegra-indoor-slippers): US 7 - 8 EU size 40 - 41 Heel to toe (inside), in 10.39 Width, in 4.09 These luxurious slippers are a home staple that now becomes even more stylish thanks to Montenégras touch. Each slipper is made 100% with soft, comfy flannel fleece fabric while the outer sole is flexible, anti-skid, and delivers a higher durability along with a better grip on shiny floors..: Material: 100% polyester outer-layer and lining.: Black rubber sole.: Removable insole
-  Updated: 2025-11-21T17:58:15Z
+- [Montenégra Indoor Slippers - Silky White and Black](https://montenegra-london.com/products/montenegra-indoor-slippers): US 7 - 8 EU size 40 - 41 Heel to toe (inside), in 10.39 Width, in 4.09 These luxurious slippers are a home staple that now becomes even more stylish thanks to Montenégras touch. Each slipper is made 100% with soft, comfy flannel fleece fabric while the outer sole is flexible, anti-skid, and delivers a higher durability along with a better grip on shiny floors..: Material: 100% polyester outer-layer and lining.: Black rubber sole.: Removable insole
+  Updated: 2025-12-13T12:41:30Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -372,8 +372,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1762408356
     Price: £50.00 GBP
-- [Montenégra Indoor Slippers](https://montenegra-london.com/products/montenegra-indoor-slippers-1): US size US 7 - 8 EU size 40 - 41 Heel to toe (inside), in 10.39 Width, in 4.09 These luxurious slippers are a home staple that now becomes even more stylish thanks to Montenégras touch. Each slipper is made 100% with soft, comfy flannel fleece fabric while the outer sole is flexible, anti-skid, and delivers a higher durability along with a better grip on shiny floors..: Material: 100% polyester outer-layer and lining.: Black rubber sole.: Removable insole
-  Updated: 2025-11-21T17:58:15Z
+- [Montenégra Indoor Slippers - Premium Black and White](https://montenegra-london.com/products/montenegra-indoor-slippers-1): US size US 7 - 8 EU size 40 - 41 Heel to toe (inside), in 10.39 Width, in 4.09 These luxurious slippers are a home staple that now becomes even more stylish thanks to Montenégras touch. Each slipper is made 100% with soft, comfy flannel fleece fabric while the outer sole is flexible, anti-skid, and delivers a higher durability along with a better grip on shiny floors..: Material: 100% polyester outer-layer and lining.: Black rubber sole.: Removable insole
+  Updated: 2025-12-13T03:26:49Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -1746,8 +1746,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/organic-cotton-baby-bodysuit-white-front-692b8328252a0.jpg?v=1764459313
     Price: £35.00 GBP
-- [Montenégra Kids fleece hoodie - Premium Black and White](https://montenegra-london.com/products/montenegra-kids-fleece-hoodie): Young or old—hoodies are one of those timeless pieces that fit seamlessly into everyone’s wardrobe. The kids fleece hoodie will easily become a trusted companion for all your kiddo’s adventures thanks to its soft and cozy feel. The hoodie is made from durable material and has elastic cuffs and a waistband that will ensure long-lasting performance. • 65% cotton and 35% polyester • Heather colors are 60% cotton and 40% polyester • 100% cotton exterior • Fabric weight: 7.0 oz/yd² (237 g/m²) • Side-seamed construction • Tightly knit • 2-panel hood • Ribbed cuffs and waistband This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-11-30T11:41:20Z
+- [Montenégra Kids fleece hoodie - Premium Black and White](https://montenegra-london.com/products/montenegra-kids-fleece-hoodie): Stay warm in style with Montenégra Kids' premium black and white fleece hoodie. Perfect for cool days and cozy nights.
+  Updated: 2025-12-13T03:55:57Z
   Vendor: Montenégra
   Product Type: 
   Availability: Available
@@ -1884,8 +1884,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-ringer-t-shirt-white-black-front-6930062c7244f.jpg?v=1764755005
     Price: £40.00 GBP
-- [Montenégra Essential Barrel Dress Pants](https://montenegra-london.com/products/montengra-essential-barrel-dress-pants): Elevated essentials, redefined.A modern staple for every wardrobe, the Montenegra barrell dress pants delivers effortless style with a relaxed silhouette designed for movement and versatility. Crafted from a breathable blend of polyester and viscose, these trousers strike the perfect balance between structure and flow, with a mid-weight feel that carries you through spring and autumn with ease.Whether you're dressing for the street or the studio, office or outdoors, this piece adapts. Finished with functional pockets and contrast detailing, it's built for daily wear without compromising on edge.Details:Fit: Loose / Mid Waist / UnisexFabric Weight: 300 g/m²Care: Machine wash cold, tumble dry low, low iron (avoid print)Style Vibe: Casual, Sporty, Street, Minimalist CoolIdeal For: Daily wear, travel, parties, holidays, layered looksNote: Due to the nature of textile production, minor variations may occur between batches — this is part of the fabric’s unique character. Size Chart S M L XL inch cm inch cm inch cm inch cm Length 39.8 101 40.6 103 41.3 105 42.1 107 Waist 14.6 37 15.4 39 16.1 41 16.9 43 Hip 22.2 56.5 23.0 58.5 23.8 60.5 24.6 62.5 gid://shopify/Product/15273926951287
-  Updated: 2025-12-09T23:33:01Z
+- [Montenégra Essential Barrel Dress Pants](https://montenegra-london.com/products/montengra-essential-barrel-dress-pants): Elevate your style with the Montenégra Essential Barrel Dress Pants, perfect for a sleek and sophisticated look.
+  Updated: 2025-12-13T03:55:54Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1906,8 +1906,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/d38734d35d184c8eaae840e970855823.png?v=1764849428
     Price: £50.00 GBP
-- [Montenégra Essential Sweatpants - Premium Black and White](https://montenegra-london.com/products/essential-sweatpants): Redefine your everyday essentials with the Montenégra Essential Sweatpants — where comfort meets understated attitude. Designed as a foundation piece for versatile styling, these premium black and white sweatpants are built to move with you from city days to laid-back nights. Crafted from 100% cotton with a mid-weight fleece feel, they deliver a soft, lived-in comfort while maintaining structure and silhouette. The classic drawstring waist and relaxed cut give a naturally effortless fit, making them ideal for casual wear, street-ready looks, or slow-paced weekends. True to Montenégra’s signature aesthetic — clean lines, bold contrasts, and intentional simplicity — these sweatpants capture the brand’s modern minimalist spirit with every wear. Pair them with a staple tee or layer under outerwear for an elevated everyday outfit that stays true to your style. Key Features Premium cotton fleece for breathable comfort and everyday wearability Unisex relaxed fit with drawstring waist Mid-weight fabric perfect for spring, autumn & winter Clean black & white palette for timeless style Machine washable for easy care Essential by name, iconic by nature — made for those who wear simplicity with purpose. Size Chart S M L XL inch cm inch cm inch cm inch cm Length 40.2 102 40.9 104 41.7 106 42.5 108 Waist 13.6 34.5 14.2 36 14.8 37.5 15.4 39 Hip 20.1 51 20.9 53 21.7 55 22.4 57 gid://shopify/Product/15273940386167
-  Updated: 2025-12-11T23:07:28Z
+- [Montenégra Essential Sweatpants - Premium Black and White](https://montenegra-london.com/products/essential-sweatpants): Elevate your loungewear with our Montenégra Essential Sweatpants in sleek black and white. Premium comfort meets timeless style.
+  Updated: 2025-12-13T03:58:19Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2014,37 +2014,45 @@
   Updated: 2025-11-21T17:58:13Z
   Total Products: 0
 - [Garments](https://montenegra-london.com/collections/general-clothes-example-products)
-  Updated: 2025-12-12T09:56:46Z
+  Updated: 2025-12-12T15:29:09Z
   Total Products: 42
 - [Music.](https://montenegra-london.com/collections/music)
   Updated: 2025-12-12T12:56:24Z
   Total Products: 8
 - [Recommended products (Seguno)](https://montenegra-london.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-12T15:10:38Z
+  Updated: 2025-12-12T15:26:58Z
   Total Products: 94
 
 ## Blogs
 
 - [News](https://montenegra-london.com/blogs/news)
   - [Montenegra: A Reintroduction to Luxury in a World Searching for Identity](https://montenegra-london.com/blogs/news/montenegra-a-reintroduction-to-luxury-in-a-world-searching-for-identity): Montenegra: A Reintroduction to Luxury in a World Searching for Identity
-    Updated: 2025-11-30T13:36:32Z
-    Author: Tinuke Lawal
+    Updated: 2025-12-12T15:32:42Z
+    Author: Montenegra
     Tags: London luxury fashion brand Montenégra clothing London UK designer fashion, Luxury fashion that empowers identity Clothing inspired by art and culture Intentional and timeless fashion pieces Quiet luxury for modern lifestyle Fashion beyond trends and logos, Minimalist luxury fashion Sustainable luxury clothing Fashion for self-expression Gender-neutral clothing Art-inspired fashion, Montenégra London Luxury fashion London Modern luxury clothing Timeless fashion Identity-driven fashion
+  - [Trend Alert: Made-to-Order Fashion: Why Custom Clothing Defines 2025](https://montenegra-london.com/blogs/news/made-to-order-fashion-why-custom-clothing-defines-2025): Trend Alert: Made-to-Order Fashion: Why Custom Clothing Defines 2025
+    Updated: 2025-12-13T10:00:05Z
+    Author: Tinuke Lawal
+    Tags: 2025 fashion trends, custom clothing, made-to-order fashion, on-demand fashion, sustainable fashion
   - [Curating Your Wardrobe: Essential Garments for 2025 that turn heads](https://montenegra-london.com/blogs/news/curating-your-wardrobe-essential-garments-for-2025): Curating Your Wardrobe: Essential Garments for 2025 that turn heads
     Updated: 2025-12-12T10:01:39Z
     Author: Tapita
     Tags: 2025 fashion trends, capsule wardrobe, minimalist style, sustainable fashion, wardrobe essentials
+  - [Sustainable Luxury Fashion: The Future of Conscious Style, Redefined](https://montenegra-london.com/blogs/news/sustainable-luxury-fashion-the-future-of-conscious-style): Sustainable Luxury Fashion: The Future of Conscious Style, Redefined
+    Updated: 2025-12-12T15:40:52Z
+    Author: Montenegra
+    Tags: circular economy, conscious fashion, ethical fashion, luxury fashion, sustainable fashion
 
 ## Store Pages
 
-- [Contact](https://montenegra-london.com/pages/contact)
-  Updated: 2025-11-01T09:22:28Z
+- [Contact](https://montenegra-london.com/pages/contact): 
+  Updated: 2025-12-12T15:50:55Z
 - [Your privacy choices](https://montenegra-london.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-02T17:40:01Z
 - [Music](https://montenegra-london.com/pages/music): 
   Updated: 2025-11-30T13:09:01Z
 - [About us](https://montenegra-london.com/pages/about-us): Who We Are Montenegra Ltd is a UK-registered company (registered in England & Wales). We launched in 2025 to bring a bold, noir-inspired aesthetic ...
-  Updated: 2025-12-09T21:08:21Z
+  Updated: 2025-12-12T15:53:21Z
 - [Returns and Refund Policy](https://montenegra-london.com/pages/return-policy): We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. To be eligible for a return, your item ...
   Updated: 2025-12-02T10:13:39Z
 - [Terms of Service](https://montenegra-london.com/pages/terms-of-service): OVERVIEW Welcome to Montenegra! The terms “we”, “us” and “our” refer to Montenegra LTD Montenegra LTD operates this store and website, including al...
