@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-12-14T00:00:39.508Z
+- Updated At: 2025-12-16T00:00:39.146Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -55,7 +55,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311145.jpg?v=1727093923
     Price: 25,00 € EUR
 - [Spitzentop in Seidenoptik](https://lastradafashion.de/products/top-mit-spitze): Zart, feminin und luxuriös – dieses Top in edler Seidenoptik bringt romantischen Charme und modische Raffinesse perfekt zusammen. Die feine florale Spitze am tiefen V-Ausschnitt und den Trägern verleiht dem Look eine sinnliche Note, während die fließende Qualität sanft die Figur umspielt. Der raffinierte Schnitt mit zartem Faltenwurf unterhalb der Brust sorgt für eine schmeichelnde Silhouette. Dieses Top ist ein vielseitiger Styling-Partner mit femininer Ausstrahlung. Ein Must-have für jeden Kleiderschrank. Materialzusammensetzung 60 % Viskose 40 % Polyester Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen Passform und Schnitt Lockerer, kastiger Schnitt mit leicht verkürztem Saum und Ballonärmeln Materialqualität Leicht, weich, fließend, leicht transparent Verarbeitung Glänzender Stoff in Seidenoptik, florale Spitzenborte
-  Updated: 2025-12-13T13:12:18Z
+  Updated: 2025-12-15T16:56:41Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -137,7 +137,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzQuanBn_69246603-f948-45ee-91e5-e55cac4465bb.jpg?v=1761071676
     Price: 25,00 € EUR
 - [Freizeithose in Knitteroptik](https://lastradafashion.de/products/freizeithose-in-knitteroptik): Casual Chic auf den Punkt gebracht – diese Hose überzeugt mit moderner Knitterstruktur und komfortabler Passform. Der weiche, elastische Materialmix verleiht der Hose einen coolen Used-Charakter mit modischem Twist. Der elastische Bund mit Tunnelzug sorgt für einen perfekten Sitz, während die schmal zulaufende Beinform und die gekrempelten Abschlüsse einen urbanen Touch einbringen. Die gewollte Knitteroptik verleiht dem Look bewusst lässige Nonchalance – perfekt für stylische Alltagslooks mit Wohlfühlfaktor. Ein echtes Must-have für unkomplizierte Looks mit Persönlichkeit.
-  Updated: 2025-12-12T23:19:28Z
+  Updated: 2025-12-15T09:12:32Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-12-12T23:19:18Z
+  Updated: 2025-12-15T15:42:26Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -522,28 +522,6 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyNjQta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
     Price: 29,90 € EUR
-- [Sweatshirt mit Blüten-Applikation](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation): Lässig trifft luxuriös: Das Sweatshirt verleiht deinem Casual-Look ein stilvolles Update, es wird durch die große Blüten-Applikation mit plastischen Blütenblättern und funkelndem Strass-Mittelpunkt zum echten Eyecatcher. Der klassische Rundhalsausschnitt und die gerade, leicht verkürzte Passform sorgen für eine moderne Silhouette mit Wohlfühlfaktor. Ein Highlight für alle, die Alltag mit Glamour verbinden möchten – ideal zu Jeans, Stoffhose oder Rock kombinierbar. Ein Fashion-Piece mit besonderem Charme – dieses Sweatshirt ist ein stilvolles Must-have für deine Garderobe.
-  Updated: 2025-12-12T23:19:23Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzYxLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
-  - [BEIGE / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=56842717430109)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTE1NTU4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
-    Price: 29,90 € EUR
-  - [BRAUN / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587234141)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzQ3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
-    Price: 29,90 € EUR
-  - [GRÜN / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587266909)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzYxLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
-    Price: 29,90 € EUR
-  - [TERRA / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587299677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzU0LXRlcnJhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
-    Price: 29,90 € EUR
 - [Weit geschnittene Hose im Schlangenprint](https://lastradafashion.de/products/weit-geschnittene-hose-im-schlangenprint): Diese Hose im markanten Schlangenprint sorgt für einen modischen Auftritt. Mit ihrem hohen Bund und dem weiten Bein schafft sie eine elegante Silhouette, die zugleich lässig und trendbewusst wirkt. Der feste Stoff unterstreicht den klaren Schnitt, während der Animal-Print das Design zu einem echten Statement-Piece macht. Ob einzeln kombiniert oder als kompletter Look mit der passenden Jacke – diese Hose ist ein Highlight in jeder Garderobe. FarbeCREMEMaterialzusammensetzung 99 % Baumwolle 1 % Elastan Pflegehinweis Bei 30 °C waschen (schonend) nicht bleichen nicht bügeln nicht chemisch reinigen im Trockner trocknen HerstellungslandP.R.CPassform und SchnittHigh-Waist, weites Bein, längere, verkürzte Form (7/8-Länge)Fit Guide3MaterialqualitätRobust, formstabil, leicht elastisches MaterialVerarbeitungEingrifftaschen vorn, Gesäßtaschen, hochwertige Knopf- und Reißverschlussverarbeitung, fester Stoff mit SchlangenprintModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
   Updated: 2025-12-12T23:15:48Z
   Vendor: La Strada
@@ -639,7 +617,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy1NQy05NjI2LTQwNjgzODIxNTI5NjYtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978038
     Price: 69,00 € EUR
 - [Bluse mit verdeckter Knopfleiste](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1): Zeitlose Eleganz trifft auf lässige Raffinesse – diese Bluse überzeugt mit klarer Linienführung und hochwertigen Details. Die verdeckte Knopfleiste sorgt für eine cleane Front, während der klassische Hemdkragen dem Look Struktur verleiht. Besonders raffiniert zeigt sich der Schnitt: Der abgerundete, hinten verlängerte Saum umspielt locker die Hüfte und sorgt für eine moderne, feminine Silhouette – perfekt auch zum Layern. Ob im Office mit Stoffhose oder casual zu Jeans – diese Bluse ist ein wandelbares Essential für stilbewusste Looks. Ein echtes Must-have für jede Saison. GrößeOne Size
-  Updated: 2025-12-12T23:17:31Z
+  Updated: 2025-12-15T11:28:14Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -661,7 +639,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjEwLWhlbGxibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
   - [One Size / MARINE](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480481629)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjQxLW1hcmluZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760979932
     Price: 39,90 € EUR
   - [One Size / WEIß](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1?variant=58840480514397)
@@ -669,7 +647,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC01MDMyMC00MDY4MzgyMTUwNjI3LXdlaXNzLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979932
     Price: 39,90 € EUR
 - [Strickjacke im Colorblock-Design](https://lastradafashion.de/products/strickjacke-im-colorblock-design): Diese Strickjacke bringt Farbe und Struktur in deinen Look – ein modernes Statement aus kuscheligem Grobstrick. Mit ihrem markanten Colorblock-Design schafft sie eine perfekte Balance zwischen Retro-Charme und zeitgemäßem Stil. Der lässige, leicht verkürzte Schnitt und die voluminösen Ballonärmel mit schmalem Bündchen sorgen für eine modische Silhouette mit Wohlfühlfaktor. Offen getragen umspielt sie den Körper und verleiht jedem Outfit eine entspannte Leichtigkeit. Die hochwertige Materialmischung mit Wolle und Viskose garantiert ein angenehm weiches Tragegefühl – ideal für kühle Tage. Ob über einem Kleid oder zur High-Waist-Jeans kombiniert – diese Strickjacke ist das Key-Piece für deinen kuscheligen Herbst-Look. Ein absolutes Must-have mit Charakter. GrößeOne Size
-  Updated: 2025-12-12T23:17:36Z
+  Updated: 2025-12-15T11:57:56Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -774,31 +752,6 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTEyNS0zMDUyNi00MDY4MzgyMTU3ODMxLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980363
     Price: 19,90 € EUR
-- [Tüllrock mit Satinband](https://lastradafashion.de/products/tullrock-mit-satinband): Wild, feminin und voller Dynamik – der Tüllrock bringt aufregende Eleganz in deinen Kleiderschrank. Der weich fallende Tüll verleiht dem Rock eine herrlich luftige Silhouette, während der elastische Bund mit schimmerndem Satinband charmant die Taille betont und gleichzeitig höchsten Tragekomfort garantiert. Die Midilänge schwingt bei jeder Bewegung leicht mit und verleiht deinem Look eine moderne Leichtigkeit. Ob als Stilbruch mit Chunky Boots und Longsleeve oder edel mit Seidenbluse und Heels – dieser Rock lässt sich vielseitig kombinieren und ist dabei immer ein Eyecatcher. GrößeOne SizeMaterialzusammensetzung 90 % Polyester 10 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln milde chemische Reinigung möglich HerstellungslandP.R.CPassform und SchnittMidilanger, weit schwingender Schnitt mit elastischem BundFit Guide2MaterialqualitätLeichtes Material, halbtransparent, formstabilVerarbeitungTüllrock, transparenter Mesh-Überrock, blickdichtes Futter, Satinband am BundModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-12-13T16:26:12Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTYxMTI4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LTQuanBlZw_56cfae11-c9a6-4c85-874d-214d8ec03a5f.jpg?v=1765636165
-  - [One Size / BRAUN](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415284994397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMDE5NDM2LWJyYXVuLTI1MDB4MTg3NXB4LTQuanBn_a10285e9-b19b-4d8b-b00a-432bece7d81e.jpg?v=1765636165
-    Price: 49,90 € EUR
-  - [One Size / CAMEL](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415285027165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTQ4ODg0LWNhbWVsLTI1MDB4MTg3NXB4LTQuanBn_42749f5e-525a-42a6-b9c3-68b8a87b016e.jpg?v=1765636166
-    Price: 49,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415285059933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTQ4OTA3LXNjaHdhcnotMjUwMHgxODc1cHgtNC5qcGc_27b4345f-1431-480e-9853-fa38dab88681.jpg?v=1765636166
-    Price: 49,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62415285092701)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTMyMC1IRkU2MTk4SFcyMy00MDY4MzgyMTYxMTI4LWJvcmRlYXV4LTI1MDB4MTg3NXB4LTQuanBlZw_56cfae11-c9a6-4c85-874d-214d8ec03a5f.jpg?v=1765636165
-    Price: 49,90 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/tullrock-mit-satinband?variant=62858195894621)
-    Availability: Not Available
-    Price: 49,90 € EUR
 
 ## Collections
 
@@ -821,8 +774,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-12-04T12:16:55Z
   Total Products: 252
 - [Röcke](https://lastradafashion.de/collections/roecke): Röcke von La Strada Die Röcke von La Strada bieten zahlreiche Kombinationsmöglichkeiten. Sie können mit Blusen, T-Shirts, Pullovern oder Blazern kombiniert werden, um verschiedene Looks zu kreieren, sei es für den Alltag, das Büro oder besondere Anlässe. Mit dem richtigen Schuhwerk und Accessoires können Sie Ihren persönlichen Stil unterstreichen und Ihren Look komplettieren. Sie verkörpern Eleganz, Weiblichkeit und Stil. Sie sind ein zeitloses Kleidungsstück, das sowohl Komfort als auch modische Ausdrucksstärke bietet. Egal ob für einen formellen Anlass oder einen entspannten Tag, die Röcke von La Strada sind die perfekte Wahl für eine ansprechende und modische Garderobe.
-  Updated: 2025-12-13T14:29:07Z
-  Total Products: 102
+  Updated: 2025-12-15T09:58:06Z
+  Total Products: 101
 - [Strick](https://lastradafashion.de/collections/pullover-strick): Strick von La Strada La Strada präsentiert eine exquisite Auswahl an Strickpullovern und Strickjacken, die von der traditionellen Handwerkskunst und dem Sinn für Ästhetik inspiriert sind, für die Italien bekannt ist. Jedes Stück wurde mit Liebe zum Detail und einem Auge für Qualität entworfen.
   Updated: 2025-12-13T12:15:38Z
   Total Products: 399
@@ -953,8 +906,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:55:29Z
   Total Products: 9
 - [Maxiröcke](https://lastradafashion.de/collections/maxiroecke): Maxiröcke von La Strada Die Maxiröcke von La Strada verkörpern Eleganz und Raffinesse. Mit ihrer bodenlangen Silhouette strahlen sie eine zeitlose Schönheit aus und verleihen Ihnen einen femininen und anspruchsvollen Look. Durch hochwertige Materialien wie feine Stoffe oder luftige Gewebe wird ein angenehmer Tragekomfort gewährleistet. Die Maxiröcke zeichnen sich durch ihre perfekte Passform und ihre sorgfältig verarbeiteten Details aus, die ihnen eine besondere Note verleihen. Ob für einen formellen Anlass, einen entspannten Tag in der Stadt oder einen Abend mit Freunden - die Maxiröcke von La Strada sind vielseitig einsetzbar und lassen sich leicht mit verschiedenen Oberteilen wie Blusen, Shirts oder Pullovern kombinieren.
-  Updated: 2025-12-13T14:29:06Z
-  Total Products: 66
+  Updated: 2025-12-15T09:58:06Z
+  Total Products: 65
 - [Midiröcke](https://lastradafashion.de/collections/midiroecke): Midiröcke von La Strada Die Midiröcke von La Strada sind modische und elegante Kleidungsstücke, die die Beine einer Frau umschmeicheln und ihre feminine Seite betonen. Diese Röcke reichen etwa bis zur Mitte der Wade und umspielen diese. Die Midiröcke von La Strada sind zeitlos und vielseitig kombinierbar. Sie können mit einer Bluse und einem Blazer für einen schicken Büro-Look getragen werden oder mit einem T-Shirt und Sneakers für einen lässigen Freizeitstil kombiniert werden. Sie bieten unendliche Möglichkeiten, um verschiedene Outfits zu kreieren und jedem Look einen Hauch von Eleganz zu verleihen.
   Updated: 2025-11-30T23:00:32Z
   Total Products: 27
@@ -1097,8 +1050,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-12-04T12:16:55Z
   Total Products: 77
 - [Kleidung](https://lastradafashion.de/collections/kleidung): Entdecken Sie die inspirierende Welt der italienischen Damenmode mit der Kleidung von La Strada. Unsere exklusiven Kollektionen bieten Ihnen eine vielfältige Auswahl an stilvoller Bekleidung, die perfekt dazu geeignet ist, Ihren individuellen Stil zu unterstreichen. Mode, die Komfort und Stil vereint.
-  Updated: 2025-12-13T14:29:07Z
-  Total Products: 2297
+  Updated: 2025-12-15T09:58:06Z
+  Total Products: 2296
 - [Taschengurte](https://lastradafashion.de/collections/taschengurte): Taschengurte von La Strada Die Taschengurte von La Strada sind ein unverzichtbares Accessoire für alle, die ihre Taschenkollektion aufwerten und personalisieren möchten. Sie sind ein Ausdruck von Stil, Qualität und Praktikabilität, und tragen dazu bei, dass die Tasche zu einem unverwechselbaren und persönlichen Accessoire wird. Das Sortiment umfasst eine breite Auswahl an Taschengurten in verschiedenen Farben, Mustern und Stilen. Von schlichten und einfarbigen Gurten bis hin zu auffälligen Prints und Verzierungen bietet La Strada vielfältige Optionen, um den individuellen Geschmack und Stil jedes Kunden zu treffen.
   Updated: 2025-11-30T23:01:03Z
   Total Products: 13
@@ -1151,8 +1104,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:53Z
   Total Products: 60
 - [Bestseller](https://lastradafashion.de/collections/bestseller): Entdecken Sie die beliebtesten und meistverkauften Stücke von La Strada. Unsere "Bestseller" sind die Favoriten unserer Kundinnen und verkörpern den einzigartigen Stil und die Qualität, für die La Strada bekannt ist. In der "Bestseller"-Kollektion finden Sie eine handverlesene Auswahl an Kleidungsstücken, die sich durch ihre zeitlose Eleganz, erstklassige Qualität und perfekte Passform auszeichnen. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen einen modischen Look und höchsten Tragekomfort zu bieten. Unsere Bestseller repräsentieren eine Vielfalt an Styles und Designs, die jedem Geschmack gerecht werden. Von klassischen Kleidern über vielseitige Blusen bis hin zu bequemen Hosen - unsere Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und sich selbstbewusst zu präsentieren.
-  Updated: 2025-12-12T23:20:07Z
-  Total Products: 51
+  Updated: 2025-12-15T13:56:51Z
+  Total Products: 49
 - [Italienische Sommerschuhe für Damen](https://lastradafashion.de/collections/homepage-sommerschuhe): Von Pantoletten und Sandalen bis hin zu Espadrilles und Sneakers haben wir für jeden Geschmack und Anlass den passenden Schuh. Jetzt entdecken!
   Updated: 2025-10-21T09:42:35Z
   Total Products: 26
@@ -1340,11 +1293,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-12-04T12:16:55Z
   Total Products: 22
 - [Sortiment](https://lastradafashion.de/collections/sortiment): Angebote von La Strada La Strada präsentiert eine umfassende Auswahl an italienischer Damenmode, Schuhen und Accessoires. Unser Sortiment spiegelt die Vielfalt der italienischen Mode wider, von zeitlosen Schnitten bis zu modernen Designs. Sorgfältig ausgewählte Stücke betonen die Handwerkskunst und den Stil Italiens. Unsere Damenmode kombiniert klassische Eleganz mit zeitgemäßem Design. Die Schuhkollektion bietet sowohl traditionelle italienische Stiefel als auch moderne Sandalen, die auf Qualität und Komfort setzen. Unsere Accessoires, darunter Taschen, Schmuck und Tücher, runden das Angebot ab und setzen stilvolle Akzente. La Strada zeichnet sich durch ein Augenmerk auf Qualität und Stil aus. Unser Ziel ist es, Frauen jeden Alters zu inspirieren und ihnen die Möglichkeit zu bieten, ihre Persönlichkeit durch Mode auszudrücken. Bei uns finden Sie nicht nur Produkte, sondern ein Erlebnis, das die Eleganz und Kreativität der italienischen Mode betont. Willkommen bei La Strada, wo jedes Stück eine Geschichte erzählt und jede Kollektion die Vielfalt der Mode repräsentiert.
-  Updated: 2025-12-13T12:15:38Z
-  Total Products: 2745
+  Updated: 2025-12-15T09:58:06Z
+  Total Products: 2744
 - [discount_not-on-sale_cap-is-zero](https://lastradafashion.de/collections/not-on-sale)
-  Updated: 2025-12-13T12:15:38Z
-  Total Products: 528
+  Updated: 2025-12-15T09:58:06Z
+  Total Products: 527
 - [Winter 2023](https://lastradafashion.de/collections/winter-2023): Die Winterkollektion von La Strada Tauchen Sie ein in die Welt der Eleganz und Behaglichkeit mit unserer Winterkollektion von La Strada. Diese exquisite Auswahl an Modestücken wurde sorgfältig zusammengestellt, um Ihnen in der kalten Jahreszeit Wärme und Stil zu bieten. Hier finden Sie eine breite Palette von Mänteln und Jacken, die nicht nur vor den winterlichen Temperaturen schützen, sondern auch Ihre Persönlichkeit unterstreichen. Kuschelige Mäntel und stilvolle Jacken Unsere Kollektion präsentiert eine Vielfalt an Mänteln, vom zeitlosen Wollmantel bis zum trendigen Steppmantel. Erleben Sie höchsten Tragekomfort und bleiben Sie dabei modisch im Fokus. Die sorgfältige Auswahl von hochwertigen Materialien und durchdachten Designs macht jeden Mantel zu einem Statement-Piece, das Ihren Winter-Look perfektioniert. Festliche Kleider für die Feiertage Für besondere Anlässe und festliche Momente bieten wir eine Auswahl an eleganten Kleidern. Von schlichten Schnitten bis zu aufwendig verzierten Designs – unsere Winterkollektion bringt den Zauber der Feiertage in Ihren Kleiderschrank. Verleihen Sie Ihren Festlichkeiten Glanz und Glamour mit einem Winterkleid von La Strada. Blusen für den perfekten Layering-Look Kombinieren Sie Ihre Wintergarderobe mit stilvollen Blusen, die nicht nur wärmend sind, sondern auch Vielseitigkeit in Ihre Outfits bringen. Ob unter einem Pullover getragen oder als eigenständiges Statement-Piece, unsere Blusen sind die perfekte Ergänzung für einen raffinierten Layering-Look. Wählen Sie Qualität und Stil La Strada steht für Qualität und Stil, und unsere Winterkollektion spiegelt dieses Versprechen wider. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen nicht nur Wärme zu bieten, sondern auch Ihre persönliche Stilpräferenz zu unterstreichen. Ihr Winter-Wardrobe Upgrade Entdecken Sie die Eleganz und Vielfalt der La Strada Winterkollektion. Tauchen Sie ein in die Welt von warmen Mänteln, festlichen Kleidern und stilvollen Blusen. Gestalten Sie Ihren Winter-Look mit zeitloser Eleganz und genießen Sie die Kombination aus Komfort und Stil. Ihre Winterkollektion erwartet Sie – erleben Sie Mode, die nicht nur vor Kälte schützt, sondern auch Ihr individuelles Stilbewusstsein unterstreicht.
   Updated: 2025-11-30T23:00:57Z
   Total Products: 210
@@ -1412,8 +1365,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:39Z
   Total Products: 23
 - [discount_not-on-sale_cap-is-empty](https://lastradafashion.de/collections/discount_not-on-sale_cap-is-empty)
-  Updated: 2025-12-13T12:15:38Z
-  Total Products: 528
+  Updated: 2025-12-15T09:58:06Z
+  Total Products: 527
 - [Beste Kundin Geschenk](https://lastradafashion.de/collections/beste-kundin-geschenk)
   Updated: 2025-10-21T09:41:44Z
   Total Products: 29
