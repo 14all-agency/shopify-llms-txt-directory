@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-17T08:00:33.434Z
+- Updated At: 2025-12-17T12:00:33.930Z
 
 ## Products
 
@@ -187,8 +187,8 @@
   - [Pack of 5](https://affinatiliving.com/products/shea-butter-body-lotion-honey-lavender-10-oz?variant=42463405703249)
     Availability: Available
     Price: $69.95 USD
-- [Affinati Sandalwood &amp; Jasmine Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-sandalwood-jasmine-10-oz): Indulge in Shea Butter Body Lotion, Sandalwood & Jasmine — exotic florals and warm woods in a deeply moisturizing shea formula.
-  Updated: 2025-12-11T04:37:32Z
+- [Affinati Sandalwood & Jasmine Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-sandalwood-jasmine-10-oz): Indulge in Shea Butter Body Lotion, Sandalwood & Jasmine — exotic florals and warm woods in a deeply moisturizing shea formula.
+  Updated: 2025-12-17T10:41:24Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -7667,7 +7667,7 @@
   Updated: 2025-12-10T19:04:56Z
   Total Products: 28
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
-  Updated: 2025-12-12T12:21:48Z
+  Updated: 2025-12-17T10:41:26Z
   Total Products: 29
 - [Face Creams](https://affinatiliving.com/collections/face-creams)
   Updated: 2025-12-10T19:04:56Z
@@ -7691,7 +7691,7 @@
   Updated: 2025-12-16T12:11:08Z
   Total Products: 312
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-12-13T12:10:02Z
+  Updated: 2025-12-17T10:41:26Z
   Total Products: 99
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-12-15T12:09:51Z
