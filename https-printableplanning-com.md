@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-17T00:00:46.117Z
+- Updated At: 2025-12-17T04:00:28.461Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1044,7 +1044,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CompartmentalizedHalfPageScratchPaper-PrintablePlanning-INDIVIDUALs_f13ed521-9d48-4bfa-9484-ecac21514d41.jpg?v=1686944886
   Price: $1.95 USD
 - [Personalized Adorable Frog Green and Blue Plaid Bookmarks - Printable](https://printableplanning.com/products/personalized-adorable-frog-green-and-blue-plaid-bookmarks-printable): Cute DIY printable personalized adorable frog green and blue plaid bookmarks for your children or students that can be personalized with their names, and when printed on card stock makes for a durable reading gift. These fun bookmarks are designed with an adorable green frog paired with a green and blue plaid pattern, and the names are personalized in green. Parents and teachers love these affordable bookmarks because you can print as many as you need, changing the names as needed. Teachers can print these bookmarks for different occasions throughout the year and change the names to fit their classroom every year. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these bookmarks from these printable pages. PLEASE NOTE: Font size, style, and color is available only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Bookmarks measure approximately 7" x 2" each. Edit the names (every time you print). Colorful and fun for boys or girls. Print a new page of these printable personalized adorable frog green and blue plaid bookmarks every time you need more.
-  Updated: 2025-07-21T19:20:28Z
+  Updated: 2025-12-17T00:03:37Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
