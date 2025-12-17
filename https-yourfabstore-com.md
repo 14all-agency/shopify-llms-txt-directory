@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-12-13T00:00:41.646Z
+- Updated At: 2025-12-17T00:00:42.052Z
 
 ## Products
 
@@ -1659,7 +1659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/647464989375505066-2048-_12.jpg?v=1760765600
     Price: $19.00 USD
 - [Men's T-Shirt - Running Late is my Cardio Tee](https://yourfabstore.com/products/running-late-is-my-cardio-mens-t-shirt): This men's T-shirt features a funny quote about running late is a cardio, making it a cool and unique addition to your wardrobe. Perfect for those who love humor and fitness, this T-shirt is ideal for casual wear and activewear. Great for gifting on birthdays, Father's Day, or fun friends in your life.Product features- Made with lightweight 100% Airlume cotton- Retail fit for casual and semi-formal settings- Manufactured in a humane, sustainable way by Bella+Canvas- Direct-to-sleeve and neck label printing for detailed designs- Variety of fabric blends available for different color optionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-11-12T03:25:06Z
+  Updated: 2025-12-15T06:54:48Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -7357,6 +7357,418 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14788689166735898877_2048.jpg?v=1760766455
     Price: $19.00 USD
+- [Life Is Tough But So Are You Tee — Inspirational Women's Empowerment T-Shirt](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt): A soft, sturdy tee that speaks with quiet confidence. The bold script across the chest — “Life is Tough but so are you” — feels like a friend squeezing your shoulder on a hard day. Wear it when you need a gentle reminder to keep going, during late shifts, weekend errands, or while sharing coffee with someone who understands. The classic crew neck and relaxed fit sit naturally under jackets or alone on warm mornings. Built to last from responsibly sourced cotton, it washes and wears without losing its shape or message. This tee becomes part of your everyday armor — honest, simple, and human.Product features- 100% cotton body (solid colors) with medium-weight 180 g/m² fabric for year-round comfort- Tubular knit construction without side seams for a clean drape and reduced waste- Ribbed knit collar and shoulder twill tape for shape retention and durability- DTG and DTF printed details for crisp lettering and sleeve/neck fidelity- Tear-away label, Oeko-Tex certification, and ethical cotton sourcing; made in NicaraguaCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
+  Updated: 2025-12-15T19:23:17Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6105871185449310641-2048-_1.jpg?v=1765781660
+  - [Charcoal / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203446547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2984988316045066310_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Dark Chocolate / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203479315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11851342341753384101_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Maroon / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203512083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1056022174179372081_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Navy / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203544851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3765697586903935441_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Orange / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203577619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12016925448695999446_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Purple / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203610387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10011359259618563462_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Red / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203643155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9481714334141936622_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Royal / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203675923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/16352595417184999525_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Sport Grey / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203708691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11948414390249020361-2048-_2.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Black / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203741459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6105871185449310641-2048-_1.jpg?v=1765781660
+    Price: $19.00 USD
+  - [Forest Green / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203774227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10952043502576424111_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Military Green / S](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203806995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7982937590396403783_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Charcoal / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203839763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2984988316045066310_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Dark Heather / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203872531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5598412279485387316-2048-_8.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Maroon / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203905299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1056022174179372081_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Navy / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203938067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3765697586903935441_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Orange / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804203970835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12016925448695999446_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Purple / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204003603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10011359259618563462_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Red / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204036371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9481714334141936622_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Royal / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204069139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/16352595417184999525_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Sport Grey / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204101907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11948414390249020361-2048-_2.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Black / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204134675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6105871185449310641-2048-_1.jpg?v=1765781660
+    Price: $19.00 USD
+  - [Forest Green / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204167443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10952043502576424111_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Military Green / M](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204200211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7982937590396403783_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Charcoal / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204232979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2984988316045066310_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Dark Chocolate / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204265747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11851342341753384101_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Dark Heather / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204298515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5598412279485387316-2048-_8.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Maroon / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204331283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1056022174179372081_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Navy / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204364051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3765697586903935441_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Orange / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204396819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12016925448695999446_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Purple / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204429587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10011359259618563462_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Red / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204462355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9481714334141936622_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Royal / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204495123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/16352595417184999525_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Sport Grey / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204527891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11948414390249020361-2048-_2.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Black / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204560659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6105871185449310641-2048-_1.jpg?v=1765781660
+    Price: $19.00 USD
+  - [Forest Green / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204593427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10952043502576424111_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Military Green / L](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204626195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7982937590396403783_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Charcoal / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204658963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2984988316045066310_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Dark Chocolate / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204691731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11851342341753384101_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Dark Heather / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204724499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5598412279485387316-2048-_8.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Maroon / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204757267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1056022174179372081_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Navy / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204790035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3765697586903935441_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Orange / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204822803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12016925448695999446_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Purple / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204855571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10011359259618563462_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Red / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204888339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9481714334141936622_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Royal / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204921107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/16352595417184999525_2048.jpg?v=1765781667
+    Price: $19.00 USD
+  - [Sport Grey / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204953875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11948414390249020361-2048-_2.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Black / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804204986643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6105871185449310641-2048-_1.jpg?v=1765781660
+    Price: $19.00 USD
+  - [Forest Green / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804205019411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10952043502576424111_2048.jpg?v=1765781664
+    Price: $19.00 USD
+  - [Military Green / XL](https://yourfabstore.com/products/life-is-tough-but-so-are-you-tee-inspirational-womens-empowerment-t-shirt?variant=52804205052179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7982937590396403783_2048.jpg?v=1765781664
+    Price: $19.00 USD
+- [Basketball Heartbeat Tee — Basketball Pulse Graphic T-Shirt](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt): This tee speaks to the player who thinks in rhythms — the heartbeat of the game captured in a single-line design. Soft, mid-weight cotton holds an orange pulse-line that peaks into a basketball at center chest. It sits easy across the shoulders and keeps its shape after practices, pick-up nights, and lazy weekends. Wear it under a zip-up after warmups or alone when you want a clean, sporty look that says you live for the court.Product features- Twill shoulder tape to prevent stretching and stabilize the back- Tubular, seamless sides for a clean drape and reduced fabric waste- Durable, smooth cotton fabric (medium 180 g/m²) suited for crisp DTG prints- Ribbed, elastic collar and classic crew neckline for lasting shape- Tear-away label and OEKO-TEX certified cotton for comfort and safetyCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
+  Updated: 2025-12-15T22:27:41Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/500701241020058112_2048.jpg?v=1765779989
+  - [Charcoal / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804329996563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/500701241020058112_2048.jpg?v=1765779989
+    Price: $19.00 USD
+  - [Dark Chocolate / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330029331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1644784434129213934_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Maroon / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330062099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8555175948890475771_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Natural / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330094867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/15629834110662339487_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Navy / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330127635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14067310476056633218_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Purple / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330160403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12731673839996572467_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Royal / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330193171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9609356374300055978_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Sand / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330225939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3791681547250999138_2048.jpg?v=1765779995
+    Price: $19.00 USD
+  - [Sport Grey / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330258707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18408390772849794539-2048-_5.jpg?v=1765781651
+    Price: $19.00 USD
+  - [White / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330291475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4726478005638786154_2048.jpg?v=1765779991
+    Price: $19.00 USD
+  - [Black / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330324243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13162846377184635522_2048.jpg?v=1765779994
+    Price: $19.00 USD
+  - [Forest Green / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330357011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11701914257745195405_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Military Green / S](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330389779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17000091219113220830_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Charcoal / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330422547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/500701241020058112_2048.jpg?v=1765779989
+    Price: $19.00 USD
+  - [Dark Heather / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330455315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7420930195444501753_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Maroon / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330488083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8555175948890475771_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Navy / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330520851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14067310476056633218_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Purple / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330553619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12731673839996572467_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Royal / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330586387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9609356374300055978_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Sand / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330619155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3791681547250999138_2048.jpg?v=1765779995
+    Price: $19.00 USD
+  - [Sport Grey / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330651923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18408390772849794539-2048-_5.jpg?v=1765781651
+    Price: $19.00 USD
+  - [White / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330684691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4726478005638786154_2048.jpg?v=1765779991
+    Price: $19.00 USD
+  - [Black / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330717459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13162846377184635522_2048.jpg?v=1765779994
+    Price: $19.00 USD
+  - [Forest Green / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330750227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11701914257745195405_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Military Green / M](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330782995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17000091219113220830_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Charcoal / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330815763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/500701241020058112_2048.jpg?v=1765779989
+    Price: $19.00 USD
+  - [Dark Chocolate / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330848531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1644784434129213934_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Dark Heather / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330881299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7420930195444501753_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Maroon / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330914067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8555175948890475771_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Navy / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330946835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14067310476056633218_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Purple / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804330979603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12731673839996572467_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Royal / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331012371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9609356374300055978_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Sand / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331045139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3791681547250999138_2048.jpg?v=1765779995
+    Price: $19.00 USD
+  - [Sport Grey / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331077907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18408390772849794539-2048-_5.jpg?v=1765781651
+    Price: $19.00 USD
+  - [White / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331110675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4726478005638786154_2048.jpg?v=1765779991
+    Price: $19.00 USD
+  - [Black / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331143443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13162846377184635522_2048.jpg?v=1765779994
+    Price: $19.00 USD
+  - [Forest Green / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331176211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11701914257745195405_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Military Green / L](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331208979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17000091219113220830_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Charcoal / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331241747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/500701241020058112_2048.jpg?v=1765779989
+    Price: $19.00 USD
+  - [Dark Chocolate / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331274515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1644784434129213934_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Dark Heather / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331307283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7420930195444501753_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Maroon / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331340051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8555175948890475771_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Natural / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331372819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/15629834110662339487_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Navy / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331405587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14067310476056633218_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Purple / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331438355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12731673839996572467_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Royal / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331471123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9609356374300055978_2048.jpg?v=1765781651
+    Price: $19.00 USD
+  - [Sand / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331503891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3791681547250999138_2048.jpg?v=1765779995
+    Price: $19.00 USD
+  - [Sport Grey / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331536659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18408390772849794539-2048-_5.jpg?v=1765781651
+    Price: $19.00 USD
+  - [White / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331569427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4726478005638786154_2048.jpg?v=1765779991
+    Price: $19.00 USD
+  - [Black / XL](https://yourfabstore.com/products/basketball-heartbeat-tee-basketball-pulse-graphic-t-shirt?variant=52804331602195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13162846377184635522_2048.jpg?v=1765779994
+    Price: $19.00 USD
 
 ## Collections
 
@@ -7367,8 +7779,8 @@
   Updated: 2025-10-12T05:15:58Z
   Total Products: 8
 - [Women’s T-Shirts – Fashionable, Comfortable & Creative Designs](https://yourfabstore.com/collections/womens-t-shirts): Shop women’s t-shirts at YourFabStore. Unique, custom designs made for style, comfort & everyday wear.
-  Updated: 2025-10-12T01:23:24Z
-  Total Products: 10
+  Updated: 2025-12-16T17:25:58Z
+  Total Products: 11
 - [YourFabStore Men’s Clothing – Unique Styles for Every Day](https://yourfabstore.com/collections/mens-clothing): Discover trendy men’s clothing with custom designs. From graphic tees to stylish hoodies, find exclusive pieces only at YourFabStore.
   Updated: 2025-10-12T04:30:54Z
   Total Products: 0
@@ -7376,8 +7788,8 @@
   Updated: 2025-10-12T04:30:53Z
   Total Products: 6
 - [YourFabStore Men’s T-Shirts – Stylish, Comfortable & Made for You](https://yourfabstore.com/collections/mens-t-shirt): Shop men’s t-shirts at YourFabStore. Unique, custom designs made for comfort & style—perfect for everyday wear.
-  Updated: 2025-12-04T12:07:33Z
-  Total Products: 11
+  Updated: 2025-12-16T17:25:28Z
+  Total Products: 12
 - [Tote Bags – Unique, Eco-Friendly & Made for You](https://yourfabstore.com/collections/tote-bags): YourFabStore Tote Bags: Unique, durable & fashionable designs. Perfect for shopping, work or daily essentials—carry your style everywhere.
   Updated: 2025-10-01T03:03:07Z
   Total Products: 6
@@ -7515,6 +7927,14 @@
     Updated: 2025-12-11T01:06:57Z
     Author: YourFabStore
     Tags: accessories, affordable clothing, best sustainable accessories, creative artistic designs, eco-friendly fashion, fashion, good looking designs, impact fashion, independent artist platform, made to order clothing, quality designs, quality fashion, stylish designs, sustainable, sustainable clothing, sustainable fashion accessories, sustainable fashion trends, unique casual clothing, unique design clothing
+  - [Embrace the Artistry of Creative Artistic Designs by Unique Casual Clothing](https://yourfabstore.com/blogs/yourfabstore-blogs/embrace-the-artistry-of-creative-artistic-designs-by-unique-casual-clothing): Embrace the Artistry of Creative Artistic Designs by Unique Casual Clothing
+    Updated: 2025-12-13T01:09:20Z
+    Author: YourFabStore
+    Tags: affordable clothing, artistic clothing, casual wear, creative artistic designs, creative clothing ideas, design, fashion, good looking designs, independent artist platform, innovative casual outfits, made to order clothing, quality designs, quality fashion, style, sustainable clothing, sustainable fashion accessories, unique casual clothing, unique design clothing, unique fashion
+  - [How An Independent Artist Platform Elevates Quality Designs for Everyday Fashion](https://yourfabstore.com/blogs/yourfabstore-blogs/how-an-independent-artist-platform-elevates-quality-designs-for-everyday-fashion): How An Independent Artist Platform Elevates Quality Designs for Everyday Fashion
+    Updated: 2025-12-16T01:09:32Z
+    Author: YourFabStore
+    Tags: affordable clothing, creative artistic designs, everyday fashion tips, fashion, good looking designs, independent artist platform, independent artists, made to order clothing, quality designs, quality fashion, style, sustainable clothing, sustainable designs, sustainable fashion accessories, trends, unique casual clothing, unique design clothing, unique fashion choices
 
 ## Store Pages
 
@@ -7532,7 +7952,7 @@
 ## Policies
 
 - [Privacy Policy](https://yourfabstore.com/policies/privacy-policy)
-  Updated: 2025-06-11T09:30:25-07:00
+  Updated: 2025-12-14T09:51:00-08:00
 - [Shipping Policy](https://yourfabstore.com/policies/shipping-policy)
   Updated: 2023-03-27T00:15:51-07:00
 - [Refund Policy](https://yourfabstore.com/policies/refund-policy)
