@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-14T09:17:08.041Z
+- Updated At: 2025-12-17T00:00:28.202Z
 
 ## Products
 
@@ -353,6 +353,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_a647602a-d858-418d-a6ec-73171c14fa07.jpg?v=1763199097
   Price: $60.99 USD
+- [Portable Transparent Cassette Player](https://starcopia.com/products/portable-transparent-cassette-player): [Bluetooth Portable Tape Player] This vintage tape player can play your tape collection, allowing you to travel back in time and relive the good memories of the past. Tip. Press the "DIR" button to automatically rewind the cassette tape. If the play button cannot be pressed, it may be caused by the button being stuck or (FF/REW/STOP) not being reset. [BLUETOOTH 5.0] This cassette player has built-in Bluetooth 5.0, compared with Bluetooth 4.2, 5.0 has wider coverage, twice the speed, four times the distance, lower power consumption, wider compatibility and smoother connection. Note: (If the tape is old, demagnetization, poor sound, noise and buzzing will occur during playback. If you can't connect to Bluetooth, please check if the device has Bluetooth mode. [Bluetooth Receiver and Transmitter] This vintage tape player has Bluetooth output function. Transmit music to other Bluetooth receivers, such as headphones or speakers. Bluetooth Input. Connects directly to your phone Bluetooth. If there is a buzzing sound when pairing, it may be caused by interference between the tape deck and Bluetooth signal. Please keep the speaker away from the tape deck. [3.5MM interface and FM radio function] This tape player accepts all 3.5MM interface devices such as speakers, headphones, car stereo speakers.FM mode can receive radio (using 3.5mm headphones as antenna) and supports automatic FM channel search function. The radio function will be a good companion for your life and leisure. [2 types of power supply and auto-reverse]The wireless cassette player is powered by 2 AA batteries (not included) or using DC 5V power supply (not included). With the auto-reverse function, you can choose to listen to music on one or both sides according to your preference. This stereo cassette player fits perfectly in your pocket for easy travel.
+  Updated: 2025-12-15T20:38:54Z
+  Vendor: starcopia
+  Product Type: accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_85cc5fcc-9994-433a-90ff-8943cd1456e0.jpg?v=1765795364
+  Price: $31.99 USD
+- [Portable CD Player with HiFi Speakers](https://starcopia.com/products/portable-cd-player-with-hifi-speakers): 【Simple design】 The meticulously crafted pure color portable case combines with CD player featuring a unique rotating arm simple design, reminiscent of a classic phonograph, seamlessly blending wonderful music with vintage style, adding texture and sophistication to your auditory experience. 【Multi-functional CD Player】The CD player for home can play CD albums, also functions as a Bluetooth speaker for your phone, or simply plug in a USB or TF card for versatile music playback options to suit your preferences. Built-in small display screen brings out various functions 【Bluetooth 5.3 Stereo CD player】CD player equipped with bluetooth 5.3 provides higher data transfer rates. it can be quickly connected with your cell phone to play music, and it can also be used as an external speaker by connecting headphones and speakers through the 3.5mm AUX port 【Rechargeable Portable】The high-capacity DC3.7V - 2000mAh battery ensures long-lasting usage and with a built-in high-capacity battery for 4 hours of continuous use (According to actual usage, the greater the wattage of the speaker, the greater the power consumption.). It is small in size and light in weight, easy to carry, allowing you to enjoy wonderful music at home or outdoors. 【Stereo Speakers & detail】This portable cd players for home built-in 2*10w, Stereo Sound, delivers loud and clear sound quality. Rated voltage: 220v; Rated power: 20w; Rated frequency: 10w; CD insertion method: tray type; Material: plastic; Maximum power: 20; Power supply method: plug-in/charging; Power input: DC5V1A (via USB-C port); Interface: TF card/USB/headphone/AUX IN/power interface; FM frequency range: 87.5-108MHz; Bluetooth: BT5.3 (Name: BYH-2353); Function: CD/Bluetooth/USB/TF card/AUX/FM radio; USB maximum 64GB 【What You Get】CD Player x 1 , USB-C Power adapter x 1 , Manual x 1. This Simple-Style Bluetooth CD Player is a perfect gifts for everyone. 【Home CD Players Holiday Gift】CD player has high quality texture and unique simple box design, excellent sound quality, put it in your home it is a stylish speaker, it is an exquisite and special gift for family, friends, lovers and yourself
+  Updated: 2025-12-16T10:13:49Z
+  Vendor: starcopia
+  Product Type: CD Player
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_9b4de59d-0a02-4c09-bac3-3290c3ff4275.jpg?v=1765879825
+  Price: $84.09 USD
 
 ## Collections
 
@@ -375,8 +389,8 @@
   Updated: 2025-12-11T08:21:46Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-12-11T08:21:47Z
-  Total Products: 1
+  Updated: 2025-12-16T10:13:46Z
+  Total Products: 3
 
 ## Store Pages
 
