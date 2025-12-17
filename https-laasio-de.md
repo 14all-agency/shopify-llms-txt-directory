@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2025-12-15T00:00:21.722Z
+- Updated At: 2025-12-17T00:00:24.637Z
 
 ## Products
 
@@ -392,7 +392,7 @@
     Availability: Available
     Price: 24,50 € EUR
 - [Personalisierte Fuß- und Handabdruck Halskette: Perfektes Geschenk zur Geburt](https://laasio.de/products/kette-fuss-handabdruck-gravur): Entdecken Sie unsere maßgeschneiderten Halsketten mit Baby Fuß- und Handabdrücken, das perfekte Geschenk zur Feier der Geburt eines Kindes. Ein liebevolles Andenken, das die kostbaren ersten Momente für immer festhält.
-  Updated: 2025-12-13T23:11:50Z
+  Updated: 2025-12-15T05:32:30Z
   Vendor: Laasio
   Product Type: 项链
   Availability: Available
@@ -1033,7 +1033,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 29,90 € EUR
 - [Personalisierte Geburtsblumen Armband - Einzigartiges Schmuckstück mit individueller Namensgravur](https://laasio.de/products/personalisierte-geburtsblumen-armband-33228): Dieses Armband ist eine wundervolle Ergänzung zu jedem Outfit. Es ist 13 mm breit und verfügt über eine personalisierte Geburtsblumen-Gravur, um Sie oder Ihre Lieben zu repräsentieren. Jedes Armband ist ein Unikat und wird speziell für Sie hergestellt. Tragen Sie Ihre Geburtsblume immer bei sich und zeigen Sie Ihre Persönlichkeit und Verbundenheit zu Ihrer Familie oder Freunden. Dieses personalisierte Geburtsblumen-Armband ist ein wundervolles Geschenk für verschiedene Anlässe wie Geburtstag, Muttertag, Hochzeit oder als Überraschung für einen lieben Freund oder Familienmitglied. Das Laasio personalisierte Geburtsblumen-Armband ist eine wunderbare Wahl für jede Braut, die nach einem besonderen Accessoire für ihren großen Tag sucht. Dieses Armband ist auch ein tolles Geschenk für Brautjungfern und eine großartige Möglichkeit, ihnen zu zeigen, wie viel ihre Unterstützung bei den Hochzeitsvorbereitungen bedeutet hat. D E T A I L S Anhängergröße (rund): 13 mm Armbandumfang: 15 cm + 3 cm verstellbar MATERIAL: • Silber - spiegelglanzpolierter Edelstahl • Gold - Edelstahl 14k goldplattiert • Roségold - roségold plattierter Edelstahl ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel werden wunderschön in eleganten Schmucktaschen verpackt. Wenn Sie möchten, dass jedes Stück in seiner eigenen Schachtel ist, oder wenn es ein Geschenk ist, teilen Sie uns dies bitte bei der Bestellung mit. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, legen wir auch eine leere Geschenkkarte bei. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Aktuelle Produktionszeiten 1 bis 2 Werktage Lieferzeit Deutschland: 1 bis 3 Werktage International: 7 bis 14 Werktage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über Laasio Alle unsere Produkte werden in Laasio Studio in Bad Laasphe, Deutschland, handgefertigt. Jede Bestellung wird liebevoll von Hand gefertigt. Hinter jedem Schmuckstück steckt eine Bedeutung. Wenn Sie Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns dies mitzuteilen. Wir lieben unsere Kunden und bemühen uns, Sie glücklich zu machen." Thank you for visiting and hope you enjoy shopping with us. Best regards
-  Updated: 2025-02-24T17:46:33Z
+  Updated: 2025-12-15T03:28:03Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
@@ -1081,7 +1081,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 39,90 € EUR
 - [Personalisierte Ringe mit Geburtsblumen-Gravur](https://laasio.de/products/personalisierte-ringe-mit-30): Dieser Ring ist eine wunderbare Ergänzung zu jedem Outfit. Er ist aus hochwertigem Edelstahl gefertigt und verfügt über eine personalisierte Gravur Ihrer oder der Geburtsblume Ihrer Liebsten. Jeder Ring ist einzigartig und wird speziell für Sie angefertigt. Tragen Sie Ihre Geburtsblume immer bei sich und zeigen Sie Ihre Persönlichkeit und Verbundenheit zu Ihrer Familie oder Freunden. Dieser personalisierte Geburtsblumen-Ring ist ein wunderbares Geschenk zu verschiedenen Anlässen wie Geburtstage, Muttertag, Hochzeit oder als Überraschung für eine liebe Freundin oder Familienmitglied. D E T A I L S Anhänger Größe : 8mmX 10mm MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 14k vergoldetes • Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Bestellvorgang Wählen Sie im Dropdown-Menü Ihre gewünschten Optionen aus. Schreiben Sie in der Persnalierung die Gewünschte Geburtsblume. In den Warenkorb legen und zur Kasse gehen. Wenn Sie Fragen haben, senden Sie uns bitte eine Nachricht! ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt und bereit zum Verschenken in eleganten Schmucktaschen. Wenn Sie möchten, dass jedes Stück in seiner eigenen Box ist oder wenn es sich um ein Geschenk handelt, teilen Sie uns dies bitte in einer Nachricht an der Kasse mit. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, fügen wir auch eine leere Geschenkkarte für Sie bei.
-  Updated: 2025-09-24T21:21:13Z
+  Updated: 2025-12-15T00:18:45Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
@@ -1168,7 +1168,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 29,90 € EUR
 - [Personalisierte  Armband mit Pfotenabdruck• Pfotendruck Armband • Haustier Erinnerungsschmuck, personalisierbares Geschenk](https://laasio.de/products/personalisierte-armband-mit-68557): ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ D E T A I L S - Anhänger GRÖßE: 13mm - Kette LENGTH: 15+3cm Verlängerung - MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 18k vergoldetes • Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Bestellvorgang 1. Wähle im Drop-Down Menü deine gewünschten Optionen aus. 2. In den Warenkorb legen und zur Kasse gehen. 3. Nachdem der Bestellung senden Sie uns eine Nachricht mit klaren Fotos oder Scan der Unterschrift , Handschrift oder Zeichnung über "Kontakt Shop-Besitzer" Taste auf der Shop-Homepage oder "Frage stellen" Taste unter dem Titel des Angebots gesendet werden. Klicken Sie auf "Bild anhängen", um Ihr Foto anzuhängen. Wenn Sie Fragen haben, senden Sie uns bitte eine Nachricht! ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Boxen. Wenn Sie jedes Stück in seinem eigenen Karton haben möchten, oder wenn es sich um ein Geschenk handelt, informieren Sie uns in einer Nachricht an der Kasse. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -1 bis 2 Werktag Lieferung Zeit Deutschland : 1 bis 3 Werktage International : 7 bis 14 Arbeitstage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über∙LAASIO Alle Unsere Produkte sind handgefertigt in Laasio Studio in Bad Laasphe Deutschland .Jede Bestellung mit Liebe zu handarbeiten. Jedes Schmuckstück gibt es eine Bedeutung. Wenn Sie irgendwelche Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns zu informieren. Wir lieben unsere Kunden und sind bestrebt, Sie glücklich zu machen. Vielen Dank für Ihren Besuch und hoffen, dass Sie gerne bei uns einkaufen. Liebe Grüße
-  Updated: 2025-07-31T07:40:40Z
+  Updated: 2025-12-16T13:51:45Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
@@ -1487,7 +1487,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 100,00 € EUR
 - [Personalisierte  Kette  mit Nasen Abdruck • nasenabdruck hund  • nasenabdruck kette,Haustier Erinnerungsschmuck, personalisierbares Geschenk](https://laasio.de/products/personalisierte-kette-mit-nasen-abdruck-86053): D E T A I L S - Anhänger Größe: Oval 9X13mm ,Rechteck 9X13mm, Rund 13mm - Kette LENGTH: 42cm+8 Verlängerung - MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 18k vergoldetes • Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Wie Sie ein Nasenabdruckfoto für Lassio Studio erstellen Schritte 1. Verwenden Sie Ihr Smartphone oder Ihre Kamera, um eine Nahaufnahme der Nase Ihres Haustieres zu machen. 3. Stellen Sie sicher, dass die Struktur der Nase gut erkennbar ist und das Bild nicht verschwommen ist. Wenn Sie unsicher sind, welches Foto am besten ist, können Sie uns mehrere Bilder senden. Wir wählen das Beste für Sie aus. Senden Sie das Foto 1. Senden Sie das Nasenabdruckfoto direkt über ETSY Nachrichten an uns. 2. Falls die ETSY-Nachricht nicht funktioniert, können Sie das Foto per E-Mail an sophie@laasio.de senden. Bitte geben Sie dabei Ihren Bestellnamen oder die Bestellnummer an, damit wir Ihre Bestellung zuordnen können. Wenn Sie Fragen haben, senden Sie uns bitte eine Nachricht! ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Box. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -2 bis 3 Werktag
-  Updated: 2025-12-13T12:09:40Z
+  Updated: 2025-12-15T19:49:11Z
   Vendor: Laasio
   Product Type: 项链
   Availability: Available
@@ -1802,13 +1802,13 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 0
 - [Ketten](https://laasio.de/collections/kette)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 37
 - [Armbänder](https://laasio.de/collections/armband-1)
   Updated: 2025-12-12T12:16:30Z
   Total Products: 20
 - [Alle produkte](https://laasio.de/collections/produkte-produkte)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 59
 - [Armband mit Haustierportrait](https://laasio.de/collections/armband-haustierportrait-1)
   Updated: 2025-12-12T12:16:30Z
@@ -1820,7 +1820,7 @@ Einzigartiges Armband
   Updated: 2025-12-14T12:15:13Z
   Total Products: 3
 - [Best Sellers](https://laasio.de/collections/best-sellers)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 68
 - [Neuheiten](https://laasio.de/collections/neuheiten)
   Updated: 2025-02-24T16:35:01Z
@@ -1829,7 +1829,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 0
 - [Ringe](https://laasio.de/collections/ringe)
-  Updated: 2025-02-24T16:35:01Z
+  Updated: 2025-12-15T12:17:59Z
   Total Products: 4
 - [Ohrenringe](https://laasio.de/collections/ohrringe)
   Updated: 2025-02-24T16:35:01Z
@@ -1844,7 +1844,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 3
 - [Geburtsblumen](https://laasio.de/collections/geburtsblumen-geburtsblumen)
-  Updated: 2025-12-08T12:17:18Z
+  Updated: 2025-12-15T12:17:59Z
   Total Products: 17
 - [Sternzeichen](https://laasio.de/collections/sternzeichen): Persönliche Sternzeichen Schmuckstücke, die Geschichten erzählen Entdecken Sie die Magie der Sterne neu mit unserer "Himmelszeichen Kollektion", einer exquisiten Auswahl an handgefertigten Sternzeichen Halsketten, eleganten Armbändern für jedes Sternzeichen, und Sternzeichen Ringen mit symbolischer Bedeutung. Jedes Stück in unserer Kollektion ist nicht nur ein Schmuckstück, sondern auch ein persönlicher Talisman, der die kosmische Energie Ihres Sternzeichens einfängt und Ihre einzigartige Persönlichkeit hervorhebt. Für Astrologie-Liebhaber, die nach hochwertigen Sternzeichen Geschenken suchen, bieten unsere sorgfältig kuratierten Schmuckstücke eine Verbindung zu den himmlischen Kräften, die unser Leben leiten. Die "Himmelszeichen Kollektion" ist eine Hommage an die uralte Weisheit der Astrologie, verwoben mit modernem Design, um stilvolle Sternzeichen Accessoires für jeden Anlass zu schaffen. Unsere astrologische Schmuckkollektion mit kosmischer Energie bietet nicht nur einzigartige Geschenkideen für Sternzeichen-Enthusiasten, sondern dient auch als tägliche Inspiration und Erinnerung an die eigenen Stärken und die Verbindung zum Universum. Jedes Schmuckstück ist eine Einladung, die eigene Geschichte zu erzählen und die persönliche Reise durch das Leben mit Stil und Bedeutung zu bereichern. Lassen Sie sich von der "Himmelszeichen Kollektion" zu einer Reise einladen, auf der Sie die tiefe Verbindung zwischen den Sternen und Ihrer Seele erkunden können. Finden Sie das perfekte Schmuckstück, das speziell für Ihr Sternzeichen entworfen wurde, und feiern Sie Ihre Individualität mit einem Schatz, der so einzigartig ist wie Sie selbst.
   Updated: 2025-02-24T16:35:02Z
@@ -1856,7 +1856,7 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 10
 - [Tierporträts und Pfotenabdrücke](https://laasio.de/collections/tierportrats-und-pfotenabdrucke)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 11
 - [Menschenfotos](https://laasio.de/collections/menschenfotos)
   Updated: 2025-02-24T16:35:02Z
@@ -1871,13 +1871,13 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:02Z
   Total Products: 3
 - [Für die beste Freundin](https://laasio.de/collections/fur-beste-freundin)
-  Updated: 2025-12-08T12:17:18Z
+  Updated: 2025-12-15T12:17:59Z
   Total Products: 24
 - [Für den Lieblingsmenschen](https://laasio.de/collections/fur-lieblingsmenschen)
   Updated: 2025-12-11T12:18:57Z
   Total Products: 15
 - [Für Tierliebhaber](https://laasio.de/collections/fur-tierliebhaber)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 11
 - [Zur Geburt](https://laasio.de/collections/zur-geburt)
   Updated: 2025-12-14T12:15:13Z
@@ -1886,7 +1886,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:02Z
   Total Products: 0
 - [Zum Geburtstag](https://laasio.de/collections/zum-geburtstag)
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-15T12:17:59Z
   Total Products: 27
 - [Hochzeit](https://laasio.de/collections/hochzeit)
   Updated: 2025-11-02T12:13:30Z
@@ -1898,10 +1898,10 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 6
 - [Haustier Verstorben](https://laasio.de/collections/haustier-verstorben)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 12
 - [Schmuck mit Haustier](https://laasio.de/collections/schmuck-mit-haustier)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 3
 - [Finger,Hand,Fuß Abdruck](https://laasio.de/collections/finger-hand-fuss-abdruck)
   Updated: 2025-02-24T16:35:03Z
@@ -1928,7 +1928,7 @@ Einzigartiges Armband
   Updated: 2025-11-07T12:14:29Z
   Total Products: 1
 - [Kette mit Haustierporträt, Pfotenabdruck oder Nasenabdruck](https://laasio.de/collections/kette-mit-haustierportrat-pfotenabdruck-oder-nasenabdruck)
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 4
 - [Add-on](https://laasio.de/collections/add-on)
   Updated: 2025-11-07T12:14:29Z
@@ -1940,7 +1940,7 @@ Einzigartiges Armband
   Updated: 2025-11-07T12:14:29Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://laasio.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-14T12:15:13Z
+  Updated: 2025-12-16T12:17:28Z
   Total Products: 68
 
 ## Store Pages
