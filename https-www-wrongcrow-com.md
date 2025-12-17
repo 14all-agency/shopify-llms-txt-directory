@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2025-12-15T00:00:47.251Z
+- Updated At: 2025-12-17T00:00:22.870Z
 
 ## Products
 
@@ -7141,7 +7141,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.wrongcrow.com/policies/privacy-policy)
-  Updated: 2025-12-13T03:32:18+01:00
+  Updated: 2025-12-16T03:47:33+01:00
 - [Shipping Policy](https://www.wrongcrow.com/policies/shipping-policy)
   Updated: 2025-06-11T17:45:48+02:00
 - [Refund Policy](https://www.wrongcrow.com/policies/refund-policy)
