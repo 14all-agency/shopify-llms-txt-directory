@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-16T00:00:58.074Z
+- Updated At: 2025-12-17T00:01:00.230Z
 
 ## Products
 
@@ -16956,7 +16956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-23_1.jpg?v=1710396616
     Price: $711.00 USD
 - [Moissanite 0.03CT Round Diamond Celtic Top Rated Band](https://ibizjewel.com/products/moissanite-0-03ct-round-diamond-celtic-top-rated-band): Experience The Timeless Elegance Of Our Moissanite 0.03ct Round Diamond Celtic Top Rated Band. Made With High-quality Materials, This Celtic-inspired Band Features A Sparkling Moissanite 0.03ct Round Diamond At Its Center. With Its Unique Design And Top-rated Quality, This Band Is Sure To Add A Touch Of Sophistication To Any Outfit.
-  Updated: 2025-10-02T10:30:53Z
+  Updated: 2025-12-16T11:23:49Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Round Diamond Band
   Availability: Available
