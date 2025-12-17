@@ -1,6 +1,6 @@
 # Swarav Creations (https://swaravcreations.com)
 
-> Swarav Creations is a Canada-based online jewelry brand specializing in meaningful, romantic, and personalized jewelry gifts. Our collection includes love knot necklaces, heart and infinity pendants, personalized photo necklaces, zodiac jewelry, and elegant gift-ready designs crafted for special occasions such as anniversaries, birthdays, Valentine’s Day, and celebrations of love. We focus on timeless designs, thoughtful personalization, and beautifully presented jewelry that creates lasting emotional value.
+> Swarav Creations is a Canada-based online jewelry brand specializing in meaningful, romantic, and personalized jewelry gifts. Our collection includes love knot necklaces, heart and infinity pendants, personalized photo necklaces, zodiac jewelry, and elegant gift-ready designs crafted for special occasions such as anniversaries, birthdays, Valentine’s Day, and celebrations of love. We focus on timeless designs, thoughtful personalization, and beautifully presented jewelry that creates lasting emotional value. All jewelry is shipped gift-ready and designed to create lasting emotional connections.
 
 - Domain: https://swaravcreations.com
 - Locale: en
@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-12-17T04:45:34.070Z
+- Updated At: 2025-12-17T04:48:07.911Z
 
 ## Products
 
