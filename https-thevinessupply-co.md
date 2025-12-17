@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-16T20:00:39.341Z
+- Updated At: 2025-12-17T00:00:57.600Z
 
 ## Products
 
@@ -4604,7 +4604,7 @@
     Availability: Available
     Price: £74.95 GBP
 - [Last Resort AB VM004 Milic Suede Lo Skate Shoes | Artisan White & Black](https://thevinessupply.co/products/last-resort-ab-vm004-milic-suede-lo-skate-shoe-artisan-white-black): Buy the Last Resort VM004 Chris Milic at The Vines Skate shop in Solihull or online at thevinessupply.co. Fast free delivery available
-  Updated: 2025-10-09T15:36:21Z
+  Updated: 2025-12-16T21:00:21Z
   Vendor: Last Resort AB
   Product Type: Shoes
   Availability: Available
