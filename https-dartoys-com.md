@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-12-13T00:00:46.077Z
+- Updated At: 2025-12-17T00:00:45.872Z
 
 ## Products
 
@@ -819,7 +819,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/150-_-_-_-8-_-_-_-My-Store-78519594.jpg?v=1761109567
   Price: ‏317.90 د.ك.‏ KWD
 - [باجي بنزين 125 سي سي DL-ATV6002R تاير 6 إنش للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-125-سي-سي-dl-atv6002r-تاير-6-إنش-للأطفال-والكبار): استمتع بقيادة مليئة بالإثارة مع باجي DL-ATV6002R سعة 125 سي سي المصمم للأطفال والكبار الباحثين عن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-12-12T08:14:01Z
+  Updated: 2025-12-16T08:14:31Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -840,14 +840,14 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78523359.jpg?v=1761109572
   Price: ‏310.00 د.ك.‏ KWD
 - [باجي بنزين 125 سي سي DL-ATV7001 تاير 7 إنش للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-125-سي-سي-dl-atv7001-تاير-7-إنش-للأطفال-والكبار): اختبر الأداء القوي مع باجي DL-ATV7001 سعة 125 سي سي. يتميز بمحرك 4 أشواط وناقل حركة بثلاث سرعات  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-12-12T08:14:01Z
+  Updated: 2025-12-16T08:14:31Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/125-_-_-DL-ATV7001R-_-7-_-_-_-My-Store-78526339.jpg?v=1761109575
   Price: ‏199.90 د.ك.‏ KWD
 - [باجي بنزين 125 سي سي DL-ATV7001R تاير 7 إنش للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-125-سي-سي-dl-atv7001r-تاير-7-إنش-للأطفال-والكبار): استمتع بالأداء الفائق مع باجي DL-ATV7001R سعة 125 سي سي، بتصميم عصري ومواصفات رياضية تناسب الأطفال  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-12-12T08:14:02Z
+  Updated: 2025-12-16T08:14:32Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4257,6 +4257,8 @@
   Updated: 2025-10-17T23:13:22Z
 - [html sitemap](https://dartoys.com/pages/html-sitemap): Products بيت الكرات السحري مع نفق و100 ... بيت الكرات السحري BabyOne مع ن... خيمة لعب مع 100 كرة ملونة للأط... خيمة على شكل دب 100 كرة ملونة... مجم...
   Updated: 2025-10-17T23:14:15Z
+- [سياسة الدفع](https://dartoys.com/pages/سياسة-الدفع): نقبل الدفع عبر الإنترنت فقط الدفع عند الاستلام للمزيد من المعلومات، تواصلوا معنا عبر:البريد الإلكتروني: sales@dartoys.comالهاتف: +96566485338العنوا...
+  Updated: 2025-12-16T11:28:04Z
 
 ## Policies
 
