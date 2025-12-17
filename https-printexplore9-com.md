@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-12-13T17:17:17.881Z
+- Updated At: 2025-12-17T00:00:39.878Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -1584,7 +1584,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
 - [Premium sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt): Premium Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
-  Updated: 2025-12-11T06:43:04Z
+  Updated: 2025-12-15T10:42:40Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
