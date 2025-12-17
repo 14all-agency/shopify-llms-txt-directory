@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-15T00:00:22.854Z
+- Updated At: 2025-12-17T00:00:22.138Z
 
 ## Products
 
@@ -960,7 +960,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/29D82BF8-E168-443A-AE87-8CAFF20817C4.jpg?v=1758282991
   Price: $180.00 AUD
 - [Porland Chopin Copper Coffee Set for 2 people.  (85cc)](https://www.mitakitchenware.com/products/porland-chopin-coffee-set-for-2-people-85cc): Porland Chopin copper Turkish coffee Set for Two: Timeless elegance and sophistication in a compact, stylish gift box for coffee enthusiasts.
-  Updated: 2025-11-26T23:51:52Z
+  Updated: 2025-12-16T01:37:54Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
