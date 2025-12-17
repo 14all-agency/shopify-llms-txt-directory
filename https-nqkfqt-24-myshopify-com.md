@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-15T03:40:33Z
 - Contact Email: demorgansucks@gmail.com
-- Updated At: 2025-12-17T05:38:07.793Z
+- Updated At: 2025-12-17T06:17:41.486Z
 
 ## Products
 
@@ -1808,6 +1808,9 @@
 - [Rings](https://nqkfqt-24.myshopify.com/collections/rings)
   Updated: 2025-10-11T19:55:56Z
   Total Products: 0
+- [Beauty example products](https://nqkfqt-24.myshopify.com/collections/beauty-example-products)
+  Updated: 2025-12-17T05:49:39Z
+  Total Products: 4
 
 ## Blogs
 
@@ -1952,8 +1955,8 @@
   Updated: 2025-03-27T01:32:10Z
 - [Affiliates](https://nqkfqt-24.myshopify.com/pages/affiliates)
   Updated: 2025-03-30T01:04:46Z
-- [Story](https://nqkfqt-24.myshopify.com/pages/story): About Anni Yang – From Heritage to High-Tech Justice Washington, D.C. – For much of her life, Anni Yang believed she was alone.Adopted by a white f...
-  Updated: 2025-10-11T20:21:33Z
+- [Story](https://nqkfqt-24.myshopify.com/pages/story): Creating My AI Lawyer and Lazy Genius Determined to make justice practical and accessible, Anni founded My AI Lawyer, an intelligent platform that ...
+  Updated: 2025-12-17T06:08:49Z
 
 ## Policies
 
