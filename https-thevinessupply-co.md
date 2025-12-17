@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-17T08:00:37.787Z
+- Updated At: 2025-12-17T12:00:39.210Z
 
 ## Products
 
@@ -1458,7 +1458,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/vans-wallets-vans-slipped-trifold-wallet-black-charcoal-checked-1183719180.png?v=1757241727
   Price: £19.95 GBP
 - [Vans Slipped Trifold Wallet | Black](https://thevinessupply.co/products/vans-slipped-trifold-wallet-black): Buy the Vans Slipped Tri-fold Wallet in Black at The Vines. Get best prices on Vans Skate wallets and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-16T18:53:10Z
+  Updated: 2025-12-17T09:28:15Z
   Vendor: Vans
   Product Type: Wallets
   Availability: Available
@@ -1730,7 +1730,7 @@
     Availability: Available
     Price: £79.95 GBP
 - [Polar Skate Co Big Boy Jeans | Mid Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue): Buy the Polar Big Boys Jeans in Mid Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-10T20:17:36Z
+  Updated: 2025-12-17T11:02:11Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -1909,13 +1909,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/huf-caps-stone-huf-star-box-logo-6-panel-cv-cap-stone-1183718102.png?v=1757224443
   Price: £24.95 GBP
-- [HUF Arched Fuck It Crew Socks | White](https://thevinessupply.co/products/huf-arched-fuck-it-crew-socks-white): The HUF Arched Fuck It Sock in white features HUF's signature arched 'Fuck It' slogan in an all-over print on a solid colour body. With fast, free delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-12-02T09:52:27Z
-  Vendor: HUF
-  Product Type: Socks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/huf-socks-white-huf-arched-fuck-it-crew-socks-white-1183718057.png?v=1757223496
-  Price: £9.95 GBP
 - [Butter Goods Work Pants | Digital Camo](https://thevinessupply.co/products/butter-goods-work-pants-digital-camo): Buy the Butter Goods Butter Goods Work Pants in Digital Camo at The Vines Skate Shop in Solihull. Get best prices on Butter Goods jeans and pants with free next day delivery at www.thevinessupply.co
   Updated: 2025-11-04T12:01:46Z
   Vendor: Butter Goods
@@ -2575,6 +2568,21 @@
   - [36W x 32L](https://thevinessupply.co/products/polar-skate-co-92-jeans-mid-blue?variant=55756793839951)
     Availability: Not Available
     Price: £59.95 GBP
+- [Polar Skate Co Alex Sweater | Petrol Blue](https://thevinessupply.co/products/polar-skate-co-alex-sweater-petrol-blue): Buy the Polar Skate Co Alex Sweater in blue at The Vines Supply Co Skate Shop. With fast, free delivery and easy returns at www.thevinessupply.co
+  Updated: 2025-12-17T10:42:51Z
+  Vendor: Polar
+  Product Type: Jumpers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-jumpers-polar-skate-co-alex-sweater-petrol-blue-1183715689.png?v=1757181250
+  - [Size 1](https://thevinessupply.co/products/polar-skate-co-alex-sweater-petrol-blue?variant=54603089412431)
+    Availability: Not Available
+    Price: £79.95 GBP
+  - [Size 2](https://thevinessupply.co/products/polar-skate-co-alex-sweater-petrol-blue?variant=54603059102031)
+    Availability: Not Available
+    Price: £79.95 GBP
+  - [Size 3](https://thevinessupply.co/products/polar-skate-co-alex-sweater-petrol-blue?variant=54603059134799)
+    Availability: Available
+    Price: £79.95 GBP
 - [Butter Goods Earth Sounds T-Shirt | Black](https://thevinessupply.co/products/butter-goods-earth-sounds-t-shirt-black): Buy the Butter Goods Earth Sounds T-Shirt in Black, with premium, fast delivery & easy returns
   Updated: 2025-09-24T13:35:34Z
   Vendor: Butter Goods
@@ -6907,7 +6915,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 2897
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-11-09T12:16:47Z
@@ -6964,7 +6972,7 @@
   Updated: 2025-05-09T15:48:47Z
   Total Products: 123
 - [Polar Skate Co. | Polar Skate Co T-Shirts, Hoodies & Jeans](https://thevinessupply.co/collections/polar-skate-co): Shop our collection of Polar Skate Co t-shirts, hoodies and jorts. Explore Polar Skate Co Big Boy Jeans, the most legendary denim pants in the game!
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 442
 - [Magenta Skateboards | Magenta Clothing, Decks & Accessories](https://thevinessupply.co/collections/magenta-skateboards): Shop Magenta Skateboards Clothing, Decks & Accessories at The Vines. Browse the biggest UK collection and get best price guarantee on all Magenta skate wear.
   Updated: 2025-12-16T12:25:00Z
@@ -7054,8 +7062,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-16T13:17:29Z
-  Total Products: 68
+  Updated: 2025-12-17T10:42:51Z
+  Total Products: 67
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-16T12:25:00Z
   Total Products: 386
@@ -7081,7 +7089,7 @@
   Updated: 2025-12-16T12:25:00Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 5740
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
@@ -7279,7 +7287,7 @@
   Updated: 2025-12-16T12:25:00Z
   Total Products: 50
 - [spring-23-pdf](https://thevinessupply.co/collections/spring-23-pdf)
-  Updated: 2025-12-10T16:44:01Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 146
 - [New Balance Numeric Q1 Spring 24 Collection](https://thevinessupply.co/collections/new-balance-numeric-q1-spring-24-collection): Shop New Balance Numeric's Q1 Spring collection of skate shoes at The Vines, with new styles of the Tiago Lemos 1010 and 808, Jamie Foy 306 and Brandon Westgate's 508.
   Updated: 2025-11-06T17:21:18Z
@@ -7345,8 +7353,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-16T12:25:00Z
-  Total Products: 3241
+  Updated: 2025-12-17T10:42:51Z
+  Total Products: 3240
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-16T12:25:00Z
   Total Products: 110
@@ -7429,8 +7437,8 @@
   Updated: 2025-12-13T12:20:43Z
   Total Products: 95
 - [Sale](https://thevinessupply.co/collections/sale)
-  Updated: 2025-12-16T13:17:30Z
-  Total Products: 68
+  Updated: 2025-12-17T10:42:51Z
+  Total Products: 67
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
   Updated: 2025-12-16T12:25:00Z
   Total Products: 39
@@ -7534,10 +7542,10 @@
   Updated: 2025-12-01T17:54:40Z
   Total Products: 6
 - [Q1 2025](https://thevinessupply.co/collections/q1-2025)
-  Updated: 2025-12-14T12:20:46Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 179
 - [Jumpers](https://thevinessupply.co/collections/jumpers): Our collectiomn for skate and street wear brand jumpers
-  Updated: 2025-12-07T12:20:48Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 12
 - [DC Shoes | DC Skate Shoes | The Vines](https://thevinessupply.co/collections/dc-shoes): Shop DC Skate Shoes at The Vines. The Best & Latest DC Trainers built for Skateboarding, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-12-15T12:24:14Z
@@ -7627,7 +7635,7 @@
   Updated: 2025-12-15T12:24:14Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-17T10:42:51Z
   Total Products: 3115
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-12-07T12:20:48Z
