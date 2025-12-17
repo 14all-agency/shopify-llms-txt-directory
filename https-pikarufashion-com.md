@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-16T00:00:30.592Z
+- Updated At: 2025-12-17T00:00:33.224Z
 
 ## Products
 
@@ -5684,8 +5684,8 @@
   - [2XL](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion?variant=61124247847282)
     Availability: Available
     Price: $121.00 USD
-- [Black & Red Embroidered Midi Dress – Boho Chic | PIKARU FASHION](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt): Elevate your style with this black & red embroidered midi dress with tassel belt — boho chic, sheer sleeves & perfect for festive or evening wear. Shop now at PIKARU FASHION.
-  Updated: 2025-12-03T05:50:47Z
+- [Black & Red Embroidered Midi Dress – Boho Chic |](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt): Elevate your style with this black & red embroidered midi dress with tassel belt — boho chic, sheer sleeves & perfect for festive or evening wear. Shop now
+  Updated: 2025-12-16T07:07:02Z
   Vendor: PIKARU FASHION
   Product Type: midi dress
   Availability: Available
@@ -6020,7 +6020,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Boho Midi Dress -Floral Weave with Puff Sleeves & Tassel Tie](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress): Elevate your style with this Ivory Jacquard Boho Midi Dress featuring a textured floral weave, puff sleeves, and tassel tie neckline. Sizes S–XL.
-  Updated: 2025-12-13T08:53:50Z
+  Updated: 2025-12-16T07:08:57Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Jacquard / Midi
   Availability: Available
@@ -6038,7 +6038,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Suzani Coat with Fur Collar & Cuffs–Handcrafted Boho Jacket](https://pikarufashion.com/products/suzani-coat-with-fur-collar-cuffs-handcrafted-boho-jacket): A luxurious handcrafted Suzani coat with multicolour floral detailing, curly fur collar, and fur cuffs. A statement artisanal boho outerwear
-  Updated: 2025-12-13T08:53:23Z
+  Updated: 2025-12-16T07:07:52Z
   Vendor: PIKARU FASHION
   Product Type: Outerwear → Jackets / Coats → Embroidered / Velvet
   Availability: Available
@@ -6062,7 +6062,31 @@
   - [XL](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505999730)
     Availability: Available
     Price: $399.00 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2MTE2ODQ0Mzc2MiwibGFzdF92YWx1ZSI6IjE0ODYxMTY4NDQzNzYyIn0=)
+- [Puff Sleeve Midi Dress for Women](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women): : Shop elegant brown Puff Sleeve Midi Dress , V-neck design and textured jacquard fabric. Perfect for parties, dinners & casual chic looks.
+  Updated: 2025-12-16T07:06:07Z
+  Vendor: PIKARU FASHION
+  Product Type: Women’s Dress / Midi Dress
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/8176052b4ce5ee04dbfa14fca653a2c9.webp?v=1765863971
+  - [S](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825842034)
+    Availability: Available
+    Price: $79.99 USD
+  - [M](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825874802)
+    Availability: Available
+    Price: $79.99 USD
+  - [L](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825907570)
+    Availability: Available
+    Price: $79.99 USD
+  - [XL](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825940338)
+    Availability: Available
+    Price: $79.99 USD
+  - [2XL](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825973106)
+    Availability: Available
+    Price: $79.99 USD
+  - [3XL](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380826005874)
+    Availability: Available
+    Price: $79.99 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2ODg2NjUzMTY5OCwibGFzdF92YWx1ZSI6IjE0ODY4ODY2NTMxNjk4In0=)
 
 ## Collections
 
@@ -6091,14 +6115,14 @@
   Updated: 2025-12-02T10:16:50Z
   Total Products: 7
 - [Midi Dress | Stylish Women’s Mid-Length Dresses for Everyday](https://pikarufashion.com/collections/midi-dress-elegant-versatile-modern-women-s-fashion): Shop elegant Midi Dresses crafted with premium fabrics, flattering fits, and stylish mid-length silhouettes. Perfect for office wear, parties, travel
-  Updated: 2025-12-10T10:13:38Z
-  Total Products: 23
+  Updated: 2025-12-16T05:47:56Z
+  Total Products: 24
 - [Long Sleeve Dress | Chic Women’s Dresses for Work, Casual](https://pikarufashion.com/collections/long-sleeve-dress-elegant-comfortable-stylish-women-s-fashion): Shop elegant long sleeve dresses crafted with premium fabrics, flattering silhouettes, and stylish designs. Perfect for parties, travel, and everyday comfort
   Updated: 2025-11-29T18:34:14Z
   Total Products: 36
 - [Puff Sleeve Dress | Trendy Women’s Dresses with Sleeves](https://pikarufashion.com/collections/puff-sleeve-dress-pikaru-fashion): Shop stylish Puff Sleeve Dresses featuring trendy silhouettes, premium fabrics, and feminine designs. brunch, travel, and everyday chic fashion - PIKARU FASHION
-  Updated: 2025-12-02T10:13:35Z
-  Total Products: 14
+  Updated: 2025-12-16T05:47:56Z
+  Total Products: 15
 - [Cord-Set |Trendy Women’s Co-Ord Sets for Daily & Party Wear](https://pikarufashion.com/collections/2-piece-set-stylish-matching-modern-co-ord-fashion): Shop stylish Cord-Sets featuring premium fabrics, trendy designs, and perfectly matching co-ord outfits. daily wear. Explore chic Cord-Sets at PIKARU Fashion
   Updated: 2025-12-08T06:50:56Z
   Total Products: 11
