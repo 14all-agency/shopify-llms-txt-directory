@@ -8,14 +8,14 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2025-12-16T22:14:45.382Z
+- Updated At: 2025-12-17T16:57:27.611Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
 ## Products
 
-- [Whisper of Winter – 12 Page Coloring Book (25% Off)](https://whisperofwinter.com/products/whisper-of-winter-12-page-coloring-book-1): 25% Off — Unlock a World of Winter Wonder With This Magical 12-Page Whisper of Winter Coloring Book. Designed for kids, families, teachers, and anyone who loves magical seasonal art, this coloring book brings your characters and scenes to life in a fun, creative way. Perfect for:❄️ Winter activities❄️ Classroom use❄️ Holiday gifts❄️ Quiet time and mindfulness❄️ Fans of Whisper of Winter What’s Inside 12 high-quality coloring pages Easy-to-print JPG format Kid-friendly illustrations Exclusive scenes that match the Whisper of Winter world Instant download after purchase Why You’ll Love It Encourages creativity and imagination Makes a perfect companion to your book Great for ages 3+ Beautiful line art that’s easy to color Printable at home or school Turn storytime into art time and let young readers step deeper into the magical winter world you’ve created. ❄️✨ Download instantly and start coloring today!
-  Updated: 2025-12-16T21:14:01Z
+- [Whisper of Winter – 12 Page Coloring Book (25% Off)](https://whisperofwinter.com/products/12-page-coloring-book-1): 25% Off — Unlock a World of Winter Wonder With This Magical 12-Page Whisper of Winter Coloring Book. Designed for kids, families, teachers, and anyone who loves magical seasonal art, this coloring book brings your characters and scenes to life in a fun, creative way. Perfect for:❄️ Winter activities❄️ Classroom use❄️ Holiday gifts❄️ Quiet time and mindfulness❄️ Fans of Whisper of Winter What’s Inside 12 high-quality coloring pages Easy-to-print JPG format Kid-friendly illustrations Exclusive scenes that match the Whisper of Winter world Instant download after purchase Why You’ll Love It Encourages creativity and imagination Makes a perfect companion to your book Great for ages 3+ Beautiful line art that’s easy to color Printable at home or school Turn storytime into art time and let young readers step deeper into the magical winter world you’ve created. ❄️✨ Download instantly and start coloring today!
+  Updated: 2025-12-16T22:35:26Z
   Vendor: Whisper of Winter Shop
   Product Type: 
   Availability: Available
@@ -450,14 +450,14 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
   Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/pom-pom-knit-cap-black-front-6930e14d18db3.jpg?v=1765752710
   Price: $32.99 USD
 - [Winter Coloring Pack (25% Off) - Enchanting Art](https://whisperofwinter.com/products/winter-coloring-pack): Grab the Winter Coloring Pack (25% Off) with nordic inspired designs! Perfect for fantasy lovers, now 25% OFF—limited time only!
-  Updated: 2025-12-16T21:10:59Z
+  Updated: 2025-12-17T09:01:06Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/8-A_group_of_travelers_steps_onto_a_vast_646c844b-9639-4d3a-81b3-75f4f47a36c1.png?v=1765752706
   Price: $3.99 USD
 - [Forged by Winter – Unisex Oversized Hoodie](https://whisperofwinter.com/products/forged-by-winter-unisex-oversized-hoodie): Discover the Forged by Winter – Unisex Oversized Hoodie; a winter aesthetic piece with nordic inspired design, perfect for fantasy lovers.
-  Updated: 2025-12-16T21:10:59Z
+  Updated: 2025-12-16T22:47:18Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
@@ -490,20 +490,23 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
 ## Collections
 
 - [BabiesKids and Toys - Charm and Creativity for Little Ones | Shop Now](https://whisperofwinter.com/collections/kids-and-toys): Explore our collection of BabiesKids and Toys designed to inspire imagination, comfort, and learning. Perfect for families and little ones.
-  Updated: 2025-12-16T21:01:27Z
+  Updated: 2025-12-16T22:47:18Z
   Total Products: 4
 - [Accessories, Hats and Home Goods | Whisper of Winter](https://whisperofwinter.com/collections/accessories-home): Explore Accessories, Hats and Home Goods with nordic inspired design for a mythical winter theme. Perfect gifts for fantasy lovers!
-  Updated: 2025-12-16T21:01:28Z
+  Updated: 2025-12-16T22:47:18Z
   Total Products: 4
 - [Coloring Books Collection | Creative & Fun Coloring Books for All Ages](https://whisperofwinter.com/collections/books-coloring): Discover a wide range of coloring books in our collection. Perfect for relaxation and creativity, our coloring books are suitable for everyone. Shop now!
-  Updated: 2025-12-16T21:01:28Z
+  Updated: 2025-12-16T22:47:18Z
   Total Products: 2
 - [Men's Outerwear Collection - Premium Jackets, Coats & More for Men](https://whisperofwinter.com/collections/men): Explore our Men's Outerwear collection featuring stylish jackets, coats, and outerwear essentials. Perfect for every season, shop now for the best men's outerwear options.
-  Updated: 2025-12-16T21:01:29Z
+  Updated: 2025-12-16T22:47:18Z
   Total Products: 4
 - [Women's Outerwear | Whisper of Winter Collection](https://whisperofwinter.com/collections/women): Explore Women's Outerwear featuring nordic inspired design and minimalist style perfect for fantasy lovers.
-  Updated: 2025-12-16T21:01:29Z
+  Updated: 2025-12-16T22:47:18Z
   Total Products: 5
+- [AVADA - Best Sellers | Top-Rated Products You Can't Miss](https://whisperofwinter.com/collections/avada-best-sellers): Discover the AVADA - Best Sellers collection featuring top-rated products that customers love. Shop now for the best deals on AVADA - Best Sellers items.
+  Updated: 2025-12-16T22:33:01Z
+  Total Products: 15
 
 ## Blogs
 
@@ -537,8 +540,8 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
   Updated: 2025-11-27T00:52:03Z
 - [Whisper of Winter – Children’s Book](https://whisperofwinter.com/pages/whisper-of-winter-children-s-book): Cuddle with a blanket, hot cocoa, and immerse in the enchanting realm of 'Whisper of Winter.' A chilly journey in a snug quilt of creativity! 📘 Buy...
   Updated: 2025-11-23T05:16:20Z
-- [Meet the Author](https://whisperofwinter.com/pages/meet-the-author): Hi, I’m Joseph Graziano — the author behind Whisper of Winter™ and the world of Legends of the Frozen North.But before I ever wrote a single page, ...
-  Updated: 2025-11-27T16:00:22Z
+- [Meet the Author](https://whisperofwinter.com/pages/meet-the-author): About the Author Joseph Graziano is a children’s author and storyteller inspired by imagination, adventure, and family. Many of his stories are sha...
+  Updated: 2025-12-17T05:03:53Z
 - [The Rune Guardian Saga: A Magical Multi-Realm Adventure Series](https://whisperofwinter.com/pages/the-rune-guardian-saga-a-magical-multi-realm-adventure-series-for-young-readers): The Rune Guardian SagaA Magical Multi-Realm Adventure Series for Young Readers Whisper of Winter is the first book in an expanding fantasy series t...
   Updated: 2025-12-14T17:01:48Z
 - [Policies - Whispers of Winter Shop Policies & Customer Assurance](https://whisperofwinter.com/pages/policies): At Whispers of Winter, we are committed to providing a smooth and trustworthy shopping experience. Orders are processed promptly, and shipping time...
