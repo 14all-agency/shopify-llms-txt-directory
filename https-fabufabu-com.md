@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-16T00:00:21.013Z
+- Updated At: 2025-12-17T00:00:20.119Z
 
 ## Products
 
@@ -178,6 +178,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_white.jpg?v=1765722258
     Price: $115.00 USD
+- [Women's Imitate Cashmere Scarf Large Shawls and Wraps](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps): 【Cashmere Feel】This gradient solid color women large scarf have made by polyester fiber. Super soft and cozy fabric, feels like cashmere, lightweight and sheen. Especially perfect for fall and cold winter weather. Large size 200 x 65CM allows for different styling options. 【Unique Color】The gradient different solid color design makes the scarf have more different matching styles. Modest and elegant women can match different colors of pashmina shawl and scarf on different occasions and dressing colors. 【Multiple Wear】The lightweight, soft and cozy cashmere feel scarf can be used as pashmina shawls and wraps, blanket for legs and shoulders, hijab, stole, and light cover. Women's scarves to have more styles to be created. 【Occasions】shawls and wraps large scarf prepared for wedding or evening dresses and great as a warm scarf in the cold weather. Perfect for chilly evenings partys or air-conditioned places such as office, church, airplane, theater, restaurant, supermarket and cruise travel when you need extra warmth. 【Easy Care】Hand wash on gentle cycle or in cold water. Please do not bleach. Squeeze gently, do not twist. Please hang dry in a cool place and keep flat. Gradient solid color
+  Updated: 2025-12-16T09:51:33Z
+  Vendor: fabufabu design store
+  Product Type: Shawls
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Lotuscolor.jpg?v=1765877766
+  - [Pink](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676298949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Lotuscolor.jpg?v=1765877766
+    Price: $25.99 USD
+  - [Green](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676331717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/green.jpg?v=1765877765
+    Price: $25.99 USD
+  - [Gray](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676364485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/grey.jpg?v=1765877765
+    Price: $25.99 USD
+  - [Blue](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676397253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/skyblue.jpg?v=1765877765
+    Price: $25.99 USD
+  - [Brown](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676430021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_brown.jpg?v=1765877765
+    Price: $25.99 USD
+  - [Gouache](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676462789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Gouachecolor.jpg?v=1765877766
+    Price: $25.99 USD
+  - [Purple](https://fabufabu.com/products/womens-imitate-cashmere-scarf-large-shawls-and-wraps?variant=45504676495557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/purple.jpg?v=1765877765
+    Price: $25.99 USD
 
 ## Collections
 
@@ -187,9 +221,6 @@
 - [Bracelets](https://fabufabu.com/collections/bracelets-1)
   Updated: 2025-12-12T05:14:15Z
   Total Products: 11
-- [Outfits](https://fabufabu.com/collections/outfits)
-  Updated: 2025-12-12T05:14:15Z
-  Total Products: 0
 - [Earrings](https://fabufabu.com/collections/earrings)
   Updated: 2025-12-12T05:14:15Z
   Total Products: 3
@@ -219,6 +250,9 @@
   Total Products: 1
 - [Man](https://fabufabu.com/collections/man-1)
   Updated: 2025-12-12T05:14:16Z
+  Total Products: 1
+- [Outfits](https://fabufabu.com/collections/outfits-1)
+  Updated: 2025-12-16T09:52:55Z
   Total Products: 1
 
 ## Store Pages
