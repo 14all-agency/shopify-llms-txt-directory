@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2025-12-16T22:50:25.696Z
+- Updated At: 2025-12-17T00:00:21.567Z
 
 ## Products
 
@@ -2046,6 +2046,13 @@
     Updated: 2025-12-12T15:40:52Z
     Author: Montenegra
     Tags: circular economy, conscious fashion, ethical fashion, luxury fashion, sustainable fashion
+  - [Choosing the Right Sun Protection: Why the Montenégra X Columbia Booney Hat is a Top Pick](https://montenegra-london.com/blogs/news/choosing-the-right-sun-protection-why-the-montenegra-x-columbia-booney-hat-is-a-top-pick): Choosing the Right Sun Protection: Why the Montenégra X Columbia Booney Hat is a Top Pick
+    Updated: 2025-12-16T22:56:20Z
+    Author: Montenégra
+    Tags: 2025 fashion trends, Capsule Wardrobe, circular economy, conscious fashion, Dark Academia, ethical fashion, London luxury fashion brand Montenégra clothing London UK designer fashion
+  - [How to Adopt Minimalism Inspired by Montenegra](https://montenegra-london.com/blogs/news/how-to-adopt-minimalism-inspired-by-montenegra): How to Adopt Minimalism Inspired by Montenegra
+    Updated: 2025-12-16T23:04:15Z
+    Author: Montenégra
 
 ## Store Pages
 
