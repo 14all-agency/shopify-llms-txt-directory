@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-05T15:01:33Z
 - Contact Email: ashok@astconsulting.in
-- Updated At: 2025-12-15T00:00:34.053Z
+- Updated At: 2025-12-17T00:00:34.999Z
 
 ## Products
 
@@ -302,6 +302,15 @@ In today's competitive market, finding the perfect Trunks can be overwhelming. A
     Author: ast-test-store.myshopify.com
   - [Crispy Banana Bites: Your New Go-To Snack](https://ast-test-store.myshopify.com/blogs/news/crispy-banana-bites-your-new-go-to-snack)
     Updated: 2025-12-10T08:58:41Z
+    Author: ast-test-store.myshopify.com
+  - [Beyond the Peel: The Ultimate Guide to Crispy Banana Bite...](https://ast-test-store.myshopify.com/blogs/news/beyond-the-peel-the-ultimate-guide-to-crispy-banana-bite)
+    Updated: 2025-12-15T08:49:58Z
+    Author: ast-test-store.myshopify.com
+  - [10 Must-Have Features in Your Next Trekking Rucksack Back...](https://ast-test-store.myshopify.com/blogs/news/10-must-have-features-in-your-next-trekking-rucksack-back)
+    Updated: 2025-12-15T08:59:51Z
+    Author: ast-test-store.myshopify.com
+  - [The Ultimate Trekking Rucksack Backpack: Your All-Season ...](https://ast-test-store.myshopify.com/blogs/news/the-ultimate-trekking-rucksack-backpack-your-all-season)
+    Updated: 2025-12-15T09:52:56Z
     Author: ast-test-store.myshopify.com
 
 ## Store Pages
