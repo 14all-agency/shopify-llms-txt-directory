@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-12-13T00:00:36.006Z
+- Updated At: 2025-12-17T00:00:36.788Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -176,7 +176,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-holiday-wrapping-paper.png?v=1763661032
   Price: 129,00 kr SEK
 - [Svamp presentpapper](https://darkaestheticstudio.se/products/mork-svamp-presentpapper): Förvandla varje gåva till ett konstverk. Detta svamppresentpapper är mer än bara förpackning – det är en portal till det mystiska, det ovanliga, det vackert kusliga. Detaljer från mörkret: Premium 90gsm konstpapper – lyxig känsla, hållbar kvalitet Storlek: 76 cm × 91 cm Matt finish Högupplöst tryck som fångar varje skugga och nyans För dem som vet att skönhet blomstrar i skuggorna.
-  Updated: 2025-12-07T02:15:40Z
+  Updated: 2025-12-14T15:35:30Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -869,7 +869,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-orange-sandals_fbde39d3-bf6d-4745-a868-0bfc79a78ade.png?v=1763925635
     Price: 299,00 kr SEK
 - [Mini Gaia Harts Dekorativ Figur - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dekorativ-figur): Handgjord mini Gaia-figur i harts med mörk gotisk estetik. Perfekt dekorativ skulptur för mystiska interiörer. Unik design från Dark Aesthetic Studio.
-  Updated: 2025-12-06T13:33:03Z
+  Updated: 2025-12-14T15:35:30Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
@@ -1247,6 +1247,202 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-white-cat-t-shirt_dcb10066-d5ac-4b49-83da-65344511a199.png?v=1765121734
     Price: 259,00 kr SEK
+- [Mat Klistermärken | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/mat-klistermarken): Unika mat-klistermärken i dark aesthetic-stil. Perfekta för att dekorera laptop, journal och mer. Handla nu!
+  Updated: 2025-12-14T09:29:45Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Klistermärke
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1.png?v=1765664205
+  - [1](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52343997530455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_76d4dc1f-8066-4e0c-a337-7223c9ad7764.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [2](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52343997563223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_9.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [3](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52343997595991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_1_0f4b9160-7698-4e77-b888-dea0110a8202.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [4](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52343997628759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_2_d1acbd6e-6976-417f-9b0e-c93981d4dbd8.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [5](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689328471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_3_dc9e9781-afa8-4335-928a-48854d729ed8.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [6](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689361239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_4_616e1d40-092d-4579-8b0d-66788ad502a3.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [7](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689394007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_5_2915ebeb-bf27-4156-b689-45ed75bde9af.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [8](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689426775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_6_2adaab51-7f28-433b-b432-ff3ae9a3a2a9.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [9](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689459543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_7_316092bd-3ecb-4a00-9032-3eca8b9cc4d9.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [10](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689492311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_8_9b5f0ec9-62e7-4135-b52f-b01d0a1cd815.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [11](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689525079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_10_13e000d0-4944-46c6-ad6e-69ac19eb296f.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [12](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689557847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_11_4ad8578e-4db1-4048-84e5-95ffa39ee7d8.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [13](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689590615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_12_81ba3ed0-8ebf-4616-84a3-e19e10d960e8.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [14](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689623383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_13_e9bb9d31-6baf-4b12-bf04-121f0a8ce3fd.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [15](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689656151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_14_dc2f70e4-ffd4-4958-a43a-a35074c6ed4f.png?v=1765664205
+    Price: 5,00 kr SEK
+  - [16](https://darkaestheticstudio.se/products/mat-klistermarken?variant=52344689688919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_15_be64e3c5-e0ef-437e-aa8a-ce9c09c3ad00.png?v=1765664205
+    Price: 5,00 kr SEK
+- [Horror Bokmärken  | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/horror-bokmarken): Unika horror-bokmärken (17 cm) med dark aesthetic-design. Perfekt för bokälskare som uppskattar det gotiska och mystiska. Hållbart material.
+  Updated: 2025-12-14T10:51:12Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Böcker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+  - [1](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556533591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [2](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556566359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [3](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556599127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [4](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556631895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [5](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556664663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [6](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556697431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [7](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556730199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [8](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556762967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [9](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556795735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [10](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556828503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [11](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556861271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [12](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556894039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [13](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556926807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [14](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556959575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [15](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345556992343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [16](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557025111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [17](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557057879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [18](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557090647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [19](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557123415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [20](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557156183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [21](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557188951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [22](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557221719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [23](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557254487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [24](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557287255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [25](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557320023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [26](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557352791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [27](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557385559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [28](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557418327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [29](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557451095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
+  - [30](https://darkaestheticstudio.se/products/horror-bokmarken?variant=52345557483863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
+    Price: 5,00 kr SEK
 
 ## Collections
 
@@ -1260,20 +1456,20 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-23T20:16:02Z
   Total Products: 1
 - [Hem](https://darkaestheticstudio.se/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-12-07T15:20:41Z
-  Total Products: 9
+  Updated: 2025-12-15T12:40:08Z
+  Total Products: 10
 - [Alla produkter](https://darkaestheticstudio.se/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-12-08T20:23:48Z
-  Total Products: 54
+  Updated: 2025-12-15T12:40:08Z
+  Total Products: 56
 - [Jul](https://darkaestheticstudio.se/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
-  Updated: 2025-12-08T20:23:48Z
+  Updated: 2025-12-15T12:40:08Z
   Total Products: 14
 - [Djur](https://darkaestheticstudio.se/collections/djur): I denna kollektion möter våra bästa vänner det märka och nördiga. 🐾 Den här kollektionen är för dig som vill att dina husdjur ska vara mer än bara söta. De ska vara ikoniska. Märkliga. Minnesvärda.
   Updated: 2025-12-06T13:22:51Z
   Total Products: 7
 - [Skuggnytt🕯️](https://darkaestheticstudio.se/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2025-12-08T20:23:48Z
-  Total Products: 49
+  Updated: 2025-12-15T12:40:08Z
+  Total Products: 51
 - [Dark Aesthetic Skor - Gothic & Edgy Footwear | Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/skor): Upptäck vår kollektion av dark aesthetic skor. Platåsandaler, boots och mer med gotisk elegans och rebelliska detaljer. Premium kvalitet för din unika stil.
   Updated: 2025-11-23T19:31:21Z
   Total Products: 1
@@ -1283,6 +1479,9 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
 - [Barn Dark Aesthetic Kläder & Accessoarer - Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/barn): Gotisk barnmode med premium kvalitet. Mörka estetiska kläder och accessoarer för barn som vågar sticka ut. Unika designs i mjuka material.
   Updated: 2025-11-29T19:21:38Z
   Total Products: 2
+- [Pyssel & DIY - Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/pyssel): Kreativa pyssel- och DIY-material med mörk estetik.
+  Updated: 2025-12-15T12:40:08Z
+  Total Products: 7
 
 ## Store Pages
 
