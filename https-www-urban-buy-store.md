@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-15T00:00:31.129Z
+- Updated At: 2025-12-17T00:00:32.697Z
 
 ## Products
 
@@ -642,7 +642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-14T09:49:24Z
+  Updated: 2025-12-16T04:46:43Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -1509,6 +1509,10 @@
     Updated: 2025-12-13T09:05:05Z
     Author: Urban BUY
     Tags: best christmas gifts for families, budget-friendly gifts, christmas, christmas 2025, christmas gift ideas, christmas gifts, gifts, gifts for christmas, gifts ideas, holiday gifts, ideas, thoughtful presents for everyone, unique gifts
+  - [Trending Christmas Gift Ideas for 2025](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/trending-christmas-gift-ideas-for-2025): Trending Christmas Gift Ideas for 2025
+    Updated: 2025-12-16T09:02:50Z
+    Author: Urban BUY
+    Tags: best christmas gifts for friends, christmas, christmas 2025, christmas gift ideas, christmas gifts, gifts, gifts for christmas, gifts ideas, ideas, personalized gifts, tech gifts, trending holiday gift ideas, unique gifts
 
 ## Store Pages
 
