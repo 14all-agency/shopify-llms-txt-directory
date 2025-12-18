@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-12-14T00:00:38.180Z
+- Updated At: 2025-12-18T00:00:41.733Z
 
 ## Products
 
@@ -197,7 +197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/citcitli-telefon-bolmeli-kadin-deri-cuzdan-980033.jpg?v=1708101380
     Price: ₺1.749,90 TRY
 - [Klasik Hakiki Deri Cüzdan - Bulderi](https://bulderi.com.tr/products/klasik-hakiki-deri-cuzdan): Hakiki deriden üretilmiş olması, cüzdanın sadece estetik değil aynı zamanda dayanıklılık açısından da üst düzeyde bir kaliteye sahip olduğunu gösterir. Üstelik, bu yüksek kalite el işçiliği ile özenle hazırlanan cüzdan, detaylara verilen önemi gözler önüne seriyor.
-  Updated: 2025-12-10T12:41:34Z
+  Updated: 2025-12-14T23:40:35Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
@@ -226,13 +226,13 @@
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Klasik-Hakiki-Deri-Cuzdan-Siyah11.png?v=1717875545
   Price: ₺650,00 TRY
 - [Akordiyonlu Hakiki Deri Kartlık - Bulderi](https://bulderi.com.tr/products/akardiyonlu-hakiki-deri-kartlik): Şıklığı ve fonksiyonelliği bir araya getiren Akordiyonlu Hakiki Deri Kartlık, hakiki dana derisinden özenle üretilmiştir. Bu eşsiz ürün, hem erkekler hem de kadınlar için ideal bir ortak kullanım ürünüdür. Kaliteli işçiliği ile öne çıkan kartlık, dayanıklılığı ve zarafeti bir arada sunar.
-  Updated: 2025-10-24T12:31:40Z
+  Updated: 2025-12-14T17:58:20Z
   Vendor: Bulderi
   Product Type: Kartlık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/modern-deri-kartlik-872728.jpg?v=1708256529
   - [Kahve](https://bulderi.com.tr/products/akardiyonlu-hakiki-deri-kartlik?variant=43352280367292)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/products/modern-deri-kartlik-872728.jpg?v=1708256529
     Price: ₺799,90 TRY
   - [Taba](https://bulderi.com.tr/products/akardiyonlu-hakiki-deri-kartlik?variant=44017993646268)
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Saraciye-Dikisli-Telefon-Bolmeli-Cuzdan1.png?v=1715104989
   Price: ₺1.749,90 TRY
 - [Hakiki Deri Anahtarlık - Bulderi](https://bulderi.com.tr/products/hakiki-deri-kahve-anahtarlik): Hakiki Deri Anahtarlık, hem kadınların hem de erkeklerin günlük kullanımına uygun bir tasarıma sahiptir. Üstün kaliteli 1. sınıf dana derisinden üretilmiş olup, sağlamlığı ve dayanıklılığıyla öne çıkar.
-  Updated: 2025-12-02T10:24:36Z
+  Updated: 2025-12-14T22:32:56Z
   Vendor: Bulderi
   Product Type: Anahtarlık
   Availability: Available
@@ -403,7 +403,7 @@
   Updated: 2025-12-11T12:13:00Z
   Total Products: 11
 - [Deri Kartlıklar](https://bulderi.com.tr/collections/kartliklar): Bulderi'nin Kartlıklar koleksiyonu, tarzınızı ve kişiliğinizi yansıtan benzersiz ve özgün tasarımlarıyla dikkat çekiyor. Her bir kart, özel anlarınızı ve duygularınızı en güzel şekilde ifade etmenize olanak sağlayacak zengin içeriklerle donatılmıştır.
-  Updated: 2025-10-25T11:09:02Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 6
 - [Deri Çantalar](https://bulderi.com.tr/collections/cantalar): Bulderi, seçkin deri çanta koleksiyonuyla tarzınızı tamamlayacak benzersiz bir alışveriş deneyimi sunuyor. Kalite ve şıklığı bir araya getiren Bulderi çantaları, her zevke hitap eden çeşitleriyle öne çıkıyor.
   Updated: 2025-11-18T12:10:25Z
@@ -412,34 +412,34 @@
   Updated: 2025-05-11T17:37:18Z
   Total Products: 0
 - [İndirimdekiler](https://bulderi.com.tr/collections/i̇ndirimdekiler): Bulderi'nin İndirimdekiler koleksiyonu, harika fırsatları kaçırmamanız için tasarlanmıştır. Bu özel koleksiyon, indirimli fiyatlarla en sevilen ürünleri bir araya getirir. Moda, güzellik, ev dekorasyonu ve daha birçok kategoride geniş bir ürün yelpazesine sahiptir.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 36
 - [En Yeniler](https://bulderi.com.tr/collections/en-yeniler): Bulderi'nin En Yeniler koleksiyonu, son trendleri takip eden ve sürekli olarak güncellenen ürünleri bir araya getiriyor. Bu özel koleksiyon, en yeni ve özgün tasarımlarıyla dikkat çekiyor.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 37
 - [Çok Satanlar](https://bulderi.com.tr/collections/cok-satanlar): Bulderi'nin Çok Satanlar koleksiyonu, müşterilerimizin en çok tercih ettiği ve beğendiği ürünleri bir araya getiriyor. Bu özel koleksiyon, popülerliklerini kanıtlamış ve kalitesiyle öne çıkan ürünleri içerir.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 37
 - [Telefon Bölmeli Cüzdanlar](https://bulderi.com.tr/collections/telefon-bolmeli-cuzdanlar): Telefon Bölmeli Cüzdanlar, işlevselliği ve şıklığı bir araya getiren modern yaşamın vazgeçilmez aksesuarlarıdır. Her biri özenle seçilmiş yüksek kaliteli malzemelerden üretilen cüzdanlarımız, telefonunuza uygun bölmeleriyle pratik kullanım sunar.
   Updated: 2025-10-01T11:09:52Z
   Total Products: 5
 - [Anneler Günü](https://bulderi.com.tr/collections/anneler-gunu): Sevgi dolu bir Anneler Günü hediyesi bulmanın tam zamanı! Bulderi olarak, annenizi şımartmak için özel olarak seçilmiş cüzdan ve çanta koleksiyonumuzu sunuyoruz. Annenizin tarzını yansıtan ve ona günlük hayatta eşlik edecek şık ve işlevsel parçalar arasında seçim yapın.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 22
 - [Deri Aksesuarlar - Bulderi](https://bulderi.com.tr/collections/aksesuarlar): Stilinizi tamamlayacak özgün aksesuarlar Bulderi'de! Deri cüzdan, çanta, ve kartlık gibi günlük ihtiyaçlarınızı karşılayacak ürünlerimizle şıklığınıza şıklık katın. Her zevke uygun seçeneklerimizle öne çıkan Aksesuarlar kategorimiz, kalite ve zarafeti bir araya getiriyor.
   Updated: 2025-12-02T12:15:16Z
   Total Products: 3
 - [Babalar Günü](https://bulderi.com.tr/collections/babalar-gunu): Bulderi’nin Babalar Günü koleksiyonunda, babanıza olan sevginizi ve takdirinizi gösterecek en zarif ve kaliteli deri ürünlerini keşfedin. Özenle tasarlanmış deri cüzdanlar, şık çantalar, pratik kartlıklar ve zarif aksesuarlar ile babalarınıza hem işlevsel hem de stil sahibi hediyeler sunun.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 18
 - [Sevgililer Günü](https://bulderi.com.tr/collections/sevgililer-gunu): Sevgililer Günü, sevginizi ifade etmek için en özel zamanlardan biridir. Bulderi’nin el yapımı deri koleksiyonu, bu özel günü unutulmaz kılmak için mükemmel hediyeleri sunar. Cüzdan, kartlık, çanta ve aksesuarlar, sevdiğiniz kişiye olan duygularınızı en güzel şekilde yansıtacak tasarımlarla özenle hazırlanmıştır.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 22
 - [El Yapımı](https://bulderi.com.tr/collections/el-yapimi): Bulderi’nin el yapımı deri koleksiyonu, şıklığı ve zarafeti bir araya getirerek, her tarza hitap eden benzersiz parçalar sunar. Cüzdan, kartlık, çanta ve aksesuarlar gibi çeşitli ürünler, ustalarımızın özenle seçtiği yüksek kaliteli deri kullanılarak el işçiliği ile üretilmiştir.
   Updated: 2025-09-29T11:09:06Z
   Total Products: 10
 - [Yaz İndirimi](https://bulderi.com.tr/collections/yaz-indirimi): Yaz sıcaklarını şıklıkla karşılayın! Bulderi'nin özel Yaz İndirimi Koleksiyonu, %100 gerçek deriden üretilmiş cüzdan, çanta, kartlık ve el yapımı deri aksesuarlarla dolu.
-  Updated: 2025-12-11T12:13:00Z
+  Updated: 2025-12-15T12:12:29Z
   Total Products: 11
 
 ## Blogs
@@ -947,19 +947,6 @@
   Updated: 2025-06-12T22:59:55Z
 - [Ağ bağlantısı kesildi!](https://bulderi.com.tr/pages/offline)
   Updated: 2025-06-12T20:17:07Z
-
-## Policies
-
-- [Privacy Policy](https://bulderi.com.tr/policies/privacy-policy)
-  Updated: 2024-02-22T18:44:56+03:00
-- [Shipping Policy](https://bulderi.com.tr/policies/shipping-policy)
-  Updated: 2024-08-27T23:15:28+03:00
-- [Refund Policy](https://bulderi.com.tr/policies/refund-policy)
-  Updated: 2024-08-27T23:15:13+03:00
-- [Terms of Service](https://bulderi.com.tr/policies/terms-of-service)
-  Updated: 2024-07-12T20:10:35+03:00
-- [Contact Information](https://bulderi.com.tr/policies/contact-information)
-  Updated: 2024-12-28T02:51:23+03:00
 
 ## Alternate Currencies & Languages
 
