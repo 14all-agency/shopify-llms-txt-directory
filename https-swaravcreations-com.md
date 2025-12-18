@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-12-17T04:48:07.911Z
+- Updated At: 2025-12-18T04:02:43.340Z
 
 ## Products
 
@@ -220,7 +220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4979_transformation_16643.png?v=1762183931
     Price: $69.99 CAD
 - [Personalized Zodiac Sign Necklace – Perfect Gift for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452): Personalized Zodiac Sign Necklace customized for every star sign. A meaningful astrology gift, perfect for birthdays, anniversaries, or special moments.
-  Updated: 2025-12-17T04:20:53Z
+  Updated: 2025-12-17T22:14:59Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -420,7 +420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_explainer_1029_transformation_3015.png?v=1762186090
     Price: $79.99 CAD
 - [Love Knot Necklace & Earring Set – 14K White Gold | Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set): Love Knot Necklace & Earring Set in 14K white gold by Swarav Creations. A timeless, elegant jewelry gift that symbolizes love and connection.
-  Updated: 2025-12-17T04:11:01Z
+  Updated: 2025-12-17T21:38:34Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -614,7 +614,7 @@
     Availability: Available
     Price: $94.99 CAD
 - [Personalized Zodiac Sign Necklace - Perfect Gift for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box): Personalized Zodiac Sign Necklace crafted to celebrate every star sign. A meaningful, custom gift for birthdays, anniversaries, or special moments.
-  Updated: 2025-12-17T03:53:52Z
+  Updated: 2025-12-17T22:38:10Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -714,14 +714,14 @@
     Availability: Available
     Price: $84.99 CAD
 - [Forever Love Necklace & Earring Set | 14K White Gold Gift](https://swaravcreations.com/products/forever-love-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): A timeless Forever Love necklace and earring set in 14K white gold, beautifully packaged in a luxury gift box—perfect for anniversaries and special moments.
-  Updated: 2025-12-17T03:52:24Z
+  Updated: 2025-12-17T22:11:06Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4525_transformation_13949.png?v=1765026589
   Price: $90.00 CAD
 - [Love Knot Necklace & Earring Set – 14K White Gold | Luxury Box | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): Surprise her with a Love Knot Necklace & Earring Set in 14K white gold, beautifully packaged in a luxury gift box—perfect for anniversaries and special moments.
-  Updated: 2025-12-17T03:48:00Z
+  Updated: 2025-12-17T21:44:13Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -833,6 +833,10 @@
     Updated: 2025-12-15T01:11:03Z
     Author: Swarav Creations
     Tags: anniversary jewelry, anniversary jewelry gift, baby feet necklace, gift for her, gifts, jewelry, love, love knot necklace, meaningful jewelry for her, meaningful jewelry gifts, mom jewelry gift, personalized anniversary gifts, personalized gift, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, romantic jewelry ideas, sentimental jewelry, timeless necklace, token of love
+  - [A Guide to the Best Mom Jewelry Gift Ideas and Their Meanings](https://swaravcreations.com/blogs/news/a-guide-to-the-best-mom-jewelry-gift-ideas-and-their-meanings): A Guide to the Best Mom Jewelry Gift Ideas and Their Meanings
+    Updated: 2025-12-18T00:33:43Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet necklace, gift for her, gift ideas, gifts, jewelry, love knot necklace, meaningful gifts, meaningful jewelry for her, mom jewelry, mom jewelry gift, personalized gift, personalized jewelry gifts, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, sentimental jewelry for mothers, thoughtful, timeless necklace
 
 ## Store Pages
 
@@ -844,6 +848,8 @@
   Updated: 2025-09-14T19:34:01Z
 - [HTML Sitemap](https://swaravcreations.com/pages/html-sitemap): Products Eternal Love Knot Necklace - Swarav Creations Forever Love Necklace - Elegant Jewelry by Swarav Creations Alluring Beauty Necklace | Swara...
   Updated: 2025-10-07T00:35:19Z
+- [About Swarav Creations](https://swaravcreations.com/pages/about-swarav-creations): Our Story Swarav Creations was born from a simple belief — that meaningful gifts don’t need to be expensive or complicated to leave a lasting impre...
+  Updated: 2025-12-18T03:16:53Z
 
 ## Policies
 
