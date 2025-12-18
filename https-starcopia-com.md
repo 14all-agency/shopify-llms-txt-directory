@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-17T00:00:28.202Z
+- Updated At: 2025-12-18T00:00:31.339Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_small_b001829a-4a3a-4ca3-a47b-defa97f20e40.jpg?v=1762597491
   Price: $77.29 USD
 - [Embossed Cherry Blossom Pattern Camera Hot Shoe Cover](https://starcopia.com/products/embossed-cherry-blossom-pattern-camera-hot-shoe-cover): Broad Applicability：The hot shoe cap compatibles with Canon,Nikon,Fuji,Pentax,etc.Suitable for 220 camera models. Unique design: Unique design of classic cherry blossoms make your camera full of enthusiastic, mystery and very different from others. Get you a delicate touch and an exquisite appearance.Best gift ! Function：Protect your hot shoe away from scratches, fingerprints, dust, moisture and oxidization. Easy to Use： Easily on your camera shoe so you can take it on and off ,quickly add accessories such as a flash or microphone. Material: Zinc alloy，Hand-casting and laser engraving. Please note：Due to factors such as photography and raw materials, slight color variations in the product may occur, which is a normal phenomenon.
-  Updated: 2025-11-13T08:11:31Z
+  Updated: 2025-12-17T10:44:12Z
   Vendor: starcopia
   Product Type: camera hot Shoe
   Availability: Available
@@ -367,6 +367,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_9b4de59d-0a02-4c09-bac3-3290c3ff4275.jpg?v=1765879825
   Price: $84.09 USD
+- [Vinyl PU Leather Record Player](https://starcopia.com/products/vinyl-pu-leather-record-player): 【VARIOUS CONNECTION OPTIONS】This vinyl record player built-in Bluetooth receiver to wirelessly transfer list music from your smartphone or tablet. The AUX input port is used to transmit audio from non-Bluetooth devices. The RCA line output port is used to connect external speakers or a HIFI separation. Headphone jack for private listening or output to external speakers. 【3-SPEED TURNTABLE WITH AUTO STOP】Supports 3 playback speeds 33-1/3, 45, 78RPM, and 7/10/12 inch records or albums. Includes 45RPM adapter. The auto-stop function will stop spinning when the record is finished playing, protecting the record from excessive needle wear. 【SUPERIOR SOUND EFFECTS】This portable record player comes with a unique anti-resonance design that minimizes vibration and outputs smoother vinyl music. The high-quality ceramic needle can read the recorded signal more accurately and the stable arm allows the needle to play steadily according to the track without skipping and with less wear and tear on the record. Makes the sound quality clear. 【VINYL PURE MUSIC】The built-in two upgraded 5W round speaker allows you to listen to music anywhere, plug and play, without the need for additional equipment. 【VINTAGE SUITCASE RECORD PLAYER】The classic PU leather styling in a black or green, suitcase-style design with vintage metal hardware adds a fancy finishing touch to your house. You can take it anywhere with its sturdy handle. The user-friendly simple control panel ensures that anyone can use it easily, with a simple setup that gets it up and running in minutes.
+  Updated: 2025-12-17T09:59:23Z
+  Vendor: starcopia
+  Product Type: LP Player
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_3971ea36-8e98-4841-8a12-45e290bec0c8.jpg?v=1765965205
+  - [Black](https://starcopia.com/products/vinyl-pu-leather-record-player?variant=47710898585825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_3971ea36-8e98-4841-8a12-45e290bec0c8.jpg?v=1765965205
+    Price: $192.82 USD
+  - [Green](https://starcopia.com/products/vinyl-pu-leather-record-player?variant=47710898618593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_green_9e8f2529-3482-45fb-a414-62dcedcd477e.jpg?v=1765965205
+    Price: $192.82 USD
 
 ## Collections
 
@@ -389,8 +403,8 @@
   Updated: 2025-12-11T08:21:46Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-12-16T10:13:46Z
-  Total Products: 3
+  Updated: 2025-12-17T09:59:21Z
+  Total Products: 4
 
 ## Store Pages
 
