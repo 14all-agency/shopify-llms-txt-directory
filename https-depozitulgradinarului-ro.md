@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-16T00:00:42.701Z
+- Updated At: 2025-12-18T00:00:44.825Z
 
 ## Products
 
@@ -17,8 +17,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-04-08at22.14.49_1.jpg?v=1744140634
   Price: 105,00 lei RON
-- [Sulfat de Cupru – 0.5 KG](https://depozitulgradinarului.ro/products/sulfat-de-cupru-0-5-kg): Sulfatul de cupru este un compus chimic utilizat frecvent în agricultură, datorită proprietăților sale fungicide și bactericide. Este un cristal albastru intens și se găsește sub forma de pentahidrat.
-  Updated: 2025-11-02T16:05:54Z
+- [Sulfat de Cupru – 0.5 KG | Fungicid și Bactericid pentru Plante](https://depozitulgradinarului.ro/products/sulfat-de-cupru-0-5-kg): Sulfat de cupru - 0.5 kg,  cu acțiune fungicidă și bactericidă. Ideal pentru viță de vie, pomi și legume. Protecție eficientă și corectarea carenței de cupru.
+  Updated: 2025-12-17T20:02:09Z
   Vendor: Depozitul Grădinarului
   Product Type: Sulfat de Cupru
   Availability: Available
@@ -31,8 +31,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/dgd.jpg?v=1738688559
   Price: 4,00 lei RON
-- [AGROSAN B Moluscocid - 500 GR, Kollant, Combate Melcii, Limacsii, Gasteropodele](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-500-gr-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid este un produs fitosanitar fabricat de Kollant, utilizat în principal pentru combaterea melcilor și limacșilor în culturile agricole și grădini. Este un moluscocid eficient, sub formă de granule, care protejează plantele împotriva acestordăunători care pot provoca pagube semnificative.
-  Updated: 2025-07-26T23:55:23Z
+- [AGROSAN B Moluscocid - 500 GR, Kollant | Melci, Limacsi, Gasteropode](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-500-gr-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid combate eficient melcii, limacșii și gasteropodele din culturile de legume, fructe. Granule rezistente la ploaie, cu metaldehidă 5%.
+  Updated: 2025-12-17T19:33:24Z
   Vendor: Kollant
   Product Type: Moluscocid
   Availability: Available
@@ -150,15 +150,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at09.19.12.jpg?v=1738826388
   Price: 40,90 lei RON
-- [Fungicid contact Zeama Bordeleza (Bouillie Bordelaise) - 1 KG, UPL](https://depozitulgradinarului.ro/products/fungicid-contact-zeama-bordeleza-bouillie-bordelaise-1-kg-upl): Zeama bordeleză este un fungicid de contact pe bază de cupru, utilizat pentru combaterea bolilor fungice și bacteriene.
-  Updated: 2025-07-29T20:21:51Z
+- [Fungicid Zeamă Bordeleză UPL 1 KG – Protecție Ecologică Cupru si Legume](https://depozitulgradinarului.ro/products/fungicid-contact-zeama-bordeleza-bouillie-bordelaise-1-kg-upl): Zeamă Bordeleză UPL 1 KG – fungicid ecologic cu cupru pentru viță, pomi și legume. Combate mana, rapănul și bolile bacteriene rapid și sigur.
+  Updated: 2025-12-17T07:04:09Z
   Vendor: UPL
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at09.25.28.jpg?v=1738826743
   Price: 55,00 lei RON
-- [Fungicid contact Zeama Bordeleza (Bouillie Bordelaise) - 50 GR, UPL](https://depozitulgradinarului.ro/products/fungicid-contact-zeama-bordeleza-bouillie-bordelaise-50-gr-upl): Zeama bordeleză este un fungicid de contact pe bază de cupru, utilizat pentru combaterea bolilor fungice și bacteriene.
-  Updated: 2025-07-30T09:00:51Z
+- [Fungicid Zeamă Bordeleză UPL 50 GR – Protecție Ecologică Cupru](https://depozitulgradinarului.ro/products/fungicid-contact-zeama-bordeleza-bouillie-bordelaise-50-gr-upl): Zeamă Bordeleză UPL 50 GR – fungicid ecologic cu cupru pentru viță, pomi și legume. Combate mana, rapănul și bolile bacteriene rapid și sigur.
+  Updated: 2025-12-17T06:58:49Z
   Vendor: UPL
   Product Type: fungicid
   Availability: Available
@@ -171,13 +171,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at10.47.50.jpg?v=1738831703
   Price: 4,00 lei RON
-- [Fungicid FOLPAN 80 WDG - 150 GR, Adama, Contact](https://depozitulgradinarului.ro/products/fungicid-folpan-80-wdg-150-gr-adama-contact): Folpan 80 WDG este un fungicid de contact pe bază de folpet (80%), utilizat pentru combaterea bolilor fungice la viță de vie, pomi fructiferi, legume și cartofi.
-  Updated: 2025-07-27T03:56:34Z
+- [Fungicid Folpan 80 WDG 150 GR – Protecție Multi-Site Culturi Horticole](https://depozitulgradinarului.ro/products/fungicid-folpan-80-wdg-150-gr-adama-contact): Folpan 80 WDG 150 GR, Adama – fungicid de contact multi-site pentru măr, viță, tomate și legume. Protecție eficientă și rezistentă la spălare.
+  Updated: 2025-12-17T07:12:53Z
   Vendor: Adama
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at10.47.50_1.jpg?v=1738832250
   Price: 23,00 lei RON
+- [Fungicid Melody Compact 49 WG 20 GR – Protecție Vita de Vie Sistemica](https://depozitulgradinarului.ro/products/fungicid-melody-compact-49-wg-20-gr-bayer-sistemic-vita-de-vie): Melody Compact 49 WG este un fungicid sistemic și de contact pe bază de iprovalicarb (8,4%) și oxiclorură de cupru (40,6%), utilizat pentru combaterea manei la vița de vie.
+  Updated: 2025-12-16T19:07:23Z
+  Vendor: Bayer
+  Product Type: fungicid
+  Availability: Available
+  Price: 0,00 lei RON
 - [Fungicid MICROTHIOL SPECIAL - 30 GR, UPL, Contact](https://depozitulgradinarului.ro/products/fungicid-microthiol-special-30-gr-upl-contact): Microthiol Special este un fungicid de contact pe bază de sulf micronizat (80%), utilizat pentru combaterea făinării la viță de vie, pomi fructiferi, legume și alte culturi.
   Updated: 2025-07-28T13:47:50Z
   Vendor: UPL
@@ -311,85 +317,78 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-04-08at22.14.49_2.jpg?v=1744140728
   Price: 36,99 lei RON
-- [Sulfat de Cupru – 1 KG, Proprietati fungice si bactericide](https://depozitulgradinarului.ro/products/sulfat-de-cupru-1-kg): Sulfatul de cupru este un compus chimic utilizat frecvent în agricultură datorită proprietăților sale fungicide și bactericide.
-  Updated: 2025-11-02T16:05:32Z
+- [Sulfat de Cupru – 1 KG | Fungicid și Bactericid pentru Plante](https://depozitulgradinarului.ro/products/sulfat-de-cupru-1-kg): Sulfat de cupru - 1 kg, cu acțiune fungicidă și bactericidă. Ideal pentru viță de vie, pomi și legume. Protecție eficientă și corectarea carenței de cupru.
+  Updated: 2025-12-17T20:01:45Z
   Vendor: Depozitul Grădinarului
   Product Type: Sulfat de Cupru
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at16.53.41.jpg?v=1738853808
   Price: 27,99 lei RON
-- [Pasta raticida KORAT utilizata in combaterea rozatoarelor – 100 GR](https://depozitulgradinarului.ro/products/pasta-raticida-korat-utilizata-in-combaterea-rozatoarelor-100-gr): KORAT Pasta - raticid foarte eficient utilizat în combaterea rozătoarelor. Este concepută sub formă de pastă, ceea ce o face atractivă pentru rozătoare datorită texturii și aromei.
-  Updated: 2025-07-28T16:18:29Z
-  Vendor: Depozitul Grădinarului
-  Product Type: Raticid
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at17.13.05.jpg?v=1738854801
-  Price: 9,00 lei RON
-- [Raticid BRODY PASTA Albastra - 150 GR, Kollant, Brodifacoum](https://depozitulgradinarului.ro/products/raticid-brody-pasta-albastra-150-gr-kollant-brodifacoum): Brody Pasta, momeala pentru rozatoare bazata pe o substanta activa anticoagulanta brodifacoum, eficienta impotriva soarecilor de casa, sobolanilor de canal si sobolanilor negri.
-  Updated: 2025-07-27T14:01:52Z
+- [Raticid BRODY PASTA Albastra - 150 GR, Kollant | Șoareci și Șobolani](https://depozitulgradinarului.ro/products/raticid-brody-pasta-albastra-150-gr-kollant-brodifacoum): Raticid Brody Pasta Albastră 150 gr, cu brodifacoum elimină rapid șoarecii și șobolanii. Momeală foarte atractivă, cu Bitrex, pentru uz profesional și casnic. Depozitul Grădinarului
+  Updated: 2025-12-17T19:51:02Z
   Vendor: Depozitul Grădinarului
   Product Type: Raticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at17.30.10.jpg?v=1738855874
   Price: 8,50 lei RON
-- [Raticid TOXIRAT BRODY, Grau Albastru - 150 GR](https://depozitulgradinarului.ro/products/raticid-toxirat-brody-grau-albastru-150-gr): Raticidul TOXIRAT BRODY este eficient impotriva soarecilor si sobolanilor, care contine o substanta activa cu cea mai larga gama de actiune pe suport de grâu, foarte ispititoare pentru rozatoare.
-  Updated: 2025-07-29T18:40:11Z
+- [Raticid TOXIRAT BRODY, Grau Albastru - 150 GR | Șoareci și Șobolani](https://depozitulgradinarului.ro/products/raticid-toxirat-brody-grau-albastru-150-gr): Toxirat Brody, raticid grâu albastru 150 gr - elimină eficient șoarecii și șobolanii. Cu brodifacoum și Bitrex, acțiune întârziată, sigură și de lungă durată. Depozitul Grădinarului
+  Updated: 2025-12-17T19:47:53Z
   Vendor: Depozitul Grădinarului
   Product Type: Raticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at17.39.33.jpg?v=1738856384
   Price: 4,90 lei RON
-- [Raticid TOXIRAT BRODY, Granule Albastre - 150 GR](https://depozitulgradinarului.ro/products/raticid-toxirat-brody-granule-albastre-150-gr): Raticidul Toxirat Brody – granule este eficient impotriva soarecilor si sobolanilor si  contine o substanta activa cu cea mai larga gama de actiune pe suport de granule din amestec de cereale.
-  Updated: 2025-07-26T00:22:49Z
+- [Raticid TOXIRAT BRODY, Granule Albastre - 150 GR | Elimină Șoarecii și Șobolanii](https://depozitulgradinarului.ro/products/raticid-toxirat-brody-granule-albastre-150-gr): Toxirat Brody, raticid granule albastre 150 gr - combate eficient șoarecii și șobolanii. Cu brodifacoum și Bitrex, acțiune sigură, întârziată și eficientă. Depozitul Grădinarului
+  Updated: 2025-12-17T19:45:12Z
   Vendor: Depozitul Grădinarului
   Product Type: Raticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/toxiratgranule.png?v=1738856478
   Price: 5,90 lei RON
-- [Raticid TOXIRAT Forte 30, Pasta Rosie - 150 GR](https://depozitulgradinarului.ro/products/raticid-toxirat-forte-30-pasta-rosie-150-gr): Raticidul Toxirat Forte 30, pasta rosie este eficient împotriva șoarecilor și șobolanilor, care conține o substanță activă cu cea mai largă gamă de acțiune pe suport de pastă proaspătă din amestec de cereale.
-  Updated: 2025-07-26T23:28:38Z
+- [Raticid TOXIRAT Forte 30, Pasta Rosie - 150 GR | Elimină Șoarecii și Șobolanii](https://depozitulgradinarului.ro/products/raticid-toxirat-forte-30-pasta-rosie-150-gr): Toxirat Forte 30, raticid pastă roșie, 150 gr - combate eficient șoarecii și șobolanii. Cu bromadiolonă și Bitrex, acțiune sigură și întârziată. Depozitul Grădinarului
+  Updated: 2025-12-17T19:42:07Z
   Vendor: Depozitul Grădinarului
   Product Type: Raticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at17.48.01.jpg?v=1738857891
   Price: 7,90 lei RON
-- [AGROSAN B Moluscocid - 1 KG, Kollant](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-1-kg-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid este un produs fitosanitar fabricat de Kollant, utilizat în principal pentru combaterea melcilor și limacșilor în culturile agricole și grădini.
-  Updated: 2025-07-26T01:19:53Z
+- [AGROSAN B Moluscocid - 1 KG, Kollant | Melci, Limacsi, Gasteropode](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-1-kg-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid combate eficient melcii, limacșii și gasteropodele din culturile de legume, fructe. Granule rezistente la ploaie, cu metaldehidă 5%.
+  Updated: 2025-12-17T19:31:43Z
   Vendor: Kollant
   Product Type: Moluscocid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at18.12.55.jpg?v=1738858422
   Price: 32,00 lei RON
-- [Insecticid BENEVIA – 7.5 ml, Sistemic, FMC](https://depozitulgradinarului.ro/products/insecticid-benevia-7-5-ml-sistemic-fmc): Benevia este un insecticid sistemic, inovator, dezvoltat de FMC, utilizat pentru combaterea eficientă a unei game largi de dăunători în culturile horticole.
-  Updated: 2025-07-28T18:40:35Z
+- [Insecticid BENEVIA – 7.5 ml, Sistemic, FMC | Gândac Colorado, Tripsi, Omizi](https://depozitulgradinarului.ro/products/insecticid-benevia-7-5-ml-sistemic-fmc): Benevia - insecticid sistemic FMC, combate rapid Gândacul din Colorado, Tripsi, Omizi, Musculița albă si alte insecte pe legume, protecție de lungă durată. Depozitul Grădinarului
+  Updated: 2025-12-17T13:17:04Z
   Vendor: FMC
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at21.42.00.jpg?v=1738870988
   Price: 12,90 lei RON
-- [Insecticid BENEVIA – 75 ML, Sistemic, FMC](https://depozitulgradinarului.ro/products/insecticid-benevia-75-ml-sistemic-fmc): Benevia este un insecticid sistemic, inovator, dezvoltat de FMC, utilizat pentru combaterea eficientă a unei game largi de dăunători în culturile horticole.
-  Updated: 2025-07-29T09:49:32Z
+- [Insecticid BENEVIA – 75 ML, Sistemic, FMC | Gândac Colorado, Tripsi, Omizi](https://depozitulgradinarului.ro/products/insecticid-benevia-75-ml-sistemic-fmc): Benevia - insecticid sistemic FMC, combate rapid Gândacul din Colorado, Tripsi, Omizi, Musculița albă si alte insecte pe legume, protecție de lungă durată. Depozitul Grădinarului
+  Updated: 2025-12-17T07:04:52Z
   Vendor: FMC
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at21.42.00_1.jpg?v=1738872047
-  Price: 87,99 lei RON
-- [Insecticid CORAGEN – 1.5 ML, Contact, FMC](https://depozitulgradinarului.ro/products/insecticid-coragen-1-5-ml-contact-fmc): Coragen este un insecticid de ultimă generație dezvoltat de compania FMC, recunoscut pentru eficiența sa excepțională în combaterea dăunătorilor care afectează culturile agricole.
-  Updated: 2025-07-26T14:53:56Z
+  Price: 89,90 lei RON
+- [Insecticid CORAGEN – 1.5 ML, Contact, FMC | Omizi, Tuta Absoluta, Viermi](https://depozitulgradinarului.ro/products/insecticid-coragen-1-5-ml-contact-fmc): Insecticid de contact Coragen cu acțiune rapidă împotriva omizilor, Tuta absoluta și viermilor. Protecție 14–21 zile pentru legume, pomi, viță și porumb. Depozitul Grădinarului
+  Updated: 2025-12-17T12:47:56Z
   Vendor: FMC
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at21.42.00_2.jpg?v=1738872709
   Price: 5,50 lei RON
-- [Insecticid DECIS EXPERT 100 EC – 2.5 ML, Contact, Bayer](https://depozitulgradinarului.ro/products/insecticid-decis-expert-100-ec-2-5-ml-contact-bayer): DECIS EXPERT 100 EC, insecticid de contact și ingestie asupra daunatorilor în stadiul de larva sau adult. Substanta activa: deltametrin 100 g/L.
-  Updated: 2025-07-30T09:00:51Z
+- [Insecticid DECIS EXPERT 100 EC – 2.5 ML, Contact | Afide, Gărgărițe, Purici](https://depozitulgradinarului.ro/products/insecticid-decis-expert-100-ec-2-5-ml-contact-bayer): Insecticidul Decis Expert 100 EC combate rapid afide, gărgărițe, purici și gândacul lucios. Efect de șoc, protecție sigură pentru legume, cereale și rapiță. Depozitul Grădinarului
+  Updated: 2025-12-17T06:46:54Z
   Vendor: Bayer
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at22.20.58.jpg?v=1738873271
   Price: 4,99 lei RON
-- [Insecticid DECIS EXPERT 100 EC - 100 ML, Contact, Bayer](https://depozitulgradinarului.ro/products/insecticid-decis-expert-100-ec-100-ml-contact-bayer): DECIS EXPERT 100 EC, insecticid de contact și ingestie asupra daunatorilor în stadiul de larva sau adult. Substanta activa: deltametrin 100 g/L.
-  Updated: 2025-07-28T11:35:37Z
+- [Insecticid DECIS EXPERT 100 EC - 100 ML, Contact | Afide, Gărgărițe, Purici](https://depozitulgradinarului.ro/products/insecticid-decis-expert-100-ec-100-ml-contact-bayer): Insecticidul Decis Expert 100 EC combate rapid afide, gărgărițe, purici și gândacul lucios. Efect de șoc, protecție sigură pentru legume, cereale și rapiță. Depozitul Grădinarului
+  Updated: 2025-12-17T06:47:07Z
   Vendor: Bayer
   Product Type: Insecticid
   Availability: Available
@@ -3381,8 +3380,8 @@ Formulat pe baza unei combinații unice de microorganisme benefice, acest fungic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-05-14at12.54.09.jpg?v=1747216680
   Price: 65,00 lei RON
-- [Insecticid CORAGEN – 10 ML, Contact, FMC, Legume, Pomi fructiferi, Vita-de-vie, Porumb](https://depozitulgradinarului.ro/products/insecticid-coragen-10-ml-contact-fmc): Coragen este un insecticid de ultimă generație dezvoltat de compania FMC, recunoscut pentru eficiența sa excepțională în combaterea dăunătorilor care afectează culturile agricole, precum: legume, pomi fructiferi, vita-de-vie, porumb.
-  Updated: 2025-09-30T12:20:45Z
+- [Insecticid CORAGEN – 10 ML, Contact, FMC | Omizi, Tuta Absoluta, Viermi](https://depozitulgradinarului.ro/products/insecticid-coragen-10-ml-contact-fmc): Insecticid de contact Coragen cu acțiune rapidă împotriva omizilor, Tuta absoluta și viermilor. Protecție 14–21 zile pentru legume, pomi, viță și porumb. Depozitul Grădinarului
+  Updated: 2025-12-17T12:28:01Z
   Vendor: FMC
   Product Type: Insecticid
   Availability: Available
@@ -3592,8 +3591,8 @@ Pret mic!
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-06-04at14.03.34.jpg?v=1749036174
   Price: 16,00 lei RON
-- [AGROSAN B Moluscocid - 250 GR, Kollant, Combate Melcii, Limacsii, Gasteropodele](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-250-gr-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid este un produs fitosanitar fabricat de Kollant, utilizat în principal pentru combaterea melcilor și limacșilor în culturile agricole și grădini. Este un moluscocid eficient, sub formă de granule, care protejează plantele împotriva acestordăunători care pot provoca pagube semnificative.
-  Updated: 2025-10-13T14:34:12Z
+- [AGROSAN B Moluscocid - 250 GR, Kollant | Melci, Limacsi, Gasteropode](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-250-gr-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid combate eficient melcii, limacșii și gasteropodele din culturile de legume, fructe. Granule rezistente la ploaie, cu metaldehidă 5%.
+  Updated: 2025-12-17T19:31:38Z
   Vendor: Kollant
   Product Type: Moluscocid
   Availability: Available
@@ -4223,10 +4222,10 @@ Livrare rapidă!
   Updated: 2025-11-29T12:48:33Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-12-11T20:21:16Z
+  Updated: 2025-12-16T19:04:51Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
-  Updated: 2025-12-11T19:45:36Z
+  Updated: 2025-12-16T19:12:36Z
   Total Products: 36
 - [Adjuvanți Agricoli – Eficiență Sporită pentru Tratamente](https://depozitulgradinarului.ro/collections/adjuvanti): Adjuvanți agricoli profesionali pentru eficiență sporită a  tratamentelor fitosanitare și a îngrășămintelor foliare. Soluții compatibile cu erbicide, fungicide și insecticide pentru eficiență maximă.
   Updated: 2025-07-30T04:25:06Z
@@ -4238,7 +4237,7 @@ Livrare rapidă!
   Updated: 2025-06-21T14:30:41Z
   Total Products: 1
 - [Sulfat de Cupru pentru Pomi, Viță de Vie și Legume](https://depozitulgradinarului.ro/collections/sulfat-de-cupru): Tratament cu sulfat de cupru pentru pomi, viță de vie, legume și flori. Soluție cu acțiune dezinfectantă și antifungică, utilizată în agricultura tradițională. Eficient împotriva manei, făinării și bacteriozelor.
-  Updated: 2025-07-25T09:31:10Z
+  Updated: 2025-12-17T20:02:09Z
   Total Products: 2
 - [Produse Profesionale pentru Tratarea Sămânței](https://depozitulgradinarului.ro/collections/tratamente-samanta): Alege produse profesionale pentru tratarea sămânței, cu acțiune fungicidă și insecticidă. Protejează culturile din primele faze de dezvoltare pentru o pornire sănătoasă.
   Updated: 2025-12-11T19:45:36Z
@@ -4250,7 +4249,7 @@ Livrare rapidă!
   Updated: 2025-11-30T12:59:52Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-12-11T20:21:16Z
+  Updated: 2025-12-17T20:02:09Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
   Updated: 2025-12-11T12:37:20Z
@@ -4269,13 +4268,13 @@ Livrare rapidă!
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-12-08T12:35:21Z
+  Updated: 2025-12-17T19:55:04Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-30T13:19:14Z
   Total Products: 18
 - [Raticide Avizate | Eliminare Rozătoare din Gospodărie și Fermă](https://depozitulgradinarului.ro/collections/raticide-1): Raticide puternice pentru eliminarea rozătoarelor în spații comerciale, locuințe, ferme și depozite. Protejează-ți proprietatea eficient!
-  Updated: 2025-12-03T12:32:05Z
+  Updated: 2025-12-17T19:55:04Z
   Total Products: 8
 - [Sisteme de Irigat | Aspersoare, Furtune, Pistoale, Accesorii](https://depozitulgradinarului.ro/collections/sisteme-de-irigat): Sisteme de irigat pentru grădină: aspersoare, furtune, pistoale de stropit și accesorii. Soluții eficiente pentru udarea gazonului și plantelor.
   Updated: 2025-11-30T13:41:20Z
