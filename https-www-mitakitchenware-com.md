@@ -6,19 +6,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-17T00:00:22.138Z
+- Updated At: 2025-12-18T00:00:24.203Z
 
 ## Products
 
-- [Karaca Bio Diamond Antibacterial Handle Induction Based 6 Pcs Cookware Set](https://www.mitakitchenware.com/products/karaca-bio-diamond-antibacterial-handle-induction-based-6-pcs-cookware-set): Experience the comfort and control of Karaca Bio Diamond Antibacterial Handle Induction Based 6 Pcs Cookware Set!
-  Updated: 2025-12-09T09:30:15Z
-  Vendor: Mita Kitchenware
-  Product Type: Cookware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_71b52608-a60d-402f-a6a2-8deab4d864e1.jpg?v=1755471907
-  Price: $299.00 AUD
 - [Karaca BioDiamond Pro Japanese Red 7-Piece Cookware Set](https://www.mitakitchenware.com/products/karaca-bio-diamond-pro-induction-based-japanese-red-7-piece-cookware-set): Premium Karaca BioDiamond Pro 7-Piece Cookware Set in Japanese Red. Induction-ready, ultra-durable non-stick, PFOA-free, scratch-resistant pots & pans.
-  Updated: 2025-12-09T21:37:45Z
+  Updated: 2025-12-17T12:11:22Z
   Vendor: Mita Kitchenware
   Product Type: Cookware
   Availability: Available
@@ -388,8 +381,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/IMG_5921.jpg?v=1708234378
   Price: $190.00 AUD
-- [Karaca Fine Pearl Eternal 58 Pieces Pearl Dinnerware](https://www.mitakitchenware.com/products/karaca-fine-pearl-eternal-58-pieces-pearl-dinnerware-set-for-12-persons): Elevate dining with Karaca's Fine Pearl 58-piece Dinnerware Set. Patented pearl design for unmatched durability and elegance.
-  Updated: 2025-11-26T11:19:59Z
+- [Karaca Fine Pearl Dinner Set for 12 | 58-Piece Luxury Pearl Dinnerware](https://www.mitakitchenware.com/products/karaca-fine-pearl-eternal-58-pieces-pearl-dinnerware-set-for-12-persons): Discover Karaca Fine Pearl Eternal Dinner Set for 12. 58-piece luxury white dinnerware made with real pearls. Patented, award-winning design.
+  Updated: 2025-12-17T21:30:12Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -995,7 +988,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4403B4D2-54F5-4B50-9B6E-1FA193530104.jpg?v=1758283048
   Price: $120.00 AUD
 - [Porland Pinky Turkish Coffee Set for Two- (DS 1 Pink) 80ml](https://www.mitakitchenware.com/products/porland-pinky-pattern-turkish-coffee-set-for-two-design-1-pink): Elevate your tableware with Porland Pinky Design 2.Luxurious gold gilded Turkish Coffee cup & saucers, elegant, timeless and durable.
-  Updated: 2025-11-26T23:51:52Z
+  Updated: 2025-12-17T02:06:54Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1022,12 +1015,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-7028.jpg?v=1758283111
   Price: $110.00 AUD
-- [Porland Lalehan Teapot with lid 800ml](https://www.mitakitchenware.com/products/porland-lalehan-teapot-with-lid-800ml): Porland LALEHAN 800ml Porcelain Teapot with Lid – Heat resistant, drip-free sprout, dishwasher-safe.Preserves tea flavour- ideal for daily use or elegant gift.
-  Updated: 2025-11-26T23:51:53Z
+- [Porland Lalehan Porcelain Tea Pot 800ml with Lid | Premium Teaware](https://www.mitakitchenware.com/products/porland-lalehan-teapot-with-lid-800ml): Shop the Porland Lalehan 800ml porcelain tea pot with lid. Elegant, heat-resistant design with drip-free spout—perfect for daily tea brewing or gifting.
+  Updated: 2025-12-17T12:29:36Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/AB1978D4-DE0F-4B45-9961-665AC76FD089.jpg?v=1758283115
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/AB1978D4-DE0F-4B45-9961-665AC76FD089.png?v=1765974263
   Price: $90.00 AUD
 - [Porland Anthracite Tea Pot with Lid 1000ml](https://www.mitakitchenware.com/products/porland-anthracite-tea-pot-with-lid-1000ml): Porland Anthracite 1L Wabi-Sabi Teapot: Handcrafted reactive glaze, fits Turkish electric kettles, dishwasher-safe.Embrace imperfect beauty-lifetime guarantee.
   Updated: 2025-11-26T23:51:53Z
@@ -1036,8 +1029,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4B7002A6-EA1F-4E35-861F-7AD296AD1BCF.png?v=1763553776
   Price: $90.00 AUD
-- [Porland Sand Beige Tea Pot with Lid 1000ml](https://www.mitakitchenware.com/products/porland-sand-beige-tea-pot-with-lid-1000ml): Porland Sand Beige 1Lt Tea Pot with Lid - Durable ceramic, drip-free sprout & ergonomic handle. Perfect for tea Lovers. Elevate your brew today! Shop now!
-  Updated: 2025-11-26T23:51:53Z
+- [Porland Sand Beige Tea Pot 1L with Lid | Premium Porcelain Teapot](https://www.mitakitchenware.com/products/porland-sand-beige-tea-pot-with-lid-1000ml): Discover the Porland Sand Beige 1L porcelain tea pot with lid. Crafted from high-grade porcelain for elegant tea serving and lasting durability. Shop now!
+  Updated: 2025-12-17T12:21:29Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1117,7 +1110,7 @@
   Updated: 2025-12-04T03:58:01Z
   Total Products: 9
 - [Dinnerware: Buy Affordable Dinnerware Sets Online](https://www.mitakitchenware.com/collections/dinnerware): Looking for high-quality dinnerware? Explore our extensive selection of Dinnerware sets, plates, bowls, and more at affordable prices.
-  Updated: 2025-12-09T10:58:58Z
+  Updated: 2025-12-17T07:58:07Z
   Total Products: 46
 - [Glassware | Shop the Best Glassware Online - Wide Selection](https://www.mitakitchenware.com/collections/glassware): Enhance your sipping experience. Explore stylish glassware collections in sets of 6-49 pieces. Shop our classic and contemporary designs today. Free Shipping*
   Updated: 2025-12-08T22:17:47Z
@@ -1147,22 +1140,22 @@
   Updated: 2025-11-26T12:16:09Z
   Total Products: 15
 - [Archive Sale | Exclusive Deals on Trendy Items | Sale](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE SALE collection. Shop now and add timeless pieces to your wardrobe.
-  Updated: 2025-12-13T22:09:01Z
+  Updated: 2025-12-17T07:58:07Z
   Total Products: 76
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2025-12-14T02:10:40Z
+  Updated: 2025-12-17T12:29:37Z
   Total Products: 200
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
   Updated: 2025-12-09T04:08:39Z
   Total Products: 2
 - [Porland Premium Collection -](https://www.mitakitchenware.com/collections/porland-premium-collection): Discover the exquisite range of Porland Premium Collection products, designed to elevate your dining experience. Shop now for quality and style.
-  Updated: 2025-12-09T04:08:39Z
-  Total Products: 14
+  Updated: 2025-12-17T12:14:24Z
+  Total Products: 15
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2025-12-14T02:10:40Z
+  Updated: 2025-12-17T12:29:37Z
   Total Products: 200
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-14T02:10:40Z
+  Updated: 2025-12-17T12:29:37Z
   Total Products: 200
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-11-26T11:19:08Z
