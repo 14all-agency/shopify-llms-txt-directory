@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-18T00:00:55.941Z
+- Updated At: 2025-12-18T04:00:33.173Z
 
 ## Products
 
@@ -5151,7 +5151,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Velvet Harvest Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/velvet-harvest-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Amber, spiced pear, and vanilla blend in our 10 oz Velvet Harvest Candle — a cozy, elegant fragrance for refined autumn comfort.
-  Updated: 2025-12-17T01:13:30Z
+  Updated: 2025-12-18T02:21:24Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5838,7 +5838,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Strawberry Shortcake Original Candle](https://affinatiliving.com/products/strawberry-shortcake-original-candle): Fill your home with the sweet aroma of our Strawberry Shortcake Original Candle. Hand-poured with a premium soy wax blend, it blends ripe strawberries, vanilla cake, and whipped cream for a cozy, bakery-fresh fragrance.
-  Updated: 2025-12-17T01:00:27Z
+  Updated: 2025-12-18T00:54:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7169,7 +7169,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Vanilla Chai Original Candle](https://affinatiliving.com/products/vanilla-chai-original-candle): Warm your home with creamy vanilla and chai spice. Our 10 oz Vanilla Chai Candle delivers rich, comforting fragrance with a long, clean burn.
-  Updated: 2025-12-17T01:00:22Z
+  Updated: 2025-12-18T01:57:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7651,6 +7651,51 @@
   - [Pack of 5](https://affinatiliving.com/products/coastal-drift-wooden-wick-candle-luxury-21-oz-soy-blend-affinati?variant=58486789439569)
     Availability: Available
     Price: $129.95 USD
+- [3-Wick Peppermint Spice Creme Candle](https://affinatiliving.com/products/3-wick-peppermint-spice-creme-candle): Fill your home with creamy peppermint, warm vanilla crème, and gentle spices. A strongly scented 3-wick candle made with a clean-burning soy wax blend.
+  Updated: 2025-12-18T01:32:48Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/BB076A55-E1E1-4B9B-8456-AA80A8214A23.png?v=1766020070
+  - [Single Order](https://affinatiliving.com/products/3-wick-peppermint-spice-creme-candle?variant=58502437797969)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/3-wick-peppermint-spice-creme-candle?variant=58502437830737)
+    Availability: Available
+    Price: $69.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/3-wick-peppermint-spice-creme-candle?variant=58502437863505)
+    Availability: Available
+    Price: $109.95 USD
+- [Peppermint Spice Creme Signature Candle](https://affinatiliving.com/products/peppermint-spice-creme-signature-candle): Cool peppermint blends with creamy vanilla crème and soft spice in this clean-burning 10 oz candle. Made with a premium soy wax blend.
+  Updated: 2025-12-18T01:17:12Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/C28AF973-2634-4C29-9ED1-2CE318D3BDB7.png?v=1766020617
+  - [Single Order](https://affinatiliving.com/products/peppermint-spice-creme-signature-candle?variant=58502442418257)
+    Availability: Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/peppermint-spice-creme-signature-candle?variant=58502442451025)
+    Availability: Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/peppermint-spice-creme-signature-candle?variant=58502442483793)
+    Availability: Available
+    Price: $72.95 USD
+- [Peppermint Spice Creme Original Candle](https://affinatiliving.com/products/peppermint-spice-creme-original-candle): Cool peppermint blends with creamy vanilla crème and gentle spice in this strongly scented 10 oz candle. Clean-burning soy wax for cozy, refreshing ambiance.
+  Updated: 2025-12-18T02:01:09Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/67B0CFE1-EF4B-4295-B5F5-1024B0B2C257.png?v=1766020769
+  - [Single Order](https://affinatiliving.com/products/peppermint-spice-creme-original-candle?variant=58502465388625)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/peppermint-spice-creme-original-candle?variant=58502465421393)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/peppermint-spice-creme-original-candle?variant=58502465454161)
+    Availability: Available
+    Price: $64.95 USD
 
 ## Collections
 
@@ -7658,11 +7703,11 @@
   Updated: 2025-12-10T19:04:55Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 88
+  Updated: 2025-12-18T01:07:40Z
+  Total Products: 89
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 75
+  Updated: 2025-12-18T01:16:54Z
+  Total Products: 76
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-10T19:04:56Z
   Total Products: 28
@@ -7688,8 +7733,8 @@
   Updated: 2025-12-10T19:04:56Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 312
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 315
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-17T10:41:26Z
   Total Products: 99
@@ -7712,8 +7757,8 @@
   Updated: 2025-12-10T19:04:56Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 92
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 93
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-12-17T12:09:32Z
   Total Products: 54
@@ -7721,28 +7766,28 @@
   Updated: 2025-12-17T12:09:32Z
   Total Products: 118
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 133
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 136
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 122
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 125
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-12-17T12:09:32Z
+  Updated: 2025-12-18T01:07:39Z
   Total Products: 100
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
   Updated: 2025-12-16T12:11:08Z
   Total Products: 62
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-12-17T12:09:32Z
+  Updated: 2025-12-18T01:21:07Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-17T12:09:32Z
+  Updated: 2025-12-18T01:16:54Z
   Total Products: 140
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-17T12:09:32Z
+  Updated: 2025-12-18T01:07:39Z
   Total Products: 26
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-12-17T12:09:32Z
+  Updated: 2025-12-18T01:07:39Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
   Updated: 2025-12-17T12:09:32Z
@@ -7751,17 +7796,17 @@
   Updated: 2025-12-16T12:11:08Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-12-16T12:11:08Z
-  Total Products: 46
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 49
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
   Updated: 2025-12-15T12:09:51Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 84
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 87
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-17T12:09:32Z
-  Total Products: 47
+  Updated: 2025-12-18T01:21:20Z
+  Total Products: 50
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-12-16T12:11:08Z
   Total Products: 3
