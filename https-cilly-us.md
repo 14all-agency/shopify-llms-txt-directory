@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-12-17T00:00:55.725Z
+- Updated At: 2025-12-18T00:00:55.542Z
 
 ## Products
 
@@ -17627,7 +17627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/77bf7936-4331-40d6-8abe-65e86f431c93.jpg?v=1757488442
     Price: CHF 35.60 CHF
 - [Sisal Mushroom Kratzbaum – 2-in-1 Spiel & Kratzbrett](https://cilly.us/products/sisal-mushroom-kratzbaum-2-in-1-spiel-kratzbrett): Hol dir den Mushroom Cat Scratching Post aus Sisal & Holz, mit Ball-Track-Spiel und Kratzbrett. Ideal für aktive Katzen und Krallenpflege im Alltag.
-  Updated: 2025-09-10T20:30:13Z
+  Updated: 2025-12-17T03:07:55Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
