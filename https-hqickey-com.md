@@ -1,12 +1,14 @@
 # HQICKEY (https://hqickey.com)
 
+> Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
+
 - Domain: https://hqickey.com
 - Locale: en
 - Currency: USD
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-18T06:36:07.181Z
+- Updated At: 2025-12-18T11:42:24.639Z
 
 ## Collections
 
@@ -278,7 +280,7 @@
   Updated: 2025-12-17T11:19:59Z
   Total Products: 7212
 - [Application-Specific PMICs | Automotive, Energy & Voltage Control Solutions](https://hqickey.com/collections/power-management-specialized): Enable precision power management with Application-Specific PMICs. Designed for automotive systems, energy harvesting, and voltage regulation, featuring capacitor balancing, AC monitoring, and load dump protection.
-  Updated: 2025-12-14T08:13:48Z
+  Updated: 2025-12-18T11:26:19Z
   Total Products: 6253
 - [PoE Controllers | Integrated Power & Data Transmission Over Ethernet](https://hqickey.com/collections/power-over-ethernet-poe-controllers): Simplify remote device power with PoE Controllers. Deliver data and electrical current over Ethernet cabling using bridge rectifiers, N+1 O-Ring, and automotive-certified designs with integrated FETs.
   Updated: 2025-12-14T08:13:48Z
@@ -323,8 +325,8 @@
   Updated: 2025-12-14T08:14:08Z
   Total Products: 37
 - [All Products (ChatGPT-AI Product Description)](https://hqickey.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-18T03:48:26Z
-  Total Products: 601299
+  Updated: 2025-12-18T11:41:40Z
+  Total Products: 601679
 
 ## Blogs
 
