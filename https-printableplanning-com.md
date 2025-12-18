@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-18T08:00:27.890Z
+- Updated At: 2025-12-18T12:00:27.731Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1128,7 +1128,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Weekly_Meal_Planning_Page_-_Pink_-_Printable_Planning_d4e5486d-8559-4ff5-bbd7-1f076831c2ae.jpg?v=1564501453
   Price: $5.95 USD
 - [Purple Weekly Meal Planning Page with Grocery List - Printable](https://printableplanning.com/products/purple-weekly-meal-planning-page-with-grocery-list-printable): A convenient printable Purple Weekly Meal Planning Page with Grocery List designed with a purple color scheme. The days of the week alternate slightly in lightness to visually separate them. Columns include planning for your breakfast, lunch, snacks, and dinner for each day. Stay on top of the week you're planning for with a place to write the date to which your weekly planner applies. We've provided a section on the right for a grocery list where you can write the foods and ingredients you'll need for the week. Simply (and carefully) cut the list off of the page to take with you to the Grocery Store and mark the little box on each line to check off the items as you put them in your grocery cart. SPECIFICATIONS: 8.5" x 11" printable PDF page. Days run Sunday through Saturday. Color: Purple. Convenient grocery list section. Print a new printable Purple Weekly Meal Planning Page with Grocery List for every week.
-  Updated: 2025-07-21T19:20:26Z
+  Updated: 2025-12-18T09:10:12Z
   Vendor: Artistically Invited
   Product Type: Meal Planning
   Availability: Available
