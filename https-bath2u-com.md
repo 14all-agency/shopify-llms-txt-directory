@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-15T00:00:44.523Z
+- Updated At: 2025-12-18T00:00:47.034Z
 
 ## Products
 
@@ -777,7 +777,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT8250-RG.jpg?v=1674059105
   Price: RM 630.00 MYR
 - [SORENTO 114mm Modern Matte Black Brushed Brass Basin Mono Mixer Tap](https://bath2u.com/products/sorento-114mm-modern-matte-black-brushed-brass-basin-mono-mixer-tap): Contemporary tap range featuring a stylish lever design and stunning brushed brass finish, the modern mono basin mixer tap is ideal for a modern household, it has exceptionally easy functionality and has a great design to suit any bathroom or cloakroom. Specifications Material: Brass Colour: Matte Black Dimension: 98 (L) x 45 (W) x 114 (H) mm Finish: Matte polished Mounting Type: Deck Mounted Package Contents 1 X Basin mixer tap
-  Updated: 2024-04-18T15:04:48Z
+  Updated: 2025-12-15T04:59:48Z
   Vendor: SORENTO
   Product Type: Deck Mounted Tap
   Availability: Available
@@ -1516,7 +1516,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-1410P.png?v=1675223225
   Price: RM 70.00 MYR
 - [TAPI Stainless Steel Curves Toothbrush and Tumbler Holder - Chrome](https://bath2u.com/products/tapi-stainless-steel-curves-toothbrush-and-tumbler-holder-chrome): A toothbrush holder is a bathroom accessory used to store and organize toothbrushes. It is typically made of plastic or ceramic and has several compartments to keep the toothbrushes separate and upright. The purpose of the holder is to provide a convenient and hygienic storage solution for toothbrushes, helping to keep the bathroom organized and reducing the risk of cross-contamination. Specifications : Material : SUS 304 Stainless Steel Finish Colour : Polish Finish Type : Wall Mounted / Table Top
-  Updated: 2024-04-18T15:06:31Z
+  Updated: 2025-12-17T11:38:42Z
   Vendor: TAPI
   Product Type: Toothbrush Holders
   Availability: Available
@@ -1878,7 +1878,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/DCS-001L-GLD.png?v=1675349329
   Price: RM 330.00 MYR
 - [DOCASA Black Aluminium LED Mirror - Rectangle](https://bath2u.com/products/docasa-black-aluminium-led-mirror-rectangle): Specifications : Material: Glass + Aluminium Style: Modern Mounting Size : ø50x70 Type: Wall Mounted Finish Type: Polished Switch: Sensor Touch Screen ON/OFF Switch Technical Informations : Professional LED light strip. Soft and not dazzling, so that your eyes are not damaged by light. Lights up your face in dimly lit environments with enough light to wear makeup without worrying about chromatic aberration. Easy to install
-  Updated: 2024-04-18T15:06:43Z
+  Updated: 2025-12-17T01:23:03Z
   Vendor: DOCASA
   Product Type: LED mirrors
   Availability: Available
