@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-17T20:00:34.354Z
+- Updated At: 2025-12-18T00:00:55.941Z
 
 ## Products
 
@@ -188,7 +188,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Affinati Sandalwood & Jasmine Lotion – 10 OZ](https://affinatiliving.com/products/shea-butter-body-lotion-sandalwood-jasmine-10-oz): Indulge in Shea Butter Body Lotion, Sandalwood & Jasmine — exotic florals and warm woods in a deeply moisturizing shea formula.
-  Updated: 2025-12-17T10:41:24Z
+  Updated: 2025-12-17T23:12:07Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -4059,7 +4059,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2025-12-15T22:37:56Z
+  Updated: 2025-12-17T23:02:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
