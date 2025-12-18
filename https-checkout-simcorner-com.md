@@ -8,7 +8,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2019-09-12T04:48:35Z
 - Contact Email: support@simcorner.com
-- Updated At: 2025-12-18T10:40:04.389Z
+- Updated At: 2025-12-18T10:40:27.510Z
 
 ## Products
 
@@ -21349,6 +21349,17 @@
   Updated: 2025-11-04T15:47:49+11:00
 - [Contact Information](https://checkout.simcorner.com/policies/contact-information)
   Updated: 2025-09-25T13:31:59+10:00
+
+## Alternate Currencies & Languages
+
+- [Australia (en / AUD)](https://simcorner.com//llms.txt?market=au)
+- [Canada (en / CAD)](https://checkout.simcorner.com/en-ca/llms.txt?market=canada)
+- [EU (en / EUR)](https://checkout.simcorner.com/en-eu/llms.txt?market=eu)
+- [Global (en / USD)](https://checkout.simcorner.com/en-global/llms.txt?market=asia)
+- [Japan (ja / JPY)](https://checkout.simcorner.com/ja-jp/llms.txt?market=international)
+- [New Zealand (en / NZD)](https://checkout.simcorner.com/en-nz/llms.txt?market=new-zealand)
+- [United Kingdom (en / GBP)](https://checkout.simcorner.com/en-gb/llms.txt?market=united-kingdom)
+- [United States (en / USD)](https://checkout.simcorner.com/en-us/llms.txt?market=us)
 
 https://www.facebook.com/SimCorner
 https://www.instagram.com/simcornertravel/
