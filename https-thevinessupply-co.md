@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-18T08:00:39.402Z
+- Updated At: 2025-12-18T12:00:38.935Z
 
 ## Products
 
@@ -3723,7 +3723,7 @@
     Availability: Not Available
     Price: £74.95 GBP
 - [New Balance Numeric 808 Lite NM808LBW Tiago Lemos Skate Shoes | Black & White](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white): Buy the New Balance Numeric Tiago Lemos 808 Lite in black and white at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-17T22:22:40Z
+  Updated: 2025-12-18T11:04:00Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -3735,7 +3735,7 @@
     Availability: Not Available
     Price: £69.95 GBP
   - [UK 8.5](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white?variant=55838576673103)
-    Availability: Available
+    Availability: Not Available
     Price: £69.95 GBP
   - [UK 9](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white?variant=55838576705871)
     Availability: Available
@@ -7082,7 +7082,7 @@
   Updated: 2025-12-12T13:46:07Z
   Total Products: 33
 - [New Balance Numeric Skate Shoes | The Vines](https://thevinessupply.co/collections/new-balance-numeric): Shop New Balance Skate Shoes at The Vines. New Balance Numeric is a collection of performance-driven skateboarding shoes, with fast, free delivery.
-  Updated: 2025-12-17T12:24:32Z
+  Updated: 2025-12-18T10:32:37Z
   Total Products: 82
 - [Girl Skateboards | Girl Skate Decks](https://thevinessupply.co/collections/girl-skateboards): Buy Girl Skateboards decks at The Vines in Solihull. Girl Skateboards was founded way back in 1993 in Torrance, California by Rick Howard, Mike Carroll from the ashes of World Industries. The company quickly became famous as the skate brand with the ‘ladies’ toilet logo. Get fast, free delivery options and best prices at The Vines.
   Updated: 2025-12-05T10:40:57Z
@@ -7367,8 +7367,8 @@
   Updated: 2025-12-17T12:24:32Z
   Total Products: 26
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-17T12:24:32Z
-  Total Products: 23
+  Updated: 2025-12-18T11:04:30Z
+  Total Products: 22
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-17T19:56:06Z
   Total Products: 22
