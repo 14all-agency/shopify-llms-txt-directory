@@ -6,7 +6,7 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-18T15:26:49.384Z
+- Updated At: 2025-12-18T15:27:33.911Z
 
 The New Age
 
