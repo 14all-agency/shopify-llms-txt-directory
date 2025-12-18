@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-12-11T00:00:37.256Z
+- Updated At: 2025-12-18T00:00:45.200Z
 
 ## Products
 
@@ -4801,7 +4801,7 @@
     Availability: Available
     Price: €119.99 EUR
 - [Air Max TN Plus](https://mldrip.com/products/air-max-tn-plus): Maximize your style and comfort with the Air Max TN Plus. Made with the best quality materials, this shoe will elevate your fashion game while providing unbeatable comfort. Experience the perfect combination of fashion and function with the Air Max TN Plus.
-  Updated: 2025-11-26T16:43:13Z
+  Updated: 2025-12-14T06:29:57Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -7170,7 +7170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B822F95E-8598-439B-B03C-D00C0FA266CD.jpg?v=1763999815
     Price: €198.99 EUR
 - [Louis Vuitton Monogram Leather Belt](https://mldrip.com/products/untitled-30jul_19-05): Elevate your wardrobe with the iconic Louis Vuitton Monogram Leather Belt, where classic craftsmanship meets modern sophistication. Made from premium calfskin leather and adorned with the signature LV monogram canvas, this designer belt brings instant elegance to any outfit. Whether you're dressing up for a formal event or refining your everyday style, the polished LV buckle adds a statement of luxury without saying a word. Adjustable for the perfect fit and built to last, it's more than a belt – it's an investment in style. Features Authentic Louis Vuitton monogram design Premium leather craftsmanship Iconic LV buckle in polished metal Adjustable fit for comfort and versatility Unisex design – perfect for men and women Style Tip Pair it with jeans, trousers, or even layered over outerwear for a fashion-forward look.
-  Updated: 2025-11-26T16:45:12Z
+  Updated: 2025-12-13T17:52:37Z
   Vendor: Mldrip
   Product Type: Belts
   Availability: Available
@@ -7214,6 +7214,26 @@
   - [White LV Belt / 125cm](https://mldrip.com/products/untitled-30jul_19-05?variant=51982381842769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/88CB978D-B00C-4DEE-88F3-901D550DBA62.png?v=1764028334
+    Price: €49.99 EUR
+  - [Black LV Belt / 105cm](https://mldrip.com/products/untitled-30jul_19-05?variant=52599527670097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_d5cd6327-7af2-4626-9aad-02593775c035.jpg?v=1765648349
+    Price: €49.99 EUR
+  - [Black LV Belt / 110cm](https://mldrip.com/products/untitled-30jul_19-05?variant=52599527702865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_d5cd6327-7af2-4626-9aad-02593775c035.jpg?v=1765648349
+    Price: €49.99 EUR
+  - [Black LV Belt / 115cm](https://mldrip.com/products/untitled-30jul_19-05?variant=52599527735633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_d5cd6327-7af2-4626-9aad-02593775c035.jpg?v=1765648349
+    Price: €49.99 EUR
+  - [Black LV Belt / 120cm](https://mldrip.com/products/untitled-30jul_19-05?variant=52599527768401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_d5cd6327-7af2-4626-9aad-02593775c035.jpg?v=1765648349
+    Price: €49.99 EUR
+  - [Black LV Belt / 125cm](https://mldrip.com/products/untitled-30jul_19-05?variant=52599527801169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_d5cd6327-7af2-4626-9aad-02593775c035.jpg?v=1765648349
     Price: €49.99 EUR
 - [Goyard Saint Sulpice Cardholder](https://mldrip.com/products/goyard-saint-sulpice-cardholder-timeless-elegance-effortless-functionality): Elevate your everyday carry with the iconic Goyard Saint Sulpice Cardholder — the perfect blend of heritage craftsmanship and modern sophistication. Handcrafted in France with Goyard’s signature Goyardine canvas and premium leather trim, this ultra-slim wallet offers both luxury and practicality. Featuring four exterior card slots and a central compartment, it keeps your essentials secure while maintaining a sleek silhouette that fits effortlessly in your pocket. The instantly recognizable chevron pattern adds a touch of exclusivity, making it more than just a cardholder — it’s a statement. Product Highlights: Authentic Goyardine canvas with leather trim Slim, minimalist design – ideal for front-pocket use 4 card slots + 1 central pocket for cash or receipts Timeless style, suitable for both men and women Dimensions: approx. 4" x 3" Whether you're gifting or upgrading your own essentials, the Goyard Cardholder is the ultimate luxury accessory for the refined minimalist.
   Updated: 2025-11-26T16:45:17Z
@@ -7462,7 +7482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1764024480
     Price: €120.99 EUR
 - [Nike Air Max 95](https://mldrip.com/products/nike-air-max-95-iconic-style-all-day-comfort): Step into a legacy of style and innovation with the Nike Air Max 95. Originally inspired by the human body, this iconic silhouette features layered panels that mimic muscle fibers, with a bold gradient design that turns heads from every angle. Engineered with visible Air cushioning in the heel and forefoot, the Air Max 95 delivers next-level comfort whether you’re on the streets, at the gym, or on the move. The breathable mesh upper with suede or synthetic overlays offers durability and support, while the lacing system adapts to your foot for a snug, customized fit. Key Features: Visible Max Air units for lightweight cushioning Mesh upper with synthetic or leather overlays for breathability and structure Padded collar and tongue for added comfort Rubber outsole with a waffle pattern for traction and durability Sleek, street-ready design with retro flair Perfect for sneakerheads, athletes, and everyday wearers alike — the Air Max 95 is more than a shoe, it’s a statement. Available in multiple colorways. Limited stock – order now before they’re gone!
-  Updated: 2025-11-26T16:45:36Z
+  Updated: 2025-12-14T20:10:02Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -9693,156 +9713,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F1D7B0E7-E140-48CC-A771-53C78D880FEA.jpg?v=1763992067
     Price: €40.00 EUR
-- [Nike NOCTA Tech Fleece](https://mldrip.com/products/nike-nocta-ozhq): Straight from the mind of Drake and built for the cold, the Nike NOCTA Tech Fleece is more than just a hoodie – it’s a whole vibe. Blending futuristic streetwear with performance comfort, this piece keeps you warm while looking ice-cold. Why It's a Must-Cop: Premium Tech Fleece fabric = lightweight warmth + next-level softness Sleek, structured fit designed for movement and clean layering Signature NOCTA details for that exclusive look (yeah, the subtle flex) Zip pockets to keep your essentials secure while you're on the move Whether you’re posted at the spot, on the way to the studio, or just chillin’, this is that “I’m him” outerwear. Throw it on and let ‘em know you’re certified. Limited stock. Once it’s gone, it’s ghost.
-  Updated: 2025-11-26T16:47:59Z
-  Vendor: Mldrip
-  Product Type: Tracksuit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5500.png?v=1764175678
-  - [Black / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581168465)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/05C917C9-EF50-4410-B26B-A111CD8D520E.png?v=1763982042
-    Price: €139.99 EUR
-  - [Blue / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581201233)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3C0B8472-B543-4613-AD1B-DB2E5A0D0F58_540ff3a5-deaa-4898-bbb5-0c659ae57e68.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Green / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581234001)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/080294F2-2850-43A3-8364-C242768A4C1B_764cc36a-956f-464e-b0c6-2e2b1c38b372.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Black Top / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581266769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A9C85D4-BBFC-4052-A2D8-47C49A9D254C_05f3caf5-b9a5-48dd-84c6-c146b87935fd.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black Pant / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581299537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9307CFC2-C6F8-4675-AFAB-8C44D22473B9_2cf89548-e377-4324-831b-ad547b66ff98.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Top / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581332305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5003501B-8BDD-481A-8619-A89D33D350AD_02e083cf-1b11-44b5-9307-48b989551897.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Pant / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581365073)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/36AF68D7-8D17-4A8F-B177-3BD2EF8D3202_c213cf89-d5dc-411a-980f-67f3d9d39b4b.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Top / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581397841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A7A15B5D-D8B9-407F-9FCB-864D4B1A6184_6a0338a0-48c1-40b9-a90c-1cadb019e744.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Pant / S](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581430609)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8FB7908D-554B-48B4-9932-9114C23277BC_1b9b1a35-c619-47b2-a392-4f9cf2e769ed.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581463377)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/05C917C9-EF50-4410-B26B-A111CD8D520E.png?v=1763982042
-    Price: €139.99 EUR
-  - [Black / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581496145)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/05C917C9-EF50-4410-B26B-A111CD8D520E.png?v=1763982042
-    Price: €139.99 EUR
-  - [Black / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581528913)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/05C917C9-EF50-4410-B26B-A111CD8D520E.png?v=1763982042
-    Price: €139.99 EUR
-  - [Blue / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581561681)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3C0B8472-B543-4613-AD1B-DB2E5A0D0F58_540ff3a5-deaa-4898-bbb5-0c659ae57e68.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Blue / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581594449)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3C0B8472-B543-4613-AD1B-DB2E5A0D0F58_540ff3a5-deaa-4898-bbb5-0c659ae57e68.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Blue / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581627217)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3C0B8472-B543-4613-AD1B-DB2E5A0D0F58_540ff3a5-deaa-4898-bbb5-0c659ae57e68.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Green / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581659985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/080294F2-2850-43A3-8364-C242768A4C1B_764cc36a-956f-464e-b0c6-2e2b1c38b372.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Green / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581692753)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/080294F2-2850-43A3-8364-C242768A4C1B_764cc36a-956f-464e-b0c6-2e2b1c38b372.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Green / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581725521)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/080294F2-2850-43A3-8364-C242768A4C1B_764cc36a-956f-464e-b0c6-2e2b1c38b372.jpg?v=1763982042
-    Price: €139.99 EUR
-  - [Black Top / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581758289)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A9C85D4-BBFC-4052-A2D8-47C49A9D254C_05f3caf5-b9a5-48dd-84c6-c146b87935fd.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black Top / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581791057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A9C85D4-BBFC-4052-A2D8-47C49A9D254C_05f3caf5-b9a5-48dd-84c6-c146b87935fd.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black Top / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581823825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A9C85D4-BBFC-4052-A2D8-47C49A9D254C_05f3caf5-b9a5-48dd-84c6-c146b87935fd.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black Pant / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581856593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9307CFC2-C6F8-4675-AFAB-8C44D22473B9_2cf89548-e377-4324-831b-ad547b66ff98.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black Pant / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581889361)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9307CFC2-C6F8-4675-AFAB-8C44D22473B9_2cf89548-e377-4324-831b-ad547b66ff98.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Black Pant / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581922129)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9307CFC2-C6F8-4675-AFAB-8C44D22473B9_2cf89548-e377-4324-831b-ad547b66ff98.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Top / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581954897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5003501B-8BDD-481A-8619-A89D33D350AD_02e083cf-1b11-44b5-9307-48b989551897.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Top / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970581987665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5003501B-8BDD-481A-8619-A89D33D350AD_02e083cf-1b11-44b5-9307-48b989551897.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Top / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582020433)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5003501B-8BDD-481A-8619-A89D33D350AD_02e083cf-1b11-44b5-9307-48b989551897.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Pant / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582053201)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/36AF68D7-8D17-4A8F-B177-3BD2EF8D3202_c213cf89-d5dc-411a-980f-67f3d9d39b4b.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Pant / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582085969)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/36AF68D7-8D17-4A8F-B177-3BD2EF8D3202_c213cf89-d5dc-411a-980f-67f3d9d39b4b.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Blue Pant / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582118737)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/36AF68D7-8D17-4A8F-B177-3BD2EF8D3202_c213cf89-d5dc-411a-980f-67f3d9d39b4b.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Top / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582151505)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A7A15B5D-D8B9-407F-9FCB-864D4B1A6184_6a0338a0-48c1-40b9-a90c-1cadb019e744.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Top / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582184273)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A7A15B5D-D8B9-407F-9FCB-864D4B1A6184_6a0338a0-48c1-40b9-a90c-1cadb019e744.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Top / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582217041)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A7A15B5D-D8B9-407F-9FCB-864D4B1A6184_6a0338a0-48c1-40b9-a90c-1cadb019e744.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Pant / M](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582249809)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8FB7908D-554B-48B4-9932-9114C23277BC_1b9b1a35-c619-47b2-a392-4f9cf2e769ed.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Pant / L](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582282577)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8FB7908D-554B-48B4-9932-9114C23277BC_1b9b1a35-c619-47b2-a392-4f9cf2e769ed.jpg?v=1763982042
-    Price: €99.99 EUR
-  - [Green Pant / XL](https://mldrip.com/products/nike-nocta-ozhq?variant=51970582315345)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8FB7908D-554B-48B4-9932-9114C23277BC_1b9b1a35-c619-47b2-a392-4f9cf2e769ed.jpg?v=1763982042
-    Price: €99.99 EUR
 - [Louis Vuitton](https://mldrip.com/products/louis-vuitton-shoes-wxqg): Step up your fashion game with these Louis Vuitton-inspired sneakers – the perfect blend of elegance and edge. Featuring the iconic LV monogram and crafted with premium materials, these kicks are built for trendsetters who refuse to settle. Whether you're hitting the streets or flexing on the 'Gram , these sneakers offer style, comfort, and status in every step. Product Highlights: Signature LV monogram pattern High-quality synthetic leather & suede Soft cushioned insoles for all-day comfort Non-slip rubber soles for confident grip Unisex design – fits every vibe Make Every Step Count. Turn heads, set trends, and walk with confidence in designer-level luxury – without the luxury price tag. Add to Cart Now and elevate your shoe game instantly!
   Updated: 2025-11-26T16:48:39Z
   Vendor: Mldrop
@@ -12490,7 +12360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S09a2a0e32e054c90b4b767cb369d2bcfP.webp?v=1759781029
     Price: €43.99 EUR
 - [High Street Tracksuit Set](https://mldrip.com/products/high-street-tracksuit-set): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Tatting Decoration: Pockets Gender: Men Hign-concerned Chemical: None Material: COTTON,POLYESTER Pant Closure Type: Zipper Fly Sleeve Length(cm): Full Style: HIP HOP Thickness: Standard whether full opening: Yes Hoodies Size TableS: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cmM: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cmL: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cmXL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cmpants Size TableS: Length:94cm WAIST:72cm HIP:98cm Thigh:60cmM:Length:96cm WAIST:76cm HIP:102cm Thigh:62cmL:Length:98cm WAIST:80cm HIP:106cm Thigh:64cmXL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cmSize mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:54:56Z
+  Updated: 2025-12-14T18:22:17Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -13922,7 +13792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1961_48d34dec-4fab-4232-bc4b-a036f41f2a13.png?v=1764176272
     Price: €90.00 EUR
 - [Polo Jackets](https://mldrip.com/products/polo-jackets): Level up your outerwear with the Polo Jacket, a perfect mix of classic style and modern street energy. Designed for comfort and confidence, this piece brings that clean, preppy look with a hint of luxury. 💨 Why You’ll Love It: Premium fabric blend – soft, durable, and built for all-day wear Classic Polo aesthetic – sleek silhouette with signature detailing Versatile fit – perfect for layering over hoodies, tees, or shirts All-season style – lightweight enough for spring, warm enough for fall From casual days to night outings, the Polo Jacket keeps your look sharp, simple, and effortlessly fresh. 👉 Cop yours now and rock that Polo energy with confidence. 🐎🔥
-  Updated: 2025-12-10T17:40:11Z
+  Updated: 2025-12-11T18:21:11Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14289,211 +14159,211 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1764176360
     Price: €159.99 EUR
 - [Unisex Loose Fit Y2K Streetwear Hoodie – Letter Print Hip Hop Sweatshirt](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt): SPECIFICATIONS Collar: O-Neck Decoration: None Material: POLYESTER Sleeve Length(cm): Full Style: Other Thickness: Thick Y2K Streetwear Style Embrace the Y2K era with this trendy streetwear piece, perfect for those who love to stand out. Durable Material Crafted from high-quality polyester, this sweatshirt offers durability and longevity. Comfortable Fit The loose fit of this sweatshirt ensures maximum comfort, ideal for casual wear or lounging at home. Versatile Accessory Whether you're hitting the streets or heading to a casual event, this sweatshirt is a versatile accessory. Unisex Design This versatile garment is designed to fit both men and women, making it a great addition to any wardrobe.
-  Updated: 2025-11-26T16:59:42Z
+  Updated: 2025-12-15T14:00:49Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5436.png?v=1764176381
-  - [4XL / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947364689)
+  - [LLMSRR03G / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947430225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
     Price: €38.99 EUR
-  - [XXXL / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947397457)
+  - [LLMSRR03G / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947528529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
     Price: €38.99 EUR
-  - [S / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947430225)
+  - [LLMSRR03G / L](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947495761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
     Price: €38.99 EUR
-  - [5XL / YCK2RR041](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947462993)
+  - [LLMSRR03G / XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948347729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Price: €38.99 EUR
+  - [LLMSRR03G / XXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948314961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Price: €38.99 EUR
+  - [LLMSRR03G / XXXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947397457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Price: €38.99 EUR
+  - [LLMSRR03G / 4XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947364689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Price: €38.99 EUR
+  - [LLMSRR03G / 5XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948216657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Price: €38.99 EUR
+  - [YCK2RR041 / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949298001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
     Price: €38.99 EUR
-  - [L / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947495761)
+  - [YCK2RR041 / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949527377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
     Price: €38.99 EUR
-  - [M / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947528529)
+  - [YCK2RR041 / L](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949363537)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
     Price: €38.99 EUR
-  - [S / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947561297)
+  - [YCK2RR041 / XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949232465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
+    Price: €38.99 EUR
+  - [YCK2RR041 / XXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949199697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
+    Price: €38.99 EUR
+  - [YCK2RR041 / XXXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949429073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
+    Price: €38.99 EUR
+  - [YCK2RR041 / 4XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949396305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
+    Price: €38.99 EUR
+  - [YCK2RR041 / 5XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947462993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc76c0be51f074883912dbd1507592903J.webp?v=1764176364
+    Price: €38.99 EUR
+  - [LLMSRR03E / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947561297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
     Price: €38.99 EUR
-  - [M / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947594065)
+  - [LLMSRR03E / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947594065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
     Price: €38.99 EUR
-  - [4XL / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947626833)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [XXXL / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947659601)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [XL / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947692369)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [XXL / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947725137)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [L / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947757905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [5XL / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947790673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [S / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947823441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [M / LMSTRR00I](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947856209)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
-    Price: €58.99 EUR
-  - [4XL / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947888977)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [S / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947921745)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [5XL / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947954513)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [L / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947987281)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [M / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948020049)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [XXL / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948052817)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [XL / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948085585)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [4XL / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948118353)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [XXXL / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948151121)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [S / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948183889)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [5XL / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948216657)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
-    Price: €38.99 EUR
-  - [L / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948249425)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [M / YCK2RR042](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948282193)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
-    Price: €38.99 EUR
-  - [XXL / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948314961)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
-    Price: €38.99 EUR
-  - [XL / LLMSRR03G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948347729)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sbea47f880afc45ca9134dd5f3ccc00e2J.webp?v=1764176371
-    Price: €38.99 EUR
-  - [L / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948380497)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [M / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948413265)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [XXL / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948446033)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [XL / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948478801)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [4XL / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948511569)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [XXXL / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948544337)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [S / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948577105)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [5XL / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948609873)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
-    Price: €58.99 EUR
-  - [L / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948642641)
+  - [LLMSRR03E / L](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948642641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
     Price: €38.99 EUR
-  - [XL / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948675409)
+  - [LLMSRR03E / XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948675409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
     Price: €38.99 EUR
-  - [XXL / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948708177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [XL / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948740945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
-    Price: €58.99 EUR
-  - [XXL / YCK2RR040](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948773713)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S026bbe50bcb3435fbacac28334f53206V.webp?v=1764176375
-    Price: €38.99 EUR
-  - [S / LLMSRR03F](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948806481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3648eeccccfc4cbaaf839191769d68e0P.webp?v=1764176363
-    Price: €38.99 EUR
-  - [XXL / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948839249)
+  - [LLMSRR03E / XXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948839249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
     Price: €38.99 EUR
-  - [4XL / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948872017)
+  - [LLMSRR03E / XXXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291949166929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
     Price: €38.99 EUR
-  - [5XL / LMSTRR00H](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948904785)
+  - [LLMSRR03E / 4XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948872017)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
+    Price: €38.99 EUR
+  - [LLMSRR03E / 5XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948970321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
+    Price: €38.99 EUR
+  - [LMSTRR00I / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947823441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
     Price: €58.99 EUR
-  - [XXXL / LMSTRR00G](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948937553)
+  - [LMSTRR00I / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947856209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00I / L](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947757905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00I / XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947692369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00I / XXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947725137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00I / XXXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947659601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00I / 4XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947626833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00I / 5XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947790673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S0f1a6f1ce07a4dbcae62744d522e9cffc.webp?v=1764176367
+    Price: €58.99 EUR
+  - [LMSTRR00G / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947921745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
     Price: €58.99 EUR
-  - [5XL / LLMSRR03E](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948970321)
+  - [LMSTRR00G / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948020049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1764176366
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [LMSTRR00G / L](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947987281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [LMSTRR00G / XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948478801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [LMSTRR00G / XXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948446033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [LMSTRR00G / XXXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948937553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [LMSTRR00G / 4XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947888977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [LMSTRR00G / 5XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948609873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc7bc203bbeae47489f6eb9204bec31a0x.webp?v=1764176373
+    Price: €58.99 EUR
+  - [YCK2RR042 / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948183889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
     Price: €38.99 EUR
+  - [YCK2RR042 / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948282193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [YCK2RR042 / L](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948249425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [YCK2RR042 / XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948085585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [YCK2RR042 / XXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948052817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [YCK2RR042 / XXXL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948151121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [YCK2RR042 / 4XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948118353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [YCK2RR042 / 5XL](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291947954513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3ef4232c5bca4cf6a7f85a7582fc7f74E.webp?v=1764176369
+    Price: €38.99 EUR
+  - [LMSTRR00H / S](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948577105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
+    Price: €58.99 EUR
+  - [LMSTRR00H / M](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt?variant=52291948413265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
+    Price: €58.99 EUR
 - [Warm Men's Black Puffer Jacket for Comfort and Cold Weather](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather): Stay warm and stylish all season with this men’s black puffer jacket, designed for ultimate comfort and protection against cold weather. Crafted from premium lightweight materials, it delivers high insulation without feeling bulky — perfect for everyday wear, travel, or outdoor adventures. With its sleek modern fit, zip-up front, and soft inner lining, this jacket combines functionality and streetwear style in one. The water-resistant outer shell helps keep you dry, while the adjustable hood and secure pockets give you practical comfort wherever you go. Features: 🔥 Ultra-warm insulation for freezing temperatures 💧 Water & wind-resistant shell to handle winter weather 🎯 Tailored streetwear fit — stylish yet comfortable 🧥 Lightweight & breathable design for all-day wear 🎒 Multiple zip pockets for your essentials Why You’ll Love It: Whether you’re out in the city or hitting the outdoors, this black puffer jacket keeps you cozy, confident, and on-trend. It’s built for warmth, comfort, and modern street style — a must-have for every winter wardrobe. 🛒 Shop now on Mldrip.com ✅ Fast worldwide shipping ✅ Limited stock available – order before it’s gone!
   Updated: 2025-11-26T16:59:41Z
   Vendor: Mldrip
@@ -17248,29 +17118,205 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S9ddedf134ca34f899e902cc2a209f70e3.webp?v=1765331215
     Price: €30.99 EUR
+- [Nike NOCTA Tech Fleece](https://mldrip.com/products/nike-nocta-tech-fleece): Straight from the mind of Drake and built for the cold, the Nike NOCTA Tech Fleece is more than just a hoodie – it’s a whole vibe. Blending futuristic streetwear with performance comfort, this piece keeps you warm while looking ice-cold. Why It's a Must-Cop: Premium Tech Fleece fabric = lightweight warmth + next-level softness Sleek, structured fit designed for movement and clean layering Signature NOCTA details for that exclusive look (yeah, the subtle flex) Zip pockets to keep your essentials secure while you're on the move Whether you’re posted at the spot, on the way to the studio, or just chillin’, this is that “I’m him” outerwear. Throw it on and let ‘em know you’re certified. Limited stock. Once it’s gone, it’s ghost.
+  Updated: 2025-12-12T14:47:33Z
+  Vendor: Mldrip
+  Product Type: Tracksuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-6334.png?v=1765507660
+  - [1 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643615057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A852997D-4055-4BCD-B1F6-45FDF2153CA1.jpg?v=1765507660
+    Price: €119.99 EUR
+  - [2 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643647825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3CC184CE-31A5-4380-A855-A3695DC39623.jpg?v=1765508363
+    Price: €119.99 EUR
+  - [3 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643680593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8D947440-9426-43FF-A21A-7E839AE7465A.jpg?v=1765508458
+    Price: €119.99 EUR
+  - [4 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643713361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7ECA57A-31B2-4960-AD3A-5C52AAFAD1E9.jpg?v=1765507669
+    Price: €78.99 EUR
+  - [5 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643746129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/55479750-A818-44F4-8AF1-7BEFBD20ACEA.jpg?v=1765507670
+    Price: €78.99 EUR
+  - [6 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643778897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/170D9031-A56F-45AE-9B97-9C8CCAE4E918.png?v=1765507671
+    Price: €78.99 EUR
+  - [7 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643811665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8318769F-DC2A-4B4C-99DA-6BCEF86ADBF3.jpg?v=1765507679
+    Price: €78.99 EUR
+  - [8 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643844433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/68D5363D-C758-4635-A7FF-D500A117CE52.jpg?v=1765508609
+    Price: €78.99 EUR
+  - [9 / S](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588643877201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1F61F89F-1A9A-47D8-B218-8562367294BC.png?v=1765508674
+    Price: €78.99 EUR
+  - [1 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644335953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A852997D-4055-4BCD-B1F6-45FDF2153CA1.jpg?v=1765507660
+    Price: €119.99 EUR
+  - [1 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644368721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A852997D-4055-4BCD-B1F6-45FDF2153CA1.jpg?v=1765507660
+    Price: €119.99 EUR
+  - [1 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644401489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A852997D-4055-4BCD-B1F6-45FDF2153CA1.jpg?v=1765507660
+    Price: €119.99 EUR
+  - [2 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644434257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3CC184CE-31A5-4380-A855-A3695DC39623.jpg?v=1765508363
+    Price: €119.99 EUR
+  - [2 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644467025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3CC184CE-31A5-4380-A855-A3695DC39623.jpg?v=1765508363
+    Price: €119.99 EUR
+  - [2 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644499793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3CC184CE-31A5-4380-A855-A3695DC39623.jpg?v=1765508363
+    Price: €119.99 EUR
+  - [3 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644532561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8D947440-9426-43FF-A21A-7E839AE7465A.jpg?v=1765508458
+    Price: €119.99 EUR
+  - [3 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644565329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8D947440-9426-43FF-A21A-7E839AE7465A.jpg?v=1765508458
+    Price: €119.99 EUR
+  - [3 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644598097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8D947440-9426-43FF-A21A-7E839AE7465A.jpg?v=1765508458
+    Price: €119.99 EUR
+  - [4 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644630865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7ECA57A-31B2-4960-AD3A-5C52AAFAD1E9.jpg?v=1765507669
+    Price: €78.99 EUR
+  - [4 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644663633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7ECA57A-31B2-4960-AD3A-5C52AAFAD1E9.jpg?v=1765507669
+    Price: €78.99 EUR
+  - [4 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644696401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7ECA57A-31B2-4960-AD3A-5C52AAFAD1E9.jpg?v=1765507669
+    Price: €78.99 EUR
+  - [5 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644729169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/55479750-A818-44F4-8AF1-7BEFBD20ACEA.jpg?v=1765507670
+    Price: €78.99 EUR
+  - [5 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644761937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/55479750-A818-44F4-8AF1-7BEFBD20ACEA.jpg?v=1765507670
+    Price: €78.99 EUR
+  - [5 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644794705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/55479750-A818-44F4-8AF1-7BEFBD20ACEA.jpg?v=1765507670
+    Price: €78.99 EUR
+  - [6 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644827473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/170D9031-A56F-45AE-9B97-9C8CCAE4E918.png?v=1765507671
+    Price: €78.99 EUR
+  - [6 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644860241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/170D9031-A56F-45AE-9B97-9C8CCAE4E918.png?v=1765507671
+    Price: €78.99 EUR
+  - [6 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644893009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/170D9031-A56F-45AE-9B97-9C8CCAE4E918.png?v=1765507671
+    Price: €78.99 EUR
+  - [7 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644925777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8318769F-DC2A-4B4C-99DA-6BCEF86ADBF3.jpg?v=1765507679
+    Price: €78.99 EUR
+  - [7 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644958545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8318769F-DC2A-4B4C-99DA-6BCEF86ADBF3.jpg?v=1765507679
+    Price: €78.99 EUR
+  - [7 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588644991313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8318769F-DC2A-4B4C-99DA-6BCEF86ADBF3.jpg?v=1765507679
+    Price: €78.99 EUR
+  - [8 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588645024081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/68D5363D-C758-4635-A7FF-D500A117CE52.jpg?v=1765508609
+    Price: €78.99 EUR
+  - [8 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588645056849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/68D5363D-C758-4635-A7FF-D500A117CE52.jpg?v=1765508609
+    Price: €78.99 EUR
+  - [8 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588645089617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/68D5363D-C758-4635-A7FF-D500A117CE52.jpg?v=1765508609
+    Price: €78.99 EUR
+  - [9 / M](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588645122385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1F61F89F-1A9A-47D8-B218-8562367294BC.png?v=1765508674
+    Price: €78.99 EUR
+  - [9 / L](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588645155153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1F61F89F-1A9A-47D8-B218-8562367294BC.png?v=1765508674
+    Price: €78.99 EUR
+  - [9 / XL](https://mldrip.com/products/nike-nocta-tech-fleece?variant=52588645187921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1F61F89F-1A9A-47D8-B218-8562367294BC.png?v=1765508674
+    Price: €78.99 EUR
+- [Chanel-Style Handbag – Timeless Elegance & Luxury Feel](https://mldrip.com/products/chanel-style-handbag-timeless-elegance-luxury-feel): Add a touch of classic luxury to your look with the Chanel-Style Handbag. Designed with a sophisticated silhouette and elegant details, this handbag is perfect for everyday wear or special occasions. 👜 Why You’ll Love It: Luxury-inspired quilted design – timeless and stylish Premium material feel – smooth, durable, and elegant Compact yet spacious – fits your daily essentials easily Versatile style – perfect for casual outfits or dressed-up looks From day outings to evening events, this handbag brings effortless elegance and confidence to every outfit. 👉 Elevate your style with this classic luxury-inspired handbag today.
+  Updated: 2025-12-14T03:21:13Z
+  Vendor: Mldrip
+  Product Type: Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2EC678F5-1B76-45C4-A255-82D60C9136C2_d29ba374-9830-45f5-a1a6-529b9fb793be.png?v=1765640111
+  - [Red Chanel](https://mldrip.com/products/chanel-style-handbag-timeless-elegance-luxury-feel?variant=52598446227793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2EC678F5-1B76-45C4-A255-82D60C9136C2_d29ba374-9830-45f5-a1a6-529b9fb793be.png?v=1765640111
+    Price: €84.95 EUR
+  - [Pink Chanel](https://mldrip.com/products/chanel-style-handbag-timeless-elegance-luxury-feel?variant=52598446260561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CA22FCB5-3B60-43C4-8848-3294C9E3DBAC.png?v=1765640111
+    Price: €84.95 EUR
+  - [Brown Chanel](https://mldrip.com/products/chanel-style-handbag-timeless-elegance-luxury-feel?variant=52598446293329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AF18C92-ABBD-46F0-B50A-C649B0F82D18.png?v=1765640111
+    Price: €84.95 EUR
+  - [White Chanel](https://mldrip.com/products/chanel-style-handbag-timeless-elegance-luxury-feel?variant=52598446326097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7ABF85F4-9EE8-476F-A434-98B76964AAA3.png?v=1765640111
+    Price: €84.95 EUR
+  - [Grey Chanel](https://mldrip.com/products/chanel-style-handbag-timeless-elegance-luxury-feel?variant=52598446358865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FC4111C0-0A30-4339-83D6-494FE3B25B73.png?v=1765640060
+    Price: €84.95 EUR
 
 ## Collections
 
 - [Top](https://mldrip.com/collections/top)
-  Updated: 2025-11-26T16:39:10Z
+  Updated: 2025-12-13T13:49:38Z
   Total Products: 22
 - [Tracksuit Sets](https://mldrip.com/collections/tracksuit-sets)
-  Updated: 2025-12-10T01:04:04Z
+  Updated: 2025-12-15T12:35:06Z
   Total Products: 29
 - [Pants](https://mldrip.com/collections/pants)
-  Updated: 2025-12-10T01:45:15Z
+  Updated: 2025-12-13T13:49:38Z
   Total Products: 14
 - [Accessories](https://mldrip.com/collections/accessories)
-  Updated: 2025-12-09T03:34:28Z
-  Total Products: 17
+  Updated: 2025-12-13T15:35:10Z
+  Total Products: 18
 - [Sneakers](https://mldrip.com/collections/sneakers)
-  Updated: 2025-12-09T03:34:28Z
+  Updated: 2025-12-15T12:35:06Z
   Total Products: 44
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-12-10T01:45:15Z
-  Total Products: 147
+  Updated: 2025-12-15T12:35:06Z
+  Total Products: 148
 - [Jackets](https://mldrip.com/collections/jackets)
-  Updated: 2025-12-10T01:41:48Z
+  Updated: 2025-12-13T13:49:38Z
   Total Products: 25
 
 ## Blogs
