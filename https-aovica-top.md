@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2025-12-08T00:00:30.154Z
+- Updated At: 2025-12-18T00:00:35.727Z
 
 ## Products
 
@@ -1492,41 +1492,16 @@
   Updated: 2025-10-17T07:15:42Z
   Total Products: 1
 
-## Store Pages
-
-- [Contact](https://aovica.top/pages/contact)
-  Updated: 2025-05-20T11:59:12Z
-- [Your privacy choices](https://aovica.top/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-01T06:21:08Z
-- [Collabs](https://aovica.top/pages/collab)
-  Updated: 2025-08-05T03:10:44Z
-- [affiliate-registration-page](https://aovica.top/pages/affiliate_registration_page)
-  Updated: 2025-08-05T08:49:10Z
-- [Referral](https://aovica.top/pages/referral): Page not Found
-  Updated: 2025-08-25T09:58:56Z
-- [Affiliate signup form](https://aovica.top/pages/affiliate-signup-form): Page not Found
-  Updated: 2025-09-08T02:46:18Z
-- [Affiliate Dashboard](https://aovica.top/pages/affiliate)
-  Updated: 2025-10-10T03:00:58Z
-- [Affiliate Portal](https://aovica.top/pages/affiliate-portal)
-  Updated: 2025-10-11T07:45:13Z
-- [Growthhero.io - Redirect Page](https://aovica.top/pages/_go_)
-  Updated: 2025-10-13T03:24:50Z
-- [Growthhero.io - One Click Registration Redirect Page](https://aovica.top/pages/_gh_join_program)
-  Updated: 2025-10-13T06:55:18Z
-- [Ambassadors](https://aovica.top/pages/ambassadors)
-  Updated: 2025-10-13T09:18:17Z
-
 ## Policies
 
 - [Privacy Policy](https://aovica.top/policies/privacy-policy)
   Updated: 2025-05-20T19:59:20+08:00
 - [Shipping Policy](https://aovica.top/policies/shipping-policy)
-  Updated: 2025-11-28T18:38:16+08:00
+  Updated: 2025-12-11T14:12:27+08:00
 - [Refund Policy](https://aovica.top/policies/refund-policy)
   Updated: 2025-12-02T09:56:52+08:00
 - [Terms of Service](https://aovica.top/policies/terms-of-service)
-  Updated: 2025-12-02T15:14:04+08:00
+  Updated: 2025-12-11T11:07:49+08:00
 - [Contact Information](https://aovica.top/policies/contact-information)
   Updated: 2025-12-02T10:55:22+08:00
 
