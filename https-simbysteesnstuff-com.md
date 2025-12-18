@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-27T19:41:54Z
 - Contact Email: simbysteesnstuff@gmail.com
-- Updated At: 2025-12-15T20:07:15.358Z
+- Updated At: 2025-12-18T00:00:23.750Z
 
 ## Products
 
@@ -932,7 +932,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Faux_Embroidery_Santa_Graphic_Sweatshirt.png?v=1760887695
   Price: $29.99 USD
 - [Christmas Chickens Sweatshirt | Cozy Holiday Graphic Top](https://simbysteesnstuff.com/products/3-chickens-wrapped-in-christmas-lights-graphic-sweatshirt): Get cozy this Christmas! Graphic sweatshirt with three chickens tangled in colorful lights—perfect for festive fun and chicken lovers alike.
-  Updated: 2025-12-07T08:37:25Z
+  Updated: 2025-12-15T22:06:11Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
@@ -967,7 +967,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gilmore_Girls_Stars_Hollow_Graphic_Tee_Where_You_Lead_Shirt.jpg?v=1761311664
   Price: $15.99 USD
 - [Highland Cow-ffee Graphic T-Shirt](https://simbysteesnstuff.com/products/highland-cow-ffee-graphic-t-shirt): Fall in love with this Highland Cow-ffee tee! Features a cute cow with pumpkin, latte, and fall leaves — cozy, comfy, and full of autumn charm.
-  Updated: 2025-12-07T08:30:11Z
+  Updated: 2025-12-15T22:06:20Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
@@ -1219,12 +1219,12 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Merry_checkered_-_Sweatshirt.png?v=1762283685
   Price: $27.99 USD
 - [Cozy Season (Heart) T-Shirt | Minimal Fall & Winter Graphic Tee](https://simbysteesnstuff.com/products/cozy-season-heart-graphic-t-shirt): Stay comfy in our “Cozy Season (Heart)” T-Shirt. Simple, soft, and perfect for fall and winter layering or gifting to your favorite cozy soul.
-  Updated: 2025-12-09T04:17:45Z
+  Updated: 2025-12-17T21:37:38Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Cozy_Season_Heart_T-Shirt_Minimal_Fall_Winter_Graphic_Tee.png?v=1762282964
-  Price: $0.00 USD
+  Price: $23.99 USD
 - [Santa’s Favorite Ho Sweatshirt | Funny Christmas Graphic Crewneck](https://simbysteesnstuff.com/products/santas-favorite-ho-graphic-t-shirt): Get festive and funny with our “Santa’s Favorite Ho” Sweatshirt! Soft, cozy, and full of sass — perfect for Christmas parties and holiday fun.
   Updated: 2025-12-09T04:40:15Z
   Vendor: SimbysTeesNStuff
@@ -1239,8 +1239,43 @@ Running late? At least you’ll look good doing it.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Minimalist_Merry_Bow_graphic_t-shirt_with_simple_holiday_lettering_and_bow_design..png?v=1765211700
   Price: $23.99 USD
+- [Be My Valentine Starbucks-Inspired Graphic T-Shirt | Cute Coffee Lover Valentine Tee](https://simbysteesnstuff.com/products/be-my-valentine-starbys): Sip, smile, and celebrate with the Be My Valentine Starbys-style T-shirt. Perfect for coffee lovers and Valentine’s Day fun. Soft, cute, and made for comfort.
+  Updated: 2025-12-17T21:18:13Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/bemyvalentine-starbucks.png?v=1763490960
+  Price: $19.99 USD
+- [My Dog Is My Valentine Graphic T-Shirt | Cute Dog Lover Valentine Tee](https://simbysteesnstuff.com/products/my-dog-is-my-valentine): Show off your puppy love with our My Dog Is My Valentine Graphic T-Shirt. Soft, comfy, and perfect for dog lovers celebrating Valentine’s Day with their favorite furry friend.
+  Updated: 2025-12-17T21:28:11Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/My_Dog_Is_My_Valentine_Graphic_T-Shirt_Cute_Dog_Lover_Valentine_Tee.png?v=1763573119
+  Price: $19.99 USD
+- [Single and Fabulous (Varsity design) - Graphic T-Shirt](https://simbysteesnstuff.com/products/single-and-fabulous): Own your confidence and show off your sparkle with our Single and Fabulous Varsity Graphic T-Shirt! Designed with bold varsity-style lettering, this stylish tee is the perfect blend of cute, confident, and totally unapologetic. It's great for everyday outfits, girls’ nights, brunch dates, or anyone proudly living their best single life. Why You’ll Love It Bold varsity-style “Single and Fabulous” graphic Soft, breathable fabric for all-day comfort Perfect for confident queens and independent vibes Easy to style with jeans, leggings, or cute skirts A fun and sassy gift for your fabulous bestie Ideal for casual days, parties, or going-out looks Pressed on a Gildan SoftStyle Tee
+  Updated: 2025-12-17T21:41:13Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/singleandfabulous.png?v=1763491068
+  Price: $19.99 USD
+- [XOXO Cheetah Print Valentine Sweatshirt | Cute Graphic Top](https://simbysteesnstuff.com/products/xoxo-cheetah): Cute and cozy XOXO sweatshirt featuring bold cheetah-print lettering. Perfect for Valentine’s Day or anyone who loves stylish animal-print designs.
+  Updated: 2025-12-17T21:39:30Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/XOXO_Cheetah_Print_Valentine_T-Shirt_Cute_Graphic_Tee.png?v=1763499437
+  Price: $19.99 USD
+- [Sweet Heart Varsity T-Shirt – Red University Style Graphic Tee | Valentine’s Day Shirt](https://simbysteesnstuff.com/products/sweet-heart-university-style): Shop the Sweet Heart University Style T-Shirt featuring bold red varsity lettering. Soft, comfy, and perfect for Valentine’s Day, casual wear, or gifting. Cute, trendy, and effortlessly stylish!
+  Updated: 2025-12-17T21:32:15Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Sweet_Heart_Varsity_T-Shirt_Red_University_Style_Graphic_Tee_Valentine_s_Day_Shirt.png?v=1763496437
+  Price: $19.99 USD
 - [Youth Reindeer & Christmas Trees Faux Yarn Christmas Sweatshirt](https://simbysteesnstuff.com/products/reindeer-christmas-trees-faux-yarn-graphic-sweatshirt-youth): Festive youth sweatshirt with faux yarn reindeer and Christmas trees. Soft, cozy, and perfect for holiday celebrations.
-  Updated: 2025-12-07T07:34:12Z
+  Updated: 2025-12-17T21:38:27Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
@@ -1274,7 +1309,14 @@ Running late? At least you’ll look good doing it.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Cozy_Custom_Sweatpants_Relaxed_Fit_Sweatpants_for_Matching_Sets.png?v=1764944628
   Price: $18.99 USD
-[List Continued](https://simbysteesnstuff.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE3NTc1NDE0MjAxNSwibGFzdF92YWx1ZSI6IjEwMTc1NzU0MTQyMDE1In0=)
+- [New Year Same Hot Mess - Graphic Sweatshirt](https://simbysteesnstuff.com/products/new-year-same-hot-mess-graphic-sweatshirt): Funny “New Year Same Hot Mess” graphic shirt for anyone skipping resolutions. Soft unisex fit, perfect for New Year vibes and everyday wear.
+  Updated: 2025-12-17T20:56:20Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/New_Year_Same_Hot_Mess_Graphic_Tee_Sweatshirt.png?v=1765820296
+  Price: $29.99 USD
+[List Continued](https://simbysteesnstuff.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE3ODc0MDEyNjAxNSwibGFzdF92YWx1ZSI6IjEwMTc4NzQwMTI2MDE1In0=)
 
 ## Collections
 
@@ -1282,8 +1324,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-11-11T03:21:45Z
   Total Products: 6
 - [Women’s Collection of Graphic Tees & Sweatshirts | Bold Statement Tops](https://simbysteesnstuff.com/collections/women): Shop bold and trendy women’s graphic t-shirts and sweatshirts. Soft, stylish, and made to express your mood—find your new favorite graphic top today.
-  Updated: 2025-12-15T17:39:37Z
-  Total Products: 94
+  Updated: 2025-12-17T21:41:14Z
+  Total Products: 98
 - [Men’s Graphic Tees, T-Shirts & Sweatshirts | Bold Streetwear for Men](https://simbysteesnstuff.com/collections/men): Shop men’s graphic tees, t-shirts, and sweatshirts designed for bold style and everyday comfort. Streetwear-inspired pieces made for self-expression.
   Updated: 2025-12-15T16:59:33Z
   Total Products: 39
@@ -1321,8 +1363,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-10-26T21:33:46Z
   Total Products: 4
 - [New Releases - Graphic T-Shirts and Sweatshirts, Tumblers and More](https://simbysteesnstuff.com/collections/new-releases): Discover the latest new releases in our collection of graphic tees, t-shirts, sweatshirts, tumblers, mugs, and wind spinners. We constantly update our store with fresh designs and bold graphics inspired by trending topics and timeless statements. Whether you’re looking for stylish graphic tees or unique drinkware, we’ve got something for everyone. Check back often to find your next favorite t-shirt, sweatshirt, tumbler, mug, or wind spinner — new styles are being added regularly!
-  Updated: 2025-12-15T17:28:46Z
-  Total Products: 57
+  Updated: 2025-12-17T21:41:14Z
+  Total Products: 61
 - [Tester Tees & Tumblers  – One-of-a-Kind Samples...](https://simbysteesnstuff.com/collections/ready-to-ship-ts): These are the original tester shirts I used to dial in my process—testing prints, materials, and quality before launching full production. Each one is a unique part of the journey and may include test designs, one-off prints, or slight imperfections. They’re ready to ship, priced to move, and perfect if you’re into one-of-a-kind pieces. ✔ Ready to ship in 1–2 business days✔ Each shirt is unique✔ Great for fit, feel, or collectors of one-offs Note: These are tester samples and could have minor flaws but will be noted.
   Updated: 2025-10-04T19:42:25Z
   Total Products: 5
@@ -1351,7 +1393,7 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-11-20T21:46:11Z
   Total Products: 11
 - [Front Page -Simby’s Tees N Stuff Your Ultimate Destination for Cool Tees & More!](https://simbysteesnstuff.com/collections/front-page): Welcome to Simby’s Tees N Stuff, where style meets personality! Dive into our vibrant collection of unique graphic tees and sweatshirts.
-  Updated: 2025-12-15T17:28:46Z
+  Updated: 2025-12-17T20:56:21Z
   Total Products: 19
 - [Wind Spinners](https://simbysteesnstuff.com/collections/wind-spinners): Add a touch of motion and magic to your outdoor space with our 10" wind spinners. Made from durable stainless steel and designed to catch the light beautifully, these spinners come to life with every breeze. Perfect for gardens, patios, or porches, each one brings color, movement, and a little extra charm to your favorite outdoor spot.
   Updated: 2025-08-23T18:19:42Z
@@ -1373,10 +1415,10 @@ All orders will ship within 14–21 days after the pre-order window closes. Don�
   Updated: 2025-12-13T12:57:46Z
   Total Products: 3
 - [New Year's Graphic T-Shirt and Sweatshirt Collection](https://simbysteesnstuff.com/collections/new-years-collection): Step into 2026 in style! Our New Year’s Graphic Tee & Sweatshirt Collection is all about fresh starts, bold energy, and celebrating every moment that’s ahead.
-  Updated: 2025-12-15T17:28:46Z
+  Updated: 2025-12-17T20:56:21Z
   Total Products: 1
 - [Valentine’s Day Shirts & Sweatshirts – Cute Graphic Tees for Love Season](https://simbysteesnstuff.com/collections/valentines-day-graphic-t-shirt-sweatshirt-collection): Get ready to fall in love with our Valentine’s Day graphic t-shirts and sweatshirts, designed to make your outfit as sweet as the season!
-  Updated: 2025-12-08T22:48:42Z
+  Updated: 2025-12-17T21:41:14Z
   Total Products: 8
 - [Sweatpants](https://simbysteesnstuff.com/collections/sweatpants): Gildan Heavy Weight SweatpantsExperience all-day comfort with the durability you can trust. Made from premium heavy-weight fleece, these sweatpants deliver exceptional warmth, softness, and structure—perfect for everyday wear, lounging, or active days. Features: Ultra-soft heavyweight fleece for maximum comfort and warmth Classic fit with just the right amount of room Elastic waistband with adjustable drawstring for a custom fit Ribbed ankle cuffs that stay in place Durable construction designed to take on repeated wear and washes Ideal for printing or embroidery—great for brands, teams, and merch Fabric: 50% cotton / 50% polyester (heavyweight fleece) Why You'll Love Them:These sweatpants keep their shape, resist pilling, and offer that cozy, substantial feel customers love during cooler seasons. Whether you’re stocking your brand’s essentials or looking for a reliable blank for custom designs, Gildan’s heavy-weight sweatpants deliver unbeatable value.
   Updated: 2025-12-05T16:19:26Z
@@ -1389,7 +1431,7 @@ All orders will ship within 14–21 days after the pre-order window closes. Don�
 
 - [News and Stuff by Simby](https://simbysteesnstuff.com/blogs/news): Official blog of Simbysteesnstuff .Stay fresh with our latest graphic tee releases, limited-edition prints, and exclusive sales. From bold designs to surprise discounts, this is where the goods go live.
   - [🎃 Get Spooky in Style: Halloween Graphic T-Shirts You’ll Want to Wear All October! 👻](https://simbysteesnstuff.com/blogs/news/🎃-get-spooky-in-style-halloween-graphic-t-shirts-you-ll-want-to-wear-all-october-👻)
-    Updated: 2025-10-07T11:55:02Z
+    Updated: 2025-12-17T00:22:59Z
     Author: Christine Blais
     Tags: cats, dtf, graphic tees, halloween, pumpkins, t-shirt designs
   - [History of the graphic T-shirt](https://simbysteesnstuff.com/blogs/news/history-of-the-graphic-t-shirt)
@@ -1397,15 +1439,15 @@ All orders will ship within 14–21 days after the pre-order window closes. Don�
     Author: Christine Blais
     Tags: blog, graphic apparel, graphic t-shirt, history, t-shirt
   - [🦃 Celebrate the Season in Style: Thanksgiving-Themed Apparel 🍂](https://simbysteesnstuff.com/blogs/news/🦃-celebrate-the-season-in-style-thanksgiving-themed-apparel-🍂)
-    Updated: 2025-11-06T01:30:30Z
+    Updated: 2025-12-17T00:22:36Z
     Author: Christine Blais
     Tags: blog, graphic apparel, graphic t-shirt, graphic tees, holiday, thankksgiving
   - [Get Festive & Cozy: Celebrate the Holidays in Graphic Tees and Sweatshirts](https://simbysteesnstuff.com/blogs/news/get-festive-cozy-celebrate-the-holidays-in-graphic-tees-and-sweatshirts-1)
-    Updated: 2025-11-14T15:58:35Z
+    Updated: 2025-12-17T00:21:39Z
     Author: Christine Blais
     Tags: christmas gift, christmas graphic sweatshirt, christmas graphic tees, holiday t-shirts, reindeer, santa sweatshirt, santa tees, snowman
   - [How Simby's came to be...](https://simbysteesnstuff.com/blogs/news/how-simbys-came-to-be)
-    Updated: 2025-11-23T12:50:20Z
+    Updated: 2025-12-17T00:20:51Z
     Author: Christine Blais
 
 ## Store Pages
