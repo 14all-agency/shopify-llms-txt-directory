@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-10-28T12:54:56Z
 - Contact Email: info@evacozy.com
-- Updated At: 2025-12-17T00:00:20.645Z
+- Updated At: 2025-12-18T00:00:21.416Z
 
 ## Products
 
@@ -183,7 +183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-platform-slippers-canada-evacozy-womens-house-slippers-4667049.webp?v=1764621698
     Price: $27.99 USD
 - [Plush Winter Slippers for Women & Men - Non-Slip House Slippers | Ultra-Soft & Warm | EvaCozy](https://evacozy.com/products/evacozy-plush-winter-slippers-thick): Premium plush winter slippers for women & men with thick non-slip sole. Ultra-soft warm house slippers with cozy fur lining. Safe, comfortable home footwear at EvaCozy.
-  Updated: 2025-12-16T13:57:07Z
+  Updated: 2025-12-17T14:05:53Z
   Vendor: EvaCozy
   Product Type: Slippers
   Availability: Available
@@ -1229,7 +1229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8135bbfbeb4f41d39afbc3548ec48eecI.png?v=1764685402
     Price: $29.99 USD
 - [Winter Padded EVA Clogs for Men & Women - Cozy Indoor Slippers](https://evacozy.com/products/winter-padded-eva-clogs-men): Discover warm, waterproof winter EVA clogs for men and women. Lightweight, cozy, and easy to clean — perfect indoor and outdoor footwear for cold days.
-  Updated: 2025-12-16T13:57:09Z
+  Updated: 2025-12-17T01:12:08Z
   Vendor: EvaCozy
   Product Type: Slippers
   Availability: Available
@@ -2324,15 +2324,389 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S978d02ca06f2455185adc4632f4551c63.jpg?v=1765642296
     Price: $29.99 USD
+- [Men's Memory Foam House Slippers - Non-Slip Winter Indoor Outdoor Shoes | EvaCozy](https://evacozy.com/products/mens-house-slippers-mark-line): Premium men's house slippers with memory foam comfort. Non-slip sole for indoor & outdoor use. Soft, durable winter slippers perfect for living room relaxation. Free shipping available.
+  Updated: 2025-12-17T18:13:28Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S94ff7808a5d5407982e1508a090ddf9aD.jpg?v=1765948436
+  - [Black / 40-41 (US 8)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687388473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S61fb66453ae4429482a8ed353f47bee6N.jpg?v=1765948436
+    Price: $39.99 USD
+  - [Black / 42-43 (US 9)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687486777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S61fb66453ae4429482a8ed353f47bee6N.jpg?v=1765948436
+    Price: $39.99 USD
+  - [Black / 44-45 (US 10.5)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687421241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S61fb66453ae4429482a8ed353f47bee6N.jpg?v=1765948436
+    Price: $39.99 USD
+  - [Black / 46-47 (US 11.5)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687454009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S61fb66453ae4429482a8ed353f47bee6N.jpg?v=1765948436
+    Price: $39.99 USD
+  - [Black / 48-49 (US 8)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687355705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S61fb66453ae4429482a8ed353f47bee6N.jpg?v=1765948436
+    Price: $39.99 USD
+  - [Gray / 40-41 (US 8)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687552313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sc947aaa0a7e0445aa76a51bbcf1045d4A_18d2fdc8-ce6d-4a44-a313-ccf321da0f40.jpg?v=1765948437
+    Price: $39.99 USD
+  - [Gray / 42-43 (US 9)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687650617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sc947aaa0a7e0445aa76a51bbcf1045d4A_18d2fdc8-ce6d-4a44-a313-ccf321da0f40.jpg?v=1765948437
+    Price: $39.99 USD
+  - [Gray / 44-45 (US 10.5)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687585081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sc947aaa0a7e0445aa76a51bbcf1045d4A_18d2fdc8-ce6d-4a44-a313-ccf321da0f40.jpg?v=1765948437
+    Price: $39.99 USD
+  - [Gray / 46-47 (US 11.5)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687617849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sc947aaa0a7e0445aa76a51bbcf1045d4A_18d2fdc8-ce6d-4a44-a313-ccf321da0f40.jpg?v=1765948437
+    Price: $39.99 USD
+  - [Gray / 48-49 (US 8)](https://evacozy.com/products/mens-house-slippers-mark-line?variant=51457687519545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sc947aaa0a7e0445aa76a51bbcf1045d4A_18d2fdc8-ce6d-4a44-a313-ccf321da0f40.jpg?v=1765948437
+    Price: $39.99 USD
+- [Men's Soft Flannel House Slippers - Memory Foam Cushion Slip-On Winter | EvaCozy](https://evacozy.com/products/mens-flannel-house-slippers): Premium men's flannel house slippers with memory foam cushion. Soft striped upper design, slip-on style for easy wear. Warm winter indoor shoes perfect for living room comfort.
+  Updated: 2025-12-17T18:28:52Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sa1be7b01959a4d0caec7b505f497c2f3N.jpg?v=1765950882
+  - [Brown / 40-41 (US 6)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815740729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf4b2acf71fd7459687c24ff1dad607c8G.jpg?v=1765950883
+    Price: $27.99 USD
+  - [Brown / 42-43 (US 7.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815576889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf4b2acf71fd7459687c24ff1dad607c8G.jpg?v=1765950883
+    Price: $27.99 USD
+  - [Brown / 44-45 (US 8.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815609657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf4b2acf71fd7459687c24ff1dad607c8G.jpg?v=1765950883
+    Price: $27.99 USD
+  - [Brown / 46-47 (US 9.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815642425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf4b2acf71fd7459687c24ff1dad607c8G.jpg?v=1765950883
+    Price: $27.99 USD
+  - [Brown / 48-49 (US 11)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815675193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf4b2acf71fd7459687c24ff1dad607c8G.jpg?v=1765950883
+    Price: $27.99 USD
+  - [Brown / 50-51 (US 12)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815707961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf4b2acf71fd7459687c24ff1dad607c8G.jpg?v=1765950883
+    Price: $27.99 USD
+  - [Gray / 40-41 (US 6)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815937337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37211e2d3e7e4f32aded27b1e2fa1e07s.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Gray / 42-43 (US 7.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815773497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37211e2d3e7e4f32aded27b1e2fa1e07s.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Gray / 44-45 (US 8.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815806265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37211e2d3e7e4f32aded27b1e2fa1e07s.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Gray / 46-47 (US 9.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815839033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37211e2d3e7e4f32aded27b1e2fa1e07s.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Gray / 48-49 (US 11)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815871801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37211e2d3e7e4f32aded27b1e2fa1e07s.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Gray / 50-51 (US 12)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815904569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37211e2d3e7e4f32aded27b1e2fa1e07s.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Black / 40-41 (US 6)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457816133945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Black / 42-43 (US 7.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457815970105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Black / 44-45 (US 8.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457816002873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Black / 46-47 (US 9.5)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457816035641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Black / 48-49 (US 11)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457816068409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
+    Price: $27.99 USD
+  - [Black / 50-51 (US 12)](https://evacozy.com/products/mens-flannel-house-slippers?variant=51457816101177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
+    Price: $27.99 USD
+- [Women's Fluffy Platform Slippers - Luxury Plush Fur Slides Winter Indoor | EvaCozy](https://evacozy.com/products/womens-fluffy-platform-slippers): Luxury women's fluffy platform slippers with soft plush fur. Designer fuzzy slides perfect for winter indoor comfort. Casual yet fashionable warm home shoes with elevated platform style.
+  Updated: 2025-12-17T14:04:14Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S5bd4d2fcf1b54fcb93ee2bb9163ef9c7d.jpg?v=1765979804
+  - [Black / 36-37](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637693241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S410b0ca082354ef491140248d5b57149k.jpg?v=1765979802
+    Price: $32.99 USD
+  - [Black / 38-39](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637791545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S410b0ca082354ef491140248d5b57149k.jpg?v=1765979802
+    Price: $32.99 USD
+  - [Black / 40-41](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637758777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S410b0ca082354ef491140248d5b57149k.jpg?v=1765979802
+    Price: $32.99 USD
+  - [Black / 42-43](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637824313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S410b0ca082354ef491140248d5b57149k.jpg?v=1765979802
+    Price: $32.99 USD
+  - [Black / 44-45](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637726009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S410b0ca082354ef491140248d5b57149k.jpg?v=1765979802
+    Price: $32.99 USD
+  - [Brown / 36-37](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637857081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8acf19c28e4748f4abd13b01b600897e8.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Brown / 38-39](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637955385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8acf19c28e4748f4abd13b01b600897e8.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Brown / 40-41](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637922617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8acf19c28e4748f4abd13b01b600897e8.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Brown / 42-43](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637988153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8acf19c28e4748f4abd13b01b600897e8.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Brown / 44-45](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458637889849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8acf19c28e4748f4abd13b01b600897e8.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Khaki / 36-37](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458638020921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Khaki / 38-39](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458638119225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Khaki / 40-41](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458638086457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Khaki / 42-43](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458638151993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
+    Price: $32.99 USD
+  - [Khaki / 44-45](https://evacozy.com/products/womens-fluffy-platform-slippers?variant=51458638053689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
+    Price: $32.99 USD
+- [Women's Waterproof EVA Furry Clogs 2025 - Winter Outdoor Slippers | EvaCozy](https://evacozy.com/products/womens-waterproof-eva-furry-clogs): Waterproof EVA clogs with fluffy fur lining and metal buckle. Thick bottom outdoor slippers for women. Warm plush winter footwear perfect for indoor and outdoor wear.
+  Updated: 2025-12-17T14:17:51Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S3b35101bc6f547a4bda3fcde69da2828M.jpg?v=1765980660
+  - [Khaki / 36-37](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642411833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf8925cadfd2642e291815c564becc06di.jpg?v=1765980661
+    Price: $29.99 USD
+  - [Khaki / 38-39](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642379065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf8925cadfd2642e291815c564becc06di.jpg?v=1765980661
+    Price: $29.99 USD
+  - [Khaki / 40-41](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642346297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf8925cadfd2642e291815c564becc06di.jpg?v=1765980661
+    Price: $29.99 USD
+  - [black / 36-37](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642510137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S18dcb11b5ec34afabba05dc5a428b5295.jpg?v=1765980661
+    Price: $29.99 USD
+  - [black / 38-39](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642477369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S18dcb11b5ec34afabba05dc5a428b5295.jpg?v=1765980661
+    Price: $29.99 USD
+  - [black / 40-41](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642444601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S18dcb11b5ec34afabba05dc5a428b5295.jpg?v=1765980661
+    Price: $29.99 USD
+  - [WHITE / 36-37](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642608441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S46f59aa9d1b9448f8b5474e5af49e31bV.jpg?v=1765980663
+    Price: $29.99 USD
+  - [WHITE / 38-39](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642575673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S46f59aa9d1b9448f8b5474e5af49e31bV.jpg?v=1765980663
+    Price: $29.99 USD
+  - [WHITE / 40-41](https://evacozy.com/products/womens-waterproof-eva-furry-clogs?variant=51458642542905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S46f59aa9d1b9448f8b5474e5af49e31bV.jpg?v=1765980663
+    Price: $29.99 USD
+- [EVA Chef Shoes - Waterproof Non-Slip Oil-Proof Kitchen Shoes | EvaCozy](https://evacozy.com/products/eva-chef-shoes-waterproof-non): Professional EVA chef shoes with winter velvet lining. Waterproof, oil-proof, and non-slip design. Comfortable kitchen footwear for men and women. Perfect for restaurant and food service work.
+  Updated: 2025-12-17T14:31:26Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S86aa84e77cd44986bb371def849d6c086.jpg?v=1765981462
+  - [Khaki / 36-37 (US 4.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649227577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S912b7f9994284eb584bbd08cc7aadb6cF.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Khaki / 38-39 (US 6)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649096505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S912b7f9994284eb584bbd08cc7aadb6cF.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Khaki / 40-41 (US 7.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649129273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S912b7f9994284eb584bbd08cc7aadb6cF.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Khaki / 42-43 (US 8.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649162041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S912b7f9994284eb584bbd08cc7aadb6cF.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Khaki / 44-45 (US 9.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649194809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S912b7f9994284eb584bbd08cc7aadb6cF.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Khaki / 46-47 (US 11)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649063737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S912b7f9994284eb584bbd08cc7aadb6cF.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Black / 36-37 (US 4.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649424185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Black / 38-39 (US 6)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649293113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Black / 40-41 (US 7.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649325881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Black / 42-43 (US 8.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649358649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Black / 44-45 (US 9.5)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649391417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
+    Price: $39.99 USD
+  - [Black / 46-47 (US 11)](https://evacozy.com/products/eva-chef-shoes-waterproof-non?variant=51458649260345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
+    Price: $39.99 USD
+- [Fleece-Lined Waterproof Cotton Shoes - Winter Warm Outdoor Footwear | EvaCozy](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes): Thickened fleece-lined waterproof cotton shoes for autumn and winter. Warm outdoor footwear for men, women, and couples. Comfortable home and outdoor wear with superior insulation.
+  Updated: 2025-12-17T14:41:07Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sfc2058e838ec45bdaf70ed7147d5f38cF.jpg?v=1765982121
+  - [White / 36-37](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670559545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb63cc91f4e0e4343a9470ec7292b100c8.jpg?v=1765982118
+    Price: $44.99 USD
+  - [White / 38-39](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670592313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb63cc91f4e0e4343a9470ec7292b100c8.jpg?v=1765982118
+    Price: $44.99 USD
+  - [White / 40-41](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670625081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb63cc91f4e0e4343a9470ec7292b100c8.jpg?v=1765982118
+    Price: $44.99 USD
+  - [White / 42-43](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670657849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb63cc91f4e0e4343a9470ec7292b100c8.jpg?v=1765982118
+    Price: $44.99 USD
+  - [White / 44-45](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670690617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb63cc91f4e0e4343a9470ec7292b100c8.jpg?v=1765982118
+    Price: $44.99 USD
+  - [Black / 36-37](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670723385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1765982121
+    Price: $44.99 USD
+  - [Black / 38-39](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670756153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1765982121
+    Price: $44.99 USD
+  - [Black / 40-41](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670788921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1765982121
+    Price: $44.99 USD
+  - [Black / 42-43](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670821689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1765982121
+    Price: $44.99 USD
+  - [Black / 44-45](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes?variant=51458670854457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1765982121
+    Price: $44.99 USD
+- [Women's Fluffy Platform Ankle Boot Slippers - Luxury Fur Slides Winter | EvaCozy](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot): Luxury women's fluffy platform slippers with ankle boot design. Soft plush fur slides perfect for winter indoor and outdoor wear. Designer casual footwear with elevated platform style.
+  Updated: 2025-12-17T15:17:44Z
+  Vendor: EvaCozy
+  Product Type: Winter Slippers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb409c46268804242a951937ff17fb07al.jpg?v=1765982758
+  - [Khaki / 36-37](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677145913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S97890f84021448fda797f47fbbf0bc93S.jpg?v=1765982756
+    Price: $39.99 USD
+  - [Khaki / 38-39](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677178681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S97890f84021448fda797f47fbbf0bc93S.jpg?v=1765982756
+    Price: $39.99 USD
+  - [Khaki / 40-41](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677113145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S97890f84021448fda797f47fbbf0bc93S.jpg?v=1765982756
+    Price: $39.99 USD
+  - [Brown / 36-37](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677244217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf34b7c183e304b03a1cc0a66972face8O_e964d6cd-7d92-4add-a128-7d5e76eff35b.jpg?v=1765982755
+    Price: $39.99 USD
+  - [Brown / 38-39](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677276985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf34b7c183e304b03a1cc0a66972face8O_e964d6cd-7d92-4add-a128-7d5e76eff35b.jpg?v=1765982755
+    Price: $39.99 USD
+  - [Brown / 40-41](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677211449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf34b7c183e304b03a1cc0a66972face8O_e964d6cd-7d92-4add-a128-7d5e76eff35b.jpg?v=1765982755
+    Price: $39.99 USD
+  - [Black / 36-37](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677342521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S4112f7364c27490b922614fed668473fB.jpg?v=1765982754
+    Price: $39.99 USD
+  - [Black / 38-39](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677375289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S4112f7364c27490b922614fed668473fB.jpg?v=1765982754
+    Price: $39.99 USD
+  - [Black / 40-41](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot?variant=51458677309753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S4112f7364c27490b922614fed668473fB.jpg?v=1765982754
+    Price: $39.99 USD
 
 ## Collections
 
 - [Winter Slippers – EvaCozy](https://evacozy.com/collections/winter-slippers): Shop EvaCozy™ for the best Winter Slippers collection. Soft, warm, non-slip house shoes perfect for indoor and outdoor use. Free shipping included.
-  Updated: 2025-12-16T13:57:06Z
-  Total Products: 18
+  Updated: 2025-12-17T14:50:23Z
+  Total Products: 25
 - [EvaCozy Best Slippers for Home - Premium Comfort & Quality](https://evacozy.com/collections/best-slippers-home): Discover EvaCozy's top-rated best slippers for home, combining comfort, quality, and style. Enjoy free shipping on our customer favorites for everyday coziness.
-  Updated: 2025-12-16T13:57:06Z
-  Total Products: 27
+  Updated: 2025-12-17T14:50:23Z
+  Total Products: 34
 - [Summer Slippers - Breathable Sandals - EvaCozy](https://evacozy.com/collections/summer-slippers): Discover comfortable, breathable summer slippers with soft footbeds and flexible straps. Perfect for beach, home, and casual wear. Shop now for the best styles.
   Updated: 2025-12-16T13:57:06Z
   Total Products: 9
