@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-18T12:00:27.731Z
+- Updated At: 2025-12-18T16:00:27.295Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -2839,13 +2839,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2025-12-16T12:01:31Z
+  Updated: 2025-12-18T12:01:47Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2025-12-16T12:01:31Z
+  Updated: 2025-12-18T12:01:47Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2025-12-16T12:01:31Z
+  Updated: 2025-12-18T12:01:47Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website password lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
   Updated: 2025-12-10T22:04:10Z
@@ -2857,7 +2857,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-11-22T12:01:12Z
   Total Products: 43
 - [Holiday and Occasion Printables: Gift Tags, RSVP Organizers & More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Discover DIY Christmas gift tags, holiday bookmarks, RSVP organizers, and more, perfect for your holiday events, special occasions, or other celebrations.
-  Updated: 2025-12-16T12:01:31Z
+  Updated: 2025-12-18T12:01:47Z
   Total Products: 65
 - [Printable Calendars and Planner Pages | Letter Size and Undated](https://printableplanning.com/collections/calendars-and-planner-pages): Get organized with blank and undated printable calendars and planner pages. Perfect for home, work, or on-the-go. Perfect for professional or personal use.
   Updated: 2025-12-10T21:41:06Z
