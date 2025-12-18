@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2025-12-16T00:00:26.061Z
+- Updated At: 2025-12-18T00:00:29.673Z
 
 ## Products
 
@@ -139,7 +139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/ABSTRACTS_RESIZED_20267bd0-3d7e-4407-ac3e-c6741943347a.png?v=1708712754
   Price: $19.00 USD
 - [All-in-one film emulation](https://acidbite.com/products/the-ultimate-35mm-package): This pack is more than just a grain pack. It has everything you will ever need to emulate 35mm film with 150+ files including grains, gates, burns, textures, LUTs and SFX.
-  Updated: 2025-12-15T08:48:59Z
+  Updated: 2025-12-16T14:52:41Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -188,7 +188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/FILM_LEADERS_RESIZED_dadebda5-4a39-4f1c-a387-8d75cd825d06.png?v=1708713017
   Price: $29.00 USD
 - [Raw editing style](https://acidbite.com/products/textile-transitions): Add a touch of authenticity and rawness to your footage! Textile Transitions is here to revolutionize your editing experience.
-  Updated: 2025-11-29T11:53:26Z
+  Updated: 2025-12-17T13:07:09Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -328,7 +328,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS2_RESIZED_d5fc06ff-a6be-4fac-9b4e-0593d199cefc.png?v=1747134764
   Price: $29.00 USD
 - [All our assets, huge savings](https://acidbite.com/products/complete-collection): The all-in-one bundle of handcrafted video assets – easy to use, built to transform your edits.
-  Updated: 2025-12-15T23:55:01Z
+  Updated: 2025-12-17T22:31:56Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -351,40 +351,40 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-16T12:13:03Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2025-12-14T12:12:53Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
   Updated: 2025-12-13T12:10:28Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2025-12-15T12:12:33Z
+  Updated: 2025-12-17T12:12:07Z
   Total Products: 114
 
 ## Policies
