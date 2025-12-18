@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-08-20T00:29:23Z
 - Contact Email: sx2czwrdnw@privaterelay.appleid.com
-- Updated At: 2025-12-16T00:00:22.917Z
+- Updated At: 2025-12-18T00:00:25.602Z
 
 ## Products
 
@@ -840,7 +840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/a005f6f8-7dc7-4657-9dd6-df97dfaeb0c9.jpg?v=1755807487
     Price: 11,00 € EUR
 - [Distance Measuring Instrument Electronic Measuring Ruler Tape Measure High Definition Digital LCD High Precision Electronic Measuring Ruler Tool](https://kkshoop.it/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool): Overview: - Mini size, convenient and practical. - Lightweight to 35g, compact and portable. - 8 functions, simple operation with three keys. - 99 meters long distance measurement. - Lithium battery direct charge, 200 days long standby. Product information: Shell material: aluminum alloy + silica gel Screen: 1.8 inch va lcd display Shell technology: fine polishing + frosted sandblasting Screen coverage: 4h super hard Size: 53*15mm (diameter * thickness) Net weight: 35g Single measurement distance: up to 9.99 meters Cumulative scale: maximum 99.99 meters Accuracy: 0.5%, stepless support adjustment Backlight time: 30-180 seconds Buzzer: On/Off Battery: 200mah 0.74wh Tips: The product function does not include laser and infrared Packing list: 1 x electronic ruler 1 x type c charging cable
-  Updated: 2025-12-13T21:26:36Z
+  Updated: 2025-12-17T20:26:27Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -956,7 +956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/07535881-bf6e-4c04-a7e0-e3f454835bf8.jpg?v=1755817272
   Price: 110,00 € EUR
 - [Casual Vintage Leather Women Quartz Wrist Watch Gift Clock](https://kkshoop.it/products/casual-vintage-leather-women-quartz-wrist-watch-gift-clock): Overview The leather strap not only comfortable to wear but also a variety of colors to choose from. High hardness tempered glass, high quality is your best choice Suitable for any occasion Easy to match It is the best gift for dad, boyfriend, good friends Specification Display type: pointer style: Casual Waterproof: no Movement type : Quartz Thickness: 10mm Dial diameter: 37mm Crown Type: Spiral Crown Bottom type: Normal Mirror material: quartz glass mirror Buckle style: pin buckle Buckle material: stainless steel Strap material: leather Dial shape: round Package Content 1*Watch
-  Updated: 2025-12-14T15:26:32Z
+  Updated: 2025-12-17T07:26:25Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -1146,7 +1146,7 @@
   Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/1576653752864.jpg?v=1755822976
   Price: 18,00 € EUR
 - [Shape Flower Vase Nordic Style Flower Pot Art Vases Sculpture Desktop Plant Pot For Home Decor Ornament Gifts](https://kkshoop.it/products/shape-flower-vase-nordic-style-flower-pot-art-vases-sculpture-desktop-plant-pot-for-home-decor-ornament-gifts): Product information: Material: Resin Item: Heart without base Process: Resin process Category: Flower Decoration Hanging form: ornaments Style: American Packing list: Ornaments x1
-  Updated: 2025-12-13T10:26:22Z
+  Updated: 2025-12-16T06:26:15Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -3585,6 +3585,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/6710195d-3386-41e6-ae45-c97c8b936f19.jpg?v=1755996010
     Price: 24,00 € EUR
+- [Professional Blender, Commercial Countertop Blenders, 68 Oz Jar Blender Combo, Stainless Steel 3 Functions Blender, For Frozen Drinks, Shakes, Smoothies, Peree, And Crush Ice, Black](https://kkshoop.it/products/professional-blender-commercial-countertop-blenders-68-oz-jar-blender-combo-stainless-steel-3-functions-blender-for-frozen-drinks-shakes-smoothies-peree-and-crush-ice-black)
+  Updated: 2025-12-17T07:26:24Z
+  Vendor: KK shop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/0bb78cd8-6d42-44aa-9f1f-27d2d395f311.jpg?v=1755996025
+  Price: 59,00 € EUR
 - [Outdoor Solar Stair Light Waterproof LED](https://kkshoop.it/products/outdoor-solar-stair-light-waterproof-led): Product information: Specification classification: (warm + color adjustable in two gears) semicircular ladder light Continuous lighting time: 6-12 hours Protection level: IP55 Light source type: LED Rated power: 5 (W) Voltage: 1.2 (V) Dimensions: 80*70 (mm) Life: 100000 (h) Style: Pastoral Switch type: manual Sunshine hours: 6-8 Uses: Stairs, desk lamps, fences, fences, fences Size Information: Packing list: Step lights*1
   Updated: 2025-12-12T20:46:37Z
   Vendor: KK shop
