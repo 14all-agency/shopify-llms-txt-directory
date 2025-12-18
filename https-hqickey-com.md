@@ -8,7 +8,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-18T11:42:27.249Z
+- Updated At: 2025-12-18T11:52:27.999Z
 
 ## Collections
 
@@ -394,6 +394,12 @@
   Updated: 2024-11-14T18:36:21+08:00
 - [Contact Information](https://hqickey.com/policies/contact-information)
   Updated: 2025-04-01T00:50:47+08:00
+
+## Important Pages & Contact
+- Homepage: https://hqickey.com/
+- About Us: https://hqickey.com/pages/about-us
+- Contact: sales@hqickey.com (preferred for pricing & availability inquiries)
+- Tech Guides (Blog): https://hqickey.com/blogs/tech-guides
 
 ## Optional
 
