@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-17T15:57:48.656Z
+- Updated At: 2025-12-18T00:03:11.476Z
 
 ## Products
 
@@ -1620,12 +1620,6 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
 - [BELLANOVA Silver Chest](https://homeeleganceusa.com/products/bellanova-silver-chest): BELLANOVA Silver Chest BELLANOVA Silver Chest, 38"W X 17 1/2"D X 54 7/8"H, 165lbs. Specifically designed to accentuate a glamorous feel, this bedroom collection
   Updated: 2025-12-16T16:23:45Z
   Price: $1,145.99 USD
-- [Berenice Espresso Chest](https://homeeleganceusa.com/products/berenice-espresso-chest): Berenice Espresso Chest Berenice Espresso Chest, 34"W X 17"D X 48 1/8"H, 130.46lbs. Transform your bedroom with this transitional style chest. Built with solid
-  Updated: 2025-12-16T16:23:45Z
-  Price: $926.99 USD
-- [Berenice Gray Chest](https://homeeleganceusa.com/products/berenice-gray-chest): Berenice Gray Chest Berenice Gray Chest, 34"W X 17"D X 48 1/8"H, 130.46lbs. Transform your bedroom with this transitional style chest. Built with solid wood and
-  Updated: 2025-12-16T16:23:47Z
-  Price: $896.99 USD
 - [BELLANOVA Black Chest](https://homeeleganceusa.com/products/bellanova-black-chest): BELLANOVA Black Chest BELLANOVA Black Chest, 38"W X 17 1/2"D X 54 7/8"H, 165lbs. Specifically designed to accentuate a glamorous feel, this bedroom collection
   Updated: 2025-12-16T16:23:48Z
   Price: $1,114.99 USD
@@ -4138,7 +4132,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-16T16:38:38Z
   Price: $1,031.99 USD
 - [Nova Domus Soria Modern Walnut Nightstand Vgmabr-32-Ns](https://homeeleganceusa.com/products/vig-furniture-nova-domus-soria-modern-walnut-nightstand-vgmabr-32-ns): Nova Domus Soria Mid-Century Walnut Nightstand - VGMABR-32-NS | VIGDescription:The Nova Domus Soria Modern Walnut Nightstand is out to give your bedroom that
-  Updated: 2025-12-16T16:38:40Z
+  Updated: 2025-12-17T23:53:04Z
   Price: $937.99 USD
 - [Modrest Ethan Italian Modern Grey Nightstand Vgacethan-Ns](https://homeeleganceusa.com/products/vig-furniture-modrest-ethan-italian-modern-grey-nightstand-vgacethan-ns): Modrest Ethan Italian Modern Grey Nightstand - VGACETHAN-NS | VIGDescription:The Ethan Nightstand is a perfect staple piece for your modern contemporary space.
   Updated: 2025-12-16T16:38:40Z
@@ -19918,7 +19912,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-16T18:03:03Z
   Price: $1,375.99 USD
 - [Loudon Night Stand In Champagne 1515-4 | Homelegance](https://homeeleganceusa.com/products/homelegance-loudon-night-stand-in-champagne-1515-4): Homelegance - Loudon Night Stand in Champagne - 1515-4The striking design of the Loudon Collection presents as a bold statement of your glamorous inclinations.
-  Updated: 2025-12-16T18:03:04Z
+  Updated: 2025-12-17T23:46:20Z
   Price: $882.99 USD
 - [Loudon Queen Platform Bed With Led Lighting And Storage Footboard In Bronze 1515-1* | Homelegance](https://homeeleganceusa.com/products/homelegance-loudon-queen-platform-bed-with-led-lighting-and-storage-footboard-in-bronze-1515-1): Homelegance - Loudon Queen Platform Bed with LED Lighting and Storage Footboard in Bronze - 1515-1*The striking design of the Loudon Collection presents as a
   Updated: 2025-12-16T18:03:05Z
@@ -28993,7 +28987,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-17T09:05:19Z
   Total Products: 9438
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2025-12-17T09:05:23Z
+  Updated: 2025-12-17T18:46:16Z
   Total Products: 13530
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
   Updated: 2025-12-17T09:05:21Z
@@ -29275,7 +29269,7 @@ Weight: 216.1 pounds
   Updated: 2025-10-27T17:13:04Z
   Total Products: 414
 - [Bernhardt Furniture – Luxury Living, Dining & Bedroom | Home Elegance Furniture](https://homeeleganceusa.com/collections/bernhardt-furniture): Shop Bernhardt Furniture for refined living room, bedroom, and dining designs. Premium materials with free nationwide delivery, assembly and setup on qualifying items.
-  Updated: 2025-12-13T15:13:09Z
+  Updated: 2025-12-17T18:46:16Z
   Total Products: 1317
 - [Jonathan Adler Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/jonathan-adler): - Home Elegance USA
   Updated: 2025-04-28T23:27:09Z
@@ -29752,7 +29746,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:04:53Z
   Total Products: 22
 - [Entertainment Centers & TV Stands – Stylish Media Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/entertainment-centers-and-tv-stands): Shop entertainment centers and TV stands in modern and classic styles. Functional media furniture with storage, cable management, and stylish finishes.
-  Updated: 2025-12-17T09:05:18Z
+  Updated: 2025-12-17T18:46:16Z
   Total Products: 686
 - [Game Room Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/game-room-furniture): Game Room Furniture on sale now at Home Elegance USA! Find the perfect pieces for your game room at amazing prices.
   Updated: 2025-12-08T18:08:50Z
@@ -29761,7 +29755,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-16T16:47:41Z
   Total Products: 85
 - [Entertainment Furniture | TV Stands, Consoles & Media Centers – Home Elegance](https://homeeleganceusa.com/collections/entertainment-furniture): Shop entertainment furniture including TV stands, media consoles, and home theater seating. Modern, classic, and luxury styles with storage, display, and durability.
-  Updated: 2025-12-17T09:05:18Z
+  Updated: 2025-12-17T18:46:16Z
   Total Products: 715
 - [Fireplace TV Stands – Media Consoles with Fireplaces | Home Elegance USA](https://homeeleganceusa.com/collections/fireplace-tv-stands): Shop fireplace TV stands with built-in electric fireplaces, media storage, and LED features. Perfect for living rooms and entertainment spaces with cozy ambiance.
   Updated: 2025-12-13T09:00:23Z
@@ -29954,16 +29948,16 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-07T22:45:37Z
   Total Products: 3
 - [East Hampton Collection | Bernhardt | Home Elegance USA](https://homeeleganceusa.com/collections/east-hampton-bernhardt): Discover the timeless elegance of the East Hampton Collection by Bernhardt. Shop classic and sophisticated furniture at Home Elegance USA.
-  Updated: 2025-12-07T22:43:58Z
+  Updated: 2025-12-17T18:13:11Z
   Total Products: 18
 - [Foundations Collection | Bernhardt](https://homeeleganceusa.com/collections/foundations-collection-bernhardt-furniture): Explore the timeless elegance of the Foundations Collection by Bernhardt. Discover classic furniture pieces crafted with exceptional quality and enduring style
-  Updated: 2025-12-07T23:08:58Z
+  Updated: 2025-12-17T18:46:15Z
   Total Products: 31
 - [Highland Park Collection | Bernhardt](https://homeeleganceusa.com/collections/highland-park-collection-bernhardt-furniture): Discover the perfect blend of rustic and refined. The Highland Park Collection by Bernhardt offers unique furniture pieces with a touch of Western elegance.
   Updated: 2025-12-07T23:10:01Z
   Total Products: 25
 - [Linea Collection | Bernhardt | Home Elegance USA](https://homeeleganceusa.com/collections/linea-collection-bernhardt-furniture): Experience the Linea Collection from Bernhardt. Indulge in unparalleled comfort and sophistication with exquisitely designed furniture pieces
-  Updated: 2025-12-07T23:10:37Z
+  Updated: 2025-12-17T18:13:11Z
   Total Products: 36
 - [Logan Square Collection | Bernhardt](https://homeeleganceusa.com/collections/logan-square-collection-bernhardt-furniture): Discover the Logan Square Collection by Bernhardt, a stylish blend of modern and traditional design for your living spaces.
   Updated: 2025-12-07T23:09:33Z
@@ -29975,7 +29969,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-07T23:08:22Z
   Total Products: 35
 - [Prado Collection | Bernhardt | Home Elegance USA](https://homeeleganceusa.com/collections/prado-collection-bernhardt-furniture): The Prado Collection by Bernhardt: Where classic elegance meets contemporary living. Discover furniture that reflects your refined taste and timeless style.
-  Updated: 2025-12-07T23:07:04Z
+  Updated: 2025-12-17T17:32:00Z
   Total Products: 31
 - [Santa Barbara Collection | Bernhardt](https://homeeleganceusa.com/collections/santa-barbara-collection-bernhardt-furniture): Discover the Santa Barbara Collection by Bernhardt, a blend of coastal charm and refined elegance for your home.
   Updated: 2025-12-07T22:44:58Z
