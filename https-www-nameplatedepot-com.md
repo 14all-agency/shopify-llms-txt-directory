@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-01-08T15:55:40Z
 - Contact Email: info@nameplatedepot.com
-- Updated At: 2025-12-16T00:00:24.648Z
+- Updated At: 2025-12-18T00:00:27.320Z
 
 ## Products
 
@@ -1718,7 +1718,7 @@
     Availability: Available
     Price: $2,046.50 USD
 - [Curved 3D Diamond Nameplate Pendant in Solid Gold & Diamonds](https://www.nameplatedepot.com/products/diamond-heart-necklace): Get this curved nameplate necklace personalized in solid gold 10K &amp; 14K and add diamonds to any name.
-  Updated: 2025-12-15T08:47:20Z
+  Updated: 2025-12-16T04:07:54Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1732,147 +1732,6 @@
   - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=45839554740517)
     Availability: Available
     Price: $1,200.00 USD
-  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=45839554773285)
-    Availability: Available
-    Price: $1,200.00 USD
-  - [Real Gold - Yellow 14K #MWS Options 214013857](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46217637527845)
-    Availability: Available
-    Price: $2,151.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 3166279550](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46232291279141)
-    Availability: Available
-    Price: $1,559.50 USD
-  - [Real Gold - White 14K #MWS Options 1197250348](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46238078468389)
-    Availability: Available
-    Price: $2,206.50 USD
-  - [Real Gold - Rose 14K #MWS Options 1118213789](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46239557026085)
-    Availability: Available
-    Price: $1,773.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3976566557](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46241790591269)
-    Availability: Available
-    Price: $1,240.50 USD
-  - [Real Gold - White 14K #MWS Options 1287165744](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46615859298597)
-    Availability: Available
-    Price: $3,062.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3776550676](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=46683716190501)
-    Availability: Available
-    Price: $1,720.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3932198683](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47283935609125)
-    Availability: Available
-    Price: $1,773.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 3300824964](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47337853583653)
-    Availability: Available
-    Price: $1,882.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3909850906](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47339090182437)
-    Availability: Available
-    Price: $1,559.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3865351960](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47439307669797)
-    Availability: Available
-    Price: $1,404.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3998652190](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47446878978341)
-    Availability: Available
-    Price: $1,240.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 460101548](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47464351629605)
-    Availability: Available
-    Price: $2,500.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 3300890500](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47557200806181)
-    Availability: Available
-    Price: $1,705.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1197709128](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47639419650341)
-    Availability: Available
-    Price: $2,104.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1220056905](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47681098088741)
-    Availability: Available
-    Price: $2,297.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 639604660](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47724515885349)
-    Availability: Available
-    Price: $3,002.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 617584563](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=47855347859749)
-    Availability: Available
-    Price: $3,244.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 3606173316](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=48272243261733)
-    Availability: Available
-    Price: $3,002.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1518458455](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=48272244343077)
-    Availability: Available
-    Price: $1,847.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 830002667](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=48472833556773)
-    Availability: Available
-    Price: $1,515.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2994263666](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=48510841454885)
-    Availability: Available
-    Price: $2,017.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 931517934](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=48801731281189)
-    Availability: Available
-    Price: $1,240.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1810355876](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49073047470373)
-    Availability: Available
-    Price: $1,377.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1912526503](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49384122155301)
-    Availability: Available
-    Price: $1,515.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1878447782](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49610292199717)
-    Availability: Available
-    Price: $1,240.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 228841274](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49800030322981)
-    Availability: Available
-    Price: $1,809.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 2083378860](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49800126628133)
-    Availability: Available
-    Price: $1,489.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 263182139](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49801395175717)
-    Availability: Available
-    Price: $1,976.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 57464629](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49802307010853)
-    Availability: Available
-    Price: $1,726.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3971798739](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49915825553701)
-    Availability: Available
-    Price: $2,239.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1980618409](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49917075882277)
-    Availability: Available
-    Price: $1,363.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3869169360](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49928564539685)
-    Availability: Available
-    Price: $1,740.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2423641869](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=49963433853221)
-    Availability: Available
-    Price: $1,559.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1946867368](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50061018431781)
-    Availability: Available
-    Price: $1,240.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50202006290725)
-    Availability: Available
-    Price: $1,240.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 2](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50205723164965)
-    Availability: Available
-    Price: $1,378.50 USD
-  - [Real Gold - White 14K #MWS Options 1](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50215619363109)
-    Availability: Available
-    Price: $1,766.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50229889040677)
-    Availability: Available
-    Price: $1,559.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50229902410021)
-    Availability: Available
-    Price: $1,869.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 3](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50229903982885)
-    Availability: Available
-    Price: $1,904.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 4](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50287837085989)
-    Availability: Available
-    Price: $1,938.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50298239385893)
-    Availability: Available
-    Price: $1,413.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 5](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50312870035749)
-    Availability: Available
-    Price: $1,731.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 4](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50323288326437)
-    Availability: Available
-    Price: $1,344.50 USD
-  - [Real Gold - White 14K #MWS Options 2](https://www.nameplatedepot.com/products/diamond-heart-necklace?variant=50431711904037)
-    Availability: Available
-    Price: $1,731.50 USD
 - [Gold Big 3D Double Plated CZ Nameplate Necklace with Crown](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 43mm x 12mm. Total length depends on number of letter Chain: Comes with real gold 16 inches chain in nameplate color selected Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
   Updated: 2025-12-15T08:47:24Z
   Vendor: Nameplatedepot
@@ -2059,7 +1918,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1765503484
     Price: $2,751.50 USD
 - [Curssive 3D Nameplate Necklace](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace): Make a statement with our Curssive 3D Nameplate Necklace! Handcrafted with love and care, this double-plated delight adds sass and style to your look. Choose your metal and chain type, then personalize it with your 10-letter name (first letter capitalized) and get ready to experience jewelry nirvana! Heart-stoppingly unique, this necklace is sure to be the envy of all your friends. Classy cursive font most popular style with diamond cut letters. Specs: Type: Double 3D Style Dimension: 45mm x 12mm. Total length depends on number of letter Chain: Comes with 16 inches chain in main nameplate metal selected. Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
-  Updated: 2025-12-15T08:48:29Z
+  Updated: 2025-12-16T04:09:46Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2082,63 +1941,6 @@
   - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=45585400037669)
     Availability: Available
     Price: $1,300.00 USD
-  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=45585400070437)
-    Availability: Available
-    Price: $1,500.00 USD
-  - [Gold Plated Silver #MWS Options 1260951069](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47479387455781)
-    Availability: Available
-    Price: $1,044.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 294164086](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47479685480741)
-    Availability: Available
-    Price: $1,718.50 USD
-  - [Real Gold - White 14K #MWS Options 1090098681](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47488276922661)
-    Availability: Available
-    Price: $1,495.50 USD
-  - [Gold Plated Silver #MWS Options 1260492317](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47490940731685)
-    Availability: Available
-    Price: $546.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1797953184](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47501375209765)
-    Availability: Available
-    Price: $2,380.50 USD
-  - [Gold Plated Silver #MWS Options 1305581087](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47506334449957)
-    Availability: Available
-    Price: $670.50 USD
-  - [Rose Gold Plating #MWS Options 2835715519](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47543633805605)
-    Availability: Available
-    Price: $957.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 39818859](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47546833961253)
-    Availability: Available
-    Price: $1,570.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 175150705](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47546834125093)
-    Availability: Available
-    Price: $1,858.50 USD
-  - [Sterling Silver #MWS Options 914724100](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47578315686181)
-    Availability: Available
-    Price: $471.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 174691953](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47581656088869)
-    Availability: Available
-    Price: $1,424.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 107320942](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47587283075365)
-    Availability: Available
-    Price: $1,282.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 129930863](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47613308829989)
-    Availability: Available
-    Price: $1,475.50 USD
-  - [Real Gold - White 14K #MWS Options 2653722150](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47648939475237)
-    Availability: Available
-    Price: $2,940.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 62428780](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47681190527269)
-    Availability: Available
-    Price: $1,760.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1843238562/1705691721319782085](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47767639654693)
-    Availability: Available
-    Price: $2,940.50 USD
-  - [Sterling Silver #MWS Options 1048810762](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47773640622373)
-    Availability: Available
-    Price: $325.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 197301874](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47823802827045)
-    Availability: Available
-    Price: $1,617.50 USD
   - [Real Gold - Yellow 14K #MWS Options 204248690](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=47853308838181)
     Availability: Available
     Price: $1,642.50 USD
@@ -2214,6 +2016,63 @@
   - [Sterling Silver #MWS Options 1869141026](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49411280109861)
     Availability: Available
     Price: $600.50 USD
+  - [Sterling Silver #MWS Options 1766183967](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49411280142629)
+    Availability: Available
+    Price: $463.50 USD
+  - [Real Gold - White 14K #MWS Options 2792281412](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49416990916901)
+    Availability: Available
+    Price: $2,871.50 USD
+  - [Real Gold - White 14K #MWS Options 2550519101](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49422677704997)
+    Availability: Available
+    Price: $1,998.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3295794619](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49439704940837)
+    Availability: Available
+    Price: $1,954.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3296122299](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49439736135973)
+    Availability: Available
+    Price: $2,779.50 USD
+  - [Real Gold - White 14K #MWS Options 516347154](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49493747073317)
+    Availability: Available
+    Price: $1,679.50 USD
+  - [Real Gold - White 14K #MWS Options 2723075394](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49493747106085)
+    Availability: Available
+    Price: $2,504.50 USD
+  - [Real Gold - Rose 14K #MWS Options 633656491](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49550804451621)
+    Availability: Available
+    Price: $1,711.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3434665407](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49579469504805)
+    Availability: Available
+    Price: $3,098.50 USD
+  - [Gold Plated Silver #MWS Options 1394988350](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49686844440869)
+    Availability: Available
+    Price: $629.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1288623505](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49762523119909)
+    Availability: Available
+    Price: $1,621.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1530058136](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=49765375148325)
+    Availability: Available
+    Price: $1,662.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50189434061093)
+    Availability: Available
+    Price: $2,530.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 2](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50195197755685)
+    Availability: Available
+    Price: $1,495.50 USD
+  - [Gold Plated Silver #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50198441099557)
+    Availability: Available
+    Price: $379.50 USD
+  - [Sterling Silver #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50200815436069)
+    Availability: Available
+    Price: $325.50 USD
+  - [Rose Gold Plating #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50229600977189)
+    Availability: Available
+    Price: $379.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50231120167205)
+    Availability: Available
+    Price: $1,282.50 USD
+  - [Real Gold - White 14K #MWS Options 1](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace?variant=50297123471653)
+    Availability: Available
+    Price: $2,530.50 USD
 - [Celebrity Double Plated Name Necklace](https://www.nameplatedepot.com/products/real-gold-celebrity-double-plated-name-necklace-in-gold-overlay): Head-turning style with a personalized touch! This celebrity double plated name necklace is sure to stand out - with a unique 3D design and real gold plating, it'll have 'em doin' double-takes! Wave hello to your new favorite accessory, complete with a cursive font for that extra bit of ~drama~. Get ready to make an entrance (and exit!) like a true celebrity! Specs: Type: Double 3D Style Dimension: 45mm x 13mm. Total length depends on number of letter Stones: Option to choose between genuine Diamond or Cubic Zirconia from drop down box above.
   Updated: 2025-12-15T08:48:35Z
   Vendor: Nameplatedepot
@@ -3557,7 +3416,7 @@
     Availability: Available
     Price: $209.00 USD
 - [NBA Style Name Initial Ring Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/nba-style-name-initial-ring): Shop NBA Style Name Initial Ring made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
-  Updated: 2025-12-15T08:52:02Z
+  Updated: 2025-12-17T23:44:19Z
   Vendor: Nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5502,7 +5361,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R127_748f49ca-de53-4816-a6f0-f5a3d7b5ef1b.jpg?v=1765503766
     Price: $1,130.50 USD
 - [Solid Gold Two Initial Ring  10mm](https://www.nameplatedepot.com/products/two-initial-ring-r126-gld): This Solid Gold Two Initial Ring is the perfect accessory for the modern man or woman. Crafted from 10mm real gold, this luxurious ring boasts two initials in bold, block font, and is sure to make a statement. Treat yourself or someone special to this exclusive item, perfect for any occasion. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-15T08:57:05Z
+  Updated: 2025-12-17T09:05:02Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -5752,7 +5611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/R124_f4317fb1-50b4-4624-8c08-7c556915d661.jpg?v=1765503775
     Price: $1,293.50 USD
 - [Custom Nameplate Ring with Diamond Cut Initial & Heart  10mm 10K/14k Gold](https://www.nameplatedepot.com/products/custom-nameplate-ring-with-diamond-cut-initial-heart-r123-gld): Dazzle in this custom name ring with option to diamond cut initial or full diamond cut on letters. If you are looking for diamond cut on entire letters just hit reply to confirmation email. Specs: Dimension: 0.38 inches height by 1 inches wide approx. Metal: Real Solid Gold 10K or 14K Comes with 10 clear cz stones. Option to add crystals or genuine diamonds all over ring from drop down above
-  Updated: 2025-12-15T08:57:56Z
+  Updated: 2025-12-16T01:48:13Z
   Vendor: nameplatedepot
   Product Type: Name Ring
   Availability: Available
@@ -6802,86 +6661,20 @@
     Availability: Available
     Price: $903.50 USD
 - [Personalized Gold Nameplate Necklace with Diamond Cut Finish](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99): Beautiful gold nameplate necklace that is hand cut with cursive font and a diamond like effect. This stunning piece is a hand cut from 10K or 14K solid gold.
-  Updated: 2025-12-15T09:00:51Z
+  Updated: 2025-12-16T16:16:51Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/files/double-gold-nameplate.jpg?v=1765503856
   - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=45865026945317)
     Availability: Available
-    Price: $1,400.50 USD
+    Price: $1,400.00 USD
   - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=45865026978085)
     Availability: Available
-    Price: $1,828.50 USD
+    Price: $1,550.00 USD
   - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=45865027010853)
     Availability: Available
-    Price: $1,828.50 USD
-  - [Real Gold - Rose 14K](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=45865027043621)
-    Availability: Available
-    Price: $2,046.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2520749643](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46238716690725)
-    Availability: Available
-    Price: $3,062.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2300024385](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46239557615909)
-    Availability: Available
-    Price: $2,365.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2410452550](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46646823485733)
-    Availability: Available
-    Price: $2,474.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 925931036](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46775953064229)
-    Availability: Available
-    Price: $1,828.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2277873216](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46817463304485)
-    Availability: Available
-    Price: $2,151.50 USD
-  - [Real Gold - Rose 14K #MWS Options 553686379](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46913860075813)
-    Availability: Available
-    Price: $2,525.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1102353956](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46992889708837)
-    Availability: Available
-    Price: $2,097.50 USD
-  - [Real Gold - Rose 14K #MWS Options 3245905211](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=46994208719141)
-    Availability: Available
-    Price: $2,046.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3685455350](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47029262188837)
-    Availability: Available
-    Price: $1,400.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3751253497](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47083146936613)
-    Availability: Available
-    Price: $1,559.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2586875470](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47127401791781)
-    Availability: Available
-    Price: $2,743.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2542573132](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47212601671973)
-    Availability: Available
-    Price: $2,311.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3619526131](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47233105035557)
-    Availability: Available
-    Price: $1,720.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2543359564](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47319074439461)
-    Availability: Available
-    Price: $3,761.50 USD
-  - [Real Gold - White 14K #MWS Options 3277755850](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47336261615909)
-    Availability: Available
-    Price: $3,440.50 USD
-  - [Real Gold - White 14K #MWS Options 3299120587](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47372392661285)
-    Availability: Available
-    Price: $2,206.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 991925791](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47380375699749)
-    Availability: Available
-    Price: $1,988.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 2542638668](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47386238746917)
-    Availability: Available
-    Price: $2,504.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3795162619](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47433157148965)
-    Availability: Available
-    Price: $1,433.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3685455350/1700940672291365907](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47463675855141)
-    Availability: Available
-    Price: $1,622.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3663369717](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47492700537125)
-    Availability: Available
-    Price: $1,400.50 USD
+    Price: $1,550.00 USD
   - [Real Gold - Yellow 14K #MWS Options 1124177445](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=47547200471333)
     Availability: Available
     Price: $1,828.50 USD
@@ -6957,6 +6750,29 @@
   - [Real Gold - Yellow 10K #MWS Options 2](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50383838937381)
     Availability: Available
     Price: $1,400.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 3](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50491793015077)
+    Availability: Available
+    Price: $1,780.50 USD
+  - [Real Gold - Rose 14K #MWS Options 1](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50491793244453)
+    Availability: Available
+    Price: $2,426.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 2](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50498696872229)
+    Availability: Available
+    Price: $2,415.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 4](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50525008429349)
+    Availability: Available
+    Price: $1,918.50 USD
+  - [Real Gold - Yellow 10K #MWS Options 5](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50535876854053)
+    Availability: Available
+    Price: $1,504.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 3](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50675871285541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/files/double-gold-nameplate.jpg?v=1765503856
+    Price: $3,036.50 USD
+  - [Real Gold - Yellow 14K #MWS Options 4](https://www.nameplatedepot.com/products/gold-necklace-name-plate-gf99?variant=50724152148261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/files/double-gold-nameplate.jpg?v=1765503856
+    Price: $1,932.50 USD
 - [Big Nameplate Ring Diamond Cut 12mm Custom Nameplate Ring at NamePlateDepot](https://www.nameplatedepot.com/products/name-ring-22mm-1-4-inch-high-top): Shop Big Nameplate Ring Diamond Cut 12mm made of solid gold 10K, 14K or Silver. Personalized diamond nameplate rings at NamePlateDepot
   Updated: 2025-12-15T09:00:53Z
   Vendor: Nameplatedepot
@@ -9868,7 +9684,7 @@
   Updated: 2025-12-12T00:30:40Z
   Total Products: 0
 - [.925 Sterling Silver Name Necklaces | Nameplate Necklace](https://www.nameplatedepot.com/collections/sterling-silver-name-necklaces): Personalize your name with this solid Sterling Silver Name Necklace starting from $45. The NEW 3D nameplates beautifully handcrafted in silver.
-  Updated: 2025-12-12T12:05:30Z
+  Updated: 2025-12-16T12:05:26Z
   Total Products: 36
 - [Sterling Silver Personalized NamePlate Necklace Within Double Plated Design](https://www.nameplatedepot.com/collections/silver-3d-double-plate): Double Plate Nameplate Necklace Personalized 14K Gold Plated Necklaces fully loaded cz with chain.  Order your sterling silver nameplate necklace today.
   Updated: 2025-12-12T00:30:40Z
@@ -9919,7 +9735,7 @@
   Updated: 2025-12-12T00:30:41Z
   Total Products: 2
 - [Double Name Plate Necklace in Real Gold 10K or 14K](https://www.nameplatedepot.com/collections/gold-3d-double-necklaces): Shop the best selection of custom gold name necklaces at Nameplate Depot. Choose from 14k, 10 Karat, and more. Personalize now and wear your name proudly that is made of real gold.
-  Updated: 2025-12-14T12:05:39Z
+  Updated: 2025-12-16T04:18:31Z
   Total Products: 45
 - [Personalized Engraved Necklaces  | NamePlateDepot](https://www.nameplatedepot.com/collections/engraved-necklaces): Checkout NamePlateDepot's engraved necklace selection with over 1000s styles. We carry very best custom engraving options, you can add a special name, date, or message on your jewelry. Our designers have any name engraved on this family necklaces.
   Updated: 2025-12-12T00:30:41Z
@@ -9931,10 +9747,10 @@
   Updated: 2025-12-12T00:30:41Z
   Total Products: 8
 - [Personalized Name Jewelry for Birthdays - Unique Birthday Gifts](https://www.nameplatedepot.com/collections/birthday-gifts): Surprise your loved one with a personalized name jewelry for their birthday. Choose from custom name necklaces, bracelets, rings, and more. Shop now.
-  Updated: 2025-12-12T12:05:30Z
+  Updated: 2025-12-16T12:05:26Z
   Total Products: 12
 - [Personalized Anniversary Gifts - Celebrate Your Love](https://www.nameplatedepot.com/collections/anniversary-gifts): Make your anniversary even more special with a personalized gift. Choose from our range of custom-made jewelry, including necklaces, rings, and bracelets.
-  Updated: 2025-12-12T12:05:30Z
+  Updated: 2025-12-16T12:05:26Z
   Total Products: 18
 - [Personalized Wedding Gifts - For a Lifetime of Memories](https://www.nameplatedepot.com/collections/wedding-gifts): Celebrate the happy couple with a personalized wedding gift. Choose from our range of custom-made jewelry, including necklaces, rings, and bracelets.
   Updated: 2025-12-12T00:30:41Z
@@ -9979,7 +9795,7 @@
   Updated: 2025-12-12T00:30:42Z
   Total Products: 27
 - [Products](https://www.nameplatedepot.com/collections/all)
-  Updated: 2025-12-15T12:06:04Z
+  Updated: 2025-12-16T12:05:26Z
   Total Products: 380
 - [Gifts for Her](https://www.nameplatedepot.com/collections/gifts-for-her)
   Updated: 2025-12-12T00:30:42Z
@@ -10151,6 +9967,12 @@
     Updated: 2025-12-14T18:14:45Z
     Author: Peter R
     Tags: 14k gold name necklace, care, custom name, gold necklace, how to clean name necklace, jewelry, maintaining name jewelry, my name necklace, name necklace, name necklace anniversary gift, name necklace birthday gift, name necklace for women, necklace, personalized jewelry, personalized name necklace
+  - [A Simple Guide to Christmas Gifts for Her Him and the Whole Family](https://www.nameplatedepot.com/blogs/posts/a-simple-guide-to-christmas-gifts-for-her-him-and-the-whole-family): A Simple Guide to Christmas Gifts for Her Him and the Whole Family
+    Updated: 2025-12-16T01:02:09Z
+    Author: Peter R
+  - [Surprising Her with Thoughtful Christmas Gifts: A Guide for Husbands and Boyfriends](https://www.nameplatedepot.com/blogs/posts/surprising-her-with-thoughtful-christmas-gifts-a-guide-for-husbands-and-boyfriends): Surprising Her with Thoughtful Christmas Gifts: A Guide for Husbands and Boyfriends
+    Updated: 2025-12-17T04:01:34Z
+    Author: Peter R
 - [News](https://www.nameplatedepot.com/blogs/news)
   - [NamePlateDepot Launches Custom Signet Rings with Initials and Symbols](https://www.nameplatedepot.com/blogs/news/nameplatedepot-launches-custom-signet-rings-with-initials-and-symbols): <span>Nameplatedepot is excited to announce the release of their new line of custom signet rings, featuring a variety of initials and symbols that customers can choose from.</span>
     Updated: 2025-12-14T18:08:13Z
