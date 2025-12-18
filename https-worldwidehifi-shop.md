@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-16T00:00:45.252Z
+- Updated At: 2025-12-18T00:00:46.416Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2277,12 +2277,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Product Type: 
   Availability: Available
   Price: 2.380,00 € EUR
-- [Burmester 878 Stereo Endstufe gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-878-stereo-endstufe-verstaerker-gebraucht-kaufen): Burmester 878 Stereo Endstufe gebraucht kaufen ✅ Geprüfter Verstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-22T10:24:52Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 1.190,00 € EUR
 - [Revox B77 Tonbandgerät gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/revox-b77-tonbandgeraet-4-spur-gebraucht-kaufen): Revox B77 Tonbandgerät gebraucht kaufen ✅ Geprüfte Bandmaschine mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-21T23:33:56Z
   Vendor: WorldWideHiFi
@@ -2332,13 +2326,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Product Type: 
   Availability: Available
   Price: 460,00 € EUR
-- [Atoll Compact Disc Player CD 80 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/atoll-cd-80-gebraucht-kaufen): Atoll Compact Disc Player CD 80 gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-13T10:29:26Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a5bc1fe2-ad68-46ef-8464-446eb305db15.jpg?v=1763808281
-  Price: 440,00 € EUR
 - [Studer A812 Studio Tonbandmaschine gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/studert-a812-studio-tonbandmaschine-gebraucht-kaufen): Studer A812 Studio Tonbandmaschine gebraucht kaufen ✅ Geprüfte Reel to Reel Maschine in Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-12-13T10:34:36Z
   Vendor: WorldWideHiFi
@@ -2384,7 +2371,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-13T11:30:46Z
+  Updated: 2025-12-16T12:23:58Z
   Total Products: 111
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-12-09T17:48:11Z
@@ -2393,7 +2380,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-12-13T11:30:46Z
   Total Products: 31
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-12-10T12:23:23Z
+  Updated: 2025-12-16T12:23:58Z
   Total Products: 36
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-12-05T12:23:37Z
@@ -2444,14 +2431,14 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-12-15T12:22:09Z
-  Total Products: 165
+  Updated: 2025-12-17T19:11:36Z
+  Total Products: 167
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-30T16:53:47Z
   Total Products: 26
 - [Neueste Produkte](https://worldwidehifi.shop/collections/neueste-produkte)
-  Updated: 2025-12-11T15:46:27Z
-  Total Products: 146
+  Updated: 2025-12-16T01:46:32Z
+  Total Products: 145
 
 ## Store Pages
 
