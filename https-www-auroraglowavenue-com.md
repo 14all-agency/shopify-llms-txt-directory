@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-23T15:02:25Z
 - Contact Email: burtbros.biz@gmail.com
-- Updated At: 2025-12-16T00:00:24.013Z
+- Updated At: 2025-12-18T00:00:32.942Z
 
 ## Products
 
@@ -8138,20 +8138,20 @@
   Updated: 2025-12-15T23:23:05Z
   Total Products: 1002
 - [AVADA - Best Sellers - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/avada-best-sellers): - Aurora Glow Avenue
-  Updated: 2025-12-15T23:49:44Z
-  Total Products: 1162
+  Updated: 2025-12-17T00:42:41Z
+  Total Products: 1233
 - [CYBER MONDAY DEALS - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/cyber-monday-deals): - Aurora Glow Avenue
-  Updated: 2025-12-15T23:23:05Z
+  Updated: 2025-12-17T16:39:59Z
   Total Products: 1002
 - [Notifier marketing - Best Sellers - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/notifier-marketing-best-sellers): - Aurora Glow Avenue
-  Updated: 2025-12-15T23:49:44Z
-  Total Products: 1158
+  Updated: 2025-12-17T00:42:41Z
+  Total Products: 1229
 - [Notifier marketing - Best Sellers - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/notifier-marketing-best-sellers-1): - Aurora Glow Avenue
-  Updated: 2025-12-15T23:49:44Z
-  Total Products: 1158
+  Updated: 2025-12-17T00:42:41Z
+  Total Products: 1229
 - [All Products (ChatGPT-AI Product Description)](https://www.auroraglowavenue.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-15T23:49:44Z
-  Total Products: 1162
+  Updated: 2025-12-17T00:42:41Z
+  Total Products: 1233
 - [Scents - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/scents): - Aurora Glow Avenue
   Updated: 2025-12-15T23:23:03Z
   Total Products: 206
@@ -8159,11 +8159,11 @@
   Updated: 2025-12-14T23:51:39Z
   Total Products: 4
 - [Smart Products Filter Index - Do not delete - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/globofilter-best-selling-products-index): - Aurora Glow Avenue
-  Updated: 2025-12-15T23:49:44Z
-  Total Products: 1162
+  Updated: 2025-12-17T00:42:41Z
+  Total Products: 1233
 - [APPPlaza - Best Sellers - Aurora Glow Avenue](https://www.auroraglowavenue.com/collections/appplaza-best-sellers): - Aurora Glow Avenue
-  Updated: 2025-12-15T23:49:44Z
-  Total Products: 1162
+  Updated: 2025-12-17T00:42:41Z
+  Total Products: 1233
 
 ## Blogs
 
@@ -8193,17 +8193,6 @@
   Updated: 2025-12-12T18:30:30Z
 - [Manage Subscription](https://www.auroraglowavenue.com/pages/joy-subscription)
   Updated: 2025-12-12T23:39:50Z
-
-## Policies
-
-- [Privacy Policy](https://www.auroraglowavenue.com/policies/privacy-policy)
-  Updated: 2025-08-23T11:02:34-04:00
-- [Refund Policy](https://www.auroraglowavenue.com/policies/refund-policy)
-  Updated: 2025-08-24T11:42:26-04:00
-- [Terms of Service](https://www.auroraglowavenue.com/policies/terms-of-service)
-  Updated: 2025-08-24T11:42:32-04:00
-- [Contact Information](https://www.auroraglowavenue.com/policies/contact-information)
-  Updated: 2025-08-24T11:42:53-04:00
 
 ## Optional
 
