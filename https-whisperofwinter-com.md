@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2025-12-17T16:57:27.611Z
+- Updated At: 2025-12-19T00:00:20.982Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
@@ -504,9 +504,6 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
 - [Women's Outerwear | Whisper of Winter Collection](https://whisperofwinter.com/collections/women): Explore Women's Outerwear featuring nordic inspired design and minimalist style perfect for fantasy lovers.
   Updated: 2025-12-16T22:47:18Z
   Total Products: 5
-- [AVADA - Best Sellers | Top-Rated Products You Can't Miss](https://whisperofwinter.com/collections/avada-best-sellers): Discover the AVADA - Best Sellers collection featuring top-rated products that customers love. Shop now for the best deals on AVADA - Best Sellers items.
-  Updated: 2025-12-16T22:33:01Z
-  Total Products: 15
 
 ## Blogs
 
