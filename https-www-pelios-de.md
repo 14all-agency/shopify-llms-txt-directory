@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-15T00:00:36.591Z
+- Updated At: 2025-12-19T00:00:37.450Z
 
 ## Products
 
@@ -392,6 +392,22 @@
     Updated: 2025-12-14T03:25:54Z
     Author: Marek Stein
     Tags: ethanol kamin freistehend
+  - [Kaminofen Scheibe Reinigen: Schritt‑für‑Schritt Anleitung für klare Sicht](https://www.pelios.de/blogs/news/kaminofen-scheibe-reinigen-schritt-fur-schritt-anleitung-fur-klare-sicht)
+    Updated: 2025-12-15T02:57:33Z
+    Author: Marek Stein
+    Tags: kaminofen scheibe reinigen
+  - [Pelletofen 10 kW: 5 wichtige Punkte für Auswahl, Installation und Betrieb](https://www.pelios.de/blogs/news/pelletofen-10-kw-5-wichtige-punkte-fur-auswahl-installation-und-betrieb)
+    Updated: 2025-12-16T05:53:37Z
+    Author: Marek Stein
+    Tags: pelletofen 10 kw
+  - [Kaminofen mit Pizzafach: 6 praktische Tipps & Modelle für Pizza-Liebhaber](https://www.pelios.de/blogs/news/kaminofen-mit-pizzafach-6-praktische-tipps-modelle-fur-pizza-liebhaber)
+    Updated: 2025-12-17T03:03:21Z
+    Author: Marek Stein
+    Tags: kaminofen mit pizzafach
+  - [Bioethanol Kamin Outdoor: 6 Tipps für Auswahl, Installation und Sicherheit](https://www.pelios.de/blogs/news/bioethanol-kamin-outdoor-6-tipps-fur-auswahl-installation-und-sicherheit)
+    Updated: 2025-12-18T05:04:20Z
+    Author: Marek Stein
+    Tags: bioethanol kamin outdoor
 
 ## Store Pages
 
