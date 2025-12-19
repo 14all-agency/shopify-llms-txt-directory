@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2025-12-18T00:00:22.956Z
+- Updated At: 2025-12-19T00:00:23.797Z
 
 ## Products
 
@@ -131,13 +131,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/h6T1EGvQibHO0pP.webp?v=1738657238
   Price: $429.99 USD
-- [MCM Aren Small Checkerboard Leather Bifold Wallet](https://mancaveassets.com/products/mcm-aren-small-checkerboard-leather-bifold-wallet): Style: MCM Aren Small Checkerboard Print Black Multi Visetos Slim Bifold Wallet Material: Pebbled Leather Features: 6 Card Slots, 2 Note Compartments, Vertical Bill Slot Measures: 4.25" L x 3.5" H
-  Updated: 2025-07-27T05:10:40Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/2la8LuA5lwBDpqq.webp?v=1738657431
-  Price: $679.99 USD
 - [Burberry Sandon Grained Leather Card Case Wallet](https://mancaveassets.com/products/burberry-sandon-grained-leather-card-case-wallet): Style: Burberry Sandon Leather Card Case Wallet (Black) Material: Leather Features: 4 Card Slots, Center Note Compartment Measures: 4" L x 3" H
   Updated: 2025-08-23T22:16:04Z
   Vendor: Man Cave Assets
