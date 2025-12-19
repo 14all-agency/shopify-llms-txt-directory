@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-19T04:00:34.579Z
+- Updated At: 2025-12-19T08:00:34.926Z
 
 ## Products
 
@@ -7697,7 +7697,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Amber Noir Mini Candle](https://affinatiliving.com/products/amber-noir-mini-candle): Mini Amber Noir Candle | 3 oz. Rich, warm amber with smoky woods and vanilla. Strongly scented for a cozy, luxurious experience.
-  Updated: 2025-12-18T18:13:13Z
+  Updated: 2025-12-19T06:08:39Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7718,91 +7718,91 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8176.png?v=1766075558
   Price: $6.95 USD
 - [Honey Lavender Mini Candle](https://affinatiliving.com/products/honey-lavender-mini-candle): Mini Honey Lavender Candle | 3 oz. Calming lavender with sweet honey. Strongly scented, clean burn, perfect for relaxation.
-  Updated: 2025-12-18T18:13:14Z
+  Updated: 2025-12-19T04:00:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8175.png?v=1766075571
   Price: $6.95 USD
 - [Rosemary Mint Mini Candle](https://affinatiliving.com/products/rosemary-mint-mini-candle): Mini Rosemary Mint Candle | 3 oz. Invigorating rosemary and mint. Strongly scented and hand-poured with soy wax.
-  Updated: 2025-12-18T18:13:14Z
+  Updated: 2025-12-19T04:01:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8177.png?v=1766075544
   Price: $6.95 USD
 - [Mint Eucalyptus Mini Candle](https://affinatiliving.com/products/mint-eucalyptus-mini-candle): Mini Mint Eucalyptus Candle | 3 oz. Refreshing mint and eucalyptus. Strong throw, long-lasting and clean-burning.
-  Updated: 2025-12-18T18:13:14Z
+  Updated: 2025-12-19T04:01:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8178.png?v=1766075529
   Price: $6.95 USD
 - [Blackberry Sage Mini Candle](https://affinatiliving.com/products/blackberry-sage-mini-candle): Mini Blackberry Sage Candle | 3 oz. Sweet berries with herbal sage. Strongly scented and hand-poured with soy wax.
-  Updated: 2025-12-18T18:13:14Z
+  Updated: 2025-12-19T04:31:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8180.png?v=1766075515
   Price: $6.95 USD
 - [Lavender Vanilla Mini Candle](https://affinatiliving.com/products/lavender-vanilla-mini-candle): Mini Lavender Vanilla Candle | 3 oz. Floral lavender with creamy vanilla. Strong throw and long-lasting clean burn.
-  Updated: 2025-12-18T18:13:14Z
+  Updated: 2025-12-19T04:31:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8179.png?v=1766075501
   Price: $6.95 USD
 - [Black Raspberry Vanilla Mini Candle](https://affinatiliving.com/products/black-raspberry-vanilla-mini-candle): Mini Black Raspberry Vanilla Candle | 3 oz. Juicy berries with sweet vanilla. Strongly scented for a bold, fruity aroma.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:02:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8181.png?v=1766075486
   Price: $6.95 USD
 - [Cinnamon Twist Mini Candle](https://affinatiliving.com/products/cinnamon-twist-mini-candle): Mini Cinnamon Twist Candle | 3 oz. Warm cinnamon and spices. Strong throw, cozy and perfect for autumn vibes.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:03:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8182.png?v=1766075471
   Price: $6.95 USD
 - [Saffron Cedarwood Mini Candle](https://affinatiliving.com/products/saffron-cedarwood-mini-candle): Mini Saffron Cedarwood Candle | 3 oz. Exotic saffron with cedarwood. Strongly scented, clean-burning, sophisticated aroma.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:03:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8184.png?v=1766075458
   Price: $6.95 USD
 - [Almond Macaron Mini Candle](https://affinatiliving.com/products/almond-macaron-mini-candle): Mini Almond Macaron Candle | 3 oz. Toasted almond with vanilla cream. Strong throw and long-lasting dessert-inspired scent.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:04:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8183.png?v=1766075445
   Price: $6.95 USD
 - [Lemon Meringue Mini Candle](https://affinatiliving.com/products/lemon-meringue-mini-candle): Mini Lemon Meringue Candle | 3 oz. Tangy lemon with sweet meringue. Strongly scented, bright and fresh fragrance.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:04:36Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8185.png?v=1766075431
   Price: $6.95 USD
 - [Pineapple Margarita's Mini Candle](https://affinatiliving.com/products/pineapple-margaritas-mini-candle): Mini Pineapple Margarita Candle | 3 oz. Juicy pineapple with lime zest. Strong throw, tropical and fun fragrance.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:04:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8187.png?v=1766075421
   Price: $6.95 USD
 - [Pina Colada Mini Candle](https://affinatiliving.com/products/pina-colada-mini-candle): Mini Pina Colada Candle | 3 oz. Creamy coconut and pineapple. Strongly scented, tropical, and hand-poured with soy wax.
-  Updated: 2025-12-18T18:13:15Z
+  Updated: 2025-12-19T04:05:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8186.png?v=1766075407
   Price: $6.95 USD
 - [Ocean Breeze Mini Candle](https://affinatiliving.com/products/ocean-breeze-mini-candle): Mini Ocean Breeze Candle | 3 oz. Fresh sea air with soft florals. Strong throw, clean and airy scent for any space.
-  Updated: 2025-12-18T18:13:16Z
+  Updated: 2025-12-19T04:05:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7816,49 +7816,49 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8190.png?v=1766075377
   Price: $6.95 USD
 - [Blue Spruce Mini Candle](https://affinatiliving.com/products/blue-spruce-mini-candle): Mini Blue Spruce Candle | 3 oz. Crisp spruce and fir with cedarwood. Strong throw, forest-inspired, clean-burning.
-  Updated: 2025-12-18T18:13:16Z
+  Updated: 2025-12-19T04:06:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8189.png?v=1766075314
   Price: $6.95 USD
 - [French Vanilla Mini Candle](https://affinatiliving.com/products/french-vanilla-mini-candle): Mini French Vanilla Candle | 3 oz. Creamy French vanilla with sweet musk. Strongly scented and long-lasting.
-  Updated: 2025-12-18T18:13:16Z
+  Updated: 2025-12-19T04:07:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8191.png?v=1766075303
   Price: $6.95 USD
 - [Ivory Woods Mini Candle](https://affinatiliving.com/products/ivory-woods-mini-candle): Mini Ivory Woods Candle | 3 oz. Soft woods and warm musk. Strong throw, cozy, and hand-poured with soy wax.
-  Updated: 2025-12-18T18:13:16Z
+  Updated: 2025-12-19T04:07:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8193.png?v=1766075292
   Price: $6.95 USD
 - [Coconut Dream Mini Candle](https://affinatiliving.com/products/coconut-dream-mini-candle): Mini Coconut Dream Candle | 3 oz. Creamy coconut and vanilla. Strongly scented tropical candle, clean-burning.
-  Updated: 2025-12-18T18:13:16Z
+  Updated: 2025-12-19T04:07:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8192.png?v=1766075279
   Price: $6.95 USD
 - [Pumpkin Cheesecake Mini Candle](https://affinatiliving.com/products/pumpkin-cheesecake-mini-candle): Mini Pumpkin Cheesecake Candle | 3 oz. Spiced pumpkin with creamy cheesecake. Strong throw, cozy autumn scent.
-  Updated: 2025-12-18T18:13:17Z
+  Updated: 2025-12-19T04:08:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8194.png?v=1766075267
   Price: $6.95 USD
 - [Pumpkin Spice Latte Mini Candle](https://affinatiliving.com/products/pumpkin-spice-latte-mini-candle): Mini Pumpkin Spice Latte Candle | 3 oz. Pumpkin, cinnamon, and coffee blend. Strongly scented, warm seasonal fragrance.
-  Updated: 2025-12-18T18:13:17Z
+  Updated: 2025-12-19T04:08:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8195.png?v=1766075256
   Price: $6.95 USD
 - [Autumn Breeze Mini Candle](https://affinatiliving.com/products/autumn-breeze-mini-candle): Mini Autumn Breeze Candle | 3 oz. Crisp apple and cinnamon spices. Strong throw, cozy fall-inspired scent.
-  Updated: 2025-12-18T18:13:17Z
+  Updated: 2025-12-19T04:09:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
