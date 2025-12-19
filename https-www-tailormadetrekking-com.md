@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-12-14T00:00:37.148Z
+- Updated At: 2025-12-19T00:00:38.126Z
 
 ## Products
 
@@ -1189,13 +1189,13 @@
 - [Verbier Eco Clothing](https://www.tailormadetrekking.com/pages/verbier-eco-clothing): Care about the environment and about what you are wearing? Visit our range at Verbier Eco Clothing to see our ethically printed on demand clothing ...
   Updated: 2025-11-18T06:16:52Z
 - [Georgina Talfana - IML](https://www.tailormadetrekking.com/pages/georgina-talfana-iml): Georgina Talfana is a qualified International Mountain Leader. Georgina can take you for guided day walks and snowshoeing as well as organise your ...
-  Updated: 2025-11-20T07:06:40Z
+  Updated: 2025-12-18T23:17:42Z
 - [Duke of Edinburgh's Award expeditions](https://www.tailormadetrekking.com/pages/duke-of-edinburghs-award-expeditions): Georgina is an accredited expeditions assessor and can train and assess groups up to gold level. Georgina has vast experience of working with schoo...
   Updated: 2025-11-20T07:04:47Z
 - [Outdoor Education Instructor](https://www.tailormadetrekking.com/pages/outdoor-education-instructor): Georgina feels very strongly about sharing her love and knowledge for the natural environment with young people and adults. Georgina has over 23 ye...
   Updated: 2025-11-18T06:10:48Z
 - [Georgina Talfana - CV](https://www.tailormadetrekking.com/pages/georgina-talfana-cv): OUTDOOR QUALIFICATIONS /SKILLS MLTB International Mountain Leader 04/07 MLTB Winter Mountain Leader (trained) 02/06 MLTB Summer Mountain Leader 08/...
-  Updated: 2024-10-15T09:14:46Z
+  Updated: 2025-12-18T23:22:35Z
 - [Terms & Conditions for Verbier Eco Clothing](https://www.tailormadetrekking.com/pages/terms-conditions-for-verbier-eco-clothing): In placing your order, you agree to and fully acknowledge the following: Product representation The initial model mockup image offers a representat...
   Updated: 2025-11-20T07:07:51Z
 - [Copy of Duke of Edinburgh's Award expeditions](https://www.tailormadetrekking.com/pages/copy-of-duke-of-edinburghs-award-expeditions): Georgina is an accredited expeditions assessor and can train groups up to gold level. She can also help you organise your qualifying expedition ven...
