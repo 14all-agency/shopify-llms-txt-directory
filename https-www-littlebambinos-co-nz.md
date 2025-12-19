@@ -6,36 +6,36 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-12-14T00:01:00.904Z
+- Updated At: 2025-12-19T00:01:02.718Z
 
 ## Products
 
 - [TINY TROVE Woodie Logo Tracksuit - Fawn](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-fawn): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature black logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm Â WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2025-11-26T01:19:06Z
+  Updated: 2025-12-17T19:32:10Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/WoodieFawnLifestyle.jpg?v=1593586359
-  Price: $63.99 NZD
+  Price: $80.00 NZD
 - [TINY TROVE Woodie Logo Tracksuit - Mist](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-mist): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature blackÂ logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Sweater:Â crew neck, long sleeves and a ribbed hem and cuffs Pants:Â elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton Â SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm Â 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm Â WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2025-12-11T05:06:32Z
+  Updated: 2025-12-17T19:32:11Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/WoodieMist2.jpg?v=1660868625
-  Price: $63.99 NZD
+  Price: $80.00 NZD
 - [TINY TROVE Woodie Logo Tracksuit - Chalk](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-chalk): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature black logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm Â 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2025-11-26T01:19:09Z
+  Updated: 2025-12-17T19:32:12Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/WoodieLogoTracksuit-Chalk.webp?v=1660784890
   - [4y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-chalk?variant=32039595081822)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-chalk?variant=32039595147358)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [TINY TROVE Face Socks - Lime](https://www.littlebambinos.co.nz/products/tiny-trove-face-socks-lime): Socks that will make you smile!Â 100% cotton elastane SIZING S (0-12m) M (1y-3y) L (3y-5y) WASH CARE Gentle machine wash and line dry in shade only
   Updated: 2025-11-18T22:37:47Z
   Vendor: Tiny Trove
@@ -119,12 +119,12 @@
     Availability: Available
     Price: $18.99 NZD
 - [VEJA Esplar Leather - White Nautico Pekin](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:19:10Z
+  Updated: 2025-12-17T19:32:23Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Nautico1.jpg?v=1624912974
-  Price: $95.99 NZD
+  Price: $119.99 NZD
 - [TOSHI Baby Dress Athena  - Blossom](https://www.littlebambinos.co.nz/products/toshi-baby-dress-sienna): Toshi Baby Dress Athena is crafted from the finest quality 100% cotton. The A-line shape is flattering and comfortable, with space for freedom of movement. A smocked back panel offers adjustable sizing and convenient dressing. Toshi Baby Dress is a beautiful piece, which transitions effortlessly from casual occasions to special celebrations.Â DETAILS Smocking back panel for adjustable sizing and convenient dressing 100% cotton
   Updated: 2025-11-18T22:38:19Z
   Vendor: Toshi
@@ -144,7 +144,7 @@
     Availability: Available
     Price: $24.00 NZD
 - [TOSHI Flap Cap Baby - Sage](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-sage): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Sage features a khaki green stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-12T21:12:31Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -162,7 +162,7 @@
     Availability: Available
     Price: $30.00 NZD
 - [TOSHI Flap Cap Baby - Blush](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-blush): The cute Toshi Flap Cap Baby has a neck flap for increased sun protection. A head tie creates adjustable sizing and the chin tie secures the cap. Made from quality cotton, the Flap Cap Baby is functional, practical and gentle to wear. DETAILS Head tie for adjustable sizing Chin ties to secure hat 100% cotton (polyester/cotton lining) SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-11T21:00:12Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -232,6 +232,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Bath_Crayons_SJs_31be637a-dfe8-48f1-b523-69f9617c921b.webp?v=1763600322
   Price: $23.95 NZD
+- [HONEYSTICKS Bath Drops Colour Magic](https://www.littlebambinos.co.nz/products/honeysticks-bath-colour-drops): Drop. Fizz. Wonder. Transform the tub into a canvas of colour with Honeysticks Bath Drops Colour Magic 36pk. Crafted with care from food-grade ingredients, these fizzy little wonders invite mini creators to swirl, mix and explore – all while soaking up safe, sensory fun. Pure fizz, endless colour: Each tin includes 36 vibrant drops in red, yellow and blue – perfect for colour mixing, mini science experiments, or simply adding a splash of joy to bath time. No fragrance. No residue. Just fizzy fun made from cosmetic- and food-grade colourants. No nasties, just pure creativity: Handmade in New Zealand using safe, food-grade ingredients like baking soda, citric acid, plant fibres and binders. We use only food- and cosmetic-grade pigments for colour – formulated for peace of mind and gentle on the skin. Fragrance-free, worry-free. No mess, no stains: Designed for worry-free play – no staining on skin, tubs, or towels. More than a bath toy: Great for water play, sensory setups and creative activities outside the tub, too. Ready to gift (or refill): Comes in a cheerful, recyclable tin that’s made to reuse, refill or repurpose. Planet-friendly, parent-approved: Crafted by a team of New Zealand parents who believe in a better way to play – safe for little ones and kinder to the planet.
+  Updated: 2025-12-18T21:29:08Z
+  Vendor: Honeysticks
+  Product Type: Bath Toysss
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Bath_Drops_36pk.webp?v=1763600117
+  Price: $24.95 NZD
 - [HONEYSTICKS Natural Watercolour Paints](https://www.littlebambinos.co.nz/products/honeysticks-natural-watercolour-paints): Introducing the safer paint option for little artists - Honeysticks Watercolour Paints. A perfect introduction to painting! 100% non-toxic for peace of mind: Handmade in New Zealand using non-toxic and food-grade ingredients. 8 vibrant colours to ignite creativity: Each Watercolour Paint Palette contains 8 vibrant and long-lasting colours, including yellow, red, pink, purple, green, blue, brown and orange. Natural paintbrush included: Including a non-toxic paintbrush crafted from natural wood and vegan bristles. Perfect eco-friendly gift set: Beautifully packaged in a recyclable metal tin, Honeysticks Watercolour Paint Set will make a thoughtful gift for the little artist in your life (ages 3+).
   Updated: 2025-12-06T20:56:23Z
   Vendor: Honeysticks
@@ -251,27 +258,20 @@
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-new-born-body-poire?variant=32331309744222)
     Availability: Available
     Price: $43.99 NZD
-- [MARMAR COPENHAGEN Leggings - Hay](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay): Very comfortable & soft leggings. They are made to a high quality with a good fit making them a great basic for you little ones year-round wardrobe. DETAILS 47% TENCEL Modal 48% Cotton 5% Elasthane Standard 100 by OEKO-TEXÂ® certified SIZE Available from 2m - 8y CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-11-26T01:16:10Z
-  Vendor: MarMar Copenhagen
-  Product Type: Bottoms
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/211-100-25-0211_1copy.jpg?v=1611337203
-  Price: $9.99 NZD
 - [MARMAR COPENHAGEN Primo Pants - Forrest Shadow](https://www.littlebambinos.co.nz/products/marmar-copenhagen-primo-pants-forrest-shadow): Â Cool chinos with pockets and belt straps. High quality and a good fit. Easy to dress up or down depending on the occasion. DETAILS 97% Cotton 3% Elasthane CARE Machine wash 30Â°C Wash with similar colours Wash inside out Close all fastenings before cleaning Before wearing wash separately Do not bleach Do not tumble dry Iron on reverse whilst damp Dry cleaning possible
-  Updated: 2025-11-26T01:16:11Z
+  Updated: 2025-12-17T19:32:38Z
   Vendor: MarMar Copenhagen
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/211-264-02-0557copy.jpg?v=1611355090
-  Price: $27.99 NZD
+  Price: $35.00 NZD
 - [MARMAR COPENHAGEN Cardigan - Light Cheek](https://www.littlebambinos.co.nz/products/marmar-copenhagen-cardigan-rose-cheek): Cute cardigan with a v-neck. This is the perfect additional layer when you need a little more warmth. DETAILS 50% TENCELâ„¢ Modal 50% Cotton Standard 100 by OEKO-TEXÂ® certified CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-11-26T01:16:13Z
+  Updated: 2025-12-17T19:32:43Z
   Vendor: MarMar Copenhagen
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/211-100-28-3508copy.jpg?v=1611368480
-  Price: $12.00 NZD
+  Price: $19.00 NZD
 - [TOSHI Organic Baby Socks - Rose](https://www.littlebambinos.co.nz/products/toshi-organic-socks-rose): Toshi presents a beautifully curated collection of organic cotton baby socks. Crafting of the socks evolves from a blend of finely textured organic cotton melange yarn. The cotton yarn is certified organic and this ensures Toshi socks are gentle on delicate baby feet, as well as our precious environment.
   Updated: 2025-11-29T07:27:16Z
   Vendor: Toshi
@@ -316,24 +316,24 @@
     Availability: Not Available
     Price: $10.00 NZD
 - [POUDRE ORGANIC Waffle Leggings - Indian Tan](https://www.littlebambinos.co.nz/products/poudre-organic-rib-leggings-indian-tan): Super comfy and practical waffle leggings for babies and children. Made from 100% cotton from organic farms. Poudre Organic is a french label that focuses on making sustainable clothing for children. Made in Portugal.
-  Updated: 2025-11-26T01:19:13Z
+  Updated: 2025-12-17T19:33:03Z
   Vendor: Poudre Organic
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BASILICNIDINDIANTAN_Front_1200x1200p.jpg?v=1629168765
-  Price: $9.99 NZD
+  Price: $12.00 NZD
 - [MARMAR COPENHAGEN Booties - Cornfield](https://www.littlebambinos.co.nz/products/marmar-copenhagen-booties-cornfield): Small booties to keep your baby's feet warm. DETAILS Standard 100 by OEKO-TEXÂ® certified Quality: 47% TENCELâ„¢ Modal 47% Cotton 6% Elasthane CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-11-25T21:01:28Z
+  Updated: 2025-12-17T19:33:04Z
   Vendor: MarMar Copenhagen
   Product Type: Booties
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/211-109-18-1229copy.jpg?v=1616024346
   - [0-2m](https://www.littlebambinos.co.nz/products/marmar-copenhagen-booties-cornfield?variant=39274764009566)
     Availability: Available
-    Price: $6.00 NZD
+    Price: $10.00 NZD
   - [4-6m](https://www.littlebambinos.co.nz/products/marmar-copenhagen-booties-cornfield?variant=39274764042334)
     Availability: Available
-    Price: $6.00 NZD
+    Price: $10.00 NZD
 - [MARMAR COPENHAGEN Hat - Hay Stripe](https://www.littlebambinos.co.nz/products/marmar-copenhagen-hat-hay-stripe): Beanie in a very soft quality.Â DETAILS Standard 100 by OEKO-TEXÂ® certified Quality: 47% TENCELâ„¢ Modal 47% Cotton 6% Elasthane SIZE S (48-50 cm) Approx 6 - 2 years MÂ (52-54 cm) ApproxÂ 2 yearsÂ - small grown ups L (56-58 cm) Big kids CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
   Updated: 2025-11-18T22:38:52Z
   Vendor: MarMar Copenhagen
@@ -350,45 +350,38 @@
     Availability: Available
     Price: $9.00 NZD
 - [RYLEE + CRU Terry Henly - Sunrise](https://www.littlebambinos.co.nz/products/rylee-cru-terry-henly-sunrise): A Rylee + Cru relaxed fit henley sweatshirt made of the coziest French Terry. This henley includes a wooden button placket. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:19:14Z
+  Updated: 2025-12-17T19:33:12Z
   Vendor: rylee + cru
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/TerryHenley_Amber_ws1200_1600.jpg?v=1618208989
   - [0-3m](https://www.littlebambinos.co.nz/products/rylee-cru-terry-henly-sunrise?variant=39275108728926)
     Availability: Available
-    Price: $14.99 NZD
+    Price: $19.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/rylee-cru-terry-henly-sunrise?variant=39275108761694)
     Availability: Available
-    Price: $14.99 NZD
-- [MOONIE Organic Humming Bear 2.0 - Mineral Grey](https://www.littlebambinos.co.nz/products/moonie-humming-bear-night-lamp-mineral-grey): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-02T23:31:48Z
-  Vendor: MOONIE
-  Product Type: Sleep Aid
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/05GRAYNATUR.jpg?v=1706577465
-  Price: $139.00 NZD
+    Price: $19.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Sand](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-sand): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-11T22:59:22Z
+  Updated: 2025-12-17T18:34:51Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/03_SANDNATUR.jpg?v=1706577297
   Price: $139.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Cappuccino](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-cappuccino): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-13T22:07:06Z
+  Updated: 2025-12-18T01:49:40Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/01_CAPPUCCINONATUR.jpg?v=1706577199
   Price: $139.00 NZD
 - [GRECH & CO Organic Cotton Tights - Shell](https://www.littlebambinos.co.nz/products/grech-co-organic-cotton-tights-shell): Gorgeous girls tights in a soft pink tone. Grech & Co. children's tights are Global Organic Textile Standard (GOTS) certified AND meet Oeko Tex standard 100 class 1. GOTS ensures an environmentally and socially conscious approach is taken throughout the creation of our socks and tights from start to finish. From the amount of natural fertilisers and amount of water used to grow the cotton, to ethical working standards of the factory at the manufacturing level. You can be sure only the really good stuff was used keep your children's feet safe and looking cozy and cute all year long!DETAILS Ribbed Style Super soft and comfortable - perfect to withstand daily wear. Seamless Toe Durable Heel Designed to avoid slouch during wear Designed in Europe + Produced in P.R.C CLEAN & CARE Wash inside out in 40 degree temperature. We recommend you allow to air dry; avoid machine dryer. Do not iron.
-  Updated: 2025-11-26T01:19:15Z
+  Updated: 2025-12-17T19:33:24Z
   Vendor: Grech & Co
   Product Type: Tights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/TightsShell.jpg?v=1624654841
-  Price: $17.99 NZD
+  Price: $22.00 NZD
 - [SUSUKOSHI Headband - Terracotta Pointelle](https://www.littlebambinos.co.nz/products/susukoshi-headband-terracotta-pointelle): Beautiful super stretchy headbands that is a perfect match with Susukoshi collections. Made from 95% organic cotton, 5% elastane and organic dye. Designed in Australia, ethically made in China. Fully adjustable with great stretch. Free shipping within NZ on orders over $100.
   Updated: 2025-11-18T22:39:22Z
   Vendor: Susukoshi
@@ -397,12 +390,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/HBTerracotta.jpg?v=1627025502
   Price: $7.00 NZD
 - [SUSUKOSHI Organic Zip Growsuit - Powder Pointelle](https://www.littlebambinos.co.nz/products/susukoshi-organic-zip-growsuit-powder-pointelle): This lovely zip growsuit is an essential part of baby's wardrobe. Designed to be fitted on the body and cover tiny feet. The two way zip makes it easy to put on and take off with the. Zip from bottom up or top to bottom. The material is light and can be used for both summer and winter.
-  Updated: 2025-11-26T04:06:34Z
+  Updated: 2025-12-17T19:33:32Z
   Vendor: Susukoshi
   Product Type: Growsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ZipPowder1.jpg?v=1627032588
-  Price: $27.99 NZD
+  Price: $35.00 NZD
 - [TOSHI Baby Swim Flap Cap - Twilight](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-twilight): The gorgeous Toshi swim flap cap features a contoured neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. The Twilight print features a flock of seagulls gliding in a magical coastal sunset.
   Updated: 2025-11-18T22:39:25Z
   Vendor: Toshi
@@ -421,6 +414,20 @@
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-twilight?variant=39423608881246)
     Availability: Not Available
     Price: $24.00 NZD
+- [MALO Nappy Change Cream](https://www.littlebambinos.co.nz/products/malo-nappy-rash-creme): Designed for the modern parent with simple clean ingredients that work! Malo Nappy Rash CrÃƒÂ¨me is designed for those who love a cream but without getting sticky gunk all over their fingers. It's a buttery soft formula in a purpose designed airless jar which dispenses just the right amount at each change. The airless jar is also designed to be used and reused as the internal container can be removed, washed and refilled when finished.
+  Updated: 2025-12-18T02:18:01Z
+  Vendor: Malo
+  Product Type: Baby Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_939cfaab-8b67-4dcb-bb7b-35b57fcaa19c.webp?v=1762906680
+  Price: $45.00 NZD
+- [MALO Nappy Change Spray - 100ml](https://www.littlebambinos.co.nz/products/malo-nappy-rash-spray): Malo nappy Rash Spray is purpose designed to be a practical solution for when you're on-the-go. The spray design means you can quickly change a nappy, spray and keep moving. No need to rinse, rub or wipe hands. It is a simpler alternative to traditional creams.
+  Updated: 2025-12-18T14:34:48Z
+  Vendor: Malo
+  Product Type: Baby Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_3d8c1135-b866-4447-8843-440b47c79c8c.webp?v=1762906838
+  Price: $45.00 NZD
 - [BIBS Baby Bitie Heart - Sage](https://www.littlebambinos.co.nz/products/bibs-baby-bitie-heart-sage): Baby Bitie is the new teether from BIBS, perfect for little hands to grab and mouths to chew on. The Baby Bitie is also great for stimulating babyÃ¢â‚¬â„¢s senses and fine motor skills.
   Updated: 2025-11-18T22:39:28Z
   Vendor: BIBS
@@ -453,24 +460,24 @@
     Availability: Not Available
     Price: $22.99 NZD
 - [POUDRE ORGANIC Baby Bodysuit - Indian Tan](https://www.littlebambinos.co.nz/products/poudre-organic-bodysuit-indian-tan): A beautifully soft long sleeve bodysuit for little bubbas. Sizes 0-6m feature a crossover style with dome fastenings. Sizes 9m - 2 years are a plain style (no crossover) with domes on the crotch for easy changing. Made from 100% cotton sourced from organic farms.
-  Updated: 2025-11-26T01:19:17Z
+  Updated: 2025-12-17T19:33:46Z
   Vendor: Poudre Organic
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/CrossoverBody2.jpg?v=1629971305
   - [6m](https://www.littlebambinos.co.nz/products/poudre-organic-bodysuit-indian-tan?variant=39482071318622)
     Availability: Available
-    Price: $14.99 NZD
+    Price: $19.00 NZD
   - [9m](https://www.littlebambinos.co.nz/products/poudre-organic-bodysuit-indian-tan?variant=39482071351390)
     Availability: Available
-    Price: $14.99 NZD
+    Price: $19.00 NZD
 - [POUDRE ORGANIC Ribbed Onesie - Almond Milk](https://www.littlebambinos.co.nz/products/poudre-organic-ribbed-pyjama-onesie-almond-milk): Beautiful one-piece pyjamas for babies in a gorgeous almond rib. The Airelle style opens on the front and crotch for easy changing. Made from 100% cotton from organic farms. Made in Portugal.
-  Updated: 2025-11-26T01:19:18Z
+  Updated: 2025-12-17T19:33:47Z
   Vendor: Poudre Organic
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/POUDRE_ORGANIC_Ribbed_Pyjama_Onesie_Almond_Milk.jpg?v=1738107373
-  Price: $29.99 NZD
+  Price: $37.80 NZD
 - [MOONIE Organic Humming Bear 2.0 - Polar](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-polar): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
   Updated: 2025-12-09T05:21:47Z
   Vendor: MOONIE
@@ -479,19 +486,19 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/02_POLARNATUR.jpg?v=1706577355
   Price: $139.00 NZD
 - [RYLEE + CRU Sweatshirt - Clouds](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-clouds): Head in the clouds... this relaxed fit sweatshirt is made of the cosiest french terry. Featuring an exclusive print, this sweatshirt has rib knit at sleeve openings, neckline and bottom opening. Matching sweatpants available. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:19:19Z
+  Updated: 2025-12-17T19:33:52Z
   Vendor: rylee + cru
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC_AW21_D1_Studio73.jpg?v=1753847031
-  Price: $22.99 NZD
+  Price: $29.00 NZD
 - [RYLEE + CRU Knit Leggings - Sunburst](https://www.littlebambinos.co.nz/products/rylee-cru-knit-leggings-sunburst): Sunny leggings for summer days! Made from a soft knit these cosy leggings feature an elastic waistband for a perfect fit. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:19:20Z
+  Updated: 2025-12-17T19:33:54Z
   Vendor: rylee + cru
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC_AW21_D1_Studio107copy.jpg?v=1753847084
-  Price: $19.99 NZD
+  Price: $25.00 NZD
 - [HONEYSTICKS Colouring Book - An Australian Adventure](https://www.littlebambinos.co.nz/products/honeysticks-colouring-book-an-australian-adventure): The Honeysticks Australian Adventure colouring book takes toddlers on a journey around Australia. The large colouring book helps allow natural creativity in your children. Each book is made from 100% recycled paper 40 big pages for wild and playful scribbling - themed and blank pages.
   Updated: 2025-12-05T04:48:12Z
   Vendor: Honeysticks
@@ -507,12 +514,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Peace2.jpg?v=1633809619
   Price: $14.00 NZD
 - [QUINCY MAE Bringing Home Baby Set - Petite Floral](https://www.littlebambinos.co.nz/products/quincy-mae-bringing-home-baby-set-natural): This Quincy Mae bundle is packaged with love. Using their soft + sweet organic pointelle, this set has everything you need for bringing your new little love home.  Cosy and gentle to the touch, this set has you covered. The welcome home baby set includes 1x Pointelle Wrap top + pant set, 1x Pointelle Baby Bonnet and 1x Pointelle Blanket. Shop Quincy Mae for babies and toddlers.
-  Updated: 2025-11-26T01:19:21Z
+  Updated: 2025-12-17T19:34:15Z
   Vendor: Quincy Mae
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/QMS410AL-NATURAL-1copy.jpg?v=1634618350
-  Price: $55.99 NZD
+  Price: $70.00 NZD
 - [KONGES SLOJD All You Need Bag - Moss Grey](https://www.littlebambinos.co.nz/products/konges-slojd-all-you-need-bag-moss-grey): The new and improved all you need bag from Konges Slojd is waterproof and windproof.Designed to look like no ordinary change bag, it is for the parents who want to use their changing bag for more than diapers, bottles and pacifiers.The all you need bag has two outside pockets, one of them can be used for wet wipes. Inside the bag you will find a removable changing pad to use when your child needs a fresh diaper. There is one large pocket with a zipper, two regular pockets and one holder perfect for a bottle.
   Updated: 2025-11-18T22:39:49Z
   Vendor: Konges slojd
@@ -520,15 +527,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/MumBagGreen1.jpg?v=1636008435
   Price: $199.00 NZD
-- [CONNETIX Rainbow Starter Pack 60pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-starter-pack-60pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The starter pack is a great way to introduce Connetix Magnetic Tiles to your little ones. The pack contains 62 magnetic building tiles in a range of six bright and vibrant colours. Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-13T22:22:31Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/60Rainbow.jpg?v=1697100552
-  Price: $124.99 NZD
 - [CONNETIX Rainbow Mega Pack 212pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-maga-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The mega pack comes with enough tiles to build a city, with vehicles to explore it. It includes 212 magnetic building tiles including hexagonal pieces. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T07:49:26Z
+  Updated: 2025-12-16T03:33:36Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -577,25 +577,18 @@
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-stripe-rib-knot-hat-pistachio?variant=39557080055902)
     Availability: Not Available
     Price: $7.00 NZD
-- [WILSON & FRENCHY Organic Rib Zipsuit - Blush](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-stripe-rib-zipsuit-blush): Made with GOTS certified organic cotton, this adorable short sleeve rib zipsuit with ankle band features a one-way zip opening with protective zip cover. Super soft and comfortable against baby's skin. DETAILS 95% organic cotton, 5% elastane Made in India GOTS certified CARE Machine Washable
-  Updated: 2025-11-26T01:19:22Z
-  Vendor: Wilson & Frenchy
-  Product Type: Zipsuit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/WFS2108-02_1copy.jpg?v=1636672224
-  Price: $17.99 NZD
 - [TINY TROVE Children's Tracksuit - Cinnamon](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-cinnamon): The cutest tracksuits for boys and girls! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D white Tiny Trove logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-08T22:52:01Z
+  Updated: 2025-12-17T19:34:34Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Cinnamon1.jpg?v=1637032565
   - [3-6m](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-cinnamon?variant=39560496808030)
     Availability: Not Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-cinnamon?variant=39560497004638)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [TOSHI Swim Sunhat - Dreamer](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-dreamer): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The Toshi sunhat features a head toggle for adjustable sizing and chin tie to secure the hat. Most importantly, the classic sunhat has a well structured brim that maintains shape when wet.
   Updated: 2025-11-18T22:39:57Z
   Vendor: Toshi
@@ -736,12 +729,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Sheets.jpg?v=1642795324
   Price: $29.00 NZD
 - [SUSUKOSHI Organic Zip Growsuit - Taupe Pointelle](https://www.littlebambinos.co.nz/products/pre-order-susukoshi-organic-zip-growsuit-taupe-pointelle): This lovely zip growsuit is an essential part of baby's wardrobe. Designed to be fitted on the body and cover tiny feet. The two way zip makes it easy to put on and take off with the. Zip from bottom up or top to bottom. The material is light and can be used for both summer and winter.
-  Updated: 2025-11-26T01:19:25Z
+  Updated: 2025-12-17T19:34:38Z
   Vendor: Susukoshi
   Product Type: Growsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ziptaupepointelle1.jpg?v=1642809660
-  Price: $22.99 NZD
+  Price: $29.00 NZD
 - [SUSUKOSHI Headband - Taupe Pointelle](https://www.littlebambinos.co.nz/products/pre-order-susukoshi-headband-taupe-pointelle): Beautiful super stretchy headbands that match perfectly with the full Susukoshi collections. Made from 95% organic cotton, 5% elastane and organic dye. Designed in Australia, ethically made in China. Fully adjustable with great stretch. Free shipping within NZ on orders over $149.
   Updated: 2025-11-27T20:18:42Z
   Vendor: Susukoshi
@@ -855,12 +848,12 @@
     Availability: Not Available
     Price: $9.00 NZD
 - [TOSHI Cardigan - Walnut](https://www.littlebambinos.co.nz/products/toshi-cardigan-walnut): The sumptuously soft Toshi Organic Baby Cardigan is crafted from the finest quality certified 100% organic cotton yarn. Organic certification ensures the cardigan is gentle on your delicate baby, as well as our precious environment. With a textured reverse knit and covered buttons, the styling is classic and yet the feel is contemporary. This cardi is designed to keep precious babies warm and cosy during cooler months.
-  Updated: 2025-11-26T01:19:26Z
+  Updated: 2025-12-17T19:35:01Z
   Vendor: Toshi
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BCA_OAN_WAL_A_Toshicopy.jpg?v=1645410018
-  Price: $27.99 NZD
+  Price: $35.00 NZD
 - [TOSHI Kids Fine Rib Beanie - Storm](https://www.littlebambinos.co.nz/products/toshi-tommy-beanie-storm): This beanie features a classic fine ribbed knit design and a roll up border for versatility of styling. Beanie Tommy is fully lined for enhanced comfort and greater protection from the elements during our cooler months. With a traditional and timeless feel, Beanie Tommy is an ideal winter accessory for all ages and sizes. Toshi Beanie Tommy is crafted from the finest quality certified 100% organic cotton yarn.
   Updated: 2025-11-18T22:40:10Z
   Vendor: Toshi
@@ -920,12 +913,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/PeaceCotSheet1.jpg?v=1645518062
   Price: $34.00 NZD
 - [HUXBABY Vanilla Rib Tee](https://www.littlebambinos.co.nz/products/huxbaby-vanilla-rib-tee): Super cute rib tee with lettuce edge sleeves and hem. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:19:27Z
+  Updated: 2025-12-17T19:35:05Z
   Vendor: HUXBABY
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/HB2451_1copy.jpg?v=1645829973
-  Price: $21.99 NZD
+  Price: $27.00 NZD
 - [JESSICA URLICHS - Welcome to Motherhood Gift Cards](https://www.littlebambinos.co.nz/products/jessica-urlichs-gift-card-6-pack): Introducing the 'Welcome To Motherhood' gift card pack by Jessica Urlichs + Hey Weegs. These are the greeting cards that mother's truly need! From the pregnancy announcement, through baby's first birthday, show up for your mama friend throughout all the major stages of early motherhood, in ways she'll never forget (and take the hassle out of finding different cards for each occasion).
   Updated: 2025-11-24T10:53:38Z
   Vendor: Jessica Urlichs
@@ -948,14 +941,14 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BlueLightViolet2.jpg?v=1648455183
   Price: $25.00 NZD
 - [RYLEE + CRU Girl's Flutter Tee - Luna Flower](https://www.littlebambinos.co.nz/products/rylee-cru-flutter-tee-luna-flower): Extra soft boxy tee with ruffle sleeves and longer back for extra comfort during all hours of play. Baby sizes 0-3m thru 18-24m have snaps at the shoulder for easy changing. Matching leggings available for a complete look. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:19:28Z
+  Updated: 2025-12-17T19:35:39Z
   Vendor: rylee + cru
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlutterTee_LunaFlowercopy.jpg?v=1648667068
-  Price: $14.00 NZD
+  Price: $19.00 NZD
 - [MUSHIE Training Toothbrush - Cambridge Blue](https://www.littlebambinos.co.nz/products/mushie-training-toothbrush-cambridge-blue): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
-  Updated: 2025-11-18T22:40:32Z
+  Updated: 2025-12-17T08:40:33Z
   Vendor: Mushie
   Product Type: Baby Toothbrush
   Availability: Available
@@ -1005,7 +998,7 @@
     Availability: Available
     Price: $18.99 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Cotton Candy](https://www.littlebambinos.co.nz/products/frigg-daisy-pacifier-cotton-candy): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2025-11-18T22:40:32Z
+  Updated: 2025-12-14T18:53:19Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -1041,7 +1034,7 @@
     Availability: Not Available
     Price: $18.99 NZD
 - [CONNETIX Rainbow Replacement Ball Pack](https://www.littlebambinos.co.nz/products/connetix-rainbow-replacement-ball-pack): We know how much time we spend trying to find missing socks, so letâ€™s not worry about locating those runaway balls. The Rainbow Replacement Ball Pack features 12 wooden balls (x2 of each of our classic rainbow colours) â€“ perfect for supplementing or expanding your Rainbow Ball Run fun!
-  Updated: 2025-12-10T21:16:42Z
+  Updated: 2025-12-15T19:29:03Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -1136,12 +1129,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/MumBagWalnut1.jpg?v=1654628628
   Price: $199.00 NZD
 - [SLEEPY DOE Baby Zipsuit - Tea Floral](https://www.littlebambinos.co.nz/products/pre-order-sleepy-doe-baby-sleepsuit-tea-floral): The sweetest baby sleepsuit in Sleepy Doe's Tea Floral print, inspired by English vintage tea dresses. Perfect for bedtime or for day wear. Poppers run down the front and inner leg for easy changing. Made from 100% organic cotton, a very soft interlock fabric for maximum night-time comfort.
-  Updated: 2025-11-26T01:19:29Z
+  Updated: 2025-12-17T19:36:23Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SLEEPY_DOE_Baby_Sleepsuit_Tea_Floral.jpg?v=1738107003
-  Price: $33.99 NZD
+  Price: $42.00 NZD
 - [KONGES SLOJD Dragon Straws - Forest Mix](https://www.littlebambinos.co.nz/products/pre-order-konges-slojd-dragon-straws-forest-mix): Add some fun to your refreshments with these dragon straws. Made from 100% food grade silicone. Kid's reusable straws.
   Updated: 2025-11-18T22:40:41Z
   Vendor: Konges slojd
@@ -1179,14 +1172,14 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/KS3124-10-PACKJUNIORHAIRCLIPSSCALLOP-ROUGEPACK-Extra0.jpg?v=1659431007
   Price: $15.40 NZD
 - [QUINCY MAE Long Sleeve Pocket Tee - Cocoa Stripe](https://www.littlebambinos.co.nz/products/copy-of-quincy-mae-long-sleeve-tee-warm-grey-stripe): Long sleeve baby tee made of our velvety soft organic brushed fabric. All sizes have a snap at the shoulder for easy changing. Shop Quincy Mae for babies and toddlers.
-  Updated: 2025-11-26T01:19:30Z
+  Updated: 2025-12-17T19:36:44Z
   Vendor: Quincy Mae
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/QMAW22D1STUDIO_103.jpg?v=1752023851
-  Price: $14.99 NZD
+  Price: $19.00 NZD
 - [SUSUKOSHI Headband - Clay Speckled](https://www.littlebambinos.co.nz/products/susukoshi-headband-clay-speckled): Beautiful super stretchy headbands that match perfectly with the full Susukoshi collections. Made from 95% organic cotton, 5% elastane and organic dye. Designed in Australia, ethically made in China. Fully adjustable with great stretch. Free shipping within NZ on orders over $100.
-  Updated: 2025-11-18T22:40:47Z
+  Updated: 2025-12-17T02:06:23Z
   Vendor: Susukoshi
   Product Type: Hair Accessories
   Availability: Available
@@ -1231,7 +1224,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ZLSPclaysp1.png?v=1662800512
   Price: $51.99 NZD
 - [TOSHI Flap Cap Baby - Peanut](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Peanut features a tan stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-10T18:43:27Z
+  Updated: 2025-12-18T02:04:12Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -1243,7 +1236,7 @@
     Availability: Available
     Price: $30.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut?variant=39760031252574)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut?variant=39760031285342)
     Availability: Not Available
@@ -1267,7 +1260,7 @@
     Availability: Not Available
     Price: $35.00 NZD
 - [TOSHI Sunhat Claire- Sunny](https://www.littlebambinos.co.nz/products/toshi-sunhat-claire-sunny): The Classic Sunhat Claire is an ideal sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head tie creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear.Â Sunhat Claire is crafted from the finest quality 100% cotton and is fully lined for additional comfort.Â Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â Â
-  Updated: 2025-11-18T22:40:49Z
+  Updated: 2025-12-15T10:46:24Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -1276,7 +1269,7 @@
     Availability: Available
     Price: $35.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-sunhat-claire-sunny?variant=39760033251422)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-sunhat-claire-sunny?variant=39760033284190)
     Availability: Not Available
@@ -1321,23 +1314,23 @@
     Availability: Not Available
     Price: $35.00 NZD
 - [TOSHI Organic S/S Onesie - Cream](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream): This dreamy little baby onesie is created for the ultimate in baby comfort and functionality. Crafted from the finest quality 100% cotton, it is soft and gentle on delicate baby skin. The envelope neckline ensures convenient dressing and press studs assist in smooth nappy changes. The gorgeous cloud print features a classic and calming baby blue skyline and is an original in-house design exclusive to Toshi.
-  Updated: 2025-11-25T20:44:09Z
+  Updated: 2025-12-17T19:36:56Z
   Vendor: Toshi
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/DT_TSS_CRE_A_Toshi2_1080x_cbbb9344-fd60-4e7a-b1ab-a211d78d90d9.webp?v=1729823512
   - [NB](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=41241577521246)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $33.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=39760038297694)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $33.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=39760038330462)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $33.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=39760038363230)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $33.00 NZD
 - [QUINCY MAE Pointelle Baby Bonnet - Blush Floral](https://www.littlebambinos.co.nz/products/quincy-mae-pointelle-baby-bonnet-blush-floral): A beautiful and soft organic cotton pointelle bonnet with ties at neck. Perfect for keeping little heads warm. Shop Quincy Mae. Free shipping on orders over $100.
   Updated: 2025-11-18T22:40:49Z
   Vendor: Quincy Mae
@@ -1354,20 +1347,20 @@
     Availability: Not Available
     Price: $10.00 NZD
 - [TOSHI Singlet Onesie - Cream](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1): This dreamy little baby onesie is created for the ultimate in baby comfort and functionality. Crafted from the finest quality 100% cotton, it is soft and gentle on delicate baby skin. The envelope neckline ensures convenient dressing and press studs assist in smooth nappy changes. The gorgeous cloud print features a classic and calming baby blue skyline and is an original in-house design exclusive to Toshi.
-  Updated: 2025-12-12T09:51:10Z
+  Updated: 2025-12-17T19:36:57Z
   Vendor: Toshi
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/DT_OSI_CRE_A_Toshi.webp?v=1729822794
   - [NB](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1?variant=39760039444574)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $23.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1?variant=39760039116894)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $23.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1?variant=39760039149662)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $23.00 NZD
 - [TOSHI Flap Cap Bambini - Little Diggers](https://www.littlebambinos.co.nz/products/copy-of-toshi-flap-cap-bambini-mandalay): The Toshi Flap Cap Bambini is the ideal baby sunhat. Shading precious babies from the elements is the priority and this flap cap has a contoured neck flap for enhanced sun protection. A head tie creates adjustable sizing and the chin tie secures the cap. Made from the finest quality 100% cotton knit, the baby sunhat is gentle to wear, functional and practical.
   Updated: 2025-11-18T22:40:50Z
   Vendor: Toshi
@@ -1384,12 +1377,12 @@
     Availability: Not Available
     Price: $33.00 NZD
 - [SUSUKOSHI Organic Zip Growsuit L/S - Sage Speckled](https://www.littlebambinos.co.nz/products/susukoshi-organic-zip-growsuit-l-s-sage-speckled): This lovely zip growsuit is an essential part of baby's wardrobe. Designed to be fitted on the body and cover tiny feet. The two way zip makes it easy to put on and take off with the. Zip from bottom up or top to bottom. The material is light and can be used for both summer and winter.
-  Updated: 2025-11-26T01:19:34Z
+  Updated: 2025-12-17T19:37:04Z
   Vendor: Susukoshi
   Product Type: Growsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/zipsagespck1.png?v=1662800996
-  Price: $30.99 NZD
+  Price: $39.00 NZD
 - [TOSHI Swim Sunhat - Beach Bums](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-beach-bums): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The Toshi sunhat features a head toggle for adjustable sizing and chin tie to secure the hat. Most importantly, the classic sunhat has a well structured brim that maintains shape when wet.Â DETAILS Head tie for adjustable sizing Chin toggle to secure hat UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon 20% ElastaneÂ SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
   Updated: 2025-11-18T22:40:51Z
   Vendor: Toshi
@@ -1564,24 +1557,24 @@
     Availability: Not Available
     Price: $36.00 NZD
 - [GROWN Oversized Organic Romper - Marle](https://www.littlebambinos.co.nz/products/oversized-organic-romper-marle): LightweightÂ jersey bodysuitÂ made from GOTS certified organic cotton.Â This bodysuit hasÂ long sleeves, press snaps at the crotch and shoulder seam. This bodysuit has a dropped shoulder and a relaxed and oversized fit. Made fromÂ 100% Organic Cotton. Washing Instructions - Warm gentle machine wash inside out with similar colours, do not soak, bleach or tumble dry. Line dry in shade without delay. Warm iron on reverse side. Do not dry clean.Â Sizing is true to size, seeÂ theÂ sizing page for more information on fit.Â Please refer to theÂ flat layÂ imageÂ for the best colour representation, styled images may have filters.
-  Updated: 2025-11-26T01:19:35Z
+  Updated: 2025-12-17T19:37:23Z
   Vendor: Grown
   Product Type: Romper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/GS22001MARLE-01.png?v=1662500609
-  Price: $25.99 NZD
+  Price: $32.00 NZD
 - [GROWN Pansy Top - Mocha & Marle](https://www.littlebambinos.co.nz/products/pansy-top-mocha-marle): A jacquard knitted top made from 100% Organic Cotton which is GOTS certified. This top has a 'Pansy' jacquard floral design and a rib finish at the neck, straps and hem. The fit is a cropped length. Made from 100% Organic Cotton. Washing Instructions - Warm gentle machine wash inside out with similar colours, do not soak, bleach or tumble dry. Line dry in shade without delay. Warm iron on reverse side. Do not dry clean. Sizing is true to size, see the sizing page for more information on fit. Please refer to the flat lay image for the best colour representation, styled images may have filters.
-  Updated: 2025-11-26T01:19:36Z
+  Updated: 2025-12-17T19:37:29Z
   Vendor: Grown
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/GS22014MOCHAMARLE-01.png?v=1662500806
   - [0-3m](https://www.littlebambinos.co.nz/products/pansy-top-mocha-marle?variant=39968690798686)
     Availability: Available
-    Price: $19.99 NZD
+    Price: $25.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/pansy-top-mocha-marle?variant=39968695255134)
     Availability: Available
-    Price: $19.99 NZD
+    Price: $25.00 NZD
 - [FRIGG Pacifier - Moon - Natural Rubber - Cream](https://www.littlebambinos.co.nz/products/copy-of-frigg-pacifier-moon-natural-rubber-cream-duo): The FRIGG Moon Phase is a pacifier inspired by the Moon in motion. The shifting Moon Phases are reflected on the pacifier shield, and they function as air holes to ventilate babyÃ¢â‚¬â„¢s sensitive skin. Designed and manufactured in Denmark.
   Updated: 2025-11-18T22:41:00Z
   Vendor: Frigg
@@ -1769,13 +1762,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SiliconeSippyCup_ShiftingSand.jpg?v=1667269590
   Price: $29.99 NZD
-- [MUSHIE Silicone Sippy Cup - Soft Lilac](https://www.littlebambinos.co.nz/products/mushie-silicone-sippy-cup-soft-lilac): Start little feeders with a simple and beautiful silicone sippy cup, designed to be comfortably held by tiny hands. As your baby begins the transitions from bottles to cups, Mushie's silicone sippy cup helps develop fine motor skills and independent eating
-  Updated: 2025-11-18T22:41:07Z
-  Vendor: Mushie
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SiliconeSippyCup_SoftLilac.jpg?v=1667269896
-  Price: $29.99 NZD
 - [MUSHIE Training Cup + Straw - Blush](https://www.littlebambinos.co.nz/products/mushie-training-cup-straw-blush): Put a lid on spills and messes with a sophisticated training cup designed for little hands and beautiful homes. Made from 100% food grade silicone, this minimal cup comes with a removable lid and a gentle straw for baby gums and toddler teeth.
   Updated: 2025-11-18T22:41:07Z
   Vendor: Mushie
@@ -1839,13 +1825,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ScreenShot2022-11-01at4.39.07PM.png?v=1667274417
   Price: $29.99 NZD
-- [MUSHIE Muslin Cloth 3 Pack - Blush](https://www.littlebambinos.co.nz/products/copy-of-konges-slojd-muslin-cloth-3-pack-blue-blossom-mist): Versatile muslin cloths in a pack of three. These beautifully soft muslin cloths are perfectly handy for several purposes; when nursing, eating or sleeping. Choose between a variety of prints. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-02T23:41:23Z
-  Vendor: Mushie
-  Product Type: Muslin Cloth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Blush_3pack_MC.jpg?v=1667270035
-  Price: $35.99 NZD
 - [Forget Me Not Journal - To My Grandchild, Latte](https://www.littlebambinos.co.nz/products/forget-me-not-journal-to-my-grandchildren-latte): A completely unique grandparents journal and childhood / baby book By spending a few minutes to record the most precious moments, you can create an heirloom book of baby and childhood memories to your granddaughter or grandson to cherish for a lifetime.Â Suitable to start from any age Benefits of our unique grandparents journal & beautiful gold foil prompt stickers Create the ideal grandparents journal for your own needs â€“ you decide the order of stickers used, which to use, and which arenâ€™t suitable for you at this moment. Start anytime, can be used even before grandchildren come along, by an older person who wants to record their life for their family to remember. Three ribbons, so grandparents can journal to multiple grandchildren or use the journal prompts to the children in one section of the book, and record their lifetime memories in another. Never run out of space while filling in your journal, whether you need three lines or three pages for your memories, the pages are yours to make your own. Leave no blank spaces for prompts you donâ€™t feel like answering. As many photo/memento pages as you like, each page can be used to record baby milestones, use the journal prompts, write letters to your grandchild or grandchildren, free-writing, or for photos. Gender neutral, suitable for either grandparent to use for one grandchild or many Included are 140 prompts across three pages of glossy gold foil stickers and a 200 page journal with delicate dotted lines, space for a dateÂ internal pocket for mementos
   Updated: 2025-11-18T22:41:08Z
   Vendor: Forget Me Not Journals
@@ -1949,7 +1928,7 @@
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Flap Cap Baby - Dove](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Dove features a grey stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-11T18:03:56Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -1961,7 +1940,7 @@
     Availability: Available
     Price: $30.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove?variant=39827690946654)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove?variant=39827690979422)
     Availability: Available
@@ -2021,32 +2000,32 @@
     Availability: Available
     Price: $39.00 NZD
 - [SLEEPY DOE Baby Zipsuit - Starry Night](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-starry-night): Sleepy Doe baby sleepwear, designed to be worn from dusk to dawn. The sweetest baby sleepsuit in a hand drawn Cherry print. Perfect for bedtime or for day wear. Button fastenings run down the front and inner leg for easy changing. Made from 100% organic cotton, a very soft interlock fabric for maximum night-time comfort.
-  Updated: 2025-11-27T09:42:10Z
+  Updated: 2025-12-17T19:38:00Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SLEEPY_DOE_Baby_Sleepsuit_Starry_Night.jpg?v=1738106967
   - [3-6m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-starry-night?variant=39840170049630)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-starry-night?variant=39840170082398)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [SLEEPY DOE Baby Zipsuit - Wildflower](https://www.littlebambinos.co.nz/products/copy-of-sleepy-doe-baby-sleepsuit-starry-night): Sleepy Doe baby sleepwear, designed to be worn from dusk to dawn. The sweetest baby sleepsuit in a hand drawn Cherry print. Perfect for bedtime or for day wear. Button fastenings run down the front and inner leg for easy changing. Made from 100% organic cotton, a very soft interlock fabric for maximum night-time comfort.
-  Updated: 2025-11-27T04:37:20Z
+  Updated: 2025-12-17T19:38:00Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SLEEPY_DOE_Baby_Sleepsuit_Wildflower.jpg?v=1738107110
   - [0-3m](https://www.littlebambinos.co.nz/products/copy-of-sleepy-doe-baby-sleepsuit-starry-night?variant=39840170115166)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/copy-of-sleepy-doe-baby-sleepsuit-starry-night?variant=39840170147934)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/copy-of-sleepy-doe-baby-sleepsuit-starry-night?variant=39840170180702)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [TOSHI Swim Flap Cap - Tea Rose](https://www.littlebambinos.co.nz/products/copy-of-toshi-swim-flap-cap-maya): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-11-18T22:41:15Z
   Vendor: Toshi
@@ -2060,17 +2039,17 @@
     Availability: Available
     Price: $30.00 NZD
 - [GROWN Knitted Singletsuit - Latte](https://www.littlebambinos.co.nz/products/knitted-singletsuit-latte): 100% Organic CottonÂ Lightweight knitted bodysuitÂ made from GOTS-certified organic cotton. This bodysuitÃ‚Â has a fine rib knit all over, chunky straps and press snaps at the crotch. The yarn has a space dye all over in a latte colourway. Washing Instructions - Warm gentle machine wash inside out with similar colours, do not soak, bleach or tumble dry. Line dry in the shade without delay. Warm iron on the reverse side. Do not dry clean.Â Our sizing is true to size, see our sizing page for more information on fit. Please refer to our flat lay image for the best colour representation, styled images may have filters
-  Updated: 2025-11-26T01:19:41Z
+  Updated: 2025-12-17T19:38:05Z
   Vendor: Grown
   Product Type: Singlet Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/GH22002LATTE-01_fa316355-467d-4af7-b151-7f5695b26d58.png?v=1667727476
   - [NB](https://www.littlebambinos.co.nz/products/knitted-singletsuit-latte?variant=39845478006878)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/knitted-singletsuit-latte?variant=39845482365022)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [KONGES SLOJD Dragon Flash Light](https://www.littlebambinos.co.nz/products/copy-of-konges-slojd-dragon-backpack): Flashlight made in 100% silicone. Designed with wings and spikes.
   Updated: 2025-11-24T07:06:06Z
   Vendor: Konges slojd
@@ -2078,50 +2057,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/KS4017-FLASHLIGHTDRAGON-QUARRYBLUE-Extra0.jpg?v=1668124680
   Price: $79.20 NZD
-- [KONGES SLOJD Heart Romper](https://www.littlebambinos.co.nz/products/konges-slojd-heart-romper): Soft and light cotton blouse with a relaxed silhouette and baby lock endings. Designed with elasticated frill cuffs and neckline. Designed with a round frill collar and a flared cut. Features gathered elasticated frill cuffs, elasticated leg openings and snap buttons by the crotch for easy dressing.
-  Updated: 2025-11-26T01:19:43Z
-  Vendor: Konges slojd
-  Product Type: Bodysuits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/KS4093-WOWROMPER-FOILHEART-Extra1.jpg?v=1668124801
-  Price: $26.99 NZD
 - [VEJA Esplar Velcro Nubuck - Steel White](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:19:44Z
+  Updated: 2025-12-17T19:38:18Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/VEJA_RSV132834_lateral.jpg?v=1668229084
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688296542)
     Availability: Available
-    Price: $89.99 NZD
+    Price: $111.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688329310)
     Availability: Available
-    Price: $89.99 NZD
+    Price: $111.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688591454)
     Availability: Available
-    Price: $95.99 NZD
-- [MARMAR COPENHAGEN Bodysuit - Starry Night](https://www.littlebambinos.co.nz/products/marmar-copenhagen-bodysuit-starry-night): Beautifully soft bodysuit with long sleeves. The bodysuit is closed with snap buttons at the crotch for easy changing. This product is certified according to Standard 100 by OEKO-TEXÂ®.The product contains organic cotton. DETAILS 47% Organic Cotton 47% TENCEL Modal 6% Elastane Standard 100 by OEKO-TEX® certified Fine knitted rib Soft, stretchable & flexible quality Supports the body's natural temperature regulation Long-lasting softness, wash after wash High quality that last generation after generation Modal are basic styles, classic, simple and timeless in design, season after season Certified Organic Cotton & TENCEL Modal This product is made of certified Organic Cotton and TENCEL Modal. MarMar Copenhagen's Organic Cotton is made from non-genetically modified plants, without the use of any synthetic fertilizers or pesticides. Organic Cotton helps promote and enhance biodiversity and biological cycles. TENCEL Modal are soft and light cellulosic fibers made by pulp from sustainable wood sources, in an eco-responsible way in Austria. It is produced with Eco Soft technology, in a closed production loop ensuring high recovery rates of chemicals and reducing wastewater- and air emissions significantly. CARE Machine wash 40°C Wash with similar colours and inside out Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-11-26T01:16:16Z
-  Vendor: MarMar Copenhagen
-  Product Type: Bodysuits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/225-109-01-1377.png?v=1669258407
-  Price: $18.99 NZD
+    Price: $119.99 NZD
 - [BY BILLIE Animal advocate tee - Pink](https://www.littlebambinos.co.nz/products/copy-of-by-billie-our-only-home-mango): By Billie Rising Tides X Tess Robinson was designed for days spent in the warm sunshine, by the sparkling ocean, with loved ones. A lightweight cotton fabric, made from 100% cotton.
-  Updated: 2025-12-03T21:03:24Z
+  Updated: 2025-12-17T19:38:23Z
   Vendor: By Billie
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/0V6A1707.jpg?v=1669626461
   - [6-12m](https://www.littlebambinos.co.nz/products/copy-of-by-billie-our-only-home-mango?variant=39862244704350)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/copy-of-by-billie-our-only-home-mango?variant=39862244737118)
     Availability: Not Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/copy-of-by-billie-our-only-home-mango?variant=39862244802654)
     Availability: Not Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
 - [LION + LAMB Wardrobe Divider](https://www.littlebambinos.co.nz/products/lion-lamb-wardrobe-divider): Simplify your growing little ones wardrobe by organising their clothes from newborn right through to 2 years, with our unique laser engraved wooden wardrobe dividers. The fern design is a gorgeous gender neutral gift idea for expecting parents. SET INCLUDES: -7 individual dividers - Easy view size tab at top - Newborn to 24 months MEASUREMENTS:Â 10cm each in diameterÂ NOTE:Â Each divider will vary given their natural materials. Variations may include light or dark coloured areas, knots and other inconsistencies that are present in all natural wood.
   Updated: 2025-11-18T22:41:20Z
   Vendor: Lion + Lamb
@@ -2160,12 +2125,12 @@
     Availability: Not Available
     Price: $49.00 NZD
 - [SLEEPY DOE Baby Zipsuit - Check](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-check): The sweetest baby sleepsuit in Sleepy Doe's Check print. Perfect for bedtime or for day wear styled with a knit. Poppers run down the front and inner leg for easy changing. 100% organic cotton, a very soft interlock fabric for maximum night-time comfort. The sleepwear should have no more than a 5 % shrinkage after a couple of washes. Knitted ethically and printed in the U.K. using water based inks. Sleepy Doe is proudly manufactured in a small U.K. factory run by women. CARE Wash at 30 degrees, but please do not tumble dry.
-  Updated: 2025-11-26T01:19:48Z
+  Updated: 2025-12-17T19:38:27Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SLEEPY_DOE_Baby_Sleepsuit_Check.jpg?v=1738106866
-  Price: $32.99 NZD
+  Price: $41.30 NZD
 - [SLEEPY DOE Womens Pyjama Pant - Winter Star](https://www.littlebambinos.co.nz/products/sleepy-doe-womens-legging-ribbon): A flattering lounge legging for women in a vintage inspired floral. Style with your favourite knit or tee for the comfiest loungewear. A perfect 'at home' legging for any season. Sleepy Doe pyjamas get softer with age. Free shipping within New Zealand on orders over $149.
   Updated: 2025-11-18T22:41:22Z
   Vendor: Sleepy Doe
@@ -2207,17 +2172,17 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/A427A0C1-788F-4E92-9E39-E5895369A809_1445x_c0f0f8bc-5d97-4f70-b474-30b987a11630.jpg?v=1670666354
   Price: $28.00 NZD
 - [VEJA Esplar Leather - Cyprus Emeraude](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:19:49Z
+  Updated: 2025-12-17T19:38:31Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/VEJA_SV0502999C_lateral.jpg?v=1672787604
   - [EU 28](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380728414)
     Availability: Available
-    Price: $95.99 NZD
+    Price: $119.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380761182)
     Availability: Available
-    Price: $95.99 NZD
+    Price: $119.99 NZD
 - [MIMI & LULA Alice Headbands - Gingham Scrunchie](https://www.littlebambinos.co.nz/products/copy-of-mimi-lula-gingham-scrunchie-headband): We believe there's no such thing as too much glitter, especially when it's as practical as this pack of 3 alice bands in lovely metallic shades. Crafted from beautiful sparkling glitter fabric
   Updated: 2025-11-24T09:58:52Z
   Vendor: Mimi & Lula
@@ -2240,12 +2205,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Untitled-1_4d8e5595-c28e-46db-be48-0da4833d2984.jpg?v=1677403274
   Price: $34.30 NZD
 - [RYLEE + CRU Ethan Trouser - Olive](https://www.littlebambinos.co.nz/products/rylee-cru-ethan-trouser-olive): A classic pant with an elastic waist + functional drawstring for the perfect fit. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:19:50Z
+  Updated: 2025-12-17T19:38:40Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC057LLVE-OLIVE-1.jpg?v=1674861148
-  Price: $25.99 NZD
+  Price: $32.00 NZD
 - [RYLEE + CRU Boardshort - Retro Check](https://www.littlebambinos.co.nz/products/rylee-cru-boardshort-retro-check): These soft boardshorts feature an elastic waistband with adjustable drawstring and pockets.All Rylee + Cru swimwear is UPF 50+ so you can stay protected from the sun in style.Featuring our â€˜retro checkâ€™ all over pattern. Care: Machine wash cold. Hang dry.*We recommend washing your Rylee + Cru swimsuits on delicate to help them stay looking their best.Made of 100% Polyester
   Updated: 2025-11-18T22:41:28Z
   Vendor: rylee + cru
@@ -2316,24 +2281,17 @@
     Availability: Not Available
     Price: $20.00 NZD
 - [RYLEE + CRU Knit Legging - Shell Ditsy](https://www.littlebambinos.co.nz/products/rylee-cru-knit-legging-shell-ditsy): Made from a soft knit in a cosy fit these knit leggings feature an elastic waistband for a perfect fit. Featuring the 'little flower' all-over print on butter. Matching pullover available. Shop Rylee + Cru for girls. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:19:51Z
+  Updated: 2025-12-17T19:38:47Z
   Vendor: rylee + cru
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC353LLD-SHELL-DITSY-1.jpg?v=1674863165
   - [3-6m](https://www.littlebambinos.co.nz/products/rylee-cru-knit-legging-shell-ditsy?variant=39901886283870)
     Availability: Available
-    Price: $21.99 NZD
+    Price: $27.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/rylee-cru-knit-legging-shell-ditsy?variant=39901886382174)
     Availability: Available
-    Price: $21.99 NZD
-- [SOLL THE LABEL Ribbed Knotted Headband - Dark Blush](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-knotted-headband-dark-blush): Ribbed essentials for all seasons and occasions, designed with stretch cotton fabric in a range of fashionable neutrals. These everyday, versatile items are perfect to mix and match, pair with our otherÂ collections or simply cute on their own.Â One size.Made of 95% cotton, 5% elastane
-  Updated: 2025-11-18T22:41:29Z
-  Vendor: Sol the Label
-  Product Type: Hair Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Headband.jpg?v=1675747088
-  Price: $10.00 NZD
+    Price: $27.00 NZD
 - [PURE MAMA Belly Oil](https://www.littlebambinos.co.nz/products/pure-mama-belly-oil): Made with high-quality, natural and organic ingredients including Almond, Coconut, Rosehip, Vitamin E and Raspberry seed oils, this belly and body oil has been specifically developed to support the body’s natural growth during pregnancy. + 100% natural and organic ingredients + Deeply hydrates and nourishes skin+ Proven to help reduce the appearance of stretch marks + Eases skin tightness and itching+ Supports collagen production + Rich in antioxidants + Gentle on skin + Vegan and cruelty-free Formulated specifically for pregnant women and is suitable for use on all skin types. Safe to use pre and postpartum. 150ml per bottle. DIRECTIONS FOR USELather up girl. Apply generously to your belly, boobs, and bum twice daily throughout pregnancy from the end of the first trimester. Safe to use from trimester 1-3 and for baby massage. Recommend patch test first SCENTDelicious subtle aroma of coconut and vanilla. INGREDIENTSNatural and organic blend. Prunus Amygdalus Dulcis (Sweet Almond) Oil; Caprylic/Capric Triglyceride (Fractionate Coconut Oil); Persea Gratissima (Avocado) Oil; Simmondsia Chinensis (Jojoba) Seed Oil; Parfum (Natural); Rosa Canina (Rosehip) Fruit Oil*; Tocopheryl Acetate (Vitamin E); Argania (Argan) Spinosa Kernel Oil*; Punica Granatum (Pomegranate) Seed Oil; Rubus Idaeus (Raspberry) Seed Oil; Helianthus Annuus (Sunflower) Seed Oil; Calophyllum Inophyllum (Tamanu) Seed Oil; Rosmarinus Officinalis (Rosemary) Leaf Extract. *Certified organic.
   Updated: 2025-12-12T09:51:11Z
   Vendor: Pure Mama
@@ -2391,32 +2349,32 @@
     Availability: Available
     Price: $29.60 NZD
 - [HUXBABY Rib Legging - Ink](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink): Super cute cotton rib leggingsSoft, elasticised waistband that is gentle on little tummiesSustainably producedSafe AZO free dyes CARE Wash before wear Wash inside out with similar colours Gentle cold machine wash Do not soak, bleach or wring Do not use fabric softener Cool iron on reverse side Line dry in shade Do not tumble dry Do not dry clean
-  Updated: 2025-11-26T01:19:52Z
+  Updated: 2025-12-17T19:39:19Z
   Vendor: HUXBABY
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/HB607NS_1.jpg?v=1676964043
   - [0-3m](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454776414)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454547038)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454579806)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454612574)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454678110)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454710878)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/huxbaby-rib-legging-ink?variant=39921454743646)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [TOSHI Swim Kids Boardshorts Classic - Daintree](https://www.littlebambinos.co.nz/products/rylee-cru-boardshort-palm-trees): DETAILS Chlorine safe, pool & salt water friendly Waist draw cord for adjustable sizing Functional side pockets with mesh lining for efficient water drainage Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
   Updated: 2025-12-12T23:41:59Z
   Vendor: Toshi
@@ -2433,24 +2391,24 @@
     Availability: Available
     Price: $29.00 NZD
 - [RYLEE + CRU Butterfly Top & Bloomer Set](https://www.littlebambinos.co.nz/products/rylee-cru-butterfly-top-bloomer-set): This set has our Butterfly Top with ruffle details at the sleeves and bottom edge with a button and keyhole opening at the back. Paired with our Flutter bloomers for the perfect set!Featuring our 'geo embroidery' all-over pattern on cloud.Care: Machine wash cold. Tumble dry low. Minor shrinkage may occur if tumble dried.Made of 100% Cotton
-  Updated: 2025-11-26T01:19:52Z
+  Updated: 2025-12-17T19:39:23Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC523CLDU-CLOUD-1.jpg?v=1677548398
-  Price: $35.99 NZD
+  Price: $45.00 NZD
 - [GROWN Ribbed Organic Leggings - Pink Salt](https://www.littlebambinos.co.nz/products/grown-ribbed-organic-leggings-pink-salt): 100% Organic CottonÂ Lightweight knittedÃ‚Â rib leggingsÂ made from GOTS certified organic cotton. These leggings have an elasticated waistband.Â Pink salt is a subtle pink shade.Â Washing Instructions - Warm gentle machine wash inside out with similar colours, do not soak, bleach or tumble dry. Line dry in shade without delay. Warm iron on reverse side. Do not dry clean. Our sizing is true to size, see our sizing page for more information on fit. Please refer to our flat lay image for the best colour representation, styled images may have filters
-  Updated: 2025-11-29T07:27:17Z
+  Updated: 2025-12-17T19:39:27Z
   Vendor: Grown
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/IMG_0013_3.png?v=1678264433
   - [NB](https://www.littlebambinos.co.nz/products/grown-ribbed-organic-leggings-pink-salt?variant=39931439841374)
     Availability: Available
-    Price: $19.99 NZD
+    Price: $25.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/grown-ribbed-organic-leggings-pink-salt?variant=39968700268638)
     Availability: Not Available
-    Price: $19.99 NZD
+    Price: $25.00 NZD
 - [FRIGG Pacifier - Rope - Natural Rubber - Cream + Sage](https://www.littlebambinos.co.nz/products/frigg-pacifier-rope-natural-rubber-cream-duo): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
   Updated: 2025-11-18T22:41:36Z
   Vendor: Frigg
@@ -2511,13 +2469,6 @@
   - [Size 2](https://www.littlebambinos.co.nz/products/frigg-fairy-tale-natural-rubber-pacifier-the-ugly-duckling?variant=39941514362974)
     Availability: Available
     Price: $18.99 NZD
-- [LOVE TO DREAM Swaddle Up Original - Dusty Pink](https://www.littlebambinos.co.nz/products/love-to-dream-swaddle-up-original-dusty-pink): Discover the modern twist on swaddling that has led to a "sleep revolution" for infants & parents. The multi-award winning Swaddle Up is the only zip-up swaddle with patented 'wings' that allows your baby to sleep in a more natural Arms U position for true Self-Soothing. Features: 1.0 TOG fabric“ perfect for moderate climates, all seasons Ideal for room temperatures between 20°C and 24°C Unique, patented 'wings' allow a more natural Arms Up sleeping position Arms Up allows true Self-Soothing = more sleep Snug swaddle fit makes your baby feel secure & helps to calm their natural startle reflex Swaddle in seconds, with no breakouts Single layer of fabric to reduce risk of overheating Certified ˜hip-healthy" design allows the recommended flexion for hips & legs Twin zipper for easy nappy changes Safer alternative to loose blankets in the cot Grey colour Fabric content: 93% Cotton, 7% Elastane
-  Updated: 2025-11-26T01:19:56Z
-  Vendor: Love To Dream
-  Product Type: swaddle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Dustypink.jpg?v=1679362731
-  Price: $43.99 NZD
 - [LOVE TO DREAM Sleep Bag - Grey](https://www.littlebambinos.co.nz/products/love-to-dream-sleep-bag-grey): The Love to Dream Sleep Bag Lite is a sleeveless sleep bag for ultimate ventilation in warm temperatures. Made from an ultra-light, 0.2 TOG Nuzzlina fabric a new generation muslin fabric, which is super soft & highly breathable this sleep bag is not only a dream to sleep in, it also reduces the risk of overheating. Features: Made from 100% Nuzzlin fabric ultra-light & ultra-soft cotton 0.2 TOG fabric is light & cool perfect for warmer climates Ideal for room temperatures between 24°C & 27°C A sleeveless design with ultimate ventilation for hot days & nights Twin zipper for easy nappy changes A great alternative to loose blankets Arrow print in grey Easy care Available in 2 sizes: Small (18 months) & Large (36 months). Fire Hazard Information: Caution keep away from heat and flame
   Updated: 2025-11-18T22:41:37Z
   Vendor: Love To Dream
@@ -2531,7 +2482,7 @@
     Availability: Not Available
     Price: $80.00 NZD
 - [CONNETIX Rainbow Square  Pack 42pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-square-pack-40pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-13T18:21:11Z
+  Updated: 2025-12-16T09:00:30Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2565,34 +2516,62 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Blushpacifier.jpg?v=1681702207
   Price: $22.99 NZD
+- [BIBS Glass Bottle Set - Blush (120ml)](https://www.littlebambinos.co.nz/products/bibs-glass-bottle-100ml): The BIBS Supreme pacifier. The drop-shaped nipple promotes a tongue placement and sucking technique where the tongue is flat and presses the pacifier flat against the palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
+  Updated: 2025-12-18T01:53:11Z
+  Vendor: BIBS
+  Product Type: Bottle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/glass-baby-bottle-complete-set-120ml-latex-blush-101379.webp?v=1763518070
+  Price: $32.99 NZD
+- [BIBS Glass Bottle Set - Sage (120ml)](https://www.littlebambinos.co.nz/products/bibs-glass-bottle-set-sage-110ml): The BIBS Supreme pacifier. The drop-shaped nipple promotes a tongue placement and sucking technique where the tongue is flat and presses the pacifier flat against the palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
+  Updated: 2025-12-18T01:53:10Z
+  Vendor: BIBS
+  Product Type: Bottle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/glass-baby-bottle-complete-set-120ml-latex-sage-356848.webp?v=1763517893
+  Price: $32.99 NZD
+- [BIBS Glass Bottle Set - Blush (240ml)](https://www.littlebambinos.co.nz/products/bibs-glass-bottle-set-blush-225ml): The BIBS Supreme pacifier. The drop-shaped nipple promotes a tongue placement and sucking technique where the tongue is flat and presses the pacifier flat against the palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
+  Updated: 2025-12-18T01:53:10Z
+  Vendor: BIBS
+  Product Type: Bottle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/glass-baby-bottle-complete-set-240ml-latex-blush-103353.webp?v=1763517731
+  Price: $37.99 NZD
+- [BIBS Glass Bottle Set - Sage (240ml)](https://www.littlebambinos.co.nz/products/bibs-glass-bottle-set-sage-225ml): The BIBS Supreme pacifier. The drop-shaped nipple promotes a tongue placement and sucking technique where the tongue is flat and presses the pacifier flat against the palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
+  Updated: 2025-12-18T01:53:10Z
+  Vendor: BIBS
+  Product Type: Bottle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/72c2ead2-f3a3-4dcd-bce4-8b220ecc3400.webp?v=1763517561
+  Price: $37.99 NZD
 - [SONNIE Crewneck - Pink](https://www.littlebambinos.co.nz/products/sonnie-crewneck-pink): A classic crewneck sweatshirt cut from 330GSM GOTS certified brushed organic cotton. Ribbed cuff and hem detailing with cursive Sonnie embroidery in natural thread at the chest. Lemon colour way GOTS Certified organic cotton Mid-weight, brushed cotton Embroidered chest logo Relaxed fit Ribbed cuffs and hem Composition: 100% organic cotton- GOTS Certified. Care: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the worldâ€™s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
-  Updated: 2025-11-26T01:19:58Z
+  Updated: 2025-12-17T19:39:42Z
   Vendor: Sonnie
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SonnieCrewPink_Front.png?v=1681792555
-  Price: $43.99 NZD
+  Price: $55.00 NZD
 - [QUINCY MAE Short Sleeve Bodysuit 2 Pack - Clay + Dotty Floral](https://www.littlebambinos.co.nz/products/quincy-mae-short-sleeve-bodysuit-2-pack-clay-dotty-floral): Short sleeved onepiece for your baby in a velvety soft organic brushed jersey knit. Featuring the Quincy Mae gold stripe print. Made from 100% organic cotton. Easy care machine washable.
-  Updated: 2025-11-26T01:19:59Z
+  Updated: 2025-12-17T19:40:12Z
   Vendor: Quincy Mae
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM079TNDF-CLAY-DOTTY-FLOWERS-1.jpg?v=1682549272
-  Price: $22.99 NZD
+  Price: $29.00 NZD
 - [QUINCY MAE Sweatpant - Suns](https://www.littlebambinos.co.nz/products/quincy-mae-sweatpant-suns): Lovely and soft, comfy sweatpants with elastic waistband and functional drawstring. Pairs perfectly with the polka dot fleece sweatshirt! Features a polka dot print on a walnut base. Made from 96% organic cotton, 4% elastane. Shop Quincy Mae. Free shipping on orders over $149 within New Zealand.
-  Updated: 2025-11-26T01:20:00Z
+  Updated: 2025-12-17T19:40:13Z
   Vendor: Quincy Mae
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM026ALBI-APRICOT-1.jpg?v=1682549398
-  Price: $13.99 NZD
+  Price: $18.00 NZD
 - [QUINCY MAE Baby Woven Henry Top - Natural Star](https://www.littlebambinos.co.nz/products/quincy-mae-zion-shirt-pistachio): A boxy fit gauze shirt with button front closure. Pairs perfectly with the woven harem pant. The top features our 'stars' all-over print on natural. Made from 100% organic cotton. Free shipping on orders over $100 within New Zealand.
-  Updated: 2025-11-26T01:20:01Z
+  Updated: 2025-12-17T19:40:13Z
   Vendor: Quincy Mae
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM097AZE-PISTACHIO-1.jpg?v=1682549544
-  Price: $15.99 NZD
+  Price: $20.00 NZD
 - [KONGES SLOJD Silicone Drinking Bottle - Blush](https://www.littlebambinos.co.nz/products/konges-slojd-silicone-drinking-bottle-blush): The Teddy silicone drinking bottle is designed for children aged 4 years and up. With a capacity of 400 ml, this bottle is perfect for keeping your little ones hydrated all day. The silicone material is durable and easy to clean, and the bottle is dishwasher safe.
   Updated: 2025-12-08T22:24:36Z
   Vendor: Konges slojd
@@ -2754,34 +2733,34 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS4853-DIOONESIEWITHBEANIEGOTS-SILVERSTRIPE-Main.jpg?v=1682657457
   Price: $54.99 NZD
 - [SLEEPY DOE Baby Zipsuit - Party Check Pastel](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-party-check-pastel): Sleepy Doe baby sleepwear, designed to be worn from dusk to dawn. The sweetest baby sleepsuit in a hand drawn Cherry print. Perfect for bedtime or for day wear. Button fastenings run down the front and inner leg for easy changing. Made from 100% organic cotton, a very soft interlock fabric for maximum night-time comfort.
-  Updated: 2025-11-25T20:48:01Z
+  Updated: 2025-12-17T19:40:27Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SLEEPY_DOE_Baby_Sleepsuit_Party_Check_Pastel.jpg?v=1738106985
   - [0-3m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-party-check-pastel?variant=39973958844510)
     Availability: Available
-    Price: $32.99 NZD
+    Price: $41.30 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-party-check-pastel?variant=39973958877278)
     Availability: Available
-    Price: $32.99 NZD
+    Price: $41.30 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-party-check-pastel?variant=39973958910046)
     Availability: Available
-    Price: $32.99 NZD
+    Price: $41.30 NZD
 - [BY BILLIE Arco Onesie - Rust](https://www.littlebambinos.co.nz/products/by-billie-arco-onesie-rust): - 100% linen- wrap style with side tie- clip on inside to secure onesie- clasps at bottom for easy changes- loose elastic around leg openings
-  Updated: 2025-11-26T01:20:05Z
+  Updated: 2025-12-17T19:40:31Z
   Vendor: By Billie
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Photo4-5-2023_73502am.jpg?v=1683876200
   - [0-3m](https://www.littlebambinos.co.nz/products/by-billie-arco-onesie-rust?variant=39975812792414)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/by-billie-arco-onesie-rust?variant=39975812825182)
-    Availability: Available
-    Price: $31.99 NZD
+    Availability: Not Available
+    Price: $40.00 NZD
 - [Kiwi Surfers](https://www.littlebambinos.co.nz/products/kiwi-surfers): There are many different ways to ride your local break. Whether charging big or teaching the kids, get ready for a salty escape.
-  Updated: 2025-11-18T22:41:49Z
+  Updated: 2025-12-18T03:59:36Z
   Vendor: As We Are Illustration
   Product Type: Book
   Availability: Available
@@ -2851,12 +2830,12 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sandlsc.jpg?v=1684369538
   Price: $18.99 NZD
 - [GROWN Organic Ribbed Essential Bodysuit - Lilac](https://www.littlebambinos.co.nz/products/organic-ribbed-essential-bodysuit-lilac): 100% Organic Cotton Wide rib knit all over Press snaps at crotch and cross over shoulder detailÂ for easy dressing Made from a cosy and soft yarn
-  Updated: 2025-11-26T01:20:06Z
+  Updated: 2025-12-17T19:40:41Z
   Vendor: Grown
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/IMG_0034_918b7514-a107-44af-b407-3b35817311ac.png?v=1684404401
-  Price: $23.99 NZD
+  Price: $30.00 NZD
 - [MUSHIE Lunch Box - Blush](https://www.littlebambinos.co.nz/products/mushie-lunch-box-blush): The sweetest lunchboxes! Designed with function in mind, our BPA-free plastic lunchbox helps you take meals on the go. Keep foods separate and secure until mealtime with built-in compartments and a tightly sealed lid. The included utensils lock in place and stay clean with the removable divider. What's Included: 1x Lunchbox with 1x Fork & Spoon set Product Details 100% BPA, PVC, Phthalate Free Lid features a tight seal and tab lock closure Container Measurements: 5.79 x 7.32" (147 x 186mm) Capacity: 16.9 oz (500mL) | Large Section: 12.2 oz (360mL) | Small Sections: 5.5 oz (160mL) Dishwasher and microwave safe Made in Denmark Dishwasher Safe
   Updated: 2025-11-18T22:41:51Z
   Vendor: Mushie
@@ -3003,67 +2982,67 @@
     Availability: Available
     Price: $30.00 NZD
 - [TOSHI Organic Cardigan - Andy Cream](https://www.littlebambinos.co.nz/products/toshi-organic-cardigan-andy-cream): The sumptuously soft Toshi Organic Baby Cardigan Andy is crafted from the finest quality certified 100% organic cotton yarn. Organic certification ensures the cardigan is gentle on your delicate baby, as well as our precious environment. A melange yarn offers a level of refinement to this cosy and nurturing Toshi baby accessory. With a textured reverse knit and covered buttons, the styling is classic and yet the feel is contemporary. Cardigan Andy is designed to keep precious babies warm and cosy during our cooler months. The colour of this cardigan is Cream, a gender-neutral wardrobe essential. Combine with Toshi Organic Baby Blanket BowieÂ and Booties MarleyÂ to create a precious and treasured newborn gift. Features - Certified 100% organic cotton yarn- Organic cotton is gentle on delicate baby skin & our precious environment- Handcrafted feel- Beautifully textured melange yarn- Textured reverse knit- Traditional covered buttons- Ribbed knit cuffs- Quality crafting provides lasting durability- Designed in Australia, made in China Composition - Certified 100% Organic Cotton Yarn Washing instructions - Wash before wear- Eco-friendly detergent recommended- Do not bleach- Do not tumble dry- Do not dry clean- Warm iron on reverse side Toshi Apparel Size Chart
-  Updated: 2025-11-26T01:20:07Z
+  Updated: 2025-12-17T19:40:52Z
   Vendor: Toshi
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BCA_OAN_CRE_A_Toshi.jpg?v=1685929814
-  Price: $30.99 NZD
+  Price: $39.00 NZD
 - [TOSHI Organic Cardigan - Andy Ginger](https://www.littlebambinos.co.nz/products/toshi-organic-cardigan-andy-ginger): The sumptuously soft Toshi Organic Baby Cardigan Andy is crafted from the finest quality certified 100% organic cotton yarn. Organic certification ensures the cardigan is gentle on your delicate baby, as well as our precious environment. A melange yarn offers a level of refinement to this cosy and nurturing Toshi baby accessory. With a textured reverse knit and covered buttons, the styling is classic and yet the feel is contemporary. Cardigan Andy is designed to keep precious babies warm and cosy during our cooler months. The colour of this cardigan is Cream, a gender-neutral wardrobe essential. Combine with Toshi Organic Baby Blanket BowieÂ and Booties MarleyÂ to create a precious and treasured newborn gift. Features - Certified 100% organic cotton yarn- Organic cotton is gentle on delicate baby skin & our precious environment- Handcrafted feel- Beautifully textured melange yarn- Textured reverse knit- Traditional covered buttons- Ribbed knit cuffs- Quality crafting provides lasting durability- Designed in Australia, made in China Composition - Certified 100% Organic Cotton Yarn Washing instructions - Wash before wear- Eco-friendly detergent recommended- Do not bleach- Do not tumble dry- Do not dry clean- Warm iron on reverse side Toshi Apparel Size Chart
-  Updated: 2025-12-12T07:46:33Z
+  Updated: 2025-12-17T19:40:53Z
   Vendor: Toshi
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BCA_OAN_GIN_A_Toshi.jpg?v=1685929879
   - [0-3m](https://www.littlebambinos.co.nz/products/toshi-organic-cardigan-andy-ginger?variant=39990588932190)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-organic-cardigan-andy-ginger?variant=39990588997726)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/toshi-organic-cardigan-andy-ginger?variant=39990589030494)
     Availability: Not Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
 - [TOSHI Organic Cardigan - Andy Storm](https://www.littlebambinos.co.nz/products/copy-of-toshi-organic-cardigan-andy-storm): The sumptuously soft Toshi Organic Baby Cardigan Andy is crafted from the finest quality certified 100% organic cotton yarn. Organic certification ensures the cardigan is gentle on your delicate baby, as well as our precious environment. A melange yarn offers a level of refinement to this cosy and nurturing Toshi baby accessory. With a textured reverse knit and covered buttons, the styling is classic and yet the feel is contemporary. Cardigan Andy is designed to keep precious babies warm and cosy during our cooler months. The colour of this cardigan is Cream, a gender-neutral wardrobe essential. Combine with Toshi Organic Baby Blanket BowieÂ and Booties MarleyÂ to create a precious and treasured newborn gift. Features - Certified 100% organic cotton yarn- Organic cotton is gentle on delicate baby skin & our precious environment- Handcrafted feel- Beautifully textured melange yarn- Textured reverse knit- Traditional covered buttons- Ribbed knit cuffs- Quality crafting provides lasting durability- Designed in Australia, made in China Composition - Certified 100% Organic Cotton Yarn Washing instructions - Wash before wear- Eco-friendly detergent recommended- Do not bleach- Do not tumble dry- Do not dry clean- Warm iron on reverse side Toshi Apparel Size Chart
-  Updated: 2025-11-26T01:20:09Z
+  Updated: 2025-12-17T19:40:55Z
   Vendor: Toshi
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BCA_OAN_STM_A_Toshi.jpg?v=1685931848
-  Price: $30.99 NZD
+  Price: $39.00 NZD
 - [TOSHI Bodysuit Long Sleeve Classic - Camilla](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-camilla): Toshi Bodysuit Long Sleeve Classic is created for the ultimate in baby lifestyle comfort and functionality. Crafted from the finest quality 100% cotton, the baby bodysuit is soft and gentle on delicate skin. Toshi Bodysuit Long Sleeve Classic features press studs for ease of nappy change. The covered sleeves and open legs offer trans-seasonal flexibility and layering options for an essential baby wardrobe basic.Toshi Bodysuit Long Sleeve Classic Camilla is offered in an original and exclusive print design and features a classically beautiful floral illustrationStyle Toshi Body Suit with Organic Leggings Andy and Baby Beanie Classic for the ultimate in baby comfort and functionality. Features - Finest quality 100% cotton knit- Original and exclusive Toshi print design- Long sleeves offer enhanced baby comfort- Press studs for ease of nappy change- Ribbed neck and sleeve openings- Quality stitching provides lasting durability- Designed in Australia, made in China Composition - 100% cotton interlock Washing instructions - Wash before wear- Cool gentle machine wash- Eco-friendly detergent recommended- Do not bleach- Do not tumble dry- Warm iron on reverse side Toshi Apparel Size Chart
-  Updated: 2025-11-25T20:48:31Z
+  Updated: 2025-12-17T19:40:55Z
   Vendor: Toshi
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSL_CLA_CML_A_Toshi.jpg?v=1685930001
   - [NB](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-camilla?variant=39990589784158)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-camilla?variant=39990589456478)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-camilla?variant=39990589489246)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-camilla?variant=39990589522014)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [TOSHI Bodysuit Long Sleeve Classic - Lolita](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-lolita): Toshi Bodysuit Long Sleeve Classic is created for the ultimate in baby lifestyle comfort and functionality. Crafted from the finest quality 100% cotton, the baby bodysuit is soft and gentle on delicate skin. Toshi Bodysuit Long Sleeve Classic features press studs for ease of nappy change. The covered sleeves and open legs offer trans-seasonal flexibility and layering options for an essential baby wardrobe basic.Toshi Bodysuit Long Sleeve Classic Camilla is offered in an original and exclusive print design and features a classically beautiful floral illustrationStyle Toshi Body Suit with Organic Leggings Andy and Baby Beanie Classic for the ultimate in baby comfort and functionality. Features - Finest quality 100% cotton knit- Original and exclusive Toshi print design- Long sleeves offer enhanced baby comfort- Press studs for ease of nappy change- Ribbed neck and sleeve openings- Quality stitching provides lasting durability- Designed in Australia, made in China Composition - 100% cotton interlock Washing instructions - Wash before wear- Cool gentle machine wash- Eco-friendly detergent recommended- Do not bleach- Do not tumble dry- Warm iron on reverse side Toshi Apparel Size Chart
-  Updated: 2025-11-26T01:20:10Z
+  Updated: 2025-12-17T19:40:56Z
   Vendor: Toshi
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSL_CLA_LOL_A_Toshi.jpg?v=1685930077
   - [0-3m](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-lolita?variant=39990589882462)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-lolita?variant=39990589915230)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-bodysuit-long-sleeve-classic-lolita?variant=39990589947998)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [TOSHI Organic Beanie - Snowy Blossom](https://www.littlebambinos.co.nz/products/toshi-organic-beanie-snowy-blossom): Toshi Beanie Snowy is crafted from the finest quality certified 100% organic cotton yarn.Â The beautifully textured melange yarn introduces an element of refinement to the beanie. Two cute pom poms are featured for a playful and whimsical look. Full internal lining creates enhanced comfort and greater warmth during our cooler months. Beanie Snowy is an ideal gender-neutral baby accessory.The colour of this beanie is Ginger, an earthy and rustic gender-neutral hue. Certified 100% organic cotton yarn Beautifully textured melange knit Feature pom poms creates a playful feel Ribbed border Gender-neutral styling Fully lined for protection from the elements Quality crafting provides lasting durability Toshi Headwear Size Chart Toshi headwear fit and sizing is variable and dependent on several factors including stretch component, knit tension and varying fabric construction.The following is an approximate sizing suggestion, for optimum fit headwear is best tried on. XXS - Premature to NewbornÂ XS - Newborn to 8 monthsS - 8 months to 2 yearsÂ M - 2 years to small grown upsÂ L - Big kids & grown upsÂ Â
   Updated: 2025-11-18T22:41:53Z
   Vendor: Toshi
@@ -3426,100 +3405,100 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SOC_OAD_RVR_2PK_D_Toshi.jpg?v=1688426738
   Price: $7.99 NZD
 - [RYLEE + CRU Relaxed Tee - Sand Check](https://www.littlebambinos.co.nz/products/rylee-cru-relaxed-tee-sand-check): Relaxed fit basic short sleeve tee made from the softest cotton jersey. Baby sizes 0-3m thru 6-12m have snaps at the shoulder for easy changing. Featuring our 'sand checker' all over print. Care: Machine wash cold. Tumble Dry low. Made of 100% Cotton
-  Updated: 2025-12-09T00:00:02Z
+  Updated: 2025-12-17T19:41:24Z
   Vendor: rylee + cru
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC557ANDC-SAND-CHECK-1.jpg?v=1690153905
   - [12-18m](https://www.littlebambinos.co.nz/products/rylee-cru-relaxed-tee-sand-check?variant=40028202860638)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/rylee-cru-relaxed-tee-sand-check?variant=40028202893406)
     Availability: Not Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-relaxed-tee-sand-check?variant=40028202991710)
     Availability: Not Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [RYLEE + CRU Cinched Jersey Tee - Wavy](https://www.littlebambinos.co.nz/products/rylee-cru-cinched-jersey-tee-wavy): Our new cinched cropped top is the perfect mix of stylish and playful. Featuring an elastic waistline and short sleeves. Featuring our 'waves' all over print on natural. Care: Machine wash cold. Tumble Dry low. Made of 100% Cotton
-  Updated: 2025-11-26T01:20:37Z
+  Updated: 2025-12-17T19:41:25Z
   Vendor: rylee + cru
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC558FLAK-WAVY-1.jpg?v=1690154357
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-cinched-jersey-tee-wavy?variant=40028203221086)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/rylee-cru-cinched-jersey-tee-wavy?variant=40028203253854)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [RYLEE + CRU Long Sleeve Skater Tee - Born To Skate](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-born-to-skate): Loose fit longsleeve tee with neckband and bands at sleeve openings. Baby sizes 0-3m thru 6-12m have snaps at the shoulder for easy changing. Featuring our 'born to skate' graphics on ivory + french blue. Care: Machine wash cold. Tumble dry low. Made of 100% Cotton
-  Updated: 2025-11-26T01:20:39Z
+  Updated: 2025-12-17T19:41:27Z
   Vendor: rylee + cru
   Product Type: Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC267ALAB-IVORY-1.jpg?v=1690154828
   - [6-12m](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-born-to-skate?variant=40028203483230)
     Availability: Available
-    Price: $26.99 NZD
+    Price: $34.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-born-to-skate?variant=40028203581534)
     Availability: Available
-    Price: $26.99 NZD
+    Price: $34.00 NZD
 - [RYLEE + CRU Long Sleeve Skater Tee - Fern Stripe](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-fern-stripe): Loose fit longsleeve tee with neckband and bands at sleeve openings. Baby sizes 0-3m thru 6-12m have snaps at the shoulder for easy changing. Featuring our 'fern stripe' all-over pattern. Care: Machine wash cold. Tumble dry low. Made of 100% Cotton
-  Updated: 2025-12-09T06:57:09Z
+  Updated: 2025-12-17T19:41:27Z
   Vendor: rylee + cru
   Product Type: Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC267RUAL-IVORY-FERN-STRIPE-1.jpg?v=1690155032
   - [6-12m](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-fern-stripe?variant=40028203679838)
     Availability: Available
-    Price: $26.99 NZD
+    Price: $34.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-fern-stripe?variant=40028203778142)
     Availability: Available
-    Price: $26.99 NZD
+    Price: $34.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-long-sleeve-skater-tee-fern-stripe?variant=40028203843678)
     Availability: Not Available
-    Price: $26.99 NZD
+    Price: $34.00 NZD
 - [RYLEE + CRU Classic Hoodie - Happy Vibes](https://www.littlebambinos.co.nz/products/rylee-cru-classic-hoodie-happy-vibes): Relaxed fit hoodie with an elastic waistband in our soft and cozy sweatshirt fabric. Featuring our happy vibes graphic on french blue. Care: Machine wash cold. Tumble Dry low. Made of 60% Cotton, 40% Polyester
-  Updated: 2025-11-26T01:20:41Z
+  Updated: 2025-12-17T19:41:29Z
   Vendor: rylee + cru
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC562FRAN-FRENCH-BLUE-1.jpg?v=1690155168
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-classic-hoodie-happy-vibes?variant=40028204007518)
     Availability: Available
-    Price: $34.99 NZD
+    Price: $44.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/rylee-cru-classic-hoodie-happy-vibes?variant=40028204040286)
     Availability: Available
-    Price: $34.99 NZD
+    Price: $44.00 NZD
   - [8-9y](https://www.littlebambinos.co.nz/products/rylee-cru-classic-hoodie-happy-vibes?variant=40028204105822)
     Availability: Available
-    Price: $34.99 NZD
+    Price: $44.00 NZD
 - [RYLEE + CRU Iris Jumpsuit - Sand Check](https://www.littlebambinos.co.nz/products/rylee-cru-iris-jumpsuit-sand-check): This relaxed cropped jumpsuit has adjustable straps, front pockets, and will be an easy go-to this fall! Featuring our 'sand check' all over pattern on ivory. Care: Machine wash cold. Tumble dry low. Minor shrinkage may occur if tumble dried. Made of 55% Linen, 45% Viscose
-  Updated: 2025-11-26T01:20:42Z
+  Updated: 2025-12-17T19:41:31Z
   Vendor: rylee + cru
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC445ANDC-SAND-CHECK-1.jpg?v=1690155588
-  Price: $42.99 NZD
+  Price: $54.00 NZD
 - [RYLEE + CRU Aspen Sweater - Multi-stripe](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-multi-stripe): The Aspen Sweater features a stripe pattern as well as ribbing at neckline, sleeve openings, and bottom opening. Featuring our multi-stripe' all-over pattern. Care: Machine wash cold. Lay flat to dry. Made of 60% Nylon, 30% Acrylic, 5% Wool, 5% Alpaca
-  Updated: 2025-11-26T06:28:52Z
+  Updated: 2025-12-17T19:41:31Z
   Vendor: rylee + cru
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC181TIST-MULTI-STRIPE-1.jpg?v=1690155662
   - [6-12m](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-multi-stripe?variant=40028204695646)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $53.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-multi-stripe?variant=40028204728414)
     Availability: Not Available
-    Price: $41.99 NZD
+    Price: $53.00 NZD
 - [RYLEE + CRU Knit Sweater - Heathered Spice](https://www.littlebambinos.co.nz/products/rylee-cru-knit-sweater-heathered-spice): Knit sweater for girls. A beautiful knit sweater with billowy sleeves and a cropped silhouette. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:20:44Z
+  Updated: 2025-12-17T19:41:40Z
   Vendor: rylee + cru
   Product Type: Knitwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC406PICE-SPICE-1.jpg?v=1690169497
-  Price: $33.99 NZD
+  Price: $42.00 NZD
 - [HUXBABY Dino 2Pk Socks - Old Slate + Slate](https://www.littlebambinos.co.nz/products/huxbaby-dino-2pk-socks-old-slate-slate): Super soft and cozy 2pk socks with dino pattern Non-slip grips on smaller sizes: 6-12m Safe AZO free dyes Packaged in a 100% recycled LDPE bag
   Updated: 2025-12-11T00:14:38Z
   Vendor: HUXBABY
@@ -3641,27 +3620,27 @@
     Availability: Not Available
     Price: $39.00 NZD
 - [HUXBABY Cloud Bear Tiered Party Dress - Multi](https://www.littlebambinos.co.nz/products/huxbaby-cloud-bear-tiered-party-dress-multi): Tiered rainbow swirl tulle party dress with all over cloud bear gold foil print on tulle Safe AZO free dyes Packaged in a 100% recycled LDPE bag Please allow for slight colour placement variation between garments due to the nature of the gradient print technique
-  Updated: 2025-11-28T01:13:43Z
+  Updated: 2025-12-18T06:27:21Z
   Vendor: HUXBABY
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB103S23_1.jpg?v=1690340943
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-cloud-bear-tiered-party-dress-multi?variant=40029861249118)
-    Availability: Available
-    Price: $39.99 NZD
+    Availability: Not Available
+    Price: $50.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/huxbaby-cloud-bear-tiered-party-dress-multi?variant=40029861314654)
     Availability: Available
-    Price: $39.99 NZD
+    Price: $50.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/huxbaby-cloud-bear-tiered-party-dress-multi?variant=40029861380190)
     Availability: Not Available
-    Price: $39.99 NZD
+    Price: $50.00 NZD
 - [HUXBABY Sunrise T-Shirt - White](https://www.littlebambinos.co.nz/products/huxbaby-sunrise-t-shirt-white): Super soft, premium organic cotton jersey t-shirt with sunrise print Baby sizes have stainless steel snaps at shoulder opening Made from GOTS certified organic cotton Sustainably produced Safe AZO free dyes Packaged in a 100% recycled LDPE bag
-  Updated: 2025-11-26T01:20:47Z
+  Updated: 2025-12-17T19:41:48Z
   Vendor: HUXBABY
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB207S23_1.jpg?v=1690341041
-  Price: $22.99 NZD
+  Price: $29.00 NZD
 - [VIVA LA VULVA Healing Perineal Spray Ready-To-Use](https://www.littlebambinos.co.nz/products/viva-la-vulva-healing-perineal-spray-ready-to-use): Sometimes wiping just isnâ€™t an option post birth and it stings to pee. Letâ€™s face it, itâ€™s FRAGILE AF down there! Your peri wash bottle helps dilute your urine to prevent stinging and infection. We know it looks weird, but honestly, it will be one of your go-to-best-things-ever to take care of down there after baby is born. When toilet paper feels like sandpaper, use your peri wash bottle on your stitches or tears for the first couple of weeks following your birth. Your vagina and perineum are working double-time to repair themselves. Give them a little extra help by using our easy and portable postpartum cleansing peri wash bottle.
   Updated: 2025-11-18T22:42:02Z
   Vendor: Viva La Vulva
@@ -3799,7 +3778,7 @@
     Availability: Available
     Price: $32.00 NZD
 - [TOSHI Swim Baby Nappy - Athena Dusk](https://www.littlebambinos.co.nz/products/toshi-reusable-swim-nappy-athena-dusk): A better choice this summer! This reusable, waterproof and durable swim nappy has multiple press studs for an adjustable fit. Nappy changes are easy and efficient with waterproof press studs and the legs are detailed with a soft elastic to ensure a secure and comfortable fit. Toshi swim nappies are designed to securely hold messy accidents and keep pool water clean all while your minimising environmental impact! Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly.
-  Updated: 2025-11-18T22:42:04Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Swim Nappy
   Availability: Available
@@ -4058,31 +4037,31 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $50.00 NZD
 - [TOSHI Baby Bloomers Athena - Moonlight](https://www.littlebambinos.co.nz/products/toshi-baby-bloomers-athena-moonlight): Toshi Baby Bloomer Athena is crafted from the finest quality 100% cotton. Our bloomers are designed for comfort and mobility during little adventures and moments of vigorous play. The elasticised waist offers ease of dressing and convenient nappy changes. An original and exclusive Toshi print design is featured.
-  Updated: 2025-11-26T01:20:48Z
+  Updated: 2025-12-17T19:41:51Z
   Vendor: Toshi
   Product Type: Bloomers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBL_ATH_MOO_A_Toshi.jpg?v=1691989143
-  Price: $14.99 NZD
+  Price: $19.00 NZD
 - [TOSHI Baby Bloomers Yasmin - Honeysuckle](https://www.littlebambinos.co.nz/products/toshi-baby-bloomers-yasmin-honeysuckle): Toshi Baby Bloomer Athena is crafted from the finest quality 100% cotton. Our bloomers are designed for comfort and mobility during little adventures and moments of vigorous play. The elasticised waist offers ease of dressing and convenient nappy changes. An original and exclusive Toshi print design is featured.
-  Updated: 2025-11-25T20:49:32Z
+  Updated: 2025-12-17T19:41:52Z
   Vendor: Toshi
   Product Type: Bloomers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBL_YAS_HON_A_Toshi.jpg?v=1691989250
   - [3-12m](https://www.littlebambinos.co.nz/products/toshi-baby-bloomers-yasmin-honeysuckle?variant=40039533707358)
     Availability: Available
-    Price: $14.99 NZD
+    Price: $19.00 NZD
   - [1-2y](https://www.littlebambinos.co.nz/products/toshi-baby-bloomers-yasmin-honeysuckle?variant=40039533740126)
     Availability: Available
-    Price: $14.99 NZD
+    Price: $19.00 NZD
 - [TOSHI Baby Bloomers Yasmin - Tamarind](https://www.littlebambinos.co.nz/products/toshi-baby-bloomers-yasmin-tamarind): Toshi Baby Bloomer Athena is crafted from the finest quality 100% cotton. Our bloomers are designed for comfort and mobility during little adventures and moments of vigorous play. The elasticised waist offers ease of dressing and convenient nappy changes. An original and exclusive Toshi print design is featured.
-  Updated: 2025-11-26T01:20:49Z
+  Updated: 2025-12-17T19:41:52Z
   Vendor: Toshi
   Product Type: Bloomers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBL_YAS_TAM_A_Toshi.jpg?v=1691989330
-  Price: $14.00 NZD
+  Price: $19.00 NZD
 - [TOSHI Baby Dress Athena  - Lavender](https://www.littlebambinos.co.nz/products/toshi-baby-dress-athena-lavender): Toshi Baby Dress Athena is crafted from the finest quality 100% cotton. The A-line shape is flattering and comfortable, with space for freedom of movement. A smocked back panel offers adjustable sizing and convenient dressing. Toshi Baby Dress is a beautiful piece, which transitions effortlessly from casual occasions to special celebrations.
   Updated: 2025-11-18T22:42:05Z
   Vendor: Toshi
@@ -4120,72 +4099,65 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $25.00 NZD
 - [TOSHI Baby Romper Athena - Blossom](https://www.littlebambinos.co.nz/products/toshi-baby-romper-athena-blossom): Toshi Baby Romper Athena is crafted from the finest quality 100% cotton. Flattering frills create a pretty, feminine style. Press studs ensure convenient nappy changes. The covered back and shoulders offers greater comfort. Toshi Baby Romper is reminiscent of a bygone era and is the perfect look for an endless summer!Â DETAILSÂ Finest quality 100% cotton Shoulder ties for adjustable sizing & convenient dressing Flattering frills create a pretty style Elasticised back waistband and leg opening for a snug fit Press studs offer ease of nappy change
-  Updated: 2025-11-26T01:20:49Z
+  Updated: 2025-12-17T19:41:56Z
   Vendor: Toshi
   Product Type: Romper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BRO_ATH_BLO_A_Toshi.jpg?v=1691990083
-  Price: $17.99 NZD
+  Price: $22.00 NZD
 - [TOSHI Baby Shorts Athena - Blossom](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-blossom): Toshi Baby Shorts Athena are crafted from the finest quality 100% cotton. The elasticised waist offers ease of dressing and convenient nappy changes. Flattering frills on the leg creates effortlessly pretty styling. Toshi shorts are designed for ease of movement and comfort during playful adventures. DETAILS Elasticised waist for ease of dressing and convenient nappy changes Finest quality 100% cotton Functional and gentle on delicate skin Original and exclusive Toshi print design Quality crafting provides lasting durability
-  Updated: 2025-11-26T01:20:51Z
+  Updated: 2025-12-17T19:42:00Z
   Vendor: Toshi
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSH_ATH_BLO_A_Toshi.jpg?v=1691990555
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-blossom?variant=40190988419166)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-blossom?variant=40039577682014)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
 - [TOSHI Baby Shorts Athena - Lavender](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-lavender): Toshi Baby Shorts Athena are crafted from the finest quality 100% cotton. The elasticised waist offers ease of dressing and convenient nappy changes. Flattering frills on the leg creates effortlessly pretty styling. Toshi shorts are designed for ease of movement and comfort during playful adventures. DETAILS Elasticised waist for ease of dressing and convenient nappy changes Finest quality 100% cotton Functional and gentle on delicate skin Original and exclusive Toshi print design Quality crafting provides lasting durability
-  Updated: 2025-11-26T01:20:52Z
+  Updated: 2025-12-17T19:42:01Z
   Vendor: Toshi
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSH_ATH_LAV_A_Toshi.jpg?v=1691990596
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-lavender?variant=40190988451934)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-lavender?variant=40039577878622)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
 - [TOSHI Baby Shorts Athena - Moonlight](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-moonlight): Toshi Baby Shorts Athena are crafted from the finest quality 100% cotton. The elasticised waist offers ease of dressing and convenient nappy changes. Flattering frills on the leg creates effortlessly pretty styling. Toshi shorts are designed for ease of movement and comfort during playful adventures. DETAILS Elasticised waist for ease of dressing and convenient nappy changes Finest quality 100% cotton Functional and gentle on delicate skin Original and exclusive Toshi print design Quality crafting provides lasting durability
-  Updated: 2025-11-26T01:20:52Z
+  Updated: 2025-12-17T19:42:02Z
   Vendor: Toshi
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSH_ATH_MOO_A_Toshi.jpg?v=1691990667
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-moonlight?variant=40190988484702)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-moonlight?variant=40039577976926)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-athena-moonlight?variant=40039578009694)
     Availability: Available
-    Price: $17.99 NZD
+    Price: $22.00 NZD
 - [TOSHI Baby Shorts Joyride- Robots](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-joyride-robots): Toshi Baby Shorts Joyride are crafted from a quality and durable 100% cotton. The elasticised waist offers ease of dressing and convenient nappy changes. Rolled leg openings create a casual, relaxed lifestyle look. Toshi shorts are designed for comfort and mobility during little adventures and moments of vigorous play. DETAILS Elasticised waist for ease of dressing and convenient nappy changes Finest quality 100% cotton Functional and gentle on delicate skin Original and exclusive Toshi print design Quality crafting provides lasting durability
-  Updated: 2025-11-26T01:20:53Z
+  Updated: 2025-12-17T19:42:03Z
   Vendor: Toshi
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSH_JRD_RBT_A_Toshi.jpg?v=1691990725
-  Price: $14.99 NZD
+  Price: $19.00 NZD
 - [TOSHI Baby Shorts - Indiana](https://www.littlebambinos.co.nz/products/toshi-baby-shorts-indiana): Toshi Baby Shorts Joyride are crafted from a quality and durable 100% cotton. The elasticised waist offers ease of dressing and convenient nappy changes. Rolled leg openings create a casual, relaxed lifestyle look. Toshi shorts are designed for comfort and mobility during little adventures and moments of vigorous play. DETAILS Elasticised waist for ease of dressing and convenient nappy changes Finest quality 100% cotton Functional and gentle on delicate skin Original and exclusive Toshi print design Quality crafting provides lasting durability
-  Updated: 2025-11-26T01:20:54Z
+  Updated: 2025-12-17T19:42:04Z
   Vendor: Toshi
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BSH_PRI_INI_A_Toshi.jpg?v=1691990847
-  Price: $14.99 NZD
-- [TOSHI Knit Dress Short Sleeve - Nina Lavender](https://www.littlebambinos.co.nz/products/toshi-knit-dress-short-sleeve-nina-lavender): Toshi Baby Knit Dress Classic is a delightful baby outfit. The dress is crafted from the finest quality 100% cotton knit. The A-line shape is flattering and functional, creating plenty of space for freedom of movement. Press studs on the shoulder facilitate convenient dressing. Toshi Baby Dress is versatile and transitions effortlessly from casual occasions to special celebrations.Â DETAILSÂ Finest quality 100% cotton knit Press studs on shoulder facilitate convenient dressing Quality crafting provides lasting durability Â
-  Updated: 2025-11-26T01:20:55Z
-  Vendor: Toshi
-  Product Type: Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KDR_SCL_NLA_A_Toshi.jpg?v=1691990970
-  Price: $14.99 NZD
+  Price: $19.00 NZD
 - [TOSHI Baby Bib Bandana Athena - Blossom](https://www.littlebambinos.co.nz/products/toshi-baby-bib-bandana-athena-blossom): Toshi Bib Bandana Athena is crafted from the finest quality 100% cotton. The baby bandana is a cute designer bib and a practical and versatile baby accessory. Absorbent cotton fleece padding on the reverse offers moisture protection. Conveniently located press studs create adjustable sizing. Bib Bandana is functional, gentle on delicate skin and an ideal newborn gift.Â DETAILS Finest quality 100% cotton knit Conveniently located press studs for adjustable sizing Absorbent cotton fleece padding on reverse for moisture protection Functional and gentle on delicate skin Quality crafting provides lasting durability
   Updated: 2025-11-18T22:42:07Z
   Vendor: Toshi
@@ -4208,60 +4180,60 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/STY_BBI_SST_A_Toshi.jpg?v=1691991324
   Price: $25.00 NZD
 - [QUINCY MAE Tiered Jersey Dress](https://www.littlebambinos.co.nz/products/quincy-mae-tiered-jersey-dress): Velvety soft long sleeve dress with aÂ dotty print.Â All sizes have a snap at the shoulder for easy changing. DETAILS Made from 100% certified organic cotton CARE Machine wash cold. Tumble dry low.
-  Updated: 2025-11-26T01:20:56Z
+  Updated: 2025-12-17T19:42:14Z
   Vendor: Quincy Mae
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM336EDER-MAUVE-1.jpg?v=1693279294
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-tiered-jersey-dress?variant=40043352948830)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-tiered-jersey-dress?variant=40043352981598)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
 - [QUINCY MAE Long Sleeve Tee + Bloomer - Fig](https://www.littlebambinos.co.nz/products/quincy-mae-long-sleeve-tee-bloomer-fig): Super cute Quincy Mae Bloomer set
-  Updated: 2025-11-26T01:20:57Z
+  Updated: 2025-12-17T19:42:15Z
   Vendor: Quincy Mae
   Product Type: Bloomers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM050GIFF-FIG-1.jpg?v=1693278600
-  Price: $31.99 NZD
+  Price: $40.00 NZD
 - [QUINCY MAE Lany Dress - Daisy](https://www.littlebambinos.co.nz/products/quincy-mae-lany-dress-daisy): Super cute dress with a frill and button front
-  Updated: 2025-11-26T01:20:57Z
+  Updated: 2025-12-17T19:42:16Z
   Vendor: Quincy Mae
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM464PREV-NATURAL-1.jpg?v=1693278353
-  Price: $31.99 NZD
+  Price: $40.00 NZD
 - [QUINCY MAE Lany Dress - Fig](https://www.littlebambinos.co.nz/products/quincy-mae-lany-dress-fig): Super cute dress with a frill and button front. Pair with matching bloomers
-  Updated: 2025-11-26T01:20:58Z
+  Updated: 2025-12-17T19:42:17Z
   Vendor: Quincy Mae
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM464GIFF-FIG-1.jpg?v=1693278499
-  Price: $31.99 NZD
+  Price: $40.00 NZD
 - [HUXBABY Smile Floral Legging - Dusty Rose](https://www.littlebambinos.co.nz/products/huxbaby-smile-floral-legging-dusty-rose): Flower fun! These gorgeous and super soft leggings are made from premium organic cotton jersey. The soft, elasticised waistband is gentle on little tummies. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T05:31:54Z
+  Updated: 2025-12-17T19:42:19Z
   Vendor: HUXBABY
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB626S23_1.jpg?v=1693189948
   - [0-3m](https://www.littlebambinos.co.nz/products/huxbaby-smile-floral-legging-dusty-rose?variant=40043357405278)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/huxbaby-smile-floral-legging-dusty-rose?variant=40043357438046)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-smile-floral-legging-dusty-rose?variant=40043357470814)
     Availability: Not Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
 - [WILSON & FRENCHY Organic Boyleg Zipsuit - Petit Soleil](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-boyleg-zipsuit-petit-soleil): This organic cotton and elastane blend Zipsuit is comfortable and gentle on your baby's skin. Featuring a full-length front zipper with a protective neck facing zip cover, changing your little one is a breeze. Not only cute, but comfy too! DETAILS Round neckline with concealed zipper for safety, long sleeve with fold over mittens , full length with enclosed feet, one-way zip closure for easy changes, made from GOTS certified organic cotton, sustainably produced, wrapped in a compostable bag. 95% GOTS certified organic cotton, 5 % elastane. CARE: KEEP AWAY FROM HEAT AND FLAME machine washable, Made in India.
-  Updated: 2025-11-26T01:21:00Z
+  Updated: 2025-12-17T19:42:21Z
   Vendor: Wilson & Frenchy
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2321-03_1_1.jpg?v=1693373055
-  Price: $22.99 NZD
+  Price: $29.00 NZD
 - [SONNIE Classic Crew Sock 2-Pack](https://www.littlebambinos.co.nz/products/sonnie-classic-crew-sock-2-pack-1): Two pairs of classic, comfortable kids' crew socks in white A cosy cotton blend with a hint of stretch. Signature Sonnie flag embroidery in navy Ribbed cuffs ensureÂ a secure, comfortable fit Thick cushioned footbed Composition: 78% cotton, 19% polyester, 3% elastane Care: Machine wash cold. Tumble dry low.
   Updated: 2025-12-03T18:09:00Z
   Vendor: Sonnie
@@ -4275,24 +4247,24 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $16.50 NZD
 - [SONNIE Orla Ribbed Bike Shorts - Sunflower](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-sunflower): Soft, comfy, everyday essentials.Â Organic cotton ribbed bike shorts with just enough stretch.Â DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low.Â GOTS (Global Organic Textile Standard) is the worldâ€™s highestÂ certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
-  Updated: 2025-11-26T01:21:01Z
+  Updated: 2025-12-17T19:42:26Z
   Vendor: Sonnie
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SonnieYellowBikePants_Front.png?v=1693976080
-  Price: $26.99 NZD
+  Price: $34.00 NZD
 - [SONNIE Shortie Sweat Shorts - Blueberry](https://www.littlebambinos.co.nz/products/sonnie-shortie-sweat-shorts-blueberry): The Shortie Sweat Shorts are a summer wardrobe staple- shorter than our original Earl Sweat Shorts and cut in a retro sporty shape with contrast cotton piping. Cut in breathable 100% cotton French terry with elastic waist, a functional drawcord and SONNIE embroidery at the leg. Pair with the Blueberry Varsity Crewneck for a matching set. SHORTIE SWEAT SETSave 15% when you purchase as a set. Select your sizes below.
-  Updated: 2025-11-27T20:52:48Z
+  Updated: 2025-12-17T19:42:28Z
   Vendor: Sonnie
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/websitess23-10_600x_4d248368-c571-4e17-b862-9dcbffdcf833.webp?v=1698446447
   - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-shortie-sweat-shorts-blueberry?variant=40044549308510)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-shortie-sweat-shorts-blueberry?variant=40044549341278)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
 - [SONNIE Nylon Sports Shorts](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants): Designed for active kids who love to move, these SONNIE nylon sports pants offer comfort and durability for everyday play and athletic pursuits. The lightweight, breathable fabric keeps little ones cool during workouts and outdoor adventures, while the flexible fit allows unrestricted movement. Easy to care for and built to withstand frequent wear, these pants are a reliable choice for parents seeking quality sportswear that keeps up with their child's energy and enthusiasm.
   Updated: 2025-11-26T23:37:09Z
   Vendor: Little Bambinos NZ
@@ -4301,35 +4273,35 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SONNIE11183_a56645c3-283e-40dd-adf0-806ad0708fbd.jpg?v=1764200152
   Price: $95.00 NZD
 - [GROWN Knitted Tee Bodysuit - Wheat](https://www.littlebambinos.co.nz/products/grown-knitted-tee-bodysuit-wheat): 100% Organic Cotton Lightweight bodysuit made from GOTS-certified organic cotton with an all-over rib knit and a yarn-dyed stripe. This bodysuit has short sleeves and press snaps at the crotch and shoulder seam for easy dressing. Washing Instructions - Warm gentle machine wash inside out with similar colours, do not soak, bleach or tumble dry. Line dry in the shade without delay. Warm iron on the reverse side. Do not dry clean.
-  Updated: 2025-11-27T21:09:58Z
+  Updated: 2025-12-17T19:42:33Z
   Vendor: Grown
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GS23001.png?v=1694572974
   - [NB](https://www.littlebambinos.co.nz/products/grown-knitted-tee-bodysuit-wheat?variant=40044592496734)
     Availability: Available
-    Price: $29.99 NZD
+    Price: $37.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/grown-knitted-tee-bodysuit-wheat?variant=40207931244638)
     Availability: Not Available
-    Price: $29.99 NZD
+    Price: $37.00 NZD
 - [GROWN Knit Top - Cedar](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar): 100% Organic CottonFancy Knit Top made from GOTS certified organic cottonStipe detailCropped length
-  Updated: 2025-11-26T01:21:05Z
+  Updated: 2025-12-17T19:42:34Z
   Vendor: Grown
   Product Type: Topss
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GS23026-01.png?v=1694569529
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar?variant=40044594626654)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar?variant=40207931408478)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar?variant=40207931506782)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar?variant=40207931539550)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
 - [GROWN Ladies Ribbed Bike Shorts - Wheat](https://www.littlebambinos.co.nz/products/grown-ladies-ribbed-bike-shorts-wheat): 100% Organic CottonRib Bike Shorts made from GOTS certified organic cottonMarble Heather yarn detailElasticised waistband
   Updated: 2025-11-18T22:42:10Z
   Vendor: Grown
@@ -4385,57 +4357,57 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $73.00 NZD
 - [SLEEPY DOE Baby Zipsuit Clouds - Yellow](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-clouds-yellow): Sleepy Doe baby sleepwear, designed to be worn from dusk to dawn. The sweetest baby sleepsuit in a hand drawn Cherry print. Perfect for bedtime or for day wear. Button fastenings run down the front and inner leg for easy changing. Made from 100% organic cotton, a very soft interlock fabric for maximum night-time comfort.
-  Updated: 2025-11-26T01:21:06Z
+  Updated: 2025-12-17T19:42:38Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SLEEPY_DOE_Baby_Sleepsuit_Clouds_Yellow.jpg?v=1738107020
-  Price: $44.99 NZD
+  Price: $56.00 NZD
 - [SLEEPY DOE Baby Zipsuit - Pansy](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-pansy): Sleepy Doe baby sleepwear, designed to be worn from dusk to dawn. The sweetest baby sleepsuit in a hand drawn Cherry print. Perfect for bedtime or for day wear. Button fastenings run down the front and inner leg for easy changing. Made from 100% organic cotton, a very soft interlock fabric for maximum night-time comfort.
-  Updated: 2025-11-25T20:50:23Z
+  Updated: 2025-12-17T19:42:39Z
   Vendor: Sleepy Doe
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SleepsuitPansy-2_700x_77baf5c7-5cd9-4c87-833f-870ea8144408.jpg?v=1693265944
   - [0-3m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-pansy?variant=40048165421150)
     Availability: Available
-    Price: $44.99 NZD
+    Price: $56.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-pansy?variant=40048165453918)
     Availability: Available
-    Price: $44.99 NZD
+    Price: $56.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/sleepy-doe-baby-sleepsuit-pansy?variant=40048165486686)
     Availability: Available
-    Price: $44.99 NZD
+    Price: $56.00 NZD
 - [VEJA V10 Velcro - Multico-Swan White](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:21:07Z
+  Updated: 2025-12-17T19:42:41Z
   Vendor: VEJA
   Product Type: Footware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CV0503632C_1_2048x_d8c968e0-9bef-4614-a106-4c86270058ed.webp?v=1718240229
   - [EU 22](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048250880094)
     Availability: Available
-    Price: $89.99 NZD
+    Price: $111.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40928792215646)
     Availability: Available
-    Price: $95.99 NZD
+    Price: $119.99 NZD
 - [VEJA V-12 Velcro Chromefree - White/Multico/Clay](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-12-03T23:06:57Z
+  Updated: 2025-12-17T19:42:42Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_XV0503415C_lateral_3364c3fd-9b1e-4536-b4f1-8b25bf2c1dc5.jpg?v=1718240311
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254320734)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254386270)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254451806)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254550110)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
 - [KONGES SLOJD Baby Bottle with Handle - Lemon](https://www.littlebambinos.co.nz/products/konge-slojd-baby-bottle-with-handle-lemon): Baby bottle designed with a straw and easy grip handle.250 mlDETAILS Tritan polypropylene medical silicone.
   Updated: 2025-11-18T22:42:12Z
   Vendor: Konges slojd
@@ -4458,51 +4430,51 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5898-BASICNEWBORNONESIEGOTS-MAGRANDECERISE-Extra0.jpg?v=1693453272
   Price: $54.99 NZD
 - [KONGES SLOJD Fairy Ballerina Dress - Fairy Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-dress-fairy-cherry): Soft long-sleeved ballerina dress with puff sleeves and a three-layered tulle skirt. Closes with a single mother of pearl button in the back. The dress has snap buttons at the legs for easy dressing up to 18 months
-  Updated: 2025-11-27T03:17:41Z
+  Updated: 2025-12-17T19:42:42Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5975-FAIRYBALLERINADRESS-FAIRYCHERRY-Extra0.jpg?v=1693453684
-  Price: $46.99 NZD
+  Price: $59.00 NZD
 - [KONGES SLOJD Fairy Dress - Fairy Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-cherry): Dress made from 100% polyester with 100% cotton lining
-  Updated: 2025-12-02T11:53:52Z
+  Updated: 2025-12-17T19:42:43Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5976-FAIRYDRESS-FAIRYCHERRY-Extra0.jpg?v=1693453732
   - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-cherry?variant=40054582673502)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [12m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-cherry?variant=40054582345822)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-cherry?variant=40054582378590)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-cherry?variant=40054582411358)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [KONGES SLOJD Fairy Ballerina Skirt - Fairy Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-fairy-cherry): Tulle skirt made in organic cotton and polyester tulle. Features an underskirt and a soft waistband. Designed with foil print and a flared cut.
-  Updated: 2025-12-02T11:53:51Z
+  Updated: 2025-12-17T19:42:44Z
   Vendor: Konges slojd
   Product Type: Skirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5977-FAIRYBALLERINASKIRT-FAIRYCHERRY-Extra1.jpg?v=1693453773
   - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-fairy-cherry?variant=40054583656542)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [12m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-fairy-cherry?variant=40054583689310)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-fairy-cherry?variant=40054583722078)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-fairy-cherry?variant=40054583787614)
     Availability: Not Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-fairy-cherry?variant=40054583820382)
     Availability: Not Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
 - [KONGES SLOJD Pram Chain Dinos - Laurel Oak](https://www.littlebambinos.co.nz/products/konges-slojd-pram-chain-dinos-laurel-oak): Pram chain with 3 dinos80% lambs wool, 20% nylon and recycled polyester. Designed with wooden clips on each side.
   Updated: 2025-11-21T22:18:23Z
   Vendor: Konges slojd
@@ -4526,19 +4498,12 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $24.00 NZD
 - [CONNETIX Pastel Rectangle Pack 24pc](https://www.littlebambinos.co.nz/products/connetix-pastel-rectangle-pack): Spark imagination and creativity with our 24 Piece Pastel Rectangle Pack! Inspire big ideas with multiple connection points and strong magnets as children explore their imagination to create long ramps, car tracks, roads, colourful carparks, towers and houses, plus so much more.
-  Updated: 2025-12-12T07:47:02Z
+  Updated: 2025-12-18T00:54:52Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_24pc-Pastel-Rectangle.jpg?v=1694642889
   Price: $133.99 NZD
-- [CONNETIX Pastel Mini Pack 32pc](https://www.littlebambinos.co.nz/products/connetix-pastel-mini-pack): Designed to encourage hours of creativity, fun and learning through PLAY, children will be inspired to explore colours, shapes and patterns, creating houses, boats, animals, car parks, mandalas and so much more. Showcasing the Connetix signature bevel design and safety-rated to international standards.
-  Updated: 2025-12-13T23:56:28Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/32PastelMini.jpg?v=1694643690
-  Price: $67.99 NZD
 - [Gift Wrapping](https://www.littlebambinos.co.nz/products/gift-wrappin): PLEASE SELECT THE STYLE OF PAPER YOU WOULD LIKE FROM OUR LIST. Wanting your Little Bambino purchase gift wrapped? We have a range adorable wrapping options to choose from. Simply choose your wrapping paper and add to cart. *Please note, ribbon will be included but may look different to what is pictured.If you would like us to include a note, just let us know in the comments what you would like to say. Each note will be on a small tag attached to the gift, please keep messages under 80 characters to ensure it fits.
   Updated: 2025-11-18T22:42:13Z
   Vendor: Little Bambinos NZ
@@ -4580,17 +4545,17 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/mushie-round-bowl-mustard.jpg?v=1697684559
   Price: $23.99 NZD
 - [GROWN Hand Crochet Bodysuit - Mud](https://www.littlebambinos.co.nz/products/grown-hand-crochet-bodysuit-mud): 100% Organic Cotton Hand crochet item Press snaps at crotch Younger model wears size 0, older model wears size 2. Please refer to our flat lay image for the best colour representation, styled images may have filters.
-  Updated: 2025-11-27T20:52:45Z
+  Updated: 2025-12-17T19:42:49Z
   Vendor: Grown
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/mudbodysuit-01.png?v=1698703141
   - [3-6m](https://www.littlebambinos.co.nz/products/grown-hand-crochet-bodysuit-mud?variant=40144662495326)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-hand-crochet-bodysuit-mud?variant=40207933309022)
     Availability: Not Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [GROWN Terry Bucket Hat - Mud Wave](https://www.littlebambinos.co.nz/products/grown-terry-bucket-hat-mud-wave): - 100% COTTON - JACQUARD WEAVE WITH 'Wave' ARTWORK - WITH TASSLE - 574GSM S: 6-12months M: 12-24months L: 2-5years Adults size Please refer to our flat lay image for the best colour representation, styled images may have filters
   Updated: 2025-11-18T22:42:14Z
   Vendor: Grown
@@ -4607,54 +4572,54 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $25.00 NZD
 - [GROWN Wiggle Bike Shorts - Mud](https://www.littlebambinos.co.nz/products/grown-wiggle-bike-shorts-mud): 100% Organic Cotton Jacquard Bike Shorts made from GOTS certified organic cotton 'Wave' Jacquard pattern along the sides and hem edge Elasticated waistband Model wears size 3. Please refer to our flat layÂ image for the best colour representation, styled images may have filters.
-  Updated: 2025-11-26T01:21:14Z
+  Updated: 2025-12-17T19:42:53Z
   Vendor: Grown
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH23010.png?v=1698704118
-  Price: $19.99 NZD
+  Price: $25.00 NZD
 - [RYLEE + CRU Skipper Top - Primrose](https://www.littlebambinos.co.nz/products/rylee-cru-skipper-top-primrose): This square neck cropped woven top is the perfect mix of stylish and playful. Featuring a mock button front and elastic waistline. Featuring our 'primroseÃ¢â‚¬â„¢ all over print on antique. Care: Machine wash cold. Tumble Dry low. Minor shrinkage may occur if tumble dried. Made of 50% Linen, 50% Viscose
-  Updated: 2025-11-25T20:50:38Z
+  Updated: 2025-12-17T19:42:53Z
   Vendor: rylee + cru
   Product Type: Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC405PRIM-PRIMROSE-1.webp?v=1699826574
   - [2-3Y](https://www.littlebambinos.co.nz/products/rylee-cru-skipper-top-primrose?variant=40177047306334)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $43.00 NZD
   - [4-5Y](https://www.littlebambinos.co.nz/products/rylee-cru-skipper-top-primrose?variant=40177047339102)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $43.00 NZD
   - [6-7Y](https://www.littlebambinos.co.nz/products/rylee-cru-skipper-top-primrose?variant=40177047371870)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $43.00 NZD
   - [8-9Y](https://www.littlebambinos.co.nz/products/rylee-cru-skipper-top-primrose?variant=40177047404638)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $43.00 NZD
 - [KONGES SLOJD Chleo Frill Dress - Ma Grande Cerise](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise): Soft tee made in 97 percent organic cotton and 3 percent elastane, with a hint of stretch. Designed with a flared cut and frill details.
-  Updated: 2025-11-25T20:50:38Z
+  Updated: 2025-12-17T19:42:54Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5152-CHLEOFRILLDRESSGOTS-MAGRANDECERISE-Main.jpg?v=1709764586
   - [12m](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise?variant=40208112648286)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise?variant=40208112681054)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise?variant=40208112713822)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise?variant=40208112746590)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise?variant=40208112779358)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-chleo-drill-dress-ma-grande-cerise?variant=40208112812126)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
 - [KONGES SLOJD Play Dough](https://www.littlebambinos.co.nz/products/konges-slojd-play-dough): This organic play dough is available in 5 different Konges Slojd colours.The unique lemon-shaped container can be used over and over again. Good for:- fine motor development- creativity- hand-eye coordination Comes with 5 containers with 65 g play dough. The containers are packed in a reusable cardboard tube. Ingredients: 50% flour, 40% water, 4% calcium, 3% white oil, and 3% salt.
   Updated: 2025-11-18T22:42:15Z
   Vendor: Konges slojd
@@ -4663,35 +4628,35 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5288-PLAYDOUGH-MULTICOLOR-Main.jpg?v=1701227256
   Price: $24.00 NZD
 - [KONGES SLOJD Fairy Dress - Etoile Multi Brazilian Sand](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand): Light two-tier dress with frill details and a large, rounded collar. Designed with three layers. The inside layer is soft cotton, and the two outer layers are crisp tulle. Closes with a single mother of pearl button in the back.
-  Updated: 2025-11-25T20:50:39Z
+  Updated: 2025-12-17T19:42:55Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS6299-FAIRYDRESS-ETOILEMULTIBRAZILIANSAND-Main.jpg?v=1701226963
   - [9M](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208112910430)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [12M](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208112943198)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [18M](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208112975966)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [2Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208113008734)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [3Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208113041502)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [4Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208113074270)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [5-6Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208113107038)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
   - [7-8Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-etoile-multi-brazilian-sand?variant=40208113139806)
     Availability: Available
-    Price: $65.99 NZD
+    Price: $82.00 NZD
 - [KONGES SLOJD All You Need Mini Bag - Black](https://www.littlebambinos.co.nz/products/konges-slojd-all-you-need-mini-bag-black): Our signature all-you-need bag in a handy mini version for all the essentials. Features a practical pocket for wet wipes and a thermo pocket that can hold a bottle.Made from:Shell: 100% polyesterLining: 100% polyesterPadding: 100% polyesterTechnical details:- Water-repellent: 5000 mm- Wind-resistant- BIONIC-FINISH*ECODimensions:H: 13 cm x W: 17 cm x L: 28 cmThis product is OEKO-TEX® STANDARD 100, class 2 certified by DTI Tekstil, DTI 2376-399
   Updated: 2025-11-18T22:42:15Z
   Vendor: Konges slojd
@@ -4707,42 +4672,42 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS6342-BUNNYTEDDYLEDLAMP-CAMEOROSE-Main.jpg?v=1701225932
   Price: $89.00 NZD
 - [KONGES SLOJD Fairy Ballerina Dress - Etoile Multi Brazilian Sand](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-dress-etoile-multi-brazilian-sand): Soft long-sleeved ballerina dress with puff sleeves and a three-layered tulle skirt. Closes with a single mother of pearl button in the back. The dress has snap buttons at the legs for easy dressing up to 18 months
-  Updated: 2025-11-27T03:17:41Z
+  Updated: 2025-12-17T19:42:57Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS6395-FAIRYBALLERINADRESS-ETOILEMULTIBRAZILIANSAND-Main.jpg?v=1701226829
-  Price: $62.99 NZD
+  Price: $79.00 NZD
 - [KONGES SLOJD Fairy Ballerina Skirt - Etoile Multi Brazilian Sand](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-etoile-multi-brazilian-sand): Tulle skirt made in organic cotton and polyester tulle. Features an underskirt and a soft waistband. Designed with foil print and a flared cut.
-  Updated: 2025-12-08T08:39:01Z
+  Updated: 2025-12-17T19:42:57Z
   Vendor: Konges slojd
   Product Type: Skirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS6396-FAIRYBALLERINASKIRT-ETOILEMULTIBRAZILIANSAND-Extra0.jpg?v=1736739452
   - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-etoile-multi-brazilian-sand?variant=40208113860702)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [12m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-etoile-multi-brazilian-sand?variant=40208113893470)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-etoile-multi-brazilian-sand?variant=40208113926238)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [7-8y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-ballerina-skirt-etoile-multi-brazilian-sand?variant=40208114090078)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
 - [KONGES SLOJD Yvonne Fairy Skirt- Coeur Sequins](https://www.littlebambinos.co.nz/products/konges-slojd-yvonne-fairy-skirt-coeur-sequins): Dress made from 100% polyester with 100% cotton lining
-  Updated: 2025-11-27T03:17:40Z
+  Updated: 2025-12-17T19:42:59Z
   Vendor: Konges slojd
   Product Type: Skirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS6408-YVONNESKIRT-COEURSEQUINS-Extra0.jpg?v=1701227620
   - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-yvonne-fairy-skirt-coeur-sequins?variant=40208122642526)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-yvonne-fairy-skirt-coeur-sequins?variant=40208122708062)
     Availability: Not Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
 - [TOSHI Girl's Swim Bell Hat - Secret Garden Lilly](https://www.littlebambinos.co.nz/products/copy-of-toshi-swim-bell-hat-maya): This beautiful baby swim hat is a flattering and feminine bell shape. It features an adjustable head tie and chin tie to secure the hat and create a good fit and a softly frilled border. Most importantly, it well structured brim that maintains shape when wet. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly.
   Updated: 2025-11-18T22:42:15Z
   Vendor: Toshi
@@ -4765,6 +4730,20 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BIBSLoops-Blush_Peach_DuskyLilac3.jpg?v=1702259328
   Price: $22.99 NZD
+- [BIBS Glass Bottle Set - Ivory (120ml)](https://www.littlebambinos.co.nz/products/bibs-glass-bottle-set-ivory-110ml): The BIBS Supreme pacifier. The drop-shaped nipple promotes a tongue placement and sucking technique where the tongue is flat and presses the pacifier flat against the palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
+  Updated: 2025-12-18T01:52:06Z
+  Vendor: BIBS
+  Product Type: Bottle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/glass-baby-bottle-complete-set-120ml-latex-ivory-868007.webp?v=1763516928
+  Price: $32.99 NZD
+- [BIBS Glass Bottle Set - Ivory (240ml)](https://www.littlebambinos.co.nz/products/bibs-glass-bottle-set-ivory-225ml): The BIBS Supreme pacifier. The drop-shaped nipple promotes a tongue placement and sucking technique where the tongue is flat and presses the pacifier flat against the palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
+  Updated: 2025-12-18T01:52:06Z
+  Vendor: BIBS
+  Product Type: Bottle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/glass-baby-bottle-complete-set-240ml-latex-ivory-155700.webp?v=1763516792
+  Price: $37.99 NZD
 - [BIBS Pacifier (Orthodontic) - Couture - Silicone - Ivory + Sage](https://www.littlebambinos.co.nz/products/bibs-couture-orthodontic-pacifier-silicone-ivory-sage): The BIBS Couture pacifier has an anatomically shaped nipple - also known as an orthodontic nipple - which is curved at the top for a natural fit to the baby's palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
   Updated: 2025-11-18T22:42:16Z
   Vendor: BIBS
@@ -4792,87 +4771,52 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/TES1_new.jpg?v=1702263715
   Price: $175.00 NZD
 - [TINY TROVE Tilly Racer Pant - Powder Blue](https://www.littlebambinos.co.nz/products/tiny-trove-tilly-racer-pant-powder-blue): 100% ribbed cotton pants. Relaxed fit with slight drop crotch detail. True to size. Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2025-11-26T01:21:20Z
+  Updated: 2025-12-17T19:43:00Z
   Vendor: Tiny Trove
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/TillyRacerPant-PowderBlue_540x_7103ccfc-2110-427e-b848-30d687adab44.jpg?v=1702265761
-  Price: $43.99 NZD
+  Price: $55.00 NZD
 - [TINY TROVE Tilly Racer Pant - Blush](https://www.littlebambinos.co.nz/products/tiny-trove-tilly-racer-pant-blush): 100% ribbed cotton pants. Relaxed fit with slight drop crotch detail. True to size. Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2025-11-29T06:45:44Z
+  Updated: 2025-12-17T19:43:00Z
   Vendor: Tiny Trove
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/TillyRacerPant-Blush_540x_dc5010e7-fc17-4f8a-8e4d-1fdf55f3eff3.jpg?v=1702265958
   - [4y](https://www.littlebambinos.co.nz/products/tiny-trove-tilly-racer-pant-blush?variant=40228476059742)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/tiny-trove-tilly-racer-pant-blush?variant=40228476092510)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [CONNETIX Pastel Starter Pack 64pc](https://www.littlebambinos.co.nz/products/connetix-pastel-starter-pack-64pc): Discover your inner engineer, artist and designer when you build and create with the Pastel Starter Pack! Featuring a variety of small and large squares, as well as equilateral, isosceles and right-angled triangles in our unique earthy pastel colours, the 64 Piece Pastel Starter Pack offers limitless play potential.
-  Updated: 2025-12-12T07:45:46Z
+  Updated: 2025-12-18T20:33:45Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
-- [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T07:44:56Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
-  Price: $166.99 NZD
-- [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-13T22:01:36Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
-  Price: $142.99 NZD
 - [CONNETIX Pastel Mega Pack 202pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-mega-pack-202pc): Explore a rainbow of pastel delight and let your imagination soar with our 202 Piece Pastel Mega Pack! Featuring all our standard tile shapes in 8 unique earthy pastel colours PLUS two car bases, this pack is the ultimate option to kickstart or grow your magnetic tile collection. Expand the range of colours children know with our hues of rose, berry, peach, mint, emerald, lemon, violet and sapphire. Providing endless possibilities for creativity and learning through PLAY, the Pastel Mega Pack is the perfect option for siblings, family and/or friends to enjoy building MEGA Connetix creations together!
-  Updated: 2025-12-12T07:41:12Z
+  Updated: 2025-12-17T04:20:22Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
   Price: $358.99 NZD
-- [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
-  Updated: 2025-12-12T19:37:39Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelCreative2_1_b61dc548-95de-460a-9d4b-a51631622686.jpg?v=1702936343
-  Price: $202.99 NZD
 - [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-12-12T06:26:06Z
+  Updated: 2025-12-18T21:29:07Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2BasePastelPinkBoxPhotocopy_db4a8a92-f237-410f-87a7-f290604fac12.jpg?v=1702936478
   Price: $70.99 NZD
 - [CONNETIX Pastel Ball Run Expansion Pack 80pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-ball-run-expansion-pack-80pc): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-12-12T07:37:56Z
+  Updated: 2025-12-14T21:15:07Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/80pceExpansion3D_1c17a925-a7bc-4020-8d81-18fa0ba0e27b.jpg?v=1702936631
   Price: $142.99 NZD
-- [CONNETIX Pastel Shape Expansion Pack 48 pc](https://www.littlebambinos.co.nz/products/connetix-pastel-shape-expansion-pack-48-pc): Expand play and learning possibilities with our 48 Piece Pastel Shape Expansion Pack. Featuring a range of exclusive magnetic tile shapes, including large triangles, right-angle triangles, quarter circles, pentagons, trapezoids and rhombi, this pack enhances design and play possibilities with Connetix.
-  Updated: 2025-12-11T02:20:02Z
-  Vendor: Connetix
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_48pc-Pastel-Expansion_4947fee6-0589-4ced-9a05-0061bb2aa495.jpg?v=1702936696
-  Price: $157.99 NZD
-- [CONNETIX 2 Piece Car Pack](https://www.littlebambinos.co.nz/products/connetix-2-piece-car-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The 2 piece Car Pack includes one blue and one yellow car motion base featuring REAL rubber wheels and Connetix's unique bevel design.Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T20:40:16Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Car-Pack-Mockcopy_38d0ef61-221a-4817-acfa-a9e9aa0454ed.jpg?v=1702936774
-  Price: $40.99 NZD
 - [QUINCY MAE Ruffled Onepiece Swimsuit - Natural Suns](https://www.littlebambinos.co.nz/products/quincy-mae-ruffled-onepiece-swimsuit-natural-suns): Our skirted onepiece swimsuit features a ruffle peplum skirt and a button closure at the diaper for easy changing.*All Quincy Mae swimwear is UPF 50+ so you can stay protected from the sun in style.Featuring our 'suns' all over print on natural.Care: Machine wash cold. Hang dry.We recommend washing your Quincy Mae swimsuits on delicate to help them stay looking their best.Made of 92% Nylon, 8% Elanstane
   Updated: 2025-11-18T22:42:17Z
   Vendor: Quincy Mae
@@ -4895,45 +4839,45 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $32.00 NZD
 - [RYLEE + CRU Sweatshirt Surfboard - Seafoam](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam): Head in the clouds... this relaxed fit sweatshirt is made of the cosiest french terry. Featuring an exclusive print, this sweatshirt has rib knit at sleeve openings, neckline and bottom opening. Matching sweatpants available. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:21:23Z
+  Updated: 2025-12-17T19:43:03Z
   Vendor: rylee + cru
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC318KAUH-SEAFOAM-1.jpg?v=1707615861
   - [3-6m](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam?variant=40370880544862)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam?variant=40370880610398)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam?variant=40370880643166)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam?variant=40370880741470)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
 - [RYLEE + CRU Sweatshirt - Palm Check](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-palm-sage-check): Head in the clouds... this relaxed fit sweatshirt is made of the cosiest french terry. Featuring an exclusive print, this sweatshirt has rib knit at sleeve openings, neckline and bottom opening. Matching sweatpants available. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:21:24Z
+  Updated: 2025-12-17T19:43:04Z
   Vendor: rylee + cru
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC318SZAL-SAGE-1.jpg?v=1710281348
   - [12-18m](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-palm-sage-check?variant=40370899550302)
-    Availability: Available
-    Price: $31.99 NZD
+    Availability: Not Available
+    Price: $40.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-palm-sage-check?variant=40370899615838)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-palm-sage-check?variant=40370899681374)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
 - [RYLEE + CRU Boxy Pullover - Hibiscus](https://www.littlebambinos.co.nz/products/rylee-cru-boxy-pullover-daisy): Loose fit crew neck pullover in a soft and cozy sweatshirt fabric. Coordinates perfectly with our 'jogger pants.' Featuring our 'tie dye' all over pattern in shell. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:21:24Z
+  Updated: 2025-12-17T19:43:05Z
   Vendor: rylee + cru
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC280BNIK-HIBISCUS-1.jpg?v=1710279939
-  Price: $31.99 NZD
+  Price: $40.00 NZD
 - [HUXBABY Knit Beanie - T-Rex](https://www.littlebambinos.co.nz/products/huxbaby-knit-beanie-t-rex): Luxuriously thick, premium organic jacquard knit beanie with all over t-rex pattern and pebble pom pomMade from GOTS certified organic cottonSustainably producedSafe AZO free dyesPackaged in a 100% recycled LDPE bag
   Updated: 2025-11-18T22:42:17Z
   Vendor: HUXBABY
@@ -4954,12 +4898,12 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB8241W24_2JOOR.jpg?v=1709002545
   Price: $17.00 NZD
 - [HUXBABY Swim Short - Dino Band](https://www.littlebambinos.co.nz/products/huxbaby-swim-short-dino-band): Fun swim shorts for boys featuring the dino band print. These swimmers have handy front pockets and an adjustable drawstring for a good fit. Made from GRS-certified recycled polyester. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:21:25Z
+  Updated: 2025-12-17T19:43:09Z
   Vendor: HUXBABY
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB7165W24_1.jpg?v=1708997312
-  Price: $22.99 NZD
+  Price: $29.00 NZD
 - [HUXBABY Knit Beanie - Rainbow](https://www.littlebambinos.co.nz/products/huxbaby-knit-beanie-rainbow): Luxuriously thick, super soft rainbow space dye knit beanie and pom pomSustainably producedSafe AZO free dyesPackaged in a 100% recycled LDPE bag
   Updated: 2025-11-18T22:42:18Z
   Vendor: HUXBABY
@@ -4973,12 +4917,12 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $25.00 NZD
 - [HUXBABY Knit Puff Jumper - Rainbow](https://www.littlebambinos.co.nz/products/huxbaby-knit-puff-jumper-rainbow): Luxuriously thick, super soft rainbow space dye puff sleeve knit jumperSustainably producedSafe AZO free dyesPackaged in a 100% recycled LDPE bag
-  Updated: 2025-11-26T01:21:26Z
+  Updated: 2025-12-17T19:43:10Z
   Vendor: HUXBABY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB5087W24_1.jpg?v=1708998743
-  Price: $38.99 NZD
+  Price: $49.00 NZD
 - [HUXBABY Fairy Bunny Ballet Swimsuit](https://www.littlebambinos.co.nz/products/huxbaby-rainbow-bunny-swimsuit): One-piece ballet swimsuit with a fun rainbow stripe print and tulle skirt. Sustainably made from GRS-certified recycled polyester. Free shipping within New Zealand on orders over $149.
   Updated: 2025-12-13T19:08:17Z
   Vendor: HUXBABY
@@ -5001,36 +4945,36 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $39.00 NZD
 - [HUXBABY Pj Set - Magical Unicorn](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn): The sweetest jumper out! This knit is luxuriously thick and a great top layer for colder days. Lovingly made from GOTS certified organic cotton. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-25T20:51:00Z
+  Updated: 2025-12-17T19:43:13Z
   Vendor: HUXBABY
   Product Type: Pj Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB9078W24_1.jpg?v=1709002021
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn?variant=40397377568862)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn?variant=40397377601630)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn?variant=40397377634398)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn?variant=40397377667166)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn?variant=40397377699934)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/huxbaby-pj-set-magical-unicorn?variant=40397377732702)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
 - [GROWN Organic Funfetti Overalls - Splice](https://www.littlebambinos.co.nz/products/organic-funfetti-overalls-splice): 100% Organic Cotton with GOTS certification Medium weight, Jersey knitted overalls Wooden buttons with adjustable straps Made from a cosy and soft yarn Funfetti yarn dyed
-  Updated: 2025-11-26T01:21:28Z
+  Updated: 2025-12-17T19:43:16Z
   Vendor: Grown
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/MILO-04.jpg?v=1735178249
-  Price: $29.99 NZD
+  Price: $38.00 NZD
 - [GROWN Kids Twiggy Tassel Towel - Pistachio](https://www.littlebambinos.co.nz/products/kids-twiggy-tassel-towel-pistachio): 100% COTTON JACQUARD WEAVE, WITH TASSEL KIDS SIZE - 70 X 120CM TWIGGY PATTERN 574GSM
   Updated: 2025-11-18T22:42:19Z
   Vendor: Grown
@@ -5046,65 +4990,58 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/babytowel-01_fa5b2eaa-fe86-4919-aa6f-37c9b351c88b.png?v=1709165822
   Price: $42.00 NZD
 - [GROWN Slub Yarn Fringe Pull Over - Milk](https://www.littlebambinos.co.nz/products/slub-yarn-fringe-pull-over-milk): 100% Organic Cotton with GOTS certification Heavy weight, textured slub yarn with a rib knit all over Dropped shoulder with relaxed and oversized fit Organic Cotton fringe detail under sleeve
-  Updated: 2025-11-26T01:21:28Z
+  Updated: 2025-12-17T19:43:18Z
   Vendor: Grown
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/tasselpullover-01.png?v=1709167136
   - [6-12m](https://www.littlebambinos.co.nz/products/slub-yarn-fringe-pull-over-milk?variant=40414225760350)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [1](https://www.littlebambinos.co.nz/products/slub-yarn-fringe-pull-over-milk?variant=40414143217758)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [5](https://www.littlebambinos.co.nz/products/slub-yarn-fringe-pull-over-milk?variant=40414143348830)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [GROWN Knitted Pleat Skirt](https://www.littlebambinos.co.nz/products/knitted-pleat-skirt): We love this beautiful yellow pleated skirt. Style this with adorable winter layers or lose summer tee. 100% Organic Cotton Permanent pleats knitted into skirt Elastic waistband Made from a cosy and soft yarn
-  Updated: 2025-11-30T22:58:30Z
+  Updated: 2025-12-17T19:43:19Z
   Vendor: Grown
   Product Type: Skirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GrownLittleBambinosSkirt.jpg?v=1725591311
   - [1](https://www.littlebambinos.co.nz/products/knitted-pleat-skirt?variant=40414175985758)
     Availability: Available
-    Price: $29.99 NZD
+    Price: $38.00 NZD
   - [2](https://www.littlebambinos.co.nz/products/knitted-pleat-skirt?variant=42234493141086)
     Availability: Available
     Price: $29.99 NZD
 - [GROWN Colour Block Milano Pant - Dusty Lime](https://www.littlebambinos.co.nz/products/colour-block-milano-pant-pistachio-dusty-lime): 100% Organic Cotton with GOTS certification Milano knit all over Elastic waistband with drawstring Heavy weight and structured knit Colour block design detail
-  Updated: 2025-11-26T01:21:30Z
+  Updated: 2025-12-17T19:43:20Z
   Vendor: Grown
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GrownoutfitsPM.png?v=1735178207
-  Price: $29.99 NZD
+  Price: $38.00 NZD
 - [TINY TROVE Olympia Velcro Sandal - Lilac](https://www.littlebambinos.co.nz/products/tiny-trove-olympia-velcro-sandal-lilac): The ideal shoe for summer. These adjustable velcro sandals with inner padding and flexible soles are comfortable for kids to wear. They have the Signature Tiny Trove logo detailing on the top strap. Pair with socks for extra comfort/warmth.
-  Updated: 2025-11-26T01:21:33Z
+  Updated: 2025-12-17T19:43:22Z
   Vendor: Tiny Trove
   Product Type: Velcro Sandal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/OlympiaVelcroSandal-Lilac_540x_d970a89b-7430-4173-a99f-51eb81662959.webp?v=1709587101
   - [EU 23](https://www.littlebambinos.co.nz/products/tiny-trove-olympia-velcro-sandal-lilac?variant=40439618863198)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/tiny-trove-olympia-velcro-sandal-lilac?variant=40439619027038)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
 - [TINY TROVE Olympia Velcro Sandal - Sage](https://www.littlebambinos.co.nz/products/tiny-trove-olympia-velcro-sandal-sage): The ideal shoe for summer. These adjustable velcro sandals with inner padding and flexible soles are comfortable for kids to wear. They have the Signature Tiny Trove logo detailing on the top strap. Pair with socks for extra comfort/warmth.
-  Updated: 2025-11-26T01:21:34Z
+  Updated: 2025-12-17T19:43:22Z
   Vendor: Tiny Trove
   Product Type: Velcro Sandal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/EBE239A0-4301-44E9-8B1E-E5B2F59A8A14_540x_ed563369-e717-465c-8191-fba2194310b3.webp?v=1709586854
-  Price: $38.99 NZD
-- [BINK Day Bottle - Matcha](https://www.littlebambinos.co.nz/products/bink-day-bottle-matcha): A simple glass water bottle with hydration tracking designed to help you meet your daily recommended water needs. Because your health is your greatest asset, and drinking enough water should never feel abstract or unattainable. Day Bottle empowers you to be more mindful of the water you drink every day. Simple to follow AM/PM time markings on the bottle sleeve help you drink all day. A modern water bottle evolved to your needs. Stays with you, goes anywhere. A day-in, day-out bottle to keep you hydrating and keep you well. Volume: 800ml Dimensions: 22.9cm x 7.6cm x 7.6cm Features: 1. Hydration Tracking: Easy to follow AM/PM time markings on the bottle sleeve keep you drinking throughout the day. 2. Glass + Silicone: The purest way to drink water + a thick protective sleeve. 3. Wide Drinking Mouth: Easy to clean + ice cube compatible. 4. Dishwasher Safe: Wash regularly without concern, no need to remove the sleeve. 5. Comfortable Carry Cap: Perfect grip. Made from polypropylene.
-  Updated: 2025-12-09T23:49:17Z
-  Vendor: BINK
-  Product Type: Water Bottle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BNK-DB-M_zoom_1__44126.jpg?v=1709590498
-  Price: $44.99 NZD
+  Price: $49.00 NZD
 - [BINK Mama Bottle - Matcha](https://www.littlebambinos.co.nz/products/bink-mama-bottle-matcha): "The first-ever water tracking bottle specifically designed to support you through pregnancy and breastfeeding to meet your daily recommended water needs. Keeping properly hydrated matters more in pregnancy and postpartum. Both you and your baby depend on it. The Mama Bottle water bottle shows you the recommended amount of water you should drink each day and provides you a simple, intuitive, timed-guide to help you reach it. It is the simplest, most powerful tool to help you create an optimal environment to nourish and grow your baby, and take care of yourself as well. At times, self-care can be really difficult. The Mama Bottle empowers you to make it easier, and gives you comfort knowing you are getting enough water. Volume: 800mlDimensions: 22.9cm x 7.6cm x 7.6cmFeatures:1. Hydration Tracking (Specifically for Pregnancy & Nursing): Provides a simple, intuitive guide to keep you drinking throughout the day. x 3 refills for pregnancy & x 4 refills for postpartum recovery and nursing.2. Night-mode: For Nursing mamas. Night-mode encourages x 1 additional refill to meet your hydration needs & keep you drinking throughout those night-time feeds.3. Glass + Silicone: The purest way to drink water + a thick protective sleeve.4. Wide Drinking Mouth: Easy to clean + ice cube compatible.5. Dishwasher Safe: Wash regularly without concern, no need to remove the sleeve.6. Comfortable Carry Cap: Perfect grip. Made from polypropylene.
   Updated: 2025-11-18T22:42:19Z
   Vendor: BINK
@@ -5189,43 +5126,43 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS3556-NEWBORNONESIEGOTS-CHERRY-Main.jpg?v=1709672501
   Price: $46.99 NZD
 - [KONGES SLOJD Newborn Onesie - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-newborn-onesie-lemon-1): Soft onesie made in 95 percent organic cotton and 5 percent elastane, with a hint of stretch. Snap buttons along the sides make it easy to wrap the garment around the baby.GOTS certified CARE Washable at 30 degrees C
-  Updated: 2025-11-26T01:21:36Z
+  Updated: 2025-12-17T19:43:24Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS3556-NEWBORNONESIEGOTS-LEMON-Extra0.jpg?v=1709672528
-  Price: $43.99 NZD
+  Price: $55.00 NZD
 - [KONGES SLOJD Newborn Body - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-newborn-body-lemon): Body made of 100% organic GOTS-certified cotton CARE Washable at 30 degrees C
-  Updated: 2025-11-26T01:21:36Z
+  Updated: 2025-12-17T19:43:24Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS3555-NEWBORNBODYGOTS-LEMON-Extra0.jpg?v=1709672430
-  Price: $35.99 NZD
+  Price: $45.00 NZD
 - [KONGES SLOJD Fairy Dress - Blush](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush): Layered tulle dress with glimmering details. Features a soft cotton lining.Made from 100% polyester and lining made with 100% cotton.
-  Updated: 2025-11-25T20:51:12Z
+  Updated: 2025-12-17T19:43:25Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS100255-FAIRYDRESS-BLUSH-Main.jpg?v=1709688718
   - [12M](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush?variant=40442200522846)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [18M](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush?variant=40442200555614)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [2Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush?variant=40442200588382)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [3Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush?variant=40442200621150)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [4Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush?variant=40442200653918)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [5-6Y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-blush?variant=40442200686686)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
 - [VIVA LA VULVA Perineal Massage Oil](https://www.littlebambinos.co.nz/products/viva-la-vulva-perineal-massage-oil): Viva La Vulva hand-blended B( . )( . )B Balm is made from all-natural ingredients in small batches. Apply a small amount after breastfeeding to help soothe and nourish dry and cracked nipples. Hand-blended from all-natural ingredients, Boob Balm is safe for mama and baby too, no need to wash it off before breastfeeding.
   Updated: 2025-11-18T22:42:21Z
   Vendor: Viva La Vulva
@@ -5234,7 +5171,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VLV-Ecom-PerinealOil.jpg?v=1709694470
   Price: $29.95 NZD
 - [VIVA LA VULVA Pink Clay Mask](https://www.littlebambinos.co.nz/products/viva-la-vulva-pink-clay-mask): Viva La Vulva hand-blended B( . )( . )B Balm is made from all-natural ingredients in small batches. Apply a small amount after breastfeeding to help soothe and nourish dry and cracked nipples. Hand-blended from all-natural ingredients, Boob Balm is safe for mama and baby too, no need to wash it off before breastfeeding.
-  Updated: 2025-11-18T22:42:21Z
+  Updated: 2025-12-18T07:27:22Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
@@ -5248,7 +5185,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VLV-Ecom-BellyMask.jpg?v=1709694918
   Price: $22.95 NZD
 - [JENNA BROCKETT First Signs - Animals](https://www.littlebambinos.co.nz/products/jenna-brockett-first-signs-animals): Children understand hundreds of words and concepts before they cancommunicate verbally and teaching them signs gives you and your littleone a helping hand as they connect with the world around them, developinterests, and (most importantly) learn basic language skills. ‘First Signs - animals’ paves the way with some favourite animal signs asa fun extension or introduction to pre-verbal communication skills. You can begin introducing signs as early as you want, but studies show that babies as young as six months old can remember and recognise a sign. By eight months, some children are able to imitate gestures or communicate using simple one-word signs. Keep eye contact as you sign and say the word out loud, using the sign in direct context-sign dog when you see a dog in real life or in a book, and repeat the sign every time you see the animal. It’s very likely that your child will invent their own signs or usevariations of a sign you use. If they do, that’s fine. Keep using the ‘official’ sign and let them do their sign. Using sign language as a pre-verbal aid is all about the joy of communicating, not about them ‘getting it right’. Designed in New Zealand Includes the two official languages of New Zealand - Māori and New Zealand Sign Language Features illustrations and a simple easy to follow description Board book so little hands can easily turn the pages Suitable for ages 6 months and up
-  Updated: 2025-11-18T22:42:21Z
+  Updated: 2025-12-18T09:00:14Z
   Vendor: Jenna Brockett
   Product Type: Book
   Availability: Available
@@ -5520,61 +5457,61 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $59.00 NZD
 - [SONNIE Sonnie Sweatpants - Court Green](https://www.littlebambinos.co.nz/products/sonnie-sonnie-sweatpants-court-green): 100% organic cotton sweatpants cut in super soft brushed-back cotton in a durable and warm 330GSM weight. Features Sonnie cursive embroidery. Court green colour way 100% organic cotton- GOTS certified Side seam pockets Single patch pocket at the backEmbroidery in natural threadElastic waist with drawstringElastic hem GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
-  Updated: 2025-11-26T01:21:37Z
+  Updated: 2025-12-17T19:43:29Z
   Vendor: Sonnie
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/AW23CLEARCUTS-17_600x_b33dbb7f-ffcb-49ca-947c-d7b828468097.webp?v=1710291981
   - [1y](https://www.littlebambinos.co.nz/products/sonnie-sonnie-sweatpants-court-green?variant=40472233312350)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-sonnie-sweatpants-court-green?variant=40472233345118)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [SONNIE Nylon Sports Pants - Ink](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants-ink): Relaxed fit sports pants with an elasticated waist and ankle zip. Cut in 100% nylon fabric and finished with the Sonnie logo embroidered on the front left pocket. Ink colourwayElasticated waistband with functional drawcordSide pockets and back pocketZip at ankleLoose fitSonnie logo embroidery
-  Updated: 2025-11-26T01:21:38Z
+  Updated: 2025-12-17T19:43:30Z
   Vendor: Sonnie
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Sonnie-SS23-nylon-sports-pants3_600x_43ab5c80-ca21-4d20-a401-6de44453b7a7.webp?v=1710292242
-  Price: $54.99 NZD
+  Price: $69.00 NZD
 - [SONNIE Nylon Sports Pants - Pink](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants-pink): Relaxed fit sports pants with an elasticated waist and ankle zip. Cut in 100% nylon fabric and finished with the Sonnie logo embroidered on the front left pocket. DETAILS Ink colourwayElasticated waistband with functional drawcordSide pockets and back pocketZip at ankleLoose fitSonnie logo embroidery
-  Updated: 2025-12-01T20:03:35Z
+  Updated: 2025-12-17T19:43:31Z
   Vendor: Sonnie
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Sonnie-SS23-nylon-sports-pants1_600x_073e7ade-4331-4131-897a-f294790030b7.webp?v=1710292411
   - [1y](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants-pink?variant=40472243732574)
     Availability: Available
-    Price: $95.00 NZD
+    Price: $69.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants-pink?variant=40472243765342)
     Availability: Available
-    Price: $95.00 NZD
+    Price: $69.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants-pink?variant=40472243798110)
     Availability: Available
-    Price: $95.00 NZD
+    Price: $69.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-nylon-sports-pants-pink?variant=40472243830878)
     Availability: Available
-    Price: $95.00 NZD
+    Price: $69.00 NZD
 - [SONNIE Goldie Ribbed Leggings - Pink](https://www.littlebambinos.co.nz/products/sonnie-goldie-ribbed-leggings-pink): Introducing the Goldie Ribbed Leggings in Pink. Crafted from GOTS certified organic cotton, these timeless leggings are as soft as they are durable, ensuring your little one looks and feels their best around the clock. Perfect for everyday wear or special occasions, these leggings are sure to become a wardrobe staple. Luxuriously crafted for lasting comfort and style. Ribbed stretch cottonElastic waist band95% GOTS certified organic cotton5% elastane Care: Machine wash cold. Tumble dry on low heat or line dry.
-  Updated: 2025-11-26T01:21:39Z
+  Updated: 2025-12-17T19:43:32Z
   Vendor: Sonnie
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/AW23CLEARCUTS-28_600x_b4cab1c4-32f5-415e-a891-7bdcc1ce7710.webp?v=1710300415
   - [1y](https://www.littlebambinos.co.nz/products/sonnie-goldie-ribbed-leggings-pink?variant=40472251465822)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-goldie-ribbed-leggings-pink?variant=40472251564126)
     Availability: Available
-    Price: $30.99 NZD
+    Price: $39.00 NZD
 - [QUINCY MAE Pointelle Knit Overalls - Shell](https://www.littlebambinos.co.nz/products/quincy-mae-pointelle-knit-overalls-shell): Pointelle knit overalls in the softest sweater knit with adjustable button straps and a ruffle detail at the sleeve. Shop Quincy Mae for babies and toddlers.
-  Updated: 2025-11-26T01:21:39Z
+  Updated: 2025-12-17T19:43:36Z
   Vendor: Quincy Mae
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM115MBTA-SHELL-1-GREYBG.webp?v=1710386325
-  Price: $31.99 NZD
+  Price: $40.00 NZD
 - [CRYWOLF Pom Pom Beanie - Blush Speckle](https://www.littlebambinos.co.nz/products/crywolf-pom-pom-beanie-blush-speckle): The classic Crywolf Pom Pom Beanie is beautifully soft and warm to wear. Made from organic cotton, this beanie features a speckled knit for a textured winter look. Features: Made from organic cotton Pom pom feature Cable knit Fold-over cuff Rubber CRYWOLF logo patch Super soft 3 sizes available - S, M, L Sizing:S: Suits 52cm circumference headM: Suits 54cm circumference headL: Suits 56cm circumference head
   Updated: 2025-11-18T22:42:24Z
   Vendor: Crywolf
@@ -5588,79 +5525,79 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $29.00 NZD
 - [MUSHIE Chunky Knit Pants - Light Mint](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-light-mint): Made with organic cotton, our Chunky Knit Pants were designed to keep your baby warm. Designed for function and style, the Chunky Knit Pant pairs well with our Chunky Knit Sweater and Chunky Knit Beanie for a complete, cozy, look. Details Made with 100% Organic Cotton Chunky Knit Pants available in 3 sizes ages 0-3 months (baby height 20-24" and 7-12 lbs), 3-6 months (24-27" and 12-18 lbs), and 6-9 months (27-29" and 18-22 lbs) Made in India Care Delicate wash low temperature. Do not bleach, dry clean, or dry. Lay flat to dry, low iron if needed.
-  Updated: 2025-11-30T09:42:37Z
+  Updated: 2025-12-17T19:43:41Z
   Vendor: Mushie
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChunkyKnitClothes.jpg?v=1712876888
   - [0-3m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-light-mint?variant=40618452320350)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $54.99 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-light-mint?variant=40618452353118)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $54.99 NZD
   - [6-9m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-light-mint?variant=40618452385886)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $54.99 NZD
 - [MUSHIE Chunky Knit Pants - Blush](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-blush): Made with organic cotton, our Chunky Knit Pants were designed to keep your baby warm. Designed for function and style, the Chunky Knit Pant pairs well with our Chunky Knit Sweater and Chunky Knit Beanie for a complete, cozy, look. Details Made with 100% Organic Cotton Chunky Knit Pants available in 3 sizes ages 0-3 months (baby height 20-24" and 7-12 lbs), 3-6 months (24-27" and 12-18 lbs), and 6-9 months (27-29" and 18-22 lbs) Made in India Care Delicate wash low temperature. Do not bleach, dry clean, or dry. Lay flat to dry, low iron if needed.
-  Updated: 2025-11-25T20:51:30Z
+  Updated: 2025-12-17T19:43:42Z
   Vendor: Mushie
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/13_1f1025ab-c251-4804-af58-97d5db343895.webp?v=1712876780
   - [0-3m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-blush?variant=40618457497694)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $54.99 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-blush?variant=40618457530462)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $54.99 NZD
   - [6-9m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-blush?variant=40618457563230)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $54.99 NZD
 - [MUSHIE Chunky Knit Pants - Beige](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-pants-beige): Made with organic cotton, our Chunky Knit Pants were designed to keep your baby warm. Designed for function and style, the Chunky Knit Pant pairs well with our Chunky Knit Sweater and Chunky Knit Beanie for a complete, cozy, look. Details Made with 100% Organic Cotton Chunky Knit Pants available in 3 sizes ages 0-3 months (baby height 20-24" and 7-12 lbs), 3-6 months (24-27" and 12-18 lbs), and 6-9 months (27-29" and 18-22 lbs) Made in India Care Delicate wash low temperature. Do not bleach, dry clean, or dry. Lay flat to dry, low iron if needed.
-  Updated: 2025-11-26T01:21:40Z
+  Updated: 2025-12-17T19:43:43Z
   Vendor: Mushie
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pants_knit_Ivory_pants.webp?v=1712876663
-  Price: $43.99 NZD
+  Price: $54.99 NZD
 - [MUSHIE Chunky Knit Sweater - Light Mint](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-light-mint): Made with organic cotton, our Chunky Knit Sweater was designed to keep baby warm. Intentionally oversized for comfort and style, pairs well with our Chunky Knit Pants and Chunky Knit Beanie for a complete, cozy look. Details Made with 100% Organic Cotton Chunky Knit Sweater available in 3 sizes ages 0-3 months (baby height 20-24" and 7-12 lbs), 3-6 months (24-27" and 12-18 lbs), and 6-9 months (27-29" and 18-22 lbs) Made in India Care Delicate wash low temperature. Do not bleach, dry clean, or dry. Lay flat to dry, low iron if needed.
-  Updated: 2025-11-30T09:42:37Z
+  Updated: 2025-12-17T19:43:43Z
   Vendor: Mushie
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChunkyKnitSweater_LightMint.jpg?v=1712877275
   - [0-3m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-light-mint?variant=40618459725918)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $62.99 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-light-mint?variant=40618459758686)
     Availability: Not Available
-    Price: $49.99 NZD
+    Price: $62.99 NZD
   - [6-9m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-light-mint?variant=40618459791454)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $62.99 NZD
 - [MUSHIE Chunky Knit Sweater - Blush](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-blush): Made with organic cotton, our Chunky Knit Sweater was designed to keep baby warm. Intentionally oversized for comfort and style, pairs well with our Chunky Knit Pants and Chunky Knit Beanie for a complete, cozy look. Details Made with 100% Organic Cotton Chunky Knit Sweater available in 3 sizes ages 0-3 months (baby height 20-24" and 7-12 lbs), 3-6 months (24-27" and 12-18 lbs), and 6-9 months (27-29" and 18-22 lbs) Made in India Care Delicate wash low temperature. Do not bleach, dry clean, or dry. Lay flat to dry, low iron if needed.
-  Updated: 2025-11-25T20:51:33Z
+  Updated: 2025-12-17T19:43:44Z
   Vendor: Mushie
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChunkyKnitSweater_Blush.jpg?v=1712877208
   - [0-3m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-blush?variant=40618460971102)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $62.99 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-blush?variant=40618461003870)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $62.99 NZD
   - [6-9m](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-blush?variant=40618461036638)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $62.99 NZD
 - [MUSHIE Chunky Knit Sweater - Beige](https://www.littlebambinos.co.nz/products/mushie-chunky-knit-sweater-beige): Made with organic cotton, our Chunky Knit Sweater was designed to keep baby warm. Intentionally oversized for comfort and style, pairs well with our Chunky Knit Pants and Chunky Knit Beanie for a complete, cozy look. Details Made with 100% Organic Cotton Chunky Knit Sweater available in 3 sizes ages 0-3 months (baby height 20-24" and 7-12 lbs), 3-6 months (24-27" and 12-18 lbs), and 6-9 months (27-29" and 18-22 lbs) Made in India Care Delicate wash low temperature. Do not bleach, dry clean, or dry. Lay flat to dry, low iron if needed.
-  Updated: 2025-11-26T01:21:41Z
+  Updated: 2025-12-17T19:43:45Z
   Vendor: Mushie
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChunkyKnitSweater_Beige.jpg?v=1712877134
-  Price: $49.99 NZD
+  Price: $62.99 NZD
 - [MUSHIE Organic Cotton Hooded Towel - Moss](https://www.littlebambinos.co.nz/products/mushie-organic-cotton-hooded-towel-moss): Versatile muslin cloths in a pack of three. These beautifully soft muslin cloths are perfectly handy for several purposes; when nursing, eating or sleeping. Choose between a variety of prints. Free shipping within New Zealand on orders over $149.
   Updated: 2025-11-18T22:42:25Z
   Vendor: Mushie
@@ -5752,13 +5689,6 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cloud_TrainerSippyCup.webp?v=1712880719
   Price: $26.99 NZD
-- [MUSHIE Trainer Sippy Cup with Handle - Sage](https://www.littlebambinos.co.nz/products/mushie-trainer-sippy-cup-with-handle-sage): Simple and elegant dinnerware cups from Mushie!These elegant cups in various soft colors are easy for your baby to hold. They are made from polypropylene plastic, and they are both dishwasher and microwave safe.Combine the cups with Mushie’s other dinnerware products in matching colors to create a perfect dinnerware set. Mushie Trainer Sippy Cup details Material: PP-plastic Leak-resistant Lid has silicone seal for tight closure Made in Denmark Care instructions for Trainer Sippy Cup Dishwasher and microwave safe
-  Updated: 2025-11-18T22:42:26Z
-  Vendor: Mushie
-  Product Type: Sippy Cup
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Sage_TrainerSippyCup.webp?v=1712880843
-  Price: $26.99 NZD
 - [MUSHIE Food Feeder - Cambridge Blue](https://www.littlebambinos.co.nz/products/mushie-food-feeder-cambridge-blue): Introduce little foodies to new flavors and textures with our fresh food feeders, designed for safe self-feeding. Made from food grade silicone and featuring an easy-to-clean, two-piece design, this feeder will quickly become a favorite for at-home meals or on-the-go snacks. Its handle is easily held by little fingers as the small holes release the right amount of fresh or frozen favorites from its soft but sturdy design. Instructions: Insert fresh or frozen fruit, veggies, or even meat, to feeder. Baby can then chew, suck and taste food with only small pieces coming through holes Details Made with food grade silicone 100% BPA, BPS, PVC, Phthalate free Recommended for ages 6 months+ Measures: 2.5 x 1.8 x 3" (6.3 x 4.5 x 7.6 cm) Made in China Care Dishwasher safe
   Updated: 2025-11-18T22:42:27Z
   Vendor: Mushie
@@ -5809,27 +5739,27 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Tradewinds_SiliconeBabyRattleToy_jpg.webp?v=1712880212
   Price: $25.99 NZD
 - [GRECH & CO Children's Mesh Sneakers - Spice](https://www.littlebambinos.co.nz/products/grech-co-play-shoes-coral-rouge): Lightweight and breathable, these shoes are made for play! You're kids will love these shoes made from an eco friendly mesh and durable wear natural rubber. They have child friendly adjustable velcro straps so are easy to take on and off. Please note they are made from mesh so suitable for warmer weather.
-  Updated: 2025-12-08T22:24:36Z
+  Updated: 2025-12-17T19:43:46Z
   Vendor: Grech & Co
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Play_Shoes-Shoes-GCO2082-Coral_Rouge_1000x1000_ed5590fc-1559-4085-b376-a913f9a8a566.webp?v=1712636572
   - [EU 24](https://www.littlebambinos.co.nz/products/grech-co-play-shoes-coral-rouge?variant=40618547413086)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/grech-co-play-shoes-coral-rouge?variant=40618547445854)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/grech-co-play-shoes-coral-rouge?variant=40618547478622)
     Availability: Available
-    Price: $31.99 NZD
+    Price: $40.00 NZD
 - [SONNIE Varsity Crewneck - Court Green](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-court-green): A classic crewneck sweatshirt cut in a mid-weight 100% cotton French terry. Ribbed cuff and hem detailing with Sonnie varsity chest print. New Court Green colourway Composition: 100% cotton French terry. Care: Machine wash cold. Tumble dry low.
-  Updated: 2025-11-26T01:21:44Z
+  Updated: 2025-12-17T19:43:47Z
   Vendor: Sonnie
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/AW23CLEARCUTS-19_600x_341afbf6-9cf8-4c03-84c0-5ffd863fceb1.webp?v=1712706934
-  Price: $46.99 NZD
+  Price: $59.00 NZD
 - [BUNNIE CADDIE - Black](https://www.littlebambinos.co.nz/products/bunnie-caddie-black): Boasting neutral tones and elegant vibrant shades, our Bunnie Caddie has a luxurious look and feel and will double as a stylish nursery decor item. Designed with the finer details honed to perfection every feature of your caddie has been carefully considered for optimum style and functionality. The Bunnie Caddie is made from premium felt fabric that provides a sturdy base and sectional caddie, leather trim and metal hardware for a sleek look, plus a leather strap for durability and ease of transport. Each bag will be shipped in a dust-proof bag that can double as an everyday tote. Tan Leather detailing on the bottom, side as well as handles for durability Nine functional pockets Four removable dividers that can be used to support and organise your products Larger Leather pocket with magnetic closure Black Matt Hardware Two-tone body strap Size 41cm L x 32cm D x 21cm H Warning: Intended for storage only. Do not allow children to play with it
   Updated: 2025-11-18T22:42:27Z
   Vendor: Bunny Caddie
@@ -5877,13 +5807,6 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS4863-BABYWATERRING-MULTIHEARTS-Extra0_f1deba8e-6f1e-4da2-b2ec-61b477eb01a9.jpg?v=1713239428
   Price: $99.00 NZD
-- [KONGES SLOJD Large Shell Pool - Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-large-shell-pool-cherry): The large wading pool for kids is made for stylish splashing and paddling fun on sunny warm days. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-08T03:30:03Z
-  Vendor: Konges slojd
-  Product Type: Pool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS4865-LARGESHELLPOOLTRANSPARENT-MONGRANDCHERRY-Main.jpg?v=1713239481
-  Price: $199.00 NZD
 - [KONGES SLOJD Small Shell Pool - Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-small-shell-pool-cherry): The large wading pool for kids is made for stylish splashing and paddling fun on sunny warm days. Free shipping within New Zealand on orders over $149.
   Updated: 2025-11-18T22:42:30Z
   Vendor: Konges slojd
@@ -5906,51 +5829,51 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS4867-SMALLSHELLPOOLTRANSPARENT-MULTIHEARTS-Extra0.jpg?v=1713239574
   Price: $135.00 NZD
 - [TINY TROVE Woodie 3D Logo Tracksuit - Wine](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-wine): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D logo detail on sweater & pant and hand-stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only. Photos by @ohmycookies_
-  Updated: 2025-11-26T01:21:58Z
+  Updated: 2025-12-17T19:44:01Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WoodieTracksuit-Wine2_540x_a2c556b6-bcc8-43c5-a9a1-cb19d645b7ad.webp?v=1713400337
-  Price: $63.99 NZD
+  Price: $80.00 NZD
 - [TINY TROVE Woodie 3D Logo Tracksuit - Mocha](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-mocha): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D logo detail on sweater & pant and hand-stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only. Photos by @ohmycookies_
-  Updated: 2025-11-26T20:38:28Z
+  Updated: 2025-12-17T19:44:01Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WoodieTracksuit-Mocha1_540x_521317cf-57d9-48e6-8691-2b94cf7b7ae8.jpg?v=1713400482
   - [6-12m](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-mocha?variant=40691798081630)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-mocha?variant=40691798114398)
     Availability: Not Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-mocha?variant=40691798245470)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [TINY TROVE Woodie 3D Logo Tracksuit - Pink](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-pink): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D logo detail on sweater & pant and hand-stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only. Photos by @ohmycookies_
-  Updated: 2025-11-26T01:22:00Z
+  Updated: 2025-12-17T19:44:02Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WoodieTracksuit-Pink1_540x_b46f25d4-6642-41c1-bebe-ebcaf9f0aa17.webp?v=1713400655
   - [3-6m](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-pink?variant=40691801161822)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-pink?variant=40691801194590)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [TINY TROVE Woodie 3D Logo Tracksuit - Seafoam](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-seafoam): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D logo detail on sweater & pant and hand-stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only. Photos by @ohmycookies_
-  Updated: 2025-11-26T01:22:01Z
+  Updated: 2025-12-17T19:44:03Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WoodieTracksuit-SeaFoam2_540x_29080859-36e5-42e1-b54e-d83d24f63c5b.webp?v=1713400773
   - [3-6m](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-seafoam?variant=40691804897374)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-seafoam?variant=40691805093982)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [PURE MAMA Bump Love Set](https://www.littlebambinos.co.nz/products/pure-mama-bump-love-set): The ultimate in belly care to support your growing, stretching, tight skin. A luxurious duo combining a gentle exfoliator and antioxidant-rich oil to help support your growing body. These nutrient-rich blends will leave your skin feeling deeply nourished and hydrated. Combining two of our best selling essentials, this is the ultimate in belly care. PLUS, RECEIVE A FREE BODY SCRUB MIT. Step 1: Bump Scrub: A creamy blend of organic Coconut Oil, Bamboo Powder and ground Pumice to gently exfoliate and nourish a growing bump throughout pregnancy. Gently sloughs away dead skin and promotes skin cell regeneration. Recommended to use before applying the Pure Mama Belly Oil. Step 2: Belly Oil: A nourishing blend of antioxidant-rich Rosehip, Vitamin E, Almond, Avocado & Coconut oils to promote dermal elasticity, deeply hydrate skin and help prevent the appearance of stretch marks. An everyday must from the first-trimester. *All full size products* The perfect gift for Mama. Directions for use: To be used throughout pregnancy and postpartum. All products have been specifically formulated for pregnant woman. Suitable for use on all skin types. Safe to use pre and postpartum. Scent: Belly oil and Bump scrub will leave you wanting more with subtle aromas of Coconut, Caramel and Vanilla. Ingredients: Belly Oil: 100% Natural and organic blend. Prunus Amygdalus Dulcis (Sweet Almond) Oil; Caprylic/Capric Triglyceride (Fractionate Coconut Oil); Persea Gratissima (Avocado) Oil; Simmondsia Chinensis (Jojoba) Seed Oil; Parfum (Natural); Rosa Canina (Rosehip) Fruit Oil*; Tocopheryl Acetate (Vitamin E); Argania (Argan) Spinosa Kernel Oil*; Punica Granatum (Pomegranate) Seed Oil; Rubus Idaeus (Raspberry) Seed Oil; Helianthus Annuus (Sunflower) Seed Oil; Calophyllum Inophyllum (Tamanu) Seed Oil; Rosmarinus Officinalis (Rosemary) Leaf Extract. *Certified Organic Ingredients. Bump Scrub: Water; Prunus Amygdalus Dulcis (Sweet Almond) Oil; Glycerin; Pumice; Bambusa Vulgaris Stem (Bamboo) Powder; Glyceryl Stearate SE; Cetearyl Alcohol; Cocos Nucifera (Coconut) Oil*; Butyrospermum Parkii (Shea) Butter*; Cetearyl Wheat Straw Glycosides; Sodium Stearoyl Glutamate; Punica Granatum (Pomegranate) Seed Oil; Dehydroacetic Acid; Benzyl Alcohol; Parfum. *Certified Organic Ingredients.
   Updated: 2025-11-18T22:42:32Z
   Vendor: Pure Mama
@@ -6011,40 +5934,40 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/27F9BA41-1D79-42C4-A5D3-C3667F8AF17B_1_201_a.jpg?v=1719962342
   Price: $129.00 NZD
 - [RYLEE + CRU Cru Baggy Pant - Natural](https://www.littlebambinos.co.nz/products/rylee-cru-cru-baggy-pant-natural): Super soft slub knit pant in almond from Rylee and Cru. Wooden button detail at center front. Featuring elastic waistband, and a relaxed fit. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:22:02Z
+  Updated: 2025-12-17T19:44:06Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC706FFEJ-NATURAL-2_4cf2fe80-c75a-4818-9bf2-77e1d7e53f95.jpg?v=1725419625
-  Price: $43.99 NZD
+  Price: $55.00 NZD
 - [RYLEE + CRU Cru Denim Chore Coat - Blue Daisy](https://www.littlebambinos.co.nz/products/rylee-cru-cru-baggy-cord-pant-saddle-check-copy): Super soft slub knit pant in almond from Rylee and Cru. Wooden button detail at center front. Featuring elastic waistband, and a relaxed fit. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:22:04Z
+  Updated: 2025-12-17T19:44:07Z
   Vendor: rylee + cru
   Product Type: Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC370FFEJ-NATURAL-1_148cc156-cabe-4d84-9f47-f69b03f7f0f8.jpg?v=1725419894
-  Price: $54.99 NZD
+  Price: $69.00 NZD
 - [RYLEE + CRU Cru Barrel Pant - Indigo](https://www.littlebambinos.co.nz/products/rylee-cru-cru-barrel-pant-indigo): Super soft slub knit pant in almond from Rylee and Cru. Wooden button detail at center front. Featuring elastic waistband, and a relaxed fit. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:22:05Z
+  Updated: 2025-12-17T19:44:08Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC701CLIF-INDIGO-1_7d671588-fb97-4599-b6f8-f56239606288.jpg?v=1725419751
-  Price: $47.99 NZD
+  Price: $60.00 NZD
 - [QUINCY MAE Side Snap Bodysuit - Dusty Blue](https://www.littlebambinos.co.nz/products/quincy-mae-side-snap-bodysuit-dusty-blue): Kimono onesie made out of Quincy Mae's lightweight pointelle fabric. Snaps at sides and along inseam for the cosiest fit with fold-over hand mitts. Made of 100% certified organic cotton. Shop Quincy Mae for babies and toddlers.
-  Updated: 2025-11-26T01:22:06Z
+  Updated: 2025-12-17T19:44:10Z
   Vendor: Quincy Mae
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM007GUTG-DUSTY-BLUE-1_1.jpg?v=1725418535
-  Price: $19.99 NZD
+  Price: $25.00 NZD
 - [QUINCY MAE Side Snap Bodysuit - Shell](https://www.littlebambinos.co.nz/products/quincy-mae-side-snap-bodysuit-shell): Kimono onesie made out of Quincy Mae's lightweight pointelle fabric. Snaps at sides and along inseam for the cosiest fit with fold-over hand mitts. Made of 100% certified organic cotton. Shop Quincy Mae for babies and toddlers.
-  Updated: 2025-11-26T01:22:07Z
+  Updated: 2025-12-17T19:44:10Z
   Vendor: Quincy Mae
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM007CAVE-SHELL-1_1.jpg?v=1725418738
-  Price: $19.99 NZD
+  Price: $25.00 NZD
 - [TOSHI Bell Hat Eva - Blossom](https://www.littlebambinos.co.nz/products/toshi-bell-hat-eva-blossom): Flattering and feminine bell shape Original and exclusive Toshi print design Fully lined for increased comfort. Quality crafting provides lasting durability. DETAILS: Head tie for adjustable sizing. Chin ties to secure hat. Frilled border creates a pretty style. Finest quality 100% cotton. SIZING: Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-11-18T22:42:34Z
   Vendor: Toshi
@@ -6100,7 +6023,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Sunhat Felicia - Scarlet](https://www.littlebambinos.co.nz/products/toshi-sunhat-felicia-moonlight-copy): Original and exclusive Toshi print design Fully lined for increased comfort. Quality crafting provides lasting durability. DETAILS: Head tie and toggle for adjustable sizing. Chin tie and toggle to secure hat. Security release clasp for increased wearer safety. Broad brim for enhanced sun protection. Finest quality 100% cotton. SIZING: Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-08T19:01:43Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6115,7 +6038,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Sunhat Felicia - Sunny](https://www.littlebambinos.co.nz/products/toshi-sunhat-felicia-scarlet-copy): Original and exclusive Toshi print design Fully lined for increased comfort. Quality crafting provides lasting durability. DETAILS: Head tie and toggle for adjustable sizing. Chin tie and toggle to secure hat. Security release clasp for increased wearer safety. Broad brim for enhanced sun protection. Finest quality 100% cotton. SIZING: Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-18T22:42:34Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hat
   Availability: Available
@@ -6145,7 +6068,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Flap Cap Baby - Periwinkle](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle): The Toshi Flap Cap Baby is our most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS: A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Periwinkle features a French navy stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-13T21:34:40Z
+  Updated: 2025-12-18T03:59:46Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6160,10 +6083,10 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $32.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle?variant=41090971205726)
-    Availability: Available
+    Availability: Not Available
     Price: $32.00 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-chestnut-copy): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-12-13T23:05:36Z
+  Updated: 2025-12-18T07:46:01Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6172,13 +6095,13 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $36.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-chestnut-copy?variant=41090983886942)
-    Availability: Available
+    Availability: Not Available
     Price: $36.00 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-chestnut-copy?variant=41090983919710)
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-12-10T05:11:42Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6190,6 +6113,21 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $36.00 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood?variant=41090996338782)
+    Availability: Not Available
+    Price: $36.00 NZD
+- [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
+  Updated: 2025-12-17T02:27:36Z
+  Vendor: Toshi
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SH_OLY_INK_A_Toshi_90eed981-3222-460b-bfe4-22b0ea8a949b.jpg?v=1724289631
+  - [S](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink?variant=41091006365790)
+    Availability: Available
+    Price: $36.00 NZD
+  - [M](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink?variant=41091006398558)
+    Availability: Available
+    Price: $36.00 NZD
+  - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink?variant=41091006431326)
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Organic Booties - Marley Snowflake](https://www.littlebambinos.co.nz/products/toshi-organic-booties-marley-snowflake): The much loved Toshi Organic Baby Booties Marley are made from the finest quality certified 100% organic cotton yarn. Organic certification ensures the booties are gentle on your babies delicate feet, as well as the environment. The beautifully-textured melange yarn brings an element of refinement to this Toshi baby accessory. Carefully crafted with a ribbed knit cuff, Toshi booties stay up while maintaining healthy circulation. Our booties are ankle height and are designed to protect precious tootsies during rest and play. Cute pom poms create a whimsical style and the ties ensure a snug fit. The colour of this pair of booties is Feather, a natural and earthy gender-neutral hue. Toshi booties are packaged in a quality box and make an ideal newborn gift. DETAILS - Certified 100% organic cotton yarn- Organic cotton is gentle on delicate baby skin & our precious environment- Beautifully textured melange yarn- Handcrafted feel- Two cute pom poms adorn each bootie- Ribbed knit cuffs hold booties in place- Ties for secure fit- Individually packaged in quality gift box- Quality crafting provides lasting durability- Designed in Australia, made in China COMPOSITION - Certified 100% Organic Cotton Yarn
@@ -6219,31 +6157,31 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BLA_OSN_SWK_A_Toshi_badb04c6-bd5c-46cd-b875-5916fcbcf35e.jpg?v=1724288935
   Price: $65.00 NZD
 - [TOSHI Organic Baby Socks - Patterns](https://www.littlebambinos.co.nz/products/susukoshi-3-pack-organic-socks-pattern-copy): Toshi Organic Hybrid Rubber Sole Socks are ergonomically designed for life’s first steps. Our fusion shoe-socks feature an inner sock crafted from the finest quality organic cotton yarn.
-  Updated: 2025-11-27T04:24:45Z
+  Updated: 2025-12-17T19:44:16Z
   Vendor: Toshi
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/TOSHI_Organic_Hybrid_Walking_Socks_Dreamtime_-_Driftwood.webp?v=1727312728
   - [6-12m](https://www.littlebambinos.co.nz/products/susukoshi-3-pack-organic-socks-pattern-copy?variant=41098926587998)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/susukoshi-3-pack-organic-socks-pattern-copy?variant=41098926653534)
     Availability: Not Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
 - [Toshi Organic Baby Socks - Patterns](https://www.littlebambinos.co.nz/products/toshi-organic-hybrid-walking-socks-dreamtime-pearl): Toshi Organic Hybrid Rubber Sole Socks are ergonomically designed for life’s first steps. Our fusion shoe-socks feature an inner sock crafted from the finest quality organic cotton yarn.
-  Updated: 2025-11-26T01:22:09Z
+  Updated: 2025-12-17T19:44:16Z
   Vendor: Toshi
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/TOSHIOrganicHybridWalkingSocksDreamtime-Pearl.webp?v=1727315244
-  Price: $27.99 NZD
+  Price: $35.00 NZD
 - [Toshi Organic Baby Socks - Patterns](https://www.littlebambinos.co.nz/products/toshi-organic-hybrid-walking-socks-dreamtime-seabreeze-copy): Toshi Organic Hybrid Rubber Sole Socks are ergonomically designed for life’s first steps. Our fusion shoe-socks feature an inner sock crafted from the finest quality organic cotton yarn.
-  Updated: 2025-11-26T01:22:10Z
+  Updated: 2025-12-17T19:44:17Z
   Vendor: Toshi
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/TOSHI_Organic_Hybrid_Walking_Socks_Dreamtime_-_Snowflake.webp?v=1727315592
-  Price: $27.99 NZD
+  Price: $35.00 NZD
 - [TOSHI Swim Baby Bell Hat Classic - Atlantis](https://www.littlebambinos.co.nz/products/toshi-swim-baby-bell-hat-classic-atlantis): DETAILS UPF 50+ UV protection Chlorine safe and pool friendly Well structured brim maintains shape when wet Head tie for adjustable sizing Chin tie to secure hat Seamless crown Frilled border creates pretty styling Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-11-18T22:42:35Z
   Vendor: Toshi
@@ -6287,18 +6225,6 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $35.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-baby-bell-hat-classic-sea-blossom?variant=41098937696350)
-    Availability: Not Available
-    Price: $35.00 NZD
-- [TOSHI Swim Flap Cap Classic - Surf Twilight](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-surf-twilight): DETAILS UPF 50+ UV protection Chlorine safe and pool friendly Contoured neck flap for enhanced sun protection Well structured brim maintains shape when wet Head tie for adjustable sizing Chin tie to secure hat Seamless crown Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-29T22:25:20Z
-  Vendor: Toshi
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_FL_CLA_SRT_A_Toshi_bccfaa7e-2555-44e7-8ad3-c2554f159c03.jpg?v=1724291132
-  - [XS](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-surf-twilight?variant=41098950738014)
-    Availability: Available
-    Price: $35.00 NZD
-  - [S](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-surf-twilight?variant=41098950770782)
     Availability: Not Available
     Price: $35.00 NZD
 - [TOSHI Swim Baby Nappy Classic - Dishy Fishy](https://www.littlebambinos.co.nz/products/toshi-swim-baby-nappy-dishy-fishy): A better choice this summer! This reusable, waterproof and durable swim nappy has multiple press studs for an adjustable fit. Nappy changes are easy and efficient with waterproof press studs and the legs are detailed with a soft elastic to ensure a secure and comfortable fit. Toshi swim nappies are designed to securely hold messy accidents and keep pool water clean all while your minimising environmental impact! Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly.
@@ -6369,7 +6295,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $45.00 NZD
 - [TOSHI Baby Swim Onesie Long Sleeve - Sharks](https://www.littlebambinos.co.nz/products/toshi-swim-onesie-long-sleeve-classic-sea-blossom): Swim with the sharks this summer! Rated UPF50+, Toshi Swim offers maximised sun protection and water safety for your little ones. The finest quality fabrication is fast drying, chlorine and salt water friendly. This adorable and seamless swim onesie features bottom opening press studs for ease of nappy change and back neck zip for ease of dressing. A high neckline and long sleeves ensure greater sun protection.The new season sharks print presents a colourful collection of predators prowling the deep blue oceans.
-  Updated: 2025-11-30T05:23:37Z
+  Updated: 2025-12-14T02:29:09Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -6387,13 +6313,13 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $45.00 NZD
 - [TOSHI Baby Swim Onesie Long Sleeve - Sharks](https://www.littlebambinos.co.nz/products/toshi-swim-onesie-long-sleeve-classic-surfs-up): Swim with the sharks this summer! Rated UPF50+, Toshi Swim offers maximised sun protection and water safety for your little ones. The finest quality fabrication is fast drying, chlorine and salt water friendly. This adorable and seamless swim onesie features bottom opening press studs for ease of nappy change and back neck zip for ease of dressing. A high neckline and long sleeves ensure greater sun protection.The new season sharks print presents a colourful collection of predators prowling the deep blue oceans.
-  Updated: 2025-11-28T06:28:47Z
+  Updated: 2025-12-17T02:06:21Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_ONL_CLA_SFP_A_Toshi_b5b199ab-436c-460b-842f-e2e08991a5aa.jpg?v=1724294748
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-swim-onesie-long-sleeve-classic-surfs-up?variant=41099235229790)
-    Availability: Available
+    Availability: Not Available
     Price: $45.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-swim-onesie-long-sleeve-classic-surfs-up?variant=41099235262558)
     Availability: Not Available
@@ -6405,7 +6331,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $45.00 NZD
 - [TOSHI Baby Swim Onesie Long Sleeve - Sharks](https://www.littlebambinos.co.nz/products/toshi-swim-onesie-long-sleeve-classic-sharky): Swim with the sharks this summer! Rated UPF50+, Toshi Swim offers maximised sun protection and water safety for your little ones. The finest quality fabrication is fast drying, chlorine and salt water friendly. This adorable and seamless swim onesie features bottom opening press studs for ease of nappy change and back neck zip for ease of dressing. A high neckline and long sleeves ensure greater sun protection.The new season sharks print presents a colourful collection of predators prowling the deep blue oceans.
-  Updated: 2025-11-18T22:42:36Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -6516,67 +6442,67 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Not Available
     Price: $23.00 NZD
 - [GRECH & CO Children's Mesh Sneakers - Fog](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-blossom): Lightweight and breathable, these shoes are made for play! You're kids will love these shoes made from an eco friendly mesh and durable wear natural rubber. They have child friendly adjustable velcro straps so are easy to take on and off. Please note they are made from mesh so suitable for warmer weather.
-  Updated: 2025-12-05T16:48:10Z
+  Updated: 2025-12-17T19:44:18Z
   Vendor: Toshi
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_RBO_SOL_BLO_B_Toshi_66f6bf8c-ac49-40dd-8a0b-ba6d8a4c2001.jpg?v=1724290776
   - [1y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-blossom?variant=41099318689886)
     Availability: Not Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-blossom?variant=41099318722654)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-blossom?variant=41099318755422)
     Availability: Not Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
 - [GRECH & CO Children's Mesh Sneakers - Fog](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-moonlight): Lightweight and breathable, these shoes are made for play! You're kids will love these shoes made from an eco friendly mesh and durable wear natural rubber. They have child friendly adjustable velcro straps so are easy to take on and off. Please note they are made from mesh so suitable for warmer weather.
-  Updated: 2025-12-03T03:55:52Z
+  Updated: 2025-12-17T19:44:19Z
   Vendor: Toshi
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_RBO_SOL_MOO_B_Toshi_1a1a5b20-5846-4c06-8c21-024b829f8f28.jpg?v=1724290831
   - [1y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-moonlight?variant=41100361203806)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-moonlight?variant=41100361236574)
     Availability: Not Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-moonlight?variant=41100361269342)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
 - [GRECH & CO Children's Mesh Sneakers - Fog](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sage): Lightweight and breathable, these shoes are made for play! You're kids will love these shoes made from an eco friendly mesh and durable wear natural rubber. They have child friendly adjustable velcro straps so are easy to take on and off. Please note they are made from mesh so suitable for warmer weather.
-  Updated: 2025-11-25T20:52:12Z
+  Updated: 2025-12-17T19:44:20Z
   Vendor: Toshi
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_RBO_SOL_SAG_B_Toshi_d6fec16f-b5c4-4faa-8a96-a236c8654ff1.jpg?v=1724290947
   - [1y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sage?variant=41100366872670)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sage?variant=41100366938206)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sage?variant=41100366970974)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
 - [GRECH & CO Children's Mesh Sneakers - Fog](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sky): Lightweight and breathable, these shoes are made for play! You're kids will love these shoes made from an eco friendly mesh and durable wear natural rubber. They have child friendly adjustable velcro straps so are easy to take on and off. Please note they are made from mesh so suitable for warmer weather.
-  Updated: 2025-11-25T20:52:12Z
+  Updated: 2025-12-17T19:44:20Z
   Vendor: Toshi
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_RBO_SOL_SKY_B_Toshi_d4507499-4f6e-4c3d-8e12-9441508dbc81.jpg?v=1724291006
   - [1y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sky?variant=41100370640990)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sky?variant=41100370673758)
     Availability: Available
-    Price: $28.99 NZD
+    Price: $36.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/toshi-swim-baby-reef-booties-solid-sky?variant=41100370706526)
-    Availability: Available
-    Price: $28.99 NZD
+    Availability: Not Available
+    Price: $36.00 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-classic-atlantis): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-12-13T07:25:26Z
+  Updated: 2025-12-14T07:24:13Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6843,55 +6769,55 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $36.00 NZD
 - [RYLEE + CRU Wide Leg Pant - Hearts](https://www.littlebambinos.co.nz/products/rylee-cru-wide-leg-pant-hearts): These Rylee + Cru wide leg woven pants for kids are stylish yet comfortable with elastic waistband and rope drawstring. These look great with the Rylee + Cru coordinating Oceanside top! Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-26T01:22:11Z
+  Updated: 2025-12-17T19:44:21Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC229UKAT-SAND-1_1.jpg?v=1725420125
-  Price: $35.99 NZD
+  Price: $45.00 NZD
 - [RYLEE + CRU Aspen Sweater - Fuzzy Stripe](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1): These Rylee + Cru wide leg woven pants for kids are stylish yet comfortable with elastic waistband and rope drawstring. These look great with the Rylee + Cru coordinating Oceanside top! Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-25T20:52:15Z
+  Updated: 2025-12-17T19:44:23Z
   Vendor: rylee + cru
   Product Type: sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC181BVSS-IVORY-12_16079ab6-b60a-4ec8-99aa-f4c76b86e2ff.jpg?v=1725419556
   - [12-18m](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1?variant=41112664244318)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1?variant=41112665194590)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1?variant=41112665227358)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1?variant=41112665260126)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1?variant=41112665292894)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
 - [QUINCY MAE Pointelle Wrap Footie - Mauve](https://www.littlebambinos.co.nz/products/quincy-mae-pointelle-wrap-footie-mauve): Quincy Mae's new Waffle Top + Pant Set for kids includes the softest long sleeve top and cosy pants, perfect for everyday wear. Made of 100% certified organic cotton.
-  Updated: 2025-11-25T20:52:17Z
+  Updated: 2025-12-17T19:44:25Z
   Vendor: Quincy Mae
   Product Type: Bodysuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM271HAGG-MAUVE-1_1.jpg?v=1725418371
   - [NB](https://www.littlebambinos.co.nz/products/quincy-mae-pointelle-wrap-footie-mauve?variant=41127163330654)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/quincy-mae-pointelle-wrap-footie-mauve?variant=41127163363422)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-pointelle-wrap-footie-mauve?variant=41127163396190)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [QUINCY MAE Relaxed Fleece Sweatshirt - Lions](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-fleece-sweatshirt-lions): Head in the clouds... this relaxed fit sweatshirt is made of the cosiest french terry. Featuring an exclusive print, this sweatshirt has rib knit at sleeve openings, neckline and bottom opening. Matching sweatpants available. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-26T01:22:11Z
+  Updated: 2025-12-17T19:44:26Z
   Vendor: Quincy Mae
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM454APWB-LATTE-1_1.jpg?v=1725418414
-  Price: $27.99 NZD
+  Price: $35.00 NZD
 - [KONGES SLOJD Juno Quilted Backpack Midi - Laurel Oak](https://www.littlebambinos.co.nz/products/konges-slojd-jono-quilted-backpack-midi-laurel-oak): The Konges Slojd JUNIOR backpack for children is a perfect bag for school! Spacious backpack with an external bottle pocket. A chest strap ensures the backpack is comfortable and supports the back. The backpack is very light, which is an important ergonomic factor.
   Updated: 2025-11-18T22:42:38Z
   Vendor: Konges slojd
@@ -6937,53 +6863,53 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $38.99 NZD
 - [KONGES SLOJD Basic Newborn Onesie GOTS - Bloomie](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie): Soft onesie for newborns in a light cotton blend with a hint of stretch. Designed with a wrap closure that features snap buttons along the body and legs for easy dressing. Made in 95% organic cotton and 5% elastane. GOTS, Organic,certified by CU1094701. DETAILS GOTS, Organic,certified by CU1094701. 95% Organic Cotton, 5% Elastane
-  Updated: 2025-11-26T01:22:12Z
+  Updated: 2025-12-17T19:44:26Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101415-p05009_1_0f449bdc-e957-4e94-806b-78a3c2a9cf4a.jpg?v=1725856056
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie?variant=41129072066654)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie?variant=41129072099422)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie GOTS - Grand Prix](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-grand-prix): Soft onesie for newborns in a light cotton blend with a hint of stretch. Designed with a wrap closure that features snap buttons along the body and legs for easy dressing. Made in 95% organic cotton and 5% elastane. GOTS, Organic,certified by CU1094701. DETAILS GOTS, Organic,certified by CU1094701. 95% Organic Cotton, 5% Elastane
-  Updated: 2025-11-25T20:52:21Z
+  Updated: 2025-12-17T19:44:27Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101415-p35003_1_0072d362-ae1c-43b2-a1df-5bcaaff6c871.jpg?v=1725854825
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-grand-prix?variant=41129080094814)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-grand-prix?variant=41129080127582)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-grand-prix?variant=41129080160350)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
 - [KONGES SLOJD Fairy Dress - Fairy Etoile](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile): Dress with tulle skirt and a large, rounded collar. Closes with a single mother of pearl button in the back. Made in 100% polyester with a 100% cotton lining. DETAILS 100% polyester, 100% cotton lining This product is OEKO-TEX® STANDARD 100, class 1 certified by DTI Tekstil, DTI 2276-361.
-  Updated: 2025-11-27T03:17:40Z
+  Updated: 2025-12-17T19:44:28Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101513-p20014_1_1f1b87ef-f466-440a-ae6e-71089b5a86ba.jpg?v=1725855237
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile?variant=41129577283678)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile?variant=41129577316446)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile?variant=41129577349214)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile?variant=41129577381982)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile?variant=41129579151454)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [KONGES SLOJD Lunch Box - Safari/Elephantastic](https://www.littlebambinos.co.nz/products/konges-slojd-lunch-box-safari-elephantastic): Lunch box with playful illustrations. Made of 100% polypropylene (PP) and inside box lid made of 100% silicone. DETAILS Dishwasher safe. Not recommended for microwave. No heating or food contact over 70°C. H: 8 cm x W: 12.6 cm x L: 16.6 cm. 100% polypropylene (PP), LID: 100% silicone Tested and complies with the EU regulations regarding food contact 10/2011 and 1935/2004 and the German LFGB §30 and 31. Ages: 3 yr +. WARNING: Choking hazard - small parts. Not suitable for children under 36 months.
   Updated: 2025-12-08T22:24:37Z
   Vendor: Konges slojd
@@ -7004,56 +6930,56 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $19.00 NZD
 - [KONGES SLOJD Minnie Newborn Body GOTS - Antique White](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white): Soft body with decorative pointelle and easy wrap closure. Snap buttons along the body and crotch for easy dressing. Made from 100% organic cotton. DETAILS GOTS, Organic,certified by CU1094701. 100% Organic Cotton
-  Updated: 2025-11-30T09:42:37Z
+  Updated: 2025-12-17T19:44:32Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101609-s00005_1.jpg?v=1724990603
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white?variant=41129868886110)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white?variant=41129868918878)
     Availability: Not Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white?variant=41129868951646)
     Availability: Not Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
 - [KONGES SLOJD Minnie Newborn Onesie GOTS - Amour](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-amour-rouge): Soft onesie for newborns with a convenient wrap closure for easy dressing. Features snap buttons along the body and legs, and decorative pointelle pattern. Made in 100% organic cotton. DETAILS GOTS, Organic,certified by CU1094701. 100% Organic Cotton
-  Updated: 2025-11-27T04:48:38Z
+  Updated: 2025-12-17T19:44:32Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101610-p15007_1_59e36a5b-0657-4c97-8159-b13642dda978.jpg?v=1725856409
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-amour-rouge?variant=41129871900766)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-amour-rouge?variant=41129871966302)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [KONGES SLOJD Nia Maternity Package GOTS - Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-cherry): The perfect gift for new parents: A thoughtful maternity package with a soft wrap cardigan, footed pants, a baby hat, and a soft snuggle bunny. Made from 80% organic cotton and 20% recycled polyester. DETAILS GOTS, made with 80% organic materials, certified by CU 1094701. 80% organic cotton, 20% recycled polyester.
-  Updated: 2025-12-03T18:25:12Z
+  Updated: 2025-12-17T19:44:33Z
   Vendor: Konges slojd
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101629-p00005_2_3cebe2c7-3ad1-4f0e-94ca-fd5685a69f91.jpg?v=1725856440
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-cherry?variant=41129876848734)
     Availability: Available
-    Price: $60.00 NZD
+    Price: $70.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-cherry?variant=41129876881502)
     Availability: Available
-    Price: $60.00 NZD
+    Price: $70.00 NZD
 - [KONGES SLOJD Nia Maternity Package GOTS - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-lemon): The perfect gift for new parents: A thoughtful maternity package with a soft wrap cardigan, footed pants, a baby hat, and a soft snuggle bunny. Made from 80% organic cotton and 20% recycled polyester. DETAILS GOTS, made with 80% organic materials, certified by CU 1094701. 80% organic cotton, 20% recycled polyester.
-  Updated: 2025-12-03T18:24:33Z
+  Updated: 2025-12-17T19:44:34Z
   Vendor: Konges slojd
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101629-p00038_2_aaa1a977-0a5e-43c1-b48c-902b95c8ac9a.jpg?v=1725856471
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-lemon?variant=41129885335646)
     Availability: Available
-    Price: $60.00 NZD
+    Price: $70.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-lemon?variant=41129885368414)
     Availability: Not Available
-    Price: $55.99 NZD
+    Price: $70.00 NZD
 - [KONGES SLOJD Wooden Teddy Dress-up Puzzle - Animals](https://www.littlebambinos.co.nz/products/konges-slojd-wooden-teddy-dress-up-puzzle-animals): Dress up puzzle with our favorite little teddy bear. Play with different options and costumes for the teddy. Includes: 4 outfits. 12 puzzle pieces. A box with a lid for storage. This product is made of FSC™-certified pinewood and plywood. License Number: FSC C177572. Ages: 18m+. FSC™ certified pinewood & plywood
   Updated: 2025-11-30T06:16:03Z
   Vendor: Konges slojd
@@ -7062,47 +6988,40 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101756-s45004_1_b301b651-3a13-4637-af8e-cc1278efe203.jpg?v=1725856503
   Price: $29.00 NZD
 - [CONNETIX Roads - Ramps & Intersections 16pc](https://www.littlebambinos.co.nz/products/connetix-roads-ramps-intersections-16pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-10T19:02:41Z
+  Updated: 2025-12-15T20:41:52Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_16_Piece_Roads_R_I.jpg?v=1725229348
   Price: $130.99 NZD
 - [CONNETIX Creative Roads Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-creative-roads-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T19:24:28Z
+  Updated: 2025-12-16T11:40:51Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_48_Piece_Roads_Creative_Pack.jpg?v=1725230414
   Price: $232.99 NZD
 - [CONNETIX Rainbow Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T07:34:38Z
+  Updated: 2025-12-17T03:19:31Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Littlebambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-1_600x_7b6f12ea-376f-4ae5-bbdc-e8ebbc2431a4.webp?v=1725231069
   Price: $124.99 NZD
-- [CONNETIX Pastel Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-pastel-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T07:34:01Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LittleBambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-Pastel-1_600x_cde9878e-9742-42e8-b883-78712b372570.webp?v=1725231325
-  Price: $124.99 NZD
 - [KONGES SLOJD Rainy Palme Set - Tiger](https://www.littlebambinos.co.nz/products/konges-slojd-rainy-palme-set-tiger): Wind-resistant and waterproof PU rain set with warm fleece lining inside. Features essential detailing like a lined, detachable hood, high collar, elastic cuffs, and welded seams for complete protection against the elements. *Please note: Up to size 4 years, all rain pants are designed with suspenders for an easy fit that stays put. For sizes 5-6 years and up, rain pants feature an elasticated waist – easy to pull on and off. DETAILS Shell: 100% polyurethane (PU) Lining: 100% polyester fleece and 100% polyester. Waterproof: 10.000 mm, Welded seams, Wind-resistant. This product is OEKO-TEX® STANDARD 100, class 1 certified by DTI Tekstil, License Number: DTI 2276-361.
-  Updated: 2025-11-26T01:22:15Z
+  Updated: 2025-12-17T19:44:35Z
   Vendor: Konges slojd
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/mood_ks101286-p10098_1.jpg?v=1735180480
-  Price: $119.99 NZD
+  Price: $150.00 NZD
 - [GROWN Bouy Stripe Top](https://www.littlebambinos.co.nz/products/grown-bouy-stripe-top): DETAILS 100% Organic Cotton with GOTS certification Knitted top with 'Buoy' Stripe Rolled edge at hem Slightly cropped fit Rib finish at stripes and neck
-  Updated: 2025-11-26T01:22:18Z
+  Updated: 2025-12-17T19:44:38Z
   Vendor: Grown
   Product Type: top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GS24019_1.png?v=1725850891
-  Price: $25.99 NZD
+  Price: $32.00 NZD
 - [GROWN Bouy Stripe Pant Ladies](https://www.littlebambinos.co.nz/products/grown-bouy-stripe-pant-ladies): DETAILS 100% Organic Cotton with GOTS certification Knitted pant with 'Buoy' Stripe Elastic waistband with drawstring Rolled edge at hem
   Updated: 2025-11-18T22:42:41Z
   Vendor: Grown
@@ -7122,7 +7041,7 @@ Most importantly, the classic sunhat has a broad and well structured brim that m
     Availability: Available
     Price: $69.00 NZD
 - [CONNETIX Rainbow Motion Pack - 24pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-motion-pack-24pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-13T05:57:56Z
+  Updated: 2025-12-18T21:29:06Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7218,6 +7137,27 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BNK-TSC-SD_zoom_1__69158_a724bb35-d43f-49c9-b7d0-d8e5a325b727.jpg?v=1728855024
   Price: $18.99 NZD
+- [Subo Food Bottle - Blush](https://www.littlebambinos.co.nz/products/subo-food-bottle-blush): The Subo Food Bottle is fast becoming a fav baby/children's item in many households. It is an incredible food bottle design that allows your little one to eat pureed fruit and vegetables, smoothies, yoghurts and even soft foods such as cereals, oats, porridge or even tinned spaghetti - refill and reuse your Subo again and again. Great for little ones to feed themselves independently and great for on the go. Minimise the mess! The Subo will only let food out when the spout is sucked on - no squeezing required so there is less room for mess to make an appearance. It can hold up to 210ml volume and can be adjusted to hold a smaller portion by adjusting the platform inside the bottle. It comes with the original spout which has a 12mm opening. Great for kiddies 2+ years, also for the thicker soft foods like cereals, spaghetti etc. For little ones under the age of 2, it is recommended you purchase a straw spout (sold separately) which has a 5mm opening. The smaller straw is great for the liquid type foods like smoothies and purees. DETAILS: Minimise mess Great for on the go Non squeeze Perfect for purees and soft foods Can be used time and time again SIZE INFO: 210ml volume 18 x 6 x 6cm Warning - always supervise your child when Subo is in use. Accidents can occur when babies and toddlers are left alone with their Subo.
+  Updated: 2025-12-18T02:35:21Z
+  Vendor: Subo
+  Product Type: Dinnerware
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SUB-BOT-210-BL_zoom_2__28928_39780858-cc63-4ad5-8120-835b97ef2120.jpg?v=1728855066
+  Price: $44.95 NZD
+- [Subo Food Bottle - Duck Egg](https://www.littlebambinos.co.nz/products/subo-food-bottle-duck-egg): The Subo Food Bottle is fast becoming a fav baby/children's item in many households. It is an incredible food bottle design that allows your little one to eat pureed fruit and vegetables, smoothies, yoghurts and even soft foods such as cereals, oats, porridge or even tinned spaghetti - refill and reuse your Subo again and again. Great for little ones to feed themselves independently and great for on the go. Minimise the mess! The Subo will only let food out when the spout is sucked on - no squeezing required so there is less room for mess to make an appearance. It can hold up to 210ml volume and can be adjusted to hold a smaller portion by adjusting the platform inside the bottle. It comes with the original spout which has a 12mm opening. Great for kiddies 2+ years, also for the thicker soft foods like cereals, spaghetti etc. For little ones under the age of 2, it is recommended you purchase a straw spout (sold separately) which has a 5mm opening. The smaller straw is great for the liquid type foods like smoothies and purees. DETAILS: Minimise mess Great for on the go Non squeeze Perfect for purees and soft foods Can be used time and time again SIZE INFO: 210ml volume 18 x 6 x 6cm Warning - always supervise your child when Subo is in use. Accidents can occur when babies and toddlers are left alone with their Subo.
+  Updated: 2025-12-18T02:35:22Z
+  Vendor: Subo
+  Product Type: Dinnerware
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SUB-BOT-210-BOT112_zoom_1__88274_fae31d60-5937-4dad-9803-6d5ca55503c1.jpg?v=1728855112
+  Price: $44.95 NZD
+- [Subo Food Bottle - Oatmeal](https://www.littlebambinos.co.nz/products/subo-food-bottle-oatmeal): The Subo Food Bottle is fast becoming a fav baby/children's item in many households. It is an incredible food bottle design that allows your little one to eat pureed fruit and vegetables, smoothies, yoghurts and even soft foods such as cereals, oats, porridge or even tinned spaghetti - refill and reuse your Subo again and again. Great for little ones to feed themselves independently and great for on the go. Minimise the mess! The Subo will only let food out when the spout is sucked on - no squeezing required so there is less room for mess to make an appearance. It can hold up to 210ml volume and can be adjusted to hold a smaller portion by adjusting the platform inside the bottle. It comes with the original spout which has a 12mm opening. Great for kiddies 2+ years, also for the thicker soft foods like cereals, spaghetti etc. For little ones under the age of 2, it is recommended you purchase a straw spout (sold separately) which has a 5mm opening. The smaller straw is great for the liquid type foods like smoothies and purees. DETAILS: Minimise mess Great for on the go Non squeeze Perfect for purees and soft foods Can be used time and time again SIZE INFO: 210ml volume 18 x 6 x 6cm Warning - always supervise your child when Subo is in use. Accidents can occur when babies and toddlers are left alone with their Subo.
+  Updated: 2025-12-18T02:35:21Z
+  Vendor: Subo
+  Product Type: Dinnerware
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SUB-BOT-210-BOT117_zoom_2__09593_d791bb59-67b1-4edc-abad-d234b3e30035.jpg?v=1728855161
+  Price: $44.95 NZD
 - [BINK Day Bottle - Sand 620ml](https://www.littlebambinos.co.nz/products/bink-day-bottle-sand-1): Much loved Bink Day bottle, now in an easy to hold 620ml capacity! A simple glass water bottle with hydration tracking designed to help you meet your daily recommended water needs. Because your health is your greatest asset, and drinking enough water should never feel abstract or unattainable. The Bink Day Bottle empowers you to be more mindful of the water you drink every day. Simple to follow AM/PM time markings on the bottle sleeve help you drink all day. A modern water bottle evolved to your needs. Stays with you, goes anywhere. A day-in, day-out bottle to keep you hydrating and keep you well. Bink straws & cap for the 620ml bottle are sold separate. DETAILS: Track your water intake throughout the day Purest way to drink water Great size Easy to follow AM/PM time markings on the bottle sleeve 620ml Dishwasher safe MATERIALS: Glass Bottle Silicone Sleeve Please note - Please do not put boiling water in your Bink Day Bottle. Also avoid exposing the glass to sudden temperature changes. For example, removing it from the dishwasher then instantly filling it with ice cold water. Please allow your bottle to cool for 1-2 minutes before use.
   Updated: 2025-11-18T22:42:44Z
   Vendor: BINK
@@ -7281,18 +7221,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/daisy-snaps.png?v=1729827187
   Price: $13.00 NZD
-- [SONNIE Nylon Bucket Hat - Court Green](https://www.littlebambinos.co.nz/products/sonnie-nylon-bucket-hat-court-green-1): A classic kids' bucket hat in nylon with Sonnie's signature logo embroidered on the front. Quick drying and with a removable chin string and adjustable toggle. Court Green colourway.SIZING:S/M - ToddlerM/L - Youth
-  Updated: 2025-11-25T01:24:13Z
-  Vendor: Sonnie
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/56_3fee3815-e7d2-452f-8be7-3eb034c5af5f.jpg?v=1746150167
-  - [S/M](https://www.littlebambinos.co.nz/products/sonnie-nylon-bucket-hat-court-green-1?variant=41241644826718)
-    Availability: Not Available
-    Price: $45.00 NZD
-  - [M/L](https://www.littlebambinos.co.nz/products/sonnie-nylon-bucket-hat-court-green-1?variant=41241644859486)
-    Availability: Available
-    Price: $45.00 NZD
 - [SONNIE Nylon Cap  - Ink](https://www.littlebambinos.co.nz/products/sonnie-cap-contrast-stitch-ink): A sporty 6-panel cap cut from 100% nylon with Sonnie's signature embroidery on the front. With a contrast Off-White stitch. Unisex and Quick drying Ink colourwayCream embroidery100% nylonAdjustable back strapQuick drying Sizing:S/M - ToddlerM/L - Youth
   Updated: 2025-11-27T11:20:35Z
   Vendor: Sonnie
@@ -7305,18 +7233,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [M/L](https://www.littlebambinos.co.nz/products/sonnie-cap-contrast-stitch-ink?variant=41241645875294)
     Availability: Available
     Price: $42.00 NZD
-- [SONNIE Bakery Tee](https://www.littlebambinos.co.nz/products/sonnie-bakery-tee): A relaxed drop shoulder t-shirt with a limited edition Sonnie Bakery print. 100% GOTS certified organic cotton unisex kids tee. Ink colourway Limited edition Sonnie Bakery print to front and back100% GOTS certified organic cotton Relaxed fitUnisex GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product. Normal Wash. We don't recommend tumble drying.
-  Updated: 2025-12-12T01:02:51Z
-  Vendor: Sonnie
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/60_03b79224-692b-4760-ad89-31111fb8d328.webp?v=1746149784
-  - [1y](https://www.littlebambinos.co.nz/products/sonnie-bakery-tee?variant=41241647349854)
-    Availability: Available
-    Price: $51.99 NZD
-  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-bakery-tee?variant=41241647251550)
-    Availability: Not Available
-    Price: $51.99 NZD
 - [SONNIE Basketball Shorts - Sunshine Yellow](https://www.littlebambinos.co.nz/products/sonnie-basketball-shorts-sunshine-yellow): New Season Basketball shorts cut in classic eyelet fabric with a soft mesh liner and embroidered with the Sonnie logo. Sunshine Yellow colour wayElasticated waistband with functional drawcordFully lined Side pockets and back pocketLoose fitSonnie embroidery on left leg
   Updated: 2025-11-26T01:22:20Z
   Vendor: Sonnie
@@ -7358,6 +7274,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KSTSS23133.webp?v=1730326821
   Price: $55.00 NZD
+- [HONEYSTICKS Bath Crayons Triangle 10 Pack](https://www.littlebambinos.co.nz/products/honeysticks-bath-crayons-triangle-10-pack): Honeysticks Bath Crayons Triangles are the perfect way to add creativity and fun to bath or shower time. Their unique triangle shape makes them perfect for little hands to hold! Crafted with 100% pure New Zealand Beeswax and Soy Wax. Natural and food-grade ingredients for peace of mind: Lovingly handmade in New Zealand using only natural ingredients and food-grade colourings. They contain no paraffin wax or other nasties. Unique triangle shape for little hands: Honeysticks triangle-shaped bath crayons are designed to be easy for little hands to wrap around, making them the perfect first bath crayon. Each non-toxic crayon is 5.7cm long and 1.8cm thick. Ignite fun at bath time: Bath time doesn’t need to be a chore – create an opportunity for creativity and exploration with Honeysticks Bath Crayons! 10 exciting colours: Little artists of all ages will love using in the bath or shower to explore their creativity and harness their imagination. Easy clean: When bathtime is over, simply give the bath or shower a wipe down and rinse the colour away with warm water.
+  Updated: 2025-12-18T02:03:29Z
+  Vendor: Honeysticks
+  Product Type: Crayon
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Bath_Crayons_triangles.webp?v=1730672432
+  Price: $21.95 NZD
 - [KONGES SLOJD - Pram for Dolls - Flower Bouquet](https://www.littlebambinos.co.nz/products/konges-slojd-doll-bag-ma-grande-cerise-pink): This gorgeous doll stroller (pram) features a harness, carriage bag and double wheels on all four legs for extra stability. Features removable fabric made in 100% organic cotton making it easy to clean.
   Updated: 2025-11-18T22:42:45Z
   Vendor: Konges slojd
@@ -7366,7 +7289,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101942-p00056_1_4ea1d219-a315-4a5e-bb07-4a2dc17b56e7.jpg?v=1732159765
   Price: $60.00 NZD
 - [KONGES SLOJD Wooden Teddy Dress Up Animal Puzzle - Multi](https://www.littlebambinos.co.nz/products/konges-slojd-wooden-teddy-dress-up-anim-multi): Dress up puzzle with our favourite little teddy bear. Play with different options and costumes for the teddy. Ages: 18M+
-  Updated: 2025-11-21T22:22:53Z
+  Updated: 2025-12-17T08:40:32Z
   Vendor: Konges slojd
   Product Type: Jigsaw Puzzles
   Availability: Available
@@ -7379,46 +7302,39 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks6433-p00005_1_a4ff9c50-328d-40ab-a1e8-8655bce977eb.jpg?v=1732161227
   Price: $40.00 NZD
-- [KONGES SLOJD- Advent Calendar](https://www.littlebambinos.co.nz/products/konges-slojd-lunch-box-small-noel-advent-calendar): Christmas calendar with holiday prints and 24 pockets to hide little presents in. Features a practical rope at the top of the chart to hang it with. W: 70 x L: 120 cm
-  Updated: 2025-12-01T08:11:52Z
-  Vendor: Konges slojd
-  Product Type: Christmas Stocking
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks6455-s00032_1_434b7f3d-c24d-406f-8320-50205228d0a3.jpg?v=1732161282
-  Price: $120.00 NZD
 - [GROWN Summer Stripe Cotton Frill Pant](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-frill-pant): 100% Cotton Elastic waistband Wide leg and slightly cropped fit Frill along hem edge Lightweight cotton fabric
-  Updated: 2025-11-29T11:11:23Z
+  Updated: 2025-12-17T19:44:43Z
   Vendor: Grown
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH24045_front_900x_4a5ae723-6012-46d8-ba9d-486d734328d9.webp?v=1733098742
   - [1y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-frill-pant?variant=41288589934686)
     Availability: Not Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-frill-pant?variant=41288589967454)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-frill-pant?variant=41288590000222)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-frill-pant?variant=41288590032990)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-frill-pant?variant=41288590065758)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
 - [GROWN Summer Stripe Shift Cotton Dress](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-dress): 100% Cotton A-line silhouette dress Sleeveless style Keyhole button at back neck for easy dressing
-  Updated: 2025-11-26T01:22:23Z
+  Updated: 2025-12-17T19:44:44Z
   Vendor: Grown
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH24034_front.png?v=1732156239
   - [1y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-dress?variant=41288590524510)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-dress?variant=41288590557278)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
 - [GROWN Kids Terry Towel - Rosso](https://www.littlebambinos.co.nz/products/terry-towel-stella-rosso): 100% Cotton Jacquard weave 574GSM With tassels 70x120cm Rosso colour is an orange/red base
   Updated: 2025-11-18T22:42:46Z
   Vendor: Grown
@@ -7427,74 +7343,47 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH24003_rosso.png?v=1732156269
   Price: $45.00 NZD
 - [GROWN Summer Stripe Cotton Romper](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-romper): 100% Cotton A-line silhouette dress Sleeveless style Keyhole button at back neck for easy dressing
-  Updated: 2025-12-08T17:45:34Z
+  Updated: 2025-12-17T19:44:45Z
   Vendor: Grown
   Product Type: Romper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH24036_front_900x_4f258d3f-c5ad-4fa7-a76d-22a7f776dd98.webp?v=1733098940
   - [1y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-romper?variant=41288632598622)
     Availability: Not Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-romper?variant=41288632631390)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-romper?variant=41288632664158)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-romper?variant=41288632696926)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/summer-stripe-cotton-romper?variant=41288632729694)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
 - [GROWN Summer Open-Knit Pull Over](https://www.littlebambinos.co.nz/products/summer-open-knit-pull-over): 72% Cotton 21% Linen 7% Silk Dropped shoulder Crochet like knit Rolled finish at neck, hem and cuffs
-  Updated: 2025-11-26T08:16:27Z
+  Updated: 2025-12-17T19:44:46Z
   Vendor: Grown
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH24014_front_900x_cfea4b5f-8f0b-4488-98af-acf7c5c83b7b.webp?v=1733098159
   - [1y](https://www.littlebambinos.co.nz/products/summer-open-knit-pull-over?variant=41288632893534)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/summer-open-knit-pull-over?variant=41288632926302)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/summer-open-knit-pull-over?variant=41288632959070)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/summer-open-knit-pull-over?variant=41288632991838)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/summer-open-knit-pull-over?variant=41288633024606)
     Availability: Available
-    Price: $43.99 NZD
-- [GROWN Candy Cane Christmas Jumper](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper): 100% Organic Cotton Dropped shoulder Chunky rib knit Yarn dyed stripe at sleeve Knitted candy cane applique design detail
-  Updated: 2025-11-29T01:14:41Z
-  Vendor: Grown
-  Product Type: Jumper
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GH24025_front_900x_11b2412f-5bd7-4d5e-923a-61953abed79d.webp?v=1733097365
-  - [3-6M](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633417822)
-    Availability: Not Available
-    Price: $46.99 NZD
-  - [6-12M](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633450590)
-    Availability: Not Available
-    Price: $46.99 NZD
-  - [1y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633483358)
-    Availability: Available
-    Price: $46.99 NZD
-  - [2y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633516126)
-    Availability: Not Available
-    Price: $46.99 NZD
-  - [3y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633548894)
-    Availability: Not Available
-    Price: $46.99 NZD
-  - [4y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633581662)
-    Availability: Not Available
-    Price: $46.99 NZD
-  - [5y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper?variant=41288633614430)
-    Availability: Not Available
-    Price: $46.99 NZD
+    Price: $55.00 NZD
 - [GROWN Kids Terry Towel - Stella Blossom](https://www.littlebambinos.co.nz/products/grown-kids-terry-towel-stella-blossom): 100% Cotton Jacquard weave 574GSM With tassels 70x120cm
   Updated: 2025-11-18T22:42:48Z
   Vendor: Grown
@@ -7527,150 +7416,164 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [VEJA V-10 Suede - Multico Nautico](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:22:24Z
+  Updated: 2025-12-17T19:44:49Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/veja_aw22_kids_hd-18-1.jpg?v=1736281200
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850380382)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850576990)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
 - [VEJA V-10 Chromefree Leather - Extra-White & Multico Nautico](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:22:24Z
+  Updated: 2025-12-17T19:44:50Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_CV0503802C_lateral_fa805c16-fadb-4a3f-9eea-e04fdf0c6862.jpg?v=1736279763
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857753182)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857785950)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857818718)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857851486)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857982558)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
 - [VEJA V-10 Chromefree Leather Extra-White & Multico-Freshmint](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-12-11T01:28:17Z
+  Updated: 2025-12-17T19:44:51Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_CV0503803C_lateral_39821284-8cff-43ca-8464-d2fed93de34d.jpg?v=1736281967
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876430942)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876463710)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876496478)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876529246)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876562014)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876594782)
     Availability: Not Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876627550)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876693086)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
 - [VEJA V-12 Chromefree Leather - Extra-White & Multico-Indigo](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:22:26Z
+  Updated: 2025-12-17T19:44:52Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_XV0503229C_lateralok_e35fa1b2-a6b4-4fd2-8e78-453332b59fd1.jpg?v=1736280937
   - [EU 24](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880428638)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880494174)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880526942)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880559710)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880625246)
-    Availability: Available
-    Price: $117.99 NZD
+    Availability: Not Available
+    Price: $147.99 NZD
 - [VEJA V-12 Chromefree Leather Extra-White & Multico-Orchid](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:22:27Z
+  Updated: 2025-12-17T19:44:52Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_XV0503793C_lateral_d59e71da-8de7-4424-bdfe-817dc7faa89a.jpg?v=1736281460
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884426334)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884459102)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884491870)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884557406)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884590174)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884622942)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884655710)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884688478)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884721246)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
 - [VEJA Canary Light Alveomesh - Poker Jade](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:22:29Z
+  Updated: 2025-12-17T19:44:53Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/12_1.jpg?v=1736280376
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888161886)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888194654)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888227422)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888325726)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888391262)
     Availability: Available
-    Price: $117.99 NZD
+    Price: $147.99 NZD
 - [VEJA Canary Light Alveomesh - Gravel Malibu Silver](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:22:30Z
+  Updated: 2025-12-17T19:44:54Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_YL1803821C_lateral_a708a74a-7826-490a-9229-ecd36297dec6.jpg?v=1736282114
-  Price: $117.99 NZD
+  Price: $147.99 NZD
+- [NESTLING Stainless Steel Jumbo Bento Box](https://www.littlebambinos.co.nz/products/nestling-stainless-steel-jumbo-bento-box): DETAILS The Nestling Stainless Steel Jumbo Bento Box is built to survive the playground and fill bellies with five generously sized compartments. With five different-sized compartments, the Jumbo Bento helps you provide variety for every lunch, helping it get eaten! Use the biggest compartment for whole-filled sandwiches, bagels or wraps and the smaller compartments for small whole fruits like apples, apricots or tomatoes. Each compartment has a unique shape, making this a versatile lunch box for older children and adults. You can even use it to pack snacks for the entire family! The five compartments make packing lunches daily a breeze. The Jumbo Bento Box has an innovative silicone seal, so you can store thicker wet foods such as dips or yoghurt without the need for additional containers. The silicone seal is easily removed making this super easy to keep clean & should it be lost, replacements are available. The silicone seal can be handwashed with water and detergent or placed in the dishwasher and then air-dried, saving you time every day. The Jumbo Bento Box is made to last with hard-wearing 18/8 stainless steel and food-grade silicone! This lunchbox is built to last and designed to withstand daily use.
+  Updated: 2025-12-18T02:40:15Z
+  Vendor: Nestling
+  Product Type: Lunch Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1N-SSBB-J_zoom_1__80346_c2cca8e7-a42b-48c5-9da7-1d98532e7f16.jpg?v=1737755892
+  Price: $99.95 NZD
+- [NESTLING Stainless Steel Bento Box](https://www.littlebambinos.co.nz/products/nestling-stainless-steel-bento-box): DETAILS The Nestling Stainless Steel Bento Box is a definite must have for school lunches! This beautiful Bento Box makes healthy lunches quick and easy. The separate compartments allows you to offer a variety of food, getting all their lunch favs in there! The innovative silicone seal helps to keep thicker liquids such as yoghurt or dips separate from the food in other compartments without the need for separate containers. Washing is a total breeze with no little crevices or fixed seals to harbour yucky surprises. Take care of your Nestling Bento Box and it will be sure to last The Nestling Bento Box now has a silicone latch! Some images displayed show a metal latch, your Bento Box will have a silicone latch.
+  Updated: 2025-12-18T02:40:15Z
+  Vendor: Nestling
+  Product Type: Lunch Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1N-SSBB_zoom_26__20141_58b99d18-0b25-4651-bf47-06bbdc0d4ad1.jpg?v=1737755799
+  Price: $79.95 NZD
 - [MELII Snackle Box Regular - Blue](https://www.littlebambinos.co.nz/products/melii-snackle-box-regular-blue): DETAILS The Melii Snackle Box adds an element of fun and excitement to any snack time! The design is inspired by a tackle box with 12 individual compartments to fill with your favourite treats, each with removable dividers to create a completely customize-able snack storage box. Featuring a secure snap-lock lid to ensure your snacks stay fresh and organised, even during the bumpiest rides! Perfect for travel, family outings, school lunches and road trips. The Snackle Box is a must for fussy eaters, large eaters or even for the whole family to share!
   Updated: 2025-11-30T20:28:47Z
   Vendor: Melii
@@ -7706,6 +7609,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/M1-SG6P-2-MC_zoom_2__28731_64897443-4b6e-431b-8f70-7a7a37ab8300.jpg?v=1737755337
   Price: $19.95 NZD
+- [YOGASLEEP Hussh 2](https://www.littlebambinos.co.nz/products/yogasleep-hussh-2): DETAILS The only thing better than one is two. Building on the beloved features of the best-selling Hushh, the Hushh 2 provides the restful, rejuvenating nights that you and your baby need. Soothe your little one into a deeper, uninterrupted sleep with a selection of six calming sounds. Nighttime feedings and late-night check-ins are less disruptive with the adjustable amber night light and more visible backlit buttons. With a rechargeable battery that lasts up to 34 hours, a secure carabiner clip that can be operated with one hand, and a durable design that stands up to demands of parenting, the Hushh 2 is more than just an upgrade; it’s a promise of better dreams for both baby and you.
+  Updated: 2025-12-18T02:39:26Z
+  Vendor: Yogasleep
+  Product Type: Sleep Aid
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/MR-HUSHH2_zoom_2__35796_5668e3c0-c590-41b7-90ba-1e486b02c1ca.jpg?v=1737756587
+  Price: $69.95 NZD
 - [B.BOX Lunch Box - Ocean Breeze](https://www.littlebambinos.co.nz/products/melii-snackle-box-regular-blue-copy): DETAILS The whole foods lunchbox. Kids love different choices throughout the day, so we’ve designed a lunchbox that offers parents and kids more flexibility. The lunchbox features a large compartment that fits a whole sandwich. Plus, sitting underneath the tray is an included gel cooler pack to keep food fresher and cooler for longer. Or, remove the sandwich tray and the compartment now easily fits pasta and salads. Its unique flexi whole fruit holder lets you store a whole apple, as the stretchy seal bends around the shape of your fruit – no need to cut fruit into smaller sizes! Leak-proof silicone seals lets you store wet foods like watermelon and yoghurts (no liquids). The custom divider slides across enabling parents to adjust the compartment size as they need, or remove it to fit a whole banana or wrap. Easy to open latch and handle encourages independence.
   Updated: 2025-11-18T22:42:50Z
   Vendor: B.Box
@@ -7756,210 +7666,210 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ISP_strawberry_shake_1__43646_8c51499f-97c8-4fb8-ac6f-d826a98143a5.jpg?v=1738014793
   Price: $49.95 NZD
 - [QUINCY MAE Heart Knit Pants - Bubblegum](https://www.littlebambinos.co.nz/products/quincy-mae-heart-knit-pants-bubblegum): Heart eyes only for Quincy Mae's Heart Knit Pants. This cozy style is a must-have this season! Featuring Quincy Mae's 'lipstick hearts' pattern on their 'bubblegum' hue. Make it the sweetest set with the matching sweater!
-  Updated: 2025-11-26T01:22:31Z
+  Updated: 2025-12-17T19:44:55Z
   Vendor: Quincy Mae
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM530MAUG-BUBBLEGUM-1_f0fc5d2f-b1a1-4577-8e60-0a7bf733ba4a.png?v=1739319864
-  Price: $41.99 NZD
+  Price: $52.00 NZD
 - [QUINCY MAE Heart Knit Pants - Natural](https://www.littlebambinos.co.nz/products/quincy-mae-heart-knit-pants-natural): Heart eyes only for Quincy Mae's Heart Knit Pants. This cozy style is a must-have this season! Featuring Quincy Mae's 'red hearts' pattern on their 'natural' hue. Make it the sweetest set with the matching sweater!
-  Updated: 2025-11-26T01:22:32Z
+  Updated: 2025-12-17T19:44:56Z
   Vendor: Quincy Mae
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM530OAKE-NATURAL-1_6782665f-9926-40bb-88b0-9e76432e0463.png?v=1739319710
-  Price: $41.99 NZD
+  Price: $52.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-summer-knit-set-blue-stripe-copy): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-11-25T20:52:53Z
+  Updated: 2025-12-17T19:44:56Z
   Vendor: Quincy Mae
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM491MIGS-NATURAL-1_1.webp?v=1746085808
-  Price: $57.99 NZD
+  Price: $72.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-dani-romper-ocean-stripe): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-12-08T10:36:24Z
+  Updated: 2025-12-17T19:44:57Z
   Vendor: rylee + cru
   Product Type: Romper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC792DALA-NATURAL-1.webp?v=1748473558
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-dani-romper-ocean-stripe?variant=41416261337182)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-dani-romper-ocean-stripe?variant=41416264253534)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-dani-romper-ocean-stripe?variant=41416264286302)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-rose-dress-seafoam): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-11-25T20:52:54Z
+  Updated: 2025-12-17T19:44:58Z
   Vendor: rylee + cru
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC722WREN-SEAFOAM-1.webp?v=1748473444
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-rose-dress-seafoam?variant=41416277393502)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-rose-dress-seafoam?variant=41416271855710)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-rose-dress-seafoam?variant=41416271888478)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-rose-dress-seafoam?variant=41416271921246)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-ella-cardigan-poppy): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-11-25T20:52:55Z
+  Updated: 2025-12-17T19:44:58Z
   Vendor: rylee + cru
   Product Type: Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC674YLAN-POPPY-1_1.webp?v=1748473264
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-ella-cardigan-poppy?variant=41416281423966)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-ella-cardigan-poppy?variant=41416283848798)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-ella-cardigan-ivory): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-11-25T20:52:55Z
+  Updated: 2025-12-17T19:44:59Z
   Vendor: rylee + cru
   Product Type: Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC674DINJ-IVORY-1.webp?v=1748473134
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-ella-cardigan-ivory?variant=41416284471390)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-ella-cardigan-ivory?variant=41416284504158)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-sweatshirt-sardines): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-11-25T20:52:56Z
+  Updated: 2025-12-17T19:44:59Z
   Vendor: rylee + cru
   Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC318WREN-SEAFOAM-1.webp?v=1748473012
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-sweatshirt-sardines?variant=41416285356126)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-sweatshirt-sardines?variant=41416285388894)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-sweatshirt-sardines?variant=41416285782110)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-sweatshirt-sardines?variant=41416285814878)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [QUINCY MAE Wrap Top + Footed Pant Set - Mint](https://www.littlebambinos.co.nz/products/quincy-mae-wrap-top-footed-pant-set-mint): Quincy Mae's new Waffle Top + Pant Set for kids includes the softest long sleeve top and cosy pants, perfect for everyday wear. Made of 100% certified organic cotton.
-  Updated: 2025-11-25T20:52:57Z
+  Updated: 2025-12-17T19:45:00Z
   Vendor: Quincy Mae
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM201FETT-MINT-1.jpg?v=1739758287
   - [NB](https://www.littlebambinos.co.nz/products/quincy-mae-wrap-top-footed-pant-set-mint?variant=41416296038494)
     Availability: Available
-    Price: $37.99 NZD
+    Price: $48.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/quincy-mae-wrap-top-footed-pant-set-mint?variant=41416296071262)
     Availability: Available
-    Price: $37.99 NZD
+    Price: $48.00 NZD
 - [QUINCY MAE Zip Longsleeve Sleeper - Puppies](https://www.littlebambinos.co.nz/products/quincy-mae-zip-longsleeve-sleeper-puppies): Quincy Mae's new Waffle Top + Pant Set for kids includes the softest long sleeve top and cosy pants, perfect for everyday wear. Made of 100% certified organic cotton.
-  Updated: 2025-12-12T09:51:11Z
+  Updated: 2025-12-17T19:45:01Z
   Vendor: Quincy Mae
   Product Type: sleepsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM078MIGS-NATURAL-1.jpg?v=1739758342
   - [0-3m](https://www.littlebambinos.co.nz/products/quincy-mae-zip-longsleeve-sleeper-puppies?variant=41416299741278)
     Availability: Not Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-zip-longsleeve-sleeper-puppies?variant=41416299708510)
-    Availability: Available
-    Price: $33.99 NZD
+    Availability: Not Available
+    Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-zip-longsleeve-sleeper-puppies?variant=41416301117534)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [QUINCY MAE Ribbed Short Sleeve Tee + Legging Set - Apples](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-short-sleeve-tee-legging-set-apples): Quincy Mae's new Waffle Top + Pant Set for kids includes the softest long sleeve top and cosy pants, perfect for everyday wear. Made of 100% certified organic cotton.
-  Updated: 2025-11-25T20:52:58Z
+  Updated: 2025-12-17T19:45:02Z
   Vendor: Quincy Mae
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM494FETT-MINT-1.jpg?v=1739758386
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-short-sleeve-tee-legging-set-apples?variant=41416301510750)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-short-sleeve-tee-legging-set-apples?variant=41416301543518)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-short-sleeve-tee-legging-set-apples?variant=41416301772894)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
 - [QUINCY MAE Waffle Slouched Set - Blue](https://www.littlebambinos.co.nz/products/quincy-mae-waffle-slouched-set-blue): Quincy Mae's new Waffle Top + Pant Set for kids includes the softest long sleeve top and cosy pants, perfect for everyday wear. Made of 100% certified organic cotton.
-  Updated: 2025-11-26T01:22:33Z
+  Updated: 2025-12-17T19:45:03Z
   Vendor: Quincy Mae
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM107VIZS-BLUE-1.jpg?v=1739758457
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-waffle-slouched-set-blue?variant=41416307015774)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-waffle-slouched-set-blue?variant=41416307048542)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-waffle-slouched-set-blue?variant=41416307081310)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-waffle-slouched-set-blue?variant=41416307114078)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-scalloped-cardigan-yellow): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
-  Updated: 2025-11-26T01:22:33Z
+  Updated: 2025-12-17T19:45:04Z
   Vendor: Quincy Mae
   Product Type: Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM470MAND-YELLOW-1_9b46f7a1-a553-4b2f-94c1-921d999c8d0b.jpg?v=1741558249
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-scalloped-cardigan-yellow?variant=41416316780638)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-scalloped-cardigan-yellow?variant=41416316813406)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-scalloped-cardigan-yellow?variant=41416316846174)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
 - [QUINCY MAE Knit Booties - Yellow](https://www.littlebambinos.co.nz/products/konges-slojd-knit-booties-yellow): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-26T01:22:34Z
+  Updated: 2025-12-17T19:45:05Z
   Vendor: Quincy Mae
   Product Type: Booties
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QMA068MAND-YELLOW-1.jpg?v=1739758638
-  Price: $33.99 NZD
+  Price: $42.00 NZD
 - [QUINCY MAE Knit Booties - Bubblegum](https://www.littlebambinos.co.nz/products/konges-slojd-knit-booties-bubblegum): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-25T20:53:02Z
+  Updated: 2025-12-17T19:45:05Z
   Vendor: Quincy Mae
   Product Type: Booties
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QMA068MOFF-BUBBLEGUM-1.jpg?v=1739758663
   - [0-3m](https://www.littlebambinos.co.nz/products/konges-slojd-knit-booties-bubblegum?variant=41416320155742)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/konges-slojd-knit-booties-bubblegum?variant=41416320188510)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [QUINCY MAE Knit Overall - Mint](https://www.littlebambinos.co.nz/products/quincy-mae-knit-overall-mint): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-25T20:53:03Z
+  Updated: 2025-12-17T19:45:06Z
   Vendor: Quincy Mae
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM057FETT-MINT-1.jpg?v=1740440803
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-overall-mint?variant=41416324251742)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-overall-mint?variant=41416324218974)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-overall-mint?variant=41416324481118)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
 - [QUINCY MAE Swim Diaper - Summer Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-swim-diaper-summer-stripe-1): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
   Updated: 2025-11-18T22:42:52Z
   Vendor: Quincy Mae
@@ -7991,23 +7901,23 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $50.00 NZD
 - [RYLEE + CRU Oversized Sweatshirt - Joie De Vivre](https://www.littlebambinos.co.nz/products/quincy-mae-oversized-sweatshirt-joie-de-vivre): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-25T20:53:03Z
+  Updated: 2025-12-17T19:45:07Z
   Vendor: rylee + cru
   Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC599RULA-NATURAL-1.webp?v=1742264630
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-oversized-sweatshirt-joie-de-vivre?variant=41416339128414)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-oversized-sweatshirt-joie-de-vivre?variant=41416339095646)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-oversized-sweatshirt-joie-de-vivre?variant=41416339161182)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-oversized-sweatshirt-joie-de-vivre?variant=41416339062878)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
 - [RYLEE + CRU Boardshort - Sage Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-boardshort-sage-stripe): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
   Updated: 2025-11-18T22:42:52Z
   Vendor: rylee + cru
@@ -8030,35 +7940,35 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $49.00 NZD
 - [RYLEE + CRU Relaxed Jogger - Poppy Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-jogger-poppy-stripe): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-26T01:22:36Z
+  Updated: 2025-12-17T19:45:08Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC842PVPA-POPPY-1_e247765e-f06f-44ce-ad6e-8ad704632083.webp?v=1742252053
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-jogger-poppy-stripe?variant=41416344666206)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-jogger-poppy-stripe?variant=41416344731742)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-jogger-poppy-stripe?variant=41416344764510)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-relaxed-jogger-poppy-stripe?variant=41416344797278)
     Availability: Available
-    Price: $59.99 NZD
+    Price: $75.00 NZD
 - [RYLEE + CRU Jacques Sweater - Poppy Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-jacques-sweater-poppy-stripe): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-26T01:22:36Z
+  Updated: 2025-12-17T19:45:09Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Image47_2048x_ca841801-964f-41e1-bdbf-f73dbb3403e6.webp?v=1742264785
   - [4-5](https://www.littlebambinos.co.nz/products/quincy-mae-jacques-sweater-poppy-stripe?variant=41416349515870)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/quincy-mae-jacques-sweater-poppy-stripe?variant=41416349548638)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [RYLEE + CRU Mini Backpack - Blue Daisies](https://www.littlebambinos.co.nz/products/quincy-mae-mini-backpack-blue-daisies): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
   Updated: 2025-11-18T22:42:52Z
   Vendor: rylee + cru
@@ -8067,78 +7977,78 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/11d03f2ebdaisbackpack.webp?v=1742265077
   Price: $80.00 NZD
 - [QUINCY MAE Jersey Sleep Bag - Sage Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-jersey-sleep-bag-sage-stripe): This Jersey Sleep Bag is crafted from a soft organic brushed cotton, designed with a zip opening for safe and easy naps and bedtime. It showcases the ‘sage stripe’ pattern, offering a fresh and calming striped design perfect for spring. TOG Rating: 1.0 CAUTION: KEEP AWAY FROM HEAT AND FLAME
-  Updated: 2025-11-25T20:53:06Z
+  Updated: 2025-12-17T19:45:09Z
   Vendor: Quincy Mae
   Product Type: Sleep bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QMA098BERL-SAGE-1.webp?v=1749698794
-  Price: $47.99 NZD
+  Price: $60.00 NZD
 - [QUINCY MAE Bamboo Zip Footie - Strawberries](https://www.littlebambinos.co.nz/products/quincy-mae-bamboo-zip-footie-strawberries): This full-zip footie is crafted from soft, stretchy bamboo fabric for gentle comfort. It showcases our lively summer ‘strawberries’ design set against a delicate ivory background, perfect for keeping your little one cozy and stylish. *Fold-over hand mitts included in sizes NB - 3-6M.*Rubber dots on soles of sizes 6-12M - 12-18M.
-  Updated: 2025-11-28T05:55:32Z
+  Updated: 2025-12-17T19:45:10Z
   Vendor: Quincy Mae
   Product Type: Sleep bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM092URSK-IVORY-1.webp?v=1749698611
   - [NB](https://www.littlebambinos.co.nz/products/quincy-mae-bamboo-zip-footie-strawberries?variant=41416365080670)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-bamboo-zip-footie-strawberries?variant=41416365867102)
     Availability: Not Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
 - [QUINCY MAE Take Home Set - Mint](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-mint): This Take Home Set, crafted from a soft, lightweight waffle fabric, offers an ideal outfit for your newborn. It includes a charming bonnet, a wrap snap top, and cozy footed drawstring pants, all in a refreshing mint shade.
-  Updated: 2025-12-11T04:46:56Z
+  Updated: 2025-12-17T19:45:11Z
   Vendor: Quincy Mae
   Product Type: Sleep bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM561URZA-MINT-1.webp?v=1749697802
   - [NB](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-mint?variant=41416374452318)
     Availability: Not Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-mint?variant=41416374485086)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
 - [QUINCY MAE Knit Cardigan - Sage](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-sage): This Knit Cardigan showcases a lovely knit pattern complemented by charming coconut buttons for a delicate touch. It comes in a rich ‘sage’ shade, perfect for adding warmth and style.
-  Updated: 2025-12-03T18:09:00Z
+  Updated: 2025-12-17T19:45:12Z
   Vendor: Quincy Mae
   Product Type: Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM072BERL-SAGE-1.webp?v=1749697320
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-sage?variant=41416393982046)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-sage?variant=41416394014814)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-sage?variant=41416395292766)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-sage?variant=41416395325534)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-sage?variant=41416395358302)
-    Availability: Available
-    Price: $46.99 NZD
+    Availability: Not Available
+    Price: $59.00 NZD
 - [QUINCY MAE Knit Cardigan - Melon](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon): This Knit Cardigan showcases a lovely knit pattern complemented by charming coconut buttons, adding a delightful touch. It comes in a fresh and vibrant ‘melon’ shade, perfect for summer.
-  Updated: 2025-12-03T18:09:02Z
+  Updated: 2025-12-17T19:45:13Z
   Vendor: Quincy Mae
   Product Type: Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM072NUME-MELON-1.webp?v=1749696928
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon?variant=41416397488222)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon?variant=41416397520990)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon?variant=41416397553758)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon?variant=41416397586526)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon?variant=41416397619294)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [QUINCY MAE Rashguard - Oat](https://www.littlebambinos.co.nz/products/quincy-mae-rashguard-oat): This rashguard swim top offers excellent sun protection for your child while looking great. It has long sleeves made from a soft, extra-stretchy fabric for comfort and flexibility. Designed to match the Boys Swim Short, it provides UPF 50+ protection and comes in a cozy ‘oat’ shade.
   Updated: 2025-11-18T22:42:53Z
   Vendor: Quincy Mae
@@ -8161,23 +8071,23 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $32.00 NZD
 - [QUINCY MAE Boys Swim Short - Oat Check](https://www.littlebambinos.co.nz/products/quincy-mae-boys-swim-short-oat-check): These comfortable boardshorts come with an elastic waistband and adjustable drawstring, making them ideal for days at the pool or beach. They offer UPF 50+ sun protection and showcase a cozy ‘oat check’ pattern on a soft ivory background.
-  Updated: 2025-11-26T01:22:38Z
+  Updated: 2025-12-17T19:45:14Z
   Vendor: Quincy Mae
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM333URSK-IVORY-1.webp?v=1749695249
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-boys-swim-short-oat-check?variant=41416466923614)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-boys-swim-short-oat-check?variant=41416466956382)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-boys-swim-short-oat-check?variant=41416466989150)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-boys-swim-short-oat-check?variant=41416467021918)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [QUINCY MAE Byron Rashguard One-Piece - Strawberries](https://www.littlebambinos.co.nz/products/quincy-mae-byron-rashguard-one-piece-strawberries): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
   Updated: 2025-11-18T22:42:53Z
   Vendor: Quincy Mae
@@ -8203,122 +8113,122 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $52.00 NZD
 - [RYLEE + CRU Karli Set - Daisy](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-daisy): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-12-04T16:50:45Z
+  Updated: 2025-12-17T19:45:15Z
   Vendor: rylee + cru
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC810POMP-GRAPEFRUIT-1.webp?v=1748472851
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-daisy?variant=41416485339230)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-daisy?variant=41416485371998)
     Availability: Not Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-daisy?variant=41416485404766)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-daisy?variant=41416487370846)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [RYLEE + CRU Karli Set - Shells](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-shells): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-26T01:22:38Z
+  Updated: 2025-12-17T19:45:16Z
   Vendor: rylee + cru
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC810TLMM-SHELL-1.webp?v=1748472725
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-shells?variant=41416488517726)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-shells?variant=41416488550494)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-karli-set-shells?variant=41416488583262)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [RYLEE + CRU Cozy Rib Knit Set - Grapefruit](https://www.littlebambinos.co.nz/products/quincy-mae-cozy-rib-knit-set-pink): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-26T01:22:39Z
+  Updated: 2025-12-17T19:45:16Z
   Vendor: rylee + cru
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC667POMP-GRAPEFRUIT-1.webp?v=1748472604
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-cozy-rib-knit-set-pink?variant=41416491368542)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-cozy-rib-knit-set-pink?variant=41416492351582)
     Availability: Available
-    Price: $67.99 NZD
+    Price: $85.00 NZD
 - [RYLEE + CRU Crochet Tank Mini Dress - Pink Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-crochet-tank-mini-dress-pink): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-25T20:53:15Z
+  Updated: 2025-12-17T19:45:17Z
   Vendor: rylee + cru
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC643SWNH-PINK-1.webp?v=1748472456
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-crochet-tank-mini-dress-pink?variant=41416494547038)
     Availability: Available
-    Price: $78.99 NZD
+    Price: $99.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-crochet-tank-mini-dress-pink?variant=41416494579806)
     Availability: Available
-    Price: $78.99 NZD
+    Price: $99.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/quincy-mae-crochet-tank-mini-dress-pink?variant=41416494612574)
     Availability: Available
-    Price: $78.99 NZD
+    Price: $99.00 NZD
 - [RYLEE + CRU Parachute Pants - Coastal Check](https://www.littlebambinos.co.nz/products/quincy-mae-parachute-pants-coastal-check): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-26T20:38:28Z
+  Updated: 2025-12-17T19:45:18Z
   Vendor: rylee + cru
   Product Type: bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC802TESB-NATURAL-1.webp?v=1748472301
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-parachute-pants-coastal-check?variant=41416506605662)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-parachute-pants-coastal-check?variant=41416506671198)
     Availability: Not Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-parachute-pants-coastal-check?variant=41416507031646)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
 - [RYLEE + CRU Denim Shortalls - Stone](https://www.littlebambinos.co.nz/products/quincy-mae-denim-shortalls-stone): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-11-25T20:53:16Z
+  Updated: 2025-12-17T19:45:18Z
   Vendor: rylee + cru
   Product Type: bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RC811MERL-STONE-1.webp?v=1748472154
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-denim-shortalls-stone?variant=41416512929886)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-denim-shortalls-stone?variant=41416512962654)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-denim-shortalls-stone?variant=41416512995422)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-denim-shortalls-stone?variant=41416513028190)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-denim-shortalls-stone?variant=41416513355870)
     Availability: Available
-    Price: $63.99 NZD
+    Price: $80.00 NZD
 - [RYLEE + CRU Ribbed Legging Set - Wildflower + Grapefruit](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-legging-set-wildflower-grapefruit): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-12-05T06:15:08Z
+  Updated: 2025-12-17T19:45:19Z
   Vendor: rylee + cru
   Product Type: bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PP087ROGF-IVORY-GRAPEFRUIT-1.webp?v=1748471996
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-legging-set-wildflower-grapefruit?variant=41416513945694)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-legging-set-wildflower-grapefruit?variant=41416513978462)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-legging-set-wildflower-grapefruit?variant=41416514011230)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-legging-set-wildflower-grapefruit?variant=41416514043998)
     Availability: Not Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-ribbed-legging-set-wildflower-grapefruit?variant=41416514076766)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
 - [RYLEE + CRU Malibu Bodysuit - Wildflower](https://www.littlebambinos.co.nz/products/quincy-mae-malibu-bodysuit-wildflower): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
   Updated: 2025-11-23T20:19:25Z
   Vendor: rylee + cru
@@ -8349,75 +8259,75 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RCA225TESB-NATURAL-1.webp?v=1748470727
   Price: $80.00 NZD
 - [GROWN Chunky Cable Knit Pull Over - Milk](https://www.littlebambinos.co.nz/products/grown-chunky-cable-knit-pull-over-milk): 100% Organic CottonCool gentle machine wash Classic cable knit design Dropped shoulder Pearl knit sleeves Chunky yarn knit Fit is true to size, refer to size chart for garment measurements. Studio model is aged 4 and wearing size 5 for an oversized look.
-  Updated: 2025-11-26T01:22:41Z
+  Updated: 2025-12-17T19:45:20Z
   Vendor: Grown
   Product Type: Pull Over
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GI25005_Front_1728x_7e21ce49-974e-4356-b3ff-625b57afbbee.webp?v=1754869367
   - [12-18mth](https://www.littlebambinos.co.nz/products/grown-chunky-cable-knit-pull-over-milk?variant=41416554807390)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [2-3yr](https://www.littlebambinos.co.nz/products/grown-chunky-cable-knit-pull-over-milk?variant=41416554872926)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [3-4yr](https://www.littlebambinos.co.nz/products/grown-chunky-cable-knit-pull-over-milk?variant=41416554905694)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [4-5yr](https://www.littlebambinos.co.nz/products/grown-chunky-cable-knit-pull-over-milk?variant=41416554938462)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [5-6yr](https://www.littlebambinos.co.nz/products/grown-chunky-cable-knit-pull-over-milk?variant=41416555266142)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
 - [GROWN Collar Dress - Garden](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden): 100% CottonCool gentle machine wash Press snaps at front opening Pockets inside seams Collar detail Fit is true to size. Refer to size chart for garment measurements. Studio model is aged 4 and wearing a size 5 for oversized look.
-  Updated: 2025-11-25T20:53:18Z
+  Updated: 2025-12-17T19:45:20Z
   Vendor: Grown
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GI25009_Front_1728x_781490b5-5f73-42a6-992f-f053b835fa17.webp?v=1754869174
   - [12-18m](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden?variant=41416557527134)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden?variant=41416557559902)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden?variant=41416557592670)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [3-4y](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden?variant=41416557625438)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden?variant=41416557658206)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/grown-collar-dress-garden?variant=41416557690974)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [GROWN Quilted Reversible Vest - Denim & Paint](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint): Main: 100% Organic Cotton DenimWadding: 100% Recycled Polyester Lining: 100% CottonCool gentle machine wash Fit is true to size, refer to size chart for garment measurements. Studio model is aged 4 and wearing a size 4.
-  Updated: 2025-11-26T01:22:42Z
+  Updated: 2025-12-17T19:45:22Z
   Vendor: Grown
   Product Type: Vest
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GI25011_Front_1728x_bd62f1c4-e13f-47c7-ae51-526aa864341a.webp?v=1754868685
-  Price: $51.99 NZD
+  Price: $65.00 NZD
 - [GROWN Raglan Long Sleeve Tee - Grey Marle](https://www.littlebambinos.co.nz/products/grown-raglan-long-sleeve-tee-grey-marle): 100% Organic CottonWarm gentle machine wash Fit is slightly oversized, refer to size chart for garment measurements. Studio model is aged 4 and wearing size 5 for oversized look.
-  Updated: 2025-11-29T07:27:12Z
+  Updated: 2025-12-17T19:45:23Z
   Vendor: Grown
   Product Type: Long Sleeve T
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GI25004_Front_1728x_eeb60ee1-ff9e-4100-8a3a-21879da780c4.webp?v=1754868419
   - [12-18m](https://www.littlebambinos.co.nz/products/grown-raglan-long-sleeve-tee-grey-marle?variant=41416558706782)
     Availability: Available
-    Price: $39.99 NZD
+    Price: $50.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/grown-raglan-long-sleeve-tee-grey-marle?variant=41416558739550)
     Availability: Available
-    Price: $39.99 NZD
+    Price: $50.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/grown-raglan-long-sleeve-tee-grey-marle?variant=41416558772318)
     Availability: Available
-    Price: $39.99 NZD
+    Price: $50.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/grown-raglan-long-sleeve-tee-grey-marle?variant=41416558870622)
     Availability: Not Available
-    Price: $39.99 NZD
+    Price: $50.00 NZD
 - [GROWN Ribbed Pixie Beanie - Toast](https://www.littlebambinos.co.nz/products/grown-ribbed-pixie-beanie-toast): 100% Organic CottonCool gentle machine wash S - 3months to 9monthsM - 9months to 2yearsL - 2years to 5years
   Updated: 2025-11-18T22:42:54Z
   Vendor: Grown
@@ -8449,45 +8359,45 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [KONGES SLOJD Basic Long Sleeve Newborn Body - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-long-sleeve-newborn-body-tea-stripe): Soft newborn body with long sleeves. Features snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-11-26T01:22:44Z
+  Updated: 2025-12-17T19:45:23Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102243-p25041_1.jpg?v=1738289500
-  Price: $31.99 NZD
+  Price: $40.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe): Soft newborn onesie with long sleeves. Designed with snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-12-01T07:16:46Z
+  Updated: 2025-12-17T19:45:24Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102246-p25041_1.jpg?v=1738289928
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe?variant=41419183947870)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe?variant=41419184013406)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe?variant=41419184046174)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie - Marmalade](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-marmalade): Soft newborn onesie with long sleeves. Designed with snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-12-04T01:45:56Z
+  Updated: 2025-12-17T19:45:25Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102246-p99081_1.jpg?v=1738290240
   - [Prem](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-marmalade?variant=41419185324126)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-marmalade?variant=41419185356894)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-marmalade?variant=41419185389662)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-marmalade?variant=41419185422430)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [KONGES SLOJD Basic Baby Helmet - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-baby-helmet-tea-stripe): Soft baby helmet made from organic cotton with a hint of stretch. Fasten with ties under the chin.
   Updated: 2025-11-18T22:42:54Z
   Vendor: Konges slojd
@@ -8508,45 +8418,45 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102346-p10098_1.jpg?v=1738291023
   Price: $49.00 NZD
 - [KONGES SLOJD Minnie Body - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-body-amour-rouge): Soft cotton body with decorative pointelle. Designed with buttons at the shoulder up to size 18m for easy dressing.
-  Updated: 2025-12-04T01:45:56Z
+  Updated: 2025-12-17T19:45:26Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102585-p15007_1.jpg?v=1738292203
   - [0-1 m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-body-amour-rouge?variant=41419300274270)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-body-amour-rouge?variant=41419300339806)
-    Availability: Available
-    Price: $47.99 NZD
+    Availability: Not Available
+    Price: $60.00 NZD
   - [6m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-body-amour-rouge?variant=41419300307038)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-body-amour-rouge?variant=41419300372574)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
 - [KONGES SLOJD Minnie Onesie - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-onesie-amour-rouge-1): Soft pointelle onesie. Designed with snap buttons at the shoulder and crotch for easy dressing.
-  Updated: 2025-11-26T01:22:45Z
+  Updated: 2025-12-17T19:45:26Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102586-p15007_1.jpg?v=1738292416
-  Price: $51.99 NZD
+  Price: $65.00 NZD
 - [KONGES SLOJD Minnie Newborn Onesie - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge): Soft pointelle onesie. Designed with snap buttons at the shoulder and crotch for easy dressing.
-  Updated: 2025-11-27T04:48:37Z
+  Updated: 2025-12-17T19:45:27Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102588-p15007_1.jpg?v=1738292579
   - [PREM](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge?variant=41419304796254)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge?variant=41419304829022)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [6m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge?variant=41988685693022)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
 - [KONGES SLOJD Children's Mini Backpack - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-jody-teddy-backpack-mon-grand-citron-sage): The Konges Slojd mini backpack is a perfect bag for children in kindergarten. The backpack has a front-chest buckle, padded shoulder straps, inside pockets, room for a thermal bottle and an inside water repellent foam board for back comfort. The foam board is removable and can be used to sit on as well.
   Updated: 2025-11-18T22:42:54Z
   Vendor: Konges slojd
@@ -8649,7 +8559,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $83.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Scoop One Piece - Shell Pink](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-scoop-one-piece-shell-pink): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-11-18T22:42:55Z
+  Updated: 2025-12-18T01:04:17Z
   Vendor: Zulu & Zephyr
   Product Type: Onepiece
   Availability: Available
@@ -8673,7 +8583,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $83.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-scoop-one-piece-shell-pink?variant=41448747204702)
-    Availability: Available
+    Availability: Not Available
     Price: $83.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Logo Bikini Top - Marigold](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-logo-bikini-top-marigold): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
   Updated: 2025-11-18T22:42:55Z
@@ -8766,7 +8676,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $72.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Bikini Bottom - Shell Pink](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-bikini-bototm-shell-pink): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-11-21T01:57:27Z
+  Updated: 2025-12-18T01:04:17Z
   Vendor: Zulu & Zephyr
   Product Type: Swimwear
   Availability: Available
@@ -8781,7 +8691,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-bikini-bototm-shell-pink?variant=41448756412510)
-    Availability: Available
+    Availability: Not Available
     Price: $89.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-bikini-bototm-shell-pink?variant=41448756445278)
     Availability: Not Available
@@ -8814,13 +8724,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $56.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Surf Suit - Parrot Green](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-suit-parrot-green): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-12-06T04:34:43Z
+  Updated: 2025-12-17T19:15:52Z
   Vendor: Zulu & Zephyr
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ZM1765G_1_1120x_aaa8d1fe-fb31-4b83-8c95-5591ed903d6c.webp?v=1762200067
   - [1y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-suit-parrot-green?variant=41448765390942)
-    Availability: Available
+    Availability: Not Available
     Price: $89.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-suit-parrot-green?variant=41448765423710)
     Availability: Available
@@ -8832,7 +8742,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-suit-parrot-green?variant=41448765522014)
-    Availability: Available
+    Availability: Not Available
     Price: $89.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Rashie - Parrot Green](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-rashie-parrot-green): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
   Updated: 2025-12-09T10:17:21Z
@@ -8907,7 +8817,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $45.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Logo Bikini Top - Shell Pink](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-logo-bikini-top-shell-pink): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-11-18T22:42:56Z
+  Updated: 2025-12-18T01:04:16Z
   Vendor: Zulu & Zephyr
   Product Type: Swimwear
   Availability: Available
@@ -8925,167 +8835,155 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $45.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-logo-bikini-top-shell-pink?variant=41448771649630)
-    Availability: Available
+    Availability: Not Available
     Price: $45.00 NZD
 - [HUXBABY Midnight Cord Overalls - Midnight Multi](https://www.littlebambinos.co.nz/products/huxbaby-midnight-cord-overalls-midnight-multi): A classic pair of 90s overalls, in a midnight blue hue. Made from soft cotton cord, they feature adjustable straps for a relaxed, casual fit and a sporty Huxbear embroidery on the chest. Baby sizes include stainless steel crotch snaps for easy dressing. Style them alone or over a tee.
-  Updated: 2025-12-10T07:10:51Z
+  Updated: 2025-12-17T19:45:27Z
   Vendor: HUXBABY
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB0026W25_01_WHITE.jpg?v=1741124362
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-midnight-cord-overalls-midnight-multi?variant=41450111205470)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-cord-overalls-midnight-multi?variant=41450111238238)
     Availability: Not Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-cord-overalls-midnight-multi?variant=41450111271006)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-cord-overalls-midnight-multi?variant=41450111303774)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
 - [HUXBABY Dreamy Denim Bomber Jacket - Denim](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-bomber-jacket-denim): The ultimate denim jacket. This vintage style bomber is made from soft-as-butter denim that feels too good not to wear day after day. Featuring a varsity Huxbear embroidery, antique brass snap buttons and front pockets for snacks on-the-go, it doesn’t get much cooler than this.
-  Updated: 2025-12-13T19:08:17Z
+  Updated: 2025-12-17T19:45:29Z
   Vendor: HUXBABY
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB4019W25_01_WHITE.jpg?v=1741124293
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-bomber-jacket-denim?variant=41450115760222)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-bomber-jacket-denim?variant=41450115792990)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-bomber-jacket-denim?variant=41450115825758)
     Availability: Not Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-bomber-jacket-denim?variant=41450115858526)
     Availability: Available
-    Price: $62.99 NZD
+    Price: $79.00 NZD
 - [HUXBABY Dreamy Denim Jeans - Denim](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-jeans-denim): Best. Jeans. Ever. Made from the softest denim you’ll ever feel, they feature a kid-friendly elasticated waistband and functional zipper fly on sizes 4 and up. Front, side and back pockets hide treasures perfectly, and an oversized, relaxed cut looks cool on every occasion. Spot the Huxbear patch on the bum as they run away to play.
-  Updated: 2025-11-26T01:22:50Z
+  Updated: 2025-12-17T19:45:30Z
   Vendor: HUXBABY
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB6021W25_01_WHITE.jpg?v=1741124132
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-jeans-denim?variant=41450121723998)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-jeans-denim?variant=41450121822302)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [HUXBABY Dreamy Denim Shorts - Denim](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim): No other shorts compare. Made from the softest denim you’ll ever feel, they feature a kid-friendly elasticated waistband and adjustable drawstring. Front and back pockets hide treasures perfectly, and an oversized, relaxed cut looks cool on every occasion. Spot the Spot the Huxbear patch on the bum as they run away to play.
-  Updated: 2025-12-03T17:40:02Z
+  Updated: 2025-12-17T19:45:31Z
   Vendor: HUXBABY
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB6022W25_01_WHITE.jpg?v=1741123830
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim?variant=41450122936414)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim?variant=41450123034718)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [HUXBABY College Hux Blue Stripe Romper - Blue](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-blue-stripe-romper-blue): A marshmallow-soft striped romper with fun and furry Huxbear embroidery. Consciously crafted from premium organic cotton, it has stainless steel snaps at the shoulder and crotch for super snappy dressing. Just add squishy legs.
-  Updated: 2025-11-25T20:53:28Z
+  Updated: 2025-12-17T19:45:31Z
   Vendor: HUXBABY
   Product Type: Romper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB0058W25_01_WHITE.jpg?v=1741123695
   - [0-3m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-blue-stripe-romper-blue?variant=41450124116062)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-blue-stripe-romper-blue?variant=41450124148830)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-blue-stripe-romper-blue?variant=41450124181598)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-blue-stripe-romper-blue?variant=41450124214366)
     Availability: Available
-    Price: $33.99 NZD
-- [HUXBABY Midnight Colour Block Overalls - Midnight Multi](https://www.littlebambinos.co.nz/products/huxbaby-midnight-colour-block-overalls-midnight-multi): A classic pair of 90s overalls, in a wide leg vintage cut. Made from soft cotton cord, they feature adjustable straps for comfy wear, front and back pockets perfect for stashing treasures in and our varsity Huxbear embroidery. Baby sizes include stainless steel crotch snaps for easy dressing. Style them alone or over a tee.
-  Updated: 2025-12-13T19:08:17Z
-  Vendor: HUXBABY
-  Product Type: Overalls
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB0024W25_01_WHITE.jpg?v=1741123635
-  - [4y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-colour-block-overalls-midnight-multi?variant=41450127327326)
-    Availability: Not Available
-    Price: $43.99 NZD
-  - [5y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-colour-block-overalls-midnight-multi?variant=41562055606366)
-    Availability: Available
-    Price: $43.99 NZD
+    Price: $42.00 NZD
 - [HUXBABY Baseball Hux Shorts - Grey Marle](https://www.littlebambinos.co.nz/products/huxbaby-baseball-hux-shorts-grey-marle): A cosy pair of fleece shorts in a retro baseball style. Made from fluffy organic cotton, they feature a functional drawstring for an adjustable fit, a Huxbear embroidery detail and a soft, stretchy waistband to keep little tummies snug. Made for climbing, jumping and hitting home runs.
-  Updated: 2025-11-26T01:22:52Z
+  Updated: 2025-12-17T19:45:32Z
   Vendor: HUXBABY
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB6301W25_01_WHITE.jpg?v=1741123587
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-baseball-hux-shorts-grey-marle?variant=41450128441438)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-baseball-hux-shorts-grey-marle?variant=41450128474206)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/huxbaby-baseball-hux-shorts-grey-marle?variant=41450128506974)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/huxbaby-baseball-hux-shorts-grey-marle?variant=41450128539742)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [HUXBABY Rainbow Daisy Jumper - Multi](https://www.littlebambinos.co.nz/products/huxbaby-rainbow-daisy-jumper-multi): An extra fuzzy sweater. This feather knit jumper is deliciously soft with jacquarded knit flowers all over. Light enough to layer and cosy enough to wear on its own, it’ll keep your little one snug as a bug in a flowerbed. Featuring shoulder buttons in baby sizes for easy dressing.
-  Updated: 2025-11-26T01:22:52Z
+  Updated: 2025-12-17T19:45:33Z
   Vendor: HUXBABY
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB5188W25_01_WHITE.jpg?v=1741123538
-  Price: $49.99 NZD
+  Price: $62.00 NZD
 - [HUXBABY Peeping Pocket Girl Cardi - Multi](https://www.littlebambinos.co.nz/products/huxbaby-peeping-pocket-girl-cardi-multi): Take me back to the 90s. This nostalgic pink cardi is a colour block dream, made from organic cotton in a chunky weave for comfort and warmth. Featuring easy buttons and peeping Huxette pockets.
-  Updated: 2025-12-12T06:17:57Z
+  Updated: 2025-12-17T19:45:34Z
   Vendor: HUXBABY
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB5311W25_01_WHITE.jpg?v=1741123436
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-peeping-pocket-girl-cardi-multi?variant=41450133454942)
     Availability: Available
-    Price: $53.99 NZD
+    Price: $67.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-peeping-pocket-girl-cardi-multi?variant=41450133487710)
     Availability: Not Available
-    Price: $53.99 NZD
+    Price: $67.00 NZD
 - [HUXBABY Blush Colour Block Overall - Blush Multi](https://www.littlebambinos.co.nz/products/huxbaby-blush-colour-block-overall-blush-multi): A classic pair of 90s overalls, in a wide leg vintage cut. Made from soft cotton cord, they feature adjustable straps for comfy wear, front and back pockets perfect for stashing treasures in and our varsity Huxette embroidery. Baby sizes include stainless steel crotch snaps for easy dressing. Style them alone or over a tee.
-  Updated: 2025-11-26T01:22:54Z
+  Updated: 2025-12-17T19:45:34Z
   Vendor: HUXBABY
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB0192W25_01_WHITE.jpg?v=1741123190
-  Price: $53.99 NZD
+  Price: $67.00 NZD
 - [HUXBABY Orchid Cord Pant - Orchid](https://www.littlebambinos.co.nz/products/huxbaby-orchid-cord-pant-orchid): Party pants, but make them comfy. These cotton cord trousers are designed with a vintage, wide leg cut, functional drawstring for an adjustable fit and front patch pockets for stashing snacks—they’re your ‘pair with everything’ pant in pretty purple.
-  Updated: 2025-11-26T01:22:55Z
+  Updated: 2025-12-17T19:45:35Z
   Vendor: HUXBABY
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB6195W25_01_WHITE.jpg?v=1741123154
-  Price: $43.99 NZD
+  Price: $55.00 NZD
 - [HUXBABY College Hux Orchid Stripe Romper - Orchid / Almond Milk](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-orchid-stripe-romper-orchid): A marshmallow-soft striped purple romper with fun and furry Huxette embroidery. Consciously crafted from premium organic cotton, it has stainless steel snaps at the shoulder and crotch for super snappy dressing. Just add squishy legs.
-  Updated: 2025-11-25T20:53:33Z
+  Updated: 2025-12-17T19:45:36Z
   Vendor: HUXBABY
   Product Type: Romper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB0237W25_01_WHITE.jpg?v=1741123078
   - [0-3m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-orchid-stripe-romper-orchid?variant=41450140794974)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-orchid-stripe-romper-orchid?variant=41450140827742)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-orchid-stripe-romper-orchid?variant=41450140860510)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-orchid-stripe-romper-orchid?variant=41450140893278)
     Availability: Available
-    Price: $54.99 NZD
+    Price: $69.00 NZD
 - [HUXBABY Rainbow Stripe Knit Beanie](https://www.littlebambinos.co.nz/products/huxbaby-rainbow-stripe-knit-beanie-multi): Keep cold ears covered in this 90s style pastel beanie. Made from a luxurious rainbow wool blend in a chunky weave for ultimate warmth. It features a rainbow stripe and cosy fluffy pompom.
   Updated: 2025-11-18T22:42:56Z
   Vendor: HUXBABY
@@ -9102,44 +9000,44 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
 - [HUXBABY Multi Stripe Hiding Hux Polo - Multi](https://www.littlebambinos.co.nz/products/huxbaby-multi-stripe-hiding-hux-polo-multi): For premium kidswear that combines beautifully soft cotton with a pared-back yet playful aesthetic, look no further than Huxbaby. Their range of rompers, separates, onesies and swimwear caters to every corner of your little one's wardrobe, with mindfulness of design and ease of wear underscoring every collection. - Organic cotton-rich fabric- Collared neckline- Long sleeves- Button placket
-  Updated: 2025-11-26T01:22:56Z
+  Updated: 2025-12-17T19:45:36Z
   Vendor: HUXBABY
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/http___static.theiconic.com.au_p_huxbaby-5090-3623842-3.jpg?v=1746085372
   - [6-12m](https://www.littlebambinos.co.nz/products/huxbaby-multi-stripe-hiding-hux-polo-multi?variant=41450148986974)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/huxbaby-multi-stripe-hiding-hux-polo-multi?variant=41450148757598)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-herb): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-27T08:53:15Z
+  Updated: 2025-12-17T19:45:37Z
   Vendor: Grown
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GAW25018_Herb_Front_5e4bbcb5-651b-4177-af90-d32fc0fcab26.png?v=1742246153
   - [3-6m](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-herb?variant=41450700603486)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-herb?variant=41450700800094)
     Availability: Not Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-tomato): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-27T20:27:40Z
+  Updated: 2025-12-17T19:45:38Z
   Vendor: Grown
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GAW25018_Tomato_Front_e94496d5-0898-41c2-b6f9-d641ab79770f.png?v=1742246082
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-tomato?variant=41450705191006)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-tomato?variant=41450705354846)
     Availability: Not Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-tomato?variant=41450705322078)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
 - [GROWN Ladies Oversized Chunky Rib Pull Over - Herb](https://www.littlebambinos.co.nz/products/grown-ladies-oversized-chunky-rib-pull-over-herb): DETAILS Match your mini! 100% Organic Cotton with GOTS certification Chunky rib knit in a textured yarn Relaxed and oversized fit Dropped shoulder **Ladies Item**
   Updated: 2025-11-18T22:42:57Z
   Vendor: Grown
@@ -9156,20 +9054,20 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $100.00 NZD
 - [GROWN Organic Pebble Tee - Clay](https://www.littlebambinos.co.nz/products/grown-organic-pebble-tee-clay): DETAILS 100% Organic Cotton Jersey fabric Relaxed fit 'Pebble' print
-  Updated: 2025-12-04T16:50:42Z
+  Updated: 2025-12-17T19:45:38Z
   Vendor: Grown
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GAW25026_Clay_34bf0df8-7b8b-4eb4-9dfd-8adb80316ec6.png?v=1742245747
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-organic-pebble-tee-clay?variant=41450731765854)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [1](https://www.littlebambinos.co.nz/products/grown-organic-pebble-tee-clay?variant=41450731798622)
     Availability: Not Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
   - [5](https://www.littlebambinos.co.nz/products/grown-organic-pebble-tee-clay?variant=41450731929694)
     Availability: Available
-    Price: $33.99 NZD
+    Price: $42.00 NZD
 - [GROWN Organic Ribbed Beanie - Raw](https://www.littlebambinos.co.nz/products/grown-organic-ribbed-beanie-raw): DETAILS The cutest beanie ever. 100% Organic Cotton with GOTS certification Raw undyed yarn Rib knitted Beanie, with turned up cuff
   Updated: 2025-11-18T22:42:57Z
   Vendor: Grown
@@ -9181,24 +9079,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Price: $30.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/grown-organic-ribbed-beanie-raw?variant=41450757292126)
     Availability: Available
-    Price: $30.00 NZD
-- [GROWN Organic Striped Pixie Beanie - Herb](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-herb): DETAILS The cutest beanie ever. 100% Organic Cotton with GOTS certification Rib knitted Beanie, with turned up cuff Yarn dyed stripe detail on hem
-  Updated: 2025-11-18T22:42:57Z
-  Vendor: Grown
-  Product Type: Beanie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GAW25008_Herb_b84d176d-00b8-40cc-af24-e14a2b357a09.png?v=1742245529
-  - [XS](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-herb?variant=41450761322590)
-    Availability: Available
-    Price: $30.00 NZD
-  - [S](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-herb?variant=41450761355358)
-    Availability: Not Available
-    Price: $30.00 NZD
-  - [M](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-herb?variant=41450761420894)
-    Availability: Not Available
-    Price: $30.00 NZD
-  - [L](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-herb?variant=41450761453662)
-    Availability: Not Available
     Price: $30.00 NZD
 - [GROWN Organic Striped Pixie Beanie - Tomato](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-tomato): DETAILS The cutest beanie ever. 100% Organic Cotton with GOTS certification Rib knitted Beanie, with turned up cuff Yarn dyed stripe detail on hem
   Updated: 2025-11-27T20:27:37Z
@@ -9247,12 +9127,12 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at10.49.14AM.png?v=1741902559
   Price: $13.00 NZD
 - [KONGES SLOJD Loupy Lou Sweatshirt - Off White Melange](https://www.littlebambinos.co.nz/products/konges-slojd-loupy-lou-sweatshirt-off-white-melange): Our classic Lou sweatshirt is a soft, wearable favorite made from organic cotton. Please note: Smaller sizes, from 9-18 months, feature press buttons on the left shoulder for easy dressing. Sizes 2 years and up feature a regular round neck with rib detailing.
-  Updated: 2025-11-25T20:53:36Z
+  Updated: 2025-12-17T19:45:39Z
   Vendor: Konges slojd
   Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at11.06.42AM.png?v=1746159157
-  Price: $55.99 NZD
+  Price: $70.00 NZD
 - [KONGES SLOJD Minnie Newborn Onesie - Rose Red](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-rose-red): Soft cotton body with decorative pointelle. Designed with buttons at the shoulder up to size 18m for easy dressing.
   Updated: 2025-12-02T18:50:41Z
   Vendor: Konges slojd
@@ -9306,48 +9186,41 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $83.99 NZD
 - [QUINCY MAE Tights - Mauve](https://www.littlebambinos.co.nz/products/quincy-mae-tights-mauve): Knit legging in Quincy Mae's stretchy rib knit with elastic waistband. Slim fit with added stretch to grow with your baby. Shop Quincy Mae for babies and toddlers.
-  Updated: 2025-11-29T07:27:13Z
+  Updated: 2025-12-17T19:45:40Z
   Vendor: Quincy Mae
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at12.13.33PM_8eb926ed-699b-4597-8f7f-4d85200b8b6f.png?v=1746089442
   - [0-6m](https://www.littlebambinos.co.nz/products/quincy-mae-tights-mauve?variant=41563522465886)
     Availability: Not Available
-    Price: $11.99 NZD
+    Price: $15.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-tights-mauve?variant=41563522498654)
     Availability: Available
-    Price: $11.99 NZD
+    Price: $15.00 NZD
   - [12-24m](https://www.littlebambinos.co.nz/products/quincy-mae-tights-mauve?variant=41563522531422)
     Availability: Available
-    Price: $11.99 NZD
+    Price: $15.00 NZD
 - [GROWN Knitted Ribbed Bike Shorts - Wheat](https://www.littlebambinos.co.nz/products/grown-knitted-ribbed-bike-shorts-wheat): 100% Organic CottonRib Bike Shorts made from GOTS certified organic cottonMarble Heather yarn detailElasticised waistband
-  Updated: 2025-11-26T01:23:00Z
+  Updated: 2025-12-17T19:45:41Z
   Vendor: Grown
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at12.31.13PM.png?v=1742245318
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-knitted-ribbed-bike-shorts-wheat?variant=41563543535710)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/grown-knitted-ribbed-bike-shorts-wheat?variant=41563543568478)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/grown-knitted-ribbed-bike-shorts-wheat?variant=41563543601246)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/grown-knitted-ribbed-bike-shorts-wheat?variant=41563543634014)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [3-4y](https://www.littlebambinos.co.nz/products/grown-knitted-ribbed-bike-shorts-wheat?variant=41563558903902)
     Availability: Available
-    Price: $38.99 NZD
-- [HONEYSTICKS Beeswax Crayons Originals Pastel 12pk](https://www.littlebambinos.co.nz/products/honeysticks-originals-pastel): Our Honeysticks Beeswax Crayons Originals Pastel 12pk are a best-seller for a reason - they're the perfect first crayon. Ideal for toddlers aged 1-3, Originals have a short, stubby design made especially for little hands - easy to grip yet tough to break. Handcrafted from pure New Zealand beeswax, they're a safe, sustainable way to introduce your little artist to a world of pure creation. The perfect first crayon: The unique chubby shape of Honeysticks Originals makes them easier for small hands to hold, but much harder for small hands to break! Each crayon is 55mm long and 20mm in diameter. Natural + food-grade ingredients: Handmade using 100% pure New Zealand beeswax and food-grade pigments for colour. Non-toxic and safe for toddlers and children, with no paraffin wax or cheap fillers. Sustainable and low impact: The beeswax used to create Honeysticks is a natural by-product of honey production. This sustainable process causes minimal impact on the environment and gives the crayons a wonderful honey scent. 12 beautiful, pastel shades: Cooling shades for dreamy creations! Our food-grade colours easily bond to the paper, posters or artboard. Handcrafted by families, for families: Designed by parents who believe in a better way to play, Honeysticks Originals are handmade in New Zealand to inspire creativity from the very first scribble.
-  Updated: 2025-11-20T12:12:06Z
-  Vendor: Honeysticks
-  Product Type: Crayon
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Untitled_design_19.webp?v=1763591384
-  Price: $22.95 NZD
+    Price: $49.00 NZD
 - [BIBS Pacifier (Orthodontic) - Couture - Silicone - Vanilla + Peach](https://www.littlebambinos.co.nz/products/bibs-pacifier-orthodontic-couture-silicone-vanilla-peach): The BIBS Couture pacifier has an anatomically shaped nipple - also known as an orthodontic nipple - which is curved at the top for a natural fit to the baby's palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
   Updated: 2025-11-18T22:42:58Z
   Vendor: BIBS
@@ -9413,7 +9286,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-12-12T20:56:41Z
+  Updated: 2025-12-14T21:16:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -9448,7 +9321,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-12-10T09:16:41Z
+  Updated: 2025-12-14T05:56:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -9461,14 +9334,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-12-13T23:52:43Z
+  Updated: 2025-12-15T15:12:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/all_body_oil_4f8190e3-b9fc-4a7c-8e7f-7f4946ec9084.jpg?v=1744072483
   Price: $75.00 NZD
 - [ORIA SKIN Overnight Firming Cream](https://www.littlebambinos.co.nz/products/overnight-firming-cream): 100% Natural Minimise lines.Restore plumpness.Bring balance. Formulated for all stages of life, let the natural bioactives work their magic while you sleep. Wake up to plumper, smoother & happier skin thanks to the hormone-friendly ingredients, organic jasmine, avocado oil & aloe; The natural way to rejuvenate your skin & preserve your glow. How it works: Marine actives that instantly hydrate your face in 15 minutes Notice plumper, firmer skin in 14 days. Repeated use will prolong and improve results, reducing the visibility of fine lines and wrinkles Rose essential oil is a regenerative oil, helping skin become more elastic, hydrated and suitable for sensitive and dry skin. How to use Apply nightly to face & neck in upward strokes. Follow with the Oria Skin Rejuvenating Face Oil. Useful to apply extra around eyes, and neck skin. Select Rose if you are pregnant** Ingredients Overnight Firming Cream 65g (square box) Aloe barbadensis (aloe vera) leaf juice*, Persea gratissima (avocado) oil*, Helianthus annuus (sunflower) seed oil*, Butyrospermum parkii (shea butter)*, Theobroma cacao (cocoa) seed butter*,Sarcothalia circumcincta (Red seaweed), Cyathea medullaris leaf extract (Black fern), Gluconolactone, Sodium benzoate, Potassium sorbate, Calcium gluconate, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Camellia oleifera seed oil*, Totarol* (fallen Totora tree extract) Rosa damascena (Rose essential Oil). *organic
-  Updated: 2025-12-05T21:16:41Z
+  Updated: 2025-12-14T22:16:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -9486,7 +9359,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $79.00 NZD
 - [ORIA SKIN Pink Clay Mask](https://www.littlebambinos.co.nz/products/pink-clay-mask): 100% Natural Deep hydration.Minimise Lines.Bring balance. Healthy skin is glowing skin – and Pink Clay Mask is the solution to both. Perfect for any hormonal season, the formulation uses natural peptide & ceramides to soothe & heal stressed or ageing skin. Let the pink clay & ginseng extract work together to reduce pigmentation, improve texture & hydrate your skin. Feel golden at all stages of life. How it works: Pink clay draws out impurities with the result showing a refreshed look Ginseng is the answer for dull skin - also feeds nutrients to the skin to plump lines Lavender essential oil is chosen for its ability to help fix red blotchiness in the face, is soothing, healing and very calming. How to use Generously apply mask to a moist cleansed face using our facial mask brush. Leave for 15 minutes to work its magic, then remove with a soft face cloth. For maximum glow apply Rejuvenating Face Oil or Balancing Day Cream. Ingredients Kaolin, iron oxides (Pink Clay), Aloe barbadensis (Aloe vera) leaf juice*, Persea gratissima (Avocado) oil*, Helianthus annuus (Sunflower) seed oil*, Butyrospermum parkii (Shea butter)*, Theobroma cacao (Cocoa) seed butter*, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Totarol* Camellia oleifera seed oil*, Panax Ginseng Root Extract (Ginseng), Macropiper excelsum (Kawakawa Extract), Lavandula angustifolia* (Lavender essential oil). *Organic
-  Updated: 2025-11-30T07:40:40Z
+  Updated: 2025-12-14T22:36:47Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -9500,14 +9373,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-12-13T23:56:42Z
+  Updated: 2025-12-15T15:16:45Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
   Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-12-10T09:16:41Z
+  Updated: 2025-12-14T21:16:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -9527,28 +9400,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $80.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-12-09T08:56:43Z
+  Updated: 2025-12-14T22:36:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Vitamin_C_4a3a896f-5caf-4600-bdf5-6e09d06addd2.jpg?v=1744072017
   Price: $79.00 NZD
 - [ORIA SKIN Hormone Helper](https://www.littlebambinos.co.nz/products/hormone-helper): 100% Natural Hormonal harmonyHair regenerationBalance mood A targeted blend to balance the mind & hormonal cycle. Find relief from tension, moodiness & hormonal hair loss. This carefully selected combination of essential oils help to have a normalising effect on the endocrine system. Hormone Helper works in harmony with the body to support you through the natural cycle of perimenopause, menopause & premenstrual issues. 20ml Not suitable for pregnancy. How to use Place 4 drops into hands, inhale & massage into base of neck (thyroid) and lower abdomen area (adrenal & ovaries) . Alternatively create a compress using a warm cloth, add 10 drops of Hormone Helper & apply to the lower back or abdomen for pain relief and instant calming results. For hair growth application, apply 10 drops along the scalp, massage in, or use in targeting hair-loss area. Best to use overnight before you wash your hair. How it works: Castor Seed Oil Hormonal Support: Castor oil is known for its ability to improve circulation and detoxification. It is often used in the form of castor oil packs over the abdomen to help regulate the liver, which plays a critical role in hormone metabolism. By supporting detoxification, it can help balance estrogen levels and alleviate hormone-related symptoms like bloating and menstrual discomfort. 2. Abyssinian Oil Hair growth Abyssinian oil's nourishing properties can help maintain healthy skin, and scalp - excellent for treated dandruff or itchy scalp - which can be impacted by hormonal fluctuations. Healthy skin and hair are often affected by changes in hormones, particularly in cases of estrogen or testosterone imbalance. 3. Meadowfoam Seed Oil Hormonal Support: This oil has a fatty acid profile that closely resembles the skin’s natural oils, making it useful for promoting healthy skin and hormonal acne - it can alleviate the symptoms of hormonal imbalances like acne. It is also good for strengthening hair , preventing split ends -bonus. 4. Rosemary Essential Oil Hormonal Support: Rosemary oil is often used in aromatherapy for its stimulating properties. It is believed to support the adrenal glands, which are responsible for producing stress hormones like cortisol. By reducing the negative effects of chronic stress, rosemary may help keep cortisol levels in balance, indirectly supporting overall hormonal health. 5. Thyme Essential Oil Hormonal Support: Thyme oil is used in traditional medicine to support the endocrine system and improve thyroid function, which regulates many hormones in the body. 6. Myrrh Essential Oil Hormonal Support: Myrrh has been used in traditional medicine for its ability to support the endocrine system. It is also thought to have an adaptogenic effect, helping the body to adapt to stress and balance hormone levels. This makes it useful in managing stress-related hormonal imbalances. 7. Clove Essential Oil Hormonal Support: Clove oil has been shown to have strong antioxidant properties, which can support the body in fighting oxidative stress. Chronic oxidative stress can disrupt hormone function, so using clove oil may help support overall hormonal balance. 8. Lemongrass Essential Oil Hormonal Support: Lemongrass oil is rich in the citral molecule, which has an oestrogen effect, it is useful for the menopause in women. Citral is recognised to be useful to help balance the mind and cycle. It is also said to be helpful with balancing the Thyroid it has a normalising effect on the thyroid. Lemongrass is also useful to treat more of the mental state a woman might experience with peri/ menopause. Lemongrass oil promotes emotional and mental renewal, also useful for those who struggle to get started in the morning. 9. Basil Essential Oil Hormonal Support: Basil essential oil is often used to relieve stress and anxiety, which are known to affect cortisol and other hormone levels. By helping to manage stress, basil oil can indirectly help balance hormones, particularly those affected by adrenal stress. 10. Palmarosa Essential Oil Hormonal Support: Palmarosa is believed to have a balancing effect on the Thyroid- which is responsible for regulating our metabolism. Palmarosa has a normalising effect on the thyroid, useful for weight fluctuation. 11. Carrot Seed Extract Hormonal Support: Carrot seed oil is used for its regenerative properties on the skin, particularly in cases of aging, which is often hormonally influenced (like menopause). It is thought to support liver function, which is important for hormone detoxification. 12. Clary Sage Essential Oil Hormonal Support: Clary sage is one of the most well-known essential oils for balancing hormones, particularly in women. It has phytoestrogenic properties, meaning it can mimic estrogen in the body. This is particularly useful for managing symptoms of PMS, menopause, and hormonal acne. Clary sage also supports the adrenal glands, which help regulate stress hormones. 13. Geranium Essential Oil Hormonal Support: Geranium oil is known to have a balancing effect on the endocrine system, particularly in cases of menstrual irregularities and hormonal fluctuations. It may help regulate estrogen levels and is often used in skincare to reduce hormonal acne and promote overall skin health. 14. Litsea Essential Oil Hormonal Support: Litsea cubeba has a soothing effect and is often used to relieve stress, which can influence cortisol and other hormones. It can help manage mood swings and irritability that often accompany hormonal fluctuations. 15. Aniseed Essential Oil Hormonal Support: Aniseed oil contains compounds that are believed to have phytoestrogenic effects, similar to clary sage. It may support the regulation of estrogen in the body, which can help balance menstrual cycles and reduce symptoms like hot flashes or hormonal acne. Aiseed contains anethole, which has been suggested to mimic oestrogen, is a sexual tonic and can help control hormone deficiency during the menopause. It is useful for hot flashes and mood swings during Menopause. (Di Mola, 2017). 16. Sage Essential Oil Hormonal Support: Sage essential oil is often used to help balance estrogen levels, which can be particularly beneficial for women going through menopause. It is also used to alleviate symptoms like hot flashes, night sweats, and mood swings. Ingredients In no particular order of potency Ricinus communis (Castor) Seed Oil*, Crambe abyssinica (Abyssinian) Oil, Limnanthes alba (Meadowfoam) Seed Oil, Rosmarinus officinalis (Rosemary) Essential Oil*, Thymus vulgaris (Thyme) Essential Oil, Commiphora wightii (Myrrh) Essential Oil, Syzygium aromaticum (Clove) Essential Oil*, Cymbopogon citratus (Lemongrass) Essential Oil*, Ocimum basilicum (Basil) Essential Oil*, Cymbopogon martinii (Palmarosa) Essential Oil, Daucus carota (Carrot Seed) extract*, Salvia sclarea (Clary Sage) Essential Oil*, Pelargonium graveolens (Geranium) Essential Oil*, Litsea cubeba (Litsea) Essential Oil, Pimpinella anisum (Aniseed) Essential Oil, Salvia officinalis (Sage) Essential Oil*. *Organic
-  Updated: 2025-12-07T21:56:41Z
+  Updated: 2025-12-14T22:36:49Z
   Vendor: Oria Skin
   Product Type: Hormone Helper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hormone_helper_e27ec68c-c508-46d1-8d4d-a801a8d6d0b8.jpg?v=1744071968
   Price: $59.00 NZD
 - [ORIA SKIN Blemish Repair Balm](https://www.littlebambinos.co.nz/products/blemish-repair-balm): 100% Natural Soothe inflammation Heal breakoutsReduce redness Crafted for hormonal imbalances, Blemish Repair Balm works with your skin to naturally heal & soothe spots. Zinc oxide provides relief with an instant moisture barrier, alongside effective healers Chamomile & Lavender oils. How it works: Zinc - Significantly reduces the swelling and redness of a skin problem like acne. Can help heal the wound or spot overnight. German Chamomile - relieves irritation, removes redness and swelling. Niacinamide - helps treat acne by reducing inflammation, regulates excess oil production, a skin regenerator so helps the scarring caused by a pimple. Niacinamide, also known as Vitamin B3, is a highly effective ingredient for treating and preventing breakouts. Here's how it helps: Reduces Inflammation: Niacinamide has anti-inflammatory properties that can help calm the skin and reduce the redness and swelling associated with acne. Regulates Sebum Production: It helps balance the skin's oil production, preventing excessive sebum that can clog pores and contribute to breakouts. Minimizes Pore Size: Niacinamide can help tighten and refine pores, reducing the likelihood of clogged pores, which are a common cause of acne. Improves Skin Barrier: By strengthening the skin's natural barrier, niacinamide helps retain moisture and protect the skin from harmful bacteria, further preventing breakouts. Fights Hyperpigmentation: It helps to reduce post-acne marks and dark spots, promoting a more even skin tone over time. How to use Apply to pimples, spots, rashes & other skin breakouts. Patch test before use. Ingredients Zinc Oxide, , Butyrospermum parkii* (shea butter)*, Simmondsia chinensis seed oil* (Jojoba oil*) Matricaria recutita (Chamomile german essential oil). Lavandula angustifolia (Lavender oil*) *Organic
-  Updated: 2025-12-07T21:56:41Z
+  Updated: 2025-12-14T21:16:42Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blemish_repair_balm_fed36dba-cb91-4f3e-bb5c-dffe157c5cc7.jpg?v=1744071930
   Price: $39.00 NZD
 - [ORIA SKIN Claw Clip](https://www.littlebambinos.co.nz/products/oria-skin-claw-clip): Say goodbye to bad hair days and hello to effortless elegance with our Oria Skin Claw Clips. These sleek, stylish clips are the perfect mix of function and flair, designed to keep your hair in place while you apply your skincare products! Featuring our beautiful crescent moon 'O' logo mark. Use them to gently sweep your hair out of the way while applying your Oria Skin masks, serums and creams. No more stray strands in your face or getting stuck in your products—just smooth, clear skin and hassle-free beauty rituals. Made with durable materials built to last. All-day comfort, no tugging, just hassle free sophistication. Add a pop of effortless style to your collection with the Oria Skin Claw Clips—because great hair and perfect skincare should never be a struggle!
-  Updated: 2025-12-11T06:16:41Z
+  Updated: 2025-12-14T00:16:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -9560,7 +9433,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $16.00 NZD
 - [ORIA SKIN Double-ended Mask Brush](https://www.littlebambinos.co.nz/products/double-ended-mask-brush): The Ultimate Mask Application Tool: Two-in-One for Flawless Results! Say hello to smooth, even mask applications with our Double-ended Mask Brush! Designed to make your skincare routine easier and more luxurious, this must-have tool features a silicone scraper on one end and a super soft brush on the other—perfect for all your masking needs. The silicone scraper allows you to easily scoop and spread your favorite masks without wasting a drop, ensuring you get every last bit from the jar. On the flip side, the ultra-soft brush glides smoothly over your skin, delivering a perfectly even application every time. No more messy hands, uneven coverage, or product waste—just smooth, glowing skin from start to finish! Elevate your skincare routine with the Double-Ended Mask Brush—because flawless skin starts with the perfect application!
-  Updated: 2025-11-25T09:12:41Z
+  Updated: 2025-12-14T22:36:50Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -9610,41 +9483,41 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/16EA58A6-AEE0-4D43-AEB0-47C1DAAD09CB.jpg?v=1744080429
     Price: $199.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging - Cinnamon Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-legging-cinnamon-stripe): Stay cosy with Wilson & Frenchy's knitted leggings for babies. Made from a blend of organic cotton, bamboo, and wool, these leggings will keep your little one warm and comfortable. The soft elastic waistband is gentle on their tummies, making them perfect for all-day wear. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-11-25T20:53:40Z
+  Updated: 2025-12-17T19:45:42Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2560-01_1_8a319a18-50ad-4d6f-a0b6-ee33e88301ec.jpg?v=1746158503
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-legging-cinnamon-stripe?variant=41647368372318)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-legging-cinnamon-stripe?variant=41647368405086)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-legging-cinnamon-stripe?variant=41647368437854)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-legging-cinnamon-stripe?variant=41647368470622)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Knitted Kimono Cardigan - Cinnamon Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-kimono-cardigan-cinnamon-stripe): Introducing Wilson & Frenchy's knitted kimono cardigan for babies. With a cosy cross over design, long sleeves, and mock wood buttons, this cardigan is both stylish and functional. DETAILS Made from a blend of organic cotton, bamboo, and wool, it's easy to put on and take off, providing extra warmth for your little one. Comfort and cuteness combined. Key Features: Rounded neckline with side front button opening, mock wood buttons, double layer front, organic cotton, bamboo, wool blend, packaged in a bio-degradable bag.
-  Updated: 2025-11-25T20:53:41Z
+  Updated: 2025-12-17T19:45:42Z
   Vendor: Wilson & Frenchy
   Product Type: Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2550-01_1_9fff452f-d611-4842-a787-18675ee0cc7f.jpg?v=1746158440
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-kimono-cardigan-cinnamon-stripe?variant=41647377842270)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-kimono-cardigan-cinnamon-stripe?variant=41647377875038)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-kimono-cardigan-cinnamon-stripe?variant=41647377907806)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-kimono-cardigan-cinnamon-stripe?variant=41647377940574)
     Availability: Available
-    Price: $38.99 NZD
+    Price: $49.00 NZD
 - [WILSON & FRENCHY Organic Knitted Bear Hat - Cookie and Cream](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-bear-hat-cookie-and-cream): This knitted hat with bear ears is the cutest way to keep little heads warm this winter. Made from organic cotton, bamboo, and wool, it features a soft turn up ribbed cuff for added warmth and comfort. A playful addition to any winter outfit. DETAILS Cute bear ears, soft ribbed turn up, gentle on baby's delicate skin, packaged in a bio-degradable bag. Made in India.
   Updated: 2025-11-18T22:43:03Z
   Vendor: Wilson & Frenchy
@@ -9661,104 +9534,104 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging - Coco Speckle](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-legging-coco-speckle): Stay cosy with Wilson & Frenchy's knitted leggings for babies. Made from a blend of organic cotton, bamboo, and wool, these leggings will keep your little one warm and comfortable. The soft elastic waistband is gentle on their tummies, making them perfect for all-day wear. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-12-12T09:51:11Z
+  Updated: 2025-12-17T19:45:43Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2562-02A_1_748c5669-30d5-49c5-94ea-80d768d92de0.jpg?v=1746158261
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-legging-coco-speckle?variant=41647404286046)
     Availability: Not Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-legging-coco-speckle?variant=41647404318814)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-legging-coco-speckle?variant=41647404351582)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Knitted Cable Jacket - Coco Speckle](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-cable-jacket-coco-speckle): Introducing our cosy knitted jacket with a hood and adorable bear ears. Made of a luxurious blend of organic cotton, bamboo, and wool, this jacket features a button front opening and a cable design on the front. Stay warm this winter with our baby-friendly design. DETAILS Bear ears detail, front button opening, mock wood buttons, cotton, bamboo, wool blend, packaged in a bio-degradable bag.
-  Updated: 2025-12-12T09:51:11Z
+  Updated: 2025-12-17T19:45:44Z
   Vendor: Wilson & Frenchy
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2559-02A_1_5e273ef3-5efe-4fcd-8679-19a3de08854c.jpg?v=1746158213
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-cable-jacket-coco-speckle?variant=41647404908638)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-cable-jacket-coco-speckle?variant=41647404941406)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-cable-jacket-coco-speckle?variant=41647404974174)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-cable-jacket-coco-speckle?variant=41647405006942)
-    Availability: Available
-    Price: $43.99 NZD
+    Availability: Not Available
+    Price: $55.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-cable-jacket-coco-speckle?variant=41647419424862)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [WILSON & FRENCHY Organic Knitted Cable Jacket - Cookie and Cream](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream): Introducing our cosy knitted jacket with a hood and adorable bear ears. Made of a luxurious blend of organic cotton, bamboo, and wool, this jacket features a button front opening and a cable design on the front. Stay warm this winter with our baby-friendly design. DETAILS Bear ears detail, front button opening, mock wood buttons, cotton, bamboo, wool blend, packaged in a bio-degradable bag.
-  Updated: 2025-12-12T09:51:12Z
+  Updated: 2025-12-17T19:45:45Z
   Vendor: Wilson & Frenchy
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2559-01A_1_242c9076-1d4b-455f-8daf-c2414eb5fb5f.jpg?v=1746158139
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream?variant=41647421096030)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream?variant=41647421128798)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream?variant=41647421227102)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging - Cookie and Cream](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-cookie-and-cream): Stay cosy with Wilson & Frenchy's knitted leggings for babies. Made from a blend of organic cotton, bamboo, and wool, these leggings will keep your little one warm and comfortable. The soft elastic waistband is gentle on their tummies, making them perfect for all-day wear. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-11-26T01:23:03Z
+  Updated: 2025-12-17T19:45:45Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2561-01A_1_6833d258-5ed9-449a-b716-c853484ab03b.jpg?v=1746158070
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-cookie-and-cream?variant=41647427551326)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-cookie-and-cream?variant=41647427584094)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-cookie-and-cream?variant=41647427616862)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging with Feet - Cookie and Cream](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-with-feet-cookie-and-cream): Keep little legs and feet warm with these cosy footed knit leggings. Made from a beautiful blend of cotton, bamboo and wool these lightweight, snug fitting leggings are both stylish and functional to wear. DETAILS Full length leg with enclosed feet, Stretch waistband is gentle on tummies, packaged in a bio-degradable bag.
-  Updated: 2025-12-12T09:51:11Z
+  Updated: 2025-12-17T19:45:46Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2565-01A_1_f3fe7baf-0cf6-4ac3-a66e-85cb260fb05a.jpg?v=1746158023
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-with-feet-cookie-and-cream?variant=41647429877854)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-with-feet-cookie-and-cream?variant=41647429910622)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-legging-with-feet-cookie-and-cream?variant=41647429943390)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Jumper - Flower Pop](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-jumper-flower-pop): Get ready to cuddle up in style with Wilson & Frenchy's organic cotton, wool, and bamboo jacquard knit jumper. The roomy fit and ribbed cuffs and neckline provide comfort, while the cute flower pop design adds some playful charm. Stay warm and trendy, baby and kid approved. DETAILS Relaxed fit, long sleeved, all over jacquard design, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-11-25T20:53:45Z
+  Updated: 2025-12-17T19:45:47Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2557-04C_1_5c2345b3-e6ff-42dd-9b97-b11f0a70ba77.jpg?v=1746157970
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-jumper-flower-pop?variant=41647435186270)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-jumper-flower-pop?variant=41647435219038)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-jumper-flower-pop?variant=41647435251806)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-jumper-flower-pop?variant=41647450488926)
     Availability: Available
-    Price: $41.99 NZD
+    Price: $52.00 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Hat - Flower Pop](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-hat-flower-pop): Warm up those little heads this winter with our adorable knitted hat. Made from a blend of organic cotton, bamboo and wool, this hat is not only soft but also eco-friendly. The cute pom pom and soft ribbed cuff add a playful touch. Keep your little ones cosy and stylish with this must-have winter accessory. DETAILS Pom pom detail, soft knitted ties, gentle on baby's delicate skin, packaged in a bio-degradable bag.
   Updated: 2025-11-18T22:43:03Z
   Vendor: Wilson & Frenchy
@@ -9777,21 +9650,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-hat-flower-pop?variant=41647451308126)
     Availability: Available
     Price: $25.00 NZD
-- [WILSON & FRENCHY Organic Knitted Jacquard Growsuit - Lemony](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-growsuit-lemony): Made from a beautiful blend of organic cotton, bamboo and wool, this luxurious long sleeve knit growsuit features an all over jacquard design and zip through opening for quick and easy nappy changes. Perfect for play dates and outdoor adventures, pair it with a knitted hat for a gorgeous baby shower gift every parent will love. DETAILS Round neckline with front zipper opening, long sleeved, full length. Packaged in a bio-degradable bag.
-  Updated: 2025-11-26T01:23:05Z
-  Vendor: Wilson & Frenchy
-  Product Type: Growsuit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2573-05A_1_aa7a37a0-e586-46ba-b18a-141385defb4f.jpg?v=1746157819
-  Price: $55.99 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Hat - Lemony](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-hat-lemony): Warm up those little heads this winter with our adorable knitted hat. Made from a blend of organic cotton, bamboo and wool, this hat is not only soft but also eco-friendly. The cute pom pom and soft ribbed cuff add a playful touch. Keep your little ones cosy and stylish with this must-have winter accessory. DETAILS Pom pom detail, soft knitted ties, gentle on baby's delicate skin, packaged in a bio-degradable bag.
-  Updated: 2025-11-18T22:43:03Z
+  Updated: 2025-12-16T00:11:17Z
   Vendor: Wilson & Frenchy
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2547-05A_1_d559d1f7-e857-4cce-ba17-f1f772dbbc85.jpg?v=1746155230
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-hat-lemony?variant=41647460319326)
-    Availability: Available
+    Availability: Not Available
     Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-hat-lemony?variant=41647460352094)
     Availability: Available
@@ -9800,45 +9666,45 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $29.00 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Jumper - Lemony](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-jumper-lemony): Get ready to cuddle up in style with Wilson & Frenchy's organic cotton, wool, and bamboo jacquard knit jumper. The roomy fit and ribbed cuffs and neckline provide comfort, while the cute lemon design adds some playful charm. Stay warm and trendy, baby and kid approved. DETAILS Relaxed fit, long sleeved, all over jacquard design, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-11-26T06:28:51Z
+  Updated: 2025-12-17T19:45:48Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2557-05A_1_4895a6dc-75ab-4323-b585-ae5134211cef.jpg?v=1746154136
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-jumper-lemony?variant=41647462645854)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-jumper-lemony?variant=41647462678622)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-jumper-lemony?variant=41647462711390)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Legging - Lemony](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-legging-lemony): Wrap your baby in snuggly comfort with Wilson & Frenchy's knitted leggings. Made from a blend of organic cotton, bamboo, and wool, they'll keep your little one warm while being gentle on their tummy with a soft elastic waistband. The playful all over jacquard design adds a touch of charm. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-11-26T06:28:52Z
+  Updated: 2025-12-17T19:45:49Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2564-05A_1_f6a30c09-885b-4f4d-9869-3ce5f8108b17.jpg?v=1746154078
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-legging-lemony?variant=41647465955422)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-legging-lemony?variant=41647466020958)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-legging-lemony?variant=41647466053726)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-lemony-organic-knitted-jacquard-legging-lemony?variant=41647466643550)
     Availability: Not Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Waffle Set - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon): This playful cotton waffle set includes a pre-shrunk, soft washed long sleeved top and full length pant in a relaxed fit. Adjust the ties on the waistband for a perfect fit and enjoy functional pockets, all made from GOTS certified organic cotton free from nasty chemicals. DETAILS Full length tapered leg, stretch waistband that is gentle on little tummies, functional side pockets, great everyday basic pant, waffle knit. Australian owned and designed. Made in India.
-  Updated: 2025-11-26T01:23:07Z
+  Updated: 2025-12-17T19:45:49Z
   Vendor: Wilson & Frenchy
   Product Type: Matching Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2505-05_1_5291cb97-4f8c-4913-b995-803bef50d040.jpg?v=1746154005
-  Price: $35.99 NZD
+  Price: $45.00 NZD
 - [WILSON & FRENCHY Organic Waffle Ruffle Zipsuit - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-ruffle-zipsuit-little-lemon): Keep your newborn comfy and cosy with this practical yet adorable ruffle zipsuit from Wilson and Frenchy. Crafted from organic cotton waffle that is gentle on baby's sensitive skin, this zipsuit features a gorgeous ruffle detail at zip opening with an all-over print. DETAILS Round neckline with concealed zipper for safety, long sleeved, full length, two-way zip closure for easy changes, made from GOTS certified organic cotton, sustainably produced, wrapped in a bio-degradable bag.
   Updated: 2025-11-18T22:43:03Z
   Vendor: Wilson & Frenchy
@@ -9876,41 +9742,41 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.00 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Jumper - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute): Get ready to cuddle up in style with our organic cotton, wool, and bamboo jacquard knit jumper. The roomy fit and ribbed cuffs and neckline provide comfort, while the cute bear face design adds some playful charm. Stay warm and trendy, baby and kid approved. DETAILS Relaxed fit, long sleeved, all over jacquard design, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-12-01T10:00:08Z
+  Updated: 2025-12-17T19:45:50Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2557-02C_1_baa8e4e8-c9e9-4957-bf0e-6f3a0a5733e9.jpg?v=1746153771
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute?variant=41648812392542)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute?variant=41648812425310)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute?variant=41648812458078)
-    Availability: Available
-    Price: $43.99 NZD
+    Availability: Not Available
+    Price: $55.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute?variant=41648812490846)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Legging - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute): Wrap your baby in snuggly comfort with our knitted leggings. Made from a blend of organic cotton, bamboo, and wool, they'll keep your little one warm while being gentle on their tummy with a soft elastic waistband. The playful all over jacquard design adds a touch of charm. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-12-01T10:04:20Z
+  Updated: 2025-12-17T19:45:51Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2564-02C_1__01034.jpg?v=1746153671
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648821239902)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648821272670)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648821338206)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648825499742)
     Availability: Not Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
 - [WILSON & FRENCHY Coco Speckle Organic Knitted Bear Hat - Coco Speckle](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-bear-hat-coco-speckle): This knitted hat with bear ears is the cutest way to keep little heads warm this winter. Made from organic cotton, bamboo, and wool, it features a soft turn up ribbed cuff for added warmth and comfort. A playful addition to any winter outfit. DETAILS Cute bear ears, soft ribbed turn up, gentle on baby's delicate skin, packaged in a bio-degradable bag. Made in India.
   Updated: 2025-11-18T22:43:04Z
   Vendor: Wilson & Frenchy
@@ -9927,125 +9793,125 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $29.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging - Grey Melange and Oatmeal](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal): Stay cosy with our knitted leggings for babies. Made from a blend of organic cotton, bamboo, and wool, these leggings will keep your little one warm and comfortable. The soft elastic waistband is gentle on their tummies, making them perfect for all-day wear. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-12-12T09:51:11Z
+  Updated: 2025-12-17T19:45:52Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2563-03A_1_738b295f-29dd-4bc3-8929-16044857c600.jpg?v=1746153336
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal?variant=41648851648606)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal?variant=41648851681374)
     Availability: Not Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal?variant=41648851714142)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal?variant=42191170797662)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Knitted Ribbed Jumper - Grey Melange and Oatmeal](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-ribbed-jumper): Stay cosy and cute with our chunky rib knitted jumper. Made from a luxurious blend of organic cotton, wool, and bamboo, this roomy fit jumper will keep your little one warm and stylish. With ribbed cuffs and neckline, it's the perfect choice for babies and kids. DETAILS Relaxed fit, long sleeved, ribbed cuffs, packaged in a bio-degradable bag.
-  Updated: 2025-12-12T09:51:11Z
+  Updated: 2025-12-17T19:45:52Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2552-03A_1_3f4ec878-7acc-4c14-a46d-58faee348c0a.jpg?v=1746153258
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-ribbed-jumper?variant=41648882090078)
     Availability: Not Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-ribbed-jumper?variant=41648882122846)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-ribbed-jumper?variant=41648882155614)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-ribbed-jumper?variant=41648882188382)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging with Feet](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-legging-with-feet): Keep little legs and feet warm with these cosy footed knit leggings. Made from a beautiful blend of cotton, bamboo and wool these lightweight, snug fitting leggings are both stylish and functional to wear. DETAILS Full length leg with enclosed feet, Stretch waistband is gentle on tummies, packaged in a bio-degradable bag.
-  Updated: 2025-11-25T20:53:51Z
+  Updated: 2025-12-17T19:45:53Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2565-05_1_ec61ee90-fca9-41de-8201-6a85329f0374.jpg?v=1746153145
   - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-legging-with-feet?variant=41648887267422)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-legging-with-feet?variant=41648887300190)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-legging-with-feet?variant=41648887332958)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-legging-with-feet?variant=41648887365726)
     Availability: Available
-    Price: $27.99 NZD
+    Price: $35.00 NZD
 - [WILSON & FRENCHY Organic Knitted Ruffle Jumper - Hundreds and Thousands](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-ruffle-jumper-hundreds-and-thousands): Introducing the ruffle jumper - the perfect combination of warmth and style for both babies and kids. This knitted jumper features a fun and playful ruffle on both the front and back, and its roomy fit ensures comfort for your little ones DETAILS Relaxed fit, long sleeved, packaged in a bio-degradable bag.
-  Updated: 2025-11-25T20:53:52Z
+  Updated: 2025-12-17T19:45:54Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2558-05_1_ac53d89c-7dca-4f31-8986-572b4be6cc1d.jpg?v=1746152973
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-ruffle-jumper-hundreds-and-thousands?variant=41648899096670)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-ruffle-jumper-hundreds-and-thousands?variant=41648899129438)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-ruffle-jumper-hundreds-and-thousands?variant=41648899162206)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-hundreds-and-thousands-organic-knitted-ruffle-jumper-hundreds-and-thousands?variant=41648899194974)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [VEJA Veja x The Campamento - Freshmint + Sunshine](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-12-05T16:48:12Z
+  Updated: 2025-12-17T19:45:54Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/veja-veja-x-the-campamento-organic-leather-green-TC2020703_1_bc92b572-ad9c-4e3c-814f-0fcfbbca8a08.webp?v=1746136668
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131946078)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131978846)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131520094)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131552862)
     Availability: Not Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131585630)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131651166)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131683934)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
 - [VEJA Veja x The Campamento - Orchid + Faubourg](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:23:09Z
+  Updated: 2025-12-17T19:45:55Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/veja-veja-x-the-campamento-organic-leather-purple-TC2020704_1_6cbe74e5-70d9-4860-93ae-a6fc1929dfb0.webp?v=1746136592
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138663518)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138696286)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138827358)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138892894)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138925662)
     Availability: Available
-    Price: $126.99 NZD
+    Price: $158.99 NZD
 - [SONNIE Tama Crewneck - Tomato](https://www.littlebambinos.co.nz/products/sonnie-tama-crewneck-tomato): New Season Tama Crewneck in Tomato DETAILS New Season: Tomato colourway Luxurious 365gsm brushed back cotton Ribbed cuffs and Hem Designed to be relaxed and slightly oversized - we recomend taking the same size as your age Unisex Pre-washed to minimise shrinkage
   Updated: 2025-12-01T20:03:34Z
   Vendor: Sonnie
@@ -10148,54 +10014,54 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GreyRound2.jpg?v=1745546614
     Price: $199.00 NZD
 - [GROWN Organic Embroidery Posy Overalls](https://www.littlebambinos.co.nz/products/grown-organic-embroidery-posy-overalls): These overalls feature delicate posy embroidery along the sides, adding a charming touch. The metal press snaps on the straps allow for easy adjustments to ensure a comfortable fit as your little one grows.
-  Updated: 2025-11-26T08:16:27Z
+  Updated: 2025-12-17T19:45:56Z
   Vendor: Grown
   Product Type: Overall
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GW25019_Front_1296x_709e4cb0-4592-41db-a72e-8db71d40731b.webp?v=1749505235
   - [1y](https://www.littlebambinos.co.nz/products/grown-organic-embroidery-posy-overalls?variant=41681763303518)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-organic-embroidery-posy-overalls?variant=41681763336286)
     Availability: Not Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-organic-embroidery-posy-overalls?variant=41681767923806)
     Availability: Available
-    Price: $51.99 NZD
+    Price: $65.00 NZD
 - [GROWN Organic Everyday Denim Pant - Boxes](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-boxes): These organic denim pants feature an elastic waistband with an adjustable internal drawstring for a comfortable, secure fit. Designed with a relaxed cut, they offer ease of movement and everyday comfort.
-  Updated: 2025-12-04T18:53:40Z
+  Updated: 2025-12-17T19:45:57Z
   Vendor: Grown
   Product Type: Pant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GW25020_Front_Boxes_1296x_e69c05f6-1973-48d5-b9fb-0b053b9d2c1e.webp?v=1749505055
   - [1y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-boxes?variant=41688275124318)
     Availability: Not Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-boxes?variant=41688275255390)
     Availability: Available
-    Price: $45.99 NZD
+    Price: $57.00 NZD
 - [GROWN Knitted Posy Pull Over](https://www.littlebambinos.co.nz/products/grown-knitted-posy-pull-over): This cozy pullover features a ribbed knit design crafted from textured yarn, highlighted by a charming 'Posy' flower pattern. With its dropped shoulder and relaxed fit, it offers comfortable wear for everyday ease.
-  Updated: 2025-11-26T01:23:12Z
+  Updated: 2025-12-17T19:45:58Z
   Vendor: Grown
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GW25007_Front_1296x_2bef04bb-e72e-4276-a2a7-59dc99f8315f.webp?v=1749504614
-  Price: $49.99 NZD
+  Price: $63.00 NZD
 - [GROWN Chunky Rib V-Neck Vest - Flame](https://www.littlebambinos.co.nz/products/grown-chunky-rib-v-neck-vest-flame): This vest features a chunky rib knit throughout with a V-neck design. It offers an oversized, relaxed fit for comfort, complemented by ribbed edges at the hem, neckline, and armholes for a polished look.
-  Updated: 2025-11-26T01:23:13Z
+  Updated: 2025-12-17T19:45:58Z
   Vendor: Grown
   Product Type: Vest
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GW25005_Front_Flame_900x_35531d58-3a73-4380-a4ac-3c632305110f.webp?v=1749438382
   - [1y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-v-neck-vest-flame?variant=41688354357342)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-v-neck-vest-flame?variant=41688354455646)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-v-neck-vest-flame?variant=41688354488414)
     Availability: Available
-    Price: $35.99 NZD
+    Price: $45.00 NZD
 - [KONGES SLODJ Aster Swim Blouse - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slodj-aster-swim-blouse-tea-stripe): Protective long-sleeved swim blouse offering maximum sun safety with UPF 50+ ultraviolet protection. Features a convenient back zipper closure to make dressing easy. Perfect for keeping little ones safe during water adventures.
   Updated: 2025-11-18T22:43:05Z
   Vendor: Konges slojd
@@ -10252,21 +10118,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103353-p00038_1_3fdb51fe-d190-4e8d-820c-2f38400ae78c.jpg?v=1748423209
   Price: $70.00 NZD
 - [MODERN MINI Beige Multi-Use Cover](https://www.littlebambinos.co.nz/products/beige-multi-use-cover): Protect your baby with the versatile Beige Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-12-04T22:20:41Z
+  Updated: 2025-12-14T19:56:42Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Black Multi-Use Cover](https://www.littlebambinos.co.nz/products/black-multi-use-cover): Protect your baby with the versatile Black Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-12-12T09:56:41Z
+  Updated: 2025-12-15T08:10:42Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_9a88b89b-513c-47be-a66c-fa48367c8986.png?v=1749600729
   Price: $69.00 NZD
 - [MODERN MINI Gingham Multi-Use Cover](https://www.littlebambinos.co.nz/products/gingham-multi-use-cover): Protect your baby with the versatile Gingham Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-12-12T04:16:42Z
+  Updated: 2025-12-16T02:14:03Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -10290,13 +10156,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-zip-one-piece-rashguard-sage?variant=41784429314142)
     Availability: Not Available
     Price: $49.00 NZD
-- [LITTLE LUXURY  Plush Organic Playmat - Oat](https://www.littlebambinos.co.nz/products/little-luxury-plush-organic-playmat-oat): NOTE: This product is on pre-order and will start shipping from Friday the 27th. The Plush Organic Playmat delivers exceptional comfort and adaptability for your child’s playtime. Made from Certified Organic Linen, it offers a soft, breathable surface perfect for your little one’s activities. Thoughtfully designed, it easily converts into a playpen or ball pit, suitable from newborns to toddlers and beyond. Featuring a hypoallergenic linen cover that softens naturally, a plush recycled cotton filling, and a waterproof, non-slip base, it ensures safety and durability. With a generous 120cm diameter and machine washable fabric, it’s easy to care for. Includes an embroidered dust bag for convenient storage or travel. Designed in New Zealand with sustainable materials, it creates a cozy, nurturing space for your baby’s growth and exploration. Certified Organic Linen cover – Hypoallergenic and softens naturally with time 100% recycled cotton blend filling – Plush cushioning that nurtures your baby’s comfort Waterproof, non-slip dark green base – Durable and easy to clean for every adventure Drawstring design – Seamlessly transforms into a ball pit or playpen, adapting to your child’s needs 120cm diameter – more room to move, more room to grow Machine washable – Effortless care for modern parents Complimentary embroidered dust bag – Elegant storage or travel solution
-  Updated: 2025-12-06T03:18:01Z
-  Vendor: Little Luxury
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LITTLE_LUXURY_PLUSH_ORGANIC_PLAYMAT_LUCKY_3_eeb95b43-7523-4b9b-bec2-5b07ed91c33d.webp?v=1749787946
-  Price: $359.00 NZD
 - [LITTLE LUXURY Signature Organic Playmat - Olive](https://www.littlebambinos.co.nz/products/little-luxury-organic-playmat-olive): From your living room to the park or beach, enjoy every adventure with grace and ease. The Signature Organic Playmat is designed to nurture your baby’s growth at every stage, combining timeless style with practical use. Its soft, breathable surface invites bonding and play, while the Certified Organic Linen cover offers a gentle, hypoallergenic feel. The deep green, waterproof, non-slip base keeps the mat firmly in place on any surface—wood, tile, grass, or sand—ensuring safety without shifting or bunching. Available in Olive, Melon, and Oat, it’s easy to care for, machine washable, and comes with a stylish embroidered dust bag for storage or travel. Crafted with sustainable materials, this playmat supports your child’s development and a mindful lifestyle. Certified Organic Linen cover – Breathable, hypoallergenic, and softens beautifully over time 100% organic cotton binding – Durable, non-toxic finish 100% recycled PPU cotton inner – Plush support for comfort and developmental play 100% recycled polyester waterproof base – Non-slip and stain-concealing for secure use indoors and out 120cm diameter – more room to move, more room to grow Machine washable – Easy care for modern living Complimentary embroidered dust bag – Elegant and practical for storage or travel
   Updated: 2025-11-18T22:43:06Z
   Vendor: Little Luxury
@@ -10447,14 +10306,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-trike-pink-1.png?v=1750297664
   Price: $279.99 NZD
 - [BANWOOD Trike - Cream](https://www.littlebambinos.co.nz/products/trike-4): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This cream tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a cream coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-11-18T22:43:06Z
+  Updated: 2025-12-17T00:34:46Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-CREAM-1.jpg?v=1750297665
   Price: $279.99 NZD
 - [BANWOOD Maxi Scooter - Navy](https://www.littlebambinos.co.nz/products/maxi-scooter-mint): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in navy
-  Updated: 2025-11-18T22:43:06Z
+  Updated: 2025-12-17T23:35:01Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -10489,7 +10348,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterWhite1.png?v=1750297677
   Price: $279.99 NZD
 - [BANWOOD Eco Helmet - Ivory](https://www.littlebambinos.co.nz/products/eco-helmet-ivory): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-11-29T19:40:20Z
+  Updated: 2025-12-17T00:34:46Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -10524,7 +10383,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetTeal1_346b755e-6e16-4a7c-9af3-31731d9240ca.png?v=1750297687
   Price: $65.99 NZD
 - [BANWOOD Eco Helmet - Olive](https://www.littlebambinos.co.nz/products/eco-helmet-olive): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-12-13T00:33:22Z
+  Updated: 2025-12-17T23:23:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -10538,7 +10397,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterIvory1_1bf38a5b-e8b7-4b0d-bbd1-b9bd3c2c201a.png?v=1750297690
   Price: $159.99 NZD
 - [BANWOOD Eco Scooter - Faded Pink](https://www.littlebambinos.co.nz/products/eco-scooter-faded-pink): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-12-13T00:33:21Z
+  Updated: 2025-12-17T00:34:47Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -10559,7 +10418,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterRaspberry1_5d53b701-662a-4c4c-aa3e-a9bb5fbe0a56.png?v=1750297695
   Price: $159.99 NZD
 - [BANWOOD Eco Scooter - Lavender](https://www.littlebambinos.co.nz/products/eco-scooter-lavender): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-11-18T22:43:07Z
+  Updated: 2025-12-17T00:34:47Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -10761,13 +10620,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/MG_7002.webp?v=1750300385
   Price: $270.00 NZD
-- [SOLVEJ SWINGS Sheepskin Liner](https://www.littlebambinos.co.nz/products/sheepskin-liner): This lovely, natural lambskin liner ensures your baby stays cozy, secure, and comfortable in their swing, stroller, moses basket, or infant capsule. It makes a thoughtful and useful present for any new mother and her little one. This sheepskin liner has 9 slits to fit many style prams and strollers.
-  Updated: 2025-12-13T19:31:05Z
-  Vendor: Solvej Swings
-  Product Type: Stroller Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/wooleninsertangleproductshotweb1.webp?v=1750300726
-  Price: $98.00 NZD
 - [SOLVEJ SWINGS Extension Ropes](https://www.littlebambinos.co.nz/products/extension-ropes): Extension ropes in matching rope/colour to your swing ropes - 1m or 2m long.Comes with stainless steel, spring-loaded carbine clips. - 10mm performance yachting braid.
   Updated: 2025-11-18T22:43:11Z
   Vendor: Solvej Swings
@@ -10872,39 +10724,27 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [3-6y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-rock-my-boat?variant=41835479367774)
     Availability: Not Available
     Price: $83.99 NZD
-- [KONGES SLOJD Chleo Frill Romper - Rosie Rose](https://www.littlebambinos.co.nz/products/konges-slojd-chelo-frill-romper-rosie-rose): Soft and light cotton blouse with a relaxed silhouette and baby lock endings. Designed with elasticated frill cuffs and neckline. Designed with a round frill collar and a flared cut. Features gathered elasticated frill cuffs, elasticated leg openings and snap buttons by the crotch for easy dressing.
-  Updated: 2025-12-07T06:25:23Z
-  Vendor: Konges slojd
-  Product Type: Bodysuits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-14at5.40.37PM.png?v=1756328570
-  - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-chelo-frill-romper-rosie-rose?variant=41854699962462)
-    Availability: Available
-    Price: $43.99 NZD
-  - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-chelo-frill-romper-rosie-rose?variant=41854700027998)
-    Availability: Not Available
-    Price: $43.99 NZD
 - [KONGES SLOJD Seer Asnou Swimshort - Tigers Eye](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye): Cool swim shorts in a simple light blue stripe. Matching bucket hat available. These cute swim designs by Konges Slojd are combined with the best UPV protections for your child's sensitive skin. Konges Slojd swimwear is made of recycled plastic bottles. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-12-03T18:09:00Z
+  Updated: 2025-12-17T19:46:02Z
   Vendor: Konges slojd
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-14at5.56.36PM.png?v=1752472605
   - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye?variant=41854728601694)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye?variant=41854728634462)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye?variant=41854728667230)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye?variant=41854728699998)
     Availability: Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye?variant=41854728732766)
     Availability: Not Available
-    Price: $47.99 NZD
+    Price: $60.00 NZD
 - [KONGES SLOJD Baby Water Ring - Bon Coeur Coloré](https://www.littlebambinos.co.nz/products/konges-slojd-baby-water-ring-bon-coeur-colore): An inflatable swim ring made from durable, phthalate free PVC. It has an integrated baby seat with holes to put babyâ€™s legs through. A fun way to introduce little ones to water. Free shipping within New Zealand on orders over $149.
   Updated: 2025-11-18T22:43:12Z
   Vendor: Konges slojd
@@ -10913,86 +10753,86 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-14at6.01.00PM.png?v=1752472868
   Price: $99.00 NZD
 - [VEJA Esplar - Extra White Petale Nacre](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-26T01:23:17Z
+  Updated: 2025-12-17T19:46:03Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-15at8.48.47AM.png?v=1752526134
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243859550)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243892318)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243925086)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243957854)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243990622)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244056158)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244088926)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244121694)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244154462)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 32](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244580446)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
   - [EU 33](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244613214)
     Availability: Available
-    Price: $111.99 NZD
+    Price: $139.99 NZD
 - [VEJA V-90 - Extra White Pekin](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-12-10T08:21:11Z
+  Updated: 2025-12-17T19:46:04Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-15at8.52.30AM.png?v=1752526360
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246874206)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246906974)
     Availability: Not Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246939742)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246972510)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247005278)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247038046)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247070814)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247103582)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247136350)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247169118)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
   - [EU 32](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247201886)
-    Availability: Not Available
-    Price: $127.99 NZD
-  - [EU 33](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247234654)
     Availability: Available
-    Price: $127.99 NZD
+    Price: $159.99 NZD
+  - [EU 33](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247234654)
+    Availability: Not Available
+    Price: $159.99 NZD
 - [SOLVEJ SWINGS Swing Bunting](https://www.littlebambinos.co.nz/products/swing-bunting): This charming bunting is made from 100% woollen felt, designed specifically for your Solvej Baby-Toddler Swing. It adds a gentle, magical touch to your child’s playtime. Each set includes four flags in soft grey or sand, accented with cream or black trim. The bunting is hypoallergenic and simple to clean. It attaches securely and safely using soft-close domes, ensuring peace of mind for parents.
   Updated: 2025-11-18T22:43:12Z
   Vendor: Solvej Swings
@@ -11087,28 +10927,35 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-70-pieces-Pro-Constructor-Set-1_800x_b225b727-c3bd-4443-a346-c387b75c8ca0.webp?v=1754431894
   Price: $223.99 NZD
 - [CONNETIX Glitter Castle Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-glitter-castle-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-12T01:21:11Z
+  Updated: 2025-12-17T21:13:31Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Glitter-Castle-Pack-1_1000x1000_1d770295-9a1e-44ad-8bc8-925032e1ccce.webp?v=1754442140
   Price: $121.99 NZD
+- [CONNETIX Light Star Pack 28pc](https://www.littlebambinos.co.nz/products/connetix-light-star-pack-28pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
+  Updated: 2025-12-16T22:27:21Z
+  Vendor: Connetix
+  Product Type: magnetic kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-28-pieces-Light-Star-Pack-1_1000x1000_790fb978-0d4f-4f94-b426-2ae2df73e4b0.webp?v=1754442535
+  Price: $103.99 NZD
 - [CONNETIX Bright Portal Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-bright-portal-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-12-10T21:02:13Z
+  Updated: 2025-12-18T16:50:41Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-12-13T08:16:41Z
+  Updated: 2025-12-15T14:16:43Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-12-13T08:16:42Z
+  Updated: 2025-12-15T14:16:43Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -11183,7 +11030,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $27.00 NZD
 - [TOSHI Swim Flap Cap - Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-seagrass): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-18T22:43:13Z
+  Updated: 2025-12-14T21:47:58Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -11192,10 +11039,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $31.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-seagrass?variant=41998356185182)
-    Availability: Available
+    Availability: Not Available
     Price: $31.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-seagrass?variant=41998356217950)
-    Availability: Available
+    Availability: Not Available
     Price: $31.00 NZD
 - [TOSHI Swim Flap Cap - Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-11-18T22:43:13Z
@@ -11243,7 +11090,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Swim Flap Cap Paradise - Kakadu Moonlight](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-kakadu-moonlight): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-12-03T07:49:08Z
+  Updated: 2025-12-16T03:42:06Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -11255,7 +11102,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-kakadu-moonlight?variant=42000599580766)
-    Availability: Available
+    Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Swim Sunhat Beachcomber - Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-beachcomber-seagrass): Toshi’s renowned blend of beauty, functionality, and premium quality shines in this delightful baby swimwear line. With a UPF50+ rating, the swimwear provides excellent sun protection and water safety. Made from top-quality, quick-drying fabric that resists chlorine and salt water, the Toshi Swim Sunhat offers a well-shaped, wide brim that stays firm even when wet. An adjustable head toggle ensures a perfect fit, while the chin tie with toggle secures the hat comfortably. The safety release clasp adds extra protection. This hat also features an exclusive Toshi print design for a unique look. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
   Updated: 2025-12-11T18:46:08Z
@@ -11291,7 +11138,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Swim Sunhat Paradise - Kakadu Moonlight](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-kakadu-moonlight): Toshi's renowned craftsmanship and quality come together in this exceptional baby swimwear collection. Rated UPF50+, the Toshi Swim line ensures excellent sun protection and water safety. Made from premium, quick-drying materials resistant to chlorine and salt water, the Swim Sunhat includes a wide, structured brim that keeps its shape even when wet. Adjustable sizing is achieved through a head tie with toggle, while the chin tie with toggle secures the hat comfortably. A safety release clasp on the chin tie adds extra protection. Featuring a unique, exclusive Toshi print, this sunhat combines style with functionality. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
-  Updated: 2025-11-18T22:43:13Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -11306,7 +11153,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Swim Onesie L/S Ripple - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-ripple-daisy-watermelon): Toshi’s baby swimwear collection combines elegance, practical design, and high-quality materials. Providing UPF 50+ sun protection, the Swim Onsie safeguards your little one during water play. Made from fast-drying, chlorine- and saltwater-resistant fabric, it ensures durability and comfort. The playful frill detail on the shoulders adds charm, while the high neckline and long sleeves offer extra coverage. Convenient features include a front zip for easy dressing and press studs at the bottom for quick nappy changes. Seamless sides enhance comfort and fit, all showcased in a unique Toshi print. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-12-12T21:12:36Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -11348,7 +11195,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $42.00 NZD
 - [TOSHI Swim Onesie L/S Splash - Congo Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-congo-seagrass): Toshi’s baby swimwear collection combines exceptional quality, style, and practicality. With UPF 50+ protection, the Swim Onesie shields your little one from harmful sun rays while ensuring safety in the water. Made from premium, quick-drying fabric that resists chlorine and saltwater wear, it features long sleeves and a high neckline for maximum coverage. Convenient bottom press studs and a front neck zip make changing and dressing simple, while seamless sides provide a comfortable, snug fit. This unique piece showcases an exclusive Toshi print, thoughtfully designed for your baby’s comfort and protection. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-11-18T22:43:14Z
+  Updated: 2025-12-17T02:22:55Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -11369,7 +11216,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $42.00 NZD
 - [TOSHI Swim Onesie L/S Splash - Kakadu Moonlight](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-kakadu-moonlight): Toshi’s baby swimwear collection combines exceptional quality, style, and practicality. With UPF 50+ protection, the Swim Onesie shields your little one from harmful sun rays while ensuring safety in the water. Made from premium, quick-drying fabric that resists chlorine and saltwater wear, it features long sleeves and a high neckline for maximum coverage. Convenient bottom press studs and a front neck zip make changing and dressing simple, while seamless sides provide a comfortable, snug fit. This unique piece showcases an exclusive Toshi print, thoughtfully designed for your baby’s comfort and protection. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-11-18T22:43:14Z
+  Updated: 2025-12-15T02:53:02Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -11378,7 +11225,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $42.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-kakadu-moonlight?variant=42004025442398)
-    Availability: Available
+    Availability: Not Available
     Price: $42.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-kakadu-moonlight?variant=42004025409630)
     Availability: Available
@@ -11528,29 +11375,29 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-12-09T05:39:18Z
+  Updated: 2025-12-17T19:46:05Z
   Vendor: Grown
   Product Type: Sweater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Grey_rib_knit_jumper-01_1728x_80b1d64c-d4f9-47ee-a15f-43d6fafb3469.webp?v=1758754241
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991683678)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $63.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991716446)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $63.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991749214)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $63.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991781982)
     Availability: Not Available
-    Price: $49.99 NZD
+    Price: $63.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991814750)
     Availability: Available
-    Price: $49.99 NZD
+    Price: $63.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991847518)
     Availability: Not Available
-    Price: $49.99 NZD
+    Price: $63.00 NZD
 - [KONGES SLOJD 2 Pack Dinner Bibs With Sleeves - Tea Stripe + Flint Stone](https://www.littlebambinos.co.nz/products/konges-slojd-2-pack-dinner-bibs-with-sleeves-tea-stripe-flint-stone): This set includes two meal bibs with sleeves designed to keep your child clean and comfortable during mealtime.
   Updated: 2025-11-18T22:43:14Z
   Vendor: Konges slojd
@@ -11571,7 +11418,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cream-Vintage-TRYBIKE-Balance-Bike-Toddler-Child-Little-Bambinos_4.webp?v=1758500581
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Green](https://www.littlebambinos.co.nz/products/trybike-vintage-green): The Vintage Green matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-11-18T22:43:14Z
+  Updated: 2025-12-17T03:15:50Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
@@ -11620,44 +11467,44 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Trybike-Vintage-Bike-Bicycle-Basket-1.webp?v=1758505802
   Price: $64.95 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-everyday-denim-pant): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-12-02T16:14:32Z
+  Updated: 2025-12-17T19:46:05Z
   Vendor: Grown
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_Denim_Shift_Dress_front-01_1728x_cbdc82b2-1039-41a1-8030-f4aa14730bde.webp?v=1758754154
   - [2y](https://www.littlebambinos.co.nz/products/grown-everyday-denim-pant?variant=42054624378974)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-everyday-denim-pant?variant=42054624444510)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/grown-everyday-denim-pant?variant=42054625329246)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-29T06:45:43Z
+  Updated: 2025-12-17T19:46:06Z
   Vendor: Grown
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_denim_jeans-01_1728x_798b8c69-bd5a-4211-92ff-1a79c1bbb44e.webp?v=1758754036
   - [1y](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy?variant=42054637256798)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy?variant=42054636798046)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy?variant=42054636830814)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy?variant=42054636863582)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy?variant=42054636896350)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/grown-everday-denim-pant-candy?variant=42054636929118)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunny-cotton-cap-kids-candy): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
   Updated: 2025-11-21T01:57:26Z
   Vendor: Grown
@@ -11673,116 +11520,116 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/browncap-01_1728x_516403fc-c3b8-4528-ab0c-dffa34d5b505.webp?v=1758753802
   Price: $30.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-12-07T22:18:36Z
+  Updated: 2025-12-17T19:46:07Z
   Vendor: Grown
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_sunny_tee-01_1728x_33db1a59-cb06-4133-8ceb-37509bda2015.webp?v=1758753697
   - [1y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639288414)
     Availability: Not Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639386718)
     Availability: Not Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639419486)
     Availability: Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639452254)
     Availability: Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-25T20:54:06Z
+  Updated: 2025-12-17T19:46:07Z
   Vendor: Grown
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Stripe_knit_vest_front-01_1728x_776a24cb-5633-44a6-829f-94812fe3e415.webp?v=1758753638
   - [1y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top?variant=42054648070238)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top?variant=42054648103006)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top?variant=42054648135774)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top?variant=42054648168542)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top?variant=42054648201310)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-top?variant=42054648234078)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-25T20:54:07Z
+  Updated: 2025-12-17T19:46:08Z
   Vendor: Grown
   Product Type: Skirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Stripe_chunky_rib_skirt-01_1728x_b5951835-c7f1-43ae-97ca-2be6c204436b.webp?v=1758753529
   - [1y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt?variant=42054657671262)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt?variant=42054657704030)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt?variant=42054657736798)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt?variant=42054657769566)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt?variant=42054657802334)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/grown-sunshine-stripe-knit-skirt?variant=42054657835102)
     Availability: Available
-    Price: $43.99 NZD
+    Price: $55.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-12-07T22:18:37Z
+  Updated: 2025-12-17T19:46:09Z
   Vendor: Grown
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/grey_sunshine_tee-01_1728x_1460c21c-e8fd-41a5-a51e-3145d8208103.webp?v=1758753340
   - [1y](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle?variant=42054663372894)
-    Availability: Available
-    Price: $37.99 NZD
+    Availability: Not Available
+    Price: $47.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle?variant=42054663405662)
     Availability: Not Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle?variant=42054663438430)
     Availability: Not Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle?variant=42054663471198)
     Availability: Not Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle?variant=42054663503966)
     Availability: Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/grown-sunshine-tee-grey-marle?variant=42054663536734)
     Availability: Available
-    Price: $37.99 NZD
+    Price: $47.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-27T09:47:02Z
+  Updated: 2025-12-17T19:46:09Z
   Vendor: Grown
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cream_Short_Denim_Overalls_front-01_1728x_da333468-76f3-4411-b2a4-f33a8aba954b.webp?v=1758753065
   - [1y](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk?variant=42054666944606)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk?variant=42054666977374)
     Availability: Not Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk?variant=42054667010142)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk?variant=42054667042910)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk?variant=42054667075678)
     Availability: Available
-    Price: $46.99 NZD
+    Price: $59.00 NZD
 - [WILSON & FRENCHY Organic Sun Hat - Deep Blue Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sun-hat-deep-blue-stripe): Protect your child from the sun in style with this charming striped sun hat. Crafted from organic cotton, this soft-washed bucket hat features a wide brim and frayed edges, offering both comfort and sun protection for sunny days. Designed with care in Australia, it’s an essential addition to your little one’s summer wardrobe.
   Updated: 2025-12-13T09:33:20Z
   Vendor: Wilson & Frenchy
@@ -11838,20 +11685,20 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $33.99 NZD
 - [WILSON & FRENCHY Organic Boyleg Zipsuit - Little Fronds](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-boyleg-zipsuit-little-fronds): This boyleg zipsuit in the Little Fronds design is crafted from soft organic cotton pointelle, providing gentle comfort for your child’s delicate skin. It includes a full-length front zipper for hassle-free dressing and a protective cover to keep the zipper safe from irritation. Beyond being adorable, it ensures your little one stays cozy throughout the day.
-  Updated: 2025-11-28T21:00:16Z
+  Updated: 2025-12-17T19:46:10Z
   Vendor: Wilson & Frenchy
   Product Type: Zipsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/http___static.theiconic.com.au_p_wilson-and-frenchy-6474-5941362-1.jpg?v=1758613609
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-boyleg-zipsuit-little-fronds?variant=42054827114590)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-boyleg-zipsuit-little-fronds?variant=42054827147358)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-boyleg-zipsuit-little-fronds?variant=42054827180126)
-    Availability: Available
-    Price: $22.99 NZD
+    Availability: Not Available
+    Price: $29.00 NZD
 - [WILSON & FRENCHY Organic Terry Hooded Poncho - Moss](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-hooded-poncho-moss): Ensure your children stay warm and comfortable with Wilson & Frenchy’s collection that highlights the use of natural fibres.
   Updated: 2025-11-21T22:42:46Z
   Vendor: Wilson & Frenchy
@@ -11877,20 +11724,20 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $75.00 NZD
 - [WILSON & FRENCHY Organic Henley Bodysuit - Mini Jungle](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle): This soft and cozy bodysuit is a must-have for your baby's wardrobe. Crafted from GOTS-certified organic cotton jersey, it showcases a charming mini jungle print and includes a side neck opening and snap crotch to make dressing and diaper changes simple. Designed to be gentle on sensitive skin and free from harmful chemicals, it’s ideal for daily wear. Features include short sleeves, easy snap leg closures, sustainable production, and biodegradable packaging.
-  Updated: 2025-11-27T09:46:25Z
+  Updated: 2025-12-17T19:46:11Z
   Vendor: Wilson & Frenchy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2852118_23734790_21536878.jpg?v=1758614653
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle?variant=42054885245022)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle?variant=42054885277790)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle?variant=42054885310558)
     Availability: Available
-    Price: $25.99 NZD
+    Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Terry Hooded Poncho - Lavender Shells](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-hooded-poncho-lavender-shells): Keep your little ones cozy with Wilson & Frenchy's collection, crafted to highlight the gentle feel and breathability of organic fibers.
   Updated: 2025-11-21T22:42:48Z
   Vendor: Wilson & Frenchy
@@ -11946,25 +11793,25 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $33.99 NZD
 - [WILSON & FRENCHY Organic Tee - Yeti](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti): This short-sleeve tee is crafted from GOTS-certified organic cotton rib, providing a soft and flexible fit that’s kind to sensitive skin. It showcases a charming Yeti design on the chest and includes a convenient side button opening to make dressing simple. Ideal for daily wear, it’s comfortable, breathable, and made without harmful chemicals—making it a practical and delightful addition to your little one’s wardrobe.
-  Updated: 2025-11-25T20:54:11Z
+  Updated: 2025-12-17T19:46:12Z
   Vendor: Wilson & Frenchy
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2589-05A_1.webp?v=1758615557
   - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888521822)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888226910)
-    Availability: Available
-    Price: $22.99 NZD
+    Availability: Not Available
+    Price: $29.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888259678)
     Availability: Available
-    Price: $22.99 NZD
+    Price: $29.00 NZD
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888292446)
-    Availability: Available
-    Price: $22.99 NZD
+    Availability: Not Available
+    Price: $29.00 NZD
 - [WILSON & FRENCHY Organic Zipsuit with Feet - Yeti](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-zipsuit-with-feet-yeti): This organic jersey zipsuit with feet in yeti print keeps your newborn cozy and protected. Designed with fold-over mittens to shield little faces from tiny nails, and optional footed bottoms to accommodate growing babies. Made from GOTS-certified organic cotton, it’s soft on delicate skin and convenient for quick nappy changes. The charming hand-illustrated pattern adds a sweet touch. Highlights include a round neckline with a hidden zipper for safety, long sleeves with mittens, a full-length two-way zip, and sustainable packaging in a biodegradable bag.
-  Updated: 2025-11-26T01:23:20Z
+  Updated: 2025-12-15T08:28:47Z
   Vendor: Wilson & Frenchy
   Product Type: Zipsuit
   Availability: Available
@@ -11979,10 +11826,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.99 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-zipsuit-with-feet-yeti?variant=42054893011038)
-    Availability: Available
+    Availability: Not Available
     Price: $36.99 NZD
 - [WILSON & FRENCHY Long Sleeved Swimsuit - Strawberry Kisses](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses): This cute long-sleeved swimsuit from Wilson & Frenchy’s summer range showcases a delightful strawberry kisses pattern. Made with recycled polyester and providing UPF 50+ sun protection, it’s ideal for sunny pool or beach
-  Updated: 2025-11-25T20:14:49Z
+  Updated: 2025-12-16T01:32:57Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
@@ -12000,7 +11847,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42064454647902)
-    Availability: Available
+    Availability: Not Available
     Price: $39.00 NZD
 - [WILSON & FRENCHY Long Sleeved Swimsuit - Hazel Floral](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral): This charming long-sleeved swimsuit from Wilson & Frenchy’s summer range showcases a lovely hazel floral pattern. Made with recycled polyester and providing UPF 50+ sun protection, it’s ideal for sunny beach or pool outings. Featuring an elasticated ruffled leg hem and a convenient front zipper, it ensures easy dressing while keeping your child comfortable and protected.
   Updated: 2025-11-22T10:01:46Z
@@ -12167,6 +12014,18 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Backpack_1_1.png?v=1764021357
   Price: $99.00 NZD
+- [Toshi Hooded Towel Beachcomber - Sunny](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-sunny): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
+  Updated: 2025-12-18T07:46:00Z
+  Vendor: Toshi
+  Product Type: Towel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Toshi_20Hooded_20Towel_20Beachcomber_20-_20_20Sunny_20img6606.webp?v=1760993884
+  - [0-2y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-sunny?variant=42120707375198)
+    Availability: Available
+    Price: $45.00 NZD
+  - [3-5y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-sunny?variant=42120707407966)
+    Availability: Available
+    Price: $45.00 NZD
 - [SONNIE Orla Ribbed Bike Shorts - Violet](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-violet): Soft, comfy, everyday essentials. Organic cotton ribbed bike shorts with just enough stretch. DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the worldâ€™s highest certification of organic fibres.
   Updated: 2025-12-01T20:03:32Z
   Vendor: Sonnie
@@ -12203,6 +12062,20 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-dusty-pink?variant=42120882258014)
     Availability: Available
     Price: $55.00 NZD
+- [MALO Baby Hair & Body Wash](https://www.littlebambinos.co.nz/products/malo-baby-hair-body-wash): Malo nappy Rash Spray is purpose designed to be a practical solution for when you're on-the-go. The spray design means you can quickly change a nappy, spray and keep moving. No need to rinse, rub or wipe hands. It is a simpler alternative to traditional creams.
+  Updated: 2025-12-18T02:23:47Z
+  Vendor: Malo
+  Product Type: Baby Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/IMG-0151.webp?v=1762906497
+  Price: $39.00 NZD
+- [MALO Wash On-The-Go](https://www.littlebambinos.co.nz/products/malo-travel-nappy-change-spray): Malo nappy Rash Spray is purpose designed to be a practical solution for when you're on-the-go. The spray design means you can quickly change a nappy, spray and keep moving. No need to rinse, rub or wipe hands. It is a simpler alternative to traditional creams.
+  Updated: 2025-12-18T02:23:37Z
+  Vendor: Malo
+  Product Type: Baby Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/IMG-0111.webp?v=1762907295
+  Price: $39.00 NZD
 - [BANWOOD Eco Scooter - Sand](https://www.littlebambinos.co.nz/products/eco-scooter-sand-2): Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations.
   Updated: 2025-12-13T00:33:27Z
   Vendor: Banwood
@@ -12327,18 +12200,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [M/L](https://www.littlebambinos.co.nz/products/sonnie-nylon-bucket-hat-contrast-stitching-kermit-green?variant=42200757534814)
     Availability: Available
     Price: $45.00 NZD
-- [SONNIE Nylon Heart Cap - Shell Pink](https://www.littlebambinos.co.nz/products/sonnie-nylon-heart-cap-shell-pink): A sporty 6-panel cap cut from 100% nylon with Sonnie's heart embroidery on the front. In our new season Shell Pink colour way. Unisex and Quick drying 100% nylonAdjustable back strapQuick drying - The perfect pool and beach cap Sizing: S/M - ToddlerM/L - YouthXL - Big Kid / Adult
-  Updated: 2025-12-13T00:11:15Z
-  Vendor: Sonnie
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/9_af08c2b7-b9fe-4017-8926-dcc201111922.webp?v=1763504191
-  - [S/M](https://www.littlebambinos.co.nz/products/sonnie-nylon-heart-cap-shell-pink?variant=42200785092702)
-    Availability: Available
-    Price: $42.00 NZD
-  - [M/L](https://www.littlebambinos.co.nz/products/sonnie-nylon-heart-cap-shell-pink?variant=42200785125470)
-    Availability: Not Available
-    Price: $42.00 NZD
 - [SONNIE S Cap - Cream/Ink](https://www.littlebambinos.co.nz/products/sonnie-s-cap-cream-ink): A fresh take on a classic. The S cap in Cream and Ink is lightweight yet durable and breathable for the ultimate go-to summer accessory. A classic kids' cap in 100% cotton drill with Sonnie's S logo embroidered on the front and Sonnie's logo embroidered on the back. Breathable and durable fabric 100% cotton drillS logo embroidered on the front and Sonnie logo on the backAdjustable back strap with metal clasp Sizing: S/M - ToddlerM/L - YouthXL - Big Kid / Adult
   Updated: 2025-12-09T08:22:47Z
   Vendor: Sonnie
@@ -12449,21 +12310,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/15_e9999324-c3d4-4876-8219-419d4a81f374.jpg?v=1763605381
   Price: $63.00 NZD
 - [TOPSY TURVY Climbing Rope](https://www.littlebambinos.co.nz/products/climbing-rope-1): Give your indoor jungle gym a strength boost with our Climbing Rope. Soft on small hands yet tough for daily use, it builds core and upper-body strength, balance, coordination and focus. Ideal for screen-free, open-ended movement for ages 3+, and a favourite Swedish Ladder accessory in NZ homes. Use it your way Loop over the top bar of your Topsy Turvy Swedish Ladder for a simple indoor monkey bars challengeHang from a load-rated ceiling anchor to add vertical climbing to your indoor play equipment InstallationIncludes a wooden eye loop for quick setup. Wipe clean with a non-abrasive cleaner. Always supervise play. Specs Included: 1 x Climbing Rope with wooden eye loop Length: 220 cm Diameter: 2.5 cm Options: Knotted or Unknotted for different challenge levels Grip: Soft for small hands Compatibility: Topsy Turvy Swedish Ladder or load-rated ceiling anchors Recommended age: 3+ with active adult supervision Use: Indoor only Care: Wipe clean with non-abrasive cleaner Warranty: 6 month warranty for private use Safety noteInstall to suitable load-rated anchor points, maintain clear fall space and use a safety mat. Follow the included safety guidelines.
-  Updated: 2025-12-02T22:46:56Z
+  Updated: 2025-12-15T11:01:26Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_f0f10bef-86cc-4ee8-88c4-7ebdeb386b59.jpg?v=1763605381
   Price: $36.00 NZD
-- [TOPSY TURVY Disc Swing](https://www.littlebambinos.co.nz/products/disc-swing-1): Add a fresh dynamic to your Swedish Ladder with our Disc Swing. Clip it to the top bar to create a compact indoor jungle gym that builds grip strength, core stability, balance and confidence. This simple add-on turns everyday indoor play equipment into a rotating station for screen-free, open-ended movement, ideal for ages 3+. Use it your way Pair with the Swedish Ladder to introduce swinging alongside climbing and hanging Create a mini indoor monkey bars zone when combined with rings or a rope ladder Set up over a safety mat and keep clear fall space for confident, everyday play Installation Attach to the ladder’s top bar or to ceiling anchor points. If you’re not confident with DIY, we recommend professional installation. Adult supervision recommended. Specs Included: 1 x Disc Swing with rope Seat diameter: 30 cm Rope length: 200 cm Compatibility: Clips to Topsy Turvy Swedish Ladder or to rated ceiling anchors Recommended age: 3+ with active adult supervision Use: Indoor only Materials: Wooden seat with durable rope Safety: Install to load-rated anchor points, maintain clear fall space, use a safety mat
-  Updated: 2025-12-02T22:45:20Z
+- [TOPSY TURVY Disc Swing](https://www.littlebambinos.co.nz/products/disc-swing-1): Add a fresh dynamic to your Swedish Ladder with our Disc Swing. Clip it to the top bar to create a compact indoor jungle gym that builds grip strength, core stability, balance and confidence. This simple add-on turns everyday indoor play equipment into a rotating station for screen-free, open-ended movement, ideal for ages 3+. Use it your way Pair with the Swedish Ladder to introduce swinging alongside climbing and hanging Create a mini indoor monkey bars zone when combined with rings or a rope ladder Set up over a safety mat and keep clear fall space for confident, everyday play Installation Attach to the ladder’s top bar or to ceiling anchor points. If you’re not confident with DIY, we recommend professional installation. Adult supervision recommended. Specs Included: 1 x Disc Swing with rope Seat diameter: 30 cm Rope length: 200 cm Compatibility: Clips to Topsy Turvy Swedish Ladder or to rated ceiling anchors Recommended age: 3+ with active adult supervision Use: Indoor only Materials: Wooden seat with durable rope Safety: Install to load-rated anchor points, maintain clear fall space, use a safety mat Shipping: Please note, all Topsy Turvey products fall outside of our standard shipping times. These products get shipped directly from the warehouse in Hamilton to arrive with you as soon as possible. Please allow for up to 7 days for your order to be shipped, and 14 days before arrival due to the extra large size.
+  Updated: 2025-12-15T10:57:42Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/topsy_turvyCemmalinephotography.com-6885_2e94879b-9064-4701-9422-353b57a77f23.jpg?v=1763605380
   Price: $72.00 NZD
-- [TOPSY TURVY Swedish Ladder Combo](https://www.littlebambinos.co.nz/products/swedish-ladder-combo-1): Build a complete indoor climbing frame setup at home with our Swedish Ladder Combo (also known as Swedish wall bars / stall bars). Designed for ages 3+, it turns your space into a compact indoor jungle gym that supports screen-free, Montessori-inspired play while developing core and upper-body strength, balance, agility and coordination. What’s included Swedish Ladder + Pikler-style triangle & slide (use on the floor, as a bridge, or as lower indoor monkey bars) Floor mat for comfy landings Rope ladder Swing / trapeze Climbing rope Gymnastics rings From climbing and hanging to swinging and sliding, tamariki can move their bodies every day – perfect for rainy-day energy, after-school play, and building confidence through open-ended indoor play equipment. The wall-mounted ladder keeps a small-space footprint while offering big possibilities; mix and match the attachments to create your own climbing equipment for kids at home. Installation Mounts to wall studs/nogs for a secure setup. If you’re not confident with DIY, we recommend professional installation. If you’re within ~1.5 hours of Hamilton, contact us to arrange an install. Create a durable, future-proof indoor play hub that grows with your child and looks great in your home.
-  Updated: 2025-12-02T22:46:21Z
+- [TOPSY TURVY Swedish Ladder Combo](https://www.littlebambinos.co.nz/products/swedish-ladder-combo-1): Build a complete indoor climbing frame setup at home with our Swedish Ladder Combo (also known as Swedish wall bars / stall bars). Designed for ages 3+, it turns your space into a compact indoor jungle gym that supports screen-free, Montessori-inspired play while developing core and upper-body strength, balance, agility and coordination. What’s included Swedish Ladder + Pikler-style triangle & slide (use on the floor, as a bridge, or as lower indoor monkey bars) Floor mat for comfy landings Rope ladder Swing / trapeze Climbing rope Gymnastics rings From climbing and hanging to swinging and sliding, tamariki can move their bodies every day – perfect for rainy-day energy, after-school play, and building confidence through open-ended indoor play equipment. The wall-mounted ladder keeps a small-space footprint while offering big possibilities; mix and match the attachments to create your own climbing equipment for kids at home. Installation Mounts to wall studs/nogs for a secure setup. If you’re not confident with DIY, we recommend professional installation. If you’re within ~1.5 hours of Hamilton, contact us to arrange an install. Create a durable, future-proof indoor play hub that grows with your child and looks great in your home. Shipping: Please note, all Topsy Turvey products fall outside of our standard shipping times. These products get shipped directly from the warehouse in Hamilton to arrive with you as soon as possible. Please allow for up to 7 days for your order to be shipped, and 14 days before arrival due to the extra large size.
+  Updated: 2025-12-15T11:05:25Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -12492,15 +12353,15 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/IMG_0881.png?v=1763605383
     Price: $1,176.00 NZD
-- [TOPSY TURVY Multi-Use Arch](https://www.littlebambinos.co.nz/products/multi-use-arch): Create a beautiful indoor play setup with our Multi-use Climbing Arch + cushion. From a cosy, supervised baby gym in the early months to a sturdy climbing arch for bigger kids, this versatile Montessori piece invites rocking and climbing that build core and upper-body strength, balance, agility and coordination. It is ideal indoor play equipment for screen-free, open-ended play that grows with your child. Use it your way Set up as a baby gym with the cushion for supervised tummy time, kicking and reaching Rock as a calming Waldorf-style rocker or reading nook Flip to climb as a climbing arch that supports confidence and gross motor skills Style as a tunnel, bridge, mini table or storage shelf for imaginative play Pair with the Swedish Ladder to create an at-home indoor jungle gym or obstacle course Designed for everyday movement in small spaces, the arch keeps play accessible and tidy while offering endless setups for tamariki. Specs What is included: Multi-use Climbing Arch + plush cushion Recommended age: 0+ with active adult supervision Play modes: baby gym, rocker, climbing arch, tunnel, bridge, reading nook, mini table, shelf Compatibility: Pairs beautifully with the Topsy Turvy Swedish Ladder Use: Indoor only Footprint: Compact design suited to small NZ homes and playrooms Care: Wipe-clean surfaces. Cushion removable for easy care Safety: Always use on a level surface with clear fall space and supervise use Dimensions Width: 100 cm Depth: 60 cm Height: 50 cm Weight limit: 40 kg Rungs: 2.5 cm diameter Material: Beech/Pine/Plywood Warranty: 6-month warranty for private use.
-  Updated: 2025-12-10T21:01:17Z
+- [TOPSY TURVY Multi-Use Arch](https://www.littlebambinos.co.nz/products/multi-use-arch): Create a beautiful indoor play setup with our Multi-use Climbing Arch + cushion. From a cosy, supervised baby gym in the early months to a sturdy climbing arch for bigger kids, this versatile Montessori piece invites rocking and climbing that build core and upper-body strength, balance, agility and coordination. It is ideal indoor play equipment for screen-free, open-ended play that grows with your child. Use it your way Set up as a baby gym with the cushion for supervised tummy time, kicking and reaching Rock as a calming Waldorf-style rocker or reading nook Flip to climb as a climbing arch that supports confidence and gross motor skills Style as a tunnel, bridge, mini table or storage shelf for imaginative play Pair with the Swedish Ladder to create an at-home indoor jungle gym or obstacle course Designed for everyday movement in small spaces, the arch keeps play accessible and tidy while offering endless setups for tamariki. Specs What is included: Multi-use Climbing Arch + plush cushion Recommended age: 0+ with active adult supervision Play modes: baby gym, rocker, climbing arch, tunnel, bridge, reading nook, mini table, shelf Compatibility: Pairs beautifully with the Topsy Turvy Swedish Ladder Use: Indoor only Footprint: Compact design suited to small NZ homes and playrooms Care: Wipe-clean surfaces. Cushion removable for easy care Safety: Always use on a level surface with clear fall space and supervise use Dimensions Width: 100 cm Depth: 60 cm Height: 50 cm Weight limit: 40 kg Rungs: 2.5 cm diameter Material: Beech/Pine/Plywood Warranty: 6-month warranty for private use. Shipping: Please note, all Topsy Turvey products fall outside of our standard shipping times. These products get shipped directly from the warehouse in Hamilton to arrive with you as soon as possible. Please allow for up to 7 days for your order to be shipped, and 14 days before arrival due to the extra large size.
+  Updated: 2025-12-16T23:48:15Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/topsy_turvy_emmalinephotography.com-7413_163b246d-d22f-4a68-8a27-31891aab0bc5.jpg?v=1763605380
   Price: $329.00 NZD
-- [TOPSY TURVY 4D Rope Ladder](https://www.littlebambinos.co.nz/products/4d-rope-ladder-1): Turn any corner of your home into a small-space indoor jungle gym with our 4D Rope Ladder. The four-sided design invites 360 climbing that builds core and upper-body strength, balance, agility and coordination. It is ideal indoor play equipment for ages 3+, encouraging screen-free, Montessori-inspired movement and confidence. Use it two ways Clip to your Topsy Turvy Swedish Ladder for an instant indoor monkey bars experience Hang it from rated ceiling anchors as a stand-alone climbing ladder for kidsIt attaches and removes quickly, so you can swap between climbing, swinging and other Swedish Ladder accessories as play evolves. Installation Mount to your Swedish Ladder or to ceiling anchor points. If you’re not confident with DIY, we recommend professional installation. Adult supervision recommended. Optional add-onPair with our recommended carabiners for fast clip-in setup. Create an open-ended play zone that keeps tamariki moving every day, rain or shine. Specs Design: Four-sided rope ladder with 5 levels of wooden rungs Compatibility: Works with Topsy Turvy Swedish Ladder or ceiling anchor hooks Recommended age: 3+ Use: Indoor only Setup: Quick clip-in and removal when used with carabiners What’s included: 1 x 4D Rope Ladder Optional extras: Carabiners available to purchase Safety: Install to suitable load-rated anchor points and supervise use
-  Updated: 2025-12-02T22:44:14Z
+- [TOPSY TURVY 4D Rope Ladder](https://www.littlebambinos.co.nz/products/4d-rope-ladder-1): Turn any corner of your home into a small-space indoor jungle gym with our 4D Rope Ladder. The four-sided design invites 360 climbing that builds core and upper-body strength, balance, agility and coordination. It is ideal indoor play equipment for ages 3+, encouraging screen-free, Montessori-inspired movement and confidence. Use it two ways Clip to your Topsy Turvy Swedish Ladder for an instant indoor monkey bars experience Hang it from rated ceiling anchors as a stand-alone climbing ladder for kidsIt attaches and removes quickly, so you can swap between climbing, swinging and other Swedish Ladder accessories as play evolves. Installation Mount to your Swedish Ladder or to ceiling anchor points. If you’re not confident with DIY, we recommend professional installation. Adult supervision recommended. Optional add-onPair with our recommended carabiners for fast clip-in setup. Create an open-ended play zone that keeps tamariki moving every day, rain or shine. Specs Design: Four-sided rope ladder with 5 levels of wooden rungs Compatibility: Works with Topsy Turvy Swedish Ladder or ceiling anchor hooks Recommended age: 3+ Use: Indoor only Setup: Quick clip-in and removal when used with carabiners What’s included: 1 x 4D Rope Ladder Optional extras: Carabiners available to purchase Safety: Install to suitable load-rated anchor points and supervise use Shipping: Please note, all Topsy Turvey products fall outside of our standard shipping times. These products get shipped directly from the warehouse in Hamilton to arrive with you as soon as possible. Please allow for up to 7 days for your order to be shipped, and 14 days before arrival due to the extra large size.
+  Updated: 2025-12-15T10:52:16Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -12578,23 +12439,23 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.00 NZD
 - [GROWN Organic Candy Cane Christmas Jumper](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper-olive): Celebrate the season in style with this festive Christmas jumper crafted from certified organic cotton. Featuring a relaxed dropped shoulder silhouette and cosy chunky rib knit construction, it's designed for comfort and durability. The yarn-dyed stripes running along the sleeves add visual interest, while the charming knitted candy cane appliqué brings playful holiday spirit to your wardrobe. Perfect for creating memorable moments with loved ones during the festive period.
-  Updated: 2025-12-04T19:04:01Z
+  Updated: 2025-12-15T02:15:40Z
   Vendor: Grown
   Product Type: Jumper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Green_candy_cane_christmas_jumper-01.png?v=1763687324
   - [6-12m](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper-olive?variant=42205478420574)
     Availability: Available
-    Price: $69.00 NZD
+    Price: $59.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper-olive?variant=42205478453342)
     Availability: Available
-    Price: $69.00 NZD
+    Price: $59.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper-olive?variant=42205478486110)
     Availability: Available
-    Price: $69.00 NZD
+    Price: $59.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/candy-cane-christmas-jumper-olive?variant=42205478518878)
     Availability: Available
-    Price: $69.00 NZD
+    Price: $59.00 NZD
 - [GROWN Terry Flow Bucket Hat - Leaf](https://www.littlebambinos.co.nz/products/terry-flow-bucket-hat-leaf): Crafted from premium cotton jacquard terry towelling, this bucket hat features beautiful 'flow' artwork and weighs a substantial 400 grams for lasting durability. Comes thoughtfully packaged in a natural calico drawstring bag, making it perfect for gifting or easy storage. A versatile piece that combines comfort with style for everyday wear.
   Updated: 2025-12-04T19:01:47Z
   Vendor: Grown
@@ -12611,7 +12472,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
 - [GROWN Terry Towelling Flow Poncho - Leaf](https://www.littlebambinos.co.nz/products/terry-towelling-flow-poncho-leaf): Wrap your little one in comfort with this beautifully crafted terry towelling poncho featuring a charming 'flow' artwork design. Made from 100% cotton with a jacquard weave, it's soft, absorbent, and perfect for post-swim cuddles or cosy days at home. The convenient hood provides extra warmth, while the calico drawstring bag makes it easy to pack for outings. Available in two sizes to grow with your child: SM for ages 1-2 years and ML for 3+ years.
-  Updated: 2025-12-09T19:14:17Z
+  Updated: 2025-12-14T00:52:47Z
   Vendor: Grown
   Product Type: Towel
   Availability: Available
@@ -12620,7 +12481,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
   - [ML](https://www.littlebambinos.co.nz/products/terry-towelling-flow-poncho-leaf?variant=42205480288350)
-    Availability: Available
+    Availability: Not Available
     Price: $59.00 NZD
 - [GROWN Terry Towelling Flow Poncho - Peachy](https://www.littlebambinos.co.nz/products/terry-towelling-flow-poncho-peachy): Wrap your little one in comfort with this beautifully crafted hooded poncho. Made from 100% cotton with a lovely jacquard weave and charming 'flow' artwork, it's perfect for post-swim cuddles or cosy playtime. Available in two sizes to grow with your child—Small/Medium for ages 1-2 years and Medium/Large for 3+ years. Comes thoughtfully packaged in a calico drawstring bag, making it an ideal gift.
   Updated: 2025-12-09T19:14:13Z
@@ -12662,7 +12523,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $65.00 NZD
 - [GROWN Long Sleeve Rashie - Olive](https://www.littlebambinos.co.nz/products/long-sleeve-rashie-toffee-copy): This long sleeve rashie features a fully lined body with a comfortable raglan armhole design, offering excellent sun protection with 50+ SPF. Crafted from sustainable materials, the main fabric blends 73% recycled nylon with 27% elastane for durability and stretch, while the contrast panels use 80% recycled nylon and 20% elastane. The soft lining combines 86% recycled polyester with 14% elastane for all-day comfort. Perfect for water activities and outdoor adventures, this eco-conscious piece supports both your little one's skin and the planet.
-  Updated: 2025-12-04T19:01:50Z
+  Updated: 2025-12-17T19:15:52Z
   Vendor: Grown
   Product Type: HOL25
   Availability: Available
@@ -12683,7 +12544,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/long-sleeve-rashie-toffee-copy?variant=42205482975326)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 NZD
   - [6y](https://www.littlebambinos.co.nz/products/long-sleeve-rashie-toffee-copy?variant=42205483008094)
     Availability: Available
@@ -12707,7 +12568,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:24Z
   Total Products: 0
 - [THE LULLABY CLUB PRE ORDER](https://www.littlebambinos.co.nz/collections/preorders): Pre order opening 1PM 30th Jan We're excited to open up the opportunity to pre order your favourite smock dresses from The Lullaby Club! The dresses are expected to arrive mid-late Feb but we will keep you updated if for some reason there is a delay.
-  Updated: 2025-11-25T20:48:49Z
+  Updated: 2025-12-17T19:41:12Z
   Total Products: 35
 - [I dig denim](https://www.littlebambinos.co.nz/collections/i-dig-denim): This Swedish denim label is characterised by good quality, perfect fit, and unique washes. The inspiration comes from the wild elements of the Swedish west coast – the sea, rocks and open skies – which are ever present and reflected in the color schemes and fadings of the fabric. The collections are based on denim and completed with pieces in soft fabrics and shapes. Each I dig denim piece is characterised by a strong sense of style, with a clearly relaxed and carefree expression.
   Updated: 2023-10-31T02:42:24Z
@@ -12722,7 +12583,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:24Z
   Total Products: 0
 - [MarMar Copenhagen](https://www.littlebambinos.co.nz/collections/marmar-copenhagen): Established in 2008, MarMar Copenhagen is a premium Danish children´s fashion brand for boys and girls. Defined by sophisticated, classic luxury, cool quirky details MarMar Copenhagen is the go-to brand for the best basics and preferably the first thing a new baby is dressed in.
-  Updated: 2025-12-07T01:55:17Z
+  Updated: 2025-12-17T19:38:27Z
   Total Products: 174
 - [Claire Aristides Fine Jewels](https://www.littlebambinos.co.nz/collections/claire-aristides-fine-jewels): Shop our collection of Claire Aristides Fine Jewels
   Updated: 2023-10-31T02:42:24Z
@@ -12731,7 +12592,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:25Z
   Total Products: 0
 - [Huttelihut](https://www.littlebambinos.co.nz/collections/huttelihut): Shop our collection of Huttelihut products
-  Updated: 2025-11-25T20:43:15Z
+  Updated: 2025-12-17T19:36:06Z
   Total Products: 15
 - [Donsje](https://www.littlebambinos.co.nz/collections/donsje): Amsterdam-based Donsje (Dutch for fluffy) that offers a wide range of adorable boots and booties for both babies and toddlers. Donsje booties come with a nostalgic twist in its on-trend style. Each pair is handmade with the healthy development of tiny feet in mind. In Donsje designs, baby and toddler feet are well-protected and have the space to move freely, allowing them to develop naturally and safely in preparation for those long-awaited first steps. The leather soles have been roughened and are non-slip and from 12 month and up all of our shoes have a rubber sole. Its fastening allows the shoes to be slipped on and off easily, keeping them securely on once fastened.
   Updated: 2023-10-31T02:42:25Z
@@ -12761,7 +12622,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:25Z
   Total Products: 0
 - [Jamie Kay | Clothing for Babies and Children](https://www.littlebambinos.co.nz/collections/jamie-kay): Designed in New Zealand Jamie Kay offers a range of carefully considered designs that are perfect for kids. Their clothing is not just exquisite but the quality is outstanding. Jamie Kay garments are crafted in the loving hands of their team in India & China using organic cotton that is GOTS certified. Shop Jamie Kay.
-  Updated: 2025-11-25T20:43:20Z
+  Updated: 2025-12-17T19:36:12Z
   Total Products: 213
 - [Shirley Bredal](https://www.littlebambinos.co.nz/collections/shirley-bredal): Shirley Bredal was established in Copenhagen, Denmark in 2006, by knit designer Shirley Bredal. The collection is now developed from Kathmandu itself. The collections are hand made with knits as our main focus and passion. The design is Scandinavian contemporary, with a hint of vintage. Each Shirley Bredal design is brought to life in the valley of Kathmandu, Nepal. They employ local people, some affected by disabilities, providing an income for themselves and their families according to fair trade principles. As Shirley Bredal products are individually hand crafted, slight variations may appear. We personally feel that it is these variations, that bring life and charm to each product.
   Updated: 2023-10-31T02:42:26Z
@@ -12791,16 +12652,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-12-13T23:57:12Z
-  Total Products: 419
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 415
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
-  Updated: 2025-11-25T20:57:51Z
+  Updated: 2025-12-17T19:44:41Z
   Total Products: 94
 - [Summer and Storm](https://www.littlebambinos.co.nz/collections/summer-and-storm): SUMMER and STORM is an optimistic and minimal, baby, kids and women's brand founded in Australia in 2017. Creating desirable pieces to be enjoyed and passed down, whilst striving to produce clothing that have a minimal environmental and social impact. Buy Less. Buy Better. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
-  Updated: 2025-11-25T20:56:46Z
+  Updated: 2025-12-17T19:37:52Z
   Total Products: 61
 - [Konges Slojd](https://www.littlebambinos.co.nz/collections/konges-slojd-2): Konges Slojd is located in Copenhagen, Denmark, and vouches for quality, functionality and simplicity. Konges Slojd has created a simple, Scandinavian, stylish and not leat quality- conscious universe for those most dear to us: Our Children.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:03Z
   Total Products: 859
 - [Bebe Organic](https://www.littlebambinos.co.nz/collections/bebe-organic-1): Only the very best organic materials have been selected to produce unique, sustainable clothing, harmless to children’s sensitive skin. Our philosophy is to produce natural clothing of the highest standard and we pay a great attention to detail on every single piece.
   Updated: 2023-10-31T02:42:27Z
@@ -12809,13 +12670,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:27Z
   Total Products: 0
 - [Susukoshi](https://www.littlebambinos.co.nz/collections/susukoshi): /’soo-sko-she/ Designed in Melbourne. Susukoshi is founded by 3 sleep deprived mothers (big dreamers) with big passion and big dreams. They started the brand when they had their little ones (at almost the same time) and wanted something that was not so “blue is for boy and pink is for girl”. The word “sukoshi” means little in Japanese.
-  Updated: 2025-12-08T12:02:54Z
+  Updated: 2025-12-17T19:39:38Z
   Total Products: 149
 - [BIBS Pacifiers for Babies](https://www.littlebambinos.co.nz/collections/bibs): BIBS dummies are the original pacifier with a round shield and a cherry shaped nipple. The cherry shaped nipple and matte lightweight shield is designed to imitate the shape of a mother’s breast.
   Updated: 2025-11-22T12:02:35Z
   Total Products: 60
 - [Hubble + Duke](https://www.littlebambinos.co.nz/collections/hubble-duke): Shop our collection of Hubble and Duke
-  Updated: 2025-11-25T20:56:50Z
+  Updated: 2025-12-17T19:38:32Z
   Total Products: 4
 - [June](https://www.littlebambinos.co.nz/collections/june)
   Updated: 2023-10-31T02:42:27Z
@@ -12824,10 +12685,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:27Z
   Total Products: 0
 - [Newborn Essentials](https://www.littlebambinos.co.nz/collections/newborn-essentials)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 406
 - [Rylee + Cru New Zealand](https://www.littlebambinos.co.nz/collections/rylee-cru): Rylee + Cru merges art and imagination, offering unique clothing for the modern child. Each collection is built off of high quality basics that have soft and well-loved qualities matched with beautiful muted tones and timeless traits.
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:45:20Z
   Total Products: 302
 - [Tutu Du Monde](https://www.littlebambinos.co.nz/collections/tutu-du-monde)
   Updated: 2023-10-31T02:42:27Z
@@ -12836,7 +12697,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:28Z
   Total Products: 0
 - [G.Nancy - Children's Pyjamas](https://www.littlebambinos.co.nz/collections/g-nancy-1): G.NANCY is a collection of beautifully illustrated children's pyjamas. The charming range is a collection of simple but beautiful long and short PJ sets in a collection of prints exclusively designed in collaboration with Georgie and her husband, partner in love and life - illustrator and artist Oli Holmes.
-  Updated: 2025-11-25T20:48:27Z
+  Updated: 2025-12-17T19:40:53Z
   Total Products: 24
 - [DOT DOT SWIM](https://www.littlebambinos.co.nz/collections/dot-dot-swim)
   Updated: 2023-10-31T02:42:28Z
@@ -12845,7 +12706,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:28Z
   Total Products: 0
 - [Poudre Organic - Clothing for babies and children](https://www.littlebambinos.co.nz/collections/poudre-organic): French brand Pourdre Organic have created a gorgeous collection of sustainable clothing for babies and children. The creatives behind the label, Manon and Quentin, are a couple of parents with four daughters. Their clothes are made in Portugal, in a company on a human scale where they know the name of each seamstress. They only use cotton from organic farms, GOTS and OEKO-TEX certified, as well as linen, very low energy materials. They are deeply convinced that it is high time to change fashion, really.
-  Updated: 2025-11-29T12:04:29Z
+  Updated: 2025-12-17T19:33:51Z
   Total Products: 60
 - [NEW SEASON SWIMWEAR](https://www.littlebambinos.co.nz/collections/new-season-swimwear)
   Updated: 2025-12-10T23:41:26Z
@@ -12860,7 +12721,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:28Z
   Total Products: 0
 - [Quincy Mae | Clothing for Babies](https://www.littlebambinos.co.nz/collections/quincy-mae): Quincy Mae is a baby basics apparel and accessory collection. The minimalist approach combined with soft wearable colours will always be the staple design features of Quincy Mae. Beautiful and soft clothing for your babies. Free shipping within NZ on orders over $100.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:41Z
   Total Products: 386
 - [Little Bambinos - Petite Amalie](https://www.littlebambinos.co.nz/collections/petite-amalie): Petite Amalie was born from a love of timeless fashion pieces your child can cherish for years to come. Each piece is lovingly designed in Australia by a Melbourne mum of three beautiful girls. Each collection is a reflection of the designers classic style using beautiful fabrics, embroideries and trims. We hope you enjoy each collection as much as we do.
   Updated: 2023-10-31T02:42:28Z
@@ -12881,142 +12742,142 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:29Z
   Total Products: 0
 - [NEW ARRIVALS](https://www.littlebambinos.co.nz/collections/n-new-arrivals)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 1621
 - [BABY BOY](https://www.littlebambinos.co.nz/collections/n-baby-boy-0-2y): Shop our collection of baby boy products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 161
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-girl-0-2y): Shop our collection of baby girl products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 3068
 - [NEW IN BABY GIRL](https://www.littlebambinos.co.nz/collections/n-new-in-baby-girl)
-  Updated: 2025-11-25T20:43:55Z
+  Updated: 2025-12-17T19:36:45Z
   Total Products: 2
 - [NEW IN BABY BOY](https://www.littlebambinos.co.nz/collections/n-new-in-baby-boy)
-  Updated: 2025-11-25T20:43:47Z
+  Updated: 2025-12-17T19:36:36Z
   Total Products: 1
 - [Baby - Bodysuits](https://www.littlebambinos.co.nz/collections/n-bodysuits-rompers-baby-girl): Shop our collection of baby bodysuits
-  Updated: 2025-12-07T12:04:20Z
+  Updated: 2025-12-17T19:46:02Z
   Total Products: 221
 - [Baby - Rompers + Overalls](https://www.littlebambinos.co.nz/collections/n-baby-boy-bodysuits-rompers): Shop our collection of baby boy rompers and overalls
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:45:37Z
   Total Products: 200
 - [Baby - Dresses + Skirts](https://www.littlebambinos.co.nz/collections/n-baby-girl-dresses): Shop our collection of of baby dresses and skirts
-  Updated: 2025-11-25T20:56:49Z
+  Updated: 2025-12-17T19:44:29Z
   Total Products: 138
 - [Baby - Tops](https://www.littlebambinos.co.nz/collections/n-baby-girl-tops): Shop our collection of baby girl tops
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 182
 - [BABY BOY - TOPS](https://www.littlebambinos.co.nz/collections/n-baby-boy-tops): Shop our collection of baby boy tops
   Updated: 2023-10-31T02:42:30Z
   Total Products: 4
 - [Baby - Jumpers + Cardigans](https://www.littlebambinos.co.nz/collections/n-baby-girl-jumpers-cardigans): Shop our collection of baby girl jumpers and cardigans
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 193
 - [BABY BOY - JUMPERS + CARDIGANS](https://www.littlebambinos.co.nz/collections/n-baby-boy-jumpers-cardigans): Shop our collection of baby boy jumpers and cardigans
   Updated: 2025-07-02T08:33:34Z
   Total Products: 2
 - [Baby - Bottoms](https://www.littlebambinos.co.nz/collections/n-baby-girl-bottoms): Shop our collection of baby girl bottoms
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:54Z
   Total Products: 370
 - [BABY BOY - BOTTOMS](https://www.littlebambinos.co.nz/collections/n-baby-boy-bottoms)
-  Updated: 2025-11-25T20:46:39Z
+  Updated: 2025-12-17T19:39:12Z
   Total Products: 11
 - [Baby - Coats + Jackets](https://www.littlebambinos.co.nz/collections/n-baby-girl-coats-jackets): Shop our collection of baby girl coats and jackets
-  Updated: 2025-11-25T20:57:41Z
+  Updated: 2025-12-17T19:41:12Z
   Total Products: 69
 - [BABY BOY - COATS + JACKETS](https://www.littlebambinos.co.nz/collections/n-baby-boy-coats-jackets): Shop our collection of baby boy coats and jackets
-  Updated: 2025-11-25T20:48:57Z
+  Updated: 2025-12-17T19:41:19Z
   Total Products: 4
 - [Baby - Onesies + Pyjamas](https://www.littlebambinos.co.nz/collections/n-baby-girl-pyjamas-underwear): Shop our collection of baby onesies and pyjamas
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:44:34Z
   Total Products: 224
 - [BABY BOY - PYJAMAS + UNDERWEAR](https://www.littlebambinos.co.nz/collections/n-baby-boy-pyjamas-underwear): Shop our collection of baby boy pyjamas and underwear
-  Updated: 2025-11-25T20:51:58Z
+  Updated: 2025-12-17T19:44:06Z
   Total Products: 9
 - [Baby - Swimwear + Swim Accessories](https://www.littlebambinos.co.nz/collections/n-baby-girl-swimwear): Shop our collection of baby swimwear and swim accessories
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 325
 - [BABY BOY - SWIMWEAR](https://www.littlebambinos.co.nz/collections/n-baby-boy-swimwear): Shop our collection of baby boy swimwear
   Updated: 2025-11-10T20:58:26Z
   Total Products: 18
 - [Baby - Shoes & Booties](https://www.littlebambinos.co.nz/collections/n-baby-girl-footwear): Shop our collection of baby shoes and booties
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:56Z
   Total Products: 107
 - [BABY BOY - FOOTWEAR](https://www.littlebambinos.co.nz/collections/n-baby-boy-footwear): Shop our collection of baby boy footwear
-  Updated: 2025-11-25T20:58:38Z
+  Updated: 2025-12-17T19:32:19Z
   Total Products: 25
 - [Baby - Accessories](https://www.littlebambinos.co.nz/collections/n-baby-girl-accessories): Shop our collection of baby accessories
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 772
 - [BABY BOY - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-baby-girl-accessories-1)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 22
 - [GIRLS - ROMPERS + PLAYSUITS + OVERALLS](https://www.littlebambinos.co.nz/collections/n-girls-rompers-playsuits): Shop our collection of rompers, playsuits and overalls
-  Updated: 2025-12-07T01:56:05Z
+  Updated: 2025-12-17T19:43:37Z
   Total Products: 53
 - [BOYS - ROMPERS + OVERALLS](https://www.littlebambinos.co.nz/collections/n-boys-rompers): Shop our collection of boys rompers and overalls
-  Updated: 2025-11-25T20:49:52Z
+  Updated: 2025-12-17T19:42:10Z
   Total Products: 34
 - [GIRLS - DRESSES + SKIRTS](https://www.littlebambinos.co.nz/collections/n-girls-dresses-skirts)
-  Updated: 2025-11-25T20:56:49Z
+  Updated: 2025-12-17T19:44:32Z
   Total Products: 141
 - [GIRLS - TOPS](https://www.littlebambinos.co.nz/collections/n-girls-tops): Shop our collection of girls tops
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 196
 - [BOYS - TOPS](https://www.littlebambinos.co.nz/collections/n-boys-tops): Shop our collection of boys tops
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 133
 - [GIRLS - JUMPERS + CARDIGANS](https://www.littlebambinos.co.nz/collections/n-girls-jumpers-cardigans): Shop our collection of girls jumpers and cardigans
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 166
 - [BOYS - JUMPERS + CARDIGANS](https://www.littlebambinos.co.nz/collections/n-boys-jumpers-cardigans): Shop our collection of boys jumpers and cardigans
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 109
 - [GIRLS - BOTTOMS](https://www.littlebambinos.co.nz/collections/n-girls-bottoms): Shop our collection of girls bottoms
-  Updated: 2025-12-07T01:56:45Z
+  Updated: 2025-12-17T19:44:39Z
   Total Products: 212
 - [BOYS - BOTTOMS](https://www.littlebambinos.co.nz/collections/n-boys-bottoms): Shop our collection of boys bottoms
-  Updated: 2025-12-07T01:56:42Z
+  Updated: 2025-12-17T19:44:32Z
   Total Products: 155
 - [GIRLS - COATS + JACKETS](https://www.littlebambinos.co.nz/collections/n-girls-coats-jackets): Shop our collection of girls coats and jackets
-  Updated: 2025-11-25T20:52:00Z
+  Updated: 2025-12-17T19:44:08Z
   Total Products: 61
 - [BOYS - COATS + JACKETS](https://www.littlebambinos.co.nz/collections/n-boys-coats-jackets): Shop our collection of boys coats and jackets
-  Updated: 2025-11-25T20:47:49Z
+  Updated: 2025-12-17T19:40:18Z
   Total Products: 38
 - [GIRLS - PYJAMAS + UNDERWEAR](https://www.littlebambinos.co.nz/collections/n-girls-pyjamas-underwear)
-  Updated: 2025-11-25T20:52:07Z
+  Updated: 2025-12-17T19:44:15Z
   Total Products: 79
 - [BOYS - PYJAMAS + UNDERWEAR](https://www.littlebambinos.co.nz/collections/n-boys-pyjamas-underwear): Shop our collection of boys pyjamas and underwear
-  Updated: 2025-11-25T20:52:07Z
+  Updated: 2025-12-17T19:44:15Z
   Total Products: 50
 - [GIRLS - SWIMWEAR](https://www.littlebambinos.co.nz/collections/n-girls-swimwear): Shop our collection of girls swimwear
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 201
 - [BOYS - SWIMWEAR](https://www.littlebambinos.co.nz/collections/n-boys-swimwear): Shop our collection of boys swimwear
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:37:14Z
   Total Products: 132
 - [GIRLS - FOOTWEAR](https://www.littlebambinos.co.nz/collections/n-girls-footwear)
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:46:05Z
   Total Products: 116
 - [BOYS - FOOTWEAR](https://www.littlebambinos.co.nz/collections/n-boys-footwear): Shop our collection of boys footwear
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:45:56Z
   Total Products: 70
 - [GIRLS - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-girls-accessories)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 525
 - [BOYS - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-boys-accessories): Shop our collection of boys accessories
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 269
 - [GIRLS - NEW IN](https://www.littlebambinos.co.nz/collections/n-girls-new-in)
-  Updated: 2025-12-10T23:41:26Z
+  Updated: 2025-12-17T19:44:23Z
   Total Products: 14
 - [BOYS - NEW IN](https://www.littlebambinos.co.nz/collections/n-boys-new-in): Shop our collection of boys new in products
-  Updated: 2025-11-25T20:52:15Z
+  Updated: 2025-12-17T19:44:23Z
   Total Products: 3
 - [WOMEN](https://www.littlebambinos.co.nz/collections/womanswear): Shop our collection of Women's wear
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 236
 - [DECOR](https://www.littlebambinos.co.nz/collections/decor): Shop our collection of decor products
   Updated: 2025-08-06T22:46:40Z
@@ -13040,19 +12901,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:33Z
   Total Products: 0
 - [GIRLS](https://www.littlebambinos.co.nz/collections/girls)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 1684
 - [BOYS](https://www.littlebambinos.co.nz/collections/boy): Shop our boys collection
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 945
 - [HUXBABY](https://www.littlebambinos.co.nz/collections/huxbaby): Huxbaby is about minimalist fashions for kids with an adult level of style. Their designs blend super soft organic cotton with a clean aesthetic - clothes that allow kids to be kids without sacrificing style.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:38Z
   Total Products: 169
 - [NEW IN - BABY](https://www.littlebambinos.co.nz/collections/new-in-baby)
-  Updated: 2025-11-25T20:58:22Z
+  Updated: 2025-12-17T19:36:36Z
   Total Products: 37
 - [All Bodysuits + Rompers](https://www.littlebambinos.co.nz/collections/all-bodysuits): Shop our collection of bodysuits
-  Updated: 2025-11-25T20:50:03Z
+  Updated: 2025-12-17T19:42:22Z
   Total Products: 15
 - [CLEARANCE](https://www.littlebambinos.co.nz/collections/clearance)
   Updated: 2021-09-14T14:10:57Z
@@ -13085,10 +12946,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:35:25Z
   Total Products: 75
 - [Shop Our Sale!](https://www.littlebambinos.co.nz/collections/sale-all-1): We're having a Mid-Year clear out! Explore our sale & shop your favourite brands. Get in quick to grab a bargain! Please choose carefully, sale items cannot be returned or exchanged.
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 4166
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 4167
 - [Jumper, Cardigans and Sweatshirts](https://www.littlebambinos.co.nz/collections/second-birthday-celebration-day-3)
-  Updated: 2025-11-25T20:42:08Z
+  Updated: 2025-12-17T19:35:00Z
   Total Products: 16
 - [FEATHER / DRUM](https://www.littlebambinos.co.nz/collections/feather-drum-1): Feather Drum is a beautifully crafted and curated collection of future classics for women and girls. The philosophy centres on high-quality natural fabrics (organic or recycled wherever possible), modern, timeless shapes and well-made pieces that work hard in your wardrobe season after season. Sustainability and ethically made fashion is very important at Feather Drum. Created and patterned in Australia, the designs are thoughtful and considered, to ensure the fit and make-quality results in a collection of long-term investment pieces, lessening the environmental impacts associated with fast fashion. Feather Drum chooses to partner only with makers who carry the GOTS (Global Organic Textile Standard) certification and demonstrate socially sustainable practices, including provision of safe work conditions and fair wages. In the girls’ collection, look out for the “clothes that grow” label that signals the piece will grow with your child, extending its time in the wardrobe before being passed down – think adjustable waist bands and ties, styles that can be worn as dresses first and smock tops later and maxi lengths in skirts and dresses which can then turn to midi lengths as the years go by.
   Updated: 2023-10-31T02:42:34Z
@@ -13100,7 +12961,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:35Z
   Total Products: 0
 - [Toshi](https://www.littlebambinos.co.nz/collections/toshi): Toshi is a designer lifestyle brand dedicated to the creation of children’s accessories, headwear, and organic baby gifts. Their objective is to offer beautiful, aesthetically driven product with high integrity and intelligent functionality.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 234
 - [ALL Sleepwear](https://www.littlebambinos.co.nz/collections/all-sleepwear): Shop our collection of sleepwear
   Updated: 2023-10-31T02:42:35Z
@@ -13127,7 +12988,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:35Z
   Total Products: 4
 - [Zulu & Zephyr](https://www.littlebambinos.co.nz/collections/zulu-and-zephyr): Born in Bondi Beach, Australia and raised in Byron Bay, Zulu & Zephyr has always been a coastal girl at heart. The MINI swim collection is designed with sun protection, durability and style in mind. Made from regenerated nylon and carries a sun protection rating of UPF 50+.
-  Updated: 2025-12-08T12:02:54Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 63
 - [WILD WAWA](https://www.littlebambinos.co.nz/collections/wild-wawa): Wild Wawa is a children's clothing brand focused on delivering high quality children's clothing made in Perú with 100% organic Pima cotton. Find uniquely beautiful heirloom garments for your little loves.
   Updated: 2023-10-31T02:42:35Z
@@ -13139,13 +13000,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 1285
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 1469
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
   Total Products: 1
 - [ALL ACCESSORIES](https://www.littlebambinos.co.nz/collections/all-accessories): Shop our accessories collection
-  Updated: 2025-12-10T12:02:40Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 3
 - [EZRA ZAYN](https://www.littlebambinos.co.nz/collections/ezra-zayn)
   Updated: 2023-10-31T02:42:36Z
@@ -13199,34 +13060,34 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:37Z
   Total Products: 0
 - [ALL Baby](https://www.littlebambinos.co.nz/collections/all-baby)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 290
 - [RYLEE + CRU - HOMETOWN SS20](https://www.littlebambinos.co.nz/collections/hometown): RYLEE + CRU SS20 - HOMETOWN LAUNCHES 6AM 28.02 NZST FREE LOCAL SHIPPING - RCFREESHIP Ends Midnight 01.02.20 nzst
-  Updated: 2025-11-25T20:44:20Z
+  Updated: 2025-12-17T19:37:07Z
   Total Products: 15
 - [BOBO CHOSES | DANCE ROMANCE](https://www.littlebambinos.co.nz/collections/bobo-choses-dance-romance): Shop our Bobo Choses Dance Romance collection
   Updated: 2023-10-31T02:42:37Z
   Total Products: 0
 - [Veja Kids](https://www.littlebambinos.co.nz/collections/veja-kids): VEJA offers a different vision which combines fair trade, ecology and links together economy, social initiatives and the environment. They use organic or recycled and fairly traded cotton for the canvas of the shoes and wild & fairly traded rubber for the soles. Recycled plastic bottles are also used to create technological fabrics. All products are made in a high standard factory in Brazil. VEJA believes in sustainability, and is a proud Certified B Corporation brand.
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:46:05Z
   Total Products: 29
 - [Jamie Kay 'One Day in Budapest'](https://www.littlebambinos.co.nz/collections/jamie-kay-one-day-in-budapest): Online 17th March 1pm NZST Beautiful, bright & playful tones designed to inspire your child's imagination to run wild & free! Online to order 17.03 1pm NZT. We cannot wait to hear your favourite pieces! Free shipping on all Jamie Kay orders within NZ over $49 at the launch with the code JKFREESHIP
   Updated: 2023-10-31T02:42:38Z
   Total Products: 0
 - [Veja](https://www.littlebambinos.co.nz/collections/veja): Beautiful and sustainable sneakers for kids. The VEJA project creates a positive chain and produces sneakers that are made differently with the future in mind. Bringing you minimalist aesthetics using innovative technologies.
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:46:05Z
   Total Products: 29
 - [Easter Sale](https://www.littlebambinos.co.nz/collections/easter-sale): Take 25% off MarMar Copenhagen and Tiny Trove this Easter with the code: EASTER25. Shop 30% off By Billie, prices as marked. Sale ends Midnight Monday 5th April Please choose carefully as sale items are not able to be exchanged or returned.
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:04Z
   Total Products: 352
 - [RYLEE + CRU GIFT WITH PURCHASE](https://www.littlebambinos.co.nz/collections/rylee-cru-gift-with-purchase): Receive a free accessory of your choice when you spend $150 or more on Rylee + Cru Hometown Collection. Code: RCGIFT Ends midnight Wednesday 6th May
   Updated: 2023-10-31T02:42:38Z
   Total Products: 0
 - [SIZE | BABY NB - 12m](https://www.littlebambinos.co.nz/collections/size-baby-nb-12m): Shop our collection of Newborn to 12m products
-  Updated: 2025-11-25T20:44:20Z
+  Updated: 2025-12-17T19:37:07Z
   Total Products: 14
 - [SIZE | 1y](https://www.littlebambinos.co.nz/collections/size-1y): Shop our collection of size 1Y items
-  Updated: 2025-11-25T20:44:20Z
+  Updated: 2025-12-17T19:37:07Z
   Total Products: 5
 - [SIZE | 2Y](https://www.littlebambinos.co.nz/collections/size-2y): Shop our collection of Size 2Y products
   Updated: 2025-07-02T08:33:07Z
@@ -13250,16 +13111,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:44:43Z
   Total Products: 1
 - [All Girls](https://www.littlebambinos.co.nz/collections/all-girls)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 266
 - [All Boys](https://www.littlebambinos.co.nz/collections/all-boys)
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 153
 - [Tiny Trove](https://www.littlebambinos.co.nz/collections/tiny-trove): Tiny Trove was simply born through a desire to curate an every-day wardrobe for little ones. Akin to opening up a treasure chest full of beloved pieces, each telling its own story and holding a memory - Tiny Trove hopes to create designs that will be well-worn, well-loved and cherished for a long time for all the tiny loves in your life.
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:04Z
   Total Products: 78
 - [Grech & Co | Children's Sustainable sunglasses and accessories](https://www.littlebambinos.co.nz/collections/grech-co): Grech & Co create collections inspired by the nurturing Mother, the free spirited Child, and the essence of Nature. From gorgeous hair clips, sunglasses, eco-friendly baby toys and sneakers. Each piece is carefully chosen, designed and created to nurture the soul and environment.
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:43:48Z
   Total Products: 68
 - [Elle Porte](https://www.littlebambinos.co.nz/collections/elle-porte): Elle Porte create a gorgeous range of children's sunglasses and hats. They are known for their use of bold colours and flower shaped sunnies!
   Updated: 2025-11-21T22:36:30Z
@@ -13271,7 +13132,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:36:16Z
   Total Products: 47
 - [Lamington](https://www.littlebambinos.co.nz/collections/lamington): Merino wool socks + tights made right here in New Zealand. It was an accidental success story for founder Sarah Teensma. Lamington, her boutique range of merino socks and tights made in New Zealand, started out in 2005 as a kid's T-shirt brand. In 2008, socks were added as an extra for retailers. When stores began to request socks only, Sarah realised she had found her niche.
-  Updated: 2025-11-25T20:57:48Z
+  Updated: 2025-12-17T19:34:09Z
   Total Products: 42
 - [Little Secret](https://www.littlebambinos.co.nz/collections/little-secret): A beautiful collection of leather shoes and sandals for children. Designed in New Zealand.
   Updated: 2025-07-02T08:33:46Z
@@ -13283,28 +13144,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:34:47Z
   Total Products: 29
 - [Toys + Activities](https://www.littlebambinos.co.nz/collections/toys-activities): Shop our collection of Toys and Activities
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:41:13Z
   Total Products: 304
 - [Girls - Matching Sets](https://www.littlebambinos.co.nz/collections/girls-matching-sets): Shop our collection of girls matching sets
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:25Z
   Total Products: 55
 - [Boys - Matching Sets](https://www.littlebambinos.co.nz/collections/boys-matching-sets): Shop our collection of boys matching sets
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:25Z
   Total Products: 37
 - [Baby - Matching Sets](https://www.littlebambinos.co.nz/collections/baby-girl-matching-sets): Shop our collection of baby girl matching sets
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:04Z
   Total Products: 110
 - [Baby Boy - Matching Sets](https://www.littlebambinos.co.nz/collections/baby-boy-matching-sets): Shop our collection of baby boy matching sets
   Updated: 2025-07-02T08:33:54Z
   Total Products: 2
 - [Accessories](https://www.littlebambinos.co.nz/collections/accessories): Shop our collection of accessories
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 147
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5665
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5665
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-12-05T12:03:17Z
@@ -13319,40 +13180,40 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:34:14Z
   Total Products: 10
 - [Checks & Florals](https://www.littlebambinos.co.nz/collections/checks-florals): Shop our collection of checks and florals
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:37:00Z
   Total Products: 127
 - [Ribbed Essentials](https://www.littlebambinos.co.nz/collections/ribbed-essentials): Shop our collection of Ribbed Essentials
-  Updated: 2025-11-29T12:04:29Z
+  Updated: 2025-12-17T19:43:01Z
   Total Products: 87
 - [Top Picks](https://www.littlebambinos.co.nz/collections/top-picks): Shop our collection of Top Picks
-  Updated: 2025-11-25T20:56:49Z
+  Updated: 2025-12-17T19:38:37Z
   Total Products: 33
 - [Avalon Smock Dresses](https://www.littlebambinos.co.nz/collections/avalon-smock-dresses): Shop our collection of Avalon smock dresses
   Updated: 2025-07-02T08:35:20Z
   Total Products: 7
 - [By Billie | Little Bambinos New Zealand](https://www.littlebambinos.co.nz/collections/by-billie-1): By Billie create fun and unique clothing for babies and children. By Billie is designed in Australia and produced sustainably in two factories across China and India. These two factories were selected as they share the values and standards of economic viability, environmental respect and social equity which are the core of By Billie's ethical journey.
-  Updated: 2025-12-04T12:02:43Z
+  Updated: 2025-12-17T19:40:37Z
   Total Products: 100
 - [Summer Basics](https://www.littlebambinos.co.nz/collections/summer-basics): Shop our collection of Summer Basics
-  Updated: 2025-11-25T20:48:46Z
+  Updated: 2025-12-17T19:41:11Z
   Total Products: 111
 - [Gifts Under $50](https://www.littlebambinos.co.nz/collections/christmas-gifts-under-50): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $50 x
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 385
 - [CHRISTMAS GIFT IDEAS $50 - $100](https://www.littlebambinos.co.nz/collections/christmas-gift-ideas-50-100): Shop our collection of Christmas gift ideas $50-$100
-  Updated: 2025-11-25T20:48:04Z
+  Updated: 2025-12-17T19:40:31Z
   Total Products: 123
 - [Gifts Under $250](https://www.littlebambinos.co.nz/collections/christmas-gift-ideas-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $250 x
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 99
 - [Dining](https://www.littlebambinos.co.nz/collections/dining)
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 196
 - [Black Friday 2020](https://www.littlebambinos.co.nz/collections/black-friday-2020): Shop our 2020 Black Friday collection
   Updated: 2023-10-31T02:42:41Z
   Total Products: 0
 - [BFCM 2020](https://www.littlebambinos.co.nz/collections/bfcm-2020): Use code BFCM2020 at checkout to receive 20% off Ruffets & Co, Petite Lucette, MarMar Copenhagen & Susukoshi. Offer ends midnight Monday 30th November.
-  Updated: 2025-12-08T12:02:54Z
+  Updated: 2025-12-17T19:39:38Z
   Total Products: 350
 - [Cyber Monday 2020](https://www.littlebambinos.co.nz/collections/cyber-monday-2020): Shop our collection of Cyber Monday 2020
   Updated: 2023-10-31T02:42:41Z
@@ -13361,43 +13222,43 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:42Z
   Total Products: 37
 - [Honeysticks](https://www.littlebambinos.co.nz/collections/honeysticks): Be naturally creative! Natural, non-toxic goodness. Honeysticks beeswax crayons, soy/beeswax bath crayons and bath colour drops are handmade from 100% natural and non-toxic food grade ingredients. Honeysticks were developed for a New Zealand preschool that was looking for safe and natural crayons for it’s pupils. They proudly produce all our products right here in New Zealand. Honeysticks is a New Zealand owned and operated company.
-  Updated: 2025-12-07T12:04:20Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 14
 - [Abilene The Label](https://www.littlebambinos.co.nz/collections/abilene-the-label): Products by Abilene The Label provide the same outcome; aesthetically pleasing but, highly practical. They are a lifestyle brand equipping you with functional products that can be used anywhere. Whether that is your lounge room floor, hiking through the Alps or a lazy day at the beach, it's their hope that their products will help you to create spaces where you can experience the fullness of rest.
   Updated: 2025-07-02T08:34:30Z
   Total Products: 4
 - [Misha & Puff](https://www.littlebambinos.co.nz/collections/misha-puff): "We love slow fashion that's stylish, yet unfussy. Hardwearing and long lasting. Expertly crafted. Thoughtfully manufactured. Good for the planet. Kind to animals. Fair to all people involved in the process. Every day, we strive to be a company that makes lovely, meaningful things while doing good in every aspect of our business."
-  Updated: 2025-11-25T20:49:02Z
+  Updated: 2025-12-17T19:41:24Z
   Total Products: 26
 - [Wilson & Frenchy | Clothing for Babies](https://www.littlebambinos.co.nz/collections/wilson-frenchy): Made from the softest cotton blend with prints as unique and special as your little one, Wilson and Frenchy pieces are designed to spark joy. Shop Wilson & Frenchy for babies. Free shipping within NZ on orders over $100.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:46:13Z
   Total Products: 233
 - [All Jackets, Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/all-jackets-jumpers-cardigans): Keep your little ones warm and toasty this winter in our collection of jackets, jumpers and cardigans.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:06Z
   Total Products: 237
 - [For the love of pink!](https://www.littlebambinos.co.nz/collections/for-the-love-of-pink)
-  Updated: 2025-12-07T12:04:20Z
+  Updated: 2025-12-17T19:43:27Z
   Total Products: 152
 - [Wooden Toys](https://www.littlebambinos.co.nz/collections/wooden-toys): Shop our collection of wooden toys
-  Updated: 2025-11-30T12:03:52Z
+  Updated: 2025-12-17T12:02:42Z
   Total Products: 89
 - [Soft Toys](https://www.littlebambinos.co.nz/collections/soft-toys): Shop our collection of soft toys
   Updated: 2025-11-10T08:03:37Z
   Total Products: 66
 - [Baby Gift Ideas | Baby Shower](https://www.littlebambinos.co.nz/collections/for-baby): We've curated a collection of gift ideas for babies. Need a gift for a baby shower? We have you covered. Shop baby gift ideas at Little Bambinos. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 507
 - [Gift Ideas For Girls](https://www.littlebambinos.co.nz/collections/for-girls): We've put together some wonderful gift ideas for girls to make life easier for you. Browse our range or clothing, accessories and toys that we think a little girl would love!
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:41:16Z
   Total Products: 241
 - [Gift Ideas For Boys](https://www.littlebambinos.co.nz/collections/for-boys): We've put together some cool gift ideas for you. Check out our selection of clothing, toys and accessories that we think boys would love!
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-17T19:38:34Z
   Total Products: 114
 - [Playful Prints](https://www.littlebambinos.co.nz/collections/playful-prints): Fun playful prints for babies and children. Make their wardrobe fun with these bold prints. Little Bambinos is an online clothing boutique for children and babies. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-25T20:48:49Z
+  Updated: 2025-12-17T19:41:12Z
   Total Products: 142
 - [Activities](https://www.littlebambinos.co.nz/collections/colouring-painting): Shop our collection of Activities
-  Updated: 2025-12-07T12:04:20Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 30
 - [Tiny Table Co](https://www.littlebambinos.co.nz/collections/tiny-table): Tiny Table create pared back feeding essentials for babies that prioritise form and functionality. Made from the highest quality food grade silicone that is not only super safe for baby but oh so practical.
   Updated: 2025-07-02T08:35:28Z
@@ -13409,7 +13270,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-05T12:03:17Z
   Total Products: 60
 - [Books](https://www.littlebambinos.co.nz/collections/books): Shop our collection of books
-  Updated: 2025-12-05T12:03:18Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 28
 - [Jellycat Soft Toys](https://www.littlebambinos.co.nz/collections/jellycat): Jellycat create the cuddliest soft toys for children. Irresistibly cuddly, sophisticatedly silly, hilariously humorous, a perfect gift for all ages! Established in London in 1999. Free shipping within New Zealand for orders over $100.
   Updated: 2025-07-02T08:35:33Z
@@ -13418,13 +13279,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-26T12:03:15Z
   Total Products: 42
 - [MOONIE Humming Friend | Little Bambinos](https://www.littlebambinos.co.nz/collections/moonie): MOONIE the humming friend is a professional baby sleep aid, that helps babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all! MOONIE is also night lamp. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 15
 - [Goober Crayons](https://www.littlebambinos.co.nz/collections/goober-crayons): Introducing the coolest kids crayons on the market! GOOBER is a brand with a focus on drawing. The brand produces a variety of drawing tools including crayons, drawing tops, cooking colouring books, and crayon bags.
   Updated: 2025-07-02T08:35:41Z
   Total Products: 5
 - [Beach](https://www.littlebambinos.co.nz/collections/beach): Shop our beach collection
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 91
 - [The Woodlands | Wooden Toys for Children](https://www.littlebambinos.co.nz/collections/the-woodlands): The Woodlands are a small New Zealand business creating beautiful wooden toys for children that have a low impact on the environment. Their toys take us back to basics, children having to work for their play outside of technology or battery operated toys means imaginations flourish! Proudly made in New Zealand.
   Updated: 2025-07-02T08:35:55Z
@@ -13439,22 +13300,22 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2022-10-08T21:16:18Z
   Total Products: 8
 - [Malo](https://www.littlebambinos.co.nz/collections/malo): Malo nappy rash cream & spray is purpose designed as a practical and ecoluxe alternative for the modern parent. No more messy hands! Made in Australia using simple and clean ingredients. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-12T00:25:36Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 4
 - [DAILY SPECIALS](https://www.littlebambinos.co.nz/collections/daily-specials): With the recent lockdowns in New Zealand we have decided to have a little fun and offer daily specials. Each offer is valid for 24 hours.Use code LOCKDOWN at checkout. Today's special offer is 25% off MarMar Copenhagen basics. Super soft and long wearing these will become the pieces you reach for day after day!
-  Updated: 2025-11-25T20:39:42Z
+  Updated: 2025-12-17T19:32:41Z
   Total Products: 43
 - [Special of the Day](https://www.littlebambinos.co.nz/collections/special-of-the-day): Our daily special offers have come to an end. We hope you enjoyed them! Take care of each other during this time xx
   Updated: 2025-12-07T01:55:18Z
   Total Products: 26
 - [Le Edit](https://www.littlebambinos.co.nz/collections/le-edit): Le Edit is a beautiful New Zealand brand created by Bianca. A mother of five, she wanted to create a capsule collection with all the basics her children needed. The unisex colours and styles make her pieces perfect to pass down to siblings, family and friends.
-  Updated: 2025-11-25T20:43:29Z
+  Updated: 2025-12-17T19:36:20Z
   Total Products: 16
 - [Grown](https://www.littlebambinos.co.nz/collections/grown): Grown launched in 2019 and is a knitwear label for babies and children from size NB to 5 years. Most of Grown's styles are unisex are created using natural, sustainable and eco-friendly fibres. They use small batch production focusing on ethical production practices.
-  Updated: 2025-12-10T12:02:40Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 320
 - [Sienna Blair](https://www.littlebambinos.co.nz/collections/sienna-blair): Sienna Blair is a New Zealand lifestyle brand for children. They bring you cool, effortless basics designed to be reached for daily, loved and passed on. Sienna Blair are committed to minimising their environmental footprint. They use manufacturers in Bali, India and China that pay their employees a fair wage and provide a safe working environment.
-  Updated: 2025-11-25T20:43:06Z
+  Updated: 2025-12-17T19:35:57Z
   Total Products: 19
 - [Blankets](https://www.littlebambinos.co.nz/collections/blankets): Shop our blanket collection
   Updated: 2025-12-12T12:02:59Z
@@ -13463,28 +13324,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:35:56Z
   Total Products: 19
 - [Swaddles](https://www.littlebambinos.co.nz/collections/swaddles): Shop our collection of Swaddles
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 44
 - [Sleep Aids](https://www.littlebambinos.co.nz/collections/sleep-aids): Shop our collection of sleep aid products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 26
 - [Baby Hats + Mittens](https://www.littlebambinos.co.nz/collections/baby-hats): Shop our collection of baby hats and mittens
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 228
 - [Baby Socks](https://www.littlebambinos.co.nz/collections/baby-socks): Shop our collection of baby socks
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:18Z
   Total Products: 98
 - [Hair Accessories](https://www.littlebambinos.co.nz/collections/baby-hair-accessories): Shop our collection of hair accessories
   Updated: 2025-11-28T12:02:55Z
   Total Products: 61
 - [Pacifiers + Clips](https://www.littlebambinos.co.nz/collections/pacifiers-clips): Shop our collection of pacifiers and clips
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 120
 - [Lotions + Change Mats](https://www.littlebambinos.co.nz/collections/lotions): Shop our collection of lotions and change mats
-  Updated: 2025-11-26T12:03:15Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 25
 - [Cloths + Mats](https://www.littlebambinos.co.nz/collections/cloths-mats): Shop our collection of cloths and mats
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 34
 - [Baby Towels](https://www.littlebambinos.co.nz/collections/baby-towels): Shop our collection of baby towels
   Updated: 2025-07-02T08:33:53Z
@@ -13496,13 +13357,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-08T08:18:13Z
   Total Products: 44
 - [HUTTEliHUT](https://www.littlebambinos.co.nz/collections/huttelihut-1): The story of HUTTEliHUT began in a home office with a sewing machine in 2003 in Denmark. They create hats, dresses, daywear and woollen suits for babies and children. Today HUTTEliHUT is produced in Denmark, Poland and even in the Bolivian highlands. They are always guided by quality and sustainability.
-  Updated: 2025-11-25T20:43:15Z
+  Updated: 2025-12-17T19:36:06Z
   Total Products: 15
 - [Jessica Urlichs Poetry](https://www.littlebambinos.co.nz/collections/jessica-urlichs-poetry): Poignant, raw and beautifully honest pieces on motherhood. Jess is a writer and poet from New Zealand. In her poetry she talks about the highs and the lows of motherhood, the things that maybe you're thinking too but haven't said... yet. You will find you relate so much to Jess's words, they will help you through the tough days of motherhood and make you laugh or cry when you need it most.
   Updated: 2025-11-22T12:02:35Z
   Total Products: 4
 - [Salt Water Sandals](https://www.littlebambinos.co.nz/collections/salt-water-sandals): Salt Water sandals have never gone out of style. Made from beautiful leather and hand-finished with classic brass buckles, people have been rocking their Salties ever since the 1940s. Super comfy and casually stylish, you can dress them up, strap them on for a quick trip to the beach or pool.
-  Updated: 2025-11-25T20:56:15Z
+  Updated: 2025-12-17T19:34:07Z
   Total Products: 6
 - [Lion + Lamb](https://www.littlebambinos.co.nz/collections/lion-lamb): Lion + Lamb the LABEL is an Australian lifestyle brand birthed from a love of design, minimalism and eco conscious living. They are inspired by raw, earthy tones and textures and offer a range of handmade for babies and children to enjoy.
   Updated: 2025-12-07T22:55:38Z
@@ -13511,22 +13372,22 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2024-07-07T02:30:59Z
   Total Products: 8
 - [Stocking Stuffers OLD](https://www.littlebambinos.co.nz/collections/stocking-fillers): Shop our curated collection of Stocking Stuffer ideas for your children to help with Christmas shopping this year x
-  Updated: 2025-12-08T08:18:13Z
+  Updated: 2025-12-17T19:39:38Z
   Total Products: 244
 - [Labour Day Sale](https://www.littlebambinos.co.nz/collections/labour-weekend-sale): Welcome to Little Bambino's Labour Day Sale! Enjoy 15% Off Storewide (full priced items only) Use code LD15 at checkoutAll items shown below are included in the sale. Exclusions apply. Full price items only. Does not include the Chloe Collection by Jamie Kay, Drop 2 Wilson & Frenchy, New Arrivals from Quincy Mae and Moonie Humming Bears/Bunnies. . ﻿Our Labour Day Sale will run from Thursday 21st October 7:30PM until Monday 25th October 11:59PM.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 915
 - [Leosun - Sunglasses for Children](https://www.littlebambinos.co.nz/collections/leosun): Flexible children's sunglasses. The idea for Leosun was born after founder Kristen struggled to find kids sunglasses that she loved the look of, that would last beyond one season AND offered amazing safety features. She then went on a mission to develop kids sunglasses that were not only beautiful but safe, practical and durable.
   Updated: 2025-11-10T08:05:22Z
   Total Products: 14
 - [Connetix](https://www.littlebambinos.co.nz/collections/connetix): Magnetic toys for children, where play and learning connect. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.&nbsp;
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 38
 - [Viva La Vulva](https://www.littlebambinos.co.nz/collections/viva-la-vulva): Viva La Vulva are here to take care of you postpartum! From sore breasts to helping your vagina heal you will find products to make those first few weeks after baby arrives easier. These products make excellent gifts for expecting mamas!
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 13
 - [Subscriber Only Sale](https://www.littlebambinos.co.nz/collections/little-bambinos-flash-winter-sale): Winter Sale! Take 20% OFF STOREWIDE with the code STOREWIDE20 at checkout! Exclusions Apply. This weekend only. Winter sale on baby clothing and accessories. Kids clothing sale New Zealand.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 4696
 - [Mama Bear](https://www.littlebambinos.co.nz/collections/mama-bear): Mama Bear is an Auckland based company offering organic, natural and environmental friendly products catering for the while family.
   Updated: 2024-10-05T04:11:20Z
@@ -13541,7 +13402,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:34:30Z
   Total Products: 4
 - [Mushie - Baby Accessories](https://www.littlebambinos.co.nz/collections/mushie): Mushie is best known for its Scandinavian designed silicone baby bibs, pacifier clips, organic muslin swaddles, children's dinnerware and toys. Mushie is an American baby brand.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 199
 - [Nursery](https://www.littlebambinos.co.nz/collections/nursery)
   Updated: 2025-12-12T12:02:59Z
@@ -13562,34 +13423,34 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-25T12:02:55Z
   Total Products: 103
 - [Outerwear](https://www.littlebambinos.co.nz/collections/outerwear)
-  Updated: 2025-12-07T01:56:43Z
+  Updated: 2025-12-17T19:44:37Z
   Total Products: 44
 - [Miffy Soft Toys and Night Lights](https://www.littlebambinos.co.nz/collections/miffy): Miffy® Plush toys come in a range of materials including organic cotton, sparkle, snuffy, Miffy Teddy, bags & accessories! Mr Maria's Miffy and Friends Night Lights are not just the must-have nursery item, but they make for beautiful statement pieces around the home.
   Updated: 2024-07-13T02:59:24Z
   Total Products: 9
 - [Easter](https://www.littlebambinos.co.nz/collections/easter): Hop hop hooray, it's almost Easter time!
-  Updated: 2025-11-25T20:42:49Z
+  Updated: 2025-12-17T19:35:41Z
   Total Products: 46
 - [Hit The Slopes | Shop Kid's Ski Gear](https://www.littlebambinos.co.nz/collections/hit-the-slopes): Shop ski gear for children. Ski jackets and pants for kids. Outerwear for the mountains.
-  Updated: 2025-11-25T20:48:58Z
+  Updated: 2025-12-17T19:41:21Z
   Total Products: 46
 - [Cosy Pyjamas](https://www.littlebambinos.co.nz/collections/cosy-pyjamas): Shop our collection of cosy pyjamas
-  Updated: 2025-11-25T20:56:53Z
+  Updated: 2025-12-17T19:44:41Z
   Total Products: 86
 - [Mother's Day Edit](https://www.littlebambinos.co.nz/collections/mothers-day-edit)
   Updated: 2025-11-26T12:03:15Z
   Total Products: 28
 - [Frigg](https://www.littlebambinos.co.nz/collections/frigg): Welcome to the world of FRIGG – pacifiers for our little human beings. Thoughtfully designed for your baby's comfort. Where form and function live in harmony. Free from all harmful substances.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 50
 - [Art + Posters](https://www.littlebambinos.co.nz/collections/art-posters): Shop our collection of art and posters
   Updated: 2025-11-10T20:31:32Z
   Total Products: 3
 - [Night Lights + Lights](https://www.littlebambinos.co.nz/collections/night-lights-lights): Shop our collection of Night Lights and Lights
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 23
 - [Playmats](https://www.littlebambinos.co.nz/collections/playmats)
-  Updated: 2025-12-06T12:03:29Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 39
 - [Feeding Pillow](https://www.littlebambinos.co.nz/collections/feeding-pillow): Shop our collection of feeding pillows
   Updated: 2025-11-10T20:32:56Z
@@ -13598,61 +13459,61 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-11T03:15:28Z
   Total Products: 16
 - [Baby Care](https://www.littlebambinos.co.nz/collections/baby-care): Shop our collection of baby care
-  Updated: 2025-11-16T12:02:01Z
+  Updated: 2025-12-17T12:02:42Z
   Total Products: 18
 - [Toothbrush](https://www.littlebambinos.co.nz/collections/toothbrush): Shop our toothbrush collection here
-  Updated: 2025-11-16T12:02:01Z
+  Updated: 2025-12-17T12:02:42Z
   Total Products: 9
 - [Wilderling](https://www.littlebambinos.co.nz/collections/wilderling): Wilderling is a baby and children's wear brand, from Queenstown, New Zealand. They specialise in making consciously crafted and timeless garments for ages 0-8years. Browse New Zealand merino wool baby and children's products. Designed and manufactured in New Zealand.
-  Updated: 2025-11-25T20:43:14Z
+  Updated: 2025-12-17T19:36:05Z
   Total Products: 14
 - [Doll Accessories](https://www.littlebambinos.co.nz/collections/doll-accessories)
   Updated: 2025-11-14T12:02:21Z
   Total Products: 33
 - [Moving Sale](https://www.littlebambinos.co.nz/collections/moving-sale): We're on the move! This means we want to lighten our load a little, so welcome to our Moving Sale! Everything listed here is between 40% - 60% off! Hot tip, use our size filter to easily see what is available in the sizes you are looking for. . IMPORTANT: Items are for final sale. Sale items cannot be returned or exchanged. We will be rigid on this, so please make sure you are happy with these conditions before purchasing.
-  Updated: 2025-11-25T20:56:45Z
+  Updated: 2025-12-17T19:44:06Z
   Total Products: 323
 - [Rainwear](https://www.littlebambinos.co.nz/collections/rainwear): Shop our collection of Rainwear
-  Updated: 2025-11-25T20:48:49Z
+  Updated: 2025-12-17T19:41:12Z
   Total Products: 12
 - [Queen's Birthday Sale!](https://www.littlebambinos.co.nz/collections/queens-birthday-sale): Welcome to our Queen's Birthday Sale! . Enjoy 15% off full priced items from G.Nancy, Huxbaby, Quincy Mae, MarMar Copenhagen, Wilson & Frenchy, Rylee + Cru and Zulu & Zephyr! Use code QUEEN at checkout. . T&C's: Sale items are for final sale and cannot be returned or exchanged. Offer cannot be used in conjunction with any other offer. Sale ends midnight Monday 6th June 2022.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:40:13Z
   Total Products: 439
 - [MIMI & LULA](https://www.littlebambinos.co.nz/collections/mimi-lula): MIMI & LULA is a stylish and playful kids accessories brand that brings the sparkle and shine back into playtime and daytime. Accessories designed to let kids express their personalities with flair and style.
   Updated: 2025-12-01T12:03:11Z
   Total Products: 27
 - [Dress Ups](https://www.littlebambinos.co.nz/collections/dress-ups): Shop our collection of dress up products
-  Updated: 2025-12-08T12:02:54Z
+  Updated: 2025-12-17T19:46:01Z
   Total Products: 23
 - [Mid Winter Special](https://www.littlebambinos.co.nz/collections/mid-winter-special): Take 20% Off Huxbaby, Jamie Kay, Poudre Organic and MarMar Copenhagen. . Use code MIDWINTER at checkout. . Please note sale items are for final sale. No returns will be accepted.
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5598
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 242
 - [Sonnie](https://www.littlebambinos.co.nz/collections/sonnie): Each range consists of tracksuits, t-shirts, shorts, hoodies, sweatshirts, polo shirts, caps, socks and more for both boys and girls, with a focus on creating long-lasting organic clothing for kids that can be worn in all seasons.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:44:43Z
   Total Products: 96
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit): Shop our Summer edit
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 320
 - [Forget Me Not Journals](https://www.littlebambinos.co.nz/collections/memory-journals): Inspired by a desire to record all of life’s most special memories, Forget Me Not Journals creates unique prompted keepsake books to encourage connection, reflection and gratituude while recording all of life’s most special and meaningful experiences.
   Updated: 2025-11-11T03:15:28Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-12-13T23:57:12Z
-  Total Products: 1243
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 1240
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 509
 - [Liewood](https://www.littlebambinos.co.nz/collections/liewood): With a focus on functionality and innovation, LIEWOOD designs and produces toys, interior, furniture, accessories, wear and footwear for babies and children all which made with aesthetics, quality, and consciousness in mind. Exactly the core values that makes us love LIEWOOD.
-  Updated: 2025-11-25T20:45:42Z
+  Updated: 2025-12-17T19:38:22Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5644
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
@@ -13661,7 +13522,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-09T12:02:47Z
   Total Products: 12
 - [Hubble + Duke](https://www.littlebambinos.co.nz/collections/hubble-duke-1): Shop our collection of Hubble and Duke products
-  Updated: 2025-11-25T20:56:50Z
+  Updated: 2025-12-17T19:38:32Z
   Total Products: 4
 - [Little Fin Swimmer](https://www.littlebambinos.co.nz/collections/little-fin-swimmer): Shop our collection of Little Fin Swimmer
   Updated: 2023-12-21T23:18:59Z
@@ -13670,49 +13531,49 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2024-07-07T09:08:01Z
   Total Products: 9
 - [Back To School](https://www.littlebambinos.co.nz/collections/back-to-school): Shop our back to school collection
-  Updated: 2025-12-10T23:41:25Z
+  Updated: 2025-12-17T19:43:23Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 1793
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
-  Updated: 2025-12-07T02:01:20Z
+  Updated: 2025-12-17T19:45:28Z
   Total Products: 60
 - [Baby Outwear](https://www.littlebambinos.co.nz/collections/n-outwear): Shop our collection of baby outwear
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:46Z
   Total Products: 70
 - [Baby Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/n-jumpers-cardigans)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:06Z
   Total Products: 184
 - [Baby Rompers & Overalls](https://www.littlebambinos.co.nz/collections/n-rompers-overalls): Shop our collection of Baby Rompers and Overalls
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:46:02Z
   Total Products: 95
 - [Baby Dresses](https://www.littlebambinos.co.nz/collections/n-baby-dresses): Shop our collection of baby dresses
-  Updated: 2025-12-07T02:01:27Z
+  Updated: 2025-12-17T19:46:02Z
   Total Products: 71
 - [Baby Matching Sets](https://www.littlebambinos.co.nz/collections/n-baby-matching-sets): Shop our collection of matching baby sets
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:45:51Z
   Total Products: 80
 - [Baby Bottoms](https://www.littlebambinos.co.nz/collections/n-baby-bottoms): Shop our collection of baby bottoms
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 326
 - [Baby Tops](https://www.littlebambinos.co.nz/collections/n-baby-tops): Shop our collection of baby tops
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:13Z
   Total Products: 167
 - [Baby Bodysuits](https://www.littlebambinos.co.nz/collections/n-baby-bodysuits): Shop our collection of baby bodysuits
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:12Z
   Total Products: 114
 - [Baby Onesies & Zipsuits](https://www.littlebambinos.co.nz/collections/n-baby-onesies-sleepwear): Shop our collection of baby onesies and sleepwear
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:45:49Z
   Total Products: 193
 - [Baby Sunglasses](https://www.littlebambinos.co.nz/collections/n-baby-sunglasses): Shop our collection of baby sunglasses
   Updated: 2025-12-07T01:55:36Z
   Total Products: 19
 - [Baby Hats](https://www.littlebambinos.co.nz/collections/n-baby-hats): Shop our collection of baby hats
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 195
 - [Baby Beanies](https://www.littlebambinos.co.nz/collections/n-baby-beanies): Shop our collection of baby beanies
-  Updated: 2025-11-29T12:04:29Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 43
 - [Bibs](https://www.littlebambinos.co.nz/collections/n-bibs): Shop our collection of bibs
   Updated: 2025-11-17T00:10:16Z
@@ -13724,19 +13585,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-26T12:03:15Z
   Total Products: 18
 - [Pacifiers](https://www.littlebambinos.co.nz/collections/n-pacifiers): Shop our collection of pacifiers
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 90
 - [Pacifiers Accessories](https://www.littlebambinos.co.nz/collections/n-pacifiers-accessories): Shop our collection of pacifier accessories
   Updated: 2025-11-10T20:33:41Z
   Total Products: 22
 - [Baby Towels](https://www.littlebambinos.co.nz/collections/n-baby-towels): Shop our collection of baby towels
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 35
 - [Baby Swim Accessories](https://www.littlebambinos.co.nz/collections/n-swim-accessories): Shop our collection of Baby Swim Accessories
   Updated: 2025-12-13T12:02:49Z
   Total Products: 32
 - [Baby Socks](https://www.littlebambinos.co.nz/collections/n-baby-socks): Shop our collection of baby socks
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:18Z
   Total Products: 79
 - [Wear](https://www.littlebambinos.co.nz/collections/wear): Shop our Wear Collection
   Updated: 2023-10-31T02:42:51Z
@@ -13751,61 +13612,61 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:51Z
   Total Products: 0
 - [Gifting](https://www.littlebambinos.co.nz/collections/gifting): Shop our collection of gifting
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 2
 - [Mama](https://www.littlebambinos.co.nz/collections/mama-1): Shop our collection of all thing Mama
   Updated: 2025-11-10T20:30:34Z
   Total Products: 5
 - [Girls Tops](https://www.littlebambinos.co.nz/collections/n-girls-tops-1): Shop our collection of girls tops
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:10Z
   Total Products: 148
 - [Girls Bottoms](https://www.littlebambinos.co.nz/collections/n-girls-bottoms-1): Shop our collection of girls bottoms
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:46:11Z
   Total Products: 279
 - [Girls Matching Sets](https://www.littlebambinos.co.nz/collections/n-matching-sets)
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:46:09Z
   Total Products: 57
 - [Girls Dresses](https://www.littlebambinos.co.nz/collections/n-girls-dresses): Shop our collection of girls dresses
-  Updated: 2025-12-07T02:01:27Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 71
 - [Girls Rompers & Overalls](https://www.littlebambinos.co.nz/collections/n-girls-rompers-overalls): Shop our collection of girls rompers and overalls
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:45:57Z
   Total Products: 42
 - [Girls Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/n-girls-jumpers-cardigans-1): Shop our collection of girls jumpers and cardigans
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:08Z
   Total Products: 147
 - [Girls Outwear](https://www.littlebambinos.co.nz/collections/n-girls-outwear): Shop our collection of girls outwear
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:46Z
   Total Products: 68
 - [Girls Sleepwear](https://www.littlebambinos.co.nz/collections/n-girls-sleepwear): Shop our collection of girls sleepwear
-  Updated: 2025-11-25T20:58:25Z
+  Updated: 2025-12-17T19:44:15Z
   Total Products: 44
 - [Girls Swimwear](https://www.littlebambinos.co.nz/collections/n-girls-swimwear-1): Shop our collection of girls swimwear
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 224
 - [Boys Tops](https://www.littlebambinos.co.nz/collections/n-boys-tops-1): Shop our collection of boys tops
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:10Z
   Total Products: 119
 - [Boys Matching Sets](https://www.littlebambinos.co.nz/collections/n-boys-matching-sets): Shop our selection of boys matching sets!
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:45:04Z
   Total Products: 36
 - [Boys Rompers & Overalls](https://www.littlebambinos.co.nz/collections/n-boys-rompers-overalls): Shop our collection of boys rompers and overalls
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:45:33Z
   Total Products: 22
 - [Boys Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/n-boys-jumpers-cardigans-1): Shop our collection of boys jumpers and cardigans
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:06Z
   Total Products: 116
 - [Boys Outwear](https://www.littlebambinos.co.nz/collections/n-boys-outwear): Shop our collection of boys outwear
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:46Z
   Total Products: 54
 - [Boys Sleepwear](https://www.littlebambinos.co.nz/collections/n-boys-sleepwear): Shop our collection of boys sleepwear
-  Updated: 2025-11-25T20:57:51Z
+  Updated: 2025-12-17T19:44:15Z
   Total Products: 44
 - [Boys Swimwear](https://www.littlebambinos.co.nz/collections/n-boys-swimwear-1): Shop our collection of boys swimwear
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 142
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby)
-  Updated: 2025-11-25T20:52:16Z
+  Updated: 2025-12-17T19:44:24Z
   Total Products: 1
 - [Baby Accessories](https://www.littlebambinos.co.nz/collections/n-baby-accessories)
   Updated: 2025-01-28T23:58:08Z
@@ -13814,58 +13675,58 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-07T01:55:36Z
   Total Products: 32
 - [Hats](https://www.littlebambinos.co.nz/collections/n-hats): Shop our collection of hats
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 223
 - [Beanies](https://www.littlebambinos.co.nz/collections/n-beanies): Shop our collection of beanies
-  Updated: 2025-12-08T12:02:54Z
+  Updated: 2025-12-17T19:34:24Z
   Total Products: 73
 - [Bags & Backpacks](https://www.littlebambinos.co.nz/collections/n-bags-backpacks): Shop our collection of bags and backpacks
   Updated: 2025-12-10T21:57:45Z
   Total Products: 64
 - [Socks & Tights](https://www.littlebambinos.co.nz/collections/n-socks-tights): Shop our collection of Socks and Tights
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:18Z
   Total Products: 106
 - [Footwear](https://www.littlebambinos.co.nz/collections/all-footwear): Shop our footwear collection
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:05Z
   Total Products: 115
 - [Hair Accessories](https://www.littlebambinos.co.nz/collections/n-hair-accessories): Shop our collection of hair accessories
-  Updated: 2025-12-01T12:03:11Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 131
 - [Mittens & Gloves](https://www.littlebambinos.co.nz/collections/n-mittens-gloves): Shop our collection of mittens and gloves
-  Updated: 2025-12-07T01:56:01Z
+  Updated: 2025-12-17T19:41:23Z
   Total Products: 21
 - [Boys Bottoms](https://www.littlebambinos.co.nz/collections/n-boys-bottoms-1): Shop our collection of boys bottoms
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 200
 - [Sleep](https://www.littlebambinos.co.nz/collections/n-sleep): Shop our collection of Sleep products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 351
 - [Bedding](https://www.littlebambinos.co.nz/collections/n-bedding): Shop our collection of bedding
   Updated: 2025-12-12T12:02:59Z
   Total Products: 73
 - [Home Sleepwear](https://www.littlebambinos.co.nz/collections/n-sleepwear)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:45:11Z
   Total Products: 118
 - [Swaddles & Sleepsacks](https://www.littlebambinos.co.nz/collections/n-swaddles-sleepsacks): Shop our collection of Swaddles and Sleepsacks
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:34:40Z
   Total Products: 44
 - [Sleep Aids](https://www.littlebambinos.co.nz/collections/n-sleep-aids): Shop our collection of sleep aid products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 32
 - [Nightlight](https://www.littlebambinos.co.nz/collections/n-nightlight): Shop our collection of nightlight products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 23
 - [Mobile](https://www.littlebambinos.co.nz/collections/n-mobile): Shop our collection of mobile products
   Updated: 2025-11-21T22:17:17Z
   Total Products: 3
 - [Dinnerware](https://www.littlebambinos.co.nz/collections/n-dinnerware): Shop our collection of dinnerware
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 99
 - [Snack Cups](https://www.littlebambinos.co.nz/collections/n-snack-cups): Shop our collection of Snack Cups
   Updated: 2025-11-10T20:32:25Z
   Total Products: 5
 - [Sippy Cups](https://www.littlebambinos.co.nz/collections/n-sippy-cups): Shop our collection of Sippy Cups
-  Updated: 2025-12-09T12:02:37Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 37
 - [Placemats](https://www.littlebambinos.co.nz/collections/n-placemats): Shop our collection of placemats
   Updated: 2025-12-10T23:40:33Z
@@ -13874,19 +13735,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-05T12:03:17Z
   Total Products: 73
 - [Cloths](https://www.littlebambinos.co.nz/collections/n-cloths): Shop our collection of cloths
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 20
 - [Skincare](https://www.littlebambinos.co.nz/collections/n-skincare): Shop our collection of Skincare
-  Updated: 2025-11-17T22:54:26Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 37
 - [Nappy Creme](https://www.littlebambinos.co.nz/collections/n-nappy-creme)
   Updated: 2023-10-31T02:42:54Z
   Total Products: 0
 - [Towels & Cloths](https://www.littlebambinos.co.nz/collections/n-towels-cloths): Shop our collection of towels and cloths
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 73
 - [Toothbrush](https://www.littlebambinos.co.nz/collections/n-toothbrush): Shop our collection of toothbrush products
-  Updated: 2025-11-16T12:02:01Z
+  Updated: 2025-12-17T12:02:42Z
   Total Products: 9
 - [Change Mats](https://www.littlebambinos.co.nz/collections/n-change-mats-1): Shop our collection of change mats
   Updated: 2025-11-26T12:03:15Z
@@ -13895,7 +13756,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-05T12:03:17Z
   Total Products: 26
 - [Books](https://www.littlebambinos.co.nz/collections/n-books): Shop our book collection here
-  Updated: 2025-12-05T12:03:18Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 30
 - [Crib Accessories](https://www.littlebambinos.co.nz/collections/n-crib-accessories): Shop our collection of crib accessories
   Updated: 2025-11-21T22:17:17Z
@@ -13904,7 +13765,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-10T20:32:56Z
   Total Products: 12
 - [Baby Mats & Activity Rings](https://www.littlebambinos.co.nz/collections/baby-mats-activity-rings): Shop our collection of baby mats and activity rings
-  Updated: 2025-12-06T12:03:29Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 54
 - [Milestones](https://www.littlebambinos.co.nz/collections/n-milestones): Shop our collection of milestones products
   Updated: 2025-11-11T03:15:28Z
@@ -13922,34 +13783,34 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:55Z
   Total Products: 0
 - [Toys](https://www.littlebambinos.co.nz/collections/n-toys): Shop our collection of Toys
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 507
 - [Pools](https://www.littlebambinos.co.nz/collections/n-pools): Shop our collection of pool products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 64
 - [Rattles](https://www.littlebambinos.co.nz/collections/n-rattles)
   Updated: 2025-11-10T20:33:33Z
   Total Products: 16
 - [Puzzles & Games](https://www.littlebambinos.co.nz/collections/n-puzzles-games): Shop our collection of Puzzles and Games
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 60
 - [Dolls & Accessories](https://www.littlebambinos.co.nz/collections/n-dolls-accessories): Shop our collection of dolls and accessories
   Updated: 2025-11-14T12:02:21Z
   Total Products: 33
 - [Dress Up](https://www.littlebambinos.co.nz/collections/n-dress-up): Shop our collection of dress up products
-  Updated: 2025-12-08T12:02:54Z
+  Updated: 2025-12-17T19:46:01Z
   Total Products: 23
 - [Soft Toys](https://www.littlebambinos.co.nz/collections/n-soft-toys): Shop our collection of soft toys
   Updated: 2025-11-10T20:31:30Z
   Total Products: 70
 - [Wooden Toys](https://www.littlebambinos.co.nz/collections/n-wooden-toys): Shop our collection of wooden toys
-  Updated: 2025-11-30T12:03:52Z
+  Updated: 2025-12-17T12:02:42Z
   Total Products: 89
 - [Musical Toys](https://www.littlebambinos.co.nz/collections/musical-toys): Shop our collection of musical toys
   Updated: 2025-11-25T12:02:55Z
   Total Products: 10
 - [Arts & Crafts](https://www.littlebambinos.co.nz/collections/n-arts-crafts): Shop our collection of arts and crafts
-  Updated: 2025-12-07T12:04:20Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 19
 - [Activity Rings](https://www.littlebambinos.co.nz/collections/n-activity-rings): Shop our collection of Activity Rings
   Updated: 2025-11-25T12:02:55Z
@@ -13964,7 +13825,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-07T01:55:18Z
   Total Products: 70
 - [Women's Care](https://www.littlebambinos.co.nz/collections/n-womens-care): Shop our collection of Women's Care products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 98
 - [Bags](https://www.littlebambinos.co.nz/collections/n-bags): Shop our collection of bags
   Updated: 2023-10-31T02:42:57Z
@@ -13973,28 +13834,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-05T11:02:07Z
   Total Products: 10
 - [All Mama](https://www.littlebambinos.co.nz/collections/n-all-mama): Shop our collection of all things Mama
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 193
 - [As We Are Illustration](https://www.littlebambinos.co.nz/collections/as-we-are-illustration): Shop our collection of As We Are Illustrations
-  Updated: 2025-11-23T12:02:30Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 4
 - [Baby Sleep](https://www.littlebambinos.co.nz/collections/n-baby-sleep): Shop our collection of baby sleep products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 381
 - [Baby Eat](https://www.littlebambinos.co.nz/collections/n-baby-eat): Shop our Bib collection
   Updated: 2025-11-17T00:10:16Z
   Total Products: 57
 - [Baby Care](https://www.littlebambinos.co.nz/collections/n-baby-care): Shop our collection of baby care
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 177
 - [Baby Play](https://www.littlebambinos.co.nz/collections/n-baby-play): Shop our collection of baby play products
-  Updated: 2025-12-06T12:03:29Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 223
 - [Baby Footwear](https://www.littlebambinos.co.nz/collections/n-baby-footwear): Shop our collection of baby footwear
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:05Z
   Total Products: 75
 - [Baby Bedding](https://www.littlebambinos.co.nz/collections/n-baby-bedding): Shop our collection of baby bedding
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 53
 - [Change Table Accessories](https://www.littlebambinos.co.nz/collections/change-table-accessories): Shop our change table accessories collection
   Updated: 2025-11-10T20:33:18Z
@@ -14003,10 +13864,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-11-26T12:03:15Z
   Total Products: 13
 - [Soll the Label](https://www.littlebambinos.co.nz/collections/soll-the-label): Soll the label aim to create everyday basics, made from good quality materials that can be passed down from little love to little love. Whilst being every day essentials, their collections are curated with the intention of bringing a sense of fun to children's fashion.Incorporating effortless textures and tones, inspired by the beauty around us, they believe it is 'the simple things' that bring us the most joy.
-  Updated: 2025-11-25T20:46:21Z
+  Updated: 2025-12-17T19:38:56Z
   Total Products: 16
 - [Wear](https://www.littlebambinos.co.nz/collections/n-wear): Shop our Wear Collection
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 2255
 - [Pure Mama](https://www.littlebambinos.co.nz/collections/pure-mama): PURE MAMA FOUNDER AND MAMA OF ONE - Lara Christie"When I fell pregnant I was really surprised by the lack of pregnancy-specific body products available, especially as our skin changes so much during this time and needs extra support.I wanted to create a product range that harnessed the powerful, natural ingredients often used in facial skincare, such as Pomegranate and Raspberry Seed Oil, and concentrated levels of Vitamin E, which are miracle workers for skin hydration, elasticity and repairing damage. We then married these with tried and trusted base blends of Coconut and Almond oils to create a new, more nourishing range of skincare for pregnant woman and nursing mothers."
   Updated: 2025-12-12T12:02:59Z
@@ -14015,79 +13876,79 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2024-07-13T02:59:32Z
   Total Products: 5
 - [Eat](https://www.littlebambinos.co.nz/collections/n-eat-n): Shop our collection of eating products
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 302
 - [Care & Bath](https://www.littlebambinos.co.nz/collections/n-care-bath-n): Shop our care and bath collection
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 141
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-n): Shop our collection of kids room and nursery products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 228
 - [Play](https://www.littlebambinos.co.nz/collections/n-play): Shop our collection of play products
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 714
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 1754
 - [Baby Swimwear](https://www.littlebambinos.co.nz/collections/n-baby-swimwear): Shop our collection of baby swimwear
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 261
 - [Baby Accessories](https://www.littlebambinos.co.nz/collections/n-baby-accessories-n): Shop our collection of baby accessories
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 520
 - [Nursery](https://www.littlebambinos.co.nz/collections/n-nursery): Shop our collection of nursery products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 176
 - [Mama](https://www.littlebambinos.co.nz/collections/mama-n): Shop our collection of all thing Mama
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 216
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 986
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
-  Updated: 2025-11-25T20:46:55Z
+  Updated: 2025-12-17T19:39:28Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5611
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 43
 - [Love to dream](https://www.littlebambinos.co.nz/collections/love-to-dream): The Love To Dream, Newborn to Toddler Sleep System, provides the highest level of quality with trusted sleep solutions to the very real parenting challenge of better quality and longer sleep for the whole family. Try our products today and experience how Love To Dream can help your family achieve a better night’s sleep too.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 8
 - [Weight test](https://www.littlebambinos.co.nz/collections/weight-test)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 59
 - [Crywolf](https://www.littlebambinos.co.nz/collections/crywolf): Crywolf is fun, functional and big on style and they have kids aged 1-14 years covered for their outdoor missions. Their collections feature limited edition prints and include Swimwear made from recycled materials, epic Beach Sandals, 100% waterproof Play Jackets and Overalls, Rain Boots and new Magic Jacket. Crywolf's innovative Eco-Puffer Jackets that are filled with recycled water bottles, with new styles being released every year.
-  Updated: 2025-11-25T20:51:29Z
+  Updated: 2025-12-17T19:43:41Z
   Total Products: 21
 - [Girls](https://www.littlebambinos.co.nz/collections/n-girls-1): Shop our collection of all girls products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 1058
 - [Girls All Clothing](https://www.littlebambinos.co.nz/collections/n-girls-all-clothing): Shop our collection of girls clothing
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 844
 - [Boys](https://www.littlebambinos.co.nz/collections/n-boys): Shop our boys collection
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 687
 - [Boys All Clothing](https://www.littlebambinos.co.nz/collections/n-boys-all-clothing): Shop our collection of all boys clothing
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 559
 - [Wear Accessories](https://www.littlebambinos.co.nz/collections/n-wear-accessories): Shop our Wear Accessories
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 801
 - [Home](https://www.littlebambinos.co.nz/collections/n-home): Shop our collection of home products
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 868
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-1): Shop our collection of kids room and nursery products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 123
 - [Baby Bottle](https://www.littlebambinos.co.nz/collections/baby-bottle): Shop our collection of Baby Bottles
   Updated: 2025-12-13T12:02:49Z
   Total Products: 9
 - [Water Bottle](https://www.littlebambinos.co.nz/collections/water-bottle): Shop our collection of Water Bottles
-  Updated: 2025-12-10T12:02:40Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 59
 - [Lunch Box](https://www.littlebambinos.co.nz/collections/lunch-box): Shop our collection of lunch box products
   Updated: 2025-12-02T12:03:34Z
@@ -14096,7 +13957,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:34:42Z
   Total Products: 2
 - [Clothes](https://www.littlebambinos.co.nz/collections/clothes): Shop our clothing collection
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-14T12:02:59Z
   Total Products: 20
 - [Baby Toy](https://www.littlebambinos.co.nz/collections/n-baby-toy)
   Updated: 2025-11-10T20:32:54Z
@@ -14105,113 +13966,113 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-11T12:02:44Z
   Total Products: 34
 - [Winter Collections](https://www.littlebambinos.co.nz/collections/winter-collections): Shop our winter collection
-  Updated: 2025-11-28T12:02:55Z
+  Updated: 2025-12-17T19:43:41Z
   Total Products: 47
 - [Bink](https://www.littlebambinos.co.nz/collections/bink): A simple glass water bottle with hydration tracking designed to help you meet your daily recommended water needs. Because your health is your greatest asset, and drinking enough water should never feel abstract or unattainable. The Bink Day Bottle empowers you to be more mindful of the water you drink every day. Simple to follow AM/PM time markings on the bottle sleeve help you drink all day.
-  Updated: 2025-12-10T12:02:40Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 29
 - [Silly Silas](https://www.littlebambinos.co.nz/collections/silly-silas): Shop our collection of Silly Silas Tights
   Updated: 2025-11-30T12:03:52Z
   Total Products: 31
 - [Toshi](https://www.littlebambinos.co.nz/collections/toshi-1): Toshi is a designer lifestyle brand dedicated to the creation of children’s accessories, headwear, and organic baby gifts. Their objective is to offer beautiful, aesthetically driven product with high integrity and intelligent functionality.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 438
 - [EOFY](https://www.littlebambinos.co.nz/collections/eofy)
-  Updated: 2025-12-13T18:21:12Z
-  Total Products: 4194
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 4195
 - [Test](https://www.littlebambinos.co.nz/collections/test)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 212
 - [Huxbaby](https://www.littlebambinos.co.nz/collections/huxbaby-1): Shop our collection of Huxbaby products
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 226
 - [Baby Eat](https://www.littlebambinos.co.nz/collections/baby-eat): Shop our Bib collection
   Updated: 2023-10-31T02:43:01Z
   Total Products: 0
 - [Spring Edit](https://www.littlebambinos.co.nz/collections/spring-edit): Spring is here! The season of blooming flowers, warm sunshine and longer days. It's time to embrace lighter fabrics, pastel colours and playful patterns perfect match with our Spring edit range. (could do emojis here)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:43:42Z
   Total Products: 127
 - [Baby Gifting Collection](https://www.littlebambinos.co.nz/collections/baby-gifting-collection): Shop our Baby collection for the perfect baby gifts
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 147
 - [Gifts for Mama](https://www.littlebambinos.co.nz/collections/gifts-for-mama): Shop our curated gift collection made for Mama's
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 47
 - [New Born Gifts](https://www.littlebambinos.co.nz/collections/new-born-gifts): Shop our collection of curated products perfect for newborns
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T02:23:46Z
   Total Products: 148
 - [Christmas Gifts Under $50 2023](https://www.littlebambinos.co.nz/collections/christmas-gifts-under-50-2023): SIt's never too early to start shopping for Christmas right?! Get started with our Christmas gift guides and ease the last minute holiday stress. Shop our collection of Christmas gifts under $50
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 94
 - [Christmas Stocking Stuffers](https://www.littlebambinos.co.nz/collections/stocking-fillers-2023): Shop our curated collection of Stocking Stuffer ideas for your children to help with Christmas shopping this year x
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 160
 - [Gifts Under $100](https://www.littlebambinos.co.nz/collections/christmas-gifts-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $100 x
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 88
 - [Fruit Collection](https://www.littlebambinos.co.nz/collections/fruit-collection)
-  Updated: 2025-12-07T02:01:29Z
+  Updated: 2025-12-17T19:46:02Z
   Total Products: 40
 - [Gifts for New Mamas](https://www.littlebambinos.co.nz/collections/gifts-for-new-mamas): Shop our Curated Collection of Gift ideas for New Mother's x
   Updated: 2025-12-12T12:02:59Z
   Total Products: 33
 - [Gifts for New Borns](https://www.littlebambinos.co.nz/collections/gifts-for-new-borns): Shop our Curated Collection of Gift Ideas for the new babes in your life x
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:34:10Z
   Total Products: 38
 - [Gifts for Toddlers](https://www.littlebambinos.co.nz/collections/gifts-for-toddlers): Shop our Curated Collection of Gift ideas for the Toddlers in your life x
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 32
 - [Noody](https://www.littlebambinos.co.nz/collections/noody)
   Updated: 2025-08-06T22:34:20Z
   Total Products: 3
 - [80% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-80): Shop our CRAZY 80% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Happy shopping!
-  Updated: 2025-11-25T20:41:56Z
+  Updated: 2025-12-17T19:34:49Z
   Total Products: 20
 - [70% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-70): Shop our CRAZY 70% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-11-25T21:04:40Z
+  Updated: 2025-12-17T19:37:57Z
   Total Products: 49
 - [60% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-60): Shop our CRAZY 60% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-12-07T01:56:03Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 201
 - [50% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-50): Shop our CRAZY 50% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-11-29T12:04:29Z
+  Updated: 2025-12-17T19:41:24Z
   Total Products: 108
 - [40% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-40): Shop our CRAZY 40% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T19:44:41Z
   Total Products: 176
 - [30% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-30): Shop our EPIC 30% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 566
 - [20% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-20): Shop our EPIC 20% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:44:43Z
   Total Products: 361
 - [10% OFF MID-YEAR SALE](https://www.littlebambinos.co.nz/collections/bf-10): *Black Friday T&Cs Prices as marked, no codes needed. Happy shopping!
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 71
 - [Summer Essentials](https://www.littlebambinos.co.nz/collections/summer-essentials)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 563
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5613
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
-  Updated: 2025-12-02T12:03:34Z
+  Updated: 2025-12-17T19:38:31Z
   Total Products: 37
 - [Owala](https://www.littlebambinos.co.nz/collections/owala): RESTOCK COMING SOON All Owala styles will be restocked mid April. If you would like to be notified when the items come back into stock, simply click on the 'OUT OF STOCK? CLICK HERE' button.
   Updated: 2024-11-26T07:44:52Z
   Total Products: 0
 - [Pram Accessories](https://www.littlebambinos.co.nz/collections/pram-accessories)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 22
 - [Bunny Caddie](https://www.littlebambinos.co.nz/collections/bunny-caddie)
   Updated: 2025-11-14T12:02:21Z
   Total Products: 3
 - [Organic Zoo](https://www.littlebambinos.co.nz/collections/organic-zoo)
-  Updated: 2025-11-25T20:51:48Z
+  Updated: 2025-12-17T19:43:58Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 1353
+  Updated: 2025-12-18T20:11:07Z
+  Total Products: 1352
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-11-25T20:58:21Z
   Total Products: 15
@@ -14225,16 +14086,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-06-02T05:44:18Z
   Total Products: 3
 - [Summer Holiday](https://www.littlebambinos.co.nz/collections/summer-holiday)
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 122
 - [Winter Holiday](https://www.littlebambinos.co.nz/collections/winter-holiday)
-  Updated: 2025-12-10T23:40:58Z
+  Updated: 2025-12-17T19:44:06Z
   Total Products: 76
 - [Indoor Play Gym](https://www.littlebambinos.co.nz/collections/indoor-play-gym)
   Updated: 2025-01-14T22:34:42Z
   Total Products: 0
 - [Topsy Turvy](https://www.littlebambinos.co.nz/collections/topsy-turvy): When you can't take your children out to play daily, the NZ exclusive swedish ladder provides them with the opportunity to climb, swing, dangle and work on their little muscles, all from the comfort of your own home! Its space-saving size allows most families to install one without worrying about having a garden or a big space for their kids to play.
-  Updated: 2025-12-11T12:02:44Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 22
 - [BEETL](https://www.littlebambinos.co.nz/collections/beetl): This thoughtful range is made here in Aotearoa from quality, natural ingredients that are gentle and effective. BEETL is ideal for your baby's sensitive skin to help with nappy rash, cradle cap and to relax after a bath through a baby massage.
   Updated: 2025-05-02T04:14:39Z
@@ -14243,26 +14104,26 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:34:27Z
   Total Products: 3
 - [LAST CHANCE, FINAL SIZES!](https://www.littlebambinos.co.nz/collections/last-chance-final-sizes): Snap up some LAST CHANCE grabs! With only one size left, these won't last long. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:03Z
   Total Products: 337
 - [UNDER $15](https://www.littlebambinos.co.nz/collections/under-15): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-12-11T12:02:44Z
-  Total Products: 317
+  Updated: 2025-12-17T19:46:22Z
+  Total Products: 249
 - [UNDER $25](https://www.littlebambinos.co.nz/collections/under-25): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-12-07T01:56:01Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 156
 - [UNDER $50](https://www.littlebambinos.co.nz/collections/under-50): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T19:44:43Z
   Total Products: 351
 - [UNDER $75](https://www.littlebambinos.co.nz/collections/under-75): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 83
 - [UNDER $100](https://www.littlebambinos.co.nz/collections/under-100): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-12-09T12:02:37Z
-  Total Products: 171
+  Updated: 2025-12-17T19:45:59Z
+  Total Products: 211
 - [Boxing Day Sale 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-24): Shop our Boxing Day Spend & Save and get yourself a bargin - With prices already discounted, you could save up-to 60% Off! Spend $50, get another 10% off | Spend $100, get another 20% off | Spend $150, get another 30% off!
-  Updated: 2025-12-13T18:21:12Z
-  Total Products: 4242
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 4243
 - [Wear Boxing Day 24](https://www.littlebambinos.co.nz/collections/wear-boxing-day-24)
   Updated: 2024-12-23T02:18:58Z
   Total Products: 0
@@ -14288,31 +14149,31 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-12-02T12:03:34Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 1431
+  Updated: 2025-12-18T20:11:07Z
+  Total Products: 1430
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-12-13T18:21:12Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 5665
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
-  Updated: 2025-09-15T11:01:57Z
+  Updated: 2025-12-15T12:03:08Z
   Total Products: 22
 - [Furniture](https://www.littlebambinos.co.nz/collections/furniture)
   Updated: 2025-12-03T09:16:19Z
   Total Products: 43
 - [Easter Basket Magic Starts Here 🐣](https://www.littlebambinos.co.nz/collections/easter-basket-magic-starts-here): Discover our handpicked collection of Easter toys – from soft and snuggly to fun and functional. Perfect for little bunnies big on play, these sweet finds are made to delight and designed to last through the cosy winter days ahead.
-  Updated: 2025-12-05T12:03:17Z
+  Updated: 2025-12-17T12:02:42Z
   Total Products: 16
 - [Moonie Bunny](https://www.littlebambinos.co.nz/collections/moonie-bunny)
   Updated: 2025-12-03T12:02:20Z
   Total Products: 3
 - [Winter Toy Must-Haves](https://www.littlebambinos.co.nz/collections/winter-toy-must-haves): As the chill sets in, it’s the perfect time to bring the fun indoors. This season, our Winter favourites are all about creativity, colour and connection!
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 19
 - [INKAH](https://www.littlebambinos.co.nz/collections/inkah): Based out of Papamoa in New Zealand. Inkah specialises in bespoke, ethically handcrafted rattan furniture.
   Updated: 2025-12-03T09:16:19Z
   Total Products: 35
 - [Modern Mini](https://www.littlebambinos.co.nz/collections/modern-mini): Modern Mini believes that parenthood should be both fashionable and functional. They’re dedicated to redefining baby essentials by blending aesthetics with practicality. Their goal is to provide stylish, contemporary essentials that meet the needs of today’s parents.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-16T12:02:52Z
   Total Products: 3
 - [B.Box](https://www.littlebambinos.co.nz/collections/b-box-1)
   Updated: 2025-12-02T12:03:34Z
@@ -14321,70 +14182,70 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:15Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 1657
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 1475
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:46:03Z
   Total Products: 340
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-12-13T12:02:49Z
   Total Products: 3
 - [SOLVEJ SWINGS](https://www.littlebambinos.co.nz/collections/solvej-swings)
-  Updated: 2025-11-30T12:03:52Z
+  Updated: 2025-12-14T21:35:15Z
   Total Products: 13
 - [Banwood](https://www.littlebambinos.co.nz/collections/banwood)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 125
 - [Bikes & Scooters](https://www.littlebambinos.co.nz/collections/bikes-scooters)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 67
 - [Trybike](https://www.littlebambinos.co.nz/collections/trybike)
-  Updated: 2025-11-09T12:02:47Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 8
 - [Little Luxury](https://www.littlebambinos.co.nz/collections/little-luxury): Playmats as fun and functional as they are beautiful. Nurturing your family's transition from newborn to childhood and beyond, with understated elegance and purposeful design.
-  Updated: 2025-12-06T12:03:29Z
+  Updated: 2025-12-18T20:11:07Z
   Total Products: 4
 - [Stocking Fillers](https://www.littlebambinos.co.nz/collections/stocking-fillers-1)
-  Updated: 2025-12-07T12:04:20Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 71
 - [Swimwear](https://www.littlebambinos.co.nz/collections/swimwear)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 365
 - [Sale - Gifting 25](https://www.littlebambinos.co.nz/collections/sale-gifting-25)
-  Updated: 2025-12-13T18:21:12Z
-  Total Products: 4242
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 4243
 - [Sale on New Arrivals](https://www.littlebambinos.co.nz/collections/sale-on-new-arrivals)
-  Updated: 2025-12-13T18:21:12Z
-  Total Products: 1380
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 1381
 - [Outdoor Toys](https://www.littlebambinos.co.nz/collections/outdoor-toys)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-17T12:02:41Z
   Total Products: 192
 - [Under $20](https://www.littlebambinos.co.nz/collections/under-20)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 510
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-20-copy)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 1393
 - [Under $40](https://www.littlebambinos.co.nz/collections/under-30-copy)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 2253
 - [Girls Clothing on Sale](https://www.littlebambinos.co.nz/collections/girls-clothing-on-sale)
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 885
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 886
 - [Boys Clothing on Sale](https://www.littlebambinos.co.nz/collections/boys-all-clothing-sale)
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 527
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 528
 - [Baby Clothing on Sale](https://www.littlebambinos.co.nz/collections/baby-clothing-on-sale)
-  Updated: 2025-12-13T12:02:49Z
-  Total Products: 1132
+  Updated: 2025-12-18T12:03:36Z
+  Total Products: 1133
 - [Tops on sale](https://www.littlebambinos.co.nz/collections/baby-clothing-on-sale-copy)
-  Updated: 2025-12-12T12:02:59Z
+  Updated: 2025-12-17T19:45:40Z
   Total Products: 51
 - [Clothing - Black Friday 25](https://www.littlebambinos.co.nz/collections/clothing-black-friday-25)
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 1565
 - [Beach Days & Big Plays](https://www.littlebambinos.co.nz/collections/beach-days-big-plays): It's time for Beach Days & Big Plays! Sun, sand, and endless fun for your little adventurers.
-  Updated: 2025-12-13T12:02:49Z
+  Updated: 2025-12-18T12:03:36Z
   Total Products: 82
 
 ## Blogs
