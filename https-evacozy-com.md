@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-10-28T12:54:56Z
 - Contact Email: info@evacozy.com
-- Updated At: 2025-12-18T00:00:21.416Z
+- Updated At: 2025-12-19T00:00:21.179Z
 
 ## Products
 
@@ -183,7 +183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-platform-slippers-canada-evacozy-womens-house-slippers-4667049.webp?v=1764621698
     Price: $27.99 USD
 - [Plush Winter Slippers for Women & Men - Non-Slip House Slippers | Ultra-Soft & Warm | EvaCozy](https://evacozy.com/products/evacozy-plush-winter-slippers-thick): Premium plush winter slippers for women & men with thick non-slip sole. Ultra-soft warm house slippers with cozy fur lining. Safe, comfortable home footwear at EvaCozy.
-  Updated: 2025-12-17T14:05:53Z
+  Updated: 2025-12-18T02:21:01Z
   Vendor: EvaCozy
   Product Type: Slippers
   Availability: Available
@@ -2449,7 +2449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sce337784327a49eb89a9e1c4bd4ffffaS.jpg?v=1765950881
     Price: $27.99 USD
 - [Women's Fluffy Platform Slippers - Luxury Plush Fur Slides Winter Indoor | EvaCozy](https://evacozy.com/products/womens-fluffy-platform-slippers): Luxury women's fluffy platform slippers with soft plush fur. Designer fuzzy slides perfect for winter indoor comfort. Casual yet fashionable warm home shoes with elevated platform style.
-  Updated: 2025-12-17T14:04:14Z
+  Updated: 2025-12-18T02:47:03Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2515,7 +2515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
     Price: $32.99 USD
 - [Women's Waterproof EVA Furry Clogs 2025 - Winter Outdoor Slippers | EvaCozy](https://evacozy.com/products/womens-waterproof-eva-furry-clogs): Waterproof EVA clogs with fluffy fur lining and metal buckle. Thick bottom outdoor slippers for women. Warm plush winter footwear perfect for indoor and outdoor wear.
-  Updated: 2025-12-17T14:17:51Z
+  Updated: 2025-12-18T03:16:56Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2557,7 +2557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S46f59aa9d1b9448f8b5474e5af49e31bV.jpg?v=1765980663
     Price: $29.99 USD
 - [EVA Chef Shoes - Waterproof Non-Slip Oil-Proof Kitchen Shoes | EvaCozy](https://evacozy.com/products/eva-chef-shoes-waterproof-non): Professional EVA chef shoes with winter velvet lining. Waterproof, oil-proof, and non-slip design. Comfortable kitchen footwear for men and women. Perfect for restaurant and food service work.
-  Updated: 2025-12-17T14:31:26Z
+  Updated: 2025-12-18T02:24:55Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2611,7 +2611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1765981459
     Price: $39.99 USD
 - [Fleece-Lined Waterproof Cotton Shoes - Winter Warm Outdoor Footwear | EvaCozy](https://evacozy.com/products/fleece-lined-waterproof-cotton-shoes): Thickened fleece-lined waterproof cotton shoes for autumn and winter. Warm outdoor footwear for men, women, and couples. Comfortable home and outdoor wear with superior insulation.
-  Updated: 2025-12-17T14:41:07Z
+  Updated: 2025-12-18T02:35:34Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2657,7 +2657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1765982121
     Price: $44.99 USD
 - [Women's Fluffy Platform Ankle Boot Slippers - Luxury Fur Slides Winter | EvaCozy](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot): Luxury women's fluffy platform slippers with ankle boot design. Soft plush fur slides perfect for winter indoor and outdoor wear. Designer casual footwear with elevated platform style.
-  Updated: 2025-12-17T15:17:44Z
+  Updated: 2025-12-18T03:59:32Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
