@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2025-12-16T00:00:21.236Z
+- Updated At: 2025-12-19T00:00:27.925Z
 
 King And Queen Games, llc
 
@@ -22,7 +22,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/chinesetrainergiftbox.jpg?v=1762144034
   Price: $30.00 USD
 - [Battle Partner Booster Box (Japanese) - King And Queen Games](https://kingandqueengames.com/products/battle-partner-booster-box): Discover the Excitement of the Battle Partner Booster box. Battle Partners Booster Box contains 30 booster packs containing 5 random cards each. Ideal for Collectors and Players The Battle Partner Booster Box isn't just for players; it's also perfect for collectors. The set includes a mix of playable cards and cards that are aesthetically pleasing, making them great additions to any collection. Because of its unique features, many traders seek out this box to complete their sets. Therefore, whether you're battling friends or showcasing your collection, this box has something special for everyone. - King And Queen Games
-  Updated: 2025-11-01T01:51:51Z
+  Updated: 2025-12-18T19:20:35Z
   Vendor: King And Queen Games
   Product Type: Japanese Pokémon cards
   Availability: Available
@@ -155,7 +155,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Untitled_design_14.jpg?v=1762144642
   Price: $30.00 USD
 - [Paradise Dragona Booster Box -SV7A (Japanese) - King And Queen Games](https://kingandqueengames.com/products/paradise-dragona-booster-box-sv7a-japanese): Explore the Excitement of Paradise Dragona Booster Box 1 Booster Box of Japanese Paradise Dragona booster box Contains 30 packs with 5 cards per pack. Unveiling the Paradise Dragona Experience The Paradise Dragona Booster Box -SV7A is a must-have for any Pokémon card enthusiast. It features stunning artwork and powerful cards that enhance gameplay. With a collection that includes rare and sought-after cards, players and collectors will find themselves mesmerized. This booster box offers a unique blend of nostalgia and new strategies, ensuring endless fun for everyone. The cards are crafted with exceptional quality, highlighting the attention to detail that fans have come to love. Boost Your Collection Adding the Paradise Dragona Booster Box to your collection not only brings excitement but also boosts your gameplay. Each box contains various cards, including character cards that are valuable in battles. Collectors appreciate the effort put into designing each card, making them not just tools for competition but also works of art. Because of the variety, players can easily customize their decks. So, whether you are a novice or a seasoned player, there is something for you in this booster box. The Perfect Gift for Pokémon Fans Looking for a fantastic gift for a Pokémon fan? The Paradise Dragona Booster Box -SV7A is a perfect choice. It appeals to both young and old collectors, making it a timeless gift. Additionally, sharing a pack-opening experience adds to camaraderie among friends and family. This booster box will ignite the thrill of discovery while unwrapping cards together. Therefore, it is not just a product; it’s an experience that fosters bonding through shared interests and excitement over discovering rare cards. - King And Queen Games
-  Updated: 2025-11-03T04:37:59Z
+  Updated: 2025-12-18T12:15:26Z
   Vendor: King And Queen Games
   Product Type: Japanese Pokémon cards
   Availability: Available
@@ -183,7 +183,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/6.jpg?v=1756960217
   Price: $55.00 USD
 - [Disney Lorcana Rise Of The FloodBorn - King And Queen Games](https://kingandqueengames.com/products/disney-lorcana-rise-of-the-floodborn): Discover Disney Lorcana Rise Of The FloodBornDescription: All cards are 100% Japan authentic official product.Condition: New Sealed BoxLanguage: Japanese1Box = 16 Packs1Pack = 6 CardsWhat's New in Disney Lorcana?Disney Lorcana: Rise of the FloodBorn introduces thrilling new cards and mechanics, enhancing the gameplay experience. This expansion features well-known Disney characters that fans love, so players can build unique decks while unleashing their favorite heroes and villains in battles. Because of these exciting additions, players are sure to enjoy hours of strategic fun while forming new tactics to outsmart their opponents. - King And Queen Games
-  Updated: 2025-11-01T01:52:08Z
+  Updated: 2025-12-18T19:20:36Z
   Vendor: King And Queen Games
   Product Type: 
   Availability: Available
@@ -218,7 +218,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/1_748488ab-fba9-48b7-ab87-9f509ff59b77.jpg?v=1762144804
   Price: $280.00 USD
 - [Black Bolt Booster Box - King And Queen Games](https://kingandqueengames.com/products/black-bolt-booster-box): Black Bolt Booster Box Introducing the Black Bolt Pokemon Booster Box, perfect for Pokemon collectors and fans. Each box contains 20 booster packs, each with 7 cards. Increase your collection and chances of rare finds with this exclusive box. Expertly crafted for guaranteed quality and enjoyment. - King And Queen Games
-  Updated: 2025-11-01T01:52:11Z
+  Updated: 2025-12-18T19:20:34Z
   Vendor: King And Queen Games
   Product Type: Japanese Pokémon cards
   Availability: Available
@@ -479,6 +479,9 @@ King And Queen Games, llc
 - [News: Latest Updates and Blogs](https://kingandqueengames.com/blogs/news): News: Stay updated with the latest and trending news articles and insights from around the world.
   - [How Bleach Thousand-Year Blood War and Pokemon Cards Create a Unique Collecting Experience Exploring Japanese or Chinese Booster Boxes](https://kingandqueengames.com/blogs/news/how-bleach-thousand-year-blood-war-and-pokemon-cards-create-a-unique-collecting-experience-exploring-japanese-or-chinese-booster-boxes): How Bleach Thousand-Year Blood War and Pokemon Cards Create a Unique Collecting Experience Exploring Japanese or Chinese Booster Boxes
     Updated: 2025-12-09T20:35:26Z
+    Author: King And Queen Games
+  - [Exploring the Value of the Japanese Surfing Pikachu Vmax Card and Its Place in the World of Pokemon Cards](https://kingandqueengames.com/blogs/news/exploring-the-value-of-the-japanese-surfing-pikachu-vmax-card-and-its-place-in-the-world-of-pokemon-cards): Exploring the Value of the Japanese Surfing Pikachu Vmax Card and Its Place in the World of Pokemon Cards
+    Updated: 2025-12-18T00:33:08Z
     Author: King And Queen Games
 
 ## Store Pages
