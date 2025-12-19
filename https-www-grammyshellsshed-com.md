@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2025-12-17T02:13:03.320Z
+- Updated At: 2025-12-19T00:00:22.830Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -1690,16 +1690,16 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
 ## Collections
 
 - [Fine China  (hand painted ) multiple designs](https://www.grammyshellsshed.com/collections/frontpage): Pre-loved original pieces Aulthentic back stamps Excellent condition
-  Updated: 2025-12-07T06:26:31Z
+  Updated: 2025-12-18T01:49:13Z
   Total Products: 18
 - [Ladies clothing shoes and accessories](https://www.grammyshellsshed.com/collections/ladies-clothing): Ladies Apparel Dresses, tops, skirts pants, blouses, shoes, and accessories
-  Updated: 2025-12-07T07:45:32Z
+  Updated: 2025-12-18T01:49:13Z
   Total Products: 24
 - [PLATTERS](https://www.grammyshellsshed.com/collections/platters): Elegant platters & cake stands -to present your beautiful baking and scrumptious meals for your family and friends
-  Updated: 2025-12-08T08:13:43Z
+  Updated: 2025-12-18T01:49:13Z
   Total Products: 14
 - [Extraordinary selection of Pitchers & Tea pots](https://www.grammyshellsshed.com/collections/extraordinary-selection-of-pitchers-glass-pottery)
-  Updated: 2025-12-07T06:26:31Z
+  Updated: 2025-12-18T01:49:13Z
   Total Products: 10
 
 ## Blogs
