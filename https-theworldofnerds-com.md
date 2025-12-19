@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-12-18T00:01:00.185Z
+- Updated At: 2025-12-19T00:00:55.896Z
 
 ## Products
 
@@ -1957,7 +1957,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/941.jpg?v=1731046819
   Price: ₹299.00 INR
 - [BATMAN:ARKHAM KNIGHT BATMOBILE](https://theworldofnerds.com/products/batman-arkham-knight-batmobile): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-12-17T20:43:31Z
+  Updated: 2025-12-18T07:20:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4253,7 +4253,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2-2025-02-03T183932.723.jpg?v=1738914042
   Price: ₹599.00 INR
 - [DECOOL MINI RACING PACEMAKER PULLBACK DRILLING TRUCK](https://theworldofnerds.com/products/decool-mini-racing-pacemaker-pullback-drilling-truck): The DECOOL MINI RACING PACEMAKER PULLBACK DRILLING TRUCK is a high-quality toy that combines the fun of racing with the excitement of drilling. With its pullback feature, your child can race this truck and watch as it drills into the ground, providing hours of entertainment. Made with durable materials, this truck is perfect for young adventurers.
-  Updated: 2025-07-29T05:13:10Z
+  Updated: 2025-12-18T08:52:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5142,10 +5142,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7437copy.jpg?v=1739881523
   Price: ₹599.00 INR
 - [HARRY POTTER SET OF 6](https://theworldofnerds.com/products/harry-potter-set-of-6): Get ready to enter the magical world of Hogwarts with the HARRY POTTER SET OF 6. This exclusive set includes 6 of the best-selling Harry Potter books, providing endless hours of entertainment and adventure. Dive into the world of wizardry and let your imagination soar with this must-have set for fans of all ages.
-  Updated: 2025-12-10T17:50:46Z
+  Updated: 2025-12-18T09:15:11Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7548copy.jpg?v=1739950455
   Price: ₹1,125.00 INR
 - [SHINCHAN POKEMON SET OF 5](https://theworldofnerds.com/products/shinchan-pokemon-set-of-5): This set of 5 SHINCHAN POKEMON figures brings together the beloved characters of both series, providing hours of imaginative play. Each figure captures the unique personality and charm of these popular franchises, making for an exciting addition to any collection.
@@ -7676,14 +7676,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_51571bd2-64ad-439e-b404-4cffe23aa373.jpg?v=1751883091
   Price: ₹549.00 INR
 - [Demon Slayer Tanjiro Kamado Anime Figure](https://theworldofnerds.com/products/demon-slayer-tanjiro-kamado-anime-figure): “Mist rises on a mountain path, and there he stands—Tanjiro, approx. 14.5cm tall, gripping his sword, checkered haori flowing like a scene before battle in Demon Slayer. His determined gaze and quiet courage bring the spirit of the series to your shelf, reminding you to keep moving forward no matter how tough the journey. A must-have for fans who want Tanjiro’s unwavering spirit in their collection.”
-  Updated: 2025-12-14T07:17:51Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cb237b62-a2dc-49fc-96ee-e4af4c6d96cc.jpg?v=1751883265
   Price: ₹349.00 INR
 - [Zenitsu Agatsuma Action Figure with Sword](https://theworldofnerds.com/products/zenitsu-agatsuma-action-figure-with-sword): “Thunder rumbles in the distance, and there he stands—Zenitsu, approx. 15cm tall, gripping his sword in a flash stance, yellow haori catching the light like a moment before his lightning strike in Demon Slayer. His tense focus and hidden courage bring energy and life to your shelf, reminding you that true bravery shines brightest in quiet moments. Perfect for fans ready to add Zenitsu’s spark to their collection.”
-  Updated: 2025-12-13T23:59:01Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7697,14 +7697,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_08f6fc76-8eb5-46c1-87ee-ad9434545ad4.jpg?v=1751886375
   Price: ₹349.00 INR
 - [Demon Slayer Nezuko Kamado Anime Figure](https://theworldofnerds.com/products/demon-slayer-nezuko-kamado-anime-figure): “Moonlight filters through the trees, and there she is—Nezuko, approx. 14cm tall, pink kimono flowing and bamboo muzzle in place, like a quiet moment before she unleashes her hidden strength in Demon Slayer. Her gentle eyes and fierce spirit bring warmth and power to your shelf, making this figure a beautiful reminder of Nezuko’s courage for collectors and fans alike.”
-  Updated: 2025-12-10T05:18:46Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_ae838d88-489a-47cb-945c-290758b478af.jpg?v=1751886516
   Price: ₹349.00 INR
 - [Demon Slayer Inosuke Hashibira Anime Figure](https://theworldofnerds.com/products/demon-slayer-inosuke-hashibira-anime-figure): “Wind howls through the forest, and there he stands—Inosuke, approx. 14cm tall, boar mask glinting under the light, muscles tensed in a fearless stance like a scene before battle in Demon Slayer. His wild energy and unyielding spirit bring life and raw strength to your shelf, making this figure a perfect centerpiece for collectors ready to embrace Inosuke’s untamed courage.”
-  Updated: 2025-12-13T23:59:02Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7781,7 +7781,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ae85b457-e0a2-4490-907f-8afad57219d3.jpg?v=1751888066
   Price: ₹749.00 INR
 - [Kurama Chakra Mode Naruto Figurine](https://theworldofnerds.com/products/kurama-chakra-mode-naruto-figurine): Unleash the ultimate power of the ninja world with this detailed Naruto Kurama Mode figure, inspired by his Six Paths Sage transformation in Naruto Shippuden. Featuring his iconic chakra cloak, black rods, and truth-seeking orbs, this figure captures Naruto in his most powerful form. Standing at approximately 20 cm in height, it’s perfect for display in any anime collection. A must-have for Naruto fans and anime figure collectors alike.
-  Updated: 2025-12-06T05:45:52Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7900,7 +7900,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_79b53302-7f9e-4ab3-bcf1-e0ebbed6563e.jpg?v=1751890395
   Price: ₹299.00 INR
 - [Pastel Bulbasaur Pokémon Figure](https://theworldofnerds.com/products/pastel-bulbasaur-pokemon-figure): Celebrate peaceful Pokémon vibes with this 8.5 cm Bulbasaur collectible, featuring the beloved Grass-type Pokémon resting cozily on a pastel green cushion. This tiny yet detailed figure captures Bulbasaur’s relaxed charm, perfect for fans seeking a blend of nostalgia and calming decor.
-  Updated: 2025-12-16T10:35:10Z
+  Updated: 2025-12-18T12:29:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7914,14 +7914,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_f947ca81-911c-4873-8169-70c7f987f84e.jpg?v=1751950047
   Price: ₹299.00 INR
 - [Chibi Snorlax Pokémon Figurine](https://theworldofnerds.com/products/chibi-snorlax-pokemon-figurine): Drift into dreamland with this 8.5 cm Snorlax sleeping figure, perfectly relaxed on a soft green cushion. A must-have for every Pokémon lover, this iconic, sleepy giant brings calm vibes and playful nostalgia to your shelf or workspace.
-  Updated: 2025-12-07T20:33:41Z
+  Updated: 2025-12-18T09:33:33Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_a89dfb8e-44ee-47a2-b9ad-f6e02c8bf063.jpg?v=1751950128
   Price: ₹299.00 INR
 - [Komala Nap Time Figurine](https://theworldofnerds.com/products/komala-nap-time-figurine): Catch a peaceful nap with this adorable 8.5 cm Komala figure, hugging its trusty log while snoozing on a soft blue cushion. A calming, cozy collectible for any Pokémon enthusiast who appreciates quiet charm and cuteness.
-  Updated: 2025-12-07T20:33:40Z
+  Updated: 2025-12-18T09:33:33Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7970,7 +7970,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_6e0122d8-4a60-41e8-bbed-820aadb42fe9.jpg?v=1751953712
   Price: ₹179.00 INR
 - [Bold Deadpool Figurine Holding Funny Sign](https://theworldofnerds.com/products/bold-deadpool-figurine-holding-funny-sign): In classic Deadpool fashion, this 10 cm figurine throws subtlety out the window. Standing with one foot cocked and sign in hand, he delivers a message that’s anything but polite—yet undeniably hilarious. The fiery red backdrop turns the moment into a theatrical spotlight, as if he's performing on his own sarcastic stage. With his tilted head and that smug body language, you can almost hear the imaginary mic drop. It’s bold, cheeky, and pure Deadpool—perfect for fans who like their collectibles with a side of attitude and zero filter.
-  Updated: 2025-12-08T18:42:21Z
+  Updated: 2025-12-18T06:50:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8075,7 +8075,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_8069bc7d-bc1e-4b41-b972-854d2316d47b.jpg?v=1751958500
   Price: ₹599.00 INR
 - [Zoro: Master Swordsman's Resolve](https://theworldofnerds.com/products/zoro-master-swordsmans-resolve): Standing against a stoic, dark grey textured backdrop, a striking figurine of Roronoa Zoro, the formidable swordsman of the Straw Hat Pirates, is captured in a moment of intense focus and readiness. He is depicted in a traditional green kimono-like robe with a purple sash, his distinctive green hair prominent, and three swords meticulously sheathed at his side, one of which he is drawing or adjusting with a purposeful grip. His bare chest reveals his battle scars, and his focused expression conveys a blend of calm determination, fierce readiness, and a hint of weary experience. The impressively detailed figure, approximately 18 cm tall (about the height of a large smartphone), is securely anchored on a sleek black circular base. The entire presentation powerfully conveys Zoro's disciplined strength, his unwavering loyalty, and his formidable presence as a master of the blade.
-  Updated: 2025-12-07T11:01:11Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8992,7 +8992,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e6abf884-d95f-46e9-9357-84f3a5dbdaca.jpg?v=1756470026
   Price: ₹2,699.00 INR
 - [Sanji After the Battle: Calm Reflection Figure](https://theworldofnerds.com/products/sanji-after-the-battle-calm-reflection-figure): Measuring approximately 13cm in height and 9.5cm wide, Sanji sits cross-legged amid dramatic lighting, his muscles tensed and shirt open to reveal battle scars and bandages. One arm rests across his knee, the other pomposely set on his mouth, capturing both exhaustion and quiet contemplation. The worn clothes and scuffed shoes hint at a tough fight behind him, while the intensity in his posture reflects unwavering determination. This collectible figure beautifully blends vulnerability and strength, offering a touching tribute to Sanji’s enduring spirit and complex emotions.
-  Updated: 2025-08-29T12:24:06Z
+  Updated: 2025-12-18T10:39:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9349,32 +9349,32 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0f8e2c22-2270-48c9-bf56-2659bec06944.jpg?v=1756531123
   Price: ₹2,069.00 INR
 - [ZD toys Deadpool: Dramatic Samurai Pose Before Chaos](https://theworldofnerds.com/products/deadpool-dramatic-samurai-pose-before-chaos): Deadpool stands mid-action, katana drawn in a dramatic stance that screams both danger and parody. His body language hints at a fierce battle-ready warrior, yet the finger-gun gesture to his own head undercuts the seriousness with his trademark dark humour. In this frozen moment, he balances between being a deadly assassin and the clown of the Marvel universe—leaving you unsure whether to laugh, be impressed, or a little bit of both.
-  Updated: 2025-12-15T20:47:15Z
+  Updated: 2025-12-18T22:42:59Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1DEADPOOLWOLVERINE.jpg?v=1758267650
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_c385c7e2-21b2-4b7f-be00-9d34c5e19163.png?v=1766054574
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark I: The Birth of a Legend Standard Version](https://theworldofnerds.com/products/iron-man-mark-i-the-birth-of-a-legend-standard-version): Iron Man Mark I rises from the desert dust, crude yet unstoppable, a suit built not from luxury but desperation. Sparks burst from its battered steel frame, each one a reminder of Tony Stark’s fight to live and to break free. The glowing arc reactor at its core symbolizes not just power, but rebirth—the moment Iron Man was truly born. Though clunky in design, the Iron Man Mark I marks the first step in a legacy that would change the world forever.
-  Updated: 2025-12-15T21:54:38Z
+  Updated: 2025-12-18T19:35:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI.jpg?v=1761742365
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l1600_4.webp?v=1766043313
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark I: Forged in Fire, Born in Light Luminous Version](https://theworldofnerds.com/products/iron-man-mark-i-forged-in-fire-born-in-light-luminous-version): Amidst fire, dust, and chaos, Iron Man Mark I steps forward like a blazing titan. The crude steel plates glow with sparks of defiance, and at its core shines the arc reactor—a radiant beacon of survival and rebirth. What began in captivity emerges as destiny, a luminous birth of a hero who would one day rise as Iron Man. This is not just a machine of escape—it is the glowing beginning of a legend.
-  Updated: 2025-12-15T22:03:01Z
+  Updated: 2025-12-18T19:35:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI_bf1068a8-98df-46fa-8b21-fd61615cb09e.jpg?v=1761742320
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l1600_4.webp?v=1766043313
   Price: ₹4,999.00 INR
 - [ZD toys Iron Man Mark 15: A Blaze in the Shadows](https://theworldofnerds.com/products/iron-man-mark-15-a-blaze-in-the-shadows): Blazing through the air with thrusters ignited, Iron Man Mark 15 glows like a streak of living fire. Built for stealth yet burning with brilliance, this armor carries the elegance of shadows and the fury of flames. Its sharp design gleams under the light, while the thrusters leave a trail of radiant power. A luminous symbol of evolution, the Mark 15 embodies Tony Stark’s genius—quiet in design, but unstoppable in action.
-  Updated: 2025-12-15T20:31:37Z
+  Updated: 2025-12-18T19:39:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_0ce31f3d-955b-4969-89cc-975494648062.jpg?v=1761743420
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/WERFASFDAS.webp?v=1766043549
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 16 (Nightclub) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-16-nightclub-iron-man-3-marvel-infinity-saga-collectible): This is the Iron Man Mark 16 armor, also known as "Nightclub", from Iron Man 3. Designed by Tony Stark, the Mark 16 features a striking red and gold finish with enhanced stealth capabilities. This collectible figure showcases the intricate detailing of the armor, complete with the arc reactor at the chest, capturing the essence of Marvel’s Infinity Saga.
   Updated: 2025-12-15T21:25:30Z
@@ -9384,46 +9384,46 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XVIIronman3.jpg?v=1758268019
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 17 (Heartbreaker) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-17-heartbreaker-iron-man-3-marvel-infinity-saga-collectible): The Iron Man Mark 17 armor, known as "Heartbreaker", is one of Tony Stark’s specialized suits from Iron Man 3. Built as a heavy-duty artillery unit, this armor features a distinctive chest-mounted arc reactor designed for high-powered energy blasts. The figure includes multiple interchangeable hands, repulsor effect pieces, and a display stand, making it a must-have addition to any Marvel Infinity Saga Iron Man collection.
-  Updated: 2025-12-15T20:40:18Z
+  Updated: 2025-12-18T19:48:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanXVII.jpg?v=1761743367
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l1600_1eda905b-cb7c-4157-9d97-c8372788b5a9.webp?v=1766044078
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 3 (Mark III) – Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor is the first iconic red-and-gold suit introduced in Marvel Studios’ Iron Man (2008). As Tony Stark’s first fully developed and weaponized armor, the Mark 3 established the foundation for all future Iron Man suits. This collectible figure captures the classic design and powerful presence of the armor that launched the Marvel Cinematic Universe, making it a must-have for any Marvel Infinity Saga collection.
-  Updated: 2025-12-15T20:06:38Z
+  Updated: 2025-12-18T19:50:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2IronmanIIILuminousversion.jpg?v=1758268203
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/69195d4fe0ac281c2c00386f-us-stock-zd-toys-iron-man-mark-iii-mk3.webp?v=1766044212
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 3 (Mark III) – Luminous Version | Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-lightning-version-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor makes its debut in Marvel Studios’ Iron Man (2008) as Tony Stark’s first fully realized red-and-gold suit. This Luminous Version collectible features a chargeable light-up function that illuminates the arc reactor and eyes, bringing them to life and enhancing the display with dramatic, vibrant lighting. A true centerpiece of the Marvel Infinity Saga collection, the Mark 3 remains one of the most iconic suits in the Iron Man legacy.
-  Updated: 2025-12-15T22:05:44Z
+  Updated: 2025-12-18T12:13:10Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/6IronmanIIILuminousversion_2b7caa7c-71c7-4f49-98de-89998385764a.jpg?v=1761743388
   Price: ₹4,999.00 INR
 - [ZD toys Iron Man Mark 30 Display Model for Collectors](https://theworldofnerds.com/products/iron-man-mark-30-display-model-for-collectors): A stunning collectible figure of Iron Man Mark 30, also known as "Blue Steel," stands proudly in a metallic blue and silver finish. The suit’s sleek design and battle-ready stance make it appear as though it’s about to launch into action, while the black backdrop highlights every armored detail. Perfect for collectors, this piece captures the essence of Tony Stark’s ingenuity from Iron Man 3 and the Infinity Saga.
-  Updated: 2025-12-15T23:21:21Z
+  Updated: 2025-12-18T19:55:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironmanmark3XXX.jpg?v=1758268366
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l1600_06eb954f-a070-4801-8b5b-adbf39642cc0.webp?v=1766044499
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man 3 – Silver Centurion Suit Display Model](https://theworldofnerds.com/products/iron-man-3-silver-centurion-suit-display-model): Iron Man Mark 33, famously known as the "Silver Centurion," is captured mid-action in a powerful stance, palms raised and ready to fire repulsor blasts. The striking red-and-silver armor gleams under the light, reflecting its aggressive design and upgraded combat capabilities. This collectible perfectly showcases the intensity of Tony Stark’s arsenal during the climactic battle of Iron Man 3, as if he’s moments away from unleashing a devastating attack.
-  Updated: 2025-12-15T23:32:13Z
+  Updated: 2025-12-18T22:43:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XXXIIIIronman3.jpg?v=1758268447
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/shopping_23.jpg?v=1766054477
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 35 Emergency Operations Figure](https://theworldofnerds.com/products/iron-man-mark-35-emergency-operations-figure): The Iron Man Mark 35, nicknamed "Red Snapper," stands tall with its massive mechanical pincers ready for action. Designed for heavy-duty rescue and disaster operations, the bright red-and-gold suit exudes raw power and durability. Its elongated arms and reinforced frame give it an industrial, almost intimidating presence, as if it’s about to tear through debris or engage in a high-risk rescue mission straight out of Iron Man 3.
-  Updated: 2025-12-15T23:02:26Z
+  Updated: 2025-12-18T22:48:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XXXVIronman3.jpg?v=1758268522
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IM35_65876dbc-c808-4dad-90d4-cbbd3bf70ba3.jpg?v=1766054792
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 39 Starboost Suit in Battle Display](https://theworldofnerds.com/products/iron-man-mark-39-starboost-suit-in-battle-display): Iron Man Mark 39, also known as "Starboost" or "Gemini," stands heroically amid the fiery wreckage of a battlefield. Its sleek white-and-gold space suit design with a vibrant blue arc reactor, radiating futuristic energy. The pose suggests readiness to launch into orbit or deliver a decisive strike, perfectly capturing Tony Stark’s interstellar ambition and the high-tech brilliance of Iron Man 3.
   Updated: 2025-12-16T00:37:43Z
@@ -9440,11 +9440,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Iron-Man-Mark-XLII.jpg?v=1758268683
   Price: ₹4,999.00 INR
 - [ZD toys Iron Man 3 – Mark 42 Battle-Ready Display](https://theworldofnerds.com/products/iron-man-mark-xlii-lightning-strikes-the-legacy): Iron Man Mark 42, the centerpiece armor of Iron Man 3, strikes a powerful pose amid blazing sparks and smoke. The iconic gold-and-red modular suit with piercing blue eyes and a arc reactor, capturing Tony Stark’s determination and ingenuity at the height of the Extremis battle. Its stance radiates confidence, as though it’s about to charge headlong into the chaos and take control of the fight.
-  Updated: 2025-12-17T00:16:09Z
+  Updated: 2025-12-18T17:52:34Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/13Iron-Man-Mark-XLII.jpg?v=1761742350
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/WhatsApp_Image_2025-02-28_at_5.21.19_PM_1.webp?v=1766037149
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark V: The Suitcase Armor](https://theworldofnerds.com/products/iron-man-mark-v-the-suitcase-armor): Forged in the rush of desperation, the Mark V armour stands as a symbol of both fragility and resilience. Its sleek crimson and silver design reflects the urgency of battles fought not in preparation but in the heat of chaos. The suitcase at its side carries more than armour—it carries the weight of responsibility, the scars of fear, and the unyielding determination to rise, even when caught off guard.
   Updated: 2025-12-15T19:53:47Z
@@ -9461,35 +9461,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanIIILuminousversion_5684fa98-d017-48ea-8a49-11ffafeffdc9.jpg?v=1761742380
   Price: ₹4,999.00 INR
 - [ZD toys Iron Man Mark 85: The Final Armor](https://theworldofnerds.com/products/iron-man-mark-85-the-final-armor): The Mark 85 stands not just as a suit of armor, but as the culmination of every battle, every scar, and every choice that led to the Endgame. Its gleaming red and gold design carries the weight of finality, while the scattered weapons echo a war that demanded everything. Behind the steel is not invincibility, but a man ready to give the ultimate sacrifice—because saving the world meant more than surviving it.
-  Updated: 2025-12-15T20:35:42Z
+  Updated: 2025-12-18T19:30:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2AvengersendgameIronmanLXXXV.jpg?v=1761743404
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2AvengersendgameIronmanLXXXV.jpg?v=1766043001
   Price: ₹3,999.00 INR
 - [ZD toys Mark IV: The Birth of Armor With Suit up gantry](https://theworldofnerds.com/products/mark-iv-the-birth-of-armor-with-suit-up-gantry): The gantry arms reach out like guardians of destiny, each mechanical motion a ritual of transformation. Flames of power linger nearby, waiting to ignite as the armor locks into place. In that suspended moment, Tony Stark stands between man and legend—vulnerable yet unstoppable, fragile yet armored. The gantry doesn’t just build the suit; it builds the myth of Iron Man.
-  Updated: 2025-12-15T20:57:54Z
+  Updated: 2025-12-18T19:28:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/ZDtoysIronman.jpg?v=1761742283
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/sdfsdfafaa.webp?v=1766042919
   Price: ₹9,999.00 INR
 - [ZD toys Spider-Man: Black & Gold Suit Action Figure – No Way Home Edition](https://theworldofnerds.com/products/spider-man-black-gold-suit-action-figure-no-way-home-edition): This striking collectible captures Spider-Man mid-leap, wearing his iconic Black & Gold suit from No Way Home. Suspended on a sleek display stand, he strikes a dynamic action pose, one hand outstretched releasing a glowing, mystical web effect. The gold accents on his suit shimmer under the light, giving an intense and cinematic look. It feels like a moment frozen in time – as if Spidey has just activated Doctor Strange’s magic while preparing to swing into battle.
-  Updated: 2025-12-15T20:57:49Z
+  Updated: 2025-12-18T19:25:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1SpidermanBlackandgoldsuit.jpg?v=1758273637
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l960-600x600.webp?v=1766042699
   Price: ₹3,999.00 INR
 - [ZD toys Marvel Spider-Man (Upgraded Suit) with Accessories – No Way Home](https://theworldofnerds.com/products/marvel-spider-man-upgraded-suit-with-accessories-no-way-home): This premium collectible features Spider-Man in his No Way Home upgraded suit, complete with multiple interchangeable hands and detailed web effects. The set includes a sturdy display stand, allowing you to pose Spidey in mid-air action or battle-ready stances. The figure’s bright red and black suit pops against the dark background, creating a cinematic feel. The accessories add a layer of realism, as if Spider-Man is gearing up for his next high-flying showdown across New York City.
-  Updated: 2025-12-15T20:03:21Z
+  Updated: 2025-12-18T07:03:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1SpidermanUpgradedsuit.jpg?v=1758273730
   Price: ₹3,999.00 INR
 - [ZD toys Spider-Man No Way Home Integrated Suit Action Figure](https://theworldofnerds.com/products/spider-man-no-way-home-integrated-suit-action-figure): This collectible showcases Spider-Man in his stunning Integrated Suit from No Way Home, blending his Iron Spider and Upgraded suits into one heroic design. The metallic gold and red detailing gleam brilliantly, giving a battle-ready appearance. The set includes multiple interchangeable hands, web-shooting effects, and a sturdy display stand for posing. It feels like a scene right after Peter upgrades his suit for the multiversal showdown, ready to face villains from across dimensions.
-  Updated: 2025-12-15T22:18:02Z
+  Updated: 2025-12-18T07:02:42Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9510,11 +9510,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5Ironmanmark2I.jpg?v=1761742306
   Price: ₹3,999.00 INR
 - [ZD toys Marvel Wolverine Action Figure in Classic Yellow & Blue Suit](https://theworldofnerds.com/products/marvel-wolverine-action-figure-in-classic-yellow-blue-suit): This collectible brings Wolverine to life in his iconic yellow-and-blue suit as seen in Deadpool & Wolverine. The figure perfectly captures Logan’s fierce expression and battle-ready stance, with intricate suit textures and sharp detailing on the mask and gloves. The bold colors make him stand out, evoking the classic comic-book look while staying true to the cinematic version. It feels like Wolverine is about to unsheathe his adamantium claws and charge into battle, ready to fight alongside (or against) Deadpool.
-  Updated: 2025-12-15T22:31:29Z
+  Updated: 2025-12-18T18:58:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1ZDtoysdeadpoolwolvrine.jpg?v=1758275059
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/w01-600x600.webp?v=1766041117
   Price: ₹3,999.00 INR
 - [Gojo Satoru: Spring-Powered Cool and Confident Pose D1](https://theworldofnerds.com/products/gojo-satoru-spring-powered-cool-and-confident-pose-1): This Gojo Satoru figure captures his effortlessly cool vibe, lounging yet ready for action. With his iconic blindfold, white hair, and dark blue outfit, Gojo strikes the perfect balance of relaxation and confidence. The spring base adds a unique touch, creating an illusion of motion as if he’s springing into action. At about approximately 12 cm tall, this figure perfectly embodies Gojo’s laid-back yet overwhelming power, making it an ideal addition to any Jujutsu Kaisen collection.
   Updated: 2025-11-28T22:33:26Z
@@ -10259,14 +10259,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Narutoanime.png?v=1764672823
   Price: ₹414.00 INR
 - [Naruto Anime Bundle](https://theworldofnerds.com/products/naruto-anime-bundle): 🍥 Naruto Anime Figure Bundle – 5-Piece Set Level up your collection with this Naruto Anime Figure Bundle! Each figure features detailed sculpting, anime-accurate colors, and a sturdy display base, making them lightweight, durable, and perfect for collectors. Designed for shelves and showcases, this set is also perfect for gifts, making it a great choice for fans, collectors, and anime lovers. ✨ Bundle Includes: Kakashi Naruto (Sage of Six Paths Mode) Sasuke Sasori Minato 🔥 A powerful, collectible, and must-have set for every Naruto fan!
-  Updated: 2025-12-07T12:29:35Z
+  Updated: 2025-12-18T10:39:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/naryto.jpg?v=1764673072
   Price: ₹3,299.00 INR
 - [Demon slayer Anime Bundle](https://theworldofnerds.com/products/demon-slayer-anime-bundle): 🗡️ Demon Slayer Anime Figure Bundle – 5-Piece Set Upgrade your collection with this Demon Slayer Anime Figure Bundle! Each figure is crafted with detailed sculpting, anime-accurate colors, and a sturdy display base. Lightweight, durable, and perfect for collectors, these figures look amazing on desks, shelves, and showcases. This set is also perfect for gifts — an ideal choice for fans, collectors, and anime lovers. ✨ Bundle Includes: Tanjiro Nezuko Zenitsu Inosuke Giyu 🔥 A stunning, collectible, and must-have set for every Demon Slayer fan!
-  Updated: 2025-12-14T07:17:56Z
+  Updated: 2025-12-18T10:39:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10294,7 +10294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Jujutsukaisen.png?v=1764674420
   Price: ₹3,080.00 INR
 - [Pokemon Bundle](https://theworldofnerds.com/products/pokemon-bundle): 💛 Pokémon Mini Cushion Figure Bundle – 6-Piece Collectible Set Bring home the cuteness of Pokémon with this 6-Piece Mini Cushion Figure Bundle! Each figure features an adorable sleeping Pokémon resting on a soft, vibrant cushion — designed with detailed sculpting, smooth finishing, and bright anime-accurate colors. These mini collectibles are lightweight, durable, and perfect for desks, shelves, car dashboards, and gifting. ✨ Bundle Includes: Snorlax (Green Cushion – Sleep Pose) Jirachi (Pink Cushion – Dreaming Pose) Eevee (Orange Cushion – Cozy Sleep Pose) Bulbasaur (Mint Cushion – Resting Pose) Pikachu (Yellow Cushion – Tired Pose) Komala (Blue Cushion – Nap Time Pose) 🔥 A super-cute, calming, and must-have collectible set for every Pokémon fan — perfect for decoration, gifting, and collectors of all ages!
-  Updated: 2025-12-16T10:35:11Z
+  Updated: 2025-12-18T12:29:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10322,21 +10322,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/shinchan00.jpg?v=1764678601
   Price: ₹1,584.00 INR
 - [Random Keychain](https://theworldofnerds.com/products/free-keychain)
-  Updated: 2025-12-17T17:20:32Z
+  Updated: 2025-12-18T12:13:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-2-copy.jpg?v=1765455292
   Price: ₹399.00 INR
 - [Random Action Figure](https://theworldofnerds.com/products/free-action-figure-random)
-  Updated: 2025-12-17T17:20:32Z
+  Updated: 2025-12-18T12:13:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-1-copy.jpg?v=1765455311
   Price: ₹699.00 INR
 - [ZD Toys Iron Man Action Figure – 4 Inch | Premium Marvel Collectible | Red & Gold Armor Figurine](https://theworldofnerds.com/products/zd-toys-iron-man-action-figure-12-3-cm-premium-marvel-collectible-red-gold-armor-figurine): The ZD Toys Iron Man Action Figure (4 Inch) brings Tony Stark’s iconic armor to life with premium detailing, nano-wing attachments, and a metallic red-and-gold finish. Lightweight, durable, and beautifully sculpted, this figure is perfect for display, gifting, and Marvel collection setups. Packaged in a premium window box, it’s an ideal addition for both kids and collectors. Key Features Premium ZD Toys Iron Man figure Metallic red & gold armor finish Includes nano-wing back attachments 4 Inch display-ready collectible Lightweight & durable Comes in a collector-style box
-  Updated: 2025-12-17T07:47:06Z
+  Updated: 2025-12-18T02:23:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10357,7 +10357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_edad47b0-5c40-4992-bad8-0de4db701ef3.jpg?v=1765535268
   Price: ₹839.00 INR
 - [ZD Toys Iron Spider Action Figure – 4 Inch Marvel Collectible with Display Stand](https://theworldofnerds.com/products/zd-toys-iron-spider-action-figure-10-cm-marvel-collectible-with-display-stand): The ZD Toys 4 Inch Iron Spider action figure features premium detailing inspired by the Avengers Infinity Saga. Designed with metallic red-gold armor, iconic suit lines, and removable Iron Spider arms, this collectible comes with a sturdy display stand and premium window-box packaging—perfect for display, gifting, or completing your Marvel figure collection. Features ZD Toys premium Iron Spider figure 4 Inch collectible size Metallic red, gold & blue suit detailing Includes removable Iron Spider mechanical arms Comes with a display stand Packed in a collector window box
-  Updated: 2025-12-17T08:32:10Z
+  Updated: 2025-12-18T00:52:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10371,11 +10371,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_901bc626-cc59-4643-9870-f63ff32c24ef.jpg?v=1765535423
   Price: ₹839.00 INR
 - [ZD Toys War Machine Action Figure – 4 Inch Marvel Collectible with Stand](https://theworldofnerds.com/products/zd-toys-war-machine-action-figure-10-cm-marvel-collectible-with-stand): The ZD Toys 4 Inch War Machine action figure features premium detailing, a sleek black armored suit, and a sturdy display base. Designed for Marvel fans and collectors, this compact figure comes in a high-quality window box—perfect for display, gifting, or completing your Avengers collection. Features ZD Toys premium War Machine figure 4 Inch collectible size Detailed black armored suit Includes display stand Durable build quality Comes in a collector window box
-  Updated: 2025-12-17T21:13:13Z
+  Updated: 2025-12-18T18:56:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_eabfaf1c-b36d-4caa-b58f-8946288d742f.jpg?v=1765535506
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_87842109-9a52-4e6d-96b0-e69889e4b80d.jpg?v=1766040961
   Price: ₹839.00 INR
 - [ZD Toys Hulk Action Figure – 4 Inch Marvel Collectible (Infinity Saga Edition)](https://theworldofnerds.com/products/zd-toys-hulk-action-figure-12-2-cm-marvel-collectible-infinity-saga-edition): The ZD Toys Hulk 4 Inch action figure comes in an impressive muscular sculpt with premium paint detailing, inspired by the Avengers Infinity Saga. This sturdy collectible includes a display base and arrives in a premium window box—perfect for Marvel collectors, display setups, and gifting.Features ZD Toys premium Hulk figure 4 Inch collectible height Detailed muscle sculpt & paint finish Durable build with strong stance Comes with a display stand Premium collector window box packaging
   Updated: 2025-12-17T21:57:57Z
@@ -10406,21 +10406,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f11614f9-34fc-4926-a7af-94a7e32d65f4.jpg?v=1765535807
   Price: ₹3,999.00 INR
 - [ZD Toys Chrome Iron Man Mark II Action Figure – Premium Metallic Collectible](https://theworldofnerds.com/products/zd-toys-chrome-iron-man-mark-ii-action-figure-premium-metallic-collectible): This Chrome Iron Man Mark II action figure features a full metallic silver finish, detailed panel lines, multiple interchangeable hands, and dynamic flame effects for flight and combat poses. Designed for collectors who love premium display pieces, this figure includes a sturdy stand and highly articulated joints for cinematic posing. Features Full chrome metallic finish 6.9-inch collectible scale Interchangeable hands set Blast and flight effect accessories High articulation for dynamic posing Comes with a premium display stand
-  Updated: 2025-12-17T12:37:52Z
+  Updated: 2025-12-18T18:43:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-1-Recovered_e729bd8c-3fb2-488a-9dea-fcab10595295.jpg?v=1765975072
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_6b17e1bb-274d-48a2-85a5-0220c4d88933.jpg?v=1766040218
   Price: ₹3,999.00 INR
 - [ZD Toys Iron Man Mark III Collectible Figure – Premium Metallic Finish with FX Parts](https://theworldofnerds.com/products/zd-toys-iron-man-mark-iii-collectible-figure-premium-metallic-finish-with-fx-parts): This Iron Man Mark III figure features a high-gloss red and gold armor finish, detailed sculpting, and dynamic posing ability. Built for Marvel collectors, it includes interchangeable hands and blast effects for action or display. Packed in a premium box, it’s perfect for showcasing or gifting. Highlights High-detail Iron Man Mark III figure Glossy red & gold metallic armor Includes interchangeable hands Comes with repulsor & jet blast effects Fully poseable body design Premium collector display box
-  Updated: 2025-12-17T07:05:53Z
+  Updated: 2025-12-18T18:42:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7b47b6a1-a3a8-4ea9-9496-ae5ac2abd2b9.jpg?v=1765535946
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/71Knzm8Nb6L._SL1500.webp?v=1766040140
   Price: ₹3,999.00 INR
 - [Superman Action Figure – Premium Poseable Collectible with Fabric Cape](https://theworldofnerds.com/products/superman-action-figure-premium-poseable-collectible-with-fabric-cape): This Superman figure features a detailed suit design, a premium fabric cape, and fully poseable articulation for dynamic display. It includes interchangeable hands, two head sculpts, heat-vision FX parts, and a display stand. Perfect for collectors who want a high-quality, realistic Superman collectible for shelves or photography setups. Highlights• High-detail Superman collectible figure• Fabric cape for a premium look• Includes interchangeable hands & two head sculpts• Comes with heat-vision FX accessory• Fully poseable for action poses• Includes display base for stable showcasing
-  Updated: 2025-12-17T12:54:39Z
+  Updated: 2025-12-18T11:07:39Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10441,7 +10441,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2e5ac339-9b40-4ca7-960a-74f107079ae3.jpg?v=1765536492
   Price: ₹2,399.00 INR
 - [Joker Collectible Figure – 1/9 Scale Premium Edition](https://theworldofnerds.com/products/joker-collectible-figure-1-9-scale-premium-edition): This 1/9 scale Joker figure captures the iconic look from The Dark Knight, featuring detailed sculpting, expressive facial design, and a movie-accurate outfit. The figure includes interchangeable heads, multiple hand options, and a weapon accessory for dynamic posing or display. Packaged in a premium collector box, it’s perfect for DC fans and figure collectors. Highlights • Highly detailed Joker 1/9 scale figure• Movie-accurate purple coat and green vest outfit• Includes interchangeable heads• Comes with multiple hand sets• Includes weapon accessory• Fully poseable for display setups• Premium collector display box
-  Updated: 2025-12-12T10:50:36Z
+  Updated: 2025-12-18T11:06:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10455,17 +10455,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_147022bc-5d18-4844-b3eb-6fb5f536440c.jpg?v=1765536732
   Price: ₹699.00 INR
 - [ZD toys Marvel Rhino Action Figure – 4 Inch Villain Collectible for Kids & Fans](https://theworldofnerds.com/products/marvel-rhino-action-figure-11-cm-villain-collectible-for-kids-fans): This Rhino action figure stands at 4 Inch and captures the classic bulky armored look of Spider-Man’s powerful villain. Designed with durable material and strong detailing, it’s perfect for play or display. Comes in a themed Marvel box, making it a great addition to any superhero collection. Highlights 4 Inch Rhino collectible figure Classic armored grey sculpt Sturdy build for kids & collectors Dynamic posing capability Includes display stand Packed in a Marvel-themed box
-  Updated: 2025-12-17T21:20:17Z
+  Updated: 2025-12-18T03:08:14Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_24dec26a-3dd2-4483-915d-393f90b99796.jpg?v=1765536846
   Price: ₹699.00 INR
 - [ZD toys Marvel Green Goblin Action Figure – 4 Inch Classic Spider-Man Villain Collectible](https://theworldofnerds.com/products/marvel-green-goblin-action-figure-11-cm-classic-spider-man-villain-collectible): This Green Goblin figure stands at 4 Inch and features his iconic green and purple suit, detailed sculpting, and signature pumpkin bomb accessory. Made for fans and young collectors, the figure offers sturdy articulation for action poses and comes in a themed Marvel display box—perfect for gifting or collecting. Highlights 4 Inch Green Goblin collectible figure Classic green & purple villain design Includes pumpkin bomb accessory Durable articulation for posing Strong build quality for kids & collectors Comes in a Marvel-themed display box
-  Updated: 2025-12-17T21:19:56Z
+  Updated: 2025-12-18T03:08:11Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_138d6073-5a2b-4b73-8f2f-4f9a5d5bc1c5.jpg?v=1765537253
   Price: ₹699.00 INR
 - [ZD toys Scarlet Spider Action Figure – Classic Red Suit with Blue Hoodie Design](https://theworldofnerds.com/products/scarlet-spider-action-figure-classic-red-suit-with-blue-hoodie-design): This Scarlet Spider figure features the iconic red suit paired with the classic blue sleeveless hoodie and bold spider emblem. Built for Spider-Man fans and collectors, it offers a clean sculpt, dynamic posing ability, and durable build. Packed in a display-friendly box, it’s ideal for collectors, gifting, or play. Highlights Scarlet Spider classic red suit Blue hoodie with black spider emblem 6-inch articulated action figure Durable and detailed sculpt Comes in a premium display box
@@ -10483,24 +10483,24 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f2cea8cf-d5c0-4940-ad6e-403176d23369.jpg?v=1765537447
   Price: ₹699.00 INR
 - [ZD toys Doctor Octopus Action Figure – Classic Green Suit with Flexible Mechanical Arms](https://theworldofnerds.com/products/doctor-octopus-action-figure-classic-green-suit-with-flexible-mechanical-arms): This Doctor Octopus figure features the iconic green-and-yellow suit, signature goggles, and four flexible mechanical tentacles for dynamic posing. Built for Spider-Man fans and collectors, it offers strong detailing, sturdy articulation, and comes packed in a display-ready collector box—perfect for showcasing or gifting. Highlights Classic Doctor Octopus green & yellow suit Includes 4 flexible mechanical tentacles 6-inch articulated action figure Detailed sculpt with comic-accurate design Comes in a premium collector display box
-  Updated: 2025-12-17T07:04:48Z
+  Updated: 2025-12-18T03:07:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_dcecbb22-36b6-477b-9d62-a3c1b3248e7f.jpg?v=1765537505
   Price: ₹699.00 INR
 - [ZD toys Miles Morales Spider-Man Action Figure – Black & Red Suit Collectible](https://theworldofnerds.com/products/miles-morales-spider-man-action-figure-black-red-suit-collectible): This Miles Morales Spider-Man figure comes in a sleek black-and-red suit design with detailed sculpting and smooth articulation. Built for fans and collectors, it offers dynamic posing options and a sturdy build. Packed in a premium display box, it’s ideal for display, gifting, or collection expansion. Highlights • Detailed Miles Morales black & red suit• Smooth articulation for action poses• Durable body design• Vibrant paint detailing• Comes in a premium display box
-  Updated: 2025-12-17T07:04:27Z
+  Updated: 2025-12-18T03:08:09Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_de02d917-5cb6-4e7b-ba0c-7c757f8a729f.jpg?v=1765537592
   Price: ₹699.00 INR
 - [ZD toys Spider-Gwen Action Figure – 4 Inch Marvel Collectible](https://theworldofnerds.com/products/spider-gwen-action-figure-11-cm-marvel-collectible): This 4 Inch Spider-Gwen (Ghost-Spider) action figure features her iconic white-and-black suit with pink accents and a sculpted hood design. Built for Marvel fans and young collectors, the figure includes articulated joints for posing and comes packed in a display-friendly window box. Highlights• 4 Inch articulated Ghost-Spider figure• Classic white, black & pink suit detailing• Sculpted hood design• Durable and lightweight build• Comes in a collector window box
-  Updated: 2025-12-17T21:07:26Z
+  Updated: 2025-12-18T03:08:15Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_868205ea-b82b-4330-bad4-bf229671c48d.jpg?v=1765537674
   Price: ₹699.00 INR
 - [ZD toys Venom Action Figure – Muscular Design with Signature Symbiote Details](https://theworldofnerds.com/products/venom-action-figure-muscular-design-with-signature-symbiote-details): This Venom figure features a powerful, muscular build with bold white symbiote patterns and an extended tongue sculpt for an iconic display look. It offers smooth articulation for posing and comes in a premium-style display box, making it a great pick for fans and collectors. Highlights Classic Venom design with detailed symbiote logo Muscular body sculpt with dynamic posture Extended tongue and sharp teeth detailing Durable articulation for posing Collector-friendly display box included
@@ -10511,14 +10511,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fb9e9f1b-9c9e-48c2-a960-295d7fb540e8.jpg?v=1765537735
   Price: ₹699.00 INR
 - [ZD toys Spider-Man 2099 Collectible Figure – Futuristic Suit Edition](https://theworldofnerds.com/products/spider-man-2099-collectible-figure-futuristic-suit-edition): This Spider-Man 2099 figure features a sleek navy suit with bold red futuristic detailing inspired by Miguel O'Hara’s iconic look. Designed for fans and collectors, it includes sharp sculpted accents and articulated joints for posing. Packed in a display-friendly box, it’s perfect for showcasing or adding to your Spider-Verse collection. Highlights Detailed Spider-Man 2099 futuristic suit Bold navy and red color pattern Sculpted arm spikes for an accurate comic look Articulated body for dynamic posing Comes in a collector-friendly display box
-  Updated: 2025-12-17T07:03:56Z
+  Updated: 2025-12-18T06:36:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4cbb5d25-afd0-4854-a6c8-bd172adfe4ae.jpg?v=1765537838
   Price: ₹699.00 INR
 - [Iron Man Mark L Figure – ZD Toys Premium Nano-Tech Edition with Weapon Set](https://theworldofnerds.com/products/iron-man-mark-l-figure-zd-toys-premium-nano-tech-edition-with-weapon-set): The ZD Toys Iron Man Mark L features a high-gloss red and gold nano-tech armor inspired by Avengers: Infinity War. This premium figure includes detachable nano-weapon attachments, multiple interchangeable hands, and a battle display base. Designed for collectors, it delivers accurate detailing and dynamic posing options straight out of the movie. Highlights ZD Toys premium Mark L collectible figure High-detail red & gold nano-tech armor Includes nano-weapon accessories & fire FX parts Interchangeable hands for action poses Comes with a battle display base Premium collector packaging
-  Updated: 2025-12-17T07:03:49Z
+  Updated: 2025-12-18T06:35:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10532,14 +10532,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e8ae29f3-1af6-43b6-a610-59d59c15f31f.jpg?v=1765539156
   Price: ₹3,999.00 INR
 - [ZD toys Deadpool Action Figure – Premium Poseable Collectible with Dual Swords](https://theworldofnerds.com/products/deadpool-action-figure-premium-poseable-collectible-with-dual-swords): This ZD Toys Deadpool figure features a highly detailed red-and-black suit, dual katana accessories, and multiple articulation points for dynamic posing. Built for Marvel collectors, it includes swappable hands, weapon holsters, and a premium display-style box — perfect for showcasing or gifting. Highlights• Premium ZD Toys Deadpool collectible• Dual katana weapons included• Detailed red & black tactical suit• Multiple poseable articulation points• Comes with swappable hands• Packed in a premium collector display box
-  Updated: 2025-12-17T07:03:17Z
+  Updated: 2025-12-18T22:44:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_50f90dac-44dc-420b-9df1-ee907d0d08ff.jpg?v=1765539239
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_42f6a71c-7b7c-467c-81bb-f6b41121a28f.jpg?v=1766054666
   Price: ₹4,499.00 INR
 - [Iron Man Mark 7 – 4-Inch ZD Toys Die-Cast Style Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-7-4-inch-zd-toys-die-cast-style-collectible-figure): This 4-inch ZD Toys Iron Man Mark 7 figure features detailed armor sculpting, a vibrant red-and-gold finish, and a compact display-friendly size. Designed for Marvel collectors, it includes premium workmanship and comes in a collector-style box, making it perfect for display or gifting. Highlights• ZD Toys Iron Man Mark 7 figure• 4-inch collectible size• Red & gold classic armor detailing• Durable, display-ready build• Compact and perfect for desk or shelf• Comes in a premium collector box
-  Updated: 2025-12-17T17:39:42Z
+  Updated: 2025-12-18T15:35:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10553,14 +10553,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_e45f971c-624e-4b0d-bd5d-09a00ebda12a.jpg?v=1765948850
   Price: ₹1,299.00 INR
 - [Iron Man Mark 6 – 4-Inch ZD Toys Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-6-4-inch-zd-toys-collectible-figure): This 4-inch ZD Toys Iron Man Mark 6 figure showcases the iconic red-and-gold armor with the triangular arc reactor. Designed with crisp detailing and a sturdy finish, it delivers a premium collectible feel in a compact size. Packaged in a display-friendly box, it’s ideal for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 6 figure• 4-inch collectible size• Red & gold armor with triangle arc reactor• Durable and finely detailed design• Perfect for display or gifting• Comes in a premium collector box
-  Updated: 2025-12-17T17:20:31Z
+  Updated: 2025-12-18T12:48:01Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b79451b6-3e39-4e9b-bc92-526df5eca2c2.jpg?v=1765539470
   Price: ₹1,299.00 INR
 - [Iron Man Mark 85 – 4-Inch ZD Toys Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-85-4-inch-zd-toys-collectible-figure): This 4-inch ZD Toys Iron Man Mark 85 figure features the iconic Endgame red-and-gold nanotech armor with clean sculpting and sharp detailing. Compact yet premium, it captures the final suit of Tony Stark with impressive accuracy. Packaged in a collector-friendly box, it’s perfect for display, gifting, or expanding your Iron Man collection. Highlights• ZD Toys Iron Man Mark 85 figure• 4-inch collectible size• Detailed red & gold Endgame armor• Smooth sculpt with durable build• Ideal for collectors and display setups• Comes in a premium collector box
-  Updated: 2025-12-17T05:24:58Z
+  Updated: 2025-12-18T13:12:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10588,105 +10588,105 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/7.png?v=1765974063
   Price: ₹4,599.00 INR
 - [Iron Man Mark 4 Armor with Suit-Up Gantry 1:10 Scale – ZD Toys 10th Anniversary Collectible](https://theworldofnerds.com/products/iron-man-mark-4-armor-with-suit-up-gantry-1-10-scale-zd-toys-10th-anniversary-collectible): This 1:10 scale ZD Toys Iron Man Mark 4 Armor set features the iconic suit-up gantry from the MCU, celebrating the 10th Anniversary edition. Designed with premium sculpting, metallic red-and-gold armor detailing, and a highly detailed gantry structure, this collectible delivers an impressive display presence. Perfect for Marvel collectors, it recreates the legendary suit-up moment with accuracy and style. Highlights• ZD Toys Iron Man Mark 4 10th Anniversary edition• 1:10 scale premium display collectible• Includes detailed suit-up gantry structure• Metallic red & gold armor with clean sculpting• Durable, display-ready build• Ideal for collectors, showcases, and gifting
-  Updated: 2025-12-17T12:44:10Z
+  Updated: 2025-12-18T06:19:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_199ca08f-dc74-4f10-b4b7-5758312ea4b3.png?v=1765974401
   Price: ₹9,999.00 INR
 - [Iron Man Mark 42 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-42-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 42 figure features the distinctive gold-dominant armor design from Iron Man 3. With its bold color scheme, clean sculpting, and durable build, this collectible captures the unique look of the MK42 suit and delivers a striking display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 42 collectible figure• Gold-dominant MK42 armor design• Detailed sculpting with metallic finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:49:37Z
+  Updated: 2025-12-18T10:48:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironmanmark42_3.jpg?v=1765974528
   Price: ₹3,999.00 INR
 - [Iron Man Mark 45 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-45-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 45 figure captures the sleek, upgraded armor design introduced in Avengers: Age of Ultron. Featuring a refined red-and-gold finish, sharp panel detailing, and a dynamic silhouette, this collectible offers a premium display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 45 collectible figure• Age of Ultron-era armor design• Detailed sculpting with metallic red & gold finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:51:42Z
+  Updated: 2025-12-18T18:15:53Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_af0e653a-9fe4-4641-aa9d-483e04d5cde1.png?v=1765974692
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_6b7eed76-8364-4ac9-9dc0-8366fc2e338b.png?v=1766054981
   Price: ₹3,999.00 INR
 - [Iron Man Mark 46 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-46-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 46 figure features the sleek and aggressive armor design from Captain America: Civil War. With its refined red-and-gold finish, sharp panel lines, and battle-ready styling, this collectible delivers a powerful display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 46 collectible figure• Civil War–era streamlined armor design• Detailed sculpting with metallic red & gold finish• Durable and display-ready construction• Perfect for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:54:00Z
+  Updated: 2025-12-18T13:10:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironmanmark46_1.jpg?v=1765974813
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/sdsds.jpg?v=1766063400
   Price: ₹3,999.00 INR
 - [Iron Man – The Final Battle – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-the-final-battle-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man – The Final Battle figure captures the intense climactic moment from the Marvel universe, featuring battle-damaged armor detailing and a powerful action-ready pose. Designed with sharp sculpting, realistic paintwork, and durable construction, this collectible delivers a dramatic display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Final Battle edition• Battle-damaged armor detailing• Dynamic sculpt inspired by the final showdown• Detailed metallic red & gold finish• Durable and display-ready build• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:51:45Z
+  Updated: 2025-12-18T10:56:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/FinalIronman.jpg?v=1765974954
   Price: ₹8,999.00 INR
 - [Iron Man Mark 4 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-4-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 4 figure showcases the sleek red-and-gold armor with refined detailing inspired by Tony Stark’s upgraded suit. Designed with clean sculpting, metallic paint finish, and a durable build, this collectible delivers a strong display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 4 collectible figure• Classic red & gold armor design• Detailed sculpting with metallic finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:41:47Z
+  Updated: 2025-12-18T10:59:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IronamnM4.jpg?v=1765975126
   Price: ₹3,999.00 INR
 - [Iron Man Mark 6 Armor with Suit-Up Gantry 1:10 Scale – ZD Toys Collectible](https://theworldofnerds.com/products/iron-man-mark-6-armor-with-suit-up-gantry-1-10-scale-zd-toys-collectible): This 1:10 scale ZD Toys Iron Man Mark 6 Armor set features the iconic suit-up gantry scene, capturing the legendary triangular arc reactor armor in stunning detail. Designed with metallic red-and-gold finish, precise sculpting, and a detailed gantry structure, this collectible delivers an impressive display setup for Marvel fans and collectors. Highlights• ZD Toys Iron Man Mark 6 collectible set• 1:10 scale premium display size• Includes detailed suit-up gantry structure• Iconic triangular arc reactor armor design• Durable, display-ready construction• Ideal for collectors, showcases, and gifting
-  Updated: 2025-12-17T13:03:21Z
+  Updated: 2025-12-18T18:10:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironman6suitegantry5.jpg?v=1765975218
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/301582462_20241212_3_0003_03.webp?v=1766038203
   Price: ₹9,999.00 INR
 - [Iron Man Mark 7 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-7-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 7 figure features the iconic red-and-gold armor with battle-ready detailing inspired by the Avengers suit-up scene. Designed with sharp sculpting, metallic paint finish, and a sturdy build, this collectible offers a striking display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 7 collectible figure• Iconic Avengers-era armor design• Detailed sculpting with metallic finish• Durable and display-ready construction• Perfect for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:42:47Z
+  Updated: 2025-12-18T23:04:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironmanmark7_5.jpg?v=1765975314
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironmanmark7_3.jpg?v=1766055829
   Price: ₹3,999.00 INR
 - [Iron Man MK1 to MK7 Armory Set – 4 Inch ZD Toys Collectible Figures](https://theworldofnerds.com/products/iron-man-mk1-to-mk7-armory-set-4-inch-zd-toys-collectible-figures): This ZD Toys Iron Man Armory Set features the complete MK1 to MK7 suits in 4-inch scale, showcasing the evolution of Tony Stark’s iconic armor. Each figure is crafted with detailed sculpting, accurate suit colors, and a compact display-ready size. Perfect for Marvel collectors, this armory set delivers a striking lineup that looks impressive on shelves, desks, or display cabinets. Highlights• ZD Toys Iron Man armory collection set• Includes MK1 to MK7 armor suits• 4-inch scale collectible figures• Detailed sculpting with accurate suit designs• Durable and display-ready build• Ideal for collectors, showcases, and gifting
-  Updated: 2025-12-17T17:20:32Z
+  Updated: 2025-12-18T18:04:42Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironmanset_2.jpg?v=1765975482
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l1600_1_ce23cce2-545f-4bf7-b9d3-7b4ac8b02afe.webp?v=1766037873
   Price: ₹6,499.00 INR
 - [Iron Man Mark 43 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-43-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 43 figure showcases the streamlined red-and-gold armor design introduced in Avengers: Age of Ultron. Featuring clean sculpting, sharp panel detailing, and a refined metallic finish, this collectible delivers a sleek display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 43 collectible figure• Age of Ultron–era streamlined armor• Detailed sculpting with metallic red & gold finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T13:16:20Z
+  Updated: 2025-12-18T18:00:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IronmanXL111_d8c55a45-65dd-42c9-bb6f-d073936eac53.jpg?v=1765975775
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/zd-toys-avengers-age-of-ultron-iron-man-mark-xliii-43-action-figure-no-light-up-function-9469815.webp?v=1766037634
   Price: ₹3,999.00 INR
 - [Iron Spider – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-spider-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Spider figure features the iconic red, gold, and blue suit with metallic detailing inspired by the Avengers films. Designed with clean sculpting and a durable build, this collectible captures the advanced Iron Spider armor and delivers a bold display presence for Marvel fans and Spider-Man collectors. Highlights• ZD Toys Iron Spider collectible figure• Red, gold & blue armor-style suit design• Detailed sculpting with metallic finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T13:08:56Z
+  Updated: 2025-12-18T13:16:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Spidermanironspidersuite_7.jpg?v=1765975908
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Iron.png?v=1766063764
   Price: ₹3,999.00 INR
 - [Spider-Man No Way Home (Upgraded Suit) – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/spider-man-no-way-home-upgraded-suit-zd-toys-premium-marvel-collectible-figure): This ZD Toys Spider-Man No Way Home (Upgraded) figure features the red-and-black suit with refined detailing inspired by the movie design. Crafted with clean sculpting, accurate suit patterns, and a durable build, this collectible captures Spider-Man’s upgraded look and offers a striking display presence for Marvel fans and collectors. Highlights• ZD Toys Spider-Man collectible figure• No Way Home upgraded red & black suit• Detailed sculpting with clean paint finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T13:14:01Z
+  Updated: 2025-12-18T17:55:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/imgi_80_wedawasds.webp?v=1765976004
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/SpidermanUpgradedsuit_1.jpg?v=1766037340
   Price: ₹3,999.00 INR
 - [Superman Black Suit – FONDJOY Premium DC Collectible Figure](https://theworldofnerds.com/products/superman-black-suit-fondjoy-premium-dc-collectible-figure): This FONDJOY Superman Black Suit figure features the iconic recovery suit with a sleek black finish and silver emblem detailing. Designed with sharp sculpting, realistic proportions, and a durable build, this collectible captures Superman’s powerful rebirth look and delivers a strong display presence for DC fans and collectors. Highlights• FONDJOY Superman collectible figure• Iconic black recovery suit design• Detailed sculpting with clean paint finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T13:28:32Z
+  Updated: 2025-12-18T11:08:54Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Superman.jpg?v=1765976135
   Price: ₹4,299.00 INR
 - [Venom Carnage 1:10 Scale – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/venom-carnage-1-10-scale-zd-toys-premium-marvel-collectible-figure): This 1:10 scale ZD Toys Carnage figure captures the chaotic symbiote design with sharp tendril detailing, aggressive sculpting, and a striking red finish. Built for Marvel collectors, it delivers a powerful display presence with durable construction and detailed textures that bring the character to life. Highlights• ZD Toys Carnage collectible figure• 1:10 scale premium display size• Aggressive symbiote design with tendrils• Bold red paint finish with detailed sculpt• Durable and display-ready build• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:58:24Z
+  Updated: 2025-12-18T11:10:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Venomcarnage_5.jpg?v=1765976228
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/WRWR.webp?v=1766048880
   Price: ₹4,499.00 INR
 - [Venom 1:10 Scale – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/venom-1-10-scale-zd-toys-premium-marvel-collectible-figure): This 1:10 scale ZD Toys Venom figure showcases a powerful muscular build with detailed symbiote texture and an aggressive stance. Featuring sharp sculpting, bold black-and-white detailing, and a durable build, this collectible delivers an impressive display presence for Marvel fans and figure collectors. Highlights• ZD Toys Venom collectible figure• 1:10 scale premium display size• Muscular symbiote body design• Detailed sculpt with bold paint finish• Durable and display-ready build• Ideal for collectors, display setups, and gifting
-  Updated: 2025-12-17T12:59:31Z
+  Updated: 2025-12-18T07:57:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10711,13 +10711,13 @@
   Updated: 2025-12-10T12:14:49Z
   Total Products: 21
 - [HOTWHEELS MAINLINE](https://theworldofnerds.com/collections/hotwheels-mainline): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-12-13T12:14:56Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 100
 - [KIDS CAMERA](https://theworldofnerds.com/collections/kids-camera): A kids’ camera toy is like giving your little one their very own way to capture the world! Made with bright colors and soft, durable materials, these cameras are super easy for small hands to use. They let kids snap photos, shoot videos, and sometimes even play fun games all while letting them feel like a little photographer. Some even come with cool filters and cute accessories, so they can get creative with their shots. It’s the perfect way to spark their imagination and let them see the world in a whole new way, all while having a blast!
   Updated: 2025-08-12T11:12:51Z
   Total Products: 5
 - [MAJORETTE](https://theworldofnerds.com/collections/majorette): Explore the vibrant world of Majorette cars! Our high-quality die-cast vehicles feature realistic designs and durable construction, perfect for imaginative play and display. From sleek sports cars to essential emergency vehicles, Majorette offers a diverse collection that captivates automotive enthusiasts of all ages. Ideal for gifts or as a collectible, Majorette cars are sure to spark joy and creativity.
-  Updated: 2025-12-14T12:16:31Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 193
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
   Updated: 2025-12-17T12:15:09Z
@@ -10771,22 +10771,22 @@
   Updated: 2025-12-13T12:14:56Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2025-12-17T12:15:09Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 488
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
-  Updated: 2025-12-16T12:16:32Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 122
 - [MAISTO DIECAST CAR'S](https://theworldofnerds.com/collections/maisto): Get ready to rev up your collection with Maisto Diecast Cars! Known for their exceptional craftsmanship and attention to detail, Maisto diecast cars offer a perfect blend of realism and durability. From sleek sports cars to classic vintage models, each car is carefully crafted with realistic features, intricate designs, and vibrant finishes. Whether you’re a passionate car collector or simply a fan of fine models, Maisto cars are built to impress and are ideal for display, gifting, or adding to your collection. Start your Maisto journey today and experience the ultimate in diecast car excellence!
   Updated: 2025-11-27T11:02:28Z
   Total Products: 14
 - [BBURAGO DIECAST CAR'S](https://theworldofnerds.com/collections/bburago): Step into the world of high-quality craftsmanship with BBURAGO Diecast Cars! Known for their attention to detail and authentic designs, BBURAGO offers a wide range of diecast cars, from classic vintage models to the latest sports cars. Each model is expertly crafted with precision, featuring realistic finishes, detailed interiors, and movable parts, making them perfect for collectors and car enthusiasts alike. Whether you're displaying them on your shelf or racing them on your track, BBURAGO’s diecast cars are built to impress with their stunning design and durability.
-  Updated: 2025-12-17T12:15:09Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 63
 - [BBURAGO CAR SCLAE 1:18](https://theworldofnerds.com/collections/sclae-1-18): Take your collection to the next level with BBURAGO 1:18 Scale Cars! These larger-than-life diecast models are crafted with impeccable attention to detail, offering a stunning representation of both classic and modern vehicles. From fully functional doors and hoods to intricate interiors, each model is designed to showcase the finest automotive features in a 1:18 scale. Perfect for serious collectors, car enthusiasts, or anyone who appreciates high-quality craftsmanship, BBURAGO’s 1:18 scale cars deliver both style and realism in every piece.
   Updated: 2025-07-29T05:10:29Z
   Total Products: 2
 - [BBURAGO CAR SCALE 1:24](https://theworldofnerds.com/collections/car-scale-1-24): Experience the thrill of automotive perfection with BBURAGO 1:24 Scale Cars! These meticulously crafted diecast models offer an exceptional level of detail, capturing the essence of both classic and modern vehicles. With functional features like opening doors, hoods, and trunks, as well as stunning paint finishes, BBURAGO's 1:24 scale cars are designed to impress. Perfect for collectors and car enthusiasts, these models are ideal for display or as a thoughtful gift. Whether you're adding to your collection or showcasing your passion for cars, BBURAGO’s 1:24 scale models are a must-have for any fan!
-  Updated: 2025-12-17T12:15:09Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 37
 - [MAISTO CAR SCALE 1:25](https://theworldofnerds.com/collections/car-scale-1-25): Add a touch of automotive excellence to your collection with Maisto 1:25 Scale Cars! These beautifully detailed diecast models are crafted to showcase the precision and style of real-world vehicles in a slightly smaller 1:25 scale. With intricate designs, realistic finishes, and carefully recreated features, each car in this collection offers a true-to-life representation of both classic and modern vehicles. Whether you're a car enthusiast, a collector, or looking for the perfect gift, Maisto’s 1:25 scale cars are a must-have addition to any diecast collection!
   Updated: 2025-07-29T05:10:29Z
@@ -10813,7 +10813,7 @@
   Updated: 2025-10-27T11:10:40Z
   Total Products: 38
 - [ALL ACTION FIGURES](https://theworldofnerds.com/collections/action-figures): Action figures are more than just toys—they’re a chance to bring your favorite characters to life. With their detailed designs, movable joints, and cool accessories, these figures let you recreate epic moments or imagine your own adventures. Whether it’s superheroes, villains, or characters from your favorite shows, each figure captures the essence of who they are, making them fun to play with or display. For kids, they’re a tool for creativity and storytelling, and for collectors, they’re a way to hold onto a piece of the worlds we love. Simply put, action figures make playtime and display a lot more exciting!
-  Updated: 2025-12-17T12:15:09Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 316
 - [RC](https://theworldofnerds.com/collections/rc): Remote control toys are an awesome way to have some fun and let your imagination run wild. Whether it’s racing cars, flying drones, or even controlling a little robot, these toys let you take charge of the action. They’re not just for kids—adults love them too! You can race around, do tricks, or just enjoy the thrill of controlling something with a simple push of a button. Plus, they’re a great way to practice coordination and problem-solving. With so many cool options out there, there’s a remote control toy for pretty much anyone and any interest.
   Updated: 2025-08-30T05:30:08Z
@@ -10849,11 +10849,11 @@
   Updated: 2025-07-29T05:10:31Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2025-12-15T12:13:31Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 217
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2025-12-17T12:15:09Z
-  Total Products: 670
+  Updated: 2025-12-18T12:16:53Z
+  Total Products: 668
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
   Total Products: 1
@@ -10870,7 +10870,7 @@
   Updated: 2025-08-04T11:09:26Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2025-12-17T12:59:29Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 661
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
   Updated: 2025-12-16T12:16:32Z
@@ -10894,13 +10894,13 @@
   Updated: 2025-11-11T07:11:43Z
   Total Products: 9
 - [NARUTO](https://theworldofnerds.com/collections/naruto): Naruto Collection – Unleash Your Ninja Spirit! Step into the world of shinobi with our exclusive Naruto merchandise, featuring epic apparel, high-quality hoodies, t-shirts, accessories, collectible figurines, and iconic headbands inspired by the Hidden Leaf Village. Whether you're a die-hard fan of Naruto Uzumaki, Sasuke Uchiha, or the legendary Hokages, our collection lets you showcase your ninja pride in style. Train like a shinobi and represent your favorite anime with officially inspired Naruto gear. Shop now and awaken your inner ninja!
-  Updated: 2025-12-16T12:16:32Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 81
 - [DEMON SLAYER](https://theworldofnerds.com/collections/demon-slayer): Demon Slayer Collection – Embrace the way of the blade and immerse yourself in the world of Kimetsu no Yaiba with our exclusive Demon Slayer merchandise. Discover high-quality apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Nichirin sword replicas. Whether you admire Tanjiro’s determination, Nezuko’s resilience, or the fierce Hashira warriors, our collection lets you showcase your love for the series in style. Gear up like a true demon slayer and bring the spirit of the anime to life. Shop now and join the fight against the demons.
-  Updated: 2025-12-16T12:16:32Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 63
 - [ONE PIECE](https://theworldofnerds.com/collections/one-piece): One Piece Collection – Set sail on an epic adventure with our exclusive One Piece merchandise inspired by the world of pirates and the Grand Line. Discover a treasure trove of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Straw Hat gear. Whether you admire Luffy’s unbreakable spirit, Zoro’s unmatched swordsmanship, or the bond of the Straw Hat crew, our collection lets you celebrate your love for the legendary anime in style. Join the journey, embrace the pirate life, and find your next treasure. Shop now and become a part of the One Piece world.
-  Updated: 2025-12-15T12:13:31Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 100
 - [DRAGON BALL Z](https://theworldofnerds.com/collections/dragon-ball-z): Dragon Ball Z Collection – Power up your style with our exclusive Dragon Ball Z merchandise inspired by the legendary Saiyan warriors. Explore a dynamic range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items like Dragon Balls and Saiyan armor. Whether you admire Goku’s unstoppable determination, Vegeta’s fierce pride, or the intense battles that shaped the universe, our collection lets you showcase your love for the series. Train like a true warrior, unleash your power, and take your fandom to the next level. Shop now and channel the energy of the Dragon Ball Z universe.
   Updated: 2025-12-16T06:25:35Z
@@ -10909,7 +10909,7 @@
   Updated: 2025-12-12T12:14:57Z
   Total Products: 28
 - [POKEMON](https://theworldofnerds.com/collections/pokemon): Pokemon Collection – Catch ‘em all with our exclusive Pokemon merchandise, perfect for trainers of all ages. Explore a wide range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Pikachu, Charizard, Eevee, and other beloved Pokemon. Whether you’re a longtime fan or just starting your journey, our collection brings the magic of the Pokemon world to life. Train, battle, and collect your favorites in style. Shop now and become the ultimate Pokemon Master.
-  Updated: 2025-12-16T12:16:32Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 57
 - [DEATH NOTE](https://theworldofnerds.com/collections/death-note): Death Note Collection – Enter the world of mystery and mind games with our exclusive Death Note merchandise. Discover a dark and stylish selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items inspired by Light Yagami, L, Ryuk, and the legendary Death Note itself. Whether you admire Light’s intellect, L’s detective skills, or the thrilling battle of wits, our collection lets you showcase your love for the series. Shop now and embrace the power of Death Note.
   Updated: 2025-12-06T12:15:46Z
@@ -10930,10 +10930,10 @@
   Updated: 2025-12-16T12:16:32Z
   Total Products: 50
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-12-17T12:15:09Z
-  Total Products: 1069
+  Updated: 2025-12-18T12:16:53Z
+  Total Products: 1067
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
-  Updated: 2025-12-17T12:54:08Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 140
 - [DC](https://theworldofnerds.com/collections/dc): "Dive into the DC Universe with our latest collection of collectibles! Featuring legendary heroes and villains like Batman, Superman, Wonder Woman, The Joker, and more, our lineup includes action figures, Funko Pop! collectibles, keychains, and epic merchandise. Whether you're a fan of the Justice League, Gotham’s dark knights, or the rogues of Metropolis, these high-quality items bring the iconic battles and stories of DC to life. Add your favorite characters to your collection today!" 🦇⚡🔥
   Updated: 2025-12-17T12:22:15Z
@@ -10948,7 +10948,7 @@
   Updated: 2025-11-11T12:13:46Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they sell out!" 🚗✨
-  Updated: 2025-12-17T12:59:29Z
+  Updated: 2025-12-18T12:16:53Z
   Total Products: 546
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
@@ -10957,14 +10957,14 @@
   Updated: 2025-12-09T12:14:51Z
   Total Products: 6
 - [ZD Toys](https://theworldofnerds.com/collections/zd-toys)
-  Updated: 2025-12-17T12:59:29Z
-  Total Products: 70
+  Updated: 2025-12-18T12:25:12Z
+  Total Products: 69
 - [PRE ORDERS](https://theworldofnerds.com/collections/pre-orders)
   Updated: 2025-12-06T12:15:46Z
   Total Products: 17
 - [⚡ ALL ANIME MERCHANDISE ⚔️🔥](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2025-12-17T12:15:09Z
-  Total Products: 508
+  Updated: 2025-12-18T12:16:53Z
+  Total Products: 506
 - [MATCHBOX](https://theworldofnerds.com/collections/matchbox)
   Updated: 2025-12-16T12:21:02Z
   Total Products: 19
@@ -10972,8 +10972,8 @@
   Updated: 2025-12-06T06:28:33Z
   Total Products: 29
 - [FOND JOY](https://theworldofnerds.com/collections/font-joy)
-  Updated: 2025-12-17T12:56:25Z
-  Total Products: 5
+  Updated: 2025-12-18T06:40:20Z
+  Total Products: 6
 
 ## Store Pages
 
