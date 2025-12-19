@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-12-16T00:00:34.701Z
+- Updated At: 2025-12-19T00:00:35.402Z
 
 ## Products
 
@@ -296,7 +296,7 @@
     Availability: Available
     Price: $223.36 AUD
 - [Kids Cap (Ages 1-6) | Barefoot Bandit](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Kids Cap (Ages 1–6) | Barefoot Bandit Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-12-08T03:32:04Z
+  Updated: 2025-12-17T13:57:41Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -308,7 +308,7 @@
     Availability: Available
     Price: $20.00 AUD
 - [Mum Cap Pink | To the Shore Mi Amor](https://compassandcradle.com.au/products/to-the-shore-mi-amor-mum-cap-pink): To the Shore Mi Amor – Mum Cap Add a splash of coastal charm to your everyday style with the To the Shore Mi Amor Mum Cap — a soft, rose-pink mum hat designed for relaxed, beach-loving souls. Made from breathable, acid washed cotton, this comfy cap features our exclusive seaside-inspired design with pastel shells, starfish, and a mermaid tail — capturing the easy, joyful feel of days spent by the shore. Features: 100% premium cotton for a soft, lived-in feel Adjustable strap for a comfortable, custom fit Exclusive “To the Shore Mi Amor” design by Compass & Cradle Durable and lightweight — perfect for sunny days, coastal walks, and casual outings Pair it with your favourite summer outfit or wear it as a go-to accessory for busy days. This mum cap makes a thoughtful gift or a must-have for anyone who loves a touch of ocean-inspired style. ✨ Coming soon: a matching kids’ short and top set with the same charming seaside logo — perfect for creating that adorable mum and mini moment!
-  Updated: 2025-12-05T00:48:11Z
+  Updated: 2025-12-18T08:27:41Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -329,11 +329,11 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cray2.jpg?v=1765541852
   Price: $20.00 AUD
 - [Barefoot Barefoot Bandit Terry Towelling Kids Set – Premium Kids Beach Wear](https://compassandcradle.com.au/products/barefoot-bandit-terry-towelling-set-kids-beach-wear): Shop the Barefoot Terry Towelling Kids Shirt & Shorts Set. Oversized, unisex, and soft kids beach wear set. Matching mums cap available, perfect for summer adventures
-  Updated: 2025-12-13T03:02:07Z
+  Updated: 2025-12-18T13:40:49Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/upclose_pic.jpg?v=1764895948
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/Tezza-1302_57140a8e-f7cf-4739-b8c5-473b8b8a686f.jpg?v=1766022041
   - [0-6 Months](https://compassandcradle.com.au/products/barefoot-bandit-terry-towelling-set-kids-beach-wear?variant=50612106035485)
     Availability: Available
     Price: $65.00 AUD
@@ -578,7 +578,7 @@
     Availability: Available
     Price: $77.00 AUD
 - [Let's Explore Por Favor Lemon Yellow Kids Shirt & Short Set – Premium Kids Beach Wear](https://compassandcradle.com.au/products/lets-explore-por-favor-kids-terry-toweling-shirt-lemon-yellow): Shop the Lets Explore Por Favor Lemon Yellow Terry Towelling Kids Shirt & Shorts Set. Oversized, unisex, and soft, this kids beach wear set. Matching mums cap available, perfect for summer adventures
-  Updated: 2025-12-09T19:06:08Z
+  Updated: 2025-12-18T14:38:46Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -611,7 +611,7 @@
     Availability: Available
     Price: $65.00 AUD
 - [Tantrum Free Near a Palm Tree Kids summer T-shirt Beige](https://compassandcradle.com.au/products/tantrum-free-near-a-palm-tree-summer-t-shirt-beige): Shop the ‘Tantrum Free Near a Palm Tree’ oversized summer kids tshirt. Soft, playful, and perfect for summer adventures.
-  Updated: 2025-12-12T23:06:11Z
+  Updated: 2025-12-18T14:38:46Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -664,11 +664,11 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-12-13T12:23:48Z
+  Updated: 2025-12-18T12:23:20Z
   Total Products: 8
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
-  Updated: 2025-12-13T12:23:48Z
+  Updated: 2025-12-18T12:23:20Z
   Total Products: 5
 - [Beach & Travel Bags](https://compassandcradle.com.au/collections/beach-travel-bags)
   Updated: 2025-12-04T13:51:46Z
@@ -680,7 +680,7 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-11-02T12:22:01Z
   Total Products: 1
 - [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-12-13T12:23:48Z
+  Updated: 2025-12-18T12:23:20Z
   Total Products: 6
 - [Pre Sale| Barefoot Bandit Kids Terry Towelling Set](https://compassandcradle.com.au/collections/pre-sale-barefoot-bandit-kids-terry-towelling-set): Barefoot Bandit Kids Terry Towelling Set Let your little one embrace sunshine, salt air and play in comfort with our Barefoot Bandit Kids Terry Towelling Set — the ultimate everyday outfit for beach days, park hangs and laid-back adventures. Made from soft, absorbent 100% cotton terry towelling, this relaxed-fit set keeps kids cool and comfortable while adding that easy, coastal-Australian charm. Designed for movement and made to last, it’s perfect for post-swim chill time or all-day exploring. Why You’ll Love It Super soft, breathable terry towelling fabric — gentle on sensitive skin Relaxed, unisex fit for easy, carefree movement Signature barefoot bandit logo with wave design on front Ethically made for mindful, everyday wear Durable and easy-care — made to withstand play, wash after wash Perfect For ☀️ Summer adventures🏖️ Beach to backyard days🎁 Everyday comfort or a thoughtful gift Fabric: 100% cotton terry towellingCare: Cold gentle machine wash. Line dry in shade.
   Updated: 2025-12-09T11:33:18Z
@@ -695,10 +695,10 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-12-12T12:21:25Z
   Total Products: 4
 - [New Arrivals](https://compassandcradle.com.au/collections/new-arrivals)
-  Updated: 2025-12-13T12:23:48Z
+  Updated: 2025-12-18T12:23:20Z
   Total Products: 5
 - [AVADA - Best Sellers](https://compassandcradle.com.au/collections/avada-best-sellers)
-  Updated: 2025-12-13T12:23:48Z
+  Updated: 2025-12-18T12:23:20Z
   Total Products: 24
 
 ## Blogs
