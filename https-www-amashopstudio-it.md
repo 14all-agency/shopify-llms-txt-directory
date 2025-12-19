@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-15T00:00:40.426Z
+- Updated At: 2025-12-19T00:00:41.178Z
 
 ## Products
 
@@ -97,7 +97,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/75AF9414-14EB-41E7-B85C-EDF127CE4342.jpg?v=1738316469
   Price: 9,90 € EUR
 - [Tazza "Il mio 1º Natale" personalizzabile con nome](https://www.amashopstudio.it/products/copia-tazza-il-mio-1º-natale-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:13Z
+  Updated: 2025-12-15T04:39:25Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1109,7 +1109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TAZZASTELLINA.jpg?v=1740520925
   Price: 9,90 € EUR
 - [Tazza ' Festa del papà cuori ' puoi personalizzarla con nome](https://www.amashopstudio.it/products/tazza-festa-del-papa-cuori-puoi-personalizzarla-con-nome): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. 🎁 È il REGALO PERFETTO per il tuo PAPA'
-  Updated: 2025-09-17T14:59:32Z
+  Updated: 2025-12-15T09:49:56Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
