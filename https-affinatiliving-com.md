@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-19T00:00:53.832Z
+- Updated At: 2025-12-19T04:00:34.579Z
 
 ## Products
 
@@ -7704,14 +7704,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8167.png?v=1766075605
   Price: $6.95 USD
 - [Bouquet of Roses Mini Candle](https://affinatiliving.com/products/bouquet-of-roses-mini-candle): Mini Bouquet of Roses Candle | 3 oz. Elegant fresh roses with soft musk. Strongly scented and hand-poured with a soy wax blend.
-  Updated: 2025-12-18T18:13:13Z
+  Updated: 2025-12-19T03:59:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8174.png?v=1766075594
   Price: $6.95 USD
 - [Balsam & Fir Mini Candle](https://affinatiliving.com/products/balsam-fir-mini-candle): Mini Balsam & Fir Candle | 3 oz. Crisp pine and cedar blend for a fresh forest aroma. Strong throw and long-lasting burn.
-  Updated: 2025-12-18T18:13:13Z
+  Updated: 2025-12-19T04:00:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
