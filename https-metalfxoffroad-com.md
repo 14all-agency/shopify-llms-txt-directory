@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-08-12T19:25:30Z
 - Contact Email: sales@metalfxoffroad.com
-- Updated At: 2025-12-17T20:19:43.783Z
+- Updated At: 2025-12-19T00:00:39.387Z
 
 ## Products
 
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer6RGlossBlackContrastCut.670.jpg?v=1751302621
     Price: $30.00 USD
 - [Black Spline Drive Lug Nuts + Socket | Metal FX Offroad - Wheel Accessories](https://metalfxoffroad.com/products/spline-lug-nuts): Buy Black Spline Drive Lug Nuts + Socket, Wheel Accessories at Metal FX Offroad.
-  Updated: 2025-12-17T19:38:35Z
+  Updated: 2025-12-18T01:20:02Z
   Vendor: Garden Grove Warehouse
   Product Type: 
   Availability: Available
@@ -2564,38 +2564,32 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x7OutlawRSatinBlackContrastCut.630_f23ef682-d2c5-4507-a074-0d990064ea97.jpg?v=1715978347
   Price: $449.00 USD
 - [Beadlock Hardware Kit | Metal FX Offroad - Wheel Accesories](https://metalfxoffroad.com/products/beadlock-hardware-kits): Buy Beadlock Hardware Kits for Metal FX UTV Wheels at Metal FX Offroad.
-  Updated: 2025-12-08T17:20:11Z
+  Updated: 2025-12-18T18:05:12Z
   Vendor: Garden Grove Warehouse
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/3pcBeadlockHardwareKit-Black.826.jpg?v=1717450403
-  - [10601 | Black | Cast UTV Wheels (Except Assassin) & Forged UTV Monoblocks](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=43880346779700)
+  - [Cast UTV Wheels (Except Assassin) & Forged UTV Monoblocks / Black](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=43880346779700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/BeadlockHardwareKit-Black.824.jpg?v=1717450403
     Price: $30.00 USD
-  - [10602 | Chrome | Cast UTV Wheels (Except Assassin) & Forged UTV Monoblocks](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=43880346812468)
+  - [Cast UTV Wheels (Except Assassin) & Forged UTV Monoblocks / Chrome](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47345658232884)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/BeadlockHardwareKit-Chrome.825.jpg?v=1717450403
     Price: $30.00 USD
-  - [10605 | Stainless | Cast UTV Wheels (Except Assassin) & Forged UTV Monoblocks](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47325700620340)
-    Availability: Available
-    Price: $30.00 USD
-  - [10603 | Black | 15" Forged 3-Piece UTV Wheels](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=43880346845236)
+  - [15" Forged 3-Piece UTV Wheels / Black](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47345658396724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/3pcBeadlockHardwareKit-Black.826.jpg?v=1717450403
     Price: $45.00 USD
-  - [10606 | Chrome | 15" Forged 3-Piece UTV Wheels](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47325700653108)
+  - [15" Forged 3-Piece UTV Wheels / Chrome](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47345658560564)
     Availability: Available
     Price: $45.00 USD
-  - [10607 | Stainless | 15" Forged 3-Piece UTV Wheels](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47325700685876)
-    Availability: Available
-    Price: $45.00 USD
-  - [10604 | Black | 17" Forged 3-Piece UTV Wheels](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=43880346878004)
+  - [17" Forged 3-Piece UTV Wheels / Black](https://metalfxoffroad.com/products/beadlock-hardware-kits?variant=47345658724404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/3pcBeadlockHardwareKit-Black.826.jpg?v=1717450403
     Price: $45.00 USD
 - [Center Cap Hardware Kit | Metal FX Offroad - Wheel Accesories](https://metalfxoffroad.com/products/cap-hardware-kits): Buy Center Cap Hardware Kits for Metal FX UTV Wheels at Metal FX Offroad.
-  Updated: 2025-08-11T21:20:16Z
+  Updated: 2025-12-18T18:07:11Z
   Vendor: Garden Grove Warehouse
   Product Type: 
   Availability: Available
@@ -2611,10 +2605,6 @@ Experience superior handling, unmatched performance and toughness that lasts for
   - [10642 | 6 M6x1 Socket Head Cap Bolts | Forged 5-Lug UTV Wheels with 10302 Cap](https://metalfxoffroad.com/products/cap-hardware-kits?variant=43996281765940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/10642CapHardwareKit.435.jpg?v=1744243734
-    Price: $15.00 USD
-  - [10643 | 8 M6x1 Stainless Hex Cap Bolts | All UTV Wheels (Except Forged 5-Lug with 10302 Cap)](https://metalfxoffroad.com/products/cap-hardware-kits?variant=45980913664052)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/10640CapHardwareKit.434.jpg?v=1744243737
     Price: $15.00 USD
 - [Forged 3-Piece UTV Wheel Replacement Rims | Metal FX Offroad - Wheel Accesories](https://metalfxoffroad.com/products/forged-3-piece-utv-wheel-replacement-rims): Buy Forged 3-Piece UTV Wheel Replacement Rims for Metal FX UTV Wheels at Metal FX Offroad.
   Updated: 2025-07-21T02:31:15Z
@@ -2870,7 +2860,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $999.00 USD
 - [Fang 6R - Forged 3-Piece - Beadlock - Custom | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/fang-6r-forged-3-piece-beadlock): Buy Fang 6R Forged 3-Piece Beadlock Custom UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-05-28T19:07:15Z
+  Updated: 2025-12-18T11:57:23Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4697,10 +4687,10 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-01-20T20:26:27Z
   Total Products: 0
 - [Shop UTV Tires | Metal FX Offroad](https://metalfxoffroad.com/collections/tires): Buy Metal FX Offroad’s UTV Tires for premium quality, durability, and service. For those who demand high-performance and great service.
-  Updated: 2025-11-30T12:11:18Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 32
 - [Accessories](https://metalfxoffroad.com/collections/accessories): Shop Plastic or Aluminum Center Caps, Beadlock Rings, Beadlock Ring Hardware Kits, Black Spline Drive Lug Nuts, and more!
-  Updated: 2025-12-16T12:10:06Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 14
 - [Shop Apparel | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/apparel): Shop Best Selection Of Apparel At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-13T12:10:05Z
@@ -4712,19 +4702,19 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-01-20T20:26:27Z
   Total Products: 0
 - [Shop UTV FORGED / 3-PIECE BEADLOCK | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/forged-3-piece-beadlock): Shop Best Selection Of UTV Forged / 3-piece Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 23
 - [Shop Truck Premium Cast | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/truck-premium-cast): Shop Best Selection Of Truck Premium Cast At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-07-28T16:41:45Z
   Total Products: 5
 - [Shop 5-Lug UTV All | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/r-series): Shop Best Selection Of 5-lug UTV All At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 49
 - [Shop FORGED / 3-PIECE NON-BEADLOCK | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/forged-3-piece-non-beadlock): Shop Best Selection Of Forged / 3-piece Non-beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-01-20T20:26:27Z
   Total Products: 2
 - [Shop Normal | Metal FX Offroad - Best Selection, Best Service.](https://metalfxoffroad.com/collections/normal): Shop Best Selection Of Normal At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 252
 - [Shop FORGED MONOBLOCK / BEADLOCK WHEELS | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/forged-1-piece-beadlock-wheels): Shop Best Selection Of Forged Monoblock / Beadlock Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-04-02T17:48:01Z
@@ -4736,22 +4726,22 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-05-07T23:42:19Z
   Total Products: 7
 - [Shop UTV Wheels | Metal FX Offroad - Free Shipping on Orders of 4 or more Wheels (Exclusions Apply)](https://metalfxoffroad.com/collections/wheels): Metal FX Offroad UTV wheels provide the ultimate combination of  engineering, performance, and head-turning looks. Explore our extensive range of custom forged and cast UTV wheels.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 76
 - [Shop Best Selling Products | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/best-selling-products): Shop Best Selling Products At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 269
 - [Shop Newest Products | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/newest-products): Shop Best Selection Of Newest Products At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 269
 - [Shop 5-Lug UTV Wheels | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/5-lug-utv-wheels): Shop Best Selection Of 5-lug UTV Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 41
 - [Shop 4-Lug UTV Wheels | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/4-lug-utv-wheels): Shop Best Selection Of 4-lug UTV Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-17T17:47:14Z
   Total Products: 29
 - [Shop 5-Lug UTV Forged Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/5-lug-utv-forged-beadlock): Shop Best Selection Of 5-lug UTV Forged Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 20
 - [Shop 5-Lug UTV Cast Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/5-lug-utv-cast-beadlock): Shop Best Selection Of 5-lug UTV Cast Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-13T12:10:05Z
@@ -4814,7 +4804,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-01-20T20:26:29Z
   Total Products: 4
 - [Best Sand UTV Tires | Metal FX Offroad](https://metalfxoffroad.com/collections/sand-tires): Metal FX Offroad selection of Sand UTV tires offer an incredible driving experience and equip your UTV for every terrain challenge. Explore our expert-selected selection.
-  Updated: 2025-11-30T12:11:18Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 7
 - [5-Lug UTV Wheel & Tire Kits - Sand | Metal FX Offroad](https://metalfxoffroad.com/collections/5-lug-utv-wheel-tire-kits-sand): Shop Best Selection Of 5-Lug UTV Wheel & Tire Kits - Sand At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-08T18:20:23Z
@@ -4886,7 +4876,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-17T17:47:16Z
   Total Products: 79
 - [Forged 3-Piece | All](https://metalfxoffroad.com/collections/forged-3-piece-all)
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 34
 - [Forged Monoblock | Beadlock](https://metalfxoffroad.com/collections/forged-monoblock-beadlock)
   Updated: 2025-04-02T17:48:01Z
@@ -4958,7 +4948,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-04-08T19:04:56Z
   Total Products: 3
 - [5-Lug Forged Beadlock Archive](https://metalfxoffroad.com/collections/5-lug-forged-beadlock-archive)
-  Updated: 2025-12-17T19:02:28Z
+  Updated: 2025-12-18T12:10:30Z
   Total Products: 10
 - [5-Lug Forged Non-Beadlock Archive](https://metalfxoffroad.com/collections/5-lug-forged-non-beadlock-archive)
   Updated: 2025-04-08T19:10:07Z
