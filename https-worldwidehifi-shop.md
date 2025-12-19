@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-18T00:00:46.416Z
+- Updated At: 2025-12-19T00:00:46.277Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2398,7 +2398,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T12:23:24Z
   Total Products: 8
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-12-09T17:48:17Z
+  Updated: 2025-12-18T12:27:01Z
   Total Products: 41
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-12-09T17:48:13Z
@@ -2431,7 +2431,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-12-17T19:11:36Z
+  Updated: 2025-12-18T12:27:01Z
   Total Products: 167
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-30T16:53:47Z
