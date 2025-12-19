@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-18T00:00:31.339Z
+- Updated At: 2025-12-19T00:00:31.293Z
 
 ## Products
 
@@ -381,6 +381,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_green_9e8f2529-3482-45fb-a414-62dcedcd477e.jpg?v=1765965205
     Price: $192.82 USD
+- [NVMe M.2 Dual-Bay Offline Clone Hard Drive Enclosure](https://starcopia.com/products/nvme-m-2-dual-bay-offline-clone-hard-drive-enclosure): 【NVMe M.2 Duplicator】 It functions greatly as an Offline NVMe M.2 Duplicator to clone important data between 2 SSDs quickly without a computer, and can be used as a Dual-Bay NVMe Docking Station to help expand storage capacity with One SSD or Two. NOT support SATA ssds. 【One-Key Offline Cloner】 An easy clone, No need to use the comupter. Just plug the two M2.NVME SSDs in and hooked up the power, click the ‘Clone’ button for 3-5 seconds to quickly clone all files from ‘A’ SSD to ‘B’ SSD, there are LED status indicators and the process completed quickly. NOTES: make sure the capacity of target M.2 NVME ssd larger than original M.2 NVME ssd. 【10Gbps High Speed】 USB 3.1 Gen2 hard disk docking station is equipped with C to C cable and C to A cable, giving you more choices. The fastest transmission speed can reach about 1000MB/S with C to C cable and about 500MB/S with C to A cable. At the same time, it supports UASP acceleration protocol which can make your NVME SSDs run more quickly and stably. Support an SSD with capacity up to 8TB. 【Before Purchase】This NVMe duplicator support two M.2 nvme ssds with M and B&M Keys(2230,2242,2260,2280). NOT support SATA ssds. 2.When using the Offline Clone Duplicator, please make sure the capacity of target M.2 NVME ssd larger than original M.2 NVME ssd. 3.When using or duplicating a drive, especially a large one, it's best to use with a cooling fan for better heat dissipation. 【What You Will Get】1*Dual-Bay M.2 NVMe SSD Enclosure, 1*5V/3A power adapter, 1*USB C to USB C cable, 1*USB C to USB A cable, 1*User Manual. 【Size & Weight】Product Size : 6.6 x 12 x 1.5cm ; Product Weight : 0.13KG and Packing Size : 16 x 14 x 5cm ; Packing Weight : 0.47kg. Material : Aluminum alloy
+  Updated: 2025-12-18T09:21:19Z
+  Vendor: starcopia
+  Product Type: Hard Drive Enclosure
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_4a4503b7-6065-4226-93e1-5d030f9c8ffb.jpg?v=1766049469
+  Price: $154.22 USD
 
 ## Collections
 
@@ -403,8 +410,8 @@
   Updated: 2025-12-11T08:21:46Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-12-17T09:59:21Z
-  Total Products: 4
+  Updated: 2025-12-18T09:21:16Z
+  Total Products: 5
 
 ## Store Pages
 
