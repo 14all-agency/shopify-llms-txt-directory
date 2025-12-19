@@ -6,7 +6,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2024-05-20T16:02:27Z
 - Contact Email: bathandbodybg@gmail.com
-- Updated At: 2025-12-18T00:00:26.743Z
+- Updated At: 2025-12-19T00:00:31.397Z
 
 ## Products
 
@@ -616,7 +616,7 @@
 ## Collections
 
 - [За Нея - Bath&Body](https://www.aromashopbg.com/collections/за-нея): - Bath&Body
-  Updated: 2025-12-17T19:35:57Z
+  Updated: 2025-12-18T12:39:43Z
   Total Products: 61
 - [За Него - Bath&Body](https://www.aromashopbg.com/collections/за-него): - Bath&Body
   Updated: 2025-12-17T12:57:18Z
