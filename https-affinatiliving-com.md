@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-19T08:00:34.926Z
+- Updated At: 2025-12-19T12:00:33.421Z
 
 ## Products
 
@@ -9676,6 +9676,24 @@
     Author: Gerard Collins
   - [Tree Hut Lotion vs Aveeno: Moisture, Texture, Scent & Skin Results](https://affinatiliving.com/blogs/debates/tree-hut-lotion-vs-aveeno-moisture-texture-scent-skin-results)
     Updated: 2025-12-16T03:08:10Z
+    Author: Gerard Collins
+  - [Gold Bond Lotion vs Nécessaire: Hydration, Texture & Long-Term Results](https://affinatiliving.com/blogs/debates/gold-bond-lotion-vs-necessaire-hydration-texture-long-term-results)
+    Updated: 2025-12-19T09:37:25Z
+    Author: Gerard Collins
+  - [Gold Bond vs Vaseline Lotion: Real Differences Explained](https://affinatiliving.com/blogs/debates/gold-bond-vs-vaseline-lotion-real-differences-explained)
+    Updated: 2025-12-19T09:47:07Z
+    Author: Gerard Collins
+  - [Gold Bond vs Jergens: Which Lotion Fits Your Daily Routine?](https://affinatiliving.com/blogs/debates/gold-bond-vs-jergens-which-lotion-fits-your-daily-routine)
+    Updated: 2025-12-19T09:44:59Z
+    Author: Gerard Collins
+  - [Gold Bond vs Sol de Janeiro Lotion: Clinical Care or Sensory Luxury?](https://affinatiliving.com/blogs/debates/gold-bond-vs-sol-de-janeiro-lotion-clinical-care-or-sensory-luxury)
+    Updated: 2025-12-19T09:43:04Z
+    Author: Gerard Collins
+  - [Gold Bond vs Cetaphil Lotion: Which One Is Better for Dry Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-cetaphil-lotion-which-one-is-better-for-dry-skin)
+    Updated: 2025-12-19T09:41:23Z
+    Author: Gerard Collins
+  - [Gold Bond vs Aveeno Lotion: Repair vs Daily Moisture Compared](https://affinatiliving.com/blogs/debates/gold-bond-vs-aveeno-lotion-repair-vs-daily-moisture-compared)
+    Updated: 2025-12-19T09:39:24Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
