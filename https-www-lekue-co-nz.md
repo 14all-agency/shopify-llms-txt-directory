@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-12-17T00:00:41.981Z
+- Updated At: 2025-12-19T00:00:44.615Z
 
 ## Products
 
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/Rectangularicecubetraywithlid-Red-8710755882388Lekue_96dpi_1000x1000px_7_NR-33323.png?v=1737412607
   Price: $14.98 NZD
 - [Star Ice Cube Tray, with Lid](https://www.lekue.co.nz/products/star-ice-cube-tray-with-lid): Ready to celebrate your great achievement? Create star-shaped ice cubes with this fun ice cube tray with lid. Features An original touch to your drinks that will surprise your family and friends! These ice cube trays are made of rubber. They're flexible so it's easy and quick to remove the ice cubes. It's effortless: just press on the ice cube mould! It includes a lid that prevents odours from transferring from frozen foods to ice cubes. It also allows you to stack the ice cube trays and other containers, saving storage space. It's stable, so you can move the ice cube tray and position it in the freezer drawers without any water leaks. Recommendations for use: Use these ice cube trays to make ice cubes with water. This prevents contamination from odours and possible damage to the material caused by the acidic components of some foods, such as citrus juices.
-  Updated: 2025-09-17T03:37:55Z
+  Updated: 2025-12-17T13:56:00Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -619,10 +619,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-12-02T12:29:30Z
+  Updated: 2025-12-18T12:21:28Z
   Total Products: 87
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-12-02T12:29:30Z
+  Updated: 2025-12-18T12:21:28Z
   Total Products: 87
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-10-28T11:29:09Z
@@ -649,7 +649,7 @@
   Updated: 2025-10-14T11:22:45Z
   Total Products: 11
 - [Ice & Ice creams](https://www.lekue.co.nz/collections/ice-ice-creams)
-  Updated: 2025-10-17T11:28:05Z
+  Updated: 2025-12-18T12:21:28Z
   Total Products: 18
 - [Kitchen utensils](https://www.lekue.co.nz/collections/kitchen-utensils)
   Updated: 2025-09-23T11:25:38Z
@@ -727,7 +727,7 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-12-02T12:29:30Z
+  Updated: 2025-12-18T12:21:28Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
   Updated: 2025-11-29T12:36:15Z
