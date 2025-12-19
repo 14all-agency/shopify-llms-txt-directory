@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-12-15T00:00:45.669Z
+- Updated At: 2025-12-19T00:00:47.067Z
 
 ## Products
 
@@ -500,12 +500,12 @@
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-09-15090516.png?v=1757920137
   Price: 319,90 € EUR
 - [Bullpadel Hack 04 Comfort 2026](https://www.mypropadelshop.fr/products/hack-04-comfort-2026): Bullpadel Hack 04 Comfort 2026 – Puissance dynamique et précision extrême Une nouvelle édition plus aboutie de la gamme Hack La Bullpadel Hack 04 2026 incarne l’évolution ultime de la gamme emblématique Hack. Conçue pour les joueurs avancés et compétitifs, cette raquette associe puissance explosive, stabilité renforcée et maniabilité optimale. Grâce au concept de puissance dynamique, chaque accélération est transformée en coups explosifs, précis et difficiles à contrer. Résultat : un contrôle absolu pour les joueurs offensifs en quête de performance. Les points forts de la Bullpadel Hack 04 Puissance brute et vitesse de frappe : technologie Air React Channel pour une meilleure pénétration dans l’air et une sortie de balle plus rapide. Confort supérieur : antivibrateurs Ease Vibe absorbant près de 50 % des vibrations. Ajustement personnalisé : système CustomWeight (+22 g possibles) pour modifier l’équilibre et la puissance selon votre style. Zone de frappe optimisée : nouvelle disposition circulaire des trous pour une meilleure tolérance. Effets renforcés : surface 3D Grain rugueuse pour générer plus de spin. Absorption des chocs : système Vibradrive dans le manche pour limiter les vibrations décentrées. Hack 04 vs Hack 04 Comfort Hack 04 (standard) : idéale pour les joueurs avancés recherchant puissance, précision et stabilité. Hack 04 Comfort (CMF) : mélange fibre de verre et carbone pour plus de souplesse, de confort et de tolérance, sans sacrifier l’explosivité. Technologies intégrées Metalshield : protecteur en aluminium ultra-léger pour une meilleure résistance aux chocs. MultiEVA (triple densité) : couches rigides pour maximiser la puissance, couche interne souple pour le confort et la réduction des blessures. CarbonTube : cadre 100 % carbone pour un équilibre parfait puissance/contrôle. Air React Channel : cœur repensé avec quatre bras pour un aérodynamisme, une légèreté et une puissance accrus. Caractéristiques techniques Poids : 360 – 375 g Forme : Diamant (puissance) Équilibre : Haut Noyau : MultiEVA souple et rigide (triple densité) Cadre : Fibre de verre et carbone Surface : Reliefs 3D et finition rugueuse Niveau : Avancé / Compétition Genre : Homme Couleur : Gris Collection : 2026
-  Updated: 2025-11-05T14:22:54Z
+  Updated: 2025-12-17T11:24:23Z
   Vendor: Pro Padel Toulouse
   Product Type: Raquette
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-09-15091100.png?v=1757920465
-  Price: 229,90 € EUR
+  Price: 209,90 € EUR
 - [Bullpadel Neuron 02 Edge 2026](https://www.mypropadelshop.fr/products/bullpadel-neuron-02-edge-2026): Bullpadel Neuron 02 Edge 2026 – Contrôle extrême et précision ultime Une nouvelle génération de contrôle signée Bullpadel La Bullpadel Neuron 02 Edge 2026 est l’évolution la plus avancée de la célèbre gamme Neuron. Conçue pour repousser les limites du contrôle, elle transforme la maîtrise du jeu en précision chirurgicale, grâce à des innovations inédites adoptées par le joueur professionnel Federico Chingotto. Avec son design aérodynamique, son noyau MultiEVA triple densité et son carbone Xtend 3K, la Neuron 02 Edge associe rigidité, stabilité et réactivité pour des frappes fermes, constantes et précises. Une raquette destinée aux joueurs experts et compétitifs qui veulent un contrôle absolu sans sacrifier la puissance. Points forts de la Neuron 02 Edge PrismLock + cœur pentagonal inversé : stabilité maximale et répartition uniforme des forces. Air Power system : cadre allégé et 50 % plus réactif pour une meilleure accélération. Équilibre relevé + cadre élargi : précision accrue dans les frappes rapides. Ease Vibe : amortisseurs intégrés absorbant efficacement les vibrations. CustomWeight : ajout de 3, 6 ou 9 g pour plus de puissance et un équilibre personnalisé. Surface 3D Relief : spin et contrôle des effets renforcés. Grip Hesacore nouvelle génération : ergonomie, confort et réduction des tensions musculaires. Vibradrive : absorption des vibrations même sur frappes décentrées. Technologies intégrées Xtend Carbon 3K : fibres de carbone entrelacées pour rigidité et légèreté. MultiEVA (triple densité) : confort sur balles lentes et fermeté sur frappes rapides. CarbonTube : cadre 100 % carbone garantissant solidité et équilibre puissance/contrôle. Wave System : système d’ondulation assouplissant le cadre pour un meilleur retour d’énergie. Vibradrive : absorption avancée des vibrations pour un confort supérieur. Caractéristiques techniques Forme : Diamant (puissance et précision) Poids : 360 – 375 g Équilibre : Haut Mousse : Dure / Rigide Cadre : Carbone Xtend 3K Surface : Reliefs 3D Niveau : Expert / Compétition Collection : 2026 Couleur : Orange Joueur professionnel : Federico Chingotto
   Updated: 2025-11-24T15:59:18Z
   Vendor: Pro Padel Toulouse
@@ -654,7 +654,7 @@
   Updated: 2025-11-05T11:06:11Z
   Total Products: 0
 - [Raquettes](https://www.mypropadelshop.fr/collections/raquettes): Découvrez notre sélection de raquettes de padel : puissance, précision et confort pour tous les niveaux. Trouvez la raquette idéale parmi les plus grandes marques et améliorez votre jeu dès maintenant.
-  Updated: 2025-12-10T06:11:45Z
+  Updated: 2025-12-17T11:24:24Z
   Total Products: 29
 - [Raquettes Siux](https://www.mypropadelshop.fr/collections/raquettes-siux): Explorez l’univers Siux, marque de référence en padel. Des raquettes alliant technologie, puissance et contrôle pour un jeu explosif et précis. Que vous soyez amateur ou pro, trouvez la Siux qui libérera tout votre potentiel sur le court.
   Updated: 2025-12-07T08:25:41Z
@@ -681,7 +681,7 @@
   Updated: 2025-11-05T11:29:21Z
   Total Products: 3
 - [Raquettes Bullpadel](https://www.mypropadelshop.fr/collections/raquettes-bullpadel): Découvrez les raquettes de padel Bullpadel, référence absolue des joueurs exigeants. Technologie de pointe, puissance explosive et contrôle précis : chaque modèle est conçu pour performer au plus haut niveau. Adoptez l’esprit Bullpadel et dominez le terrain.
-  Updated: 2025-11-24T15:59:19Z
+  Updated: 2025-12-17T11:24:24Z
   Total Products: 4
 - [Collection 2026](https://www.mypropadelshop.fr/collections/collection-2026): Découvrez les raquettes de padel 2026 : puissance, contrôle et innovation réunies dans une nouvelle génération d’équipements. Les plus grandes marques repoussent les limites de la performance et du design pour vous offrir des sensations inédites et une maîtrise totale sur le court.
   Updated: 2025-12-07T08:19:18Z
@@ -702,7 +702,7 @@
   Updated: 2025-12-10T06:11:45Z
   Total Products: 7
 - [Tous les produits](https://www.mypropadelshop.fr/collections/tous-les-produits)
-  Updated: 2025-12-10T06:11:45Z
+  Updated: 2025-12-17T11:24:24Z
   Total Products: 55
 - [Edition Limitée](https://www.mypropadelshop.fr/collections/edition-limitee): Découvrez la collection Édition Limitée : exclusivité, style et performance réunis dans des produits d’exception. Conçus pour les passionnés en quête d’originalité et de technologie haut de gamme, ces modèles rares allient design unique et prestige sportif.
   Updated: 2025-12-07T08:21:00Z
