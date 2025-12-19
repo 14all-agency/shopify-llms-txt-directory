@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2025-12-17T00:00:22.870Z
+- Updated At: 2025-12-19T00:00:24.615Z
 
 ## Products
 
@@ -6981,7 +6981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_17.png?v=1763980378
     Price: 34,99 € EUR
 - [Broken Savings Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/broken-savings-streetwear-oversized-hoodie): Broken Savings Hoodie von WRONGCROW – starkes Street Finance Design im Violet/Cyan Gradient. Premium Qualität für urbanen Style. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:22Z
+  Updated: 2025-12-18T15:25:40Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -7054,7 +7054,7 @@
   Updated: 2025-12-11T12:28:38Z
   Total Products: 12
 - [Street Culture Line](https://www.wrongcrow.com/collections/street-culture-line): Street Culture LineGraffiti. Beats. Beton. WRONGCROW Street Culture Line – Streetwear inspiriert von Urban Art & Hip-Hop.
-  Updated: 2025-12-07T16:33:06Z
+  Updated: 2025-12-17T12:31:36Z
   Total Products: 10
 - [T-Shirt](https://www.wrongcrow.com/collections/t-shirt): ESSENTIALS TEE Logo. Haltung. Keine Spielereien.Dein tägliches Statement – ganz ohne Backprint.
   Updated: 2025-12-07T16:33:06Z
@@ -7066,10 +7066,10 @@
   Updated: 2025-12-07T16:33:06Z
   Total Products: 9
 - [Alle Produkte](https://www.wrongcrow.com/collections/alle-produkte)
-  Updated: 2025-12-11T12:28:38Z
+  Updated: 2025-12-17T12:31:36Z
   Total Products: 134
 - [Kollektionen](https://www.wrongcrow.com/collections/kollektionen)
-  Updated: 2025-12-11T12:28:38Z
+  Updated: 2025-12-17T12:31:36Z
   Total Products: 56
 - [NEU](https://www.wrongcrow.com/collections/neu)
   Updated: 2025-12-07T16:33:07Z
@@ -7141,7 +7141,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.wrongcrow.com/policies/privacy-policy)
-  Updated: 2025-12-16T03:47:33+01:00
+  Updated: 2025-12-17T03:32:14+01:00
 - [Shipping Policy](https://www.wrongcrow.com/policies/shipping-policy)
   Updated: 2025-06-11T17:45:48+02:00
 - [Refund Policy](https://www.wrongcrow.com/policies/refund-policy)
