@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-18T20:00:38.036Z
+- Updated At: 2025-12-19T00:00:58.611Z
 
 ## Products
 
@@ -427,7 +427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/krooked-completes-blue-7-75-krooked-team-sweatpants-md-complete-skateboard-7-75-1183727017.jpg?v=1757388846
   Price: £89.95 GBP
 - [Polar Skate Co Big Boy Jeans | Dark Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue): Buy the Polar Big Boys Jeans in Dark Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-11T08:41:13Z
+  Updated: 2025-12-18T20:39:03Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -442,7 +442,7 @@
     Availability: Not Available
     Price: £89.95 GBP
   - [Small](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue?variant=48316907979087)
-    Availability: Available
+    Availability: Not Available
     Price: £89.95 GBP
   - [Small Tall](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue?variant=56003315040591)
     Availability: Not Available
@@ -1475,18 +1475,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-robe-pink-one-size-srf-dry-microfibre-changing-robe-unisex-quick-dry-hooded-poncho-pink-1183719318.png?v=1757243539
   Price: £24.95 GBP
-- [SRF DRY Premium Long Sleeve Waterproof Changing Robe Unisex | Polar Edition Red](https://thevinessupply.co/products/srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-vivid-red): The Premium Edition of our best selling Polar SRF DRY® Changing Robe is designed to keep you even warmer and dryer in the harshest of environments. Highly waterproof & windproof, the improved thick sherpa fleece lining, two way zip & oversized fit allows you to change out of wet clothes on the go whilst being protected from the elements. Features: Our premium SRF-TEK outer material with a super waterproof 15000mm water column Premium warm & soft sherpa lining Critical taped seams for improved water-proofing 1250g weight Thick, Sherpa-fleece lining which draws the water away from your skin, drying you quickly while insulating you and making you feel warmer. Minimal styling, including embroidered SRFDRY logo on rear right shoulder Large, anatomical fit fleece lined hood Suitable for September - May use, in cold and wet conditions 80% Polyester Fibre & 20% Polyamide water resistant outer Long sleeves with adjustable cuffs Water and wind resistant shell Full length two way YKK zip entry with zip-pulls for easy changing Larger internal zip poacher/media pocket Two large side zip up pockets Great value Dryrobe Advance alternative Sizing: Small - 104cm (L) x 75cm (W): Recommended for anyone 5'0" to 5'8" Medium - 108cm (L) x 75cm (W): Recommended for anyone 5'3" to 5'11" Large - 112cm (L) x 80cm (W): Recommended for anyone 5'7" to 6'3"
-  Updated: 2025-12-11T08:35:36Z
-  Vendor: SRF DRY
-  Product Type: Changing Robe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-robe-srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-vivid-red-1183719301.png?v=1757243291
-  - [Red / Medium](https://thevinessupply.co/products/srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-vivid-red?variant=49195034083663)
-    Availability: Not Available
-    Price: £54.95 GBP
-  - [Red / Large](https://thevinessupply.co/products/srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-vivid-red?variant=49195034116431)
-    Availability: Available
-    Price: £54.95 GBP
 - [SRF DRY Premium Long Sleeve Waterproof Changing Robe Mens | Polar Edition | Cobalt Blue](https://thevinessupply.co/products/srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-cobalt-blue): The Premium Edition of our best selling Polar SRF DRY® Changing Robe is designed to keep you even warmer and dryer in the harshest of environments. Highly waterproof & windproof, the improved thick sherpa fleece lining, two way zip & oversized fit allows you to change out of wet clothes on the go whilst being protected from the elements. Features: Our premium SRF-TEK outer material with a super waterproof 15000mm water column Premium warm & soft sherpa lining Critical taped seams for improved water-proofing 1250g weight Thick, Sherpa-fleece lining which draws the water away from your skin, drying you quickly while insulating you and making you feel warmer. Minimal styling, including embroidered SRFDRY logo on rear right shoulder Large, anatomical fit fleece lined hood Suitable for September - May use, in cold and wet conditions 80% Polyester Fibre & 20% Polyamide water resistant outer Long sleeves with adjustable cuffs Water and wind resistant shell Full length two way YKK zip entry with zip-pulls for easy changing Larger internal zip poacher/media pocket Two large side zip up pockets Great value Dryrobe Advance alternative Sizing: Small - 104cm (L) x 75cm (W): Recommended for anyone 5'0" to 5'8" Medium - 108cm (L) x 75cm (W): Recommended for anyone 5'3" to 5'11" Large - 112cm (L) x 80cm (W): Recommended for anyone 5'7" to 6'3"
   Updated: 2025-09-06T10:33:15Z
   Vendor: SRF DRY
@@ -3876,7 +3864,7 @@
     Availability: Available
     Price: £104.95 GBP
 - [Dime MTL Classic Decoy T-Shirt | White](https://thevinessupply.co/products/dime-mtl-classic-decoy-t-shirt-white): Buy the Dime MTL Classic Decoy T-Shirt in White at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
-  Updated: 2025-12-15T12:45:03Z
+  Updated: 2025-12-18T23:56:31Z
   Vendor: Dime MTL
   Product Type: Tees
   Availability: Available
@@ -4078,7 +4066,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-beanies-dime-mtl-cursive-fold-beanie-coffee-1192379946.png?v=1757613375
   Price: £34.95 GBP
 - [Dime MTL Classic Leather Wallet | Black & Cherry](https://thevinessupply.co/products/dime-mtl-classic-leather-wallet-black-cherry): Buy The Dime MTL Classic Leather Wallet in Black & Cherry at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-30T08:29:15Z
+  Updated: 2025-12-18T23:56:31Z
   Vendor: Dime MTL
   Product Type: Wallets
   Availability: Available
@@ -7043,8 +7031,8 @@
   Updated: 2025-12-17T12:24:32Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-18T14:20:48Z
-  Total Products: 5739
+  Updated: 2025-12-18T22:36:49Z
+  Total Products: 5738
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 68
@@ -7307,8 +7295,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-18T14:20:48Z
-  Total Products: 3236
+  Updated: 2025-12-18T22:36:49Z
+  Total Products: 3235
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-16T12:25:00Z
   Total Products: 110
