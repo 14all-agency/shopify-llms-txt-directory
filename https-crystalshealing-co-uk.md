@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-12-16T00:00:36.393Z
+- Updated At: 2025-12-20T00:00:37.691Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -993,7 +993,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_2_-min_e397ae45-d110-4f84-a6d0-122774c38941.jpg?v=1739737618
     Price: £27.00 GBP
 - [Raw Kyanite Necklace - Clarity & Spiritual Alignment](https://crystalshealing.co.uk/products/blue-kyanite-necklace): Embrace focus and balance with the Raw Kyanite Necklace, a natural stone piece that promotes clarity, communication, and spiritual alignment.
-  Updated: 2025-12-15T07:48:41Z
+  Updated: 2025-12-18T00:54:19Z
   Vendor: Crystals Healing
   Product Type: Necklaces
   Availability: Available
@@ -1835,7 +1835,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/IMG_20200716_140554-PhotoRoom_8.jpg?v=1739738366
   Price: £17.00 GBP
 - [Gemini Zodiac Bracelet - Communication & Balance](https://crystalshealing.co.uk/products/gemini-zodiac-bracelet): Celebrate your Gemini energy with the Gemini Zodiac Bracelet, designed to enhance adaptability, clarity, and harmonious self-expression.
-  Updated: 2025-12-15T07:50:20Z
+  Updated: 2025-12-19T20:10:31Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -2051,7 +2051,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_17_d25ce06b-a262-4f0d-97a1-1216624797be.jpg?v=1739738492
     Price: £26.00 GBP
 - [Capricorn Zodiac Bracelet - Strength & Ambition](https://crystalshealing.co.uk/products/capricorn-zodiac-bracelet): Celebrate your Capricorn energy with the Capricorn Zodiac Bracelet, crafted to enhance determination, resilience, and grounded ambition.
-  Updated: 2025-12-15T07:50:41Z
+  Updated: 2025-12-19T20:10:30Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -2448,7 +2448,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_10_680d99cf-1f57-4850-bc5b-b02b7fb69d01.jpg?v=1739774615
     Price: £15.90 GBP
 - [Rose Quartz Angel – Crystal of Love, Healing & Protection](https://crystalshealing.co.uk/products/rose-quartz-angel): Embrace the loving energy of the divine with this beautifully carved Rose Quartz Angel – a gentle symbol of compassion, comfort, and emotional healing. Handcrafted from natural rose quartz and infused with Reiki energy, this angel serves as a powerful reminder to open your heart and live with love. Known as the stone of unconditional love, the Rose Quartz Angel radiates soft, nurturing vibrations that help to heal emotional wounds, encourage forgiveness, and attract harmonious energy. Place it on your altar, keep it close during meditation, or gift it to someone who needs a little extra love and light. ✨ Key Features: Size: Small 2 – 2.5 cm and Medium 4 cm (approx.) Hand-carved from genuine rose quartz Reiki-charged for enhanced emotional healing Supports heart chakra healing, self-love & harmony A meaningful gift of comfort and care 📦 Please Note: Price is for one Rose Quartz Angel Each angel is unique – natural inclusions, small marks, or slight variations may be present You may receive an angel slightly different from the one pictured Let this Rose Quartz Angel be your guide in moments of stillness, love, and emotional renewal.
-  Updated: 2025-12-15T07:51:28Z
+  Updated: 2025-12-16T09:53:02Z
   Vendor: Crystals Healing
   Product Type: Carved Figurines
   Availability: Available
@@ -2946,7 +2946,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Availability: Available
     Price: £27.00 GBP
 - [Gemstone Facial Roller Ball Bottle](https://crystalshealing.co.uk/products/roller-ball): Unleash the Power of Crystals with our 10ml Crystal Roller Ball Elevate your personal care routine with our Crystal Roller Ball. This unique product comes with an empty 10ml roller ball bottle, ready to be filled with your choice of essential oils, perfume, lip gloss, or even your favourite eye serum. What sets our roller ball apart is the genuine crystal roller ball. As you use the roller ball, your chosen liquid will be infused with the metaphysical energy of the crystals, adding a touch of magic to your daily routine. The roller ball bottle is made of clear glass, allowing you to appreciate the beauty of the essence oil or the gemstones within. The lid is crafted from sustainable bamboo, adding an eco-friendly touch to this stylish product. But the beauty doesn’t stop there. Each roller ball comes with a decorative top made from gorgeous gemstones, enhanced with a double wraparound engraving for a trendy twist. Our Crystal Roller Ball is travel-friendly. Its mini 10ml size is perfect for on-the-go use. Enjoy the benefits of aromatherapy anywhere, anytime. To prolong the shelf life of your homemade essential oil blends, our roller balls are filled with tumbled gemstone chips. These gemstones not only add visual appeal but also prevent your DIY oily mixtures from separating. These roller balls are ideal for packaging essential oil blends for aromatherapy, holistic healing, and natural skincare. They’re easy to use and conveniently refillable. Important Notice: Our crystals are of 100% gemstone quality. The crystals included are Tiger’s Eye, Red Jasper, Lapis Lazuli, Fluorite, Amethyst, Clear Quartz, Green Aventurine, Sodalite, Black Obsidian, and Rose Quartz. Experience the power of crystals with our Crystal Roller Ball. Level up your personal care products today!
-  Updated: 2025-12-15T07:52:20Z
+  Updated: 2025-12-16T09:53:03Z
   Vendor: Crystals Healing
   Product Type: Roll on
   Availability: Available
@@ -2971,7 +2971,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Availability: Available
     Price: £7.15 GBP
   - [Lapis](https://crystalshealing.co.uk/products/roller-ball?variant=43565655720161)
-    Availability: Available
+    Availability: Not Available
     Price: £7.15 GBP
   - [Rose Quartz](https://crystalshealing.co.uk/products/roller-ball?variant=43565655752929)
     Availability: Available
@@ -3160,7 +3160,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/PhotoRoom-20230404_17.jpg?v=1739771225
     Price: £27.00 GBP
 - [Bracelet for Men - Balance Your Energy & Strength](https://crystalshealing.co.uk/products/bracelet-for-men-balance-and-positive-energy): Achieve focus and inner balance with this Bracelet for Men, designed to ground energy, boost confidence, and support daily well-being.
-  Updated: 2025-12-15T07:52:41Z
+  Updated: 2025-12-19T20:10:32Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3529,235 +3529,235 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 ## Collections
 
 - [Smudging Kits](https://crystalshealing.co.uk/collections/smudging-kits): Cleanse your space and energy with curated smudging kits. Featuring sage, palo santo, Selenite, crystals & shells — perfect for spiritual rituals, home clearing, or meaningful self-care. Ethically & respectfully sourced.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:11Z
   Total Products: 10
 - [Crystal Pendulums](https://crystalshealing.co.uk/collections/pendulums): Discover crystal pendulums for energy work, divination and spiritual guidance. Ethically made using natural stones – ideal for rituals, healing and intention.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:11Z
   Total Products: 9
 - [Gift Cards](https://crystalshealing.co.uk/collections/gift-cards): Unsure what crystal to gift? Let them choose their energy with a Crystal Healing Gift Card. Delivered instantly by email — perfect for birthdays, rituals, or intentional gifting.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:11Z
   Total Products: 1
 - [Aventurine Crystals](https://crystalshealing.co.uk/collections/aventurine-crystals): Invite prosperity and emotional healing with Aventurine crystals. Known as the “Stone of Opportunity”, Aventurine supports abundance, heart balance and growth. Shop tumbled stones, jewelry and intention sets to align with success and well-being.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 7
 - [Crystal Accessories](https://crystalshealing.co.uk/collections/crystal-accessories): Explore unique crystal accessories made for everyday energy. From keychains and charms to ritual tools and pouches — each piece is crafted with purpose, beauty and ethical intention.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 18
 - [Crystal Necklaces](https://crystalshealing.co.uk/collections/necklaces): Explore our crystal necklaces – handmade, ethically sourced, and charged with healing energy. Find the perfect piece for love, clarity, protection or intention.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 50
 - [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 178
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 12
 - [Leather Bracelets](https://crystalshealing.co.uk/collections/leather-bracelets): Handcrafted leather bracelets infused with natural crystal energy. Earthy, bold and grounding — perfect for layering or daily wear. Featuring Black Obsidian, Tiger Eye, Hematite and more. Style with intention.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 5
 - [Amethyst Crystals](https://crystalshealing.co.uk/collections/amethyst-crystals): Each piece is crafted with care and carries the natural energy of amethyst. Learn more about its meaning and benefits here.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 32
 - [Spa Crystal Sets](https://crystalshealing.co.uk/collections/spa-crystal-sets): Transform your self-care with crystal spa sets. Each bundle blends healing stones, oils, tools or salts — designed to soothe your body, calm your mind, and elevate your ritual with energy and intention.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 13
 - [Citrine crystals](https://crystalshealing.co.uk/collections/citrine-crystals): Bright and energizing, Citrine crystals are known for joy, abundance, and manifestation. Shop tumbled stones, rings, bracelets & pendants – ethically sourced and charged with purpose.
-  Updated: 2025-12-14T15:22:43Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 11
 - [Chakra Crystals](https://crystalshealing.co.uk/collections/chakra-crystals): Balance your energy with chakra crystals, bracelets, and keychains. From Root to Crown, each ethically sourced piece is made to support healing, alignment, and inner clarity.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 49
 - [Aromatherapy Crystals](https://crystalshealing.co.uk/collections/aromatherapy): Combine the power of scent and stone. Our aromatherapy crystals and diffuser jewelry are crafted to enhance relaxation, focus, and energetic balance - ethically made with intention.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 28
 - [Birthstone Bracelets](https://crystalshealing.co.uk/collections/birthstone-bracelets): Celebrate your birth month with our healing birthstone bracelets. Each piece is infused with the energy of its matching crystal — from Garnet in January to Turquoise in December. Beautiful, meaningful and perfect for gifting or intention-setting.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 25
 - [Silver Bracelets](https://crystalshealing.co.uk/collections/silver-bracelets): Discover our silver bracelets collection — blending timeless elegance with crystal energy. Featuring minimalist sterling silver designs with stones like Moonstone, Amethyst or Rose Quartz for beauty and intention in every piece.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 18
 - [Pi Xiu Crystal Jewellery](https://crystalshealing.co.uk/collections/pi-xiu-crystal-jewellery): Wear protection and attract wealth with Pi Xiu crystal jewellery. Handcrafted bracelets and amulets combining powerful stones like Black Obsidian and Citrine — designed to guard your energy and amplify prosperity.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:12Z
   Total Products: 13
 - [Crystal Kits](https://crystalshealing.co.uk/collections/crystal-kits): Explore our crystal kits designed for love, protection, abundance, and self-care. Each set includes hand-selected stones and guidance to support your energy rituals. Ideal for beginners and intentional gifting.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 27
 - [Friendship Bracelets](https://crystalshealing.co.uk/collections/friendship-bracelets): Celebrate meaningful bonds with crystal friendship bracelets. Crafted with stones for love, loyalty & connection — like Rose Quartz, Lapis Lazuli & Moonstone — these pieces carry energy, intention and lasting memories.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 5
 - [Men Crystal Jewellery](https://crystalshealing.co.uk/collections/men-crystal-jewellery): Men crystal jewellery with purpose – handcrafted to support grounding, confidence, and spiritual focus. Clean design. Strong energy.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 53
 - [Carved Crystals](https://crystalshealing.co.uk/collections/carved-crystals): Discover carved crystals that unite sacred symbolism with healing energy. From hearts and angels to spheres and palm stones - each piece is ethically hand-carved for beauty and intention.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 15
 - [Women's Crystal Jewellery](https://crystalshealing.co.uk/collections/womens-crystal-jewellery): Embrace feminine energy with crystal jewellery made for women. Explore handcrafted bracelets, necklaces & rings with stones like Rose Quartz, Amethyst & Moonstone — for love, intuition, balance & self-worth.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 229
 - [Manifest Intention Jewelry](https://crystalshealing.co.uk/collections/manifest-intention): Wear your intentions with purpose. Our crystal jewelry is designed to support manifestation, clarity, and alignment - featuring Citrine, Clear Quartz, and other high-vibration stones.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 57
 - [Moonstone Crystals](https://crystalshealing.co.uk/collections/moonstone-crystals): Connect to feminine energy and intuition with Moonstone crystals. Explore raw stones, tumbled pieces, bracelets and pendants — perfect for new beginnings, inner balance, and emotional healing.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 9
 - [Healing Crystals | Crystals Healing UK](https://crystalshealing.co.uk/collections/healing-crystals): Browse healing crystals and stones in the UK: amethyst, rose quartz, citrine, selenite, tourmaline, tumblestones and crystal kits. Free UK delivery available.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 43
 - [Sale | Crystals Healing UK](https://crystalshealing.co.uk/collections/sale): Limited time offers on crystal jewellery, gifts and wellness tools. Browse discounted items while stocks last. Free UK delivery available.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 77
 - [Crystal Earrings](https://crystalshealing.co.uk/collections/crystal-earrings): Elevate your energy with crystal earrings. From minimalist studs to elegant drops — handcrafted pieces with Amethyst, Citrine, Rose Quartz & more. Stylish, intentional, and ethically made.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 2
 - [Crystal Keychains](https://crystalshealing.co.uk/collections/crystal-keychains): Carry crystal energy wherever you go. Our ethically crafted keychains feature Amethyst, Obsidian, Citrine & more — perfect for intention, grounding & gifting on-the-go.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 13
 - [Rose Quartz Crystals](https://crystalshealing.co.uk/collections/rose-quartz-crystals): Rose Quartz crystals radiate love, compassion, and emotional healing. Explore tumbled stones, bracelets, pendants & rings – all ethically crafted for heart-centered energy.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 33
 - [Tiger Eye Crystals](https://crystalshealing.co.uk/collections/tiger-eye-crystals): Discover the power of Tiger Eye crystals – known for courage, grounding, and protection. Explore jewelry, tumbled stones, and spiritual tools handcrafted ethically.
-  Updated: 2025-12-14T15:22:44Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 21
 - [Protection Crystal Jewelry](https://crystalshealing.co.uk/collections/protection): Discover crystal jewelry crafted for energetic protection. Explore bracelets, necklaces & rings made with Black Tourmaline, Obsidian, Amethyst & more - ethically sourced and intention-infused.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:13Z
   Total Products: 38
 - [Howlite Crystals](https://crystalshealing.co.uk/collections/howlite-crystals): Embrace calm and clarity with Howlite crystals. Known for easing anxiety, improving sleep and soothing an overactive mind. Explore tumbled stones, bracelets and tools for peaceful energy and spiritual stillness.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 11
 - [Zodiac Bracelets](https://crystalshealing.co.uk/collections/zodiac-bracelets): Align your energy with the stars. Our zodiac bracelets combine healing crystals with astrological wisdom — uniquely crafted for each zodiac sign. Wear your sign with intention or gift a personalised piece full of meaning.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 12
 - [Apatite Crystals](https://crystalshealing.co.uk/collections/apatite-crystals): Boost mental clarity and focus with Apatite crystals. Known for activating the Third Eye and Throat chakras, Apatite supports motivation, communication and goal-setting. Discover tumbled stones, raw pieces and crystal jewelry.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 3
 - [Sunstone Crystals](https://crystalshealing.co.uk/collections/sunstone-crystals): Ignite joy and confidence with Sunstone crystals. These radiant stones activate personal power, leadership and positivity. Explore tumbled pieces, raw Sunstone, bracelets and pendants for solar energy and empowerment.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 3
 - [Carnelian Crystals](https://crystalshealing.co.uk/collections/carnelian-crystals): Ignite your energy with Carnelian crystals — known for boosting vitality, creativity and inner courage. A powerful stone for the sacral chakra and manifestation rituals. Shop tumbled stones, crystal jewelry and sacred energy tools.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 10
 - [Prehnite Crystals](https://crystalshealing.co.uk/collections/prehnite-crystals): Embrace emotional healing and spiritual connection with Prehnite crystals. Known for calming the heart and enhancing intuition, these soothing green stones are perfect for self-love rituals and inner peace. Explore tumbles, jewelry and raw pieces.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 4
 - [Black Onyx Crystals](https://crystalshealing.co.uk/collections/black-onyx-crystals): Discover the grounding and protective power of Black Onyx. From raw stones to bracelets and keychains, each piece supports focus, strength, and emotional balance — ethically sourced for everyday resilience.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 10
 - [Healing Stones & Crystal Sets | Crystals Healing UK](https://crystalshealing.co.uk/collections/healing-stones): Healing stones, crystal sets and decor pieces for meditation and gifting. Explore tumblestones, kits and zodiac sets with Free UK delivery available.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 55
 - [Agate Crystals](https://crystalshealing.co.uk/collections/agate-crystals): Ground your energy with Agate crystals — known for emotional stability, mental clarity and gentle protection. Explore a variety of natural agate forms, from tumbled stones and jewelry to unique display pieces for your sacred space.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 12
 - [Sodalite Crystals](https://crystalshealing.co.uk/collections/sodalite-crystals): Explore our Sodalite crystals and jewelry – known for clarity, truth, and emotional harmony. Shop tumbled stones, bracelets, and pendants handcrafted ethically.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 7
 - [Lapis Lazuli Crystals](https://crystalshealing.co.uk/collections/lapis-lazuli-crystals): Channel inner truth and wisdom with Lapis Lazuli crystals. Explore deep-blue tumbled stones, raw pieces, bracelets & pendants — ideal for activating the Third Eye, enhancing self-expression, and fostering clarity.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 8
 - [Jasper Crystals](https://crystalshealing.co.uk/collections/jasper-crystals): Discover the nurturing and protective energy of Jasper crystals. Known as the “Supreme Nurturer”, Jasper offers grounding, strength, and emotional stability. Shop tumbled stones, bracelets, and spiritual tools in Red, Ocean, Picture Jasper & more.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 6
 - [Salt Bath Sets](https://crystalshealing.co.uk/collections/salt-bath-sets): Soak away stress and rebalance your energy with crystal-infused salt bath sets. Blended with Himalayan or Epsom salts and paired with crystals like Amethyst or Rose Quartz for deep relaxation, detox and energetic cleansing.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 7
 - [Angelite Crystals](https://crystalshealing.co.uk/collections/angelite-crystals): Connect with peace, calm and angelic guidance through Angelite crystals. Gentle blue stones that support clear communication, inner stillness and spiritual protection. Explore bracelets, tumbles and jewelry with soft, soothing energy.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 1
 - [Amazonite Crystals](https://crystalshealing.co.uk/collections/amazonite-crystals): Find emotional balance and speak your truth with Amazonite crystals. Known for soothing anxiety and empowering communication, these teal-green stones align heart and throat chakras. Explore tumbled stones, crystal jewelry and intention tools.
-  Updated: 2025-12-14T15:22:45Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 5
 - [Opal Crystals](https://crystalshealing.co.uk/collections/opal-crystals): Opal crystals shimmer with emotional depth and spiritual light. Known for enhancing intuition, creativity and divine connection, Opal supports gentle transformation. Shop tumbled stones, crystal jewelry and high-vibration energy tools.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:14Z
   Total Products: 3
 - [Jade Crystals](https://crystalshealing.co.uk/collections/jade-crystals): Invite abundance and calm with Jade crystals. Explore tumbled stones, bracelets, Gua Sha tools & carved pieces — all ethically sourced to support prosperity, protection and heart-centered energy.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 5
 - [Crystal Candles](https://crystalshealing.co.uk/collections/crystal-candles): Infuse your space with light and energy. Our crystal candles are hand-poured with natural wax and topped with healing stones like Rose Quartz, Amethyst & Citrine — made for intention, ritual and calm.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 6
 - [Jewellery Sets](https://crystalshealing.co.uk/collections/jewellery-sets): Explore crystal jewellery sets designed to harmonise energy and style. Featuring matching bracelets, necklaces & earrings — crafted with healing stones like Rose Quartz, Citrine, Amethyst & more. Perfect for gifting or intentional wear.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 27
 - [Handmade Crystal Jewellery | Healing Intention](https://crystalshealing.co.uk/collections/handmade-jewellery): Handmade crystal jewellery crafted with intention, designed for everyday wear and gifting. Explore a small curated edit for balance, protection and love.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 10
 - [Valentine’s Day Crystals](https://crystalshealing.co.uk/collections/valentines-day-crystals): Celebrate love with crystals and jewelry made for connection, romance, and self-love. Discover heart-centered gifts crafted from Rose Quartz, Rhodonite, and Garnet.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 129
 - [Chakra Crystal Sets](https://crystalshealing.co.uk/collections/chakra-crystal-sets): Realign and recharge with chakra crystal sets. Each kit includes 7 energy-aligned stones selected to support the root to crown chakras. Perfect for meditation, reiki, yoga or spiritual rituals — comes with pouch & chakra card.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 11
 - [Chakra Bracelets](https://crystalshealing.co.uk/collections/chakra-bracelets): Explore chakra bracelets handcrafted with natural crystals for balance, alignment, and energy flow. Wear daily to support your mind, body, and spiritual well-being.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 22
 - [Gua Sha](https://crystalshealing.co.uk/collections/gua-sha): Elevate your skincare and energy rituals with crystal Gua Sha tools. Ethically crafted from Rose Quartz, Jade, Amethyst & more – for glow, circulation & energetic flow.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 19
 - [Crystal Skin Care](https://crystalshealing.co.uk/collections/skin-care): Elevate your skincare ritual with crystal tools. Discover Gua Sha, facial rollers & massage wands handcrafted from healing stones like Rose Quartz, Jade, and Amethyst — for beauty with energetic purpose.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 11
 - [Crystal Grids](https://crystalshealing.co.uk/collections/crystal-grids): Explore crystal grids designed for love, abundance, protection & serenity. Framed and intuitively arranged with healing crystals to amplify intentions and elevate your spiritual practice. Ready to activate.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 13
 - [Crystal Pouches](https://crystalshealing.co.uk/collections/crystal-pouches): Carry intention with you using crystal pouches. Each set combines hand-picked stones — for love, protection, abundance or clarity — in soft pouches for daily rituals, travel or thoughtful gifts.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 4
 - [Crystal Gifts & Sets | Crystals Healing UK](https://crystalshealing.co.uk/collections/crystal-gifts): Curated crystal gifts, sets and zodiac picks, including carved pieces and chakra spheres. Browse gift ready bundles with Free UK delivery available.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 36
 - [Crystal Jewelry | Crystals Healing UK](https://crystalshealing.co.uk/collections/crystal-jewelry): Handcrafted crystal jewellery for intention & everyday wear. Browse bracelets, necklaces and rings, including gifts for women & men. Free UK delivery available
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 131
 - [Worry Stones](https://crystalshealing.co.uk/collections/worry-stones): Ease anxiety and invite calm with crystal worry stones. Smooth, polished and designed for gentle touch — perfect for pockets, meditation or on-the-go stress relief. Choose your stone by energy: Amethyst, Rose Quartz, Black Obsidian & more.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:15Z
   Total Products: 7
 - [Cat Eye Crystals](https://crystalshealing.co.uk/collections/cat-eye-crystals): Explore Cat Eye crystals and jewelry — stones with a silky, light-reflective glow. From natural Cat Eye Quartz to vibrant glass-based designs, each piece radiates focus, confidence, and visual magnetism.
-  Updated: 2025-12-14T15:22:46Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 5
 - [Bracelet Sets](https://crystalshealing.co.uk/collections/bracelet-sets): Stack intention and beauty with crystal bracelet sets. Curated combinations of healing stones — for love, protection, clarity, abundance & balance — ideal for layering, gifting or energy alignment.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 3
 - [Black Obsidian Crystals](https://crystalshealing.co.uk/collections/black-obsidian-crystals): Black Obsidian offers powerful protection, grounding, and energetic cleansing. Shop tumbled stones, bracelets, pendants & rings – ethically sourced for daily strength and clarity.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 17
 - [Crystal Rings](https://crystalshealing.co.uk/collections/crystal-rings): Adorn your fingers with intention. Our crystal rings combine healing energy with elegant design — featuring Rose Quartz, Amethyst, Moonstone & more. Ethically handmade to align beauty with purpose.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 3
 - [Aquamarine Crystals](https://crystalshealing.co.uk/collections/aquamarine-crystals): Flow with calm and clarity using Aquamarine crystals. This oceanic stone soothes anxiety, supports clear communication and aligns the throat chakra. Explore tumbled stones, raw pieces and calming crystal jewelry for spiritual expression.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 10
 - [Intention Bracelets](https://crystalshealing.co.uk/collections/intention-bracelets): Set your goals in motion with intention bracelets. Handmade using healing crystals like Citrine, Amethyst, and Rose Quartz — each piece supports clarity, love, protection or abundance.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 30
 - [Selenite Crystals](https://crystalshealing.co.uk/collections/selenite-crystals): Discover the purifying power of Selenite crystals. Explore charging plates, wands, towers & jewelry — ideal for cleansing energy, protecting your aura, and amplifying spiritual clarity. Ethically sourced.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 22
 - [Polished Tumblestone](https://crystalshealing.co.uk/collections/polished-tumblestone): Explore our ethically sourced tumbled stones - polished to perfection for easy use in rituals, crystal grids, carrying or gifting. Choose by intention, chakra or energy need.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 32
 - [Clear Quartz Crystals](https://crystalshealing.co.uk/collections/clear-quartz-crystals): Explore the amplifying power of Clear Quartz crystals — raw stones, tumbled pieces, jewelry & wands. Known as the “Master Healer,” Clear Quartz supports clarity, intention setting & energy alignment.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 9
 - [All Crystal Products | Crystals Healing UK](https://crystalshealing.co.uk/collections/all): Browse all crystals, jewellery and wellness tools in one place. New arrivals, bestsellers, sets and gifts with UK delivery. Free UK delivery available.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 377
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 1
 - [Crystal Bowls](https://crystalshealing.co.uk/collections/crystal-bowls): Discover crystal bowls for deep sound healing and chakra work. Perfect for meditation, energy alignment and rituals. Quartz bowls available in single tones or complete chakra sets.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 0
 - [Crystal Massage Tools](https://crystalshealing.co.uk/collections/crystal-massage-tools): Discover crystal massage tools designed for natural beauty, and energy healing. Ethically sourced stones like Rose Quartz, Amethyst, and Jade – perfect for your daily self-care ritual.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 15
 - [Tourmaline Crystals](https://crystalshealing.co.uk/collections/tourmaline-crystals): Protect your energy with Tourmaline crystals. Explore raw stones, tumbled pieces, bracelets & jewelry — crafted for grounding, emotional stability and energetic defense. Ethically sourced for daily support.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 14
 - [New Arrivals | Crystals Healing UK](https://crystalshealing.co.uk/collections/new-arrivals): Discover new crystal jewellery, sets and wellness tools added recently. Shop the latest arrivals with Free UK delivery available.
-  Updated: 2025-12-15T12:25:52Z
+  Updated: 2025-12-19T18:01:16Z
   Total Products: 376
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
-  Updated: 2025-12-14T15:22:47Z
+  Updated: 2025-12-19T18:01:17Z
   Total Products: 5
 
 ## Blogs
