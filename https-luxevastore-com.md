@@ -6,24 +6,24 @@
 - Timezone: Europe/London
 - Created At: 2024-11-10T12:13:34Z
 - Contact Email: info@luxevastore.com
-- Updated At: 2025-12-15T00:00:27.931Z
+- Updated At: 2025-12-20T00:00:32.241Z
 
 ## Products
 
 - [Argan Oil Hair Repair & Shine Ritual for Damaged Hair](https://luxevastore.com/products/luxeva-3-in-1-sulfate-free-argan-oil-shampoo-conditioner-serum-set): Shop LUXEVA's Argan Oil Hair Repair & Shine Ritual at a great price. Free shipping, seasonal offers, and limited stock; check it out now!
-  Updated: 2025-12-11T00:38:10Z
+  Updated: 2025-12-19T08:38:33Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/SulphateFreeHairShampoo_Conditioner1.png?v=1762019730
-  Price: £25.95 GBP
+  Price: £34.95 GBP
 - [LUXEVA Biotin & Rosemary Hair Growth Shampoo & Conditioner](https://luxevastore.com/products/luxeva-3-in-1-biotin-rosemary-hair-growth-shampoo-conditioner): Shop LUXEVA's Biotin & Rosemary Mint Hair Revival Ritual—enjoy seasonal savings, free shipping, and great prices. Buy now and revitalize your hair today!
-  Updated: 2025-12-14T14:52:45Z
+  Updated: 2025-12-19T08:37:59Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/HairGrowthShampooandConditioner1.png?v=1761934353
-  Price: £24.95 GBP
+  Price: £27.95 GBP
 - [LUXEVA Imperial Caviar Anti-Aging Grey Hair Shampoo, Conditioner & Serum](https://luxevastore.com/products/luxeva-3-in-1-imperial-caviar-anti-aging-system): Transform aging, thinning, or dull hair with LUXEVA's sulfate-free Imperial Caviar Grey Hair Shampoo, Conditioner & Serum. Restores strength, shine, and volume.
   Updated: 2025-11-15T21:12:59Z
   Vendor: LUXEVA
@@ -32,30 +32,30 @@
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/3-in-1-Imperial-Caviar-Anti-Aging-Set-LUXEVA-46625851769098.png?v=1755116726
   Price: £35.00 GBP
 - [GROWLUX Hair Growth Oil + Scalp Massager | Conceals Scalp](https://luxevastore.com/products/growlux-hair-scalp-ritual-set): Struggling with hair thinning or post-partum shedding? GROWLUX supports baby hair regrowth, reduces scalp visibility & strengthens strands daily.
-  Updated: 2025-12-14T14:50:02Z
+  Updated: 2025-12-19T08:37:28Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/HairGrowthSerum_ScalpMassager1.png?v=1762086370
-  Price: £24.95 GBP
+  Price: £34.95 GBP
 - [Argan Oil Heat Protection Spray & Serum Set | LUXEVA UK](https://luxevastore.com/products/argan-oil-heat-protection-repair-shine-set): Protect, repair & add shine with LUXEVA’s 2-in-1 Argan Oil Heat Protection Spray & Serum. Fights frizz, dryness & breakage. Sulfate-free. Shop now.
-  Updated: 2025-12-14T14:50:01Z
+  Updated: 2025-12-19T08:37:06Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/HeatProtectionSprayForHair_LeaveInConditionerSpray1.png?v=1762209846
-  Price: £21.95 GBP
+  Price: £19.99 GBP
 
 ## Collections
 
 - [Sulphate Free Shampoo Sets: Elevate Your Haircare Ritual with LUXEVA](https://luxevastore.com/collections/frontpage): Discover sulfate-free shampoo by LUXEVA, blending plant-powered formulas to restore hair strength and soothe your scalp for a confident crown.
-  Updated: 2025-12-13T12:31:24Z
+  Updated: 2025-12-19T08:38:34Z
   Total Products: 6
 - [Scalp & Haircare Sets](https://luxevastore.com/collections/shampoo-and-conditioner-sets): Shop LUXEVA's natural shampoo and conditioner range, formulated to combat hair thinning, dryness, and breakage. Sulfate-free, vegan, and designed for scalp health and effortless repair.
-  Updated: 2025-12-13T12:31:24Z
+  Updated: 2025-12-19T08:38:34Z
   Total Products: 5
 - [Top Hair Growth Oils & Sprays: Conditioners, Detanglers, Protectants](https://luxevastore.com/collections/hair-oils-sprays): Discover top Hair Growth Oils, Heat Protection Sprays, Leave In Conditioner Sprays, and Detangling Spray for healthier, shinier hair. Explore now!
-  Updated: 2025-12-13T12:31:24Z
+  Updated: 2025-12-19T08:37:29Z
   Total Products: 2
 
 ## Blogs
@@ -113,6 +113,26 @@
     Updated: 2025-12-14T05:19:38Z
     Author: LUXEVA
     Tags: science behind hair growth
+  - [Science Behind Hair Repair: How Effective Treatments Work](https://luxevastore.com/blogs/articles/science-hair-repair-explained): Science behind hair repair explained: explore damage types, natural vs synthetic solutions, ingredients like biotin and argan oil, and risks to avoid.
+    Updated: 2025-12-15T05:10:57Z
+    Author: LUXEVA
+    Tags: science behind hair repair
+  - [What Is Hair Porosity? Impact On Healthy Hair](https://luxevastore.com/blogs/articles/what-is-hair-porosity-impact): Hair porosity explained: discover low, medium, and high types, impact on moisture, and expert tips for choosing the best haircare routine.
+    Updated: 2025-12-16T09:51:37Z
+    Author: LUXEVA
+    Tags: what is hair porosity
+  - [7 Proven Hair Wellness Habits for Luxurious, Healthy Hair](https://luxevastore.com/blogs/articles/7-hair-wellness-habits-for-luxurious-healthy-hair): Discover 7 essential hair wellness habits for women seeking luxurious, healthy hair. Learn easy, science-backed tips to boost hair vitality naturally.
+    Updated: 2025-12-17T08:30:57Z
+    Author: LUXEVA
+    Tags: hair wellness habits
+  - [Top Natural Hair Treatments – Expert Comparison 2025](https://luxevastore.com/blogs/articles/top-natural-hair-treatments-comparison): Explore the top natural hair treatments with our expert comparison of 7 products to revitalise your hair in 2025.
+    Updated: 2025-12-18T08:08:41Z
+    Author: LUXEVA
+    Tags: top natural hair treatments
+  - [How to Revive Damaged Hair Naturally for Luxurious Results](https://luxevastore.com/blogs/articles/how-to-revive-damaged-hair-naturally): Discover how to revive damaged hair naturally with premium products. Follow our step-by-step guide for restored, healthy hair and lasting radiance.
+    Updated: 2025-12-19T11:50:26Z
+    Author: LUXEVA
+    Tags: how to revive damaged hair
 
 ## Store Pages
 
