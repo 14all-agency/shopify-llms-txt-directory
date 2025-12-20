@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2025-12-19T00:00:28.558Z
+- Updated At: 2025-12-20T00:00:22.545Z
 
 ## Products
 
@@ -3332,6 +3332,10 @@
     Updated: 2025-12-12T08:31:45Z
     Author: Annett Zahn
     Tags: Garten & Pflanzen
+  - [Garten modern gestalten: Experten-Tipps | ELEO](https://www.eleo-garten.de/blogs/blog/moderner-garten): Garten modern gestalten: Experten-Tipps | ELEO
+    Updated: 2025-12-19T10:27:10Z
+    Author: Jennifer Faatz
+    Tags: Gestaltungstipps
 
 ## Store Pages
 
