@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-20T16:00:39.662Z
+- Updated At: 2025-12-20T20:00:38.704Z
 
 ## Products
 
@@ -2401,13 +2401,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-magnets-polar-skate-co-stroke-everything-is-possible-fridge-magnet-1183715814.png?v=1757184007
   Price: £5.95 GBP
-- [Polar Skate Co Flags Fridge Magnet](https://thevinessupply.co/products/polar-skate-co-flags-fridge-magnet): Buy the Polar Skate Co Flags Fridge Magnet, with fast, free delivery and easy returns.
-  Updated: 2025-12-02T15:43:55Z
-  Vendor: Polar
-  Product Type: Magnets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-magnets-polar-skate-co-flags-fridge-magnet-1183715812.png?v=1757184001
-  Price: £5.95 GBP
 - [HUF Set OG Logo CV 6 Panel Cap | Stone](https://thevinessupply.co/products/huf-set-og-logo-cv-6-panel-cap-stone): Buy the HUF Set OG Logo CV Cap in stone at The Vines Supply Co. With free delivery available and easy returns at www.thevinessupply.co
   Updated: 2025-09-05T23:20:55Z
   Vendor: HUF
@@ -4054,13 +4047,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/april-skateboards-decks-april-dashawn-jordan-aim-skateboard-deck-8-25-1192379929.png?v=1757613135
   Price: £79.95 GBP
-- [Dime MTL Reversible Leather Belt | Beige & Brown](https://thevinessupply.co/products/dime-mtl-reversible-leather-belt-beige-brown): Buy The Dime MTL Reversible Leather Belt in Beige & Brown at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-27T12:47:49Z
-  Vendor: Dime MTL
-  Product Type: Belts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-belts-dime-mtl-reversible-leather-belt-beige-brown-1192379923.png?v=1757613129
-  Price: £44.95 GBP
 - [Dime MTL Pin Pack | Gold & Silver](https://thevinessupply.co/products/dime-mtl-pin-pack-gold-silver): Buy the Pass~Port Wine Em Pin Badge at The Vines. The Pass~Port Wine Em Pin Badge is a 2.5cm 100% Enamel badge with a rubber back.
   Updated: 2025-10-27T12:50:57Z
   Vendor: Dime MTL
@@ -6520,7 +6506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/footprint-insoles-uk-8-uk-13-footprint-kingfoam-elite-high-pro-jaws-mallgrab-man-insoles-1209713776.jpg?v=1764704768
   Price: £49.95 GBP
 - [Adidas Skateboarding Shmoohaus T-Shirt | White](https://thevinessupply.co/products/adidas-skateboarding-shmoohaus-t-shirt-white): Buy the Adidas Skateboarding Shmoohaus T-Shirt in White at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-12T05:06:50Z
+  Updated: 2025-12-20T16:52:21Z
   Vendor: Adidas Skateboarding
   Product Type: Tees
   Availability: Available
@@ -6535,7 +6521,7 @@
     Availability: Available
     Price: £29.95 GBP
   - [Extra Large](https://thevinessupply.co/products/adidas-skateboarding-shmoohaus-t-shirt-white?variant=56552960000335)
-    Availability: Available
+    Availability: Not Available
     Price: £29.95 GBP
 - [DC Shoes Spectre Skate Shoes | Black, Grey & Blue](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue): Buy the DC Shoes Spectre Skate Shoes in Black, Grey & Blue at The Vines, with fast, premium delivery & easy returns within 90 days
   Updated: 2025-12-07T05:44:03Z
@@ -6970,8 +6956,8 @@
   Updated: 2025-12-20T12:17:05Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-20T12:17:06Z
-  Total Products: 5737
+  Updated: 2025-12-20T16:36:42Z
+  Total Products: 5736
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 68
@@ -7234,8 +7220,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-20T14:17:41Z
-  Total Products: 3231
+  Updated: 2025-12-20T16:36:42Z
+  Total Products: 3230
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-16T12:25:00Z
   Total Products: 110
