@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-08-20T00:29:23Z
 - Contact Email: sx2czwrdnw@privaterelay.appleid.com
-- Updated At: 2025-12-18T00:00:25.602Z
+- Updated At: 2025-12-20T00:00:26.179Z
 
 ## Products
 
@@ -407,7 +407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/1950c3ab-888f-4b2a-8037-0a2744eb950f_fine.jpg?v=1755741186
     Price: 16,00 € EUR
 - [Moustache Spray Set Moisturizing Spray Facial Hair Treatment Boosting Beard Growth Thickening Liquid](https://kkshoop.it/products/moustache-spray-set-moisturizing-spray-facial-hair-treatment-boosting-beard-growth-thickening-liquid): Our beard Growth spray kit contains ginseng, ginger, organic extracts. It can promote beard growth and show your youth 10 times faster. Its use is very simple: every morning after washing your face, use a roller to take 2 pumps of activating serum. We recommend using the beard roller 2-3 times a week for best results, cleaning the roller with warm water after use. And it can promote hair growth.
-  Updated: 2025-12-12T20:46:15Z
+  Updated: 2025-12-19T02:26:26Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -840,7 +840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/a005f6f8-7dc7-4657-9dd6-df97dfaeb0c9.jpg?v=1755807487
     Price: 11,00 € EUR
 - [Distance Measuring Instrument Electronic Measuring Ruler Tape Measure High Definition Digital LCD High Precision Electronic Measuring Ruler Tool](https://kkshoop.it/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool): Overview: - Mini size, convenient and practical. - Lightweight to 35g, compact and portable. - 8 functions, simple operation with three keys. - 99 meters long distance measurement. - Lithium battery direct charge, 200 days long standby. Product information: Shell material: aluminum alloy + silica gel Screen: 1.8 inch va lcd display Shell technology: fine polishing + frosted sandblasting Screen coverage: 4h super hard Size: 53*15mm (diameter * thickness) Net weight: 35g Single measurement distance: up to 9.99 meters Cumulative scale: maximum 99.99 meters Accuracy: 0.5%, stepless support adjustment Backlight time: 30-180 seconds Buzzer: On/Off Battery: 200mah 0.74wh Tips: The product function does not include laser and infrared Packing list: 1 x electronic ruler 1 x type c charging cable
-  Updated: 2025-12-17T20:26:27Z
+  Updated: 2025-12-19T05:26:21Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -956,7 +956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/07535881-bf6e-4c04-a7e0-e3f454835bf8.jpg?v=1755817272
   Price: 110,00 € EUR
 - [Casual Vintage Leather Women Quartz Wrist Watch Gift Clock](https://kkshoop.it/products/casual-vintage-leather-women-quartz-wrist-watch-gift-clock): Overview The leather strap not only comfortable to wear but also a variety of colors to choose from. High hardness tempered glass, high quality is your best choice Suitable for any occasion Easy to match It is the best gift for dad, boyfriend, good friends Specification Display type: pointer style: Casual Waterproof: no Movement type : Quartz Thickness: 10mm Dial diameter: 37mm Crown Type: Spiral Crown Bottom type: Normal Mirror material: quartz glass mirror Buckle style: pin buckle Buckle material: stainless steel Strap material: leather Dial shape: round Package Content 1*Watch
-  Updated: 2025-12-17T07:26:25Z
+  Updated: 2025-12-18T06:26:27Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -1825,7 +1825,7 @@
   Image: https://cdn.shopify.com/s/files/1/0974/6294/4069/files/07674190-f420-416a-8146-014c6407b15e_trans.jpg?v=1755832350
   Price: 150,00 € EUR
 - [Bread Maker, 15-in-1 3LB Dough Machine, Nonstick Ceramic Pan Automatic Breadmaker With Gluten Free Setting, Whole Wheat Bread Making, Digital, Programmable, 3 Loaf Sizes, 3 Crust Colors, White](https://kkshoop.it/products/bread-maker-15-in-1-3lb-dough-machine-nonstick-ceramic-pan-automatic-breadmaker-with-gluten-free-setting-whole-wheat-bread-making-digital-programmable-3-loaf-sizes-3-crust-colors-white)
-  Updated: 2025-12-15T17:26:27Z
+  Updated: 2025-12-19T01:26:31Z
   Vendor: KK shop
   Product Type: 
   Availability: Available
@@ -4559,8 +4559,8 @@
   Updated: 2025-12-15T04:26:32Z
   Total Products: 60
 - [Home](https://kkshoop.it/collections/home)
-  Updated: 2025-12-15T03:59:09Z
-  Total Products: 72
+  Updated: 2025-12-19T06:54:05Z
+  Total Products: 73
 - [Men](https://kkshoop.it/collections/men)
   Updated: 2025-12-15T04:18:14Z
   Total Products: 545
@@ -4586,8 +4586,8 @@
   Updated: 2025-12-12T22:21:51Z
   Total Products: 8
 - [Toy](https://kkshoop.it/collections/toy)
-  Updated: 2025-12-12T22:21:51Z
-  Total Products: 31
+  Updated: 2025-12-19T06:44:13Z
+  Total Products: 32
 - [Office](https://kkshoop.it/collections/office)
   Updated: 2025-12-15T03:31:39Z
   Total Products: 18
