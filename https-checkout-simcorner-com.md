@@ -3,7 +3,7 @@
 > SimCorner® stands out with its affordable eSIM, travel SIM cards and international sim cards for 200+ destinations. Ensuring easy activation and seamless connectivity while abroad. Stay connected with Unlimited Data SIM products like eSIM Europe Data SIM Cards, eSIM USA SIM Cards, eSIM Japan, and more esim for international travel. Travel smarter with SimCorner.
 
 - Contact Email: support@simcorner.com
-- Updated At: 2025-12-20T04:00:42.433Z
+- Updated At: 2025-12-20T08:00:42.994Z
 
 ## Products
 
@@ -1108,6 +1108,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0179/4388/7926/files/OneNZ_eSIM_New_Zealand-40gb_90days_97b9ddec-662d-458e-9077-ae9b6987958d.png?v=1756910096
   Price: $65.00 AUD
+- [New Zealand eSIM with 10GB Travel Data](https://checkout.simcorner.com/products/new-zealand-travel-esim-onenz-10gb): Unlock the beauty of New Zealand! Grab our 10GB NZ Travel eSIM to use in both North and South Islands. Unlimited local calls, 200 International Mins included. Buy your New Zealand eSIM today!
+  Vendor: OneNZ eSIM
+  Product Type: New Zealand eSIM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0179/4388/7926/files/OneNZ_eSIM_New_Zealand-10gb_60days_7015d809-32fc-4df4-956d-68948723fec1.png?v=1756910648
+  Price: $53.00 AUD
 - [eSIM France Travel eSIM (30GB/60GB) for 30 Days](https://checkout.simcorner.com/products/esim-france-sim-30gb): Stay connected in France with our Prepaid Travel eSIM for France. Enjoy 30GB or 60GB data, unlimited calls. iPhone 14 & eSIM compatible. Buy now from SimCorner
   Vendor: Bouygues-esim
   Product Type: France eSIM
@@ -19836,6 +19842,10 @@
   - [SimCorner vs Telstra Roaming: Best Travel SIM Deal Abroad?](https://checkout.simcorner.com/blogs/reviews/simcorner-vs-telstra-roaming)
     Author: Chinmayai Bobade
     Tags: best esim australia, best esim for australia, sim corner review, simcorner, simcorner australia, simcorner esim, simcorner vs telstra roaming, telstra international roaming, telstra roaming, telstra roaming review, telstra roaming vs simcorner
+- [Best Places to Visit in Kuala Lumpur](https://checkout.simcorner.com/blogs/best-places-to-visit-in-kuala-lumpur-1)
+  - [Best Places to Visit in Kuala Lumpur: Ultimate Travel Guide](https://checkout.simcorner.com/blogs/best-places-to-visit-in-kuala-lumpur-1/best-places-to-visit-in-kuala-lumpur-malaysia-2025-travel-guide): Best Places to Visit in Kuala Lumpur: Ultimate Travel Guide
+    Author: Sumaiya Riyaz
+    Tags: best places in kuala lumpur, best places to explore in kuala lumpur, best places to visit in kuala lumpur, places to visit in kl, places to visit in kuala lumpur malaysia, places to visit in malaysia kuala lumpur
 
 ## Policies
 
