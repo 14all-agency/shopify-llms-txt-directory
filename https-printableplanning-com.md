@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-19T20:00:28.633Z
+- Updated At: 2025-12-20T04:00:28.644Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -232,7 +232,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ToddlerChoreChart-BlueDailyTasks-PrintablePlanning_54f4411d-b7a6-4469-9b1d-2c5575b768d7.jpg?v=1687800026
   Price: $5.95 USD
 - [Toddler Chore Chart BUNDLE - Pink Blue Daily Routine Weekly Pages - Printable](https://printableplanning.com/products/toddler-chore-chart-bundle-pink-blue-daily-routine-weekly-pages-printable): A printable Toddler Chore Chart BUNDLE - Pink Blue Daily Routine Weekly Pages for young children that you use as a parent to help your kids learn to do their daily routines on their own and grow personal responsibility. Teaching kids at a young age, as young as a toddler, to have responsibility in doing daily tasks has a wide variety of benefits. This chart includes tasks for: Brushing their teeth in the morning. Getting dressed. Making the bed. Evening tasks for cleaning up their toys. Putting their dirty clothes away when getting dressed for nighttime. Brushing their teeth before bedtime. This purchase gets you both the pink and blue toddler chore charts. Other charts are available in shop, individually as well. SPECIFICATIONS: (2) 8.5" x 11" printable PDF pages. Visually stimulating. Includes pictures to illustrate tasks. Two color options are available, ideal for households with both boys and girls. Print new pages from this printable Toddler Chore Chart BUNDLE - Pink Blue Daily Routine Weekly Pages every week or as needed.
-  Updated: 2025-07-21T19:21:13Z
+  Updated: 2025-12-20T01:10:40Z
   Vendor: Artistically Invited
   Product Type: Chore Chart
   Availability: Available
