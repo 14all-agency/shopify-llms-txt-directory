@@ -8,14 +8,14 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2025-12-19T00:00:27.925Z
+- Updated At: 2025-12-20T00:00:29.711Z
 
 King And Queen Games, llc
 
 ## Products
 
 - [Simplified Chinese Trainer Collection Gift Box - King And Queen Games](https://kingandqueengames.com/products/simplified-chinese-trainer-collection-gift-box): Simplified Chinese Trainer Collection Gift Box Transform Your Chinese Collection! Simplified Chinese Trainer Collection Gift Box Condition New & Factory Sealed Language Simplified Chinese Contents 1x Random Trainer Promo Card 1x Random Themed Mini Tin Box 1x Set of Themed Sleeves (64 pieces) 1x Eevee Nine Colours Booster Pack cs4AC (5 cards) 1x Mew Nine Colours Booster Pack cs4BC (5 cards) 1x Final Flame Dance Booster Pack cs4.5C (6 cards) Release Date 17 May 2024 Simplified Chinese Pokémon Trainer Collection Gift Box is a product for players and collectors. There is a random mini tin in each box with a Pokémon trainer on the tin. - King And Queen Games
-  Updated: 2025-11-03T04:27:33Z
+  Updated: 2025-12-19T13:21:11Z
   Vendor: King And Queen Games
   Product Type: Chinese pokemon cards
   Availability: Available
@@ -120,7 +120,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Untitleddesign_18.jpg?v=1762144476
   Price: $120.00 USD
 - [YU-GI-OH BlackWing Armor Master - King And Queen Games](https://kingandqueengames.com/products/yu-gi-oh-blackwing-armor-master): YU-GI-OH BlackWing Armor Master Overview of BlackWing Armor MasterThe BlackWing Armor Master is a highly sought after and rare Yugioh card, graded mint 9 by PSA. This first edition card is a valuable addition to any collector's with its superior condition and scarce availability. Don't miss the chance to add this powerful and coveted card to your collection.What is BlackWing Armor Master?The BlackWing Armor Master is one of the most formidable cards in the Yu-Gi-Oh trading card game. This card not only boasts impressive stats but also comes with unique effects that can turn the tide of a duel. It has a powerful ATK of 3000 and DEF of 1000, making it a threat on the battlefield. Additionally, because it can absorb the attack points of your opponent's monsters, it endows you with strategic advantages. With this card, you can establish dominance quickly and effectively. - King And Queen Games
-  Updated: 2025-11-03T04:35:28Z
+  Updated: 2025-12-19T13:21:12Z
   Vendor: King And Queen Games
   Product Type: Graded Pokemon Cards
   Availability: Available
@@ -162,7 +162,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/paradisedragonabooster.jpg?v=1762144678
   Price: $75.00 USD
 - [FB01 Dragon Ball Super Card Game Fusion World - King And Queen Games](https://kingandqueengames.com/products/fb01-dragon-ball-super-card-game-fusion-world): Discover the Exciting Features of FB01 Dragon Ball Super Card Game Fusion World Dragon Ball Super Card Game Fusion World Booster Box Awakening 24 packs in BOX. 1 pack has 6 cards. Unleashing the Power of Fusion The FB01 Dragon Ball Super Card Game Fusion World introduces an exciting mechanic that allows players to combine characters for more powerful effects. This fusion ability encourages strategic thinking, as players must decide when to merge characters for maximum impact. Players can utilize various fusion techniques to surprise their opponents and turn the tide of battle. Because of this unique gameplay element, each match feels dynamic and engaging, keeping players coming back for more. Card Variety and Collectibility The FB01 expansion features an extensive array of new cards, each showcasing beloved characters and stunning artwork. Collectors will appreciate the diverse selection of cards available, ranging from iconic heroes to formidable villains. Collecting these cards not only enhances gameplay but also adds a sense of accomplishment. As players expand their card collection, they can unlock new strategies and combinations, elevating their overall gaming experience. Multiplayer Fun and Competitive Play - King And Queen Games
-  Updated: 2025-12-03T04:10:27Z
+  Updated: 2025-12-19T13:21:11Z
   Vendor: King And Queen Games
   Product Type: Dragon Ball Z Fusion World
   Availability: Available
