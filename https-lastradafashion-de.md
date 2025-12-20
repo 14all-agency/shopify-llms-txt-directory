@@ -6,14 +6,14 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-12-16T00:00:39.146Z
+- Updated At: 2025-12-20T00:00:40.843Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
 ## Products
 
 - [Bindegürtel aus Leder](https://lastradafashion.de/products/bindegurtel-aus-leder): Dieser Leder Gürtel zum Binden ist ein zeitloses Accessoire, das jedes Outfit aufwertet. Mit einer Breite von 9 cm an der breitesten Stelle sorgt er für eine feminine Silhouette und betont die Taille gekonnt. Durch das schmale Ende des Gürtels kann er einfach durch die Schlaufen von Kleidern oder Jumpsuits gezogen und individuell gebunden werden. Das weiche Leder fühlt sich angenehm auf der Haut an und macht den Gürtel zu einem bequemen Begleiter im Alltag. Ob zu einem schlichten Sommerkleid oder einem lässigen Overall, dieser Gürtel ist vielseitig einsetzbar und verleiht jedem Look das gewisse Etwas. Holen Sie sich diesen zeitlosen Klassiker und setzen Sie modische Akzente! MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten MATERIAL UND VERARBEITUNG - Materialmix: Leder - Materialqualität: mittelschweres Material, festes, nicht dehnbares Material PFLEGEHINWEIS - Nicht waschen, Mit einem feuchten Tuch abwischen, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf)
-  Updated: 2025-12-13T15:13:12Z
+  Updated: 2025-12-16T14:41:36Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -179,7 +179,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNjIxNDktYW50aHJheml0LTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_f61cbf02-a204-45b0-ab16-f30490db7b3a.jpg?v=1761417010
     Price: 35,00 € EUR
 - [Slim-Fit Jeans](https://lastradafashion.de/products/slim-fit-jeans): Die Slim-Fit Jeans begeistert mit ihrem zeitlosen Chic und einer schmeichelnden Passform, die jede Silhouette perfekt in Szene setzt. Die figurbetonte Schnittführung betont Beine und Taille, während das elastische Material ein angenehmes Tragegefühl garantiert. Dezente Details wie aufgesetzte Gesäßtaschen und angedeutete Nähte an den Knien setzen modische Akzente und verleihen der Jeans einen Hauch von Urban-Coolness. Ob lässig mit Oversize-Pullover und Sneakern oder feminin mit Bluse und Absatzschuh – dieses Must-have passt sich deinem Stil mühelos an.
-  Updated: 2025-12-12T23:19:28Z
+  Updated: 2025-12-16T15:31:27Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -253,7 +253,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XL / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000164189)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
     Price: 59,00 € EUR
   - [XL / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196735164765)
@@ -401,7 +401,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-12-15T15:42:26Z
+  Updated: 2025-12-17T12:26:26Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -451,7 +451,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNTYtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_8eb5574e-488e-489b-bd63-36a006b3a950.jpg?v=1761411373
     Price: 29,90 € EUR
 - [Schlichter Schal aus Strick](https://lastradafashion.de/products/schlichter-schal-aus-strick): Dieser Schal ist gefertigt aus einem weichen Material, das sanft über die Haut gleitet. Er fällt leicht und geschmeidig, was das Tragen äußerst angenehm macht. Zusätzlich bietet der Schal eine vielseitige Anwendbarkeit. Ob beim Spaziergang im Park, auf dem Weg zur Arbeit oder in geselliger Runde mit Freunden – er ist der ideale Begleiter für jede Gelegenheit. Besonders an kalten Tagen schenkt er wohlige Wärme und lässt die Trägerin oder den Träger nicht frieren. Insgesamt ist dieser Schal mehr als nur ein Accessoire; er ist ein unverzichtbarer Teil der Garderobe, der Stil und Funktionalität auf perfektem Niveau vereint. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - Schal MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 30% Merinowolle, 60% Acryl, 10% Spandex - Materialqualität: leichtes Material, Weiche Haptik PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Nicht bügeln, Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-12-12T23:14:06Z
+  Updated: 2025-12-17T04:21:57Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -617,7 +617,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDUxNy1NQy05NjI2LTQwNjgzODIxNTI5NjYtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760978038
     Price: 69,00 € EUR
 - [Bluse mit verdeckter Knopfleiste](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1): Zeitlose Eleganz trifft auf lässige Raffinesse – diese Bluse überzeugt mit klarer Linienführung und hochwertigen Details. Die verdeckte Knopfleiste sorgt für eine cleane Front, während der klassische Hemdkragen dem Look Struktur verleiht. Besonders raffiniert zeigt sich der Schnitt: Der abgerundete, hinten verlängerte Saum umspielt locker die Hüfte und sorgt für eine moderne, feminine Silhouette – perfekt auch zum Layern. Ob im Office mit Stoffhose oder casual zu Jeans – diese Bluse ist ein wandelbares Essential für stilbewusste Looks. Ein echtes Must-have für jede Saison. GrößeOne Size
-  Updated: 2025-12-15T11:28:14Z
+  Updated: 2025-12-19T17:27:05Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
