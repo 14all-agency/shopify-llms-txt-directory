@@ -10,12 +10,12 @@
 - Contact Email: info@archtek.co
 - Contact Phone: 310-435-9279
 - Address: Soksystem, LLC, 2121 Wilshire Boulevard, Suite 101, Santa Monica California 90403, United States
-- Updated At: 2025-12-19T00:00:38.927Z
+- Updated At: 2025-12-20T00:00:38.530Z
 
 ## Products
 
 - [Arch Support Crew Socks | Compression & Comfort – ArchTek®](https://www.archteksocks.com/products/archtek-crew-socks-comfort): Feel the power of arch support crew socks. Patented 5-layer system + compression offers all-day pain relief. Designed by foot surgeons.
-  Updated: 2025-12-18T03:01:25Z
+  Updated: 2025-12-19T03:01:31Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Crew_Gray_Socks_1080x1080_-_B.png?v=1722990207
     Price: $24.99 USD
 - [Crew Sock Bundle | 5-Layer Arch Support & Compression – ArchTek®](https://www.archteksocks.com/products/arch-support-crew-socks-bundles): Bundle up on comfort. ArchTek® compression crew socks provide doctor-designed support and long-lasting relief. Save more with packs.
-  Updated: 2025-12-18T03:01:26Z
+  Updated: 2025-12-19T17:18:13Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -447,26 +447,26 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Quarter_Three_Color_Bundle.jpg?v=1764851843
     Price: $85.99 USD
 - [Compression Socks for Pain Relief | Arch Support by ArchTek®](https://www.archteksocks.com/products/archtek-compression-socks): ArchTek® Compression Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented, Doctor designed 5 layer Arch Support System 15-20 mmHg Patented Achilles Protection System Dynamic Energy Return System Right and Left specific design Materials: 55% Polyester 22% Nylon 17% Cotton 6% Spandex
-  Updated: 2025-12-18T01:17:56Z
+  Updated: 2025-12-19T21:46:02Z
   Vendor: ArchTek
   Product Type: Compression Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-blue-sunrise1_a4b329a7-1889-4a75-a5c0-6dcbdbac5c74.jpg?v=1700138228
   - [Black Flowers / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946618543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compress-black-flowers-2_82032efb-8974-441e-890c-65a6322590c2.jpg?v=1700138283
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compress-black-flowers-2_82032efb-8974-441e-890c-65a6322590c2.jpg?v=1766180761
     Price: $39.99 USD
   - [Black Flowers / Large](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946651311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compress-black-flowers-2_82032efb-8974-441e-890c-65a6322590c2.jpg?v=1700138283
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compress-black-flowers-2_82032efb-8974-441e-890c-65a6322590c2.jpg?v=1766180761
     Price: $39.99 USD
   - [Black Mountain / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946684079)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-black-mountain2_f3cf4ed3-4618-4377-b609-b150f24628fa.jpg?v=1700138279
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-black-mountain2_f3cf4ed3-4618-4377-b609-b150f24628fa.jpg?v=1766180761
     Price: $39.99 USD
   - [Black Mountain / Large](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946716847)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-black-mountain2_f3cf4ed3-4618-4377-b609-b150f24628fa.jpg?v=1700138279
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-black-mountain2_f3cf4ed3-4618-4377-b609-b150f24628fa.jpg?v=1766180761
     Price: $39.99 USD
   - [Blue Sunrise / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946749615)
     Availability: Not Available
@@ -478,38 +478,38 @@
     Price: $39.99 USD
   - [Blue Waves / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946815151)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-blue2_255b80b6-ca41-47c1-b385-57fbd752b930.jpg?v=1700138285
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-blue2_255b80b6-ca41-47c1-b385-57fbd752b930.jpg?v=1766180761
     Price: $39.99 USD
   - [Blue Waves / Large](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946847919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-blue2_255b80b6-ca41-47c1-b385-57fbd752b930.jpg?v=1700138285
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-blue2_255b80b6-ca41-47c1-b385-57fbd752b930.jpg?v=1766180761
     Price: $39.99 USD
   - [Green Camo / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946880687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-camo-2_86433e0d-223b-495d-81da-85917f2f5c3a.jpg?v=1700138220
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-camo-2_86433e0d-223b-495d-81da-85917f2f5c3a.jpg?v=1766180761
     Price: $39.99 USD
   - [Green Camo / Large](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946913455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-camo-2_86433e0d-223b-495d-81da-85917f2f5c3a.jpg?v=1700138220
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-camo-2_86433e0d-223b-495d-81da-85917f2f5c3a.jpg?v=1766180761
     Price: $39.99 USD
   - [Green Sunrise / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946946223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-sunrise2_4530544a-1eec-4a1a-baa6-2de9e20f10df.jpg?v=1700138324
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-sunrise2_4530544a-1eec-4a1a-baa6-2de9e20f10df.jpg?v=1766180761
     Price: $39.99 USD
   - [Green Sunrise / Large](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912946978991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-sunrise2_4530544a-1eec-4a1a-baa6-2de9e20f10df.jpg?v=1700138324
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-sunrise2_4530544a-1eec-4a1a-baa6-2de9e20f10df.jpg?v=1766180761
     Price: $39.99 USD
   - [Orange Hillside / Medium](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912947011759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1700138332
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1766180761
     Price: $39.99 USD
   - [Orange Hillside / Large](https://www.archteksocks.com/products/archtek-compression-socks?variant=42912947044527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1700138332
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1766180761
     Price: $39.99 USD
 - [Ankle Socks with Arch Support | Foot Pain Relief – ArchTek®](https://www.archteksocks.com/products/ankle-socks-with-arch-support): Ease foot pain with compression ankle socks from ArchTek®. Designed with patented arch support for daily comfort and energy return.
-  Updated: 2025-12-18T03:01:24Z
+  Updated: 2025-12-19T03:01:32Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -551,7 +551,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Ankle_Gray_bundle_1080x1080_-_B.png?v=1722990213
     Price: $21.99 USD
 - [Ankle Compression Socks Bundle | Support & Comfort – ArchTek®](https://www.archteksocks.com/products/comfort-ankle-socks-bundles): Shop ArchTek® ankle sock bundles for arch support, compression, and doctor-engineered pain relief. Stay active, feel supported.
-  Updated: 2025-12-18T03:01:24Z
+  Updated: 2025-12-19T03:01:32Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Ankle_3_Bundles.png?v=1744638010
     Price: $85.99 USD
 - [Dress Socks – Polka Dots | Support & Compression – ArchTek®](https://www.archteksocks.com/products/support-dress-socks-polka-dots): Add support to your style. ArchTek® dress socks with arch support reduce pain and boost circulation. Designed for comfort and flair.
-  Updated: 2025-12-12T10:23:08Z
+  Updated: 2025-12-19T21:19:28Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -728,14 +728,14 @@
     Price: $22.99 USD
   - [Blue Dots / Medium](https://www.archteksocks.com/products/support-dress-socks-polka-dots?variant=43405215891631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-blue-dots1_4711a9d5-45f0-47bf-bbfb-ff1b210376d8.jpg?v=1711652721
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-blue-dots1_4711a9d5-45f0-47bf-bbfb-ff1b210376d8.jpg?v=1766179168
     Price: $22.99 USD
   - [Blue Dots / Large](https://www.archteksocks.com/products/support-dress-socks-polka-dots?variant=43405215924399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-blue-dots1_4711a9d5-45f0-47bf-bbfb-ff1b210376d8.jpg?v=1711652721
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-blue-dots1_4711a9d5-45f0-47bf-bbfb-ff1b210376d8.jpg?v=1766179168
     Price: $22.99 USD
 - [Dress Socks – Zig Zag | Comfort & Arch Support – ArchTek®](https://www.archteksocks.com/products/comfort-dress-socks-zig-zag): Experience compression with class. ArchTek® Zig Zag arch support dress socks offer foot relief and seamless wear for all-day confidence.
-  Updated: 2025-12-15T16:20:47Z
+  Updated: 2025-12-19T21:16:58Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -750,47 +750,47 @@
     Price: $22.99 USD
   - [Black/Grey / Medium](https://www.archteksocks.com/products/comfort-dress-socks-zig-zag?variant=43405357744303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-grey1_d889bf7d-4485-47dd-80ea-b17a4df9e99a.jpg?v=1711652703
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-grey1_d889bf7d-4485-47dd-80ea-b17a4df9e99a.jpg?v=1766179018
     Price: $22.99 USD
   - [Black/Grey / Large](https://www.archteksocks.com/products/comfort-dress-socks-zig-zag?variant=43405357777071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-grey1_d889bf7d-4485-47dd-80ea-b17a4df9e99a.jpg?v=1711652703
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-grey1_d889bf7d-4485-47dd-80ea-b17a4df9e99a.jpg?v=1766179018
     Price: $22.99 USD
 - [Dress Socks – Multi Stripes | Stylish Arch Compression – ArchTek®](https://www.archteksocks.com/products/arch-compression-dress-socks-multi-stripes): Color meets comfort. ArchTek® multi-stripe dress socks with arch support deliver pain relief and fit tailored for professionals.
-  Updated: 2025-12-16T00:00:58Z
+  Updated: 2025-12-19T21:13:31Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-dark-grey-slate2_2be870fd-cf79-4eea-bca4-3e066caebed6.jpg?v=1711652733
+  Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-dark-grey-slate2_2be870fd-cf79-4eea-bca4-3e066caebed6.jpg?v=1766178811
   - [Dark Grey/Slate / Medium](https://www.archteksocks.com/products/arch-compression-dress-socks-multi-stripes?variant=43405712982191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-dark-grey-slate1_ec142999-3185-4272-9d4e-f0418e42633b.jpg?v=1711652665
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-dark-grey-slate1_ec142999-3185-4272-9d4e-f0418e42633b.jpg?v=1766178811
     Price: $22.99 USD
   - [Dark Grey/Slate / Large](https://www.archteksocks.com/products/arch-compression-dress-socks-multi-stripes?variant=43405713014959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-dark-grey-slate1_ec142999-3185-4272-9d4e-f0418e42633b.jpg?v=1711652665
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-dark-grey-slate1_ec142999-3185-4272-9d4e-f0418e42633b.jpg?v=1766178811
     Price: $22.99 USD
   - [Light Grey/Slate / Medium](https://www.archteksocks.com/products/arch-compression-dress-socks-multi-stripes?variant=43405713113263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-light-grey-slate1_c65c3165-5319-4bb6-86ae-cc9be4aa95b3.jpg?v=1711652685
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-light-grey-slate1_c65c3165-5319-4bb6-86ae-cc9be4aa95b3.jpg?v=1766178811
     Price: $22.99 USD
   - [Light Grey/Slate / Large](https://www.archteksocks.com/products/arch-compression-dress-socks-multi-stripes?variant=43405713146031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-light-grey-slate1_c65c3165-5319-4bb6-86ae-cc9be4aa95b3.jpg?v=1711652685
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-light-grey-slate1_c65c3165-5319-4bb6-86ae-cc9be4aa95b3.jpg?v=1766178811
     Price: $22.99 USD
 - [Dress Socks – Half & Half | Dual-Tone Support – ArchTek®](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half): Half style, full support. ArchTek® dress socks with patented arch compression improve comfort, reduce foot fatigue, and keep you sharp.
-  Updated: 2025-12-16T20:28:23Z
+  Updated: 2025-12-19T20:52:50Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-navy-orange1_000b3b18-132b-4085-b247-f0dd12fb131d.jpg?v=1711652603
   - [Black/Slate / Medium](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=43405866139823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-slate1_7021394c-20e2-42c2-a8f2-ac9f7f9ad2f0.jpg?v=1711652710
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-slate1_7021394c-20e2-42c2-a8f2-ac9f7f9ad2f0.jpg?v=1766177570
     Price: $22.99 USD
   - [Black/Slate / Large](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=43405866172591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-slate1_7021394c-20e2-42c2-a8f2-ac9f7f9ad2f0.jpg?v=1711652710
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-slate1_7021394c-20e2-42c2-a8f2-ac9f7f9ad2f0.jpg?v=1766177570
     Price: $22.99 USD
   - [Navy/Orange / Medium](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=43405866533039)
     Availability: Available
@@ -802,98 +802,98 @@
     Price: $22.99 USD
   - [Gray/Black / Small](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265567584431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0732.jpg?v=1723595999
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0732.jpg?v=1766177570
     Price: $22.99 USD
   - [Gray/Black / Medium](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265441558703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0732.jpg?v=1723595999
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0732.jpg?v=1766177570
     Price: $22.99 USD
   - [Gray/Black / Large](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265441591471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0732.jpg?v=1723595999
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0732.jpg?v=1766177570
     Price: $22.99 USD
   - [Light Blue/Dark Blue / Small](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265567617199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0722.jpg?v=1723596002
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0722.jpg?v=1766177570
     Price: $22.99 USD
   - [Light Blue/Dark Blue / Medium](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265404498095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0722.jpg?v=1723596002
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0722.jpg?v=1766177570
     Price: $22.99 USD
   - [Light Blue/Dark Blue / Large](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265404530863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0722.jpg?v=1723596002
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0722.jpg?v=1766177570
     Price: $22.99 USD
   - [Cream/Sage / Small](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265567649967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1723596013
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1766177570
     Price: $22.99 USD
   - [Cream/Sage / Medium](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265404563631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1723596013
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1766177570
     Price: $22.99 USD
   - [Cream/Sage / Large](https://www.archteksocks.com/products/dual-tone-support-dress-socks-half-half?variant=44265404596399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1723596013
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1766177570
     Price: $22.99 USD
 - [Dress Socks – Solid Ribbed | Classic Look Arch Comfort – ArchTek®](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed): ArchTek® ribbed dress socks offer doctor-designed arch support and leg compression for energy and comfort from boardroom to sidewalk.
-  Updated: 2025-12-12T10:23:08Z
+  Updated: 2025-12-19T20:08:19Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-onyx1_c819c2e9-0ab8-40eb-a2bb-254decfb3f3d.jpg?v=1711652613
+  Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-onyx1_c819c2e9-0ab8-40eb-a2bb-254decfb3f3d.jpg?v=1766174899
   - [Onyx Black Ribbed / Medium](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=43405953728687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-onyx1_c819c2e9-0ab8-40eb-a2bb-254decfb3f3d.jpg?v=1711652613
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-onyx1_c819c2e9-0ab8-40eb-a2bb-254decfb3f3d.jpg?v=1766174899
     Price: $22.99 USD
   - [Onyx Black Ribbed / Large](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=43405953761455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-onyx1_c819c2e9-0ab8-40eb-a2bb-254decfb3f3d.jpg?v=1711652613
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-onyx1_c819c2e9-0ab8-40eb-a2bb-254decfb3f3d.jpg?v=1766174899
     Price: $22.99 USD
   - [Dark Blue Ribbed / Small](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=44265574989999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0730.jpg?v=1723596015
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0730.jpg?v=1766174899
     Price: $22.99 USD
   - [Dark Blue Ribbed / Medium](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=44265424093359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0730.jpg?v=1723596015
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0730.jpg?v=1766174899
     Price: $22.99 USD
   - [Dark Blue Ribbed / Large](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=44265424126127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0730.jpg?v=1723596015
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0730.jpg?v=1766174899
     Price: $22.99 USD
   - [Pebble Grey Ribbed / Medium](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=43405953794223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-pebble-grey-1_4e5126ae-227d-4e79-9111-bd81de4fc8e1.jpg?v=1723592179
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-pebble-grey-1_4e5126ae-227d-4e79-9111-bd81de4fc8e1.jpg?v=1766174899
     Price: $22.99 USD
   - [Pebble Grey Ribbed / Large](https://www.archteksocks.com/products/arch-comfort-dress-socks-solid-ribbed?variant=43405953826991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-pebble-grey-1_4e5126ae-227d-4e79-9111-bd81de4fc8e1.jpg?v=1723592179
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-pebble-grey-1_4e5126ae-227d-4e79-9111-bd81de4fc8e1.jpg?v=1766174899
     Price: $22.99 USD
 - [Dress Socks – High Stripes | High Compression Support – ArchTek®](https://www.archteksocks.com/products/high-compression-dress-socks-high-stripes): Style meets science. ArchTek® high-stripe dress socks support your arch, reduce swelling, and provide cushioned all-day wear.
-  Updated: 2025-12-12T10:23:08Z
+  Updated: 2025-12-19T20:13:01Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-taupe-pink1_3a4cc921-ba3a-4918-a34e-08c73ff7e895.jpg?v=1711667025
+  Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-taupe-pink1_3a4cc921-ba3a-4918-a34e-08c73ff7e895.jpg?v=1766175181
   - [Taupe/Pink Striped / Medium](https://www.archteksocks.com/products/high-compression-dress-socks-high-stripes?variant=43405970145455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-taupe-pink1_3a4cc921-ba3a-4918-a34e-08c73ff7e895.jpg?v=1711667025
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-taupe-pink1_3a4cc921-ba3a-4918-a34e-08c73ff7e895.jpg?v=1766175181
     Price: $22.99 USD
   - [Taupe/Pink Striped / Large](https://www.archteksocks.com/products/high-compression-dress-socks-high-stripes?variant=43405970178223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-taupe-pink1_3a4cc921-ba3a-4918-a34e-08c73ff7e895.jpg?v=1711667025
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-taupe-pink1_3a4cc921-ba3a-4918-a34e-08c73ff7e895.jpg?v=1766175181
     Price: $22.99 USD
   - [Chocolate/Red / Medium](https://www.archteksocks.com/products/high-compression-dress-socks-high-stripes?variant=43405969948847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-choc-red-1_39e5ba6c-9638-489d-ba58-83d035cb8153.jpg?v=1711666993
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-choc-red-1_39e5ba6c-9638-489d-ba58-83d035cb8153.jpg?v=1766174072
     Price: $22.99 USD
   - [Chocolate/Red / Large](https://www.archteksocks.com/products/high-compression-dress-socks-high-stripes?variant=43405969981615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-choc-red-1_39e5ba6c-9638-489d-ba58-83d035cb8153.jpg?v=1711666993
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-choc-red-1_39e5ba6c-9638-489d-ba58-83d035cb8153.jpg?v=1766174072
     Price: $22.99 USD
 - [7-Pack Dress Sock Bundle | Arch Support for Every Day – ArchTek®](https://www.archteksocks.com/products/arch-support-dress-socks-bundles-7-pack): Stock up on support. This 7-pack of ArchTek® compression dress socks offers premium arch relief and doctor-designed comfort.
-  Updated: 2025-12-12T10:23:08Z
+  Updated: 2025-12-19T15:54:07Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1011,7 +1011,7 @@
   Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG-0583.jpg?v=1718647615
   Price: $3,660.00 USD
 - [Dress Socks – Two Stripes | Comfort + Arch Support – ArchTek®](https://www.archteksocks.com/products/dress-socks-two-stripes): ArchTek® two-stripe dress socks fuse compression, arch support, and moisture-wicking performance for stylish comfort.
-  Updated: 2025-12-12T10:23:06Z
+  Updated: 2025-12-19T21:26:37Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1030,30 +1030,30 @@
     Price: $22.99 USD
   - [Cream/Taupe / Small](https://www.archteksocks.com/products/dress-socks-two-stripes?variant=44272591208623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-creame-taupe1.jpg?v=1724088776
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-creame-taupe1.jpg?v=1766179596
     Price: $22.99 USD
   - [Cream/Taupe / Medium](https://www.archteksocks.com/products/dress-socks-two-stripes?variant=44272584327343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-creame-taupe1.jpg?v=1724088776
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-creame-taupe1.jpg?v=1766179596
     Price: $22.99 USD
   - [Cream/Taupe / Large](https://www.archteksocks.com/products/dress-socks-two-stripes?variant=44272584360111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-creame-taupe1.jpg?v=1724088776
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-creame-taupe1.jpg?v=1766179596
     Price: $22.99 USD
   - [White/Blue/Red / Small](https://www.archteksocks.com/products/dress-socks-two-stripes?variant=44272591241391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1723841771
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1766179596
     Price: $22.99 USD
   - [White/Blue/Red / Medium](https://www.archteksocks.com/products/dress-socks-two-stripes?variant=44272591274159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1723841771
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1766179596
     Price: $22.99 USD
   - [White/Blue/Red / Large](https://www.archteksocks.com/products/dress-socks-two-stripes?variant=44272591306927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1723841771
+    Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1766179596
     Price: $22.99 USD
 - [Sporty Dress Socks Bundles - 3 Pack](https://www.archteksocks.com/products/dress-socks-bundles-3-pack-sporty-stripes): ArchTek® Dress Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented doctor designed 5 layer arch support system Dynamic y-strap energy return system Form fitting leg compression Seamless toe closure Antimicrobial coating Right and Left specific design Materials: 62% Cotton; 35% Nylon; 3% Spandex
-  Updated: 2025-12-18T03:01:24Z
+  Updated: 2025-12-19T03:01:33Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1095,7 +1095,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-sporty-beige-bundle.jpg?v=1724088773
     Price: $57.99 USD
 - [Moisture Wicking White Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-white-nylon-crew): Cool, dry, supported. ArchTek® white nylon crew socks wick moisture, relieve foot pain, and provide arch support for active days.
-  Updated: 2025-12-18T03:01:25Z
+  Updated: 2025-12-19T03:01:30Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1113,7 +1113,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-white2_f17f92e2-cd02-439a-a5aa-f998a56eea82.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Black Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-black-nylon-crew): Power your stride. ArchTek® black crew socks deliver arch support, compression, and sweat-wicking tech to fuel your movement.
-  Updated: 2025-12-18T03:01:25Z
+  Updated: 2025-12-19T03:01:30Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1131,7 +1131,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-black2_d7fc817c-25e2-482e-bb95-95fdf0be618d.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Crew Socks Bundles - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-crew-socks-bundles): Bundle and breathe. ArchTek® crew sock bundles feature moisture-wicking fabric and patented arch support for all-day performance.
-  Updated: 2025-12-18T03:07:01Z
+  Updated: 2025-12-19T03:01:31Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1521,13 +1521,13 @@
   Updated: 2025-12-02T08:10:15Z
   Total Products: 7
 - [Ankle Socks | Lightweight Compression – ArchTek®](https://www.archteksocks.com/collections/athletic-ankle-socks): ArchTek® ankle socks provide arch support, moisture control, and compression for performance and comfort.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 9
 - [Quarter Socks for Athletes | Arch Support by ArchTek®](https://www.archteksocks.com/collections/athletic-quarter-sock): Step up your game. ArchTek® athletic quarter socks feature arch support and compression to boost foot stability.
   Updated: 2025-12-18T12:06:27Z
   Total Products: 9
 - [Crew Socks for Performance | ArchTek® Compression Fit](https://www.archteksocks.com/collections/athletic-crew-socks): Power through your day with ArchTek® athletic crew socks. Designed with arch support, compression, and moisture-wicking tech.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 16
 - [Dress Socks | Arch Support & Style – ArchTek®](https://www.archteksocks.com/collections/dress-sock): Style and support with ArchTek® dress socks. Featuring compression, arch relief, and seamless comfort for professionals.
   Updated: 2025-12-09T12:07:09Z
@@ -1551,13 +1551,13 @@
   Updated: 2025-12-02T08:10:30Z
   Total Products: 8
 - [Shop ArchTek® Socks | Compression, Support & Relief Styles](https://www.archteksocks.com/collections/shop): Shop ArchTek® socks for every need-compression, foot pain relief, moisture control, and patented arch support.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 34
 - [Shop Women’s Arch Support Socks | Stylish Compression – ArchTek®](https://www.archteksocks.com/collections/shop-womens): Browse ArchTek® socks for women. Comfortable, supportive, and designed to reduce foot fatigue and swelling.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 14
 - [Shop Men’s Arch Support Socks | Compression & Relief – ArchTek®](https://www.archteksocks.com/collections/shop-mens): Explore ArchTek® socks engineered for arch support, comfort, and performance. Ideal for work, workouts, and recovery.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 14
 - [Accessories Collections | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/accessories): Complete your kit with ArchTek® accessories-engineered for comfort, recovery, and maximum foot support.
   Updated: 2025-12-02T08:10:27Z
@@ -1566,7 +1566,7 @@
   Updated: 2025-12-04T09:44:48Z
   Total Products: 27
 - [New ArchTek® Releases | Latest in Sock Support & Tech](https://www.archteksocks.com/collections/new-releases): Discover the latest ArchTek® innovations-new socks with cutting-edge arch support, style, and comfort.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 22
 - [Buy 3 Get 3 FREE Collections | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/buy-3-get-3-free): Just add 6 pairs of socks to your cart | Enter Code: B3G3 in checkout
   Updated: 2025-12-04T09:44:42Z
@@ -1575,16 +1575,16 @@
   Updated: 2025-12-02T08:10:29Z
   Total Products: 32
 - [Small (1-3 Youth / 4-7.5 Women) - ArchTek®](https://www.archteksocks.com/collections/small-1-3-youth-4-7-5-women): Shop small-size ArchTek® socks for youth and women. Engineered arch support and compression for growing and active feet.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 16
 - [Medium (6-9.5 Men / 8-10.5 Women) - ArchTek®](https://www.archteksocks.com/collections/medium-6-9-5-men-8-10-5-women): ArchTek® medium socks offer balanced compression and arch support for men (6–9.5) and women (8–10.5). Comfort in every step.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 47
 - [Large (10-14 Men / 11-14.5 Women) - ArchTek®](https://www.archteksocks.com/collections/large-10-14-men-11-14-5-women): Support larger sizes with ArchTek® compression socks. Perfect fit and relief for men 10–14 and women 11–14.5.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 48
 - [Athletic Socks | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/athletic-socks): Train smarter with ArchTek® athletic socks. Compression and arch support combine to reduce fatigue and improve stability.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 12
 - [Stylish Dress Socks with Arch Support | ArchTek® Collection](https://www.archteksocks.com/collections/dress-socks): Step up your style and support with ArchTek® dress socks. Featuring compression, arch relief, and seamless comfort for professionals.
   Updated: 2025-12-18T12:06:27Z
@@ -1593,22 +1593,22 @@
   Updated: 2025-12-18T12:06:27Z
   Total Products: 1
 - [Crew Socks Arch Support | Compression & Comfort](https://www.archteksocks.com/collections/crew-socks): ArchTek® crew socks feature patented arch support, compression, and seamless fit-ideal for foot pain relief and performance.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 17
 - [Quarter Socks Arch Support | Lightweight Compression – ArchTek®](https://www.archteksocks.com/collections/quarter-socks): Step confidently in ArchTek® quarter socks. Designed for mobility, foot support, and comfort with our 5-layer compression system.
   Updated: 2025-12-18T12:06:27Z
   Total Products: 3
 - [Ankle Socks  | Foot Pain Relief – ArchTek®](https://www.archteksocks.com/collections/ankle-socks): ArchTek® ankle socks combine arch support and compression to reduce swelling, foot pain, and fatigue during daily wear.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 2
 - [Arch Support Socks | Explore our Styles – ArchTek®](https://www.archteksocks.com/collections/shop-all): Browse all ArchTek® products-compression socks, arch support designs, bundles, and accessories for pain relief and comfort.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 55
 - [Arch Support Sock Collections | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/wholesale-starter-kit): This is the recommended package for starting wholesalers. The kit includes all of the Archtek athletic socks and a selection of the compression socks. We recommend adding in: 1 display tray per office 1 brochure holder per treatment room, plus one for your waiting room 60 brochures per brochure holder 1 foot model, if you have space
   Updated: 2025-12-02T08:01:29Z
   Total Products: 6
 - [Moisture-Wicking Socks | Breathable Comfort – ArchTek®](https://www.archteksocks.com/collections/moisture-wicking): Stay cool and dry with ArchTek® moisture-wicking socks. Built with arch support and seamless compression for active comfort.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 5
 - [Single Pair ArchTek® Socks | Try Our 5-Layer Support](https://www.archteksocks.com/collections/single-socks): Shop single ArchTek® socks with compression and patented arch support-perfect for testing comfort before bundling up.
   Updated: 2025-12-18T12:06:27Z
@@ -1617,16 +1617,16 @@
   Updated: 2025-12-16T12:06:51Z
   Total Products: 2
 - [Athletic Crew Socks | Compression & Comfort – ArchTek®](https://www.archteksocks.com/collections/athletic-crew-socks-1): Push limits in ArchTek® athletic crew socks. Patented arch support, compression, and sweat control for peak performance.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 5
 - [Athletic Ankle Socks | Lightweight Compression – ArchTek®](https://www.archteksocks.com/collections/athletic-ankle-socks-1): ArchTek® athletic ankle socks provide arch support, moisture control, and compression for performance and comfort.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 2
 - [Bestselling ArchTek® Socks | Foot Pain Relief That Works](https://www.archteksocks.com/collections/bestselling): Shop bestselling ArchTek® socks-trusted for foot pain relief, compression, and all-day support.
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 120
 - [Bundles](https://www.archteksocks.com/collections/bundels)
-  Updated: 2025-12-18T12:06:27Z
+  Updated: 2025-12-19T12:06:14Z
   Total Products: 11
 - [Landing page Dress socks single products](https://www.archteksocks.com/collections/landing-page-dress-socks-single-products)
   Updated: 2025-12-16T12:06:51Z
