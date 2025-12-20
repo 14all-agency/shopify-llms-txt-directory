@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-20T00:00:53.174Z
+- Updated At: 2025-12-20T04:00:33.606Z
 
 ## Products
 
@@ -7090,12 +7090,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_54_28_PM.png?v=1764381279
   Price: $59.95 USD
-- [Honey Lavender Whipped Soap - 64 oz](https://affinatiliving.com/products/honey-lavender-whipped-soap-64-oz): Relax with Honey Lavender Whipped Soap. A sweet, calming 64 oz creamy lather perfect for daily cleansing, shaving, and luxurious self-care.
-  Updated: 2025-12-18T18:13:06Z
+- [Lavender Vanilla Whipped Soap - 64 oz](https://affinatiliving.com/products/lavender-vanilla-whipped-soap-64-oz): Relax with Lavender Vanilla Whipped Soap. A sweet, calming 64 oz creamy lather perfect for daily cleansing, shaving, and luxurious self-care.
+  Updated: 2025-12-20T00:23:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_57_43_PM.png?v=1764381474
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8243.png?v=1766190150
   Price: $59.95 USD
 - [Fruit Fusion Whipped Soap - 64 oz](https://affinatiliving.com/products/fruit-fusion-whipped-soap-64-oz): Brighten your routine with Fruit Fusion Whipped Soap. A juicy 64 oz blend of tropical fruits for daily cleansing, shaving, and luxurious self-care.
   Updated: 2025-12-18T18:13:06Z
@@ -7877,7 +7877,7 @@
   Updated: 2025-12-18T18:11:45Z
   Total Products: 76
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
-  Updated: 2025-12-18T20:10:26Z
+  Updated: 2025-12-20T00:23:55Z
   Total Products: 28
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
   Updated: 2025-12-18T20:19:06Z
@@ -7904,7 +7904,7 @@
   Updated: 2025-12-19T12:10:31Z
   Total Products: 342
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-12-18T18:11:46Z
+  Updated: 2025-12-20T00:23:55Z
   Total Products: 99
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-12-18T18:11:46Z
