@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-18T00:00:24.203Z
+- Updated At: 2025-12-20T00:00:26.195Z
 
 ## Products
 
@@ -728,8 +728,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/CRH02MS0003.jpg?v=1708236948
   Price: $120.00 AUD
-- [Kütahya Porcelain Crash Mug Set - Serve in Style](https://www.mitakitchenware.com/products/kutahya-porcelain-crash-mug-set-of-2-yellow): Elevate your latte with our Kütahya Porcelain Crash Mug Set. Yellow pair perfect for modern homes. Serve perfection in style!
-  Updated: 2025-11-22T03:38:32Z
+- [Kütahya Porselen Crash Mug Set of 2 – Yellow Modern Porcelain Coffee Mugs (220 ml)](https://www.mitakitchenware.com/products/kutahya-porcelain-crash-mug-set-of-2-yellow): Kütahya Porselen Crash Mug Set of 2 in yellow. Sculptural porcelain mugs, 220 ml, dishwasher-safe, boxed as a gift and ideal for modern kitchens.
+  Updated: 2025-12-18T16:35:46Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee sets
   Availability: Available
@@ -988,7 +988,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4403B4D2-54F5-4B50-9B6E-1FA193530104.jpg?v=1758283048
   Price: $120.00 AUD
 - [Porland Pinky Turkish Coffee Set for Two- (DS 1 Pink) 80ml](https://www.mitakitchenware.com/products/porland-pinky-pattern-turkish-coffee-set-for-two-design-1-pink): Elevate your tableware with Porland Pinky Design 2.Luxurious gold gilded Turkish Coffee cup & saucers, elegant, timeless and durable.
-  Updated: 2025-12-17T02:06:54Z
+  Updated: 2025-12-19T11:35:16Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1001,8 +1001,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/800EABB9-0BA5-44C1-9D3A-2375FA55F826.jpg?v=1758283064
   Price: $110.00 AUD
-- [Porland Cihangir Galata Turkish Coffee Set for Two – Authentic Gift Boxed Turkish Coffee Cup Set (Blue)](https://www.mitakitchenware.com/products/porland-cihangir-galata-turkish-coffee-set-for-two-authentic-gift-boxed-turkish-coffee-cup): Discover the Porland Cihangir Galata Turkish Coffee Set for Two, featuring artisan cups, a traditional cezve, and premium coffee for an unforgettable experience.
-  Updated: 2025-12-09T04:08:18Z
+- [Porland Galata Turkish Coffee Set for Two | Luxury Gift Box](https://www.mitakitchenware.com/products/porland-galata-turkish-coffee-set-for-two-blueet): Authentic Porland Turkish coffee set for two with elegant blue cups, copper cezve & gift box. Perfect luxury gift for weddings & coffee lovers.
+  Updated: 2025-12-19T21:41:23Z
   Vendor: Mita Kitchenware
   Product Type: Mita Kahve Gift Set Collection
   Availability: Available
@@ -1016,7 +1016,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-7028.jpg?v=1758283111
   Price: $110.00 AUD
 - [Porland Lalehan Porcelain Tea Pot 800ml with Lid | Premium Teaware](https://www.mitakitchenware.com/products/porland-lalehan-teapot-with-lid-800ml): Shop the Porland Lalehan 800ml porcelain tea pot with lid. Elegant, heat-resistant design with drip-free spout—perfect for daily tea brewing or gifting.
-  Updated: 2025-12-17T12:29:36Z
+  Updated: 2025-12-18T00:47:02Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1030,7 +1030,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4B7002A6-EA1F-4E35-861F-7AD296AD1BCF.png?v=1763553776
   Price: $90.00 AUD
 - [Porland Sand Beige Tea Pot 1L with Lid | Premium Porcelain Teapot](https://www.mitakitchenware.com/products/porland-sand-beige-tea-pot-with-lid-1000ml): Discover the Porland Sand Beige 1L porcelain tea pot with lid. Crafted from high-grade porcelain for elegant tea serving and lasting durability. Shop now!
-  Updated: 2025-12-17T12:21:29Z
+  Updated: 2025-12-18T00:30:25Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1065,7 +1065,7 @@
     Availability: Not Available
     Price: $29.00 AUD
 - [SOHAI Insulated Reusable bottle 21oz/650ml](https://www.mitakitchenware.com/products/sohai-insulated-reusable-bottle-21oz-650ml): Sohai 650ml Reusable Drink Bottle- Designed in Australia. Stylish, sustainable and insulated to keep drinks cold for up to 24 hours or hot for up to 6 hours. Made from premium stainless steel or BPA-free material. Available in a range of modern colours.
-  Updated: 2025-11-12T00:25:12Z
+  Updated: 2025-12-19T07:35:12Z
   Vendor: Mita Kitchenware
   Product Type: 
   Availability: Available
@@ -1122,7 +1122,7 @@
   Updated: 2025-11-03T12:14:36Z
   Total Products: 11
 - [Tea and Coffee Collection | Shop the Best Selection Online](https://www.mitakitchenware.com/collections/tea-and-coffee-sets): Explore our exquisite Tea and Coffee Collection to find the perfect cu to energize your day. Choose from a variety of  designs
-  Updated: 2025-12-13T22:09:01Z
+  Updated: 2025-12-18T05:05:51Z
   Total Products: 38
 - [Turkish Peshtemal: Authentic, Handwoven Towels & Throws](https://www.mitakitchenware.com/collections/homewares): Discover a wide range of Turkish Peshtemal towels - a traditional, lightweight and highly absorbent option for your bath, beach or home décor needs.
   Updated: 2025-04-28T02:26:53Z
@@ -1140,25 +1140,25 @@
   Updated: 2025-11-26T12:16:09Z
   Total Products: 15
 - [Archive Sale | Exclusive Deals on Trendy Items | Sale](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE SALE collection. Shop now and add timeless pieces to your wardrobe.
-  Updated: 2025-12-17T07:58:07Z
+  Updated: 2025-12-19T21:36:58Z
   Total Products: 76
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2025-12-17T12:29:37Z
+  Updated: 2025-12-19T21:36:43Z
   Total Products: 200
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
-  Updated: 2025-12-09T04:08:39Z
+  Updated: 2025-12-19T21:36:43Z
   Total Products: 2
 - [Porland Premium Collection -](https://www.mitakitchenware.com/collections/porland-premium-collection): Discover the exquisite range of Porland Premium Collection products, designed to elevate your dining experience. Shop now for quality and style.
   Updated: 2025-12-17T12:14:24Z
   Total Products: 15
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2025-12-17T12:29:37Z
+  Updated: 2025-12-19T21:36:43Z
   Total Products: 200
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-17T12:29:37Z
+  Updated: 2025-12-19T21:36:43Z
   Total Products: 200
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
-  Updated: 2025-11-26T11:19:08Z
+  Updated: 2025-12-19T07:35:13Z
   Total Products: 2
 
 ## Blogs
