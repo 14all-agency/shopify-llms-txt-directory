@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-12-18T00:00:49.034Z
+- Updated At: 2025-12-20T00:00:47.141Z
 
 ## Products
 
@@ -5591,7 +5591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/73eaa8c5-65a7-4b42-b6c1-96d8dc5a9730.jpg?v=1736699330
     Price: $42.00 USD
 - [Discover the Ultimate Fast Wireless Charger Stand](https://oceanfrontproducts.com/products/ultimate-3-in-1-fast-wireless-charger-stand-with-night-light): Oceanfront Products offers a fast wireless charger with a 3-in-1 design for smartphones, smartwatches, and earbuds, plus a night light for added convenience.
-  Updated: 2025-11-09T01:25:32Z
+  Updated: 2025-12-18T11:13:14Z
   Vendor: Oceanfront Products
   Product Type: Electronics
   Availability: Available
@@ -8591,7 +8591,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/0727C8D4-9AA7-4BEB-9155-4845141C62CF.png?v=1754883333
   Price: $64.99 USD
 - [Explore Cancun with the Best Starter Itinerary for Travel](https://oceanfrontproducts.com/products/cancun-5-day-starter-itinerary-oceanfront-digital-travel-guide-pdf): Oceanfront Products offers a Cancun starter itinerary for effortless travel, plus electronics and accessories like phone cases, perfect for your stress-free adventure.
-  Updated: 2025-11-09T01:25:42Z
+  Updated: 2025-12-19T20:05:36Z
   Vendor: Oceanfront Products
   Product Type: Digital product
   Availability: Available
@@ -14344,26 +14344,26 @@
   Availability: Available
   Price: $0.00 USD
 - [7 Color LED Mask Red Light Therapy Skin Rejuvenation Massager Beauty Home Skin Face Whitening Anti Aging SPA Device](https://oceanfrontproducts.com/products/7-color-led-mask-red-light-therapy-skin-rejuvenation-massager-beauty-home-skin-face-whitening-anti-aging-spa-device-1): Overview: 1. 3-in-1 LED mask, just use for 10-20 mins before sleep. 2. LED photon therapy, comfortable warm light treatment. 3. The mask is healthy to the skin, the frame structure allows you to wear it stably and comfortably. 4. Better results if you use with face care liquid, lotion or cream, 5. Speed collagen renewal to make skin whiter, tender. 6. Shrink pores, improve skin tone, increase skin elasticity. 7. Dilute freckle, redness, remove acne, inhabit bacterial. 8. Promote blood circulation, lock in moisture. 9. Ideal beauty tool at home, in the office, on travel etc. Function Red Light: 620nm-750nm 1. Whitening your skin and reduce fine lines. 2. Shrinking your pores and smooth your skin. 3. Improve problem skin and repairs blemished skin. 4. Lock Water and Supply Water to Skin, reduces skin sensitivity. Blue Light: 470nm-495nm 1. Smooth skin, rejuvenates sensitive skin. 2. Increase skin elasticity, firming your skin. 3. For tender, dark, uneven color, wrinkles, rough pores, dry, dull and loose facial skin. Yellow Light: 590nm-620nm 1. Through the skin 3-5mm, strengthen your muscles and immune system. 2. Restores the balance of sensitive skin. 3. Increase skin elasticity, tighten skin. Specification: Color:White Material:ABS Output:5V 1A Weight:75g Size:20*17cm/7.87*6.69in Package Content: 1 * LED Mask
-  Updated: 2025-11-09T01:25:55Z
+  Updated: 2025-12-19T19:59:24Z
   Vendor: Oceanfront Products
   Product Type: Personal care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/b014f276-986f-48ed-83f8-27ec0623c82d.jpg?v=1761879639
   - [As shown 2pcs / USB](https://oceanfrontproducts.com/products/7-color-led-mask-red-light-therapy-skin-rejuvenation-massager-beauty-home-skin-face-whitening-anti-aging-spa-device-1?variant=47324586770680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/19cfce47-073c-4b7a-bd35-48eb3f8ff597.jpg?v=1761879645
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/19cfce47-073c-4b7a-bd35-48eb3f8ff597.jpg?v=1766174363
     Price: $69.00 USD
   - [As shown 3pcs / USB](https://oceanfrontproducts.com/products/7-color-led-mask-red-light-therapy-skin-rejuvenation-massager-beauty-home-skin-face-whitening-anti-aging-spa-device-1?variant=47324586803448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/d7005aec-524a-4f65-93bf-f39b35959a91.jpg?v=1761879646
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/d7005aec-524a-4f65-93bf-f39b35959a91.jpg?v=1766174363
     Price: $89.00 USD
   - [As shown / USB](https://oceanfrontproducts.com/products/7-color-led-mask-red-light-therapy-skin-rejuvenation-massager-beauty-home-skin-face-whitening-anti-aging-spa-device-1?variant=47324586836216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1623661791623.jpg?v=1761879646
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1623661791623.jpg?v=1766174363
     Price: $109.00 USD
   - [Set / USB](https://oceanfrontproducts.com/products/7-color-led-mask-red-light-therapy-skin-rejuvenation-massager-beauty-home-skin-face-whitening-anti-aging-spa-device-1?variant=47324586868984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/0ce0d33e-d50f-4b16-b247-68ead4291b4a.jpg?v=1761879646
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/0ce0d33e-d50f-4b16-b247-68ead4291b4a.jpg?v=1766174363
     Price: $139.00 USD
 - [2026 Glam Calendar — A Year of Black Beauty, Luxury & Style | Limited Edition Fashion Art Calendar](https://oceanfrontproducts.com/products/2026-glam-calendar-a-year-of-black-beauty-luxury-style-limited-edition-fashion-art-calendar): Step into 2026 with confidence, color, and couture. The 2026 Glam Calendar transforms every month into a work of art—celebrating beauty, power, and modern femininity. Each page features a high-fashion editorial look captured in rich jewel tones with a touch of golden sparkle. Why You’ll Love It: 🗓 12 exclusive fashion-editorial images ✨ Printed on premium matte photo paper for a luxurious feel 💬 Each month includes an inspiring affirmation 🎁 Ships directly from Printify (on-demand—no delays) 💖 Limited first edition—collectible 2026 release Hang it in your office, vanity room, or studio as your daily reminder to shine. Specifications: Size : 8.5 × 11 in (spiral wall calendar) Paper : Premium 200 gsm matte Cover : Gloss or soft-touch matte
   Updated: 2025-11-11T18:53:20Z
@@ -16919,6 +16919,10 @@
     Updated: 2025-12-15T10:10:19Z
     Author: Oceanfront Products
     Tags: apparel, beach fashion, coastal, effortless style tips, elevate your adventure, floral design, oceanfront style, sweatshirt, sweatshirts, travel, travel essentials, travel planner, tshirts
+  - [Unleash Coastal Sophistication: Discover Travel Essentials with Nautical Anchor Print Swim Trunks for Your Dream Oceanfront Retreat](https://oceanfrontproducts.com/blogs/journal/unleash-coastal-sophistication-discover-travel-essentials-with-nautical-anchor-print-swim-trunks-for-your-dream-oceanfront-retreat): Unleash Coastal Sophistication: Discover Travel Essentials with Nautical Anchor Print Swim Trunks for Your Dream Oceanfront Retreat
+    Updated: 2025-12-19T10:02:33Z
+    Author: Oceanfront Products
+    Tags: apparel, beach, coastal vacation ideas, nautical design, oceanfront getaway, resort, stylish swim trunks, sweatshirts, swimwear, travel essentials, travel planner, tshirts
 
 ## Store Pages
 
