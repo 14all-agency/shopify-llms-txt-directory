@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-18T00:00:47.034Z
+- Updated At: 2025-12-20T00:00:45.314Z
 
 ## Products
 
@@ -1976,7 +1976,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SS7546B.png?v=1675398682
   Price: RM 280.00 MYR
 - [ARTE 800mm Stainless Steel Silver Nano Handmade Sink - Double Bowl](https://bath2u.com/products/arte-800mm-stainless-steel-silver-nano-handmade-sink-double-bowl): Specifications : Colour: Silver Outer Dimension: 800mm(L) x 460 mm(W) x 220mm(D) Material: 304 Stainless steel Thickness: 2mm Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion Suitable for Undermount, and Top Mount
-  Updated: 2024-04-18T15:06:47Z
+  Updated: 2025-12-18T00:32:39Z
   Vendor: ARTE
   Product Type: Kitchen Sinks
   Availability: Available
@@ -2382,7 +2382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/HM4545.png?v=1678088922
   Price: RM 600.00 MYR
 - [NOVA 890mm Undermount Kitchen Sink - Double Bowl](https://bath2u.com/products/nova-890mm-undermount-kitchen-sink-double-bowl): Specification : Material : 304 Stainless Steel Colour : Satin Matt Type : Undermount Length : 890mm Width : 460mm Height : 230mm Thickness : 3.0 mm + 12 mm
-  Updated: 2025-02-12T14:54:05Z
+  Updated: 2025-12-18T09:44:27Z
   Vendor: NOVA
   Product Type: Undermount Kitchen Sinks
   Availability: Available
@@ -2396,7 +2396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/HM8946B.png?v=1678090254
   Price: RM 920.00 MYR
 - [NOVA 450mm Matt Black Undermount Kitchen Sink - Single Bowl](https://bath2u.com/products/nova-450mm-matt-black-undermount-kitchen-sink-single-bowl): Specification : Material : 304 Stainless Steel Colour : Nano Matt Black Finish Type : Undermount Length : 450mm Width : 450mm Height : 230mm Thickness : 3.0 mm + 12 mm Corner Radius : 10 Degrees
-  Updated: 2025-01-18T07:06:48Z
+  Updated: 2025-12-18T01:12:08Z
   Vendor: NOVA
   Product Type: Undermount Kitchen Sinks
   Availability: Available
