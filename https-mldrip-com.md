@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-12-18T00:00:45.200Z
+- Updated At: 2025-12-20T00:00:43.674Z
 
 ## Products
 
@@ -651,7 +651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5883872A-61C0-4740-B157-76EDB9B1290A.png?v=1764176835
     Price: €47.00 EUR
 - [Nike Off Air Force AF 1](https://mldrip.com/products/nike-off-air-force-af-1): MLdrop Air Force Style Sneakers – Streetwear Redefined Bring your outfit to the next level with MLdrop sneakers. Designed with premium materials and unique details, these shoes give you the perfect mix of comfort, durability, and bold street style. Whether for everyday wear or making a statement, MLdrop has you covered. ✔️ Premium quality build ✔️ Comfortable fit for daily use ✔️ Modern, standout design ✔️ Perfect for casual & streetwear looks 🔥 Available now for only €129,99 (was €349,99) – limited stock!
-  Updated: 2025-11-26T17:05:17Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_96dc4c98-615b-402d-9655-ae6e78eefcf2.jpg?v=1764176717
     Price: €125.99 EUR
 - [Polo Ralph Laurens Hoodie-Set](https://mldrip.com/products/untitled-sep10_00-49): Introducing Ralph Lauren's Hoodie-Set, made with premium quality fabric for all-day comfort and durability. The adjustable fit allows for a perfect fit every time while showcasing the iconic red pony emblem. Designed with eco-conscious materials, this sustainable choice makes for an ideal gift for any occasion.
-  Updated: 2025-11-26T17:07:37Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -2989,7 +2989,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_27209c6e-3943-4e12-908a-b79967e44682.jpg?v=1763985191
     Price: €119.99 EUR
 - [Moncler Montbeliard short down jacket with hood](https://mldrip.com/products/montbeliard-short-down-jacket-with-hood): Moncler Montbéliard Short Down Jacket with Hood – Available at MLDrop.Store The Moncler Montbéliard Short Down Jacket is a modern classic that combines luxury design with functional warmth. Crafted from premium nylon laqué with a glossy finish, this jacket is filled with high-quality down for superior insulation without bulk. Featuring a detachable hood, two-way zip closure, and the iconic Moncler logo patch on the sleeve, it’s built for both city streets and cold-weather adventures. Premium nylon laqué shell with glossy finish Down-filled for lightweight warmth Detachable hood for versatility Two-way front zipper & functional pockets Signature Moncler logo patch Stay warm in style with the Montbéliard Short Down Jacket, available now at MLDrop.Store.
-  Updated: 2025-11-26T16:40:57Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -3685,7 +3685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8547B594-35C5-4068-9159-6FC92D2E36E1.jpg?v=1763990006
     Price: €55.99 EUR
 - [B22 Dior](https://mldrip.com/products/b22-dior): Step up your drip with the iconic B22 Dior sneakers — where high fashion collides with streetwear energy. These kicks flex that bold, chunky silhouette everyone’s hyped about, crafted with premium materials that scream quality and style. Whether you’re hitting the city streets or pulling up to the squad, B22 Dior gives you that next-level vibe, turning heads and making moves. Why B22 Dior? Signature Dior craftsmanship with a modern chunky design Breathable, comfy fit for all-day flex Perfect for drip that slaps on and off the field Versatile enough to pair with anything, from fits to casual vibes Upgrade your sneaker game with B22 Dior — cuz you’re not just walking, you’re making a statement.
-  Updated: 2025-12-05T00:54:53Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -3891,7 +3891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764838810
     Price: €130.99 EUR
 - [Dior B30 Sneakers](https://mldrip.com/products/dior-b30): Step into the future of fashion with the Dior B30 Sneakers – a bold blend of luxury design and athletic edge. Featuring the signature "CD" reflective logo, lightweight mesh construction, and a futuristic silhouette, these sneakers redefine what it means to walk in style. Perfect for streetwear lovers, high-fashion enthusiasts, or anyone who demands comfort and class – the B30 is more than just a sneaker, it’s a statement. Product Features: Iconic "CD" reflective logo for that bold Dior touch Lightweight & breathable mesh upper for all-day wear Cushioned sole with shock-absorbing support Sleek, aerodynamic design that turns heads Unisex sizing – versatile for any wardrobe Luxury Meets Performance. From the runway to the streets, the Dior B30 delivers unmatched comfort, quality, and style. Add to Cart Now and bring high-end fashion to your sneaker rotation today!
-  Updated: 2025-11-26T16:41:41Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -4303,7 +4303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/16484E5D-8F21-4180-A79B-73D988B669E0.png?v=1763994804
     Price: €122.00 EUR
 - [POLO Ralph Lauren Sweater](https://mldrip.com/products/polo-ralph-lauren-sweater): Upgrade your wardrobe with the high-quality POLO Ralph Lauren Sweater. Made with the best materials, this sweater will keep you warm and stylish all winter long. Perfect for any occasion, it's a must-have for any fashion-forward individual. Add a touch of luxury to your wardrobe with this POLO Ralph Lauren Sweater.
-  Updated: 2025-11-26T16:42:03Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Pullovers
   Availability: Available
@@ -4603,7 +4603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1E397C16-BFD9-47D0-A737-4890FF098227.jpg?v=1758749109
     Price: €45.99 EUR
 - [Nike Air Force 1](https://mldrip.com/products/air-force): Classic. Clean. Unstoppable. The Nike Air Force 1 is a true icon in the sneaker world . With its timeless silhouette, crisp leather upper, and unbeatable comfort, this shoe has ruled the streets since 1982 – and it’s not slowing down anytime soon. Whether you're dressing up or keeping it casual, the AF1 delivers effortless drip, all-day comfort, and that legendary energy. Product Features: Premium leather upper for durability & a clean look Nike Air cushioning for lightweight comfort Rubber outsole for excellent traction & grip Perforated toe box for breathability Unisex sizing – made for everyone From Courts to Streets. The Air Force 1 isn’t just a sneaker – it’s a movement. Add to Cart Now and step into the legacy.
-  Updated: 2025-12-05T10:26:24Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -5419,7 +5419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/f5b20d8c-d6f8-5743-98eb-b6dcbbe0.jpg?v=1764023080
     Price: €79.99 EUR
 - [ASICS Gel-1130™](https://mldrip.com/products/asici-1130-gels-nyc): Step into the ultimate Y2K aesthetic with the ASICS Gel-1130™ in Blush Bloom. These kicks are a perfect fusion of performance tech and street-style drip — with pastel pink accents, breathable mesh, silver detailing, and that iconic ASICS side stripe. Why You’ll Love Them: Cushioned Gel™ sole for all-day comfort — walk, run or stunt without limits Breathable mesh upper keeps your feet fresh AF Durable build + retro running style = everyday staple Goes with everything from cargos to cozy fits From IG-worthy outfits to your daily hustle, these sneakers got you covered. Run it up while it’s hot — limited stock!
-  Updated: 2025-11-26T16:43:32Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6008,7 +6008,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/05489B14-44C8-4DB6-A6C3-4ED4D8EB9E9A.png?v=1764023554
     Price: €115.00 EUR
 - [Air Jordan 4 Retro x KAWS](https://mldrip.com/products/nike-air-jordan-4-retro-kaws-grey): Level up your sneaker rotation with the legendary Air Jordan 4 Retro x KAWS collab – a true grail for collectors and streetwear kings alike. Dressed in luxe Cool Grey suede and detailed with KAWS’ signature “XX” and hand motifs, this pair ain’t just shoes — it’s wearable art. Why They Hit Different: Premium suede upper with KAWS’ iconic touch Glow-in-the-dark outsole for night-time flex Limited-edition collab – no restocks, ever Classic AJ4 silhouette, upgraded with that designer drip Whether you're rocking ‘em or displaying ‘em, these kicks scream status. Real sneakerheads know: you don’t sleep on KAWS. Secure your pair before they vanish. Drops like this don’t come twice.
-  Updated: 2025-11-26T16:43:54Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6062,7 +6062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/19E55BE4-52AD-4ECD-9D60-A16329647006.jpg?v=1764023700
     Price: €120.00 EUR
 - [Air Jordan 11 Retro](https://mldrip.com/products/jordan-11-retro): The Jordan 11 Retro isn't just a sneaker — it's a whole legacy. Rocked by MJ during his comeback era, this pair brings championship energy straight to your rotation. Patent leather shine. Icy sole. Iconic silhouette. It's the definition of timeless drip. Why These Hit Different: Premium patent leather + ballistic mesh upper for that sleek, glossy flex Full-length Air-Sole unit = elite comfort & bounce Translucent rubber outsole with serious grip and retro feels Jumpman logo & carbon fiber plate for OG sneakerhead vibes Whether you're lacing up for the court or the culture, the Jordan 11 Retro always makes a statement. It’s bold. It's classic. It's straight-up GOAT-tier. Limited pairs. Once they’re gone, they’re GONE. Cop yours now.
-  Updated: 2025-11-26T16:44:04Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6418,7 +6418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B4E96730-4147-44F2-B1A1-852D8B8377FB.jpg?v=1764023885
     Price: €229.99 EUR
 - [UGG Lowmel](https://mldrip.com/products/ugg-lowmel): The UGG Lowmel isn't just a sneaker — it’s a whole vibe. Mixing that signature UGG softness with a fresh, low-key streetwear design, this is the pair you rock when you want comfort and clout. Why It Hits Different: Suede + mesh upper for a luxe yet breathable feel Treadlite by UGG™ outsole = lightweight, cushy, built to flex Padded interior wraps your foot like a cloud Neutral tones that match any fit — from cozycore to clean street looks Slide into the ultimate blend of chill and style. Whether you're running errands, grabbing coffee, or just stepping out, the Lowmel keeps it fresh without trying too hard. Drip + comfort = certified everyday essential. Don’t sleep.
-  Updated: 2025-11-26T16:44:49Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Boots
   Availability: Available
@@ -6552,7 +6552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1902.png?v=1764024059
     Price: €150.00 EUR
 - [Louis Vuitton Skate](https://mldrip.com/products/lv-skate-sneaker): Pull up in pure heat with the Louis Vuitton Skate Sneaker – where high fashion slides straight into streetwear. Designed for those who flex different, these kicks blend bold LV vibes with classic skate culture. Think chunky silhouette, premium materials, and that iconic monogram flex. Key Features: Luxury-grade leather & suede with LV monogram detailing Thick rubber outsole for max grip and street skater energy Padded collar + cushy insole = elite comfort all day Statement sneaker that turns heads wherever you go Whether you're rocking cargos, jeans, or oversized fits, this pair levels up your style game. Cop ‘em now and walk like you're on a Paris runway... or just flexing on the block. Limited pairs available. Real ones don’t wait.
-  Updated: 2025-12-02T13:51:06Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -7482,7 +7482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1764024480
     Price: €120.99 EUR
 - [Nike Air Max 95](https://mldrip.com/products/nike-air-max-95-iconic-style-all-day-comfort): Step into a legacy of style and innovation with the Nike Air Max 95. Originally inspired by the human body, this iconic silhouette features layered panels that mimic muscle fibers, with a bold gradient design that turns heads from every angle. Engineered with visible Air cushioning in the heel and forefoot, the Air Max 95 delivers next-level comfort whether you’re on the streets, at the gym, or on the move. The breathable mesh upper with suede or synthetic overlays offers durability and support, while the lacing system adapts to your foot for a snug, customized fit. Key Features: Visible Max Air units for lightweight cushioning Mesh upper with synthetic or leather overlays for breathability and structure Padded collar and tongue for added comfort Rubber outsole with a waffle pattern for traction and durability Sleek, street-ready design with retro flair Perfect for sneakerheads, athletes, and everyday wearers alike — the Air Max 95 is more than a shoe, it’s a statement. Available in multiple colorways. Limited stock – order now before they’re gone!
-  Updated: 2025-12-14T20:10:02Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -9714,7 +9714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F1D7B0E7-E140-48CC-A771-53C78D880FEA.jpg?v=1763992067
     Price: €40.00 EUR
 - [Louis Vuitton](https://mldrip.com/products/louis-vuitton-shoes-wxqg): Step up your fashion game with these Louis Vuitton-inspired sneakers – the perfect blend of elegance and edge. Featuring the iconic LV monogram and crafted with premium materials, these kicks are built for trendsetters who refuse to settle. Whether you're hitting the streets or flexing on the 'Gram , these sneakers offer style, comfort, and status in every step. Product Highlights: Signature LV monogram pattern High-quality synthetic leather & suede Soft cushioned insoles for all-day comfort Non-slip rubber soles for confident grip Unisex design – fits every vibe Make Every Step Count. Turn heads, set trends, and walk with confidence in designer-level luxury – without the luxury price tag. Add to Cart Now and elevate your shoe game instantly!
-  Updated: 2025-11-26T16:48:39Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrop
   Product Type: Sneakers
   Availability: Available
@@ -10718,7 +10718,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2E7A6475-AFFF-4170-A93D-68D8157A2147.png?v=1764025228
     Price: €75.00 EUR
 - [Y2K Hoodie & Sweatpants Set](https://mldrip.com/products/y2k-hoodie-sweatpants-set): SPECIFICATIONS Applicable Scene: CASUAL Closure Type: Zipper Craft of Weaving: Knit Gender: Men Hign-concerned Chemical: None Material: COTTON Sleeve Length(cm): Full Style: HIP HOP Thickness: Standard whether full opening: Yes Zipper Hoodie Sweatpants Two Piece Set Y2K Sportswear Men Women Clothes Letter Embroidery Oversized Sweatshirt Casual Pants Suit Hoodies Size S: Shoulder 57 bust 108 Length 65 Sleeve 65 M: Shoulder 59 bust 112 Length 67 Sleeve 67 L: Shoulder 61 bust 116 Length 69 Sleeve 69 XL: Shoulder 63 bust 120 Length 71 Sleeve 71 XXL: Shoulder 65 bust 124 Length 73 Sleeve 73 Pants Size S Waist:78cm Hips:108cm Length:104cm slack bottom:50cm M Waist:80cm Hips:110cm Length:105cm slack bottom:52cm L Waist:84cm Hips:114cm Length:106cm slack bottom:53cm XL Waist:88cm Hips:118cm Length:107cm slack bottom:54cm XXL Waist:92cm Hips:122cm Length:108cm slack bottom:55cm sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:49:46Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -10924,7 +10924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa45ea32cea9744e4a52d96046af711ed5.webp?v=1763977302
     Price: €69.99 EUR
 - [Y2K Streetwear Tracksuit Set](https://mldrip.com/products/y2k-streetwear-tracksuit-set): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Tatting Decoration: Pockets Gender: Men Hign-concerned Chemical: None Material: COTTON,POLYESTER Pant Closure Type: Zipper Fly Sleeve Length(cm): Full Style: Vintage Thickness: Standard whether full opening: No Hoodies Size Table S: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cm pants Size Table S: Length:94cm WAIST:72cm HIP:98cm Thigh:60cm M:Length:96cm WAIST:76cm HIP:102cm Thigh:62cm L:Length:98cm WAIST:80cm HIP:106cm Thigh:64cm XL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm 2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm 3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:49:54Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -11068,7 +11068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4B63D14-D333-4EA9-ABA8-446DB6B407AB.png?v=1763979545
     Price: €34.99 EUR
 - [Streetwear T-Shirt & Shorts Set](https://mldrip.com/products/streetwear-t-shirt-shorts-set): SPECIFICATIONS Advantage: Good Quality, Fast Shipping, Free Shipping Applicable Scene: Daily Closure Type: None Collar: O-Neck Craft of Weaving: Knit French: Tee-shirt homme hip hop Gender: Men,Men Women Boy Girl Lady Unisex Hign-concerned Chemical: None Material: COTTON Material Composition: Cotton,Polyester Offer: Drop Shipping/WholeSale Out Side Length: Shorts Pant Closure Type: Drawstring Pattern Type: Print Season: Spring Summer Autumn Fall Sleeve Length(cm): Short (4 - 16 Inch) Spanish: Camiseta 2024 hip hop de los hombres Style: HIP HOP T shirt Pattern: Art Letter Graphic Men's T-Shirts 2024 Funny Printed Short Sleeve Theme: Art Letter Graphic Printed Black Style Thickness: Standard Tshirt Material: High Quality whether full opening: No 11215 FEEDBACK 1.If you are satisfied with our products and services, please leave your positive feedback of 5 stars . And 5 stars for the detailed rating of your order. We will of course give your positive feedback. 2. If you don't satisfied our porducts, please contact us before you leave negative feedback. We guarantee we will 100% solve any problem for you. SHIPPING 1.Preparing Time: we need 3-7 working days to prepare your order, Ignoring how many days of processing remains. 2. There is no limitied Order/Value in our store. We offer free shipping worldwide for any quantity and any value 3. APO/FPO/DPO Shipping We apologize that P.O. Boxes and military addresses (APO, FPO) cannot be delivered. REFOUND & EXCHANGE We have a QA team to test your ordered products are functioning correctly before they are packed and sent to you. But you do need to confirm your information carefully before buying (a size measurement will be show below each items). Attention: we can not accept modifying or canceling after your order has been shipped. The following information is required when you reflect the problem: ---Order number ---Image/video of the defective products. If you have any question, please feel free to contact us! OUR GUARANTEE If you are not 100% satisfied with the quality of your purchase, you can return or exchange your items within 30 days from the delivered date. Request: 1. Items received within 30 days from the delivered date. 2. Items received unused, undamaged and in original package. 3. Return shipping fee was paid by buyer. Aliexpress Local Return Service About free return service. 1.Please openthe dispute first . 2.Choose 15 days free return and refund service. 3.Choose Reason: no reason. You can go to the post office tosend back the productswith out paying any fees.(Transportation expenses payment method: choose the recipient to pay) Service supported countries: USA, Canada, Australia, UK, France, Spain, Germany, Russia, Brazil, Israel, South Korea, Saudi Arabia, UAE, Poland, Netherlands, Italy. Attention: Delivery of damaged goods, or goodsnot corresponding to the order, cannot be refunded. Please contact customer service for damaged goods.
-  Updated: 2025-11-26T16:50:04Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -11344,7 +11344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89758b9c266a42a1b515c5d2ed994643J.webp?v=1763979835
     Price: €39.99 EUR
 - [Y2K Gothic Streetwear Hoodie Set](https://mldrip.com/products/y2k-gothic-streetwear-hoodie-set): SPECIFICATIONS Advantage: Good Quality, Fast Shipping, Free Shipping Applicable Scene: Daily Closure Type: None Craft of Weaving: Knit Decoration: Pockets Gender: Men,Men Women Boy Girl Lady Unisex Hign-concerned Chemical: None Hoodies Pattern: Letter Graphic Men's Hoodies Sweatshirts 2023 Funny Printed Long Sleeve Material: COTTON,POLYESTER Material Composition: COTTON,POLYESTER Offer: Drop Shipping/WholeSale Out Side Length: Full Pant Closure Type: Drawstring Pattern Type: Cartoon Season: Spring Autumn Winter Sleeve Length(cm): Full Style: Casual Sweatshirts Material: High Quality Theme: Letter Graphic Printed Black Style Thickness: Standard whether full opening: No 11390 FEEDBACK 1.If you are satisfied with our products and services, please leave your positive feedback of 5 stars . And 5 stars for the detailed rating of your order. We will of course give your positive feedback. 2. If you don't satisfied our porducts, please contact us before you leave negative feedback. We guarantee we will 100% solve any problem for you. SHIPPING 1.Preparing Time: we need 3-7 working days to prepare your order, Ignoring how many days of processing remains. 2. There is no limitied Order/Value in our store. We offer free shipping worldwide for any quantity and any value 3. APO/FPO/DPO Shipping We apologize that P.O. Boxes and military addresses (APO, FPO) cannot be delivered. REFOUND & EXCHANGE We have a QA team to test your ordered products are functioning correctly before they are packed and sent to you. But you do need to confirm your information carefully before buying (a size measurement will be show below each items). Attention: we can not accept modifying or canceling after your order has been shipped. The following information is required when you reflect the problem: ---Order number ---Image/video of the defective products. If you have any question, please feel free to contact us! OUR GUARANTEE If you are not 100% satisfied with the quality of your purchase, you can return or exchange your items within 30 days from the delivered date. Request: 1. Items received within 30 days from the delivered date. 2. Items received unused, undamaged and in original package. 3. Return shipping fee was paid by buyer. Aliexpress Local Return Service About free return service. 1.Please openthe dispute first . 2.Choose 15 days free return and refund service. 3.Choose Reason: no reason. You can go to the post office tosend back the productswith out paying any fees.(Transportation expenses payment method: choose the recipient to pay) Service supported countries: USA, Canada, Australia, UK, France, Spain, Germany, Russia, Brazil, Israel, South Korea, Saudi Arabia, UAE, Poland, Netherlands, Italy. Attention: Delivery of damaged goods, or goodsnot corresponding to the order, cannot be refunded. Please contact customer service for damaged goods.
-  Updated: 2025-11-26T16:51:25Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -11550,7 +11550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S196203327be1488ca22d765371502611K.webp?v=1763974465
     Price: €39.99 EUR
 - [Y2K Retro Streetwear Hoodie Set](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set): SPECIFICATIONS Applicable Scene: Shopping Applicable Season: Four Seasons Closure Type: Zipper Collar: O-Neck Craft of Weaving: Knit Decoration: Pockets Gender: Men Hign-concerned Chemical: None Material: POLYESTER Material Composition: polyester Out Side Length: Midi Pant Closure Type: Drawstring Pattern Type: Solid Sleeve Length(cm): Full Style: Casual Thickness: Standard whether full opening: Yes Y2K New Retro Casual Two-Piece American High Street Harajuku Sweatshirt Straight Trousers Men Casual Fashion Hoodie Streetwear
-  Updated: 2025-11-26T16:53:04Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -11756,7 +11756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sff3eacce3aac421284b7b361fae2d249j.webp?v=1763975463
     Price: €37.99 EUR
 - [Unisex Straight Leg Pants](https://mldrip.com/products/unisex-straight-leg-pants): SPECIFICATIONS Applicable Scene: Shopping Applicable Season: Four Seasons Closure Type: Elastic Waist Craft of Weaving: Tatting Decoration: Embroidery Fit Type: Loose Gender: Men Hign-concerned Chemical: None Length: Ankle-Length Pants Material: POLYESTER Pant Style: Straight Style: High Street Thickness: Midweight Waist Size(in inches): - Waist Type: MID 2025 Fashion Embroidery Casual Slim Pants Y2k Street Wearing Solid Color Sport Pants Men and Women Couple Straight Leg Pants Hot Pants Size S Waist:78cm Hips:108cm Length:104cm slack bottom:50cm M Waist:80cm Hips:110cm Length:105cm slack bottom:52cm L Waist:84cm Hips:114cm Length:106cm slack bottom:53cm XL Waist:88cm Hips:118cm Length:107cm slack bottom:54cm XXL Waist:92cm Hips:122cm Length:108cm slack bottom:55cm sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:53:09Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -11882,7 +11882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1763908794
     Price: €35.99 EUR
 - [Gothic Streetwear Oversized Hoodie Set](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Tatting Hign-concerned Chemical: None Material: COTTON,POLYESTER Pattern Type: Print Sleeve Length(cm): Full Style: HIP HOP Thickness: Standard whether full opening: Yes Hoodies Size Table S: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cm pants Size Table S: Length:94cm WAIST:72cm HIP:98cm Thigh:60cm M:Length:96cm WAIST:76cm HIP:102cm Thigh:62cm L:Length:98cm WAIST:80cm HIP:106cm Thigh:64cm XL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm 2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm 3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:53:24Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -12088,7 +12088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9336CAF8-21D4-4A65-8686-9FDBD4579E68.png?v=1763811363
     Price: €52.99 EUR
 - [Baggy Wide-Leg Jeans](https://mldrip.com/products/baggy-wide-leg-jeans): SPECIFICATIONS Applicable Scene: Dance Applicable Season: Four Seasons Closure Type: Zipper Fly Country Preference: General Craft of Weaving: Knit Elasticity: Non Strech Fabric Type: Plaid Gender: Men Hign-concerned Chemical: None Item Type: JEANS Jeans Style: Loose Jeans Length: full length Material: Denim,COTTON Special Size: Standard Size Style: High Street Waist Type: low Wash: light size_info: {"sizeInfoList":[{"length":{"cm":"68","inch":"26.77"},"size":"S","vid":-1},{"length":{"cm":"72","inch":"28.35"},"size":"M","vid":-2},{"length":{"cm":"76","inch":"29.92"},"size":"L","vid":-3},{"length":{"cm":"80","inch":"31.50"},"size":"XL","vid":-4},{"length":{"cm":"84","inch":"33.07"},"size":"XXL","vid":-5},{"length":{"cm":"88","inch":"34.65"},"size":"XXXL","vid":-6}]} Warm Tip :1、Conversion:1inch=2.54cm, 1cm=0.394inches2、Please follow the size chart to select the size but not select directly according to your habits.3、Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item.4、Item Measure by hand, it could be 1-3cm different,your kind understanding will be much appreciated. Size Length Waist Hip S 100 70 110 M 102 74 114 L 104 78 118 XL 106 82 122 2XL 108 86 126 3XL 110 90 130 height weight Recommended 155-165CM 40-50KG S 160-170CM 50-60KG M 160-175CM 60-67.5KG L 165-180CM 67.5-75KG XL 170-185CM 75-82.5KG 2XL 175-190CM 82.5-90KG 3XL
-  Updated: 2025-11-23T00:16:38Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -12360,7 +12360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S09a2a0e32e054c90b4b767cb369d2bcfP.webp?v=1759781029
     Price: €43.99 EUR
 - [High Street Tracksuit Set](https://mldrip.com/products/high-street-tracksuit-set): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Tatting Decoration: Pockets Gender: Men Hign-concerned Chemical: None Material: COTTON,POLYESTER Pant Closure Type: Zipper Fly Sleeve Length(cm): Full Style: HIP HOP Thickness: Standard whether full opening: Yes Hoodies Size TableS: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cmM: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cmL: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cmXL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cmpants Size TableS: Length:94cm WAIST:72cm HIP:98cm Thigh:60cmM:Length:96cm WAIST:76cm HIP:102cm Thigh:62cmL:Length:98cm WAIST:80cm HIP:106cm Thigh:64cmXL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cmSize mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-12-14T18:22:17Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -12618,7 +12618,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4434E788-8390-4C75-9B2A-0006CB8D29FA.png?v=1763976098
     Price: €33.99 EUR
 - [6PM Hoodie Set](https://mldrip.com/products/drill-embroidered-hoodie-set): SPECIFICATIONS Style: HIP HOP Type: Loose • Cross-border Trade : Experience global fashion with this cross-border trade product, bringing international style to your wardrobe. • Hip Hop Style : Embrace the urban vibe with this Hip Hop style hoodie, perfect for those who love to stand out. • Loose Fit : Enjoy comfort and freedom of movement with the loose fit design, suitable for all body types. • Embroidery Detailing : Add a touch of elegance with the intricate embroidery, making this hoodie a standout piece. • Long Sleeve Design : Stay cozy with the long sleeve design, ideal for cooler days or as a layering piece.
-  Updated: 2025-11-26T16:55:34Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -12736,7 +12736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0089DE2D-E19B-4DC5-8B4A-E0568F2F4DCE.png?v=1763980392
     Price: €75.99 EUR
 - [6PM Drill Embroidered Hoodie Set](https://mldrip.com/products/6pm-drill-embroidered-hoodie-set): SPECIFICATIONS Style: HIP HOP Type: Loose • Cross-border Trade : Experience global fashion with this cross-border trade product, bringing international style to your wardrobe. • Hip Hop Style : Embrace the urban vibe with this Hip Hop style hoodie, perfect for those who love to stand out. • Loose Fit : Enjoy comfort and freedom of movement with the loose fit design, suitable for all body types. • Embroidery Detailing : Add a touch of elegance with the intricate embroidery, making this hoodie a standout piece. • Long Sleeve Design : Stay cozy with the long sleeve design, ideal for cooler days or as a layering piece.
-  Updated: 2025-11-26T17:04:44Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -13052,7 +13052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D649964E-76E7-481D-AFCF-3A52EF785D82.png?v=1763985817
     Price: €74.99 EUR
 - [Y2K Harajuku Hoodie & Sweatpants Set](https://mldrip.com/products/y2k-harajuku-hoodie-sweatpants-set): SPECIFICATIONS Applicable Scene: CASUAL Applicable Season: Autumn And Winter Closure Type: None Craft of Weaving: Knit Gender: Men Hign-concerned Chemical: None Material: COTTON Pant Closure Type: Drawstring Pattern Type: Letter Sleeve Length(cm): Full Style: Casual Thickness: Thick whether full opening: No Harajuku New Autumn and Winter Hoodies Two Piece Set Y2k Clothes for Men Loose Casual Sweatpants Tracksuit Mens Sports Suit Hoodies Size S: Shoulder 57 bust 108 Length 65 Sleeve 65 M: Shoulder 59 bust 112 Length 67 Sleeve 67 L: Shoulder 61 bust 116 Length 69 Sleeve 69 XL: Shoulder 63 bust 120 Length 71 Sleeve 71 XXL: Shoulder 65 bust 124 Length 73 Sleeve 73 Pants Size S Waist:78cm Hips:108cm Length:104cm slack bottom:50cm M Waist:80cm Hips:110cm Length:105cm slack bottom:52cm L Waist:84cm Hips:114cm Length:106cm slack bottom:53cm XL Waist:88cm Hips:118cm Length:107cm slack bottom:54cm XXL Waist:92cm Hips:122cm Length:108cm slack bottom:55cm sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:57:23Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -13118,7 +13118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/6650E60A-09C6-4ED7-8452-DC983159CF84.png?v=1763976265
     Price: €96.99 EUR
 - [Grey Disc Pattern Men’s Shorts & Tracksuit Set](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set): SPECIFICATIONS Applicable Scene: Trip Applicable Season: Four Seasons Closure Type: None Collar: O-Neck Craft of Weaving: Knit Gender: Men Hign-concerned Chemical: None Material: COTTON Sleeve Length(cm): Full Style: High Street Thickness: Standard whether full opening: No Grey Disc Pattern Mens Shorts Set Sporty Casual Wear Comfortable Loose Tracksuit Breathable Fabric Minimalist Modern Athleisure Size Table S: Shoulder:59cm Bust:122cm Length:60cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:62cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:64cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:66cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:68cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:70cm Sleeve:55cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option. Size Table S: Length:47cm WAIST:72cm HIP:98cm Thigh:60cm M:Length:48cm WAIST:76cm HIP:102cm Thigh:62cm L:Length:49cm WAIST:80cm HIP:106cm Thigh:64cm XL:Length:50cm WAIST:84cm HIP:110cm Thigh:66cm 2XL:Length:51cm WAIST:88cm HIP:114cm Thigh:68cm 3XL:Length:52cm WAIST:92cm HIP:118cm Thigh:70cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-26T16:57:35Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -13654,7 +13654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1764176701
     Price: €70.00 EUR
 - [Old School Shoes – Classic Vibes, Modern Comfort](https://mldrip.com/products/old-school-shoes-classic-vibes-modern-comfort): Step back in style with the Old School Shoes, a perfect mix of retro design and everyday comfort. These kicks bring that timeless ‘90s skate and streetwear energy — simple, clean, and always fresh. 👟 Why They Hit: Vintage low-top silhouette – iconic look that never fades Durable canvas & rubber sole – built for daily wear and street movement All-day comfort – cushioned insole for smooth steps Unisex design – made for anyone who loves classic drip From the skate park to the city streets, these sneakers deliver OG vibes with a modern twist — the perfect pair for every fit. 👉 Grab yours today and walk with that old-school confidence. 🖤🕶️
-  Updated: 2025-11-26T16:57:56Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -14007,7 +14007,7 @@
   Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5621.png?v=1764176354
   Price: €94.99 EUR
 - [Luxury Montcla-Style Puffer Jacket – Premium Winter Coat for Men & Women](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women): Stay warm in style with our Luxury Montcla-Style Puffer Jacket, inspired by high-end European fashion. This premium winter coat blends luxury design, durability, and comfort — making it perfect for cold weather or everyday streetwear looks. Crafted with high-quality down filling and a water-resistant shell, it keeps you cozy even in freezing conditions. The adjustable hood, secure zipper pockets, and sleek tailored fit give it a fashionable edge that matches perfectly with any outfit. Key Features: 🧥 Ultra-Warm Down Padding – Lightweight yet powerful insulation for maximum warmth 💧 Water & Wind Resistant Fabric – Stay protected in all weather conditions 🎯 Tailored Fit – Combines comfort with a modern streetwear silhouette 🎒 Functional Design – Multiple secure pockets and smooth front zipper 🔥 Stylish Look – Inspired by luxury European outerwear trends Why You’ll Love It: Whether you’re dressing up for the city or keeping it casual outdoors, this premium puffer jacket delivers the perfect balance of fashion and functionality. Built to last, it’s your go-to piece for warmth, comfort, and modern style. 🛒 Available Now at Mldrip.com ✅ Fast shipping worldwide ✅ Limited stock – order before it’s sold out!
-  Updated: 2025-11-26T16:59:19Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14097,7 +14097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1764176354
     Price: €159.99 EUR
 - [Luxury Fur Hooded Winter Parka Jacket – Black | MLDRIP](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip): Stay warm and stylish all winter long with the Luxury Fur Hooded Winter Parka Jacket from MLDRIP. This high-quality long puffer coat is built to handle cold weather with comfort and drip. Designed with a detachable fur-trimmed hood, deep front pockets, and a windproof, water-resistant outer shell, it gives you the perfect mix of fashion and warmth. Whether you’re heading out for a casual day, winter trip, or city night, this jacket keeps you cozy and confident in every move. Features: Premium puffer design for max warmth Detachable faux fur hood for flexible style Durable front zipper + button closure Two large flap pockets and one chest pocket Soft inner lining for extra comfort Perfect for cold, snowy, or windy days
-  Updated: 2025-11-26T16:59:24Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14159,7 +14159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1764176360
     Price: €159.99 EUR
 - [Unisex Loose Fit Y2K Streetwear Hoodie – Letter Print Hip Hop Sweatshirt](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt): SPECIFICATIONS Collar: O-Neck Decoration: None Material: POLYESTER Sleeve Length(cm): Full Style: Other Thickness: Thick Y2K Streetwear Style Embrace the Y2K era with this trendy streetwear piece, perfect for those who love to stand out. Durable Material Crafted from high-quality polyester, this sweatshirt offers durability and longevity. Comfortable Fit The loose fit of this sweatshirt ensures maximum comfort, ideal for casual wear or lounging at home. Versatile Accessory Whether you're hitting the streets or heading to a casual event, this sweatshirt is a versatile accessory. Unisex Design This versatile garment is designed to fit both men and women, making it a great addition to any wardrobe.
-  Updated: 2025-12-15T14:00:49Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -14365,7 +14365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6e68ed08de8546979172d6945dd588021.webp?v=1764176374
     Price: €58.99 EUR
 - [Warm Men's Black Puffer Jacket for Comfort and Cold Weather](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather): Stay warm and stylish all season with this men’s black puffer jacket, designed for ultimate comfort and protection against cold weather. Crafted from premium lightweight materials, it delivers high insulation without feeling bulky — perfect for everyday wear, travel, or outdoor adventures. With its sleek modern fit, zip-up front, and soft inner lining, this jacket combines functionality and streetwear style in one. The water-resistant outer shell helps keep you dry, while the adjustable hood and secure pockets give you practical comfort wherever you go. Features: 🔥 Ultra-warm insulation for freezing temperatures 💧 Water & wind-resistant shell to handle winter weather 🎯 Tailored streetwear fit — stylish yet comfortable 🧥 Lightweight & breathable design for all-day wear 🎒 Multiple zip pockets for your essentials Why You’ll Love It: Whether you’re out in the city or hitting the outdoors, this black puffer jacket keeps you cozy, confident, and on-trend. It’s built for warmth, comfort, and modern street style — a must-have for every winter wardrobe. 🛒 Shop now on Mldrip.com ✅ Fast worldwide shipping ✅ Limited stock available – order before it’s gone!
-  Updated: 2025-11-26T16:59:41Z
+  Updated: 2025-12-19T11:21:06Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -15729,7 +15729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5206.png?v=1764176617
     Price: €178.99 EUR
 - [Ugg Sneaker High W Highmel](https://mldrip.com/products/ugg-sneaker-high-w-highmel): Stay warm and stylish with the UGG Sneaker High W Highmel, the perfect mix of winter comfort and clean sneaker style. This high-top design gives you that cozy UGG feeling with extra ankle support, soft lining and a smooth premium finish wey look good with any winter outfit. These sneakers get a warm inner lining, lightweight sole and strong grip, making them perfect for cold weather and everyday wear. If you want UGG comfort but in a fresh sneaker look, this one na the perfect choice. Key Features Warm inner lining for winter comfort High-top design for support + style Lightweight, flexible sole Soft premium upper Strong outsole grip for winter streets Comfort fit for all-day wear Easy to match with jeans, leggings, cargo winter fits Why You’ll Love It Feels like a warm UGG boot but looks like a clean sneaker Super comfortable for long walking Stylish high-top design that upgrades winter outfits Perfect for cold days, casual wear or travel
-  Updated: 2025-12-09T03:35:46Z
+  Updated: 2025-12-19T11:04:46Z
   Vendor: Mldrip
   Product Type: Boots
   Availability: Available
@@ -17310,10 +17310,10 @@
   Updated: 2025-12-13T15:35:10Z
   Total Products: 18
 - [Sneakers](https://mldrip.com/collections/sneakers)
-  Updated: 2025-12-15T12:35:06Z
+  Updated: 2025-12-19T11:04:48Z
   Total Products: 44
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-12-15T12:35:06Z
+  Updated: 2025-12-19T11:04:48Z
   Total Products: 148
 - [Jackets](https://mldrip.com/collections/jackets)
   Updated: 2025-12-13T13:49:38Z
