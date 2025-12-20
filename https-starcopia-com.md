@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-19T00:00:31.293Z
+- Updated At: 2025-12-20T00:00:30.459Z
 
 ## Products
 
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_02d9de6f-f677-46dd-854d-224bf21bfca3.png?v=1726301061
   Price: $19.99 USD
 - [Pure Color Camera Shutter Button Upscale and Delicate Copper material Silver](https://starcopia.com/products/pure-color-camera-shutter-button-upscale-and-delicate-copper-material): Compatible: This Copper material release button Charger for micro single, Leica M9 M10, Fuji Xpro 3 / X-Pro2 / Xpro1 / X100V / X100F / X100T / X100S / X100 / X-E3 / X-E2 / X-E1 / XT4 /XT3 / XT2 / XT1 / X30 / X20 / X10 / XT30 / X-T20, DF, Olympus Pen-F etc, Exquisite: The shutter release button is made of pure copper. Noble and elegant, it can perfectly set off your favorite camera. Bring the ultimate shooting experience. Design: Knurled design, concave surface, artificial belly design principle, beautiful and comfortable copper shutter button. Technology: Gold and silver CNC + electroplating technology, black and red CNC + baking varnish technology Robust: Each copper shutter button is equipped with a rubber ring for cushioning and stability. Size: 11.5mm diameter x height 2mm & Weight: 2 g Easy to install: Just screw our copper shutter button clockwise into the groove of the lensmate soft release button of the original camera and tighten it. Hope our products can bring you a more comfortable photo experience. Note: The shutter button is made of pure copper. It is a natural phenomenon if the surface is oxidized when you receive it. It will become more beautiful with time, such as Leica black paint with Bronze texture.
-  Updated: 2025-11-15T19:57:34Z
+  Updated: 2025-12-19T09:30:43Z
   Vendor: starcopia
   Product Type: Camera Shutter Button
   Availability: Available
@@ -326,14 +326,14 @@
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_1_159f7fa4-728f-40f0-98af-beb6a008aa46.jpg?v=1763192411
   Price: $39.99 USD
 - [Pure Color Camera Shutter Button Upscale and Delicate Copper material Gold](https://starcopia.com/products/pure-color-camera-shutter-button-upscale-and-delicate-copper-material-gold): Compatible: This Copper material release button Charger for Mirrorless Camera, Exquisite: The shutter release button is made of pure copper. Noble and elegant, it can perfectly set off your favorite camera. Bring the ultimate shooting experience. Design: Knurled design, concave surface, artificial belly design principle, beautiful and comfortable copper shutter button. Technology: Gold and silver CNC + electroplating technology, black and red CNC + baking varnish technology Robust: Each copper shutter button is equipped with a rubber ring for cushioning and stability. Size: 11.5mm diameter x height 2mm & Weight: 2 g Easy to install: Just screw our copper shutter button clockwise into the groove of the lensmate soft release button of the original camera and tighten it. Hope our products can bring you a more comfortable photo experience. Note: The shutter button is made of pure copper. It is a natural phenomenon if the surface is oxidized when you receive it. It will become more beautiful with time, such as Leica black paint with Bronze texture.
-  Updated: 2025-11-15T08:06:35Z
+  Updated: 2025-12-19T09:30:21Z
   Vendor: starcopia
   Product Type: Camera Shutter Button
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/gold_cover_1.jpg?v=1763193674
   Price: $40.61 USD
 - [Pure Color Camera Shutter Button Upscale and Delicate Copper material Red](https://starcopia.com/products/pure-color-camera-shutter-button-upscale-and-delicate-copper-material-red): Compatible: This Copper material release button Charger for Mirrorless Camera, Exquisite: The shutter release button is made of pure copper. Noble and elegant, it can perfectly set off your favorite camera. Bring the ultimate shooting experience. Design: Knurled design, concave surface, artificial belly design principle, beautiful and comfortable copper shutter button. Technology: Gold and silver CNC + electroplating technology, black and red CNC + baking varnish technology Robust: Each copper shutter button is equipped with a rubber ring for cushioning and stability. Size: 11.5mm diameter x height 2mm & Weight: 2 g Easy to install: Just screw our copper shutter button clockwise into the groove of the lensmate soft release button of the original camera and tighten it. Hope our products can bring you a more comfortable photo experience. Note: The shutter button is made of pure copper. It is a natural phenomenon if the surface is oxidized when you receive it. It will become more beautiful with time, such as Leica black paint with Bronze texture.
-  Updated: 2025-11-15T08:20:38Z
+  Updated: 2025-12-19T09:29:53Z
   Vendor: starcopia
   Product Type: Camera Shutter Button
   Availability: Available
@@ -388,6 +388,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_4a4503b7-6065-4226-93e1-5d030f9c8ffb.jpg?v=1766049469
   Price: $154.22 USD
+- [Compatible with iPhone 17 Pro Case Cut Geometric Plaids Relief Pattern Design](https://starcopia.com/products/compatible-with-iphone-17-pro-case-cut-geometric-plaids-relief-pattern-design): with Shockproof Slim and Hard PC Protective Cover for Women/Men Designed for iPhone 17 Pro 6.3’'. Compatibility: only for iPhone 17 Pro 6.3 inch. Geometric Plaids Relief Pattern: This cute and rich plaid design makes your phone more unique and adds a sense of fashion. Fully MagSafe Compatible: Fully compatible with MagSafe chargers and accessories. Quality Product: The phone case is made of soft and hard PC materials, with a two-in-one design that can absorb impact and provide hard protection. Protective Design: Raised edges at the lens and screen ensure your camera is protected from contact and reduce daily scratches. Precise fit: Precisely cut, quick access to all buttons and charging ports, more compatible with your phone.
+  Updated: 2025-12-19T16:56:26Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/9_bd1e6906-f3fe-4ca8-836a-7a9d24d1a0cb.jpg?v=1766120179
+  Price: $51.41 USD
 
 ## Collections
 
@@ -410,8 +417,8 @@
   Updated: 2025-12-11T08:21:46Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-12-18T09:21:16Z
-  Total Products: 5
+  Updated: 2025-12-19T04:55:45Z
+  Total Products: 6
 
 ## Store Pages
 
