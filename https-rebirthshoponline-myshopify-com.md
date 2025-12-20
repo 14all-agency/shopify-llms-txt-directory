@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-12-14T00:00:39.146Z
+- Updated At: 2025-12-20T00:00:39.975Z
 
 ## Products
 
@@ -1426,7 +1426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d65873d1-a72c-4d75-af18-a23c05e9db52.webp?v=1758910294
     Price: $20.00 USD
 - [Women's Cropped Sweatshirt - Trendy Casual Wear | ReBirth](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt): Stylish women's cropped sweatshirt perfect for casual wear. Comfortable fit with modern design. Elevate your wardrobe with ReBirth.
-  Updated: 2025-11-21T08:23:00Z
+  Updated: 2025-12-19T15:31:45Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
@@ -1516,7 +1516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6c99dfcf-6599-4538-8b30-232367463adb.webp?v=1759008219
     Price: $50.00 USD
   - [Black / M](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218880251)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6c99dfcf-6599-4538-8b30-232367463adb.webp?v=1759008219
     Price: $50.00 USD
   - [Black / L](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218913019)
