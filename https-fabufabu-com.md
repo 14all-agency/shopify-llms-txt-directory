@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-19T00:00:24.870Z
+- Updated At: 2025-12-20T00:00:27.718Z
 
 ## Products
 
@@ -245,6 +245,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover-beige.jpg?v=1766050667
     Price: $29.52 USD
+- [Oversized Rimless Diamond Cutting Lens Sunglasses](https://fabufabu.com/products/oversized-rimless-diamond-cutting-lens-sunglasses): Fabufabu lenses can block UVA and UVB radiation. UV400 rated sunglasses is essential to protecting your eyes against long term UV damage and keeping your eyes healthy when you go out. Love the free life: Large mirror frameless design, polarized versatile frame design, frameless with gradient lenses in upper purple and lower pink, exudes elegance and sophistication, fashionable and eye-catching. Create your own unique life color : Comes with a beautiful cover case, glasses storage bag and cleaning cloth, stylish and stylish protective glasses.Lens width is about 61mm, lens height is about 54mm, total mirror width is about 145mm, temple length is about 142mm, nose center distance is about 15mm, and weight is about 30g Fabufabu sunglasses is made of high quality alloy metal material and reinforced metal hinges that is durable enough for long time using. They are suitable for any climate and weather conditions.Fabufabu sunglasses is durable enough for long time using. They are suitable for any climate and weather conditions. Fabufabu sunglasses is the perfect choice for outdoor activities such as walking, driving, shopping, travelling, taking photos, and is suitable as high fashion accessory and daily wear all year round. It is also gift packaged ready, making it a wonderful yet practical gift idea for friends and family!
+  Updated: 2025-12-19T04:57:53Z
+  Vendor: fabufabu design store
+  Product Type: Sunglasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/high_cover_purple_pink.png?v=1766119510
+  - [purple+pink](https://fabufabu.com/products/oversized-rimless-diamond-cutting-lens-sunglasses?variant=45512692826309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/high_cover_purple_pink.png?v=1766119510
+    Price: $74.55 USD
+  - [blue+purple](https://fabufabu.com/products/oversized-rimless-diamond-cutting-lens-sunglasses?variant=45512692859077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/high_cover_blue_purple.png?v=1766119526
+    Price: $74.55 USD
 
 ## Collections
 
@@ -285,8 +299,8 @@
   Updated: 2025-12-17T08:04:21Z
   Total Products: 1
 - [Outfits](https://fabufabu.com/collections/outfits-1)
-  Updated: 2025-12-18T09:37:40Z
-  Total Products: 3
+  Updated: 2025-12-19T04:46:57Z
+  Total Products: 4
 
 ## Store Pages
 
