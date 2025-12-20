@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-20T08:00:27.717Z
+- Updated At: 2025-12-20T12:00:27.169Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -113,7 +113,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Weekly_Grocery_List_-_FULL_PAGE_-_Printable_Planning.jpg?v=1564501292
   Price: $5.95 USD
 - [Printable Special Delivery from Santa Claus - Personalized Gift Tags](https://printableplanning.com/products/special-delivery-from-santa-claus-personalized-gift-tags-or-stickers-printable): Personalized Special Delivery from Santa Claus Gift Tags or Stickers for holiday gifts. Editable PDF for DIY. Customize and print with your child’s name.
-  Updated: 2025-07-21T19:21:16Z
+  Updated: 2025-12-20T11:49:26Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
