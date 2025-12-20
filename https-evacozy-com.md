@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-10-28T12:54:56Z
 - Contact Email: info@evacozy.com
-- Updated At: 2025-12-19T00:00:21.179Z
+- Updated At: 2025-12-20T00:00:21.717Z
 
 ## Products
 
@@ -183,31 +183,11 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-platform-slippers-canada-evacozy-womens-house-slippers-4667049.webp?v=1764621698
     Price: $27.99 USD
 - [Plush Winter Slippers for Women & Men - Non-Slip House Slippers | Ultra-Soft & Warm | EvaCozy](https://evacozy.com/products/evacozy-plush-winter-slippers-thick): Premium plush winter slippers for women & men with thick non-slip sole. Ultra-soft warm house slippers with cozy fur lining. Safe, comfortable home footwear at EvaCozy.
-  Updated: 2025-12-18T02:21:01Z
+  Updated: 2025-12-19T13:48:07Z
   Vendor: EvaCozy
   Product Type: Slippers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-8853822.webp?v=1764621701
-  - [Black / 36-37](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921580857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
-    Price: $39.99 USD
-  - [Black / 38-39](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921613625)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
-    Price: $39.99 USD
-  - [Black / 40-41](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921646393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
-    Price: $39.99 USD
-  - [Black / 42-43](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921679161)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
-    Price: $39.99 USD
-  - [Black / 44-45](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921711929)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
-    Price: $39.99 USD
   - [Beige / 36-37](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921744697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-4645438.webp?v=1764621708
@@ -267,6 +247,26 @@
   - [Khaki / 44-45](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310922203449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-6182394.webp?v=1764621705
+    Price: $39.99 USD
+  - [Black / 36-37](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921580857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
+    Price: $39.99 USD
+  - [Black / 38-39](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921613625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
+    Price: $39.99 USD
+  - [Black / 40-41](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921646393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
+    Price: $39.99 USD
+  - [Black / 42-43](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921679161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
+    Price: $39.99 USD
+  - [Black / 44-45](https://evacozy.com/products/evacozy-plush-winter-slippers-thick?variant=51310921711929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
     Price: $39.99 USD
 - [Winter Plush Slippers for Women & Men - Warm House Slippers | Ultra-Soft & Cozy | EvaCozy](https://evacozy.com/products/winter-plush-slippers-evacozy-warm): Premium winter plush slippers for women & men. Ultra-soft warm house slippers with cozy fur lining & non-slip sole. Cloud-like comfort perfect for home at EvaCozy.
   Updated: 2025-12-16T13:57:07Z
@@ -2710,6 +2710,9 @@
 - [Summer Slippers - Breathable Sandals - EvaCozy](https://evacozy.com/collections/summer-slippers): Discover comfortable, breathable summer slippers with soft footbeds and flexible straps. Perfect for beach, home, and casual wear. Shop now for the best styles.
   Updated: 2025-12-16T13:57:06Z
   Total Products: 9
+- [Best Winter Slippers 2026 - Warm & Non-Slip | EvaCozy](https://evacozy.com/collections/best-winter-slippers): Shop premium winter slippers with plush comfort & non-slip soles. Warm, safe, and spa-quality luxury for your home. Free shipping on all orders.
+  Updated: 2025-12-19T13:34:01Z
+  Total Products: 10
 
 ## Blogs
 
@@ -2734,6 +2737,10 @@
     Updated: 2025-12-16T13:13:56Z
     Author: EvaCozy
     Tags: home footwear, plush slippers, warm house slippers, winter comfort, winter slippers
+  - [Fluffy Winter Slippers Guide 2025: Best Warm House Slippers | EvaCozy](https://evacozy.com/blogs/news/fluffy-winter-slippers-ultimate-comfort): Fluffy Winter Slippers Guide 2025: Best Warm House Slippers | EvaCozy
+    Updated: 2025-12-19T02:24:52Z
+    Author: EvaCozy
+    Tags: fluffy slippers, fluffy winter slippers, home comfort, warm house slippers, winter slippers
 
 ## Store Pages
 
