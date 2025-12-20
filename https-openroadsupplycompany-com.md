@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-14T19:34:39Z
 - Contact Email: info@openroadsupplycompany.com
-- Updated At: 2025-12-19T00:00:29.704Z
+- Updated At: 2025-12-20T00:00:31.034Z
 
 ## Products
 
@@ -65,7 +65,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/9_flexfin.png?v=1763881112
   Price: $90.00 USD
 - [Fin Key Bottle Opener](https://openroadsupplycompany.com/products/fin-key-bottle-opener): Two functions in one Key Chain: Use the flat-head screwdriver to take your longboard fin out of your board—or install it. Use it to crack open a bottle of your favorite cold, bottled beverage.
-  Updated: 2025-12-18T20:36:23Z
+  Updated: 2025-12-19T11:08:56Z
   Vendor: Almond Surfboards & Designs
   Product Type: Accessories
   Availability: Available
@@ -105,7 +105,7 @@
     Availability: Available
     Price: $150.00 USD
 - [Amazing Auto Seat Swivel Bracket](https://openroadsupplycompany.com/products/amazing-auto-seat-swivel-bracket): U.S. Design Patent#: D976627S: Our swivels are DOT FMVSS 207 lab tested, report available upon request, providing unmatched safety and peace of mind for your travels and ensures that our products meet the highest level of professional standards. Heavy-Duty Construction: Our swivels are built to last, featuring a solid steel frame with a net weight of 28 lbs. and a 4mm-thick plate structure. Our pivot utilizes a large Teflon washer to make rotation easier while maintaining the low height profile. This robust design ensures exceptional strength and stability, making them ideal for long-term use even under demanding conditions, no wobble. Noise-Free Operation: Our swivel pivot ensures noise-free operation for a more enjoyable experience, leading to a peaceful environment. Say goodbye to annoying creaks, squeaks, and wobbles with our advanced design, leading to a more superb experience. Whether you're on a road trip or commuting, the noise-free design enhances comfort and focus. Easy Installation: Our hardware allows for easy installation, making setup a breeze. Our swivels are designed for hassle-free installation. With just four bolts and four nuts, they fit seamlessly into your vehicle’s existing seat/base mount holes. No specialized tools or skills are required, making it easy for anyone to install them quickly. Low-Profile Design: Our swivels low-profile design maintains the integrity of your seating arrangement, adding only 1.25 inches to the seat height for most van models (1.75" for Promaster/some Transit vans, 2" for the Econoline). We also make low-profile seat bases to lower the installed seat height back down to the stock seat height! Lifetime Warranty: We back our products with a lifetime warranty to ensure your satisfaction and confidence in our product quality so you can go ahead and enjoy your travels. Please note that modifying the swivel or any holes will void the warranty, so it's important to install the provided swivel bracket correctly. A 14-day FREE return policy. Compatibility List: Find your car, model, and year from this list, then choose the correct version/SKU #. Add one item at a time to your shopping cart. Sprinter and Transit vans may need the handbrake lowering adapter, one is included with the applicable swivel orders that would need one for installation. SKU example: SWB011, where 011 is the SKU. Make sure you choose the correct version for the power or manual seat. CAR MODEL YEAR Driver (Manual-Seal) Passenger (Manual-Seat) Driver (Power-Seat) Passenger (Power-Seat) Benz Sprinter or Metris / Dodge Sprinter 1500/2500/3500 07-26 001** 002* 001** 002* Benz Sprinter / Dodge Sprinter 1500/2500/3500 02-06 011 004 Ford Transit 150/250/350 14-26 003** 004* 03E** 006** Dodge Pro Master 1500/2500/3500 14-26 005 006 005 006 Chevy Express / GMC Savana 1500/2500/3500/4500 97-26 007** 008 Ford Econoline E150/E250/E350/E450 97-26 009** 010 *: The chair position ring must be cut or bent.**: The plastic skirt of the chair may need to be cut. Right-Hand Drive Vehicles: For these, the driver and passenger versions/SKUs are reversed. Please ensure you order the correct SKU for your van/RV. Tight Rotation: You can lubricate the pivot (be sure to remove excess lubricant to prevent attracting dirt/debris into the pivot) or try slightly loosening the adjustable pivot bolts (do one at a time and test between each loosening) to allow for easier rotation. Locking Positions: The newest version of our swivels ships with no rear locking positions punched out by default to allow free swiveling when in the reversed position. The metal tabs can be easily removed if you want to use the additional locking positions. Use a flathead screwdriver or pry tool. Insert the tool head into the gap and tilt the tool. The tab should come out quickly. Installation Instructions: Please review our swivel installation videos on our installation page for more details. Pricing Price for one swivel bracket only! Choose the correct SKU before adding to the shopping cart. Low flat rate shipping cost to U.S. domestic in the lower 48 states. Low flat rate shipping cost to HI and AK Low flat rate shipping cost to Canada and Mexico. Shipping cost is per swivel bracket. Due to the size and weight, we cannot combine packages or costs. Email customer service for shipping costs to global addresses. The customer is responsible for tariffs/customs/duties on international shipments. Notice: If you cannot find the correct SKU for your vehicle from the compatibility list, we do not sell it or take any special orders. You can still order and attempt to install a swivel but do the mounting measurements carefully. We are not responsible for any damage/usage of our swivel bracket outside the compatibility list.
-  Updated: 2025-12-18T20:36:23Z
+  Updated: 2025-12-19T16:38:27Z
   Vendor: Koolands
   Product Type: Swivels
   Availability: Available
@@ -375,7 +375,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/image_c94390c4-e67b-49df-bccf-73560eeba1af.png?v=1764089676
   Price: $875.00 USD
 - [Transit B-Pillar Lagun Table Mount](https://openroadsupplycompany.com/products/transit-b-pillar-lagun-table-mount): Horizontal surfaces in a van are extremely important. Modular (look at us using cool kid words) horizontal surfaces, like a Lagun table, are a great solution for adding utility to your work space. The Lagun mount and Lagun Slim/Sliver mount both provide a simple and secure place to mount your table system to the B pillar in your Ford Transit. Get one and get to doing what ever you do in your van. Slim mount is designed for the narrow "Sliver" bracket from Lagun. Includes: 1x Aluminum Mount 4x 8mm x 1.25mm x 25mm Bolt 4x 8mm x 1.25mm Nut 4x 8mm Flat Washer 2x 6mm x 1mm x 20mm Button Head 2x Fender Washer
-  Updated: 2025-12-18T20:36:24Z
+  Updated: 2025-12-19T00:08:41Z
   Vendor: AVC RIG
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $500.00 USD
 - [Transit Floor Step and Trim](https://openroadsupplycompany.com/products/transit-floor-step-and-trim): The AVC RIG Transit Floor Step and Trim is the perfect solution for DIYers looking for a professional way to finish out the floor in a Ford Transit van build! See our Transit Floor Step and Trim videos HERE and HERE Full kit includes: Front trim Rear trim Side step and trim Grip tape 3D printed spare tire access cap Key Features: Transit-Specific Design: Perfectly fits 2020-current Ford Transit models Heavy-Duty Construction: Built from powder coated steel for exceptional durability. New L-Track Punch-outs: Now featuring a place to mount L-Track accessories on the fron and rear of the step! Pre-Drilled: Pre-drilled for screws for perfect spacing. Extend the Floor: Extends a little over 8 inches into the step space while maintaining plenty of space for egress. Grip tape and Spare Tire Plug: Includes everything you need to finish your floor! Installation: The step trim and the step overlap by about 2" which gives you the flexibility to vary the thickness of the floor (3/4" thickness above the ribs minimum). The front trim piece has some pass-thus in strategic locations of you want to run wiring to the passenger seat base.
-  Updated: 2025-12-18T23:00:26Z
+  Updated: 2025-12-19T19:39:27Z
   Vendor: AVC RIG
   Product Type: 
   Availability: Available
@@ -492,7 +492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Screenshot_2B2020-11-19_2Bat_2B2.26.56_2BPM.jpg?v=1764089676
     Price: $975.00 USD
 - [Transit Paper Patterns: Floors](https://openroadsupplycompany.com/products/transit-paper-patterns-floors): The AVC Rig Transit 148 Paper Patterns provide the perfect template to rapidly cut floors in any desired material. With exact cut shapes already provided in paper form, they offer an easy, effective solution to your interior kit needs, shipping conveniently across the country. Details on Floor Exterior contour of each of the panels Preferred L-track location Crew Seat Track location Spare tire access location 148 consists of 3 panels and 148EXT is 4 panels Additional Notes: Minimum of 3/4" floor material should be used especially if combined with our floor step and trim kit- The AVC RIG Floor sits 1" above the height of the ribs. (Advantech Subfloor is a good option)
-  Updated: 2025-12-18T20:36:25Z
+  Updated: 2025-12-19T04:34:55Z
   Vendor: AVC RIG
   Product Type: 
   Availability: Available
@@ -542,7 +542,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/61FqJNIiN2L._AC_SX679_b38c0f64-28de-498f-ab7c-c749e7ea9a9c.jpg?v=1764089713
   Price: $849.00 USD
 - [Sitka Hydro Sling](https://openroadsupplycompany.com/products/sitka-hydro-sling): Your ideal grab and go trail companion — the Sitka Hydro Sling was created to ensure you stay hydrated and keep your essential every-day-carry items safe and organized during your day-to-day activities. Featuring an expandable design that seamlessly fits all your favorite water bottles, Sitka bridges the gap between hand carrying your water bottle and lugging around a backpack on those shorter treks. Equipped with a large exterior zippered pocket, Sitka stores your phone, wallet, or field notes with ease. From weekend hikes with the pup to roaming stage to stage at your next festival, the Sitka Hydro Sling has your back!
-  Updated: 2025-12-18T20:36:25Z
+  Updated: 2025-12-19T09:08:31Z
   Vendor: Centric Design Co
   Product Type: Water Bottle Sling
   Availability: Available
@@ -684,7 +684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/image_891782a8-7fae-4d2d-840e-c0bf5b784321.jpg?v=1764258653
     Price: $1,999.00 USD
 - [L-Track Fittings & Accessories](https://openroadsupplycompany.com/products/l-track-fittings-accessories): On orders $150.00 and up, FREE shipping to lower 48 states. L-Track Fittings & Accessories
-  Updated: 2025-12-18T20:36:25Z
+  Updated: 2025-12-19T05:26:41Z
   Vendor: Tec Vanlife USA
   Product Type: 
   Availability: Available
@@ -793,7 +793,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/velit_wo_mini.jpg?v=1764258653
   Price: $1,902.99 USD
 - [Tec Vanlife Awning Window AW1033](https://openroadsupplycompany.com/products/tec-vanlife-awning-window-aw1033): -FREE Shipping to Lower 48s. -In Stock Installation Guide The Tec Vanlife AW1033 Awning Window is the ideal choice for camper van bunk installations, providing excellent ventilation even in rainy conditions. Its flat glass design ensures easy installation, and the tinted solar glass, removable screen, and black powder-coated frame offer both functionality and style. The silk-screened black faded edges and solar privacy glass blend seamlessly with the matte black frame, giving your van a premium, modern look. This awning window tilts out 3", providing optimal airflow for van interiors, especially in warmer climates. The wider angle opening of the Tec Vanlife AW1033 Awning Window makes it superior for ventilation compared to other models. Why Choose the Tec Vanlife AW1033 Awning Window? Premium Quality: The powder-coated frame with a matte black finish gives the window a sleek, high-end appearance. Improved Durability: Enhanced hinging and opening mechanisms ensure long-lasting performance. Superior Ventilation: A wider opening angle provides excellent airflow for improved comfort, even during hot weather. Key Improvements:We’ve addressed common issues found in similar windows, improving the following areas: Installation: Designed for easier and more precise installation to reduce the risk of leaks or poor fitment. Water Leaks: Enhanced sealing to prevent water leakage, even in heavy rain. Noise and Rattling: Improved design reduces wind noise and rattling during high-speed driving. Durability: Upgraded seals and latches ensure a more secure and long-lasting closure. The Tec Vanlife AW1033 Awning Window combines premium design with practical improvements, offering an excellent choice for van owners seeking durable, functional, and stylish windows.
-  Updated: 2025-12-18T20:36:25Z
+  Updated: 2025-12-19T17:53:58Z
   Vendor: Tec Vanlife USA
   Product Type: 
   Availability: Available
@@ -915,8 +915,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/IMG_7290.png?v=1764258654
     Price: $39.99 USD
-- [Sprinter Cowl Light Mounting Bracket (Set of 2)](https://openroadsupplycompany.com/products/sprinter-cowl-light-mounting-bracket-set-of-2): Securely mount auxiliary lights to your Sprinter cowl with these coated stainless steel brackets, utilizing factory mounting points for a direct, no drill installation. - FREE shipping to the lower 48 states. Key Features: Coated stainless steel construction Fits Sprinter cowl (No drilling necessary) Slotted mounting holes for alignment Mounting hardware included Description: This kit includes two coated stainless steel mounting brackets designed for installing auxiliary lights on the Sprinter cowl. Each bracket is built from high strength stainless steel that resists bending, denting, and is finished with a durable protective coating for long term use. The brackets install using factory mounting points with absolutely no drilling required. Slotted mounting holes allow for easy alignment, and all necessary bolts and screws are included.
-  Updated: 2025-12-18T20:36:26Z
+- [Sprinter Cowl Light Mounting Bracket (Set of 2)](https://openroadsupplycompany.com/products/sprinter-cowl-light-mounting-bracket-set-of-2): Securely mount auxiliary lights to your Sprinter cowl with these coated stainless steel brackets, utilizing factory mounting points for a direct, no drill installation. - FREE shipping to the lower 48 states. Key Features: Fits 2019+ Mercedes Sprinter models Coated stainless steel construction Fits Sprinter cowl (No drilling necessary) Slotted mounting holes for alignment Mounting hardware included Description: This kit includes two coated stainless steel mounting brackets designed for installing auxiliary lights on the Sprinter cowl. Each bracket is built from high strength stainless steel that resists bending, denting, and is finished with a durable protective coating for long term use. The brackets install using factory mounting points with absolutely no drilling required. Slotted mounting holes allow for easy alignment, and all necessary bolts and screws are included.
+  Updated: 2025-12-19T16:24:56Z
   Vendor: Tec Vanlife USA
   Product Type: 
   Availability: Available
@@ -1221,7 +1221,7 @@
     Availability: Available
     Price: $799.00 USD
 - [Camper Windows 700mmx300mm/27.56"x11.81"](https://openroadsupplycompany.com/products/camper-windows-700mmx300mm-27-56x11-81): FREE Shipping to Lower 48 States. These windows are designed to offer a universal solution for all your window needs, with a range of features that make them a cut above the rest. Featuring hydraulic struts that stop at any level, these windows provide complete control over light and ventilation levels in your space. With a long-lasting and reliable build, the hydraulic struts are tested to withstand up to 20,000 uses, ensuring a product that is built to last. The Tec Vanlife Flat Windows come equipped with heavy-duty powder-coated aluminum alloy frames, providing a sturdy and reliable hold. The window handle is made of durable plastic, while the handles for the insulated blinds and bug screens are made of aluminum, adding an extra touch of elegance and durability. Designed to provide maximum protection against harsh weather conditions and drafts, they feature insulated UV-resistant acrylic double-pane glazing and high-quality rubber seals. The insulation blinds and bug screens offer complete protection from pests and insulation from outside elements, ensuring your space remains comfortable and pest-free. With a full 1-year manufacturer's warranty, you can trust that these windows are built to last, giving you complete peace of mind. Upgrade your space with the trusted and reliable Tec Vanlife Windows today, and experience the best in quality and durability. Flat Window. Dimension: 700mmx300mm/27.56"x11.81" Installation Guide:Prepare the window frame and mark the cutout line. Remove the rubber gasket from the window frame, ensuring a clean surface for adhesion. Position the window on the wall and draw the cutout line. Cut the opening using an air jig saw (recommended). Apply the adhesive: Apply windshield urethane adhesive along the inner edge of the window frame.Ensure sufficient adhesive is applied for a strong bond. Use duct tape to cover the surrounding cutout area, allowing excess adhesive to be removed with the tape. Position the window: Carefully place the window frame into the cutout. Press the window firmly against the wall, ensuring proper contact with the adhesive. Secure the window: Use temporary supports or tape to hold the window in place while the adhesive cures, following the manufacturer's recommendations. Clean up: Use a paper towel or lacquer thinner to wipe away any excess adhesive that may have squeezed out from the edges of the window frame. Allow curing time: Leave the window undisturbed for the recommended curing time specified by the adhesive manufacturer. Test the installation: Once the adhesive has fully cured, check the window for stability and proper sealing, ensuring no gaps or leaks around the edges. For wall thickness between 6mm-19mm:Position the window on the wall and draw the cutout line. Cut the opening using an air jig saw (recommended). Cut wood shims to the required thickness to fill the gap between the window inner frame and the wall. Insert the wood shims between the window inner frame and the wall, adjusting for a snug fit. Use the trim ring:Install the window inner trim to securely clamp the window against the wall. For wall thickness between 20mm-29mm:Position the window on the wall and mark the cutout line. Cut the opening using an air jig saw (recommended). Carefully place the window frame into the opening. Install the window inner trim to securely clamp the window against the wall.Choose Tec Vanlife Flat Windows for a superior window solution that combines style, durability, and functionality.
-  Updated: 2025-12-18T20:36:28Z
+  Updated: 2025-12-19T18:45:02Z
   Vendor: Tec Vanlife USA
   Product Type: 
   Availability: Available
@@ -1316,7 +1316,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/694bf457e5ea09c547b23d559ce232c9.png?v=1764258661
   Price: $299.00 USD
 - [Advanced Camper Van Insulation & Soundproofing - Duck Liner](https://openroadsupplycompany.com/products/advanced-camper-van-insulation-soundproofing-duck-liner): -FREE Shipping to Lower 48 states TEC Features: Condensation Prevention: Eliminates the risk of moisture buildup by preventing warm interior air from contacting cold metal surfaces, safeguarding against mold and potential health hazards. Reflective Foil Layer: Enhances insulation by reflecting radiant heat back into your van, ensuring a consistent and comfortable interior temperature. Superior Noise & Thermal Insulation: Advanced closed-cell sponge neoprene with an R-value of 0.89 (3/8-inch thickness) provides top-tier sound deadening and thermal efficiency. Robust Construction: Dust-proof, waterproof, oil-resistant, and corrosion-resistant material ensures long-term durability and reliable performance. Fire Resistant: Non-combustible for added safety during your van life adventures. Adhesive Backing: Easy-to-use back adhesive layer simplifies installation for hassle-free application to van surfaces. TEC Specs: Material: Closed-cell sponge neoprene with reflective foil backing Roll Dimensions: Length: 32.5 ft Width: 3.25 ft Insulation Rating: R-value of 0.89 (3/8-inch neoprene) Requirements by Vehicle: Why Choose the Tec Vanlife DUCK Liner? The Tec Vanlife DUCK Liner is designed to elevate your vanlife experience by offering unparalleled comfort, safety, and efficiency. Condensation Control: Effectively manages moisture to prevent mold growth, creating a healthier living environment in your van. Enhanced Insulation: Reflective foil and closed-cell neoprene work together to maintain optimal interior temperatures, no matter the weather. Sound Deadening: Absorbs noise for a quieter and more comfortable vanlife experience. Durable & Lightweight: Engineered to withstand the rigours of van travel while remaining easy to work with during installation. How It’s Made The Tec Vanlife DUCK Liner is crafted from a premium combination of aluminum foil, closed-cell sponge neoprene, and a back adhesive layer, delivering a range of advantages for your camper van conversion: Aluminum Foil Layer: Reflects radiant heat back into the van, improving insulation efficiency and maintaining a consistent interior temperature. Closed-Cell Sponge Neoprene Core: Provides superior noise absorption, thermal insulation, and protection against moisture, ensuring a quiet and comfortable living environment. Back Adhesive Layer: Offers quick and hassle-free installation, allowing for a secure fit directly onto van surfaces without additional tools or materials. This innovative material combination ensures durability, efficiency, and versatility, making the DUCK Liner the ultimate choice for van insulation and soundproofing Additional Features: Safety First: The non-combustible material provides peace of mind during your travels. Pair with 3M Thinsulate: Maximize insulation and comfort by combining the DUCK Liner with 3M Thinsulate for a comprehensive solution. The Tec Vanlife Advantage The Tec Vanlife DUCK Liner is more than just insulation—it’s a complete solution for creating a safe, efficient, and comfortable living space in your van. From noise reduction to thermal efficiency, this product offers everything you need for your off-grid adventures. For the Best Installation Results Ideal ambient & VAN METAL SURFACE temperature is between 50-80F Ensure the surface is clean and free of any prior glues, epoxies, insulation etc. Apply the Duckliner in lengths, peeling the adhesive from top to bottom slowly, ensuring even application with no air pockets. Once the glue-side is adhered to the wall, using a roller, roll the entire surface ensuring the glue-side is completely secured. Tape the seams using construction vapour barrier tape to ensure an air-tight envelope. Finish the job by glueing 3M Thinsulate to provide the required 'R' value.
-  Updated: 2025-12-18T20:36:28Z
+  Updated: 2025-12-19T19:25:52Z
   Vendor: Tec Vanlife USA
   Product Type: Insulation
   Availability: Available
@@ -1345,7 +1345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/16_e9cb04fa-22b8-4682-8dbb-6117a6d71c43.png?v=1764258658
     Price: $845.00 USD
 - [Sprinter Roof Rails / Roof Tracks](https://openroadsupplycompany.com/products/sprinter-roof-rails-roof-tracks): Direct fit roof rail kit for 2007+ Sprinter vans engineered to support roof racks, solar panels, and other rooftop equipment through a straightforward bolt on installation. - FREE shipping to the lower 48 states. - Download installation instructions [PDF] Key Features: Heavy duty Aluminum extrusion construction Fits 2007+ Mercedes Sprinter 144" and 170" models Direct mount design using factory roof holes Easy bolt alignment during installation Rigid base for racks, solar panels, lighting, and other accessories Powder coated or anodized finish options Straightforward installation with standard tools Compatible with urethane or butyl weather sealing tape Mounting hardware included Measurements: 144": 114.6" (2910 mm) 170": 152.0" (3860 mm) Description: The Tec Vanlife Heavy Duty Roof Rail Kit is manufactured from a high strength aluminum extrusion specifically engineered for 2007+ Sprinter 144" and 170" models. The rails provide a rigid and dependable mounting base suitable for roof racks, crossbars, solar panels, lighting, and other rooftop equipment commonly used in van conversions. Installation follows a simple, direct bolt on process. After removing the factory roof caps to expose the OEM roof holes, the supplied bolts are inserted through these openings from above. The rails are then positioned over the bolts and secured from inside the vehicle using the included washers and self locking nuts. The entire installation can be completed using standard tools. The kit is offered in Anodized Black and Satin Silver. Both finishes provide excellent corrosion resistance and long term durability. For additional weather protection, urethane or butyl tape can be applied around the fasteners during installation. FAQ: 1. Do the mounting holes already exist on the Sprinter roof, or do I need to drill new ones? No drilling is required. Remove the factory plastic covers to access the OEM mounting holes. 2. Do I need to remove the interior ceiling panels to access the roof mounting points? Yes. The interior ceiling panels need to be removed to access the mounting points from the inside and tighten the nuts. 3. Can this roof rail be installed by one person? How long does installation typically take? Two people are recommended. Installation takes around 30 minutes. 4. What tools or sealants are recommended to ensure the roof rail installation is fully waterproof? The kit includes weather sealing strips. No additional sealant is required. 5. Can I mount solar panels, awnings, a roof deck, or other rooftop accessories on these roof rails, and will additional hardware be required? Yes. Mounting accessories requires the appropriate brackets or hardware, which are available separately in this store. 6. Are there any installation differences between Sprinter 144" and 170" models, or between high roof and low roof versions? Installation is identical across all models; only the rail length differs.
-  Updated: 2025-12-18T20:36:28Z
+  Updated: 2025-12-19T17:29:32Z
   Vendor: Tec Vanlife USA
   Product Type: Logistic Track
   Availability: Available
@@ -1374,7 +1374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/IMG_9360.jpg?v=1764440159
   Price: $59.00 USD
 - [Stealth II Heated Glove Liners (3500mAh USB-C batt)](https://openroadsupplycompany.com/products/stealth-ii-heated-glove-liners-3500mah-usb-c-batt): Elevate your cold-weather comfort with the Stealth II glove liners. Designed to fit seamlessly under your favorite gloves, these liners offer up to 6 hours of warmth powered by slim, USB-C rechargeable batteries. Steel fiber heating elements wrap around each fingertip, providing targeted heat where you need it most. Whether you're snowboarding, working outdoors, or managing conditions like arthritis or Raynaud’s, these liners deliver dependable warmth with three heat settings controlled via integrated buttons. Stay active, stay comfortable.
-  Updated: 2025-12-18T20:36:28Z
+  Updated: 2025-12-19T22:29:57Z
   Vendor: Gobi Heat
   Product Type: Heated Gloves
   Availability: Available
@@ -1392,7 +1392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/stealth-ii-heated-glove-liners-3500mah-usb-c-batt-793366.jpg?v=1764619950
     Price: $179.00 USD
 - [Cove Heated Portable Blanket - with Dual Control](https://openroadsupplycompany.com/products/cove-heated-portable-blanket-with-dual-control): Stay warm anywhere with the Gobi Heat® Cove Heated Wearable Blanket. This portable heated blanket combines the comfort of a premium quilted throw with the freedom of a hands-free wrap — powered by Gobi’s reliable heating technology. With 4 independent heating zones and dual-button controls, you can choose front-only, back-only, or full-coverage warmth. Perfect as a camping heated blanket, a stadium blanket for sports, or a cozy travel heated blanket at home or on the road. The included universal power kit gives you unmatched flexibility: plug into the rechargeable Gobi Heat® battery, a wall outlet, or your vehicle’s 12V socket. That means all-day warmth, indoors or outdoors, wherever life takes you. 🔌🔋 Key Features: Wearable Heated Blanket - Hands-free design that won’t slip or slide off. Multi-functional - use as a regular blanket or snap it up to wear it! 4 Heat Zones - Independent front and back panels for personalized warmth. Dual Controls - Power front or back zones separately, or all at once. 3 Heat Settings - Low, Medium, High (up to 140°F / 60°C). Universal Power Options - Use the battery, wall outlet, or 12V car adapter. Long Battery Life - up to 9 hours of heat, depending on zone and setting. Portable Travel Blanket - Folds into itself as a compact pillow (must be powered off first). Durable + Washable - Wind/water-resistant nylon shell, machine-washable for easy care. Complete Kit - Includes 1× Cove Heated Blanket, 1× 5,000mAh battery, 1× charging cable, 1× universal power kit, 1× storage bag. Cove is the ultimate portable heated blanket — designed for travel, camping, sports, and everyday comfort.
-  Updated: 2025-12-18T21:20:28Z
+  Updated: 2025-12-19T23:55:27Z
   Vendor: Gobi Heat
   Product Type: Heated Blanket
   Availability: Available
@@ -1410,7 +1410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Cove_Folded_Rye_WR.png?v=1764619951
     Price: $229.00 USD
 - [The Beck Chair - Ultra-Portable Heated Camping Chair](https://openroadsupplycompany.com/products/the-beck-chair-ultra-portable-heated-camping-chair): Meet The Beck Chair — the ultimate heated camp chair designed for adventurers who refuse to let the cold slow them down. Inspired by the wildly popular Terrain Heated Camping Chair, this new lightweight (only 6 lbs!) and ultra-portable design delivers comfort and warmth wherever your journey takes you—whether it’s a mountaintop sunrise, a cozy riverside camp, or the quiet depths of a slot canyon. Why It Exists Outdoor adventures shouldn’t end when temperatures drop. The Beck Chair was created for hikers, campers, hunters, and travelers who want lasting comfort without carrying heavy gear. With built-in heating zones in both the seat and backrest, it targets your large muscle groups, keeping you warm so you can relax longer in nature’s beauty. Key Features Dual Heat Zones – One in the seat, one in the backrest, for total warmth coverage. Powerful & Long-Lasting Heat – Includes a 10,000 mAh 5V power bank to keep you toasty for hours. Ultra-Portable Design – Weighs less than most folding chairs and packs down into a 14” x 6” x 6” carrying bag. Adventure-Ready – Perfect for camping, hiking, fishing, tailgating, or any outdoor escape. Convenient Carrying Case – Durable bag makes transport effortless. Three Stunning Color Options – Available in Marine, Onyx, and Cardinal. Your Comfort. Anywhere. From your own backyard to the farthest backcountry trail, The Beck Chair is built to go wherever you go—so you can sip coffee at sunrise, watch the stars in comfort, and make every outdoor moment warmer. Stay warm. Stay outside longer. Take The Beck Chair with you.
-  Updated: 2025-12-18T20:36:29Z
+  Updated: 2025-12-19T20:30:32Z
   Vendor: Gobi Heat
   Product Type: Heated Chair
   Availability: Available
@@ -1428,14 +1428,14 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/BeckCampChair_Onyx_Tonal.png?v=1764619950
     Price: $149.00 USD
 - [Additional/Replacement Ultra-Compact 5,000 mAh 5V power bank](https://openroadsupplycompany.com/products/additional-replacement-ultra-compact-5-000-mah-5v-power-bank): Stay powered and stay warm. The Gobi Heat® 5,000mAh lithium-ion battery delivers hours of heating performance, so you can take comfort wherever life takes you. Whether you’re commuting in the city, exploring the outdoors, or enjoying a night out, this compact, rechargeable battery keeps your heated gear running strong. Compatible with the following heated products: Enso Heated Scarf Squall Heated Balaclava Battery Specs: • Capacity: 5,000mAh • Type: Rechargeable Lithium-Ion • Runtime: Hours of warmth (depending on settings and product) • Charging Time: ~2.5 hours • Compact and lightweight for easy portability
-  Updated: 2025-12-18T22:48:51Z
+  Updated: 2025-12-19T22:10:23Z
   Vendor: Gobi Heat
   Product Type: Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/KE035_Frnt_1f9eea4a-b718-408b-9f26-960cf99db337.png?v=1765041318
   Price: $39.00 USD
 - [Dune Heated Vest for Women](https://openroadsupplycompany.com/products/dune-heated-vest-for-women): By combining lightweight, abrasion resistant nylon with conductive thread heating elements, our heated women's vest is your perfect solution for keeping warm on the go. With our New Quick-Charge Multi-Voltage Battery the Dune Heated Women's Vest provides up to 10 hours of electric warmth! Available in four colors (Plum, Onyx, Moss & Horizon) this vest has the ability to match any mood mother nature tosses at you. A low setting for those brisk days, medium for the cold ones and high for the bone chillingly "why do I live here?" ones! Our ultra compact battery supplies 3x the juice of other competitors and has a USB port for easy mobile charging.
-  Updated: 2025-12-18T23:55:36Z
+  Updated: 2025-12-19T23:40:32Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1549,7 +1549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WDU-MO-FRONT_ca1eb68c-c7ba-41bb-b62e-86ab0aef9221.png?v=1764619952
     Price: $189.00 USD
   - [Moss / S](https://openroadsupplycompany.com/products/dune-heated-vest-for-women?variant=58439757660241)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WDU-MO-FRONT_ca1eb68c-c7ba-41bb-b62e-86ab0aef9221.png?v=1764619952
     Price: $189.00 USD
   - [Moss / M](https://openroadsupplycompany.com/products/dune-heated-vest-for-women?variant=58439757693009)
@@ -1600,7 +1600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/core-614w-portable-power-station-546444.jpg?v=1764619951
   Price: $350.00 USD
 - [Terrain Heated Camping Chair](https://openroadsupplycompany.com/products/terrain-heated-camping-chair): Stay warm. Sit strong. Anywhere. The Terrain Heated Camping Chair is built for adventure, season after season. Featuring a durable steel frame and weather-resistant 600/300 Denier Polyester, it’s designed to handle the outdoors with ease. Dual-zone heating in the seat and back is powered by a 7.4V 6500 mAh battery—delivering up to 9 hours of warmth and even doubling as a phone charger when you need it. Low (113°F): up to 9 hours Medium (122°F): up to 6 hours High (131°F): up to 4.5 hours Built tough at 11 lbs, the Terrain offers extra stability and supports up to 325 lbs. With its oversized carrying bag, it packs up easily while delivering the strength and staying power serious adventurers need. Comfort-focused features include: Padded armrests Self-leveling feet for uneven ground Built-in cup holder Zippered phone pocket with charging pass-through LED controller for instant heat adjustment Whether you’re camping, tailgating, or watching the game, the Terrain is your go-to for rugged comfort and reliable, all-day warmth.
-  Updated: 2025-12-18T23:42:01Z
+  Updated: 2025-12-19T22:06:06Z
   Vendor: Gobi Heat
   Product Type: Heated Chair
   Availability: Available
@@ -1630,7 +1630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/CH-SUN-HM.png?v=1764619951
     Price: $179.00 USD
 - [Dune Mens Heated Vest](https://openroadsupplycompany.com/products/dune-mens-heated-vest): By combining lightweight, abrasion resistant nylon with conductive thread heating elements, our heated men's vest is your perfect solution for keeping warm on the go. With our New Quick-Charge Multi-Voltage Battery the Dune Heated men's Vest provides up to 10 hours of electric warmth! Available in four colors (Onyx, Moss, Navy & Horizon) this vest has the ability to match any mood mother nature tosses at you. A low setting for those brisk days, medium for the cold ones and high for the bone chillingly "why do I live here?" ones! Our ultra compact battery supplies 3x the juice of other competitors and has a USB port for easy mobile charging.
-  Updated: 2025-12-18T23:45:31Z
+  Updated: 2025-12-19T23:58:26Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1748,7 +1748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/dune-mens-heated-vest-258928.jpg?v=1764619951
     Price: $189.00 USD
 - [Sierra Heated Knit Vest - Men's](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens): Everyday warmth. Effortless value. Meet the Gobi Heat® Sierra Heated Knit Vest — lightweight, flexible, and designed to keep warmth within reach. Built with the same trusted Gobi Heat technology found in our premium outerwear, Sierra delivers dependable heat, a comfortable knit feel, and everyday versatility at our most accessible price yet. Key Features Four Heat Zones – Two in the chest, one in the neck, and one on the upper back for complete core warmth. Simple, Reliable Heat – Powered by the Gobi Heat® 5V 10,000 mAh battery for long-lasting comfort wherever you go. Lightweight Knit Fabric – Soft, breathable, and easy to layer for year-round wear. Zippered Pockets – Secure your essentials while keeping a clean, casual profile. Easy Control – One-touch heat settings (Low, Medium, High) make warmth as simple as pressing a button. Fit & Details Men’s Sizes: S–4XL Women’s Sizes: XS–3XL Color: Onyx Why You’ll Love It Sierra brings core warmth to everyone. With four targeted heating zones, soft knit construction, and a clean everyday design, it’s your go-to layer for workdays, weekends, and everything in between — all at a price that makes heated comfort easier than ever to own.
-  Updated: 2025-12-18T21:20:51Z
+  Updated: 2025-12-19T22:05:46Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1762,11 +1762,11 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
   - [Onyx / L](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens?variant=58439759265873)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
   - [Onyx / XL](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens?variant=58439759298641)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
   - [Onyx / 2XL](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-mens?variant=58439759331409)
@@ -1782,7 +1782,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Mens_Front_WR.png?v=1764619952
     Price: $119.00 USD
 - [Sierra Heated Knit Vest - Women's](https://openroadsupplycompany.com/products/sierra-heated-knit-vest-womens): Everyday warmth. Effortless value. Meet the Gobi Heat® Sierra Heated Knit Vest — lightweight, flexible, and designed to keep warmth within reach. Built with the same trusted Gobi Heat technology found in our premium outerwear, Sierra delivers dependable heat, a comfortable knit feel, and everyday versatility at our most accessible price yet. Key Features Four Heat Zones – Two in the chest, one in the neck, and one on the upper back for complete core warmth. Simple, Reliable Heat – Powered by the Gobi Heat® 5V 10,000 mAh battery for long-lasting comfort wherever you go. Lightweight Knit Fabric – Soft, breathable, and easy to layer for year-round wear. Zippered Pockets – Secure your essentials while keeping a clean, casual profile. Easy Control – One-touch heat settings (Low, Medium, High) make warmth as simple as pressing a button. Fit & Details Men’s Sizes: S–4XL Women’s Sizes: XS–3XL Color: Onyx Why You’ll Love It Sierra brings core warmth to everyone. With four targeted heating zones, soft knit construction, and a clean everyday design, it’s your go-to layer for workdays, weekends, and everything in between — all at a price that makes heated comfort easier than ever to own.
-  Updated: 2025-12-18T20:36:29Z
+  Updated: 2025-12-19T17:54:08Z
   Vendor: Gobi Heat
   Product Type: Heated Vests
   Availability: Available
@@ -1816,7 +1816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Sierra_Womens_Front_WR.png?v=1764619955
     Price: $119.00 USD
 - [Polaris Heated Puffer Jacket - Men's](https://openroadsupplycompany.com/products/polaris-heated-puffer-jacket-mens): Premium warmth. Elevated design. The Gobi Heat® Polaris Heated Puffer Jacket redefines cold-weather luxury with precision heating technology wrapped in buttery-soft performance fabric. Engineered for both men and women, Polaris combines four targeted heat zones, refined quilting, and a sleek hooded silhouette for all-day comfort that looks as good as it feels. Key Features Four Heat Zones – Two in the chest, one in the neck, and one in the upper back deliver balanced, all-around warmth. Dual-Control Heating – Independently adjust your zones with three heat settings (Low, Medium, High) for complete temperature control. Fast-Charge Power – Powered by the Gobi Heat® PD 5,000 mAh battery for quick charging and dependable performance. Buttery Soft Shell – Smooth to the touch yet built to endure the elements with a durable, water-resistant finish. Signature Watermarked Lining – Subtle Gobi Heat logo lining adds a refined touch and premium feel inside every jacket. Adjustable Hood with Peak – Shields against wind and snow while maintaining a clean, athletic silhouette. Functional Storage – Two zippered hand pockets and a left-arm zip pocket keep essentials close and secure. Fit & Details Men’s Sizes: S–4XL Women’s Sizes: XS–3XL Colors: Onyx Black | Eddy Blue | Fog Gray Why You’ll Love It Polaris delivers sophisticated warmth without compromise — luxurious in feel, intelligent in design, and ready for the coldest days. With its buttery-soft exterior, logo-lined interior, and powerful four-zone heating system, Polaris keeps you warm, comfortable, and confidently styled wherever winter takes you.
-  Updated: 2025-12-18T23:05:33Z
+  Updated: 2025-12-19T21:55:37Z
   Vendor: Gobi Heat
   Product Type: Mens Heated Jackets
   Availability: Available
@@ -1906,7 +1906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Polaris_Mens_Front_WR_3098fc66-e511-45e8-b189-35170e52551c.png?v=1764619955
     Price: $239.00 USD
 - [Polaris Heated Puffer Jacket - Woman's](https://openroadsupplycompany.com/products/polaris-heated-puffer-jacket-womans): Premium warmth. Elevated design. The Gobi Heat® Polaris Heated Puffer Jacket redefines cold-weather luxury with precision heating technology wrapped in buttery-soft performance fabric. Engineered for both men and women, Polaris combines four targeted heat zones, refined quilting, and a sleek hooded silhouette for all-day comfort that looks as good as it feels. Four Heat Zones – Two in the chest, one in the neck, and one in the upper back deliver balanced, all-around warmth. Dual-Control Heating – Independently adjust your zones with three heat settings (Low, Medium, High) for complete temperature control. Fast-Charge Power – Powered by the Gobi Heat® PD 5,000 mAh battery for quick charging and dependable performance. Buttery Soft Shell – Smooth to the touch yet built to endure the elements with a durable, water-resistant finish. Signature Watermarked Lining – Subtle Gobi Heat logo lining adds a refined touch and premium feel inside every jacket. Adjustable Hood with Peak – Shields against wind and snow while maintaining a clean, athletic silhouette. Functional Storage – Two zippered hand pockets and a left-arm zip pocket keep essentials close and secure. Why You’ll Love It Polaris delivers sophisticated warmth without compromise — luxurious in feel, intelligent in design, and ready for the coldest days. With its buttery-soft exterior, logo-lined interior, and powerful four-zone heating system, Polaris keeps you warm, comfortable, and confidently styled wherever winter takes you.
-  Updated: 2025-12-18T23:45:41Z
+  Updated: 2025-12-19T21:50:57Z
   Vendor: Gobi Heat
   Product Type: Womens Heated Jackets
   Availability: Available
@@ -1995,6 +1995,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Polaris_Womens_Front_WB_26dfb925-fd5e-4df0-b0cd-80531f956c8c.png?v=1764619956
     Price: $239.00 USD
+- [Performer Mini (4'10" Twin Fin)](https://openroadsupplycompany.com/products/performer-mini-410-twin-fin): The Wave Bandit Performer Mini is the ultimate soft surfboard for younger or smaller surfers, ready to shred their first waves or rip like the pros! At 4'10" with a twin-fin setup, it’s quick and responsive in small to mid-size surf, while the soft-top construction keeps you safe. Built with a durable dual-composite foam core and wood stringers, it’s made for long-lasting performance session after session. SIZE: 4’10” x 19.5” x 2.9” (35 Liters) FEATURES: Designed for: Younger or smaller surfers ready to shred their first waves or rip like the pros Performance: Quick and responsive in small to mid-size surf Construction: Dual-Composite EPS Core, HD PE Slick Deck, and Dual-Wood Stringers to provide maximum stiffness for speed and durability Skill Level: Ideal for beginners and progressing surfers Purpose: Offers long-lasting performance for endless fun in the surf Required: Surf Wax for grip & Surf Leash Included: 4.5” Pop Thru Twin Fin Set
+  Updated: 2025-12-19T01:19:07Z
+  Vendor: Catch Surf®
+  Product Type: Surfboards
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB410T_CB25_Pcopy.jpg?v=1764624076
+  - [4'10" / Blue](https://openroadsupplycompany.com/products/performer-mini-410-twin-fin?variant=58439830175825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB410T_CB25_Pcopy.jpg?v=1764624076
+    Price: $199.99 USD
+  - [4'10" / Pink](https://openroadsupplycompany.com/products/performer-mini-410-twin-fin?variant=58439830208593)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB410T_PK25_Pcopy.jpg?v=1764624076
+    Price: $199.99 USD
+  - [4'10" / Orange](https://openroadsupplycompany.com/products/performer-mini-410-twin-fin?variant=58439830241361)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB410T_PN25_Pcopy.jpg?v=1764624076
+    Price: $199.99 USD
 - [Wave Bandit 5' Leash](https://openroadsupplycompany.com/products/wave-bandit-5-leash): 5-Feet long with P/U cord Extra durable with quick release cuff, anti-tangle double stainless steel swivel system, triple-wrap rail Saver and an internal key pocket. Compatible use on any Wave Bandit soft surfboard Velcro closure around the ankle Velcro closure for attaching to board
   Updated: 2025-12-18T20:36:29Z
   Vendor: Catch Surf®
@@ -2017,13 +2035,13 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/wavebandit6__amazon.jpg?v=1764624079
   Price: $33.95 USD
 - [Easy Rider (Tri Fin)](https://openroadsupplycompany.com/products/easy-rider-tri-fin): The Wave Bandit Easy Rider is the ultimate soft surfboard for beginners, offering a smooth, stable ride that makes catching waves a breeze. Its softboard construction, extra foam, and longboard shape make gliding and learning maneuvers effortless, while the durable composite foam core and dual wood stringers ensure it’s built to last. Plus, the built-in handle makes it easy to carry, so you're always ready for your next adventure! SIZES: 7’0” x 22.0” x 3.125” (72 Liters) 8'0" x 23.0" x 3.375" (86 Liters) FEATURES: Designed for: Beginners seeking a smooth, stable ride for easy wave catching Performance: Softboard construction with extra foam for effortless gliding and learning maneuvers Construction: Dual-Composite EPS Core, HD PE Slick Deck, and Dual-Wood Stringers to provide maximum stiffness for speed and durability. Built-in handle for easy carrying, making it ready for any surf adventure Skill Level: Perfect for first-time surfers and those mastering the basics Purpose: Helps beginners progress with ease while enjoying a stable, fun ride on the waves Required: Surf Wax for grip & Surf Leash Included: 4.5” Pop Thru Tri Fin Set
-  Updated: 2025-12-18T20:36:29Z
+  Updated: 2025-12-19T01:17:47Z
   Vendor: Catch Surf®
   Product Type: Surfboards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB80_CB25_P2copy_7daa1fc9-f77f-4215-a5cb-50a28aff32a5.jpg?v=1764624078
   - [8'0" / Blue](https://openroadsupplycompany.com/products/easy-rider-tri-fin?variant=58439830470737)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB80_CB25_P2copy_7daa1fc9-f77f-4215-a5cb-50a28aff32a5.jpg?v=1764624078
     Price: $399.99 USD
   - [8'0" / Orange](https://openroadsupplycompany.com/products/easy-rider-tri-fin?variant=58439830503505)
@@ -2046,6 +2064,20 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB70_PK25_Pcopy.jpg?v=1764624079
     Price: $374.99 USD
+- [Retro Fish x Ben Gravy (5'8"Quad)](https://openroadsupplycompany.com/products/retro-fish-x-ben-gravy-58quad): The Ben Gravy Retro Fish Quad Fin Soft Surfboard is the perfect mix of retro vibes and modern performance, designed for all skill levels. Inspired by Ben Gravy, it offers stability for easy wave catching and speed, with a quad fin setup that balances control, speed, and maneuverability. Whether you’re cruising or carving, this board makes it all look easy! SIZE: 5’8” x 22” x 2.5” (48 liters) FEATURES: Designed for: All skill levels, mainly for the intermediate to expert surfers Designed by: Legendary surfer Ben Gravy Performance: Perfect for all skill levels, offering stability, speed, and easy wave catching Construction: Dual-Composite EPS Core, HD PE Slick Deck, and Dual-Wood Stringers to provide maximum stiffness for speed and durability Skill Level: Great for beginners to experts looking for a fun, versatile ride Purpose: Provides a smooth and easy ride while maintaining pro-level performance on the waves Required: Surf Wax for grip & Surf Leash Included: 4.5” Pop Thru Quad Fin Set
+  Updated: 2025-12-19T00:19:17Z
+  Vendor: Catch Surf®
+  Product Type: Surfboards
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB58-BG_WH25_Pcopy.jpg?v=1764624078
+  - [5'8" / White](https://openroadsupplycompany.com/products/retro-fish-x-ben-gravy-58quad?variant=58439830405201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB58-BG_WH25_Pcopy.jpg?v=1764624078
+    Price: $349.99 USD
+  - [5'8" / Blue](https://openroadsupplycompany.com/products/retro-fish-x-ben-gravy-58quad?variant=58439830437969)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB58-BG_BL22_Pcopy.jpg?v=1764624079
+    Price: $349.99 USD
 - [Performer (Tri Fin)](https://openroadsupplycompany.com/products/performer-tri-fin): The Wave Bandit Performer is the perfect blend of performance and durability, making it ideal for everyone from beginners to expert surfers. With its sleek fish shape and tri-fin setup, this board excels in all surf conditions, helping you rip down the line and carve clean turns in no time. Whether you're just starting or leveling up your skills, the Performer’s got you covered! SIZES: 5’6” x 21.0” x 2.875” (42 Liters) 6’0” x 21.5” x 3.0” (48 Liters) 6'6" x 22.0" x 3.125" (55 Liters) FEATURES: Designed for: All skill levels, mainly for the intermediate to expert surfers Performance: Sleek fish shape and tri-fin setup for enhanced speed and maneuverability Construction: Dual-Composite EPS Core, HD PE Slick Deck, and Dual-Wood Stringers to provide maximum stiffness for speed and durability Skill Level: Perfect for surfers starting out or leveling up their skills Purpose: Provides everything you need to rip and carve with confidence on the waves Required: Surf Wax for grip & Surf Leash Included: 4.5” Pop Thru Tri Fin Set
   Updated: 2025-12-18T21:36:11Z
   Vendor: Catch Surf®
@@ -2108,97 +2140,96 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/WB56_PN25_Pcopy.jpg?v=1764624079
     Price: $349.99 USD
-- [Nature's Generator Lithium 6000 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-6000-power-station): Robust Whole Home Backup Power Solution: The Nature's Generator Lithium 6000 Power Station delivers 6000W of reliable power, an ideal whole house generator for off-grid use, RVs, or as a dependable whole home backup generator and power generator for home. Advanced LiFePO4 Battery Chemistry: Powered by LiFePO4 battery, it offers long life, high safety, and solid performance, one of the most trusted backup batteries for home backup and emergency preparedness. Expandable Full House Generator Design: Add another Lithium 6000 to reach 12,000W at 240V, expand battery capacity, or connect solar panels, a scalable full house generator for growing energy needs. Home Integration Ready: This whole home generator works with a transfer switch or power inlet box for easy integration, ideal for home generators for power outages. Flexible Multi-Charging Options: Supports solar, wind, and AC charging, or even generator-to-generator charging making it a versatile home backup power solution for any location or situation. User-Friendly Power Monitoring: An LED screen shows battery level, power use, and runtime, real-time monitoring for smarter power station management Auto-start Mode: The intelligent “set it and forget it” feature helps conserve energy by shutting down the output when the grid is available and instantly powering on the moment an outage occurs.
-  Updated: 2025-12-18T20:36:29Z
+- [Nature's Generator Lithium 6000 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-6000-power-station): • Robust Whole Home Backup Power Solution: The Nature's Generator Lithium 6000 Power Station delivers 6000W of reliable power, an ideal whole house generator for off-grid use, RVs, or as a dependable whole home backup generator and power generator for home.• Advanced LiFePO4 Battery Chemistry: Powered by LiFePO4 battery, it offers long life, high safety, and solid performance, one of the most trusted backup batteries for home backup and emergency preparedness.• Expandable Full House Generator Design: Add another Lithium 6000 to reach 12,000W at 240V, expand battery capacity, or connect solar panels, a scalable full house generator for growing energy needs.• Home Integration Ready: This whole home generator works with a transfer switch or power inlet box for easy integration, ideal for home generators for power outages.• Flexible Multi-Charging Options: Supports solar, wind, and AC charging, or even generator-to-generator charging making it a versatile home backup power solution for any location or situation.• User-Friendly Power Monitoring: An LED screen shows battery level, power use, and runtime, real-time monitoring for smarter power station management• Auto-start Mode: The intelligent “set it and forget it” feature helps conserve energy by shutting down the output when the grid is available and instantly powering on the moment an outage occurs.
+  Updated: 2025-12-19T19:32:13Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_6000_Front_NGLGNSX_5bdf2479-8eb5-4d52-b4a2-46c1b6f0f8c2.jpg?v=1764625434
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_6000_Front_NGLGNSX_5bdf2479-8eb5-4d52-b4a2-46c1b6f0f8c2.png?v=1766166509
   - [Lithium 6000 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-6000-power-station?variant=58439843283025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_6000_Front_NGLGNSX_5bdf2479-8eb5-4d52-b4a2-46c1b6f0f8c2.jpg?v=1764625434
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_6000_Front_NGLGNSX_5bdf2479-8eb5-4d52-b4a2-46c1b6f0f8c2.png?v=1766166509
     Price: $2,249.99 USD
   - [Lithium 6000 + Power Pod](https://openroadsupplycompany.com/products/natures-generator-lithium-6000-power-station?variant=58439843315793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_600_and_Power_Pod_NGLGNSXPD.jpg?v=1764625434
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_600_and_Power_Pod_NGLGNSXPD_23ef9123-bdb0-43cd-9f17-6c4570b01bc5.jpg?v=1766129118
     Price: $3,749.98 USD
   - [x2 Lithium 6000(12KW)](https://openroadsupplycompany.com/products/natures-generator-lithium-6000-power-station?variant=58439843348561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/2x_Lithium_6000_and_Combiner_NGLSXD.jpg?v=1764625434
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/2x_Lithium_6000_and_Combiner_NGLSXD_640a42d3-13dc-4420-ac32-ee0b1d69a4bd.jpg?v=1766129118
     Price: $4,699.97 USD
 - [Nature's Generator Lithium 3600 Power Pod](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-pod): The Nature's Generator Lithium 3600 Pod is a 3072Wh LiFePO4 battery expansion unit that extends the runtime and versatility of your Lithium 3600 system, offering reliable, long-lasting performance for off-grid, backup, and sustainable energy use. Powerful 3072Wh LiFePO4 Battery: Built with advanced LiFePO4 cells, this pod provides extended battery life and improved thermal stability for safer, consistent power. Expandable Energy System: Seamlessly link the Lithium 3600 Pod with the Nature’s Generator Lithium 3600 base unit to increase capacity for continuous, reliable energy. Eco-Friendly Power Solution: Zero-emission, LiFePO4-powered energy storage is environmentally safe, reducing your carbon footprint and fuel dependency. User-Friendly Design: An integrated LED display shows the pod’s charge level, allowing you to manage and monitor power usage effectively. Durable and Portable: The Lithium 3600 Pod’s rugged design and easy-connect cable make it the perfect power solution, ready for transport and outdoor use. Equip your Nature's Generator Lithium 3600 system with the Lithium 3600 Pod for an unparalleled power experience, driven by the safety and longevity of LiFePO4 battery technology.
-  Updated: 2025-12-18T20:36:30Z
+  Updated: 2025-12-19T21:35:56Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600PODsolofront.webp?v=1764625574
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600PODsolofront_d7127f7d-d8f1-491d-bd9c-31ec029cb5ba.png?v=1766166493
   - [Nature's Generator Lithium 3600 Pod](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-pod?variant=58439844429905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600PODsolofront.webp?v=1764625574
     Price: $1,299.99 USD
   - [Nature's Generator Lithium 3600 Power Add-on](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-pod?variant=58439844462673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_Power_Pod_with_2x_100W_Solar_Panels.jpg?v=1764625574
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_Power_Pod_with_2x_100W_Solar_Panels_f0e50ecd-5439-4cce-af19-9cb4cb83ed5b.jpg?v=1766136950
     Price: $1,799.99 USD
   - [Nature's Generator Lithium 3600 Power Add-on Pro](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-pod?variant=58439844495441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_POD_solo_2x_410w_50ftcable.webp?v=1764625574
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_POD_solo_2x_410w_50ftcable.webp?v=1766136950
     Price: $2,299.99 USD
 - [Nature's Generator Lithium 1800 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-1800-power-station): High-Performance Power: Delivers 1800 watts of clean, renewable energy, ideal as a portable power station for home battery backup, RV trips, camping, or on-the-go. Long-Lasting LiFePO4 Battery: Equipped with a durable 1440Wh LiFePO4 battery for reliable, and extended use. Multi-Charging Options: Supports solar, wind, and AC charging, offering flexibility for home, on the road, or off-grid scenarios. Double Your Power: Easily expand up to 3600 watts by pairing a second Lithium 1800 and combiner, boosting capacity for larger energy demands. Home Integration Ready: Offers transfer switch or power inlet box options for seamless integration, providing power backup for essential home circuits during outages. Versatile Output Ports: Includes AC, DC, USB, and 12V outlets to power devices from phones to essential home appliances. User-Friendly Display: Features an LED screen for easy monitoring of battery levels, wattage usage, and remaining power time. Durable and Portable: Built with rugged, high-quality materials for easy transport and lasting outdoor reliability.
-  Updated: 2025-12-18T20:36:30Z
+  Updated: 2025-12-19T19:38:00Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-lithium-1800-160151.jpg?v=1765992460
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-lithium-1800-160151_e1c4fea6-4006-477a-81b9-015887827c8c.png?v=1766173068
   - [Nature's Generator Lithium 1800](https://openroadsupplycompany.com/products/natures-generator-lithium-1800-power-station?variant=58439844528209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-lithium-1800-160151.jpg?v=1765992460
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-lithium-1800-160151_e1c4fea6-4006-477a-81b9-015887827c8c.png?v=1766173068
     Price: $549.99 USD
   - [Nature's Generator Lithium 1800 x2](https://openroadsupplycompany.com/products/natures-generator-lithium-1800-power-station?variant=58439844560977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-lithium-1800-combo-607758.jpg?v=1764625574
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-lithium-1800-combo-607758_ad8933a5-7b21-4db9-89a8-c19982cd8af2.jpg?v=1766129770
     Price: $1,199.99 USD
-- [Nature’s Generator Powerhouse Whole Home Generator](https://openroadsupplycompany.com/products/nature-s-generator-powerhouse-whole-home-generator): Powerful Whole House Solution: The Nature's Generator Powerhouse is a 120V/240V 7200W whole house generator, with a 4800Wh battery providing dependable home battery backup. Capable of powering everything from small devices to heavy-duty appliances, this system is ideal for anyone seeking a reliable electric generator for home, delivering consistent power for all your home generator system needs. Expandable Design: This system features an expandable design, allowing for additional battery units and solar panels to meet larger energy demands over time. It’s a perfect choice for those looking to scale their generator system with growing power needs, ensuring reliable performance for years to come. Home Integration Ready: With transfer switch or power inlet box options, this system offers seamless integration, providing back up power for home circuits during outages. It's the perfect generator to power house, ensuring your essential systems stay operational during emergencies. Flexible Battery Compatibility: Works with both SLA and LiFePO4 batteries for versatile power options and extended lifespan. As the best electric generator for home use, it guarantees long-term reliability and consistent power for your household. Reliable 240V Generator for High-Power Needs: Equipped with a 240V outlet, this generator is capable of supporting large appliances and heavy-duty equipment, providing dependable power for intensive applications. It’s a trusted power station generator for households with high energy demands, making it a great solution for all your residential generators needs Multi-Charging Options: Supports solar, wind, and AC charging, providing multiple energy inputs for sustainable power. Whether you need a power inverter generator or simply want to harness renewable energy sources, this system offers the flexibility to use various charging options. User-Friendly Display: The LED display shows real-time data such as battery levels, wattage usage, and remaining power time, allowing you to easily monitor your generator system and ensure you have enough power to keep everything running smoothly. Peace of Mind and Flexibility: Whether you're looking for a whole home backup generator or need an emergency generator for home use, this system provides the ultimate backup power generator solution. It offers peace of mind and reliable power during emergencies, power outages, or off-grid setups.
-  Updated: 2025-12-18T20:36:30Z
+- [Nature’s Generator Powerhouse Whole Home Generator](https://openroadsupplycompany.com/products/nature-s-generator-powerhouse-whole-home-generator): • Powerful Whole House Solution: The Nature's Generator Powerhouse is a 120V/240V 7200W whole house generator, with a 4800Wh battery providing dependable home battery backup. Capable of powering everything from small devices to heavy-duty appliances, this system is ideal for anyone seeking a reliable electric generator for home, delivering consistent power for all your home generator system needs.• Expandable Design: This system features an expandable design, allowing for additional battery units and solar panels to meet larger energy demands over time. It’s a perfect choice for those looking to scale their generator system with growing power needs, ensuring reliable performance for years to come.• Home Integration Ready: With transfer switch or power inlet box options, this system offers seamless integration, providing back up power for home circuits during outages. It's the perfect generator to power house, ensuring your essential systems stay operational during emergencies.• Flexible Battery Compatibility: Works with both SLA and LiFePO4 batteries for versatile power options and extended lifespan. As the best electric generator for home use, it guarantees long-term reliability and consistent power for your household.• Reliable 240V Generator for High-Power Needs: Equipped with a 240V outlet, this generator is capable of supporting large appliances and heavy-duty equipment, providing dependable power for intensive applications. It’s a trusted power station generator for households with high energy demands, making it a great solution for all your residential generators needs• Multi-Charging Options: Supports solar, wind, and AC charging, providing multiple energy inputs for sustainable power. Whether you need a power inverter generator or simply want to harness renewable energy sources, this system offers the flexibility to use various charging options.• User-Friendly Display: The LED display shows real-time data such as battery levels, wattage usage, and remaining power time, allowing you to easily monitor your generator system and ensure you have enough power to keep everything running smoothly.• Peace of Mind and Flexibility: Whether you're looking for a whole home backup generator or need an emergency generator for home use, this system provides the ultimate backup power generator solution. It offers peace of mind and reliable power during emergencies, power outages, or off-grid setups.
+  Updated: 2025-12-19T19:30:16Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-powerhouse-841279.jpg?v=1764625574
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-powerhouse-841279_ad2cdce2-b8e8-4f08-934a-d6385eb8d00d.png?v=1766166509
   - [Powerhouse Generator](https://openroadsupplycompany.com/products/nature-s-generator-powerhouse-whole-home-generator?variant=58439844364369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-powerhouse-528198.jpg?v=1764625574
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/natures-generator-powerhouse-528198_bac8341b-5a5d-43f0-8cd9-0dfca73dfde6.jpg?v=1766128986
     Price: $2,499.99 USD
   - [Powerhouse Generator + Power Pod](https://openroadsupplycompany.com/products/nature-s-generator-powerhouse-whole-home-generator?variant=58439844397137)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/powerhouse_powerpod_2.jpg?v=1764625574
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/powerhouse_powerpod_2.jpg?v=1766166509
     Price: $3,999.99 USD
-- [Nature's Generator Lithium 3600 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-station): Robust Energy Solution: The Nature's Generator Lithium 3600 power station provides 3600 watts of reliable power, designed for longevity and high-demand performance. Perfect for off-grid adventures, RVs, camping, and dependable home battery backup. Advanced LiFePO4 Battery Chemistry: Equipped with a high-capacity 3072Wh LiFePO4 battery, offering extended lifespan, improved safety, and stable performance under high-power demands. Expandable Design: Allows for the addition of an extra Lithium 3600 to double your power to 7200W 240V, a battery unit for enhanced capacity, and solar panels for additional solar charging to meet your evolving energy needs. Home Integration Ready: Offers transfer switch or power inlet box options for seamless integration, providing power backup for essential home circuits during outages. Multi-Charging Options: This portable power station supports solar, wind, and AC charging, ensuring flexible and efficient energy options to meet all your power needs. User-Friendly Display: LED screen shows battery levels, wattage usage, and remaining power time for easy, real-time monitoring.
-  Updated: 2025-12-18T20:36:30Z
+- [Nature's Generator Lithium 3600 Power Station](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-station): • Robust Energy Solution: The Nature's Generator Lithium 3600 power station provides 3600 watts of reliable power, designed for longevity and high-demand performance. Perfect for off-grid adventures, RVs, camping, and dependable home battery backup.• Advanced LiFePO4 Battery Chemistry: Equipped with a high-capacity 3072Wh LiFePO4 battery, offering extended lifespan, improved safety, and stable performance under high-power demands. • Expandable Design: Allows for the addition of an extra Lithium 3600 to double your power to 7200W 240V, a battery unit for enhanced capacity, and solar panels for additional solar charging to meet your evolving energy needs.• Home Integration Ready: Offers transfer switch or power inlet box options for seamless integration, providing power backup for essential home circuits during outages.• Multi-Charging Options: This portable power station supports solar, wind, and AC charging, ensuring flexible and efficient energy options to meet all your power needs.• User-Friendly Display: LED screen shows battery levels, wattage usage, and remaining power time for easy, real-time monitoring.
+  Updated: 2025-12-19T19:33:43Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600solofront.webp?v=1764625575
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600solofront_432eda83-b8c9-4866-82a3-aa545fbedcaf.png?v=1766166507
   - [Lithium 3600 Power Station (3600W/3072Wh)](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-station?variant=58439844626513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600solofront.webp?v=1764625575
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600solofront_432eda83-b8c9-4866-82a3-aa545fbedcaf.png?v=1766166507
     Price: $1,199.99 USD
   - [Lithium 3600 + Power Pod (3600W/6144Wh)](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-station?variant=58439844659281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_solo_pod.webp?v=1764625575
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_3600_solo_pod_a8570165-1683-4bca-8a74-5098d55dfc3f.webp?v=1766129421
     Price: $2,499.98 USD
   - [2 x Lithium 3600 + Combiner (7200W/6144Wh)](https://openroadsupplycompany.com/products/natures-generator-lithium-3600-power-station?variant=58439844692049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600_240V.jpg?v=1764625575
+    Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium3600_240V_d1b5c335-60d4-4761-bd14-56add59f9fd9.jpg?v=1766129421
     Price: $2,549.97 USD
 - [Nature's Generator Lithium 6000 Power Pod](https://openroadsupplycompany.com/products/natures-generator-lithium-6000-power-pod): The Nature's Generator Lithium 6000 Power Pod is a 3840Wh LiFePO4 solar battery that expands your system's capacity for reliable solar energy storage and backup battery power. Powerful LiFePO4 Solar Battery: Advanced LiFePO4 battery cells ensure safer, longer-lasting, and stable solar battery storage. Expandable Battery Storage: Connect the Power Pod to the Lithium 6000 base unit for increased battery energy storage system capacity. Eco-Friendly Solar Solution: Zero-emission solar battery reduces fuel use and carbon footprint for clean, sustainable energy. Portable & Durable Design: Rugged and mobile, the Power Pod is ideal for additional home battery backup and flexible solar battery setups. Enhance your Nature’s Generator system with this dependable, eco-friendly solar battery storage upgrade.
-  Updated: 2025-12-18T20:36:30Z
+  Updated: 2025-12-19T21:37:22Z
   Vendor: Nature's Generator
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_6000__Power_Pod_Front_NGLPDSX.jpg?v=1764625575
+  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Lithium_6000__Power_Pod_Front_NGLPDSX.png?v=1766166526
   Price: $1,499.99 USD
 - [Sauna Tent Wood Stove | Portable | Brushed Stainless](https://openroadsupplycompany.com/products/sauna-tent-wood-stove-portable-brushed-stainless): Stainless-Steel Sauna Tent Wood Stove Intense Heat for Ultimate Relaxation Our sauna wood stove produces an amazing amount of BTUs, ensuring an intense sauna experience unmatched by any other. Fill the firebox with standard-length firewood, stack 30-40 lbs. of stones in the Rock Basket (sold separately), and immerse yourself in the smooth, pleasant steam that promotes deep relaxation and detoxification. Product Specifications: Sizes of the firebox and stove include 16" tall, 8" wide, and 21" long; 19" tall, 10" wide, 24" long; and 25" high with extended legs. Weight is ~45th includes six 3.5-inch-diameter chimney sections. SS304 Stainless Steel
-  Updated: 2025-12-18T23:03:01Z
+  Updated: 2025-12-19T03:33:01Z
   Vendor: North Shore Sauna
   Product Type: Tent Sauna Stove
   Availability: Available
@@ -2226,7 +2257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Screenshot2025-02-26at5.25.42PM_cf013e22-2709-4a63-b4c6-ac3d06aa5524.png?v=1764651487
   Price: $99.00 USD
 - [Jackery Battery Pack 1000 Plus](https://openroadsupplycompany.com/products/jackery-battery-pack-1000-plus): Large Capacity of 1264Wh Durable Lithium Iron Phosphate Battery (LiFePO4) Cycle Life: Maintains over 70% capacity after 4000 cycles Exclusive compatibility with Jackery Explorer 1000 Plus Warranty Extension: 3-year warranty + 2-year extended warranty (applied automatically if purchased from our official website)
-  Updated: 2025-12-18T22:37:46Z
+  Updated: 2025-12-19T23:00:02Z
   Vendor: Jackery
   Product Type: Handbags
   Availability: Available
@@ -2247,7 +2278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/jackery-explorer-1500-v2-portable-power-station-3175036.png?v=1764627158
     Price: $899.00 USD
 - [Explorer 5000 Plus](https://openroadsupplycompany.com/products/explorer-5000-plus): No More Spoiled Food or Wet Clothes Even During Hurricanes, Thunderstorms, and Blackouts: 5-60kWh capacity & 7200-14400W output supports multiple devices for up to 30 days Your Fridge Stays Cold, Your Zoom Call Stays On: 0ms Power Transition, Zero Worries Always Power Your Essential Rooms: Smart Transfer Switch Ensures Uninterrupted Power Where It Matters Most, Learn More > From Indoors to Outdoors: 120V/240V Dual Voltage Enhances Compatibility, Supporting More Loads and More Scenarios Fully Charged in 1.7 Hours: 4000W Solar Input, 5 Ways to Charge, Never Run Out of Power Learn more about Jackery Explorer 5000 Plus>
-  Updated: 2025-12-18T23:51:31Z
+  Updated: 2025-12-19T23:51:22Z
   Vendor: Jackery
   Product Type: 
   Availability: Available
@@ -2277,7 +2308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/jackery-whole-home-backup-kit-5000-plus-20kwh-7509991.png?v=1764627158
     Price: $9,699.00 USD
 - [FireCan Fire Pit](https://openroadsupplycompany.com/products/firecan-fire-pit): *WE ARE SORRY, BUT THE FIRECAN IS NOT AVAILABLE TO SHIP OUTSIDE THE USA An absolute workhorse, and the best flame for your buck. The FireCan OG’s bomber powder-coated black steel frame holds up through any adventure, cranking out 37,000 BTUs of blazing heat. BURN BAN PARTY PLAN - No Smoke, No Wood, No Spark. Raised off the forest floor, providing the perfect alternative to wood fires during the summer burn bans. COMPACT & DURABLE - Tried-and-true ammo can design, powder-coated black steel, stows, and fits anywhere. The collapsible legs and removable lid are easy to set up and quick to break down. SETS UP IN SECONDS - With the quick-release connection, you can have 37,00 BTUs of campfire instantly. MORE HEAT, MORE FLAME - Mesh sides increase visibility and transmission of heat. PLUG AND PLAY - Includes everything you need, all together. Includes FireCan and a 5 ft. hose with an adjustable regulator. * FireCan Fire Rocks or Moon Rocks Highly Recommended
-  Updated: 2025-12-18T20:36:30Z
+  Updated: 2025-12-19T02:05:16Z
   Vendor: Ignik Outdoors
   Product Type: Sporting Goods
   Availability: Available
@@ -2291,19 +2322,12 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/FLIPSIDE-MOCK-fleece-1copy.jpg?v=1764633359
   Price: $249.95 USD
 - [FireCan Rocks](https://openroadsupplycompany.com/products/firecan-rocks): Made from pure lava rock! Make your FireCan™ flames dance!• 5 lbs of natural tumbled lava stone• Fits perfect over the FireCan™ burners• Provides variable flames for a more natural look. WARNING: Volcanic rock has the ability to trap moisture and fracture or pop upon rapid heating. When using lava rock apply heat gradually and at low levels to reduce the release of any moisture or internal steam buildup.
-  Updated: 2025-12-18T20:36:30Z
+  Updated: 2025-12-19T16:05:32Z
   Vendor: Ignik Outdoors
   Product Type: PROPANE HEAT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/firecan-fire-rocks-1.jpg?v=1764633358
   Price: $29.95 USD
-- [Skullet Deluxe Heater Stove Cook Set](https://openroadsupplycompany.com/products/skullet-deluxe-heater-stove-cook-set): *Only available with select promotions, coupons, or discount codes The Center of the Party Wherever You Go Boasting 360 degrees of outdoor heat and a high-powered camp kitchen cooktop, the Skullet Deluxe is sure to bring the heat, feed the troops, and be the polestar that your party will revolve around. 48,000 BTU/Hr. packs 360 degrees of heat, just like a home/bar patio heater, but wherever you go. Cooks & Heats – Unique cooking vent pedestal design lets you support large pans with the power to cook a feast. Includes Adjustable Legs & Cast-Iron Skillet to elevate your heating and cooking experience. Cast-Iron Skillet comes pre-seasoned with unique flip-out handles, an edge spout, and a flat base specifically designed to work seamlessly with the Skullet for cooking, serving, or packing up to go. More versatile than a flat-top skillet and more portable than a cast-iron pan, the subtle concave Cast-Iron Skillet lets you cook anything you desire, anywhere you roam. Easy & Safe to Use ‘QuickClick’ Toolless connector 5ft. Regulator hose, Built-In Ignitor, and Tip-Over Safety Switch. Ignik is a member of 1% for The Planet, meaning it donates 1% of all sales to help fight climate change in the Arctic.
-  Updated: 2025-12-18T22:21:33Z
-  Vendor: Ignik Outdoors
-  Product Type: PROPANE HEAT
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-sklullet-deluxe-web-1800-1.jpg?v=1764633358
-  Price: $499.95 USD
 - [Flipside Heated Bed Cover](https://openroadsupplycompany.com/products/flipside-heated-bed-cover): *12V BATTERY REQUIRED. NOT INCLUDED Built For Vehicle Borne Adventure. We reinvented a warm night's sleep, from the ground up. Whether in your rooftop tent in the North Cascades, RV'ing the Olympic Peninsula, or keeping cozy in the cabin, the Flipside makes any place you lay a heated bed. FITS 1 PERSON WARMS ANY OUTDOOR BED: 48W max heat output SMART CONTROLLER: Remembers your settings with built-in safety sensors RECYCLED MATERIAL: 100% Post-consumer recycled polyester shell and insulation 6FT - 12V Vehicle Adapter Included *Not Compatible with Anker Solix C1000*
   Updated: 2025-12-18T20:36:30Z
   Vendor: Ignik Outdoors
@@ -2319,7 +2343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-flipside-duo-hot.jpg?v=1764633359
   Price: $379.95 USD
 - [Ripple Rechargeable Hand Warmers](https://openroadsupplycompany.com/products/ripple-rechargeable-hand-warmers): Finally, a rechargeable hand warmer small enough to fit in your gloves and designed specifically for everyday winter adventures. The Ripple is the future of on-the-go instant heat, built for those who live and play out in the cold all winter long. Crank up the heat with Turbo Mode for extra frigid days or switch to Efficiency Mode for lasting warmth on the long haul. Need heat for the whole crew? Pack extras in your pocket for backup. The Ripple’s quick-charge USB-C dock lets you power up multiple warmers at once—fast, easy, and hassle-free. Plus, they come zipped up and secure in a rugged travel case. The days of cold hands and wasteful single-use hand warmers are over. FEATURES: Instant Heat! Ripple heats up in just seconds. Rechargeable hand warmers that fit in your gloves and are ready to send it. Designed specifically for skiing, snowboarding, and snowy adventures. IPX4 Water Resistant. Heat settings lasting 3 hours on High and 8-12 hours on Efficiency Mode. Charge all your warmers at once. The innovative charging station is low-profile, magnetic, easy-to-use, and uses just one cable. No more charging each hand warmer separately. Each 6-pack replaces 3600 single-use hand warmers, enough to fill a 52-gallon trash can. Each 4-pack replaces 2400 single-use hand warmers, enough to fill a 35-gallon trash can. Each set saves around $3000 worth of single-use Hand Warmers
-  Updated: 2025-12-18T22:42:00Z
+  Updated: 2025-12-19T19:13:07Z
   Vendor: Ignik Outdoors
   Product Type: 
   Availability: Available
@@ -2333,14 +2357,14 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-ripple-web-orange-bundle-6.jpg?v=1764633358
     Price: $169.95 USD
 - [FireCan Elite Fire Pit](https://openroadsupplycompany.com/products/firecan-elite-fire-pit): The next evolution of the FireCan, with more power, lighter weight and more control, lets you take your campfire further. MORE HEAT – CSA Certified, a powerful OVER 50K BTU/Hr. heat output. MORE COMPACT – Tucked-away Quick-release connector and Flame controls on the FireCan. LIGHTER & MORE DURABLE - Stainless Steel Construction with Anodized Aluminum removable lid - 25% lighter weight. INDUSTRY FIRST - First-ever CSA Certified product with 5psi, quick-release. Includes CSA propane cylinder stand. * FireCan Fire Rocks or Moon Rocks Highly Recommended
-  Updated: 2025-12-18T20:36:31Z
+  Updated: 2025-12-19T19:56:37Z
   Vendor: Ignik Outdoors
   Product Type: Sustainable Campfire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-firecan-elite-hero-temp.jpg?v=1764633358
   Price: $299.95 USD
 - [FireCan Deluxe Fire Pit](https://openroadsupplycompany.com/products/firecan-deluxe-fire-pit): *WE ARE SORRY, BUT THE FIRECAN DELUXE IS NOT AVAILABLE TO SHIP OUTSIDE THE USA Stay Fueled, Fed, and Fired Up—everything you need to grill and chill trailside. GRILL MODE + REMOVABLE GRILL INSERT - Stainless steel flame tray insert for the perfect cooking temperatures. Flame Adjustment knob for controlling the cook temperatures. FlRE PIT MODE - Dual burner portable Fire Pit for campfire anywhere you go. COMPACT & DURABLE - Stainless steel can construction, stows, and fits anywhere. Collapsible legs and removable lid, are easy to set up and quick to break down. REMOVABLE GREASE TRAY - Easy-to-use tray to catch excess grease. FOREST SAFE - Replaces wood fires, raised off the forest floor. PLUG AND PLAY - Includes everything you need, all together. Includes FireCan and a 5 ft. quick-release hose. GREAT FOR:
-  Updated: 2025-12-18T22:31:01Z
+  Updated: 2025-12-19T00:03:16Z
   Vendor: Ignik Outdoors
   Product Type: Sporting Goods
   Availability: Available
@@ -2375,7 +2399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-3.8-white.jpg?v=1764633783
     Price: $129.95 USD
 - [Gas Growler 5.0 Deluxe](https://openroadsupplycompany.com/products/gas-growler-5-0-deluxe): THE GAS GROWLER DELUXE FEATURES Outdoor Retailer + Snow Show Innovation Award Winner! One Gas Growler fill costs about the same as one single-use green bottle and lasts 5 times as long. Includes a 4’/1.2M hose that attaches to all heaters and stoves that use single-use green propane bottles. The Gas Growler complies with DOT specifications 4BA, 4BW and 4E. It is safe to transport in your car, SUV, RV, or boat. Rugged protective case with room for hose and wrench storage. Molle stitched webbing for attaching pouches for accessories or strapping down for transport. Tanks are shipped pre-purged and ready to be filled at any propane filling station. GREAT FOR:
-  Updated: 2025-12-18T20:36:31Z
+  Updated: 2025-12-19T21:54:26Z
   Vendor: Ignik Outdoors
   Product Type: 
   Availability: Available
@@ -2397,7 +2421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Ignik_blue_Gas_Growlers-5-dlx-white_ec57318c-0563-4d43-b28b-9f58b36b4dd6.jpg?v=1764633789
     Price: $149.95 USD
 - [Roam Heated Socks – Unisex Rechargeable Heated Socks with Remote Control](https://openroadsupplycompany.com/products/roam-heated-socks-unisex-rechargeable-heated-socks-with-remote-control): Stay warm wherever life takes you with Gobi Heat® Roam Heated Socks. Engineered with premium-grade materials, these unisex heated socks deliver lasting comfort and full-foot warmth whether you’re hiking, working, or relaxing outdoors. With three heat settings (Low, Medium, High) and temperatures up to 149°F, you’ll have total control over your comfort in any condition. We’ve improved on the Tread with a super soft, silky-smooth modal cotton blend that feels cool and luxurious against the skin while keeping warmth locked in. This unique fabric not only enhances comfort but also adds breathability and durability, making the Roam perfect for all-day wear. We’ve also expanded the heating zone to cover the entire bottom of your foot—from toe to heel—for even more warmth where you need it most. The included rechargeable batteries last up to 6 hours on a single charge, and the handy wireless remote lets you adjust heat levels without missing a step. Plus, they’re machine washable for everyday convenience. Perfect for outdoor enthusiasts, cold-weather workers, or anyone who wants to stay warm from toe to heel, Roam Heated Socks are your all-day solution to the cold. ✅ 3 Heat Settings – Low, Medium, High ✅ Battery Life – Up to 6 hours of warmth ✅ Temperature – Up to 149°F ✅ Remote Included – Easily change heat settings on the go ✅ Machine Washable – Designed for everyday wear ✅ Unisex Fit – Ideal for men and women What’s in the box: 1 Pair of Roam Heated Socks 2 Rechargeable Batteries Wireless Remote Control Charger Click here for how to pair your batteries with your remote!
-  Updated: 2025-12-18T23:06:46Z
+  Updated: 2025-12-19T23:43:12Z
   Vendor: Gobi Heat
   Product Type: Heated Socks
   Availability: Available
@@ -2419,7 +2443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Roam_Back_Bottom_Orange_WR_44bc206d-22ef-4d74-83bd-c8f6ced5b8d3.png?v=1764887184
     Price: $179.00 USD
 - [Crest Womens Heated Beanie](https://openroadsupplycompany.com/products/crest-womens-heated-beanie): Our polyester & spandex womens knit beanie can power your warmth for up to 7.5 hours! Activate the over ear dual steel fiber tech heating areas, across 3 temperature settings, with our one touch led controller. This durable heated womens beanie with 100% acrylic fiber interior is machine washable as well! Don’t let the winter cold stop you from doing the things you love!
-  Updated: 2025-12-18T22:30:26Z
+  Updated: 2025-12-19T22:45:21Z
   Vendor: Gobi Heat
   Product Type: Heated Hats
   Availability: Available
@@ -2433,7 +2457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/crest-womens-heated-beanie-845594.jpg?v=1764652824
     Price: $119.00 USD
 - [Summit Mens Heated Beanie](https://openroadsupplycompany.com/products/summit-mens-heated-beanie): Stay warm and stylish this winter with the Summit Heated Beanie. Made from a soft, machine-washable cotton/acrylic blend, this cozy beanie comes in a range of trendy colors, making it an essential addition to your cold-weather wardrobe. Powered by innovative steel fiber heating technology, the Summit Heated Beanie delivers exceptional warmth with up to 7.5 hours of heat. Its two strategically placed heating zones—one over each ear—ensure you stay comfortable in even the coldest conditions. With a simple one-touch LED controller, you can easily switch between low, medium, or high heat settings to match your personal preference. Whether you're braving chilly commutes, hiking snowy trails, or simply enjoying outdoor winter activities, the Summit Heated Beanie keeps the cold at bay so you can focus on what you love. Don’t let winter slow you down—experience the warmth of Gobi Heat’s heated beanies today!
-  Updated: 2025-12-18T20:36:31Z
+  Updated: 2025-12-19T20:11:49Z
   Vendor: Gobi Heat
   Product Type: Heated Hats
   Availability: Available
@@ -2447,7 +2471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/summit-mens-heated-beanie-325232.jpg?v=1764652824
     Price: $119.00 USD
 - [Portable Magnetic Hand Warmers](https://openroadsupplycompany.com/products/portable-magnetic-hand-warmers): Introducing our Portable Magnetic Hand Warmers Pair – the perfect solution for on-the-go, on-demand heat! These compact hand warmers are designed to comfortably fit in your pockets, providing up to 6 hours of reusable, battery-powered warmth. Forget about single-use chemical packs; our hand warmers are USB rechargeable, so you can stay warm while keeping things sustainable. With just a single press, you can switch between 3 heat levels to find the perfect temperature, and they’re magnetically designed to stay together when not in use. These hand warmers are ready to tackle cold weather, wherever you are. Features: Magnetic Design: Conveniently keep the pair together. Comfortable Heat: Heats to a cozy temperature perfect for your pockets. Long-Lasting: Provides up to 6 hours of heat with a 5000mAh battery. Eco-Friendly & Reusable: No chemicals – just recharge via USB! Portable and Lightweight: Easily fits in your bag or pockets. Safe & Reliable Our hand warmers are built with safety in mind, offering multiple protection features and a design that's safe for travel. Whether you’re outdoors, at work, or just need a little extra warmth on a chilly day, these hand warmers are the perfect companion.
-  Updated: 2025-12-18T23:50:01Z
+  Updated: 2025-12-19T23:00:02Z
   Vendor: Gobi Heat
   Product Type: Heated Accessories
   Availability: Available
@@ -2511,7 +2535,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/BoostBoxMiniTransparent.png?v=1764804011
   Price: $1,000.00 USD
 - [SV Shoreline Power Bracket](https://openroadsupplycompany.com/products/sv-shoreline-power-bracket): Sandy Vans designed accessory coming your way, the 'Shoreline' power bracket! Mount the shore power hookup in a discrete easy to access location all while saving yourself the fear of drilling another hole in the side of your van. Includes plug Bracket built from 3/16 in Aluminum Powder-coated black Easy DIY Install 15 amp / 110v plug (Included) Plug has 16" pigtail Mounts directly to factory Mercedes Sprinter (2008+) tow package assembly Compatible with Mercedes Sprinter 144, 170, & 170 EXT What's in the box: Hardware & electrical FREE SHIPPING!
-  Updated: 2025-12-18T21:34:51Z
+  Updated: 2025-12-19T10:42:26Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -2525,7 +2549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/photo-3_ef28356f-fda7-4fc3-b217-0c97a929a856.jpg?v=1764804006
     Price: $128.00 USD
 - [Sprinter Van Rear Door Bug Screen](https://openroadsupplycompany.com/products/sprinter-van-rear-door-bug-screen): RESTOCK ROLLING IN LATE JANUARY Keep your adventure bug-free with the Sandy Vans Bug Screen kit! The Sandy Vans Mercedes Sprinter Door Bug Screens create a complete, sealed barrier to BUGS out! Transparent micro-mesh material offers you optimal visibility so you can enjoy a bug-free environment without obstructing your view of the outdoors. Complete with no hassle entry & exit, your next trip is about to get a whole lot more comfortable. KEY FEATURES: Zipper center for easy access. Zipper opening on both sides so screen can be rolled up and stored out of the way when seasons change. (new photos coming soon) Fits Mercedes Sprinter 2007-2025 High Roof van models Maximum Pest Protection - Screens are meticulously sized to fit perfectly & seal your van off from the outside creating a complete barrier to even the smallest of pests. Superior Visibility - Fine weaved transparent mesh provides you with optimal visibility of the outdoors while keeping your van bug-free. When looking out, you’ll forget the screen is even there. Convenient to Install - Follow simple steps and screens will be up in no time. Once they’re up, they stay put. Complete with no hassle entry & exit through zippered doors. What's Included: [1] Rear Door Bug Screen [4] Clamps (for installation) [25] Metal Clips (for installation)Zip up to store. Zipper opening on both sides so screen can be rolled up and stored out of the way when seasons change. Happy to install bug screens at our facility for an installation charge FREE SHIPPING!
-  Updated: 2025-12-18T21:31:55Z
+  Updated: 2025-12-19T23:13:31Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -2589,7 +2613,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/SVProducts.png?v=1764804005
   Price: $239.20 USD
 - [SV Starboard Rack](https://openroadsupplycompany.com/products/sv-starboard-rack): Click here to see the SV Starboard Rack on your van! Introducing the Sandy Vans Universal Starboard Rear Rack! The Starboard rack is a perfect addition for the back of your Sprinter Van if you are looking to carry bikes, e-bikes, storage boxes, shovels, or secure that spare tire. This rear rack is made from heavy-duty aluminum and features a powder-coated black finish for extra durability and weather-resistance. The rack can be easily installed and comes with everything you need to get started, and it does NOT pierce through your door panel! Meaning you can remove this rack if you were to upgrade your van someday, without having a hole in your door. The Starboard Rack provides endless options to customize your Sprinter! DOES NOT MOUNT THROUGH DOOR PANEL! Designed for your Mercedes Sprinter Adventure Van Built with Aluminum, no rust worries Easy DIY Install in less than an hour Carriage (3/8) bolt & 1/4 hole pattern cut in accessory panel for endless attachment methods Utilizes factory Sprinter 180 degree hinges & factory holes for installation Compatible with Mercedes Sprinter VS30 hinges (2019+) Sprinter 144, Sprinter 170, & Sprinter 170 EXT Weight: 26 lbs Weight attachment limit: 150 lbs *SV Rear Rack needed for SV Boost Box, SV spare tire holder, bike racks, etc. ..further questions? Give the Sandy Vans Team a call (619) 812-1903 We’ve updated the coating on our racks and want to ensure every customer receives the correct version. If you’ve purchased a rack from us before, please reach out so we can make sure you get the appropriate coating. FREE SHIPPING!
-  Updated: 2025-12-18T20:36:32Z
+  Updated: 2025-12-19T05:36:00Z
   Vendor: Sandy Vans
   Product Type: 
   Availability: Available
@@ -2954,14 +2978,14 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/Storm_wall.jpg?v=1764883582
   Price: $900.00 USD
 - [VANNON Shower Curtain](https://openroadsupplycompany.com/products/vannon-shower-curtain): Designed for vanlifers and overland explorers who value both privacy and practicality, the VANNON Shower Curtain is built to integrate seamlessly with your Sprinter van interior. Whether you're adding a shower setup to your custom build or upgrading your existing system, this curtain is built to perform on the road. KEY FEATURES Durable nylon ripstop material resists tearing and stands up to daily use Waterproof liner backing keeps moisture contained and van interiors dry Magnetic hold-downs ensure a secure seal, even when doors are open or windy Twist fastener system makes setup and breakdown fast and frustration-free Includes mounting hardware for quick and easy installation Fully compatible with VANNON bug screens Fits all Mercedes-Benz Sprinter models (2019-current) Does NOT work with aftermarket Hydrolic Stop Stays Made in the USA Download installation guide
-  Updated: 2025-12-18T20:36:34Z
+  Updated: 2025-12-19T02:14:21Z
   Vendor: VANNON
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/shower_Curtain.jpg?v=1764883583
   Price: $249.00 USD
 - [VANNON Utility Baskets & Bottle Holders](https://openroadsupplycompany.com/products/vannon-utility-baskets-bottle-holders): Stay organized on the road with the VANNON Utility Baskets and Bottle Holders! Designed for mobile living and custom van builds, these versatile mesh storage solutions are ideal for holding tools, cables, water bottles, toiletries, and other essentials. Whether you're outfitting a Sprinter camper, off-road rig, or DIY adventure van, this modular, mid-weight storage upgrade keeps your gear secure and easily accessible. Crafted from high-strength nylon mesh, these utility baskets combine lightweight functionality with rugged durability. Each piece comes with all necessary hardware for quick installation on L-Track systems or flat surfaces—perfect for mounting on doors, cabinet faces, bulkheads, or garage walls. Mix and match different colors and sizes or grab a four pack (one large, one small, and two bottle holders), a slim bundle (one slim large, one slim small, one bottle holder) to create your own custom modular storage solution, wherever you roam. KEY FEATURES Durable nylon mesh construction for flexible and rugged use without rattling Universal mounting: includes hardware compatible with L-Track; also compatible with flat wall screws Ideal for van builds, Sprinter campers, off-road rigs, and utility trailers Lightweight, breathable design reduces clutter Made in the USA AVAILABLE SIZES Small Basket: 7" x 5" opening, 4" height Large Basket: 11" x 5" opening, 5.5" height Small Slim Basket: 8" x 2" opening, 4" height Large Slim Basket: 11" x 2" opening, 4" height Bottle Holder: 3.5" diameter opening, 4" height 4 piece set: One large, one small, two bottle holders 3 piece set: One slim large, one slim small, one bottle holder Big bundle: One each size (large, slim large, small, slim small) and two bottle holders (total 6 piece set) AVAILABLE COLORS Grey Carbon Black
-  Updated: 2025-12-18T20:36:34Z
+  Updated: 2025-12-19T06:19:45Z
   Vendor: VANNON
   Product Type: 
   Availability: Available
@@ -3161,7 +3185,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/StarFincopy_4ff823a0-7b85-4a15-91c9-711bb77a917c.jpg?v=1765218470
   Price: $120.00 USD
 - [Aipa DNA Sequencers - Apex](https://openroadsupplycompany.com/products/aipa-dna-sequencers-apex): The DNA Sequencer Quads were developed specifically to complement the Aipa brothers DNA model. With Akila being a twin guy and Duke leaning more towards quads, Duke wanted to design a quad set that felt like it was in between the twin and quad world. The sensation of quad drive and twin pivot was achieved by scaling down the Ahi twin for the forward and balancing it out with a full, small upright rear.This configuration is best surfed in up to head high surf. Switch out the upright rear for the Horsemen rear for additional holding power in overhead surf.This fin also is suggested for the Genome (overall) and the Wrecking Ball (on smaller days). Front:Base: 4.83"Height: 5.25"Area: 16.81 in²Foil: Flat SeriesIII Trailers:Base: 3.60"Height: 3.50"Area: 9.02 in²Foil: Flat SeriesIII
-  Updated: 2025-12-18T20:36:35Z
+  Updated: 2025-12-19T15:45:01Z
   Vendor: NVS
   Product Type: 
   Availability: Available
@@ -3331,7 +3355,7 @@
   Updated: 2025-12-18T19:18:14Z
   Total Products: 19
 - [Tec Vanlife](https://openroadsupplycompany.com/collections/tec-vanlife)
-  Updated: 2025-12-18T19:18:14Z
+  Updated: 2025-12-19T16:34:57Z
   Total Products: 64
 - [Featured Products](https://openroadsupplycompany.com/collections/featured-products)
   Updated: 2025-12-18T19:18:14Z
@@ -3340,7 +3364,7 @@
   Updated: 2025-12-18T19:18:14Z
   Total Products: 55
 - [2) Make: Sprinter Parts](https://openroadsupplycompany.com/collections/sprinter-parts)
-  Updated: 2025-12-18T19:18:15Z
+  Updated: 2025-12-19T21:12:46Z
   Total Products: 68
 - [2) Make: Universal Parts](https://openroadsupplycompany.com/collections/universal-parts)
   Updated: 2025-12-18T19:18:15Z
@@ -3364,8 +3388,8 @@
   Updated: 2025-12-18T19:18:15Z
   Total Products: 7
 - [Ignik Outdoors](https://openroadsupplycompany.com/collections/ignik-outdoors)
-  Updated: 2025-12-18T22:22:03Z
-  Total Products: 12
+  Updated: 2025-12-19T21:31:03Z
+  Total Products: 11
 - [Side Steps](https://openroadsupplycompany.com/collections/side-steps)
   Updated: 2025-12-18T19:18:15Z
   Total Products: 3
