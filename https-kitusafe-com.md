@@ -10,7 +10,7 @@
 - Contact Email: allamazon04@gmail.com
 - Contact Phone: +13017542500
 - Address: 11910 Parklawn Drive; Suite U Rockville, MD  20852
-- Updated At: 2025-12-16T00:00:34.705Z
+- Updated At: 2025-12-20T00:00:35.872Z
 
 ## Products
 
@@ -2860,6 +2860,10 @@
   Updated: 2025-11-18T17:10:36Z
 - [Kit U Safe Shipping Policy](https://kitusafe.com/pages/shipping-policy): Kit U Safe Shipping Policy Our comprehensive shipping policy is designed to provide complete transparency about when you can expect your Kit U Safe...
   Updated: 2025-11-18T17:19:32Z
+- [Period Kits for Schools | Bulk Hygiene Supplies for K–12](https://kitusafe.com/pages/period-kits-for-schools): Period Kits for Schools Serving Grades K-12 Our period kits for schools are designed to support students across elementary, middle, and high school...
+  Updated: 2025-12-17T19:03:50Z
+- [Wholesale Application Submitted](https://kitusafe.com/pages/wholesale-application-submitted): Welcome to Wholesale! Your signup was successful. We’ll send you an email shortly with details on how to access special pricing and start ordering.
+  Updated: 2025-12-16T19:02:15Z
 
 ## Policies
 
