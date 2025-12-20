@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-14T00:00:32.297Z
+- Updated At: 2025-12-20T00:00:34.010Z
 
 ## Collections
 
@@ -85,6 +85,10 @@
     Updated: 2025-12-09T01:46:25Z
     Author: Mohammed Hassen
     Tags: Canada, FIFA, Football News, Host Nations, Mexico, Soccer, Sports Marketing, USA, World Cup 2026, World Cup Draw
+  - [6-7 Meme Causes In-N-Out to Retire Order #67](https://crazedo.com/blogs/weekly-google-trends/viral-6-7-meme-forces-in-n-out-burger-to-retire-order-67): 6-7 Meme Causes In-N-Out to Retire Order #67
+    Updated: 2025-12-15T20:00:29Z
+    Author: Mohammed Hassen
+    Tags: 6-7 meme, Gen Alpha trends, In-N-Out Burger, In-N-Out number 67, internet culture, meme culture impact, viral marketing, viral marketing trends, viral trends, youth-driven trends
 
 ## Store Pages
 
