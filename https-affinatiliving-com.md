@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-20T12:00:33.420Z
+- Updated At: 2025-12-20T16:00:32.346Z
 
 ## Products
 
@@ -803,366 +803,6 @@
   - [Pack of 5](https://affinatiliving.com/products/twisted-peppermint-signature-candle?variant=42442377887825)
     Availability: Available
     Price: $72.95 USD
-- [Mint Eucalyptus Body Scrub – Cooling Herbal Exfoliation for Refreshed Skin](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint): Invigorate your skin with Mint Eucalyptus body scrub—cooling exfoliation and refreshing herbal scent leave you smooth, energized, and naturally refreshed.
-  Updated: 2025-12-18T18:11:53Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5693.png?v=1747830909
-  - [Small (4 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343371857)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296398929)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343404625)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296431697)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343437393)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296464465)
-    Availability: Available
-    Price: $34.95 USD
-  - [Medium (7 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343470161)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296497233)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343502929)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296530001)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343535697)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296562769)
-    Availability: Available
-    Price: $49.95 USD
-  - [Large (14 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343568465)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296595537)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343601233)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296628305)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42408343634001)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint?variant=42440296661073)
-    Availability: Available
-    Price: $74.95 USD
-- [Champagne Toast Body Scrub – Luxurious Exfoliation with a Bubbly Citrus Scent](https://affinatiliving.com/products/body-scrub-champagne): Celebrate your skin with Champagne Toast body scrub—gentle exfoliation and bubbly, sweet citrus fragrance for soft, radiant, and irresistibly scented skin.
-  Updated: 2025-12-18T18:11:53Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_May_21_2025_08_33_05_AM.png?v=1747830797
-  - [Small (4 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408343863377)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294596689)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408343896145)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294629457)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408343928913)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294662225)
-    Availability: Available
-    Price: $34.95 USD
-  - [Medium (7 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408343961681)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294694993)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408343994449)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294727761)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408344027217)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294760529)
-    Availability: Available
-    Price: $49.95 USD
-  - [Large (14 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408344059985)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294793297)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408344092753)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294826065)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-champagne?variant=42408344125521)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-champagne?variant=42440294858833)
-    Availability: Available
-    Price: $74.95 USD
-- [Coffee Beans Body Scrub – Energizing Exfoliation for Smooth, Revitalized Skin](https://affinatiliving.com/products/body-scrub-coffee-shop): Energize your skin with Coffee Beans body scrub—exfoliating coffee grounds and rich aroma awaken your senses while leaving skin smooth, soft, and refreshed.
-  Updated: 2025-12-18T18:11:53Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5692.png?v=1747831973
-  - [Small (4 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344256593)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440290893905)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344289361)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440290926673)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344322129)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440290959441)
-    Availability: Available
-    Price: $34.95 USD
-  - [Medium (7 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344354897)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440290992209)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344387665)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440291024977)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344420433)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440291057745)
-    Availability: Available
-    Price: $49.95 USD
-  - [Large (14 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344453201)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440291090513)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344485969)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440291123281)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42408344518737)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-coffee-shop?variant=42440291156049)
-    Availability: Available
-    Price: $74.95 USD
-- [Vanilla Sugar Body Scrub – Sweet, Gentle Exfoliation for Silky Soft Skin](https://affinatiliving.com/products/body-scrub-bamboo): Indulge your skin with Vanilla Sugar body scrub—gentle exfoliation and sweet, warm fragrance for irresistibly smooth, soft, and beautifully scented skin.
-  Updated: 2025-12-18T18:11:54Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_May_21_2025_08_29_54_AM.png?v=1747830613
-  - [Small (4 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345436241)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289419345)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345469009)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289452113)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345501777)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289484881)
-    Availability: Available
-    Price: $34.95 USD
-  - [Medium (7 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345534545)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289517649)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345567313)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289550417)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345600081)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289583185)
-    Availability: Available
-    Price: $49.95 USD
-  - [Large (14 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345632849)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289615953)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345665617)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289648721)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-bamboo?variant=42408345698385)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-bamboo?variant=42440289681489)
-    Availability: Available
-    Price: $74.95 USD
-- [Ocean Breeze Body Scrub – Refreshing Coastal Exfoliation for Glowing Skin](https://affinatiliving.com/products/body-scrub-fruit-fusion): Refresh and rejuvenate your skin with Ocean Breeze body scrub—invigorating exfoliation and a crisp coastal scent for smooth, glowing, beach-ready skin.
-  Updated: 2025-12-18T18:11:54Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5691.png?v=1747830975
-  - [Small (4 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281260113)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287060049)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281292881)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287092817)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281325649)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287125585)
-    Availability: Available
-    Price: $34.95 USD
-  - [Medium (7 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281358417)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287158353)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281391185)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287191121)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281423953)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287223889)
-    Availability: Available
-    Price: $49.95 USD
-  - [Large (14 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281456721)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287256657)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281489489)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287289425)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440281522257)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-fruit-fusion?variant=42440287322193)
-    Availability: Available
-    Price: $74.95 USD
-- [Lavender Dream Body Scrub – Calming Exfoliation for Soft, Smooth Skin](https://affinatiliving.com/products/body-scrub-honey-lavender): Soothe and smooth your skin with Lavender Dream body scrub—gentle exfoliation and calming lavender fragrance for soft, radiant, and refreshed skin.
-  Updated: 2025-12-18T18:11:54Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5688.png?v=1747830870
-  - [Small (4 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278671441)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285454417)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278704209)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285487185)
-    Availability: Available
-    Price: $34.95 USD
-  - [Small (4 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278736977)
-    Availability: Available
-    Price: $7.95 USD
-  - [Small (4 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285519953)
-    Availability: Available
-    Price: $34.95 USD
-  - [Medium (7 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278769745)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285552721)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278802513)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285585489)
-    Availability: Available
-    Price: $49.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278835281)
-    Availability: Available
-    Price: $11.95 USD
-  - [Medium (7 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285618257)
-    Availability: Available
-    Price: $49.95 USD
-  - [Large (14 oz) / Epsom Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278868049)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Epsom Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285651025)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278900817)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Dead Sea Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285683793)
-    Availability: Available
-    Price: $74.95 USD
-  - [Large (14 oz) / Black Lava Salt / Single Order](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440278933585)
-    Availability: Available
-    Price: $16.95 USD
-  - [Large (14 oz) / Black Lava Salt / Pack of 5](https://affinatiliving.com/products/body-scrub-honey-lavender?variant=42440285716561)
-    Availability: Available
-    Price: $74.95 USD
 - [Hydrating Face Cream - Unscented](https://affinatiliving.com/products/hydrating-face-cream-unscented): Keep it clean and simple with our Unscented Face Cream. This 5 oz formula is ideal for sensitive skin or those who prefer skincare without added fragrance. Infused with sunflower oil and Vitamin E, it provides deep hydration and helps maintain a soft, healthy complexion. Lightweight, non-greasy, and perfect for daily use. Key Ingredients: Sunflower Oil – Moisturizes and helps protect the skin’s natural barrier Vitamin E – Delivers antioxidant benefits and promotes smooth, nourished skin Fragrance-free and gentle for all-day comfort.Perfect for those who want powerful hydration without any lingering scent. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
   Updated: 2025-12-18T18:11:54Z
   Vendor: Affinati
@@ -7091,7 +6731,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_54_28_PM.png?v=1764381279
   Price: $59.95 USD
 - [Lavender Vanilla Whipped Soap - 64 oz](https://affinatiliving.com/products/lavender-vanilla-whipped-soap-64-oz): Relax with Lavender Vanilla Whipped Soap. A sweet, calming 64 oz creamy lather perfect for daily cleansing, shaving, and luxurious self-care.
-  Updated: 2025-12-20T00:23:54Z
+  Updated: 2025-12-20T12:27:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7874,7 +7514,7 @@
   Updated: 2025-12-19T12:10:31Z
   Total Products: 89
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-12-18T18:11:45Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 76
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-20T00:23:55Z
@@ -7886,13 +7526,13 @@
   Updated: 2025-12-18T18:11:45Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-12-18T18:11:45Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 45
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
   Updated: 2025-12-18T18:11:46Z
   Total Products: 42
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
-  Updated: 2025-12-18T18:11:46Z
+  Updated: 2025-12-20T15:59:09Z
   Total Products: 6
 - [Featured Collection](https://affinatiliving.com/collections/featured-collection)
   Updated: 2025-12-18T18:11:46Z
@@ -7901,13 +7541,13 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 342
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-12-20T00:23:55Z
+  Updated: 2025-12-20T15:59:09Z
   Total Products: 99
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-12-18T18:11:46Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 87
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-12-18T18:11:46Z
@@ -7925,7 +7565,7 @@
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 93
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-12-18T18:11:47Z
@@ -7934,16 +7574,16 @@
   Updated: 2025-12-19T12:10:31Z
   Total Products: 118
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-18T18:11:47Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 136
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 125
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
   Updated: 2025-12-19T12:10:31Z
   Total Products: 100
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-12-18T18:11:47Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 62
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
   Updated: 2025-12-18T18:11:47Z
@@ -7952,7 +7592,7 @@
   Updated: 2025-12-19T12:10:31Z
   Total Products: 140
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 26
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
   Updated: 2025-12-18T18:11:48Z
@@ -7961,13 +7601,13 @@
   Updated: 2025-12-18T18:11:48Z
   Total Products: 9
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 49
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
   Updated: 2025-12-19T12:10:31Z
@@ -7979,13 +7619,13 @@
   Updated: 2025-12-18T18:11:48Z
   Total Products: 3
 - [Scent Collection Bundles](https://affinatiliving.com/collections/scent-collection-bundles): Explore Affinati’s Scent Collection Bundles—each includes a 3-wick candle, room spray, and body lotion crafted in luxurious, signature fragrances.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 12
 - [Bar Soap](https://affinatiliving.com/collections/bar-soap): Artisan-made 5 oz bar soap crafted with premium oils and natural exfoliants. Nourishing, long-lasting, and gentle on skin with a rich, luxurious lather.
   Updated: 2025-12-18T18:11:49Z
   Total Products: 26
 - [New Years Candles](https://affinatiliving.com/collections/new-years-candles): Celebrate the New Year with luxurious candles crafted for midnight moments. Sparkling, warm, and elegant scents to welcome a fresh start.
-  Updated: 2025-12-18T18:11:49Z
+  Updated: 2025-12-20T12:10:15Z
   Total Products: 65
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
   Updated: 2025-12-18T18:11:49Z
@@ -9680,8 +9320,14 @@
   - [Gold Bond Lotion vs Nécessaire: Hydration, Texture & Long-Term Results](https://affinatiliving.com/blogs/debates/gold-bond-lotion-vs-necessaire-hydration-texture-long-term-results)
     Updated: 2025-12-19T09:37:25Z
     Author: Gerard Collins
+  - [Gold Bond vs CeraVe Lotion: Which One Is Better for Dry Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-cerave-lotion-which-one-is-better-for-dry-skin)
+    Updated: 2025-12-20T15:21:33Z
+    Author: Gerard Collins
+  - [Gold Bond vs OUAI Lotion: Which One Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-ouai-lotion-which-one-is-better-for-your-skin)
+    Updated: 2025-12-20T15:18:28Z
+    Author: Gerard Collins
   - [Gold Bond vs Hempz Lotion: Which One Actually Keeps Skin Moisturized?](https://affinatiliving.com/blogs/debates/gold-bond-vs-hempz-lotion-which-one-actually-keeps-skin-moisturized)
-    Updated: 2025-12-19T23:27:17Z
+    Updated: 2025-12-20T15:19:30Z
     Author: Gerard Collins
   - [Gold Bond Lotion vs Tree Hut Lotion: Which One Is Better?](https://affinatiliving.com/blogs/debates/gold-bond-lotion-vs-tree-hut-lotion-which-one-is-better)
     Updated: 2025-12-19T23:25:03Z
