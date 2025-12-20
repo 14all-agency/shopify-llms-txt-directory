@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-19T00:00:37.450Z
+- Updated At: 2025-12-20T00:00:37.378Z
 
 ## Products
 
@@ -408,6 +408,10 @@
     Updated: 2025-12-18T05:04:20Z
     Author: Marek Stein
     Tags: bioethanol kamin outdoor
+  - [Kaminofen mit Backfach: 5 Top-Modelle für Stil und Wärme](https://www.pelios.de/blogs/news/kaminofen-mit-backfach-5-top-modelle-fur-stil-und-warme)
+    Updated: 2025-12-19T02:52:49Z
+    Author: Marek Stein
+    Tags: kaminofen mit backfach
 
 ## Store Pages
 
