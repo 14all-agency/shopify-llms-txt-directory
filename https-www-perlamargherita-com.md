@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-12-18T00:00:38.246Z
+- Updated At: 2025-12-21T00:00:38.765Z
 
 ## Products
 
@@ -1863,6 +1863,9 @@
     Author: Perla Margherita
   - [Step-by-Step Guide to Matching Accessories with Any Outfit](https://www.perlamargherita.com/blogs/blogs/step-by-step-guide-to-matching-accessories-with-any-outfit): Step-by-Step Guide to Matching Accessories with Any Outfit
     Updated: 2025-12-17T00:12:19Z
+    Author: Perla Margherita
+  - [Common Skincare Problems and How to Solve Them](https://www.perlamargherita.com/blogs/blogs/common-skincare-problems-and-how-to-solve-them): Common Skincare Problems and How to Solve Them
+    Updated: 2025-12-19T00:06:03Z
     Author: Perla Margherita
 
 ## Store Pages
