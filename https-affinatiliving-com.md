@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-21T12:00:34.618Z
+- Updated At: 2025-12-21T16:00:33.868Z
 
 ## Products
 
@@ -1414,13 +1414,13 @@
     Availability: Available
     Price: $49.95 USD
 - [Vanilla Orchid Candle (Clearance)](https://affinatiliving.com/products/vanilla-orchid-signature-candle-copy): Vanilla Orchid Signature Candle – 10 oz Add a touch of elegance to your space with our Vanilla Orchid Signature Candle. Housed in a sleek 10 oz glass container, this candle is made from a high-quality soy wax blend for a clean, even burn. The fragrance is a delicate balance of creamy vanilla and soft floral orchid, creating a warm, sophisticated ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for elevating any room with a refined, comforting aroma that soothes and delights.
-  Updated: 2025-12-21T00:36:00Z
+  Updated: 2025-12-21T12:36:02Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $14.95 USD
 - [French Vanilla Candle (Clearance)](https://affinatiliving.com/products/french-vanilla-signature-candle-copy): French Vanilla Signature Candle – 10 oz Wrap your space in the warm, comforting aroma of our French Vanilla Signature Candle. This 10 oz candle is hand-poured into a sleek glass container and made with a premium soy wax blend for a clean, even burn. The classic scent blends creamy vanilla bean with soft, sweet undertones for a timeless, cozy ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for creating a soothing, inviting atmosphere in any room.
-  Updated: 2025-12-21T00:36:02Z
+  Updated: 2025-12-21T12:36:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7653,7 +7653,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Apple Cinnamon Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/apple-cinnamon-body-scrub-64-oz-whipped-salt-scrub): Exfoliate and refresh with Apple Cinnamon body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for soft, glowing skin.
-  Updated: 2025-12-20T16:41:46Z
+  Updated: 2025-12-21T12:24:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7923,7 +7923,7 @@
     Availability: Available
     Price: $49.95 USD
 - [French Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/french-vanilla-body-scrub-64-oz-whipped-salt-scrub): Rich and creamy French Vanilla body scrub with whipped texture and exfoliating salts. Gently polishes skin while leaving a warm, comforting scent.
-  Updated: 2025-12-21T01:14:57Z
+  Updated: 2025-12-21T13:10:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7938,7 +7938,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Ivory Woods Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/ivory-woods-body-scrub-64-oz-whipped-salt-scrub): Ivory Woods whipped body scrub with exfoliating salts and a soft, woodsy scent. Gently smooths skin while delivering a clean, elevated fragrance.
-  Updated: 2025-12-21T01:15:20Z
+  Updated: 2025-12-21T13:11:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7953,7 +7953,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Banana Nut Bread Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/banana-nut-bread-body-scrub-64-oz-whipped-salt-scrub): Banana Nut Bread body scrub with whipped texture and exfoliating salts. Gently smooths skin while delivering a warm, bakery-inspired scent.
-  Updated: 2025-12-21T01:15:37Z
+  Updated: 2025-12-21T13:12:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7968,7 +7968,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Lemon Drop Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/lemon-drop-body-scrub-64-oz-whipped-salt-scrub): Lemon Drop whipped body scrub with exfoliating salts and a fresh citrus scent. Gently polishes skin while delivering a bright, energizing aroma.
-  Updated: 2025-12-21T01:15:09Z
+  Updated: 2025-12-21T13:13:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7983,28 +7983,28 @@
     Availability: Available
     Price: $49.95 USD
 - [Lemon Drop Whipped Soap - 64 oz](https://affinatiliving.com/products/lemon-drop-whipped-soap-64-oz): Lemon Drop whipped soap with bright citrus and sweet sugar notes. A fluffy 64 oz whipped soap that cleanses gently and leaves skin fresh and energized.
-  Updated: 2025-12-21T01:39:11Z
+  Updated: 2025-12-21T13:34:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8302.png?v=1766281142
   Price: $59.95 USD
 - [French Vanilla Whipped Soap - 64 oz](https://affinatiliving.com/products/french-vanilla-whipped-soap-64-oz): French Vanilla whipped soap with smooth vanilla bean and creamy sweetness. A rich 64 oz whipped soap offering soft, fluffy lather and cozy fragrance.
-  Updated: 2025-12-21T01:39:26Z
+  Updated: 2025-12-21T13:35:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8301.png?v=1766281159
   Price: $59.95 USD
 - [Banana Nut Bread Whipped Soap - 64 oz](https://affinatiliving.com/products/banana-nut-bread-whipped-soap-64-oz): Banana Nut Bread whipped soap with ripe banana, warm spices, and bakery notes. A decadent 64 oz whipped soap with rich, airy lather.
-  Updated: 2025-12-21T01:39:40Z
+  Updated: 2025-12-21T13:36:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8304.png?v=1766281173
   Price: $59.95 USD
 - [Ivory Woods Whipped Soap - 64 oz](https://affinatiliving.com/products/ivory-woods-whipped-soap-64-oz): Ivory Woods whipped soap with soft woods and subtle warmth. A luxurious 64 oz whipped soap that delivers creamy lather and a clean, refined scent.
-  Updated: 2025-12-21T01:39:53Z
+  Updated: 2025-12-21T13:37:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -8017,7 +8017,7 @@
   Updated: 2025-12-18T18:11:45Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 89
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
   Updated: 2025-12-20T12:10:15Z
@@ -8047,7 +8047,7 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 342
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-21T01:39:51Z
@@ -8071,55 +8071,55 @@
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 93
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-12-18T18:11:47Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 118
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 136
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 125
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 100
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 62
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-12-18T18:11:47Z
+  Updated: 2025-12-21T12:09:37Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 140
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:37Z
   Total Products: 26
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2025-12-21T12:09:37Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
   Updated: 2025-12-18T18:11:48Z
   Total Products: 9
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:37Z
   Total Products: 49
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 87
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-19T12:10:31Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 50
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-12-18T18:11:48Z
@@ -8131,7 +8131,7 @@
   Updated: 2025-12-18T18:11:49Z
   Total Products: 26
 - [New Years Candles](https://affinatiliving.com/collections/new-years-candles): Celebrate the New Year with luxurious candles crafted for midnight moments. Sparkling, warm, and elegant scents to welcome a fresh start.
-  Updated: 2025-12-20T12:10:15Z
+  Updated: 2025-12-21T12:09:38Z
   Total Products: 65
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
   Updated: 2025-12-18T18:11:49Z
