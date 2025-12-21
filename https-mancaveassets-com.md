@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2025-12-20T00:00:23.646Z
+- Updated At: 2025-12-21T00:00:25.000Z
 
 ## Products
 
@@ -138,20 +138,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/hwJj4fjwwpulvLP.webp?v=1738657462
   Price: $579.99 USD
-- [Welder Moody Watch WRM2010 Men's Watch](https://mancaveassets.com/products/welder-moody-watch-wrm2010-mens-watch): Case Diameter: 44 mmx52 mm Glass Feature: Mineral Style: Sports Watches Case Color: Black Dial Color: Black Strap: Silicone Color: Black, Blue Water Resistance: 3 ATM
-  Updated: 2025-07-27T05:10:40Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/J4KopI0D2tW2d0d.webp?v=1738659769
-  Price: $2,419.99 USD
-- [Welder Moody Watch WRM2004 Men's Watch](https://mancaveassets.com/products/welder-moody-watch-wrm2004-mens-watch-1): Case Diameter: 44 mmx52 mm Glass Feature: Mineral Style: Sports Watches Case Color: Metallic Gray Dial Color: Silver Tone Strap: Silicone Color: Black Water Resistance: 3 ATM
-  Updated: 2025-11-18T06:38:40Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/SeyEXij7oslIgdQ.webp?v=1738659849
-  Price: $2,419.99 USD
 - [4pc Pack Neon LED LIGHTS For Bikes, Cars & Motorcycles](https://mancaveassets.com/products/4pc-pack-neon-led-lights-for-bikes-cars-motorcycles): 4pc Pack LED NEON COLORED LIGHTS For Bikes, Cars and Motorcycles - Good for safety and fun to look at. These NEON COLORED LIGHTS fit your bicycle wheel and create a circle of color when in motion. Good to have for safety as they attract attention easily when you are out at night or in bad weather and fun to look at when you are at play as they are bright. Easy to install too! The lights easily attach to the Valve Stem of the bike wheel and also can be changed easily. They can be installed on even gold carts. Runs on 3 button cells INCLUDED with each light. DETAILS: ** Batteries INCLUDED and easily available in any store for replacement.**
   Updated: 2025-09-23T10:10:54Z
   Vendor: Man Cave Assets
@@ -190,55 +176,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/FNCTIiv4JXW1H9d.webp?v=1739264049
   Price: $149.99 USD
-- [Welder Moody Watch WWRC682 Women's Watch](https://mancaveassets.com/products/welder-moody-watch-wwrc682-womens-watch): Case Diameter: 38 mm Case Shape: Round Glass Feature: Mineral Photochromic Style: Classic Watches Case Color: Colourful Strap: Straw Color: Colorful Water Resistance: 5 ATM
-  Updated: 2025-11-15T12:34:08Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/VIpOCu1dkc85IjL.webp?v=1739867794
-  Price: $1,069.99 USD
-- [Welder Moody Watch WRM2003 Men's Watch](https://mancaveassets.com/products/welder-moody-watch-wrm2003-mens-watch): Case Diameter: 44 mmx52 mm Glass Feature: Mineral Style: Sports Watches Case Color: Black Dial Color: Black Strap: Silicone Color: Black Water Resistance: 3 ATM
-  Updated: 2025-07-27T05:10:45Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/pcZpRQZ5GT6KXes.webp?v=1739867860
-  Price: $2,359.99 USD
-- [Welder Moody Watch WRC721 Women's Watch](https://mancaveassets.com/products/welder-moody-watch-wrc721-womens-watch): Case Diameter: 36 mm Case Shape: Round Glass Feature: Mineral Photochromic Style: Classic Watches Case Color: Metallic Gray Dial Color: Green Strap: Straw Color: Metallic Gray Water Resistance: 5 ATM
-  Updated: 2025-07-27T05:10:46Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/ppwuEVUOLgTPykw.webp?v=1739867997
-  Price: $629.99 USD
-- [Welder Moody Watch WRC669 Women's Watch](https://mancaveassets.com/products/welder-moody-watch-wrc669-womens-watch)
-  Updated: 2025-07-27T05:10:46Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/hkGOzFrhyrjiNcy.webp?v=1739868073
-  Price: $869.99 USD
-- [Welder Moody Watch WRC625 Women's Watch](https://mancaveassets.com/products/welder-moody-watch-wrc625-womens-watch): Case Diameter: 38 mm Case Shape: Round Glass Feature: Mineral Photochromic Style: Classic Watches Case Color: Rose gold Dial Color: Green Strap: Straw Color: Rose Gold Water Resistance: 5 ATM
-  Updated: 2025-08-22T04:03:18Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/rJLr3diHKsIGITW.webp?v=1739868135
-  Price: $809.99 USD
-- [Welder Moody Watch WRC406 Men's Watch](https://mancaveassets.com/products/welder-moody-watch-wrc406-mens-watch): Case Diameter: 45 mm Case Shape: Round Glass Feature: Mineral Photochromic Style: Classic Watches Case Color: Metallic Gray Dial Color: Green Strap: Straw Color: Metallic Gray Water Resistance: 5 ATM
-  Updated: 2025-08-29T10:33:11Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/JQwZdotXnQB2upu.webp?v=1739870093
-  Price: $669.99 USD
-- [Welder Moody Watch WRC125 Women's Watch](https://mancaveassets.com/products/welder-moody-watch-wrc125-womens-watch): Case Diameter: 38 mm Case Shape: Round Glass Feature: Mineral Photochromic Style: Classic Watches Case Color: Metallic Gray Strap: Straw Color: Metallic Gray Water Resistance: 5 ATM
-  Updated: 2025-07-27T05:10:46Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/cS4qWWxXsymWap8.webp?v=1739870151
-  Price: $639.99 USD
 - [Luxury Down Jacket Phone Case](https://mancaveassets.com/products/luxury-down-jacket-phone-case): Wrap Your Phone in Cozy Elegance with a Luxury Down Jacket CaseIndulge your phone in the ultimate combination of style and protection. Our luxury down jacket phone case wraps your device in a plush, padded layer that feels as good as it looks, ensuring it stays safe from bumps and scratches while turning heads with its sophisticated design.Experience Unmatched Protection and Chic Comfort for Your PhoneElevate your phone's security with a case that's as fashionable as it is functional. The luxury down jacket phone case provides superior cushioning, absorbing impacts effortlessly while its sleek, quilted exterior adds a touch of chic comfort to your everyday carry.Transform Your Phone into a Fashion Statement with a Down Jacket CaseMake a bold style statement with every call and text. Our luxury down jacket phone case transforms your device into a fashionable accessory, seamlessly blending high-end fashion with practical protection. It's the perfect blend of luxury and utility for those who want their phone to stand out.Give Your Phone the VIP Treatment with a Luxury Down Jacket CasePamper your phone with the VIP treatment it deserves. This premium down jacket case envelops your device in a layer of luxurious down, providing both exceptional protection and a tactile experience that's second to none. Your phone will thank you for the stylish and secure upgrade.
   Updated: 2025-12-02T10:54:40Z
   Vendor: Man Cave Assets
@@ -3553,7 +3490,70 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_473_1746775489827-43971362-9047244-76014034_0.jpg?v=1746775585
   Price: $1,479.99 USD
-[List Continued](https://mancaveassets.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDI5MDkyMTgwMjE0LCJsYXN0X3ZhbHVlIjoiOTAyOTA5MjE4MDIxNCJ9)
+- [Vibrant SoundLink Bluetooth Speaker](https://mancaveassets.com/products/vibrant-soundlink-bluetooth-speaker): Elevate your music experience with rich sound and seamless connectivity.
+  Updated: 2025-09-14T01:16:17Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_767_1746777166906-46397464-70904704-47689085_0.jpg?v=1746777248
+  Price: $469.99 USD
+- [Bose SoundLink Color Speaker](https://mancaveassets.com/products/bose-soundlink-color-speaker): Experience powerful sound wherever your adventures take you, without missing a beat.
+  Updated: 2025-08-21T20:48:20Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_881_1746777422187-90591319-45092990-39496191_0.jpg?v=1746777514
+  Price: $775.99 USD
+- [Bose Flex Waterproof Speaker](https://mancaveassets.com/products/bose-flex-waterproof-speaker): Enjoy powerful, clear music anywhere with waterproof durability and smart sound positioning.
+  Updated: 2025-07-27T05:11:35Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_187_1746777685970-71100346-25762040-90092429_0.jpg?v=1746777769
+  Price: $559.99 USD
+- [Bose Micro Waterproof Speaker](https://mancaveassets.com/products/bose-micro-waterproof-speaker): Enjoy crystal-clear sound anywhere, even near water, with this compact and durable Bluetooth speaker.
+  Updated: 2025-10-16T22:38:37Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_50_1746777895034-76171458-46951263-34720368_0.jpg?v=1746777983
+  Price: $449.99 USD
+- [Lego Batman Cowl Light Kit](https://mancaveassets.com/products/lego-batman-cowl-light-kit): Transform your Lego Batman Cowl from dark to dazzling, adding life and excitement to your display.
+  Updated: 2025-07-27T05:11:35Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_732_1746778109994-66499687-14149629-85313558_0.jpg?v=1746778188
+  Price: $119.99 USD
+- [Budweiser Bluetooth Bottle Speaker](https://mancaveassets.com/products/budweiser-bluetooth-bottle-speaker): Enjoy wireless music anywhere with this stylish, portable speaker.
+  Updated: 2025-09-25T21:40:46Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_574_1746778312443-40373938-43148640-20687747_0.jpg?v=1746778387
+  Price: $139.99 USD
+- [ChillPro Half Gallon Bottle](https://mancaveassets.com/products/chillpro-half-gallon-bottle): Keep your drinks icy cold during hikes and long trips with a leak-proof design.
+  Updated: 2025-08-09T01:08:08Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_234_1746778554185-75782922-16707772-16270751_0.jpg?v=1746778628
+  Price: $139.99 USD
+- [Stylish Mexican Flag Cap](https://mancaveassets.com/products/stylish-mexican-flag-cap): Celebrate your unique style with a cap that fits any casual outing while representing Mexican pride.
+  Updated: 2025-08-29T06:17:31Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_867_1746858581158-4473150-4617221-50535312_0.jpg?v=1746858695
+  Price: $159.99 USD
+- [Stylish Cigar Travel Buddy](https://mancaveassets.com/products/stylish-cigar-travel-buddy): Enjoy your cigars anywhere with ease and elegance.
+  Updated: 2025-07-27T05:11:36Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_819_1746858907971-79836361-98271043-9336947_0.jpg?v=1746858994
+  Price: $149.99 USD
+[List Continued](https://mancaveassets.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDI5NDgxNTYyMzU4LCJsYXN0X3ZhbHVlIjoiOTAyOTQ4MTU2MjM1OCJ9)
 
 ## Collections
 
@@ -3591,8 +3591,8 @@
   Updated: 2025-07-27T05:10:29Z
   Total Products: 27
 - [Wallets](https://mancaveassets.com/collections/wallets)
-  Updated: 2025-08-18T04:58:35Z
-  Total Products: 55
+  Updated: 2025-12-20T11:42:01Z
+  Total Products: 54
 - [The destination for all things Bluetooth.](https://mancaveassets.com/collections/bluetooth-items-1): Step into the future with wireless audio solutions. Shop for Bluetooth speaker, headphones, smartwatches, and more. Explore the freedom of wireless living.
   Updated: 2025-11-15T01:07:32Z
   Total Products: 99
@@ -3603,11 +3603,11 @@
   Updated: 2025-07-27T05:10:29Z
   Total Products: 35
 - [Clothing](https://mancaveassets.com/collections/clothing)
-  Updated: 2025-08-15T08:19:51Z
-  Total Products: 37
+  Updated: 2025-12-20T11:48:35Z
+  Total Products: 36
 - [Jewelry](https://mancaveassets.com/collections/jewelry)
-  Updated: 2025-07-29T00:19:39Z
-  Total Products: 11
+  Updated: 2025-12-20T11:52:04Z
+  Total Products: 3
 - [Clothing Accessories](https://mancaveassets.com/collections/clothing-accessories)
   Updated: 2025-08-11T02:42:16Z
   Total Products: 11
