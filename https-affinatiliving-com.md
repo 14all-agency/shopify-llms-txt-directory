@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-20T20:00:35.341Z
+- Updated At: 2025-12-21T00:00:52.686Z
 
 ## Products
 
@@ -7864,6 +7864,66 @@
   - [Black Lava Salt](https://affinatiliving.com/products/fruit-fusion-body-scrub-64-oz-whipped-salt-scrub?variant=58508033982545)
     Availability: Available
     Price: $49.95 USD
+- [Sandalwood Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/sandalwood-body-scrub-64-oz-whipped-salt-scrub): Unwind with Sandalwood body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a warm, grounding scent.
+  Updated: 2025-12-20T20:26:27Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8284.png?v=1766262372
+  - [Epsom Salt](https://affinatiliving.com/products/sandalwood-body-scrub-64-oz-whipped-salt-scrub?variant=58508061573201)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/sandalwood-body-scrub-64-oz-whipped-salt-scrub?variant=58508061605969)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/sandalwood-body-scrub-64-oz-whipped-salt-scrub?variant=58508061638737)
+    Availability: Available
+    Price: $49.95 USD
+- [Saffron Cedarwood Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/saffron-cedarwood-body-scrub-64-oz-whipped-salt-scrub): Indulge in Saffron Cedarwood body scrub. A whipped salt scrub with jojoba oil for smooth skin and a rich, sophisticated scent.
+  Updated: 2025-12-20T20:26:03Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8285.png?v=1766262357
+  - [Epsom Salt](https://affinatiliving.com/products/saffron-cedarwood-body-scrub-64-oz-whipped-salt-scrub?variant=58508062163025)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/saffron-cedarwood-body-scrub-64-oz-whipped-salt-scrub?variant=58508062195793)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/saffron-cedarwood-body-scrub-64-oz-whipped-salt-scrub?variant=58508062228561)
+    Availability: Available
+    Price: $49.95 USD
+- [Pumpkin Cheesecake Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pumpkin-cheesecake-body-scrub-64-oz-whipped-salt-scrub): Treat your skin with Pumpkin Cheesecake body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and cozy self-care.
+  Updated: 2025-12-20T20:26:37Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8288.png?v=1766262330
+  - [Epsom Salt](https://affinatiliving.com/products/pumpkin-cheesecake-body-scrub-64-oz-whipped-salt-scrub?variant=58508063670353)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/pumpkin-cheesecake-body-scrub-64-oz-whipped-salt-scrub?variant=58508063703121)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/pumpkin-cheesecake-body-scrub-64-oz-whipped-salt-scrub?variant=58508063735889)
+    Availability: Available
+    Price: $49.95 USD
+- [Pumpkin Spice Latte Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub): Cozy up with Pumpkin Spice Latte body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and fall-inspired exfoliation.
+  Updated: 2025-12-20T20:25:10Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8287.png?v=1766262291
+  - [Epsom Salt](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub?variant=58508066422865)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub?variant=58508066455633)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub?variant=58508066488401)
+    Availability: Available
+    Price: $49.95 USD
 
 ## Collections
 
@@ -7892,8 +7952,8 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 42
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
-  Updated: 2025-12-20T19:48:42Z
-  Total Products: 24
+  Updated: 2025-12-20T20:27:14Z
+  Total Products: 28
 - [Featured Collection](https://affinatiliving.com/collections/featured-collection)
   Updated: 2025-12-18T18:11:46Z
   Total Products: 6
@@ -7904,8 +7964,8 @@
   Updated: 2025-12-20T12:10:15Z
   Total Products: 342
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-12-20T19:48:42Z
-  Total Products: 117
+  Updated: 2025-12-20T20:26:25Z
+  Total Products: 121
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-12-20T12:10:15Z
   Total Products: 87
@@ -9680,11 +9740,17 @@
   - [Gold Bond Lotion vs Nécessaire: Hydration, Texture & Long-Term Results](https://affinatiliving.com/blogs/debates/gold-bond-lotion-vs-necessaire-hydration-texture-long-term-results)
     Updated: 2025-12-19T09:37:25Z
     Author: Gerard Collins
+  - [Gold Bond vs Bath & Body Works Lotion: Which Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-bath-body-works-lotion-which-is-better-for-your-skin)
+    Updated: 2025-12-20T23:53:32Z
+    Author: Gerard Collins
+  - [Gold Bond Lotion vs Dove Lotion: Real Differences Explained](https://affinatiliving.com/blogs/debates/gold-bond-lotion-vs-dove-lotion-real-differences-explained)
+    Updated: 2025-12-20T23:51:14Z
+    Author: Gerard Collins
   - [Gold Bond vs CeraVe Lotion: Which One Is Better for Dry Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-cerave-lotion-which-one-is-better-for-dry-skin)
     Updated: 2025-12-20T15:21:33Z
     Author: Gerard Collins
   - [Gold Bond vs OUAI Lotion: Which One Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-ouai-lotion-which-one-is-better-for-your-skin)
-    Updated: 2025-12-20T15:18:28Z
+    Updated: 2025-12-20T23:54:35Z
     Author: Gerard Collins
   - [Gold Bond vs Hempz Lotion: Which One Actually Keeps Skin Moisturized?](https://affinatiliving.com/blogs/debates/gold-bond-vs-hempz-lotion-which-one-actually-keeps-skin-moisturized)
     Updated: 2025-12-20T15:19:30Z
