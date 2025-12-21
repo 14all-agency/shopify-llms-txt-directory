@@ -8,14 +8,14 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-18T12:05:51.912Z
+- Updated At: 2025-12-21T00:00:19.958Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
-- [FPGAs (Field Programmable Gate Array)](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Field Programmable Gate Array（FPGAs） vs Microprocessors: Reconfigurable ICs for high-speed data processing, real-time control & hardware customization. Explore applications in telecom, industrial systems & external memory requirements.
-  Updated: 2025-12-18T03:48:26Z
+- [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
+  Updated: 2025-12-20T19:52:55Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
   Updated: 2025-12-14T08:11:15Z
@@ -24,7 +24,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:11:16Z
   Total Products: 5622
 - [System On Chip (SoC)](https://hqickey.com/collections/system-on-chip-soc): System-on-Chip (SoC) vs Discrete Components: Integrated computing systems combining microprocessors, FPGA co-processors & graphics controllers. Explore high-performance embedded designs with external storage interfaces for AI acceleration and edge computing.
-  Updated: 2025-12-14T08:11:17Z
+  Updated: 2025-12-20T23:51:37Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
   Updated: 2025-12-14T08:11:18Z
@@ -228,7 +228,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:24Z
   Total Products: 2630
 - [FPGA Technology Explained: Configurable Logic Blocks, ARM9 Cores & ASIC Comparisons](https://hqickey.com/collections/fpgas-field-programmable-gate-array-with-microcontrollers): Explore FPGA technology with configurable logic blocks (CLBs), programmable interconnects, and core types like 8-bit AVR and 32-bit ARM9. Learn how FPGAs differ from ASICs and their applications in digital circuits.
-  Updated: 2025-12-14T08:13:26Z
+  Updated: 2025-12-20T05:20:44Z
   Total Products: 61
 - [AC to DC Power Conversion Devices | Component-Level Control & Isolation Solutions](https://hqickey.com/collections/ac-dc-converters-offline-switchers): Design robust AC to DC power systems with component-level control devices. Supports high voltage ratios, isolation, and integration with stock/custom SMPS transformers for efficient, flexible applications.
   Updated: 2025-12-14T08:13:27Z
@@ -285,16 +285,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-18T11:26:19Z
   Total Products: 6253
 - [PoE Controllers | Integrated Power & Data Transmission Over Ethernet](https://hqickey.com/collections/power-over-ethernet-poe-controllers): Simplify remote device power with PoE Controllers. Deliver data and electrical current over Ethernet cabling using bridge rectifiers, N+1 O-Ring, and automotive-certified designs with integrated FETs.
-  Updated: 2025-12-14T08:13:48Z
+  Updated: 2025-12-19T08:07:48Z
   Total Products: 793
 - [Voltage Rail Monitoring & Control ICs | Semiconductor Power Solutions](https://hqickey.com/collections/power-supply-controllers-monitors): Ensure precise voltage regulation and circuit protection with semiconductor ICs for rail monitoring and control. Optimize power management and system stability in your electronic designs.
-  Updated: 2025-12-14T08:13:50Z
+  Updated: 2025-12-20T08:01:09Z
   Total Products: 2028
 - [Precision RMS-to-DC Converters for AC Power Measurement | Non-Sinusoidal Waveform Accuracy](https://hqickey.com/collections/rms-to-dc-converters): Explore RMS-to-DC converters that measure time-varying waveforms and output DC values proportional to equivalent steady-state power. Ideal for AC applications, these devices ensure high accuracy with non-sinusoidal signals.
   Updated: 2025-12-14T08:13:52Z
   Total Products: 143
 - [Advanced Power Conversion & Control Solutions for Specialized Industrial Applications](https://hqickey.com/collections/special-purpose-regulators): Explore precision-engineered power manipulation, transformation, and conversion products tailored for niche applications—from DDR termination and valve control to automotive alternators and thermoelectric systems.
-  Updated: 2025-12-14T08:13:53Z
+  Updated: 2025-12-20T08:16:49Z
   Total Products: 4151
 - [Advanced PMIC Supervisors for Voltage Rail Monitoring, Control & Microcontroller Integration](https://hqickey.com/collections/supervisors): Optimize circuit reliability with PMIC Supervisors—monitor & control voltage rails, manage power limits, and interface with microcontrollers. Solutions include Battery Backup, Watchdog Circuits, Multi-Voltage Monitoring, and more.
   Updated: 2025-12-14T08:13:55Z
@@ -303,7 +303,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:59Z
   Total Products: 452
 - [Precision Voltage-to-Frequency & Frequency-to-Voltage ICs for Automotive, Industrial & Signal Conversion](https://hqickey.com/collections/v-f-and-f-v-converters): Enable ratiometric signal conversion with Voltage-to-Frequency (VFC) and Frequency-to-Voltage (FVC) ICs. Ideal for automotive sensing, battery monitoring, tachometers, analog-to-digital systems, and industrial instrumentation.
-  Updated: 2025-12-14T08:13:59Z
+  Updated: 2025-12-20T06:01:35Z
   Total Products: 127
 - [Integrated DC-DC Switching Regulator PMICs for Voltage Stabilization & High-Efficiency Conversion](https://hqickey.com/collections/voltage-regulators-dc-dc-switching-regulators): Discover DC-DC switching regulator PMICs with integrated switching elements for precise voltage stabilization, transformation, and compact power solutions. Ideal for industrial, automotive, and embedded systems.
   Updated: 2025-12-14T08:14:01Z
@@ -326,9 +326,6 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
 - [XILINX-XC7A35T](https://hqickey.com/collections/xilinx-xc7a35t)
   Updated: 2025-12-14T08:14:08Z
   Total Products: 37
-- [All Products (ChatGPT-AI Product Description)](https://hqickey.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-18T11:41:40Z
-  Total Products: 601679
 
 ## Blogs
 
