@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-21T16:00:33.868Z
+- Updated At: 2025-12-21T20:00:34.573Z
 
 ## Products
 
@@ -2776,7 +2776,7 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Cactus & Sea Salt Candle](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle): Refresh your home with the Cactus and Sea Salt 3-Wick Candle. A 17 oz soy candle with a clean, coastal fragrance of cactus greens, sea salt, and ocean air. Long-lasting burn and luxury design.
-  Updated: 2025-12-19T20:00:52Z
+  Updated: 2025-12-21T18:45:00Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
