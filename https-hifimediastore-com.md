@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-12-18T00:01:30.712Z
+- Updated At: 2025-12-21T00:01:30.024Z
 
 ## Products
 
@@ -1439,7 +1439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/GB-S08_Bone_Conduction_Headphones_Wireless_with_Microphone_-_Hifi_Media_Store-973573.jpg?v=1719015324
   Price: 38,99 € EUR
 - [H9 Bluetooth Mechanical Gaming Earbuds](https://hifimediastore.com/products/h9-bluetooth-mechanical-gaming-earbuds): Function: 1. Long battery life high quality,ENC call noise reduction 2. Multi-purpose use: open beer cover, screw screw, detect outdoor temperature 3. 45ms game ultra-low latency, smart fingerprint touch, multi-color RGBd ambient light, three true electric display Description: 1. Bluetooth stereo, support connecting to Bluetooth devices to play music 2. Bluetooth call, support Bluetooth connection for high-definition calls 3. Power indicator, support iOS system headset power indicator 4. Dual-point connection, support to connect two devices at the same time, one-to-two function. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Other Total Harmonic Distortion: 2% Three-mode switching:: music, games, movies Support Memory Card: No Style: In-ear Sensitivity: 102dB Resistance: 32Ω Plug Type: Line Type Number Of Drivers: 2 Model: H9 tws earbuds Max Output: 1mW Impedance Range: up to 32 Ω Headphone Pads Material: Silicone Function: ENC call noise reduction,HIFI Stereo,Zinc alloy body,open beer cover, screw, detect outdoor temperature,three true electric display,multi-color RGB ambient light,45ms game ultra-low latency, smart fingerprint touch,Long battery life, high quality Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 9mm Control Button: No Connectors: Type c Communication: wireless Codecs: AAC Charging Method: Charging case Certification: CE Bluetooth Version: 5.3 Noise-Cancellation: ENC Call Noise Cancellation Package Content: 1 x H9 TWS Earbuds 1 x User Manual 1 x Charging case 1 x USB Type-C Adapter
-  Updated: 2025-12-13T11:33:19Z
+  Updated: 2025-12-18T09:42:01Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2140,7 +2140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X15_Pro_Auriculares_TWS_-_Hifi_Media_Store-999423.jpg?v=1719087335
     Price: 27,99 € EUR
 - [XT83 Pro Auriculares TWS](https://hifimediastore.com/products/xt83-pro-tws-earbuds-with-passive-noise-reduction): Características: 1. Bluetooth V5.1, soporta la mayoría de dispositivos bluetooth y consume menos energía. 2. El estuche de carga de 250mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4.10mms unidades de accionamiento dual, sonido 9D en música con graves profundos. 5. Función de control táctil, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíCarga rápida tipo C: 1H para carga completaDistorsión armónica total: 1%Soporta tarjeta de memoria: NoEstilo: Auriculares intrauralesTiempo en espera: hasta 48 horasSensibilidad: 102dBResistencia: 32ΩNúmero de controladores: 2Nombre: XT83 ProTiempo de música: alrededor de 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioInalámbrico: SíRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del conductor: 10mmConectores: Tipo CComunicación: inalámbricaCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 250mAhCertificación: CEVersión Bluetooth: 5.1Cancelación de ruido: No Contenido del paquete: 1 x Auriculares Bluetooth XT831 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-12-13T11:33:24Z
+  Updated: 2025-12-18T02:49:19Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3991,12 +3991,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/FIIL_CC_Pro2_Hi-Res_Bluetooth_Earbuds_with_Hybrid_ANC_and_LDAC_-_Hifi_Media_Store-972326.png?v=1719013333
   Price: 157,99 € EUR
 - [Caterpillar CAT S75 6GB/128GB Negro (Black) Dual SIM BM1S1B](https://hifimediastore.com/products/caterpillar-cat-s75-6gb-128gb-negro-black-dual-sim-bm1s1b): CAT S75:  Pantalla protegida FHD+ de 6,6", 120Hz Cámara resistente al agua de 50MP Resistencia al polvo y a la suciedad IP68 e IP69K Certificación: MIL SPEC 810H Batería de 50000 mAh y carga rápida de 15W
-  Updated: 2025-12-17T16:05:11Z
+  Updated: 2025-12-18T18:37:01Z
   Vendor: Caterpillar
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Black_Dual_SIM_BM1S1B_-_Hifi_Media_Store-970332.jpg?v=1719008558
-  Price: 371,99 € EUR
+  Price: 368,99 € EUR
+- [Apple iPhone 11 64GB Negro](https://hifimediastore.com/products/apple-iphone-11-64gb-negro): Apple iPhone 11 64GB Negro Procesador Apple A13 Bionic 64 GB ROM 4 GB RAM Proteccion IP68 agua y polvo Resolucion de 828 x 1792 pixeles Camara dual de 12MP 12 MP Es posible que este iPhone no incluya cargador ni auriculares en la caja origina
+  Updated: 2025-12-20T03:10:16Z
+  Vendor: Apple
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_11_64GB_Negro_-_Hifi_Media_Store-965391.jpg?v=1718997418
+  Price: 429,99 € EUR
 - [Apple iPhone 13 128GB Azul MLPK3QL/A](https://hifimediastore.com/products/apple-iphone-13-128gb-azul-mlpk3ql-a): Apple iPhone 13 128GB Azul Pantalla Super Retina XDR OLED de 61 pulgadas Resolucion de 2532 por 1170 pixeles Chip A15 Bionic Sistema de camara dual de 12 Mpx con gran angular y ultra gran angular Grabacion de video en 4k a 60fps Este iPhone no
   Updated: 2025-12-15T19:00:21Z
   Vendor: Apple
@@ -4012,33 +4019,33 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-965913.jpg?v=1718998567
   Price: 637,99 € EUR
 - [Apple iPhone 13 128GB Blanco Estrella (Starlight) MLPG3QL/A](https://hifimediastore.com/products/apple-iphone-13-128gb-blanco-estrella-starlight-mlpg3ql-a): Apple iPhone 13 128GB Blanco Pantalla Super Retina XDR OLED de 61 pulgadas Resolucion de 2532 por 1170 pixeles Chip A15 Bionic Sistema de camara dual de 12 Mpx con gran angular y ultra gran angular Grabacion de video en 4k a 60fps Este iPhone n
-  Updated: 2025-12-17T16:25:19Z
+  Updated: 2025-12-20T12:39:30Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-965903.jpg?v=1718998548
-  Price: 650,99 € EUR
+  Price: 644,99 € EUR
 - [Apple iPhone 14 128GB Negro (Midnight)](https://hifimediastore.com/products/apple-iphone-14-128gb-negro-midnight): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-12-16T02:10:27Z
+  Updated: 2025-12-19T20:40:20Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_128GB_Negro_Midnight_-_Hifi_Media_Store-966526.jpg?v=1718999891
   Price: 676,99 € EUR
 - [Apple iPhone 14 128GB Azul (Blue)](https://hifimediastore.com/products/apple-iphone-14-128gb-azul-blue): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-12-16T21:30:23Z
+  Updated: 2025-12-18T18:45:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_128GB_Azul_Blue_-_Hifi_Media_Store-966505.jpg?v=1718999847
   Price: 723,99 € EUR
 - [Apple iPhone 14 128GB Rojo (Product Red)](https://hifimediastore.com/products/apple-iphone-14-128gb-rojo-product-red): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-12-17T23:05:17Z
+  Updated: 2025-12-20T22:35:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_128GB_Rojo_Product_Red_-_Hifi_Media_Store-966536.jpg?v=1718999910
-  Price: 671,99 € EUR
+  Price: 665,99 € EUR
 - [Apple iPhone 14 Plus 256GB Azul (Blue) MQ583QL/A](https://hifimediastore.com/products/apple-iphone-14-plus-256gb-azul-blue-mq583ql-a): iPhone 14 Plus  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
   Updated: 2025-12-16T14:30:18Z
   Vendor: Apple
@@ -4047,12 +4054,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-966672.jpg?v=1719000246
   Price: 803,99 € EUR
 - [Apple iPhone 14 128GB Blanco Estrella (Starlight White)](https://hifimediastore.com/products/apple-iphone-14-128gb-blanco-estrella-starlight-white): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-12-17T23:05:21Z
+  Updated: 2025-12-20T06:14:44Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_128GB_Blanco_Estrella_Starlight_White_-_Hifi_Media_Store-966510.jpg?v=1718999858
-  Price: 703,99 € EUR
+  Price: 691,99 € EUR
 - [OnePlus 11 5G 8GB/128GB Negro (Titan Black) Dual SIM CPH2449](https://hifimediastore.com/products/oneplus-11-5g-8gb-128gb-negro-titan-black-dual-sim-cph2449): OnePlus 11 5G:  Triple cámara de 50MP Cámara Hasselblad de 3.ª generación Sistema de enfriamiento Cryo-velocity VC Cooling Batería de 5000mAh Carga rápida inteligente de 100 W
   Updated: 2025-12-13T11:34:07Z
   Vendor: OnePlus
@@ -4068,21 +4075,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/32GB_Azul_Pearl_Blue_Dual_SIM_CPH2269_-_Hifi_Media_Store-988823.jpg?v=1719042793
   Price: 145,99 € EUR
 - [OPPO Reno10 5G 8GB/256GB Gris (Silvery Grey) Dual SIM CPH2531](https://hifimediastore.com/products/oppo-reno10-5g-8gb-256gb-gris-silvery-grey-dual-sim-cph2531): OPPO Reno10 5G  Pantalla AMOLED 6,7" FHD+ y HDR10+ Frecuencia de actualización de 120 Hz Chip Mediatek Dimensity 7050 (6 nm) Cámara Triple de 64 MP con grabación de vídeo en 4K Teleobjetivo 32 MP Sony IMX709 Carga rápida de 67W Android 13, ColorOS 13.1
-  Updated: 2025-12-16T21:30:11Z
+  Updated: 2025-12-19T23:57:30Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Silvery_Grey_Dual_SIM_CPH2531_-_Hifi_Media_Store-989643.jpg?v=1719045011
   Price: 309,99 € EUR
-- [OPPO Reno8 5G 8GB/256GB Negro (Shimmer Black) Dual SIM CPH2359](https://hifimediastore.com/products/oppo-reno8-5g-8gb-256gb-negro-shimmer-black-dual-sim-cph2359): Reno8 5G  Pantalla de 6,4" Cámara frontal de 32MP con Sensor IMX709 Sony Cámara principal de 50MP con Sensor IMX766 MediaTek Dimensity 1300  Repuesta Ultra Touch 1000Hz Air Gestures Multi-Screen Connect
-  Updated: 2025-12-15T19:25:18Z
-  Vendor: Oppo
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Shimmer_Black_Dual_SIM_CPH2359_-_Hifi_Media_Store-989925.jpg?v=1719045693
-  Price: 216,99 € EUR
 - [OPPO Reno8 Lite 5G 8GB/128GB Negro (Cosmic Black) Dual SIM CPH2343](https://hifimediastore.com/products/oppo-reno8-lite-5g-8gb-128gb-negro-cosmic-black-dual-sim-cph2343): OPPO Reno8 Lite 5G Pantalla AMOLED de 643 FHD y proteccion ocular contra la luz azul Chip Qualcomm Snapdragon 695 5G con Nivel A en Fluidez segun TyV SyD Camara de 64MP con Retrato estilo Bokeh Flare Selfie HDR y video Doble Vision Luces de Doble or
-  Updated: 2025-12-16T08:25:12Z
+  Updated: 2025-12-19T23:57:45Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -4096,26 +4096,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/32GB_Gris_Iron_Grey_Dual_SIM_-_Hifi_Media_Store-990844.jpg?v=1719048052
   Price: 118,99 € EUR
 - [Samsung Galaxy S23 Ultra 5G 12GB/512GB Negro (Phantom Black) Dual SIM S918B](https://hifimediastore.com/products/samsung-galaxy-s23-ultra-5g-12gb-512gb-negro-phantom-black-dual-sim-s918b): SAMSUNG GALAXY S23 ULTRA Fabricado con materiales reciclados y ecologicos Compatible con S Pen Camara de 200MP Snapdragon 8 Gen 2 Bateria inteligente de 5000 mAh Pantalla Dynamic AMOLED 2X 120 Hz No incluye cargador Condiciones de Samsung Pay en l
-  Updated: 2025-12-17T23:50:16Z
+  Updated: 2025-12-20T16:50:17Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Phantom_Black_Dual_SIM_S918B_-_Hifi_Media_Store-995505.jpg?v=1719066134
   Price: 941,99 € EUR
 - [Samsung Galaxy Z Flip4 5G 8GB/128GB Gris (Graphite) Dual SIM F721](https://hifimediastore.com/products/samsung-galaxy-z-flip4-5g-8gb-128gb-gris-graphite-dual-sim-f721): Samsung Galaxy Z Flip4 5G Pantalla plegable AMOLED 2X de 67 120Hz y HDR10 Camara Trasera Dual 12 12 MP con grabacion de video 4K Procesador Qualcomm Snapdragon 8 Gen 1 4 nm Bateria de 3700 mAh con carga rapida de 25W One UI 411 basado en And
-  Updated: 2025-12-17T04:15:21Z
+  Updated: 2025-12-19T21:30:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Gris_Graphite_Dual_SIM_F721_-_Hifi_Media_Store-996129.jpg?v=1719069943
   Price: 564,99 € EUR
-- [Samsung Galaxy A53 5G 6GB/128GB Negro (Awesome Black) Dual SIM A536B](https://hifimediastore.com/products/samsung-galaxy-a53-5g-6gb-128gb-negro-awesome-black-dual-sim-a536b): Samsung Galaxy A53 5G 128GB Negro:  Pantalla SUPER AMOLED de 120Hz Cámara cuádruple de 64MP Sonido envolvente Dolby Atmos  Batería de 5000 mAh Carga rápida de 25W USB-C y conexión 5G
-  Updated: 2025-12-13T11:34:23Z
-  Vendor: Samsung
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Awesome_Black_Dual_SIM_A536B_-_Hifi_Media_Store-994021.jpg?v=1719058606
-  Price: 325,99 € EUR
 - [Xiaomi 12 Pro 5G 12GB/256GB Gris (Grey) Dual SIM 2201122G](https://hifimediastore.com/products/xiaomi-12-pro-5g-12gb-256gb-gris-grey-dual-sim-2201122g): XIAOMI 12 PRO  DotDisplay AMOLED WQHD+ de 6,73" Conjunto de cámaras Pro de 50 MP Snapdragon® 8 Gen 1 120W Xiaomi HyperCharge Tecnología LiquidCool Dolby Atmos®
   Updated: 2025-12-13T11:34:26Z
   Vendor: Xiaomi
@@ -4124,7 +4117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Grey_Dual_SIM_2201122G_-_Hifi_Media_Store-999933.jpg?v=1719091525
   Price: 445,99 € EUR
 - [Xiaomi 12 Lite 5G 8GB/128GB Negro (Black) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-8gb-128gb-negro-black-dual-sim-2203129g): Xiaomi 12 Lite 5G 128GB  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-12-17T17:31:46Z
+  Updated: 2025-12-19T15:10:16Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4137,20 +4130,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Lite_Green_Dual_SIM_2203129G_-_Hifi_Media_Store-999906.jpg?v=1719091392
   Price: 191,99 € EUR
-- [Apple iPhone 12 128GB Negro](https://hifimediastore.com/products/apple-iphone-12-128gb-negro): Apple iPhone 12 128GB Negro:- Pantalla Super Retina XDR OLED- Apple A14 Bionic- Cámara Dual de 12 MP- Velocidad 5G- Fabricado en Ceramic Shield* Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-16T21:05:11Z
-  Vendor: Apple
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_12_128GB_Negro_-_Hifi_Media_Store-965489.jpg?v=1718997629
-  Price: 527,99 € EUR
 - [Apple iPhone 12 64GB Púrpura](https://hifimediastore.com/products/apple-iphone-12-64gb-purpura): Apple iPhone 12:  Pantalla Super Retina XDR OLED Apple A14 Bionic Cámara Dual de 12 MP Velocidad 5G Fabricado en Ceramic Shield  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T16:50:41Z
+  Updated: 2025-12-18T15:30:43Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_12_64GB_Purpura_-_Hifi_Media_Store-965618.jpg?v=1718997908
-  Price: 472,99 € EUR
+  Price: 469,99 € EUR
 - [Apple iPhone SE 2022 128GB Negro (Black) MMXK3QL/A](https://hifimediastore.com/products/apple-iphone-se-2022-128gb-negro-black-mmxk3ql-a): Apple iPhone SE 2022 128GB Negro Pantalla Retina IPS LCD de 47 HD Chip A15 Bionic 5 nm Camara principal de 12 MP con grabacion de video 4K Touch ID Sensor de identidad por huella integrado en el boton de inicio Carga rapida 20W 50 en 30 min C
   Updated: 2025-12-17T16:54:55Z
   Vendor: Apple
@@ -4159,7 +4145,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967834.jpg?v=1719002893
   Price: 610,99 € EUR
 - [Oppo Find X3 Lite 5G 8GB/128GB Negro (Starry Black) Dual SIM CPH2145](https://hifimediastore.com/products/oppo-find-x3-lite-5g-8gb-128gb-negro-starry-black-dual-sim-cph2145): OPPO FIND X3 LITE 5G NEGRO:  8GB RAM y 128GB almacenamiento Pantalla AMOLED 6,43", 90Hz Qualcomm Snapdragon 765G 5G (7 nm) Quad camera 64 MP con vídeo 4K Carga rápida 65 W
-  Updated: 2025-12-17T23:30:11Z
+  Updated: 2025-12-19T01:35:12Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -4173,21 +4159,21 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Azul_Astral_Blue_Dual_SIM_CPH2145_-_Hifi_Media_Store-989443.jpg?v=1719044492
   Price: 216,99 € EUR
 - [Oppo Reno8 Pro 5G 8GB/256GB Negro (Glazed Black) Dual SIM](https://hifimediastore.com/products/oppo-reno8-pro-5g-8gb-256gb-negro-glazed-black-dual-sim): OPPO RENO8 PRO 5G:  Pantalla AMOLED sin bordes de gran tamaño 6.7" Velocidad de actualización de 120Hz Cámara triple de 50MP, cámara Selfie de 32 MP Batería de 4500mAh con carga rápida de 80W MediaTek Dimensity 8100-MAX
-  Updated: 2025-12-13T11:34:37Z
+  Updated: 2025-12-19T23:57:45Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Glazed_Black_Dual_SIM_-_Hifi_Media_Store-989963.jpg?v=1719045784
   Price: 374,99 € EUR
 - [Samsung Galaxy S23 Ultra 5G 8GB/256GB Crema (Cream) Dual SIM S918B](https://hifimediastore.com/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-crema-cream-dual-sim-s918b): SAMSUNG GALAXY S23 ULTRA Fabricado con materiales reciclados y ecologicos Compatible con S Pen Camara de 200MP Snapdragon 8 Gen 2 Bateria inteligente de 5000 mAh Pantalla Dynamic AMOLED 2X 120 Hz No incluye cargador Condiciones de Samsung Pay en l
-  Updated: 2025-12-13T11:34:42Z
+  Updated: 2025-12-18T19:25:12Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Crema_Cream_Dual_SIM_S918B_-_Hifi_Media_Store-995525.jpg?v=1719066245
   Price: 890,99 € EUR
 - [Samsung Galaxy S23 Ultra 5G 8GB/256GB Verde (Green) Dual SIM S918B](https://hifimediastore.com/products/samsung-galaxy-s23-ultra-5g-8gb-256gb-verde-green-dual-sim-s918b): SAMSUNG GALAXY S23 ULTRA Fabricado con materiales reciclados y ecologicos Compatible con S Pen Camara de 200MP Snapdragon 8 Gen 2 Bateria inteligente de 5000 mAh Pantalla Dynamic AMOLED 2X 120 Hz No incluye cargador Condiciones de Samsung Pay en l
-  Updated: 2025-12-17T04:10:16Z
+  Updated: 2025-12-18T06:30:17Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -4222,7 +4208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Verde_Green_Dual_SIM_S916_-_Hifi_Media_Store-995587.jpg?v=1719066516
   Price: 773,99 € EUR
 - [Samsung Galaxy S23+ 5G 8GB/512GB Negro (Phantom Black) Dual SIM S916](https://hifimediastore.com/products/samsung-galaxy-s23-5g-8gb-512gb-negro-phantom-black-dual-sim-s916): SAMSUNG GALAXY S23 Pantalla Dynamic AMOLED 2X 120Hz HDR10 Fabricado con cristal reciclado pelicula de PET y tintes naturales Camara gran angular de 50 MP camara selfie de 12 MP La mejor camara para la noche Nightography Chip Qualcomm Snapdrag
-  Updated: 2025-12-17T04:10:21Z
+  Updated: 2025-12-18T19:25:19Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -4236,26 +4222,33 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Graphite_Dual_SIM_F721_-_Hifi_Media_Store-996175.jpg?v=1719070208
   Price: 594,99 € EUR
 - [Samsung Galaxy XCover6 Pro 6GB/128GB Negro (Black) Enterprise Edition Dual SIM SM-G736](https://hifimediastore.com/products/samsung-galaxy-xcover6-pro-6gb-128gb-negro-black-enterprise-edition-dual-sim-sm-g736): Samsung Galaxy XCover6 Pro 128GB Negro Pantalla PLS LCD de 66 con 120Hz y proteccion Corning Gorilla Glass Victus Procesador Qualcomm Snapdragon 778G 5G y Android 12 Bateria de 4050 mAh y carga rapida de 15W Certificacion militar MIL STD 810H y prot
-  Updated: 2025-12-17T17:28:10Z
+  Updated: 2025-12-19T02:05:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Black_Enterprise_Edition_Dual_SIM_SM-G736_-_Hifi_Media_Store-996007.jpg?v=1719069294
   Price: 313,99 € EUR
 - [Xiaomi 12 Lite 5G 6GB/128GB Negro (Black) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-6gb-128gb-negro-black-dual-sim-2203129g): XIAOMI 12 LITE 5G:  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-12-14T05:55:16Z
+  Updated: 2025-12-20T04:15:21Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Black_Dual_SIM_2203129G_-_Hifi_Media_Store-999876.jpg?v=1719091115
   Price: 184,99 € EUR
 - [Xiaomi 12 Lite 5G 8GB/128GB Rosa (Lite Pink) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-8gb-128gb-rosa-lite-pink-dual-sim-2203129g): Xiaomi 12 Lite 5G  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-12-17T17:31:49Z
+  Updated: 2025-12-18T06:50:20Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Rosa_Lite_Pink_Dual_SIM_2203129G_-_Hifi_Media_Store-999899.jpg?v=1719091371
   Price: 204,99 € EUR
+- [Xiaomi 12T 5G 8GB/256GB Azul (Blue) Dual SIM](https://hifimediastore.com/products/xiaomi-12t-5g-8gb-256gb-azul-blue-dual-sim): XIAOMI 12T 5G:  8GB RAM y 256GB almacenamiento Pantalla AMOLED de 6,67" con 120Hz y HDR10+ Cámara triple de 108 MP con grabación en 4K Carga rápida de 120 W
+  Updated: 2025-12-19T05:06:42Z
+  Vendor: Xiaomi
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Azul_Blue_Dual_SIM_-_Hifi_Media_Store-999957.jpg?v=1719091624
+  Price: 364,99 € EUR
 - [Xiaomi POCO M3 Pro 5G 4GB/64GB Amarillo (Poco Yellow) Dual SIM](https://hifimediastore.com/products/xiaomi-poco-m3-pro-5g-4gb-64gb-amarillo-poco-yellow-dual-sim): Xiaomi POCO M3 Pro 5G Amarillo:  4GB RAM y 64GB almacenamiento MediaTek Dimensity 700 5G (7 nm) Cámara de 48 MP Batería de 5000 mAh con carga rápida 18W Android 11, MIUI 12
   Updated: 2025-12-15T07:20:11Z
   Vendor: Xiaomi
@@ -4285,21 +4278,21 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Azul_Twilight_Blue_Dual_SIM_-_Hifi_Media_Store-1002990.jpg?v=1719110346
   Price: 174,99 € EUR
 - [Xiaomi Redmi Note 11S 4G 6GB/128GB Azul (Twilight Blue) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-11s-4g-6gb-128gb-azul-twilight-blue-dual-sim): Xiaomi Redmi Note 11S 4G:  6GB de RAM y 128GB de memoria Pantalla AMOLED 6,43", 90Hz Procesador Mediatek Helio G96 Cámara cuádruple 108 MP Batería 5000 mAh y carga rápida 33W
-  Updated: 2025-12-13T11:35:00Z
+  Updated: 2025-12-19T22:00:15Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Azul_Twilight_Blue_Dual_SIM_-_Hifi_Media_Store-1003241.jpg?v=1719112002
   Price: 177,99 € EUR
 - [Xiaomi Redmi Note 11S 128GB Gris Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-11s-128gb-gris-dual-sim): Xiaomi Redmi Note 11S 4G 128GB Gris:  6GB de RAM y 128GB de memoria Pantalla AMOLED 6,43", 90Hz Procesador Mediatek Helio G96 Cámara cuádruple 108 MP Batería 5000 mAh y carga rápida 33W
-  Updated: 2025-12-16T22:20:20Z
+  Updated: 2025-12-19T15:25:22Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Gris_Graphite_Gray_Dual_SIM_-_Hifi_Media_Store-1003254.jpg?v=1719112042
   Price: 180,99 € EUR
 - [Xiaomi Redmi Note 11S 5G 4GB/128GB Negro (Midnight Black) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-11s-5g-4gb-128gb-negro-midnight-black-dual-sim): Xiaomi Redmi Note 11S 5G  Cámara triple con IA de 50 MP Cámara ultra gran angular de 8MP Cámara macro de 2MP Frecuencia de actualización de 90 Hz MediaTek Dimensity 810 con 5G Batería de 5000 mAh de gran capacidad Carga rápida Pro de 33 W
-  Updated: 2025-12-17T20:56:31Z
+  Updated: 2025-12-20T23:50:16Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4320,14 +4313,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Graphite_Dual_SIM_SM-F731B_-_Hifi_Media_Store-996224.jpg?v=1719070521
   Price: 673,99 € EUR
 - [Samsung Galaxy Z Flip5 5G 8GB/256GB Menta (Mint) Dual SIM SM-F731B](https://hifimediastore.com/products/samsung-galaxy-z-flip5-5g-8gb-256gb-menta-mint-dual-sim-sm-f731b): SAMSUNG GALAXY Z FLIP5 5G Pantalla plegable AMOLED 2X de 67 120Hz y HDR10 Camara Trasera Dual 12 12 MP con grabacion de video 4K Procesador Qualcomm Snapdragon 8 Gen 2 4 nm Bateria de 3700 mAh con carga rapida de 25W One UI 511 basado en Andr
-  Updated: 2025-12-17T23:55:16Z
+  Updated: 2025-12-19T21:30:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Menta_Mint_Dual_SIM_SM-F731B_-_Hifi_Media_Store-996235.jpg?v=1719070558
   Price: 673,99 € EUR
 - [Xiaomi Redmi Note 12 Pro 4G 6GB/128GB Azul (Ice Blue) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-12-pro-4g-6gb-128gb-azul-ice-blue-dual-sim): Xiaomi Redmi Note 12 Pro 4G:  Cámara cuádruple de 108MP Procesador Snapdragon 735 Pantalla AMOLED 120Hz, Dolby Vision Carga turbo de 67W, 50% en 15 minutos El Redmi Note más ligero y cómodo
-  Updated: 2025-12-13T11:35:07Z
+  Updated: 2025-12-19T02:25:31Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4348,19 +4341,26 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Gris_Graphite_Dual_SIM_SM-F731B_-_Hifi_Media_Store-996254.jpg?v=1719070614
   Price: 865,99 € EUR
 - [OnePlus Nord 3 5G 8GB/128GB Verde (Green) Dual SIM CPH2493](https://hifimediastore.com/products/oneplus-nord-3-5g-8gb-128gb-verde-green-dual-sim-cph2493): OnePlus Nord 3 5G  Pantalla Fluid AMOLED de 6,74", 120Hz y HDR10+ Chip Mediatek Dimensity 9000 (4 nm) Cámara triple de 50 MP con vídeo en 4K Carga rápida de 80W SUPERVOOC Android 13, OxygenOS 13.1
-  Updated: 2025-12-17T23:25:15Z
+  Updated: 2025-12-20T03:30:16Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Green_Dual_SIM_CPH2493_-_Hifi_Media_Store-988541.jpg?v=1719041919
   Price: 264,99 € EUR
+- [Samsung Galaxy Z Fold5 12GB/512GB Negro (Phantom Black) Dual SIM SM-F946B](https://hifimediastore.com/products/samsung-galaxy-z-fold5-12gb-512gb-negro-phantom-black-dual-sim-sm-f946b): Samsung Galaxy Z Fold5  Qualcomm Snapdragon 8 de 2.ª generación (4 nm) Pantalla Dynamic AMOLED 2X de 7,6" Batería de 4400 mAh con carga rápida de 25W Triple cámara de 50MP  *Condiciones de Samsung Pay en la descripción.
+  Updated: 2025-12-19T02:05:21Z
+  Vendor: Samsung
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Phantom_Black_Dual_SIM_SM-F946B_-_Hifi_Media_Store-996480.jpg?v=1719071961
+  Price: 1239,99 € EUR
 - [Apple iPhone 15 128GB Negro (Black) MTP03QL/A](https://hifimediastore.com/products/apple-iphone-15-128gb-negro-black-mtp03ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-17T23:10:24Z
+  Updated: 2025-12-19T20:45:12Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967101.jpg?v=1719001262
-  Price: 794,99 € EUR
+  Price: 785,99 € EUR
 - [Apple iPhone 15 128GB Verde (Green) MTP53QL/A](https://hifimediastore.com/products/apple-iphone-15-128gb-verde-green-mtp53ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
   Updated: 2025-12-17T17:47:27Z
   Vendor: Apple
@@ -4376,7 +4376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967236.jpg?v=1719001571
   Price: 886,99 € EUR
 - [Apple iPhone 15 Plus 128GB Amarillo (Yellow) MU123QL/A](https://hifimediastore.com/products/apple-iphone-15-plus-128gb-amarillo-yellow-mu123ql-a): Apple iPhone 15 Plus:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,7" USB-C Hasta 26H de reproducción de vídeo Batería de 4383 mAh
-  Updated: 2025-12-15T19:00:26Z
+  Updated: 2025-12-18T18:50:13Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4390,68 +4390,54 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Azul_Alpine_Blue_Dual_SIM_-_Hifi_Media_Store-1000214.jpg?v=1719092984
   Price: 392,99 € EUR
 - [Apple iPhone 15 128GB Rosa (Pink) MTP13QL/A](https://hifimediastore.com/products/apple-iphone-15-128gb-rosa-pink-mtp13ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-17T17:48:15Z
+  Updated: 2025-12-19T20:45:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967111.jpg?v=1719001282
-  Price: 796,99 € EUR
+  Price: 785,99 € EUR
 - [Apple iPhone 15 256GB Azul (Blue) MTP93QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-azul-blue-mtp93ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-17T23:10:24Z
+  Updated: 2025-12-19T20:45:10Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967140.jpg?v=1719001346
   Price: 1072,99 € EUR
 - [Apple iPhone 15 256GB Verde (Green) MTPA3QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-verde-green-mtpa3ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-16T22:26:20Z
+  Updated: 2025-12-19T20:45:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967173.jpg?v=1719001412
   Price: 991,99 € EUR
 - [Apple iPhone 15 256GB Rosa (Pink) MTP73QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-rosa-pink-mtp73ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-17T23:10:21Z
+  Updated: 2025-12-19T20:45:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967162.jpg?v=1719001392
-  Price: 1072,99 € EUR
+  Price: 975,99 € EUR
 - [Apple iPhone 15 256GB Amarillo (Yelow) MTP83QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-amarillo-yelow-mtp83ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-13T11:35:17Z
+  Updated: 2025-12-19T01:15:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967132.jpg?v=1719001330
   Price: 911,99 € EUR
 - [Apple iPhone 15 512GB Negro (Black) MTPC3QL/A](https://hifimediastore.com/products/apple-iphone-15-512gb-negro-black-mtpc3ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-16T08:00:17Z
+  Updated: 2025-12-20T22:40:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967200.jpg?v=1719001480
   Price: 1118,99 € EUR
 - [Apple iPhone 15 512GB Azul (Blue) MTPG3QL/A](https://hifimediastore.com/products/apple-iphone-15-512gb-azul-blue-mtpg3ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-13T11:35:18Z
+  Updated: 2025-12-19T21:30:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967188.jpg?v=1719001458
-  Price: 1389,99 € EUR
-- [Apple iPhone 15 Plus 256GB Rosa (Pink) MU193QL/A](https://hifimediastore.com/products/apple-iphone-15-plus-256gb-rosa-pink-mu193ql-a): Apple iPhone 15 Plus:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,7" USB-C Hasta 26H de reproducción de vídeo Batería de 4383 mAh
-  Updated: 2025-12-17T10:00:13Z
-  Vendor: Apple
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967299.jpg?v=1719001718
-  Price: 1173,99 € EUR
-- [Apple iPhone 15 Plus 256GB Amarillo (Yellow) MU1D3QL/A](https://hifimediastore.com/products/apple-iphone-15-plus-256gb-amarillo-yellow-mu1d3ql-a): Apple iPhone 15 Plus:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,7" USB-C Hasta 26H de reproducción de vídeo Batería de 4383 mAh
-  Updated: 2025-12-16T04:57:20Z
-  Vendor: Apple
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967274.jpg?v=1719001659
-  Price: 963,99 € EUR
+  Price: 1228,99 € EUR
 - [Apple iPhone 15 Pro 512GB Blanco (White Titanium) MTV83QL/A](https://hifimediastore.com/products/apple-iphone-15-pro-512gb-blanco-white-titanium-mtv83ql-a): IPhone 15 Pro:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico Hasta 23H de reproducción de vídeo Pantalla Super Retina XDR de 6,1" USB-C 3.0
   Updated: 2025-12-17T23:10:27Z
   Vendor: Apple
@@ -4460,12 +4446,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967502.jpg?v=1719002161
   Price: 1390,99 € EUR
 - [Google Pixel 8 5G 8GB/128GB Rosa (Rose) Dual SIM GA04856](https://hifimediastore.com/products/google-pixel-8-5g-8gb-128gb-rosa-rose-dual-sim-ga04856): Google Pixel 8 Pantalla Actua 62 1080 x 2400 120Hz y HDR10 Panel frontal de vidrio Corning Gorilla Glass Victus Bateria 4575 mAh con carga rapida 30W y carga inalambrica Procesador Google Tensor G3 Coprocesador de seguridad Titan M2 Camara Pri
-  Updated: 2025-12-17T22:55:13Z
+  Updated: 2025-12-20T22:25:14Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Rosa_Rose_Dual_SIM_GA04856_-_Hifi_Media_Store-974271.jpg?v=1719016383
-  Price: 481,99 € EUR
+  Price: 472,99 € EUR
 - [Apple iPhone 15 Pro Max 1TB Gris Titanium (Natural Titanium) MU7J3QL/A](https://hifimediastore.com/products/apple-iphone-15-pro-max-1tb-gris-titanium-natural-titanium-mu7j3ql-a): IPhone 15 Pro Max:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico  Hasta 29H de reproducción de vídeo Pantalla Super Retina XDR de 6,7" USB-C 3.0
   Updated: 2025-12-17T04:56:22Z
   Vendor: Apple
@@ -4488,7 +4474,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Black_Dual_SIM_-_Hifi_Media_Store-1000278.jpg?v=1719093292
   Price: 516,99 € EUR
 - [Xiaomi 12 Lite 5G 8GB/256GB Negro (Black) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-8gb-256gb-negro-black-dual-sim-2203129g): XIAOMI 12 LITE 5G:  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-12-17T17:54:53Z
+  Updated: 2025-12-18T19:45:16Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4502,14 +4488,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Azul_Blue_Dual_SIM_23049PCD8G_-_Hifi_Media_Store-1000894.jpg?v=1719096937
   Price: 408,99 € EUR
 - [Oppo A78 5G 4GB/128GB Negro (Glowing Black) Dual SIM CPH2483](https://hifimediastore.com/products/oppo-a78-5g-4gb-128gb-negro-glowing-black-dual-sim-cph2483): OPPO A78 5G:  Pantalla IPS LCD de 6,56" y 90 Hz Batería de 5000mAh, carga rápida SUPERVOOC™ de 33W Cámara de 50MP con IA, cámara selfie de 8MP Resistencia al agua de grado IPX4 Mediatek Dimensity 700 Android 12
-  Updated: 2025-12-16T21:25:20Z
+  Updated: 2025-12-18T06:05:22Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Glowing_Black_Dual_SIM_CPH2483_-_Hifi_Media_Store-989235.jpg?v=1719043961
   Price: 188,99 € EUR
 - [Apple iPhone 15 Pro Max 512GB Azul (Blue Titanium) MU7F3QL/A](https://hifimediastore.com/products/apple-iphone-15-pro-max-512gb-azul-blue-titanium-mu7f3ql-a): IPhone 15 Pro Max:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico  Hasta 29H de reproducción de vídeo Pantalla Super Retina XDR de 6,7" USB-C 3.0
-  Updated: 2025-12-17T18:00:12Z
+  Updated: 2025-12-20T03:15:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4523,21 +4509,21 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Negro_Power_Black_Dual_SIM_22041219PG_-_Hifi_Media_Store-1001108.jpg?v=1719098012
   Price: 118,99 € EUR
 - [Xiaomi Poco M4 5G 4GB/64GB Azul (Cool Blue) Dual SIM 22041219PG](https://hifimediastore.com/products/xiaomi-poco-m4-5g-4gb-64gb-azul-cool-blue-dual-sim-22041219pg): XIAOMI POCO M4 5G:  Chip 5G de alta eficiencia Procesador de ocho núcleos Dimensity 700 Batería de alta capacidad de 5000 mAh y carga rápida de 18 W Cámara principal de 13MP, cámara selfie de 5MP con IA Acabado ondulado resistente a huellas dactilares
-  Updated: 2025-12-13T11:35:37Z
+  Updated: 2025-12-19T08:45:20Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Azul_Cool_Blue_Dual_SIM_22041219PG_-_Hifi_Media_Store-1001103.jpg?v=1719097982
   Price: 118,99 € EUR
 - [Motorola ThinkPhone 5G 8GB/256GB Negro (Carbon Black) Dual SIM](https://hifimediastore.com/products/motorola-thinkphone-5g-8gb-256gb-negro-carbon-black-dual-sim): Motorola ThinkPhone 5G:  Pantalla P-OLED FHD+ de 6,55" Procesador Qualcomm Snapdragon Batería de 5000 mAh Carga TurboPower de 68W Triple cámara de 50MP Android 13
-  Updated: 2025-12-16T21:20:15Z
+  Updated: 2025-12-18T06:00:21Z
   Vendor: Motorola
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Carbon_Black_Dual_SIM_-_Hifi_Media_Store-987499.jpg?v=1719038257
   Price: 315,99 € EUR
 - [Apple iPhone 15 Pro Max 512GB Gris (Natural Titanium) MU7E3ZD](https://hifimediastore.com/products/apple-iphone-15-pro-max-512gb-gris-natural-titanium-mu7e3zd): IPhone 15 Pro Max:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico  Hasta 29H de reproducción de vídeo Pantalla Super Retina XDR de 6,7" USB-C 3.0
-  Updated: 2025-12-17T18:03:19Z
+  Updated: 2025-12-20T03:15:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4551,47 +4537,40 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-966495.jpg?v=1718999824
   Price: 696,99 € EUR
 - [Samsung Galaxy A05s 4GB/128GB Verde (Light Green) Dual SIM SM-A057G](https://hifimediastore.com/products/samsung-galaxy-a05s-4gb-128gb-verde-light-green-dual-sim-sm-a057g): Samsung Galaxy A05s:  Pantalla LCD 6,7" FDH+ con 90 Hz Triple cámara de 50 MP Chip Qualcomm Snapdragon 680 4G Batería de 5000 mAh y Carga rápida de 25W Android 13  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-17T17:15:11Z
+  Updated: 2025-12-19T21:47:05Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Light_Green_Dual_SIM_SM-A057G_-_Hifi_Media_Store-992579.jpg?v=1719052115
-  Price: 166,99 € EUR
+  Price: 164,99 € EUR
 - [Xiaomi Redmi Note 13 Pro 4G 8GB/256GB Púrpura (Lavender Purple) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-13-pro-4g-8gb-256gb-purpura-lavender-purple-dual-sim): Xiaomi Redmi Note 13 Pro:  Pantalla AMOLED FHD+ de 120 Hz Cámara de 200 MP con OIS Batería de 5000 mAh Carga turbo de 67W MediaTek Helio G99-Ultra
-  Updated: 2025-12-17T17:45:17Z
+  Updated: 2025-12-20T17:25:17Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Purpura_Lavender_Purple_Dual_SIM_-_Hifi_Media_Store-1003837.jpg?v=1719116224
   Price: 243,99 € EUR
 - [Xiaomi Redmi Note 13 Pro+ 5G 8GB/256GB Negro (Midnight Black) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-13-pro-5g-8gb-256gb-negro-midnight-black-dual-sim-1): Xiaomi Redmi Note 13 Pro+ 5G:  Pantalla AMOLED curva de 1,5K y 120 Hz Cámara ultranítida de 200 MP con OIS Batería de 5000 mAh Carga turbo de 120W MediaTek Dimensity 7200-Ultra Resistencia IP68 al polvo y al agua
-  Updated: 2025-12-17T04:45:26Z
+  Updated: 2025-12-20T04:30:17Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Midnight_Black_Dual_SIM_-_Hifi_Media_Store-1003959.jpg?v=1719117089
-  Price: 321,99 € EUR
+  Price: 320,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/128GB Negro (Onyx Black) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-128gb-negro-onyx-black-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-12-17T23:50:16Z
+  Updated: 2025-12-20T03:55:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Onyx_Black_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995668.jpg?v=1719067004
   Price: 654,99 € EUR
 - [Xiaomi Redmi 12 5G 4GB/128GB Negro (Jade Black) Dual SIM 23076RN8DY](https://hifimediastore.com/products/xiaomi-redmi-12-5g-4gb-128gb-negro-jade-black-dual-sim-23076rn8dy): Xiaomi Redmi 12 5G:  Pantalla FHD+ de 6,79" Procesador Qualcomm Snapdragon 4 Gen 2 Cámara Dual IA de 50 MP y 2 MP Batería de 5000 mAh Carga rápida de 18 W Android 13, MIUI 14
-  Updated: 2025-12-17T17:40:12Z
+  Updated: 2025-12-20T04:25:07Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Jade_Black_Dual_SIM_23076RN8DY_-_Hifi_Media_Store-1001977.jpg?v=1719103612
-  Price: 119,99 € EUR
-- [Samsung Galaxy S24 Ultra 5G 12GB/256GB Negro (Titanium Black) Dual SIM SM-S928B](https://hifimediastore.com/products/samsung-galaxy-s24-ultra-5g-12gb-256gb-negro-titanium-black-dual-sim-sm-s928b-1): Samsung Galaxy S24 Ultra 5G Pantalla FHD de 68 Dynamic AMOLED 2X ProcesadorQualcomm Snapdragon 8 Gen 3 Camara cuadruple 200 MP 50 MP 10 MP 12 MP y video en 8K Bateria de 5000 mAh y Carga Rapida de 45 W Android 14 One UI 61 Condiciones de S
-  Updated: 2025-12-13T11:35:50Z
-  Vendor: Samsung
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Titanium_Black_Dual_SIM_SM-S928B_-_Hifi_Media_Store-995781.jpg?v=1719067812
-  Price: 1101,99 € EUR
+  Price: 118,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Negro (Onyx Black) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-negro-onyx-black-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
   Updated: 2025-12-16T22:46:12Z
   Vendor: Samsung
@@ -4599,15 +4578,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Onyx_Black_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995703.jpg?v=1719067232
   Price: 720,99 € EUR
+- [Samsung Galaxy S24 Ultra 5G 12GB/512GB Negro (Titanium Black) Dual SIM SM-S928B](https://hifimediastore.com/products/samsung-galaxy-s24-ultra-5g-12gb-512gb-negro-titanium-black-dual-sim-sm-s928b): Samsung Galaxy S24 Ultra 5G Pantalla FHD de 68 Dynamic AMOLED 2X ProcesadorQualcomm Snapdragon 8 Gen 3 Camara cuadruple 200 MP 50 MP 10 MP 12 MP y video en 8K Bateria de 5000 mAh y Carga Rapida de 45 W Android 14 One UI 61 Condiciones de S
+  Updated: 2025-12-20T16:50:22Z
+  Vendor: Samsung
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Titanium_Black_Dual_SIM_SM-S928B_-_Hifi_Media_Store-995829.jpg?v=1719068118
+  Price: 1270,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/128GB Gris (Marble Gray) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-128gb-gris-marble-gray-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-12-17T18:10:10Z
+  Updated: 2025-12-20T03:55:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Gris_Marble_Gray_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995663.jpg?v=1719066985
-  Price: 662,99 € EUR
+  Price: 656,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/128GB Amarillo (Amber Yellow) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-128gb-amarillo-amber-yellow-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-12-17T23:50:16Z
+  Updated: 2025-12-20T23:15:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -4621,7 +4607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Plata_Silver_Dual_SIM_SM-A057G_-_Hifi_Media_Store-992566.jpg?v=1719051937
   Price: 165,99 € EUR
 - [Samsung Galaxy A05s 4GB/128GB Negro (Black) Dual SIM SM-A057G](https://hifimediastore.com/products/samsung-galaxy-a05s-4gb-128gb-negro-black-dual-sim-sm-a057g): Samsung Galaxy A05s:  Pantalla LCD 6,7" FDH+ con 90 Hz Triple cámara de 50 MP Chip Qualcomm Snapdragon 680 4G Batería de 5000 mAh y Carga rápida de 25W Android 13  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-15T19:50:15Z
+  Updated: 2025-12-18T19:30:06Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -4642,7 +4628,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_512GB_Rojo_Product_Red_-_Hifi_Media_Store-966602.jpg?v=1719000080
   Price: 880,99 € EUR
 - [Apple iPhone 15 Pro Max 512GB Blanco Titanio (White Titanium) MMU7D3QL/A](https://hifimediastore.com/products/apple-iphone-15-pro-max-512gb-blanco-titanio-white-titanium-mmu7d3ql-a): IPhone 15 Pro Max:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico  Hasta 29H de reproducción de vídeo Pantalla Super Retina XDR de 6,7" USB-C 3.0
-  Updated: 2025-12-17T18:12:12Z
+  Updated: 2025-12-19T14:10:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4656,7 +4642,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Azul_Twilight_Blue_Dual_SIM_-_Hifi_Media_Store-1003266.jpg?v=1719112214
   Price: 166,99 € EUR
 - [Xiaomi Redmi Note 13 4G 6GB/128GB Negro (Midnight Black) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-13-4g-6gb-128gb-negro-midnight-black-dual-sim): Xiaomi Redmi Note 13:  Pantalla AMOLED FHD+ de 120 Hz Cámara de 108 MP supernítida Batería de 5000 mAh Carga turbo de 33 W Procesador Snapdragon® de gran rendimiento Android 13, MIUI 14
-  Updated: 2025-12-16T22:15:25Z
+  Updated: 2025-12-19T02:25:11Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4670,35 +4656,49 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Azul_Ice_Blue_Dual_SIM_-_Hifi_Media_Store-1003619.jpg?v=1719114568
   Price: 188,99 € EUR
 - [Xiaomi Redmi Note 13 4G 6GB/128GB Verde (Mint Green) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-13-4g-6gb-128gb-verde-mint-green-dual-sim): Xiaomi Redmi Note 13:  Pantalla AMOLED FHD+ de 120 Hz Cámara de 108 MP supernítida Batería de 5000 mAh Carga turbo de 33 W Procesador Snapdragon® de gran rendimiento Android 13, MIUI 14
-  Updated: 2025-12-17T11:05:27Z
+  Updated: 2025-12-20T23:45:27Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Mint_Green_Dual_SIM_-_Hifi_Media_Store-1003651.jpg?v=1719114761
   Price: 171,99 € EUR
+- [Apple iPhone 15 128GB Azul (Blue) MTP43QL/A](https://hifimediastore.com/products/apple-iphone-15-128gb-azul-blue-mtp43ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
+  Updated: 2025-12-18T12:25:06Z
+  Vendor: Apple
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967089.jpg?v=1719001232
+  Price: 788,99 € EUR
 - [Apple iPhone 15 256GB Negro (Black) MTP63QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-negro-black-mtp63ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-12-17T16:30:11Z
+  Updated: 2025-12-19T14:10:12Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967152.jpg?v=1719001370
   Price: 974,99 € EUR
+- [Xiaomi 14 5G 12GB/512GB Blanco (White) Dual SIM](https://hifimediastore.com/products/xiaomi-14-5g-12gb-512gb-blanco-white-dual-sim): Xiaomi 14:  Diseño de marcos ultrafino Snapdragon 8 Gen 3 Cámara profesional Leica Batería de 4610 mAh 90W HyperCharge Pantalla AMOLED de 6,36", 120 Hz, HDR10+ y Dolby Vision Velocidad de conexión 5G
+  Updated: 2025-12-20T23:35:16Z
+  Vendor: Xiaomi
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Blanco_White_Dual_SIM_-_Hifi_Media_Store-1000347.jpg?v=1719093850
+  Price: 696,99 € EUR
 - [OnePlus 12R 5G 16GB/256GB Azul (Cool Blue) Dual SIM](https://hifimediastore.com/products/oneplus-12r-5g-16gb-256gb-azul-cool-blue-dual-sim): OnePlus 12R:  Pantalla ProXDR 4ª Generación de 120 Hz Cámara Sony IMX890 de 50MP Chip Qualcomm Snapdragon 8 Gen  Batería de 5500 mAh y carga rápida inteligente de 100W Android 14, Oxygen 14 Conexión 5G
-  Updated: 2025-12-17T23:25:11Z
+  Updated: 2025-12-19T21:55:02Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Azul_Cool_Blue_Dual_SIM_-_Hifi_Media_Store-988309.jpg?v=1719041163
-  Price: 481,99 € EUR
+  Price: 478,99 € EUR
 - [Xiaomi 12 Lite 5G 6GB/128GB Verde (Lite Green) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-6gb-128gb-verde-lite-green-dual-sim-2203129g-1): Xiaomi 12 Lite 5G 6 128GB Verde Diseno ligero como una pluma Camara triple de 108 MP a nivel de estudio con grabacion en 4K Carga Turbo inteligente de 67 W 50 de carga en 13 minutos Pantalla AMOLED de 655 120 Hz HDR10 y Dolby Vision Velocidad
-  Updated: 2025-12-17T18:15:04Z
+  Updated: 2025-12-20T23:35:16Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Lite_Green_Dual_SIM_2203129G_-_Hifi_Media_Store-999889.jpg?v=1719091312
   Price: 174,99 € EUR
 - [OnePlus 12R 5G 16GB/256GB Gris (Iron Gray) Dual SIM](https://hifimediastore.com/products/oneplus-12r-5g-16gb-256gb-gris-iron-gray-dual-sim): OnePlus 12R:  Pantalla ProXDR 4ª Generación de 120 Hz Cámara Sony IMX890 de 50MP Chip Qualcomm Snapdragon 8 Gen  Batería de 5500 mAh y carga rápida inteligente de 100W Android 14, Oxygen 14 Conexión 5G
-  Updated: 2025-12-15T19:20:11Z
+  Updated: 2025-12-19T21:00:15Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
@@ -4718,22 +4718,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Mystery_Black_Dual_SIM_-_Hifi_Media_Store-989282.jpg?v=1719044081
   Price: 245,99 € EUR
-- [Motorola Edge 40 Neo 5G 12GB/256GB Negro (Black Beauty) Dual SIM XT2307-1](https://hifimediastore.com/products/motorola-edge-40-neo-5g-12gb-256gb-negro-black-beauty-dual-sim-xt2307-1): Motorola Edge 40 NEO  Con certificación IP682, resistente al polvo, la suciedad, arena Recarga rápidamente con la carga TurboPower™ de 68 W Potencia del conjunto de chips Mediatek 7030 Cámara DUAL 50MP
-  Updated: 2025-12-15T19:10:20Z
-  Vendor: Motorola
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Black_Beauty_Dual_SIM_XT2307-1_-_Hifi_Media_Store-986401.jpg?v=1719035246
-  Price: 249,99 € EUR
 - [Samsung Galaxy A55 5G 8GB/128GB Negro (Awesome Navy) Dual SIM SM-A556](https://hifimediastore.com/products/samsung-galaxy-a55-5g-8gb-128gb-negro-awesome-navy-dual-sim-sm-a556): Samsung Galaxy A55 5G Pantalla FHD Super AMOLED de 66 Triple camara de 50MP y camara selfie de 32MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Dolby Atmos Certificacion IP67 Samsung Knox Vault No incluye cargad
-  Updated: 2025-12-17T23:55:16Z
+  Updated: 2025-12-20T23:20:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Awesome_Navy_Dual_SIM_SM-A556_-_Hifi_Media_Store-994176.jpg?v=1719059421
-  Price: 373,99 € EUR
+  Price: 377,99 € EUR
 - [Xiaomi 12 Lite 5G 6GB/128GB Rosa (Lite Pink) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-6gb-128gb-rosa-lite-pink-dual-sim-2203129g): Xiaomi 12 Lite 5G:  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-12-16T22:05:16Z
+  Updated: 2025-12-18T19:45:17Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4746,41 +4739,34 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Azul_Star_Blue_Dual_SIM_-_Hifi_Media_Store-1002687.jpg?v=1719108173
   Price: 111,99 € EUR
-- [OnePlus 12 5G 16GB/512GB Negro (Silky Black) Dual SIM](https://hifimediastore.com/products/oneplus-12-5g-16gb-512gb-negro-silky-black-dual-sim): OnePlus 12:  Pantalla ProXDR superbrillante de 120 Hz Sistema de cámara Hasselblad de 4ª generación Chip Qualcomm Snapdragon 8 Gen 3 Batería de 5400 mAh y carga rápida inteligente de 100W Android 14, Oxygen 14 Conexión 5G
-  Updated: 2025-12-13T11:36:12Z
-  Vendor: OnePlus
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Silky_Black_Dual_SIM_-_Hifi_Media_Store-988289.jpg?v=1719041109
-  Price: 855,99 € EUR
 - [Xiaomi Redmi A3 3GB/64GB Verde (Forest Green) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-a3-3gb-64gb-verde-forest-green-dual-sim): Xiaomi Redmi A3:  Pantalla de 6,71" con Dot Drop Cámara principal de 8 MP Batería de 5000 mAh Carga rápida de 10 W Grabación de vídeo de la cámara delantera 1080p a 30 fps
-  Updated: 2025-12-17T17:40:25Z
+  Updated: 2025-12-18T20:09:39Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Verde_Forest_Green_Dual_SIM_-_Hifi_Media_Store-1002679.jpg?v=1723750810
-  Price: 108,99 € EUR
+  Price: 105,99 € EUR
 - [Xiaomi Redmi A3 3GB/64GB Azul (Star Blue) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-a3-3gb-64gb-azul-star-blue-dual-sim): Xiaomi Redmi A3:  Pantalla de 6,71" con Dot Drop Cámara principal de 8 MP Batería de 5000 mAh Carga rápida de 10 W Grabación de vídeo de la cámara delantera 1080p a 30 fps
-  Updated: 2025-12-13T11:36:13Z
+  Updated: 2025-12-18T19:55:16Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Azul_Star_Blue_Dual_SIM_-_Hifi_Media_Store-1002667.jpg?v=1723751015
   Price: 106,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/128GB Negro (Onyx Black) Enterprise Edition Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-128gb-negro-onyx-black-enterprise-edition-dual-sim-sm-s921b): Samsung Galaxy S24 Enterprise Edition Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Samsung Knox Suite Cond
-  Updated: 2025-12-15T21:09:58Z
+  Updated: 2025-12-20T23:48:01Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Onyx_Black_Enterprise_Edition_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995677.jpg?v=1719067031
-  Price: 645,99 € EUR
+  Price: 650,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Negro (Onyx Black) Enterprise Edition Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-negro-onyx-black-enterprise-edition-dual-sim-sm-s921b): Samsung Galaxy S24 Enterprise Edition Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Samsung Knox Suite Cond
-  Updated: 2025-12-17T23:50:16Z
+  Updated: 2025-12-20T03:55:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Onyx_Black_Enterprise_Edition_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995721.jpg?v=1719067387
-  Price: 727,99 € EUR
+  Price: 733,99 € EUR
 - [Lenovo GO USB-C ANC In-Ear - Auriculares de tapón](https://hifimediastore.com/products/auricular-lenovo-go-usb-c-anc-microfono-con-cancelacion-de-ruido-ambiental): Los auriculares de tapón Lenovo Go USB-C ANC están diseñados para ofrecer una voz clara y mantener la productividad en movimiento. Estos auriculares no solo producen un sonido superior, sino que también cuentan con tres micrófonos que garantizan una voz clara para las llamadas. Ligeros, altamente portátiles y perfectamente cómodos, los auriculares de tapón Lenovo Go USB-C ANC también ofrecen una caja de control multifuncional para un uso más fácil. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Música/uso diario Color del producto: Negro Tipo de auricular: Binaural Control de volumen: Botón Tipo de control: Botones Longitud de cable: 1,2 m Color del cable: Negro Certificación: CB, FCC,ICES, CE, RCM, VCCI, KCC, EAC, Certificación Microsoft TEAMS Cancelación de ruido avanzada Volumen + / -, ANC encendido/apagado, Botón Equipos, Silencio/reactivación de audio, Control de llamadas Micrófono separado en línea para una mejor detección de voz Puertos e Interfaces Tecnología de conectividad: Alámbrico Dispone de Conexión USB Conector USB: USB Tipo C Auriculares Audifonos: Intraaural Frecuencia de auricular: 50 - 10000 Hz Obstrucción: 32 O Sensibilidad de auricular: 110 dB Unidad de disco: 1 cm THD, distorsión armónica total: 3% Micrófono Tipo de micrófono: Integrado número de micrófonos: 3 Dispone de Cancelación de ruido del micrófono Batería Tensión de entrada (auriculares): 5 V Corriente de entrada (auriculares): 1 A Condiciones ambientales Intervalo de temperatura operativa: 0 - 40 C Peso y dimensiones Peso: 22 g
   Updated: 2025-12-13T11:36:16Z
   Vendor: LENOVO
@@ -4908,7 +4894,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/e62af5b21aa9af5206305234033e17b0b632d999_0_0_177a5815-0d89-4417-9ffe-4bec119d63e1.jpg?v=1765014828
   Price: 49,99 € EUR
 - [Motorola Moto G24 Power 8GB/256GB Azul (Ink Blue) Dual SIM](https://hifimediastore.com/products/motorola-moto-g24-power-8gb-256gb-azul-ink-blue-dual-sim): Motorola Moto G24 Power:  Batería de 6000 mAh Carga rápida de 30W Cámara trasera doble de 50 MP y frontal de 8 MP Altavoces Dolby Atmos® Desbloqueo rápido con lector de huellas y reconocimiento facial Procesador MediaTek Helio G85
-  Updated: 2025-12-17T16:35:17Z
+  Updated: 2025-12-19T01:20:17Z
   Vendor: Motorola
   Product Type: Smartphone
   Availability: Available
@@ -5080,12 +5066,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/c138c411361849b8e2bbea1d2080b992df3b56b2_0_0_e90cdaef-9635-4f62-b414-e41409e91442.png?v=1765015465
   Price: 69,99 € EUR
 - [Samsung Galaxy A35 5G 6GB/128GB Negro (Awesome Navy) Dual SIM SM-A356](https://hifimediastore.com/products/samsung-galaxy-a35-5g-6gb-128gb-negro-awesome-navy-dual-sim-sm-a356-1): Samsung Galaxy A35 5G Pantalla Infinity O mejorada con Super AMOLED Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Dolby Atmos Certificacion IP67 No incluye cargador Cond
-  Updated: 2025-12-17T23:55:16Z
+  Updated: 2025-12-19T21:30:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Awesome_Navy_Dual_SIM_SM-A356_-_Hifi_Media_Store-993805.jpg?v=1719057212
-  Price: 296,99 € EUR
+  Price: 293,99 € EUR
 - [Belkin SoundForm Flow - Auriculares Bluetooth con ANC Negros](https://hifimediastore.com/products/belkin-soundform-flow-auriculares-bluetooth-con-anc-negros): Dejarse llevar: - Las llamadas telefónicas conectadas a través de la tecnología Dual Beamforming se sienten como una conversación en persona, y el conveniente modo Hear-Thru lo ayuda a mantenerse alerta a su entorno por seguridad o para hablar con las personas que lo rodean. Hasta 7 horas de duración de la batería por carga y otras 24 horas de energía en el estuche de carga inalámbrica ofrecen un verdadero placer auditivo durante todo el día. Con materiales resistentes al sudor y al agua con clasificación Ipx5 para mantenerse al día con el clima y los entrenamientos, y una fácil conexión a través de Bluetooth® 5.2, Soundform Flow es la opción perfecta para un audio premium sin ruido que dura todo el día. Corta el ruido, escucha tu entorno: - Nuestra tecnología de cancelación activa de ruido cuenta con un micrófono ANC de avance que filtra de forma inteligente el ruido exterior. Toque para activar el conveniente modo Hear-Thru para mantenerse alerta a su entorno. Controladores dinámicos, sonido dinámico: Deje que fluya el sonido de alta calidad con controladores dinámicos de doble capa de 12 mm equipados con imanes de neodimio que brindan una calidad de audio poderosamente vívida con graves impactantes.- Calidad de llamada nítida: la tecnología Dual Beamforming garantiza que pueda escuchar y ser escuchado claramente en las llamadas como si estuviera en la misma habitación.- Duración de la batería durante todo el día: hasta 31 horas de duración de la batería: 7 horas de tiempo de reproducción por carga para los auriculares, más otras 24 horas de batería en el estuche de carga inalámbrica, lo que significa que puede hablar, escuchar y transmitir sin interrupciones.- Carga inalámbrica conveniente: el estuche de carga inalámbrica ofrece una carga conveniente sin cables en cualquier almohadilla de carga compatible con Qi.- Recarga rápida: obtenga 60 minutos de reproducción con solo 10 minutos de carga USB-C. La carga completa con 31 horas de reproducción tarda solo 2 horas.- Resistente al sudor y al agua: sigue escuchando a través de la lluvia ligera y los entrenamientos desafiantes. Los materiales con clasificación Ipx5 en cada auricular lo tienen cubierto.- Conexión confiable: la tecnología Bluetooth 5.2 es compatible con teléfonos inteligentes, tabletas y computadoras portátiles, y la conexión es rápida y fácil dentro de un rango de 30 pies/10 m.- Control táctil fácil: cada auricular Bluetooth inalámbrico responde al tacto para un control de audio sin botones y sin cables para llamadas telefónicas y para omitir o pausar canciones. De un vistazo: - La tecnología de cancelación activa de ruido presenta un micrófono ANC de avance que filtra de manera inteligente el ruido exterior- El modo Hear-Thru lo ayuda a mantenerse alerta a su entorno- Los controladores dinámicos de 12 mm con imanes de neodimio brindan una calidad de audio poderosamente vívida con bajos impactantes- La tecnología de llamada Dual Beamforming garantiza que pueda escuchar y ser escuchado claramente como si estuviera en la misma habitación- 31 horas de duración total de la batería: 7 horas de tiempo de reproducción en los auriculares, más otras 24 horas de energía en el estuche- El estuche de carga inalámbrica ofrece una carga conveniente sin cables en cualquier almohadilla de carga compatible con Qi- 60 minutos de reproducción con solo 10 minutos de carga USB-C- La carga USB-C rápida proporciona una carga completa de 31 horas en solo 2 horas- Los materiales resistentes al sudor y al agua con clasificación Ipx5 protegen contra el mal tiempo y los entrenamientos duros- Bluetooth 5.2 ofrece una fácil conexión a dispositivos de hasta 10 m- El toque sin botones y sin cables ofrece un verdadero modo mono en cada auricular Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música Color del producto: Negro Tipo de auricular: Binaural Funciones de protección: Resistente al sudor, Resistente al agua Código IP (International Protection): IPX5 Productos compatibles: iPad mini 6th Gen, iPhone 13 Pro Max, iPhone 13 Pro, iPhone 13, iPhone 13 mini, iPhone 12 Pro Max, iPhone 12 Pro, iPhone 12, iPhone 12 mini, iPad 9th gen, Galaxy Z Flip 3, Galaxy S20 FE, Galaxy S21 Ultra 5G, Galaxy Note20 Ultra, Galaxy S21+ 5G, Galaxy S21 5G, Galaxy Note20, Galaxy S22 5G, Galaxy S22+ 5G, Galaxy S22 Ultra 5G, Puertos e Interfaces Tecnología de conectividad: Inalámbrico Conector USB: USB Tipo C Dispone de Bluetooth Versión de Bluetooth: 5.2 Auriculares Audífonos: Intraaural Sistema acústico: Cerrado Micrófono Tipo de micrófono: Integrado Dispone de Cancelación de ruido del micrófono Batería Dispone de Batería Autonomía: 31 h Tiempo continuo de reproducción de audio: 7 h Tiempo de recarga de la batería (estuche de carga): 2 h Fuente de carga: Batería Dispone de Cargador inalámbrico
   Updated: 2025-12-13T11:36:31Z
   Vendor: BELKIN
@@ -5135,12 +5121,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Azul_Bay_Dual_SIM_-_Hifi_Media_Store-974506.jpg?v=1719016773
   Price: 496,99 € EUR
 - [Google Pixel 8a 5G 8GB/128GB Blanco (Porcelain) Dual SIM](https://hifimediastore.com/products/google-pixel-8a-5g-8gb-128gb-blanco-porcelain-dual-sim): Google Pixel 8a:  Pantalla OLED de 6,1", HDR10 Y 120Hz Procesador Google Tensor G3 Cámara trasera dual (64MP + 13MP) Batería de 4492mAh Corning Gorilla Glass 3 Android 14
-  Updated: 2025-12-17T16:15:16Z
+  Updated: 2025-12-18T00:57:12Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Blanco_Porcelain_Dual_SIM_-_Hifi_Media_Store-974525.jpg?v=1719016799
-  Price: 466,99 € EUR
+  Price: 458,99 € EUR
 - [Belkin SoundForm Bolt - Auriculares Intraurales Bluetooth Blancos](https://hifimediastore.com/products/belkin-soundform-bolt-auriculares-intraurales-bluetooth-blancos): Con los auriculares Belkin SoundForm BoltTrue disfruta de tu música en todo momento. Poseen una autonomía de hasta 28 horas y se conectan fácilmente con la tecnología Bluetooth 5.2. Por lo que disfrutarás de un sonido limpio, claro y detallado. Gracias a su diseño ligero y ergonómico, estos auriculares se ajustan cómodamente en tus oídos, permitiéndote usarlos durante largos periodos sin molestias. Son ideales para tus entrenamientos al aire libre, días de entrenamiento o caminata, ya que cuentan con certificación IPX4 de resistencia al agua y al sudor. Diseño inteligente Gracias a la tecnología de Belkin, con los auriculares SoundForm BoltTrue, tendrás el control absoluto al alcance de tus dedos. Cuentan con controles táctiles en ambos lados, que te permitirán ajustar el volumen, saltar pistas o gestionar llamadas. Además, como si esto fuera poco, incluyen un modo mono para ahorrar batería y estar más consciente de tu entorno. Disfruta de la comodidad y la versatilidad que te brinda este sistema de control intuitivo y sin complicaciones. Resistencia IPX4 Los auriculares inalámbricos SoundForm BoltTrue de Belkin están preparados para resistir cualquier desafío. Con certificación IPX4, son capaces de soportar salpicaduras de agua y sudor, por lo que no importa si te encuentras bajo una lluvia ligera o en pleno entrenamiento, tu experiencia de audio no se verá afectada. Estos auriculares te brindaran un sonido excepcional sin importar las condiciones. No dejes que nada te detenga y disfruta de tu música sin preocupaciones. Carga por más tiempo Los auriculares inalámbricos SoundForm BoltTrue de Belkin incluyen una carga de alta duración. Poseen hasta 28 horas de autonomía. Podrás disfrutar de 9 horas de batería en cada auricular y , ademas, contarás con 19 horas adicionales utilizando el estuche de carga. Además, el modo mono te permitirá ahorrar batería al canalizar el audio por un solo auricular. Conseguirás disfrutar de una experiencia auditiva prolongada y sin interrupciones. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música/Deporte/Uso diario Color del producto: Blanco Tipo de auricular: Binaural Teclas de funcionamiento: Tecla múltiple Tipo de controles: On-ear control unit Tipo de control: Tocar Funciones de protección: A prueba de salpicaduras, Resistente al sudor Código IP (International Protection): IPX4 Dispone de Indicadores LED Productos compatibles: Galaxy S23 Galaxy S23 Plus Galaxy S23 Ultra Puertos e Interfaces Tecnología de conectividad: Inalámbrico Dispone de Bluetooth Versión de Bluetooth: 5.2 Alcance inalámbrico: 10 m Auriculares Audífonos: Intraaural Auriculares de tipo Intraural: Auriculares Unidad de disco: 6 mm Tipo de controlador: Dinámico Micrófono Tipo de micrófono: Integrado número de micrófonos: 2 Batería Dispone de Batería Tipo de batería: Batería integrada Tiempo continuo de reproducción de audio: 9 h Autonomía en reproducción continua de audio (con estuche de carga): 28 h Fuente de carga: USB
   Updated: 2025-12-16T09:54:19Z
   Vendor: BELKIN
@@ -5193,7 +5179,7 @@
   Availability: Available
   Price: 31,99 € EUR
 - [Celly BUZ 2 - Auriculares Inalámbricos Negros](https://hifimediastore.com/products/celly-buz-2-auriculares-inalambricos-negros): Los Celly BUZ2 son auriculares inalámbricos con tapas caídas, que cuentan con un estuche con un diseño compacto pero duradero. El micrófono incorporado en ambos auriculares los convierte en la elección perfecta tanto para llamadas de negocios, tiempo libre y actividades deportivas. Características: Gracias a las teclas táctiles multifunciones ubicadas en ambos auriculares, puede administrar fácilmente la música y las llamadas. El estuche presenta un cierre magnético con fijación magnética de los auriculares y esto garantiza una mayor seguridad al producto. Además de proteger los auriculares del polvo y los arañazos, el estuche te permite recargarlos en cualquier lugar y en cualquier momento: una carga garantiza hasta 4 horas de reproducción de audio. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música Tipo de auricular: Binaural Color del producto: Negro Teclas de funcionamiento: Responder/finalizar llamada, Reproducir/Pausar, Track <, Pista >, Volumen +, Volume - Tipo de controles: On-ear control unit Tipo de control: Tocar Diseñado para niños: No Renovado: No Conectar y usar (Plug and Play): Si País de origen: China Puertos e Interfaces Tecnología de conectividad: True Wireless Stereo (TWS) Conexión USB: Si Conector USB: USB Tipo C Bluetooth: Si Versión de Bluetooth: 5.3 Frecuencia de banda: 2.402 - 2.481 GHz Alcance inalámbrico: 10 m Auriculares Potencia máxima de entrada: 5 mW Audífonos: Intraaural Auriculares de tipo Intraural: Monitores dentro de oído Frecuencia de auricular: 20 - 20000 Hz Micrófono Tipo de micrófono: Integrado Sensibilidad de micrófono: -42 dB Batería Tipo de batería: Batería integrada Tecnología de batería: Polímero de litio Capacidad de batería: 30 mAh Tiempo continuo de reproducción de audio: 4 h Tiempo de recarga de la batería (estuche de carga): 1 h Tecnología de la batería (estuche de carga): Polímero de litio Capacidad de la batería (estuche de carga): 300 mAh Tiempo de conversación: 4 h Fuente de carga: USB Tiempo de reposo: 40 h Condiciones ambientales Intervalo de temperatura operativa: 0 - 40 °C Sostenibilidad Cumplimiento de sostenibilidad: Si Certificados de sostenibilidad: CE Peso y dimensiones Ancho: 16,8 mm Profundidad: 18,4 mm Altura: 34,3 mm Peso: 42 g Peso de auricular izquierdo: 3,4 g Peso de auricular derecho: 3,4 g Empaquetado Ancho del paquete: 46,8 mm Profundidad del paquete: 25 mm Altura del paquete: 48,9 mm Tipo de embalaje: Caja Contenido del embalaje Funda de carga: Si Capacidad del estuche de carga: 300 mAh Tipo de estuche de carga: Alámbrico Tipo de conector del estuche de carga: USB Tipo C Cables incluidos: USB Tipo C Características del proveedor Tiempo de carga: 30 min
-  Updated: 2025-12-13T11:36:34Z
+  Updated: 2025-12-20T01:52:28Z
   Vendor: CELLY
   Product Type: Todos los auriculares
   Availability: Available
@@ -5280,19 +5266,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/coolbox-deeplighting-auriculares-gaming-rgb-negros-a434c663-fc53-4b84-8721-25ee1fde98d8.jpg?v=1765017996
   Price: 39,99 € EUR
 - [Xiaomi Poco F6 Pro 5G 12GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/xiaomi-poco-f6-pro-5g-12gb-512gb-negro-black-dual-sim): POCO F6 Pro:  AMOLED Flow WQHD+ de 120 Hz Qualcomm Snapdragon 8 Gen 2 Triple cámara de 50 MP con OIS Batería 5000 mAh y carga turbo de 120 W Android 14, HyperOS Conexión 5G
-  Updated: 2025-12-16T21:30:26Z
+  Updated: 2025-12-19T01:40:11Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Black_Dual_SIM_-_Hifi_Media_Store-1001018.jpg?v=1723742435
   Price: 450,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Violeta (Cobalt Violet) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-violeta-cobalt-violet-dual-sim-sm-s921b-1): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-12-17T17:10:29Z
+  Updated: 2025-12-19T14:50:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Violeta_Cobalt_Violet_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995729.jpg?v=1719067424
-  Price: 702,99 € EUR
+  Price: 699,99 € EUR
 - [Dell Pro WL5024 - Auriculares Inalámbricos con ANC y Micrófono](https://hifimediastore.com/products/dell-pro-wl5024-auriculares-inalambricos-con-anc-y-microfono): Hazte escuchar con más nitidez Al utilizar un micrófono con cancelación de ruido basada en IA (IA-NC) que distingue entre la voz humana y los ruidos de fondo del entorno, te podrán escuchar con nitidez en todo momento. Escucha concentrada La versión híbrida de la cancelación activa del ruido (ANC) ha aumentado los niveles de cancelación del ruido para bloquear los sonidos no deseados. De este modo, el audio se vuelve más nítido y puedes meterte de lleno en lo que estás escuchando. Diseñado para ofrecer mayor facilidad de uso La diadema ajustable y las almohadillas de espuma con memoria en cuero sintético sustituibles garantizan la productividad y la comodidad durante las conferencias. Para comenzar, conéctate a un puerto USB-C o USB-A. Control al alcance de la mano Estos auriculares cuentan con unos prácticos controles de llamada en las copas y un micrófono de varilla independiente basado en IA que se puede desplegar rápidamente. Mueve la varilla hacia arriba o hacia abajo para responder, silenciar o activar llamadas y pliégala cuando no la utilices. Conectividad sin esfuerzo Carga sencillaDisfruta de hasta 78 horas de tiempo de escucha con una carga completa.Solo tienes que cargar el dispositivo colocándolo en la estación de acoplamiento de carga.Colaboración totalmente integradaEstos auriculares están certificados para Microsoft Teams (Open Office) y Zoom. Además de ser compatibles con las principales plataformas de comunicaciones unificadas.Conectividad multipuntoConecta hasta ocho dispositivos y emparéjalos sin esfuerzo y de forma segura con un solo clic gracias a Dell Pair. Disfruta de conectividad multipunto a través del Bluetooth 5.3 (compatible con LE Audio). Dell Pair Los auriculares se detectan de forma automática y se emparejan con un solo clic mediante Dell Pair, una forma sencilla y segura de conectar los auriculares al PC. Personaliza la configuración Dell Peripheral Manager permite al usuario realizar cambios en la configuración de audio y del dispositivo con opciones de personalización adicionales, como el modo de audio, el modo de cancelación activa del ruido, el modo de detección de auriculares puestos, la autopercepción, los valores predefinidos de salida de audio, la luz de actividad, el indicador de batería, etc. También puedes comprobar el estado de los auriculares, como los dispositivos conectados y el nivel de la batería. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Uso recomendado: Aviación/Control de tráfico aéreo Color del producto: Negro Tipo de auricular: Binaural Teclas de funcionamiento: Silencio, Volumen +, Volume - Control de volumen: Botón Tipo de control: Botones Longitud de cable: 1,5 m Dispone de Cable extraíble Dispone de Indicadores LED Dispone de BeamForming (conformación de haces) Dispone de Funciona con el Asistente de Google Dispone de Funciona con Apple Siri Puertos e Interfaces Tecnología de conectividad: Inalámbrico y alámbrico Dispone de Conexión USB Conector USB: USB Tipo C Dispone de Bluetooth Versión de Bluetooth: 5.3 Alcance inalámbrico: 30 m Auriculares Audífonos: Supraaural Potencia máxima de entrada: 50 mW Frecuencia de auricular: 20 - 20000 Hz Sensibilidad de auricular: 120 dB Unidad de disco: 4 cm Dispone de Filtrado de ruidos Tipo de reducción de ruido: Activo Micrófono Tipo de micrófono: Boom Frecuencia de micrófono: 100 - 14000 Hz Tipo de dirección de micrófono: Unidireccional número de micrófonos: 5 Batería Dispone de Batería Tipo de batería: Batería integrada Capacidad de batería: 750 mAh Tiempo continuo de reproducción de audio: 78 h Tiempo de conversación: 34 h Tiempo de recarga de la batería: 2,5 h Dispone de Carga rápida Fuente de carga: USB Requisitos del sistema Sistema operativo Windows soportado: Windows 10 x64, Windows 11 x64 Dispone de Sistema operativo MAC soportado Sistemas operativos móviles soportados: Android, iOS Condiciones ambientales Intervalo de temperatura operativa: 0 - 40 C Intervalo de temperatura de almacenaje: -5 - 45 C Peso y dimensiones Ancho: 150 mm Profundidad: 70 mm Altura: 190 mm Peso: 219 g Contenido del embalaje Adaptadores de audio incluidos: USB Cables incluidos: USB tipo C a USB tipo C Dispone de Funda
   Updated: 2025-12-13T11:36:38Z
   Vendor: DELL TECHNOLOGIES
@@ -5524,7 +5510,7 @@
   Availability: Available
   Price: 204,99 € EUR
 - [Google Pixel 8a 5G 8GB/256GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-8a-5g-8gb-256gb-negro-obsidian-dual-sim): Google Pixel 8a:  Pantalla OLED de 6,1", HDR10 Y 120Hz Procesador Google Tensor G3 Cámara trasera dual (64MP + 13MP) Batería de 4492mAh Corning Gorilla Glass 3 Android 14
-  Updated: 2025-12-17T16:15:17Z
+  Updated: 2025-12-20T22:25:11Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -5817,12 +5803,12 @@
   Availability: Available
   Price: 125,99 € EUR
 - [Honor 200 5G 12GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/honor-200-5g-12gb-512gb-negro-black-dual-sim): HONOR 200:  Pantalla AMOLED de 6,7" Triple cámara de 50MP Chip Snapdragon 7 Gen 3 Batería de 5200 mAh HONOR SuperCharge de 100W Android 14, MagicOS 8
-  Updated: 2025-12-16T10:16:57Z
+  Updated: 2025-12-20T22:25:16Z
   Vendor: Honor
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17515.jpg?v=1720745108
-  Price: 362,99 € EUR
+  Price: 354,99 € EUR
 - [Philips TAT3508BK/00 - Auriculares Intraurales Bluetooth con ANC](https://hifimediastore.com/products/philips-tat3508bk-00-auriculares-intraurales-bluetooth-con-anc): Reducción de ruido La reducción de ruido te aísla del ruido externo, incluido el viento, para que puedas centrarte en tus canciones o llamadas. Déjala en modo automático o usa la aplicación Philips Headphones para ajustarla. ¿Quieres oír más de lo que ocurre a tu alrededor? Toca un auricular para activar el modo de conciencia del exterior. Llamadas más nítidas allá donde vayas Durante las llamadas, un micrófono dedicado recoge el sonido de tu voz mientras un algoritmo de IA elimina el ruido de fondo del entorno que te rodea. Así, la persona con quien hables te oirá a ti y no el tráfico o las voces de la gente a tu alrededor. Bluetooth de nueva generación Estos auriculares funcionan con dispositivos compatibles con Bluetooth LE Audio y el códec LC3 para ofrecerte una conexión más estable y un sonido notablemente mejor. El sonido no se entrecortará al escuchar música o atender llamadas en zonas urbanas, y prácticamente no hay retardo al ver películas o jugar*. Distintivo de sonido de Philips Música, podcasts... Disfruta de todo lo que escuches. Estos auriculares realmente inalámbricos cuentan con unos controladores de 10 mm ajustados al distintivo sonido de Philips para que siempre disfrutes de un sonido cálido y natural con graves profundos. Estuche de carga compacto Llévate el pequeño estuche de carga en el bolsillo y tendrás los auriculares siempre listos para su uso. Permanecerán protegidos y se cargarán cuando no los estés usando. Además, el modo mono te permite usar cualquiera de los dos auriculares mientras el otro se carga. Fijación segura y cómoda en el oído Disfrutarás de una comodidad real gracias a las almohadillas de silicona suaves e intercambiables. Las almohadillas se insertan de forma segura en el canal auditivo, lo que crea un sellado perfecto que ayuda a reducir el ruido externo. Además, los tallos facilitan la inserción y extracción de estos tapones de auricular. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música Color del producto: Negro Tipo de auricular: Binaural Tipo de control: Tocar Longitud de cable: 0,2 m Funciones de protección: Resistente al agua Código IP (International Protection): IPX4 Dispone de Funciona con el Asistente de Google Dispone de Funciona con Apple Siri Tecnología ANC: Híbrido Modo de conciencia del exterior: Sí Reducción de ruido activa (ANC): Sí Reducción de ruido del viento automática: Sí Puertos e Interfaces Tecnología de conectividad: True Wireless Stereo (TWS) Dispone de Bluetooth Perfiles de Bluetooth: A2DP, AVRCP, HFP Versión de Bluetooth: 5.3 Alcance inalámbrico: 10 m Auriculares Audífonos: Intraaural Potencia máxima de entrada: 5 mW Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 32 Ohmios Sensibilidad de auricular: 95 dB Unidad de disco: 1 cm Tipo de controlador: Dinámico Dispone de Filtrado de ruidos Micrófono Tipo de micrófono: Integrado Batería Dispone de Batería Tipo de batería: Batería integrada Tecnología de batería: Polímero de litio Capacidad de batería: 55 mAh Tiempo continuo de reproducción de audio: 7 h Autonomía en reproducción continua de audio (con estuche de carga): 21 h Tecnología de la batería (estuche de carga): Polímero de litio Capacidad de la batería (estuche de carga): 400 mAh Tiempo de recarga de la batería: 2 h Dispone de Carga rápida Tiempo de carga rápida: 15 min Numero de baterías soportadas: 3 Peso y dimensiones Ancho: 25,2 mm Profundidad: 21,4 mm Altura: 25,5 mm Peso: 45 g Dimensiones de funda de carga (Ancho x Largo x Alto): 62,8 x 28,1 x 35,4 mm Estuche de carga: 66 g Empaquetado Ancho del paquete: 110 mm Profundidad del paquete: 42 mm Altura del paquete: 130 mm Peso del paquete: 113 g Tipo de embalaje: Caja Contenido del embalaje Dispone de Funda de carga Dispone de Guía de configuración rápida Cables incluidos: USB Tipo C Accesorios incluídos en el set: Almohadillas de espuma en tres tamaños Material de las almohadillas: Silicona Cantidad: 1
   Updated: 2025-12-13T11:37:04Z
   Vendor: PHILIPS
@@ -5830,7 +5816,7 @@
   Availability: Available
   Price: 74,99 € EUR
 - [Honor 200 Pro 5G 12GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/honor-200-pro-5g-12gb-512gb-negro-black-dual-sim): HONOR 200 Pro:  Pantalla AMOLED de 6,78" Triple cámara de 50MP Chip Snapdragon 8s Gen 3 Batería de 5200 mAh HONOR SuperCharge de 100W HONOR SuperCharge de 66W inalámbrica Android 14, MagicOS 8
-  Updated: 2025-12-13T11:37:05Z
+  Updated: 2025-12-19T20:30:22Z
   Vendor: Honor
   Product Type: Smartphone
   Availability: Available
@@ -6154,19 +6140,19 @@
   Availability: Available
   Price: 145,99 € EUR
 - [Samsung Galaxy Z Flip6 5G 12GB/512GB Azul (Blue) Dual SIM SM-F741B](https://hifimediastore.com/products/samsung-galaxy-z-flip6-5g-12gb-512gb-azul-blue-dual-sim-sm-f741b): Samsung Galaxy Z Flip6 5G Pantalla plegable de 67 Dynamic LTPO AMOLED 2X con 120Hz y HDR10 Pantalla frontal de 34 Super AMOLED con proteccion Gorilla Glass Victus 2 Chip Qualcomm Snapdragon 8 Gen 3 4 nm Camara dual de 50MP con IA y video en 4K
-  Updated: 2025-12-17T18:35:13Z
+  Updated: 2025-12-20T11:09:14Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17578.jpg?v=1722004892
-  Price: 871,99 € EUR
+  Price: 865,99 € EUR
 - [Samsung Galaxy Z Flip6 5G 12GB/512GB Gris (Silver Shadow) Dual SIM SM-F741B](https://hifimediastore.com/products/samsung-galaxy-z-flip6-5g-12gb-512gb-gris-silver-shadow-dual-sim-sm-f741b): Samsung Galaxy Z Flip6 5G Pantalla plegable de 67 Dynamic LTPO AMOLED 2X con 120Hz y HDR10 Pantalla frontal de 34 Super AMOLED con proteccion Gorilla Glass Victus 2 Chip Qualcomm Snapdragon 8 Gen 3 4 nm Camara dual de 50MP con IA y video en 4K
-  Updated: 2025-12-17T18:35:15Z
+  Updated: 2025-12-20T11:09:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17579.jpg?v=1722005232
-  Price: 871,99 € EUR
+  Price: 865,99 € EUR
 - [HyperX Cloud Stinger 2 - Auriculares Gaming Multiplataforma con Cable Negros](https://hifimediastore.com/products/hyperx-cloud-stinger-2-auriculares-gaming-multiplataforma-con-cable-negros): Con un nuevo diseño y 2 años de DTS Headphone:X Spatial Audio*, Cloud Stinger 2 mantiene los fundamentos de Cloud Stinger y los perfecciona. Aún pesando menos de 300 g, el Cloud Stinger 2 es liviano, pero también tiene un gran impacto de audio. Obtenga una respuesta de frecuencia amplia para que no se pierda las señales de audio importantes que delatan a sus oponentes. Tampoco escatima en comodidad, con espuma viscoelástica suave y piel sintética de primera calidad diseñada para jugar todo el día. Los jugadores apreciarán la pasión de HyperX por su oficio, que se manifiesta en características de calidad de vida como auriculares giratorios que facilitan tomar un descanso o el micrófono giratorio para silenciar que hace que silenciar el micrófono sea simple y obvio. Sus controles giratorios para silenciar el micrófono y el volumen están ubicados en los auriculares, agrupando todas las funciones de audio más importantes directamente en su cabeza para facilitar el acceso. El micrófono con cancelación pasiva de ruido es flexible, por lo que puede colocarlo con precisión para brindarle una comunicación clara con su equipo. Características: Auriculares DTS®: audio espacial X®: ¡Desbloquee la espacialización y localización de audio 3D precisas! El código de activación incluido proporciona 2 años de DTS® Headphone:X® Spatial Audio para mejorar la percepción, la conciencia y la inmersión. Comodidad exclusiva de HyperX: Con almohadillas de espuma viscoelástica y cuero sintético suave, Cloud Stinger 2 ofrece comodidad superior sin la etiqueta de precio de lujo. Sonido superior: Los controladores de 50 mm producen sonido con una respuesta de frecuencia amplia que lo ayuda a captar mejor las señales de audio y mejorar su entretenimiento de audio. Auriculares giratorios ajustables: Cuando esté listo para tomar un respiro rápido, los auriculares giratorios de 90° giran para que pueda descansar sobre su pecho. Controles de audio de fácil acceso: Con los controles de audio directamente en los auriculares, no tendrás que navegar por un laberinto de menús para ajustar el volumen. Experiencia de chat en el juego mejorada: Las funciones de calidad de vida de HyperX, como el micrófono giratorio para silenciar, están diseñadas para mejorar su experiencia de juego. Simplemente levante el micrófono y quítelo para saber que está en silencio. Especificaciones: Conductor: Dinámico, 50 mm con imanes de neodimio Factor de forma: sobre la oreja, circumaural, parte trasera cerrada Respuesta de frecuencia: 10 Hz - 28 kHz Sensibilidad: -40,5 dBV (1 V/Pa a 1 kHz) THD: ? 2% Tipo de marco: Plástico Almohadillas para los oídos: espuma viscoelástica y cuero sintético de primera calidad Elemento: micrófono de condensador electret Patrón polar: bidireccional, cancelación de ruido Sensibilidad: -40,5 dBV (1 V/Pa a 1 kHz) Conexiones y características Controles de audio: controles de audio integrados Peso: 0,60 libras Longitud del cable (imperial) y tipo: cable de auricular (2,0 mm), cable divisor de PC PC (3,5 mm)
   Updated: 2025-12-13T11:37:17Z
   Vendor: HYPERX
@@ -6379,7 +6365,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17631.jpg?v=1722004116
   Price: 825,99 € EUR
 - [Samsung Galaxy Z Flip6 5G 12GB/256GB Verde (Mint) Dual SIM SM-F741B](https://hifimediastore.com/products/samsung-galaxy-z-flip6-5g-12gb-256gb-verde-mint-dual-sim-sm-f741b): Samsung Galaxy Z Flip6 5G Pantalla plegable de 67 Dynamic LTPO AMOLED 2X con 120Hz y HDR10 Pantalla frontal de 34 Super AMOLED con proteccion Gorilla Glass Victus 2 Chip Qualcomm Snapdragon 8 Gen 3 4 nm Camara dual de 50MP con IA y video en 4K
-  Updated: 2025-12-13T11:37:22Z
+  Updated: 2025-12-19T15:00:37Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -6393,12 +6379,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17633.jpg?v=1722004295
   Price: 826,99 € EUR
 - [Samsung Galaxy Z Fold6 5G 12GB/256GB Rosa (Pink) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-256gb-rosa-pink-dual-sim-1): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion Disclaimer No incluye car
-  Updated: 2025-12-16T21:55:30Z
+  Updated: 2025-12-20T17:05:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17635.jpg?v=1721940338
-  Price: 1328,99 € EUR
+  Price: 1310,99 € EUR
 - [Razer Kraken X Lite - Auriculares Gaming 7.1 Multiplataforma](https://hifimediastore.com/products/razer-kraken-x-lite-auriculares-gaming-7-1-multiplataforma): Comodidad ultraligera para jugar sin parar. Nunca más volverás a estar agotado por el peso de tus auriculares. El Razer Kraken X Lite está diseñado para ser ultraligero, por lo que apenas sientes que tienes algo en la cabeza, incluso cuando experimentas un audio de juego superior para una experiencia realmente envolvente. El ultra ligero Razer Kraken X Lite es el auricular para juegos esencial construido con una comodidad superior, durabilidad y un sonido nítido. Aproveche el audio posicional preciso con sonido envolvente 7.1, mientras que los suaves cojines para los oídos y la diadema ajustable le permiten jugar con total comodidad. Características: 7.1 Sonido envolvente. Experimente el sonido envolvente 7.1 para un audio posicional preciso en cualquier entorno de juego, desde guerras explosivas sin cuartel u operaciones encubiertas sigilosas. *Solo disponible en Windows 10 de 64 bits. Peso ligero. Nunca te sientas abrumado. Diseñado para ser extremadamente liviano con solo 230 g, experimente un audio superior mientras juega durante horas sin que sus auriculares lo pesen. Micrófono cardioide plegable. Suprime el ruido de la parte posterior y los lados. El patrón de captación cardioide graba el sonido desde un ángulo más cerrado. Asegura que su voz se escuche claramente cuando habla y rechaza el ruido de los lados y la parte posterior de su micrófono. Almohadillas ovaladas y deslizador de auriculares ajustables. El diseño ovalado con cuero sintético crea un ajuste cómodo y una sensación lujosa. Un control deslizante de banda para la cabeza ajustable proporciona una mayor flexibilidad mientras es duradero para torcerse y doblarse con el tiempo. Controladores personalizados de 40mm. Para un sonido potente y claro con graves inmersivos. La claridad de sonido superior y los graves potentes simulan un amplio paisaje sonoro cuando se juega. Desde pasos sutiles hasta explosiones potentes, el audio del juego se entrega con detalles realistas. Conexión 3.5mm. Para compatibilidad multiplataforma. Juega en tu PC, PS4, Xbox One, Nintendo Switch y dispositivos móviles. Un cable divisor de extensión también proporciona acceso completo de audio y micrófono para puertos de entrada y salida separados. Especificaciones: Auriculares Respuesta de frecuencia: 12 Hz - 28 kHz Impedancia: 32 Ohm @ 1 kHz Sensibilidad (@ 1 kHz): TBD Controladores: 40 mm, con imanes de neodimio. Diámetro interno del audífono: 65 x 44 mm. Tipo de conexión: analógico 3.5 mm Longitud del cable: 1.3 m / 4.27 pies. Aprox. peso: 230g / 0.50lbs Almohadillas ovales: diseñadas para una cobertura total de la oreja con cuero sintético, para aislamiento y comodidad del sonido. Micrófono Respuesta de frecuencia: 100 Hz - 10 kHz Relación señal / ruido: 60 dB Sensibilidad (@ 1 kHz): -45 ± 3 dB Patrón de recogida: auge de ECM unidireccional Compatibilidad Dispositivos con conector de audio de 3,5 mm Uso de audio + micrófono: dispositivos con conector combinado de audio + micrófono de 3,5 mm Uso del cable del adaptador del divisor de audio / micrófono: dispositivos con conectores de audio y micrófono separados de 3.5 mm Sonido envolvente: solo disponible en Windows 10 de 64 bits.
   Updated: 2025-12-13T11:37:23Z
   Vendor: RAZER
@@ -6508,28 +6494,35 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/2266-xiaomi-redmi-buds-5-auriculares-inalambricos-bluetooth-blanco-comprar_df88c4ee-15af-4434-8d65-de3d71e632e3.jpg?v=1765018311
   Price: 71,99 € EUR
 - [Samsung Galaxy Z Fold6 5G 12GB/256GB Azul Oscuro (Navy) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-256gb-azul-oscuro-navy-dual-sim): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion No incluye cargador ni aur
-  Updated: 2025-12-18T00:00:36Z
+  Updated: 2025-12-20T23:25:27Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17676.jpg?v=1722295209
   Price: 1341,99 € EUR
 - [Samsung Galaxy Z Fold6 5G 12GB/256GB Gris (Silver Shadow) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-256gb-gris-silver-shadow-dual-sim): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion No incluye cargador ni aur
-  Updated: 2025-12-16T23:13:48Z
+  Updated: 2025-12-18T06:45:13Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17681.jpg?v=1722295218
   Price: 1325,99 € EUR
 - [Samsung Galaxy Z Fold6 5G 12GB/512GB Azul Oscuro (Navy) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-512gb-azul-oscuro-navy-dual-sim): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion No incluye cargador ni aur
-  Updated: 2025-12-17T17:25:11Z
+  Updated: 2025-12-19T15:05:06Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17686.jpg?v=1722295228
   Price: 1417,99 € EUR
+- [Samsung Galaxy Z Fold6 5G 12GB/512GB Rosa (Pink) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-512gb-rosa-pink-dual-sim): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion No incluye cargador ni aur
+  Updated: 2025-12-19T15:05:06Z
+  Vendor: Samsung
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17691.jpg?v=1722301507
+  Price: 1699,99 € EUR
 - [Samsung Galaxy Z Fold6 5G 12GB/512GB Gris (Silver Shadow) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-512gb-gris-silver-shadow-dual-sim): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion No incluye cargador ni aur
-  Updated: 2025-12-16T21:55:36Z
+  Updated: 2025-12-19T22:16:00Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -6847,7 +6840,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17831.jpg?v=1723086908
   Price: 316,99 € EUR
 - [OPPO Reno12 5G 12GB/256GB Plata (Astro Silver) Dual SIM](https://hifimediastore.com/products/oppo-reno12-5g-12gb-256gb-plata-astro-silver-dual-sim): OPPO Reno12 5G:  Pantalla AMOLED de 6,7" FHD+ con HDR10+ y 120Hz Cámara triple de 50MP Grabación de vídeo en 4K Chip MediaTek Dimensity 7300 Energy Carga rápida SUPERVOOC de 80W IP65 resistente al agua y al polvo Inteligencia Artificial
-  Updated: 2025-12-16T21:30:12Z
+  Updated: 2025-12-18T19:10:12Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -6926,13 +6919,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17904.jpg?v=1723749523
   Price: 125,99 € EUR
-- [Realme 12 5G 8GB/256GB Verde (Woodland Green) Dual SIM](https://hifimediastore.com/products/realme-12-5g-8gb-256gb-verde-woodland-green-dual-sim): Realme 12 5G:  Pantalla FHD+ de 120 Hz Procesador Dimensity 6100+ 5G Cámara para retratos de 108 MP con zoom 3x Batería de 5000 mAh Carga SUPERVOOC de 45W Realme UI 5.0 Diseño inspirado en los relojes de lujo Resistencia IP54
-  Updated: 2025-12-16T21:35:11Z
-  Vendor: Realme
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17972.jpg?v=1723688739
-  Price: 240,99 € EUR
 - [Samsung Galaxy Tab S9 5G 11,0" 8GB/128GB Beige (Beige) X716B](https://hifimediastore.com/products/samsung-galaxy-tab-s9-5g-110-8gb-128gb-beige-beige-x716b): Samsung Galaxy Tab S9:  Resistente al agua y al polvo IP68 S Pen con certificación IP68 Pantalla Dynamic AMOLED 2X con Vision Booster Procesador Snapdragon 8 Gen 2 Batería 8400 mAh Android 13, One UI 5.1
   Updated: 2025-12-13T11:37:47Z
   Vendor: Samsung
@@ -6941,40 +6927,54 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14106.jpg?v=1723762525
   Price: 722,99 € EUR
 - [Lenovo Tab M11 11" 4GB/128GB LTE Gris (Luna Grey) with Pen](https://hifimediastore.com/products/lenovo-tab-m11-11-4gb-128gb-lte-gris-luna-grey-with-pen): Lenovo Tab M11:  Pantalla IPS LCD 11" Chip MediaTek Helio G88 (12 nm) Sonido envolvente Dolby Atmos Batería de 7040 mAh y carga rápida de 15W Cámara de 8MP + 8MP de cámara frontal Bluetooth + Wi-Fi + 4G Android 13
-  Updated: 2025-12-17T23:10:41Z
+  Updated: 2025-12-18T20:05:30Z
   Vendor: Lenovo
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15074.jpg?v=1723763435
-  Price: 235,99 € EUR
+  Price: 230,99 € EUR
 - [Lenovo Tab M11 11" 4GB/128GB Wi-Fi Gris (Luna Grey) with Pen](https://hifimediastore.com/products/lenovo-tab-m11-11-4gb-128gb-wi-fi-gris-luna-grey-with-pen): Lenovo Tab M11:  Pantalla IPS LCD 11" Chip MediaTek Helio G88 (12 nm) Sonido envolvente Dolby Atmos Batería de 7040 mAh y carga rápida de 15W Cámara de 8MP + 8MP de cámara frontal Bluetooth + Wi-Fi Android 13
-  Updated: 2025-12-17T16:30:38Z
+  Updated: 2025-12-20T22:45:10Z
   Vendor: Lenovo
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15077.jpg?v=1723763441
   Price: 184,99 € EUR
 - [Samsung Galaxy Tab Active5 5G 8,0" 6GB/128GB Verde (Green) Enterprise Edition Dual SIM SM-X306B](https://hifimediastore.com/products/samsung-galaxy-tab-active5-5g-80-6gb-128gb-verde-green-enterprise-edition-dual-sim-sm-x306b): Galaxy Tab Active5 5G Pantalla 80 TFT LCD Corning Gorilla Glass 5 Android 14 Procesador Octa core Hasta 1TB Almacenamiento externo Resistente al agua y al polvo IP68 MIL STD 810H Conexion 5G Wi Fi GPS Bluetooth 53 NFC Jack 35 mm Bateria extra
-  Updated: 2025-12-13T11:37:50Z
+  Updated: 2025-12-20T04:25:54Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15633.jpg?v=1723763726
-  Price: 441,99 € EUR
+  Price: 469,99 € EUR
 - [Samsung Galaxy Tab Active5 5G 8,0" 8GB/256GB Verde (Green) Enterprise Edition Dual SIM SM-X306B](https://hifimediastore.com/products/samsung-galaxy-tab-active5-5g-80-8gb-256gb-verde-green-enterprise-edition-dual-sim-sm-x306b): Galaxy Tab Active5 5G Pantalla 80 TFT LCD Corning Gorilla Glass 5 Android 14 Procesador Octa core Hasta 1TB Almacenamiento externo Resistente al agua y al polvo IP68 MIL STD 810H Conexion 5G Wi Fi GPS Bluetooth 53 NFC Jack 35 mm Bateria extra
-  Updated: 2025-12-17T23:50:11Z
+  Updated: 2025-12-19T21:20:20Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15960.jpg?v=1723764026
-  Price: 515,99 € EUR
+  Price: 504,99 € EUR
+- [Samsung Galaxy Tab S6 Lite 2024 10,4" 4GB/64GB Wi-Fi Gris (Oxford Gray) P620](https://hifimediastore.com/products/samsung-galaxy-tab-s6-lite-2024-104-4gb-64gb-wi-fi-gris-oxford-gray-p620): Samsung Galaxy Tab S6 Lite 2024:  Procesador Octa-Core Qualcomm Snapdragon 720G (8 nm) Pantalla 10,4" LCD FHD+ Cámara Principal 8 MP, HDR y vídeo 1080 p Batería 7040 mAh y carga rápida de 15W Android 14, One UI 6.1
+  Updated: 2025-12-20T10:45:12Z
+  Vendor: Samsung
+  Product Type: Tablet's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/16011.jpg?v=1723764053
+  Price: 275,99 € EUR
 - [Xiaomi Redmi Pad Pro 12,1" 8GB/256GB Wi-Fi Azul (Ocean Blue)](https://hifimediastore.com/products/xiaomi-redmi-pad-pro-121-8gb-256gb-wi-fi-azul-ocean-blue): Xiaomi Redmi Pad Pro:  Pantalla 2,5K de 120 Hz y 12,1" Chip Qualcomm Snapdragon 7s Gen 2 Batería de 10.000 mAh y carga rápida de 33W Cuatro Altavoces compatibles con Dolby Atmos Conector para auriculares de 3,5 mm Android 14, HyperOS
-  Updated: 2025-12-16T22:15:31Z
+  Updated: 2025-12-19T15:20:30Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/16705.jpg?v=1723765273
-  Price: 290,99 € EUR
+  Price: 302,99 € EUR
+- [Samsung Galaxy Tab S6 Lite 2024 4G 10,4" 4GB/64GB Gris (Oxford Gray) P625](https://hifimediastore.com/products/samsung-galaxy-tab-s6-lite-2024-4g-104-4gb-64gb-gris-oxford-gray-p625): Samsung Galaxy Tab S6 Lite 2024:  Procesador Octa-Core Qualcomm Snapdragon 720G (8 nm) Pantalla 10,4" LCD FHD+ Cámara Principal 8 MP, HDR y vídeo 1080 p Batería 7040 mAh y carga rápida de 15W Android 14, One UI 6.1 Conexión 4G
+  Updated: 2025-12-18T07:28:11Z
+  Vendor: Samsung
+  Product Type: Tablet's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/16873.jpg?v=1723765866
+  Price: 302,99 € EUR
 - [Samsung Galaxy Tab A9 8,7" 4GB/64GB WiFi Gris (Graphite) X110](https://hifimediastore.com/products/samsung-galaxy-tab-a9-87-4gb-64gb-wifi-gris-graphite-x110): Samsung Galaxy Tab A9 Pantalla TFT LCD 87 Camara Principal 8MP y Camara delantera 2MP Android 12 One UI 51 Octacore Mediatek Helio G99 Amplicion de memoria hata 1 TB Bateria 5100 mAh con carga rapida 15W Wi Fi Bluetooth 53 GPS USB Tipo C 20
   Updated: 2025-12-16T23:09:00Z
   Vendor: Samsung
@@ -6997,14 +6997,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17148.jpg?v=1723770629
   Price: 589,99 € EUR
 - [Xiaomi Redmi Pad Pro 12,1" 6GB/128GB Wi-Fi Gris (Graphite Gray)](https://hifimediastore.com/products/xiaomi-redmi-pad-pro-121-6gb-128gb-wi-fi-gris-graphite-gray): Xiaomi Redmi Pad Pro:  Pantalla 2,5K de 120 Hz y 12,1" Chip Qualcomm Snapdragon 7s Gen 2 Batería de 10.000 mAh y carga rápida de 33W Cuatro Altavoces compatibles con Dolby Atmos Conector para auriculares de 3,5 mm Android 14, HyperOS
-  Updated: 2025-12-17T17:40:36Z
+  Updated: 2025-12-19T22:12:16Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17265.jpg?v=1723770669
-  Price: 257,99 € EUR
+  Price: 245,99 € EUR
 - [Samsung Galaxy Tab Active5 8" 6GB/128GB WiFi Verde (Green) Enterprise Edition Dual SIM SM-X300B](https://hifimediastore.com/products/samsung-galaxy-tab-active5-8-6gb-128gb-wifi-verde-green-enterprise-edition-dual-sim-sm-x300b): Galaxy Tab Active5 Pantalla 80 TFT LCD Corning Gorilla Glass 5 Android 14 Procesador Octa core Hasta 1TB Almacenamiento externo Resistente al agua y al polvo IP68 MIL STD 810H Wi Fi Bluetooth 53 NFC Jack 35 mm Bateria extraible de 5050 mAh con
-  Updated: 2025-12-17T23:50:11Z
+  Updated: 2025-12-19T14:50:11Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -7017,41 +7017,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17882.jpg?v=1723771014
   Price: 476,99 € EUR
-- [Xiaomi Redmi Pad SE 11" 4GB/128GB Wi-Fi Verde (Mint Green) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-4gb-128gb-wi-fi-verde-mint-green-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-12-16T22:15:31Z
-  Vendor: Xiaomi
-  Product Type: Tablet's
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/11772.jpg?v=1723769449
-  Price: 217,99 € EUR
 - [Samsung Galaxy Tab S9 FE 5G 10,9" 6GB/128GB Gris (Grey) X516](https://hifimediastore.com/products/samsung-galaxy-tab-s9-fe-5g-109-6gb-128gb-gris-grey-x516): Samsung Galaxy Tab S9 FE:  Pantalla LCD IPS de 10,9" Cámara selfie de 12MP Batería de 8000 mAh Carga rápida de 45W Android 13, One UI 5.1 IP68 resistente al polvo y al agua
-  Updated: 2025-12-16T22:32:44Z
+  Updated: 2025-12-19T21:25:23Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12204.jpg?v=1723769483
   Price: 468,99 € EUR
 - [Samsung Galaxy Tab S9 5G 11,0" 8GB/128GB Gris (Graphite) X716B](https://hifimediastore.com/products/samsung-galaxy-tab-s9-5g-110-8gb-128gb-gris-graphite-x716b): Samsung Galaxy Tab S9:  Resistente al agua y al polvo IP68 S Pen con certificación IP68 Pantalla Dynamic AMOLED 2X con Vision Booster Procesador Snapdragon 8 Gen 2 Batería 8400 mAh Android 13, One UI 5.1
-  Updated: 2025-12-17T23:50:21Z
+  Updated: 2025-12-20T13:40:55Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12212.jpg?v=1723769709
-  Price: 722,99 € EUR
-- [Samsung Galaxy Tab S9 11,0" 8GB/128GB WiFi Gris (Graphite) X710N](https://hifimediastore.com/products/samsung-galaxy-tab-s9-110-8gb-128gb-wifi-gris-graphite-x710n): Samsung Galaxy Tab S9:  Resistente al agua y al polvo IP68 S Pen con certificación IP68 Pantalla Dynamic AMOLED 2X con Vision Booster Procesador Snapdragon 8 Gen 2 Batería 8400 mAh Android 13, One UI 5.1
-  Updated: 2025-12-17T23:50:26Z
-  Vendor: Samsung
-  Product Type: Tablet's
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12363.jpg?v=1724674337
-  Price: 529,99 € EUR
+  Price: 699,99 € EUR
 - [Samsung Galaxy Tab Active4 Pro 10,1" 6GB/128GB 5G Negro (Black) Enterprise Edition Dual SIM SM-T636B](https://hifimediastore.com/products/samsung-galaxy-tab-active4-pro-101-6gb-128gb-5g-negro-black-enterprise-edition-dual-sim-sm-t636b): Galaxy Tab Active4 Pro Pantalla 101 TFT LCD Corning Gorilla Glass 5 Android 12 Qualcomm SM7325 Snapdragon 778G 5G 6 nm CPU Octa core Hasta 1TB Almacenamiento externo Resistente al agua y al polvo IP68 MIL STD 810H Resistencias a caidas sobre h
-  Updated: 2025-12-18T00:00:31Z
+  Updated: 2025-12-19T21:39:21Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12829.jpg?v=1723876750
-  Price: 630,99 € EUR
+  Price: 605,99 € EUR
 - [Samsung Galaxy Tab Active4 Pro 5G 10,1" 4GB/64GB Negro (Black) Dual SIM Enterprise Edition SM-T636B](https://hifimediastore.com/products/samsung-galaxy-tab-active4-pro-5g-101-4gb-64gb-negro-black-dual-sim-enterprise-edition-sm-t636b): Galaxy Tab Active4 Pro Pantalla 101 TFT LCD Corning Gorilla Glass 5 Android 12 Qualcomm SM7325 Snapdragon 778G 5G 6 nm CPU Octa core Hasta 1TB Almacenamiento externo Resistente al agua y al polvo IP68 MIL STD 810H Resistencias a caidas sobre h
   Updated: 2025-12-16T21:55:26Z
   Vendor: Samsung
@@ -7060,77 +7046,63 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12834.jpg?v=1723769785
   Price: 543,99 € EUR
 - [Xiaomi Redmi Pad SE 11" 4GB/128GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-4gb-128gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-12-17T04:55:03Z
+  Updated: 2025-12-20T23:45:32Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/11767.jpg?v=1723776608
-  Price: 217,99 € EUR
+  Price: 202,99 € EUR
 - [Google Pixel 9 5G 12GB/128GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-128gb-negro-obsidian-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
-  Updated: 2025-12-17T22:55:12Z
+  Updated: 2025-12-18T01:09:35Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18123.jpg?v=1724781908
-  Price: 671,99 € EUR
-- [Google Pixel 9 5G 12GB/256GB Beige (Porcelain) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-256gb-beige-porcelain-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
-  Updated: 2025-12-17T16:15:16Z
-  Vendor: Google
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18141.jpg?v=1724962209
-  Price: 825,99 € EUR
+  Price: 657,99 € EUR
 - [Google Pixel 9 5G 12GB/256GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-256gb-negro-obsidian-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
-  Updated: 2025-12-14T23:45:13Z
+  Updated: 2025-12-19T01:00:21Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18146.jpg?v=1724962221
   Price: 831,99 € EUR
 - [Google Pixel 9 Pro XL 5G 16GB/512GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-xl-5g-16gb-512gb-negro-obsidian-dual-sim): Google Pixel 9 Pro XL:  Pantalla Super Actua OLED de 6,8", HDR10+ Y 120Hz Procesador Google Tensor G4 La mejor Cámara Pixel La IA más avanzada Batería de 5060 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-12-16T23:17:41Z
+  Updated: 2025-12-19T20:30:20Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18161.jpg?v=1724962253
-  Price: 1193,99 € EUR
+  Price: 1178,99 € EUR
 - [Xiaomi Redmi Buds 4 Auriculares Bluetooth Azul (Light Blue)](https://hifimediastore.com/products/xiaomi-redmi-buds-4-auriculares-bluetooth-azul-light-blue): REDMI BUDS 4 Anulacion de ruido activa hibrida de hasta 35 dB 3 opciones de nivel de ANC y modo ANC adaptativo Reduccion de ruido por IA Unidad de diafragma dinamico de 10 mm diafragma ultrafino de 0006 mm Hasta 30 horas de bateria con estuche Contro
-  Updated: 2025-12-17T20:56:54Z
+  Updated: 2025-12-20T04:30:26Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/10749.jpg?v=1725045332
   Price: 28,99 € EUR
 - [Xiaomi Redmi Buds 4 Lite Auriculares Bluetooth Blancos (White) M2231E1](https://hifimediastore.com/products/xiaomi-redmi-buds-4-lite-auriculares-bluetooth-blancos-white-m2231e1): REDMI BUDS 4 LITE:  Bluetooth Resistencia al polvo y al agua IP54 Compatible con Google Fast Pair Anulación de ruido con IA Control táctil
-  Updated: 2025-12-17T04:45:36Z
+  Updated: 2025-12-20T23:50:21Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/10756.jpg?v=1725045347
-  Price: 27,99 € EUR
-- [Apple AirPods Max Bluetooth Azul Cielo (Sky Blue) MGYL3](https://hifimediastore.com/products/apple-airpods-max-bluetooth-azul-cielo-sky-blue-mgyl3): AirPods Max Sonido de alta fidelidad Cancelacion activa de ruido y modo de sonido ambiente Audio espacila personalizado con seguimiento dinamico de la cabeza Diseno innovador con un ajuste excepcional Hasta 20 horas de reproduccion de audio reproducci
-  Updated: 2025-12-17T16:35:11Z
-  Vendor: Apple
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13578.jpg?v=1725046823
-  Price: 722,99 € EUR
+  Price: 25,99 € EUR
 - [Xiaomi Redmi Buds 5 Pro Auriculares Bluetooth Blanco (Midnight White)](https://hifimediastore.com/products/xiaomi-redmi-buds-5-pro-auriculares-bluetooth-blanco-midnight-white): Xiaomi Redmi Buds 5 Pro:  Sonido de alta resolución Anulación de ruido activa de hasta 52 dB Hasta 38h de batería con estuche de carga Sonido envolvente integrado Anulación de ruido de frecuencia ultra amplia de hasta 4 kHz
-  Updated: 2025-12-16T02:45:26Z
+  Updated: 2025-12-20T23:45:22Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14083.jpg?v=1725047108
   Price: 65,99 € EUR
 - [Apple Airpods Pro 2ª Gen Auriculares Inalámbricos Blancos con estuche de carga MagSafe (USB-C) - MTJV3ZM/A](https://hifimediastore.com/products/apple-airpods-pro-2-gen-auriculares-inalambricos-blancos-con-estuche-de-carga-magsafe-usb-c-mtjv3zm-a): Airpods Pro 2ª Gen:  Nuevo Audio Adaptativo Cancelación de ruido activa superior Audio espacial personalizado Estuche de carga MagSafe Hasta 6h de reproducción con una sola carga Calificación IP54 al polvo, agua y sudor
-  Updated: 2025-12-17T23:20:21Z
+  Updated: 2025-12-19T02:30:33Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14795.jpg?v=1725047425
-  Price: 252,99 € EUR
+  Price: 248,99 € EUR
 - [Google Pixel Buds Pro Auriculares Bluetooth Azul (Heavenly)](https://hifimediastore.com/products/google-pixel-buds-pro-auriculares-bluetooth-azul-heavenly): Google Pixel Buds Pro Cancelacion de Ruido Activa con Silent Seal Altavoz de 11 mm Ecualizador de 5 bandas Modo Sonido Ambiente Almohadillas flexibles Sensores para la presion del canal auditivo Microfonos con conformacion de haces Acelerometro de voz
-  Updated: 2025-12-13T11:38:08Z
+  Updated: 2025-12-19T07:25:15Z
   Vendor: Google
   Product Type: Bluetooth
   Availability: Available
@@ -7157,13 +7129,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15875.jpg?v=1725047733
   Price: 242,99 € EUR
-- [Xiaomi Redmi Buds 5 Pro Auriculares Bluetooth Violeta (Aurora Purple)](https://hifimediastore.com/products/xiaomi-redmi-buds-5-pro-auriculares-bluetooth-violeta-aurora-purple): Xiaomi Redmi Buds 5 Pro:  Sonido de alta resolución Anulación de ruido activa de hasta 52 dB Hasta 38h de batería con estuche de carga Sonido envolvente integrado Anulación de ruido de frecuencia ultra amplia de hasta 4 kHz
-  Updated: 2025-12-17T18:24:16Z
-  Vendor: Xiaomi
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/16268.jpg?v=1725048324
-  Price: 46,99 € EUR
 - [Huawei FreeClip Auriculares Inalámbricos Negro (Black)](https://hifimediastore.com/products/huawei-freeclip-auriculares-inalambricos-negro-black): Huawei FreeClip Elegante diseno ergonomico Sistema de cancelacion de ruido inteligente Hasta 36 horas de duracion de la bateria con el estuche de carga Escucha Subversiva Open ear Proteccion IP54 contra el Polvo y Salpicaduras Llamadas nitidas mediante
   Updated: 2025-12-17T23:00:22Z
   Vendor: Huawei
@@ -7172,19 +7137,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17138.jpg?v=1725048624
   Price: 162,99 € EUR
 - [Huawei FreeClip Auriculares Inalámbricos Beige (Beige)](https://hifimediastore.com/products/huawei-freeclip-auriculares-inalambricos-beige-beige): Huawei FreeClip Elegante diseno ergonomico Sistema de cancelacion de ruido inteligente Hasta 36 horas de duracion de la bateria con el estuche de carga Escucha Subversiva Open ear Proteccion IP54 contra el Polvo y Salpicaduras Llamadas nitidas mediante
-  Updated: 2025-12-17T16:20:13Z
+  Updated: 2025-12-20T04:37:57Z
   Vendor: Huawei
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17213.jpg?v=1725048645
-  Price: 162,99 € EUR
+  Price: 160,99 € EUR
 - [Samsung Galaxy Buds3 Auriculares Bluetooth Blanco (White) SM-R530](https://hifimediastore.com/products/samsung-galaxy-buds3-auriculares-bluetooth-blanco-white-sm-r530): Galaxy Buds3:  Diseño totalmente novedoso Bluetooth 5.4 Driver dinámico de 11mm Capacidad de la Batería (auricular); 48 mAh Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-12-18T00:00:27Z
+  Updated: 2025-12-20T23:25:21Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17861.jpg?v=1725048937
-  Price: 106,99 € EUR
+  Price: 103,99 € EUR
 - [Xiaomi Redmi Buds 6 Active Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-active-auriculares-bluetooth-negro-black): Xiaomi Redmi Buds 6 Active Bluetooth 54 Cinco ajustes de ecualizacion Controlador dinamico de 142 mm Bateria de hasta 30 horas de duracion Escucha hasta 2h de musica con una carga de 5 minutos Cancelacion de ruido del viento de hasta 4 m s Conectivid
   Updated: 2025-12-16T15:45:30Z
   Vendor: Xiaomi
@@ -7200,7 +7165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18018.jpg?v=1725048954
   Price: 29,99 € EUR
 - [Samsung Galaxy Buds3 Pro Auriculares Bluetooth Plata (Silver) SM-R630](https://hifimediastore.com/products/samsung-galaxy-buds3-pro-auriculares-bluetooth-plata-silver-sm-r630): Galaxy Buds3 Pro:  Diseño ergonómico totalmente novedoso Bluetooth 5.4 Cancelación Activa de Ruido Capacidad de la Batería (auricular); 53 mAh Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-12-18T00:00:26Z
+  Updated: 2025-12-20T23:25:21Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
@@ -7220,20 +7185,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18099.jpg?v=1725049009
   Price: 33,99 € EUR
+- [Google Pixel Buds Pro Negro Carbón (Charcoal)](https://hifimediastore.com/products/google-pixel-buds-pro-negro-carbon-charcoal): Google Pixel Buds Pro Cancelacion de Ruido Activa con Silent Seal Altavoz de 11 mm Ecualizador de 5 bandas Modo Sonido Ambiente Almohadillas flexibles Sensores para la presion del canal auditivo Microfonos con conformacion de haces Acelerometro de voz
+  Updated: 2025-12-19T20:30:10Z
+  Vendor: Google
+  Product Type: Bluetooth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/3183.jpg?v=1725049583
+  Price: 105,99 € EUR
 - [Apple iPhone 16 128GB Azul Ultramar (Ultramarine)](https://hifimediastore.com/products/apple-iphone-16-128gb-azul-ultramar-ultramarine): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-13T11:38:14Z
+  Updated: 2025-12-19T20:45:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18263.jpg?v=1726095908
   Price: 941,99 € EUR
 - [Apple iPhone 16 128GB Verde Azulado (Teal)](https://hifimediastore.com/products/apple-iphone-16-128gb-verde-azulado-teal): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:33Z
+  Updated: 2025-12-20T16:15:12Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18267.jpg?v=1726095916
-  Price: 949,99 € EUR
+  Price: 946,99 € EUR
 - [Apple iPhone 16 256GB Azul Ultramar (Ultramarine)](https://hifimediastore.com/products/apple-iphone-16-256gb-azul-ultramar-ultramarine): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
   Updated: 2025-12-13T11:38:15Z
   Vendor: Apple
@@ -7242,82 +7214,75 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18271.jpg?v=1726095924
   Price: 1113,99 € EUR
 - [OnePlus Nord Buds 3 Pro Auriculares Bluetooth Negro (Starry Black)](https://hifimediastore.com/products/oneplus-nord-buds-3-pro-auriculares-bluetooth-negro-starry-black): OnePlus Nord Buds 3 Pro:  Cancelación activa de ruido de hasta 49 dB Hasta 44 horas de reproducción Carga rápida Bluetooth 5.4 Control de volumen táctil Resistencia al agua y al polvo IP55
-  Updated: 2025-12-17T23:25:21Z
+  Updated: 2025-12-20T16:30:27Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18288.jpg?v=1726095959
   Price: 55,99 € EUR
 - [OnePlus Nord Buds 3 Pro Auriculares Bluetooth Verde (Soft Jade)](https://hifimediastore.com/products/oneplus-nord-buds-3-pro-auriculares-bluetooth-verde-soft-jade): OnePlus Nord Buds 3 Pro:  Cancelación activa de ruido de hasta 49 dB Hasta 44 horas de reproducción Carga rápida Bluetooth 5.4 Control de volumen táctil Resistencia al agua y al polvo IP55
-  Updated: 2025-12-17T23:25:23Z
+  Updated: 2025-12-20T03:30:22Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18293.jpg?v=1726095969
   Price: 55,99 € EUR
 - [Apple iPhone 16 256GB Verde Azulado (Teal)](https://hifimediastore.com/products/apple-iphone-16-256gb-verde-azulado-teal): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:21Z
+  Updated: 2025-12-20T16:15:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18298.jpg?v=1726120507
-  Price: 1072,99 € EUR
+  Price: 1166,99 € EUR
 - [OnePlus Buds Pro 3 Auriculares Bluetooth Negro (Midnight Opus)](https://hifimediastore.com/products/oneplus-buds-pro-3-auriculares-bluetooth-negro-midnight-opus): OnePlus Buds Pro 3:  Cancelación activa de ruido de hasta 50 dB Dynaudio Baja latencia de 94 ms Hasta 43 horas de reproducción Audio espacial con seguimiento de la cabeza Bluetooth 5.4 Resistencia al agua y al polvo IP55
-  Updated: 2025-12-13T11:38:15Z
+  Updated: 2025-12-20T22:55:23Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18307.jpg?v=1726170608
   Price: 143,99 € EUR
 - [OnePlus Buds Pro 3 Auriculares Bluetooth Blanco (Lunar Radiance)](https://hifimediastore.com/products/oneplus-buds-pro-3-auriculares-bluetooth-blanco-lunar-radiance): OnePlus Buds Pro 3:  Cancelación activa de ruido de hasta 50 dB Dynaudio Baja latencia de 94 ms Hasta 43 horas de reproducción Audio espacial con seguimiento de la cabeza Bluetooth 5.4 Resistencia al agua y al polvo IP55
-  Updated: 2025-12-17T23:25:21Z
+  Updated: 2025-12-20T03:30:21Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18312.jpg?v=1726170619
   Price: 148,99 € EUR
-- [Realme 12+ 5G 8GB/256GB Beige (Navigator Beige) Dual SIM](https://hifimediastore.com/products/realme-12-5g-8gb-256gb-beige-navigator-beige-dual-sim): Realme 12+:  Pantalla AMOLED de 120 Hz Procesador Dimensity 7050 5G Cámara para retratos Sony LYT-600 OIS Batería de 5000 mAh Carga SUPERVOOC de 67W Realme UI 5.0 Diseño inspirado en los relojes de lujo Resistencia IP54
-  Updated: 2025-12-17T23:40:10Z
-  Vendor: Realme
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18371.jpg?v=1726272344
-  Price: 234,99 € EUR
 - [Apple iPhone 16 128GB Rosa (Pink)](https://hifimediastore.com/products/apple-iphone-16-128gb-rosa-pink): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:13Z
+  Updated: 2025-12-19T22:22:19Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18381.jpg?v=1726504507
-  Price: 954,99 € EUR
+  Price: 946,99 € EUR
 - [Apple iPhone 16 128GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-16-128gb-blanco-white): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T18:42:23Z
+  Updated: 2025-12-19T22:22:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18385.jpg?v=1726504515
-  Price: 926,99 € EUR
+  Price: 932,99 € EUR
 - [Apple iPhone 16 256GB Rosa (Pink)](https://hifimediastore.com/products/apple-iphone-16-256gb-rosa-pink): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T16:30:17Z
+  Updated: 2025-12-18T05:50:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18389.jpg?v=1726504522
   Price: 1098,99 € EUR
 - [Apple iPhone 16 128GB Negro (Black)](https://hifimediastore.com/products/apple-iphone-16-128gb-negro-black): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:17Z
+  Updated: 2025-12-20T22:40:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18401.jpg?v=1726529707
   Price: 941,99 € EUR
 - [Apple iPhone 16 256GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-16-256gb-blanco-white): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:28Z
+  Updated: 2025-12-19T22:22:28Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18409.jpg?v=1726529724
-  Price: 1126,99 € EUR
+  Price: 1108,99 € EUR
 - [Apple iPhone 16 512GB Negro (Black)](https://hifimediastore.com/products/apple-iphone-16-512gb-negro-black): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
   Updated: 2025-12-16T21:10:16Z
   Vendor: Apple
@@ -7326,21 +7291,21 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18413.jpg?v=1726529732
   Price: 1285,99 € EUR
 - [Apple iPhone 16 Plus 256GB Negro (Black)](https://hifimediastore.com/products/apple-iphone-16-plus-256gb-negro-black): Apple iPhone 16 Plus:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:26Z
+  Updated: 2025-12-19T22:22:50Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18472.jpg?v=1726613140
-  Price: 1353,99 € EUR
+  Price: 1256,99 € EUR
 - [Apple iPhone 16 Pro 1TB Titano Desierto (Desert Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-1tb-titano-desierto-desert-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T16:30:17Z
+  Updated: 2025-12-19T20:45:22Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18500.jpg?v=1726613200
   Price: 1800,99 € EUR
 - [Apple iPhone 16 Pro 1TB Titano Negro (Black Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-1tb-titano-negro-black-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T18:43:14Z
+  Updated: 2025-12-19T20:45:20Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -7354,26 +7319,33 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18541.jpg?v=1726698035
   Price: 1651,99 € EUR
 - [Apple iPhone 16 Pro 512GB Titano Blanco (White Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-512gb-titano-blanco-white-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T18:43:22Z
+  Updated: 2025-12-20T17:45:19Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18557.jpg?v=1726698071
-  Price: 1678,99 € EUR
+  Price: 1600,99 € EUR
+- [Xiaomi Redmi Buds 6 Lite Auriculares Bluetooth Blanco (White)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-lite-auriculares-bluetooth-blanco-white): Xiaomi Redmi Buds 6 Lite Bluetooth 53 Cuatro ajustes de ecualizacion Diafragma de titanio de 124 mm Bateria de hasta 38 horas de duracion Escucha hasta 2h de musica con una carga de 10 minutos Anulacion de ruido activa de hasta 40 dB Conectividad int
+  Updated: 2025-12-19T15:20:26Z
+  Vendor: Xiaomi
+  Product Type: Bluetooth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18572.jpg?v=1726698102
+  Price: 34,99 € EUR
 - [Apple iPhone 16 Pro Max 512GB Titano Negro (Black Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-max-512gb-titano-negro-black-titanium): Apple iPhone 16 Pro Max Pantalla Super Retina XDR OLED Chip A18 Pro Control de camara Ultra gran angular de 48 MP Bateria de 4676 mAh Velocidad 5G Fabricado en Titanio de grado 5 iOS 18 Es posible que este iPhone no incluya cargador ni auriculares
-  Updated: 2025-12-13T11:38:19Z
+  Updated: 2025-12-19T01:15:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18611.jpg?v=1726857340
   Price: 1759,99 € EUR
 - [Google Pixel 9 Pro 5G 16GB/128GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-5g-16gb-128gb-negro-obsidian-dual-sim): Google Pixel 9 Pro:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-12-13T11:38:19Z
+  Updated: 2025-12-19T22:23:44Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18619.jpg?v=1726884916
-  Price: 940,99 € EUR
+  Price: 917,99 € EUR
 - [Google Pixel 9 5G 12GB/128GB Rosa (Peony) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-128gb-rosa-peony-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
   Updated: 2025-12-17T03:20:10Z
   Vendor: Google
@@ -7396,14 +7368,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18701.jpg?v=1727204736
   Price: 204,99 € EUR
 - [Apple iPhone 16 Pro Max 512GB Titanio Desierto (Desert Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-max-512gb-titanio-desierto-desert-titanium): Apple iPhone 16 Pro Max Pantalla Super Retina XDR OLED Chip A18 Pro Control de camara Ultra gran angular de 48 MP Bateria de 4676 mAh Velocidad 5G Fabricado en Titanio de grado 5 iOS 18 Es posible que este iPhone no incluya cargador ni auriculares
-  Updated: 2025-12-17T23:10:26Z
+  Updated: 2025-12-20T03:15:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18718.jpg?v=1727231725
   Price: 1757,99 € EUR
 - [Xiaomi Redmi Buds 6 Play Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-play-auriculares-bluetooth-negro-black): Xiaomi Redmi Buds 6 Play:  Bluetooth 5.4 Cinco ajustes de ecualización Controlador dinámico de 10 mm Batería de hasta 36 horas de duración Escucha hasta 3h de música con una carga de 10 minutos Reducción de ruido con IA Conectividad inteligente
-  Updated: 2025-12-17T18:44:16Z
+  Updated: 2025-12-19T02:20:31Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
@@ -7417,12 +7389,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18772.jpg?v=1727291712
   Price: 27,99 € EUR
 - [Nothing Phone 2a Plus 5G 12GB/256GB Gris (Grey) Dual SIM](https://hifimediastore.com/products/nothing-phone-2a-plus-5g-12gb-256gb-gris-grey-dual-sim): Nothing Phone 2a Plus:  MediaTek Dimensity 7350 Pro 5G Pantalla AMOLED de 6,7" Android 14, Nothing OS 2.6 Interfaz Glyph Cámara triple de 50 MP y vídeo en 4K Batería de 5000 mAh Carga rápida de 50W
-  Updated: 2025-12-17T23:25:13Z
+  Updated: 2025-12-18T20:34:18Z
   Vendor: Nothing Tech
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18819.jpg?v=1727457007
-  Price: 341,99 € EUR
+  Price: 333,99 € EUR
 - [Bose Ultra Open Earbuds - Auriculares Bluetooth de Diseño Abierto Plata](https://hifimediastore.com/products/bose-ultra-open-earbuds-auriculares-bluetooth-de-diseno-abierto-plata): Bose Ultra Open Earbuds, auriculares inalámbricos con diseño abierto, audio inmersivo, control táctil, resistencia IPX4, Bluetooth v5.3 y autonomía de hasta 27 horas, plata Los Bose Ultra Open Earbuds son unos auriculares inalámbricos con diseño abierto que combinan una excelente calidad de sonido con una gran comodidad y permiten escuchar lo que ocurre a tu alrededor. Incorporan botones táctiles en cada auricular que posibilitan cambiar de modo estéreo a modo inmersivo, pausar y reproducir fácilmente. Además, cuentan con función de volumen automático, adaptándose a los sonidos del entorno. Por otro lado, su estructura es resistente al agua y está equipada con un sistema de 4 micrófonos para llamadas manos libres. Todo esto con una batería con hasta 27 horas de autonomía con su estuche de carga. Diseño abierto con tecnología OpenAudio El diseño abierto de los Bose Ultra Open Earbuds posee una junta flexible y un agarre ligero que logra un ajuste perfecto a la oreja sin ejercer presión. Además, combina un reconocimiento de lo que sucede en el entorno con un sonido intenso y privado gracias a la tecnología OpenAudio. Función de volumen automático y controles integrados Los Ultra Open Earbuds incluyen controles en cada auricular para alternar entre el modo estéreo y el modo inmersivo, pausar y reproducir música. Asimismo, su control de volumen automático ajusta el mismo acorde al ruido del entorno. Protección IPX4 y Bluetooth v5.3 La estructura de estos auriculares Bose es resistente al agua con certificación IPX4, excelente para realizar actividad física al aire libre. Además, su conectividad Bluetooth v5.3 garantiza un emparejamiento estable, sin la molestia de cables. Batería con una gran autonomía de hasta 7,5 horas La batería de los Ultra Open Earbuds permite hasta 7,5 horas de reproducción continuas y hasta 19,5 horas extra con el estuche de carga. Su carga rápida brinda hasta 2 horas extra con 10 minutos de carga. Especificaciones: Marca: Bose Modelo: Ultra Open Earbuds Sonido: Tecnología OpenAudio Función de audio inmersivo 4 micrófonos por auricular Conexión inalámbrica: Bluetooth v5.3 Alcance: Hasta 9 metros Características: Resistencia al agua IPX4 Diseño abierto Llamadas manos libres Control táctil App Bose Music (Android e iOS) Batería: Tipo: Iones de litio Autonomía: Hasta 7,5 horas (Carga)/Hasta 27 horas (Caja de carga) Tiempo de carga: Hasta 1 hora (Auricular)/Hasta 3 horas (Caja de carga) Carga rápida: 10 minutos para 2 horas Método de carga: USB Tipo C Materiales: plástico, chapado de oro y silicona Dimensiones: Auriculares: 1,9 x 1,7 x 2,7 cm Caja de carga: 4,2 x 6,5 x 2,6 cm Color: Plata Contenido de la caja: 2 x Auriculares Bose Ultra Open Earbuds Plata (Izquierdo y derecho) 1 x Estuche de carga 1 x Cable USB Tipo C 30 cm 1 x Manual de usuario 1 x Ficha de seguridad
   Updated: 2025-12-13T11:38:20Z
   Vendor: Bose
@@ -7438,12 +7410,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/imagen_2024-09-27_225341608.png?v=1727470426
   Price: 375,99 € EUR
 - [Google Pixel 9 Pro XL 5G 16GB/128GB Verde Liquen (Hazel) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-xl-5g-16gb-128gb-verde-liquen-hazel-dual-sim): Google Pixel 9 Pro XL:  Pantalla Super Actua OLED de 6,8", HDR10+ Y 120Hz Procesador Google Tensor G4 La mejor Cámara Pixel La IA más avanzada Batería de 5060 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-12-16T14:20:21Z
+  Updated: 2025-12-20T22:25:11Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18975.jpg?v=1728094558
-  Price: 932,99 € EUR
+  Price: 917,99 € EUR
 - [Google Pixel 9 5G 12GB/128GB Beige (Porcelain) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-128gb-beige-porcelain-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
   Updated: 2025-12-17T03:20:10Z
   Vendor: Google
@@ -7477,13 +7449,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19174.jpg?v=1729897509
   Price: 111,99 € EUR
-- [Samsung Galaxy S24 FE 5G 8GB/256GB Gris (Graphite) Dual SIM SM-S721](https://hifimediastore.com/products/samsung-galaxy-s24-fe-5g-8gb-256gb-gris-graphite-dual-sim-sm-s721): Samsung Galaxy S24 FE Pantalla Dynamic AMOLED 2X de 67 Procesador Samsung Exynos 2400e Deca Core Camara Triple 50 MP 8 MP 12 MP y video en 8K Bateria de 4700 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la des
-  Updated: 2025-12-17T10:40:21Z
-  Vendor: Samsung
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19189.jpg?v=1729897539
-  Price: 650,99 € EUR
 - [Tv PHILIPS The Xtra  55" 55PML9008/12 Ambilight, MiniLED, Smart TV, 4K Ultra HD, TvOS](https://hifimediastore.com/products/tv-philips-the-xtra-55-55pml9008-12-ambilight-miniled-smart-tv-4k-ultra-hd-tvos): Con el Televisor 55PML9008/12 disfrutarás de imágenes muy nítidas gracias a su pantalla de 139,7 cm (55") y resolución 3840 x 2160 Pixeles. Además, con su conectividad WiFi y su característica de Smart TV no pongas límite a la programación de los canales convencionales, y combínala con el fácil acceso de tus aplicaciones, como Netflix, HBO o de juegos online y a tus consolas. ¡Diversión sin fronteras! Especificaciones: Tipo de dispositivo TV Mini LED 55 "" Tipo de pantalla Mini LED Tamaño pantalla (cm/pulg) 139 cm / 55 " Medidas sin peana 123.1 cm / 72.1 cm / 82 mm Calidad de imagen UHD 4K 3D No Tecnología 3D No Ultra HD Premium No Tipo de HDR Dolby Vision, HDR10, HDR10+, Hybrid Log-Gamma (HLG) Smart TV Sí Sistema Operativo SAPHI Procesador Philips P5 Inteligencia Artificial No Equipo de imagen Resolución 3840 x 2160 píxeles Frecuencia 120 Hz Frecuencia de fotogramas (velocidad de fotogramas nativa) 60 Hz Sistema de optimización de imagen 98% DCI(BT2020 73%) Formato de la pantalla 16:09 Retroiluminación LED Sí Tecnología LED Mini LED HDR Dolby Vision|HDR10+|HLG|HDR10 Brillo 1000 cd/m² USB grabador Sí Recepción Tipos de recepción DVB-T, DVB-T2 (H.264), DVB-T2 (H.265), DVB-C, DVB-C2, DVB-S, DVB-S2 Listo para WLAN Sí Sintonizador de Satelite integrado Si Certificado DLNA Sí Equipo Diseño Pantalla Plano HDMI-CEC Sí Ambilight Sí Versión Ambilight 3 Caras Lector de DVD No EPG Sí Servicios de streaming Amazon Prime Video, DAZN, Netflix, Youtube Picture in Picture (PiP) No Busqueda automática de canales Sí Calibración automática Calman Ready Bloqueo infantil Sí Modo hotel No Caract. especiales Sensor de luz Respetuoso del medio ambiente Sí Certificado CI+ Sí Control por voz Sí Compatible con la aplicación Sí Chromecast incorporado No Sonido Potencia musical 40 W Efectos de sonido Dolby Digital MS12 v2.6.1 Sistema de sonido 2 canales Subwoofer No Conexiones + puertos Conexiones Bluetooth|Ethernet|HDMI|RJ-45|USB|USB 2.0|WiFi Conectores HDMI 4 Puertos USB 3 Versión USB USB 2.0 Apto para internet Sí Plataforma compatible Amazon Alexa, Google Assistant Funciones de internet Smart TV, HbbTV Bluetooth Sí Wi-Fi Sí Características generales Ámbito de SmartHome Smart TV Sistema o compatible con el sistema H.264, MPEG1, VP9, MPEG2, H.265, MPEG4, HEVC, AVI, MKV Color (por fabricante) Negro Normativa VESA 300 x 300 mm Ancho sin peana 123.1 cm Altura sin peana 72.1 cm Profundidad sin peana 82 mm Medidas con peana 123.1 cm / 73.9 cm / 25.4 cm Ancho con peana 123.1 cm Alto con peana 73.9 cm Profundidad con peana 25.4 cm Peso sin soporte 14.3 kg Peso con soporte 14.6 kg Contenido TV Mini LED 55 " Serie 55PML9008/12 Datos de consumo de energía (EU 2017/1369) Identificador del modelo 55PML9008/12 Clase de eficiencia energética (EU 2017/1369) F Escala de eficiencia energética de la UE (UE 2017/1369) A-G Consumo de energía en modo ON (SDR) 77 W Consumo normal (SDR) en kWh/1000 horas 77 kWh Clase de eficiencia energética (HDR) G Consumo de energía en modo ON (HDR) 158 W Consumo HDR en kWh/1000 horas 158 kWh Consumo de energía en modo Stand-by 0.3 W Tipo de pantalla electrónica Televisor Relación de tamaño 16:9 Resolución de pantalla (píxeles) 3.840 x 2.160 Tamaño pantalla (cm) 139 cm Tamaño pantalla (pulgadas) 55 " Área de pantalla visible 82.3 dm² Tecnología de panel utilizada LED Control automático de brillo disponible No Sensor de reconocimiento de voz disponible No Sensor de presencia en la habitación disponible No Frecuencia de actualización de la imagen 120 Hz Tipo de fuente de alimentación Interno Fuente de alimentación estandarizada externa incluida (nombre estándar) CA 220-240 V (50/60 Hz)
   Updated: 2025-12-13T11:38:24Z
   Vendor: PHILIPS
@@ -7499,19 +7464,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/1785-philips-32phs5507-12-32-led-hd_ac916f2d-7ebf-434c-abc3-ca0374a95fd1.jpg?v=1765021152
   Price: 213,99 € EUR
 - [Apple Airpods 4 Bluetooth Blanco (White)](https://hifimediastore.com/products/apple-airpods-4-bluetooth-blanco-white): AirPods 4:  Chip H2 Aislamiento de voz Hasta 5 horas de reproducción con una sola carga Hasta 30 horas de reproducción de audio con estuche de carga Carga fácil con USB-C Bluetooth 5.3 Calificación IP54
-  Updated: 2025-12-17T22:40:11Z
+  Updated: 2025-12-20T21:01:27Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19194.jpg?v=1730138707
   Price: 158,99 € EUR
-- [Samsung Galaxy Tab S10+ 12,4" 12GB/512GB 5G Gris (Moonstone Gray) X826N](https://hifimediastore.com/products/samsung-galaxy-tab-s10-124-12gb-512gb-5g-gris-moonstone-gray-x826n): Samsung Galaxy Tab S10+:  Pantalla Dynamic AMOLED 2X de 12,4" Cámara principal dual de 13MP Cámara selfie de 12MP Batería de 10090 mAh Carga rápida de 45W Android 14, One UI 6.1 IP68 resistente al polvo y al agua
-  Updated: 2025-12-13T11:38:26Z
-  Vendor: Samsung
-  Product Type: Tablet's
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19294.jpg?v=1730316067
-  Price: 1717,99 € EUR
 - [Realme 12 4G 8GB/256GB Azul (Skyline Blue) Dual SIM](https://hifimediastore.com/products/realme-12-4g-8gb-256gb-azul-skyline-blue-dual-sim): Realme 12 4G:  Pantalla AMOLED de 120 Hz Procesador Qualcomm Snapdragon 685 Cámara para retratos Sony LYT-600 OIS Batería de 5000 mAh Carga SUPERVOOC de 67W Realme UI 5.0 Diseño inspirado en los relojes de lujo Resistencia IP54
   Updated: 2025-12-13T11:38:26Z
   Vendor: Realme
@@ -7555,56 +7513,63 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19672.jpg?v=1731687020
   Price: 1131,99 € EUR
 - [Samsung Galaxy Tab S10+ 12,4" 12GB/256GB Wi-Fi Gris (Moonstone Gray) X820N](https://hifimediastore.com/products/samsung-galaxy-tab-s10-124-12gb-256gb-wi-fi-gris-moonstone-gray-x820n): Samsung Galaxy Tab S10+:  Pantalla Dynamic AMOLED 2X de 12,4" Cámara principal dual de 13MP Cámara selfie de 12MP Batería de 10090 mAh Carga rápida de 45W Android 14, One UI 6.1 IP68 resistente al polvo y al agua
-  Updated: 2025-12-17T18:51:31Z
+  Updated: 2025-12-20T11:25:27Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19721.jpg?v=1732062018
-  Price: 931,99 € EUR
+  Price: 922,99 € EUR
+- [Google Pixel 9 Pro 5G 16GB/256GB Blanco (Porcelain) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-5g-16gb-256gb-blanco-porcelain-dual-sim): Google Pixel 9 Pro:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
+  Updated: 2025-12-19T01:00:20Z
+  Vendor: Google
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19855.jpg?v=1732747208
+  Price: 1055,99 € EUR
 - [Honor Magic Earbuds Auriculares Bluetooth Blancos (Pearl White)](https://hifimediastore.com/products/honor-magic-earbuds-auriculares-bluetooth-blancos-pearl-white): Honor Magic Earbuds:  Bluetooth 5.0 Cancelación de ruido activa Llamadas en manos libres mucho más nítidas Ajuste ligero y cómodo Controles táctiles 3h de reproducción de música
-  Updated: 2025-12-17T18:52:21Z
+  Updated: 2025-12-19T01:05:11Z
   Vendor: Honor
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19901.jpg?v=1732839608
   Price: 44,99 € EUR
 - [Google Pixel 9 5G 12GB/256GB Rosa (Peony) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-256gb-rosa-peony-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
-  Updated: 2025-12-17T22:55:12Z
+  Updated: 2025-12-19T16:06:15Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19979.jpg?v=1733347208
-  Price: 779,99 € EUR
+  Price: 773,99 € EUR
 - [Samsung Galaxy A16 4G 4GB/128GB Negro (Blue Black) Dual SIM SM-A165](https://hifimediastore.com/products/samsung-galaxy-a16-4g-4gb-128gb-negro-blue-black-dual-sim-sm-a165): Samsung Galaxy A16 4G:  Pantalla FHD+ Super AMOLED de 6,7" Cámara triple de 50 MP y cámara selfie de 13 MP Batería de 5000 mAh Carga rápida de 25W Procesador Octa-core  *Términos de Samsung Pay en la descripción.
-  Updated: 2025-12-17T18:54:28Z
+  Updated: 2025-12-19T22:34:26Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20038.jpg?v=1733863816
-  Price: 149,99 € EUR
+  Price: 151,99 € EUR
 - [Xiaomi Buds 5 Auriculares Bluetooth Gris (Titan Gray) BHR8117GL](https://hifimediastore.com/products/xiaomi-buds-5-auriculares-bluetooth-gris-titan-gray-bhr8117gl): Xiaomi Buds 5:  Triple micrófono con reducción de ruido IA Harman AudioEFX Audio de alta resolución Qualcomm aptX Grabación de audio integrada Hasta 39 horas de uso con estuche resistencia IP54 al polvo y al agua
-  Updated: 2025-12-16T22:05:26Z
+  Updated: 2025-12-18T19:45:27Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20057.jpg?v=1733863852
   Price: 93,99 € EUR
 - [Xiaomi Buds 5 Auriculares Bluetooth Blanco (Ceramic White) BHR8117GL](https://hifimediastore.com/products/xiaomi-buds-5-auriculares-bluetooth-blanco-ceramic-white-bhr8117gl): Xiaomi Buds 5:  Triple micrófono con reducción de ruido IA Harman AudioEFX Audio de alta resolución Qualcomm aptX Grabación de audio integrada Hasta 39 horas de uso con estuche resistencia IP54 al polvo y al agua
-  Updated: 2025-12-17T17:30:40Z
+  Updated: 2025-12-20T17:10:26Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20061.jpg?v=1733863859
-  Price: 96,99 € EUR
+  Price: 93,99 € EUR
 - [Samsung Galaxy A16 4G 4GB/128GB Verde (Light Green) Dual SIM SM-A165](https://hifimediastore.com/products/samsung-galaxy-a16-4g-4gb-128gb-verde-light-green-dual-sim-sm-a165): Samsung Galaxy A16 4G:  Pantalla FHD+ Super AMOLED de 6,7" Cámara triple de 50 MP y cámara selfie de 13 MP Batería de 5000 mAh Carga rápida de 25W Procesador Octa-core  *Términos de Samsung Pay en la descripción.
-  Updated: 2025-12-17T23:55:16Z
+  Updated: 2025-12-20T23:20:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20080.jpg?v=1733890229
   Price: 165,99 € EUR
 - [Samsung Galaxy A16 4G 4GB/128GB Gris (Light Gray) Dual SIM SM-A165](https://hifimediastore.com/products/samsung-galaxy-a16-4g-4gb-128gb-gris-light-gray-dual-sim-sm-a165): Samsung Galaxy A16 4G:  Pantalla FHD+ Super AMOLED de 6,7" Cámara triple de 50 MP y cámara selfie de 13 MP Batería de 5000 mAh Carga rápida de 25W Procesador Octa-core  *Términos de Samsung Pay en la descripción.
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-19T01:55:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7645,13 +7610,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20272.jpg?v=1734645357
   Price: 195,99 € EUR
-- [Xiaomi Redmi Buds 6 Play Auriculares Bluetooth Azul (Blue)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-play-auriculares-bluetooth-azul-blue): Xiaomi Redmi Buds 6 Play:  Bluetooth 5.4 Cinco ajustes de ecualización Controlador dinámico de 10 mm Batería de hasta 36 horas de duración Escucha hasta 3h de música con una carga de 10 minutos Reducción de ruido con IA Conectividad inteligente
-  Updated: 2025-12-13T11:38:37Z
-  Vendor: Xiaomi
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20372.jpg?v=1735071018
-  Price: 29,99 € EUR
 - [Xiaomi Redmi Buds 6 Play Auriculares Bluetooth Rosa (Pink)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-play-auriculares-bluetooth-rosa-pink): Xiaomi Redmi Buds 6 Play:  Bluetooth 5.4 Cinco ajustes de ecualización Controlador dinámico de 10 mm Batería de hasta 36 horas de duración Escucha hasta 3h de música con una carga de 10 minutos Reducción de ruido con IA Conectividad inteligente
   Updated: 2025-12-16T09:10:21Z
   Vendor: Xiaomi
@@ -7660,28 +7618,28 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20376.jpg?v=1735071027
   Price: 28,99 € EUR
 - [Apple Airpods 3ª Gen. Auriculares Inalámbricos Blancos con estuche de carga MagSafe](https://hifimediastore.com/products/apple-airpods-3-gen-auriculares-inalambricos-blancos-con-estuche-de-carga-magsafe): Apple Airpods 3ª Gen Audio espacial con seguimiento dinamico de la cabeza Ecualizacion adaptativa que ajusta la musica a tus oidos Dos microfonos con tecnologia beamforming El estuche de carga MagSafe ofrecen hasta 30 horas de autonomia Resistentes al
-  Updated: 2025-12-13T11:38:38Z
+  Updated: 2025-12-19T20:50:19Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20452.jpg?v=1735851009
   Price: 148,99 € EUR
 - [Apple Airpods 3ª Gen. Auriculares Inalámbricos Blancos con estuche de carga Lightning](https://hifimediastore.com/products/apple-airpods-3-gen-auriculares-inalambricos-blancos-con-estuche-de-carga-lightning): Apple Airpods de 3ª generación MME73TY/A  Audio espacial con seguimiento dinámico de la cabeza Dos micrófonos con tecnología beamforming Resistentes al sudor y al agua (IPX4) Hasta 6 horas de reproducción de audio con una sola carga
-  Updated: 2025-12-16T21:20:21Z
+  Updated: 2025-12-20T22:50:16Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20456.jpg?v=1735851016
   Price: 162,99 € EUR
 - [TCL Tab 10L Gen2 10,1" 3GB/32GB WiFi Negro (Space Black)](https://hifimediastore.com/products/tcl-tab-10l-gen2-101-3gb-32gb-wifi-negro-space-black): TCL Tab 10L Gen2:  Pantalla IPS LCD de 10,1" Chip Mediatek MT8766B Cámara trasera de 2 MP Batería de 6000 mAh Carga rápida 10W Android 13
-  Updated: 2025-12-16T02:35:11Z
+  Updated: 2025-12-19T08:35:31Z
   Vendor: TCL
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20561.jpg?v=1736533508
   Price: 117,99 € EUR
 - [TCL Tab 11 Gen2 11" 6GB/256GB WiFi Gris (Space Gray)](https://hifimediastore.com/products/tcl-tab-11-gen2-11-6gb-256gb-wifi-gris-space-gray): TCL Tab 11 Gen2:  Pantalla NXTVISION de 11" Chip MediatekHelio G80 Cámara trasera de 8 MP Batería de 8000 mAh Carga rápida 18W Android 14
-  Updated: 2025-12-15T00:55:11Z
+  Updated: 2025-12-20T23:35:07Z
   Vendor: TCL
   Product Type: Tablet's
   Availability: Available
@@ -7694,22 +7652,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20633.jpg?v=1736906118
   Price: 604,99 € EUR
-- [Google Pixel 9 Pro 5G 16GB/128GB Verde Liquen (Hazel) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-5g-16gb-128gb-verde-liquen-hazel-dual-sim): Google Pixel 9 Pro:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-12-17T18:58:41Z
-  Vendor: Google
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20673.jpg?v=1737047710
-  Price: 941,99 € EUR
 - [Huawei FreeBuds Pro 4 Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/huawei-freebuds-pro-4-auriculares-bluetooth-negro-black): Huawei FreeBuds Pro 4 Elegante Filamento Plateado Cancelacion de ruido automatica inteligente Hasta 33 horas de duracion de la bateria con el estuche de carga Doble driver True Sound Proteccion IP54 contra el Polvo y Salpicaduras Llamadas estables y ni
-  Updated: 2025-12-17T16:20:16Z
+  Updated: 2025-12-18T18:40:22Z
   Vendor: Huawei
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20927.jpg?v=1738102810
   Price: 172,99 € EUR
 - [Huawei FreeBuds Pro 4 Auriculares Bluetooth Blanco (White)](https://hifimediastore.com/products/huawei-freebuds-pro-4-auriculares-bluetooth-blanco-white): Huawei FreeBuds Pro 4 Elegante Filamento Plateado Cancelacion de ruido automatica inteligente Hasta 33 horas de duracion de la bateria con el estuche de carga Doble driver True Sound Proteccion IP54 contra el Polvo y Salpicaduras Llamadas estables y ni
-  Updated: 2025-12-13T11:38:41Z
+  Updated: 2025-12-18T18:40:17Z
   Vendor: Huawei
   Product Type: Bluetooth
   Availability: Available
@@ -7730,47 +7681,47 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20950.jpg?v=1738174213
   Price: 957,99 € EUR
 - [Honor Pad X8a 11" 4GB/128GB WiFi Gris (Space Grey)](https://hifimediastore.com/products/honor-pad-x8a-11-4gb-128gb-wifi-gris-space-grey): Honor Pad X8a:  Pantalla Fullview HONOR de 11" Procesador Qualcomm Snapdragon 680 Android 14 y MagicOS 8.0 Cámara principal de 5MP y frontal de 5MP Batería de 8300 mAh Altavoz cuádruple Bluetooth 5.1
-  Updated: 2025-12-17T23:00:16Z
+  Updated: 2025-12-20T16:05:41Z
   Vendor: Honor
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20955.jpg?v=1738174509
   Price: 162,99 € EUR
 - [TCL 40 NXTPAPER 5G 6GB/256GB Negro (Starlight Black) Dual SIM](https://hifimediastore.com/products/tcl-40-nxtpaper-5g-6gb-256gb-negro-starlight-black-dual-sim): TCL 40 NXTPAPER 5G:  Pantalla HD+ de 6,6" Cámara de 50MP Cámara frontal de 8MP Procesador MediaTek Dimensity 6020 Batería de 5000 mAh Carga rápida de 15W Conexión 5G Desbloqueo facial
-  Updated: 2025-12-16T15:30:24Z
+  Updated: 2025-12-19T22:40:04Z
   Vendor: TCL
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20959.jpg?v=1738183209
-  Price: 153,99 € EUR
+  Price: 150,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/128GB Azul Marino (Navy) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-128gb-azul-marino-navy-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-18T00:00:17Z
+  Updated: 2025-12-19T15:00:22Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20967.jpg?v=1738202115
-  Price: 785,99 € EUR
+  Price: 783,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/128GB Azul (Icy Blue) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-128gb-azul-icy-blue-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-17T17:20:21Z
+  Updated: 2025-12-19T16:12:07Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20972.jpg?v=1738257010
-  Price: 786,99 € EUR
+  Price: 762,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/128GB Verde (Mint) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-128gb-verde-mint-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-13T11:38:42Z
+  Updated: 2025-12-20T11:34:05Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20977.jpg?v=1738257020
-  Price: 785,99 € EUR
+  Price: 762,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/128GB Gris (Silver Shadow) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-128gb-gris-silver-shadow-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-13T11:38:42Z
+  Updated: 2025-12-20T11:34:06Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20982.jpg?v=1738257030
-  Price: 762,99 € EUR
+  Price: 757,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/256GB Azul (Icy Blue) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-256gb-azul-icy-blue-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
   Updated: 2025-12-13T11:38:42Z
   Vendor: Samsung
@@ -7779,154 +7730,161 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20987.jpg?v=1738257040
   Price: 831,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/256GB Verde (Mint) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-256gb-verde-mint-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-18T00:00:22Z
+  Updated: 2025-12-19T21:35:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20992.jpg?v=1738257050
-  Price: 853,99 € EUR
+  Price: 849,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/256GB Gris (Silver Shadow) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-256gb-gris-silver-shadow-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-18T00:00:22Z
+  Updated: 2025-12-19T22:40:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20997.jpg?v=1738257059
-  Price: 849,99 € EUR
+  Price: 841,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/256GB Azul Marino (Navy) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-256gb-azul-marino-navy-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-18T00:00:22Z
+  Updated: 2025-12-19T21:35:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21002.jpg?v=1738257069
-  Price: 840,99 € EUR
+  Price: 836,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/512GB Azul (Icy Blue) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-512gb-azul-icy-blue-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-18T00:00:22Z
+  Updated: 2025-12-18T01:30:14Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21007.jpg?v=1738257078
-  Price: 957,99 € EUR
+  Price: 949,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/512GB Gris (Silver Shadow) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-512gb-gris-silver-shadow-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-17T17:20:22Z
+  Updated: 2025-12-19T21:35:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21017.jpg?v=1738257101
-  Price: 963,99 € EUR
+  Price: 957,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/512GB Azul Marino (Navy) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-512gb-azul-marino-navy-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-17T19:00:21Z
+  Updated: 2025-12-20T18:00:18Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21022.jpg?v=1738257310
-  Price: 949,99 € EUR
+  Price: 948,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/512GB Titanio Azul (Titanium Silver Blue) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-512gb-titanio-azul-titanium-silver-blue-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-17T17:20:26Z
+  Updated: 2025-12-18T01:30:20Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21027.jpg?v=1738284308
-  Price: 1270,99 € EUR
+  Price: 1254,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/512GB Titanio Plata (Titanium White Silver) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-512gb-titanio-plata-titanium-white-silver-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-17T04:20:47Z
+  Updated: 2025-12-20T04:05:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21032.jpg?v=1738284316
-  Price: 1248,99 € EUR
+  Price: 1294,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/1TB Titanio Negro (Titanium Black) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-1tb-titanio-negro-titanium-black-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-18T00:00:27Z
+  Updated: 2025-12-20T04:05:17Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21037.jpg?v=1738356608
   Price: 1485,99 € EUR
+- [Samsung Galaxy S25 Ultra 5G 12GB/1TB Titanio Azul (Titanium Silver Blue) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-1tb-titanio-azul-titanium-silver-blue-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
+  Updated: 2025-12-19T22:40:29Z
+  Vendor: Samsung
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21042.jpg?v=1738356617
+  Price: 1495,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/1TB Titanio Gris (Titanium Gray) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-1tb-titanio-gris-titanium-gray-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-18T00:00:28Z
+  Updated: 2025-12-19T21:35:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21047.jpg?v=1738356626
   Price: 1485,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/256GB Titanio Negro (Titanium Black) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-256gb-titanio-negro-titanium-black-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-18T00:00:28Z
+  Updated: 2025-12-18T19:35:22Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21057.jpg?v=1738356645
-  Price: 1178,99 € EUR
+  Price: 1161,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/256GB Titanio Azul (Titanium Silver Blue) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-256gb-titanio-azul-titanium-silver-blue-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-16T21:55:21Z
+  Updated: 2025-12-19T22:42:04Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21062.jpg?v=1738356655
-  Price: 1161,99 € EUR
+  Price: 1156,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/256GB Titanio Gris (Titanium Gray) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-256gb-titanio-gris-titanium-gray-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-16T04:22:45Z
+  Updated: 2025-12-20T23:25:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21067.jpg?v=1738356664
-  Price: 1152,99 € EUR
+  Price: 1178,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/256GB Titanio Plata (Titanium White Silver) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-256gb-titanio-plata-titanium-white-silver-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-16T21:55:26Z
+  Updated: 2025-12-19T02:00:42Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21072.jpg?v=1738356673
   Price: 1164,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/512GB Titanio Negro (Titanium Black) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-512gb-titanio-negro-titanium-black-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-18T00:00:27Z
+  Updated: 2025-12-19T21:35:20Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21077.jpg?v=1738356683
-  Price: 1301,99 € EUR
+  Price: 1298,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/512GB Titanio Gris (Titanium Gray) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-512gb-titanio-gris-titanium-gray-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-12-18T00:00:27Z
+  Updated: 2025-12-20T10:40:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21082.jpg?v=1738356692
   Price: 1285,99 € EUR
 - [Xiaomi Redmi Buds 6 Pro Auriculares Bluetooth Blanco (Glacier White)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-pro-auriculares-bluetooth-blanco-glacier-white): Xiaomi Redmi Buds 6 Pro Bluetooth 53 Audio de alta resolucion LDAC Anulacion de ruido activa de hasta 55 dB Diafragmas coaxiales triples Bateria de hasta 36 horas de duracion Escucha hasta 2h de musica con una carga de 5 min Reduccion de ruido con IA
-  Updated: 2025-12-17T17:40:26Z
+  Updated: 2025-12-20T23:45:29Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21117.jpg?v=1738628726
   Price: 87,99 € EUR
 - [Google Pixel 9 Pro 5G 16GB/128GB Blanco (Porcelain) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-5g-16gb-128gb-blanco-porcelain-dual-sim): Google Pixel 9 Pro:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-12-17T19:02:22Z
+  Updated: 2025-12-19T22:42:21Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21121.jpg?v=1738692014
-  Price: 941,99 € EUR
+  Price: 940,99 € EUR
 - [Realme C75 4G 8GB/128GB Negro (Storm Black) Dual SIM](https://hifimediastore.com/products/realme-c75-4g-8gb-128gb-negro-storm-black-dual-sim): Realme C75:  Pantalla IPS LCD de 6,72" Procesador Mediatek Helio G92 Max Cámara IA de 50 MP Gran batería de 5828 mAh Carga SUPERVOOC de 45W Protección ArmorShell Resistencia IP69 al agua y al polvo
-  Updated: 2025-12-16T02:05:21Z
+  Updated: 2025-12-19T21:15:20Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21202.jpg?v=1738858211
   Price: 190,99 € EUR
 - [Realme C75 4G 8GB/256GB Dorado (Lightning Gold) Dual SIM](https://hifimediastore.com/products/realme-c75-4g-8gb-256gb-dorado-lightning-gold-dual-sim): Realme C75:  Pantalla IPS LCD de 6,72" Procesador Mediatek Helio G92 Max Cámara IA de 50 MP Gran batería de 5828 mAh Carga SUPERVOOC de 45W Protección ArmorShell Resistencia IP69 al agua y al polvo
-  Updated: 2025-12-13T11:38:46Z
+  Updated: 2025-12-20T16:45:07Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21208.jpg?v=1738858222
   Price: 181,99 € EUR
 - [Realme Note 60 4G 4GB/128GB Negro (Marble Black) Dual SIM](https://hifimediastore.com/products/realme-note-60-4g-4gb-128gb-negro-marble-black-dual-sim): Realme Note 60:  Pantalla IPS LCD de 6,74" Cuerpo ultrafino de 7,84 mm Procesador Unisoc Tiger T612 Cámara supernítida de 32 MP Gran batería de 5000 mAh IP64 resistencia al agua y al polvo
-  Updated: 2025-12-17T23:40:27Z
+  Updated: 2025-12-18T19:15:30Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21211.jpg?v=1738858228
   Price: 111,99 € EUR
 - [OnePlus 13 5G 12GB/256GB Negro (Black Eclipse) Dual SIM](https://hifimediastore.com/products/oneplus-13-5g-12gb-256gb-negro-black-eclipse-dual-sim): OnePlus 13:  Pantalla 2K ProXDR Triple cámara de 50 MP Hasselblad 4K Dolby Vision Chip Qualcomm Snapdragon 8 Gen 3 Batería de 6000 mAh 100W SUPERVOOC Android 15, Oxygen 15 Conexión 5G
-  Updated: 2025-12-17T23:25:11Z
+  Updated: 2025-12-19T21:00:16Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
@@ -7940,7 +7898,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21305.jpg?v=1739312125
   Price: 760,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/256GB Titanio Negro (Titanium Black) Dual SIM SM-S938B - Enterprise Edition](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-256gb-titanio-negro-titanium-black-dual-sim-sm-s938b-enterprise-edition): Samsung Galaxy S25 Ultra Enterprise Edition Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Knox Vault Galaxy AI for business Android 15
-  Updated: 2025-12-17T17:20:27Z
+  Updated: 2025-12-20T23:25:22Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7953,15 +7911,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21315.jpg?v=1739421608
   Price: 198,99 € EUR
-- [TCL NXTPAPER 11 4GB/128GB WiFi Gris (Dark Grey)](https://hifimediastore.com/products/tcl-nxtpaper-11-4gb-128gb-wifi-gris-dark-grey): TCL NXTPAPER 11:  Pantalla 2K de 11" Chip MediatekHelio P60T Cámara trasera de 8 MP Cámara selfie de 8 MP Batería de 8000 mAh Carga rápida 18W Android 13
-  Updated: 2025-12-17T17:30:11Z
-  Vendor: TCL
-  Product Type: Tablet's
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21362.jpg?v=1739833213
-  Price: 185,99 € EUR
 - [Apple AirPods Max (2ª Gen.) Bluetooth Naranja (Orange)](https://hifimediastore.com/products/apple-airpods-max-2-gen-bluetooth-naranja-orange): AirPods Max 2ª Gen:  Sonido de alta fidelidad Cancelación activa de ruido de nivel profesional Audio espacial personalizado con seguimiento dinámico de la cabeza Diseño tipo casco Comodidad y ajuste perfecto Hasta 20 horas de autonomía Conector USB-C
-  Updated: 2025-12-17T22:40:11Z
+  Updated: 2025-12-19T20:15:15Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -7975,26 +7926,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21463.jpg?v=1740605420
   Price: 598,99 € EUR
 - [Apple iPhone 16e 128GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-16e-128gb-blanco-white): Apple iPhone 16e:  Pantalla Super Retina XDR OLED Chip A18 Cámara Fusion de 48MP Hasta 26h de autonomía Velocidad 5G Parte delantera de Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-12-17T23:10:23Z
+  Updated: 2025-12-20T22:40:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21490.jpg?v=1740678309
-  Price: 742,99 € EUR
-- [Apple AirPods Max (2ª Gen.) Bluetooth Blanco (Starlight)](https://hifimediastore.com/products/apple-airpods-max-2-gen-bluetooth-blanco-starlight): AirPods Max 2ª Gen:  Sonido de alta fidelidad Cancelación activa de ruido de nivel profesional Audio espacial personalizado con seguimiento dinámico de la cabeza Diseño tipo casco Comodidad y ajuste perfecto Hasta 20 horas de autonomía Conector USB-C
-  Updated: 2025-12-17T22:40:11Z
-  Vendor: Apple
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21498.jpg?v=1740696608
-  Price: 648,99 € EUR
+  Price: 746,99 € EUR
 - [Xiaomi Redmi Note 14 Pro 4G 12GB/512GB Negro Medianoche (Midnight Black) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-14-pro-4g-12gb-512gb-negro-medianoche-midnight-black-dual-sim): Xiaomi Redmi Note 14 Pro 4G:  Pantalla AMOLED de 120 Hz Cámara AI de 200 MP Cámara selfie de 32 MP Batería de 5500 mAh Carga turbo de 45 W Procesador MediaTek Helio G100-Ultra Corning® Gorilla® Glass Victus 2 Android 14
-  Updated: 2025-12-17T17:45:13Z
+  Updated: 2025-12-20T17:25:13Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21506.jpg?v=1740705609
-  Price: 328,99 € EUR
+  Price: 290,99 € EUR
 - [Xiaomi 15 5G 12GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/xiaomi-15-5g-12gb-512gb-negro-black-dual-sim): Xiaomi 15:  Pantalla CrystalRes dynamic AMOLED Snapdragon 8 Elite Cámara Leica Batería de 5240 mAh HyperCharge 90W HyperCharge inalámbrica 50W Xiaomi HyperAI Conexión 5G
   Updated: 2025-12-17T06:06:07Z
   Vendor: Xiaomi
@@ -8002,6 +7946,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21561.jpg?v=1741140908
   Price: 811,99 € EUR
+- [Xiaomi 15 5G 12GB/256GB Negro (Black) Dual SIM](https://hifimediastore.com/products/xiaomi-15-5g-12gb-256gb-negro-black-dual-sim): Xiaomi 15:  Pantalla CrystalRes dynamic AMOLED Snapdragon 8 Elite Cámara Leica Batería de 5240 mAh HyperCharge 90W HyperCharge inalámbrica 50W Xiaomi HyperAI Conexión 5G
+  Updated: 2025-12-18T01:36:10Z
+  Vendor: Xiaomi
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21576.jpg?v=1741214708
+  Price: 840,99 € EUR
 - [Xiaomi 15 5G 12GB/256GB Verde (Green) Dual SIM](https://hifimediastore.com/products/xiaomi-15-5g-12gb-256gb-verde-green-dual-sim): Xiaomi 15:  Pantalla CrystalRes dynamic AMOLED Snapdragon 8 Elite Cámara Leica Batería de 5240 mAh HyperCharge 90W HyperCharge inalámbrica 50W Xiaomi HyperAI Conexión 5G
   Updated: 2025-12-16T23:44:12Z
   Vendor: Xiaomi
@@ -8017,12 +7968,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21596.jpg?v=1741214742
   Price: 811,99 € EUR
 - [Xiaomi 15 Ultra 5G 16GB/512GB Plata (Silver Chrome) Dual SIM](https://hifimediastore.com/products/xiaomi-15-ultra-5g-16gb-512gb-plata-silver-chrome-dual-sim): Xiaomi 15 Ultra:  Pantalla All Around Liquid Snapdragon 8 Elite Sistema de cámara cuádruple Leica Batería de 5410 mAh HyperCharge 90W HyperCharge inalámbrica 80W Bluetooth 6.0 Xiaomi HyperAI Conexión 5G
-  Updated: 2025-12-17T17:30:37Z
+  Updated: 2025-12-19T21:45:21Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21620.jpg?v=1741279522
-  Price: 1362,99 € EUR
+  Price: 1390,99 € EUR
 - [Xiaomi Pad 7 11" 8GB/128GB WiFi Gris (Grey)](https://hifimediastore.com/products/xiaomi-pad-7-11-8gb-128gb-wifi-gris-grey): Xiaomi Pad 7:  Pantalla nítida 3,2K y 144 Hz Xiaomi HyperOS 2 Snapdragon 7+ Gen 3 Batería de 8850 mAh 45W HyperCharge Cámara principal de 13MP 4 altavoces Dolby Atmos
   Updated: 2025-12-17T04:35:16Z
   Vendor: Xiaomi
@@ -8031,12 +7982,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21630.jpg?v=1741307417
   Price: 355,99 € EUR
 - [Xiaomi Pad 7 Pro 11" 8GB/256GB WiFi Gris (Grey)](https://hifimediastore.com/products/xiaomi-pad-7-pro-11-8gb-256gb-wifi-gris-grey): Xiaomi Pad 7 Pro:  Pantalla nítida 3,2K y 144 Hz Xiaomi HyperOS 2 Snapdragon 8s Gen 3 Batería de 8850 mAh 67W HyperCharge Cámara principal de 50MP Cámara frontal de 32MP 4 altavoces Dolby Atmos
-  Updated: 2025-12-16T02:40:16Z
+  Updated: 2025-12-19T22:46:29Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21642.jpg?v=1741381219
-  Price: 505,99 € EUR
+  Price: 462,99 € EUR
 - [Xiaomi Pad 7 11" 8GB/128GB WiFi Azul (Blue)](https://hifimediastore.com/products/xiaomi-pad-7-11-8gb-128gb-wifi-azul-blue): Xiaomi Pad 7:  Pantalla nítida 3,2K y 144 Hz Xiaomi HyperOS 2 Snapdragon 7+ Gen 3 Batería de 8850 mAh 45W HyperCharge Cámara principal de 13MP 4 altavoces Dolby Atmos
   Updated: 2025-12-13T11:38:50Z
   Vendor: Xiaomi
@@ -8052,12 +8003,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21666.jpg?v=1741640419
   Price: 358,99 € EUR
 - [Xiaomi Pad 7 Pro 11" 12GB/512GB WiFi Azul (Blue)](https://hifimediastore.com/products/xiaomi-pad-7-pro-11-12gb-512gb-wifi-azul-blue): Xiaomi Pad 7 Pro:  Pantalla nítida 3,2K y 144 Hz Xiaomi HyperOS 2 Snapdragon 8s Gen 3 Batería de 8850 mAh 67W HyperCharge Cámara principal de 50MP Cámara frontal de 32MP 4 altavoces Dolby Atmos
-  Updated: 2025-12-17T06:06:38Z
+  Updated: 2025-12-20T04:20:12Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21687.jpg?v=1741714235
-  Price: 543,99 € EUR
+  Price: 525,99 € EUR
 - [OPPO Reno13 5G 12GB/256GB Azul (Luminous Blue) Dual SIM](https://hifimediastore.com/products/oppo-reno13-5g-12gb-256gb-azul-luminous-blue-dual-sim): OPPO Reno13 5G:  Pantalla 1.5K 6,6" AMOLED Cámara triple de 50MP Chip MediaTek Dimensity 8350 Batería de 5600 mAh Carga rápida SUPERVOOC de 80W IP69 resistente al agua y al polvo Inteligencia Artificial
   Updated: 2025-12-17T03:55:11Z
   Vendor: Oppo
@@ -8065,48 +8016,41 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21721.jpg?v=1742334008
   Price: 390,99 € EUR
-- [Realme 14X 5G 6GB/128GB Negro (Carbon Black) Dual SIM](https://hifimediastore.com/products/realme-14x-5g-6gb-128gb-negro-carbon-black-dual-sim): Realme 14x 5G:  Pantalla IPS LCD de 120 Hz Procesador 5G Dimensity 6300 Cámara de 50MP con IA NEXT AI Batería de 5000 mAh Realme UI 6.0
-  Updated: 2025-12-16T02:05:16Z
-  Vendor: Realme
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21791.jpg?v=1742576410
-  Price: 201,99 € EUR
 - [Samsung Galaxy A36 5G 6GB/128GB Negro (Awesome Black) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-6gb-128gb-negro-awesome-black-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-16T23:45:00Z
+  Updated: 2025-12-20T04:00:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21796.jpg?v=1742576419
-  Price: 298,99 € EUR
+  Price: 293,99 € EUR
 - [Samsung Galaxy A36 5G 6GB/128GB Verde (Awesome Lime) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-6gb-128gb-verde-awesome-lime-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-17T06:07:01Z
+  Updated: 2025-12-18T01:37:01Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21801.jpg?v=1742576428
-  Price: 295,99 € EUR
+  Price: 292,99 € EUR
 - [Samsung Galaxy A36 5G 8GB/256GB Negro (Awesome Black) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-8gb-256gb-negro-awesome-black-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-16T15:20:18Z
+  Updated: 2025-12-19T01:55:25Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21806.jpg?v=1742576438
   Price: 341,99 € EUR
 - [Samsung Galaxy A36 5G 8GB/256GB Verde (Awesome Lime) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-8gb-256gb-verde-awesome-lime-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-20T16:55:30Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21811.jpg?v=1742576446
   Price: 349,99 € EUR
 - [Samsung Galaxy A36 5G 8GB/256GB Blanco (Awesome White) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-8gb-256gb-blanco-awesome-white-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-17T23:55:22Z
+  Updated: 2025-12-20T04:00:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21816.jpg?v=1742604309
-  Price: 345,99 € EUR
+  Price: 347,99 € EUR
 - [Realme 14 Pro 5G 8GB/256GB Blanco (Pearl White) Dual SIM](https://hifimediastore.com/products/realme-14-pro-5g-8gb-256gb-blanco-pearl-white-dual-sim): Realme 14 Pro 5G:  Pantalla de visión curva de 120 Hz Procesador 5G Dimensity 7300 Energy Cámara Sony IMX882 con OIS Batería Titan de 6000 mAh Carga SUPERVOOC de 45W Realme UI 6.0 IP69, IP68, IP66
   Updated: 2025-12-13T11:38:52Z
   Vendor: Realme
@@ -8115,40 +8059,40 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21851.jpg?v=1742844907
   Price: 316,99 € EUR
 - [Samsung Galaxy A36 5G 6GB/128GB Lavanda (Awesome Lavander) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-6gb-128gb-lavanda-awesome-lavander-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-19T22:47:08Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21856.jpg?v=1742844917
   Price: 298,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/128GB Rosa (Awesome Pink) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-128gb-rosa-awesome-pink-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-19T21:30:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21861.jpg?v=1742872807
   Price: 371,99 € EUR
 - [Samsung Galaxy A36 5G 6GB/128GB Blanco (Awesome White) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-6gb-128gb-blanco-awesome-white-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-16T04:27:12Z
+  Updated: 2025-12-19T22:47:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21870.jpg?v=1742920808
-  Price: 295,99 € EUR
+  Price: 292,99 € EUR
 - [Samsung Galaxy A36 5G 8GB/256GB Lavanda (Awesome Lavander) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-8gb-256gb-lavanda-awesome-lavander-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-12-13T11:38:53Z
+  Updated: 2025-12-20T23:20:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21875.jpg?v=1742920817
   Price: 344,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/128GB Verde (Awesome Olive) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-128gb-verde-awesome-olive-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-20T18:07:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21880.jpg?v=1742920826
-  Price: 364,99 € EUR
+  Price: 357,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/128GB Negro (Awesome Graphite) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-128gb-negro-awesome-graphite-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
   Updated: 2025-12-16T15:20:17Z
   Vendor: Samsung
@@ -8157,77 +8101,77 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21885.jpg?v=1742920835
   Price: 348,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/128GB Gris (Awesome Light Grey) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-128gb-gris-awesome-light-grey-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-16T04:27:18Z
+  Updated: 2025-12-18T01:37:18Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21890.jpg?v=1742920844
-  Price: 359,99 € EUR
+  Price: 356,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/256GB Gris (Awesome Light Grey) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-256gb-gris-awesome-light-grey-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:26Z
+  Updated: 2025-12-19T21:30:20Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21895.jpg?v=1742920854
-  Price: 414,99 € EUR
+  Price: 416,99 € EUR
 - [Realme 14 Pro 5G 8GB/256GB Gris (Suede Grey) Dual SIM](https://hifimediastore.com/products/realme-14-pro-5g-8gb-256gb-gris-suede-grey-dual-sim): Realme 14 Pro 5G:  Pantalla de visión curva de 120 Hz Procesador 5G Dimensity 7300 Energy Cámara Sony IMX882 con OIS Batería Titan de 6000 mAh Carga SUPERVOOC de 45W Realme UI 6.0 IP69, IP68, IP66
-  Updated: 2025-12-17T19:07:23Z
+  Updated: 2025-12-20T11:41:25Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21910.jpg?v=1743013809
-  Price: 292,99 € EUR
+  Price: 290,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/256GB Verde (Awesome Olive) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-256gb-verde-awesome-olive-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T19:07:24Z
+  Updated: 2025-12-20T23:20:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21915.jpg?v=1743013819
   Price: 423,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/256GB Negro (Awesome Graphite) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-256gb-negro-awesome-graphite-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-19T21:30:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21920.jpg?v=1743013829
   Price: 419,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/256GB Rosa (Awesome Pink) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-256gb-rosa-awesome-pink-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:26Z
+  Updated: 2025-12-19T22:47:26Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21925.jpg?v=1743013839
-  Price: 426,99 € EUR
+  Price: 423,99 € EUR
 - [Huawei FreeBuds Pro 4 Auriculares Bluetooth Verde (Green)](https://hifimediastore.com/products/huawei-freebuds-pro-4-auriculares-bluetooth-verde-green): Huawei FreeBuds Pro 4 Elegante Filamento Plateado Cancelacion de ruido automatica inteligente Hasta 33 horas de duracion de la bateria con el estuche de carga Doble driver True Sound Proteccion IP54 contra el Polvo y Salpicaduras Llamadas estables y ni
-  Updated: 2025-12-17T19:07:30Z
+  Updated: 2025-12-19T20:35:16Z
   Vendor: Huawei
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21951.jpg?v=1743060020
-  Price: 172,99 € EUR
+  Price: 168,99 € EUR
 - [Samsung Galaxy A26 5G 6GB/128GB Verde (Mint) Dual SIM A266](https://hifimediastore.com/products/samsung-galaxy-a26-5g-6gb-128gb-verde-mint-dual-sim-a266): Samsung Galaxy A26 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-13T11:38:55Z
+  Updated: 2025-12-20T04:00:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21968.jpg?v=1743106808
   Price: 254,99 € EUR
 - [Samsung Galaxy A26 5G 6GB/128GB Blanco (White) Dual SIM A266](https://hifimediastore.com/products/samsung-galaxy-a26-5g-6gb-128gb-blanco-white-dual-sim-a266): Samsung Galaxy A26 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-19T14:55:20Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21973.jpg?v=1743106817
   Price: 258,99 € EUR
 - [Samsung Galaxy A26 5G 8GB/256GB Negro (Black) Dual SIM A266](https://hifimediastore.com/products/samsung-galaxy-a26-5g-8gb-256gb-negro-black-dual-sim-a266): Samsung Galaxy A26 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-17T23:55:21Z
+  Updated: 2025-12-20T23:20:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21978.jpg?v=1743106827
   Price: 296,99 € EUR
 - [Samsung Galaxy A26 5G 8GB/256GB Verde (Mint) Dual SIM A266](https://hifimediastore.com/products/samsung-galaxy-a26-5g-8gb-256gb-verde-mint-dual-sim-a266): Samsung Galaxy A26 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-12-15T19:50:31Z
+  Updated: 2025-12-20T23:20:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8248,47 +8192,40 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22005.jpg?v=1743180932
   Price: 246,99 € EUR
 - [Apple iPad 2025 11" 6GB/128GB Wi-Fi Azul (Blue)](https://hifimediastore.com/products/apple-ipad-2025-11-6gb-128gb-wi-fi-azul-blue): Apple iPad 2025:  Pantalla Liquid Retina de 11" Cubierta oleófuga antihuellas Chip A16 Cámara de 12MP Center Stage Capacidad de la batería: Hasta 10 horas iPadOs 18 Compatible con Apple Pencil y Magic Keyboard Folio
-  Updated: 2025-12-16T01:13:50Z
+  Updated: 2025-12-19T20:15:15Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22015.jpg?v=1743208808
   Price: 456,99 € EUR
 - [Apple iPad 2025 11" 6GB/128GB Wi-Fi Rosa (Pink)](https://hifimediastore.com/products/apple-ipad-2025-11-6gb-128gb-wi-fi-rosa-pink): Apple iPad 2025:  Pantalla Liquid Retina de 11" Cubierta oleófuga antihuellas Chip A16 Cámara de 12MP Center Stage Capacidad de la batería: Hasta 10 horas iPadOs 18 Compatible con Apple Pencil y Magic Keyboard Folio
-  Updated: 2025-12-16T20:40:11Z
+  Updated: 2025-12-20T22:10:11Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22018.jpg?v=1743209108
   Price: 456,99 € EUR
 - [Apple iPad 2025 11" 6GB/128GB Wi-Fi Plata (Silver)](https://hifimediastore.com/products/apple-ipad-2025-11-6gb-128gb-wi-fi-plata-silver): Apple iPad 2025:  Pantalla Liquid Retina de 11" Cubierta oleófuga antihuellas Chip A16 Cámara de 12MP Center Stage Capacidad de la batería: Hasta 10 horas iPadOs 18 Compatible con Apple Pencil y Magic Keyboard Folio
-  Updated: 2025-12-17T22:40:11Z
+  Updated: 2025-12-19T20:15:15Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22021.jpg?v=1743209113
-  Price: 462,99 € EUR
+  Price: 456,99 € EUR
 - [Xiaomi Redmi Buds 6 Auriculares Bluetooth Negro (Night Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-auriculares-bluetooth-negro-night-black): Xiaomi Redmi Buds 6:  Bluetooth 5.4 Anulación de ruido activa de hasta 49 dB Batería de hasta 42 horas de duración Hasta 4h de música con una carga de 10 min Efecto de audio de 360º Reducción de ruido con IA Conectividad inteligente
-  Updated: 2025-12-17T17:40:27Z
+  Updated: 2025-12-19T03:23:56Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22027.jpg?v=1743435009
-  Price: 56,99 € EUR
-- [OPPO Reno13 5G 12GB/256GB Blanco (Plume White) Dual SIM](https://hifimediastore.com/products/oppo-reno13-5g-12gb-256gb-blanco-plume-white-dual-sim): OPPO Reno13 5G:  Pantalla 1.5K 6,6" AMOLED Cámara triple de 50MP Chip MediaTek Dimensity 8350 Batería de 5600 mAh Carga rápida SUPERVOOC de 80W IP69 resistente al agua y al polvo Inteligencia Artificial
-  Updated: 2025-12-17T23:30:11Z
-  Vendor: Oppo
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22058.jpg?v=1743538828
-  Price: 393,99 € EUR
+  Price: 51,99 € EUR
 - [Realme 14 Pro+ 5G 12GB/512GB Gris (Suede Grey) Dual SIM](https://hifimediastore.com/products/realme-14-pro-5g-12gb-512gb-gris-suede-grey-dual-sim): Realme 14 Pro+ 5G:  Pantalla de visión curva de 120 Hz Procesador Snapdragon 7s de 3ª Gen 5G Cámara Sony IMX896 con OIS Triple flash MagicGlow Batería Titan de 6000 mAh Carga SUPERVOOC de 80W Realme UI 6.0 IP69, IP68, IP66
-  Updated: 2025-12-17T23:40:16Z
+  Updated: 2025-12-20T10:15:27Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22085.jpg?v=1743709209
-  Price: 429,99 € EUR
+  Price: 494,99 € EUR
 - [Realme 14 Pro+ 5G 8GB/256GB Gris (Suede Grey) Dual SIM](https://hifimediastore.com/products/realme-14-pro-5g-8gb-256gb-gris-suede-grey-dual-sim-1): Realme 14 Pro+ 5G:  Pantalla de visión curva de 120 Hz Procesador Snapdragon 7s de 3ª Gen 5G Cámara Sony IMX896 con OIS Triple flash MagicGlow Batería Titan de 6000 mAh Carga SUPERVOOC de 80W Realme UI 6.0 IP69, IP68, IP66
   Updated: 2025-12-13T11:39:00Z
   Vendor: Realme
@@ -8304,7 +8241,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22095.jpg?v=1743718509
   Price: 51,99 € EUR
 - [Xiaomi Redmi Buds 6 Auriculares Bluetooth Blanco (Cloud White)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-auriculares-bluetooth-blanco-cloud-white): Xiaomi Redmi Buds 6:  Bluetooth 5.4 Anulación de ruido activa de hasta 49 dB Batería de hasta 42 horas de duración Hasta 4h de música con una carga de 10 min Efecto de audio de 360º Reducción de ruido con IA Conectividad inteligente
-  Updated: 2025-12-17T17:40:26Z
+  Updated: 2025-12-20T17:20:27Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
@@ -8318,35 +8255,35 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22103.jpg?v=1743718525
   Price: 87,99 € EUR
 - [ZTE Blade A75 5G 4GB/128GB Negro (Diamond Black) Dual SIM](https://hifimediastore.com/products/zte-blade-a75-5g-4gb-128gb-negro-diamond-black-dual-sim): ZTE Blade A75 5G:  Pantalla de 6,6" y 120 Hz Procesador Octa-Core Unisoc T760 Cámara dual AI de 50MP Batería de 5000 mAh Bluetooth 5.2 Conexión 5G
-  Updated: 2025-12-13T11:39:00Z
+  Updated: 2025-12-18T13:40:23Z
   Vendor: ZTE
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22110.jpg?v=1743718533
   Price: 109,99 € EUR
 - [Sony Buds WH-CH520 Auriculares Inalámbricos Negros](https://hifimediastore.com/products/sony-buds-wh-ch520-auriculares-inalambricos-negros): Sony Buds WH-CH520:  Llamadas con manos libres Hasta 50 horas de duración de la batería App Sony  Sound Connect Tecnología DSEE Bluetooth
-  Updated: 2025-12-17T17:25:17Z
+  Updated: 2025-12-20T23:30:20Z
   Vendor: Sony
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22389.jpg?v=1744839915
   Price: 52,99 € EUR
 - [Samsung Galaxy Tab S10 FE 10,9" 12GB/256GB WiFi Gris (Gray) X520B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-109-12gb-256gb-wifi-gris-gray-x520b): Samsung Galaxy Tab S10 FE:  Pantalla IPS LCD de 10,9" Cámara principal de 13MP Cámara selfie de 12MP Batería de 8000 mAh Carga rápida de 45W Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-12-17T23:55:36Z
+  Updated: 2025-12-20T04:00:31Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22468.jpg?v=1745533822
   Price: 534,99 € EUR
 - [Samsung Galaxy Tab S10 FE 10,9" 8GB/128GB 5G Gris (Gray) X526B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-109-8gb-128gb-5g-gris-gray-x526b): Samsung Galaxy Tab S10 FE:  Pantalla IPS LCD de 10,9" Cámara principal de 13MP Cámara selfie de 12MP Batería de 8000 mAh Carga rápida de 45W Conexión 5G Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-12-17T23:55:31Z
+  Updated: 2025-12-18T19:30:33Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22503.jpg?v=1745882136
   Price: 480,99 € EUR
 - [Samsung Galaxy Tab S10 FE+ 13" 8GB/128GB 5G Gris (Gray) X626B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-13-8gb-128gb-5g-gris-gray-x626b): Samsung Galaxy Tab S10 FE+:  Pantalla IPS LCD de 13,1" Cámara principal de 13MP Cámara selfie de 12MP Batería de 10090 mAh Carga rápida de 45W Conexión 5G Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-12-17T19:11:37Z
+  Updated: 2025-12-18T19:30:32Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -8359,43 +8296,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22522.jpg?v=1745958624
   Price: 618,99 € EUR
+- [Samsung Galaxy S25 5G 12GB/128GB Rosa (Coralred) Dual SIM SM-S931](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-128gb-rosa-coralred-dual-sim-sm-s931): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
+  Updated: 2025-12-20T23:25:15Z
+  Vendor: Samsung
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22560.jpg?v=1746055207
+  Price: 819,99 € EUR
 - [Samsung Galaxy Tab S10 FE+ 13" 8GB/128GB WiFi Gris (Gray) X620B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-13-8gb-128gb-wifi-gris-gray-x620b): Samsung Galaxy Tab S10 FE+:  Pantalla IPS LCD de 13,1" Cámara principal de 13MP Cámara selfie de 12MP Batería de 10090 mAh Carga rápida de 45W Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-12-17T23:55:36Z
+  Updated: 2025-12-20T17:00:14Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22618.jpg?v=1746488708
   Price: 604,99 € EUR
 - [Samsung Galaxy Tab S10 FE+ 13" 8GB/128GB WiFi Plata (Silver) X620B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-13-8gb-128gb-wifi-plata-silver-x620b): Samsung Galaxy Tab S10 FE+:  Pantalla IPS LCD de 13,1" Cámara principal de 13MP Cámara selfie de 12MP Batería de 10090 mAh Carga rápida de 45W Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-12-17T23:55:35Z
+  Updated: 2025-12-20T11:46:10Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22621.jpg?v=1746488714
-  Price: 604,99 € EUR
+  Price: 600,99 € EUR
 - [Oppo A5 Pro 5G 8GB/256GB Negro (Black Brown) Dual SIM](https://hifimediastore.com/products/oppo-a5-pro-5g-8gb-256gb-negro-black-brown-dual-sim): Oppo A5 Pro 5G:  Pantalla LCD de 6,67" y 120Hz MediaTek Dimensity 6300 Cámara con IA de 50 MP Batería de gran capacidad de 5800 mAh Carga rápida SUPERVOOC de 45 W Conexión 5G
-  Updated: 2025-12-17T23:30:11Z
+  Updated: 2025-12-19T21:05:10Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22644.jpg?v=1746654622
   Price: 227,99 € EUR
 - [Realme 14 Pro 5G 12GB/512GB Gris (Suede Grey) Dual SIM](https://hifimediastore.com/products/realme-14-pro-5g-12gb-512gb-gris-suede-grey-dual-sim-1): Realme 14 Pro 5G:  Pantalla de visión curva de 120 Hz Procesador 5G Dimensity 7300 Energy Cámara Sony IMX882 con OIS Batería Titan de 6000 mAh Carga SUPERVOOC de 45W Realme UI 6.0 IP69, IP68, IP66
-  Updated: 2025-12-17T23:40:16Z
+  Updated: 2025-12-19T21:15:11Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22649.jpg?v=1746654632
-  Price: 354,99 € EUR
+  Price: 351,99 € EUR
 - [Samsung Galaxy Tab S10 FE 10,9" 8GB/128GB WiFi Plata (Silver) X520B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-109-8gb-128gb-wifi-plata-silver-x520b): Samsung Galaxy Tab S10 FE:  Pantalla IPS LCD de 10,9" Cámara principal de 13MP Cámara selfie de 12MP Batería de 8000 mAh Carga rápida de 45W Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-12-15T22:02:28Z
+  Updated: 2025-12-19T22:52:25Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22657.jpg?v=1746654647
   Price: 454,99 € EUR
 - [Nothing Phone 3a 5G 12GB/256GB Blanco (White) Dual SIM](https://hifimediastore.com/products/nothing-phone-3a-5g-12gb-256gb-blanco-white-dual-sim): Nothing Phone 3a:  Pantalla AMOLED de 6,77" Snapdragon 7s Gen 3 5G Cámara triple de 50 MP y vídeo en 4K Cámara frontal de 32 MP Batería de 5000 mAh Carga rápida de 50W Interfaz Glyph Android 15, Nothing OS 3.1
-  Updated: 2025-12-17T03:50:41Z
+  Updated: 2025-12-20T16:30:11Z
   Vendor: Nothing Tech
   Product Type: Smartphone
   Availability: Available
@@ -8409,14 +8353,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22743.jpg?v=1747092618
   Price: 518,99 € EUR
 - [Vivo Y19s 4G 6GB/128GB Negro (Glossy Black) Dual SIM](https://hifimediastore.com/products/vivo-y19s-4g-6gb-128gb-negro-glossy-black-dual-sim): Vivo Y19s:  Pantalla IPS LCD 6,68"  Chip Unisoc Tiger T612 Cámara principal de 50 MP Cámara selfie de 5 MP Batería de 5150 mAh Flash Charge de 44W Android 14, Funtouch 14
-  Updated: 2025-12-17T17:30:16Z
+  Updated: 2025-12-20T23:35:12Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22747.jpg?v=1747092626
   Price: 138,99 € EUR
 - [Vivo Y19s 4G 6GB/128GB Plata (Pearl Silver) Dual SIM](https://hifimediastore.com/products/vivo-y19s-4g-6gb-128gb-plata-pearl-silver-dual-sim): Vivo Y19s:  Pantalla IPS LCD 6,68"  Chip Unisoc Tiger T612 Cámara principal de 50 MP Cámara selfie de 5 MP Batería de 5150 mAh Flash Charge de 44W Android 14, Funtouch 14
-  Updated: 2025-12-17T04:30:43Z
+  Updated: 2025-12-20T23:35:11Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
@@ -8430,42 +8374,35 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22757.jpg?v=1747092646
   Price: 171,99 € EUR
 - [Vivo Y19s 4G 8GB/256GB Plata (Pearl Silver) Dual SIM](https://hifimediastore.com/products/vivo-y19s-4g-8gb-256gb-plata-pearl-silver-dual-sim): Vivo Y19s:  Pantalla IPS LCD 6,68"  Chip Unisoc Tiger T612 Cámara principal de 50 MP Cámara selfie de 5 MP Batería de 5150 mAh Flash Charge de 44W Android 14, Funtouch 14
-  Updated: 2025-12-17T17:30:16Z
+  Updated: 2025-12-18T01:44:24Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22762.jpg?v=1747092654
-  Price: 175,99 € EUR
+  Price: 171,99 € EUR
 - [Oppo A5 Pro 4G 8GB/256GB Negro (Black Brown) Dual SIM](https://hifimediastore.com/products/oppo-a5-pro-4g-8gb-256gb-negro-black-brown-dual-sim): Oppo A5 Pro:  Pantalla LCD de 6,67" y 90Hz Qualcomm Snapdragon 6s 4G Gen1 (11 nm) Cámara con IA de 50 MP Batería de gran capacidad de 5800 mAh Carga rápida SUPERVOOC de 45 W
-  Updated: 2025-12-17T16:50:10Z
+  Updated: 2025-12-20T03:35:32Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22802.jpg?v=1747191308
   Price: 200,99 € EUR
 - [Realme 14T 5G 8GB/256GB Negro (Obsidian Black) Dual SIM](https://hifimediastore.com/products/realme-14t-5g-8gb-256gb-negro-obsidian-black-dual-sim): Realme 14T 5G:  Pantalla AMOLED de 120 Hz Procesador 5G Dimensity 6300 Cámara de 50 MP con IA Batería Titan de 6000 mAh Carga rápida de 45W Realme UI 6.0
-  Updated: 2025-12-17T23:40:17Z
+  Updated: 2025-12-19T01:40:21Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22851.jpg?v=1747240508
-  Price: 239,99 € EUR
-- [Realme 12x 5G 6GB/128GB Verde (Feather Green) Dual SIM](https://hifimediastore.com/products/realme-12x-5g-6gb-128gb-verde-feather-green-dual-sim): Realme 12x 5G:  Diseño ultrafino y ligero Pantalla de 120 Hz Procesador Dimensity 6100+ 5G Cámara principal de 50 MP con IA Batería de 5000 mAh Carga rápida de 15W Realme UI 5.0 Resistencia IP54
-  Updated: 2025-12-15T19:35:22Z
-  Vendor: Realme
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22890.jpg?v=1747338646
-  Price: 183,99 € EUR
+  Price: 235,99 € EUR
 - [Vivo V50 5G 12GB/512GB Negro (Satin Black) Dual SIM](https://hifimediastore.com/products/vivo-v50-5g-12gb-512gb-negro-satin-black-dual-sim): Vivo V50 5G:  Pantalla AMOLED de 6,77" y 120Hz Cámara dual de 50 MP Retrato profesional ZEISS Batería de 6000 mAh Flash Charge de 90W Snapdragon 7 Gen 3 Conexión 5G Android 15
-  Updated: 2025-12-17T17:30:12Z
+  Updated: 2025-12-19T03:30:59Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22925.jpg?v=1747417229
-  Price: 502,99 € EUR
+  Price: 499,99 € EUR
 - [Oppo A5 Pro 5G 8GB/256GB Verde (Olive Green) Dual SIM](https://hifimediastore.com/products/oppo-a5-pro-5g-8gb-256gb-verde-olive-green-dual-sim): Oppo A5 Pro 5G:  Pantalla LCD de 6,67" y 120Hz MediaTek Dimensity 6300 Cámara con IA de 50 MP Batería de gran capacidad de 5800 mAh Carga rápida SUPERVOOC de 45 W Conexión 5G
-  Updated: 2025-12-17T23:30:12Z
+  Updated: 2025-12-20T03:35:27Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -8479,14 +8416,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23030.jpg?v=1747706728
   Price: 581,99 € EUR
 - [ZTE Nubia Flip 5G 8GB/256GB Negro (Cosmic Black) Dual SIM](https://hifimediastore.com/products/zte-nubia-flip-5g-8gb-256gb-negro-cosmic-black-dual-sim): ZTE Nubia Flip 5G:  Pantalla FHD+ de 120Hz Procesador Qualcomm Snapdragon 7 Gen 1 Batería de 4310 mAh Carga rápida de 33W Cámara IA de 50 MP Conexión 5G Android 13
-  Updated: 2025-12-17T19:15:10Z
+  Updated: 2025-12-19T22:00:31Z
   Vendor: Nubia
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23064.jpg?v=1747777856
   Price: 377,99 € EUR
 - [Apple iPad Mini 2021 (6ª Gen.) 64GB Wi-Fi + Cellular Blanco (Starlight)](https://hifimediastore.com/products/apple-ipad-mini-2021-6-gen-64gb-wi-fi-cellular-blanco-starlight): Apple iPad Mini 2021:  Pantalla Liquid Retina de 8,3" Chip A15 Bionic Cámara trasera de 12 MP Cámara frontal de 12 MP Conexión Wi‑Fi 6 Batería de 5078 mAh Conexión 5G
-  Updated: 2025-12-17T22:40:21Z
+  Updated: 2025-12-19T20:15:26Z
   Vendor: Apple
   Product Type: Tablet's
   Availability: Available
@@ -8500,47 +8437,54 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23118.jpg?v=1747957843
   Price: 252,99 € EUR
 - [Realme GT 7 5G 12GB/256GB Negro (IceSense Black) Dual SIM](https://hifimediastore.com/products/realme-gt-7-5g-12gb-256gb-negro-icesense-black-dual-sim): Realme GT 7:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 9400e Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara insignia triple de Sony con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-12-16T21:35:16Z
+  Updated: 2025-12-20T11:49:40Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23221.jpg?v=1748475608
-  Price: 527,99 € EUR
+  Price: 519,99 € EUR
 - [Realme GT 7 5G 12GB/256GB Azul (IceSense Blue) Dual SIM](https://hifimediastore.com/products/realme-gt-7-5g-12gb-256gb-azul-icesense-blue-dual-sim): Realme GT 7:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 9400e Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara insignia triple de Sony con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-12-16T21:35:16Z
+  Updated: 2025-12-19T22:55:43Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23226.jpg?v=1748475618
-  Price: 522,99 € EUR
+  Price: 519,99 € EUR
 - [Realme GT 7 5G 12GB/512GB Negro (IceSense Black) Dual SIM](https://hifimediastore.com/products/realme-gt-7-5g-12gb-512gb-negro-icesense-black-dual-sim): Realme GT 7:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 9400e Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara insignia triple de Sony con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-12-17T23:40:16Z
+  Updated: 2025-12-19T22:55:44Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23231.jpg?v=1748475627
-  Price: 570,99 € EUR
+  Price: 568,99 € EUR
 - [Realme GT 7T 5G 12GB/256GB Azul (IceSense Blue) Dual SIM](https://hifimediastore.com/products/realme-gt-7t-5g-12gb-256gb-azul-icesense-blue-dual-sim): Realme GT 7T:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 8400 Max Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara Dual de 50MP con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-12-16T23:53:46Z
+  Updated: 2025-12-20T16:40:23Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23241.jpg?v=1748475644
-  Price: 464,99 € EUR
+  Price: 456,99 € EUR
 - [Realme GT 7T 5G 12GB/512GB Negro (IceSense Black) Dual SIM](https://hifimediastore.com/products/realme-gt-7t-5g-12gb-512gb-negro-icesense-black-dual-sim): Realme GT 7T:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 8400 Max Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara Dual de 50MP con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-12-16T21:35:21Z
+  Updated: 2025-12-20T18:15:58Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23276.jpg?v=1748554267
-  Price: 504,99 € EUR
+  Price: 499,99 € EUR
 - [Realme GT 7T 5G 12GB/512GB Azul (IceSense Blue) Dual SIM](https://hifimediastore.com/products/realme-gt-7t-5g-12gb-512gb-azul-icesense-blue-dual-sim): Realme GT 7T:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 8400 Max Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara Dual de 50MP con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-12-16T21:35:21Z
+  Updated: 2025-12-19T22:55:58Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23281.jpg?v=1748554276
-  Price: 504,99 € EUR
+  Price: 499,99 € EUR
+- [Samsung Galaxy S25 Edge 5G 12GB/512GB Negro (Titanium Jetblack) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-s25-edge-5g-12gb-512gb-negro-titanium-jetblack-dual-sim): Samsung Galaxy S25 Edge:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cámara principal de 200 MP Grabación de vídeo en 8K Batería de 3900 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
+  Updated: 2025-12-19T22:56:00Z
+  Vendor: Samsung
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23286.jpg?v=1748554285
+  Price: 886,99 € EUR
 - [Vivo V50 Lite 4G 8GB/256GB Púrpura (Mist Purple) Dual SIM](https://hifimediastore.com/products/vivo-v50-lite-4g-8gb-256gb-purpura-mist-purple-dual-sim): Vivo V50 Lite 4G:  Pantalla AMOLED de 6,77" y 120Hz Cámara dual de 50 MP Cámara selfie de 32 MP Batería de 6500 mAh, Carga rápida 90W Qualcomm Snapdragon 685 (6 nm) Conexión 4G Android 15
   Updated: 2025-12-17T10:55:16Z
   Vendor: Vivo
@@ -8549,19 +8493,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23333.jpg?v=1748894709
   Price: 252,99 € EUR
 - [TCL NXTPAPER 14 14,3" 8GB/256GB WiFi Gris (Grey)](https://hifimediastore.com/products/tcl-nxtpaper-14-143-8gb-256gb-wifi-gris-grey): TCL NXTPAPER 14:  Pantalla 2.4K de 14,3" Chip MediaTek Helio G99 Cámara trasera de 8 MP Cámara selfie dual de 13MP + 5MP Batería de 10.000 mAh Carga rápida 33W Android 14
-  Updated: 2025-12-13T11:39:13Z
+  Updated: 2025-12-20T23:30:26Z
   Vendor: TCL
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23364.jpg?v=1748974520
   Price: 383,99 € EUR
 - [Realme 14X 5G 8GB/256GB Negro (Carbon Black) Dual SIM](https://hifimediastore.com/products/realme-14x-5g-8gb-256gb-negro-carbon-black-dual-sim): Realme 14x 5G:  Pantalla IPS LCD de 120 Hz Procesador 5G Dimensity 6300 Cámara de 50MP con IA NEXT AI Batería de 5000 mAh Realme UI 6.0
-  Updated: 2025-12-13T11:39:13Z
+  Updated: 2025-12-19T21:15:11Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23372.jpg?v=1748994318
-  Price: 209,99 € EUR
+  Price: 207,99 € EUR
 - [TCL NXTPAPER 14 14,3" 8GB/256GB WiFi Gris (Grey) + Funda + Pen](https://hifimediastore.com/products/tcl-nxtpaper-14-143-8gb-256gb-wifi-gris-grey-funda-pen): TCL NXTPAPER 14:  Pantalla 2.4K de 14,3" Chip MediaTek Helio G99 Cámara trasera de 8 MP Cámara selfie dual de 13MP + 5MP Batería de 10.000 mAh Carga rápida 33W Android 14 Funda y Pen
   Updated: 2025-12-14T18:30:12Z
   Vendor: TCL
@@ -8570,56 +8514,56 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23382.jpg?v=1748994335
   Price: 433,99 € EUR
 - [Mars Gaming MHIB2 Auriculares Bluetooth Morados (Purple)](https://hifimediastore.com/products/mars-gaming-mhib2-auriculares-bluetooth-morados-purple): Mars Gaming MHIB2:  Diseño ergonómico semitransparente Sonido inmersivo Hasta 24 horas de duración de la batería Bluetooth 5.4 USB-C
-  Updated: 2025-12-17T16:35:11Z
+  Updated: 2025-12-20T22:45:12Z
   Vendor: MARS GAMING
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23392.jpg?v=1749074108
   Price: 29,99 € EUR
 - [Mars Gaming MHI-Ultra Auriculares Bluetooth Premium TWS Negros (Black)](https://hifimediastore.com/products/mars-gaming-mhi-ultra-auriculares-bluetooth-premium-tws-negros-black): Mars Gaming MHI-Ultra:  Estilo clásico pero moderno Triple anti-ruido (ANC+ENC+PASIVA) Hasta 24 horas de duración de la batería Base de carga inalámbrica Bluetooth 5.3 USB-C Resistencia IPX4
-  Updated: 2025-12-17T23:15:11Z
+  Updated: 2025-12-20T22:45:10Z
   Vendor: MARS GAMING
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23395.jpg?v=1749074113
   Price: 39,99 € EUR
 - [TCL NXTPAPER 11 Plus 11" 8GB/256GB WiFi Gris (Dark Gray)](https://hifimediastore.com/products/tcl-nxtpaper-11-plus-11-8gb-256gb-wifi-gris-dark-gray): TCL NXTPAPER 11 Plus:  Pantalla 2.2K de 11,5" Chip MediaTek Helio G100 Cámara trasera de 8 MP Cámara selfie de 8 MP Batería de 8.000 mAh Carga rápida 33W Android 15
-  Updated: 2025-12-17T17:30:19Z
+  Updated: 2025-12-20T23:30:26Z
   Vendor: TCL
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23401.jpg?v=1749074124
-  Price: 242,99 € EUR
+  Price: 241,99 € EUR
 - [JBL Wave Flex Auriculares Bluetooth Azules](https://hifimediastore.com/products/jbl-wave-flex-auriculares-bluetooth-azules): JBL Wave Flex:  Diseño ergonómico y ajuste cómodo Sonido JBL Deep Bass Hasta 32 horas de reproducción Resistencia IP54 Carga rápida Bluetooth 5.2
-  Updated: 2025-12-16T23:56:35Z
+  Updated: 2025-12-20T16:15:18Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23438.jpg?v=1749253508
   Price: 76,99 € EUR
 - [JBL Wave Flex Auriculares Bluetooth Blancos](https://hifimediastore.com/products/jbl-wave-flex-auriculares-bluetooth-blancos): JBL Wave Flex:  Diseño ergonómico y ajuste cómodo Sonido JBL Deep Bass Hasta 32 horas de reproducción Resistencia IP54 Carga rápida Bluetooth 5.2
-  Updated: 2025-12-16T23:56:36Z
+  Updated: 2025-12-20T16:15:26Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23442.jpg?v=1749253515
   Price: 76,99 € EUR
 - [Samsung Galaxy S25 Edge 5G 12GB/256GB Negro (Titanium Jetblack) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-s25-edge-5g-12gb-256gb-negro-titanium-jetblack-dual-sim): Samsung Galaxy S25 Edge:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cámara principal de 200 MP Grabación de vídeo en 8K Batería de 3900 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-15T19:55:10Z
+  Updated: 2025-12-19T21:30:21Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23456.jpg?v=1749482709
   Price: 757,99 € EUR
 - [Samsung Galaxy S25 Edge 5G 12GB/256GB Azul (Titanium Icyblue) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-s25-edge-5g-12gb-256gb-azul-titanium-icyblue-dual-sim): Samsung Galaxy S25 Edge:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cámara principal de 200 MP Grabación de vídeo en 8K Batería de 3900 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-16T02:20:25Z
+  Updated: 2025-12-19T21:30:20Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23461.jpg?v=1749482719
   Price: 796,99 € EUR
 - [JBL Vibe Flex Auriculares Bluetooth Negros](https://hifimediastore.com/products/jbl-vibe-flex-auriculares-bluetooth-negros): JBL Vibe Flex:  Diseño ergonómico y ajuste cómodo Sonido JBL Deep Bass Hasta 32 horas de reproducción Resistencia IP54 Carga rápida Bluetooth 5.2
-  Updated: 2025-12-17T23:10:36Z
+  Updated: 2025-12-20T22:40:22Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
@@ -8633,77 +8577,70 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23469.jpg?v=1749512415
   Price: 63,99 € EUR
 - [Mars Gaming MHIB Auriculares Bluetooth Blancos (White)](https://hifimediastore.com/products/mars-gaming-mhib-auriculares-bluetooth-blancos-white): Mars Gaming MHIB:  Controles táctiles Sonido espacial Dual Driver Hasta 16 horas de duración de la batería Bluetooth 5.1 Resistencia IPX4 USB-C
-  Updated: 2025-12-13T11:39:17Z
+  Updated: 2025-12-19T22:58:44Z
   Vendor: MARS GAMING
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23475.jpg?v=1749512425
-  Price: 33,99 € EUR
+  Price: 32,99 € EUR
 - [JBL Vibe Flex Auriculares Bluetooth Beige](https://hifimediastore.com/products/jbl-vibe-flex-auriculares-bluetooth-beige): JBL Vibe Flex:  Diseño ergonómico y ajuste cómodo Sonido JBL Deep Bass Hasta 32 horas de reproducción Resistencia IP54 Carga rápida Bluetooth 5.2
-  Updated: 2025-12-13T11:39:17Z
+  Updated: 2025-12-18T05:50:26Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23488.jpg?v=1749582307
   Price: 81,99 € EUR
 - [JBL Vibe Flex Auriculares Bluetooth Azules](https://hifimediastore.com/products/jbl-vibe-flex-auriculares-bluetooth-azules): JBL Vibe Flex:  Diseño ergonómico y ajuste cómodo Sonido JBL Deep Bass Hasta 32 horas de reproducción Resistencia IP54 Carga rápida Bluetooth 5.2
-  Updated: 2025-12-13T11:39:17Z
+  Updated: 2025-12-19T01:15:31Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23491.jpg?v=1749582313
   Price: 81,99 € EUR
 - [Mars Gaming MHIB2 Auriculares Bluetooth Negros (Black)](https://hifimediastore.com/products/mars-gaming-mhib2-auriculares-bluetooth-negros-black): Mars Gaming MHIB2:  Diseño ergonómico semitransparente Sonido inmersivo Hasta 24 horas de duración de la batería Bluetooth 5.4 USB-C
-  Updated: 2025-12-17T16:35:14Z
+  Updated: 2025-12-20T03:20:11Z
   Vendor: MARS GAMING
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23494.jpg?v=1749582319
   Price: 29,99 € EUR
-- [Mars Gaming MHIB2 Auriculares Bluetooth Blancos (White)](https://hifimediastore.com/products/mars-gaming-mhib2-auriculares-bluetooth-blancos-white): Mars Gaming MHIB2:  Diseño ergonómico semitransparente Sonido inmersivo Hasta 24 horas de duración de la batería Bluetooth 5.4 USB-C
-  Updated: 2025-12-17T03:40:50Z
-  Vendor: MARS GAMING
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23497.jpg?v=1749582609
-  Price: 29,99 € EUR
 - [Sony WF-C510 Auriculares Inalámbricos Azules](https://hifimediastore.com/products/sony-wf-c510-auriculares-inalambricos-azules): Sony WF-C510:  Diseño compacto y ligero Modo sonido ambiente Hasta 22 horas de duración de la batería Conexión multipunto Calidad de sonido excepcional Bluetooth 5.3
-  Updated: 2025-12-13T23:25:17Z
+  Updated: 2025-12-19T02:05:26Z
   Vendor: Sony
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23503.jpg?v=1749592513
   Price: 57,99 € EUR
 - [Apple iPad Air 2025 11" M3 128GB WiFi Azul (Blue)](https://hifimediastore.com/products/apple-ipad-air-2025-11-m3-128gb-wifi-azul-blue): Apple iPad Air 2025 Pantalla Liquid Retina de 11 Chip M3 de Apple Camara trasera de 12 MP con HDR y Video en 4K Camara frontal de 12 MP en horizontal Conexion WiFi 6E Ultrarrapida Apple Intelligence iPadOS 1832 Compatible con Apple Pencil Pro y Mag
-  Updated: 2025-12-17T16:00:16Z
+  Updated: 2025-12-18T21:01:31Z
   Vendor: Apple
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23525.jpg?v=1749662409
   Price: 722,99 € EUR
 - [OPPO Reno13 FS 5G 12GB/512GB Púrpura (Plume Purple) Dual SIM](https://hifimediastore.com/products/oppo-reno13-fs-5g-12gb-512gb-purpura-plume-purple-dual-sim): OPPO Reno13 FS 5G:  Pantalla FHD+ 6,67" AMOLED Cámara triple de 50MP Chip Qualcomm Snapdragon 6 Gen 1 Batería de 5800 mAh Carga rápida SUPERVOOC de 45W IP69 resistente al agua y al polvo Inteligencia Artificial
-  Updated: 2025-12-17T16:50:16Z
+  Updated: 2025-12-20T03:35:27Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23542.jpg?v=1749662444
   Price: 361,99 € EUR
 - [Mars Gaming MHIB2 Auriculares Bluetooth Rosa (Pink)](https://hifimediastore.com/products/mars-gaming-mhib2-auriculares-bluetooth-rosa-pink): Mars Gaming MHIB2:  Diseño ergonómico semitransparente Sonido inmersivo Hasta 24 horas de duración de la batería Bluetooth 5.4 USB-C
-  Updated: 2025-12-17T23:15:11Z
+  Updated: 2025-12-20T09:55:11Z
   Vendor: MARS GAMING
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23574.jpg?v=1749842431
   Price: 29,99 € EUR
 - [Samsung Galaxy S25 Edge 5G 12GB/256GB Plata (Titanium Silver) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-s25-edge-5g-12gb-256gb-plata-titanium-silver-dual-sim): Samsung Galaxy S25 Edge:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cámara principal de 200 MP Grabación de vídeo en 8K Batería de 3900 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-12-17T23:55:26Z
+  Updated: 2025-12-18T01:49:30Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23621.jpg?v=1750291828
-  Price: 851,99 € EUR
+  Price: 842,99 € EUR
 - [ZTE Nubia Neo 3 GT 5G 12GB/256GB Negro (Interstellar Gray) Dual SIM](https://hifimediastore.com/products/zte-nubia-neo-3-gt-5g-12gb-256gb-negro-interstellar-gray-dual-sim): ZTE Nubia Neo 3 GT 5G:  Pantalla OLED FHD+ de 120Hz Procesador Unisoc Tiger T9100 Batería de 6000 mAh Carga rápida de 80W Cámara IA de 50 MP Conexión 5G Android 15
-  Updated: 2025-12-17T17:50:14Z
+  Updated: 2025-12-20T23:55:06Z
   Vendor: ZTE
   Product Type: Smartphone
   Availability: Available
@@ -8717,14 +8654,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23818.jpg?v=1751667307
   Price: 220,99 € EUR
 - [Vivo V40 SE 80W 5G 8GB/256GB Negro (Imperial Black) Dual SIM](https://hifimediastore.com/products/vivo-v40-se-80w-5g-8gb-256gb-negro-imperial-black-dual-sim): Vivo V40 SE 80W 5G:  Pantalla AMOLED de 6,67" y 120Hz Cámara dual de 50 MP con Ultra Gran Angular 8 MP Batería de 5000 mAh, Carga rápida 80W Qualcomm Snapdragon 4 Gen 2 Conexión 5G Android 14
-  Updated: 2025-12-17T17:30:11Z
+  Updated: 2025-12-20T10:45:27Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23823.jpg?v=1751667318
   Price: 252,99 € EUR
 - [Vivo V40 SE 80W 5G 8GB/256GB Plata (Titanium Silver) Dual SIM](https://hifimediastore.com/products/vivo-v40-se-80w-5g-8gb-256gb-plata-titanium-silver-dual-sim): Vivo V40 SE 80W 5G:  Pantalla AMOLED de 6,67" y 120Hz Cámara dual de 50 MP con Ultra Gran Angular 8 MP Batería de 5000 mAh, Carga rápida 80W Qualcomm Snapdragon 4 Gen 2 Conexión 5G Android 14
-  Updated: 2025-12-17T10:55:11Z
+  Updated: 2025-12-20T10:45:26Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
@@ -8738,42 +8675,42 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23836.jpg?v=1751687706
   Price: 220,99 € EUR
 - [Motorola Moto Buds Loop Auriculares Bluetooth Verde (Trekking Green)](https://hifimediastore.com/products/motorola-moto-buds-loop-auriculares-bluetooth-verde-trekking-green): Motorola Moto Buds Loop:  Diseño de auricular abierto Sound by Bose Hasta 37 horas de reproducción Diseño repelente al agua Aplicación Moto Buds Bluetooth 5.4
-  Updated: 2025-12-17T23:15:11Z
+  Updated: 2025-12-20T16:20:12Z
   Vendor: Motorola
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23855.jpg?v=1752000308
   Price: 67,99 € EUR
 - [OnePlus Buds 4 Auriculares Bluetooth Verde (Zen Green)](https://hifimediastore.com/products/oneplus-buds-4-auriculares-bluetooth-verde-zen-green): OnePlus Buds 4:  Cancelación activa de ruido con IA Hi-Res Audio AI Translation Hasta 45 horas de reproducción Nuevo modo adaptativo Bluetooth 5.4
-  Updated: 2025-12-17T16:45:26Z
+  Updated: 2025-12-20T03:30:22Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23900.jpg?v=1752102619
   Price: 96,99 € EUR
 - [OnePlus Buds 4 Auriculares Bluetooth Gris (Storm Gray)](https://hifimediastore.com/products/oneplus-buds-4-auriculares-bluetooth-gris-storm-gray): OnePlus Buds 4:  Cancelación activa de ruido con IA Hi-Res Audio AI Translation Hasta 45 horas de reproducción Nuevo modo adaptativo Bluetooth 5.4
-  Updated: 2025-12-17T23:25:22Z
+  Updated: 2025-12-20T22:55:23Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23903.jpg?v=1752102625
   Price: 97,99 € EUR
 - [Oppo Enco Buds2 Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/oppo-enco-buds2-auriculares-bluetooth-negro-black): Oppo Enco Buds2 Bluetooth 52 Alcance Bluetooth 10m Capacidad de la bateria 0 mAh Auriculares 460 mAh Estuche de Carga Puerto de carga USB Tipo C Tiempo de carga 90 min Auriculares 200 min Auriculares Estuche de Carga Resistencia al pol
-  Updated: 2025-12-17T16:45:30Z
+  Updated: 2025-12-19T01:30:31Z
   Vendor: Oppo
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23931.jpg?v=1752256208
-  Price: 39,99 € EUR
+  Price: 37,99 € EUR
 - [OnePlus Nord 5 5G 8GB/256GB Gris (Phantom Grey) Dual SIM](https://hifimediastore.com/products/oneplus-nord-5-5g-8gb-256gb-gris-phantom-grey-dual-sim): OnePlus Nord 5:  Pantalla AMOLED de 144Hz Cámara frontal y trasera de 50MP Vídeo en 4K Chip Qualcomm Snapdragon 8s Gen 3 Batería de 5200 mAh 80W SUPERVOOC Android 15, Oxygen 15 Conexión 5G
-  Updated: 2025-12-17T16:45:22Z
+  Updated: 2025-12-19T14:25:26Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23962.jpg?v=1752594627
-  Price: 466,99 € EUR
+  Price: 462,99 € EUR
 - [OnePlus Nord CE5 5G 8GB/256GB Negro (Black Infinity) Dual SIM](https://hifimediastore.com/products/oneplus-nord-ce5-5g-8gb-256gb-negro-black-infinity-dual-sim): OnePlus Nord CE5:  Pantalla AMOLED de 120Hz UltraHDR Cámara de 50MP Sony con OIS Vídeo en 4K Chip Dimensity 8350 Apex Batería de 5200 mAh 80W SUPERVOOC Android 15, Oxygen 15 Conexión 5G
-  Updated: 2025-12-17T23:25:06Z
+  Updated: 2025-12-20T03:30:15Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
@@ -8787,26 +8724,26 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24033.jpg?v=1752779728
   Price: 263,99 € EUR
 - [ZTE Nubia Focus 2 Ultra 8GB/512GB Blanco (Sunrise White) Dual SIM](https://hifimediastore.com/products/zte-nubia-focus-2-ultra-8gb-512gb-blanco-sunrise-white-dual-sim): ZTE Nubia Focus 2 Ultra:  Pantalla AMOLED FHD+ de 120Hz Procesador Unisoc T760 Batería de 5000 mAh Carga rápida de 33W Triple cámara de 50 MP Conexión 5G Android 15
-  Updated: 2025-12-16T02:55:10Z
+  Updated: 2025-12-19T02:30:15Z
   Vendor: ZTE
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24037.jpg?v=1752779737
   Price: 263,99 € EUR
 - [Xiaomi Redmi Buds 6 Pro Auriculares Bluetooth Negro (Space Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-pro-auriculares-bluetooth-negro-space-black): Xiaomi Redmi Buds 6 Pro Bluetooth 53 Audio de alta resolucion LDAC Anulacion de ruido activa de hasta 55 dB Diafragmas coaxiales triples Bateria de hasta 36 horas de duracion Escucha hasta 2h de musica con una carga de 5 min Reduccion de ruido con IA
-  Updated: 2025-12-13T11:39:22Z
+  Updated: 2025-12-19T16:35:23Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24261.jpg?v=1753472418
-  Price: 81,99 € EUR
+  Price: 78,99 € EUR
 - [OPPO A5x 4G 4GB/128GB Azul (Midnight Blue) Dual SIM](https://hifimediastore.com/products/oppo-a5x-4g-4gb-128gb-azul-midnight-blue-dual-sim): Oppo A5x:  Pantalla LCD de 6,67" Qualcomm Snapdragon 6s 4G Gen1 Cámara principal de 32 MP Batería de gran capacidad de 6000 mAh Carga rápida SUPERVOOC de 45 W Conexión 4G
-  Updated: 2025-12-17T23:25:26Z
+  Updated: 2025-12-20T11:57:57Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24478.jpg?v=1754520309
-  Price: 129,99 € EUR
+  Price: 126,99 € EUR
 - [Realme C71 4G 8GB/256GB Blanco (White Swan) Dual SIM](https://hifimediastore.com/products/realme-c71-4g-8gb-256gb-blanco-white-swan-dual-sim): Realme C71:  Pantalla IPS LCD de 6,67" ProcesadorUnisoc T7250 Cámara IA de 50 MP Gran batería de 6000 mAh Carga SUPERVOOC de 45W Protección ArmorShell Resistencia al agua y al polvo
   Updated: 2025-12-16T21:35:25Z
   Vendor: Realme
@@ -8815,19 +8752,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24502.jpg?v=1754594728
   Price: 172,99 € EUR
 - [Nothing Phone 3 5G 16GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/nothing-phone-3-5g-16gb-512gb-negro-black-dual-sim): Nothing Phone 3:  Pantalla AMOLED de 6,67" Snapdragon 8s Gen 4 Cámara triple de 50 MP y vídeo en 4K Cámara frontal de 50 MP Batería de 5150 mAh Carga rápida de 65W Interfaz Glyph Android 15, Nothing OS 3.5
-  Updated: 2025-12-17T16:45:11Z
+  Updated: 2025-12-20T16:30:13Z
   Vendor: Nothing Tech
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24627.jpg?v=1755126318
   Price: 840,99 € EUR
 - [Nothing Phone 3 5G 16GB/512GB Blanco (White) Dual SIM](https://hifimediastore.com/products/nothing-phone-3-5g-16gb-512gb-blanco-white-dual-sim): Nothing Phone 3:  Pantalla AMOLED de 6,67" Snapdragon 8s Gen 4 Cámara triple de 50 MP y vídeo en 4K Cámara frontal de 50 MP Batería de 5150 mAh Carga rápida de 65W Interfaz Glyph Android 15, Nothing OS 3.5
-  Updated: 2025-12-17T23:25:12Z
+  Updated: 2025-12-20T05:30:13Z
   Vendor: Nothing Tech
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/24631.jpg?v=1755126327
-  Price: 834,99 € EUR
+  Price: 865,99 € EUR
 - [Y50 TWS Earbuds - Auriculares Inalámbricos Bluetooth Premium](https://hifimediastore.com/products/y50-tws-earbuds): Auriculares Y50 TWS con sonido dinámico, Bluetooth estable y control de volumen. Diseño cómodo intraauricular. ¡Libertad total sin cables!
   Updated: 2025-12-13T11:39:24Z
   Vendor: Hifi Media Store
@@ -8843,124 +8780,124 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/S4a3b833762f448eaae305e75d959b1e2C.webp?v=1756495067
     Price: 33,99 € EUR
 - [Realme Note 70T 4G 4GB/256GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/realme-note-70t-4g-4gb-256gb-negro-obsidian-dual-sim): Realme Note 70T:  Pantalla LCD de 6,74" Cuerpo ultrafino Procesador Unisoc T7250 Cámara principal de 50 MP Batería de 6000 mAh Carga rápida de 15W Resistencia IP54 al agua y al polvo
-  Updated: 2025-12-17T23:40:21Z
+  Updated: 2025-12-20T05:33:32Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25481.jpg?v=1757100932
   Price: 115,99 € EUR
 - [Apple iPhone 17 256GB Negro (Black)](https://hifimediastore.com/products/apple-iphone-17-256gb-negro-black): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:25Z
+  Updated: 2025-12-20T18:28:10Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25607.jpg?v=1757619918
-  Price: 1279,99 € EUR
+  Price: 1233,99 € EUR
 - [Apple iPhone 17 Pro 256GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-256gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:28:12Z
+  Updated: 2025-12-19T03:44:17Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25611.jpg?v=1757619926
-  Price: 1588,99 € EUR
+  Price: 1579,99 € EUR
 - [Samsung Galaxy Buds3 FE Auriculares Bluetooth Negro (Black) SM-R420](https://hifimediastore.com/products/samsung-galaxy-buds3-fe-auriculares-bluetooth-negro-black-sm-r420): Galaxy Buds3 FE:  Diseño ergonómico y resistente Bluetooth 5.4 Cancelación Activa de Ruido Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-12-16T15:25:32Z
+  Updated: 2025-12-20T10:40:15Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25649.jpg?v=1757696436
   Price: 92,99 € EUR
 - [Vivo X200 FE 5G 12GB/512GB Azul (Blue Breeze) Dual SIM](https://hifimediastore.com/products/vivo-x200-fe-5g-12gb-512gb-azul-blue-breeze-dual-sim): Vivo X200 FE:  Pantalla AMOLED de 6,31" Triple cámara de 50MP con Óptica Zeiss Batería de 6500 mAh Carga rápida de 90W Chip MediaTek Dimensity 9300+ Android 15, Funtouck OS 15 Conexión 5G
-  Updated: 2025-12-15T22:20:10Z
+  Updated: 2025-12-20T04:15:11Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25684.jpg?v=1757970010
   Price: 812,99 € EUR
 - [OPPO Reno14 F 5G 8GB/256GB Verde (Luminous Green) Dual SIM](https://hifimediastore.com/products/oppo-reno14-f-5g-8gb-256gb-verde-luminous-green-dual-sim): OPPO Reno14 F 5G:  Pantalla AMOLED de 6,57" Cámara triple de 50MP Chip Qualcomm Snapdragon 6 Gen 1 Batería de 6000 mAh Carga rápida SUPERVOOC de 45W IP68 resistente al agua y al polvo Inteligencia Artificial
-  Updated: 2025-12-16T21:30:17Z
+  Updated: 2025-12-18T19:10:16Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25697.jpg?v=1758057918
   Price: 332,99 € EUR
 - [OPPO Reno14 FS 5G 12GB/512GB Verde (Luminous Green) Dual SIM](https://hifimediastore.com/products/oppo-reno14-fs-5g-12gb-512gb-verde-luminous-green-dual-sim): OPPO Reno14 FS 5G:  Pantalla AMOLED de 6,57" Cámara triple de 50MP Chip Qualcomm Snapdragon 6 Gen 1 Batería de 6000 mAh Carga rápida SUPERVOOC de 45W IP68 resistente al agua y al polvo Inteligencia Artificial
-  Updated: 2025-12-16T08:25:13Z
+  Updated: 2025-12-20T03:35:26Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25702.jpg?v=1758057926
   Price: 408,99 € EUR
 - [Apple iPhone 17 Pro Max 256GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-max-256gb-plata-silver): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:30:21Z
+  Updated: 2025-12-20T16:15:49Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25727.jpg?v=1758134437
-  Price: 1822,99 € EUR
+  Price: 1800,99 € EUR
 - [Apple iPhone Air 256GB Negro (Space Black)](https://hifimediastore.com/products/apple-iphone-air-256gb-negro-space-black): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:30:37Z
+  Updated: 2025-12-20T12:04:31Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25768.jpg?v=1758156317
-  Price: 1235,99 € EUR
+  Price: 1225,99 € EUR
 - [Oppo A5 4G 6GB/128GB Púrpura (Midnight Purple) Dual SIM](https://hifimediastore.com/products/oppo-a5-4g-6gb-128gb-purpura-midnight-purple-dual-sim): Oppo A5:  Pantalla LCD de 6,67" Qualcomm Snapdragon 6s 4G Gen1 Cámara con IA de 50 MP Batería de gran capacidad de 6000 mAh Carga rápida SUPERVOOC de 45 W Conexión 4G
-  Updated: 2025-12-17T03:50:37Z
+  Updated: 2025-12-20T03:30:22Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25772.jpg?v=1758156325
   Price: 153,99 € EUR
 - [Apple iPhone Air 1TB Negro (Space Black)](https://hifimediastore.com/products/apple-iphone-air-1tb-negro-space-black): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T06:30:45Z
+  Updated: 2025-12-19T14:10:27Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25800.jpg?v=1758298807
-  Price: 1517,99 € EUR
+  Price: 1502,99 € EUR
 - [Apple iPhone Air 1TB Blanco Nube (Cloud White)](https://hifimediastore.com/products/apple-iphone-air-1tb-blanco-nube-cloud-white): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:30:51Z
+  Updated: 2025-12-19T16:42:44Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25804.jpg?v=1758298815
-  Price: 1517,99 € EUR
+  Price: 2066,99 € EUR
 - [Apple iPhone Air 256GB Blanco Nube (Cloud White)](https://hifimediastore.com/products/apple-iphone-air-256gb-blanco-nube-cloud-white): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-16T21:10:31Z
+  Updated: 2025-12-19T01:15:31Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25808.jpg?v=1758298822
   Price: 1285,99 € EUR
 - [Apple iPhone Air 512GB Negro (Space Black)](https://hifimediastore.com/products/apple-iphone-air-512gb-negro-space-black): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T00:08:51Z
+  Updated: 2025-12-19T20:45:36Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25812.jpg?v=1758298828
   Price: 1394,99 € EUR
 - [Apple iPhone 17 Pro 1TB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-1tb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:26Z
+  Updated: 2025-12-19T23:11:03Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25855.jpg?v=1758660908
-  Price: 2156,99 € EUR
+  Price: 2184,99 € EUR
 - [Apple iPhone 17 Pro 256GB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-256gb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:27Z
+  Updated: 2025-12-20T03:15:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25859.jpg?v=1758660915
-  Price: 1602,99 € EUR
+  Price: 1591,99 € EUR
 - [Apple iPhone 17 Pro 512GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-512gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:31Z
+  Updated: 2025-12-19T20:45:32Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25863.jpg?v=1758660923
-  Price: 1876,99 € EUR
+  Price: 1867,99 € EUR
 - [Apple iPhone Air 1TB Azul Cielo (Sky Blue)](https://hifimediastore.com/products/apple-iphone-air-1tb-azul-cielo-sky-blue): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
   Updated: 2025-12-13T11:39:28Z
   Vendor: Apple
@@ -8969,152 +8906,152 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25867.jpg?v=1758660930
   Price: 1502,99 € EUR
 - [Apple iPhone Air 1TB Dorado Claro (Light Gold)](https://hifimediastore.com/products/apple-iphone-air-1tb-dorado-claro-light-gold): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:31:11Z
+  Updated: 2025-12-18T08:29:06Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25871.jpg?v=1758660937
-  Price: 1532,99 € EUR
+  Price: 1502,99 € EUR
 - [Apple iPhone Air 256GB Azul Cielo (Sky Blue)](https://hifimediastore.com/products/apple-iphone-air-256gb-azul-cielo-sky-blue): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-16T21:10:30Z
+  Updated: 2025-12-19T23:11:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25875.jpg?v=1758660944
-  Price: 1239,99 € EUR
+  Price: 1225,99 € EUR
 - [Apple iPhone Air 256GB Dorado Claro (Light Gold)](https://hifimediastore.com/products/apple-iphone-air-256gb-dorado-claro-light-gold): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:31Z
+  Updated: 2025-12-19T23:11:12Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25879.jpg?v=1758660951
-  Price: 1270,99 € EUR
+  Price: 1225,99 € EUR
 - [Apple iPhone Air 512GB Azul Cielo (Sky Blue)](https://hifimediastore.com/products/apple-iphone-air-512gb-azul-cielo-sky-blue): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:36Z
+  Updated: 2025-12-19T20:45:37Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25883.jpg?v=1758660958
   Price: 1394,99 € EUR
 - [Apple iPhone Air 512GB Dorado Claro (Light Gold)](https://hifimediastore.com/products/apple-iphone-air-512gb-dorado-claro-light-gold): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:31:23Z
+  Updated: 2025-12-19T23:11:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25887.jpg?v=1758660964
-  Price: 1403,99 € EUR
+  Price: 1387,99 € EUR
 - [Apple iPhone 17 256GB Azul Neblina (Mist Blue)](https://hifimediastore.com/products/apple-iphone-17-256gb-azul-neblina-mist-blue): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:26Z
+  Updated: 2025-12-19T23:11:17Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25891.jpg?v=1758737708
-  Price: 1264,99 € EUR
+  Price: 1235,99 € EUR
 - [Apple iPhone 17 Pro 1TB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-1tb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-16T01:40:16Z
+  Updated: 2025-12-19T20:45:31Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25903.jpg?v=1758737731
   Price: 2215,99 € EUR
 - [Apple iPhone 17 Pro 1TB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-1tb-plata-silver): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:25Z
+  Updated: 2025-12-19T23:11:23Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25907.jpg?v=1758737738
-  Price: 2215,99 € EUR
+  Price: 2184,99 € EUR
 - [Apple iPhone 17 Pro 256GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-256gb-plata-silver): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:26Z
+  Updated: 2025-12-20T05:37:22Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25911.jpg?v=1758737746
-  Price: 1617,99 € EUR
+  Price: 1616,99 € EUR
 - [Apple iPhone 17 Pro 512GB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-512gb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:31Z
+  Updated: 2025-12-19T20:45:31Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25915.jpg?v=1758737754
-  Price: 1880,99 € EUR
+  Price: 1867,99 € EUR
 - [Apple iPhone 17 Pro 512GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-512gb-plata-silver): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:31:34Z
+  Updated: 2025-12-19T20:45:31Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25919.jpg?v=1758737761
-  Price: 1912,99 € EUR
+  Price: 1891,99 € EUR
 - [OPPO A5x 4G 4GB/128GB Blanco (Laser White) Dual SIM](https://hifimediastore.com/products/oppo-a5x-4g-4gb-128gb-blanco-laser-white-dual-sim): Oppo A5x:  Pantalla LCD de 6,67" Qualcomm Snapdragon 6s 4G Gen1 Cámara principal de 32 MP Batería de gran capacidad de 6000 mAh Carga rápida SUPERVOOC de 45 W Conexión 4G
-  Updated: 2025-12-17T23:25:27Z
+  Updated: 2025-12-19T14:25:28Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25923.jpg?v=1758737767
   Price: 131,99 € EUR
 - [Apple iPhone 17 256GB Lavanda (Lavender)](https://hifimediastore.com/products/apple-iphone-17-256gb-lavanda-lavender): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:26Z
+  Updated: 2025-12-20T22:40:17Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25953.jpg?v=1758836114
-  Price: 1279,99 € EUR
+  Price: 1235,99 € EUR
 - [Apple iPhone 17 Pro Max 256GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-max-256gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T16:30:28Z
+  Updated: 2025-12-20T03:15:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25969.jpg?v=1758836143
-  Price: 1754,99 € EUR
+  Price: 1762,99 € EUR
 - [Apple iPhone 17 Pro Max 512GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:31:45Z
+  Updated: 2025-12-19T23:11:44Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25973.jpg?v=1758836150
-  Price: 2064,99 € EUR
+  Price: 2078,99 € EUR
 - [Apple iPhone 17 Pro Max 512GB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:31:52Z
+  Updated: 2025-12-19T20:45:36Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25977.jpg?v=1758836157
-  Price: 2119,99 € EUR
+  Price: 2104,99 € EUR
 - [Apple iPhone 17 Pro Max 512GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-plata-silver): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T19:31:48Z
+  Updated: 2025-12-19T23:11:47Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25981.jpg?v=1758836163
-  Price: 2064,99 € EUR
+  Price: 2099,99 € EUR
 - [Samsung Galaxy Buds3 FE Auriculares Bluetooth Gris (Grey) SM-R420](https://hifimediastore.com/products/samsung-galaxy-buds3-fe-auriculares-bluetooth-gris-grey-sm-r420): Galaxy Buds3 FE:  Diseño ergonómico y resistente Bluetooth 5.4 Cancelación Activa de Ruido Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-12-18T00:00:27Z
+  Updated: 2025-12-20T23:25:21Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25994.jpg?v=1758858009
   Price: 92,99 € EUR
 - [Apple iPhone 17 Pro Max 256GB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-max-256gb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-17T23:10:31Z
+  Updated: 2025-12-20T03:15:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25999.jpg?v=1759166410
-  Price: 1845,99 € EUR
+  Price: 1836,99 € EUR
 - [Apple iPhone 17 Pro Max 2TB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-max-2tb-azul-oscuro-deep-blue): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-12-13T11:39:32Z
+  Updated: 2025-12-20T03:15:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26160.jpg?v=1759764306
   Price: 3009,99 € EUR
 - [Apple Airpods Pro 3 Bluetooth Blanco (White) MFHP4ZM/A](https://hifimediastore.com/products/apple-airpods-pro-3-bluetooth-blanco-white-mfhp4zm-a): AirPods 3 Pro:  Chip H2 Hasta 8 horas de reproducción con una sola carga Medición de frecuencia cardiaca Protección auditiva Carga fácil con USB-C Bluetooth 5.3 Calificación IP57
-  Updated: 2025-12-17T22:48:13Z
+  Updated: 2025-12-19T20:15:17Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26174.jpg?v=1759786808
-  Price: 327,99 € EUR
+  Price: 321,99 € EUR
 - [Oppo A5 4G 6GB/128GB Blanco (Mist White) Dual SIM](https://hifimediastore.com/products/oppo-a5-4g-6gb-128gb-blanco-mist-white-dual-sim): Oppo A5:  Pantalla LCD de 6,67" Qualcomm Snapdragon 6s 4G Gen1 Cámara con IA de 50 MP Batería de gran capacidad de 6000 mAh Carga rápida SUPERVOOC de 45 W Conexión 4G
   Updated: 2025-12-13T11:39:33Z
   Vendor: Oppo
@@ -9123,12 +9060,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26295.jpg?v=1760761809
   Price: 162,99 € EUR
 - [OPPO Enco Air4 Earbuds Auriculares Bluetooth Verde (Fresh Mint)](https://hifimediastore.com/products/oppo-enco-air4-earbuds-auriculares-bluetooth-verde-fresh-mint): Oppo Enco Air4:  Cancelación activa de ruido de 32 dB Micrófono dual con IA Bluetooth 5.4 Hasta 43 horas de reproducción Controlador de diafragma de 12,4 mm Resistencia al agua IP55
-  Updated: 2025-12-13T11:39:33Z
+  Updated: 2025-12-19T23:14:47Z
   Vendor: Oppo
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26300.jpg?v=1760761819
-  Price: 62,99 € EUR
+  Price: 61,99 € EUR
 - [OPPO Enco Air4 Earbuds Auriculares Bluetooth Blanco (Silky White)](https://hifimediastore.com/products/oppo-enco-air4-earbuds-auriculares-bluetooth-blanco-silky-white): Oppo Enco Air4:  Cancelación activa de ruido de 32 dB Micrófono dual con IA Bluetooth 5.4 Hasta 43 horas de reproducción Controlador de diafragma de 12,4 mm Resistencia al agua IP55
   Updated: 2025-12-13T22:45:22Z
   Vendor: Oppo
@@ -9165,14 +9102,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26479.jpg?v=1761701707
   Price: 95,99 € EUR
 - [Honor CHOICE Earbuds S7 Auriculares Bluetooth Blancos (White)](https://hifimediastore.com/products/honor-choice-earbuds-s7-auriculares-bluetooth-blancos-white): Honor CHOICE Earbuds S7:  Diseño ergonómico Bluetooth 5.3 Cancelación activa inteligente del ruido 2.0 Batería de hasta 36h Audio de alta resolución Conexión dual
-  Updated: 2025-12-16T21:00:17Z
+  Updated: 2025-12-18T18:40:11Z
   Vendor: Honor
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26482.jpg?v=1761701713
   Price: 61,99 € EUR
 - [TCL NXTPAPER 60 Ultra 5G 12GB/512GB Negro Nebulosa (Nebula Black) Dual SIM](https://hifimediastore.com/products/tcl-nxtpaper-60-ultra-5g-12gb-512gb-negro-nebulosa-nebula-black-dual-sim): TCL NXTPAPER 60 Ultra 5G:  Pantalla FHD+ NXTPAPER 4.0 de 7,2" Cámara triple de 50MP Cámara frontal de 32MP Procesador MediaTek Dimensity 7400 Batería de 5200 mAh y carga rápida de 33W Desbloqueo facial Sensor de huellas
-  Updated: 2025-12-16T22:00:26Z
+  Updated: 2025-12-20T17:10:12Z
   Vendor: TCL
   Product Type: Smartphone
   Availability: Available
@@ -9186,14 +9123,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26514.jpg?v=1761768325
   Price: 626,99 € EUR
 - [OPPO A6 Pro 5G 8GB/256GB Azul (Stellar Black) Dual SIM](https://hifimediastore.com/products/oppo-a6-pro-5g-8gb-256gb-azul-stellar-black-dual-sim): Oppo A6 Pro 5G:  Pantalla LCD de 6,57" y 120Hz MediaTek Dimensity 6300 Cámara con IA de 50 MP Batería de gran capacidad de 7000 mAh Carga rápida SUPERVOOC de 67 W Conexión 5G
-  Updated: 2025-12-17T16:45:29Z
+  Updated: 2025-12-19T21:00:31Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26664.jpg?v=1762384807
   Price: 283,99 € EUR
 - [OPPO A6 Pro 5G 8GB/256GB Plata (Lunar Titanium) Dual SIM](https://hifimediastore.com/products/oppo-a6-pro-5g-8gb-256gb-plata-lunar-titanium-dual-sim): Oppo A6 Pro 5G:  Pantalla LCD de 6,57" y 120Hz MediaTek Dimensity 6300 Cámara con IA de 50 MP Batería de gran capacidad de 7000 mAh Carga rápida SUPERVOOC de 80W Conexión 5G
-  Updated: 2025-12-17T23:25:28Z
+  Updated: 2025-12-20T03:30:21Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -9284,50 +9221,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auriculares-sony-wf-c510-tws-wfc510bce7_27cb999d-f08b-4928-b397-07d2e257d600.jpg?v=1765021936
   Price: 65,99 € EUR
-- [Xiaomi OpenWear Stereo Pro Auriculares Bluetooth Negro (Graphite Black)](https://hifimediastore.com/products/xiaomi-openwear-stereo-pro-auriculares-bluetooth-negro-graphite-black): Xiaomi OpenWear Stereo Pro:  Ligeros y cómodos Bluetooth 5.4 Harman AudioEFX Audio dimensional Batería de hasta 45 horas de duración Escucha hasta 2h de música con una carga de 10 min Control táctil inteligente Conectividad inteligente
-  Updated: 2025-12-16T02:40:15Z
-  Vendor: Xiaomi
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26787.jpg?v=1762826107
-  Price: 164,99 € EUR
 - [Xiaomi OpenWear Stereo Pro Auriculares Bluetooth Dorado Arena (Sand Gold)](https://hifimediastore.com/products/xiaomi-openwear-stereo-pro-auriculares-bluetooth-dorado-arena-sand-gold): Xiaomi OpenWear Stereo Pro:  Ligeros y cómodos Bluetooth 5.4 Harman AudioEFX Audio dimensional Batería de hasta 45 horas de duración Escucha hasta 2h de música con una carga de 10 min Control táctil inteligente Conectividad inteligente
-  Updated: 2025-12-16T22:10:11Z
+  Updated: 2025-12-20T23:40:11Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26791.jpg?v=1762826115
   Price: 164,99 € EUR
 - [ZTE Blade A54 4GB/128GB Gris (Grey) Dual SIM](https://hifimediastore.com/products/zte-blade-a54-4gb-128gb-gris-grey-dual-sim): ZTE Blade A54:  Gran pantalla 6,6 pulgadas Unisoc SC9863A Batería de 5000 mAh Ram 4GB ampliable a 8GB Carga rápida de 10W Cámara doble de 13 MP Conexión 4G
-  Updated: 2025-12-16T22:25:11Z
+  Updated: 2025-12-19T15:30:11Z
   Vendor: ZTE
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26800.jpg?v=1762826146
   Price: 102,99 € EUR
 - [Realme 14X 5G 6GB/256GB Negro (Carbon Black) Dual SIM](https://hifimediastore.com/products/realme-14x-5g-6gb-256gb-negro-carbon-black-dual-sim): Realme 14x 5G:  Pantalla IPS LCD de 120 Hz Procesador 5G Dimensity 6300 Cámara de 50MP con IA NEXT AI Batería de 5000 mAh Realme UI 6.0
-  Updated: 2025-12-17T23:40:15Z
+  Updated: 2025-12-20T18:38:37Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26819.jpg?v=1762877751
-  Price: 193,99 € EUR
+  Price: 191,99 € EUR
 - [Realme P3 Lite 4G 8GB/256GB Verde (Pine Green) Dual SIM](https://hifimediastore.com/products/realme-p3-lite-4g-8gb-256gb-verde-pine-green-dual-sim): Realme P3 Lite 4G:  Pantalla LCD de 120 Hz QualcommUNISOC T7250 Batería Titan de 6000 mAh Carga rápida de 15W Cámara Dual de 50MP con IA Android 15, Realme UI IP59
-  Updated: 2025-12-17T17:00:26Z
+  Updated: 2025-12-19T14:40:21Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26860.jpg?v=1762911922
   Price: 177,99 € EUR
 - [Vivo V60 Lite 5G 12GB/512GB Negro (Ocean Night Black) Dual SIM](https://hifimediastore.com/products/vivo-v60-lite-5g-12gb-512gb-negro-ocean-night-black-dual-sim): Vivo V60 Lite 5G:  Pantalla AMOLED de 6,77" y 120Hz Cámara dual de 50 MP con Ultra Gran Angular 8 MP Cámara selfie de 32 MP Batería de 6500 mAh, Carga rápida 90W MediatekDimensity 7360 Turbo (4 nm) Conexión 5G Android 15
-  Updated: 2025-12-16T22:05:11Z
+  Updated: 2025-12-19T15:10:11Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26913.jpg?v=1762997123
   Price: 387,99 € EUR
 - [Vivo X300 5G 16GB/512GB Negro (Phantom Black) Dual SIM](https://hifimediastore.com/products/vivo-x300-5g-16gb-512gb-negro-phantom-black-dual-sim): Vivo X300:  Pantalla LTPO AMOLED de 6,31" Triple cámara de 200 MP + 50 MP + 50 MP con Óptica Zeiss Batería de 5360 mAh Carga rápida de 90W Chip Mediatek Dimensity 9500 (3 nm) Android 16, actualizado a las proximas 5 grandes actuaizaciones Conexión 5G
-  Updated: 2025-12-17T04:30:21Z
+  Updated: 2025-12-20T23:35:11Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
@@ -9341,7 +9271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26923.jpg?v=1762997146
   Price: 1101,99 € EUR
 - [Vivo V60 Lite 5G 12GB/512GB Rosa (Vitality Pink) Dual SIM](https://hifimediastore.com/products/vivo-v60-lite-5g-12gb-512gb-rosa-vitality-pink-dual-sim-1): Vivo V60 Lite 5G:  Pantalla AMOLED de 6,77" y 120Hz Cámara dual de 50 MP Retrato profesional Batería de 6500 mAh Flash Charge de 90W MediaTek Dimensity 7360 Conexión 5G Android 15
-  Updated: 2025-12-17T19:39:03Z
+  Updated: 2025-12-18T19:45:11Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
@@ -9362,7 +9292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/27026.jpg?v=1763424615
   Price: 140,99 € EUR
 - [TCL Tab 10L Gen4 10,1" 4GB/64GB WiFi Negro (Space Black)](https://hifimediastore.com/products/tcl-tab-10l-gen4-101-4gb-64gb-wifi-negro-space-black): TCL Tab 10L Gen4:  Pantalla IPS LCD de 10,1" Chip Mediatek MT8786 Cámara trasera de 5 MP Batería de 6000 mAh Carga rápida 18W Android 14
-  Updated: 2025-12-17T17:30:11Z
+  Updated: 2025-12-20T23:30:26Z
   Vendor: TCL
   Product Type: Tablet's
   Availability: Available
@@ -9383,14 +9313,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/27172.jpg?v=1763767817
   Price: 310,99 € EUR
 - [OnePlus 15 5G 16GB/512GB Negro (Infinite Black) Dual SIM](https://hifimediastore.com/products/oneplus-15-5g-16gb-512gb-negro-infinite-black-dual-sim): OnePlus Nord 5:  Pantalla LTPO AMOLED de 165Hz Cámara frontal 32MP y trasera de 50MP Vídeo en 4K Chip Qualcomm Snapdragon 8 Gen 5 Batería de 7300 mAh 120W SUPERVOOC Android 16, Oxygen 16 Conexión 5G
-  Updated: 2025-12-17T23:25:18Z
+  Updated: 2025-12-20T22:55:11Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/27373.jpg?v=1764688517
   Price: 1233,99 € EUR
 - [OnePlus 15 5G 16GB/512GB Violeta (Ultra Violet) Dual SIM](https://hifimediastore.com/products/oneplus-15-5g-16gb-512gb-violeta-ultra-violet-dual-sim): OnePlus Nord 5:  Pantalla LTPO AMOLED de 165Hz Cámara frontal 32MP y trasera de 50MP Vídeo en 4K Chip Qualcomm Snapdragon 8 Gen 5 Batería de 7300 mAh 120W SUPERVOOC Android 16, Oxygen 16 Conexión 5G
-  Updated: 2025-12-17T23:25:16Z
+  Updated: 2025-12-20T22:55:11Z
   Vendor: OnePlus
   Product Type: Smartphone
   Availability: Available
@@ -9418,7 +9348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/27438.jpg?v=1764735322
   Price: 78,99 € EUR
 - [Honor CHOICE Earbuds X7i Auriculares Inalámbricos Blancos (White)](https://hifimediastore.com/products/honor-choice-earbuds-x7i-auriculares-inalambricos-blancos-white): Honor CHOICE Earbuts X7i:  Bluetooth 5.3 40h de duración de batería Cancelación de ruido 45dB Diafragma compuesti de 12,4 mm Compatibles con iOS y Android
-  Updated: 2025-12-17T22:55:17Z
+  Updated: 2025-12-20T03:00:16Z
   Vendor: Honor
   Product Type: Bluetooth
   Availability: Available
@@ -9432,14 +9362,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/27472.jpg?v=1764874811
   Price: 941,99 € EUR
 - [Realme GT 8 Pro 5G 16GB/512GB Azul (Urban Blue) Dual SIM](https://hifimediastore.com/products/realme-gt-8-pro-5g-16gb-512gb-azul-urban-blue-dual-sim): Realme GT 8 Pro Lo esencial que lo define Snapdragon 8 Elite Gen 5 Pantalla 679 AMOLED QHD 144 Hz Bateria Titan de 7000 mAh Carga ultrarrapida 120 W carga inalambrica 50 W Sistema de camaras triple 50 MP 50 MP 200 MP Grabacion de vide
-  Updated: 2025-12-17T19:40:30Z
+  Updated: 2025-12-18T19:15:16Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/27477.jpg?v=1764874820
   Price: 1018,99 € EUR
 - [Honor CHOICE Earbuds Clip Auriculares Bluetooth Negros (Black)](https://hifimediastore.com/products/honor-choice-earbuds-clip-auriculares-bluetooth-negros-black): Honor CHOICE Earbuds X7 Lite:  Diseño ergonómico Bluetooth 5.3 Batería de hasta 36h Audio de alta resolución Conexión dual Peso ligero 5,1 g
-  Updated: 2025-12-17T23:00:16Z
+  Updated: 2025-12-20T09:40:13Z
   Vendor: Honor
   Product Type: Bluetooth
   Availability: Available
@@ -9459,11 +9389,11 @@
   Updated: 2025-12-13T11:33:03Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-12-17T22:57:57Z
-  Total Products: 5721
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 5735
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-12-17T22:57:57Z
-  Total Products: 5721
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 5735
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-12-13T11:33:03Z
   Total Products: 180
@@ -9480,16 +9410,16 @@
   Updated: 2025-12-13T11:33:04Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-12-17T22:48:14Z
+  Updated: 2025-12-20T04:37:58Z
   Total Products: 488
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
-  Updated: 2025-12-13T11:33:04Z
+  Updated: 2025-12-19T22:58:46Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-12-17T22:48:14Z
+  Updated: 2025-12-20T04:37:58Z
   Total Products: 440
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
-  Updated: 2025-12-17T22:48:14Z
+  Updated: 2025-12-19T23:14:48Z
   Total Products: 170
 - [Auriculares de conducción ósea](https://hifimediastore.com/collections/bone-conduction-earphones): Descubre nuestros auriculares de conducción ósea, una tecnología que permite al oyente percibir el contenido de audio sin obstruir el canal auditivo, lo que evita daños en el tímpano.
   Updated: 2025-12-13T11:33:04Z
@@ -9516,8 +9446,8 @@
   Updated: 2025-12-13T11:33:04Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-12-18T00:00:57Z
-  Total Products: 1656
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 1659
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-12-13T11:33:04Z
   Total Products: 17
@@ -9525,8 +9455,8 @@
   Updated: 2025-12-13T11:33:05Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-12-17T20:56:33Z
-  Total Products: 3683
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 3691
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-12-13T11:33:05Z
   Total Products: 20
@@ -9543,20 +9473,20 @@
   Updated: 2025-10-12T00:22:10Z
   Total Products: 5
 - [Caterpillar](https://hifimediastore.com/collections/caterpillar): Discover unparalleled durability and sophistication in Caterpillar mobiles. Embrace innovation with rugged elegance. Explore now!
-  Updated: 2025-12-13T11:33:05Z
+  Updated: 2025-12-18T18:37:02Z
   Total Products: 7
 - [Google](https://hifimediastore.com/collections/google)
-  Updated: 2025-12-17T19:28:32Z
+  Updated: 2025-12-20T12:01:23Z
   Total Products: 126
 - [Honor](https://hifimediastore.com/collections/honor)
-  Updated: 2025-12-17T19:19:35Z
+  Updated: 2025-12-20T11:37:54Z
   Total Products: 144
 - [Huawei](https://hifimediastore.com/collections/huawei)
-  Updated: 2025-12-17T16:22:27Z
+  Updated: 2025-12-19T21:35:31Z
   Total Products: 135
 - [Apple](https://hifimediastore.com/collections/apple)
-  Updated: 2025-12-17T22:57:28Z
-  Total Products: 567
+  Updated: 2025-12-20T18:43:38Z
+  Total Products: 572
 - [Land Rover](https://hifimediastore.com/collections/land-rover)
   Updated: 2025-12-13T11:33:05Z
   Total Products: 1
@@ -9567,25 +9497,25 @@
   Updated: 2025-10-11T23:26:18Z
   Total Products: 12
 - [Motorola](https://hifimediastore.com/collections/motorola)
-  Updated: 2025-12-17T19:39:36Z
-  Total Products: 320
+  Updated: 2025-12-20T18:19:26Z
+  Total Products: 322
 - [Nokia](https://hifimediastore.com/collections/nokia)
   Updated: 2025-12-13T11:33:05Z
   Total Products: 58
 - [OnePlus](https://hifimediastore.com/collections/oneplus)
-  Updated: 2025-12-17T19:03:10Z
+  Updated: 2025-12-20T11:33:25Z
   Total Products: 116
 - [Nothing Tech](https://hifimediastore.com/collections/nothing-tech)
-  Updated: 2025-12-17T19:24:15Z
+  Updated: 2025-12-20T05:30:15Z
   Total Products: 30
 - [Oppo](https://hifimediastore.com/collections/oppo)
-  Updated: 2025-12-17T19:34:22Z
+  Updated: 2025-12-20T11:57:58Z
   Total Products: 196
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi)
-  Updated: 2025-12-17T20:57:00Z
-  Total Products: 985
+  Updated: 2025-12-20T18:43:47Z
+  Total Products: 987
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-12-17T19:38:10Z
+  Updated: 2025-12-20T23:48:02Z
   Total Products: 963
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-12-13T11:33:06Z
@@ -9606,23 +9536,23 @@
   Updated: 2025-12-13T11:33:06Z
   Total Products: 3
 - [Realme](https://hifimediastore.com/collections/realme)
-  Updated: 2025-12-17T19:42:03Z
+  Updated: 2025-12-20T18:38:38Z
   Total Products: 222
 - [Wiko](https://hifimediastore.com/collections/wiko)
   Updated: 2025-12-13T11:33:06Z
   Total Products: 1
 - [TCL](https://hifimediastore.com/collections/tcl)
-  Updated: 2025-12-15T22:32:37Z
-  Total Products: 41
+  Updated: 2025-12-19T22:40:05Z
+  Total Products: 43
 - [Vivo](https://hifimediastore.com/collections/vivo)
-  Updated: 2025-12-17T19:39:04Z
-  Total Products: 49
+  Updated: 2025-12-19T03:31:00Z
+  Total Products: 51
 - [ZTE](https://hifimediastore.com/collections/zte)
   Updated: 2025-12-17T19:22:52Z
   Total Products: 16
 - [len](https://hifimediastore.com/collections/lenovo)
-  Updated: 2025-12-17T19:38:52Z
-  Total Products: 68
+  Updated: 2025-12-20T05:44:24Z
+  Total Products: 69
 - [Auriculares Lenovo](https://hifimediastore.com/collections/auriculares-lenovo)
   Updated: 2025-12-13T11:33:06Z
   Total Products: 13
@@ -9633,11 +9563,11 @@
   Updated: 2025-08-25T16:34:07Z
   Total Products: 1
 - [Auriculares Apple](https://hifimediastore.com/collections/auriculares-apple)
-  Updated: 2025-12-17T22:48:14Z
+  Updated: 2025-12-19T02:30:34Z
   Total Products: 46
 - [Apple](https://hifimediastore.com/collections/apple-1)
-  Updated: 2025-12-17T22:57:57Z
-  Total Products: 658
+  Updated: 2025-12-20T18:43:38Z
+  Total Products: 663
 - [Asus](https://hifimediastore.com/collections/asus)
   Updated: 2025-12-13T11:33:07Z
   Total Products: 8
@@ -9663,10 +9593,10 @@
   Updated: 2025-12-13T11:33:07Z
   Total Products: 27
 - [Mars Gaming](https://hifimediastore.com/collections/mars-gaming)
-  Updated: 2025-12-13T11:33:07Z
+  Updated: 2025-12-19T22:58:46Z
   Total Products: 28
 - [Auriculares Mars Gaming](https://hifimediastore.com/collections/auriculares-mars-gaming)
-  Updated: 2025-12-13T11:33:07Z
+  Updated: 2025-12-19T22:58:46Z
   Total Products: 24
 - [Philips](https://hifimediastore.com/collections/philips)
   Updated: 2025-12-13T11:33:07Z
@@ -9681,10 +9611,10 @@
   Updated: 2025-12-13T11:33:07Z
   Total Products: 1
 - [Sony](https://hifimediastore.com/collections/sony-1)
-  Updated: 2025-12-13T11:33:07Z
+  Updated: 2025-12-18T08:16:57Z
   Total Products: 71
 - [Auriculares Sony](https://hifimediastore.com/collections/auriculares-sony)
-  Updated: 2025-12-13T11:33:07Z
+  Updated: 2025-12-18T08:16:57Z
   Total Products: 32
 - [Spirit of Gamer](https://hifimediastore.com/collections/spirit-of-gamer)
   Updated: 2025-12-13T11:33:07Z
@@ -9693,10 +9623,10 @@
   Updated: 2025-12-13T11:33:08Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-12-17T20:57:00Z
-  Total Products: 1091
+  Updated: 2025-12-20T18:43:47Z
+  Total Products: 1093
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
-  Updated: 2025-12-17T20:56:56Z
+  Updated: 2025-12-19T16:35:25Z
   Total Products: 54
 - [Acer](https://hifimediastore.com/collections/acer-1)
   Updated: 2025-12-13T11:33:08Z
@@ -9810,10 +9740,10 @@
   Updated: 2025-12-13T11:33:10Z
   Total Products: 42
 - [Auriculares Huawei](https://hifimediastore.com/collections/auriculares-huawei)
-  Updated: 2025-12-17T19:07:31Z
+  Updated: 2025-12-20T04:37:58Z
   Total Products: 30
 - [Huawei](https://hifimediastore.com/collections/huawei-1)
-  Updated: 2025-12-17T19:07:31Z
+  Updated: 2025-12-20T04:37:58Z
   Total Products: 173
 - [HyperX](https://hifimediastore.com/collections/hyperx)
   Updated: 2025-12-13T11:33:10Z
@@ -9840,8 +9770,8 @@
   Updated: 2025-12-13T11:33:11Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-12-17T22:57:58Z
-  Total Products: 5721
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 5735
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-12-13T11:33:11Z
   Total Products: 4
@@ -9855,10 +9785,10 @@
   Updated: 2025-12-13T11:33:11Z
   Total Products: 1
 - [Motorola](https://hifimediastore.com/collections/motorola-1)
-  Updated: 2025-12-17T19:39:36Z
-  Total Products: 336
+  Updated: 2025-12-20T18:19:26Z
+  Total Products: 338
 - [Auriculares Motorola](https://hifimediastore.com/collections/auriculares-motorola)
-  Updated: 2025-12-16T23:58:22Z
+  Updated: 2025-12-18T20:29:07Z
   Total Products: 13
 - [NGS](https://hifimediastore.com/collections/ngs)
   Updated: 2025-12-13T11:33:11Z
@@ -9873,10 +9803,10 @@
   Updated: 2025-12-13T11:33:12Z
   Total Products: 1
 - [Oppo](https://hifimediastore.com/collections/oppo-1)
-  Updated: 2025-12-17T19:34:22Z
+  Updated: 2025-12-20T11:57:58Z
   Total Products: 215
 - [Auriculares Oppo](https://hifimediastore.com/collections/auriculares-oppo)
-  Updated: 2025-12-16T11:02:22Z
+  Updated: 2025-12-19T23:14:48Z
   Total Products: 8
 - [Orosound](https://hifimediastore.com/collections/orosound)
   Updated: 2025-12-13T11:33:12Z
@@ -9897,8 +9827,8 @@
   Updated: 2025-12-13T11:33:13Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-12-18T00:00:57Z
-  Total Products: 1658
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 1661
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-12-13T11:33:13Z
   Total Products: 24
@@ -9960,8 +9890,8 @@
   Updated: 2025-12-13T11:33:16Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-12-18T00:00:58Z
-  Total Products: 441
+  Updated: 2025-12-20T23:50:37Z
+  Total Products: 414
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-12-13T11:33:16Z
   Total Products: 1
@@ -9978,10 +9908,10 @@
   Updated: 2025-12-13T11:33:17Z
   Total Products: 3
 - [Oneplus](https://hifimediastore.com/collections/oneplus-1)
-  Updated: 2025-12-17T19:03:10Z
+  Updated: 2025-12-20T11:33:25Z
   Total Products: 135
 - [Auriculares Oneplus](https://hifimediastore.com/collections/auriculares-oneplus)
-  Updated: 2025-12-16T23:18:20Z
+  Updated: 2025-12-19T22:20:22Z
   Total Products: 11
 - [ZTE](https://hifimediastore.com/collections/zte-1)
   Updated: 2025-12-17T19:22:52Z
@@ -10017,43 +9947,43 @@
   Updated: 2025-12-13T11:33:18Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-12-17T22:50:02Z
-  Total Products: 594
+  Updated: 2025-12-20T18:30:30Z
+  Total Products: 595
 - [iPad](https://hifimediastore.com/collections/ipad)
-  Updated: 2025-12-17T22:57:28Z
-  Total Products: 119
+  Updated: 2025-12-20T18:43:38Z
+  Total Products: 124
 - [Lenovo](https://hifimediastore.com/collections/lenovo-1)
-  Updated: 2025-12-17T19:38:52Z
-  Total Products: 52
+  Updated: 2025-12-20T05:44:24Z
+  Total Products: 53
 - [SaveFamily](https://hifimediastore.com/collections/savefamily)
   Updated: 2025-12-13T11:33:18Z
   Total Products: 4
 - [Tablets Lenovo](https://hifimediastore.com/collections/tablets-lenovo)
-  Updated: 2025-12-13T11:33:19Z
+  Updated: 2025-12-18T20:05:32Z
   Total Products: 4
 - [Tablets Samsung](https://hifimediastore.com/collections/tablets-samsung)
-  Updated: 2025-12-17T19:11:39Z
+  Updated: 2025-12-20T13:40:56Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-12-17T22:57:58Z
-  Total Products: 5352
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 5366
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
-  Updated: 2025-12-17T06:06:40Z
+  Updated: 2025-12-20T00:45:05Z
   Total Products: 37
 - [Honor](https://hifimediastore.com/collections/honor-1)
-  Updated: 2025-12-17T19:19:35Z
+  Updated: 2025-12-20T11:37:54Z
   Total Products: 156
 - [Tablets Honor](https://hifimediastore.com/collections/tablets-honor)
   Updated: 2025-12-14T07:12:00Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-12-17T19:38:10Z
+  Updated: 2025-12-20T23:48:02Z
   Total Products: 1125
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-12-17T18:38:31Z
   Total Products: 3
 - [Bluetooth](https://hifimediastore.com/collections/bluetooth)
-  Updated: 2025-12-17T22:48:14Z
+  Updated: 2025-12-20T04:37:58Z
   Total Products: 283
 - [sbs](https://hifimediastore.com/collections/sbs)
   Updated: 2025-12-13T11:33:19Z
@@ -10065,19 +9995,19 @@
   Updated: 2025-12-13T11:33:19Z
   Total Products: 2
 - [Google](https://hifimediastore.com/collections/google-1)
-  Updated: 2025-12-17T19:28:32Z
+  Updated: 2025-12-20T12:01:23Z
   Total Products: 142
 - [Auriculares Google](https://hifimediastore.com/collections/auriculares-google)
   Updated: 2025-12-16T21:21:12Z
   Total Products: 15
 - [Auriculares Samsung](https://hifimediastore.com/collections/auriculares-samsung)
-  Updated: 2025-12-16T10:20:27Z
+  Updated: 2025-12-19T22:19:19Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-12-17T22:48:14Z
+  Updated: 2025-12-20T23:48:02Z
   Total Products: 4164
 - [Realme](https://hifimediastore.com/collections/realme-1)
-  Updated: 2025-12-17T19:42:03Z
+  Updated: 2025-12-20T18:38:38Z
   Total Products: 229
 - [Auriculares Realme](https://hifimediastore.com/collections/auriculares-realme)
   Updated: 2025-12-13T11:33:19Z
@@ -10131,8 +10061,8 @@
   Updated: 2025-12-13T11:33:20Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-12-17T22:57:58Z
-  Total Products: 5721
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 5735
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-12-13T11:33:20Z
   Total Products: 4
@@ -10146,10 +10076,10 @@
   Updated: 2025-12-13T11:33:21Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-12-17T22:57:58Z
-  Total Products: 5721
+  Updated: 2025-12-20T23:48:02Z
+  Total Products: 5735
 - [Nubia](https://hifimediastore.com/collections/nubia)
-  Updated: 2025-12-17T19:42:58Z
+  Updated: 2025-12-18T08:34:29Z
   Total Products: 14
 - [Auriculares Honor](https://hifimediastore.com/collections/auriculares-honor)
   Updated: 2025-12-17T18:52:22Z
@@ -10158,7 +10088,7 @@
   Updated: 2025-12-13T11:33:21Z
   Total Products: 3
 - [Nothing Tech](https://hifimediastore.com/collections/nothing-tech-1)
-  Updated: 2025-12-17T19:24:15Z
+  Updated: 2025-12-20T05:30:15Z
   Total Products: 33
 - [MARS GAMING](https://hifimediastore.com/collections/mars-gaming-1)
   Updated: 2025-12-13T11:33:21Z
@@ -10170,14 +10100,14 @@
   Updated: 2025-12-13T11:33:21Z
   Total Products: 35
 - [Tablets TCL](https://hifimediastore.com/collections/tablets-tcl)
-  Updated: 2025-12-15T22:08:17Z
+  Updated: 2025-12-19T16:15:35Z
   Total Products: 8
 - [TCL](https://hifimediastore.com/collections/tcl-1)
-  Updated: 2025-12-15T22:32:37Z
-  Total Products: 49
+  Updated: 2025-12-19T22:40:05Z
+  Total Products: 51
 - [Vivo](https://hifimediastore.com/collections/vivo-1)
-  Updated: 2025-12-17T19:39:04Z
-  Total Products: 49
+  Updated: 2025-12-19T03:31:00Z
+  Total Products: 51
 
 ## Blogs
 
