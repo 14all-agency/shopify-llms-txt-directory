@@ -6,14 +6,14 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-21T04:24:50Z
 - Contact Email: millerrick648@gmail.com
-- Updated At: 2025-12-16T21:53:09.664Z
+- Updated At: 2025-12-21T00:00:25.279Z
 
 We handle all your business needs so you don't have to. Your success is our mission! We have business and industrial products as well as furniture, jewelry, gifts, B2B and b2c services, and a unique start-up apprentice program. 
 
 ## Products
 
 - [Christmas Gifts](https://anc-electronics-n-services-inc.myshopify.com/products/gift-cards-for-any-occasion-upto-500): Gift cards for the whole family.
-  Updated: 2025-12-12T05:02:33Z
+  Updated: 2025-12-16T21:54:59Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
@@ -55,98 +55,98 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $500.00 USD
 - [Kailash Vegan Backpack](https://anc-electronics-n-services-inc.myshopify.com/products/kailash-vegan-backpack): Dimensions(cm): Length 28 Height 34 Depth 12 Strap Length(cm) Adjustable backpack strap Black Microfiber Backpack Meet LaBante's Kailash Vegan Backpack named after the mountain range it is a stylish and practical blend of fashion and function in timeless black. This sleek design features adjustable straps for versatile wear with padded shoulder pads to ensure maximum comfort. This sporty backpack is suitable for everyday use and includes an iPad compartment. The thick silver zippers add to the style and the embossed logo on the front pocket let people know that you are not only stylish but also sustainable. The thoughtfully designed compartments offer ample space for daily essentials, including compartments on both sides for added functionality. Crafted from microfibre this bag will outlast any of your leather bags. Keep your hands free and stay inspired with hidden messages, making it the perfect thoughtful holiday and birthday gift.
-  Updated: 2025-12-12T05:02:33Z
+  Updated: 2025-12-16T21:55:01Z
   Vendor: ANC Electronics N Services Inc
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/imgonline-com-ua-CompressToSize-AIylza13z7_48989e4f-f357-43db-8ab2-9f02b100f391.jpg?v=1764530770
   Price: $243.75 USD
 - [Daisy White Vegan Shoulder & Crossbody Bag](https://anc-electronics-n-services-inc.myshopify.com/products/daisy-white-vegan-shoulder-crossbody-bag): Dimensions(cm): Length 23 Height 17.5 Depth 10 Handle drop: Adjustable long strap Handle drop: O chain 33.5 cms The Daisy Vegan Shoulder & Crossbody Bag is part of our Weaver Believer collection which is a micro collection focusing on versatile innovations. It is completelyhandwovenin Luxurious Blue Star Vegan leather using the highest quality hardware in luscious Matt Gold. This gorgeous bag transforms from a shoulder bag that you can wear using the Matt Gold 'LaBante London O Chain' to a crossbody bag that you can wear using the wide leather strap. Made sustainably, featuring red recycled plastic bottle linings. It is a multi-functional bag that includes inside zipper pocket and keys and phone compartments. You can wear it in the day for a more casual look and in the evening it transforms into the perfect Shoulder bag. Made with Love, Wear with Pride.
-  Updated: 2025-12-12T05:02:33Z
+  Updated: 2025-12-16T21:55:02Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/LB20A004WHT_08.jpg?v=1764530800
   Price: $213.75 USD
 - [Angel Wings Cartilage Earring - Feathered Angel Wings w/ Gem Cartilage](https://anc-electronics-n-services-inc.myshopify.com/products/angel-wings-cartilage-earring-feathered-angel-wings-w-gem-cartilage): 316L Surgical Steel Feathered Angel Wings with Gem Cartilage Earring Show off some heavenly style with this stunning Winged Cartilage Earring. Stun all those that pass with this polished metal design, crafted out of high quality 316L Surgical Steel, the Earring features an elaborate set of wings. Multiple layers of feathers are intricately detailed and lead to an eye-catching large 7mm Cubic Zirconium gem. Wear this Earring from a 16 GA Bar. Thickness : 16 GA / 1.2mm Length : 1/2” / 12mm Ball Size : 4mmx4mm
-  Updated: 2025-12-12T05:02:33Z
+  Updated: 2025-12-16T21:55:03Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/1_8495adfd-9b9e-4d80-be64-ff3766198cfc.jpg?v=1764530834
   Price: $8.97 USD
 - [Panama Straw Hat - European And American Sun Protection Summer Sun](https://anc-electronics-n-services-inc.myshopify.com/products/panama-straw-hat-european-and-american-sun-protection-summer-sun): Product information: Processing Technology: Satin Fabric name: salty grass Color: khaki Crown style: Bell Size: M(56-58cm) Function: sunscreen, breathable, sunshade Suitable season: Summer Style: personality, male and female style, ins style Size: Packing list: Hat x1 Product Image:
-  Updated: 2025-12-12T05:02:34Z
+  Updated: 2025-12-16T21:55:04Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/81a22e21-b6d9-470d-8e72-e351d22d3efd.jpg?v=1764530852
   Price: $17.43 USD
 - [Solid Check Self-Tie Bow Tie - Burgundy](https://anc-electronics-n-services-inc.myshopify.com/products/solid-check-self-tie-bow-tie-burgundy): Solid Check Self-Tie Bow Tie - Burgundy
-  Updated: 2025-12-12T05:02:34Z
+  Updated: 2025-12-16T21:55:05Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/solid_check_self_tie_burgundy_bow.jpg?v=1764530875
   Price: $6.99 USD
 - [Stylish Women's Belt](https://anc-electronics-n-services-inc.myshopify.com/products/stylish-womens-belt): Fashion is not just about the clothes you wear, its also about what's on your wrist and in your pocket ! Up your fashion quotient with this smart that will go with everything you wear Color : Orange Size : Less 1 inch Length : 42 Material : Artificial Leather
-  Updated: 2025-12-12T05:02:34Z
+  Updated: 2025-12-16T21:55:07Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/1583291705.jpg?v=1764530889
   Price: $5.46 USD
 - [Paisley Classic Tie - Purple](https://anc-electronics-n-services-inc.myshopify.com/products/paisley-classic-tie-purple): Paisley Classic Tie - Purple
-  Updated: 2025-12-12T05:02:35Z
+  Updated: 2025-12-16T21:55:08Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/paisley_purple_mens_tie.jpg?v=1764530911
   Price: $7.99 USD
 - [Plain Satin Cufflinks - White](https://anc-electronics-n-services-inc.myshopify.com/products/plain-satin-cufflinks-white): Plain Satin Cufflinks - White
-  Updated: 2025-12-12T05:02:35Z
+  Updated: 2025-12-16T21:55:09Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/white_mens_cufflink.jpg?v=1764530927
   Price: $4.99 USD
 - [Plain Satin Classic Tie - Hot Pink](https://anc-electronics-n-services-inc.myshopify.com/products/plain-satin-classic-tie-hot-pink): Plain Satin Classic Tie - Hot Pink
-  Updated: 2025-12-12T05:02:35Z
+  Updated: 2025-12-16T21:55:10Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/plain_hotpink_mens_tie.jpg?v=1764530943
   Price: $6.99 USD
 - [Libra Blackberry Vanilla Aromatherapy Candle, Natural Soy Wax, Home](https://anc-electronics-n-services-inc.myshopify.com/products/libra-blackberry-vanilla-aromatherapy-candle-natural-soy-wax-home): Candles Illuminate your space with this exquisite candle, perfect for creating a warm and inviting atmosphere. The frosted glass vessel beautifully complements any decor, making it an elegant addition to your home. Each candle is hand-poured with natural wax, ensuring a clean, eco-friendly burn that lasts up to 50 hours. Perfect for cozy evenings, self-care rituals, or as a thoughtful gift for loved ones. Ideal for holidays, birthdays, or simply to brighten someone's day, this candle caters to anyone seeking a touch of serenity and warmth in their life. Product features - Natural, vegan-friendly wax blend for a clean burn- Eco-friendly wooden wick for a unique crackling sound- Selection of nine phthalate-free, delightful scents- Vibrant, non-dyed frosted glass design- Hand-poured in the USA for quality assurance Care instructions Before burning, always trim the wooden wick to 1/8 inch. Keep the wax pool clear. Always use a candle holder, it should be heat resistant, sturdy, and large enough to contain any drips or melted wax. Burn candles in a well-ventilated room. Never burn a candle for longer than three hours, cool for at least two hours before relighting. Never leave a candle unattended, keep it away from anything that can catch fire. Keep candles out of the reach of children and pets. Don't burn a candle all the way down. Use a candle snuffer to extinguish a candle, it's the safest way to prevent wax from splattering. EU representative HONSON VENTURES LIMITED, gpsr@, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information Lumient, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC
-  Updated: 2025-12-12T05:02:35Z
+  Updated: 2025-12-16T21:55:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Office decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/20250921020143-1f0968ee-bace-659c-a9dd-92969417c5af.jpg?v=1764530972
   Price: $23.15 USD
 - [Agnes Black Ladies Backpack](https://anc-electronics-n-services-inc.myshopify.com/products/agnes-black-ladies-backpack): Dimensions(cm): Length 30 Height 33 Depth 15.5 Handle drop(cm) 6.5 Women's Rucksack The versatile Agnes Ladies backpack from LaBante London, is the perfect Vegan Faux Leather Designer Backpack for your everyday needs, whether for work or travelling, you will find the double inner compartments spacious. For comfort the backpack comes with two fastening belts so it’s easy to adjust to fit. An attached chain from the center zip puller adds a touch of style and femininity to this gorgeous womans rucksack. This backpack also fits a 13 inch macbook laptop.
-  Updated: 2025-12-12T05:02:36Z
+  Updated: 2025-12-16T21:55:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/agnes-black-ladies-backpack-rucksack-bag-handbag-685_14bd236d-a243-433c-9d83-191e02e079b7.jpg?v=1764530993
   Price: $131.25 USD
 - [Jade Roller](https://anc-electronics-n-services-inc.myshopify.com/products/jade-roller): Description Get the best-looking, detoxed skin you crave for with our high-impact jade roller! Not only can you use this for your spa nights for relaxation, you can use it daily to reduce skin puffiness. The jade roller stimulates lymphatic drainage and promotes blood circulation, making it the ideal tool to reduce fine lines and wrinkles. The best part? Our jade roller will help skincare products penetrate deeper into the skin so match this with your current skin routine for extra benefits! Benefits Jade brightens skin complexion Stimulates lymphatic drainage to eliminate toxins Promotes blood circulation to reduce fine lines Reduces acne and oily skin symptoms Application Start in the middle of the face and roll outward towards the cheeks Start from the eyebrows and roll upward across the forehead Roll from under the lower lip down to the chin Rolling across the neck is optional Ingredients 100% Natural Jade Stone, Zinc Alloy, Aluminum
-  Updated: 2025-12-12T05:02:36Z
+  Updated: 2025-12-16T21:55:14Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/82938-BLNK-AB-04-02-RO-JR12.jpg?v=1764531048
   Price: $19.42 USD
 - [Wrinkle-Free Eye Cream](https://anc-electronics-n-services-inc.myshopify.com/products/wrinkle-free-eye-cream): This gentle yet potent wrinkle-free eye cream hydrates the delicate eye area without leaving any greasy residue. It absorbs quickly into the skin and fights signs of aging by protecting and repairing it. The natural combination of Grape seed, Green tea, Chamomile and Pomegranate extracts along with Aloe and Biotin dramatically diminishes the appearance of lines and wrinkles, while reducing the appearance of dark circles under the eyes. FIRM THE SKIN UNDER YOU EYES - Fight Signs of Aging with Grape Seed, which provides an excellent source of vitamins, C, E evening out skin tone, reducing wrinkles and scars while tightening NO MORE SAGGING SKIN - Repair DNA and UV Damage with Green Tea providing antibacterial agents - improving skin appearance while repairing and slowing signs of aging of dry and sagging skin REDUCE PUFFINESS - Reduce Inflammation with Aloe, provide increased resistance with a protective layer retaining moisture and providing enhanced antioxidants rich in minerals which increase speed recovery and healing. PERFECT EYE TREATMENT - Nourish and balance the Skin with Biotin, producing brand new skin cells by assisting oil gland functions which produce a healthy overall skin condition both inside and out REDUCE DARK CIRCLES Naturally bleach, while adding glow with Chamomile boosting skin's appearance creating a clear, yet natural and beautiful complexion Ingredients Aqua C12-15 Alkyl Benzoate Palmitoyl Penatpeptide-3 Diisoporopyl Sebacate Silica Squalene Glycerin Dimethicone Emulsifying Wax Glyceryl Stearate Fagus Sylvatica Extract (European Beech) Soduim Ascorbyl Phosphate Bisabolol Sodium Hyaluronate Biotin Aloe Barbadensis Leaf Extracts (Aloe Vera) Vinifera Seed Extract (Grape Seed) Camellia Sinensis Leaf Extract (Green Tea) Chamomilla Recutita Flower Extract Punica Granatum Extract (Pomegranate) Tocopheryl Acetate Symphytum Officinale Root Extract (Comfrey) SodiumPCA Polysorbate 20 Carbomer Magnesium Aluminum Silicate Triethanolamine Disodium EDTA Phenoxyethanol Chlorphisen Benzoic Acid Sorbic Acid Directions Directions: Apply around the eye area day and night.
-  Updated: 2025-12-12T05:02:36Z
+  Updated: 2025-12-16T21:55:16Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Aniise_Wrinkle_Free_Eye_Creme.jpg?v=1764531091
   Price: $48.10 USD
 - [Walnut Oil Virgin (organic, cold pressed,](https://anc-electronics-n-services-inc.myshopify.com/products/walnut-oil-virgin-organic-cold-pressed): Walnut oil comes with all those goodness that are required to get a luminous skin and a bunch of lustrous hair. This oil is non-greasy and quick drying so you can apply it any time of day! The oil is rich in minerals and makes the face wrinkle free. Apply this oil daily on to the face and see the difference. This oil works well on the scar lines, marks on the body and face. It’s combination of antioxidants, vitamins (E, B1, B2, B3, Niacin) and omega-3 make it super powerful against fungal infections, psoriasis, and general dry rough skin. Walnut oil is a wonderful remedy for dry elbows and knees. It soothes the skin and evens it. Botanical Name: Juglans Regia Country of origin: Switzerland Extraction Method: Cold pressed, Unrefined Color: Yellow to golden yellow liquid. Scent: It has a walnut - nutty scent. Texture: Liquid
-  Updated: 2025-12-12T05:02:37Z
+  Updated: 2025-12-16T21:55:17Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
@@ -158,7 +158,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $18.75 USD
 - [Plug In Air Purifier Mini Eliminator Freshener Air Cleaner](https://anc-electronics-n-services-inc.myshopify.com/products/plug-in-air-purifier-mini-eliminator-freshener-air-cleaner): Description: Plug-in air purifiers just need 3-4 min to capture common household odors, pet odors, and volatile organic compounds. Operates at a whisper-quiet level to contribute to a peaceful sleeping environment. Recommended for spaces around 40-60 Square meters, so it's great for home offices or bedrooms. Features: [High-Efficiency]The air purifiers can circulate room air over many times per hour to achieve rapid purification. [Useful]Air purifier capture 99. 7% of 0. 3-micron particles or larger, including pollen, dust, smoke, and dander. [Practical]It guards your kids against pets hair and pet dander, allows all your family members to breathe pure air. [Low Noise]Designed on the base of the principle of hydrokinetics to operate below 40dB which will not affect your sleep or your work. [Great Gift]The air purifier makes a great and valuable gift for your friends and family. Specifications: Color: White;Green;Pink;Black Plug Type: US Plug;EU Plug Material: ABS Style: Modern Negative ion concentration: 20 million Applicable area: 40-60 Square meters Occasion: Kitchen, Bathroom, Hotel, Office, etc Package Size: 11.7*6*4.5cm / 4.6*2.36*1.77inch Package Weight: 75g / 0.16lb Package List: 1 * Air Purifier
-  Updated: 2025-12-12T05:02:37Z
+  Updated: 2025-12-16T21:55:18Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Electronics
   Availability: Available
@@ -188,7 +188,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $10.00 USD
 - [Deep Green and Blue Watercolor Zebra Pattern - MacBook Air Skin Kit](https://anc-electronics-n-services-inc.myshopify.com/products/deep-green-and-blue-watercolor-zebra-pattern-macbook-air-skin-kit): Add style to your MacBook Air without bulk. With Design Skinz, you can change the look of your favorite device in seconds, literally. Made from a premium vinyl, these skinz can take a beating and will protect your device from scratches and other abuse. • Long-lasting Vinyl!• Gloss or Matte finishes available.• Easy, Bubble-Free Application!• Precision-cut to fit your device.
-  Updated: 2025-12-12T05:02:37Z
+  Updated: 2025-12-16T21:55:19Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Electronics
   Availability: Available
@@ -344,56 +344,56 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $13.26 USD
 - [Multipotent Regenerative Night Cream](https://anc-electronics-n-services-inc.myshopify.com/products/multipotent-regenerative-night-cream): The Multipotent Regenerative Night Cream is a multi-correctional formula designed to tighten, hydrate and revitalize the skin’s overall complexion. ARÊMÊS uses a proprietary blend of botanicals, peptides and bioactive metabolites extracted from carrot and algae ferment. These metabolites were designed to create a protective matrix on the skin while at the same time penetrating deep into the skin’s cells that activate regeneration. Each application delivers nutrition, protection, and correction at the source, resulting in a renewed, replenished and rejuvenated appearance.
-  Updated: 2025-12-12T05:02:38Z
+  Updated: 2025-12-16T21:55:22Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/data_6449d1dc-7a3e-4889-85c2-c1e52dae3d39.jpg?v=1764532880
   Price: $43.80 USD
 - [Age Perfect: Night Repair Cream + Vitamin C+ Serum](https://anc-electronics-n-services-inc.myshopify.com/products/age-perfect-night-repair-cream-vitamin-c-serum): AGE PERFECT: 2 PC ANTI-AGING TREATMENT ANTIOXIDANTS+NUTRITION+SCIENCE LE'VEA 2 PC ANTI-AGING TREATMENTBIOTIC REPAIR ANTI-AGING NIGHT CREAM C+ ANTIOXIDANT WRINKLE REDUCTION SERUMThis 2pc Anti-Aging treatment double nourishment for facial skin aging treatment and protection, as well as repair skin cells. It is also great to treat neck area aging skin. For Skin Types: Safe for All Skin types. Great for: Anti-Aging / Dry&Dehydrated / Hyper-pigmentation / Sensitive Skin / Combination Skin LE'VEA BIOTIC REPAIR ANTI-AGING NIGHT CREME Absolute Cell Repair and Rejuvenating Anti-Aging CreamNo Parabens, Sulfates or Phthalates. Cruelty-Free & Vegan-FriendlyUnit Size: 1.7 FL OZ PH: 5.73 PRODUCT DESCRIPTION:This skin-reparative luxuriously rich night cream deeply hydrates and nourishes the skin by utilizing specialized concentrated ingredients while encouraging deep cellular rejuvenation. Proprietary actives combat hyperpigmentation, reverse damaged cells caused by free radical damage, repairs skin’s cellular matrix and function. It contains rich humectants and moisture-binders, providing the utmost in deep skin hydration, and the ultimate in barrier protection. Rapidly repairs while visibly reduces facial wrinkles and smooth’s out overall skin tone, texture, and minimizes large pores. It excels as an anti-aging night cream, as well as a daily moisturizer for those dry skin who benefit from a richer complex.LE'VEA C+ ANTIOXIDANT WRINKLE REDUCTION SERUMThe Ultimate Daily Antioxidant Defense SerumNo Parabens, Sulfates or Phthalates. Cruelty-Free & Vegan-FriendlyUnit Size: 1 FL OZ PH: 4.10 PRODUCT DESCRIPTION: This new revolutionary antioxidant hydra-¬serum acts and neutralizes free radicals in the skin to effectively fight against daily UV damage, preventing the breakdown of collagen, visibly helping reduce wrinkles, fine lines, and evens out skin tone. Skin brighteners work to correct damaged skin and balance out this truly exceptional formula. Age-defying antioxidants, including the highest clinically¬-tested percentage of stable Vitamin C, Ferulic Acid, Emblica, Vitamin E and Vitamin B5, unite to deliver the ultimate in skin hydration while providing unmatched antioxidant support. This is the perfect serum for anyone searching for essential daily antioxidant support while providing unmatched damage protection and correction to the skin, for a healthier, fully hydrated and glowing complexion. Why are LE'VEA Products Special and Trustworthy?* LE'VEA Products were Developed By World Class Chemists* All LE'VEA Products are MSDS Certified and Tested Safe for All Skin Types* Scientifically Researched Formula * Proven Effective Anti-Aging* Formulation Compatible to Similar High-End Product at a Retail Price range of 3X-6X more. * For the equivalent quality and Results with 3X-6X Less of CostThe concept:Products designed to prevent and repair skin aging at its source. For best results:We suggest using the full set of LE'VEA product with the continued use of one to two sets. We sure you will love the results after your 1st set of uses. Declaration:Actual results may vary depending on each individuates
-  Updated: 2025-12-12T05:02:38Z
+  Updated: 2025-12-16T21:55:24Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/anti-aging-wrinkle-cream-skincare-sets-11995675.jpg?v=1764532953
   Price: $74.16 USD
 - [Rose heart bath bomb / organic bath bomb /](https://anc-electronics-n-services-inc.myshopify.com/products/rose-heart-bath-bomb-organic-bath-bomb): These bath bombs make the cutest gifts or treat for Valentine's Day! They are organic and topped with organic rose petals. The rose petals will float on top of the water in your bath. They come single or as a set. Simply draw your bath and get in alone or with someone you fancy for a pampering and relaxing treat. Ingredients: non-gmo citric acid, sodium bicarbonate, Rose petals *, jojoba oil, witch hazel extract*, Rose absolute.
-  Updated: 2025-12-12T05:02:38Z
+  Updated: 2025-12-16T21:55:25Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/il_570xN.1396412898_o0bx.jpg?v=1764532972
   Price: $7.77 USD
 - [Brightening  Lifting Floral Gel Toner](https://anc-electronics-n-services-inc.myshopify.com/products/brightening-lifting-floral-gel-toner): This gel toner is produced from luxurious flower waters and pomegranate extract to brighten the face's complexion and lift it. Pomegranate extract with high molecular weight carbohydrates provides immediate tightening and lifting benefits. For Whom: For all skin types (Normal to Dry Skin)How to use:Use an appropriate amount of toner onto clean hands and pat onto face and neck. Let the toner be fully absorbed into your face. Apply AM & PM after the cleanser.Warning: For external use only. Avoid direct contact with eyes and mouth. If irritation occurs, discontinue use. Keep out of reach of children.Storage:Store in a cool and dry place (preferably fridge as this product doesn't have artificial and chemical preservatives). Use within 6 months of opening.Key Ingredients: Pomegranate Extract, Green Tea Extract, Lavender Hydrosol, Rose Flower Water. Pomegranate Extract: Pomegranate is considered a super fruit because of its unique antioxidant benefits as well as its high nutritional value. Pomegranate extract which is extracted along with its high molecular weight carbohydrates. When applied on the skin, provides immediate tightening and lifting benefits that help reduce the appearance of sagging and wrinkles. Green Tea Extract: Extracts of green tea contain polyphenols such as catechin and gallocatechin. They increase the physical appearance of aging by breaking down capillary strength. Using green tea helps boost the ability product to protect your skin from environmental damage while diminishing the appearance of aging. Lavender Hydrosol: It is a gentle, soothing and relaxing ingredient which refreshes and calms the skin. Rose Water: Rose water helps hydrate, revitalise and moisturise the skin giving it with that refreshed look. FULL INGREDIENTS: Aqua (Purified Water),Rosa Centifolia (*Rose) Flower Distilled, Aloe Vera Barbadensis (*Aloe Vera)Leaf Juice, Lavandula angustifolia (*Lavender) Flower Extract, Camellia Sinensis (*Green Tea) Leaf Extract, *Vegetable Glycerin, **AcaciaSenegal Gum & Xanthan Gum,Tocopherol (*Vitamin E), **Lactobacillus Ferment Lysate & **Camellia Sinensis Leaf Extract & Punica Granatum (**Pomegranate) Extract & **Caffeine, Pelargonium Graveolens (**Rose Geranium) Essential oil, **Natural Preservative (Benzyl Alcohol, Salicylic Acid, Glycerin, Sorbic Acid), **Natural PH Modifier (Lactic Acid).*Organic Certified, **Natural, 100%Vegan Handmade in small batches in Texas | Cruelty-Free | Environment-Friendly | No parabens, chemicals, glycerin, fragrance, hormones, silicones, petroleum products, artificial preservatives, fillers, multisyllabic additives, and unnatural additives.Disclaimer: The products and statements made about specific products on this website have not been evaluated by the United States Food and Drug Administration (FDA) and are not intended to diagnose, treat, cure or prevent disease. All information provided on this website or any information contained on or in any product label or packaging is for informational purposes only and is not intended as a substitute for advice from your physician or other healthcare professional. You should not use the information on this website for diagnosis or treatment of any health problem. Any testimonials on this website are based on individual results and do not constitute a guarantee that you will achieve the same results.
-  Updated: 2025-12-12T05:02:38Z
+  Updated: 2025-12-16T21:55:26Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/data_b05f8421-9179-4fb9-b303-a6698da9a83b.jpg?v=1764533028
   Price: $14.99 USD
 - [SG Hemp Serum](https://anc-electronics-n-services-inc.myshopify.com/products/sg-hemp-serum): Benefits Hemp Oil: High in omega acids 3, 6, and 9. Moisturizes and maintains the moisture of the skin. Hemp Oil can help to reduce fine lines and wrinkles as well as prevent signs of aging from developing.Formulated for balancing out the skin's pH levels. Ingredients: Water, Aloe Vera, Hemp Seed Oil, Cucumber Extract, Hyaluronic Acid, Naturlift (Sweet Almond extract in Safflower), Naturlines (Anise fruit extract in Safflower), Witch Hazel Hydrosol, Vegetable Glycerin, Xanthan Gum, Silver Dihydrogen Citrate
-  Updated: 2025-12-12T05:02:39Z
+  Updated: 2025-12-16T21:55:27Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/data_b1edcd63-5e9e-4766-8942-6fe4080db7b0.jpg?v=1764533165
   Price: $15.00 USD
 - [Divine Star sterling silver Necklace](https://anc-electronics-n-services-inc.myshopify.com/products/divine-star-sterling-silver-necklace): The perfect pendant for dreamers. The sleek silver chain with a star motif is classy while remaining cute and pretty. The fine chain contrasted with the cubic zirconia is the perfect balance of simple and chic. Layer with the ‘infinity’ or ‘circle of life’ to add to your ethereal look. We use only ethical 925 sterling silver in all our jewelry plated with Rhodium. All LaBante jewellery comes gift boxes as a perfect treat for someone you love. Chain size is 45 cmsAdjustable to 42 or 43 or 44 or 45 cms
-  Updated: 2025-12-12T05:02:39Z
+  Updated: 2025-12-16T21:55:28Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sterling_Silver_Necklace_with_Star_Pendant.jpg?v=1764533223
   Price: $56.25 USD
 - [Pure Heart sterling silver necklace](https://anc-electronics-n-services-inc.myshopify.com/products/pure-heart-sterling-silver-necklace): This dainty heart pendant is the perfect way to show someone how much you appreciate them, or better yet, treat yourself to some much-needed self-love! With a delicate chain, the cubic zirconia crystal is a pretty touch of sparkle for an everyday look or the statement piece you need for evening wear. Layer with 'infinity' to elevate your look even further and create a beautiful juxtaposition between a cute and smart aesthetic. We use only ethical 925 sterling silver in all our jewellery. All LaBante jewellery comes gift boxed as a perfect treat for someone you love. Chain size is 45 cmsAdjustable to 42 or 43 or 44 or 45 cms
-  Updated: 2025-12-12T05:02:39Z
+  Updated: 2025-12-16T21:55:30Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Necklace5Silver.jpg?v=1764533423
   Price: $56.25 USD
 - [TS218 - Rhodium 925 Sterling Silver Ring with AAA Grade CZ  in Clear](https://anc-electronics-n-services-inc.myshopify.com/products/ts218-rhodium-925-sterling-silver-ring-with-aaa-grade-cz-in-clear): Backordered: Requires 4-7 day shipping lead timeCategory: RingMaterial: 925 Sterling SilverFinish: RhodiumCenter Stone Type: AAA Grade CZCenter Stone Name: Center Stone Color: ClearWeight (approx): 11.60 (g)
-  Updated: 2025-12-12T05:02:40Z
+  Updated: 2025-12-16T21:55:31Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
@@ -417,7 +417,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $19.16 USD
 - [Tungsten Steel Couple Gold Engagement Ring](https://anc-electronics-n-services-inc.myshopify.com/products/tungsten-steel-couple-gold-engagement-ring): Type: ring, ring Style: couple style
-  Updated: 2025-12-12T05:02:40Z
+  Updated: 2025-12-16T21:55:32Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
@@ -459,7 +459,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/3203493206_1753929213_14fbf1e1-48a8-4481-8cc8-03e0158483a0.jpg?v=1764533479
     Price: $18.23 USD
 - [Solara Hoops](https://anc-electronics-n-services-inc.myshopify.com/products/solara-hoops): The Solara Hoops evoke the golden glow of sunrise — luminous, soft, and endlessly uplifting. Forged in 14K gold, their rounded silhouette is adorned with prong-set diamonds that dance with every turn. Perfectly weighted for comfort and brilliance, Solara brings radiant optimism to any occasion. A modern classic designed to illuminate the everyday.
-  Updated: 2025-12-12T05:02:40Z
+  Updated: 2025-12-16T21:55:34Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
@@ -477,7 +477,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/29_0e7707cd-d043-4535-8029-dc36529f3db9.png?v=1764533502
     Price: $446.25 USD
 - [High-end Luxury Engagement Ring - High-grade blue zircon gold ring](https://anc-electronics-n-services-inc.myshopify.com/products/high-end-luxury-engagement-ring-high-grade-blue-zircon-gold-ring): High-end foreign explosions jewelry Europe and the United States popular engagement ring high-grade blue zircon gold ring
-  Updated: 2025-12-12T05:02:41Z
+  Updated: 2025-12-16T21:55:35Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry
   Availability: Available
@@ -531,49 +531,49 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/6717161091_1255606688_306e29ff-f32e-4849-8cf5-3cdc8b7307c6.jpg?v=1764534037
     Price: $15.35 USD
 - [Otto Chrono All Rose Gold Bracelet](https://anc-electronics-n-services-inc.myshopify.com/products/otto-chrono-all-rose-gold-bracelet): In this Otto Chrono model, a bold statement is made with a solid stainless steel case and 3-link bracelet plated in rose gold, featuring a 2-eye chronograph movement with a black carbon fiber pattern on the dial. Good luck and good timing live a little dangerously close to perfection in this Otto Chrono style.
-  Updated: 2025-12-12T05:02:41Z
+  Updated: 2025-12-16T21:55:37Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HW514404f.png?v=1764534060
   Price: $327.25 USD
 - [8-Piece Patio Sofa Furniture Set, Half Moon Outdoor Sectional Sofa](https://anc-electronics-n-services-inc.myshopify.com/products/8-piece-patio-sofa-furniture-set-half-moon-outdoor-sectional-sofa): Specifications Place of Origin China Main Color Beige Main Material Aluminum,Rattan+Waterproof Fabric Filler Foam Use Case Garden & Outdoor Outdoor Seating Type Sectional Seating Groups Set Design Deep Seating Cushions Included Yes Frame Durability Weather Resistant Frame Cushion Durability Water Resistant Cushion Dangerous Goods #dangerFlag# Dimensions & Weights Assembled Length (in.) Not Applicable Assembled Width (in.) Not Applicable Assembled Height (in.) Not Applicable Weight (lbs) Not Applicable Product Features [Customizable 8-Piece Patio Sofa Set]This 8-piece half moon outdoor sectional offers ultimate flexibility for your outdoor space. The set includes 6 sectional sofas and 2 high-low round coffee tables, all of which can be arranged to fit your backyard, garden, or poolside. With a strong aluminium frame and PE wicker, it’s designed for durability and comfort. [Comfortable & Supportive Cushions]Each sofa comes with thick, plush cushions and back pillows for a comfortable seating experience. The cushions are secured by straps and the covers are removable with zippers for easy cleaning. This ensures long-lasting comfort and effortless maintenance for your patio, garden, or poolside gatherings. [Durable Aluminium Frame & PE Wicker] Built to withstand the elements, this patio sofa furniture set features a robust aluminium frame and high-quality PE wicker rattan backrests.Whether placed in your backyard or by the poolside, this half moon outdoor sectional is perfect for outdoor entertaining.It’s built to accommodate up to 300lbs per sofa and 110lbs per coffee table, providing ample seating and table space for outdoor relaxation, snacks, and drinks. [Safe & Stable Design] Ideal for backyards, gardens, or poolside areas, this set combines functionality and modern design. Available in 2 colors, it’s a stylish and practical addition to any outdoor space, offering endless configuration options for your relaxation needs. Whether hosting guests or enjoying a quiet evening, this furniture set delivers reliability and style. [Dimension&Notice] Single Sofa:34.3x25.6x12.6inch(LXWXH);Half round Sofa:29.5x28.5x12.6inch(LXWXH);Big Coffee Table:23.6x12inch(DIAXH); Small Coffee Table:19.7x17.3inch(DIAXH);Seat Cushion Thickness:3.1inch;Back Cushion:25.2x15x7.9inch(LXWXT).3 boxes in total which may not come together.Please note: The packaging shows an 8-piece set, but this item has two options (6-piece or 8-piece). Select your preferred set during checkout. Carton drawing issue will not be accepted as a reason for returning. Description Modular & Independent Design This 6-piece set includes 4 independent armless sofas and 2 high-low round coffee tables, allowing you to arrange them freely to fit any outdoor space. Perfect for creating a customized seating area in your backyard, patio, or poolside. Premium Durable Materials Crafted with a sturdy aluminium frame and high-quality PE wicker rattan(Each sofa supports up to 300 lbs, and each coffee table holds up to 110 lbs), this set is built to withstand outdoor elements. The tempered glass tabletops add a sleek, modern touch while ensuring durability and easy maintenance Comfortable & Convenient The set comes with 4 removable zippered cushions and back pillows, including 2 half-round cushions designed specifically for the half-moon sofas. The cushions are secured with straps, and the sofas are stabilized with magic tapes for added safety and comfort. Highlights&Summary Highlights Aluminium Frame // PE Wicker Rattan Sofa Back // Half-Moon // Sectional // 8-Piece Free Combination // 2 PCS High-Low Round Coffee Tables // Tempered Glass Table // 6 PCS Back Pillows&Seat Cushions // Each Sofa is fixed by Magic Tapes // Each Back Pillow is fastened by Straps// Removable Covers with Zipper // 2 Colors Available // Suitable for Backyard/Patio/Poolside etc. // 300lbs Weight Capacity for Each Sofa // 110lbs Weight Capacity for Each Coffee Table // 3 Boxes in Total Summary Elevate your outdoor living with this 8-piece patio sofa set. Crafted with a sturdy aluminium frame and durable PE wicker, each piece of this patio sofa furniture set offers comfort and style. The set includes 6 sectional sofas and 2 high-low round coffee tables, complete with cushioned backs and removable covers. Perfect for any backyard, patio, or poolside setting, it’s easy to rearrange and customize to fit your space. Enjoy the ultimate outdoor relaxation experience with this stylish set. Weight&Dimensions&Specifications Overall Product Dimension Single Sofa:34.3x25.6x12.6inch(LXWXH) Half round Sofa:29.5x28.5x12.6inch(LXWXH) Big Coffee Table:23.6x12inch(DIAXH) Small Coffee Table:19.7x17.3inch(DIAXH) Seat Cushion Thickness:3.1inch Back Cushion:25.2x15x7.9inch(LXWXT) Overall Weight Single Sofa:14.8lbs Half Round Sofa:15.2lbs Small Coffee Table:10.1lbs Big Coffee Table:15.2lbs Weight Capacity Each Sofa:300lbs. Each Coffee Table:110lbs. Material PE Rattan+Aluminum Frame+Polyester Fabric+Foam Pieces Included Single Sofa*4+ Half Round Sofa*2+Big Coffee Table*1+ Small Coffee Table*1 Color Beige Frame+Cushion+Tabletop+Brown Rattan Assembly Required Yes Additional Tools Required All Tools Included Country of Origin China Product Warrant Please Read Return Policy Maintenance&Notice Outdoor Furniture Care To remove dirt and debris, vacuum with a dust- brush attachment or use a dry paintbrush. Clean with a mild soap solution, scrub with a sponge, rinse with cold water and dry completely. When outdoor furniture is not in use, we recommend covering all the furniture to protect it against the elements. Assembly Notice Please read assemble manual in advance. Please do not over-tighten nuts, as this may cause distortion or breakage. Color Notice Items may slightly differ from photo in terms of color due to the lighting or your monitor's display. Size Notice Manual measurement has been used, there may be some reasonable error.
-  Updated: 2025-12-12T05:02:41Z
+  Updated: 2025-12-16T21:55:40Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/7f7bf5b3aa224aa89d73c0a4c534fb40.jpg?v=1764534094
   Price: $878.99 USD
 - [Two-seater lazy sofa lounge chair,Compressed sofa no assembly](https://anc-electronics-n-services-inc.myshopify.com/products/two-seater-lazy-sofa-lounge-chair-compressed-sofa-no-assembly): Specifications Place of Origin #originPlace# Main Color Black Main Material Foam Seats 2 Seat Dangerous Goods #dangerFlag# Dimensions & Weights Assembled Length (in.) Not Applicable Assembled Width (in.) Not Applicable Assembled Height (in.) Not Applicable Weight (lbs) Not Applicable Product Features Comfortable sitting: The internal filling of the whole sponge is formed in one piece, without the discomfort that may be caused by the traditional sofa frame, you can feel that the sponge evenly distributes the weight of the body when sitting, providing a soft and supportive feeling of sitting, effectively relieving the body pressure, and it is not easy to feel tired for a long time. Convenience: The compressed sofa can easily pass through the narrow corridor, elevator and door, solving the problem of large-size sofa into the home, even if it is a small residential or living in the high-rise users, can easily move the sofa into the home. No Assembly Required Lazy Chair： We will ship the single lazy sofa in a package locally, and it may require a gentle pat to help restore it to its original fluffiness. If you encounter any issues, please don't hesitate to contact us. Whether you're in need of a living room chair, a small bedroom sofa, or a floor lounge chair for reading books, this versatile chair is the perfect solution. Simply take it out of the box and start enjoying your leisure time right High-Density Foam Filled ：The elegant sofa is sure to be a remarkable addition to any family or social gathering. With no wood frame, but instead filled with high-density foam, it offers an exceptional comfort experience and an exclusive sinking sensation. Perfect for lounging with a book or enjoying cozy movie nights on the sofa. Cleaning method: Use a soft brush dipped in a professional cleaning agent to scrub. Description Specifications&Features Product Type sofa lounge chair Seating Capacity 2-Seaters Sofa Material Compression sponge + cloth handrail No Detail Product Dimension Please refer to the Size image Assembly Required No Seat Style Modern lazy sofa lounge chair Featured design With no wood frame, but instead filled with high-density foam
-  Updated: 2025-12-12T05:02:41Z
+  Updated: 2025-12-16T21:55:42Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/3a2f7a03d89c49c1b0fcfdb9b2b36dff.jpg?v=1764534121
   Price: $458.99 USD
 - [8-Piece Patio Sofa Furniture Set, Half Moon Outdoor Sectional Sofa](https://anc-electronics-n-services-inc.myshopify.com/products/8-piece-patio-sofa-furniture-set-half-moon-outdoor-sectional-sofa-1): Specifications Place of Origin China Main Color Gray Main Material Aluminum,Rattan+Waterproof Fabric Filler Foam Use Case Garden & Outdoor Outdoor Seating Type Sectional Seating Groups Set Design Deep Seating Cushions Included Yes Frame Durability Weather Resistant Frame Cushion Durability Water Resistant Cushion Dangerous Goods #dangerFlag# Dimensions & Weights Assembled Length (in.) Not Applicable Assembled Width (in.) Not Applicable Assembled Height (in.) Not Applicable Weight (lbs) Not Applicable Product Features [Customizable 8-Piece Patio Sofa Set]This 8-piece half moon outdoor sectional offers ultimate flexibility for your outdoor space. The set includes 6 sectional sofas and 2 high-low round coffee tables, all of which can be arranged to fit your backyard, garden, or poolside. With a strong aluminium frame and PE wicker, it’s designed for durability and comfort. [Comfortable & Supportive Cushions]Each sofa comes with thick, plush cushions and back pillows for a comfortable seating experience. The cushions are secured by straps and the covers are removable with zippers for easy cleaning. This ensures long-lasting comfort and effortless maintenance for your patio, garden, or poolside gatherings. [Durable Aluminium Frame & PE Wicker] Built to withstand the elements, this patio sofa furniture set features a robust aluminium frame and high-quality PE wicker rattan backrests.Whether placed in your backyard or by the poolside, this half moon outdoor sectional is perfect for outdoor entertaining.It’s built to accommodate up to 300lbs per sofa and 110lbs per coffee table, providing ample seating and table space for outdoor relaxation, snacks, and drinks. [Safe & Stable Design] Ideal for backyards, gardens, or poolside areas, this set combines functionality and modern design. Available in 2 colors, it’s a stylish and practical addition to any outdoor space, offering endless configuration options for your relaxation needs. Whether hosting guests or enjoying a quiet evening, this furniture set delivers reliability and style. [Dimension&Notice] Single Sofa:34.3x25.6x12.6inch(LXWXH);Half round Sofa:29.5x28.5x12.6inch(LXWXH);Big Coffee Table:23.6x12inch(DIAXH); Small Coffee Table:19.7x17.3inch(DIAXH);Seat Cushion Thickness:3.1inch;Back Cushion:25.2x15x7.9inch(LXWXT).3 boxes in total which may not come together.Please note: The packaging shows an 8-piece set, but this item has two options (6-piece or 8-piece). Select your preferred set during checkout. Carton drawing issue will not be accepted as a reason for returning. Description Modular & Independent Design This 6-piece set includes 4 independent armless sofas and 2 high-low round coffee tables, allowing you to arrange them freely to fit any outdoor space. Perfect for creating a customized seating area in your backyard, patio, or poolside. Premium Durable Materials Crafted with a sturdy aluminium frame and high-quality PE wicker rattan(Each sofa supports up to 300 lbs, and each coffee table holds up to 110 lbs), this set is built to withstand outdoor elements. The tempered glass tabletops add a sleek, modern touch while ensuring durability and easy maintenance Comfortable & Convenient The set comes with 4 removable zippered cushions and back pillows, including 2 half-round cushions designed specifically for the half-moon sofas. The cushions are secured with straps, and the sofas are stabilized with magic tapes for added safety and comfort. Highlights&Summary Highlights Aluminium Frame // PE Wicker Rattan Sofa Back // Half-Moon // Sectional // 8-Piece Free Combination // 2 PCS High-Low Round Coffee Tables // Tempered Glass Table // 6 PCS Back Pillows&Seat Cushions // Each Sofa is fixed by Magic Tapes // Each Back Pillow is fastened by Straps// Removable Covers with Zipper // 2 Colors Available // Suitable for Backyard/Patio/Poolside etc. // 300lbs Weight Capacity for Each Sofa // 110lbs Weight Capacity for Each Coffee Table // 3 Boxes in Total Summary Elevate your outdoor living with this 8-piece patio sofa set. Crafted with a sturdy aluminium frame and durable PE wicker, each piece of this patio sofa furniture set offers comfort and style. The set includes 6 sectional sofas and 2 high-low round coffee tables, complete with cushioned backs and removable covers. Perfect for any backyard, patio, or poolside setting, it’s easy to rearrange and customize to fit your space. Enjoy the ultimate outdoor relaxation experience with this stylish set. Weight&Dimensions&Specifications Overall Product Dimension Single Sofa:34.3x25.6x12.6inch(LXWXH) Half round Sofa:29.5x28.5x12.6inch(LXWXH) Big Coffee Table:23.6x12inch(DIAXH) Small Coffee Table:19.7x17.3inch(DIAXH) Seat Cushion Thickness:3.1inch Back Cushion:25.2x15x7.9inch(LXWXT) Overall Weight Single Sofa:14.8lbs Half Round Sofa:15.2lbs Small Coffee Table:10.1lbs Big Coffee Table:15.2lbs Weight Capacity Each Sofa:300lbs. Each Coffee Table:110lbs. Material PE Rattan+Aluminum Frame+Polyester Fabric+Foam Pieces Included Single Sofa*4+ Half Round Sofa*2+Big Coffee Table*1+ Small Coffee Table*1 Color Dark Gray Frame+Cushion+Tabletop+Light Gray Rattan Assembly Required Yes Additional Tools Required All Tools Included Country of Origin China Product Warrant Please Read Return Policy Maintenance&Notice Outdoor Furniture Care To remove dirt and debris, vacuum with a dust- brush attachment or use a dry paintbrush. Clean with a mild soap solution, scrub with a sponge, rinse with cold water and dry completely. When outdoor furniture is not in use, we recommend covering all the furniture to protect it against the elements. Assembly Notice Please read assemble manual in advance. Please do not over-tighten nuts, as this may cause distortion or breakage. Color Notice Items may slightly differ from photo in terms of color due to the lighting or your monitor's display. Size Notice Manual measurement has been used, there may be some reasonable error.
-  Updated: 2025-12-12T05:02:42Z
+  Updated: 2025-12-16T21:55:45Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/ff16d718e0974756b8b566222fc64d03.jpg?v=1764534148
   Price: $878.50 USD
 - [114' Sleeper Sofa,U Shaped Sofa , Pull Out Bed,Convertible Oversize 2](https://anc-electronics-n-services-inc.myshopify.com/products/114-sleeper-sofa-u-shaped-sofa-pull-out-bed-convertible-oversize-2): Specifications Place of Origin China Main Color Black Main Material Corduroy,Foam+Spring,Wood Filler Foam Product Style Modern Use Case Primary Living Space Upholstery Material Corduroy Frame Material Wood Arm Style Square Arms Back Style Cushion Back Seats 4 Seat Seat Plushness Medium-Soft Dangerous Goods #dangerFlag# Dimensions & Weights Assembled Length (in.) 114.00 Assembled Width (in.) 54.50 Assembled Height (in.) 33.00 Weight (lbs) 195.47 Product Features 【Pillow and back cushion】The Corduroy Sectional Sofa Couch comes with 4 back cushion, 2 pillowsoption for your living room, office or apartment. 【Comfortable Chaise Lounge】 The lounge chair is made of high-quality corduroy fabric, which is gentle to the touch, soft and skin-friendly. The seat cushion is filled with highly elastic sponge reinforced with spring packs to support your body and easily return to shape when you sit down. Our chaise lounge chair is ergonomically. 【2 in-1 Functionality】This sofa bed effortlessly transforms from a stylish couch to a comfortable bed, making it perfect for hosting guests. Whether you need a sleeper sofa or a pull-out sofa bed, this piece delivers both style and practicality. 【Spacious & Versatile Design】 Size 114'L x 54.5'W x 33'H, this sectional couch offers ample space for lounging or sleeping. Its U-shaped couch design is ideal for modern living rooms, providing both comfort and functionality. 【Easy Assembly & Modern Style】 Setting up your new sectional sofa is quick and easy with step-by-step instructions.You can choose your own color according to your preference. Description Convertible Oversize 2 in 1 Sleeper Sofa This sofa bed effortlessly transforms from a stylish couch to a comfortable bed, making it perfect for hosting guests. Whether you need a sleeper sofa or a pull-out sofa bed, this piece delivers both style and practicality. Comfortable Chaise Lounge The lounge chair is made of high-quality corduroy fabric, which is gentle to the touch, soft and skin-friendly. The seat cushion is filled with highly elastic sponge reinforced with spring packs to support your body and easily return to shape when you sit down. Our chaise lounge chair is ergonomically. Features Product Type U Shaped Couch , Pull Out Sofa Bed Seating Capacity 4 Upholstery Material Corduroy Seat Fill Material Highly Elastic Sponge,Spring Packs Frame Material Wood Back Cushion Included Yes,4 included Pillow Included Yes,2 included Product Care Lightly brush or vacuum frequently to remove dust and grime. Spot clean using a mild water-based solvent. Pre-test cleaning methods on a hidden surface. A professional cleaning service is recommended for an overall soiled condition. Country of Origin China Product Dimensions Dimension 114'L x 54.5'W x 33'H Back Height - Seat to Top of Back 7'' Backrest Height - Floor to Top of Back 24.5'' Arm Height - Floor to Arm 21.75'' Seat Height- Floor to Seat 17.5' Seated Depth 36.5-46' / 19-28.5' Throw Pillow Size 17.5*17'(L*D) Back Cushion Size 26*18'(L*D) Armrest Width 8.5' Armrest Height 21.75' Weight Capacity 300 lbs / seat Foot Height 3.94' Adult Assembly Required Yes Suggested # of People 4 Notice: 1.Due to the difference between computer display and photography, the color of the pictures and actual products will be slightly different. 2.The packaging of the product package may be updated at any time, please refer to the actual product received. 3.Most of our sofas are hand-measured, therefore the dimensions are for reference only, and may marginally deviate.
-  Updated: 2025-12-12T05:02:42Z
+  Updated: 2025-12-16T21:55:47Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/d23376ddfdf049d59e166cbb82fc2cbe.jpg?v=1764534165
   Price: $788.99 USD
 - [Corduroy Double Sofa Bed with 2 Pillows, Perfect for Living Rooms,](https://anc-electronics-n-services-inc.myshopify.com/products/corduroy-double-sofa-bed-with-2-pillows-perfect-for-living-rooms): Specifications Place of Origin #originPlace# Main Color White Main Material Polyester Seats 2 Seat Dangerous Goods #dangerFlag# Dimensions & Weights Assembled Length (in.) 86.60 Assembled Width (in.) 65.00 Assembled Height (in.) 30.70 Weight (lbs) 145.20 Product Features [Comfort Meets Practicality]:Crafted with high-density pure sponge padding and an independent pocket spring support system, the sofa offers balanced softness and firmness for optimal comfort and body support. Two included throw pillows add versatile coziness for any occasion. [Effortless Scene Switching]:This double sofa bed is ideal for couples and families. A multifunctional lounging sofa bed, it’s perfect for movie nights, relaxation, home theater enjoyment, or providing extra sleeping space for guests. [Flexible Space Solutions]:The innovative split lounger design unlocks dual functionality—use it as a spacious double sofa for socializing or separate it into two single sofas. These can be freely arranged in a study, bay window, office, or any compact space to adapt to your lifestyle needs. [Premium Corduroy Fabric]:Upholstered in soft, retro-inspired corduroy, the sofa combines a plush tactile feel with timeless style. Choose from multiple textured designs to match your personal taste and interior décor. Easy Assembly: Ready to use out of the box, no assembly required. This sofa can get rid of your rigid nightmare of furniture assembly and easily integrate into your living space! Description Weights & Dimensions Overall 86.6''Wx65''Dx30.7H'' Seat Depth 44.5'' Seat Hight 16.1'' Arm Height 24.4'' Specifications Product Type Sofa Design Standard Seating Capacity 2 Fabric Material Polyester Seat Fill Material Sponge Seat Construction Sponge+Spring Pack Pillows Fill Material Sponge Removable Set Cushions No Removable Set Cushion Cover No Removable Back Cushions Yes Removable Back Cushion Cover Yes Weight Capacity 400 lbs/seat Supplier Intended and Approved Use Residential Use Product Care Vacuum the surface and crevices regularly to remove dust and dirt.Avoid placing your upholstered furniture in direct sunlight to minimize fading. Spot clean with a damp cloth or sponge. Do not use harsh chemicals. Do not machine wash cushion covers Country of Origin China Notice About Color Due to screen display or light problems, the color of the products received may be slightly different from the pictures, Please refer to the actual product for the actual color. About Size Sizes are measured manually, there will be some slight differences. TIP 1 The sectional sofa comes in 2 separate boxes, might be delivered at different times. Please waitseveral days patiently. TIP 2 Due to packaging compression for transportation, the fabric may have wrinkles. Please remove all packaging, pat each part and wait for 72 hours for better rebound and fluffiness, in order to restore the image like state.
-  Updated: 2025-12-12T05:02:42Z
+  Updated: 2025-12-16T21:55:49Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/6df0b8322ed3433fa4f21395b960d902.jpg?v=1764534193
   Price: $698.99 USD
 - [Startup Apprentice Program](https://anc-electronics-n-services-inc.myshopify.com/products/startup-apprentice-program): Our start-up program is a one of a kind assistance program, you can choose to include credit repair or building for only $25 more than your regular membership fee. That part includes business and personal credit. Our start-up program is a combination of mentoring, guiding, teaching, and walking you through the process. You will have 100% ownership to any and all things we help you create in our program. We help from start to finish, including but not limited to registration, getting your business in front of the right audience. Business plan and financial assistance presentation that will present you and your business in the best light, marketing and advertising, certifying you, and helping you build a solid foundation for your business. By the end of our program you will have a fully funcionable business in the field you chose including website, landing page, ads, and all the tools you and your business needs to be successful.
-  Updated: 2025-12-09T07:25:22Z
+  Updated: 2025-12-16T21:55:50Z
   Vendor: ANC Electronics N Services Inc
   Product Type: 
   Availability: Available
@@ -591,7 +591,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $135.00 USD
 - [CHIPAL Black VER006S PCI-E Riser Card 0.3M 0.6M 1M USB 3.0 Cable PCIE 1X to 16X Extension Adapter SATA 4Pin Power for Video Card](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-black-ver006s-pci-e-riser-card-0-3m-0-6m-1m-usb-3-0-cable-pcie-1x-to-16x-extension-adapter-sata-4pin-power-for-video-card): Brand Name: CHIPALHigh-concerned chemical: NoneOrigin: Mainland ChinaType: PCI-E RiserPackage: YesCertification: CEModel Number: For GPU Riser CardItem Type: PCI-Express X1 to X16 ExtenderItem Model: JL455Product Name: VER006S PCI-E RiserItem Name: 0.6M VER006 PCI Express Riser CardApplied: to Video Graphics Card GPUCompatible: For PCIE 1X 4X 8X 16X SlotUSB 3.0 Cable Length: 0.3M 0.6M 1M (Approx.)PCIE X16 Card Size: 4.3cm*12.7cm*1.5cmPower Supply: 15Pin SATA to 4Pin IDE Power CordFunction 1: SATA RiserFunction 2: USB RiserFunction 3: PCIE Riser 16XFunction 4: 16X Riser CableFunction 5: 16X Riser CardNOTE: Only For Desktop
-  Updated: 2025-12-11T00:15:19Z
+  Updated: 2025-12-19T12:32:44Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -599,17 +599,17 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [1M](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-black-ver006s-pci-e-riser-card-0-3m-0-6m-1m-usb-3-0-cable-pcie-1x-to-16x-extension-adapter-sata-4pin-power-for-video-card?variant=51752443969817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sad644bd1d5454da992130c9a459b593cp.jpg?v=1765368902
-    Price: $65.99 USD
+    Price: $47.99 USD
   - [0.6M](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-black-ver006s-pci-e-riser-card-0-3m-0-6m-1m-usb-3-0-cable-pcie-1x-to-16x-extension-adapter-sata-4pin-power-for-video-card?variant=51752444002585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Se1e00880a69c4acdb0e7c025a5986692n.jpg?v=1765368901
-    Price: $59.99 USD
+    Price: $43.99 USD
   - [0.3M](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-black-ver006s-pci-e-riser-card-0-3m-0-6m-1m-usb-3-0-cable-pcie-1x-to-16x-extension-adapter-sata-4pin-power-for-video-card?variant=51752444035353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S15dd09c68e664dfdbd27f8ab668a913fh.jpg?v=1765368902
-    Price: $56.99 USD
+    Price: $41.99 USD
 - [NASTAKO 20/50/100pcs Cat6 RJ45 Connector UTP Cable Ethernet Jack 8P8C Network CAT6 Cat5e Modular Plugs With 6.5mm RJ45 Caps](https://anc-electronics-n-services-inc.myshopify.com/products/nastako-20-50-100pcs-cat6-rj45-connector-utp-cable-ethernet-jack-8p8c-network-cat6-cat5e-modular-plugs-with-6-5mm-rj45-caps): Brand Name: NASTAKOOrigin: Mainland ChinaType: ConnectorsPackage: YesCertification: CECertification: RoHSModel Number: CN085Model: RJ45 ConnectorType: RJ45 PlugsSpecification: Cat6 ConnectorInterface: Cat5e ConnectorItems: RJ45 Modular PlugsConnector: RJ45 Cat6Works for: Cat6Applicable to: Cat5e Cat5Fit for: Network CableSheet metal: Gold plated
-  Updated: 2025-12-11T00:15:35Z
+  Updated: 2025-12-20T11:50:00Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -617,17 +617,17 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [100pcs](https://anc-electronics-n-services-inc.myshopify.com/products/nastako-20-50-100pcs-cat6-rj45-connector-utp-cable-ethernet-jack-8p8c-network-cat6-cat5e-modular-plugs-with-6-5mm-rj45-caps?variant=51752444166425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S484c6c26c0404856b849b5c3d382ac3fZ_7cGiPjZ.jpg?v=1765368903
-    Price: $188.99 USD
+    Price: $204.99 USD
   - [50pcs](https://anc-electronics-n-services-inc.myshopify.com/products/nastako-20-50-100pcs-cat6-rj45-connector-utp-cable-ethernet-jack-8p8c-network-cat6-cat5e-modular-plugs-with-6-5mm-rj45-caps?variant=51752444199193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S484c6c26c0404856b849b5c3d382ac3fZ_7cGiPjZ.jpg?v=1765368903
-    Price: $107.99 USD
+    Price: $116.99 USD
   - [20pcs](https://anc-electronics-n-services-inc.myshopify.com/products/nastako-20-50-100pcs-cat6-rj45-connector-utp-cable-ethernet-jack-8p8c-network-cat6-cat5e-modular-plugs-with-6-5mm-rj45-caps?variant=51752444231961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S484c6c26c0404856b849b5c3d382ac3fZ_7cGiPjZ.jpg?v=1765368903
-    Price: $54.99 USD
+    Price: $59.99 USD
 - [6inch  6Gb/S SATA3 Serial ATA DATA Cable W/ Latch Locking for PC Laptop SATA 3.0 SATAIII 6Gbps HDD Hard Drive Disk/ SSD - Black](https://anc-electronics-n-services-inc.myshopify.com/products/6inch-6gb-s-sata3-serial-ata-data-cable-w-latch-locking-for-pc-laptop-sata-3-0-sataiii-6gbps-hdd-hard-drive-disk-ssd-black): Brand Name: En-LabsOrigin: Mainland ChinaType: SATA CablesCertification: NonePackage: YesProducts Status: STOCKModel Number: 12-422-795Type: SATA3,SATA III,SATA 6GbpsConductor: 26AWG Tinned CopperLength: 6 inchesColor: BlackConnector: SATA data 7-pin with latch lockingCertification: UL,RoHSChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T10:13:15Z
+  Updated: 2025-12-19T12:32:41Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -793,7 +793,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1IzyVRFXXXXctXFXXq6xXFXXXe_p7GV8zt.jpg?v=1765368905
     Price: $21.99 USD
 - [180 Degree Extension Cable Kit - PC Computer ATX 24Pin, EPS 4+4Pin, PCI-E 6+2Pin, PCI-E 6Pin Power Extension Cable.](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable): Brand Name: UnyisiOrigin: Mainland ChinaType: Motherboard Extension CablePackage: YesCertification: CEModel Number: Basic Extension Cable KitWire Guage: UL 1007 18AWGCertificate: UL & ROSHLength: 30cmOEM: YesColor: Mixed Color Sleeved
-  Updated: 2025-12-11T00:15:28Z
+  Updated: 2025-12-19T12:32:39Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -801,205 +801,205 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [As Image / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752445870361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4ea1dd56f617421dbe8e4c31e4a74123h_ipkmuGj.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752445903129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4ea1dd56f617421dbe8e4c31e4a74123h_ipkmuGj.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752445935897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4ea1dd56f617421dbe8e4c31e4a74123h_ipkmuGj.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image1 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752445968665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S30bd90791cee43b1a3b000c7d1c2fed0u_xjBm7xy.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image1 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446001433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S30bd90791cee43b1a3b000c7d1c2fed0u_xjBm7xy.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image2 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446034201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S247fc6dd5e194f2491dcd5f8754df1b2l_glHOXM2.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image2 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446066969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S247fc6dd5e194f2491dcd5f8754df1b2l_glHOXM2.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image2 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446099737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S247fc6dd5e194f2491dcd5f8754df1b2l_glHOXM2.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image2 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446132505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S247fc6dd5e194f2491dcd5f8754df1b2l_glHOXM2.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image3 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446165273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sae18efc74e964688a81caea0e5e85d4eR_oaiFFcL.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image2 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446198041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S247fc6dd5e194f2491dcd5f8754df1b2l_glHOXM2.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image4 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446230809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Scc712989b65c4b6ca91ba7b6a2e9d05eR_9En6J0Y.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image4 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446263577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Scc712989b65c4b6ca91ba7b6a2e9d05eR_9En6J0Y.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image4 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446296345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Scc712989b65c4b6ca91ba7b6a2e9d05eR_9En6J0Y.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image1 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446329113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S30bd90791cee43b1a3b000c7d1c2fed0u_xjBm7xy.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image4 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446361881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Scc712989b65c4b6ca91ba7b6a2e9d05eR_9En6J0Y.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image1 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446394649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S30bd90791cee43b1a3b000c7d1c2fed0u_xjBm7xy.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image1 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446427417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S30bd90791cee43b1a3b000c7d1c2fed0u_xjBm7xy.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image5 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446460185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9f24fa5d45d14e8598be0b4974780976X_WB6EMv6.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image6 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446492953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S55a5c43ac7aa4febaf3e56f4ff4dc477J_GT8rSoh.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image5 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446525721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9f24fa5d45d14e8598be0b4974780976X_WB6EMv6.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image5 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446558489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9f24fa5d45d14e8598be0b4974780976X_WB6EMv6.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image5 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446591257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9f24fa5d45d14e8598be0b4974780976X_WB6EMv6.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image5 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446624025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9f24fa5d45d14e8598be0b4974780976X_WB6EMv6.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446656793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4ea1dd56f617421dbe8e4c31e4a74123h_ipkmuGj.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446689561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4ea1dd56f617421dbe8e4c31e4a74123h_ipkmuGj.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image3 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446722329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sae18efc74e964688a81caea0e5e85d4eR_oaiFFcL.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image3 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446755097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sae18efc74e964688a81caea0e5e85d4eR_oaiFFcL.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image3 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446787865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sae18efc74e964688a81caea0e5e85d4eR_oaiFFcL.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image3 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446820633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sae18efc74e964688a81caea0e5e85d4eR_oaiFFcL.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image6 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446853401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S55a5c43ac7aa4febaf3e56f4ff4dc477J_GT8rSoh.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image6 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446886169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S55a5c43ac7aa4febaf3e56f4ff4dc477J_GT8rSoh.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image6 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446918937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S55a5c43ac7aa4febaf3e56f4ff4dc477J_GT8rSoh.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image6 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446951705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S55a5c43ac7aa4febaf3e56f4ff4dc477J_GT8rSoh.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image4 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752446984473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Scc712989b65c4b6ca91ba7b6a2e9d05eR_9En6J0Y.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [Custom Color / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447017241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb447261b225f43188714c5d4c0f71790x_Fj7oxUa.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [Custom Color / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447050009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb447261b225f43188714c5d4c0f71790x_Fj7oxUa.jpg?v=1765368908
-    Price: $205.99 USD
+    Price: $216.99 USD
   - [Custom Color / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447082777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb447261b225f43188714c5d4c0f71790x_Fj7oxUa.jpg?v=1765368908
-    Price: $244.99 USD
+    Price: $256.99 USD
   - [Custom Color / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447115545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb447261b225f43188714c5d4c0f71790x_Fj7oxUa.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [Custom Color / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447148313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb447261b225f43188714c5d4c0f71790x_Fj7oxUa.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image7 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447181081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Seb925bd9d49c4efa96749b2461625dc4B_sulOfi6.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image7 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447213849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Seb925bd9d49c4efa96749b2461625dc4B_sulOfi6.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image7 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447246617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Seb925bd9d49c4efa96749b2461625dc4B_sulOfi6.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image7 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447279385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Seb925bd9d49c4efa96749b2461625dc4B_sulOfi6.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image8 / Type-4](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447312153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S929205cea97f40368fb8d8ca07ebd360z_8rexNKr.jpg?v=1765368908
-    Price: $193.99 USD
+    Price: $202.99 USD
   - [As Image8 / Type-2](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447344921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S929205cea97f40368fb8d8ca07ebd360z_8rexNKr.jpg?v=1765368908
-    Price: $231.99 USD
+    Price: $243.99 USD
   - [As Image7 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447377689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Seb925bd9d49c4efa96749b2461625dc4B_sulOfi6.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
   - [As Image8 / Type-5](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447410457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S929205cea97f40368fb8d8ca07ebd360z_8rexNKr.jpg?v=1765368908
-    Price: $199.99 USD
+    Price: $209.99 USD
   - [As Image8 / Type-1](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447443225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S929205cea97f40368fb8d8ca07ebd360z_8rexNKr.jpg?v=1765368908
-    Price: $225.99 USD
+    Price: $236.99 USD
   - [As Image8 / Type-3](https://anc-electronics-n-services-inc.myshopify.com/products/180-degree-extension-cable-kit-pc-computer-atx-24pin-eps-4-4pin-pci-e-6-2pin-pci-e-6pin-power-extension-cable?variant=51752447475993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S929205cea97f40368fb8d8ca07ebd360z_8rexNKr.jpg?v=1765368908
-    Price: $238.99 USD
+    Price: $250.99 USD
 - [20/50/100pcs RJ45 Ethernet Cables Module Plug Network Connector RJ-45 Crystal Heads Cat5 Color Cat5e Gold Plated Cable](https://anc-electronics-n-services-inc.myshopify.com/products/20-50-100pcs-rj45-ethernet-cables-module-plug-network-connector-rj-45-crystal-heads-cat5-color-cat5e-gold-plated-cable): Style: PC AccessoriesItem 1: Connector RJ45Item 2: Ethernet cableItem 3: Network CableItem 4: RJ45 PlugUsed as: rj45 connectors repair kitColored RJ45: YesItem 5: Lan cable connectorItem 6: rj45 cat5Brand Name: OULLXModel Number: Colourful RJ45 network crystal headPackage: YesHigh-concerned chemical: NoneOrigin: Mainland ChinaCertification: CECertification: RoHSType: ConnectorsChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T13:16:03Z
+  Updated: 2025-12-19T12:32:37Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -1077,28 +1077,28 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1reQAX6vuK1Rjy0Faq6x2aVXaR_Ub5Emx7.jpg?v=1765368911
     Price: $31.99 USD
 - [2 Ports Mini PCI-E PCI Express to SATA 3.0 Converter Hard Drive Extension Card With SATA Cable for PC Computer Add on Cards SATA](https://anc-electronics-n-services-inc.myshopify.com/products/2-ports-mini-pci-e-pci-express-to-sata-3-0-converter-hard-drive-extension-card-with-sata-cable-for-pc-computer-add-on-cards-sata): Chipset: ASMedia ASM1061Expansion Interface: 2-port SATA3.0SATA1: sata controllerSATA2: sata hubSATA3: sata multiplierSATA4: sata3SATA5: controller sata 3SATA6: mini pci-e sataSATA7: mini pcie sataSATA8: sata cardSATA9: ssd sata cardSATA10: mini pcie to sataSATA11: hdd sata boardSATA12: sata expansionSATA13: sata portSATA14: sata ssd boardSATA15: sata board ssdSATA16: sata 3 cardSATA17: controller sata 3SATA18: sata3 controllerSATA19: port sata 3SATA20: sata port multiplierSATA21: sata controlerSATA22: sata iii expansion cardSATA23: mini pci-e pci express to sataBrand Name: BTBcoinModel Number: AC4534Package: YesType: Add On CardsInterface Type: PCI ExpressInterface Type: SATAOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T02:36:10Z
+  Updated: 2025-12-19T12:32:35Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5508b51c2fa9408b9bc791c3f061d4dde_Uzd6CWW.jpg?v=1765368912
   Price: $97.99 USD
 - [Freeshipping PCIE Combo 2x 1394b + 1x 1394a Firewire Ports PCI-Express Controller Card 1394 Card TI Chipset 6pin Cable Win10](https://anc-electronics-n-services-inc.myshopify.com/products/freeshipping-pcie-combo-2x-1394b-1x-1394a-firewire-ports-pci-express-controller-card-1394-card-ti-chipset-6pin-cable-win10): Brand Name: IOCRESTOrigin: Mainland ChinaCertification: NoneModel Number: PCI-E TO 2-1394B+1394AInterface Type: PCI ExpressPackage: YesType: Add On Cardsis_customized: YesType: PCIE Controller Card
-  Updated: 2025-12-11T00:15:54Z
+  Updated: 2025-12-19T12:32:33Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S023815f718804e848fbff95b5e5daad3n_4FWbN01.jpg?v=1765368913
-  Price: $220.99 USD
+  Price: $240.99 USD
 - [PCIE SATA III 8 Ports Controller Card PCIe 2.0 X1 SATA 6G Expansion Card With Low Profile Bracket Support Win10 PCIE SATA Card](https://anc-electronics-n-services-inc.myshopify.com/products/pcie-sata-iii-8-ports-controller-card-pcie-2-0-x1-sata-6g-expansion-card-with-low-profile-bracket-support-win10-pcie-sata-card): Main Chips: 8 port sata cardBus Type: PCI Express X1Feature: with large heatsink coolingSATA1: controller sata 3SATA2: pci-e sataSATA3: pcie sataSATA4: sata controllerSATA5: sataSATA6: sata3 pcieSATA7: sata cardSATA8: pci express sataSATA9: sata 3 pcieSATA10: sata expansionSATA11: pcie sata 3SATA12: sata multiplierSATA13: sata pcieSATA14: sata pci-eSATA15: sata 3SATA16: pci express sata 3SATA17: pcie to sataSATA18: pcie to sata 3.0 cardSATA19: sata add on cardSATA20: sata 3 pci expressSATA21: pcie sata cardSATA22: sata3 pci-eBrand Name: h1111zModel Number: KZ5480Package: YesType: Add On CardsInterface Type: PCI ExpressInterface Type: SATAOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T00:15:31Z
+  Updated: 2025-12-19T12:32:32Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7f65fbeb31694fbf9ad6e69c4e32421eS_QJOE1mC.jpg?v=1765368915
   Price: $222.99 USD
 - [OULLX 20/50/100pcs RJ45 Connector 6U Gold Plated Passthrough Ethernet Cables Module Plug Network RJ-45 Crystal Heads Cat5 Cat5e](https://anc-electronics-n-services-inc.myshopify.com/products/oullx-20-50-100pcs-rj45-connector-6u-gold-plated-passthrough-ethernet-cables-module-plug-network-rj-45-crystal-heads-cat5-cat5e): Brand Name: OULLXHigh-concerned chemical: NoneOrigin: Mainland ChinaType: ConnectorsPackage: YesModel Number: Colourful RJ45 network crystal headColor: TransparentName: RJ45 cat5e utp connectorWork for: cat5e cat6e 8p8c cableFits: Solid cable stradard cableUnshielded: YesStyle: Crystal HeadChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T15:53:28Z
+  Updated: 2025-12-19T12:32:30Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -1116,7 +1116,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1.aojcgaH3KVjSZFjq6AFWpXaZ_DJbtSYH.jpg?v=1765368917
     Price: $18.99 USD
 - [Gigabit Ethernet RJ45 CAT6 Colorful Keystone Jacks Toolless Type Network Modules Tool-Free Connection 7 Colors for Optional](https://anc-electronics-n-services-inc.myshopify.com/products/gigabit-ethernet-rj45-cat6-colorful-keystone-jacks-toolless-type-network-modules-tool-free-connection-7-colors-for-optional): Material: PC+ABSMaterial Type: ULRJ45 Pin Material: Phosphor BronzeRJ45 Pin Contact Finish: 15u Gold-PlatedTermination Type: Toolless, No need punch toolColor: 7 Colors for optionalBrand Name: LinkwylanModel Number: LW-KJ28-C6UXXPackage: YesOrigin: Mainland ChinaCertification: RoHSType: JacksChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T01:43:47Z
+  Updated: 2025-12-19T12:32:28Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
@@ -1322,21 +1322,21 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H89ef051ed21c427491d7e3f6dffe3123b_Wo6oZO9.jpg?v=1765368921
     Price: $142.99 USD
 - [4 Port USB 3.0 5Gbps PCI-Express X1 Card Adapter HUB Support Low Profile Bracket](https://anc-electronics-n-services-inc.myshopify.com/products/4-port-usb-3-0-5gbps-pci-express-x1-card-adapter-hub-support-low-profile-bracket): Brand Name: h1111zModel Number: U3N04S-BGPackage: YesType: Add On CardsHigh-concerned chemical: NoneInterface Type: PCI ExpressOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T00:15:37Z
+  Updated: 2025-12-19T12:32:26Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb2d61657acf14848b1a58903650850d0h.jpg?v=1765368923
   Price: $97.99 USD
 - [NVMe PCIe M.2 NGFF SSD to PCIe X1 Adapter Card PCIe X1 to M.2 Card With Bracket](https://anc-electronics-n-services-inc.myshopify.com/products/nvme-pcie-m-2-ngff-ssd-to-pcie-x1-adapter-card-pcie-x1-to-m-2-card-with-bracket): Brand Name: BTBcoinOrigin: Mainland ChinaCertification: NoneModel Number: AC4472Interface Type: PCI ExpressInterface Type: NGFFPackage: YesType: Add On CardsProduct name: PCIE 3.0 m.2 NVME SSD Full Speed AdapterBus Type: PCI Express 3.0 x4Support: Compatible with PCI-E X4, X8, X16 SlotSupport m.2: M-Key M.2 NVMESupport M.2 Mode: NVME PCI-ESupport Size: Support the 2230, 2242, 2260, 2280 Type M.2 SSDFeature 1: ssd pcie adapterFeature 2: m.2 ssd pcie adapterFeature 3: pcie ssd adapterFeature 4: m2 ssd adapterFeature 5: ssd m.2 adapterFeature 6: add on cardFeature 7: m.2Feature 8: pci express m.2Feature 9: pcie adapterFeature 10: m.2 pcie adapterFeature 11: pci expressFeature 12: pcie to m2 adapterFeature 13: adapterFeature 14: m2 adapterFeature 15: adapter m.2Feature 16: m2 m key adapterFeature 17: m2 pcie adapter
-  Updated: 2025-12-11T00:15:40Z
+  Updated: 2025-12-19T12:32:25Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H68d5877ace29477c81f23b062675c17cf_nuTGRKP.jpg?v=1765368925
   Price: $28.99 USD
 - [SATA PCI E Adapter 2 Ports SATA 3.0 to PCIe X1 X16 Expansion Adapter Card SATA 3 III PCI-e  PCI Express Converter Marvell 9125](https://anc-electronics-n-services-inc.myshopify.com/products/sata-pci-e-adapter-2-ports-sata-3-0-to-pcie-x1-x16-expansion-adapter-card-sata-3-iii-pci-e-pci-express-converter-marvell-9125): Brand Name: FOVOREOrigin: Mainland ChinaCertification: NoneModel Number: GNEA283Interface Type: PCI ExpressPackage: YesType: Add On CardsFeature 1: pcie to sataFeature 2: pci express sataFeature 3: sata 3 pci expressFeature 4: pci express sata 3Feature 5: pci express adapter sata 3Feature 6: pci-e sataFeature 7: pci-e to sataFeature 8: pci e sataFeature 9: pci e sata controllerFeature 10: sata 3 pci expressFeature 11: pcie sataFeature 12: pcie to sata
-  Updated: 2025-12-11T00:16:57Z
+  Updated: 2025-12-20T12:03:41Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
@@ -1358,14 +1358,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Se9400f98d4c54360943c31fb6bada0d7b_IljAuJV.jpg?v=1765368927
     Price: $67.99 USD
 - [2x USB 3.0 & Type-C M.2 PCIe Adapter M2 SSD SATA B Key to PCI-e 3.0 Controller Converter Riser Card for 2280 2260 2242 2230 NGFF](https://anc-electronics-n-services-inc.myshopify.com/products/2x-usb-3-0-type-c-m-2-pcie-adapter-m2-ssd-sata-b-key-to-pci-e-3-0-controller-converter-riser-card-for-2280-2260-2242-2230-ngff): Feature 1: pcie to m2 adapterFeature 2: usb 3.0 pci-e cardFeature 3: m2 to sataFeature 4: pci-e usb 3.0 cardFeature 5: pcie riserFeature 6: m.2 adapterFeature 7: usb hub 3.0Feature 8: m.2 ssd pcie adapterFeature 9: usb 3.0 controllerFeature 10: pcie usb 3.0Brand Name: h1111zModel Number: KZ5063Package: YesType: Add On CardsInterface Type: PCI ExpressOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T00:16:11Z
+  Updated: 2025-12-19T12:32:21Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1K9PrapP7gK0jSZFjq6A5aXXap_wT99QaR.jpg?v=1765368928
   Price: $126.99 USD
 - [Mini PCIe to PCI Express 16X Riser for Laptop External Graphics Card EXP GDC BTC Antminer Miner mPCIe to PCI-e Slot Mining Card](https://anc-electronics-n-services-inc.myshopify.com/products/mini-pcie-to-pci-express-16x-riser-for-laptop-external-graphics-card-exp-gdc-btc-antminer-miner-mpcie-to-pci-e-slot-mining-card): Product name: mini pcie riserUSB Cable Length: 60cmFeature 1: riserFeature 2: riser cardFeature 3: graphics card riserFeature 4: usb minerFeature 5: mpcie to pcie adapterFeature 6: mini pci-e riserFeature 7: mini pci-e adpaterFeature 8: for btc miner antminer miningBrand Name: h1111zModel Number: AC3294Package: YesType: PCI-E Graphic Card To Exteranl CardHigh-concerned chemical: NoneInterface Type: USBInterface Type: PCI ExpressOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T15:24:11Z
+  Updated: 2025-12-19T12:32:19Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
@@ -1383,7 +1383,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S283fe83bb0bc41cb8ae740ba535ef4b3w.jpg?v=1765368929
     Price: $34.99 USD
 - [Military Tactics Helmet ARC OPS-CORE Helmet Track Adapter Headphone Bracket and Fast Action Core Helmet Rail Adapter - BK](https://anc-electronics-n-services-inc.myshopify.com/products/military-tactics-helmet-arc-ops-core-helmet-track-adapter-headphone-bracket-and-fast-action-core-helmet-rail-adapter-bk): Brand Name: TAC-SKYItem Type: earphoneOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: tactical helmet adapterBrand Name:: TAC SKYModel:: Headphone accessory holderName:: Headphone bracketColour:: BK/DE/GRAYSuitable for:: comtac series headphones OPS-core helmet track adapterQuick helmet adapter: arc ops-coreType 1: Tactical BracketType 2: comtac bracketType 3: Helmet BracketType 4: Helmet Headphone Bracket
-  Updated: 2025-12-11T00:15:53Z
+  Updated: 2025-12-19T12:32:17Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie Parts & Accessories
   Availability: Available
@@ -1421,7 +1421,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S922e3ab23fea48a39d545b81aa873c1e4_TIpWM57.jpg?v=1765368932
     Price: $333.99 USD
 - [Baofeng UV-5R USB Desktop Base/Car Battery Charger for Baofeng UV5R UV5RE UV5RA UV5R+Plus Li-Ion Charger CB Radio Walkie Talkie](https://anc-electronics-n-services-inc.myshopify.com/products/baofeng-uv-5r-usb-desktop-base-car-battery-charger-for-baofeng-uv5r-uv5re-uv5ra-uv5r-plus-li-ion-charger-cb-radio-walkie-talkie): Brand Name: BAOFENGItem Type: ChargersOrigin: Mainland ChinaModel Number: BF-UV-5RDesktop Input:: AC 10V / DC12~13.8VDesktop Output:: DC 8.4V --- 400mAhChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T10:13:01Z
+  Updated: 2025-12-19T12:32:15Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie Parts & Accessories
   Availability: Available
@@ -1451,7 +1451,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H6e239e3f85d84565bf2bb53fe38b92f3A_ISsSqUA.jpg?v=1765368934
     Price: $27.99 USD
 - [6/4 10 Port SATA III PCIe Card, PCIe SATA III Controller Card to 6gb/S Internal Adapter Converter PCI SATA 3.0 Expansion Card](https://anc-electronics-n-services-inc.myshopify.com/products/6-4-10-port-sata-iii-pcie-card-pcie-sata-iii-controller-card-to-6gb-s-internal-adapter-converter-pci-sata-3-0-expansion-card): Brand Name: Ninth WorldHigh-concerned chemical: NoneOrigin: Mainland ChinaCertification: CEModel Number: ACCSAInterface Type: PCIPackage: YesType: Add On CardsChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T14:53:00Z
+  Updated: 2025-12-19T12:32:14Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
@@ -1473,7 +1473,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S27d4dfb4ae61442fa61947640b3df903m_9WfSF8x.jpg?v=1765368936
     Price: $190.99 USD
 - [XCY Mini PC Intel N100 I7 4500U I5 4200U Office Computer Win11/Win10/Linux HDMI VGA Display WiFi Gigabit Ethernet 6x USB Ports](https://anc-electronics-n-services-inc.myshopify.com/products/xcy-mini-pc-intel-n100-i7-4500u-i5-4200u-office-computer-win11-win10-linux-hdmi-vga-display-wifi-gigabit-ethernet-6x-usb-ports): Brand Name: XCYMemory Capacity: ≥ 4GBHard Drive Capacity: 128 GBModel Number: X26High-concerned chemical: NoneProcessor Model: i7-4500U, i5-4200U, i5-3317U, i3-6157UUse: MultimediaOrigin: Mainland ChinaType: Mini DesktopProcessor Main Frequency: Based on CPUGraphics Card Type: Integrated CardCertification: CECertification: FCCCertification: RoHSProcessor Brand: IntelType: Mini PCMemory Types: SODIMM DDR3L / DDR4Hard Drive: mSATA SSDSupport OS: Windows 10, Windows 8.1, Windows 7, LinuxEthernet: Realtek RTL 8111H 1000M BaseT LANAudio Chip: Realtek ALC662WiFi: 300MbpsVideo Output: 1x HDMI, 1x VGAUSB Ports: 2x USB3.0, 4x USB2.0 (1037U all USB are USB2.0)Audio Ports: 1x MIC, 1x SPK, 3.5mm jackColor: SilveryFeatures: Support Virtualization, ACPI, Auto Power on, Wake up on LANPC Box Material: Full Aluminum AlloyCooling System: Built-in cooler fanDimension: 197*197*39mmWorking Voltage: DC 12V 5A
-  Updated: 2025-12-12T07:20:41Z
+  Updated: 2025-12-19T12:32:12Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Mini PC
   Availability: Available
@@ -1607,21 +1607,21 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H6a08aa4702724247a614297aed276722h_923KcEM.jpg?v=1765368938
     Price: $974.99 USD
 - [Throat Microphone Walkie Talkie Headset PTT for Portable Radio Baofeng UV 5R 6R 10R BF-888S UV-13 UV-17 UV-21 PRO Earpiece](https://anc-electronics-n-services-inc.myshopify.com/products/throat-microphone-walkie-talkie-headset-ptt-for-portable-radio-baofeng-uv-5r-6r-10r-bf-888s-uv-13-uv-17-uv-21-pro-earpiece): Brand Name: XQFItem Type: earphoneOrigin: Mainland ChinaHigh-concerned chemical: NoneType: Throat Mic HeadsetProduct Form: Neckband HeadsetConnector: 2-Pin Standard K-type PlugMicrophone: Throat MicPTT Button: Finger PTTFeature: Noise CancellationCompatible Models: for Baofeng UV5R etc.
-  Updated: 2025-12-11T00:16:04Z
+  Updated: 2025-12-20T13:25:55Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie Parts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa05018c89af34afebc531bbfac753ee7c_rJagKYS.jpg?v=1765368939
-  Price: $41.99 USD
+  Price: $43.99 USD
 - [10PCS  48inch LED Backlight Bar Strip Lamp 2013arc48-3228n1-6-Rev1.1  for Samsung LSC480HN05-A48-LB-6436/B4](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-48inch-led-backlight-bar-strip-lamp-2013arc48-3228n1-6-rev1-1-for-samsung-lsc480hn05-a48-lb-6436-b4): Brand Name: HIDORAJINHigh-concerned chemical: NoneType: Industrial Computer AccessoriesBattery Included: NoOrigin: Mainland ChinaPackage: YesModel Number: 2013ARC48-3228N1-6 2013ARC48 2013ARC48Color: WHITEType: LED backlight stripsMPN: 2013ARC48-3228N1-6 2013ARC48 2013ARC48Products Status: StockColor:: WHITEPlug Type:: EU PlugFeatures:: 2013ARC48-3228N1-6 2013ARC48 2013ARC48Panel Size:: 48inchWith USB:: 2013ARC48-3228N1-6-REV1.1Voltage:: 220VPower Source:: DCBody Material:: AluminumCertification:: CCC
-  Updated: 2025-12-11T00:15:52Z
+  Updated: 2025-12-19T12:32:08Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Industrial Computer & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H51b5b55a9f634709b6b10861d6861a49g_eXjpPBW.jpg?v=1765368941
   Price: $193.99 USD
 - [H1111Z Add on Cards Controller SATA 3 PCIE SATA3 PCIE/PCI-E SATA Card/Expansion/Multiplier PCI Express SATA Port ASMedia ASM1061](https://anc-electronics-n-services-inc.myshopify.com/products/h1111z-add-on-cards-controller-sata-3-pcie-sata3-pcie-pci-e-sata-card-expansion-multiplier-pci-express-sata-port-asmedia-asm1061): Main Chips: ASM1061SATA Port Quality: 2-Port SATA3.0Bus Type: PCI Express X1Feature: with large heatsink coolingSATA1: controller sata 3SATA2: pci-e sataSATA3: pcie sataSATA4: sata controllerSATA5: sataSATA6: sata3 pcieSATA7: sata cardSATA8: pci express sataSATA9: sata 3 pcieSATA10: sata expansionSATA11: pcie sata 3SATA12: sata multiplierSATA13: sata pcieBrand Name: h1111zModel Number: AC4321Package: YesType: Add On CardsHigh-concerned chemical: NoneInterface Type: PCI ExpressOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-12T17:46:00Z
+  Updated: 2025-12-19T12:32:07Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
@@ -1635,7 +1635,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd00d0df5631640caae6899eaf6f2b761E.jpg?v=1765368942
     Price: $186.99 USD
 - [Household Fanless Mini PC Intel Core I7 5500U Support Windows 7/8/10 Linux Ubuntu HDMI VGA Display WiFi Gigabit Ethernet HTPC](https://anc-electronics-n-services-inc.myshopify.com/products/household-fanless-mini-pc-intel-core-i7-5500u-support-windows-7-8-10-linux-ubuntu-hdmi-vga-display-wifi-gigabit-ethernet-htpc): Brand Name: YCSDMemory Capacity: 8 GBHard Drive Capacity: 128 GBModel Number: X31High-concerned chemical: NoneProcessor Model: i3-5005U, i5-5200U, i7-5500UUse: MultimediaOrigin: Mainland ChinaType: Mini DesktopProcessor Main Frequency: 2.70GHzGraphics Card Type: Integrated CardCertification: CECertification: FCCCertification: RoHSProcessor Brand: IntelType: Mini PCMemory Types: SODIMM, DDR3L 1333/1600MHzHard Drive Type: mSATA SSDOS Support: Windows 10, Windows 8, Windows 7, Linux, UbuntuWiFi: 300MbpsVideo Output: 1x HDMI, 1x VGAUSB Ports: 4x USB 3.0, 2x USB 2.0Audio Output: 3.5mm jack, support line out, MIC inAudio Chip: Realtek ALC662Dimension: 180 x 128 x 55 mmPower Adapter: DC12V-5AEthernet: Realtek 8111H Gigabit Ethernet
-  Updated: 2025-12-11T00:16:26Z
+  Updated: 2025-12-19T12:32:05Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Mini PC
   Availability: Available
@@ -1737,7 +1737,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hbc1a58ec11e9465db2076b504f7b1043f_9MPvKhZ.jpg?v=1765368945
     Price: $836.99 USD
 - [Newest Work Safety Protective Helmet Bump Cap Hard Inner Shell Baseball Hat Style for Work Factory Shop Carrying Head Protection](https://anc-electronics-n-services-inc.myshopify.com/products/newest-work-safety-protective-helmet-bump-cap-hard-inner-shell-baseball-hat-style-for-work-factory-shop-carrying-head-protection): Material: Net cloth, PP and EVASize: 58-62cmBrand Name: ELESESAFEModel Number: Newest Work Safety Protective HelmetOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T15:44:53Z
+  Updated: 2025-12-19T12:32:03Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
@@ -1767,14 +1767,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H84905d1d4c534a45be90a0dfe7d3daaab_3DICgs8.jpg?v=1765368946
     Price: $52.99 USD
 - [New Arrival Aluminium Alloy Shell Led Expansion Card Computer Adapter Interface M.2 NVMe SSD to PCIE 3.0 X16](https://anc-electronics-n-services-inc.myshopify.com/products/new-arrival-aluminium-alloy-shell-led-expansion-card-computer-adapter-interface-m-2-nvme-ssd-to-pcie-3-0-x16): Product name: PCIE 3.0 m.2 NVME SSD Full Speed AdapterBus Type: PCI Express Gen3Support: Compatible with PCI-E X4, X8, X16 SlotSupport m.2: M-Key M.2 NVMESupport M.2 Mode: NVME PCI-ESupport Size: Support the 2230, 2242, 2260, 2280 Type M2 SSDNVME1: ssd pcie adapterNVME2: m.2 ssd pcie adapterNVME3: pcie ssd adapterNVME4: m2 ssd adapterNVME5: ssd m.2 adapterNVME6: add on cardNVME7: m.2NVME8: pci express m.2NVME9: pcie adapterNVME10: m.2 pcie adapterNVME11: pci expressNVME12: pcie to m2 adapterNVME13: adapterNVME14: m2 adapterNVME15: adapter m.2NVME16: m2 m key adapterNVME17: m2 pcie adapterNVME18: pci expressNVME19: nvme m.2NVME20: raiserNVME21: m.2 nvmeNVME22: m2NVME23: m2 nvmeNVME24: m.2 adapterNVME25: nvme adapterNVME26: nvme ssd m2 pcieNVME27: nvme pcieNVME28: pcie m.2NVME29: nvmeNVME30: m.2 pcieNVME31: pcie nvmeBrand Name: BTBcoinModel Number: AC4471Package: YesType: Add On CardsInterface Type: PCI ExpressInterface Type: NGFFOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T00:16:27Z
+  Updated: 2025-12-19T12:32:01Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Add On Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H2fc20dd9d1174773b1f06513f21bbd6fS_cgVTX3X.jpg?v=1765368949
   Price: $23.99 USD
 - [Safety Bump Cap With Reflective Breathable Hard Hat Head Protection Cap](https://anc-electronics-n-services-inc.myshopify.com/products/safety-bump-cap-with-reflective-breathable-hard-hat-head-protection-cap): Brand Name: NoEnName_NullOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: SFTCertification: NoneName: Men Black Safety Bump Cap With Reflective StripesSize: one size fits all; Adjustable hook and loops strap For All Sizes;Style 1 color: Navy blue/BlackStyle 2 color: Black/Orange/Grey/BlueStyle 3 color: Red/Black/Navy blueStyle 4 color: Red/Navy blue /Black
-  Updated: 2025-12-11T00:16:16Z
+  Updated: 2025-12-19T12:31:59Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
@@ -1812,7 +1812,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8b560f4623394f9aa301849a8d5ce456j.jpg?v=1765368950
     Price: $117.99 USD
 - [VERSACE - Eros Flame Eau De Parfum Spray](https://anc-electronics-n-services-inc.myshopify.com/products/versace-eros-flame-eau-de-parfum-spray): A woody spicy fragrance for self-confident menCrisp, sweet, warm, sensual, complex & alluringTop notes of Italian citruses, black pepper & rosemaryMiddle notes of pepperwood, geranium & rose Base notes of woods, tonka & vanillaLaunched in 2018Suitable for evening or colder seasons wear 8011003845330
-  Updated: 2025-12-16T03:10:10Z
+  Updated: 2025-12-20T18:09:56Z
   Vendor: Versace
   Product Type: Beauty & Health - Fragrances - Mens Cologne
   Availability: Available
@@ -1826,7 +1826,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/25125086605_1z1scot.jpg?v=1765368951
     Price: $556.99 USD
 - [Genuine Electromagnetic Radiation Protective Baseball Cap Mobile Phone, Computer, WIFI EMF Shielding Silver Fiber Lining Cap](https://anc-electronics-n-services-inc.myshopify.com/products/genuine-electromagnetic-radiation-protective-baseball-cap-mobile-phone-computer-wifi-emf-shielding-silver-fiber-lining-cap): Brand Name: ajiacnOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: 5071&10060Certification: CEFunction: Radiation protective capsApplicable site: Family and workplaceMain radiation protection material: 50% Silver fiber+Metal fiberMain radiation protection material: 100% Silver fiberProduct weight: 0.15 kg
-  Updated: 2025-12-14T00:27:21Z
+  Updated: 2025-12-19T12:31:56Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
@@ -1888,7 +1888,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3a41ab8b378e4891840089e430ff891eH.jpg?v=1765368953
     Price: $224.99 USD
 - [New Work Safety Bump Cap Hard Inner Shell Protective Helmet Baseball Hat Style for Work Factory Shop Carrying Head Protection](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-hard-inner-shell-protective-helmet-baseball-hat-style-for-work-factory-shop-carrying-head-protection): Brand Name: ELESESAFEOrigin: Mainland ChinaModel Number: New Work Safety Bump CapMaterial: Cotton, PP and EVASize: 58-62cmChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T14:18:52Z
+  Updated: 2025-12-19T12:31:52Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
@@ -1934,7 +1934,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H597c1ef671034ab9a720e640fd71b935B_4NcoOEQ.jpg?v=1765368955
     Price: $69.99 USD
 - [JCID JC 13NI1 Lntegrated Chip Programmer Baseband Logic Intel Qualcomm EEPROM PRO1000S IPhone 6-8 8P X XS 11 12 13 14 MAX PRO](https://anc-electronics-n-services-inc.myshopify.com/products/jcid-jc-13ni1-lntegrated-chip-programmer-baseband-logic-intel-qualcomm-eeprom-pro1000s-iphone-6-8-8p-x-xs-11-12-13-14-max-pro): Brand Name: TOOKKSOrigin: Mainland ChinaMaterial: MetalHigh-concerned chemical: NoneDIY Supplies: ElectricalType: CombinationPackage: BagApplication: Computer Tool KitModel Number: JCID JC
-  Updated: 2025-12-11T00:16:32Z
+  Updated: 2025-12-19T12:31:49Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Sets - Power Tool Sets
   Availability: Available
@@ -1948,21 +1948,21 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2ec6dcbc51ff4da2b8f37caf35a1ecb6q.jpg?v=1765368956
     Price: $1,360.99 USD
 - [2 in 1 LCD Screen OCA LOCA Glue Remover Phone Screen Cutting Machine for Phone Screen Repair Repair](https://anc-electronics-n-services-inc.myshopify.com/products/2-in-1-lcd-screen-oca-loca-glue-remover-phone-screen-cutting-machine-for-phone-screen-repair-repair): Brand Name: NoEnName_NullHigh-concerned chemical: NoneDIY Supplies: ElectricalSuitable For: Non-metalBattery Included: YesOrigin: Mainland ChinaModel Number: Screen glue remover & Screen cutterType: CombinationType: Electric DrillApplication: Computer Tool KitPackage: CaseApplication 1: Phone LCD screen OCA glue Clean and RemoverApplication 2: Repair the phone's screen
-  Updated: 2025-12-11T00:16:05Z
+  Updated: 2025-12-19T12:31:47Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Sets - Power Tool Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lr0QcEGF3KVjSZFvq6z_nXXai_iyQUWgm.jpg?v=1765368958
   Price: $308.99 USD
 - [Breathable Helmet Light Anti-Collision Protection Baseball Cap Liner ABS Shell Workshop Anti-Smashing Riding Safety](https://anc-electronics-n-services-inc.myshopify.com/products/breathable-helmet-light-anti-collision-protection-baseball-cap-liner-abs-shell-workshop-anti-smashing-riding-safety): function: anti-smashing, breathable, sportycolor: dark bluepackage: safety helmet * 1pcapplicable place: mechanical processing, maintenance, outdoor sports, construction siteBrand Name: karocolaModel Number: cap102Origin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T00:17:29Z
+  Updated: 2025-12-19T12:31:44Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1JH5qgu7JL1JjSZFKq6A4KXXae_OBvT5F6.jpg?v=1765368959
-  Price: $71.99 USD
+  Price: $73.99 USD
 - [Qianli iCopy Plus LCD Screen Original Color Repair Programmer for Phone 11 Pro Max XR XSMAX XS 8P 8 7P 7 Vibration/Touch Repair](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair): Brand Name: qianliHigh-concerned chemical: NoneDIY Supplies: ElectricalSuitable For: Non-metalBattery Included: YesOrigin: Mainland Chinais_customized: NoModel Number: Qianli Icopy plusCertification: CEType: CombinationApplication: Computer Tool KitPackage: BOXSupport 1: for Phone 7 7p 8 plus x s XR XS MaxApplication: Vibration PrimarySupport 2: Chinese, English, SpainshSupport 3: for Phone 11 Pro Max 11 ProSupport 3: battery supports 6-13pmChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T00:16:36Z
+  Updated: 2025-12-20T12:51:29Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Sets - Power Tool Sets
   Availability: Available
@@ -1970,23 +1970,23 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [11 12  with host](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458125593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S392df41dfc854c6b842f4f5fca4d4ec37_LEbvtkf.jpg?v=1765368961
-    Price: $640.99 USD
+    Price: $684.99 USD
   - [11 12 13 with host](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458158361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S709d2aa26f454234b2c924a9aeceaa9at_JJHCS4H.jpg?v=1765368961
-    Price: $740.99 USD
+    Price: $792.99 USD
   - [3Pcs 12Tag-on flex](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458191129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S1e176f66f3884f3ea1c3b06ee49e1251B_Khl4aDa.jpg?v=1765368961
-    Price: $300.99 USD
+    Price: $308.99 USD
   - [X-14pm Face ID Board](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458223897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8f62b456686c4147a00c896dbaf21f1bp_4HzA2jF.jpg?v=1765368961
-    Price: $322.99 USD
+    Price: $330.99 USD
   - [11 12 13 flex](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458256665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4d37d4d2d7244373a38ef90b2c4de3f1d_jJEhch6.jpg?v=1765368961
-    Price: $328.99 USD
+    Price: $349.99 USD
   - [3 board has battery](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458289433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S594ebd1011f04336aa0a1145be6dd283e_uwA1xxn.jpg?v=1765368961
@@ -1998,33 +1998,33 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [1Pcs 13 flex](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458354969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa7b39b38b1ba4afe82b51b795b5e43a0t_vfkgoOz.jpg?v=1765368962
-    Price: $188.99 USD
+    Price: $192.99 USD
   - [4 in 1](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458387737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S748b82ca40ae41908b9e1f6500258cf2M_GC7OtoQ.jpg?v=1765368961
-    Price: $636.99 USD
+    Price: $669.99 USD
   - [11 12 flex](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458420505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S23d0fa7ed88a4a7aa40b1b3d9edebacdz_J6XQaSw.jpg?v=1765368961
-    Price: $270.99 USD
+    Price: $284.99 USD
   - [1Pcs 13PM flex](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458453273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S478957f339394b9e933c777c0778455fy_PoeCqCC.jpg?v=1765368961
-    Price: $182.99 USD
+    Price: $185.99 USD
   - [Face flex and board](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458486041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S97061afd0aef48dc825f2f89d2c14488q_wGKqXne.jpg?v=1765368961
-    Price: $491.99 USD
+    Price: $520.99 USD
   - [2.0.13battery board](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458518809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S09de243b4e464dc3b93bf12e59d9349ax_O6KOb2D.jpg?v=1765368961
-    Price: $194.99 USD
+    Price: $198.99 USD
   - [3 board no battery](https://anc-electronics-n-services-inc.myshopify.com/products/qianli-icopy-plus-lcd-screen-original-color-repair-programmer-for-phone-11-pro-max-xr-xsmax-xs-8p-8-7p-7-vibration-touch-repair?variant=51752458551577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S31f6905a1e0f4b56afba3c1ae5f3fdcaP_axnZBR8.jpg?v=1765368961
     Price: $498.99 USD
 - [New Work Safety Bump Cap Helmet Baseball Hat Style Protective Safety Hard Hat for Work Site Wear Head Protection](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection): Brand Name: ELESESAFEOrigin: Mainland ChinaModel Number: Work Safety Bump Cap Helmet Baseball Hat Style ProtectiveCertification: NoneColor: Deep Blue, Blue, Orange, GrayMaterial: 100% Cotton, ABS shell and EVA pad
-  Updated: 2025-12-12T07:48:20Z
+  Updated: 2025-12-20T13:29:31Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
@@ -2032,41 +2032,41 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Blue](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458617113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hfefc3964d3d1418f89c1854ba126b51cH_qaqnzXZ.jpg?v=1765368964
-    Price: $77.99 USD
+    Price: $84.99 USD
   - [Red 2](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458649881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H19be14d332fa42d6b39e81eaea8dfd65A_7qSfyHI.jpg?v=1765368963
-    Price: $53.99 USD
+    Price: $57.99 USD
   - [Orange 01](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458682649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hfd099ad9e7fa4fe4937dc16e5618e0b44_QssmUnS.jpg?v=1765368964
-    Price: $77.99 USD
+    Price: $84.99 USD
   - [Red 01](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458715417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Ha6d2fe771a7a48838254ed6721811e2eL_54Jau0t.jpg?v=1765368964
-    Price: $73.99 USD
+    Price: $79.99 USD
   - [Deep Blue 01](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458748185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H30a48a3d6a7d4b9da68721b3c5bf4f58R_qfknHEe.jpg?v=1765368964
-    Price: $77.99 USD
+    Price: $84.99 USD
   - [Gray 01](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458780953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H509d85af5a464d6192da32938902afa8L_lqfUBVp.jpg?v=1765368964
-    Price: $77.99 USD
+    Price: $84.99 USD
   - [Black](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458813721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H94203fdb0746410ba25400f533653790I_bjlCIPt.jpg?v=1765368964
-    Price: $78.99 USD
+    Price: $85.99 USD
   - [Gray](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458846489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hb2d6f72b36f44e078a4d9179436585ddP_bYRflCO.jpg?v=1765368964
-    Price: $75.99 USD
+    Price: $81.99 USD
   - [Deep Blue 02](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-bump-cap-helmet-baseball-hat-style-protective-safety-hard-hat-for-work-site-wear-head-protection?variant=51752458879257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H91396fb19ee24672b48e9d9697f1a5099_5KoQzZU.jpg?v=1765368963
-    Price: $75.99 USD
+    Price: $81.99 USD
 - [New Work Safety Hard Bump Cap Helmet Baseball Hat Style Protective Hard PP Hat for Work Factory Shop Carrying Head Protection](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection): Brand Name: ELESESAFEOrigin: Mainland ChinaModel Number: New Work Safety Hard Bump CapMaterial: Cotton, PP and EVASize: Head Size 52-58cm/58-62cm
-  Updated: 2025-12-11T00:17:31Z
+  Updated: 2025-12-20T13:37:39Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Helmet
   Availability: Available
@@ -2074,61 +2074,61 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Black / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752458977561)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S33b5dedc2f0c480b816d381eaa83b0e9K_2Nl7Ugo.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Deep Blue / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459010329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1SHJyRFYqK1RjSZLeq6zXppXaQ_u2lWbUD.jpg?v=1765368965
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Deep Blue / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459043097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1SHJyRFYqK1RjSZLeq6zXppXaQ_u2lWbUD.jpg?v=1765368965
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Gray / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459075865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1aoRuRNTpK1RjSZR0q6zEwXXan_QcsDWIz.jpg?v=1765368965
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Blue / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459108633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1dqdARQzoK1RjSZFlq6yi4VXaR_gQflEFf.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Orange / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459141401)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Haeb9bf6ef02e4b87b2a9d91f22d80f2fl_l5lAiBz.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [creamy white / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459174169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8109ecb5eb7f48dd8459a8a581c23dfce_wdCxgEA.jpg?v=1765368965
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Gray / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459206937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1aoRuRNTpK1RjSZR0q6zEwXXan_QcsDWIz.jpg?v=1765368965
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Orange / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459239705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Haeb9bf6ef02e4b87b2a9d91f22d80f2fl_l5lAiBz.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [creamy white / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459272473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8109ecb5eb7f48dd8459a8a581c23dfce_wdCxgEA.jpg?v=1765368965
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Black / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459305241)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S33b5dedc2f0c480b816d381eaa83b0e9K_2Nl7Ugo.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Red / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459338009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7521fd0a7b2346518bba491106e7b844W_FXjtpHp.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Blue / L](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459370777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1dqdARQzoK1RjSZFlq6yi4VXaR_gQflEFf.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
   - [Red / M](https://anc-electronics-n-services-inc.myshopify.com/products/new-work-safety-hard-bump-cap-helmet-baseball-hat-style-protective-hard-pp-hat-for-work-factory-shop-carrying-head-protection?variant=51752459403545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7521fd0a7b2346518bba491106e7b844W_FXjtpHp.jpg?v=1765368966
-    Price: $80.99 USD
+    Price: $87.99 USD
 - [IBSO CLuxury Women Watch Bangle Set for Valentine's Gift](https://anc-electronics-n-services-inc.myshopify.com/products/ibso-cluxury-women-watch-bangle-set-for-valentines-gift): Brand Name: IBSOBattery Included: YesWater Resistance Depth: 3BarMovement: QuartzBand Material Type: LeatherHigh-concerned chemical: NoneBand Width: 10Movement origin: Jp(origin)Display Type: NumberlessCase Material: AlloyFeature: Shock ResistantFeature: Water-ResistanceBand Length: 20Dial Diameter: 30Style: Fashion & CasualClasp Type: BuckleOrigin: Mainland ChinaModel Number: S8688L-SETDial Window Material Type: HardlexCase Thickness: 8Boxes & Cases Material: PaperCertification: CECase Shape: RoundApplicable People: Women Woman Ladies FemaleStyle: Crystal Bracelet Watches SetDesign: Women Watch Bangle SetApplication: Elegant Family PartyItem Type: Quartz WristwatchesGender: WomenHalloween gift: Christmas presentfeature: Drawer gift box
-  Updated: 2025-12-11T11:25:51Z
+  Updated: 2025-12-20T12:17:58Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Women's Fashion - Women's Watches
   Availability: Available
@@ -2144,13 +2144,13 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [8688 bangle / spain](https://anc-electronics-n-services-inc.myshopify.com/products/ibso-cluxury-women-watch-bangle-set-for-valentines-gift?variant=51754304700697)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1DWP1ayfrK1RjSspbq6A4pFXaP_ZgX20Kl.jpg?v=1765409144
-    Price: $137.99 USD
+    Price: $152.99 USD
   - [6608we bangle / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/ibso-cluxury-women-watch-bangle-set-for-valentines-gift?variant=51754304733465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1WXAeaznuK1RkSmFPq6AuzFXai_Cg41Lf8.jpg?v=1765409144
-    Price: $167.99 USD
+    Price: $185.99 USD
 - [Women Quartz Watch Fashion Bling Casual Ladies Watch Female Quartz Gold Watch](https://anc-electronics-n-services-inc.myshopify.com/products/women-quartz-watch-fashion-bling-casual-ladies-watch-female-quartz-gold-watch): Brand Name: MISSFOXBattery Included: YesWater Resistance Depth: 3BarMovement: QuartzBand type: Stainless SteelBand Material Type: Stainless SteelHigh-concerned chemical: NoneBand Width: 16.5Movement origin: CN (Origin)Display Type: NumberlessCase Material: Stainless SteelFeature: Shock ResistantFeature: Water-ResistanceDisplay Type: NeedleBand Length: 20Dial Diameter: 39.5Style: Fashion & CasualClasp Type: Hidden ClaspOrigin: Mainland ChinaModel Number: V227Dial Window Material Type: HardlexCase Thickness: 11Boxes & Cases Material: No packageCertification: NoneCase Shape: RoundChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T00:32:26Z
+  Updated: 2025-12-19T12:31:35Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Women's Fashion - Women's Watches
   Availability: Available
@@ -2172,7 +2172,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1_t0EQFXXXXaKXFXXq6xXFXXXk_tDaIykU.jpg?v=1765409145
     Price: $225.99 USD
 - [22mm Glass Ceramic Tile Cutter Wheel Alloy Ceramic](https://anc-electronics-n-services-inc.myshopify.com/products/22mm-glass-ceramic-tile-cutter-wheel-alloy-ceramic): Brand Name: SHENGZUANHigh-concerned chemical: NoneOrigin: Mainland ChinaDIY Supplies: TiLingUse: Tile CuttingLength: 22mmis_customized: YesCertification: NoneCut Thickness: 1.2CM
-  Updated: 2025-12-12T00:30:00Z
+  Updated: 2025-12-20T11:14:56Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Construction Tools - Glass Cutter
   Availability: Available
@@ -2250,21 +2250,21 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Had7a3e4a6fd04afea5d8b2e77397a66ac_apwEEaP.jpg?v=1765409147
     Price: $230.99 USD
 - [BOSI Upgrade High Quality Diamond Glass Cutter](https://anc-electronics-n-services-inc.myshopify.com/products/bosi-upgrade-high-quality-diamond-glass-cutter): Brand Name: SIJIBOSIHigh-concerned chemical: NoneOrigin: Mainland ChinaDIY Supplies: PlumbingUse: Glass CuttingModel Number: BS302193Length: 175mmis_customized: YesCertification: NoneCut Thickness: 2-19mm
-  Updated: 2025-12-12T04:17:34Z
+  Updated: 2025-12-20T13:06:46Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Construction Tools - Glass Cutter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H70165e086c8f41539815d2f3c14b0408J_R6j5eod.jpg?v=1765409149
   Price: $91.99 USD
 - [Blade for Electric Machine Saw Cutting Cloth Textile Cutter](https://anc-electronics-n-services-inc.myshopify.com/products/blade-for-electric-machine-saw-cutting-cloth-textile-cutter): Brand Name: NoEnName_NullOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: 17020013001Certification: NoneMaterial: Alloy SteelColor: silver toneLength*Aperture*Thickness:: 70*16*1 mmChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T23:04:33Z
+  Updated: 2025-12-19T12:31:29Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Broach
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hb8ed5e75f22c434ea4fafecec3ba9f1an_XT0TA2a.jpg?v=1765409227
   Price: $22.99 USD
 - [Ruida Membrane Switch for RDC6445S RDLC320-A RDC6332G RDC6332M RDC6442S](https://anc-electronics-n-services-inc.myshopify.com/products/ruida-membrane-switch-for-rdc6445s-rdlc320-a-rdc6332g-rdc6332m-rdc6442s): Brand Name: CloudrayOrigin: Mainland ChinaHigh-concerned chemical: NoneCertification: CEModel Number: Ruida membrane key
-  Updated: 2025-12-11T11:27:29Z
+  Updated: 2025-12-19T12:31:28Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - CNC Controller
   Availability: Available
@@ -2282,7 +2282,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sea0f57cd904449f9a82d2e3210639da4q.jpg?v=1765409229
     Price: $92.99 USD
 - [Cloudray LIHUIYU M3 Nano Laser Controller Mother Main Board + Control Panel + Dongle B System Engraver Cutter DIY 3020 3040 K40](https://anc-electronics-n-services-inc.myshopify.com/products/cloudray-lihuiyu-m3-nano-laser-controller-mother-main-board-control-panel-dongle-b-system-engraver-cutter-diy-3020-3040-k40): Brand Name: CloudrayCertification: CECertification: NoneOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: LIHUIYU
-  Updated: 2025-12-11T11:27:38Z
+  Updated: 2025-12-20T13:42:56Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - CNC Controller
   Availability: Available
@@ -2290,13 +2290,13 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Set A M3](https://anc-electronics-n-services-inc.myshopify.com/products/cloudray-lihuiyu-m3-nano-laser-controller-mother-main-board-control-panel-dongle-b-system-engraver-cutter-diy-3020-3040-k40?variant=51754309255449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S38a1ac25841c4f7482abe8739a854e7fN_LHfV6m2.jpg?v=1765409246
-    Price: $400.99 USD
+    Price: $435.99 USD
   - [Set B M3 Plus](https://anc-electronics-n-services-inc.myshopify.com/products/cloudray-lihuiyu-m3-nano-laser-controller-mother-main-board-control-panel-dongle-b-system-engraver-cutter-diy-3020-3040-k40?variant=51754309288217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S1dbc7882691442ebb0bc69b246ceb78bf_xxSVfkW.jpg?v=1765409246
-    Price: $432.99 USD
+    Price: $470.99 USD
 - [1pc Live Center Head for Lathe Machine Revolving Centre 6mm Shank DIY Accessories for Mini Lathe L29k](https://anc-electronics-n-services-inc.myshopify.com/products/1pc-live-center-head-for-lathe-machine-revolving-centre-6mm-shank-diy-accessories-for-mini-lathe-l29k): Unit Type: pieceMaterial: SteelMaterial: SteelBrand Name: NoEnName_NullModel Number: Thimble DrilPlug: EUHigh-concerned chemical: NoneOrigin: Mainland ChinaCNC or Not: NormalCertification: NoneType: OtherCondition: NewChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T15:35:31Z
+  Updated: 2025-12-19T12:31:24Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Machine Tools
   Availability: Available
@@ -2310,7 +2310,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa555527c81754c5cb9f8439124db4c79b.jpg?v=1765409247
     Price: $44.99 USD
 - [775 DC Motor 12-36v 4000-12000 RPM Ball Bearing Spindle Motor With ER11 Extension Rod High Power for CNC 1610/ 2417/ 3018](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018): Brand Name: NoEnName_NullOrigin: Mainland ChinaOperating Speed: 4000-12000rmpApplication: MillingDrive: MotorModel Number: ER11 Spindle MotorMaximum Torque: --Voltage: 12-36VMotor shaft: 5mm12V Speed: 4000 rpm24V Speed: 8000 rpm36V Speed: 12000 rpm
-  Updated: 2025-12-11T11:27:39Z
+  Updated: 2025-12-19T12:31:22Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Machine Tool Spindle
   Availability: Available
@@ -2318,37 +2318,37 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Option 2](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309583129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H8f76a6292ea44692b125cb556f1cae41u_m52sbho.jpg?v=1765409248
-    Price: $310.99 USD
+    Price: $320.99 USD
   - [Option 1](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309615897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He301dc8f5272456ca347400545ea8d3ax_c8fsWNL.jpg?v=1765409249
-    Price: $207.99 USD
+    Price: $214.99 USD
   - [Option 6](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309648665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd156bf95da974c25add69d479d6019b9m_SBnImxa.jpg?v=1765409248
-    Price: $341.99 USD
+    Price: $352.99 USD
   - [Option 5](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309681433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hb62c9627ca274a5190eaec871b9f4224a_T0yExK6.jpg?v=1765409248
-    Price: $265.99 USD
+    Price: $274.99 USD
   - [Option 4](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309714201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hcbbaa5306131423bbd49bc0f0664339cL_9dADRBH.jpg?v=1765409248
-    Price: $252.99 USD
+    Price: $261.99 USD
   - [Option 3](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309746969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda39976ea51a47c49af089650e219672G_k4lTcjL.jpg?v=1765409248
-    Price: $310.99 USD
+    Price: $320.99 USD
   - [Option 8](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309779737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hc780d1185a32487484d0d73dbf04ce7a9_bw6K28g.jpg?v=1765409248
-    Price: $133.99 USD
+    Price: $138.99 USD
   - [Option 7](https://anc-electronics-n-services-inc.myshopify.com/products/775-dc-motor-12-36v-4000-12000-rpm-ball-bearing-spindle-motor-with-er11-extension-rod-high-power-for-cnc-1610-2417-3018?variant=51754309812505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hbb008ee342ea4ca9a66f2f2f81586ee9Y_v6YgVC3.jpg?v=1765409249
-    Price: $113.99 USD
+    Price: $116.99 USD
 - [2Pc 3A Class CNC End Mill One Single Flute Spiral Cutter Tugster Steel Router Bit for MDF Milling Cutter PVC Wood Cutter](https://anc-electronics-n-services-inc.myshopify.com/products/2pc-3a-class-cnc-end-mill-one-single-flute-spiral-cutter-tugster-steel-router-bit-for-mdf-milling-cutter-pvc-wood-cutter): Brand Name: NCSignHigh-concerned chemical: NoneOrigin: Mainland ChinaModel Number: HQ Single Flute (A+)Degree: R0.1Material: Imported Tungsten SteelType: End MillOverall Length: 38mm-100mmCertification: CEDiameter: 3.175/4/5/6/8/10mmCoating: NonePlace of origin: ChinaCondition: 100% Brand NewShank Diameter: 3.175/4/5/6/8/10mmCutting Edge Diameter: 3.175mmCutting Length: 3-52mmSuitable Materials: Aluminum, Copper, PCB, Wood, Acrylic and etcApplication: carving,cutting,slotting,milling,hollow cutAdvantages: Long service life, precise.Package: 2pcs
-  Updated: 2025-12-12T00:16:39Z
+  Updated: 2025-12-19T12:31:20Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Milling Cutter
   Availability: Available
@@ -2554,7 +2554,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sf842b0c3892743c387a89a1e9f859b19x.jpg?v=1765409253
     Price: $121.99 USD
 - [Wholesale Various Oil Water Separator Filter Element 015 QPSC Air Compressor Accessories Compressed Air Precision Filter Dryer](https://anc-electronics-n-services-inc.myshopify.com/products/wholesale-various-oil-water-separator-filter-element-015-qpsc-air-compressor-accessories-compressed-air-precision-filter-dryer): Brand Name: NoEnName_NullOrigin: Mainland ChinaCertification: CEModel Number: YED-190909002
-  Updated: 2025-12-15T02:23:26Z
+  Updated: 2025-12-19T12:31:19Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Oil Water Separators
   Availability: Available
@@ -2600,7 +2600,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd1304e24ca724c28bb9d3992f5d90152n_6eIAAHn.jpg?v=1765409254
     Price: $532.99 USD
 - [SPB26 SPB32-2/3/4/5/6 Indexable Insert Lathe Tool for Slitting Tools for SP200 SP300 SP400 PC9030 / NC3020 / 3030 Turning Tools](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools): Material: Tool SteelMaterial2: Spring SteeCoating: othersBrand Name: KOESOTRModel Number: SPBMaterial: Hard AlloyUse: GroovingOrigin: Mainland ChinaCertification: NoneHardness: 92
-  Updated: 2025-12-11T11:28:24Z
+  Updated: 2025-12-20T13:50:55Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Turning Tool
   Availability: Available
@@ -2608,125 +2608,125 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [SPB32-2 (SPB232) / Without blade](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754312925465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $98.99 USD
+    Price: $109.99 USD
   - [SPB32-4 (SPB432) / Without blade](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754312958233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $101.99 USD
+    Price: $112.99 USD
   - [SPB32-3 (SPB332) / Without blade](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754312991001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $100.99 USD
+    Price: $111.99 USD
   - [SPB26-2 (SPB226) / Without blade](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313023769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $95.99 USD
+    Price: $105.99 USD
   - [SPB26-4 (SPB426) / Without blade](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313056537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $98.99 USD
+    Price: $109.99 USD
   - [SPB26-3 (SPB326) / Without blade](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313089305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $96.99 USD
+    Price: $106.99 USD
   - [SPB32-4 (SPB432) / SP400 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313122073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $139.99 USD
+    Price: $155.99 USD
   - [SPB32-3 (SPB332) / SP400 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313154841)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $124.99 USD
+    Price: $138.99 USD
   - [SPB26-2 (SPB226) / SP300 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313187609)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $122.99 USD
+    Price: $136.99 USD
   - [SPB26-4 (SPB426) / SP300 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313220377)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $117.99 USD
+    Price: $130.99 USD
   - [SPB26-3 (SPB326) / SP300 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313253145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $128.99 USD
+    Price: $142.99 USD
   - [SPB32-4 (SPB432) / SP300 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313285913)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $122.99 USD
+    Price: $136.99 USD
   - [SPB32-3 (SPB332) / SP300 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313318681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $130.99 USD
+    Price: $145.99 USD
   - [SPB26-4 (SPB426) / SP300 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313351449)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $117.99 USD
+    Price: $130.99 USD
   - [SPB26-3 (SPB326) / SP300 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313384217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $128.99 USD
+    Price: $142.99 USD
   - [SPB32-2 (SPB232) / SP300 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313416985)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $117.99 USD
+    Price: $130.99 USD
   - [SPB26-2 (SPB226) / SP300 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313449753)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $117.99 USD
+    Price: $130.99 USD
   - [SPB32-2 (SPB232) / SP300 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313482521)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $117.99 USD
+    Price: $130.99 USD
   - [SPB32-4 (SPB432) / SP300 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313515289)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $122.99 USD
+    Price: $136.99 USD
   - [SPB32-3 (SPB332) / SP300 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313548057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $130.99 USD
+    Price: $145.99 USD
   - [SPB26-4 (SPB426) / SP400 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313580825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $134.99 USD
+    Price: $148.99 USD
   - [SPB26-3 (SPB326) / SP400 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313613593)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $128.99 USD
+    Price: $143.99 USD
   - [SPB32-2 (SPB232) / SP400 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313646361)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $124.99 USD
+    Price: $138.99 USD
   - [SPB26-2 (SPB226) / SP400 NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313679129)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $128.99 USD
+    Price: $143.99 USD
   - [SPB32-2 (SPB232) / SP400 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313711897)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $124.99 USD
+    Price: $138.99 USD
   - [SPB32-4 (SPB432) / SP400 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313744665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $139.99 USD
+    Price: $155.99 USD
   - [SPB32-3 (SPB332) / SP400 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313777433)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $124.99 USD
+    Price: $138.99 USD
   - [SPB26-2 (SPB226) / SP400 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313810201)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $124.99 USD
+    Price: $138.99 USD
   - [SPB26-4 (SPB426) / SP400 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313842969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $134.99 USD
+    Price: $148.99 USD
   - [SPB26-3 (SPB326) / SP400 PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/spb26-spb32-2-3-4-5-6-indexable-insert-lathe-tool-for-slitting-tools-for-sp200-sp300-sp400-pc9030-nc3020-3030-turning-tools?variant=51754313875737)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd18135dd12754da79c1368cbd0942e52p_SXe4HY4.jpg?v=1765409257
-    Price: $124.99 USD
+    Price: $138.99 USD
 - [2024 New Acrylic Bender Channel Letter Hot Bending Machine 3D Luminous Sign Arc Angle Shape Bender 110V 220V Free Shipping](https://anc-electronics-n-services-inc.myshopify.com/products/2024-new-acrylic-bender-channel-letter-hot-bending-machine-3d-luminous-sign-arc-angle-shape-bender-110v-220v-free-shipping): Brand Name: NoEnName_NullCertification: ceOrigin: Mainland ChinaRaw Material: OtherAutomation: ManualMaterial / Metal Processed: AcrylicIs Smart Device: No
-  Updated: 2025-12-11T11:27:45Z
+  Updated: 2025-12-19T12:31:15Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Machine Tools
   Availability: Available
@@ -2756,7 +2756,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H8df118ff81d14bc1a277db80b7b81d985_SBZJKW1.jpg?v=1765409258
     Price: $214.99 USD
 - [10PCS Grooving Tool MGMN150 MGMN200 MGMN300 MGMN400 NC3020 NC3030 PC9030 Slotted and Slotted Carbide Metal Turning Lathe Tools](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools): Brand Name: KOESOTRHigh-concerned chemical: NoneOrigin: Mainland ChinaCoating: CVD+PVDMaterial: Hard AlloyHardness: 92Use: SlottingCertification: NoneModel Number: MGMN150 G PC9030Working Conditions: Continuous / Light Interrupted / InterruptedWorkpiece: P M KProcessing way: grooving/low feed/wetCutting Parameters: Vc=140m/min f=0.08mm/rmodel: MGMN150 G NC3030model2: MGMN150 G PC9030model3: MGMN200 G NC3020model4: MGMN200 G NC3030model5: MGMN200 G PC9030model6: MGMN300 M NC3020model7: MGMN300 M NC3030model8: MGMN300 M PC9030model9: MGMN400 M NC3020model10: MGMN400 M NC3030model11: MGMN400 M PC9030
-  Updated: 2025-12-11T11:28:07Z
+  Updated: 2025-12-19T12:31:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Turning Tool
   Availability: Available
@@ -2764,49 +2764,49 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [MGMN400 M  PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314105113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $99.99 USD
+    Price: $119.99 USD
   - [MGMN400 M  NC3020](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314137881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $99.99 USD
+    Price: $119.99 USD
   - [MGMN400 M  NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314170649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $99.99 USD
+    Price: $119.99 USD
   - [MGMN200 G  NC3020](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314203417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $73.99 USD
+    Price: $88.99 USD
   - [MGMN200 G  NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314236185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $73.99 USD
+    Price: $88.99 USD
   - [MGMN150 G NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314268953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $73.99 USD
+    Price: $88.99 USD
   - [MGMN150 G PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314301721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $73.99 USD
+    Price: $88.99 USD
   - [MGMN300 M  NC3030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314334489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $90.99 USD
+    Price: $108.99 USD
   - [MGMN300 M  PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314367257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $90.99 USD
+    Price: $108.99 USD
   - [MGMN200 G  PC9030](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314400025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $73.99 USD
+    Price: $88.99 USD
   - [MGMN300 M  NC3020](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-grooving-tool-mgmn150-mgmn200-mgmn300-mgmn400-nc3020-nc3030-pc9030-slotted-and-slotted-carbide-metal-turning-lathe-tools?variant=51754314432793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd59df4c1a72d4bbcb0a6c5547ef3d0bbU.jpg?v=1765409260
-    Price: $90.99 USD
+    Price: $108.99 USD
 - [D3 - D20  HSS-M35 Co5%  Spiral Reamer Processing: Stainless Steel, Die Steel, Alloy Steel Etc.](https://anc-electronics-n-services-inc.myshopify.com/products/d3-d20-hss-m35-co5-spiral-reamer-processing-stainless-steel-die-steel-alloy-steel-etc): Brand Name: ddunvcrType: Chucking ReamerCertification: CEOrigin: Mainland ChinaMaterial: HSSModel Number: 3-20mm
-  Updated: 2025-12-11T11:28:19Z
+  Updated: 2025-12-19T12:31:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Reamer
   Availability: Available
@@ -2887,15 +2887,8 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1le8CbRGw3KVjSZFDq6xWEpXas_p7NToIf.jpg?v=1765409262
     Price: $152.99 USD
-- [Portable Electric Balloon Pump, Rechargeable Twisting Modeling Balloon Pump Inflator, Round Latex Balloon  Pump](https://anc-electronics-n-services-inc.myshopify.com/products/portable-electric-balloon-pump-rechargeable-twisting-modeling-balloon-pump-inflator-round-latex-balloon-pump): Brand Name: P-LINGBattery Included: YesHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: BatteryPressure: High PressureRated Voltage: 12VUse: Home DIYCertification: CEModel Number: PL-301Application: Gas BlowerWattage: Under 500WType: Inflatable BlowerRated Voltage: 110V-240V
-  Updated: 2025-12-11T11:27:50Z
-  Vendor: ANC Electronics N Services Inc
-  Product Type: Tools - Power Tools - Blowers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd451038778644c11b48082b8e337d33e8_HcpuwqS.jpg?v=1765409264
-  Price: $685.99 USD
 - [220V~240V Household Blower Iron Barbecue Blower Small Centrifugal Blower 30W 40W 60W 80W EU US Plug Adapter Green for Barbecue](https://anc-electronics-n-services-inc.myshopify.com/products/220v-240v-household-blower-iron-barbecue-blower-small-centrifugal-blower-30w-40w-60w-80w-eu-us-plug-adapter-green-for-barbecue): Brand Name: HIMOSKWABattery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: ACRated Power: The power of different products is differentRated Voltage: 220VUse: Home DIYCertification: Noneis_customized: YesModel Number: LYZ085JHApplication: Air BlowerWattage: Under 500WType: Centrifugal Blower
-  Updated: 2025-12-14T23:47:06Z
+  Updated: 2025-12-19T12:31:08Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Blowers
   Availability: Available
@@ -2949,7 +2942,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8a38b99cc07549909b15c6fc03721ab31.jpg?v=1765409266
     Price: $394.99 USD
 - [U Drill WCMX030208 WCMX040208 WCMT050308 WCMT06T308 WCMT080412 FN ACZ330 Carbide WCMX Turning Insert CNC Cutting Tool WCMT](https://anc-electronics-n-services-inc.myshopify.com/products/u-drill-wcmx030208-wcmx040208-wcmt050308-wcmt06t308-wcmt080412-fn-acz330-carbide-wcmx-turning-insert-cnc-cutting-tool-wcmt): Brand Name: KOESOTRHigh-concerned chemical: NoneOrigin: Mainland ChinaCoating: PVDMaterial: Hard AlloyHardness: 92Use: External Turning ToolModel Number: WCMT/WCMXQuantity: 10PCSmodel: WCMX030208FN ACZ330model2: WCMX040208FN ACZ330model3: WCMT050308FN ACZ330model4: WCMT06T308FN ACZ330model5: WCMT080412 FN ACZ330
-  Updated: 2025-12-12T20:35:21Z
+  Updated: 2025-12-19T12:31:06Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Turning Tool
   Availability: Available
@@ -2957,46 +2950,46 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [WCMT050308FN ACZ330](https://anc-electronics-n-services-inc.myshopify.com/products/u-drill-wcmx030208-wcmx040208-wcmt050308-wcmt06t308-wcmt080412-fn-acz330-carbide-wcmx-turning-insert-cnc-cutting-tool-wcmt?variant=51754315874585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hccb3c57ea72c450491b1b2552a5c1d482_4bzdziE.jpg?v=1765409268
-    Price: $85.99 USD
+    Price: $96.99 USD
   - [WCMT06T308FN ACZ330](https://anc-electronics-n-services-inc.myshopify.com/products/u-drill-wcmx030208-wcmx040208-wcmt050308-wcmt06t308-wcmt080412-fn-acz330-carbide-wcmx-turning-insert-cnc-cutting-tool-wcmt?variant=51754315907353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hccb3c57ea72c450491b1b2552a5c1d482_4bzdziE.jpg?v=1765409268
-    Price: $97.99 USD
+    Price: $110.99 USD
   - [WCMT080412 FN ACZ330](https://anc-electronics-n-services-inc.myshopify.com/products/u-drill-wcmx030208-wcmx040208-wcmt050308-wcmt06t308-wcmt080412-fn-acz330-carbide-wcmx-turning-insert-cnc-cutting-tool-wcmt?variant=51754315940121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hccb3c57ea72c450491b1b2552a5c1d482_4bzdziE.jpg?v=1765409268
-    Price: $138.99 USD
+    Price: $157.99 USD
   - [WCMX030208FN ACZ330](https://anc-electronics-n-services-inc.myshopify.com/products/u-drill-wcmx030208-wcmx040208-wcmt050308-wcmt06t308-wcmt080412-fn-acz330-carbide-wcmx-turning-insert-cnc-cutting-tool-wcmt?variant=51754315972889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hccb3c57ea72c450491b1b2552a5c1d482_4bzdziE.jpg?v=1765409268
-    Price: $67.99 USD
+    Price: $76.99 USD
   - [WCMX040208FN ACZ330](https://anc-electronics-n-services-inc.myshopify.com/products/u-drill-wcmx030208-wcmx040208-wcmt050308-wcmt06t308-wcmt080412-fn-acz330-carbide-wcmx-turning-insert-cnc-cutting-tool-wcmt?variant=51754316005657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hccb3c57ea72c450491b1b2552a5c1d482_4bzdziE.jpg?v=1765409268
-    Price: $67.99 USD
+    Price: $76.99 USD
 - [2rb710-7ah37  4KW 5HP  345-720 High Pressure Air Flow Swimming Pool Air Pump Industrial Cuuing Machine Vacuum Pump](https://anc-electronics-n-services-inc.myshopify.com/products/2rb710-7ah37-4kw-5hp-345-720-high-pressure-air-flow-swimming-pool-air-pump-industrial-cuuing-machine-vacuum-pump): Brand Name: BLZMYBattery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: ACPressure: High PressureRated Power: 4KW(50HZ)/4.6KW(60HZ)Rated Voltage: 380VPower Source: ACUse: Commercial ManufactureCertification: CECertification: RoHSis_customized: YesModel Number: 2RB710-7AH37Application: Industrial BlowerPressure: High PressureMotor: BrushlessWattage: 4000-5999WType: Turbo BlowerColor: sliver/GREENCOFrequency: 50HZ and 60HZMaterial: Alluminium alloyApplication: industrial vacuum,oxygenation,blowing etcMax Vacuum: -290mbar/50hz -330mbar/60hzMax pressure: 330mbar/50hz 330mbar/60hzMax Air flow: 318m3/h 50hz 376m3/h 60hzRated voltage: 345-720VPower source: Electric BlowerPower: 4KW 50HZ 4.6KW 60HZFilter/silencer size: MF16/2inchRelief valve size: RV-02/300-600mbar
-  Updated: 2025-12-13T21:52:57Z
+  Updated: 2025-12-19T12:31:04Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Blowers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S93557f699b78445da0d9a483eb8693cab_UUig9a1.jpg?v=1765409270
   Price: $1,915.99 USD
 - [DIY Electric Chain Saw 11.5 Inch Chainsaw Bracket Set High Carbon Steel for Electric Angle Grinder to Chain Saw Woodworking Tool](https://anc-electronics-n-services-inc.myshopify.com/products/diy-electric-chain-saw-11-5-inch-chainsaw-bracket-set-high-carbon-steel-for-electric-angle-grinder-to-chain-saw-woodworking-tool): Max. Cutting Width: --Brand Name: KKMOONModel Number: Chainsaw BracketPower Source: ACApplication: Wood SawMax. Cutting Depth: --Weight: 1233g / 2.7lbDimensions: 450 * 250 * 100mm / 17.7 * 9.8 * 3.9inRated Voltage: 220VSaw Type: Chainsaw BracketFrequency: --Rated Input Power: --Origin: Mainland ChinaCertification: Noneis_customized: YesUse: Home DIYBlade Diameter: 280mm / 11.0inBattery Included: NoChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:27:58Z
+  Updated: 2025-12-19T12:31:02Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Saws
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd86ee5ab379f4dc0b1cf66466cb1fe30m_sehGLwA.jpg?v=1765409272
   Price: $195.99 USD
 - [Mini Aluminum 360 Degree Rotating Bench Vise Adjustable 70mm Jaw Width Table Vise Multifunctional Workbench Woodwork Clamp Vise](https://anc-electronics-n-services-inc.myshopify.com/products/mini-aluminum-360-degree-rotating-bench-vise-adjustable-70mm-jaw-width-table-vise-multifunctional-workbench-woodwork-clamp-vise): Brand Name: WALFRONTHigh-concerned chemical: NoneOrigin: Mainland ChinaDrive Mode: ManualModel Number: Clamp Vise Certification: NoneType: Bench ViseFeature 1: Table ViseFeature 2: ViseFeature 3: Vise Table ClampFeature 4: Rotating ViseFeature 5: Milling ViseFeature 6: ViseFeature 7: ClampFeature 8: Bench ViseFeature 9: ViseFeature 10: Vise for DrillingFeature 11: Stand LatheFeature 12: Vise for Knitting FliesChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T17:04:21Z
+  Updated: 2025-12-19T12:31:01Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Vise
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H2040cfc80e1441aeb441e82fbc2634545_zGFoyIv.jpg?v=1765409272
   Price: $316.99 USD
 - [D2.0 D2.5 D3.0 D3.5 D4.0 D4.5 D5.0 D5.5 D6.0 D7.0 D8.0 D9.0 10.0 D11.0 D12.0  KLOT HRC55 Carbide H7 Spiral Reamer](https://anc-electronics-n-services-inc.myshopify.com/products/d2-0-d2-5-d3-0-d3-5-d4-0-d4-5-d5-0-d5-5-d6-0-d7-0-d8-0-d9-0-10-0-d11-0-d12-0-klot-hrc55-carbide-h7-spiral-reamer): Brand Name: ddunvcrHigh-concerned chemical: NoneOrigin: Mainland ChinaType: Chucking ReamerModel Number: 2.0mm-16mmMaterial: Tungsten Steel
-  Updated: 2025-12-11T11:28:08Z
+  Updated: 2025-12-19T12:30:59Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Machine Tools & Accessories - Reamer
   Availability: Available
@@ -3062,7 +3055,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2d5e0ec6762c4fc5a3281df6eae41f87S.jpg?v=1765409274
     Price: $250.99 USD
 - [Electric Screwdriver Cordless Mini Drill 3.6V Lithium Battery Manual and Electric Usb Power Tool Charging LED Light for HOME DIY](https://anc-electronics-n-services-inc.myshopify.com/products/electric-screwdriver-cordless-mini-drill-3-6v-lithium-battery-manual-and-electric-usb-power-tool-charging-led-light-for-home-diy): Brand Name: SHENHAOXUBattery Included: YesPower Source: BatteryType: Mini ScrewdriverHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: BatteryMax. Torque: 2N.m~10N.mWeight: 0.16kgRated Voltage: 3.6vDimensions: 13.5CM*3CM*2CMUse: Home DIYCertification: CEis_customized: YesFrequency: 50-60HZModel Number: PTS-009Type1: Cordless electric screwdriverType2: Precision screwdriverType3: Multifunctional screwdriverType4: Mini Electric drillType5: Power toolsType6: Imitation traditional screwdriverNO-LOAD SPEED: 280rpm/minFeatures1: Hand Tools&Power ToolsChucksize: 6.35m'mBattery type: Lithium batteryUSB charger: Micro usbCharging time: 1~2hoursFeatures2: screwdriver accessoriesType7: Electric screwdriverService support: dropshippingChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T18:50:35Z
+  Updated: 2025-12-19T12:30:57Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Screwdrivers
   Availability: Available
@@ -3084,7 +3077,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H775ca2267ef84154b727958425a807167_C2k9Bkr.jpg?v=1765409275
     Price: $231.99 USD
 - [Mini Electric Screwdriver Battery Operated Cordless Screw Driver Drill Tool Set Bidirectional Switch With 11pcs or 14pcs Screws](https://anc-electronics-n-services-inc.myshopify.com/products/mini-electric-screwdriver-battery-operated-cordless-screw-driver-drill-tool-set-bidirectional-switch-with-11pcs-or-14pcs-screws): Brand Name: SHENHAOXUPower Source: BatteryType: Cordless ScrewdriverOrigin: Mainland ChinaMax. Torque: 2.2NmWeight: 0.3kgUse: Home DIYRated Input Power: 36WCertification: CEis_customized: YesModel Number: PTS-002voltage: 6vNo-Load Speed: 180RPMModel Number: Mini Electric Screwdriver
-  Updated: 2025-12-11T11:28:01Z
+  Updated: 2025-12-19T12:30:55Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Screwdrivers
   Availability: Available
@@ -3092,13 +3085,13 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [PTS-002-SET2](https://anc-electronics-n-services-inc.myshopify.com/products/mini-electric-screwdriver-battery-operated-cordless-screw-driver-drill-tool-set-bidirectional-switch-with-11pcs-or-14pcs-screws?variant=51754317087001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hfa1f93c5ff514e78bc32cc449aa7c811L_VGI0uOD.jpg?v=1765409276
-    Price: $121.99 USD
+    Price: $124.99 USD
   - [PTS-002-SET1](https://anc-electronics-n-services-inc.myshopify.com/products/mini-electric-screwdriver-battery-operated-cordless-screw-driver-drill-tool-set-bidirectional-switch-with-11pcs-or-14pcs-screws?variant=51754317119769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hbba520c3c9854671af858671381580d4h_3dCmPNf.jpg?v=1765409276
-    Price: $105.99 USD
+    Price: $107.99 USD
 - [Manual Edge End Cut PVC Band End Cutter Edge Trimmer Woodworking Tools](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools): Brand Name: YOMOOrigin: Mainland ChinaMaterial: PlasticHigh-concerned chemical: NoneDIY Supplies: WoodworkingType: CombinationPackage: BOXApplication: Wood Working Toolis_customized: YesChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:28:10Z
+  Updated: 2025-12-20T11:01:39Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Trimmers
   Availability: Available
@@ -3106,27 +3099,27 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Trimmer blade arc](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317185305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sff0caec76fa14cc69266c064a3c3ef91B_Ea9mgGQ.jpg?v=1765409278
-    Price: $31.99 USD
+    Price: $33.99 USD
   - [trimmer set A](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317218073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S640514f4cd6540fc97541815c41e21a2F.jpg?v=1765409278
-    Price: $226.99 USD
+    Price: $231.99 USD
   - [YOMO trimmer](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317250841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Seb269715d99c4cc39feba0305a96d580A.jpg?v=1765409278
-    Price: $81.99 USD
+    Price: $84.99 USD
   - [plastic trimmer](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317283609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S1aa2e05c47184647bb167d99dab54a90A_PFDOnXh.jpg?v=1765409278
-    Price: $41.99 USD
+    Price: $42.99 USD
   - [cutter blade C](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317316377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sdaf62443177a45638ddf5f07863a3e18R_xXAdCnr.jpg?v=1765409278
-    Price: $19.99 USD
+    Price: $20.99 USD
   - [YOMO cutter](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317349145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1eMxSfL6H8KJjy0Fjq6yXepXal_NLVqcqY.jpg?v=1765409278
-    Price: $227.99 USD
+    Price: $234.99 USD
   - [blade B](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317381913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S6bb83274a6bb44c2a53239ecee488f95A.jpg?v=1765409278
@@ -3134,29 +3127,29 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [blade A](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317414681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5feb74ff71a64a3eb0f35b7f242d5d3aq.jpg?v=1765409278
-    Price: $19.99 USD
+    Price: $20.99 USD
   - [trimmer blade D](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317447449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S17fc79b407504ab5aea01278ddfc9783a_E4bZkmF.jpg?v=1765409278
-    Price: $18.99 USD
+    Price: $19.99 USD
   - [arc angle trimmer](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317480217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3c104b3df0c64e6e9cd7389eb04d7396z_3JtiYZG.jpg?v=1765409278
-    Price: $75.99 USD
+    Price: $78.99 USD
   - [trimmer set C](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317512985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S732a86bdee144c5b9d8f872302a43a47q.jpg?v=1765409278
-    Price: $303.99 USD
+    Price: $312.99 USD
   - [plastic cutter](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317545753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sae87a6d710bb4ae49ecc2225222f54b21_2lqY6Ba.png?v=1765409278
-    Price: $60.99 USD
+    Price: $62.99 USD
   - [trimmer set B](https://anc-electronics-n-services-inc.myshopify.com/products/manual-edge-end-cut-pvc-band-end-cutter-edge-trimmer-woodworking-tools?variant=51754317578521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S7dd215595bb4464ca9d13022c2b79d19L_9lYC7JW.jpg?v=1765409278
-    Price: $89.99 USD
+    Price: $93.99 USD
 - [2PCS DIY Power Tools Electric Drill Variable Speed Dremel Accessories Mini Stand for Drill Engraver Electric Micro Rotar Tool](https://anc-electronics-n-services-inc.myshopify.com/products/2pcs-diy-power-tools-electric-drill-variable-speed-dremel-accessories-mini-stand-for-drill-engraver-electric-micro-rotar-tool): Brand Name: ANKEYPROBattery Included: NoPower Source: ACType: Multifuctional ScrewdriverHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: ACMax. Torque: 55NMWeight: 0.6KGRated Voltage: 220VRated Input Power: 180WUse: Home DIYCertification: CEis_customized: YesNo-Load Speed: 35000rpmFrequency: 50Hz/60HzMotor: BrushlessModel Number: WSL-DM-11style1: EU PLUGpackaging: Plastic box packingstyle: Variable output rateDrill Type: Mini DrillDIY Supplies: Woodworkingstyle3: Engraverstyle4: Polishing Grinderstyle5: Electric Drill Grinder Toolstyle6: Metal Cutting Grinderspeed: 10000~37000/min
-  Updated: 2025-12-14T18:34:06Z
+  Updated: 2025-12-19T12:30:51Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Drills
   Availability: Available
@@ -3226,7 +3219,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfa8b03c41ed04a30ac63accef28be3d70_vbbUkyr.jpg?v=1765409280
     Price: $689.99 USD
 - [HILDA Electric Rotary Tool Electric Drill Tools Variable Speed 400W Mini Drill 6 Position Rotary Tools Mini Grinding Machine](https://anc-electronics-n-services-inc.myshopify.com/products/hilda-electric-rotary-tool-electric-drill-tools-variable-speed-400w-mini-drill-6-position-rotary-tools-mini-grinding-machine): Brand Name: HILDAOrigin: Mainland ChinaPower Source: ElectricityPower Source: ElectricityHigh-concerned chemical: NoneType: Mini GrinderBattery Included: NoCertification: NoneNo-Load Speed: 5000~25000min-1Frequency: 50HZDisc(Wheel) Type: Grinding DiscModel Number: KSDM-59is_customized: YesWeight: 1.5 kgsRated Voltage: 220VDimensions: 250x55 mmRated Input Power: 400wVariable Speed: YesUse: Home DIYDIY Supplies: Woodworkingplug: EU plug
-  Updated: 2025-12-14T15:31:11Z
+  Updated: 2025-12-19T12:30:50Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Grinders
   Availability: Available
@@ -3312,7 +3305,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hf20f9befb9ad4ac2ad1d9610b75e07da1_L0C2QBh.jpg?v=1765409282
     Price: $275.99 USD
 - [ALLSOME MINIQ BG-5156E Bench Drill Stand 710W Mini Electric Bench Drilling Machine Drill Chuck 1.5-13mm HT2600](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-miniq-bg-5156e-bench-drill-stand-710w-mini-electric-bench-drilling-machine-drill-chuck-1-5-13mm-ht2600): Brand Name: AllsomeOrigin: Mainland ChinaPower Source: ACHigh-concerned chemical: NoneBattery Included: NoCertification: NoneUse: Renovation TeamNo-Load Speed: 2800rpmPower Source: ACFrequency: 50HZis_customized: YesRated Torque: NormalModel Number: BG-5156EMax. Drilling Diameter: 13mmDrill Type: Drill PressWeight: 5.6kgRated Voltage: 220VApplication: Electric drillRated Input Power: 710W
-  Updated: 2025-12-11T11:28:12Z
+  Updated: 2025-12-20T10:20:46Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Drills
   Availability: Available
@@ -3320,32 +3313,32 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [United States](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-miniq-bg-5156e-bench-drill-stand-710w-mini-electric-bench-drilling-machine-drill-chuck-1-5-13mm-ht2600?variant=51754319020313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sbd9bf9decc8d40cba7265488b72df4f6t.jpg?v=1765409284
-    Price: $426.99 USD
+    Price: $514.99 USD
   - [Poland](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-miniq-bg-5156e-bench-drill-stand-710w-mini-electric-bench-drilling-machine-drill-chuck-1-5-13mm-ht2600?variant=51754319053081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sbd9bf9decc8d40cba7265488b72df4f6t.jpg?v=1765409284
-    Price: $397.99 USD
+    Price: $480.99 USD
   - [Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-miniq-bg-5156e-bench-drill-stand-710w-mini-electric-bench-drilling-machine-drill-chuck-1-5-13mm-ht2600?variant=51754319085849)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sbd9bf9decc8d40cba7265488b72df4f6t.jpg?v=1765409284
-    Price: $505.99 USD
+    Price: $599.99 USD
   - [spain](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-miniq-bg-5156e-bench-drill-stand-710w-mini-electric-bench-drilling-machine-drill-chuck-1-5-13mm-ht2600?variant=51754319118617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sbd9bf9decc8d40cba7265488b72df4f6t.jpg?v=1765409284
-    Price: $497.99 USD
+    Price: $599.99 USD
   - [CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-miniq-bg-5156e-bench-drill-stand-710w-mini-electric-bench-drilling-machine-drill-chuck-1-5-13mm-ht2600?variant=51754319151385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sbd9bf9decc8d40cba7265488b72df4f6t.jpg?v=1765409284
-    Price: $1,152.99 USD
+    Price: $1,391.99 USD
 - [12inch Electric Chainsaw Jigsaw Electric Chain Saw Adapter Converter Bracket DIY Set for Angle Grinder Woodworking Power Tools](https://anc-electronics-n-services-inc.myshopify.com/products/12inch-electric-chainsaw-jigsaw-electric-chain-saw-adapter-converter-bracket-diy-set-for-angle-grinder-woodworking-power-tools): Brand Name: meterkOrigin: Mainland ChinaPower Source: BatterySaw Type: chain sawHigh-concerned chemical: NoneCertification: NoneApplication: Wood Saw
-  Updated: 2025-12-11T11:28:14Z
+  Updated: 2025-12-19T12:30:44Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Electric Saws
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hcb9aab242cb0459e879f8ae3d80da3c8m_Nv0cVPO.jpg?v=1765409288
   Price: $564.99 USD
 - [JCD Micro Hot Air Gun 8208 750W Soldering Welding Rework Station LCD Digital Display All-In-One Heat Gun BGA IC Solder Tools](https://anc-electronics-n-services-inc.myshopify.com/products/jcd-micro-hot-air-gun-8208-750w-soldering-welding-rework-station-lcd-digital-display-all-in-one-heat-gun-bga-ic-solder-tools): Brand Name: JCDJCD Model: 8208High-concerned chemical: NoneOrigin: Mainland ChinaFeature: Cool / Hot AirFeature: Temperature AdjustableFeature: Temperature Digital DisplayWeight: 0.62KGRated Voltage: 220VRated Output Power: 750WUsage: Home DIYAir Volume: 120L/min(MAX.)Model Number: NEW 8208/8858is_customized: YesNo-Load Speed: 2800rpmFeature 1: heat gunFeature 2: portable BGA rework stationFeature 3: Temperature AdjustableFeature 4: Adjustable wind speedFeature 5: +/-50℃ With temperature correction functionFeature 6: Integrated multi-function heat gun
-  Updated: 2025-12-13T16:55:53Z
+  Updated: 2025-12-19T12:30:42Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Heat Guns
   Availability: Available
@@ -3511,7 +3504,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9e938772fd964ca2a7a13f33f9eb3a1aI_SIoWcQF.jpg?v=1765409294
     Price: $163.99 USD
 - [Heat Gun 8018LCD 220V 450W  LCD Adjustable Electronic Soldering Station Bga Nozzle Hot Air Gun Hair Dryer Soldering Motherboard](https://anc-electronics-n-services-inc.myshopify.com/products/heat-gun-8018lcd-220v-450w-lcd-adjustable-electronic-soldering-station-bga-nozzle-hot-air-gun-hair-dryer-soldering-motherboard): Brand Name: YarbolyRated Voltage: 220VOrigin: Mainland ChinaFeature: Temperature AdjustableWeight: 0.7kgRated Output Power: 450WAir Volume: 25L/MINModel Number: 8018LCDCertification: Noneis_customized: YesNo-Load Speed: 1200rpm
-  Updated: 2025-12-11T11:28:46Z
+  Updated: 2025-12-19T12:30:40Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Heat Guns
   Availability: Available
@@ -3535,9 +3528,9 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [8018lcd](https://anc-electronics-n-services-inc.myshopify.com/products/heat-gun-8018lcd-220v-450w-lcd-adjustable-electronic-soldering-station-bga-nozzle-hot-air-gun-hair-dryer-soldering-motherboard?variant=51754321084697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1jvkwbgjN8KJjSZFkq6yboXXaN_8th2S7g.jpg?v=1765409296
-    Price: $261.99 USD
+    Price: $262.99 USD
 - [Russian Version DIY Kits Transistor Tester LCR Diode Capacitance ESR Frequency Meter Signal Generator DS18B20 DHT11 IR Test](https://anc-electronics-n-services-inc.myshopify.com/products/russian-version-diy-kits-transistor-tester-lcr-diode-capacitance-esr-frequency-meter-signal-generator-ds18b20-dht11-ir-test): Brand Name: TCXREOrigin: Mainland ChinaDIY Supplies: ElectricalDisplay Type: Digital DisplayCertification: NoneOperating Mode: Transistor TesterModel Number: mega328Measuring Inductance Range: Transistor TesterDimensions: Frequency Signal Generator
-  Updated: 2025-12-11T11:28:33Z
+  Updated: 2025-12-19T12:30:39Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Electrical Instruments
   Availability: Available
@@ -3559,7 +3552,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5dfd0ddafcc54d31bce206a159632ad6h_y9kCH24.jpg?v=1765409299
     Price: $159.99 USD
 - [LAOA Accessory Needles for Nail Gun Thin Door Thick Door T Shape Straight Pin Straight Nail](https://anc-electronics-n-services-inc.myshopify.com/products/laoa-accessory-needles-for-nail-gun-thin-door-thick-door-t-shape-straight-pin-straight-nail): Brand Name: LAOABattery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: ManualCapacity: strongModel Number: LA148301Certification: NoneUse: Commercial Manufactureis_customized: YesType: nailsPower Source: Manual
-  Updated: 2025-12-11T11:28:24Z
+  Updated: 2025-12-19T12:30:37Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Nail Guns
   Availability: Available
@@ -3581,7 +3574,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1AtZBLFzqK1RjSZFvq6AB7VXaK_RV7Mbv9.jpg?v=1765409300
     Price: $129.99 USD
 - [Small Centrifugal High Pressure 12v DC Air Blower Fan 20w Brushless Motor 50mm Pipe With Stepless Switch Control](https://anc-electronics-n-services-inc.myshopify.com/products/small-centrifugal-high-pressure-12v-dc-air-blower-fan-20w-brushless-motor-50mm-pipe-with-stepless-switch-control): Brand Name: NoEnName_NullBattery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: DCPressure: Medium PressureRated Power: 20wRated Voltage: 12VUse: Home DIYCertification: CEis_customized: YesModel Number: D20R50Application: Air BlowerWattage: Under 500WType: Centrifugal BlowerPower Source: Electric BlowerRated Voltage: 12v
-  Updated: 2025-12-11T11:28:26Z
+  Updated: 2025-12-19T12:30:35Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Blowers
   Availability: Available
@@ -3595,7 +3588,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5c467f95445b4f83b9c4661104085115B_zZDnRPK.jpg?v=1765409301
     Price: $510.99 USD
 - [Fine Wire Air Stapler Gun 8016 Meite](https://anc-electronics-n-services-inc.myshopify.com/products/fine-wire-air-stapler-gun-8016-meite): Brand Name: airclawBattery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaCapacity: 157Model Number: MT8016,MT8016LNCertification: CEUse: Commercial Manufactureis_customized: YesType: Air StaplerPower Source: Pneumatic
-  Updated: 2025-12-11T11:28:27Z
+  Updated: 2025-12-20T12:15:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Nail Guns
   Availability: Available
@@ -3609,7 +3602,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB10k6Hebus3KVjSZKbq6xqkFXat_5nRv9Zk.jpg?v=1765409302
     Price: $517.99 USD
 - [KKMOON 2/5/10m  IP67 Waterproof USB Endoscope 1280*720 HD Industrial Borescope Inspection Camera Built-In 8pcs LEDs 8mm Lens](https://anc-electronics-n-services-inc.myshopify.com/products/kkmoon-2-5-10m-ip67-waterproof-usb-endoscope-1280-720-hd-industrial-borescope-inspection-camera-built-in-8pcs-leds-8mm-lens): Brand Name: KKMOONOrigin: Mainland ChinaViewing Angle : 60°Image Capturing Resolution: 1600*1200Certification: NoneModel Number: F200 Industrial EndoscopeCamera diameter: 8mmLight source: 8pcs LEDs lightsFocal length: 30-100mmBattery Included: NoChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:28:31Z
+  Updated: 2025-12-19T12:30:31Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Borescopes
   Availability: Available
@@ -3631,7 +3624,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H841c2f7184764abaa8fc6ceecd644f00t_abnULyZ.jpg?v=1765409306
     Price: $103.99 USD
 - [Industrial Excavator Truck Tractor Diesel Engine Hour Meter Counter Rectangular Hourmeter Timer Counter DC 12V 24V AC 220V](https://anc-electronics-n-services-inc.myshopify.com/products/industrial-excavator-truck-tractor-diesel-engine-hour-meter-counter-rectangular-hourmeter-timer-counter-dc-12v-24v-ac-220v): Brand Name: VerykomBattery Included: NoOrigin: Mainland ChinaHigh-concerned chemical: NoneDIY Supplies: ElectricalModel Number: SYSType: 6-digit Counters
-  Updated: 2025-12-11T11:28:50Z
+  Updated: 2025-12-19T12:30:29Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Counters
   Availability: Available
@@ -3645,7 +3638,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Ha23f9150c53841afb5925b9ec094d405o_6X2xCYx.jpg?v=1765409307
     Price: $90.99 USD
 - [2/5/10m  Industrial Endoscope 1280*720 HD Borescope Inspection Camera Built-In 8pcs LEDs 8mm Lens IP67 Waterproof USB Endoscope](https://anc-electronics-n-services-inc.myshopify.com/products/2-5-10m-industrial-endoscope-1280-720-hd-borescope-inspection-camera-built-in-8pcs-leds-8mm-lens-ip67-waterproof-usb-endoscope): Camera diameter: 8mmLight source: 8pcs LEDs lightsFocal length: 30-100mmBrand Name: KKMOONModel Number: F200 Industrial EndoscopeViewing Angle : 60°Image Capturing Resolution: 1080*720Origin: Mainland ChinaChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T03:30:37Z
+  Updated: 2025-12-19T12:30:28Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Borescopes
   Availability: Available
@@ -3667,7 +3660,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H08393e78610140be9ab190e9066fd896b_Yk3OgUX.jpg?v=1765409309
     Price: $142.99 USD
 - [5 Meters Steel Bare Wire Rope Lifting Cable 304 Stainless Steel Clothesline 2mm 3mm 4mm 5mm 6mm 8mm Diameter](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter): Brand Name: NoEnName_NullOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: XQ051Material: Stainless Steelis_customized: Yes
-  Updated: 2025-12-14T23:38:32Z
+  Updated: 2025-12-19T12:30:26Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Lifting Tools & Accessories
   Availability: Available
@@ -3675,40 +3668,40 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [diameter 6mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322231577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $166.99 USD
+    Price: $175.99 USD
   - [diameter 8mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322264345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $260.99 USD
+    Price: $273.99 USD
   - [diameter 3mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322297113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $64.99 USD
+    Price: $68.99 USD
   - [diameter 5mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322329881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $124.99 USD
+    Price: $130.99 USD
   - [diameter 4mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322362649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $97.99 USD
+    Price: $102.99 USD
   - [diameter 2mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322395417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $51.99 USD
+    Price: $54.99 USD
   - [diameter 1.5mm](https://anc-electronics-n-services-inc.myshopify.com/products/5-meters-steel-bare-wire-rope-lifting-cable-304-stainless-steel-clothesline-2mm-3mm-4mm-5mm-6mm-8mm-diameter?variant=51754322428185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1lp8tQbrpK1RjSZTEq6AWAVXaQ_oe6xZA5.jpg?v=1765409311
-    Price: $44.99 USD
+    Price: $46.99 USD
 - [1022J Framing Tacker U Stapler Electric Staples Gun With 300Pcs Nails 220V 2000W Electric Power Tools for Woodworking Hand Tool](https://anc-electronics-n-services-inc.myshopify.com/products/1022j-framing-tacker-u-stapler-electric-staples-gun-with-300pcs-nails-220v-2000w-electric-power-tools-for-woodworking-hand-tool): Brand Name: ERWERKBattery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaPower Source: ElectricityCapacity: 45PCS/MINModel Number: NSG-08Certification: CEUse: Home DIYis_customized: YesType: Framing Nail GunPower Source: ElectricityPower: 2000WVoltage: 220-240VWeigh: 1.5kgStaples: 1022J/1019J/1016J/1013J/1010J
-  Updated: 2025-12-12T04:42:30Z
+  Updated: 2025-12-19T12:30:24Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Nail Guns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1Jek9asrrK1RjSspaq6AREXXaS_CgD7E1T.jpg?v=1765409312
   Price: $499.99 USD
 - [Yieryi New TDS PH Meter PH/TDS/EC/Temperature Meter Digital Water Quality Monitor Tester for Pools, Drinking Water, Aquariums](https://anc-electronics-n-services-inc.myshopify.com/products/yieryi-new-tds-ph-meter-ph-tds-ec-temperature-meter-digital-water-quality-monitor-tester-for-pools-drinking-water-aquariums): Brand Name: yieryiYIERYI Model: TPH01137ABattery Included: NoOrigin: Mainland ChinaHigh-concerned chemical: NoneIs Smart Device: YesDisplay Type: DIGITALWith Backlight Or Not: YesModel Number: TPH01137Certification: CEtds value: 0-19999ppmwater tester: yesec value: 0-19999us/cmProduct calibration: Before deliveryChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T00:53:08Z
+  Updated: 2025-12-19T12:30:21Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Analyzers
   Availability: Available
@@ -3802,7 +3795,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hb0b5a59a2be542b3b4b7af9676d6fb14r_kekl4NV.jpg?v=1765409314
     Price: $185.99 USD
 - [New Online Industrial PH Controller ORP Meter Monitor Digital 0.02pH 1mV Upper Lower Limit Control Alarm pH Tester](https://anc-electronics-n-services-inc.myshopify.com/products/new-online-industrial-ph-controller-orp-meter-monitor-digital-0-02ph-1mv-upper-lower-limit-control-alarm-ph-tester): Brand Name: yieryiOrigin: Mainland ChinaIs Smart Device: NoDisplay Type: DIGITALWith Backlight Or Not: NoModel Number: ph-110Certification: CEBattery Included: No
-  Updated: 2025-12-11T11:29:10Z
+  Updated: 2025-12-19T12:30:18Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Analyzers
   Availability: Available
@@ -3848,7 +3841,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb1ffc1d387c440fd98f751d3b3743c9cJ_EEOup8x.jpg?v=1765409316
     Price: $382.99 USD
 - [Russian M328 Transistor Tester DIY LCR Diode Capacitance ESR Voltage Meter PWM Square Wave Frequency Signal Generator](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator): Brand Name: TCXREOrigin: Mainland ChinaDIY Supplies: ElectricalDisplay Type: Digital DisplayOperating Mode: Auto RangeOperating Mode: Manual RangeBattery Included: No
-  Updated: 2025-12-11T11:28:50Z
+  Updated: 2025-12-19T12:30:15Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Electrical Instruments
   Availability: Available
@@ -3856,37 +3849,37 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [finished product / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324623641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa745211ba719449794b935a8de2763caf_hy9zXbv.jpg?v=1765409318
-    Price: $136.99 USD
+    Price: $125.99 USD
   - [finished with case / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324656409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa229531205854d3e883ab71929d3eac7D_Osg5oik.jpg?v=1765409318
-    Price: $166.99 USD
+    Price: $153.99 USD
   - [diy kits / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324689177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S40a2989f5f964f74b1b624cd37b5a2d3W_HVMlU0y.jpg?v=1765409318
-    Price: $105.99 USD
+    Price: $97.99 USD
   - [diy kits with case / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324721945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd0cc06c860cc4edfbeb9d3fd5dfece51A_f4BkNUW.jpg?v=1765409318
-    Price: $145.99 USD
+    Price: $133.99 USD
   - [diy kits with case / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324754713)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd0cc06c860cc4edfbeb9d3fd5dfece51A_f4BkNUW.jpg?v=1765409318
-    Price: $99.99 USD
+    Price: $91.99 USD
   - [finished product / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324787481)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa745211ba719449794b935a8de2763caf_hy9zXbv.jpg?v=1765409318
-    Price: $93.99 USD
+    Price: $85.99 USD
   - [finished with case / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324820249)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa229531205854d3e883ab71929d3eac7D_Osg5oik.jpg?v=1765409318
-    Price: $115.99 USD
+    Price: $105.99 USD
   - [diy kits / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/russian-m328-transistor-tester-diy-lcr-diode-capacitance-esr-voltage-meter-pwm-square-wave-frequency-signal-generator?variant=51754324853017)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S40a2989f5f964f74b1b624cd37b5a2d3W_HVMlU0y.jpg?v=1765409318
-    Price: $73.99 USD
+    Price: $67.99 USD
 - [HIFESON Pneumatic Air Blind Rivet Gun Automatic POP Riveters Riveting Tool for 2.4mm 3.2mm 4.2mm 4.8mm](https://anc-electronics-n-services-inc.myshopify.com/products/hifeson-pneumatic-air-blind-rivet-gun-automatic-pop-riveters-riveting-tool-for-2-4mm-3-2mm-4-2mm-4-8mm): Rivet size: 2.4mm/3.2mm/4.2mm/4.8mmBrand Name: HIFESONHigh-concerned chemical: NoneRiveter Gun Type: Blind Rivet GunsPower Type: Pneumatic Rivet GunsOrigin: Mainland ChinaCertification: NoneUse: Commercial ManufactureChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:28:44Z
+  Updated: 2025-12-19T12:30:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Riveter Guns
   Availability: Available
@@ -3900,7 +3893,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S433ded2e201140618995e5f9d3b4c47cY.jpg?v=1765409320
     Price: $322.99 USD
 - [RZ Wood Moisture Meter Digital Wood Moisture Meter Concrete 0-80% Emt01 Woodworking Measuring Carton Building Material Moisture](https://anc-electronics-n-services-inc.myshopify.com/products/rz-wood-moisture-meter-digital-wood-moisture-meter-concrete-0-80-emt01-woodworking-measuring-carton-building-material-moisture): feature1: wood moisture meterfeature2: digital wood moisture meterfeature3: concrete moisture meterfeature4: digital moisture meter woodfeature5: 0-80%feature6: woodworkingfeature7: emt01feature8: Plant moisture meterfeature9: BacklightBrand Name: RZModel Number: RZ660Display Type: DIGITALWith Backlight Or Not: YesOrigin: Mainland ChinaCertification: CECertification: FCCCertification: RoHSDIY Supplies: Woodworking
-  Updated: 2025-12-14T11:45:13Z
+  Updated: 2025-12-19T12:30:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Measurement & Analysis Instruments - Analyzers
   Availability: Available
@@ -3914,7 +3907,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H478195733bac4943ba7176e83c5c4622j_HZ6NEwD.jpg?v=1765409321
     Price: $80.99 USD
 - [Professional Lvlp Spray Gun Airbrush Lvlp Gravity Feed Paint Gun 1.3mm Nozzle Stainless Steel Nozzle 600cc Cup Air Spray Gun](https://anc-electronics-n-services-inc.myshopify.com/products/professional-lvlp-spray-gun-airbrush-lvlp-gravity-feed-paint-gun-1-3mm-nozzle-stainless-steel-nozzle-600cc-cup-air-spray-gun): Brand Name: NTOOLSHigh-concerned chemical: NoneBattery Included: NoOrigin: Mainland ChinaPower Type: PneumaticModel Number: 898/1000bis_customized: YesType: LVLPFeed Type: GravityNozzle Diameter: 1.3mmCertification: CEUse: Home DIYNo-Load Speed: 1600rpmApplication: Paint Spray GunCup Volume: 600Air intet: 1/4"nozzle: stainless steelfeed type: Gravityface: Electroless nickelPlace of Origin: Zhejiang, China (Mainland)nozzle size: 1.3MMcup size: 600DIY Supplies: Paint & Decorating
-  Updated: 2025-12-11T11:28:53Z
+  Updated: 2025-12-19T12:30:09Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Spray Guns
   Availability: Available
@@ -3928,7 +3921,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hd4a998ced16845aeb34858a5d3b71240A_bn9JKEt.jpg?v=1765409322
     Price: $417.99 USD
 - [3 in 1 Manual Heavy Duty Hand Nail Gun 6" Steel Furniture Stapler for Framing Staples by Free Woodworking Tacker Tools](https://anc-electronics-n-services-inc.myshopify.com/products/3-in-1-manual-heavy-duty-hand-nail-gun-6-steel-furniture-stapler-for-framing-staples-by-free-woodworking-tacker-tools): Brand Name: huppgouHigh-concerned chemical: NonePower Type: Hand RivetersOrigin: Mainland ChinaCertification: NoneUse: Home DIYChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T23:43:42Z
+  Updated: 2025-12-19T12:30:07Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Riveter Guns
   Availability: Available
@@ -3954,14 +3947,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4b0f6fc263ee4373b37f14284adf37b8u_jVDhJUr.jpg?v=1765409324
     Price: $49.99 USD
 - [Air Sander Polisher With Vacuuming 6'' 150mm Car Paint Care Tool Polishing Random Orbital Palm Hard & Soft Brush M8 Threaded](https://anc-electronics-n-services-inc.myshopify.com/products/air-sander-polisher-with-vacuuming-6-150mm-car-paint-care-tool-polishing-random-orbital-palm-hard-soft-brush-m8-threaded): Brand Name: HIFESONOrigin: Mainland Chinais_customized: YesCertification: NoneType: Random-Orbit SanderNo-Load Speed: 9200rpmVariable Speed: YesSand Pad Size: 6''Weight: 1.42Use: Commercial ManufactureModel Number: HF-C9Power Source: PneumaticAir Pressure: 90PSIcentrifugal angle: 5mminlet size: 1/4''Feature: With Vacuuming
-  Updated: 2025-12-11T11:28:50Z
+  Updated: 2025-12-19T12:30:06Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Power Tools - Sanders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S88f29ee3bb9c4655917ca2d8d8b959f4O_IT0KXN6.jpg?v=1765409326
   Price: $373.99 USD
 - [30x17x16cm Aluminum Alloy Tool Case Portable Outdoor Vehicle Kit Box Equipmen Safety Equipment Instrument Case Suitcase Outdoor](https://anc-electronics-n-services-inc.myshopify.com/products/30x17x16cm-aluminum-alloy-tool-case-portable-outdoor-vehicle-kit-box-equipmen-safety-equipment-instrument-case-suitcase-outdoor): Brand Name: toohrMaterial: aluminumModel Number: 30x17x16cmType: Caseis_customized: Yes
-  Updated: 2025-12-11T11:28:51Z
+  Updated: 2025-12-19T12:30:04Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Organizers - Tool Cases
   Availability: Available
@@ -3975,7 +3968,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1auOCbkT2gK0jSZPcq6AKkpXaU_515kdPu.jpg?v=1765409327
     Price: $263.99 USD
 - [Wear-Proof Silk Screen Printing Squeegee Blade With Wood Handle DIY Silkscreen Printing Ink Rubber Scraper Board Tools](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools): Brand Name: NoEnName_NullHigh-concerned chemical: NoneType: Hand Tool PartsOrigin: Mainland Chinais_customized: YesUse: Home DIYUsage: Screen PrintingMaterial: Wooden/Rubber
-  Updated: 2025-12-11T11:28:57Z
+  Updated: 2025-12-19T12:30:02Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Parts
   Availability: Available
@@ -3983,61 +3976,61 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Flat Head / 24cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326065433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $74.99 USD
+    Price: $80.99 USD
   - [Flat Head / 27cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326098201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $82.99 USD
+    Price: $89.99 USD
   - [Flat Head / 33cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326130969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $92.99 USD
+    Price: $100.99 USD
   - [Flat Head / 16-24-33cm Set](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326163737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $124.99 USD
+    Price: $134.99 USD
   - [Sharp Head / 16cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326196505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $59.99 USD
+    Price: $64.99 USD
   - [Sharp Head / 24cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326229273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $74.99 USD
+    Price: $80.99 USD
   - [Sharp Head / 27cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326262041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $82.99 USD
+    Price: $89.99 USD
   - [Sharp Head / 33cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326294809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $92.99 USD
+    Price: $100.99 USD
   - [Sharp Head / 16-24-33cm Set](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326327577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $124.99 USD
+    Price: $134.99 USD
   - [Flat Head / 13cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326360345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $55.99 USD
+    Price: $59.99 USD
   - [Flat Head / 16cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326393113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $59.99 USD
+    Price: $64.99 USD
   - [Flat Head / 50cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326425881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He6288750dd32448286179f73552680d3G_godNvsa.jpg?v=1765409330
-    Price: $124.99 USD
+    Price: $134.99 USD
   - [Sharp Head / 50cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326458649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $124.99 USD
+    Price: $134.99 USD
   - [Sharp Head / 13cm](https://anc-electronics-n-services-inc.myshopify.com/products/wear-proof-silk-screen-printing-squeegee-blade-with-wood-handle-diy-silkscreen-printing-ink-rubber-scraper-board-tools?variant=51754326491417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7e998c359a4345dc86dfa6815ce77dcex_zsvJFup.jpg?v=1765409330
-    Price: $55.99 USD
+    Price: $59.99 USD
 - [ALLSOME Magnetic Tool Holder Bar Organizer Storage Rack Tool With Strong Magnet Storage for Garage Workshop Metal Tools](https://anc-electronics-n-services-inc.myshopify.com/products/allsome-magnetic-tool-holder-bar-organizer-storage-rack-tool-with-strong-magnet-storage-for-garage-workshop-metal-tools): Brand Name: AllsomeHigh-concerned chemical: NoneOrigin: Mainland Chinais_customized: YesMaterial: OTHERModel Number: HT1980-1985Type: CabinetSize: 8"/12"/18"
-  Updated: 2025-12-13T15:15:34Z
+  Updated: 2025-12-19T12:30:00Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Organizers - Tool Cabinets
   Availability: Available
@@ -4067,7 +4060,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S432ac96de72a4f5388a3386708100989t.jpg?v=1765409331
     Price: $106.99 USD
 - [Oxlasers NEW 12V 2.5W 3.5W 4W 5.5W 15W 450nm Blue Laser Modules With Orange Color for DIY Engraving Laser Head With PWM](https://anc-electronics-n-services-inc.myshopify.com/products/oxlasers-new-12v-2-5w-3-5w-4w-5-5w-15w-450nm-blue-laser-modules-with-orange-color-for-diy-engraving-laser-head-with-pwm): Brand Name: OxlasersCertification: NoneOrigin: Mainland ChinaModel Number: ORANGE 3W
-  Updated: 2025-12-11T11:28:58Z
+  Updated: 2025-12-19T12:29:58Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Woodworking Machinery & Parts - Woodworking Machinery Parts
   Availability: Available
@@ -4093,7 +4086,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1ZQKmbyLxK1Rjy0Ffq6zYdVXaI_WR58en9.jpg?v=1765409333
     Price: $516.99 USD
 - [2 1/15 CTW Lab Grown Round Cut Diamond Half Eternity Ring in 14K White Gold - G-Vs](https://anc-electronics-n-services-inc.myshopify.com/products/2-1-15-ctw-lab-grown-round-cut-diamond-half-eternity-ring-in-14k-white-gold-g-vs): This stunning 2.07 CTW round lab grown diamond ring features 13 meticulously placed stones with exceptional VS1+ clarity and excellent cut grade. Handcrafted in the USA from premium 14K white gold, this ring offers the perfect balance of elegance and ethical luxury. The lab-created diamonds provide identical brilliance to mined diamonds while being environmentally responsible and conflict-free. With a comfortable 3.54mm band width and secure setting, this ring is designed for everyday wear while making a sophisticated statement. Backed by our 30-day money-back guarantee, you can purchase with complete confidence. Features: Lab-Grown Diamond Excellence - Ethically sourced, eco-friendly diamonds with identical properties to mined diamonds Premium American Craftsmanship - Handcrafted with precision in the USA Exceptional Clarity & Cut - VS1+ clarity and excellent cut grade for maximum brilliance Elegant Gift Presentation - Arrives in premium packaging ready for that special moment Risk-Free Purchase - Complete peace of mind with our 30-day money-back guarantee Sustainable Luxury - Environmentally responsible choice without compromising on quality Specifications: Total Diamond Weight: 2 1/15 CTW (2.07 carats) Diamond Quality: G color, VS1+ clarity Cut Grade: Excellent Stone Count: 13 round lab grown diamonds Metal: 14K White Gold Band Width: 3.54mm average Setting Height: 2.73mm Overall Height: 2.73mm Available Sizes: 5-8.5
-  Updated: 2025-12-12T01:57:14Z
+  Updated: 2025-12-19T12:29:56Z
   Vendor: SightHolderDiamonds LLC
   Product Type: Jewelry & Accessories - Rings
   Availability: Available
@@ -4122,7 +4115,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $5,396.99 USD
 - [Arabesque Splendor Cocktail Ring Yellow Topaz Silver](https://anc-electronics-n-services-inc.myshopify.com/products/arabesque-splendor-cocktail-ring-yellow-topaz-silver): Introducing the Arabesque Splendor Cocktail Ring, featuring Yellow Topaz set in 925 silver—a burst of sunshine for your finger. The centrepiece is a lab-created oval yellow topaz, surrounded by twinkling cubic zirconia in a floral-inspired arrangement. This unique design stretches 2.3 cm along your finger, making it not just a ring, but a standout accessory. The ring weighs a comfortable 4.50 grams and comes in three available sizes for the perfect fit. And if you're looking to go the extra mile, we've got matching earrings and bracelets to complete your radiant look. For those celebrating a November birthday, yellow topaz is your birthstone, often associated with warmth, energy, and prosperity. Whether you're wearing it for its symbolic meaning or just for its sheer eye-catching beauty, this ring is sure to impress.
-  Updated: 2025-12-12T01:57:39Z
+  Updated: 2025-12-19T12:29:54Z
   Vendor: LATELITA
   Product Type: Jewelry & Accessories - Rings
   Availability: Available
@@ -4137,7 +4130,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $733.99 USD
 - [2 CTW Round Lab Grown Diamond Solitaire Engagement Ring 14K White Gold (G-Vs)](https://anc-electronics-n-services-inc.myshopify.com/products/2-ctw-round-lab-grown-diamond-solitaire-engagement-ring-14k-white-gold-g-vs): Lab Grown Diamonds - Echo FriendlyMade in USA Product Details: Choose simple beauty with this classic lab-grown diamond solitaire engagement ring. This ring features a round, 4-prong center stone that sits in a 14K white gold basket setting. The Stone Weight and Carat Total Weight (CTW) represent the approximate weight of each of the diamonds in the complete set. Each stone may vary no more than 1/15 below the total stated weight. Specification: Size 7 Carat Total Weight 2 CTW Stone Cut Grade Excellent Stone Cut Clarity VS1+ Stone Count 1 Metal Type & Color 14K White Gold Average Band Width 1.61mm Setting Height 7.76mm Height 7.76mm
-  Updated: 2025-12-12T01:57:06Z
+  Updated: 2025-12-19T12:29:53Z
   Vendor: SightHolderDiamonds LLC
   Product Type: Jewelry & Accessories - Rings
   Availability: Available
@@ -4166,14 +4159,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Availability: Available
     Price: $8,996.99 USD
 - [AC 36V Gas Regulator CO2 Heater Flow Meter for MIG Welding Machines Gas Pressure Regulators](https://anc-electronics-n-services-inc.myshopify.com/products/ac-36v-gas-regulator-co2-heater-flow-meter-for-mig-welding-machines-gas-pressure-regulators): Brand Name: ORRILCertification: NoneOrigin: Mainland ChinaWeight: 1KGWire Feeding Speed: NormalDimensions: SmallUse: CO2 MIG MAG Welding
-  Updated: 2025-12-11T11:29:19Z
+  Updated: 2025-12-19T12:29:51Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Welding Equipment - MIG Welders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1Z00VQVXXXXcQXpXXq6xXFXXXa_b3KRNen.jpg?v=1765409342
-  Price: $270.99 USD
+  Price: $230.99 USD
 - [Blu-Ray Virtual Reality VR Glasses HD IMAX Huge Screen 3D Glasses Google Cardboard Box VR Helmet for Phone,Support Game Joystick](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick): Brand Name: VR SHINECONAll-in-one Virtual Reality Glasses: NoControllers: YesSensor Type: noneOrigin: Mainland China3D Glasses Type: Virtual RealityHigh-concerned chemical: NoneViewing Experience: ImmersiveDisplay Number: NoneCompatible Device: SmartphonesType: BinocularBase Stations: NoFOV: 90-110 degreePackage: YesCertification: CEWireless network Type: Wireless GamepadBundle: Bundle 4Ports: Shinecon VR GlassesReal-time Map Construction: NoGesture Recognition: NoModel Number: Shinecon G02ED VR GlassesCamera: NoSet Type: Controllers SetsItem Type: 3D Glasses/VR GlassesRocker Features: Multi-function wireless rocker,Remote control,Joystick,MouseBluetooth-Compatible Gamepad Controller: for IOS Android Hongmeng SmartphoneWireless Remote: For Android Tablet PC SmartphoneCompatible Phone Screen size: Best for 4.5-6.53" Smartphone, Max for 4-6.2" smartphoneWide-Usage: For iPhone IOS and Android (not matter with phone system)Blu-Ray VR Glasses: Eye protection, Relieve eye fatigueVirtual Reality VR Glasses: Support Game JoysticksViewing effect: Equivalent to 3m, watching 1050 inch screen3D Glasses: Immersive game
-  Updated: 2025-12-12T09:13:40Z
+  Updated: 2025-12-19T12:29:49Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Consumer Electronics - VR/AR Devices - 3D Glasses/ Virtual Reality Glasses
   Availability: Available
@@ -4181,53 +4174,53 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [G02ED VR-052 Gamepad / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328260889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S71676320efcd4b478c7c3e1378a8d0bfx.jpg?v=1765409345
-    Price: $224.99 USD
+    Price: $241.99 USD
   - [Only G02ED VR Box / spain](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328293657)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S180a1b09510644feb8522703aad845733.jpg?v=1765409344
-    Price: $165.99 USD
+    Price: $178.99 USD
   - [G02ED VR-052 Gamepad / spain](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328326425)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S71676320efcd4b478c7c3e1378a8d0bfx.jpg?v=1765409345
-    Price: $173.99 USD
+    Price: $186.99 USD
   - [G02ED VR-052 Gamepad / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328359193)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S71676320efcd4b478c7c3e1378a8d0bfx.jpg?v=1765409345
-    Price: $156.99 USD
+    Price: $168.99 USD
   - [G02ED VR-B01 Gamepad / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328391961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa6fb6151c98d40cab3385851ca9ff6c1e.jpg?v=1765409344
-    Price: $233.99 USD
+    Price: $251.99 USD
   - [G02ED VR-B01 Gamepad / spain](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328424729)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa6fb6151c98d40cab3385851ca9ff6c1e.jpg?v=1765409344
-    Price: $204.99 USD
+    Price: $220.99 USD
   - [G02ED VR-B01 Gamepad / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328457497)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa6fb6151c98d40cab3385851ca9ff6c1e.jpg?v=1765409344
-    Price: $204.99 USD
+    Price: $220.99 USD
   - [G02ED VR-Y1 Gamepad / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328490265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S72a3908db7c241b098945b1b19ee805f1.jpg?v=1765409344
-    Price: $222.99 USD
+    Price: $239.99 USD
   - [G02ED VR-Y1 Gamepad / spain](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328523033)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S72a3908db7c241b098945b1b19ee805f1.jpg?v=1765409344
-    Price: $194.99 USD
+    Price: $209.99 USD
   - [G02ED VR-Y1 Gamepad / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328555801)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S72a3908db7c241b098945b1b19ee805f1.jpg?v=1765409344
-    Price: $194.99 USD
+    Price: $209.99 USD
   - [Only G02ED VR Box / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328588569)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S180a1b09510644feb8522703aad845733.jpg?v=1765409344
-    Price: $143.99 USD
+    Price: $154.99 USD
   - [Only G02ED VR Box / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/blu-ray-virtual-reality-vr-glasses-hd-imax-huge-screen-3d-glasses-google-cardboard-box-vr-helmet-for-phone-support-game-joystick?variant=51754328621337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S180a1b09510644feb8522703aad845733.jpg?v=1765409344
-    Price: $197.99 USD
+    Price: $213.99 USD
 - [LXOEN Fashion Mona Lisa Silver Color Engagement Ring AAA Zircon Wedding Rings for Women Crystal Jewelry Accessories Anillos](https://anc-electronics-n-services-inc.myshopify.com/products/lxoen-fashion-mona-lisa-silver-color-engagement-ring-aaa-zircon-wedding-rings-for-women-crystal-jewelry-accessories-anillos): Brand Name: LXOENOrigin: Mainland ChinaCN: ZhejiangMetals Type: CopperMetals Type: NoneMetals Type: BrassMaterial: cubic zirconiaGender: WomenCompatibility: All CompatibleItem Type: RingsModel Number: Ring017Style: TRENDYRings Type: Wedding BandsSurface Width: 4mmSurface Width: 7mmSetting Type: Channel SettingShape\pattern: Water DropFine or Fashion: FashionOccasion: EngagementWeight: 4.9gMainstone: AAA Cubic ZirconMaterial: CopperColor: White,MulticolorPlate: White Gold Plated,Yellow Gold Plated,Rose Gold PlatedGift for: Youeself \ Girlfriend \ Wife \ Daughter \ Female FriendOccasion: Wedding \ Daily \ Engagement \ Dating \ Party \ Meeting \Environmental Standard: Lead,Nickel,Cadmium FreeCustom or Not: Yes , we acceptFactory or Not: Yes, Support Drop Shipping and WholesaleInlay material: ZirconInlay material: Crystal Cladding Material: Rose gold platingChoice: yessemi_Choice: yessize_info: {"sizeInfoList":[{"length":{"cm":"H","inch":"H"},"size":"Other","vid":4},{"length":{"cm":"0.5H","inch":"0.5H"},"size":"4.25","vid":-7},{"length":{"cm":"I","inch":"I"},"size":"4.5","vid":-13},{"length":{"cm":"J","inch":"J"},"size":"4.75","vid":-19},{"length":{"cm":"0.5J","inch":"0.5J"},"vid":5},{"length":{"cm":"K","inch":"K"},"size":"5.25","vid":-31},{"length":{"cm":"0.5K","inch":"0.5K"},"size":"5.5","vid":-37},{"length":{"cm":"L","inch":"L"},"size":"5.75","vid":-43},{"length":{"cm":"0.5L","inch":"0.5L"},"vid":6},{"length":{"cm":"M","inch":"M"},"size":"6.25","vid":-55},{"length":{"cm":"0.5M","inch":"0.5M"},"size":"6.5","vid":-61},{"length":{"cm":"N","inch":"N"},"size":"6.75","vid":-67},{"length":{"cm":"0.5N","inch":"0.5N"},"vid":7},{"length":{"cm":"O","inch":"O"},"size":"7.25","vid":-79},{"length":{"cm":"0.5O","inch":"0.5O"},"size":"7.5","vid":-85},{"length":{"cm":"P","inch":"P"},"size":"7.75","vid":-91},{"length":{"cm":"0.5P","inch":"0.5P"},"vid":8},{"length":{},"size":"8.25","vid":-103},{"length":{"cm":"0.5Q","inch":"0.5Q"},"size":"8.5","vid":-109},{"length":{"cm":"R","inch":"R"},"size":"8.75","vid":-115},{"length":{"cm":"0.5R","inch":"0.5R"},"vid":9},{"length":{"cm":"S","inch":"S"},"size":"9.25","vid":-127},{"length":{"cm":"0.5S","inch":"0.5S"},"size":"9.5","vid":-133},{"length":{"cm":"T","inch":"T"},"size":"9.75","vid":-139},{"length":{"cm":"0.5T","inch":"0.5T"},"size":"Red","vid":10},{"length":{"cm":"U","inch":"U"},"size":"10.25","vid":-151},{"length":{"cm":"0.5U","inch":"0.5U"},"size":"10.5","vid":-157},{"length":{"cm":"V","inch":"V"},"size":"10.75","vid":-163},{"length":{"cm":"0.5V","inch":"0.5V"},"vid":11},{"length":{"cm":"W","inch":"W"},"size":"11.25","vid":-175},{"length":{"cm":"0.5W","inch":"0.5W"},"size":"11.5","vid":-181},{"length":{"cm":"X","inch":"X"},"size":"11.75","vid":-187},{"length":{"cm":"0.4X","inch":"0.4X"},"vid":12}]}
-  Updated: 2025-12-14T18:01:00Z
+  Updated: 2025-12-19T12:29:47Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry & Accessories - Wedding & Engagement Jewelry - Engagement Rings
   Availability: Available
@@ -4329,7 +4322,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S802ce497901d43e89629380ccffa359dG_E6cx53I.jpg?v=1765409347
     Price: $32.99 USD
 - [Safety Instrument Tool Box Protective Waterproof Shockproof Toolbox Sealed Tool Case Impact Resistant Suitcase With Sponge](https://anc-electronics-n-services-inc.myshopify.com/products/safety-instrument-tool-box-protective-waterproof-shockproof-toolbox-sealed-tool-case-impact-resistant-suitcase-with-sponge): Brand Name: toohrOrigin: Mainland Chinais_customized: YesMaterial: PlasticModel Number: toolboxType: Case
-  Updated: 2025-12-11T11:29:12Z
+  Updated: 2025-12-19T12:29:45Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Tool Organizers - Tool Cases
   Availability: Available
@@ -4359,7 +4352,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He34565d7f00b42be922664215c9b5754G_R7xVeRc.jpg?v=1765409348
     Price: $68.99 USD
 - [Multifunctional  Aluminum Router Table Insert Plate Trimmer Engraving Machine Woodworking Bench Router Plate Mesa De Trabajo](https://anc-electronics-n-services-inc.myshopify.com/products/multifunctional-aluminum-router-table-insert-plate-trimmer-engraving-machine-woodworking-bench-router-plate-mesa-de-trabajo): Brand Name: meterkOrigin: Mainland ChinaHigh-concerned chemical: NoneCertification: NoneModel Number: Router Table Insert PlateChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T10:11:52Z
+  Updated: 2025-12-19T12:29:44Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Woodworking Machinery & Parts - Woodworking Benches
   Availability: Available
@@ -4389,7 +4382,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H66303c5bde25412c8882a9aaef0fc86bP_ZmL5kNq.jpg?v=1765409349
     Price: $100.99 USD
 - [Oxlasers TRUE 3W 5W 5500mW 445nm 450nm Focusable Blue Laser Module Laser Engraver Part DIY Laser Head With PWM](https://anc-electronics-n-services-inc.myshopify.com/products/oxlasers-true-3w-5w-5500mw-445nm-450nm-focusable-blue-laser-module-laser-engraver-part-diy-laser-head-with-pwm): Brand Name: OxlasersCertification: CECertification: NoneOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: 5.5W 445NM
-  Updated: 2025-12-11T11:29:14Z
+  Updated: 2025-12-19T12:29:42Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Tools - Woodworking Machinery & Parts - Woodworking Machinery Parts
   Availability: Available
@@ -4407,7 +4400,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1.RJRX5rxK1RkHFCcq6AQCVXa9_ZcWGqJM.jpg?v=1765409351
     Price: $555.99 USD
 - [Walkie Talkie Long Range VHF UHF Dual Band Two Way Radio Station VOX Communicator Transceiver Powerful Walkie-Talkie KSUN UV3D](https://anc-electronics-n-services-inc.myshopify.com/products/walkie-talkie-long-range-vhf-uhf-dual-band-two-way-radio-station-vox-communicator-transceiver-powerful-walkie-talkie-ksun-uv3d): Brand Name: KSUNOrigin: Mainland ChinaWaterproof / Water-Resistant: IP65Battery Included: YesMaximum Range: 5km-10kmModel Number: X-UV3DIs_Display: YesWalkie Talkie Type: PortableHigh-concerned chemical: NoneUse: othersBattery Capacity(mAh): 4000Material: PlasticStorage Channel: 200Frequency Range: 136-174MHz/400-480MHzDimensions: 116*53*36MMOutput Power(w): 5w-10wCertification: CEType: Two Way RadioFrequency Range: 136-174MHz/400-480MHzColor: blackweight: 106gbattery capacity: 4000mAhTransmit power: 8WWalkie Talkie: YESWalkie Talkie Long Range: YESWalkie Talkie VHF: YESWalkie Talkie UHF: YESTwo Way Radio: YESRadio Transceiver: YES
-  Updated: 2025-12-11T11:29:19Z
+  Updated: 2025-12-19T12:29:40Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4415,21 +4408,21 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [XKB 2PCS / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/walkie-talkie-long-range-vhf-uhf-dual-band-two-way-radio-station-vox-communicator-transceiver-powerful-walkie-talkie-ksun-uv3d?variant=51754330095897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S57a774b8303a40199a716f61cf6e8595X_HWm4TrD.jpg?v=1765409353
-    Price: $405.99 USD
+    Price: $426.99 USD
   - [UV3D Standard / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/walkie-talkie-long-range-vhf-uhf-dual-band-two-way-radio-station-vox-communicator-transceiver-powerful-walkie-talkie-ksun-uv3d?variant=51754330128665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H086cac617d8a41a9b378fd944f3ef079w_SRmhfdn.jpg?v=1765409353
-    Price: $316.99 USD
+    Price: $333.99 USD
   - [UV3D Standard / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/walkie-talkie-long-range-vhf-uhf-dual-band-two-way-radio-station-vox-communicator-transceiver-powerful-walkie-talkie-ksun-uv3d?variant=51754330161433)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H086cac617d8a41a9b378fd944f3ef079w_SRmhfdn.jpg?v=1765409353
-    Price: $268.99 USD
+    Price: $282.99 USD
   - [XKB 2PCS / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/walkie-talkie-long-range-vhf-uhf-dual-band-two-way-radio-station-vox-communicator-transceiver-powerful-walkie-talkie-ksun-uv3d?variant=51754330194201)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S57a774b8303a40199a716f61cf6e8595X_HWm4TrD.jpg?v=1765409353
-    Price: $343.99 USD
+    Price: $361.99 USD
 - [Bamoer 925 Sterling Silver Daisy Flower & Infinity Love Pave Finger Rings for Women Wedding Engagement Jewelry SCR390](https://anc-electronics-n-services-inc.myshopify.com/products/bamoer-925-sterling-silver-daisy-flower-infinity-love-pave-finger-rings-for-women-wedding-engagement-jewelry-scr390): Material: 925 Sterling SilverOccasion: Anniversary,Engagement,Gift,Party,WeddingPackaging: Only one free velvet jewelry bag for each parcelBrand Name: bamoerModel Number: SCR390Style: TRENDYHigh-concerned chemical: NoneMetals Type: SilverCertificate: YesOrigin: Mainland ChinaMain Stone: ZirconGender: Womenis_customized: NoRings Type: Wedding BandsSetting Type: Prong SettingItem Type: RingsOccasion: EngagementItem Weight: 2.69 gSide Stone: Other Artificial materialCertificateType: GDTCFine or Fashion: FineShape\pattern: PlantCertificate Number: original design jewelryMetal Stamp: 925,SterlingChoice: yessemi_Choice: yessize_info: {"sizeInfoList":[{"length":{"cm":"49.3","inch":"19.41"},"size":"5","vid":698},{"length":{"cm":"51.9","inch":"20.43"},"size":"6","vid":1394},{"length":{"cm":"54.4","inch":"21.42"},"size":"7","vid":3434},{"length":{"cm":"57","inch":"22.44"},"size":"8","vid":699},{"length":{"cm":"59.5","inch":"23.43"},"size":"9","vid":350262},{"length":{},"size":"resizable","vid":200001539},{"length":{"cm":"62.1","inch":"24.45"},"size":"10","vid":1583}]}
-  Updated: 2025-12-14T02:25:37Z
+  Updated: 2025-12-19T12:29:38Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Jewelry & Accessories - Rings
   Availability: Available
@@ -4447,7 +4440,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S1f862121c02c4cd6b412a3925e5e0dc1g.jpg?v=1765409355
     Price: $245.99 USD
 - [VR Shinecon Casque Helmet 3D Glasses Virtual Reality for Smartphone Smart Phone Headset Goggles Binoculars Video Game Wirth Lens](https://anc-electronics-n-services-inc.myshopify.com/products/vr-shinecon-casque-helmet-3d-glasses-virtual-reality-for-smartphone-smart-phone-headset-goggles-binoculars-video-game-wirth-lens): Brand Name: AyeBeauAll-in-one Virtual Reality Glasses: NoControllers: YesSensor Type: shinecon SC-G06E SC G06EOrigin: Mainland China3D Glasses Type: Virtual RealityHigh-concerned chemical: NoneViewing Experience: ImmersiveDisplay Number: NoneCompatible Device: SmartphonesType: BinocularBattery Included: YesBase Stations: NoFOV: 90-100Package: YesCertification: NoneWireless network Type: shinecon SC-G06E SC G06EBundle: Bundle 1Ports: shinecon SC-G06E SC G06EReal-time Map Construction: NoGesture Recognition: NoModel Number: shinecon SC-G06E SC G06ECamera: NoSet Type: Controllers SetsSmart virtual reality glasses for iphone: Smart virtual reality glasses for iphone android VRVR virtual reality glasses for mobile: VR virtual reality glasses for mobile gamepadCasque vr smartphone gaming glasses kit: Casque vr smartphone gaming glasses kit caseRV glasses virtualities virtuality vr: RV glasses virtualities virtuality vr remoteVR virtual reality goggles visor lunette: VR virtual reality goggles visor lunette 3dLenses for vr glasses with controllers: Lenses for vr glasses with controllers lensThree 3 d glasses for smartphone vr: Three 3 d glasses for smartphone vr viewerSunglasses for phone vr game set movies: Sunglasses for phone vr game set movies ViarStereo glasses augmented reality wirth: Stereo glasses augmented reality wirth BinocularsMixed virtual reality lenses set smart: Mixed virtual reality lenses set smart vr Video GameChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T05:47:09Z
+  Updated: 2025-12-19T12:29:36Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Consumer Electronics - VR/AR Devices - 3D Glasses/ Virtual Reality Glasses
   Availability: Available
@@ -4481,7 +4474,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1vtqJaiHrK1Rjy0Flq6AsaFXah_ejjucuV.jpg?v=1765409356
     Price: $211.99 USD
 - [Shinecon 6.0 Casque VR Virtual Reality Glasses 3D Goggles Headset Helmet for Smartphone Smart Phone Viar Binoculars Video Game](https://anc-electronics-n-services-inc.myshopify.com/products/shinecon-6-0-casque-vr-virtual-reality-glasses-3d-goggles-headset-helmet-for-smartphone-smart-phone-viar-binoculars-video-game): Brand Name: AyeBeauAll-in-one Virtual Reality Glasses: NoControllers: YesSensor Type: Shinecon 6.0 headphoneOrigin: Mainland China3D Glasses Type: Virtual RealityHigh-concerned chemical: NoneViewing Experience: ImmersiveDisplay Number: NoneCompatible Device: SmartphonesType: BinocularBattery Included: YesBase Stations: NoFOV: Shinecon 6.0 headphonePackage: YesCertification: NoneWireless network Type: Shinecon 6.0 headphoneBundle: Bundle 1Ports: Shinecon 6.0 headphoneReal-time Map Construction: NoGesture Recognition: NoModel Number: Shinecon 6.0 headphoneCamera: NoSet Type: Controllers SetsSmart virtual reality glasses for iphone: Smart virtual reality glasses for iphone android VRVR virtual reality glasses for mobile: VR virtual reality glasses for mobile gamepadCasque vr smartphone gaming glasses kit: Casque vr smartphone gaming glasses kit caseRV glasses virtualities virtuality vr: RV glasses virtualities virtuality vr remoteVR virtual reality goggles visor lunette: VR virtual reality goggles visor lunette 3dLenses for vr glasses with controllers: Lenses for vr glasses with controllers lensThree 3 d glasses for smartphone vr: Three 3 d glasses for smartphone vr viewerSunglasses for phone vr game set movies: Sunglasses for phone vr game set movies ViarStereo glasses augmented reality wirth: Stereo glasses augmented reality wirth BinocularsMixed virtual reality lenses set smart: Mixed virtual reality lenses set smart vr Video GameChoice: yessemi_Choice: yes
-  Updated: 2025-12-12T00:31:37Z
+  Updated: 2025-12-19T12:29:34Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Consumer Electronics - VR/AR Devices - 3D Glasses/ Virtual Reality Glasses
   Availability: Available
@@ -4511,7 +4504,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1F8GkLkvoK1RjSZFwq6AiCFXaJ_hmNltF0.jpg?v=1765409358
     Price: $231.99 USD
 - [VR Shinecon 10.0 Helmet 3D Glasses Virtual Reality Casque for Smartphone Smart Phone Goggles Headset Viar Video Game Binoculars](https://anc-electronics-n-services-inc.myshopify.com/products/vr-shinecon-10-0-helmet-3d-glasses-virtual-reality-casque-for-smartphone-smart-phone-goggles-headset-viar-video-game-binoculars): Brand Name: AyeBeauAll-in-one Virtual Reality Glasses: NoControllers: YesSensor Type: vr Shinecon 10.0 headphone SC-G04EA SC G04EAOrigin: Mainland China3D Glasses Type: Virtual RealityHigh-concerned chemical: NoneViewing Experience: ImmersiveDisplay Number: SingleCompatible Device: SmartphonesType: BinocularBattery Included: YesBase Stations: NoFOV: vr Shinecon 10.0 headphone SC-G04EA SC G04EAPackage: YesCertification: NoneWireless network Type: vr Shinecon 10.0 headphone SC-G04EA SC G04EABundle: Bundle 1Ports: vr Shinecon 10.0 headphone SC-G04EA SC G04EAReal-time Map Construction: NoGesture Recognition: NoModel Number: vr Shinecon 10.0 headphone SC-G04EA SC G04EACamera: NoSet Type: Controllers SetsSmart virtual reality glasses for iphone: Smart virtual reality glasses for iphone android VRVR virtual reality glasses for mobile: VR virtual reality glasses for mobile gamepadCasque vr smartphone gaming glasses kit: Casque vr smartphone gaming glasses kit caseRV glasses virtualities virtuality vr: RV glasses virtualities virtuality vr remoteVR virtual reality goggles visor lunette: VR virtual reality goggles visor lunette 3dLenses for vr glasses with controllers: Lenses for vr glasses with controllers lensThree 3 d glasses for smartphone vr: Three 3 d glasses for smartphone vr viewerSunglasses for phone vr game set movies: Sunglasses for phone vr game set movies ViarStereo glasses augmented reality wirth: Stereo glasses augmented reality wirth BinocularsMixed virtual reality lenses set smart: Mixed virtual reality lenses set smart vr Video GameChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:29:28Z
+  Updated: 2025-12-19T12:29:41Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Consumer Electronics - VR/AR Devices - 3D Glasses/ Virtual Reality Glasses
   Availability: Available
@@ -4541,7 +4534,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1vcbRaUvrK1RjSszfq6xJNVXaq_XLsJXs4.jpg?v=1765409359
     Price: $345.99 USD
 - [Latest Version TYT TH-9800Plus Quad Band 29/50/144/430MHz 50W Walkie Talkie Upgraded TH9800 Dual Display Mobile Radio Station](https://anc-electronics-n-services-inc.myshopify.com/products/latest-version-tyt-th-9800plus-quad-band-29-50-144-430mhz-50w-walkie-talkie-upgraded-th9800-dual-display-mobile-radio-station): Brand Name: TYTOrigin: Mainland ChinaWaterproof / Water-Resistant: IP55Battery Included: NoMaximum Range: 10km-50kmModel Number: TH-9800 PLUSIs_Display: YesWalkie Talkie Type: CarHigh-concerned chemical: NoneUse: Motor vehicleBattery Capacity(mAh): depend on radioMaterial: Platics+metalStorage Channel: 809 ChannelsFrequency Range: 29/50/144/430MHz US Version 144-148/420-450MHzDimensions: 140*41.5*168 mmOutput Power(w): 25w-50wCertification: CEfeature: ctcss/dcs
-  Updated: 2025-12-15T01:14:18Z
+  Updated: 2025-12-19T12:29:31Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4555,7 +4548,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sccd313d3f19a4ab5889f6be2a1397eeaW.jpg?v=1765409361
     Price: $1,630.99 USD
 - [Latest Version Mini Mobile Radio QYT KT-7900D 25W Quad Band 144/220/350/440MHz KT7900D UV Transceiver or With Power Supply](https://anc-electronics-n-services-inc.myshopify.com/products/latest-version-mini-mobile-radio-qyt-kt-7900d-25w-quad-band-144-220-350-440mhz-kt7900d-uv-transceiver-or-with-power-supply): Brand Name: QYTQyt Model: analogOrigin: Mainland ChinaWaterproof / Water-Resistant: IP55Battery Included: NoMaximum Range: 10km-50kmModel Number: KT-7900D-blackIs_Display: YesWalkie Talkie Type: CarHigh-concerned chemical: NoneUse: Motor vehicleBattery Capacity(mAh): depends on radioMaterial: PLASTIC+MetalStorage Channel: 200Frequency Range: VHF:136-174MHz ; 220-270Mhz UHF:350-390MHz ; 400-480MHzDimensions: 98(W) x 35(H) x 118(D)mmOutput Power(w): 10w-25wCertification: CE
-  Updated: 2025-12-12T12:34:05Z
+  Updated: 2025-12-19T12:29:29Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4577,7 +4570,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Ha146c658f72c434bab7f09471e4144460_JOxyLGR.jpg?v=1765409364
     Price: $523.99 USD
 - [Nagoya RE-02 Antenna UHF-F 10-1300MHz Antenna Ground Redical for Car Mobile Radio Strengthen Omnidirectional Antenna](https://anc-electronics-n-services-inc.myshopify.com/products/nagoya-re-02-antenna-uhf-f-10-1300mhz-antenna-ground-redical-for-car-mobile-radio-strengthen-omnidirectional-antenna): Brand Name: NoEnName_NullItem Type: AntennaOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: RE-02Frequency: 10-1300MHz
-  Updated: 2025-12-14T00:24:52Z
+  Updated: 2025-12-19T12:29:27Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4591,7 +4584,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfb8f8c9b44d941d5b2b1935728ae0512B.jpg?v=1765409365
     Price: $43.99 USD
 - [BAOJIE BJ-318 25W Car Walkie Talkie Dual Band 136-174&400-490MHz FM Radio With Encryption Function Upgrade Version of BJ-218](https://anc-electronics-n-services-inc.myshopify.com/products/baojie-bj-318-25w-car-walkie-talkie-dual-band-136-174-400-490mhz-fm-radio-with-encryption-function-upgrade-version-of-bj-218): Brand Name: BaoJieBaojie Model: BJ-318Origin: Mainland ChinaWaterproof / Water-Resistant: IP55Battery Included: NoMaximum Range: 10km-50kmModel Number: BJ-318Is_Display: YesWalkie Talkie Type: CarHigh-concerned chemical: NoneUse: Motor vehicleBattery Capacity(mAh): -Material: plastic+metalStorage Channel: 256Frequency Range: VHF:136-174MHz &UHF:400-490MHzDimensions: 105x30x106mmOutput Power(w): 10w-25wCertification: CE
-  Updated: 2025-12-11T11:29:33Z
+  Updated: 2025-12-19T12:29:25Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4605,7 +4598,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H96eb35d7bbc14740abdeef5567adf8bbF_dBagRSd.png?v=1765409368
     Price: $480.99 USD
 - [NanoVNA-F VNA SWR Meter VHF UHF Antenna Analyzer 1.5GHz + 4.3 IPS LCD + Metal Case Deepelec](https://anc-electronics-n-services-inc.myshopify.com/products/nanovna-f-vna-swr-meter-vhf-uhf-antenna-analyzer-1-5ghz-4-3-ips-lcd-metal-case-deepelec): Brand Name: DEEPELECHigh-concerned chemical: NoneOrigin: Mainland ChinaType: Modular AdaptersPackage: YesModel Number: NanoVNA-F
-  Updated: 2025-12-11T11:29:35Z
+  Updated: 2025-12-19T12:29:24Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4631,7 +4624,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H14ece1a2c0584c5dab184f77404b6b99G_P9OFdIJ.png?v=1765409370
     Price: $784.99 USD
 - [1/2pcs Baofeng BF-T20 Mini Walkie Talkie UHF 400-470mHz Support USB Charging 16 Channels Ham CB Portable Radio BF-888S](https://anc-electronics-n-services-inc.myshopify.com/products/1-2pcs-baofeng-bf-t20-mini-walkie-talkie-uhf-400-470mhz-support-usb-charging-16-channels-ham-cb-portable-radio-bf-888s): Brand Name: BAOFENGBattery Capacity(mAh): 1500Origin: Mainland ChinaWaterproof / Water-Resistant: IP45Maximum Range: 3km-5kmModel Number: BF-V9Is_Display: NoWalkie Talkie Type: PortableOutput Power(w): 3w-5wMaterial: PlasticStorage Channel: 16Frequency Range: 400-470MHzDimensions: 21*54*135mmCertification: CECertification: FCCFeature 1: Battery saving functionFeature 2: Alarm functionFeature 3: USB rapid chargeFeature 4: VOXsister 1: BF-C9ster 2: BF-888Ssister 3: KD-C1sister 4: baofeng BF-R5
-  Updated: 2025-12-11T11:29:43Z
+  Updated: 2025-12-19T12:29:22Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4789,7 +4782,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd078f875ad494f9f954e0b84c798e575X_tuFX1aY.jpg?v=1765409374
     Price: $85.99 USD
 - [New ANYSECU Mini CB Radio CB-40M 25.615-30.105MHz 10 Meter Radio 8W AM/FM Citizen Band Transceiver AR-925](https://anc-electronics-n-services-inc.myshopify.com/products/new-anysecu-mini-cb-radio-cb-40m-25-615-30-105mhz-10-meter-radio-8w-am-fm-citizen-band-transceiver-ar-925): Brand Name: ANYSECUOrigin: Mainland ChinaWaterproof / Water-Resistant: IP55Battery Included: NoMaximum Range: 3km-5kmModel Number: A-CB-40MIs_Display: YesWalkie Talkie Type: CarHigh-concerned chemical: NoneUse: Motor vehicleBattery Capacity(mAh): -Material: Plastic and metalStorage Channel: 9/19Frequency Range: 25.615--30.105MHzDimensions: 109x109x28mmOutput Power(w): 3w-5wCertification: CE
-  Updated: 2025-12-14T01:07:15Z
+  Updated: 2025-12-19T12:29:20Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4827,21 +4820,21 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1WHWVaAT2gK0jSZFkq6AIQFXaW_o3xmx9K.jpg?v=1765409375
     Price: $387.99 USD
 - [Intel Core I5 480M 2.66GHz Notebook Processor SLC27](https://anc-electronics-n-services-inc.myshopify.com/products/intel-core-i5-480m-2-66ghz-notebook-processor-slc27): Brand Name: IntelIntel Model: i5 480MApplication: LaptopSupport Chipset Models: Intel OthersProcessor Type: Intel CoreDefault TDP / TDP: 35Number OF Therads: 4Support Memory Type: DDR3Origin: Mainland ChinaSocket Type: Socket G1 / RPGA988AGPU-built: YesCooling system: NoSupport Memory Channels: 2PCIe VERSION: PCIe 2.0Usage Scenario: GamingChip Process: 32 NanometersUnlocked: NoType: Dual-Core
-  Updated: 2025-12-11T11:29:43Z
+  Updated: 2025-12-19T12:29:18Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - CPUs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S233eb42d2eb24865b9560faf1cc08a20D_GwmXw1X.jpg?v=1765409379
   Price: $61.99 USD
 - [RGEEK EPS CPU 12V 8Pin Female to Dual 8Pin (4+4)Pin EPS 12V Male Motherboard Power Supply Cable Y Splitter Adapter Sleeve](https://anc-electronics-n-services-inc.myshopify.com/products/rgeek-eps-cpu-12v-8pin-female-to-dual-8pin-4-4pin-eps-12v-male-motherboard-power-supply-cable-y-splitter-adapter-sleeve): Brand Name: RGeekModel Number: CPU 8PIN to 2 8PINPackage: YesOrigin: Mainland ChinaCertification: CEType: Power CableChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T19:56:28Z
+  Updated: 2025-12-19T12:29:16Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cables & Connectors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H11e03c4c979e4fc9b946a54e7372bf06p_N85OkFk.jpg?v=1765409383
   Price: $18.99 USD
 - [6PCS Zastone X6 Mini Walkie Talkie 400-470 UHF Walkie Talkie Portable Handheld Radio Comunicador Two-Way Ham Radio](https://anc-electronics-n-services-inc.myshopify.com/products/6pcs-zastone-x6-mini-walkie-talkie-400-470-uhf-walkie-talkie-portable-handheld-radio-comunicador-two-way-ham-radio): Storage Channel: 16Battery: 1100mAh Li-ion BatteryKeyword: Cheap Walkie-Talkies For SaleFeature: Radio ComunicadorKeywords: Portable RadiosNew: Two-Way RadioName: Mini Walkie TalkieMain Words: Ham RadioType: Two Way RadioType2: walkie talkie kidsBrand Name: ZASTONEModel Number: ZT-X6Frequency Range: 400-470 mhzWalkie Talkie Type: PortableIs_Display: NoMaterial: PlasticWaterproof / Water-Resistant: NoMaximum Range: 3km-5kmDimensions: 96*55*22mmBattery Capacity(mAh): 1100mAhOrigin: Mainland ChinaCertification: FCCOutput Power(w): 0.5w-3wChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T15:05:43Z
+  Updated: 2025-12-19T12:29:14Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Walkie Talkie
   Availability: Available
@@ -4867,28 +4860,28 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H2b77653a0fce4c09984d8f20a7e4559cr_gXh6IbJ.jpg?v=1765409385
     Price: $495.99 USD
 - [Intel Core I7 2670QM 2.2GHz Notebook Processor SR02N](https://anc-electronics-n-services-inc.myshopify.com/products/intel-core-i7-2670qm-2-2ghz-notebook-processor-sr02n): Brand Name: IntelIntel Model: Intel Core i7-2670QMApplication: LaptopSupport Chipset Models: Intel OthersProcessor Type: Intel CoreDefault TDP / TDP: 45Number OF Therads: 8Support Memory Type: DDR3Origin: Mainland ChinaSocket Type: Socket G2GPU-built: YesCooling system: NoSupport Memory Channels: 2PCIe VERSION: PCIe 2.0Usage Scenario: OfficeChip Process: 32 NanometersUnlocked: NoType: Quad-CoreChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:29:49Z
+  Updated: 2025-12-19T12:29:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - CPUs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd87a212fb4104bf5a467076681ccd26av_azdXY2f.jpg?v=1765409385
   Price: $183.99 USD
 - [Intel Xeon E5 2678 V3 2678V3 2.5GHz LGA 2011-3 Cpu Processor](https://anc-electronics-n-services-inc.myshopify.com/products/intel-xeon-e5-2678-v3-2678v3-2-5ghz-lga-2011-3-cpu-processor): Brand Name: IntelIntel Model: E5 2678 V3Application: ServerSupport Chipset Models: Intel OthersProcessor Type: Intel XeonDefault TDP / TDP: 120Number OF Therads: 24Support Memory Type: DDR4Origin: Mainland ChinaSocket Type: LGA 2011-3GPU-built: NoCooling system: NoSupport Memory Channels: 2PCIe VERSION: PCIe 3.0Usage Scenario: GamingChip Process: 22 NanometersUnlocked: NoType: Twelve-Core
-  Updated: 2025-12-11T11:29:51Z
+  Updated: 2025-12-19T12:29:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - CPUs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S47887a83d3c64a5baab93acbef4d3684U.jpg?v=1765409386
   Price: $238.99 USD
 - [Intel Core I5-4690 I5 4690 3.5 GHz Used Quad-Core CPU  6M 84W LGA 1150](https://anc-electronics-n-services-inc.myshopify.com/products/intel-core-i5-4690-i5-4690-3-5-ghz-used-quad-core-cpu-6m-84w-lga-1150): Brand Name: IntelIntel Model: Intel Core i5-4690Application: DesktopSupport Chipset Models: Intel H81Processor Type: Intel core i5Default TDP / TDP: 84Number OF Therads: 4Support Memory Type: DDR3Origin: MY(Origin)Socket Type: LGA1150High-concerned chemical: NoneGPU-built: YesCooling system: NoSupport Memory Channels: 2PCIe VERSION: PCIe 2.0Usage Scenario: othersChip Process: 22 NanometersUnlocked: YesType: Quad-CoreNumber of Cores: Quad-CoreL3 Cache Capacity: 6 MBLaunch Date: 2004Package: NoL2 Cache Capacity: 1 MBWarranty: One year Warranty
-  Updated: 2025-12-11T11:29:54Z
+  Updated: 2025-12-19T12:29:09Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - CPUs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0260338009164e909e4ffb04c0a82d5e1.jpg?v=1765409390
   Price: $223.99 USD
 - [EZCAP USB 2.0 HD Video Capture TV DVD VHS DVR Analog Video Recorder Grabber Adapter Audio to Digital Converte for Windows 10/8/7](https://anc-electronics-n-services-inc.myshopify.com/products/ezcap-usb-2-0-hd-video-capture-tv-dvd-vhs-dvr-analog-video-recorder-grabber-adapter-audio-to-digital-converte-for-windows-10-8-7): Brand Name: WDYAJConnector B: RCAGender: FemaleModel Number: EZCAP170Package: NoFeature: NoneOuter Diameter: 4cmCertification: CEHigh-concerned chemical: NoneOrigin: Mainland ChinaType: USB CablesApplication: MultimediaApplication: ProjectorApplication: TelevisionApplication: TV boxConnector A: USB
-  Updated: 2025-12-13T19:11:38Z
+  Updated: 2025-12-19T12:29:07Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Video & TV Tuner Cards
   Availability: Available
@@ -4902,7 +4895,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1yMa.XJfvK1RjSszhq6AcGFXa8_d9VhTOw.jpg?v=1765409391
     Price: $223.99 USD
 - [Single Mode Fiber Patch Cord Jumper, SC APC to SC UPC, 2.0mm, 3.0mm, PVC Fiber Optic Patch Cable, 10 Pack](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack): Brand Name: LangzhiHigh-concerned chemical: NoneModel Number: SC APC to SC UPCOrigin: Mainland ChinaCertification: CECertification: RoHSItem Length: 3mFiber Type: Single ModeConnector Type: SC/APCModel Number: SC fiber optic patch cordConnector: SC APC to SC UPCFerrule Polish: PC/UPC/APCIL: 0.08-0.3dBRL: 50dBLoose Tube Diameter: 0.9mm 2.0mm 3.0mmLength: 1m 2m 3m 5m 7m 10mWhether to customize the product: yesQuality standards: Telecom Grade,Carrier-ClassQuantity: 10PCSPlace of origin: China
-  Updated: 2025-12-11T11:30:03Z
+  Updated: 2025-12-19T12:29:05Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Communication Equipments - Fiber Optic Equipments
   Availability: Available
@@ -4910,36 +4903,36 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [1M-10PCS](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack?variant=51754334159129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/See00cf88ae4449a3860041164d316b55O_7c3Jtxg.jpg?v=1765409393
-    Price: $69.99 USD
+    Price: $76.99 USD
   - [3M-10PCS](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack?variant=51754334191897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/See00cf88ae4449a3860041164d316b55O_7c3Jtxg.jpg?v=1765409393
-    Price: $79.99 USD
+    Price: $87.99 USD
   - [2M-10PCS](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack?variant=51754334224665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/See00cf88ae4449a3860041164d316b55O_7c3Jtxg.jpg?v=1765409393
-    Price: $73.99 USD
+    Price: $83.99 USD
   - [10M-PCS](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack?variant=51754334257433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/See00cf88ae4449a3860041164d316b55O_7c3Jtxg.jpg?v=1765409393
-    Price: $167.99 USD
+    Price: $183.99 USD
   - [5M-10PCS](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack?variant=51754334290201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/See00cf88ae4449a3860041164d316b55O_7c3Jtxg.jpg?v=1765409393
-    Price: $141.99 USD
+    Price: $154.99 USD
   - [15-10PCS](https://anc-electronics-n-services-inc.myshopify.com/products/single-mode-fiber-patch-cord-jumper-sc-apc-to-sc-upc-2-0mm-3-0mm-pvc-fiber-optic-patch-cable-10-pack?variant=51754334322969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/See00cf88ae4449a3860041164d316b55O_7c3Jtxg.jpg?v=1765409393
-    Price: $179.99 USD
+    Price: $196.99 USD
 - [Intel Core I5-3470 I5 3470 3.2 GHz Used Quad-Core CPU  6M 77W LGA 1155](https://anc-electronics-n-services-inc.myshopify.com/products/intel-core-i5-3470-i5-3470-3-2-ghz-used-quad-core-cpu-6m-77w-lga-1155): Brand Name: IntelIntel Model: Intel Core i5-3470Application: DesktopSupport Chipset Models: Intel B75Processor Type: Intel core i5Default TDP / TDP: 77Number OF Therads: 4Support Memory Type: DDR3Origin: MY(Origin)Socket Type: LGA 1155High-concerned chemical: NoneGPU-built: YesCooling system: NoSupport Memory Channels: 2PCIe VERSION: PCIe 2.0Usage Scenario: othersChip Process: 22 NanometersUnlocked: YesType: Quad-CoreNumber of Cores: Quad-CoreL3 Cache Capacity: 6 MBLaunch Date: 2004Package: NoL2 Cache Capacity: 1 MBWarranty: One year warranty
-  Updated: 2025-12-11T11:29:58Z
+  Updated: 2025-12-19T12:29:04Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - CPUs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S99251667b3024b9f8bd6d57f2c5da8e9Q.jpg?v=1765409394
-  Price: $134.99 USD
+  Price: $162.99 USD
 - [ELP 1280*720 HD USB Webcam 5-50mm Varifocal Lens OV9712 CMOS Surveillance Machine Vision USB Web Camera](https://anc-electronics-n-services-inc.myshopify.com/products/elp-1280-720-hd-usb-webcam-5-50mm-varifocal-lens-ov9712-cmos-surveillance-machine-vision-usb-web-camera): Brand Name: ELPOrigin: Mainland ChinaMax. Resolution: 1280x720Certification: CECertification: FCCCertification: RoHSPixels: ≤ 1 MegaAuto Focus: NoInterface Type: USBPackage: YesImage Sensor: CMOSMax.resolution: 1280x 720Sensor: CMOS OV9712USB2.0 Camera: Compatible with all kinds of industrial fieldHigh Speed USB2.0: 30 fps in 1280 x 720UVC Camera: device developing for Mac OS,Linux ,Android,Windows CE, Windows XP SP2Plug and Play: driverless free driverlens: 5-50mm megapixel varifocal lenscable: 3m (2/5m optional)Output format: YUY2 and MJPEGModel No.: ELP-USB100W03M-SFV(5-50mm)
-  Updated: 2025-12-11T11:30:00Z
+  Updated: 2025-12-19T12:29:02Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Webcams
   Availability: Available
@@ -4957,14 +4950,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3d2c1802528e422f93aab14b879669a6D.jpg?v=1765409396
     Price: $366.99 USD
 - [AMD Phenom II X4 945 95W 3.0GHz Used Quad-Core CPU Processor HDX945WFK4DGM /HDX945WFK4DGI Socket AM3](https://anc-electronics-n-services-inc.myshopify.com/products/amd-phenom-ii-x4-945-95w-3-0ghz-used-quad-core-cpu-processor-hdx945wfk4dgm-hdx945wfk4dgi-socket-am3): Brand Name: AMDAMD Model: AMD Phenom II X4 945Application: DesktopSupport Chipset Models: AMD 780L/760GProcessor Type: AMD PhenomDefault TDP / TDP: 95Number OF Therads: 4Support Memory Type: DDR3Origin: MY(Origin)Socket Type: Socket AM3High-concerned chemical: NoneGPU-built: YesCooling system: NoSupport Memory Channels: 2PCIe VERSION: PCIe 2.0Usage Scenario: othersChip Process: 45 NanometersUnlocked: YesType: Quad-CoreNumber of Cores: Quad-CoreL3 Cache Capacity: 6 MBLaunch Date: 2010Package: NoL2 Cache Capacity: 2MBWarranty: One year warranty
-  Updated: 2025-12-14T06:01:07Z
+  Updated: 2025-12-19T12:29:00Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - CPUs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfa97459ca8794b3581db26da7831f3d3Z.jpg?v=1765409396
   Price: $111.99 USD
 - [GK61 SK61 61 Key Mechanical Keyboard USB Wired LED Backlit Axis Gaming Mechanical Keyboard Gateron Optical Switches Jy17 19](https://anc-electronics-n-services-inc.myshopify.com/products/gk61-sk61-61-key-mechanical-keyboard-usb-wired-led-backlit-axis-gaming-mechanical-keyboard-gateron-optical-switches-jy17-19): Brand Name: ANHTCzyxOrigin: Mainland ChinaOperation Style: MechanicalLanguage: EnglishLanguage: RussianLanguage: JapaneseLanguage: UKLanguage: BrazilianLanguage: FrenchLanguage: EuropeHigh-concerned chemical: NoneType: WiredApplication: DesktopBattery Included: NoKeyboard Standard: Mini KeyboardStyle: StandardStyle: SlimStyle: MultimediaStyle: Numeric KeyboardStyle: WaterproofStyle: ErgonomicsStyle: GamingStyle: MiniStyle: Multifunctional KeyboardSwitches manufacturer: GATERONCertification: NonePackage: YesKeycup printing: OtherKeycup material: Abs plasticBacklight Type: No backlightInterface Type: USBAxis Body Brand: OYLWrist Support: NoSwitches Hot swap: NoFull Size keyboard: NoItem Type: USB Wired KeyboardItem Type: USB Wired KeyboardMaterial: ABSColor: WhiteAxis Body Type: Blue/Red/Black/BrownBacklight Type: RGB LightKeys: 61 keysConnection: WiredInterface: USB 3.1 Type CPower Supply: USB PortQuantity: 1 SetItem Type: USB Wired KeyboardMaterial: ABSColor: WhiteAxis Body Type: Blue/Red/Black/BrownBacklight Type: RGB LightKeys: 61 keysConnection: WiredInterface: USB 3.1 Type CPower Supply: USB PortQuantity: 1 Set
-  Updated: 2025-12-12T00:24:28Z
+  Updated: 2025-12-19T12:28:58Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Mouse & Keyboards
   Availability: Available
@@ -5066,14 +5059,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H21a7fde293e940a0b5b2481a16afff6bm_GL0AgCD.jpg?v=1765409399
     Price: $375.99 USD
 - [2 in 1 FTTH Fiber Optic Tool Kit King-60s Optical Power Meter -70 to +10dBm and 10mW Visual Fault Locator Fiber Optic Test Pen](https://anc-electronics-n-services-inc.myshopify.com/products/2-in-1-ftth-fiber-optic-tool-kit-king-60s-optical-power-meter-70-to-10dbm-and-10mw-visual-fault-locator-fiber-optic-test-pen): Brand Name: VIJEIWireless function: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaConnector Type: SC/FC/STModel Number: FTTH TOOL KIT
-  Updated: 2025-12-11T11:30:05Z
+  Updated: 2025-12-19T12:28:56Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Cellphones & Telecommunications - Communication Equipments - Fiber Optic Equipments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1gDcuSFXXXXXwXFXXq6xXFXXXN_PV8sPW1.jpg?v=1765409400
   Price: $165.99 USD
 - [Metal Aluminum Mouse Pad Mat Hard Smooth Magic Thin Mousead Double Side Waterproof Fast and Accurate Control for Office Home](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home): Brand Name: VAYDEERModel Number: ych-001Style: MetalPackage: YesMaterial: aluminumHigh-concerned chemical: NoneOrigin: Mainland ChinaProducts Status: STOCKChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:30:08Z
+  Updated: 2025-12-20T11:15:17Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Mouse & Keyboards
   Availability: Available
@@ -5081,43 +5074,29 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [large black](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home?variant=51754335699225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S04cabfca29df450ea89b9d0cc79073e4C.jpg?v=1765409402
-    Price: $177.99 USD
+    Price: $182.99 USD
   - [small silver](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home?variant=51754335731993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sc90ca49abff9442aada7347fc52408e6O.jpg?v=1765409402
-    Price: $78.99 USD
+    Price: $81.99 USD
   - [medium silver](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home?variant=51754335764761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S4cf44ae9e3084c4090205889e2379e9bb.jpg?v=1765409401
-    Price: $97.99 USD
+    Price: $102.99 USD
   - [mini silver](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home?variant=51754335797529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sf19c68a1805e4064b4c3cbd426db40b0D.jpg?v=1765409402
-    Price: $61.99 USD
+    Price: $64.99 USD
   - [medium black](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home?variant=51754335830297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3e249cf6427f447e8389c53cabba6bf1b.jpg?v=1765409402
-    Price: $105.99 USD
+    Price: $110.99 USD
   - [large silver](https://anc-electronics-n-services-inc.myshopify.com/products/metal-aluminum-mouse-pad-mat-hard-smooth-magic-thin-mousead-double-side-waterproof-fast-and-accurate-control-for-office-home?variant=51754335863065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2ce6d6946c78493dac1e218ac26a4e7dH.jpg?v=1765409402
-    Price: $180.99 USD
-- [Beelink Mate SE Docking Station Thunderblot 5 High Speed M.2 SSD Expansion for Ser8 SER 9 Pro SEi14 MINI PC Laptop Game Computer](https://anc-electronics-n-services-inc.myshopify.com/products/beelink-mate-se-docking-station-thunderblot-5-high-speed-m-2-ssd-expansion-for-ser8-ser-9-pro-sei14-mini-pc-laptop-game-computer): Brand Name: BeelinkFuntion: Card ReaderFuntion: RJ45Funtion: USB-CFuntion: ThunderboltPorts: 1High-concerned chemical: NoneOrigin: Mainland ChinaInterface Type: USB Type-CSSD/HDD Slot: M.2Package: YesModel Number: Mate SEStandard: Thunderbolt5Certification: CECompatible Systems: Windows
-  Updated: 2025-12-11T16:03:41Z
-  Vendor: ANC Electronics N Services Inc
-  Product Type: Computer & Office - Computer Peripherals - Mouse & Keyboards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S834e260ca208437d966bae431d8030a5Z.jpg?v=1765409403
-  - [CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/beelink-mate-se-docking-station-thunderblot-5-high-speed-m-2-ssd-expansion-for-ser8-ser-9-pro-sei14-mini-pc-laptop-game-computer?variant=51754335895833)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd6a8fa10056b46bbb0e05aee3667ac67V.jpg?v=1765409403
-    Price: $1,335.99 USD
-  - [Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/beelink-mate-se-docking-station-thunderblot-5-high-speed-m-2-ssd-expansion-for-ser8-ser-9-pro-sei14-mini-pc-laptop-game-computer?variant=51754335928601)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd6a8fa10056b46bbb0e05aee3667ac67V.jpg?v=1765409403
-    Price: $834.99 USD
+    Price: $185.99 USD
 - [13.5 Inch 3K IPS a Screen 480cd/M Portable Gaming Monitor Display HDMI Type C USB for Phone PC Switch PS5 Xbox Macbook Laptop](https://anc-electronics-n-services-inc.myshopify.com/products/13-5-inch-3k-ips-a-screen-480cd-m-portable-gaming-monitor-display-hdmi-type-c-usb-for-phone-pc-switch-ps5-xbox-macbook-laptop): Brand Name: XIAN WEIDisplay Ratio: 16:9Bracket Type: Ordinary BracketHigh-concerned chemical: NoneDisplay Size: 13.3High-Dynamic Range: HDR400Resolution: 3840x2160Screen curvature: NoneOrigin: Mainland ChinaHorizontal Viewing Angle: 170°Panel Type: IPSVertical Viewing Angle: 170°Interface Type: HDMI-CompatibleMatrix color depth: 8 bit + FRCRefresh rate sync technology: AMD FreeSyncBlack and White Response Time: 5 msScreen Type: LCDPlug Type: EU PlugBuilt-in Speaker: YesBrightness: 340 cd/mPixel Pitch: 0.243mmScreen surface: GlossyApplication: LaptopContrast Ratio: 1000:1Launch Date: 2017Feature: Usb portFeature: SpeakerFeature: GamingFeature: Vertical modeProducts Status: STOCKCertification: CECertification: FCCCertification: RoHSContrast Ratio: 1200:1Refresh Rate: 60 HzResponse Time: 3msBrand Name: XIANWEIXIANWEI Model: 135UC-1INTERFACE PORT 1: Mini HDMI x 1INTERFACE PORT 2: Type C x 2Resolution: 3000x2000
-  Updated: 2025-12-13T20:35:09Z
+  Updated: 2025-12-19T12:28:48Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Monitors & Accessories
   Availability: Available
@@ -5143,14 +5122,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S9cb489d5a4a24d0c9e8080e2c5d179c4x.jpg?v=1765409404
     Price: $612.99 USD
 - [SDI HDMI Video Capture  Recorder With Remote Control Support FOOTSWITCH for Medical Device No Pc Need Mic Sd Card Usb Flash Disk](https://anc-electronics-n-services-inc.myshopify.com/products/sdi-hdmi-video-capture-recorder-with-remote-control-support-footswitch-for-medical-device-no-pc-need-mic-sd-card-usb-flash-disk): Brand Name: EzcapOrigin: Mainland ChinaModel Number: 286Package: YesType: Video & TV Tuner CardsInterface Type: USB
-  Updated: 2025-12-11T11:30:10Z
+  Updated: 2025-12-19T12:28:45Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Components - Video & TV Tuner Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H635a387b08394dfbaa9d7b9d99b13e11d_6febSiW.jpg?v=1765409407
   Price: $1,070.99 USD
 - [7 Inch BNC Monitor Small LCD Monitor/Hdmi Lcd Monitor Portable LCD Monitor With BNC/VGA/HDMI Two Speakers  Capacitive Touch](https://anc-electronics-n-services-inc.myshopify.com/products/7-inch-bnc-monitor-small-lcd-monitor-hdmi-lcd-monitor-portable-lcd-monitor-with-bnc-vga-hdmi-two-speakers-capacitive-touch): Brand Name: ZGYNKDisplay Ratio: 16:9Bracket Type: Ordinary BracketHigh-concerned chemical: NoneDisplay Size: 7High-Dynamic Range: NoneResolution: 1024x600Screen curvature: NoneOrigin: Mainland ChinaHorizontal Viewing Angle: 160°Panel Type: TFTVertical Viewing Angle: 160°Interface Type: VGAScreen Type: LEDBuilt-in Speaker: NoBrightness: 300cd/mPixel Pitch: 0.249mmApplication: DesktopContrast Ratio: 400:1Certification: CEResponse Time: 8ms
-  Updated: 2025-12-11T11:30:15Z
+  Updated: 2025-12-19T12:28:44Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Monitors & Accessories
   Availability: Available
@@ -5172,7 +5151,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Ha58c5f9c9fbf4ac08eded10ea486f96cc_lWYJKr2.jpg?v=1765409409
     Price: $302.99 USD
 - [CHYI Ergonomic Vertical Mouse 2.4G Wireless Right Left Hand Computer Gaming Mice 6D USB Optical Mouse Gamer Mause for Laptop PC](https://anc-electronics-n-services-inc.myshopify.com/products/chyi-ergonomic-vertical-mouse-2-4g-wireless-right-left-hand-computer-gaming-mice-6d-usb-optical-mouse-gamer-mause-for-laptop-pc): Brand Name: CHYIBattery Included: NoType: 2.4Ghz WirelessHigh-concerned chemical: NoneOrigin: Mainland ChinaOperation Mode: Opto-electronicHand Orientation: RightDPI: 1600Package: NoPower Type: BatteryStyle: 3dStyle: DPI adjust buttonTime to market: Dec-04Certification: CENumber of Rollers: 1 pcsGross Weight: 110Number of Buttons: 5Interface Type: USBDimension:: 125*65*82 mmAdjustable DPI: 800-1200-1600Color: BlackApplication: Laptop,Desktop,For Home Use,Laptop,For Video Game,For Office UseTracking Method: OpticalItem: Ergonomic Vertical MouseType1: Wireless Left Hand Computer Gaming MiceName: 5D USB Optical Mouse GamerPackage: PE BagType2: Wireless Right Hand Computer Gaming Mice
-  Updated: 2025-12-11T11:30:14Z
+  Updated: 2025-12-19T12:28:42Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Mouse & Keyboards
   Availability: Available
@@ -5186,7 +5165,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5d376d6bcb24407699a50eb1513000831_BpE4SaY.jpg?v=1765409410
     Price: $88.99 USD
 - [PC Mousepad Persian Carpet Style Rubber Anti-Slip Durable Printing Rectangle Gaming Mouse Pads Computer Tablet Mat](https://anc-electronics-n-services-inc.myshopify.com/products/pc-mousepad-persian-carpet-style-rubber-anti-slip-durable-printing-rectangle-gaming-mouse-pads-computer-tablet-mat): Brand Name: JONSNOWHigh-concerned chemical: NoneMaterial: RubberOrigin: Mainland ChinaProducts Status: STOCKStyle: Radiation ProtectionModel Number: mousepadPackage: YesFeature: Locking Edge Mouse MatDrop Shipping: SupportSize: 180x260mm size including tassels 3 mm thicknessColor: as photo showSurface Material: High Temperature Resistant ClothBottom Material: RubberApplication: Games / Home Decor / Coaster / OfficeChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T14:23:11Z
+  Updated: 2025-12-19T12:28:40Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Mouse & Keyboards
   Availability: Available
@@ -5232,7 +5211,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hf09b439ed2c44ad0b89b85017ab1318b3_l0mAZhz.jpg?v=1765409411
     Price: $26.99 USD
 - [CHIPAL A4 LED Drawing Tablet Digital Graphics Pad USB LED Light Box Copy Board Electronic Art Graphic Painting Writing Table](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-a4-led-drawing-tablet-digital-graphics-pad-usb-led-light-box-copy-board-electronic-art-graphic-painting-writing-table): Brand Name: CHIPALOrigin: Mainland ChinaTablet Width: 21.5cmTablet length: 33.3cmInterface Type: USBPressure Levels: 1366Screen Size(diagonal): 15.6"Type: Graphic TabletsResolution Ratio: 2048lpiType: Digital TabletsScreen Resolution: 3840x2160Certification: CEMaterial: AcrylicType: tableta grafica para dibujarProduct Name: A4 LED Light TabletModel: CP751 CP752 CP753Size: Approx. 33.3*21.5(cm)USB Cable Length: 2 MeterFunction 1: A4 Drawing TabletFunction 2: LED Light TabletFunction 3: Drawing TabletFunction 4: LED Light BoxFunction 5: A4 LED LightFunction 6: Drawing PadFunction 7: Tablet for DrawingFunction 8: Writing TabletDimming Type: NO Dimming / Stepless Dimming / Three-level DimmingAvailable Color: BlackApplication 1: DrawingApplication 2: 2D AnimeApplication 3: SketchApplication 4: CalligraphyApplication 5: Architectural DesignApplication 6: Industrial DesignSuitable: For Art Students
-  Updated: 2025-12-11T11:30:24Z
+  Updated: 2025-12-19T12:28:38Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Digital Tablets
   Availability: Available
@@ -5240,24 +5219,24 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Stepless Dimming](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-a4-led-drawing-tablet-digital-graphics-pad-usb-led-light-box-copy-board-electronic-art-graphic-painting-writing-table?variant=51754337272089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1aLs6KeSSBuNjy0Flq6zBpVXaV_MAz4vRO.jpg?v=1765409417
-    Price: $146.99 USD
+    Price: $115.99 USD
   - [NO Dimming](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-a4-led-drawing-tablet-digital-graphics-pad-usb-led-light-box-copy-board-electronic-art-graphic-painting-writing-table?variant=51754337304857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1HquPB4uTBuNkHFNRq6A9qpXar_RP8ZPNc.jpg?v=1765409418
-    Price: $143.99 USD
+    Price: $113.99 USD
   - [Three-level Dimming](https://anc-electronics-n-services-inc.myshopify.com/products/chipal-a4-led-drawing-tablet-digital-graphics-pad-usb-led-light-box-copy-board-electronic-art-graphic-painting-writing-table?variant=51754337337625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1rnDGB2iSBuNkSnhJq6zDcpXa5_f2oVUSx.jpg?v=1765409417
-    Price: $146.99 USD
+    Price: $116.99 USD
 - [2TXYM RV1C4 L240as-00 PS-5241-5DF H240as-00 03WN11 592JG F79TD Power Supply for DELL OPTIPLEX 3010 390 790 990 SFF Well Tested](https://anc-electronics-n-services-inc.myshopify.com/products/2txym-rv1c4-l240as-00-ps-5241-5df-h240as-00-03wn11-592jg-f79td-power-supply-for-dell-optiplex-3010-390-790-990-sff-well-tested): Application: DesktopApplication: ServerBrand Name: SENLIFANGModel Number: 2TXYM 02TXYM L240AS-00 PS-5241-5DF H240AS-00 03WN11Modular: Non-ModularPackage: YesOutput Voltage: 12VPFC Type: ActiveNumber of SATA Ports: 2Input Voltage: 100-240V80 PLUS Certification: Other CertificationD-type Bus Number: 2CPU Power Connector: 4 pinOrigin: Mainland ChinaCertification: CECertification: FCCChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:30:24Z
+  Updated: 2025-12-19T12:28:37Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cleaners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8824e2576dde42e68adf2e88fc912393T_61MSsm3.jpg?v=1765409420
   Price: $299.99 USD
 - [10moons 1060plus Inches Art Digital Graphic Tablet for Drawing Supports Tilt & Radial Function With 10 Shortcut Keys](https://anc-electronics-n-services-inc.myshopify.com/products/10moons-1060plus-inches-art-digital-graphic-tablet-for-drawing-supports-tilt-radial-function-with-10-shortcut-keys): Brand Name: 10moonsOrigin: Mainland ChinaTablet Width: 36cmTablet length: 24cmInterface Type: USBPressure Levels: 8192Screen Size(diagonal): 10.1"Package: YesType: Graphic TabletsResolution Ratio: 5080lpiType: Digital TabletsCertification: CECertification: FCCMaterial: PVCPen Technology: Battery-Free Electromagnetic ResonanceOS Support: Windows 10/8/7 and MacOS 10.11 or laterColor: BlackPress Keys: 12 Customized Press Keys
-  Updated: 2025-12-11T11:30:31Z
+  Updated: 2025-12-19T12:28:35Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Digital Tablets
   Availability: Available
@@ -5271,14 +5250,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Se153160506ee42399ae5c872f5333beaN_sSbV83c.jpg?v=1765409424
     Price: $395.99 USD
 - [Xintai Touch 43 Inch IR Touch Screen,10 20 Points Usb Ir Touch Screen, 43" Multi Touchscreen Panel](https://anc-electronics-n-services-inc.myshopify.com/products/xintai-touch-43-inch-ir-touch-screen-10-20-points-usb-ir-touch-screen-43-multi-touchscreen-panel): Brand Name: Xintai TouchDisplay Size: 43 inchProducts Status: STOCKPackage: YesModel Number: XT-IR-43-10Interface Type: USBType: INFRARedis_customized: YesGeneral Size: 15 inch to 159 inchLinearity Error: <1.5mmResponse Speed: <15msInput Method: Finger or gloved hand (rubber ,cloth or leather)Minimum Touch Object: 2.5 mm X 2.5 mmLight Transmission: 92%Agency Approvals: CE, FCC, RohsOperation System: windows 7, windows8, Android, Linux,Mac, OSItem: usb touch screen
-  Updated: 2025-12-11T11:30:36Z
+  Updated: 2025-12-20T13:56:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Monitors & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1OQ.qQVXXXXX5XpXXq6xXFXXXX_7OaqODe.jpg?v=1765409426
   Price: $1,063.99 USD
 - [Moterm Hot Sale 100% Genuine Leather Notebook Handmade Vintage Cowhide Diary Journal Sketchbook Planner TN Travel Notebook Cover](https://anc-electronics-n-services-inc.myshopify.com/products/moterm-hot-sale-100-genuine-leather-notebook-handmade-vintage-cowhide-diary-journal-sketchbook-planner-tn-travel-notebook-cover): Brand Name: motermOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: Handmade diaryWeight: about 580/480g/360g/280gSize: A5 size/ Standard/ Portable/ PassportCover Leather: Top Layer of CowhideCover Hardness: Medium SoftType: Composition BookStyle: Vintage, SpirialInner Paper: 100g paperInner insert: 3 pcs, 32 sheets eachColor: Black/ Coffee/ Brown/ Green/ Blue/ Red/ VioletUsage: Travel Journal, Business, Office, School
-  Updated: 2025-12-12T21:23:59Z
+  Updated: 2025-12-19T12:28:31Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Notebooks & Writing Pads - Notebooks
   Availability: Available
@@ -5396,14 +5375,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0a0051c656684604a0557d1349725c6bm_TAXFoPt.jpg?v=1765409430
     Price: $135.99 USD
 - [Genuine  for Small 1U  FLEX Specifications Power Seven League ST-220FUB-05E 220W Power Supply](https://anc-electronics-n-services-inc.myshopify.com/products/genuine-for-small-1u-flex-specifications-power-seven-league-st-220fub-05e-220w-power-supply): Condition: 95% NEWApplication: DesktopApplication: ServerBrand Name: WEYESModel Number: ST-220FUB-05EModular: Non-ModularPackage: YesOutput Voltage: 12VPFC Type: PassiveInterface Type: 24PinInput Voltage: 100-240V80 PLUS Certification: Other CertificationOrigin: Mainland ChinaCertification: CECertification: FCCChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:30:40Z
+  Updated: 2025-12-19T12:28:29Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cleaners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sbb3c8ef86b0b4006b864330606acc4a34_RcTfJqX.jpg?v=1765409431
   Price: $784.99 USD
 - [Huion Kamvas Pro 13 Graphics Tablet Screen 13.3 Inch Monitor Tilt Support Battery-Free Digital Stylus Pen Display Full Laminated](https://anc-electronics-n-services-inc.myshopify.com/products/huion-kamvas-pro-13-graphics-tablet-screen-13-3-inch-monitor-tilt-support-battery-free-digital-stylus-pen-display-full-laminated): Brand Name: HUIONHUION Model: Kamvas Pro 13Battery Included: NoHigh-concerned chemical: NoneOrigin: Mainland ChinaTablet Width: 219mmTablet length: 388mmInterface Type: USBPressure Levels: 8192Screen Size(diagonal): 13.3"Package: YesType: Pen Tablet MonitorResolution Ratio: 5080lpiType: Digital TabletsScreen Resolution: 1920x1080Certification: CECertification: FCCCertification: RoHSCertification: weeeMaterial: ABSPen Technology: Battery-Free Electromagnetic ResonanceDimension: 388 x 219 x 11 mmActive Area: 293.76 x 165.24 mmContrast Ratio: 1000:1Brightness: 220cd/m2Response Time: 25msGamut: 120% sRGBDisplay Color: 16.7M(8bit)Sensing Height: 10mmReport Rate: 266PPSFinger Touch: Touch BarDigital Pen: PW507Input Voltage: 100-240VAC ,50/60HzOutput Voltage: 12V 1AVideo Interface: Type-CPress Keys: 4 Customized Press KeysAdjustable Stand: Two Level Adjustable StandOS Support: Linux, Windows 7 or later, MacOS 10.12 or later
-  Updated: 2025-12-13T05:20:33Z
+  Updated: 2025-12-19T12:28:28Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Peripherals - Digital Tablets
   Availability: Available
@@ -5481,7 +5460,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3a1c1372e9bf4bbaa45b7a0d6805f2c9C_mK4qrBo.jpg?v=1765409433
     Price: $1,624.99 USD
 - [Fromthenon Cute Date Stamp for Planner Clear Stamps Bussiness Rubber Stamp With Adjustable Date Diary School Supplies Stationery](https://anc-electronics-n-services-inc.myshopify.com/products/fromthenon-cute-date-stamp-for-planner-clear-stamps-bussiness-rubber-stamp-with-adjustable-date-diary-school-supplies-stationery): Brand Name: FromthenonOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: date stampType: OtherTime period: 2025-2036 yearDate Type: DD-MM-YYYYUsage: Planner date stampFeature: Date Roller Stamp sealChoice: yessemi_Choice: yes
-  Updated: 2025-12-13T17:41:07Z
+  Updated: 2025-12-19T12:28:26Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Labels, Indexes & Stamps - Badge Holder & Accessories
   Availability: Available
@@ -5519,7 +5498,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Se8ab5ddd802b45a093ed876b26e0173eF_Chgz5wd.jpg?v=1765409436
     Price: $13.99 USD
 - [Genuine New A20020-07ca-2jn-F1 DF2002005SELN DC5V 0.30A 20cm 200*200*20MM USB Cooling Fan](https://anc-electronics-n-services-inc.myshopify.com/products/genuine-new-a20020-07ca-2jn-f1-df2002005seln-dc5v-0-30a-20cm-200-200-20mm-usb-cooling-fan): Brand Name: WEYESNoise: 16dBAModel Number: A20020-07CA-2JN-F1Fan Size: OtherVoltage: 5vPackage: YesBlade Quantity: 13Power Interface: USBFan Speed: 800 - 2000Origin: Mainland ChinaCertification: CECertification: FCCLines: OtherUsed For: CaseChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T15:05:42Z
+  Updated: 2025-12-19T12:28:24Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Computer Cleaners
   Availability: Available
@@ -5533,7 +5512,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S47db6c37c4c54743b8ba858134d1523eY.jpg?v=1765409438
     Price: $108.99 USD
 - [Khadas VIM3 SBC: 12nm Amlogic A311D Soc With 5.0 TOPS NPU | 4GB + 32GB(Pro Model)](https://anc-electronics-n-services-inc.myshopify.com/products/khadas-vim3-sbc-12nm-amlogic-a311d-soc-with-5-0-tops-npu-4gb-32gbpro-model): Brand Name: KhadasDemo Board Type: ARMHigh-concerned chemical: NoneBattery Included: NoOrigin: Mainland ChinaROM Capacity: 16 GBModel Number: VIM3 ProProcessor Brand: AMLogicMemory Capacity: 4GBIntergrated Feature: 10/100/1000MbpsIntergrated Feature: WiFi 802.11b/g/nIntergrated Feature: IR ReceiverIntergrated Feature: BluetoothInterface: 2 x USB2.0Interface: TF Card SupportInterface: USB OTGCertification: CECertification: FCCCertification: RoHSSoC: Amlogic A311DMCU: STM8S003 with Programmable EEPROMSPI Flash: 16MBLPDDR4/4X: 4GBEMMC 5.1: 32GBWi-Fi: AP6398S Module 802.11Bluetooth: Bluetooth 5.0LAN: 10/100 / 1000MWOL: Wake on LanTF Card: Molex SlotUSB HOST: x2 (900mA & 500mA Load)USB Type-C: USB2.0 OTG & USB PDVIN Connector: System Power InputWide Input Voltage: Range from 5V to 20VTouch Panel: 10 Pin 0.5mm Pitch FPC ConnectorSensor: KXTJ3-1057 Tri-axis Digital AccelerometerIR Receiver: 2 ChannelsRTC & Battery Header: 0.8mm Pitch HeaderCooling Fan Header: 4-Pins 0.8mm Pitch HeaderLEDs: Blue LED x1, White LED x1, Red LED x140-Pins Header(2.54mm): CPU: USB, I2C, I2S, SPDIF, UART, PWM, ADC MCU: SWIM, NRST, PA1Buttons: x3 (Power / Func / Reset)XPWR Pads: For External Power ButtonMounting Holes: Size M2 x 4Board Dimensions: 82.0 x 58.0 x 11.5 mmBoard Weight: 28.5gLinux: Mainline Linux (Linux 5.0+)Bootloader: Mainline U-BootLinux Distros: Ubuntu 18.04+ / ArmbianO/S for HTPC: LibreELECAndroid: Android Pie (9.0)Khadas Only: Khadas TST/Khadas KBI/Fenix ScriptCertifications: CE, RoHS
-  Updated: 2025-12-11T11:30:50Z
+  Updated: 2025-12-19T12:28:22Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Demo Board & Accessories - Demo Board
   Availability: Available
@@ -5563,7 +5542,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S6b2ab5a2803544fe97c50a642f19228fM_jWhI0a0.jpg?v=1765409442
     Price: $774.99 USD
 - [Dumb Black Metal Card Black Metal Business Card Creative  Production High-Grade Metal Membership Card Business Card](https://anc-electronics-n-services-inc.myshopify.com/products/dumb-black-metal-card-black-metal-business-card-creative-production-high-grade-metal-membership-card-business-card): Brand Name: Don's MetalOrigin: Mainland ChinaHigh-concerned chemical: NoneQuantitative: 100PiecesMaterial: Stainless steelProduction time: 15-20 working daysShipping time: 7-10days
-  Updated: 2025-12-11T11:30:50Z
+  Updated: 2025-12-19T12:28:20Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Calendars, Planners & Cards - Business Cards
   Availability: Available
@@ -5585,7 +5564,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB11RR0OVXXXXcxXVXXq6xXFXXXa_csdJsgL.jpg?v=1765409443
     Price: $1,595.99 USD
 - [Custom Business Card Printing 300gsm Paper Name Vip Visit Cards With Custom Logo Printing Business Cards Custom 90x54mm](https://anc-electronics-n-services-inc.myshopify.com/products/custom-business-card-printing-300gsm-paper-name-vip-visit-cards-with-custom-logo-printing-business-cards-custom-90x54mm): Brand Name: NoEnName_NullOrigin: Mainland China
-  Updated: 2025-12-11T11:30:49Z
+  Updated: 2025-12-19T12:28:19Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Calendars, Planners & Cards - Business Cards
   Availability: Available
@@ -5593,21 +5572,21 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [100PCS square corner](https://anc-electronics-n-services-inc.myshopify.com/products/custom-business-card-printing-300gsm-paper-name-vip-visit-cards-with-custom-logo-printing-business-cards-custom-90x54mm?variant=51754340221209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1N_4FUOLaK1RjSZFxq6ymPFXaG_uUyFtWS.jpg?v=1765409444
-    Price: $108.99 USD
+    Price: $76.99 USD
   - [500PCS square corner](https://anc-electronics-n-services-inc.myshopify.com/products/custom-business-card-printing-300gsm-paper-name-vip-visit-cards-with-custom-logo-printing-business-cards-custom-90x54mm?variant=51754340253977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1N_4FUOLaK1RjSZFxq6ymPFXaG_uUyFtWS.jpg?v=1765409444
-    Price: $221.99 USD
+    Price: $152.99 USD
   - [200PCS square corner](https://anc-electronics-n-services-inc.myshopify.com/products/custom-business-card-printing-300gsm-paper-name-vip-visit-cards-with-custom-logo-printing-business-cards-custom-90x54mm?variant=51754340286745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1N_4FUOLaK1RjSZFxq6ymPFXaG_uUyFtWS.jpg?v=1765409444
-    Price: $137.99 USD
+    Price: $95.99 USD
   - [1000pcs square corne](https://anc-electronics-n-services-inc.myshopify.com/products/custom-business-card-printing-300gsm-paper-name-vip-visit-cards-with-custom-logo-printing-business-cards-custom-90x54mm?variant=51754340319513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1N_4FUOLaK1RjSZFxq6ymPFXaG_uUyFtWS.jpg?v=1765409444
-    Price: $355.99 USD
+    Price: $241.99 USD
 - [Transparent Hard Acrylic Crystal Staff Identification Name Badge ID Card Access Exhibition Card With Lanyards(Standard Size )](https://anc-electronics-n-services-inc.myshopify.com/products/transparent-hard-acrylic-crystal-staff-identification-name-badge-id-card-access-exhibition-card-with-lanyardsstandard-size): Brand Name: NoEnName_NullOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: 7175Type: Badge Holder
-  Updated: 2025-12-11T11:30:52Z
+  Updated: 2025-12-19T12:28:17Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Labels, Indexes & Stamps - Badge Holder & Accessories
   Availability: Available
@@ -5697,7 +5676,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB17U02QXXXXXXLXpXXq6xXFXXXr_jgBaIRB.jpg?v=1765409447
     Price: $19.99 USD
 - [100 Pcs/Lot Custom Normal Frost Transparent PVC Business Card Printing](https://anc-electronics-n-services-inc.myshopify.com/products/100-pcs-lot-custom-normal-frost-transparent-pvc-business-card-printing): Brand Name: Fashion PrintingOrigin: Mainland Chinatype: Plastic Bussiness CardDesign: Free designColor: Full colorPrinting Sides: One sided printing (default, more options available)Coner Style: Rounded corners (default, more options available)Material: Eco-friendly plastic PVCShipping Time: 3-7 business days
-  Updated: 2025-12-11T11:30:52Z
+  Updated: 2025-12-19T12:28:15Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Calendars, Planners & Cards - Business Cards
   Availability: Available
@@ -5723,7 +5702,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1FFD.bJPJ3eJjSZFLq6yb3FXaH_Cuv0xZs.jpg?v=1765409449
     Price: $599.99 USD
 - [High Quality Pu  Id  Case  Business Badge  Holders  for Admission Multi-Function Company&School Supplies](https://anc-electronics-n-services-inc.myshopify.com/products/high-quality-pu-id-case-business-badge-holders-for-admission-multi-function-company-school-supplies): Brand Name: NoEnName_NullOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: PUCARDType: Badge Holder
-  Updated: 2025-12-11T11:31:00Z
+  Updated: 2025-12-19T12:28:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Labels, Indexes & Stamps - Badge Holder & Accessories
   Availability: Available
@@ -5825,7 +5804,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1xM9xOVXXXXakaXXXq6xXFXXXf_j8IRNhb.jpg?v=1765409451
     Price: $60.99 USD
 - [30 Sheets/Set Travel Around the World Paper Postcard Greeting Card City Landscape Postcard](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard): Brand Name: nbyintoOrigin: Mainland China
-  Updated: 2025-12-11T11:30:59Z
+  Updated: 2025-12-19T12:28:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Calendars, Planners & Cards - Business Cards
   Availability: Available
@@ -5833,23 +5812,23 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Provence](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342252825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1S4ryaELrK1Rjy0Fjq6zYXFXag_9OSA7Cz.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Paris](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342285593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1A7juatjvK1RjSspiq6AEqXXar_YtBMhrV.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [London](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342318361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1Pw_qasfrK1RjSszcq6xGGFXaX_zQSiRyA.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Sydney](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342351129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1DDrmau6sK1RjSsrbq6xbDXXan_DBJiyC4.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Rio de Janeiro](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342383897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1LdbxavfsK1RjSszgq6yXzpXak_iys8Ajq.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [New York](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342416665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1fYvsas_vK1Rjy0Foq6xIxVXat_ZkWSmXq.jpg?v=1765409454
@@ -5881,23 +5860,23 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Hokkaido](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342646041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1dQDuasfrK1RkSnb4q6xHRFXaZ_G9NeE4u.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Tokyo](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342678809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1xQ2uaDHuK1RkSndVq6xVwpXaM_SFfGEkh.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Istanbul](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342711577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1dRbnavLsK1Rjy0Fbq6xSEXXa3_uGotDaJ.jpg?v=1765409455
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Florence](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342744345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1QPjzazDuK1Rjy1zjq6zraFXaB_laghNIw.jpg?v=1765409455
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Venice](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342777113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1kZ_watfvK1RjSspfq6zzXFXaV_KqH28Vk.jpg?v=1765409454
-    Price: $32.99 USD
+    Price: $35.99 USD
   - [Athens](https://anc-electronics-n-services-inc.myshopify.com/products/30-sheets-set-travel-around-the-world-paper-postcard-greeting-card-city-landscape-postcard?variant=51754342809881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB17nTnayfrK1RjSspbq6A4pFXae_m067Fju.jpg?v=1765409454
@@ -5907,14 +5886,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1vXLxasnrK1RjSspkq6yuvXXal_4JmgXux.jpg?v=1765409454
     Price: $32.99 USD
 - [DM Solid Flash Drive FS220 USB3.1 USB3.0 64GB 128GB 256GB  With Super Fast Transfer Speed](https://anc-electronics-n-services-inc.myshopify.com/products/dm-solid-flash-drive-fs220-usb3-1-usb3-0-64gb-128gb-256gb-with-super-fast-transfer-speed): Brand Name: DMSize: 1.8"High-concerned chemical: NoneOrigin: Mainland ChinaType: ExternalApplication: DesktopApplication: LaptopPackage: YESCertification: CECertification: FCCStyle: SSDInterface Type: USB 3.0Model Number: FS220
-  Updated: 2025-12-11T11:31:03Z
+  Updated: 2025-12-19T12:28:09Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - External Storage - External Solid State Drives
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H6153db9bdd154fb3b673aa612e873d3e1_9HI3R4w.jpg?v=1765409455
-  Price: $185.99 USD
+  Price: $183.99 USD
 - [70X20mm Stainless Steel Personalized Name Badge Holder Custom Metal Tag Laser Engraved Staff Student Enfermera ID Texts LOGO](https://anc-electronics-n-services-inc.myshopify.com/products/70x20mm-stainless-steel-personalized-name-badge-holder-custom-metal-tag-laser-engraved-staff-student-enfermera-id-texts-logo): Brand Name: NoEnName_NullHigh-concerned chemical: NoneOrigin: Mainland ChinaModel Number: Name-badgeSize: 7x2cmMaterial: 304 steel with Mirror Plated faceCustom: Yes
-  Updated: 2025-12-11T11:31:11Z
+  Updated: 2025-12-19T12:28:08Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Labels, Indexes & Stamps - Badge Holder & Accessories
   Availability: Available
@@ -6008,7 +5987,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S05a05ba16f41432981b7ef8741854c7bU_fbvYyhY.jpg?v=1765409459
     Price: $62.99 USD
 - [Hot 1U 24 2U 48 Port Pass-Through CAT6 Patch Panel RJ45 Connector Network Cable Adapter Keystone Jack Modular Distribution Frame](https://anc-electronics-n-services-inc.myshopify.com/products/hot-1u-24-2u-48-port-pass-through-cat6-patch-panel-rj45-connector-network-cable-adapter-keystone-jack-modular-distribution-frame): Texture of material: Quality cold rolled steel, PC plastics, gold platingTechnology: AssembleApplicable cable type: 22,23,24 and 26AWG cablesEcho loss: 9.8 dBScope of application: Integrated wiring network engineeringDurability: No less than 750Brand Name: BELNETMax. LAN Data Rate: 1000MbpsInterface Type: EthernetInterface Type: RJ-45Interface Type: Port RJ-45Origin: Mainland China
-  Updated: 2025-12-11T11:31:06Z
+  Updated: 2025-12-19T12:28:06Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Networking - Network Cabinets
   Availability: Available
@@ -6022,7 +6001,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sc1f276bbf26543cabc0b24220d897c09e_pfmYEU6.jpg?v=1765409461
     Price: $486.99 USD
 - [KingDian Portable 120GB 250GB  External Hard Drive HDD-USB-C, USB 3.0 for Laptop,Mac,3-Year Rescue Service ,Gray](https://anc-electronics-n-services-inc.myshopify.com/products/kingdian-portable-120gb-250gb-external-hard-drive-hdd-usb-c-usb-3-0-for-laptop-mac-3-year-rescue-service-gray): Brand Name: KingDianSize: 1.8"Origin: Mainland ChinaType: ExternalApplication: DesktopApplication: LaptopApplication: ServerPackage: YesStyle: SSDCertification: CECertification: FCCCertification: RoHSInterface Type: USB 3.0Model Number: P10Warranty: 3 yearTRIM/SMART: SupportMTBF: 2,000,000 hoursCompatibility: Windows Vista,7,8,8.1,10 and Mac OS 10.4+Interface: Type-c To USB 3.0
-  Updated: 2025-12-11T11:31:09Z
+  Updated: 2025-12-19T12:28:04Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - External Storage - External Solid State Drives
   Availability: Available
@@ -6036,7 +6015,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S57397e59185847d4ab2fc4a54bce69faW.jpg?v=1765409464
     Price: $413.99 USD
 - [10pcs X 22 Inch Backlight CCFL Lamps for 21.5 Inch 22 Inch LCD Monitor Screen Panel High Light 481mm X 2.4mm](https://anc-electronics-n-services-inc.myshopify.com/products/10pcs-x-22-inch-backlight-ccfl-lamps-for-21-5-inch-22-inch-lcd-monitor-screen-panel-high-light-481mm-x-2-4mm): Brand Name: KLBOrigin: Mainland ChinaType: Industrial Computer AccessoriesCertification: NoneModel Number: 22inchPackage: Nois_customized: YesProducts Status: Stock
-  Updated: 2025-12-11T11:31:08Z
+  Updated: 2025-12-19T12:28:03Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Industrial Computer & Accessories
   Availability: Available
@@ -6050,7 +6029,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1C16gLgHqK1RjSZJnq6zNLpXak_VgAE8Bp.jpg?v=1765409465
     Price: $62.99 USD
 - [SQUMIDER 9PCS 4 Patterns Postcard Cartoon European Classical  Card Greeting Card Christmas Teacher's Day Letter Paper  Gift](https://anc-electronics-n-services-inc.myshopify.com/products/squmider-9pcs-4-patterns-postcard-cartoon-european-classical-card-greeting-card-christmas-teachers-day-letter-paper-gift): Brand Name: SQUMIDEROrigin: Mainland ChinaHigh-concerned chemical: None
-  Updated: 2025-12-11T11:31:14Z
+  Updated: 2025-12-19T12:28:01Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Education & Office Supplies - Calendars, Planners & Cards - Business Cards
   Availability: Available
@@ -6072,14 +6051,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB11lWvazfguuRjy1zeq6z0KFXa7_K30FrDD.jpg?v=1765409468
     Price: $20.99 USD
 - [Office Use Employee Electronic Punch Card Clock Paper Time Attendace Clock Ribbon DIY Kit Digital Time Clock Card](https://anc-electronics-n-services-inc.myshopify.com/products/office-use-employee-electronic-punch-card-clock-paper-time-attendace-clock-ribbon-diy-kit-digital-time-clock-card): Brand Name: HFSECURITYBattery Included: NoType: ID CardType: Punch CardHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2025-12-11T11:31:16Z
+  Updated: 2025-12-19T12:27:59Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Time Recording
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S353a8d11739445a4a6651cbcbd55da45v.jpg?v=1765409473
   Price: $212.99 USD
 - [JINGLE BELLS 433MHz Wireless Watch Receiver Pager for Fast Food Shop Restaurant Cafe Clinic Calling System in Russian Spanish](https://anc-electronics-n-services-inc.myshopify.com/products/jingle-bells-433mhz-wireless-watch-receiver-pager-for-fast-food-shop-restaurant-cafe-clinic-calling-system-in-russian-spanish): Brand Name: JINGLE BELLSBattery Included: YesOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: CTW06Certification: CECertification: FCCwireless calling system: widely used for restaurants, spa&salon, cafe, bank, hospitalswatch pager: wireless calling systemhow to work: work in a wireless wayFrequency: 433.92MHzWatch Pager System: rechargeableservice buzzer: waiter calling system
-  Updated: 2025-12-11T11:31:19Z
+  Updated: 2025-12-20T12:38:56Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Telephones & Accessories
   Availability: Available
@@ -6087,21 +6066,21 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [1 PC of watch](https://anc-electronics-n-services-inc.myshopify.com/products/jingle-bells-433mhz-wireless-watch-receiver-pager-for-fast-food-shop-restaurant-cafe-clinic-calling-system-in-russian-spanish?variant=51754345988377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H55bbc2d62c324405823316f4459449dc4_VBbLVME.jpg?v=1765409475
-    Price: $218.99 USD
+    Price: $237.99 USD
   - [2 pcs of watches](https://anc-electronics-n-services-inc.myshopify.com/products/jingle-bells-433mhz-wireless-watch-receiver-pager-for-fast-food-shop-restaurant-cafe-clinic-calling-system-in-russian-spanish?variant=51754346021145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hf14330af2fab41e08c42d7b55a99b553U_itHsETe.jpg?v=1765409475
-    Price: $378.99 USD
+    Price: $411.99 USD
   - [3 pcs of watches](https://anc-electronics-n-services-inc.myshopify.com/products/jingle-bells-433mhz-wireless-watch-receiver-pager-for-fast-food-shop-restaurant-cafe-clinic-calling-system-in-russian-spanish?variant=51754346053913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hc0863db8cead4d81a51b99d5fc40f7bed_xlXlEu2.jpg?v=1765409475
-    Price: $541.99 USD
+    Price: $588.99 USD
   - [4 pcs of watches](https://anc-electronics-n-services-inc.myshopify.com/products/jingle-bells-433mhz-wireless-watch-receiver-pager-for-fast-food-shop-restaurant-cafe-clinic-calling-system-in-russian-spanish?variant=51754346086681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7d29951e54314a0b8c1ed54df31cb032h_TxuMRi2.jpg?v=1765409474
-    Price: $688.99 USD
+    Price: $748.99 USD
 - [Retekess T119 Restaurant Pager Wireless Paging Calling System Coaster Vibrater Buzzer Receiver 2 Way Charge for Cafe Food Truck](https://anc-electronics-n-services-inc.myshopify.com/products/retekess-t119-restaurant-pager-wireless-paging-calling-system-coaster-vibrater-buzzer-receiver-2-way-charge-for-cafe-food-truck): Brand Name: retekessBattery Included: NoOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: T119Certification: CECertification: FCCFrequency: 433.92MHzPower supply: Built-in 3.7V lithium batteryMaterial: high quality PCCoaster pager number: 10 pcsExpandable number: 999 pcsCalling mode: Flash, Bell, Vibration or any combination of themCharging Method: Charger base or charge directlyCharging time: 3 hoursApplication: Cafe Shop, fast food shop, food court, pizza shop, church ,clinicwaiter calling system: restaurant pager systemrestaurant: restaurant pagerrestaurant guest pagers: wireless pager systemrestaurant call: for restaurantqueue calling system: pager call
-  Updated: 2025-12-11T11:31:22Z
+  Updated: 2025-12-20T13:47:36Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Telephones & Accessories
   Availability: Available
@@ -6119,7 +6098,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd56854132b8c4191ad2abdb3772c732fx.jpg?v=1765409476
     Price: $116.99 USD
   - [Only 1 Pager / brazil](https://anc-electronics-n-services-inc.myshopify.com/products/retekess-t119-restaurant-pager-wireless-paging-calling-system-coaster-vibrater-buzzer-receiver-2-way-charge-for-cafe-food-truck?variant=51754346348825)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd56854132b8c4191ad2abdb3772c732fx.jpg?v=1765409476
     Price: $97.99 USD
   - [Charging Base / brazil](https://anc-electronics-n-services-inc.myshopify.com/products/retekess-t119-restaurant-pager-wireless-paging-calling-system-coaster-vibrater-buzzer-receiver-2-way-charge-for-cafe-food-truck?variant=51754346381593)
@@ -6135,7 +6114,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S65534c7562a04c7898adfc23fb757e355.jpg?v=1765409477
     Price: $362.99 USD
   - [Only 10 Pager / brazil](https://anc-electronics-n-services-inc.myshopify.com/products/retekess-t119-restaurant-pager-wireless-paging-calling-system-coaster-vibrater-buzzer-receiver-2-way-charge-for-cafe-food-truck?variant=51754346479897)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S70039bb1946a493b8d58890037ff966dq_I6bU87m.jpg?v=1765409477
     Price: $694.99 USD
   - [1-10 / brazil](https://anc-electronics-n-services-inc.myshopify.com/products/retekess-t119-restaurant-pager-wireless-paging-calling-system-coaster-vibrater-buzzer-receiver-2-way-charge-for-cafe-food-truck?variant=51754346512665)
@@ -6195,7 +6174,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sf479df7e6ff348aa9b45e0e41cfb07d4O.jpg?v=1765409477
     Price: $1,050.99 USD
 - [EAGET S600 SSD 128GB 256GB 512GB 2.5 Inch SATAIII HDD Hard Disk HD SSD Notebook PC 1TB 2TB Internal Solid State Drive](https://anc-electronics-n-services-inc.myshopify.com/products/eaget-s600-ssd-128gb-256gb-512gb-2-5-inch-sataiii-hdd-hard-disk-hd-ssd-notebook-pc-1tb-2tb-internal-solid-state-drive): Brand Name: EagetSize: 2.5"Package: YESInterface Type: SATA 3Type: ExternalStyle: SSDApplication: DesktopApplication: LaptopApplication: ServerModel Number: S600Capacity: 128GB/256GB/512GB/1TB/2TB
-  Updated: 2025-12-11T11:31:28Z
+  Updated: 2025-12-19T12:27:54Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - External Storage - External Solid State Drives
   Availability: Available
@@ -6217,7 +6196,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H9493b9506b4f474f9eac374304c61abdA_WMPMSxM.jpg?v=1765409478
     Price: $1,113.99 USD
 - [New Arrival Portable 900DPI Handhold Document Scanner JPG / PDF Format Document Image Scan Scanner With LCD Displayer Support 4A](https://anc-electronics-n-services-inc.myshopify.com/products/new-arrival-portable-900dpi-handhold-document-scanner-jpg-pdf-format-document-image-scan-scanner-with-lcd-displayer-support-4a): Brand Name: FOVOREType: Handheld ScannersScan Element Type: CMOSOrigin: Mainland ChinaOptical Resolution: 900*900dpiScan Breadth: A4Scan Speed: 200 scans/secondInterface Type: USBProduct Type: Document ScannerCertification: NoneColour Depth: 24 BitModel Number: scannersNovelty: NewScanning Light Source: RGB Three Color Light Emitting Diode LEDTime to market: Mar-13Feature 1: scannerFeature 2: mobile scannerFeature 3: document scannerFeature 4: scanner documentFeature 5: scanner portableFeature 6: portable scannerFeature 7: scanner 900dpiFeature 8: 4A scannerColor: Black
-  Updated: 2025-12-11T11:31:25Z
+  Updated: 2025-12-20T09:51:35Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Scanners
   Availability: Available
@@ -6231,7 +6210,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7198c869778f471e8c0b1de98421f38b9_sw7m0C4.jpg?v=1765409479
     Price: $298.99 USD
 - [19in 2U Cabinet Pass-Through 48 Port CAT6 CAT6A Patch Panel RJ45 Network Cable Adapter Keystone Jack Modular Distribution Frame](https://anc-electronics-n-services-inc.myshopify.com/products/19in-2u-cabinet-pass-through-48-port-cat6-cat6a-patch-panel-rj45-network-cable-adapter-keystone-jack-modular-distribution-frame): Brand Name: BELNETMax. LAN Data Rate: 1000MbpsCertification: RoHSOrigin: Mainland ChinaInterface Type: EthernetInterface Type: RJ-45Interface Type: Port RJ-45Texture of material: Quality cold rolled steel, PC plastics, gold platingTechnology: AssembleDurability: No less than 750Applicable cable type: 22,23,24 and 26AWG cablesEcho loss: 9.8 dBscope of application: Integrated wiring network engineering
-  Updated: 2025-12-11T11:31:24Z
+  Updated: 2025-12-19T12:27:50Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Networking - Network Cabinets
   Availability: Available
@@ -6245,7 +6224,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sc1f276bbf26543cabc0b24220d897c09e_pSUAdGk.jpg?v=1765409480
     Price: $443.99 USD
 - [Mini Iscan Document & Images Scanner A4 Size JPG/PDF Formate Wifi 1050DPI High Speed Portable LCD Display for Business Receipts](https://anc-electronics-n-services-inc.myshopify.com/products/mini-iscan-document-images-scanner-a4-size-jpg-pdf-formate-wifi-1050dpi-high-speed-portable-lcd-display-for-business-receipts): Brand Name: GZQIANJIType: Document ScannerScan Element Type: CMOSOrigin: Mainland ChinaOptical Resolution: 300*600Scan Breadth: A4Scan Speed: A4Interface Type: USBHigh-concerned chemical: NoneSignal Connection Type: Wi-FiProduct Type: Document ScannerCertification: CEColour Depth: 32 BitModel Number: GZISCAN02Novelty: NewScanning Light Source: Natural Light + LEDTime to market: Mar-13Power Supply:: Rechargeable built-in 900mAh Lithium-polymerExternal Memory:: TF card (option, no standard)
-  Updated: 2025-12-12T00:26:48Z
+  Updated: 2025-12-19T12:27:48Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Scanners
   Availability: Available
@@ -6267,14 +6246,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S722ba0553fce46b199a50cf99a3130f5z_gaRrOH0.jpg?v=1765409481
     Price: $491.99 USD
 - [New Ethernet Internal Print Server Network Card for HP JetDirect 620N J7934A J7934G 4200 4250 5500 5550 3005 5200 2100 2200 2400](https://anc-electronics-n-services-inc.myshopify.com/products/new-ethernet-internal-print-server-network-card-for-hp-jetdirect-620n-j7934a-j7934g-4200-4250-5500-5550-3005-5200-2100-2200-2400): Brand Name: SWZNPARTCertification: NoneOrigin: Mainland ChinaModel Number: 500 800 510 5500 5100 1050C 9000 9040 9050 3600 3700 2820
-  Updated: 2025-12-11T11:31:29Z
+  Updated: 2025-12-19T12:27:47Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Network Print Servers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H85ec5950e86f4bdcbe851f64c746c8b1I_EjkLxhk.jpg?v=1765409483
   Price: $127.99 USD
 - [PDA Android Handheld Terminal Honeywell Barcode Scanner 1d Laser 2d QR  Portable Data Collector Terminal Device With WIFI 4G NFC](https://anc-electronics-n-services-inc.myshopify.com/products/pda-android-handheld-terminal-honeywell-barcode-scanner-1d-laser-2d-qr-portable-data-collector-terminal-device-with-wifi-4g-nfc): Brand Name: GZQIANJIType: Barcode ScannerScan Element Type: CMOSOrigin: Mainland ChinaOptical Resolution: 600*1200Scan Breadth: A6Scan Speed: 100 scans/secondInterface Type: USB 2.0High-concerned chemical: NoneSignal Connection Type: Wi-FiProduct Type: Bar Code ScannerCertification: CEColour Depth: 48 BitModel Number: GZPDA05Novelty: NewScanning Light Source: Laser LightTime to market: Mar-13Model Name:: Touch Screen Android 13 PDACPU:: ARM Cortex-A53 64 bit Octa-coreMemery+Flash: 64G Flash ROM 4GB RAMDisplay:: 4.5inch touch panel TFT-LCD Display (720X1280)Wireless:: WIFI, Bluetooth 4.0+EDR/3.0+HS/4.1+HSBattery:: 3.7V 4,200mAh Li-batteryOptional:: QR scanner and NFC1D Scanner:: Minde966 or HoneywellN43132D Scanner: 2D 6602 or HoneywellN5703
-  Updated: 2025-12-14T18:28:51Z
+  Updated: 2025-12-19T12:27:45Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Scanners
   Availability: Available
@@ -6472,7 +6451,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S8362675741554458bdbdfab93dc2d745U.jpg?v=1765409487
     Price: $1,869.99 USD
 - [KingDian External SSD 120gb 250gb 500gb M,2 Ssd 2280 USB 3.0 External Solid State Drive Lighting for Laptop Phone](https://anc-electronics-n-services-inc.myshopify.com/products/kingdian-external-ssd-120gb-250gb-500gb-m-2-ssd-2280-usb-3-0-external-solid-state-drive-lighting-for-laptop-phone): Brand Name: KingDianSize: 1.8"Origin: Mainland ChinaType: ExternalApplication: DesktopApplication: LaptopApplication: ServerPackage: YesStyle: SSDInterface Type: USB 3.0Model Number: P11Warranty: 3 yearsTRIM/SMART: SupportInterface: Type-c To USB 3.0Applicable: Type c phoneCompatibility: Windows Vista,7,8,8.1,10 and Mac OS 10.4+
-  Updated: 2025-12-11T11:31:34Z
+  Updated: 2025-12-19T12:27:43Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - External Storage - External Solid State Drives
   Availability: Available
@@ -6490,7 +6469,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1f6jPXKH2gK0jSZFEq6AqMpXad_ZqvBNhp.jpg?v=1765409488
     Price: $862.99 USD
 - [Portable 35mm Negative Slide Film Scanner Resolution 22 Mega Pixels 110 135 126KPK Digital Converter 8mm Slide Scanners](https://anc-electronics-n-services-inc.myshopify.com/products/portable-35mm-negative-slide-film-scanner-resolution-22-mega-pixels-110-135-126kpk-digital-converter-8mm-slide-scanners): Brand Name: QPIX DIGITALType: Film ScannerScan Element Type: CMOSOrigin: Mainland ChinaOptical Resolution: 4608*3072Scan Breadth: 135, 110 35mm,126KPK and Super 8 Negatives, SlidesScan Speed: 2-6 seconds/filmInterface Type: USBHigh-concerned chemical: NoneSignal Connection Type: NoneProduct Type: Film ScannerCertification: CECertification: FCCCertification: RoHSColour Depth: 24 BitModel Number: FS610 Negative Film ScannerNovelty: NewScanning Light Source: LEDTime to market: Oct-11CMOS: 14 Mega Pixel Photo film ConvertsMaxium Resolution: 22 Mega pixels(5760*3840) interpolationInternal Memory: 128MbLCD size: 2.4 inchesFile format: Picture JPEGFilm Type: 135, 110 35mm,126KPK and Super 8 Negatives, SlidesOptical Resolution: 4608*3072Dimension: 87(L)X86.5(W)X102.5(H)mmPlug: US.UK.EU.AU plugScan Speed: 2-6 seconds/filmkeyword1: scanner portatifkeyword2: slide scannerkeyword3: photo film scanner 35mm
-  Updated: 2025-12-11T11:31:34Z
+  Updated: 2025-12-19T12:27:41Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Scanners
   Availability: Available
@@ -6498,21 +6477,21 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [with 16GB SD Card / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/portable-35mm-negative-slide-film-scanner-resolution-22-mega-pixels-110-135-126kpk-digital-converter-8mm-slide-scanners?variant=51754349625625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB16GF1NVXXXXbdXVXXq6xXFXXXM_SjkNIjj.jpg?v=1765409490
-    Price: $1,258.99 USD
+    Price: $1,400.99 USD
   - [scanner / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/portable-35mm-negative-slide-film-scanner-resolution-22-mega-pixels-110-135-126kpk-digital-converter-8mm-slide-scanners?variant=51754349658393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1HndQNVXXXXXTapXXq6xXFXXXY_UwBqMsS.jpg?v=1765409490
-    Price: $1,143.99 USD
+    Price: $1,272.99 USD
   - [with 16GB SD Card / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/portable-35mm-negative-slide-film-scanner-resolution-22-mega-pixels-110-135-126kpk-digital-converter-8mm-slide-scanners?variant=51754349691161)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB16GF1NVXXXXbdXVXXq6xXFXXXM_SjkNIjj.jpg?v=1765409490
-    Price: $786.99 USD
+    Price: $875.99 USD
   - [scanner / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/portable-35mm-negative-slide-film-scanner-resolution-22-mega-pixels-110-135-126kpk-digital-converter-8mm-slide-scanners?variant=51754349723929)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1HndQNVXXXXXTapXXq6xXFXXXY_UwBqMsS.jpg?v=1765409490
-    Price: $714.99 USD
+    Price: $794.99 USD
 - [Trianglelab DDE Direct Drive Extruder Upgrade Kit for Creality3D Ender-3/Cr-10 Series 3D Printer Great Performance Improvement](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement): Brand Name: TrianglelabHigh-concerned chemical: NoneOrigin: Mainland ChinaItem Type: ExtruderModel Number: DDE
-  Updated: 2025-12-13T02:18:02Z
+  Updated: 2025-12-19T12:27:39Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - 3D Printing & 3D Scanning
   Availability: Available
@@ -6520,45 +6499,45 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [CR10SPRO DDB BasicK](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349756697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $292.99 USD
+    Price: $325.99 USD
   - [12vNo extruderhotend](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349789465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $83.99 USD
+    Price: $92.99 USD
   - [CR-10S PRO Basic Kit](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349822233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $166.99 USD
+    Price: $185.99 USD
   - [24V DDE ALL KIT](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349855001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $334.99 USD
+    Price: $372.99 USD
   - [12V DDE ALL KIT](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349887769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $334.99 USD
+    Price: $372.99 USD
   - [24V DDE Basic kit](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349920537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $157.99 USD
+    Price: $175.99 USD
   - [12V DDE Basic kit](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349953305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $157.99 USD
+    Price: $175.99 USD
   - [24V DDE DDB BasicKIT](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754349986073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $283.99 USD
+    Price: $316.99 USD
   - [24vNo extruderhotend](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754350018841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $83.99 USD
+    Price: $92.99 USD
   - [12V DDE DDB BasicKIT](https://anc-electronics-n-services-inc.myshopify.com/products/trianglelab-dde-direct-drive-extruder-upgrade-kit-for-creality3d-ender-3-cr-10-series-3d-printer-great-performance-improvement?variant=51754350051609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3910240a7ee04686b803e15a4f190613I_IQzfQSP.jpg?v=1765409492
-    Price: $283.99 USD
+    Price: $316.99 USD
 - [BIGTREETECH SKR V1.4 Turbo BTT SKR 3 Motherboard 3D Printer Parts MKS GEN TMC2209 TMC2208 Ender3 V2 Upgrade for Voron 2.4 DIY](https://anc-electronics-n-services-inc.myshopify.com/products/bigtreetech-skr-v1-4-turbo-btt-skr-3-motherboard-3d-printer-parts-mks-gen-tmc2209-tmc2208-ender3-v2-upgrade-for-voron-2-4-diy): Brand Name: BIGTREETECHOrigin: Mainland ChinaItem Type: MotherboardModel Number: BIGTREETECH SKR V1.4Product name: SKR V1.4 32Bit Control BoardMaterial: 4-layer PCBResistance: 100Feature: WIFI, Dual Z Axis, 3 Fans, RGB...Input voltage: DC12V-DC24V 5A-15ADriver working mode support: SPI, UART, STEP/DIRMacnine architecture support: XYZ, Delta, Kossel, Ultimaker, CorexyDisplay Support: 2.4 "TFT, 2.8 "TFT, 3.5" TFT, LCD2004, LCD12864Choice: yessemi_Choice: yes
-  Updated: 2025-12-13T17:43:22Z
+  Updated: 2025-12-19T12:27:38Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - 3D Printing & 3D Scanning
   Availability: Available
@@ -6600,14 +6579,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa7461c99962f470dae51ed610857b08aP_sUitjVl.jpg?v=1765409494
     Price: $419.99 USD
 - [2-In-1Money Detector Portable Mini Counterfeit Cash Currency Banknote Bill Checker Tester With UV Light Flashlight for USD EURO](https://anc-electronics-n-services-inc.myshopify.com/products/2-in-1money-detector-portable-mini-counterfeit-cash-currency-banknote-bill-checker-tester-with-uv-light-flashlight-for-usd-euro): Brand Name: AibecyDetection Mode: UVDetection Mode: MGCheckout Function: YesHigh-concerned chemical: NoneInto Mode: Back LoadingOrigin: Mainland ChinaCounting Function: NoHopper Capacity: NoStacker Capacity: NoCounting Speed: NoSize: 16 * 5.6 * 1.5cm / 6.3 * 2.2 * 0.6inSize of Countable Note: all paper money of worldwideDisplay: NoneModel: DL-01Model: DL-01Color: BlackMaterial: PlasticIdentifiable Type: USD, EURO, POUND and all paper money of worldwideBattery: 4 * AA Battery(not included)Item Size: 16 * 5.6 * 1.5cm / 6.3 * 2.2 * 0.6inBattery Included: No
-  Updated: 2025-12-14T14:38:11Z
+  Updated: 2025-12-19T12:27:36Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Money Counter/Detector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1T_cxcgKG3KVjSZFLq6yMvXXaK_McrKt5j.jpg?v=1765409496
   Price: $84.99 USD
 - [54cm*4cm Outdoor LED Traffic Safety Signal Warning Flashing Wand Baton Ref Baton Safety Signal Command Tool](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool): Brand Name: YemingduoHigh-concerned chemical: NoneOrigin: Mainland ChinaTube Color: White Yellow BlueCustomized: YesEquipped with battery: Not
-  Updated: 2025-12-11T11:31:41Z
+  Updated: 2025-12-19T12:27:34Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Roadway Safety - Traffic Light
   Availability: Available
@@ -6615,43 +6594,43 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Green Shift red](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool?variant=51754350706969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H96f5b27a52ed42408557e65b7b4c5b49Z_cL1IJct.jpg?v=1765409497
-    Price: $72.99 USD
+    Price: $75.99 USD
   - [Blue](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool?variant=51754350739737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H0313bd18207349c8834ea7ae4b55083cK_l2jXHs4.jpg?v=1765409497
-    Price: $72.99 USD
+    Price: $75.99 USD
   - [green](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool?variant=51754350772505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H7ad3c34da8bd4a858244da773ea21caaJ_kLi7JXa.jpg?v=1765409497
-    Price: $64.99 USD
+    Price: $67.99 USD
   - [Yellow](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool?variant=51754350805273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hf6399c3a09584d279237524127403e7eN_JlILrzn.jpg?v=1765409497
-    Price: $72.99 USD
+    Price: $75.99 USD
   - [Blue Red](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool?variant=51754350838041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H25cb5511f6fa4bd2ae5420e4a2368807h_9PrFS5C.jpg?v=1765409497
-    Price: $79.99 USD
+    Price: $82.99 USD
   - [Red](https://anc-electronics-n-services-inc.myshopify.com/products/54cm-4cm-outdoor-led-traffic-safety-signal-warning-flashing-wand-baton-ref-baton-safety-signal-command-tool?variant=51754350870809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H3a9b0a05a2674ec78595f676943ac8e7P_GYJ08qx.jpg?v=1765409497
-    Price: $61.99 USD
+    Price: $64.99 USD
 - [Emergency Flash Strobe Lamp Car Rotating Traffic Safety Warning Lights School Indication Led Yellow Round Ceiling Box Flash Lamp](https://anc-electronics-n-services-inc.myshopify.com/products/emergency-flash-strobe-lamp-car-rotating-traffic-safety-warning-lights-school-indication-led-yellow-round-ceiling-box-flash-lamp): Color: OrangeLight source power: 18WMaterial: ABSVoltage: 12VAdapted models: currencyCurrent: Less 2.5ASize: 12.5X9CMWarranty: 3 YearsFeature: Warning Traffic LightWarning Flash Bean: Warning Indication LightEmergency Flash Strobe Lamp: Warning LightBrand Name: NoEnName_NullModel Number: HS-TL001Size: 100mmMaterial: PCHigh-concerned chemical: NoneOrigin: Mainland ChinaChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:31:43Z
+  Updated: 2025-12-19T12:27:32Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Roadway Safety - Traffic Light
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H532ff099419e4a3dbc5a779a94dbc8cfS_VRySifE.jpg?v=1765409498
   Price: $137.99 USD
 - [Original Printhead for HP 932 933 Print Head for HP Officejet Pro 7110 6100 6600 6700 7612    7510](https://anc-electronics-n-services-inc.myshopify.com/products/original-printhead-for-hp-932-933-print-head-for-hp-officejet-pro-7110-6100-6600-6700-7612-7510): Brand Name: CaoDuRenHigh-concerned chemical: NoneOrigin: Mainland ChinaCertification: None
-  Updated: 2025-12-12T11:28:05Z
+  Updated: 2025-12-19T12:27:30Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Network Print Servers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S56b73d1f8cba46baac40e9743b2f6f3cq_ES2Dck5.jpg?v=1765409502
   Price: $292.99 USD
 - [48-Keys Safe Storage Box Combination/Key Lock Wall Mounted Multi Spare Keys Organizer Box for Home Office Factory Store Use](https://anc-electronics-n-services-inc.myshopify.com/products/48-keys-safe-storage-box-combination-key-lock-wall-mounted-multi-spare-keys-organizer-box-for-home-office-factory-store-use): Brand Name: ELESABOXOrigin: Mainland ChinaModel Number: 48-Keys Safe Storage BoxMode: Combination/Key LockSuit for key: 48 KeysColor: Black or White
-  Updated: 2025-12-11T11:31:55Z
+  Updated: 2025-12-19T12:27:27Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Safes
   Availability: Available
@@ -6673,7 +6652,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H42266ffd40f14f77b92eacd7273cea4f7_1W2Tsuk.jpg?v=1765409503
     Price: $316.99 USD
 - [TBD-C1033 Truck LED Light, Super Bright LED Warning Light,  DC10-30V, 24 X 0.5W LED, Magnetic Base, Waterproof Car LED Beacon](https://anc-electronics-n-services-inc.myshopify.com/products/tbd-c1033-truck-led-light-super-bright-led-warning-light-dc10-30v-24-x-0-5w-led-magnetic-base-waterproof-car-led-beacon): Brand Name: CoxswainHigh-concerned chemical: NoneOrigin: Mainland ChinaMaterial: PCModel Number: TBD-C1033Size: 300mmInstall: Magnetic install
-  Updated: 2025-12-12T00:39:00Z
+  Updated: 2025-12-19T12:27:24Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Roadway Safety - Traffic Light
   Availability: Available
@@ -6691,7 +6670,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1vOjuOVXXXXc7aXXXq6xXFXXXE_DmFjAIu.jpg?v=1765409506
     Price: $350.99 USD
 - [Creative Secret Book Hidden Security Safe Box Money Jewelry Safe Key/Code Lock Metal Simulation Classic Book Style 222*152*45mm](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm): Mode: Ke/code LockStyle: Les Miserables/Pride and Prejudice/Alice in WonderlandBrand Name: ELESABOXModel Number: CB-01-m Book Hidden Security Safe Box Money Jewlery Safe Key LockSize: MHigh-concerned chemical: NoneOrigin: Mainland ChinaCertification: NoneSmart home platform: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:31:52Z
+  Updated: 2025-12-19T12:27:21Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Safes
   Availability: Available
@@ -6699,48 +6678,48 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Miserables Key](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351362329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H597662097b564ef6b6af2ad2e2807e4eB_Jdi3Zjy.jpg?v=1765409507
-    Price: $200.99 USD
+    Price: $204.99 USD
   - [Alice Key](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351395097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Ha74ba621632d412f846e1bf0ff79e8c7I_RP7EyWD.jpg?v=1765409508
-    Price: $201.99 USD
+    Price: $206.99 USD
   - [Pride Key](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351427865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H2b3b99c6597d4e4c94b109cd54bc3d12k_aCE6c6f.jpg?v=1765409508
-    Price: $201.99 USD
+    Price: $206.99 USD
   - [Alice Code](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351460633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H55958dd935dc4a19bc1c234f2e65cf6ff_fWAqpKg.jpg?v=1765409508
-    Price: $203.99 USD
+    Price: $208.99 USD
   - [Miserables Code](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351493401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He627417a5f744af8a759a366d8428ab7P_s6W0Gl0.jpg?v=1765409508
-    Price: $203.99 USD
+    Price: $208.99 USD
   - [Pride Code](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351526169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H72933bd9925245d19f379016efafeaf4C_tk7fuLV.jpg?v=1765409508
-    Price: $203.99 USD
+    Price: $208.99 USD
   - [Paris Key](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351558937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H55f8e90e5e1c486a980099ed6d87b4c17_KnFwOwe.jpg?v=1765409508
-    Price: $201.99 USD
+    Price: $206.99 USD
   - [Paris Code](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351591705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H41fefc1d1f40447cba3c3876a6425c0fN_yN4uIkX.jpg?v=1765409508
-    Price: $203.99 USD
+    Price: $208.99 USD
   - [London Key](https://anc-electronics-n-services-inc.myshopify.com/products/creative-secret-book-hidden-security-safe-box-money-jewelry-safe-key-code-lock-metal-simulation-classic-book-style-222-152-45mm?variant=51754351624473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hbb31b1ef0bdb498ea451a2c4d63c6401c_Rodi33H.jpg?v=1765409508
-    Price: $199.99 USD
+    Price: $203.99 USD
 - [NEO COOLCAM Smart Home Z-Wave Plus PIR Motion Sensor Detector Temperature Sensor Lux Z Wave Alarm System Motion Sensor](https://anc-electronics-n-services-inc.myshopify.com/products/neo-coolcam-smart-home-z-wave-plus-pir-motion-sensor-detector-temperature-sensor-lux-z-wave-alarm-system-motion-sensor): Brand Name: CoolcamOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: ZWAVE PIRCertification: CESmart home platform: OtherRadio Frequency: 868.4MHz EU3 in 1: motion+temperature+luxbattery: built in battery.CR123A x 1Choice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:31:53Z
+  Updated: 2025-12-19T12:27:19Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Building Automation
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S30cfa61f620e4fbf8b9288f2895368034_yIm0es4.jpg?v=1765409508
-  Price: $226.99 USD
+  Price: $241.99 USD
 - [20/28/36 Keys Storage Box Combination Key Lock Multi Keys Classification Organizer Safe Box for Home Office Factory Store](https://anc-electronics-n-services-inc.myshopify.com/products/20-28-36-keys-storage-box-combination-key-lock-multi-keys-classification-organizer-safe-box-for-home-office-factory-store): Brand Name: ELESABOXOrigin: Mainland ChinaModel Number: 20/28/36 Keys Storage BoxCertification: NoneLock Mode: Combination/Key Lockmaterial: SteelColor: Black or White
-  Updated: 2025-12-11T11:31:59Z
+  Updated: 2025-12-19T12:27:17Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Safes
   Availability: Available
@@ -6802,14 +6781,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Haafde3a885f94b25abccc2d852e98050A_vTXar8W.jpg?v=1765409511
     Price: $315.99 USD
 - [Multi-Function Self Defense Tactical Pen Emergency Flashlight Strobe Bottle Opener Glass Breaker Waterproof Storage Case](https://anc-electronics-n-services-inc.myshopify.com/products/multi-function-self-defense-tactical-pen-emergency-flashlight-strobe-bottle-opener-glass-breaker-waterproof-storage-case): Material: Aluminum AlloySize: 16cm * 1.4cm (L*D)Weight: 42 gBrand Name: ELESESAFEModel Number: Multi-Function Military Defense Tactical PenOrigin: Mainland ChinaHigh-concerned chemical: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T14:48:11Z
+  Updated: 2025-12-19T12:27:15Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Self Defense Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1Y6QLX3KG3KVjSZFLq6yMvXXae_k4pNR74.jpg?v=1765409512
   Price: $52.99 USD
 - [DC Power Jack 5.5x2.1mm   Cable 1 Female to 2,3,4,5,6,8 Male Plug Splitter Adapter for Security CCTV Camera and LED Strip](https://anc-electronics-n-services-inc.myshopify.com/products/dc-power-jack-5-5x2-1mm-cable-1-female-to-2-3-4-5-6-8-male-plug-splitter-adapter-for-security-cctv-camera-and-led-strip): Brand Name: NoEnName_NullSize: aaaPlug Type: NoneHigh-concerned chemical: NoneCertification: NoneOrigin: Mainland ChinaItem Type: CablesModel Number: aaaDC jack splitter cable: power cable cctv connectorCCTV power adapter: plug 2 5 cableLED strip splitter: 2 5 dc cableDC 1 to 6 splitter: 5.5mm x 2.1mm dc power cable female connector plug5.5mm power splitter: dc 5 cable cctvMulti output DC adapter: cctv power connector 2 1Security camera splitter: cctv power connector 2.1 jack5.5x2.1 Y cable: cable for cctv camera with power supplyParallel DC power cable: 2 cctv 1 cable1 female 5 male DC: jack 5 cctvDC barrel splitter: 2 5mm cctv power connector5.5mm CCTV power: cctv cable powerLED driver splitter: DC plug multiplier5.5x2.1 1 to 4: Power splitter 12V5.5mm jack splitter: 1 in 8 out DCCCTV power divider: DC 5.5 splitter 8PLED parallel adapter: 5.5x2.1 splitter 5PDC power distributor: Multi plug DC cable12V CCTV splitter: 5.5mm 1 to 3 DCLED power splitter: DC splitter 5.5mm5.5x2.1 adapter 6P: Security DC splitterBarrel jack splitter: DC power hub cableBulk DC splitter: 12V LED splitter
-  Updated: 2025-12-14T20:55:21Z
+  Updated: 2025-12-19T12:27:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Transmission & Cables
   Availability: Available
@@ -6839,14 +6818,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S6a0e0bffc9fb4437a89257bb376bbd1dC.jpg?v=1765409513
     Price: $17.99 USD
 - [Zoom Camera Module CVBS BNC Decoding Board for FCB-EX CCD Series Analog Block Camera W/ RS485 Focus OSD Menu Control by Excelax](https://anc-electronics-n-services-inc.myshopify.com/products/zoom-camera-module-cvbs-bnc-decoding-board-for-fcb-ex-ccd-series-analog-block-camera-w-rs485-focus-osd-menu-control-by-excelax): Brand Name: SankiViewOrigin: Mainland ChinaModel Number: DB-SYZM-CVBS-RS485Certification: NoneApplication: FCB-EX Series CCD Block CamerasPower Input: DC 9~12VZoom Control: YesFocus Control: YesOSD Control: YesConnection Cable: IncludedRS485: YesRS232: NoVideo Output: CVBS BNC
-  Updated: 2025-12-12T00:20:11Z
+  Updated: 2025-12-19T12:27:12Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Control System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1x6Yvrr5YBuNjSspoq6zeNFXat_0q85oXK.jpg?v=1765409516
   Price: $252.99 USD
 - [Gigabit Poe Splitter 5V3A 48V to 12V Micro USB/Type C/Dc for Barrel Jack Power Supply/Huawei/Hikvision/Bobcat/Raspberry Pi](https://anc-electronics-n-services-inc.myshopify.com/products/gigabit-poe-splitter-5v3a-48v-to-12v-micro-usb-type-c-dc-for-barrel-jack-power-supply-huawei-hikvision-bobcat-raspberry-pi): Brand Name: XINFICAMSize: Distance: 100mPlug Type: NoneHigh-concerned chemical: NoneCertification: CECertification: FCCCertification: RoHSOrigin: Mainland ChinaItem Type: POE SpliterModel Number: PS001Output: 12V1.5A / 12V2A / 5V2.4A/5V3A/5V4APlug: DC 5.5x2.1mm / DC 3.5x1.35mm / Micro USB / Type CInput: 48VVoltage: 12V / 5V
-  Updated: 2025-12-11T11:32:03Z
+  Updated: 2025-12-19T12:27:10Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Transmission & Cables
   Availability: Available
@@ -6920,42 +6899,42 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3c648ca22c3a4300962e162a9f397b4dV_Xn044TF.jpg?v=1765409518
     Price: $97.99 USD
 - [Gsm Fixed Wireless Terminal / Gsm Gateway for Connecting Desktop Phone or Alarm System, Free Shipping](https://anc-electronics-n-services-inc.myshopify.com/products/gsm-fixed-wireless-terminal-gsm-gateway-for-connecting-desktop-phone-or-alarm-system-free-shipping): Brand Name: KONLENOrigin: Mainland ChinaWaterproof: NoInstallation: Connect with desktop phoneAnswering Mode: TELEPHONEZone Number: NoneAccess Control: NoneItem Type: Indoor MachineSamrt Home Interface: NoModel Number: KL-FWT101GCommunication Interface: WireLessPower (W): DC12V 1A; AC110V to 220Vcolor: whiteGSM frequency: 2G GSM/900/1800MHZRJ11 port: 2pcsPower voltage: DC12V 1A or DC5V 1AUsage: for connecting desktop phone to make phone callproduct name: gsm gateway, fixed wireless terminal, FWT, gsm desktop phone etcChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T09:51:58Z
+  Updated: 2025-12-19T12:27:08Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Door Intercom - Audio Intercom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1OnfySpXXXXaMXFXXq6xXFXXXd_LmOZhtg.jpg?v=1765409519
   Price: $217.99 USD
 - [ESCAM  RJ45 Ethernet Male to 8 Pin AV Terminal Screw Adapter Converter Block Plug for CCTV Camera](https://anc-electronics-n-services-inc.myshopify.com/products/escam-rj45-ethernet-male-to-8-pin-av-terminal-screw-adapter-converter-block-plug-for-cctv-camera): Brand Name: NoEnName_NullSize: aaaPlug Type: NoneHigh-concerned chemical: NoneCertification: NoneOrigin: Mainland ChinaItem Type: CablesModel Number: aaaMaterial: PlasticColor: Black
-  Updated: 2025-12-11T11:32:05Z
+  Updated: 2025-12-19T12:27:06Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Transmission & Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1rXY8bcfrK1RkSmLyq6xGApXav_bDqaaby.jpg?v=1765409521
   Price: $25.99 USD
 - [Indoor RS485 Decoder Board for CCTV PTZ Camera System](https://anc-electronics-n-services-inc.myshopify.com/products/indoor-rs485-decoder-board-for-cctv-ptz-camera-system): Brand Name: NOVOXYHigh-concerned chemical: NoneOrigin: Mainland ChinaModel Number: SK-6828Smart home platform: NoneCertification: NoneInput Voltage: AC24VOutput Voltage: DC12Protocol: Pelco-D Pelco-P
-  Updated: 2025-12-11T11:32:07Z
+  Updated: 2025-12-19T12:27:04Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Control System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sb820315877b54912852dc74d5765ddfdI_VXkccW6.jpg?v=1765409522
   Price: $229.99 USD
 - [48 Ports 16CH in/48ch Output Professional High Definition Video Splitter,Support CVI/TVI/AHD Camera Bnc Output,MaxUp to 300-600m](https://anc-electronics-n-services-inc.myshopify.com/products/48-ports-16ch-in-48ch-output-professional-high-definition-video-splitter-support-cvi-tvi-ahd-camera-bnc-output-maxup-to-300-600m): Brand Name: BOAVISIONOrigin: Mainland ChinaHigh-concerned chemical: NoneCertification: CEModel Number: HD-1648Smart home platform: NoneDistribution number: 16 points 48Video input: 16* BNCVideo Output: 48* BNCSupport: AHD/HDCVI/HDTVI Analog HD Video SplitterSupport Resolution: 1280*720 or 1920*1080Input&Output Length: input unlimited and output max to 300-600mPlace of Origin: Guangdong China(Mainland)Material quality: Anti corrosion steel blackSize: 420*190*90mmQuality: High
-  Updated: 2025-12-11T11:32:08Z
+  Updated: 2025-12-20T12:09:12Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Control System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1TAejdlWD3KVjSZKPq6yp7FXaW_MnmzMMz.jpg?v=1765409524
-  Price: $1,011.99 USD
+  Price: $1,049.99 USD
 - [CCTV Extremely Sensitive Microphone Voice Pickup Aerial Audio Signal Collection for Mini FPV Mic Camera DVR System](https://anc-electronics-n-services-inc.myshopify.com/products/cctv-extremely-sensitive-microphone-voice-pickup-aerial-audio-signal-collection-for-mini-fpv-mic-camera-dvr-system): Brand Name: GakakiHigh-concerned chemical: NoneOrigin: Mainland ChinaCertification: NoneModel Number: No.10DC Power Cable: for Cctv IP CameraCCTV Microphone: for CCTV Security Cameramicrophone: microphone camera
-  Updated: 2025-12-11T11:32:09Z
+  Updated: 2025-12-19T12:27:01Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Microphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S77a86eb2f86b43e8a90931fa6868fce0t.jpg?v=1765409525
   Price: $16.99 USD
 - [MILITECH Ballistic Plate 10" X 12" Pair NIJ IIIA 3A 0101.06&NIJ 0101.07 HG2 Ultra Light Weight HDPE Bulletproof Backpack Panel](https://anc-electronics-n-services-inc.myshopify.com/products/militech-ballistic-plate-10-x-12-pair-nij-iiia-3a-0101-06-nij-0101-07-hg2-ultra-light-weight-hdpe-bulletproof-backpack-panel): Brand Name: MILITECHHigh-concerned chemical: NoneOrigin: Mainland ChinaModel Number: 10 x 12 PE-IIIA-Pair SetCertification: CEPerformance: NIJ IIIA 3A 0101.06&NIJ 0101.07 HG2Good To Resist: 9MM, 357SIG, .44MAGType: HDPE Bulletproof Hard Armor PlateSize: 10 x 12 Inches (25 x 30cm)
-  Updated: 2025-12-11T11:32:11Z
+  Updated: 2025-12-19T12:26:59Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Self Defense Supplies
   Availability: Available
@@ -6969,7 +6948,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S642306507aab43dfadb49d732497d9707_wNTo0n0.jpg?v=1765409526
     Price: $942.99 USD
 - [IPC1800plus 1080P 5-In-1 TVI AHD CVI Analog IP CCTV Camera Tester Build in Battery Security Tester Monitor Video Audio Test PTZ](https://anc-electronics-n-services-inc.myshopify.com/products/ipc1800plus-1080p-5-in-1-tvi-ahd-cvi-analog-ip-cctv-camera-tester-build-in-battery-security-tester-monitor-video-audio-test-ptz): Brand Name: POMIACAMLens: camera testOrigin: Mainland ChinaHigh-concerned chemical: NoneSensor Size: camera testerMaximum IR Distance(m): camera testerSensor Type: camera testingModel Number: IPC1800 plus Ip camera testerCertification: CESensor Size: IP camera testerPlug Type: EU Plug1: Ip camera tester2: CCTV system installation and maintenance3: Network cabling project installation and maintenance4: Dome camera, IP TVI CVI AHD 4K H.265 camera testing6: Video transmission channel testing5: PTZ controller7: 8MP TVI/8MP CVI/8MP AHD/4K H.265 IP /CVBS9: H.265/H.264, 4K video display via mainstream8: Dahua, Hikvision, Axis etc ONVIF camera test10: Rapid ONVIF, auto view video and create testing report
-  Updated: 2025-12-11T11:32:16Z
+  Updated: 2025-12-19T12:26:57Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Monitor & Display
   Availability: Available
@@ -6977,25 +6956,25 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/ipc1800plus-1080p-5-in-1-tvi-ahd-cvi-analog-ip-cctv-camera-tester-build-in-battery-security-tester-monitor-video-audio-test-ptz?variant=51754354114841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa64b2242461043ecb0db9ab0071cc34bL.jpg?v=1765409528
-    Price: $1,435.99 USD
+    Price: $1,531.99 USD
   - [Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/ipc1800plus-1080p-5-in-1-tvi-ahd-cvi-analog-ip-cctv-camera-tester-build-in-battery-security-tester-monitor-video-audio-test-ptz?variant=51754354147609)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa64b2242461043ecb0db9ab0071cc34bL.jpg?v=1765409528
-    Price: $945.99 USD
+    Price: $1,008.99 USD
   - [United States](https://anc-electronics-n-services-inc.myshopify.com/products/ipc1800plus-1080p-5-in-1-tvi-ahd-cvi-analog-ip-cctv-camera-tester-build-in-battery-security-tester-monitor-video-audio-test-ptz?variant=51754354180377)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa64b2242461043ecb0db9ab0071cc34bL.jpg?v=1765409528
-    Price: $990.99 USD
+    Price: $1,056.99 USD
   - [GERMANY](https://anc-electronics-n-services-inc.myshopify.com/products/ipc1800plus-1080p-5-in-1-tvi-ahd-cvi-analog-ip-cctv-camera-tester-build-in-battery-security-tester-monitor-video-audio-test-ptz?variant=51754354213145)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa64b2242461043ecb0db9ab0071cc34bL.jpg?v=1765409528
-    Price: $990.99 USD
+    Price: $1,056.99 USD
   - [spain](https://anc-electronics-n-services-inc.myshopify.com/products/ipc1800plus-1080p-5-in-1-tvi-ahd-cvi-analog-ip-cctv-camera-tester-build-in-battery-security-tester-monitor-video-audio-test-ptz?variant=51754354245913)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sa64b2242461043ecb0db9ab0071cc34bL.jpg?v=1765409528
-    Price: $990.99 USD
+    Price: $1,056.99 USD
 - [Ycall 433.92mhz Restaurant Pager Wireless Paging System Table Bells Call Button](https://anc-electronics-n-services-inc.myshopify.com/products/ycall-433-92mhz-restaurant-pager-wireless-paging-system-table-bells-call-button): Brand Name: YcallBattery Included: YesOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: Restaurant Pager K-2000A+K-O3Certification: CECertification: RoHSName: Restaurant PagerWorking Frequency: 433.92mhzDisplay Color: BlackBuzzer key: call bill cancelTransmitted Distance: 300m in open area3-digit: YesCommunication: WirelessButton size: 60*60*22MMDisplay size: 195*135*30MMLOGO printing: YesApplication: Restaurant, cafe shop, tea house, bar
-  Updated: 2025-12-11T11:32:21Z
+  Updated: 2025-12-19T12:26:55Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Office Electronics - Telephones & Accessories
   Availability: Available
@@ -7145,7 +7124,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hf45c3b5eec0143ec8c79d725af4a5b65M_rSVE0UN.jpg?v=1765409533
     Price: $316.99 USD
 - [CCTV Zoom Camera Module Block Decoding Control Board RS485 Pelco Protocol Decode PCB W/ BNC OSD Menu Button 9Pin Ribbon Cable](https://anc-electronics-n-services-inc.myshopify.com/products/cctv-zoom-camera-module-block-decoding-control-board-rs485-pelco-protocol-decode-pcb-w-bnc-osd-menu-button-9pin-ribbon-cable): Brand Name: SankiViewOrigin: Mainland ChinaModel Number: DB-SJZM-CVBS-RS485Smart home platform: NoneCertification: NoneApplication: Designated Zoom Camera ModulesOSD Load: YesBNC Out: YesPower Input: DC 12VRS485 +/-: YesZoom Control: YesFocus Control: YesCable: 9-pin/7-pinLED Indicator: Yes
-  Updated: 2025-12-11T11:32:21Z
+  Updated: 2025-12-19T12:26:53Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Control System
   Availability: Available
@@ -7163,14 +7142,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1OPCkLpXXXXXtXpXXq6xXFXXXF_YsXjoIa.jpg?v=1765409534
     Price: $66.99 USD
 - [Wiistar AV to HDMI Audio Adapter CVB 3RCA TO HDMI Converter AV S Video to HDMI With USB Cable for HDTV DVD](https://anc-electronics-n-services-inc.myshopify.com/products/wiistar-av-to-hdmi-audio-adapter-cvb-3rca-to-hdmi-converter-av-s-video-to-hdmi-with-usb-cable-for-hdtv-dvd): Brand Name: wiistarOrigin: Mainland ChinaSmart home platform: OtherCertification: CEModel Number: WS-Z51BType: AV to HDMI converterHDMI Version: 1.3Input: Male AV(CVBS+AUDIO), S videoOutput: HDMIModel Number: av+svideo2hdmi usb dc
-  Updated: 2025-12-11T11:32:21Z
+  Updated: 2025-12-19T12:26:52Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - DVR Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S68304e3a8361422b92b6628bd0030b24g_8xKxn8u.jpg?v=1765409535
-  Price: $123.99 USD
+  Price: $130.99 USD
 - [PEGATAH 4inch Wrist Touch Screen CCTV Tester for IP Camera Tester H.265 IPC Tester With POE Output for CCTV Camera Tester](https://anc-electronics-n-services-inc.myshopify.com/products/pegatah-4inch-wrist-touch-screen-cctv-tester-for-ip-camera-tester-h-265-ipc-tester-with-poe-output-for-cctv-camera-tester): Brand Name: PEGATAHLens: OtherOrigin: Mainland ChinaHigh-concerned chemical: NoneSensor Size: 1/4 inchMaximum IR Distance(m): OtherSensor Type: OtherModel Number: TI-N9618-ADHCertification: CESensor Size: OtherPlug Type: EU Plugtouch screen: 4 inch IPS 800*480 resolutionvideo signal: HD coaxial video signal qualityVideo compression format: Support H.265/H.264, 4K video displayCamera tester: Support CVBS and PTZ controlTVI camera tester: 8MPCVI camera tester: 8MPAHD camera tester: 8MPPoE power output: DC12V 3A, DC48VRapid ONVIF: auto view video and createPlug type: EU/US/UKType: Security camera testerTechnology: tester cctvType 2: cctv tester 5mpPPPOE dial test: SupportPTZ Control: SupportSDI Camera: 8MPHDMI: 4K MaxVGA: 2048 x 1152 60FPS MaxTester type: Security testercctv tester: yeshdmi tester: supporttester monitor: yesIP CAMERA MONITOR TESTER: yesTouch monitor: Supportipc tester: yesahd monitor: Supporthdmi monitor: yes
-  Updated: 2025-12-13T09:08:29Z
+  Updated: 2025-12-19T12:26:50Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Monitor & Display
   Availability: Available
@@ -7216,14 +7195,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S32e4c030215d4be981543779fd040a8eQ.jpg?v=1765409537
     Price: $1,014.99 USD
 - [IV8C CCTV Camera Monitor Professional CCTV Testing Tool 5 Inch Display  8MP AHD TVI 8MP CVI CVBS CCTV Camera Tester Monitor PTZ](https://anc-electronics-n-services-inc.myshopify.com/products/iv8c-cctv-camera-monitor-professional-cctv-testing-tool-5-inch-display-8mp-ahd-tvi-8mp-cvi-cvbs-cctv-camera-tester-monitor-ptz): Brand Name: POMIACAMLens: camera monitorOrigin: Mainland ChinaHigh-concerned chemical: NoneSensor Size: camera monitorMaximum IR Distance(m): camera monitorSensor Type: camera monitorModel Number: IV8C camera monitorCertification: CESensor Size: camera monitorPlug Type: EU PlugUpdate: support 8MP TVI CVI AHD camera tester1: AHD cam testerCCTV tester monitor: CCTV tester monitor
-  Updated: 2025-12-11T11:32:22Z
+  Updated: 2025-12-19T12:26:48Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - CCTV Monitor & Display
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sceaaf425f6fc40258a417dd74e6738b2g.jpg?v=1765409538
-  Price: $632.99 USD
+  Price: $656.99 USD
 - [Hiseeu 5MP WiFi CCTV Camera Security System Kit 16CH NVR Recorder Set P2P Outdoor Wireless IP Cameras Video Surveillance System](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system): Brand Name: HiseeuOrigin: Mainland ChinaHigh-concerned chemical: NonePCS of Camera: 4PCSCertification: CECertification: FCCCertification: RoHSTV System: NTSCTV System: PALVideo Input: 16 ChannelCable Length: NoneModel Number: WK-4HB615/WK-HD205Smart home platform: alexaResolution: 1080PShell Material: Metal Shell/Plastic ShellHDD Interface: 3.5SATA, Support 500GB up to 4TBVideo Compression: H.265+ Video SurveillanceCamera Feature: 3.0MP Wireless Metal Shell Indoor Outdoor Day and Night visionPower Supply: 12V CCTV Camera Security System KitType 1: Wireless CCTV SystemType 2: Security Camera SystemHD support: 3MP/5MP CCTV KitWaterproof Camera: IP66 Waterproof IP CameraCamera builts microphone: IP Camera Audio InVideo Surveillance System: Security Camera SystemH.265+: CCTV Cameras System H.2658CH Wireless NVR Kit: Video Camera System8CH NVR Set: CCTV Video SurveillanceWireless CCTV Kit: CCTV Camera Security SystemWIFI Camera: video surveillance wifiFeature: AI Humanoid DetectionFeature 2: Audio record sound IP CameraModel 1: 3MP Bullet Camera SystemModel 2: 3MP PTZ camera systemModel 3: 5MP PTZ camera systemHow many camera can add it ?: UP to 16 pieces wireless cameras
-  Updated: 2025-12-13T06:54:18Z
+  Updated: 2025-12-19T12:26:46Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - Surveillance System
   Availability: Available
@@ -7231,79 +7210,79 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [3MP Bullet System A / None / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356310297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $1,526.99 USD
+    Price: $1,632.99 USD
   - [3MP Bullet System A / 3T（户外运动） / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356343065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $2,257.99 USD
+    Price: $2,415.99 USD
   - [3MP Bullet System A / 1T / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356375833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $1,928.99 USD
+    Price: $2,063.99 USD
   - [3MP Bullet System A / 1T / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356408601)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $952.99 USD
+    Price: $1,017.99 USD
   - [3MP Bullet System A / None / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356441369)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $675.99 USD
+    Price: $720.99 USD
   - [3MP Bullet System A / None / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356474137)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $713.99 USD
+    Price: $761.99 USD
   - [3MP Bullet System A / 3T（户外运动） / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356506905)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $1,179.99 USD
+    Price: $1,260.99 USD
   - [3MP Bullet System A / 3T（户外运动） / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356539673)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $1,217.99 USD
+    Price: $1,301.99 USD
   - [3MP Bullet System A / 1T / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356572441)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $990.99 USD
+    Price: $1,058.99 USD
   - [3MP Bullet System A / 1T / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356605209)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $990.99 USD
+    Price: $1,058.99 USD
   - [3MP Bullet System A / None / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356637977)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $713.99 USD
+    Price: $761.99 USD
   - [3MP Bullet System / None / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356670745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,577.99 USD
+    Price: $1,687.99 USD
   - [3MP Bullet System A / 3T（户外运动） / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356703513)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0aae083b337a4b11b3a1555c447570b79.png?v=1765409543
-    Price: $1,217.99 USD
+    Price: $1,301.99 USD
   - [3MP Bullet System / 3T（户外运动） / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356736281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $2,308.99 USD
+    Price: $2,470.99 USD
   - [3MP Bullet System / 1T / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356769049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,979.99 USD
+    Price: $2,118.99 USD
   - [3MP Bullet System / 1T / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356801817)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,028.99 USD
+    Price: $1,098.99 USD
   - [3MP Bullet System / None / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356834585)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $751.99 USD
+    Price: $801.99 USD
   - [3MP Bullet System / None / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356867353)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $748.99 USD
+    Price: $799.99 USD
   - [3MP Bullet System / 3T（户外运动） / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356900121)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,255.99 USD
+    Price: $1,341.99 USD
   - [3MP Bullet System / 3T（户外运动） / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356932889)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
@@ -7311,132 +7290,132 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [3MP Bullet System / 1T / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356965657)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,025.99 USD
+    Price: $1,096.99 USD
   - [3MP Bullet System / 1T / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754356998425)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,025.99 USD
+    Price: $1,096.99 USD
   - [3MP Bullet System / None / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357031193)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $748.99 USD
+    Price: $799.99 USD
   - [5MP Bullet System / None / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357063961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,723.99 USD
+    Price: $1,844.99 USD
   - [3MP Bullet System / 3T（户外运动） / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357096729)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S5ca896482f104a189933b7a6aa5fd0dda.jpg?v=1765409543
-    Price: $1,252.99 USD
+    Price: $1,339.99 USD
   - [5MP Bullet System / 3T（户外运动） / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357129497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $2,454.99 USD
+    Price: $2,627.99 USD
   - [5MP Bullet System / 1T / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357162265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $2,125.99 USD
+    Price: $2,274.99 USD
   - [5MP Bullet System / 1T / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357195033)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,179.99 USD
+    Price: $1,260.99 USD
   - [5MP Bullet System / None / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357227801)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $902.99 USD
+    Price: $963.99 USD
   - [5MP Bullet System / None / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357260569)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $899.99 USD
+    Price: $961.99 USD
   - [5MP Bullet System / 3T（户外运动） / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357293337)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,406.99 USD
+    Price: $1,503.99 USD
   - [5MP Bullet System / 3T（户外运动） / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357326105)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,403.99 USD
+    Price: $1,501.99 USD
   - [5MP Bullet System / 1T / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357358873)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,177.99 USD
+    Price: $1,258.99 USD
   - [5MP Bullet System / 1T / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357391641)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,177.99 USD
+    Price: $1,258.99 USD
   - [5MP Bullet System / None / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357424409)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $899.99 USD
+    Price: $961.99 USD
   - [3MP PTZ System / None / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357457177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,687.99 USD
+    Price: $1,804.99 USD
   - [5MP Bullet System / 3T（户外运动） / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357489945)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S2805854ca1954122b119853a2d0769f8L.jpg?v=1765409543
-    Price: $1,403.99 USD
+    Price: $1,501.99 USD
   - [3MP PTZ System / 3T（户外运动） / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357522713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $2,418.99 USD
+    Price: $2,587.99 USD
   - [3MP PTZ System / 1T / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357555481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $2,089.99 USD
+    Price: $2,235.99 USD
   - [3MP PTZ System / 1T / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357588249)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,154.99 USD
+    Price: $1,233.99 USD
   - [3MP PTZ System / None / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357621017)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $877.99 USD
+    Price: $936.99 USD
   - [3MP PTZ System / None / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357653785)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $889.99 USD
+    Price: $950.99 USD
   - [3MP PTZ System / 3T（户外运动） / Russian Federation](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357686553)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,381.99 USD
+    Price: $1,476.99 USD
   - [3MP PTZ System / 3T（户外运动） / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357719321)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,393.99 USD
+    Price: $1,490.99 USD
   - [3MP PTZ System / 1T / spain](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357752089)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,167.99 USD
+    Price: $1,247.99 USD
   - [3MP PTZ System / 1T / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357784857)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,167.99 USD
+    Price: $1,247.99 USD
   - [3MP PTZ System / None / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357817625)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $889.99 USD
+    Price: $950.99 USD
   - [5MP PTZ System / None / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357850393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sdec799c2d2854457a6c38e00820f9c4cN.jpg?v=1765409553
-    Price: $1,833.99 USD
+    Price: $1,961.99 USD
   - [3MP PTZ System / 3T（户外运动） / france](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357883161)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S0797eee4438a448a8a612b7f3bbb5774L.jpg?v=1765409543
-    Price: $1,393.99 USD
+    Price: $1,490.99 USD
   - [5MP PTZ System / 3T（户外运动） / CHINA](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-5mp-wifi-cctv-camera-security-system-kit-16ch-nvr-recorder-set-p2p-outdoor-wireless-ip-cameras-video-surveillance-system?variant=51754357915929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sdec799c2d2854457a6c38e00820f9c4cN.jpg?v=1765409553
-    Price: $2,564.99 USD
+    Price: $2,744.99 USD
 - [2022 HD 1080P Real-Time 2CH AHD TVI DVR PCB Board Mini Vehicle Mobile DVR Board Support 128GB Sd Card With Remote Control](https://anc-electronics-n-services-inc.myshopify.com/products/2022-hd-1080p-real-time-2ch-ahd-tvi-dvr-pcb-board-mini-vehicle-mobile-dvr-board-support-128gb-sd-card-with-remote-control): Brand Name: POMIACAMOrigin: Mainland ChinaSmart home platform: NoneCertification: CEModel Number: 2ch AHD DVR Board
-  Updated: 2025-12-11T11:32:30Z
+  Updated: 2025-12-19T12:26:44Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - DVR Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S267cfcb208ab4799a0c7998bcd8e62e8y.jpg?v=1765409544
-  Price: $498.99 USD
+  Price: $528.99 USD
 - [Gadinan 8CH 5MP HDMI POE NVR Kit CCTV System Face Detection Playback 5.0MP Outdoor Audio Record IP Camera Video Surveillance Set](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set): Brand Name: GadinanOrigin: Mainland ChinaPCS of Camera: 2PCSPCS of Camera: 4PCSPCS of Camera: 6pcsPCS of Camera: 8PCSCertification: CETV System: NTSCTV System: PALVideo Input: 8 ChannelCable Length: NoneModel Number: GDN-6808HE5-615G5MResolution: 5 MPViewing Angle (Degree): 80-90 degreeTechnology: P2P icloud , Metal housing, WaterproofHard Drive Disk: Supports MAX 1*8TB HDD(NOT included)Support Language: Multi language(English,Spanish,Russian etc.)POE Video Recorder: H.265+ 8CH 5MP POE NVR RecorderLens: 3.6mm wide-angleAlarm System: Motion Detection + Email AlertNVR Processor: Hi3536Audio Recording: SupportIR night vision: 6pcs array IR leds 25M distancePOE: 48V standard POE, distance up to 80-100 metersNVR Channel: 4CH/8CH*5MP optionalP2P: XMEye App or visit via www.xmeye.net5MP Camere Sensor: XM550AI+1/2.5" SC335E CMOS5MP Resolution: 5MP 2592*1944
-  Updated: 2025-12-11T11:32:39Z
+  Updated: 2025-12-19T12:26:42Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - Surveillance System
   Availability: Available
@@ -7444,133 +7423,133 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [CN / None / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358407449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $1,159.99 USD
+    Price: $1,204.99 USD
   - [Russian Federation / 1T / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358440217)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $1,152.99 USD
+    Price: $1,197.99 USD
   - [CN / 2T / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358472985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $1,875.99 USD
+    Price: $1,952.99 USD
   - [Russian Federation / None / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358505753)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $835.99 USD
+    Price: $866.99 USD
   - [CN / 1T / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358538521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $1,619.99 USD
+    Price: $1,684.99 USD
   - [Russian Federation / 4T / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358571289)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $1,605.99 USD
+    Price: $1,669.99 USD
   - [CN / None / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358604057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $1,700.99 USD
+    Price: $1,769.99 USD
   - [Russian Federation / 2T / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358636825)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $1,329.99 USD
+    Price: $1,381.99 USD
   - [CN / 4T / 4CH NVR and 2Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358669593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hff90029d7a4f45ef99a0816f69fbf656C_eZhjes2.jpg?v=1765409547
-    Price: $2,275.99 USD
+    Price: $2,369.99 USD
   - [Russian Federation / 1T / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358702361)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $1,529.99 USD
+    Price: $1,590.99 USD
   - [CN / 2T / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358735129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $2,421.99 USD
+    Price: $2,521.99 USD
   - [Russian Federation / None / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358767897)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $1,208.99 USD
+    Price: $1,256.99 USD
   - [CN / 1T / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358800665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $2,165.99 USD
+    Price: $2,254.99 USD
   - [Russian Federation / 4T / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358833433)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $1,981.99 USD
+    Price: $2,062.99 USD
   - [CN / None / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358866201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $2,232.99 USD
+    Price: $2,324.99 USD
   - [Russian Federation / 2T / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358898969)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $1,705.99 USD
+    Price: $1,774.99 USD
   - [CN / 4T / 8CH NVR and 4Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358931737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hed99c62a72b44724a5bc09e69839790bQ_osCUvGu.jpg?v=1765409547
-    Price: $2,821.99 USD
+    Price: $2,939.99 USD
   - [Russian Federation / 1T / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358964505)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $1,895.99 USD
+    Price: $1,972.99 USD
   - [CN / 2T / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754358997273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $2,952.99 USD
+    Price: $3,075.99 USD
   - [Russian Federation / None / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359030041)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $1,575.99 USD
+    Price: $1,638.99 USD
   - [CN / 1T / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359062809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $2,696.99 USD
+    Price: $2,808.99 USD
   - [Russian Federation / 4T / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359095577)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $2,347.99 USD
+    Price: $2,444.99 USD
   - [CN / None / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359128345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $2,757.99 USD
+    Price: $2,872.99 USD
   - [Russian Federation / 2T / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359161113)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $2,071.99 USD
+    Price: $2,156.99 USD
   - [CN / 4T / 8CH NVR and 6Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359193881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H5e3b73725c2841aead454e80e7b56fd9c_NDxN04F.jpg?v=1765409547
-    Price: $3,352.99 USD
+    Price: $3,493.99 USD
   - [Russian Federation / 1T / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359226649)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $2,257.99 USD
+    Price: $2,351.99 USD
   - [CN / 2T / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359259417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $3,477.99 USD
+    Price: $3,623.99 USD
   - [Russian Federation / None / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359292185)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $1,937.99 USD
+    Price: $2,016.99 USD
   - [CN / 1T / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359324953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $3,221.99 USD
+    Price: $3,356.99 USD
   - [Russian Federation / 4T / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359357721)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $2,710.99 USD
+    Price: $2,823.99 USD
   - [Russian Federation / 2T / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359390489)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $2,434.99 USD
+    Price: $2,535.99 USD
   - [CN / 4T / 8CH NVR and 8Cameras](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-8ch-5mp-hdmi-poe-nvr-kit-cctv-system-face-detection-playback-5-0mp-outdoor-audio-record-ip-camera-video-surveillance-set?variant=51754359423257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hda3d34cd9abe4e178eadb15c6623f5e8J_uCAdGOo.jpg?v=1765409547
-    Price: $3,877.99 USD
+    Price: $4,041.99 USD
 - [Gadinan 32CH 16CH 4K 8MP Face Detection H.265+ CCTV NVR Security Video Surveillance Recorder Motion Detect XMeye for IP Camera](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera): Brand Name: GadinanOrigin: Mainland ChinaHigh-concerned chemical: NoneNetwork Protocol: SMTPNetwork Protocol: FTPNetwork Protocol: DHCPNetwork Protocol: TCP/IPNetwork Protocol: PPPoENetwork Protocol: DDNSTwo-way Audio: NoWireless Security: wepHard drive Interface Type: SATAPOE: NoneCertification: CEe-Cloud(P2P): YesIP Mode: Dynamic IP addressIP Mode: Static IP addressAlarm Type: FTP PhotoAlarm Type: Email PhotoHard Drive Size: 3.5''Supported Mobile Systems: iPhone OSSupported Mobile Systems: AndroidAudio Compression Format: G711AModel Number: GDN-N1009KL/N1016HAudio Input: NoTechnology: NetworkSupported Operating Systems: Microsoft Windows 2000Supported Operating Systems: Microsoft Windows XPSupported Operating Systems: macOSSupported Operating Systems: Microsoft Windows VistaSupported Operating Systems: Microsoft Windows 7Video Standard: NTSCVideo Standard: PALBackup Type: RecorderBackup Type: Hard DriveVideo Resolution: 4MPVideo Resolution: 5 MPNetwork Interface: RJ45 10/100MAudio Output: NoneCommunication Interface: NoneCompressed Format: H.265+/H.264Processor: Hi3536DPlug: EU/US/AU/UKAlarm: Email/FTP Text ( No Photo)9CH NVR Channel: 9*4K16CH NVR Channel: 16*4K32CH NVR Channel: 32*4KPower: DC 12V9CH NVR Playback: 2ch5M/2ch4M/3ch3M/4ch1080P16CH NVR Playback: 4K(1*real-time)/5M(1+1)/4M(2+1)/3M(3+1)/1080P(5+1)P2P: XMEye App or visit via www.xmeye.net
-  Updated: 2025-12-13T10:20:41Z
+  Updated: 2025-12-20T09:47:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - Surveillance Video Recorder
   Availability: Available
@@ -7578,53 +7557,53 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [None / 9CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359587097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $258.99 USD
+    Price: $281.99 USD
   - [None / 32CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359619865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $485.99 USD
+    Price: $530.99 USD
   - [1T / 9CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359652633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $655.99 USD
+    Price: $718.99 USD
   - [1T / 32CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359685401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $882.99 USD
+    Price: $967.99 USD
   - [4T / 9CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359718169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $1,112.99 USD
+    Price: $1,220.99 USD
   - [4T / 32CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359750937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $1,338.99 USD
+    Price: $1,469.99 USD
   - [2T / 9CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359783705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $807.99 USD
+    Price: $885.99 USD
   - [2T / 32CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359816473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $1,034.99 USD
+    Price: $1,134.99 USD
   - [None / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359849241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $310.99 USD
+    Price: $338.99 USD
   - [1T / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359882009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $707.99 USD
+    Price: $775.99 USD
   - [4T / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359914777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $1,164.99 USD
+    Price: $1,277.99 USD
   - [2T / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/gadinan-32ch-16ch-4k-8mp-face-detection-h-265-cctv-nvr-security-video-surveillance-recorder-motion-detect-xmeye-for-ip-camera?variant=51754359947545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1EXx8SrrpK1RjSZTEq6AWAVXaJ_jF1ooVy.jpg?v=1765409548
-    Price: $859.99 USD
+    Price: $942.99 USD
 - [Professional Heavy Duty EVA Foam Padding Knee Pads With Comfortable Gel Cushion and Adjustable Straps for Working, Gardning](https://anc-electronics-n-services-inc.myshopify.com/products/professional-heavy-duty-eva-foam-padding-knee-pads-with-comfortable-gel-cushion-and-adjustable-straps-for-working-gardning): Brand Name: NoEnName_NullOrigin: Mainland ChinaCertification: CEItem Type: Kneepads
-  Updated: 2025-12-11T11:32:39Z
+  Updated: 2025-12-19T12:26:39Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Kneepads
   Availability: Available
@@ -7632,17 +7611,17 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Turquoise](https://anc-electronics-n-services-inc.myshopify.com/products/professional-heavy-duty-eva-foam-padding-knee-pads-with-comfortable-gel-cushion-and-adjustable-straps-for-working-gardning?variant=51754360045849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S71acb09425f54d0ea6165c847b94a9517_f4mODeu.jpg?v=1765409551
-    Price: $213.99 USD
+    Price: $231.99 USD
   - [black](https://anc-electronics-n-services-inc.myshopify.com/products/professional-heavy-duty-eva-foam-padding-knee-pads-with-comfortable-gel-cushion-and-adjustable-straps-for-working-gardning?variant=51754360078617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sd081dab7d641421a9c53394a5269c4a2s_ffDu2NA.jpg?v=1765409550
-    Price: $213.99 USD
+    Price: $231.99 USD
   - [Orange](https://anc-electronics-n-services-inc.myshopify.com/products/professional-heavy-duty-eva-foam-padding-knee-pads-with-comfortable-gel-cushion-and-adjustable-straps-for-working-gardning?variant=51754360111385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S763cb65a8be9420babbd5ac01e4d130eb_zWrrbRt.jpg?v=1765409550
-    Price: $213.99 USD
+    Price: $231.99 USD
 - [Professional Half Face Gas Dust Mask With Wide Vision Safety Goggles Carbon Filtering Cartridge for Spraying Painting Work Safe](https://anc-electronics-n-services-inc.myshopify.com/products/professional-half-face-gas-dust-mask-with-wide-vision-safety-goggles-carbon-filtering-cartridge-for-spraying-painting-work-safe): Size: AverageBrand Name: ELESESAFEModel Number: Professional Half Face Gas Dust Mask With Wide Vision Safety GlassesDenfense Objects: Organic GasUse: WORKOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-14T15:46:23Z
+  Updated: 2025-12-19T12:26:37Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Respirators
   Availability: Available
@@ -7672,7 +7651,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H20b5009c955b44fb987e61e2de0f2671C_DUht878.jpg?v=1765409552
     Price: $68.99 USD
 - [Industrial Dust-Proof Working Mask, High Efficiency Filters, Formaldehyde Protection, Anti-Fog, Haze, Outdoor Respirator](https://anc-electronics-n-services-inc.myshopify.com/products/industrial-dust-proof-working-mask-high-efficiency-filters-formaldehyde-protection-anti-fog-haze-outdoor-respirator): Mask material: soft rubberPackage combination: one mask with 2pcs filtersMask body color: grayFilter color: whiteFilter style: thin electrostatic fiber filter cottonWearing method: head wornFilter effect: 95%Size of mask body: 14.5X13x6.5cmFeature: replaceable filter elementProtection object: soot, smog and particulate dustBrand Name: karocolaModel Number: TF0701Denfense Objects: Organic GasUse: WORKOrigin: Mainland ChinaCertification: NoneChoice: yessemi_Choice: yes
-  Updated: 2025-12-11T11:32:41Z
+  Updated: 2025-12-20T10:49:34Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Respirators
   Availability: Available
@@ -7680,13 +7659,13 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [50pcs-1pack](https://anc-electronics-n-services-inc.myshopify.com/products/industrial-dust-proof-working-mask-high-efficiency-filters-formaldehyde-protection-anti-fog-haze-outdoor-respirator?variant=51754360406297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S562024597d06496d8414d1f75746690ai_tHOO9fZ.jpg?v=1765409554
-    Price: $15.99 USD
+    Price: $16.99 USD
   - [tf0701-mask](https://anc-electronics-n-services-inc.myshopify.com/products/industrial-dust-proof-working-mask-high-efficiency-filters-formaldehyde-protection-anti-fog-haze-outdoor-respirator?variant=51754360439065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3995765b10af4f4387969117d22c66cdo_UQeXkVx.jpg?v=1765409554
-    Price: $36.99 USD
+    Price: $38.99 USD
 - [New Industrial 7-In-1 6800 Full Gas Mask Respirator With Filtering Cartridge for Painting Spraying Similar for 6800](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800): Brand Name: ELESESAFEOrigin: Mainland ChinaModel Number: 6800 Full Gas Mask Respirator With Filtering Cartridge For PaintingCertification: CEDenfense Objects: Organic GasDenfense Objects: HydrogenDenfense Objects: AmmoniaDenfense Objects: Acid GasUse: WORK
-  Updated: 2025-12-11T11:32:41Z
+  Updated: 2025-12-19T12:26:34Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Respirators
   Availability: Available
@@ -7694,29 +7673,29 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Mask Dust set2](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800?variant=51754360504601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H1b04fbd150294394ba0b718aac096206k_W6W4wYQ.jpg?v=1765409555
-    Price: $205.99 USD
+    Price: $216.99 USD
   - [Mask Dust Set](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800?variant=51754360537369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H79b0b231fe074ffe86a5276e084e812em_vbnyVlh.jpg?v=1765409555
-    Price: $189.99 USD
+    Price: $200.99 USD
   - [Mask No4](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800?variant=51754360570137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H14d36b7021044344be887010fa4bde25X_ijVmlWj.jpg?v=1765409555
-    Price: $210.99 USD
+    Price: $221.99 USD
   - [Mask No3](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800?variant=51754360602905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hdd598e524a86454c9bbe717b5eca1f0f1_Q884LdR.jpg?v=1765409555
-    Price: $210.99 USD
+    Price: $221.99 USD
   - [Mask No7](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800?variant=51754360635673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H2cdc04347b0f4cdbad9b29af2df7358dh_KCjIzlL.jpg?v=1765409555
-    Price: $210.99 USD
+    Price: $221.99 USD
   - [Mask Only](https://anc-electronics-n-services-inc.myshopify.com/products/new-industrial-7-in-1-6800-full-gas-mask-respirator-with-filtering-cartridge-for-painting-spraying-similar-for-6800?variant=51754360668441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H79a7c85da6384e70867ef791755eeeebM_kyFHdUp.jpg?v=1765409555
-    Price: $159.99 USD
+    Price: $168.99 USD
 - [6800 Large View Full Gas Mask Full Facepiece Respirator Painting Spraying Silicone Mask](https://anc-electronics-n-services-inc.myshopify.com/products/6800-large-view-full-gas-mask-full-facepiece-respirator-painting-spraying-silicone-mask): Brand Name: NoEnName_NullHigh-concerned chemical: NoneOrigin: Mainland ChinaModel Number: 6800Certification: NoneDenfense Objects: Organic GasDenfense Objects: HydrogenDenfense Objects: AmmoniaDenfense Objects: Acid GasUse: WORK
-  Updated: 2025-12-11T11:32:51Z
+  Updated: 2025-12-19T12:26:32Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Respirators
   Availability: Available
@@ -7730,14 +7709,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/He8c9390875fa44708cf74913d85446692_UEabqRO.jpg?v=1765409556
     Price: $78.99 USD
 - [H.265 10CH*4K NVR Network DVR Digital Video Recorder Board IP Camera Max 8T Motion Detection OVNIF CMS XMEYE SATA Line P2P Cloud](https://anc-electronics-n-services-inc.myshopify.com/products/h-265-10ch-4k-nvr-network-dvr-digital-video-recorder-board-ip-camera-max-8t-motion-detection-ovnif-cms-xmeye-sata-line-p2p-cloud): Brand Name: VOLDRELIOrigin: Mainland ChinaNetwork Protocol: SMTPNetwork Protocol: FTPNetwork Protocol: HTTPNetwork Protocol: DHCPNetwork Protocol: DNSNetwork Protocol: TCP/IPNetwork Protocol: DDNSTwo-way Audio: NoCompression Format: H.265Compression Format: H.264Hard drive Interface Type: SATAPOE: NoneCertification: Nonee-Cloud(P2P): YesIP Mode: Dynamic IP addressIP Mode: Static IP addressHard Drive Size: 3.5''Video Input Interface: RJ45Supported Mobile Systems: iPhone OSSupported Mobile Systems: AndroidAudio Compression Format: G711AModel Number: VDIR-0981-BAudio Input: NoTechnology: NetworkSupported Operating Systems: Microsoft Windows XPSupported Operating Systems: Microsoft Windows VistaSupported Operating Systems: Microsoft Windows 7Video Standard: NTSCVideo Standard: PALSmart home platform: NoneBackup Type: Hard DriveVideo Resolution: 1080pVideo Resolution: 4KAlarm Type: FTP PhotoAlarm Type: Email PhotoNetwork Interface: RJ45 10/100MAudio Output: NoneCommunication Interface: None
-  Updated: 2025-12-11T11:32:43Z
+  Updated: 2025-12-19T12:26:30Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - Surveillance Video Recorder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S1d48745933724edabcb7e9c57a224c83W.jpg?v=1765409557
   Price: $150.99 USD
 - [USB Video Capture Card Easy Cap VHS VCR Mini DV Hi8 DVD to Digital Converter RCA/S-video to USB 2.0 Audio Video Record Capture](https://anc-electronics-n-services-inc.myshopify.com/products/usb-video-capture-card-easy-cap-vhs-vcr-mini-dv-hi8-dvd-to-digital-converter-rca-s-video-to-usb-2-0-audio-video-record-capture): Brand Name: wiistarHigh-concerned chemical: NoneOrigin: Mainland ChinaSmart home platform: OtherCertification: CEModel Number: C3UType: USB 2.0 Video capture cardVideo format: NTSC PALINPUT: 3RCA S videoOUTPUT: USB 2.0Choice: yessemi_Choice: yes
-  Updated: 2025-12-14T12:42:52Z
+  Updated: 2025-12-19T12:26:28Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - DVR Cards
   Availability: Available
@@ -7751,7 +7730,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S3f389d36ed5842da90b5c1b927bb1a62l_RceJG4A.jpg?v=1765409559
     Price: $66.99 USD
 - [Men's Winter Hi Vis Yellow Safety Jacket Reflective Waterproof Jacket With Removable Sleeves Reflective Workwear](https://anc-electronics-n-services-inc.myshopify.com/products/mens-winter-hi-vis-yellow-safety-jacket-reflective-waterproof-jacket-with-removable-sleeves-reflective-workwear): Brand Name: SPARDWEARHigh-concerned chemical: NoneOrigin: Mainland ChinaUse: Utility & SafetyFabric Type: OxfordCertification: NoneFeature: ThermalFeature: WaterproofFeature: ReflectiveFeature: WindproofModel Number: JK60BGender: MenMaterial: POLYESTERItem Type: topsName: Hi Vis Winter Safety Jacket For WinterMaterial: 100% polyester waterproof oxford ;PU coatedReflective tapes: EN ISO20471 ;2" silver tape reflects light for 360-degree nighttimeColor: Fluorescent yellow and navy blueLining: Quilted polyester lining provides warmth and comfortChest pocket: left breast radio pocket with flap closureFeature: waterproof:fully taped waterproof seamsSize: S/M/L/XL/2XLApplication: Construction;Roadsafety;Outdoor working
-  Updated: 2025-12-11T11:32:46Z
+  Updated: 2025-12-19T12:26:26Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -7805,7 +7784,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S1c97cb54c6e645c18e0456261fa11f781_u3H6Zgf.jpg?v=1765409560
     Price: $436.99 USD
 - [Electromagnetic Radiation Protective Silver Fiber Knitted Fabric Underwear Motor Room EMF Shielding Undershirt or Underpants](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants): Brand Name: ajiacnHigh-concerned chemical: NoneOrigin: Mainland ChinaCN: AnhuiFabric Type: KnittedCertification: CEUse: Utility & SafetyModel Number: AJ507&AJ702Gender: UnisexMaterial: NylonItem Type: setsProduct name: Electromagnetic radiation protective undershirt or underpantsFunction: Radiation protectionApplicable site: Family and workplaceMain radiation protection material: 34.2% Silver fiberUndershirt weight: 0.1 kgUnderpants weight: 0.08 kgSize: M, L, XL, XXL, XXXLColor: Silver gray
-  Updated: 2025-12-12T05:26:21Z
+  Updated: 2025-12-20T13:15:02Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -7813,85 +7792,85 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Women underpants / XXXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754361815321)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S326e9caaf6a047bb9bbc5b072dd2725aw.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Men undershirt / XL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754361848089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sefc0b476d08a475684415be7ad5a748bx.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Men underpants / L](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754361880857)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S870e565e43db4249975d0e85c6fb907ei.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Men undershirt / L](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754361913625)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sefc0b476d08a475684415be7ad5a748bx.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Men underpants / XL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754361946393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S870e565e43db4249975d0e85c6fb907ei.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Men undershirt / XXXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754361979161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sefc0b476d08a475684415be7ad5a748bx.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Men undershirt / XXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362011929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sefc0b476d08a475684415be7ad5a748bx.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Men underpants / M](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362044697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S870e565e43db4249975d0e85c6fb907ei.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Men undershirt / M](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362077465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sefc0b476d08a475684415be7ad5a748bx.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Women undershirt / M](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362110233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S67a9e97f2e5748f995a6fce8118cdd8eY.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Men underpants / XXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362143001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S870e565e43db4249975d0e85c6fb907ei.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Men underpants / XXXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362175769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S870e565e43db4249975d0e85c6fb907ei.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Women underpants / XL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362208537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S326e9caaf6a047bb9bbc5b072dd2725aw.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Women underpants / XXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362241305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S326e9caaf6a047bb9bbc5b072dd2725aw.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Women underpants / M](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362274073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S326e9caaf6a047bb9bbc5b072dd2725aw.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Women underpants / L](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362306841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S326e9caaf6a047bb9bbc5b072dd2725aw.jpg?v=1765409563
-    Price: $372.99 USD
+    Price: $373.99 USD
   - [Women undershirt / XXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362339609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S67a9e97f2e5748f995a6fce8118cdd8eY.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Women undershirt / XXXL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362372377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S67a9e97f2e5748f995a6fce8118cdd8eY.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Women undershirt / L](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362405145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S67a9e97f2e5748f995a6fce8118cdd8eY.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
   - [Women undershirt / XL](https://anc-electronics-n-services-inc.myshopify.com/products/electromagnetic-radiation-protective-silver-fiber-knitted-fabric-underwear-motor-room-emf-shielding-undershirt-or-underpants?variant=51754362437913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S67a9e97f2e5748f995a6fce8118cdd8eY.jpg?v=1765409563
-    Price: $569.99 USD
+    Price: $570.99 USD
 - [Men's Work Wear Working Pants Tool Trouser Black Work Trousers Men Workwear Cargo Pants](https://anc-electronics-n-services-inc.myshopify.com/products/mens-work-wear-working-pants-tool-trouser-black-work-trousers-men-workwear-cargo-pants): Brand Name: BauskyddHigh-concerned chemical: NoneOrigin: Mainland ChinaCN: JiangsuUse: Utility & SafetyFabric Type: TWILLCertification: NoneFeature: Quick DryModel Number: BK-037Gender: UnisexMaterial: POLYESTERMaterial: COTTONItem Type: BottomsName: Black work trousersColor: BlackSize: S-3XLFunction: DurableApplication: workwear ;mechanic ;electrician ;craftsman
-  Updated: 2025-12-12T09:15:10Z
+  Updated: 2025-12-20T13:36:41Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -8097,7 +8076,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S93a375d5ecff43a6b6847453763cfb0en.jpg?v=1765409569
     Price: $365.99 USD
 - [Men Woman Work Vest With Pockets and Zipper Workwear Red Construction Vest](https://anc-electronics-n-services-inc.myshopify.com/products/men-woman-work-vest-with-pockets-and-zipper-workwear-red-construction-vest): Brand Name: SPARDWEARHigh-concerned chemical: NoneOrigin: Mainland ChinaCN: JiangsuFabric Type: TWILLCertification: NoneUse: Utility & SafetyFeature: Quick DryModel Number: safety vest 1002Gender: UnisexMaterial: POLYESTERItem Type: topsName: reflective vestcolor: Orange ;yellow;yellow&black;Red;Khaki;GoldenSize: M/L/XL/2XLApplication: Company ;Individual;Roadsafety;cycling ;running;ConstructionStandards: EN ISO 20471 \CECustomized logo: Support logo printing ;Screen printingMain fabric: 100% polyester knitted fabric ,120gsmReflective stripes: EN ISO 20471 High visibility reflective tapes ;5cm width
-  Updated: 2025-12-14T23:33:18Z
+  Updated: 2025-12-20T10:11:20Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -8183,7 +8162,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sade6cb9b0ef5496aad0e5c509ecada96T.jpg?v=1765409570
     Price: $92.99 USD
 - [SPARDWEAR Hi Vis Vest Workwear Clothing Safety Reflective Vest Safety Vest Reflective Logo Printing](https://anc-electronics-n-services-inc.myshopify.com/products/spardwear-hi-vis-vest-workwear-clothing-safety-reflective-vest-safety-vest-reflective-logo-printing): Brand Name: SPARDWEARHigh-concerned chemical: NoneOrigin: Mainland ChinaCN: JiangsuUse: Utility & SafetyFabric Type: TWILLCertification: NoneFeature: ReflectiveFeature: Quick DryModel Number: reflective vestGender: UnisexMaterial: POLYESTERItem Type: topsName: hi vis vest reflective vestscolor: Orange ;yellow;Blue ;GreenCustomized logo: custom screen printingApplication: Company ;Individual;Roadsafety;cycling ;running
-  Updated: 2025-12-11T11:32:58Z
+  Updated: 2025-12-19T12:26:18Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -8233,14 +8212,14 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S52de44e5234549d2a30e71073076eba2Y.jpg?v=1765409572
     Price: $59.99 USD
 - [Double Warning LED Safety Road Cone 41cm Height Folding Roadblock Charging Telescopic Ice Cream Shape Reflective Traffic Cone](https://anc-electronics-n-services-inc.myshopify.com/products/double-warning-led-safety-road-cone-41cm-height-folding-roadblock-charging-telescopic-ice-cream-shape-reflective-traffic-cone): Brand Name: YemingduoHigh-concerned chemical: NoneOrigin: Mainland ChinaSize: MLED Light style: 2835Colour: Fluorescent orangeSpecifications: 24.5cm*41cmLight fastness: Waterproof and sunproofWeight: 1.15KGEndurance: 10 hoursDurable performance: StrongTexture of material: Oxford ClothsController: USB ChargingProduct type: Traffic cone
-  Updated: 2025-12-11T11:32:58Z
+  Updated: 2025-12-19T12:26:16Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Cones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H62e20d3fd2954179bb9c848414a5c4f3K_fSbYPbO.jpg?v=1765409573
-  Price: $549.99 USD
+  Price: $597.99 USD
 - [Hiseeu 4CH 10CH 16CH 4K 8MP 5MP POE NVR for POE IP CCTV Surveillance Camera System Kit H.265+ CCTV NVR Audio Video Record ONVIF](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif): Brand Name: HiseeuOrigin: Mainland ChinaHigh-concerned chemical: NoneNetwork Protocol: TCP/IPNetwork Protocol: DDNSNetwork Protocol: PPPoETwo-way Audio: NoCompression Format: H.265Hard drive Interface Type: SATAPOE: 4 PortCertification: CECertification: RoHSe-Cloud(P2P): YesIP Mode: Dynamic IP addressAlarm Type: Email PhotoHard Drive Size: 3.5''Supported Mobile Systems: AndroidModel Number: H5NVR-P-4/8/16Audio Input: NoTechnology: NetworkSupported Operating Systems: Microsoft Windows 7Smart home platform: NoneBackup Type: Hard DriveVideo Resolution: 1080pNetwork Interface: RJ45 10/100MAudio Output: NoneRS485: YesHDD: Support 1 HDDVideo Outpout: VGA/HDMIPower Plug Type: EU/US/AU/UK optionMobile Remote: iPhone,Android mobilePOE Power: 48V-52VVideo Input: 4ch 1080P/8ch D1POE Ports: 8/16
-  Updated: 2025-12-11T16:13:58Z
+  Updated: 2025-12-20T11:54:02Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Video Surveillance - Surveillance Video Recorder
   Availability: Available
@@ -8248,77 +8227,77 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [CHINA / None / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367156505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $763.99 USD
+    Price: $837.99 USD
   - [Russian Federation / None / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367189273)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $433.99 USD
+    Price: $475.99 USD
   - [spain / None / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367222041)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,090.99 USD
+    Price: $1,195.99 USD
   - [Russian Federation / None / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367254809)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,090.99 USD
+    Price: $1,195.99 USD
   - [CHINA / 1T / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367287577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,218.99 USD
+    Price: $1,335.99 USD
   - [CHINA / None / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367320345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,690.99 USD
+    Price: $1,852.99 USD
   - [spain / 1T / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367353113)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,366.99 USD
+    Price: $1,497.99 USD
   - [Russian Federation / 3T（户外运动） / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367385881)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,581.99 USD
+    Price: $1,732.99 USD
   - [spain / 3T（户外运动） / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367418649)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,581.99 USD
+    Price: $1,732.99 USD
   - [Russian Federation / 1T / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367451417)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $709.99 USD
+    Price: $777.99 USD
   - [CHINA / 3T（户外运动） / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367484185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,404.99 USD
+    Price: $1,538.99 USD
   - [spain / 1T / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367516953)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $709.99 USD
+    Price: $777.99 USD
   - [Russian Federation / 3T（户外运动） / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367549721)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $871.99 USD
+    Price: $955.99 USD
   - [CHINA / 1T / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367582489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $2,046.99 USD
+    Price: $2,242.99 USD
   - [spain / 3T（户外运动） / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367615257)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $871.99 USD
+    Price: $955.99 USD
   - [spain / None / 8CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367648025)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $433.99 USD
+    Price: $475.99 USD
   - [Russian Federation / 1T / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367680793)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $1,366.99 USD
+    Price: $1,497.99 USD
   - [CHINA / 3T（户外运动） / 16CH](https://anc-electronics-n-services-inc.myshopify.com/products/hiseeu-4ch-10ch-16ch-4k-8mp-5mp-poe-nvr-for-poe-ip-cctv-surveillance-camera-system-kit-h-265-cctv-nvr-audio-video-record-onvif?variant=51754367713561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Sfe33fbb1683742fbbcfbe600edcfb72b0.jpg?v=1765409575
-    Price: $2,235.99 USD
+    Price: $2,449.99 USD
 - [QIANGLEAF Thick Cowhide Rock Climbing Leather Industrial Mechanic Working Glove Safety Protectiove Repair Welding Breathable 3ZG](https://anc-electronics-n-services-inc.myshopify.com/products/qiangleaf-thick-cowhide-rock-climbing-leather-industrial-mechanic-working-glove-safety-protectiove-repair-welding-breathable-3zg): Brand Name: QIANGLEAFOrigin: Mainland ChinaMaterial: LeatherCertification: NoneModel Number: 3ZGClassification: Welder's GlovesCertification body: ISO9001, CEMaterial: CowhideLining: NoneWrist: LooseTime to market: 2019/01/30Insulation: NOSeason: Four SeasonsApplicable people: AllWaterproof: Surface water repellent;Breathability: Breathable / ConventionalSize: M L XL XXLColor: YellowApplicable industries: Gardening/driving/loading/unloading/paint protection/mechanicalBrand Country: ChinaRemarks: Gloves protect/leather glovesWholesale/Custom: OEM / ODM(Volume discounts)Delivery: Free Shipping/Free Return/Easy Return/Aliexpress PlusSize specification: European size
-  Updated: 2025-12-11T11:33:02Z
+  Updated: 2025-12-19T12:26:13Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Gloves
   Availability: Available
@@ -8340,7 +8319,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/Hc00034bbc4974742bcf51c2e8d89d870a_WAPIKav.jpg?v=1765409577
     Price: $200.99 USD
 - [Roadstar Reflective Sticker EN ISO 20471 Many Size Acceptable Reflective Fabric With Adhesive Warning Mark  for Bag Car Helmet](https://anc-electronics-n-services-inc.myshopify.com/products/roadstar-reflective-sticker-en-iso-20471-many-size-acceptable-reflective-fabric-with-adhesive-warning-mark-for-bag-car-helmet): Brand Name: NoEnName_NullOrigin: Mainland ChinaWidth: 1 - 10High-concerned chemical: NoneModel Number: RS-821BJLength: 500Product Name: reflective fabric with adhesiveColor: GreyReflectivity: 300 cd/lux.m2Model Number: RS-821BJMaterial: 65% polyester & 35% cottonCERTIFICATE: EN ISO 20471 CLASSIIlength: 5m
-  Updated: 2025-12-15T01:55:31Z
+  Updated: 2025-12-19T12:26:11Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Warning Tape
   Availability: Available
@@ -8366,7 +8345,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1l7Lrx9zqK1RjSZFLq6An2XXay_89J5xaf.jpg?v=1765409579
     Price: $58.99 USD
 - [Non Slip Safety Grip Tape Strong Adhesive Safety Traction Tape PVC Warning Tape Stairs Floor Anti-Slip Indoor/Outdoor Stickers](https://anc-electronics-n-services-inc.myshopify.com/products/non-slip-safety-grip-tape-strong-adhesive-safety-traction-tape-pvc-warning-tape-stairs-floor-anti-slip-indoor-outdoor-stickers): Brand Name: NoEnName_NullOrigin: Mainland ChinaWidth: 2.5 - 5High-concerned chemical: NoneModel Number: GW0002
-  Updated: 2025-12-14T14:04:14Z
+  Updated: 2025-12-19T12:26:09Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Warning Tape
   Availability: Available
@@ -8380,7 +8359,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1DoMSJeySBuNjy1zdq6xPxFXa3_fisBEMS.jpg?v=1765409580
     Price: $42.99 USD
 - [Men's Winter Hi Vis Jacket Waterproof Jacket With Removable Sleeves Workwear](https://anc-electronics-n-services-inc.myshopify.com/products/mens-winter-hi-vis-jacket-waterproof-jacket-with-removable-sleeves-workwear): Brand Name: SPARDWEARHigh-concerned chemical: NoneOrigin: Mainland ChinaCN: JiangsuFabric Type: OxfordCertification: NoneUse: Utility & SafetyFeature: ThermalFeature: WaterproofFeature: WindproofModel Number: MY 3003Gender: MenMaterial: POLYESTERItem Type: topsName: Hi Vis Winter Safety Jacket For WinterMaterial: 100% polyester waterproof oxford ;PU coatedReflective tapes: EN ISO20471 ;2" silver tape reflects light for 360-degree nighttimeColor: Fluorescent yellow and navy blueLining: Quilted polyester lining provides warmth and comfortChest pocket: left breast radio pocket with flap closureFeature: waterproof:fully taped waterproof seamsSize: S/M/L/XL/2XLApplication: Construction;Roadsafety;Outdoor working
-  Updated: 2025-12-11T11:33:09Z
+  Updated: 2025-12-19T12:26:07Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -8434,7 +8413,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/S7fbf872426044b8786d931c6a11bd2f9T.jpg?v=1765409582
     Price: $351.99 USD
 - [Hi Vis Long Sleeve Poly Cotton Light Weight Reflective Safety Work Jacket Workwear Shirt](https://anc-electronics-n-services-inc.myshopify.com/products/hi-vis-long-sleeve-poly-cotton-light-weight-reflective-safety-work-jacket-workwear-shirt): Brand Name: SPARDWEARHigh-concerned chemical: NoneOrigin: Mainland ChinaCN: JiangsuMaterial: COTTONUse: Utility & SafetyFabric Type: TWILLCertification: NoneFeature: ReflectiveModel Number: Work wearGender: MenItem Type: topsName: poly cotton work Jacket work suitFabric: poly cotton twill fabric ,light weightColor: Orange;Navy;Blue ;GreyReflective tape: High quality chinese tape ;5cm widthPockets: Two chest pockets
-  Updated: 2025-12-11T11:33:15Z
+  Updated: 2025-12-19T12:26:05Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Clothing
   Availability: Available
@@ -8536,7 +8515,7 @@ We handle all your business needs so you don't have to. Your success is our miss
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1NhG3X16sK1RjSsrbq6xbDXXav_xfJ2NyU.jpg?v=1765409585
     Price: $193.99 USD
 - [NMSafety 100% Stainless Steel High Quality Butcher Protect Meat Kitchen Fishing Glove ANSI A5](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5): Brand Name: nmsafetyUse: For SportsOrigin: Mainland ChinaHigh-concerned chemical: NoneTypes of Glove: With FourchettesMaterial: Stainless SteelCertification: CEModel Number: SM316-1Classification: Working GlovesCraft of Weaving: TattingGloves Liner Material: Stainless steel LinePlace of Origin: China (Mainland)Gloves Application: ButcherSize: 6/XS,7/S,8/M,9/L,10/XL,11/XXLDrop shipping: OKWholesale: Available
-  Updated: 2025-12-11T11:33:13Z
+  Updated: 2025-12-19T12:26:03Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Safety Gloves
   Availability: Available
@@ -8544,29 +8523,29 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [XXL](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5?variant=51754369876249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H92262f9835e64f2ea5d3edbe2640d03bh_H7kaHT3.jpg?v=1765409587
-    Price: $84.99 USD
+    Price: $88.99 USD
   - [XL](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5?variant=51754369909017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H92262f9835e64f2ea5d3edbe2640d03bh_H7kaHT3.jpg?v=1765409587
-    Price: $84.99 USD
+    Price: $88.99 USD
   - [L](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5?variant=51754369941785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H92262f9835e64f2ea5d3edbe2640d03bh_H7kaHT3.jpg?v=1765409587
-    Price: $84.99 USD
+    Price: $88.99 USD
   - [M](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5?variant=51754369974553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H92262f9835e64f2ea5d3edbe2640d03bh_H7kaHT3.jpg?v=1765409587
-    Price: $84.99 USD
+    Price: $88.99 USD
   - [S](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5?variant=51754370007321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H92262f9835e64f2ea5d3edbe2640d03bh_H7kaHT3.jpg?v=1765409587
-    Price: $84.99 USD
+    Price: $88.99 USD
   - [XS](https://anc-electronics-n-services-inc.myshopify.com/products/nmsafety-100-stainless-steel-high-quality-butcher-protect-meat-kitchen-fishing-glove-ansi-a5?variant=51754370040089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/H92262f9835e64f2ea5d3edbe2640d03bh_H7kaHT3.jpg?v=1765409587
-    Price: $78.99 USD
+    Price: $82.99 USD
 - [1Pcs 4.8cm*5m Anti-Slip Warning Tape With Caution for Factory Warehouse Home Stairs Skateboard Warning Sticker Workplace Safety](https://anc-electronics-n-services-inc.myshopify.com/products/1pcs-4-8cm-5m-anti-slip-warning-tape-with-caution-for-factory-warehouse-home-stairs-skateboard-warning-sticker-workplace-safety): Brand Name: ELESESAFEModel Number: 1Pcs 4.8cm*5m Anti-Slip Warning Tape With CautionColor: Yellow And BlackLength: 5m (16.4 Foot)Width: 4.8cm (1.9 Inch)Material: PVC, quartz sand Pressure-sensitive adhesive
-  Updated: 2025-12-11T11:33:21Z
+  Updated: 2025-12-19T12:26:01Z
   Vendor: ANC Electronics N Services Inc
   Product Type: Computer & Office - Security & Protection - Workplace Safety Supplies - Warning Tape
   Availability: Available
@@ -8574,17 +8553,17 @@ We handle all your business needs so you don't have to. Your success is our miss
   - [Watch Your Step](https://anc-electronics-n-services-inc.myshopify.com/products/1pcs-4-8cm-5m-anti-slip-warning-tape-with-caution-for-factory-warehouse-home-stairs-skateboard-warning-sticker-workplace-safety?variant=51754370335001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1k90OaOzxK1Rjy1zkq6yHrVXaf_oznbkSr.jpg?v=1765409588
-    Price: $64.99 USD
+    Price: $70.99 USD
   - [Caution](https://anc-electronics-n-services-inc.myshopify.com/products/1pcs-4-8cm-5m-anti-slip-warning-tape-with-caution-for-factory-warehouse-home-stairs-skateboard-warning-sticker-workplace-safety?variant=51754370367769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0974/6415/6441/files/HTB1k90OaOzxK1Rjy1zkq6yHrVXaf_oznbkSr.jpg?v=1765409588
-    Price: $64.99 USD
+    Price: $70.99 USD
 [List Continued](https://anc-electronics-n-services-inc.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIxNTA5NjM4NTgxNywibGFzdF92YWx1ZSI6IjEwMjE1MDk2Mzg1ODE3In0=)
 
 ## Collections
 
 - [Home page](https://anc-electronics-n-services-inc.myshopify.com/collections/frontpage)
-  Updated: 2025-12-15T04:07:40Z
+  Updated: 2025-12-20T13:42:55Z
   Total Products: 368
 - [Digital Goods VAT Tax](https://anc-electronics-n-services-inc.myshopify.com/collections/digital-goods-vat-tax)
   Updated: 2025-11-28T04:21:18Z
@@ -8593,8 +8572,8 @@ We handle all your business needs so you don't have to. Your success is our miss
   Updated: 2025-12-12T05:02:33Z
   Total Products: 1
 - [Electronics](https://anc-electronics-n-services-inc.myshopify.com/collections/electronics): Electronics, computers, computer parts, computer tools, cameras, and so much more
-  Updated: 2025-12-15T04:07:40Z
-  Total Products: 361
+  Updated: 2025-12-20T13:25:56Z
+  Total Products: 41
 - [Business Decor](https://anc-electronics-n-services-inc.myshopify.com/collections/business-decor)
   Updated: 2025-12-12T05:02:33Z
   Total Products: 2
@@ -8605,8 +8584,8 @@ We handle all your business needs so you don't have to. Your success is our miss
   Updated: 2025-12-12T05:02:33Z
   Total Products: 5
 - [Bags](https://anc-electronics-n-services-inc.myshopify.com/collections/bags): Bags, purses, computer bags, survival bags and more
-  Updated: 2025-12-12T07:17:34Z
-  Total Products: 3
+  Updated: 2025-12-19T12:37:18Z
+  Total Products: 8
 
 ## Blogs
 
@@ -8615,14 +8594,97 @@ We handle all your business needs so you don't have to. Your success is our miss
     Updated: 2025-12-12T15:04:18Z
     Author: Angela Williams
     Tags: Credit repair, Prices, Welcome
-  - [A Start-up Assistance Program Like No Other!](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/a-start-up-assistance-program-like-no-other)
-    Updated: 2025-12-16T19:04:56Z
+  - [A Start-up Assistance Program Like No Other!](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/a-start-up-assistance-program-like-no-other): <p>Start your business with our program, and by the end of our program you will have a business that can withstand any economy up or down with the solid foundation we mentor, help, and guide you in building. Our program has been tried, tested, and proven to be just the unique value most new business owners are looking for. Because with us, you walk away not just smarter and with certifications, but also with a website you built with our help, a business in compliance, and with a solid foundation ready and registered to make you the money you been dreaming of. Set an appointment today or just sign up for the membership within our store. </p>
+    Updated: 2025-12-19T12:15:06Z
     Author: ANC Electronics N Services Inc
+    Tags: need help starting a business, start-up assisitance, start-up help, starting a business
   - [Elevate Your Business with ANC Electronics N Services Inc](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/elevate-your-business-with-anc-electronics-n-services-inc)
     Updated: 2025-12-08T09:44:24Z
     Author: ANC Electronics N Services Inc
   - [Fruit Tree Spray Gun: High-Pressure Remote Sprayer for Trees](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/fruit-tree-spray-gun-high-pressure-remote-sprayer-for-trees)
-    Updated: 2025-12-16T13:03:35Z
+    Updated: 2025-12-19T06:04:08Z
+    Author: Clickfrom AI Agent
+  - [The Complete Guide to Metal Detectors for Treasure Hunting](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/the-complete-guide-to-metal-detectors-for-treasure-hunting)
+    Updated: 2025-12-19T15:04:08Z
+    Author: Clickfrom AI Agent
+  - [Dior Homme Cologne Spray: Crisp Citrus for Everyday](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/dior-homme-cologne-spray-crisp-citrus-for-everyday)
+    Updated: 2025-12-19T23:02:49Z
+    Author: Clickfrom AI Agent
+  - [VVS Moissanite Watches: Arabian Brand Iced Out Gift](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/vvs-moissanite-watches-arabian-brand-iced-out-gift)
+    Updated: 2025-12-20T16:05:09Z
+    Author: Clickfrom AI Agent
+  - [THERAGUN X3PRO Mini: Powerful Air Duster for Cars & PCs](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/theragun-x3pro-mini-powerful-air-duster-for-cars-pcs)
+    Updated: 2025-12-19T12:20:12Z
+    Author: Clickfrom AI Agent
+  - [Choosing the Right Bench Vise for Woodworking Projects](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/choosing-the-right-bench-vise-for-woodworking-projects)
+    Updated: 2025-12-19T12:20:03Z
+    Author: Clickfrom AI Agent
+  - [300A Copper Electrode Holder: Essential Welding Clamp](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/300a-copper-electrode-holder-essential-welding-clamp)
+    Updated: 2025-12-19T12:19:56Z
+    Author: Clickfrom AI Agent
+  - [5-Inch LCD Endoscope for Industrial Inspection: A Practical Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/5-inch-lcd-endoscope-for-industrial-inspection-a-practical-guide)
+    Updated: 2025-12-19T12:19:42Z
+    Author: Clickfrom AI Agent
+  - [Industrial Matte Black Pendant Lamp for Nordic Vibes](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/industrial-matte-black-pendant-lamp-for-nordic-vibes)
+    Updated: 2025-12-19T12:19:32Z
+    Author: Clickfrom AI Agent
+  - [8-Lights Lantern Pendant: Industrial Farmhouse Chandelier Ideas](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/8-lights-lantern-pendant-industrial-farmhouse-chandelier-ideas)
+    Updated: 2025-12-19T12:19:24Z
+    Author: Clickfrom AI Agent
+  - [Low Profile Caged Ceiling Fan with Lights — Modern Industrial](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/low-profile-caged-ceiling-fan-with-lights-modern-industrial)
+    Updated: 2025-12-19T12:19:12Z
+    Author: Clickfrom AI Agent
+  - [Choosing an 8-Port Industrial PoE Gigabit Fiber Switch](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/choosing-an-8-port-industrial-poe-gigabit-fiber-switch)
+    Updated: 2025-12-19T12:18:51Z
+    Author: Clickfrom AI Agent
+    Tags: fiber switch
+  - [CARIBE Rugged Barcode Scanner: Portable Android PDA Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/caribe-rugged-barcode-scanner-portable-android-pda-guide)
+    Updated: 2025-12-19T12:18:19Z
+    Author: Clickfrom AI Agent
+    Tags: barcode scanner
+  - [Farmhouse Rustic Ceiling Fan with Remote — 6 Speeds](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/farmhouse-rustic-ceiling-fan-with-remote-6-speeds)
+    Updated: 2025-12-19T12:17:55Z
+    Author: Clickfrom AI Agent
+  - [Industrial Touch Screen Monitors: Front IP65 Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/industrial-touch-screen-monitors-front-ip65-guide)
+    Updated: 2025-12-19T12:17:37Z
+    Author: Clickfrom AI Agent
+  - [Low Profile Caged Ceiling Fan with Lights: Modern Industrial](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/low-profile-caged-ceiling-fan-with-lights-modern-industrial-1)
+    Updated: 2025-12-19T12:17:29Z
+    Author: Clickfrom AI Agent
+  - [Yellow Transparent Grafted Film for Industrial Packaging](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/yellow-transparent-grafted-film-for-industrial-packaging)
+    Updated: 2025-12-19T12:17:19Z
+    Author: Clickfrom AI Agent
+  - [8-Lights Black Lantern Pendant: Industrial Farmhouse Lighting Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/8-lights-black-lantern-pendant-industrial-farmhouse-lighting-guide)
+    Updated: 2025-12-19T12:17:09Z
+    Author: Clickfrom AI Agent
+  - [Modern Leather Dining Chair Sets: A Complete Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/modern-leather-dining-chair-sets-a-complete-guide)
+    Updated: 2025-12-19T12:16:51Z
+    Author: Clickfrom AI Agent
+  - [KERUI 2MP Endoscope: The Ultimate Inspection Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/kerui-2mp-endoscope-the-ultimate-inspection-guide)
+    Updated: 2025-12-19T12:16:18Z
+    Author: Clickfrom AI Agent
+    Tags: endoscope
+  - [Essential Safety Goggles: Eye Protection for Work and Daily Use](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/essential-safety-goggles-eye-protection-for-work-and-daily-use): <p>Providing any and all safety needs for your jobsite or office</p>
+    Updated: 2025-12-19T12:09:36Z
+    Author: Clickfrom AI Agent
+    Tags: Work Safety
+  - [A Practical Guide to 5V Dual Relay Modules for Arduino](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/a-practical-guide-to-5v-dual-relay-modules-for-arduino)
+    Updated: 2025-12-19T12:08:23Z
+    Author: Clickfrom AI Agent
+  - [Refined Industrial 4-Door Credenza in Navy Blue Finish](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/refined-industrial-4-door-credenza-in-navy-blue-finish): <h3 style="margin: 0 0 12px 0; font-size: 18px; font-weight: 600; color: #202124; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">Refined Industrial 4-Door Credenza With Wooden Arc Legs &amp; Bronze Clasps – Advanced Storage Design, Navy Blue</h3>
+<p style="margin: 0 0 16px 0; font-size: 14px; color: #5f6368; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">Specifications Place of Origin China Main Color Navy Blue Main Material MDF Filler MDF Product Style Farmhouse, in white or blue, good for any house or office</p>
+    Updated: 2025-12-19T12:08:03Z
+    Author: Clickfrom AI Agent
+    Tags: Furniture, Wooden 4-door Credenza
+  - [8-Inch Industrial Security LCD Monitor: VGA/HDMI/USB](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/8-inch-industrial-security-lcd-monitor-vga-hdmi-usb): <p>Security Lighting for your home or business</p>
+    Updated: 2025-12-19T12:05:15Z
+    Author: Clickfrom AI Agent
+    Tags: security lights
+  - [Industrial Vanity Lights for a Vintage Bathroom Makeover](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/industrial-vanity-lights-for-a-vintage-bathroom-makeover)
+    Updated: 2025-12-19T12:02:58Z
+    Author: Clickfrom AI Agent
+  - [Open-Smart R3 DIY ATmega328P Programmer: A Guide](https://anc-electronics-n-services-inc.myshopify.com/blogs/news/open-smart-r3-diy-atmega328p-programmer-a-guide)
+    Updated: 2025-12-19T12:01:50Z
     Author: Clickfrom AI Agent
 
 ## Store Pages
@@ -8639,6 +8701,10 @@ We handle all your business needs so you don't have to. Your success is our miss
   Updated: 2025-12-10T10:32:41Z
 - [Startup Apprentice Program Overview](https://anc-electronics-n-services-inc.myshopify.com/pages/startup-apprentice-program-overview)
   Updated: 2025-12-10T10:48:38Z
+- [Confirmation Page](https://anc-electronics-n-services-inc.myshopify.com/pages/confirmation-page): Confirmation Page Confirmed Thank you for being our valued customer. Your order is confirmed and will be dispatched shortly! Continue Shopping //
+  Updated: 2025-12-16T21:56:39Z
+- [Help Center](https://anc-electronics-n-services-inc.myshopify.com/pages/md-help-center)
+  Updated: 2025-12-19T12:49:14Z
 
 ## Policies
 
