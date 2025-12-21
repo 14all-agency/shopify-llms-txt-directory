@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-11-12T10:03:02Z
 - Contact Email: fivers@outlook.it
-- Updated At: 2025-12-19T00:00:22.507Z
+- Updated At: 2025-12-21T00:00:22.295Z
 
 ## Products
 
@@ -1252,21 +1252,21 @@
     Availability: Not Available
     Price: 9,00 € EUR
 - [Fivers Grip bianchi](https://fivers.store/products/fivers-urban-rossa-copia): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Grip sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
-  Updated: 2025-12-18T15:12:01Z
+  Updated: 2025-12-19T03:42:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-b676abbc_1.png?v=1763483976
   Price: 6,00 € EUR
 - [Fivers Grip neri](https://fivers.store/products/fivers-grip-neri): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Grip sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
-  Updated: 2025-12-18T15:08:57Z
+  Updated: 2025-12-19T18:06:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-b676abbc_1.png?v=1763484418
   Price: 6,00 € EUR
 - [Fivers Speed bianca 3 varianti](https://fivers.store/products/fivers-speed-bianca-5-varianti): La maglia tecnica Fivers Speed è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T11:08:37Z
+  Updated: 2025-12-20T11:45:18Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1722,7 +1722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/vdssdvdv.png?v=1765471862
     Price: 12,00 € EUR
 - [Fivers Circuit 1](https://fivers.store/products/fivers-circuit-1): La maglia tecnica Fivers Circuit nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T15:04:32Z
+  Updated: 2025-12-19T03:04:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1983,7 +1983,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Snake sport](https://fivers.store/products/fivers-snake-sport): La maglia tecnica Fivers Snake sport è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e di un serpente stilizzato in verde fluo Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T14:11:00Z
+  Updated: 2025-12-19T02:08:54Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
