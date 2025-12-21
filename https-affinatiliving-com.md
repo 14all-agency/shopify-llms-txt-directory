@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-21T04:00:34.802Z
+- Updated At: 2025-12-21T08:00:34.050Z
 
 ## Products
 
@@ -7593,7 +7593,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8196.png?v=1766075243
   Price: $6.95 USD
 - [Black Raspberry Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/black-raspberry-vanilla-body-scrub-64-oz-whipped-salt-scrub): Indulge in Black Raspberry Vanilla body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, soft, beautifully scented skin.
-  Updated: 2025-12-20T16:40:23Z
+  Updated: 2025-12-21T04:18:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7608,7 +7608,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Coconut Dream Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/coconut-dream-body-scrub-64-oz-whipped-salt-scrub): Escape with Coconut Dream body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth, hydrated, beach-ready skin.
-  Updated: 2025-12-20T16:40:23Z
+  Updated: 2025-12-21T04:22:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7623,7 +7623,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Peppermint Swirl Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/peppermint-swirl-body-scrub-64-oz-whipped-salt-scrub): Refresh your skin with Peppermint Swirl body scrub. A whipped salt scrub with jojoba oil that delivers cooling exfoliation and smooth skin.
-  Updated: 2025-12-20T16:40:21Z
+  Updated: 2025-12-21T04:23:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7638,7 +7638,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Cinnamon Swirl Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/cinnamon-swirl-body-scrub-64-oz-whipped-salt-scrub): Warm and exfoliate with Cinnamon Swirl body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for soft, polished skin.
-  Updated: 2025-12-20T16:41:46Z
+  Updated: 2025-12-21T04:25:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7668,7 +7668,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Birthday Cake Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/birthday-cake-body-scrub-64-oz-whipped-salt-scrub): Treat your skin with Birthday Cake body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, indulgent self-care.
-  Updated: 2025-12-20T16:41:46Z
+  Updated: 2025-12-21T04:29:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7683,7 +7683,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Lavender Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/lavender-vanilla-body-scrub-64-oz-whipped-salt-scrub): Relax with Lavender Vanilla body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and calming everyday exfoliation.
-  Updated: 2025-12-20T18:37:18Z
+  Updated: 2025-12-21T05:53:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7698,7 +7698,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Clean Cotton Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/clean-cotton-body-scrub-64-oz-whipped-salt-scrub): Refresh your routine with Clean Cotton body scrub. A whipped salt scrub with jojoba oil for clean, smooth skin and gentle exfoliation.
-  Updated: 2025-12-20T18:05:16Z
+  Updated: 2025-12-21T05:55:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7713,7 +7713,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Strawberry Banana Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/strawberry-banana-body-scrub-64-oz-whipped-salt-scrub): Enjoy sweet exfoliation with Strawberry Banana body scrub. A whipped salt scrub with jojoba oil that leaves skin smooth, soft, and refreshed.
-  Updated: 2025-12-20T18:05:55Z
+  Updated: 2025-12-21T05:56:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7728,7 +7728,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Frosted Gingerbread Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/frosted-gingerbread-body-scrub-64-oz-whipped-salt-scrub): Indulge in Frosted Gingerbread body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and cozy self-care.
-  Updated: 2025-12-20T18:04:57Z
+  Updated: 2025-12-21T05:57:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7743,7 +7743,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Rosemary Mint Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/rosemary-mint-body-scrub-64-oz-whipped-salt-scrub): Revitalize your skin with Rosemary Mint body scrub. A whipped, hydrating salt scrub with jojoba oil for fresh, spa-like exfoliation.
-  Updated: 2025-12-20T18:04:39Z
+  Updated: 2025-12-21T05:59:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7758,7 +7758,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Blue Spruce Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/blue-spruce-body-scrub-64-oz-whipped-salt-scrub): Refresh with Blue Spruce body scrub. A whipped salt scrub with jojoba oil for smooth skin and crisp, forest-inspired exfoliation.
-  Updated: 2025-12-20T18:04:21Z
+  Updated: 2025-12-21T06:00:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7773,7 +7773,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Blackberry Sage Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/blackberry-sage-body-scrub-64-oz-whipped-salt-scrub): Exfoliate with Blackberry Sage body scrub. A whipped salt scrub with jojoba oil for smooth skin and a fresh, balanced scent experience.
-  Updated: 2025-12-20T19:48:45Z
+  Updated: 2025-12-21T06:35:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7788,7 +7788,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Hawaiian Hibiscus Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/hawaiian-hibiscus-body-scrub-64-oz-whipped-salt-scrub): Escape with Hawaiian Hibiscus body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a bright tropical feel.
-  Updated: 2025-12-20T19:48:27Z
+  Updated: 2025-12-21T06:36:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7803,7 +7803,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Butterscotch & Bourbon Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/butterscotch-bourbon-body-scrub-64-oz-whipped-salt-scrub): Indulge with Butterscotch & Bourbon body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and rich warmth.
-  Updated: 2025-12-20T19:48:04Z
+  Updated: 2025-12-21T06:38:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7818,7 +7818,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Pina Colada Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pina-colada-body-scrub-64-oz-whipped-salt-scrub): Relax with Pina Colada body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a beachy tropical vibe.
-  Updated: 2025-12-20T19:47:45Z
+  Updated: 2025-12-21T06:39:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7833,7 +7833,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Christmas Tree Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/christmas-tree-body-scrub-64-oz-whipped-salt-scrub): Refresh with Christmas Tree body scrub. A whipped salt scrub with jojoba oil for smooth skin and a crisp, seasonal evergreen scent.
-  Updated: 2025-12-20T19:47:24Z
+  Updated: 2025-12-21T06:40:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7848,7 +7848,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Fruit Fusion Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/fruit-fusion-body-scrub-64-oz-whipped-salt-scrub): Brighten your routine with Fruit Fusion body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth, refreshed skin.
-  Updated: 2025-12-20T19:47:03Z
+  Updated: 2025-12-21T06:42:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
