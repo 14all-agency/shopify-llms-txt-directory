@@ -6,7 +6,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2024-05-20T16:02:27Z
 - Contact Email: bathandbodybg@gmail.com
-- Updated At: 2025-12-19T00:00:31.397Z
+- Updated At: 2025-12-21T00:00:31.131Z
 
 ## Products
 
@@ -164,13 +164,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/sapun-za-tyalo-kitchen-lemon-259-ml-213.webp?v=1765670994
   Price: 19,90 лв. BGN
-- [ДУШ ГЕЛ '' PERFECT IN PINK '' 295 Мл. - Bath&Body](https://www.aromashopbg.com/products/душ-гел-perfect-in-pink-295-мл): Душ гел Perfect in Pink – изтънчен и женствен аромат, който съчетава свежи цветни нотки, сочни червени плодове и мек, кремообразен мускус. Нежната, обогатена с хидратиращи съставки формула почиства кожата, като я оставя копринено гладка и деликатно ухаеща. Идеален за ежедневна грижа и момент на ароматно блаженство! - Bath&Body
-  Updated: 2025-12-14T15:09:56Z
-  Vendor: Bath&Body
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0743/1366/2728/files/dush-gel-p-perfect-in-pink-295-ml-516.jpg?v=1765671022
-  Price: 33,90 лв. BGN
 - [САПУН ЗА РЪЦЕ '' COBALT COVE '' - Bath&Body](https://www.aromashopbg.com/products/сапун-за-ръце-cobalt-cave): Сапун с шеа Cobalt Cove – луксозен почистващ бар с богата кремообразна пяна, обогатен с подхранващо масло от шеа. Оставя кожата чиста, мека и хидратирана, докато свежият, мъжествен аромат с морски и дървесни нотки придава усещане за елегантна прохлада. Идеален за ежедневна употреба! - Bath&Body
   Updated: 2025-12-14T00:10:31Z
   Vendor: Bath&Body
@@ -616,7 +609,7 @@
 ## Collections
 
 - [За Нея - Bath&Body](https://www.aromashopbg.com/collections/за-нея): - Bath&Body
-  Updated: 2025-12-18T12:39:43Z
+  Updated: 2025-12-19T12:04:46Z
   Total Products: 61
 - [За Него - Bath&Body](https://www.aromashopbg.com/collections/за-него): - Bath&Body
   Updated: 2025-12-17T12:57:18Z
@@ -625,11 +618,11 @@
   Updated: 2025-12-17T13:04:59Z
   Total Products: 41
 - [Душ гелове - Bath&Body](https://www.aromashopbg.com/collections/душ-гелове): - Bath&Body
-  Updated: 2025-12-17T19:33:20Z
-  Total Products: 32
+  Updated: 2025-12-19T12:01:47Z
+  Total Products: 31
 - [. - Bath&Body](https://www.aromashopbg.com/collections/smart-collection): - Bath&Body
-  Updated: 2025-12-17T19:33:20Z
-  Total Products: 92
+  Updated: 2025-12-19T12:01:47Z
+  Total Products: 91
 
 ## Blogs
 
