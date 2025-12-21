@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-20T00:00:30.681Z
+- Updated At: 2025-12-21T00:00:30.327Z
 
 ## Products
 
@@ -315,7 +315,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/AucklandNewLip.jpg?v=1706901691
   Price: $24.00 AUD
 - [Liquid Lip Paint - Barcelona](https://mellowcosmetics.com.au/products/liquid-lip-paint-barcelona): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T12:50:46Z
+  Updated: 2025-12-20T04:30:28Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -371,7 +371,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Puerto-Rico-Lip-Swatch-x1080-600x600_de128452-f946-40f9-9050-eabd10847b6d.jpg?v=1626065617
   Price: $24.00 AUD
 - [Liquid Lip Paint - Rome](https://mellowcosmetics.com.au/products/liquid-lip-paint-rome): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T23:26:26Z
+  Updated: 2025-12-20T04:30:35Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -385,7 +385,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Shanghai-Lip-Swatch-x1080-600x600_f6c87679-f423-439d-a3f3-fc73fe565201.jpg?v=1569421664
   Price: $24.00 AUD
 - [Liquid Lip Paint - Tehran](https://mellowcosmetics.com.au/products/liquid-lip-paint-tehran): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-18T04:17:52Z
+  Updated: 2025-12-20T08:07:27Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
