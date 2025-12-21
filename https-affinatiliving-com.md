@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-21T00:00:52.686Z
+- Updated At: 2025-12-21T04:00:34.802Z
 
 ## Products
 
@@ -804,7 +804,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Mint Eucalyptus Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint): Refresh your skin with our Mint Eucalyptus body scrub. Whipped bath butter, jojoba oil, and your choice of salt for smooth, spa-like exfoliation.
-  Updated: 2025-12-20T16:41:49Z
+  Updated: 2025-12-21T03:40:30Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -819,7 +819,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Champagne Toast Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-champagne): Indulge in Champagne Toast body scrub with a whipped bath butter base, jojoba oil, and customizable salt exfoliation for soft, radiant skin.
-  Updated: 2025-12-20T16:40:25Z
+  Updated: 2025-12-21T03:49:00Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -834,7 +834,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Coffee Beans Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-coffee-shop): Energize your routine with Coffee Beans body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, refreshed skin.
-  Updated: 2025-12-20T16:41:49Z
+  Updated: 2025-12-21T03:51:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -849,7 +849,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Vanilla Sugar Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-vanilla-sugar): Gently exfoliate with Vanilla Sugar body scrub. A whipped, moisturizing salt scrub with jojoba oil for soft, smooth skin.
-  Updated: 2025-12-20T16:41:50Z
+  Updated: 2025-12-21T03:55:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -864,7 +864,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Ocean Breeze Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-ocean-breeze): Clean and refresh your skin with Ocean Breeze body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for everyday softness.
-  Updated: 2025-12-20T16:41:48Z
+  Updated: 2025-12-21T03:53:33Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Lavender Dream Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-honey-lavender): Relax with Lavender Dream body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for calming, spa-like self-care.
-  Updated: 2025-12-20T16:41:48Z
+  Updated: 2025-12-21T03:58:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1414,18 +1414,16 @@
     Availability: Available
     Price: $49.95 USD
 - [Vanilla Orchid Candle (Clearance)](https://affinatiliving.com/products/vanilla-orchid-signature-candle-copy): Vanilla Orchid Signature Candle – 10 oz Add a touch of elegance to your space with our Vanilla Orchid Signature Candle. Housed in a sleek 10 oz glass container, this candle is made from a high-quality soy wax blend for a clean, even burn. The fragrance is a delicate balance of creamy vanilla and soft floral orchid, creating a warm, sophisticated ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for elevating any room with a refined, comforting aroma that soothes and delights.
-  Updated: 2025-12-18T18:12:00Z
+  Updated: 2025-12-21T00:36:00Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Photoroom_20250307_105630.jpg?v=1746029084
   Price: $14.95 USD
 - [French Vanilla Candle (Clearance)](https://affinatiliving.com/products/french-vanilla-signature-candle-copy): French Vanilla Signature Candle – 10 oz Wrap your space in the warm, comforting aroma of our French Vanilla Signature Candle. This 10 oz candle is hand-poured into a sleek glass container and made with a premium soy wax blend for a clean, even burn. The classic scent blends creamy vanilla bean with soft, sweet undertones for a timeless, cozy ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for creating a soothing, inviting atmosphere in any room.
-  Updated: 2025-12-18T18:12:00Z
+  Updated: 2025-12-21T00:36:02Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Photoroom_20250413_134450.jpg?v=1746029324
   Price: $14.95 USD
 - [Ocean Breeze Signature Candle](https://affinatiliving.com/products/ocean-breeze-signature-candle): Escape to the coast with Ocean Breeze—a refreshing fusion of marine air, driftwood, and citrus in a 10 oz clean-burning soy candle
   Updated: 2025-12-18T18:12:00Z
@@ -7924,6 +7922,94 @@
   - [Black Lava Salt](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub?variant=58508066488401)
     Availability: Available
     Price: $49.95 USD
+- [French Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/french-vanilla-body-scrub-64-oz-whipped-salt-scrub): Rich and creamy French Vanilla body scrub with whipped texture and exfoliating salts. Gently polishes skin while leaving a warm, comforting scent.
+  Updated: 2025-12-21T01:14:57Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8295.png?v=1766279695
+  - [Epsom Salt](https://affinatiliving.com/products/french-vanilla-body-scrub-64-oz-whipped-salt-scrub?variant=58508438700113)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/french-vanilla-body-scrub-64-oz-whipped-salt-scrub?variant=58508438732881)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/french-vanilla-body-scrub-64-oz-whipped-salt-scrub?variant=58508438765649)
+    Availability: Available
+    Price: $49.95 USD
+- [Ivory Woods Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/ivory-woods-body-scrub-64-oz-whipped-salt-scrub): Ivory Woods whipped body scrub with exfoliating salts and a soft, woodsy scent. Gently smooths skin while delivering a clean, elevated fragrance.
+  Updated: 2025-12-21T01:15:20Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8296.png?v=1766279719
+  - [Epsom Salt](https://affinatiliving.com/products/ivory-woods-body-scrub-64-oz-whipped-salt-scrub?variant=58508439126097)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/ivory-woods-body-scrub-64-oz-whipped-salt-scrub?variant=58508439158865)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/ivory-woods-body-scrub-64-oz-whipped-salt-scrub?variant=58508439191633)
+    Availability: Available
+    Price: $49.95 USD
+- [Banana Nut Bread Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/banana-nut-bread-body-scrub-64-oz-whipped-salt-scrub): Banana Nut Bread body scrub with whipped texture and exfoliating salts. Gently smooths skin while delivering a warm, bakery-inspired scent.
+  Updated: 2025-12-21T01:15:37Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8297.png?v=1766279736
+  - [Epsom Salt](https://affinatiliving.com/products/banana-nut-bread-body-scrub-64-oz-whipped-salt-scrub?variant=58508439289937)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/banana-nut-bread-body-scrub-64-oz-whipped-salt-scrub?variant=58508439322705)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/banana-nut-bread-body-scrub-64-oz-whipped-salt-scrub?variant=58508439355473)
+    Availability: Available
+    Price: $49.95 USD
+- [Lemon Drop Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/lemon-drop-body-scrub-64-oz-whipped-salt-scrub): Lemon Drop whipped body scrub with exfoliating salts and a fresh citrus scent. Gently polishes skin while delivering a bright, energizing aroma.
+  Updated: 2025-12-21T01:15:09Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8294.png?v=1766279706
+  - [Epsom Salt](https://affinatiliving.com/products/lemon-drop-body-scrub-64-oz-whipped-salt-scrub?variant=58508439388241)
+    Availability: Available
+    Price: $39.95 USD
+  - [Dead Sea Salt](https://affinatiliving.com/products/lemon-drop-body-scrub-64-oz-whipped-salt-scrub?variant=58508439421009)
+    Availability: Available
+    Price: $49.95 USD
+  - [Black Lava Salt](https://affinatiliving.com/products/lemon-drop-body-scrub-64-oz-whipped-salt-scrub?variant=58508439453777)
+    Availability: Available
+    Price: $49.95 USD
+- [Lemon Drop Whipped Soap - 64 oz](https://affinatiliving.com/products/lemon-drop-whipped-soap-64-oz): Lemon Drop whipped soap with bright citrus and sweet sugar notes. A fluffy 64 oz whipped soap that cleanses gently and leaves skin fresh and energized.
+  Updated: 2025-12-21T01:39:11Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8302.png?v=1766281142
+  Price: $59.95 USD
+- [French Vanilla Whipped Soap - 64 oz](https://affinatiliving.com/products/french-vanilla-whipped-soap-64-oz): French Vanilla whipped soap with smooth vanilla bean and creamy sweetness. A rich 64 oz whipped soap offering soft, fluffy lather and cozy fragrance.
+  Updated: 2025-12-21T01:39:26Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8301.png?v=1766281159
+  Price: $59.95 USD
+- [Banana Nut Bread Whipped Soap - 64 oz](https://affinatiliving.com/products/banana-nut-bread-whipped-soap-64-oz): Banana Nut Bread whipped soap with ripe banana, warm spices, and bakery notes. A decadent 64 oz whipped soap with rich, airy lather.
+  Updated: 2025-12-21T01:39:40Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8304.png?v=1766281173
+  Price: $59.95 USD
+- [Ivory Woods Whipped Soap - 64 oz](https://affinatiliving.com/products/ivory-woods-whipped-soap-64-oz): Ivory Woods whipped soap with soft woods and subtle warmth. A luxurious 64 oz whipped soap that delivers creamy lather and a clean, refined scent.
+  Updated: 2025-12-21T01:39:53Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8303.png?v=1766281187
+  Price: $59.95 USD
 
 ## Collections
 
@@ -7937,8 +8023,8 @@
   Updated: 2025-12-20T12:10:15Z
   Total Products: 76
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
-  Updated: 2025-12-20T00:23:55Z
-  Total Products: 28
+  Updated: 2025-12-21T01:39:51Z
+  Total Products: 32
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
   Updated: 2025-12-18T20:19:06Z
   Total Products: 29
@@ -7952,8 +8038,8 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 42
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
-  Updated: 2025-12-20T20:27:14Z
-  Total Products: 28
+  Updated: 2025-12-21T01:14:00Z
+  Total Products: 32
 - [Featured Collection](https://affinatiliving.com/collections/featured-collection)
   Updated: 2025-12-18T18:11:46Z
   Total Products: 6
@@ -7964,8 +8050,8 @@
   Updated: 2025-12-20T12:10:15Z
   Total Products: 342
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-12-20T20:26:25Z
-  Total Products: 121
+  Updated: 2025-12-21T01:39:51Z
+  Total Products: 129
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-12-20T12:10:15Z
   Total Products: 87
@@ -9750,7 +9836,7 @@
     Updated: 2025-12-20T15:21:33Z
     Author: Gerard Collins
   - [Gold Bond vs OUAI Lotion: Which One Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/gold-bond-vs-ouai-lotion-which-one-is-better-for-your-skin)
-    Updated: 2025-12-20T23:54:35Z
+    Updated: 2025-12-21T00:13:00Z
     Author: Gerard Collins
   - [Gold Bond vs Hempz Lotion: Which One Actually Keeps Skin Moisturized?](https://affinatiliving.com/blogs/debates/gold-bond-vs-hempz-lotion-which-one-actually-keeps-skin-moisturized)
     Updated: 2025-12-20T15:19:30Z
@@ -9772,6 +9858,24 @@
     Author: Gerard Collins
   - [Gold Bond vs Aveeno Lotion: Repair vs Daily Moisture Compared](https://affinatiliving.com/blogs/debates/gold-bond-vs-aveeno-lotion-repair-vs-daily-moisture-compared)
     Updated: 2025-12-19T09:39:24Z
+    Author: Gerard Collins
+  - [Ouai vs Cetaphil Body Lotion: Which Is Better for Your Skin? | Affinati](https://affinatiliving.com/blogs/debates/ouai-vs-cetaphil-body-lotion-which-is-better-for-your-skin-affinati)
+    Updated: 2025-12-21T00:09:28Z
+    Author: Gerard Collins
+  - [Ouai vs Vaseline Body Lotion: Luxury vs Deep Hydration Compared](https://affinatiliving.com/blogs/debates/ouai-vs-vaseline-body-lotion-luxury-vs-deep-hydration-compared)
+    Updated: 2025-12-21T00:29:37Z
+    Author: Gerard Collins
+  - [Ouai vs Aveeno Body Lotion: Luxury vs Dermatologist Care Compared](https://affinatiliving.com/blogs/debates/ouai-vs-aveeno-body-lotion-luxury-vs-dermatologist-care-compared)
+    Updated: 2025-12-21T00:16:24Z
+    Author: Gerard Collins
+  - [Ouai vs Hempz Body Lotion: Ingredients, Scent & Hydration Compared](https://affinatiliving.com/blogs/debates/ouai-vs-hempz-body-lotion-ingredients-scent-hydration-compared)
+    Updated: 2025-12-21T00:14:44Z
+    Author: Gerard Collins
+  - [Vaseline vs Aveeno Body Lotion: Which Is Better for Dry Skin?](https://affinatiliving.com/blogs/debates/vaseline-vs-aveeno-body-lotion-which-is-better-for-dry-skin)
+    Updated: 2025-12-21T00:29:17Z
+    Author: Gerard Collins
+  - [Vaseline vs Hempz: Best Body Lotion for Daily Moisture?](https://affinatiliving.com/blogs/debates/vaseline-vs-hempz-best-body-lotion-for-daily-moisture)
+    Updated: 2025-12-21T00:31:12Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
