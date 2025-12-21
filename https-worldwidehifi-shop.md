@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-20T00:00:46.526Z
+- Updated At: 2025-12-21T00:00:45.962Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -77,7 +77,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_e9b1b66e-553f-4906-865a-9b82b32e41fd.jpg?v=1742829552
   Price: 4.487,00 € EUR
 - [Hans Deutsch Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/hans-deutsch-lautsprecher-einzelstuecke-top-sound-gebraucht-kaufen): Hans Deutsch Lautsprecher gebraucht kaufen ✅ Geprüfte Einzelstücke mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:17Z
+  Updated: 2025-12-20T09:06:54Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
