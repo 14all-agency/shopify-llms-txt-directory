@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-21T16:00:38.575Z
+- Updated At: 2025-12-21T20:00:37.682Z
 
 ## Products
 
@@ -4391,7 +4391,7 @@
     Availability: Available
     Price: £54.95 GBP
 - [Helas Horses Cap | Navy](https://thevinessupply.co/products/helas-horses-cap-navy): Buy the Helas Horses Cap in navy blue at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-15T14:09:11Z
+  Updated: 2025-12-21T17:16:51Z
   Vendor: Helas
   Product Type: Caps
   Availability: Available
