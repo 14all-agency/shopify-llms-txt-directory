@@ -6,31 +6,31 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-18T00:00:44.825Z
+- Updated At: 2025-12-21T00:00:44.688Z
 
 ## Products
 
-- [Dezinfectant Organic Sol CLYNSOL – 1 L, Vitana, Ingrijirea solului in Gradini, Sere, Solarii](https://depozitulgradinarului.ro/products/dezinfectant-organic-sol-clynsol-1-l-ingrijirea-solului-in-gradini-sere-solarii): Dezinfectantul Organic ClynSol® este un tratament avansat pentru îmbunătățirea sănătății solului, conceput special pentru a susține o creștere și dezvoltare optimă a plantelor.
-  Updated: 2025-10-28T07:47:21Z
+- [Dezinfectant Organic Sol CLYNSOL – 1 L, Vitana, Ingrijirea Solului](https://depozitulgradinarului.ro/products/dezinfectant-organic-sol-clynsol-1-l-ingrijirea-solului-in-gradini-sere-solarii): Dezinfectantul Organic ClynSol® este un tratament avansat pentru îmbunătățirea sănătății solului, conceput special pentru a susține o creștere și dezvoltare optimă a plantelor.
+  Updated: 2025-12-19T08:07:43Z
   Vendor: Vitana
   Product Type: GRAD-AGRO-Dezinfectant sol
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-04-08at22.14.49_1.jpg?v=1744140634
   Price: 105,00 lei RON
 - [Sulfat de Cupru – 0.5 KG | Fungicid și Bactericid pentru Plante](https://depozitulgradinarului.ro/products/sulfat-de-cupru-0-5-kg): Sulfat de cupru - 0.5 kg,  cu acțiune fungicidă și bactericidă. Ideal pentru viță de vie, pomi și legume. Protecție eficientă și corectarea carenței de cupru.
-  Updated: 2025-12-17T20:02:09Z
+  Updated: 2025-12-18T08:02:13Z
   Vendor: Depozitul Grădinarului
   Product Type: Sulfat de Cupru
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/d35f8722-3e89-4a66-8d76-6c1886df4294.jpg?v=1738687593
   Price: 17,00 lei RON
-- [Capcana tip carte cu lipici pentru soareci si sobolani](https://depozitulgradinarului.ro/products/capcana-tip-carte-cu-lipici-pentru-soareci-si-sobolani): Capcana tip carte cu lipici pentru soareci si sobolanieste una din cele mai eficiente solutii pentru eradicarea rozatoarelor din gospodaria dumneavoastra.
-  Updated: 2025-06-19T16:54:46Z
+- [Capcana Tip Carte cu Lipici pentru Soareci si Sobolani, Non-Toxica](https://depozitulgradinarului.ro/products/capcana-tip-carte-cu-lipici-pentru-soareci-si-sobolani): Capcană tip carte cu lipici pentru șoareci și șobolani. Adeziv puternic, fără miros, non-toxic, reutilizabilă, sigură și ușor de utilizat în orice spațiu.
+  Updated: 2025-12-19T08:00:26Z
   Vendor: Depozitul Grădinarului
   Product Type: Raticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/dgd.jpg?v=1738688559
-  Price: 4,00 lei RON
+  Price: 3,50 lei RON
 - [AGROSAN B Moluscocid - 500 GR, Kollant | Melci, Limacsi, Gasteropode](https://depozitulgradinarului.ro/products/agrosan-b-moluscocid-500-gr-kollant-combate-melcii-limacsii-gasteropodele): Agrosan B Moluscocid combate eficient melcii, limacșii și gasteropodele din culturile de legume, fructe. Granule rezistente la ploaie, cu metaldehidă 5%.
   Updated: 2025-12-17T19:33:24Z
   Vendor: Kollant
@@ -38,113 +38,119 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/agrosan.jpg?v=1738689086
   Price: 18,00 lei RON
-- [ADJUVANT SILWET TOP - 3 ML, UPL, pentru tratamente fitosanitare](https://depozitulgradinarului.ro/products/adjuvant-silwet-top-3-ml-upl): Silwet TOP este un adjuvant organosiliconic performant, utilizat pentru a îmbunătăți eficiențatratamentelor fitosanitare. Acesta reduce tensiunea superficială a soluțiilor de stropit, asigurând o acoperire uniformă și o aderență excelentă pe suprafața
-  Updated: 2025-07-28T20:30:57Z
+- [Insecticid ALVERDE - 10 ML, BASF, Contact](https://depozitulgradinarului.ro/products/insecticid-alverde-10-ml-basf-contact-cartofi-vinete-tomate-ardei-gras-1): Insecticidul Alverde oferă un mod nou de acțiune împotriva gândacului din Colorado, omizii fructelor și moliei miniere a frunzelor de tomate. Noua substanță activă, metaflumizon, acționează rapid și cu performanțe deosebite.
+  Updated: 2025-12-20T04:03:15Z
+  Vendor: BASF
+  Product Type: Insecticid
+  Availability: Available
+  Price: 10,00 lei RON
+- [ADJUVANT SILWET TOP - 3 ML, UPL, Eficienta Tratamentelor Fitosanitare](https://depozitulgradinarului.ro/products/adjuvant-silwet-top-3-ml-upl): Adjuvant Silwet Top, UPL pentru tratamente fitosanitare. Îmbunătățește aderența, acoperirea și absorbția erbicidelor, fungicidelor și insecticidelor. Creste eficienta tratamentelor fitosanitare.
+  Updated: 2025-12-19T07:55:44Z
   Vendor: UPL
   Product Type: Adjuvant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-04at20.00.03.jpg?v=1738692332
   Price: 3,50 lei RON
-- [Insecticid acaricid NISSORUN 10 WP - 5 GR, Sumi Agro, Sistemic](https://depozitulgradinarului.ro/products/insecticid-acaricid-nissorun-10-wp-5-gr-sumi-agro-sistemic-rosii-ardei-vita-de-vie): Nissorun 10 WP este un insecticid acaricid sistemic cu substanța activă hexitiazox 10%, utilizat pentru combaterea acarienilor în culturi precum legume, pomi fructiferi și viță de vie. Acționează ovicid, larvicid și nimfocid, oferind protecție de lungă durată (peste 40 de zile). Este sigur pentru prădătoriinaturali, compatibil cu alte produse fitosanitare și ideal pentru programele de combatere integrată a dăunătorilor.
-  Updated: 2025-07-31T19:45:45Z
+- [Insecticid Acaricid NISSORUN 10 WP - 5 GR, Sumi Agro, Sistemic](https://depozitulgradinarului.ro/products/insecticid-acaricid-nissorun-10-wp-5-gr-sumi-agro-sistemic-rosii-ardei-vita-de-vie): Nissorun 10 WP este un acaricid sistemic cu efect ovicid și protecție peste 40 de zile, ideal pentru combaterea păianjenului roșu la legume și viță-de-vie.
+  Updated: 2025-12-19T07:45:17Z
   Vendor: Sumi Agro
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-04at20.34.06.jpg?v=1738694060
   Price: 4,00 lei RON
-- [Insecticid Foval CE – 10 ML, ENO | Insecte zburatoare si taratoare](https://depozitulgradinarului.ro/products/insecticid-foval-ce-10-ml-eno-capuse-muste-tantari-gandaci-de-bucatarie): Foval CE este un insecticid concentrat emulsionabil, cu acțiune rapidă împotriva insectelor zburătoare (țânțari, muște) și târâtoare (gândaci, furnici). Conținecipermetrin, tetrametrin și piperonil butoxid, oferind un efect de șoc și protecție de lungă durată. Este potrivit pentru utilizare în locuințe, ferme și spații industriale, asigurând un mediu sigur și fără dăunători.
-  Updated: 2025-07-27T01:47:51Z
+- [Insecticid Foval CE – 10 ML, ENO | Insecte Zburătoare și Târâtoare](https://depozitulgradinarului.ro/products/insecticid-foval-ce-10-ml-eno-capuse-muste-tantari-gandaci-de-bucatarie): Foval CE este un insecticid profesional cu cipermetrin și tetrametrin, ideal pentru combaterea rapidă a țânțarilor, muștelor, căpușelor și gândacilor.
+  Updated: 2025-12-18T19:35:29Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-04at20.43.55.jpg?v=1738694701
   Price: 4,00 lei RON
-- [Erbicid DICOPUR D – 100 ML, Nufarm, Postemergent](https://depozitulgradinarului.ro/products/erbicid-dicopur-d-100-ml-nufarm-postemergent): Dicopur D este un erbicid sistemic, pe bază de acid 2,4-D (600 g/L), utilizat pentru combaterea buruienilor dicotiledonate anuale și perene din culturile de grâu și porumb. Acționează prin contact și sistemic, inhibând creșterea buruienilor, asigurând un control eficient și selectiv. Este aplicabil postemergent, având compatibilitate cu alte produse fitosanitare.
-  Updated: 2025-07-28T16:05:01Z
+- [Erbicid DICOPUR D – 100 ML, Nufarm, Postemergent, Buruieni Dicotiledonate](https://depozitulgradinarului.ro/products/erbicid-dicopur-d-100-ml-nufarm-postemergent): Dicopur D, Nufarm este un erbicid sistemic pe bază de 2,4-D sub formă de sare de dimetilamină, ideal pentru combaterea buruienilor dicotiledonate anuale și perene din grâu și porumb.
+  Updated: 2025-12-19T06:59:33Z
   Vendor: Nufarm
   Product Type: Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-04at21.00.01.jpg?v=1738695952
   Price: 8,00 lei RON
-- [Fungicid Amistar - 7.5 ML, SYNGENTA](https://depozitulgradinarului.ro/products/fungicid-amistar-7-5-ml-syngenta): Amistar este un fungicid sistemic cu spectru larg, pe bază de azoxistrobin (250 g/L), utilizat pentru combaterea bolilor la diverse culturi.
-  Updated: 2025-07-29T09:03:41Z
+- [Fungicid Amistar - 7.5 ML, SYNGENTA, Cereale, Legume, Plante Ornamentale](https://depozitulgradinarului.ro/products/fungicid-amistar-7-5-ml-syngenta): Amistar Syngenta este un fungicid preventiv cu azoxistrobin 250 g/l, eficient împotriva manei, făinării și alternariozei la cereale, legume și plante ornamentale.
+  Updated: 2025-12-19T06:52:27Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-04at21.59.54.jpg?v=1738699272
   Price: 9,00 lei RON
-- [Adjuvant LIDO 90 S – 100 ML, pentru tratamente fitosanitare](https://depozitulgradinarului.ro/products/adjuvant-lido-90-s-100-ml): Lido 90 S este un adjuvant utilizat pentru îmbunătățirea eficienței erbicidelor, asigurând o acoperire uniformă și aderență excelentă pe suprafața plantelor. Îmbunătățește umectarea și permite formarea unei pelicule omogene, maximizând efectul tratamentelor fitosanitare.
-  Updated: 2025-07-30T04:25:06Z
+- [Adjuvant LIDO 90 S – 100 ML, Eficientizare Tratamente Fitosanitare](https://depozitulgradinarului.ro/products/adjuvant-lido-90-s-100-ml): Lido 90 S este un adjuvant pentru erbicide, care îmbunătățește umectarea, aderența și acoperirea soluției pe frunze, crescând eficiența tratamentelor fitosanitare.
+  Updated: 2025-12-19T06:46:36Z
   Vendor: Tellurium Chemical Co
   Product Type: GRAD-AGRO-Adjuvant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-05at20.47.48.jpg?v=1738781309
   Price: 11,00 lei RON
-- [Adjuvant LIDO 90 S – 250 ML, pentru tratamente fitosanitare](https://depozitulgradinarului.ro/products/adjuvant-lido-90-s-250-ml): Lido 90 S este un adjuvant utilizat pentru îmbunătățirea eficienței erbicidelor, asigurând o acoperire uniformă și aderență excelentă pe suprafața plantelor.
-  Updated: 2025-07-29T19:06:45Z
+- [Adjuvant LIDO 90 S – 250 ML, Eficientizare Tratamente Fitosanitare](https://depozitulgradinarului.ro/products/adjuvant-lido-90-s-250-ml): Lido 90 S este un adjuvant pentru erbicide, care îmbunătățește umectarea, aderența și acoperirea soluției pe frunze, crescând eficiența tratamentelor fitosanitare.
+  Updated: 2025-12-19T06:46:52Z
   Vendor: Tellurium Chemical Co
   Product Type: GRAD-AGRO-Adjuvant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-05at21.01.54.jpg?v=1738782130
   Price: 17,00 lei RON
-- [Erbicid PANTERA 40 EC - 100 ML, UPL, Postemergent, Buruieni monocotiledonate anuale si perene](https://depozitulgradinarului.ro/products/erbicid-pantera-40-ec-100-ml-upl-postemergent): Pantera 40 EC este un erbicid sistemic postemergent, utilizat pentru combaterea buruienilor monocotiledonate anuale și perene, inclusiv samulastra cerealelor.
-  Updated: 2025-07-29T08:04:08Z
+- [Erbicid PANTERA 40 EC - 100 ML, UPL, Postemergent, Buruieni Monocotiledonate](https://depozitulgradinarului.ro/products/erbicid-pantera-40-ec-100-ml-upl-postemergent): Pantera 40 EC (100 ML) este un erbicid sistemic postemergent, eficient împotriva buruienilor monocotiledonate anuale și perene, ideal pentru rapiță, floarea-soarelui și legume.
+  Updated: 2025-12-19T06:39:49Z
   Vendor: UPL
   Product Type: Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-05at21.15.56.jpg?v=1738782976
   Price: 14,90 lei RON
-- [Erbicid SHARPEN 33 EC - 500 ML (Pendimetalin), ENO](https://depozitulgradinarului.ro/products/erbicid-sharpen-33-ec-500-ml-pendimetalin-eno): Sharpen 33 EC este un erbicid preemergent și postemergent, utilizat pentru combaterea buruienilor monocotiledonate și dicotiledonate în diverse culturi agricole.
-  Updated: 2025-07-28T19:46:12Z
+- [Erbicid SHARPEN 33 EC - 500 ML | Pre & Postemergent, Cereale, Legume, Vita-de-Vie](https://depozitulgradinarului.ro/products/erbicid-sharpen-33-ec-500-ml-pendimetalin-eno): Sharpen 33 EC este un erbicid rezidual cu pendimetalin 330 g/l, aplicabil pre și postemergent, ideal pentru porumb, floarea-soarelui, legume și viță de vie.
+  Updated: 2025-12-19T05:41:18Z
   Vendor: ENO
   Product Type: GRAD-AGRO-Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-05at21.39.24_1.jpg?v=1738785146
   Price: 35,00 lei RON
-- [Erbicid STOMP AQUA - 1 L, BASF, Preemergent](https://depozitulgradinarului.ro/products/erbicid-stomp-aqua-1-l-basf-preemergent-selectiv-porumb-floarea-soarelui-grau-ceapa-vita-de-vie): Stomp® Aqua este un erbicid preemergent și postemergent timpuriu, pe bază de pendimetalin (455 g/L), utilizat pentru combaterea buruienilor monocotiledonate și dicotiledonate anuale.
-  Updated: 2025-07-26T06:19:17Z
+- [Erbicid STOMP AQUA - 1 L, BASF | Erbicid Preemergent Puternic, Buruieni Anuale](https://depozitulgradinarului.ro/products/erbicid-stomp-aqua-1-l-basf-preemergent-selectiv-porumb-floarea-soarelui-grau-ceapa-vita-de-vie): Stomp® Aqua este un erbicid preemergent și postemergent timpuriu, pe bază de pendimetalin (455 g/L), ideal pentru porumb, floarea-soarelui, legume și viță de vie.
+  Updated: 2025-12-19T05:32:19Z
   Vendor: BASF
   Product Type: AGRO-Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-05at22.00.42.jpg?v=1738786031
   Price: 100,00 lei RON
-- [Erbicid total ROUNDUP EXTRA - 1L, Bayer](https://depozitulgradinarului.ro/products/erbicid-total-roundup-extra-1l-bayer): Roundup Extra este un erbicid total neselectiv, pe bază de glifosat (360 g/L), utilizat pentru combaterea buruienilor mono și dicotiledonate anuale și perene.
-  Updated: 2025-07-29T04:30:09Z
+- [Erbicid Total ROUNDUP EXTRA - 1L, Bayer | Buruieni Mono & Dicotiledonate](https://depozitulgradinarului.ro/products/erbicid-total-roundup-extra-1l-bayer): Roundup Extra este un erbicid total sistemic cu glifosat 360 g/l, ideal pentru distrugerea completă a buruienilor monocotiledonate și dicotiledonate, anuale si perene.
+  Updated: 2025-12-19T05:27:31Z
   Vendor: Bayer
   Product Type: GRAD-AGRO-Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-05at21.39.24_2.jpg?v=1738787072
   Price: 43,90 lei RON
-- [Fungicid CHAMP 77 WG - 20 GR, Nufarm](https://depozitulgradinarului.ro/products/fungicid-champ-77-wg-20-gr-nufarm-cupru-metalic-tomate-castraveti-vita-de-vie-cartof-mar): Champ 77 WG este un fungicid și bactericid de contact, pe bază de hidroxid de cupru (50% cupru metalic), utilizat pentru combaterea manei, rapănului și bolilor bacteriene la culturi precum viță de vie, pomi fructiferi, legume și cartofi.
-  Updated: 2025-07-30T09:00:51Z
+- [Fungicid CHAMP 77 WG - 20 GR, Nufarm | Mana, Rapăn, Bacterioze](https://depozitulgradinarului.ro/products/fungicid-champ-77-wg-20-gr-nufarm-cupru-metalic-tomate-castraveti-vita-de-vie-cartof-mar): Champ 77 WG, Nufarm - fungicid și bactericid cu cupru metalic 50%, protecție sigură împotriva manei, rapănului și focului bacterian la culturi, precum: legume, vita-de-vie, pomi fructiferi.
+  Updated: 2025-12-19T04:54:47Z
   Vendor: Nufarm
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at08.42.06.jpg?v=1738824147
   Price: 4,50 lei RON
-- [Fungicid CHAMP 77 WG - 200 GR, Nufarm](https://depozitulgradinarului.ro/products/fungicid-champ-77-wg-200-gr-nufarm-cupru-metalic-tomate-castraveti-vita-de-vie-cartof-mar): Champ 77 WG este un fungicid și bactericid de contact, pe bază de hidroxid de cupru (50% cuprumetalic), utilizat pentru combaterea manei, rapănului și bolilor bacteriene la culturi precum viță de vie, pomi fructiferi, legume și cartofi.
-  Updated: 2025-07-27T06:23:30Z
+- [Fungicid CHAMP 77 WG - 200 GR, Nufarm | Mana, Rapăn, Bacterioze](https://depozitulgradinarului.ro/products/fungicid-champ-77-wg-200-gr-nufarm-cupru-metalic-tomate-castraveti-vita-de-vie-cartof-mar): Champ 77 WG, Nufarm - fungicid și bactericid cu cupru metalic 50%, protecție sigură împotriva manei, rapănului și focului bacterian la culturi, precum: legume, vita-de-vie, pomi fructiferi.
+  Updated: 2025-12-19T05:04:34Z
   Vendor: Nufarm
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at08.42.07.jpg?v=1738824805
-  Price: 29,00 lei RON
-- [Fungicid CHORUS 50 WG - 4,5 GR, Syngenta, Sistemic](https://depozitulgradinarului.ro/products/fungicid-chorus-50-wg-4-5-gr-syngenta-sistemic): Chorus 50 WG este un fungicid sistemic pe bază de ciprodinil (50%), ideal pentru combaterea bolilor fungice la pomi fructiferi, în special în condiții de temperaturi scăzute.
-  Updated: 2025-07-26T18:36:22Z
+  Price: 29,90 lei RON
+- [Fungicid CHORUS 50 WG - 4,5 GR, Syngenta, Sistemic | Pomi Fructiferi](https://depozitulgradinarului.ro/products/fungicid-chorus-50-wg-4-5-gr-syngenta-sistemic): Chorus 50 WG, Syngenta - fungicid sistemic pe bază de ciprodinil (50%), eficient de la 5°C, combate rapănul și monilioza la pomi fructiferi. Ideal pentru tratamente timpurii.
+  Updated: 2025-12-18T16:54:14Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at09.03.19.jpg?v=1738825413
   Price: 5,00 lei RON
-- [Fungicid CIDELY TOP - 10 ML, Syngenta, Sistemic](https://depozitulgradinarului.ro/products/fungicid-cidely-top-10-ml-syngenta-sistemic): Cidely Top este un fungicid foliar translaminar pe bază de difenoconazol (125 g/l) și ciflufenamid (15 g/l), utilizat pentru combaterea făinării, alternariozei și altor boli foliare la legume și căpșuni.
-  Updated: 2025-07-28T18:20:48Z
+- [Fungicid CIDELY TOP - 10 ML, Syngenta, Sistemic | Legume & Căpșuni](https://depozitulgradinarului.ro/products/fungicid-cidely-top-10-ml-syngenta-sistemic): Fungicidul Sistemic Cidely Top, Syngenta, cu difenoconazol (125 g/l) și ciflufenamid (15 g/l), combate făinarea, alternarioza și pătările la legume și căpșuni.
+  Updated: 2025-12-19T01:49:38Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at09.11.08.jpg?v=1738825882
   Price: 6,90 lei RON
-- [Fungicid CIDELY TOP - 100 ML, Syngenta, Sistemic](https://depozitulgradinarului.ro/products/fungicid-cidely-top-100-ml-syngenta-sistemic): Cidely Top este un fungicid foliar translaminar pe bază de difenoconazol (125 g/l) și ciflufenamid (15 g/l), utilizat pentru combaterea făinării, alternariozei și altor boli foliare la legume și căpșuni.
-  Updated: 2025-07-26T12:00:34Z
+- [Fungicid CIDELY TOP - 100 ML, Syngenta, Sistemic | Legume & Căpșuni](https://depozitulgradinarului.ro/products/fungicid-cidely-top-100-ml-syngenta-sistemic): Fungicidul Sistemic Cidely Top, Syngenta, cu difenoconazol (125 g/l) și ciflufenamid (15 g/l), combate făinarea, alternarioza și pătările la legume și căpșuni.
+  Updated: 2025-12-19T01:50:28Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
@@ -184,141 +190,141 @@
   Product Type: fungicid
   Availability: Available
   Price: 0,00 lei RON
-- [Fungicid MICROTHIOL SPECIAL - 30 GR, UPL, Contact](https://depozitulgradinarului.ro/products/fungicid-microthiol-special-30-gr-upl-contact): Microthiol Special este un fungicid de contact pe bază de sulf micronizat (80%), utilizat pentru combaterea făinării la viță de vie, pomi fructiferi, legume și alte culturi.
-  Updated: 2025-07-28T13:47:50Z
+- [Fungicid MICROTHIOL SPECIAL - 30 GR, UPL, Contact, Fainare](https://depozitulgradinarului.ro/products/fungicid-microthiol-special-30-gr-upl-contact): Microthiol Special, UPL - fungicid de contact cu sulf micronizat 80%, combate eficient făinarea la viță-de-vie, pomi și legume. Potrivit pentru agricultura ecologică.
+  Updated: 2025-12-19T01:24:56Z
   Vendor: UPL
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at11.20.01.jpg?v=1738833619
   Price: 3,00 lei RON
-- [Fungicid MICROTHIOL SPECIAL - 300 GR, UPL, Contact](https://depozitulgradinarului.ro/products/fungicid-microthiol-special-300-gr-upl-contact): Microthiol Special este un fungicid de contact pe bază de sulf micronizat (80%), utilizat pentru combaterea făinării la viță de vie, pomi fructiferi, legume și alte culturi.
-  Updated: 2025-07-26T07:45:55Z
+- [Fungicid MICROTHIOL SPECIAL - 300 GR, UPL, Contact, Fainare](https://depozitulgradinarului.ro/products/fungicid-microthiol-special-300-gr-upl-contact): Microthiol Special, UPL - fungicid de contact cu sulf micronizat 80%, combate eficient făinarea la viță-de-vie, pomi și legume. Potrivit pentru agricultura ecologică.
+  Updated: 2025-12-19T01:24:48Z
   Vendor: UPL
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at11.20.01_1.jpg?v=1738834040
   Price: 9,00 lei RON
-- [Fungicid MIKAL FLASH 45 WG - 300 GR, Bayer, Contact, Vita de vie](https://depozitulgradinarului.ro/products/fungicid-mikal-flash-45-wg-300-gr-bayer-contact-vita-de-vie): Mikal Flash 45 WG este un fungicid sistemic și de contact, pe bază de fosetil de aluminiu (50%) și folpet (25%), utilizat pentru combaterea manei la vița de vie.
-  Updated: 2025-07-15T21:16:03Z
+- [Fungicid MIKAL FLASH 45 WG - 300 GR, Bayer, Contact, Vita-de-Vie](https://depozitulgradinarului.ro/products/fungicid-mikal-flash-45-wg-300-gr-bayer-contact-vita-de-vie): Fungicidul Mikal Flash 45 WG, Bayer - combate eficient mana la vița-de-vie. Acțiune sistemică și de contact, protecție completă și rezistență îndelungată.
+  Updated: 2025-12-19T01:13:38Z
   Vendor: Bayer
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at11.46.24.jpg?v=1738835194
   Price: 45,99 lei RON
-- [Fungicid ORTIVA TOP - 10 ML, Syngenta, Contact](https://depozitulgradinarului.ro/products/fungicid-ortiva-top-10-ml-syngenta-contact): Ortiva Top este un fungicid foliar pe bază de azoxistrobin (200 g/l) și difenoconazol (125 g/l), utilizat pentru combaterea unui spectru larg de boli la legume.
-  Updated: 2025-07-26T03:09:10Z
+- [Fungicid ORTIVA TOP - 10 ML, Syngenta, Contact | Alternarioză, Făinare, Mana](https://depozitulgradinarului.ro/products/fungicid-ortiva-top-10-ml-syngenta-contact): Ortiva Top este un fungicid foliar pe bază de azoxistrobin (200 g/l) și difenoconazol (125 g/l), utilizat pentru combaterea unui spectru larg de boli la legume.
+  Updated: 2025-12-19T17:38:54Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at11.54.27.jpg?v=1738835680
   Price: 11,90 lei RON
-- [Fungicid ORTIVA TOP - 100 ML, Syngenta, Contact](https://depozitulgradinarului.ro/products/fungicid-ortiva-top-100-ml-syngenta-contact): Ortiva Top este un fungicid foliar pe bază de azoxistrobin (200 g/l) și difenoconazol (125 g/l), utilizat pentru combaterea unui spectru larg de boli la legume.
-  Updated: 2025-07-31T19:45:46Z
+- [Fungicid ORTIVA TOP - 100 ML, Syngenta, Contact | Alternarioză, Făinare, Mana](https://depozitulgradinarului.ro/products/fungicid-ortiva-top-100-ml-syngenta-contact): Ortiva Top este un fungicid foliar pe bază de azoxistrobin (200 g/l) și difenoconazol (125 g/l), utilizat pentru combaterea unui spectru larg de boli la legume.
+  Updated: 2025-12-19T16:51:42Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at11.54.27_1.jpg?v=1738836213
   Price: 67,90 lei RON
-- [Fungicid SCORE 250 EC – 2.5 ML, ENO, Sistemic](https://depozitulgradinarului.ro/products/fungicid-score-250-ec-2-5-ml-eno-sistemic): Score 250 EC este un fungicid sistemic pe bază de difenoconazol (250 g/l), utilizat pentru combaterea bolilor fungice la pomi fructiferi, tomate și sfeclă de zahăr.
-  Updated: 2025-07-30T09:00:51Z
+- [Fungicid SCORE 250 EC – 2.5 ML, ENO, Sistemic | Rapăn, Monilioză, Făinare](https://depozitulgradinarului.ro/products/fungicid-score-250-ec-2-5-ml-eno-sistemic): Fungicidul Sistemic Score 250 EC, Syngenta, pe bază de difenoconazol (250 g/l), combate rapid rapănul, monilioza, făinarea și alternarioza la pomi și legume.
+  Updated: 2025-12-18T22:26:48Z
   Vendor: ENO
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at12.11.16.jpg?v=1738836774
   Price: 5,00 lei RON
-- [Fungicid TELDOR 500 SC - 10 ML, Bayer, Sistemic, Putregai cenusiu, Monilioza](https://depozitulgradinarului.ro/products/fungicid-teldor-500-sc-10-ml-bayer-sistemic): Teldor 500 SC este un fungicid pe bază de fenhexamid (500 g/l), utilizat pentru combaterea putregaiului cenușiu și a moniliozelor.
-  Updated: 2025-07-28T01:35:29Z
+- [Fungicid TELDOR 500 SC - 10 ML, Bayer, Sistemic, Putregai Cenusiu, Monilioza](https://depozitulgradinarului.ro/products/fungicid-teldor-500-sc-10-ml-bayer-sistemic): Fungicidul Teldor 500 SC, Bayer - combate eficient putregaiul cenușiu și monilioza la viță de vie, pomi, căpșuni, legume și flori. Protecție sigură și rapidă. Fenhexamid (500 g/l)
+  Updated: 2025-12-18T22:14:38Z
   Vendor: Bayer
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.23.04.jpg?v=1738840997
-  Price: 9,99 lei RON
-- [Fungicid TOPAS 100 EC - 3 ML, Syngenta, Sistemic](https://depozitulgradinarului.ro/products/fungicid-topas-100-ec-3-ml-syngenta-sistemic): Topas 100 EC este un fungicid sistemic, utilizat pentru combaterea făinării la viță de vie, pomi fructiferi, legume și plante ornamentale.
-  Updated: 2025-07-28T22:11:10Z
+  Price: 9,20 lei RON
+- [Fungicid TOPAS 100 EC - 3 ML, Syngenta, Sistemic | Fainare, Patarea Frunzelor](https://depozitulgradinarului.ro/products/fungicid-topas-100-ec-3-ml-syngenta-sistemic): Topas 100 EC, Syngenta este un fungicid sistemic eficient împotriva făinării și pătării frunzelor la viță de vie, pomi, legume și flori. Depozitul Grădinarului
+  Updated: 2025-12-18T20:56:04Z
   Vendor: Syngenta
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.23.04_1.jpg?v=1738841138
-  Price: 4,99 lei RON
-- [Fungicid ZETANIL – 4 GR, SUMI AGRO, Sistemic, Mana](https://depozitulgradinarului.ro/products/fungicid-zetanil-4-gr-sumi-agro-sistemic-mana): Zetanil este un fungicid pe bază de cimoxanil și zoxamid, utilizat pentru combaterea manei la culturi precum cartof, tomate și viță de vie.
-  Updated: 2025-07-28T06:46:19Z
+  Price: 4,20 lei RON
+- [Fungicid ZETANIL – 4 GR, SUMI AGRO | Combate Mana - Cartof, Tomate, Viță](https://depozitulgradinarului.ro/products/fungicid-zetanil-4-gr-sumi-agro-sistemic-mana): Zetanil este fungicidul sistemic cu cimoxanil și zoxamid pentru combaterea manei. Protecție rapidă și durabilă la cartof, tomate și viță-de-vie. Depozitul Grădinarului
+  Updated: 2025-12-18T20:00:58Z
   Vendor: Sumi Agro
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.30.27.jpg?v=1738841549
-  Price: 3,99 lei RON
-- [Fungicid ZETANIL – 40 GR, SUMI AGRO, Sistemic, Mana](https://depozitulgradinarului.ro/products/fungicid-zetanil-40-gr-sumi-agro-sistemic-mana): Zetanil este un fungicid pe bază de cimoxanil și zoxamid, utilizat pentru combaterea manei la culturi precum cartof, tomate și viță de vie.
-  Updated: 2025-07-26T15:28:24Z
+  Price: 4,70 lei RON
+- [Fungicid ZETANIL – 40 GR, SUMI AGRO | Combate Mana - Cartof, Tomate, Viță](https://depozitulgradinarului.ro/products/fungicid-zetanil-40-gr-sumi-agro-sistemic-mana): Zetanil este fungicidul sistemic cu cimoxanil și zoxamid pentru combaterea manei. Protecție rapidă și durabilă la cartof, tomate și viță-de-vie. Depozitul Grădinarului
+  Updated: 2025-12-18T20:01:07Z
   Vendor: Sumi Agro
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.30.27_1.jpg?v=1738841821
-  Price: 23,00 lei RON
-- [Fungicid ZETANIL – 400 GR, SUMI AGRO, Sistemic, Mana](https://depozitulgradinarului.ro/products/fungicid-zetanil-400-gr-sumi-agro-sistemic-mana): Zetanil este un fungicid pe bază de cimoxanil și zoxamid, utilizat pentru combaterea manei la culturi precum cartof, tomate și viță de vie.
-  Updated: 2025-07-27T21:51:36Z
+  Price: 29,00 lei RON
+- [Fungicid ZETANIL – 400 GR, SUMI AGRO | Combate Mana - Cartof, Tomate, Viță](https://depozitulgradinarului.ro/products/fungicid-zetanil-400-gr-sumi-agro-sistemic-mana): Zetanil este fungicidul sistemic cu cimoxanil și zoxamid pentru combaterea manei. Protecție rapidă și durabilă la cartof, tomate și viță-de-vie. Depozitul Grădinarului
+  Updated: 2025-12-18T20:01:22Z
   Vendor: Sumi Agro
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.30.26.jpg?v=1738841963
   Price: 179,89 lei RON
-- [Fungicid KAPLAN 80 WG – 15 GR, Pestila, Contact, Captan](https://depozitulgradinarului.ro/products/fungicid-kaplan-80-wg-15-gr-pestila-contact-captan): Kaplan 80 WG este un fungicid de contact pe bază de captan (800 g/kg), utilizat pentru combaterea unei largi game de boli fungice.
-  Updated: 2025-07-29T16:20:00Z
+- [Fungicid KAPLAN 80 WG – 15 GR, Pestila, Contact | Protecție Maximă Livezi](https://depozitulgradinarului.ro/products/fungicid-kaplan-80-wg-15-gr-pestila-contact-captan): Kaplan 80 WG este fungicidul de contact cu captan 800 g/kg pentru rapăn, monilioză și putregai. Protecție sigură și durabilă pentru pomi și arbuști. Depozitul Grădinarului
+  Updated: 2025-12-18T19:23:07Z
   Vendor: Pestila
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.41.22.jpg?v=1738842360
   Price: 4,00 lei RON
-- [Fungicid KAPLAN 80 WG – 150 GR, Pestila, Contact, Captan](https://depozitulgradinarului.ro/products/fungicid-kaplan-80-wg-150-gr-pestila-contact-captan): Kaplan 80 WG este un fungicid de contact pe bază de captan (800 g/kg), utilizat pentru combaterea unei largi game de boli fungice.
-  Updated: 2025-07-26T10:18:41Z
+- [Fungicid KAPLAN 80 WG – 150 GR, Pestila, Contact | Protecție Maximă Livezi](https://depozitulgradinarului.ro/products/fungicid-kaplan-80-wg-150-gr-pestila-contact-captan): Kaplan 80 WG este fungicidul de contact cu captan 800 g/kg pentru rapăn, monilioză și putregai. Protecție sigură și durabilă pentru pomi și arbuști. Depozitul Grădinarului
+  Updated: 2025-12-18T19:23:30Z
   Vendor: Pestila
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.41.22_1.jpg?v=1738842674
   Price: 22,99 lei RON
-- [Fungicid KAPLAN 80 WG – 1 KG, Pestila, Contact, Captan](https://depozitulgradinarului.ro/products/fungicid-kaplan-80-wg-1-kg-pestila-contact-captan): Kaplan 80 WG este un fungicid de contact pe bază de captan (800 g/kg), utilizat pentru combaterea unei largi game de boli fungice.
-  Updated: 2025-07-27T20:49:47Z
+- [Fungicid KAPLAN 80 WG – 1 KG, Pestila, Contact | Protecție Maximă Livezi](https://depozitulgradinarului.ro/products/fungicid-kaplan-80-wg-1-kg-pestila-contact-captan): Kaplan 80 WG este fungicidul de contact cu captan 800 g/kg pentru rapăn, monilioză și putregai. Protecție sigură și durabilă pentru pomi și arbuști. Depozitul Grădinarului
+  Updated: 2025-12-18T19:23:45Z
   Vendor: Pestila
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at13.41.22_2.jpg?v=1738843078
   Price: 65,90 lei RON
-- [Fungicid Azuba – 10 ML, ENO, Sistemic, Legume, Plante ornamentale, Pomi, Boli: Putregai, Rugina, Fainare, Mana](https://depozitulgradinarului.ro/products/fungicid-azuba-10-ml-eno-sistemic): Azuba este un fungicid sistemic pe bază de azoxistrobină (250 g/l), utilizat pentru combaterea unui spectru larg de boli fungice.
-  Updated: 2025-07-28T18:01:44Z
+- [Fungicid Azuba – 10 ML, ENO - Sistemic pentru Mană, Făinare, Rugină](https://depozitulgradinarului.ro/products/fungicid-azuba-10-ml-eno-sistemic): Fungicid AZUBA - 10 ml, cu azoxistrobină, sistemic și translaminar. Protecție eficientă împotriva manei, făinării, ruginii și putregaiului la legume și pomi.
+  Updated: 2025-12-18T06:46:34Z
   Vendor: ENO
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at14.04.03.jpg?v=1738843456
   Price: 6,00 lei RON
-- [Erbicit Total GLYPHO - 100 ML, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-100-ml-glifosat-eno-postemergent): Glypho este un erbicid total sistemic, pe bază de glifosat (360g/L), utilizat pentru combaterea buruienilor monocotiledonate și dicotiledonate anuale și perene.
-  Updated: 2025-07-28T09:27:27Z
+- [Erbicit Total GLYPHO - 100 ML, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-100-ml-glifosat-eno-postemergent): Erbicid total Glypho - 100 ML, substanta activa: glifosat 360 g/L. Combate eficient buruieni anuale și perene, inclusiv pir, costrei, volbură și pălămidă.
+  Updated: 2025-12-18T19:15:41Z
   Vendor: ENO
   Product Type: Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at14.19.27.jpg?v=1738844498
   Price: 9,00 lei RON
-- [Erbicit Total GLYPHO - 250 ML, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-250-ml-glifosat-eno-postemergent): Glypho este un erbicid total sistemic, pe bază de glifosat (360g/L), utilizat pentru combaterea buruienilor monocotiledonate și dicotiledonate anuale și perene.
-  Updated: 2025-07-28T15:16:29Z
+- [Erbicit Total GLYPHO - 250 ML, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-250-ml-glifosat-eno-postemergent): Erbicid total Glypho - 250 ML, substanta activa: glifosat 360 g/L. Combate eficient buruieni anuale și perene, inclusiv pir, costrei, volbură și pălămidă.
+  Updated: 2025-12-18T19:15:14Z
   Vendor: ENO
   Product Type: Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at14.19.27_1.jpg?v=1738850533
   Price: 15,00 lei RON
-- [Erbicit Total GLYPHO - 500 ML, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-500-ml-glifosat-eno-postemergent): Glypho este un erbicid total sistemic, pe bază de glifosat (360g/L), utilizat pentru combaterea buruienilor monocotiledonate și dicotiledonate anuale și perene.
-  Updated: 2025-07-29T02:12:17Z
+- [Erbicit Total GLYPHO - 500 ML, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-500-ml-glifosat-eno-postemergent): Erbicid total Glypho - 500 ML, substanta activa: glifosat 360 g/L. Combate eficient buruieni anuale și perene, inclusiv pir, costrei, volbură și pălămidă.
+  Updated: 2025-12-18T19:14:55Z
   Vendor: ENO
   Product Type: Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-06at14.19.27_2.jpg?v=1738850849
   Price: 24,00 lei RON
-- [Erbicit Total GLYPHO - 1 L, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-1-l-glifosat-eno-postemergent): Glypho este un erbicid total sistemic, pe bază de glifosat (360g/L), utilizat pentru combaterea buruienilor monocotiledonate și dicotiledonate anuale și perene.
-  Updated: 2025-07-28T09:06:01Z
+- [Erbicit Total GLYPHO - 1 L, Glifosat, ENO, Postemergent](https://depozitulgradinarului.ro/products/erbicit-total-glypho-1-l-glifosat-eno-postemergent): Erbicid total Glypho - 1 L, substanta activa: glifosat 360 g/L. Combate eficient buruieni anuale și perene, inclusiv pir, costrei, volbură și pălămidă.
+  Updated: 2025-12-18T19:14:32Z
   Vendor: ENO
   Product Type: GRAD-AGRO-Erbicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-04-08at22.14.49_2.jpg?v=1744140728
   Price: 36,99 lei RON
 - [Sulfat de Cupru – 1 KG | Fungicid și Bactericid pentru Plante](https://depozitulgradinarului.ro/products/sulfat-de-cupru-1-kg): Sulfat de cupru - 1 kg, cu acțiune fungicidă și bactericidă. Ideal pentru viță de vie, pomi și legume. Protecție eficientă și corectarea carenței de cupru.
-  Updated: 2025-12-17T20:01:45Z
+  Updated: 2025-12-18T08:09:43Z
   Vendor: Depozitul Grădinarului
   Product Type: Sulfat de Cupru
   Availability: Available
@@ -1144,7 +1150,7 @@ Comanda acum de la Depozitul Gradinarului!
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Aspersorapaverdecu3brate.jpg?v=1739359102
   Price: 10,80 lei RON
 - [Aspersor apa cu 5 brate | Depozitul Grădinarului](https://depozitulgradinarului.ro/products/aspersor-apa-cu-5-brate): Aspersor apă cu 5 brațe, reglabil, pentru furtun 1/2", 5/8" sau 3/4". Udare eficientă livezi, legume, grădini. Include țaruz pentru fixare.
-  Updated: 2025-11-30T13:41:18Z
+  Updated: 2025-12-20T13:02:24Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1192,8 +1198,8 @@ Comanda acum de la Depozitul Gradinarului!
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Pistoldestropitreglabilcu8functii.jpg?v=1739363168
   Price: 21,60 lei RON
-- [Pistol de Stropit 7 Functii Reglabile, Culoare Verde](https://depozitulgradinarului.ro/products/pistol-de-stropit-reglabil-verde): Pistol de stropit cu 7 funcții reglabile - ideal pentru udat grădina, flori, gazon sau spălat mașina. Jet reglabil, compatibil cu furtun standard.
-  Updated: 2025-11-30T13:41:17Z
+- [Pistol de Stropit 8 Functii Reglabile, Culoare Verde](https://depozitulgradinarului.ro/products/pistol-de-stropit-reglabil-verde): Pistol de stropit cu 8 funcții reglabile - ideal pentru udat grădina, flori, gazon sau spălat mașina. Jet reglabil, compatibil cu furtun standard.
+  Updated: 2025-12-20T15:20:17Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -2946,8 +2952,8 @@ Grupa FAO: 370, Grupa Plus4Grain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-15at21.29.29.jpg?v=1739649468
   Price: 6,21 lei RON
-- [Dezinfectant Organic Sol CLYNSOL – 500 ML, Ingrijirea solului in Gradini, Sere, Solarii](https://depozitulgradinarului.ro/products/dezinfectant-organic-sol-clynsol-500-ml-ingrijirea-solului-in-gradini-sere-solarii): Dezinfectantul Organic ClynSol® este un tratament avansat pentru îmbunătățirea sănătății solului, conceput special pentru a susține o creștere și dezvoltare optimă a plantelor.
-  Updated: 2025-10-12T17:51:50Z
+- [Dezinfectant Organic Sol CLYNSOL – 500 ML, Ingrijirea Solului](https://depozitulgradinarului.ro/products/dezinfectant-organic-sol-clynsol-500-ml-ingrijirea-solului-in-gradini-sere-solarii): Dezinfectantul Organic ClynSol® este un tratament avansat pentru îmbunătățirea sănătății solului, conceput special pentru a susține o creștere și dezvoltare optimă a plantelor.
+  Updated: 2025-12-19T08:29:50Z
   Vendor: Taminco
   Product Type: Dezinfectant sol
   Availability: Available
@@ -3148,8 +3154,8 @@ Grupa FAO: 370, Grupa Plus4Grain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-04-16at18.26.32.jpg?v=1744817213
   Price: 21,00 lei RON
-- [Erbicid PANTERA 40 EC - 1 L, UPL, Postemergent, Buruieni monocotiledonate anuale si perene](https://depozitulgradinarului.ro/products/erbicid-pantera-40-ec-1-l-upl-postemergent-buruieni-monocotiledonate-anuale-si-perene): Pantera 40 EC este un erbicid sistemic postemergent, utilizat pentru combaterea buruienilor monocotiledonate anuale și perene, inclusiv samulastra cerealelor.
-  Updated: 2025-10-09T18:52:35Z
+- [Erbicid PANTERA 40 EC - 1 L, UPL, Postemergent, Buruieni Monocotiledonate](https://depozitulgradinarului.ro/products/erbicid-pantera-40-ec-1-l-upl-postemergent-buruieni-monocotiledonate-anuale-si-perene): Pantera 40 EC (1 L) este un erbicid sistemic postemergent, eficient împotriva buruienilor monocotiledonate anuale și perene, ideal pentru rapiță, floarea-soarelui și legume.
+  Updated: 2025-12-19T06:39:19Z
   Vendor: UPL
   Product Type: Erbicid
   Availability: Available
@@ -4045,7 +4051,7 @@ Livrare rapidă!
   Updated: 2025-11-30T13:19:14Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-12-11T12:37:20Z
+  Updated: 2025-12-19T12:32:00Z
   Total Products: 125
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
   Updated: 2025-11-30T13:24:53Z
@@ -4219,19 +4225,19 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:02Z
   Total Products: 0
 - [Erbicide eficiente pentru Culturile Agricole și Grădină](https://depozitulgradinarului.ro/collections/erbicide): Erbicide eficiente, preemergente și postemergente pentru combaterea buruienilor monocotiledonate și dicoltiledonate din culturile agricole, grădini și spațiile verzi. Calitate profesională, rezultate garantate.
-  Updated: 2025-11-29T12:48:33Z
+  Updated: 2025-12-18T18:59:29Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-12-16T19:04:51Z
+  Updated: 2025-12-18T19:45:07Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
-  Updated: 2025-12-16T19:12:36Z
+  Updated: 2025-12-18T18:52:24Z
   Total Products: 36
 - [Adjuvanți Agricoli – Eficiență Sporită pentru Tratamente](https://depozitulgradinarului.ro/collections/adjuvanti): Adjuvanți agricoli profesionali pentru eficiență sporită a  tratamentelor fitosanitare și a îngrășămintelor foliare. Soluții compatibile cu erbicide, fungicide și insecticide pentru eficiență maximă.
-  Updated: 2025-07-30T04:25:06Z
+  Updated: 2025-12-18T19:55:32Z
   Total Products: 3
 - [Acaricide – Protecție Fitosanitară Totală](https://depozitulgradinarului.ro/collections/acaricide): Descoperă acaricide eficiente pentru protecție fitosanitară totală și pentru combaterea acarienilor. Soluții profesionale pentru protecția culturilor și grădinilor împotriva dăunătorilor microscopici.
-  Updated: 2025-07-31T19:45:45Z
+  Updated: 2025-12-18T19:45:07Z
   Total Products: 2
 - [Biocide pentru Agricultură, Industrie și Spații Private](https://depozitulgradinarului.ro/collections/biocide): Biocide profesionale pentru combaterea bacteriilor, virușilor, fungilor și mucegaiurilor, soluții pentru agricultură, industrie și spații locuite. Protecție igienică de înalt nivel.
   Updated: 2025-06-21T14:30:41Z
@@ -4246,13 +4252,13 @@ Livrare rapidă!
   Updated: 2025-10-27T08:49:17Z
   Total Products: 4
 - [Dezinfectanți Sol pentru Grădină, Sere, Solarii și Culturile de Câmp](https://depozitulgradinarului.ro/collections/dezinfectanti-sol): Alege dezinfectanți pentru sol eficienți în combaterea agenților patogeni și pregătirea solului din grădină, sere, solarii și culturile de câmp. Previne bolile și asigură un start sănătos plantelor.
-  Updated: 2025-11-30T12:59:52Z
+  Updated: 2025-12-18T20:07:37Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-12-17T20:02:09Z
+  Updated: 2025-12-18T20:07:37Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-12-11T12:37:20Z
+  Updated: 2025-12-19T12:32:00Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
@@ -4268,16 +4274,16 @@ Livrare rapidă!
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-12-17T19:55:04Z
+  Updated: 2025-12-20T15:19:47Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-30T13:19:14Z
   Total Products: 18
 - [Raticide Avizate | Eliminare Rozătoare din Gospodărie și Fermă](https://depozitulgradinarului.ro/collections/raticide-1): Raticide puternice pentru eliminarea rozătoarelor în spații comerciale, locuințe, ferme și depozite. Protejează-ți proprietatea eficient!
-  Updated: 2025-12-17T19:55:04Z
+  Updated: 2025-12-18T20:00:12Z
   Total Products: 8
 - [Sisteme de Irigat | Aspersoare, Furtune, Pistoale, Accesorii](https://depozitulgradinarului.ro/collections/sisteme-de-irigat): Sisteme de irigat pentru grădină: aspersoare, furtune, pistoale de stropit și accesorii. Soluții eficiente pentru udarea gazonului și plantelor.
-  Updated: 2025-11-30T13:41:20Z
+  Updated: 2025-12-20T15:19:47Z
   Total Products: 47
 - [Unelte și Accesorii de Grădinărit | Foarfeci, Topoare, Greble și Sisteme de Irigare](https://depozitulgradinarului.ro/collections/unelte-accesorii-gradinarit): Descoperă o gamă variată de unelte și accesorii de grădinărit, inclusiv foarfeci, greble, ciocane, lopeți, furci și sisteme de irigare. Echipamente de calitate pentru toate nevoile tale de grădinărit.
   Updated: 2025-12-03T19:39:39Z
@@ -4394,8 +4400,8 @@ Livrare rapidă!
   Updated: 2025-10-21T14:52:08Z
   Total Products: 8
 - [Promoții](https://depozitulgradinarului.ro/collections/promoții)
-  Updated: 2025-12-11T12:37:20Z
-  Total Products: 333
+  Updated: 2025-12-20T15:19:47Z
+  Total Products: 334
 
 ## Blogs
 
