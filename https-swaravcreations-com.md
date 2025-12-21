@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-12-20T00:00:39.762Z
+- Updated At: 2025-12-21T00:00:39.841Z
 
 ## Products
 
@@ -461,8 +461,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4468_transformation_13569.png?v=1763651978
   Price: $85.00 CAD
-- [Alluring Beauty Necklace with Luxury LED Box | Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-luxury-box-swarav-creations-elevate-your-elegance): Alluring Beauty Necklace with a luxury LED gift box by Swarav Creations. An elegant, meaningful jewelry gift perfect for special moments.
-  Updated: 2025-12-17T04:04:22Z
+- [Alluring Beauty Necklace – Luxury Gold Finish Gift | Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-luxury-box-swarav-creations-elevate-your-elegance): A meaningful gift crafted with a radiant 14K or 18K gold finish and presented in a luxury LED box. Perfect for anniversaries, birthdays, and unforgettable moments.
+  Updated: 2025-12-20T14:51:33Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -720,8 +720,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4525_transformation_13949.png?v=1765026589
   Price: $90.00 CAD
-- [Love Knot Necklace & Earring Set – 14K White Gold | Luxury Box | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): Surprise her with a Love Knot Necklace & Earring Set in 14K white gold, beautifully packaged in a luxury gift box—perfect for anniversaries and special moments.
-  Updated: 2025-12-17T21:44:13Z
+- [Love Knot Necklace & Earring Set – 14K White Gold Gift | Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set-14k-white-gold): A timeless Love Knot jewelry gift in 14K white gold with luxury box — perfect for anniversaries, birthdays & meaningful surprises.
+  Updated: 2025-12-20T23:05:14Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -731,31 +731,31 @@
 ## Collections
 
 - [Meaningful Jewelry Gifts Canada | Swarav Creations](https://swaravcreations.com/collections/meaningful-jewelry-gifts-canada): Explore meaningful jewelry gifts from Swarav Creations, handcrafted in 14K white gold and 18K yellow gold. Perfect for every occasion — elegant, gift-ready, and shipped fast across Canada. Discover !
-  Updated: 2025-12-13T00:38:26Z
+  Updated: 2025-12-20T22:37:29Z
   Total Products: 9
 - [New Arrivals - Discover the Latest Styles and Trends Today!](https://swaravcreations.com/collections/new-arrivals): New Arrivals Collection  - Discover our exclusive New Arrivals Collection featuring the latest trends and must-have items. Elevate your style with fresh pieces designed for every occasion. Shop now!
-  Updated: 2025-12-14T12:31:01Z
+  Updated: 2025-12-20T22:37:29Z
   Total Products: 28
 - [Best Sellers](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations Best Sellers—top-rated necklaces in 14k white or 18k yellow gold finishes, brilliant CZ stones, gift-ready packaging, and fast, tracked shipping.
-  Updated: 2025-12-14T12:31:01Z
+  Updated: 2025-12-20T03:43:00Z
   Total Products: 22
 - [Gifts Under $60](https://swaravcreations.com/collections/gifts-under-60)
   Updated: 2025-12-14T05:05:30Z
   Total Products: 11
 - [Gifts $60–$100](https://swaravcreations.com/collections/gifts-60-100)
-  Updated: 2025-12-14T12:31:01Z
+  Updated: 2025-12-20T03:43:00Z
   Total Products: 22
 - [Gifts Over $100](https://swaravcreations.com/collections/gifts-over-100)
-  Updated: 2025-12-14T05:05:30Z
+  Updated: 2025-12-20T22:37:29Z
   Total Products: 2
 - [Necklaces – Elegant & Meaningful Jewelry by Swarav Creations - Swarav Creations](https://swaravcreations.com/collections/necklaces-elegant-meaningful-jewelry-by-swarav-creations): Discover exquisite necklaces from Swarav Creations — where every piece is crafted with love, meaning, and timeless beauty. From sparkling pendants to personalized gifts, our necklace collection features elegant designs that make every moment special. Whether you’re celebrating love, friendship, or milestones, you’ll find the perfect necklace to express your heart. Handcrafted from premium materials and available in stunning finishes, these necklaces are ideal for birthdays, anniversaries, Valentine’s Day, and more. ✨ Designed with Heart. Crafted to Sparkle. - Swarav Creations
-  Updated: 2025-12-14T12:31:01Z
+  Updated: 2025-12-20T03:43:00Z
   Total Products: 22
 - [Necklace & Earring - Swarav Creations](https://swaravcreations.com/collections/necklace-earring): - Swarav Creations
-  Updated: 2025-12-14T12:31:01Z
+  Updated: 2025-12-20T22:37:29Z
   Total Products: 26
 - [Earring - Swarav Creations](https://swaravcreations.com/collections/earring): - Swarav Creations
-  Updated: 2025-12-13T00:38:27Z
+  Updated: 2025-12-20T22:37:29Z
   Total Products: 4
 
 ## Blogs
@@ -848,8 +848,10 @@
   Updated: 2025-09-14T19:34:01Z
 - [HTML Sitemap](https://swaravcreations.com/pages/html-sitemap): Products Eternal Love Knot Necklace - Swarav Creations Forever Love Necklace - Elegant Jewelry by Swarav Creations Alluring Beauty Necklace | Swara...
   Updated: 2025-10-07T00:35:19Z
-- [About Swarav Creations](https://swaravcreations.com/pages/about-swarav-creations): Our Story Swarav Creations was born from a simple belief — that meaningful gifts don’t need to be expensive or complicated to leave a lasting impre...
-  Updated: 2025-12-18T03:16:53Z
+- [About Swarav Creations](https://swaravcreations.com/pages/about-swarav-creations): Our Story Swarav Creations is a Canadian online jewelry brand. We specialize in meaningful gift jewelry with 14K white gold and 18K yellow gold fin...
+  Updated: 2025-12-20T01:42:35Z
+- [FAQ - Swarav Creations](https://swaravcreations.com/pages/faq-swarav-creations): 1. Are Swarav Creations products real gold? Our jewelry features premium gold finishes, including 14K white gold and 18K yellow gold finishes, desi...
+  Updated: 2025-12-20T02:38:10Z
 
 ## Policies
 
