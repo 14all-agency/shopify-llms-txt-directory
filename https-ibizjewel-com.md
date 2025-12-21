@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-20T00:01:00.734Z
+- Updated At: 2025-12-21T00:00:59.901Z
 
 ## Products
 
@@ -7887,7 +7887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-84_1.jpg?v=1703830890
     Price: $2,999.00 USD
 - [Natural Salt And Pepper 1.30CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-30ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-3): This handmade Natural Salt and Pepper 1.30CT Hexagon Diamond Art Deco Unique Engagement Ring is the perfect accessory to any occasion. Crafted with a high-grade and ethically sourced Hexagon Diamond, it's sure to be an unforgettable gift for a special someone. Its classic design and beautiful detail will be treasured for anniversaries to come.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2025-12-20T01:50:36Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -32000,7 +32000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-42_2.jpg?v=1711174227
     Price: $765.00 USD
 - [Moissanite 0.45CT Round Diamond Fashion Earring](https://ibizjewel.com/products/moissanite-0-45ct-round-diamond-fashion-earring): Expertly Designed With A 0.45ct Round Moissanite Diamond, These Fashion Earrings Combine Elegance And Sparkle Into One Dazzling Piece. Made For Any Occasion, The Brilliance Of These Earrings Will Elevate Any Outfit. Experience The Beauty And Durability Of Moissanite, A Timeless Gemstone Perfect For Everyday Wear.
-  Updated: 2025-10-02T10:31:05Z
+  Updated: 2025-12-20T11:21:59Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
