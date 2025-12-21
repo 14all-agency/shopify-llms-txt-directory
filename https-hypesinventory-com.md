@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2025-12-19T00:00:32.626Z
+- Updated At: 2025-12-21T00:00:34.715Z
 
 ## Products
 
@@ -402,7 +402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Yz3IIeDJldlOhiPt.webp?v=1759882640
     Price: $19.98 USD
 - [PHOFAY Double-Take Cream & Powder Blush Duo](https://hypesinventory.com/products/phofay-double-take-cream-powder-blush-duo): Net Weight: 6.5g Functions: Smooth, Weightless Suggested Usage:- Start by using the brush to apply the cream with a gentle, stamping motion to create definition. - Layer the powder over areas where the cream has been applied to buff out any harsh lines and add warmth to the skin, focusing on areas where the sun would naturally hit the face. - To contour the nose, apply the same tips using the Brush.
-  Updated: 2025-12-10T23:25:15Z
+  Updated: 2025-12-19T01:50:34Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2122,7 +2122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/NWPq3i510Q8rzSSG.webp?v=1752858936
     Price: $59.90 USD
 - [HealArch™ Toe Fiber Separator](https://hypesinventory.com/products/fiber-toe-separator): Silicone Toe Separator & Bunion Corrector Relieve Pain • Correct Alignment • Walk in Comfort Say goodbye to foot discomfort with our HealArch Silicone Toe Separator — designed to gently realign toes and provide relief from bunions, overlapping toes, and Hallux Valgus. Features: ✅ Soft & Comfortable – Made from high-quality SEBS silicone and nylon for all-day comfort. ✅ Pain Relief & Correction – Helps realign the big toe, reduce pressure, and relieve pain caused by bunions or toe overlap. ✅ Durable & Reusable – Washable and long-lasting. If it gets sticky over time, simply apply talcum powder to restore its smooth feel. ✅ Compact & Travel-Friendly – Small, lightweight, and easy to carry wherever you go. Materials: Nylon + SEBS Silicone Note: Only includes 1 single piece (not a pair). Premium Comfort with Silicone Gel ✅ High-Quality Silicone Gel – Ultra-soft and skin-friendly for all-day comfort. ✅ Flexible Support – Gently separates and aligns toes without discomfort. ✅ Perfect for Sensitive Skin – Smooth and breathable fabric sleeves reduce friction and prevent irritation. ✅ Designed for Daily Use – Lightweight and barely noticeable while walking or resting. Comfortable & Secure Toe Separation ✅ Dual-Ring Design – Keeps toes comfortably separated with approx. 0.6-inch spacing. ✅ No-Slip Fit – Soft rings stay securely in place all day. ✅ Prevents Overlap – Helps maintain natural toe alignment. Tips for Best Results ✅ Use with Loose Footwear – Best worn with roomy shoes or while resting. ✅ Promotes Long-Term Relief – Consistent use encourages better toe alignment. ✅ Gentle & Effective – Ideal for daily wear without added strain. Soft, Secure & Effective Toe Separation ✅ Silicone Split Core – Provides a soft, cushioned separation between toes with two thicknesses available. ✅ Stretch-Fit Fabric Sleeves – Flexible and breathable for a snug, comfortable fit. ✅ Non-Slip Design – Stays securely in place without shifting or sliding. ✅ Comfort Without Damage – Gently supports alignment without causing stress to bones or joints. Targeted Relief for Foot Discomfort ✅ Relieves Bunion & Toe Pain – Gently realigns toes to reduce pressure, friction, and discomfort. ✅ Post-Surgery Support – Helps maintain proper alignment during recovery. ✅ Everyday Comfort – Soft, supportive, and perfect for daily wear. Easy to Clean & Reuse ✅ Washable & Reusable – Easy to clean with mild soap and water. ✅ Long-Lasting Comfort – Made from durable, high-quality materials. ✅ Refresh with Talcum Powder – Keeps them soft and smooth over time Care Instructions: Hand wash gently with clean water and let air dry.
-  Updated: 2025-12-10T23:25:19Z
+  Updated: 2025-12-20T03:32:06Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -8452,7 +8452,41 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ChatGPT_Image_Dec_10_2025_05_00_39_AM.png?v=1765919986
     Price: $14.90 USD
-[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDgxNjI3NjQwMDYxLCJsYXN0X3ZhbHVlIjoiOTA4MTYyNzY0MDA2MSJ9)
+- [Insulated Lunch & Laptop Bag – Stylish 2-in-1 Work & Travel Tote](https://hypesinventory.com/products/insulated-lunch-laptop-bag): Upgrade your daily carry with this insulated lunch & laptop bag. Stylish 2-in-1 tote keeps food fresh while protecting your laptop—perfect for work, school & travel.
+  Updated: 2025-12-20T23:50:34Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/BFED0788-AAA4-46F1-9FA8-84FE6BF9ED66.png?v=1766220398
+  - [Black / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017263071485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/BFED0788-AAA4-46F1-9FA8-84FE6BF9ED66.png?v=1766220398
+    Price: $74.99 USD
+  - [Brown / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017263005949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/IMG-5574.png?v=1766221191
+    Price: $74.99 USD
+  - [Green / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017263038717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/EED5BCC0-037E-42D7-A5C6-E611EE4187B6.png?v=1766221191
+    Price: $74.99 USD
+  - [Wine Red / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017263104253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/IMG-5570.png?v=1766221191
+    Price: $74.99 USD
+  - [White/Brown / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017263137021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/IMG-5573.png?v=1766221191
+    Price: $74.99 USD
+  - [Biege / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017262973181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/IMG-5575.png?v=1766221191
+    Price: $74.99 USD
+  - [White/Black / One Size (Fits Everything)](https://hypesinventory.com/products/insulated-lunch-laptop-bag?variant=47017263169789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/IMG-5571.png?v=1766221191
+    Price: $74.99 USD
+[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDg5OTM1MzExMTAxLCJsYXN0X3ZhbHVlIjoiOTA4OTkzNTMxMTEwMSJ9)
 
 ## Collections
 
@@ -8466,7 +8500,7 @@
   Updated: 2025-12-13T12:24:12Z
   Total Products: 8
 - [Health & Beauty](https://hypesinventory.com/collections/health-beauty)
-  Updated: 2025-12-10T23:25:14Z
+  Updated: 2025-12-19T12:22:27Z
   Total Products: 25
 - [Shaper™ Collection](https://hypesinventory.com/collections/shaper™-collection)
   Updated: 2025-12-10T23:25:14Z
@@ -8490,8 +8524,11 @@
   Updated: 2025-12-10T23:25:14Z
   Total Products: 1
 - [Featured Collection](https://hypesinventory.com/collections/featured-collection-yl5rv)
-  Updated: 2025-12-13T01:58:09Z
-  Total Products: 22
+  Updated: 2025-12-20T03:06:07Z
+  Total Products: 23
+- [Handbags & Wallets](https://hypesinventory.com/collections/handbags-wallets)
+  Updated: 2025-12-19T06:03:56Z
+  Total Products: 1
 
 ## Blogs
 
