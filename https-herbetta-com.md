@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-27T03:01:22Z
 - Contact Email: naturalstulsi@gmail.com
-- Updated At: 2025-12-19T00:00:20.743Z
+- Updated At: 2025-12-21T00:00:21.103Z
 
 ## Products
 
@@ -168,7 +168,7 @@
   Updated: 2025-12-15T04:34:06Z
   Total Products: 0
 - [Hair Care](https://herbetta.com/collections/hair-care): Nourish your hair with the power of nature. Our herbal hair care powders like Henna, Indigo, Amla, Shikakai, Reetha, and Bhringraj help in strengthening roots, promoting growth, controlling dandruff, and providing natural shine—without any chemicals.
-  Updated: 2025-12-17T04:29:40Z
+  Updated: 2025-12-19T03:11:44Z
   Total Products: 7
 - [Skin Care](https://herbetta.com/collections/skin-care): Pamper your skin with pure herbal care. Mulethi, Multani Mitti and Orange Peel Powder help in deep cleansing, controlling excess oil, reducing acne, and giving your skin a natural glow—completely chemical-free.
   Updated: 2025-12-17T12:25:09Z
