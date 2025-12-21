@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-21T08:00:34.050Z
+- Updated At: 2025-12-21T12:00:34.618Z
 
 ## Products
 
@@ -7863,7 +7863,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Sandalwood Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/sandalwood-body-scrub-64-oz-whipped-salt-scrub): Unwind with Sandalwood body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a warm, grounding scent.
-  Updated: 2025-12-20T20:26:27Z
+  Updated: 2025-12-21T08:19:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7878,7 +7878,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Saffron Cedarwood Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/saffron-cedarwood-body-scrub-64-oz-whipped-salt-scrub): Indulge in Saffron Cedarwood body scrub. A whipped salt scrub with jojoba oil for smooth skin and a rich, sophisticated scent.
-  Updated: 2025-12-20T20:26:03Z
+  Updated: 2025-12-21T08:21:07Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7893,7 +7893,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Pumpkin Cheesecake Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pumpkin-cheesecake-body-scrub-64-oz-whipped-salt-scrub): Treat your skin with Pumpkin Cheesecake body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and cozy self-care.
-  Updated: 2025-12-20T20:26:37Z
+  Updated: 2025-12-21T08:22:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7908,7 +7908,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Pumpkin Spice Latte Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub): Cozy up with Pumpkin Spice Latte body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and fall-inspired exfoliation.
-  Updated: 2025-12-20T20:25:10Z
+  Updated: 2025-12-21T08:24:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
