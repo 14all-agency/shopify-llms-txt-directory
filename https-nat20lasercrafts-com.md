@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2025-12-20T20:56:01.394Z
+- Updated At: 2025-12-21T01:17:49.403Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/live-ugly-possum-keychain.png?v=1766256110
   Price: $8.99 USD
 - [Geometric Dice Sword Wall Art - 12 inch Laser Cut Gaming Decor](https://nat20lasercrafts.com/products/geometric-dice-sword-wall-art-12-inch-laser-cut-gaming-decor): Display your passion for tabletop gaming with this stunning geometric dice sword wall hang. This 12 inch laser-cut piece transforms iconic polyhedral dice into an elegant sword design that celebrates the heart of every RPG adventure. Features: Precision laser-cut geometric dice pattern forming a sword silhouette 12 inches long - perfect statement piece for any gaming space Vibrant red acrylic construction with intricate detail Lightweight design with easy wall mounting Celebrates D&D, Pathfinder, and all tabletop RPG traditions Whether you're decorating your game room, office, or displaying your love for the hobby, this dice sword brings artistry and gaming culture together. A perfect gift for dungeon masters, players, and collectors alike.
-  Updated: 2025-12-20T20:33:47Z
+  Updated: 2025-12-21T00:38:47Z
   Vendor: Nat 20 Custom Laser Crafts
   Product Type: 
   Availability: Available
