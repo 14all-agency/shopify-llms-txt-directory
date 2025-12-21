@@ -6,40 +6,40 @@
 - Timezone: Europe/London
 - Created At: 2025-03-27T12:54:05Z
 - Contact Email: hello@comfyheadbands.com
-- Updated At: 2025-12-19T00:00:26.194Z
+- Updated At: 2025-12-21T00:00:31.277Z
 
 ## Products
 
 - [Kids Warm Cotton Headband – Blue | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-blue): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid-approved designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2025-12-18T17:32:55Z
+  Updated: 2025-12-20T04:59:33Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/3.jpg?v=1765471552
   Price: £9.99 GBP
 - [Kids Warm Cotton Headband – Orange | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-orange): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid-approved designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2025-12-18T17:32:55Z
+  Updated: 2025-12-20T04:59:34Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/4.jpg?v=1765471543
   Price: £9.99 GBP
 - [Kids Warm Cotton Headband – Grey | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-grey): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid-approved designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2025-12-18T17:32:55Z
+  Updated: 2025-12-20T04:59:35Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/1.jpg?v=1765471545
   Price: £9.99 GBP
 - [Kids Warm Cotton Headband – Red | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-red): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid-approved designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2025-12-18T17:32:55Z
+  Updated: 2025-12-20T04:59:36Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/5_c50f772d-8423-489e-982f-d2429eb27b22.jpg?v=1765471553
   Price: £9.99 GBP
 - [Kids Warm Cotton Headband – Black | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-black): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid-approved designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2025-12-18T17:15:52Z
+  Updated: 2025-12-20T04:59:37Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
