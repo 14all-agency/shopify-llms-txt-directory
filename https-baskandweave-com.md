@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-12-15T00:00:43.491Z
+- Updated At: 2025-12-22T00:00:44.619Z
 
 ## Products
 
@@ -5484,7 +5484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-long-sleeve-tee-heather-navy-zoomed-in-6790f4a5516a6.jpg?v=1737553257
     Price: $32.50 USD
 - [Men's Embroidered Muscle Shirt – Stylish Workout Tee](https://baskandweave.com/products/mens-muscle-embroidered-shirt): Upgrade your gym style with our men's embroidered muscle shirt. Designed for comfort and confidence, this fitted tee highlights strength and sleek modern appeal
-  Updated: 2025-11-03T15:03:41Z
+  Updated: 2025-12-20T10:04:40Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -7521,7 +7521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-hoodie-pigment-light-blue-front-67951d3dacb13.jpg?v=1737830774
     Price: $80.00 USD
 - [Men's Fleece Zip Hoodie – Soft, Warm & Stylish Everyday Wear](https://baskandweave.com/products/mens-fleece-zip-up-hoodie): Stay cozy with our Men's Fleece Zip Hoodie, made for warmth and everyday comfort. Perfect for layering or casual wear—soft, durable, and stylish.
-  Updated: 2025-11-02T22:46:37Z
+  Updated: 2025-12-15T22:15:09Z
   Vendor: Bask & Weave
   Product Type: Zip Up Hoodie
   Availability: Available
@@ -7547,11 +7547,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-black-front-67951dce0934e.jpg?v=1740267149
     Price: $64.50 USD
   - [Classic Navy / S](https://baskandweave.com/products/mens-fleece-zip-up-hoodie?variant=47078539264250)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-classic-navy-front-67951dce0e61f.jpg?v=1737830832
     Price: $61.00 USD
   - [Classic Navy / M](https://baskandweave.com/products/mens-fleece-zip-up-hoodie?variant=47078539297018)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-classic-navy-front-67951dce0e61f.jpg?v=1737830832
     Price: $61.00 USD
   - [Classic Navy / L](https://baskandweave.com/products/mens-fleece-zip-up-hoodie?variant=47078539329786)
@@ -10573,7 +10573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-2-6795785380f49.jpg?v=1737908197
     Price: $33.00 USD
 - [Women's Fit T-Shirt – Stylish & Fashionable Everyday Tee](https://baskandweave.com/products/womens-fashion-fit-t-shirt): Upgrade your look with this Women's Fit T-Shirt. Designed for a flattering silhouette and everyday comfort, this fashionable tee complements any outfit.
-  Updated: 2025-11-02T23:47:00Z
+  Updated: 2025-12-18T22:22:47Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10587,7 +10587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-fashion-fit-t-shirt-black-front-679578f862883.jpg?v=1737908263
     Price: $30.50 USD
   - [Black / L](https://baskandweave.com/products/womens-fashion-fit-t-shirt?variant=47079082492154)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-fashion-fit-t-shirt-black-front-679578f862883.jpg?v=1737908263
     Price: $30.50 USD
   - [Black / XL](https://baskandweave.com/products/womens-fashion-fit-t-shirt?variant=47079082524922)
@@ -12705,7 +12705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pique-polo-shirt-white-front-679664511bb41.jpg?v=1737910111
     Price: $38.00 USD
 - [Women's Racerback Tank Top - Lightweight & Stylish Wear](https://baskandweave.com/products/womens-racerback-tank-top): Stay cool and confident in our Women's Racerback Tank Top. Perfect for workouts or casual wear, this lightweight, breathable tank ensures all-day comfort.
-  Updated: 2025-11-03T22:54:00Z
+  Updated: 2025-12-17T00:36:00Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -13625,7 +13625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Crop_Tee.jpg?v=1740966277
     Price: $38.00 USD
 - [Women's Crop Tee – Stylish Fashion Crop Top for Women](https://baskandweave.com/products/women-s-crop-tee): Shop the latest women's crop tee made for everyday comfort and chic style. Perfect for casual wear or layering, this trendy crop top elevates any outfit.
-  Updated: 2025-11-03T23:05:39Z
+  Updated: 2025-12-18T16:22:47Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -13635,7 +13635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-crop-tee-black-front-67966cb353112.jpg?v=1737911681
     Price: $30.50 USD
   - [Black / M/L](https://baskandweave.com/products/women-s-crop-tee?variant=47080248836346)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-crop-tee-black-front-67966cb353112.jpg?v=1737911681
     Price: $30.50 USD
   - [Heather Olive / XS/SM](https://baskandweave.com/products/women-s-crop-tee?variant=47080248869114)
@@ -14501,7 +14501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-softstyle-t-shirt-military-green-front-679670d5731e0.jpg?v=1737915846
     Price: $24.00 USD
 - [Embroidered Women's T-Shirt – Fashion Fit & Stylish](https://baskandweave.com/products/womens-fashion-fit-embroidered-t-shirt): Elevate your look with our Embroidered Women's T-Shirt, designed for a modern fashion fit. Soft, stylish, and perfect for any casual or chic occasion.
-  Updated: 2025-11-03T23:10:44Z
+  Updated: 2025-12-18T22:22:48Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -14515,7 +14515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Fashion_Fit_Embroidered_T-Shirt.jpg?v=1740956674
     Price: $32.00 USD
   - [Black / L](https://baskandweave.com/products/womens-fashion-fit-embroidered-t-shirt?variant=47080281014522)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Fashion_Fit_Embroidered_T-Shirt.jpg?v=1740956674
     Price: $32.00 USD
   - [Black / XL](https://baskandweave.com/products/womens-fashion-fit-embroidered-t-shirt?variant=47080281047290)
@@ -17903,7 +17903,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-essential-eco-hoodie-white-front-6796dccd1c267.jpg?v=1737941775
     Price: $62.00 USD
 - [Women's Fleece Zip Up Hoodie - Warm & Stylish Outerwear](https://baskandweave.com/products/womens-fleece-zip-up-hoodie): Stay warm and cozy with our women's fleece zip up hoodie. Soft, durable, and stylish—perfect for layering or casual everyday wear.
-  Updated: 2025-11-04T00:12:42Z
+  Updated: 2025-12-15T22:15:08Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -17929,11 +17929,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-black-front-6796dd99c4771.jpg?v=1737941832
     Price: $58.50 USD
   - [Classic Navy / S](https://baskandweave.com/products/womens-fleece-zip-up-hoodie?variant=47081159360762)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-classic-navy-front-6796dd99c65df.jpg?v=1737941832
     Price: $55.50 USD
   - [Classic Navy / M](https://baskandweave.com/products/womens-fleece-zip-up-hoodie?variant=47081159393530)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-classic-navy-front-6796dd99c65df.jpg?v=1737941832
     Price: $55.50 USD
   - [Classic Navy / L](https://baskandweave.com/products/womens-fleece-zip-up-hoodie?variant=47081159426298)
@@ -19933,7 +19933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-womens-joggers-white-front-67a69ac39fd6e.jpg?v=1738973440
     Price: $64.50 USD
 - [Women's Sweatpants - Pigment-Dyed Comfortable Joggers](https://baskandweave.com/products/womens-pigment-dyed-sweatpants): Discover our women's sweatpants, crafted with a unique pigment-dyed finish for a soft, vintage feel. Perfect for comfort, lounging, or casual outings.
-  Updated: 2025-11-05T00:23:49Z
+  Updated: 2025-12-21T23:35:45Z
   Vendor: Bask & Weave
   Product Type: Sweatpants
   Availability: Available
@@ -20111,7 +20111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Capri_Leggings.jpg?v=1740876972
     Price: $39.50 USD
 - [Women's Sports Leggings - High-Performance Activewear](https://baskandweave.com/products/womens-sports-leggings): Experience comfort and flexibility with our women's sports leggings. Designed for performance, these leggings are perfect for workouts and daily wear.
-  Updated: 2025-11-05T00:26:48Z
+  Updated: 2025-12-21T23:35:01Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -20199,7 +20199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-flare-leggings-white-front-67a69ddc25073.jpg?v=1738973701
     Price: $59.00 USD
 - [Women's Wide-Leg Pants | Stylish All-Over Print Fashion](https://baskandweave.com/products/all-over-print-womens-wide-leg-pants): Shop stylish women's wide-leg pants featuring unique all-over prints and a relaxed fit. These comfortable wide-leg pants add flair to any casual outfit.
-  Updated: 2025-11-05T00:29:46Z
+  Updated: 2025-12-15T08:11:10Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -20249,7 +20249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Wide-Leg_Pants.jpg?v=1740870407
     Price: $65.00 USD
 - [Women's Skater Skirt - All-Over Print Flared Fashion](https://baskandweave.com/products/all-over-print-womens-skater-skirt): Shop women's skater skirt styles with bold all-over prints and a flattering flared fit. Perfect for everyday wear or casual chic outings.
-  Updated: 2025-11-05T00:30:35Z
+  Updated: 2025-12-21T23:32:03Z
   Vendor: Bask & Weave
   Product Type: Skirt
   Availability: Available
