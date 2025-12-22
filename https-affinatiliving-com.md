@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-22T16:00:33.522Z
+- Updated At: 2025-12-22T20:00:35.441Z
 
 ## Products
 
@@ -7432,7 +7432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8167.png?v=1766075605
   Price: $6.95 USD
 - [Bouquet of Roses Mini Candle](https://affinatiliving.com/products/bouquet-of-roses-mini-candle): Mini Bouquet of Roses Candle | 3 oz. Elegant fresh roses with soft musk. Strongly scented and hand-poured with a soy wax blend.
-  Updated: 2025-12-19T03:59:11Z
+  Updated: 2025-12-22T16:56:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7474,7 +7474,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8180.png?v=1766075515
   Price: $6.95 USD
 - [Lavender Vanilla Mini Candle](https://affinatiliving.com/products/lavender-vanilla-mini-candle): Mini Lavender Vanilla Candle | 3 oz. Floral lavender with creamy vanilla. Strong throw and long-lasting clean burn.
-  Updated: 2025-12-19T04:31:52Z
+  Updated: 2025-12-22T16:19:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7558,7 +7558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8191.png?v=1766075303
   Price: $6.95 USD
 - [Ivory Woods Mini Candle](https://affinatiliving.com/products/ivory-woods-mini-candle): Mini Ivory Woods Candle | 3 oz. Soft woods and warm musk. Strong throw, cozy, and hand-poured with soy wax.
-  Updated: 2025-12-19T04:07:37Z
+  Updated: 2025-12-22T16:24:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -8141,7 +8141,7 @@
 
 - [News](https://affinatiliving.com/blogs/news)
   - [Paraffin vs Soy Wax: Full Comparison + The Best Candle Wax for Clean Burning](https://affinatiliving.com/blogs/news/paraffin-vs-soy-wax-which-is-better)
-    Updated: 2025-11-21T01:36:26Z
+    Updated: 2025-12-22T16:14:08Z
     Author: Gerard Collins
   - [Best Candle Scents for Every Season!](https://affinatiliving.com/blogs/news/best-candle-scents-for-every-season)
     Updated: 2025-09-07T02:06:42Z
@@ -9377,6 +9377,15 @@
     Author: Gerard Collins
   - [Dove Body Lotion Guide – Nourishing Hydration, Creamy Texture & Clean Luxury Alternatives](https://affinatiliving.com/blogs/deep-analysis/dove-body-lotion-guide-nourishing-hydration-creamy-texture-and-clean-luxury-alternatives)
     Updated: 2025-11-25T14:50:43Z
+    Author: Gerard Collins
+  - [Best Candles Under $10: Affordable Mini Candles That Perform](https://affinatiliving.com/blogs/deep-analysis/best-candles-under-10-affordable-mini-candles-that-perform)
+    Updated: 2025-12-22T16:55:46Z
+    Author: Gerard Collins
+  - [Top 10 Candles Under $10 – Best Affordable Candles for Home Fragrance](https://affinatiliving.com/blogs/deep-analysis/top-10-candles-under-10-best-affordable-candles-for-home-fragrance)
+    Updated: 2025-12-22T16:47:39Z
+    Author: Gerard Collins
+  - [Best Small Candles for Cozy Homes, Gifts & Everyday Fragrance](https://affinatiliving.com/blogs/deep-analysis/best-small-candles-for-cozy-homes-gifts-everyday-fragrance)
+    Updated: 2025-12-22T16:20:14Z
     Author: Gerard Collins
 - [Debates](https://affinatiliving.com/blogs/debates)
   - [Wooden Wicks vs Cotton Wicks: Best Candle Wicks in 2025](https://affinatiliving.com/blogs/debates/wooden-wicks-vs-cotton-wicks-best-candle-wicks)
