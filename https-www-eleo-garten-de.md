@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2025-12-22T12:37:24.197Z
+- Updated At: 2025-12-22T12:38:38.787Z
 
 ## Products
 
@@ -3460,6 +3460,17 @@
   Updated: 2025-08-15T09:22:21+02:00
 - [Contact Information](https://www.eleo-garten.de/policies/contact-information)
   Updated: 2022-08-12T09:47:10+02:00
+
+## Alternate Currencies & Languages
+
+- [Austria (de / EUR)](https://www.eleo-garten.at//llms.txt?market=austria)
+- [France | Belgium | Luxemburg (fr / EUR)](https://www.eleo-jardin.fr//llms.txt?market=france-belgium-luzemburg)
+- [Germany (de / EUR)](https://www.eleo-garten.de//llms.txt?market=f02c4883-24c2-4252-a263-a5b2170a5c32)
+- [International (de / PLN)](https://www.eleo-garten.de/llms.txt?market=international)
+- [Italia (it / EUR)](https://www.eleo-giardino.it//llms.txt?market=italia)
+- [Niederlande (nl / EUR)](https://www.eleo-tuin.nl//llms.txt?market=niederlande)
+- [Switzerland (de / CHF)](https://www.eleo-garten.ch//llms.txt?market=switzerland)
+- [United Kingdom (de / GBP)](https://www.eleo-garden.co.uk//llms.txt?market=united-kingdom)
 
 ## Optional
 
