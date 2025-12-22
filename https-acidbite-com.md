@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2025-12-21T00:00:32.785Z
+- Updated At: 2025-12-22T00:00:31.068Z
 
 ## Products
 
@@ -351,16 +351,16 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2025-12-20T12:09:13Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2025-12-20T12:09:13Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2025-12-19T12:10:58Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2025-12-20T12:09:13Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
   Updated: 2025-12-18T12:12:23Z
@@ -375,16 +375,16 @@
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2025-12-20T12:09:13Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2025-12-20T12:09:13Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
   Updated: 2025-12-13T12:10:28Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2025-12-20T12:09:13Z
+  Updated: 2025-12-21T12:08:46Z
   Total Products: 114
 
 ## Policies
