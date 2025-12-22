@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-12-17T00:00:39.878Z
+- Updated At: 2025-12-22T00:00:41.549Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -81,7 +81,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/microfiber-tea-towel.jpg?v=1759081792
   Price: $15.95 USD
 - [Youth Slide Sandals -famous footwear for kids](https://printexplore9.com/products/youth-slide-sandals): shop our cute and durable youth slide sandals designed for comfort and casual summer style. perfect for all day wear and fun adventures.
-  Updated: 2025-10-12T09:52:46Z
+  Updated: 2025-12-20T10:30:57Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -163,7 +163,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-short-sleeve-tee.jpg?v=1759081846
     Price: $16.02 USD
 - [Ceramic Mug "Follow Me](https://printexplore9.com/products/ceramic-mug-follow-me-11oz-print-explore): Sip in style with our colorful 11oz "Follow Me" mug – lead-free, BPA-free  microwave & dishwasher safe. Fun, safe and built to last.
-  Updated: 2025-10-12T09:52:46Z
+  Updated: 2025-12-20T08:41:11Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -957,7 +957,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Organic_Canvas_Tote_Bag.jpg?v=1759081798
   Price: $34.83 USD
 - [Best women's Low-top Sneakers](https://printexplore9.com/products/best-womens-low-top-sneakers): Floral low-top sneakers with soft deodorant memory foam insoles and EVA shock-absorbing soles for all-day comfort and lightweight steps.
-  Updated: 2025-10-12T09:54:42Z
+  Updated: 2025-12-18T02:17:40Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -1242,7 +1242,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Daily_Moisturizer.jpg?v=1759081847
   Price: $21.88 USD
 - [Premium Unisex Sport T-Shirt | Breathable Moisture-Wicking](https://printexplore9.com/products/premium-unisex-sport-t-shirt-print-explore): This premium Unisex Sport T-shirt offers comfort and breathability. Made with moisture-wicking fabric to keep you dry. ideal for workouts.
-  Updated: 2025-12-08T04:36:22Z
+  Updated: 2025-12-21T01:46:26Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1584,7 +1584,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
 - [Premium sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/premium-unisex-fleece-crewneck-sweatshirt): Premium Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
-  Updated: 2025-12-15T10:42:40Z
+  Updated: 2025-12-21T01:12:43Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -1909,8 +1909,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 ## Collections
 
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-12-13T16:41:51Z
-  Total Products: 39
+  Updated: 2025-12-20T13:46:40Z
+  Total Products: 40
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
   Updated: 2025-12-07T17:18:44Z
   Total Products: 9
@@ -1975,8 +1975,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 
 - [Contact Us - We're Here to Help 24/7](https://printexplore9.com/pages/contact-us): "We make support easy! Got questions? reach out to us, we are here 24/7."
   Updated: 2024-10-06T07:02:17Z
-- [About | Print & Explore 9](https://printexplore9.com/pages/about-us): We Stand Behind Our Products At Print & Explore 9, we’re more than just a store—we’re your go-to destination for high-quality, sustainable products...
-  Updated: 2025-11-01T10:55:34Z
+- [About | Print & Explore 9](https://printexplore9.com/pages/about-us): We Stand Behind Our Products Print &Explore was created for people who care about what they buy and why they buy it. We believe everyday products s...
+  Updated: 2025-12-17T09:29:37Z
 - [Shipping Policy – Delivery Information | Printexplore9](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
   Updated: 2025-12-05T16:27:39Z
 - [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
