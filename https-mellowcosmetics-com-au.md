@@ -9,12 +9,12 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-21T00:00:30.327Z
+- Updated At: 2025-12-22T00:00:30.769Z
 
 ## Products
 
 - [Liquid Lip Paint - Tokyo](https://mellowcosmetics.com.au/products/liquid-lip-paint-tokyo): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-14T11:43:05Z
+  Updated: 2025-12-21T13:35:04Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -84,14 +84,14 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Sinopia.jpg?v=1622438719
   Price: $42.00 AUD
 - [MELLOW COSMETICS | Dazzled Lip Trio Set](https://mellowcosmetics.com.au/products/dazzled-lip-trio-set): Get ready for the spotlight as you light up the room with our Dazzled Lip Paint Trio featuring our best selling shades Ibiza, Berlin and Milan. Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free
-  Updated: 2025-11-18T17:20:01Z
+  Updated: 2025-12-21T05:18:12Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Dazzled-Trip.jpg?v=1571104291
   Price: $60.00 AUD
 - [MELLOW COSMETICS | Scarlett Lip Trio Set](https://mellowcosmetics.com.au/products/scarlett-lip-trio-set): Find the perfect shade for any occasion with our Scarlett Lip Paint Trio featuring our best selling shades Rome, Paris and London. Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free
-  Updated: 2025-12-09T07:50:51Z
+  Updated: 2025-12-21T05:18:10Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -210,7 +210,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Candy_Floss_Lip_Swatch_x1080.jpg?v=1747732955
   Price: $24.00 AUD
 - [Creamy Matte Lipstick - Chocolate](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-chocolate): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2025-12-09T07:23:07Z
+  Updated: 2025-12-21T05:23:18Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
@@ -259,7 +259,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Passion_Lip_Swatch_x1080_f5cd7472-2c86-482b-b93b-397f0e036415.jpg?v=1737281158
   Price: $24.00 AUD
 - [Gel Lip Pencil - Adria](https://mellowcosmetics.com.au/products/gel-lip-pencil-adria): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-12-15T11:30:11Z
+  Updated: 2025-12-21T05:23:15Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
@@ -280,7 +280,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/lip_pencil_ava_swatch_fa99d36f-8375-4382-9a5e-6dc0959ddc20.png?v=1569421556
   Price: $19.00 AUD
 - [Gel Lip Pencil - Harper](https://mellowcosmetics.com.au/products/gel-lip-pencil-harper): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-12-19T23:26:26Z
+  Updated: 2025-12-21T09:35:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
@@ -294,7 +294,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Jade_New.jpg?v=1765371506
   Price: $19.00 AUD
 - [Gel Lip Pencil - Maya](https://mellowcosmetics.com.au/products/gel-lip-pencil-maya): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-12-15T11:30:11Z
+  Updated: 2025-12-21T06:01:25Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
@@ -315,56 +315,56 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/AucklandNewLip.jpg?v=1706901691
   Price: $24.00 AUD
 - [Liquid Lip Paint - Barcelona](https://mellowcosmetics.com.au/products/liquid-lip-paint-barcelona): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-20T04:30:28Z
+  Updated: 2025-12-21T08:21:10Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Barcelona-Lip-Swatch-x1080-600x600_8f879971-f53a-4267-9dee-e898686dba25.jpg?v=1569904982
   Price: $24.00 AUD
 - [Liquid Lip Paint - Budapest](https://mellowcosmetics.com.au/products/liquid-lip-paint-budapest): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T22:07:00Z
+  Updated: 2025-12-21T09:35:15Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Budapest-Lip-Swatch-x1080-600x600_4ddb1f95-4bd1-4006-9ad9-e08db8b01b76.jpg?v=1569421597
   Price: $24.00 AUD
 - [Liquid Lip Paint - Ibiza](https://mellowcosmetics.com.au/products/liquid-lip-paint-ibiza): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Ibiza is a light brown shade Nude Lip Paint which can be paired with Harper Lip Pencil and Rose Lip Pencil. Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T23:26:27Z
+  Updated: 2025-12-21T06:04:45Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/IbizaNewDarkLip_ceb152fd-0e2f-4a45-957f-a2b457cf378f.jpg?v=1711975531
   Price: $24.00 AUD
 - [Liquid Lip Paint - London](https://mellowcosmetics.com.au/products/liquid-lip-paint-london): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-18T01:15:39Z
+  Updated: 2025-12-21T06:34:25Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/London-600x600_c877d326-bb3e-4df8-afcf-e93ea8466060.jpg?v=1745042971
   Price: $24.00 AUD
 - [Liquid Lip Paint - Milan](https://mellowcosmetics.com.au/products/liquid-lip-paint-milan): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T21:59:11Z
+  Updated: 2025-12-21T07:03:32Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Milan_1.jpg?v=1741593491
   Price: $24.00 AUD
 - [Liquid Lip Paint - New York](https://mellowcosmetics.com.au/products/liquid-lip-paint-new-york): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-16T18:19:26Z
+  Updated: 2025-12-21T13:35:20Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/New-York-Lip-600x600_31f2e920-a56c-4afb-acb1-88c7908a677a.jpg?v=1569421655
   Price: $24.00 AUD
 - [Liquid Lip Paint - Paris](https://mellowcosmetics.com.au/products/liquid-lip-paint-paris): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T10:07:01Z
+  Updated: 2025-12-21T05:18:11Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/ParisNewLip.jpg?v=1747907142
   Price: $24.00 AUD
 - [Liquid Lip Paint - Puerto Rico](https://mellowcosmetics.com.au/products/liquid-lip-paint-puerto-rico): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T22:07:01Z
+  Updated: 2025-12-21T05:19:55Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -378,14 +378,14 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Rome-Lip-Swatch-x1080-600x600_e849aba8-3acb-4823-9017-227abca1c026.jpg?v=1569421662
   Price: $24.00 AUD
 - [Liquid Lip Paint - Shanghai](https://mellowcosmetics.com.au/products/liquid-lip-paint-shanghai): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T21:59:11Z
+  Updated: 2025-12-21T13:35:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Shanghai-Lip-Swatch-x1080-600x600_f6c87679-f423-439d-a3f3-fc73fe565201.jpg?v=1569421664
   Price: $24.00 AUD
 - [Liquid Lip Paint - Tehran](https://mellowcosmetics.com.au/products/liquid-lip-paint-tehran): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-20T08:07:27Z
+  Updated: 2025-12-21T23:52:45Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -399,14 +399,14 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/1_a6b773e9-e963-4cae-bd8d-c7a3aa9c84c0.png?v=1613532446
   Price: $25.00 AUD
 - [Liquid Lip Paint - Mykonos](https://mellowcosmetics.com.au/products/liquid-lip-paint-mykonos): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Mykonos - a sexy, vibrant red matte liquid lip paint Our exciting collaboration with mega babe and influencer Pia Muehlenbeck is inspired by some of the world's most famous sunsets. This is the shade Mykonos from the 3 shades we launched in collaboration with Pia. Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T10:06:50Z
+  Updated: 2025-12-21T01:43:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/MYKONOS.jpg?v=1737125834
   Price: $24.00 AUD
 - [Liquid Lip Paint - Capri](https://mellowcosmetics.com.au/products/liquid-lip-paint-capri): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Capri - a glamorous dark burgundy matte liquid lip paint Our exciting collaboration with mega babe and influencer Pia Muehlenbeck is inspired by some of the world's most famous sunsets. This is the shade Capri from the 3 shades we launched in collaboration with Pia. Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-19T22:07:00Z
+  Updated: 2025-12-21T06:34:25Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -420,7 +420,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/PALMSPRINGSedit.jpg?v=1596513873
   Price: $24.00 AUD
 - [Stardust Glow Palette - Light to Medium](https://mellowcosmetics.com.au/products/stardust-glow-palette-light-to-medium): Take your glow to the next level with Mellow’s Stardust Glow Palette. The perfect face palette to warm up your complexion and achieve a youthful look. Use the blush and add a radiant finish to your face using the two highlight shades. This product is formulated with buttery, rich and high pigmented ingredients so a little goes a long way! This palette comes in two tones, Light to Medium and Medium to Dark. Cruelty Free, Vegan, Paraben Free! How to Use: Use the bronzer to contour your cheekbones. Apply the blush to the apples of your cheeks for a youthful-looking flush. Apply the highlighters on the high points of your face. For added impact, try wetting your brush before using. Net Weight: 4x8g / 4x0.28oz
-  Updated: 2025-12-10T02:08:36Z
+  Updated: 2025-12-21T05:18:11Z
   Vendor: Mellow Cosmetics
   Product Type: Face Palette
   Availability: Available
@@ -462,7 +462,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/CopperGlitterchromeeyeshadow.jpg?v=1712167674
   Price: $30.00 AUD
 - [Glitter Chrome Eyeshadow - Rose Gold](https://mellowcosmetics.com.au/products/glitter-chrome-eyeshadow-rose-gold): Your secret to a high Gleam Gaze and the richest and most Vibrant Cream Eyeshadow you've ever seen! The metallic Pressed Pigment melts instantly and stays put for the entire day. These luxurious Cream Glitter Pots are made with a spectacular mirrored metallic effect that dazzles and has the high sheen of a cream or gloss, and the easy wear and application of a powder. It's easy to apply with finger tips to melt the formula into skin without the need of a primer, or you can apply using a flat eyeshadow brush if preferred.
-  Updated: 2025-12-10T06:19:58Z
+  Updated: 2025-12-21T05:19:56Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeshadow
   Availability: Available
@@ -476,7 +476,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Florence_12e64191-ab08-4f96-9834-4545486f279b.jpg?v=1759814102
   Price: $24.00 AUD
 - [Liquid Lip Paint - Berlin](https://mellowcosmetics.com.au/products/liquid-lip-paint-berlin): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Berlin Lip Paint goes well with Rose Lip Pencil. If you like 1 shade darker Lip Pencil, then you can pair it with Harper Lip Pencil too! Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-18T04:17:51Z
+  Updated: 2025-12-21T07:03:30Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -490,7 +490,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Sydney_eca1aa1d-7154-4474-8abe-08e47f7d3a66.jpg?v=1742275309
   Price: $24.00 AUD
 - [Lip Gloss - St Tropez](https://mellowcosmetics.com.au/products/lip-gloss-st-tropez): Get ready to spice up your lips with our new Lip Gloss Collection. An ultra glossy non-sticky formula with a unique smooth feel. Can be worn alone or over any lipstick. With the added goodness of vitamin E and Avocado Oil. St Tropez - The perfect Mauve This product is 100% vegan, Paraben Free & cruelty-free!
-  Updated: 2025-11-28T21:54:36Z
+  Updated: 2025-12-21T09:35:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Gloss
   Availability: Available
@@ -532,7 +532,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/3_3fc4a8b0-face-4cd5-970d-c7ab19da4114.png?v=1751629445
   Price: $38.00 AUD
 - [Eyeshadow Quad - Rhea](https://mellowcosmetics.com.au/products/eyeshadow-quad-rhea): An eyeshadow quad created with four complementary shades to achieve multiple looks, from a bold smoky eye to a sexy slash of colour and everything in between. There are Four Eyeshadow Quads available in this collection designed to bring out the modern goddess in you. With four opulent complement shades for you to achieve multiple looks, from Berry tone shades and Mauvey tones to Earthy Nudes too! Each quad is designed to help you create super easy and quick every day eye looks with two deeper shades included in each Quad to intensify the look and create the perfect night time eye look! The size of these Eyeshadow Quads make them the perfect Eyeshadows to carry in your makeup bag and when you are travelling. Formulated with highly pigmented, buttery shimmers and mattes, a little goes a long way. Apply dry for sheer effects and wet for intense colour payoff.
-  Updated: 2025-12-13T02:17:17Z
+  Updated: 2025-12-21T00:12:35Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeshadow Quad
   Availability: Available
@@ -595,7 +595,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/weekendonly.png?v=1636076662
   Price: $60.00 AUD
 - [Mellow Rouge Lip Kit](https://mellowcosmetics.com.au/products/mellow-rouge-lip-kit): Gloss Like a Boss - with 3 of Mellow's top selling lip glosses This set includes a shade for every occasion. Featuring the shades: Tahiti St Tropez Santorini The Formula includes Vitamin E, and Avocado oil to nourish and keep your lips moisturised all day.&nbsp; The perfect gift for the holidays! This product is 100% vegan, Paraben Free & cruelty-free! Holiday Gift guide holiday gift ideas christmas gift ideas
-  Updated: 2025-11-18T08:18:50Z
+  Updated: 2025-12-21T05:18:10Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
