@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-27T03:01:22Z
 - Contact Email: naturalstulsi@gmail.com
-- Updated At: 2025-12-21T00:00:21.103Z
+- Updated At: 2025-12-22T00:00:20.695Z
 
 ## Products
 
 - [Herbetta Pure Indigo Powder for Natural Black Hair Color | 100% Herbal, Chemical-Free Hair Dye for Grey Coverage & Post-Henna Use](https://herbetta.com/products/herbetta-pure-indigo-powder-for-natural-black-hair-color-100-herbal-chemical-free-hair-dye-for-grey-coverage-post-henna-use): Herbetta Pure Indigo Powder is a natural, plant-based solution for achieving rich black to deep brown hair color without harsh chemicals. Made from carefully sourced indigo leaves, this 100% herbal powder is ideal for those looking to color their hair naturally while maintaining scalp and hair health. When used after henna application, Herbetta Indigo Powder helps deliver long-lasting black color and effective grey coverage. Its fine texture ensures smooth mixing and easy application, coating each strand evenly for consistent results. Free from ammonia, peroxide, PPD, and synthetic dyes, this chemical-free indigo powder is gentle on the scalp and suitable for regular use. Beyond coloring, it also helps improve hair texture, leaving hair looking fuller, shinier, and healthier over time. Perfect for anyone seeking a natural alternative to chemical hair dyes, Herbetta Indigo Powder supports beautiful hair the natural way.
-  Updated: 2025-12-16T04:55:53Z
+  Updated: 2025-12-21T11:50:56Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: ₹269.00 INR
 - [Herbetta Natural Henna Powder for Hair | Herbal, Chemical-Free Hair Color](https://herbetta.com/products/herbetta-natural-henna-powder-for-hair-herbal-chemical-free-hair-color): Herbetta Herbal Henna Powder is a pure, plant-based hair care solution made from carefully selected henna leaves, traditionally used to naturally color, condition, and strengthen hair. Finely milled and naturally processed, this herbal henna powder delivers rich color while keeping hair healthy and nourished. Free from chemicals, additives, and synthetic dyes, Herbetta Henna Powder imparts a natural reddish-brown tone while helping to improve hair texture, add shine, and support scalp health. Regular use helps strengthen roots, reduce dryness, and makes hair appear thicker and smoother. Its smooth texture allows easy mixing and even application, making it ideal for full hair coverage and grey blending. Suitable for all hair types, this herbal henna powder is a safe and gentle alternative to chemical hair colors.
-  Updated: 2025-12-15T10:46:05Z
+  Updated: 2025-12-21T08:36:46Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -161,6 +161,18 @@
   - [200g](https://herbetta.com/products/herbetta-multani-mitti-powder-fuller-s-earth-100-natural-clay-for-face-packs-skin-care-diy-beauty-rituals?variant=51463531233562)
     Availability: Available
     Price: ₹219.00 INR
+- [Herbetta Neem Powder for Hair & Skin Care | 100% Pure Herbal Neem Leaf Powder for Face Pack](https://herbetta.com/products/herbetta-neem-powder-for-hair-skin-care-100-pure-herbal-neem-leaf-powder-for-face-pack): Herbetta Neem Powder is a finely ground herbal powder made from carefully dried neem leaves, traditionally valued in natural beauty routines. Known for its purifying nature, neem powder is commonly used in DIY hair and skin care applications such as face packs, hair masks, and scalp treatments. This 100% pure herbal neem leaf powder blends easily with water, rose water, or other natural ingredients to create smooth pastes for external use. When used as a face pack, it helps maintain a fresh, clean-looking complexion. For hair care, neem powder is often included in masks to support a balanced scalp and naturally healthy-looking hair. Free from added chemicals, preservatives, and artificial fragrances, Herbetta Neem Powder is suitable for those who prefer plant-based, traditional beauty care. Its versatile texture makes it easy to incorporate into personalized beauty rituals at home. Ideal for regular use, this neem powder supports a mindful, nature-inspired approach to hair and skin care—simple, gentle, and rooted in herbal tradition.
+  Updated: 2025-12-21T02:09:10Z
+  Vendor: Herbetta
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0853/1482/files/neempowdermain.jpg?v=1766282636
+  - [100g](https://herbetta.com/products/herbetta-neem-powder-for-hair-skin-care-100-pure-herbal-neem-leaf-powder-for-face-pack?variant=51483863875866)
+    Availability: Available
+    Price: ₹159.00 INR
+  - [200g](https://herbetta.com/products/herbetta-neem-powder-for-hair-skin-care-100-pure-herbal-neem-leaf-powder-for-face-pack?variant=51483863908634)
+    Availability: Available
+    Price: ₹249.00 INR
 
 ## Collections
 
@@ -171,8 +183,8 @@
   Updated: 2025-12-19T03:11:44Z
   Total Products: 7
 - [Skin Care](https://herbetta.com/collections/skin-care): Pamper your skin with pure herbal care. Mulethi, Multani Mitti and Orange Peel Powder help in deep cleansing, controlling excess oil, reducing acne, and giving your skin a natural glow—completely chemical-free.
-  Updated: 2025-12-17T12:25:09Z
-  Total Products: 5
+  Updated: 2025-12-21T02:09:06Z
+  Total Products: 6
 - [Special Blends](https://herbetta.com/collections/special-blends): Discover our exclusive herbal blends crafted for complete care. From the Ayush 4-in-1 Hair Care Blend to the Detox Face Pack Duo, these ready-to-use combinations give you multiple benefits in one pouch, making self-care simple and effective.
   Updated: 2025-12-16T05:10:46Z
   Total Products: 1
@@ -180,8 +192,8 @@
   Updated: 2025-12-17T02:56:39Z
   Total Products: 2
 - [AVADA - Best Sellers](https://herbetta.com/collections/avada-best-sellers)
-  Updated: 2025-12-17T12:25:09Z
-  Total Products: 13
+  Updated: 2025-12-21T02:09:34Z
+  Total Products: 14
 
 ## Store Pages
 
