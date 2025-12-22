@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-19T00:00:41.178Z
+- Updated At: 2025-12-22T00:00:40.751Z
 
 ## Products
 
@@ -237,7 +237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/B8C4CE27-AD39-4745-99B0-214A8E04AF80.png?v=1738316680
   Price: 9,90 € EUR
 - [Tazza “23 u scem” personalizzabile](https://www.amashopstudio.it/products/tazza-23-u-scem-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:16Z
+  Updated: 2025-12-21T11:02:22Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -404,7 +404,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/D7CE52BE-4751-482A-83C4-595466987B94.jpg?v=1738686651
   Price: 7,00 € EUR
 - [Tazza “La mia ballerina ” personalizzabile](https://www.amashopstudio.it/products/tazza-la-mia-ballerina-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:19Z
+  Updated: 2025-12-20T03:18:36Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -829,7 +829,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/inostrimomenti.jpg?v=1739633110
   Price: 8,00 € EUR
 - [Blocco note '' Leopardato'' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note-leopardato-personalizzabile-con-nome): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:25Z
+  Updated: 2025-12-20T04:30:51Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1060,7 +1060,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/MELANIA.jpg?v=1740067879
   Price: 8,00 € EUR
 - [Tazza ' VOLEVO ESSERE UN DURO..MA' personalizzala con la tua squadra](https://www.amashopstudio.it/products/tazza-volevo-esser-un-duro-ma-personalizzala-con-la-tua-squadra): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:31Z
+  Updated: 2025-12-20T11:34:01Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -2543,7 +2543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napoli5sito.jpg?v=1746374925
     Price: 9,00 € EUR
 - [Adesivo ' Napoli con vesuvio '| Supporter calcio | Napoli calcio](https://www.amashopstudio.it/products/adesivo-napoli-nel-cuore-supporter-calcio-napoli-calcio-copia): . Adesivo in PVC ‘Napoli’ Adatto per Ogni Superficie Gli adesivi in PVC sono una scelta eccellente per chi cerca un'opzione versatile e resistente per decorare o personalizzare superfici diverse. Ecco perché l'adesivo in PVC ‘Napoli’ è ideale per ogni esigenza: Caratteristiche dell'Adesivo in PVC ‘Napoli’ Resistenza: Realizzato con materiali di alta qualità, l'adesivo in PVC ‘Napoli’ è resistente all'acqua, ai raggi UV e agli agenti atmosferici, garantendo una lunga durata nel tempo. Versatilità: Può essere applicato su una varietà di superfici, incluse pareti, vetri, metallo, plastica e molto altro. Facilità di Applicazione: Grazie al suo design autoadesivo, l'adesivo è semplice da applicare e rimuovere senza lasciare residui. Personalizzazione: Disponibile in diverse dimensioni e disegni per soddisfare ogni gusto e necessità.
-  Updated: 2025-09-17T14:59:42Z
+  Updated: 2025-12-21T11:50:06Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2585,7 +2585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napoli6sito.jpg?v=1746375010
     Price: 9,00 € EUR
 - [Adesivo ' Napoli 1926 '| Supporter calcio | Napoli calcio - AMA SHOP](https://www.amashopstudio.it/products/adesivo-napoli-con-vesuvio-supporter-calcio-napoli-calcio-copia): Mostra il tuo sostegno alla squadra di calcio Napoli con il nostro adesivo ' Napoli 1926 '. Perfetto per decorare auto, laptop o qualsiasi superficie. Acquista ora e rappresenta i colori del Napoli!
-  Updated: 2025-09-17T14:59:42Z
+  Updated: 2025-12-21T11:12:18Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2954,7 +2954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/NAPOLI4SCUDETTOMOD.4.jpg?v=1748067694
     Price: 9,00 € EUR
 - [Adesivo Napoli Campioni d'Italia 4° scudetto Mod.5  + 2 adesivi da 10 cm in omaggio](https://www.amashopstudio.it/products/adesivo-napoli-campioni-ditalia-4-scudetto-mod-4-2-adesivi-da-10-cm-in-omaggio-copia): Mostra il tuo orgoglio per il Napoli calcio con il nostro adesivo 'Anema e core 1926'. Perfetto per decorare auto, laptop o qualsiasi superficie. Acquista ora e rappresenta la tua squadra del cuore!
-  Updated: 2025-09-17T14:59:44Z
+  Updated: 2025-12-20T09:13:31Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -3038,7 +3038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napolidateprincipale.jpg?v=1748098729
     Price: 9,00 € EUR
 - [Adesivo Napoli Campioni d'Italia AGAIN 4° Scudetto - AMA SHOP](https://www.amashopstudio.it/products/adesivo-napoli-campioni-ditalia-date-dei-4-scudetti-2-adesivi-da-10-cm-in-omaggio-copia): Adesivo celebrativo Napoli Campioni d'Italia con scritta AGAIN per il 4° scudetto. Include 2 adesivi omaggio da 10cm. Perfetto per auto, moto e superfici lisce.
-  Updated: 2025-09-17T14:59:44Z
+  Updated: 2025-12-19T12:20:31Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -3154,13 +3154,13 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 62
 - [Adesivi](https://www.amashopstudio.it/collections/adesivi): Adesivi personalizzati in pvc
-  Updated: 2025-12-11T12:27:14Z
+  Updated: 2025-12-20T12:22:32Z
   Total Products: 41
 - [Penne](https://www.amashopstudio.it/collections/penne-1): Penne personalizzate con incisione laser
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-12-11T12:27:14Z
+  Updated: 2025-12-20T12:22:32Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3205,7 +3205,7 @@
   Updated: 2025-09-17T14:59:13Z
   Total Products: 1
 - [Prodotti Napoli](https://www.amashopstudio.it/collections/prodotti-napoli-1): Scopri la nostra selezione di prodotti ispirati alla bellezza e alla cultura di Napoli. Sfoglia la nostra collezione e trova il pezzo perfetto per te.
-  Updated: 2025-09-17T14:59:13Z
+  Updated: 2025-12-20T12:22:32Z
   Total Products: 39
 
 ## Blogs
