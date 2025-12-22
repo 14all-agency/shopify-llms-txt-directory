@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-04-24T12:00:01Z
 - Contact Email: donnerwolforiginal@gmail.com
-- Updated At: 2025-12-21T00:00:27.879Z
+- Updated At: 2025-12-22T00:00:26.000Z
 
 Donnerwolf ist dein Shop für authentische Wikinger-Mode und nordische Apparel. Wir bieten Premium T-Shirts, Hoodies, Tank-Tops und Accessoires mit kraftvollen Wikinger-Motiven, humorvollen Sprüchen und nordischer Mythologie. Alle Produkte aus nachhaltiger Bio-Baumwolle. Kostenloser Versand ab 50€ in Deutschland.
 
@@ -16498,7 +16498,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/nur-odin-unisex-sweatshirt-storm-grey-solid-xs-sweatshirts-934.png?v=1736642102
     Price: 44,95 € EUR
 - [Nur Odin  - Basic Unisex Hoodie](https://donnerwolf.de/products/nur-odin-basic-unisex-hoodie): Material: 80 % Baumwolle, 20 % Polyester Grammatur: 280 g/m² Schnitt: normale Passform Doppelnahtverarbeitung Innen angeraut Kapuzenkordel in identischer Farbe Doppellagige Kapuze Kängurutasche an Vorderseite Strick-Bündchen an Ärmeln und Saum Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-11-14T18:29:46Z
+  Updated: 2025-12-21T16:02:55Z
   Vendor: Donnerwolf
   Product Type: Hoodies
   Availability: Available
@@ -19436,7 +19436,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
 ## Collections
 
 - [Wikinger T-Shirt Herren: Premium Nordische Shirts | Donnerwolf](https://donnerwolf.de/collections/wikinger-t-shirts-herren): Wikinger T-Shirt Herren in Premium-Qualität. Nordische Symbole, Odin, Mjölnir & Runen-Designs. Bio-Baumwolle, starke Statements. Jetzt bei Donnerwolf bestellen!
-  Updated: 2025-12-18T12:18:59Z
+  Updated: 2025-12-21T12:12:58Z
   Total Products: 143
 - [Wikinger T-Shirt Damen: Premium Nordische Shirts für Frauen | Donnerwolf](https://donnerwolf.de/collections/wikinger-t-shirts-damen): Wikinger T-Shirt Damen in Premium-Qualität. Nordische Symbole, Walküren, Runen & Göttin-Designs. Starke Shirts für starke Frauen. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-18T12:18:59Z
@@ -19451,7 +19451,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-17T16:08:56Z
   Total Products: 33
 - [Neu im Shop](https://donnerwolf.de/collections/neu-im-shop): Neu im Shop bietet trendige Herren T-Shirts und stylische oversized Hoodies für jeden Anlass, ideal für lässige Looks und maximalen Komfort.
-  Updated: 2025-12-17T16:08:50Z
+  Updated: 2025-12-21T12:12:58Z
   Total Products: 34
 - [Wikinger Tassen: Nordische Kaffeetassen & Becher | Donnerwolf](https://donnerwolf.de/collections/tassen): Wikinger Tassen mit nordischen Symbolen: Mjölnir, Runen, Odin & mehr. Premium Kaffeetassen & Becher für Wikinger-Fans. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-17T16:06:20Z
@@ -19469,7 +19469,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-19T12:39:34Z
   Total Products: 8
 - [Alle Produkte](https://donnerwolf.de/collections/alle-produkte)
-  Updated: 2025-12-18T12:18:59Z
+  Updated: 2025-12-21T12:12:58Z
   Total Products: 359
 - [Sale Wikinger Kleidung - Reduzierte T-Shirts & Hoodies | Donnerwolf](https://donnerwolf.de/collections/sale): Spare jetzt bei hochwertiger Wikinger-Kleidung! Reduzierte T-Shirts, Hoodies & mehr mit nordischen Motiven. Premium-Qualität, limitierte Stückzahl. Jetzt zuschlagen!
   Updated: 2025-12-17T16:35:37Z
