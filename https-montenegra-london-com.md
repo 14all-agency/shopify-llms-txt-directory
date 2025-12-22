@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2025-12-18T00:00:23.974Z
+- Updated At: 2025-12-22T00:00:25.192Z
 
 ## Products
 
@@ -2005,7 +2005,7 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/3F4384ED-6604-4D23-8484-1BBD3F1B4F97.png?v=1765482458
   Price: £4.00 GBP
 - [Montenégra Monoglasses](https://montenegra-london.com/products/montenegra-monoglasses): montenegra sunglass Designer Sunglasses Designer Sunglasses 100% UVA and UVB protection Shatterproof plastic Fade resistant properties Width 14.5cm | Arm Length 15cm | Height 5cm Printed and hand-assembled to order Surface wipe only. Clean gently by hand with mild soapy damp cloth. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2025-12-17T18:04:21Z
+  Updated: 2025-12-18T06:04:27Z
   Vendor: Contrado
   Product Type: Sunglasses
   Availability: Available
@@ -2065,6 +2065,9 @@
     Author: Montenégra
   - [10 Reasons the Monténegra Santa Hat is the Perfect Holiday Accessory](https://montenegra-london.com/blogs/news/10-reasons-the-montenegra-santa-hat-is-the-perfect-holiday-accessory): 10 Reasons the Monténegra Santa Hat is the Perfect Holiday Accessory
     Updated: 2025-12-17T11:21:52Z
+    Author: Montenégra
+  - [How to Elevate Your Festive Wardrobe with the Monténegra Santa Hat](https://montenegra-london.com/blogs/news/how-to-elevate-your-festive-wardrobe-with-the-montenegra-santa-hat): How to Elevate Your Festive Wardrobe with the Monténegra Santa Hat
+    Updated: 2025-12-19T17:01:22Z
     Author: Montenégra
 
 ## Store Pages
