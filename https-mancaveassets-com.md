@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2025-12-21T00:00:25.000Z
+- Updated At: 2025-12-22T00:00:25.797Z
 
 ## Products
 
@@ -1364,7 +1364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_765_1744338745453-27809366-49930569-68304506_0.jpg?v=1744338820
   Price: $129.99 USD
 - [Ultimate Cigar Keeper Set](https://mancaveassets.com/products/ultimate-cigar-keeper-set): Keep your cigars fresh and enjoy them with ease.
-  Updated: 2025-07-27T05:11:01Z
+  Updated: 2025-12-21T00:41:07Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
