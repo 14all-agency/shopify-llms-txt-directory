@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-22T04:00:36.320Z
+- Updated At: 2025-12-22T08:00:37.241Z
 
 ## Products
 
@@ -1690,7 +1690,7 @@
     Availability: Available
     Price: £79.95 GBP
 - [Polar Skate Co Big Boy Jeans | Mid Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue): Buy the Polar Big Boys Jeans in Mid Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-21T13:47:51Z
+  Updated: 2025-12-22T07:26:27Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -1717,7 +1717,7 @@
     Availability: Not Available
     Price: £89.95 GBP
   - [Large](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790278479)
-    Availability: Available
+    Availability: Not Available
     Price: £89.95 GBP
   - [Extra Large (XL)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790311247)
     Availability: Available
