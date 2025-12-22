@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-15T03:40:33Z
 - Contact Email: demorgansucks@gmail.com
-- Updated At: 2025-12-21T00:00:23.478Z
+- Updated At: 2025-12-22T00:00:22.844Z
 
 ## Products
 
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/4263/0209/files/71745-BLNK-MB-01-01-LG-LG29.webp?v=1742072192
   Price: $24.40 USD
 - [Lip Gloss - Lavender](https://lazygeniusofficial.com/products/lip-gloss-lavender): Description Take your gloss and brilliance to the next level with our liquid lip gloss. One swipe and your lips will look fuller with an illuminating shine. Our high impact, liquid lip gloss is formulated so you can have that effortless, brilliant gloss throughout the day or night. Add the shine and pigments you want with both shimmer and natural finish options. With a sheer tint, this liquid lip gloss’ shimmer will surely have you use it over and over again. Made in North America. Benefits Sheer tint boosts the long-lasting shine you want Easy, doe-shaped applicator for a clean swipe of gloss Shimmer and natural finish options Vegan Paraben-free Recyclable packaging 5 mL / 0.17 fl oz Application Apply one coat onto the center of your lips and brush towards the outer corners For extra shine and coverage, apply a second coat using the outer curved side of the applicator, and dab generously over lips if necessary Ingredients Hydrogenated Polydecene, Hydrogenated Polyisobutene, Polyisobutene, Tridecyl Trimellitate, Bis-diglyceryl Polyacyladipate-2, Silica Dimethyl Silylate, Ozokerite, Glyceryl Caprylate, Bht, Fragrance. May Contain: Titanium Dioxide, Ci77499, Ci77492, Ci77491, Red 6 Lake, Red 7. Lake, Yellow 6 Lake, Red 28 Lake, Mica, Yellow 5 Lake, Red 40 Lake, Calcium Sodium Borosilicate, Silica, Synthetic Fluorphlogopite, Iron Oxide, Tin Oxide, Calcium Aluminum Borosilicate, Fd&c Blue 1 Al Lake(Ci 42090)
-  Updated: 2025-10-11T19:55:58Z
+  Updated: 2025-12-21T06:29:05Z
   Vendor: Lazy Genius
   Product Type: 
   Availability: Available
