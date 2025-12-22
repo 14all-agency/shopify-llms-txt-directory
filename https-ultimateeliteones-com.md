@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-02-01T13:21:58Z
 - Contact Email: ultimateeliteones@gmail.com
-- Updated At: 2025-12-18T02:02:49.310Z
+- Updated At: 2025-12-22T00:00:19.778Z
 
 ## Products
 
@@ -205,13 +205,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0856/2923/9613/products/product-image-506439207.jpg?v=1706802191
     Price: $17.55 USD
-- [1 Piece 5 Outlets Adapter (EUROPEAN SOCKET)](https://ultimateeliteones.com/products/1-piece-5-outlets-adapter-european-socket): Very easy to use and extremely practical. It reduces the space used when trying to connect 5 different plugs.Very nice designExactly like shown on photosVery useful easy to useIncrease outlet sockets available.
-  Updated: 2025-08-22T08:53:17Z
-  Vendor: x
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0856/2923/9613/products/product-image-504979458.jpg?v=1706802200
-  Price: $26.95 USD
 - [360 ULTRA MINI PANORAMIC CAMERA](https://ultimateeliteones.com/products/360-ultra-mini-panoramic-camera): 360 Ultra Mini Panoramic Camera If you are planning to go to an extreme adventure, then the 360 Ultra Mini Panoramic Camera is what you really need! The 360 Ultra Mini Panoramic Camera has a slow motion, time-lapse photography, loop recording support, HD cam, excellent battery life, and a LED light. This is the perfect combination of all the features that you need for a perfect vacation. The 360 Ultra Mini Panoramic Camera will bring you into a remarkable underwater world for it is up to 30m waterproof. Enjoy an extreme phenomenal world with its 360 degrees VR angles. It is suitable for all outdoor enthusiasts out there with its portability. You can mount it on your helmet, bicycle, and flying droid without causing distractions. It can also be connected to a wi-fi so you can upload images and videos on your social media to quickly update your status.
   Updated: 2025-09-23T06:18:10Z
   Vendor: x
@@ -662,20 +655,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0856/2923/9613/products/product-image-380610076.jpg?v=1706804120
     Price: $25.00 USD
-- [Cute Night Light Silicone LED Sleeping Lamp Rechargeable Bedside Touch Nursery Nightlight For Kids Room](https://ultimateeliteones.com/products/cute-night-light-silicone-led-sleeping-lamp-rechargeable-bedside-touch-nursery-nightlight-for-kids-room): Adorable Silicone Night Light - Rechargeable LED Bedside Lamp for Kids & Nursery Description: 🌙 Perfect Sleep Companion for Your Little One Create magical bedtime moments with this adorable silicone night light that transforms any room into a cozy sanctuary. Your child will love the soft, comforting glow that chases away bedtime fears. ✨ Why Parents Love This Night Light: Safe & Child-Friendly: Made from premium, non-toxic silicone - completely safe for curious little hands Rechargeable & Eco-Friendly: No more battery waste! USB rechargeable with up to 12 hours of continuous use Touch Control: Simple tap to turn on/off - even toddlers can operate it independently Portable Design: Lightweight at just 6 oz - perfect for travel, sleepovers, or moving between rooms Gentle LED Light: Warm, eye-friendly illumination that won't disrupt sleep cycles 🏠 Perfect For: Nurseries and kids' bedrooms Bedside reading companion Bathroom night navigation Travel and camping trips Power outage emergency lighting Dimensions: Compact and cute design fits anywhereCharging: Includes USB charging cableSafety: CE certified and child-safe materials Give your family the gift of peaceful nights and sweet dreams! Weight: 0.375 Weight Unit: POUNDS Title: Cute Rechargeable Night Light for Kids - Safe LED Bedside Lamp | Ultimate Elite Ones Description: Adorable rechargeable silicone night light perfect for kids' rooms. Safe LED bedside lamp with touch control. USB rechargeable, portable design. Free shipping!
-  Updated: 2025-09-23T06:18:11Z
-  Vendor: Ultimate Elite Ones
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0856/2923/9613/files/Sb46f1bcf349b4944af032affd9fb971e6.webp?v=1755497671
-  Price: $23.60 USD
-- [Halloween Haunted Swinging Ghost Light - LED Spooky Decoration](https://ultimateeliteones.com/products/haunted-swinging-ghost-light): Transform your yard with remote-controlled spooky lighting that swings in the dark, powered by AA batteries, for Halloween magic.
-  Updated: 2025-09-18T04:47:09Z
-  Vendor: Ultimate Elite Ones
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0856/2923/9613/files/image_620_1756664847453-48755000-69800341-64944554_0.jpg?v=1756666085
-  Price: $49.99 USD
 
 ## Collections
 
@@ -683,7 +662,7 @@
   Updated: 2025-05-03T04:56:15Z
   Total Products: 5
 - [Gadgets](https://ultimateeliteones.com/collections/gadgets)
-  Updated: 2025-08-18T05:46:20Z
+  Updated: 2025-12-18T02:41:32Z
   Total Products: 5
 - [Home Improvement and Tools](https://ultimateeliteones.com/collections/home-improvement-and-tools)
   Updated: 2025-05-03T04:56:15Z
@@ -695,7 +674,7 @@
   Updated: 2025-05-03T04:56:15Z
   Total Products: 4
 - [Seasonal](https://ultimateeliteones.com/collections/seasonal)
-  Updated: 2025-12-18T01:51:17Z
+  Updated: 2025-12-18T02:40:43Z
   Total Products: 8
 
 ## Store Pages
