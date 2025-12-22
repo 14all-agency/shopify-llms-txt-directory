@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-22T08:00:37.241Z
+- Updated At: 2025-12-22T12:00:39.913Z
 
 ## Products
 
@@ -550,18 +550,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/spitfire-wheels-wheels-53mm-spitfire-bighead-skateboard-wheels-99a-53mm-1183725782.jpg?v=1757363763
   Price: £51.95 GBP
-- [Polar Skate Co Happy Sad Socks | White](https://thevinessupply.co/products/polar-skate-co-happy-sad-socks-white): Buy the Polar Skate Co Happy Sad Socks in White at The Vines, With Fast, Premium Delivery & Easy Returns
-  Updated: 2025-12-15T12:06:24Z
-  Vendor: Polar
-  Product Type: Socks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-socks-polar-skate-co-happy-sad-socks-white-1183720937.png?v=1757269325
-  - [Medium](https://thevinessupply.co/products/polar-skate-co-happy-sad-socks-white?variant=48316989473103)
-    Availability: Available
-    Price: £11.95 GBP
-  - [Large](https://thevinessupply.co/products/polar-skate-co-happy-sad-socks-white?variant=48316989505871)
-    Availability: Not Available
-    Price: £11.95 GBP
 - [Bones Swiss Ceramics Skate Bearings](https://thevinessupply.co/products/bones-swiss-ceramics-skate-bearings): Buy Bones Swiss Ceramics Skate Bearings at The Vines in store in Solihull or in our online skate shop at thevinessupply.co. With premium, fast, free delivery.
   Updated: 2025-08-13T04:06:09Z
   Vendor: Bones
@@ -2133,7 +2121,7 @@
     Availability: Not Available
     Price: £39.95 GBP
 - [GVNMNT Clothing Co Eyes Out T-Shirt | Black](https://thevinessupply.co/products/gvnmnt-clothing-co-eyes-out-t-shirt-black): Buy the GVNMNT Clothing Co Eyes Out T-Shirt in Black at The Vines, constructed of heavyweight 320GSM pre-shrunk cotton.
-  Updated: 2025-12-02T12:09:49Z
+  Updated: 2025-12-22T10:56:08Z
   Vendor: GVNMNT Clothing Co
   Product Type: Tees
   Availability: Available
@@ -2955,7 +2943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/quasi-decks-8-25-quasi-magiq-skateboard-deck-8-25-1183714816.png?v=1757165053
   Price: £84.95 GBP
 - [Quasi Skateboards Euro X T-Shirt | White](https://thevinessupply.co/products/quasi-skateboards-euro-x-t-shirt-white): Buy the Quasi Skateboards Euro X T-Shirt in White at The Vines. With Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-09-05T22:04:11Z
+  Updated: 2025-12-22T10:56:11Z
   Vendor: Quasi
   Product Type: Tees
   Availability: Available
@@ -5902,7 +5890,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-hip-bag-magenta-skateboards-xl-pouch-bag-black-1210886723.jpg?v=1765460759
   Price: £47.95 GBP
 - [Magenta Skateboards Pomme T-Shirt | Petrol Blue](https://thevinessupply.co/products/magenta-skateboards-pomme-t-shirt-petrol-blue): Buy the Magenta Skateboards Pomme T-Shirt in Petrol Blue at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-11-29T16:58:37Z
+  Updated: 2025-12-22T11:13:22Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
@@ -5914,7 +5902,7 @@
     Availability: Available
     Price: £44.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-pomme-t-shirt-petrol-blue?variant=56194632286543)
-    Availability: Available
+    Availability: Not Available
     Price: £44.95 GBP
 - [Magenta Skateboards Cruise Co T-Shirt | White](https://thevinessupply.co/products/magenta-skateboards-cruise-co-t-shirt-white): Buy the Magenta Skateboards Cruise Co T-Shirt in White at The Vines, with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-04T20:56:51Z
@@ -6743,7 +6731,7 @@
     Availability: Not Available
     Price: £34.95 GBP
 - [Yardsale Tartan Full Zip Hoodie | Red](https://thevinessupply.co/products/yardsale-tartan-full-zip-hoodie-red): Buy the Yardsale Skateboards Tartan Full Zip Hoodie in Red at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-18T14:20:47Z
+  Updated: 2025-12-22T11:07:56Z
   Vendor: Yardsale
   Product Type: Hoodies
   Availability: Available
@@ -7220,8 +7208,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-21T12:15:45Z
-  Total Products: 3230
+  Updated: 2025-12-22T11:24:16Z
+  Total Products: 3229
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-16T12:25:00Z
   Total Products: 110
