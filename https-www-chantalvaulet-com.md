@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-12-20T00:00:46.428Z
+- Updated At: 2025-12-22T00:00:45.675Z
 
 ## Products
 
@@ -12060,7 +12060,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €2,150.00 EUR
 - [Thaliora 1.5CT Marquise Ring | Cluster Accents | Moissanite or IGI Lab Diamond](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring): Shop the Thaliora 1.5 carat marquise engagement ring. Unique cluster accent design, certified moissanite or IGI lab diamond, D color VVS1. Ethereal elegance.
-  Updated: 2025-12-10T19:16:48Z
+  Updated: 2025-12-21T16:47:39Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
