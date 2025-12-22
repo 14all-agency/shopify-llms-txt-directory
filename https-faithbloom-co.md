@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2025-12-18T00:00:35.987Z
+- Updated At: 2025-12-22T00:00:37.409Z
 
 ## Products
 
@@ -2886,211 +2886,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-workout-t-shirt-for-fitness-enthusiasts-gym-gift-humor-tee-leg-day-unisex-cotton-top-ash-s-899.webp?v=1765502009
     Price: $16.62 USD
-- [Christian Iced Coffee T-Shirt — "Powered by Grace & Iced Coffee" Minimalist Cross Design](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video): This lightweight tee brings a quiet, confident voice to your daily rhythm. The glossy black badge and thin metallic-gold rim give the design a refined, coffee-label feel, while the leaned white cross and iced-coffee cup sit together like two rhythms in the same hymn. Wear it on slow morning drives, between church fellowship and work, or during café catch-ups when you want to say something simple: faith and caffeine fuel your day. The clean lines and restrained palette keep the message understated — a subtle nod to faith without shouting. It layers easily, stays crisp after many washes, and moves with you from weekday chores to weekend meetups.Product features- Tubular knit (no side seams) for a smooth, waste-reducing silhouette- Durable, smooth ring-spun cotton fabric (lightweight 153 g/m²) that prints crisply- Ribbed collar and shoulder tape for shape retention and reduced stretching- Pearlized tear-away label and ethically sourced cotton with Oeko-Tex certification- Direct-to-Film sleeve and inner neck prints; DTF/DTG print methods for sharp, lasting graphicsCare instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
-  Updated: 2025-12-11T09:23:47Z
+- [Powered by Grace & Iced Coffee T-Shirt](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video): This soft, lightweight tee carries a small coffeehouse hymn: bold, circular badge art that layers a white cross, flowing script ‘Grace,’ and an illustrated iced coffee cup. Wear it as a quiet proclamation—faith lived out in everyday rhythms like the mid-morning caffeine run or slow conversations over ice and sunlight. The charcoal center and warm tan ring give it a lived-in, vintage café feel. It sits neatly under a jacket for church socials, pairs with denim for weekend coffee runs, and reads like a gentle, modern lyrical statement for those who blend faith and daily ritual.Product features- 100% ring-spun cotton (lightweight 4.5 oz/yd²) — soft, smooth surface ideal for printing- Tubular knit (no side seams) for cleaner drape and reduced fabric waste- Ribbed collar with shoulder tape — holds shape and prevents stretching- Pearlized tear-away label for comfort; DTF sleeve or neck label options with DTG body prints- Oeko-Tex certified, ethically sourced cotton; meets EU safety and compliance standards (2-year warranty)Care instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
+  Updated: 2025-12-19T12:34:59Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-natural-855.webp?v=1765402772
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-forest-green-193.webp?v=1766105491
   - [XS / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390487429199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-charcoal-847.webp?v=1765402788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
   - [XS / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435889743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-575.webp?v=1765402798
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-474.webp?v=1766105518
     Price: $16.07 USD
   - [XS / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435955279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-navy-802.webp?v=1765402811
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-navy-581.webp?v=1766105528
     Price: $16.07 USD
   - [XS / Sport Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084581967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-sport-grey-876.webp?v=1765402842
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-sport-grey-504.webp?v=1766105558
     Price: $16.07 USD
   - [XS / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084614735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-white-244.webp?v=1765402832
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-white-781.webp?v=1766105548
     Price: $16.07 USD
   - [XS / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435988047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-black-600.webp?v=1765402783
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-black-780.webp?v=1766105508
     Price: $16.07 USD
   - [XS / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436020815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-grey-874.webp?v=1765402805
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-grey-902.webp?v=1766105524
     Price: $16.07 USD
   - [S / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390487560271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-charcoal-847.webp?v=1765402788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
   - [S / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436053583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-dark-chocolate-910.webp?v=1765402778
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-dark-chocolate-211.webp?v=1766105503
     Price: $16.07 USD
   - [S / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436086351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-navy-802.webp?v=1765402811
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-navy-581.webp?v=1766105528
     Price: $16.07 USD
   - [S / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436119119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-purple-671.webp?v=1765402816
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-purple-496.webp?v=1766105533
     Price: $16.07 USD
   - [S / Sport Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084647503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-sport-grey-876.webp?v=1765402842
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-sport-grey-504.webp?v=1766105558
     Price: $16.07 USD
   - [S / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084680271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-white-244.webp?v=1765402832
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-white-781.webp?v=1766105548
     Price: $16.07 USD
   - [S / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436151887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-black-600.webp?v=1765402783
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-black-780.webp?v=1766105508
     Price: $16.07 USD
   - [S / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436184655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-forest-green-992.webp?v=1765402793
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-forest-green-193.webp?v=1766105491
     Price: $16.07 USD
   - [S / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436250191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-575.webp?v=1765402798
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-474.webp?v=1766105518
     Price: $16.07 USD
   - [S / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43920925851727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-maroon-852.webp?v=1765402821
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-maroon-674.webp?v=1766105538
     Price: $16.07 USD
   - [S / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084713039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-natural-855.webp?v=1765402772
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-natural-856.webp?v=1766105497
     Price: $16.07 USD
   - [S / Ice Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084745807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-ice-grey-553.webp?v=1765402837
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-ice-grey-646.webp?v=1766105553
     Price: $16.07 USD
   - [S / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436315727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-grey-874.webp?v=1765402805
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-grey-902.webp?v=1766105524
     Price: $16.07 USD
   - [S / Heather Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43920925917263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-heather-maroon-553.webp?v=1765402826
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-heather-maroon-190.webp?v=1766105543
     Price: $16.07 USD
   - [M / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390488051791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-charcoal-847.webp?v=1765402788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
   - [M / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436348495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-dark-chocolate-910.webp?v=1765402778
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-dark-chocolate-211.webp?v=1766105503
     Price: $16.07 USD
   - [M / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436381263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-navy-802.webp?v=1765402811
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-navy-581.webp?v=1766105528
     Price: $16.07 USD
   - [M / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436414031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-purple-671.webp?v=1765402816
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-purple-496.webp?v=1766105533
     Price: $16.07 USD
   - [M / Sport Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084778575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-sport-grey-876.webp?v=1765402842
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-sport-grey-504.webp?v=1766105558
     Price: $16.07 USD
   - [M / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084811343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-white-244.webp?v=1765402832
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-white-781.webp?v=1766105548
     Price: $16.07 USD
   - [M / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436446799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-black-600.webp?v=1765402783
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-black-780.webp?v=1766105508
     Price: $16.07 USD
   - [M / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436479567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-forest-green-992.webp?v=1765402793
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-forest-green-193.webp?v=1766105491
     Price: $16.07 USD
   - [M / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436545103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-575.webp?v=1765402798
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-474.webp?v=1766105518
     Price: $16.07 USD
   - [M / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43920925982799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-maroon-852.webp?v=1765402821
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-maroon-674.webp?v=1766105538
     Price: $16.07 USD
   - [M / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084844111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-natural-855.webp?v=1765402772
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-natural-856.webp?v=1766105497
     Price: $16.07 USD
   - [M / Ice Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084876879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-ice-grey-553.webp?v=1765402837
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-ice-grey-646.webp?v=1766105553
     Price: $16.07 USD
   - [M / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436610639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-grey-874.webp?v=1765402805
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-grey-902.webp?v=1766105524
     Price: $16.07 USD
   - [M / Heather Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43920926048335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-heather-maroon-553.webp?v=1765402826
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-heather-maroon-190.webp?v=1766105543
     Price: $16.07 USD
   - [L / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390488543311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-charcoal-847.webp?v=1765402788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
   - [L / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436643407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-dark-chocolate-910.webp?v=1765402778
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-dark-chocolate-211.webp?v=1766105503
     Price: $16.07 USD
   - [L / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436676175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-navy-802.webp?v=1765402811
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-navy-581.webp?v=1766105528
     Price: $16.07 USD
   - [L / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436708943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-purple-671.webp?v=1765402816
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-purple-496.webp?v=1766105533
     Price: $16.07 USD
   - [L / Sport Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084909647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-sport-grey-876.webp?v=1765402842
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-sport-grey-504.webp?v=1766105558
     Price: $16.07 USD
   - [L / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084942415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-white-244.webp?v=1765402832
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-white-781.webp?v=1766105548
     Price: $16.07 USD
   - [L / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436741711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-black-600.webp?v=1765402783
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-black-780.webp?v=1766105508
     Price: $16.07 USD
   - [L / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436774479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-forest-green-992.webp?v=1765402793
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-forest-green-193.webp?v=1766105491
     Price: $16.07 USD
   - [L / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436840015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-575.webp?v=1765402798
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-474.webp?v=1766105518
     Price: $16.07 USD
   - [L / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43920926113871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-maroon-852.webp?v=1765402821
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-maroon-674.webp?v=1766105538
     Price: $16.07 USD
   - [L / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933084975183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-natural-855.webp?v=1765402772
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-natural-856.webp?v=1766105497
     Price: $16.07 USD
   - [L / Ice Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43933085007951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-ice-grey-553.webp?v=1765402837
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-ice-grey-646.webp?v=1766105553
     Price: $16.07 USD
   - [L / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436905551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-dark-heather-grey-874.webp?v=1765402805
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-dark-heather-grey-902.webp?v=1766105524
     Price: $16.07 USD
   - [L / Heather Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43920926179407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-s-heather-maroon-553.webp?v=1765402826
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-s-heather-maroon-190.webp?v=1766105543
     Price: $16.07 USD
   - [XL / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390489034831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-iced-coffee-t-shirt-powered-by-grace-minimalist-cross-design-xs-charcoal-847.webp?v=1765402788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
 - [Prayer Tee — “The Original Wireless Connection” Christian Graphic Shirt](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): This lightweight tee speaks like a wink and a prayer. Bold varsity letters spell PRAYER across the chest, and below, minimalist geometric hands press together against subtle signal-wave lines — a clever nod that faith connects deeper than any bar of Wi‑Fi. The clean script tagline, “The Original Wireless Connection,” lands with playful confidence. It sits comfortably in everyday life: layered under a flannel for errands, worn solo at small group meetups, or thrown on after Sunday service. The tone is conversational and a little irreverent, aimed at people who live their faith with humor and clarity. The shirt feels modern and intentional — simple lines, strong message, and easy-to-wear fabric that moves with you. It’s made to be reached for on mornings when you want to state something true without saying too much.Product features- 100% Airlume combed ring-spun cotton — breathable, lightweight (4.2 oz/yd²)- Retail fit with crew neckline — neat, easy to layer- Durable construction: side seams, shoulder tape, ribbed knit collar- High-quality print: crisp chest and sleeve graphics via DTF/DTG methods- Tear-away label, REACH certified, responsibly manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
   Updated: 2025-12-11T05:41:16Z
@@ -4000,241 +4000,313 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
-- [Rooted and Built Up T-Shirt — In Him (Colossians 2:7)](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee): Carry a quiet declaration of faith wherever you go. This tee shows a bold cross whose roots flow downward — a visual reminder that faith isn’t surface-deep but planted and growing. The clean black print on a white shirt reads like a simple conversation starter: Colossians 2:7 alongside the rooted cross. Slip it on for church, Bible study, youth group nights, or errands and feel grounded in a small, steady way. The design speaks to those who want their walk with Jesus to show up in everyday moments: steady, humble, and growing.Product features- 60% combed ring-spun cotton / 40% polyester for smooth, durable print surface- Lightweight fabric (4.3 oz/yd²) for breathable everyday wear- Ribbed crew neck and 1x1 ribbed collar for comfortable stretch and recovery- Side seams and sewn-in label for better shape retention- Preshrunk to reduce shrinkage; sourced from Nicaragua and HondurasCare instructions- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Machine wash: cold (max 30C or 90F)
-  Updated: 2025-12-13T13:11:27Z
+- [Rooted and Built Up in Him — Faith T-Shirt (Colossians 2:7)](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee): Rooted and Built Up is a calm, faith-forward tee that feels like a quiet moment of grounding. The centered line-art tree—detailed roots and a full navy canopy—breathes stillness. Above, the soft arched serif reads “ROOTED AND BUILT UP,” and the strong “IN HIM” below anchors the message, with Colossians 2:7 noted beneath. The muted gray-and-navy palette keeps the look modern and understated so your faith can speak without shouting. Lightweight and soft against the skin, this shirt layers easily under jackets or wears on its own for Sunday gatherings, small group nights, or everyday wear when you want a subtle reminder of steady roots. It’s meant for those who appreciate minimalist design and meaningful scripture—people who value thoughtful style that quietly declares where their strength comes from.Product features- 60% combed ring-spun cotton, 40% polyester blend for soft, smooth printing- Lightweight fabric (4.3 oz/yd²) — breathable and easy to layer- 1x1 ribbed crew neck collar with good stretch retention- Side-seamed construction for improved shape and durability- Preshrunk and sewn-in label for consistent fit and comfortCare instructions- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Machine wash: cold (max 30C or 90F)
+  Updated: 2025-12-19T11:33:23Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
+  - [S / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444608591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-charcoal-heather-254.webp?v=1766101763
+    Price: $25.50 USD
+  - [S / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444641359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heather-cool-blue-228.webp?v=1766101756
+    Price: $25.50 USD
+  - [S / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444674127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heavy-metal-130.webp?v=1766101760
+    Price: $25.50 USD
   - [S / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946195535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
+    Price: $25.50 USD
+  - [M / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444706895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-charcoal-heather-254.webp?v=1766101763
+    Price: $25.50 USD
+  - [M / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444739663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heather-cool-blue-228.webp?v=1766101756
+    Price: $25.50 USD
+  - [M / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444772431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heavy-metal-130.webp?v=1766101760
     Price: $25.50 USD
   - [M / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946392143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
+    Price: $25.50 USD
+  - [L / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444805199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-charcoal-heather-254.webp?v=1766101763
+    Price: $25.50 USD
+  - [L / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444837967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heather-cool-blue-228.webp?v=1766101756
+    Price: $25.50 USD
+  - [L / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444870735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heavy-metal-130.webp?v=1766101760
     Price: $25.50 USD
   - [L / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946555983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
+    Price: $25.50 USD
+  - [XL / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444903503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-charcoal-heather-254.webp?v=1766101763
+    Price: $25.50 USD
+  - [XL / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444936271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heather-cool-blue-228.webp?v=1766101756
+    Price: $25.50 USD
+  - [XL / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976444969039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heavy-metal-130.webp?v=1766101760
     Price: $25.50 USD
   - [XL / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946752591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
     Price: $25.50 USD
+  - [2XL / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976445001807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-charcoal-heather-254.webp?v=1766101763
+    Price: $29.85 USD
+  - [2XL / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976445034575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heather-cool-blue-228.webp?v=1766101756
+    Price: $29.85 USD
+  - [2XL / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976445067343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heavy-metal-130.webp?v=1766101760
+    Price: $29.85 USD
   - [2XL / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946916431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
     Price: $29.85 USD
+  - [3XL / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976445100111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-charcoal-heather-254.webp?v=1766101763
+    Price: $31.10 USD
+  - [3XL / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976445132879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heather-cool-blue-228.webp?v=1766101756
+    Price: $31.10 USD
+  - [3XL / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43976445165647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-heavy-metal-130.webp?v=1766101760
+    Price: $31.10 USD
   - [3XL / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410947113039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-t-shirt-in-him-colossians-2-7-s-white-664.webp?v=1765589227
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/rooted-and-built-up-in-him-faith-t-shirt-colossians-2-7-s-white-228.webp?v=1766101752
     Price: $31.10 USD
 - [Chosen Loved Redeemed Crewneck Sweatshirt — Graffiti Streetwear](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear): This sweatshirt speaks with bold, honest lettering — CHOSEN, LOVED, REDEEMED — stacked in a graffiti-inspired, hand-lettered style that feels both streetwise and soulful. The sharp, marker-textured type and lightly worn details give it an authentic urban edge, while restrained accent strokes keep the design balanced and modern. Slip it on for mornings when you want your faith and identity to do the talking without shouting. It pairs naturally with worn denim, high-top sneakers, or layered under a roomy jacket for crisp evenings around a fire or church courtyard. The muted grit of the print suggests late-night city walks, community meet-ups, or reflective moments after a long day. For those who live by faith-forward words and understated style, this sweatshirt becomes a quiet declaration — comfortable, durable, and unmistakably personal.Product features- 50/50 cotton-poly NuBlend® pre-shrunk fleece — soft, strong, and low-shrink- 1x1 ribbed collar, cuffs, and hem with spandex for stretch and recovery- Double-needle stitched seams for long-lasting durability- Quarter-turned to remove the center crease and keep a smooth front- Medium-heavy 8.0 oz/yd² (271 g/m²) regular fit with tear-away label for comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-12-13T07:26:40Z
+  Updated: 2025-12-19T12:07:08Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-465.webp?v=1765567766
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-864.webp?v=1766103806
   - [Ash / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984271951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-433.webp?v=1765567801
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-727.webp?v=1766103840
     Price: $35.37 USD
   - [Athletic Heather / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984304719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-875.webp?v=1765567812
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-351.webp?v=1766103849
     Price: $35.37 USD
   - [Black / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984337487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-522.webp?v=1765567776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-419.webp?v=1766103816
     Price: $35.37 USD
   - [Black Heather / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984370255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-997.webp?v=1765567771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-447.webp?v=1766103811
     Price: $35.37 USD
   - [Chocolate / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984403023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-196.webp?v=1765567796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-296.webp?v=1766103835
     Price: $35.37 USD
   - [Classic Pink / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984435791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-classic-pink-s-458.webp?v=1765567833
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-classic-pink-s-386.webp?v=1766103867
     Price: $35.37 USD
   - [Cyber Pink / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984468559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-cyber-pink-s-200.webp?v=1765567823
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-cyber-pink-s-715.webp?v=1766103858
     Price: $35.37 USD
   - [Gold / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984501327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-gold-s-536.webp?v=1765567791
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-gold-s-960.webp?v=1766103830
     Price: $35.37 USD
   - [Khaki / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984534095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-khaki-s-945.webp?v=1765567786
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-khaki-s-285.webp?v=1766103825
     Price: $35.37 USD
   - [Maroon / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984566863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-maroon-s-625.webp?v=1765567828
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-maroon-s-293.webp?v=1766103862
     Price: $35.37 USD
   - [Navy / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984599631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-navy-s-851.webp?v=1765567807
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-navy-s-656.webp?v=1766103845
     Price: $35.37 USD
   - [Royal / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984632399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-royal-s-232.webp?v=1765567818
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-royal-s-166.webp?v=1766103854
     Price: $35.37 USD
   - [Sandstone / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984665167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-sandstone-s-881.webp?v=1765567781
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-sandstone-s-630.webp?v=1766103820
     Price: $35.37 USD
   - [True Red / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984697935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-true-red-s-812.webp?v=1765567837
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-true-red-s-440.webp?v=1766103871
     Price: $35.37 USD
   - [White / S](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984730703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-465.webp?v=1765567766
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-864.webp?v=1766103806
     Price: $35.37 USD
   - [Ash / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984763471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-433.webp?v=1765567801
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-727.webp?v=1766103840
     Price: $35.37 USD
   - [Athletic Heather / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984796239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-875.webp?v=1765567812
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-351.webp?v=1766103849
     Price: $35.37 USD
   - [Black / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984829007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-522.webp?v=1765567776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-419.webp?v=1766103816
     Price: $35.37 USD
   - [Black Heather / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984861775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-997.webp?v=1765567771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-447.webp?v=1766103811
     Price: $35.37 USD
   - [Chocolate / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984894543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-196.webp?v=1765567796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-296.webp?v=1766103835
     Price: $35.37 USD
   - [Classic Pink / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984927311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-classic-pink-s-458.webp?v=1765567833
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-classic-pink-s-386.webp?v=1766103867
     Price: $35.37 USD
   - [Cyber Pink / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984960079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-cyber-pink-s-200.webp?v=1765567823
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-cyber-pink-s-715.webp?v=1766103858
     Price: $35.37 USD
   - [Gold / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410984992847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-gold-s-536.webp?v=1765567791
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-gold-s-960.webp?v=1766103830
     Price: $35.37 USD
   - [Khaki / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985025615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-khaki-s-945.webp?v=1765567786
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-khaki-s-285.webp?v=1766103825
     Price: $35.37 USD
   - [Maroon / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985058383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-maroon-s-625.webp?v=1765567828
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-maroon-s-293.webp?v=1766103862
     Price: $35.37 USD
   - [Navy / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985091151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-navy-s-851.webp?v=1765567807
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-navy-s-656.webp?v=1766103845
     Price: $35.37 USD
   - [Royal / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985123919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-royal-s-232.webp?v=1765567818
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-royal-s-166.webp?v=1766103854
     Price: $35.37 USD
   - [Sandstone / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985156687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-sandstone-s-881.webp?v=1765567781
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-sandstone-s-630.webp?v=1766103820
     Price: $35.37 USD
   - [True Red / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985189455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-true-red-s-812.webp?v=1765567837
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-true-red-s-440.webp?v=1766103871
     Price: $35.37 USD
   - [White / M](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985222223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-465.webp?v=1765567766
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-864.webp?v=1766103806
     Price: $35.37 USD
   - [Ash / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985254991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-433.webp?v=1765567801
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-727.webp?v=1766103840
     Price: $35.37 USD
   - [Athletic Heather / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985287759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-875.webp?v=1765567812
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-351.webp?v=1766103849
     Price: $35.37 USD
   - [Black / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985320527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-522.webp?v=1765567776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-419.webp?v=1766103816
     Price: $35.37 USD
   - [Black Heather / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985353295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-997.webp?v=1765567771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-447.webp?v=1766103811
     Price: $35.37 USD
   - [Chocolate / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985386063)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-196.webp?v=1765567796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-296.webp?v=1766103835
     Price: $35.37 USD
   - [Classic Pink / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985418831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-classic-pink-s-458.webp?v=1765567833
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-classic-pink-s-386.webp?v=1766103867
     Price: $35.37 USD
   - [Cyber Pink / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985451599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-cyber-pink-s-200.webp?v=1765567823
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-cyber-pink-s-715.webp?v=1766103858
     Price: $35.37 USD
   - [Gold / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985484367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-gold-s-536.webp?v=1765567791
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-gold-s-960.webp?v=1766103830
     Price: $35.37 USD
   - [Khaki / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985517135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-khaki-s-945.webp?v=1765567786
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-khaki-s-285.webp?v=1766103825
     Price: $35.37 USD
   - [Maroon / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985549903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-maroon-s-625.webp?v=1765567828
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-maroon-s-293.webp?v=1766103862
     Price: $35.37 USD
   - [Navy / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985582671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-navy-s-851.webp?v=1765567807
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-navy-s-656.webp?v=1766103845
     Price: $35.37 USD
   - [Royal / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985615439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-royal-s-232.webp?v=1765567818
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-royal-s-166.webp?v=1766103854
     Price: $35.37 USD
   - [Sandstone / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985648207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-sandstone-s-881.webp?v=1765567781
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-sandstone-s-630.webp?v=1766103820
     Price: $35.37 USD
   - [True Red / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985680975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-true-red-s-812.webp?v=1765567837
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-true-red-s-440.webp?v=1766103871
     Price: $35.37 USD
   - [White / L](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985713743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-465.webp?v=1765567766
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-white-s-864.webp?v=1766103806
     Price: $35.37 USD
   - [Ash / XL](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985746511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-433.webp?v=1765567801
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-ash-s-727.webp?v=1766103840
     Price: $35.37 USD
   - [Athletic Heather / XL](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985779279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-875.webp?v=1765567812
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-athletic-heather-s-351.webp?v=1766103849
     Price: $35.37 USD
   - [Black / XL](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985812047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-522.webp?v=1765567776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-s-419.webp?v=1766103816
     Price: $35.37 USD
   - [Black Heather / XL](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985844815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-997.webp?v=1765567771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-black-heather-s-447.webp?v=1766103811
     Price: $35.37 USD
   - [Chocolate / XL](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear?variant=43410985877583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-196.webp?v=1765567796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/chosen-loved-redeemed-crewneck-sweatshirt-graffiti-streetwear-chocolate-s-296.webp?v=1766103835
     Price: $35.37 USD
 - [Faith-Inspired Unisex Heavy Faded Tee - Abide, Christian Shirt, Inspirational Gift, Casual Wear, Everyday Fashion](https://faithbloom.co/products/faith-inspired-unisex-heavy-faded-tee-abide-christian-shirt-inspirational-gift-casual-wear-everyday-fashion): Cultivate peace with our 'Abide' T-shirt. Featuring elegant script and a gentle leafy design, this tee serves as a beautiful reminder of John 15:4. A soft and meaningful addition to your everyday wear. S M L XL 2XL 3XL Width, in 20.00 21.50 23.25 24.75 26.25 28.00 Length, in 27.75 29.00 30.50 31.75 33.25 34.00 Sleeve length, in 9.00 9.50 9.50 10.25 10.62 11.00 Introducing the Unisex Heavy Faded Tee, a perfect blend of comfort and style. This tee features a relaxed, boxy fit that's ideal for everyday wear or lounging at home. Crafted from 100% carded cotton, it offers a soft touch that feels great against the skin. The heavyweight fabric ensures durability and longevity, making it your new go-to wardrobe staple. Its faded design and ribbed collar add a vintage vibe that suits any casual occasion.Product features- Dropped shoulders for a relaxed fit- Twill tape stabilizes shoulder and neck seams- Double-needle stitching enhances durability- Ribbed collar allows for a snug yet flexible fit- Made from 100% carded cotton for ultimate comfortCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-12-13T09:28:21Z
@@ -4971,161 +5043,211 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-christian-t-shirt-ezekiel-36-26-matthew-7-24-25-black-blend-xs-755.webp?v=1764977125
     Price: $34.45 USD
 - [Citizen of Heaven T-Shirt — "Just Passing Through" Philippians 3:20](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel): Wear this like a quiet proclamation. The vintage Earth and distressed Philippians 3:20 text sit like an old postcard from home — a reminder that life here is transient and your true citizenship waits beyond the horizon. Soft, slightly lived-in fabric drapes easily over daily routines: church evenings, volunteer days, road trips to nowhere, or slow Sunday mornings. It’s simple, honest, and speaks the language of faith without shouting. Every time you pull it on, it nudges conversation, anchors prayer, and settles the heart with a gentle, hopeful clarity.Product features- 100% Airlume combed and ring-spun cotton for an ultra-soft, breathable feel- Retail crew-neck fit with side seams for a structured, comfortable silhouette- Durable collar with ribbed knit and shoulder tape to resist stretching- Printed using DTF/DTG methods for crisp, detailed chest and sleeve graphics- Tear-away label, REACH certified, ethically manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-12-15T21:51:43Z
+  Updated: 2025-12-19T11:06:37Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11769288592767738378_2048.jpg?v=1765406779
-  - [Army / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676762191)
-    Availability: Available
-    Price: $18.50 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7569330178228215306_2048.jpg?v=1766099215
   - [Asphalt / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676794959)
     Availability: Available
-    Price: $18.50 USD
-  - [Berry / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676827727)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4329562669341206343_2048.jpg?v=1766099219
     Price: $18.50 USD
   - [Black / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676860495)
     Availability: Available
-    Price: $18.50 USD
-  - [Cardinal / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676893263)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2440553733784190823_2048.jpg?v=1766099217
     Price: $18.50 USD
   - [Heather Brown / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676926031)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13335377337208497462_2048.jpg?v=1766099219
     Price: $18.50 USD
-  - [Solid Black Blend / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676958799)
+  - [Natural / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976391884879)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13468612078949819821_2048.jpg?v=1766099222
     Price: $18.50 USD
-  - [Black Heather / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947676991567)
+  - [White / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976391917647)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15518971073121839860_2048.jpg?v=1766099220
     Price: $18.50 USD
   - [Brown / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677024335)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7569330178228215306_2048.jpg?v=1766099215
     Price: $18.50 USD
-  - [Dark Olive / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677057103)
+  - [Vintage White / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976391950415)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10144919646001233886_2048.jpg?v=1766099223
     Price: $18.50 USD
-  - [Oxblood Black / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677089871)
+  - [Heather Prism Natural / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976391983183)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4913577156572206435_2048.jpg?v=1766099225
     Price: $18.50 USD
-  - [Team Navy / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677122639)
+  - [Heather Storm / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392015951)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15457060174904530689_2048.jpg?v=1766099228
     Price: $18.50 USD
-  - [Army / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677155407)
+  - [Heather Cool Grey / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392048719)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7568463954389748184_2048.jpg?v=1766099226
     Price: $18.50 USD
   - [Asphalt / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677188175)
     Availability: Available
-    Price: $18.50 USD
-  - [Berry / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677220943)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4329562669341206343_2048.jpg?v=1766099219
     Price: $18.50 USD
   - [Black / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677253711)
     Availability: Available
-    Price: $18.50 USD
-  - [Cardinal / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677286479)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2440553733784190823_2048.jpg?v=1766099217
     Price: $18.50 USD
   - [Heather Brown / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677319247)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13335377337208497462_2048.jpg?v=1766099219
     Price: $18.50 USD
-  - [Solid Black Blend / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677352015)
+  - [Natural / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392081487)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13468612078949819821_2048.jpg?v=1766099222
     Price: $18.50 USD
-  - [Black Heather / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677384783)
+  - [White / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392114255)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15518971073121839860_2048.jpg?v=1766099220
     Price: $18.50 USD
   - [Brown / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677417551)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7569330178228215306_2048.jpg?v=1766099215
     Price: $18.50 USD
-  - [Dark Olive / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677450319)
+  - [Vintage White / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392147023)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10144919646001233886_2048.jpg?v=1766099223
     Price: $18.50 USD
-  - [Oxblood Black / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677483087)
+  - [Heather Prism Natural / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392179791)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4913577156572206435_2048.jpg?v=1766099225
     Price: $18.50 USD
-  - [Team Navy / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677515855)
+  - [Heather Storm / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392212559)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15457060174904530689_2048.jpg?v=1766099228
     Price: $18.50 USD
-  - [Army / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677548623)
+  - [Heather Cool Grey / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392245327)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7568463954389748184_2048.jpg?v=1766099226
     Price: $18.50 USD
   - [Asphalt / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677581391)
     Availability: Available
-    Price: $18.50 USD
-  - [Berry / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677614159)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4329562669341206343_2048.jpg?v=1766099219
     Price: $18.50 USD
   - [Black / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677646927)
     Availability: Available
-    Price: $18.50 USD
-  - [Cardinal / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677679695)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2440553733784190823_2048.jpg?v=1766099217
     Price: $18.50 USD
   - [Heather Brown / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677712463)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13335377337208497462_2048.jpg?v=1766099219
     Price: $18.50 USD
-  - [Solid Black Blend / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677745231)
+  - [Natural / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392278095)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13468612078949819821_2048.jpg?v=1766099222
     Price: $18.50 USD
-  - [Black Heather / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677777999)
+  - [White / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392310863)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15518971073121839860_2048.jpg?v=1766099220
     Price: $18.50 USD
   - [Brown / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677810767)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7569330178228215306_2048.jpg?v=1766099215
     Price: $18.50 USD
-  - [Dark Olive / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677843535)
+  - [Vintage White / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392343631)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10144919646001233886_2048.jpg?v=1766099223
     Price: $18.50 USD
-  - [Oxblood Black / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677876303)
+  - [Heather Prism Natural / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392376399)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4913577156572206435_2048.jpg?v=1766099225
     Price: $18.50 USD
-  - [Team Navy / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677909071)
+  - [Heather Storm / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392409167)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15457060174904530689_2048.jpg?v=1766099228
     Price: $18.50 USD
-  - [Army / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677941839)
+  - [Heather Cool Grey / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392441935)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7568463954389748184_2048.jpg?v=1766099226
     Price: $18.50 USD
   - [Asphalt / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947677974607)
     Availability: Available
-    Price: $18.50 USD
-  - [Berry / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678007375)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4329562669341206343_2048.jpg?v=1766099219
     Price: $18.50 USD
   - [Black / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678040143)
     Availability: Available
-    Price: $18.50 USD
-  - [Cardinal / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678072911)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2440553733784190823_2048.jpg?v=1766099217
     Price: $18.50 USD
   - [Heather Brown / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678105679)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13335377337208497462_2048.jpg?v=1766099219
     Price: $18.50 USD
-  - [Solid Black Blend / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678138447)
+  - [Natural / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392474703)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13468612078949819821_2048.jpg?v=1766099222
     Price: $18.50 USD
-  - [Black Heather / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678171215)
+  - [White / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392507471)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15518971073121839860_2048.jpg?v=1766099220
     Price: $18.50 USD
-  - [Dark Olive / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678203983)
+  - [Vintage White / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392540239)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10144919646001233886_2048.jpg?v=1766099223
     Price: $18.50 USD
-  - [Oxblood Black / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678236751)
+  - [Heather Prism Natural / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392573007)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4913577156572206435_2048.jpg?v=1766099225
     Price: $18.50 USD
-  - [Team Navy / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678269519)
+  - [Heather Storm / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392605775)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15457060174904530689_2048.jpg?v=1766099228
     Price: $18.50 USD
-  - [Army / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678302287)
+  - [Heather Cool Grey / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392638543)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7568463954389748184_2048.jpg?v=1766099226
     Price: $18.50 USD
   - [Asphalt / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678335055)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4329562669341206343_2048.jpg?v=1766099219
     Price: $18.50 USD
-  - [Berry / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678367823)
+  - [Black / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678400591)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2440553733784190823_2048.jpg?v=1766099217
     Price: $18.50 USD
+  - [Heather Brown / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678466127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13335377337208497462_2048.jpg?v=1766099219
+    Price: $18.50 USD
+  - [Natural / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392671311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13468612078949819821_2048.jpg?v=1766099222
+    Price: $18.50 USD
+  - [White / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392704079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15518971073121839860_2048.jpg?v=1766099220
+    Price: $18.50 USD
+  - [Vintage White / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392736847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10144919646001233886_2048.jpg?v=1766099223
+    Price: $18.50 USD
+  - [Heather Prism Natural / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392769615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4913577156572206435_2048.jpg?v=1766099225
+    Price: $18.50 USD
+  - [Heather Storm / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392802383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15457060174904530689_2048.jpg?v=1766099228
+    Price: $18.50 USD
+  - [Heather Cool Grey / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43976392835151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7568463954389748184_2048.jpg?v=1766099226
+    Price: $18.50 USD
+  - [Asphalt / 2XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678695503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4329562669341206343_2048.jpg?v=1766099219
+    Price: $22.65 USD
+  - [Black / 2XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43947678761039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2440553733784190823_2048.jpg?v=1766099217
+    Price: $22.65 USD
 - [Jesus Loves My Giggles Toddler T-shirt, Cute Kids Tee, Baby Shower Gift, Faith-Based Toddler Apparel, Religious Baby Clothes](https://faithbloom.co/products/jesus-loves-my-giggles-toddler-t-shirt-cute-kids-tee-baby-shower-gift-faith-based-toddler-apparel-religious-baby-clothes): "Let the giggles rain down! This adorable 'Jesus Loves My Giggles' T-shirt is perfect for your little ray of sunshine. Made from soft, comfy fabric, it features a happy cloud showering down cute little hearts, reminding them that Jesus loves every joyful sound they make. Ideal for playtime, snuggles, and sharing big smiles!" 2T 3T 4T 5T 6T Length, in 15.00 16.00 17.00 18.00 19.00 Width, in 11.00 12.00 13.00 14.00 15.00 This adorable toddler t-shirt combines comfort and style, perfect for little ones to express their joy. Featuring a cheerful cloud design with the phrase "Jesus Loves My Giggles," this soft and light fabric shirt promotes a positive and uplifting vibe. It's an ideal choice for everyday wear, family gatherings, and church events, making it a wonderful addition to a child's wardrobe. Fashionable yet casual, this t-shirt offers a sense of fun and faith suitable for any playful spirit. Perfect for gifting on birthdays, holidays, or special occasions, it caters to parents looking for something meaningful for their little ones.Product features- 100% preshrunk ringspun cotton for solid colors, with blends for heather shades- Structured shape with side seams for a perfect fit- Taped shoulder and neck seams for added durability- Double needle stitching for long-lasting wear- Lightweight and comfortable at 4.5 oz fabric weightCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
   Updated: 2025-07-30T00:02:32Z
   Vendor: Printify
@@ -8058,7 +8180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-long-sleeve-t-shirt-violet-s-674.webp?v=1764119247
     Price: $40.37 USD
 - [Faith Over Fear T-Shirt — Inspirational Christian Tee](https://faithbloom.co/products/faith-over-fear-t-shirt-inspirational-christian-tee): Soft, breathable cotton tee with a quiet, confident message: FAITH over FEAR printed across the chest. The lightweight Bella Canvas fabric feels gentle against skin and layers easily under jackets or over long sleeves. Clean, minimalist typography keeps the focus on the message, while quality finishing—side seams, ribbed collar, shoulder tape, and a tear-away label—means this shirt keeps its shape and stays comfortable through repeated wear. Wear it to church gatherings, community meetups, or slower weekend mornings when you want clothing that reflects steady conviction rather than loud slogans.Product features- 100% Airlume combed and ring-spun cotton (lightweight 4.2 oz) for breathable comfort- Side seams and shoulder tape provide structure and shape retention- Ribbed knit collar with seam and tear-away label for comfort and durability- High-detail sleeve and neck prints produced with DTF/DTG techniques for crisp, vibrant designs- REACH certified; sourced blank from Honduras; ethically manufactured processesCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from Honduras Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-11-26T12:59:12Z
+  Updated: 2025-12-19T09:10:08Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -8473,8 +8595,8 @@
 ## Collections
 
 - [Massterpeace Teez: Faith That Pops Style That Slaps!](https://faithbloom.co/collections/massterpeace-teez-faith-that-pops-style-that-slaps): Faith Bloom Co. Massterpeace Teez offer vibrant Christian streetwear apparel. Explore unique faith-based graphic tees with bold designs and witty messages.
-  Updated: 2025-12-10T20:42:16Z
-  Total Products: 4
+  Updated: 2025-12-18T21:10:28Z
+  Total Products: 5
 - [The Grace & Glimmer Collection: Scripture-Inspired](https://faithbloom.co/collections/the-grace-glimmer-collection-scripture-inspired-style-for-every-spirit): Faith Bloom Co. presents The Grace & Glimmer Collection. Discover Scripture-inspired jewelry, art, and apparel reflecting faith, hope, and spiritual light for all.
   Updated: 2025-12-12T19:13:17Z
   Total Products: 7
