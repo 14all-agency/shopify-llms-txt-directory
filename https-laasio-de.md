@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2025-12-20T00:00:27.180Z
+- Updated At: 2025-12-22T00:00:27.757Z
 
 ## Products
 
@@ -1129,7 +1129,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 34,90 € EUR
 - [Geburtsblumen Halskette •  Ovales Plättchen 12mm X 18mm • Namenskette • Geschenk für Damen](https://laasio.de/products/geburtsblumen-halskette-ovales-86043): D E T A I L S - Anhänger Größe: 9X 13mm ,12mmX18mm - Kette LENGTH: 42+8cm - MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 14k vergoldetes • Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Bestellvorgang 1. Wähle im Drop-Down Menü deine gewünschten Optionen aus. 2. Im Feld für die Personalisierung schreiben Sie bitte die gewünschte Geburtsblume, den Namen und die Schriftart. 2. In den Warenkorb legen und zur Kasse gehen. Wenn Sie Fragen haben, senden Sie uns bitte eine Nachricht! ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt und bereit als Geschenk in eleganten Schmucktaschen. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -1 bis 3 Werktag Lieferung Zeit Deutschland : 1 bis 3 werktage International : 7 bis 14 Arbeitstage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über∙LAASIO Alle Unsere Produkte sind handgefertigt in Laasio Studio in Bad Laaspe Deutschland .Jede Bestellung mit Liebe zu handarbeiten. Jedes Schmuckstück gibt es eine Bedeutung. Wenn Sie irgendwelche Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns zu informieren. Wir lieben unsere Kunden und sind bestrebt, Sie glücklich zu machen. Vielen Dank für Ihren Besuch und hoffen, dass Sie gerne bei uns einkaufen. Liebe Grüße
-  Updated: 2025-02-24T17:46:29Z
+  Updated: 2025-12-20T11:56:33Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
@@ -1778,7 +1778,7 @@ Einzigartiges Armband
 ## Collections
 
 - [Home page](https://laasio.de/collections/frontpage)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 27
 - [Layering Kette](https://laasio.de/collections/layering-kette)
   Updated: 2025-02-24T16:35:00Z
@@ -1787,7 +1787,7 @@ Einzigartiges Armband
   Updated: 2025-12-11T12:18:57Z
   Total Products: 5
 - [Kette mit Fingerabdruck](https://laasio.de/collections/finger-abdruck)
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 3
 - [Kette mit Geburtsblume](https://laasio.de/collections/kette-geburtsblume)
   Updated: 2025-12-08T12:17:18Z
@@ -1802,13 +1802,13 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 0
 - [Ketten](https://laasio.de/collections/kette)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 37
 - [Armbänder](https://laasio.de/collections/armband-1)
   Updated: 2025-12-19T12:15:17Z
   Total Products: 20
 - [Alle produkte](https://laasio.de/collections/produkte-produkte)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 59
 - [Armband mit Haustierportrait](https://laasio.de/collections/armband-haustierportrait-1)
   Updated: 2025-12-19T12:15:17Z
@@ -1820,7 +1820,7 @@ Einzigartiges Armband
   Updated: 2025-12-14T12:15:13Z
   Total Products: 3
 - [Best Sellers](https://laasio.de/collections/best-sellers)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 68
 - [Neuheiten](https://laasio.de/collections/neuheiten)
   Updated: 2025-02-24T16:35:01Z
@@ -1862,7 +1862,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:02Z
   Total Products: 2
 - [Fingerabdrücke](https://laasio.de/collections/fingerabdrucke-fingerabdruecke)
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 6
 - [Für Mama und Oma](https://laasio.de/collections/fur-mama-und-oma)
   Updated: 2025-12-14T12:15:13Z
@@ -1895,7 +1895,7 @@ Einzigartiges Armband
   Updated: 2025-11-02T12:13:30Z
   Total Products: 4
 - [Beerdigung](https://laasio.de/collections/beerdigung-beerdigung)
-  Updated: 2025-12-11T12:18:57Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 6
 - [Haustier Verstorben](https://laasio.de/collections/haustier-verstorben)
   Updated: 2025-12-19T12:15:17Z
@@ -1907,7 +1907,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:03Z
   Total Products: 2
 - [Kette mit Namen oder Initialen](https://laasio.de/collections/kette-mit-namen-oder-initialen)
-  Updated: 2025-02-24T16:35:03Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 13
 - [Kette mit Perle oder Layering-Kette](https://laasio.de/collections/kette-mit-perle-oder-layering-kette)
   Updated: 2025-02-24T16:35:03Z
@@ -1940,7 +1940,7 @@ Einzigartiges Armband
   Updated: 2025-12-19T12:15:17Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://laasio.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2025-12-20T12:14:00Z
   Total Products: 68
 
 ## Store Pages
