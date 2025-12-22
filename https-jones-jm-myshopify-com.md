@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-12-21T20:00:23.792Z
+- Updated At: 2025-12-22T04:00:24.255Z
 
 ## Products
 
@@ -788,6 +788,9 @@
     Author: User
   - [How to Properly Maintain Your Snowboard for Longevity](https://jones-jm.myshopify.com/blogs/news/how-to-properly-maintain-your-snowboard-for-longevity): How to Properly Maintain Your Snowboard for Longevity
     Updated: 2025-12-15T00:01:18Z
+    Author: User
+  - [The Evolution of Snowboarding Techniques Over the Decades](https://jones-jm.myshopify.com/blogs/news/the-evolution-of-snowboarding-techniques-over-the-decades): The Evolution of Snowboarding Techniques Over the Decades
+    Updated: 2025-12-22T00:01:18Z
     Author: User
 
 ## Store Pages
