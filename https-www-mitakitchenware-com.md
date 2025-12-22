@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-20T00:00:26.195Z
+- Updated At: 2025-12-22T00:00:26.732Z
 
 ## Products
 
@@ -228,12 +228,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-5041.jpg?v=1762845792
   Price: $69.00 AUD
 - [Karaca Hatır Plus Turkish Coffee Machine | Dual Brew | Red](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-red): Brew authentic Turkish coffee with Karaca Hatir Plus Turkish coffee machine. Enjoy sleek design and advanced features for the perfect cup every time!
-  Updated: 2025-12-12T02:53:50Z
+  Updated: 2025-12-21T11:16:22Z
   Vendor: Mita Kitchenware
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/1_900W.jpg?v=1758282102
-  Price: $259.00 AUD
+  Price: $279.00 AUD
 - [Karaca Hatır Plus 2-in-1 Coffee Machine | Rosie Brown](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-rosie-brown): Enjoy Turkish & filter coffee with the Karaca Hatır Plus. Features a steel filter, auto brewing, and a 30-min heat function.
   Updated: 2025-12-12T02:54:05Z
   Vendor: Mita Kitchenware
@@ -581,12 +581,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL04MZS0010_01.jpg?v=1648037264
   Price: $99.00 AUD
-- [Kütahya Skallop 17cm Bowls Turquoise - 2pc Set](https://www.mitakitchenware.com/products/kutahya-skallop-17cm-small-bowl-2-piece-set-turquoise): Elevate your table with Kütahya Porcelain's Skallop 17cm small bowls. Award-winning design by Karim Rashid, perfect for mixing & matching.
-  Updated: 2025-07-30T21:12:57Z
+- [Karim Rashid Kütahya Skallop 17cm Porcelain Bowls – Turquoise 2pc](https://www.mitakitchenware.com/products/kutahya-skallop-17cm-small-bowl-2-piece-set-turquoise): Shop Karim Rashid–designed Kütahya Skallop 17cm porcelain bowls in turquoise. Premium alumina porcelain, elegant scalloped design. 2-piece set.
+  Updated: 2025-12-21T15:17:07Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Skallop Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL02KKS0012_01.jpg?v=1648038793
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_bbb86560-4b65-4f4b-a662-9c1c867ed997.jpg?v=1766287023
   Price: $99.00 AUD
 - [Kütahya Skallop Mug 290ml Pink - Karim Rahid Design](https://www.mitakitchenware.com/products/kutahya-skallop-mug-290ml-pink): Discover the charm of Kütahya Skallop Mug 290ml in Pink. A Karim Rahid masterpiece that marries nature & food with whimsical elegance.
   Updated: 2025-09-08T19:10:29Z
@@ -931,12 +931,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-4629.jpg?v=1758282957
   Price: $90.00 AUD
-- [Porland Arabesque Design 8 Piece Turkish Coffee Serving Set Collection](https://www.mitakitchenware.com/products/porland-arabesque-design-coffee-serving-set-collection): Explore Porland's Arabesque collection-handcrafted elegance with gold and platinum accents, perfect for transforming gatherings into cherished memories.
-  Updated: 2025-11-26T23:51:52Z
+- [Porland Arabesque Turkish Coffee Serving Set – 24K Gold](https://www.mitakitchenware.com/products/porland-arabesque-design-coffee-serving-set-collection): Luxury Porland Arabesque coffee serving set crafted from fine porcelain with 24K gold detailing. Includes Turkish coffee cups, plates & serving tray.
+  Updated: 2025-12-21T23:29:34Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-4631.png?v=1763553490
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/Porland_Arabesque_coffee_serving_set.png?v=1766316847
   Price: $180.00 AUD
 - [MITA KAHVE Humayun Galata Turkish Coffee Cup Set (Red)](https://www.mitakitchenware.com/products/porland-humayun-galata-coffee-set-for-two-gift-box): Discover the Porland Hümayun Galata Turkish Coffee Set for Two, featuring artisan cups, a traditional cezve, and premium coffee for an unforgettable experience.
   Updated: 2025-12-09T04:08:38Z
@@ -953,7 +953,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/29D82BF8-E168-443A-AE87-8CAFF20817C4.jpg?v=1758282991
   Price: $180.00 AUD
 - [Porland Chopin Copper Coffee Set for 2 people.  (85cc)](https://www.mitakitchenware.com/products/porland-chopin-coffee-set-for-2-people-85cc): Porland Chopin copper Turkish coffee Set for Two: Timeless elegance and sophistication in a compact, stylish gift box for coffee enthusiasts.
-  Updated: 2025-12-16T01:37:54Z
+  Updated: 2025-12-20T06:17:31Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1002,7 +1002,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/800EABB9-0BA5-44C1-9D3A-2375FA55F826.jpg?v=1758283064
   Price: $110.00 AUD
 - [Porland Galata Turkish Coffee Set for Two | Luxury Gift Box](https://www.mitakitchenware.com/products/porland-galata-turkish-coffee-set-for-two-blueet): Authentic Porland Turkish coffee set for two with elegant blue cups, copper cezve & gift box. Perfect luxury gift for weddings & coffee lovers.
-  Updated: 2025-12-19T21:41:23Z
+  Updated: 2025-12-20T09:36:12Z
   Vendor: Mita Kitchenware
   Product Type: Mita Kahve Gift Set Collection
   Availability: Available
@@ -1116,7 +1116,7 @@
   Updated: 2025-12-08T22:17:47Z
   Total Products: 9
 - [Kitchen Appliances- Turkish Coffee Machine](https://www.mitakitchenware.com/collections/kitchen-appliances): Discover a wide range of kitchen appliances to level up your cooking game. Shop Karaca brands and find the perfect Turkish Coffee machines for your home.
-  Updated: 2025-12-12T02:54:49Z
+  Updated: 2025-12-21T11:16:23Z
   Total Products: 8
 - [Kitchenware - Buy Quality Kitchenware Online at Best Prices](https://www.mitakitchenware.com/collections/kitchenware): Shop our premium kitchenware collection, featuring Karaca cake tin sets, stylish thermos drinkware, and essential accessories for every cooking enthusiast .
   Updated: 2025-11-03T12:14:36Z
@@ -1134,16 +1134,16 @@
   Updated: 2025-12-02T04:16:28Z
   Total Products: 2
 - [Kütahya Skallop Collection x Karim Rashid](https://www.mitakitchenware.com/collections/kutahya-skallop-collection): Explore the Kütahya Skallop Collection x Karim Rashid, a stunning collaboration blending art and design. Shop now for unique pieces.
-  Updated: 2025-08-03T10:44:17Z
+  Updated: 2025-12-21T03:19:29Z
   Total Products: 18
 - [Kütahya Galaxy Collection: Shop the Latest Designs](https://www.mitakitchenware.com/collections/kutahya-galaxy-collection): Chef-Approved Turkish Porcelain: Kütahya Galaxy collection. Award-Winning, Anti-Chip Design for Fine Dining Excellence. Elevate Your Tableware Today!
   Updated: 2025-11-26T12:16:09Z
   Total Products: 15
 - [Archive Sale | Exclusive Deals on Trendy Items | Sale](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE SALE collection. Shop now and add timeless pieces to your wardrobe.
-  Updated: 2025-12-19T21:36:58Z
+  Updated: 2025-12-21T11:16:23Z
   Total Products: 76
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2025-12-19T21:36:43Z
+  Updated: 2025-12-21T11:16:23Z
   Total Products: 200
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
   Updated: 2025-12-19T21:36:43Z
@@ -1152,10 +1152,10 @@
   Updated: 2025-12-17T12:14:24Z
   Total Products: 15
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2025-12-19T21:36:43Z
+  Updated: 2025-12-21T11:16:23Z
   Total Products: 200
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-19T21:36:43Z
+  Updated: 2025-12-21T11:16:23Z
   Total Products: 200
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-12-19T07:35:13Z
