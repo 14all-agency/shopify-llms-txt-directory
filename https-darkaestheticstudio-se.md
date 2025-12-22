@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-12-21T00:00:38.532Z
+- Updated At: 2025-12-22T00:00:37.439Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1248,7 +1248,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-white-cat-t-shirt_dcb10066-d5ac-4b49-83da-65344511a199.png?v=1765121734
     Price: 259,00 kr SEK
 - [Mat Klistermärken | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/mat-klistermarken): Unika mat-klistermärken i dark aesthetic-stil. Perfekta för att dekorera laptop, journal och mer. Handla nu!
-  Updated: 2025-12-14T09:29:45Z
+  Updated: 2025-12-21T21:53:44Z
   Vendor: Dark Aesthetic Studio
   Product Type: Klistermärke
   Availability: Available
@@ -1443,6 +1443,144 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
     Price: 5,00 kr SEK
+- [Little Worlds Klistermärke - Dark Aesthetic](https://darkaestheticstudio.se/products/little-worlds-klistermarke): Unikt dark aesthetic klistermärke för laptop, dagbok och mer. Högkvalitativt vinyltryck med matt finish. Perfekt för alternativ stil och mystisk estetik.
+  Updated: 2025-12-21T22:09:37Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Klistermärke
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_b45f5ba1-e9e0-478d-9870-906c1ee91a30.png?v=1766353983
+  - [1](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414552919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_29.png?v=1766354476
+    Price: 5,00 kr SEK
+  - [2](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414585687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_30.png?v=1766354488
+    Price: 5,00 kr SEK
+  - [3](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414618455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_31.png?v=1766354500
+    Price: 5,00 kr SEK
+  - [4](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414651223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_32.png?v=1766354521
+    Price: 5,00 kr SEK
+  - [5](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414683991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_33.png?v=1766354533
+    Price: 5,00 kr SEK
+  - [6](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414716759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_34.png?v=1766354546
+    Price: 5,00 kr SEK
+  - [7](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414749527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_35.png?v=1766354556
+    Price: 5,00 kr SEK
+  - [8](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414782295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_36.png?v=1766354567
+    Price: 5,00 kr SEK
+  - [9](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414815063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_37.png?v=1766354576
+    Price: 5,00 kr SEK
+  - [10](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414847831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_38.png?v=1766354586
+    Price: 5,00 kr SEK
+  - [11](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414880599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_39.png?v=1766354597
+    Price: 5,00 kr SEK
+  - [12](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414913367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_40.png?v=1766354607
+    Price: 5,00 kr SEK
+  - [13](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414946135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_41.png?v=1766354618
+    Price: 5,00 kr SEK
+  - [14](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395414978903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_42.png?v=1766354627
+    Price: 5,00 kr SEK
+  - [15](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415011671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_43.png?v=1766354636
+    Price: 5,00 kr SEK
+  - [16](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415044439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_44.png?v=1766354648
+    Price: 5,00 kr SEK
+  - [17](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415077207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_45.png?v=1766354662
+    Price: 5,00 kr SEK
+  - [18](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415109975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_47.png?v=1766354672
+    Price: 5,00 kr SEK
+  - [19](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415142743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_48.png?v=1766354682
+    Price: 5,00 kr SEK
+  - [20](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415175511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_49.png?v=1766354693
+    Price: 5,00 kr SEK
+  - [21](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415208279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_51.png?v=1766354702
+    Price: 5,00 kr SEK
+  - [22](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415241047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_57.png?v=1766354713
+    Price: 5,00 kr SEK
+  - [23](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415273815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_58.png?v=1766354723
+    Price: 5,00 kr SEK
+  - [24](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415306583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_59.png?v=1766354739
+    Price: 5,00 kr SEK
+  - [25](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415339351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_60.png?v=1766354751
+    Price: 5,00 kr SEK
+  - [26](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415372119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_68.png?v=1766354764
+    Price: 5,00 kr SEK
+  - [27](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415404887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_69.png?v=1766354777
+    Price: 5,00 kr SEK
+  - [28](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415437655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_70.png?v=1766354789
+    Price: 5,00 kr SEK
+  - [29](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415470423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_71.png?v=1766354798
+    Price: 5,00 kr SEK
+  - [30](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415503191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_72.png?v=1766354813
+    Price: 5,00 kr SEK
+  - [31](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415535959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_73.png?v=1766354822
+    Price: 5,00 kr SEK
+  - [32](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415568727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_74.png?v=1766354832
+    Price: 5,00 kr SEK
+  - [33](https://darkaestheticstudio.se/products/little-worlds-klistermarke?variant=52395415601495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_75.png?v=1766354841
+    Price: 5,00 kr SEK
 
 ## Collections
 
@@ -1459,8 +1597,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-12-15T12:40:08Z
   Total Products: 10
 - [Alla produkter](https://darkaestheticstudio.se/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-12-15T12:40:08Z
-  Total Products: 56
+  Updated: 2025-12-21T22:09:39Z
+  Total Products: 57
 - [Jul](https://darkaestheticstudio.se/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
   Updated: 2025-12-15T12:40:08Z
   Total Products: 14
@@ -1468,8 +1606,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-12-06T13:22:51Z
   Total Products: 7
 - [Skuggnytt🕯️](https://darkaestheticstudio.se/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2025-12-15T12:40:08Z
-  Total Products: 51
+  Updated: 2025-12-21T22:09:39Z
+  Total Products: 52
 - [Dark Aesthetic Skor - Gothic & Edgy Footwear | Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/skor): Upptäck vår kollektion av dark aesthetic skor. Platåsandaler, boots och mer med gotisk elegans och rebelliska detaljer. Premium kvalitet för din unika stil.
   Updated: 2025-11-23T19:31:21Z
   Total Products: 1
@@ -1480,8 +1618,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-29T19:21:38Z
   Total Products: 2
 - [Pyssel & DIY - Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/pyssel): Kreativa pyssel- och DIY-material med mörk estetik.
-  Updated: 2025-12-15T12:40:08Z
-  Total Products: 7
+  Updated: 2025-12-21T22:09:39Z
+  Total Products: 8
 
 ## Store Pages
 
