@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-27T19:41:54Z
 - Contact Email: simbysteesnstuff@gmail.com
-- Updated At: 2025-12-21T00:00:23.111Z
+- Updated At: 2025-12-22T00:00:24.361Z
 
 ## Products
 
@@ -1296,7 +1296,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/SantaExpress.png?v=1763996122
   Price: $27.99 USD
 - [XOXO Glitter Puff Valentine’s Sweatshirt with Heart & Bow Sleeves](https://simbysteesnstuff.com/products/xoxo-glitter-puff-with-2-sleeves): Cute and cozy XOXO Glitter Puff Valentine’s sweatshirt with sparkly hearts and puff-print bows on the sleeves. Perfect for Valentine’s Day outfits and gifting.
-  Updated: 2025-12-06T01:43:41Z
+  Updated: 2025-12-21T14:17:43Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
@@ -1310,14 +1310,14 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Cozy_Custom_Sweatpants_Relaxed_Fit_Sweatpants_for_Matching_Sets.png?v=1764944628
   Price: $18.99 USD
 - [I May be Wrong, but I Doubt it - Graphic T-Shirt](https://simbysteesnstuff.com/products/i-may-be-wrong-but-i-doubt-it-graphic-t-shirt): “I May Be Wrong But I Doubt It” funny sarcastic t-shirt. Soft unisex tee with bold statement design. Perfect for everyday wear or gifting.
-  Updated: 2025-12-18T18:45:51Z
+  Updated: 2025-12-21T14:15:38Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Screenshot2025-12-09114521.png?v=1765303783
   Price: $23.99 USD
 - [Once I get an Attitude - Graphic T-Shirt](https://simbysteesnstuff.com/products/once-i-get-an-attitude-graphic-t-shirt): Funny “Once I Get an Attitude It Takes Me 3–5 Business Days” t-shirt. Soft, comfy, unisex fit. A perfect everyday tee with bold, relatable humor.
-  Updated: 2025-12-18T19:47:05Z
+  Updated: 2025-12-21T14:14:14Z
   Vendor: SimbysTeesNStuff
   Product Type: 
   Availability: Available
@@ -1377,8 +1377,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-10-26T21:33:46Z
   Total Products: 4
 - [New Releases - Graphic T-Shirts and Sweatshirts, Tumblers and More](https://simbysteesnstuff.com/collections/new-releases): Discover the latest new releases in our collection of graphic tees, t-shirts, sweatshirts, tumblers, mugs, and wind spinners. We constantly update our store with fresh designs and bold graphics inspired by trending topics and timeless statements. Whether you’re looking for stylish graphic tees or unique drinkware, we’ve got something for everyone. Check back often to find your next favorite t-shirt, sweatshirt, tumbler, mug, or wind spinner — new styles are being added regularly!
-  Updated: 2025-12-19T17:30:48Z
-  Total Products: 63
+  Updated: 2025-12-21T14:19:41Z
+  Total Products: 41
 - [Tester Tees & Tumblers  – One-of-a-Kind Samples...](https://simbysteesnstuff.com/collections/ready-to-ship-ts): These are the original tester shirts I used to dial in my process—testing prints, materials, and quality before launching full production. Each one is a unique part of the journey and may include test designs, one-off prints, or slight imperfections. They’re ready to ship, priced to move, and perfect if you’re into one-of-a-kind pieces. ✔ Ready to ship in 1–2 business days✔ Each shirt is unique✔ Great for fit, feel, or collectors of one-offs Note: These are tester samples and could have minor flaws but will be noted.
   Updated: 2025-10-04T19:42:25Z
   Total Products: 5
