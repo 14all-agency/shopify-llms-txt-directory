@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-12-22T00:02:23.792Z
+- Updated At: 2025-12-23T00:02:26.881Z
 
 ## Naše služby
 
@@ -2412,8 +2412,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sorento-top-nappa-1-6-t-gdi-phev-186kw-elektrina-4x4-automaticka-prevodovka?variant=57757722313053)
     Availability: Available
     Price: 22 010,00 Kč CZK
-- [Audi A6 S line Elektro 315 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka): Audi A6 Avant e-tron S line definuje novou éru elektrické mobility v segmentu prémiových kombi. Spojuje sportovní eleganci s mimořádnou praktičností a elektrickým výkonem. Elegantní linie, výrazné proporce a typická maska Singleframe podtrhují moderní charakter vozu, zatímco aerodynamika přispívá k vysoké efektivitě. Pohon všech kol quattro a systémový výkon 315 kW přinášejí působivou dynamiku. Akumulátor s vysokou kapacitou umožňuje dojezd až 678 km dle WLTP, což z A6 Avant e-tron činí ideální volbu pro dlouhé cesty. Nabíjení je stejně působivé – z 10 % na 80 % se baterie dobije za přibližně 21 minut, přičemž maximální nabíjecí výkon činí až 270 kW. Za 10 minut lze navíc dobít dojezd až 295 km. Tento model je perfektní ukázkou toho, jak může vypadat prémiové elektrické cestování bez kompromisů.
-  Updated: 2025-12-18T11:29:49Z
+- [Audi A6 e-tron S line Elektro 315 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka): Audi A6 Avant e-tron S line definuje novou éru elektrické mobility v segmentu prémiových kombi. Spojuje sportovní eleganci s mimořádnou praktičností a elektrickým výkonem. Elegantní linie, výrazné proporce a typická maska Singleframe podtrhují moderní charakter vozu, zatímco aerodynamika přispívá k vysoké efektivitě. Pohon všech kol quattro a systémový výkon 315 kW přinášejí působivou dynamiku. Akumulátor s vysokou kapacitou umožňuje dojezd až 678 km dle WLTP, což z A6 Avant e-tron činí ideální volbu pro dlouhé cesty. Nabíjení je stejně působivé – z 10 % na 80 % se baterie dobije za přibližně 21 minut, přičemž maximální nabíjecí výkon činí až 270 kW. Za 10 minut lze navíc dobít dojezd až 295 km. Tento model je perfektní ukázkou toho, jak může vypadat prémiové elektrické cestování bez kompromisů.
+  Updated: 2025-12-22T23:37:26Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3682,16 +3682,16 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-21T12:19:09Z
-  Total Products: 177
+  Updated: 2025-12-22T12:19:49Z
+  Total Products: 181
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 63
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-19T12:22:19Z
+  Updated: 2025-12-22T11:36:09Z
   Total Products: 12
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 197
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-18T11:29:20Z
@@ -3709,16 +3709,16 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-18T11:29:20Z
   Total Products: 1
 - [Operativní leasing MG | Driveto.cz](https://www.driveto.cz/collections/mg): Operativní leasing MG pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
-  Total Products: 2
+  Updated: 2025-12-22T11:28:14Z
+  Total Products: 6
 - [Operativní leasing Lexus | Driveto.cz](https://www.driveto.cz/collections/lexus): Operativní leasing Lexus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-18T11:29:20Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 13
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-18T11:29:20Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 6
 - [Operativní leasing Citroën | Driveto.cz](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-18T11:29:20Z
@@ -3727,19 +3727,19 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-18T11:29:20Z
   Total Products: 0
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 2
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 14
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 20
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-18T11:29:21Z
   Total Products: 2
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 3
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-18T11:29:21Z
@@ -3748,7 +3748,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-20T12:21:35Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 32
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-21T12:19:09Z
@@ -3757,13 +3757,13 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-21T12:19:09Z
   Total Products: 2
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
-  Total Products: 179
+  Updated: 2025-12-22T12:19:49Z
+  Total Products: 183
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-21T12:19:09Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 8
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-18T12:23:42Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 5
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-18T11:29:21Z
@@ -3772,10 +3772,10 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-18T11:29:21Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-21T12:19:09Z
-  Total Products: 177
+  Updated: 2025-12-22T12:19:49Z
+  Total Products: 181
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-18T11:29:22Z
+  Updated: 2025-12-22T12:19:49Z
   Total Products: 2
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
   Updated: 2025-12-18T11:29:22Z
