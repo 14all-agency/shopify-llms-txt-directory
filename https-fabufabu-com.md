@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-22T00:00:25.448Z
+- Updated At: 2025-12-23T00:00:28.186Z
 
 ## Products
 
@@ -259,6 +259,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/high_cover_blue_purple.png?v=1766119526
     Price: $74.55 USD
+- [Blackhead Remover Pore Vacuum](https://fabufabu.com/products/blackhead-remover-pore-vacuum): Blackhead Remover: Our blackhead Remover tool can help men or women deeply clean blackhead Pore Vacuum: Our pore vacuum has different suction level for a variety of skin types. This electric blackhead vacuum can use for sensitive and dry skin, for neutral skin, for mixed and oily skin. Meanwhile, it has 4 suction heads for different skin conditions Blackhead Remover Vacuum: Our professional blackhead remover vacuum is made of reliable ABS material.Our blackhead Vacuum is an effective physical approach to solve the skin problems more effective and safe than traditional facial cleansing method Blackhead Remover with USB Rechargeable : USB power charge no need to worry about replacing batteries, built-in rechargeable 500mah lithium battery can last over 150 minutes on a single charge Our Blackhead Remover Vacuum has a LED display which is used to check the suction level and battery power.High-end package is very wise choice for sending to your family and friends as a gift
+  Updated: 2025-12-22T09:31:15Z
+  Vendor: fabufabu design store
+  Product Type: Blackhead Remover
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_2.jpg?v=1766395521
+  Price: $115.59 USD
 
 ## Collections
 
@@ -278,8 +285,8 @@
   Updated: 2025-12-17T08:04:21Z
   Total Products: 1
 - [Beauty](https://fabufabu.com/collections/beauty)
-  Updated: 2025-12-17T08:04:21Z
-  Total Products: 0
+  Updated: 2025-12-22T09:30:10Z
+  Total Products: 1
 - [Rings](https://fabufabu.com/collections/rings)
   Updated: 2025-12-17T08:04:21Z
   Total Products: 0
