@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-09-20T15:24:01Z
-- Updated At: 2025-12-12T00:00:31.936Z
+- Updated At: 2025-12-23T00:00:36.513Z
 
 ## Products
 
@@ -5113,7 +5113,7 @@
   Updated: 2025-11-18T16:04:32Z
   Total Products: 10
 - [UNISEX SHOES - Stylish & Comfortable Footwear](https://cutebychristelle.myshopify.com/collections/unisex-shoes): Discover our UNISEX SHOES collection. Perfect for every occasion, combining style and comfort.
-  Updated: 2025-11-18T16:04:32Z
+  Updated: 2025-12-12T12:27:27Z
   Total Products: 10
 
 ## Blogs
@@ -5128,8 +5128,8 @@
 
 - [About Us | Welcome to SheDream Store](https://cutebychristelle.myshopify.com/pages/about-us-shop): WELCOME TO SHEDREAM STORE Welcome to SheDream!Your one-stop shop for stylish men's fashion, tech essentials, and trend-setting footwear.Explore our...
   Updated: 2025-11-08T10:39:07Z
-- [Your Privacy Choices - Manage Your Data Wisely](https://cutebychristelle.myshopify.com/pages/your-privacy-choices-manage-your-data-wisely): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-11-08T10:36:02Z
+- [Your Privacy Choices - Manage Your Data Wisely](https://cutebychristelle.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-12-15T12:28:42Z
 
 ## Policies
 
