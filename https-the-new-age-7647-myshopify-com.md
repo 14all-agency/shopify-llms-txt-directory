@@ -6,21 +6,21 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-18T15:27:33.911Z
+- Updated At: 2025-12-23T00:00:22.663Z
 
 The New Age
 
 ## Products
 
 - [Crystal U-shaped 1500ml Wine Decanter](https://the-new-age-7647.myshopify.com/products/crystal-u-shaped-1500ml-wine-decanter): Introducing the Crystal U-shaped 1500 ml Wine Decanter, the perfect addition to your bar or wine collection. Crafted with lead-free crystal to create an elegant and sophisticated design, this wine decanter will add a unique and timeless touch to any occasion. Not only is it beautiful, but also practical. Featuring a unique U shape that is both creative and easy to pour, its aerating abilities allow for wines to breathe properly while creating an optimal flavor profile. Measuring at 30 cm x 20 cm x 20 cm, it has a maximum capacity of 1500 ml so you can generously pour your favorite red or white wines. Its exquisite details make it ideal for gifting to your family or friends. Get yours today!
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-22T20:49:14Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sMsSrcdRTFrXGMc.jpg?v=1765391085
-  Price: $24.54 USD
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sMsSrcdRTFrXGMc.jpg?v=1766133951
+  Price: $24.99 USD
 - [3 Speed Gear Automatic Egg Beaters](https://the-new-age-7647.myshopify.com/products/3-speed-gear-automatic-egg-beaters): Introducing the 3 Speed Gear Automatic Egg Beaters! Our state-of-the-art design will whip up eggs and other ingredients to perfection every time. With three adjustable speeds, you can adjust from a gentle mix all the way up to a powerful stir for thicker items like sauces and soups. The comfortable handle fits nicely in your hand for complete control over your culinary creations. The easy installation makes starting up quick and easy - just place it on any surface and get whisking! With its durable, stainless steel construction and non-stick coating, this egg beater is perfect for both home chefs looking for speed and convenience or professional cooks looking for precision. Whether youâre cooking dinner for your family or catering an event, 3 Speed Gear Automatic Egg Beaters will help get the job done with ease! Specification: Material: Stainless Steel + PP Use: 4 X AA Batteries (not included) Size: 225*110mm Package: 1 X Egg Whisk
-  Updated: 2025-12-18T10:14:04Z
+  Updated: 2025-12-22T20:49:49Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -34,63 +34,63 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/P390CLQfBoxNvWD.jpg?v=1766009644
     Price: $7.99 USD
 - [RGB Mouse Pad with Cable](https://the-new-age-7647.myshopify.com/products/rgb-mouse-pad-with-cable): The RGB Mouse Pad with Cable is the perfect computer accessory for gamers and general computer users alike. This massive mouse pad is backlit with RGB LEDs and has plenty of space for your mouse and keyboard. The built-in USB hub gives you easy access to extra ports, and the gel-filled wrist rest ensures comfort during long gaming sessions. The skid-resistant base keeps the mouse pad in place, no matter how intense the action gets. If you're looking for the ultimate computer gaming experience, look no further than the RGB Mouse Pad with Cable.Specifications: Material : natural rubber ;Mouse Pad with USB HUB ;Type 1 : 1 port x usb hub ;Type 2 : 4 ports x usb hub ;"Click" the button to switch the backlight color ;"Double-click" the button to enhance the brightness of the backlight ;Long press to turn off the backlight is not recommended. Long press to turn off the backlight makes it a bit difficult to turn on the backlight again.Product :1x RGB Mouse Pad+1x Cable
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-22T20:50:29Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sulfJipaAqW3DKF.jpg?v=1765391084
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sulfJipaAqW3DKF.jpg?v=1766178558
   - [1 Port x USB HUB / 350x250x4 mm](https://the-new-age-7647.myshopify.com/products/rgb-mouse-pad-with-cable?variant=51753863348505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xpZuLdSnInRm1zO.jpg?v=1765391084
-    Price: $22.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xpZuLdSnInRm1zO.jpg?v=1766178519
+    Price: $17.62 USD
   - [1 Port x USB HUB / 800x300x3 mm](https://the-new-age-7647.myshopify.com/products/rgb-mouse-pad-with-cable?variant=51753863381273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/vWuuyph4SBKhSDs.jpg?v=1765391084
-    Price: $37.26 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/vWuuyph4SBKhSDs.jpg?v=1766178521
+    Price: $29.26 USD
   - [1 Port x USB HUB / 900x400x3 mm](https://the-new-age-7647.myshopify.com/products/rgb-mouse-pad-with-cable?variant=51753863414041)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ICjRWmwut5wRM8Y.jpg?v=1765391084
-    Price: $51.75 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ICjRWmwut5wRM8Y.jpg?v=1766178518
+    Price: $39.75 USD
 - [Cat Self Groomer Corner Brush](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush): Features:The product is designed according to the living habits of the cat.It plays the role of the rubbing of a cat.In combing the cat's hair, it can remove loose and shedding hair.It is equipped to attract the cat's eye, prevents it to scratch itself.And the brush can be easily disassembled for cleaning and installation.Install the product in the corner of the wall or the corner of the furniture that the cat can reach at the height.We are sure your cat will like this new toy, because it can enjoy massage and comb the hair.Specifications:Color: Black/Grey/Green/BlueMaterial: plasticSize: 13*9cm/5.12*3.54"Notes:1. Due to the different monitor and light effect, the actual color of the item might be slightly different from the color showed on the pictures. Thank you!2. Please allow 1-3cm measuring deviation due to manual measurement. 1 X PetComb
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-22T20:51:21Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VEizYaQCazesL7O.jpg?v=1765391085
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VEizYaQCazesL7O.jpg?v=1766178857
   - [Sky Blue](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863512345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eV2vpUJHm98kp69.jpg?v=1765391085
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eV2vpUJHm98kp69.jpg?v=1766178819
+    Price: $4.99 USD
   - [black](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863545113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/KbcuI4PgJKZkJll.jpg?v=1765391085
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/KbcuI4PgJKZkJll.jpg?v=1766178818
+    Price: $4.99 USD
   - [green](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863577881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/YOKO8MAaW8NZx7Z.jpg?v=1765391084
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/YOKO8MAaW8NZx7Z.jpg?v=1766178817
+    Price: $4.99 USD
   - [gray](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863610649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0aJ0pEIHusMqwfU.jpg?v=1765391085
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0aJ0pEIHusMqwfU.jpg?v=1766178818
+    Price: $4.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863643417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/QS30Ak0ncq2XCUH.jpg?v=1765391085
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/QS30Ak0ncq2XCUH.jpg?v=1766178814
+    Price: $4.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863676185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/q7Meu8uzd8WMM87.jpg?v=1765391084
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/q7Meu8uzd8WMM87.jpg?v=1766178819
+    Price: $4.99 USD
   - [Green](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863708953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Edku5J1WEU5AmqC.jpg?v=1765391085
-    Price: $6.39 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Edku5J1WEU5AmqC.jpg?v=1766178820
+    Price: $4.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/cat-self-groomer-corner-brush?variant=51753863741721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/YgYuiRbbUqG3PV3.jpg?v=1765391085
-    Price: $6.39 USD
-- [Northern Lights Star Projector](https://the-new-age-7647.myshopify.com/products/northern-lights-star-projector): Â North Light Galaxy Starry Sky Projector Space Aurora Night Light Star Projector Nebula Moon Lamp with Bluetooth Music Speaker Galaxy Light Projector Music Sync Color Changing Moving Aurora Wave,Built-in Music Speaker,Remote & Bluetooth Light Projector Bluetooth Control:Works with smartphones via Bluetooth,Before connecting, Please make sure that the bluetooth of the starlight and the smart phone are turned on, and then use the phone to search for "AC6923" to connect. IR Remote Control:29-key mode to control starry sky projection light. Â Abundant projection effect: The combination of the northern lights, the moon and the stars can be played individually or in combination. The flowing aurora bore effect creates a relaxing environment. Forget about worries and enjoy the present. Built-in Bluetooth Music Speaker Timer Function Remote Control Works with smartphones via Bluetooth,play local music through mobile phone, then youâll see the light will change color with themusic beats.resulting in a starry sky projection.Voice Control(Only control the lights speed). Setting 1h/2h/4h timer OFF for your sleep.Projection Coverage: 215-861 ftÂ² (20-80ã¡)Adjust aurora wave speed with the âS+â or âS-â button You can adjust your needs by remote control, choose the aurora wave or starry sky, moon projection mode, or choose three modes at the same time, change the color speed and brightness of the light, adjust the volume and sound mode of the music mode. 48 lighting modes of the northern lights projector: 4 Color 48 Lighting Effects & 5 Brightness LevelBrightness can be adjusted from 20% to 100%; it can project a realistic starry night sky and the northern lights on the ceiling.It's like traveling the North Pole, reaching and touching the Northern Lights.helping you and your child fall asleep quickly and smoothly with a warm and tranquil sleeping environment. A gift for kids and friends: Galaxy Light Projector to create a romantic, gorgeous, and magical atmosphere and to light up the life for you, suitable for Bedroom,Game Rooms,Baby Room ,family and you friends,Mothers' Day, Birthday, Christmas Day, Halloween Day, Thanks Giving Day, etc. It creates a wonderful and starry atmosphere, helping children to stimulate curiosity, imagination, creativity. Specifications: Bluetooth number:" AC6923". Material: ABS Output voltage :5V / 2000mA Operations: Remote Control & 4 buttons Projection effect: aurora, moon and stars Product power: Red/Green/Blue/White/2 * 4W Music mode: Remote Control,Voice Control(Only control the lights speed),Bluetooth Functions: LED projector, music speaker, Bluetooth, remote control LED light colors: red / green / blue / white Auto-Off Timer:1h/2h/4h timer OFF Built-in Mini Speaker: 13 color changing brightness mode Projection Coverage: 215-861 ftÂ² (20-80ã¡) Power supply: USB cable (Power Bank, Computer, AC Adapter) Package Weight: 1.21lb/550g Package Size: 7.2*4.7*4.4in/18.2*12*11.2/cm Â Note: 1. The laser may be harmful to the eyes, do not look directly at it. 2. Do not let children use this product alone. 3. The projection lamp is suitable for indoor / night / dark use. If it is outdoor / daylight / strong light, the product display effect will be different. 4. Waterproof is IP20 and the device is used in a dry environment. Please avoid using it in humid environment and water ingress, otherwise it may damage the projection lamp. 5. The minimum and maximum ambient temperature necessary to maintain the normal and stable operation of the product is -20 Â° C and 40 Â° C, respectively. 6. Use an adapter that meets the requirements for this product. Use a 5V / 2A power adapter. If the current is too low, the lamp body will not function normally. If the current exceeds this range, please use a regulator, otherwise it will affect the service life. 7. The remote control does not include batteries, 2 batteries need to be inserted by yourself. Packing accessories: 1 x projection lamp 1 x remote control (without battery) 1 x 1.5 meter USB cable 1 x User Manualï¼Instructions support multi-language: US / DE / FR / ES / IT / JPï¼ USB LED Star Night Light Music Starry Water Wave LED Projector Light Bluetooth Projector Sound-Activated Projector Light Decor Feature ï¼ ãTwinkle Multi-Color Star Projector Night Lightã The sky lite projector for bedroom comes with red, blue, green lights and offers up to 12 lighting modes. Star sky light Projector can be used as a brightness-adjustable night light, Ocean wave ambiance light, disco, game room decor, home theater accent, Strobe Lamp, you can use adult bedroom lights bedroom/party/Birthday/Bar/Wedding/Show/DJ. Therefore it means you don't need to buy so many lights. Â ãRelaxing and Deep Sleepã The space night light for kids can be used as a calming and hypnotic night light. You can play white noise music when night sky projector projecting the relaxing, flowing nebula or slow-moving ocean wave to help drift off into calm, relaxing sleep. ãWith Remote Control & Auto-Off Timerã Starry night light projector comes with a 21-key control remote, no more concern about angle deflecting of the set perfect project position when pressing buttons. Star light projector has 4 levels of brightness (20%/40%/70%/100%) and speed can be adjusted freely. Galaxy glow projector has 1h/2h/4h automatically timing off are supportable so just enjoy myriads of star surrounds you. ãBuilt-in Music Speakerã âª Built-in Mini Bluetooth Music Speaker and USB slot, choose your favorite music and play through your phone or UDisk. The latest voice control mode (star projection in the music environment) can flash with the rhythm of the music or the clapping, perfect for activating the party ambiance or parent-children interaction, gamer room decor. ãUnique GiftsãAwesome Festival Gifts to your friends, your family even yourself for any event & celebration like Halloween, Thanksgiving, Christmas, Valentine's Day, anniversaries, weddings, etc. Â
-  Updated: 2025-12-17T20:58:53Z
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/YgYuiRbbUqG3PV3.jpg?v=1766178816
+    Price: $4.99 USD
+- [Northern Lights Star Projector](https://the-new-age-7647.myshopify.com/products/northern-lights-star-projector): Â North Light Galaxy Starry Sky Projector Space Aurora Night Light Star Projector Nebula Moon Lamp with Bluetooth Music Speaker Galaxy Light Projector Music Sync Color Changing Moving Aurora Wave,Built-in Music Speaker,Remote & Bluetooth Light Projector Bluetooth Control:Works with smartphones via Bluetooth,Before connecting, Please make sure that the bluetooth of the starlight and the smart phone are turned on, and then use the phone to search for "AC6923" to connect. IR Remote Control:29-key mode to control starry sky projection light. Â Abundant projection effect: The combination of the northern lights, the moon and the stars can be played individually or in combination. The flowing aurora bore effect creates a relaxing environment. Forget about worries and enjoy the present. Built-in Bluetooth Music Speaker Timer Function Remote Control Works with smartphones via Bluetooth,play local music through mobile phone, then youâll see the light will change color with themusic beats.resulting in a starry sky projection.Voice Control(Only control the lights speed). Setting 1h/2h/4h timer OFF for your sleep.Projection Coverage: 215-861 ftÂ² (20-80ã¡)Adjust aurora wave speed with the âS+â or âS-â button You can adjust your needs by remote control, choose the aurora wave or starry sky, moon projection mode, or choose three modes at the same time, change the color speed and brightness of the light, adjust the volume and sound mode of the music mode. 48 lighting modes of the northern lights projector: 4 Color 48 Lighting Effects & 5 Brightness LevelBrightness can be adjusted from 20% to 100%; it can project a realistic starry night sky and the northern lights on the ceiling.It's like traveling the North Pole, reaching and touching the Northern Lights.helping you and your child fall asleep quickly and smoothly with a warm and tranquil sleeping environment. A gift for kids and friends: Galaxy Light Projector to create a romantic, gorgeous, and magical atmosphere and to light up the life for you, suitable for Bedroom,Game Rooms,Baby Room ,family and you friends,Mothers' Day, Birthday, Christmas Day, Halloween Day, Thanks Giving Day, etc. It creates a wonderful and starry atmosphere, helping children to stimulate curiosity, imagination, creativity. Specifications: Bluetooth number:" AC6923". Material: ABS Output voltage :5V / 2000mA Operations: Remote Control & 4 buttons Projection effect: aurora, moon and stars Product power: Red/Green/Blue/White/2 * 4W Music mode: Remote Control,Voice Control(Only control the lights speed),Bluetooth Functions: LED projector, music speaker, Bluetooth, remote control LED light colors: red / green / blue / white Auto-Off Timer:1h/2h/4h timer OFF Built-in Mini Speaker: 13 color changing brightness mode Projection Coverage: 215-861 ftÂ² (20-80ã¡) Power supply: USB cable (Power Bank, Computer, AC Adapter) Package Weight: 1.21lb/550g Package Size: 7.2*4.7*4.4in/18.2*12*11.2/cm Â Note: 1. The laser may be harmful to the eyes, do not look directly at it. 2. Do not let children use this product alone. 3. The projection lamp is suitable for indoor / night / dark use. If it is outdoor / daylight / strong light, the product display effect will be different. 4. Waterproof is IP20 and the device is used in a dry environment. Please avoid using it in humid environment and water ingress, otherwise it may damage the projection lamp. 5. The minimum and maximum ambient temperature necessary to maintain the normal and stable operation of the product is -20 Â° C and 40 Â° C, respectively. 6. Use an adapter that meets the requirements for this product. Use a 5V / 2A power adapter. If the current is too low, the lamp body will not function normally. If the current exceeds this range, please use a regulator, otherwise it will affect the service life. 7. The remote control does not include batteries, 2 batteries need to be inserted by yourself. Packing accessories: 1 x projection lamp 1 x remote control (without battery) 1 x 1.5 meter USB cable 1 x User Manualï¼Instructions support multi-language: US / DE / FR / ES / IT / JPï¼ USB LED Star Night Light Music Starry Water Wave LED Projector Light Bluetooth Projector Sound-Activated Projector Light Decor Feature ï¼ ãTwinkle Multi-Color Star Projector Night Lightã The sky lite projector for bedroom comes with red, blue, green lights and offers up to 12 lighting modes. Star sky light Projector can be used as a brightness-adjustable night light, Ocean wave ambiance light, disco, game room decor, home theater accent, Strobe Lamp, you can use adult bedroom lights bedroom/party/Birthday/Bar/Wedding/Show/DJ. Therefore it means you don't need to buy so many lights. Â ãRelaxing and Deep Sleepã The space night light for kids can be used as a calming and hypnotic night light. You can play white noise music when night sky projector projecting the relaxing, flowing nebula or slow-moving ocean wave to help drift off into calm, relaxing sleep. ãWith Remote Control & Auto-Off Timerã Starry night light projector comes with a 21-key control remote, no more concern about angle deflecting of the set perfect project position when pressing buttons. Star light projector has 4 levels of brightness (20%/40%/70%/100%) and speed can be adjusted freely. Galaxy glow projector has 1h/2h/4h automatically timing off are supportable so just enjoy myriads of star surrounds you. ãBuilt-in Music Speakerã âª Built-in Mini Bluetooth Music Speaker and USB slot, choose your favorite music and play through your phone or UDisk. The latest voice control mode (star projection in the music environment) can flash with the rhythm of the music or the clapping, perfect for activating the party ambiance or parent-children interaction, gamer room decor. Unique GiftsAwesome Festival Gifts to your friends, your family even yourself for any event & celebration like Halloween, Thanksgiving, Christmas, Valentine's Day, anniversaries, weddings, etc. Â
+  Updated: 2025-12-20T09:20:53Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -98,66 +98,66 @@ The New Age
   - [White](https://the-new-age-7647.myshopify.com/products/northern-lights-star-projector?variant=51753863446809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bFH0IAoFJN1MDMP.jpg?v=1766005052
-    Price: $77.19 USD
+    Price: $45.99 USD
   - [Black](https://the-new-age-7647.myshopify.com/products/northern-lights-star-projector?variant=51753863479577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/nDauf2KWL13hWIW.jpg?v=1766005052
-    Price: $77.19 USD
+    Price: $45.99 USD
 - [Memory Foam Insoles For Shoes](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes): Elevate your sports and active lifestyle with our innovative Honeycomb Mesh Sports Insoles! Designed to provide exceptional comfort and support, these insoles are the perfect addition to your sports shoes, whether you're into running, basketball, golf, or any other athletic pursuit. Key Features: 1. Honeycomb Mesh Design: Our insoles feature a honeycomb mesh design that ensures breathability, keeping your feet dry and comfortable even during intense workouts. Say goodbye to sweaty and uncomfortable feet. 2. Advanced Shock Absorption: These insoles are equipped with a high-density and high-foaming EVA shock-absorbing layer that accelerates rebound and shock absorption. This technology enhances your athletic performance and minimizes the impact on your joints, making exercise and walking more comfortable and efficient. 3. U-Shaped Heel and Ankle Support: The U-shaped heel design provides a snug fit to protect the ankle joint, offering stability during rapid movements. No more worries about sprained ankles or discomfort during intense activities. 4. Arch Support: Our insoles effectively support the arch of your foot, relieving pressure and reducing fatigue and pain. Whether you're an athlete or someone who spends long hours on their feet, these insoles will help you stay comfortable and pain-free. Versatile Use: These insoles are suitable for a wide range of sports, including baseball, softball, running, climbing, golf, basketball, horseback riding, and more. They can be easily inserted into your sports shoes to enhance your performance and comfort. Color Options: Choose from three available colors to match your style and preference. Available Sizes: Small (EU35-38, 25cm) Medium (EU39-42, 27.5cm) Large (EU43-45, 30cm) Package Includes: Each package contains one pair of insoles, ready to upgrade your athletic experience. Note: You can customize the insoles to your perfect fit by following two simple methods: Measure your foot length, locate the size line on the insole, and cut it slightly longer than your foot size. Use your existing insoles as a template and cut the new ones accordingly. Experience the ultimate in comfort, support, and performance with our Honeycomb Mesh Sports Insoles. Elevate your game, protect your feet, and stay active with confidence. Order your pair today!
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-21T19:09:52Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/nKHVKO6mZV31jmi.jpg?v=1765391085
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/nKHVKO6mZV31jmi.jpg?v=1766179417
   - [Black / 25cm EU35-38](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863774489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/AiFutWi2bELnCVP.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/AiFutWi2bELnCVP.jpg?v=1766179384
+    Price: $2.99 USD
   - [Black / 27.5cm EU39-42](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863807257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zShkIOEQhiIvkTx.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zShkIOEQhiIvkTx.jpg?v=1766179387
+    Price: $2.99 USD
   - [Black / 30cm EU43-45](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863840025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zNAq3gsvuXOqLdh.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zNAq3gsvuXOqLdh.jpg?v=1766179385
+    Price: $2.99 USD
   - [Blue / 25cm EU35-38](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863872793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8eUgDTBgDUPu7zr.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8eUgDTBgDUPu7zr.jpg?v=1766179378
+    Price: $2.99 USD
   - [Blue / 27.5cm EU39-42](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863905561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/i5IXyflZsbRkcIp.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/i5IXyflZsbRkcIp.jpg?v=1766179382
+    Price: $2.99 USD
   - [Blue / 30cm EU43-45](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863938329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zvF0608XPlBO1LY.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zvF0608XPlBO1LY.jpg?v=1766179388
+    Price: $2.99 USD
   - [Gray / 25cm EU35-38](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753863971097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jKjLzNVjuNT0x5g.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jKjLzNVjuNT0x5g.jpg?v=1766179381
+    Price: $2.99 USD
   - [Gray / 27.5cm EU39-42](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753864003865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/WqUSX6i4USh5sW4.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/WqUSX6i4USh5sW4.jpg?v=1766179383
+    Price: $2.99 USD
   - [Gray / 30cm EU43-45](https://the-new-age-7647.myshopify.com/products/memory-foam-insoles-for-shoes?variant=51753864036633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VGSfWy5rVnDjX35.jpg?v=1765391085
-    Price: $2.10 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VGSfWy5rVnDjX35.jpg?v=1766179383
+    Price: $2.99 USD
 - [Net Mesh Solar Fairy Lights](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights): The Net Mesh Solar Fairy Lights are perfect for outdoor lighting events such as garden parties, weddings, Christmas celebrations, and New Year's decorations. These robust LED string lights are constructed with durable materials that ensure a long-lasting product life with efficient energy-saving abilities. The included solar panel is IP44 waterproof and operates without increasing any extra utility bills or needing to replace the batteries every few days, guaranteeing up to 6-8 hours of power once it facilitates enough sunlight. With 8 unique lighting modes including Combination, In Waves, Sequential, Slo-Glo and more, these Net Mesh Solar Fairy Lights add charm and beauty to any event or holiday celebration. Specifications: Product Style: Warm White / Colorful Specifications: 3*3m /1.5*1.5mPower Supply: Solar /EU Plug/US PlugPower: 6WMode: 8 styles
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-21T19:09:53Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xWs3CAWBEE1G2jg.jpg?v=1765391085
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xWs3CAWBEE1G2jg.jpg?v=1766179543
   - [Warm White / US Plug-1.5x1.5M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864200473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/hsKwn6iNmKuLrse.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/hsKwn6iNmKuLrse.jpg?v=1766179507
     Price: $6.90 USD
   - [Warm White / EU Plug-1.5x1.5M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864233241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/uLvdAhErq4IDjb0.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/uLvdAhErq4IDjb0.jpg?v=1766179506
     Price: $6.90 USD
   - [Multi Color / EU Plug-1.5x1.5M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864266009)
     Availability: Available
@@ -165,7 +165,7 @@ The New Age
     Price: $6.90 USD
   - [Multi Color / US Plug-1.5x1.5M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864298777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/biZeMIy1xC0zNBx.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/biZeMIy1xC0zNBx.jpg?v=1766179504
     Price: $6.90 USD
   - [Multi Color / EU Plug-3 x 2M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864331545)
     Availability: Available
@@ -173,15 +173,15 @@ The New Age
     Price: $21.75 USD
   - [Multi Color / US Plug-3 x 2M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864364313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/YodUvvOP3qZCGf4.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/YodUvvOP3qZCGf4.jpg?v=1766179506
     Price: $21.75 USD
   - [Warm White / EU Plug-3 x 2M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864397081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VHfzA2ZQs5x0p36.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VHfzA2ZQs5x0p36.jpg?v=1766179508
     Price: $21.75 USD
   - [Warm White / US Plug-3 x 2M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864429849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Jx8iIUYfvRnW75Z.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Jx8iIUYfvRnW75Z.jpg?v=1766179511
     Price: $21.75 USD
   - [Multi Color / Solar Power-3 x 2M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864462617)
     Availability: Available
@@ -189,14 +189,14 @@ The New Age
     Price: $44.16 USD
   - [Warm White / Solar Power-3 x 2M](https://the-new-age-7647.myshopify.com/products/net-mesh-solar-fairy-lights?variant=51753864495385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/perE7W2xq5AJlaa.jpg?v=1765391085
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/perE7W2xq5AJlaa.jpg?v=1766179505
     Price: $44.16 USD
 - [Waterproof Garden Ball LED Lights for Outdoor](https://the-new-age-7647.myshopify.com/products/waterproof-garden-ball-led-lights-for-outdoor): Packaging: LED lamp*1, Remote control*1 USB charging *1.Notes:Due to the light and screen setting difference, the item's color may be slightly different from the pictures. Please allow slight dimension difference due to different manual measurement. It can be used for 8~10 hours after charging Manual in Chinese and English LED patch lamp bead 0.8W Materialï¼PE polyethylene cannot provide IP certification, CE certification and CE declaration
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-21T19:09:54Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/n3wYPWwj8nYmKZV.jpg?v=1765391085
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/n3wYPWwj8nYmKZV.jpg?v=1766179635
   - [12cm](https://the-new-age-7647.myshopify.com/products/waterproof-garden-ball-led-lights-for-outdoor?variant=51753864069401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/mYoLavv542xLTnC.jpg?v=1765391085
@@ -214,11 +214,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/mYoLavv542xLTnC.jpg?v=1765391085
     Price: $67.59 USD
 - [Waterproof Reflective Dog Boots](https://the-new-age-7647.myshopify.com/products/waterproof-reflective-dog-boots): Specifications: Type: Dog BootsMaterial: 100% Cotton
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-21T19:09:57Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CVDRFo6PbI2WhAQ.jpg?v=1765391086
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CVDRFo6PbI2WhAQ.jpg?v=1766179738
   - [Red 2 / 1](https://the-new-age-7647.myshopify.com/products/waterproof-reflective-dog-boots?variant=51753864528153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xWsHksrWFzagZSa.jpg?v=1765391086
@@ -348,11 +348,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/gj6fTJATLw0cAh1.jpg?v=1765391086
     Price: $30.60 USD
 - [Charm Bracelet](https://the-new-age-7647.myshopify.com/products/charm-bracelet): Introducing the Charm Bracelet! This beautiful bracelet is made of high quality materials, including copper, pearls, and natural stones. It's the perfect accessory to add a touch of elegance to any outfit. The Charm Bracelet is also a great gift for any occasion.
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-21T19:09:59Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cZ12X9KiiCJmQro.jpg?v=1765391086
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cZ12X9KiiCJmQro.jpg?v=1766179786
   - [20](https://the-new-age-7647.myshopify.com/products/charm-bracelet?variant=51753865576729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4D1WI03m9DrOk5G.jpg?v=1765391086
@@ -434,11 +434,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/HhnPgMmLMAghpeb.jpg?v=1765391086
     Price: $8.64 USD
 - [360° Rotatable Smart Phone Car Holder](https://the-new-age-7647.myshopify.com/products/360-rotatable-smart-phone-car-holder): Looking for a safe, convenient way to use your smartphone while driving? Look no further than the 360Â° Rotatable Smart Phone Car Holder! This innovative car mount allows you to securely attach your smartphone to your car's dashboard or windshield, keeping it within easy reach. The 360Â° rotation feature lets you adjust the angle of the holder to suit your needs, while the telescopic arm provides additional flexibility. The strong suction cup base keeps the holder firmly in place, even on bumpy roads. And thanks to the flexible design, you can easily use your phone's touchscreen while it's in the holder. Whether you're using your phone for GPS directions, streaming music, or making hands-free calls, the 360Â° Rotatable Smart Phone Car Holder is the perfect solution. Order yours today and make driving safer and more convenient than ever before!
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-22T20:41:49Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cScSElj8T4GPUOo.jpg?v=1765391086
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cScSElj8T4GPUOo.jpg?v=1766180062
   - [Green](https://the-new-age-7647.myshopify.com/products/360-rotatable-smart-phone-car-holder?variant=51753866232089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Ff0NMCKEMV1UGsA.png?v=1765391086
@@ -452,11 +452,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/LYrZ8fycs1Bjowp.jpg?v=1765391086
     Price: $15.87 USD
 - [Mini Printer Portable Thermal Stickers](https://the-new-age-7647.myshopify.com/products/mini-printer-portable-thermal-stickers): Get Ready to Experience the Future of Printing with Mini Portable Thermal Stickers Printer! Key Features: Thermal Magic: Mini printer employs thermal printing technology, using heat to transfer ink onto paper. Say goodbye to the hassles of traditional inkjet printers and embrace efficiency and cost-effectiveness. Wireless Wonder: Thanks to Bluetooth wireless connectivity, printing has never been easier. No need for cables or network connections. Simply connect your Android or iOS device and let the magic happen. On-the-Go Companion: Olaf's mini printer boasts a compact and lightweight design, making it your perfect on-the-go printing partner. Take it with you wherever you roam for all your portable printing needs. Speedy Delivery: With an impressive print speed of 33 pages per minute, Olaf's mini printer swiftly and efficiently prints your documents, labels, and even photos with finesse. Specifications: Product Name: Mini Portable Printer Printing Parameters: 200DPI Printing Method: Thermal Inkless Black and White Printing Battery Capacity: 1200mA 3.7V Lithium Battery with 2A Charging Printing Paper Size: 57X25mm Connection Method: Bluetooth Wireless Inkless Black and White Printing Shipping List: Printer, Charging Cable, Manual, and 1 Roll of Printing Paper Paper Weight: Approximately 20 grams per roll Features: Mini Portable, Unleash the Power of Portable Printing Language Options: English, French, Italian, Spanish, German, Greek, Russian, Polish, Japanese, Korean, Thai, Traditional Chinese, Portuguese Product Dimensions: 110 X 80 X 35 MM Gross Weight: Approximately 200 grams per unit Important Notes: Device Compatibility: For Android devices, search and download "FunPrint iPrint" on Google. It supports Android 4.0 and above, but it's recommended to use a system version 5.0 and above. For Apple devices, simply search and download "FunPrint iPrint" from the App Store. It supports iOS 10.0 and above, with a recommendation to use a system of 11.0 and above. Proper Paper Placement: Ensure the correct placement of printing paper by referring to the instructions provided. This step prevents printing failures or issues. Text Permanence: Please note that the printer is thermally sensitive, and the text retention time is approximately 1 year (theoretical time). Printing Paper: The printer uses 57X25mm paper, and additional original printing paper can be purchased for easy replacement. Join the Printing Revolution with Mini Portable Thermal Stickers Printer!
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-21T19:10:02Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/gBsV243w0MASaq9.jpg?v=1765391086
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/gBsV243w0MASaq9.jpg?v=1766180188
   - [Green](https://the-new-age-7647.myshopify.com/products/mini-printer-portable-thermal-stickers?variant=51753866330393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3stavrXz44fOr0A.jpg?v=1765391086
@@ -466,190 +466,190 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/MR68Wb9SwGUvJ4M.jpg?v=1765391086
     Price: $26.67 USD
 - [Mini Cooling  Foldable Fan](https://the-new-age-7647.myshopify.com/products/mini-cooling-foldable-fan): Don't let the heat get you down this summer! The Mini Cooling Fan Foldable Neck is here to help. This handy little fan can be hung around your neck, so you'll always have a cool breeze (literally) at the ready. Made of high-quality ABS, it's durable and built to last. Plus, it has 3 different wind speed settings, so you can choose just how much cooling power you need. And when the battery gets low, no problem! Just hook it up to any USB port to recharge quickly and easily. Keep cool all summer long with the Mini Cooling Fan Foldable Neck! Specification:Material: ABS, PC, electronic components.Color: pink, white, blue, green.Size: 165*80*18mm.Battery capacity: 3000mAh.(Built-in)Voltage: 5V /1A.Gears: 3 gears.Duration of use: 4-12 hours.Charging time: about 4 hours.Package included:1x Fan.(Battery built-in)1x Charging cable.
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-21T19:10:03Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/XbtXNEt5pPDNfXS.jpg?v=1765391086
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/XbtXNEt5pPDNfXS.jpg?v=1766184361
   - [Pink](https://the-new-age-7647.myshopify.com/products/mini-cooling-foldable-fan?variant=51753866395929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/77GcbC77nUDhDsx.jpg?v=1765391086
-    Price: $28.23 USD
+    Price: $19.99 USD
   - [Green](https://the-new-age-7647.myshopify.com/products/mini-cooling-foldable-fan?variant=51753866428697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yfGKGFe53NzqvfO.jpg?v=1765391086
-    Price: $28.23 USD
+    Price: $19.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/mini-cooling-foldable-fan?variant=51753866461465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/K8kVEBSpa3fgi4x.jpg?v=1765391086
-    Price: $28.23 USD
+    Price: $19.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/mini-cooling-foldable-fan?variant=51753866494233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sBLEFnpXqX9gXUn.jpg?v=1765391086
     Price: $28.23 USD
 - [Water Drop Earrings](https://the-new-age-7647.myshopify.com/products/water-drop-earrings): Looking for a unique and fashionable way to accessorize? Check out these hot selling water drop earrings! Made with high quality stainless steel and gold plated for a luxurious look, these earrings feature a chunky hoop design with an irregular baroque pearl charm. They're perfect for adding a touch of style to any outfit, whether you're dressing up for a special occasion or just want to add some pizzazz to your everyday look. Best of all, the pearl charm is removable, so you can mix and match it with other charms to create your own custom look. So don't wait any longer, order your very own pair of water drop earrings today! Specifications: Material: 316L Stainless Steel, PVD plating, Simulated PearlSize: Full length 48cmmDiameter: 22mmWeight: 17g/pairFeature: Tarnish Free, Hypoallergenic
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-21T19:10:04Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/U249G4AuZidnja6.jpg?v=1765391086
-  Price: $9.33 USD
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/U249G4AuZidnja6.jpg?v=1766184413
+  Price: $8.99 USD
 - [Unisex Luminous Rings](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings): These new luminous rings are simply gorgeous! They have a stylish design that will add a touch of class to any outfit, and they come in a variety of colors to suit any taste. But the best part about these rings is that they actually glow in the dark! This is perfect for those romantic nights out, or for adding a bit of fun to any occasion. Whether you're looking for a gift for someone special, or just want to treat yourself, these luminous rings are sure to please. Specifications:New design Luminous Ring, Glow Ring, Men Ring, Women and Men RingsMaterial Of Glow Ring:Resin RingColor of Men Ring:Orange,Green,Blue,Yellow,Pink,ColorfulSex of Men Ring:Man,Women,LoverGlow ring is a suit for men and best choice for gifts and it is a Romantic Ring New Fashion Ring is suit for party, when the light is dimmed, you are the most women ,this is man woman ring.Glow ring and men ring is the special among the crowd.
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:06Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ZZy1EimMvbdQCp8.jpg?v=1765391087
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ZZy1EimMvbdQCp8.jpg?v=1766184654
   - [Orange Designer Ring / 9](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866723609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/PNfgSKhwiFxEIbj.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Two Tone / 8](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866756377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1EN1ni1goLkILmq.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Pink New Ring / 10](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866789145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/npG5tRdEBh9JQ6I.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Yellow Finger Ring / 8](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866821913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6It2g4STl6UrkcJ.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Pink New Ring / 8](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866854681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3WM5PG6niAjjhl2.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Two Tone / 6](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866887449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/obLXxDfOG8Wn14h.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Green Glow Ring / 7](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866920217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/FSJoNm5v3AUPDpJ.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Yellow Finger Ring / 7](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866952985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S5uAUz5CIJ9OQPW.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Orange Designer Ring / 10](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753866985753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/wKYxTRruW13W414.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Blue Men Ring / 11](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867018521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ScWSPCyPdNib56f.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Yellow Finger Ring / 11](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867051289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3KEMWVKgJoBT4Fb.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Two Tone / 11](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867084057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/87WkSzPayakzP3W.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Blue Men Ring / 7](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867116825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xkfCaoGteey0gYz.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Blue Men Ring / 9](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867149593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aPn6nPhg2WTemPF.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Green Glow ring / 11](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867182361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/mq3NgbgtqitwNA9.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Two Tone / 9](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867215129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/MEe9lTUZSSyoqMv.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Two Tone / 10](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867247897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/flAJuWp1ZKLCbYK.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Yellow Finger Ring / 10](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867280665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Ek8ZIMPfzrRmTor.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Green Glow Ring / 10](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867313433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/iDl1xkPaB2KEGvE.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Green Glow Ring / 9](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867346201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f36IaNe7pJqtRtt.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Yellow Finger Ring / 9](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867378969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Su7NxGTn8tUfeFm.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Orange Designer Ring / 8](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867411737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1HvlU83DRhvUlqv.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Orange Designer Ring / 7](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867444505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xlZ4HVhEPn4Zs7m.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Two Tone / 7](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867477273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/AVsqhmHUr2udNqr.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Pink New Ring / 7](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867510041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2rr6rVj8a90aOmp.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Blue Men Ring / 6](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867542809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Jwdi53dWh9Sx1uh.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Pink New Ring / 6](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867575577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0nZT4dgZdoQePFC.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Orange Designer Ring / 11](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867608345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/R5BxVhHxXjGR33o.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Pink New Ring / 11](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867641113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/E0H0tVZGeCeGPVm.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Pink New Ring / 9](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867673881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/UlkIu7932S1cPCh.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Green Glow Ring / 6](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867706649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eEcqKpgIPO0W9ZI.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Yellow Finger Ring / 6](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867739417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ZU5bjQM63kdJBhM.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Orange Designer Ring / 6](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867772185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3MeIKIyLEYZBPJz.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Green Glow Ring / 8](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867804953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Aq8E15M7s8GR1iZ.jpg?v=1765391088
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Blue Men Ring / 8](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867837721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0CmQKTQtbqafYYG.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
   - [Blue Men Ring / 10](https://the-new-age-7647.myshopify.com/products/unisex-luminous-rings?variant=51753867870489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e0CVEpMMfYbLYdd.jpg?v=1765391087
-    Price: $14.37 USD
+    Price: $9.99 USD
 - [Vegetable Chopper Kitchen](https://the-new-age-7647.myshopify.com/products/vegetable-chopper-kitchen): Revolutionize your kitchen experience with our versatile Vegetable Chopper Slicer, a true multitasking marvel. This 10-piece set equips you with the essential tools needed for slicing, dicing, chopping, and more. Say goodbye to time-consuming prep work and hello to quick and efficient meal preparation. Whether you need fine slices, small pieces, or thick cuts, this vegetable chopper has you covered. Crafted with high-quality materials like stainless steel blades and food-grade components, it's a durable and reliable addition to your kitchen arsenal. Plus, the rust-proof design ensures long-lasting sharpness, guaranteeing smooth and precise cuts every time. Simplify your cooking routine, save time, and enjoy healthier meals with the help of this indispensable vegetable chopper.
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:08Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6jGkEXYpAlLnpj9.jpg?v=1765391087
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6jGkEXYpAlLnpj9.jpg?v=1766184701
   - [Blue with White](https://the-new-age-7647.myshopify.com/products/vegetable-chopper-kitchen?variant=51753866592537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ahOTQ655RatMfyj.jpg?v=1765391087
@@ -667,29 +667,29 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/AIY0Ne2Pp4UXLSK.jpg?v=1765391087
     Price: $13.08 USD
 - [Cute Dog Bath Brush](https://the-new-age-7647.myshopify.com/products/cute-dog-bath-brush): The Cute Dog Bath Brush is engineered to provide your pet with a refreshing and invigorating bathing experience. Featuring a multifunctional comb, this brush doubles as a massage tool, loofah sponge for shower gel distribution and body brush for combing and grooming. Crafted with eco-friendly materials, itâs designed to recycle water usage and reduce bath liquid output. To create the perfect environment for lathering and cleansing, the pressurized shower gel can be controlled by your hand action. And in addition to its use for hygiene, the unique massage function promotes pet blood circulation to maintain good health. Finally, the soft silicone bristles gently remove dead hair and other parasites like lice or bugs from your petâs coat. With all these great features, give your beloved pet an unparalleled grooming experience while caring for their well-being! Get your Cute Dog Bath Brush today! Specifications: Color: yellow, blue Material: silicone Style: massage, bath Size: 8*8*6 (approximately) Weight: 103g (approximately)
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:09Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jU51mNG8z4mjTWb.jpg?v=1765391087
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jU51mNG8z4mjTWb.jpg?v=1766184837
   - [Blue](https://the-new-age-7647.myshopify.com/products/cute-dog-bath-brush?variant=51753867903257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7P9UhfWeNDSz7dm.jpg?v=1765391087
-    Price: $1.26 USD
+    Price: $1.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/cute-dog-bath-brush?variant=51753867936025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Qoft8TYZNkMct0Y.jpg?v=1765391087
-    Price: $1.26 USD
+    Price: $1.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/cute-dog-bath-brush?variant=51753867968793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5Bp6HfDkHybzTFC.jpg?v=1765391087
-    Price: $1.26 USD
+    Price: $1.99 USD
 - [Cat Litter Shovel](https://the-new-age-7647.myshopify.com/products/cat-litter-shovel): Looking for a self-cleaning cat litter box shovel? Meet the Cat Litter Shovel! This nifty little tool is the perfect solution for keeping your litter box clean. It features a self-cleaning design that makes it easy to scoop out clumps of litter without having to touch them. The Cat Litter Shovel is also great for scooping sand out of sandboxes and litter trays. It's made of durable plastic and has a comfortable grip, so it's easy to use. Plus, it's available in a variety of colors to match your dÃ©cor. So why wait? Order your Cat Litter Shovel today! Specifications:Suitable For: Cat, KittenSet Type: NOProduct Name: Cat Litter ShovelOrigin: Mainland ChinaMaterial: PlasticMaterial: ABSFeature4: Place Garbage BagFeature3: High CapacityFeature2: Hollow GridFeature1: Comfortable Handle
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:10Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/NAhlaZ1Rz22CwjZ.jpg?v=1765391087
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/NAhlaZ1Rz22CwjZ.jpg?v=1766184935
   - [Gray / Without Poop Bag](https://the-new-age-7647.myshopify.com/products/cat-litter-shovel?variant=51753868165401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fGLiqJUgBniaxrt.jpg?v=1765391087
@@ -699,11 +699,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yQ8HZAoRClQ8atx.jpg?v=1765391087
     Price: $20.79 USD
 - [EMS Foot Massage](https://the-new-age-7647.myshopify.com/products/ems-foot-massage): Stop living in pain and welcome the EMS Foot Massage into your life! This device is the perfect way to pamper yourself, relieve fatigue, and improve circulation. It is easy to use with one simple switch and USB charging, also making it very portable so you can take it with you wherever you need some relief. The EMS Foot Massage uses modern medical technology to simulate foot massage techniques used by professional therapists. Its high-tech design allows it to accurately target the reflex points in your feet for the most enjoyable massage experience. Working within a range of 0-18Hz frequency, this device massages all areas of your foot from top to toe â toes, arch, heel, ankle, calf and even up to your knee! Each session is adjustable with 9 levels of intensity for customized relaxation. Say goodbye soreness and fatigue with just one use of our EMS Foot Massage! Invest in this essential health care device today and say hello to relaxation and comfort any time you need it. Give yourself a spa-quality pedicure at home with ease or treat someone special with a gift they will greatly appreciate. The EMS Foot Massage is the perfect solution for tired bodies everywhere - purchase yours today! Specifications:Size : 32cm * 29cm * 2.8cmPower supply : USB/BatteryMassage principle : vibrationMode intensity : Rechargeable version with built-in lithium battery, 6 modes and 15 speedsDigital display, built-in lithium battery, 6 modes, 9 speedsRemote control model 1/2 contains lithium battery, 6 modes and 9 speeds, both the remote control and the host are charged by usbBattery model without battery, 6 modes and 9 levels of power.Working voltage : 3.7VWorking time : 25 minutesWorking current : 50mA
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:11Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/wQAYqIwBXDq3xZs.jpg?v=1765391087
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/wQAYqIwBXDq3xZs.jpg?v=1766185122
   - [Battery Model](https://the-new-age-7647.myshopify.com/products/ems-foot-massage?variant=51753868001561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/37lPoFn95R8Q2fX.jpg?v=1765391087
@@ -725,11 +725,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/u1B3M0Oh0sg536i.jpg?v=1765391087
     Price: $27.96 USD
 - [Massage Hair Comb](https://the-new-age-7647.myshopify.com/products/massage-hair-comb): Looking for an easy way to detangle your hair without the pain? Look no further than the Massage Hair Comb! This professional-grade comb is designed to glide through wet or dry hair, making detangling a breeze. The rounded teeth massage your scalp and promote hair growth, while the non-slip rubber handle ensures a comfortable grip. The sleek, arched design makes this comb not only functional but also stylish. Whether you're using it at home or in the salon, the Massage Hair Comb is sure to become your new go-to hair tool! Specifications:Material: Bristle +Nylon +ABSHandle Material: RubberColor: As shownSize: 250x75mmPackage Include:1 x Hairbrush Comb
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:14Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ChqnKcpr3FMOB6b.png?v=1765391088
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ChqnKcpr3FMOB6b.png?v=1766185230
   - [1](https://the-new-age-7647.myshopify.com/products/massage-hair-comb?variant=51753868329241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/RzJwlf6wscjJwrv.jpg?v=1765391088
@@ -803,11 +803,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/oT7uBxRSt9VcUjU.jpg?v=1765391088
     Price: $7.38 USD
 - [Creative Love Heart Ring](https://the-new-age-7647.myshopify.com/products/creative-love-heart-ring): Product InformationMaterialï¼Alloy+color retention of electroplatingSizeï¼size 6/7/8Weightï¼As the picture showNote:Please allow slight deviation in color or size, thank you for your understanding!Since it is a manual measurement, there may be a 1-2 cm error, please forgive me!Package includes:1 PC * RingNo Retail Box. Packed Safely in Bubble Bag.Maintenance1.925 sterling silverSilver: does not fade. Due to lifestyle and personal physique, some people's sterling silver jewelry will be oxidized and blackened. You can clean it with a silver polishing cloth/toothpaste and toothbrush to restore the brightness.Gold, rose gold: it will fade, the way to extend the color retention is to avoid direct contact with chemicals (perfume/detergent/skin care products), etc., you can flush it, but it is recommended to wipe it dry as soon as possible.2.14k/18k gold platedWill not fade, if the color becomes darker, wash it with dish soap to restore the brightness.3. Brass/alloySilver, gold, and rose gold will fade. Vacuum plating can keep the color for a period of time. Avoid direct contact with chemicals (perfume/detergent/skin care products), etc., less flushing, and dry sweat and moisture in time.Products show
-  Updated: 2025-12-15T19:37:32Z
+  Updated: 2025-12-21T19:10:16Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Y8fX75ssn5Jb3ko.jpg?v=1765391088
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Y8fX75ssn5Jb3ko.jpg?v=1766185282
   - [Brown gold / 8](https://the-new-age-7647.myshopify.com/products/creative-love-heart-ring?variant=51753868984601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/WaJ1ghQ5GzTECgY.jpg?v=1765391088
@@ -881,11 +881,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ch1DbH6IEzEbvxT.jpg?v=1765391088
     Price: $7.50 USD
 - [Garden Kneeler](https://the-new-age-7647.myshopify.com/products/garden-kneeler): Material: metal and foam Size: 60x27x49 cm / 23,4x10,5x19,1 inches (L x W x H) Foam Pad Size: 40.5x15.5x5.5 cm / 15.8x6.0x2.1 inches (L x W x H) Small bag size: 27.5x18.5 cm / 10.7x7.2 inches (L x W) Ideal For: Garden Capacity Weight: Up to Â£ 250 Net weight: 3.0 kg Opportunity: beach, garden, lawn Lightweight and fold, it is easy for your storage With foam pad, it can reduce your knee pain during gardening You can sit or kneel, protect your clothes and body from dirt and grass. Metal frame, it is durable, designed for your comfortable gardening Package content: 1 x Garden Kneeling Chair Note: Due to the difference between different monitors, the picture may not reflect the actual color of the item. We guarantee the style is the same as shown in the pictures, but not the same performance on different bodies as on the model.
-  Updated: 2025-12-15T19:37:33Z
+  Updated: 2025-12-21T19:10:17Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/HQQnWOx8zxzqvde.png?v=1765391087
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/HQQnWOx8zxzqvde.png?v=1766185556
   - [with 2 small bag](https://the-new-age-7647.myshopify.com/products/garden-kneeler?variant=51753868230937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/LxcGUXfwdo4XPmo.jpg?v=1765391087
@@ -899,11 +899,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0NWOvhzsqiichWY.jpg?v=1765391087
     Price: $86.40 USD
 - [Dog Car Seat Cover](https://the-new-age-7647.myshopify.com/products/dog-car-seat-cover): Traveling with your best friend just got easier! Now you wonât have to worry about shedding, messes and odors while traveling in the car with your furry pal. Our Dog Car Seat Cover will provide you with optimal comfort, safety and cleanliness that you can both benefit from. This all-in-one product is multifunctional and great for upholstery protection against fur and scratches as well as water repellent on the top side of it. Itâs made of a high quality heavy duty material which makes it extra durable and perfect for any kind of adventure you want to go on with your four legged companion. It also has adjustable pet seat anchors with quick-release buckles that attach the cover to headrest straps ensuring they stay put while underway. The foldable design allows it to remain stored most easily when not in use, or you can simply detach the bottom of the dog seat covers for additional room if needed later on! With our Dog Car Seat Cover everyone in the family (whether two legged or four), can stay comfortable on those long trips through rain, sleet, snow or sunshine. Specifications:Standard Size: 143cm Wide * 152cm LengthExtra Large Size: 153cm Wide * 162cm LengthWeight: 1.2-1.3kgColor: Black and Gray Package:1 Dog Back Seat Cover & 1 Dog Seat Belt & 2 Door Slide Straps
-  Updated: 2025-12-15T19:37:33Z
+  Updated: 2025-12-21T19:10:18Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zLxLrX78zZN5ote.jpg?v=1765391088
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zLxLrX78zZN5ote.jpg?v=1766185648
   - [Black / 152x143cm](https://the-new-age-7647.myshopify.com/products/dog-car-seat-cover?variant=51753868919065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3W2qhkg4MJI4Fzp.jpg?v=1765391088
@@ -913,7 +913,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eOeA21ag9FMctm3.jpg?v=1765391088
     Price: $38.46 USD
 - [Pet Dog Water Bottle Feeder](https://the-new-age-7647.myshopify.com/products/pet-dog-water-bottle-feeder): Keep your dog hydrated on the go with this Pet Dog Water Bottle Feeder! This multifunctional feeder can dispense both food and water, making it the perfect solution for travel or everyday use. The handy design means no more spills or messes, and the built-in bowl means your pup can drink and eat without having to stop for a break. The bottle is made from durable BPA-free plastic and comes in a variety of colors to suit your style. Whether you're hitting the road or just taking a stroll around the block, make sure your furry friend has everything they need with this convenient Pet Dog Water Bottle Feeder.
-  Updated: 2025-12-17T20:57:26Z
+  Updated: 2025-12-21T19:10:20Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -951,7 +951,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/md20cWTYoQgORfE.jpg?v=1766004959
     Price: $16.05 USD
 - [Silicone Kitchen Snap N Strain Filter](https://the-new-age-7647.myshopify.com/products/silicone-kitchen-snap-n-strain-filter): The Silicone Kitchen Snap N Strain Filter is the perfect kitchen accessory for those who want to easily separate solid food from liquid. Made from heat resistant silicone material, it is well designed for all sized pans. Simply snap it onto the side of your pan and let it strain the food as you pour the liquid away. Itâs easy to use and clean, and itâs a must-have tool for any kitchen.
-  Updated: 2025-12-17T20:39:49Z
+  Updated: 2025-12-20T11:10:41Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -965,11 +965,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sWi5LpmYgWWHNtR.jpg?v=1766003898
     Price: $15.87 USD
 - [Portable Dog Drinker Bottle](https://the-new-age-7647.myshopify.com/products/portable-dog-drinker-bottle): Looking for a travel-friendly way to give your furry friend fresh water on the go? Look no further than the Portable Dog Drinker Bottle! This high-quality, BPA-free water bottle is made of durable ABS and PC material and folds up into a convenient water bowl - perfect for walks or trips to the park. Plus, one click open/lock system makes it easy to use with just one hand. Give your four-legged pal the hydration they need while you're out and about!
-  Updated: 2025-12-15T19:37:33Z
+  Updated: 2025-12-21T19:10:22Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bsHnTPD5s8vxJpL.jpg?v=1765391088
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bsHnTPD5s8vxJpL.jpg?v=1766185982
   - [Pink Filter 2Pcs](https://the-new-age-7647.myshopify.com/products/portable-dog-drinker-bottle?variant=51753869902105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CboUGsEAVu9gjFm.jpg?v=1765391088
@@ -991,11 +991,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zqmqoONjCuCUS8e.jpg?v=1765391088
     Price: $36.57 USD
 - [Cute Cat Humidifier](https://the-new-age-7647.myshopify.com/products/cute-cat-humidifier): Are you looking for a compact and cute humidifier that will help make your home more comfortable? Look no further than the 250ml Cute Cat Humidifier! This ultrasonic humidifier is designed for small spaces and features a continuous spray mode to provide long-lasting relief from dryness. Plus, it has a night light function so you can enjoy gentle illumination in dark rooms. The adorable cat design will look great in any decorative scheme, and the unit also includes an aromatherapy diffuser for your favorite essential oils. Enjoy not only improved air quality but also sweet fragrances with the 250ml Cute Cat Humidifier. Get ready to breathe easier at home - this product is an ideal choice for comfortable living. Features:1. Romantic Colorful Night Light2. Small size, large capacity 250ML3. Humidifier With Continuous Mist and Intermittent Mist mode free exchange4. Exquisite High-Quality Cat Outlook5. Mist with ultra-quite design6. USB connection. compatible with a power bank, computer interface, etc. Specifications:Material: ABS+ Silicone+ PP WaterCapacity: 250MLColor: Pink/Green/WhitePower: 2WVoltage: 5VOutput:45ml/hAccessories: USB cable, comes with a cotton swab
-  Updated: 2025-12-15T19:37:33Z
+  Updated: 2025-12-21T19:10:23Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CU3WylA4h6h80bj.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CU3WylA4h6h80bj.jpg?v=1766186248
   - [Pink / 1pc](https://the-new-age-7647.myshopify.com/products/cute-cat-humidifier?variant=51753870655769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/kgssdLBjfn25Xrm.jpg?v=1765391089
@@ -1033,11 +1033,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/hGiejj3vH7wFPBM.jpg?v=1765391089
     Price: $12.42 USD
 - [Flexible Garden Hose](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose): 3 times expandable design, can be expanded from 16.5m up to 50m (about 175 feet) 7 spraying water modes, full, mist, jet, shower, flat, center, cone, choose optimal mode you need Wide application, suitable for washing car, watering flowers / vegetables, clearing windows / floor etc. Latex tube, wear resistant, can be stretched or bent. Water pressure, 0 - 5 bar water pressure Note: The water hose length approximately 16.6m, after being filled with the water, it can be stretched length range about 48m - 50m. Package weight: 1.165 kg Package size (L x W x H): 34.00 x 28.00 x 13.00 cm / 13.39 x 11.02 x 5.12 inches
-  Updated: 2025-12-16T06:17:18Z
+  Updated: 2025-12-21T19:10:25Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fMtE7c3KhmCBEfX.png?v=1765391088
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fMtE7c3KhmCBEfX.png?v=1766186525
   - [BLUE / WATER GUN](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870065945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
@@ -1049,65 +1049,65 @@ The New Age
   - [GREEN / 25FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870131481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $14.99 USD
   - [BLUE / 25FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870164249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $14.99 USD
   - [GREEN / 50FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870197017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $16.99 USD
   - [BLUE / 50FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870229785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $16.99 USD
   - [BLUE / 75FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870262553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $23.99 USD
   - [GREEN / 75FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870295321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $23.99 USD
   - [GREEN / 100FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870328089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $27.99 USD
   - [BLUE / 100FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870360857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $27.99 USD
   - [GREEN / 125FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870393625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $29.99 USD
   - [BLUE / 125FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870426393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $29.99 USD
   - [GREEN / 150FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870459161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $33.99 USD
   - [BLUE / 150FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870491929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $33.99 USD
   - [BLUE / 200FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870524697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lkN4dG66eyr5Z9K.png?v=1765391089
-    Price: $10.99 USD
+    Price: $35.99 USD
   - [GREEN / 200FT](https://the-new-age-7647.myshopify.com/products/flexible-garden-hose?variant=51753870557465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f2x3Xygwvxf0H7n.png?v=1765391088
-    Price: $10.99 USD
+    Price: $35.99 USD
 - [Transparent Wine Decanter](https://the-new-age-7647.myshopify.com/products/transparent-wine-decanter): Specifications: Item: Wine decanterMaterial: GlassSize: Small 350ml, large 750mlShape: Pyramid
-  Updated: 2025-12-15T19:37:33Z
+  Updated: 2025-12-21T19:10:26Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/gcl51oiGFMDZEr2.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/gcl51oiGFMDZEr2.jpg?v=1766186571
   - [Small](https://the-new-age-7647.myshopify.com/products/transparent-wine-decanter?variant=51753870590233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/avl35fCiEvO2JUv.jpg?v=1765391088
@@ -1117,11 +1117,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/RG08hoyAyQSpxeh.jpg?v=1765391088
     Price: $71.76 USD
 - [Neck Shoulder Stretcher Pillow](https://the-new-age-7647.myshopify.com/products/neck-shoulder-stretcher-pillow): If you're looking for a way to alleviate pain in your neck and shoulders, this Neck Shoulder Stretcher Pillow is the perfect solution. Made with micro elastic support and a comfortable elastic surface, this pillow can be used for 8 minutes each day to help stretch and relax your cervical spine. The unique C-shaped opening ensures downward pressure is evenly distributed, while the neck bone guide groove helps you maintain correct posture during use. Best of all, this Pillow makes a great gift for anyone suffering from neck pain! Product Description:Name: Neck Pillow
-  Updated: 2025-12-15T19:37:34Z
+  Updated: 2025-12-21T19:10:27Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/wK84oQQgRvm3XNF.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/wK84oQQgRvm3XNF.jpg?v=1766186571
   - [EVA Pink](https://the-new-age-7647.myshopify.com/products/neck-shoulder-stretcher-pillow?variant=51753870950681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/qk5sDb1hOBk9GaM.jpg?v=1765391089
@@ -1135,11 +1135,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/hvh8CJBrEHiXRff.jpg?v=1765391089
     Price: $11.70 USD
 - [Luxury Brand Sunglasses Men](https://the-new-age-7647.myshopify.com/products/luxury-brand-sunglasses-men): Polarized
-  Updated: 2025-12-15T19:37:34Z
+  Updated: 2025-12-21T19:10:28Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Gxc5Y4oToKVKPui.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Gxc5Y4oToKVKPui.jpg?v=1766186618
   - [BLACK-BLACK / Standard Package](https://the-new-age-7647.myshopify.com/products/luxury-brand-sunglasses-men?variant=51753871081753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f9SgHx1xzNC8Zuu.jpg?v=1765391089
@@ -1161,25 +1161,25 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/zbfVKA6KIZQ58oV.jpg?v=1765391089
     Price: $18.30 USD
 - [160ML Ultrasonic Air Humidifier Clear Cactus Color Light USB Essential Oil Diffuser Car Purifier Aroma Diffusor Anion Mist Maker](https://the-new-age-7647.myshopify.com/products/160ml-ultrasonic-air-humidifier-clear-cactus-color-light-usb-essential-oil-diffuser-car-purifier-aroma-diffusor-anion-mist-maker): Are you looking for a humidifier that will improve the quality of your air and make your home more comfortable? Look no further than the 160ML Ultrasonic Air Humidifier. This top-of-the-line humidifier is perfect for use in any room in your home, and it's even small enough to take with you when you travel. The 160ML Ultrasonic Air Humidifier features a built-in water tank that holds up to 160ML of water, making it ideal for use in rooms of all sizes. And because it's ultrasonic, it produces a fine mist that quickly spreads throughout the room, providing you with long-lasting relief from dry air. Material: ABS + Silicone Size: 93 * 45 * 124mm Color: crystal Power: 1.5-2W Voltage: DC5V Connect ways: 1 phone charger 2 Power bank 3. USB port for laptop Package includes: 1. Humidifier * 1 2 USB cable * 1 3 manual * 1
-  Updated: 2025-12-15T19:37:34Z
+  Updated: 2025-12-21T19:10:30Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/KIGo0sX7KYchXMp.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/KIGo0sX7KYchXMp.jpg?v=1766186664
   Price: $28.80 USD
 - [Crystal U-shaped 1500ml Wine Decanter](https://the-new-age-7647.myshopify.com/products/crystal-u-shaped-1500ml-wine-decanter-1): Introducing the Crystal U-shaped 1500 ml Wine Decanter, the perfect addition to your bar or wine collection. Crafted with lead-free crystal to create an elegant and sophisticated design, this wine decanter will add a unique and timeless touch to any occasion. Not only is it beautiful, but also practical. Featuring a unique U shape that is both creative and easy to pour, its aerating abilities allow for wines to breathe properly while creating an optimal flavor profile. Measuring at 30 cm x 20 cm x 20 cm, it has a maximum capacity of 1500 ml so you can generously pour your favorite red or white wines. Its exquisite details make it ideal for gifting to your family or friends. Get yours today!
-  Updated: 2025-12-15T19:37:34Z
+  Updated: 2025-12-21T19:10:30Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sMsSrcdRTFrXGMc_5fcea7f1-cd50-4ec6-92da-b3e751933bbf.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/sMsSrcdRTFrXGMc_5fcea7f1-cd50-4ec6-92da-b3e751933bbf.jpg?v=1766133946
   Price: $24.54 USD
 - [Dog pet Tennis Launcher](https://the-new-age-7647.myshopify.com/products/dog-pet-tennis-launcher): âPlay fetch with your pup without having to do any work! This automatic ball launcher launches the balls for you while keeping your dog entertained! This launcher has an adjustable distance to go 10,20, or 30 Feet. Exercise your dog indoors or outdoors with this toy! It contains 3 5cm balls, a power cord plug, a launcher, and a product brochure. This product gives dogs around the world the opportunity to play fetch to their hearts' content. With it, your dog will never be bored again. It brings you and your pets a playtime you both will love.
-  Updated: 2025-12-15T19:37:34Z
+  Updated: 2025-12-21T19:10:32Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yPk4ojYfNqXpIrd.jpg?v=1765391089
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yPk4ojYfNqXpIrd.jpg?v=1766186961
   - [UK PLUG New](https://the-new-age-7647.myshopify.com/products/dog-pet-tennis-launcher?variant=51753871278361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5mdhLkGqiK0SMYz.png?v=1765391089
@@ -1197,25 +1197,25 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5mdhLkGqiK0SMYz.png?v=1765391089
     Price: $118.35 USD
 - [Classic Wooden Men's Mechanical Watch](https://the-new-age-7647.myshopify.com/products/classic-wooden-mens-mechanical-watch): This luxury Classic Wooden Men's Mechanical Watch is the perfect accessory for any gentleman. Meticulously crafted from wood and stainless steel, this watch is built to last with a 30M waterproof rating and robust construction that will stand up to all your most demanding adventures. The unique hollow dial design features a transparent case back so you can see the intricate movements of the mechanism within, making it an object of art and a luxurious timepiece. The flexible strap makes it comfortable and fits various sizes of wrists. Whether at work or on vacation, wearing this watch is sure to add a touch of sophistication to your ensemble. With its stylish aesthetic and superior engineering, this watch will be something youâll treasure for years to come. Specifications:Dial Diameter: 44mmCase Thickness: 12.8mmWatch Length: 22cmBand Width: 22mmMovement: Mechanical MovementMirror Material: HardlexCase Material: Wood (Chacate Perto / Sandalwood)Strap Material: WoodWaterproof: 3BAR Package Include:1PC IK Colouring Mechanical Watch
-  Updated: 2025-12-15T22:13:42Z
+  Updated: 2025-12-22T16:30:36Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3Dib27v3if1IX34.jpg?v=1765391090
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3Dib27v3if1IX34.jpg?v=1766187103
   - [Red](https://the-new-age-7647.myshopify.com/products/classic-wooden-mens-mechanical-watch?variant=51753871540505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yvbktXAPAgnDqGb.jpg?v=1765391090
-    Price: $99.99 USD
+    Price: $49.99 USD
   - [Black](https://the-new-age-7647.myshopify.com/products/classic-wooden-mens-mechanical-watch?variant=51753871573273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7WhmWmX4IoO1vNW.jpg?v=1765391090
-    Price: $99.99 USD
+    Price: $49.99 USD
 - [Electric Laser Hair Growth Comb Infrared EMS RF Vibration Massager Microcurrent Hair Care Hair Loss Treatment Hair Regrowth](https://the-new-age-7647.myshopify.com/products/electric-laser-hair-growth-comb-infrared-ems-rf-vibration-massager-microcurrent-hair-care-hair-loss-treatment-hair-regrowth): Hair Growth Comb Feature 1.7 In 1 Innovated Technology:Infrared light, low-frequency RF, nano red light, electroporation, EMS micro-electricity, vibration massage, and RF. 2.Combined action of 3 beams of light plus a massage function significantly increases hair strength, improves hair quality and stops hair loss 3.Help to promote blood circle, relax and fatigue relief. Frequent use can prevent from headache or intermittent headache 4.Stop hair loss and makes hair grow thicker, stronger and healthier 5.Spectacular advance in Home Hair Treatment with Laser 6.Combines Laser Photo Therapy that sends nourishing, Low Level Laser Light Energy into your hair with Bio Stimulating Vibration Technology to stimulate circulation 7.Light is adopted to clean your hair root and makes hair smooth and healthy. For best results, use 10 minutes every other day Specification Item Type:Hair Growth Comb Color:White/Gold Material:ABS Input:100-240V Power:3W Photon Wavelength:630-650nm Weight:140g Size:4*19cm/1.57*7.48in Product Include 1*Main Machine 1*Support Base 1*USB 1*Manual 1*Box
-  Updated: 2025-12-15T19:37:34Z
+  Updated: 2025-12-21T19:10:34Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/DhMB4vDx6213UrC.jpg?v=1765391090
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/DhMB4vDx6213UrC.jpg?v=1766187197
   - [Gold without box](https://the-new-age-7647.myshopify.com/products/electric-laser-hair-growth-comb-infrared-ems-rf-vibration-massager-microcurrent-hair-care-hair-loss-treatment-hair-regrowth?variant=51753871409433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/X0fQdu6jNBl8Isw.png?v=1765391090
@@ -1233,11 +1233,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/We4JLpPRdtYJwjJ.jpg?v=1765391090
     Price: $83.34 USD
 - [Cute Desk Lamp](https://the-new-age-7647.myshopify.com/products/cute-desk-lamp): Introducing the Cute Desk Lamp! This adorable desk lamp is perfect for kids and cat lovers alike. The cute pet cat night light is USB rechargeable and features a warm white LED light, perfect for reading or studying without hurting your eyes. The 360Â° adjustable hose lets you position the light exactly where you need it, and the cute cartoon design is sure to brighten up any room. Get your Cute Desk Lamp today! Product Specifications: Shape: Cat Battery capacity: 400MAH Material: ABS Charging: USB Light source: LED Size: 8.5*6.5*26cm Package Includes: 1 * Table Lamp 1 * USB Cable
-  Updated: 2025-12-15T19:37:35Z
+  Updated: 2025-12-21T19:10:35Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7Q65V95lcqujDqG.jpg?v=1765391090
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7Q65V95lcqujDqG.jpg?v=1766187197
   - [1](https://the-new-age-7647.myshopify.com/products/cute-desk-lamp?variant=51753871606041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4ivpR4DK8BnGE0u.jpg?v=1765391090
@@ -1255,11 +1255,11 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jX3ZclRD7kK4vU8.jpg?v=1765391090
     Price: $8.70 USD
 - [Silicone Cylinder Portable Ice Maker Bucket](https://the-new-age-7647.myshopify.com/products/silicone-cylinder-portable-ice-maker-bucket): The Silicone Cylinder Portable Ice Maker Bucket is a must-have home appliance for any hot summer afternoon. It produces up to three batches of ice in as little as 15 minutes, so youâll always have cold drinks on hand. The easy-to-use design is intuitive and the sturdy silicone construction will last for years to come without breaking or cracking. The lid seals tightly and prevents moisture from escaping, while the interior tray structure makes it easy to safely remove your homemade ice from the bucket whenever needed. Keep your beverages cool and refreshing by adding this efficient and reliable ice maker machine to your kitchen tools collection today. Get perfect cubed ice anytime you need it with this highly durable and long lasting portable ice maker! Specification:Material: SiliconeSize: 9*8*8.5cmColor: Blue, Yellow Product List:1* Ice Tray Mold
-  Updated: 2025-12-15T19:37:35Z
+  Updated: 2025-12-21T19:10:37Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/tPhVmYQ06Zpx5o9.jpg?v=1765391090
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/tPhVmYQ06Zpx5o9.jpg?v=1766187246
   - [Blue](https://the-new-age-7647.myshopify.com/products/silicone-cylinder-portable-ice-maker-bucket?variant=51753871737113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/lCc6BDU7B9WoVK3.jpg?v=1765391090
@@ -1269,14 +1269,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/MalrcevhleFeGKP.jpg?v=1765391090
     Price: $4.17 USD
 - [Agenda Planner Notebook Diary](https://the-new-age-7647.myshopify.com/products/agenda-planner-notebook-diary): Material: PaperProduct Type: Notebook / DiaryColor Options: Light Pink + A5, Light Blue + A5, Add Highlight A + A5, Add Highlight C + A5Binding: Screw binding for durability and flexibilityPattern: Solid color design for a minimalist lookPackage Contents: 1 x Diary (Notebook) Optional: Diary + Set of 5 Colorful Pens
-  Updated: 2025-12-16T18:04:37Z
+  Updated: 2025-12-21T19:10:38Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Y9R2IjwQxPWP3myS.webp?v=1765400736
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Y9R2IjwQxPWP3myS.webp?v=1766187289
   - [Add highlighter AA5](https://the-new-age-7647.myshopify.com/products/agenda-planner-notebook-diary?variant=51754136994073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Y9R2IjwQxPWP3myS.webp?v=1765400736
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Y9R2IjwQxPWP3myS.webp?v=1766187289
     Price: $19.99 USD
   - [Add highlighter CA5](https://the-new-age-7647.myshopify.com/products/agenda-planner-notebook-diary?variant=51754137026841)
     Availability: Available
@@ -1291,14 +1291,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/mPgFbcXHO0GJEfdB.webp?v=1765400777
     Price: $19.99 USD
 - [4K HD Gaming Projector – Ultra-Clear and Smooth Display](https://the-new-age-7647.myshopify.com/products/4k-hd-gaming-projector-ultra-clear-and-smooth-display): Experience immersive gaming with this 4K HD Gaming Projector, designed for ultra-clear and smooth wireless projection. Compatible with various international standards, this projector is perfect for gaming and streaming with friends and family.Product Details: Material: Durable plastic and hardware Projection Type: Wireless screen projection Power Standards: European, British, American, and Australian Age Requirement: 18+ Package Dimensions: 258 x 255 x 150 mm Package Includes: Projector x 1 Controllers x 2 Remote control x 1
-  Updated: 2025-12-16T18:02:26Z
+  Updated: 2025-12-21T19:10:39Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/scVCuqVog8DVTtM8.webp?v=1765400740
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/scVCuqVog8DVTtM8.webp?v=1766187430
   - [AU](https://the-new-age-7647.myshopify.com/products/4k-hd-gaming-projector-ultra-clear-and-smooth-display?variant=51754137157913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/scVCuqVog8DVTtM8.webp?v=1765400740
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/scVCuqVog8DVTtM8.webp?v=1766187430
     Price: $252.85 USD
   - [EU](https://the-new-age-7647.myshopify.com/products/4k-hd-gaming-projector-ultra-clear-and-smooth-display?variant=51754137190681)
     Availability: Available
@@ -1313,14 +1313,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2k645kodPixFIZ4y.webp?v=1765400760
     Price: $252.85 USD
 - [Bachelorette Party Shirts - MC Hammered  | Can't Touch This](https://the-new-age-7647.myshopify.com/products/bachelorette-party-shirts-mc-hammered-cant-touch-this): Your bach is gonna be totally bomb.com with our new MC Hammered tank tops! This original exclusive design is screen printed with quality black and white, inks, and then embellished by hand with super fly rainbow iridescent foil. Peep it in action: These shirts sparkle so hard, your squad's gonna be like: PRODUCT DETAILS Soft poly-cotton blend fabric (90% Cotton, 10% Polyester) Longer, relaxed boyfriend style fit - we recommend ordering a size down if you're hoping for a more fitted silhouette to match your hammer pants. Fully machine washable - turn inside out and air dry to keep that foil fresh. Backed by a 100% satisfaction guarantee
-  Updated: 2025-12-15T19:37:35Z
+  Updated: 2025-12-21T19:10:41Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/XEG4jqTdLTPKJT9.webp?v=1765400751
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/XEG4jqTdLTPKJT9.webp?v=1766187429
   - [MC Hammered - Black / XS](https://the-new-age-7647.myshopify.com/products/bachelorette-party-shirts-mc-hammered-cant-touch-this?variant=51754137452825)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/XEG4jqTdLTPKJT9.webp?v=1765400751
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/XEG4jqTdLTPKJT9.webp?v=1766187429
     Price: $29.99 USD
   - [Can't Touch This - White / M](https://the-new-age-7647.myshopify.com/products/bachelorette-party-shirts-mc-hammered-cant-touch-this?variant=51754137485593)
     Availability: Available
@@ -1367,18 +1367,18 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eztepesSLuYj3JJ.webp?v=1765400909
     Price: $29.99 USD
 - [Faith Over Fear Hoodie](https://the-new-age-7647.myshopify.com/products/faith-over-fear-hoodie): Designed with comfort and meaning in mind, this hoodie features the empowering message "Faith Over Fear," encouraging strength and trust in the face of challenges. Crafted from high-quality materials, it is soft, cozy, and perfect for casual outings, church events, or as a meaningful gift for loved ones. Its timeless design makes it a versatile addition to any wardrobe, offering both comfort and a positive message.
-  Updated: 2025-12-15T19:37:35Z
+  Updated: 2025-12-21T19:10:46Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/pNzq04r7Pbo7F47y.webp?v=1765400766
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/pNzq04r7Pbo7F47y.webp?v=1766187478
   - [Apricot / S](https://the-new-age-7647.myshopify.com/products/faith-over-fear-hoodie?variant=51754138108185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/pk4Nt8s6b07rPtPj.webp?v=1765401448
     Price: $29.99 USD
   - [Apricot / M](https://the-new-age-7647.myshopify.com/products/faith-over-fear-hoodie?variant=51754138140953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/pNzq04r7Pbo7F47y.webp?v=1765400766
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/pNzq04r7Pbo7F47y.webp?v=1766187478
     Price: $29.99 USD
   - [Black / S](https://the-new-age-7647.myshopify.com/products/faith-over-fear-hoodie?variant=51754138173721)
     Availability: Available
@@ -1573,7 +1573,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/69kPj13UGquE6kIe.webp?v=1765401044
     Price: $29.99 USD
 - [Non-Irritating Hair Color Developer](https://the-new-age-7647.myshopify.com/products/non-irritating-hair-color-developer): Experience safe and vibrant hair coloring with this Non-Irritating Hair Color Developer: Gentle Formula: Minimizes scalp irritation and damage. Effective Color Activation: Ensures consistent, vibrant results. Versatile Use: Compatible with a variety of hair dyes. Professional Quality: Ideal for home or salon use. Easy Application: Smooth consistency for hassle-free mixing and application. Achieve salon-quality color with confidence and comfort!
-  Updated: 2025-12-15T19:37:36Z
+  Updated: 2025-12-22T11:47:11Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1591,7 +1591,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VeJ82I37nXDlt1JO.webp?v=1765400832
     Price: $15.99 USD
 - [Bigfoot Lives Matter 17oz Stainless Water Bottle](https://the-new-age-7647.myshopify.com/products/bigfoot-lives-matter-17oz-stainless-water-bottle): DRINKS STAY COLD OR HOT: Our stainless steel bottle with double-walled, vacuum insulation and a leakproof cap will keep your drinks hot or cold just the way you like them.DITCH THE DECALS: No more dingy decals! Outdoorzees cups feature UV printed designs that stand the test of time.ATTENTION GRABBERS: Get ready to be an attention magnet! Studies show that 72.3% of people will like you more. It's proven.Features:*Perfect for outdoor activities, workouts, travel, and everyday use*Designed to be strong and long-lasting*Lightweight, durable and easy to carry*BPA-free materials*Stainless steel bottle holds 17 oz (502ml) and comes with a leak proof cap*Reusable and Ecofriendly
-  Updated: 2025-12-15T19:37:36Z
+  Updated: 2025-12-22T12:12:00Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1609,7 +1609,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/grZQqfbTosaA4Cf.webp?v=1765400808
     Price: $24.99 USD
 - [Double Hood Fleece-Lined Sweater](https://the-new-age-7647.myshopify.com/products/double-hood-fleece-lined-sweater): Stay cozy and stylish with this Fleece-Lined Double Hood Hooded Sweater. Designed with a unique double hood feature, it offers extra warmth and a trendy layered look. The soft fleece lining ensures maximum comfort, making it perfect for chilly days. Its relaxed fit and modern design make it suitable for casual outings or lounging at home. Elevate your wardrobe with this versatile and fashionable hoodie that combines style and functionality effortlessly.Product Information: Color: black, white, black pure cotton, white pure cotton, gray, wine red, light graySize: S,M,L,XL,XXLVersion: LooseStyle type: Street hipsterCombination form: Single piecePopular elements: 3D/stereo patternStyle: pulloverThickness: mediumMain fabric composition: Polyester (polyester fiber)Length: ordinary (50cm
-  Updated: 2025-12-15T19:37:36Z
+  Updated: 2025-12-21T19:10:51Z
   Vendor: The New Age
   Product Type: Atlas - Shipping Protection
   Availability: Available
@@ -1759,7 +1759,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5sz1g25b415QvImz.webp?v=1765401171
     Price: $39.99 USD
 - [Forever Fishing' Stainless Steel Water Bottle](https://the-new-age-7647.myshopify.com/products/forever-fishing-stainless-steel-water-bottle): Hot drinks should stay hot and cold drinks should stay cold. This stainless steel bottle can do both, and it will also cheer you up any day. Cool off in the summer and stay warm in the winter, even on the go. The design will stay just as vibrant over time, and this bottle will become a fun everyday essential. • High-grade stainless steel • 17 oz (500 ml) • Dimensions: 10.5″ × 2.85″ (27 × 7 cm) • Vacuum flask • Double-wall construction • Bowling pin shape • Odorless and leak-proof cap • Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h) • Patented ORCA coating for vibrant colors • Hand-wash only (dishwasher not recommended due to vacuum seal) Disclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell.
-  Updated: 2025-12-15T19:37:36Z
+  Updated: 2025-12-22T12:12:28Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1780,26 +1780,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Nho8npIbrB9ODf7_8c9ff3a9-3f68-4a5e-afe7-63db36369ad8.webp?v=1765400884
     Price: $24.99 USD
-- [Karaoke Machine for Kids - Bluetooth Speaker with 2 Microphone - Portable Kids Karaoke Machine for Girls and Boys - Birthday Gift for Girls and Boys Ages 2 Years Old and Up.](https://the-new-age-7647.myshopify.com/products/karaoke-machine-for-kids-bluetooth-speaker-with-2-microphone-portable-kids-karaoke-machine-for-girls-and-boys-birthday-gift-for-girls-and-boys-ages-2-years-old-and-up): BRING THE PARTY ANYWHERE - Risebass Wireless Karaoke Machine is designed to be extremely lightweight for unrivaled portability. This Speaker for easy carrying - perfect for kids and adults! INCLUDES 2 MICROPHONES - Each Speaker Set is equipped with 2 Wired Microphones that produces high-quality sound. This is suitable for karaoke nights, school programs, indoor and outdoor events, and whenever you need an extra volume boost. PRENIUM SOUND QUALITY - With high quality large size audio amplifiers, this karaoke machine provides you great experience of sound effect. The sound is clear and soft. The microphone sound volume and echo level can be adjusted separately. The rotary knobs design fits for kids to use. LED LIGHTING EFFECTS - Our Karaoke Machine is a Light-Up Speaker System with multicolored LED lighting effects. It adds an amazing party atmosphere whether you're at the beach, garden, gym, park, and even in your backyard! MORE POWERFUL THAN EVER - This Portable Bluetooth Speaker comes in a very compact design but delivers powerful output. Its built-in 2400mAh battery charges easily via USB cable. It provides long hours of non-stop music streaming and karaoke parties without having to worry about plugging in from time to time.
-  Updated: 2025-12-15T22:13:08Z
-  Vendor: The New Age
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/PQsJJnl6t0RzhhAE.webp?v=1765400828
-  - [Single Unit](https://the-new-age-7647.myshopify.com/products/karaoke-machine-for-kids-bluetooth-speaker-with-2-microphone-portable-kids-karaoke-machine-for-girls-and-boys-birthday-gift-for-girls-and-boys-ages-2-years-old-and-up?variant=51754143056153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/PQsJJnl6t0RzhhAE.webp?v=1765400828
-    Price: $229.99 USD
-  - [n/a](https://the-new-age-7647.myshopify.com/products/karaoke-machine-for-kids-bluetooth-speaker-with-2-microphone-portable-kids-karaoke-machine-for-girls-and-boys-birthday-gift-for-girls-and-boys-ages-2-years-old-and-up?variant=51754143088921)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/EEbTlO1loWuovvKQfn5y_26d6ec8b-68cd-4c7e-8bca-8418222cf6ad.webp?v=1765400919
-    Price: $229.99 USD
-  - [Case (8-Pack)](https://the-new-age-7647.myshopify.com/products/karaoke-machine-for-kids-bluetooth-speaker-with-2-microphone-portable-kids-karaoke-machine-for-girls-and-boys-birthday-gift-for-girls-and-boys-ages-2-years-old-and-up?variant=51754143121689)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/dUjZEmMNLtYEJhuK.webp?v=1765400868
-    Price: $229.99 USD
 - [Men's Straight Leg Ripped Jeans with Embroidery – European and American Style](https://the-new-age-7647.myshopify.com/products/mens-straight-leg-ripped-jeans-with-embroidery-european-and-american-style): DescriptionMaterial: ClothProduct Attributes: ClothingPackage Size: 30020030 (1mm)Product Information: Color Options: Blue, Black Elasticity: Micro elasticity Waist Type: Mid-rise Style: Straight-leg pants Fabric Name: Denim Main Fabric Composition: Polyester Fiber (polyester) Size Information:Available Sizes: S, M, L, XL, XXLImportant Notes: Asian sizes tend to run 1 to 2 sizes smaller than European and American sizes. If you fall between sizes, we recommend choosing the larger size. Please allow for 2-3cm variations due to manual measurement. Be sure to check the size chart carefully before making your purchase. If you need assistance with sizing, please reach out to our customer service team. Please note that different computer displays may show colors differently; the actual item may vary slightly from the images shown. Packing List:Pants * 1
-  Updated: 2025-12-15T22:12:31Z
+  Updated: 2025-12-22T12:27:24Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1845,7 +1827,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3nioLGwTw2SaNkNN.webp?v=1765400840
     Price: $34.99 USD
 - [Whiteboard Wall Sticker](https://the-new-age-7647.myshopify.com/products/whiteboard-wall-sticker): Product Description: Plastic Electrostatic Adsorption Whiteboard Wall StickerTransform any smooth wall or surface into a functional, dry-erase whiteboard with our Plastic Electrostatic Adsorption Whiteboard Wall Sticker. Ideal for home offices, classrooms, or even kitchen planning areas, this versatile wall sticker provides a convenient, space-saving solution for brainstorming, note-taking, and organizing your thoughts. The electrostatic adsorption technology allows it to stick securely without adhesive, making it easy to apply and remove without leaving residue or damaging your walls.Key Features: Electrostatic Adsorption Technology: The sticker uses electrostatic force to cling to any smooth surface without the need for glue or tape, allowing for easy application and removal without leaving marks or residue. Durable & Writable Surface: A high-quality, smooth surface perfect for dry-erase markers, making it ideal for notes, to-do lists, or presentations. Easily wipe off with a dry cloth or eraser. Large, Customizable Size: Available in a variety of sizes to fit different spaces, or can be trimmed to your desired dimensions for a perfect fit. No Damage to Walls: Can be applied and removed easily from walls, glass, and other smooth surfaces without leaving any sticky residue or causing damage. Multi-Purpose Use: Ideal for home offices, classrooms, kitchens, or as a project planner in living spaces. Great for work or study areas where quick writing and erasing is needed. Eco-Friendly & Reusable: Made from environmentally friendly materials, this wall sticker is durable, reusable, and designed to last for long periods of use. Specifications: Material: High-quality PVC plastic with electrostatic adsorption properties. Dimensions: Available in multiple sizes (e.g., 17.7" x 78.7", 23.6" x 118", or customizable). Color: White (with a smooth, glossy finish). Thickness: Thin and lightweight, designed to easily fit against walls without bulging. Compatibility: Works best on smooth, clean surfaces like painted walls, glass, or metal. Care Instructions: Clean with a dry or damp cloth to maintain a smooth surface. Do not use abrasive cleaners to avoid damaging the surface. Can be easily repositioned or trimmed to fit your needs. Perfect For: Home offices, student rooms, or brainstorming areas. Classroom settings where interactive writing and drawing are needed. Organizing tasks, grocery lists, or to-do lists in kitchens or living rooms. Creating custom-sized whiteboards for creative or professional workspaces. Upgrade your workspace with the Plastic Electrostatic Adsorption Whiteboard Wall Sticker and enjoy a clean, reusable writing surface wherever you need it!
-  Updated: 2025-12-15T22:12:12Z
+  Updated: 2025-12-22T12:29:17Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1903,7 +1885,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/p6gwpScSh7mhFXgQ.webp?v=1765400956
     Price: $14.99 USD
 - [LED String Lights for Christmas Tree Decoration](https://the-new-age-7647.myshopify.com/products/led-string-lights-for-christmas-tree-decoration): Illuminate your holiday season with our enchanting Christmas String Lights. Designed with 64 LED lights, these beautiful decorations will bring a warm and festive glow to your home. Each string features 8 wires, measuring 1.5 meters in length, adorned with 8 lamp beads on each wire, ensuring a dazzling display that captures the spirit of Christmas. Crafted from high-quality PP material, these lights are not only durable but also versatile, making them perfect for both indoor and outdoor use. Whether you're adorning your Christmas tree, draping them around your windows, or creating a magical atmosphere for your holiday parties, these lights are sure to impress. Available in two charming styles, EU and US, you can choose the perfect fit for your festive decorations. The compact color box size of 19*26.5*10cm makes it easy to store when the holiday season comes to an end. Don't miss out on the chance to make your celebrations brighter and more beautiful. Check out the stunning images below to see how these lights can transform your space!
-  Updated: 2025-12-15T22:11:55Z
+  Updated: 2025-12-22T12:30:11Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1917,7 +1899,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/qELzXEpQRnoT9k4L.webp?v=1765403117
     Price: $59.99 USD
 - [LED Solar String Lights for Christmas Garden Decor](https://the-new-age-7647.myshopify.com/products/led-solar-string-lights-for-christmas-garden-decor): Illuminate your garden or outdoor space this festive season with our Christmas Lights Garden LED Solar String Lights. These enchanting lights are designed to create a magical ambiance, perfect for celebrating special occasions or simply enhancing the beauty of your garden. Crafted with a durable PVC dark green wire, these lights are not only aesthetically pleasing but also built to last. With an impressive IP44 waterproof rating, they can withstand various weather conditions, ensuring they remain bright and beautiful year-round. The energy-saving Taiwan waterproof chip LED lamp beads provide pure luminescence and high brightness, while also boasting a long lifespan of up to 60,000 hours. Choose between two lighting modes: always on or flashing, to set the perfect mood for any occasion. With a quick charging time of just 6-8 hours of sunlight, these lights can shine for 8-12 hours on a full charge, making them incredibly convenient and energy-efficient. Each set comes complete with essential accessories including a soil plug, sealing sticker, bubble bag, and color code, ensuring you have everything you need to get started. Available in multiple sizes and colors, from warm white to vibrant multi-colored options, there’s a perfect choice for every taste and space. Transform your outdoor area into a delightful wonderland with our Christmas Lights Garden LED Solar String Lights and let the festivities begin!
-  Updated: 2025-12-15T22:11:36Z
+  Updated: 2025-12-22T12:30:48Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -1984,7 +1966,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/u8PJDIh6tz4jPFcO.webp?v=1765403117
     Price: $39.99 USD
 - [Garden LED Solar String Lights for Christmas Decor](https://the-new-age-7647.myshopify.com/products/garden-led-solar-string-lights-for-christmas-decor): Transform your outdoor spaces into a magical wonderland with our Christmas Lights Garden LED Solar String Lights. Designed with versatility and durability in mind, these lights are the perfect addition to your holiday décor or any special occasion. Crafted from high-quality PVC dark green wire, the lights are not only aesthetically pleasing but also engineered to withstand harsh weather conditions. With an impressive IP44 waterproof rating, these lights can resist moisture, high temperatures, and oxidation, ensuring they remain vibrant through every season. Featuring Taiwan waterproof chip LED energy-saving lamp beads, these lights provide a brilliant illumination while being eco-friendly. Experience up to 60,000 hours of lifelike luminosity with minimal energy consumption. Plus, with modes for both steady and flashing lights, you can easily customize the ambiance for any event. Enjoy hassle-free setup with the included soil plug and sealing sticker, allowing you to effortlessly position the lights wherever you desire. After just 6-8 hours of charging in sunlight, you can illuminate your space for 8-12 hours at night, ensuring the festivities never dim! Choose from a variety of sizes and colors, including vibrant multi-color options and warm white hues, so you can find the perfect match for your aesthetic. Don't wait to create a stunning visual display! Check out our selection of 12 different variations to light up your garden, patio, or any outdoor area, making every moment a celebration.
-  Updated: 2025-12-15T22:11:21Z
+  Updated: 2025-12-22T12:31:58Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2036,7 +2018,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/mDVp7QqhjTzwCtUc.webp?v=1765403134
     Price: $39.99 USD
 - [Christmas Wine Bottle Covers](https://the-new-age-7647.myshopify.com/products/christmas-wine-bottle-covers): Get ready to celebrate the festive season with our exquisite Christmas Wine Bottle Sets for Holiday Decor. These creative and charming wine bottle covers are perfect for adding a touch of holiday cheer to your gatherings, whether at home, in restaurants, or during special events. Crafted from high-quality cloth, these decorative wine bottle covers come in a variety of delightful designs, ensuring there's something for everyone! Choose from options like the Gingerbread Man, Snowman, Old Man, and many more to suit your holiday theme. Each cover is meticulously designed to enhance the charm of your wine bottles, making them ideal for gifting or decorating your own table. With 12 unique variations to select from, including whimsical Snowflakes and adorable Elk sets, you can mix and match to create a festive atmosphere that your guests will love. Each set is packaged in an OPP bag, ensuring they stay pristine until you're ready to showcase them.
-  Updated: 2025-12-15T22:11:01Z
+  Updated: 2025-12-22T12:31:58Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2090,7 +2072,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/oqrNNrJ4Vwrh6Q6Q.webp?v=1765403203
     Price: $14.99 USD
 - [Christmas Stocking Gift Bag](https://the-new-age-7647.myshopify.com/products/christmas-stocking-gift-bag): Bring joy and warmth to your holiday season with our delightful Christmas Sock Gift Bags - Holiday Decorations. Crafted from high-quality non-woven material, these charming decorations are not only practical but also add a festive touch to your home. Each bag measures 21.5*50.5*24cm, making them the perfect size for filling with goodies and gifts.Choose from a variety of adorable designs including the Old Man, Snowman, and Elk, each one designed to bring a smile to your loved ones' faces. The vibrant colors and playful characters are sure to enhance your Christmas decor and create lasting memories.Available in four unique variations, you can pick your favorite color to match your holiday theme. Perfect for stuffing with treats or small gifts, these Christmas sock bags are a great way to add a personal touch to your celebrations. Make your Christmas extra special this year!
-  Updated: 2025-12-15T22:10:46Z
+  Updated: 2025-12-21T19:11:04Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2112,7 +2094,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/SBXhYh0BGF6cZxPJ.webp?v=1765403196
     Price: $24.99 USD
 - [Festive Family Outfits](https://the-new-age-7647.myshopify.com/products/festive-family-outfits): Celebrate the joy of family time with our Festive Family Matching Christmas Outfits. Designed for all genders, this cozy and stylish collection is perfect for parents and children alike, making it a great choice for family gatherings, cozy nights in, or casual outings.Crafted from a soft chemical fiber blend, the fabric offers exceptional comfort and a gentle touch against the skin. With an abstract pattern, this home wear set adds a modern flair to your family’s wardrobe. The general thickness ensures it's suitable for various seasons, making it a versatile addition to your loungewear collection.Made entirely from high-quality polyester fiber, this outfit is durable and easy to care for, ensuring it will stand up to everyday wear. Plus, it meets Class B safety standards, so you can feel confident and secure while enjoying time together. Whether you're relaxing at home or making memories during family activities, these matching outfits bring everyone together in style and comfort.
-  Updated: 2025-12-15T22:10:27Z
+  Updated: 2025-12-21T19:11:06Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2218,7 +2200,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/q1kJv8TK41lwNQux.webp?v=1765403394
     Price: $24.99 USD
 - [Dark Green Glow Safety Tape - Self-Adhesive Fluorescent Tape for Safety and Decor](https://the-new-age-7647.myshopify.com/products/dark-green-glow-safety-tape): Get the Dark Green Glow Safety Tape, a luminous self-adhesive tape that glows in the dark, perfect for safety, decoration, and creative projects. Durable and easy to use.
-  Updated: 2025-12-17T23:00:32Z
+  Updated: 2025-12-21T19:11:07Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2236,7 +2218,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8uhpoZYETcpVoCnC.webp?v=1766012399
     Price: $21.35 USD
 - [Santa Claus Climbing Toy - Festive Christmas Decoration Figurines](https://the-new-age-7647.myshopify.com/products/santa-claus-climbing-toy): Shop the Santa Claus Climbing Toy, perfect for Christmas decorations. Brighten your holiday with charming Santa figurines that bring joy and festive spirit.
-  Updated: 2025-12-17T23:00:18Z
+  Updated: 2025-12-22T12:40:40Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2398,7 +2380,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/nnUtZ97DPeIMwwY5.webp?v=1766005438
     Price: $24.99 USD
 - [Santa Claus Toilet Seat Cover - Festive Holiday Bathroom Decor](https://the-new-age-7647.myshopify.com/products/santa-claus-toilet-seat-cover): Transform your bathroom with our Santa Claus Toilet Seat Cover. Perfect for holiday decor, add a cozy, festive touch to your bathroom this season.
-  Updated: 2025-12-17T23:00:23Z
+  Updated: 2025-12-22T12:39:46Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2420,7 +2402,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xbn15B1wAX2dZhgX.webp?v=1766005420
     Price: $19.99 USD
 - [Knitted Christmas Letter Socks - Festive Holiday Socks for All Ages](https://the-new-age-7647.myshopify.com/products/knitted-christmas-letter-socks): Discover the perfect holiday gift with Knitted Christmas Letter Socks. Cozy, stylish, featuring explosive snowflakes, ideal for Christmas celebrations.
-  Updated: 2025-12-17T23:00:31Z
+  Updated: 2025-12-22T12:38:51Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2514,7 +2496,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jRqzRfLZ95Enb4YM.webp?v=1766005405
     Price: $21.92 USD
 - [Christmas LED String Lights - Festive Holiday Decor for Indoor & Outdoor](https://the-new-age-7647.myshopify.com/products/christmas-led-string-lights): Decorate your home with Christmas LED String Lights, featuring Snowman and Santa designs. Durable and energy-efficient, perfect for indoor and outdoor use.
-  Updated: 2025-12-17T23:00:18Z
+  Updated: 2025-12-22T12:38:13Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2592,7 +2574,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/rT3ZnJQhs9A46ECM.webp?v=1766005397
     Price: $36.68 USD
 - [Knitted Christmas Letter Socks - Festive Holiday Socks for Everyone](https://the-new-age-7647.myshopify.com/products/knitted-christmas-letter-socks-1): Celebrate the season with our Knitted Christmas Letter Socks, perfect for gifting and adding warmth to your holiday wardrobe. Vibrant snowflakes make every pair special.
-  Updated: 2025-12-17T23:00:32Z
+  Updated: 2025-12-22T12:33:58Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2686,7 +2668,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/jRqzRfLZ95Enb4YM_d7118a3f-c66b-4e04-8b96-9446f6b653ef.webp?v=1766005357
     Price: $14.99 USD
 - [Christmas LED Suction Cup Lights - Brighten Your Holiday Decor](https://the-new-age-7647.myshopify.com/products/christmas-led-suction-cup-lights): Shop the best Christmas LED Suction Cup Lights for festive decoration. Durable, colorful, and easy to use, perfect for creating a cozy holiday atmosphere.
-  Updated: 2025-12-17T23:00:23Z
+  Updated: 2025-12-22T12:33:16Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2756,7 +2738,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/uYrxpBC2t7uRgVNf.webp?v=1766005363
     Price: $29.99 USD
 - [Shut The Box Board Game - Classic Dice Game for All Occasions](https://the-new-age-7647.myshopify.com/products/deluxe-shut-the-box-board-game): Discover the exciting Shut The Box Board Game, perfect for family nights, parties, and gatherings. Enjoy lively fun with this durable, high-quality game set.
-  Updated: 2025-12-17T23:00:24Z
+  Updated: 2025-12-22T12:32:36Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2778,7 +2760,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0W6nl4lNfAAEsemy.webp?v=1766005332
     Price: $19.99 USD
 - [LED RGB Luminous Mouse Pad - Vibrant Gaming & Office Accessory](https://the-new-age-7647.myshopify.com/products/led-rgb-luminous-mouse-pad): Discover the LED RGB Luminous Mouse Pad with vibrant RGB lighting, large surface, and perfect size for gaming and office use, enhancing your workspace.
-  Updated: 2025-12-17T23:00:23Z
+  Updated: 2025-12-22T12:06:11Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2800,7 +2782,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/90e7e8e24096a9939063b8486029.png?v=1765403210
     Price: $97.78 USD
 - [Dark Green Glow Safety Tape - Bright, Durable Fluorescent Marking](https://the-new-age-7647.myshopify.com/products/dark-green-glow-safety-tape-1): Discover the Dark Green Glow Safety Tape, a luminous self-adhesive tape perfect for safety, decoration, and creative projects. Glow in the dark with durable PP material.
-  Updated: 2025-12-17T23:00:25Z
+  Updated: 2025-12-22T12:05:33Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2818,7 +2800,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8uhpoZYETcpVoCnC_41c48426-7b19-4bef-bfa7-7e68909f49b9.webp?v=1766005348
     Price: $21.35 USD
 - [Festive Family Matching Christmas Outfits - Cozy & Stylish for All Genders](https://the-new-age-7647.myshopify.com/products/festive-family-outfits-1): Discover Festive Family Matching Christmas Outfits designed for all genders. Perfect for family gatherings, cozy nights, or casual outings with comfortable style.
-  Updated: 2025-12-17T23:00:27Z
+  Updated: 2025-12-22T12:04:53Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2924,28 +2906,21 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/q1kJv8TK41lwNQux_007f8b10-3ebf-450d-acfe-8ad2b0e17f07.webp?v=1766005289
     Price: $42.99 USD
 - [6-head Massage Gun Deep Tissue Relief for Full Body Recovery](https://the-new-age-7647.myshopify.com/products/6-head-massage-gun-full-body-deep): Experience full body relaxation with the 6-head Massage Gun, featuring 9 modes, adjustable gear, and powerful deep tissue relief for effective muscle recovery.
-  Updated: 2025-12-17T23:00:21Z
+  Updated: 2025-12-22T12:04:11Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/WJgK6Rb3d1WwA7AP.webp?v=1766012420
   Price: $59.99 USD
-- [Example product - High Quality and Affordable](https://the-new-age-7647.myshopify.com/products/other-example-product-1): Discover the best features of the Example product. Perfect for your needs, it offers quality and affordability in one great package.
-  Updated: 2025-12-17T23:00:13Z
-  Vendor: The New Age
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/other-product-1.jpg?v=1766005333
-  Price: $100.00 USD
 - [Shipping Protection - Secure Your Orders from Loss, Theft, or Damage](https://the-new-age-7647.myshopify.com/products/shipping-protection): Get Shipping Protection to safeguard your orders from loss, theft, or damage. Ensure your shipments are protected with reliable shipping protection today.
-  Updated: 2025-12-17T23:00:18Z
+  Updated: 2025-12-22T12:02:49Z
   Vendor: The New Age
   Product Type: Atlas - Shipping Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/shield.png?v=1766012416
   Price: $2.99 USD
 - [All-in-One Sweep & Mop Machine - Compact USB Cleaner for Efficient Households](https://the-new-age-7647.myshopify.com/products/all-in-one-sweep-mop-machine): Discover the all-in-one sweep & mop machine, a USB-powered household cleaner in black or white, with 70m² coverage and up to 60 mins battery life for quick cleaning.
-  Updated: 2025-12-18T03:06:33Z
+  Updated: 2025-12-22T12:01:55Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2959,7 +2934,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VLPRCHDZWg9Zh6myqoEo.webp?v=1766005329
     Price: $69.99 USD
 - [Manual Coffee Grinder - Adjustable & Portable for Perfect Coffee](https://the-new-age-7647.myshopify.com/products/adjustable-manual-coffee-grinder): Discover the best Manual Coffee Grinder with adjustable settings and stainless steel burrs for a rich, aromatic coffee experience every time. Portable and easy to clean.
-  Updated: 2025-12-17T23:00:30Z
+  Updated: 2025-12-22T12:01:26Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2973,7 +2948,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/WMU3rXLbCt6YmHVv.webp?v=1766005346
     Price: $47.99 USD
 - [Interactive Cat Toy Launcher - Safe Indoor Cat Toy for Playfulness](https://the-new-age-7647.myshopify.com/products/interactive-cat-toy-launcher): Get the Interactive Cat Toy Launcher to keep your cat entertained indoors. This fun toy shoots foam discs, encouraging jumping, chasing, and catching.
-  Updated: 2025-12-18T03:06:32Z
+  Updated: 2025-12-22T12:01:00Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -2987,7 +2962,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/QOrvAUfVb8jgyEAA.webp?v=1766005319
     Price: $19.99 USD
 - [360-degree retractable waterproof phone holder - Stylish Bathroom Accessory](https://the-new-age-7647.myshopify.com/products/360-degree-phone-holder): Discover the 360-degree retractable waterproof phone holder, perfect for hands-free entertainment in your bathroom. Keep your device safe and dry with style.
-  Updated: 2025-12-17T23:00:27Z
+  Updated: 2025-12-22T11:59:43Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -3009,7 +2984,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/G9BWSwtI7t0J9zhp.webp?v=1766012321
     Price: $19.99 USD
 - [Headwolf FPad7 PRO Android Tablet with 8-inch Display & 512GB Storage](https://the-new-age-7647.myshopify.com/products/headwolf-fpad7-pro-android-15-tablet-8-inch-2-5k-hd-max-16gb-512gb-6500mah-pd18w-8mp-16mp-camera-sim-4g-lte-wifi-6): Discover the Headwolf FPad7 PRO with an 8-inch HD display, 16GB+512GB memory, 4G LTE, dual cameras, and Android 15 for seamless performance.
-  Updated: 2025-12-17T23:00:19Z
+  Updated: 2025-12-22T11:59:14Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -3027,7 +3002,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S032c7d9c298b4d3082d041c81c64cc77M.webp?v=1766005301
     Price: $297.05 USD
 - [15.6" Laptop: High-Performance Notebook with Intel i7 & 32GB RAM](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop): Discover the powerful 15.6" Laptop featuring Intel Celeron i7-6500, 32GB RAM, 2TB SSD, and Windows 11 for gaming, study, and daily use. Buy now!
-  Updated: 2025-12-17T23:00:22Z
+  Updated: 2025-12-22T11:58:21Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
@@ -3053,125 +3028,800 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A3a4db9e74c8d4995bb04619bff1c5194I.webp?v=1766005317
     Price: $442.80 USD
 - [HP 14" Business Laptop - Reliable Performance with Intel Celeron](https://the-new-age-7647.myshopify.com/products/hp-newest-14-business-laptop-intel-celeron-n4120-up-to16gb-ram-384gb-storage128gb-emmc-256gb-micro-sd-1year-office-365-silver): Discover the HP 14" Business Laptop with Intel Celeron N4120, up to 16GB RAM, 384GB Storage, and 1 Year Office 365. Perfect for your business needs.
-  Updated: 2025-12-17T23:00:19Z
+  Updated: 2025-12-22T11:58:47Z
   Vendor: The New Age
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A24caeb90d4db47dbb712a30ae3399ca3D.webp?v=1766012418
   Price: $240.15 USD
+- [Muscle Boost Gummies - Delicious Creatine & Vitamin Supplement for Energy](https://the-new-age-7647.myshopify.com/products/muscle-boost-gummies): Enhance your fitness with Muscle Boost Gummies, a tasty supplement packed with creatine and vitamins to support energy, endurance, and muscle recovery daily.
+  Updated: 2025-12-22T11:57:21Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CdQURLORYWmzcTcq.webp?v=1766133425
+  Price: $44.49 USD
+- [Automatic Rebound Abdominal Wheel for Core Training - Durable & Colorful](https://the-new-age-7647.myshopify.com/products/automatic-rebound-abdominal-wheel): Get fit with the automatic rebound abdominal wheel designed for efficient core training. Perfect for home workouts, lightweight, and available in multiple colors.
+  Updated: 2025-12-22T11:56:50Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/y7uzadUw9bZ3SEyb.webp?v=1766133425
+  - [Gray Without Table Hassock](https://the-new-age-7647.myshopify.com/products/automatic-rebound-abdominal-wheel?variant=51779625025817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/y7uzadUw9bZ3SEyb.webp?v=1766133425
+    Price: $79.77 USD
+  - [Blue Without Table Hassock](https://the-new-age-7647.myshopify.com/products/automatic-rebound-abdominal-wheel?variant=51779625058585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/vOjrm6oPfXVXdCrK.webp?v=1766133428
+    Price: $79.77 USD
+  - [Black Without Watch Hassock](https://the-new-age-7647.myshopify.com/products/automatic-rebound-abdominal-wheel?variant=51779625091353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Eo0NNUYmxCtiZco7.webp?v=1766133456
+    Price: $79.77 USD
+  - [Orange Without Table Hassock](https://the-new-age-7647.myshopify.com/products/automatic-rebound-abdominal-wheel?variant=51779625124121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/kKkGBQuNcI5BRPt5.webp?v=1766133445
+    Price: $79.77 USD
+  - [Pink Without Watch Hassock](https://the-new-age-7647.myshopify.com/products/automatic-rebound-abdominal-wheel?variant=51779625156889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/CsJ6pcGfS6KoTft5.webp?v=1766133447
+    Price: $79.77 USD
+- [Pilates Sliding Board - Compact Home Gym Equipment for Full-Body Workouts](https://the-new-age-7647.myshopify.com/products/compact-pilates-sliding-board): Discover the Pilates Sliding Board, a compact, versatile fitness equipment for full-body, low-impact workouts at home. Enhance strength, flexibility, and stability.
+  Updated: 2025-12-22T11:56:26Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/vWs4F8leyQNtyn6J.webp?v=1766133428
+  - [Supine Board Purple](https://the-new-age-7647.myshopify.com/products/compact-pilates-sliding-board?variant=51779625386265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/vWs4F8leyQNtyn6J.webp?v=1766133428
+    Price: $274.40 USD
+  - [Pink](https://the-new-age-7647.myshopify.com/products/compact-pilates-sliding-board?variant=51779625419033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Iuk5VsIuqR61KWN9.webp?v=1766133455
+    Price: $274.40 USD
+  - [Black](https://the-new-age-7647.myshopify.com/products/compact-pilates-sliding-board?variant=51779625451801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/SzPLGsPJ2a6AjMMh.webp?v=1766133446
+    Price: $274.40 USD
+- [Household Abdominal Wheel | Multi-functional Fitness Board for Home Use](https://the-new-age-7647.myshopify.com/products/household-abdominal-wheel-fitness-board): Discover the Household Abdominal Wheel, a multi-functional fitness board designed for comprehensive strength training and weight loss at home. Supports up to 300kg.
+  Updated: 2025-12-22T11:55:54Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1uBY5BqKW9Ds2qry.webp?v=1766133430
+  - [Grey folding style](https://the-new-age-7647.myshopify.com/products/household-abdominal-wheel-fitness-board?variant=51779625681177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1uBY5BqKW9Ds2qry.webp?v=1766133430
+    Price: $331.27 USD
+  - [Standard Purple](https://the-new-age-7647.myshopify.com/products/household-abdominal-wheel-fitness-board?variant=51779625713945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/FjTHmuybUqqEb4U0.webp?v=1766133449
+    Price: $331.27 USD
+  - [Pink Folding Style](https://the-new-age-7647.myshopify.com/products/household-abdominal-wheel-fitness-board?variant=51779625746713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yPnTIIh7vqgscTAw.webp?v=1766133453
+    Price: $331.27 USD
+- [13-piece yoga – Complete Yoga & Pilates Set for All Fitness Levels](https://the-new-age-7647.myshopify.com/products/13-piece-yoga-pilates-set): Discover the 13-piece yoga set designed for full-body workouts, flexibility, and strength. Perfect for all fitness levels, it supports your yoga and Pilates routines.
+  Updated: 2025-12-22T11:55:19Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0CPda1vehlxRvU3B.webp?v=1766133432
+  - [Pink](https://the-new-age-7647.myshopify.com/products/13-piece-yoga-pilates-set?variant=51779626041625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0CPda1vehlxRvU3B.webp?v=1766133432
+    Price: $78.50 USD
+  - [Purple](https://the-new-age-7647.myshopify.com/products/13-piece-yoga-pilates-set?variant=51779626074393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/qDWHjB9Jny7Cnrnr.webp?v=1766133457
+    Price: $78.50 USD
+- [Boxing Target Bluetooth - Interactive Home Boxing & Fitness Equipment](https://the-new-age-7647.myshopify.com/products/boxing-target-machine): Experience the best Boxing Target Bluetooth for home workouts. Improve speed, accuracy, and have fun with Bluetooth connectivity and built-in sound system.
+  Updated: 2025-12-22T11:54:55Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/EOUztNyrJo0qhwUJ.webp?v=1766133434
+  - [Basic Edition](https://the-new-age-7647.myshopify.com/products/boxing-target-machine?variant=51779626238233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/EOUztNyrJo0qhwUJ.webp?v=1766133434
+    Price: $95.31 USD
+  - [Bluetooth Version](https://the-new-age-7647.myshopify.com/products/boxing-target-machine?variant=51779626271001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3suD1GNBMAVAAnAv.webp?v=1766133450
+    Price: $100.45 USD
+- [LED Infrared Belt Therapy Device for Muscle Pain & Relaxation | Buy Now](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device): Discover the benefits of the LED Infrared Belt for deep tissue relief, improved circulation, and relaxation. Ideal for muscle pain, stiffness, and stress relief.
+  Updated: 2025-12-22T11:52:41Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/DmzPzPsBZy2CJdMP.webp?v=1766133436
+  - [Pink UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626303769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/DmzPzPsBZy2CJdMP.webp?v=1766133436
+    Price: $126.64 USD
+  - [Red US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626336537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eYSzZNZ6ZNSqrhMe.webp?v=1766133443
+    Price: $126.64 USD
+  - [Black EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626369305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/FAjM5wSbLjAn3guK.webp?v=1766133453
+    Price: $126.64 USD
+  - [Blue AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626402073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bzWv0KzffnwRrYxD.webp?v=1766133465
+    Price: $126.64 USD
+  - [Black US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626434841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/pdRqXnn3zIhysiZ0.webp?v=1766133471
+    Price: $126.64 USD
+  - [Blue EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626467609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/rvo1R5ThWjexR5Ou.webp?v=1766133474
+    Price: $126.64 USD
+  - [Blue US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626500377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/uQBlBCbrOo48WGVo.webp?v=1766133475
+    Price: $126.64 USD
+  - [Blue UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626533145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ts525FPwYKCeThFN.webp?v=1766133485
+    Price: $126.64 USD
+  - [Gray AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626565913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cNaUqt8A4LVRvDty.webp?v=1766133473
+    Price: $126.64 USD
+  - [Gray EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626598681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/26T0Bvsd2sivJFro.webp?v=1766133485
+    Price: $126.64 USD
+  - [Gray US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626631449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/u8MULLQQuHcB9r3I.webp?v=1766133485
+    Price: $126.64 USD
+  - [Orange AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626664217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cyS9iKahrOLKy2Uu.webp?v=1766133451
+    Price: $126.64 USD
+  - [Gray UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626696985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/GtvB35Kv0xrJ1Iot.webp?v=1766133483
+    Price: $126.64 USD
+  - [Orange EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626729753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/hWGvw8ywPQ4VyslS.webp?v=1766133488
+    Price: $126.64 USD
+  - [Orange US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626762521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/maFdDm0QTlAvHcZV.webp?v=1766133487
+    Price: $126.64 USD
+  - [Red AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626795289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/i52HDhnVlQbRviTG.webp?v=1766133494
+    Price: $126.64 USD
+  - [Orange UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626828057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/tSmnn2ezrPXf1PcU.webp?v=1766133462
+    Price: $126.64 USD
+  - [Plug Only AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626860825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xlJg2AjXBa5o49g0.webp?v=1766133492
+    Price: $104.78 USD
+  - [Pink EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626893593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/M4jqI1lF01hsNEr2.webp?v=1766133493
+    Price: $126.64 USD
+  - [Red EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626926361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/HIqERkEu0Di9hyTu.webp?v=1766133495
+    Price: $126.64 USD
+  - [Plug Only EU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626959129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3FiS0gqYvLqAESb6.webp?v=1766133484
+    Price: $104.78 USD
+  - [Pink AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779626991897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/yk8YcEdgQIIgOcI2.webp?v=1766133484
+    Price: $126.64 USD
+  - [Red UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779627024665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/OVJ0oj2Y4MGighYO.webp?v=1766133471
+    Price: $126.64 USD
+  - [Plug Only UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779627057433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/UmiO47rxvWChNFTA.webp?v=1766133496
+    Price: $104.78 USD
+  - [Plug Only US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779627090201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/VzjCkY4tCgLT1h3w.webp?v=1766133498
+    Price: $104.78 USD
+  - [Pink US](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779627122969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5AgrgUBlH5MqDNAD.webp?v=1766133495
+    Price: $126.64 USD
+  - [Black AU](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779627155737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/WjVPzd93ZTGdfnbc.webp?v=1766133486
+    Price: $126.64 USD
+  - [Black UK](https://the-new-age-7647.myshopify.com/products/led-infrared-belt-therapy-device?variant=51779627188505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/JBKXU7eLAtkPvF7x.webp?v=1766133490
+    Price: $126.64 USD
+- [Grip Strengthener - Adjustable Hand & Finger Exercise Tool for Improved Grip](https://the-new-age-7647.myshopify.com/products/grip-strengthener-spring-grip-finger-exerciser): Enhance your hand strength and finger dexterity with this Grip Strengthener. Perfect for athletes, musicians, and rehab, it offers adjustable resistance for progressive training.
+  Updated: 2025-12-22T11:51:48Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/38yc143qDdkH9y7o.webp?v=1766133437
+  - [Gray Style / Bag Packaging](https://the-new-age-7647.myshopify.com/products/grip-strengthener-spring-grip-finger-exerciser?variant=51779627221273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/38yc143qDdkH9y7o.webp?v=1766133437
+    Price: $19.25 USD
+  - [Black Style / Boxed](https://the-new-age-7647.myshopify.com/products/grip-strengthener-spring-grip-finger-exerciser?variant=51779627254041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/iZaO5TYQwbWLhtFU.webp?v=1766133455
+    Price: $22.45 USD
+  - [Black Style / Bag Packaging](https://the-new-age-7647.myshopify.com/products/grip-strengthener-spring-grip-finger-exerciser?variant=51779627286809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9hZe9o5ombtMXrmM.webp?v=1766133469
+    Price: $19.25 USD
+  - [Gray Style / Boxed](https://the-new-age-7647.myshopify.com/products/grip-strengthener-spring-grip-finger-exerciser?variant=51779627319577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/xPOSyYZ93HkyR4bS.webp?v=1766133448
+    Price: $22.45 USD
+- [Headwolf FPad7 PRO Android 15 Tablet 8 inch 2.5K HD Max 16GB+512GB](https://the-new-age-7647.myshopify.com/products/headwolf-fpad7-pro-android-15-tablet-8-inch-2-5k-hd-max-16gb-512gb-6500mah-pd18w-8mp-16mp-camera-sim-4g-lte-wifi-7): Discover the Headwolf FPad7 PRO with 8 inch 2.5K HD display, 16GB RAM, 512GB storage, 6500mAh battery, and 4G LTE for seamless connectivity.
+  Updated: 2025-12-22T11:51:24Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Sd8aa8f10e9c84354ad5305525118aa9cz_033a67b0-5fea-44ef-a3a0-8c7e6152737f.webp?v=1766133906
+  - [with case / Fpad7 pro / CN](https://the-new-age-7647.myshopify.com/products/headwolf-fpad7-pro-android-15-tablet-8-inch-2-5k-hd-max-16gb-512gb-6500mah-pd18w-8mp-16mp-camera-sim-4g-lte-wifi-7?variant=51780936401177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S8273108cc9f246689347a2cffda27ffbq_7f8f0bb8-e9bd-4e2b-b76f-40532db0f4fc.webp?v=1766133892
+    Price: $310.49 USD
+  - [GRAY / Fpad7 pro / CN](https://the-new-age-7647.myshopify.com/products/headwolf-fpad7-pro-android-15-tablet-8-inch-2-5k-hd-max-16gb-512gb-6500mah-pd18w-8mp-16mp-camera-sim-4g-lte-wifi-7?variant=51780936433945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Sc79e29ab5ef84206979fef6ed4b09bd0I_2bdc8b6d-efd9-4dee-8d30-a6d74a787720.webp?v=1766133883
+    Price: $323.94 USD
+  - [Official Standard / Fpad7 pro / CN](https://the-new-age-7647.myshopify.com/products/headwolf-fpad7-pro-android-15-tablet-8-inch-2-5k-hd-max-16gb-512gb-6500mah-pd18w-8mp-16mp-camera-sim-4g-lte-wifi-7?variant=51780936466713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S032c7d9c298b4d3082d041c81c64cc77M_a677e996-0cac-4274-9483-39f2278e3561.webp?v=1766133881
+    Price: $297.05 USD
+- [Creality Ender 3 V3 KE - High-Speed 3D Printer with Auto Leveling](https://the-new-age-7647.myshopify.com/products/creality-ender-3-v3-ke-3d-printer-with-250mm-s-high-speed-printing-cr-touch-auto-leveling-sprite-direct-extruder-auto-load-fil): Discover the Creality Ender 3 V3 KE with auto leveling, Sprite direct extruder, and high-speed printing up to 250mm/s for efficient 3D printing.
+  Updated: 2025-12-22T11:50:52Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S80c7013e4286400d954ac4bd996aa9084.webp?v=1766133897
+  - [Ender 3V3 KE / EU](https://the-new-age-7647.myshopify.com/products/creality-ender-3-v3-ke-3d-printer-with-250mm-s-high-speed-printing-cr-touch-auto-leveling-sprite-direct-extruder-auto-load-fil?variant=51780936532249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S2ae62c73c11346a3ac43002b74599df9s.webp?v=1766133889
+    Price: $391.52 USD
+  - [Ender 3V3 KE / UK](https://the-new-age-7647.myshopify.com/products/creality-ender-3-v3-ke-3d-printer-with-250mm-s-high-speed-printing-cr-touch-auto-leveling-sprite-direct-extruder-auto-load-fil?variant=51780936565017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S2ae62c73c11346a3ac43002b74599df9s.webp?v=1766133889
+    Price: $391.52 USD
+  - [Ender 3V3 KE / AU](https://the-new-age-7647.myshopify.com/products/creality-ender-3-v3-ke-3d-printer-with-250mm-s-high-speed-printing-cr-touch-auto-leveling-sprite-direct-extruder-auto-load-fil?variant=51780936597785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S2ae62c73c11346a3ac43002b74599df9s.webp?v=1766133889
+    Price: $391.52 USD
+  - [Ender 3V3 KE / US](https://the-new-age-7647.myshopify.com/products/creality-ender-3-v3-ke-3d-printer-with-250mm-s-high-speed-printing-cr-touch-auto-leveling-sprite-direct-extruder-auto-load-fil?variant=51780936630553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S2ae62c73c11346a3ac43002b74599df9s.webp?v=1766133889
+    Price: $391.52 USD
+- [RC Cars 911S - 4K HD Camera, 4.3-inch Screen, One Click Drifting](https://the-new-age-7647.myshopify.com/products/rc-cars-911s-4k-hd-camera-4-3-inch-screen-one-click-drif-camera-lifting-design-led-lighting-drift-hd-video-kids-rc-vehicle): Explore the RC Cars 911S with a 4K HD camera, 4.3-inch display, and drifting features. Perfect for kids 14+ for fast and fun remote control racing.
+  Updated: 2025-12-22T11:50:10Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S6499f01e30994f5e8aea294174694e6dy.webp?v=1766133886
+  - [white](https://the-new-age-7647.myshopify.com/products/rc-cars-911s-4k-hd-camera-4-3-inch-screen-one-click-drif-camera-lifting-design-led-lighting-drift-hd-video-kids-rc-vehicle?variant=51780936663321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S2eb99c86f3e440438e1d8be9e32f40356.webp?v=1766133891
+    Price: $59.13 USD
+  - [black](https://the-new-age-7647.myshopify.com/products/rc-cars-911s-4k-hd-camera-4-3-inch-screen-one-click-drif-camera-lifting-design-led-lighting-drift-hd-video-kids-rc-vehicle?variant=51780936696089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Sd087491bfc744e8c89454d9191efe070g.webp?v=1766133893
+    Price: $59.02 USD
+- [15.6 inch FHD Laptop Intel Core i7-6500U 32GB RAM 2TB SSD for Office](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop-1): Discover the powerful 15.6 inch FHD laptop with Intel i7-6500U, 32GB RAM, 2TB SSD, and Windows 11, perfect for gaming, study, and daily use.
+  Updated: 2025-12-22T11:49:23Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S431017a97fba4c089efa8732ab272bee4_4b0375aa-9ed5-4082-adc9-dda415bc8396.webp?v=1766133899
+  - [Silver 16GB 256GB](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop-1?variant=51780936761625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A3a4db9e74c8d4995bb04619bff1c5194I_e4ca916a-d831-48c6-8112-dbabdc749c5f.webp?v=1766133898
+    Price: $341.33 USD
+  - [Silver 16GB 512GB](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop-1?variant=51780936794393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A3a4db9e74c8d4995bb04619bff1c5194I_e4ca916a-d831-48c6-8112-dbabdc749c5f.webp?v=1766133898
+    Price: $371.04 USD
+  - [Silver 32GB 2048GB](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop-1?variant=51780936827161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A3a4db9e74c8d4995bb04619bff1c5194I_e4ca916a-d831-48c6-8112-dbabdc749c5f.webp?v=1766133898
+    Price: $522.34 USD
+  - [Silver 16GB 1024GB](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop-1?variant=51780936859929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A3a4db9e74c8d4995bb04619bff1c5194I_e4ca916a-d831-48c6-8112-dbabdc749c5f.webp?v=1766133898
+    Price: $407.07 USD
+  - [Silver 32GB 1024GB](https://the-new-age-7647.myshopify.com/products/15-6laptop-intel-celeron-i7-6500-notebook-gamer-32gb-ram-2tb-ssd-office-study-pc-computer-windows11-1920-1080-resolution-laptop-1?variant=51780936892697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A3a4db9e74c8d4995bb04619bff1c5194I_e4ca916a-d831-48c6-8112-dbabdc749c5f.webp?v=1766133898
+    Price: $443.09 USD
+- [HP Newest 14" Business Laptop - Reliable Performance & Expandable Storage](https://the-new-age-7647.myshopify.com/products/hp-newest-14-business-laptop-intel-celeron-n4120-up-to16gb-ram-384gb-storage128gb-emmc-256gb-micro-sd-1year-office-365-silver-1): Discover the HP Newest 14" Business Laptop with Intel Celeron N4120, up to 16GB RAM, 384GB Storage, Windows 11 Home, and lightweight design. Buy now!
+  Updated: 2025-12-22T11:48:47Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/A24caeb90d4db47dbb712a30ae3399ca3D_f59f65b2-444f-4e95-be93-86a9a8f1ffd9.webp?v=1766133887
+  Price: $245.05 USD
+- [Electric RC Car 2 In 1 Transformation Robots Sports Vehicle Model](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts): Discover the ultimate Electric RC Car with 2 in 1 transformation feature, remote control, and cool design. Perfect gift for kids aged 3-14+, ready-to-go!
+  Updated: 2025-12-22T11:48:18Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S751ccdb028a94b68bf3e951c06803a7bb.webp?v=1766133901
+  - [1PCS](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts?variant=51780937023769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S9ee983d1c3e54ccba1f9f3e8f4d08f91T.webp?v=1766133900
+    Price: $10.29 USD
+  - [1PCS 1](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts?variant=51780937056537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Sb685f38fae294829b8468ade875661bfG.webp?v=1766133904
+    Price: $12.95 USD
+  - [1PCS 2](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts?variant=51780937089305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Safa572ae9acc4aeb9db16746b34904e2p.webp?v=1766133909
+    Price: $10.69 USD
+  - [1PCS 3](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts?variant=51780937122073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S57d64fc1ece6415a8ffb2d1abf4cbe14G.webp?v=1766133906
+    Price: $10.98 USD
+  - [1PCS 4](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts?variant=51780937154841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S8c2e462a8d8d4eca81c273336e5ec353u.webp?v=1766133907
+    Price: $10.85 USD
+  - [1PCS 5](https://the-new-age-7647.myshopify.com/products/electric-rc-car-2-in-1-transformation-robots-sports-vehicle-model-robots-boys-toys-remote-cool-rc-deformation-cars-kid-toy-gifts?variant=51780937187609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S7bec01db6406428e982962fafd7f1f53X.webp?v=1766133905
+    Price: $10.98 USD
+- [Rc Racing Car 1/14 Remote Control Drifting Car - High Speed Vehicle](https://the-new-age-7647.myshopify.com/products/rc-racing-car-1-14-remote-control-drifting-car-rtr-drift-full-scale-48km-h-high-speed-vehicle-electric-toys-for-boys-kids-adult): Discover the Rc Racing Car with full-scale remote control, drifting features, and speeds up to 48 km/h. Perfect for boys, kids, and adults. Buy now!
+  Updated: 2025-12-22T11:37:23Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Scfd7ec6539d543e4b6ad910d0b5a0420P.webp?v=1766133905
+  - [Blue 1B](https://the-new-age-7647.myshopify.com/products/rc-racing-car-1-14-remote-control-drifting-car-rtr-drift-full-scale-48km-h-high-speed-vehicle-electric-toys-for-boys-kids-adult?variant=51780937220377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/S0140853ba56544908fa8aa65b8574b44H.webp?v=1766133900
+    Price: $92.75 USD
+  - [Green 1B](https://the-new-age-7647.myshopify.com/products/rc-racing-car-1-14-remote-control-drifting-car-rtr-drift-full-scale-48km-h-high-speed-vehicle-electric-toys-for-boys-kids-adult?variant=51780937253145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/Se84407cbcb1c4e66ba5d7709d4c9ae54R.webp?v=1766133900
+    Price: $92.45 USD
+- [UV-82 5W - High-Performance Walkie Talkie with Dual Band & Long Range](https://the-new-age-7647.myshopify.com/products/us-standard-uv-82-5w-2000mah-analog-walkie-talkie-split-charging-with-earphones): Discover the UV-82 5W walkie talkie featuring dual bands, 5km range, long-lasting 2000mAh battery, encrypted sound, and convenient built-in flashlight. Buy now!
+  Updated: 2025-12-22T11:47:47Z
+  Vendor: The New Age
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/wuAptlOFuPW48gFi.webp?v=1766263986
+  Price: $102.30 USD
+- [Pet Cat Tree Toys - Durable Cat Scratch Post & Interactive Climber for Cats](https://the-new-age-7647.myshopify.com/products/pet-cat-tree-toys-cat-scratch-post-pet-furniture-scratching-post-cats-claw-scratcher-double-sisal-balls-cat-accessories): Discover our Pet Cat Tree Toys, featuring a sturdy cat scratch post and interactive features to keep your cat active, healthy, and entertained at home.
+  Updated: 2025-12-22T23:47:56Z
+  Vendor: The New Age
+  Product Type: Cat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/53f04721-aa4d-4069-a24a-1ded338b0f06.jpg?v=1766444591
+  Price: $35.00 USD
+- [Pets Dog Anti Barking Device - Humane Ultrasonic Bark Control Collars](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies): Pets Dog Anti Barking Device emits ultrasonic sounds to stop excessive barking safely within 50 feet. Perfect for indoor and outdoor use for dogs aged 6 months to 8 years.
+  Updated: 2025-12-22T23:48:07Z
+  Vendor: The New Age
+  Product Type: Dog
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1667991480609.jpg?v=1766445503
+  - [1pcs](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195265305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1543913855620.jpg?v=1766445456
+    Price: $64.94 USD
+  - [2pcs](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195298073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6eb640fe-13e6-4078-9c65-c01eb3f1a6fe.jpg?v=1766445456
+    Price: $124.18 USD
+  - [3pcs](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195330841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4bfc3ed4-cf64-4308-84b3-e01e8d60ad27.jpg?v=1766445456
+    Price: $185.51 USD
+  - [Set1](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195363609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6dcd4de2-a59f-4d0e-a561-fca39aa44379.jpg?v=1766445456
+    Price: $69.08 USD
+  - [Set10](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195396377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/543d4504-2678-4d59-a32b-2edade73364f.jpg?v=1766445456
+    Price: $129.31 USD
+  - [Set11](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195429145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5a87573e-4ab3-43e9-9299-0dbf54718257.jpg?v=1766445456
+    Price: $129.33 USD
+  - [Set12](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195461913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8ba9dbe6-7f35-4734-9d99-b6aba1028b1f.jpg?v=1766445456
+    Price: $129.31 USD
+  - [Set2](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195494681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4683e237-32c6-42fd-9197-070fbd9bde78.jpg?v=1766445456
+    Price: $69.08 USD
+  - [Set3](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195527449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3219bfae-771c-4c86-8343-eeb0377d32fe.jpg?v=1766445456
+    Price: $69.08 USD
+  - [Set4](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195560217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/98c41f28-f22e-4c09-af57-4f555d18ece2.jpg?v=1766445456
+    Price: $69.08 USD
+  - [Set5](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195592985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/042ee3de-0970-4985-9424-9ec2fe8118a4.jpg?v=1766445456
+    Price: $69.10 USD
+  - [Set6](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195625753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/165bba66-98ef-4d74-b6a0-fe6f57ac542a.jpg?v=1766445456
+    Price: $69.08 USD
+  - [Set7](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195658521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7096ad00-d1b9-4e01-96c0-29eab9ffec1f.jpg?v=1766445456
+    Price: $129.31 USD
+  - [Set8](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195691289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/86ca563c-b172-4988-8cd1-20b4154b6cb8.jpg?v=1766445456
+    Price: $129.31 USD
+  - [Set9](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195724057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/43c5df7b-712e-4232-8da4-dae4ab5af45e.jpg?v=1766445456
+    Price: $129.31 USD
+  - [Wood color 1pcs](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies?variant=51795195756825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/73633834-c2ae-482d-a5b2-fd8b27531196.jpg?v=1766445456
+    Price: $69.72 USD
+- [Pet Automatic Feeder Large Capacity with APP Control & WiFi - Smart Dispenser](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo): Shop the Pet Automatic Feeder with large capacity, APP control, WiFi, voice recorder, and timer feeding. Keep your pet fed and healthy effortlessly.
+  Updated: 2025-12-22T23:48:04Z
+  Vendor: The New Age
+  Product Type: Cat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/48aee2fe-3269-43f4-b62c-dba501e15cb3.jpg?v=1766445552
+  - [Dark green set1 / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795195822361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fecca53f-691c-4b6d-b664-8673cac86b5b.jpg?v=1766445506
+    Price: $359.80 USD
+  - [Dark green set1 / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795195855129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fecca53f-691c-4b6d-b664-8673cac86b5b.jpg?v=1766445506
+    Price: $317.24 USD
+  - [Dark green set1 / Video version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795195887897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fecca53f-691c-4b6d-b664-8673cac86b5b.jpg?v=1766445506
+    Price: $498.00 USD
+  - [Dark green set1 / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795195920665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fecca53f-691c-4b6d-b664-8673cac86b5b.jpg?v=1766445506
+    Price: $494.35 USD
+  - [Dark green set2 / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795195953433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b3f199cf-57c4-428f-b887-ccc7a78d228a.jpg?v=1766445506
+    Price: $359.80 USD
+  - [Dark green set2 / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795195986201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b3f199cf-57c4-428f-b887-ccc7a78d228a.jpg?v=1766445506
+    Price: $317.24 USD
+  - [Dark green set2 / Video version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196018969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b3f199cf-57c4-428f-b887-ccc7a78d228a.jpg?v=1766445506
+    Price: $498.00 USD
+  - [Dark green set2 / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196051737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b3f199cf-57c4-428f-b887-ccc7a78d228a.jpg?v=1766445506
+    Price: $494.35 USD
+  - [Dark green / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196084505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ed95cb0-3342-48f4-b1ac-40e4f1a9fd00.jpg?v=1766445506
+    Price: $385.31 USD
+  - [Dark green / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196117273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ed95cb0-3342-48f4-b1ac-40e4f1a9fd00.jpg?v=1766445506
+    Price: $339.27 USD
+  - [Dark green / Video version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196150041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ed95cb0-3342-48f4-b1ac-40e4f1a9fd00.jpg?v=1766445506
+    Price: $534.59 USD
+  - [Dark green / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196182809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ed95cb0-3342-48f4-b1ac-40e4f1a9fd00.jpg?v=1766445506
+    Price: $530.70 USD
+  - [Peacock blue set1 / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196215577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e6f5a4eb-1b4a-4b06-af8d-700227546bec.jpg?v=1766445506
+    Price: $359.80 USD
+  - [Peacock blue set1 / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196248345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e6f5a4eb-1b4a-4b06-af8d-700227546bec.jpg?v=1766445506
+    Price: $317.24 USD
+  - [Peacock blue set1 / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196281113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e6f5a4eb-1b4a-4b06-af8d-700227546bec.jpg?v=1766445506
+    Price: $494.35 USD
+  - [Peacock blue set2 / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196313881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/81832484-06b0-4ee3-a765-9d597c2c6aaa.jpg?v=1766445506
+    Price: $359.80 USD
+  - [Peacock blue set2 / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196346649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/81832484-06b0-4ee3-a765-9d597c2c6aaa.jpg?v=1766445506
+    Price: $317.24 USD
+  - [Peacock blue set2 / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196379417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/81832484-06b0-4ee3-a765-9d597c2c6aaa.jpg?v=1766445506
+    Price: $494.35 USD
+  - [Peacock blue / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196412185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/58fa2ee9-af5d-43c7-8e01-60a16914ecfb.jpg?v=1766445506
+    Price: $385.31 USD
+  - [Peacock blue / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196444953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/58fa2ee9-af5d-43c7-8e01-60a16914ecfb.jpg?v=1766445506
+    Price: $339.27 USD
+  - [Peacock blue / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196477721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/58fa2ee9-af5d-43c7-8e01-60a16914ecfb.jpg?v=1766445506
+    Price: $530.70 USD
+  - [White set1 / App version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196510489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $353.93 USD
+  - [White set1 / App version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196543257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $353.93 USD
+  - [White set1 / Key version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196576025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $313.19 USD
+  - [White set1 / Key version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196608793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $313.19 USD
+  - [White set1 / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196641561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $313.19 USD
+  - [White set1 / Video version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196674329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $489.88 USD
+  - [White set1 / Video version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196707097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $489.88 USD
+  - [White set1 / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196739865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4f26032-e6bb-4b23-8574-c6fe96dadf41.jpg?v=1766445506
+    Price: $489.88 USD
+  - [White set2 / App version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196772633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $353.93 USD
+  - [White set2 / App version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196805401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $353.93 USD
+  - [White set2 / Key version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196838169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $313.19 USD
+  - [White set2 / Key version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196870937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $313.19 USD
+  - [White set2 / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196903705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $313.19 USD
+  - [White set2 / Video version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196936473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $489.88 USD
+  - [White set2 / Video version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795196969241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $489.88 USD
+  - [White set2 / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197002009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e73d7981-76ff-4fe0-8041-f79e1149af85.jpg?v=1766445506
+    Price: $489.88 USD
+  - [White / App version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197034777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $390.11 USD
+  - [White / App version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197067545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $390.11 USD
+  - [White / App version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197100313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/98e175c1-fe73-4749-b398-10bf3cb0ab28.jpg?v=1766445506
+    Price: $390.11 USD
+  - [White / Key version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197133081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $344.57 USD
+  - [White / Key version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197165849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $344.57 USD
+  - [White / Key version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197198617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $344.57 USD
+  - [White / Video version / EU](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197231385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $541.88 USD
+  - [White / Video version / UK](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197264153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $541.88 USD
+  - [White / Video version / US](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo?variant=51795197296921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
+    Price: $541.88 USD
+- [Cat Brush Hair Remover - Pet Grooming Tool for Gentle Fur Care](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care): Find the best Cat Brush Hair Remover for effective pet grooming. Keeps fur healthy and shiny, with a 2-in-1 massage and de-shedding design.
+  Updated: 2025-12-22T23:20:55Z
+  Vendor: The New Age
+  Product Type: Cat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ea11177-a992-4a41-89cf-c678e0b6fa96.jpg?v=1766445552
+  - [13X8X5cm / Avocado Green](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care?variant=51795197395225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b74eba84-41f3-4ada-9834-b744c168177a_trans.jpg?v=1766445530
+    Price: $27.43 USD
+  - [13X8X5cm / Lemon Yellow](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care?variant=51795197427993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0e49ce1f-3127-423a-8cca-09aa292ebc5f_trans.jpg?v=1766445530
+    Price: $27.43 USD
 
 ## Collections
 
 - [Home page](https://the-new-age-7647.myshopify.com/collections/frontpage)
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 1
 - [Best Sellers](https://the-new-age-7647.myshopify.com/collections/best-sellers): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 9
 - [Trending Deals](https://the-new-age-7647.myshopify.com/collections/trending-deals): Collection
-  Updated: 2025-12-15T22:13:43Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 10
 - [Health](https://the-new-age-7647.myshopify.com/collections/health): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 4
 - [Trendy Gadgets](https://the-new-age-7647.myshopify.com/collections/trendy-gadgets): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 7
 - [Cats](https://the-new-age-7647.myshopify.com/collections/cats): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 3
 - [Garden](https://the-new-age-7647.myshopify.com/collections/garden): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 4
 - [Kitchen](https://the-new-age-7647.myshopify.com/collections/kitchen): Collection
-  Updated: 2025-12-17T22:13:56Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 4
 - [Jewelry](https://the-new-age-7647.myshopify.com/collections/jewelry): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 3
 - [Dogs](https://the-new-age-7647.myshopify.com/collections/dogs): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 6
 - [Men's Fashion](https://the-new-age-7647.myshopify.com/collections/mens-fashion): Collection
-  Updated: 2025-12-15T22:13:43Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 3
 - [Beauty](https://the-new-age-7647.myshopify.com/collections/beauty): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 2
 - [Wine](https://the-new-age-7647.myshopify.com/collections/wine): Collection
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 2
 - [Office Supplies](https://the-new-age-7647.myshopify.com/collections/office-supplies)
-  Updated: 2025-12-15T22:12:13Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 2
 - [Toys](https://the-new-age-7647.myshopify.com/collections/toys)
-  Updated: 2025-12-18T12:25:36Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 3
 - [Clothing](https://the-new-age-7647.myshopify.com/collections/clothing)
-  Updated: 2025-12-15T22:12:32Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 7
 - [Party & Celebration](https://the-new-age-7647.myshopify.com/collections/party-celebration)
-  Updated: 2025-12-15T19:37:30Z
+  Updated: 2025-12-20T07:31:04Z
   Total Products: 1
 - [Outdoor Recreation](https://the-new-age-7647.myshopify.com/collections/outdoor-recreation)
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 2
 - [Home & Garden](https://the-new-age-7647.myshopify.com/collections/home-garden)
-  Updated: 2025-12-15T19:37:31Z
-  Total Products: 1
-- [Fitness & General Exercise Equipment](https://the-new-age-7647.myshopify.com/collections/fitness-general-exercise-equipment)
-  Updated: 2025-12-15T22:13:09Z
-  Total Products: 1
+  Updated: 2025-12-22T00:27:43Z
+  Total Products: 0
+- [Shop Premium Fitness & General Exercise Equipment for All Levels](https://the-new-age-7647.myshopify.com/collections/fitness-general-exercise-equipment): Discover top-quality Fitness & General Exercise Equipment perfect for home or gym use. Shop now to enhance your workout with our reliable and affordable options.
+  Updated: 2025-12-22T00:26:54Z
+  Total Products: 6
 - [Audio](https://the-new-age-7647.myshopify.com/collections/audio)
-  Updated: 2025-12-15T22:13:09Z
-  Total Products: 1
+  Updated: 2025-12-22T00:26:54Z
+  Total Products: 0
 - [Hairdressing & Cosmetology](https://the-new-age-7647.myshopify.com/collections/hairdressing-cosmetology)
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 1
 - [Lighting](https://the-new-age-7647.myshopify.com/collections/lighting)
-  Updated: 2025-12-15T22:11:56Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 5
 - [Decor](https://the-new-age-7647.myshopify.com/collections/decor)
-  Updated: 2025-12-15T22:11:02Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 3
 - [Household Supplies](https://the-new-age-7647.myshopify.com/collections/household-supplies)
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 2
 - [Games](https://the-new-age-7647.myshopify.com/collections/games)
-  Updated: 2025-12-15T22:09:48Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 1
 - [Medical](https://the-new-age-7647.myshopify.com/collections/medical)
-  Updated: 2025-12-15T22:08:24Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 1
 - [Computers](https://the-new-age-7647.myshopify.com/collections/computers)
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 1
 - [Other example products](https://the-new-age-7647.myshopify.com/collections/other-example-products)
-  Updated: 2025-12-15T19:37:31Z
-  Total Products: 1
+  Updated: 2025-12-22T00:03:17Z
+  Total Products: 0
 - [Featured Collection](https://the-new-age-7647.myshopify.com/collections/featured-collection-d7lk5)
-  Updated: 2025-12-15T22:13:43Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 18
 - [Household Appliances](https://the-new-age-7647.myshopify.com/collections/household-appliances)
-  Updated: 2025-12-15T19:37:31Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 1
 - [Building Materials](https://the-new-age-7647.myshopify.com/collections/building-materials)
-  Updated: 2025-12-18T12:25:36Z
+  Updated: 2025-12-20T07:31:05Z
   Total Products: 1
-- [Electronics Accessories](https://the-new-age-7647.myshopify.com/collections/electronics-accessories)
-  Updated: 2025-12-15T19:37:31Z
-  Total Products: 1
+- [Electronics Accessories | Top Quality Gadgets & Tech Accessories Collection](https://the-new-age-7647.myshopify.com/collections/electronics-accessories): Discover a wide range of Electronics Accessories at our store. Find the perfect gadgets and tech accessories to enhance your electronic devices today.
+  Updated: 2025-12-20T20:52:30Z
+  Total Products: 2
 - [TheNewAge Collection Discover the Latest Trends in Our New Collection](https://the-new-age-7647.myshopify.com/collections/the-new-age): Explore The New Age collection featuring the latest trends and styles. Find unique pieces in The New collection to elevate your wardrobe today.
-  Updated: 2025-12-18T12:25:36Z
-  Total Products: 76
+  Updated: 2025-12-22T00:27:43Z
+  Total Products: 74
+- [Health & Beauty Collection | Enhance Your Wellness & Look](https://the-new-age-7647.myshopify.com/collections/health-beauty): Discover our Health & Beauty collection to boost your wellness and enhance your look with quality products. Shop now for the best in health & beauty.
+  Updated: 2025-12-20T07:31:05Z
+  Total Products: 1
+- [Health Care Collection | Wellness Products for Better Living](https://the-new-age-7647.myshopify.com/collections/health-care): Explore our Health Care collection for essential wellness products that support your health and well-being. Find top-quality health care items today.
+  Updated: 2025-12-20T07:31:05Z
+  Total Products: 1
+- [Shop High-Quality Sporting Goods for All Your Sports Needs | Sports Store](https://the-new-age-7647.myshopify.com/collections/sporting-goods): Discover top-rated sporting goods at our store. Shop now for all your sports needs with the best sporting goods selection online. Excellent quality and prices.
+  Updated: 2025-12-20T07:31:05Z
+  Total Products: 2
+- [Automation Control Components | High-Quality Automation Solutions](https://the-new-age-7647.myshopify.com/collections/automation-control-components): Explore our wide range of Automation Control Components designed for reliable automation solutions. Perfect for any industrial or commercial automation project.
+  Updated: 2025-12-20T20:52:30Z
+  Total Products: 1
 
 ## Blogs
 
 - [News](https://the-new-age-7647.myshopify.com/blogs/news)
   - [Snow December Holiday: Top Activities and Tips for a Memorable Winter Season](https://the-new-age-7647.myshopify.com/blogs/news/top-things-to-do-in-winter-embrace-the-snow-december-holiday-season): Snow December Holiday: Top Activities and Tips for a Memorable Winter Season
-    Updated: 2025-12-17T23:55:03Z
+    Updated: 2025-12-19T06:02:13Z
     Author: StoreSEO AI
-    Tags: cozy, cozy indoor activities, holiday season, holiday tips, ice skating, outdoor adventures, skiing, snow december holiday, snowshoeing, winter, winter activities, winter fun
+    Tags: cozy, cozy indoor activities, holiday season, holiday tips, ice skating, outdoor adventures, skiing, snowshoeing, winter, winter activities, winter fun
+  - [Mom Dad Kids: The Ultimate Guide to Successful Stay-at-Home Parenting Tips](https://the-new-age-7647.myshopify.com/blogs/news/the-ultimate-guide-to-stay-at-home-parenting-tips-for-moms-dads-and-kids): Mom Dad Kids: The Ultimate Guide to Successful Stay-at-Home Parenting Tips
+    Updated: 2025-12-19T06:24:41Z
+    Author: StoreSEO AI
+    Tags: family bonding, family life, family tips, home, home routines, kids, kids activities, mom, mom and dad, parent, parent support, parenting, parenting advice, parenting strategies, stay, stay-at, stay-at-home, stay-at-home parenting
+  - [Things to do this holiday year](https://the-new-age-7647.myshopify.com/blogs/news/things-to-do-this-holiday-year)
+    Updated: 2025-12-21T01:20:29Z
+    Author: Joshua Rowen
 
 ## Store Pages
 
@@ -3179,6 +3829,8 @@ The New Age
   Updated: 2025-12-10T18:04:55Z
 - [Your privacy choices](https://the-new-age-7647.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-10T18:05:08Z
+- [Terms of Service](https://the-new-age-7647.myshopify.com/pages/terms-of-service)
+  Updated: 2025-12-18T15:35:23Z
 - [Shipping & Handling | Fast Processing & Worldwide Delivery - The New Age](https://the-new-age-7647.myshopify.com/pages/shipping-returns): Thank you for shopping with The New Age. All orders are processed within 1–3 business days. Once shipped, you will receive a confirmation email wit...
   Updated: 2025-12-17T22:32:52Z
 
