@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-21T00:01:02.572Z
+- Updated At: 2025-12-23T00:01:04.175Z
 
 ## Products
 
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-leather-designer-tote-front-view.webp?v=1736822487
     Price: $43.95 USD
 - [Women Handbags: Structured Faux Leather, Organized Style](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote): Women handbags: Discover our structured faux leather bag, perfect for work or style, offering secure storage and versatile carrying. Elevate your look today!
-  Updated: 2025-12-19T18:57:56Z
+  Updated: 2025-12-22T14:05:46Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's structured faux leather handbag
   Availability: Available
@@ -1968,7 +1968,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-12-20T01:21:00Z
+  Updated: 2025-12-22T16:18:24Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2002,7 +2002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-plaid-longline-coat-front-view.webp?v=1735411072
     Price: $44.95 USD
   - [French Blue / M](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504042582106)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-plaid-longline-coat-front-view.webp?v=1735411072
     Price: $44.95 USD
   - [French Blue / L](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504042614874)
@@ -15460,7 +15460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-prom-dress-burgundy-sleeveless-cocktail.webp?v=1744069826
     Price: $57.95 USD
 - [Form-Fitting Sequin Dress for Hourglass Figure | Red & Blue](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events): Make a statement in our form-fitting sequin dress for hourglass figure. This elegant long sleeve design is perfect for formal events & cocktail parties.
-  Updated: 2025-12-17T17:01:33Z
+  Updated: 2025-12-21T23:14:41Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Cocktail Dress
   Availability: Available
@@ -16779,7 +16779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/black-ruffle-sleeve-shift-dress-sidepose.webp?v=1751945164
     Price: $37.95 USD
 - [Baby Children Toilet Seat Toilet](https://ursupermart.com/products/baby-children-toilet-seat-toilet): Overview: Safe, comfortable and practical. Good quality PP material, soft, burr-free, comfortable for baby to sit on. With adjustable non-slip pads on the bottom, more stable, firm, reliable, safe when using the baby. Notes: - Due to the different monitors and light effects, the actual color of the item may be slightly different from the color shown in the pictures. - There may be 1-3mm difference in measurement due to manual measurement. Specification: Material: PP Size: 38X35X8 cm / 14.96X13.78X3.15 " Age: 1-6Y Color: Pink, Sky Blue, Green Package Content: 1 x Seat
-  Updated: 2025-12-17T17:04:07Z
+  Updated: 2025-12-22T14:25:31Z
   Vendor: S1B|CJ
   Product Type: Make
   Availability: Available
@@ -18103,7 +18103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-colombian-fajas-body-shaper.webp?v=1752771030
     Price: $42.95 USD
 - [Wireless Charging Station - Charge Faster & Easier](https://ursupermart.com/products/best-wireless-charging-station-2024): Fast wireless charging station with alarm clock!  Charge your phone & wake up on time.  LED display & 15W fast charging. Shop now!
-  Updated: 2025-12-17T17:07:17Z
+  Updated: 2025-12-21T00:26:57Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: 5-in-1 Wireless Charging Station
   Availability: Available
@@ -21478,7 +21478,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-12-20T08:26:36Z
+  Updated: 2025-12-22T03:25:41Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -38314,14 +38314,14 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c327d19f-74dc-4d26-90d8-265c6f4444f1.jpg?v=1763756152
   Price: $1.00 USD
 - [Layered Anklet Set Trendy Gold Chains for Summer Style](https://ursupermart.com/products/layered-anklet-set-trendy-gold-chains-for-summer-style-anklets): This layered anklet set instantly elevates your style with five trendy gold chains, perfect for any occasion. Shop now to express your unique personality!
-  Updated: 2025-12-17T17:50:34Z
+  Updated: 2025-12-22T02:26:43Z
   Vendor: S1B|S1|CJ
   Product Type: anklet set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/94f53985-cab8-49e8-88ce-c7781ceea59a.jpg?v=1763756239
   Price: $1.00 USD
 - [Cardinal Bird Necklace - Meaningful Comforting Gift](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift): Cardinal bird necklace: Discover a comforting silver pendant, a beautiful reminder of cherished memories and loved ones. Find your meaningful connection here today!
-  Updated: 2025-12-19T06:27:06Z
+  Updated: 2025-12-22T20:28:31Z
   Vendor: S1B|S1|CJ
   Product Type: Necklace
   Availability: Available
@@ -41226,7 +41226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/massage-gun-heated-16head-professionalunit.webp?v=1765308476
     Price: $105.95 USD
 - [Women's Cropped Utility Jacket | Pockets & Adjustable Fit](https://ursupermart.com/products/womens-cropped-utility-jacket-pockets): Shop our women's cropped utility jacket with 4 cargo pockets, adjustable waist, and puffed sleeves. Available in 3 colors. Sizes S-XXL. Free shipping.
-  Updated: 2025-12-20T22:13:09Z
+  Updated: 2025-12-21T12:28:34Z
   Vendor: S1B|S1|CJ
   Product Type: women's cropped utility jacket
   Availability: Available
@@ -41449,6 +41449,132 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-faux-fur-bolero-jacket-white-classic.webp?v=1765383368
     Price: $62.95 USD
+- [Women's Velour Tracksuit | Soft, Cozy & Ready to Ship](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set): Shop our women's velour tracksuit with zip-front hoodie, matching pants, and functional pockets. Oversized fit in 6 colors. Comfortable all-day wear.
+  Updated: 2025-12-21T11:02:02Z
+  Vendor: CJ
+  Product Type: Womens Velour Tracksuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-colorways-zip-hoodie.webp?v=1766082664
+  - [Black / S](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211414618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-premium-black-full-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211381850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-premium-black-full-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211349082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-premium-black-full-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211447386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-premium-black-full-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Black / XXL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211480154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-premium-black-full-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Brown / S](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211578458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-brown-loungewear-two-piece.webp?v=1766277393
+    Price: $55.95 USD
+  - [Brown / M](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211545690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-brown-loungewear-two-piece.webp?v=1766277393
+    Price: $55.95 USD
+  - [Brown / L](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211512922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-brown-loungewear-two-piece.webp?v=1766277393
+    Price: $55.95 USD
+  - [Brown / XL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211611226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-brown-loungewear-two-piece.webp?v=1766277393
+    Price: $55.95 USD
+  - [Brown / XXL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211643994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-brown-loungewear-two-piece.webp?v=1766277393
+    Price: $55.95 USD
+  - [Gray / S](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211742298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-professional-gray-zip-up-pants.webp?v=1766277393
+    Price: $55.95 USD
+  - [Gray / M](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211709530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-professional-gray-zip-up-pants.webp?v=1766277393
+    Price: $55.95 USD
+  - [Gray / L](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211676762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-professional-gray-zip-up-pants.webp?v=1766277393
+    Price: $55.95 USD
+  - [Gray / XL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211775066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-professional-gray-zip-up-pants.webp?v=1766277393
+    Price: $55.95 USD
+  - [Gray / XXL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211807834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-professional-gray-zip-up-pants.webp?v=1766277393
+    Price: $55.95 USD
+  - [Pink / S](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211906138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-best-pink-cozy-athleisure.webp?v=1766277393
+    Price: $55.95 USD
+  - [Pink / M](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211873370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-best-pink-cozy-athleisure.webp?v=1766277393
+    Price: $55.95 USD
+  - [Pink / L](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211840602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-best-pink-cozy-athleisure.webp?v=1766277393
+    Price: $55.95 USD
+  - [Pink / XL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211938906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-best-pink-cozy-athleisure.webp?v=1766277393
+    Price: $55.95 USD
+  - [Pink / XXL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645211971674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-best-pink-cozy-athleisure.webp?v=1766277393
+    Price: $55.95 USD
+  - [Purple / S](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212069978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-top-rated-purple-wide-leg-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Purple / M](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212037210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-top-rated-purple-wide-leg-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Purple / L](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212004442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-top-rated-purple-wide-leg-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Purple / XL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212102746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-top-rated-purple-wide-leg-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Purple / XXL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212135514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-top-rated-purple-wide-leg-set.webp?v=1766277393
+    Price: $55.95 USD
+  - [Sky Blue / S](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212233818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-skyblue-weekend-comfort.webp?v=1766277393
+    Price: $55.95 USD
+  - [Sky Blue / M](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212201050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-skyblue-weekend-comfort.webp?v=1766277393
+    Price: $55.95 USD
+  - [Sky Blue / L](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212168282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-skyblue-weekend-comfort.webp?v=1766277393
+    Price: $55.95 USD
+  - [Sky Blue / XL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212266586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-skyblue-weekend-comfort.webp?v=1766277393
+    Price: $55.95 USD
+  - [Sky Blue / XXL](https://ursupermart.com/products/womens-velour-tracksuit-two-piece-set?variant=42645212299354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/velour-tracksuit-womens-premium-skyblue-weekend-comfort.webp?v=1766277393
+    Price: $55.95 USD
 - [Floral Embroidered Coat | Soft Shawl Collar | Free Ship](https://ursupermart.com/products/floral-embroidered-coat-women-winter): Shop our floral embroidered coat with vintage-inspired style. Open front wrap design, soft fabric, roomy sleeves. Perfect for fall & winter. Free shipping.
   Updated: 2025-12-17T17:55:06Z
   Vendor: S1B|S1|CJ
@@ -41807,6 +41933,32 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/led-acrylic-drawing-board-new-year-large.webp?v=1765395572
     Price: $39.95 USD
+- [Women's Belted Trench Coat for Professional Style](https://ursupermart.com/products/womens-belted-trench-coat-red-plaid): Classic women's belted trench coat in red plaid. Structured fit, integrated belt, quality construction. Works for office, travel, and weekend wear. Shop now.
+  Updated: 2025-12-22T14:00:03Z
+  Vendor: S1B|S1|CJ
+  Product Type: Belted Trench Coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-belted-trench-top-rated-plaid-crosswalk-look.webp?v=1766293480
+  - [S](https://ursupermart.com/products/womens-belted-trench-coat-red-plaid?variant=42659903045722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-belted-trench-premium-plaid-street-style-winter.webp?v=1766293480
+    Price: $64.95 USD
+  - [M](https://ursupermart.com/products/womens-belted-trench-coat-red-plaid?variant=42659903012954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-belted-trench-premium-plaid-street-style-winter.webp?v=1766293480
+    Price: $64.95 USD
+  - [L](https://ursupermart.com/products/womens-belted-trench-coat-red-plaid?variant=42659902980186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-belted-trench-premium-plaid-street-style-winter.webp?v=1766293480
+    Price: $64.95 USD
+  - [XL](https://ursupermart.com/products/womens-belted-trench-coat-red-plaid?variant=42659903078490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-belted-trench-premium-plaid-street-style-winter.webp?v=1766293480
+    Price: $64.95 USD
+  - [2XL](https://ursupermart.com/products/womens-belted-trench-coat-red-plaid?variant=42659902947418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-belted-trench-premium-plaid-street-style-winter.webp?v=1766293480
+    Price: $64.95 USD
 - [Womens Cropped Puffer Jacket | Affordable Trendy Winter Coat](https://ursupermart.com/products/womens-cropped-puffer-jacket-fur-hood): Shop womens cropped puffer jacket with fur hood. Trendy bomber style keeps you warm without bulk. Free shipping, easy returns. Black & cream available now.
   Updated: 2025-12-17T17:55:48Z
   Vendor: S1B|S1|S1B|Make | Meta - Dsers**-UP + Blog
@@ -41846,7 +41998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cropped-bomber-jacket-with-fur-hood-black-front-view.webp?v=1765752404
     Price: $67.95 USD
 - [Plush Hooded Cape Coat, Oversized Hood And Easy Zip Layering](https://ursupermart.com/products/plush-hooded-cape-coat-oversized-hood): Plush Hooded Cape Coat with oversized hood and zip front, made for layering over thicker tops. Size chart in inches helps you choose Small to 5XL
-  Updated: 2025-12-17T17:56:09Z
+  Updated: 2025-12-21T13:26:19Z
   Vendor: S1B|S1|S1B|Make | Meta - Dsers**-UP + Blog
   Product Type: Plush Hooded Cape Coat
   Availability: Available
@@ -42312,13 +42464,13 @@
   Updated: 2025-12-10T12:07:38Z
   Total Products: 64
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-12-20T23:38:22Z
+  Updated: 2025-12-21T00:37:58Z
   Total Products: 47
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
   Updated: 2025-11-29T23:22:11Z
   Total Products: 58
 - [Best Summer Dresses | Cotton Maxi Mini Beach Styles XS-3X](https://ursupermart.com/collections/summer-dresses-maxi-mini-beach-xs-3x): Shop trendy 2025 summer dresses! Affordable cotton maxi, mini & beach styles XS-3X. Lightweight, breathable fabrics for vacation & everyday. Free shipping!
-  Updated: 2025-12-17T03:59:49Z
+  Updated: 2025-12-22T08:03:07Z
   Total Products: 39
 - [Affordable Prom Dresses: Stunning Formal Wear Under $60 2025](https://ursupermart.com/collections/affordable-prom-dresses-2025-collection): Shop affordable prom dresses from $60! Gorgeous formal dresses & evening gowns in all sizes. Free shipping & returns. Find your perfect dress!
   Updated: 2025-12-12T08:03:38Z
@@ -42339,8 +42491,8 @@
   Updated: 2025-12-02T20:24:48Z
   Total Products: 12
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-12-20T22:13:07Z
-  Total Products: 101
+  Updated: 2025-12-22T20:55:31Z
+  Total Products: 102
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
   Updated: 2025-12-12T12:07:58Z
   Total Products: 91
@@ -42859,6 +43011,14 @@
     Updated: 2025-12-20T22:11:23Z
     Author: Angel Carbonell
     Tags: adjustable waist jacket, casual cropped jacket outfits, cropped cargo jacket outfit ideas, cropped jacket care tips, cropped jacket fit guide, cropped jacket for high waisted jeans, cropped jacket for work, cropped jacket outfit formulas, cropped jacket sizing guide, everyday utility jacket, how to style cropped jacket, how to wear utility jacket, puffed sleeve jacket styling, utility jacket for travel, utility jacket layering tips, utility jacket with pockets, women's cargo jacket styling, women's cargo pocket jacket, women's cropped utility jacket, women's jacket styling tips
+  - [Women's Velour Tracksuit | Soft Two-Piece Lounge Set](https://ursupermart.com/blogs/fashion/womens-velour-tracksuit-comfort-style-guide): Women's Velour Tracksuit | Soft Two-Piece Lounge Set
+    Updated: 2025-12-21T01:14:57Z
+    Author: Angel Carbonell
+    Tags: best velour tracksuit, casual velour outfit, comfortable loungewear, everyday velour set, how to wear velour tracksuit, matching velour pants, oversized velour set, relaxed fit tracksuit, soft velour set, two piece velour set, velour tracksuit care tips, velour tracksuit colors, velour tracksuit for home, velour tracksuit guide, velour tracksuit outfit ideas, velour tracksuit styling, velour tracksuit with pockets, women's velour tracksuit, work from home outfit, zip front velour jacket
+  - [Women's Belted Trench Coat for Professional Style](https://ursupermart.com/blogs/fashion/womens-belted-trench-coat-professional-style): Women's Belted Trench Coat for Professional Style
+    Updated: 2025-12-22T04:43:36Z
+    Author: Angel Carbonell
+    Tags: affordable quality coat, belted trench coat for women, classic trench pattern, knee length trench coat, layering trench coat, polished coat style, professional trench wear, quality trench coat, red plaid trench coat, structured trench coat, timeless trench style, transitional season coat, versatile trench coat, women's business casual coat, women's coat for work, women's coat investment, women's coat with pockets, women's professional coat, women's structured fit coat, women's tailored coat
 - [Tips, Trends & Deals | UrSuperMart Blog](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog): Explore shopping tips, product trends, gift ideas, and exclusive deals. Stay updated with fresh content from the UrSuperMart blog.
   - [Discover Ultimate Gadgets: Latest Phones, Reviews & Prices](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog/ultimate-gadgets-guide-2025-top-tech): Discover Ultimate Gadgets: Latest Phones, Reviews & Prices
     Updated: 2025-08-07T23:04:47Z
