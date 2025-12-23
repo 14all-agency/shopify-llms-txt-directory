@@ -8,7 +8,8 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-28T21:38:02Z
 - Contact Email: contact@contixogroup.com
-- Updated At: 2025-12-23T22:54:35.162Z
+- Address: 13947 Central Ave, Chino, CA 91710
+- Updated At: 2025-12-23T23:01:21.897Z
 
 ## Products
 
