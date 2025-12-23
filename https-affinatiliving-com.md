@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-23T08:00:33.553Z
+- Updated At: 2025-12-23T12:00:36.066Z
 
 ## Products
 
@@ -1413,12 +1413,6 @@
   - [Pack of 10](https://affinatiliving.com/products/midnight-ember-apothecary-candle?variant=42406849806417)
     Availability: Available
     Price: $49.95 USD
-- [Vanilla Orchid Candle (Clearance)](https://affinatiliving.com/products/vanilla-orchid-signature-candle-copy): Vanilla Orchid Signature Candle – 10 oz Add a touch of elegance to your space with our Vanilla Orchid Signature Candle. Housed in a sleek 10 oz glass container, this candle is made from a high-quality soy wax blend for a clean, even burn. The fragrance is a delicate balance of creamy vanilla and soft floral orchid, creating a warm, sophisticated ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for elevating any room with a refined, comforting aroma that soothes and delights.
-  Updated: 2025-12-21T12:36:02Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Price: $14.95 USD
 - [Ocean Breeze Signature Candle](https://affinatiliving.com/products/ocean-breeze-signature-candle): Escape to the coast with Ocean Breeze—a refreshing fusion of marine air, driftwood, and citrus in a 10 oz clean-burning soy candle
   Updated: 2025-12-23T02:05:11Z
   Vendor: Affinati
@@ -1900,11 +1894,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Fresh Linen Original Candle](https://affinatiliving.com/products/fresh-linen-original-candle): Fresh Linen Original Candle – 10 oz Fresh Linen delivers the crisp comfort of freshly washed sheets. Clean, airy notes create a bright and welcoming scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh AirMiddle Notes: Linen, Soft FloralsBase Notes: Clean Musk Perfect for brightening your home and creating a fresh, tidy feel. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T01:40:36Z
+  Updated: 2025-12-23T11:51:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E50E2316-5B47-4AE3-B9C1-02B2E0588093.png?v=1747361582
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8372.png?v=1766490710
   - [Single Order](https://affinatiliving.com/products/fresh-linen-original-candle?variant=42443972804689)
     Availability: Available
     Price: $16.95 USD
@@ -6755,11 +6749,11 @@
     Availability: Available
     Price: $109.95 USD
 - [Arctic Cedarwood Original Candle](https://affinatiliving.com/products/arctic-cedarwood-original-candle): Refresh your home with Arctic Cedarwood. Cool cedar, pine, amber, and musk create a clean, invigorating, long-lasting fragrance in this 10 oz soy-blend candle.
-  Updated: 2025-12-23T01:17:27Z
+  Updated: 2025-12-23T11:58:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/F4825684-A8A8-4D22-971D-1A3D441C63CA.png?v=1764260742
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8378.png?v=1766491098
   - [Single Order](https://affinatiliving.com/products/arctic-cedarwood-original-candle?variant=58423691673681)
     Availability: Available
     Price: $16.95 USD
@@ -6891,11 +6885,11 @@
     Availability: Available
     Price: $109.95 USD
 - [Vanilla Chai Original Candle](https://affinatiliving.com/products/vanilla-chai-original-candle): Warm your home with creamy vanilla and chai spice. Our 10 oz Vanilla Chai Candle delivers rich, comforting fragrance with a long, clean burn.
-  Updated: 2025-12-23T01:17:19Z
+  Updated: 2025-12-23T11:54:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7918.png?v=1764866141
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8375.png?v=1766490892
   - [Single Order](https://affinatiliving.com/products/vanilla-chai-original-candle?variant=58453712142417)
     Availability: Available
     Price: $16.95 USD
@@ -8053,10 +8047,10 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
-  Updated: 2025-12-23T03:22:33Z
+  Updated: 2025-12-23T11:22:24Z
   Total Products: 29
 - [All Sale](https://affinatiliving.com/collections/all-sale)
-  Updated: 2025-12-23T03:22:33Z
+  Updated: 2025-12-23T11:22:24Z
   Total Products: 2
 - [Body Care on Sale](https://affinatiliving.com/collections/body-care-on-sale)
   Updated: 2025-12-18T18:11:47Z
@@ -8089,10 +8083,10 @@
   Updated: 2025-12-22T12:08:35Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-23T03:22:33Z
+  Updated: 2025-12-23T11:22:24Z
   Total Products: 140
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-23T03:22:33Z
+  Updated: 2025-12-23T11:22:24Z
   Total Products: 26
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
   Updated: 2025-12-21T12:09:37Z
