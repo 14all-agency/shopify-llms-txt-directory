@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-20T00:00:45.314Z
+- Updated At: 2025-12-23T00:00:45.866Z
 
 ## Products
 
@@ -595,7 +595,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT5840-GY.jpg?v=1673968972
   Price: RM 107.00 MYR
 - [SORENTO 235mm Gold Brass Triple Robe Hook Bar](https://bath2u.com/products/sorento-235mm-gold-brass-triple-hook-bar): This triple robe hook is constructed from gold brass and features concealed fixings. Suitable for domestic and commercial installations.Product Details Dimension: 235mm Material: Brass Finish: Gold Chrome Concealed fixings Type: Wall mounted Package Content 1x Triple Robe Hook
-  Updated: 2024-04-18T15:04:42Z
+  Updated: 2025-12-21T03:57:54Z
   Vendor: SORENTO
   Product Type: Hook Bar
   Availability: Available
@@ -1383,7 +1383,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-KS6045.png?v=1675149538
   Price: RM 180.00 MYR
 - [TAPI Single Lever Pillar Sink Mixer Tap - Matte Black](https://bath2u.com/products/tapi-single-lever-pillar-sink-mixer-tap-matte-black): Specifications : Material : Brass Anodized Matt Black Finishing : Matt Black Type : 35mm Sedal Cartridge
-  Updated: 2024-04-18T15:06:22Z
+  Updated: 2025-12-20T11:16:33Z
   Vendor: TAPI
   Product Type: Kitchen Taps
   Availability: Available
@@ -2011,7 +2011,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/QS6846B.png?v=1675409007
   Price: RM 380.00 MYR
 - [MOCHA 1200mm Stainless Steel Foldable Mobility Clothes Drying Hanger](https://bath2u.com/products/mocha-1200mm-stainless-steel-foldable-mobility-clothes-drying-hanger): Specifications : Dimension : 1200 L X 1100 W X 1620 H mm Material : Stainless Steel Large capacity for drying clothes Easy installation Movable easily with high quality of wheels Strong, durable and can sustain heavy weight Foldable & space saving
-  Updated: 2024-04-18T15:06:47Z
+  Updated: 2025-12-21T00:04:55Z
   Vendor: MOCHA
   Product Type: Clothes Drying Rack
   Availability: Available
@@ -2515,7 +2515,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/AJ0500CE.png?v=1678417380
   Price: RM 350.00 MYR
 - [ALFRED VICTORIA Satin Gold Single Lever Basin Mixer Tap](https://bath2u.com/products/alfred-victoria-satin-gold-single-lever-basin-mixer-tap): Specification : Core Material : Stainless Steel 304 High Quality Satin Gold Plated Finish 35mm Ceramic Cartridge Attached with Soft Output Aerator Complete with a pair of Flexible Hose
-  Updated: 2025-02-17T16:35:14Z
+  Updated: 2025-12-21T07:26:24Z
   Vendor: ALFRED VICTORIA
   Product Type: Deck Mounted Tap
   Availability: Available
