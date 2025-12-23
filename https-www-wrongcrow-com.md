@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2025-12-22T00:00:31.930Z
+- Updated At: 2025-12-23T00:00:28.638Z
 
 ## Products
 
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/front-and-back-t-shirt-mockup-male-model-standing-in-studio-light-gradient-purple-backdrop-02100_4_225bd734-944a-4f1f-afd7-0d3d7450143a.jpg?v=1758834742
     Price: 28,95 € EUR
 - [„Invisible but Present“ Tee](https://www.wrongcrow.com/products/invisible-but-present-tee): Dieses Tee steht für Präsenz ohne Lautstärke. Die Krähe im Hoodie, verschmolzen mit einer urbanen Skyline, verkörpert die Haltung, im Hintergrund zu wirken und trotzdem sichtbar zu sein. Das Statement „Invisible but Present“ unterstreicht die Kraft der Unsichtbaren. Der minimalistische monochrome Backprint macht dieses Tee subtil und gleichzeitig kraftvoll. In Kombination mit Oversized Fit und schwerer Baumwolle wird es zum Piece für alle, die nicht schreien müssen, um Eindruck zu hinterlassen. ✔️ Oversized Streetwear Fit ✔️ Hochwertiger Backprint ✔️ Rundhalskragen, stabil verarbeitet ✔️Unisex –für alle, die leise wirken, aber stark sind ✔️Materialzusammensetzung 100% Baumwolle Invisible but Present – Streetwear für die Schattenseite der Straße.
-  Updated: 2025-12-07T16:33:08Z
+  Updated: 2025-12-22T01:37:04Z
   Vendor: Printegy
   Product Type: Clothes
   Availability: Available
