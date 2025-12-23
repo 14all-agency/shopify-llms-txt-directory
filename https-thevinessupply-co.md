@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-23T08:00:36.814Z
+- Updated At: 2025-12-23T12:00:39.755Z
 
 ## Products
 
@@ -3945,26 +3945,26 @@
     Availability: Available
     Price: £119.95 GBP
 - [Dime MTL Athletic Zip Pants | Dark Blue](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue): Buy the Dime MTL Athletic Zip Pants in Dark Blue at The Vines. With fast, free delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-10-27T12:47:50Z
+  Updated: 2025-12-23T11:29:06Z
   Vendor: Dime MTL
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-jeans-dime-mtl-athletic-zip-pants-dark-blue-1191910229.png?v=1757448247
   - [Extra Small](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885269839)
     Availability: Available
-    Price: £119.95 GBP
+    Price: £89.95 GBP
   - [Small](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885302607)
     Availability: Available
-    Price: £119.95 GBP
+    Price: £89.95 GBP
   - [Medium](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885335375)
     Availability: Available
-    Price: £119.95 GBP
+    Price: £89.95 GBP
   - [Large](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885368143)
     Availability: Available
-    Price: £119.95 GBP
+    Price: £89.95 GBP
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885400911)
     Availability: Available
-    Price: £119.95 GBP
+    Price: £89.95 GBP
 - [Yardsale Horizon Skateboard Deck Blue | 8"](https://thevinessupply.co/products/yardsale-horizon-skateboard-deck-blue-8): Buy the Yardsale Horizon Skateboard Deck Blue 8". Shop Yard Sale in our online skate store and get best price guarantee and free delivery
   Updated: 2025-09-24T22:44:46Z
   Vendor: Yardsale
@@ -6185,7 +6185,7 @@
     Availability: Available
     Price: £99.95 GBP
 - [Cash Only Logo Baggy Denim Jeans | Washed Black](https://thevinessupply.co/products/cash-only-logo-baggy-jeans-black): Buy the Cash Only Logo Baggy Jeans in Washed Black at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-17T21:14:52Z
+  Updated: 2025-12-23T08:24:46Z
   Vendor: Cash Only
   Product Type: Jeans
   Availability: Available
@@ -6194,7 +6194,7 @@
     Availability: Available
     Price: £99.95 GBP
   - [30W](https://thevinessupply.co/products/cash-only-logo-baggy-jeans-black?variant=56324803330383)
-    Availability: Available
+    Availability: Not Available
     Price: £99.95 GBP
   - [32W](https://thevinessupply.co/products/cash-only-logo-baggy-jeans-black?variant=56324803363151)
     Availability: Available
@@ -6252,21 +6252,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/birdhouse-completes-8-125-birdhouse-stage-3-hawk-gargoyle-complete-8-125-1207765991.jpg?v=1763646370
   Price: £89.95 GBP
-- [Palmah NZ Pulp Fiction T-Shirt | Charcoal](https://thevinessupply.co/products/palmah-nz-portrait-t-shirt-charcoal): Buy the Palmah NZ Pulp Fiction T-Shirt in Charcoal at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-07T17:04:16Z
-  Vendor: Palmah NZ
-  Product Type: Tees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/palmah-nz-tees-palmah-nz-pulp-fiction-t-shirt-charcoal-1209266725.jpg?v=1764352086
-  - [Medium](https://thevinessupply.co/products/palmah-nz-portrait-t-shirt-charcoal?variant=56477104111951)
-    Availability: Not Available
-    Price: £34.95 GBP
-  - [Large](https://thevinessupply.co/products/palmah-nz-portrait-t-shirt-charcoal?variant=56477104144719)
-    Availability: Available
-    Price: £34.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/palmah-nz-portrait-t-shirt-charcoal?variant=56477104177487)
-    Availability: Not Available
-    Price: £34.95 GBP
 - [Palmah NZ Barbed Ballet Hoodie | Charcoal Grey](https://thevinessupply.co/products/palmah-barbed-ballet-hoodie-barbed-charcoal): Buy the Palmah NZ Barbed Ballet Hoodie in Charcoal Grey at The Vines, with fast, premium delivery & easy returns within 90 days
   Updated: 2025-12-07T14:11:56Z
   Vendor: Palmah NZ
@@ -6755,7 +6740,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 2897
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-12-21T12:15:45Z
@@ -6926,10 +6911,10 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 165
 - [Jeans, Cargos & Trousers](https://thevinessupply.co/collections/jeans-cargos-trousers): From baggy to classy, shop denim jeans, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-22T15:44:46Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 5735
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
@@ -7043,7 +7028,7 @@
   Updated: 2025-12-16T12:25:00Z
   Total Products: 17
 - [Jeans, Shorts and Trousers | The Vines](https://thevinessupply.co/collections/jeans-shorts-and-trousers): Shop Bottoms, including Denim Jeans, Shorts, Trousers, Chinos and Tracksuit Bottoms at The Vines.From baggy to classy, shop denim jeans, shorts, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 259
 - [Hoodies and Crewnecks | The Vines](https://thevinessupply.co/collections/hoodies-crews): Our curated collection of hoodies, crewnecks and sweaters from your favourite skateboard brands from the UK and worldwide, including Polar Skate Co, Helas, Magenta, Dime MTL, Vans, Dickies, RIPNDIP, HUF, Santa Cruz, Fucking Awesome, Hockey, Quasi, GVNMNT Clothing Co.
   Updated: 2025-12-22T12:17:19Z
@@ -7055,7 +7040,7 @@
   Updated: 2025-10-02T10:47:29Z
   Total Products: 7
 - [Dime MTL | Skatewear Clothing & Accessories | The Vines](https://thevinessupply.co/collections/dime-mtl): Shop Dime MTL Tees, Hoodies, Caps, Beanies, Jeans, Jackets and more at The Vines, with fast, premium delivery and easy returns
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 178
 - [SPITFIRE X LAST RESORT Collection | The Vines](https://thevinessupply.co/collections/spitfire-x-last-resort): Shop the SPITFIRE X LAST RESORT Collection at The Vines. Combining the classic Spitfire Swirl logo and Last Resorts instantly recognisable peeping eyes branding, the collection comprises rad pieces including Last Resort's classic 1st silhouette, the Last Resort VM001 Suede.
   Updated: 2025-02-20T13:05:15Z
@@ -7088,7 +7073,7 @@
   Updated: 2025-07-10T23:57:12Z
   Total Products: 4
 - [Denim Skate Jeans | The Vines](https://thevinessupply.co/collections/skate-jeans): Shop Denim Jeans from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 148
 - [Cargos, Chinos & Joggers | Skatewear Cargo Pants & Tracksuit Bottoms](https://thevinessupply.co/collections/cargos-chinos-joggers-tracksuit-bottoms): From baggy to classy, shop Cargos, Chinos, Joggers and Tracksuit Bottoms from your favourite skateboard brands at The Vines.
   Updated: 2025-12-16T12:25:00Z
@@ -7181,7 +7166,7 @@
   Updated: 2025-12-18T12:22:01Z
   Total Products: 16
 - [Dime MTL Denim Jeans | Skatewear Jeans | The Vines](https://thevinessupply.co/collections/dime-mtl-denim-jeans): Shop a range of Dime MTL Denim Jeans at The Vines, with fast, premium delivery and easy returns.
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 18
 - [Long Sleeve T-Shirts | The Vines](https://thevinessupply.co/collections/long-sleeve-t-shirts): Shop premium Long Sleeve T-Shirts at The Vines. Shop tee's from the best UK and international skate brands, such as Polar, Butter Goods, Helas, Vans, Dickies & Dime.
   Updated: 2025-12-18T12:22:01Z
@@ -7193,7 +7178,7 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-22T15:44:46Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 3228
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-22T12:17:19Z
@@ -7298,7 +7283,7 @@
   Updated: 2025-12-08T12:24:07Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 2907
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
@@ -7412,7 +7397,7 @@
   Updated: 2025-11-27T12:26:09Z
   Total Products: 3
 - [Denim Jeans & Shorts | Skate Denim Jeans & Shorts](https://thevinessupply.co/collections/denim-jeans-shorts): Shop premium quality Denim Jeans and Denim Shorts from your favourite skate brands at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-23T11:29:07Z
   Total Products: 134
 - [Magenta Skateboards Hoodies](https://thevinessupply.co/collections/magenta-skateboards-hoodies): Shop our collection of Magenta Skateboards hoodies. Enjoy fast, free UK premium delivery on orders over £70 and best prices, guaranteed.
   Updated: 2025-12-13T12:20:43Z
