@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-22T20:00:35.441Z
+- Updated At: 2025-12-23T00:00:52.367Z
 
 ## Products
 
@@ -6349,7 +6349,7 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Blackberry Sage Candle](https://affinatiliving.com/products/3-wick-blackberry-sage-candle): Brighten your home with our Blackberry Sage 3-Wick Candle—juicy berries and fresh sage create a vibrant, calming scent with a clean, long-lasting burn.
-  Updated: 2025-12-19T20:00:35Z
+  Updated: 2025-12-23T00:00:42Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6486,7 +6486,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_25_2025_at_05_53_43_PM.png?v=1764111730
   Price: $17.95 USD
 - [3-Wick Blackberry Absinthe Candle](https://affinatiliving.com/products/3-wick-blackberry-absinthe-candle): A deep, luxurious scent. Our Blackberry Absinthe 3-Wick Candle blends dark berries, plum, and absinthe for a rich, smooth, long-lasting fragrance in any room.
-  Updated: 2025-12-19T20:00:34Z
+  Updated: 2025-12-23T00:00:23Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6531,7 +6531,7 @@
     Availability: Available
     Price: $64.95 USD
 - [3-Wick Maple Pancakes Candle](https://affinatiliving.com/products/3-wick-maple-pancakes-candle): Affinati Maple Pancakes Candle blends warm maple syrup, buttery pancakes, and vanilla in a 3-wick soy candle for a cozy, sweet, long-lasting home fragrance.
-  Updated: 2025-12-19T20:00:34Z
+  Updated: 2025-12-23T00:00:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6646,7 +6646,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_08_21_05_AM.png?v=1764249926
   Price: $59.95 USD
 - [3-Wick Ivory Woods Candle](https://affinatiliving.com/products/3-wick-ivory-woods-candle): A clean, calming scent. Our Ivory Woods 3-Wick Candle blends sandalwood, cedar, and vanilla musk for a soft, elegant, long-lasting home fragrance.
-  Updated: 2025-12-19T20:00:34Z
+  Updated: 2025-12-22T23:59:57Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6746,7 +6746,7 @@
     Availability: Available
     Price: $29.95 USD
 - [3-Wick Arctic Cedarwood Candle](https://affinatiliving.com/products/3-wick-arctic-cedarwood-candle): A fresh, calming scent. Our Arctic Cedarwood 3-Wick Candle blends cool cedar, frosted pine, and eucalyptus for a clean, long-lasting, woodsy home fragrance.
-  Updated: 2025-12-19T20:00:34Z
+  Updated: 2025-12-22T23:59:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6882,7 +6882,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7876.png?v=1764530348
   Price: $59.95 USD
 - [3-Wick Vanilla Chai Candle](https://affinatiliving.com/products/3-wick-vanilla-chai-candle): Indulge in creamy vanilla and warm chai spice. Our 17 oz Vanilla Chai 3-Wick Candle fills your home with rich, cozy café-inspired comfort.
-  Updated: 2025-12-19T20:00:32Z
+  Updated: 2025-12-22T23:59:35Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -6927,7 +6927,7 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Whiskey Reserve Candle](https://affinatiliving.com/products/3-wick-whiskey-reserve-candle): Whiskey Reserve 3-Wick Candle – 17 oz. A rich blend of warm whiskey, toasted oak, amber, and vanilla. Strongly scented, clean-burning soy wax candle for a luxurious, masculine home fragrance experience.
-  Updated: 2025-12-19T20:00:32Z
+  Updated: 2025-12-22T23:59:25Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7034,7 +7034,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_08_59_50_AM.png?v=1765116012
   Price: $17.95 USD
 - [3-Wick Toasted Coconut Candle](https://affinatiliving.com/products/3-wick-toasted-coconut-candle): Indulge in warm, creamy island comfort with our Toasted Coconut 3-Wick Candle. A premium soy wax blend with rich notes of toasted sugar, vanilla cream, and fresh coconut. Smooth, even burn—perfect for adding tropical warmth to any room.
-  Updated: 2025-12-19T20:00:32Z
+  Updated: 2025-12-22T23:59:06Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7380,7 +7380,7 @@
     Availability: Available
     Price: $129.95 USD
 - [3-Wick Peppermint Spice Creme Candle](https://affinatiliving.com/products/3-wick-peppermint-spice-creme-candle): Fill your home with creamy peppermint, warm vanilla crème, and gentle spices. A strongly scented 3-wick candle made with a clean-burning soy wax blend.
-  Updated: 2025-12-19T20:00:32Z
+  Updated: 2025-12-22T23:57:27Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7425,7 +7425,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Amber Noir Mini Candle](https://affinatiliving.com/products/amber-noir-mini-candle): Mini Amber Noir Candle | 3 oz. Rich, warm amber with smoky woods and vanilla. Strongly scented for a cozy, luxurious experience.
-  Updated: 2025-12-19T06:08:39Z
+  Updated: 2025-12-22T23:25:35Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7439,14 +7439,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8174.png?v=1766075594
   Price: $6.95 USD
 - [Balsam & Fir Mini Candle](https://affinatiliving.com/products/balsam-fir-mini-candle): Mini Balsam & Fir Candle | 3 oz. Crisp pine and cedar blend for a fresh forest aroma. Strong throw and long-lasting burn.
-  Updated: 2025-12-19T04:00:01Z
+  Updated: 2025-12-22T23:50:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8176.png?v=1766075558
   Price: $6.95 USD
 - [Honey Lavender Mini Candle](https://affinatiliving.com/products/honey-lavender-mini-candle): Mini Honey Lavender Candle | 3 oz. Calming lavender with sweet honey. Strongly scented, clean burn, perfect for relaxation.
-  Updated: 2025-12-19T04:00:37Z
+  Updated: 2025-12-22T23:27:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7551,21 +7551,21 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8189.png?v=1766075314
   Price: $6.95 USD
 - [French Vanilla Mini Candle](https://affinatiliving.com/products/french-vanilla-mini-candle): Mini French Vanilla Candle | 3 oz. Creamy French vanilla with sweet musk. Strongly scented and long-lasting.
-  Updated: 2025-12-19T04:07:13Z
+  Updated: 2025-12-22T23:34:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8191.png?v=1766075303
   Price: $6.95 USD
 - [Ivory Woods Mini Candle](https://affinatiliving.com/products/ivory-woods-mini-candle): Mini Ivory Woods Candle | 3 oz. Soft woods and warm musk. Strong throw, cozy, and hand-poured with soy wax.
-  Updated: 2025-12-22T16:24:37Z
+  Updated: 2025-12-22T23:46:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8193.png?v=1766075292
   Price: $6.95 USD
 - [Coconut Dream Mini Candle](https://affinatiliving.com/products/coconut-dream-mini-candle): Mini Coconut Dream Candle | 3 oz. Creamy coconut and vanilla. Strongly scented tropical candle, clean-burning.
-  Updated: 2025-12-19T04:07:58Z
+  Updated: 2025-12-22T23:29:08Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -9386,6 +9386,21 @@
     Author: Gerard Collins
   - [Best Small Candles for Cozy Homes, Gifts & Everyday Fragrance](https://affinatiliving.com/blogs/deep-analysis/best-small-candles-for-cozy-homes-gifts-everyday-fragrance)
     Updated: 2025-12-22T16:20:14Z
+    Author: Gerard Collins
+  - [Yankee Mini Candles vs Affinati Mini Candles: Which Is Better?](https://affinatiliving.com/blogs/deep-analysis/yankee-mini-candles-vs-affinati-mini-candles-which-is-better)
+    Updated: 2025-12-22T23:43:52Z
+    Author: Gerard Collins
+  - [DW Home Mini Candles vs Affinati Mini Candles](https://affinatiliving.com/blogs/deep-analysis/dw-home-mini-candles-vs-affinati-mini-candles)
+    Updated: 2025-12-22T23:36:44Z
+    Author: Gerard Collins
+  - [Yankee Mini Candles vs DW Home Mini Candles](https://affinatiliving.com/blogs/deep-analysis/yankee-mini-candles-vs-dw-home-mini-candles)
+    Updated: 2025-12-22T23:33:33Z
+    Author: Gerard Collins
+  - [Best Mini Candles Under $10: Top Affordable Candles Compared](https://affinatiliving.com/blogs/deep-analysis/best-mini-candles-under-10-top-affordable-candles-compared)
+    Updated: 2025-12-22T23:32:04Z
+    Author: Gerard Collins
+  - [Should You Buy a Mini Candle? Pros, Cons & Buying Guide](https://affinatiliving.com/blogs/deep-analysis/should-you-buy-a-mini-candle-pros-cons-and-buying-guide)
+    Updated: 2025-12-22T23:28:28Z
     Author: Gerard Collins
 - [Debates](https://affinatiliving.com/blogs/debates)
   - [Wooden Wicks vs Cotton Wicks: Best Candle Wicks in 2025](https://affinatiliving.com/blogs/debates/wooden-wicks-vs-cotton-wicks-best-candle-wicks)
