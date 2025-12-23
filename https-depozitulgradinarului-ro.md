@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-21T00:00:44.688Z
+- Updated At: 2025-12-23T00:00:45.923Z
 
 ## Products
 
@@ -1150,7 +1150,7 @@ Comanda acum de la Depozitul Gradinarului!
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Aspersorapaverdecu3brate.jpg?v=1739359102
   Price: 10,80 lei RON
 - [Aspersor apa cu 5 brate | Depozitul Grădinarului](https://depozitulgradinarului.ro/products/aspersor-apa-cu-5-brate): Aspersor apă cu 5 brațe, reglabil, pentru furtun 1/2", 5/8" sau 3/4". Udare eficientă livezi, legume, grădini. Include țaruz pentru fixare.
-  Updated: 2025-12-20T13:02:24Z
+  Updated: 2025-12-21T12:25:49Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1199,7 +1199,7 @@ Comanda acum de la Depozitul Gradinarului!
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Pistoldestropitreglabilcu8functii.jpg?v=1739363168
   Price: 21,60 lei RON
 - [Pistol de Stropit 8 Functii Reglabile, Culoare Verde](https://depozitulgradinarului.ro/products/pistol-de-stropit-reglabil-verde): Pistol de stropit cu 8 funcții reglabile - ideal pentru udat grădina, flori, gazon sau spălat mașina. Jet reglabil, compatibil cu furtun standard.
-  Updated: 2025-12-20T15:20:17Z
+  Updated: 2025-12-21T03:19:50Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
