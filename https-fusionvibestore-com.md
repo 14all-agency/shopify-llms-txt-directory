@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-12-22T00:00:42.178Z
+- Updated At: 2025-12-23T00:00:42.313Z
 
 ## Products
 
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-12-21T10:44:00Z
+  Updated: 2025-12-22T12:44:52Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -3892,7 +3892,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
     Price: $22.34 USD
 - [Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool](https://fusionvibestore.com/products/electronic-cordless-pedicure-callus-dead-skin-remover-polishing-tool): Product Name: Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool Package Contains: It has 1 Pack of Electronic Pedicure ToolMaterial: PlasticSize: 19cm x 3.5cmColor: As Per Availability Combo: Pack of 1Weight: 400 gmAbout this item: Featuring remarkable polishing effect, this foot file is suitable for smoothing out rough skin and dead skin on the feet. Indisputable that it is easy to use because the product is with the adoption of minimalistic feature.
-  Updated: 2025-12-21T20:42:41Z
+  Updated: 2025-12-22T23:42:31Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -3913,7 +3913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/Hd77a8940706540e9bca25c5b07dbfd96b.jpg?v=1765974233
     Price: $29.25 USD
 - [VERSACE - Eros Flame Eau De Parfum Spray](https://fusionvibestore.com/products/versace-eros-flame-eau-de-parfum-spray): A woody spicy fragrance for self-confident menCrisp, sweet, warm, sensual, complex & alluringTop notes of Italian citruses, black pepper & rosemaryMiddle notes of pepperwood, geranium & rose Base notes of woods, tonka & vanillaLaunched in 2018Suitable for evening or colder seasons wear 8011003845330
-  Updated: 2025-12-21T18:09:58Z
+  Updated: 2025-12-22T18:10:52Z
   Vendor: Versace
   Product Type: Beauty & Health - Fragrances - Mens Cologne
   Availability: Available
