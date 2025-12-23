@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-04-24T12:00:01Z
 - Contact Email: donnerwolforiginal@gmail.com
-- Updated At: 2025-12-22T00:00:26.000Z
+- Updated At: 2025-12-23T00:00:30.890Z
 
 Donnerwolf ist dein Shop für authentische Wikinger-Mode und nordische Apparel. Wir bieten Premium T-Shirts, Hoodies, Tank-Tops und Accessoires mit kraftvollen Wikinger-Motiven, humorvollen Sprüchen und nordischer Mythologie. Alle Produkte aus nachhaltiger Bio-Baumwolle. Kostenloser Versand ab 50€ in Deutschland.
 
@@ -19442,7 +19442,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-18T12:18:59Z
   Total Products: 41
 - [Wikinger Hoodie Herren: Premium Nordische Kapuzenpullover | Donnerwolf](https://donnerwolf.de/collections/hoodie): Wikinger Hoodie Herren in Premium-Qualität. Nordische Symbole, Odin, Mjölnir & Runen-Designs. Bio-Baumwolle, warme Kapuzenpullover. Jetzt bei Donnerwolf bestellen!
-  Updated: 2025-12-17T16:23:55Z
+  Updated: 2025-12-22T12:15:13Z
   Total Products: 68
 - [Wikinger Tank-Top Herren: Premium Gym & Sport Tank-Tops | Donnerwolf](https://donnerwolf.de/collections/tank-top-herren): Wikinger Tank-Top Herren für Gym & Training. Nordische Symbole, atmungsaktive Baumwolle, starke Motive. Premium Tank-Tops für Männer. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-17T16:22:14Z
@@ -19469,7 +19469,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-19T12:39:34Z
   Total Products: 8
 - [Alle Produkte](https://donnerwolf.de/collections/alle-produkte)
-  Updated: 2025-12-21T12:12:58Z
+  Updated: 2025-12-22T12:15:13Z
   Total Products: 359
 - [Sale Wikinger Kleidung - Reduzierte T-Shirts & Hoodies | Donnerwolf](https://donnerwolf.de/collections/sale): Spare jetzt bei hochwertiger Wikinger-Kleidung! Reduzierte T-Shirts, Hoodies & mehr mit nordischen Motiven. Premium-Qualität, limitierte Stückzahl. Jetzt zuschlagen!
   Updated: 2025-12-17T16:35:37Z
