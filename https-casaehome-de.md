@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-11-24T05:21:30Z
 - Contact Email: casaeHome-Living@web.de
-- Updated At: 2025-12-22T00:00:21.094Z
+- Updated At: 2025-12-23T00:00:24.470Z
 
 ## Products
 
@@ -142,11 +142,11 @@
 - [Shipping Policy](https://casaehome.de/policies/shipping-policy)
   Updated: 2025-12-16T09:21:11+01:00
 - [Refund Policy](https://casaehome.de/policies/refund-policy)
-  Updated: 2025-12-16T09:28:31+01:00
+  Updated: 2025-12-22T15:34:29+01:00
 - [Terms of Service](https://casaehome.de/policies/terms-of-service)
-  Updated: 2025-12-16T07:51:18+01:00
+  Updated: 2025-12-22T15:35:17+01:00
 - [Contact Information](https://casaehome.de/policies/contact-information)
-  Updated: 2025-12-16T07:34:39+01:00
+  Updated: 2025-12-22T15:35:47+01:00
 
 ## Optional
 
