@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2025-12-18T00:00:30.985Z
+- Updated At: 2025-12-23T00:00:31.889Z
 
 ## Products
 
@@ -148,7 +148,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Cinematic V3 – Punchy Cinematic Colors](https://gradefruit.com/products/cinematic-v3): Expand your creative options with a brand new collection of punchy looks, each offering a unique cinematic touch.
-  Updated: 2025-11-06T11:30:45Z
+  Updated: 2025-12-20T11:33:57Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -544,13 +544,13 @@
   Updated: 2024-08-28T19:36:50Z
   Total Products: 0
 - [LUTs](https://gradefruit.com/collections/luts): Transform your photos and videos with our premium LUT packs! Designed for photographers, videographers, and creators, our LUTs offer stunning color grading options to elevate your visuals effortlessly. Perfect for all skill levels!
-  Updated: 2025-11-06T11:30:51Z
+  Updated: 2025-12-21T12:18:52Z
   Total Products: 34
 - [Bundle and save big](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
   Updated: 2025-12-01T12:31:12Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
-  Updated: 2025-11-06T11:30:51Z
+  Updated: 2025-12-21T12:18:52Z
   Total Products: 34
 
 ## Store Pages
