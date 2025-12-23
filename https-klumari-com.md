@@ -6,12 +6,12 @@
 - Timezone: Europe/Vilnius
 - Created At: 2025-07-21T14:22:28Z
 - Contact Email: shunna913@gmail.com
-- Updated At: 2025-12-13T00:00:31.629Z
+- Updated At: 2025-12-23T00:00:35.605Z
 
 ## Products
 
 - [AESSOA DEEP Hyaluronic Acid Filler by klumari](https://klumari.com/products/aessoa-deep): AESSOA DEEP by klumari is a professional-grade hyaluronic acid filler for deep wrinkle correction and volume restoration.
-  Updated: 2025-12-05T16:17:06Z
+  Updated: 2025-12-18T09:11:26Z
   Vendor: klumari
   Product Type: HYALURONIC ACID FILLERS
   Availability: Available
@@ -703,7 +703,7 @@
   Updated: 2025-10-08T14:02:14Z
   Total Products: 0
 - [DERMAL FILLERS - Enhance Your Natural Beauty](https://klumari.com/collections/dermal-fillers): Explore DERMAL FILLERS that boost confidence and transform looks effortlessly. Join our satisfied customers today!
-  Updated: 2025-11-24T15:33:52Z
+  Updated: 2025-12-18T12:37:23Z
   Total Products: 10
 - [BOTULINUM TOXIN - Unlock Your Radiance](https://klumari.com/collections/botulinum-toxin): Experience the transformative power of BOTULINUM TOXIN for a youthful glow. Join our satisfied customers today!
   Updated: 2025-11-24T15:33:52Z
@@ -779,6 +779,18 @@
     Author: Klumari
   - [Rejuvenate Your Look: Discover AMI EYES For Youthful Glowing Skin with Professional Anti-Ageing Skincare Solutions](https://klumari.com/blogs/news/rejuvenate-your-look-discover-ami-eyes-for-youthful-glowing-skin-with-professional-anti-ageing-skincare-solutions): Rejuvenate Your Look: Discover AMI EYES For Youthful Glowing Skin with Professional Anti-Ageing Skincare Solutions
     Updated: 2025-12-11T01:32:04Z
+    Author: Klumari
+  - [The Science Behind TOXTA 100 UNITS: A Dive into Premium Anti-Ageing Skincare and Wrinkle Reduction Products](https://klumari.com/blogs/news/the-science-behind-toxta-100-units-a-dive-into-premium-anti-ageing-skincare-and-wrinkle-reduction-products): The Science Behind TOXTA 100 UNITS: A Dive into Premium Anti-Ageing Skincare and Wrinkle Reduction Products
+    Updated: 2025-12-14T00:35:29Z
+    Author: Klumari
+  - [Rejuvenate Your Skin with Medical-Grade Skincare: How Saline for Botox Injection Enhances Anti-Aging Regimens Across Korean Beauty and More](https://klumari.com/blogs/news/rejuvenate-your-skin-with-medical-grade-skincare-how-saline-for-botox-injection-enhances-anti-aging-regimens-across-korean-beauty-and-more): Rejuvenate Your Skin with Medical-Grade Skincare: How Saline for Botox Injection Enhances Anti-Aging Regimens Across Korean Beauty and More
+    Updated: 2025-12-16T01:38:57Z
+    Author: Klumari
+  - [Achieve Timeless Beauty with BUBBLE CLEANSER: Exploring Premium Anti-Aging Skincare and Korean Skin Booster Treatments](https://klumari.com/blogs/news/achieve-timeless-beauty-with-bubble-cleanser-exploring-premium-anti-aging-skincare-and-korean-skin-booster-treatments): Achieve Timeless Beauty with BUBBLE CLEANSER: Exploring Premium Anti-Aging Skincare and Korean Skin Booster Treatments
+    Updated: 2025-12-18T01:37:59Z
+    Author: Klumari
+  - [Explore 2XSOME SKIN BOOSTER: Your Complete Guide to Anti-Aging Skincare and Korean Skin Booster Treatments](https://klumari.com/blogs/news/explore-2xsome-skin-booster-your-complete-guide-to-anti-aging-skincare-and-korean-skin-booster-treatments): Explore 2XSOME SKIN BOOSTER: Your Complete Guide to Anti-Aging Skincare and Korean Skin Booster Treatments
+    Updated: 2025-12-21T00:35:20Z
     Author: Klumari
 
 ## Store Pages
