@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-12-22T00:00:37.439Z
+- Updated At: 2025-12-23T00:00:38.132Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1248,7 +1248,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-white-cat-t-shirt_dcb10066-d5ac-4b49-83da-65344511a199.png?v=1765121734
     Price: 259,00 kr SEK
 - [Mat Klistermärken | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/mat-klistermarken): Unika mat-klistermärken i dark aesthetic-stil. Perfekta för att dekorera laptop, journal och mer. Handla nu!
-  Updated: 2025-12-21T21:53:44Z
+  Updated: 2025-12-22T09:53:50Z
   Vendor: Dark Aesthetic Studio
   Product Type: Klistermärke
   Availability: Available
@@ -1444,7 +1444,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_396a0401-740e-4453-afa7-b4d48bc35605.png?v=1765666784
     Price: 5,00 kr SEK
 - [Little Worlds Klistermärke - Dark Aesthetic](https://darkaestheticstudio.se/products/little-worlds-klistermarke): Unikt dark aesthetic klistermärke för laptop, dagbok och mer. Högkvalitativt vinyltryck med matt finish. Perfekt för alternativ stil och mystisk estetik.
-  Updated: 2025-12-21T22:09:37Z
+  Updated: 2025-12-22T09:55:38Z
   Vendor: Dark Aesthetic Studio
   Product Type: Klistermärke
   Availability: Available
