@@ -6,33 +6,33 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-12-22T00:00:36.354Z
+- Updated At: 2025-12-23T00:00:36.689Z
 
 ## Products
 
 - [Sour Apple Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/sour-apple-creatine-gummies): Bold green apple with 5g creatine. No mess, no prep—just pure momentum to train harder, recover faster, and keep chasing your next win.
-  Updated: 2025-12-21T10:16:09Z
+  Updated: 2025-12-22T04:24:31Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-sour-apple.jpg?v=1766100892
   Price: $68.00 AUD
 - [Orange Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/orange-creatine-gummies): Bright, zesty 5g creatine boost. Reliable fuel for every session so you can train, recover, and show up stronger every day.
-  Updated: 2025-12-21T10:18:23Z
+  Updated: 2025-12-22T04:24:31Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-orange.jpg?v=1766100850
   Price: $68.00 AUD
 - [Lemonade Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/lemonade-creatine-gummies): Refreshing citrus clarity with 5g creatine. Keeps you moving, recovering, and ready for what’s next—no fuss, just performance.
-  Updated: 2025-12-21T10:18:22Z
+  Updated: 2025-12-22T04:24:30Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-lemonade.jpg?v=1766100830
   Price: $68.00 AUD
 - [Strawberry Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/strawberry-creatine-gummies): Sweet, smooth 5g creatine power. Fuels your hustle post-session or on the go, keeping your momentum alive for what matters most.
-  Updated: 2025-12-21T22:00:05Z
+  Updated: 2025-12-22T10:00:10Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
