@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-22T00:00:40.751Z
+- Updated At: 2025-12-23T00:00:42.564Z
 
 ## Products
 
@@ -2249,7 +2249,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Adesivo Napoli 3° Scudetto - Supporter Calcio Napoli](https://www.amashopstudio.it/products/adesivo-divertente-napoli-ricomincio-da-3-supporter-calcio-napoli-scudetto-copia-1): Celebra il 3° scudetto del Napoli con il nostro adesivo personalizzato! Perfetto per i supporter del calcio Napoli. Acquista ora e mostra il tuo orgoglio!
-  Updated: 2025-09-17T14:59:41Z
+  Updated: 2025-12-22T23:46:12Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
