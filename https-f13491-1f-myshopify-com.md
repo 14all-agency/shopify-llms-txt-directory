@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-05-02T13:50:08Z
 - Contact Email: lucyonyinye123456@gmail.com
-- Updated At: 2025-12-20T00:00:27.887Z
+- Updated At: 2025-12-23T00:00:32.628Z
 
 ## Products
 
@@ -2044,7 +2044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0830/1982/5487/files/all-over-print-recycled-mens-joggers-white-front-674097bec9a7e.jpg?v=1732286411
     Price: €60.00 EUR
 - [T-shirt dress](https://f13491-1f.myshopify.com/products/t-shirt-dress): This dress is the swiss knife of all dresses—it’ll look great almost anywhere. Dress it up with a jacket or give it a more casual vibe with a pair of sneakers. Wear it as a nightie or even as a part of your street style outfit—the options are endless. The comfortable oversize fit proves that comfy can also be stylish! - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Smooth, comfortable stretch fabric - Lowered armhole with a widened sleeve and a drop shoulder - Comfortable oversize fit - Blank product components in the US sourced from Mexico - Blank product components in the EU sourced from LithuaniaSize guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 31 ½ 23 ⅝ 33 ⅞ XS 33 ⅛ 25 ¼ 35 ⅜ S 34 ⅝ 26 ¾ 37 M 36 ¼ 28 ⅜ 38 ⅝ L 39 ⅜ 31 ½ 41 ¾ XL 42 ½ 34 ⅝ 44 ⅞ 2XL 45 ⅝ 37 ¾ 48 3XL 48 ⅞ 41 51 ⅛ 4XL 52 44 ⅛ 54 ⅜ 5XL 55 ⅛ 47 ¼ 57 ½ 6XL 58 ¼ 50 ⅜ 60 ⅝ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 80 60 86 XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130 4XL 132 112 138 5XL 140 120 146 6XL 148 128 154
-  Updated: 2025-09-20T23:01:34Z
+  Updated: 2025-12-20T03:20:54Z
   Vendor: googluck
   Product Type: 
   Availability: Available
