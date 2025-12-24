@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-12-23T00:00:49.578Z
+- Updated At: 2025-12-24T00:00:49.330Z
 
 ## Products
 
@@ -815,7 +815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak116-37-miladress-scarlet-flatwhite.jpg?v=1738773991
     Price: $145.00 USD
 - [Buy Verbier Side Zip | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/verbier-side-zip): buy verbier side zip, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:31:21Z
+  Updated: 2025-12-23T20:43:06Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw510-89-verbiersidezip-hunter-white-web.jpg?v=1714248957
     Price: $95.00 USD
 - [Buy Alassio Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/alassio-wrap): Buy Alassio Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T14:29:37Z
+  Updated: 2025-12-23T14:06:16Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -987,7 +987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-01-Alassio-Wrap-Ivory-2-white-web.jpg?v=1763487559
     Price: $295.00 USD
 - [Buy Reversible Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-throw): buy reversible throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T01:53:38Z
+  Updated: 2025-12-23T16:40:41Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -1057,7 +1057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5413.jpg?v=1762778298
     Price: $495.00 USD
 - [Buy Ribbed Hot Water Bottle | Luxury Alpaca Accessory | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/ribbed-hot-water-bottle): buy ribbed hot water bottle, luxury alpaca accessory at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T16:46:23Z
+  Updated: 2025-12-23T00:48:36Z
   Vendor: alicia adams alpaca
   Product Type: Accessories
   Availability: Available
@@ -1109,26 +1109,26 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa113-112-rainbowhandwarmers-pearlgrey-white-web.jpg?v=1735832548
     Price: $55.00 USD
 - [Buy Mao Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mao-cape): buy mao cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:31:33Z
+  Updated: 2025-12-23T19:05:27Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC105-124-Mao-Cape-Scarlet-Lookbook-53.jpg?v=1763489825
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC105-16-Mao-Cape-Charcoal-Lookbook-3.jpg?v=1766516710
+  - [Charcoal](https://aliciaadamsalpaca.com/products/mao-cape?variant=40826916307059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC105-16-Mao-Cape-Charcoal-Lookbook-3.jpg?v=1766516710
+    Price: $595.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/mao-cape?variant=40826916405363)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC105-124-Mao-Cape-Scarlet-Lookbook-44.jpg?v=1763489825
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC105-124-Mao-Cape-Scarlet-Lookbook-44.jpg?v=1766516710
     Price: $595.00 USD
   - [Black](https://aliciaadamsalpaca.com/products/mao-cape?variant=53485124977012)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC105-17MaoCapeBlack_1.jpg?v=1763489825
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC105-17MaoCapeBlack_1.jpg?v=1766516710
     Price: $595.00 USD
   - [Denim Blue](https://aliciaadamsalpaca.com/products/mao-cape?variant=40258316894323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Mao_Cape_-_Denim_Blue.jpg?v=1763489825
-    Price: $595.00 USD
-  - [Charcoal](https://aliciaadamsalpaca.com/products/mao-cape?variant=40826916307059)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC105-16-Mao-Cape-Charcoal-Lookbook-3.jpg?v=1763489825
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Mao_Cape_-_Denim_Blue.jpg?v=1766516710
     Price: $595.00 USD
   - [Tobacco](https://aliciaadamsalpaca.com/products/mao-cape?variant=40826916339827)
     Availability: Available
@@ -1173,7 +1173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_63789.jpg?v=1693209221
     Price: $395.00 USD
 - [Buy XL Wrap | Luxury Alpaca Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/maxi-designer-extra-large-baby-alpaca-scarf): buy XL Wrap, luxury alpaca scarf at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-16T22:18:35Z
+  Updated: 2025-12-23T17:22:31Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -1961,210 +1961,210 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak118-37-nikioveralls-scarlet-flatwhite.jpg?v=1735842588
     Price: $185.00 USD
 - [Alpaca Sweaters on Sale | Luxury Alpaca Crew Neck Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/crew-neck-sweater): buy crew neck sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-20T21:05:34Z
+  Updated: 2025-12-23T19:38:08Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1758039247
-  - [French Yellow / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878820467)
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-128-Crew-Neck-Sweater-White-Lookbook-2.jpg?v=1766518386
+  - [White / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880786547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9651.jpg?v=1759500677
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-128-Crew-Neck-Sweater-White-Lookbook-2.jpg?v=1766518386
     Price: $95.00 USD
-  - [French Yellow / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878853235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9651.jpg?v=1759500677
-    Price: $95.00 USD
-  - [French Yellow / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878886003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9651.jpg?v=1759500677
-    Price: $95.00 USD
-  - [French Yellow / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878918771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9651.jpg?v=1759500677
-    Price: $95.00 USD
-  - [French Yellow / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878951539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9651.jpg?v=1759500677
-    Price: $95.00 USD
-  - [Pink Powder / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40258491187315)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Light_Pink.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Pink Powder / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878689395)
+  - [White / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880819315)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Light_Pink.jpg?v=1746116834
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-128-Crew-Neck-Sweater-White-Lookbook-2.jpg?v=1766518386
     Price: $95.00 USD
-  - [Pink Powder / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878722163)
+  - [White / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880852083)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Light_Pink.jpg?v=1746116834
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-128-Crew-Neck-Sweater-White-Lookbook-2.jpg?v=1766518386
     Price: $95.00 USD
-  - [Pink Powder / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878754931)
+  - [White / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880884851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Light_Pink.jpg?v=1746116834
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-128-Crew-Neck-Sweater-White-Lookbook-2.jpg?v=1766518386
     Price: $95.00 USD
-  - [Pink Powder / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878787699)
+  - [White / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880917619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Light_Pink.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Turquoise / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878984307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Turquoise / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879017075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Turquoise / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879049843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Turquoise / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879082611)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Turquoise / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879115379)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Lavender / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879148147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Lavender / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879180915)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Lavender / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879213683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Lavender / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879246451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Lavender / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879279219)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Dark Grey / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879311987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Dark Grey / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879344755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Dark Grey / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879377523)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Dark Grey / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879410291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Dark Grey / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879443059)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1746116834
-    Price: $95.00 USD
-  - [Scarlet / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879475827)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewnecksweater_scarlet_modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Scarlet / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879508595)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewnecksweater_scarlet_modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Scarlet / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879541363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewnecksweater_scarlet_modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Scarlet / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879574131)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewnecksweater_scarlet_modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Scarlet / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879606899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewnecksweater_scarlet_modelwhite.jpg?v=1746195377
-    Price: $95.00 USD
-  - [Chambray / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879639667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1758039247
-    Price: $95.00 USD
-  - [Chambray / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879672435)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1758039247
-    Price: $95.00 USD
-  - [Chambray / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879705203)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1758039247
-    Price: $95.00 USD
-  - [Chambray / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879737971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1758039247
-    Price: $95.00 USD
-  - [Chambray / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879770739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1758039247
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-128-Crew-Neck-Sweater-White-Lookbook-2.jpg?v=1766518386
     Price: $95.00 USD
   - [Arctic / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879803507)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1766518386
     Price: $95.00 USD
   - [Arctic / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879836275)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1766518386
     Price: $95.00 USD
   - [Arctic / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879869043)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1766518386
     Price: $95.00 USD
   - [Arctic / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879901811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1766518386
     Price: $95.00 USD
   - [Arctic / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879934579)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-crewneck-arctic-modelwhite.jpg?v=1766518386
     Price: $95.00 USD
-  - [Light Taupe / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879967347)
+  - [Chambray / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879639667)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1758039247
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1766518386
     Price: $95.00 USD
-  - [Light Taupe / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880000115)
+  - [Chambray / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879672435)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1758039247
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1766518386
     Price: $95.00 USD
-  - [Light Taupe / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880032883)
+  - [Chambray / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879705203)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1758039247
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1766518386
     Price: $95.00 USD
-  - [Light Taupe / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880065651)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1758039247
-    Price: $95.00 USD
-  - [Light Taupe / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880098419)
+  - [Chambray / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879737971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1758039247
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1766518386
+    Price: $95.00 USD
+  - [Chambray / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879770739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AW504-111-WomensCrewNeckChambray.jpg?v=1766518386
+    Price: $95.00 USD
+  - [Lavender / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879148147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Lavender / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879180915)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Lavender / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879213683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Lavender / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879246451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Lavender / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879279219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW504-95-women_screwnecksweater-Lavender-modelwhite.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Turquoise / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826878984307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Turquoise / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879017075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Turquoise / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879049843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Turquoise / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879082611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Turquoise / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879115379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_9433.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Navy Melange / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880295027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Navy Melange / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880327795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Navy Melange / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880360563)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Navy Melange / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880393331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Navy Melange / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880426099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck.jpg?v=1766518687
     Price: $95.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880131187)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1766518687
     Price: $95.00 USD
   - [Black / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880163955)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1766518687
     Price: $95.00 USD
   - [Black / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880196723)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1766518687
     Price: $95.00 USD
   - [Black / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880229491)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1766518687
     Price: $95.00 USD
   - [Black / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880262259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1746195377
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Mocha / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880950387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-144-Crew-Neck-Sweater-Mocha-Lookbook-6.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Mocha / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880983155)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-144-Crew-Neck-Sweater-Mocha-Lookbook-6.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Mocha / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826881015923)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-144-Crew-Neck-Sweater-Mocha-Lookbook-6.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Mocha / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826881048691)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-144-Crew-Neck-Sweater-Mocha-Lookbook-6.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Mocha / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826881081459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-144-Crew-Neck-Sweater-Mocha-Lookbook-6.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Light Taupe / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879967347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Light Taupe / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880000115)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Light Taupe / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880032883)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Light Taupe / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880065651)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Light Taupe / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826880098419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW504-102-Crew-Neck-Sweater-Light-Taupe-Lookbook-8.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Dark Grey / XS](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879311987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Dark Grey / S](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879344755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Dark Grey / M](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879377523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Dark Grey / L](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879410291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1766518687
+    Price: $95.00 USD
+  - [Dark Grey / XL](https://aliciaadamsalpaca.com/products/crew-neck-sweater?variant=40826879443059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Women_s_Crew_Neck_-_Dark_Grey.jpg?v=1766518687
     Price: $95.00 USD
 - [Buy Hudson Euro Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/hudson-euro-pillow): Elevate your home décor with the luxurious Hudson Euro Pillow from alicia adams alpaca. Crafted for both style and comfort, these oversized pillows are perfect for beds, sofas, or reading chairs. Buy now and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
   Updated: 2025-12-19T05:32:28Z
@@ -2233,11 +2233,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ap132-203-hudson_square-evergreen-flat_white.jpg?v=1741005408
     Price: $295.00 USD
 - [Buy Graydon Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-blanket-cape): buy graydon cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:32:36Z
+  Updated: 2025-12-23T19:43:45Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-graydoncape-chambray-denimblue-modelwood.jpg?v=1763491221
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-graydoncape-navy-ivory-vneck-scarlet-modelwhite.jpg?v=1766519025
   - [Ivory / Light Grey / ONE SIZE](https://aliciaadamsalpaca.com/products/graydon-blanket-cape?variant=40826892648563)
     Availability: Not Available
     Price: $690.00 USD
@@ -2620,14 +2620,14 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP130-203-Hudson_Lumbar-Evergreen-Flat_White.png?v=1741004686
     Price: $195.00 USD
 - [Buy Reversible Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-cape): buy reversible cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:32:51Z
+  Updated: 2025-12-23T22:55:05Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AC504-02-01-Reversible-Throw-Beige-Ivory-wood-web.jpg?v=1756744140
   - [Rust / Taupe / ONE SIZE](https://aliciaadamsalpaca.com/products/reversible-cape?variant=40826930298995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-reversiblecaperust-taupe_1.jpg?v=1759500506
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-reversiblecaperust-taupe_1.jpg?v=1766516673
     Price: $690.00 USD
   - [Pink Powder / Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/reversible-cape?variant=40826930167923)
     Availability: Available
@@ -2678,7 +2678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah504-114-111-reversiblethrow-denimblue-chambray-white-web_1_20fba530-4b08-4388-9fd4-901c6b4ecb04.jpg?v=1741011618
     Price: $690.00 USD
   - [English Manor / Navy / ONE SIZE](https://aliciaadamsalpaca.com/products/reversible-cape?variant=40826930102387)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah504-27-94-reversiblethrow-navy-englishmanor-white-web_7dcfa7c9-dbbd-415c-ae05-eb36c4c4878e.jpg?v=1741011618
     Price: $690.00 USD
 - [Buy Jamie Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/jamie-sweater): buy jamie sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
@@ -2716,22 +2716,22 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw506-45-jamiesweater-shockingpink-white-web.jpg?v=1693297661
     Price: $145.00 USD
 - [Buy Mazing Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mazing-blanket-cape): buy mazing cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:32:54Z
+  Updated: 2025-12-23T19:11:31Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ac542-12-mazingcape-lightgrey-modelwhite_11.jpg?v=1749205718
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ac542-102-mazingcape-lighttaupe-modelwhite_8_1.jpg?v=1766517090
   - [Light Taupe / ONE SIZE](https://aliciaadamsalpaca.com/products/mazing-blanket-cape?variant=40826917519475)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-av-ah542-102-mazing-throw-light-taupe-white-web.jpg?v=1735830175
-    Price: $690.00 USD
-  - [Light Grey / ONE SIZE](https://aliciaadamsalpaca.com/products/mazing-blanket-cape?variant=40826917486707)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AV-AH542-12-Mazing-Throw-Light-Grey-white-web_45e7a142-a41a-4f67-afc3-f9bbaf9b11dc.jpg?v=1735830175
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-av-ah542-102-mazing-throw-light-taupe-white-web.jpg?v=1766517090
     Price: $690.00 USD
   - [Navy / ONE SIZE](https://aliciaadamsalpaca.com/products/mazing-blanket-cape?variant=40258594930803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AV-AH542-27-Mazing-Throw-Navy-white-web_48014e7c-5243-48d5-82a4-c3e8ac6f750d.jpg?v=1735830175
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AV-AH542-27-Mazing-Throw-Navy-white-web_48014e7c-5243-48d5-82a4-c3e8ac6f750d.jpg?v=1766517090
+    Price: $690.00 USD
+  - [Light Grey / ONE SIZE](https://aliciaadamsalpaca.com/products/mazing-blanket-cape?variant=40826917486707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AV-AH542-12-Mazing-Throw-Light-Grey-white-web_45e7a142-a41a-4f67-afc3-f9bbaf9b11dc.jpg?v=1766517090
     Price: $690.00 USD
   - [Black / ONE SIZE](https://aliciaadamsalpaca.com/products/mazing-blanket-cape?variant=40826917552243)
     Availability: Available
@@ -3074,7 +3074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-av-aa404-16-loungesock-charcoal-white-web.jpg?v=1718815563
     Price: $89.00 USD
 - [Buy Damien Sweater For Men | Luxury Alpaca Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/damien-sweater-for-men): Elevate your wardrobe with the Damien Sweater by alicia adams alpaca. Made with premium baby alpaca silk blend, it offers softness and breathability. Versatile for any occasion, with unique channel stitch accents and durable Alcantara vegan suede. Shop our fair-trade made, eco-friendly luxury goods and earn rewards.
-  Updated: 2025-12-19T05:33:16Z
+  Updated: 2025-12-23T14:03:00Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -3180,7 +3180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1960.jpg?v=1759500325
     Price: $295.00 USD
 - [Buy Graydon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-throw): buy graydon throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T21:30:37Z
+  Updated: 2025-12-23T21:38:45Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -3206,7 +3206,7 @@
     Availability: Not Available
     Price: $375.00 USD
   - [Light Taupe / Blue](https://aliciaadamsalpaca.com/products/graydon-throw?variant=40826894024819)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah516-102-26-graydonthrow-lighttaupe-blue-2-white-hr.jpg?v=1735831086
     Price: $375.00 USD
   - [Light Taupe / Fuchsia](https://aliciaadamsalpaca.com/products/graydon-throw?variant=40826894090355)
@@ -3419,7 +3419,7 @@
     Price: $575.00 USD
   - [Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368242036)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1763556877
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1766519101
     Price: $575.00 USD
   - [Cognac / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=53674538434932)
     Availability: Available
@@ -3443,7 +3443,7 @@
     Price: $575.00 USD
   - [Forest Green](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368209268)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1763556582
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1766519101
     Price: $575.00 USD
   - [Chocolate / Black / Dark Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826887929971)
     Availability: Available
@@ -3459,11 +3459,11 @@
     Price: $575.00 USD
   - [Camel](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368405876)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1763556899
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1766519101
     Price: $575.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368307572)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1763556877
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1766519101
     Price: $575.00 USD
   - [Bordeaux](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368373108)
     Availability: Not Available
@@ -3556,22 +3556,22 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah207-124-113-aspenthrow-moss-grey-white-hr.jpg?v=1760098115
     Price: $590.00 USD
 - [Buy Mao Suri Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mao-suri-cape): buy mao suri cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:33:37Z
+  Updated: 2025-12-23T19:03:41Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-maosuricape_hunter-drkgry-modelwhite_5.jpg?v=1763489855
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-m-ac171-27-17-maosuricape-navy-black-1-white-web_4.jpg?v=1766516621
   - [Hunter / Dark Grey](https://aliciaadamsalpaca.com/products/mao-suri-cape?variant=40826916667507)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-maosuricape_hunter-drkgry-modelwhite_5.jpg?v=1763489855
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-maosuricape_hunter-drkgry-modelwhite_5.jpg?v=1766516621
     Price: $795.00 USD
   - [Beige / Light Taupe](https://aliciaadamsalpaca.com/products/mao-suri-cape?variant=40258691137651)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC171-02-102-Mao-Suri-Cape-Beige-Light-Taupe-Lookbook-54.jpg?v=1763489855
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC171-02-102-Mao-Suri-Cape-Beige-Light-Taupe-Lookbook-54.jpg?v=1766516621
     Price: $795.00 USD
   - [Navy / Black](https://aliciaadamsalpaca.com/products/mao-suri-cape?variant=40826916634739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-m-ac171-27-17-maosuricape-navy-black-1-white-web_4.jpg?v=1710864867
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-m-ac171-27-17-maosuricape-navy-black-1-white-web_4.jpg?v=1766516621
     Price: $795.00 USD
 - [Buy Lea Zip | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/lea-zip): buy lea zip, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-12-19T05:33:40Z
@@ -3644,150 +3644,170 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw104-111-leazip-chambray-white-hr.jpg?v=1763489625
     Price: $185.00 USD
 - [Buy V Neck Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater): buy v neck sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-21T16:15:39Z
+  Updated: 2025-12-23T19:40:58Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1-1-square-img_0790-jpg_custom_resized.jpg?v=1762803921
-  - [Tangerine / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953203827)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1762803921
-    Price: $95.00 USD
-  - [Tangerine / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953236595)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1762803921
-    Price: $95.00 USD
-  - [Tangerine / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953269363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1762803921
-    Price: $95.00 USD
-  - [Tangerine / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953302131)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1762803921
-    Price: $95.00 USD
-  - [Tangerine / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953334899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1762803921
-    Price: $95.00 USD
-  - [Shocking Pink / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952515699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1759500151
-    Price: $95.00 USD
-  - [Shocking Pink / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952548467)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1759500151
-    Price: $95.00 USD
-  - [Shocking Pink / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952581235)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1759500151
-    Price: $95.00 USD
-  - [Shocking Pink / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952614003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1759500151
-    Price: $95.00 USD
-  - [Shocking Pink / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952646771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1759500151
-    Price: $95.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1766518857
   - [Pearl Grey / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40258697789555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1766518857
     Price: $95.00 USD
   - [Pearl Grey / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826951893107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1766518857
     Price: $95.00 USD
   - [Pearl Grey / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826951925875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1766518857
     Price: $95.00 USD
   - [Pearl Grey / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826951958643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1766518857
     Price: $95.00 USD
   - [Pearl Grey / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826951991411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-112-V-Neck-Sweater-Pearl-Grey-8.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Arctic / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953039987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Arctic / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953072755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Arctic / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953105523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Arctic / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953138291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Arctic / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953171059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Lavender / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953695347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-95-vnecksweater-lavender-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Lavender / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953728115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-95-vnecksweater-lavender-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Lavender / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953760883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-95-vnecksweater-lavender-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Lavender / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953793651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-95-vnecksweater-lavender-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Lavender / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953826419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-95-vnecksweater-lavender-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Turquoise / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953531507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-50-vnecksweater-turquoise-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Turquoise / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953564275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-50-vnecksweater-turquoise-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Turquoise / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953597043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-50-vnecksweater-turquoise-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Turquoise / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953629811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-50-vnecksweater-turquoise-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Turquoise / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953662579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-50-vnecksweater-turquoise-modelwhite.jpg?v=1766518857
     Price: $95.00 USD
   - [Mocha / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952024179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1762803921
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1766518857
     Price: $95.00 USD
   - [Mocha / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952056947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1762803921
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1766518857
     Price: $95.00 USD
   - [Mocha / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952089715)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1762803921
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1766518857
     Price: $95.00 USD
   - [Mocha / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952122483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1762803921
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1766518857
     Price: $95.00 USD
   - [Mocha / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952155251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1762803921
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW103-113-VNeck-Mocha-Model-Lifestyle.jpg?v=1766518857
     Price: $95.00 USD
-  - [Navy Melange / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952188019)
+  - [French Yellow / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953367667)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-27m-vnecksweater-navymelange-white-web.jpg?v=1738668429
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1766518857
     Price: $95.00 USD
-  - [Navy Melange / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952220787)
+  - [French Yellow / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953400435)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-27m-vnecksweater-navymelange-white-web.jpg?v=1738668429
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1766518857
     Price: $95.00 USD
-  - [Navy Melange / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952253555)
+  - [French Yellow / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953433203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [French Yellow / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953465971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [French Yellow / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953498739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Tangerine / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953203827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Tangerine / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953236595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Tangerine / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953269363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Tangerine / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953302131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Tangerine / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953334899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-121-V-Neck-Sweater-Tangerine-Lookbook-3.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Shocking Pink / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952515699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Shocking Pink / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952548467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1766518857
+    Price: $95.00 USD
+  - [Shocking Pink / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952581235)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-27m-vnecksweater-navymelange-white-web.jpg?v=1738668429
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1766518857
     Price: $95.00 USD
-  - [Navy Melange / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952286323)
+  - [Shocking Pink / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952614003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-27m-vnecksweater-navymelange-white-web.jpg?v=1738668429
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1766518857
     Price: $95.00 USD
-  - [Navy Melange / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952319091)
+  - [Shocking Pink / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952646771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-27m-vnecksweater-navymelange-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Black / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952351859)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Black / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952384627)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Black / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952417395)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Black / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952450163)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Black / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952482931)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Chambray / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952679539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-111-vnecksweater-chambray-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Chambray / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952712307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-111-vnecksweater-chambray-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Chambray / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952745075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-111-vnecksweater-chambray-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Chambray / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952777843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-111-vnecksweater-chambray-white-web.jpg?v=1738668429
-    Price: $95.00 USD
-  - [Chambray / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952810611)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-111-vnecksweater-chambray-white-web.jpg?v=1738668429
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW103-45-V-Neck-Sweater-Shocking-Pink-Lookbook-13.jpg?v=1766518857
     Price: $95.00 USD
   - [Scarlet / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952843379)
     Availability: Available
@@ -3809,45 +3829,25 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-scarlet-modelwhite.jpg?v=1738668429
     Price: $95.00 USD
-  - [Arctic / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953039987)
+  - [Black / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952351859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
     Price: $95.00 USD
-  - [Arctic / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953072755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1759500151
+  - [Black / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952384627)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
     Price: $95.00 USD
-  - [Arctic / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953105523)
+  - [Black / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952417395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
     Price: $95.00 USD
-  - [Arctic / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953138291)
+  - [Black / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952450163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1759500151
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
     Price: $95.00 USD
-  - [Arctic / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953171059)
+  - [Black / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826952482931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-vneck-arctic-modelwhite.jpg?v=1759500151
-    Price: $95.00 USD
-  - [French Yellow / XS](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953367667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1762803921
-    Price: $95.00 USD
-  - [French Yellow / S](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953400435)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1762803921
-    Price: $95.00 USD
-  - [French Yellow / M](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953433203)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1762803921
-    Price: $95.00 USD
-  - [French Yellow / L](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953465971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1762803921
-    Price: $95.00 USD
-  - [French Yellow / XL](https://aliciaadamsalpaca.com/products/v-neck-alpaca-sweater?variant=40826953498739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1762803921
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-17-vnecksweater-black-white-web.jpg?v=1738668429
     Price: $95.00 USD
 - [Buy Osborne Jacket | Luxury Alpaca Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/osborne-jacket): buy osborne jacket, luxury alpaca jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-12-22T21:24:28Z
@@ -4402,7 +4402,7 @@
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/Andee-with-Zuma-wood-HR.jpg?v=1749204342
   Price: $75.00 USD
 - [Buy Baby Alpaca Toy | Luxury Alpaca Toy | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/baby-alpaca-toy): Buy Baby Alpaca Toy, luxury alpaca Toy at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:34:20Z
+  Updated: 2025-12-23T22:48:06Z
   Vendor: alicia adams alpaca
   Product Type: Toys
   Availability: Available
@@ -4660,79 +4660,79 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak120-110-01-samionesieandcardigan-pinkpowder-ivory-white-web.jpg?v=1738773284
     Price: $95.00 USD
 - [Buy Santa Fe Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/santa-fe-cape): buy santa fe cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T04:51:18Z
+  Updated: 2025-12-23T14:35:00Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_0684.jpg?v=1764938750
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_8069.jpg?v=1766500499
   - [Cognac](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936918131)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_0684.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_0684.jpg?v=1766500499
     Price: $865.00 USD
   - [Ochre](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40258920022131)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AC204-90-Santa_Fe_Cape-Ochre-Model-White_f438850b-df56-467a-a7e6-8f6d7166a5d9.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AC204-90-Santa_Fe_Cape-Ochre-Model-White_f438850b-df56-467a-a7e6-8f6d7166a5d9.jpg?v=1766500499
     Price: $695.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936754291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_8687-copy.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_8687-copy.jpg?v=1766500499
     Price: $865.00 USD
   - [Ecru](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936787059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-santafe-ecru-model-onwhite.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-santafe-ecru-model-onwhite.jpg?v=1766500499
     Price: $865.00 USD
   - [Light Taupe](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=51814206275956)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ac204-102-santafecape_lighttaupe__3.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ac204-102-santafecape_lighttaupe__3.jpg?v=1766500499
     Price: $865.00 USD
   - [Hunter](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936885363)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/ac-santafecape-hunter_blaine-black-modelwhite.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/ac-santafecape-hunter_blaine-black-modelwhite.jpg?v=1766500499
     Price: $865.00 USD
   - [Calypso](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936852595)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AC204-158-Santa-Fe-Cape-Calypso-Model-White-_6.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AC204-158-Santa-Fe-Cape-Calypso-Model-White-_6.jpg?v=1766500499
     Price: $695.00 USD
   - [Denim Blue](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=51814206243188)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ac204-114-santafecape_denimblue__2.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ac204-114-santafecape_denimblue__2.jpg?v=1766500499
     Price: $865.00 USD
   - [Indigo](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936950899)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_0529.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-img_0529.jpg?v=1766500499
     Price: $695.00 USD
   - [Black Melange](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=40826936819827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-santafecape-model-web_5.jpg?v=1764938750
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-santafecape-model-web_5.jpg?v=1766500499
     Price: $865.00 USD
   - [Maroon](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=53731168518516)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC204-216-Maroon_1.jpg?v=1765199670
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC204-216-Maroon_1.jpg?v=1766500499
     Price: $865.00 USD
   - [Moss](https://aliciaadamsalpaca.com/products/santa-fe-cape?variant=53731168551284)
     Availability: Available
     Price: $865.00 USD
 - [Buy Vienna Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vienna-cape): Discover modern sophistication with our alicia adamas alpaca's Vienna Cape, a statement piece for fashion enthusiasts. Featuring a reversible design and chic alcantara trim, this luxury alpaca cape exudes elegance. Shop now! Buy Vienna Cape at alicia adams alpaca, eco-friendly luxury goods and earn rewards.
-  Updated: 2025-12-22T06:30:22Z
+  Updated: 2025-12-23T19:10:09Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC203-01-02-Vienna-Cape-Ivory-Beige-Lookbook-45.jpg?v=1756743616
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC203-01-02-Vienna-Cape-Ivory-Beige-Lookbook-45.jpg?v=1766517008
   - [English Manor / Light Taupe / ONE SIZE](https://aliciaadamsalpaca.com/products/vienna-cape?variant=40826957987955)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC203-94-102-ViennaCape-EnglishManorLightTaupe-Lookbook-9.jpg?v=1759499092
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC203-94-102-ViennaCape-EnglishManorLightTaupe-Lookbook-9.jpg?v=1766517008
     Price: $650.00 USD
   - [Ivory / Beige / ONE SIZE](https://aliciaadamsalpaca.com/products/vienna-cape?variant=40826957955187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC203-01-02-Vienna-Cape-Ivory-Beige-Lookbook-45.jpg?v=1756743616
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC203-01-02-Vienna-Cape-Ivory-Beige-Lookbook-45.jpg?v=1766517008
     Price: $650.00 USD
   - [Black / Charcoal / ONE SIZE](https://aliciaadamsalpaca.com/products/vienna-cape?variant=40826958020723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ac203-17-16-viennacape-black-charcoal-1-white-web_1.jpg?v=1759499092
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ac203-17-16-viennacape-black-charcoal-1-white-web_1.jpg?v=1766517008
     Price: $650.00 USD
   - [Calypso / Aqua / ONE SIZE](https://aliciaadamsalpaca.com/products/vienna-cape?variant=40826958053491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_2146.jpg?v=1759499092
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_2146.jpg?v=1766517008
     Price: $650.00 USD
   - [Light Grey / Taupe / ONE SIZE](https://aliciaadamsalpaca.com/products/vienna-cape?variant=40258922184819)
     Availability: Available
@@ -5548,7 +5548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-Jamie-Sweater-Pantera-Wrap-model-web.jpg?v=1759498793
     Price: $325.00 USD
 - [Buy Candles | Luxury Candle | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/candle): Buy Candle, luxury alpaca Candle at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:35:24Z
+  Updated: 2025-12-23T14:05:20Z
   Vendor: alicia adams alpaca
   Product Type: Home Fragrance
   Availability: Available
@@ -5742,7 +5742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as105-02-102-suriwrap-beige-lighttaupe-white-hr.jpg?v=1763488048
     Price: $495.00 USD
 - [Buy Gia Jacket | Luxury Alpaca Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gia-jacket): buy gia jacket, luxury alpaca jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T21:34:42Z
+  Updated: 2025-12-23T20:28:55Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -6442,7 +6442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeshort_black_flatwhite.jpg?v=1735831314
     Price: $55.00 USD
 - [Buy Malibu Lounge Sweatpant | Luxury Alpaca Sweatpants | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/lounge-sweatpant): buy lounge sweatpant, luxury alpaca sweatpants at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:36:13Z
+  Updated: 2025-12-23T15:29:10Z
   Vendor: alicia adams alpaca
   Product Type: Loungewear
   Availability: Available
@@ -6694,34 +6694,34 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
     Price: $145.00 USD
 - [Buy Samira Coat | Luxury Alpaca Women's Coat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/samira-coat): buy samira coat, luxury alpaca women's coat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:36:25Z
+  Updated: 2025-12-23T14:39:17Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_1122.jpg?v=1759843433
   - [White / XXS](https://aliciaadamsalpaca.com/products/samira-coat?variant=40259020488819)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1766500757
     Price: $975.00 USD
   - [White / XS](https://aliciaadamsalpaca.com/products/samira-coat?variant=40826935935091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1766500757
     Price: $975.00 USD
   - [White / S](https://aliciaadamsalpaca.com/products/samira-coat?variant=40826935967859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1766500757
     Price: $975.00 USD
   - [White / M](https://aliciaadamsalpaca.com/products/samira-coat?variant=40826936000627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1766500757
     Price: $975.00 USD
   - [White / L](https://aliciaadamsalpaca.com/products/samira-coat?variant=40826936295539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1766500757
     Price: $975.00 USD
   - [White / XL](https://aliciaadamsalpaca.com/products/samira-coat?variant=40826936328307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-samiracoat-white-modelwhite_1.jpg?v=1766500757
     Price: $975.00 USD
   - [Light Grey / XXS](https://aliciaadamsalpaca.com/products/samira-coat?variant=40826936033395)
     Availability: Available
@@ -6773,27 +6773,27 @@
     Price: $975.00 USD
   - [Camel / XXS](https://aliciaadamsalpaca.com/products/samira-coat?variant=41430972465267)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1766500757
     Price: $975.00 USD
   - [Camel / XS](https://aliciaadamsalpaca.com/products/samira-coat?variant=41430972498035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1766500757
     Price: $975.00 USD
   - [Camel / S](https://aliciaadamsalpaca.com/products/samira-coat?variant=41430972530803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1766500757
     Price: $975.00 USD
   - [Camel / M](https://aliciaadamsalpaca.com/products/samira-coat?variant=41430972563571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1766500757
     Price: $975.00 USD
   - [Camel / L](https://aliciaadamsalpaca.com/products/samira-coat?variant=41430972596339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1766500757
     Price: $975.00 USD
   - [Camel / XL](https://aliciaadamsalpaca.com/products/samira-coat?variant=41430972629107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1766500757
     Price: $975.00 USD
   - [Navy / XXS](https://aliciaadamsalpaca.com/products/samira-coat?variant=53731251913076)
     Availability: Available
@@ -6904,7 +6904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-mimihat_taupe_onwhite.jpg?v=1759492584
     Price: $225.00 USD
 - [Luxury Alpaca Scarf | Ojai Scarf From Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/ojai-scarf): Our Luxury Ojai Alpaca Scarf is a subtle, yet stunning woven scarf trimmed with a unique eyelash fringe. Light weight with open weave details, its luxurious, soft feel will keep you wearing it again and again.
-  Updated: 2025-12-19T05:36:30Z
+  Updated: 2025-12-23T14:10:10Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -7145,58 +7145,58 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-SqaureMysticPillow-Scarlet-ShockingPink-Flatwhite.jpg?v=1764938947
     Price: $215.00 USD
 - [Buy Osborne Jacket For Women | Luxury Alpaca Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women): buy osborne jacket for women, luxury alpaca jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T21:24:27Z
+  Updated: 2025-12-23T14:41:21Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-M-OsborneJacket-Cognac-model-web.jpg?v=1759492298
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/MALIBU-MARCH-Beach-Print-14.jpg?v=1766500881
   - [Ecru / XS](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826925252723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1766500881
     Price: $685.00 USD
   - [Ecru / S](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826925285491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1766500881
     Price: $685.00 USD
   - [Ecru / M](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826925318259)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1766500881
     Price: $685.00 USD
   - [Ecru / L](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826925351027)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1766500881
     Price: $685.00 USD
   - [Ecru / XL](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826925383795)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1766500881
     Price: $685.00 USD
   - [Ecru / XXL](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826925416563)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-osbournejacket_ecru_modelwhite_3_1.jpg?v=1766500881
     Price: $685.00 USD
   - [Cognac / XS](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40259045392499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1766500881
     Price: $685.00 USD
   - [Cognac / S](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826924499059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1766500881
     Price: $685.00 USD
   - [Cognac / M](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826924531827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1766500881
     Price: $685.00 USD
   - [Cognac / L](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826924564595)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1766500881
     Price: $685.00 USD
   - [Cognac / XL](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826924597363)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1766500881
     Price: $685.00 USD
   - [Cognac / XXL](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826924630131)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1759492298
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/M-Osborne-Jacket-Cognac-model-web-_2.jpg?v=1766500881
     Price: $685.00 USD
   - [Moss / XS](https://aliciaadamsalpaca.com/products/osborne-jacket-for-women?variant=40826924859507)
     Availability: Available
@@ -10638,155 +10638,155 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa117-205-benjidogsweater-redpear-flatwhite.jpg?v=1759491479
     Price: $95.00 USD
 - [Buy Heidi Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/heidi-sweater): buy heidi sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T13:46:26Z
+  Updated: 2025-12-23T19:16:21Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1762257498
-  - [Ivory / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40259365863539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Ivory / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895335539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Ivory / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895532147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Ivory / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895728755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Spa Blue / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754193523)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Spa Blue / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754226291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Spa Blue / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754259059)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Spa Blue / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754291827)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Light Grey / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895302771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Light Grey / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895499379)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Light Grey / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895695987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Light Grey / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895892595)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Army Green / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557598580)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Army Green / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557631348)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Army Green / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557664116)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1762257498
-    Price: $480.00 USD
-  - [Army Green / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557696884)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1762257498
-    Price: $480.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1766517381
   - [Military Green / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895270003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1766517381
     Price: $480.00 USD
   - [Military Green / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895466611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1766517381
     Price: $480.00 USD
   - [Military Green / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895663219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1766517381
     Price: $480.00 USD
   - [Military Green / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895859827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9738.jpg?v=1766517381
     Price: $480.00 USD
-  - [Black / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895171699)
+  - [Spa Blue / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754193523)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1766517381
     Price: $480.00 USD
-  - [Black / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895368307)
+  - [Spa Blue / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754226291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1766517381
     Price: $480.00 USD
-  - [Black / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895564915)
+  - [Spa Blue / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754259059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1766517381
     Price: $480.00 USD
-  - [Black / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895761523)
+  - [Spa Blue / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=41086754291827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1762257498
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW128-215-HeidiSweater-SpaBlue-Lookbook-10.jpg?v=1766517381
     Price: $480.00 USD
-  - [Red / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895204467)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Red / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895401075)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Red / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895597683)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Red / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895794291)
+  - [Light Grey / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895302771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Yellow / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895237235)
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Light Grey / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895499379)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Yellow / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895433843)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Yellow / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895630451)
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Light Grey / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895695987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1762257498
-    Price: $265.00 USD
-  - [Yellow / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895827059)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1762257498
-    Price: $265.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Light Grey / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895892595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw128-12-heidisweater-lightgrey-modelwood_6.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Ivory / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40259365863539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Ivory / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895335539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Ivory / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895532147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Ivory / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895728755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1236.jpg?v=1766517381
+    Price: $480.00 USD
   - [Beige / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53636815651188)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1762506777
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1766517381
     Price: $480.00 USD
   - [Beige / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53636815683956)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1762506777
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1766517381
     Price: $480.00 USD
   - [Beige / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53636815716724)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1762506777
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1766517381
     Price: $480.00 USD
   - [Beige / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53636815749492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1762506777
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW128-02-Heidi_Sweater-Beige-Model-White.jpg?v=1766517381
     Price: $480.00 USD
+  - [Army Green / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557598580)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Army Green / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557631348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Army Green / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557664116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Army Green / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=53529557696884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW128-230-HeidiSweaterArmyGreen_1.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Black / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895171699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Black / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895368307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Black / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895564915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Black / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895761523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_1591.jpg?v=1766517381
+    Price: $480.00 USD
+  - [Red / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895204467)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Red / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895401075)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Red / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895597683)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Red / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895794291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_9657.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Yellow / XS](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895237235)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Yellow / S](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895433843)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Yellow / M](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895630451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1766517381
+    Price: $265.00 USD
+  - [Yellow / L](https://aliciaadamsalpaca.com/products/heidi-sweater?variant=40826895827059)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_8711.jpg?v=1766517381
+    Price: $265.00 USD
 - [Buy Knit Polo | Luxury Alpaca Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/knit-polo): buy knit polo, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-12-20T07:47:30Z
   Vendor: alicia adams alpaca
@@ -11188,7 +11188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHD300-PatmosThrow-LightGrey-FlatWhite.jpg?v=1754057806
     Price: $495.00 USD
 - [Buy Buckley Cardigan | Luxury Alpaca Cardigan | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/buckley-cardigan): Buy Buckley Cardigan, luxury alpaca Cardigan at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T14:01:54Z
+  Updated: 2025-12-23T19:21:23Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
@@ -11209,107 +11209,107 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1979.jpg?v=1762266150
     Price: $595.00 USD
-  - [Ochre / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848772211)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1762266150
-    Price: $285.00 USD
-  - [Ochre / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848804979)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1762266150
-    Price: $285.00 USD
-  - [Ochre / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848837747)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1762266150
-    Price: $285.00 USD
-  - [Ochre / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848870515)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1762266150
-    Price: $285.00 USD
-  - [Chocolate / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848903283)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1762266150
-    Price: $395.00 USD
-  - [Chocolate / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848936051)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1762266150
-    Price: $395.00 USD
-  - [Chocolate / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848968819)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1762266150
-    Price: $395.00 USD
-  - [Chocolate / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849001587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1762266150
-    Price: $395.00 USD
-  - [Black / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849034355)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1762266150
-    Price: $595.00 USD
-  - [Black / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849067123)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1762266150
-    Price: $595.00 USD
-  - [Black / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849099891)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1762266150
-    Price: $595.00 USD
-  - [Black / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849132659)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1762266150
-    Price: $595.00 USD
   - [Spa Blue / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=41079880745075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1762266150
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1766517683
     Price: $595.00 USD
   - [Spa Blue / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=41079960961139)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1762266150
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1766517683
     Price: $595.00 USD
   - [Spa Blue / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=41079962501235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1762266150
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1766517683
     Price: $595.00 USD
   - [Spa Blue / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=41079964729459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1762266150
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW202-215-Buckley-Cardigan-Spa-Blue-Lookbook-12.jpg?v=1766517683
     Price: $595.00 USD
+  - [Black / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849034355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1766517683
+    Price: $595.00 USD
+  - [Black / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849067123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1766517683
+    Price: $595.00 USD
+  - [Black / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849099891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1766517683
+    Price: $595.00 USD
+  - [Black / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849132659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_1932.jpg?v=1766517683
+    Price: $595.00 USD
+  - [Chocolate / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848903283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1766517683
+    Price: $395.00 USD
+  - [Chocolate / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848936051)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1766517683
+    Price: $395.00 USD
+  - [Chocolate / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848968819)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1766517683
+    Price: $395.00 USD
+  - [Chocolate / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826849001587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9301.jpg?v=1766517683
+    Price: $395.00 USD
+  - [Ochre / XS](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848772211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1766517683
+    Price: $285.00 USD
+  - [Ochre / S](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848804979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1766517683
+    Price: $285.00 USD
+  - [Ochre / M](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848837747)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1766517683
+    Price: $285.00 USD
+  - [Ochre / L](https://aliciaadamsalpaca.com/products/buckley-cardigan?variant=40826848870515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDIMG_0012_1.jpg?v=1766517683
+    Price: $285.00 USD
 - [Pantera | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/pantera-cardigan): buy pantera cardigan, luxury alpaca cardigan at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:40:04Z
+  Updated: 2025-12-23T19:22:10Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-IMG_9107.jpg?v=1759491273
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-pantera10.jpg?v=1766517730
   - [Light grey / XS](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40316632989811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1766517730
     Price: $895.00 USD
   - [Light grey / S](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926301299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1766517730
     Price: $895.00 USD
   - [Light grey / M](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926334067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1766517730
     Price: $895.00 USD
   - [Light grey / L](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926366835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59667.jpg?v=1766517730
     Price: $895.00 USD
   - [Ecru / XS](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926399603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1766517730
     Price: $895.00 USD
   - [Ecru / S](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926432371)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1766517730
     Price: $895.00 USD
   - [Ecru / M](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926465139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1766517730
     Price: $895.00 USD
   - [Ecru / L](https://aliciaadamsalpaca.com/products/pantera-cardigan?variant=40826926497907)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1759491273
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0239.jpg?v=1766517730
     Price: $895.00 USD
 - [Buy Pinto Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/pinto-wrap): Discover the allure of the Pinto Wrap from alicia adams alpaca, crafted from our beloved baby alpaca/silk blend, this lightweight scarf is perfect for coastal climates and year-round evenings. Shop now for luxury alpaca blankets and earn rewards on fair-trade, eco-friendly luxury goods.
   Updated: 2025-12-19T05:40:06Z
@@ -11618,7 +11618,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_2878.jpg?v=1759491107
     Price: $550.00 USD
 - [Buy Casablanca Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/casablanca-throw): Buy Casablanca Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:40:21Z
+  Updated: 2025-12-23T00:51:56Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -11636,22 +11636,22 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-27-84-CasablancaThrow-Navy-AdmiralsBlue-white-web.jpg?v=1759491087
     Price: $495.00 USD
 - [Buy Casablanca Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/casablanca-cape): Buy Casablanca Cape, luxury alpaca Cape at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:40:22Z
+  Updated: 2025-12-23T14:35:41Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/alicia-square_3747dea5-b9d7-4410-a209-f69d18da24a3.jpg?v=1764938098
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-27-84-CasablancaThrow-Navy-AdmiralsBlue-white-web_8d1298c7-5897-4185-9f74-622fc17bc6cd.jpg?v=1766500540
   - [Chocolate / Brick](https://aliciaadamsalpaca.com/products/casablanca-cape?variant=40263542997107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-08-109-CasablancaThrow-Chocolate-Brick-wood-web.jpg?v=1764938098
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-08-109-CasablancaThrow-Chocolate-Brick-wood-web.jpg?v=1766500540
     Price: $650.00 USD
   - [Navy / Admirals Blue](https://aliciaadamsalpaca.com/products/casablanca-cape?variant=40826852180083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-27-84-CasablancaThrow-Navy-AdmiralsBlue-white-web_8d1298c7-5897-4185-9f74-622fc17bc6cd.jpg?v=1764938098
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-27-84-CasablancaThrow-Navy-AdmiralsBlue-white-web_8d1298c7-5897-4185-9f74-622fc17bc6cd.jpg?v=1766500540
     Price: $650.00 USD
   - [Velvet Green / Juniper](https://aliciaadamsalpaca.com/products/casablanca-cape?variant=40826852212851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/alicia-square_3747dea5-b9d7-4410-a209-f69d18da24a3.jpg?v=1764938098
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/alicia-square_3747dea5-b9d7-4410-a209-f69d18da24a3.jpg?v=1766500540
     Price: $650.00 USD
 - [Buy Casablanca Long Lumbar Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/casablanca-long-lumbar-pillow): Buy Casablanca Long Lumbar Pillow, luxury alpaca Pillow at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-12-19T05:40:23Z
@@ -11770,7 +11770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite.jpg?v=1759490717
     Price: $395.00 USD
 - [Buy Classic Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-throw): Discover luxurious comfort with our Alicia Adams Alpaca Classic Throws. Available in over 100 vibrant hues, these throws add elegance to any space. Perfect for cozy nights or stylish accents. Buy now & earn rewards! Shop our fair-trade, eco-friendly luxury goods.
-  Updated: 2025-12-22T15:34:58Z
+  Updated: 2025-12-23T03:22:12Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12350,7 +12350,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $165.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T21:30:37Z
+  Updated: 2025-12-23T03:28:22Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
@@ -12898,11 +12898,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ReversiblehatMaroon_lighttaupe.jpg?v=1765452645
     Price: $165.00 USD
 - [Buy Classic Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-cape): Buy Classic Cape, available in 100+ colors. The ultimate selection of luxury alpaca capes at Alicia Adams Alpaca. Free shipping over $175
-  Updated: 2025-12-20T17:28:43Z
+  Updated: 2025-12-23T14:33:10Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-classiccape-spruce-modelwhite-swatch_1.jpg?v=1764938542
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AC101-28-Classic-Herringbone-Cape-Sky-Blue-Lifestyle-39.jpg?v=1766500390
   - [Solid White](https://aliciaadamsalpaca.com/products/classic-cape?variant=41012006355059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah102-128-classicthrow-white-white-hr_7dcee3b1-4b39-4a01-9ca7-f1070a26f68b.jpg?v=1764938542
@@ -13516,70 +13516,70 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah102-12-classicthrow-platinum-white-hr_0549100f-afae-4622-a61c-26f2c3c98d4a.jpg?v=1759489696
     Price: $2,200.00 USD
 - [Buy Innsbruck Cardigan | Luxury Alpaca Cardigan | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/innsbruck-cardigan): Experience the luxurious comfort of the alicia adams alpaca Innsbruck Cardigan. Crafted for softness and casual elegance, it's a versatile addition to any wardrobe, promises both comfort and style. The Innsbruck Cardigan, your choice for ultimate sophistication. Shop now and earn rewards with every purchase!
-  Updated: 2025-12-19T05:43:12Z
+  Updated: 2025-12-23T19:25:09Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1763747105
-  - [Blush / Light Taupe / XS](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376511091)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1763747105
-    Price: $595.00 USD
-  - [Blush / Light Taupe / S](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376543859)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1763747105
-    Price: $595.00 USD
-  - [Blush / Light Taupe / M](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376576627)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1763747105
-    Price: $595.00 USD
-  - [Blush / Light Taupe / L](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376609395)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1763747105
-    Price: $595.00 USD
-  - [Blush / Light Taupe / XL](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015420944499)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1763747105
-    Price: $595.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1766517908
   - [Pine / Taupe / XS](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376380019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Pine / Taupe / S](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376412787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Pine / Taupe / M](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376445555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Pine / Taupe / L](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376478323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Pine / Taupe / XL](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015420911731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-89-04-Innsbruck-Cardigan-Hunter-Taupe-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Navy / Pearl Grey / XS](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376248947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Navy / Pearl Grey / S](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376281715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Navy / Pearl Grey / M](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376314483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Navy / Pearl Grey / L](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376347251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1766517908
     Price: $595.00 USD
   - [Navy / Pearl Grey / XL](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015420878963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1763747105
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1766517908
+    Price: $595.00 USD
+  - [Blush / Light Taupe / XS](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376511091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1766517908
+    Price: $595.00 USD
+  - [Blush / Light Taupe / S](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376543859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1766517908
+    Price: $595.00 USD
+  - [Blush / Light Taupe / M](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376576627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1766517908
+    Price: $595.00 USD
+  - [Blush / Light Taupe / L](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015376609395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1766517908
+    Price: $595.00 USD
+  - [Blush / Light Taupe / XL](https://aliciaadamsalpaca.com/products/innsbruck-cardigan?variant=41015420944499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW130-83-102-Innsbruck--Cardigan-Blush-Light-Taupe-Lookbook-8jpg.jpg?v=1766517908
     Price: $595.00 USD
 - [Buy Vicuna Crew Neck Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vicuna-crew-neck-sweater): buy vicuna crew neck sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-12-19T05:43:14Z
@@ -14206,30 +14206,30 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-17_2.jpg?v=1759843787
     Price: $975.00 USD
 - [Hacienda Cardigan](https://aliciaadamsalpaca.com/products/hacienda-cardigan): The Hacienda Cardigan is made with 100% baby alpaca, fringe details, and tie at waist. Layer it over your favorite outfit to upscale your look! Materials: 100% baby alpaca Product Care: Dry clean only Proudly fair-trade made in Peru.
-  Updated: 2025-12-19T05:43:43Z
+  Updated: 2025-12-23T14:40:41Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49_2.jpg?v=1759426014
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-lifestyle_23.jpg?v=1766500841
   - [Ivory / Taupe / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587108212)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1766500830
     Price: $685.00 USD
   - [Ivory / Taupe / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587140980)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1766500830
     Price: $685.00 USD
   - [Ivory / Taupe / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587173748)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1766500830
     Price: $685.00 USD
   - [Ivory / Taupe / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587206516)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1766500830
     Price: $685.00 USD
   - [Ivory / Taupe / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587239284)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1766500830
     Price: $685.00 USD
   - [Moss / Carbon / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51794312233332)
     Availability: Available
@@ -14253,175 +14253,175 @@
     Price: $685.00 USD
   - [Black / Camel / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183174516)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1766500830
     Price: $685.00 USD
   - [Black / Camel / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183207284)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1766500830
     Price: $685.00 USD
   - [Black / Camel / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183240052)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1766500830
     Price: $685.00 USD
   - [Black / Camel / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183272820)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1766500830
     Price: $685.00 USD
   - [Black / Camel / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183305588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1766500830
     Price: $685.00 USD
   - [Denim Blue / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183338356)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1766500830
     Price: $685.00 USD
   - [Denim Blue / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183371124)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1766500830
     Price: $685.00 USD
   - [Denim Blue / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183403892)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1766500830
     Price: $685.00 USD
   - [Denim Blue / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183436660)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1766500830
     Price: $685.00 USD
   - [Denim Blue / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183469428)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1766500830
     Price: $685.00 USD
 - [Francis Sweater | Luxury Alpaca Sweater | alicia adams alpaca](https://aliciaadamsalpaca.com/products/francis-sweater): Experience unparalleled comfort with the Francis Sweater by alicia adams alpaca. Elevate your style effortlessly with sleek design details. Shop now and earn rewards with our fair-trade, eco-friendly luxury goods!
-  Updated: 2025-12-19T05:43:47Z
+  Updated: 2025-12-23T19:17:20Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model.jpg?v=1759425946
-  - [Ivory / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222365044)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Ivory / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222397812)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Ivory / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222430580)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Ivory / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222463348)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Oatmeal / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222528884)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Oatmeal / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222561652)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Oatmeal / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222594420)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
-    Price: $495.00 USD
-  - [Oatmeal / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222627188)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
-    Price: $495.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2_2.jpg?v=1766517439
   - [Denim Blue / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222692724)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1766517439
     Price: $495.00 USD
   - [Denim Blue / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222725492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1766517439
     Price: $495.00 USD
   - [Denim Blue / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222758260)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1766517439
     Price: $495.00 USD
   - [Denim Blue / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222791028)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Ivory / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222365044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Ivory / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222397812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Ivory / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222430580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Ivory / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222463348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Oatmeal / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222528884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Oatmeal / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222561652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Oatmeal / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222594420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1766517439
+    Price: $495.00 USD
+  - [Oatmeal / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222627188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1766517439
     Price: $495.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222856564)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1766517439
     Price: $495.00 USD
   - [Black / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222889332)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1766517439
     Price: $495.00 USD
   - [Black / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222922100)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1766517439
     Price: $495.00 USD
   - [Black / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222954868)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1766517439
     Price: $495.00 USD
   - [Coral Rose / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228623732)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1766517439
     Price: $495.00 USD
   - [Coral Rose / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228656500)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1766517439
     Price: $495.00 USD
   - [Coral Rose / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228689268)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1766517439
     Price: $495.00 USD
   - [Coral Rose / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228722036)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1766517439
     Price: $495.00 USD
 - [Jackie Sweater | Luxury Alpaca Sweater | alicia adams alpaca](https://aliciaadamsalpaca.com/products/jackie-sweater): Experience unparalleled comfort with the Jackie Sweater by alicia adams alpaca. Elevate your style effortlessly with sleek design details. Shop now and earn rewards with our fair-trade, eco-friendly luxury goods!
-  Updated: 2025-12-19T14:54:29Z
+  Updated: 2025-12-23T19:19:44Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__3.jpg?v=1759425907
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__4.jpg?v=1766517584
   - [Ivory / Navy / XS](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264340852)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1766517584
     Price: $395.00 USD
   - [Ivory / Navy / S](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264373620)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1766517584
     Price: $395.00 USD
   - [Ivory / Navy / M](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264406388)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1766517584
     Price: $395.00 USD
   - [Ivory / Navy / L](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264439156)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1766517584
     Price: $395.00 USD
   - [Ivory / Navy / XL](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814274072948)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1766517584
     Price: $395.00 USD
   - [Black / Cognac / XS](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264471924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1766517584
     Price: $395.00 USD
   - [Black / Cognac / S](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264504692)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1766517584
     Price: $395.00 USD
   - [Black / Cognac / M](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264537460)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1766517584
     Price: $395.00 USD
   - [Black / Cognac / L](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264570228)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1766517584
     Price: $395.00 USD
   - [Black / Cognac / XL](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814274105716)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1766517584
     Price: $395.00 USD
 - [Oslo Bed Blanket | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/oslo-bed-blanket): Experience rustic charm of the alicia adams alpaca Oslo Bed Blanket. Buy now for luxurious comfort and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
   Updated: 2025-12-19T05:43:51Z
@@ -14446,34 +14446,34 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah239-02.jpg?v=1765819606
     Price: $1,690.00 USD
 - [Buy Cabin Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/cabin-cape): buy cabin cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:43:53Z
+  Updated: 2025-12-23T19:45:01Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/OlsenCape-Tobacco.jpg?v=1763489751
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-27-Field-Blanket-Navy-wood-web_ee60edf0-18df-4ab6-a3f3-1d8a8e1714af.jpg?v=1766519101
   - [Camel / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945931124)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1763556899
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1766519101
     Price: $325.00 USD
   - [Scarlet / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946226036)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1763556877
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1766519101
     Price: $795.00 USD
   - [Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945865588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1763556877
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1766519101
     Price: $795.00 USD
   - [Navy / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946062196)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-27-Field-Blanket-Navy-wood-web_ee60edf0-18df-4ab6-a3f3-1d8a8e1714af.jpg?v=1763489751
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-27-Field-Blanket-Navy-wood-web_ee60edf0-18df-4ab6-a3f3-1d8a8e1714af.jpg?v=1766519101
     Price: $795.00 USD
   - [Charcoal / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945800052)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-16-Field-Blanket-Charcoal-wood-web_86828bfe-8a62-4171-842e-45aabd8e5c0b.jpg?v=1759425876
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-16-Field-Blanket-Charcoal-wood-web_86828bfe-8a62-4171-842e-45aabd8e5c0b.jpg?v=1766519101
     Price: $325.00 USD
   - [Forest Green / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946127732)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1763556582
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1766519101
     Price: $325.00 USD
   - [Light Grey / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945636212)
     Availability: Available
@@ -14484,50 +14484,50 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1763556899
     Price: $795.00 USD
 - [Buy Zumita Cardigan | Luxury Alpaca Cardigan | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/zumita-cardigan): Buy Zumita Cardigan, luxury alpaca Cardigan at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:43:56Z
+  Updated: 2025-12-23T14:43:56Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen.jpg?v=1764939806
-  - [Bottle Green / XS](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896957300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1764939806
-    Price: $395.00 USD
-  - [Bottle Green / S](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896990068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1764939806
-    Price: $395.00 USD
-  - [Bottle Green / M](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975897022836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1764939806
-    Price: $395.00 USD
-  - [Bottle Green / L](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975897055604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1764939806
-    Price: $395.00 USD
-  - [Bottle Green / XL](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51976016036212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1764939806
-    Price: $395.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1766501036
   - [Ivory / XS](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896826228)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1764939806
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1766501036
     Price: $395.00 USD
   - [Ivory / S](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896858996)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1764939806
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1766501036
     Price: $395.00 USD
   - [Ivory / M](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896891764)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1764939806
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1766501036
     Price: $395.00 USD
   - [Ivory / L](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896924532)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1764939806
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1766501036
     Price: $395.00 USD
   - [Ivory / XL](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51976016003444)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1764939806
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211_01zumitacardiganivory.jpg?v=1766501036
+    Price: $395.00 USD
+  - [Bottle Green / XS](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896957300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1766501036
+    Price: $395.00 USD
+  - [Bottle Green / S](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975896990068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1766501036
+    Price: $395.00 USD
+  - [Bottle Green / M](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975897022836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1766501036
+    Price: $395.00 USD
+  - [Bottle Green / L](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975897055604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1766501036
+    Price: $395.00 USD
+  - [Bottle Green / XL](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51976016036212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-96zumitacardigankellygreen_1.jpg?v=1766501036
     Price: $395.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/zumita-cardigan?variant=51975897088372)
     Availability: Available
@@ -14607,8 +14607,46 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0271.jpg?v=1759424197
     Price: $325.00 USD
+- [Buy Notting Hill Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/notting-hill-throw): buy notting hill wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
+  Updated: 2025-12-23T00:07:39Z
+  Vendor: alicia adams alpaca
+  Product Type: Blankets & Throws
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-01-02Ivory-Beige_3.jpg?v=1761734764
+  - [Ivory / Beige](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=53595791491444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-01-02Ivory-Beige_3.jpg?v=1761734764
+    Price: $495.00 USD
+  - [Grey / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=52061567287668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Notting_Hill_Grey-Ivory1_39939f47-4dc0-4dfc-bc06-54ff4fc58781.jpg?v=1761734764
+    Price: $495.00 USD
+  - [Light Grey / Charcoal](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=53595791524212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-12-16LightGrey-Charcoal_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Black / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=53595791556980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-17-01Black-Ivory_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Navy / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=52061567254900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-27-01Navy-Ivory_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Mauve / Purple](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=53595791589748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-42-53Mauve-Purple_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Velvet Green / Sage](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=53595791622516)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-52-54VelvetGreen-Sage_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Light Taupe / Chocolate](https://aliciaadamsalpaca.com/products/notting-hill-throw?variant=53595791655284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-102-08LightTaupe-Chocolate_3.jpg?v=1761733384
+    Price: $495.00 USD
 - [Buy Glamper Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/glamper-throw): Buy Glamper Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T22:05:33Z
+  Updated: 2025-12-23T14:44:20Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -14646,7 +14684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH114-02-01-12Beige-Ivory-LightGrey.jpg?v=1763406341
     Price: $495.00 USD
   - [Cognac / Beige / Ivory](https://aliciaadamsalpaca.com/products/glamper-throw?variant=53665156759924)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH114-10-02-01Cognac-Beige-Ivory.jpg?v=1763406341
     Price: $495.00 USD
   - [Ivory / Light Taupe / Bark](https://aliciaadamsalpaca.com/products/glamper-throw?variant=53665156727156)
@@ -15016,18 +15054,18 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownLeash.jpg?v=1756487296
     Price: $80.00 USD
 - [Rodeo Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rodeo-cape): buy rodeo cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-19T05:44:20Z
+  Updated: 2025-12-23T19:07:31Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RodeoCapeFawnLifestyle.jpg?v=1759419646
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC207-128RodeoWhite.jpg?v=1766516851
   - [White](https://aliciaadamsalpaca.com/products/rodeo-cape?variant=53059518267764)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC207-128RodeoWhite_1.jpg?v=1759419646
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC207-128RodeoWhite_1.jpg?v=1766516851
     Price: $675.00 USD
   - [Fawn](https://aliciaadamsalpaca.com/products/rodeo-cape?variant=53059518300532)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC207-129RodeoFawn.jpg?v=1759419646
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC207-129RodeoFawn.jpg?v=1766516851
     Price: $675.00 USD
   - [Black](https://aliciaadamsalpaca.com/products/rodeo-cape?variant=53059518103924)
     Availability: Available
@@ -15067,70 +15105,70 @@
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-SwatchRingonwood.jpg?v=1758901805
   Price: $160.00 USD
 - [Après Keaton Turtleneck](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck): Experience unparalleled comfort with the Keaton Turtleneck by alicia adams alpaca. Made from 100% Royal Alpaca, it offers luxurious softness and warmth. Elevate your style effortlessly with sleek design details. Shop now and earn rewards with our fair-trade, eco-friendly luxury goods!
-  Updated: 2025-12-19T05:44:26Z
+  Updated: 2025-12-23T19:18:38Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_1.jpg?v=1765375771
-  - [Beige / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191934324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1765375771
-    Price: $435.00 USD
-  - [Beige / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191967092)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1765375771
-    Price: $435.00 USD
-  - [Beige / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191999860)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1765375771
-    Price: $435.00 USD
-  - [Beige / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192032628)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1765375771
-    Price: $435.00 USD
-  - [Beige / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192065396)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1765375771
-    Price: $435.00 USD
-  - [Carbon / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191606644)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1762254064
-    Price: $435.00 USD
-  - [Carbon / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191639412)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1762254064
-    Price: $435.00 USD
-  - [Carbon / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191672180)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1762254064
-    Price: $435.00 USD
-  - [Carbon / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191704948)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1762254064
-    Price: $435.00 USD
-  - [Carbon / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191737716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1762254064
-    Price: $435.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1766517517
   - [Navy / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191770484)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1765375771
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1766517517
     Price: $435.00 USD
   - [Navy / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191803252)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1765375771
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1766517517
     Price: $435.00 USD
   - [Navy / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191836020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1765375771
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1766517517
     Price: $435.00 USD
   - [Navy / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191868788)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1765375771
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1766517517
     Price: $435.00 USD
   - [Navy / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191901556)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1765375771
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Carbon / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191606644)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Carbon / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191639412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Carbon / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191672180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Carbon / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191704948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Carbon / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191737716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Beige / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191934324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Beige / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191967092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Beige / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191999860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Beige / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192032628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1766517517
+    Price: $435.00 USD
+  - [Beige / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192065396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1766517517
     Price: $435.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192098164)
     Availability: Available
@@ -15227,40 +15265,40 @@
 ## Collections
 
 - [Shop Women's Designer Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women): Discover our exquisite collection of luxury alpaca women's clothing, from chic coats to cozy sweaters, all crafted from 100% baby alpaca wool for unmatched style and comfort.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 114
 - [Designer Alpaca Children's Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children): Explore our collection of alpaca children's clothing and accessories. Envelop your little ones in expertly crafted alpaca apparel, ensuring warmth and comfort.
   Updated: 2025-12-19T12:17:34Z
   Total Products: 19
 - [Alicia Adams Alpaca | Home Living | Alpaca Home Decor](https://aliciaadamsalpaca.com/collections/home-living): Discover luxurious artisan-crafted alpaca home decor and accessories that blend sophistication and comfort. Explore exquisite alpaca throws, blankets, pillows.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 78
 - [alicia adams alpaca | girls | girl's clothing & accessories](https://aliciaadamsalpaca.com/collections/shop-children-girls): Our girls collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
   Updated: 2025-12-14T12:17:27Z
   Total Products: 9
 - [Designer Alpaca Capes and Wraps | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/capes-wraps): Discover our women’s wraps, capes, and ponchos crafted from the finest alpaca wool in an array of proprietary colors, patterns, providing effortless elegance.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 44
 - [Alicia Adams Alpaca | Alpaca Throw Blankets | Luxury Alpaca Throws](https://aliciaadamsalpaca.com/collections/decorative-throws): Discover our exquisite decorative alpaca throw blankets, crafted from 100% baby alpaca wool. Over 100 unique colors and patterns to complement any home style.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 38
 - [Luxury Alpaca Baby & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-babies): Discover our collection of children’s alpaca apparel and accessories. Shop the ultimate selection of alpaca baby and shower gifts.
   Updated: 2025-12-19T12:17:34Z
   Total Products: 14
 - [Women's Designer Alpaca Accessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/accessories-for-her): Artisan-crafted alpaca women’s designer accessories. Elevate your signature style with unique hats, gloves, and wraps, providing an air of timeless elegance.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 41
 - [Luxury Alpaca Nursery & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-shower-nursery-gifts): Discover our luxurious alpaca nursery gifts. Shop heirloom-worthy, eco-friendly gifts perfect for any child's nursery.
-  Updated: 2025-12-21T12:18:21Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 19
 - [Shop Men's Apparel | Luxury Alpaca Apparel for Men | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/mens-apparel): Artisan-made alpaca sweaters and cardigans, shop our men's apparel and choose from an array of accessories for gifting and accenting wardrobes.
   Updated: 2025-12-20T12:18:01Z
   Total Products: 21
 - [Luxury Alpaca Gifts for Women | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-for-her): Indulge in our curated assortment of special gifts for her. Make any holiday, birthday, or moment unforgettable with luxe alpaca apparel, accessories, and more.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 67
 - [alicia adams alpaca | gifts for home | alpaca home gifts](https://aliciaadamsalpaca.com/collections/gifts-for-home): Our gifts for home offer artisan-crafted baby alpaca pillows, throws and blankets, to luxurious accents. These alpaca goods are the perfect housewarming gift.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 52
 - [alicia adams alpaca | boys | alpaca clothes for boys](https://aliciaadamsalpaca.com/collections/shop-children-boys): Our boys collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
   Updated: 2025-12-14T12:17:27Z
@@ -15269,13 +15307,13 @@
   Updated: 2025-12-19T12:17:34Z
   Total Products: 18
 - [Luxury Alpaca Gifts for Men | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-gifts-for-him): Browse a timeless selection of luxury gifts for men. Our irresistible, soft, and luxurious alpaca gifts are perfect for any birthday, anniversary, or occasion.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 33
 - [Alpaca Clothing Gifts For Toddlers & Children | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-toddlers): Shop our alpaca toddler and children’s clothing and accessories. Keep them cozy and comfortable all day long with our luxurious children’s alpaca.
   Updated: 2025-12-14T12:17:27Z
   Total Products: 11
 - [Shop Women's Apparel | Luxury Alpaca Womens Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/womens-apparel): Artisan alpaca sweaters, tops, capes and shawls, and more, shop our women's apparel and choose from an array styles and colors fit for any wardrobe and season.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 44
 - [Luxury Decorative Throw Pillows | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/decorative-pillows): Discover hypoallergenic, custom decorative alpaca pillows to add elegance to any room. Explore colors and styles including throw pillows, lumbar, and euros.
   Updated: 2025-12-15T12:19:57Z
@@ -15284,7 +15322,7 @@
   Updated: 2025-12-21T12:18:21Z
   Total Products: 22
 - [Shop All Products | Alpaca Home Decor | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, apparel, and accessories. Free Shipping in US.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 309
 - [alicia adams alpaca | home fragrance | room spray & candles](https://aliciaadamsalpaca.com/collections/home-living-home-fragrance): Transform the feel of your home with our luxe home fragrance collection featuring incredibly scented room sprays and candles.
   Updated: 2025-12-12T12:16:50Z
@@ -15323,19 +15361,19 @@
   Updated: 2025-12-12T12:16:50Z
   Total Products: 10
 - [Featured](https://aliciaadamsalpaca.com/collections/featured-products): Shop our newest styles in home decor, apparel, accessories, and gifts. We take great care in creating products from farm-to-shelf to offer you the finest quality and high style. We offer a great variety of home decor items, including, but not limited to throws and blankets, travel sets, pillows, hot water bottles, and more.
-  Updated: 2025-12-20T12:18:01Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 19
 - [Holiday Sale](https://aliciaadamsalpaca.com/collections/holiday-gifts)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 94
 - [alicia adams alpaca | best sellers](https://aliciaadamsalpaca.com/collections/best-sellers): Shop best selling products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 38
 - [Alicia Products | Luxury Alpaca Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/alicia-adams-alpaca): Shop luxury alpaca products at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-12-22T12:18:07Z
-  Total Products: 216
+  Updated: 2025-12-23T12:16:59Z
+  Total Products: 217
 - [Sale for Her | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-her): Shop our exclusive women’s sale. Bring a new look to your wardrobe with our selection of limited-time discounted luxe alpaca apparel and accessories.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 36
 - [Sale for Children | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-children): Discover our exclusive children’s sale. Enjoy our luxuriously soft alpaca apparel and accessories for toddlers and children.
   Updated: 2025-12-19T12:17:34Z
@@ -15344,64 +15382,64 @@
   Updated: 2025-12-21T12:18:21Z
   Total Products: 19
 - [Sale for Home | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-home): Explore our home sale selection. Elevate your home’s look with our luxurious alpaca throws, blankets, pillows, and more at a discounted price.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 16
 - [Sale | Luxury Alpaca Home Decor and Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale): Shop the latest reductions in alpaca home decor, apparel, and accessories from Alicia Adams Alpaca. Earn rewards on every purchase.
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 94
 - [All Products - No Gift Wrap - DO NOT DELETE](https://aliciaadamsalpaca.com/collections/all-products-no-gift-wrap)
-  Updated: 2025-12-22T12:18:07Z
-  Total Products: 248
+  Updated: 2025-12-23T12:16:59Z
+  Total Products: 249
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-12-22T21:35:12Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 255
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 86
 - [Shop All Products | Luxury Alpaca Home Decor & Apparel | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/all-products): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, men, women and children's apparel, and accessories. Free Shipping in US.
-  Updated: 2025-12-22T12:18:07Z
-  Total Products: 243
+  Updated: 2025-12-23T12:16:59Z
+  Total Products: 244
 - [Shop Men's Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-men): Discover our luxury men’s alpaca apparel, coats, sweaters, and loungewear made from the highest quality 100% baby alpaca wool for style and comfort year-round.
   Updated: 2025-12-21T12:18:21Z
   Total Products: 45
 - [Holiday Gift Guide](https://aliciaadamsalpaca.com/collections/holiday-gift-guide)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 18
 - [Scandia Products](https://aliciaadamsalpaca.com/collections/scandia-products)
   Updated: 2025-12-20T12:18:01Z
   Total Products: 45
 - [Discountable](https://aliciaadamsalpaca.com/collections/discountable2)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 209
 - [EasyGift All Products](https://aliciaadamsalpaca.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 342
 - [Accessories](https://aliciaadamsalpaca.com/collections/accessories)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 45
 - [Featured Sale](https://aliciaadamsalpaca.com/collections/featured-sale): Shop Our Best Deals
-  Updated: 2025-12-18T12:18:04Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 15
 - [Tops & Sweaters](https://aliciaadamsalpaca.com/collections/tops-sweaters)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 32
 - [Shirts & Sweaters](https://aliciaadamsalpaca.com/collections/shirts-sweaters)
   Updated: 2025-12-20T12:18:01Z
   Total Products: 16
 - [Women's Coats & Jackets](https://aliciaadamsalpaca.com/collections/womens-coats-jackets)
-  Updated: 2025-12-17T12:17:42Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 9
 - [Men's Coats & Jackets](https://aliciaadamsalpaca.com/collections/mens-coats-jackets)
   Updated: 2025-12-20T12:18:01Z
   Total Products: 4
 - [Color of the Month](https://aliciaadamsalpaca.com/collections/color-of-the-month)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 32
 - [Trade Exclusions](https://aliciaadamsalpaca.com/collections/trade-exclusions)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 2
 - [Wedding Gifts](https://aliciaadamsalpaca.com/collections/wedding-gifts)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 27
 - [Gifts for Pets](https://aliciaadamsalpaca.com/collections/gifts-for-pets)
   Updated: 2025-12-20T12:18:01Z
@@ -15413,7 +15451,7 @@
   Updated: 2025-12-02T12:24:50Z
   Total Products: 5
 - [Influencer Selection](https://aliciaadamsalpaca.com/collections/influencer-selection)
-  Updated: 2025-12-22T12:18:07Z
+  Updated: 2025-12-23T12:16:59Z
   Total Products: 26
 - [Mazing Collection](https://aliciaadamsalpaca.com/collections/mazing-collection)
   Updated: 2025-12-19T12:17:34Z
