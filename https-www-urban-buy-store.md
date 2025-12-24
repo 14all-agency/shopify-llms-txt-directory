@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-18T00:00:33.195Z
+- Updated At: 2025-12-24T00:00:33.571Z
 
 ## Products
 
@@ -420,7 +420,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1718891203120074752.jpg?v=1763869183
   Price: $39.39 USD
 - [LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™H](https://www.urban-buy.store/products/rose-flowers-led-light-bluetooth-compatible-speaker-valentines-day-gift): LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™C
-  Updated: 2025-12-17T08:46:43Z
+  Updated: 2025-12-19T05:46:42Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -535,6 +535,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8874db16-4e75-4f0b-95b4-22b45acdfadf.jpg?v=1763869265
     Price: $16.21 USD
+- [LED Festive Gift Box Set | Urban Buy](https://www.urban-buy.store/products/set-of-3-led-lighted-christmas-gift-boxes): LED Festive Gift Box Set - Warm White Light
+  Updated: 2025-12-20T02:46:35Z
+  Vendor: CJ
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/744c0f6e-9098-4788-a53f-1baffd448d38.jpg?v=1763869266
+  - [Deer](https://www.urban-buy.store/products/set-of-3-led-lighted-christmas-gift-boxes?variant=52425296052540)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/7ae61857-7a60-41b0-8d35-af298949d02a.jpg?v=1763869276
+    Price: $39.34 USD
+  - [Star](https://www.urban-buy.store/products/set-of-3-led-lighted-christmas-gift-boxes?variant=52425296085308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/edf0437e-6b09-41f1-8781-1097f975ed6e.jpg?v=1763869278
+    Price: $39.34 USD
 - [LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™](https://www.urban-buy.store/products/led-green-leaf-copper-wire-lighting-chain-indoor-room-decoration): LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™JH
   Updated: 2025-12-03T11:00:02Z
   Vendor: Renfen
@@ -642,7 +656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-17T08:46:43Z
+  Updated: 2025-12-23T04:48:06Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -1513,6 +1527,18 @@
     Updated: 2025-12-16T09:02:50Z
     Author: Urban BUY
     Tags: best christmas gifts for friends, christmas, christmas 2025, christmas gift ideas, christmas gifts, gifts, gifts for christmas, gifts ideas, ideas, personalized gifts, tech gifts, trending holiday gift ideas, unique gifts
+  - [Creative Gifts for Christmas Joy in 2025](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/creative-gifts-for-christmas-joy-in-2025): Creative Gifts for Christmas Joy in 2025
+    Updated: 2025-12-18T09:02:15Z
+    Author: Urban BUY
+    Tags: best christmas gifts 2025, christmas, christmas 2025, christmas gift ideas, christmas gifts, creative, gift ideas, gifts, gifts for christmas, gifts ideas, holiday presents, thoughtful gift suggestions for christma, unique gifts
+  - [Festive Gifts Ideas for Christmas Cheer](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/festive-gifts-ideas-for-christmas-cheer): Festive Gifts Ideas for Christmas Cheer
+    Updated: 2025-12-20T09:05:22Z
+    Author: Urban BUY
+    Tags: best christmas gifts for him, cheer, christmas 2025, christmas gift ideas, christmas gifts, creative gift ideas for her, gifts, gifts for christmas, gifts ideas, holiday, shopping ideas, surprise presents, unique gifts
+  - [Christmas Gifts 2025: Cozy Home Vibes](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/christmas-gifts-2025-cozy-home-vibes): Christmas Gifts 2025: Cozy Home Vibes
+    Updated: 2025-12-23T09:02:35Z
+    Author: Urban BUY
+    Tags: best christmas gifts, christmas, christmas 2025, christmas gift ideas, christmas gifts, cozy, festive home vibes, gift ideas, gifts, gifts for christmas, gifts ideas, holiday presents, home gifts
 
 ## Store Pages
 
