@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-23T00:00:46.931Z
+- Updated At: 2025-12-24T00:00:47.748Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1582,13 +1582,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c403b356-3d87-4064-bcac-4d581c5e5f28.jpg?v=1754667705
   Price: 3.380,00 € EUR
-- [PS Audio Statement HighEnd Netzkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/ps-audio-statement-highend-netzkabel-gebraucht-kaufen): PS Audio Statement HighEnd Netzkabel gebraucht kaufen ✅ Geprüftes Stromkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-13T10:34:22Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3165eeab-5f36-4b4a-abb1-b7df3d95030a.png?v=1754667522
-  Price: 180,00 € EUR
 - [Kimber Select 1121 XLR Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kimber-select-1121-xlr-kabel-gebraucht-kaufen): Kimber Select 1121 XLR Kabel gebraucht kaufen ✅ Hochwertige Audiokabel für HiFi und Studioanwendungen kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-12-13T10:27:01Z
   Vendor: WorldWideHifi
@@ -2425,7 +2418,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8243b672-51d6-42d5-a17d-ca0001b7a614.jpg?v=1766301062
   Price: 140,00 € EUR
 - [TEAC NT-505 Netzwerkplayer, Streamer DAC Hi-Res Audio. Top! SIEHE VIDEO!](https://worldwidehifi.shop/products/teac-nt-505-netzwerkplayer-streamer-dac-hi-res-audio-top-siehe-video): Bei ernsthaftem Interesse kann das angebotene Produkt - auch vor einem Kauf - in unserem Hörraum probegehört und technisch von Ihnen überprüft werden! Dafür aber bitte unbedingt einen Termin vorab vereinbaren. Bei Selbstabholung ist außerdem immer ein höherer Preisnachlaß als sonst möglich Your template | Trixum TEAC Netzwerkplayer - Gesetzliche Gewährleistung- mit Rechnung vom Händler- alle Fotos sind vom angebotenen Produkt- sehr guter technischer Zustand- Alle Geräte können bei ernsthaftem Interesse in unserem Hörraum getestet werden und Sie können sich von der Richtigkeit unserer Angaben überzeugen.Preisnachlaß bei Selbstabholung möglich! Infos gerne auch per Tel. Unsere Nummer finden Sie unten in den Pflichtangaben. .trixum-mx-auto{margin-left:auto;margin-right:auto}.trixum-mb-2{margin-bottom:.5rem}.trixum-text-center{text-align:center}.trixum-img{max-width:100%;-o-object-fit:contain;object-fit:contain} Informationen zum Produkt / Product information Beschreibung:HighEnd Streamer von Teac. Die technischen Details und Klangberichte finden Sie im www. Lieferumfang ist grundsätzlich wie abgebildet oder beschrieben. Zustand:Das Gerät ist optisch in einem sehr guten Zustand. Fast wie neu! Nur minimalste Gebrauchspuren. Technisch einwandfrei. Versand:In Deutschland: 22,00 Euro mit hervorragender Verpackung und Versicherung. Description:A great streamer from TEAC. Technical details and sound reports can be found online. The delivery is basically as shown or described. See photos too. Condition:The device is in near mint visual condition. Technically flawless.Shipping:In EU: 29,00 Euro with insurance and very good packaging. Worldwide: 185,00 Euro with DHL. Sicher einkaufen Bei einem Händler sind Sie auf der sicheren Seite! Seit dem es das Internet gibt, gab es noch nie so viele Betrugsfälle und Betrugsversuche, wie im Moment! Die Methoden der Betrüger sind mittlerweile so ausgefeilt, dass selbst Profis darauf hereinfallen können. Ein Gewerblicher Händler bietet Ihnen davor Schutz. Er ermöglicht Ihnen: einen persönlichen Telefonkontakt (Nummer im Impressum) eine persönliche Besichtigung vor Ort Selbstabholung Barzahlung nach Probelauf Paypal-Zahlung Rückgaberecht gemäß Fernabsatzgesetz gesetzliche Gewährleistung (AGB´s beachten) Möglicherweise eine Garantie (AGB´s beachten) einen sicheren Versand professionelle Verpackung ... und viele weitere Serviceleistungen Garantiebedingungen und Allgemeine Angaben In unseren Rechnungen wird wegen Differenzbesteuerung KEINE Mehrwertsteuer ausgewiesen. Fragen versuchen wir so schnell wie möglich zu beantworten. Im Einzelfall kann es aber mal zwei bis drei Tage dauern. Keine Garantie für die Angaben im Ebay-Produktkatalog. Für Fragen bitte den entsprechenden Button hier bei Ebay benutzen nicht das Telefon. Verwendete Markennamen sind Eigentum des Herstellers und werden nur verwendet um das Produkt uns seine hervorragende Qualität zu beschreiben. *GARANTIEBEDINGUNGEN: Wenn in unseren Angeboten eine Haltbarkeitsgarantie angegeben ist, dann bleiben Ihre weiteren gesetzlichen Rechte (z. B. Gewährleistung davon unberührt. Die Garantie umfasst alle technischen Fehlfunktionen, soweit diese nicht durch falschen Gebrauch hervorgerufen wurden. Ausgenommen von der hier dargestellten Garantie sind Batterien, Lautsprechersicken, Laser, CD-Laufwerke und Akkus (auch festinstallierte). Der Garantiegeber ist Harald Leichtle, Schweppermannstr. 5, 90408 Nürnberg. Die Garantie ist deutschlandweit und ist auf den oben im Angebot angegebenen Zeitrahmen beschränkt. Zur Prüfung und Abwicklung des Garantiefalles setzen Sie sich bitte telefonisch oder schriftlich mit uns in Verbindung. Zur Prüfung und eventuellen Schadensbehebung muss uns der Kaufgegenstand und eine Kopie der Rechnung kostenfrei zur Verfügung gestellt werden. Ist eine Reperatur oder eine Ersatzlieferung nicht möglich, erhält der Käufer den Kaufpreis zuzüglich Rücksendekosten zurück. Hinweis nach dem Batteriegesetz: Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Versandadresse) zurückgeben. Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung: Das Symbol der durchgekreuzten Mülltonne bedeutet, dass die Batterie nicht in den Hausmüll gegeben werden darf. Pb = Batterie enthält mehr als 0,004 Masseprozent Blei. Cd = Batterie enthält mehr als 0,002 Masseprozent Cadmium. Hg = Batterie enthält mehr als 0,0005 Masseprozent Quecksilber. Bitte beachten Sie auch unsere AGB´s und unser Impressum. Beide sind auf dieser Seite hinterlegt. Photos are original. We will try to answer your questions as soon as possible. No guarantee for the informations of the Ebay-catalogue. For questions please use the button here on Ebay.
-  Updated: 2025-12-21T19:11:15Z
+  Updated: 2025-12-23T16:41:27Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
@@ -2453,18 +2446,16 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1f1de42e-a423-4ea9-b605-6629953623f4.jpg?v=1766301080
   Price: 180,00 € EUR
 - [Bowers & Wilkins CM9 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-cm9-gepruft-kaufen): Bowers & Wilkins CM9 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-21T19:11:30Z
+  Updated: 2025-12-23T16:38:57Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_62ebb57b-d024-44e0-a139-95c4018cca85.jpg?v=1766301084
   Price: 999,00 € EUR
 - [Finite Elemente Pagode gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/finite-elemente-pagode-gebraucht-kaufen): Finite Elemente Pagode gebraucht kaufen ✅ Hochwertiges HiFi Rack mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-21T19:11:31Z
+  Updated: 2025-12-23T16:38:23Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7b9e0470-a6fb-438b-b27d-11c825bafb61.jpg?v=1766301086
   Price: 700,00 € EUR
 - [Sansui TU-X1 Super Integrated FM/AM Stereo Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sansui-tu-x1-super-integrated-fm-am-stereo-tuner-gebraucht-kaufen-1): Sansui TU-X1 Super Integrated FM/AM Stereo Tuner gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-12-21T19:11:37Z
@@ -2663,11 +2654,10 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_6a4c6542-aaa5-4243-a074-d76525669448.jpg?v=1766301178
   Price: 119,00 € EUR
 - [Kompaktlautsprecher EPOS ES-14N gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/epos-es-14n-gebraucht-kaufen): Kompaktlautsprecher EPOS ES-14N gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-21T19:13:05Z
+  Updated: 2025-12-23T16:36:43Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f50284af-b81d-495d-8404-26f12cb2a836.jpg?v=1766301181
   Price: 2.930,00 € EUR
 - [Sennheiser Momentum 4 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sennheiser-momentum-4-gepruft-kaufen): Sennheiser Momentum 4 gebraucht kaufen ✅ High End HiFi Kopfhörer mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-12-21T19:13:09Z
@@ -2677,32 +2667,29 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_dc78225d-9114-42fe-8f1d-c06aeec913b4.jpg?v=1766301184
   Price: 219,00 € EUR
 - [Hans Deutsch Poseidon gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/hans-deutsch-poseidon-gebraucht-kaufen): Hans Deutsch Poseidon gebraucht kaufen ✅ Kompaktlautsprecher geprüft kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-21T19:13:12Z
+  Updated: 2025-12-23T16:36:08Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_0c6e009f-7218-43f1-bb29-32f5a8ce18ca.jpg?v=1766301187
   Price: 490,00 € EUR
 - [Rotel Stereo Power Amplifier RB-5000 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/rotel-stereo-power-amplifier-rb-5000-gebraucht-kaufen): Rotel Stereo Power Amplifier RB-5000 gebraucht kaufen ✅ Geprüfte Endstufe gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-21T19:13:16Z
+  Updated: 2025-12-23T16:35:28Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_bf17d355-dc3e-4463-96a9-3b4d01b3c8f9.jpg?v=1766301190
   Price: 6.850,00 € EUR
 - [Marantz CD-10 Compact Disc Player gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/marantz-cd-10-gebraucht-kaufen): Marantz CD-10 Compact Disc Player gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-12-21T19:13:19Z
+  Updated: 2025-12-23T16:34:43Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_adad622e-a9a8-46a8-bb37-e08db4727f70.jpg?v=1766301193
   Price: 1.890,00 € EUR
 - [SAE Vorstufe 2100L gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sae-2100l-gebraucht-kaufen): SAE Vorstufe 2100L gebraucht kaufen ✅ Hochwertiger Preamp mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-12-21T19:13:20Z
+  Updated: 2025-12-23T16:34:04Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_becc8a3d-091e-4350-bf58-d65e2eb50827.jpg?v=1766301196
   Price: 880,00 € EUR
 - [ASR Schäfer Aktives Netzkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/asr-schaefer-magic-cord-gebraucht-kaufen): ASR Schäfer Aktives Netzkabel gebraucht kaufen ✅ Geprüfte High-End Stromversorgung gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-12-21T19:13:23Z
@@ -2756,7 +2743,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-12-21T15:52:21Z
   Total Products: 5
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-21T15:41:02Z
+  Updated: 2025-12-23T12:25:16Z
   Total Products: 115
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-12-09T17:48:11Z
@@ -2765,7 +2752,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-12-21T15:41:02Z
   Total Products: 33
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-12-21T15:41:01Z
+  Updated: 2025-12-23T12:25:16Z
   Total Products: 37
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-12-21T15:32:53Z
@@ -2789,16 +2776,16 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-12-09T17:48:13Z
   Total Products: 9
 - [HiFi Tuner gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/netzwerkplayer-gebraucht-kaufen): HiFi Tuner gebraucht kaufen ✓ Netzwerkplayer, HiFi-Tuner, HiFi-Streamer & mehr im Top-Zustand ✓ Weltweit sicherer Versand ✓ Preiswertes High-End HiFi bestellen
-  Updated: 2025-12-21T08:21:06Z
-  Total Products: 19
+  Updated: 2025-12-23T16:50:35Z
+  Total Products: 18
 - [HiFi Möbel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-moebel-gebraucht-kaufen): HiFi Möbel gebraucht kaufen ✓ Gebrauchte HiFi Möbel & HiFi Racks im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-12-21T15:52:19Z
   Total Products: 8
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-22T12:23:06Z
+  Updated: 2025-12-23T12:25:16Z
   Total Products: 193
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-12-22T12:23:06Z
+  Updated: 2025-12-23T12:25:16Z
   Total Products: 47
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
   Updated: 2025-12-21T15:52:19Z
@@ -2816,7 +2803,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-12-22T15:46:28Z
+  Updated: 2025-12-23T20:41:28Z
   Total Products: 171
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-12-21T15:41:01Z
