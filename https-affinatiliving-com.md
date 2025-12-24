@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-24T04:00:33.037Z
+- Updated At: 2025-12-24T08:00:35.677Z
 
 ## Products
 
@@ -1639,7 +1639,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Honey Lavender Original Candle](https://affinatiliving.com/products/honey-lavender-original-candle): Honey Lavender Original Candle – 10 oz Honey Lavender blends calming lavender with soft sweetness for a soothing, comforting fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: LavenderMiddle Notes: HoneyBase Notes: Vanilla Perfect for winding down and restful moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2025-12-23T19:37:17Z
+  Updated: 2025-12-24T07:37:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1654,7 +1654,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Himalayan Bamboo Original Candle](https://affinatiliving.com/products/himalayan-bamboo-original-candle): Himalayan Bamboo Original Candle – 10 oz Himalayan Bamboo is fresh, green, and calming. Clean bamboo blends with subtle florals for a peaceful, spa-inspired scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Green LeavesMiddle Notes: BambooBase Notes: Soft Musk Perfect for relaxation and tranquil spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T18:02:34Z
+  Updated: 2025-12-24T06:26:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1804,7 +1804,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Vanilla Orchid Original Candle](https://affinatiliving.com/products/vanilla-orchid-original-candle): Vanilla Orchid Original Candle – 10 oz Vanilla Orchid blends soft florals with smooth vanilla for a scent that feels elegant and calming. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Orchid BlossomMiddle Notes: VanillaBase Notes: Soft Musk Perfect for serene spaces and quiet moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:53:23Z
+  Updated: 2025-12-24T07:04:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2044,7 +2044,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Clean Cotton Original Candle](https://affinatiliving.com/products/clean-cotton-original-candle): Clean Cotton Original Candle – 10 oz Clean Cotton captures the crisp freshness of freshly washed linens. Bright, airy notes blend with subtle softness for a clean, comforting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh LinenMiddle Notes: Soft FloralsBase Notes: Light Musk, Clean Woods Perfect for brightening your space and creating a fresh, welcoming atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:30:22Z
+  Updated: 2025-12-24T05:30:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2059,7 +2059,7 @@
     Availability: Available
     Price: $64.95 USD
 - [White Tea Original Candle](https://affinatiliving.com/products/white-tea-original-candle): White Tea Original Candle – 10 oz White Tea is light, calming, and effortlessly elegant. Soft tea leaves blend with gentle florals for a scent that feels clean and tranquil. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: White Tea LeavesMiddle Notes: Soft FloralsBase Notes: Light Woods, Clean Musk Perfect for creating a peaceful atmosphere, White Tea feels refreshing and soothing in any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:43:39Z
+  Updated: 2025-12-24T05:43:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2179,7 +2179,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Fire Roasted Marshmallow Original Candle](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle): Fire Roasted Marshmallow Original Candle – 10 oz Fire Roasted Marshmallow captures the cozy sweetness of toasted marshmallows by the fire. Creamy vanilla blends with subtle smoke for a warm, nostalgic scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Toasted SugarMiddle Notes: Marshmallow CreamBase Notes: Soft Smoke, Vanilla Perfect for winter nights and cozy evenings, this candle creates instant comfort and warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:24:35Z
+  Updated: 2025-12-24T05:24:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2434,7 +2434,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Coconut Dream Original Candle](https://affinatiliving.com/products/coconut-dream-original-candle): Coconut Dream Original Candle – 10 oz Coconut Dream is smooth, creamy, and indulgent. Rich coconut milk blends with soft sweetness for a scent that feels cozy, comforting, and effortlessly tropical. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Coconut MilkMiddle Notes: Creamy CoconutBase Notes: Vanilla, Soft Sugar Perfect for creating a relaxed, inviting atmosphere, Coconut Dream feels warm and comforting any time of year. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:16:18Z
+  Updated: 2025-12-24T04:03:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2449,7 +2449,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Coconut Flakes Original Candle](https://affinatiliving.com/products/coconut-flakes-original-candle): Coconut Flakes Original Candle – 10 oz Coconut Flakes is light, creamy, and subtly sweet. Fresh coconut blends with soft vanilla for a clean, comforting scent that feels relaxed and airy. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh CoconutMiddle Notes: Coconut CreamBase Notes: Vanilla Sugar, Soft Musk Perfect for year-round enjoyment, this candle brings an easygoing, tropical warmth into any space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:16:19Z
+  Updated: 2025-12-24T04:12:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6179,7 +6179,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Lavender Vanilla Original Candle](https://affinatiliving.com/products/lavender-vanilla-original-candle): Relax your space with the soothing blend of fresh lavender and creamy vanilla. This 10 oz soy-blend candle delivers a clean, even burn and a strong, long-lasting scent that adds a peaceful, cozy ambiance to any room.
-  Updated: 2025-12-23T18:12:07Z
+  Updated: 2025-12-24T06:11:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6664,7 +6664,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Ivory Woods Original Candle](https://affinatiliving.com/products/ivory-woods-original-candle): A warm, calming scent. Our Ivory Woods Candle blends sandalwood, amber, cedarwood, and vanilla for a smooth, refined fragrance in a classic 10 oz tumbler.
-  Updated: 2025-12-23T17:16:27Z
+  Updated: 2025-12-24T04:05:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
