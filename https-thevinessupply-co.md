@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-24T00:00:58.496Z
+- Updated At: 2025-12-24T04:00:38.040Z
 
 ## Products
 
@@ -1478,7 +1478,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-mat-srf-dry-waterproof-beach-changing-mat-drawstring-bag-1183719270.png?v=1757242688
   Price: £13.95 GBP
 - [SRF DRY Towel Surf Dry Changing Robe | Surf, Swim & Triathlon Hooded Poncho](https://thevinessupply.co/products/srf-dry-towel-surf-dry-changing-robe-surf-swim-triathlon-hooded-poncho): The SRFDRY towel robe was designed by watersports enthusiasts to allow anyone to get changed in comfort and privacy, regardless of your chosen sport. The soft feel Terry-Towel changing robe has plenty of space to comfortably change inside, while keeping you covered and protecting you from the elements. Stay warm and get dry when changing outside. With its mid-length sleeve design and exclusive 'waist-entry pockets', you have the freedom of both hands to easily get into and remove your clothing and wet sports kit. Features: Ideal for changing in public, suitable for all sports and outdoor changing in spring, summer and early autumn 350gsm towelling Super absorbent and quick drying after surfing, swimming or other water sports Thick 700g weight to keep you warm 'Waist-entry pockets' for access to trouser/short fastenings, allowing easy undoing without the need to pull up the robe from the hem Embroidered SRFDRY logo on middle chest Washable Great Value Dryrobe alternative Sizing: Medium - 96cm (L) x 60cm (W): Recommended for anyone 5'3" to 5'11" Large - 110cm (L) x 75cm (W): Recommended for anyone 5'7" to 6'3" (Male model is 6'1" - Female model is 5'11")
-  Updated: 2025-12-13T23:46:14Z
+  Updated: 2025-12-24T01:36:31Z
   Vendor: SRF DRY
   Product Type: Changing Robe
   Availability: Available
