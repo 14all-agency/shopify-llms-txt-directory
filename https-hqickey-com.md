@@ -8,14 +8,14 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-23T00:00:20.654Z
+- Updated At: 2025-12-24T00:00:19.299Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
-  Updated: 2025-12-22T22:13:17Z
+  Updated: 2025-12-23T20:10:06Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
   Updated: 2025-12-14T08:11:15Z
@@ -24,7 +24,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:11:16Z
   Total Products: 5622
 - [System On Chip (SoC)](https://hqickey.com/collections/system-on-chip-soc): System-on-Chip (SoC) vs Discrete Components: Integrated computing systems combining microprocessors, FPGA co-processors & graphics controllers. Explore high-performance embedded designs with external storage interfaces for AI acceleration and edge computing.
-  Updated: 2025-12-22T23:51:09Z
+  Updated: 2025-12-23T16:27:32Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
   Updated: 2025-12-14T08:11:18Z
@@ -297,7 +297,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-22T04:42:47Z
   Total Products: 4151
 - [Advanced PMIC Supervisors for Voltage Rail Monitoring, Control & Microcontroller Integration](https://hqickey.com/collections/supervisors): Optimize circuit reliability with PMIC Supervisors—monitor & control voltage rails, manage power limits, and interface with microcontrollers. Solutions include Battery Backup, Watchdog Circuits, Multi-Voltage Monitoring, and more.
-  Updated: 2025-12-22T12:56:15Z
+  Updated: 2025-12-23T12:13:07Z
   Total Products: 39494
 - [Precision Thermal Management ICs for Extreme-Temperature Circuit Monitoring & Control](https://hqickey.com/collections/thermal-management): Achieve precise thermal regulation (-260°C to +1800°C) with Thermal Management ICs. Features Fan Control, Thermocouple Conditioning, PWM/SPI/I2C outputs, and Hardware Monitoring for industrial systems.
   Updated: 2025-12-14T08:13:59Z
