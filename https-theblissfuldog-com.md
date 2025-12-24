@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-12-22T00:00:54.410Z
+- Updated At: 2025-12-24T00:00:55.082Z
 
 ## Products
 
@@ -149,7 +149,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ELBOW_BUTTER_COMBO_KITS_REDO_2023_d6bdde89-4c5f-4042-b504-53b5db38e973.jpg?v=1738669950
     Price: $72.95 USD
 - [The Blissful Dog Nose Butter® All Natural Balm For Dry Dog Noses](https://theblissfuldog.com/products/just-a-nose-butter): Does your dog have a dry or crusty nose? The Blissful Dog Nose Butter® moisturizes all ranges of dry dog noses from just a bit to extreme nasal hyperkeratosis.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/NOSE-BUTTER-ALL-SIZES-MASTER.jpg?v=1738658906
     Price: $18.95 USD
 - [Affenpinscher Nose Butter Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/affenpinscher-nose-butter): Affenpinscher Nose Butter moisturizes your dog's dry nose with all-natural butter & oils. Use 2-3x a day for 2-3 days to get their nose in shape, then as needed
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -229,7 +229,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AFFENPINSCHER-NOSE-50TUBE-2ND-1250.jpg?v=1738734071
     Price: $10.95 USD
 - [American Bulldog Nose Butter All Natural Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/american-bulldog): American Bulldog Nose Butter® is all natural, handcrafted, made in Minnesota moisturizing goodness for your Bullie's dry, crusty, cracked nose.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:48Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -271,7 +271,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMER_BULL_225OZ_NOSE_2500copy.jpg?v=1631395923
     Price: $18.95 USD
 - [American Eskimo Nose Butter Made in USA Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/american-eskimo): American Eskimo Nose Butter® all natural, handcrafted moisturizer for your dog's dry nose. Handcrafted individually in Minnesota from all natural good stuff.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -309,7 +309,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMERICAN_ESKIMO_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631396589
     Price: $10.95 USD
 - [Basset Nose Butter® Care for Dry Cracked Basset Hound Rough Noses](https://theblissfuldog.com/products/basset-hound): Basset Nose Butter moisturizes and soothes your Basset's rough, dry nose using all natural ingredients. Handcrafted in MN for your Basset's well-being.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:48Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -347,7 +347,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BASSET_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631573272
     Price: $10.95 USD
 - [Beagle Nose Butter Handcrafted Natural Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/beagle): The Blissful Dog Beagle Nose Butter Moisturizes your Beagle's rough, dry nose using all natural, handcrafted good stuff. In tins & tubes, scented and unscented.
-  Updated: 2025-11-01T06:31:32Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -385,7 +385,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BEAGLE_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631573675
     Price: $10.95 USD
 - [Belgian Malinois Nose Butter® Natural Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/belgian-malinois): Belgian Malinois Nose Butter moisturizes your Belgian Malinois' nose as it melts into your dog's dry nose, soothing & supporting it back to healthy.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:48Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BEL_MAL_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631575199
     Price: $10.95 USD
 - [Bernese Mountain Dog Nose Butter® for Your Berner's Rough Dry Nose](https://theblissfuldog.com/products/bernese-mountain-dog): Bernese Mountain Dog Nose Butter moisturizes your Berner's dry nose, no matter how rough or dry it is. Individually handcrafted in far northern Minnesota.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -465,7 +465,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BERNER_225OZ_NOSE_2500-copy.jpg?v=1631630303
     Price: $18.95 USD
 - [Bloodhound Nose Butter® All Natural Balm for Optimum Sniffing Power](https://theblissfuldog.com/products/bloodhound): The Blissful Dog Bloodhound Nose Butter is handcrafted from all-natural ingredients for the most famous dog nose. It moisturizes & pampers your dog's nose.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -503,7 +503,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BLOODHOUND_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631626439
     Price: $10.95 USD
 - [Border Collie Nose Butter Smart Answer for Your Dog's Rough Dry Nose](https://theblissfuldog.com/products/border-collie): Border Collie Nose Butter moisturizes your dog's dry nose with layers of handcrafted, all-natural goodness. Offered in tins and tubes with Border Collie label.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -541,7 +541,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BORDER-NOSE-50TUBE-SHEA-BUTTERcopy.jpg?v=1631626835
     Price: $10.95 USD
 - [Boston Terrier Nose Butter | Dog Dry Nose Moisturizer](https://theblissfuldog.com/products/boston-terrier): The Blissful Dog Boston Terrier Nose Butter moisturizes and nourishes your Boston's rough dry nose with all-natural, butters and oils.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -579,7 +579,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BOSTON-NOSE-BUTTER-2ND-50TUBE.jpg?v=1738731997
     Price: $10.95 USD
 - [Brittany Dog Nose Butter® Handcrafted for Your Dog's Dry Nose](https://theblissfuldog.com/products/brittany-spaniel): Brittany Dog NOSE BUTTER® moisturizes your Brittany's rough, dry nose with all natural ingredients. Handcrafted in MN and available in tins or tubes.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -617,7 +617,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BRITTANY_NOSE_ALL_2500.jpg?v=1631628748
     Price: $10.95 USD
 - [Brussels Griffon Nose Butter® Balm for Your Griff's Rough Dry Nose](https://theblissfuldog.com/products/brussels-griffon): The Blissful Dog Brussels Griffon Nose Butter all natural balm soothes your Griff's rough, dry nose. A face as cute as a Griff's should NOT have a dry nose!
-  Updated: 2025-10-30T09:36:08Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -655,7 +655,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BR_GRIFF_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631638476
     Price: $10.95 USD
 - [Bull Terrier Nose Butter® Moisturizer Soothes Your BT's Rough Dry Nose](https://theblissfuldog.com/products/bull-terrier): Bull Terrier Nose Butter® moisturizes your dog's rough dry nose! Available in lots of sizes of tins & tubes with Bull Terrier labels. Free Shipping USA!
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -735,7 +735,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULLDOG-NOSE-BUTTER-2ND-OLIVE-TIN1.jpg?v=1738733425
     Price: $18.95 USD
 - [Bullmastiff Nose Butter® Moisturizes Your Dog's Rough, Dry Nose](https://theblissfuldog.com/products/bullmastiff): Bullmastiff Nose Butter® is your Bullmastiff's go-to answer for rough, dry nose issues. In tins & tubes with Bullmastiff label. Free Shipping USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -777,7 +777,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BULLMASTIFF_NOSE_ALL_2500.jpg?v=1631645921
     Price: $18.95 USD
 - [Cane Corso Nose Butter Dogs | All Natural Dry Dog Nose Treatment](https://theblissfuldog.com/products/cane-corso): The Blissful Dog Cane Corso Nose Butter® all natural balm treats dry noses, nasal hyperkeratosis, keeping your Cane Corso's nose moisturized. Free Shipping USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -819,7 +819,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CANE_CORSO_225OZ_NOSE_1080.jpg?v=1631647265
     Price: $18.95 USD
 - [Chow Nose Butter® Rich Moisturizer for Your Chow's Rough, Dry Nose](https://theblissfuldog.com/products/chow): The Blissful Dog Chow Nose Butter moisturizes and soothes your Chow's rough dry nose. In several sizes of tins and tubes with Chow label. Free Shipping USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -857,7 +857,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHOW_NOSE_50TUBE.jpg?v=1631655909
     Price: $10.95 USD
 - [Chinese Shar-Pei Nose Butter for Dry, Crusty Dog Noses](https://theblissfuldog.com/products/chinese-shar-pei): Chinese Shar-Pei Nose Butter soothes your dog's dry nose to keep him happy and healthy. All natural, handcrafted in MN for your blissful dog. Free Shipping USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -895,7 +895,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CSP_DUO_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1658849803
     Price: $10.95 USD
 - [The Blissful Dog Dachshund Nose Treatment for Dry Dog Nose Care](https://theblissfuldog.com/products/dachshund): The Blissful Dog | Moisturize your Dachshund nose with Nose Butter. Nose Butter uses natural ingredients to soothe your Doxie's snout. Free Shipping USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -933,7 +933,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DACHSHUND_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631723799
     Price: $10.95 USD
 - [Collie Nose Butter | All-Natural Treatment for Collie Dry Noses](https://theblissfuldog.com/products/collie): The Blissful Dog Collie Nose Butter moisturizes your dog's dry, cracked nose. Handcrafted all-natural balm helps alleviate symptoms and soothe Collie Nose.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:48Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -971,7 +971,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COLLIE-NOSE-50TUBE-SHEA-BUTTERcopy.jpg?v=1631658060
     Price: $10.95 USD
 - [Doberman Pinscher Nose Butter Moisturizes Rough, Dry Dobie Noses](https://theblissfuldog.com/products/doberman-pinscher): The Blissful Dog Doberman Pinscher Nose Butter® soothes and relives your Dobie's rough, dry, chapped nose using all natural butters and oils. Free Shipping USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1009,7 +1009,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOBIE_NOSE_COCONUT_OIL_TIN1.jpg?v=1631726949
     Price: $10.95 USD
 - [Dogo Argentino Nose Butter® All Natural Treatment for Dry, Rough Noses](https://theblissfuldog.com/products/dogo-argentino): Dogo Argentino Nose Butter All natural, handcrafted balms for your Dogo's rough, dry noses. In tins and tubes with Dogo Argentino labels. Free Shipping USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1047,7 +1047,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOGO_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631741319
     Price: $10.95 USD
 - [Dogue de Bordeaux Nose Butter® Treatment for Dry French Mastiff noses](https://theblissfuldog.com/products/dogue-de-bordeaux): All natural Dogue de Bordeaux Nose Butter® moisturizes your Dog's rough, dry nose. In tins and tubes with Dogue de Bordeaux labels. Free Shipping USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1089,7 +1089,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DDB_225OZ_NOSE_1080.jpg?v=1631742563
     Price: $18.95 USD
 - [English Toy Spaniel Nose Butter® Moisturizes Your Dog's Crusty Nose](https://theblissfuldog.com/products/english-toy-spaniel): English Toy Spaniel Nose Butter moisturizes your ET's rough, dry nose. From a bit of dryness or the extreme version, nasal hyperkeratosis, Nose Butter helps.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1126,7 +1126,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ETS_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631743085
     Price: $10.95 USD
 - [English Cocker Spaniel Nose Butter® All Natural Balm Dry Dog Noses](https://theblissfuldog.com/products/english-cocker-spaniel): English Cocker Spaniel Nose Butter® All natural balm for dry, crusty English Cocker noses. In tins & tubes with English Cocker labels. Free Shipping USA!
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1164,7 +1164,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ENGIE_50TUBE_OLIVE_OIL_BLURcopy.jpg?v=1631743419
     Price: $10.95 USD
 - [Fila Brasileiro Nose Butter® Soothes Your Brazilian Mastiff's Nose](https://theblissfuldog.com/products/fila-brasileiro): Fila Brasileiro Nose Butter moisturizes your dog's dry, crusty nose with all natural ingredients. In tins & tubes with Fila Brasileiro label. Free Shipping USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1202,7 +1202,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FILA_NOSE_COCONUT_OIL_TUBE.jpg?v=1631744530
     Price: $10.95 USD
 - [German Shepherd Nose Butter® for Your Best Friend's Dry, Rough Nose](https://theblissfuldog.com/products/german-shepherd): German Shepherd Nose Butter® moisturizes your dog's rough nose…all naturally! Available in tins & tubes with German Shepherd labels. Free Shipping USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1243,7 +1243,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSD-225OZ_NOSE_2500.jpg?v=1631745426
     Price: $18.95 USD
 - [Golden Retriever Nose Butter® Treatment for Rough, Dry Dog Noses](https://theblissfuldog.com/products/golden-retriever): The Blissful Dog Golden Retriever Nose Butter soothes and moisturizes your Golden's rough dry, chapped nose using all natural butters & oils. Free Shipping USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1285,7 +1285,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GOLDEN_225OZ_NOSE_2500-copy.jpg?v=1631804139
     Price: $18.95 USD
 - [Golden Doodle Nose Butter for Your Dood's Dry Nose | The Blissful Dog](https://theblissfuldog.com/products/golden-doodle): Golden Doodle Nose Butter moisturizes your Goldendoodle's dry nose with all natural good stuff. Handcrafted in MN, available in tins or tubes with Dood labels.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1323,7 +1323,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GOLDENDOOD_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631812584
     Price: $10.95 USD
 - [Great Pyrenees Nose Butter® All Natural Nose Treatment for Your Dog](https://theblissfuldog.com/products/great-pyrenees): The Blissful Dog Great Pyrenees Nose Butter moisturizes your Pyr's rough, dry nose. In tins and tubes with Great Pyrenees labels. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1365,7 +1365,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GREAT_PYR-225OZ_NOSE_1080.jpg?v=1631821595
     Price: $18.95 USD
 - [Greater Swiss Mountain Dog Nose Butter® Handcrafted Dog Nose Balm](https://theblissfuldog.com/products/greater-swiss-mountain-dog): Greater Swiss Mountain Dog Nose Butter moisturizes your dog's dry nose with all natural, handcrafted balm. In tins & tubes Swissie on label. Free Shipping USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1407,7 +1407,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSMD-225OZ_NOSE_1080.jpg?v=1631824282
     Price: $18.95 USD
 - [Havanese Nose Butter® All Natural Balm for Your Dog's Rough, Dry Nose](https://theblissfuldog.com/products/havanese): The Blissful Dog Havanese Nose Butter moisturizes your dog's dry nose with all natural ingredients. In tins and tubes with Havanese labels. Free Shipping USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1445,7 +1445,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/HAVANESE_NOSE_50TUBE_TWIRL.jpg?v=1631825623
     Price: $10.95 USD
 - [Siberian Husky Nose Butter Soothes Your Husky's Nose Issues -Naturally](https://theblissfuldog.com/products/husky): Siberian Husky Nose Butter moisturizes and soothes all types of your Husky's nose conditions, from dry nose to the more serious conditions many suffer from.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1483,7 +1483,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SIB_HUSKY_NOSE_50TUBE.jpg?v=1632069332
     Price: $10.95 USD
 - [Parson Russell Terrier Nose Butter® for Your Terrier's Dry Nose](https://theblissfuldog.com/products/jack-russell-terrier): Parson Russell Terrier Nose Butter moisturizes your Terrier's dry nose with all natural good stuff. Handcrafted in Minnesota for your Terrier's rough nose.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1521,7 +1521,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PRT_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631984769
     Price: $10.95 USD
 - [German Shorthaired Pointer Nose Butter® for Your GSP/GWP dry nose](https://theblissfuldog.com/products/german-shorthair-pointer): German Shorthaired Pointer Nose Butter all natural moisturizing balm for rough dry Wirehaired Pointer noses. In tins & tubes with GSP label. Free Shipping USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1563,7 +1563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSP-225OZ_NOSE_2500.jpg?v=1631811679
     Price: $18.95 USD
 - [Labradoodle Nose Butter® for Your Dood's Rough Dry Nose Condition](https://theblissfuldog.com/products/labradoodle): Labradoodle Nose Butter moisturizes your dog's dry nose with all natural good stuff. In tins and tubes with Labradoodle label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1601,7 +1601,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LABRADOODLE_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631907145
     Price: $10.95 USD
 - [Labrador Retriever Nose Butter® for Your Lab's Dry Nose Problems](https://theblissfuldog.com/products/labrador-retriever): Labrador Retriever Nose Butter moisturizes your Lab's dry nose using all natural ingredients. In  tins & tubes with 3 Labs on label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:01:04Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/LAB-RESULTS-NOSE-ALL.jpg?v=1738728680
     Price: $18.95 USD
 - [Leonberger Nose Butter® Soothing Balm for Your Leo's Rough Dry Nose](https://theblissfuldog.com/products/leonberger): Leonberger Nose Butter® moisturizes your dog's rough, dry nose. In several sizes of tins and tubes with a regal Leoberger on label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1685,7 +1685,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LEO225OZ_NOSE_1080_DOG.jpg?v=1655822721
     Price: $18.95 USD
 - [Lhasa Apso Nose Butter® Soothes & Hydrates Your Lhasa's Rough Dry Nose](https://theblissfuldog.com/products/lhasa-apso): Lhasa Apso Nose Butter® soothes your Lhasa's rough, dry nose with all natural ingredients.In tins & tubes with Lhasa Apso label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1723,7 +1723,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LHASA_APSO_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631916957
     Price: $10.95 USD
 - [Maltese Nose Butter Moisturizes Your Little Dog's Rough Dry Nose FAST!](https://theblissfuldog.com/products/maltese): Maltese Nose Butter® moisturizes your dog's dry nose with handcrafted, all natural ingredients. In tins & tubes with Maltese labels. Free Shipping USA!
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1761,7 +1761,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/MALTESE_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631917672
     Price: $10.95 USD
 - [Mastiff Nose Butter® Soothing Balm for Your English Mastiff's Dry Nose](https://theblissfuldog.com/products/mastiff): Mastiff Nose Butter soothes your dog's rough, dry nose using all natural ingredients.  In several sizes of tins & tubes with Mastiff labels. Free Shipping USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1803,7 +1803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/MASTIFF_225TUBE_BUTTER_VER2_2021-copy.jpg?v=1655825733
     Price: $18.95 USD
 - [Neapolitan Mastiff Nose Butter® for Your Italian Mastiff's Dry Nose](https://theblissfuldog.com/products/neapolitan-mastiff): Neapolitan Mastiff Nose Butter soothes your Neo's dry nose with all natural good stuff.  In tins and tubes with a Neo on the label. Free Shipping in the USA!
-  Updated: 2025-11-05T08:08:58Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1887,7 +1887,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/OLDE-225OZ_NOSE_2500.jpg?v=1631983994
     Price: $18.95 USD
 - [The Blissful Dog Pekingese Nose Butter for your Peke's rough, dry nose](https://theblissfuldog.com/products/pekingese): All Natural Pekingese Nose Butter® moisturizes your Peke's rough, dry nose. Handcrafted in Minnesota for your Pekingese dog's dry nose. Free Shipping in the USA
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1925,7 +1925,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PEKE_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631985148
     Price: $10.95 USD
 - [Papillon Nose Butter® Moisturizer for Your Pap's Rough Dry Dog Nose](https://theblissfuldog.com/products/papillon): The Blissful Dog Papillon Nose Butter® moisturizes your Pap's dry nose using all natural good stuff. In tins & tubes with Papillon label. Free Shipping in USA!
-  Updated: 2025-11-16T05:39:54Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1963,7 +1963,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PAP_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631984453
     Price: $10.95 USD
 - [The Blissful Dog Pomeranian Nose Butter Revives Your Pom's Dry Nose](https://theblissfuldog.com/products/pomeranian): The Blissful Dog Pomeranian Nose Butter® for your Pom's dry nose woes. In several sizes of tins and tubes with a Pomeranian on the label. Free Shipping in USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2001,7 +2001,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/POM_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631986121
     Price: $10.95 USD
 - [The Blissful Dog | Poodle Nose Care | Nose Soother for Dogs](https://theblissfuldog.com/products/poodle): The Blissful Dog Poodle Nose Butter® moisturizes your Poodle's nose with all natural, handcrafted in Minnesota good stuff. In tins and tubes with Poodle labels.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2039,7 +2039,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/POODLE_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631987261
     Price: $10.95 USD
 - [Portuguese Water Dog Nose Butter® Soothes Your PWD's Dry Nose](https://theblissfuldog.com/products/portuguese-water-dog): The Blissful Dog Portuguese Water Dog Nose Butter soothes your PWD's rough, dry nose with all natural ingredients. In tins & tubes. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2077,7 +2077,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PWD_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631987943
     Price: $10.95 USD
 - [The Blissful Dog Puggle Nose Butter All Natural Balm Dry Dog Nose Balm](https://theblissfuldog.com/products/puggle): Puggle Nose Butter for your Puggle's nose health. All natural, moisturizing butters and oils nourish your Puggle's rough, dry nose, bringing it back to healthy.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2115,7 +2115,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PUGGLE_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1632058260
     Price: $10.95 USD
 - [Rhodesian Ridgeback Nose Butter® Keeps Your Dog's Nose Healthy & Moist](https://theblissfuldog.com/products/rhodesian-ridgeback): Rhodesian Ridgeback Nose Butter® soothes your dog's rough, dry nose using all natural ingredients. In tins & tubes with Ridgie labels. Free Shipping in the USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2157,7 +2157,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/RIDGIE_225OZ_NOSE_2500.jpg?v=1632060040
     Price: $18.95 USD
 - [Rottweiler Nose Butter® Moisturizer for Your Rotties, Rough, Dry Nose](https://theblissfuldog.com/products/rottweiler): All natural Rottweiler Nose Butter® moisturizes your Rottie's rough, dry nose. In several sizes of tins and tubes with Rottie label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2199,7 +2199,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ROTTIE_225OZ_NOSE_1080.jpg?v=1632060413
     Price: $18.95 USD
 - [Samoyed Nose Butter® Hydrates Your Dog's Rough, Dry Nose Naturally](https://theblissfuldog.com/products/samoyed): Samoyed Nose Butter®, used as directed, moisturizes your dog's nose with all natural ingredients.  In tins & tubes with Samoyed label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2237,7 +2237,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SAMOYED_NOSE_50TUBE.jpg?v=1632062726
     Price: $10.95 USD
 - [Schnauzer Nose Butter® All Natural Handcrafted Balm for Dry Dog Noses](https://theblissfuldog.com/products/schnauzer): Schnauzer Nose Butter® All Natural Hydrating Balm for Your Schnauzer's Dry, Crusty Nose. In tins & tubes with Schnauzer label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2275,7 +2275,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCHNAUZER_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632063096
     Price: $10.95 USD
 - [Shetland Sheepdog Nose Butter Soothes Your Sheltie's Rough, Dry Nose](https://theblissfuldog.com/products/shetland-sheepdog): Shetland Sheepdog Nose Butter® moisturizes your Sheltie's dry nose using all natural ingredients. In tins and tubes with Sheltie labels. Free Shipping in USA!
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2313,7 +2313,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHELTIE_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632064860
     Price: $10.95 USD
 - [Shiba Inu Nose Butter® Moisturizes Your Shiba's Rough, Dry Nose](https://theblissfuldog.com/products/shiba-inu): The Blissful Dog Shiba Inu Nose Butter soothes your Shiba's dry nose using all natural ingredients. In tins & tubes with Shiba Inu label. Free Shipping in USA!
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2351,7 +2351,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIBA_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1632065507
     Price: $10.95 USD
 - [The Blissful Dog Shih Tzu Nose Butter® Alleviates Your Dog's Dry Nose](https://theblissfuldog.com/products/shih-tzu): Handcrafted Shih Tzu Nose Butter revives your Shih Tzu's dry nose with all natural ingredients. In tins/tubes with Shih Tzu labels. Free Shipping in the USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2389,7 +2389,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIHTZU_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1632068280
     Price: $10.95 USD
 - [The Blissful Dog Springer Spaniel Nose Butter® for Your Dog's Dry Nose](https://theblissfuldog.com/products/springer-spaniel): Springer Spaniel Nose Butter® moisturizes your dog's dry nose using all natural ingredients. In  tins/tubes with Springer Spaniel labels. Free Shipping in USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2427,7 +2427,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SPRINGER_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632071043
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter Moisturizer for Dry St Bernard Nose](https://theblissfuldog.com/products/st-bernard): St Bernard Nose Butter soothes your Saint's dry, rough nose using all natural ingredients. In tins & tubes with St. Bernard labels. Free Shipping in USA!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2469,7 +2469,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/STBERNARD_225OZ_NOSE_1080-copy.jpg?v=1632062337
     Price: $18.95 USD
 - [The Blissful Dog Tibetan Mastiff Nose Butter® alleviates dry dog noses](https://theblissfuldog.com/products/tibetan-mastiff): Tibetan Mastiff Nose Butter revives your dog's dry nose using all natural moisturizing ingredients. In tins/tubes w/ Tibetan Mastiff labels. Free Shipping USA!
-  Updated: 2025-10-30T09:33:37Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2507,7 +2507,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIB_MASTIFF_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1655926581
     Price: $10.95 USD
 - [Tibetan Spaniel Nose Butter® For Rough, Dry, Uncomfortable Dog Noses](https://theblissfuldog.com/products/tibetan-spaniel): The Blissful DogTibetan Spaniel Nose Butter® for your Tibbie's rough, dry dog nose. In tins and tubes with Tibbie on labels. Free Shipping in USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2545,7 +2545,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIB_SPANIEL_NOSE_50TUBE.jpg?v=1632077730
     Price: $10.95 USD
 - [The Blissful Dog Vizsla Nose Butter® Moisturizes Your Dog's Dry Nose](https://theblissfuldog.com/products/vizsla): Vizsla Nose Butter all natural moisturizer for your dog's dry nose. In several sizes of tins and tubes with Vizslas on every label. Free Shipping in USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:43Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2583,7 +2583,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/VIZSLA_NOSE_50TUBE.jpg?v=1632079458
     Price: $10.95 USD
 - [The Blissful Dog Weimaraner Nose Butter Natural Balm for Dry Dog Noses](https://theblissfuldog.com/products/weimaraner): Weimaraner Nose Butter® alleviates your dog's dry nose with all natural ingredients. Available in  tins & tubes with Weimaraner labels. Free Shipping in USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2625,7 +2625,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WEIMARANER_225OZ_NOSE_2500.jpg?v=1632081261
     Price: $18.95 USD
 - [Yorkshire Terrier Nose Butter® for Your Yorkie's Dry Nose All Natural](https://theblissfuldog.com/products/yorkshire-terrier): Yorkshire Terrier Nose Butter® for your Yorkie's rough, dry nose using all natural ingredients. In tins and tubes with Yorkie labels. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2663,7 +2663,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/YORKIE_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632083009
     Price: $10.95 USD
 - [Xoloitzcuintli Nose Butter® Moisturizes Your Xolo's Dry, Rough Nose](https://theblissfuldog.com/products/xoloitzcuintli): Xoloitzcuintli Nose Butter® All Natural Moisturizer for your Xolo - from nose to toes.  In tins and tubes with Xolo label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2719,7 +2719,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/POM_RELAX_SPRAY_2500.jpg?v=1623536313
     Price: $13.95 USD
 - [American Staffordshire Terrier Nose Butter® Soothes Your Dog's Nose](https://theblissfuldog.com/products/american-staffordshire-terrier): American Staffordshire Terrier Nose Butter® soothes your dog's dry nose. All natural, handcrafted balm melts into your dog's nose with layers of oils & butters.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2761,7 +2761,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMSTAFF_225_OLIVE_OIL_BLURcopy.jpg?v=1655569701
     Price: $18.95 USD
 - [Staffordshire Bull Terrier Nose Butter for Your Pit Bull's Dry Nose](https://theblissfuldog.com/products/staffordshire-bull-terrier): Staffordshire Bull Terrier Nose Butter® for Your Pit Bull's Dry Nose. All natural Nose Butter moisturizes dog's rough nose using all natural butters and oils.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2821,7 +2821,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/OLDE_BULLDOG_RELAX_FLOWER_SPRAY.jpg?v=1623532500
     Price: $13.95 USD
 - [Japanese Chin Nose Butter® Moisturize Your Dog's Nose Like a Dog Spa](https://theblissfuldog.com/products/japanese-chin): All natural Japanese Chin Nose Butter® moisturizes your dog's dry, crusty nose. Available in tins and tubes with Japanese Chin labels. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2961,7 +2961,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PUG-NOSE-ALL-COLORS-SIZES-2025.jpg?v=1738732631
     Price: $10.95 USD
 - [Cocker Spaniel Nose Butter All Natural Balm for Your Cocker's Dry Nose](https://theblissfuldog.com/products/cocker-spaniel): The Blissful Dog Cocker Spaniel Nose Butter® moisturizes your Cocker Spaniel's dry nose.  In tins & tubes with Cocker Spaniel labels. Free Shipping in USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -3373,7 +3373,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CAV-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738738488
     Price: $11.95 USD
 - [Australian Shepherd Nose Butter® for Your Aussie's Rough, Dry Nose](https://theblissfuldog.com/products/australian-shepherd-nose-butter): The Blissful Dog Australian Shepherd Nose Butter for your hard working Aussie's dry nose. Individually handcrafted in Minnesota using all natural good stuff.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -3597,7 +3597,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BOXER-225-TUBES-ALL-2025.jpg?v=1738731204
     Price: $18.95 USD
 - [Cavalier King Charles Spaniel Nose Butter® for Crusty or Dry Noses](https://theblissfuldog.com/products/cavalier-king-charles-spaniel-nose-butter): Cavalier King Charles Spaniel Nose Butter® for your Cavalier's rough, dry nose. All natural. handcrafted in MN good stuff for your dog's nose. Free Shipping USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -3635,7 +3635,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CAV_ALL4_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631649471
     Price: $10.95 USD
 - [The Blissful Dog Chihuahua Nose Butter® for Your Dog's Rough, Dry Nose](https://theblissfuldog.com/products/chihuahua-nose-butter): Chihuahua Nose Butter for Your Chihuahua's Rough, Dry Nose. Handcrafted in Minnesota using all natural ingredients. In tins & tubes. Free Shipping in the USA!
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -3673,7 +3673,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHI_DUO_NOSE_50TUBE_1.jpg?v=1631654076
     Price: $10.95 USD
 - [Newfoundland Nose Butter for Your Newfie Dog's Rough, Dry Dog Nose](https://theblissfuldog.com/products/newfoundland): Newfoundland Nose Butter® soothes your Newfie's dry nose. In tins and tubes - your choice of Black, Landseer or Brown Newfie on the label. Free Shipping in USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -4459,14 +4459,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/1-BOOBOO_BUTTER_PAW_225TUBE_DOG1_copy.jpg?v=1740773082
     Price: $18.95 USD
 - [American Bulldog Tube Combo for Dry Noses Rough Paws+Free Shipping USA](https://theblissfuldog.com/products/american-bulldog-tube-combo): American Bulldog Tube Combo for dry noses, rough paws, dog elbow calluses, skin issues. Handcrafted, all natural balms in gift bag with American Bulldog label.
-  Updated: 2025-11-17T07:22:23Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: Tube Combo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMBULL_15TUBE_COMBO_bd02ad93-42e4-4267-a047-032f733173a0.jpg?v=1647971664
   Price: $19.95 USD
 - [The Blissful Dog Custom Combo Kits For Dog Care Head to Tail](https://theblissfuldog.com/products/just-a-nose-butter-combos): The Blissful Dog Care Kit - Create a customized combo kit for your dog's exact requirements. Mix and match from our handcrafted butters. Free Shipping in USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -4487,119 +4487,119 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BOXER_COMBO_NEW.jpg?v=1597953786
   Price: $29.95 USD
 - [Bernese Mountain Dog Combo Kits for Rough Paws, Dry Noses & Itchy Skin](https://theblissfuldog.com/products/bernese-mountain-dog-combos): Bernese Mountain Dog Combo kits for dry noses, rough paws, elbow calluses & itchy skin issues. Handcrafted by The Blissful Dog using all natural ingredients.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BERNER_COMBO-2018.jpg?v=1626805595
   Price: $29.95 USD
 - [Pug Care Combo for Your Pug's Dry Nose, Rough Paws & Itchy Skin Issues](https://theblissfuldog.com/products/pug-combos): The Blissful Dog Pug Care Combo for your Pug's dry nose, rough paws and itchy skin. Mix & Match your choice of handcrafted, all natural balms. Free Shipping USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-PUG_DUO-BIG-SNIFF.jpg?v=1626804878
   Price: $29.95 USD
 - [Custom Mastiff Care Kit for Dry Noses & Paws + Elbow Calluses](https://theblissfuldog.com/products/mastiff-gift): Mastiff care kit for dry noses, rough paws, elbow calluses & skin issues. Mix & match your Mastiff's tailor-made skin care essentials kit. Free Shipping USA
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-MASTIFF_CUSTOM_COMBO.jpg?v=1626864320
   Price: $29.95 USD
 - [Dogue de Bordeaux Care for Healthy Noses, Paws, Elbows & Itchy Skin](https://theblissfuldog.com/products/dogue-de-bordeaux-combos): The Blissful Dog Dogue de Bordeaux Care Kit - Custom French Mastiff care for dry noses, rough paws, dog elbow calluses and itchy skin issues. Free Shipping USA
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-DDB_CUSTOM-COMBO.jpg?v=1626822034
   Price: $29.95 USD
 - [Customize Your German Shepherd Care Combo for Healthy Skin Care Needs](https://theblissfuldog.com/products/german-shepherd-combos): The Blissful Dog German Shepherd Care Kits for your German Shepherd's dry noses, rough paws, dog elbow calluses, skin issues. Free Shipping in USA
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1_GSD_CUSTOM_COMBO.jpg?v=1626862310
   Price: $29.95 USD
 - [The Blissful Dog German Shorthaired Pointer Care Kit Free Shipping USA](https://theblissfuldog.com/products/german-shorthair-combos): Create Your German Shorthaired Pointer Care Combo - Mix & Match tins & tubes for your dog's dry nose, rough paws, elbow calluses and itchy skin issues.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-GSP_COMBO_KIT.jpg?v=1626816354
   Price: $29.95 USD
 - [Golden Retriever Care Combos for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/golden-retriever-combos): The Blissful Dog Customizable Golden Retriever Care Kits for dry Golden noses, rough paws, dog elbow calluses, skin issues. Free Shipping in the USA!
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-GOLDEN_COMBO_KIT.jpg?v=1626836097
   Price: $29.95 USD
 - [Labrador Retriever Care Custom Combo for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/labrador-retriever-combos): The Blissful Dog Labrador Retriever Care Kit for dry noses, rough paws, dog elbow calluses, and itchy skin issues. Mix and match as needed. Free Shipping USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LAB_CUSTOM_COMBO.jpg?v=1626851287
   Price: $29.95 USD
 - [Customize Your Vizsla Care Combo Kit for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/vizsla-combos): The Blissful Dog | Build your own customized Vizsla Care Kit for your dog's dry nose, rough paws, dog elbow calluses and itchy skin issues. Free Shipping USA
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/VIZSLA_CUSTOM_COMBO.jpg?v=1626863654
   Price: $29.95 USD
 - [Customized Weimaraner Care Combo for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/weimaraner-combos): The Blissful Dog | Build a Made-To-Order Weimaraner Care Kits for your Weimaraner's dry nose, rough paws, elbow calluses & itchy skin issues. Free Shipping USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WEIMARANER_CUSTOM_COMBO.jpg?v=1626828180
   Price: $29.95 USD
 - [Customize Your Border Collie Care Pack - Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/border-collie-combos): Border Collie Care Combo for dry noses, rough paws, elbow calluses & itchy skin. Handcrafted, one-by-one by The Blissful Dog using all natural ingredients.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BORDER-COLLIE-COMBO.jpg?v=1626810397
   Price: $29.95 USD
 - [Boston Terrier Care Kit Keeps Your Boston Looking & Feeling Great](https://theblissfuldog.com/products/boston-terrier-combos): The Blissful Dog Boston Terrier Care Kit for dry noses, rough paws and itchy skin issues. Handcrafted in northern Minnesota using all natural good stuff.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BOSTON-TERRIER-CUSTOM-COMBO.jpg?v=1626843636
   Price: $29.95 USD
 - [Brittany Care Pack Smoothes Dry Noses & Rough Paws +Free Shipping USA](https://theblissfuldog.com/products/brittany-spaniel-combos): Brittany Care kits for dry noses, rough paws, elbow calluses and itchy skin. Handcrafted by The Blissful Dog in Minnesota using all natural ingredients.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BRITTANY_COMBO_CUSTOM_KIT.jpg?v=1626859674
   Price: $29.95 USD
 - [The Blissful Dog Brussels Griffon Care Kit for Your Griff's Skin Care](https://theblissfuldog.com/products/brussels-griffon-combos): Brussels Griffon Care Combo for dry noses, rough paws and itchy skin issues. Handcrafted in Minnesota, mix and match your Griff's choice of all natural balms.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BRUSSELS-GRIFFON-COMBO-NEW.jpg?v=1626862099
   Price: $29.95 USD
 - [Chinese Shar-Pei Care Combo Kit for Dry Noses, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/chinese-shar-pei-combos): Chinese Shar-Pei Care kit for dry noses, rough paws & skin issues. Handcrafted by The Blissful Dog in far northern Minnesota using all natural ingredients.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CHINESE_SHARPEI_CUSTOM_COMBO.jpg?v=1626828659
   Price: $29.95 USD
 - [Create Customized Siberian Husky Care Kit Dry Noses Paws, Itchy Skin](https://theblissfuldog.com/products/husky-combos): The Blissful Dog Create a custom Siberian Husky Care kit for your dog's dry nose, rough paws, elbow calluses & itchy skin. Made in Minnesota. Free Shipping USA
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/HUSKY_BIGSNIFF_NOSE.jpg?v=1626826732
   Price: $29.95 USD
 - [Alaskan Malamute Care Kit for Dry Noses, Rough Paws, Itchy Skin +](https://theblissfuldog.com/products/malamute-combos): The Blissful Dog Alaskan Malamute Custom Combo Kit Customize your Alaskan Malamute care kits for dry noses, rough paws and skin issues. Free Shipping in USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -4613,49 +4613,49 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-OLDE_CUSTOM_COMBO.jpg?v=1627012372
   Price: $29.95 USD
 - [Pekingese Care Kit for Your Peke's Dry Nose, Rough Paws & Skin Issues](https://theblissfuldog.com/products/pekingese-combos): The Blissful Dog Custom your Pekingese care combo kits for your Peke's dry nose, rough paws & minor skin issues. Handcrafted in Minnesota. Free Shipping USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:48Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PEKE_Combo_tin-copy.jpg?v=1651439480
   Price: $29.95 USD
 - [Pomeranian Care Combo Kit for Pom Perfection From Nose to Tail](https://theblissfuldog.com/products/pomeranian-combos): The Blissful Dog Pomeranian Care Kit builds your Pom's own unique product collection. In tins & tubes in a storage tin with Pomeranian cover. Free Shipping USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-POMEREANIAN-CUSTOM_COMBO.jpg?v=1626822755
   Price: $29.95 USD
 - [The Blissful Dog Customized Combo Kit for Poodle Care & Well-Being](https://theblissfuldog.com/products/poodle-combos): The Blissful Dog Poodle Care Kit. Mix and match our handcrafted, all natural balms to create a custom skin care kit just for YOUR Poodle. Free Shipping in USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-POODLE_CUSTOM_COMBO.jpg?v=1626843395
   Price: $29.95 USD
 - [Create a Yorkshire Terrier Care kit for Your Yorkie's Nose, Paws, Skin](https://theblissfuldog.com/products/yorkshire-terrier-combos): The Blissful Dog Yorkshire Terrier Care Kit with all natural, handcrafted balms for your Yorkie's dry nose, rough paws and itchy skin issues. Free Shipping USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/YORKIE_CUSTOM_COMBO.jpg?v=1626860678
   Price: $29.95 USD
 - [Springer Spaniel Care for Your Dog's Dry Nose, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/springer-spaniel-combos): Customize your Springer Spaniel Care Kit for your Springer's dry nose, rough paws, itchy skin+. The Blissful Dog for all natural, individually handcrafted balms
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:32Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-SPRINGER_SPANIEL_BIG_SNIFF_NOSE.jpg?v=1626812829
   Price: $29.95 USD
 - [Rhodesian Ridgeback Care Custom Combo for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/rhodesian-ridgeback-combos): The Blissful Dog Rhodesian Ridgeback Care Kit for dry noses, rough paws, dog elbow calluses & itchy skin issues. Free Shipping in USA!
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/RHODESIAN_RIDGEBACK_BIG_SNIFF_ELBOW.jpg?v=1626801268
   Price: $29.95 USD
 - [Customize Your Combo Kit for Rottweiler Care From Head to Tail](https://theblissfuldog.com/products/rottweiler-combos): The Blissful Dog Custom Combo Create Your Rottweiler Care Kit mix & match the products your Rottweiler needs to look and feel their best. Free Shipping in USA
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -4669,56 +4669,56 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-FBD_BIG-SNIFF-TIN-ALONE.jpg?v=1627318547
   Price: $29.95 USD
 - [Cocker Spaniel Skin Care for Your Dog's Dry Nose Rough Paws Itchy Skin](https://theblissfuldog.com/products/cocker-spaniel-combos): The Blissful Dog Cocker Spaniel Skin Care Combo for soothing dry noses, rough paws & alleviating minor skin irritations and itchy spots. Free Shipping USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-Cocker_Combo_Custom.jpg?v=1626819345
   Price: $29.95 USD
 - [Saint Bernard Care Combo Kit For Dry Noses, Elbow Calluses, Rough Paws](https://theblissfuldog.com/products/st-bernard-combos): Customize Your Saint Bernard Care Combo to your Saint's specific needs. Now you can care for the dog whose ancestors saved so many people from avalanches!
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/STBERNARD_CUSTOM_COMBO.jpg?v=1626828180
   Price: $29.95 USD
 - [Japanese Chin Care for Dry Noses, Rough Paws & Skin Issues](https://theblissfuldog.com/products/japanese-chin-combos): The Blissful Dog Japanese Chin Care Kit for dry noses, rough paws & minor skin issues. Mix & match our handcrafted balms for your dog's needs. Free Shipping USA
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/JAPANESE_CHIN_BIG_SNIFF_lo.jpg?v=1626830550
   Price: $29.95 USD
 - [Newfoundland Dog Care Essentials Combo Kit Customized for Your Newfie](https://theblissfuldog.com/products/newfoundland-combos): The Blissful Dog Newfoundland Dog Care Combo. Mix & match your choice of balms for your Newfie's dry nose, rough paws, elbow calluses+ Free Shipping in USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NEWFIE-CUSTOM-COMBO.jpg?v=1626830321
   Price: $29.95 USD
 - [Shetland Sheepdog Care Combo for Your Sheltie's Dry Nose, Rough Paws](https://theblissfuldog.com/products/shetland-sheepdog-combos): The Blissful Dog Customize Your Shetland Sheepdog Care Combo Kit for your Sheltie's dry nose, rough paw pads, skin irritations & itchy spots. Free Shipping USA
-  Updated: 2025-11-14T10:09:43Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-SHELTIE_CUSTOM_COMBO.jpg?v=1626853770
   Price: $29.95 USD
 - [The Blissful Dog Cavalier King Charles Spaniel Care Custom Kits](https://theblissfuldog.com/products/cavalier-king-charles-spaniel-combos): Cavalier King Charles Spaniel Care Kit - Mix and Match your choice of tins and tubes for your Cavalier's individual needs; dry noses, rough paws, itchy skin+
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CAV_BIG_SNIFF.jpg?v=1626815890
   Price: $29.95 USD
 - [Australian Shepherd Care Custom Combo for Healthy Aussie Nose, Paws +](https://theblissfuldog.com/products/australian-shepherd-combos): The Blissful Dog - Build your own custom Australian Shepherd care kits for dry noses, rough paws and itchy, frustrating skin issues. Free Shipping in USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-AUSSIE_COMBO_KIT_2018_600.jpg?v=1626863654
   Price: $29.95 USD
 - [Chihuahua Care Custom Combo for Dry Noses, Rough Paws and Itchy Skin](https://theblissfuldog.com/products/chihuahua-combos): Chihuahua Care Custom kit for your dog's skin care. Handcrafted by The Blissful Dog in Minnesota using all natural ingredients. Free Shipping in the USA!
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -5352,7 +5352,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CORGI-RELAX-SPRAY-2024-MASK_7d0322f8-4103-422f-9cc8-db0b2207ab46.jpg?v=1738742435
     Price: $13.95 USD
 - [Great Dane Nose Butter Moisturizes Your Dane's Crusty, Dry Nose](https://theblissfuldog.com/products/great-dane-nose-butter): Great Dane Nose Butter moisturizes  and soothes your Great Dane's rough, dry nose with all natural ingredients. Handcrafted in MN with love for your BIG dog.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -5592,7 +5592,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULLMASTIFF-RELAX-SPRAY-2024.jpg?v=1738771841
     Price: $13.95 USD
 - [Chinese Crested Nose Butter Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/chinese-crested-nose-butter): The Blissful Dog Chinese Crested Nose Butter® for your Crested's rough, dry nose AND skin.  In tins and tubes with Chinese Crested labels. Free Shipping in USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -5684,7 +5684,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DOBERMAN-RELAX-SPRAY-2024_2c61183a-51a2-4e8c-bbc1-e4042b0f3091.jpg?v=1738740983
     Price: $13.95 USD
 - [The Blissful Dog Nose Butter for Rough Dry Noses | All Natural](https://theblissfuldog.com/products/three-cute-puppies-nose-butter): The Blissful Dog Nose Butter for dry, rough, cracked dog noses - all-natural, handcrafted individually in far northern MN since 2002. Free Shipping in the USA
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -6646,7 +6646,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LAB_FOCUS_SPRAY2_2500X_d77103ef-a8f3-4cfd-99d6-a4e5d3850aa5.jpg?v=1640110949
     Price: $13.95 USD
 - [Great Pyrenees Dog Customized Care Combo for Happy, Healthy Pyrs](https://theblissfuldog.com/products/great-pyrenees-combos): The Blissful Dog Great Pyrenees Dog Customized Care Combo for dry noses, rough paws, elbow calluses and minor skin irritations. Keep your Pyr in Pyr Perfect Shape!
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -6687,7 +6687,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DACHSHUND-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738730214
     Price: $11.95 USD
 - [The Blissful Dog West Highland White Terrier Nose Butter for Dry Noses](https://theblissfuldog.com/products/west-highland-white-terrier-nose-butter): West Highland White Terrier Nose Butter alleviates dry dog noses using all natural moisturizing ingredients. Unscented/scented & in tins/tubes with Westie label
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -6797,14 +6797,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AMSTAFF-RELAX-ROLLON-2024_d26b95d1-1dfe-445d-bf95-e178d0fb0bc1.jpg?v=1738773036
     Price: $13.95 USD
 - [Basset Skin Care Kit for Your Basset's Skin Care Needs](https://theblissfuldog.com/products/basset-hound-combos): Basset Skin Custom Care Kit - Build your own combo kit, customized for your Basset Hound's personal needs. Presented in a metal gift/storage tin with Basset.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BASSET_Combo_800.jpg?v=1626859905
   Price: $29.95 USD
 - [Beagle Combo: Customize Your Beagle's Combo Kit Any Way You Wish](https://theblissfuldog.com/products/beagle-combos): Beagle Combo for your dog's dry nose, rough paws, elbow calluses, skin issues.Handcrafted by The Blissful Dog in far Minnesota using all natural ingredients.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -7260,7 +7260,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/FLAWLESS_GAL_2500_GOLDENDOOD.jpg?v=1689364948
     Price: $72.95 USD
 - [Nova Scotia Duck Tolling Retriever Nose Butter for Your Dog's Dry Nose](https://theblissfuldog.com/products/nova-scotia-duck-tolling-dog-nose-butter): Nova Scotia Duck Tolling Retriever Nose Butter soothes your dog's dry nose. Handcrafted in MN using all natural ingredients with Toller label. Free Shipping USA
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -7808,7 +7808,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULL-TERRIER-BOOBOO-50TUBE-2500.jpg?v=1738739569
     Price: $11.95 USD
 - [Greater Swiss Mountain Dog Care Kit for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/greater-swiss-mountain-dog-1): Customize your The Blissful Dog Greater Swiss Mountain Dog Care Kit for dry noses, rough paws, elbow calluses & skin issues.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -7833,21 +7833,21 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCHNAUZER_SPRAY_FRANK_MYRRH_AGEWELLcopy.jpg?v=1650904349
     Price: $13.95 USD
 - [Bull Terrier Care Custom Combo For Dry Noses, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/bull-terrier-combos): The Blissful Dog Custom combo kit with all you need for Bull Terrier care - dry nose, rough paws, dog elbow calluses and annoying minor skin irritations.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BULLTERRIER_CUSTOM_COMBO_NEW.jpg?v=1626851757
   Price: $29.95 USD
 - [The Blissful Dog Bullmastiff Care Combo for Dry Noses, Rough Paws +](https://theblissfuldog.com/products/bullmastiff-combos): Bullmastiff Care Combo for your Bullmastiff's dry nose, rough paws, elbow calluses and minor skin irritations. All natural, handcrafted balms.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BULLMASTIFF_BIG_SNIFF_NOSE.jpg?v=1626818778
   Price: $29.95 USD
 - [Customize Your Chow Care Combo Kit for Nose, Paws, Elbows & Skin Care](https://theblissfuldog.com/products/chow-combos): The Blissful Dog Chow Care Combo kits for dry noses, rough paws, dog elbow calluses and itchy skin issues can be customized to fit your Chow's individual needs.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -8026,14 +8026,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BORDER_FOCUS_SPRAY_1080.jpg?v=1640045195
     Price: $13.95 USD
 - [Belgian Malinois combo for Healthy Dog Noses, Paws, Elbows & Skin Care](https://theblissfuldog.com/products/belgian-malinois-combos): The Blissful Dog Mix & Match your Belgian Malinois combo kit. Handcrafted, all natural balms for dry dog nose, rough paws, elbow calluses & skin issues.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BELGIAN_MALINOIS_COMBO.jpg?v=1626811792
   Price: $29.95 USD
 - [Great Dane Care Combo for Dry Noses, Rough Paws, Elbow Calluses +](https://theblissfuldog.com/products/great-dane-combos): The Blissful Dog - Customize your Great Dane Care Kit for dry noses, rough paws, elbow calluses, skin issues & Great Dane Happy Tails.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -8058,21 +8058,21 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WHIPPET_RELAX_SPRAY_2500.jpg?v=1623610922
     Price: $13.95 USD
 - [The Blissful Dog Customize Your Maltese Care Combo for Blissful Health](https://theblissfuldog.com/products/maltese-combos): Customize your Maltese Care Combo kit for dry noses, rough paws and skin issues. Select the perfect mix of handcrafted, all natural balms for your Maltese.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-MALTESE_CUSTOM_COMBO.jpg?v=1626858762
   Price: $29.95 USD
 - [Build a Customized Combo For Staffordshire Pit Bull Terrier Care](https://theblissfuldog.com/products/staffordshire-pit-bull-terrier-combos): The Blissful Dog handcrafted balms; Nose Butter for dry noses, Paw Butter for rough paws, Elbow Butter for elbow calluses & Boo Boo Butter for itchy skin.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:48Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/STAFFYBULL_CUSTOM_COMBO.jpg?v=1626827452
   Price: $29.95 USD
 - [Goldendoodle Care Combo Kit for noses, paws, elbows and skin care](https://theblissfuldog.com/products/goldendoodle-combos): Check out The Blissful Dog Customized Goldendoodle Care Kit for dry noses, rough paws, skin issues and elbow calluses.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -8457,7 +8457,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PAP_50TUBE_BOOBOO_ING_2500copy.jpg?v=1738719973
     Price: $11.95 USD
 - [Coonhound Nose Butter® All Natural Balm for Your Hound's Dry Nose](https://theblissfuldog.com/products/coonhound-nose-butter): Your Coonhound depends on their ultra-sensitive nose for getting their info. Coonhound Nose Butter moisturizes and soothes your dog's rough, dry nose.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9213,14 +9213,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DOGO-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738729045
     Price: $11.95 USD
 - [Build Your Own American Bulldog Combo Kit To Keep Your Bullie Happy](https://theblissfuldog.com/products/american-bulldog-big-sniff-combo): Blissful Dog American Bulldog Combo | Nose Butter for dry noses, Paw Butter for rough paws, Elbow Butter for elbow calluses & Boo Boo Butter for skin issues
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMERICAN-BULLDOG-BIG-SNIFF-TIN.jpg?v=1626835595
   Price: $29.95 USD
 - [Australian Shepherd Skin Care Combo for Healthy Aussie Nose, Paws +](https://theblissfuldog.com/products/australian-shepherd-tube-combo): Australian Shepherd Skin Care combo for dry noses, rough paws, skin issues and dog stress. Handcrafted in USA, all natural balms - choice of FIVE Aussie labels.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -9245,7 +9245,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/3-OLD-FRIENDS-AGEWELL-3-OLD-SPRAY-2500-APOTH.jpg?v=1659970109
     Price: $13.95 USD
 - [Australian Cattle Dog Nose Butter® for Your Blue Heeler's Dry Nose](https://theblissfuldog.com/products/australian-cattle-dog-nose-butter): The Blissful Dog Australian Cattle Dog Nose Butter® Moisturizes your Blue Heeler's dry nose with all natural, handcrafted good stuff. Available in tins & tubes.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9283,7 +9283,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AUS_CATTLE_50TUBE_NoseButter_ALL_ingredients_2500_2021.jpg?v=1631565236
     Price: $10.95 USD
 - [If Your Basenji Has Dry Nose Issues Try The Blissful Dog NOSE BUTTER®](https://theblissfuldog.com/products/basenji-nose-butter): If your Basenji has dry nose problems, such as dryness or extreme nasal hyperkeratosis, all natural, handcrafted NOSE BUTTER is the answer to their dry nose.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9321,7 +9321,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BASENJI_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631566962
     Price: $10.95 USD
 - [Does Your Chesapeake Bay Retriever Have a Dry Nose? Try Nose Butter!](https://theblissfuldog.com/products/chesapeake-bay-retriever-nose-butter): If your Chesapeake Bay Retriever has a rough, dry nose, NOSE BUTTER is the answer. In tins and tubes, Unscented and Scented with Chesapeake Bay Retriever label.
-  Updated: 2025-11-01T11:46:00Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9411,7 +9411,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHESSIE_RELAX_SPRAY_LAV1.jpg?v=1622902527
     Price: $13.95 USD
 - [Bichon Frise Nose Butter Handcrafted Natural Balm for Your Dog's Nose](https://theblissfuldog.com/products/bichon-frise-nose-butter): Bichon Frise Nose Butter® for a healthy, happy dog nose. Handcrafted in MN since 2002, Nose Butter® moisturizes your Bichon Frise's dry nose...naturally.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9535,7 +9535,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/COONHOUND-BOOBOO-DOG2-3WAY-VER2.jpg?v=1738735506
     Price: $11.95 USD
 - [Corgi Nose Butter® Handcrafted Balm for Your Dog's Rough, Dry Nose](https://theblissfuldog.com/products/corgi-nose-butter): Corgi Nose Butter is moisturizing goodness for your dog's dry or crusty nose. In Unscented or Scented in several sizes of tins and tubes with Corgi label.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9573,7 +9573,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CORGI_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631721053
     Price: $10.95 USD
 - [Does Your Curly-Coated Retriever Have a Dry Nose? Try Nose Butter!](https://theblissfuldog.com/products/curly-coated-retriever-nose-butter): Does your Curly-Coated Retriever have a dry nose? NOSE BUTTER is all natural, individually handcrafted in Minnesota moisturizing goodness for your dog's nose.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9610,7 +9610,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CURLY_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631722494
     Price: $10.95 USD
 - [The Blissful Dog Flat-Coated Retriever Nose Butter for dry dog noses](https://theblissfuldog.com/products/flat-coated-retriever-nose-butter): Flat-Coated Retriever Nose Butter moisturizes your dog's dry nose naturally. Handcrafted in MN since 2002. Available in tins & tubes featuring a Flat-Coat label
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9648,7 +9648,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FLATCOAT_NOSE_COCONUT_OIL_TUBE.jpg?v=1631807396
     Price: $10.95 USD
 - [Dalmatian Nose Butter® All Natural Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/dalmatian-nose-butter): Dalmatian Nose Butter - all natural, handcrafted moisturizing goodness for your dog's dry, crusty nose. In tins & tubes, unscented or scented & Dalmatian label.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9754,7 +9754,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/COTON-BOOBOO-TIN-2500-DOG2copy.jpg?v=1738734883
     Price: $11.95 USD
 - [Dog Crusty Nose Remedy for Coton de Tulear Care | The Blissful Dog](https://theblissfuldog.com/products/coton-de-tulear-nose-butter): Made in MN since 2002. Nose Butter is the perfect remedy for your Coton de Tulear dog's crusty nose. Use 2-3x a day for 2-3 days, then as needed for maintenance
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9810,7 +9810,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/COTON-RELAX-SPRAY-2024-MASK.jpg?v=1738741989
     Price: $13.95 USD
 - [Greyhound Nose Butter® Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/greyhound-nose-butter): The Blissful Dog Greyhound Nose Butter® moisturizes your dog's dry nose with all natural, handcrafted good stuff. Made in MN since 2002. Greyhounds on the label
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -9848,7 +9848,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GREYHOUND_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631834545
     Price: $10.95 USD
 - [Italian Greyhound Nose Butter® Handcrafted for Your Dog's Dry Nose](https://theblissfuldog.com/products/italian-greyhound-nose-butter): Italian Greyhound Nose Butter moisturizes your dog's dry nose with all natural good stuff. In tins & tubes, unscented or scented with Italian Greyhound label.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -11392,217 +11392,217 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BIG_DOG_COMBO_BYE_BUG_GSD.jpg?v=1686846962
     Price: $45.95 USD
 - [Customize Your American Eskimo Combo Your Choice of Options](https://theblissfuldog.com/products/american-eskimo-combo-kit): The Blissful Dog | American Eskimo Combo Kit - Mix & Match - Nose Butter + Paw Butter + Boo Boo Butter + Elbow Butter Tucked in metal gift/storage tin.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-AMEESKIE_COMBO-TIN-ALONE_97cd456b-84b5-40eb-806a-6f9c994bf50b.jpg?v=1626827810
   Price: $29.95 USD
 - [The Blissful Dog Cane Corso Care Combo for Dry Noses, Rough Paws +](https://theblissfuldog.com/products/cane-corso-custom-combo): Cane Corso Care Customized Combo for your Cane Corso dog's ry nose, rough paws, elbow calluses and minor skin irritations. All natural, handcrafted balms
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CANE_CORSO_BIG_COMBO.jpg?v=1626810872
   Price: $29.95 USD
 - [Basenji Custom Care Kit for Your Basenji's Individual Skin Care Needs](https://theblissfuldog.com/products/basenji-custom-combo): Basenji Custom Care Kit All natural handcrafted by The Blissful Dog in Minnesota balms for your Basenji's dry nose, rough paws, elbow calluses and itchy skin.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BASENJI_CUSTOM_COMBO.jpg?v=1626809113
   Price: $29.95 USD
 - [The Blissful Dog Bloodhound Combo For Bloodhound Care Head to Tail](https://theblissfuldog.com/products/bloodhound-custom-combo): Bloodhound Care Custom Combo Mix and Match tins and tubes of Nose Butter, Paw Butter, Elbow Butter and Boo Boo Butter for your Bloodhound's individual needs.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BLOODHOUND_COMBO-KIT.jpg?v=1626858762
   Price: $29.95 USD
 - [Build Your Own Customized American Staffordshire Terrier Combo Kit](https://theblissfuldog.com/products/american-staffordshire-terrier-custom-combo-kit): Create Your Own Mix & Match American Staffordshire Terrier Combo Kit. Choose from tins and tubes of Nose Butter, Paw Butter, Elbow Butter or Boo Boo Butter.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-AMSTAFF_CUSTOM_COMBO.jpg?v=1626836329
   Price: $29.95 USD
 - [Customize Your Affenpinscher Combo Kit For Their Specific Needs](https://theblissfuldog.com/products/affenpinscher-custom-combo-kit): The Blissful Dog Customize Your Affenpinscher Combo Kit - Build Your Own Combo - Mix & Match - Nose Butter + Paw Butter + Boo Boo Butter + Elbow Butter.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AFFIE_CUSTOM_COMBO_9b8b0f7f-a97c-434d-b2f8-87b85b78471f.jpg?v=1626822282
   Price: $29.95 USD
 - [Customize Your Collie Care Combo Kit for Collie Nose, Paws & Skin Care](https://theblissfuldog.com/products/collie-custom-combo): The Blissful Dog Custom Collie Care Combo kits for dry noses, rough paws and itchy skin issues can be customized to fit your Collie's individual needs.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-COLLIE-CUSTOM_COMBO.jpg?v=1626801695
   Price: $29.95 USD
 - [Customize Your Corgi Care Combo Kit for Corgi Nose, Paws & Skin Care](https://theblissfuldog.com/products/corgi-custom-combo): The Blissful Dog presents Custom Corgi Care Combo kits for dry noses, rough paws and itchy skin issues can be customized to fit your Corgi's singular needs.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CORGI_CUSTOM_COMBO_LO.jpg?v=1597954140
   Price: $29.95 USD
 - [The Blissful Dog Bichon Frise Care Combo for Dry Noses, Rough Paws +](https://theblissfuldog.com/products/bichon-frise-custom-combo): The Blissful Dog Bichon Frise Care Combo for your Bichon's dry nose, rough paws, minor skin & grooming mishaps.  Mix & Match for your Bichon's unique needs.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BICHON_CUSTOM_COMBO.jpg?v=1626826611
   Price: $29.95 USD
 - [Australian Cattle Dog Care Combo for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/australian-cattle-dog-custom-combo): The Blissful Dog Australian Cattle Dog Care Customized Combo for your Cattle Dog's dry nose, rough paws, minor skin irritations.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-Cattle_Dog_COMBO-KIT.jpg?v=1626803190
   Price: $29.95 USD
 - [Coton de Tulear Care Combo for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/coton-de-tulear-custom-combo): The Blissful Dog Coton de Tulear Care Customized Combo for your dog's dry nose, rough paws, minor skin irritations or grooming mishaps.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COTON_COMBO_TIN_MAR27.jpg?v=1648395985
   Price: $29.95 USD
 - [Curly Coated Retriever Care Combo for Dry Noses, Dry Paws, Itchy Skin](https://theblissfuldog.com/products/curly-coated-retriever-custom-combo): The Blissful Dog Curly Coated Retriever Care Customized Combo for your dog's dry nose, rough paws, minor skin irritations. All natural, handcrafted balms.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CURLY_COMBO-KIT.jpg?v=1626829154
   Price: $29.95 USD
 - [Chinese Crested Care Combo for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/chinese-crested-custom-combo): The Blissful Dog Chinese Crested Care Combo for your dog's skin care needs, dry nose, rough paws, minor skin irritations. All natural, handcrafted balms.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CRESTED_CUSTOM-COMBO.jpg?v=1626822034
   Price: $29.95 USD
 - [Customize Your Dachshund Care Combo for Healthy Skin Care Needs](https://theblissfuldog.com/products/dachshund-custom-combos): The Blissful Dog Dachshund Care Kits Customized for your Doxie's dry noses, rough paws, dog elbow calluses, skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-DACHSHUND-CUSTOM-COMBO.jpg?v=1626857987
   Price: $29.95 USD
 - [Customize Your Dalmatian Care Combo for Healthy Skin Care Needs](https://theblissfuldog.com/products/dalmatian-custom-combos): The Blissful Dog Dalmatian Care Combos Customized for your Dalmatian's dry noses, rough paws, dog elbow calluses & itchy skin issues. In a fancy, schmancy tin.
-  Updated: 2025-10-30T09:36:08Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-DALMATIAN_CUSTOM-COMBO.jpg?v=1626859443
   Price: $29.95 USD
 - [Customize Your Dogo Argentino Care Combo for Healthy Skin Care Needs](https://theblissfuldog.com/products/dogo-argentino-custom-combo): The Blissful Dog Dogo Argentino Care Kits are customized for your Dogo Argentino's dry noses, rough paws, dog elbow calluses and skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-DOGO_CUSTOM-COMBO.jpg?v=1626820353
   Price: $29.95 USD
 - [Customize Your English Toy Spaniel Care Combo for Skin Care Needs](https://theblissfuldog.com/products/english-toy-spaniel-custom-combo): The Blissful Dog English Toy Spaniel Care Kits are customized for your English Toy Spaniel's dry noses, rough paws, and itchy skin issues.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-ETS_CUSTOM-COMBO.jpg?v=1626844597
   Price: $29.95 USD
 - [Doberman Pinscher Care for Healthy Noses, Paws, Elbows & Itchy Skin](https://theblissfuldog.com/products/doberman-pinscher-custom-combo): The Blissful Dog Doberman Pinscher Care Kit - Customize your Dobie's care kit for dry noses, rough paws, dog elbow calluses and itchy skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-DOBIE_CUSTOM-COMBO.jpg?v=1626803674
   Price: $29.95 USD
 - [Customize Your English Cocker Spaniel Care Combo for Skin Care Needs](https://theblissfuldog.com/products/english-cocker-spaniel-custom-combo): Customize your English Cocker Spaniel Care Kit for your English Cocker Spaniel's dry noses, rough paws, and itchy skin issues. Mix & match for your dog's needs.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-ENG_COCKER_CUSTOM-COMBO.jpg?v=1626826059
   Price: $29.95 USD
 - [Fila Brasileiro Care Kit for Healthy Noses, Paws, Elbows & Itchy Skin](https://theblissfuldog.com/products/fila-brasileiro-custom-combo): The Blissful Dog Fila Brasileiro Care Kit - Customize your Fila's care for dry noses, rough paws, dog elbow calluses and itchy skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-FILA_CUSTOM-COMBO.jpg?v=1626809431
   Price: $29.95 USD
 - [Customized Greyhound Care Combo for Happy, Healthy Greyhounds](https://theblissfuldog.com/products/greyhound-custom-combo-kit): The Blissful Dog Customized Greyhound Care Combo for all of your Greyhound's skin care needs; dry noses, rough paws, elbow calluses and minor skin irritations.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-GREYHOUND_CUSTOM_COMBO.jpg?v=1626862099
   Price: $29.95 USD
 - [Customized Havanese Care Combo for Happy, Healthy Havanese](https://theblissfuldog.com/products/havanese-custom-combo-kit): The Blissful Dog Havanese Care Combo - customize for your dog's exact needs; dry nose, rough paws and minor skin irritations - mix & match tins & tubes.
-  Updated: 2025-11-01T10:55:15Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-HAVANESE_CUSTOM_COMBO.jpg?v=1626815285
   Price: $29.95 USD
 - [Customized Italian Greyhound Care Combo for Happy, Healthy Greyhounds](https://theblissfuldog.com/products/italian-greyhound-custom-combo-kit): The Blissful Dog Customized Italian Greyhound Care Combo for dry noses, rough paws & minor skin issues. Customize to suit your Italian Greyhound's exact needs.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-IG_CUSTOM_COMBO.jpg?v=1626805794
   Price: $29.95 USD
 - [Parson Russell Terrier Care Combo for Happy, Healthy Terriers](https://theblissfuldog.com/products/russell-terrier-custom-combo-kit): The Blissful Dog Customized Parson Russell Terrier Care Combo for dry noses, rough paws & minor skin irritations. Presented in storage tin with JRT label.
-  Updated: 2025-10-30T09:36:08Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-JRT_CUSTOM_COMBO.jpg?v=1626864089
   Price: $29.95 USD
 - [The Blissful Dog Labradoodle Care Kit for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/labradoodle-custom-combo): Labradoodle Care Kits for dry noses, rough paws, dog elbow calluses, and itchy skin issues. Mix and match our handcrafted balms for  your dog's needs.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-LABRA_CUSTOM_COMBO.jpg?v=1626802236
   Price: $29.95 USD
 - [Leonberger Care Custom Combo for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/leonberger-custom-combo): The Blissful Dog Leonberger Care Kits for dry noses, rough paws, dog elbow calluses, and itchy skin. Customize your Leonberger's Essentials Care Kit.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-LEO_CUSTOM_COMBO.jpg?v=1626856638
   Price: $29.95 USD
 - [Custom Combo Kit for Your Lhasa Apso Care Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/lhasa-apso-custom-combo): The Blissful Dog Lhasa Apso Care Kits for your Lhasa's dry nose, rough paws and itchy skin issues. Mix and match our all natural handcrafted balms for your dog.
-  Updated: 2025-11-16T12:14:15Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-LHASA_CUSTOM_COMBO.jpg?v=1626844356
   Price: $29.95 USD
 - [Neapolitan Mastiff Care Combo Kit for Dry Noses, Paws & Elbow Calluses](https://theblissfuldog.com/products/neapolitan-mastiff-custom-combo): The Blissful Dog Neapolitan Mastiff care combo for dry noses, rough paws, elbow calluses and itchy skin issues. Mix & match your Neo's skin care essentials kit.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-NEO_CUSTOM_COMBO.jpg?v=1626839073
   Price: $29.95 USD
 - [Customize Your Nova Scotia Duck Tolling Retriever Care Combo Kit](https://theblissfuldog.com/products/nova-scotia-duck-tolling-retriever-custom-combos): The Blissful Dog Customize your Nova Scotia Duck Tolling Retriever Care Combo kit for dry noses, rough paws and skin issues. All natural, made in Minnesota.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-NOVA-SCOTIA-CUSTOM-COMBO.jpg?v=1626865080
   Price: $29.95 USD
 - [Papillon Dog Care for Dry Noses, Rough Paws & Itchy Skin Issues](https://theblissfuldog.com/products/papillon-custom-combo): The Blissful Dog Papillon Custom Combo Kit - You can now customize your Papillon care combo kit for dry noses, rough paws and skin irritations.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-PAPILLON-CUSTOM_COMBO.jpg?v=1626825041
   Price: $29.95 USD
 - [Customized Combo Kit for Portuguese Water Dog Care & Well-Being](https://theblissfuldog.com/products/portuguese-water-dog-custom-combo): The Blissful Dog Portuguese Water Dog Care Lit. Mix and match our handcrafted, all natural balms to create a made-to-order skin care kit for your PWD.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -11616,56 +11616,56 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-PUGGLE_CUSTOM_COMBO.jpg?v=1597954160
   Price: $29.95 USD
 - [Samoyed Care Combo for Your Sammie's Dry Nose, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/samoyed-custom-combo): The Blissful Dog - Customize your Samoyed Care Combo Kit for your Sammie's individual needs. Mix & match our individually handcrafted, all natural balms
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SAMOYED_CUSTOM_COMBO.jpg?v=1626851287
   Price: $29.95 USD
 - [Schnauzer Care Combo for Your Schnauzer's Dry Nose & Paws & Itchy Skin](https://theblissfuldog.com/products/schnauzer-custom-combo): The Blissful Dog Customize your Schnauzer Care Combo Kit for your dog's dry nose, rough paw pads, skin irritations and itchy spots.
-  Updated: 2025-11-18T03:48:55Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCHNAUZER_CUSTOM_COMBO.jpg?v=1626829154
   Price: $29.95 USD
 - [Shih Tzu Care Combo for Your Shih Tzu's Dry Nose & Paws & Itchy Skin](https://theblissfuldog.com/products/shih-tzu-custom-combo): The Blissful Dog - Customize your Shih Tzu Care Combo Kit for your Shih Tzu's dry nose, rough paw pads, skin irritations and itchy spots.
-  Updated: 2025-11-24T06:38:59Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIHTZU_CUSTOM_COMBO.jpg?v=1626860678
   Price: $29.95 USD
 - [Shiba Inu Care Combo for Your Shiba's Dry Nose and Paws & Itchy Skin](https://theblissfuldog.com/products/shiba-inu-custom-combo): The Blissful Dog - Customize your Shiba Inu Care Combo Kit for your Shiba Inu's Shiba Inu's dry nose, rough paw pads, skin irritations and itchy spots.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIBA_CUSTOM_COMBO.jpg?v=1626822994
   Price: $29.95 USD
 - [Create a West Highland White Terrier Care Kit for Your Westie](https://theblissfuldog.com/products/west-highland-white-terrier-custom-combo): The Blissful Dog | Customize a West Highland White Terrier Care Kit for your Westie's dry nose, rough paws, elbow calluses and itchy skin.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WESTIE_CUSTOM_COMBO.jpg?v=1626812830
   Price: $29.95 USD
 - [Build Whippet Care Kit for Your Dog's Dry Nose, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/whippet-custom-combo): Customize your Whippet Care Kit for your Whippet's dry nose, rough paws, itchy skin. Mix and match your choice of all natural, handcrafted balms.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WHIPPET_CUSTOM_COMBO.jpg?v=1626850206
   Price: $29.95 USD
 - [Customize Your Tibetan Mastiff Care Kit for Your Dog's Skin Care Needs](https://theblissfuldog.com/products/tibetan-mastiff-custom-combo): The Blissful Dog | Customize your Tibetan Mastiff care combo for your dog's dry noses, rough paws, elbow calluses and itchy skin irritations.
-  Updated: 2025-11-14T10:27:11Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBETAN_MASTIFF_CUSTOM_COMBO.jpg?v=1626822512
   Price: $29.95 USD
 - [Customize Your Tibetan Spaniel Care Kit for Your Dog's Skin Care Needs](https://theblissfuldog.com/products/tibetan-spaniel-custom-combo): The Blissful Dog | Customize your Tibetan Spaniel care combo kit and have everything you need for your dog's dry nose, rough paws, elbow calluses and & skin.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -11706,14 +11706,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/tibetan-spaniel-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738675229
     Price: $11.95 USD
 - [Flat-Coated Retriever Care Combo for Dry Noses, Dry Paws, Itchy Skin](https://theblissfuldog.com/products/flat-coated-retriever-custom-combo): Create a customized skin care kit with The Blissful Dog Flat-Coated Retriever Care for your dog's dry nose, rough paws, elbows and minor skin irritations.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-FLAT-COAT_CUSTOM-COMBO.jpg?v=1626802466
   Price: $29.95 USD
 - [Whippet Nose Butter® Handcrafted Balm for Your Dog's Rough, Dry Nose](https://theblissfuldog.com/products/whippet-nose-butter): Whippet Nose Butter moisturizes your dog's nose with soothing all natural butters and oils.  In tins or tubes & Unscented or Lightly Scented with Whippet label.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -11819,21 +11819,21 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ENGIE-BOOBOO-50TUBE.jpg?v=1738728340
     Price: $11.95 USD
 - [Coonhound Care Custom Combo for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/coonhound-custom-combo): The Blissful Dog Coonhound Care Kits for dry noses, rough paws, dog elbow calluses & itchy skin issues. Customize your Coonhound's kit to their specific needs.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-COONHOUND_CUSTOM_COMBO_2ea8bf58-619a-4ebb-a861-02b9fd2fc74a.jpg?v=1604094890
   Price: $29.95 USD
 - [Chesapeake Bay Retriever Care Combo for Dry Noses and Paws, Itchy Skin](https://theblissfuldog.com/products/chesapeake-bay-retriever-custom-combo): Create a customized skin care kit with The Blissful Dog Chesapeake Bay Retriever Care for your dog's dry nose, rough paws, elbows and minor skin irritations.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHESSIE_CUSTOM_COMBO.jpg?v=1626830156
   Price: $29.95 USD
 - [Customized Cute Puppies Combo For Puppy Skin Care Needs](https://theblissfuldog.com/products/3-cute-puppies-custom-combo): The Blissful Dog 3 Cute Puppies Combo For Your Dog - Build your own custom combo for puppy skin care needs. In storage metal tin with 3 Cute Puppies on cover.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -12104,140 +12104,140 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/MIN-PIN-RELAX-ROLLON.jpg?v=1597954188
     Price: $13.95 USD
 - [Customize Your Affenpinscher Tube Combo Kit For Your Dog](https://theblissfuldog.com/products/affenpinscher-tube-combo): The Blissful Dog Affenpinscher Tube Combo - Mix & Match - Nose Butter + Paw Butter + Boo Boo Butter + Elbow Butter + Bug Off Butter for your Affenpinscher.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: Tube Combo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AFFEN_15TUBE_COMBO_74c769aa-d31f-41cf-8b57-7347ab3a8545.jpg?v=1647969501
   Price: $19.95 USD
 - [Brussels Griffon Tube Combo for Your Griff's Skin Care Needs](https://theblissfuldog.com/products/brussels-griffon-tube-combo): The Blissful Dog Brussels Griffon Tube Combo for dry noses, rough paws and skin issues. Mix and match your choice of all natural balms for your dog's needs.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BRUSS_GRIFF_15TUBE_COMBO_bf4d4f38-6a85-4f24-943e-d1d06461b4f9.jpg?v=1648311989
   Price: $19.95 USD
 - [German Shepherd Skin Care Custom Tube Combo for Your Dog's Needs](https://theblissfuldog.com/products/german-shepherd-tube-combo): The Blissful Dog German Shepherd Skin Care tube combo - mix & match for your Shepherd's dry noses, rough paws, dog elbow calluses, bug bites & skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSD_15TUBE_COMBO_7bffd84a-322f-4f46-8b9e-d8e0afc26a1b.jpg?v=1648496447
   Price: $19.95 USD
 - [The Blissful Dog German Shorthaired Pointer Skin Care Combo](https://theblissfuldog.com/products/german-shorthaired-pointer-tube-combo): German Shorthaired Pointer Skin Care Combo - Mix & Match tubes of our best selling balms for your dog's dry nose, rough paws, elbow calluses and, skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSP_15TUBE_COMBO_90a4a560-953f-4eab-a53f-4bb4ae621286.jpg?v=1648498557
   Price: $19.95 USD
 - [Mastiff Skin Care Kit for Dry Noses & Paws + Elbow Calluses](https://theblissfuldog.com/products/mastiff-tube-combo): English Mastiff skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin issues. Mix and match your Mastiff's tailor-made skin care kit.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/MASTIFF15TUBE_COMBOcopy_9e9dd64f-8cde-4a75-83b6-74e093cbef67.jpg?v=1650648508
   Price: $19.95 USD
 - [Golden Retriever Skin Care Combos for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/golden-retriever-tube-combo): Golden Retriever Skin Care Kits for dry noses, rough paws, dog elbow calluses, skin issues. Mix & Match our handcrafted, all natural balms for your Golden.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GOLDEN_15TUBE_COMBO_a0d1f328-78f6-4c1c-9666-30051f67732c.jpg?v=1648499928
   Price: $19.95 USD
 - [Customized Cute Puppies Dog Skin Care Combo For Your Dog's Needs](https://theblissfuldog.com/products/3-cute-puppies-tube-combo): 3 Cute Puppies Dog Skin Care Combo For Your Dog. Mix & Match tubes of our all natural, handcrafted Nose Butter, Paw Butter, Elbow Butter and Boo Boo Butter.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/3CUTE_15TUBE_COMBO.jpg?v=1647965782
   Price: $19.95 USD
 - [The Blissful Dog Custom Combo Kits For Dog Skin Care Head to Tail](https://theblissfuldog.com/products/a-just-a-nose-tube-combo): The Blissful Dog Skin Care Kit - Nose to Toes Tube Combo - Mix and match from our best-selling handcrafted in Minnesota, all natural balms for your dog.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/EVERY-NOSE_15TUBE_COMBOcopy.jpg?v=1648307072
   Price: $19.95 USD
 - [Customize Your American Eskimo Skin Care Combo with Our Balms](https://theblissfuldog.com/products/american-eskimo-tube-combo): The Blissful Dog Customize Your American Eskimo Skin Care Combo - Mix & Match  .15 oz Tubes of  Nose Butter + Paw Butter + Boo Boo Butter + Bug Off Butter.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMESKIMO_15TUBE_COMBO_d1a3bb40-8258-4eed-8ae2-406b285c9333.jpg?v=1647972634
   Price: $19.95 USD
 - [Build Your Own Customized American Staffordshire Terrier Skin Care Kit](https://theblissfuldog.com/products/american-staffordshire-terrier-tube-combo): Create Your Own American Staffordshire Terrier Skin Care Combo. Mix & match tubes of Nose Butter, Paw Butter, Elbow Butter, Bug Off Butter or Boo Boo Butter.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMSTAFF_15TUBE_COMBO_b160ef26-b97e-4830-a7d9-1fec090c3091.jpg?v=1648231222
   Price: $19.95 USD
 - [Australian Cattle Dog Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/australian-cattle-dog-tube-combo): The Blissful Dog Australian Cattle Dog Skin Care Custom Combo - Mix and Match your choice of tubes for your dog's dry nose, rough paws, minor skin irritations.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AUSCATTLEDOG_15TUBE_COMBO.jpg?v=1648231702
   Price: $19.95 USD
 - [Basenji Skin Care Kit for Your Basenji's Unique, Individual Needs](https://theblissfuldog.com/products/basenji-tube-combo): Basenji Skin Care Kit - All natural, individually handcrafted balms for your Basenji's dry nose, rough paws, dog elbow calluses and itchy skin irritations.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BASENJI_15TUBE_COMBO.jpg?v=1648233036
   Price: $19.95 USD
 - [Basset Hound Skin Care Kit - Looking & Feeling Good](https://theblissfuldog.com/products/basset-hound-tube-combo): Basset Hound Skin Care Kit - All natural, individually hand-crafted balms for your Basset's dry nose, rough paws, dog elbow calluses & itchy skin irritations.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BASSET_15TUBE_COMBO.jpg?v=1648233395
   Price: $19.95 USD
 - [The Blissful Dog Beagle Skin Care Combo: Customize Any Way You Wish](https://theblissfuldog.com/products/beagle-tube-combo): Beagle Skin Care Combo for your Beagle's dry noses, rough paws, elbow calluses, skin issues. Individually handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BEAGLE_15TUBE_COMBO.jpg?v=1648233743
   Price: $19.95 USD
 - [Belgian Malinois Skin Care Kit for Healthy Dog Noses, Paws, Elbows+](https://theblissfuldog.com/products/belgian-malinois-tube-combo): Customize Your Belgian Malinois Skin Care kits - Individually handcrafted, all natural balms for dry dog noses, rough paws, dog elbow calluses and skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BELGIAN_TUBE_COMBO.jpg?v=1648234461
   Price: $19.95 USD
 - [Bernese Mountain Dog Skin Care for Rough Paws, Dry Noses & Itchy Skin](https://theblissfuldog.com/products/bernese-mountain-dog-tube-combo): The Blissful Dog Bernese Mountain Dog Skin Care Combo kits for dry noses, rough paws, dog elbow calluses, and itchy skin issues. Choose four .15 oz tubes.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BERNER_TUBE_COMBO.jpg?v=1648234968
   Price: $19.95 USD
 - [The Blissful Dog Bichon Frise Skin Care for Dry Noses, Rough Paws +](https://theblissfuldog.com/products/bichon-frise-tube-combo): The Blissful Dog Bichon Frise Skin Care Customized Combo handcrafted balms for your Bichon's dry nose, rough paws, minor skin irritations and grooming mishaps.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BICHON_TUBE_COMBO.jpg?v=1651614981
   Price: $19.95 USD
 - [Bloodhound Combo For Bloodhound Skin Care Head to Tail](https://theblissfuldog.com/products/bloodhound-tube-combo): The Blissful Dog Bloodhound Skin Care Tube Combo - Mix & Match any 4 lip balm sized (.15 oz) tubes of Nose, Elbow, Paw, Boo Boo or Bug Off Butter for your dog.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BLOODHOUND_TUBE_COMBO.jpg?v=1648244429
   Price: $19.95 USD
 - [Customize Your Border Collie Skin Care - Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/border-collie-tube-combo): The Blissful Dog Border Collie Skin Care Combo for dry noses, rough paws, dog bug bites and itchy skin issues. Handcrafted balms in convenient .15 oz sizes.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BORDER_COLLIE_15TUBE_COMBO.jpg?v=1648247188
   Price: $19.95 USD
 - [Boston Terrier Skin Care Kit Keeps Your Boston Looking & Feeling Great](https://theblissfuldog.com/products/boston-terrier-tube-combo): The Blissful Dog Boston Terrier Skin Care Combo Kit for dry noses, rough paws, bothersome bug bites and itchy skin issues. Handcrafted all natural balms.
-  Updated: 2025-12-04T12:36:46Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: TUBE COMBO
   Availability: Available
@@ -12251,14 +12251,14 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BOXER_15TUBE_COMBOcopy.jpg?v=1648248281
   Price: $19.95 USD
 - [Brittany Spaniel Skin Care Combo for Smooth Noses, Happy Paws & Itches](https://theblissfuldog.com/products/brittany-tube-combo): Brittany Spaniel Skin Care Combo all natural, handcrafted balms for dry noses, rough paws, bug bites and itchy skin issues. In .15 oz travel sized tubes.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BRITTANY_15TUBE_COMBO_cd22c11b-d3c7-49e4-967d-9213f6166efb.jpg?v=1648305268
   Price: $19.95 USD
 - [Bull Terrier Skin Care Combo For Dry Noses, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/bull-terrier-tube-combo): Bull Terrier Skin Care Combo for Your Bull Terrier's Unique Needs - Choose 4 .15 oz tubes for dry noses, rough paws, bug bites, skin issues & elbow calluses.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -12272,7 +12272,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BULLDOG_15TUBE_COMBO.jpg?v=1648324102
   Price: $19.95 USD
 - [The Blissful Dog Bullmastiff Skin Care Combo for Dry Noses, Paws +](https://theblissfuldog.com/products/bullmastiff-tube-combo): The Blissful Dog Bullmastiff Skin Care Customized Combo for your Bullmastiff's dry nose, rough paws, elbow calluses, itchy bug bites and minor skin irritations.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -12491,7 +12491,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/KUVASZ_RELAX_SPRAY_2500.jpg?v=1623446207
     Price: $13.95 USD
 - [The Blissful Dog Kuvasz NOSE BUTTER® Moisturizes Dry Kuvasz Noses](https://theblissfuldog.com/products/kuvasz): Does your Kuvasz dog have a dry nose? Kuvasz NOSE BUTTER® moisturizes all ranges of dry noses from just a bit dry to extreme nasal hyperkeratosis. Naturally!
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -12563,7 +12563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/KUVASZ-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738724088
     Price: $11.95 USD
 - [The Blissful Dog Nose Butter® Moisturizes Dry Anatolian Shepherd Nose](https://theblissfuldog.com/products/anatolian-shepherd-nose-butter): Does your Anatolian Shepherd have a dry dog nose? Anatolian Shepherd NOSE BUTTER® moisturizes dry dog noses from just a bit dry to extreme nasal hyperkeratosis.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -12653,210 +12653,210 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ANATOLIAN-BOOBOO-50TUBE.jpg?v=1738690113
     Price: $11.95 USD
 - [Customize Your Anatolian Shepherd Care Combo for Healthy Skin Needs](https://theblissfuldog.com/products/anatolian-custom-combo): The Blissful Dog Anatolian Shepherd Care Kits Customized for your Anatolian's dry noses, rough paws, dog elbow calluses, skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ANATOLIAN-_CUSTOM_COMBO.jpg?v=1626859675
   Price: $29.95 USD
 - [Customize Your Kuvasz Care Combo for Healthy Skin Needs](https://theblissfuldog.com/products/kuvasz-custom-combo): The Blissful Dog Kuvasz Care Kits- Mix & match from our handcrafted butters for your Anatolian's dry noses, rough paws, dog elbow calluses, skin issues.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/KUVASZ-_CUSTOM_COMBO.jpg?v=1626829714
   Price: $29.95 USD
 - [The Blissful Dog Cane Corso Skin Care Tube Combo for Dry Noses, Paws +](https://theblissfuldog.com/products/cane-corso-tube-combo): Cane Corso Skin Care Customized Cane Corso Combo for your Cane Corso's dry nose, rough paws, elbow calluses, itchy bug bites and minor skin irritations.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CANE_CORSO_15TUBE_COMBO_4c920322-c42a-4bf4-94fe-5a7a3a33bf9d.jpg?v=1648327222
   Price: $19.95 USD
 - [Cavalier King Charles Spaniel Skin Care Combo for Dry Noses, Paws +](https://theblissfuldog.com/products/cavalier-king-charles-spaniel-tube-combo): The Blissful Dog Cavalier King Charles Spaniel Skin Care Customized Combo for your Cavalier's dry nose, rough paws, itchy bug bites and minor skin irritations.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CAV_15TUBE_COMBO_80b8e580-24fc-4a0c-996c-e91be399fdcd.jpg?v=1648328303
   Price: $19.95 USD
 - [Chesapeake Bay Retriever Skin Care Combo for Dry Noses, Paws +](https://theblissfuldog.com/products/chesapeake-bay-retriever-tube-combo): The Blissful Dog Chesapeake Bay Retriever Skin Care Customized Combo for your Cavalier's dry nose, rough paws, itchy bug bites and minor skin irritations.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHESSIE_15TUBE_COMBO.jpg?v=1648328542
   Price: $19.95 USD
 - [Chinese Crested Skin Care Combo for Dry Noses, Paws +](https://theblissfuldog.com/products/chinese-crested-tube-combo): The Blissful Dog Chinese Crested Skin Care Customized Combo for your Cavalier's dry nose, rough paws, itchy bug bites and minor skin irritations.
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-12-22T22:04:31Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CRESTED_15TUBE_COMBO_a1f771ca-2cc5-426b-ac4a-ba46267885c9.jpg?v=1648332622
   Price: $19.95 USD
 - [Chinese Shar-Pei Tube Combo for Rough Noses & Paws + Itchy Skin](https://theblissfuldog.com/products/chinese-shar-pei-tube-combo): The Blissful Dog Build Your Own Chinese Shar-Pei Custom Tube Combo. Our balms soothe Chinese Shar-Pei rough, dry noses, dry paws or itchy skin problems.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CSP_15TUBE_COMBO_909d9ad4-78cd-4177-80ba-0e6c8e9a8894.jpg?v=1648333954
   Price: $19.95 USD
 - [Chow Tube Combo for Rough Noses & Paws + Itchy Skin Irritations](https://theblissfuldog.com/products/chow-tube-combo): The Blissful Dog Build Your Own Chow Custom Tube Combo. Our all natural balms soothe Chow rough, dry noses, dry paws or itchy skin problems.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHOW_15TUBE_COMBO_e0479917-27c1-44cb-83d8-c8e8b69e3d68.jpg?v=1648335628
   Price: $19.95 USD
 - [The Blissful Dog Cocker Spaniel Skin Care Combo for Dry Noses, Paws +](https://theblissfuldog.com/products/cocker-spaniel-tube-combo): The Blissful Dog Cocker Spaniel Skin Care Customized Combo for your Cocker's dry nose, rough paws, itchy bug bites and minor skin irritations.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COCKER_15TUBE_COMBO_c479476c-b41f-4e3c-a68f-d0d2382464a4.jpg?v=1648337435
   Price: $19.95 USD
 - [Collie Tube Combo for Rough Noses & Paws + Itchy Skin Irritations](https://theblissfuldog.com/products/collie-tube-combo): The Blissful Dog Build Your Own Collie Custom Tube Combo. Our all natural balms soothe Collie rough, dry noses, dry paws or itchy skin problems.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COLLIE_15TUBE_COMBO_abec1acb-4a96-4b83-bfc5-5d3c2a46f43d.jpg?v=1648389863
   Price: $19.95 USD
 - [Coonhound Tube Combo for Rough Noses & Paws + Itchy Skin Irritations](https://theblissfuldog.com/products/coonhound-tube-combo): The Blissful Dog Build Your Own Coonhound Custom Tube Combo. Our all natural balms soothe Coonhound rough, dry noses, dry paws or itchy skin problems.
-  Updated: 2025-12-13T07:47:00Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COONHOUND_15TUBE_COMBO_44191a45-dd68-485f-a6e3-b9a2245b2072.jpg?v=1648390942
   Price: $19.95 USD
 - [Corgi Skin Care Tube Combo for Rough Noses & Paws + Itchy Skin](https://theblissfuldog.com/products/corgi-tube-combo): The Blissful Dog Build Your Own Corgi Skin Care Custom Tube Combo. Our all natural balms soothe Corgi rough, dry noses, dry paws or itchy skin problems.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CORGI15TUBE_COMBO_ae423f02-d1cd-40ed-87b6-b93565bb1e32.jpg?v=1648392622
   Price: $19.95 USD
 - [Coton de Tulear Skin Care Combo for Rough Noses & Paws + Itchy Skin](https://theblissfuldog.com/products/coton-de-tulear-tube-combo): The Blissful Dog Build Your Own Coton de Tulear Skin Care Custom Combo. Our all natural balms soothe Coton de Tulear rough, dry noses, dry paws or itchy skin.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog
   Product Type: Dog Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COTON_15TUBE_COMBO_ecf4a230-612d-4a3d-903d-22e39802da8c.jpg?v=1648396474
   Price: $19.95 USD
 - [Curly-Coated Retriever Skin Care Combo for Noses & Paws + Itchy Skin](https://theblissfuldog.com/products/curly-coated-retriever-tube-combo): The Blissful Dog Build Your Own Curly-Coated Retriever Skin Care Custom Combo. Our all natural balms soothe Curly Coat rough, dry noses, dry paws or itchy skin.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CURLY-COAT_15TUBE_COMBO_cb570e0e-25a3-402a-9eea-fa4dc8a6c2a5.jpg?v=1648430908
   Price: $19.95 USD
 - [Dachshund Skin Care Combo for Dry Noses, Rough Paws + Itchy Skin](https://theblissfuldog.com/products/dachshund-tube-combo): The Blissful Dog Build Your Own Dachshund Skin Care Custom Combo. Our all natural balms soothe Dachshund rough, dry noses, dry paws or itchy skin.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DACHSHUND_15TUBE_COMBO_d7143706-584f-428c-99b0-b2533f52e31a.jpg?v=1648431630
   Price: $19.95 USD
 - [Dalmatian Skin Care Combo for Dry Noses, Rough Paws + Itchy Skin](https://theblissfuldog.com/products/dalmatian-tube-combo): The Blissful Dog Build Your Own Dalmatian Skin Care Custom Combo. Our all natural balms soothe Dalmatian rough, dry noses, dry paws or itchy skin.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DAL_15TUBE_COMBO_1da4f026-43b9-4d47-9de3-93cad5e9b792.jpg?v=1648476269
   Price: $19.95 USD
 - [Dogo Argentino Skin Care Combo for Dry Noses, Rough Paws + Itchy Skin](https://theblissfuldog.com/products/dogo-argentino-tube-combo): The Blissful Dog Build Your Own Dogo Argentino Skin Care Custom Combo. Our all natural balms soothe Dogo rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOGO_15TUBE_COMBO_48ca146a-309c-4f95-be5f-c325f030aa7c.jpg?v=1648480950
   Price: $19.95 USD
 - [Doberman Pinscher Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/doberman-pinscher-tube-combo): The Blissful Dog Build Your Own Doberman Pinscher Skin Care Custom Combo. Our all natural balms soothe Dogo rough, dry noses, dry paws or itchy skin...naturally
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOBIE_15TUBE_COMBO_9bc27eb3-fe59-479d-a717-4e996be47651.jpg?v=1648479502
   Price: $19.95 USD
 - [Dogue de Bordeaux Skin Care for Dry Noses, Rough Paws + Itchy Skin](https://theblissfuldog.com/products/dogue-de-bordeaux-tube-combo): The Blissful Dog Build Your Own Dogue de Bordeaux Skin Care Custom Combo. Our all natural balms soothe rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DDB_15TUBE_COMBO_a275b95e-d4b5-4881-8b2a-bfff3860268c.jpg?v=1648482382
   Price: $19.95 USD
 - [English Cocker Spaniel Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/english-cocker-spaniel-tube-combo): The Blissful Dog Build Your OwnEnglish Cocker Spaniel Skin Care Combo. Our all natural balms soothe Engie rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-11-18T00:52:44Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ENG_COCKER_15TUBE_COMBO_de675812-d95b-497d-af98-d171c1d65750.jpg?v=1648483714
   Price: $19.50 USD
 - [English Toy Spaniel Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/english-toy-spaniel-tube-combo): The Blissful Dog Build Your Own English Toy Spaniel Skin Care Combo. Our all natural balms soothe ETS rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ENG_TOY_15TUBE_COMBO_c645383a-5ccd-4bb9-9dbb-5ac7ad94a01d.jpg?v=1648484915
   Price: $19.50 USD
 - [Fila Brasileiro Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/fila-brasileiro-tube-combo): The Blissful Dog Build Your Own Fila Brasileiro Skin Care Combo. Our all natural balms soothe ETS rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-11-13T05:39:21Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FILA_15TUBE_COMBO_0e893eb6-1eb0-4eac-9da4-1cbf4c1e7a8e.jpg?v=1648485510
   Price: $19.95 USD
 - [Flat-Coated Retriever Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/flat-coated-retriever-tube-combo): The Blissful Dog Build Your Own Flat-Coated Retriever Skin Care Combo. Our all natural balms soothe ETS rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FLAT-COAT_15TUBE_COMBO_74e791a2-e860-46c5-baad-aa067ff0406f.jpg?v=1648486945
   Price: $19.95 USD
 - [Goldendoodle Skin Care Combos for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/goldendoodle-tube-combo): Goldendoodle Skin Care Kits for dry noses, rough paws, dog elbow calluses, skin issues. Mix & Match our handcrafted, all natural balms for your Golden-doodle.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GOLDENDOODLE_15TUBE_COMBO_efb37be1-5b46-4130-82e6-e50afc9f6974.jpg?v=1648500751
   Price: $19.95 USD
 - [Great Dane Skin Care Combos for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/great-dane-tube-combo): Great Dane Skin Care Kits for dry noses, rough paws, dog elbow calluses, and itchy skin issues. Mix & Match our handcrafted, all natural balms for your Dane.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GREAT_DANE_15TUBE_COMBO_589fbb1d-6675-4087-a8c8-bacc8287d20e.jpg?v=1648560384
   Price: $19.95 USD
 - [Great Pyrenees Skin Care Combos for Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/great-pyrenees-tube-combo): Great Pyrenees Skin Care Kits for dry noses, rough paws, dog elbow calluses, and itchy skin issues. Mix & Match our handcrafted, all natural balms for your Pyr.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GREAT_PYR_15TUBE_COMBO_12ac4df7-84c8-408b-8edf-adf24f1657ef.jpg?v=1648501942
   Price: $19.95 USD
 - [Greater Swiss Mountain Dog Skin Care Combo for Noses, Paws, Itchy Skin](https://theblissfuldog.com/products/greater-swiss-mountain-dog-tube-combo): Greater Swiss Mountain Dog Skin Care Kits for dry noses, rough paws, dog elbow calluses, and itchy skin. Mix & Match our all natural balms for your Swissie.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSMD_15TUBE_COMBOcopy_6abec734-df81-4632-808f-898fcaa48bda.jpg?v=1648502794
   Price: $19.95 USD
 - [The Blissful Dog Greyhound Tube Combo For Greyhound Skin Care](https://theblissfuldog.com/products/greyhound-tube-combo): The Blissful Dog Greyhound Skin Care Tube Combo - All natural balms for your Greyhound's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GREYHOUND_TUBE_COMBO_1080_85b48075-b03d-49a9-8d91-94dd70c0aea0.jpg?v=1648507702
   Price: $19.95 USD
 - [The Blissful Dog Havanese Tube Combo All Natural Havanese Skin Care](https://theblissfuldog.com/products/havanese-tube-combo): The Blissful Dog Havanese Skin Care Tube Combo - All natural balms for your Havanese dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/HAVANESE_15TUBE_COMBOcopy_7ad315c9-c18f-4d9c-925f-1a78561ccd03.jpg?v=1648562189
   Price: $19.95 USD
 - [The Blissful Dog Kuvasz Tube Combo All Natural Kuvasz Skin Care](https://theblissfuldog.com/products/kuvasz-tube-combo): The Blissful Dog Kuvasz Skin Care Tube Combo - All natural balms for your Kuvasz dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -12870,84 +12870,84 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FBD_15TUBE_COMBO_4e31d315-d489-480d-a63d-63c9578b8a20.jpg?v=1648494989
   Price: $19.95 USD
 - [The Blissful Dog Husky Skin Care Combo: Customize Any Way You Wish](https://theblissfuldog.com/products/husky-tube-combo): Husky Skin Care Combo for your Husky's dry noses, rough paws, elbow calluses, skin issues. Individually handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SIBE_HUSKY_COMBO_2022.jpg?v=1651089623
   Price: $19.95 USD
 - [The Blissful Dog Italian Greyhound Skin Care Kit Customize for Your IG](https://theblissfuldog.com/products/italian-greyhound-tube-combo): Italian Greyhound Skin Care Combo for your dog's dry noses, rough paws, elbow calluses, skin issues. Handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ITALIAN_GREY_15TUBE_COMBOcopy_a8c4a171-4a8f-4325-a551-741b049ae795.jpg?v=1649458582
   Price: $19.95 USD
 - [The Blissful Dog Japanese Chin Skin Care Kit Customize for Your Dog](https://theblissfuldog.com/products/japanese-chin-tube-combo): Japanese Chin Skin Care Combo for your Japanese Chin dog's dry nose, rough paws, elbow calluses, skin issues. Handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/JAP_CHIN_15TUBE_COMBO_b295df7a-be81-45bb-a5b7-9dfb32c9a403.jpg?v=1649460024
   Price: $19.95 USD
 - [The Blissful Dog Tube Combo All Natural Labradoodle Skin Care](https://theblissfuldog.com/products/labradoodle-tube-combo): The Blissful Dog Labradoodle Skin Care Tube Combo - All natural balms for your Labradoodle's dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-12-20T09:00:20Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LABRADOODLE_15TUBE_COMBO-copy_b535236e-98a3-459a-b0c6-5fd0e1ea91a5.jpg?v=1650052462
   Price: $19.95 USD
 - [The Blissful Dog Tube Combo All Natural Labrador Retriever Skin Care](https://theblissfuldog.com/products/labrador-retriever-tube-combo): The Blissful Dog Labrador Retriever Skin Care Tube Combo - All natural balms for your Lab's dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LAB_15TUBE_COMBO_f4e41a34-9758-428a-a76c-68288e20f514.jpg?v=1650418709
   Price: $19.95 USD
 - [The Blissful Dog Tube Combo All Natural Leonberger Skin Care](https://theblissfuldog.com/products/leonberger-tube-combo): The Blissful Dog Leonberger Skin Care Tube Combo - All natural balms for your Leo's dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LEO_5TUBE_COMBO_3bb013e3-d08e-4fc8-a08e-f735a7222fb0.jpg?v=1650291744
   Price: $19.95 USD
 - [The Blissful Dog Tube Combo All Natural Lhasa Apso Skin Care](https://theblissfuldog.com/products/lhasa-apso-tube-combo): The Blissful Dog Lhasa Apso Skin Care Tube Combo - All natural balms for your Lhasa's dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-11-15T05:59:12Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LHASA_5TUBE_COMBO_e68ac023-e444-49dd-a63e-2d70f6ee2845.jpg?v=1650643474
   Price: $19.95 USD
 - [The Blissful Dog Tube Combo All Natural Malamute Skin Care](https://theblissfuldog.com/products/malamute-tube-combo): The Blissful Dog Malamute Skin Care Tube Combo - All natural balms for your Lhasa's dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-11-17T23:24:41Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: Tube Combo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ALASK_MAL_15TUBE_COMBO.jpg?v=1647970235
   Price: $19.95 USD
 - [The Blissful Dog Tube Combo All Natural Maltese Skin Care](https://theblissfuldog.com/products/maltese-tube-combo): The Blissful Dog Maltese Skin Care Tube Combo - All natural balms for your Lhasa's dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/MALTESE_5TUBE_COMBO_ef79ff63-faca-4d33-b0df-50599c329a77.jpg?v=1650647795
   Price: $19.95 USD
 - [Neapolitan Mastiff Skin Care Kit for Dry Noses & Paws + Elbow Calluses](https://theblissfuldog.com/products/neapolitan-mastiff-tube-combo): Neapolitan Mastiff skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin issues. Mix and match your Mastiff's tailor-made skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NEO_5TUBE_COMBO.jpg?v=1651437622
   Price: $19.95 USD
 - [Olde English Bulldoggee Skin Care for Dry Noses, Paws & Elbow Calluses](https://theblissfuldog.com/products/olde-english-bulldoggee-tube-combo): Olde English Bulldoggee skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin issues. Mix and match your dog's tailor-made skin care kit
-  Updated: 2025-11-05T00:41:40Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: TUBE COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/OLDE_5TUBE_COMBO.jpg?v=1651437982
   Price: $19.95 USD
 - [Newfoundland Dog Skin Care Kit for Dry Noses & Paws + Elbow Calluses](https://theblissfuldog.com/products/newfoundland-tube-combo): Newfoundland dog skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin issues. Mix and match your Newfie's tailor-made skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -12965,175 +12965,175 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NEWFIE_LANDSEER_15TUBE_COMBO.jpg?v=1651163428
     Price: $19.95 USD
 - [Nova Scotia Duck Tolling Retriever Skin Care for Dry Noses & Paws +](https://theblissfuldog.com/products/nova-scotia-duck-tolling-retriever-tube-combo): Nova Scotia Duck Tolling Retriever skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your Toller's skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: TUBE COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NOVA_5TUBE_COMBO.jpg?v=1651163915
   Price: $19.95 USD
 - [The Blissful Dog Papillon Skin Care for Dry Noses, Paws & Itchy Spots](https://theblissfuldog.com/products/papillon-tube-combo): Papillon skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Pap's tailor-made skin care kit.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PAP_5TUBE_COMBO.jpg?v=1651164515
   Price: $19.95 USD
 - [The Blissful Dog Pekingese Skin Care for Dry Noses, Paws & Itchy Spots](https://theblissfuldog.com/products/pekingese-tube-combo): Pekingese skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Peke's tailor-made skin care kit.
-  Updated: 2025-11-04T05:46:03Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PEKE_5TUBE_COMBOcopy_8bad81fc-2e60-4210-b527-562f1b29575b.jpg?v=1651438954
   Price: $19.95 USD
 - [The Blissful Dog Pomeranian Skin Care for Dry Noses, Paws & Itchiness](https://theblissfuldog.com/products/pomeranian-tube-combo): Pomeranian skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Pom's tailor-made skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/POM_5TUBE_COMBO.jpg?v=1651170502
   Price: $19.95 USD
 - [The Blissful Dog Poodle Skin Care for Dry Noses, Paws & Itchiness](https://theblissfuldog.com/products/poodle-tube-combo): Poodle skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your dog's tailor-made skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: TUBE COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NPOODLE_5TUBE_COMBO.jpg?v=1651169674
   Price: $19.95 USD
 - [The Blissful Dog Portuguese Water Dog Skin Care for Dry Noses, Paws+](https://theblissfuldog.com/products/portuguese-water-dog-tube-combo): Portuguese Water Dog skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your PWD's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PWD_5TUBE_COMBO.jpg?v=1651169199
   Price: $19.95 USD
 - [The Blissful Dog Puggle Skin Care for Dry Noses & Paws & Itchy Skin](https://theblissfuldog.com/products/puggle-tube-combo): Puggle skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Puggle's skin care kit.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PUGGLE_5TUBE_COMBO_9d1b8e93-d24a-4d3c-a9c4-baed0e398934.jpg?v=1651166314
   Price: $19.95 USD
 - [The Blissful Dog Rhodesian Ridgeback Skin Care Combo for Your Dog](https://theblissfuldog.com/products/rhodesian-ridgeback-tube-combo): Rhodesian Ridgeback skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Ridgie's skin care kit.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/RR_COMBO_2022.jpg?v=1651165595
   Price: $19.95 USD
 - [The Blissful Dog Rottweiler Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/rottweiler-tube-combo): Rottweiler skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Rottie's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ROTTIE_COMBO_2022.jpg?v=1651162834
   Price: $19.95 USD
 - [The Blissful Dog Schnauzer Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/schnauzer-tube-combo): Schnauzer skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your dog's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCHNAUZER_COMBO_2022.jpg?v=1651096350
   Price: $19.95 USD
 - [The Blissful Dog Samoyed Skin Care Combo for Your Dog's Nose, Paws +](https://theblissfuldog.com/products/samoyed-tube-combo): Samoyed skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of all natural butters for your Sammie's skin care kit.
-  Updated: 2025-12-16T04:24:29Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SAMMIE_COMBO_2022.jpg?v=1651097063
   Price: $19.95 USD
 - [The Blissful Dog Saint Bernard Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/saint-bernard-tube-combo): Saint Bernard skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your dog's skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SAINT_COMBO_2022.jpg?v=1651157449
   Price: $19.95 USD
 - [The Blissful Dog Shetland Sheepdog Skin Care Combo for Your Dog's Nose](https://theblissfuldog.com/products/shetland-sheepdog-tube-combo): Shetland Sheepdog skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your dog's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHELTIE_COMBO_2022.jpg?v=1651095035
   Price: $19.95 USD
 - [The Blissful Dog Shiba Inu Skin Care Combo for Your Dog's Nose, Paws+](https://theblissfuldog.com/products/shiba-inu-tube-combo): Shiba Inu skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Shiba's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIBA_COMBO_2022.jpg?v=1651091435
   Price: $19.95 USD
 - [The Blissful Dog Shih Tzu Skin Care Combo for Your Dog's Nose, Paws+](https://theblissfuldog.com/products/shih-tzu-tube-combo): Shih Tzu skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Shih Tzu's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIHTZU_COMBO_2022.jpg?v=1651090230
   Price: $19.95 USD
 - [The Blissful Dog Springer Spaniel Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/springer-spaniel-tube-combo): Springer Spaniel skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Springer's skin care kit.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SPRINGER_COMBO_2022.jpg?v=1651086634
   Price: $19.95 USD
 - [The Blissful Dog Staffordshire Bull Terrier Skin Care for Your Dog](https://theblissfuldog.com/products/staffordshire-bull-terrier-tube-combo): Staffordshire Bull Terrier skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match our butters for your Staffy Bull's skin care kit.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/STAFFY_BULL_COMBO_2022.jpg?v=1651086035
   Price: $19.95 USD
 - [The Blissful Dog Tibetan Mastiff Skin Care for Your Dog's Nose, Paws+](https://theblissfuldog.com/products/tibetan-mastiff-tube-combo): Tibetan Mastiff skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin. Mix and match our butters for your big dog's exact needs.
-  Updated: 2025-12-18T01:51:11Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBET_MASTIFF_COMBO_2022.jpg?v=1651082543
   Price: $19.95 USD
 - [The Blissful Dog Tibetan Spaniel Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/tibetan-spaniel-tube-combo): Tibetan Spaniel skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Tibbie's skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBET_SPANIEL_COMBO_2022.jpg?v=1651081822
   Price: $19.95 USD
 - [The Blissful Dog Weimaraner Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/weimaraner-tube-combo): Weimaraner skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Weimaraner's skin care kit.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WEIM_COMBO_2022.jpg?v=1651075228
   Price: $19.95 USD
 - [The Blissful Dog West Highland White Terrier Skin Care Combo](https://theblissfuldog.com/products/west-highland-white-terrier-tube-combo): The Blissful Dog Skin Care Combo provides your West Highland White Terrier skin care relief for dry noses, rough paws, bug bites and itchy skin issues.
-  Updated: 2025-10-31T10:45:54Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WESTIE_COMBO_2022.jpg?v=1651074756
   Price: $19.95 USD
 - [The Blissful Dog Whippet Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/whippet-tube-combo): Whippet skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Whippet's skin care kit.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WHIPPET_COMBO_2022.jpg?v=1651074030
   Price: $19.95 USD
 - [The Blissful Dog Xoloitzcuintli Skin Care for Your Dog's Unique Needs](https://theblissfuldog.com/products/xoloitzcuintli-tube-combo): The Blissful Dog Xoloitzcuintli Skin Care Combo offers mix & match butters to see just what works best for your Xolo's unique skin care needs.
-  Updated: 2025-11-01T11:48:34Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/XOLO_COMBO_2022.jpg?v=1651073302
   Price: $19.95 USD
 - [The Blissful Dog Yorkshire Terrier Skin Care Combo for Your Dog's Need](https://theblissfuldog.com/products/yorkshire-terrier-tube-combo): Yorkshire Terrier skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Yorkie's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/YORKIE_COMBO_2022.jpg?v=1650823235
   Price: $19.95 USD
 - [Tibetan Terrier Nose Butter® For Rough, Dry, Uncomfortable Dog Noses](https://theblissfuldog.com/products/tibetan-terrier-nose-butter): The Blissful Dog Tibetan Terrier Nose Butter® for your dog's rough, dry dog nose. Available in Unscented and Scented, in tins and tubes with TT on labels.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13223,14 +13223,14 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/tibetan-terrier-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738674749
     Price: $11.95 USD
 - [Xoloitzcuintlui Care for Your Dog's Dry Nose, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/xoloitzcuintli-dog-custom-combo): Customize your Xoloitzcuintlui Care Kit for your Xolo's dry nose, rough paws, itchy skin. Mix and match your choice of all natural, handcrafted balms.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/XOLO_CUSTOM_COMBO_lo.jpg?v=1626815628
   Price: $29.95 USD
 - [The Blissful Dog Nose Butter for Akita Dry Nose Conditions](https://theblissfuldog.com/products/akita-dog-nose-butter): Nose Butter was made for Akita dry nose issues. All natural Nose Butter soothes your Akita's nose in just a few applications & maintenance usage keeps it soft.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13272,7 +13272,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AKITA-225-TUBE-2ND-1250.jpg?v=1738733718
     Price: $18.95 USD
 - [Bearded Collie Nose Butter Soothes Your Beardie's Dry Nose...Naturally](https://theblissfuldog.com/products/bearded-collie-nose-butter): The Blissful Dog Bearded Collie Nose Butter uses all natural ingredients for its handcrafted Beardie Nose Butter. For all ranges of dog nose dryness.
-  Updated: 2025-11-29T01:25:48Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13310,7 +13310,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BEARDIE_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631574693
     Price: $10.95 USD
 - [Does Your Soft Coated Wheaten Terrier Have a Dry Nose? Try Nose Butter](https://theblissfuldog.com/products/soft-coated-wheaten-terrier-nose-butter): If your Soft Coated Wheaten Terrier has dry nose problems, try Nose Butter to soothe that dry, crusty nose. Nose Butter is all natural, handcrafted in MN.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13400,7 +13400,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCWT_RELAX_SPRAY_2500.jpg?v=1623594969
     Price: $13.95 USD
 - [The Blissful Dog Nose Butter for Clumber Spaniel Dry Nose Conditions](https://theblissfuldog.com/products/clumber-spaniel-nose-butter): Nose Butter - made for Clumber Spaniel dry nose issues. All natural Nose Butter soothes your Clumber's nose in a few applications & regular usage keeps it soft.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13438,7 +13438,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CLUMBER_50TUBE_NOSE__WHITE_COCONUT_OPEN_VER2.jpg?v=1631657132
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter for Gordon Setter Dry Nose Conditions](https://theblissfuldog.com/products/gordon-setter-nose-butter): Nose Butter - made for Gordon Setter dry nose issues. All natural Nose Butter soothes your Gordon's nose in a few applications & regular usage keeps it soft.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13476,7 +13476,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GORDON_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631813742
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter Soothes Irish Setter Dry Nose Conditions](https://theblissfuldog.com/products/irish-setter-nose-butter): Nose Butter - made for Irish Setter dry nose issues. All natural Nose Butter soothes your dog's nose in a few applications & regular usage keeps it soft.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13514,7 +13514,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IRISH_SETTER_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631830466
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter for Irish Wolfhound Dry Nose Conditions](https://theblissfuldog.com/products/irish-wolfhound-nose-butter): Nose Butter moisturizes Irish Wolfhound dry nose issues. All natural Nose Butter soothes your dog's nose in a few applications & regular usage keeps it soft.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13552,7 +13552,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IRISH_WOLF_NOSE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631899207
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter for Scottish Terrier Dry Nose Conditions](https://theblissfuldog.com/products/scottish-terrier-nose-butter): Nose Butter - made for Scottish Terrier dry nose issues. All natural Nose Butter soothes your dog's nose in a few applications & regular usage keeps it soft.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13590,7 +13590,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCOTTIE_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632064419
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter for Icelandic Sheepdog nose Dry Noses](https://theblissfuldog.com/products/icelandic-sheepdog-nose-butter): Icelandic Sheepdog Nose Butter moisturizes their dry nose. All natural Nose Butter soothes your Icie's nose in a few applications & regular usage keeps it soft.
-  Updated: 2025-12-20T06:54:41Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -13628,7 +13628,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ICIE_NOSE_COCONUT_OIL_TIN1copy.jpg?v=1631898233
     Price: $10.95 USD
 - [The Blissful Dog Nose Butter for Petit Basset Griffon Vendéen Dry Nose](https://theblissfuldog.com/products/petit-basset-griffon-vendeen-nose-butter): Nose Butter - made for Petit Basset Griffon Vendéen dry nose issues. All natural Nose Butter soothes your PBGV's nose in a few applications .
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -14396,7 +14396,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BUG_OFF_GALLONS_ALL.jpg?v=1687019718
     Price: $72.95 USD
 - [The Blissful Dog Icelandic Sheepdog Care Combo for Happy Healthy Icies](https://theblissfuldog.com/products/icelandic-sheepdog-custom-combo): The Blissful Dog Customized Icelandic Sheepdog Care Combo for dry noses, rough paws & minor skin issues. Customize to suit your Icelandic Sheepdog's exact needs
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -14410,21 +14410,21 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ICIE_15TUBE_COMBOcopy_0e8d6d72-c3f6-40ac-9dff-532cb9a348ce.jpg?v=1648564115
   Price: $19.95 USD
 - [The Blissful Dog Irish Setter Skin Care Kit Customizable](https://theblissfuldog.com/products/irish-setter-tube-combo): Irish Setter Skin Care Combo for your dog's dry noses, rough paws, elbow calluses, skin issues. Handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IRISH_SETTER_15TUBE_COMBOcopy_b4c31886-525c-4e41-9ece-c2e43358b11e.jpg?v=1648565794
   Price: $19.95 USD
 - [The Blissful Dog Irish Setter Care Combo for Happy Healthy Dogs](https://theblissfuldog.com/products/irish-setter-custom-combo): The Blissful Dog Customized Irish Setter Care Combo for dry noses, rough paws & minor skin issues. Customize to suit your Irish Setter's exact needs.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IRISH_SETTER_CUSTOM_COMBO.jpg?v=1597954332
   Price: $29.95 USD
 - [The Blissful Dog Irish Wolfhound Skin Care Kit Customizable](https://theblissfuldog.com/products/irish-wolfhound-tube-combo): Irish Wolfhound Skin Care Combo for your dog's dry noses, rough paws, elbow calluses, skin issues. Handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -14438,28 +14438,28 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IRISH_WOLFHOUND_CUSTOM_COMBO.jpg?v=1597954333
   Price: $29.95 USD
 - [The Blissful Dog Parson Russell Terrier Skin Care | Noses, Paws & Skin](https://theblissfuldog.com/products/parson-russell-terrier-tube-combo): Parson Russell Terrier skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your dog's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: TUBE COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PRT_5TUBE_COMBO.jpg?v=1650645622
   Price: $19.95 USD
 - [The Blissful Dog Vizsla Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/vizsla-tube-combo): Vizsla skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your Vizsla's skin care kit.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/VIZSLA_15TUBE_COMBO-copy.jpg?v=1651080983
   Price: $19.95 USD
 - [The Blissful Dog Soft Coated Wheaten Terrier Skin Care All Natural](https://theblissfuldog.com/products/soft-coated-wheaten-tube-combo): Soft Coated Wheaten Terrier skin care for dry noses, rough paws, bug bites & itchy skin issues. Mix & match your choice of butters for your dog's skin care kit.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCWT_COMBO_2022.jpg?v=1651087116
   Price: $19.95 USD
 - [Create a Soft Coated Wheaten Terrier Care Kit for Your Dog's Skin Care](https://theblissfuldog.com/products/soft-coated-wheaten-terrier-custom-combo): The Blissful Dog Soft Coated Wheaten Terrier Care Kit with all natural, handcrafted balms for your dog's dry nose, rough paws and itchy skin issues.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -14742,7 +14742,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/FBD-NOSE-OPTIONS-2025-50-TUBE.jpg?v=1738732996
     Price: $10.95 USD
 - [Nose Butter® All Natural Balm For Dry Lagotto Romagnolo Nose](https://theblissfuldog.com/products/lagotto-romagnola-nose-butter): Is your Lagotto Romagnolo dog's nose dry or crusty? The Blissful Dog Lagotto Romagnolo Nose Butter® moisturizes all ranges of dry dog noses...all naturally!
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -14998,7 +14998,7 @@
     Availability: Available
     Price: $19.95 USD
 - [Embrace The Brachy | Loving & Living With Brachycephalic Dogs | Book](https://theblissfuldog.com/products/embrace-the-brachy-loving-living-with-brachycephalic-dogs-book): Embrace the Brachy | Loving & Living With Flat-Faced Dogs book by Kathy Dannel Vitcak. With 30+ years dedicated to flat-faced dogs, Kathy shares vital info.
-  Updated: 2025-12-07T05:25:24Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog
   Product Type: Book
   Availability: Available
@@ -15012,7 +15012,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/files/3OLD_FRIENDS_ALL_PRODUCTS_32d8efec-608f-43f8-8fa9-f4e2c299464e.jpg?v=1687711248
   Price: $39.95 USD
 - [Field Spaniel Nose Butter Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/field-spaniel-nose-butter): Field Spaniel Nose Butter moisturizes your dog's nose using layers of all-natural butters and oils. Use 2-3x a day for 2-3 days to get your dog's nose in shape.
-  Updated: 2025-12-03T00:18:40Z
+  Updated: 2025-12-22T22:04:32Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -15141,49 +15141,49 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/KEEPCALM_1080.jpg?v=1630537307
   Price: $49.95 USD
 - [Customize Your Anatolian Shepherd Tube Combo For Your Dog](https://theblissfuldog.com/products/anatolian-shepherd-tube-combo): The Blissful Dog Anatolian Shepherd Tube Combo - Mix & Match - Nose Butter + Paw Butter + Boo Boo Butter + Elbow Butter + Bug Off Butter for your blissful dog.
-  Updated: 2025-11-14T09:35:17Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ANATOLIAM_15TUBE_COMBO.jpg?v=1648249222
   Price: $19.95 USD
 - [Customize Your Bearded Collie Care Pack - Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/bearded-collie-custom-combo): Bearded Collie Care Combo for dry noses, rough paws, elbow calluses & itchy skin. Handcrafted, one-by-one by The Blissful Dog using all-natural ingredients.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BEARDED_COLLIE_COMBO_TIN2.jpg?v=1648303101
   Price: $29.95 USD
 - [Customize Your Bearded Collie Skin Care - Healthy Noses, Paws & Elbows](https://theblissfuldog.com/products/bearded-collie-tube-combo): The Blissful Dog Bearded Collie Skin Care Combo for dry noses, rough paws, dog bug bites, and itchy skin issues. Handcrafted balms in convenient .15 oz sizes.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BEARDIE_TUBE_COMBO_2efa4265-1275-496a-942d-b82e94fac681.jpg?v=1648304428
   Price: $19.95 USD
 - [The Blissful Dog Akita Custom Combo For Akita Care Head to Toe](https://theblissfuldog.com/products/akita-custom-combo): Build your own Akita care combo - Mix and Match tins and tubes of Nose Butter, Paw Butter, Elbow Butter & Boo Boo Butter for your Akita's individual needs.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:14Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AKITA_COMBO_TIN_1600.jpg?v=1648323040
   Price: $29.95 USD
 - [The Blissful Dog Tube Combo All Natural Akita Skin Care](https://theblissfuldog.com/products/akita-tube-combo): The Blissful Dog Akita Skin Care Tube Combo - All natural balms for your Akita dog's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: Tube Combo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AKITA_TUBE_COMBO_2dd971a5-045b-41aa-b331-dd29708a1177.jpg?v=1648323635
   Price: $19.95 USD
 - [The Blissful Dog Chihuahua Skin Care Nose to Toes Kit](https://theblissfuldog.com/products/chihuahua-tube-combo): The Blissful Dog Chihuahua Skin Care Customized Combo for your Chihuahua's dry nose, rough paws, itchy bug bites, and minor skin irritations.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHI_15TUBE_COMBO_6b8a3088-dd65-4ab5-b987-ab72663cba35.jpg?v=1648337909
   Price: $19.95 USD
 - [Customize Your Clumber Spaniel Combo Kit for Nose, Paws & Skin Care](https://theblissfuldog.com/products/clumber-spaniel-custom-combo): The Blissful Dog offers Custom Clumber Spaniel Care Combo kits for dry noses, rough paws and itchy skin issues can be customized to fit your Clumber's singular needs.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-12-22T22:06:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -15197,7 +15197,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CLUMBER_15TUBE_COMBO_0c3c4748-7f12-4adf-8aec-0e4c3acbf7b1.jpg?v=1648397915
   Price: $29.95 USD
 - [Field Spaniel Skin Care Combo for Dry Noses, Dry Paws, Itchy Skin](https://theblissfuldog.com/products/field-spaniel-custom-combo): Create a customized skincare kit with The Blissful Dog Field Spaniel combo for your dog's dry nose, rough paws, elbows and minor skin irritations.
-  Updated: 2025-11-14T07:00:46Z
+  Updated: 2025-12-22T22:03:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -15211,14 +15211,14 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FIELD_SPANIEL_15TUBE_COMBO.jpg?v=1648493065
   Price: $19.95 USD
 - [Gordon Setter Skin Care Combo for Dry Noses, Dry Paws, Itchy Skin](https://theblissfuldog.com/products/gordon-setter-custom-combo): Create a customized skincare kit with The Blissful Dog Gordon Setter combo for your dog's dry nose, rough paws, elbows and minor skin irritations.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GORDON_SETTER_COMBO_1080.jpg?v=1648516467
   Price: $29.95 USD
 - [Gordon Setter Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/gordon-setter-tube-combo): The Blissful Dog Build Your Own Gordon SetterSkin Care Combo. Our all natural balms soothe those rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:15Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
@@ -15259,7 +15259,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/KEESHOND-BOO-50TUBE-DOG1-1.jpg?v=1738724461
     Price: $11.95 USD
 - [The Blissful Dog Nose Butter for Keeshond Dry Nose Conditions](https://theblissfuldog.com/products/keeshond-nose-butter): Nose Butter was made for Keeshond dry nose issues. All-natural Nose Butter soothes your Keeshond's nose in just a few applications & maintenance usage keeps it soft.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -15315,7 +15315,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/KEESHOND_SPRAY_LAVENDER_POSTLE.jpg?v=1649555554
     Price: $13.95 USD
 - [The Blissful Dog Keeshond Skin Care Combo for Dry Noses, Rough Paws +](https://theblissfuldog.com/products/keeshond-custom-combo): The Blissful Dog Keeshond Care Customized Combo for your dog's dry nose, rough paws, elbow calluses, and minor skin irritations. All-natural, handcrafted balms
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-12-22T22:05:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -15347,28 +15347,28 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WEIM_AGEWELL-SPRAY_2500_DOG.jpg?v=1650906749
     Price: $13.95 USD
 - [The Blissful Dog Tibetan Terrier Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/tibetan-terrier-tube-combo): Our Tibetan Terrier skin care products soothe dry noses, rough paws, bug bites & itchy skin. Mix & match your choice of butters for your TT's skin care kit.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBET_TERRIER_COMBO_2022.jpg?v=1651084356
   Price: $19.95 USD
 - [Customize Your Tibetan Terrier's Care Kit for Your Dog's Skin Needs](https://theblissfuldog.com/products/tibetan-terrier-custom-combo): The Blissful Dog | Customize your Tibetan Terrier care combo kit and have everything your dog needs for their dry nose, rough paws, elbow calluses and & skin.
-  Updated: 2025-10-30T09:36:07Z
+  Updated: 2025-12-22T22:03:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/Tibetan_Terrier_Combo_tin_1080.jpg?v=1651085435
   Price: $29.95 USD
 - [The Blissful Dog Samoyed Skin Care Combo for Your Dog's Nose, Paws +](https://theblissfuldog.com/products/scottish-terrier-tube-combo): Samoyed skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of all natural butters for your Sammie's skin care kit.
-  Updated: 2025-10-30T09:39:56Z
+  Updated: 2025-12-22T22:06:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCOTTIE_COMBO_2022.jpg?v=1651099229
   Price: $19.95 USD
 - [Schnauzer Care Combo for Your Schnauzer's Dry Nose & Paws & Itchy Skin](https://theblissfuldog.com/products/scottish-terrier-custom-combo): The Blissful Dog Customize your Schnauzer Care Combo Kit for your dog's dry nose, rough paw pads, skin irritations and itchy spots.
-  Updated: 2025-10-30T09:35:18Z
+  Updated: 2025-12-22T22:02:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -16563,7 +16563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CAV_TRI_FUNKY_EARS_FRESH_COMBO.jpg?v=1694209502
     Price: $35.95 USD
 - [Brussels Griffon Blissfully Fresh™ Face Wash Is Your Go-To Griff Clean](https://theblissfuldog.com/products/brussels-griffon-blissfully-fresh-face-wash-combo): Blissfully Fresh™ Face Wash cleans your Brussels Griffon face for up-close cuddles. Your Brussels Griffon's face & beard can be blissfully fresh with a spritz!
-  Updated: 2025-12-18T12:05:48Z
+  Updated: 2025-12-22T12:45:46Z
   Vendor: The Blissful Dog® Inc.
   Product Type: FACE WASH
   Availability: Available
@@ -17116,16 +17116,16 @@
 ## Collections
 
 - [THE BLISSFUL DOG ALL NATURAL HANDCRAFTED GOOD STUFF](https://theblissfuldog.com/collections/frontpage)
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 110
 - [Dog Aromatherapy Sprays & Blends | Relaxing Spray for Dogs](https://theblissfuldog.com/collections/relax-dog-aromatherapy): Ease your dog's anxiety during stressful situations like rainstorms with our dog aromatherapy sprays! The essential oils help calm and relax frightened dogs.
   Updated: 2025-12-18T12:02:50Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-12-20T12:03:06Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
-  Updated: 2025-12-19T12:02:21Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 113
 - [Shop The Blissful Dog AMERICAN BULLDOG for Dry Noses, Rough Paws +](https://theblissfuldog.com/collections/american-bulldog-collection): EVERYTHING AMERICAN BULLDOG COLLECTION features every product from The Blissful Dog with an American Bulldog on the label, all in one place.
   Updated: 2025-12-21T12:02:49Z
@@ -17149,7 +17149,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 11
 - [Shop The Blissful Dog Bulldog Collection for English Bullie Lovers](https://theblissfuldog.com/collections/bulldog-collection): Bulldog Collection, handcrafted butters for dry noses, rough paws, skin issues and aromatherapy for stress, aging and canine concentration. Plus, shampoos+
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 16
 - [Shop The Blissful Dog Chihuahua Collection Everything Nose To Tail](https://theblissfuldog.com/collections/chihuahua-collection): Chihuahua Collection features everything with Chi labels + products for your Chi's dry nose, rough paws, skin issues, emotional well-being and cleanliness.
   Updated: 2025-12-21T12:02:49Z
@@ -17158,13 +17158,13 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 12
 - [Shop The Blissful Dog French Bulldog Collection Frenchies Nose to Tail](https://theblissfuldog.com/collections/french-bulldog-collection): Calling All French Bulldog Fanatics! Everything The Blissful Dog offers with a French Bulldog label is featured right here in one ez to shop spot. Nose Butter+
-  Updated: 2025-12-20T12:03:06Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 17
 - [The Blissful Dog German Shepherd Collection Everything for Your GSD](https://theblissfuldog.com/collections/german-shepherd-collection): Shop German Shepherd Collection for your dog's skin care needs; for dry noses, elbow calluses, rough paws, skin issues, aromatherapy for anxiety & shampoos+
   Updated: 2025-12-17T12:03:00Z
   Total Products: 9
 - [German Shorthaired & Wirehaired Pointer Products](https://theblissfuldog.com/collections/german-shorthaired-pointer-collection): Shop all of our German Shorthaired and Wirehaired Pointer products to find what your dog needs! We sell lots of fun items that will benefit your pup.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 11
 - [Shop The Blissful Dog Golden Retriever Collection from Nose to Tail](https://theblissfuldog.com/collections/golden-retriever-collection): The Blissful Dog Golden Retriever Shop All natural, balms for your dog's dry nose, rough paws, skin issues and aromatherapies for stress, anxiety and aging.
   Updated: 2025-12-15T12:02:59Z
@@ -17182,7 +17182,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 13
 - [Pomeranian Products for Grooming & Dry Skin | The Blissful Dog](https://theblissfuldog.com/collections/pomeranian-collection): Shop all of our Pomeranian products for grooming and dry skin! We sell natural shampoos, conditioners, moisturizers, and more to help keep your Pom blissful.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 16
 - [Shop The Blissful Dog Cavalier King Charles Spaniel Collection](https://theblissfuldog.com/collections/cavalier-king-charles-spaniel-collection): Cavalier King Charles Spaniel Shop for dry noses, rough paws, skin issues, aromatherapy for emotional well-being & complete bath & body collection for shampoos.
   Updated: 2025-12-21T12:02:49Z
@@ -17197,7 +17197,7 @@
   Updated: 2025-12-17T12:03:00Z
   Total Products: 13
 - [Shop The Blissful Dog Mastiff Collection for Your Big Dog's Needs](https://theblissfuldog.com/collections/mastiff-collection): The Blissful Dog Mastiff Shop Handcrafted Balms For Dry Noses, Elbow Calluses, Rough Paws, Skin Issues, Aromatherapy for Emotional Well-Being + Shampoos & More.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 15
 - [Poodle Skin Care, Hair Care, & Grooming Products | The Blissful Dog](https://theblissfuldog.com/collections/poodle-collection): Visit the Blissful Dog to find all-natural poodle skin care, hair care, and grooming products! We have everything your poodle needs to stay happy and healthy.
   Updated: 2025-12-15T12:02:59Z
@@ -17221,7 +17221,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 9
 - [Affenpinscher Dog Skin Care & Grooming Supplies Online](https://theblissfuldog.com/collections/affenpinscher-collection): Shop our selection of Affenpinscher dog skin care and grooming supplies! From gentle shampoos to moisturizers, we have all you need to keep your Affie happy.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 13
 - [Maltese Grooming Supplies & Dog Skin Care Products](https://theblissfuldog.com/collections/maltese-collection): Shop our site for all-natural Maltese grooming supplies and skin care products! We sell everything from shampoos to gentle touch puppy bar soaps.
   Updated: 2025-12-15T12:02:59Z
@@ -17242,13 +17242,13 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 10
 - [Shop The Blissful Dog Collie Dog Collection for Skin & Coat Care](https://theblissfuldog.com/collections/collie-collection): The Blissful Dog Collie Dog Shop - Handcrafted balms for dry noses, rough paws, skin issues and aromatherapy for anxiety and aging. Plus, Complete shampoo line.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 15
 - [Shop Shetland Sheepdog Collection for Your Sheltie's Bath & Body Needs](https://theblissfuldog.com/collections/shetland-sheepdog-collection): The Blissful Dog Shetland Sheepdog Shop handcrafted, all natural balms for dry Sheltie noses, rough paws and itchy skin issues, aromatherapy for anxiety.
   Updated: 2025-12-21T12:02:49Z
   Total Products: 13
 - [Shop Everything Shiba Inu for Your Dog's Skin and Coat Care Needs](https://theblissfuldog.com/collections/shiba-inu-collection): The Blissful Dog Shiba Inu Shop All natural, handcrafted balms for dry dog noses, rough paws & skin issues. Aromatherapy for anxieties, plus soaps & shampoos.
-  Updated: 2025-12-16T12:03:06Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 10
 - [Shop The Blissful Dog Samoyed Collection for Skin & Coat Care](https://theblissfuldog.com/collections/samoyed-collection): Samoyed Collection - Handcrafted balms for dry noses, rough paws and skin irritations, aromatherapy for stress, plus shampoos, conditioners and sprays.
   Updated: 2025-12-16T12:03:06Z
@@ -17278,7 +17278,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 9
 - [The Blissful Dog Bull Terrier Shop for Dry Noses, Rough Paws & Anxiety](https://theblissfuldog.com/collections/bull-terrier-collection): The Blissful Dog Bull Terrier Shop All natural, handcrafted balms for dry noses, rough paws, skin irritations and Relax Dog Aromatherapy to help calm your dog
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 14
 - [Shop The Blissful Dog Bullmastiff Collection From Nose to Tail](https://theblissfuldog.com/collections/bullmastiff-collection): The Blissful Dog Bullmastiff Shop All Natural Handcrafted Balms for Your Bullmastiff's Nose, Paws, Elbows and Skin Irritations. Plus aromatherapy & shampoos.
   Updated: 2025-12-21T12:02:49Z
@@ -17290,7 +17290,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 9
 - [Shar-Pei Products for Grooming & Skin Problems](https://theblissfuldog.com/collections/chinese-shar-pei-collection): Visit The Blissful Dog to find all the Shar-Pei products for grooming and skin problem treatment you need! We offer everything from aromatherapy to shampoos.
-  Updated: 2025-12-19T12:02:21Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 9
 - [The Blissful Dog Chow Dog Collection Shop for Dry Noses, Rough Paws +](https://theblissfuldog.com/collections/chow-collection): The Blissful Dog Chow Dog Collection All Natural, Handcrafted Balms for Your Chow's Dry Nose, Rough Paws, Skin Irritations and Emotional Stress & Anxieties.
   Updated: 2025-12-16T12:03:06Z
@@ -17308,7 +17308,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 11
 - [Goldendoodle Dog Care & Grooming Products Online](https://theblissfuldog.com/collections/goldendoodle-collection): Buy Goldendoodle dog care and grooming products online at The Blissful Dog! We sell all-natural shampoos, conditioners, soaps, and more to keep your pup happy.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 11
 - [Shop Greater Swiss Mountain Dog Skin & Coat Care Collection](https://theblissfuldog.com/collections/greater-swiss-mountain-dog-collection): The Blissful Dog Greater Swiss Mountain Dog Shop All natural, handcrafted balms for your Swissie's nose, paws, elbows, skin irritations, stress and anxieties.
   Updated: 2025-12-21T12:02:49Z
@@ -17344,28 +17344,28 @@
   Updated: 2025-12-17T12:03:00Z
   Total Products: 31
 - [Shop The Blissful Dog Schnauzer Collection for Everything Schnauzer](https://theblissfuldog.com/collections/schnauzer-collection): The Blissful Dog Schnauzer Shop handcrafted herbal balms for dry noses, rough paws and skin irritations. Aromatherapy for stress, anxiety and aging support.
-  Updated: 2025-12-15T12:02:59Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 11
 - [Dog Lust Buster for Help In Keeping Boys At Bay - For Short Periods](https://theblissfuldog.com/collections/lust-buster-butter): DOG LUST BUSTER BUTTER Easy to use LUST BUSTER distracts boy dog's from girl dogs in heat for short periods of time, such as dog shows, obedience trials, etc
   Updated: 2025-12-17T12:03:00Z
   Total Products: 1
 - [The Blissful Dog | Natural Dog Skin Care for your Puggle](https://theblissfuldog.com/collections/puggle-collection): Find everything your Puggle needs from moisturizers for nose, paws, elbows and skin irritations to shampoos, colognes and aromatherapy for a balanced Puggle.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 11
 - [Focus Dog Aromatherapy Helps Turn Energy Into Concentration](https://theblissfuldog.com/collections/dog-aromatherapy-focus): The Blissful Dog Focus Dog Aromatherapy helps turn canine chaos into canine concentration. Our gentle blend of essential oils helps your dog focus on their task
-  Updated: 2025-10-16T15:39:31Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 13
 - [Westie Dog Skin & Coat Care Products | West Highland Terrier Care](https://theblissfuldog.com/collections/west-highland-white-terrier-collection): Shop our selection of all-natural Westie dog skin and coat care products! We have everything you need to keep your West Highland Terrier happy and healthy.
   Updated: 2025-12-16T12:03:06Z
   Total Products: 11
 - [Australian Cattle Dog Shop for Your Cattle Dog's Care - Nose to Tail](https://theblissfuldog.com/collections/australian-cattle-dog): The Blissful Dog Australian Cattle Dog Collection - Handcrafted balms for dry noses, rough paws, elbow calluses, skin issues and aromatherapy for anxieties.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 15
 - [All-Natural Dog Soaps and Shampoos | Dog Bath Products](https://theblissfuldog.com/collections/blissfully-clean-dogs): Find all-natural dog soaps and shampoos that best suit your pet! The Blissful Dog sells a variety of bath products that blissfully clean all types of dog coats.
   Updated: 2025-12-21T12:02:49Z
   Total Products: 26
 - [Dog Itch Relief Products | Natural Dog Skin Treatments](https://theblissfuldog.com/collections/bye-bye-boo-boo): Our Bye Bye Boo Boo dog skin care products provide relief for minor irritations and itches. Browse these natural shampoos, soaps, and other treatments today!
-  Updated: 2025-12-13T12:03:27Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 5
 - [Nova Scotia Duck Tolling Retriever Dog Grooming Supplies for Sale](https://theblissfuldog.com/collections/nova-scotia-duck-tolling-retriever): Get everything your Toller needs at The Blissful Dog! We offer a wide selection of Nova Scotia Duck Tolling Retriever dog grooming and care supplies for sale.
   Updated: 2025-12-16T12:03:06Z
@@ -17383,16 +17383,16 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 10
 - [The Blissful Dog Pet Safe Insect Repellents for Dogs | Bye Bye Bugs](https://theblissfuldog.com/collections/bug-off-collection): Bye Bye Bugs! Keep pesky pests away from your dog with these safe & natural bug repellent products! Our dog insect repellents are free of harmful chemicals.
-  Updated: 2025-10-16T15:39:32Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 5
 - [Blissful Dog Drama Queen & Rich Bitch Dog Shampoo For Your Doggie Diva](https://theblissfuldog.com/collections/rich-bitch-collection): Drama Queen & Rich Bitch Dog Shampoo for The Diva Dog who hires a dog to sniff butts for them. Moisturizing shampoo & luxury bar soap with G & PG-Rated Labels
-  Updated: 2025-12-20T12:03:06Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 35
 - [The Blissful Dog Stinky Filthy Dog Shampoo Gets Your Nasty Dog Clean](https://theblissfuldog.com/collections/stinky-filthy-dog-shampoo-soap-collection): The Blissful Dog Stinky Dog Collection Is your dog a stinky, filthy animal? From dirt to mud to SKUNKED, Stinky Filthy Dog Shampoo cleans your soiled dog FAST!
   Updated: 2025-11-01T11:02:18Z
   Total Products: 2
 - [Shampoos, Soap, Conditioners for Your Blissfully Clean Dog](https://theblissfuldog.com/collections/blissfully-clean-dog): Doesn't your dog deserve to be a blissfully clean dog? The Blissful Dog has dozens of shampoos, soaps, conditioners, sprays and more to pamper your pup!
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 57
 - [Gentle Touch Puppy Shampoo & Soap for Puppies, Seniors, Sensitive Dogs](https://theblissfuldog.com/collections/gentle-touch-collection): Gentle Touch Puppy Shampoo & Soap for puppies, senior dogs and dogs with more sensitive skin, tenderly cleans your best friend with no-tears sudsing.
   Updated: 2025-12-21T12:02:49Z
@@ -17410,7 +17410,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 10
 - [HOME PAGE COLLECTIONS](https://theblissfuldog.com/collections/home-page-collections)
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 9
 - [Shop The Blissful Dog Italian Greyhound Collections From Nose to Tail](https://theblissfuldog.com/collections/italian-greyhound): The Blissful Dog Italian Greyhound Shop all natural balms for dry noses, rough paws, skin issues & aromatherapy for anxiety, plus shampoos+ for your IG's care.
   Updated: 2025-12-21T12:02:49Z
@@ -17422,10 +17422,10 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 8
 - [Shop The Blissful Dog Noes to Tail Greyhound Collection](https://theblissfuldog.com/collections/greyhound-collection): The Blissful Dog Greyhound Shop all natural balms for dry noses, rough paws, elbow calluses, skin care, aromatherapy for anxiety and shampoos and skin sprays.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 14
 - [Shop Olde English Bulldogge Collection for Your Bully - Nose to Tail](https://theblissfuldog.com/collections/olde-english-bulldogge-collection): Olde English Bulldogge Shop All natural handcrafted balms for dry noses, rough paws, elbow calluses & skin issues. Plus, aromatherapy to calm Bully stress.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 12
 - [Shop The Blissful Dog Dalmatian Collection for Everything Nose to Tail](https://theblissfuldog.com/collections/dalmatian-collection): The Blissful Dog Dalmatian Shop for handcrafted balms for dry noses, rough paws, elbow calluses and skin issues, plus, aromatherapy for stress and anxieties.
   Updated: 2025-12-21T12:02:49Z
@@ -17446,7 +17446,7 @@
   Updated: 2025-12-15T12:02:59Z
   Total Products: 15
 - [French Bulldog Nose Butter Collection for Your Frenchie's Dry Nose](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection): The Blissful Dog French Bulldog Nose Butter® For Your Frenchie's Rough, Dry Nose. Many Frenchies have dry noses or nasal hyperkeratosis and Nose Butter helps!
-  Updated: 2025-12-20T12:03:06Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 2
 - [Shop The Blissful Dog Coonhound Collection from Nose to Tail Care](https://theblissfuldog.com/collections/coonhound): The Blissful Dog Coonhound Shop has handcrafted balms for dry noses, rough paws, elbow calluses, skin irritations, plus aromatherapy for stress and anxiety.
   Updated: 2025-12-21T12:02:49Z
@@ -17467,16 +17467,16 @@
   Updated: 2025-12-18T12:02:50Z
   Total Products: 2
 - [Paw Butter for Dogs | Paw Moisturizer | The Blissful Dog](https://theblissfuldog.com/collections/paw-butter): Soothe and moisturize your dog's rough, dry paws! Our Paw Butter helps make paw pads comfortably soft while still keeping them strong enough to hit pavement.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 3
 - [Blissfully Brand New Products for Your Dog's Health & Happiness](https://theblissfuldog.com/collections/blissfully-brand-new): Blissfully Brand New Products for Your Dog's Health & Happiness - When was the last time someone was on their way over to visit and one of your dogs had a heinous, smelly accident? An awful eye-watering smelly mess! We can handle that disastrous event - FAST! Simply Everything Fresh Deodorizing Spray & NO H20 Shampoo.
-  Updated: 2025-12-16T12:03:06Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 32
 - [French Bulldog Nose Butter Collection](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection-1): French Bulldog Nose Butter Collection
-  Updated: 2025-12-20T12:03:06Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
   Updated: 2025-12-14T12:03:24Z
@@ -17485,23 +17485,23 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 34
 - [The AMP for Shopify Collection](https://theblissfuldog.com/collections/the-amp-for-shopify-collection): This is just a sample collection ----This collection is not published. Edit this collection Feel free to edit this collection and play around with it. If you need any help, just reach out to our team. We're excited to help you get started with AMP! Note: This is the only collection that will contain unpublished products from your Shopify Online Store. It is just for example purposes :) ---- Every product in the AMP by Shop Sheriff collection comes with the finest materials 14% suede 3% elastane 77% organic cotton
-  Updated: 2025-12-12T12:02:32Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 34
 - [Kuvasz Collection for Your Dog's Skin Care & Cleanliness](https://theblissfuldog.com/collections/kuvasz-collection): The Blissful Dog Kuvasz Collection showcases products featuring the Kuvasz on the label & those geared toward keeping these magnificent dogs looking their best.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 11
 - [Anatolian Shepherd Collection - Everything for Anatolian's Bliss](https://theblissfuldog.com/collections/anatolian-shepherd-collection): The Blissful Dog The Anatolian Shepherd Collections features skin care for your dog. Nose Butter, Boo Boo Butter and Relax Aromatherapy with Anatolian labels.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 12
 - [Tibetan Terrier Collection for Your TT's Blissful Best](https://theblissfuldog.com/collections/tibetan-terrier-collection): The Blissful Dog Tibetan Terrier Collection offers several products with Tibetan Terrier labels, plus products to help your TT look & feel their Blissful Best!
   Updated: 2025-12-15T12:02:59Z
   Total Products: 8
 - [The Blissful Dog Apothecary | All Natural, Handcrafted Balms](https://theblissfuldog.com/collections/apothecary): The Blissful Dog Apothecary Showcases Skin Care Products for Your Blissful Dog 
 Individually handcrafted in far, far northern Minnesota.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 7
 - [Shop The Blissful Dog Soft Coated Wheaten Terrier Collection](https://theblissfuldog.com/collections/soft-coated-wheaten-terrier): Shop our Soft Coated Wheaten Terrier Collection for everything your Wheaten needs to look and feel their blissful best - from nose to toes!
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 13
 - [The Blissful Dog Akita Collections for Your Akita's Health & Wellness](https://theblissfuldog.com/collections/akita): The Blissful Dog Akita Collection showcases curated products to keep your Akita looking & feeling their Blissful Best. Many items feature Akita labels.
   Updated: 2025-12-16T12:03:06Z
@@ -17510,22 +17510,22 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-21T12:02:49Z
   Total Products: 14
 - [The Blissful Dog Scottish Terrier Collection for the Scottie's Bliss](https://theblissfuldog.com/collections/scottish-terrier): Scottish Terrier Collection is our curated selection of products that feature the Scottie on the labels and are recommended for their health and wellness.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 11
 - [Shop The Blissful Dog Icelandic Sheepdog Curated Collection](https://theblissfuldog.com/collections/icelandic-sheepdog): The Icelandic Sheepdog  Collection features products showcasing an Icelandic Sheepdog on the label and others created to help you keep your Icie blissful.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 14
 - [The Blissful Dog Irish Setter Collection for Your Dog's Bliss](https://theblissfuldog.com/collections/irish-setter): Irish Setter Curated Collection for Your Dog's Health & Well-Being - Your Irish Setter collection showcases products that feature Irish Setter labels +
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 14
 - [The Blissful Dog Irish Wolfhound Collection for Your IW's Bliss](https://theblissfuldog.com/collections/irish-wolfhound): The Irish Wolfhound Collection | Handpicked to keep your stalwart Irish Wolfhound looking and feeling their blissful best! Complete bath & body products!
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 14
 - [The Blissful Dog Gordon Setter Collection for Your Dog's Bliss](https://theblissfuldog.com/collections/gordon-setter): Gordon Setter Collection Keeps Your Gordon Setter Looking & Feeling Their Blissful Best. Featuring products with Gordon Setter labels and those we recommend.
   Updated: 2025-12-21T12:02:49Z
   Total Products: 14
 - [The Blissful Dog Clumber Spaniel Collection for Your Blissful Clumber](https://theblissfuldog.com/collections/clumber-spaniel): Clumber Spaniel Collection Keeps Your Clumber Looking & Feeling Their Blissful Best. Many products have Clumber Spaniels on labels + shampoos for their needs.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:24Z
   Total Products: 16
 - [The Blissful Dog Petit Basset Griffon Vendéen Collection](https://theblissfuldog.com/collections/petit-basset-griffon-vendeen): Petit Basset Griffon Vendéen Collection keeps your PBGV looking and feeling their Blissful Best. Many items feature PBGV labels + more!
   Updated: 2025-12-16T12:03:06Z
@@ -17540,13 +17540,13 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-16T12:03:06Z
   Total Products: 33
 - [Blissfully Clean Dog Shampoos, Soaps & Conditioner](https://theblissfuldog.com/collections/shampoo-soap): Blissfully Clean Dog Shampoos, Soaps & Conditioner offers a complete range of shampoos, soap, and one heckuva conditioner to get your filthy dog clean.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 51
 - [Specialty Dog Grooming Sprays](https://theblissfuldog.com/collections/specialty-sprays): Spritz & Spray The Funk Away Simply Everything Fresh Deodorizing Spray - Simply Fresh doesn't mask odors, it busts smells apart & gets your abode fresh-smelling FAST.
-  Updated: 2025-12-16T12:03:06Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-12-15T12:02:59Z
@@ -17573,13 +17573,13 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-21T12:02:49Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-12-15T12:02:59Z
   Total Products: 8
 - [Blissfully Fresh® Face Wash Keeps Your Dog Kissably Fresh](https://theblissfuldog.com/collections/fresh-face-wash-for-blissfully-clean-faces): Blissfully Fresh® Face Wash for Blissfully Clean, Kissably Cuddly, Fresh Faces -  when your dog needs a quick freshen-up to feel and smell great again
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-23T12:02:25Z
   Total Products: 32
 - [Grooming](https://theblissfuldog.com/collections/grooming)
   Updated: 2025-10-16T15:39:36Z
@@ -17591,7 +17591,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-10-16T15:39:36Z
   Total Products: 4
 - [Rich Bitch Holiday Combo](https://theblissfuldog.com/collections/rich-bitch-holiday-combo): Naughty AND Nice! Is there someone on your shopping list who you KNOW will get a kick out of this shampoo? Everyone on my list would love it, so my shopping is done! Of course, it's a hardworking, professional shampoo, we just had a little fun with the name. We stumbled upon these squeaky toys and HAD to do something fun with them. Hence, our Rich Bitch Happy Holidays Gift Combo! Our Rich Bitch Holiday Combo Includes 4 oz Bottle of Rich Bitch Shampoo with your choice of Rich Bitches gracing the label 11.95 value3.5 oz Rich Bitch Soap in a black, luxury gift box with the same label as the Shampoo 12.95 valueA Fabulous Rich Bitch Canine Couture Squeaky Toy Handbag (retail averages $20.00 alone!) All this for $14.95. We're clutching our own pearls at this great bargain! Shipping is, as always, free! While supplies last, we don't have an infinite supply of the squeak toy handbag toys!
-  Updated: 2025-12-20T12:03:06Z
+  Updated: 2025-12-22T12:02:22Z
   Total Products: 26
 
 ## Blogs
