@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2025-12-23T00:00:28.638Z
+- Updated At: 2025-12-24T00:00:29.788Z
 
 ## Products
 
@@ -7098,8 +7098,8 @@
 - [Dirty Profits](https://www.wrongcrow.com/collections/dirty-profits)
   Updated: 2025-12-07T16:33:07Z
   Total Products: 26
-- [Hoodies](https://www.wrongcrow.com/collections/hoodies-3)
-  Updated: 2025-12-07T16:33:07Z
+- [Hoodies](https://www.wrongcrow.com/collections/hoodies-3): Streetwear Hoodies mit 380 GSM. Bold Prints, rebellisches Design & Premium Qualität
+  Updated: 2025-12-23T20:36:45Z
   Total Products: 13
 - [T-Shirts](https://www.wrongcrow.com/collections/t-shirts-2)
   Updated: 2025-12-07T16:33:07Z
