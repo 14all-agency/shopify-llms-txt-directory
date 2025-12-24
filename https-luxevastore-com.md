@@ -6,19 +6,19 @@
 - Timezone: Europe/London
 - Created At: 2024-11-10T12:13:34Z
 - Contact Email: info@luxevastore.com
-- Updated At: 2025-12-20T00:00:32.241Z
+- Updated At: 2025-12-24T00:00:33.477Z
 
 ## Products
 
 - [Argan Oil Hair Repair & Shine Ritual for Damaged Hair](https://luxevastore.com/products/luxeva-3-in-1-sulfate-free-argan-oil-shampoo-conditioner-serum-set): Shop LUXEVA's Argan Oil Hair Repair & Shine Ritual at a great price. Free shipping, seasonal offers, and limited stock; check it out now!
-  Updated: 2025-12-19T08:38:33Z
+  Updated: 2025-12-20T00:08:45Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/SulphateFreeHairShampoo_Conditioner1.png?v=1762019730
   Price: £34.95 GBP
 - [LUXEVA Biotin & Rosemary Hair Growth Shampoo & Conditioner](https://luxevastore.com/products/luxeva-3-in-1-biotin-rosemary-hair-growth-shampoo-conditioner): Shop LUXEVA's Biotin & Rosemary Mint Hair Revival Ritual—enjoy seasonal savings, free shipping, and great prices. Buy now and revitalize your hair today!
-  Updated: 2025-12-19T08:37:59Z
+  Updated: 2025-12-20T00:14:20Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/HairGrowthSerum_ScalpMassager1.png?v=1762086370
   Price: £34.95 GBP
 - [Argan Oil Heat Protection Spray & Serum Set | LUXEVA UK](https://luxevastore.com/products/argan-oil-heat-protection-repair-shine-set): Protect, repair & add shine with LUXEVA’s 2-in-1 Argan Oil Heat Protection Spray & Serum. Fights frizz, dryness & breakage. Sulfate-free. Shop now.
-  Updated: 2025-12-19T08:37:06Z
+  Updated: 2025-12-20T00:10:23Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
@@ -49,13 +49,13 @@
 ## Collections
 
 - [Sulphate Free Shampoo Sets: Elevate Your Haircare Ritual with LUXEVA](https://luxevastore.com/collections/frontpage): Discover sulfate-free shampoo by LUXEVA, blending plant-powered formulas to restore hair strength and soothe your scalp for a confident crown.
-  Updated: 2025-12-19T08:38:34Z
+  Updated: 2025-12-20T12:27:30Z
   Total Products: 6
 - [Scalp & Haircare Sets](https://luxevastore.com/collections/shampoo-and-conditioner-sets): Shop LUXEVA's natural shampoo and conditioner range, formulated to combat hair thinning, dryness, and breakage. Sulfate-free, vegan, and designed for scalp health and effortless repair.
-  Updated: 2025-12-19T08:38:34Z
+  Updated: 2025-12-20T12:27:30Z
   Total Products: 5
 - [Top Hair Growth Oils & Sprays: Conditioners, Detanglers, Protectants](https://luxevastore.com/collections/hair-oils-sprays): Discover top Hair Growth Oils, Heat Protection Sprays, Leave In Conditioner Sprays, and Detangling Spray for healthier, shinier hair. Explore now!
-  Updated: 2025-12-19T08:37:29Z
+  Updated: 2025-12-20T12:27:30Z
   Total Products: 2
 
 ## Blogs
@@ -133,6 +133,22 @@
     Updated: 2025-12-19T11:50:26Z
     Author: LUXEVA
     Tags: how to revive damaged hair
+  - [7 Key Advantages of Sulphate-Free Shampoo for Hair Health](https://luxevastore.com/blogs/articles/advantages-of-sulphate-free-shampoo): Discover 7 vital advantages of sulphate-free shampoo for healthier hair. Learn expert tips on clean, science-based haircare, ideal for natural beauty lovers.
+    Updated: 2025-12-20T08:01:47Z
+    Author: LUXEVA
+    Tags: advantages of sulfate-free shampoo
+  - [Paraben Free Shampoo – Why It Matters for Healthy Hair](https://luxevastore.com/blogs/articles/paraben-free-shampoo-meaning-benefits): Paraben free shampoo explained: what it is, common ingredients, health impacts, main benefits, and how it compares to standard formulas.
+    Updated: 2025-12-21T08:49:12Z
+    Author: LUXEVA
+    Tags: what is paraben free shampoo
+  - [Top Sulfate-Free Shampoos – Expert Comparison 2025](https://luxevastore.com/blogs/articles/top-sulfate-free-shampoos-comparison): Discover the top sulfate-free shampoos in our comparison of 5 products, helping you choose the best for healthy hair in 2025.
+    Updated: 2025-12-22T08:20:36Z
+    Author: LUXEVA
+    Tags: top sulfate-free shampoos
+  - [Best Hair Growth Shampoos UK – What Really Works?](https://luxevastore.com/blogs/articles/best-hair-growth-shampoos-uk): Best hair growth shampoos UK explained: key ingredients, science, natural vs synthetic formulas, top choices and user reviews for thicker, healthier hair.
+    Updated: 2025-12-23T06:15:06Z
+    Author: LUXEVA
+    Tags: What are the best hair growth shampoos available online in the UK?
 
 ## Store Pages
 
