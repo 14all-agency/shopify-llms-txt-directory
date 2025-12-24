@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-12-23T00:00:57.304Z
+- Updated At: 2025-12-24T00:01:00.479Z
 
 ## Products
 
@@ -12844,20 +12844,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/339ca32a-60fd-4092-8bf6-551f330aa760.jpg?v=1757166196
   Price: CHF 167.80 CHF
-- [Outsunny Small Walk-in Garden Greenhouse With Steel Frame, Large Roll-up Door And Windows, 200Lx76Wx168Hcm, White](https://cilly.us/products/outsunny-small-walk-in-garden-greenhouse-with-steel-frame-large-roll-up-door-and-windows-200lx76wx168hcm-white): Specification Product Information Item Code:T3398P314086 Product Type :Single Box Product Product Name:Outsunny Small Walk-in Garden Greenhouse with Steel Frame, Large Roll-up Door and Windows, 200Lx76Wx168Hcm, White Main Color:White Main Material:Steel Product Dimensions Assembled Length (cm):200.00 Assembled Width (cm):76.00 Assembled Height (cm):168.00 Product Weight (kg):3.80 Package Size Length (cm):23.00 Width (cm):10.50 Height (cm):103.00 Weight (kg):4.30 Product Features WALK-IN DESIGN: Easy to enter and leave to access your plants. Easy to set up to grow plants, vegetables, flowers and more. Compact size, suitable for even smaller garden and outdoor areas. PLASTIC COAT: Protects plants from the cold and wind outdoors so they can grow to their full potential. large roll-up door to enter and to let in fresh air when required. Long edges to bury in soil and weight down. STEEL FRAME: A durable core structure, greenhouse stands steady on the ground - four guy ropes and four ground pegs included for extra support. DIMENSIONS: 150-168H x 200L x 76Wcm. Door: 145H x 120Wcm. ASSEMBLY REQUIRED. DO NOT LEAVE UP IN HIGH WINDS AND EXTREME WEATHER.
-  Updated: 2025-11-15T08:06:25Z
-  Vendor: Alles für deine Haustiere 
-  Product Type: Garten
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5434526b-d3ba-4a39-b967-9e38ff2220ed.jpg?v=1757167288
-  Price: CHF 56.30 CHF
-- [Outsunny 4 X 3m Walk-In Tunnel Greenhouse, With Accessories - White](https://cilly.us/products/outsunny-4-x-3m-walk-in-tunnel-greenhouse-with-accessories-white): Specification Product Information Item Code:T3398P314173 Product Type :Single Box Product Product Name:Outsunny 4 x 3(m) Walk-In Tunnel Greenhouse, with Accessories - White Main Color:White Main Material:Steel Product Dimensions Assembled Length (cm):396.00 Assembled Width (cm):300.00 Assembled Height (cm):200.00 Product Weight (kg):23.50 Package Size Length (cm):156.50 Width (cm):35.00 Height (cm):20.00 Weight (kg):26.00 Product Features Extra-supportive steel frame: Galvanised metal for extra strength for a tough core. Comes with 4x sets of 'V' diagonal wall braces, 6x diagonal top braces and 4x reinforcement rods to pin and support structure 4 x 3 m tunnel size: A large and open walk-in polytunnel greenhouse - easy to enter and holds plenty of plants and vegetables. Open design allows you set up exactly how you want Two-layer plastic cover: With a middle reinforcement grid to help prevent tearing. 140 gsm for a protective shell, whilst allowing 85% sunlight through for natural nourishment. 15cm edge to bury into soil Roll-up mesh door and six windows: Easy to access this walk in greenhouse, with the windows bringing in fresh air when needed Accessories included: 4 x ground stakes, 4 x guy ropes, 10 x plant labels and 1 x pair of gloves. Everything you need
-  Updated: 2025-11-15T08:06:25Z
-  Vendor: Alles für deine Haustiere 
-  Product Type: Garten
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0ae67c43-8d6b-4c44-99cc-05ff1f6dc134.jpg?v=1757167411
-  Price: CHF 125.90 CHF
 - [Multifunctional Wireless Electric Juicer Steel Orange Lemon Blender USB Portable Mini Fruit Squeezer Pressure Juicer Kitchen](https://cilly.us/products/multifunctional-wireless-electric-juicer-steel-orange-lemon-blender-usb-portable-mini-fruit-squeezer-pressure-juicer-kitchen): Overview: 1. 【Orange Juice Squeezer】 Simple one-button automatic pressing operation. Automatic sensing peel thickness, maximum juice extraction. 2. 【Applicable to All kinds of Fruits and Vegetables】 Orange juice squeezer suitable for fruits. And also for vegetables. Great for healthy drinks, cocktails, recipes, desserts and marinades. 3. 【USB Charging 】 USB-C charging. More than 40 times of juicing after a full charge. 4. 【 High-Quality Materials】Food-grade materials, which are both safe and healthy. BPA free. 5. 【Easy to Clean and Safe】 All the removable parts of the juicer. The included custom cleaning brush makes cleaning easier and faster. 6. 【Wireless Portable】The size is very compact and portable for shopping, fitness, picnics, camping, and travel. Enjoy delicious juice anytime, anywhere. Product Information: Function: Juice Capacity:150ML Body material: PC Color: Fresh green, simple white Size:140x110x280mm Packing List: Juicer X1PCS Attention: Only Chinese instruction manual, no English version. Product Image:
   Updated: 2025-09-07T07:25:13Z
   Vendor: Alles für deine Haustiere 
