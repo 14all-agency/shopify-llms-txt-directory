@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-23T00:00:28.186Z
+- Updated At: 2025-12-24T00:00:30.453Z
 
 ## Products
 
@@ -266,6 +266,49 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_2.jpg?v=1766395521
   Price: $115.59 USD
+- [Fabufabu 2-piece set of chiffon bow hair clips brown & red color](https://fabufabu.com/products/fabufabu-2-piece-set-of-chiffon-bow-hair-clips-brown-red-color): 【Material】This light bow hair claw clip is made of three materials, the hair clip itself is made of plastic, the bow is made of tulle chiffon fabric, and the spring is made of metal. 【Design】Light chiffon bowknot hair claw is composed of 2 parts, includes a plastic hair claw clip and the big tulle fabric bows on both sides of the hair clip, simple and elegant. 【Size】The tulle bownots measure about 10x8cm / 3.9x3.2in and the plastic clip measures about 8x5x4cm / 3.14x1.97x1.57in, this bow claw clip can work well for thick or thin hair. 【Uses】Helping you easily create elegant looking updos and half up dos to keep your hair back out of face, lightweight bow hair claw won't burden your hair, suitable for most women to wear. 【Occasion】The bow large hair clip is suitable for all occasions, it can help you to fix your hair during daily activities such as bathing, doing housework, working, etc, also can give you an elegant hairstyle when you are on a date or attending a party.
+  Updated: 2025-12-23T06:14:49Z
+  Vendor: fabufabu design store
+  Product Type: Hair Clip
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_brown_b804038c-52bd-482c-9d9a-38c857f2237d.jpg?v=1766469983
+  Price: $15.30 USD
+- [Fabufabu 2-piece set of Korean style heart-shaped hair clip blue & pink color](https://fabufabu.com/products/fabufabu-2-piece-set-of-korean-style-heart-shaped-hair-clip-blue-pink-color): ★EYE-CATCHING DESIGN: Our hair clips designers use modern fashion elements, a blend of vibrant colors and practical functions, can meet your personal preferences and different styling needs. ★HIGHT QUANLITY: These cute hair claw clips are made of reliable resin with plastic and strong spring material, not easy to slip and not easy to break. ★Big size:Each hair clip measures approx.5.3 x 2 inches,open width is approx.2.5 inches,the size is suitable for all kinds of hair. It can hold your hair firmly, not easy to loosen, and keep your hair style all day long. ★Elegant design:The strong hold hair Heart Shape are designed. Korean style, unique design,add you elegance and noble temperament, add more charm to you! ★As a present:We have exquisite packaging, especially suitable for giving each other as gifts, adding more charm to you and your family and friends!
+  Updated: 2025-12-23T06:19:35Z
+  Vendor: fabufabu design store
+  Product Type: Hair Clip
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_pink.jpg?v=1766470597
+  Price: $15.30 USD
+- [Fabufabu Korean style Large Heart Shape Big Hair Claw Clips Hair Clips](https://fabufabu.com/products/fabufabu-korean-style-large-heart-shape-big-hair-claw-clips-hair-clips): ★EYE-CATCHING DESIGN: Our hair clips designers use modern fashion elements, a blend of vibrant colors and practical functions, can meet your personal preferences and different styling needs. ★HIGHT QUANLITY: These cute hair claw clips are made of reliable resin with plastic and strong spring material, not easy to slip and not easy to break. ★Big size:Each hair clip measures approx.5.3 x 2 inches,open width is approx.2.5 inches,the size is suitable for all kinds of hair. It can hold your hair firmly, not easy to loosen, and keep your hair style all day long. ★Elegant design:The strong hold hair Heart Shape are designed. Korean style, unique design,add you elegance and noble temperament, add more charm to you! ★As a present:We have exquisite packaging, especially suitable for giving each other as gifts, adding more charm to you and your family and friends!
+  Updated: 2025-12-23T06:23:31Z
+  Vendor: fabufabu design store
+  Product Type: Hair Clip
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_purple.jpg?v=1766470823
+  Price: $15.30 USD
+- [Pet Water Bowl No Drip Slow Water Feeder for Dogs & Cats](https://fabufabu.com/products/pet-water-bowl-no-drip-slow-water-feeder-for-dogs-cats): 【ANTI-SPILL NO MESS】Pet Water Bowl. The Floating Disk and Anti-slip Base can effectively prevent water from splashing and overflowing. 【EASY TO CLEAN】 The 2-piece disc welding design of our dog bowls prevent dust and dirt from falling into the water, provide clean water for pets, and ensure that your pets drink clean and healthy water. 【Extreme Large Capacity】With the dimension 22.5 x 18.5 x 7.8 cm, the bowl has a pretty large and practical capacity, weight about 0.47kg in total, which is enough for dogs to drink a whole day. 【TRAVEL-FRIENDLY】 Double Anti Spill design can effectively prevent water from overflowing in the bumpy road. Anti-slip base prevents your pets from sliding it around. Perfect for using in RV, SUV, and truck. 【HEALTHY FOR PETS 】Designed to promote a healthier environment, this cat and dog water dispenser is crafted from reliable, food-grade ABS materials.Its advanced floating disk design carefully moderates your pet's drinking pace.By dispensing the ideal amount of water, it reduces potential choking risks effectively.
+  Updated: 2025-12-23T10:10:57Z
+  Vendor: fabufabu design store
+  Product Type: Pet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_white_6d0ebf73-9bbf-49f8-8bbd-2b1bc3fc531b.jpg?v=1766484408
+  - [White](https://fabufabu.com/products/pet-water-bowl-no-drip-slow-water-feeder-for-dogs-cats?variant=45523890110661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_white_6d0ebf73-9bbf-49f8-8bbd-2b1bc3fc531b.jpg?v=1766484408
+    Price: $36.00 USD
+  - [Gray](https://fabufabu.com/products/pet-water-bowl-no-drip-slow-water-feeder-for-dogs-cats?variant=45523890143429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_grey.jpg?v=1766484420
+    Price: $36.00 USD
+  - [Pink](https://fabufabu.com/products/pet-water-bowl-no-drip-slow-water-feeder-for-dogs-cats?variant=45523890176197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_pink_1c20a2e2-d20b-4f2d-8eee-bde92e1504ce.jpg?v=1766484433
+    Price: $36.00 USD
+  - [Blue](https://fabufabu.com/products/pet-water-bowl-no-drip-slow-water-feeder-for-dogs-cats?variant=45523890208965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/blue.jpg?v=1766484269
+    Price: $36.00 USD
 
 ## Collections
 
@@ -291,14 +334,14 @@
   Updated: 2025-12-17T08:04:21Z
   Total Products: 0
 - [Hairclip](https://fabufabu.com/collections/hairclip)
-  Updated: 2025-12-17T08:04:21Z
-  Total Products: 0
+  Updated: 2025-12-23T06:21:53Z
+  Total Products: 3
 - [BabyKids](https://fabufabu.com/collections/babykids)
   Updated: 2025-12-17T08:04:21Z
   Total Products: 1
 - [Pet](https://fabufabu.com/collections/pet)
-  Updated: 2025-12-17T08:04:21Z
-  Total Products: 1
+  Updated: 2025-12-23T10:09:23Z
+  Total Products: 2
 - [Home](https://fabufabu.com/collections/home)
   Updated: 2025-12-17T08:04:21Z
   Total Products: 1
