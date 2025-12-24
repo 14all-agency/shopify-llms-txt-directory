@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-23T20:00:35.338Z
+- Updated At: 2025-12-24T04:00:33.037Z
 
 ## Products
 
@@ -804,7 +804,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Mint Eucalyptus Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint): Refresh your skin with our Mint Eucalyptus body scrub. Whipped bath butter, jojoba oil, and your choice of salt for smooth, spa-like exfoliation.
-  Updated: 2025-12-23T17:16:18Z
+  Updated: 2025-12-23T21:15:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -819,7 +819,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Champagne Toast Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-champagne): Indulge in Champagne Toast body scrub with a whipped bath butter base, jojoba oil, and customizable salt exfoliation for soft, radiant skin.
-  Updated: 2025-12-23T17:16:18Z
+  Updated: 2025-12-23T21:53:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -834,7 +834,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Coffee Beans Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-coffee-shop): Energize your routine with Coffee Beans body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, refreshed skin.
-  Updated: 2025-12-23T17:16:19Z
+  Updated: 2025-12-23T21:35:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -849,7 +849,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Vanilla Sugar Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-vanilla-sugar): Gently exfoliate with Vanilla Sugar body scrub. A whipped, moisturizing salt scrub with jojoba oil for soft, smooth skin.
-  Updated: 2025-12-23T17:16:19Z
+  Updated: 2025-12-23T21:22:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -864,7 +864,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Ocean Breeze Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-ocean-breeze): Clean and refresh your skin with Ocean Breeze body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for everyday softness.
-  Updated: 2025-12-23T17:16:20Z
+  Updated: 2025-12-23T21:10:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Lavender Dream Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/body-scrub-honey-lavender): Relax with Lavender Dream body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for calming, spa-like self-care.
-  Updated: 2025-12-23T17:16:20Z
+  Updated: 2025-12-23T20:38:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1894,7 +1894,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Fresh Linen Original Candle](https://affinatiliving.com/products/fresh-linen-original-candle): Fresh Linen Original Candle – 10 oz Fresh Linen delivers the crisp comfort of freshly washed sheets. Clean, airy notes create a bright and welcoming scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh AirMiddle Notes: Linen, Soft FloralsBase Notes: Clean Musk Perfect for brightening your home and creating a fresh, tidy feel. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-23T17:16:30Z
+  Updated: 2025-12-23T23:51:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5415,7 +5415,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3611488E-F95A-45EC-BB11-64BF5E902185.png?v=1762090678
   Price: $17.95 USD
 - [Toasted Pumpkin Cream Original Candle](https://affinatiliving.com/products/toasted-pumpkin-cream-original-candle): Embrace the cozy aroma of our Toasted Pumpkin Cream Candle. Crafted with a premium soy wax blend, it fills your home with warm pumpkin, vanilla, and toasted spice for a comforting autumn ambiance.
-  Updated: 2025-12-23T16:02:04Z
+  Updated: 2025-12-24T03:58:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6749,7 +6749,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Arctic Cedarwood Original Candle](https://affinatiliving.com/products/arctic-cedarwood-original-candle): Refresh your home with Arctic Cedarwood. Cool cedar, pine, amber, and musk create a clean, invigorating, long-lasting fragrance in this 10 oz soy-blend candle.
-  Updated: 2025-12-23T15:28:12Z
+  Updated: 2025-12-24T00:02:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6885,7 +6885,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Vanilla Chai Original Candle](https://affinatiliving.com/products/vanilla-chai-original-candle): Warm your home with creamy vanilla and chai spice. Our 10 oz Vanilla Chai Candle delivers rich, comforting fragrance with a long, clean burn.
-  Updated: 2025-12-23T15:28:12Z
+  Updated: 2025-12-23T23:54:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7248,7 +7248,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Pineapple Margaritas Original Candle](https://affinatiliving.com/products/pineapple-margaritas-original-candle): Escape to island vibes with our Pineapple Margarita Original Candle. Juicy pineapple, zesty lime, and smooth agave in a clean-burning 10 oz soy wax candle by Affinati.
-  Updated: 2025-12-23T15:28:13Z
+  Updated: 2025-12-24T03:02:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7581,7 +7581,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8196.png?v=1766075243
   Price: $6.95 USD
 - [Black Raspberry Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/black-raspberry-vanilla-body-scrub-64-oz-whipped-salt-scrub): Indulge in Black Raspberry Vanilla body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, soft, beautifully scented skin.
-  Updated: 2025-12-23T15:35:26Z
+  Updated: 2025-12-23T20:34:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7596,7 +7596,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Coconut Dream Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/coconut-dream-body-scrub-64-oz-whipped-salt-scrub): Escape with Coconut Dream body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth, hydrated, beach-ready skin.
-  Updated: 2025-12-23T15:35:40Z
+  Updated: 2025-12-23T21:21:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7611,7 +7611,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Peppermint Swirl Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/peppermint-swirl-body-scrub-64-oz-whipped-salt-scrub): Refresh your skin with Peppermint Swirl body scrub. A whipped salt scrub with jojoba oil that delivers cooling exfoliation and smooth skin.
-  Updated: 2025-12-23T15:35:53Z
+  Updated: 2025-12-23T21:52:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7626,7 +7626,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Cinnamon Swirl Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/cinnamon-swirl-body-scrub-64-oz-whipped-salt-scrub): Warm and exfoliate with Cinnamon Swirl body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for soft, polished skin.
-  Updated: 2025-12-23T15:36:05Z
+  Updated: 2025-12-23T21:35:00Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7641,7 +7641,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Apple Cinnamon Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/apple-cinnamon-body-scrub-64-oz-whipped-salt-scrub): Exfoliate and refresh with Apple Cinnamon body scrub. Whipped bath butter, jojoba oil, and salt exfoliation for soft, glowing skin.
-  Updated: 2025-12-23T15:36:53Z
+  Updated: 2025-12-23T21:14:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7656,7 +7656,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Birthday Cake Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/birthday-cake-body-scrub-64-oz-whipped-salt-scrub): Treat your skin with Birthday Cake body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth, indulgent self-care.
-  Updated: 2025-12-23T15:36:18Z
+  Updated: 2025-12-23T21:09:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7671,7 +7671,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Lavender Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/lavender-vanilla-body-scrub-64-oz-whipped-salt-scrub): Relax with Lavender Vanilla body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and calming everyday exfoliation.
-  Updated: 2025-12-23T15:34:16Z
+  Updated: 2025-12-23T20:38:39Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7686,7 +7686,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Clean Cotton Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/clean-cotton-body-scrub-64-oz-whipped-salt-scrub): Refresh your routine with Clean Cotton body scrub. A whipped salt scrub with jojoba oil for clean, smooth skin and gentle exfoliation.
-  Updated: 2025-12-23T15:34:31Z
+  Updated: 2025-12-23T21:23:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7701,7 +7701,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Strawberry Banana Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/strawberry-banana-body-scrub-64-oz-whipped-salt-scrub): Enjoy sweet exfoliation with Strawberry Banana body scrub. A whipped salt scrub with jojoba oil that leaves skin smooth, soft, and refreshed.
-  Updated: 2025-12-23T15:34:05Z
+  Updated: 2025-12-23T21:58:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7716,7 +7716,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Frosted Gingerbread Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/frosted-gingerbread-body-scrub-64-oz-whipped-salt-scrub): Indulge in Frosted Gingerbread body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and cozy self-care.
-  Updated: 2025-12-23T15:34:45Z
+  Updated: 2025-12-23T21:34:05Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7731,7 +7731,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Rosemary Mint Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/rosemary-mint-body-scrub-64-oz-whipped-salt-scrub): Revitalize your skin with Rosemary Mint body scrub. A whipped, hydrating salt scrub with jojoba oil for fresh, spa-like exfoliation.
-  Updated: 2025-12-23T15:34:59Z
+  Updated: 2025-12-23T21:16:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7746,7 +7746,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Blue Spruce Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/blue-spruce-body-scrub-64-oz-whipped-salt-scrub): Refresh with Blue Spruce body scrub. A whipped salt scrub with jojoba oil for smooth skin and crisp, forest-inspired exfoliation.
-  Updated: 2025-12-23T15:35:13Z
+  Updated: 2025-12-23T21:08:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7761,7 +7761,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Blackberry Sage Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/blackberry-sage-body-scrub-64-oz-whipped-salt-scrub): Exfoliate with Blackberry Sage body scrub. A whipped salt scrub with jojoba oil for smooth skin and a fresh, balanced scent experience.
-  Updated: 2025-12-23T15:32:20Z
+  Updated: 2025-12-23T20:39:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7776,7 +7776,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Hawaiian Hibiscus Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/hawaiian-hibiscus-body-scrub-64-oz-whipped-salt-scrub): Escape with Hawaiian Hibiscus body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a bright tropical feel.
-  Updated: 2025-12-23T15:32:56Z
+  Updated: 2025-12-23T21:57:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7791,7 +7791,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Butterscotch & Bourbon Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/butterscotch-bourbon-body-scrub-64-oz-whipped-salt-scrub): Indulge with Butterscotch & Bourbon body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and rich warmth.
-  Updated: 2025-12-23T15:33:10Z
+  Updated: 2025-12-23T21:33:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7806,7 +7806,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Pina Colada Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pina-colada-body-scrub-64-oz-whipped-salt-scrub): Relax with Pina Colada body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a beachy tropical vibe.
-  Updated: 2025-12-23T15:33:24Z
+  Updated: 2025-12-23T21:21:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7821,7 +7821,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Christmas Tree Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/christmas-tree-body-scrub-64-oz-whipped-salt-scrub): Refresh with Christmas Tree body scrub. A whipped salt scrub with jojoba oil for smooth skin and a crisp, seasonal evergreen scent.
-  Updated: 2025-12-23T15:33:39Z
+  Updated: 2025-12-23T21:15:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7836,7 +7836,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Fruit Fusion Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/fruit-fusion-body-scrub-64-oz-whipped-salt-scrub): Brighten your routine with Fruit Fusion body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth, refreshed skin.
-  Updated: 2025-12-23T15:33:51Z
+  Updated: 2025-12-23T21:09:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7851,7 +7851,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Sandalwood Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/sandalwood-body-scrub-64-oz-whipped-salt-scrub): Unwind with Sandalwood body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and a warm, grounding scent.
-  Updated: 2025-12-23T15:30:49Z
+  Updated: 2025-12-23T20:52:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7866,7 +7866,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Saffron Cedarwood Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/saffron-cedarwood-body-scrub-64-oz-whipped-salt-scrub): Indulge in Saffron Cedarwood body scrub. A whipped salt scrub with jojoba oil for smooth skin and a rich, sophisticated scent.
-  Updated: 2025-12-23T15:31:16Z
+  Updated: 2025-12-23T20:52:05Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7881,7 +7881,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Pumpkin Cheesecake Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pumpkin-cheesecake-body-scrub-64-oz-whipped-salt-scrub): Treat your skin with Pumpkin Cheesecake body scrub. A whipped, hydrating salt scrub with jojoba oil for smooth skin and cozy self-care.
-  Updated: 2025-12-23T15:31:43Z
+  Updated: 2025-12-23T20:51:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7896,7 +7896,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Pumpkin Spice Latte Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/pumpkin-spice-latte-body-scrub-64-oz-whipped-salt-scrub): Cozy up with Pumpkin Spice Latte body scrub. A whipped, moisturizing salt scrub with jojoba oil for smooth skin and fall-inspired exfoliation.
-  Updated: 2025-12-23T15:32:01Z
+  Updated: 2025-12-23T20:51:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7911,7 +7911,7 @@
     Availability: Available
     Price: $49.95 USD
 - [French Vanilla Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/french-vanilla-body-scrub-64-oz-whipped-salt-scrub): Rich and creamy French Vanilla body scrub with whipped texture and exfoliating salts. Gently polishes skin while leaving a warm, comforting scent.
-  Updated: 2025-12-23T15:30:25Z
+  Updated: 2025-12-23T20:45:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7926,7 +7926,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Ivory Woods Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/ivory-woods-body-scrub-64-oz-whipped-salt-scrub): Ivory Woods whipped body scrub with exfoliating salts and a soft, woodsy scent. Gently smooths skin while delivering a clean, elevated fragrance.
-  Updated: 2025-12-23T15:29:50Z
+  Updated: 2025-12-23T20:45:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7941,7 +7941,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Banana Nut Bread Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/banana-nut-bread-body-scrub-64-oz-whipped-salt-scrub): Banana Nut Bread body scrub with whipped texture and exfoliating salts. Gently smooths skin while delivering a warm, bakery-inspired scent.
-  Updated: 2025-12-23T15:29:33Z
+  Updated: 2025-12-23T20:43:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7956,7 +7956,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Lemon Drop Body Scrub 64 oz | Whipped Salt Scrub](https://affinatiliving.com/products/lemon-drop-body-scrub-64-oz-whipped-salt-scrub): Lemon Drop whipped body scrub with exfoliating salts and a fresh citrus scent. Gently polishes skin while delivering a bright, energizing aroma.
-  Updated: 2025-12-23T15:30:07Z
+  Updated: 2025-12-23T20:46:19Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -8035,7 +8035,7 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-23T15:02:21Z
+  Updated: 2025-12-23T20:08:12Z
   Total Products: 342
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-22T12:08:35Z
@@ -8047,11 +8047,11 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
-  Updated: 2025-12-23T11:22:24Z
-  Total Products: 29
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 27
 - [All Sale](https://affinatiliving.com/collections/all-sale)
-  Updated: 2025-12-23T11:22:24Z
-  Total Products: 2
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 0
 - [Body Care on Sale](https://affinatiliving.com/collections/body-care-on-sale)
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
@@ -8065,14 +8065,14 @@
   Updated: 2025-12-23T12:09:21Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-12-23T15:02:21Z
-  Total Products: 118
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 117
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
   Updated: 2025-12-23T12:09:21Z
   Total Products: 136
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-23T12:09:21Z
-  Total Products: 125
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 124
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
   Updated: 2025-12-23T15:02:21Z
   Total Products: 100
@@ -8083,11 +8083,11 @@
   Updated: 2025-12-23T15:02:21Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-23T12:09:21Z
-  Total Products: 140
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 138
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-23T12:09:21Z
-  Total Products: 26
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 24
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
   Updated: 2025-12-21T12:09:37Z
   Total Products: 7
@@ -8104,11 +8104,11 @@
   Updated: 2025-12-23T12:09:21Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-23T12:09:21Z
-  Total Products: 87
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 86
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-23T12:09:21Z
-  Total Products: 50
+  Updated: 2025-12-23T21:03:31Z
+  Total Products: 49
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-12-23T12:09:21Z
   Total Products: 3
