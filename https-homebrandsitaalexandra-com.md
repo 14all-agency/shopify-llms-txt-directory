@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-03T11:00:45Z
 - Contact Email: homebrandsitaalexandraofficial@gmail.com
-- Updated At: 2025-12-20T02:37:25.154Z
+- Updated At: 2025-12-24T00:00:21.676Z
 
 ## Products
 
@@ -1493,7 +1493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/E69D86C4D942D778F5B689BD20280462.jpg?v=1766168734
     Price: £83.83 GBP
 - [Knitted Medium Long Double Sided Vest Skirt Autumn/Winter New Korean Solid Color Sleeveless Versatile Dress](https://homebrandsitaalexandra.com/products/knitted-medium-long-double-sided-vest-skirt-autumn-winter-new-korean-solid-color-sleeveless-versatile-dress): Product attributes:Fabric name: core-spun yarnPattern: solid colorSkirt length: mid-lengthSkirt type: one-step skirtCollar type: V-neckSleeve type: sleevelessSleeve length: sleevelessWaist type: mid-waistMain fabric component: spandexMain fabric component 2: nylonColor: red, black, green, brown, gray, apricot, pink, light purple, orange, rose redSize: S, M, L, XLStyle: casual
-  Updated: 2025-12-19T18:27:47Z
+  Updated: 2025-12-20T06:27:57Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2768,6 +2768,9 @@
     Tags: #HomeBrandsItaLexandra #coupons #GiftVoucher #BestGiftIdea #Shop #sitaalexandra #AffordableLuxury #HomeBrandsOffers #vouchers #QualityShopping, Coupons, HomebrandSitaAlexandra, Vouchers
   - [Top 5 Crescent Shaped Women's Bags to Elevate Your Online Store Purchase](https://homebrandsitaalexandra.com/blogs/news/top-5-crescent-shaped-womens-bags-to-elevate-your-online-store-purchase): Top 5 Crescent Shaped Women's Bags to Elevate Your Online Store Purchase
     Updated: 2025-12-20T02:29:45Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [How Stainless Lipstick Elevates Your Maxi Dress Shopping Experience on HomebrandSitaAlexandra Online Store](https://homebrandsitaalexandra.com/blogs/news/how-stainless-lipstick-elevates-your-maxi-dress-shopping-experience-on-homebrandsitaalexandra-online-store): How Stainless Lipstick Elevates Your Maxi Dress Shopping Experience on HomebrandSitaAlexandra Online Store
+    Updated: 2025-12-22T07:04:34Z
     Author: HomebrandSitaAlexandra Content Manager
 
 ## Store Pages
