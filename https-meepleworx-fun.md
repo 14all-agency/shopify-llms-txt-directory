@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-12-24T03:48:59.305Z
+- Updated At: 2025-12-24T03:50:29.791Z
 
 ## Products
 
@@ -5914,6 +5914,7 @@ LinkedIn: https://linkedin.com/company/meeple-worx-ltd
 YouTube: https://youtube.com/@meepleworx
 TikTok: https://tiktok.com/@meepleworx
 Kit: https://kit.co/meepleworx
+Pinterest: https://pinterest.com/meepleworxltd
 
 ## Optional
 
