@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-12-23T00:00:38.132Z
+- Updated At: 2025-12-24T00:00:37.360Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
