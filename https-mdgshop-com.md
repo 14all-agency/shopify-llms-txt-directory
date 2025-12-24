@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2025-11-18T07:20:00Z
 - Contact Email: marginean.damian1989@gmail.com
-- Updated At: 2025-12-13T00:00:33.704Z
+- Updated At: 2025-12-24T00:00:42.816Z
 
 ## Products
 
@@ -3776,7 +3776,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/4d6nnKPfvE1L8W1z.webp?v=1763660640
   Price: €78.38 EUR
 - [7-in-1 Multifunctional Whistle and Compass Survival Tool](https://mdgshop.com/products/7-in-1-multifunctional-whistle-and-compass-survival-tool): Introducing the ultimate outdoor companion – a seven-in-one multifunctional survival whistle designed for adventurers and outdoor enthusiasts alike. This essential gear not only serves as a whistle but also features a built-in compass, ensuring you never lose your way in the wild. The whistle comes in a stylish army green color and has a compact size, measuring 9.7cm in length and 2.8cm in diameter. Crafted from high-strength ABS material, it is engineered to withstand the harshest conditions, making it both anti-fall and high-temperature resistant. Weighing just 50g, this lightweight whistle is easy to carry on all your outdoor adventures, whether you're camping, hiking, or exploring. Its robust construction ensures durability, giving you peace of mind as you navigate through nature. Equip yourself with this indispensable tool and embrace the great outdoors with confidence!
-  Updated: 2025-11-25T20:59:20Z
+  Updated: 2025-12-17T18:44:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3998,11 +3998,11 @@
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/N3mSPovmYzcFkeyi.webp?v=1763660943
   Price: €36.99 EUR
 - [Batana Oil with Rosemary Hair Growth Serum (1 Bottle)](https://mdgshop.com/products/batana-oil-with-rosemary-hair-growth-serum-1-bottle): Enhance Your Hair's Natural BeautyDiscover the power of Batana Oil infused with Rosemary to transform your hair care routine. This exceptional serum is designed to nourish your scalp and promote healthy hair growth while adding thickness to your strands. Our pure organic Batana Oil not only hydrates but also smoothens your hair, leaving it feeling soft and manageable. Ideal for all hair types, this serum is your go-to solution for achieving that glossy and healthy look.Embrace the natural essence of Batana Oil and give your hair the love it deserves. Whether you want to enhance your hair's thickness or simply maintain its shine, this serum is formulated to meet your needs. Treat yourself to the ultimate hair care experience!
-  Updated: 2025-11-25T20:59:24Z
+  Updated: 2025-12-17T18:46:27Z
   Vendor: MDG
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/d4j5uWm3lL6UgycS.webp?v=1763660947
+  Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/d4j5uWm3lL6UgycS.webp?v=1765997186
   Price: €36.33 EUR
 - [High-Quality Pikachu Plush Folding Pillow (Single Item)](https://mdgshop.com/products/high-quality-pikachu-plush-folding-pillow-single-item): Discover the ultimate companion for every Pokemon fan with our high-quality Pikachu Plush Toy! Measuring an adorable 40*30CM, this plush is not just a toy; it's a versatile folding hold pillow that provides comfort and joy. Made from soft and durable PP cotton, this plush doll is perfect for snuggling during cozy nights or adding a touch of fun to your home decor. Whether you're looking for a thoughtful gift for a friend or simply want to indulge in your love for Pokemon, this plush toy is the ideal choice. Its compact and foldable design makes it easy to store or take along on adventures, ensuring that your plush friend is always by your side. Get ready to embrace the world of Pokemon with this charming plush toy that offers both comfort and cuteness in one delightful package!
   Updated: 2025-11-25T20:59:24Z
@@ -4305,7 +4305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/35fMYhZT2JtOSXqV.webp?v=1763661293
     Price: €97.69 EUR
 - [Men's Casual Hoodie - Trendy Youth Fashion Wear](https://mdgshop.com/products/mens-casual-hoodie-trendy-youth-fashion-wear): Elevate your casual style with our Hooded Sweatshirt, designed for the modern man who values both comfort and fashion. This loose-fitting piece is perfect for leisure activities or a laid-back day out. Made from 90% cotton, this sweatshirt is soft, breathable, and gentle on the skin, ensuring you stay comfortable all day long. Choose from a stunning range of colors including bold Red, classic Black, vibrant Yellow, and soothing Gray. With sizes ranging from S to XXL, there’s a perfect fit for everyone. Whether you’re lounging at home, hitting the gym, or heading out with friends, this sweatshirt will keep you stylish and comfortable. Don’t miss out on adding this versatile piece to your wardrobe. Grab your favorite color and size today and embrace a new level of comfort and style!
-  Updated: 2025-11-25T20:59:26Z
+  Updated: 2025-12-15T16:48:01Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9503,7 +9503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/rhPdm5Kj1FE8Fhc4.webp?v=1763663790
     Price: €71.24 EUR
 - [Men's High-Top Martin Leather Boots - New British Style](https://mdgshop.com/products/mens-high-top-martin-leather-boots-new-british-style): Step up your style game with our High-top Martin Leather Boots, the perfect fusion of classic British design and modern comfort. Crafted for the youth aged 18-40, these boots are tailored for the contemporary man who values both fashion and functionality. Made from premium pig leather, these boots ensure durability while providing a luxurious feel. The rubber sole offers exceptional grip and shock absorption, making them perfect for both urban adventures and casual outings. With a round toe and low square heel, you can count on a comfortable fit without sacrificing style. Available in three versatile colors: black, gray, and sand color, these boots can effortlessly complement any outfit. Choose from sizes 39 to 43 to find the perfect fit for you. The middle tube height and ordinary thickness of the material ensure that you stay comfortable all day long, while the classic car suture detailing adds a touch of sophistication. Whether you’re dressing up for a night out or keeping it casual, these boots are designed to carry you through any occasion. Features: - Premium pig leather upper for durability - Shock-absorbing rubber sole for comfort - Stylish round toe and low square heel - Classic British design with elegant car suture detailing Elevate your footwear collection with the High-top Martin Leather Boots and step confidently into any situation. Don’t miss out on the chance to own a pair of these timeless boots!
-  Updated: 2025-11-25T20:59:36Z
+  Updated: 2025-12-17T14:36:16Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9538,7 +9538,7 @@
     Price: €57.10 EUR
   - [Grey / 39](https://mdgshop.com/products/mens-high-top-martin-leather-boots-new-british-style?variant=51338605855012)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/UmBqV1ch67K2nsgD.webp?v=1763663709
+    Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/UmBqV1ch67K2nsgD.webp?v=1765982175
     Price: €57.10 EUR
   - [Grey / 40](https://mdgshop.com/products/mens-high-top-martin-leather-boots-new-british-style?variant=51338605887780)
     Availability: Available
@@ -11235,7 +11235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/fUYxaAmLmv68hvyl.webp?v=1763672297
     Price: €94.82 EUR
 - [Retro High-Top Casual Tooling Boots for Trendy Look](https://mdgshop.com/products/retro-high-top-casual-tooling-boots-for-trendy-look): Step into the world of stylish comfort with our Retro Trend Tooling Boots. These high-top casual shoes are designed for the modern man who values both fashion and functionality. Crafted from high-quality microfiber, the upper provides durability and a sleek look that stands out in any setting. With a middle opening depth of 7-11CM, these boots ensure a comfortable fit while allowing for easy wear. The round toe shape and flat heel height make them perfect for all-day use, whether you're on the job or out with friends. Available in multiple sizes and colors, including classic brown, khaki, and black, our Retro Trend Tooling Boots cater to every style preference. Each pair features intricate car stitching details that enhance their vintage appeal. These boots not only look good, but they also provide warmth for those cooler days, making them a versatile addition to your footwear collection. Explore our selection and find the perfect fit for you. Elevate your casual style with the Retro Trend Tooling Boots, where comfort meets timeless design!
-  Updated: 2025-11-25T20:59:40Z
+  Updated: 2025-12-16T09:27:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14237,7 +14237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/l026jBpYSng3dVEO.webp?v=1763673834
     Price: €71.77 EUR
 - [Summer Women's Sequined Rhinestone Heels](https://mdgshop.com/products/summer-womens-sequined-rhinestone-heels): Step into the season with our stunning 2023 Summer Collection of fashion-forward women's shoes. Designed with the modern woman in mind, these shoes feature an exquisite sparkling rhinestone embellishment, elevating your style for any occasion. The pointed toe design not only adds a chic touch but also elongates your legs, making these shoes a must-have for your wardrobe. With a comfortable mid-heel height of 6-8CM, you can enjoy a perfect blend of elegance and ease, whether you're heading to the office or enjoying a night out. Available in classic black and vibrant blue, these shoes offer versatility to complement any outfit in your closet. Each pair is crafted for durability and style, suitable for spring, summer, and autumn wear. The solid color patterns ensure they can easily be paired with various ensembles, from casual to formal. Explore our selection of sizes from 34 to 40 to find your perfect fit. Don't miss out on this opportunity to enhance your collection with these fashionable, low-cut shoes. Browse through our images to see how these beauties can transform your look!
-  Updated: 2025-11-25T20:59:49Z
+  Updated: 2025-12-15T17:31:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15567,7 +15567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/jOmmk5GjuooLtoAT.webp?v=1763674065
     Price: €46.61 EUR
 - [Martin Boots, Ankle Boots, Chunky High Heels](https://mdgshop.com/products/martin-boots-ankle-boots-chunky-high-heels): Step into style and comfort with our trendy Martin boots. Crafted from high-quality artificial PU, these boots are designed for the modern woman who values both fashion and function. The thick heel offers a comfortable lift of 6-8CM, making them perfect for any occasion, whether you're heading to work or enjoying a night out. With a chic round toe and a solid color pattern, these boots are versatile enough to pair with any outfit. Available in stunning colors such as red, black, dark brown, and a unique military green, you can express your personal style effortlessly. The wear-resistant rubber sole ensures durability, while the comfortable EVA insole and PU inner lining provide all-day support. Whether it's spring, summer, autumn, or winter, these boots are the perfect addition to your wardrobe. Explore the various sizes available to find your perfect fit. Elevate your shoe game with these fashionable and functional Martin boots!
-  Updated: 2025-11-25T20:59:52Z
+  Updated: 2025-12-15T22:45:51Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18535,7 +18535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/7EzZVMAQSOCHPXPS.webp?v=1763688039
     Price: €76.38 EUR
 - [Women's Lace-Up High Tube Thick Heel Leather Boots](https://mdgshop.com/products/womens-lace-up-high-tube-thick-heel-leather-boots): Step out in style and comfort with our premium Women's Thick Heel Lace Up High Tube Thin Leather Boots. These Martin boots are designed to elevate your footwear game while providing the support you need for all-day wear. Crafted from high-quality artificial PU for a sleek look and durability, the boots feature a thick heel that not only adds height but also stability. The rubber sole ensures excellent traction, making them perfect for any season—be it summer, winter, spring, or autumn. The versatile round toe shape offers a comfortable fit, while the unique rear tie design allows for easy on-and-off wear. Choose from an array of colors, including black short cotton, black long cotton, and black long cylinder sheet, ensuring you find the perfect match for your wardrobe. Available in sizes ranging from 35 to 43, these boots cater to a variety of foot sizes. Whether you're dressing up for a night out or keeping it casual, these boots are the ideal choice for any occasion. Product Features: - Stylish and durable construction - Comfortable thick heel for all-day wear - Secure and easy rear tie closure - Suitable for all seasons Explore our images to see the stunning details of these boots and imagine the endless outfit combinations you can create!
-  Updated: 2025-11-25T20:59:59Z
+  Updated: 2025-12-15T20:13:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -19392,10 +19392,10 @@
   Updated: 2025-11-25T20:59:11Z
   Total Products: 52
 - [Personal Care](https://mdgshop.com/collections/personal-care)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:47:02Z
   Total Products: 16
 - [Outdoor Recreation](https://mdgshop.com/collections/outdoor-recreation)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:44:45Z
   Total Products: 23
 - [Cosmetic & Toiletry Bags](https://mdgshop.com/collections/cosmetic-toiletry-bags)
   Updated: 2025-11-25T20:59:11Z
@@ -19407,13 +19407,13 @@
   Updated: 2025-11-25T20:59:11Z
   Total Products: 38
 - [Baby Gift Sets](https://mdgshop.com/collections/baby-gift-sets)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:23:04Z
   Total Products: 12
 - [Baby Health](https://mdgshop.com/collections/baby-health)
-  Updated: 2025-11-25T20:59:11Z
-  Total Products: 40
+  Updated: 2025-12-17T18:27:25Z
+  Total Products: 39
 - [Baby & Toddler](https://mdgshop.com/collections/baby-toddler)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:14:52Z
   Total Products: 33
 - [Electronics Accessories](https://mdgshop.com/collections/electronics-accessories)
   Updated: 2025-11-25T20:59:11Z
@@ -19422,7 +19422,7 @@
   Updated: 2025-11-25T20:59:11Z
   Total Products: 28
 - [Networking](https://mdgshop.com/collections/networking)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:36:02Z
   Total Products: 11
 - [Health & Beauty](https://mdgshop.com/collections/health-beauty)
   Updated: 2025-11-25T20:59:11Z
@@ -19431,10 +19431,10 @@
   Updated: 2025-11-25T20:59:11Z
   Total Products: 40
 - [Athletics](https://mdgshop.com/collections/athletics)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:06:44Z
   Total Products: 99
 - [Baby Bathing](https://mdgshop.com/collections/baby-bathing)
-  Updated: 2025-11-25T20:59:11Z
+  Updated: 2025-12-17T18:20:05Z
   Total Products: 15
 - [Pleasure & Wellness](https://mdgshop.com/collections/health-care)
   Updated: 2025-11-26T21:28:10Z
@@ -19443,41 +19443,41 @@
   Updated: 2025-11-25T20:59:12Z
   Total Products: 1
 - [Women's Trench Coats - Stylish & Elegant | MDG](https://mdgshop.com/collections/womens-trench-coats): Shop our collection of women's trench coats. Timeless style meets modern elegance. Find your perfect trench coat today.
-  Updated: 2025-11-25T20:59:12Z
+  Updated: 2025-12-17T15:03:45Z
   Total Products: 62
 - [Women's Jackets - Stylish Outerwear Collection | MDG](https://mdgshop.com/collections/womens-jackets): Shop our collection of women's jackets. Versatile styles for every occasion. Find your perfect jacket today at MDG.
-  Updated: 2025-11-26T17:25:37Z
+  Updated: 2025-12-17T14:30:29Z
   Total Products: 88
 - [Women's Shirts - Classic & Modern Styles | MDG](https://mdgshop.com/collections/womens-shirts): Shop our collection of women's shirts. Classic button-downs and modern blouses for every occasion. Quality and style at MDG.
-  Updated: 2025-11-25T23:46:36Z
-  Total Products: 32
+  Updated: 2025-12-17T19:15:04Z
+  Total Products: 34
 - [Women's T-Shirts - Comfortable & Stylish Tees | MDG](https://mdgshop.com/collections/womens-t-shirts): Shop our collection of women's t-shirts. Comfortable basics and trendy graphic tees for everyday style. Quality and comfort at MDG.
-  Updated: 2025-11-28T16:11:19Z
-  Total Products: 30
+  Updated: 2025-12-17T22:19:26Z
+  Total Products: 51
 - [Women's Pants - Versatile Styles & Perfect Fit | MDG](https://mdgshop.com/collections/womens-pants): Shop our collection of women's pants. Tailored trousers, casual styles, and more. Find your perfect fit at MDG.
-  Updated: 2025-11-26T02:54:56Z
-  Total Products: 109
+  Updated: 2025-12-17T14:19:11Z
+  Total Products: 117
 - [Women's Shoes - Heels, Sneakers, Boots & More | MDG](https://mdgshop.com/collections/womens-shoes): Shop our collection of women's shoes. Elegant heels, comfortable sneakers, boots, and more. Find your perfect pair at MDG.
-  Updated: 2025-11-25T20:59:12Z
+  Updated: 2025-12-17T14:56:19Z
   Total Products: 102
 - [Men's Trench Coats - Classic & Sophisticated | MDG](https://mdgshop.com/collections/mens-trench-coats): Shop our collection of men's trench coats. Timeless style meets modern functionality. Find your perfect trench coat at MDG.
-  Updated: 2025-11-25T20:59:12Z
+  Updated: 2025-12-17T15:00:44Z
   Total Products: 25
 - [Men's Jackets - Versatile Styles & Quality | MDG](https://mdgshop.com/collections/mens-jackets): Shop our collection of men's jackets. Rugged outdoor and sleek urban styles for every occasion. Quality and style at MDG.
-  Updated: 2025-11-25T20:59:12Z
-  Total Products: 16
-- [Men's Shirts - Classic & Modern Styles | MDG](https://mdgshop.com/collections/mens-shirts): Shop our collection of men's shirts. Classic dress shirts and casual button-downs for every occasion. Quality and style at MDG.
-  Updated: 2025-11-28T16:11:47Z
+  Updated: 2025-12-17T14:24:17Z
   Total Products: 17
+- [Men's Shirts - Classic & Modern Styles | MDG](https://mdgshop.com/collections/mens-shirts): Shop our collection of men's shirts. Classic dress shirts and casual button-downs for every occasion. Quality and style at MDG.
+  Updated: 2025-12-17T19:10:42Z
+  Total Products: 18
 - [Men's T-Shirts - Comfortable & Stylish Tees | MDG](https://mdgshop.com/collections/mens-t-shirts): Shop our collection of men's t-shirts. Essential basics and bold graphic tees for everyday style. Comfort and quality at MDG.
-  Updated: 2025-11-28T16:10:50Z
-  Total Products: 19
+  Updated: 2025-12-17T22:19:26Z
+  Total Products: 24
 - [Men's Pants - Versatile Styles & Perfect Fit | MDG](https://mdgshop.com/collections/mens-pants): Shop our collection of men's pants. Tailored trousers, casual chinos, and more. Find your perfect fit at MDG.
-  Updated: 2025-11-26T02:33:19Z
-  Total Products: 8
-- [Men's Shoes - Dress Shoes, Sneakers, Boots & More | MDG](https://mdgshop.com/collections/mens-shoes): Shop our collection of men's shoes. Classic dress shoes, casual sneakers, boots, and more. Find your perfect pair at MDG.
-  Updated: 2025-11-25T20:59:12Z
+  Updated: 2025-12-17T14:13:57Z
   Total Products: 39
+- [Men's Shoes - Dress Shoes, Sneakers, Boots & More | MDG](https://mdgshop.com/collections/mens-shoes): Shop our collection of men's shoes. Classic dress shoes, casual sneakers, boots, and more. Find your perfect pair at MDG.
+  Updated: 2025-12-17T14:36:52Z
+  Total Products: 40
 - [Women's Trench Coats - Stylish Outerwear Collection](https://mdgshop.com/collections/womens-trench-coats-1): Shop our collection of women's trench coats. Classic and modern styles for every occasion. Find your perfect outerwear piece today.
   Updated: 2025-11-25T20:59:12Z
   Total Products: 0
@@ -19488,14 +19488,14 @@
   Updated: 2025-11-25T20:59:12Z
   Total Products: 1
 - [Men's T-Shirts - Quality Basics and Stylish Designs](https://mdgshop.com/collections/mens-t-shirts-1): Browse our men's t-shirts collection. Comfortable, durable, and stylish options for your everyday wardrobe.
-  Updated: 2025-11-25T20:59:12Z
-  Total Products: 0
+  Updated: 2025-12-17T18:38:19Z
+  Total Products: 1
 - [Women's Fashion Collection - Shoes, Clothing & Accessories | MDG](https://mdgshop.com/collections/women): Shop our women's collection featuring shoes, boots, jackets, shirts, pants, and more. Quality fashion pieces for every style and occasion.
   Updated: 2025-11-26T01:05:55Z
   Total Products: 3
 - [Men's Fashion Collection - Shoes, Clothing & Accessories | MDG](https://mdgshop.com/collections/men): Shop our men's collection featuring shoes, boots, jackets, shirts, pants, and more. Quality fashion pieces for the modern man.
-  Updated: 2025-11-25T20:59:13Z
-  Total Products: 3
+  Updated: 2025-12-15T16:48:37Z
+  Total Products: 18
 - [Shoes](https://mdgshop.com/collections/shoes)
   Updated: 2025-11-25T20:59:13Z
   Total Products: 0
@@ -19509,14 +19509,14 @@
   Updated: 2025-11-25T20:59:13Z
   Total Products: 0
 - [Pet Supplies - Dog & Cat Accessories, Grooming Tools | MDG](https://mdgshop.com/collections/pet-supplies-main): Shop quality pet supplies including grooming brushes, harnesses, bath tools and more. Essential accessories for your pets at great prices.
-  Updated: 2025-11-25T23:41:40Z
+  Updated: 2025-12-17T18:48:38Z
   Total Products: 36
 - [Toys Collection - Fun & Entertainment | MDG](https://mdgshop.com/collections/toys-87): Browse our diverse toys collection featuring plush toys, activity equipment, and entertainment options for all ages. Quality toys at great prices.
-  Updated: 2025-11-25T20:59:13Z
+  Updated: 2025-12-17T18:51:58Z
   Total Products: 83
 - [Clothing](https://mdgshop.com/collections/clothing)
-  Updated: 2025-11-25T23:46:58Z
-  Total Products: 3
+  Updated: 2025-12-17T19:14:05Z
+  Total Products: 4
 
 ## Blogs
 
@@ -19585,15 +19585,21 @@
   Updated: 2025-11-18T10:24:12Z
 - [Discover MDG](https://mdgshop.com/pages/discover-mdg): At MDG, we are dedicated to providing a curated selection of stylish and functional accessories that cater to the modern woman's fashion needs. Fou...
   Updated: 2025-11-18T21:31:30Z
+- [Refund & Return Policy - MDG](https://mdgshop.com/pages/refund-policy): Return & Refund PolicyAt MDG, we want you to be completely satisfied with your purchase. If for any reason you're not happy with your order, we acc...
+  Updated: 2025-12-13T18:18:43Z
 
 ## Policies
 
 - [Privacy Policy](https://mdgshop.com/policies/privacy-policy)
   Updated: 2025-11-18T07:20:11+00:00
+- [Shipping Policy](https://mdgshop.com/policies/shipping-policy)
+  Updated: 2025-12-18T01:49:29+00:00
 - [Refund Policy](https://mdgshop.com/policies/refund-policy)
-  Updated: 2025-11-25T22:10:39+00:00
+  Updated: 2025-12-18T01:47:33+00:00
 - [Terms of Service](https://mdgshop.com/policies/terms-of-service)
-  Updated: 2025-11-25T22:09:17+00:00
+  Updated: 2025-12-18T01:42:31+00:00
+- [Contact Information](https://mdgshop.com/policies/contact-information)
+  Updated: 2025-12-18T01:32:47+00:00
 
 ## Optional
 
