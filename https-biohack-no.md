@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-02-03T16:18:41Z
 - Contact Email: post@biohack.no
-- Updated At: 2025-12-23T00:00:34.983Z
+- Updated At: 2025-12-24T00:00:34.589Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/Life_Extension_Magnesium_front.webp?v=1760253251
   Price: 229,00 kr NOK
 - [Life Extension BioActive Complex B-vitamin, 60 Kapsler](https://biohack.no/products/bioactive-complex-b-vitamin): Fullspekter B-Vitamin BioActive Complete-B gir en kraftfull blanding av alle åtte essensielle B-vitaminer i biologisk aktive former for optimal helse og energi
-  Updated: 2025-12-21T09:05:16Z
+  Updated: 2025-12-23T08:21:02Z
   Vendor: Life Extension
   Product Type: Bedre Fordøyelse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/Life_Extension_B-complex_front.webp?v=1760332560
   Price: 229,00 kr NOK
 - [Life Extension AMPK – Støtter vekttap & metabolisme 30 tabletter](https://biohack.no/products/life-extension-ampk-metabolisme-aktivator): AMPK Metabolic Activator er designet for å forbrenne fett, særlig rundt midjen. Dette vitenskapelig støttede kosttilskuddet er din allierte i kampen mot magefett og bidrar til sunn cellulær metabolisme og vitalitet.
-  Updated: 2025-12-20T10:16:43Z
+  Updated: 2025-12-23T12:45:27Z
   Vendor: Life Extension
   Product Type: Vektnedgang
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/kapryl.jpg?v=1740556302
   Price: 179,00 kr NOK
 - [Plumping serum med Kollagen 52 ml](https://biohack.no/products/plumping-serum-med-kollagen-52-ml): Advanced Clinicals Collagen Serum er en game-changer i hudpleieindustrien. Dette serumet er designet for å gi umiddelbar plumping og en varig glød, og gjør det til en favoritt blant hudpleieentusiaster.
-  Updated: 2025-12-18T09:29:27Z
+  Updated: 2025-12-23T15:32:24Z
   Vendor: Advanced Clinicals
   Product Type: Anti-aging
   Availability: Available
@@ -130,7 +130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/blalys.webp?v=1761945326
     Price: 599,00 kr NOK
 - [SLEEPHERO Sovebjørner - Norges beste kosttilskudd for søvn?](https://biohack.no/products/sovebjorner-med-melatonin): smakfulle gummibjørner beriket med 1mg melatonin. Disse naturlige søvnhjelperne er perfekte for deg som ønsker å sovne raskere, sove dypere og våkne mer uthvilt
-  Updated: 2025-12-22T07:18:28Z
+  Updated: 2025-12-23T20:40:42Z
   Vendor: SLEEPHERO
   Product Type: Bedre søvn
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/24.webp?v=1740556334
   Price: 479,00 kr NOK
 - [Munntape for bedre søvn og pust – SLEEPHERO (60 strips)](https://biohack.no/products/sleephero-munntape): Forbedre søvnkvaliteten med Sleephero Munntape. Reduser snorking og tørr munn ved å puste gjennom nesen hele natten – våkne uthvilt og klar i hodet.
-  Updated: 2025-12-22T08:17:58Z
+  Updated: 2025-12-23T12:45:27Z
   Vendor: SLEEPHERO
   Product Type: Bedre søvn
   Availability: Available
@@ -211,7 +211,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/California_Gold_Nutrition_LactoBif_30_Probiotics-front.webp?v=1754049288
   Price: 399,00 kr NOK
 - [Biohacker Age Reverse | Anti-Aging med NAD+ og Resveratrol |60 kapsler](https://biohack.no/products/biohacker): Føl deg yngre – hver dag.AGE REVERSE gir deg mer energi, klarere hode og støtter cellefornyelse fra innsiden. Et kraftig anti-aging tilskudd med NAD+ og mye mer
-  Updated: 2025-12-22T22:15:25Z
+  Updated: 2025-12-23T08:21:02Z
   Vendor: Biohacker
   Product Type: Anti-aging
   Availability: Available
@@ -232,7 +232,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/Swanson-ashwagandha-foran.webp?v=1754042736
   Price: 249,00 kr NOK
 - [Biohacker Berberine | 1000 mg | 90 Kapsler | Premium kosttilskudd](https://biohack.no/products/biohacker-berberine): Stabiliser blodsukkeret, støtt hjertet og reduser appetitten med Biohacker Berberine 1000 mg – et naturlig tilskudd for vektnedgang og velvære.
-  Updated: 2025-12-22T22:15:25Z
+  Updated: 2025-12-23T23:45:10Z
   Vendor: Biohacker
   Product Type: Vektnedgang
   Availability: Available
@@ -245,13 +245,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/Hydrogen_water_generator.webp?v=1761930967
   Price: 999,00 kr NOK
-- [California Gold Nutrition Kreatin 750 mg – kraft og ytelse i kapsel](https://biohack.no/products/kreatinkapsler-750mg-california-gold): Kreatinmonohydrat i høydose 750 mg kapsler. Øk styrke og restitusjon med praktiske veganske kapsler fra California Gold Nutrition SPORT.
-  Updated: 2025-12-20T21:49:12Z
-  Vendor: California Gold Nutrition
-  Product Type: Muskelvekst
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/California-gold-nutrition-kreatin-foran.webp?v=1753979452
-  Price: 449,00 kr NOK
 - [L-Theanine AlphaWave® 200mg – Fokus & Avslapning | 60 Kapsler](https://biohack.no/products/l-theanine-gold): Oppnå "Calm Focus" med L-Theanine AlphaWave®. Reduser stress, forbedre søvn og optimaliser effekten av kaffe. 60 veganske kapsler. Bestill hos Biohack.no.
   Updated: 2025-12-21T14:02:08Z
   Vendor: California Gold Nutrition
@@ -295,7 +288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/rodblalysbrille.webp?v=1763817713
     Price: 699,00 kr NOK
 - [NutriBiotic Essential Electrolytes, 100 kaps | Biohack.no](https://biohack.no/products/essential-electrolytes-100-kapsler): Elektrolyttkapsler med vitamin C, natrium, kalium og magnesium. Støtter væskebalanse og muskelfunksjon. Vegan & uten GMO. Rask levering fra Oslo.
-  Updated: 2025-12-16T21:30:25Z
+  Updated: 2025-12-23T08:21:02Z
   Vendor: NutriBiotic
   Product Type: Kosttilskudd
   Availability: Available
@@ -351,7 +344,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/Biohacker_LUX-7ProRodtlyspanel.webp?v=1757685011
   Price: 3 790,00 kr NOK
 - [Biohack™ Red Light Hair Restore Cap – Styrker hodebunn og hår med lys](https://biohack.no/products/red-light-hair-restore-cap): Opplev sterkere og sunnere hår med Biohack™ Red Light Hair Restore Cap. Stimulerer hårsekkene, øker sirkulasjon og reduserer hårtap.
-  Updated: 2025-12-22T21:59:26Z
+  Updated: 2025-12-23T08:21:02Z
   Vendor: Biohack™
   Product Type: rødt-lys
   Availability: Available
@@ -365,85 +358,78 @@
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/rodtlystorch.webp?v=1757953889
   Price: 999,00 kr NOK
 - [Biohacker Magnesium | Premium Fullspektrum (6 stk.) | 300mg | 120 caps](https://biohack.no/products/biohacker-magnesium): Opplev dypere søvn, bedre restitusjon og roligere nervesystem med Biohacker Magnesium. Et norskdesignet premium-tilskudd med 300 mg elementært magnesium.
-  Updated: 2025-12-21T10:23:47Z
+  Updated: 2025-12-23T21:40:52Z
   Vendor: Biohacker
   Product Type: Kosttilskudd
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/bihackerberberinefront.webp?v=1765749664
   Price: 349,00 kr NOK
 - [NOW FOODS Zinc 50 mg (250 kapsler) – Immunforsvar & hud | Vegan, GMP](https://biohack.no/products/zinc-50-mg-250-kapsler): Høydose sink: 50 mg per tablett (glukonat). Støtter immunforsvar, hud/hår/negler og antioksidativ beskyttelse. Vegan, Non-GMO, Kosher/Halal, GMP.
-  Updated: 2025-12-17T17:58:01Z
+  Updated: 2025-12-23T08:21:02Z
   Vendor: NOW
   Product Type: Kosttilskudd
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/NowFoodsZincfront.webp?v=1763282890
   Price: 299,00 kr NOK
-- [Dagslyslampe 10 000 lux – UV-fri & justerbar | Biohack.no](https://biohack.no/products/dagslyslampe-10-000-lux): Kraftig, UV-fri dagslyslampe (10 000 lux) for vinterens mørke. Justerbar fargetemperatur, dimming og timer. Støtter døgnrytmesignaler og fokus. Rask levering.
-  Updated: 2025-12-19T22:19:57Z
-  Vendor: Biohack™
-  Product Type: biohacking utstyr
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/0537/6574/files/BiohackDagslyslampe.webp?v=1763451432
-  Price: 999,00 kr NOK
 
 ## Collections
 
 - [Kosttilskudd for Muskelvekst & Restitusjon | Biohack.no](https://biohack.no/collections/muskelvekst): I denne kategorien finner du kosttilskudd og produkter som støtter muskelvekst, restitusjon og optimal ytelse.
-  Updated: 2025-12-21T12:24:34Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 4
 - [Våre Mest Populære Kosttilskudd | Biohack.no](https://biohack.no/collections/populaere-produkter): Se våre mest populære kosttilskudd og helseprodukter for bedre energi, sunn aldring og helhetlig velvære. La bestselgerne inspirere deg til en sunnere hverdag!
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 12
 - [Life Extension – Avanserte Kosttilskudd | Biohack.no](https://biohack.no/collections/life-extension-1): Life Extension® kosttilskudd – for deg som vil leve lenger og bedre. Klinisk dokumenterte ingredienser for immunforsvar, energi, aldring og mer.
-  Updated: 2025-12-21T12:24:34Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 8
 - [Søvnkosttilskudd for Dyp & Restorativ Hvile | Biohack.no](https://biohack.no/collections/sovn): En god natts søvn er grunnlaget for både fysisk og mental helse. Her finner du produkter som fremmer dyp, gjenopprettende søvn.
   Updated: 2025-12-22T12:24:14Z
   Total Products: 12
 - [Anti-Aging Kosttilskudd for Ungdommelig Helse | Biohack.no](https://biohack.no/collections/anti-aging): Gjør huden og kroppen en tjeneste med våre anti-aging-produkter. Bidrar til å redusere synlige aldringstegn, styrke cellenes funksjon og gir vitalitet over tid
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 21
 - [Kosttilskudd for Fokus & Mental Klarhet | Biohack.no](https://biohack.no/collections/kognitiv-ytelse): Ønsker du bedre fokus, økt konsentrasjon og klarere tanker? Våre produkter for kognitiv ytelse kan bidra til å styrke hukommelsen og skjerpe sinnet.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 15
 - [Kosttilskudd for Vektnedgang & Fettforbrenning | Biohack.no](https://biohack.no/collections/vektnedgang): Verktøy som kan hjelpe med å balansere kaloriinntak og støtte en sunn forbrenning. Kosttilskudd og fettforbrennere kan gjøre veien mot en sunnere vekt enklere.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 12
 - [Kosttilskudd for God Fordøyelse & Tarmhelse | Biohack.no](https://biohack.no/collections/fordoyelse): God fordøyelse er avgjørende for næringsopptak, velvære og energi. Her får dul produkter som probiotika, enzymer og andre verktøy som kan gi en sunn tarmflora.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 20
 - [Kosttilskudd for Mer Energi & Overskudd | Biohack.no](https://biohack.no/collections/energi): Kjemp mot energidupper og hold kroppen i gang gjennom en hektisk hverdag. Under denne kategorien finner du kosttilskudd og biohacking-løsninger som gir energi.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 29
 - [AVADA - Best Sellers](https://biohack.no/collections/avada-best-sellers)
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 73
 - [AVADA Email Marketing - Best Sellers](https://biohack.no/collections/avada-email-marketing-best-sellers)
-  Updated: 2025-12-22T12:24:14Z
-  Total Products: 54
+  Updated: 2025-12-23T12:22:45Z
+  Total Products: 52
 - [AVADA Email Marketing - Newest Products](https://biohack.no/collections/avada-email-marketing-newest-products)
-  Updated: 2025-12-22T12:24:14Z
-  Total Products: 54
+  Updated: 2025-12-23T12:22:45Z
+  Total Products: 52
 - [Kosttilskudd for Biohackere – Naturlig Effekt, Dokumentert Kvalitet](https://biohack.no/collections/kosttilskudd): Ta helsen til neste nivå med vitenskapsbaserte og naturlige kosttilskudd. vi bruker nøye utvalgte ingredienser som støtter kroppens egen evne til å prestere.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 46
 - [Biohacking Utstyr for Optimal Ytelse | Biohack.no](https://biohack.no/collections/biohacking-gadgets): Utforsk fremtidens helseoptimalisering med våre innovative biohacking-gadgets. Fra rødt lys-paneler til munntape og blålysbriller.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 12
 - [Kosttilskudd for Sunn & Glødende Hud | Biohack.no](https://biohack.no/collections/hudpleie): Gi huden din en frisk glød og den omsorgen den fortjener. Våre hudpleieprodukter er spesielt utviklet for å kombinerer naturlige ingredienser med moderne teknologi, slik at du kan føle deg trygg på at du tilfører huden det aller beste. Opplev næringsrike, effektive og bærekraftige løsninger som gir synlige resultater, uten å gå på kompromiss med etikk eller kvalitet.
   Updated: 2025-12-22T12:24:14Z
   Total Products: 12
 - [Mest kjøpt i dag](https://biohack.no/collections/toppselgere)
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 17
 - [Kosttilskudd for Sterkere Immunforsvar | Biohack.no](https://biohack.no/collections/immunforsvar): Styrk immunforsvaret med nøye utvalgte tilskudd som vitamin D, sink og probiotika. Beskytt deg mot hverdagens utfordringer.
-  Updated: 2025-12-21T12:24:34Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 13
 - [Salg på kosttilskudd og biohacking – Biohack.no](https://biohack.no/collections/salg): Gjør et kupp på populære biohacking-produkter! Se våre beste tilbud på kosttilskudd, søvnprodukter, rødtlys og gadgets. Rask levering og trygg handel i Norge.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 25
 - [Biohacking-produkter – Kosttilskudd, søvn og rødlys | Biohack.no](https://biohack.no/collections/alle-produkter): Utforsk alle biohacking-produktene hos Biohack.no. Premium kosttilskudd, søvnprodukter, rødlysterapi og helseteknologi – rask levering fra Norge.
-  Updated: 2025-12-22T12:24:14Z
+  Updated: 2025-12-23T12:22:45Z
   Total Products: 73
 
 ## Blogs
