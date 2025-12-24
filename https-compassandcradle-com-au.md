@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-12-19T00:00:35.402Z
+- Updated At: 2025-12-24T00:00:35.659Z
 
 ## Products
 
@@ -329,7 +329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cray2.jpg?v=1765541852
   Price: $20.00 AUD
 - [Barefoot Barefoot Bandit Terry Towelling Kids Set – Premium Kids Beach Wear](https://compassandcradle.com.au/products/barefoot-bandit-terry-towelling-set-kids-beach-wear): Shop the Barefoot Terry Towelling Kids Shirt & Shorts Set. Oversized, unisex, and soft kids beach wear set. Matching mums cap available, perfect for summer adventures
-  Updated: 2025-12-18T13:40:49Z
+  Updated: 2025-12-21T22:21:06Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -664,11 +664,11 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-12-18T12:23:20Z
+  Updated: 2025-12-22T12:22:00Z
   Total Products: 8
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
-  Updated: 2025-12-18T12:23:20Z
+  Updated: 2025-12-22T12:22:00Z
   Total Products: 5
 - [Beach & Travel Bags](https://compassandcradle.com.au/collections/beach-travel-bags)
   Updated: 2025-12-04T13:51:46Z
@@ -695,10 +695,10 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-12-12T12:21:25Z
   Total Products: 4
 - [New Arrivals](https://compassandcradle.com.au/collections/new-arrivals)
-  Updated: 2025-12-18T12:23:20Z
+  Updated: 2025-12-22T12:22:00Z
   Total Products: 5
 - [AVADA - Best Sellers](https://compassandcradle.com.au/collections/avada-best-sellers)
-  Updated: 2025-12-18T12:23:20Z
+  Updated: 2025-12-22T12:22:00Z
   Total Products: 24
 
 ## Blogs
