@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-24T08:00:37.937Z
+- Updated At: 2025-12-24T12:00:39.705Z
 
 ## Products
 
@@ -3726,7 +3726,7 @@
     Availability: Available
     Price: £29.95 GBP
 - [Vans Stockpile T-Shirt | Dried Kelp Green](https://thevinessupply.co/products/vans-stockpile-t-shirt-dried-kelp-green): Buy the Vans Stockpile T-Shirt in Dried Kelp Green at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-12T10:18:46Z
+  Updated: 2025-12-24T08:39:08Z
   Vendor: Vans
   Product Type: Tees
   Availability: Available
@@ -5248,7 +5248,7 @@
     Availability: Available
     Price: £44.95 GBP
 - [Polar Skate Co Ray Gun T-Shirt | White](https://thevinessupply.co/products/polar-skate-co-ray-t-shirt-white): Buy the Polar Skate Co Ray Gun T-Shirt in White at The Vines, With Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-13T13:27:16Z
+  Updated: 2025-12-24T11:56:46Z
   Vendor: Polar
   Product Type: Tees
   Availability: Available
@@ -5904,21 +5904,6 @@
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-cruise-co-t-shirt-white?variant=56194658042191)
     Availability: Available
     Price: £44.95 GBP
-- [Magenta Skateboards Metro T-Shirt | Auburn](https://thevinessupply.co/products/magenta-skateboards-metro-t-shirt-auburn): Buy the Magenta Skateboards Metro T-Shirt in Autumn at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-11-13T05:20:44Z
-  Vendor: Magenta
-  Product Type: Tees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-tees-magenta-skateboards-metro-t-shirt-auburn-1198751470.jpg?v=1761047516
-  - [Medium](https://thevinessupply.co/products/magenta-skateboards-metro-t-shirt-auburn?variant=56194726756687)
-    Availability: Available
-    Price: £44.95 GBP
-  - [Large](https://thevinessupply.co/products/magenta-skateboards-metro-t-shirt-auburn?variant=56194726789455)
-    Availability: Not Available
-    Price: £44.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-metro-t-shirt-auburn?variant=56194726822223)
-    Availability: Not Available
-    Price: £44.95 GBP
 - [Magenta Skateboards Metro T-Shirt | Natural](https://thevinessupply.co/products/magenta-skateboards-metro-t-shirt-natural): Buy the Magenta Skateboards Metro T-Shirt in Natural at The Vines, with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-07T02:15:47Z
   Vendor: Magenta
@@ -6187,21 +6172,6 @@
   - [34W](https://thevinessupply.co/products/cash-only-logo-baggy-jeans-black?variant=56324803395919)
     Availability: Not Available
     Price: £99.95 GBP
-- [Cash Only Business T-Shirt | White](https://thevinessupply.co/products/cash-only-business-t-shirt-white): Buy the Cash Only Business T-Shirt in White at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-12T23:41:51Z
-  Vendor: Cash Only
-  Product Type: Tees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/cash-only-tees-cash-only-business-t-shirt-white-1202184158.jpg?v=1762199290
-  - [Medium](https://thevinessupply.co/products/cash-only-business-t-shirt-white?variant=56325239669071)
-    Availability: Available
-    Price: £39.95 GBP
-  - [Large](https://thevinessupply.co/products/cash-only-business-t-shirt-white?variant=56325239701839)
-    Availability: Not Available
-    Price: £39.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/cash-only-business-t-shirt-white?variant=56325239734607)
-    Availability: Not Available
-    Price: £39.95 GBP
 - [DC Shoes JS 1 Skate Shoes | White, Black & Red](https://thevinessupply.co/products/dc-shoes-js-1-skate-shoes-white-black-red): Buy the DC Shoes JS 1 Skate Shoes in White, Black and Red at The Vines, with fast, premium delivery & easy returns within 90 days
   Updated: 2025-12-14T18:36:07Z
   Vendor: DC Shoes
