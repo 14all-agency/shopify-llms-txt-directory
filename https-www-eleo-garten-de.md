@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2025-12-24T04:00:25.473Z
+- Updated At: 2025-12-24T08:00:26.529Z
 
 ## Products
 
