@@ -6,14 +6,14 @@
 - Timezone: America/New_York
 - Created At: 2023-09-05T05:49:56Z
 - Contact Email: sales@ultraiser.com
-- Updated At: 2025-12-18T00:00:42.220Z
+- Updated At: 2025-12-24T00:00:42.150Z
 
 The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine designed for home use, focusing on anti-aging and skin smoothing treatments. It is available for purchase online.
 
 ## Products
 
 - [Home use HIFU Device | HIFU Machine Home use | ULTRAISER P1](https://www.ultraiser.com/products/ultraiser-p1-portable-home-use-hifu-device): HIFU ultrasound device for home use: ULTRAISER P1. Home use HIFU Device designed to be used as a HIFU portable machine. The benefit of HIFU without clinic sessions.
-  Updated: 2025-08-03T23:15:03Z
+  Updated: 2025-12-22T15:20:26Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
@@ -58,10 +58,10 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
 ## Collections
 
 - [ULTRAISER](https://www.ultraiser.com/collections/frontpage)
-  Updated: 2025-12-08T12:47:24Z
+  Updated: 2025-12-23T12:34:47Z
   Total Products: 5
 - [Home](https://www.ultraiser.com/collections/home)
-  Updated: 2025-11-29T13:05:25Z
+  Updated: 2025-12-23T12:34:47Z
   Total Products: 2
 
 ## Blogs
