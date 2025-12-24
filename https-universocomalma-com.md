@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2023-06-12T10:44:03Z
 - Contact Email: geral@universocomalma.com
-- Updated At: 2025-12-21T15:27:38.550Z
+- Updated At: 2025-12-24T00:00:24.673Z
 
 ## Products
 
@@ -314,22 +314,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0859/5528/files/o-tarot-moderno-2623482.jpg?v=1765044974
   Price: 27,45 € EUR
-- [Vela do Pedido - Cumprimentos Especiais](https://universocomalma.com/products/vela-do-pedido): Vela do Pedido: acenda esta vela especial para pedidos e intenções! Ideal para energizar os seus desejos, criar um ambiente místico e fortalecer a espiritualidade. Feita com ingredientes naturais, traz harmonia e positividade. Perfeita para rituais e celebrações. Traga luz aos seus sonhos!
-  Updated: 2025-12-06T18:27:06Z
+- [Vela do Pedido Portugal | Vela Ritual Intenções Desejos](https://universocomalma.com/products/vela-do-pedido): Vela do Pedido para rituais e intenções. Energize desejos, crie ambiente místico e fortaleça espiritualidade. Natural. 5,90€
+  Updated: 2025-12-21T19:00:29Z
   Vendor: TM
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0859/5528/files/vela-do-pedido-3581610.jpg?v=1765045625
   Price: 5,90 € EUR
-- [Vela Zé Pelintra - Energia e Proteção](https://universocomalma.com/products/vela-pedido-ze-pelintra): "Vela Pedido Zé Pelintra" é ideal para quem busca proteção e sorte. Com a energia da espiritualidade, esta vela atrai bons fluidos e realização de desejos. Perfeita para rituais e pedidos especiais, leve a luz e a energia positiva para o seu dia a dia. Experimente e sinta a diferença!
-  Updated: 2025-12-06T18:17:18Z
+- [Vela Zé Pelintra Portugal | Proteção Sorte Umbanda](https://universocomalma.com/products/vela-pedido-ze-pelintra): Vela Pedido Zé Pelintra: proteção, sorte e boas energias. Ideal para rituais de Umbanda e pedidos especiais. 2,60€
+  Updated: 2025-12-21T19:00:50Z
   Vendor: Universo com Alma
   Product Type: Espiritualidade
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0859/5528/files/vela-pedido-ze-pelintra-9147058.jpg?v=1765045036
   Price: 2,60 € EUR
-- [Vela do Pedido Pau Santo - Aromaterapia Espiritual](https://universocomalma.com/products/vela-do-pedido-pau-santo): Descubra a "Vela do Pedido - Pau Santo", uma vela aromática que eleva a sua espiritualidade. Com fragrância de Pau Santo, promove a purificação e atração de boas energias. Ideal para rituais e momentos de reflexão. Agite a sua conexão espiritual e faça os seus pedidos com esta vela especial!
-  Updated: 2025-12-06T18:25:07Z
+- [Vela Pau Santo Portugal | Vela Aromática Purificação Espiritual](https://universocomalma.com/products/vela-do-pedido-pau-santo): Vela do Pedido Pau Santo aromática. Purificação, boas energias e conexão espiritual. Fragrância natural. 2,60€
+  Updated: 2025-12-21T19:01:20Z
   Vendor: TM
   Product Type: 
   Availability: Available
@@ -409,8 +409,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0859/5528/files/par-de-velas-de-ouvido-aromaticas-aroma-citrico-de-laranja-7317869.jpg?v=1765044731
   Price: 3,00 € EUR
-- [Cartas de Tarot Rider-Waite em Espanhol](https://universocomalma.com/products/cartas-de-tarot-rider-waite-versao-em-espanhol): Descubra as Cartas de Tarot Rider-Waite na versão em Espanhol. Ideal para quem busca sabedoria e autoconhecimento, este baralho clássico oferece ilustrações vibrantes e significados profundos. Perfeito para iniciantes e praticantes experientes. Encomende já!
-  Updated: 2025-12-06T18:05:24Z
+- [Tarot Rider-Waite Espanhol Portugal | 78 Cartas Clássico](https://universocomalma.com/products/cartas-de-tarot-rider-waite-versao-em-espanhol): Tarot Rider-Waite em Espanhol: baralho clássico com 78 cartas e manual. Ideal para iniciantes e experientes. Ilustrações vibrantes. 8,80€
+  Updated: 2025-12-22T07:19:40Z
   Vendor: Universo com Alma
   Product Type: 
   Availability: Available
@@ -1331,13 +1331,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0859/5528/files/baralho-cigano-36-cartas-com-guia-explicativo-em-portugues-3362626.jpg?v=1765044806
   Price: 11,50 € EUR
-- [Colónia Halley Alfazema 250ml - Fragrância Relaxante](https://universocomalma.com/products/colonia-halley-alfazema-250ml): Colónia Halley Alfazema 250ml - Uma fragrância fresca e relaxante que combina a suavidade da alfazema com notas aromáticas envolventes. Ideal para proporcionar frescor ao longo do dia, esta colónia é perfeita para quem procura um toque de tranquilidade e bem-estar. Sinta o prazer da natureza em cada borrifada!
-  Updated: 2025-12-17T22:13:24Z
-  Vendor: CA
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0761/0859/5528/files/colonia-halley-alfazema-250ml-8875835.jpg?v=1765044848
-  Price: 10,00 € EUR
 - [Iniciação ao Tarot: O Pequeno Grande Livro](https://universocomalma.com/products/o-pequeno-grande-livro-de-iniciacao-ao-tarot): Descubra "O Pequeno Grande Livro de Iniciação ao Tarot", um guia essencial para quem quer explorar o mundo das cartas. Aprenda a interpretar arcanos, desenvolver intuição e usar o tarot para autoconhecimento. Ideal para iniciantes e apaixonados pela arte divinatória!
   Updated: 2025-12-06T18:22:23Z
   Vendor: CA
@@ -1945,13 +1938,13 @@
   Updated: 2025-12-18T02:26:47Z
   Total Products: 28
 - [Recommended products (Seguno)](https://universocomalma.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-20T12:13:45Z
-  Total Products: 758
+  Updated: 2025-12-23T12:14:03Z
+  Total Products: 757
 - [Essências Místicas - Fluidos-Sprays-Extratos de Ervas](https://universocomalma.com/collections/essencias-misticas-fluidos-e-sprays): Explore a nossa coleção exclusiva de fluidos e sprays místicos, criados para elevar a energia ao seu redor. De purificação a proteção, cada frasco contém uma mistura única de ingredientes cuidadosamente selecionados para trazer equilíbrio, positividade e bem-estar. Transforme o ambiente com aromas inspiradores e deixe-se envolver por uma aura de energia positiva. Descubra o poder das essências místicas nesta coleção especial. ✨🌿
   Updated: 2025-12-17T23:55:41Z
   Total Products: 25
 - [Velas Mágicas: Ilumine e Transforme sua Jornada!](https://universocomalma.com/collections/velas-magicas-ilumine-e-transforme-sua-jornada): Apresentamos as Velas Mágicas - uma coleção de luz e transformação que iluminará e energizará a sua jornada! Cada vela é cuidadosamente confeccionada com ingredientes selecionados e carregada com intenções positivas para trazer bênçãos e prosperidade à sua vida. 💫 Vantagens e Benefícios: ✨ Variedade de Intenções: Nossa coleção de Velas Mágicas abrange diversas intenções, desde purificação e proteção até amor, prosperidade e harmonia. 🌿 Feitas com Ingredientes Naturais: Cada vela é confeccionada com ceras e óleos naturais, proporcionando uma queima limpa e segura, além de exalar aromas suaves e revigorantes. 🔮 Rituais e Meditação: As Velas Mágicas são perfeitas para uso em rituais, meditação ou simplesmente para criar um ambiente acolhedor e espiritualmente elevado. Escolha a Vela Mágica que melhor ressoa com as suas necessidades e desejos, acendendo-a com intenções positivas para manifestar seus sonhos e metas. Deixe a magia da chama guiar seus caminhos, trazendo luz e energia para todas as áreas da sua vida. Transforme seus momentos com as Velas Mágicas e descubra o poder e a beleza da energia que elas trazem para a sua jornada de crescimento e realização! 💫✨🕯️🔮
-  Updated: 2025-12-18T12:19:47Z
+  Updated: 2025-12-22T17:26:51Z
   Total Products: 55
 - [Pureza e Renovação: Coleção de Sabonetes para Limpeza Energética e Espiritual!](https://universocomalma.com/collections/pureza-e-renovacao-colecao-de-sabonetes-para-limpeza-energetica-e-espiritual): Apresentamos com orgulho a nossa exclusiva "Coleção de Sabonetes para Limpeza Energética e Espiritual" - uma combinação perfeita de pureza e renovação para o seu corpo e alma. 💫 Vantagens e Benefícios: ✨ Energia Revitalizante: Cada sabonete é formulado com ingredientes naturais cuidadosamente selecionados, projetados para revitalizar e recarregar suas energias. 🌿 Limpeza Profunda: Através da espuma delicada e rica, os sabonetes removem suavemente as impurezas físicas e energéticas, deixando você com uma sensação de leveza e frescor. 🔮 Purificação Espiritual: Enriquecidos com extratos e óleos essenciais, nossos sabonetes ajudam a limpar e purificar sua aura, liberando bloqueios e promovendo um equilíbrio interior. Escolha entre a variedade de fragrâncias revigorantes e sinta a energia positiva envolvendo todo o seu ser durante o banho. Cada sabonete é uma experiência sensorial única, projetada para elevar a sua vibração e conectar-se com sua essência mais profunda. Faça da limpeza diária uma jornada espiritual com a "Coleção de Sabonetes para Limpeza Energética e Espiritual", e permita que a harmonia e a serenidade guiem o seu caminho rumo à renovação e bem-estar. 💫✨🛁🔮
   Updated: 2025-12-18T12:19:47Z
@@ -1963,8 +1956,8 @@
   Updated: 2025-12-06T18:02:28Z
   Total Products: 28
 - [Coleção Mágica de Tarot & Oráculos : Desvende o Universo Interior 🔮✨](https://universocomalma.com/collections/colecao-magica-de-tarot-oraculos-desvende-o-universo-interior): Explore o mundo fascinante da nossa Coleção Mágica de Tarot & Oráculos. Cada baralho é uma porta para desvendar os mistérios do seu universo interior. Deixe-se guiar pelas cartas e mergulhe nas mensagens intuitivas que o ajudarão a encontrar clareza, orientação e inspiração em todas as áreas da sua vida. Esta coleção é uma jornada para descobrir novas perspectivas e conexões profundas. Escolha o seu baralho favorito e comece a explorar o que o destino tem reservado para si. 🔮✨
-  Updated: 2025-12-18T12:19:47Z
-  Total Products: 67
+  Updated: 2025-12-21T19:19:37Z
+  Total Products: 66
 - [✨ Acessórios de Aromaterapia: Encontre o Seu Equilíbrio ✨](https://universocomalma.com/collections/acessorios-de-aromaterapia-encontre-o-seu-equilibrio): Explore a nossa coleção de acessórios de aromaterapia e mergulhe no mundo do bem-estar total. De difusores de óleos essenciais elegantes a joias aromáticas e muito mais, descubra maneiras únicas de elevar o seu equilíbrio e harmonia diários. Encontre o complemento perfeito para a sua jornada de bem-estar! 💆‍♀️🌿💎
   Updated: 2025-12-06T18:03:12Z
   Total Products: 3
@@ -2011,13 +2004,13 @@
   Updated: 2025-12-18T12:19:47Z
   Total Products: 12
 - [Smart Products Filter Index - Do not delete](https://universocomalma.com/collections/smart-products-filter-index-do-not-delete)
-  Updated: 2025-12-20T12:13:45Z
+  Updated: 2025-12-23T12:14:03Z
   Total Products: 894
 - [Gráficos de Radiestesia Exclusivos - Universo com Alma](https://universocomalma.com/collections/graficos-de-radiestesia-exclusivos-universo-com-alma): "Gráficos de radiestesia em madeira MDF, exclusivos da Universo com Alma, criados para práticas de equilíbrio energético com qualidade e precisão." Detalhes:Estes gráficos exclusivos da Universo com Alma são cuidadosamente gravados a laser em madeira MDF, garantindo durabilidade e um acabamento detalhado para cada prática espiritual. Com 15cm x 15cm e 5mm de espessura, são ideais para uso profissional ou pessoal em radiestesia. Disponível para revenda em condições especiais, esta coleção é uma mais-valia para quem busca autenticidade e qualidade nas suas práticas. Esta descrição destaca a exclusividade dos gráficos e a sua qualidade superior, reforçando a coleção como uma escolha ideal para práticas de radiestesia.
   Updated: 2025-12-06T18:02:40Z
   Total Products: 0
 - [Velas](https://universocomalma.com/collections/velas)
-  Updated: 2025-12-18T12:19:47Z
+  Updated: 2025-12-22T17:26:51Z
   Total Products: 22
 - [Imagens](https://universocomalma.com/collections/imagens): Estatuas de Orixás e entidades
   Updated: 2025-12-20T12:13:45Z
@@ -2044,10 +2037,10 @@
   Updated: 2025-11-19T15:39:11Z
   Total Products: 17
 - [Fluidos para veículos de alta qualidade](https://universocomalma.com/collections/fluidos): Encontre fluidos para veículos de alta qualidade. Descubra nossa linha de produtos para melhor desempenho e durabilidade.
-  Updated: 2025-12-17T23:55:41Z
+  Updated: 2025-12-21T18:40:50Z
   Total Products: 9
 - [Sprays e Vaporizadores Online](https://universocomalma.com/collections/sprays-e-vaporizadores): Faça suas compras de sprays e vaporizadores online e encontre uma variedade incrível de produtos para todas as suas necessidades.
-  Updated: 2025-11-25T12:18:01Z
+  Updated: 2025-12-21T18:40:50Z
   Total Products: 20
 - [Extrato de Ervas Naturais - Benefícios e Usos](https://universocomalma.com/collections/extrato-de-ervas): Explore os benefícios do extrato de ervas naturais para saúde e bem-estar. Encontre os melhores produtos no nosso site.
   Updated: 2025-12-18T02:24:29Z
@@ -2113,7 +2106,7 @@
   Updated: 2025-11-18T15:13:20Z
   Total Products: 6
 - [Ervas Ritualizadas](https://universocomalma.com/collections/ervas-ritualizadas)
-  Updated: 2025-12-18T01:03:54Z
+  Updated: 2025-12-23T12:14:03Z
   Total Products: 5
 - [Banho de Ervas](https://universocomalma.com/collections/banho-de-ervas)
   Updated: 2025-12-18T12:19:47Z
@@ -2122,10 +2115,10 @@
   Updated: 2025-09-24T11:14:37Z
   Total Products: 5
 - [Defumação](https://universocomalma.com/collections/defumacao): Explore a nossa seleção de produtos para defumação, criados para limpar e purificar o seu espaço de energias negativas. De incensos de ervas a resinas aromáticas, cada item foi escolhido para criar uma atmosfera de renovação espiritual. Descubra como a defumação pode revitalizar o ambiente e elevar a sua espiritualidade. Deixe-se envolver pelo aroma sagrado e pela sensação de clareza que a defumação oferece. Venha explorar as opções que temos para oferecer e convide a purificação para a sua vida. 🌿🌬️🌌
-  Updated: 2025-12-18T12:19:47Z
+  Updated: 2025-12-23T12:14:03Z
   Total Products: 37
 - [Objetos & Utensílios](https://universocomalma.com/collections/objetos-utensilios)
-  Updated: 2025-11-24T20:33:30Z
+  Updated: 2025-12-23T12:14:03Z
   Total Products: 20
 - [Tochas](https://universocomalma.com/collections/tochas)
   Updated: 2025-11-18T16:59:55Z
@@ -2134,7 +2127,7 @@
   Updated: 2025-12-18T12:19:47Z
   Total Products: 1
 - [Pó & Ervas](https://universocomalma.com/collections/po-ervas)
-  Updated: 2025-12-18T12:19:47Z
+  Updated: 2025-12-23T12:14:03Z
   Total Products: 20
 - [Sal dos Himalaias](https://universocomalma.com/collections/sal-dos-himalaias)
   Updated: 2025-11-18T13:47:21Z
@@ -2146,7 +2139,7 @@
   Updated: 2025-09-04T14:11:20Z
   Total Products: 0
 - [Comprar Mesas Radionicas Online](https://universocomalma.com/collections/mesas-radionicas): Explore e compre mesas radionicas de qualidade para equilibrar e harmonizar energia. Descubra opções únicas e eficientes para suas necessidades.
-  Updated: 2025-12-12T12:18:09Z
+  Updated: 2025-12-22T12:14:22Z
   Total Products: 7
 - [Kit's Rituais](https://universocomalma.com/collections/kits-para-rituais)
   Updated: 2025-12-18T11:56:33Z
@@ -2182,7 +2175,7 @@
   Updated: 2025-12-18T11:56:33Z
   Total Products: 24
 - [Black Friday até 70% - Universo com Alma | Produtos Espirituais](https://universocomalma.com/collections/colecoes-black-friday-70): Black Friday no Universo com Alma! Até 70% desconto em cristais, incensos, velas e tarot. Promoções limitadas. Envio grátis >€50 PT/ES.
-  Updated: 2025-12-18T12:19:47Z
+  Updated: 2025-12-23T12:14:03Z
   Total Products: 162
 - [Cristais Únicos e Exclusivos – Universo com Alma](https://universocomalma.com/collections/collections-pecas-unicas-cristais): Peças únicas em cristais, selecionadas com intenção e amor. Encontra o cristal certo para ti e transforma a energia da tua casa.
   Updated: 2025-11-20T09:15:43Z
@@ -2200,7 +2193,7 @@
   Updated: 2025-12-06T18:02:18Z
   Total Products: 5
 - [Mesas Radionicas](https://universocomalma.com/collections/mesas-radionicas-1)
-  Updated: 2025-12-12T12:18:09Z
+  Updated: 2025-12-22T12:14:22Z
   Total Products: 7
 
 ## Blogs
@@ -2260,7 +2253,7 @@
 - [Privacy Policy](https://universocomalma.com/policies/privacy-policy)
   Updated: 2024-05-21T12:49:27+01:00
 - [Shipping Policy](https://universocomalma.com/policies/shipping-policy)
-  Updated: 2025-09-04T13:30:14+01:00
+  Updated: 2025-12-21T15:35:22+00:00
 - [Refund Policy](https://universocomalma.com/policies/refund-policy)
   Updated: 2024-10-28T13:58:00+00:00
 - [Terms of Service](https://universocomalma.com/policies/terms-of-service)
