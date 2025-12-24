@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-24T12:00:39.705Z
+- Updated At: 2025-12-24T16:00:38.486Z
 
 ## Products
 
@@ -472,7 +472,7 @@
     Availability: Available
     Price: £42.95 GBP
 - [Birdhouse Stage 1 Hawk Spiral Complete Skateboard | 7.75"](https://thevinessupply.co/products/birdhouse-stage-1-hawk-spiral-complete-skateboard-7-75): Buy the Birdhouse Stage 1 Hawk Spiral Complete Skateboard in 7.75" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-12T13:47:31Z
+  Updated: 2025-12-24T14:23:06Z
   Vendor: Birdhouse
   Product Type: Completes
   Availability: Available
@@ -1523,21 +1523,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-robe-pink-medium-srf-dry-towel-surf-dry-changing-robe-surf-swim-triathlon-hooded-poncho-1183719244.png?v=1757242094
     Price: £21.95 GBP
-- [Bronze 56K Poker T-Shirt | Heather Grey](https://thevinessupply.co/products/bronze-56k-poker-t-shirt-heather-grey): Buy the Bronze 56K Poker T-Shirt in Heather Grey in The Vines. Shop Bronze hardware and garms with fast, free delivery and bets prices at www.thevinessupply.co
-  Updated: 2025-08-17T19:30:24Z
-  Vendor: Bronze 56K
-  Product Type: Tees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/bronze-56k-tees-bronze-56k-poker-t-shirt-heather-grey-1183718996.png?v=1757238000
-  - [Medium / Grey](https://thevinessupply.co/products/bronze-56k-poker-t-shirt-heather-grey?variant=49310687330639)
-    Availability: Available
-    Price: £19.95 GBP
-  - [Large / Grey](https://thevinessupply.co/products/bronze-56k-poker-t-shirt-heather-grey?variant=49310687363407)
-    Availability: Not Available
-    Price: £19.95 GBP
-  - [Extra Large / Grey](https://thevinessupply.co/products/bronze-56k-poker-t-shirt-heather-grey?variant=49310687396175)
-    Availability: Not Available
-    Price: £19.95 GBP
 - [Adidas Skateboarding Tyshawn Low Pro Skate Shoes | Carbon Grey & Grey Five](https://thevinessupply.co/products/adidas-skateboarding-tyshawn-low-pro-skate-shoes-carbon-grey-grey-five): Buy the Adidas Tyshawn Low in Carbon Grey at The Vine online skate shop UK. Get best prices and fast, free delivery at www.thevinessupply.co
   Updated: 2025-09-18T11:05:32Z
   Vendor: Adidas Skateboarding
@@ -1769,13 +1754,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/pass-port-badges-pass-port-dine-em-pin-badge-1183717099.png?v=1757213167
   Price: £3.95 GBP
-- [Dime MTL Cursive Fold Beanie | Black](https://thevinessupply.co/products/dime-mtl-cursive-fold-beanie-black): Buy the Dime MTL Cursive Fold Beanie in black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-22T16:19:51Z
-  Vendor: Dime MTL
-  Product Type: Beanies
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-beanies-dime-mtl-cursive-fold-beanie-black-1183717097.png?v=1757213161
-  Price: £34.95 GBP
 - [Pepsi Max Lime](https://thevinessupply.co/products/pepsi-max-lime)
   Updated: 2025-08-13T02:52:56Z
   Vendor: Pepsi
@@ -1940,7 +1918,7 @@
     Availability: Available
     Price: £15.95 GBP
 - [Dime MTL Polar Fleece Sherpa Zip | Black](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-black): Buy the Dime MTL Polar Fleece Sherpa Zip in Black at The Vines, with fast, premium delivery and 90 day returns.
-  Updated: 2025-12-20T22:51:56Z
+  Updated: 2025-12-24T13:53:52Z
   Vendor: Dime MTL
   Product Type: Fleece
   Availability: Available
@@ -2430,23 +2408,23 @@
     Availability: Not Available
     Price: £49.95 GBP
 - [Magenta Skateboards Blossom T-Shirt | Black](https://thevinessupply.co/products/magenta-skateboards-blossom-t-shirt-black): Buy the Magenta Skateboards Dojo T-Shirt in Black at The Vines, wth fast, premium delivery and easy returns.
-  Updated: 2025-09-24T13:35:33Z
+  Updated: 2025-12-24T14:51:47Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-tees-magenta-skateboards-blossom-t-shirt-black-1183715766.png?v=1757182810
   - [Small](https://thevinessupply.co/products/magenta-skateboards-blossom-t-shirt-black?variant=54579461095759)
     Availability: Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
   - [Medium](https://thevinessupply.co/products/magenta-skateboards-blossom-t-shirt-black?variant=54579461030223)
     Availability: Not Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-blossom-t-shirt-black?variant=54579461062991)
     Availability: Not Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-blossom-t-shirt-black?variant=54579516571983)
     Availability: Not Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
 - [Magenta Skateboards Reversible Flap Hat | Natural & Black](https://thevinessupply.co/products/magenta-skateboards-reversible-flap-hat-natural-black): Buy the Magenta Skateboards Reversible Flap Hat in Natural & Black from The Vines, with premium, fast delivery & easy returns.
   Updated: 2025-09-26T04:53:14Z
   Vendor: Magenta
@@ -2601,27 +2579,6 @@
   - [36W](https://thevinessupply.co/products/butter-goods-weathergear-denim-shorts-faded-black?variant=54857221538127)
     Availability: Not Available
     Price: £41.95 GBP
-- [New Balance Numeric 1010 NM1010BN Tiago Lemos Skate Shoes | Brown & Black](https://thevinessupply.co/products/new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black): Buy the New Balance 1010 Numeric Tiago Lemos 1010 Skate Shoes in Brown & Black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-09-18T08:59:25Z
-  Vendor: New Balance Numeric
-  Product Type: Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/new-balance-numeric-shoes-new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black-1183715354.png?v=1757173573
-  - [UK 7](https://thevinessupply.co/products/new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black?variant=54965878489423)
-    Availability: Available
-    Price: £59.95 GBP
-  - [UK 8](https://thevinessupply.co/products/new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black?variant=54965878522191)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 9](https://thevinessupply.co/products/new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black?variant=54965878554959)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 10](https://thevinessupply.co/products/new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black?variant=54965878587727)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 11](https://thevinessupply.co/products/new-balance-numeric-1010-nm1010bn-tiago-lemos-skate-shoes-brown-black?variant=54965878620495)
-    Availability: Not Available
-    Price: £59.95 GBP
 - [Butter Goods Equipment Rubber Key Chain | Black](https://thevinessupply.co/products/butter-goods-equipment-rubber-key-chain-black): Buy the Butter Goods Equipment Rubber Key Chain in Black at The Vines, with fast, premium delivery and easy returns.
   Updated: 2025-09-05T22:47:29Z
   Vendor: Butter Goods
@@ -2812,14 +2769,11 @@
     Availability: Not Available
     Price: £89.95 GBP
 - [Helas Bad Hoodie | Black](https://thevinessupply.co/products/helas-bad-hoodie-black): Buy the Helas Bad Hoodie in Black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-09-20T12:05:30Z
+  Updated: 2025-12-24T15:10:48Z
   Vendor: Helas
   Product Type: Hoodies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-hoodies-helas-bad-hoodie-black-1183714900.png?v=1757166616
-  - [Small](https://thevinessupply.co/products/helas-bad-hoodie-black?variant=55299909681487)
-    Availability: Not Available
-    Price: £69.95 GBP
   - [Medium](https://thevinessupply.co/products/helas-bad-hoodie-black?variant=55299767796047)
     Availability: Not Available
     Price: £69.95 GBP
@@ -3278,41 +3232,41 @@
     Availability: Available
     Price: £34.95 GBP
 - [Magenta Skateboards Plant T-Shirt | Burgundy](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-burgundy): Buy the Magenta Skateboards Plant T-Shirt in Burgundy at The Vines, with Fast, Premium Delivery and Easy Returns.
-  Updated: 2025-12-23T13:53:46Z
+  Updated: 2025-12-24T15:03:19Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-tees-magenta-skateboards-plant-t-shirt-burgundy-1183714494.png?v=1757157134
   - [Small](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-burgundy?variant=55662356070735)
     Availability: Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
   - [Medium](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-burgundy?variant=55662356103503)
     Availability: Not Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-burgundy?variant=55662356136271)
     Availability: Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-burgundy?variant=55662356169039)
     Availability: Not Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
 - [Magenta Skateboards Plant T-Shirt | Graphite](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-graphite): Buy the Magenta Skateboards Plant T-Shirt in Graphite at The Vines, with Fast, Premium Delivery and Easy Returns.
-  Updated: 2025-10-16T13:24:35Z
+  Updated: 2025-12-24T15:02:38Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-tees-magenta-skateboards-plant-t-shirt-graphite-1183714489.png?v=1757157021
   - [Small](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-graphite?variant=55662379761999)
     Availability: Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
   - [Medium](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-graphite?variant=55662379794767)
     Availability: Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-graphite?variant=55662379827535)
     Availability: Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-graphite?variant=55662379860303)
     Availability: Available
-    Price: £34.95 GBP
+    Price: £27.95 GBP
 - [Magenta Skateboards Nick Jensen Guest Artist T-Shirt | Black](https://thevinessupply.co/products/magenta-skateboards-nick-jensen-guest-artist-t-shirt-black): Buy the Magenta Skateboards Nick Jensen Guest Artist T-Shirt in Black at The Vines, with Fast, Premium Delivery and Easy Returns.
   Updated: 2025-09-24T22:25:18Z
   Vendor: Magenta
@@ -3387,7 +3341,7 @@
     Availability: Not Available
     Price: £44.95 GBP
 - [Magenta Skateboards Migration T-Shirt | Heather Grey](https://thevinessupply.co/products/magenta-skateboards-migration-t-shirt-heather-grey): Buy the Magenta Skateboards Migration T-Shirt in Heather Grey at The Vines, with Fast, Premium Delivery and Easy Returns.
-  Updated: 2025-11-07T09:06:07Z
+  Updated: 2025-12-24T14:36:11Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
@@ -3399,7 +3353,7 @@
     Availability: Not Available
     Price: £44.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-migration-t-shirt-heather-grey?variant=55666417107279)
-    Availability: Available
+    Availability: Not Available
     Price: £44.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-migration-t-shirt-heather-grey?variant=55666417140047)
     Availability: Available
@@ -3441,20 +3395,20 @@
     Availability: Available
     Price: £69.95 GBP
 - [Magenta Skateboards Slack Pants | Beige](https://thevinessupply.co/products/magenta-skateboards-slack-pants-beige): Buy the Magenta Skateboard Slack Pants in Beige at The Vines, with Fast, Premium Delivery and Easy Returns.
-  Updated: 2025-10-16T13:25:03Z
+  Updated: 2025-12-24T15:14:04Z
   Vendor: Magenta
   Product Type: Trousers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-trousers-magenta-skateboards-slack-pants-beige-1183714359.png?v=1757155207
   - [Extra Small](https://thevinessupply.co/products/magenta-skateboards-slack-pants-beige?variant=55666986352975)
     Availability: Available
-    Price: £74.95 GBP
+    Price: £49.95 GBP
   - [Small](https://thevinessupply.co/products/magenta-skateboards-slack-pants-beige?variant=55666986385743)
     Availability: Available
-    Price: £74.95 GBP
+    Price: £49.95 GBP
   - [Medium](https://thevinessupply.co/products/magenta-skateboards-slack-pants-beige?variant=55666986418511)
     Availability: Available
-    Price: £74.95 GBP
+    Price: £49.95 GBP
 - [Spitfire Formula Four Conical 99A Atlantic Drift Skateboard Wheels | 56mm](https://thevinessupply.co/products/spitfire-formula-four-conical-99a-atlantic-drift-skateboard-wheels-56mm): Buy the Spitfire Formula Four Conical 99A Atlantic Drift Skateboard Wheels in 56mm at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-09-24T23:05:04Z
   Vendor: Spitfire Wheels
@@ -3708,13 +3662,13 @@
     Availability: Not Available
     Price: £89.95 GBP
 - [Vans Grown From The Ground T-Shirt | White](https://thevinessupply.co/products/vans-grown-from-the-ground-t-shirt-white): Buy the Vans Grown From The Ground T-Shirt in White at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-09-24T22:06:41Z
+  Updated: 2025-12-24T12:28:06Z
   Vendor: Vans
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/vans-tees-vans-grown-from-the-ground-t-shirt-white-1191624133.png?v=1757447536
   - [Small](https://thevinessupply.co/products/vans-grown-from-the-ground-t-shirt-white?variant=55861562409295)
-    Availability: Available
+    Availability: Not Available
     Price: £29.95 GBP
   - [Medium](https://thevinessupply.co/products/vans-grown-from-the-ground-t-shirt-white?variant=55861562442063)
     Availability: Available
@@ -3743,24 +3697,6 @@
   - [Extra Large](https://thevinessupply.co/products/vans-stockpile-t-shirt-dried-kelp-green?variant=55861589967183)
     Availability: Not Available
     Price: £34.95 GBP
-- [Dime MTL Polar Fleece Sherpa Zip | Mocha](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-mocha): Buy the Dime MTL Polar Fleece Sherpa Zip in Brown at The Vines, with fast, premium delivery and 90 day returns.
-  Updated: 2025-10-18T11:58:15Z
-  Vendor: Dime MTL
-  Product Type: Fleece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-fleece-dime-mtl-polar-fleece-sherpa-zip-mocha-1191566607.png?v=1757445373
-  - [Small](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-mocha?variant=55866624770383)
-    Availability: Not Available
-    Price: £129.95 GBP
-  - [Medium](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-mocha?variant=55866624803151)
-    Availability: Not Available
-    Price: £129.95 GBP
-  - [Large](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-mocha?variant=55866624835919)
-    Availability: Not Available
-    Price: £129.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-mocha?variant=55866624868687)
-    Availability: Available
-    Price: £129.95 GBP
 - [Dime MTL Glyph T-Shirt | White](https://thevinessupply.co/products/dime-mtl-glyph-t-shirt-white): Buy the Dime MTL Glyph T-Shirt in White at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
   Updated: 2025-09-24T22:06:44Z
   Vendor: Dime MTL
@@ -3795,23 +3731,23 @@
     Availability: Available
     Price: £99.95 GBP
 - [Dime MTL Classic Decoy Hoodie | Heather Grey](https://thevinessupply.co/products/dime-mtl-classic-decoy-hoodie-heather-grey): Buy the Dime MTL Classic Decoy Logo Hoodie in Heather Grey at The Vines, with fast, premium delivery and 90 day returns available.
-  Updated: 2025-11-03T13:46:40Z
+  Updated: 2025-12-24T15:09:41Z
   Vendor: Dime MTL
   Product Type: Hoodies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-hoodies-dime-mtl-classic-decoy-hoodie-heather-grey-1191652649.png?v=1757447650
   - [Small](https://thevinessupply.co/products/dime-mtl-classic-decoy-hoodie-heather-grey?variant=55878839042383)
     Availability: Available
-    Price: £104.95 GBP
+    Price: £84.95 GBP
   - [Medium](https://thevinessupply.co/products/dime-mtl-classic-decoy-hoodie-heather-grey?variant=55878839075151)
     Availability: Available
-    Price: £104.95 GBP
+    Price: £84.95 GBP
   - [Large](https://thevinessupply.co/products/dime-mtl-classic-decoy-hoodie-heather-grey?variant=55878839107919)
     Availability: Available
-    Price: £104.95 GBP
+    Price: £84.95 GBP
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-classic-decoy-hoodie-heather-grey?variant=55878839140687)
     Availability: Available
-    Price: £104.95 GBP
+    Price: £84.95 GBP
 - [Dime MTL Classic Decoy T-Shirt | White](https://thevinessupply.co/products/dime-mtl-classic-decoy-t-shirt-white): Buy the Dime MTL Classic Decoy T-Shirt in White at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
   Updated: 2025-12-18T23:56:31Z
   Vendor: Dime MTL
@@ -3831,7 +3767,7 @@
     Availability: Not Available
     Price: £39.95 GBP
 - [Dime MTL Classic Decoy T-Shirt | Black](https://thevinessupply.co/products/dime-mtl-classic-decoy-t-shirt-black): Buy the Dime MTL Classic Decoy Tee in black at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
-  Updated: 2025-11-11T13:16:27Z
+  Updated: 2025-12-24T13:53:51Z
   Vendor: Dime MTL
   Product Type: Tees
   Availability: Available
@@ -3840,7 +3776,7 @@
     Availability: Not Available
     Price: £39.95 GBP
   - [Medium](https://thevinessupply.co/products/dime-mtl-classic-decoy-t-shirt-black?variant=55878866370895)
-    Availability: Available
+    Availability: Not Available
     Price: £39.95 GBP
   - [Large](https://thevinessupply.co/products/dime-mtl-classic-decoy-t-shirt-black?variant=55878866403663)
     Availability: Available
@@ -3867,23 +3803,20 @@
     Availability: Available
     Price: £39.95 GBP
 - [Dime MTL Vortex T-Shirt | Cream](https://thevinessupply.co/products/dime-mtl-vortex-t-shirt-cream): Buy the Dime MTL Vortex T-Shirt in cream at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
-  Updated: 2025-09-24T22:06:33Z
+  Updated: 2025-12-24T15:01:22Z
   Vendor: Dime MTL
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-tees-dime-mtl-vortex-t-shirt-cream-1191658177.png?v=1757447887
-  - [Small](https://thevinessupply.co/products/dime-mtl-vortex-t-shirt-cream?variant=55878897762639)
-    Availability: Not Available
-    Price: £39.95 GBP
   - [Medium](https://thevinessupply.co/products/dime-mtl-vortex-t-shirt-cream?variant=55878897795407)
     Availability: Available
-    Price: £39.95 GBP
+    Price: £27.95 GBP
   - [Large](https://thevinessupply.co/products/dime-mtl-vortex-t-shirt-cream?variant=55878897828175)
     Availability: Available
-    Price: £39.95 GBP
+    Price: £27.95 GBP
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-vortex-t-shirt-cream?variant=55878897860943)
     Availability: Available
-    Price: £39.95 GBP
+    Price: £27.95 GBP
 - [Dime MTL CCTV T-Shirt | Black](https://thevinessupply.co/products/dime-mtl-cctv-t-shirt-black): Buy the Dime MTL CCTV T-Shirt in black at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
   Updated: 2025-12-05T19:37:21Z
   Vendor: Dime MTL
@@ -3945,26 +3878,26 @@
     Availability: Available
     Price: £119.95 GBP
 - [Dime MTL Athletic Zip Pants | Dark Blue](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue): Buy the Dime MTL Athletic Zip Pants in Dark Blue at The Vines. With fast, free delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-12-23T11:29:06Z
+  Updated: 2025-12-24T15:12:37Z
   Vendor: Dime MTL
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-jeans-dime-mtl-athletic-zip-pants-dark-blue-1191910229.png?v=1757448247
   - [Extra Small](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885269839)
     Availability: Available
-    Price: £89.95 GBP
+    Price: £84.95 GBP
   - [Small](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885302607)
     Availability: Available
-    Price: £89.95 GBP
+    Price: £84.95 GBP
   - [Medium](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885335375)
     Availability: Available
-    Price: £89.95 GBP
+    Price: £84.95 GBP
   - [Large](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885368143)
     Availability: Available
-    Price: £89.95 GBP
+    Price: £84.95 GBP
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-athletic-zip-pants-dark-blue?variant=55894885400911)
     Availability: Available
-    Price: £89.95 GBP
+    Price: £84.95 GBP
 - [Yardsale Horizon Skateboard Deck Blue | 8"](https://thevinessupply.co/products/yardsale-horizon-skateboard-deck-blue-8): Buy the Yardsale Horizon Skateboard Deck Blue 8". Shop Yard Sale in our online skate store and get best price guarantee and free delivery
   Updated: 2025-09-24T22:44:46Z
   Vendor: Yardsale
@@ -4058,7 +3991,7 @@
     Availability: Not Available
     Price: £99.95 GBP
 - [HUF X GReddy T-Shirt | Black](https://thevinessupply.co/products/huf-x-greddy-t-shirt-black): Buy the HUF x GReddy T-Shirt in black at The Vines, Solihull's Skate Shop. A sick new colab with the infamous Greddy aftermarket company.
-  Updated: 2025-12-14T18:43:41Z
+  Updated: 2025-12-24T13:48:07Z
   Vendor: HUF
   Product Type: Tees
   Availability: Available
@@ -4112,23 +4045,23 @@
     Availability: Available
     Price: £39.95 GBP
 - [Skateboard Cafe Catch Me If You Can T-Shirt | Olive](https://thevinessupply.co/products/skateboard-cafe-catch-me-if-you-can-t-shirt-olive): Buy the Skateboard Cafe Catch Me If You Can T-Shirt in olive at The Vines, featuring a classic Cafe graphic on the chest and back on a high quality cotton tee.
-  Updated: 2025-09-24T23:06:29Z
+  Updated: 2025-12-24T15:00:21Z
   Vendor: Skateboard Cafe
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/skateboard-cafe-tees-skateboard-cafe-catch-me-if-you-can-t-shirt-olive-1192514103.png?v=1757721241
   - [Small](https://thevinessupply.co/products/skateboard-cafe-catch-me-if-you-can-t-shirt-olive?variant=55928499011919)
     Availability: Not Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
   - [Medium](https://thevinessupply.co/products/skateboard-cafe-catch-me-if-you-can-t-shirt-olive?variant=55928499044687)
     Availability: Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
   - [Large](https://thevinessupply.co/products/skateboard-cafe-catch-me-if-you-can-t-shirt-olive?variant=55928499077455)
-    Availability: Available
-    Price: £39.95 GBP
+    Availability: Not Available
+    Price: £31.95 GBP
   - [Extra Large](https://thevinessupply.co/products/skateboard-cafe-catch-me-if-you-can-t-shirt-olive?variant=55928499110223)
     Availability: Available
-    Price: £39.95 GBP
+    Price: £31.95 GBP
 - [Skateboard Cafe 45 T-Shirt | Charcoal & Black](https://thevinessupply.co/products/skateboard-cafe-45-t-shirt-charcoal-black): Buy the Skateboard Cafe 45 T-Shirt in Charcoal & Black at The Vines, featuring a classic Cafe graphic on the backprint and left chest.
   Updated: 2025-11-29T14:37:30Z
   Vendor: Skateboard Cafe
@@ -4199,20 +4132,20 @@
     Availability: Available
     Price: £89.95 GBP
 - [Helas Horses Knit Crewneck | Navy Blue](https://thevinessupply.co/products/helas-horses-knit-crewneck-navy-blue): Buy the Helas Horses Knit Crewneck in navy blue at The Vines. With fast, free premium delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-11-19T12:28:00Z
+  Updated: 2025-12-24T15:08:52Z
   Vendor: Helas
   Product Type: Jumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-jumpers-helas-horses-knit-crewneck-navy-blue-1192559630.png?v=1757757121
   - [Medium](https://thevinessupply.co/products/helas-horses-knit-crewneck-navy-blue?variant=55929609650511)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
   - [Large](https://thevinessupply.co/products/helas-horses-knit-crewneck-navy-blue?variant=55929609683279)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-horses-knit-crewneck-navy-blue?variant=55929609716047)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
 - [Helas Dolphin Football Jersey Shirt | Black & Blue](https://thevinessupply.co/products/helas-dolphin-football-jersey-shirt-black-blue): Buy the Hélas Dolphin Football Jersey Shirt in Black & Blue at The Vines. With fast, premium delivery available and easy 90 day returns.
   Updated: 2025-09-24T21:39:13Z
   Vendor: Helas
@@ -4229,41 +4162,35 @@
     Availability: Not Available
     Price: £97.95 GBP
 - [Helas Vitruve Hoodie | Black](https://thevinessupply.co/products/helas-vitruve-hoodie-black): Buy the Helas Vitruve Hoodie in Black at The Vines online skate shop, with fast, premium delivery & easy 90 day returns.
-  Updated: 2025-10-09T15:36:10Z
+  Updated: 2025-12-24T15:10:24Z
   Vendor: Helas
   Product Type: Hoodies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-hoodies-helas-vitruve-hoodie-black-1192577691.png?v=1757778736
-  - [Small](https://thevinessupply.co/products/helas-vitruve-hoodie-black?variant=55930390348111)
-    Availability: Not Available
-    Price: £99.95 GBP
   - [Medium](https://thevinessupply.co/products/helas-vitruve-hoodie-black?variant=55930390380879)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
   - [Large](https://thevinessupply.co/products/helas-vitruve-hoodie-black?variant=55930390413647)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-vitruve-hoodie-black?variant=55930390446415)
     Availability: Not Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
 - [Helas Dancing Hoodie | Forest Green](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green): Buy the Helas Dancing Hoodie in green at The Vines online skate shop, with fast, premium delivery & easy 90 day returns.
-  Updated: 2025-10-09T15:36:10Z
+  Updated: 2025-12-24T15:11:30Z
   Vendor: Helas
   Product Type: Hoodies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-hoodies-helas-dancing-hoodie-forest-green-1192582716.png?v=1757785926
-  - [Small](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green?variant=55930465419599)
-    Availability: Not Available
-    Price: £99.95 GBP
   - [Medium](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green?variant=55930465452367)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
   - [Large](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green?variant=55930465485135)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green?variant=55930465517903)
     Availability: Available
-    Price: £99.95 GBP
+    Price: £79.95 GBP
 - [Helas Vitruve Long Sleeve T-Shirt | White](https://thevinessupply.co/products/helas-vitruve-long-sleeve-t-shirt-white): Buy the Helas Vitruve Long Sleeve T-Shirt in White at The Vines, with fast, premium delivery and easy, 90 day returns.
   Updated: 2025-12-17T12:24:30Z
   Vendor: Helas
@@ -4280,50 +4207,50 @@
     Availability: Available
     Price: £54.95 GBP
 - [Helas Clint Long Sleeve T-Shirt | Black](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black): Buy the Helas Clint Long Sleeve T-Shirt in Black at The Vines Skate Shop in Solihull or online at thevinessupply.co
-  Updated: 2025-12-12T18:00:48Z
+  Updated: 2025-12-24T15:06:20Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-tees-helas-clint-long-sleeve-t-shirt-black-1192684356.png?v=1757807780
   - [Medium](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931682193743)
     Availability: Not Available
-    Price: £59.95 GBP
+    Price: £41.95 GBP
   - [Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931677245775)
     Availability: Available
-    Price: £59.95 GBP
+    Price: £41.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931682226511)
     Availability: Not Available
-    Price: £59.95 GBP
+    Price: £41.95 GBP
 - [Helas Clint Long Sleeve T-Shirt | White](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-white): Buy the Helas Clint Long Sleeve T-Shirt in white at The Vines Skate Shop in Solihull or online at thevinessupply.co
-  Updated: 2025-10-09T15:36:12Z
+  Updated: 2025-12-24T15:05:47Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-tees-helas-clint-long-sleeve-t-shirt-white-1192684355.png?v=1757807776
   - [Medium](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-white?variant=55931701985615)
     Availability: Available
-    Price: £59.95 GBP
+    Price: £41.95 GBP
   - [Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-white?variant=55931702018383)
     Availability: Available
-    Price: £59.95 GBP
+    Price: £41.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-white?variant=55931702051151)
     Availability: Available
-    Price: £59.95 GBP
+    Price: £41.95 GBP
 - [Helas Dancing T-Shirt | Light Pink](https://thevinessupply.co/products/helas-dancing-t-shirt-light-pink): Buy the Helas Dancing T-Shirt in Light Pink at The Vines, featuring a top-quality cotton weave and a new spin on the classic Helas umbrella logo.
-  Updated: 2025-11-07T10:19:19Z
+  Updated: 2025-12-24T14:55:11Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-tees-helas-dancing-t-shirt-light-pink-1192684350.png?v=1757807762
   - [Medium](https://thevinessupply.co/products/helas-dancing-t-shirt-light-pink?variant=55931742159183)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £32.95 GBP
   - [Large](https://thevinessupply.co/products/helas-dancing-t-shirt-light-pink?variant=55931742191951)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £32.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-dancing-t-shirt-light-pink?variant=55931742224719)
     Availability: Not Available
-    Price: £44.95 GBP
+    Price: £32.95 GBP
 - [Helas Dancing T-Shirt | Black](https://thevinessupply.co/products/helas-dancing-t-shirt-black): Buy the Helas Dancing T-Shirt in black at The Vines, featuring a top-quality cotton weave and a new spin on the classic Helas umbrella logo.
   Updated: 2025-12-11T14:35:58Z
   Vendor: Helas
@@ -4343,7 +4270,7 @@
     Availability: Not Available
     Price: £44.95 GBP
 - [Helas Guitare T-Shirt | White](https://thevinessupply.co/products/helas-guitare-t-shirt-white): Buy the Helas Guitare T-Shirt in White at The Vines, with fast, premium delivery & easy returns.
-  Updated: 2025-11-03T21:32:16Z
+  Updated: 2025-12-24T12:28:06Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
@@ -4361,25 +4288,25 @@
     Availability: Not Available
     Price: £44.95 GBP
 - [Helas Rayo Striped T-Shirt | Grey](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey): Buy the Helas Rayo Striped T-Shirt in grey at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-29T16:58:36Z
+  Updated: 2025-12-24T15:04:20Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-tees-helas-rayo-striped-t-shirt-grey-1192684338.png?v=1757807528
   - [Small](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey?variant=55931805761871)
     Availability: Not Available
-    Price: £54.95 GBP
+    Price: £39.95 GBP
   - [Medium](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey?variant=55931805794639)
     Availability: Available
-    Price: £54.95 GBP
+    Price: £39.95 GBP
   - [Large](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey?variant=55931805827407)
     Availability: Available
-    Price: £54.95 GBP
+    Price: £39.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey?variant=55931805860175)
     Availability: Available
-    Price: £54.95 GBP
+    Price: £39.95 GBP
 - [Helas Horses Cap | Navy](https://thevinessupply.co/products/helas-horses-cap-navy): Buy the Helas Horses Cap in navy blue at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-21T17:16:51Z
+  Updated: 2025-12-24T13:48:08Z
   Vendor: Helas
   Product Type: Caps
   Availability: Available
@@ -4642,23 +4569,20 @@
     Availability: Not Available
     Price: £74.95 GBP
 - [HUF H Star Crewneck Sweater | Natural](https://thevinessupply.co/products/huf-h-star-crewneck-sweater-natural): Buy the HUF H Star Crewneck Sweater in natural at The Vines Skate Shop in Solihull or online at www.thevinessupply.co. Get fast, free delivery on HUF stuff.
-  Updated: 2025-10-09T15:36:25Z
+  Updated: 2025-12-24T15:07:31Z
   Vendor: HUF
   Product Type: Crews
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/huf-crews-huf-h-star-crewneck-sweater-natural-1193372252.png?v=1758145921
-  - [Small](https://thevinessupply.co/products/huf-h-star-crewneck-sweater-natural?variant=55958458925391)
-    Availability: Not Available
-    Price: £69.95 GBP
   - [Medium](https://thevinessupply.co/products/huf-h-star-crewneck-sweater-natural?variant=55958458958159)
     Availability: Available
-    Price: £69.95 GBP
+    Price: £54.95 GBP
   - [Large](https://thevinessupply.co/products/huf-h-star-crewneck-sweater-natural?variant=55958458990927)
     Availability: Available
-    Price: £69.95 GBP
+    Price: £54.95 GBP
   - [Extra Large](https://thevinessupply.co/products/huf-h-star-crewneck-sweater-natural?variant=55958459023695)
     Availability: Available
-    Price: £69.95 GBP
+    Price: £54.95 GBP
 - [HUF Worldwide Commuter Crewneck Sweater | Black](https://thevinessupply.co/products/huf-worldwide-commuter-crewneck-sweater-black): Buy the HUF Worldwide Commuter Crewneck Sweater in Black at The Vines. Get fast, free delivery and best prices on our huge HUF range.
   Updated: 2025-10-14T13:43:29Z
   Vendor: HUF
@@ -4678,23 +4602,23 @@
     Availability: Available
     Price: £119.95 GBP
 - [HUF 4 The Dawgs T-Shirt | White](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white): Buy the HUF 4 The Dawgs T-Shirt in white at The Vines. With fast, free delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-10-09T15:36:26Z
+  Updated: 2025-12-24T14:54:29Z
   Vendor: HUF
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/huf-tees-huf-4-the-dawgs-t-shirt-white-1193384443.png?v=1758153133
   - [Small](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white?variant=55958653436239)
     Availability: Available
-    Price: £43.95 GBP
+    Price: £31.95 GBP
   - [Medium](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white?variant=55958653469007)
     Availability: Available
-    Price: £43.95 GBP
+    Price: £31.95 GBP
   - [Large](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white?variant=55958653501775)
     Availability: Available
-    Price: £43.95 GBP
+    Price: £31.95 GBP
   - [Extra Large](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white?variant=55958653534543)
     Availability: Available
-    Price: £43.95 GBP
+    Price: £31.95 GBP
 - [HUF Bowery Side Bag | Realtree Camo](https://thevinessupply.co/products/huf-bowery-side-bag-realtree-camo): Buy the HUF Bowery Side Bag in Realtree camo at The Vines. Get best prices on HUF skate accessories and fast, premium delivery with easy returns.
   Updated: 2025-11-03T13:46:41Z
   Vendor: HUF
@@ -4754,20 +4678,20 @@
     Availability: Not Available
     Price: £47.95 GBP
 - [Bronze 56K NYC 2025 T-Shirt | Black](https://thevinessupply.co/products/bronze-56k-nyc-2025-t-shirt-black): Buy the Bronze 56K NYC 2025 T-Shirt in black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-09T15:36:30Z
+  Updated: 2025-12-24T14:56:42Z
   Vendor: Bronze 56K
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/bronze-56k-tees-bronze-56k-nyc-2025-t-shirt-black-1193687020.png?v=1758239528
   - [Medium](https://thevinessupply.co/products/bronze-56k-nyc-2025-t-shirt-black?variant=55968481280335)
     Availability: Available
-    Price: £47.95 GBP
+    Price: £37.95 GBP
   - [Large](https://thevinessupply.co/products/bronze-56k-nyc-2025-t-shirt-black?variant=55968481313103)
     Availability: Available
-    Price: £47.95 GBP
+    Price: £37.95 GBP
   - [Extra Large](https://thevinessupply.co/products/bronze-56k-nyc-2025-t-shirt-black?variant=55968481345871)
     Availability: Available
-    Price: £47.95 GBP
+    Price: £37.95 GBP
 - [Pass~Port Soap T-Shirt | Bark](https://thevinessupply.co/products/pass-port-soap-t-shirt-bark): Buy the Pass~Port Soap T-Shirt in Bark at The Vines, With Fast, Premium Delivery & Easy Returns.
   Updated: 2025-11-06T09:58:25Z
   Vendor: Pass~Port
@@ -5152,7 +5076,7 @@
     Availability: Available
     Price: £64.95 GBP
 - [Pass~Port Glyph T-Shirt | Acid Black](https://thevinessupply.co/products/pass-port-glyph-t-shirt-acid-black): Buy the Pass~Port Glyph T-Shirt in Acid Black at The Vines, With Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-08T13:09:33Z
+  Updated: 2025-12-24T12:28:06Z
   Vendor: Pass~Port
   Product Type: Tees
   Availability: Available
@@ -5263,20 +5187,20 @@
     Availability: Not Available
     Price: £44.95 GBP
 - [Polar Skate Co Take A Seat T-Shirt | Egyptian Blue](https://thevinessupply.co/products/polar-skate-co-take-a-seat-t-shirt-egyptian-blue): Buy the Polar Skate Co Take A Seat T-Shirt in Egyptian Blue at The Vines, With Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-09T15:36:48Z
+  Updated: 2025-12-24T14:59:04Z
   Vendor: Polar
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-tees-polar-skate-co-take-a-seat-t-shirt-egyptian-blue-1194245103.jpg?v=1758657375
   - [Medium](https://thevinessupply.co/products/polar-skate-co-take-a-seat-t-shirt-egyptian-blue?variant=55998431756623)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £31.95 GBP
   - [Large](https://thevinessupply.co/products/polar-skate-co-take-a-seat-t-shirt-egyptian-blue?variant=55998431789391)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £31.95 GBP
   - [Extra Large](https://thevinessupply.co/products/polar-skate-co-take-a-seat-t-shirt-egyptian-blue?variant=55998431822159)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £31.95 GBP
 - [Polar Skate Co Metal Logo T-Shirt | Silver Black](https://thevinessupply.co/products/polar-skate-co-metal-logo-t-shirt-silver-black): Buy the Polar Skate Co Metal Logo T-Shirt in Silver Black at The Vines, With Fast, Premium Delivery & Easy Returns.
   Updated: 2025-11-21T07:39:16Z
   Vendor: Polar
@@ -5293,22 +5217,22 @@
     Availability: Not Available
     Price: £44.95 GBP
 - [Polar Skate Co Third Eye T-Shirt | Black](https://thevinessupply.co/products/polar-skate-co-third-eye-t-shirt-black): Buy the Polar Skate Co Third Eye T-Shirt in Silver Black at The Vines, With Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-30T21:34:24Z
+  Updated: 2025-12-24T14:59:53Z
   Vendor: Polar
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-tees-polar-skate-co-third-eye-t-shirt-black-1194245097.jpg?v=1758657257
   - [Medium](https://thevinessupply.co/products/polar-skate-co-third-eye-t-shirt-black?variant=55998527308111)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £34.95 GBP
   - [Large](https://thevinessupply.co/products/polar-skate-co-third-eye-t-shirt-black?variant=55998527340879)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £34.95 GBP
   - [Extra Large](https://thevinessupply.co/products/polar-skate-co-third-eye-t-shirt-black?variant=55998527373647)
     Availability: Available
-    Price: £44.95 GBP
+    Price: £34.95 GBP
 - [Polar Skate Co Third Eye Hoodie | Black](https://thevinessupply.co/products/polar-skate-co-third-eye-hoodie-black): Buy the Polar Skate Co Third Eye Hoodie in Black at The Vines, with premium, fast delivery & easy returns
-  Updated: 2025-10-09T15:36:49Z
+  Updated: 2025-12-24T13:53:52Z
   Vendor: Polar
   Product Type: Hoodies
   Availability: Available
@@ -6667,19 +6591,19 @@
 ## Collections
 
 - [Skate T-Shirts | Skateboard Tees | The Vines](https://thevinessupply.co/collections/skate-t-shirts): Shop skate T-Shirts at The Vines. Buy mens skate tee's from the best UK and international skate t-shirt brands with fast, premium delivery and easy 90 day returns.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:06:21Z
   Total Products: 1534
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T14:22:54Z
   Total Products: 1088
 - [Jackets | Skatewear Jackets | The Vines](https://thevinessupply.co/collections/jackets): Shop a collection of skatewear jackets at The Vines. Get Jackets & Coats from skateboard brands with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-09T12:22:05Z
   Total Products: 77
 - [Hoodies | The Vines](https://thevinessupply.co/collections/hoodies): Shop Skate Hoodies from the best UK and international skate brands. Browse our range of mens hoodies in our online skate shop now.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-24T15:11:31Z
   Total Products: 327
 - [£20 and under | The Vines](https://thevinessupply.co/collections/20-and-under): Shop our range of skate product under £20 at The Vines, perfect for presents for skateboarders or a present for yourself... you deserve it!
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 1348
 - [Shorts | The Vines](https://thevinessupply.co/collections/shorts): Buy Shorts from skate wear brands at The Vines. Go from the beach to the bar, the skate park to the pub. We've got a curated collection of board and walk shorts from our the finest skate and street wear brands to keep you Summer & Gym ready.
   Updated: 2025-12-19T12:18:48Z
@@ -6688,13 +6612,13 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 2897
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-12-21T12:15:45Z
   Total Products: 75
 - [Crews and Fleeces](https://thevinessupply.co/collections/crews-and-fleeces): Round neck crews & sweatshirts from the finest international skateboard brands.
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-24T15:07:32Z
   Total Products: 145
 - [Vests](https://thevinessupply.co/collections/vests)
   Updated: 2025-04-29T12:50:24Z
@@ -6709,13 +6633,13 @@
   Updated: 2025-12-18T12:22:01Z
   Total Products: 95
 - [Socks | The Vines](https://thevinessupply.co/collections/socks): Shop a huge range of socks from the highest quality skate wear sock at The Vines. From brands such as Stance Socks, HUF Worldwide, Polar Skate Co Magenta Skateboards, Butter Goods and Skateboard Cafe.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 525
 - [Watches](https://thevinessupply.co/collections/watches): Our collection of watches from independent UK board sports brands. These timepieces will add a touch of class to any outfit
   Updated: 2025-05-22T17:17:34Z
   Total Products: 0
 - [Skateboard Decks | The Vines](https://thevinessupply.co/collections/skateboard-decks): Buy Skateboard Decks at The Vines. Browse a huge range of skate decks from international and UK brands. Get fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-20T12:17:06Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 982
 - [Isle Skateboards | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/isle-skateboards): Shop Isle Skateboards at The Vines. Isle Skateboards is a British-born skate brand brought to you by Paul Shier and Nick Jensen, born from the ashes of the Blueprint skate team. Combining skate and art to bring visually stunning decks and apparel. Check out the latest Isle collection now.
   Updated: 2025-09-12T10:49:37Z
@@ -6727,28 +6651,28 @@
   Updated: 2025-12-16T12:25:00Z
   Total Products: 77
 - [Skate Accessories](https://thevinessupply.co/collections/skate-accessories): Skate accessories from the worlds best skate hardware brands. Shop our range of bearings, grip tape, nuts & bolts, risers and bushings.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 76
 - [Gloves](https://thevinessupply.co/collections/gloves)
   Updated: 2025-07-13T09:51:36Z
   Total Products: 2
 - [Gift Cards](https://thevinessupply.co/collections/gift-cards): If you're unsure what to get this Christmas, give the gift of choice. From £10 to £500, our gift cards are available to spend on a huge selection of surf, skate and snowboards products.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 1
 - [Skateboard Cafe](https://thevinessupply.co/collections/skateboard-cafe): Serving up quality skateboards and apparel from Bristol, Skateboard Cafe have grown into one of the UK's leading brands. At the beginning, Cafe never set out to be a ‘board company’ and there was no business strategy. Skateboard Cafe was the name of a scene video made in 2008. From there, they made a few tee’s and a year later a small run of boards and it gradually, and naturally, developed from there. Thank you for dining with Skateboard Cafe. Skateboard Café represents the authentic celebration of British skateboarding culture, engineered specifically to deliver the perfect balance of jazz-infused aesthetics, community spirit, and independent craftsmanship that transformed local scene videos into internationally recognised brand excellence. Skateboard Café UK has evolved from Bristol scene video origins to sophisticated British streetwear featuring premium deck graphics, curated apparel, and designs that capture the essence of UK skateboarding's creative underground. Like skateboarding itself, Skateboard Café design holds authenticity and community at its core, creating essential pieces that bridge local Bristol culture with international recognition while maintaining genuine connection to the independent skate shops and crews that define real skateboarding heritage. Shop the finest in British skateboard culture from Skateboard Café Bristol. Revolutionary since 2008 and constantly evolving with British skate culture, Skateboard Café represents the most authentic expression of UK skateboarding's creative independence. What started as Rich Smith's scene video shot in a 1950s-style diner with jazz music playing has transformed into a cultural celebration featuring premium graphics, thoughtful collaborations, and designs that prioritise authentic skateboarding over commercial trends. From their initial vision of creating content that captured Bristol's skateboarding community to modern interpretations featuring collaborations with DC Shoes and premium apparel lines, every authentic Skateboard Café piece combines British craftsmanship with skateboarding DNA. Whether you're after their signature stripe decks that reference classic café aesthetics or premium apparel featuring jazz-influenced graphics, Skateboard Cafe transforms your skating while providing the authenticity, quality, and community connection that serious British skateboard culture demands, created by filmmakers and skaters who understand that great skateboarding brands should serve the scene rather than exploit it. Skateboard Café Brand History & Evolution Back in 2008, when Rich Smith from the outskirts of Bristol decided to create a scene video featuring his local crew, he had no business strategy or brand ambitions, simply wanting to capture the essence of his skateboarding community through a unique aesthetic approach that differed from typical skateboard video productions. The video, titled "Skateboard Café," featured an introduction shot in a 1950s-style diner with checkerboard floors and jazz music playing, creating a distinctive theme that separated it from conventional skateboard content while showcasing parts from Mark Pritchard, Bill Smith (Rich's younger brother), Ashton Launcherley, Jason Lewer, Tom Gibbs, with appearances from Korahn Gayle and Andrew Makepeace. The name stuck as a label for their crew and subsequent video edits, gradually developing into something more substantial when Rich started producing small runs of t-shirts sold through Fifty Fifty skateboard shop in Bristol around 2009. The breakthrough came when Rich secured a £1000 bank loan to produce their first run of skateboard decks, with early stockists including Fifty Fifty, Lost Art, and Legacy Skate Store who recognised the authentic quality and unique aesthetic that separated Skateboard Café from typical skateboard graphics. Andrew Makepeace's involvement became crucial around this time when he offered to fund t-shirt production alongside the board releases, eventually becoming 50-50 owner and handling distribution while Rich focused on filming the team and creating visual content. The brand's development into a legitimate company occurred around 2012 with their first official promo video introducing Shaun Currie as their first official rider, marking the transition from local crew to professional skateboard brand with genuine responsibilities to their team riders. Their growth has been deliberately organic, built through consistent video output including full-length projects like "Alfresco" (2015), "Ensemble" (2019), and "Impressions" (2021) that showcase their team's creativity while maintaining the jazz-influenced aesthetic and community-driven approach that defined their origins. The brand's international recognition came through authentic word-of-mouth within skateboard communities rather than aggressive marketing, with their graphics, team, and video content earning respect across Europe and beyond while maintaining their Bristol roots and independent status. Rich Smith's continued role as both brand owner and primary videographer ensures their visual output remains consistent and authentic, with team selection based on genuine friendships and creative skateboarding rather than commercial considerations or industry politics. From that initial scene video shot in a Bristol café to today's position as one of Britain's most respected independent skateboard brands, Skateboard Café has grown by consistently maintaining their commitment to community, creativity, and that distinctive jazz-influenced aesthetic that celebrates skateboarding's cultural potential rather than simply selling products. Key Features & Construction What separates Skateboard Café from typical British skateboard brands comes down to specific aesthetic elements and construction philosophy developed through genuine understanding of skateboarding as cultural expression rather than purely commercial enterprise. Premium Skateboard Café decks feature carefully curated graphics that reference jazz culture, American diner aesthetics, and vintage typography, created through collaborations with local Bristol artists and Rich Smith's distinctive visual approach that prioritises artistic integrity over trend-following market research. Modern deck construction includes quality 7-ply Canadian maple with professional concave specifications, ensuring serious skateboard performance beneath the artistic graphics while maintaining construction standards that handle real British street skating demands. The graphic application process uses high-quality screen printing techniques that preserve colour saturation and detail definition through skating abuse, creating boards that maintain their visual impact while providing authentic skateboard functionality. Contemporary Skateboard Café aesthetics embrace classic stripe patterns, refined logo applications, and sophisticated colour palettes that reference café culture, jazz album artwork, and British design sensibilities rather than aggressive skateboard imagery or mainstream streetwear trends. Quality details include proper grip tape application, consistent graphic registration, and attention to finishing details that reflect the brand's commitment to craftsmanship and authentic British manufacturing standards rather than cost-cutting production methods. The artistic philosophy extends beyond graphics into overall brand presentation, collaborative partnerships with independent shops and artists, and team selection based on creative skateboarding approach rather than purely commercial appeal or mainstream marketability. Apparel construction features premium organic cotton materials with water-based screen printing that maintains softness and environmental responsibility, creating clothing that works for skating and daily wear while representing the brand's values of quality, sustainability, and authentic British craftsmanship. Collaboration projects with brands like DC Shoes demonstrate how Skateboard Café's aesthetic vision can enhance established products through creative interpretation, bringing sophisticated British design sensibilities to international brands while maintaining their independent identity and cultural authenticity. Whether featuring classic stripe graphics for timeless appeal or contemporary collaborations that push creative boundaries, authentic Skateboard Café products represent the intersection of British design excellence, skateboard functionality, and decades of independent refinement by creators who understand that great skateboard culture should inspire community, celebrate creativity, and maintain authentic connection to local scenes rather than simply following commercial trends or industry expectations. Skateboard Café Skate Team The Skateboard Café team represents a carefully curated collection of British and international riders where creative skateboarding takes precedence over purely technical achievements, featuring skaters who embody the brand's philosophy of community, authenticity, and genuine connection to independent skateboard culture. Korahn Gayle: London street skating legend whose technical abilities and spot selection perfectly embody Skateboard Café's creative approach. His consistent video parts showcase innovative trick choices and urban exploration that align with the brand's emphasis on authentic British street culture. Dom Henry: Technical precision meets creative interpretation through Henry's approach to street obstacles that prioritises style over pure difficulty. His video contributions demonstrate the perfect balance of skill and artistic expression that defines Skateboard Café's team philosophy. Shaun Currie: Sheffield street skater whose creative approach and consistent output made him Skateboard Café's first official team rider in 2012. His technical street skating combined with loyal dedication perfectly represents the brand's commitment to supporting genuine skateboard talent. Harry Ogilvie: Versatile skater whose video parts showcase creative spot utilisation and technical variety. His long-term involvement with the brand demonstrates Skateboard Café's commitment to nurturing talent and maintaining team relationships based on friendship rather than purely commercial considerations. Josh Arnott: Technical street skater whose contributions to multiple Skateboard Café video projects showcase consistent progression and creative trick selection. His skating embodies the brand's approach to balancing technical ability with artistic expression and community involvement. Sam Nobbs & Ollie Lock: Contemporary additions to the team whose fresh perspectives and technical abilities represent Skateboard Café's commitment to supporting new generations of British skateboarding while maintaining their core values of creativity and authenticity. Layth Sami & Savannah Stacey Keenan: International riders whose involvement demonstrates Skateboard Café's growing recognition beyond British borders while maintaining focus on skaters who appreciate creative skateboarding and community-driven brand culture over purely commercial considerations. Skate Cafe Styles We Stock Explore our comprehensive range of Skateboard Café UK at The Vines Supply Co., featuring British craftsmanship, jazz-influenced aesthetics, and authentic community connection that represents the finest in independent skateboard culture. Skateboard Café Stripe Decks: Classic stripe graphics featuring sophisticated colour combinations and refined proportions that reference café culture and British design sensibilities. Built with premium Canadian maple and quality construction that handles serious street skating while maintaining visual elegance. Skateboard Cafe Pro Model Decks: Team signature boards featuring custom graphics developed through genuine rider collaboration. From Korahn Gayle's London influences to Dom Henry's creative interpretations, these boards reflect individual personalities while maintaining brand aesthetic cohesion. Skateboard Café Limited Graphics: Special edition releases featuring collaborations with Bristol artists, vintage-inspired imagery, and seasonal themes that showcase the brand's commitment to artistic development and creative partnerships within independent skateboard culture. Skateboard Café Apparel: Premium organic cotton tees, hoodies, and accessories featuring jazz-influenced graphics, subtle branding, and British design sensibilities. Built for comfort and durability while representing the brand's values of quality, sustainability, and authentic craftsmanship. Skateboard Café x DC Collaboration: Exclusive partnership bringing Skateboard Café's aesthetic vision to classic footwear silhouettes. These limited releases demonstrate how British skateboard design can enhance international products through creative interpretation and cultural authenticity. Skateboard Café Video Merchandise: Special releases celebrating video projects like "Alfresco," "Ensemble," and "Impressions." These items commemorate significant cultural contributions while providing collectible pieces for serious British skateboard culture enthusiasts. Skateboard Café Buying Guide Choosing Skateboard Café products depends on your appreciation for British skateboard culture, independent craftsmanship, and understanding of skateboarding as community-driven creative expression. For authentic British skateboard heritage, focus on their stripe deck graphics that showcase sophisticated design sensibilities, quality construction through Canadian maple and professional pressing, and aesthetic approach that prioritises timeless appeal over trend-following graphics. Consider their team pro models for genuine rider collaboration, custom graphics that reflect individual personalities, and construction quality that handles serious street skating while supporting independent British skateboard culture. Quality matters significantly with Skateboard Café, premium materials and independent production justify pricing through superior craftsmanship, authentic cultural significance, and commitment to supporting genuine British skateboard community rather than mass-produced alternatives that lack authentic foundation. Fit preferences for apparel should align with classic British streetwear proportions, comfortable cuts that work for skating and daily wear, and sizing that reflects the brand's focus on quality and longevity rather than fast fashion trends or aggressive streetwear aesthetics. Graphic selection reflects appreciation for sophisticated design, jazz-influenced aesthetics for cultural depth, stripe patterns that reference café culture, and artistic collaborations that represent investment in authentic British skateboard art rather than generic commercial graphics. Cultural context enhances appreciation, understanding Rich Smith's journey from Bristol scene videos to independent brand ownership, the brand's commitment to community-driven growth, and their role in British skateboard culture creates deeper connection to authentic independent business philosophy. Collaboration pieces with brands like DC represent exceptional value through combination of Skateboard Café's British design expertise with international brand quality, limited availability that makes them investments in authentic skateboard culture, and creative applications that demonstrate sophisticated approach to brand partnerships. Styling compatibility works best with other independent brands that appreciate craftsmanship, classic British streetwear that celebrates quality over trends, and accessories that complement rather than compete with Skateboard Café's sophisticated aesthetic approach. Consider long-term investment value through supporting genuinely independent British companies, brands that maintain cultural significance through consistent video output and community involvement, and products that represent authentic British skateboard culture rather than trend-driven fashion consumption. Most importantly, choose Skateboard Café when you appreciate British skateboarding's creative independence and community-driven culture, as the brand represents genuine celebration of UK skateboard heritage by creators who understand that great skateboard companies should serve their local scenes while inspiring creativity and maintaining authentic connection to the communities that support them. Skateboard Café FAQs Who founded Skateboard Café and when? Skateboard Café was founded by Rich Smith from Bristol, starting with a scene video in 2008. The brand developed gradually with Andy Makepeace joining as 50-50 owner, officially becoming a skateboard company around 2012 with their first team rider and professional releases. What makes Skateboard Café different from other British skateboard brands? Skateboard Café combines jazz-influenced aesthetics with authentic British skateboard culture, featuring sophisticated graphics, consistent video output, and community-driven growth. Rich Smith's role as both owner and videographer ensures authentic visual content that serves skateboarding rather than pure commercial interests. Are Skateboard Café decks suitable for serious skating? Absolutely, all decks use premium 7-ply Canadian maple with professional concave specifications. The sophisticated graphics don't compromise performance, they simply offer refined alternative to typical aggressive skateboard imagery while maintaining construction standards for real street skating. What is the significance of the jazz and café aesthetic? The original 2008 video was shot in a 1950s-style diner with jazz music, creating the distinctive theme that separates Skateboard Café from conventional skateboard culture. This aesthetic reflects sophistication, community gathering, and creative expression rather than aggressive or competitive imagery. How does Rich Smith balance brand ownership with video production? Rich Smith handles the creative and visual aspects including filming the team and creating graphics, while Andy Makepeace manages distribution and business operations. This partnership allows authentic video content while maintaining professional business standards and independent ownership. What is the team selection philosophy? Team riders are chosen based on genuine friendships, creative skateboarding approach, and alignment with brand values rather than purely commercial considerations. The focus is on skaters who appreciate community-driven culture and authentic British skateboard heritage. How do Skateboard Café collaborations work? Collaborations like the DC partnership bring Skateboard Café's British design sensibilities to established products while maintaining independent identity. These projects demonstrate how authentic skateboard brands can enhance major brand products through creative interpretation and cultural authenticity. Shop our complete Skateboard Café collection, featuring British craftsmanship, jazz-influenced aesthetics, and authentic independent skateboard culture from Bristol's finest. Enjoy fast, free UK premium delivery on orders over £70, with free next-day delivery available for orders placed before 4pm.
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-24T14:58:08Z
   Total Products: 165
 - [HUF](https://thevinessupply.co/collections/huf): HUF was founded in 2002 by professional skateboarder Keith Hufnagel. Growing up skating in New York City during the 1980s, Hufnagel's way of life was widely perceived as nothing but disruptive and rebellious. This misunderstanding proved to be a catalyst in Hufnagel’s life, ultimately leading him to create HUF Worldwide. Originally founded as an independent street and skate store in San Fransisco, HUF has steadily become one of the most popular urban menswear brands around the world. Hufnagel’s original ethos has remained true – the brand represents the expression of individuality and skateboarding culture through HUF clothing lines. HUF represents the authentic fusion of skateboarding heritage and contemporary streetwear culture, engineered specifically to deliver the perfect balance of functional design, subcultural credibility, and modern fashion sensibility that transformed skatewear into global style staples. HUF UK has evolved from its San Francisco skate shop origins to an internationally respected lifestyle brand featuring premium construction, bold graphics, and designs that capture the essence of street culture’s intersection with skateboarding authenticity. Like skateboarding itself, HUF design holds community and craftsmanship at its core, creating essential pieces that bridge skate heritage with modern style while maintaining genuine connection to the underground scenes that inspired them. Shop the best in skate lifestyle from HUF. Revolutionary since 2002 and constantly evolving with global skate culture, HUF represents the most credible marriage of skateboarding roots and streetwear innovation. What started as Keith Hufnagel’s boutique skate shop in San Francisco quickly became known for its curated selection of hard-to-find brands, original graphic tees, and community-driven events. Over the years, HUF has expanded into premium apparel and footwear collaborations with Nike SB, Adidas, and Timberland, while maintaining its underground spirit and commitment to skateboarding authenticity. Whether you’re after the iconic triple-triangle logo tee, their rugged denim workshirts, or limited-edition sneaker collaborations, HUF transforms your wardrobe while providing the craftsmanship, credibility, and cultural insight that serious streetwear demands, created by founders who understand that great fashion is built on genuine community roots and timeless style. HUF Brand History & Evolution Back in 2002, professional skateboarder Keith Hufnagel opened HUF Worldwide in San Francisco’s Tenderloin neighbourhood, bringing a curated selection of rare skate brands and underground apparel to the local scene. His vision combined skate shop authenticity with streetwear sensibility, hosting in-store skate events and fostering community among skaters, graffiti artists, and local creatives. The brand’s first in-house graphics featured Keith’s personal photographs and hand-drawn artwork, creating tees that resonated with skaters tired of mass-market designs. The breakthrough came with the triple-triangle logo, simple, instantly recognisable, and symbolising the intersection of skate, art, and culture. As HUF’s reputation grew, collaborations with Nike SB and Adidas Skateboarding brought technical apparel and premium sneaker drops that married performance with style. The brand’s expansion into Europe and Asia retained its core community focus through pop-up shops, art exhibitions, and skate demos. After Keith’s passing in 2020, HUF’s team maintained his legacy by continuing to produce authentic skate-inspired collections, limited collaborations, and community events that honour the brand’s roots while pushing creative boundaries. From a small boutique shop to a global lifestyle label, HUF has grown by maintaining genuine respect for skateboarding heritage, community-driven values, and an unwavering commitment to quality craftsmanship. HUF Skateboards Key Features & Construction What separates HUF from generic streetwear lies in its commitment to functional design, premium materials, and skate-tested durability. Premium tees feature heavyweight 180-220gsm cotton with reinforced seams and quality screen-printed graphics that withstand repeated washings and skate sessions. Hoodies and sweatshirts use brushed back fleece for warmth and comfort under deck and jacket layers, with metal-tipped drawstrings and ribbed cuffs that retain shape. Denim pieces incorporate heavyweight 12-14oz Japanese selvedge and triple-needle stitching for maximum durability in high-wear areas, while workshirts use robust cotton twill and bar-tack reinforcements at stress points. HUF collaborations with Nike SB and Adidas integrate technical materials, water-resistant shells, performance liners, and advanced cushioning systems, delivering functional enhancements without sacrificing style. Quality details include embroidered logos that won’t peel, YKK zippers, and custom hardware that reflect the brand’s dedication to craftsmanship. Whether featuring the classic triple-triangle logo or bold collaborative graphics, authentic HUF pieces represent the intersection of skate functionality, streetwear style, and decades of community-driven design refinement. HUF Styles We Stock Explore our comprehensive range of HUF UK at The Vines Supply Co., featuring skate-tested construction, credible graphics, and authentic street culture that represent the finest in skate lifestyle. HUF Triple-Triangle Tees: Iconic logo tees featuring heavyweight cotton, reinforced seams, and quality screen-printed graphics. Available in classic colours and seasonal variations, these tees capture the brand’s skate shop origins and contemporary streetwear credibility. HUF Hoodies & Sweatshirts: Brushed back fleece construction with metal-tipped drawstrings, ribbed cuffs, and signature graphics. Built for comfort both on and off the board, these pieces blend functional warmth with streetwear style. HUF Denim & Workwear: Heavyweight Japanese selvedge denim and cotton twill workshirts featuring triple-needle stitching, bar-tack reinforcements, and custom hardware. Designed for durability during skate sessions and everyday wear. HUF x Nike SB & Adidas Collaborations: Limited-edition sneaker drops and performance apparel featuring collaborative graphics, technical materials, and exclusive colourways. These pieces merge HUF’s streetwear expertise with major brand performance innovation. HUF Accessories: Caps, beanies, socks, and backpacks featuring the triple-triangle logo, premium materials, and functional design details that reflect the brand’s skate heritage and lifestyle focus. HUF Limited Releases: Seasonal and artist-collaboration collections showcasing unique graphics, premium fabrics, and community-driven design concepts. Each release honours the brand’s skate shop roots and cultural legacy. HUF Buying Guide Choosing HUF pieces depends on your priorities, functional durability, skate-tested performance, or contemporary streetwear style. For authentic skate heritage, start with the triple-triangle tees and hoodies constructed from heavyweight cotton and brushed fleece that deliver comfort during long skate sessions. For durability, explore their Japanese selvedge denim and workwear shirts built with triple-needle stitching and bar-tack reinforcements. Collaboration pieces with Nike SB and Adidas offer technical materials, water-resistant shells, performance liners, and advanced cushioning, ideal for skaters seeking performance enhancements without sacrificing style. Fit preferences range from boxy skate cuts to more tailored streetwear silhouettes, consult size charts and reviews for best results. Quality matters: authentic HUF products justify their pricing through premium materials, credible graphics, and community-driven design heritage. Consider limited releases and artist collaborations as investments in authentic skate culture rather than mere fashion trends. Styling works best with other community-focused brands, combine with quality denim, functional outerwear, and understated accessories that complement rather than overshadow HUF’s distinctive aesthetic. Most importantly, choose HUF when you value genuine skate heritage, community credibility, and streetwear innovation perfected over two decades of cultural leadership. HUF FAQs What is the HUF triple-triangle logo? The triple-triangle logo represents the intersection of skateboarding, street culture, and community, symbolising the brand’s roots as a skate shop and its evolution into a global lifestyle label. Are HUF collaborations functional for skating? Yes, collaborations with Nike SB and Adidas integrate technical materials, water-resistant shells, performance liners, and advanced cushioning systems, providing real functional benefits while maintaining HUF’s streetwear style. How should HUF denim fit? HUF denim uses Japanese selvedge and triple-needle construction. Choose a skate-cut fit if you plan to skate in them, or go one size up for a more relaxed streetwear silhouette. What makes HUF’s hoodies durable? Hoodies use heavyweight brushed back fleece, metal-tipped drawstrings, reinforced seams, and quality screen-printed graphics that withstand repeated washes and skate sessions. Where did HUF originate? HUF began as Keith Hufnagel’s skate shop in San Francisco in 2002, quickly becoming known for its curated brand selection, community events, and in-house apparel designs. Are limited-edition HUF releases worth the investment? Yes, limited releases honour the brand’s community roots and feature premium materials and exclusive graphics, making them coveted pieces for collectors and skaters who value authentic skate heritage. Shop our complete HUF collection, featuring authentic skate heritage, premium construction, and community-driven style from the brand that defined modern skate lifestyle. Enjoy fast, free UK delivery on orders over £70, with free next-day delivery available for orders placed before 4pm.
-  Updated: 2025-12-18T12:22:01Z
+  Updated: 2025-12-24T15:07:32Z
   Total Products: 397
 - [Brixton | The Vines](https://thevinessupply.co/collections/brixton): Buy Brixton at The Vines. Founded in 2004, Brixton is the collaboration of three friends who wanted to convey their lifestyle through unique products. The clean, classic design of the Brixton collection has a modern yet timeless feel.
   Updated: 2025-05-09T15:48:47Z
   Total Products: 123
 - [Polar Skate Co. | Polar Skate Co T-Shirts, Hoodies & Jeans](https://thevinessupply.co/collections/polar-skate-co): Shop our collection of Polar Skate Co t-shirts, hoodies and jorts. Explore Polar Skate Co Big Boy Jeans, the most legendary denim pants in the game!
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T14:59:54Z
   Total Products: 442
 - [Magenta Skateboards | Magenta Clothing, Decks & Accessories](https://thevinessupply.co/collections/magenta-skateboards): Shop Magenta Skateboards Clothing, Decks & Accessories at The Vines. Browse the biggest UK collection and get best price guarantee on all Magenta skate wear.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 344
 - [Levi's Skateboarding](https://thevinessupply.co/collections/levis-skateboarding): Levi's have been manufacturing denim for well over a century and are recognized for their quality, originality & integrity. Levi's jeans have been worn by skateboarders for decades and have now created a dedicated skateboarding collection, focused on superior construction, durability & comfort. Shop Levi's Skateboarding at The Vines now.
   Updated: 2025-02-20T13:05:10Z
@@ -6760,7 +6684,7 @@
   Updated: 2025-11-06T17:21:23Z
   Total Products: 87
 - [Stance Socks | Socks, Beanies and Underwear | The Vines](https://thevinessupply.co/collections/stance-socks): Shop Stance Socks, Beanies, Boxers and Underwear at The Vines. Stance blend great design, expression and function into the fabric of all their socks, beanies and boxers.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 371
 - [Crupie Wheels](https://thevinessupply.co/collections/crupie-wheels): Crupiê Wheels was founded on the multicultural worldwide brotherhood of skateboarders and a desire for something better. Being a skater owned brand, Crupiê wanted a better wheel at a better price. After years of development, they are proud to offer APEX flatspot resistance formula. The same desire for something better shows not just in the wheels but also in the bamboo shirts and accessories. Crupiê wants to showcase skateboarding and skaters from all over the world. Roll with Crupiê urethane.
   Updated: 2025-02-20T13:05:10Z
@@ -6784,7 +6708,7 @@
   Updated: 2025-02-20T13:05:10Z
   Total Products: 3
 - [Bronze 56K | The Vines](https://thevinessupply.co/collections/bronze-56k): Shop Bronze 56K clothing and hardwear at The Vines. Featuring sophisticated adult entertainment and a funky art style, shop tee's hoodies, hardware, caps and beanies at The Vines
-  Updated: 2025-12-14T12:20:46Z
+  Updated: 2025-12-24T14:56:43Z
   Total Products: 56
 - [Adidas Skateboarding | Adidas Skate Shoes | The Vines](https://thevinessupply.co/collections/adidas-skateboarding): Shop the latest Adidas Skate shoes and apparel at The Vines Supply Co. Find high-performance footwear and stylish skate wear by Adidas Skateboarding. Fast, free shipping at www.thevinessupply.co
   Updated: 2025-12-21T12:15:45Z
@@ -6793,13 +6717,13 @@
   Updated: 2025-11-22T12:21:05Z
   Total Products: 5
 - [Skate Shoes and Insoles | Skate Footwear | The Vines](https://thevinessupply.co/collections/skateboard-footwear-skate-shoes-insoles): Shop Skate Footwear at The Vines - Skate Shoes, and Insoles - with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 318
 - [Thrasher | The Vines](https://thevinessupply.co/collections/thrasher): Buy Thrasher at The Vines. Thrasher magazine is the world's longest running skate periodical and since its inception it has turned into a well respected skateboarding mecca. Shop Thrasher t-shirts, hoodies, jackets and caps at The Vines and show your Thrasher Skate Mag allegiance.
   Updated: 2025-05-08T18:45:26Z
   Total Products: 68
 - [Independent Trucks | The Vines](https://thevinessupply.co/collections/independent-trucks): Buy Independent Trucks at The Vines. Independent Truck Company are known worldwide as the industry leader and for good reason. Independent feels as old as skating itself, crowned by many as the best performing, most durable option to screw to your board.
-  Updated: 2025-12-18T12:22:01Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 49
 - [Bones Wheels | Bones Bearings](https://thevinessupply.co/collections/bones): Shop Bones Wheels & Bearings at The Vines. Bones Wheels create unique urethanes for specific applications of skateboarding, with Bones Reds Bearings becoming the worlds most popular skateboard bearings, being held as one of the greatest quality options on the market.
   Updated: 2025-12-21T12:15:45Z
@@ -6820,25 +6744,25 @@
   Updated: 2025-12-21T12:15:45Z
   Total Products: 265
 - [Hélas | Helas | The Vines](https://thevinessupply.co/collections/helas): Shop Hélas Skate Clothing at The Vines. Shop Helas Caps with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-24T15:11:31Z
   Total Products: 235
 - [Sex Wax](https://thevinessupply.co/collections/sex-wax): World famous Mr Zog's Sex Wax has been the number one choice of grip on surfboards since the '70s. With over 30 years of wax grip technology, Mr. Zogs surfboard wax keeps surfers stuck to their boards. Shop Sex Wax tees and hoodies now at tvsc.co
   Updated: 2025-05-22T17:01:34Z
   Total Products: 18
 - [Footprint Insoles | The Vines](https://thevinessupply.co/collections/footprint-insoles): Buy Footprint Insoles at The Vines. Shop a large range of Footprint Insoles, which provide unrivalled impact absorption and posture correction, wearing these all day you'll feel less tired and ready to push yourself.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 23
 - [Complete Skateboards | The Vines](https://thevinessupply.co/collections/complete-skateboards): Shop Complete Skateboards at The Vines. We offer a range of Complete Skateboards that are the ideal sweet spot between high quality and low price for a beginner skateboarder. Perfect for your first skareboard setup, a complete skateboard will lay the foundation for a skateboarders future on a board.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T14:22:54Z
   Total Products: 135
 - [Thunder Trucks | The Vines](https://thevinessupply.co/collections/thunder-trucks): Buy Thunder Trucks at The Vines. Thunder Trucks are one of the most respected skateboard truck manufacturers in the world. Ridden by some of the best skateboarders around the world, its easy to see why they are the truck of choice for so many.
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-22T14:51:11Z
-  Total Products: 67
+  Updated: 2025-12-24T12:41:06Z
+  Total Products: 66
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
-  Updated: 2025-12-20T12:17:05Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 386
 - [Fucking Awesome | The Vines](https://thevinessupply.co/collections/fucking-awesome): Shop Fucking Awesome at The Vines. Fucking Awesome is a bold and boundary-pushing skateboard brand with strong links with Supreme and New York. Fucking Awesome embodies rebellious spirit and countercultural beliefs that have made FA a force to be reckoned with in the streetwear and skatewear scene.
   Updated: 2025-11-06T17:21:57Z
@@ -6847,7 +6771,7 @@
   Updated: 2025-06-18T22:14:49Z
   Total Products: 29
 - [Pass~Port Skateboards | Clothing, Skate Decks & Accessories](https://thevinessupply.co/collections/pass-port-skateboards): Shop Pass~Port Skateboards, Clothing & Accessories at The Vines, with fast, premium delivery & easy returns.
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 103
 - [Belts | The Vines](https://thevinessupply.co/collections/belts): Shop Belts by your favourite skate wear brands at The Vines. Comfortable, practical and stylish, this selection of belts covers all bases from brands such as Arcade Belts and Santa Cruz.
   Updated: 2025-12-21T12:15:45Z
@@ -6859,10 +6783,10 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 165
 - [Jeans, Cargos & Trousers](https://thevinessupply.co/collections/jeans-cargos-trousers): From baggy to classy, shop denim jeans, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 5735
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
@@ -6880,13 +6804,13 @@
   Updated: 2025-12-11T12:24:36Z
   Total Products: 18
 - [Birdhouse](https://thevinessupply.co/collections/birdhouse): In 1992, at a time in skateboard history when the business of skateboarding was looking bleak, Tony Hawk did the unthinkable…he started a skateboard company. Originally named Birdhouse Projects, it was founded on the premise that, if you love something, you support it and and nurture it. You put the best, most dedicated team of skateboarders together and you do what you love…skateboard. And 24 years later, Birdhouse is still thriving, with one of the best teams in the sport, built on respect, camaraderie, authenticity and a love for what they do. Through the years, the team has included some of the most famous names in skateboarding. Lead by Tony Hawk in the beginning, the team featured Jeremy Klein, Steve Berra, and Willy Santos. Later it was Ocean Howell, Matt Beach, Paul Zitzer, Andrew Reynolds, Brian Sumner, Steve Nesser, Bucky Lasek and Heath Kirchart who made waves. They toured all over the world, were featured in the wildly successful Tony Hawk’s Pro Skater video games, and delivered some of the most iconic and memorable video parts in skate history in Birdhouse’s The End and Feasters. Today, the Birdhouse team features some of the most respected and visible names in the sport, plastered on the covers of Thrasher, The Skateboard Mag and TransWorld Skateboarding magazines, touring the world, winning Thrasher’s King of the Road two years in a row, and racking up video views on The Ride Channel, Thrasher and The Berrics. Birdhouse Skateboards represents over three decades of skateboarding heritage, built on the foundation that legendary skater Tony Hawk laid in 1992. Birdhouse Decks are renowned for their quality construction and iconic graphics that have shaped skateboarding culture since the early 90s. Like their legendary founder, their boards hold a strong reputation amongst skaters as one of the most authentic and high-performance brands in the industry. Shop the best in skateboarding heritage from Birdhouse Skateboards. Legendary since 1992 and built on pure skateboarding passion, Birdhouse Skateboards represents the enduring spirit of authentic skate culture. Founded by Tony Hawk and Per Welinder during skateboarding's darkest period, Birdhouse emerged from a simple belief: if you love something, you support it, nurture it, and build the best team possible to do what you love—skateboard. From iconic video parts in classics like "The End" and "Feasters" to legendary team riders who've defined multiple eras of skating, Birdhouse has consistently delivered boards that perform at the highest level. Whether you're after classic falcon graphics that represent skateboarding heritage or pro models from riders pushing the sport forward, Birdhouse combines decades of innovation with uncompromising quality—built by skaters who understand what it means to stay true to the sport through thick and thin. Birdhouse Skateboards Brand History Back in 1992, when skateboarding was in free fall and the industry looked doomed, Tony Hawk did the unthinkable—he started a skateboard company. Coming off his legendary run with Powell Peralta's Bones Brigade, Hawk teamed up with fellow ex-Powell pro Per Welinder to launch what was originally called Birdhouse Projects. The timing seemed insane—vert skating was dead, street skating was taking over, and companies were folding left and right. But Hawk and Welinder weren't interested in following trends; they wanted to create something authentic that would nurture skateboarding through its toughest period. The early roster included Jeremy Klein, Steve Berra, and Willy Santos, setting the foundation for what would become one of skateboarding's most respected teams. Through legendary video parts, world tours, and iconic graphics, Birdhouse weathered the storm and emerged stronger than ever. From those uncertain early days to becoming a cornerstone of modern skateboarding, Birdhouse has never compromised on their original principle: support what you love, put together the best team possible, and let pure skateboarding speak for itself. Birdhouse Skate Team Birdhouse's team reads like a timeline of skateboarding excellence, spanning multiple generations and styles of skating. The current roster includes Tony Hawk (obviously), Aaron "Jaws" Homoki, Lizzie Armanto, Tom Schaar, Tate Carew, David Loy, Shawn Hale, Elliot Sloan, Felipe Nunes, Reese Nelson, and Gui Khury. But the heritage runs deep—past team members include Andrew Reynolds, Heath Kirchart, Steve Berra, Brian Sumner, Bucky Lasek, Ocean Howell, and countless other legends who helped define their eras. What makes this team special is the diversity: from Jaws' death-defying rail destruction to Lizzie's pioneering influence on women's skating, from Tom Schaar's all-around transition mastery to Tony's continued innovation well into his 50s. Each rider brings their own style while contributing to Birdhouse's legacy of authentic skateboarding. This isn't just a team—it's a family built on mutual respect, camaraderie, and genuine love for what they do. Birdhouse Skate Products Explore the complete Birdhouse Skateboards collection at The Vines Supply Co., featuring legendary boards and graphics that represent over three decades of skateboarding heritage. Birdhouse Falcon Series Decks: The iconic Birdhouse falcon graphics that have defined the brand since day one. Available in various sizes from 7.75" to 8.5", these boards feature the legendary bird imagery in different colourways and treatments. Built with 7-ply North American hard rock maple construction and pressed with epoxy for superior pop and durability that can handle whatever you throw at it. Birdhouse Tony Hawk Pro Models: Signature boards from the legend himself, featuring classic spiral graphics, TH icons, and modern interpretations of Tony's favourite designs. Each model reflects decades of input from one of skateboarding's most influential riders, built to the exact specifications that have carried Tony through multiple decades of progression. Birdhouse Team Pro Models: Signature decks from current team riders like Aaron "Jaws" Homoki, Lizzie Armanto, Tom Schaar, and the rest of the squad. From Jaws' impact-resistant setups to Lizzie's technical street specifications, each board is designed with direct rider input to handle their specific skating styles and demands. Birdhouse Logo Collection: Classic Birdhouse branding in various treatments—from the iconic "B" logo to hummingbird graphics and modern interpretations of classic themes. These boards represent pure Birdhouse heritage with timeless graphics that have defined the brand across multiple decades. Birdhouse Stage Series Completes: Ready-to-ride complete skateboards in Stage 1 (basic) and Stage 3 (premium) configurations. Each complete features quality Birdhouse components including trucks, wheels, bearings, and grip tape—perfect for skaters wanting authentic Birdhouse setups without building from scratch. Birdhouse Skateboards FAQs What makes Birdhouse different from other skateboard brands? Birdhouse represents over 30 years of authentic skateboarding heritage, founded by Tony Hawk during skating's darkest period. The brand has maintained its core values of supporting pure skateboarding talent while consistently delivering quality products that perform at the highest level. Are Birdhouse skateboards good quality? Absolutely. Birdhouse boards are constructed with premium 7-ply North American hard rock maple and pressed with epoxy for superior strength and pop. Their commitment to quality construction has been proven by decades of team riders pushing the limits of what's possible on a skateboard. Does Tony Hawk still actively ride for Birdhouse? Yes, Tony Hawk is still very much involved with Birdhouse as both founder and active team rider. He continues to skate regularly, develop products, and mentor younger team members while maintaining his role as the brand's driving force and inspiration. What size Birdhouse deck should I choose? Birdhouse offers boards from 7.75" to 8.5" and beyond. For street skating and technical tricks, 7.75"-8.25" works well. For transition, vert, or general cruising, 8.0"-8.5" provides more stability. Consider your foot size, skating style, and personal preference when choosing. What are Birdhouse's most iconic graphics? The Falcon series graphics are the most recognisable, along with Tony Hawk's spiral designs and the classic "B" logo. These graphics have appeared in countless variations over the decades, representing the brand's enduring visual identity and connection to skateboarding culture. Does Birdhouse make complete skateboards? Yes, Birdhouse offers Stage 1 and Stage 3 complete skateboard setups with quality components. These completes are perfect for beginners or anyone wanting a ready-to-ride Birdhouse setup without having to source individual components. How has Birdhouse stayed relevant for over 30 years? Birdhouse has maintained relevance by staying true to authentic skateboarding while continuously evolving their team and products. From legendary video parts to modern social media content, they've adapted their approach while never compromising on quality or core skateboarding values. Shop our complete Birdhouse Skateboards collection, featuring falcon graphics, Tony Hawk pro models, and over three decades of skateboarding heritage. Enjoy fast, free UK premium delivery on orders over £70, with free next-day delivery available for orders placed before 4pm.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T14:22:54Z
   Total Products: 33
 - [New Balance Numeric Skate Shoes | The Vines](https://thevinessupply.co/collections/new-balance-numeric): Shop New Balance Skate Shoes at The Vines. New Balance Numeric is a collection of performance-driven skateboarding shoes, with fast, free delivery.
   Updated: 2025-12-18T12:22:01Z
   Total Products: 82
 - [Girl Skateboards | Girl Skate Decks](https://thevinessupply.co/collections/girl-skateboards): Buy Girl Skateboards decks at The Vines in Solihull. Girl Skateboards was founded way back in 1993 in Torrance, California by Rick Howard, Mike Carroll from the ashes of World Industries. The company quickly became famous as the skate brand with the ‘ladies’ toilet logo. Get fast, free delivery options and best prices at The Vines.
-  Updated: 2025-12-05T10:40:57Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 57
 - [Last Resort AB | The Vines](https://thevinessupply.co/collections/last-resort-ab): Buy Last Resort AB skate shoes at The Vines. Created by Polar Skate Co's Pontus Alv and long time friend Sami Sami Tolppi, Last Resort AB are made with skateboarding in mind - made by skateboarders, for skateboarders.
   Updated: 2025-12-21T12:15:45Z
@@ -6898,7 +6822,7 @@
   Updated: 2025-12-23T12:16:00Z
   Total Products: 25
 - [Clothing Accessories | The Vines](https://thevinessupply.co/collections/clothing-accessories): Shop accessories from the finest international and UK skate brands from The Vines. Shop our curated collection of headwear, socks, underwear, belts and shades. As well as pin badges, keychains and air fresheners to spice up your life.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 1444
 - [Sabbath Wheels](https://thevinessupply.co/collections/sabbath-wheels): Sabbath Skateboard Wheels are here to shake up the skate wheels scene. Buy now with best price guarantee and free delivery.
   Updated: 2025-12-10T16:44:01Z
@@ -6919,7 +6843,7 @@
   Updated: 2025-12-23T12:16:00Z
   Total Products: 596
 - [Cash Only | The Vines](https://thevinessupply.co/collections/cash-only): Shop Cash Only at The Vines. Initially starting out as the distribution company for Butter Goods, Cash Only began making product under the same name back in 2018.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 23
 - [Chocolate Skateboards | The Vines](https://thevinessupply.co/collections/chocolate-skateboards): Shop Chocolate Skateboards clothing, accessories and skate board decks at The Vines. Chocolate skateboards is the sister company of the legendary Girl Skateboards. Chocolate was founded in 1994, a year after the formation of Girl, under the leadership of professional skaters Mike Carroll and Rick Howard.
   Updated: 2025-12-15T12:24:14Z
@@ -6934,7 +6858,7 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 365
 - [Vans Skate | Vans Shoes, T-Shirts & Accessories | The Vines](https://thevinessupply.co/collections/vans): Buy Vans Skateboarding clothing, shoes and accessories at The Vines. Shop Vans T-shirts, hoodies, crewnecks, Vans skate shoes and sunglasses.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 162
 - [GVNMNT Clothing Co | The Vines](https://thevinessupply.co/collections/gvnmnt-clothing-co): Buy GVNMNT Clothing Co at The Vines. GVNMNT's collections reflect struggles everyday people encounter regardless of their upbringing, surroundings, or circumstances, the company began as a streetwear brand and then entered the skateboarding realm naturally due what the brand stands for... taking outsiders in.
   Updated: 2025-12-23T12:16:00Z
@@ -6976,10 +6900,10 @@
   Updated: 2025-12-16T12:25:00Z
   Total Products: 17
 - [Jeans, Shorts and Trousers | The Vines](https://thevinessupply.co/collections/jeans-shorts-and-trousers): Shop Bottoms, including Denim Jeans, Shorts, Trousers, Chinos and Tracksuit Bottoms at The Vines.From baggy to classy, shop denim jeans, shorts, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 259
 - [Hoodies and Crewnecks | The Vines](https://thevinessupply.co/collections/hoodies-crews): Our curated collection of hoodies, crewnecks and sweaters from your favourite skateboard brands from the UK and worldwide, including Polar Skate Co, Helas, Magenta, Dime MTL, Vans, Dickies, RIPNDIP, HUF, Santa Cruz, Fucking Awesome, Hockey, Quasi, GVNMNT Clothing Co.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-24T15:11:31Z
   Total Products: 439
 - [Sci-Fi Fantasy | The Vines](https://thevinessupply.co/collections/sci-fi-fantasy): Shop Sci Fi Fantasy at The Vines. Sci Fi Fantasy is the brainchild of Jerry Hsu. His clothing line is full of imagery celebrating a past where our gaze was firmly fixed on the future. They have delivered a line-up of of caps, clothes and skateboards that are quite literally out of this world.
   Updated: 2025-05-22T17:01:50Z
@@ -6988,7 +6912,7 @@
   Updated: 2025-10-02T10:47:29Z
   Total Products: 7
 - [Dime MTL | Skatewear Clothing & Accessories | The Vines](https://thevinessupply.co/collections/dime-mtl): Shop Dime MTL Tees, Hoodies, Caps, Beanies, Jeans, Jackets and more at The Vines, with fast, premium delivery and easy returns
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:12:38Z
   Total Products: 178
 - [SPITFIRE X LAST RESORT Collection | The Vines](https://thevinessupply.co/collections/spitfire-x-last-resort): Shop the SPITFIRE X LAST RESORT Collection at The Vines. Combining the classic Spitfire Swirl logo and Last Resorts instantly recognisable peeping eyes branding, the collection comprises rad pieces including Last Resort's classic 1st silhouette, the Last Resort VM001 Suede.
   Updated: 2025-02-20T13:05:15Z
@@ -7021,10 +6945,10 @@
   Updated: 2025-07-10T23:57:12Z
   Total Products: 4
 - [Denim Skate Jeans | The Vines](https://thevinessupply.co/collections/skate-jeans): Shop Denim Jeans from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:12:38Z
   Total Products: 148
 - [Cargos, Chinos & Joggers | Skatewear Cargo Pants & Tracksuit Bottoms](https://thevinessupply.co/collections/cargos-chinos-joggers-tracksuit-bottoms): From baggy to classy, shop Cargos, Chinos, Joggers and Tracksuit Bottoms from your favourite skateboard brands at The Vines.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 23
 - [Skateboard Nuts & Bolts | The Vines](https://thevinessupply.co/collections/skateboard-nuts-bolts): Shop a range of Skateboard Nuts & Bolts at The Vines, ranging in size and colour. Get fast, premium delivery in our online skate shop.
   Updated: 2025-12-16T12:25:00Z
@@ -7057,7 +6981,7 @@
   Updated: 2025-11-17T15:59:45Z
   Total Products: 18
 - [gift-guide-2023-gifts-presents-for-skateboarders](https://thevinessupply.co/collections/gift-guide-2023-gifts-presents-for-skateboarders)
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 50
 - [spring-23-pdf](https://thevinessupply.co/collections/spring-23-pdf)
   Updated: 2025-12-18T12:22:01Z
@@ -7096,7 +7020,7 @@
   Updated: 2025-12-11T11:23:52Z
   Total Products: 15
 - [Skateboard Griptape | The Vines](https://thevinessupply.co/collections/griptape): Shop Skateboard griptape at The Vines. Shop our range of Griptape, grab a Deck to go with it!
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 8
 - [Butter Goods Beanies | Butter Goods Beanie Hats | The Vines](https://thevinessupply.co/collections/butter-goods-beanies): Shop Butter Goods Beanies at The Vines in a variety of sick colours. The Butter Goods Beanies, such as the Butter Goods Wharfie Beanie, in a variety of sick colours. Butter Goods Beanies are loved for their high quality design and fit.
   Updated: 2025-12-20T12:17:05Z
@@ -7114,10 +7038,10 @@
   Updated: 2025-12-18T12:22:01Z
   Total Products: 16
 - [Dime MTL Denim Jeans | Skatewear Jeans | The Vines](https://thevinessupply.co/collections/dime-mtl-denim-jeans): Shop a range of Dime MTL Denim Jeans at The Vines, with fast, premium delivery and easy returns.
-  Updated: 2025-12-23T11:29:07Z
+  Updated: 2025-12-24T15:12:38Z
   Total Products: 18
 - [Long Sleeve T-Shirts | The Vines](https://thevinessupply.co/collections/long-sleeve-t-shirts): Shop premium Long Sleeve T-Shirts at The Vines. Shop tee's from the best UK and international skate brands, such as Polar, Butter Goods, Helas, Vans, Dickies & Dime.
-  Updated: 2025-12-18T12:22:01Z
+  Updated: 2025-12-24T15:06:21Z
   Total Products: 103
 - [Butter Goods T-Shirts | Butter Goods Skate Tees | The Vines](https://thevinessupply.co/collections/butter-goods-t-shirts): Shop Butter Goods T-Shirts at The Vines. Butter Goods T-Shirts take inspiration from art, design and music to bring deluxe quality garms with an emphasis on durability, fit, and progressive design.
   Updated: 2025-12-19T12:18:48Z
@@ -7126,10 +7050,10 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-23T15:05:02Z
-  Total Products: 3227
+  Updated: 2025-12-24T15:14:06Z
+  Total Products: 3225
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
-  Updated: 2025-12-22T12:17:19Z
+  Updated: 2025-12-24T15:03:20Z
   Total Products: 110
 - [Vans Sunglasses | The Vines](https://thevinessupply.co/collections/vans-sunglasses): Get ready for the Sun with a pair of Vans Sunglasses. Established in California in 1966, Vans skate shoes rugged construction and unique soles made them popular from the earliest days of skateboarding.
   Updated: 2025-12-21T12:15:45Z
@@ -7162,11 +7086,11 @@
   Updated: 2025-12-21T12:15:45Z
   Total Products: 33
 - [Skate Crewnecks | Pullover Crews | The Vines](https://thevinessupply.co/collections/crewnecks): Shop deluxe quality Pullover Crewnecks from the best UK and international skateboarding brands. See our curated collection of skatewear crews. Crew Neck Sweatshirts represent the timeless comfort foundation of modern skateboarding style, engineered specifically to deliver the perfect balance of warmth, durability, and authentic street aesthetics that transformed simple athletic wear into cultural essentials. Skate Crew Sweatshirts UK have evolved from basic gymnasium wear to sophisticated streetwear featuring premium construction, contemporary cuts, and designs that cater to every style of skating and street culture. Like skateboarding itself, crew design holds authenticity and comfort at its core, creating the essential layering piece that bridges seasons while providing the reliable warmth and style that defines genuine street culture. Shop the best in crew construction from premium skateboarding brands. Essential since the 1930s and constantly evolving with skate culture, crew neck sweatshirts represent the most versatile garment in skateboarding history. What started as practical athletic wear developed by Russell Athletic and Champion for college sports has transformed into cultural symbols featuring heavyweight cotton construction, authentic graphics, and cuts refined through decades of street culture adoption. From early reverse weave innovations that minimised shrinkage to modern interpretations featuring oversized fits, vintage colourways, and heritage logos, every authentic crew sweatshirt combines timeless comfort with skateboarding DNA. Whether you're after classic Champion construction with that perfect vintage feel or contemporary interpretations that blend heritage aesthetics with modern functionality, the right crew transforms your wardrobe while providing the comfort, durability, and authenticity that serious street culture demands, crafted by companies who understand that great crews aren't just comfortable clothing, they're foundational pieces that work with everything while representing genuine connection to skateboarding heritage. Crew Sweatshirt History & Evolution Back in 1934, Russell Athletic created the first crew neck sweatshirt for football players, revolutionising athletic wear with cotton fleece construction that provided warmth without the weight and restriction of heavy wool sweaters. The breakthrough came when Champion perfected reverse weave construction in the 1950s, creating sweatshirts that maintained their shape and fit through repeated washing while providing superior comfort and durability. By the 1960s, crew neck sweatshirts had crossed over from pure athletics into casual wear, but it was the 1970s and 80s that witnessed their adoption into skateboarding culture. Early skaters embraced crews for their practical benefits, warmth during cold sessions, comfort for all-day wear, and durability that handled the constant abuse of street skating. The oversized fits popular in 80s and 90s skate culture perfectly suited sweatshirt construction, creating the baggy aesthetic that defined multiple generations of skaters. Brands like Thrasher and Independent began screen-printing their logos onto quality blanks, creating the first skate-specific crews that combined authentic graphics with proven construction. The 1990s saw the golden era of crew culture, when brands like Supreme elevated the humble sweatshirt into high-fashion territory while maintaining street credibility through quality construction and authentic graphics. This period established the crew as essential streetwear, versatile enough for layering, comfortable enough for daily wear, and authentic enough to represent genuine street culture. The 2000s brought technical innovations including pre-shrunk cotton, improved colourfast dyes, and reinforced stress points, while maintaining the classic fits and comfortable feel that made crews essential. Contemporary crew design reflects decades of refinement: premium heavyweight cotton that improves with age, carefully considered fits that balance vintage aesthetics with modern proportions, and graphics that reference both skateboarding heritage and broader cultural movements. From those early athletic origins to today's streetwear interpretations featuring artistic collaborations and limited colourways, crew neck sweatshirts have grown alongside skateboarding culture, constantly adapting while maintaining the core comfort and authenticity that made them foundational to generations of skaters. Key Features & Construction What separates quality crew neck sweatshirts from basic alternatives comes down to specific construction elements developed through decades of athletic wear innovation and street culture adoption. Premium crews feature heavyweight cotton fleece construction (typically 280-400gsm) using either pure cotton for maximum comfort or cotton-poly blends that provide enhanced durability and shape retention. The fleece weight determines warmth and structure: lightweight crews (250-300gsm) perfect for layering and transitional weather, while heavyweight options (350gsm+) provide maximum insulation and that substantial feel preferred by serious streetwear enthusiasts. Modern crew construction includes pre-shrunk cotton that maintains fit through washing, colorfast dyes that resist fading, and reinforced neck seams that prevent stretching and distortion. Quality details include flat-seam construction that eliminates irritation, properly finished hems that maintain shape, and ribbed cuffs and waistbands that provide comfortable fit without excessive tightness. Contemporary skate crews often feature vintage-inspired cuts that reference 1990s aesthetics while providing comfortable movement for skating and daily wear. The neck construction affects both comfort and durability, properly reinforced crew necks maintain their shape through repeated wearing and washing, while cheap alternatives stretch out and lose structure quickly. Screen-printed graphics should use quality inks that bond properly with the fabric, while embroidered details offer superior longevity and premium feel. Fit variations accommodate different style preferences: relaxed cuts provide classic streetwear aesthetics and comfortable layering, while contemporary fits offer modern proportions without sacrificing the essential crew neck silhouette. Whether featuring classic Champion-style construction for authentic heritage feel or modern interpretations with technical improvements, authentic skate crews represent the intersection of athletic performance, street culture aesthetics, and decades of construction refinement by the world's most demanding streetwear communities. Brands & Styles We Stock Explore our comprehensive range of crew neck sweatshirts UK at The Vines Supply Co., featuring premium construction, proven comfort, and authentic graphics that represent the finest in skateboarding streetwear. Polar Skate Co Crews: Swedish minimalism meets skateboarding functionality with unique graphics and contemporary fits. Features distinctive embroidery, artistic approach to crew design, and colorways that reference both Scandinavian aesthetics and international skate culture. HUF Crews: San Francisco skateboarding culture with crews that balance street aesthetics with quality construction. Known for their attention to detail, premium cotton construction, and graphics that celebrate both skateboarding heritage and broader street culture movements. Butter Goods Crews: Crew Sweatshirt Buying Guide Choosing the right crew neck sweatshirt depends on your style preferences, layering needs, and quality expectations. For maximum durability and authentic feel, choose heavyweight cotton crews (350gsm+) with proven construction—brands like Champion and Carhartt WIP excel in creating sweatshirts that improve with age while maintaining structure and comfort. For versatile layering, medium-weight crews (280-320gsm) provide excellent warmth without excessive bulk, perfect for wearing over tees or under jackets throughout changing seasons. Consider construction details: reverse weave or similar techniques prevent shrinkage and maintain fit, while reinforced seams handle the stress of active wear and repeated washing. Fit preference varies significantly in street culture: vintage-inspired relaxed cuts provide authentic 1990s aesthetics and comfortable movement, while contemporary fits offer modern proportions with classic crew neck styling. Quality matters enormously in crew construction—authentic brands use superior cotton that develops character with wear, premium inks that won't crack or fade, and construction techniques that maintain garment integrity through years of use. Pay attention to finishing details: properly ribbed cuffs and waistbands that maintain elasticity, flat-seam construction that eliminates irritation, and neck reinforcement that prevents stretching. For graphic crews, screen-printed designs should use quality inks that bond permanently with the fabric, while embroidered details offer premium feel and superior longevity. Color and graphic selection should reflect your personal style while considering versatility—neutral colors work across seasons and styling options, while bold graphics make stronger cultural statements. Consider care requirements: quality cotton crews benefit from proper washing and drying techniques that maintain their structure and appearance. Most importantly, choose crews from authentic brands with genuine streetwear or skateboarding heritage—they understand the construction techniques, fit preferences, and cultural context that separate real crew necks from fashion interpretations that lack authenticity and durability. Crew Sweatshirt FAQs What weight crew neck sweatshirt is best for skateboarding? Medium to heavyweight crews (300-400gsm) provide the best balance of warmth, durability, and comfort for skating. They offer protection during falls while maintaining comfortable movement and lasting through the abuse of active skateboarding lifestyles. How should a crew neck sweatshirt fit? Crew necks should fit comfortably across the shoulders and chest without being restrictive, with sleeve length that allows layering and arm movement. Most skaters prefer slightly relaxed fits that reference classic streetwear aesthetics while providing practical functionality. What's the difference between cotton and cotton-poly blend crews? Pure cotton provides superior comfort, breathability, and that authentic vintage feel, but may shrink slightly. Cotton-poly blends offer enhanced durability and shape retention while sacrificing some of the natural feel and breathability of pure cotton. Are heavyweight crews worth the extra cost? Quality heavyweight crews from authentic brands justify higher prices through superior durability, comfort that improves with age, and construction that maintains appearance and fit through years of wear. Cheap alternatives typically lose shape and comfort quickly. How do I prevent crew neck sweatshirts from shrinking? Choose pre-shrunk cotton construction, wash in cold water, and air dry when possible. Quality brands like Champion use reverse weave and other techniques specifically designed to minimize shrinkage while maintaining comfort and fit. What makes skate brand crews different from regular sweatshirts? Skate brand crews typically feature construction and fits designed for active lifestyles, authentic graphics that represent genuine culture, and quality standards developed through decades of streetwear evolution rather than pure fashion trends. Can I wear crew neck sweatshirts year-round? Medium-weight crews work well for layering across seasons, while heavyweight options are best for cooler weather. Quality cotton breathes well enough for transitional seasons, and crews are versatile enough to work in various styling combinations. Shop our complete crew neck sweatshirt collection, featuring heavyweight construction, authentic graphics, and genuine streetwear heritage from the most respected names in skateboarding and street culture. Enjoy fast, free UK premium delivery on orders over £70, with free next-day delivery available for orders placed before 4pm.
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-24T15:07:32Z
   Total Products: 112
 - [UK 7 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-7-skate-shoes): Shop our curated selection of Skate Shoes in UK 7 at The VInes. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-21T12:15:45Z
-  Total Products: 25
+  Updated: 2025-12-24T12:41:07Z
+  Total Products: 24
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-21T12:15:45Z
   Total Products: 22
@@ -7186,7 +7110,7 @@
   Updated: 2025-09-16T21:06:29Z
   Total Products: 43
 - [Dime MTL Hoodies](https://thevinessupply.co/collections/dime-mtl-hoodies): Dime MTL is a heavy Montreal based brand with a subtle, classic aesthetic and tongue-in-cheek approach to graphics. Dime MTL hoodies are some of the rarest and most sought after skate garms in the industry. Shop all Dime MTL
-  Updated: 2025-11-04T12:19:28Z
+  Updated: 2025-12-24T15:09:42Z
   Total Products: 14
 - [Polar Skate Co Hoodies](https://thevinessupply.co/collections/polar-skate-co-hoodies): Buy Polar Skate Co. hoodies at The Vines online skate shop. Shop our huge Polar hoodys collection with fast, free delivery available and easy returns at www.thevinessupply.co
   Updated: 2025-09-23T17:32:09Z
@@ -7198,22 +7122,22 @@
   Updated: 2025-12-04T12:24:13Z
   Total Products: 5
 - [Polar Skate Co T-Shirts](https://thevinessupply.co/collections/polar-skate-co-t-shirts): Shop Polar Skate Co T-Shirts. Browse our range of Polar tees styles including Polar Skate Co Striped T-Shirts and Polar Fill Logo tees with fast, free delivery.
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-24T14:59:54Z
   Total Products: 140
 - [Dime MTL T-Shirts](https://thevinessupply.co/collections/dime-mtl-t-shirts): Shop our collection of Dime MTL T-Shirts. Dime clothing is one of the rarest and most sought after skate wear brands in the industry. With fast, free delivery
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:01:10Z
   Total Products: 64
 - [Dime MTL Wallets](https://thevinessupply.co/collections/dime-mtl-wallets): Shop our collection of Dime MTL Wallets. Dime clothing is one of the rarest and most sought after skate wear brands in the industry. Hit up The Vines now to shop our collection of Dime Leather Wallets and card holders. Shop all Dime MTL
   Updated: 2025-12-20T12:17:06Z
   Total Products: 16
 - [Hélas T-Shirts](https://thevinessupply.co/collections/helas-t-shirts): Shop Hélas Caps T-Shirts at The Vines. Browse our collection of Helas tees, long sleeves and polo's. Shop all Helas Caps with fast, free delivery.
-  Updated: 2025-12-18T12:22:01Z
+  Updated: 2025-12-24T15:06:21Z
   Total Products: 95
 - [Sale](https://thevinessupply.co/collections/sale)
-  Updated: 2025-12-22T14:51:11Z
-  Total Products: 67
+  Updated: 2025-12-24T12:41:07Z
+  Total Products: 66
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
-  Updated: 2025-12-16T12:25:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 39
 - [Lurpiv Truck Company | Skateboard Trucks UK](https://thevinessupply.co/collections/lurpiv-trucks): Buy Lurpiv Trucks at The Vines. Lurpiv Skateboard Trucks is back! A whole new factory, some tweaks on construction but the same amazing control and feel. All Lurpiv trucks are made with injected aluminium, no gravity pour, which means they last longer and grind faster than other skateboard trucks on the market.
   Updated: 2025-11-26T12:23:56Z
@@ -7231,8 +7155,8 @@
   Updated: 2025-12-08T12:24:07Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-23T12:16:00Z
-  Total Products: 2907
+  Updated: 2025-12-24T15:14:35Z
+  Total Products: 2890
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7252,10 +7176,10 @@
   Updated: 2025-12-01T17:55:25Z
   Total Products: 4
 - [HUF T-Shirts](https://thevinessupply.co/collections/huf-t-shirts)
-  Updated: 2025-12-18T12:22:01Z
+  Updated: 2025-12-24T14:54:30Z
   Total Products: 159
 - [Girl Skateboards x Pac Man Collection](https://thevinessupply.co/collections/girl-skateboards-x-pac-man-collection): Shop the Girl Skateboards x Pac Man Collection at The Vines. The Girl Skateboards Pac-Man collection features bright poppy colours and embossed mazes. Shop all Girl Skateboards Shop all Skateboard Decks
-  Updated: 2025-12-05T10:40:57Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 11
 - [Palace Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboard-decks): Shop Palace Skateboard Decks at The Vines. Shop the latest collection of Palace Skateboard Decks, as well as a range from recent collections.
   Updated: 2025-12-07T12:20:48Z
@@ -7273,10 +7197,10 @@
   Updated: 2025-06-18T22:26:01Z
   Total Products: 1
 - [3 For 2 Tees | Add 3 T-shirts, get the 3rd FREE | Skate T-Shirts](https://thevinessupply.co/collections/3-for-2-t-shirts): Get 3 Skate T-shirts for the price of 2 at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:06:21Z
   Total Products: 1534
 - [Magenta](https://thevinessupply.co/collections/magenta)
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 344
 - [Hockey Skateboards T-Shirts | The Vines](https://thevinessupply.co/collections/hockey-skateboards-t-shirts): Shop Hockey Skateboards T-Shirts at The Vines.
   Updated: 2025-12-06T12:19:44Z
@@ -7288,7 +7212,7 @@
   Updated: 2025-12-08T12:24:07Z
   Total Products: 44
 - [Crailtap Skateboards | Girl & Chocolate Skateboard Decks & Accessories](https://thevinessupply.co/collections/crailtap-skateboards): Shop Crailtap Skateboards, decks, clothing & accessories from Girl and Chocolate skateboards at The Vines.
-  Updated: 2025-12-15T12:24:14Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 91
 - [GVNMNT Clothing Co T-Shirts | The Vines](https://thevinessupply.co/collections/gvnmnt-clothing-co-t-shirts): Shop GVNMNT Clothing Co T-Shirts at The Vines.
   Updated: 2025-12-22T12:17:19Z
@@ -7303,7 +7227,7 @@
   Updated: 2025-12-02T12:25:48Z
   Total Products: 2
 - [Hélas Hoodies](https://thevinessupply.co/collections/helas-hoodies): Buy Hélas Hoodies at The Vines. Browse our collection of Helas hoods. Shop all Helas with best prices and premium, fast free delivery in our online skate shop.
-  Updated: 2025-10-18T12:27:01Z
+  Updated: 2025-12-24T15:11:31Z
   Total Products: 28
 - [Dime MTL Classic Baggy Denim Jeans | The VInes](https://thevinessupply.co/collections/dime-mtl-classic-baggy-denim-jeans): Shop Dime MTL Classic Baggy Denim Jeans in a range of colourways and sizes at The Vines.
   Updated: 2025-11-06T17:15:35Z
@@ -7315,10 +7239,10 @@
   Updated: 2025-12-01T17:54:40Z
   Total Products: 6
 - [Q1 2025](https://thevinessupply.co/collections/q1-2025)
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-24T14:55:12Z
   Total Products: 179
 - [Jumpers](https://thevinessupply.co/collections/jumpers): Our collectiomn for skate and street wear brand jumpers
-  Updated: 2025-12-20T12:17:06Z
+  Updated: 2025-12-24T15:08:53Z
   Total Products: 12
 - [DC Shoes | DC Skate Shoes | The Vines](https://thevinessupply.co/collections/dc-shoes): Shop DC Skate Shoes at The Vines. The Best & Latest DC Trainers built for Skateboarding, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-12-15T12:24:14Z
@@ -7345,7 +7269,7 @@
   Updated: 2025-11-27T12:26:09Z
   Total Products: 3
 - [Denim Jeans & Shorts | Skate Denim Jeans & Shorts](https://thevinessupply.co/collections/denim-jeans-shorts): Shop premium quality Denim Jeans and Denim Shorts from your favourite skate brands at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T15:14:06Z
   Total Products: 134
 - [Magenta Skateboards Hoodies](https://thevinessupply.co/collections/magenta-skateboards-hoodies): Shop our collection of Magenta Skateboards hoodies. Enjoy fast, free UK premium delivery on orders over £70 and best prices, guaranteed.
   Updated: 2025-12-13T12:20:43Z
@@ -7360,7 +7284,7 @@
   Updated: 2025-12-20T12:17:06Z
   Total Products: 38
 - [8.25" Skateboard Decks](https://thevinessupply.co/collections/8-25-skateboard-decks)
-  Updated: 2025-12-20T12:17:06Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 191
 - [8.375" Skateboard Decks](https://thevinessupply.co/collections/8-375-skateboard-decks)
   Updated: 2025-12-11T11:26:23Z
@@ -7378,16 +7302,16 @@
   Updated: 2025-11-06T17:21:58Z
   Total Products: 6
 - [Latest Skateboard Decks](https://thevinessupply.co/collections/latest-skateboard-decks): Shop our selection of the newest skateboard decks, including cruisers, pool shapes and more. A huge selection of skate decks from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more
-  Updated: 2025-12-20T12:17:06Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 982
 - [Best Selling Skateboard Decks](https://thevinessupply.co/collections/best-selling-skateboard-decks): Shop our best selling skateboard decks. A huge selection of popular shapes and sizes skate decks from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more
-  Updated: 2025-12-20T12:17:06Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 982
 - [Skateboard Decks Sale](https://thevinessupply.co/collections/skateboard-decks-sale): Shop our selection of sale skateboard decks, including cruisers, pool shapes and more. A huge selection of skate decks sale with discounts from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more.
   Updated: 2025-10-14T14:32:12Z
   Total Products: 155
 - [Latest Skateboarding Hardware](https://thevinessupply.co/collections/latest-skateboarding-hardware): Shop the newest skateboard hardware products, including skateboard trucks, skate decks, skateboard wheels and more. A huge selection of skate decks from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
-  Updated: 2025-12-21T12:15:45Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 1381
 - [Skateboard Hardware Sale](https://thevinessupply.co/collections/skateboard-hardware-sale): Shop our skateboard hardware sale, including big discounts on skateboard trucks, skate decks, skateboard wheels and more. A huge selection of sale skate hardware from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
   Updated: 2025-12-10T12:48:57Z
@@ -7402,14 +7326,14 @@
   Updated: 2025-12-21T12:15:45Z
   Total Products: 6
 - [Wheels, Bearings & Trucks](https://thevinessupply.co/collections/wheels-bearings-trucks)
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 371
 - [Wheels & Bearings](https://thevinessupply.co/collections/wheels-bearings)
-  Updated: 2025-12-23T12:16:00Z
+  Updated: 2025-12-24T12:15:17Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2025-12-22T12:17:19Z
-  Total Products: 3116
+  Updated: 2025-12-24T15:14:35Z
+  Total Products: 3133
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 67
