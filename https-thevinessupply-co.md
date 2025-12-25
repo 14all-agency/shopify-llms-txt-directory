@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-25T16:00:36.357Z
+- Updated At: 2025-12-25T20:00:37.041Z
 
 ## Products
 
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/bones-bearings-bones-reds-precision-skate-bearings-608-8mm-pack-of-8-1183729713.jpg?v=1757443920
   Price: £16.95 GBP
 - [Bronson Speed Co. Bearings G3](https://thevinessupply.co/products/bronson-g3-skateboard-bearings): Buy the Bronson Speed Co. G3 Bearings at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-25T14:28:29Z
+  Updated: 2025-12-25T19:45:07Z
   Vendor: Bronson
   Product Type: Bearings
   Availability: Available
@@ -4180,20 +4180,20 @@
     Availability: Available
     Price: £54.95 GBP
 - [Helas Clint Long Sleeve T-Shirt | Black](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black): Buy the Helas Clint Long Sleeve T-Shirt in Black at The Vines Skate Shop in Solihull or online at thevinessupply.co
-  Updated: 2025-12-24T15:06:20Z
+  Updated: 2025-12-25T17:50:01Z
   Vendor: Helas
   Product Type: Tees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-tees-helas-clint-long-sleeve-t-shirt-black-1192684356.png?v=1757807780
   - [Medium](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931682193743)
     Availability: Not Available
-    Price: £41.95 GBP
+    Price: £59.95 GBP
   - [Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931677245775)
     Availability: Available
-    Price: £41.95 GBP
+    Price: £59.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-black?variant=55931682226511)
     Availability: Not Available
-    Price: £41.95 GBP
+    Price: £59.95 GBP
 - [Helas Clint Long Sleeve T-Shirt | White](https://thevinessupply.co/products/helas-clint-long-sleeve-t-shirt-white): Buy the Helas Clint Long Sleeve T-Shirt in white at The Vines Skate Shop in Solihull or online at thevinessupply.co
   Updated: 2025-12-24T15:05:47Z
   Vendor: Helas
@@ -6579,7 +6579,7 @@
 ## Collections
 
 - [Skate T-Shirts | Skateboard Tees | The Vines](https://thevinessupply.co/collections/skate-t-shirts): Shop skate T-Shirts at The Vines. Buy mens skate tee's from the best UK and international skate t-shirt brands with fast, premium delivery and easy 90 day returns.
-  Updated: 2025-12-25T13:50:36Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 1534
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
   Updated: 2025-12-25T14:35:01Z
@@ -6600,7 +6600,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-25T13:56:31Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 2898
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-12-21T12:15:45Z
@@ -6732,7 +6732,7 @@
   Updated: 2025-12-25T13:52:04Z
   Total Products: 265
 - [Hélas | Helas | The Vines](https://thevinessupply.co/collections/helas): Shop Hélas Skate Clothing at The Vines. Shop Helas Caps with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-25T13:50:38Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 235
 - [Sex Wax](https://thevinessupply.co/collections/sex-wax): World famous Mr Zog's Sex Wax has been the number one choice of grip on surfboards since the '70s. With over 30 years of wax grip technology, Mr. Zogs surfboard wax keeps surfers stuck to their boards. Shop Sex Wax tees and hoodies now at tvsc.co
   Updated: 2025-05-22T17:01:34Z
@@ -6747,8 +6747,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-25T15:00:51Z
-  Total Products: 137
+  Updated: 2025-12-25T17:50:18Z
+  Total Products: 136
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-25T14:35:25Z
   Total Products: 386
@@ -6774,7 +6774,7 @@
   Updated: 2025-12-25T13:51:35Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-25T14:35:25Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 5736
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
@@ -7029,7 +7029,7 @@
   Updated: 2025-12-25T13:51:35Z
   Total Products: 18
 - [Long Sleeve T-Shirts | The Vines](https://thevinessupply.co/collections/long-sleeve-t-shirts): Shop premium Long Sleeve T-Shirts at The Vines. Shop tee's from the best UK and international skate brands, such as Polar, Butter Goods, Helas, Vans, Dickies & Dime.
-  Updated: 2025-12-24T15:06:21Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 103
 - [Butter Goods T-Shirts | Butter Goods Skate Tees | The Vines](https://thevinessupply.co/collections/butter-goods-t-shirts): Shop Butter Goods T-Shirts at The Vines. Butter Goods T-Shirts take inspiration from art, design and music to bring deluxe quality garms with an emphasis on durability, fit, and progressive design.
   Updated: 2025-12-25T13:50:34Z
@@ -7038,7 +7038,7 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-25T14:35:01Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 3226
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-25T13:50:35Z
@@ -7119,7 +7119,7 @@
   Updated: 2025-12-20T12:17:06Z
   Total Products: 16
 - [Hélas T-Shirts](https://thevinessupply.co/collections/helas-t-shirts): Shop Hélas Caps T-Shirts at The Vines. Browse our collection of Helas tees, long sleeves and polo's. Shop all Helas Caps with fast, free delivery.
-  Updated: 2025-12-25T12:11:41Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 95
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
   Updated: 2025-12-25T13:50:32Z
@@ -7140,8 +7140,8 @@
   Updated: 2025-12-08T12:24:07Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-25T15:00:51Z
-  Total Products: 2908
+  Updated: 2025-12-25T17:50:18Z
+  Total Products: 2909
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7182,7 +7182,7 @@
   Updated: 2025-06-18T22:26:01Z
   Total Products: 1
 - [3 For 2 Tees | Add 3 T-shirts, get the 3rd FREE | Skate T-Shirts](https://thevinessupply.co/collections/3-for-2-t-shirts): Get 3 Skate T-shirts for the price of 2 at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-25T13:50:36Z
+  Updated: 2025-12-25T17:49:49Z
   Total Products: 1534
 - [Magenta](https://thevinessupply.co/collections/magenta)
   Updated: 2025-12-25T13:54:10Z
@@ -7317,8 +7317,8 @@
   Updated: 2025-12-25T14:35:01Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2025-12-25T15:00:51Z
-  Total Products: 3116
+  Updated: 2025-12-25T17:50:18Z
+  Total Products: 3115
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 67
