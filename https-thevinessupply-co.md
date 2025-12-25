@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-24T20:00:38.392Z
+- Updated At: 2025-12-25T00:00:56.283Z
 
 ## Products
 
@@ -2768,21 +2768,6 @@
   - [Extra Large](https://thevinessupply.co/products/polar-skate-co-og-logo-big-boy-jeans-light-blue-1?variant=55289121440079)
     Availability: Not Available
     Price: £89.95 GBP
-- [Helas Bad Hoodie | Black](https://thevinessupply.co/products/helas-bad-hoodie-black): Buy the Helas Bad Hoodie in Black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-24T15:10:48Z
-  Vendor: Helas
-  Product Type: Hoodies
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-hoodies-helas-bad-hoodie-black-1183714900.png?v=1757166616
-  - [Medium](https://thevinessupply.co/products/helas-bad-hoodie-black?variant=55299767796047)
-    Availability: Not Available
-    Price: £69.95 GBP
-  - [Large](https://thevinessupply.co/products/helas-bad-hoodie-black?variant=55299767828815)
-    Availability: Available
-    Price: £69.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/helas-bad-hoodie-black?variant=55299767861583)
-    Availability: Not Available
-    Price: £69.95 GBP
 - [Helas Drapeau Utility Jacket | Beige](https://thevinessupply.co/products/helas-drapeau-utility-jacket-beige): Buy the Helas Drapeau Utility Jacket in Beige at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-10-10T12:21:22Z
   Vendor: Helas
@@ -4177,7 +4162,7 @@
     Availability: Not Available
     Price: £79.95 GBP
 - [Helas Dancing Hoodie | Forest Green](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green): Buy the Helas Dancing Hoodie in green at The Vines online skate shop, with fast, premium delivery & easy 90 day returns.
-  Updated: 2025-12-24T15:11:30Z
+  Updated: 2025-12-24T23:32:22Z
   Vendor: Helas
   Product Type: Hoodies
   Availability: Available
@@ -4186,7 +4171,7 @@
     Availability: Available
     Price: £79.95 GBP
   - [Large](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green?variant=55930465485135)
-    Availability: Available
+    Availability: Not Available
     Price: £79.95 GBP
   - [Extra Large](https://thevinessupply.co/products/helas-dancing-hoodie-forest-green?variant=55930465517903)
     Availability: Available
@@ -6759,8 +6744,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-24T12:41:06Z
-  Total Products: 66
+  Updated: 2025-12-24T20:53:02Z
+  Total Products: 65
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-24T12:15:17Z
   Total Products: 386
@@ -7134,8 +7119,8 @@
   Updated: 2025-12-24T15:06:21Z
   Total Products: 95
 - [Sale](https://thevinessupply.co/collections/sale)
-  Updated: 2025-12-24T12:41:07Z
-  Total Products: 66
+  Updated: 2025-12-24T20:53:02Z
+  Total Products: 65
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
   Updated: 2025-12-24T12:15:17Z
   Total Products: 39
