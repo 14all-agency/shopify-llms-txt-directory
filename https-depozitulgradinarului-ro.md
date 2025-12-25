@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-23T00:00:45.923Z
+- Updated At: 2025-12-25T00:00:44.683Z
 
 ## Products
 
@@ -564,7 +564,7 @@ Substanta activa: acetamiprid 200 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at15.34.49.jpg?v=1739367302
   Price: 8,00 lei RON
 - [Biostimulator AMINOPLANT - 1 L, UPL](https://depozitulgradinarului.ro/products/biostimulator-aminoplant-1-l-upl): Aminoplant este un biostimulator organic lichid, pe bază de aminoacizi esențiali din proteine hidrolizate, destinat îmbunătățirii toleranței plantelor la stres climatic și creșterii potențialului de producție. Compoziție: Aminoacizi liberi: 5,0% Azot total (N): 9,1% Calciu: 0,28% Carbon organic: 25,6% Acid aspartic: 2,7% Acid glutamic: 6,9% Alanină: 6,9% Fenilalanină: 1,4% Glicină: 14,0% Hidroxiprolină: 4,0% Leucină: 2,2% Ornitină: 3,2% Prolină: 8,5% Valină: 1,7% Mod de acțiune: Aminoplant se aplică foliar, prin pulverizare, în momentele critice de dezvoltare ale culturilor, contribuind la: Creșterea toleranței plantelor la stres climatic. Îmbunătățirea potențialului de producție. Eficientizarea produselor utilizate în amestec. Avantaje: Crește toleranța plantelor la stresul climatic. Îmbunătățește potențialul de producție. Acționează ca adjuvant, sporind eficacitatea produselor utilizate în amestec. Reduce stresul indus culturilor de floarea-soarelui în urma aplicării erbicidelor postemergente. Specificatii tehnice:
-  Updated: 2025-12-02T19:13:33Z
+  Updated: 2025-12-24T08:22:48Z
   Vendor: Aminoplant
   Product Type: Ingrasamant
   Availability: Available
