@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-25T08:00:40.143Z
+- Updated At: 2025-12-25T12:00:38.203Z
 
 ## Products
 
@@ -405,13 +405,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/birdhouse-completes-birdhouse-stage-3-armanto-butterfly-complete-skateboard-8-1183727189.png?v=1757392219
   Price: £84.95 GBP
-- [REKD Junior Elite 2.0 Helmet XXXS/XS 46-52cm | Black](https://thevinessupply.co/products/rekd-junior-elite-2-0-helmet-xxxs-xs-46-52cm-black): Buy the REKD Junior Elite 2.0 Helmet XXXS/XS 46-52cm in Black at The Vines. The REKD Junior Elite 2.0 helmet is one of the best looking, highest-rated and certified Junior helmets available on the market.
-  Updated: 2025-12-04T08:05:36Z
-  Vendor: Rekd
-  Product Type: Helmets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/rekd-helmets-rekd-junior-elite-2-0-helmet-xxxs-xs-46-52cm-black-1183727120.jpg?v=1757391001
-  Price: £34.95 GBP
 - [Krooked Team Sweatpants MD Complete Skateboard | 7.75"](https://thevinessupply.co/products/krooked-team-sweatpants-md-complete-skateboard-7-75): Buy a Krooked Complete Skateboard in 7.75" at The Vines skate shop. Start em off right and they’ll never stop. Affordable completes designed to open a new world of journeys and opportunities. The first push is just the start!
   Updated: 2025-08-12T17:26:53Z
   Vendor: Krooked
@@ -740,7 +733,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-backpacks-black-polar-packable-backpack-black-1183714667.jpg?v=1757161809
   Price: £59.95 GBP
 - [Shake Junt OG Spray Grip Tape | Single Sheet](https://thevinessupply.co/products/shake-junt-og-spray-grip-tape-single-sheet): Shop Shake Junt OG Spray Grip Tape at The Vines. Get BUCK!
-  Updated: 2025-11-29T15:51:42Z
+  Updated: 2025-12-25T11:42:23Z
   Vendor: Shake Junt
   Product Type: Grip Tape
   Availability: Available
@@ -3015,7 +3008,7 @@
     Availability: Not Available
     Price: £49.95 GBP
 - [Polar Skate Co 92! Jeans | Silver Black](https://thevinessupply.co/products/polar-skate-co-92-jeans-silver-black): Buy the Polar 92! Denim Jeans in Silver Black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-19T12:46:00Z
+  Updated: 2025-12-25T11:38:41Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -3458,7 +3451,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/palace-skateboards-decks-8-2-palace-skateboards-jahmir-pro-s40-skateboard-deck-8-2-1191566686.png?v=1757446819
   Price: £64.95 GBP
 - [New Balance Numeric 480 NM480PRO Skate Shoes | Navy & White](https://thevinessupply.co/products/new-balance-numeric-480-nm480pro-skate-shoes-navy-white): Buy the New Balance Numeric 480 Skate Shoes in Navy & White at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-07T18:01:34Z
+  Updated: 2025-12-25T11:47:16Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -3470,7 +3463,7 @@
     Availability: Available
     Price: £79.95 GBP
   - [UK 9](https://thevinessupply.co/products/new-balance-numeric-480-nm480pro-skate-shoes-navy-white?variant=55828424851791)
-    Availability: Available
+    Availability: Not Available
     Price: £79.95 GBP
   - [UK 10](https://thevinessupply.co/products/new-balance-numeric-480-nm480pro-skate-shoes-navy-white?variant=55828424884559)
     Availability: Not Available
@@ -7035,8 +7028,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-24T15:14:06Z
-  Total Products: 3225
+  Updated: 2025-12-25T08:38:06Z
+  Total Products: 3224
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-24T15:03:20Z
   Total Products: 110
@@ -7080,8 +7073,8 @@
   Updated: 2025-12-21T12:15:45Z
   Total Products: 22
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-21T12:15:45Z
-  Total Products: 20
+  Updated: 2025-12-25T11:47:46Z
+  Total Products: 19
 - [UK 10 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-10-skate-shoes): Shop our curated selection of Skate Shoes. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-20T12:17:06Z
   Total Products: 11
