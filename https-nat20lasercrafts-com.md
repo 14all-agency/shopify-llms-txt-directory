@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2025-12-23T04:59:45.302Z
+- Updated At: 2025-12-25T00:00:20.990Z
 
 ## Products
 
@@ -233,6 +233,9 @@
 - [News](https://nat20lasercrafts.com/blogs/news)
   - [8 Unique Gift Ideas for Your Next Housewarming: Why Laser Engraved Slate Coasters Should Top Your List](https://nat20lasercrafts.com/blogs/news/8-unique-gift-ideas-for-your-next-housewarming-why-laser-engraved-slate-coasters-should-top-your-list): 8 Unique Gift Ideas for Your Next Housewarming: Why Laser Engraved Slate Coasters Should Top Your List
     Updated: 2025-12-23T04:58:40Z
+    Author: Nat 20 Custom Laser Crafts
+  - [The Function and Charm of Live Ugly Opossum Cork Trivets](https://nat20lasercrafts.com/blogs/news/the-function-and-charm-of-live-ugly-opossum-cork-trivets): The Function and Charm of Live Ugly Opossum Cork Trivets
+    Updated: 2025-12-24T05:36:57Z
     Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
