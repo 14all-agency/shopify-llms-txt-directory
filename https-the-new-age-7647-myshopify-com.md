@@ -6,21 +6,21 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-24T00:00:21.508Z
+- Updated At: 2025-12-25T00:00:21.452Z
 
 The New Age
 
 ## Products
 
 - [Pet Cat Tree Toys - Durable Cat Scratch Post & Interactive Climber for Cats](https://the-new-age-7647.myshopify.com/products/pet-cat-tree-toys-cat-scratch-post-pet-furniture-scratching-post-cats-claw-scratcher-double-sisal-balls-cat-accessories): Discover our Pet Cat Tree Toys, featuring a sturdy cat scratch post and interactive features to keep your cat active, healthy, and entertained at home.
-  Updated: 2025-12-23T22:10:33Z
+  Updated: 2025-12-24T10:10:39Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/53f04721-aa4d-4069-a24a-1ded338b0f06.jpg?v=1766444591
   Price: $55.00 USD
 - [Pets Dog Anti Barking Device - Humane Ultrasonic Bark Control Collars](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies): Pets Dog Anti Barking Device emits ultrasonic sounds to stop excessive barking safely within 50 feet. Perfect for indoor and outdoor use for dogs aged 6 months to 8 years.
-  Updated: 2025-12-23T22:14:22Z
+  Updated: 2025-12-24T10:53:40Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -90,7 +90,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/73633834-c2ae-482d-a5b2-fd8b27531196.jpg?v=1766445456
     Price: $32.99 USD
 - [Pet Automatic Feeder Large Capacity with APP Control & WiFi - Smart Dispenser](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo): Shop the Pet Automatic Feeder with large capacity, APP control, WiFi, voice recorder, and timer feeding. Keep your pet fed and healthy effortlessly.
-  Updated: 2025-12-23T22:30:16Z
+  Updated: 2025-12-24T15:49:31Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -280,7 +280,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
     Price: $127.99 USD
 - [Cat Brush Hair Remover - Pet Grooming Tool for Gentle Fur Care](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care): Find the best Cat Brush Hair Remover for effective pet grooming. Keeps fur healthy and shiny, with a 2-in-1 massage and de-shedding design.
-  Updated: 2025-12-23T22:33:56Z
+  Updated: 2025-12-24T12:02:21Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -294,7 +294,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0e49ce1f-3127-423a-8cca-09aa292ebc5f_trans.jpg?v=1766445530
     Price: $13.99 USD
 - [Electric Water Gun - Automatic High-Range Water Fight Toy for Summer](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys): Discover the Electric Water Gun with automatic reloading and long-range shoots up to 32 feet. Perfect for summer outdoor water fights and kids' fun activities.
-  Updated: 2025-12-23T18:54:24Z
+  Updated: 2025-12-24T05:55:26Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -712,7 +712,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2063908408866.jpg?v=1766467778
     Price: $84.99 USD
 - [Students Cotton Bed Sheets - Comfortable Fitted Sheets & Pillow Cases](https://the-new-age-7647.myshopify.com/products/students-cotton-bed-sheets-fitted-sheet-pillow-case): Discover high-quality Students Cotton Bed Sheets, including fitted sheets and pillow cases in various colors and sizes for a cozy sleep experience.
-  Updated: 2025-12-23T19:38:13Z
+  Updated: 2025-12-24T00:40:06Z
   Vendor: The New Age
   Product Type: Sheets
   Availability: Available
@@ -2174,7 +2174,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/436092a9-ccf5-4707-837d-7a730d3129dc.jpg?v=1766468675
     Price: $45.74 USD
 - [Fitness Headband - Comfortable Cotton Sweatband for Workout and Running](https://the-new-age-7647.myshopify.com/products/fitness-headband): Shop the Fitness Headband made of soft cotton, perfect for workouts, running, or casual wear. One size fits all, combining comfort and style for your active days.
-  Updated: 2025-12-23T18:03:12Z
+  Updated: 2025-12-24T06:34:04Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2186,17 +2186,17 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796427014425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1079a23b-6317-4ac7-8b34-9cc81952cbbb.jpg?v=1766468718
-    Price: $6.95 USD
+    Price: $7.79 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796427047193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2952179284935.jpg?v=1766468718
-    Price: $6.95 USD
+    Price: $7.79 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796427079961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/179201117030.jpg?v=1766468718
-    Price: $6.95 USD
+    Price: $7.79 USD
 - [Medical Clavicle Posture Corrector - Lower Back Support Strap for Better Posture](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap): Discover the Medical Clavicle Posture Corrector, designed to improve posture, support your lower back, and provide comfort with breathable materials and durable design.
-  Updated: 2025-12-23T17:45:58Z
+  Updated: 2025-12-24T20:49:35Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2204,45 +2204,45 @@ The New Age
   - [Black set / L](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427178265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1766468758
-    Price: $21.27 USD
+    Price: $13.99 USD
   - [Black set / M](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427211033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1766468758
-    Price: $17.86 USD
+    Price: $11.99 USD
   - [Black set / S](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427243801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1766468758
-    Price: $17.10 USD
+    Price: $10.99 USD
   - [Black set / XL](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427276569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1766468758
-    Price: $17.77 USD
+    Price: $14.99 USD
   - [Black / M](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427309337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1766468758
-    Price: $23.55 USD
+    Price: $11.99 USD
   - [Black / S](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427342105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1766468758
-    Price: $23.85 USD
+    Price: $10.99 USD
   - [Black / XL](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427374873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1766468758
-    Price: $22.92 USD
+    Price: $14.99 USD
   - [Blue / M](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427407641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1297078471318.jpg?v=1766468758
-    Price: $27.48 USD
+    Price: $11.99 USD
   - [Blue / S](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427440409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1297078471318.jpg?v=1766468758
-    Price: $27.04 USD
+    Price: $10.99 USD
   - [Black / L](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427473177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1766468758
-    Price: $25.74 USD
+    Price: $13.99 USD
 - [Men's Grip - Adjustable Hand Grip for Fitness & Strength Training](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger): Men's Grip is a versatile adjustable hand grip ideal for strengthening hands, wrists, and forearms. Perfect for all fitness levels, portable and easy to use.
-  Updated: 2025-12-23T17:46:30Z
+  Updated: 2025-12-24T06:30:14Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2250,53 +2250,53 @@ The New Age
   - [40kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427538713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/af3223b6-a0c9-4c0b-9578-949d0e364301_fine.jpg?v=1766468797
-    Price: $14.73 USD
+    Price: $12.99 USD
   - [60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427571481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1792072359315.jpg?v=1766468797
-    Price: $23.39 USD
+    Price: $13.99 USD
   - [Black 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427604249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1871328023304.jpg?v=1766468797
-    Price: $19.83 USD
+    Price: $13.99 USD
   - [Black Grey](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427637017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4888b421-dd01-4c5b-a459-e830a6bb0278.jpg?v=1766468797
-    Price: $10.00 USD
+    Price: $11.99 USD
   - [Black60kg2pcs](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427669785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0202c2e1-c5e1-43f5-a46d-46face87444a.jpg?v=1766468797
-    Price: $24.83 USD
+    Price: $19.99 USD
   - [Blue 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427702553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2523455698794.jpg?v=1766468797
-    Price: $14.73 USD
+    Price: $12.99 USD
   - [Blue1 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427735321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1857611761981.jpg?v=1766468797
-    Price: $89.54 USD
+    Price: $10.99 USD
   - [Gray 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427768089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6045226576863.jpg?v=1766468797
-    Price: $117.23 USD
+    Price: $10.99 USD
   - [Green 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427800857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/608751625492.jpg?v=1766468797
-    Price: $187.23 USD
+    Price: $10.99 USD
   - [Orange 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427833625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5173140382598.jpg?v=1766468797
-    Price: $349.61 USD
+    Price: $10.99 USD
   - [Orange1 60KG](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427866393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/63748213931.jpg?v=1766468797
-    Price: $12.93 USD
+    Price: $10.99 USD
   - [Red 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427899161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1928654625353.jpg?v=1766468797
-    Price: $15.53 USD
+    Price: $10.99 USD
 - [Water Dumbbell - Multi-Weight Fitness Water Bottle Dumbbell for Home Workout](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise): Discover the versatile Water Dumbbell, a water bottle fitness equipment that functions as a weight training tool, adjustable up to 1kg for effective home exercise.
-  Updated: 2025-12-23T17:47:15Z
+  Updated: 2025-12-24T07:06:45Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2304,13 +2304,13 @@ The New Age
   - [A](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise?variant=51796428259609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1618048650788.jpg?v=1766468835
-    Price: $27.66 USD
+    Price: $11.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise?variant=51796428292377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1618475813759.webp?v=1766468835
-    Price: $13.71 USD
+    Price: $11.99 USD
 - [Men Sneakers Breathable Mesh Sports Shoes - Stylish Youth Footwear](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes): Discover Men Sneakers designed for youth, featuring breathable mesh, lightweight comfort, and available in multiple colors. Perfect for sports and casual wear.
-  Updated: 2025-12-23T17:47:44Z
+  Updated: 2025-12-24T07:12:38Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -2318,77 +2318,77 @@ The New Age
   - [Black / Size39](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428587289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1766468865
-    Price: $42.53 USD
+    Price: $22.99 USD
   - [Black / Size40](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428620057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1766468865
-    Price: $42.92 USD
+    Price: $23.50 USD
   - [Black / Size41](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428652825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1766468865
-    Price: $43.31 USD
+    Price: $23.99 USD
   - [Black / Size42](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428685593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1766468865
-    Price: $136.65 USD
+    Price: $24.50 USD
   - [Black / Size43](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428718361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1766468865
-    Price: $44.08 USD
+    Price: $24.99 USD
   - [Black / Size44](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428751129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1766468865
-    Price: $44.48 USD
+    Price: $25.50 USD
   - [Khaki / Size39](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428783897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1766468864
-    Price: $42.53 USD
+    Price: $22.99 USD
   - [Khaki / Size40](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428816665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1766468864
-    Price: $138.86 USD
+    Price: $23.50 USD
   - [Khaki / Size41](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428849433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1766468864
-    Price: $138.83 USD
+    Price: $23.99 USD
   - [Khaki / Size42](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428882201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1766468864
-    Price: $46.67 USD
+    Price: $24.50 USD
   - [Khaki / Size43](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428914969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1766468864
-    Price: $138.87 USD
+    Price: $24.99 USD
   - [Khaki / Size44](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428947737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1766468864
-    Price: $44.48 USD
+    Price: $25.50 USD
   - [White / Size39](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428980505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
-    Price: $43.11 USD
+    Price: $22.99 USD
   - [White / Size40](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429013273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
-    Price: $42.92 USD
+    Price: $23.50 USD
   - [White / Size41](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429046041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
-    Price: $47.08 USD
+    Price: $23.99 USD
   - [White / Size42](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429078809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
-    Price: $45.79 USD
+    Price: $24.50 USD
   - [White / Size43](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429111577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
-    Price: $44.08 USD
+    Price: $24.99 USD
   - [White / Size44](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429144345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
-    Price: $44.48 USD
+    Price: $25.50 USD
 - [Portable Fitness Rally - Versatile Resistance Bands for Home & Gym](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally): Discover the Portable Fitness Rally with resistance bands for effective body sculpting, muscle strengthening, and fitness at home or on the go. Perfect for all levels!
-  Updated: 2025-12-23T17:48:18Z
+  Updated: 2025-12-24T07:03:16Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2396,29 +2396,29 @@ The New Age
   - [100LB W](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429209881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/26779605255004.jpg?v=1766468900
-    Price: $37.71 USD
+    Price: $23.99 USD
   - [11pcs](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429242649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1661274894748_ead0f228-0412-4e30-bac9-2347ed12ec97.jpg?v=1766468901
-    Price: $60.96 USD
+    Price: $20.99 USD
   - [150LB](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429275417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2154631800410.jpg?v=1766468901
-    Price: $39.57 USD
+    Price: $24.50 USD
   - [Q11pcs](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429308185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/684576620055.jpg?v=1766468901
-    Price: $37.87 USD
+    Price: $23.50 USD
   - [Q11pcs 2](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429340953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/146074722714.jpg?v=1766468901
-    Price: $33.71 USD
+    Price: $21.99 USD
   - [Q11pcs TPE](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429373721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3424610165383.jpg?v=1766468901
-    Price: $54.55 USD
+    Price: $34.99 USD
 - [Muscle Trainer Wheel - Abdominal Roller Kit for Fitness at Home](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment): Discover the Muscle Trainer Wheel for effective abdominal workouts. Perfect for office or home use, enhance your fitness routine with this steel and PU roller kit.
-  Updated: 2025-12-23T18:07:47Z
+  Updated: 2025-12-24T07:24:15Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2426,25 +2426,25 @@ The New Age
   - [1 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429472025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4071913697765_8bf44f24-2d7a-4392-a2a2-6e2af3950651.jpg?v=1766468936
-    Price: $63.59 USD
+    Price: $51.99 USD
   - [2 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429504793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/691990656709.jpg?v=1766468936
-    Price: $59.97 USD
+    Price: $51.50 USD
   - [3 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429537561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3316393127491.jpg?v=1766468936
-    Price: $60.46 USD
+    Price: $47.99 USD
   - [4 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429570329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/692862095918.jpg?v=1766468937
-    Price: $50.26 USD
+    Price: $44.99 USD
   - [5 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429603097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/174816537236.jpg?v=1766468936
-    Price: $26.55 USD
+    Price: $20.99 USD
 - [Lumbar Tractor Waist Traction Therapy for Back Pain Relief | Adjustable & Effective](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief): Discover Lumbar Tractor Waist Traction Therapy for effective back pain relief. Adjustable, lightweight design with magnetic points for targeted therapy.
-  Updated: 2025-12-23T18:39:18Z
+  Updated: 2025-12-24T07:18:55Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2452,31 +2452,31 @@ The New Age
   - [1Blue / Rotation regulation](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429898009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1851078545496.jpg?v=1766468991
-    Price: $30.92 USD
+    Price: $21.99 USD
   - [Black RED / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429930777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1016011637396.jpg?v=1766468991
-    Price: $32.55 USD
+    Price: $21.99 USD
   - [Black blue / 2PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429963545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/987fc28c-6367-48a7-bf20-d0d8d123d8f0.jpg?v=1766468991
-    Price: $59.48 USD
+    Price: $36.99 USD
   - [Black blue / 3PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429996313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0676dbed-1ba7-4a55-bfde-230eba681fbd.jpg?v=1766468991
-    Price: $88.01 USD
+    Price: $52.99 USD
   - [Black blue / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430029081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/42f57168-c72d-41f8-8e45-88acaea0ef93.jpg?v=1766468991
-    Price: $55.36 USD
+    Price: $24.99 USD
   - [Black blue / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430061849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1067357485525.jpg?v=1766468991
-    Price: $27.50 USD
+    Price: $21.99 USD
   - [Black blue / Opp](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430094617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/360358c3-736d-4a81-96c7-64a2c3a5f0bc.jpg?v=1766468991
-    Price: $25.82 USD
+    Price: $19.99 USD
   - [Black green Magnet / One](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430127385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/689045497532.jpg?v=1766468991
@@ -2644,21 +2644,21 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bb04f7be-0c9e-43d1-bb04-6adc8c0301fc.jpg?v=1766469040
     Price: $92.14 USD
 - [Grip Power Wrist - Adjustable Hand Grip for Forearm and Wrist Strength](https://the-new-age-7647.myshopify.com/products/grip-power-wrist-forearm-hand-grip-arm-trainer-adjustable-forearm-hand-wrist-exercises-force-trainer-power-strengthener-grip-fitness): Enhance your Grip Power Wrist with this adjustable hand grip exerciser. Perfect for forearm, wrist strength, and fitness training, lightweight and easy to use.
-  Updated: 2025-12-23T18:43:05Z
+  Updated: 2025-12-24T07:34:30Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d7cefc96-ac0b-4b98-b2a4-e09996f59aea.jpg?v=1766469067
-  Price: $90.59 USD
+  Price: $17.99 USD
 - [Electric Bike For Adults - 1000W Fat Tire Mountain Bicycle, 26x4.0](https://the-new-age-7647.myshopify.com/products/professional-electric-bike-for-adults-26-x-4-0-inches-fat-tire-electric-mountain-bicycle-1000w-motor-48v-15ah-ebike-for-trail-riding-excursion-and-commute-ul-and-gcc-certified): Shop the Electric Bike For Adults featuring a powerful 1000W motor, fat tires, large capacity lithium battery, and multiple riding modes. Perfect for trail riding, commuting, and off-road adventures.
-  Updated: 2025-12-23T18:39:01Z
+  Updated: 2025-12-24T07:22:17Z
   Vendor: The New Age
   Product Type: Outdoors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6c3cf535-45c5-46dc-b6d4-5ea322a4021d.jpg?v=1766469124
-  Price: $6,480.02 USD
+  Price: $949.99 USD
 - [Resistance Bands Sealing - Fitness Elastic Bands for Bodybuilding & Yoga](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga): Shop Resistance Bands Sealing, perfect for fitness, yoga, pilates, and body shaping. Durable, non-slip, and comes with colorful tension belts for effective workouts.
-  Updated: 2025-12-23T17:52:17Z
+  Updated: 2025-12-24T07:25:56Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2666,25 +2666,25 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433535257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/83decfeb-1c8e-44d8-8bd0-a5d20e052984.jpg?v=1766469139
-    Price: $85.39 USD
+    Price: $6.99 USD
   - [Gray](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433568025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a7b2ec93-8350-40e9-acd6-abe1b148c395.jpg?v=1766469139
-    Price: $85.39 USD
+    Price: $6.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433600793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1aa9fb83-a494-4765-8a35-f81919e703ef.jpg?v=1766469139
-    Price: $85.39 USD
+    Price: $6.99 USD
   - [Purple](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433633561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e5851b1-5979-48c8-9e66-289ae1399d5e.jpg?v=1766469139
-    Price: $85.59 USD
+    Price: $6.99 USD
   - [Set](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433666329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dfc3a13-499c-45da-87fe-e1123749943d.jpg?v=1766469139
-    Price: $104.78 USD
+    Price: $12.99 USD
 - [Spine Bending Posture Corrector | Improve Your Back Posture](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector): Discover the Spine Bending Posture Corrector to improve posture, reduce back pain, and support spinal health. Ideal for scoliosis and slouching issues.
-  Updated: 2025-12-23T17:52:57Z
+  Updated: 2025-12-24T07:15:32Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2692,33 +2692,33 @@ The New Age
   - [Black / 3XL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434026777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $56.34 USD
+    Price: $17.99 USD
   - [Black / 4XL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434059545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $27.95 USD
+    Price: $17.99 USD
   - [Black / L](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434092313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $26.75 USD
+    Price: $17.50 USD
   - [Black / M](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434125081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $32.57 USD
+    Price: $16.99 USD
   - [Black / S](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434157849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $26.58 USD
+    Price: $16.50 USD
   - [Black / XL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434190617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $27.36 USD
+    Price: $17.99 USD
   - [Black / XXL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434223385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
-    Price: $27.56 USD
+    Price: $17.99 USD
 - [EMS Abs & Muscle Trainer - Portable Muscle Toning Device with 6 Modes](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer): Discover the EMS Abs & Muscle Trainer for effective muscle training anytime, anywhere. Easy to use, portable, with 6 modes for targeted workout. Buy now!
-  Updated: 2025-12-23T17:53:35Z
+  Updated: 2025-12-24T06:48:29Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2726,133 +2726,133 @@ The New Age
   - [10pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434518297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2065428634702.jpg?v=1766469231
-    Price: $20.49 USD
+    Price: $11.99 USD
   - [1pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434551065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2065428634702.jpg?v=1766469231
-    Price: $5.94 USD
+    Price: $6.99 USD
   - [20pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434583833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1780652016718.jpg?v=1766469231
-    Price: $35.54 USD
+    Price: $19.99 USD
   - [30pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434616601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/11335818177801.jpg?v=1766469231
-    Price: $42.04 USD
+    Price: $24.99 USD
   - [5pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434649369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2065428634702.jpg?v=1766469231
-    Price: $10.87 USD
+    Price: $7.99 USD
   - [A](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434682137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1660949070256.jpg?v=1766469231
-    Price: $28.26 USD
+    Price: $17.49 USD
   - [A Set1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434714905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620273531918_191f4da6-a488-4497-a97d-e55d985b0bbf.jpg?v=1766469231
-    Price: $57.67 USD
+    Price: $22.99 USD
   - [A Set2](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434747673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620273531928_d59c3a5c-9f3a-4893-a870-78a7f16fdb16.jpg?v=1766469231
-    Price: $45.98 USD
+    Price: $27.99 USD
   - [Arms](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434780441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5227274958290.jpg?v=1766469231
-    Price: $40.44 USD
+    Price: $13.99 USD
   - [B](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434813209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1213507145480.jpg?v=1766469231
-    Price: $56.30 USD
+    Price: $23.99 USD
   - [D](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434845977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1975189103833.jpg?v=1766469231
-    Price: $40.52 USD
+    Price: $24.99 USD
   - [Full](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434878745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1139802708385.jpg?v=1766469231
-    Price: $52.29 USD
+    Price: $29.99 USD
   - [Full and Arms](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434911513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619263495195_6bb4bae9-0344-4798-85a5-9501e537cfc8.jpg?v=1766469231
-    Price: $54.71 USD
+    Price: $31.99 USD
   - [Full and Pull out packaging](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434944281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1623931971107.jpg?v=1766469231
-    Price: $38.29 USD
+    Price: $23.99 USD
   - [Haunch](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434977049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7653814402106.jpg?v=1766469231
-    Price: $42.40 USD
+    Price: $14.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435009817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3701172986856.jpg?v=1766469231
-    Price: $50.74 USD
+    Price: $18.99 USD
   - [Pink1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435042585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1621231149646_2767631d-f349-4ee7-a057-ba2ed30e1a97.jpg?v=1766469232
-    Price: $19.17 USD
+    Price: $13.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435075353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1616659482454_c0c975f9-540c-489c-a94a-eb33367b36c7.jpg?v=1766469232
-    Price: $53.84 USD
+    Price: $13.99 USD
   - [Red battery](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435108121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df4766cd-14af-481d-985b-caa885166569.jpg?v=1766469231
-    Price: $33.94 USD
+    Price: $29.99 USD
   - [Red battery set](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435140889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9a6d7ba9-aeba-4321-a71d-2ee438651b87.jpg?v=1766469232
-    Price: $46.81 USD
+    Price: $34.99 USD
   - [Set](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435173657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12d15eaf-f1b6-485c-9185-15e9910f11fb.jpg?v=1766469232
-    Price: $30.38 USD
+    Price: $16.99 USD
   - [Set1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435206425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583f4717-1e04-48ab-a053-401201baef96.jpg?v=1766469232
-    Price: $97.46 USD
+    Price: $46.99 USD
   - [Set2](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435239193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7041003b-8b8d-44bc-b7fc-1a892c60691a.jpg?v=1766469231
-    Price: $50.03 USD
+    Price: $24.99 USD
   - [Sixbelly charging modelfull](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435271961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/232ff115-d0c7-43b3-8212-08371f8fe052.jpg?v=1766469231
-    Price: $27.00 USD
+    Price: $15.00 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435304729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8746622957470.jpg?v=1766469231
-    Price: $25.44 USD
+    Price: $12.99 USD
   - [Yellow 3pc](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435337497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2479782420885.jpg?v=1766469231
-    Price: $26.16 USD
+    Price: $14.99 USD
   - [Yellow 3pcs](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435370265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/42b4b7f7-5d7e-420d-8c71-9fa246604ad5_fine.jpg?v=1766469232
-    Price: $52.53 USD
+    Price: $25.99 USD
   - [Yellow abs](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435403033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1623003875357.jpg?v=1766469231
-    Price: $20.08 USD
+    Price: $11.99 USD
   - [Yellow arms](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435435801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/553073366049.jpg?v=1766469231
-    Price: $17.33 USD
+    Price: $11.00 USD
   - [Yellow1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435468569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1621231149647_76094fbc-693d-44cc-8308-ba8aabd70b22.jpg?v=1766469231
-    Price: $17.78 USD
+    Price: $11.35 USD
   - [YellowA](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435501337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/88aa78c5-0279-4f3b-80a0-00c0a7e76a83.jpg?v=1766469231
-    Price: $43.62 USD
+    Price: $26.00 USD
   - [abs](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435534105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1140081655068.jpg?v=1766469232
-    Price: $30.40 USD
+    Price: $10.99 USD
 - [USB Rechargeable Electric Knife Sharpener - Fast & Adjustable Kitchen Tool](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets): Shop the USB Rechargeable Electric Knife Sharpener for quick, adjustable sharpening of knives, scissors, and grinders. Perfect for modern kitchens. Buy now!
-  Updated: 2025-12-23T05:57:44Z
+  Updated: 2025-12-24T07:05:36Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -2860,17 +2860,17 @@ The New Age
   - [Black / usb](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets?variant=51796435927321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/573153cd-8484-47b0-b180-70fc12ad9a2b.jpg?v=1766469280
-    Price: $50.61 USD
+    Price: $19.99 USD
   - [Orange / usb](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets?variant=51796435960089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2cc94cb0-c671-4aad-945d-263140b20cf7.jpg?v=1766469281
-    Price: $49.21 USD
+    Price: $19.99 USD
   - [Yellow / usb](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets?variant=51796435992857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5356907-dc5b-408b-a93c-118920982408.jpg?v=1766469281
-    Price: $58.21 USD
+    Price: $19.99 USD
 - [Winter Gloves Touch Screen - Waterproof Motorcycle Sports Gloves with Fleece](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Discover the best Winter Gloves Touch Screen featuring waterproof, touchscreen-compatible design. Perfect for riding, sports, and outdoor activities in cold weather.
-  Updated: 2025-12-23T17:55:08Z
+  Updated: 2025-12-24T07:33:37Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -2878,205 +2878,205 @@ The New Age
   - [A Blue / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436320537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1766469314
-    Price: $105.13 USD
+    Price: $11.99 USD
   - [A Blue / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436353305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1766469314
-    Price: $105.28 USD
+    Price: $11.99 USD
   - [A Blue / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436386073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1766469314
-    Price: $105.13 USD
+    Price: $11.99 USD
   - [A Blue / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436418841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1766469314
-    Price: $105.13 USD
+    Price: $11.99 USD
   - [A Purple / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436451609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9331c789-cf20-4942-8dc6-a6ef5f6261a1.jpg?v=1766469314
-    Price: $107.57 USD
+    Price: $11.99 USD
   - [A Purple / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436484377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9331c789-cf20-4942-8dc6-a6ef5f6261a1.jpg?v=1766469314
-    Price: $110.89 USD
+    Price: $11.99 USD
   - [A Purple / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436517145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9331c789-cf20-4942-8dc6-a6ef5f6261a1.jpg?v=1766469314
-    Price: $108.03 USD
+    Price: $11.99 USD
   - [Black / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436549913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1766469314
-    Price: $103.68 USD
+    Price: $11.99 USD
   - [Black / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436582681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Black / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436615449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Black / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436648217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1766469314
-    Price: $103.68 USD
+    Price: $11.99 USD
   - [Blue set / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436680985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0066b2bd-2193-4b01-8e39-981b2c4f4c31.jpg?v=1766469314
-    Price: $242.70 USD
+    Price: $52.99 USD
   - [Blue set / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436713753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0066b2bd-2193-4b01-8e39-981b2c4f4c31.jpg?v=1766469314
-    Price: $239.95 USD
+    Price: $50.99 USD
   - [Blue set / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436746521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0066b2bd-2193-4b01-8e39-981b2c4f4c31.jpg?v=1766469314
-    Price: $239.95 USD
+    Price: $52.99 USD
   - [Blue / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436779289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1766469314
-    Price: $114.28 USD
+    Price: $11.99 USD
   - [Blue / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436812057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1766469314
-    Price: $119.34 USD
+    Price: $11.99 USD
   - [Blue / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436844825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1766469314
-    Price: $123.57 USD
+    Price: $11.99 USD
   - [Blue / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436877593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1766469314
-    Price: $123.76 USD
+    Price: $11.99 USD
   - [Coffee color / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436910361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1766469314
-    Price: $105.13 USD
+    Price: $11.99 USD
   - [Coffee color / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436943129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1766469314
-    Price: $105.13 USD
+    Price: $11.99 USD
   - [Coffee color / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436975897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1766469314
-    Price: $105.92 USD
+    Price: $11.99 USD
   - [Coffee color / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437008665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1766469314
-    Price: $105.13 USD
+    Price: $11.99 USD
   - [Grey / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437041433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1766469314
-    Price: $103.68 USD
+    Price: $11.99 USD
   - [Grey / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437074201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1766469314
-    Price: $103.68 USD
+    Price: $11.99 USD
   - [Grey / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437106969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1766469314
-    Price: $107.72 USD
+    Price: $11.99 USD
   - [Grey / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437139737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1766469314
-    Price: $100.84 USD
+    Price: $11.99 USD
   - [Orange / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437172505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1766469314
-    Price: $106.03 USD
+    Price: $11.99 USD
   - [Orange / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437205273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Orange / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437238041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Orange / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437270809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1766469314
-    Price: $107.19 USD
+    Price: $11.99 USD
   - [Purple / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437303577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Purple / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437336345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Purple / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437369113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1766469314
-    Price: $100.92 USD
+    Price: $11.99 USD
   - [Purple / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437401881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1766469314
-    Price: $104.77 USD
+    Price: $11.99 USD
   - [Rose red / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437434649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1766469314
-    Price: $105.42 USD
+    Price: $11.99 USD
   - [Rose red / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437467417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1766469314
-    Price: $106.14 USD
+    Price: $11.99 USD
   - [Rose red / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437500185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1766469314
-    Price: $106.14 USD
+    Price: $11.99 USD
   - [Rose red / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437532953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1766469314
-    Price: $105.42 USD
+    Price: $11.99 USD
   - [SET1 / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437565721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1766469314
-    Price: $255.19 USD
+    Price: $55.99 USD
   - [SET1 / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437598489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1766469314
-    Price: $255.19 USD
+    Price: $54.50 USD
   - [SET1 / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437631257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1766469314
-    Price: $255.19 USD
+    Price: $53.99 USD
   - [SET1 / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437664025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1766469314
-    Price: $255.19 USD
+    Price: $55.99 USD
   - [SET1 / XL.](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437696793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1766469314
-    Price: $255.19 USD
+    Price: $56.99 USD
   - [SET2 / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437729561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1766469314
-    Price: $227.75 USD
+    Price: $32.99 USD
   - [SET2 / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437762329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1766469314
-    Price: $227.75 USD
+    Price: $32.99 USD
   - [SET2 / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437795097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1766469314
-    Price: $233.48 USD
+    Price: $34.99 USD
   - [SET2 / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437827865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1766469314
-    Price: $227.75 USD
+    Price: $34.99 USD
   - [SET2 / XL.](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437860633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1766469314
-    Price: $227.75 USD
+    Price: $34.99 USD
   - [Sky blue / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437893401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9ecffd3-7ab4-4314-b3fd-d87be61f0644.jpg?v=1766469314
-    Price: $105.06 USD
+    Price: $29.99 USD
   - [Sky blue / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437926169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9ecffd3-7ab4-4314-b3fd-d87be61f0644.jpg?v=1766469314
-    Price: $105.06 USD
+    Price: $29.99 USD
 - [Wireless Dancing Water Speaker - LED Light Fountain for Home & Parties](https://the-new-age-7647.myshopify.com/products/wireless-dancing-water-speaker-led-light-fountain-speaker-home-party): Experience vibrant sound and stunning water display with the Wireless Dancing Water Speaker. Perfect for home or party use with 3D audio and LED lighting features.
-  Updated: 2025-12-23T23:10:42Z
+  Updated: 2025-12-24T00:37:52Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -3240,7 +3240,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/643027a3-a8f9-4c3b-be93-6dc1150f5838.jpg?v=1766476982
     Price: $32.99 USD
 - [GTX300 Gaming CF Gaming Keyboard and Mouse Set with Backlight & Ergonomic Design](https://the-new-age-7647.myshopify.com/products/gtx300-gaming-cf-lol-gaming-keyboard-mouse-glowing-set): Discover the GTX300 Gaming CF gaming keyboard and mouse set featuring vibrant backlight, ergonomic curves, 1600 dpi resolution, USB wired connection, ideal for gaming and work.
-  Updated: 2025-12-23T23:48:06Z
+  Updated: 2025-12-24T10:53:28Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -3253,21 +3253,55 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2154876221516.jpg?v=1766530407
     Price: $32.99 USD
+- [Silicone Grip Device Finger Exercise Stretcher for Hand Rehabilitation](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain): Buy the Silicone Grip Device for finger exercise and rehabilitation. Effective hand grip trainer to relieve pain, suitable for all ages, durable and soft-touch.
+  Updated: 2025-12-24T19:39:31Z
+  Vendor: The New Age
+  Product Type: Fitness
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4d1023fa-0bb9-4e5f-adf2-d16ddf047b9f.jpg?v=1766561765
+  - [Black](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799053992217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b377cd19-97e0-4f85-a005-48bd738bc621.jpg?v=1766561765
+    Price: $8.00 USD
+  - [Blue](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799054024985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bc4b9526-be23-4a24-b457-f1dc988b3bb8.jpg?v=1766561766
+    Price: $8.00 USD
+  - [Grey](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799054057753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b5d7f007-98eb-4c29-ae3a-7146e66a3f64.jpg?v=1766561765
+    Price: $8.00 USD
+  - [Set](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799054090521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4fce808f-8792-4aff-9a6c-01517be79768.jpg?v=1766561766
+    Price: $14.99 USD
 
 ## Collections
 
-- [Shop the Best Home page Collection for Stylish and Comfortable Living](https://the-new-age-7647.myshopify.com/collections/frontpage): Discover top-quality products in our Home page collection. Find everything you need for a stylish, comfortable, and functional home environment today.
-  Updated: 2025-12-23T07:08:48Z
-  Total Products: 1
-- [Garden](https://the-new-age-7647.myshopify.com/collections/garden): Collection
-  Updated: 2025-12-23T05:14:07Z
-  Total Products: 0
-- [Dogs](https://the-new-age-7647.myshopify.com/collections/dogs): Collection
-  Updated: 2025-12-23T05:14:09Z
-  Total Products: 0
-- [TheNewAge Collection Discover the Latest Trends in Our New Collection](https://the-new-age-7647.myshopify.com/collections/the-new-age): Explore The New Age collection featuring the latest trends and styles. Find unique pieces in The New collection to elevate your wardrobe today.
-  Updated: 2025-12-23T23:10:43Z
+- [Discover Top Phone Accessories for Your Mobile Devices | Shop Now](https://the-new-age-7647.myshopify.com/collections/phone-accessories): Explore our wide range of Phone Accessories to enhance and protect your device. Shop high-quality Phone Accessories today for style and functionality.
+  Updated: 2025-12-24T22:51:17Z
+  Total Products: 4
+- [Pet Accessories Collection - Stylish & Durable Accessories for Your Pets](https://the-new-age-7647.myshopify.com/collections/pet-accessories): Discover our Pet Accessories collection featuring stylish, durable pet accessories perfect for your furry friends. Shop now for quality Pet Accessories that suit every pet's style.
+  Updated: 2025-12-24T22:44:56Z
+  Total Products: 9
+- [Explore Top Fitness Gear & Accessories - Enhance Your Fitness Journey](https://the-new-age-7647.myshopify.com/collections/fitness): Discover the best fitness equipment and accessories in our Fitness collection. Get motivated and achieve your health goals with our top-quality fitness products.
+  Updated: 2025-12-24T22:46:15Z
+  Total Products: 14
+- [Explore Top Toys & Hobbies for All Ages | Wide Selection & Great Deals](https://the-new-age-7647.myshopify.com/collections/toys-hobbies): Discover the best Toys & Hobbies collection with a wide selection for all ages. Shop now for exciting toys, hobbies, and gifts at unbeatable prices.
+  Updated: 2025-12-24T22:49:00Z
+  Total Products: 5
+- [Shop High-Quality Computer Accessories | Enhance Your Workspace](https://the-new-age-7647.myshopify.com/collections/computer-accessories): Discover our premium collection of Computer Accessories to boost productivity and efficiency. Shop now for high-quality peripherals and tech essentials.
+  Updated: 2025-12-24T22:56:45Z
   Total Products: 3
+- [Lights & Home Security Collection | Enhance Your Home Safety & Design](https://the-new-age-7647.myshopify.com/collections/lights-home-security): Discover our Lights & Home Security collection to upgrade your home’s safety and ambiance. Find the perfect lighting and security solutions today.
+  Updated: 2025-12-24T22:52:55Z
+  Total Products: 4
+- [Shop Premium Bedding Collection | Comfortable & Stylish Bedding Items](https://the-new-age-7647.myshopify.com/collections/bedding): Explore our Bedding collection for high-quality, comfortable, and stylish bedding. Perfect for a cozy home upgrade, featuring the best Bedding options.
+  Updated: 2025-12-24T22:54:24Z
+  Total Products: 5
+- [Jewelry Collection | Unique and Elegant Jewelry Pieces for Every Occasion](https://the-new-age-7647.myshopify.com/collections/jewelry): Explore our exclusive jewelry collection featuring stunning, high-quality jewelry. Find the perfect jewelry piece to elevate your style today.
+  Updated: 2025-12-24T22:55:55Z
+  Total Products: 5
 
 ## Blogs
 
@@ -3286,8 +3320,8 @@ The New Age
 
 ## Store Pages
 
-- [Contact](https://the-new-age-7647.myshopify.com/pages/contact)
-  Updated: 2025-12-10T18:04:55Z
+- [Contact](https://the-new-age-7647.myshopify.com/pages/contact): 
+  Updated: 2025-12-24T19:22:10Z
 - [Your privacy choices](https://the-new-age-7647.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-10T18:05:08Z
 - [Terms of Service](https://the-new-age-7647.myshopify.com/pages/terms-of-service)
