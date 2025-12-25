@@ -6,19 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-12-18T00:00:41.676Z
+- Updated At: 2025-12-25T00:00:40.295Z
 
 ## Products
 
 - [Green Emerald · Picual Variety · 500 ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml): Fresh Harvest 2025 · Most Intense Variety · First Cold Extraction100% Natural Extra Virgin Olive Oil Why You'll Love It The boldest expression in our collection, with pronounced bitterness and peppery intensity. Fresh Harvest 2025 – Early-harvest Picual olives, selected at peak freshness Most Intense Variety – Powerful, structured and elegant on the palate Naturally High in Polyphenols (over 500) – Rich in antioxidants First Cold Extraction (<27 °C) – Preserves aroma, flavor and nutrients 100% Natural Olive Juice – Pure olive juice. No colorants, no additives, no blends — just freshly extracted olives. Emerald-Inspired Bottle – Dark glass designed to protect the oil from light, preserving flavor and freshness over time. Green Emerald Picual is the most intense extra virgin olive oil in our Gems Line, crafted from early-harvest Picual olives grown in Jaén. Cold extracted below 27 °C, it offers a bold, complex flavor with fresh green notes and a clean, peppery finish, naturally rich in over 500 polyphenols. Produced in limited batches and presented in an emerald-inspired bottle, it is a refined culinary luxury and a distinctive gourmet gift.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-18T21:06:07Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2666_EST.jpg?v=1750053125
   Price: $53.00 USD
 - [Blue Sapphire Picual · Sustainable Edition · 500 ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): Fresh Harvest 2025 · Most Delicate Expression in Our Collection · Cold Extracted (<27 °C) 100% Natural Extra Virgin Olive Oil Why You'll Love It Fresh Harvest 2025 – Early-harvest olives, selected at peak freshness Intensity Profile – Smooth, balanced and gentle, with very low bitterness and minimal pepperiness Naturally present Polyphenols – Antioxidants from early-harvest olives First Cold Extraction (<27 °C) – Preserves aroma, flavor and nutrients 100% Natural Olive Juice – Pure olive juice. No colorants, no additives, no blends — just freshly extracted olives Sustainably Cultivated – Grown with a strong focus on biodiversity and soil health Sapphire-Inspired Bottle – Dark glass designed to protect the oil from light, preserving freshness and delicate aromas over time Blue Sapphire is the most delicate extra virgin olive oil in the Gems Line, crafted from olives grown in a carefully managed, sustainability-focused environment in Jaén, Spain, where biodiversity, soil health and natural balance are actively preserved. Carefully cold extracted below 27 °C, it offers a smooth and refined profile with soft green aromas, subtle fruitiness and a gentle, elegant finish. Produced in limited batches and presented in its sapphire-inspired bottle, it is a refined everyday luxury and an ideal choice for those who appreciate subtlety, balance and natural elegance.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-18T21:07:59Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
@@ -87,7 +87,7 @@
   Updated: 2025-12-17T15:08:42Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-24T12:19:13Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-12-17T15:08:42Z
@@ -99,19 +99,19 @@
   Updated: 2025-12-17T15:08:42Z
   Total Products: 0
 - [Extra virgin olive oil pack  | Gift Sets ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/packs-gourmet): Discover our exclusive extra virgin olive oil pack— the perfect gift for food lovers. Enjoy award-winning extra virgin olive oils beautifully packaged and delivered to your door.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-21T12:19:14Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-24T12:19:13Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-24T12:19:13Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-24T12:19:13Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2025-12-24T12:19:13Z
   Total Products: 10
 
 ## Blogs
@@ -151,7 +151,7 @@
     Updated: 2025-10-28T20:07:42Z
     Author: Verde Esmeralda Olive
   - [Advantages of Extra Virgin Olive Oil: 7 Reasons](https://verdesmeraldaolive.us/blogs/news/advantages-of-extra-virgin-olive-oil): Advantages of Extra Virgin Olive Oil: 7 Reasons
-    Updated: 2025-11-20T14:00:03Z
+    Updated: 2025-12-18T19:57:43Z
     Author: Verde Esmeralda Olive
   - [Best Extra Virgin Olive Oil: 5 Qualities](https://verdesmeraldaolive.us/blogs/news/best-extra-virgin-olive-oil): Best Extra Virgin Olive Oil: 5 Qualities
     Updated: 2025-10-28T19:57:25Z
