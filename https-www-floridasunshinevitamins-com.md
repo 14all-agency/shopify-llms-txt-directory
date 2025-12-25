@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-12-24T00:00:37.770Z
+- Updated At: 2025-12-25T00:00:38.088Z
 
 ## Products
 
@@ -141,7 +141,7 @@
   Updated: 2025-11-26T14:28:53Z
   Total Products: 5
 - [Vitamin C](https://www.floridasunshinevitamins.com/collections/vitamin-c)
-  Updated: 2025-12-22T14:30:22Z
+  Updated: 2025-12-24T09:02:54Z
   Total Products: 8
 
 ## Blogs
@@ -207,6 +207,8 @@
   Updated: 2025-09-10T10:58:37Z
 - [Shipping policy](https://www.floridasunshinevitamins.com/pages/shipping-policy): We aim to deliver your order quickly, safely, and affordably. Please review our shipping policy below to understand how we handle order processing,...
   Updated: 2025-09-19T10:15:37Z
+- [Affiliate Program | Earn up to 15% Commissions](https://www.floridasunshinevitamins.com/pages/affiliate-marketing): 
+  Updated: 2025-12-24T11:17:15Z
 
 ## Policies
 
