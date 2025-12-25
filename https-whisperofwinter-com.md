@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2025-12-21T00:00:21.418Z
+- Updated At: 2025-12-25T00:00:22.570Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
@@ -142,7 +142,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/white-ceramic-mug-with-color-inside-black-15-oz-front-69279fd36e098.jpg?v=1765750996
     Price: $24.99 USD
 - [Frostmark Rune – Embroidered Champion Packable Jacket](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket): Explore the Frostmark Rune – Embroidered Champion Packable Jacket for a winter aesthetic with Nordic inspired design. Perfect gift for fantasy lovers!
-  Updated: 2025-12-16T21:13:58Z
+  Updated: 2025-12-23T00:21:31Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-graphite-front-6929d944b4af6.jpg?v=1765750959
     Price: $84.99 USD
   - [Graphite / M](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540444212)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-graphite-front-6929d944b4af6.jpg?v=1765750959
     Price: $84.99 USD
   - [Graphite / L](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540476980)
@@ -220,7 +220,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-graphite-front-6929d944b4af6.jpg?v=1765750959
     Price: $84.99 USD
   - [Graphite / XL](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540509748)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-graphite-front-6929d944b4af6.jpg?v=1765750959
     Price: $84.99 USD
   - [Graphite / 2XL](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540542516)
