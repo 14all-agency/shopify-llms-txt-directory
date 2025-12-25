@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-12-22T00:00:45.675Z
+- Updated At: 2025-12-25T00:00:45.616Z
 
 ## Products
 
@@ -7361,7 +7361,7 @@ Ethical Brilliance. Timeless Elegance.
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elanique-moissanite-dancing-heart-pendant_by_Chantal_Vaulet.webp?v=1760898503
   Price: €139.00 EUR
 - [The Claravelle Moissanite Dancing Clover Necklace](https://www.chantalvaulet.com/products/the-claravelle-moissanite-dancing-clover-pendant): Shop The Claravelle Moissanite Dancing Clover Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-12-10T19:16:38Z
+  Updated: 2025-12-23T08:40:18Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
