@@ -10,7 +10,7 @@
 - Contact Email: daniel@fernandosprint.com
 - Contact Phone: +1-714-723-0125
 - Address: 11331 Markon Drive, Garden Grove, CA 92841
-- Updated At: 2025-12-21T00:00:33.149Z
+- Updated At: 2025-12-25T00:00:33.866Z
 
 ## Products
 
@@ -231,7 +231,7 @@
     Availability: Available
     Price: $18.00 USD
 - [$25 Custom DTG Tee Special - Any Design, Any Vision!](https://fernandosprint.com/products/25-custom-dtg-tee-special-any-design-any-vision): Custom DTG t-shirts for just $25! Any design, any vision printed on premium Bella Canvas 3001 tees. Professional direct-to-garment printing with vibrant colors and crisp details. Turn your vision into reality today!
-  Updated: 2025-08-28T16:45:14Z
+  Updated: 2025-12-22T12:40:52Z
   Vendor: Fernando's Screen Printing
   Product Type: Short Sleeve Tee
   Availability: Available
@@ -405,7 +405,7 @@
   Updated: 2025-08-21T02:56:09Z
   Total Products: 2
 - [Direct To Garment](https://fernandosprint.com/collections/direct-to-garment)
-  Updated: 2025-08-20T22:52:22Z
+  Updated: 2025-12-23T12:20:15Z
   Total Products: 1
 - [Artwork Services](https://fernandosprint.com/collections/artwork-services)
   Updated: 2025-08-20T22:52:22Z
@@ -414,16 +414,16 @@
   Updated: 2025-08-20T22:52:22Z
   Total Products: 0
 - [Best Selling](https://fernandosprint.com/collections/best-selling)
-  Updated: 2025-08-21T02:56:29Z
+  Updated: 2025-12-23T12:20:15Z
   Total Products: 14
 - [PD Custom Collection](https://fernandosprint.com/collections/pd-custom-collection)
   Updated: 2025-08-18T16:31:27Z
   Total Products: 0
 - [Collection all for Inkybay](https://fernandosprint.com/collections/inkybay-all)
-  Updated: 2025-08-21T02:56:29Z
+  Updated: 2025-12-23T12:20:15Z
   Total Products: 14
 - [All](https://fernandosprint.com/collections/all)
-  Updated: 2025-09-10T06:07:21Z
+  Updated: 2025-12-23T12:20:15Z
   Total Products: 14
 - [Film Output](https://fernandosprint.com/collections/film-output): Professional Film Output for DIY Screen Printers Take control of your screen printing production with our professional film output services. Simply send us your artwork, and we'll produce high-quality, precision film positives that are ready for screen burning and printing. What We Offer High-Resolution Film Positives Professional-grade film output with crisp, clean lines and solid blacks essential for proper screen exposure. Our films are printed at optimal density to ensure sharp stencil creation and consistent results every time. Expert Artwork Preparation Our experienced team reviews and optimizes your artwork for screen printing, ensuring proper separation, correct sizing, and optimal output quality. We handle the technical details so your screens burn perfectly. Multiple Format Support We accept various file formats and work with your existing artwork to create production-ready films. Whether you're working with vector graphics, high-resolution images, or complex designs, we've got you covered. Quick Turnaround Fast, reliable service that keeps your production schedule on track. Send us your files and receive professional film positives ready for immediate use. Perfect For: DIY Screen Printers - Get professional-quality films without investing in expensive equipment Small Print Shops - Outsource film production to focus on printing and customer service Startups & Entrepreneurs - Access professional film output without capital investment Established Printers - Backup service for equipment downtime or overflow work Educational Programs - Schools and workshops needing reliable film production How It Works Send Your Artwork - Email your design files or upload through our system We Optimize & Output - Our experts prepare and print your films to perfection Fast Delivery - Receive professional film positives ready for screen burning Start Printing - Burn your screens and begin production immediately Why Choose Fernando's Film Output? Professional Quality - Films that produce clean, consistent screen burns Expert Review - Artwork optimization by experienced professionals Fast Service - Quick turnaround to keep your projects moving Competitive Pricing - Professional results at affordable rates Direct Communication - Work directly with owners who understand your needs Local Service - Garden Grove location with personal attention Technical Specifications High-density black output for optimal screen exposure Various film sizes available to match your screen frames Compatible with all standard screen burning equipment Precise registration marks for multi-color designs Professional-grade film materials for consistent results
   Updated: 2025-08-20T22:52:23Z
