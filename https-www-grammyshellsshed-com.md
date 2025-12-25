@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2025-12-24T00:00:27.490Z
+- Updated At: 2025-12-25T00:00:26.585Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -341,13 +341,6 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/candle.webp?v=1754783285
   Price: $15.45 USD
-- [4G LTE-A Router US Cellular - Portable High-Speed Internet | No Power Plug](https://www.grammyshellsshed.com/products/4g-lte-a-router-without-power-plug-uscellular): Shop the 4G LTE-A Router without a power plug from US Cellular for high-speed internet connectivity on the go. Lightweight and portable design.
-  Updated: 2025-12-14T02:49:50Z
-  Vendor: Grammy Shells Shed
-  Product Type: Router
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/router.webp?v=1754784338
-  Price: $18.00 USD
 - [Vintage Pewter Victorian Footed Teapot - Elegant and Functional](https://www.grammyshellsshed.com/products/vintage-pewter-victorian-footed-teapot): Explore the Vintage Pewter Victorian Footed Teapot. Perfect for collectors and tea lovers, this elegant piece combines traditional charm with practical features.
   Updated: 2025-12-14T02:49:50Z
   Vendor: Grammy Shell's Shed
@@ -985,13 +978,6 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_e13622d4-ce75-45e1-9b80-e6db8f39fb5f.png?v=1755436997
   Price: $18.45 USD
-- [Boston Wearhouse Lighthouse Mini Spreading Spatulas Set](https://www.grammyshellsshed.com/products/boston-wearhouse-lighthouse-mini-spreading-spatulas-set): Explore the Boston Wearhouse Lighthouse Mini Spreading Spatulas Set. Perfect for serving spreads, these charming spatulas add a nautical touch to your dining experience.
-  Updated: 2025-12-14T00:57:31Z
-  Vendor: Grammy Shell's Shed
-  Product Type: Condiment set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_455737b7-b228-48ab-bb61-091066766a5e.jpg?v=1763133046
-  Price: $10.00 USD
 - [Vintage Tupperware Nesting Canisters Set of 4](https://www.grammyshellsshed.com/products/vintage-tupperware-nesting-canisters-set-4): Shop our Vintage Tupperware Nesting Canisters Set of 4 in light blue. Perfect for storage with practical lids. Unique vintage flair for your kitchen!
   Updated: 2025-12-14T00:57:30Z
   Vendor: Grammy Shell's Shed
@@ -1559,13 +1545,6 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_5a5aa3f3-b805-4dc0-9e67-93918f8ead94.png?v=1757032169
   Price: $29.99 USD
-- [Country Style Placemats Set of 8 - Fruit Flowers Tapestry Table Linens](https://www.grammyshellsshed.com/products/8-piece-country-placemat-set-fruit-and-flowers-tapestry): Vintage country style placemats set of 8 featuring beautiful fruit and flower tapestry design. Perfect for adding charm to your dining table.
-  Updated: 2025-12-12T13:39:30Z
-  Vendor: Grammy Shell's Shed 
-  Product Type: Placemat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_3677e665-32a5-4f9f-961f-254e645828f0.jpg?v=1757032221
-  Price: $25.00 USD
 - [Butterfly Brooch Gold Wire White Beads - Handmade Avon Pin](https://www.grammyshellsshed.com/products/handmade-golden-wired-butterfly-brooche-white-beads-from-avon): This handmade golden wired butterfly brooche from Avon is a stunning addition to any accessory collection. The intricate design and quality craftsmanship create a unique and elegant look, making it the perfect statement piece for any outfit. Beads of white add a touch of charm and beauty, making it a must-have for any fashion lover.
   Updated: 2025-12-12T13:39:30Z
   Vendor: Grammy Shell's Shed 
@@ -1665,7 +1644,7 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_273a598d-db99-44fe-bb8a-929b6dfa2abf.jpg?v=1760289642
   Price: $25.00 USD
 - [Apple Pie Plates and Saucers Set of 6 - Tabletops Unlimited Vintage](https://www.grammyshellsshed.com/products/a-is-for-apple-set-of-6-tabletops-unlimited-pie-plates-saucers): Charming apple-themed pie plates and saucers set of 6 by Tabletops Unlimited. Durable design perfect for serving pies and desserts. Brighten your kitchen today!
-  Updated: 2025-12-12T13:39:26Z
+  Updated: 2025-12-24T06:24:52Z
   Vendor: Grammy Shell's Shed 
   Product Type: Pie Plates and Saucers
   Availability: Available
@@ -1715,6 +1694,9 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
     Updated: 2025-10-07T03:34:43Z
     Author: Patrice Michelle Moore
     Tags: history, home decore, new and used, outer banks, pre loved, travel, vintage
+  - [The Ultimate Guide to Finding Hidden Gems in Thrift Stores](https://www.grammyshellsshed.com/blogs/news/the-ultimate-guide-to-finding-hidden-gems-in-thrift-stores): The Ultimate Guide to Finding Hidden Gems in Thrift Stores
+    Updated: 2025-12-24T02:23:01Z
+    Author: Grammy Shell
 
 ## Store Pages
 
