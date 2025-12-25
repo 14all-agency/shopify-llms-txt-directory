@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2025-12-22T00:00:25.192Z
+- Updated At: 2025-12-25T00:00:32.192Z
 
 ## Products
 
@@ -30,6 +30,13 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-front-69079d96aae57.jpg?v=1762106821
+  Price: £42.99 GBP
+- [5 panel cap - Silky White and Black](https://montenegra-london.com/products/5-panel-cap-silky-white-and-black): The Montenégra 5-Panel Cap — Silky White and Black reinterprets casual headwear with intentional design and modern simplicity. Crafted for urban lifestyles and refined streetwear outfits, this premium 5-panel cap balances structure with understated presence, offering a clean silhouette that complements minimalist wardrobes. Made from a durable 65% polyester / 35% cotton blend, this cap delivers both resilience and a refined finish — built to hold shape while remaining comfortable in everyday wear. The structured front panel and mid-profile fit provide a crisp canvas and a sleek silhouette that sits cleanly on the head, making it a versatile staple for city streets and everyday rotation. Designed in a tonal black and white palette, the cap merges quiet luxury with versatile styling — ideal for pairing with tailored outerwear, relaxed streetwear, or minimalist essentials. Six sewn eyelets ensure breathable comfort, while the adjustable snap closure delivers a personalised fit and secure wear all day long. Key Features Premium polyester-cotton blend for durability and refined texture Structured front panel & mid-profile fit for sleek presence Slightly curved visor with matching undervisor and sweatband for cohesive finish Adjustable snap closure for customised comfort Breathable design with six sewn eyelets for everyday wear Minimalist black & white palette — timeless, versatile, Montenégra signature Engineered for modern headwear essentials, the Montenégra 5-Panel Cap brings minimalist design and structured detail to everyday outfits — quiet confidence, refined presence, and purposeful style.
+  Updated: 2025-12-22T15:56:15Z
+  Vendor: Montenegra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-white-front-69079d960bc63.jpg?v=1762106834
   Price: £42.99 GBP
 - [5 panel cap -  Premium Black and White](https://montenegra-london.com/products/5-panel-cap-sleek-black-and-white): The Montenégra 5-Panel Cap — Sleek Black and White reinterprets casual headwear with intentional design and modern simplicity. Crafted for urban lifestyles and refined streetwear outfits, this premium 5-panel cap balances structure with understated presence, offering a clean silhouette that complements minimalist wardrobes. Made from a durable 65% polyester / 35% cotton blend, this cap delivers both resilience and a refined finish — built to hold shape while remaining comfortable in everyday wear. The structured front panel and mid-profile fit provide a crisp canvas and a sleek silhouette that sits cleanly on the head, making it a versatile staple for city streets and everyday rotation. Designed in a tonal black and white palette, the cap merges quiet luxury with versatile styling — ideal for pairing with tailored outerwear, relaxed streetwear, or minimalist essentials. Six sewn eyelets ensure breathable comfort, while the adjustable snap closure delivers a personalised fit and secure wear all day long. Key Features Premium polyester-cotton blend for durability and refined texture Structured front panel & mid-profile fit for sleek presence Slightly curved visor with matching undervisor and sweatband for cohesive finish Adjustable snap closure for customised comfort Breathable design with six sewn eyelets for everyday wear Minimalist black & white palette — timeless, versatile, Montenégra signature Engineered for modern headwear essentials, the Montenégra 5-Panel Cap brings minimalist design and structured detail to everyday outfits — quiet confidence, refined presence, and purposeful style.
   Updated: 2025-12-12T00:26:31Z
@@ -2005,30 +2012,12 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/3F4384ED-6604-4D23-8484-1BBD3F1B4F97.png?v=1765482458
   Price: £4.00 GBP
 - [Montenégra Monoglasses](https://montenegra-london.com/products/montenegra-monoglasses): montenegra sunglass Designer Sunglasses Designer Sunglasses 100% UVA and UVB protection Shatterproof plastic Fade resistant properties Width 14.5cm | Arm Length 15cm | Height 5cm Printed and hand-assembled to order Surface wipe only. Clean gently by hand with mild soapy damp cloth. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2025-12-18T06:04:27Z
+  Updated: 2025-12-24T18:23:06Z
   Vendor: Contrado
   Product Type: Sunglasses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2882920_montenegra-monoglasses_0.jpg?v=1765994660
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2882920_montenegra-monoglasses_0_89b4ceae-c197-4163-8661-a0e9b2468561.jpg?v=1766600585
   Price: £42.45 GBP
-
-## Collections
-
-- [Caps](https://montenegra-london.com/collections/frontpage)
-  Updated: 2025-11-24T05:24:47Z
-  Total Products: 11
-- [Home page](https://montenegra-london.com/collections/media-and-entertainment-example-products)
-  Updated: 2025-11-21T17:58:13Z
-  Total Products: 0
-- [Garments](https://montenegra-london.com/collections/general-clothes-example-products)
-  Updated: 2025-12-12T15:29:09Z
-  Total Products: 42
-- [Music.](https://montenegra-london.com/collections/music)
-  Updated: 2025-12-12T12:56:24Z
-  Total Products: 8
-- [Recommended products (Seguno)](https://montenegra-london.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-17T18:04:48Z
-  Total Products: 95
 
 ## Blogs
 
@@ -2038,12 +2027,12 @@
     Author: Montenegra
     Tags: London luxury fashion brand Montenégra clothing London UK designer fashion, Luxury fashion that empowers identity Clothing inspired by art and culture Intentional and timeless fashion pieces Quiet luxury for modern lifestyle Fashion beyond trends and logos, Minimalist luxury fashion Sustainable luxury clothing Fashion for self-expression Gender-neutral clothing Art-inspired fashion, Montenégra London Luxury fashion London Modern luxury clothing Timeless fashion Identity-driven fashion
   - [Dark Academia Winter Style: Essential Pieces for Urban Edge Unleashed](https://montenegra-london.com/blogs/news/dark-academia-winter-style-essential-pieces-for-urban-edge): Dark Academia Winter Style: Essential Pieces for Urban Edge Unleashed
-    Updated: 2025-12-16T14:30:05Z
-    Author: Tinuke Lawal
+    Updated: 2025-12-23T16:09:22Z
+    Author: Tapita
     Tags: Capsule Wardrobe, Dark Academia, Layering, Urban Style, Winter Fashion
   - [Trend Alert: Made-to-Order Fashion: Why Custom Clothing Defines 2025](https://montenegra-london.com/blogs/news/made-to-order-fashion-why-custom-clothing-defines-2025): Trend Alert: Made-to-Order Fashion: Why Custom Clothing Defines 2025
-    Updated: 2025-12-13T10:00:05Z
-    Author: Tinuke Lawal
+    Updated: 2025-12-24T00:36:22Z
+    Author: Montenegra
     Tags: 2025 fashion trends, custom clothing, made-to-order fashion, on-demand fashion, sustainable fashion
   - [Curating Your Wardrobe: Essential Garments for 2025 that turn heads](https://montenegra-london.com/blogs/news/curating-your-wardrobe-essential-garments-for-2025): Curating Your Wardrobe: Essential Garments for 2025 that turn heads
     Updated: 2025-12-12T10:01:39Z
@@ -2068,6 +2057,12 @@
     Author: Montenégra
   - [How to Elevate Your Festive Wardrobe with the Monténegra Santa Hat](https://montenegra-london.com/blogs/news/how-to-elevate-your-festive-wardrobe-with-the-montenegra-santa-hat): How to Elevate Your Festive Wardrobe with the Monténegra Santa Hat
     Updated: 2025-12-19T17:01:22Z
+    Author: Montenégra
+  - [Unveiling the Magic of Monténegra Santa Hat: A Holiday Must-Have](https://montenegra-london.com/blogs/news/unveiling-the-magic-of-montenegra-santa-hat-a-holiday-must-have): Unveiling the Magic of Monténegra Santa Hat: A Holiday Must-Have
+    Updated: 2025-12-23T23:00:27Z
+    Author: Montenégra
+  - [Common Minimalism Challenges and Solutions Found in Montenégra](https://montenegra-london.com/blogs/news/common-minimalism-challenges-and-solutions-found-in-montenegra): Common Minimalism Challenges and Solutions Found in Montenégra
+    Updated: 2025-12-24T08:00:26Z
     Author: Montenégra
 
 ## Store Pages
