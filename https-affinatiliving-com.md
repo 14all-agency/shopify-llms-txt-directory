@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-25T16:00:33.371Z
+- Updated At: 2025-12-25T20:00:34.805Z
 
 ## Products
 
@@ -1684,11 +1684,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Mint Eucalyptus Original Candle](https://affinatiliving.com/products/mint-eucalyptus-original-candle): Mint Eucalyptus Original Candle – 10 oz Mint Eucalyptus is crisp, clean, and revitalizing. Cool mint blends with eucalyptus for a refreshing, spa-like scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: MintMiddle Notes: EucalyptusBase Notes: Soft Woods Perfect for clearing the air and resetting your space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-24T21:07:17Z
+  Updated: 2025-12-25T18:36:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1BF66A27-C3ED-487F-8F85-CD9E509828AD.png?v=1747348695
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8504.png?v=1766687813
   - [Single Order](https://affinatiliving.com/products/mint-eucalyptus-original-candle?variant=42443979423825)
     Availability: Available
     Price: $16.95 USD
@@ -1729,11 +1729,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Mahogany Teakwood Original Candle](https://affinatiliving.com/products/mahogany-teakwood-original-candle): Mahogany Teakwood Original Candle – 10 oz Mahogany Teakwood is bold, rich, and refined. Warm woods blend with subtle spice for a confident, masculine-leaning scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh WoodsMiddle Notes: MahoganyBase Notes: Teakwood, Musk Perfect for grounding your space with depth and warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-24T21:07:19Z
+  Updated: 2025-12-25T18:51:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/DA1AF3CA-A1E1-471F-8C7A-64F56112F7C7.png?v=1747348695
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8513.png?v=1766688693
   - [Single Order](https://affinatiliving.com/products/mahogany-teakwood-original-candle?variant=42443977785425)
     Availability: Available
     Price: $16.95 USD
@@ -1849,11 +1849,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Fresh Cut Sage Original Candle](https://affinatiliving.com/products/fresh-cut-sage-original-candle): Fresh Cut Sage Original Candle – 10 oz Fresh Cut Sage is clean, herbal, and calming. Earthy greens blend with soft freshness for a naturally soothing scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh SageMiddle Notes: Herbal GreensBase Notes: Soft Woods Perfect for grounding your space and clearing the air. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-24T21:07:22Z
+  Updated: 2025-12-25T18:35:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/498E2F3D-D4F5-46C7-9A2E-BEDE692BCFAA.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8495.png?v=1766687751
   - [Single Order](https://affinatiliving.com/products/fresh-cut-sage-original-candle?variant=42443974410321)
     Availability: Available
     Price: $16.95 USD
@@ -1984,11 +1984,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Christmas Tree Original Candle](https://affinatiliving.com/products/christmas-tree-original-candle): Christmas Tree Original Candle – 10 oz Christmas Tree captures the unmistakable scent of a freshly cut evergreen. Crisp pine and fir notes create a festive, nostalgic holiday fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh PineMiddle Notes: Fir NeedlesBase Notes: Cedarwood, Soft Woods Perfect for holiday décor and winter gatherings, this candle brings the magic of the season indoors. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-24T21:07:13Z
+  Updated: 2025-12-25T18:34:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/EFF9099C-1EBC-46BA-9465-788C84BB065E.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8501.png?v=1766687681
   - [Single Order](https://affinatiliving.com/products/christmas-tree-original-candle?variant=42443967594577)
     Availability: Available
     Price: $16.95 USD
@@ -1999,11 +1999,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Citrus Pine Original Candle](https://affinatiliving.com/products/citrus-pine-original-candle): Citrus Pine Original Candle – 10 oz Citrus Pine is fresh, crisp, and uplifting. Bright citrus blends with evergreen pine for a clean scent that feels both energizing and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Citrus ZestMiddle Notes: Pine NeedlesBase Notes: Soft Woods, Clean Musk Perfect for refreshing your home and bringing an outdoors-in feel to any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-24T21:07:13Z
+  Updated: 2025-12-25T18:32:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/70F208DE-5759-4A7D-A8D7-218F9F4DCFE2.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8498.png?v=1766687547
   - [Single Order](https://affinatiliving.com/products/citrus-pine-original-candle?variant=42443964055633)
     Availability: Available
     Price: $16.95 USD
@@ -2239,11 +2239,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Fresh Cut Grass Original Candle](https://affinatiliving.com/products/fresh-cut-grass-original-candle): Fresh Cut Grass Original Candle – 10 oz Fresh Cut Grass brings the unmistakable scent of a freshly mowed lawn into your home. Crisp, green, and invigorating, this fragrance feels clean, nostalgic, and energizing. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Green Leaves, Fresh AirMiddle Notes: Cut Grass, Herbal GreensBase Notes: Soft Earth, Light Woods Perfect for spring and summer or anytime you want your space to feel bright and refreshed. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-24T21:07:18Z
+  Updated: 2025-12-25T18:31:22Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/423FDDBF-10BA-4B87-B3B0-6D3A664F4E5F.png?v=1747385894
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8492.png?v=1766687481
   - [Single Order](https://affinatiliving.com/products/fresh-cut-grass-original-candle?variant=42443952291921)
     Availability: Available
     Price: $16.95 USD
@@ -4357,11 +4357,11 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Apple Cinnamon Original Candle](https://affinatiliving.com/products/apple-cinnamon-original-candle): Fill your home with the cozy aroma of crisp apples and warm cinnamon. The Affinati Apple Cinnamon Original Candle (10 oz) delivers a rich, comforting scent and a clean, even burn—perfect for creating a festive, inviting atmosphere year-round.
-  Updated: 2025-12-24T21:07:23Z
+  Updated: 2025-12-25T18:29:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7477.png?v=1762631021
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8488.png?v=1766687386
   - [Single Order](https://affinatiliving.com/products/apple-cinnamon-original-candle?variant=58297035817041)
     Availability: Available
     Price: $16.95 USD
@@ -5659,11 +5659,11 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Whipped Pistachio Original Candle](https://affinatiliving.com/products/whipped-pistachio-original-candle): Experience the indulgent aroma of roasted pistachios and vanilla cream with our Whipped Pistachio Soy Candle. Warm, creamy, and luxuriously inviting.
-  Updated: 2025-12-23T15:28:08Z
+  Updated: 2025-12-25T18:28:37Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7476.png?v=1762631653
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8484.png?v=1766687316
   - [Single Order](https://affinatiliving.com/products/whipped-pistachio-original-candle?variant=58354820153425)
     Availability: Available
     Price: $16.95 USD
@@ -5952,11 +5952,11 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7599.png?v=1763167724
   Price: $17.95 USD
 - [Eucalyptus Pine Original Candle](https://affinatiliving.com/products/eucalyptus-pine-original-candle): Refresh your home with the crisp, natural aroma of our Eucalyptus Pine Original Candle. Hand-poured with a premium soy wax blend, this 10 oz candle delivers a clean, invigorating fragrance inspired by eucalyptus, pine needles, and cedar. Perfect for creating a calming, nature-inspired atmosphere. Burn time: 60–70 hours.
-  Updated: 2025-12-23T15:28:09Z
+  Updated: 2025-12-25T18:27:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7602.png?v=1763205726
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8475.png?v=1766687261
   - [Single Order](https://affinatiliving.com/products/eucalyptus-pine-original-candle?variant=58381514309713)
     Availability: Available
     Price: $16.95 USD
@@ -6549,11 +6549,11 @@
     Availability: Available
     Price: $72.95 USD
 - [Maple Pancakes Original Candle](https://affinatiliving.com/products/maple-pancakes-original-candle): Affinati Maple Pancakes Candle blends warm maple syrup, fluffy pancakes, and vanilla in a 10 oz soy candle for a cozy, sweet, long-lasting home fragrance.
-  Updated: 2025-12-23T15:28:11Z
+  Updated: 2025-12-25T18:43:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1FCD02C1-02FE-437B-99E1-570BFE672D8D.png?v=1764183834
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8509.png?v=1766688219
   - [Single Order](https://affinatiliving.com/products/maple-pancakes-original-candle?variant=58418979799121)
     Availability: Available
     Price: $16.95 USD
