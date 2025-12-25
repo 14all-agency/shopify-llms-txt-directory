@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-22T00:00:26.732Z
+- Updated At: 2025-12-25T00:00:34.239Z
 
 ## Products
 
@@ -945,8 +945,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/C486CC9C-64B3-4219-B6D6-762B9538C5A9.jpg?v=1758282990
   Price: $100.00 AUD
-- [Porland Botanical 8pce Coffee Set for Two](https://www.mitakitchenware.com/products/porland-botanical-8pce-coffee-set-for-two): Porland Botanical Turkish Coffee Set: Elegant wildflower designs on durable Alumilite Porcelain cups, plates and bowls. Perfect for serving coffee in style.
-  Updated: 2025-11-26T23:51:52Z
+- [Porland Botanical Coffee Serving Set for Two – 8 Piece Porcelain](https://www.mitakitchenware.com/products/porland-botanical-8pce-coffee-set-for-two): Porland Botanical 8-piece coffee serving set for two. Elegant porcelain Turkish coffee cups, saucers, tray and glasses with gold detailing.
+  Updated: 2025-12-22T15:38:25Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1143,19 +1143,19 @@
   Updated: 2025-12-21T11:16:23Z
   Total Products: 76
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2025-12-21T11:16:23Z
+  Updated: 2025-12-22T03:38:19Z
   Total Products: 200
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
   Updated: 2025-12-19T21:36:43Z
   Total Products: 2
 - [Porland Premium Collection -](https://www.mitakitchenware.com/collections/porland-premium-collection): Discover the exquisite range of Porland Premium Collection products, designed to elevate your dining experience. Shop now for quality and style.
-  Updated: 2025-12-17T12:14:24Z
+  Updated: 2025-12-22T03:38:19Z
   Total Products: 15
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2025-12-21T11:16:23Z
+  Updated: 2025-12-22T03:38:19Z
   Total Products: 200
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-21T11:16:23Z
+  Updated: 2025-12-22T03:38:19Z
   Total Products: 200
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-12-19T07:35:13Z
