@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2025-12-24T00:00:24.313Z
+- Updated At: 2025-12-25T00:00:27.177Z
 
 ## Products
 
@@ -39,10 +39,10 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2025-12-22T12:22:40Z
+  Updated: 2025-12-24T12:18:38Z
   Total Products: 3
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2025-12-22T12:22:40Z
+  Updated: 2025-12-24T12:18:38Z
   Total Products: 3
 
 ## Blogs
