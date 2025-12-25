@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2023-06-12T10:44:03Z
 - Contact Email: geral@universocomalma.com
-- Updated At: 2025-12-24T00:00:24.673Z
+- Updated At: 2025-12-25T00:00:24.745Z
 
 ## Products
 
