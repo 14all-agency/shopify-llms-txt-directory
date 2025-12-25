@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-23T00:01:01.366Z
+- Updated At: 2025-12-25T00:01:03.710Z
 
 ## Products
 
@@ -31298,7 +31298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-29_5.jpg?v=1711168823
     Price: $719.00 USD
 - [Moissanite 1.30CT Round & Baguette Diamond Fashion Earring](https://ibizjewel.com/products/moissanite-1-30ct-round-baguette-diamond-fashion-earring): Elevate Your Style With Our Moissanite 1.30ct Round & Baguette Diamond Fashion Earring. The Brilliant Moissanite Stone Paired With Baguette Diamonds Creates A Timeless And Sophisticated Look. Experience The Luxury Of Diamond Jewelry Without The High Cost.
-  Updated: 2025-10-02T10:31:04Z
+  Updated: 2025-12-24T06:25:52Z
   Vendor: Moissanite Diamond Earring
   Product Type: 
   Availability: Available
