@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-24T00:00:45.215Z
+- Updated At: 2025-12-25T00:00:46.124Z
 
 ## Products
 
@@ -2684,7 +2684,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/F71.png?v=1678677136
   Price: RM 250.00 MYR
 - [ALFRED VICTORIA 362mm Nickel Brushed Single Lever Sink Mixer with Swivel Spout](https://bath2u.com/products/alfred-victoria-362mm-chrome-single-lever-sink-mixer-with-swivel-spout): Specification : SUS 18-8 Stainless Steel Material Nickel Brushed Finished (Satin) Dimension: 215 (L) x 51 (W) x 362 (H) mm 35mm Ceramic Cartridge Attached with Soft Output Aerator Complete with A Pair of Flexible Hose With Pull-Out Sprayer
-  Updated: 2025-02-11T04:27:25Z
+  Updated: 2025-12-24T11:52:56Z
   Vendor: ALFRED VICTORIA
   Product Type: Kitchen Tap
   Availability: Available
@@ -2872,12 +2872,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/Onimi23308A.jpg?v=1678863031
   Price: RM 100.00 MYR
-- [Johnson Suiise WC](https://bath2u.com/products/johnson-suiise-wc): asdasdjasnsdlas as as asd as
-  Updated: 2025-10-30T08:17:16Z
-  Vendor: Bath2u.com
-  Product Type: 
-  Availability: Available
-  Price: RM 850.00 MYR
 - [Docasa A890 P-trap 180mm S-Trap 250mm 300mm Bathroom One Piece Rimless Washdown WC Water Closet 1 Piece Jamban Duduk](https://bath2u.com/products/docasa-a890-p-trap-180mm-s-trap-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk): Specification : Dimension: 730(W) x 370(L) x 800(H) mm Matrerial Ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
   Updated: 2025-10-31T16:04:51Z
   Vendor: Bath2u.com
@@ -3017,7 +3011,7 @@
     Availability: Available
     Price: RM 299.00 MYR
 - [Docasa WD018 P-trap 180mm S-Trap 250mm 280mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah](https://bath2u.com/products/docasa-wd018-p-trap-180mm-s-trap-250mm-280mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah): Specification : Dimension: 720(W) x 390(L) x 765(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T16:11:55Z
+  Updated: 2025-12-24T03:59:54Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
