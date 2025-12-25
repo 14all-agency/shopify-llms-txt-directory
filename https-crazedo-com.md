@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-20T00:00:34.010Z
+- Updated At: 2025-12-25T00:00:34.405Z
 
 ## Collections
 
@@ -89,6 +89,10 @@
     Updated: 2025-12-15T20:00:29Z
     Author: Mohammed Hassen
     Tags: 6-7 meme, Gen Alpha trends, In-N-Out Burger, In-N-Out number 67, internet culture, meme culture impact, viral marketing, viral marketing trends, viral trends, youth-driven trends
+  - [Anthony Joshua vs Jake Paul – Brutal Round 6 KO – Crazedo](https://crazedo.com/blogs/weekly-google-trends/anthony-joshua-vs-jake-paul-joshua-s-devastating-ko-ends-the-hype): Anthony Joshua vs Jake Paul – Brutal Round 6 KO – Crazedo
+    Updated: 2025-12-22T20:34:57Z
+    Author: Mohammed Hassen
+    Tags: Anthony Joshua knockout, Anthony Joshua Round 6 KO, Anthony Joshua vs Jake Paul, Celebrity boxing trend, Jake Paul boxing news, Jake Paul broken jaw, Jake Paul fight results, Jake Paul Netflix fight, Jake Paul vs Anthony Joshua results, Who won Jake Paul fight
 
 ## Store Pages
 
