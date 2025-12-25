@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2025-12-20T00:00:31.172Z
+- Updated At: 2025-12-25T00:00:35.110Z
 
 ## Products
 
@@ -152,6 +152,20 @@
   - [5XL](https://cardrugs.com/products/grind-v1-cardrugs-e-sports-jersey?variant=41024378765509)
     Availability: Available
     Price: $30.00 USD
+- [Track Club Camp Hat - Dolphin](https://cardrugs.com/products/7-year-annv-track-club-camp-hat-navy-mint): Track Club Camp Hat Limited Edition DesignSize: One Size Fits All 100 % CottonStructuredSoft Crown Low-Fitting5 Panel Design Released Aug 2022Design by CarDrugs
+  Updated: 2025-12-24T10:18:12Z
+  Vendor: CarDrugs.com
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0103/8204/9380/files/colorcamphat_1282a359-1b87-4501-8be6-908d90431cde.jpg?v=1766528642
+  Price: $30.00 USD
+- [Track Club Camp Hat - Greyscale](https://cardrugs.com/products/copy-of-7-year-annv-track-club-camp-hat-greyscale): Track Club Camp Hat Limited Edition DesignSize: One Size Fits All 100 % CottonStructuredSoft Crown Low-Fitting5 Panel Design Released Aug 2022Design by Denlin (CarDrugs)
+  Updated: 2025-12-24T18:30:39Z
+  Vendor: CarDrugs.com
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0103/8204/9380/files/greycamphat.jpg?v=1766528616
+  Price: $30.00 USD
 [List Continued](https://cardrugs.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MzI4NDkxOTI5Nzk3LCJsYXN0X3ZhbHVlIjoiNzMyODQ5MTkyOTc5NyJ9)
 
 ## Collections
@@ -169,8 +183,8 @@
   Updated: 2025-12-01T12:13:27Z
   Total Products: 87
 - [Apparel](https://cardrugs.com/collections/apparel)
-  Updated: 2025-12-19T12:09:27Z
-  Total Products: 250
+  Updated: 2025-12-23T22:01:53Z
+  Total Products: 254
 - [Lanyards](https://cardrugs.com/collections/lanyards)
   Updated: 2024-12-29T00:39:19Z
   Total Products: 18
@@ -301,11 +315,11 @@
   Updated: 2025-02-12T00:20:35Z
   Total Products: 1
 - [Hoodies](https://cardrugs.com/collections/hooded-sweatshirts)
-  Updated: 2025-12-19T12:09:27Z
-  Total Products: 70
+  Updated: 2025-12-23T22:16:28Z
+  Total Products: 74
 - [Hats](https://cardrugs.com/collections/hats)
-  Updated: 2025-12-19T12:09:27Z
-  Total Products: 40
+  Updated: 2025-12-23T22:17:41Z
+  Total Products: 41
 - [Series 31](https://cardrugs.com/collections/new-series-31)
   Updated: 2025-02-12T00:18:35Z
   Total Products: 0
@@ -322,8 +336,8 @@
   Updated: 2025-02-12T00:20:34Z
   Total Products: 0
 - [Newest!](https://cardrugs.com/collections/featured)
-  Updated: 2025-12-19T12:09:27Z
-  Total Products: 131
+  Updated: 2025-12-23T22:26:10Z
+  Total Products: 138
 - [Series 32 Part 3](https://cardrugs.com/collections/series-32-part-3)
   Updated: 2025-02-12T00:18:16Z
   Total Products: 0
@@ -337,7 +351,7 @@
   Updated: 2025-02-12T00:22:28Z
   Total Products: 0
 - [Nobori Flags](https://cardrugs.com/collections/nobori-flags)
-  Updated: 2025-12-19T12:09:27Z
+  Updated: 2025-12-22T12:07:23Z
   Total Products: 169
 - [Bags & Wallets](https://cardrugs.com/collections/bags)
   Updated: 2025-12-18T12:10:09Z
@@ -412,7 +426,7 @@
   Updated: 2025-06-07T06:20:03Z
   Total Products: 5
 - [XMAS DROP](https://cardrugs.com/collections/xmas-drop)
-  Updated: 2025-12-17T22:34:30Z
+  Updated: 2025-12-23T22:16:32Z
   Total Products: 71
 - [Series 43](https://cardrugs.com/collections/series-43)
   Updated: 2025-02-12T00:21:31Z
@@ -487,7 +501,7 @@
   Updated: 2025-10-11T11:08:04Z
   Total Products: 38
 - [Mystery Sale!](https://cardrugs.com/collections/mystery-sale): WELCOME TO THE MYSTERY SALE We release so many products here at Car Drugs every month we have to keep things moving quickly. We only have a set amount of space for inventory so when we run out of space, items are posted here. The oldest release we still have in stock goes for stupid cheap! Currently in Mystery Items: Summer 2025 releases All items are in 100% perfect condition we just need room for new stuff!
-  Updated: 2025-12-17T12:11:04Z
+  Updated: 2025-12-22T12:07:23Z
   Total Products: 8
 - [Plushie](https://cardrugs.com/collections/plushie)
   Updated: 2025-05-03T15:45:28Z
