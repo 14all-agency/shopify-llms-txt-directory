@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2025-12-20T00:00:29.711Z
+- Updated At: 2025-12-25T00:00:33.212Z
 
 King And Queen Games, llc
 
@@ -482,6 +482,9 @@ King And Queen Games, llc
     Author: King And Queen Games
   - [Exploring the Value of the Japanese Surfing Pikachu Vmax Card and Its Place in the World of Pokemon Cards](https://kingandqueengames.com/blogs/news/exploring-the-value-of-the-japanese-surfing-pikachu-vmax-card-and-its-place-in-the-world-of-pokemon-cards): Exploring the Value of the Japanese Surfing Pikachu Vmax Card and Its Place in the World of Pokemon Cards
     Updated: 2025-12-18T00:33:08Z
+    Author: King And Queen Games
+  - [Discovering Rarity: Why Box of Disaster Stands Out in Japanese and Chinese Pokemon Booster Boxes and Cards](https://kingandqueengames.com/blogs/news/discovering-rarity-why-box-of-disaster-stands-out-in-japanese-and-chinese-pokemon-booster-boxes-and-cards): Discovering Rarity: Why Box of Disaster Stands Out in Japanese and Chinese Pokemon Booster Boxes and Cards
+    Updated: 2025-12-22T00:43:37Z
     Author: King And Queen Games
 
 ## Store Pages
