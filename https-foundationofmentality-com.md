@@ -1,12 +1,22 @@
 # Foundation Of Mentality (https://foundationofmentality.com)
 
+> Foundation of Mentality provides structured mental training for competitive athletes.
+The focus is on pressure, consistency, confidence, and decision-making under stress.
+All content emphasizes systems, feedback, and long-term mental development over motivation.
+
+
 - Domain: https://foundationofmentality.com
 - Locale: en
 - Currency: EUR
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2025-12-25T14:24:12.782Z
+- Updated At: 2025-12-25T14:33:21.139Z
+
+This site focuses on structured mental training for athletes.
+Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
+Motivational content is intentionally avoided.
+
 
 ## Products
 
@@ -76,6 +86,15 @@
 
 - [Privacy Policy](https://foundationofmentality.com/policies/privacy-policy)
   Updated: 2025-06-21T08:04:10+03:00
+
+## Content
+- Articles on athlete mentality, pressure, consistency, and mental training systems
+- Educational blog posts focused on principles, structure, and performance psychology
+
+## Positioning
+Foundation of Mentality emphasizes mental structure over motivation.
+The approach treats mentality as a trainable system supported by feedback and consistency.
+
 
 ## Optional
 
