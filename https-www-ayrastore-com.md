@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T08:20:55Z
 - Contact Email: contact@ayrastore.com
-- Updated At: 2025-12-14T00:00:43.811Z
+- Updated At: 2025-12-26T00:00:42.984Z
 
 ## Products
 
@@ -285,7 +285,7 @@ Luxury Women's Wear, Custom-Made, Eco-Friendly, elite fashion
     Availability: Available
     Price: $0.00 USD
 - [BLANKA - Embroidered Women Shirt](https://www.ayrastore.com/products/blanka-embroidered-women-shirt): Elevate Your Style with BLANKA! Luxury Embroidered Shirt crafted from Premium Cotton. Unique blend of ancient techniques & cultural flair. Eco-Friendly, Custom-Made, Slow Fashion. Shop Now & Unleash Your Elegance!
-  Updated: 2025-11-09T19:45:21Z
+  Updated: 2025-12-17T15:12:46Z
   Vendor: AYRA
   Product Type: SKU
   Availability: Available
@@ -1651,7 +1651,7 @@ Luxury Women's Wear, Custom-Made, Eco-Friendly, elite fashion
   Updated: 2025-11-08T00:54:02Z
   Total Products: 20
 - [Boteh - the classics](https://www.ayrastore.com/collections/boteh-the-classics): BOTEH South American Floral Collection embodies sustainable luxury fashion, where each exquisite piece is crafted with precision and named after the majestic rose. Experience timeless elegance and sophistication in our eco-friendly formal wear, featuring intricate designs and impeccable craftsmanship, perfect for the discerning individual who demands perfection in slow fashion.
-  Updated: 2025-11-07T00:23:15Z
+  Updated: 2025-12-18T12:23:36Z
   Total Products: 16
 - [Islaah- the solitude](https://www.ayrastore.com/collections/islaah-the-statement): "Only Experiencing True Love can convince one towards the Excellence" Indulge in our spiritually curated women fashion collection, crafted from 100% pure premium fabric. Featuring luxury fabric intricate multicolor graphic appliqué and precise hand-cut details, our designs blend traditional techniques with modern artisanal clothing
   Updated: 2025-11-07T00:22:41Z
