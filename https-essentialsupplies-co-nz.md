@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-19T00:00:53.615Z
+- Updated At: 2025-12-26T00:00:54.693Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-black-2xl-240mm-cuff-70g-900-gloves-nitrile-examination-gloves-essential-supplies-602735.jpg?v=1719445406
   Price: $109.00 NZD
 - [Nitrile Examination Gloves Powder Free - Black, XL, 240mm Cuff, 7.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-black-xl-240mm-cuff-7-0g-1000): Black powder free nitrile gloves offer premium snag and ultimate puncture resistance for use in dirty, greasy, industrial work environments. Made of powder and latex free nitrile to avoid allergies and skin irritation. Used when emergency and body protection is paramount with an increased resistance to oils and heat over latex. Made of powder and latex free nitrile to avoid allergies and skin irritation 240mm cuff 7.0g Colour: Black Size: Extra Large Pack:10 packs x 100's Note:*Other sizes available: Small, Medium, Large, Extra Extra Large (2XL)
-  Updated: 2025-01-28T18:31:33Z
+  Updated: 2025-12-20T11:30:08Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -487,7 +487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/mini-centre-feed-paper-towel-white-210mm-x-75m-2-ply-40gsm-fsc-mix-12-rolls-perforated-centre-feed-paper-towels-essential-supplies-674961.jpg?v=1719445411
   Price: $106.00 NZD
 - [Polyethylene Gloves - Clear, S-M, 240mm Cuff, 1.0g - 5000 Gloves](https://essentialsupplies.co.nz/products/polyethylene-gloves-clear-s-m-240mm-cuff-1-0g-5000): Clear polyethylene gloves are non sterile, single use, ambidextrous gloves ideal for food service and general low risk, light handling services.Polyethylene gloves offer the cheapest protection solution on the market, are loose fitting and clear coloured. Superior performance and feel 240mm cuff 1.0g Colour: Clear Size: Medium Pack:10 packs x 500's Note:*Other sizes available: Small, Large, Extra Large
-  Updated: 2025-01-09T04:39:37Z
+  Updated: 2025-12-23T23:48:25Z
   Vendor: Mattews Packaging
   Product Type: Plastic Gloves
   Availability: Available
@@ -536,7 +536,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/tpe-embossed-gloves-powder-free-clear-l-240mm-cuff-20g-2000-gloves-plastic-gloves-essential-supplies-966709.jpg?v=1719445922
   Price: $74.00 NZD
 - [TPE Embossed Gloves Powder Free - Clear, M, 240mm Cuff, 2.0g - 2000 Gloves](https://essentialsupplies.co.nz/products/tpe-embossed-gloves-powder-free-clear-m-240mm-cuff-2-0g-2000): Clear TPE powder free gloves are made using a polyethylene based synthetic non-sterile polymer providing more stretch compared to vinyl and polyethylene gloves.Robust with a natural feel, allergy free, with a long shelf life and micro embossed for grip. Superior performance and feel 240mm cuff 2.0g Colour: Clear Size: Medium Pack:10 packs x 200's Note:*Other sizes available: Small, Large, Extra Large
-  Updated: 2025-01-08T23:00:00Z
+  Updated: 2025-12-24T10:51:29Z
   Vendor: Mattews Packaging
   Product Type: Plastic Gloves
   Availability: Available
@@ -1285,7 +1285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-80l-black-800mm-x-1000mm-x-30mu-350-pack-rubbish-bin-liners-essential-supplies-205259.jpg?v=1719445083
   Price: $110.00 NZD
 - [DB Recycled Bin Liner 80L - Black, 800mm x 1000mm x 35mu - 100 Pack - *Dispenser Box](https://essentialsupplies.co.nz/products/db-recycled-bin-liner-80l-black-800mm-x-1000mm-x-35mu-100-dispenser-box): Gusseted for effective waste collectionRecycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural resources. Tough, strong recycled bags Colour: Black Size: 80 Litres 800mm x 1000mm x 35mu Pack of: 100
-  Updated: 2025-01-10T19:23:57Z
+  Updated: 2025-12-25T02:21:23Z
   Vendor: Mattews Packaging
   Product Type: Dispenser Box Bin Liners
   Availability: Available
@@ -1691,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/virgin-jumbo-toilet-tissue-boxed-white-3-ply-200m-fsc-mix-8-rolls-jumbo-toilet-tissue-essential-supplies-395153.jpg?v=1719445925
   Price: $67.00 NZD
 - [Manual Roll Feed Dispenser - White, 1 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/manual-roll-feed-dispenser-white-1-roll-capacity-1): Manual roll feed dispenser with one pull automatic paper towel dispensing action.Designed for superior hygiene and waste minimisation with no cross contamination between individual towels. Compatible with most roll feed paper towels. Designed for superior hygiene and waste minimisation Compatible with most roll feed paper towels Colour: White
-  Updated: 2025-01-10T00:01:48Z
+  Updated: 2025-12-20T08:32:14Z
   Vendor: Mattews Packaging
   Product Type: Roll Towel Dispensers
   Availability: Available
@@ -2181,7 +2181,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/premium-cloth-tape-black-96mm-x-30m-x-250mu-12-rolls-cloth-tape-essential-supplies-599336.jpg?v=1719445675
   Price: $173.00 NZD
 - [Premium Cloth Tape - Blue, 48mm x 30m x 250mu - 36 Rolls](https://essentialsupplies.co.nz/products/premium-cloth-tape-blue-48mm-x-30m-x-250mu-36): Premium cloth tape with a quality grade rayon cloth waterproof backing and high tack rubber adhesive.A proven superior strength performer suitable for use on almost all surfaces, from book binding to industrial applications. Colour: Blue Size: 48mm x 30mt 250mu Content: 36 Rolls
-  Updated: 2025-02-14T07:41:20Z
+  Updated: 2025-12-25T06:43:46Z
   Vendor: Mattews Packaging
   Product Type: Cloth Tape
   Availability: Available
@@ -2496,7 +2496,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/message-tape-priority-whitered-48mm-x-100mm-x-50mu-printed-message-tape-essential-supplies-529256.jpg?v=1719445333
   Price: $6.00 NZD
 - [Message Tape Repacked Carton - Yellow/Red, 48mm x 100m x 50mu](https://essentialsupplies.co.nz/products/message-tape-repacked-carton-yellow-red-48mm-x-100m-x-50mu-36): Printed message tape made from high quality polypropylene with a acrylic adhesive and bold print.Dual purpose packaging to keep items safe and protected while communicating your message clearly. Typical Applications: Parcels and Packaging - seal, bundle, wrap, inform, promote or advise with one easy label Polypropylene 50mu Printed: REPACKED CARTON Label size: 48mm x 100mt
-  Updated: 2025-01-09T22:23:11Z
+  Updated: 2025-12-25T06:33:56Z
   Vendor: Mattews Packaging
   Product Type: Printed Message Tape
   Availability: Available
@@ -2566,7 +2566,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/recycled-jumbo-toilet-tissue-boxed-white-2-ply-300m-fsc-recycled-8-rolls-jumbo-toilet-tissue-essential-supplies-834032.jpg?v=1719445674
   Price: $76.00 NZD
 - [Recycled Jumbo Toilet Tissue Pack - White, 2 Ply, 300m, FSC Recycled® - 8 Rolls](https://essentialsupplies.co.nz/products/recycled-jumbo-toilet-tissue-pack-white-2-ply-300m-fsc-recycled®-8): Recycled jumbo toilet tissue is a great, environmentally friendly, economical choice for your toilet paper needs.Made from 100% FSC certified recycled tissue, the absorbent tissue is a great option for high traffic bathrooms. It contains no dyes, inks or chlorine and is sold in a sleeve of 8 rolls of non perforated toilet tissue. Environmentally friendly economical choice FSC certified recycled tissue They contain no dyes, inks or chlorineIndividually wrapped rolls Non perforated Ply: 2Roll Length: 300 metres Rolls per outer: 8 Colour: White
-  Updated: 2025-01-10T00:00:02Z
+  Updated: 2025-12-25T00:48:00Z
   Vendor: Mattews Packaging
   Product Type: Jumbo Toilet Tissue
   Availability: Available
@@ -2755,7 +2755,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/regular-slimfold-dispenser-black-450-sheet-capacity-1-dispenser-folded-towel-dispensers-essential-supplies-954078.jpg?v=1719445681
   Price: $78.00 NZD
 - [Regular Slimfold Dispenser - Silver, 450 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/regular-slimfold-dispenser-silver-450-sheet-capacity-1): Regular slimfold paper towel dispensers are designed for use with the complete slimfold paper towel range. Reduces contamination and with a 450 sheet capacity. Minimises refilling frequency. High gloss, easy clean finish featuring a viewing window to check towel levels. High gloss Easy clean finish 450 sheets capacity Colour: Silver Suitable tissues: MPH27090, MPH27095, MPH27100, MPH27105, MPH27110, MPH27120, MPH27162
-  Updated: 2025-01-09T02:21:18Z
+  Updated: 2025-12-25T09:40:50Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
@@ -3063,7 +3063,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-compostable-bin-liner-60l-white-650mm-x-900mm-x-30mu-450-pack-compostable-bin-liners-essential-supplies-805130.jpg?v=1719445091
   Price: $278.00 NZD
 - [Manual Dishwashing Liquid - Yellow, 5L Refill Bottle](https://essentialsupplies.co.nz/products/manual-dishwashing-liquid-yellow-5l-refill-bottle-2): This dishwashing liquid is a powerful, biodegradable, general purpose detergent.Suitable for a wide range of domestic and commercial applications, including dishwashing, and surface, window and vehicle cleaning. Cuts through grease and oil with long-lasting bubbles and quick streak-free drying. Cuts through grease and oil Powerful, biodegradable, general purpose detergent Suitable for a wide range of domestic and commercial applications Cuts through grease and oil Content: 2 x 5 Litres
-  Updated: 2025-02-14T18:36:35Z
+  Updated: 2025-12-20T10:46:56Z
   Vendor: Mattews Packaging
   Product Type: Kitchen Care
   Availability: Available
@@ -3217,7 +3217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/toilet-bowl-cleaner-blue-5l-refill-bottle-washroom-care-essential-supplies-539145.jpg?v=1719445910
   Price: $100.00 NZD
 - [Coloured Towelling Rags - Assorted, 10.0kg Compressed Bag - 1 Bag - *A Grade Quality](https://essentialsupplies.co.nz/products/coloured-towelling-rags-assorted-10-0kg-compressed-bag-1-a-grade-quality): Towelling rags are ideal for a variety of cleaning tasks.These rags are soft and absorbent, ideal for all purpose and heavy duty cleaning. Excellent for use in workshops, warehouses and a variety of manufacturing and maintenance teams. Premium absorbency & spill containment Assorted colors Pack: 10kg
-  Updated: 2025-01-09T07:45:53Z
+  Updated: 2025-12-21T11:09:00Z
   Vendor: Mattews Packaging
   Product Type: Rags
   Availability: Available
@@ -4790,7 +4790,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/window-bucket-yellow-12l-capacity-buckets-essential-supplies-630952.jpg?v=1719445923
   Price: $21.00 NZD
 - [Metal Wringer Bucket - Blue, 16L Capacity](https://essentialsupplies.co.nz/products/metal-wringer-bucket-blue-16l-capacity-2): Metal wringer buckets with a double sided non slip foot pedal and durable anti-corrosive mechanism. Soft under pedal pads provide good grip and stability. With a sturdy construction and precautionary signage feature. Available in a range of colours with a large 16L bucket capacity.
-  Updated: 2025-01-26T22:30:35Z
+  Updated: 2025-12-20T09:54:32Z
   Vendor: Mattews Packaging
   Product Type: Buckets
   Availability: Available
@@ -5056,7 +5056,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/stainless-steel-scourer-silver-50g-scourer-weight-60-scourers-individually-wrapped-stainless-scourers-essential-supplies-688533.jpg?v=1719445786
   Price: $193.00 NZD
 - [Stainless Steel Scourer - Silver, 70g Scourer Weight - 60 Scourers - *Individually Wrapped](https://essentialsupplies.co.nz/products/stainless-steel-scourer-silver-70g-scourer-weight-60-individually-wrapped): Stainless steel scourers are made from high quality stainless steel that won’t rust. Unique large size makes it easy to grip to give a more effective clean. Great for use in all kitchen or factory environments.
-  Updated: 2025-01-09T13:07:43Z
+  Updated: 2025-12-25T23:25:26Z
   Vendor: Mattews Packaging
   Product Type: Stainless Scourers
   Availability: Available
@@ -5084,7 +5084,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/regular-scouring-pads-red-150mm-x-200mm-x-8mm-80-pads-medium-duty-scourers-essential-supplies-561005.jpg?v=1719445679
   Price: $46.00 NZD
 - [Regular Scouring Pads - Green, 150mm x 200mm x 8mm - 80 Pads - *Heavy Duty](https://essentialsupplies.co.nz/products/regular-scouring-pads-green-150mm-x-200mm-x-8mm-80-heavy-duty): Scouring pads are hard wearing and effective for scrubbing all surfaces. Made from 50% Terylene and 50% Nylon with a superior coating to reduce grit fall-out. Tested to perform against a wide range of oil and chemical spills. Available in green, red, blue, black or white.
-  Updated: 2025-01-09T23:26:52Z
+  Updated: 2025-12-24T00:33:59Z
   Vendor: Mattews Packaging
   Product Type: Scourers
   Availability: Available
@@ -5651,7 +5651,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/latex-diamond-grip-examination-gloves-powder-free-white-l-240mm-cuff-80g-1000-gloves-latex-examination-gloves-essential-supplies-303665.jpg?v=1719445569
   Price: $109.00 NZD
 - [Latex Diamond Grip Examination Gloves Powder Free - White, XL, 240mm Cuff, 8.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/latex-diamond-grip-examination-gloves-powder-free-white-xl-240mm-cuff-8-0g-1000)
-  Updated: 2025-01-18T23:54:37Z
+  Updated: 2025-12-20T01:58:25Z
   Vendor: Mattews Packaging
   Product Type: Latex Examination Gloves
   Availability: Available
@@ -5994,7 +5994,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pu-smooth-cut-resistant-gloves-greyblack-m-15-gauge-120-pairs-rating-4543c-cut-resistant-work-gloves-essential-supplies-298512.jpg?v=1719445698
   Price: $1,200.00 NZD
 - [PU Smooth Cut Resistant Gloves - Grey/Black, L, 15 Gauge - 120 Pairs  - *Rating - 4543C](https://essentialsupplies.co.nz/products/pu-smooth-cut-resistant-gloves-grey-black-l-15-gauge-12-rating-4543c): Blade PU cut 5 open back gloves with a polyurethane coating for premium long lasting durability. Long cuff for added wrist protection and open back for breathability and comfort. Designed for meat processing and food preparation industries.
-  Updated: 2025-01-25T12:41:37Z
+  Updated: 2025-12-20T06:21:34Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Work Gloves
   Availability: Available
@@ -6127,14 +6127,14 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-white-xl-13-gauge-120-gloves-rating-en388-3x4xf-cut-resistant-food-gloves-essential-supplies-249733.jpg?v=1719445691
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - White, 2XL, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-white-2xl-13-gauge-12-rating-en388-3x4xf): White cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-02-09T05:52:17Z
+  Updated: 2025-12-21T04:26:01Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-white-2xl-13-gauge-120-gloves-rating-en388-3x4xf-cut-resistant-food-gloves-essential-supplies-337749.jpg?v=1719445688
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - White, 3XL, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-white-3xl-13-gauge-12-rating-en388-3x4xf): White cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-01-29T22:29:53Z
+  Updated: 2025-12-25T05:07:18Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
@@ -6169,7 +6169,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-blue-xl-13-gauge-120-gloves-rating-en388-3x4xf-cut-resistant-food-gloves-essential-supplies-150336.jpg?v=1719445674
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - Blue, 2XL, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-blue-2xl-13-gauge-12-rating-en388-3x4xf): Blue cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-02-14T09:29:16Z
+  Updated: 2025-12-20T07:53:43Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
@@ -6638,7 +6638,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/industrial-pvc-gumboots-blue-size-14-steel-toe-cap-steel-midsole-gumboots-essential-supplies-349636.jpg?v=1719445170
   Price: $58.00 NZD
 - [Industrial PVC Gumboots - Blue, Size 15 - *Steel Toe Cap + Steel Midsole](https://essentialsupplies.co.nz/products/industrial-pvc-gumboots-blue-size-15-4-steel-toe-cap-steel-midsole)
-  Updated: 2025-01-08T18:47:18Z
+  Updated: 2025-12-24T02:02:41Z
   Vendor: Mattews Packaging
   Product Type: Gumboots
   Availability: Available
@@ -7042,7 +7042,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/handling-label-heavy-orangeblack-99mm-x-99mm-500-labels-shipping-labels-essential-supplies-458695.jpg?v=1719445184
   Price: $35.00 NZD
 - [Handling Label Urgent - Orange/Black, 99mm x 99mm - 500 Labels](https://essentialsupplies.co.nz/products/handling-label-urgent-orange-black-99mm-x-99mm-500): Handling label rolls made from high quality paper with a permanent adhesive and bold print. Designed to protect valuable and fragile items during transportation and shipping. Available in a wide range of text and colour variants in a square 100mm x 100mm size.
-  Updated: 2025-01-25T01:00:14Z
+  Updated: 2025-12-20T11:27:53Z
   Vendor: Mattews Packaging
   Product Type: Shipping Labels
   Availability: Available
@@ -7077,7 +7077,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/handling-label-hold-whitered-99mm-x-99mm-500-labels-shipping-labels-essential-supplies-103769.jpg?v=1719445189
   Price: $35.00 NZD
 - [DG Label Flammable Gas 2.1 - Red/White, 99mm x 99mm - 500 Labels](https://essentialsupplies.co.nz/products/dg-label-flammable-gas-2-1-red-white-99mm-x-99mm-500)
-  Updated: 2025-02-17T16:50:52Z
+  Updated: 2025-12-25T23:30:43Z
   Vendor: Mattews Packaging
   Product Type: Dangerous Goods Labels
   Availability: Available
@@ -7119,7 +7119,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dg-label-organic-peroxide-52-yellowblack-99mm-x-99mm-500-labels-dangerous-goods-labels-essential-supplies-660492.jpg?v=1719444962
   Price: $35.00 NZD
 - [DG Label Toxic 6.1 - White/Black, 99mm x 99mm - 500 Labels](https://essentialsupplies.co.nz/products/dg-label-toxic-6-1-white-black-99mm-x-99mm-500)
-  Updated: 2024-11-21T23:45:56Z
+  Updated: 2025-12-24T09:40:59Z
   Vendor: Mattews Packaging
   Product Type: Dangerous Goods Labels
   Availability: Available
@@ -7392,7 +7392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/air-bubble-roll-clear-650mm-x-100m-x-10mm-2-rolls-air-bubble-rolls-essential-supplies-617670.jpg?v=1719444761
   Price: $115.00 NZD
 - [Air Bubble Roll - Clear, 870mm x 100m x 10mm - 1 Roll](https://essentialsupplies.co.nz/products/air-bubble-roll-clear-870mm-x-100m-x-10mm-1): Air bubble rolls made from low density polyethylene to protect fragile items during packing, mailing and moving. Small bubbles of sealed air provide cost efficient light weight protection to reduce mailing and freight costs. Available in a cost-efficient 100m roll length in a range of widths for all uses.
-  Updated: 2025-01-10T21:11:48Z
+  Updated: 2025-12-21T12:14:03Z
   Vendor: Mattews Packaging
   Product Type: Air Bubble Rolls
   Availability: Available
