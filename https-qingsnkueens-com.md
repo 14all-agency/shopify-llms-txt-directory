@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-12-19T00:00:46.328Z
+- Updated At: 2025-12-26T00:00:45.766Z
 
 ## Products
 
@@ -629,7 +629,7 @@
     Availability: Available
     Price: $36.00 USD
 - [NOIR MINI DRESS - BLACK/WHITE](https://qingsnkueens.com/products/noir-mini-dress-black-white): This romantic yet modern design is at the top of our wishlist. Stand out in the Noir Bloom, crafted with a contrasting Bardot neckline that highlights your shoulders and finished with a delicate bow detail at the back. Its playful mini length and rounded, bubble skirt complete this unforgettable look. •Colour: Black/White •Material: Premium non-stretch crepe •Lining: Fully lined •Neckline: Contrast Bardot •Back Detail: Bow accent •Skirt Style: Rounded, bubble shape •Closure: Invisible zipper fastening •Length: Mini
-  Updated: 2025-12-16T17:44:11Z
+  Updated: 2025-12-20T07:01:35Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5577,7 +5577,37 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_5544cc1e-cac6-4e80-a001-7e2c0835579d.jpg?v=1765651696
     Price: $35.00 USD
-[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjYzMDM1ODA1ODYzLCJsYXN0X3ZhbHVlIjoiODY2MzAzNTgwNTg2MyJ9)
+- [Polka Texture Flocked Jacket | Women’s Premium Athleisure Zip Jacket](https://qingsnkueens.com/products/polka-texture-flocked-jacket): Polka Texture Flocked Jacket for women with ultra-soft stretch fabric, sculpted slim fit, and luxury polka design ideal for gym, casual, and travel.
+  Updated: 2025-12-21T00:54:35Z
+  Vendor: Qings & Kueens
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+  - [XS](https://qingsnkueens.com/products/polka-texture-flocked-jacket?variant=47478248046759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+    Price: $72.00 USD
+  - [S](https://qingsnkueens.com/products/polka-texture-flocked-jacket?variant=47478248079527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+    Price: $72.00 USD
+  - [M](https://qingsnkueens.com/products/polka-texture-flocked-jacket?variant=47478248112295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+    Price: $72.00 USD
+  - [L](https://qingsnkueens.com/products/polka-texture-flocked-jacket?variant=47478248145063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+    Price: $72.00 USD
+  - [XL](https://qingsnkueens.com/products/polka-texture-flocked-jacket?variant=47478248177831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+    Price: $72.00 USD
+  - [XXL](https://qingsnkueens.com/products/polka-texture-flocked-jacket?variant=47478248210599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/LW3KDMS_072615_1.webp?v=1766234524
+    Price: $72.00 USD
+[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjY4Nzg2ODg0Nzc1LCJsYXN0X3ZhbHVlIjoiODY2ODc4Njg4NDc3NSJ9)
 
 ## Collections
 
@@ -5633,7 +5663,7 @@
   Updated: 2025-12-06T11:50:01Z
   Total Products: 3
 - [totes](https://qingsnkueens.com/collections/totes)
-  Updated: 2025-12-06T09:20:08Z
+  Updated: 2025-12-25T12:17:38Z
   Total Products: 2
 - [Clutch Bags](https://qingsnkueens.com/collections/clutch-bags)
   Updated: 2025-12-06T09:20:08Z
@@ -5675,8 +5705,8 @@
   Updated: 2025-12-06T09:20:09Z
   Total Products: 2
 - [Jackets](https://qingsnkueens.com/collections/jackets)
-  Updated: 2025-12-06T09:20:09Z
-  Total Products: 3
+  Updated: 2025-12-20T12:47:26Z
+  Total Products: 4
 - [Belts men](https://qingsnkueens.com/collections/belts)
   Updated: 2025-12-06T09:20:09Z
   Total Products: 0
@@ -5933,6 +5963,8 @@
   Updated: 2025-12-12T22:15:37Z
 - [Supreme Signature Hoodie](https://qingsnkueens.com/pages/supreme-signature-hoodie)
   Updated: 2025-12-16T10:30:45Z
+- [Polka Texture Flocked Jacket](https://qingsnkueens.com/pages/polka-texture-flocked-jacket)
+  Updated: 2025-12-20T13:54:49Z
 
 ## Policies
 
