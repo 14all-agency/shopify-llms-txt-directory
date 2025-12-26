@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-12-25T00:00:39.232Z
+- Updated At: 2025-12-26T00:00:39.148Z
 
 ## Products
 
@@ -525,7 +525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/unisex-midweight-hoodie-bone-front-67179f113ad61.jpg?v=1729601311
     Price: £62.00 GBP
 - [Verbier - Verbier Eco Clothing - Ethical womens tri-blend t-shirt](https://www.tailormadetrekking.com/products/verbier-verbier-eco-clothing-ethical-womens-tri-blend-t-shirt): Verbier - Verbier Eco Clothing - Ethical womens tri-blend t-shirt The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • XS dispatched from US, 2XL dispatched from US & UK. All other sizes dispatched from US, UK & EU • Oatmeal tri-blend dispatched from US only • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 27 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 LENGTH (cm) WIDTH (cm) XS 68.6 42 S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66
-  Updated: 2025-10-02T13:38:02Z
+  Updated: 2025-12-25T05:54:51Z
   Vendor: Georgina Talfana Treks
   Product Type: 
   Availability: Available
