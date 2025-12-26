@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-12-24T00:00:36.623Z
+- Updated At: 2025-12-26T00:00:36.961Z
 
 ## Products
 
@@ -45,35 +45,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-bottle3.jpg?v=1766100794
   Price: $22.00 AUD
-- [Couples Bundle](https://upcreatinegummies.com.au/products/couples-bundle)
-  Updated: 2025-12-17T20:04:31Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-bundles_39c1050d-f29e-4b86-85bb-d5031c00c1e9.jpg?v=1766001765
-  Price: $115.60 AUD
-- [Performance Bundle](https://upcreatinegummies.com.au/products/performance-bundle)
-  Updated: 2025-12-17T20:04:46Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-bundles2_34342981-d677-4ef9-bdf2-2d497a44653a.jpg?v=1766001761
-  Price: $163.20 AUD
-- [Ultimate Athletic Bundle](https://upcreatinegummies.com.au/products/ultimate-athletic-bundle)
-  Updated: 2025-12-17T20:04:58Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/up-creatine-bundles3_bd73eee8-eb6e-49e4-a385-df994cb5fa65.jpg?v=1766001755
-  Price: $204.00 AUD
 
 ## Collections
 
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-12-23T12:27:34Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 4
 - [Get All Up](https://upcreatinegummies.com.au/collections/get-all-up): Power your performance with Up Creatine Gummies. Clean, convenient, and made for movers who want more from every session. With bold Sour Apple, zesty Orange, crisp Lemonade, or smooth Strawberry, each gummy delivers pure creatine monohydrate. No powders, no pills, no hassle. Sugar free, gluten free, vegan friendly, and made without GMOs or artificial colours or flavours, they make daily supplementation simple, delicious, and effective.
-  Updated: 2025-12-23T12:27:34Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 6
 - [Up Bottle](https://upcreatinegummies.com.au/collections/up-bottle)
   Updated: 2025-12-18T23:31:21Z
@@ -82,19 +61,19 @@
   Updated: 2025-12-16T10:09:56Z
   Total Products: 4
 - [All Products](https://upcreatinegummies.com.au/collections/all-products): Power your performance with Up Creatine Gummies—clean, convenient, and made for movers who want more from every session. With bold Sour Apple, zesty Orange, crisp Lemonade, or smooth Strawberry, each gummy delivers pure creatine monohydrate. No powders, no pills, no hassle. Sugar-free, gluten-free, vegan-friendly, and made without GMOs or artificial colours or flavours, they make daily supplementation simple, delicious, and effective.
-  Updated: 2025-12-23T12:27:34Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 10
 - [Pre Work Out Gummies | Up Creatine Gummies](https://upcreatinegummies.com.au/collections/pre-work-out-gummies)
-  Updated: 2025-12-23T12:27:34Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 4
 - [Creapure Pure German Creatine Monohydrate](https://upcreatinegummies.com.au/collections/creapure-german-creatine)
-  Updated: 2025-12-23T12:27:34Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 4
 - [Shop | Buy Creatine Gummies | Up Creatine Gummies](https://upcreatinegummies.com.au/collections/shop)
-  Updated: 2025-12-23T12:27:34Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 5
 - [Build Your Bundle](https://upcreatinegummies.com.au/collections/build-your-bundle)
-  Updated: 2025-12-17T20:05:00Z
+  Updated: 2025-12-25T12:24:07Z
   Total Products: 3
 
 ## Blogs
