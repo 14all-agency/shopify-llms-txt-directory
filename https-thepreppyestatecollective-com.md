@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T19:37:22Z
 - Contact Email: care@thepreppyestatecollective.com
-- Updated At: 2025-12-25T00:00:30.911Z
+- Updated At: 2025-12-26T00:00:31.056Z
 
 ## Products
 
@@ -3275,11 +3275,11 @@
   Updated: 2025-12-22T12:32:05Z
   Total Products: 0
 - [Wrapping Paper & Gift Tags](https://thepreppyestatecollective.com/collections/gift-wrap-tags): Luxury preppy Wrapping Paper & Gift Tags  with nutcrackers, skiers, bows, and florals. Printable tags for Christmas, birthdays, and special occasions.
-  Updated: 2025-12-24T16:41:43Z
-  Total Products: 136
+  Updated: 2025-12-25T16:30:08Z
+  Total Products: 137
 - [Shop All Preppy Gifts & Home Décor](https://thepreppyestatecollective.com/collections/shop-all): Browse all preppy gift wrap, garden flags, desk accessories, pillows, platters, and personalized home décor from The Preppy Estate in one place.
-  Updated: 2025-12-24T16:41:43Z
-  Total Products: 418
+  Updated: 2025-12-25T16:30:08Z
+  Total Products: 419
 - [Garden & Porch Flags](https://thepreppyestatecollective.com/collections/garden-porch-flags): Garden & Porch Flags: Custom house number and seasonal garden flags for your front porch. Florals, coastal patterns, and preppy designs made to order.
   Updated: 2025-12-22T12:28:22Z
   Total Products: 104
@@ -3320,8 +3320,8 @@
   Updated: 2025-12-22T12:41:58Z
   Total Products: 8
 - [Valentines Day Gifts, Decor, & Gift Wrap](https://thepreppyestatecollective.com/collections/valentines-day-gifts-decor-gift-wrap): Preppy Valentines Day Gifts, Decor, & Gift Wrap for her, him, and kids. Heart-themed patterns, soft florals, and custom monograms made to order.
-  Updated: 2025-12-24T16:41:41Z
-  Total Products: 21
+  Updated: 2025-12-25T16:30:08Z
+  Total Products: 22
 - [Personalized Spring Décor & Gifts](https://thepreppyestatecollective.com/collections/personalized-spring-decor-gifts): Brighten your home with Personalized Spring Décor & Gifts that capture the fresh spirit of the season. Perfect for Easter, showers, and spring gifting.
   Updated: 2025-12-24T16:41:43Z
   Total Products: 54
