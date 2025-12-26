@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-12-21T00:00:39.841Z
+- Updated At: 2025-12-26T00:00:40.654Z
 
 ## Products
 
@@ -441,7 +441,7 @@
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4465_transformation_13566.png?v=1762186317
   Price: $64.99 CAD
 - [Eternal Love Knot Necklace with Luxury Gift Box | Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-swarav-creations-luxury-gift-box): Eternal Love Knot Necklace with a luxury gift box by Swarav Creations. A meaningful, elegant jewelry gift symbolizing everlasting love.
-  Updated: 2025-12-17T04:06:37Z
+  Updated: 2025-12-22T14:50:48Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -714,14 +714,14 @@
     Availability: Available
     Price: $84.99 CAD
 - [Forever Love Necklace & Earring Set | 14K White Gold Gift](https://swaravcreations.com/products/forever-love-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): A timeless Forever Love necklace and earring set in 14K white gold, beautifully packaged in a luxury gift box—perfect for anniversaries and special moments.
-  Updated: 2025-12-17T22:11:06Z
+  Updated: 2025-12-22T02:46:26Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4525_transformation_13949.png?v=1765026589
   Price: $90.00 CAD
 - [Love Knot Necklace & Earring Set – 14K White Gold Gift | Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set-14k-white-gold): A timeless Love Knot jewelry gift in 14K white gold with luxury box — perfect for anniversaries, birthdays & meaningful surprises.
-  Updated: 2025-12-20T23:05:14Z
+  Updated: 2025-12-22T14:42:04Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -733,29 +733,29 @@
 - [Meaningful Jewelry Gifts Canada | Swarav Creations](https://swaravcreations.com/collections/meaningful-jewelry-gifts-canada): Explore meaningful jewelry gifts from Swarav Creations, handcrafted in 14K white gold and 18K yellow gold. Perfect for every occasion — elegant, gift-ready, and shipped fast across Canada. Discover !
   Updated: 2025-12-20T22:37:29Z
   Total Products: 9
-- [New Arrivals - Discover the Latest Styles and Trends Today!](https://swaravcreations.com/collections/new-arrivals): New Arrivals Collection  - Discover our exclusive New Arrivals Collection featuring the latest trends and must-have items. Elevate your style with fresh pieces designed for every occasion. Shop now!
-  Updated: 2025-12-20T22:37:29Z
+- [New Arrivals – Meaningful Gold Jewelry | Swarav Creations](https://swaravcreations.com/collections/new-arrivals): Explore new arrivals in meaningful gold jewelry by Swarav Creations. Discover the latest necklaces and gift-ready designs in 14K & 18K gold.
+  Updated: 2025-12-21T19:26:04Z
   Total Products: 28
-- [Best Sellers](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations Best Sellers—top-rated necklaces in 14k white or 18k yellow gold finishes, brilliant CZ stones, gift-ready packaging, and fast, tracked shipping.
-  Updated: 2025-12-20T03:43:00Z
+- [Best Seller Gold Necklaces | Swarav Creations](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations’ best seller gold necklaces—top-rated designs in 14K & 18K gold, gift-ready packaging, and customer-loved styles.
+  Updated: 2025-12-21T19:31:21Z
   Total Products: 22
-- [Gifts Under $60](https://swaravcreations.com/collections/gifts-under-60)
-  Updated: 2025-12-14T05:05:30Z
+- [Affordable Jewelry Gifts Under $60 | Swarav Creations](https://swaravcreations.com/collections/gifts-under-60): Shop affordable jewelry gifts under $60 from Swarav Creations. Beautiful gold-finish necklaces perfect for everyday gifting.
+  Updated: 2025-12-21T19:34:40Z
   Total Products: 11
-- [Gifts $60–$100](https://swaravcreations.com/collections/gifts-60-100)
-  Updated: 2025-12-20T03:43:00Z
+- [Gold Jewelry Gifts $60–$100 | Swarav Creations](https://swaravcreations.com/collections/gifts-60-100): Shop meaningful gold jewelry gifts priced $60–$100. Discover elegant necklaces and gift-ready designs in 14K & 18K gold by Swarav Creations.
+  Updated: 2025-12-21T19:28:36Z
   Total Products: 22
-- [Gifts Over $100](https://swaravcreations.com/collections/gifts-over-100)
-  Updated: 2025-12-20T22:37:29Z
+- [Luxury Gold Jewelry Gifts Over $100 | Swarav Creations](https://swaravcreations.com/collections/gifts-over-100): Shop luxury gold jewelry gifts over $100, crafted for anniversaries, milestones, and special moments. Gift-ready designs in 14K & 18K gold by Swarav Creations.
+  Updated: 2025-12-21T19:22:47Z
   Total Products: 2
-- [Necklaces – Elegant & Meaningful Jewelry by Swarav Creations - Swarav Creations](https://swaravcreations.com/collections/necklaces-elegant-meaningful-jewelry-by-swarav-creations): Discover exquisite necklaces from Swarav Creations — where every piece is crafted with love, meaning, and timeless beauty. From sparkling pendants to personalized gifts, our necklace collection features elegant designs that make every moment special. Whether you’re celebrating love, friendship, or milestones, you’ll find the perfect necklace to express your heart. Handcrafted from premium materials and available in stunning finishes, these necklaces are ideal for birthdays, anniversaries, Valentine’s Day, and more. ✨ Designed with Heart. Crafted to Sparkle. - Swarav Creations
-  Updated: 2025-12-20T03:43:00Z
+- [Meaningful Gold Necklaces | Gift-Ready Jewelry by Swarav Creations](https://swaravcreations.com/collections/necklaces-elegant-meaningful-jewelry-by-swarav-creations): Discover meaningful gold necklaces crafted for love, anniversaries, and special moments. Elegant, gift-ready jewelry in 14K & 18K gold by Swarav Creations.
+  Updated: 2025-12-21T19:07:27Z
   Total Products: 22
-- [Necklace & Earring - Swarav Creations](https://swaravcreations.com/collections/necklace-earring): - Swarav Creations
-  Updated: 2025-12-20T22:37:29Z
+- [Meaningful Gold Necklaces & Jewelry Sets | Swarav Creations](https://swaravcreations.com/collections/necklace-earring): Shop meaningful gold necklaces and elegant jewelry sets crafted for love, anniversaries, and special moments. Gift-ready designs in 14K & 18K gold by Swarav Creations.
+  Updated: 2025-12-21T19:18:30Z
   Total Products: 26
-- [Earring - Swarav Creations](https://swaravcreations.com/collections/earring): - Swarav Creations
-  Updated: 2025-12-20T22:37:29Z
+- [Meaningful Gold Earrings | Gift-Ready Jewelry by Swarav Creations](https://swaravcreations.com/collections/earring): Explore meaningful gold earrings crafted for love, anniversaries, and special moments. Elegant, gift-ready jewelry in 14K & 18K gold by Swarav Creations.
+  Updated: 2025-12-21T19:10:59Z
   Total Products: 4
 
 ## Blogs
@@ -837,6 +837,18 @@
     Updated: 2025-12-18T00:33:43Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, gift for her, gift ideas, gifts, jewelry, love knot necklace, meaningful gifts, meaningful jewelry for her, mom jewelry, mom jewelry gift, personalized gift, personalized jewelry gifts, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, sentimental jewelry for mothers, thoughtful, timeless necklace
+  - [Exploring the Deeper Meaning Behind Baby Feet Necklace Trends](https://swaravcreations.com/blogs/news/exploring-the-deeper-meaning-behind-baby-feet-necklace-trends): Exploring the Deeper Meaning Behind Baby Feet Necklace Trends
+    Updated: 2025-12-21T00:13:30Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet, baby feet necklace, custom baby jewelry, fashion accessories, gift for her, jewelry, love knot necklace, meaning behind baby feet necklaces, meaningful jewelry for her, mom jewelry gift, necklaces, personalized gift, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, timeless necklace, trends
+  - [The Rise of Personalized and Sentimental Jewelry in Modern Gifting](https://swaravcreations.com/blogs/news/the-rise-of-personalized-and-sentimental-jewelry-in-modern-gifting): The Rise of Personalized and Sentimental Jewelry in Modern Gifting
+    Updated: 2025-12-22T04:02:44Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet necklace, custom necklaces, gift for her, gifting, jewelry, love knot necklace, meaningful jewelry, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized jewelry, personalized keepsake jewelry, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental gifts, sentimental jewelry, timeless necklace, unique gift ideas
+  - [The Ultimate Guide to Romantic Gift Jewelry for Her](https://swaravcreations.com/blogs/news/the-ultimate-guide-to-romantic-gift-jewelry-for-her): The Ultimate Guide to Romantic Gift Jewelry for Her
+    Updated: 2025-12-25T00:30:43Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet necklace, best jewelry for romantic occasions, gift for her, gift ideas, gifts, jewelry, love knot necklace, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized jewelry, romance, romantic gift for wife, romantic gift jewelry, romantic gifts, romantic jewelry gift, sentimental jewelry, timeless necklace, unique gift jewelry for her
 
 ## Store Pages
 
@@ -848,8 +860,8 @@
   Updated: 2025-09-14T19:34:01Z
 - [HTML Sitemap](https://swaravcreations.com/pages/html-sitemap): Products Eternal Love Knot Necklace - Swarav Creations Forever Love Necklace - Elegant Jewelry by Swarav Creations Alluring Beauty Necklace | Swara...
   Updated: 2025-10-07T00:35:19Z
-- [About Swarav Creations](https://swaravcreations.com/pages/about-swarav-creations): Our Story Swarav Creations is a Canadian online jewelry brand. We specialize in meaningful gift jewelry with 14K white gold and 18K yellow gold fin...
-  Updated: 2025-12-20T01:42:35Z
+- [About Swarav Creations](https://swaravcreations.com/pages/about-swarav-creations): Our Story Swarav Creations is a Canadian online jewelry brand. Meaningful Jewelry for Life’s Special Moments We specialize in meaningful gift jewel...
+  Updated: 2025-12-21T10:39:24Z
 - [FAQ - Swarav Creations](https://swaravcreations.com/pages/faq-swarav-creations): 1. Are Swarav Creations products real gold? Our jewelry features premium gold finishes, including 14K white gold and 18K yellow gold finishes, desi...
   Updated: 2025-12-20T02:38:10Z
 
