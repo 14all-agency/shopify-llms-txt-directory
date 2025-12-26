@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-24T00:00:30.453Z
+- Updated At: 2025-12-26T00:00:29.990Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_f320906b-d8e7-4a70-88d5-d7962c6e1628.jpg?v=1765450576
   Price: $23.99 USD
 - [Jewelry 8mm Glass Charm Bracelet](https://fabufabu.com/products/jewelry-8mm-glass-charm-bracelet): Fabufabu "Less is More” collection, A really cute tiny beaded bracelet, Glass Crystal Shinning Charm Bracelets For Women , Cute Glass Bracelet 8 mm Frosted Clear Beads that Dazzle in the Light, 7.2 Inch Standard Bracelet Stretches for One Size Fits Most. This Rainbow Bracelet Reflects a Spectacular Rainbow of Colors in the Light, Beautifully Designed Beaded Bracalet for Women and Girls Friendship Bracelets Perfect for Wedding, Anniversary, Baptism, Co-worker Leaving, Birthday, Back to School, Bridesmaid, and Christmas Gift Care: Instruction: In order to keep your jewellery in perfect condition, we always advice keeping items out of contact with any chemicals, strong perfume or water.
-  Updated: 2025-12-17T08:04:24Z
+  Updated: 2025-12-25T10:08:21Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
@@ -267,7 +267,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_2.jpg?v=1766395521
   Price: $115.59 USD
 - [Fabufabu 2-piece set of chiffon bow hair clips brown & red color](https://fabufabu.com/products/fabufabu-2-piece-set-of-chiffon-bow-hair-clips-brown-red-color): 【Material】This light bow hair claw clip is made of three materials, the hair clip itself is made of plastic, the bow is made of tulle chiffon fabric, and the spring is made of metal. 【Design】Light chiffon bowknot hair claw is composed of 2 parts, includes a plastic hair claw clip and the big tulle fabric bows on both sides of the hair clip, simple and elegant. 【Size】The tulle bownots measure about 10x8cm / 3.9x3.2in and the plastic clip measures about 8x5x4cm / 3.14x1.97x1.57in, this bow claw clip can work well for thick or thin hair. 【Uses】Helping you easily create elegant looking updos and half up dos to keep your hair back out of face, lightweight bow hair claw won't burden your hair, suitable for most women to wear. 【Occasion】The bow large hair clip is suitable for all occasions, it can help you to fix your hair during daily activities such as bathing, doing housework, working, etc, also can give you an elegant hairstyle when you are on a date or attending a party.
-  Updated: 2025-12-23T06:14:49Z
+  Updated: 2025-12-25T10:08:51Z
   Vendor: fabufabu design store
   Product Type: Hair Clip
   Availability: Available
@@ -309,6 +309,70 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/blue.jpg?v=1766484269
     Price: $36.00 USD
+- [Solitaire Moissanite Heart-to-Heart Ring](https://fabufabu.com/products/solitaire-moissanite-heart-to-heart-ring): Fabufabu's concept of "Less is More”, and the design team created a "heart-to-heart" product line with an attitude of pure love. 【100% Real Moissanite with More Sparkle】-The moissanite engagement ring is made of 100% REAL MOISSANITE, which is as hard and shinny as natural diamond. It is 50 Points 1g Moissanite, Weight: about 1.6g. It is symbolizing "love. Innocence!". It won't tarnish or discolor, while it is more cost-effective than diamond. 【Classic Design & Comfortable Wearing】-This flawless moissanite rings for women is the most classic design and it will never go out of style. The metal of the ring is sterling silver which is multi-polished and meticulously cut to increase the refractive index and ensure that each moissanite radiates dazzling light. 【Ideal Gift】--This round solitaire ring packed with a delicate box as an perfect gift for birthday gift, valentine's day gift, Mother’s day gift, engagement, promise, holiday Christmas, new year bling, costume, wedding, anniversary, gifts for women, gifts for mom, gifts for mother in law, gifts for wife, gifts for aunt, dainty fine delicate gifts for best friend, grandmother, sister, and so on. It also fits for any occasion as daily wearing home and office.
+  Updated: 2025-12-24T22:11:54Z
+  Vendor: fabufabu design store
+  Product Type: Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_baee50b3-f4d6-4a65-a848-e82c1117562d.jpg?v=1766567631
+  - [12](https://fabufabu.com/products/solitaire-moissanite-heart-to-heart-ring?variant=45526641508549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/2_12c96942-e098-4a23-816c-cea7653ad503.jpg?v=1766567631
+    Price: $76.99 USD
+  - [17](https://fabufabu.com/products/solitaire-moissanite-heart-to-heart-ring?variant=45526641541317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/7_3daeb7e7-a179-45df-b5b2-255804da2c86.jpg?v=1766567631
+    Price: $76.99 USD
+- [Automatic Electric Wine Bottle Opener](https://fabufabu.com/products/automatic-electric-wine-bottle-opener): 🍷【Press, Pop, Pour! 】- Opening your favorite wine with our electric wine opener has never been simpler. Our wine opener electric, with its one-touch operation and handy blue indicator light, makes uncorking effortless. Suitable for most wine bottle sizes and cork types, you'll be pouring and toasting in no time. 🔋【Party-Ready Power 】- Keep the wine flowing and the conversation going with our automatic wine bottle opener, designed to handle over 30 bottles on a single charge. From cozy family gatherings to full-blown bashes, we’ve got your uncorking needs covered. 🔌【 Charging Made Simple and Sustainable 】- Our Type-C charging port means you can charge our wine opener electric rechargeable with your regular phone charger. Plus, with the environmentally friendly and safe Nickel-Metal Hydride battery, we're keeping things green and worry-free.*Attention overseas customers: For safety and security reasons, the product does not provide rechargeable lithium batteries. Please purchase 4pcs AA rechargeable lithium batteries before use. ⚙️【All-in-One Design for Compact Storage 】- Featuring a foil cutter ingeniously integrated into the base, our electric wine bottle opener rechargeable makes storage a breeze. Detach it for use, then return it to serve as a stand, preventing loss and saving space. It's the perfect size for any kitchen cabinet, storage rack, or wine bar. 🎁【Cheers to the Perfect Gift 】- Our electric wine opener, boasting a chic stainless-steel body and stylish CD-textured operation button, is the ideal gift for the wine lover in your life. They'll be toasting to your great taste and their upgraded wine experience.
+  Updated: 2025-12-25T10:07:46Z
+  Vendor: fabufabu design store
+  Product Type: wine operner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover.png?v=1766656229
+  Price: $33.35 USD
+- [2pcs Drink Deflector Juice Box with Lid](https://fabufabu.com/products/2pcs-drink-deflector-juice-box-with-lid): Wide Range of Application: Milk box spout pourer is suitable for a wide range of applications, suitable for boxed milk, fruit and vegetable drinks, etc. With Lid: Box drinks spout pourer is compact and portable, easy to store and will not take you too much time. with lid, dustproof, sealed for ness.Multifunctional and wide application, suitable for boxed milk, fruit and vegetable drinks. Ergonomic Design: Box drinks spout pourer adopts ergonomic design, easy to install and convenient to pour drinks.It can be used inserting into the box drinks, easily pouring milk and beverages, with a cover design, clean and hygienic, and easy to keep. 2pcs: A total of 2 packs, sufficient quantity to meet your daily needs, easy to use and stable performance. ABS and PP+PEDF : Box drinks spout pourer is made of ABS and PP, sturdy and , deformation resistant, and can be used for a long time.
+  Updated: 2025-12-25T10:10:00Z
+  Vendor: fabufabu design store
+  Product Type: drink deflector
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_d253c8de-3ca7-468d-b14a-21e8027cb487.jpg?v=1766657089
+  Price: $19.29 USD
+- [2-Pack Chenille Cute Hand Towels with Hanging Loop](https://fabufabu.com/products/2-pack-chenille-cute-hand-towels-with-hanging-loop): ☀【Safety for Daily Use】 kithchen hand towels are made of 100% microfiber chenille crafted, which is soft microfiber, comfortable skin friendly. Suitable size for kithchen towels, toddlers, kids face and hand wash, shower. ☀【A Fun Decor for Kithchen or Bathroom】The microfiber hand towels design with various colors and various animal shapes make the home no longer monotonous.Also it has a super soft touch and rainbow colors, when children notice it, they will must be catched eyes and love to use it as a daily hand towel, so that cultivate them good habits to clean hands. Enjoy a relaxed and happy atmosphere they bring you! ☀【Hanging Loop Kitchen Towels 】hand towels with hanging loop are easy to hang and store.Delicate edged make it durable longlasting. Can be used as kitchen hand towels, bathroom hand towes, and cleaning cloths. ☀【Ultra Absorbent & Quick-Drying】The cute chenille Towels are soft and comfortable, has more than 15 times absorbent than other regular towels. The quick-drying design keeps good breathability and keeps bacteria free.No fading, no dropping, resuable, and usually won't go hard after soak into the water. ☀【Easy to Clean】: Machine washable and hand washable, low temperature drying. Do not bleach or iron.
+  Updated: 2025-12-25T10:19:26Z
+  Vendor: fabufabu design store
+  Product Type: towels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_blue.jpg?v=1766657614
+  - [Blue](https://fabufabu.com/products/2-pack-chenille-cute-hand-towels-with-hanging-loop?variant=45528313430213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_blue.jpg?v=1766657614
+    Price: $19.29 USD
+  - [Gray](https://fabufabu.com/products/2-pack-chenille-cute-hand-towels-with-hanging-loop?variant=45528313462981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_grey.png?v=1766657616
+    Price: $19.29 USD
+  - [White](https://fabufabu.com/products/2-pack-chenille-cute-hand-towels-with-hanging-loop?variant=45528313495749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_white_785de927-52bc-429d-9d68-5e4f51159a8b.jpg?v=1766657613
+    Price: $19.29 USD
+- [Glass Bakeware Measuring Cups](https://fabufabu.com/products/glass-bakeware-measuring-cups): VERSATILE CAPACITY: Fabufabu glass measuring cup is perfect for all your culinary needs, 12oz/350ml, 16oz/500ml, and 32oz/1000ml, 4 Scales (decaliters, OZ, ML and cups). Say goodbye to guesswork and achieve consistent results in your recipes. Precise Design: The measuring cups feature a curved spout for easy pouring and easy-to-grip handles for comfort. These measuring cups can be melted, mixed and reheated. High Quality: These glass measuring cups are made of high quality tempered glass. Lead free, BPA free, safer than plastic and metal, protecting the taste of food. Durable & dishwasher safe: These measuring cups are dishwasher safe, oven safe, microwave safe and refrigerator safe, making it convenient for heating or melting ingredients directly in the cup. Save time and effort with this versatile kitchen essential.
+  Updated: 2025-12-25T10:29:54Z
+  Vendor: fabufabu design store
+  Product Type: Measuring Cups
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/11_692bdc7f-d70c-4b8e-97e8-a3fbad105d4e.jpg?v=1766658198
+  - [350ml](https://fabufabu.com/products/glass-bakeware-measuring-cups?variant=45528315494597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/11_692bdc7f-d70c-4b8e-97e8-a3fbad105d4e.jpg?v=1766658198
+    Price: $26.17 USD
+  - [500ml](https://fabufabu.com/products/glass-bakeware-measuring-cups?variant=45528315527365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/11_692bdc7f-d70c-4b8e-97e8-a3fbad105d4e.jpg?v=1766658198
+    Price: $28.56 USD
+  - [1000ml](https://fabufabu.com/products/glass-bakeware-measuring-cups?variant=45528315560133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/11_692bdc7f-d70c-4b8e-97e8-a3fbad105d4e.jpg?v=1766658198
+    Price: $32.28 USD
 
 ## Collections
 
@@ -331,8 +395,8 @@
   Updated: 2025-12-22T09:30:10Z
   Total Products: 1
 - [Rings](https://fabufabu.com/collections/rings)
-  Updated: 2025-12-17T08:04:21Z
-  Total Products: 0
+  Updated: 2025-12-24T09:14:04Z
+  Total Products: 1
 - [Hairclip](https://fabufabu.com/collections/hairclip)
   Updated: 2025-12-23T06:21:53Z
   Total Products: 3
@@ -343,8 +407,8 @@
   Updated: 2025-12-23T10:09:23Z
   Total Products: 2
 - [Home](https://fabufabu.com/collections/home)
-  Updated: 2025-12-17T08:04:21Z
-  Total Products: 1
+  Updated: 2025-12-25T10:29:11Z
+  Total Products: 5
 - [Man](https://fabufabu.com/collections/man-1)
   Updated: 2025-12-17T08:04:21Z
   Total Products: 1
