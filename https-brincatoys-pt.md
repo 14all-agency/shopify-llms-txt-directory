@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-12-25T00:01:28.068Z
+- Updated At: 2025-12-26T00:01:28.817Z
 
 ## Products
 
@@ -476,13 +476,6 @@ Barbie e enche a mochila com o essencial das caminhadas...
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-malibu-852239722-0194735022397-barbie-1178692762.jpg?v=1752827174
-  Price: 38,50 € EUR
-- [Barbie Pediatra](https://brincatoys.pt/products/barbie-pediatra): Quando as meninas brincam com a Barbie, elas imaginam inúmeras brincadeiras; Se gostas de cuidar de bebés, torna-te pediatra! O conjunto inclui uma mesa de diagnóstico (com visualizador de raios-X e instrumentos médicos) para a boneca Barbie Pediatra examinar os seus pequenos pacientes (com o seu amigo ursinho de peluche). A Barbie Pediatra usa ...
-  Updated: 2025-11-07T03:47:21Z
-  Vendor: Barbie
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-pediatra-851862522-0887961918625-barbie-1178692766.jpg?v=1752827286
   Price: 38,50 € EUR
 - [Barbie Praia](https://brincatoys.pt/products/barbie-praia-2): As bonecas Barbie inspiram as crianças a mergulharem na criação de histórias! A boneca usa um fato de banho que celebra as tendências de hoje com cores vivas e um design arrojado. Esta boneca incentiva histórias reais de diversão ao sol, aventuras com temas aquáticos e muito mais.
   Updated: 2025-12-17T07:22:52Z
@@ -7526,7 +7519,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-dragon-ball-180-pcs-772976222-dragon-ball-1178695149.jpg?v=1752810605
   Price: 10,50 € EUR
 - [Puzzle Enchantimals](https://brincatoys.pt/products/puzzle-enchantimals): Dois Puzzles de 20 peças referente à série Enchantimals com 28 x 20 cm. Estes 2 puzzles são compostos por grandes peças, perfeitamente acabadas para que o manuseamento pelas crianças seja simples e seguro. Dimensão: 31,6 x 21,7 x 4,6 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-11-07T03:48:07Z
+  Updated: 2025-12-25T00:16:35Z
   Vendor: Enchantimals
   Product Type: + 3 anos
   Availability: Available
@@ -10872,7 +10865,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-legends-guardioes-da-galaxia-mantis-brincatoys-90660523-marvel-1178696428.jpg?v=1752892688
   Price: 31,90 € EUR
 - [Marvel Legends Guardiões da Galáxia - Kraglin | Brincatoys](https://brincatoys.pt/products/marvel-legends-guardioes-da-galaxia-kraglin): Esta figura Marvel Legends  inspirada num personagem de Guardiões da Galáxia, Kraglin, mede 15 cm,  aproximadamente, e vem com 2 acessórios. Antigo primeiro oficial de Yondu e saqueador que lutou ao lado dos Vingadores contra Thanos, Kraglin parte com os Guardiões para proteger a galáxia. A figura Marvel Legends  vem com múltiplos pontos de articul
-  Updated: 2025-11-07T03:48:30Z
+  Updated: 2025-12-25T03:30:35Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -11117,7 +11110,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/nerf-super-soaker-wave-spray-90639723-nerf-1178696532.jpg?v=1752894965
   Price: 22,99 € EUR
 - [Guardiões da Galáxia - Nave Galáctica](https://brincatoys.pt/products/guardioes-da-galaxia-nave-galactica): As crianças podem imaginar-se como o Rocket da Marvel tendo aventuras épicas no espaço com os Guardiões da Galáxia! Com uma nave galáctica, um pod espacial removível e uma figura do Rocket da Marvel de 6 cm, as crianças podem explorar o espaço e criar as suas aventuras longe na galáxia. Esta nave inclui 3 projéteis para batalhas explosivas no espaç
-  Updated: 2025-11-07T03:48:32Z
+  Updated: 2025-12-25T01:01:03Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -12955,7 +12948,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-legends-agatha-harkness-868000323-marvel-1178697524.jpg?v=1752911771
   Price: 36,50 € EUR
 - [Marvel Legends - Yelena Belova](https://brincatoys.pt/products/marvel-legends-yelena-belova): Após o Blip, a ex-viúva Yelena retorna a um mundo sem a sua amada irmã Natasha. Agora, Yelena procura vingança contra o homem responsável pela suposta morte de sua irmã: Clint Barton. Traga a emoção e a maravilha do Universo Marvel para sua coleção com bonecos de ação colecionável Marvel Legends, com aproximadamente 15 cm, detalhada para se parecer com a personagem Yelena Belova do Hawkeye da Marvel Studios, apresentando detalhes premium e vários pontos de articulação. Vem com 5 acessórios, incluindo mãos alternativas. Dimensão: 14 x 25,50 x 6 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-11-07T03:48:45Z
+  Updated: 2025-12-25T06:17:01Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -14019,7 +14012,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-baby-alive-dia-de-spa-diversao-e-magia-553564524-5010993933068-baby-alive-1178698257.jpg?v=1752922803
   Price: 33,50 € EUR
 - [Jogo do Bingo Clássico - Entretenimento para Toda a Família](https://brincatoys.pt/products/jogo-do-bingo): Desfrute de horas de diversão familiar com o Jogo do Bingo. Ideal para todas as idades, este conjunto oferece um globo giratório e cartões reutilizáveis.
-  Updated: 2025-12-24T10:39:15Z
+  Updated: 2025-12-25T12:27:06Z
   Vendor: Seleção Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -17185,7 +17178,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-harry-potter-76439-ollivanders-e-capas-de-madam-malkin-667643925-5702017583167-lego-1178701030.jpg?v=1752965060
   Price: 89,99 € EUR
 - [Lego Harry Potter 76435 O Castelo de Hogwarts: O Grande Salão](https://brincatoys.pt/products/lego-harry-potter-o-castelo-de-hogwarts-o-grande-salao): Sinta-se um verdadeiro bruxo com o Lego Harry Potter 76435 O Castelo de Hogwarts: O Grande Salão. Monte e explore o icônico castelo em detalhes incríveis!
-  Updated: 2025-11-07T03:49:13Z
+  Updated: 2025-12-25T21:56:11Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
@@ -18060,7 +18053,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-12-23T10:12:56Z
+  Updated: 2025-12-25T12:07:42Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -18193,7 +18186,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76307-robo-do-iron-man-contra-ultron-acao-667630725-5702017817804-lego-1178701777.png?v=1752976935
   Price: 17,50 € EUR
 - [LEGO Marvel 76309 Spider-Man contra Muscle Car do Venom](https://brincatoys.pt/products/lego-marvel-spider-man-contra-muscle-car-do-venom): Prepare-se para uma batalha épica com o LEGO Marvel 76309 Spider-Man contra Muscle Car do Venom! Inclui três minifiguras e aventura eletrizante.
-  Updated: 2025-11-07T03:49:20Z
+  Updated: 2025-12-25T10:44:02Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -18459,7 +18452,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-shouts-leonardo-acao-e-diversao-233874725-043377833512-tartarugas-ninja-1178701978.jpg?v=1752980170
   Price: 22,99 € EUR
 - [Tartarugas Ninja Shouts - Michelangelo com Som Icônico](https://brincatoys.pt/products/tartarugas-ninja-shouts-michelangelo): Entre no mundo das Tartarugas Ninja com a figura interativa Tartarugas Ninja Shouts - Michelangelo! Puxe o braço e ouça 'Cowabunga!' 🎉
-  Updated: 2025-11-07T03:49:22Z
+  Updated: 2025-12-25T05:36:35Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20449,7 +20442,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-scary-sweet-birthday-draculaura-772598325-0194735259830-monster-high-1195791381.jpg?v=1759398598
   Price: 39,99 € EUR
 - [Monster High Real Drama - Frankie Stein: Glamour e Estilo](https://brincatoys.pt/products/monster-high-real-drama-frankie-stein): Adicione um toque cinematográfico à sua coleção com a Monster High Real Drama - Frankie Stein. Impressione-se com o glamour único e colecione!
-  Updated: 2025-11-26T17:19:32Z
+  Updated: 2025-12-25T13:11:21Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -21781,7 +21774,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mealheiro-hello-kitty-com-som-poupanca-divertida-235463625-5056577754636-brincatoys-1209321658.jpg?v=1764410646
   Price: 22,50 € EUR
 - [Jurassic World Rebirth Mosasaurus](https://brincatoys.pt/products/jurassic-world-rebirth-mosasaurus): Jurassic World Rebirth Mosasaurus traz ação dos filmes para casa. Brinquedo de ação Jurassic World perfeito para crianças 4+ que adoram dinossauros.
-  Updated: 2025-12-24T12:31:00Z
+  Updated: 2025-12-25T06:03:21Z
   Vendor: Jurassic World
   Product Type: + 4 anos
   Availability: Available
@@ -21957,7 +21950,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-19T12:36:50Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 561
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-12-11T12:29:33Z
@@ -21984,7 +21977,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-15T12:38:16Z
   Total Products: 36
 - [Lego Harry Potter - Entre no mundo mágico](https://brincatoys.pt/collections/lego-harry-potter): Entra no mundo mágico de LEGO® Harry Potter™ e deixa-te encantar pela magia criativa e constrói modelos encantadores para expores.
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 20
 - [Lego Hidden Side](https://brincatoys.pt/collections/lego-hidden-side)
   Updated: 2025-12-17T12:38:33Z
@@ -21996,7 +21989,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-19T12:36:50Z
   Total Products: 36
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
-  Updated: 2025-12-22T12:30:13Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 22
 - [Lego Ninjago](https://brincatoys.pt/collections/lego-ninjago): Os conjuntos LEGO® NINJAGO® incluem divertidas representações repletas de ação, com ninjas giratórios, dragões esvoaçantes, poderosos robôs e muito mais. Constrói templos incrivelmente detalhados e veículos fantásticos com infinitas possibilidades de narrativas do bem contra o mal.
   Updated: 2025-12-21T12:28:24Z
@@ -22095,13 +22088,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-20T11:44:39Z
   Total Products: 346
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 1620
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 718
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 340
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-12-16T12:36:52Z
@@ -22116,25 +22109,25 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-24T12:26:43Z
   Total Products: 1273
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-12-24T14:51:58Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 2400
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-12-24T14:51:58Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 2853
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-12-24T14:51:58Z
-  Total Products: 3234
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 3233
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-12-24T14:51:58Z
-  Total Products: 3363
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 3362
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-12-24T16:04:15Z
-  Total Products: 3440
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 3439
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-12-24T16:04:15Z
-  Total Products: 3481
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 3480
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 536
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-12-10T12:28:12Z
@@ -22143,8 +22136,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-21T12:28:24Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
-  Updated: 2025-12-24T12:26:43Z
-  Total Products: 26
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 25
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
   Updated: 2025-12-19T12:36:50Z
   Total Products: 21
@@ -22194,7 +22187,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:22Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-12-23T12:31:32Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 35
 - [Marvel](https://brincatoys.pt/collections/marvel)
   Updated: 2025-12-24T12:26:43Z
@@ -22242,7 +22235,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-23T12:31:32Z
   Total Products: 38
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 448
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-12-18T12:38:27Z
@@ -22323,8 +22316,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:24Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-12-24T16:04:15Z
-  Total Products: 3513
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 3512
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-12-23T12:31:32Z
   Total Products: 303
@@ -22335,10 +22328,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-22T12:30:13Z
   Total Products: 121
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-12-24T12:26:43Z
-  Total Products: 1272
+  Updated: 2025-12-25T21:10:16Z
+  Total Products: 1271
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 516
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-12-24T12:46:52Z
@@ -22350,7 +22343,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-24T13:26:47Z
   Total Products: 80
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-12-24T12:26:43Z
+  Updated: 2025-12-25T12:22:40Z
   Total Products: 218
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-12-22T17:45:57Z
@@ -22359,11 +22352,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-24T16:04:15Z
   Total Products: 81
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-12-24T16:04:15Z
-  Total Products: 3514
+  Updated: 2025-12-25T21:10:17Z
+  Total Products: 3513
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-12-24T16:04:16Z
-  Total Products: 3514
+  Updated: 2025-12-25T21:10:17Z
+  Total Products: 3513
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-12-19T12:36:50Z
   Total Products: 21
@@ -22374,8 +22367,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-04T12:29:06Z
   Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-12-24T16:39:30Z
-  Total Products: 2982
+  Updated: 2025-12-25T21:56:41Z
+  Total Products: 2981
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-12-16T12:36:52Z
   Total Products: 19
@@ -22383,8 +22376,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-24T12:26:43Z
   Total Products: 121
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-12-24T16:39:30Z
-  Total Products: 2982
+  Updated: 2025-12-25T21:56:41Z
+  Total Products: 2981
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-12-22T20:29:31Z
   Total Products: 702
