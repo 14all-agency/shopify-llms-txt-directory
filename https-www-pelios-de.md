@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-20T00:00:37.378Z
+- Updated At: 2025-12-26T00:00:39.154Z
 
 ## Products
 
@@ -412,6 +412,30 @@
     Updated: 2025-12-19T02:52:49Z
     Author: Marek Stein
     Tags: kaminofen mit backfach
+  - [Pelletofen 8 kW: Die besten Tipps für Auswahl, Installation und Wartung](https://www.pelios.de/blogs/news/pelletofen-8-kw-die-besten-tipps-fur-auswahl-installation-und-wartung)
+    Updated: 2025-12-20T02:37:19Z
+    Author: Marek Stein
+    Tags: pelletofen 8 kw
+  - [Kaminofen Bodenplatte Glas: 7 kreative Ideen für stilvolle Installation](https://www.pelios.de/blogs/news/kaminofen-bodenplatte-glas-7-kreative-ideen-fur-stilvolle-installation)
+    Updated: 2025-12-21T02:19:47Z
+    Author: Marek Stein
+    Tags: kaminofen bodenplatte glas
+  - [Pelletofen Vorteile Nachteile – Alles, was Sie vor dem Kauf wissen sollten](https://www.pelios.de/blogs/news/pelletofen-vorteile-nachteile-alles-was-sie-vor-dem-kauf-wissen-sollten)
+    Updated: 2025-12-22T05:52:19Z
+    Author: Marek Stein
+    Tags: pelletofen vorteile nachteile
+  - [Kaminofen Eckaufstellung: Praxisguide für optimale Platzierung und Sicherheit](https://www.pelios.de/blogs/news/kaminofen-eckaufstellung-praxisguide-fur-optimale-platzierung-und-sicherheit)
+    Updated: 2025-12-23T02:06:23Z
+    Author: Marek Stein
+    Tags: kaminofen eckaufstellung
+  - [Elektrokamin 150 cm breit: Die besten Modelle, Installationstipps und Kosten im Überblick](https://www.pelios.de/blogs/news/elektrokamin-150-cm-breit-die-besten-modelle-installationstipps-und-kosten-im-uberblick)
+    Updated: 2025-12-24T01:37:41Z
+    Author: Marek Stein
+    Tags: elektrokamin 150 cm breit
+  - [kaminofen speckstein 8 kw: 6 unverzichtbare Tipps für optimale Wärme und Effizienz](https://www.pelios.de/blogs/news/kaminofen-speckstein-8-kw-6-unverzichtbare-tipps-fur-optimale-warme-und-effizienz)
+    Updated: 2025-12-25T04:20:20Z
+    Author: Marek Stein
+    Tags: kaminofen speckstein 8 kw
 
 ## Store Pages
 
