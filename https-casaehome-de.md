@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-11-24T05:21:30Z
 - Contact Email: casaeHome-Living@web.de
-- Updated At: 2025-12-25T00:00:24.104Z
+- Updated At: 2025-12-26T00:00:23.439Z
 
 ## Products
 
