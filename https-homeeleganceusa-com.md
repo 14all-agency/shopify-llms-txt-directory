@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-25T23:34:13.025Z
+- Updated At: 2025-12-26T00:03:05.224Z
 
 ## Products
 
@@ -11131,7 +11131,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-25T18:10:29Z
   Price: $812.99 USD
 - [Oxford Velvet Dining Chair In Black (Set Of 2) - 721Black-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-oxford-velvet-dining-chair-in-black-set-of-2-721black-c): Meridian Furniture - Oxford Velvet Dining Chair in Black (Set of 2) - 721Black-CLend your dining area a touch of retro charm with the Gianna Pink Velvet Dining
-  Updated: 2025-12-25T18:10:30Z
+  Updated: 2025-12-25T23:43:47Z
   Price: $812.99 USD
 - [Gianna Velvet Dining Chair In Navy (Set Of 2) - 718Navy-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-gianna-velvet-dining-chair-in-navy-set-of-2-718navy-c): Meridian Furniture - Gianna Velvet Dining Chair in Navy (Set of 2) - 718Navy-CLend your dining area a touch of retro charm with the Gianna Navy Velvet Dining
   Updated: 2025-12-25T18:10:31Z
@@ -27807,7 +27807,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-23T18:50:29Z
   Price: $1,628.99 USD
 - [Four Hands Court Dining Chair - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-court-dining-chair): Inspired by the Thonet chair popularized in the mid century, dark, solid ash forms a
-  Updated: 2025-12-23T18:50:30Z
+  Updated: 2025-12-25T23:51:04Z
   Price: $850.99 USD
 - [Four Hands Cronos End Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-cronos-end-table): Simply sophisticted. Finished in  polished white/veiny grey,  solid turned mrble bse supports
   Updated: 2025-12-23T18:50:32Z
