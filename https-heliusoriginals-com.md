@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-12-24T00:00:40.432Z
+- Updated At: 2025-12-26T00:00:40.984Z
 
 ## Products
 
 - [Smoke N’ Luxe Cocktail Smoker | Luxury Smoke Infusion Barware](https://heliusoriginals.com/products/smoke-n-luxe-cocktail-enhancement-set-deluxe): Elevate cocktails & cuisine with the Smoke N’ Luxe Set. Handcrafted smoker, torch, and premium Ontario wood shavings for luxury entertaining.
-  Updated: 2025-12-16T19:31:07Z
+  Updated: 2025-12-25T19:41:31Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -66,7 +66,7 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/helius-originals-wood-shavings-sampler-box-black-walnut-cherry-maple-oak.jpg?v=1756413037
   Price: $34.99 USD
 - [Artisanal Aroma Boards | Handcrafted Cocktail Smoker Boards](https://heliusoriginals.com/products/artisanal-aroma-boards): Handcrafted aroma boards made from 100% reclaimed Ontario wood. Perfect for smoking cocktails, cheeses, and charcuterie. Eco-luxury by Helius Originals.
-  Updated: 2025-10-25T02:05:42Z
+  Updated: 2025-12-25T19:41:32Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -80,7 +80,7 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/HeliusOriginalsSpringsmokerecipebookcocktailcover.png?v=1681489647
   Price: $0.00 USD
 - [Smoked Cocktail Recipes for Fall | Helius Originals Recipe Book](https://heliusoriginals.com/products/smoked-cocktail-book-fall): Discover our Fall Smoke Cocktail Recipe Book featuring smoked twists on the Manhattan cocktail recipe, Aviation, Zombie, Toronto, and more.
-  Updated: 2025-12-22T13:35:12Z
+  Updated: 2025-12-24T17:46:06Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
