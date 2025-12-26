@@ -8,14 +8,14 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-25T00:00:20.114Z
+- Updated At: 2025-12-26T00:00:19.690Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
-  Updated: 2025-12-24T22:26:40Z
+  Updated: 2025-12-25T22:59:48Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
   Updated: 2025-12-14T08:11:15Z
@@ -24,7 +24,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:11:16Z
   Total Products: 5622
 - [System On Chip (SoC)](https://hqickey.com/collections/system-on-chip-soc): System-on-Chip (SoC) vs Discrete Components: Integrated computing systems combining microprocessors, FPGA co-processors & graphics controllers. Explore high-performance embedded designs with external storage interfaces for AI acceleration and edge computing.
-  Updated: 2025-12-24T10:36:54Z
+  Updated: 2025-12-25T16:47:21Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
   Updated: 2025-12-14T08:11:18Z
@@ -306,7 +306,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-24T12:10:19Z
   Total Products: 127
 - [Integrated DC-DC Switching Regulator PMICs for Voltage Stabilization & High-Efficiency Conversion](https://hqickey.com/collections/voltage-regulators-dc-dc-switching-regulators): Discover DC-DC switching regulator PMICs with integrated switching elements for precise voltage stabilization, transformation, and compact power solutions. Ideal for industrial, automotive, and embedded systems.
-  Updated: 2025-12-14T08:14:01Z
+  Updated: 2025-12-25T11:40:06Z
   Total Products: 35024
 - [Hybrid DC-DC Voltage Regulators: Switch-Mode Efficiency & Linear Low-Noise Integration](https://hqickey.com/collections/voltage-regulators-linear-switching): Engineer efficient, low-noise DC-DC conversion with hybrid regulators combining switch-mode efficiency and linear precision. Ideal for industrial, automotive, and telecom systems.
   Updated: 2025-12-14T08:14:02Z
