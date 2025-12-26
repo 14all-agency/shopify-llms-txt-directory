@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-26T00:00:49.567Z
+- Updated At: 2025-12-26T04:00:29.428Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -120,7 +120,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SpecialDeliveryfromSantaClaus-PersonalizedGiftTagsorStickers-PrintablePlanning.jpg?v=1687885559
   Price: $5.95 USD
 - [Special Delivery from Santa Claus - Round Personalized Gift Tags or Stickers - Printable](https://printableplanning.com/products/special-delivery-from-santa-claus-round-personalized-gift-tags-or-stickers-printable): Round DIY printable Special Delivery from Santa Claus - Round Personalized Gift Tags or Stickers personalized with your child's name. They have a red and green border with 'Special Deliver from Santa Claus' and 'North Pole' along the inside of the border. These gift tags read 'please deliver to' preceding the custom names that you change as needed to print. They can be printed on paper, card stock, sticker paper, or 12-up 2" round sticker paper. This is an editable PDF page, so you can put in the names by yourself, as needed. These gift tags are a DIY project. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these gift tags from these printable pages. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your child's name will fit. SPECIFICATIONS: 8.5" x 11" printable PDF page. 12 tags per page. Round Tags measure a diameter of 2"+ each. (Includes a bleed for when used with 2" round sticker paper or when using a 2" round paper punch. Fits Avery template #22807 or comparable template. See Avery for details. Edit the names on each tag (every time you print). Print a new page every time you need more. Use these printable Special Delivery from Santa Claus - Round Personalized Gift Tags or Stickers every year for consistency.
-  Updated: 2025-07-21T19:21:16Z
+  Updated: 2025-12-26T03:12:19Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
