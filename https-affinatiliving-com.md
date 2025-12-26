@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-26T00:00:55.321Z
+- Updated At: 2025-12-26T04:00:36.442Z
 
 ## Products
 
@@ -1939,7 +1939,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Black Raspberry Vanilla Original Candle](https://affinatiliving.com/products/black-raspberry-vanilla-original-candle): Black Raspberry Vanilla Original Candle – 10 oz Black Raspberry Vanilla is sweet, smooth, and irresistibly rich. Juicy berries blend with creamy vanilla for a scent that feels warm and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Black RaspberryMiddle Notes: Sweet Berry BlendBase Notes: Vanilla Cream Perfect for adding warmth and sweetness to your space, this candle feels inviting and comforting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-25T23:12:45Z
+  Updated: 2025-12-26T02:01:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3775,7 +3775,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2025-12-23T07:45:40Z
+  Updated: 2025-12-26T03:03:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6239,7 +6239,7 @@
     Availability: Available
     Price: $69.95 USD
 - [Rosemary Mint Original Candle](https://affinatiliving.com/products/rosemary-mint-original-candle): Refresh any room with our Rosemary Mint 10 oz Candle—an invigorating blend of cool mint and herbal rosemary, hand-poured for a clean, long-lasting burn.
-  Updated: 2025-12-25T23:13:01Z
+  Updated: 2025-12-26T02:54:02Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6504,7 +6504,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Blackberry Absinthe Original Candle](https://affinatiliving.com/products/blackberry-absinthe-original-candle): Indulge in luxury with our Blackberry Absinthe Original Candle. Dark berries, plum, and absinthe create a smooth, moody, long-lasting fragrance in any room.
-  Updated: 2025-12-25T23:13:02Z
+  Updated: 2025-12-26T02:00:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7098,7 +7098,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_24_35_AM.png?v=1765117490
   Price: $17.95 USD
 - [White Christmas Original Candle](https://affinatiliving.com/products/white-christmas-original-candle): Celebrate the season with White Christmas—a crisp, cozy blend of pine, winter air, and soft vanilla. This 10 oz candle delivers a clean burn and lasting holiday fragrance.
-  Updated: 2025-12-25T23:13:03Z
+  Updated: 2025-12-26T02:52:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7188,7 +7188,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Eucalyptus Tea Original Candle](https://affinatiliving.com/products/eucalyptus-tea-original-candle): Refresh your space with our Eucalyptus Tea 10 oz Original Candle—clean eucalyptus, soft white tea, and gentle herbal notes for a calming, spa-like ambiance.
-  Updated: 2025-12-25T23:13:04Z
+  Updated: 2025-12-26T02:51:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -8118,6 +8118,21 @@
   - [Pack of 5](https://affinatiliving.com/products/egyptian-musk-original-candle?variant=58524632744017)
     Availability: Available
     Price: $64.95 USD
+- [Brown Sugar & Figs Original Candle](https://affinatiliving.com/products/brown-sugar-figs-original-candle): Fill your home with cozy sweetness using the Brown Sugar & Figs Original Candle (10 oz), featuring ripe fig, caramelized brown sugar, and soft woods.
+  Updated: 2025-12-26T03:57:02Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8544.png?v=1766721414
+  - [Single Order](https://affinatiliving.com/products/brown-sugar-figs-original-candle?variant=58524641755217)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/brown-sugar-figs-original-candle?variant=58524641787985)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/brown-sugar-figs-original-candle?variant=58524641820753)
+    Availability: Available
+    Price: $64.95 USD
 
 ## Collections
 
@@ -8155,7 +8170,7 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-25T23:54:56Z
+  Updated: 2025-12-26T03:56:59Z
   Total Products: 354
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-22T12:08:35Z
@@ -8179,7 +8194,7 @@
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-25T23:54:56Z
+  Updated: 2025-12-26T03:56:59Z
   Total Products: 97
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-12-24T12:08:15Z
@@ -8188,10 +8203,10 @@
   Updated: 2025-12-25T23:52:12Z
   Total Products: 120
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-25T23:54:56Z
+  Updated: 2025-12-26T03:56:59Z
   Total Products: 148
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-25T23:54:56Z
+  Updated: 2025-12-26T03:56:59Z
   Total Products: 136
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
   Updated: 2025-12-25T23:56:13Z
