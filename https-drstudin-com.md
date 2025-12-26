@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-01T14:02:49Z
 - Contact Email: drs@drstudin.com
-- Updated At: 2025-12-21T00:00:33.885Z
+- Updated At: 2025-12-26T00:00:44.803Z
 
 ## Collections
 
@@ -388,6 +388,24 @@
     Author: Javier Moraes
   - [Understanding Implant Rupture: What You Need to Know](https://drstudin.com/blogs/blog/understanding-implant-rupture-what-you-need-to-know)
     Updated: 2025-11-28T15:00:01Z
+    Author: Javier Moraes
+  - [Awake Liposuction in NYC: Is It Right for You?](https://drstudin.com/blogs/blog/awake-liposuction-in-nyc-is-it-right-for-you)
+    Updated: 2025-12-22T13:50:07Z
+    Author: Javier Moraes
+  - [The Rise of PRP Hair Restoration for Men in NYC](https://drstudin.com/blogs/blog/the-rise-of-prp-hair-restoration-for-men-in-nyc)
+    Updated: 2025-12-22T13:54:18Z
+    Author: Javier Moraes
+  - [Understanding Crescent Arm Lifts: A Scar-Conscious Option](https://drstudin.com/blogs/blog/understanding-crescent-arm-lifts-a-scar-conscious-option)
+    Updated: 2025-12-22T14:01:19Z
+    Author: Javier Moraes
+  - [Sculptra vs. Restylane: Which Filler Fits Your Facial Goals?](https://drstudin.com/blogs/blog/sculptra-vs-restylane-which-filler-fits-your-facial-goals)
+    Updated: 2025-12-22T14:16:03Z
+    Author: Javier Moraes
+  - [Earlobe Repair in NYC: Small Fix, Big Impact](https://drstudin.com/blogs/blog/earlobe-repair-in-nyc-small-fix-big-impact)
+    Updated: 2025-12-22T14:21:11Z
+    Author: Javier Moraes
+  - [Skinny BBL in NYC: What Patients Really Need to Know](https://drstudin.com/blogs/blog/skinny-bbl-in-nyc-what-patients-really-need-to-know)
+    Updated: 2025-12-23T15:00:02Z
     Author: Javier Moraes
 - [News](https://drstudin.com/blogs/news)
   - [Understanding the Postoperative Journey: A Look Into Recovery After Surgery](https://drstudin.com/blogs/news/understanding-the-postoperative-journey-a-look-into-recovery-after-surgery)
