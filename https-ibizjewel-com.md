@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-25T00:01:03.710Z
+- Updated At: 2025-12-26T00:00:58.844Z
 
 ## Products
 
@@ -16848,7 +16848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-21_8.jpg?v=1710395969
     Price: $706.00 USD
 - [Moissanite 0.32CT Pear Diamond Boho & Hippie Band](https://ibizjewel.com/products/moissanite-0-32ct-pear-diamond-boho-hippie-best-selling-band): Introducing The Moissanite 0.32ct Pear Diamond Boho & Hippie Best Selling Band, A Top-rated Choice For Those Seeking An Elegant And Unique Piece Of Jewelry. Made With A Stunning 0.32ct Pear Shaped Moissanite Diamond, This Band Is Perfect For Those With A Bohemian Or Hippie Aesthetic. Get It Now And Stand Out From The Crowd!
-  Updated: 2025-10-02T10:30:53Z
+  Updated: 2025-12-25T06:20:55Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Pear Diamond Band
   Availability: Available
@@ -34004,7 +34004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-102_6.jpg?v=1711450418
     Price: $1,079.00 USD
 - [Moissanite 3.35 CT Oval Diamond Boho & Hippie Engagement Ring](https://ibizjewel.com/products/moissanite-3-35-ct-oval-diamond-boho-hippie-engagement-ring): This Meticulously Crafted Moissanite 3.35 CT Oval Diamond Boho & Hippie Engagement Ring Is The Perfect Blend Of Elegance And Bohemian Style. Featuring A Dazzling 3.35 CT Oval Diamond And A Unique Design, This Ring Is Sure To Make A Statement. Made With High Quality Materials, It Offers Timeless Beauty And Value For Your Special Occasion.
-  Updated: 2025-10-02T10:31:07Z
+  Updated: 2025-12-25T11:27:31Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
