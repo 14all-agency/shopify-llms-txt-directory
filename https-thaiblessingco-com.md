@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-06-21T22:40:19Z
 - Contact Email: thaiblessingco@thaiblessingco.com
-- Updated At: 2025-12-25T04:12:04.699Z
+- Updated At: 2025-12-26T00:00:43.439Z
 
 ## Products
 
@@ -4441,8 +4441,8 @@
 ## Collections
 
 - [Thai Amulet & Talisman - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/buddhist-lucky-charms-thailand-sacred)
-  Updated: 2025-12-25T04:09:30Z
-  Total Products: 2104
+  Updated: 2025-12-25T06:32:49Z
+  Total Products: 2107
 - [Authentic Thai Traditional Clothing - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-traditional-clothing): "Discover the elegance of Thai traditional fashion with this authentic and stylish collection. Handcrafted with care, each piece blends timeless cultural heritage with modern style – perfect for collectors, fashion enthusiasts, and unique wardrobe pieces."
   Updated: 2025-11-19T05:31:00Z
   Total Products: 155
@@ -4456,14 +4456,14 @@
   Updated: 2025-12-24T14:20:15Z
   Total Products: 1211
 - [Fortune & Prosperity Collection - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/prosperity-talismans-for-wealth)
-  Updated: 2025-12-25T04:09:30Z
-  Total Products: 2063
+  Updated: 2025-12-25T06:32:49Z
+  Total Products: 2066
 - [Divine Protection Collection - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/authentic-thai-safety-talismans-protection): "Discover the elegance of Thai craftsmanship – a unique collection of authentic artisan creations, blending timeless heritage with modern style. Perfect for collectors, home décor, and meaningful gifts."
-  Updated: 2025-12-25T04:09:30Z
-  Total Products: 1587
+  Updated: 2025-12-25T06:32:49Z
+  Total Products: 1590
 - [Authentic Thai Amulets  Best Sellers - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/authentic-thai-amulets-for-sale)
-  Updated: 2025-12-25T04:09:58Z
-  Total Products: 4343
+  Updated: 2025-12-25T06:32:49Z
+  Total Products: 4345
 - [Feng Shui Home Decor - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/feng-shui-home-decor): Elevate your space for home decor needs. Harmonize energy and attract prosperity with Feng Shui accents. Shop now to bring peace and abundance.
   Updated: 2025-11-30T00:50:30Z
   Total Products: 207
@@ -4480,8 +4480,11 @@
   Updated: 2025-12-08T20:00:02Z
   Total Products: 80
 - [All Products (ChatGPT-AI Product Description)](https://thaiblessingco.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-25T04:09:58Z
-  Total Products: 4344
+  Updated: 2025-12-25T06:32:49Z
+  Total Products: 4346
+- [Partner Products](https://thaiblessingco.com/collections/partner-products)
+  Updated: 2025-12-25T04:17:07Z
+  Total Products: 0
 
 ## Blogs
 
