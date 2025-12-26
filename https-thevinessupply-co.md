@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-26T08:00:37.334Z
+- Updated At: 2025-12-26T12:00:39.088Z
 
 ## Products
 
@@ -5268,7 +5268,7 @@
     Availability: Available
     Price: £114.95 GBP
 - [Polar Skate Co Big Boy Jeans | Black & Dark Olive](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-black-dark-olive): Buy the Polar Big Boys Jeans in Black & Dark Olive at The Vines, with fast, premium delivery & easy returns.
-  Updated: 2025-12-19T08:12:56Z
+  Updated: 2025-12-26T10:59:06Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
