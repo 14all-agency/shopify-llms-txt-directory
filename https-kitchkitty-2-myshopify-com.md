@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2025-12-18T13:49:41Z
 - Contact Email: kitchkittyslc@gmail.com
-- Updated At: 2025-12-26T14:33:15.081Z
+- Updated At: 2025-12-26T14:40:11.394Z
 
 ## Products
 
@@ -1506,10 +1506,6 @@
   Updated: 2025-12-24T00:59:49-07:00
 - [Contact Information](https://kitchkitty-2.myshopify.com/policies/contact-information)
   Updated: 2025-12-21T23:09:17-07:00
-
-## Alternate Currencies & Languages
-
-- [United States (en / USD)](https://kitchkitty-2.myshopify.com/llms.txt?market=us)
 
 ## Optional
 
