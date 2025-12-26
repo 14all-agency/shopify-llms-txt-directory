@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2025-12-16T22:46:56Z
-- Updated At: 2025-12-24T00:00:22.460Z
+- Updated At: 2025-12-26T00:00:25.384Z
 
 ## Products
 
@@ -1888,6 +1888,9 @@
     Author: BB’s Baby Boutique
   - [Why LotusBloom is the Perfect Addition to Your Baby's Cute and Cozy Essentials Wardrobe with Embroidered Knit Charm](https://bbsbabyboutique.myshopify.com/blogs/news/why-lotusbloom-is-the-perfect-addition-to-your-babys-cute-and-cozy-essentials-wardrobe-with-embroidered-knit-charm): Why LotusBloom is the Perfect Addition to Your Baby's Cute and Cozy Essentials Wardrobe with Embroidered Knit Charm
     Updated: 2025-12-22T07:01:21Z
+    Author: BB’s Baby Boutique
+  - [10 Ways HeartGlow Brings Cute and Cozy Spark to Your Baby Essentials for a Fun and Happy Baby](https://bbsbabyboutique.myshopify.com/blogs/news/10-ways-heartglow-brings-cute-and-cozy-spark-to-your-baby-essentials-for-a-fun-and-happy-baby): 10 Ways HeartGlow Brings Cute and Cozy Spark to Your Baby Essentials for a Fun and Happy Baby
+    Updated: 2025-12-24T07:02:16Z
     Author: BB’s Baby Boutique
 
 ## Store Pages
