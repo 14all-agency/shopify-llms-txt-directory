@@ -6,7 +6,7 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-25T00:00:21.452Z
+- Updated At: 2025-12-26T00:00:22.758Z
 
 The New Age
 
@@ -530,7 +530,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/882025af-bd91-48cd-9684-01d9f3510937.jpg?v=1766467558
     Price: $42.99 USD
 - [Domino Train Toys - Baby Toy Car Puzzle with Automatic Release & Building Blocks](https://the-new-age-7647.myshopify.com/products/domino-train-toys-baby-toys-car-puzzle-automatic-release-licensing-electric-building-blocks-train-toy): Discover the exciting Domino Train Toys, perfect for developing children's imagination, coordination, and recognition skills with an automatic domino releasing train.
-  Updated: 2025-12-23T18:47:36Z
+  Updated: 2025-12-25T12:49:27Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -1142,7 +1142,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/efca0393-84bc-4682-8066-a90c0888408b.jpg?v=1766468017
     Price: $49.99 USD
 - [Nylon LED Pet Collar - Bright, Adjustable, Night Safety Dog Leash](https://the-new-age-7647.myshopify.com/products/nylon-led-pet-dog-luminous-collar-night-safety-flashing-glow-in-dark-dog-cat-leash-adjustable-pet-supplies): Shop the innovative Nylon LED Pet Collar, perfect for night walks. Features adjustable fitting, bright LED modes, and waterproof design for pet safety.
-  Updated: 2025-12-23T22:36:50Z
+  Updated: 2025-12-25T16:48:15Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -2684,7 +2684,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dfc3a13-499c-45da-87fe-e1123749943d.jpg?v=1766469139
     Price: $12.99 USD
 - [Spine Bending Posture Corrector | Improve Your Back Posture](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector): Discover the Spine Bending Posture Corrector to improve posture, reduce back pain, and support spinal health. Ideal for scoliosis and slouching issues.
-  Updated: 2025-12-24T07:15:32Z
+  Updated: 2025-12-25T02:49:06Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2870,7 +2870,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5356907-dc5b-408b-a93c-118920982408.jpg?v=1766469281
     Price: $19.99 USD
 - [Winter Gloves Touch Screen - Waterproof Motorcycle Sports Gloves with Fleece](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Discover the best Winter Gloves Touch Screen featuring waterproof, touchscreen-compatible design. Perfect for riding, sports, and outdoor activities in cold weather.
-  Updated: 2025-12-24T07:33:37Z
+  Updated: 2025-12-25T21:48:13Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -3275,33 +3275,2568 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4fce808f-8792-4aff-9a6c-01517be79768.jpg?v=1766561766
     Price: $14.99 USD
+- [Large Engineering Vehicle Dinosaur Children's Toy Car Set - Fun & Educational](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set): Discover the Large Engineering Vehicle dinosaur toy set, perfect for kids. Includes transport and storage vehicles, made of durable plastic. Get yours now!
+  Updated: 2025-12-25T18:15:34Z
+  Vendor: The New Age
+  Product Type: Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8afa5de7-688b-419b-943a-f4365b90ed4c_trans.jpg?v=1766643380
+  - [Trex head regular](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set?variant=51801313870105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b878b569-bf7e-4c97-b4c7-dfb708ea6f91_trans.jpg?v=1766643333
+    Price: $26.99 USD
+  - [Triceratops head regular](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set?variant=51801313902873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6eaf41ef-70b4-4547-938a-db36ecc6c954_trans.jpg?v=1766643333
+    Price: $26.99 USD
+- [Robotime ROKR Marble Night City 3D Wooden Puzzle for Kids - Assembly Toy](https://the-new-age-7647.myshopify.com/products/robotime-rokr-marble-night-city-3d-wooden-puzzle-games-assembly-waterwheel-model-toys-for-children-kids-birthday-gift): Buy Robotime ROKR Marble Night City 3D Wooden Puzzle, a fun and educational assembly toy for children aged 8+. Perfect for birthday gifts and creative play.
+  Updated: 2025-12-25T18:16:22Z
+  Vendor: The New Age
+  Product Type: Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1950730733639438336.jpg?v=1766643423
+  Price: $49.99 USD
+- [Resistance to shock Remote Control Car for High-Speed Competitions](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car): Experience the thrill with our Resistance to shock remote control car, designed for high-speed racing and durability. Perfect for competitive RC enthusiasts.
+  Updated: 2025-12-25T18:17:09Z
+  Vendor: The New Age
+  Product Type: Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1045318205224.jpg?v=1766643430
+  - [Blue](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car?variant=51801316196633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1448078884957.jpg?v=1766643428
+    Price: $26.99 USD
+  - [Red](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car?variant=51801316229401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3290973935597.jpg?v=1766643427
+    Price: $26.99 USD
+- [Glider Fighter Model - Remote Control Fixed Wing Children's Toy, Outdoor](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys): Explore the Glider Fighter Model, a remote control fixed wing children's toy made of EVA with flashing function, battery-powered, perfect for outdoor fun.
+  Updated: 2025-12-25T18:18:26Z
+  Vendor: The New Age
+  Product Type: Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cf05c722-21d1-4c92-93f8-15eb2f5ff3ba.jpg?v=1766643552
+  - [Blue](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317343513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d8d1d38b-c080-44fd-8512-a5c92eadfe14.jpg?v=1766643504
+    Price: $32.99 USD
+  - [Blue Double electric](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317376281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/edeaff2d-0eea-4afa-840a-700d0557d6cb.jpg?v=1766643504
+    Price: $29.99 USD
+  - [Blue Single electric](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317409049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4deec4d5-1348-4fff-a1b1-dbc3a175fe38.jpg?v=1766643504
+    Price: $27.99 USD
+  - [Blue Three electric](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317441817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8c04eb17-ca49-4e28-aab6-044656726c54.jpg?v=1766643504
+    Price: $32.99 USD
+  - [Red](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317474585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cc5c5dc4-7b2c-45bb-bea6-a9b27b428b62.jpg?v=1766643504
+    Price: $33.99 USD
+  - [Yellow](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317507353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8a7eb1ae-90ea-45ba-aed4-83d266299ea2.jpg?v=1766643504
+    Price: $33.99 USD
+- [Non-slip shopping shoes sneakers for women - Comfortable & Stable Design](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers): Shop the best non-slip shopping shoes sneakers for women, perfect for lifestyle activities, with breathable mesh, low insole, and enhanced stability for spring 2019.
+  Updated: 2025-12-25T18:22:35Z
+  Vendor: The New Age
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3211781055380.jpg?v=1766643753
+  - [Black powder / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324486937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black powder / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324519705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $18.99 USD
+  - [Black powder / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324552473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black powder / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324585241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black powder / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324618009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black powder / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324650777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black powder / 41](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324683545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1766643748
+    Price: $18.99 USD
+  - [Black / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324716313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324749081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $19.99 USD
+  - [Black / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324781849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324814617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Black / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324847385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $17.99 USD
+  - [Black / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324880153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $18.99 USD
+  - [Black / 41](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324912921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1766643748
+    Price: $18.99 USD
+  - [Pink / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324945689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Pink / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324978457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Pink / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325011225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $19.99 USD
+  - [Pink / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325043993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $17.99 USD
+  - [Pink / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325076761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Pink / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325109529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $17.99 USD
+  - [Pink / 41](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325142297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1766643748
+    Price: $17.99 USD
+  - [Purple / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325175065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Purple / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325207833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Purple / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325240601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1766643748
+    Price: $16.99 USD
+  - [Purple / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325273369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1766643748
+    Price: $17.99 USD
+  - [Purple / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325306137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1766643748
+    Price: $17.99 USD
+  - [Purple / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325338905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1766643748
+    Price: $17.99 USD
+  - [White / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325371673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
+    Price: $17.99 USD
+  - [White / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325404441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
+    Price: $17.99 USD
+  - [White / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325437209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
+    Price: $17.99 USD
+  - [White / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325469977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
+    Price: $17.99 USD
+  - [White / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325502745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
+    Price: $17.99 USD
+  - [White / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325535513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
+    Price: $17.99 USD
+- [LED Wall Hanging Neon Modeling Lights - Unique Alien Design for Interior Decor](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights): Discover the LED Wall Hanging neon modeling lights featuring alien designs. Perfect for interior decoration, energy-efficient, with multiple color options.
+  Updated: 2025-12-25T18:24:39Z
+  Vendor: The New Age
+  Product Type: Lights
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256132.jpg?v=1766643878
+  - [A / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327206681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256146.jpg?v=1766643873
+    Price: $16.99 USD
+  - [B / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327239449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256126.jpg?v=1766643874
+    Price: $16.99 USD
+  - [C / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327272217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256128.jpg?v=1766643873
+    Price: $16.99 USD
+  - [D / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327304985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256132_1f42625a-e179-406f-9f5d-a31f9473f7ab.jpg?v=1766643873
+    Price: $16.99 USD
+  - [E / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327337753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256144.jpg?v=1766643873
+    Price: $16.99 USD
+- [3D Lamp Acrylic USB LED Night Light with Remote Control - Unique Xmas Decor](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts): Shop the versatile 3D Lamp Acrylic USB LED night light with remote control, perfect Xmas Christmas decorations for home, bedroom, birthday, and Valentine's Day gifts.
+  Updated: 2025-12-25T18:26:34Z
+  Vendor: The New Age
+  Product Type: Lights
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6ac33f50-058e-444d-ac75-b16e5c7869d2.jpg?v=1766643974
+  - [Black / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329008921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1407545331511_0eaa8048-1b23-4344-aff5-9a1aa17c6eda.jpg?v=1766643974
+    Price: $13.99 USD
+  - [Black / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329041689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1407545331511_0eaa8048-1b23-4344-aff5-9a1aa17c6eda.jpg?v=1766643974
+    Price: $12.99 USD
+  - [Black1 / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329074457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6ac33f50-058e-444d-ac75-b16e5c7869d2_ba8fbf6d-cec0-4609-8dac-4535eeea1388.jpg?v=1766643974
+    Price: $13.99 USD
+  - [Black1 / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329107225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/35be59be-3a1d-46b4-921b-cf4279e87a8d.jpg?v=1766643974
+    Price: $13.50 USD
+  - [Crack / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329139993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2268055748551_f1574347-a494-4d09-aa73-4c4ce6e0366f.jpg?v=1766643974
+    Price: $13.99 USD
+  - [Crack / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329172761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2268055748551_f1574347-a494-4d09-aa73-4c4ce6e0366f.jpg?v=1766643974
+    Price: $12.99 USD
+  - [Crack1 / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329205529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9314368f-0341-4dbb-b4d3-3798598f5c74.jpg?v=1766643974
+    Price: $13.99 USD
+  - [Crack1 / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329238297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d8722d75-1006-458d-ac65-e30c91c3e27b.jpg?v=1766643974
+    Price: $13.99 USD
+  - [White / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329271065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/327626311339_6ec70b04-be05-47e8-b67a-9f6a7041ac47.jpg?v=1766643974
+    Price: $12.99 USD
+  - [White / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329303833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/327626311339_6ec70b04-be05-47e8-b67a-9f6a7041ac47.jpg?v=1766643974
+    Price: $12.99 USD
+  - [White1 / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329336601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9147a976-dcfe-4695-9db4-aef121df2cc0.jpg?v=1766643974
+    Price: $13.99 USD
+  - [White1 / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329369369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6e6bb3db-1fd6-4a8a-8a64-3ef1adf881c2.jpg?v=1766643974
+    Price: $13.99 USD
+- [Modern Desk Lights USB Eye Protection LED Table Lamp for Cozy Spaces](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office): Discover the modern desk lights designed for eye protection with USB charging, adjustable brightness, and charming plant-shaped design. Perfect for living rooms and bedrooms.
+  Updated: 2025-12-25T18:26:58Z
+  Vendor: The New Age
+  Product Type: Lights
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/599dc737-93ff-41c6-8229-241fefe3977d.jpg?v=1766644015
+  - [Pink](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office?variant=51801330254105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1347775869501.jpg?v=1766644013
+    Price: $19.99 USD
+  - [blue](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office?variant=51801330286873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1226973997194.jpg?v=1766644013
+    Price: $19.99 USD
+- [Desktop Charging Magnetic Data Cable Organizer - Creative Gift Storage](https://the-new-age-7647.myshopify.com/products/desktop-charging-magnetic-data-cable-organizer-soft-plastic-creative-gift-storage-fixed-cable-organizer): Use the desktop charging magnetic data cable organizer for a neat desktop. Perfect for fixing cables and as a creative gift. Shop now for organization!
+  Updated: 2025-12-25T18:28:39Z
+  Vendor: The New Age
+  Product Type: Phone Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619517081159.jpg?v=1766644124
+  Price: $6.50 USD
+- [Super Fast Charging USB Data Cable for Mobile Phones - 1m & 3m Options](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable): Get the best Super Fast Charging USB data cable with 5A current, available in 1m and 3m lengths. Perfect for charging and data transmission, compatible with type-c devices.
+  Updated: 2025-12-25T18:28:34Z
+  Vendor: The New Age
+  Product Type: Phone Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235.jpg?v=1766644250
+  - [White / 1m](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable?variant=51801333891353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1766644107
+    Price: $6.49 USD
+  - [White / 2m](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable?variant=51801333924121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1766644107
+    Price: $6.99 USD
+  - [White / 3m](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable?variant=51801333956889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1766644107
+    Price: $7.25 USD
+- [Wireless Charger For iPhone Fast Charging Dock Station - 6 in 1 Wireless Charging Pad](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station): Discover the Wireless Charger for iPhone, a fast charging dock station with 6-in-1 functionality, perfect for phones, watches, and more. Fast and reliable charging solution.
+  Updated: 2025-12-25T18:30:40Z
+  Vendor: The New Age
+  Product Type: Phone Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fff10a96-1ead-4c85-a759-a3de932d9637.jpg?v=1766644294
+  - [Black / 10w / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334612249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6bfb61ef-1e56-4379-bf12-afeeaeade48f.jpg?v=1766644222
+    Price: $18.99 USD
+  - [Black / 15W / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334645017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b1261eaf-5bdd-403f-ab3e-01128a16aab7.jpg?v=1766644223
+    Price: $22.99 USD
+  - [Pink / 10w / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334677785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a06e8f4f-2836-4d84-82d8-0a79cc41dacb.jpg?v=1766644223
+    Price: $18.99 USD
+  - [Pink / 15W / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334710553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6ea22150-fdff-4727-bfa9-82bbaa801e34.jpg?v=1766644223
+    Price: $21.99 USD
+  - [White / 10w / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334743321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5814dec8-76ae-405b-bc72-80b5af288ec8.jpg?v=1766644222
+    Price: $18.99 USD
+  - [White / 15W / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334776089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9925af23-6ddd-4226-8ae4-e0746f5acb58.jpg?v=1766644223
+    Price: $21.99 USD
+- [Trihedron Pet Toys Durable Food Dispensing Toys for Dogs](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys): Explore Trihedron Pet Toys, durable food dispensing toys that keep your dog mentally stimulated and entertained. Perfect for training and reducing boredom.
+  Updated: 2025-12-25T18:31:49Z
+  Vendor: The New Age
+  Product Type: Dog
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/69861591.jpg?v=1766644269
+  - [Blue / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335103769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3079664840547.jpg?v=1766644260
+    Price: $10.99 USD
+  - [Green / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335136537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/520790032900.jpg?v=1766644260
+    Price: $10.99 USD
+  - [Orange / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335169305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2205368058476.jpg?v=1766644260
+    Price: $10.99 USD
+  - [Purple / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335202073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/46721848100.jpg?v=1766644260
+    Price: $10.99 USD
+- [Chew Toys For Dog Teeth Cleaning - Durable, Safe & Effective Dental Play](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning): Discover the best chew toys for dog teeth cleaning featuring safe TPR material, effective plaque reduction, and fun design to keep your pet healthy and happy.
+  Updated: 2025-12-25T18:34:29Z
+  Vendor: The New Age
+  Product Type: Dog
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0b99c382-f80d-4fc2-9abb-b0ce675f2a15.jpg?v=1766644305
+  - [Blue](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning?variant=51801335464217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b679ae2f-b863-48a6-bcf2-c6092b64cc9d.jpg?v=1766644300
+    Price: $6.99 USD
+  - [Green](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning?variant=51801335496985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ae42e11f-2081-4af2-b126-01658f44fe26.jpg?v=1766644300
+    Price: $6.99 USD
+  - [Pink](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning?variant=51801335529753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ef428d1-9947-4330-804d-15adfb2706bf.jpg?v=1766644300
+    Price: $6.99 USD
+- [Dog Tumbler Toys - Interactive Pet Toy to Boost IQ & Slow Feeder](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products): Discover Dog Tumbler Toys, an engaging and durable pet toy to increase IQ, promote healthy feeding, and provide fun for small and medium dogs and cats.
+  Updated: 2025-12-25T18:32:53Z
+  Vendor: The New Age
+  Product Type: Dog
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9d0c6fa-dbe5-4382-ad06-580ddddf9e81.jpg?v=1766644344
+  - [Green](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products?variant=51801336283417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d1db310f-6007-4f97-ab9c-916dd1e5661e_91637aff-089f-4418-a563-55c0724b661a.jpg?v=1766644335
+    Price: $14.99 USD
+  - [Red](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products?variant=51801336316185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9e9e44fc-d60f-4748-b8f5-d06e7dbcd8d1_dec63f59-1b1e-4003-b6a3-5dd459c42a49.jpg?v=1766644334
+    Price: $14.99 USD
+- [Magic Organ Cat Scratch - Fun & Durable Cat Scratch Board for Cats](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy): Discover the Magic Organ Cat Scratch, a fun and durable cat scratch board made from paper in various cute designs. Perfect for keeping your cat entertained!
+  Updated: 2025-12-25T18:33:04Z
+  Vendor: The New Age
+  Product Type: Cat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9a25417c-ef9b-44f7-b23d-70f81db95542.jpg?v=1766644374
+  - [Cartoon Print](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801336971545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a174fdae-003b-40b0-845a-12df9e477300.jpg?v=1766644372
+    Price: $15.99 USD
+  - [Deep Wood Grain](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801337004313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c83dcbba-9f27-46b5-8538-5ddd2e928694.jpg?v=1766644372
+    Price: $15.99 USD
+  - [Wansheng Bat](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801337037081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/da7c0dce-01cc-4726-bcce-6406455bbd78.jpg?v=1766644373
+    Price: $15.99 USD
+  - [White](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801337069849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd0161a3-c37a-4f4c-b430-fe80f50c2ba2.jpg?v=1766644373
+    Price: $15.99 USD
+- [Rainbow Cat Tunnel - Colorful Cat Climbing Frame & Litter | Shop Now](https://the-new-age-7647.myshopify.com/products/rainbow-cat-tunnel-color-cat-climbing-frame-cat-litter): Discover the Rainbow Cat Tunnel, a vibrant and fun cat climbing frame with litter. Perfect for giving your cat a playful space. Buy the Rainbow Cat Tunnel today!
+  Updated: 2025-12-25T18:33:22Z
+  Vendor: The New Age
+  Product Type: Cat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1613785335751.jpg?v=1766644400
+  Price: $10.99 USD
+- [Windowsill Pets Toy Cat Track Ball - Engaging Pet Product in Grey](https://the-new-age-7647.myshopify.com/products/windowsill-pets-toy-cat-track-ball-pet-products): Shop the Windowsill Pets Toy Cat Track Ball, a fun and entertaining pet product made of plastic in grey, perfect for your cat's play and exercise needs.
+  Updated: 2025-12-25T18:38:04Z
+  Vendor: The New Age
+  Product Type: Cat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5adb3f02-32cb-40e2-8336-d33a6025e808.jpg?v=1766644431
+  Price: $12.99 USD
+- [Machine Washable Three-in-one Multifunctional Cat And Dog Travel Car Mat](https://the-new-age-7647.myshopify.com/products/machine-washable-three-in-one-multifunctional-cat-and-dog-travel-car-mat): Product information : Material: Cloth Product Category: Seat Cushion Colour: Black Specification: 137*149 Packing list : Cushion×1
+  Updated: 2025-12-25T18:34:20Z
+  Vendor: The New Age
+  Product Type: Dog
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff5a3ec8-c687-427f-ae57-0eeec3d4bc53.jpg?v=1766644455
+  Price: $52.99 USD
+- [New Fashion Personalized Women's Quartz Watch](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch): Product information: Special function: decoration Display type: pointer Applicable people: general Waterproof: no Movement type: quartz Thickness: 8mm Dial diameter: 38mm Crown type: screw crown Base type: ordinary Mirror material: ordinary glass mirror Buckle style: pin buckle Buckle material: titanium Strap material: imitation leather Dial shape: round Case material: alloy Packing specifications: opp bag Color: white, red, black, cyan, pink, beige Packing list: Women's watch X1pcs Product Image:
+  Updated: 2025-12-25T18:35:27Z
+  Vendor: The New Age
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/523af733-af2b-42da-856a-34eb2736556a.jpg?v=1766644490
+  - [Beige](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338413337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12955b26-f809-416c-8a5f-06bf4d41592e.jpg?v=1766644494
+    Price: $12.99 USD
+  - [Black](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338446105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b1997767-e692-43c1-8090-92b1e3778bb2.jpg?v=1766644494
+    Price: $12.99 USD
+  - [Cyan](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338478873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/523af733-af2b-42da-856a-34eb2736556a_34c24113-6795-47d4-bb9d-943bceb0d874.jpg?v=1766644494
+    Price: $12.99 USD
+  - [Pink](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338511641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16b77351-d876-4994-b9b0-41b3560bb888.jpg?v=1766644494
+    Price: $12.99 USD
+  - [Red](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338544409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b52a1b74-da9e-4a79-86a8-58bfbe0071d1.jpg?v=1766644494
+    Price: $12.99 USD
+  - [White](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338577177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6dde8249-58f4-4e85-bf35-d5de67d083fb.jpg?v=1766644494
+    Price: $12.99 USD
+- [Watch Retro Minority Watch Fashion Waterproof Quartz Watch High Sense Small Square Watch](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch): Product information: Color: 11K0214L01SK,11K0214L02SK,11K0214L03SK,11K0214L04SK Thickness: 7.5mm Applicable people: Female Style: Fashion Packing list: Watch x 1pc Product Image:
+  Updated: 2025-12-25T18:35:32Z
+  Vendor: The New Age
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3e239464-1653-43f7-bfbd-51a0f0c1eb87_fine.jpg?v=1766644523
+  - [11K0214L01SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338839321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d920cc7b-b39f-4aa9-86ab-105bd4463822_fine.jpg?v=1766644528
+    Price: $14.99 USD
+  - [11K0214L02SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338872089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/432057b2-a0bc-4dd5-a743-46cca7b8bd71_fine.jpg?v=1766644528
+    Price: $14.99 USD
+  - [11K0214L03SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338904857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/364be951-d9e6-4f7d-bc66-f12591abe8eb_fine.jpg?v=1766644528
+    Price: $14.99 USD
+  - [11K0214L04SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338937625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b6612295-239c-4a4e-82aa-fbdb72699fe5_fine.jpg?v=1766644528
+    Price: $14.99 USD
+- [Fashion Business Versatile Diamond-studded Starry Sky Quartz Watch Bracelet For Women](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women): Product information: Color: gold, rose gold, silver Thickness: 8 mm Packaging specifications: 1*500 Applicable people: women Thickness: 8mm Dial diameter: 27mm Crown type: flat top conical crown Case back type: ordinary mirror material Ordinary glass mirror: buckle style Pin buckle buckle material: rose gold Dial shape: round Strap material: alloy Case material: alloy Display type: pointer Packing list: Women's watch X1pcs Product Image:
+  Updated: 2025-12-25T18:36:03Z
+  Vendor: The New Age
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/209be6ee-e457-4896-9585-b9a8d3c35bea.jpg?v=1766644553
+  - [Gold](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women?variant=51801339167001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e969457d-01ae-45d0-8345-2cc9ced864c9.jpg?v=1766644558
+    Price: $11.57 USD
+  - [Rose Gold](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women?variant=51801339199769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0bdeb7fe-ad7a-439d-8d61-3ddc06d13f8d.jpg?v=1766644558
+    Price: $11.57 USD
+  - [Silver](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women?variant=51801339232537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bce45eae-a879-4c60-bc4b-6ca7045e91f9.jpg?v=1766644558
+    Price: $11.57 USD
+- [Fashion Simple Casual Student Watch](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch): Product information: Color: military green, khaki, red, yellow, black white case, black black case, white black, army camouflage, gray camouflage, black case green ring, black case red ring, black case blue ring, black case gold ring Battery capacity: button battery Case material: ABS Mirror material: resin Packing list: Watch *1 Product Image:
+  Updated: 2025-12-25T18:40:08Z
+  Vendor: The New Age
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8cd4e6cb-5702-4c3a-ba19-7cdde40f199f.jpg?v=1766644588
+  - [Army Camouflage](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339560217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5038047-c97a-48bc-80fd-e3fc3bdc7dcc.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Army Green](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339592985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/285d58ae-120c-4cef-8abb-fe7e614fd0bf.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Black Black Machine](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339625753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/24e82808-87cf-4fed-aad2-0d762e482273.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Black Shell And Blue Circle](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339658521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/475c3adc-20ac-457e-948f-429a76e82c00.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Black Shell And Red Circle](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339691289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/06629063-849d-4c5c-9528-78e6cfc13106.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Black Shell Golden Circle](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339724057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/79d1740c-9111-4184-87f9-9c437b3b95db.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Black Shell Green Ring](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339756825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/48471c95-10ca-41b9-968d-eacdbff7b672.jpg?v=1766644595
+    Price: $12.99 USD
+  - [Black White Machine](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339789593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fbd14b71-719d-41d9-8026-547bb7445d45.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Gray Camouflage](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339822361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5ce41dd-e5dc-4eb6-827d-83f2b7909d6c.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Khaki](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339855129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/73b92f35-8462-497c-b2e4-a1d440dc78e9.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Red](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339887897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d52684ad-fa80-44f0-bb55-b985ce25e18f.jpg?v=1766644594
+    Price: $12.99 USD
+  - [White And Black](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339920665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c16abc76-186f-4579-b437-8ad01eb96d37.jpg?v=1766644594
+    Price: $12.99 USD
+  - [Yellow](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339953433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/494865f7-c44e-42bd-a9ba-ae27e7a34570.jpg?v=1766644594
+    Price: $12.99 USD
+- [Smart Bluetooth Calling Women's Sports Watch](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch): Product information: Colors: Black (foreign language), Pink (foreign language), Gold Steel Edition (comes with dual straps + silicone strap), Black Steel Edition (comes with dual straps + silicone strap) Operation Modes: Touchscreen + Buttons Screen Type: IPS Battery Life: Less than 7 days Features: Photo capture, step counting, heart rate monitoring, blood pressure measurement, social entertainment, Bluetooth calls, smart notifications, remote selfie control, sleep monitoring, blood oxygen detection Chip: JL7012 (single-chip dual-mode, supports single connection for both iOS and Android) Additional Features: Three UI menu styles, offline Alipay, breathing training, watch face push, stopwatch, brightness adjustment, Multiple sports modes, sleep tracking, heart rate, blood pressure, blood oxygen, messages, remote music control, remote photo capture, weather, Find phone (requires connection to a smartphone), calculator, split-screen display, quick-access widgets, weather forecast, workout trajectory, etc. APP Name: CO FIT Chip: JL7012 Supported Systems: Android 4.4 and above; iOS: Apple iOS 10.0 and above Heart Rate Sensor: VC30F (with live body detection) Bluetooth: Bluetooth 5.0 Water Resistance: IP67 Product Craftsmanship: Zinc alloy construction Net Weight: 21g Screen Size: 1.47-inch IPS full-view color screen (curved surface) Resolution: 172*320 Strap Length: 260mm Battery Capacity: 502020 pure cobalt cell + Seiko protection board, polymer 180mAh Battery Life: 7-10 days under normal connected use, 15-20 days in standby mode (actual usage time depends on individual usage habits) Charging Method: Battery Voltage: 3.7V, magnetic charging Charging Time: Approximately 2 hours Packing list: Watch*1+charging cable*1+machine*1+manual*1 Product Image:
+  Updated: 2025-12-25T18:37:03Z
+  Vendor: The New Age
+  Product Type: Watches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/dc2f5305-27d5-41ba-b716-2e22c4f013a1_fine.jpg?v=1766644615
+  - [Black](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch?variant=51801340150041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/468ab42a-f499-4f49-b044-d04ec0238b2c.jpg?v=1766644619
+    Price: $22.99 USD
+  - [Pink](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch?variant=51801340182809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8e4aa268-e697-416e-b8f2-dfcaabdd863e.jpg?v=1766644619
+    Price: $22.99 USD
+- [Valentine's Day Love Letter Hoodie Red](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red): Product information: Age appropriate：Infants and young children (1-3 years old, 80~100cm) Stitch spacing 12~14 stitches /3cm：is Main fabric component：Polyester fibre Main fabric composition content：65 (%) Safety level：Class B Color:red Suitable height:80cm,90cm,100cm,110cm,120cm Packing list: 1*Children's hoodie Product Image:
+  Updated: 2025-12-25T22:31:51Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9.jpg?v=1766701820
+  - [Red / 100cm](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red?variant=51802914783513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
+    Price: $13.32 USD
+  - [Red / 110cm](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red?variant=51802914816281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
+    Price: $13.44 USD
+  - [Red / 120cm](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red?variant=51802914849049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
+    Price: $13.56 USD
+  - [Red / 80cm](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red?variant=51802914881817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
+    Price: $12.79 USD
+  - [Red / 90cm](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red?variant=51802914914585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
+    Price: $13.01 USD
+- [Summer Girls Cute Cartoon Short Sleeve T Shirt](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt): @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Product information: Applicable gender: Female Whether hooded: Not hooded Sleeve length: Short sleeve Fabric technology: Soft treatment Pattern: Cartoon Fabric name: Knitted Main fabric composition: Cotton Main fabric ingredient content: 95 (%) Collar type: Round neck Function: Moisture wicking @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Size Information: Size: 2T 3T 4T 5T 6T 7T
+  Updated: 2025-12-25T22:35:07Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/510794599265.jpg?v=1766702024
+  - [1Blue / 2T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915078425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1480262211380.jpg?v=1766702027
+    Price: $8.99 USD
+  - [1Blue / 3T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915111193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1480262211380.jpg?v=1766702027
+    Price: $9.49 USD
+  - [1Blue / 4T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915143961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1480262211380.jpg?v=1766702027
+    Price: $9.49 USD
+  - [1Blue / 5T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915176729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1480262211380.jpg?v=1766702027
+    Price: $9.49 USD
+  - [1Blue / 6T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915209497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1480262211380.jpg?v=1766702027
+    Price: $9.99 USD
+  - [1Blue / 7T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915242265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1480262211380.jpg?v=1766702027
+    Price: $10.49 USD
+  - [Blue / 2T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915275033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
+    Price: $8.99 USD
+  - [Blue / 3T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915307801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
+    Price: $9.49 USD
+  - [Blue / 4T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915340569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
+    Price: $9.49 USD
+  - [Blue / 5T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915373337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
+    Price: $9.99 USD
+  - [Blue / 6T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915406105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
+    Price: $9.99 USD
+  - [Blue / 7T](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt?variant=51802915438873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
+    Price: $10.49 USD
+- [Kids Rugby Letters Print Pullover Long Sleeve Sweatshirt](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt): Product information: Material: Cotton Style: fashion and simplicity Features:Printing Colour: Dad's, Mom's Size Information: Size/CM Length Bust/2 90 36 30 100 38.5 31.5 110 41 33 120 43.5 34.5 130 46 36 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt*1 Product Image:
+  Updated: 2025-12-25T22:36:54Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d2689f1a-e2fc-4acd-aab6-b728c7ceaeb9.jpg?v=1766702127
+  - [Dads / 100cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915504409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/07cdb176-3006-42ae-b409-890038e3262f.jpg?v=1766702134
+    Price: $15.50 USD
+  - [Dads / 110cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915537177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/07cdb176-3006-42ae-b409-890038e3262f.jpg?v=1766702134
+    Price: $15.50 USD
+  - [Dads / 120cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915569945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/07cdb176-3006-42ae-b409-890038e3262f.jpg?v=1766702134
+    Price: $15.99 USD
+  - [Dads / 130cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915602713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/07cdb176-3006-42ae-b409-890038e3262f.jpg?v=1766702134
+    Price: $16.49 USD
+  - [Dads / 90cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915635481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/07cdb176-3006-42ae-b409-890038e3262f.jpg?v=1766702134
+    Price: $15.50 USD
+  - [Moms / 100cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915668249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
+    Price: $15.50 USD
+  - [Moms / 110cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915701017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
+    Price: $15.50 USD
+  - [Moms / 120cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915733785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
+    Price: $15.99 USD
+  - [Moms / 130cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915766553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
+    Price: $16.49 USD
+  - [Moms / 90cm](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt?variant=51802915799321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
+    Price: $15.50 USD
+- [cotton children t-shirt short sleeve](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve): Applicable gender: neutral/male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable age: infants and children (1~3 years old, 80~100cm) For the season: Summer Fabric technology: soft treatment Pattern: Cartoon Flat car stitch distance 12~14 stitches/3cm Whether the hair/remnant thread ends are trimmed: The obvious parts have been trimmed Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Safety level: Class A Collar type: round neck Size(cm) Length bust Shoulder width height 73 33 50 22 66-73 80 36 52 24 73-80 90 39 56 26 80-90 100 42 60 28 90-100 110 45 64 30 100-110 120 46 66 30 110-120 130 48 68 30 120-130 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3 cmdifferences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T22:41:42Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/27141105969329.jpg?v=1766702170
+  - [A01 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802915864857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A01 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802915897625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A01 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802915930393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A01 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802915963161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A01 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802915995929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $7.60 USD
+  - [A01 / 80cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916028697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $7.93 USD
+  - [A01 / 90cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916061465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/18455304244329.jpg?v=1766702182
+    Price: $8.21 USD
+  - [A02 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916094233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A02 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916127001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A02 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916159769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A02 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916192537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A02 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916225305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $7.60 USD
+  - [A02 / 80cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916258073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $7.93 USD
+  - [A02 / 90cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916290841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7394883747611.jpg?v=1766702182
+    Price: $8.21 USD
+  - [A06 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916323609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A06 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916356377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A06 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916389145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A06 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916421913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A06 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916454681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $7.60 USD
+  - [A06 / 80cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916487449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $7.93 USD
+  - [A06 / 90cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916520217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583008029568.jpg?v=1766702182
+    Price: $8.21 USD
+  - [A08 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916552985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A08 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916585753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A08 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916618521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A08 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916651289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A08 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916684057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $7.60 USD
+  - [A08 / 80cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916716825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $7.93 USD
+  - [A08 / 90cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916749593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/911506182734.jpg?v=1766702182
+    Price: $8.21 USD
+  - [A11 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916782361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A11 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916815129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A11 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916847897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A11 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916880665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A11 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916913433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $7.60 USD
+  - [A11 / 80cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916946201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $7.93 USD
+  - [A11 / 90cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802916978969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/490904010317.jpg?v=1766702182
+    Price: $8.21 USD
+  - [A12 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917011737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2562749441395.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A12 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917044505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2562749441395.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A12 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917077273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2562749441395.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A12 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917110041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2562749441395.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A12 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917142809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2562749441395.jpg?v=1766702182
+    Price: $7.60 USD
+  - [A13 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917175577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7165512294548.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A13 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917208345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7165512294548.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A13 / 120cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917241113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7165512294548.jpg?v=1766702182
+    Price: $8.99 USD
+  - [A13 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917273881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7165512294548.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A13 / 80cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917306649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7165512294548.jpg?v=1766702182
+    Price: $7.93 USD
+  - [A13 / 90cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917339417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7165512294548.jpg?v=1766702182
+    Price: $8.21 USD
+  - [A14 / 100cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917372185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1766702182
+    Price: $8.37 USD
+  - [A14 / 110cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917404953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1766702182
+    Price: $8.64 USD
+  - [A14 / 130cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917437721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1766702182
+    Price: $9.59 USD
+  - [A14 / 73cm](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve?variant=51802917470489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1766702182
+    Price: $7.60 USD
+- [Children's Spring Clothes Girls' Long Sleeve T-Shirt Baby Clothes](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes): Product information: Fabric Name: Cotton Main fabric composition: Cotton Main fabric content: 95% Size information: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T22:39:05Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084.jpg?v=1766702220
+  - [White / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes?variant=51802918748441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
+    Price: $9.99 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes?variant=51802918781209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
+    Price: $9.99 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes?variant=51802918813977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
+    Price: $10.49 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes?variant=51802918846745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
+    Price: $10.49 USD
+  - [White / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes?variant=51802918879513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
+    Price: $10.99 USD
+  - [White / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes?variant=51802918912281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
+    Price: $9.99 USD
+- [Girls' Short Sleeved T shirt Children's Clothing](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing): Specification: Fabric name: Cotton Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Size chart: SIZE LENGTH BUST 90 37 55 100 40 59 110 43 63 120 46 67 130 50 70 140 54 74 UNIT:CM 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images.
+  Updated: 2025-12-25T22:39:12Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468.jpg?v=1766702290
+  - [White / 100cm](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing?variant=51802919272729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
+    Price: $8.99 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing?variant=51802919305497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
+    Price: $9.29 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing?variant=51802919338265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
+    Price: $9.99 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing?variant=51802919371033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
+    Price: $101.29 USD
+  - [White / 140cm](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing?variant=51802919403801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
+    Price: $10.79 USD
+  - [White / 90cm](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing?variant=51802919436569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
+    Price: $8.49 USD
+- [Baby Bottoming Shirt Cartoon Autumn](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn): Product information: Color: ZMY249A,ZMY249B,ZMY249C Suitable height: 70, 80, 90, 100, 110 Main fabric composition: Cotton Function: keep warm Hooded or not: no Hooded Sleeve length: long sleeve Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top * 1 Product Image:
+  Updated: 2025-12-25T22:42:28Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/685ad740-a766-430f-bf3f-3b6b2a38801e.jpg?v=1766702418
+  - [ZMY249A / 100](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919502105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5e66c54b-15f3-46af-9b1f-55044aa6096d.jpg?v=1766702425
+    Price: $10.99 USD
+  - [ZMY249A / 110](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919534873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5e66c54b-15f3-46af-9b1f-55044aa6096d.jpg?v=1766702425
+    Price: $11.49 USD
+  - [ZMY249A / 70](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919567641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5e66c54b-15f3-46af-9b1f-55044aa6096d.jpg?v=1766702425
+    Price: $10.49 USD
+  - [ZMY249A / 80](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919600409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5e66c54b-15f3-46af-9b1f-55044aa6096d.jpg?v=1766702425
+    Price: $10.49 USD
+  - [ZMY249A / 90](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919633177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5e66c54b-15f3-46af-9b1f-55044aa6096d.jpg?v=1766702425
+    Price: $10.99 USD
+  - [ZMY249B / 100](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919665945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df7ae558-5aca-4144-9305-c2fab1c09204.jpg?v=1766702425
+    Price: $11.29 USD
+  - [ZMY249B / 110](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919698713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df7ae558-5aca-4144-9305-c2fab1c09204.jpg?v=1766702425
+    Price: $11.39 USD
+  - [ZMY249B / 70](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919731481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df7ae558-5aca-4144-9305-c2fab1c09204.jpg?v=1766702425
+    Price: $10.49 USD
+  - [ZMY249B / 80](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919764249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df7ae558-5aca-4144-9305-c2fab1c09204.jpg?v=1766702425
+    Price: $10.49 USD
+  - [ZMY249B / 90](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919797017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df7ae558-5aca-4144-9305-c2fab1c09204.jpg?v=1766702425
+    Price: $10.99 USD
+  - [ZMY249C / 100](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919829785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
+    Price: $11.29 USD
+  - [ZMY249C / 110](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919862553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
+    Price: $11.39 USD
+  - [ZMY249C / 70](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919895321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
+    Price: $10.49 USD
+  - [ZMY249C / 80](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919928089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
+    Price: $10.49 USD
+  - [ZMY249C / 90](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn?variant=51802919960857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
+    Price: $10.99 USD
+- [Girls' Cotton Short-sleeved T-shirt](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt): Product information: Sleeve length: Short sleeves Fabric process: grinding wool Pattern: Cartoon Whether to trim lint or not: All should be trimmed clean Name of fabric: cotton Main fabric composition: cotton Main fabric component content: 100 (%) Safety level: Class A Collar: Round collar Function: moisture absorption and sweat elimination Size information : Size: 90 cm, 100 cm, 110 cm, 120 cm, 130 cm, 140 cm Precautions: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1X T-shirt
+  Updated: 2025-12-25T22:49:37Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327.jpg?v=1766702456
+  - [A / 100cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920026393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327_b30fffae-62a0-41d5-8e27-56d9cf6ea477.jpg?v=1766702460
+    Price: $9.48 USD
+  - [A / 110cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920059161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327_b30fffae-62a0-41d5-8e27-56d9cf6ea477.jpg?v=1766702460
+    Price: $9.92 USD
+  - [A / 120cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920091929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327_b30fffae-62a0-41d5-8e27-56d9cf6ea477.jpg?v=1766702460
+    Price: $10.35 USD
+  - [A / 130cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920124697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327_b30fffae-62a0-41d5-8e27-56d9cf6ea477.jpg?v=1766702460
+    Price: $10.79 USD
+  - [A / 140cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920157465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327_b30fffae-62a0-41d5-8e27-56d9cf6ea477.jpg?v=1766702460
+    Price: $11.23 USD
+  - [A / 90cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920190233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739327_b30fffae-62a0-41d5-8e27-56d9cf6ea477.jpg?v=1766702460
+    Price: $9.50 USD
+  - [B / 100cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920223001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739332.jpg?v=1766702459
+    Price: $9.48 USD
+  - [B / 110cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920255769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739332.jpg?v=1766702459
+    Price: $9.92 USD
+  - [B / 120cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920288537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739332.jpg?v=1766702459
+    Price: $10.35 USD
+  - [B / 130cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920321305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739332.jpg?v=1766702459
+    Price: $10.79 USD
+  - [B / 140cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920354073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739332.jpg?v=1766702459
+    Price: $11.23 USD
+  - [B / 90cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920386841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739332.jpg?v=1766702459
+    Price: $9.03 USD
+  - [C / 100cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920419609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739334.jpg?v=1766702459
+    Price: $9.48 USD
+  - [C / 110cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920452377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739334.jpg?v=1766702459
+    Price: $9.92 USD
+  - [C / 120cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920485145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739334.jpg?v=1766702459
+    Price: $10.35 USD
+  - [C / 130cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920517913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739334.jpg?v=1766702459
+    Price: $10.79 USD
+  - [C / 140cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920550681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739334.jpg?v=1766702459
+    Price: $11.23 USD
+  - [C / 90cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920583449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739334.jpg?v=1766702459
+    Price: $9.03 USD
+  - [D / 100cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920616217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739336.jpg?v=1766702459
+    Price: $9.48 USD
+  - [D / 110cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920648985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739336.jpg?v=1766702459
+    Price: $9.92 USD
+  - [D / 120cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920681753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739336.jpg?v=1766702459
+    Price: $10.35 USD
+  - [D / 130cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920714521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739336.jpg?v=1766702459
+    Price: $10.79 USD
+  - [D / 140cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920747289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739336.jpg?v=1766702459
+    Price: $11.23 USD
+  - [D / 90cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920780057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739336.jpg?v=1766702459
+    Price: $9.03 USD
+  - [E / 100cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920812825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
+    Price: $9.48 USD
+  - [E / 110cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920845593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
+    Price: $9.92 USD
+  - [E / 120cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920878361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
+    Price: $10.35 USD
+  - [E / 130cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920911129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
+    Price: $10.79 USD
+  - [E / 140cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920943897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
+    Price: $11.23 USD
+  - [E / 90cm](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt?variant=51802920976665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
+    Price: $9.03 USD
+- [Children's printed T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt): Source category: Spot Applicable gender: Neutral / men and women style: Casual sleeve length: short sleeve Suitable for ages: infants and young children (1 ~ 3 years old, 80 ~ 100cm) For the season: Summer Flat stitch pitch 12 ~ 14 stitches / 3cm: Yes Fabric name: knitted Main fabric composition: polyester fiber (polyester) Main fabric composition content: 80 (%) Colors: White, Black Suitable for height: S, M, L, XL, 2XL size age bust length S 0-12M 28 37 M 2-4Y 34 45 L 6-8Y 39 52 XL 10-12Y 43 58 2XL 14-16Y 45 63
+  Updated: 2025-12-25T22:49:37Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2325051426230.jpg?v=1766702565
+  - [Black / L](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921173273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4501708321962.jpg?v=1766702573
+    Price: $8.49 USD
+  - [Black / M](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921206041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4501708321962.jpg?v=1766702573
+    Price: $8.49 USD
+  - [Black / S](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921238809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4501708321962.jpg?v=1766702573
+    Price: $7.99 USD
+  - [Black / XL](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921271577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4501708321962.jpg?v=1766702573
+    Price: $9.99 USD
+  - [Black / XXL](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921304345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4501708321962.jpg?v=1766702573
+    Price: $9.99 USD
+  - [White / L](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921337113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
+    Price: $8.49 USD
+  - [White / M](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921369881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
+    Price: $8.49 USD
+  - [White / S](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921402649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
+    Price: $7.99 USD
+  - [White / XL](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921435417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
+    Price: $8.99 USD
+  - [White / XXL](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt?variant=51802921468185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
+    Price: $9.99 USD
+- [Children's Clothing Cartoon Knitted Heat Press Round Neck T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt): Product information: Style: Europe and America Sleeve length: short sleeve Fabric name: Knitted Main fabric composition: cotton Collar type: round neck Function : Moisture wicking Color : TTTG7 Size Information: Size: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm, 150cm, 160cm Size（Unit：cm） Length Bust 90 40 31 100 43 33 110 46 34 120 49 36 130 52 38 140 56 40 150 59 43 160 62 46 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: T-shirt*1 Product Image:
+  Updated: 2025-12-25T22:47:21Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c78fd3a1-fd75-49fb-b20a-ba8044125767.jpg?v=1766702738
+  - [Black / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802921861401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9127f2ef-4c90-4b53-b34f-5e567cc78ea6.jpg?v=1766702742
+    Price: $12.25 USD
+  - [Black / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802921894169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9127f2ef-4c90-4b53-b34f-5e567cc78ea6.jpg?v=1766702742
+    Price: $12.49 USD
+  - [Black / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802921926937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9127f2ef-4c90-4b53-b34f-5e567cc78ea6.jpg?v=1766702742
+    Price: $12.99 USD
+  - [Black / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802921959705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9127f2ef-4c90-4b53-b34f-5e567cc78ea6.jpg?v=1766702742
+    Price: $13.49 USD
+  - [Black / 150cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802921992473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9127f2ef-4c90-4b53-b34f-5e567cc78ea6.jpg?v=1766702742
+    Price: $13.49 USD
+  - [Black / 160CM](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922025241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9127f2ef-4c90-4b53-b34f-5e567cc78ea6.jpg?v=1766702742
+    Price: $13.99 USD
+  - [TTTG7 / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922058009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $12.49 USD
+  - [TTTG7 / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922090777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $12.49 USD
+  - [TTTG7 / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922123545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $12.99 USD
+  - [TTTG7 / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922156313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $13.49 USD
+  - [TTTG7 / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922189081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $13.99 USD
+  - [TTTG7 / 150cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922221849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $13.99 USD
+  - [TTTG7 / 160CM](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922254617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $14.29 USD
+  - [TTTG7 / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922287385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9198ebe3-bb2e-47d3-b08a-3c3240406b5d.jpg?v=1766702743
+    Price: $12.25 USD
+  - [White / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922320153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $12.25 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922352921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $13.49 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922385689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $12.99 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922418457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $13.29 USD
+  - [White / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922451225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $13.49 USD
+  - [White / 150cm](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922483993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $13.99 USD
+  - [White / 160CM](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt?variant=51802922516761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
+    Price: $14.49 USD
+- [Cartoon Irregular Top Short-sleeved Half-sleeve Big Kids' Trendy Clothes](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes): Product information: Applicable gender: female Style: Korean Suit type: pants suit Number of sets: two sets Gift box content: clothing Suitable age group: middle and large children (over 8 years old, over 140cm) Suitable season: summer, winter, spring, autumn sleeve length: short sleeve Pants length: five-point pants/pants Fabric technology: sanding, soft treatment, enzyme washing Thickness: General Patterns: solid colors, cartoons, letters, abstract Fabric name: Cotton Main fabric composition: cotton Main fabric ingredient content: 95 (%) Closed style: pullover Color: YW2030 black, 2109# gray gray Size Information: Suitable height: 120cm, 130cm, 140cm, 150cm, 160cm, 165cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve*1
+  Updated: 2025-12-25T22:49:03Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052348.jpg?v=1766702837
+  - [Black short sleeve / 120cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922582297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624011042530.jpg?v=1766702842
+    Price: $13.49 USD
+  - [Black short sleeve / 130cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922615065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624011042530.jpg?v=1766702842
+    Price: $13.49 USD
+  - [Black short sleeve / 140cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922647833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624011042530.jpg?v=1766702842
+    Price: $13.99 USD
+  - [Black short sleeve / 150cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922680601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624011042530.jpg?v=1766702842
+    Price: $14.29 USD
+  - [Black short sleeve / 160cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922713369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624011042530.jpg?v=1766702842
+    Price: $14.29 USD
+  - [Black short sleeve / 165cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922746137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624011042530.jpg?v=1766702842
+    Price: $14.99 USD
+  - [Grey pants / 120cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922778905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
+    Price: $9.99 USD
+  - [Grey pants / 130cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922811673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
+    Price: $9.99 USD
+  - [Grey pants / 140cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922844441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
+    Price: $9.99 USD
+  - [Grey pants / 150cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922877209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
+    Price: $10.29 USD
+  - [Grey pants / 160cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922909977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
+    Price: $10.49 USD
+  - [Grey pants / 165cm](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes?variant=51802922942745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
+    Price: $10.79 USD
+- [Love long-sleeved T-shirt children's bottoming shirt](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt): Main fabric composition: cotton size length bust*2 sleeve 90CM 38 24 34 - 100CM 40 25 35 - 110CM 43 27 36 - 120CM 45 28 37 - 130CM 48 60 38 - 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. 1
+  Updated: 2025-12-25T23:25:44Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/356145888372.jpg?v=1766705037
+  - [Beige / 100CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939359513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4013356015440.jpg?v=1766705043
+    Price: $8.99 USD
+  - [Beige / 110CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939392281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4013356015440.jpg?v=1766705043
+    Price: $9.29 USD
+  - [Beige / 120CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939425049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4013356015440.jpg?v=1766705043
+    Price: $8.49 USD
+  - [Beige / 130CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939457817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4013356015440.jpg?v=1766705043
+    Price: $9.29 USD
+  - [Beige / 90CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939490585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4013356015440.jpg?v=1766705043
+    Price: $9.99 USD
+  - [Pink / 100CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939523353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6572670181532.jpg?v=1766705043
+    Price: $9.99 USD
+  - [Pink / 110CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939556121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6572670181532.jpg?v=1766705043
+    Price: $9.29 USD
+  - [Pink / 120CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939588889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6572670181532.jpg?v=1766705043
+    Price: $9.29 USD
+  - [Pink / 130CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939621657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6572670181532.jpg?v=1766705043
+    Price: $9.49 USD
+  - [Pink / 90CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939654425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6572670181532.jpg?v=1766705043
+    Price: $8.99 USD
+  - [black / 100CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939687193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/249828322382.jpg?v=1766705044
+    Price: $8.99 USD
+  - [black / 110CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939719961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/249828322382.jpg?v=1766705044
+    Price: $9.29 USD
+  - [black / 120CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939752729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/249828322382.jpg?v=1766705044
+    Price: $9.29 USD
+  - [black / 130CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939785497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/249828322382.jpg?v=1766705044
+    Price: $9.49 USD
+  - [black / 90CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939818265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/249828322382.jpg?v=1766705044
+    Price: $8.99 USD
+  - [white / 100CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939851033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1497654553891.jpg?v=1766705044
+    Price: $8.99 USD
+  - [white / 110CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939883801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1497654553891.jpg?v=1766705044
+    Price: $9.29 USD
+  - [white / 120CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939916569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1497654553891.jpg?v=1766705044
+    Price: $9.29 USD
+  - [white / 130CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939949337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1497654553891.jpg?v=1766705044
+    Price: $9.49 USD
+  - [white / 90CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802939982105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1497654553891.jpg?v=1766705044
+    Price: $8.99 USD
+  - [yellow / 100CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802940014873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
+    Price: $8.99 USD
+  - [yellow / 110CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802940047641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
+    Price: $9.29 USD
+  - [yellow / 120CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802940080409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
+    Price: $9.29 USD
+  - [yellow / 130CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802940113177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
+    Price: $9.49 USD
+  - [yellow / 90CM](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt?variant=51802940145945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
+    Price: $8.99 USD
+- [Baby Autumn Clothes Clothes  Girl Baby Sweater Girls Children's](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens): Product information: Supply category: spot Applicable gender: female Style: Korean Suitable age: Infants and children (1~3 years old, 80~100cm) Suitable for the season: autumn Fabric technology: soft treatment Pattern: Cartoon Thickness: General Size Information: Suitable height: 70cm, 80cm, 90cm, 100cm Size Length Bust Sleeve Shoulder 70 33 54 26 23 80 56 28 24 90 37 58 30 25 100 39 60 32 26 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1
+  Updated: 2025-12-25T23:28:24Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820.jpg?v=1766705147
+  - [Photo color14 / 100cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942210329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512956432.jpg?v=1766705150
+    Price: $12.49 USD
+  - [Photo color14 / 70cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942243097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512956432.jpg?v=1766705150
+    Price: $11.99 USD
+  - [Photo color14 / 80cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942275865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512956432.jpg?v=1766705150
+    Price: $12.29 USD
+  - [Photo color14 / 90cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942308633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512956432.jpg?v=1766705150
+    Price: $12.49 USD
+  - [Photo color9 / 100cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942341401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1766705150
+    Price: $12.49 USD
+  - [Photo color9 / 70cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942374169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1766705150
+    Price: $11.99 USD
+  - [Photo color9 / 80cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942406937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1766705150
+    Price: $12.29 USD
+  - [Photo color9 / 90cm](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens?variant=51802942439705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1766705150
+    Price: $12.49 USD
+- [Crown King Family Wear Summer New Short-Sleeved T-Shirt Family Wear](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear): Product information: Applicable gender: general Parent-child wear category: T-shirt Applicable people: family wear For the season: Summer Main fabric composition: cotton Main fabric ingredient content: 100 (%) Size Information: Size: 80cm,90cm,100cm,110cm,120cm,130cm,140cm,150cm,66,73,80 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Children's short sleeve *1 Product Image: Full image:
+  Updated: 2025-12-25T23:27:46Z
+  Vendor: The New Age
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/beaf1b59-05ff-4ca7-ad79-9c201452c336.jpg?v=1766705173
+  - [1.Black / 100cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943127833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $14.75 USD
+  - [1.Black / 110cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943160601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $14.97 USD
+  - [1.Black / 120cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943193369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $15.19 USD
+  - [1.Black / 130cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943226137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $15.41 USD
+  - [1.Black / 140cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943258905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $15.62 USD
+  - [1.Black / 150cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943291673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $15.84 USD
+  - [1.Black / 66](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943324441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $13.86 USD
+  - [1.Black / 73](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943357209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $14.08 USD
+  - [1.Black / 80](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943389977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $14.30 USD
+  - [1.Black / 80cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943422745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $14.30 USD
+  - [1.Black / 90cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943455513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f6b62cae-f0d8-4c24-9b0e-4aa1240020a5.jpg?v=1766705179
+    Price: $14.52 USD
+  - [1.White / 100cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943488281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $14.75 USD
+  - [1.White / 110cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943521049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $14.97 USD
+  - [1.White / 120cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943553817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $15.19 USD
+  - [1.White / 130cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943586585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $15.41 USD
+  - [1.White / 140cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943619353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $15.62 USD
+  - [1.White / 150cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943652121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $15.84 USD
+  - [1.White / 66](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943684889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $13.86 USD
+  - [1.White / 73](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943717657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $14.08 USD
+  - [1.White / 80](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943750425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $14.30 USD
+  - [1.White / 80cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943783193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $14.30 USD
+  - [1.White / 90cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943815961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/472cd2f4-9fce-4e67-ab92-2a8874bae183.jpg?v=1766705179
+    Price: $14.52 USD
+  - [Black / 100cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943848729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $14.75 USD
+  - [Black / 110cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943881497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $14.97 USD
+  - [Black / 120cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943914265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $15.19 USD
+  - [Black / 130cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943947033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $15.41 USD
+  - [Black / 140cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802943979801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $15.62 USD
+  - [Black / 150cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944012569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $15.84 USD
+  - [Black / 66](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944045337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $13.86 USD
+  - [Black / 73](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944078105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $14.08 USD
+  - [Black / 80](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944110873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $14.30 USD
+  - [Black / 80cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944143641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $14.30 USD
+  - [Black / 90cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944176409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e039953-1e99-49f3-9014-26c901be4a29.jpg?v=1766705179
+    Price: $14.52 USD
+  - [White / 100cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944209177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $14.75 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944241945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $14.97 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944274713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $15.19 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944307481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $15.41 USD
+  - [White / 140cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944340249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $15.62 USD
+  - [White / 150cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944373017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $15.84 USD
+  - [White / 66](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944405785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $13.86 USD
+  - [White / 73](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944438553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $14.08 USD
+  - [White / 80](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944471321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $14.30 USD
+  - [White / 80cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944504089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $14.30 USD
+  - [White / 90cm](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944536857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd8fa3e4-05b9-4135-b310-111bda38b62c.jpg?v=1766705179
+    Price: $14.52 USD
+  - [WhiteA / King 3XL](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944569625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
+    Price: $15.80 USD
+  - [WhiteA / King L](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944602393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
+    Price: $14.90 USD
+  - [WhiteA / King M](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944635161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
+    Price: $14.86 USD
+  - [WhiteA / King XL](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944667929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
+    Price: $15.17 USD
+  - [WhiteA / King XXL](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944700697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
+    Price: $15.46 USD
+  - [WhiteA / Prince100](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear?variant=51802944733465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
+    Price: $12.17 USD
+- [Children's Short-sleeved T-shirt With Earplugs Pattern](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern): Product information: Sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment Pattern: Cartoon Main fabric composition: cotton Main fabric ingredient content: 90 (%) Collar type: round neck Function: Moisture wicking Color: white, yellow, gray Size Information: Suitable height: 90cm,100cm,110cm,120cm,130cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleevex1 Product Image: Full image:
+  Updated: 2025-12-25T23:29:14Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff01aafa-6204-464f-93fd-12875fae269a.jpg?v=1766705288
+  - [Grey / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947289369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6085e82e-9c17-4180-96c1-239e3f828254.jpg?v=1766705291
+    Price: $8.99 USD
+  - [Grey / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947322137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6085e82e-9c17-4180-96c1-239e3f828254.jpg?v=1766705291
+    Price: $8.99 USD
+  - [Grey / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947354905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6085e82e-9c17-4180-96c1-239e3f828254.jpg?v=1766705291
+    Price: $9.29 USD
+  - [Grey / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947387673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6085e82e-9c17-4180-96c1-239e3f828254.jpg?v=1766705291
+    Price: $9.49 USD
+  - [Grey / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947420441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6085e82e-9c17-4180-96c1-239e3f828254.jpg?v=1766705291
+    Price: $8.79 USD
+  - [White / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947453209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff01aafa-6204-464f-93fd-12875fae269a_4b03c233-ea26-4699-a079-3346d2416b25.jpg?v=1766705292
+    Price: $8.99 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947485977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff01aafa-6204-464f-93fd-12875fae269a_4b03c233-ea26-4699-a079-3346d2416b25.jpg?v=1766705292
+    Price: $8.99 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947518745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff01aafa-6204-464f-93fd-12875fae269a_4b03c233-ea26-4699-a079-3346d2416b25.jpg?v=1766705292
+    Price: $9.29 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947551513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff01aafa-6204-464f-93fd-12875fae269a_4b03c233-ea26-4699-a079-3346d2416b25.jpg?v=1766705292
+    Price: $9.49 USD
+  - [White / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947584281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff01aafa-6204-464f-93fd-12875fae269a_4b03c233-ea26-4699-a079-3346d2416b25.jpg?v=1766705292
+    Price: $8.79 USD
+  - [Yellow / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947617049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
+    Price: $8.99 USD
+  - [Yellow / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947649817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
+    Price: $8.99 USD
+  - [Yellow / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947682585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
+    Price: $9.29 USD
+  - [Yellow / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947715353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
+    Price: $9.49 USD
+  - [Yellow / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern?variant=51802947748121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
+    Price: $8.79 USD
+- [Children's short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt): Applicable gender: neutral/male and female Style: Korean sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment pattern: plain Elements: cartoon, cute, printing AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:32:03Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248.jpg?v=1766705414
+  - [Blue / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt?variant=51802949746969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
+    Price: $8.49 USD
+  - [Blue / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt?variant=51802949779737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
+    Price: $8.69 USD
+  - [Blue / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt?variant=51802949812505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
+    Price: $8.79 USD
+  - [Blue / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt?variant=51802949845273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
+    Price: $8.99 USD
+  - [Blue / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt?variant=51802949878041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
+    Price: $9.29 USD
+  - [Blue / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt?variant=51802949910809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
+    Price: $8.69 USD
+- [Boys Long Sleeve T-shirt Children's Clothing Baby Tops](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops): Product information: Style: Korean Sleeve length:Long sleeve Fabric technology: Soft treatment Pattern: Cartoon Whether the hair/excess thread ends are trimmed: All trimmed clean Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Collar type: Round neck Color: 3557 black Size Information: Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Precaution： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:33:24Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518.jpg?v=1766705475
+  - [Black / 100cm](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops?variant=51802950926617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
+    Price: $9.59 USD
+  - [Black / 110cm](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops?variant=51802950959385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
+    Price: $9.99 USD
+  - [Black / 120cm](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops?variant=51802950992153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
+    Price: $10.19 USD
+  - [Black / 130cm](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops?variant=51802951024921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
+    Price: $10.49 USD
+  - [Black / 140cm](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops?variant=51802951057689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
+    Price: $10.59 USD
+  - [Black / 90cm](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops?variant=51802951090457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
+    Price: $9.49 USD
+- [Short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt): Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Security level: Class A Collar type: round neck Function: moisture wicking 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:37:22Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12187761322880.jpg?v=1766705690
+  - [9973 Ai Green / 130cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954793241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1269194672879.jpg?v=1766705693
+    Price: $8.29 USD
+  - [9973 Army / 100cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954826009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1982191769858.jpg?v=1766705693
+    Price: $8.29 USD
+  - [9973 Army / 110cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954858777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1982191769858.jpg?v=1766705693
+    Price: $8.19 USD
+  - [9973 Army / 120cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954891545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1982191769858.jpg?v=1766705693
+    Price: $8.29 USD
+  - [9973 Army / 130cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954924313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1982191769858.jpg?v=1766705693
+    Price: $8.39 USD
+  - [9973 Army / 140cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954957081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1982191769858.jpg?v=1766705693
+    Price: $8.49 USD
+  - [9973 Army / 90cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802954989849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1982191769858.jpg?v=1766705693
+    Price: $8.09 USD
+  - [9973 Beige / 100cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955022617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/518713883800.jpg?v=1766705693
+    Price: $8.29 USD
+  - [9973 Beige / 110cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955055385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/518713883800.jpg?v=1766705693
+    Price: $8.19 USD
+  - [9973 Beige / 120cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955088153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/518713883800.jpg?v=1766705693
+    Price: $8.29 USD
+  - [9973 Beige / 130cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955120921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/518713883800.jpg?v=1766705693
+    Price: $8.39 USD
+  - [9973 Beige / 140cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955153689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/518713883800.jpg?v=1766705693
+    Price: $8.49 USD
+  - [9973 Beige / 90cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955186457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/518713883800.jpg?v=1766705693
+    Price: $8.09 USD
+  - [9973 Golden / 100cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955219225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
+    Price: $8.19 USD
+  - [9973 Golden / 110cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955251993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
+    Price: $8.29 USD
+  - [9973 Golden / 120cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955284761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
+    Price: $8.39 USD
+  - [9973 Golden / 130cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955317529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
+    Price: $8.49 USD
+  - [9973 Golden / 140cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955350297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
+    Price: $8.49 USD
+  - [9973 Golden / 90cm](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt?variant=51802955383065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
+    Price: $8.09 USD
+- [Summer Children's Short Sleeve T Shirt For Boys](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys): Product information: Fabric technology: soft treatment Pattern: Cartoon Fabric Name: Cotton Main fabric composition: cotton Suitable for age Middle and small children (3~8 years old, 100~140cm) Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve X1 Product Image:
+  Updated: 2025-12-25T23:37:56Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524.jpg?v=1766705736
+  - [Green / 100cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956169497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524_749053c7-f4f8-4292-8775-fdc55808ac77.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Green / 110cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956202265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524_749053c7-f4f8-4292-8775-fdc55808ac77.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Green / 120cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956235033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524_749053c7-f4f8-4292-8775-fdc55808ac77.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Green / 130cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956267801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524_749053c7-f4f8-4292-8775-fdc55808ac77.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Green / 140cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956300569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524_749053c7-f4f8-4292-8775-fdc55808ac77.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Green / 90cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956333337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1576524969524_749053c7-f4f8-4292-8775-fdc55808ac77.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Grey / 100cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956366105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9980b4dc-bbc1-4603-986e-7d56e1e695a1.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Grey / 110cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956398873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9980b4dc-bbc1-4603-986e-7d56e1e695a1.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Grey / 120cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956431641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9980b4dc-bbc1-4603-986e-7d56e1e695a1.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Grey / 130cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956464409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9980b4dc-bbc1-4603-986e-7d56e1e695a1.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Grey / 140cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956497177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9980b4dc-bbc1-4603-986e-7d56e1e695a1.jpg?v=1766705740
+    Price: $8.99 USD
+  - [Grey / 90cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956529945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9980b4dc-bbc1-4603-986e-7d56e1e695a1.jpg?v=1766705740
+    Price: $8.99 USD
+  - [White / 100cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956562713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
+    Price: $8.99 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956595481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
+    Price: $8.99 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956628249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
+    Price: $8.99 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956661017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
+    Price: $8.99 USD
+  - [White / 140cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956693785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
+    Price: $8.99 USD
+  - [White / 90cm](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys?variant=51802956726553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
+    Price: $8.99 USD
+- [Dinosaurs in Big Kids Costume](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume): Whether to hooded: not hooded Sleeve length: long sleeve Fabric technology: soft treatment size Length bust Shoulder width Sleeve Length 110 46 63 27 38 120 49 69 28 41 130 52 72 30 44 140 54 74 32 46 150 56 77 34 48 160 58 80 35 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:37:44Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992.jpg?v=1766705766
+  - [Grey / 110cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957283609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992_30047485-edc1-4555-8461-a5ca2b32d7ba.jpg?v=1766705769
+    Price: $12.28 USD
+  - [Grey / 120cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957316377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992_30047485-edc1-4555-8461-a5ca2b32d7ba.jpg?v=1766705769
+    Price: $12.50 USD
+  - [Grey / 130cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957349145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992_30047485-edc1-4555-8461-a5ca2b32d7ba.jpg?v=1766705769
+    Price: $12.73 USD
+  - [Grey / 140cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957381913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992_30047485-edc1-4555-8461-a5ca2b32d7ba.jpg?v=1766705769
+    Price: $12.95 USD
+  - [Grey / 150cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957414681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992_30047485-edc1-4555-8461-a5ca2b32d7ba.jpg?v=1766705769
+    Price: $13.17 USD
+  - [Grey / 160cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957447449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6274656817992_30047485-edc1-4555-8461-a5ca2b32d7ba.jpg?v=1766705769
+    Price: $13.39 USD
+  - [Water blue / 110cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957480217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1959057844811.jpg?v=1766705769
+    Price: $12.28 USD
+  - [Water blue / 120cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957512985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1959057844811.jpg?v=1766705769
+    Price: $12.50 USD
+  - [Water blue / 130cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957545753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1959057844811.jpg?v=1766705769
+    Price: $12.73 USD
+  - [Water blue / 140cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957578521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1959057844811.jpg?v=1766705769
+    Price: $12.95 USD
+  - [Water blue / 150cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957611289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1959057844811.jpg?v=1766705769
+    Price: $13.17 USD
+  - [Water blue / 160cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957644057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1959057844811.jpg?v=1766705769
+    Price: $13.39 USD
+  - [White / 110cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957676825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2277871450365.jpg?v=1766705769
+    Price: $12.28 USD
+  - [White / 120cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957709593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2277871450365.jpg?v=1766705769
+    Price: $12.50 USD
+  - [White / 130cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957742361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2277871450365.jpg?v=1766705769
+    Price: $12.73 USD
+  - [White / 140cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957775129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2277871450365.jpg?v=1766705769
+    Price: $12.95 USD
+  - [White / 150cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957807897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2277871450365.jpg?v=1766705769
+    Price: $13.17 USD
+  - [White / 160cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957840665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2277871450365.jpg?v=1766705769
+    Price: $13.39 USD
+  - [Yellow / 110cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957873433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
+    Price: $12.28 USD
+  - [Yellow / 120cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957906201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
+    Price: $12.50 USD
+  - [Yellow / 130cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957938969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
+    Price: $12.73 USD
+  - [Yellow / 140cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802957971737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
+    Price: $12.95 USD
+  - [Yellow / 150cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802958004505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
+    Price: $13.17 USD
+  - [Yellow / 160cm](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume?variant=51802958037273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
+    Price: $13.39 USD
+- [Child short sleeve t-shirt boy half sleeve](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve): Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: Animal Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9063A waterfall green, 9063B khaki, 9063C flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140 Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
+  Updated: 2025-12-25T23:49:18Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2566644401792.jpg?v=1766705816
+  - [Ash / 100cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958233881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1320932856518.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Ash / 110cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958266649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1320932856518.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Ash / 120cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958299417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1320932856518.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Ash / 130cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958332185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1320932856518.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Ash / 140cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958364953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1320932856518.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Ash / 90cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958397721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1320932856518.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Falls Green / 100cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958430489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/194193071325.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Falls Green / 110cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958463257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/194193071325.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Falls Green / 120cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958496025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/194193071325.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Falls Green / 130cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958528793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/194193071325.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Falls Green / 140cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958561561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/194193071325.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Falls Green / 90cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958594329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/194193071325.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Khaki / 100cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958627097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Khaki / 110cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958659865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Khaki / 120cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958692633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Khaki / 130cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958725401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Khaki / 140cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958758169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
+    Price: $8.49 USD
+  - [Khaki / 90cm](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve?variant=51802958790937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
+    Price: $8.49 USD
+- [Children''s Wear Summer New Boys T-shirt, Short Sleeve Korean Children''s Clothing, Baby Clothing, A Ready-to-be Factory Direct Selling](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling): Applicable gender: neutral / male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: cartoon Element: Cartoon, Chao Fan Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9121 flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
+  Updated: 2025-12-25T23:49:17Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540.jpg?v=1766705862
+  - [9121 flower ash / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958856473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
+    Price: $8.79 USD
+  - [9121 flower ash / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958889241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
+    Price: $8.79 USD
+  - [9121 flower ash / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958922009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
+    Price: $8.79 USD
+  - [9121 flower ash / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958954777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
+    Price: $8.79 USD
+  - [9121 flower ash / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958987545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
+    Price: $8.79 USD
+  - [9121 flower ash / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802959020313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
+    Price: $8.79 USD
+- [Printed t-shirt](https://the-new-age-7647.myshopify.com/products/printed-t-shirt): Material: Cotton 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:49:19Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1236962432335.jpg?v=1766706085
+  - [Grey  brother / 100cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962788633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1051711099345.jpg?v=1766706091
+    Price: $11.29 USD
+  - [Grey  brother / 120cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962821401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1051711099345.jpg?v=1766706091
+    Price: $11.49 USD
+  - [Grey  brother / 130cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962854169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1051711099345.jpg?v=1766706091
+    Price: $11.89 USD
+  - [Grey  brother / 140cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962886937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1051711099345.jpg?v=1766706091
+    Price: $12.29 USD
+  - [Grey  sister / 100cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962919705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6891931368589.jpg?v=1766706090
+    Price: $11.29 USD
+  - [Grey  sister / 120cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962952473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6891931368589.jpg?v=1766706090
+    Price: $11.49 USD
+  - [Grey  sister / 130cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802962985241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6891931368589.jpg?v=1766706090
+    Price: $11.89 USD
+  - [Grey  sister / 140cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802963018009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6891931368589.jpg?v=1766706090
+    Price: $12.29 USD
+  - [Grey Little brother / 60cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802963050777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1766706090
+    Price: $10.99 USD
+  - [Grey Little brother / 70cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802963083545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1766706090
+    Price: $11.19 USD
+  - [Grey Little brother / 80cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802963116313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1766706090
+    Price: $11.19 USD
+  - [Grey Little brother / 90cm](https://the-new-age-7647.myshopify.com/products/printed-t-shirt?variant=51802963149081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1766706090
+    Price: $11.29 USD
+- [Dinosaur Kids T-shirt](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt): sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) For the season: Summer Fabric technology: soft treatment Pattern: cartoon, animal, solid color Elements: cartoon, cute, sports AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:45:05Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149.jpg?v=1766706195
+  - [Blue / 100cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965115161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1734078516064.jpg?v=1766706198
+    Price: $8.75 USD
+  - [Blue / 110cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965147929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1734078516064.jpg?v=1766706198
+    Price: $10.97 USD
+  - [Blue / 120cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965180697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1734078516064.jpg?v=1766706198
+    Price: $11.19 USD
+  - [Blue / 130cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965213465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1734078516064.jpg?v=1766706198
+    Price: $11.41 USD
+  - [Blue / 140cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965246233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1734078516064.jpg?v=1766706198
+    Price: $11.64 USD
+  - [Blue / 90cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965279001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1734078516064.jpg?v=1766706198
+    Price: $10.54 USD
+  - [Yellow / 100cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965311769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
+    Price: $10.75 USD
+  - [Yellow / 110cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965344537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
+    Price: $10.97 USD
+  - [Yellow / 120cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965377305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
+    Price: $11.19 USD
+  - [Yellow / 130cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965410073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
+    Price: $11.41 USD
+  - [Yellow / 140cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965442841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
+    Price: $11.64 USD
+  - [Yellow / 90cm](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt?variant=51802965475609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
+    Price: $10.54 USD
+- [Children's T-shirt Numbers 1-9 Birthday T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt): style: Casual sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Pattern: Cartoon Fabric: Polyester fiber (polyester) size Bust*2 Length S 30 38 M 32 41 L 34 44 XL 36 47 2XL 38 49 3XL 40 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-25T23:49:23Z
+  Vendor: The New Age
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554.jpg?v=1766706226
+  - [1style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802965999897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554_edb8bb47-efaf-4b52-9bb3-50f66c3673bb.jpg?v=1766706230
+    Price: $12.04 USD
+  - [1style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966032665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554_edb8bb47-efaf-4b52-9bb3-50f66c3673bb.jpg?v=1766706230
+    Price: $11.38 USD
+  - [1style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966065433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554_edb8bb47-efaf-4b52-9bb3-50f66c3673bb.jpg?v=1766706230
+    Price: $11.17 USD
+  - [1style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966098201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554_edb8bb47-efaf-4b52-9bb3-50f66c3673bb.jpg?v=1766706230
+    Price: $10.95 USD
+  - [1style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966130969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554_edb8bb47-efaf-4b52-9bb3-50f66c3673bb.jpg?v=1766706230
+    Price: $11.60 USD
+  - [1style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966163737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2435436688554_edb8bb47-efaf-4b52-9bb3-50f66c3673bb.jpg?v=1766706230
+    Price: $11.82 USD
+  - [2style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966196505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2607722446001.jpg?v=1766706230
+    Price: $12.04 USD
+  - [2style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966229273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2607722446001.jpg?v=1766706230
+    Price: $11.38 USD
+  - [2style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966262041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2607722446001.jpg?v=1766706230
+    Price: $11.17 USD
+  - [2style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966294809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2607722446001.jpg?v=1766706230
+    Price: $10.95 USD
+  - [2style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966327577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2607722446001.jpg?v=1766706230
+    Price: $11.60 USD
+  - [2style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966360345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2607722446001.jpg?v=1766706230
+    Price: $11.82 USD
+  - [3style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966393113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1168955096519.jpg?v=1766706230
+    Price: $12.04 USD
+  - [3style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966425881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1168955096519.jpg?v=1766706230
+    Price: $11.38 USD
+  - [3style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966458649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1168955096519.jpg?v=1766706230
+    Price: $11.17 USD
+  - [3style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966491417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1168955096519.jpg?v=1766706230
+    Price: $10.95 USD
+  - [3style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966524185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1168955096519.jpg?v=1766706230
+    Price: $11.60 USD
+  - [3style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966556953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1168955096519.jpg?v=1766706230
+    Price: $11.82 USD
+  - [4style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966589721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1130737188731.jpg?v=1766706230
+    Price: $12.04 USD
+  - [4style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966622489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1130737188731.jpg?v=1766706230
+    Price: $11.38 USD
+  - [4style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966655257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1130737188731.jpg?v=1766706230
+    Price: $11.17 USD
+  - [4style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966688025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1130737188731.jpg?v=1766706230
+    Price: $10.95 USD
+  - [4style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966720793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1130737188731.jpg?v=1766706230
+    Price: $11.60 USD
+  - [4style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966753561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1130737188731.jpg?v=1766706230
+    Price: $11.82 USD
+  - [5style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966786329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2230606350814.jpg?v=1766706230
+    Price: $12.04 USD
+  - [5style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966819097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2230606350814.jpg?v=1766706230
+    Price: $11.38 USD
+  - [5style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966851865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2230606350814.jpg?v=1766706230
+    Price: $11.17 USD
+  - [5style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966884633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2230606350814.jpg?v=1766706230
+    Price: $10.95 USD
+  - [5style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966917401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2230606350814.jpg?v=1766706230
+    Price: $11.60 USD
+  - [5style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966950169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2230606350814.jpg?v=1766706230
+    Price: $11.82 USD
+  - [6style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802966982937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1522493933561.jpg?v=1766706230
+    Price: $12.04 USD
+  - [6style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967015705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1522493933561.jpg?v=1766706230
+    Price: $11.38 USD
+  - [6style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967048473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1522493933561.jpg?v=1766706230
+    Price: $11.17 USD
+  - [6style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967081241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1522493933561.jpg?v=1766706230
+    Price: $10.95 USD
+  - [6style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967114009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1522493933561.jpg?v=1766706230
+    Price: $11.60 USD
+  - [6style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967146777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1522493933561.jpg?v=1766706230
+    Price: $11.82 USD
+  - [7style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967179545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/132926687557.jpg?v=1766706230
+    Price: $12.04 USD
+  - [7style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967212313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/132926687557.jpg?v=1766706230
+    Price: $11.38 USD
+  - [7style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967245081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/132926687557.jpg?v=1766706230
+    Price: $11.17 USD
+  - [7style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967277849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/132926687557.jpg?v=1766706230
+    Price: $9.08 USD
+  - [7style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967310617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/132926687557.jpg?v=1766706230
+    Price: $11.60 USD
+  - [7style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967343385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/132926687557.jpg?v=1766706230
+    Price: $11.82 USD
+  - [8style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967376153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3372856026583.jpg?v=1766706230
+    Price: $12.04 USD
+  - [8style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967408921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3372856026583.jpg?v=1766706230
+    Price: $11.38 USD
+  - [8style / M](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967441689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3372856026583.jpg?v=1766706230
+    Price: $11.17 USD
+  - [8style / S](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967474457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3372856026583.jpg?v=1766706230
+    Price: $10.95 USD
+  - [8style / XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967507225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3372856026583.jpg?v=1766706230
+    Price: $11.60 USD
+  - [8style / XXL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967539993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3372856026583.jpg?v=1766706230
+    Price: $11.82 USD
+  - [9style / 3XL](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967572761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2753375207714.jpg?v=1766706230
+    Price: $12.04 USD
+  - [9style / L](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt?variant=51802967605529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2753375207714.jpg?v=1766706230
+    Price: $11.38 USD
+[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNTgxODQ2ODYzMywibGFzdF92YWx1ZSI6IjEwMjI1ODE4NDY4NjMzIn0=)
 
 ## Collections
 
 - [Discover Top Phone Accessories for Your Mobile Devices | Shop Now](https://the-new-age-7647.myshopify.com/collections/phone-accessories): Explore our wide range of Phone Accessories to enhance and protect your device. Shop high-quality Phone Accessories today for style and functionality.
-  Updated: 2025-12-24T22:51:17Z
-  Total Products: 4
+  Updated: 2025-12-25T06:30:25Z
+  Total Products: 7
 - [Pet Accessories Collection - Stylish & Durable Accessories for Your Pets](https://the-new-age-7647.myshopify.com/collections/pet-accessories): Discover our Pet Accessories collection featuring stylish, durable pet accessories perfect for your furry friends. Shop now for quality Pet Accessories that suit every pet's style.
-  Updated: 2025-12-24T22:44:56Z
-  Total Products: 9
+  Updated: 2025-12-25T06:34:21Z
+  Total Products: 16
 - [Explore Top Fitness Gear & Accessories - Enhance Your Fitness Journey](https://the-new-age-7647.myshopify.com/collections/fitness): Discover the best fitness equipment and accessories in our Fitness collection. Get motivated and achieve your health goals with our top-quality fitness products.
   Updated: 2025-12-24T22:46:15Z
   Total Products: 14
 - [Explore Top Toys & Hobbies for All Ages | Wide Selection & Great Deals](https://the-new-age-7647.myshopify.com/collections/toys-hobbies): Discover the best Toys & Hobbies collection with a wide selection for all ages. Shop now for exciting toys, hobbies, and gifts at unbeatable prices.
-  Updated: 2025-12-24T22:49:00Z
-  Total Products: 5
+  Updated: 2025-12-25T06:18:26Z
+  Total Products: 9
 - [Shop High-Quality Computer Accessories | Enhance Your Workspace](https://the-new-age-7647.myshopify.com/collections/computer-accessories): Discover our premium collection of Computer Accessories to boost productivity and efficiency. Shop now for high-quality peripherals and tech essentials.
   Updated: 2025-12-24T22:56:45Z
   Total Products: 3
 - [Lights & Home Security Collection | Enhance Your Home Safety & Design](https://the-new-age-7647.myshopify.com/collections/lights-home-security): Discover our Lights & Home Security collection to upgrade your home’s safety and ambiance. Find the perfect lighting and security solutions today.
-  Updated: 2025-12-24T22:52:55Z
-  Total Products: 4
+  Updated: 2025-12-25T06:26:54Z
+  Total Products: 7
 - [Shop Premium Bedding Collection | Comfortable & Stylish Bedding Items](https://the-new-age-7647.myshopify.com/collections/bedding): Explore our Bedding collection for high-quality, comfortable, and stylish bedding. Perfect for a cozy home upgrade, featuring the best Bedding options.
   Updated: 2025-12-24T22:54:24Z
   Total Products: 5
 - [Jewelry Collection | Unique and Elegant Jewelry Pieces for Every Occasion](https://the-new-age-7647.myshopify.com/collections/jewelry): Explore our exclusive jewelry collection featuring stunning, high-quality jewelry. Find the perfect jewelry piece to elevate your style today.
-  Updated: 2025-12-24T22:55:55Z
-  Total Products: 5
+  Updated: 2025-12-25T06:37:00Z
+  Total Products: 10
+- [Shop Trendy Apparel Collection for Men and Women - Best Prices](https://the-new-age-7647.myshopify.com/collections/apparel): Explore our Apparel collection for stylish men and women. Find the latest trends and quality clothing at unbeatable prices. Shop now for your perfect Apparel!
+  Updated: 2025-12-25T06:22:35Z
+  Total Products: 1
+- [Boys Shirts](https://the-new-age-7647.myshopify.com/collections/boys-shirts)
+  Updated: 2025-12-25T23:44:11Z
+  Total Products: 12
+- [Girls Shirts](https://the-new-age-7647.myshopify.com/collections/girls-shirts)
+  Updated: 2025-12-25T23:25:52Z
+  Total Products: 13
 
 ## Blogs
 
