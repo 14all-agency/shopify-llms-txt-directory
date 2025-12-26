@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-12-23T00:00:44.396Z
+- Updated At: 2025-12-26T00:00:44.149Z
 
 ## Products
 
@@ -1655,13 +1655,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/2377/0938/files/101_85a5432a-0afc-49c4-9bca-0daa7a0c5831.jpg?v=1759242466
   Price: AED 170.00 AED
-- [Wooden QR Stand with Logo Prints](https://woodbarrow.com/products/wooden-qr-stand-with-logo-prints): Increase engagement and brand visibility with our wooden QR stand. It integrates traditional elegance with modern digital interaction and features a customizable QR code and logo printing for a professional and branded experience. Perfect for retail, events, and more.
-  Updated: 2025-09-30T14:27:58Z
-  Vendor: Wood Barrow Art Crafts
-  Product Type: QR Code Stand
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0906/2377/0938/files/171_508aafb5-9768-42c1-8968-307ec176a6c0.jpg?v=1759242472
-  Price: AED 65.00 AED
 - [Solid Oak Wooden Chopping Board/Tray](https://woodbarrow.com/products/solid-oak-wooden-chopping-board-tray-1): Introducing our Solid Oak Wooden Chopping Board/Tray, a versatile and durable addition to your kitchen arsenal. Crafted from high-quality oak wood, this multifunctional piece seamlessly transitions between a sturdy chopping board and an elegant serving tray. Its solid construction and natural wood grain make it not only a reliable surface for chopping fruits, vegetables, and meats but also a stylish platform for presenting appetizers, cheeses, or charcuterie. With its dual functionality and timeless design, this chopping board/tray combination offers convenience and sophistication for all your culinary needs. Elevate your cooking and entertaining experience with the warmth and beauty of solid oak wood in your kitchen.
   Updated: 2025-09-30T14:28:10Z
   Vendor: Wood Barrow Art Crafts
