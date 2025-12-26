@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-25T00:00:40.773Z
+- Updated At: 2025-12-26T00:00:43.104Z
 
 ## Products
 
@@ -1256,7 +1256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/Aboveviewoceanpuzzlemock-up.jpg?v=1742051518
   Price: 8,00 € EUR
 - [Tazza '  Dillo a modo tuo'  fai una dedica carica una foto e noi facciamo la magia](https://www.amashopstudio.it/products/tazza-dillo-a-modo-tuo-fai-una-dedica-carica-una-foto-e-noi-facciamo-la-magia): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. 🎁 È il REGALO PERFETTO per chi ami Carica la foto e creiamo il cartone per rendere unica la tua tazza
-  Updated: 2025-09-17T14:59:35Z
+  Updated: 2025-12-25T12:24:04Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
