@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-12-15T00:00:46.649Z
+- Updated At: 2025-12-26T00:00:45.520Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Available
     Price: ₹790.00 INR
 - [Buy ​United Medicare Contoured Back Support (A-02) - Surgismart](https://surgismart.in/products/a-02): Key Features:Contoured back support for compressing and maintaining the lumbar and sacral regions in a neutral position. Anatomically contoured, rigid splints provide effective immobilisation and maintain correct posture. Malleable aluminium splints can be customised for accurate shape and enhanced immobilisation. Double-pull mechanism enhances compression and splinting action. Eva foam back pads offer high cushioning in thin sections and enhance comfort. Direction of Use: Wrap the Contoured Back Support around your waist. Close the hook and loop as per your comfort. Now, stretch and fasten the double pull mechanism tightly to add firmness and grip. Size Chart: Size S  28 to 32 inches (70 to 80 cm). Size M  32 to 36 inches (80 to 90 cm). Size L  36 to 40 inches (90 to 100 cm). Size XL  40 to 44 inches (100 to 110 cm). Size XXL  44 to 48 inches (110 to 120 cm). Safety Information: Wash at least once a week. Dont wear it too tight. Keep out of reach of children. Contoured back support is used for compressing and maintaining the lumbar and sacral regions in a neutral position.It is not recommended to wear the back support while sleeping unless advised by your doctor.Contoured back supports can be used by people who have lumbar spondylitis, Spondylolisthesis, lumbago, or postural fatigue.Contoured back support is used to prevent unnecessary movements that further damage the back. It provides immobilisation in the neutral position to stabilise the vertebral fractures.UM contoured back support has an anatomically contoured splint and malleable aluminium splints; it delivers effective immobilisation, helps maintain correct posture, thus relieving pain and discomfort.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:32Z
+  Updated: 2025-12-16T01:20:34Z
   Vendor: United Medicare
   Product Type: Back Support
   Availability: Available
@@ -128,7 +128,7 @@
     Availability: Available
     Price: ₹1,150.00 INR
 - [Buy ​United Medicare Hernia Belt (A-14) - Surgismart](https://surgismart.in/products/a-14): Key Features:UM hernia belt is ideal to be used for inguinal hernias, weak inguinal muscles, and post-operative support. It has etha foam pads that are light in weight, smooth and comfortable to wear. Adjustable pelvic and leg straps for perfect fitting and customised pressure. Hernia pad is moulded out of special-grade ethafoam material for appropriate hardness. Specially designed hernia belt provides gentle and controlled pressure. Direction of use Place the hernia support belt around your hips so that the hernia pads come over the groin area. Then press the inguinal aperture at the correct angle. Adjust the pelvic and leg straps for your comfort. Wear your hernia belt tightly but not too tight. Safety information Hand wash with mild detergent. Dont dry clean; dont iron or bleach. Dont wear it too tight. Size chart Size S  28 to 32 inches (70 to 80 cm). Size M  32 to 36 inches (80 to 90 cm). Size L  36 to 40 inches (90 to 100 cm). Size XL  40 to 44 inches (100 to 110 cm). Size XXL  44 to 48 inches (110 to 120 cm). Note: Measure circumference around the waist (2 inch below naval). UM hernia belt is designed to relieve pain from painful hernias. That belt provides even pressure around the abdominal area and provides a perfect fit that ensures customised pressure.United medicare hernia belt is available in 5 different sizes: S, M, L, XL, and XXL, so you can choose your suitable sizes from the hernia belt sizes chart.UM hernia belt helps to relieve pain and discomfort from the inguinal hernia. Its moulded etha foam pads are light in weight, smooth, and comfortable for hernias and has adjustable leg and abdominal straps for perfect fitting.Hernia belt is used by people who have inguinal hernias, pre- and post-surgical weakness, and weak inguinal muscles.Hernia belt is made of moulded etha foam material which provides light weight, is smooth and comfortable.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:32Z
+  Updated: 2025-12-20T09:04:08Z
   Vendor: United Medicare
   Product Type: Hernia Support
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Available
     Price: ₹1,050.00 INR
 - [Buy ​United Medicare Ab Wrap Neoprene (A-19) - Surgismart](https://surgismart.in/products/a-19): Key Features: Abs wrap is used to aid in weight loss, but it can also improve your posture and tone your abs. Durable, high-quality perforated neoprene fabric provides excellent, comfortable support. The front panel allows for a wider range of adjustability and easy application. Provides better support and compression for the abdominal muscles. It is primarily used for waistline reduction and as a postoperative aid. Direction of use Wrap the abdominal support around your waist. Use the hook and large loop closures to adjust the tightness. Ensure the desired abdominal region is enclosed properly. Safety information Hand wash it with mild detergent and water. Dont wear it too tight. Keep out of reach of children. Size chart Size Universal  28 to 44 inches (71 to 112 cm). Size XXL  44 to 52 inches (112 to 132 cm). UM abs wrap helps tone up loose abdominal muscles and provides firm compression. It allows for a wider range of adjustability and easy application.Yes, UM Abs wrap can reduce abdominal laxity by toning abdominal muscles, it also can improve your posture.Abs wrap is used for people who have lumbosacral pain, lumboscatice, weak and atonic muscles,pre-and post-operative, spondylarthrosis and tone abs.The UM abs wrap is used to tone up the abdominal muscles. It supports and compresses the abdominal muscles for waistline reduction and also can be used as a postoperative aid.Hand wash it with light detergent and water after each usage, and dont wear it too tight, keep it out of reach of children. Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:32Z
+  Updated: 2025-12-24T10:49:37Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
@@ -653,7 +653,7 @@
     Availability: Available
     Price: ₹1,150.00 INR
 - [Buy ​United Medicare Knee Immobilizer Short Type 14 (F-05) - Surgismart](https://surgismart.in/products/f-05): Key Features:A well-fitting, comfortable knee immobiliser designed to maintain knee extension following surgery, trauma, and soft tissue injuries. The extra patellar straps add extra production to the knee. A foam-laminated wrap with a cotton lining and an anatomically contoured aluminium splint ensure perfect immobilisation. Offers knee immobilisation following fractures, muscular ligament injuries, and dislocations. UM knee immobiliser, consisting of a patella pad, polycentric joint, condyle airbag, and inflation system Direction of use Prepare the knee brace and straps. Position the immobilizer behind the leg, centered behind the knee. Align the patellar cutout of the immobilizer over the patella. Use the fastening straps above and below the knee to secure the immobilizer Safety information Any open wounds must be properly covered by the knee immobilizer. Hand wash in warm, soapy water, then thoroughly rinse and air dry The knee joint is supported and immobilised using a knee immobiliser. It can be utilised to stop further damage and speed healing following knee surgery or an injury.Knee immobilisers are used following surgery or in the case of a severe knee injury. They are prescribed by doctors or physical therapists to keep the knee stable and prevent further damage after injury or surgery.It is not recommended that you use the Knee Immobiliser while you sleep because it could be uncomfortable and disturb your rest.The knee immobiliser is designed to be used for walking while protecting the injuries and wearing a brace can improve your ability to get around, help you walk farther comfortably, and lift your legs straight.The knee immobiliser short type is available in 5 different sizes: X, L, M, XL, and XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:24Z
+  Updated: 2025-12-20T23:39:59Z
   Vendor: United Medicare
   Product Type: Knee Brace
   Availability: Available
@@ -2418,14 +2418,14 @@
     Availability: Available
     Price: ₹904.00 INR
 - [Buy ​Vein-O-Line Extension Set (10 cm) - Surgismart](https://surgismart.in/products/vein-o-line-extension-set-10-cm): Low pressure large bore extension line made up of PVC. Used primarily to connect the transducer system to the indwelling catheter. Male luer lock at one end and 3-way stop cock at other enabling the user to run two lines simultaneously. Three way stop cock may be used for blood sampling or extra medication. Can sustain a pressure upto 7 kg/ cm² or 100 psi. Sterile, individually packed in Blister pack. Product Specifications: Brand Romsons Generic Name Extension Line With Male Luer Lock And 3 Way Stop Cock Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265303404 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:38Z
+  Updated: 2025-12-16T10:41:27Z
   Vendor: Romsons
   Product Type: Extension Line
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/vein_o_line_a312d3ab-184c-4a8b-a7e9-31c92993688f.png?v=1751478170
   Price: ₹1,642.00 INR
 - [Buy ​RMS Infusion Set - Surgismart](https://surgismart.in/products/rms-infusion-set): Sharp piercing spike for easy insertion in I.V container. Infusion set with built in air vent and bacteria barrier hydrophobic filter. Specially designed transparent cylindrical collapsible drip chamber to visualize the flow rate. Disc type 15μm fluid filter at the bottom of drip chamber filters any particulate matter in the I.V fluid. Provided with latex free “Y” type injection port made up of poly isoprene for additional medication. Efficient roller controller ensures better flow control. Provided with super smooth kink resistant tube for unobstructed flow. Fixed Luer lock for secure connection to all standard devices. Sterile, disposable, non-pyrogenic, individually packed. Product Specifications: Brand Romsons Generic Name Infusion Set Manufacturer Name and Address Romsons Group Private Limited Plant-2, C-1 & C-2, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2021/000151 EAN 18907265306207 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:38Z
+  Updated: 2025-12-20T03:01:50Z
   Vendor: Romsons
   Product Type: Infusion Set
   Availability: Available
@@ -3173,7 +3173,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic New Gen Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-12-11T07:43:47Z
+  Updated: 2025-12-19T12:25:24Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3208,7 +3208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic New Gen Scrubsuit, Free Head Cap & Mask](https://surgismart.in/products/classic-new-gen-scrubsuit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. 🩺 Practical Storage: Designed for convenience, this set includes a total of 2 practical pockets Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-12-11T07:44:53Z
+  Updated: 2025-12-25T08:00:10Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-12-14T12:20:51Z
+  Updated: 2025-12-25T12:14:19Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-12-14T12:20:51Z
+  Updated: 2025-12-25T12:14:19Z
   Total Products: 5
 
 ## Blogs
@@ -3486,7 +3486,7 @@
 - [Shipping Policy](https://surgismart.in/policies/shipping-policy)
   Updated: 2025-05-09T19:25:48+05:30
 - [Refund Policy](https://surgismart.in/policies/refund-policy)
-  Updated: 2025-05-09T19:26:49+05:30
+  Updated: 2025-12-23T19:57:47+05:30
 - [Terms of Service](https://surgismart.in/policies/terms-of-service)
   Updated: 2025-05-09T19:24:56+05:30
 - [Contact Information](https://surgismart.in/policies/contact-information)
