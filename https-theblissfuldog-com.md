@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-12-25T00:00:55.805Z
+- Updated At: 2025-12-26T00:00:53.078Z
 
 ## Products
 
@@ -8183,7 +8183,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/XOLO-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738671631
     Price: $11.95 USD
 - [Is Your Curly-Coated Retriever Afraid of Thunder? Fireworks?](https://theblissfuldog.com/products/curly-coated-retriever-relax-dog-aromatherapy): Is Your Curly-Coated Retriever Afraid of Thunderstorms? Being Alone? Relax Dog Aromatherapy comforts your dog with out calming blend of essential oils.
-  Updated: 2025-10-16T15:40:31Z
+  Updated: 2025-12-25T11:40:41Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -14459,7 +14459,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCWT_COMBO_2022.jpg?v=1651087116
   Price: $19.95 USD
 - [Create a Soft Coated Wheaten Terrier Care Kit for Your Dog's Skin Care](https://theblissfuldog.com/products/soft-coated-wheaten-terrier-custom-combo): The Blissful Dog Soft Coated Wheaten Terrier Care Kit with all natural, handcrafted balms for your dog's dry nose, rough paws and itchy skin issues.
-  Updated: 2025-12-22T22:05:15Z
+  Updated: 2025-12-25T04:25:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -17119,10 +17119,10 @@
   Updated: 2025-12-24T12:03:13Z
   Total Products: 110
 - [Dog Aromatherapy Sprays & Blends | Relaxing Spray for Dogs](https://theblissfuldog.com/collections/relax-dog-aromatherapy): Ease your dog's anxiety during stressful situations like rainstorms with our dog aromatherapy sprays! The essential oils help calm and relax frightened dogs.
-  Updated: 2025-12-18T12:02:50Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-12-23T12:02:24Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
   Updated: 2025-12-22T12:02:22Z
@@ -17245,7 +17245,7 @@
   Updated: 2025-12-24T12:03:13Z
   Total Products: 15
 - [Shop Shetland Sheepdog Collection for Your Sheltie's Bath & Body Needs](https://theblissfuldog.com/collections/shetland-sheepdog-collection): The Blissful Dog Shetland Sheepdog Shop handcrafted, all natural balms for dry Sheltie noses, rough paws and itchy skin issues, aromatherapy for anxiety.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 13
 - [Shop Everything Shiba Inu for Your Dog's Skin and Coat Care Needs](https://theblissfuldog.com/collections/shiba-inu-collection): The Blissful Dog Shiba Inu Shop All natural, handcrafted balms for dry dog noses, rough paws & skin issues. Aromatherapy for anxieties, plus soaps & shampoos.
   Updated: 2025-12-22T12:02:22Z
@@ -17452,7 +17452,7 @@
   Updated: 2025-12-21T12:02:49Z
   Total Products: 13
 - [Shop The Blissful Dog Pug Collection for Pugs From Nose To Tail](https://theblissfuldog.com/collections/pug-collection): The Blissful Dog Pug Shop herbal balms for Pug noses, paws and skin issues. Aromatherapy for anxieties and aging issues to bath & body for a fresh, clean Pug.
-  Updated: 2025-12-21T12:02:49Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 14
 - [The Blissful Dog Puppy Care Collection For Happy, Healthy Puppies](https://theblissfuldog.com/collections/3-cute-puppies-collection): The Blissful Dog Puppy Care Collection - Keeping Your Dog Looking and Feeling Great From Nose to Tail Featuring 3 Cute Puppies. Nose Butter, Boo Boo Butter+
   Updated: 2025-12-21T12:02:49Z
@@ -17476,7 +17476,7 @@
   Updated: 2025-12-22T12:02:22Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-12-24T12:03:13Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
   Updated: 2025-12-14T12:03:24Z
@@ -17546,7 +17546,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-23T12:02:25Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-12-24T12:03:13Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-12-15T12:02:59Z
@@ -17573,7 +17573,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-21T12:02:49Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-12-24T12:03:13Z
+  Updated: 2025-12-25T12:02:10Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-12-15T12:02:59Z
