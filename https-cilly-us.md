@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-12-26T00:00:57.027Z
+- Updated At: 2025-12-27T00:00:55.595Z
 
 ## Products
 
@@ -8100,7 +8100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47B9C040404A353FADD6418D0329ECDF.jpg?v=1756364977
     Price: CHF 34.36 CHF
 - [Oversized Wooden Hamster Cages, Gerbil Cages And Other Small Animal Habitats](https://cilly.us/products/oversized-wooden-hamster-cages-gerbil-cages-and-other-small-animal-habitats): specification Product Information Product Code: W2225P173817 Product Type: General items Product Name: PawHut Oversized Wooden Hamster Cage, Gerbil Cage and Other Small Animal Habitat, Hamster Habitat with Open Roof, Cabin, Ramp, Grey Main Color: grey Main materials: wood Product dimensions Assembly Length (in.): 45.30 Assembly Width (inches): 23.60 Assembly Height (in.): 22.80 Weight (lbs): 34.76 Package size Length (in.): 47.75 Width (inches): 7.25 Height (in.): 24.00 Weight (lbs): 39.16 Features: Small Animal House: This multi-story hamster house offers over 1000 square inches of space for your hamsters to climb and burn energy. It is also suitable for gerbils and other small animals Built to last: This hamster cage has a sturdy wire mesh and sustainable wood construction to keep your pet feeling safe inside. This design is built to last. Hinged Roof: This hamster cage has a large lockable openable door for easy access, and the top roof angle can be adjusted between 30 and 60 degrees. Easy to Clean: Easily clean the hamster hideout tray to keep your pet comfortable. Platform dimensions: 44.25" L x 9.75" W (top), 44.25" L x 13.75" W (bottom). Slide Size: 2.7" W x 1.0" L. Tray Size: 44.25" L x 22"W
-  Updated: 2025-12-15T10:06:42Z
+  Updated: 2025-12-26T06:06:19Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -18051,7 +18051,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2360972909680.jpg?v=1757504066
     Price: CHF 14.80 CHF
 - [Pet Gate Dog Gate For Doorways](https://cilly.us/products/pet-gate-dog-gate-for-doorways): Easy to move & store: lightweight and easy to move.Turning it on and off is easy. CONVENIENTLY FOLDS:This pet gate folds together to a more compact size for convenient storage or transport from room to room. STYLISH AND FUNCTIONAL:This pet gate is excellent way limit your pet's access to parts of your home,while maintaining a modern appearance. NO INSTALLATION REQUIRED:This barrier is a perfect way limit access to parts of your home while maintaining a stylish look. Simply just unfold it and block off the area you need! Materials:populus wood, Color: Dark Brown Opened size: 1 inch (L) x 73 inches (W) x 24 inches (H). Folded size: 4 inches (L) x 19 inches (W) x 24 inches (H) 1 set of Pet Gate in 1 carton
-  Updated: 2025-11-17T11:08:16Z
+  Updated: 2025-12-26T04:10:21Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
