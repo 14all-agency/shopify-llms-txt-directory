@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-25T00:01:05.939Z
+- Updated At: 2025-12-27T00:01:06.887Z
 
 ## Products
 
@@ -15362,7 +15362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-12-24T10:50:58Z
+  Updated: 2025-12-25T09:15:06Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -16645,7 +16645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smocked-off-shoulder-floral-midi-dress-full.webp?v=1751920758
     Price: $41.95 USD
 - [Floral Dresses for Women Square Neck Style](https://ursupermart.com/products/floral-dresses-for-women-beautiful-flowy-designs-online): Floral cami dress with pockets, comfortable and versatile for everyday wear, made from easy-care polyester, perfect for summer.
-  Updated: 2025-12-24T10:53:26Z
+  Updated: 2025-12-25T03:30:36Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Floral Square Neck Cami Dress with Pockets
   Availability: Available
@@ -17293,6 +17293,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1881963053667586048.jpg?v=1746988563
   Price: $29.95 USD
+- [360 ultrasonic pest repellent for safe home pest control](https://ursupermart.com/products/360-ultrasonic-pest-repellent-safe-home-control): 360 ultrasonic pest repellent offers safe, chemical-free pest control for your home, protecting up to 3229 sq ft. Get yours today for peace of mind!
+  Updated: 2025-12-26T07:25:42Z
+  Vendor: S1B|Make | CJ
+  Product Type: Ultrasonic pest repellent
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0e5a62f0-61a2-4e2a-9d5a-b760ffd6b474.jpg?v=1746988662
+  Price: $39.95 USD
 - [Pet teeth cleaner for easy at-home plaque removal.](https://ursupermart.com/products/pet-teeth-cleaner-ultrasonic-at-home-plaque-removal): Pet teeth cleaner uses ultrasonic technology with customizable modes for easy at-home plaque and tartar removal. Maintain your pet's oral health and save money; shop now!
   Updated: 2025-12-24T10:54:52Z
   Vendor: S1B|Make | CJ
@@ -17308,7 +17315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pet-water-dispenser-cat-drinking-indoor.webp?v=1752292758
   Price: $49.95 USD
 - [Decorative wax lamp for a calming, mesmerizing glow](https://ursupermart.com/products/decorative-wax-lamp-calming-mesmerizing-glow): Decorative wax lamp creates a mesmerizing, tranquil glow, transforming any space into a relaxing oasis with its unique, captivating display. Enhance your mood and decor; shop now!
-  Updated: 2025-12-24T10:54:55Z
+  Updated: 2025-12-26T20:25:27Z
   Vendor: S1B|Make | CJ
   Product Type: Decorative wax lamp
   Availability: Available
@@ -17718,7 +17725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/lifting-straps-pink-fashionable-functional-deadlifting-accessory-gift.webp?v=1751577668
     Price: $28.95 USD
 - [Pet Hair Remover - Easy Clean Up, Top Rated!](https://ursupermart.com/products/pet-hair-remover-for-furniture-and-clothing): Effortlessly remove pet hair from furniture, clothes & more!  Our Pet Hair Remover glove is gentle yet effective.  Shop now!
-  Updated: 2025-12-24T10:55:45Z
+  Updated: 2025-12-26T07:25:33Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Pet hair remover glove
   Availability: Available
@@ -18218,7 +18225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/magnetic-eyelashes-em12-voluminous-look.webp?v=1749339074
     Price: $32.95 USD
 - [Retro Mini Camera - Pocket Size & HD Quality!](https://ursupermart.com/products/retro-mini-camera-vintage-instant-film-photography): Capture memories with our retro mini camera!  This portable HD camera is perfect for travel & vlogging. Shop now!
-  Updated: 2025-12-24T10:57:07Z
+  Updated: 2025-12-26T10:26:46Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Retro Mini Camera
   Availability: Available
@@ -18796,7 +18803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2-in-1-mosquito-fan-child-safe.webp?v=1750448829
     Price: $74.95 USD
 - [Hologram Projector - Stunning 3D Visuals!](https://ursupermart.com/products/hologram-projector-3d-laser-light-show): Create stunning 3D holograms with our portable hologram projector. Perfect for advertising, this holographic fan display offers affordable, eye-catching visuals.
-  Updated: 2025-12-24T10:58:16Z
+  Updated: 2025-12-26T10:26:51Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: 3D Hologram Projector
   Availability: Available
@@ -19715,7 +19722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smart-display-case-for-iphone-photo-sync.webp?v=1750557728
     Price: $43.95 USD
 - [Summer Dresses for Women Comfortable Styles](https://ursupermart.com/products/summer-dresses-for-women-casual-beach-party-outfits-1): Shop our collection of lightweight, breathable summer dresses, including smocked maxi dresses with spaghetti straps, perfect for beach vacations and hot weather.
-  Updated: 2025-12-24T11:00:51Z
+  Updated: 2025-12-26T15:56:00Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Maxi Dress
   Availability: Available
@@ -21457,7 +21464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-12-24T11:04:23Z
+  Updated: 2025-12-25T02:26:51Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -21484,7 +21491,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Compression Shorts for Fitness and Athletic Performance](https://ursupermart.com/products/compression-shorts-for-men-women-ultimate-workout-comfort): Boost performance with our compression shorts, designed for optimal comfort and support during running, hiking, and workouts, featuring four-way stretch and moisture-wicking technology.
-  Updated: 2025-12-24T11:05:14Z
+  Updated: 2025-12-26T11:26:47Z
   Vendor: S1B|@Updated - CJ
   Product Type: Pocket Compression Shorts
   Availability: Available
@@ -23468,6 +23475,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fat-burning-massager-led-body-device.webp?v=1758759194
   Price: $64.95 USD
+- [RC Drone Fighter Jet for Kids Easy to Fly Durable Safe Fun](https://ursupermart.com/products/rc-drone-fighter-jet-easy-fly-durable-fun): This RC drone fighter jet offers thrilling outdoor fun for kids with easy controls, LED lights, and amazing 360-degree flips. Grab yours now!
+  Updated: 2025-12-25T08:26:31Z
+  Vendor: S1B|S1|CJ
+  Product Type: RC Drone Fighter Jet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/remote-control-plane-handheld-controller.webp?v=1758760489
+  Price: $44.95 USD
 - [Massage Pillow for Neck and Back Pain Relief and Relaxation](https://ursupermart.com/products/massage-pillow-for-neck-and-back-pain-relief): Experience deep relief with this massage pillow, providing soothing shiatsu kneading and gentle warmth for your neck and back; get yours for comfort now!
   Updated: 2025-12-24T11:09:28Z
   Vendor: S1B|S1|@CJ
@@ -23496,6 +23510,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/waterproof-flash-light-usb-rechargeable.webp?v=1757266464
   Price: $24.95 USD
+- [Survival Kit 47-Piece Essential Outdoor Emergency Gear](https://ursupermart.com/products/survival-kit-47-piece-essential-outdoor-emergency): This 47-piece Survival Kit ensures you're ready for any outdoor emergency, offering peace of mind with essential tools and first aid. Get yours today!
+  Updated: 2025-12-25T07:25:37Z
+  Vendor: S1B|S1|CJ
+  Product Type: emergency survival kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/877cd568-979e-4a16-a377-38c938ecb3d0.jpg?v=1756925020
+  Price: $64.95 USD
 - [Tote bags large capacity secure and stylish for daily use](https://ursupermart.com/products/large-capacity-tote-bags-secure-stylish-daily-use): Tote bags for work, school, or travel offer large capacity, comfy straps, and a secure snap closure to keep all your daily essentials safe; find your perfect one now!
   Updated: 2025-12-24T11:09:34Z
   Vendor: S1B|S1|CJ
@@ -26505,7 +26526,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/facial-slimming-device-mask-combo.webp?v=1761338207
   Price: $47.95 USD
 - [Security Cameras Wireless Outdoor Solar HD for Home Security](https://ursupermart.com/products/security-cameras-wireless-outdoor-solar-hd-home): Security cameras provide wireless, solar-powered HD home protection with motion alerts and two-way audio. Monitor your property effortlessly; shop now for peace of mind!
-  Updated: 2025-12-24T11:16:02Z
+  Updated: 2025-12-26T12:26:42Z
   Vendor: S1B|S1|CJ
   Product Type: Wireless solar security camera
   Availability: Available
@@ -31868,7 +31889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-soft-peach-fitted-look.webp?v=1764261135
     Price: $34.95 USD
 - [Men's Biodegradable Coat Lightweight Wrinkle-Free Style](https://ursupermart.com/products/mens-biodegradable-coat-lightweight-wrinkle-free-style-for-men): Men's biodegradable coat offers a slim-fit, wrinkle-resistant style for a sharp, eco-conscious look. Discover your perfect sustainable overcoat today!
-  Updated: 2025-12-24T11:24:37Z
+  Updated: 2025-12-26T13:26:53Z
   Vendor: S1B|S1|CJ
   Product Type: Men's overcoat
   Availability: Available
@@ -32402,7 +32423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bluetooth-body-fat-scale-white-version.webp?v=1763233625
     Price: $74.95 USD
 - [Shirt Jacket for Men - Warm Plaid Cotton with Plush Lining](https://ursupermart.com/products/shirt-jacket-mens-warm-plaid-cotton-fleece-lined-casual-jacket): This shirt jacket offers plush warmth and rugged style for any adventure or casual day. Stay cozy in 100% cotton plaid; find your perfect fit now!
-  Updated: 2025-12-24T11:25:46Z
+  Updated: 2025-12-26T13:26:52Z
   Vendor: S1B|S1|CJ
   Product Type: Shirt Jacket
   Availability: Available
@@ -34853,7 +34874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stylish-puffer-jacket-tan-winter.webp?v=1763086879
     Price: $66.95 USD
 - [Women Leggings High Waist with Pockets for Comfort](https://ursupermart.com/products/women-leggings-high-waist-with-pockets-for-comfort): Women leggings with a high waist and convenient pockets offer ultimate comfort and support for any activity; find your perfect fit and style today!
-  Updated: 2025-12-24T11:32:07Z
+  Updated: 2025-12-26T20:28:11Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Leggings Set
   Availability: Available
@@ -35760,7 +35781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-wool-coat-blush-pink-feminine.webp?v=1762465043
     Price: $82.95 USD
 - [Wool Pea Coat for Women - Warm Winter Style & Slim Fit](https://ursupermart.com/products/womens-slim-fit-warm-wool-pea-coat-winter-style): This wool pea coat for women offers warmth and timeless style with a slim fit, stand collar, and pockets for fall and winter. Shop now for elegant comfort!
-  Updated: 2025-12-24T11:34:25Z
+  Updated: 2025-12-26T20:28:12Z
   Vendor: S1B|S1|CJ
   Product Type: Wool Pea Coat
   Availability: Available
@@ -37790,7 +37811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
     Price: $1.00 USD
 - [Women's Patterned Belts Set 5 Pack Stylish & Versatile](https://ursupermart.com/products/womens-patterned-belts-set-5-pack-stylish-versatile-imitation-leather): Elevate your style with this women's patterned belts set, featuring five unique imitation leather designs perfect for any look. Discover your new favorite accessory!
-  Updated: 2025-12-24T11:39:04Z
+  Updated: 2025-12-26T17:27:56Z
   Vendor: S1B|S1|CJ
   Product Type: Belt set
   Availability: Available
@@ -38265,7 +38286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cross-heart-necklace-set-silver-box.webp?v=1764717689
     Price: $1.00 USD
 - [Magnetic Wireless Charger - Fast 15W Power & Easy Use](https://ursupermart.com/products/magnetic-wireless-charger-fast-15w-power-easy-use-iphone): Magnetic wireless charger offers 15W fast, effortless power with perfect alignment, decluttering your space and protecting your phone. Get yours now!
-  Updated: 2025-12-24T11:40:02Z
+  Updated: 2025-12-26T02:28:01Z
   Vendor: S1B|S1|CJ
   Product Type: Magnetic wireless charger
   Availability: Available
@@ -38710,7 +38731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2037fa8a-125f-4e28-8eec-ffb5ffb662f5.jpg?v=1763760928
     Price: $1.00 USD
 - [Gothic Heart Necklace - Unique Sword Design for Edgy Style](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique): This gothic heart necklace lets you express your bold, unique style with its striking gold-finished heart and sword design. Elevate any outfit and shop now!
-  Updated: 2025-12-24T11:41:01Z
+  Updated: 2025-12-26T19:26:46Z
   Vendor: S1B|S1|CJ
   Product Type: Necklace
   Availability: Available
@@ -41159,7 +41180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
     Price: $42.95 USD
 - [Men's Hooded Puffer Jacket | Oversized Fit & Quick Zipper](https://ursupermart.com/products/mens-hooded-puffer-jacket-oversized): Shop men's hooded puffer jacket with oversized fit, full zip, and side pockets. Perfect for cool weather layering. Available in 5 colors, sizes S-3XL.
-  Updated: 2025-12-24T21:46:52Z
+  Updated: 2025-12-25T07:31:28Z
   Vendor: CJ
   Product Type: Mens Puffer Jacket
   Availability: Available
@@ -41450,7 +41471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-puffer-coat-premium-olive-long-winter.webp?v=1766461591
     Price: $65.95 USD
 - [Women's Oversized Knit Cardigan | Relaxed Fit & 7 Colors](https://ursupermart.com/products/womens-oversized-knit-cardigan): Shop our women's oversized knit cardigan in 7 neutral colors. Button-front, smooth finish, sizes XS-5XL. Easy layering for work, travel, and everyday wear.
-  Updated: 2025-12-24T16:59:21Z
+  Updated: 2025-12-26T22:27:56Z
   Vendor: CJ
   Product Type: women's oversized knit cardigan
   Availability: Available
