@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2025-12-27T12:00:26.167Z
+- Updated At: 2025-12-27T16:00:26.178Z
 
 ## Products
 
@@ -3050,7 +3050,7 @@
   Updated: 2025-12-02T05:47:27Z
   Total Products: 1
 - [Gartendeko aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallgartendeko): Metallgartendeko in vielen Designs ✓ stabil & wetterfest ✓ dekorativ & edel ✓ Beschichtung frei wählbar ➤ Jetzt bestellen!
-  Updated: 2025-12-23T12:08:35Z
+  Updated: 2025-12-27T12:06:00Z
   Total Products: 24
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
   Updated: 2025-12-25T12:05:20Z
@@ -3062,7 +3062,7 @@
   Updated: 2025-12-02T05:46:50Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2025-12-25T12:05:20Z
+  Updated: 2025-12-27T12:06:00Z
   Total Products: 107
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
   Updated: 2025-12-18T12:10:55Z
@@ -3074,7 +3074,7 @@
   Updated: 2025-12-02T05:46:10Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2025-12-23T12:08:35Z
+  Updated: 2025-12-27T12:06:00Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2025-12-18T12:10:55Z
