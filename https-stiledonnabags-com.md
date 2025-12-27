@@ -10,7 +10,7 @@
 - Contact Email: contact@stiledonnabags.com
 - Contact Phone: +393511061108
 - Address: Via Testulla 149, 95122 Catania, Catania, Italy.
-- Updated At: 2025-12-27T09:15:30.103Z
+- Updated At: 2025-12-27T11:44:55.955Z
 
 ## Products
 
@@ -1284,7 +1284,7 @@
   Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/leather-handbag-with-gold-toned-hardware-ms-2202-black-womens-bags-526.webp?v=1766627748
   Price: €35.50 EUR
 - [Fur handbag with leather handle MS-6440](https://stiledonnabags.com/products/fur-handbag-with-leather-handle): Chic fur handbag MS-6440: Soft faux fur, leather handles, magnetic snap, spacious interior. Perfect blend of style and function for any outfit!
-  Updated: 2025-12-25T01:57:26Z
+  Updated: 2025-12-27T11:44:02Z
   Vendor: Stile Donna Bags
   Product Type: Handbag
   Availability: Available
@@ -1392,30 +1392,30 @@
     Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/fuzzy-faux-fur-tote-bag-ms-0700-black-womens-bags-wallets-674.webp?v=1766628253
     Price: €35.00 EUR
 - [Soft fuzzy faux-fur handbag MS-0560](https://stiledonnabags.com/products/soft-fuzzy-faux-fur-handbag): Faux-fur handbag made from soft synthetic materials. Features a plush exterior texture and a structured design suitable for everyday or evening use. Designed to combine visual appeal with practical functionality. Details: Material: 100% Faux Fur (Cruelty Free) Shoulder strap: Removable (not adjustable) Closure: Zip Interior: Tear-resistant microfiber Measures: Height: 16 cm Width: 7 cm Length: 20 cm
-  Updated: 2025-12-25T06:11:09Z
+  Updated: 2025-12-27T10:58:54Z
   Vendor: Stile Donna Bags
   Product Type: Handbag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/soft-fuzzy-faux-fur-handbag-ms-0560-blue-womens-bags-wallets-743.webp?v=1766628278
-  - [Blue](https://stiledonnabags.com/products/soft-fuzzy-faux-fur-handbag?variant=57088577438083)
+  - [Blue / faux fur / Zipper](https://stiledonnabags.com/products/soft-fuzzy-faux-fur-handbag?variant=57088577438083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/soft-fuzzy-faux-fur-handbag-ms-0560-blue-womens-bags-wallets-743.webp?v=1766628278
     Price: €29.99 EUR
-  - [Beige](https://stiledonnabags.com/products/soft-fuzzy-faux-fur-handbag?variant=57088577470851)
+  - [Beige / faux fur / Zipper](https://stiledonnabags.com/products/soft-fuzzy-faux-fur-handbag?variant=57088577470851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/soft-fuzzy-faux-fur-handbag-ms-0560-beige-womens-bags-wallets-587.webp?v=1766628285
     Price: €29.99 EUR
 - [Cylinder-shaped shoulder bag MS-6885](https://stiledonnabags.com/products/cylinder-shaped-shoulder-bag): Cylindrical shoulder bag made from faux leather. Features dual top handles, a secure zip closure, and a detachable leather strap for shoulder or crossbody wear. The tubular design offers practical storage with a structured, contemporary shape. Details: Material: Faux Leather Shoulder strap: Removable (adjustable) Closure: Zip Interior: Tear-resistant microfiber Measures: Height: 13 cm Width: 10 cm Length: 21 cm
-  Updated: 2025-12-25T06:34:45Z
+  Updated: 2025-12-27T10:54:43Z
   Vendor: Stile Donna Bags
   Product Type: Handbag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/cylinder-shaped-shoulder-bag-ms-6885-silver-handbag-faux-leather-477.webp?v=1766628340
-  - [Silver](https://stiledonnabags.com/products/cylinder-shaped-shoulder-bag?variant=57088604144003)
+  - [Silver / Faux leather / Zipper](https://stiledonnabags.com/products/cylinder-shaped-shoulder-bag?variant=57088604144003)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/cylinder-shaped-shoulder-bag-ms-6885-silver-handbag-faux-leather-477.webp?v=1766628340
     Price: €29.99 EUR
-  - [Black](https://stiledonnabags.com/products/cylinder-shaped-shoulder-bag?variant=57088604176771)
+  - [Black / Faux leather / Zipper](https://stiledonnabags.com/products/cylinder-shaped-shoulder-bag?variant=57088604176771)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0936/4157/2739/files/cylinder-shaped-shoulder-bag-ms-6885-black-handbag-faux-leather-989.webp?v=1766628348
     Price: €29.99 EUR
