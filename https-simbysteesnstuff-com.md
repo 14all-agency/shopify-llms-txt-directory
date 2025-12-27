@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-27T19:41:54Z
 - Contact Email: simbysteesnstuff@gmail.com
-- Updated At: 2025-12-25T00:00:27.281Z
+- Updated At: 2025-12-27T00:00:31.005Z
 
 ## Products
 
@@ -1295,6 +1295,41 @@ Running late? At least you’ll look good doing it.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/SantaExpress.png?v=1763996122
   Price: $27.99 USD
+- [Of Course Size Matters - Graphic T-Shirt](https://simbysteesnstuff.com/products/of-course-size-matters-graphic-t-shirt): Let’s be honest — when it comes to coffee, size absolutely matters. Our “Of Course Size Matters, No One Wants a Small Cup of Coffee” graphic t-shirt is perfect for caffeine lovers with a sense of humor. Funny, bold, and totally relatable, this tee is made for coffee runs, lazy mornings, and anyone who orders the largest size without hesitation. Soft, comfy, and easy to wear, it’s a must-have for serious coffee drinkers. Why You’ll Love It: Funny coffee humor with a cheeky twist Perfect for caffeine addicts and coffee lovers Comfortable unisex fit for everyday wear Easy to style for casual outfits or coffee dates Makes a great gift for anyone who loves big coffee Pressed on a Gildan SoftStyle Tee
+  Updated: 2025-12-26T16:12:48Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/coffee.png?v=1764094330
+  Price: $19.99 USD
+- [Will Trade Students for Chocolate - Graphic T-Shirt](https://simbysteesnstuff.com/products/will-trade-students-for-chocolate-graphic-t-shirt): Because teaching is hard and chocolate helps. Our “Will Trade Students for Chocolate” graphic t-shirt is perfect for teachers, educators, and school staff with a great sense of humor. Funny, relatable, and classroom-approved sass, this tee is soft, comfy, and easy to wear all day long. Great for casual Fridays, teacher appreciation gifts, or surviving the school year one chocolate bar at a time. Why You’ll Love It: Funny teacher humor that hits home Perfect for educators and school staff Comfortable unisex fit for long days Easy to style with jeans or cardigans Makes a great teacher gift Pressed on a Gildan SoftStyle Tee
+  Updated: 2025-12-26T16:17:43Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Will_Trade_Students_for_Chocolate_Graphic_T-Shirt.png?v=1766163823
+  Price: $19.99 USD
+- [Wears Black, Loves Coffee, Avoids People - Graphic T-Shirt](https://simbysteesnstuff.com/products/wears-black-loves-people-avoids-people-graphic-t-shirt): Funny “Wears Black, Loves Coffee, Avoids People” graphic t-shirt with a soft unisex fit. Perfect for introverts, coffee lovers, and everyday wear.
+  Updated: 2025-12-26T16:18:33Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Wears_Black_Loves_Coffee_Avoids_People_Graphic_T-Shirt.png?v=1766162334
+  Price: $23.99 USD
+- [Just About Done Dillin with Yall - Graphic T-Shirt](https://simbysteesnstuff.com/products/just-about-done-dillin-with-yall-graphic-t-shirt): Funny “Just About Done Dillin’ With Y’all” graphic t-shirt with a soft unisex fit. Perfect for pickle lovers, sarcasm fans, and everyday wear.
+  Updated: 2025-12-26T16:11:43Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Just_About_Done_Dillin_With_Y_all_Graphic_T-Shirt.png?v=1766159702
+  Price: $19.99 USD
+- [Your Mental Health Matters - Graphic T-Shirt](https://simbysteesnstuff.com/products/your-mental-health-matters-graphic-t-shirt): Uplifting “Your Mental Health Matters” heart graphic t-shirt. Soft unisex fit designed to spread positivity, kindness, and mental health awareness.
+  Updated: 2025-12-26T16:10:38Z
+  Vendor: SimbysTeesNStuff
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Your_Mental_Health_Matters_Heart_Graphic_T-Shirt.png?v=1766093304
+  Price: $19.99 USD
 - [XOXO Glitter Puff Valentine’s Sweatshirt with Heart & Bow Sleeves](https://simbysteesnstuff.com/products/xoxo-glitter-puff-with-2-sleeves): Cute and cozy XOXO Glitter Puff Valentine’s sweatshirt with sparkly hearts and puff-print bows on the sleeves. Perfect for Valentine’s Day outfits and gifting.
   Updated: 2025-12-22T02:17:43Z
   Vendor: SimbysTeesNStuff
@@ -1338,19 +1373,19 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-11-11T03:21:45Z
   Total Products: 6
 - [Women’s Collection of Graphic Tees & Sweatshirts | Bold Statement Tops](https://simbysteesnstuff.com/collections/women): Shop bold and trendy women’s graphic t-shirts and sweatshirts. Soft, stylish, and made to express your mood—find your new favorite graphic top today.
-  Updated: 2025-12-19T17:30:48Z
-  Total Products: 102
+  Updated: 2025-12-26T16:18:34Z
+  Total Products: 103
 - [Men’s Graphic Tees, T-Shirts & Sweatshirts | Bold Streetwear for Men](https://simbysteesnstuff.com/collections/men): Shop men’s graphic tees, t-shirts, and sweatshirts designed for bold style and everyday comfort. Streetwear-inspired pieces made for self-expression.
-  Updated: 2025-12-19T16:51:18Z
+  Updated: 2025-12-26T16:18:34Z
   Total Products: 42
 - [Tank Tops](https://simbysteesnstuff.com/collections/tank-tops)
   Updated: 2025-08-23T18:19:41Z
   Total Products: 0
 - [Sarcastic T-Shirts | Witty, Honest & Bold Tees for the Unapologetic](https://simbysteesnstuff.com/collections/quotes-sayings): Shop sarcastic T-shirts with passive-aggressive quotes and brutally honest truths. Perfect for sarcasm pros who aren’t afraid to stand out. Wear at your own risk!
-  Updated: 2025-12-19T17:30:48Z
-  Total Products: 20
+  Updated: 2025-12-26T16:18:34Z
+  Total Products: 21
 - [Celebrate Every Holiday in Style — Tees & Sweatshirts for All Seasons!](https://simbysteesnstuff.com/collections/holidays): Get ready to deck the halls, light the menorah, or scare up some fun with our cozy and colorful holiday tees and sweatshirts! Celebrate in Style!
-  Updated: 2025-12-08T22:48:43Z
+  Updated: 2025-12-25T12:19:09Z
   Total Products: 56
 - [Shop By Theme](https://simbysteesnstuff.com/collections/shop-by-theme)
   Updated: 2025-08-23T18:19:41Z
@@ -1377,8 +1412,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-10-26T21:33:46Z
   Total Products: 4
 - [New Releases - Graphic T-Shirts and Sweatshirts, Tumblers and More](https://simbysteesnstuff.com/collections/new-releases): Discover the latest new releases in our collection of graphic tees, t-shirts, sweatshirts, tumblers, mugs, and wind spinners. We constantly update our store with fresh designs and bold graphics inspired by trending topics and timeless statements. Whether you’re looking for stylish graphic tees or unique drinkware, we’ve got something for everyone. Check back often to find your next favorite t-shirt, sweatshirt, tumbler, mug, or wind spinner — new styles are being added regularly!
-  Updated: 2025-12-21T14:19:41Z
-  Total Products: 41
+  Updated: 2025-12-26T16:18:34Z
+  Total Products: 42
 - [Tester Tees & Tumblers  – One-of-a-Kind Samples...](https://simbysteesnstuff.com/collections/ready-to-ship-ts): These are the original tester shirts I used to dial in my process—testing prints, materials, and quality before launching full production. Each one is a unique part of the journey and may include test designs, one-off prints, or slight imperfections. They’re ready to ship, priced to move, and perfect if you’re into one-of-a-kind pieces. ✔ Ready to ship in 1–2 business days✔ Each shirt is unique✔ Great for fit, feel, or collectors of one-offs Note: These are tester samples and could have minor flaws but will be noted.
   Updated: 2025-10-04T19:42:25Z
   Total Products: 5
@@ -1392,10 +1427,10 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-10-18T20:21:43Z
   Total Products: 10
 - [Festive Christmas T-Shirts & Cozy Sweatshirts Collection](https://simbysteesnstuff.com/collections/christmas): Shop our Christmas Collection of graphic t-shirts & cozy sweatshirts! Perfect for holiday parties, gifts & festive cheer. Available for men, women & kids.
-  Updated: 2025-12-08T22:48:43Z
+  Updated: 2025-12-25T12:19:09Z
   Total Products: 42
 - [Awareness Collection of Graphic Apparel](https://simbysteesnstuff.com/collections/awareness): Support important causes with our Awareness Collection featuring high-quality graphic tees, t-shirts, and sweatshirts designed to raise awareness for cancer, mental illness, suicide prevention, and more. These awareness shirts spark meaningful conversations and show solidarity with communities fighting for health, social justice, and environmental care. Whether you’re looking for cancer awareness apparel or mental health support tees, each piece delivers a powerful message to inspire change—one tee at a time. Shop our awareness t-shirts and sweatshirts today to wear your support and spread the message.
-  Updated: 2025-12-18T21:29:29Z
+  Updated: 2025-12-26T16:10:39Z
   Total Products: 5
 - [Fall Vibes Collection – Graphic Tees & Sweatshirts](https://simbysteesnstuff.com/collections/fall): Shop cozy fall graphic tees & sweatshirts in our Fall Vibes Collection. Perfect for pumpkin patches, hayrides & spooky season style. Layer up now!
   Updated: 2025-12-08T14:43:39Z
@@ -1407,8 +1442,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2025-11-20T21:46:11Z
   Total Products: 11
 - [Front Page -Simby’s Tees N Stuff Your Ultimate Destination for Cool Tees & More!](https://simbysteesnstuff.com/collections/front-page): Welcome to Simby’s Tees N Stuff, where style meets personality! Dive into our vibrant collection of unique graphic tees and sweatshirts.
-  Updated: 2025-12-19T17:30:48Z
-  Total Products: 14
+  Updated: 2025-12-26T18:09:42Z
+  Total Products: 18
 - [Wind Spinners](https://simbysteesnstuff.com/collections/wind-spinners): Add a touch of motion and magic to your outdoor space with our 10" wind spinners. Made from durable stainless steel and designed to catch the light beautifully, these spinners come to life with every breeze. Perfect for gardens, patios, or porches, each one brings color, movement, and a little extra charm to your favorite outdoor spot.
   Updated: 2025-08-23T18:19:42Z
   Total Products: 1
@@ -1462,6 +1497,9 @@ All orders will ship within 14–21 days after the pre-order window closes. Don�
     Tags: christmas gift, christmas graphic sweatshirt, christmas graphic tees, holiday t-shirts, reindeer, santa sweatshirt, santa tees, snowman
   - [How Simby's came to be...](https://simbysteesnstuff.com/blogs/news/how-simbys-came-to-be)
     Updated: 2025-12-17T00:20:51Z
+    Author: Christine Blais
+  - [The History of New Year's Eve Celebrations](https://simbysteesnstuff.com/blogs/news/the-history-of-new-years-eve-celebrations)
+    Updated: 2025-12-26T17:54:26Z
     Author: Christine Blais
 
 ## Store Pages
