@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-26T20:00:38.338Z
+- Updated At: 2025-12-27T00:00:57.156Z
 
 ## Products
 
@@ -3899,13 +3899,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-beanies-dime-mtl-cursive-fold-beanie-coffee-1192379946.png?v=1757613375
   Price: £34.95 GBP
-- [Dime MTL Classic Leather Wallet | Black & Cherry](https://thevinessupply.co/products/dime-mtl-classic-leather-wallet-black-cherry): Buy The Dime MTL Classic Leather Wallet in Black & Cherry at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-18T23:56:31Z
-  Vendor: Dime MTL
-  Product Type: Wallets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-wallets-dime-mtl-classic-leather-wallet-black-cherry-1192379937.png?v=1757613258
-  Price: £49.95 GBP
 - [Dime MTL Classic Leather Wallet | Brown & Olive](https://thevinessupply.co/products/dime-mtl-classic-leather-wallet-brown-olive): Buy The Dime MTL Classic Leather Wallet in Black & Cherry at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-12-20T08:55:21Z
   Vendor: Dime MTL
@@ -7017,8 +7010,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-26T12:12:12Z
-  Total Products: 3226
+  Updated: 2025-12-26T21:41:10Z
+  Total Products: 3225
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-25T13:50:35Z
   Total Products: 110
