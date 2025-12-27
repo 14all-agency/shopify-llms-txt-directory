@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-27T16:00:37.820Z
+- Updated At: 2025-12-27T20:00:37.543Z
 
 ## Products
 
@@ -918,7 +918,7 @@
     Availability: Not Available
     Price: £29.95 GBP
 - [Sketti Butta OG Skate Wax | Assorted](https://thevinessupply.co/products/sketti-butta-og-skate-wax-assorted): Buy Sketti Butta The Original OG Butta Block at The Vines, with Fast, Premium Delivery & Easy Returns
-  Updated: 2025-12-20T14:17:11Z
+  Updated: 2025-12-27T16:31:12Z
   Vendor: Sketti Butta
   Product Type: Wax
   Availability: Available
