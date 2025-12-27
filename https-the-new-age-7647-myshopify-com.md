@@ -6,7 +6,7 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-26T00:00:22.758Z
+- Updated At: 2025-12-27T00:00:24.606Z
 
 The New Age
 
@@ -2684,7 +2684,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dfc3a13-499c-45da-87fe-e1123749943d.jpg?v=1766469139
     Price: $12.99 USD
 - [Spine Bending Posture Corrector | Improve Your Back Posture](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector): Discover the Spine Bending Posture Corrector to improve posture, reduce back pain, and support spinal health. Ideal for scoliosis and slouching issues.
-  Updated: 2025-12-25T02:49:06Z
+  Updated: 2025-12-26T12:49:12Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2718,7 +2718,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
     Price: $17.99 USD
 - [EMS Abs & Muscle Trainer - Portable Muscle Toning Device with 6 Modes](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer): Discover the EMS Abs & Muscle Trainer for effective muscle training anytime, anywhere. Easy to use, portable, with 6 modes for targeted workout. Buy now!
-  Updated: 2025-12-24T06:48:29Z
+  Updated: 2025-12-26T06:46:52Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2870,7 +2870,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5356907-dc5b-408b-a93c-118920982408.jpg?v=1766469281
     Price: $19.99 USD
 - [Winter Gloves Touch Screen - Waterproof Motorcycle Sports Gloves with Fleece](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Discover the best Winter Gloves Touch Screen featuring waterproof, touchscreen-compatible design. Perfect for riding, sports, and outdoor activities in cold weather.
-  Updated: 2025-12-25T21:48:13Z
+  Updated: 2025-12-26T21:49:48Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -3867,7 +3867,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8e4aa268-e697-416e-b8f2-dfcaabdd863e.jpg?v=1766644619
     Price: $22.99 USD
 - [Valentine's Day Love Letter Hoodie Red](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red): Product information: Age appropriate：Infants and young children (1-3 years old, 80~100cm) Stitch spacing 12~14 stitches /3cm：is Main fabric component：Polyester fibre Main fabric composition content：65 (%) Safety level：Class B Color:red Suitable height:80cm,90cm,100cm,110cm,120cm Packing list: 1*Children's hoodie Product Image:
-  Updated: 2025-12-25T22:31:51Z
+  Updated: 2025-12-26T10:30:26Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3893,7 +3893,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
     Price: $13.01 USD
 - [Summer Girls Cute Cartoon Short Sleeve T Shirt](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt): @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Product information: Applicable gender: Female Whether hooded: Not hooded Sleeve length: Short sleeve Fabric technology: Soft treatment Pattern: Cartoon Fabric name: Knitted Main fabric composition: Cotton Main fabric ingredient content: 95 (%) Collar type: Round neck Function: Moisture wicking @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Size Information: Size: 2T 3T 4T 5T 6T 7T
-  Updated: 2025-12-25T22:35:07Z
+  Updated: 2025-12-26T12:23:43Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3947,7 +3947,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
     Price: $10.49 USD
 - [Kids Rugby Letters Print Pullover Long Sleeve Sweatshirt](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt): Product information: Material: Cotton Style: fashion and simplicity Features:Printing Colour: Dad's, Mom's Size Information: Size/CM Length Bust/2 90 36 30 100 38.5 31.5 110 41 33 120 43.5 34.5 130 46 36 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt*1 Product Image:
-  Updated: 2025-12-25T22:36:54Z
+  Updated: 2025-12-26T10:35:33Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3993,7 +3993,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
     Price: $15.50 USD
 - [cotton children t-shirt short sleeve](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve): Applicable gender: neutral/male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable age: infants and children (1~3 years old, 80~100cm) For the season: Summer Fabric technology: soft treatment Pattern: Cartoon Flat car stitch distance 12~14 stitches/3cm Whether the hair/remnant thread ends are trimmed: The obvious parts have been trimmed Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Safety level: Class A Collar type: round neck Size(cm) Length bust Shoulder width height 73 33 50 22 66-73 80 36 52 24 73-80 90 39 56 26 80-90 100 42 60 28 90-100 110 45 64 30 100-110 120 46 66 30 110-120 130 48 68 30 120-130 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3 cmdifferences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T22:41:42Z
+  Updated: 2025-12-26T10:36:22Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4199,7 +4199,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1766702182
     Price: $7.60 USD
 - [Children's Spring Clothes Girls' Long Sleeve T-Shirt Baby Clothes](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes): Product information: Fabric Name: Cotton Main fabric composition: Cotton Main fabric content: 95% Size information: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T22:39:05Z
+  Updated: 2025-12-26T10:37:05Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4229,7 +4229,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
     Price: $9.99 USD
 - [Girls' Short Sleeved T shirt Children's Clothing](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing): Specification: Fabric name: Cotton Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Size chart: SIZE LENGTH BUST 90 37 55 100 40 59 110 43 63 120 46 67 130 50 70 140 54 74 UNIT:CM 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images.
-  Updated: 2025-12-25T22:39:12Z
+  Updated: 2025-12-26T10:38:17Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4259,7 +4259,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
     Price: $8.49 USD
 - [Baby Bottoming Shirt Cartoon Autumn](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn): Product information: Color: ZMY249A,ZMY249B,ZMY249C Suitable height: 70, 80, 90, 100, 110 Main fabric composition: Cotton Function: keep warm Hooded or not: no Hooded Sleeve length: long sleeve Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top * 1 Product Image:
-  Updated: 2025-12-25T22:42:28Z
+  Updated: 2025-12-26T10:40:23Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4325,7 +4325,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
     Price: $10.99 USD
 - [Girls' Cotton Short-sleeved T-shirt](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt): Product information: Sleeve length: Short sleeves Fabric process: grinding wool Pattern: Cartoon Whether to trim lint or not: All should be trimmed clean Name of fabric: cotton Main fabric composition: cotton Main fabric component content: 100 (%) Safety level: Class A Collar: Round collar Function: moisture absorption and sweat elimination Size information : Size: 90 cm, 100 cm, 110 cm, 120 cm, 130 cm, 140 cm Precautions: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1X T-shirt
-  Updated: 2025-12-25T22:49:37Z
+  Updated: 2025-12-26T10:41:08Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4451,7 +4451,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
     Price: $9.03 USD
 - [Children's printed T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt): Source category: Spot Applicable gender: Neutral / men and women style: Casual sleeve length: short sleeve Suitable for ages: infants and young children (1 ~ 3 years old, 80 ~ 100cm) For the season: Summer Flat stitch pitch 12 ~ 14 stitches / 3cm: Yes Fabric name: knitted Main fabric composition: polyester fiber (polyester) Main fabric composition content: 80 (%) Colors: White, Black Suitable for height: S, M, L, XL, 2XL size age bust length S 0-12M 28 37 M 2-4Y 34 45 L 6-8Y 39 52 XL 10-12Y 43 58 2XL 14-16Y 45 63
-  Updated: 2025-12-25T22:49:37Z
+  Updated: 2025-12-26T10:42:51Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4497,7 +4497,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
     Price: $9.99 USD
 - [Children's Clothing Cartoon Knitted Heat Press Round Neck T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt): Product information: Style: Europe and America Sleeve length: short sleeve Fabric name: Knitted Main fabric composition: cotton Collar type: round neck Function : Moisture wicking Color : TTTG7 Size Information: Size: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm, 150cm, 160cm Size（Unit：cm） Length Bust 90 40 31 100 43 33 110 46 34 120 49 36 130 52 38 140 56 40 150 59 43 160 62 46 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: T-shirt*1 Product Image:
-  Updated: 2025-12-25T22:47:21Z
+  Updated: 2025-12-26T10:45:45Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4587,7 +4587,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
     Price: $14.49 USD
 - [Cartoon Irregular Top Short-sleeved Half-sleeve Big Kids' Trendy Clothes](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes): Product information: Applicable gender: female Style: Korean Suit type: pants suit Number of sets: two sets Gift box content: clothing Suitable age group: middle and large children (over 8 years old, over 140cm) Suitable season: summer, winter, spring, autumn sleeve length: short sleeve Pants length: five-point pants/pants Fabric technology: sanding, soft treatment, enzyme washing Thickness: General Patterns: solid colors, cartoons, letters, abstract Fabric name: Cotton Main fabric composition: cotton Main fabric ingredient content: 95 (%) Closed style: pullover Color: YW2030 black, 2109# gray gray Size Information: Suitable height: 120cm, 130cm, 140cm, 150cm, 160cm, 165cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve*1
-  Updated: 2025-12-25T22:49:03Z
+  Updated: 2025-12-26T10:47:23Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4641,7 +4641,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
     Price: $10.79 USD
 - [Love long-sleeved T-shirt children's bottoming shirt](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt): Main fabric composition: cotton size length bust*2 sleeve 90CM 38 24 34 - 100CM 40 25 35 - 110CM 43 27 36 - 120CM 45 28 37 - 130CM 48 60 38 - 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. 1
-  Updated: 2025-12-25T23:25:44Z
+  Updated: 2025-12-26T11:24:02Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4747,7 +4747,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
     Price: $8.99 USD
 - [Baby Autumn Clothes Clothes  Girl Baby Sweater Girls Children's](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens): Product information: Supply category: spot Applicable gender: female Style: Korean Suitable age: Infants and children (1~3 years old, 80~100cm) Suitable for the season: autumn Fabric technology: soft treatment Pattern: Cartoon Thickness: General Size Information: Suitable height: 70cm, 80cm, 90cm, 100cm Size Length Bust Sleeve Shoulder 70 33 54 26 23 80 56 28 24 90 37 58 30 25 100 39 60 32 26 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1
-  Updated: 2025-12-25T23:28:24Z
+  Updated: 2025-12-26T11:25:51Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4785,7 +4785,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1766705150
     Price: $12.49 USD
 - [Crown King Family Wear Summer New Short-Sleeved T-Shirt Family Wear](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear): Product information: Applicable gender: general Parent-child wear category: T-shirt Applicable people: family wear For the season: Summer Main fabric composition: cotton Main fabric ingredient content: 100 (%) Size Information: Size: 80cm,90cm,100cm,110cm,120cm,130cm,140cm,150cm,66,73,80 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Children's short sleeve *1 Product Image: Full image:
-  Updated: 2025-12-25T23:27:46Z
+  Updated: 2025-12-26T11:26:23Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -4991,7 +4991,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
     Price: $12.17 USD
 - [Children's Short-sleeved T-shirt With Earplugs Pattern](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern): Product information: Sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment Pattern: Cartoon Main fabric composition: cotton Main fabric ingredient content: 90 (%) Collar type: round neck Function: Moisture wicking Color: white, yellow, gray Size Information: Suitable height: 90cm,100cm,110cm,120cm,130cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleevex1 Product Image: Full image:
-  Updated: 2025-12-25T23:29:14Z
+  Updated: 2025-12-26T11:28:18Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5057,7 +5057,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
     Price: $8.79 USD
 - [Children's short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt): Applicable gender: neutral/male and female Style: Korean sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment pattern: plain Elements: cartoon, cute, printing AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:32:03Z
+  Updated: 2025-12-26T11:30:18Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5087,7 +5087,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
     Price: $8.69 USD
 - [Boys Long Sleeve T-shirt Children's Clothing Baby Tops](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops): Product information: Style: Korean Sleeve length:Long sleeve Fabric technology: Soft treatment Pattern: Cartoon Whether the hair/excess thread ends are trimmed: All trimmed clean Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Collar type: Round neck Color: 3557 black Size Information: Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Precaution： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:33:24Z
+  Updated: 2025-12-26T11:31:21Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5117,7 +5117,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
     Price: $9.49 USD
 - [Short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt): Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Security level: Class A Collar type: round neck Function: moisture wicking 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:37:22Z
+  Updated: 2025-12-26T11:35:02Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5199,7 +5199,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
     Price: $8.09 USD
 - [Summer Children's Short Sleeve T Shirt For Boys](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys): Product information: Fabric technology: soft treatment Pattern: Cartoon Fabric Name: Cotton Main fabric composition: cotton Suitable for age Middle and small children (3~8 years old, 100~140cm) Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve X1 Product Image:
-  Updated: 2025-12-25T23:37:56Z
+  Updated: 2025-12-26T11:35:42Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5277,7 +5277,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
     Price: $8.99 USD
 - [Dinosaurs in Big Kids Costume](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume): Whether to hooded: not hooded Sleeve length: long sleeve Fabric technology: soft treatment size Length bust Shoulder width Sleeve Length 110 46 63 27 38 120 49 69 28 41 130 52 72 30 44 140 54 74 32 46 150 56 77 34 48 160 58 80 35 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:37:44Z
+  Updated: 2025-12-26T11:36:11Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5379,7 +5379,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
     Price: $13.39 USD
 - [Child short sleeve t-shirt boy half sleeve](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve): Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: Animal Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9063A waterfall green, 9063B khaki, 9063C flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140 Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
-  Updated: 2025-12-25T23:49:18Z
+  Updated: 2025-12-26T12:09:12Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5457,7 +5457,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
     Price: $8.49 USD
 - [Children''s Wear Summer New Boys T-shirt, Short Sleeve Korean Children''s Clothing, Baby Clothing, A Ready-to-be Factory Direct Selling](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling): Applicable gender: neutral / male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: cartoon Element: Cartoon, Chao Fan Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9121 flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
-  Updated: 2025-12-25T23:49:17Z
+  Updated: 2025-12-26T12:20:51Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5487,7 +5487,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
     Price: $8.79 USD
 - [Printed t-shirt](https://the-new-age-7647.myshopify.com/products/printed-t-shirt): Material: Cotton 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:49:19Z
+  Updated: 2025-12-26T11:41:36Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5541,7 +5541,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1766706090
     Price: $11.29 USD
 - [Dinosaur Kids T-shirt](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt): sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) For the season: Summer Fabric technology: soft treatment Pattern: cartoon, animal, solid color Elements: cartoon, cute, sports AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:45:05Z
+  Updated: 2025-12-26T11:43:21Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5595,7 +5595,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
     Price: $10.54 USD
 - [Children's T-shirt Numbers 1-9 Birthday T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt): style: Casual sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Pattern: Cartoon Fabric: Polyester fiber (polyester) size Bust*2 Length S 30 38 M 32 41 L 34 44 XL 36 47 2XL 38 49 3XL 40 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-25T23:49:23Z
+  Updated: 2025-12-26T11:43:52Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5800,7 +5800,154 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2753375207714.jpg?v=1766706230
     Price: $11.38 USD
-[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNTgxODQ2ODYzMywibGFzdF92YWx1ZSI6IjEwMjI1ODE4NDY4NjMzIn0=)
+- [Chopping block](https://the-new-age-7647.myshopify.com/products/chopping-block): Product Name: Chopping block Material: Bamboo
+  Updated: 2025-12-26T21:31:45Z
+  Vendor: The New Age
+  Product Type: Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1541860866631.jpg?v=1766784509
+  Price: $13.99 USD
+- [Stainless Steel Kitchen Utensils Multifunctional Peeling Blade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade): Overview: Vegetable peeler features dual ultra sharp surgical stainless steel swivel double-edge blade Dual Stainless Steel blades stay ultra sharp and swivel for smooth, effortless peeling The handle is comfortable, even during repetitive strokes Built-in potato eye remover and orange peeler Dishwasher Safe Whatever the task, the peeler should handle bumps and curves with ease and without clogging or losing its edge. If that is what you ask from peelers then this amazing Peelers is made for you! Specification: Material:ABS+stainless steel Color: black,blue,red Size: Blue: 50 mm Black:58mm Red:50mm Package Content: 1x Black Peeler 1x Blue Peeler 1x Red Peeler
+  Updated: 2025-12-26T21:49:50Z
+  Vendor: The New Age
+  Product Type: Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374.jpg?v=1766784579
+  - [1 pack / Type2](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037166873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/974842269748.jpg?v=1766784592
+    Price: $10.74 USD
+  - [1 set / Type1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037199641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374_25a962e3-ff3d-48a5-8d41-82e1628b0b35.jpg?v=1766784592
+    Price: $7.81 USD
+  - [1 / Type4](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037232409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1106355092412.jpg?v=1766784592
+    Price: $8.11 USD
+  - [1set / Upgrade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037265177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b0bafb90-e18e-4f75-83a2-7ea7a5ee0712.jpg?v=1766784592
+    Price: $58.81 USD
+  - [2 Sets / Type1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037297945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1252f427-04d7-4685-813f-563affd13005.jpg?v=1766784592
+    Price: $11.61 USD
+  - [2 packs / Type2](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037330713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2054cd76-3b77-4a61-a628-4a0f80c77e5b.jpg?v=1766784592
+    Price: $16.50 USD
+  - [2set / Upgrade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037363481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e9e1fd47-e0c9-4642-a322-3e7b2c3b1e98.jpg?v=1766784592
+    Price: $36.99 USD
+  - [3 Sets / Type1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037396249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dbc6a35-9055-4d72-a926-bfeaeef94ad8.jpg?v=1766784592
+    Price: $15.38 USD
+  - [3 packs / Type2](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037429017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6de597cc-244e-4bbc-8879-b5be9977b5e6.jpg?v=1766784592
+    Price: $22.93 USD
+  - [3set / Upgrade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037461785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3f161838-e28d-4c09-a2a5-7a5a49585489.jpg?v=1766784592
+    Price: $37.99 USD
+  - [4 Sets / Type2](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037494553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/31f11c1f-898c-4eb6-8580-040f90ba6398.jpg?v=1766784592
+    Price: $28.48 USD
+  - [5 packs / Type2](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037527321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2efc306f-f23c-4039-901c-2d3caa49430f.jpg?v=1766784592
+    Price: $34.66 USD
+  - [5 sets / Type1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037560089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b4e7835-7f04-4cbe-9601-fa3bc6bc4c5c.jpg?v=1766784592
+    Price: $21.89 USD
+  - [A1 Set / Type1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037592857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374_25a962e3-ff3d-48a5-8d41-82e1628b0b35.jpg?v=1766784592
+    Price: $19.07 USD
+  - [A1 slicer / Type3](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037625625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1179104052786.jpg?v=1766784592
+    Price: $7.28 USD
+  - [Set / 1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037658393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374_25a962e3-ff3d-48a5-8d41-82e1628b0b35.jpg?v=1766784592
+    Price: $7.32 USD
+- [Potato Chopper](https://the-new-age-7647.myshopify.com/products/potato-chopper): specification: brand new and high quality! Material: ABS + stainless steel color random Size: about 17 * 10 * 2cm / 6.63 * 3.9 * 0.78 inches occasion: kitchen Package Included: 1 x potato cutter Note: 1. Please allow 1-2mm error by tomanualmeasurement. Pls make sure they do not mind before they bid. 2. The color may show different as difference, pls understand.
+  Updated: 2025-12-26T21:49:47Z
+  Vendor: The New Age
+  Product Type: Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2829346440720.jpg?v=1766784639
+  - [Green / 1pc](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037822233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2829346440720_55d4c662-27b7-4aab-9bcf-fe1428126204.jpg?v=1766784643
+    Price: $6.99 USD
+  - [Green / 3pc](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037855001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2829346440720_55d4c662-27b7-4aab-9bcf-fe1428126204.jpg?v=1766784643
+    Price: $8.19 USD
+  - [Random Color / 1PCS](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037887769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619250860278.jpg?v=1766784643
+    Price: $6.99 USD
+  - [White / 1pc](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037920537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f1a5dc7a-dc81-4ab5-9560-5fe7db5415d2.jpg?v=1766784643
+    Price: $6.99 USD
+- [Fruit & Veggie Cutting Holder](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder): Feature Made from high duty plastic material Creative design / Eco-friendly / non-toxic Quick & easy to use and clean. Specification 100% brand new and high quality Size:( 18.5*8)cm/(7.28*3.15)inch Material: Plastic Color: random delivery How to use Place a tomato into the slicer, simply cut between the gap.
+  Updated: 2025-12-26T21:49:47Z
+  Vendor: The New Age
+  Product Type: Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1579288289096.jpg?v=1766784680
+  - [Black](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder?variant=51805037986073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/395734462282.jpg?v=1766784683
+    Price: $6.99 USD
+  - [Green](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder?variant=51805038018841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1579288289096_1466da15-2092-40e1-ace5-4c84d2e30a63.jpg?v=1766784683
+    Price: $6.99 USD
+- [Door Handle Protective Pad Mute Household Anti-collision Silicone Artifact Punch-free](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free): Product information: Specifications: white, gray, black, blue, pink, yellow, green Material: PP food grade material Style: modern simplicity Structure: Standard type Packing list: Door handle protection pad x 1pc Product Image:
+  Updated: 2025-12-26T21:35:39Z
+  Vendor: The New Age
+  Product Type: Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/23dd28a2-7433-4878-97b4-4287eb44ba07.jpg?v=1766784798
+  - [Black](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038117145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c335bc51-691c-490e-97e9-213d08c86730.jpg?v=1766784805
+    Price: $5.25 USD
+  - [Blue](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038149913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d5046d98-3df2-46cd-9ae5-ebef5f4a1d20.jpg?v=1766784805
+    Price: $5.25 USD
+  - [Gray](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038182681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/338b62c9-e410-4290-baad-cda03e215f51.jpg?v=1766784805
+    Price: $5.25 USD
+  - [Green](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038215449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b841d4d0-bcbb-4aed-bd25-330806cccc85.jpg?v=1766784805
+    Price: $5.25 USD
+  - [Pink](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038248217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c385a3ba-b579-4fd9-9cbb-0c5fae896388.jpg?v=1766784805
+    Price: $5.25 USD
+  - [White](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038280985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/81606341-9dd1-460f-be01-4efa8db5bbca.jpg?v=1766784805
+    Price: $5.25 USD
+  - [Yellow](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038313753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/667c6903-8f82-4b00-8e73-3d0ae6330829.jpg?v=1766784805
+    Price: $5.25 USD
+[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNjA5MDg2OTAxNywibGFzdF92YWx1ZSI6IjEwMjI2MDkwODY5MDE3In0=)
 
 ## Collections
 
@@ -5832,11 +5979,17 @@ The New Age
   Updated: 2025-12-25T06:22:35Z
   Total Products: 1
 - [Boys Shirts](https://the-new-age-7647.myshopify.com/collections/boys-shirts)
-  Updated: 2025-12-25T23:44:11Z
+  Updated: 2025-12-26T06:55:26Z
   Total Products: 12
 - [Girls Shirts](https://the-new-age-7647.myshopify.com/collections/girls-shirts)
-  Updated: 2025-12-25T23:25:52Z
+  Updated: 2025-12-26T06:55:47Z
   Total Products: 13
+- [Best Sellers](https://the-new-age-7647.myshopify.com/collections/best-sellers)
+  Updated: 2025-12-26T17:18:41Z
+  Total Products: 9
+- [Kitchen Accessories](https://the-new-age-7647.myshopify.com/collections/kitchen-accessories)
+  Updated: 2025-12-26T21:33:27Z
+  Total Products: 5
 
 ## Blogs
 
@@ -5863,6 +6016,10 @@ The New Age
   Updated: 2025-12-18T15:35:23Z
 - [Shipping & Handling | Fast Processing & Worldwide Delivery - The New Age](https://the-new-age-7647.myshopify.com/pages/shipping-returns): Thank you for shopping with The New Age. All orders are processed within 1–3 business days. Once shipped, you will receive a confirmation email wit...
   Updated: 2025-12-17T22:32:52Z
+- [Frequently Asked Questions - The New Age](https://the-new-age-7647.myshopify.com/pages/faq): Frequently Asked Questions Q: What are your shipping times?A: We typically ship orders within 1-2 business days. Q: What is your return policy?A: W...
+  Updated: 2025-12-26T07:43:15Z
+- [About Us](https://the-new-age-7647.myshopify.com/pages/about-us): Welcome to The New Age — where quality, value, and innovation come together. We created The New Age with one simple goal: to make great products ac...
+  Updated: 2025-12-26T07:39:35Z
 
 ## Policies
 
@@ -5873,7 +6030,7 @@ The New Age
 - [Refund Policy](https://the-new-age-7647.myshopify.com/policies/refund-policy)
   Updated: 2025-12-23T00:18:55-07:00
 - [Terms of Service](https://the-new-age-7647.myshopify.com/policies/terms-of-service)
-  Updated: 2025-12-15T11:36:26-07:00
+  Updated: 2025-12-26T11:19:12-07:00
 - [Contact Information](https://the-new-age-7647.myshopify.com/policies/contact-information)
   Updated: 2025-12-10T14:24:05-07:00
 
