@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2025-11-08T22:46:01Z
-- Updated At: 2025-12-22T00:00:34.488Z
+- Updated At: 2025-12-27T00:00:35.643Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f09a91c4-c8cf-450f-8870-bdfc788768eb-Max-Origin.webp?v=1763427410
     Price: $63.26 USD
 - [Zenana Acid Washed Batwing Sleeve Fleece Sweatshirt](https://the-stop-9142.myshopify.com/products/zenana-acid-washed-batwing-sleeve-fleece-sweatshirt): The Acid Washed Batwing Sleeve Fleece Sweatshirt is a cozy and trendy essential for the colder seasons. The acid-washed design gives it a unique and edgy look that stands out. With batwing sleeves, this sweatshirt offers a relaxed and comfortable fit. Made of fleece fabric, it provides warmth and softness for all-day comfort. Perfect for adding a stylish and casual vibe to your winter wardrobe. Features:Oversized,Ribbed Stretch:Slightly stretchy Material composition:60%COTTON, 40%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S/M 34-38 26-31 L/XL 39-42 32-35
-  Updated: 2025-12-19T20:07:44Z
+  Updated: 2025-12-22T18:58:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/d62cc09aefcc442d8ad2b120be8e1ec5-Max-Origin.webp?v=1763427423
     Price: $41.32 USD
 - [BiBi Christmas Theme Sequin Lattering Sweater](https://the-stop-9142.myshopify.com/products/bibi-christmas-theme-sequin-lattering-sweater): This sweater top is perfect for the festive season with its Christmas theme and sequin lettering. The sequins add a touch of sparkle and glamour to the design. It features a cozy and comfortable fit to keep you warm during the holiday gatherings. The sweater top is versatile and can be dressed up or down for various occasions. Celebrate in style with this fun and festive Christmas-themed sweater top! Features:Basic style Stretch:Slightly stretchy Material composition:100%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-12-19T20:07:46Z
+  Updated: 2025-12-22T16:19:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -90,7 +90,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3c7d62b41e7a46909cd15144f9e35e8c-Max-Origin.webp?v=1763427458
     Price: $61.98 USD
 - [BiBi Christmas Wreath Merry Letter Knit Top](https://the-stop-9142.myshopify.com/products/bibi-christmas-wreath-merry-letter-knit-top): The Christmas Wreath Merry Letter Knit Top is a festive and joyful addition to your holiday wardrobe. Featuring a charming Christmas wreath design and cheerful "Merry" lettering, this knit top captures the spirit of the season. Made from cozy and comfortable knit fabric, it is perfect for staying warm during winter festivities. Whether you're celebrating with loved ones or spreading holiday cheer, this top is a merry and stylish choice. Embrace the magic of Christmas with this delightful knit top that will keep you feeling festive all season long. Features:Basic Style Stretch:Slightly stretchy Material composition:100%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-12-19T20:07:48Z
+  Updated: 2025-12-22T18:05:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -119,14 +119,14 @@
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/415e4a7a-1008-484b-893b-03974e854c5a-Max-Origin.webp?v=1763427576
   Price: $59.99 USD
 - [POL Crochet Floral Flared Skirt with Elastic Waist Band](https://the-stop-9142.myshopify.com/products/pol-crochet-floral-flared-skirt-with-elastic-waist-band-1): This long flared skirt is a beautiful and elegant piece designed in crochet with a solid color for a classic look. The elastic waistband ensures a comfortable and adjustable fit for all-day wear. The waved bottom opening edge point adds a unique and stylish detail to the design. With a knit inner skirt providing added comfort and coverage, this skirt is both fashionable and practical. Elevate your outfit with this sophisticated crochet skirt that effortlessly combines style and comfort. Features:Openwork Body:Lined Material composition:100% COTTON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip One Size 27-32 36-41
-  Updated: 2025-12-19T20:07:49Z
+  Updated: 2025-12-22T21:18:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/7e4e61de-497d-45ef-bbf5-25a5435844e7-Max-Origin.webp?v=1763427605
   Price: $59.99 USD
 - [RISEN High Rise Straight Jeans with Distressed Hem](https://the-stop-9142.myshopify.com/products/risen-high-rise-straight-jeans-with-distressed-hem): These high rise straight jeans feature a trendy distressed hem for a fashionable look. The distressed detailing adds a touch of edginess to the classic straight leg style. These jeans are versatile and can be dressed up or down for various occasions. The high rise design provides a flattering fit and elongates the legs. Stay on-trend with these stylish jeans featuring a unique distressed hem. Features:Distressed,Pocketed Stretch:No stretch Material composition:93% COTTON, 5% POLYESTER, 2% LYCRA Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0(24) 24 31 10.5 26-30.5 1(25) 25 32 10.5 26-30.5 3(26) 26 33 10.5 26-30.5 5(27) 27 34 11.5 26-30.5 7(28) 28 35 11.5 26-30.5 9(29) 29 36 11.5 26-30.5 11(30) 30 37 12.5 26-30.5 13(31) 31 38 12.5 26-30.5 15(32) 32 39 12.5 26-30.5
-  Updated: 2025-12-19T20:07:51Z
+  Updated: 2025-12-26T22:47:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/aa41162928e7485b9585f2fecd29d05c-Max-Origin.webp?v=1763427646
     Price: $65.99 USD
 - [SO ME Soft Touch Hairy Loose Fit Cozy Sweater Cardigan](https://the-stop-9142.myshopify.com/products/so-me-soft-touch-hairy-loose-fit-cozy-sweater-cardigan): This cozy sweater cardigan is designed with a soft touch and hairy texture for ultimate comfort. The loose fit silhouette allows for easy layering and a relaxed feel. With its cozy design, this cardigan is perfect for chilly days and cozy nights. Stay warm and stylish in this versatile piece that pairs well with any outfit. Elevate your loungewear collection with this soft touch hairy sweater cardigan for a cozy and chic look. Features:Buttoned Stretch:Slightly stretchy Material composition:70%POLYESTER 30%NYLON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length S 35-36 21.5 22 M 37-38 22 23 L 39-40 22.5 23.5 XL 41-43 23 24
-  Updated: 2025-12-19T20:07:52Z
+  Updated: 2025-12-26T19:34:52Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -422,14 +422,14 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/e3b1a78368524a0db0e7808272136d1c-Max-Origin.webp?v=1763428214
     Price: $19.99 USD
 - [Fame Denim Belt Accent Shoulder Bag](https://the-stop-9142.myshopify.com/products/fame-denim-belt-accent-shoulder-bag): Introducing the Denim Belt Accent Shoulder Bag, a trendy and versatile accessory for your everyday looks. This shoulder bag features a stylish denim material with a chic belt accent for a touch of modern flair. Perfect for adding a cool and casual vibe to your outfits, whether you're running errands or heading out with friends. The spacious interior offers ample room for your essentials, making it both fashionable and functional. Elevate your style with the Denim Belt Accent Shoulder Bag and make a fashion statement wherever you go! Bag size:Mini Material:90%PU 10%ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height One Size 12 3.5 5.5
-  Updated: 2025-12-19T20:08:12Z
+  Updated: 2025-12-22T17:06:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3e95f41c6f6448088375506c2866ae39-Max-Origin.webp?v=1763428304
   Price: $34.99 USD
 - [Fame Studded Pattern Multi Fringe Hobo Shoulder Bag](https://the-stop-9142.myshopify.com/products/fame-studded-pattern-multi-fringe-hobo-shoulder-bag): This stunning bohemian shoulder bag features premium brown leather construction with distinctive fringe detailing that creates beautiful movement and texture. The bag showcases an array of turquoise and silver studs arranged in decorative patterns, adding a Western-inspired flair. The spacious hobo-style silhouette provides ample storage while maintaining an elegant curved shape. Crafted from soft, supple leather with meticulous stitching details, this versatile piece includes an adjustable strap for comfortable shoulder or crossbody wear. The rich cognac brown leather pairs beautifully with the metallic accents, making it perfect for both casual and dressy occasions. Bag size:Medium Material:90% POLYESTER 10% ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Height One Size 14 8
-  Updated: 2025-12-19T20:08:13Z
+  Updated: 2025-12-22T17:06:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -485,7 +485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/61685080-e9e0-4f69-b702-dfacd4ac68b4-Max.webp?v=1763428372
     Price: $43.99 USD
 - [Fame Cow Print Hobo Shoulder Bag with Studded Details](https://the-stop-9142.myshopify.com/products/fame-cow-print-hobo-shoulder-bag-with-studded-details): This stylish Western-inspired shoulder bag features an eye-catching cowhide print pattern in classic brown and white coloring. Crafted from durable faux leather material, it showcases a spacious hobo-style silhouette perfect for daily use. The bag is enhanced with decorative metal studs along the edges and features an adjustable shoulder strap for comfortable carrying. Additional tassel details add a fashion bohemian touch, while the single-compartment design offers ample storage space for essentials. The authentic cowhide pattern gives it a distinctive Western ranch aesthetic, making it perfect for casual outings and adding a unique statement piece to any outfit. Bag size:Medium Material:90% POLYESTER 10% ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Height one size 16 10.5
-  Updated: 2025-12-19T20:08:21Z
+  Updated: 2025-12-22T17:06:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -506,7 +506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9ca9bd0fd2794399a252c19761d2e295-Max-Origin.webp?v=1763428432
   Price: $99.99 USD
 - [Nicole Lee USA Multi-Pocket Travel Backpack](https://the-stop-9142.myshopify.com/products/nicole-lee-usa-multi-pocket-travel-backpack): This premium vintage-style travel backpack combines functionality with distinctive tropical aesthetics. Crafted from durable synthetic leather with water-resistant properties, it features a spacious main compartment accessible via top zipper closure. The front panel showcases eye-catching tropical palm tree graphics with retro travel patches, giving it a unique vintage appeal. Multiple front utility pockets provide excellent organization for travel essentials, while the dual carrying options of top leather handle and adjustable padded shoulder straps ensure comfortable transport. Perfect for urban adventures, weekend trips, or daily commuting with its robust construction and distinctive style. Bag size:Medium Material:polyester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height OS 12 2 15
-  Updated: 2025-12-19T20:08:25Z
+  Updated: 2025-12-24T02:55:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -528,7 +528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/dbc3c20248984add92985f0bc4af35e9-Max-Origin.webp?v=1763428470
     Price: $64.99 USD
 - [Judy Blue Full Size Washed Thermal Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size): These Washed Thermal Skinny Jeans combine style with functionality for a trendy look. Made from a stretchy thermal fabric, they provide both comfort and warmth in colder weather. The washed finish adds a cool, worn-in effect for a casual vibe. The skinny fit offers a flattering silhouette that can be easily dressed up or down. Stay cozy and fashionable while rocking these versatile and chic jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93.7%Cotton 5%Polyester 1.3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 28.5 1/25 25 32 10 28.5 3/26 26 33 10 28.5 5/27 27 34 10 28.5 7/28 28 35 10 28.5 9/29 29 36 10 28.5 11/30 30 37 10 28.5 13/31 31 38 10 28.5 15/32 32 39 10 28.5 14W 33 40 11.8 28.5 16W 34 41 11.8 28.5 18W 35 42 11.8 28.5 20W 36 43 11.8 28.5 22W 37 44 11.8 28.5 24W 38 45 11.8 28.5
-  Updated: 2025-12-21T19:19:41Z
+  Updated: 2025-12-26T19:42:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -612,7 +612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/feefc3cc-f897-49b0-a4ae-282bdc2d8b63-Max-Origin.webp?v=1763511481
     Price: $57.99 USD
 - [Zenana Acid Wash Fleece Sweatpants with Pockets](https://the-stop-9142.myshopify.com/products/zenana-acid-wash-fleece-sweatpants-with-pockets): These jogger pants offer a relaxed and comfortable fit, perfect for casual wear. The elastic waistband with an adjustable drawstring ensures a secure and customizable fit. Made from a soft and breathable fabric, these pants feature a vintage wash for a unique and stylish look. The ankle cuffs and side pockets add functionality, making them ideal for everyday activities. The versatile design allows for easy pairing with various tops and shoes. Features:Drawstring,Pocketed Material composition:60%COTTON, 40%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2025-12-17T18:53:07Z
+  Updated: 2025-12-24T22:06:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -630,7 +630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
     Price: $34.99 USD
 - [Western Aztec Half Zip Plush Sweatshirt](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 42.9 23.8 M 25.6 45.3 24.2 L 26.4 47.6 24.6 XL 27.2 50.8 25
-  Updated: 2025-12-21T18:50:37Z
+  Updated: 2025-12-25T09:18:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -644,11 +644,11 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
   - [Beige / L](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044062976)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
   - [Beige / XL](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044095744)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
   - [Black / S](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044128512)
@@ -668,7 +668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-12-16T03:28:11Z
+  Updated: 2025-12-22T13:08:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -794,7 +794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
     Price: $39.06 USD
 - [Leopard Mock Neck Long Sleeve Mesh Top](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Waist S 24.4 31.5 24 28.3 M 25.2 33.9 24.4 30.7 L 26 36.2 24.8 33.1 XL 26.8 39.4 25.2 36.2
-  Updated: 2025-12-21T08:11:36Z
+  Updated: 2025-12-26T15:16:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
