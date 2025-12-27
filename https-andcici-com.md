@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-12-14T00:00:33.518Z
+- Updated At: 2025-12-27T00:00:36.357Z
 
 ## Products
 
@@ -23,13 +23,6 @@
   Product Type: Canvas Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/02_2ea8a744-cc53-42f3-908c-c4b1dbc8ad16.jpg?v=1719627889
-  Price: £14.99 GBP
-- [Vincent Van Gogh The Harvest, 1888 Canvas Tote Bag with Zip](https://andcici.com/products/vincent-van-gogh-the-harvest-1888-canvas-tote-bag-with-zip): Vincent Van Gogh Dutch Post-Impressionist Painter "The Harvest, 1888" Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: "The Harvest" by Van Gogh depicts a group of peasant laborers working in the fields during the harvest season. Created during his time in Arles, France, the painting reflects Van Gogh's fascination with rural life and his desire to capture the essence of the hardworking individuals who toil in the fields. Van Gogh used his characteristic bold colors and expressive brushstrokes to convey the energy and intensity of the labor-intensive harvest. The workers are depicted bending over as they gather the crops, with the golden wheat fields stretching out behind them. The composition is infused with a sense of movement and vitality, characteristic of Van Gogh's post-impressionist style. "The Harvest" is not only a representation of agricultural life but also a reflection of Van Gogh's emotional connection to the subjects he painted. The use of vibrant colors and dynamic brushwork is a testament to the artist's unique vision and his ability to convey the emotional resonance of the scenes he observed. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-07-31T10:30:36Z
-  Vendor: Andcici
-  Product Type: Canvas Tote Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_bd03299e-c6e2-4d17-82ed-cd3729249ed6.jpg?v=1719627889
   Price: £14.99 GBP
 - [Vincent Van Gogh The Starry Night, 1889 Canvas Tote Bag with Zip](https://andcici.com/products/vincent-van-gogh-the-starry-night-1889-canvas-tote-bag-with-zip): Vincent Van Gogh Dutch Post-Impressionist Painter “The Starry Night, 1889” Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the art: The Starry Night, painted by the Dutch post-Impressionist artist Vincent van Gogh in June 1889, is one of the most well-known and beloved works of art in the world. The painting depicts a village in the night sky, with a single cypress tree and a starry sky. The painting was created during Van Gogh’s stay in the asylum at Saint-Rémy-de-Provence, France. It is believed that the painting was inspired by a real scene, although it was later modified by the artist to fit his vision. The painting is part of the permanent collection of the Museum of Modern Art in New York, and is one of the most widely reproduced works of art in the world. The painting has been interpreted in many ways, and is seen as a representation of both the artist’s inner turmoil and the beauty of nature. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
   Updated: 2025-08-14T07:40:02Z
@@ -542,7 +535,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_b009444a-3d8c-4dd9-9ec8-254e2c5a3ee4.jpg?v=1719627109
   Price: £14.99 GBP
 - [Liberté Egalité, Fraternité Canvas Tote Bag with Zip](https://andcici.com/products/liberte-egalite-fraternite-canvas-tote-bag-with-zip): Liberté Egalité, Fraternité Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: "Liberté, Égalité, Fraternité" is the national motto of France and a cornerstone of French republican values. It translates to "Liberty, Equality, Fraternity" and encapsulates the principles that have guided the French Republic since the French Revolution. The phrase emerged during the French Revolution, a period of significant social and political upheaval from 1789 to 1799. The Revolution sought to overthrow the monarchy and establish a republic based on Enlightenment principles. The motto became popular during this time, embodying the ideals the revolutionaries were fighting for. The motto "Liberté, Égalité, Fraternité" has had a profound influence on French society and governance. It is inscribed on public buildings, currency, and official documents, serving as a constant reminder of the nation's values. The principles encapsulated in the motto have also influenced many other democratic movements and constitutions around the world. "Liberté, Égalité, Fraternité" is more than just a motto; it is a foundational ethos that shapes French identity and governance. It reflects the enduring legacy of the French Revolution and the continuous pursuit of a society where freedom, equality, and solidarity are paramount. About the bag: Dimensions: 38cm x 37cm x 11cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-05-18T03:24:22Z
+  Updated: 2025-12-25T00:37:32Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
@@ -1170,7 +1163,7 @@
 ## Collections
 
 - [Home page](https://andcici.com/collections/frontpage)
-  Updated: 2025-12-12T12:22:23Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 13
 - [Alphonse Mucha](https://andcici.com/collections/alphonse-mucha): Alfons Maria Mucha known internationally as Alphonse Mucha, was a Czech painter, illustrator, and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, as well as designs, which became among the best-known images of the period.
   Updated: 2025-12-10T12:22:57Z
@@ -1179,37 +1172,37 @@
   Updated: 2025-12-06T12:18:19Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
-  Updated: 2025-12-12T12:22:23Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-12-10T12:22:57Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
-  Updated: 2025-12-09T12:20:20Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
   Updated: 2025-12-09T12:20:20Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
-  Updated: 2025-12-12T12:22:23Z
+  Updated: 2025-12-15T12:24:20Z
   Total Products: 12
 - [William Morris](https://andcici.com/collections/william-morris): William Morris was a British textile artist, writer, and designer who was a major leader in the Arts and Crafts Movement of the 19th century. He revolutionized the decorative arts with his intricate designs and notable use of color and pattern. His works included stained glass, wallpaper, furniture, and fabric, and his influence can still be seen today in many modern designs. His passion for craftsmanship and commitment to beauty remain an inspiration to artisans and designers everywhere.
-  Updated: 2025-12-09T12:20:20Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 6
 - [Van Gogh](https://andcici.com/collections/van-gogh): Vincent Willem Van Gogh (30 March 1853 - 29 July 1890) was a Dutch Post-impressionist painter born in North Brabant, Netherlands. He was an influential Post-Impressionist painter who is still widely regarded as one of the most important figures in the history of art. After his passing, he became one of the most famous & influential figures in Western Art History. In a decade, he created about 2,100 artworks, including Starry Night, The Potato Eaters and Sunflowers
-  Updated: 2025-12-09T12:20:20Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 28
 - [Johannes Vermeer](https://andcici.com/collections/johannes-vermeer): Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age, famous for his intimate household scenes with amazing light. In other paintings by Vermeer, such as the famous Girl with a Pearl Earring and View of Delft, he managed to create a calm, almost timeless atmosphere.
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-12-12T12:22:23Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-12-12T12:22:23Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-12-12T12:22:23Z
+  Updated: 2025-12-25T12:11:05Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-12-06T12:18:19Z
