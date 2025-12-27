@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2025-12-22T00:00:37.409Z
+- Updated At: 2025-12-27T00:00:37.704Z
 
 ## Products
 
@@ -3092,211 +3092,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
-- [Prayer Tee — “The Original Wireless Connection” Christian Graphic Shirt](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): This lightweight tee speaks like a wink and a prayer. Bold varsity letters spell PRAYER across the chest, and below, minimalist geometric hands press together against subtle signal-wave lines — a clever nod that faith connects deeper than any bar of Wi‑Fi. The clean script tagline, “The Original Wireless Connection,” lands with playful confidence. It sits comfortably in everyday life: layered under a flannel for errands, worn solo at small group meetups, or thrown on after Sunday service. The tone is conversational and a little irreverent, aimed at people who live their faith with humor and clarity. The shirt feels modern and intentional — simple lines, strong message, and easy-to-wear fabric that moves with you. It’s made to be reached for on mornings when you want to state something true without saying too much.Product features- 100% Airlume combed ring-spun cotton — breathable, lightweight (4.2 oz/yd²)- Retail fit with crew neckline — neat, easy to layer- Durable construction: side seams, shoulder tape, ribbed knit collar- High-quality print: crisp chest and sleeve graphics via DTF/DTG methods- Tear-away label, REACH certified, responsibly manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-12-11T05:41:16Z
+- [Prayer Tee — "The Original Wireless Connection" Graphic T-Shirt](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): A bold black tee that speaks softly and clearly. The arched “PRAYER” varsity lettering and engraved praying hands sit like a relic updated for the digital age. Subtle radiating signal arcs behind the hands reframe the image — faith as connection, patience as reception. Wear it to slow down in noisy spaces, to start quiet conversations at coffee shops or community events, or to carry a small reminder of stillness through a hectic commute. The distressed texture and high-contrast print give it an authentic, lived-in look that pairs with denim, a worn jacket, or a hoodie layered over on cooler evenings. It’s made to feel comfortable against the skin while broadcasting a small, thoughtful message: faith is communication, and sometimes you only need to tune in.Product features- 100% Airlume combed ring-spun cotton — lightweight, breathable 4.2 oz fabric- Side seams and shoulder tape for lasting shape and stable fit- Ribbed knit collar with seam and tear-away label for comfort- DTF/DTG print methods for crisp, detailed sleeve and neck graphics- REACH certified; retail fit sourced from humane, certified manufacturing (Bella+Canvas)Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
+  Updated: 2025-12-23T06:08:29Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8956353479269952667_2048.jpg?v=1765388460
-  - [Asphalt / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410643877967)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14166703099450533688_2048.jpg?v=1765388461
-    Price: $18.50 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1271955343675791917_2048.jpg?v=1766426912
   - [Black / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441568335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12259605925931282859_2048.jpg?v=1765388463
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6628853067388444796_2048.jpg?v=1766426917
     Price: $18.50 USD
   - [Dark Grey / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441601103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16658184017043929094_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6613980124759798480_2048.jpg?v=1766426919
     Price: $18.50 USD
   - [Dark Grey Heather / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441633871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8956353479269952667_2048.jpg?v=1765388460
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1271955343675791917_2048.jpg?v=1766426912
     Price: $18.50 USD
   - [Forest / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441666639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6716972347633582572_2048.jpg?v=1765388467
-    Price: $18.50 USD
-  - [Heather Team Purple / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43932649062479)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11473268711247971631_2048.jpg?v=1765388471
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9568666707692976128_2048.jpg?v=1766426922
     Price: $18.50 USD
   - [Maroon / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441699407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4015005372868017495_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10034654940797558513_2048.jpg?v=1766426925
     Price: $18.50 USD
   - [Navy / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441732175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1961713475878336328_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/3526673757579718753_2048.jpg?v=1766426923
     Price: $18.50 USD
   - [Solid Black Blend / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739066959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8114058341223817716_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13261458359553996642_2048.jpg?v=1766426914
     Price: $18.50 USD
   - [Vintage Black / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441764943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1260506763617847975_2048.jpg?v=1765388466
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7465719081669778297_2048.jpg?v=1766426921
     Price: $18.50 USD
   - [Black Heather / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441797711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15856721478630512833_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10335321304749838792_2048.jpg?v=1766426918
     Price: $18.50 USD
   - [Brown / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441830479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6726411307203837697_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12592291353122733783_2048.jpg?v=1766426915
     Price: $18.50 USD
-  - [Storm / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43932649095247)
+  - [Team Navy / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=44097729986639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12266764374780675389_2048.jpg?v=1765388472
-    Price: $18.50 USD
-  - [Asphalt / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644303951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14166703099450533688_2048.jpg?v=1765388461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7527464951187607971_2048.jpg?v=1766426926
     Price: $18.50 USD
   - [Black / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441863247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12259605925931282859_2048.jpg?v=1765388463
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6628853067388444796_2048.jpg?v=1766426917
     Price: $18.50 USD
   - [Dark Grey / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441896015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16658184017043929094_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6613980124759798480_2048.jpg?v=1766426919
     Price: $18.50 USD
   - [Dark Grey Heather / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441928783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8956353479269952667_2048.jpg?v=1765388460
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1271955343675791917_2048.jpg?v=1766426912
     Price: $18.50 USD
   - [Forest / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441961551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6716972347633582572_2048.jpg?v=1765388467
-    Price: $18.50 USD
-  - [Heather Team Purple / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43932649128015)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11473268711247971631_2048.jpg?v=1765388471
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9568666707692976128_2048.jpg?v=1766426922
     Price: $18.50 USD
   - [Maroon / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922441994319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4015005372868017495_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10034654940797558513_2048.jpg?v=1766426925
     Price: $18.50 USD
   - [Navy / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442027087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1961713475878336328_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/3526673757579718753_2048.jpg?v=1766426923
     Price: $18.50 USD
   - [Solid Black Blend / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739230799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8114058341223817716_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13261458359553996642_2048.jpg?v=1766426914
     Price: $18.50 USD
   - [Vintage Black / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442059855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1260506763617847975_2048.jpg?v=1765388466
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7465719081669778297_2048.jpg?v=1766426921
     Price: $18.50 USD
   - [Black Heather / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442092623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15856721478630512833_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10335321304749838792_2048.jpg?v=1766426918
     Price: $18.50 USD
   - [Brown / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442125391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6726411307203837697_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12592291353122733783_2048.jpg?v=1766426915
     Price: $18.50 USD
-  - [Storm / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43932649160783)
+  - [Team Navy / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=44097730019407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12266764374780675389_2048.jpg?v=1765388472
-    Price: $18.50 USD
-  - [Asphalt / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644729935)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14166703099450533688_2048.jpg?v=1765388461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7527464951187607971_2048.jpg?v=1766426926
     Price: $18.50 USD
   - [Black / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442158159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12259605925931282859_2048.jpg?v=1765388463
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6628853067388444796_2048.jpg?v=1766426917
     Price: $18.50 USD
   - [Dark Grey / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442190927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16658184017043929094_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6613980124759798480_2048.jpg?v=1766426919
     Price: $18.50 USD
   - [Dark Grey Heather / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442223695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8956353479269952667_2048.jpg?v=1765388460
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1271955343675791917_2048.jpg?v=1766426912
     Price: $18.50 USD
   - [Forest / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442256463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6716972347633582572_2048.jpg?v=1765388467
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9568666707692976128_2048.jpg?v=1766426922
     Price: $18.50 USD
   - [Maroon / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442289231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4015005372868017495_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10034654940797558513_2048.jpg?v=1766426925
     Price: $18.50 USD
   - [Navy / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442321999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1961713475878336328_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/3526673757579718753_2048.jpg?v=1766426923
     Price: $18.50 USD
   - [Solid Black Blend / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739394639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8114058341223817716_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13261458359553996642_2048.jpg?v=1766426914
     Price: $18.50 USD
   - [Vintage Black / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442354767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1260506763617847975_2048.jpg?v=1765388466
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7465719081669778297_2048.jpg?v=1766426921
     Price: $18.50 USD
   - [Black Heather / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442387535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15856721478630512833_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10335321304749838792_2048.jpg?v=1766426918
     Price: $18.50 USD
   - [Brown / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442420303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6726411307203837697_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12592291353122733783_2048.jpg?v=1766426915
     Price: $18.50 USD
-  - [Storm / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43932649193551)
+  - [Team Navy / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=44097730052175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12266764374780675389_2048.jpg?v=1765388472
-    Price: $18.50 USD
-  - [Asphalt / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645123151)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14166703099450533688_2048.jpg?v=1765388461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7527464951187607971_2048.jpg?v=1766426926
     Price: $18.50 USD
   - [Black / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442453071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12259605925931282859_2048.jpg?v=1765388463
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6628853067388444796_2048.jpg?v=1766426917
     Price: $18.50 USD
   - [Dark Grey / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442485839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16658184017043929094_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6613980124759798480_2048.jpg?v=1766426919
     Price: $18.50 USD
   - [Dark Grey Heather / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442518607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8956353479269952667_2048.jpg?v=1765388460
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1271955343675791917_2048.jpg?v=1766426912
     Price: $18.50 USD
   - [Forest / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442551375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6716972347633582572_2048.jpg?v=1765388467
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9568666707692976128_2048.jpg?v=1766426922
     Price: $18.50 USD
   - [Maroon / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442584143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4015005372868017495_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10034654940797558513_2048.jpg?v=1766426925
     Price: $18.50 USD
   - [Navy / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442616911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1961713475878336328_2048.jpg?v=1765388468
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/3526673757579718753_2048.jpg?v=1766426923
     Price: $18.50 USD
   - [Solid Black Blend / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739558479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8114058341223817716_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13261458359553996642_2048.jpg?v=1766426914
     Price: $18.50 USD
   - [Vintage Black / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442649679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1260506763617847975_2048.jpg?v=1765388466
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7465719081669778297_2048.jpg?v=1766426921
     Price: $18.50 USD
   - [Black Heather / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442682447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15856721478630512833_2048.jpg?v=1765388464
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10335321304749838792_2048.jpg?v=1766426918
     Price: $18.50 USD
   - [Brown / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442715215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6726411307203837697_2048.jpg?v=1765388462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12592291353122733783_2048.jpg?v=1766426915
     Price: $18.50 USD
-  - [Storm / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43932649226319)
+  - [Team Navy / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=44097730084943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12266764374780675389_2048.jpg?v=1765388472
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7527464951187607971_2048.jpg?v=1766426926
+    Price: $18.50 USD
+  - [Black / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442747983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6628853067388444796_2048.jpg?v=1766426917
+    Price: $18.50 USD
+  - [Dark Grey / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442780751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6613980124759798480_2048.jpg?v=1766426919
+    Price: $18.50 USD
+  - [Dark Grey Heather / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442813519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1271955343675791917_2048.jpg?v=1766426912
+    Price: $18.50 USD
+  - [Forest / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442846287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9568666707692976128_2048.jpg?v=1766426922
+    Price: $18.50 USD
+  - [Maroon / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442879055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10034654940797558513_2048.jpg?v=1766426925
+    Price: $18.50 USD
+  - [Navy / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43922442911823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/3526673757579718753_2048.jpg?v=1766426923
     Price: $18.50 USD
 - [Eternally Sealed Long Sleeve Shirt — “by the Spirit” Scripture Design](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear): Clean lines. Quiet confidence. This long-sleeve feels like a thoughtful pause in a loud world — lightweight and athletic, it moves with you and keeps you cool while a single tiny red wax-seal dot speaks volumes. The bold “ETERNALLY SEALED” headline sits tall and steady across the chest, softened by the elegant “by the Spirit” script and a subtle scripture line beneath. Wear it on morning runs, early church gatherings, or while volunteering; it reads as refined rather than flashy, like someone who values clarity and intention. The fabric is whisper-light and fast-drying, offering UPF 30+ protection when the sun is high. It’s for people who want performance without shouting — understated symbolism, purposeful design, and everyday comfort that stays put.Product features- 100% moisture-wicking polyester — stays dry and cool- Extra-light 3.5 oz fabric for barely-there comfort- DTF print for sharp, durable graphics- UPF 30+ sun protection for outdoor wear- Athletic fit with durable, shape-retaining polyesterCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
   Updated: 2025-12-06T10:42:58Z
@@ -3583,158 +3583,198 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sinner-loading-grace-77-t-shirt-minimalist-catholic-humor-tee-black-xs-413.webp?v=1764191842
     Price: $31.90 USD
 - [More Holy Spirit Less Drama T-Shirt — Y2K Neon Dove Christian Graphic](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear): This tee channels late‑90s/early‑00s Y2K energy into a faith-forward statement piece. A luminous white dove, clutching an olive branch, floats inside a chrome holographic ring while neon rays and scattered hearts burst outward—glossy, high-contrast, and designed to glow against dark fabric. Bold chrome-gradient lettering proclaims “MORE HOLY SPIRIT” above, and neon “LESS DRAMA” anchors the composition alongside a row of red X’s that feel like shutting out noise and distraction. Wear it to church nights, creative worship gatherings, or casual meetups when you want your faith to feel playful, brave, and unapologetically joyful. The heavier midweight fabric and classic fit give it substance; thoughtful construction details like twill neck tape, double-needle topstitching, and a tubular knit keep the silhouette steady wash after wash. This shirt reads as both a conversation starter and a wearable reminder to choose peace over chaos.Product features- 100% cotton solid colors; heathers 60/40 cotton/poly blend- Medium weight (6.1 oz/yd²) classic fit with tag-free neck label- Twill tape at neck/shoulders and tubular knit for shape retention- Durable double-needle topstitching and left-sleeve "C" logo- Meets EU REACH; made in Honduras; adult sizingCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-12-11T08:42:00Z
+  Updated: 2025-12-23T05:21:28Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
   - [Black / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786811983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5130064274904538694_2048.jpg?v=1765399343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4830397924116941206_2048.jpg?v=1766424109
     Price: $25.32 USD
   - [Charcoal Heather / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786844751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
     Price: $25.32 USD
+  - [Light Steel / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053567055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15852878909053561775_2048.jpg?v=1766424095
+    Price: $25.22 USD
   - [Navy / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786877519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2755341656394527955_2048.jpg?v=1765399337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10755138322845477816_2048.jpg?v=1766424104
     Price: $25.32 USD
-  - [Royal Blue / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786910287)
+  - [Red / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053599823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12631851225082339065_2048.jpg?v=1765399333
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2089607437358754652_2048.jpg?v=1766424122
     Price: $25.32 USD
+  - [White / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053632591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9354051775399701056_2048.jpg?v=1766424089
+    Price: $24.63 USD
   - [Cardinal / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786975823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11139794553576741496_2048.jpg?v=1765399355
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7958763153688961276_2048.jpg?v=1766424116
     Price: $25.32 USD
-  - [Purple / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787041359)
+  - [Light Blue / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053665359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1421430153374347943_2048.jpg?v=1765399349
-    Price: $25.32 USD
-  - [Dark Green / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787074127)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13862736475254746727_2048.jpg?v=1765399327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15328991733035163163_2048.jpg?v=1766424100
     Price: $25.32 USD
   - [Black / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787106895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5130064274904538694_2048.jpg?v=1765399343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4830397924116941206_2048.jpg?v=1766424109
     Price: $25.32 USD
   - [Charcoal Heather / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787139663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
     Price: $25.32 USD
+  - [Light Steel / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053698127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15852878909053561775_2048.jpg?v=1766424095
+    Price: $25.22 USD
   - [Navy / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787172431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2755341656394527955_2048.jpg?v=1765399337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10755138322845477816_2048.jpg?v=1766424104
     Price: $25.32 USD
+  - [Red / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053730895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2089607437358754652_2048.jpg?v=1766424122
+    Price: $25.32 USD
+  - [White / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053763663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9354051775399701056_2048.jpg?v=1766424089
+    Price: $24.63 USD
   - [Cardinal / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018457167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11139794553576741496_2048.jpg?v=1765399355
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7958763153688961276_2048.jpg?v=1766424116
     Price: $25.32 USD
-  - [Purple / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787303503)
+  - [Light Blue / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053796431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1421430153374347943_2048.jpg?v=1765399349
-    Price: $25.32 USD
-  - [Dark Green / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787336271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13862736475254746727_2048.jpg?v=1765399327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15328991733035163163_2048.jpg?v=1766424100
     Price: $25.32 USD
   - [Black / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787369039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5130064274904538694_2048.jpg?v=1765399343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4830397924116941206_2048.jpg?v=1766424109
     Price: $25.32 USD
   - [Charcoal Heather / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787401807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
     Price: $25.32 USD
+  - [Light Steel / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053829199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15852878909053561775_2048.jpg?v=1766424095
+    Price: $25.22 USD
   - [Navy / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787434575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2755341656394527955_2048.jpg?v=1765399337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10755138322845477816_2048.jpg?v=1766424104
     Price: $25.32 USD
-  - [Royal Blue / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787467343)
+  - [Red / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053861967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/12631851225082339065_2048.jpg?v=1765399333
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2089607437358754652_2048.jpg?v=1766424122
     Price: $25.32 USD
+  - [White / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053894735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9354051775399701056_2048.jpg?v=1766424089
+    Price: $24.63 USD
   - [Cardinal / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43458156855375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11139794553576741496_2048.jpg?v=1765399355
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7958763153688961276_2048.jpg?v=1766424116
     Price: $25.32 USD
-  - [Purple / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787532879)
+  - [Light Blue / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053927503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1421430153374347943_2048.jpg?v=1765399349
-    Price: $25.32 USD
-  - [Dark Green / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787565647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13862736475254746727_2048.jpg?v=1765399327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15328991733035163163_2048.jpg?v=1766424100
     Price: $25.32 USD
   - [Black / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787598415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5130064274904538694_2048.jpg?v=1765399343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4830397924116941206_2048.jpg?v=1766424109
     Price: $25.32 USD
   - [Charcoal Heather / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787631183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
     Price: $25.32 USD
+  - [Light Steel / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053960271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15852878909053561775_2048.jpg?v=1766424095
+    Price: $25.22 USD
   - [Navy / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787663951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2755341656394527955_2048.jpg?v=1765399337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10755138322845477816_2048.jpg?v=1766424104
     Price: $25.32 USD
+  - [Red / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093053993039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2089607437358754652_2048.jpg?v=1766424122
+    Price: $25.32 USD
+  - [White / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054025807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9354051775399701056_2048.jpg?v=1766424089
+    Price: $24.63 USD
   - [Cardinal / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43928868814927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11139794553576741496_2048.jpg?v=1765399355
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7958763153688961276_2048.jpg?v=1766424116
     Price: $25.32 USD
-  - [Purple / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787827791)
+  - [Light Blue / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054058575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1421430153374347943_2048.jpg?v=1765399349
-    Price: $25.32 USD
-  - [Dark Green / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787860559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13862736475254746727_2048.jpg?v=1765399327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15328991733035163163_2048.jpg?v=1766424100
     Price: $25.32 USD
   - [Black / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018522703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5130064274904538694_2048.jpg?v=1765399343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4830397924116941206_2048.jpg?v=1766424109
     Price: $29.27 USD
   - [Charcoal Heather / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43928868847695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
+    Price: $29.27 USD
+  - [Light Steel / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054091343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15852878909053561775_2048.jpg?v=1766424095
     Price: $29.27 USD
   - [Navy / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787926095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2755341656394527955_2048.jpg?v=1765399337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10755138322845477816_2048.jpg?v=1766424104
     Price: $29.27 USD
-  - [Purple / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788089935)
+  - [Red / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054124111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1421430153374347943_2048.jpg?v=1765399349
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2089607437358754652_2048.jpg?v=1766424122
     Price: $29.27 USD
-  - [Dark Green / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018588239)
+  - [White / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054156879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13862736475254746727_2048.jpg?v=1765399327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9354051775399701056_2048.jpg?v=1766424089
+    Price: $28.60 USD
+  - [Light Blue / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054189647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15328991733035163163_2048.jpg?v=1766424100
     Price: $29.27 USD
   - [Black / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788155471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5130064274904538694_2048.jpg?v=1765399343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4830397924116941206_2048.jpg?v=1766424109
     Price: $29.92 USD
   - [Charcoal Heather / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788188239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15303895264186732611_2048.jpg?v=1765399322
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13787685501681777967_2048.jpg?v=1766424084
+    Price: $29.92 USD
+  - [Light Steel / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054222415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15852878909053561775_2048.jpg?v=1766424095
     Price: $29.92 USD
   - [Navy / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018621007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2755341656394527955_2048.jpg?v=1765399337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10755138322845477816_2048.jpg?v=1766424104
     Price: $29.92 USD
+  - [Red / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054255183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2089607437358754652_2048.jpg?v=1766424122
+    Price: $29.92 USD
+  - [White / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054287951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9354051775399701056_2048.jpg?v=1766424089
+    Price: $29.25 USD
   - [Cardinal / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43928868880463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11139794553576741496_2048.jpg?v=1765399355
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7958763153688961276_2048.jpg?v=1766424116
     Price: $29.92 USD
-  - [Purple / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788352079)
+  - [Light Blue / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=44093054320719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/1421430153374347943_2048.jpg?v=1765399349
-    Price: $29.92 USD
-  - [Dark Green / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788384847)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13862736475254746727_2048.jpg?v=1765399327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15328991733035163163_2048.jpg?v=1766424100
     Price: $29.92 USD
 - [Hope Christian T-Shirt — John 1:5 Gold Floral Bible Verse Tee](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions): Black tee with a quiet, steadfast voice. The distressed gold HOPE catches the eye, while a single wildflower budding inside the O feels like a small, stubborn miracle. Below it, John 1:5 in a modest gold serif anchors the design with Scripture: The light shines in the darkness, and the darkness has not overcome it. Wear it to church, tuck it into your weekend rotation, or bring it to a vigil — it settles the shoulders and reminds you who holds the light. The garment-dyed, heavyweight cotton softens with wear; the relaxed fit and reinforced stitching mean this shirt moves with you through weekday rhythm and Sunday stillness. Wherever you go, the design reads like a quiet testimony: gentle, resilient, and hopeful.Product features- Available S–4XL (see Comfort Colors 1717 size chart)- Garment-dyed heavyweight 100% ring-spun cotton for soft texture- Double-needle stitching and tubular knit (no side seams) for durability and clean look- Relaxed, pre-shrunk fit with sewn-in label- Made in Honduras; available in 58 colorsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-12-10T09:07:34Z
