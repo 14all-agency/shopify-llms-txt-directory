@@ -1,12 +1,16 @@
 # Stile Donna Bags (https://stiledonnabags.com)
 
+> Our store specialized in selling women's bags and accessories. Leather bags, wallets and backpack. 
+
 - Domain: https://stiledonnabags.com
 - Locale: en
 - Currency: EUR
 - Timezone: Europe/Rome
 - Created At: 2025-07-01T11:14:20Z
-- Contact Email: info@stiledonnabags.com
-- Updated At: 2025-12-27T09:09:17.559Z
+- Contact Email: contact@stiledonnabags.com
+- Contact Phone: +393511061108
+- Address: Via Testulla 149, 95122 Catania, Catania, Italy.
+- Updated At: 2025-12-27T09:14:58.010Z
 
 ## Products
 
