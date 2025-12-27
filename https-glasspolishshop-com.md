@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-12-26T00:00:46.091Z
+- Updated At: 2025-12-27T00:00:45.794Z
 
 ## Products
 
@@ -292,7 +292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/21101_fa1f56da-ec45-4a8e-894f-f506f23ecf9c.jpg?v=1757944265
   Price: €14.95 EUR
 - [DIY Metal Hand Polishing Kit – Restore Stainless Steel & Chrome Finish](https://glasspolishshop.com/products/metal-and-stainless-steel-hand-polishing-kit): Easily remove rust, oxidation, haziness, and abrasions with our DIY Metal Hand Polishing Kit. Safe for stainless steel, chrome, brass, copper, and aluminium.
-  Updated: 2025-11-30T16:36:55Z
+  Updated: 2025-12-26T12:09:26Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
@@ -1202,7 +1202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90011-2.jpg?v=1739292169
   Price: €195.95 EUR
 - [Cerium Oxide High-Grade 50g | TREO 85% | 3.5 Microns - GP90006](https://glasspolishshop.com/products/cerium-oxide-high-grade-50g-1-76oz): Glass polishing powder for all glass types. Removes scratches, sanding marks, haziness and water spots, restoring clarity and eliminating surface imperfections.
-  Updated: 2025-12-14T04:20:42Z
+  Updated: 2025-12-26T23:13:11Z
   Vendor: Glass Polish
   Product Type: Cerium Oxide
   Availability: Available
@@ -1950,7 +1950,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Flex-L1503VR_129886a8-8ef1-430d-9368-158bba6809b2.jpg?v=1737643737
   Price: €419.95 EUR
 - [Flex L1503VR - 230v](https://glasspolishshop.com/products/flex-l1503vr-230v-rotary-polisher): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-12-18T08:04:18Z
+  Updated: 2025-12-26T21:34:26Z
   Vendor: Flex
   Product Type: 
   Availability: Available
@@ -2961,10 +2961,10 @@
 ## Collections
 
 - [Repair Kits – DIY & Professional Restoration for Glass, Plastic & More](https://glasspolishshop.com/collections/repair-kits): Complete range of DIY & professional repair kits for glass, plastic, acrylic, metal and leather. Cost-effective solutions with step-by-step instructions.
-  Updated: 2025-12-25T12:14:49Z
+  Updated: 2025-12-26T12:16:46Z
   Total Products: 28
 - [Glass Restoration Kits | DIY & Professional Scratch Removal Solutions](https://glasspolishshop.com/collections/glass-restoration-kits): Explore our range of DIY and professional glass restoration kits. Remove scratches, polish glass, and restore clarity with easy-to-use, all-in-one repair kits.
-  Updated: 2025-12-25T12:14:49Z
+  Updated: 2025-12-26T12:16:46Z
   Total Products: 13
 - [Metal Polishing Kits | Stainless Steel Polishing Kits](https://glasspolishshop.com/collections/metal-polishing-kits): Metal and Stainless Steel Polishing kits with Advanced Metal Polish Compound that cleans, shines and protects the surface, kits can be used by hand, with an electric drill or polisher.
   Updated: 2025-12-01T12:41:31Z
@@ -3015,7 +3015,7 @@
   Updated: 2025-12-21T12:20:43Z
   Total Products: 32
 - [Glass Scratch Removal Kits for DIY & Professional Glass Repair](https://glasspolishshop.com/collections/glass-scratch-removal-kits): Shop glass scratch removal kits for all glass surfaces. Professional and DIY systems to repair, polish and restore original glass clarity and shine
-  Updated: 2025-12-25T12:14:49Z
+  Updated: 2025-12-26T12:16:46Z
   Total Products: 8
 - [Glass Polish Automotive Glass](https://glasspolishshop.com/collections/windscreen-polish): Glass Polish Automotive Glass Restoration ,  Removes wipe blade damage, side windows scratched from any car glass by using DIY or PRO kit
   Updated: 2025-12-21T12:20:43Z
@@ -3078,7 +3078,7 @@
   Updated: 2025-12-17T12:41:10Z
   Total Products: 3
 - [GLASS POLISH SHOP - Special Offers &amp; Bundles](https://glasspolishshop.com/collections/special-offers-bundles): Huge savings on the products you like
-  Updated: 2025-12-23T12:21:39Z
+  Updated: 2025-12-26T12:16:46Z
   Total Products: 35
 - [GlasX™ Premium Foam-Backed Abrasive Discs – Scratch Removal & Sanding](https://glasspolishshop.com/collections/glasx-foam-backed-abrasive-discs): Shop GlasX™ foam-backed abrasive discs for glass, plastic and headlights. Ideal for scratch removal and pre-polish sanding with smooth, consistent results.
   Updated: 2025-12-25T12:14:49Z
@@ -3087,7 +3087,7 @@
   Updated: 2025-12-18T12:29:47Z
   Total Products: 31
 - [DIY Glass Scratch Removal & Polishing Kits for Home Use](https://glasspolishshop.com/collections/diy-glass-restoration-kits): Remove scratches, restore clarity, and polish glass at home with our easy-to-use DIY kits for windscreens, windows, doors, shower glass, ceramic hobs and more.
-  Updated: 2025-12-25T12:14:49Z
+  Updated: 2025-12-26T12:16:46Z
   Total Products: 8
 - [Discs & Pads – Abrasive, Backing, Polishing & Sanding Pads for Repairs](https://glasspolishshop.com/collections/discs-and-pads): Discover abrasive discs, backing pads, polishing pads, and sanding pads for professional and DIY use. Achieve precision and durability on any surface.
   Updated: 2025-12-16T12:32:08Z
