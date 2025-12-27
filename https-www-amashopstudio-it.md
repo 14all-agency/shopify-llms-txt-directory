@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-26T00:00:43.104Z
+- Updated At: 2025-12-27T00:00:42.508Z
 
 ## Products
 
@@ -722,7 +722,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Adesivo ''Benvenuto celeste '' personalizzabile (50 PZ.)](https://www.amashopstudio.it/products/adesivo-benvenuto-celeste-personalizzabile-50-pz): Tenero adesivo design Cuori orsetto, idea per personalizzare pacchi, bomboniere o qualsiasi altra superficie . Diametro a scelta tra 3 -4 o 5 cm. Su richiesta stesso articolo anche di dimensioni personalizzate . Carta adesiva bianca. Kit 50 .pz ( SELEZIONA DIMENSIONE )
-  Updated: 2025-09-17T14:59:23Z
+  Updated: 2025-12-26T12:17:36Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
