@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-04-24T12:00:01Z
 - Contact Email: donnerwolforiginal@gmail.com
-- Updated At: 2025-12-25T00:00:29.982Z
+- Updated At: 2025-12-27T00:00:31.684Z
 
 Donnerwolf ist dein Shop für authentische Wikinger-Mode und nordische Apparel. Wir bieten Premium T-Shirts, Hoodies, Tank-Tops und Accessoires mit kraftvollen Wikinger-Motiven, humorvollen Sprüchen und nordischer Mythologie. Alle Produkte aus nachhaltiger Bio-Baumwolle. Kostenloser Versand ab 50€ in Deutschland.
 
@@ -9669,7 +9669,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/ich-kaempfe-fuer-alles-damen-shirt-brown-xs-lady-shirts-304.webp?v=1733762205
     Price: 24,95 € EUR
 - [Ich kämpfe für alles - Basic Sweatshirt](https://donnerwolf.de/products/ich-kampfe-fur-alles-basic-sweatshirt): 80% Baumwolle, 20% Polyester (Black 70% Baumwolle / 30% Polyester) 280 g / M² Regular Fit (normale Passform) Set-In-Ärmel.
-  Updated: 2025-05-13T22:42:23Z
+  Updated: 2025-12-26T09:38:29Z
   Vendor: Donnerwolf
   Product Type: Sweatshirts
   Availability: Available
@@ -19530,6 +19530,54 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Updated: 2025-12-18T01:04:16Z
     Author: Donnerwolf Team
     Tags: bedeutung von nordischen göttern, germanen, götter, göttersymbole, legenden der nordischen mythologie, mythologie, nordische, nordische götter, nordische kultur, nordische symbole, nordischer lifestyle, odin, runen, skandinavisches design, thor, valhalla, viking style, wikinger, wikinger religion
+
+## Store Pages
+
+- [Kontakt](https://donnerwolf.de/pages/contact): Kontaktiere uns - Wir sind 24/7 für Dich da! Du hast Fragen, Anregungen oder benötigst Unterstützung? Zögere nicht, uns zu kontaktieren. In der Reg...
+  Updated: 2024-12-08T21:54:34Z
+- [Häufig gestellte Fragen - FAQ | Donnerwolf](https://donnerwolf.de/pages/faqs): Häufig gestellte Fragen Hier finden Sie alle wichtigen Informationen zu Ihrem Donnerwolf-Einkauf. Bei weiteren Fragen kontaktieren Sie uns gerne! 📦...
+  Updated: 2025-06-14T12:28:38Z
+- [Über](https://donnerwolf.de/pages/uber-uns): .uber-uns-container { display: flex; /* Nutzt Flexbox für flexible Anordnung */ flex-direction: column; /* Standard auf kleineren Bildschirmen: Inh...
+  Updated: 2025-07-28T01:02:47Z
+- [Häufige Fragen - FAQ | Donnerwolf](https://donnerwolf.de/pages/haufige-fragen): Häufig gestellte Fragen 👕 Produkte & Material Aus welchem Material bestehen die T-Shirts? Alle Artikel sind zu 100% fair und vegan aus Bio-Baumwoll...
+  Updated: 2025-06-14T12:37:04Z
+- [Waschanleitung - Pflegehinweise für T-Shirts | Donnerwolf](https://donnerwolf.de/pages/waschanleitung): Waschanleitung & PflegehinweiseDamit Sie lange Freude an Ihren Donnerwolf T-Shirts haben, finden Sie hier die wichtigsten Pflegehinweise für unsere...
+  Updated: 2025-06-14T12:40:44Z
+- [Hallo liebe Wikinger und Schildmaiden!](https://donnerwolf.de/pages/umtausch-rucksendung): Wir wollen ganz offen und transparent sein und hoffen, dass du unsere Situation verstehen kannst. Rücksendungen sind teuer und stellen uns als jung...
+  Updated: 2024-12-08T21:54:46Z
+- [APPI Privacy Policy](https://donnerwolf.de/pages/appi-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2024-12-08T21:54:57Z
+- [LGPD Privacy Policy](https://donnerwolf.de/pages/lgpd-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2024-12-08T21:55:05Z
+- [PIPEDA Privacy Policy](https://donnerwolf.de/pages/pipeda-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2024-12-08T21:55:09Z
+- [CCPA Privacy Policy](https://donnerwolf.de/pages/ccpa-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2024-12-29T04:06:43Z
+- [GDPR Privacy Policy](https://donnerwolf.de/pages/gdpr-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2024-12-08T21:55:24Z
+- [FAQs](https://donnerwolf.de/pages/pushdaddy-faq-1): Your FAQ content here
+  Updated: 2024-12-08T21:55:28Z
+- [Hersteller](https://donnerwolf.de/pages/hersteller): Sicherheitshinweise gemäß Verordnung (EU) 2023/988 (GPSR) Entflammbarkeit: Textilien wie T-Shirts, Hoodies, Caps und andere Kleidungsstücke können ...
+  Updated: 2025-06-01T15:56:54Z
+- [Versandinformationen - Lieferung & Versandkosten | Donnerwolf](https://donnerwolf.de/pages/versand): Versandinformationen Hier finden Sie alle wichtigen Informationen zu Versandkosten, Lieferzeiten und unserem Versandservice bei Donnerwolf. 📦 Versa...
+  Updated: 2025-06-14T12:33:16Z
+- [Zahlungsinformationen](https://donnerwolf.de/pages/zahlungsinformationen): WELCHE ZAHLUNGSMETHODEN STEHEN ZUR VERFÜGUNG? Du kannst bei uns mit den folgenden Zahlungsmethoden bezahlen:- Kreditkarte (Visa, MasterCard,)- Sofo...
+  Updated: 2025-08-06T13:41:08Z
+- [Nordische Symbole und ihre Bedeutung: Wikinger Symbole erklärt](https://donnerwolf.de/pages/nordische-symbole-bedeutung): Nordische Symbole und ihre Bedeutung – Die Macht der Wikinger-Symbole Die nordischen Symbole der Wikinger sind mehr als nur Verzierungen – sie sind...
+  Updated: 2025-12-12T01:31:56Z
+
+## Policies
+
+- [Privacy Policy](https://donnerwolf.de/policies/privacy-policy)
+  Updated: 2025-07-24T17:05:05+02:00
+- [Shipping Policy](https://donnerwolf.de/policies/shipping-policy)
+  Updated: 2025-03-03T14:40:11+01:00
+- [Refund Policy](https://donnerwolf.de/policies/refund-policy)
+  Updated: 2024-07-07T15:09:11+02:00
+- [Terms of Service](https://donnerwolf.de/policies/terms-of-service)
+  Updated: 2023-11-08T15:19:30+01:00
+- [Contact Information](https://donnerwolf.de/policies/contact-information)
+  Updated: 2024-01-14T14:59:52+01:00
 
 ## Optional
 
