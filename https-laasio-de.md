@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2025-12-22T00:00:27.757Z
+- Updated At: 2025-12-27T00:00:33.099Z
 
 ## Products
 
@@ -80,7 +80,7 @@
     Availability: Available
     Price: 24,90 € EUR
 - [Personalisierbar Fingerabdruck Kette, Fingerabdruck Halskette mit 20mm Anhänger, Kette für Frau und man in Gold ,Rosegold,Silber](https://laasio.de/products/fingerprint-necklace-fingerprint-35624): Sie lieben es- Es ist zeitlos und kann jeden Tag getragen werden.- Unsere hochwertige Vergoldung ist langlebig und farbbeständig.- Graviert für ein dauerhaftes Design, das ein Leben lang hält, was ein besonderes Stück macht, das Sie schätzen werden.∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙D E T A I L S- Anhänger GRÖßE: 20mm- Kette LENGTH: 42cm +8 cm Verlängerung- MATERIAL: • Silber - Edelstahl Hochglanz poliert• Gold - Edelstahl 18k vergoldetes• Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙GeschenkAlle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Boxen. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙C U R R E N T , P R O D U C T I O N , T I M E S-2 bis 3WerktageLieferung ZeitDeutschland : 1 bis 3 WerktageInternational : 7 bis 14 Arbeitstage
-  Updated: 2025-12-19T15:25:12Z
+  Updated: 2025-12-26T21:04:00Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
@@ -538,7 +538,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 29,90 € EUR
 - [Personalisierte ovale Halskette mit Fingerabdruck und Name, andenken Kette](https://laasio.de/products/personalisierte-ovale-halskette-mit-40158): Für immer in Erinnerung behalten - Ihre geliebten Menschen. Die ewige Erinnerung an Ihre Lieben Im Leben begegnen wir Menschen, die einen unvergesslichen Eindruck hinterlassen. Ihre Lebensgeschichte bleibt tief in unseren Herzen verankert, genauso wie ihre einzigartigen Fingerabdrücke. Ein Symbol der ewigen Liebe Wir präsentieren mit Stolz unsere "Gedenk-Halskette mit Fingerabdruck und Handschrift Gravur" - ein kostbares Erinnerungsstück, das die Erinnerungen an Ihre Lieben für immer bewahrt. Eine tiefe und persönliche Erinnerung Diese Halskette ist eine herzliche Erinnerung an Ihre verstorbenen Angehörigen. Sie bietet Ihnen eine besondere Möglichkeit, die Fingerabdrücke und die Handschrift Ihrer Liebsten tief in Ihrem Herzen zu bewahren. Die Fingerabdrücke Ihrer Lieben Wir nehmen die Fingerabdrücke Ihrer verstorbenen Angehörigen aus dem Bestattungsinstitut und verwandeln sie in kunstvolle Gravuren, die ein Leben lang halten. Eine berührende Gedenkidee Diese Halskette ist nicht nur ein Schmuckstück, sondern auch ein bewegendes Erinnerungsstück. Sie können sie als Symbol Ihrer Liebe und als Andenken an Ihre Liebsten tragen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ D E T A I L S - Anhänger GRÖßE: 12 x 18mm - Kette LENGTH: 42cm +8 cm Verlängerung - MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 18k vergoldetes • Roségold - Edelstahl Rosé vergoldetes Geschenk Alle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Box. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -1 bis 3Werktage Lieferung Zeit Deutschland : 1 bis 3 Werktage International : 7 bis 14 Arbeitstage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über∙LAASIO Alle Unsere Produkte sind handgefertigt in Laasio Studio in Bad Laasphe Deutschland .Jede Bestellung mit Liebe zu handarbeiten. Jedes Schmuckstück gibt es eine Bedeutung. Wenn Sie irgendwelche Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns zu informieren. Wir lieben unsere Kunden und sind bestrebt, Sie glücklich zu machen. Vielen Dank für Ihren Besuch und hoffen, dass Sie gerne bei uns einkaufen. Liebe Grüße
-  Updated: 2025-12-19T18:34:56Z
+  Updated: 2025-12-26T06:26:50Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
@@ -1802,13 +1802,13 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 0
 - [Ketten](https://laasio.de/collections/kette)
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 37
 - [Armbänder](https://laasio.de/collections/armband-1)
   Updated: 2025-12-19T12:15:17Z
   Total Products: 20
 - [Alle produkte](https://laasio.de/collections/produkte-produkte)
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 59
 - [Armband mit Haustierportrait](https://laasio.de/collections/armband-haustierportrait-1)
   Updated: 2025-12-19T12:15:17Z
@@ -1820,7 +1820,7 @@ Einzigartiges Armband
   Updated: 2025-12-14T12:15:13Z
   Total Products: 3
 - [Best Sellers](https://laasio.de/collections/best-sellers)
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 68
 - [Neuheiten](https://laasio.de/collections/neuheiten)
   Updated: 2025-02-24T16:35:01Z
@@ -1862,7 +1862,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:02Z
   Total Products: 2
 - [Fingerabdrücke](https://laasio.de/collections/fingerabdrucke-fingerabdruecke)
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 6
 - [Für Mama und Oma](https://laasio.de/collections/fur-mama-und-oma)
   Updated: 2025-12-14T12:15:13Z
@@ -1895,7 +1895,7 @@ Einzigartiges Armband
   Updated: 2025-11-02T12:13:30Z
   Total Products: 4
 - [Beerdigung](https://laasio.de/collections/beerdigung-beerdigung)
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 6
 - [Haustier Verstorben](https://laasio.de/collections/haustier-verstorben)
   Updated: 2025-12-19T12:15:17Z
@@ -1907,7 +1907,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:03Z
   Total Products: 2
 - [Kette mit Namen oder Initialen](https://laasio.de/collections/kette-mit-namen-oder-initialen)
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 13
 - [Kette mit Perle oder Layering-Kette](https://laasio.de/collections/kette-mit-perle-oder-layering-kette)
   Updated: 2025-02-24T16:35:03Z
@@ -1940,7 +1940,7 @@ Einzigartiges Armband
   Updated: 2025-12-19T12:15:17Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://laasio.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-20T12:14:00Z
+  Updated: 2025-12-26T12:08:37Z
   Total Products: 68
 
 ## Store Pages
