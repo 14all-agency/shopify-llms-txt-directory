@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-12-28T00:00:45.965Z
+- Updated At: 2025-12-28T22:32:44.165Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-12-24T18:47:36Z
+  Updated: 2025-12-28T13:16:21Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1793,8 +1793,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-23T12:14:26Z
   Total Products: 20
 - [3D Scanners for Professionals & Makers - Eolas Prints](https://eolasprints.com/collections/3d-scanners): Shop high-precision 3D scanners at Eolas Prints. Perfect for prototyping, reverse engineering, and design. Fast shipping, expert support, top brands.
-  Updated: 2025-12-20T23:02:08Z
+  Updated: 2025-12-28T08:53:50Z
   Total Products: 1
+- [Laser Cutters Laser Cutters & Engravers - Eolas Prints](https://eolasprints.com/collections/laser-cutters-engravers): Shop high-precision laser cutters and engravers from xTool at Eolas Prints. Fast worldwide shipping, expert support, and reliable quality for makers, businesses, and professionals.
+  Updated: 2025-12-28T20:54:37Z
+  Total Products: 6
 
 ## Blogs
 
@@ -1959,6 +1962,8 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-25T01:18:33Z
 - [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Achieve superior 3D printing results with our custom print profiles, expertly calibrated for Eolas Prints filaments. These profiles are meticulousl...
   Updated: 2025-10-25T01:18:52Z
+- [Free Consultation](https://eolasprints.com/pages/free-consultation): 
+  Updated: 2025-12-28T21:57:48Z
 
 ## Policies
 
