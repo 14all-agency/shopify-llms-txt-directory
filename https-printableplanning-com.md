@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-28T04:00:28.466Z
+- Updated At: 2025-12-28T08:00:30.482Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1933,7 +1933,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CuteAngryGhostHalloweenStickers-BlueOrangePurple12up-EXAMPLE-PrintablePlanning.jpg?v=1687885588
   Price: $5.95 USD
 - [Palliative Care Form for Canines - Printable](https://printableplanning.com/products/palliative-care-form-for-canines-printable): A printable palliative care form for canines for the care of dogs who are suffering from life-limiting illnesses or conditions. If you're a pet caregiver or business that specializes in palliative care of canines, this form helps you log contact and pet information, vitals, and treatments, with a notes section at the bottom. It makes it easy to have important information in one place when discussing conditions and treatments with the dog owner. There is room on the left side of this form for you to use a 3-hole punch to organize your pages in a binder. Categories included: Contact Information Dog name, breed, and age. Vitals. Treatments. A checkbox for if the Euthanasia Vet has been informed. Notes. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Print a new printable palliative care form for canines as needed (save the file).
-  Updated: 2025-07-21T19:19:40Z
+  Updated: 2025-12-28T06:07:19Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
