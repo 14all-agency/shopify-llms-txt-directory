@@ -5,7 +5,7 @@
 - Currency: RON
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
-- Updated At: 2025-12-25T00:00:38.787Z
+- Updated At: 2025-12-28T00:00:40.192Z
 
 ## Products
 
