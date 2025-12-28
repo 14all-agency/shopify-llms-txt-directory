@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-28T12:00:28.915Z
+- Updated At: 2025-12-28T16:00:29.015Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -99,7 +99,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ColorCategoryRecipePages-BreakfastLunchandDinner3-pack-PrintablePlanning.jpg?v=1687202057
   Price: $5.95 USD
 - [Color Category Recipe Pages BUNDLE with Smoothie Recipe Page - Printable](https://printableplanning.com/products/color-category-recipe-pages-bundle-with-smoothie-recipe-page-printable): Color coded Breakfast, Lunch, and Dinner category printable recipe pages for organizing your favorite recipes with a bonus smoothie page. Colorful printable Recipe Pages in a bundle that includes three recipe category options for Breakfast, Lunch, and Dinner, and a bonus Smoothie Recipe Page. Save when you bundle! You can print and use all four colored pages to separate your recipes by category: Yellow for Breakfast, Blue for Lunch, Red for Dinner, and Green for Smoothies. Print as many as you need forever. Recipe Pages categories: Recipe name. Ingredients. Instructions. Preheat temperature (if applicable). Preparation time. How many servings the recipe will make. Smoothie Recipe Page categories: Recipe name. Health benefit. Ingredients. How many servings the recipe will make. This purchase includes your (3) PDF files for your category pages for Breakfast, Lunch, and Dinner compressed into (1) ZIP file/folder that you will need to extract after purchase, and (1) PDF file for your bonus smoothie page. SPECIFICATIONS & BENEFITS: (4) 8.5" x 11" printable PDF pages. (Includes (1) ZIP file containing (3) PDF files, and (1) additinoal PDF file for the smoothie page, not in the ZIP file). 2 Recipes per Page on Breakfast, Lunch, and Dinner pages. 4 Recipes per Page on the Smoothie Recipes Page Offset to the right to allow room for a 3-hole punch. Color coded to separate Breakfast, Lunch, Dinner, and Smoothies. Print new recipe pages when you need more.
-  Updated: 2025-07-21T19:21:16Z
+  Updated: 2025-12-28T13:06:25Z
   Vendor: Artistically Invited
   Product Type: Meal Planning
   Availability: Available
