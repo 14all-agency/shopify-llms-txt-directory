@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-28T08:00:30.482Z
+- Updated At: 2025-12-28T12:00:28.915Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -673,7 +673,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/Cute2PeasinaPodAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686174131
   Price: $5.95 USD
 - [Pins and Ball Bowling Address Labels - Printable](https://printableplanning.com/products/pins-and-ball-bowling-address-labels-printable): Printable 8.5" x 11" page of pins and ball bowling address labels designed with a black bowling ball striking white bowling pins, and personalized with your return address in black. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable pins and ball bowling address labels.
-  Updated: 2025-07-21T19:21:01Z
+  Updated: 2025-12-28T08:16:22Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
