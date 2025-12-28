@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-27T20:00:37.543Z
+- Updated At: 2025-12-28T04:00:36.769Z
 
 ## Products
 
@@ -4235,13 +4235,6 @@
   - [Extra Large](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey?variant=55931805860175)
     Availability: Available
     Price: £39.95 GBP
-- [Helas Horses Cap | Navy](https://thevinessupply.co/products/helas-horses-cap-navy): Buy the Helas Horses Cap in navy blue at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-24T13:48:08Z
-  Vendor: Helas
-  Product Type: Caps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/helas-caps-helas-horses-cap-navy-1192697897.png?v=1757843520
-  Price: £37.95 GBP
 - [Helas Classic Corduroy Cap | Black](https://thevinessupply.co/products/helas-classic-corduroy-cap-black): Buy the Helas Classic Corduroy Cap in Black at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-11-17T14:02:09Z
   Vendor: Helas
@@ -6313,7 +6306,7 @@
     Availability: Available
     Price: £94.95 GBP
 - [DC Shoes Truth Skate Shoes | Black, Grey & Blue](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue): Buy the DC Shoes Truth Skate Shoes in Black, Grey & Blue at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-07T05:42:09Z
+  Updated: 2025-12-27T23:18:37Z
   Vendor: DC Shoes
   Product Type: Shoes
   Availability: Available
