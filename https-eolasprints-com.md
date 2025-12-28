@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-12-26T00:00:45.373Z
+- Updated At: 2025-12-28T00:00:45.965Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -609,7 +609,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-12-24T18:11:14Z
+  Updated: 2025-12-26T08:05:48Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1760,7 +1760,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-19T12:17:29Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-12-25T12:09:21Z
+  Updated: 2025-12-26T12:10:42Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-12-11T21:54:38Z
@@ -1778,7 +1778,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-11T21:54:39Z
   Total Products: 8
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-12-25T12:09:21Z
+  Updated: 2025-12-26T12:10:42Z
   Total Products: 22
 - [Filamento Asa De Calidad y Servicio Para Impresión 3d](https://eolasprints.com/collections/asa): ASA filament from Eolas Prints for Flashforge AD5X Multi-Colour printers. Our collection delivers calidad y servicio, backed by ISO and REACH certifications.
   Updated: 2025-12-19T12:17:29Z
