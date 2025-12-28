@@ -8,14 +8,14 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-26T00:00:19.690Z
+- Updated At: 2025-12-28T00:00:22.090Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
-  Updated: 2025-12-25T22:59:48Z
+  Updated: 2025-12-27T19:03:18Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
   Updated: 2025-12-14T08:11:15Z
@@ -24,7 +24,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:11:16Z
   Total Products: 5622
 - [System On Chip (SoC)](https://hqickey.com/collections/system-on-chip-soc): System-on-Chip (SoC) vs Discrete Components: Integrated computing systems combining microprocessors, FPGA co-processors & graphics controllers. Explore high-performance embedded designs with external storage interfaces for AI acceleration and edge computing.
-  Updated: 2025-12-25T16:47:21Z
+  Updated: 2025-12-27T23:49:02Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
   Updated: 2025-12-14T08:11:18Z
@@ -132,7 +132,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:12:07Z
   Total Products: 2039
 - [Specialized Analog-to-Digital Converters | [Brand Name] Data Conversion Solutions](https://hqickey.com/collections/adcs-dacs-special-purpose): High-performance analog-to-digital converters for ultrasound, automotive radar, & industrial systems. Integrated low-noise amps, galvanic isolation, & display drivers. Explore application-specific solutions
-  Updated: 2025-12-14T08:12:08Z
+  Updated: 2025-12-27T13:29:17Z
   Total Products: 2640
 - [Analog Front-End (AFE) Semiconductors: High-Precision Signal Conditioning for Industrial, Automotive & IoT](https://hqickey.com/collections/analog-front-end-afe): Discover Analog Front-End (AFE) semiconductor solutions for advanced signal conditioning. Supports 8-42 bit resolution, 1-256 channels, and integrates amplifiers, filters, & ADC/DAC. Ideal for industrial sensors, automotive ECUs, medical devices, and IoT applications. Optimize sensor data accuracy with scalable AFE modules.
   Updated: 2025-12-14T08:12:09Z
@@ -222,16 +222,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:22Z
   Total Products: 244
 - [Memory Semiconductor Devices: Non-Volatile & Volatile Storage Solutions (64b – 6Tb)](https://hqickey.com/collections/memory): Discover Memory Semiconductor Devices including Non-Volatile (EEPROM, Flash) and Volatile (DRAM, SRAM) types. Features 64b–6Tb storage with I2C, SPI, and Parallel interfaces for integrated circuit applications.
-  Updated: 2025-12-14T08:13:24Z
+  Updated: 2025-12-27T18:20:22Z
   Total Products: 54444
 - [Specialized Integrated Circuits (ICs): Application-Specific Solutions for Automation, Security & Multimedia](https://hqickey.com/collections/specialized-ics): Explore specialized ICs for addressable switches, authentication, audio/video control, clock generation, and more. Discover how these purpose-built chips enable precision in industrial, consumer, and embedded systems.
-  Updated: 2025-12-14T08:13:24Z
+  Updated: 2025-12-26T09:55:32Z
   Total Products: 2630
 - [FPGA Technology Explained: Configurable Logic Blocks, ARM9 Cores & ASIC Comparisons](https://hqickey.com/collections/fpgas-field-programmable-gate-array-with-microcontrollers): Explore FPGA technology with configurable logic blocks (CLBs), programmable interconnects, and core types like 8-bit AVR and 32-bit ARM9. Learn how FPGAs differ from ASICs and their applications in digital circuits.
   Updated: 2025-12-20T05:20:44Z
   Total Products: 61
 - [AC to DC Power Conversion Devices | Component-Level Control & Isolation Solutions](https://hqickey.com/collections/ac-dc-converters-offline-switchers): Design robust AC to DC power systems with component-level control devices. Supports high voltage ratios, isolation, and integration with stock/custom SMPS transformers for efficient, flexible applications.
-  Updated: 2025-12-14T08:13:27Z
+  Updated: 2025-12-27T15:38:42Z
   Total Products: 4383
 - [Battery Charger PMICs | Multi-Cell & Chemistry Charge Management Solutions](https://hqickey.com/collections/battery-chargers): Optimize battery charging with PMICs for precision current/voltage regulation and monitoring. Supports diverse battery chemistries, multi-cell configurations, supercapacitors, and safe, integrated power management.
   Updated: 2025-12-14T08:13:28Z
@@ -306,16 +306,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-24T12:10:19Z
   Total Products: 127
 - [Integrated DC-DC Switching Regulator PMICs for Voltage Stabilization & High-Efficiency Conversion](https://hqickey.com/collections/voltage-regulators-dc-dc-switching-regulators): Discover DC-DC switching regulator PMICs with integrated switching elements for precise voltage stabilization, transformation, and compact power solutions. Ideal for industrial, automotive, and embedded systems.
-  Updated: 2025-12-25T11:40:06Z
+  Updated: 2025-12-26T08:38:44Z
   Total Products: 35024
 - [Hybrid DC-DC Voltage Regulators: Switch-Mode Efficiency & Linear Low-Noise Integration](https://hqickey.com/collections/voltage-regulators-linear-switching): Engineer efficient, low-noise DC-DC conversion with hybrid regulators combining switch-mode efficiency and linear precision. Ideal for industrial, automotive, and telecom systems.
-  Updated: 2025-12-14T08:14:02Z
+  Updated: 2025-12-26T09:21:23Z
   Total Products: 1352
 - [Linear Voltage Regulation Control ICs for External Pass Element Integration](https://hqickey.com/collections/voltage-regulators-linear-regulator-controllers): Design precision voltage regulation with linear control ICs for external pass elements. Ensure stable output, noise immunity, and load/supply variation resilience in industrial and telecom systems.
   Updated: 2025-12-14T08:14:04Z
   Total Products: 283
 - [Low-Noise Linear Voltage Regulators & LDOs for Stable Power in Noise-Sensitive Systems](https://hqickey.com/collections/voltage-regulators-linear-low-drop-out-ldo-regulators): Ensure stable, low-noise voltage output with linear regulators and LDOs—ideal for precision applications sensitive to EMI. Balance thermal efficiency and reliability in medical, telecom, and industrial designs.
-  Updated: 2025-12-22T04:21:14Z
+  Updated: 2025-12-27T15:39:02Z
   Total Products: 65607
 - [Voltage Reference](https://hqickey.com/collections/voltage-reference-1): Ensure stable, low-noise voltage references for critical measurement, control, and calibration applications. Ideal for industrial automation, test equipment, and sensor systems—designed for accuracy, not power regulation.
   Updated: 2025-12-24T13:49:36Z
