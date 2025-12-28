@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-27T20:00:37.060Z
+- Updated At: 2025-12-28T00:00:53.220Z
 
 ## Products
 
@@ -1024,7 +1024,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick White Tea Candle](https://affinatiliving.com/products/3-wick-white-tea-candle): Shop our XL White Tea Candle – 3-wick, long-lasting, and strong scented. Perfect for spa days, gifting, or bringing crisp, calming freshness to your space.
-  Updated: 2025-12-25T23:12:40Z
+  Updated: 2025-12-27T22:51:58Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1039,7 +1039,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick French Vanilla Candle](https://affinatiliving.com/products/3-wick-french-vanilla-candle): Shop our XL French Vanilla Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your space with smooth, creamy sweetness.
-  Updated: 2025-12-25T23:12:40Z
+  Updated: 2025-12-27T22:49:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1099,7 +1099,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Tobacco Vanilla Candle](https://affinatiliving.com/products/3-wick-tobacco-vanilla-candle): Shop our XL Tobacco Vanilla Candle – 3-wick, long-lasting, and strong scented. Perfect for bold elegance, gifting, or adding rich, smoky-sweet warmth to your space.
-  Updated: 2025-12-25T23:12:41Z
+  Updated: 2025-12-27T22:53:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1189,7 +1189,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Vanilla Bean Candle](https://affinatiliving.com/products/3-wick-vanilla-bean-candle): Shop our XL Vanilla Bean Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your home with sweet, creamy comfort.
-  Updated: 2025-12-25T23:12:41Z
+  Updated: 2025-12-27T22:48:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1549,7 +1549,7 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Bouquet of Roses Candle](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle): Shop our XL Bouquet of Roses Candle – 3-wick, long-lasting, and strong scented. Perfect for romantic moments, gifting, or filling your space with fresh floral elegance.
-  Updated: 2025-12-25T23:12:42Z
+  Updated: 2025-12-27T22:52:25Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1594,7 +1594,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Blue Spruce Candle](https://affinatiliving.com/products/3-wick-blue-spruce-candle): Shop our XL Blue Spruce Candle – 3-wick, long-lasting, and strong scented. Perfect for winter woods vibes, gifting, or a crisp, evergreen-scented home.
-  Updated: 2025-12-25T23:12:42Z
+  Updated: 2025-12-27T22:47:41Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2674,7 +2674,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Banana Creme Pie Candle](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle): Treat your senses to the rich aroma of ripe banana, vanilla custard, and flaky crust. This 3-wick Banana Crème Pie candle is warm, sweet, and irresistible.
-  Updated: 2025-12-25T23:12:49Z
+  Updated: 2025-12-27T22:51:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2884,7 +2884,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Smoked Vanilla Candle](https://affinatiliving.com/products/3-wick-smoked-vanilla-candle): Indulge in the warm, smoky sweetness of our Smoked Vanilla 3-Wick Candle. A 17 oz soy blend with rich fragrance and a clean, even burn.
-  Updated: 2025-12-25T23:12:50Z
+  Updated: 2025-12-27T22:52:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3004,7 +3004,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Classic Cheesecake Candle](https://affinatiliving.com/products/3-wick-classic-cheesecake-candle): Indulge in the Classic Cheesecake 3-Wick Candle – a 17 oz soy wax blend with creamy vanilla, rich cheesecake, and golden crust notes. Clean burn, strong fragrance, and a dessert-inspired scent perfect for any room.
-  Updated: 2025-12-25T23:12:51Z
+  Updated: 2025-12-27T22:48:28Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3034,7 +3034,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Coconut Creme Pie Candle](https://affinatiliving.com/products/3-wick-coconut-creme-pie-candle): Indulge in the sweet aroma of the Affinati Coconut Crème Pie 3-Wick Candle. A decadent blend of creamy coconut, vanilla custard, and buttery crust in a clean-burning soy wax for long-lasting fragrance.
-  Updated: 2025-12-25T23:12:51Z
+  Updated: 2025-12-27T22:48:06Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3079,7 +3079,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Black Cherry Merlot Candle](https://affinatiliving.com/products/3-wick-black-cherry-merlot-candle): Indulge in the Affinati Black Cherry Merlot 3-Wick Candle. Ripe cherries, dark berries, and smooth merlot create a bold, luxurious fragrance for your home.
-  Updated: 2025-12-25T23:12:51Z
+  Updated: 2025-12-27T22:55:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3700,7 +3700,7 @@
     Availability: Available
     Price: $29.95 USD
 - [3-Wick Peppermint Swirl Candle](https://affinatiliving.com/products/3-wick-peppermint-swirl): Experience the cool, festive scent of our Peppermint Swirl 3-Wick Candle. A refreshing blend of peppermint and vanilla cream for a cozy, candy-cane holiday atmosphere.
-  Updated: 2025-12-25T23:12:51Z
+  Updated: 2025-12-27T22:50:04Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4062,7 +4062,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Pumpkin Pie Candle](https://affinatiliving.com/products/3-wick-pumpkin-pie-candle): Warm your home with Affinati’s Pumpkin Pie 3-Wick Candle — spiced pumpkin, vanilla, and brown sugar in a rich, long-lasting soy blend.
-  Updated: 2025-12-25T23:12:52Z
+  Updated: 2025-12-27T22:49:40Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4297,7 +4297,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-6968.png?v=1760727033
   Price: $39.95 USD
 - [3-Wick Apple Cinnamon Candle](https://affinatiliving.com/products/3-wick-apple-cinnamon-candle): Fill your home with cozy warmth using our Apple Cinnamon 3-Wick Candle. Hand-poured with a soy wax blend, it features crisp apple, spiced cinnamon, and brown sugar for a rich, festive aroma that lasts.
-  Updated: 2025-12-25T23:12:52Z
+  Updated: 2025-12-27T22:54:31Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4357,11 +4357,11 @@
     Availability: Available
     Price: $64.95 USD
 - [3-Wick Black Coffee Candle](https://affinatiliving.com/products/3-wick-black-coffee-candle): Indulge in the bold aroma of our Black Coffee 3-Wick Candle. Crafted with a premium soy wax blend, this 17 oz candle blends rich espresso, roasted beans, and creamy vanilla for a warm, invigorating scent that fills your home with pure sophistication.
-  Updated: 2025-12-25T23:12:53Z
+  Updated: 2025-12-27T22:50:40Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageOct20_2025at10_29_25PM.png?v=1761013785
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3-Wick_Black_Coffee_Candle.png?v=1766875816
   - [Single Order](https://affinatiliving.com/products/3-wick-black-coffee-candle?variant=58301246341201)
     Availability: Available
     Price: $24.95 USD
@@ -4417,11 +4417,11 @@
     Availability: Available
     Price: $64.95 USD
 - [3-Wick Birthday Cake Candle](https://affinatiliving.com/products/3-wick-birthday-cake-candle): Celebrate every day with the sweet aroma of our Birthday Cake 3-Wick Candle. Made with a premium soy wax blend, it features notes of vanilla frosting, buttery cake, and sugar for a warm, festive fragrance that fills your home with joy.
-  Updated: 2025-12-25T23:12:53Z
+  Updated: 2025-12-27T22:51:31Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_22_2025_10_04_23_AM.png?v=1761141905
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3-Wick_Birthday_Cake_Candle.png?v=1766875890
   - [Single Order](https://affinatiliving.com/products/3-wick-birthday-cake-candle?variant=58306006712401)
     Availability: Available
     Price: $24.95 USD
@@ -8244,6 +8244,9 @@
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
   Updated: 2025-12-27T12:09:04Z
   Total Products: 27
+- [Floral Candle Scents](https://affinatiliving.com/collections/floral-candle-scents)
+  Updated: 2025-12-27T23:39:24Z
+  Total Products: 50
 
 ## Blogs
 
@@ -9537,11 +9540,20 @@
   - [Do Mini Candles Throw Scent Well? | Mini Candle Scent Throw Guide](https://affinatiliving.com/blogs/deep-analysis/do-mini-candles-throw-scent-well-mini-candle-scent-throw-guide)
     Updated: 2025-12-25T21:48:31Z
     Author: Gerard Collins
+  - [Best French Vanilla Candles (Top 10 Creamy Vanilla Picks)](https://affinatiliving.com/blogs/deep-analysis/best-french-vanilla-candles-top-10-creamy-vanilla-picks)
+    Updated: 2025-12-27T23:08:01Z
+    Author: Gerard Collins
+  - [Best Vanilla Bean Candles (Top 10)](https://affinatiliving.com/blogs/deep-analysis/best-vanilla-bean-candles-top-10)
+    Updated: 2025-12-27T22:59:24Z
+    Author: Gerard Collins
+  - [Best Floral Candles (Top 10 Elegant Flower Scents)](https://affinatiliving.com/blogs/deep-analysis/best-floral-candles-top-10-elegant-flower-scents)
+    Updated: 2025-12-27T22:29:09Z
+    Author: Gerard Collins
   - [Best Fruity Candles (Top 10 Fresh & Juicy Picks)](https://affinatiliving.com/blogs/deep-analysis/best-fruity-candles-top-10-fresh-juicy-picks)
-    Updated: 2025-12-27T11:29:43Z
+    Updated: 2025-12-27T22:30:28Z
     Author: Gerard Collins
   - [Best Dessert Inspired Candles (Top Bakery-Style Scents)](https://affinatiliving.com/blogs/deep-analysis/best-dessert-inspired-candles-top-bakery-style-scents)
-    Updated: 2025-12-27T11:27:36Z
+    Updated: 2025-12-27T22:36:48Z
     Author: Gerard Collins
 - [Debates](https://affinatiliving.com/blogs/debates)
   - [Wooden Wicks vs Cotton Wicks: Best Candle Wicks in 2025](https://affinatiliving.com/blogs/debates/wooden-wicks-vs-cotton-wicks-best-candle-wicks)
