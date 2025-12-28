@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2025-12-27T00:00:22.457Z
+- Updated At: 2025-12-28T00:00:21.294Z
 
 ## Products
 
 - [Custom Laser Engraving Order Request - Any Size, Any Material | Nat 20](https://nat20lasercrafts.com/products/custom-order-request-design-your-own): Request a custom laser-engraved piece designed exactly to your specifications. Choose materials, sizes, and designs. Get a personalized quote within 24-48 hours.
-  Updated: 2025-12-17T13:54:59Z
+  Updated: 2025-12-27T00:08:29Z
   Vendor: Nat 20 Custom Laser Crafts
   Product Type: Custom Orders
   Availability: Available
@@ -213,7 +213,7 @@
   Updated: 2025-12-20T20:26:04Z
   Total Products: 10
 - [Custom Laser Engraving Orders - Any Size, Any Material | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/custom-orders-design-your-own): Design your own custom laser-engraved piece! Choose from wood, slate, acrylic, metal in any size. Upload your design or work with us. Premium craftsmanship for unique gifts & décor.
-  Updated: 2025-12-14T01:02:37Z
+  Updated: 2025-12-27T12:23:07Z
   Total Products: 1
 - [Pop Culture Laser Engraved Art - Movies, Music, TV | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/pop-culture-icons): Celebrate your favorite pop culture icons with premium laser-engraved art. Movies, music, TV shows & more on wood, slate & metal. Perfect gifts for fans!
   Updated: 2025-12-19T21:42:39Z
@@ -236,6 +236,9 @@
     Author: Nat 20 Custom Laser Crafts
   - [The Function and Charm of Live Ugly Opossum Cork Trivets](https://nat20lasercrafts.com/blogs/news/the-function-and-charm-of-live-ugly-opossum-cork-trivets): The Function and Charm of Live Ugly Opossum Cork Trivets
     Updated: 2025-12-24T05:36:57Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Elevating Your Gaming Room with Geometric Dice Sword Wall Art](https://nat20lasercrafts.com/blogs/news/elevating-your-gaming-room-with-geometric-dice-sword-wall-art): Elevating Your Gaming Room with Geometric Dice Sword Wall Art
+    Updated: 2025-12-27T00:42:35Z
     Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
