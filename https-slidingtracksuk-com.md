@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-11T16:58:13Z
 - Contact Email: stevenrb_uk@yahoo.co.uk
-- Updated At: 2025-12-27T00:00:20.442Z
+- Updated At: 2025-12-28T00:00:21.678Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Availability: Available
     Price: £54.95 GBP
 - [12mm Sliding Door Track White Free Mainland Delivery](https://slidingtracksuk.com/products/12mm-sliding-door-track-white-free-mainland-delivery): 12mm Sliding Door Track White, to suit 12mm thick doors Overall width 36mm Other colours available Multi Buy options available on our ebay Page search Steves vivs check out our amazing feedback while you are there! Top track and bottom track included as pictured, Other lengths available These Double Tracks have a wide centre leg in order to space the boards, doors or panels that run within them. This means that cupboard or wardrobe doors, which typically have protruding fittings from handles or locks, can run unobstructed in the channels. With the deeper Top track and shallower Bottom track, these Double Tracks can be fitted before installing the doors or panels. Note that there are no metal fittings for these Double Tracks, such as wheels or internal guides - they rely on the doors sliding on the low friction PVC. Collection is welcome from us in preston Any questions just ask
-  Updated: 2025-12-22T19:47:38Z
+  Updated: 2025-12-27T15:02:41Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
