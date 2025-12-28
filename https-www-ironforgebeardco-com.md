@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-28T02:22:42.096Z
+- Updated At: 2025-12-28T04:00:24.766Z
 
 ## Products
 
@@ -154,7 +154,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/NPA02948.jpg?v=1766690783
   Price: $19.25 USD
 - [Beard Trimmer Wahl](https://www.ironforgebeardco.com/products/beard-trimmer-wahl): If you are looking for household appliances at the best prices, don't miss the Beard Trimmer Wahl and a wide selection of small household appliances! Type: Wireless Characteristics: On/Off switch LED in operation indicator Battery operated (2 x AA, not included) On/off interrupter LED indicator Battery operated (2 AA, included) Precision: Adjustable 9 levels 0,7 mm-1,2 cm Type of plug: Plug EU Product with plug: Yes Battery type: AA Colour: Black Silver Material: Steel Power supply: Battery Batteries included: Yes Rechargeable: No Weight: 240 g POWERFUL CUTTING: thanks to precision-ground self-sharpening high carbon-steel blade setIDEAL FOR TRAVELING: world-wide use due to battery operationACCESSORIES: 5 position variable attachment comb for cutting lengths from 2 to 12 mm and 3 attachment combs for stubble (1.5 mm), medium (3 mm) and full beard (4,5 mm)INCLUDING: nose and ear hair trimmer Product colour: Silver Number of length steps: 9 Minimum hair length: 0.7 mm Maximum hair length: 1.2 cm Cutter width: 3 cm On/off switch: Y LED indicators: Y Power source: AC/Battery Rechargeable: N
-  Updated: 2025-12-26T07:27:43Z
+  Updated: 2025-12-28T03:24:26Z
   Vendor: Wahl
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -168,7 +168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/8414234022288_S9167692_P60.jpg?v=1766690869
   Price: $29.43 USD
 - [Beard Trimmer Wahl 9918-1416](https://www.ironforgebeardco.com/products/beard-trimmer-wahl-9918-1416): If you are looking for household appliances at the best prices, don't miss the Beard Trimmer Wahl 9918-1416 and a wide selection of small household appliances! Includes: Accessories Oil Brush Charger Power supply: Electric Network Battery Battery: Rechargeable Characteristics: LED charge indicator light Kit/Set Product with plug: Yes Approx. autonomy: 1 time Type of plug: Plug EU Positions: 6 posiciones Speeds: 1 Sspeed Approx. charging time: 10 hours Colour: Black Material: Plastic Carbon steel Battery type: Integrated Rechargeable Body part: Neck Design: Ergonomic Battery operated: AA x 2
-  Updated: 2025-12-26T07:28:16Z
+  Updated: 2025-12-28T03:19:11Z
   Vendor: Wahl
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
