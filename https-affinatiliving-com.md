@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-28T00:00:53.220Z
+- Updated At: 2025-12-28T04:00:34.420Z
 
 ## Products
 
@@ -2209,11 +2209,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Midnight Ember Original Candle](https://affinatiliving.com/products/midnight-ember-original-candle): Midnight Ember Original Candle – 10 oz Midnight Ember is deep, moody, and captivating. Warm embers and smoky undertones create a rich scent that feels mysterious, cozy, and refined. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Smoked WoodsMiddle Notes: Glowing EmbersBase Notes: Dark Amber, Warm Musk Perfect for evenings and low-light moments, this candle sets a calm, intimate atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-25T23:12:46Z
+  Updated: 2025-12-28T02:31:22Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/22994C89-5112-4D04-8500-2603402DCEC1.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8624.png?v=1766889081
   - [Single Order](https://affinatiliving.com/products/midnight-ember-original-candle?variant=42443952521297)
     Availability: Available
     Price: $16.95 USD
@@ -2284,11 +2284,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Tobacco Vanilla Original Candle](https://affinatiliving.com/products/tobacco-vanilla-original-candle-1): Tobacco Vanilla Original Candle – 10 oz Tobacco Vanilla is rich, smooth, and sophisticated. Warm tobacco leaf blends with creamy vanilla for a scent that feels bold, cozy, and refined. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tobacco LeafMiddle Notes: Vanilla BeanBase Notes: Warm Amber, Soft Woods Perfect for evening relaxation, this candle creates a warm, luxurious atmosphere with lasting depth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-25T23:12:47Z
+  Updated: 2025-12-28T02:22:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/29F2A538-6593-4522-A637-7B9B68A83F98.png?v=1747361582
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8618.png?v=1766888539
   - [Single Order](https://affinatiliving.com/products/tobacco-vanilla-original-candle-1?variant=42443949146193)
     Availability: Available
     Price: $16.95 USD
@@ -4402,11 +4402,11 @@
     Availability: Available
     Price: $72.95 USD
 - [Smoked Vanilla Original Candle](https://affinatiliving.com/products/smoked-vanilla-original-candle): Smoked Vanilla Original Candle – 10 oz Smoked Vanilla adds depth to classic vanilla with subtle smoky warmth. Smooth, rich, and cozy, this scent feels refined and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla BeanMiddle Notes: Smoked SugarBase Notes: Soft Woods, Warm Musk Perfect for evenings and relaxed nights in, Smoked Vanilla creates a warm, inviting atmosphere with a touch of sophistication. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-25T23:12:53Z
+  Updated: 2025-12-28T02:37:33Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_21_2025_03_19_51_PM.png?v=1761074411
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8627.png?v=1766889328
   - [Single Order](https://affinatiliving.com/products/smoked-vanilla-original-candle?variant=58303604555857)
     Availability: Available
     Price: $16.95 USD
@@ -6019,11 +6019,11 @@
     Availability: Available
     Price: $72.95 USD
 - [Driftwood & Sea Salt Original Candle](https://affinatiliving.com/products/driftwood-sea-salt-original-candle): Driftwood & Sea Salt Original Candle – 10 oz Driftwood & Sea Salt captures the fresh, calming essence of the coast. Airy marine notes blend with smooth woods for a scent that feels clean and grounding. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sea Salt, Fresh AirMiddle Notes: DriftwoodBase Notes: Soft Musk, Coastal Woods Perfect for creating a relaxed, breezy atmosphere that feels light and refreshing. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-25T23:13:00Z
+  Updated: 2025-12-28T02:27:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_15_2025_at_08_29_19_PM.png?v=1763256693
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8621.png?v=1766888842
   - [Single Order](https://affinatiliving.com/products/driftwood-sea-salt-original-candle?variant=58382891515985)
     Availability: Available
     Price: $16.95 USD
