@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-12-26T00:00:45.520Z
+- Updated At: 2025-12-28T00:00:43.951Z
 
 ## Products
 
@@ -1116,7 +1116,7 @@
     Availability: Available
     Price: ₹770.00 INR
 - [Buy ​KRUPS Noble Digital Baby Weighing Scale - Surgismart](https://surgismart.in/products/krups-noble-digital-baby-weighing-scale): Powered by Li-ion battery 3.7V 1200mAH with BMS with 40 Hour Battery Back (Approx) Sturdy and Durable Construction One button Operation for Switch ON and OFF Adapter for Charging Battery included Single Load Cell Based Design for Superior Accuracy Capacity 20Kg and Minimum Graduation of 10g Weighing Pan with Sliding Mechanism No Screws Bottom of the scale fixed with high quality Rubber Feet for rugged usage Height Measurement Sticker affixed on Pan for measuring length of babies - Surgismart
-  Updated: 2025-10-15T09:37:47Z
+  Updated: 2025-12-26T11:49:11Z
   Vendor: Krups
   Product Type: Digital
   Availability: Available
@@ -3173,7 +3173,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic New Gen Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-12-19T12:25:24Z
+  Updated: 2025-12-26T19:46:51Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-12-25T12:14:19Z
+  Updated: 2025-12-27T12:17:45Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-12-25T12:14:19Z
+  Updated: 2025-12-27T12:17:45Z
   Total Products: 5
 
 ## Blogs
