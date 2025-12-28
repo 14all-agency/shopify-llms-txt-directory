@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-12-20T00:00:47.141Z
+- Updated At: 2025-12-28T00:00:47.854Z
 
 ## Products
 
@@ -1265,7 +1265,7 @@
     Availability: Available
     Price: $200.00 USD
 - [Tropical Cloth Beach Towel for Perfect Beach Days](https://oceanfrontproducts.com/products/tropical-cloth-beach-towel): Bring the boho beach vibes wherever you go with this tropical-themed beach cloth. Perfect for summer outings, beach days, or just lounging by the pool.
-  Updated: 2025-11-09T01:25:17Z
+  Updated: 2025-12-22T23:34:17Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -2599,7 +2599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/14386669027228202787_2048.jpg?v=1754882046
     Price: $39.58 USD
 - [Vibrant Goat Graphic Sports Bra for Fun Workouts](https://oceanfrontproducts.com/products/vibrant-goat-themed-sports-bra-energize-your-workout-with-playful-style-1): Elevate your fitness routine with our Colorful Goat Graphic Sports Bra.
-  Updated: 2025-11-09T01:25:20Z
+  Updated: 2025-12-26T09:42:40Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -2709,7 +2709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5383244392467431527_2048.jpg?v=1754882085
     Price: $53.58 USD
 - [Vibrant Goat Graphic Sports Bra for Energetic Workouts](https://oceanfrontproducts.com/products/vibrant-goat-themed-sports-bra-energize-your-workout-with-playful-style-2): Elevate your fitness routine with our Colorful Goat Graphic Sports Bra.
-  Updated: 2025-11-09T01:25:20Z
+  Updated: 2025-12-24T01:20:45Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -3389,7 +3389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/6723306314025386870_2048.jpg?v=1754882293
     Price: $26.67 USD
 - [Adventure Exploration Shirt for Great Outdoors Enthusiasts](https://oceanfrontproducts.com/products/adventure-exploration-shirt-embrace-the-spirit-of-the-wild-1): Set off on your next adventure with our Adventure Exploration Shirt. This shirt is designed for the intrepid explorer and the outdoor enthusiast, blending style with a spirit of wanderlust.
-  Updated: 2025-11-09T01:25:23Z
+  Updated: 2025-12-21T15:22:26Z
   Vendor: Oceanfront Products
   Product Type: T-Shirt
   Availability: Available
@@ -4587,42 +4587,42 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5742820874907739006_2048.jpg?v=1754882578
     Price: $54.23 USD
 - [Cute Girly Magical Unicorn Graphic Tee for Fun Lovers](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee): This Cute Girly magical unicorn T-Shirt exudes a playful and whimsical vibe, making it perfect for unicorn lovers and those who enjoy fun, quirky designs.
-  Updated: 2025-11-09T01:25:26Z
+  Updated: 2025-12-20T15:09:19Z
   Vendor: Oceanfront Products
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/AAEA7B9F-8A0E-488F-9F00-E0F262F34B3A.png?v=1754882594
   - [White / S](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225801464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $23.53 USD
   - [White / M](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225834232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $23.53 USD
   - [White / L](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225867000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $23.53 USD
   - [White / XL](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225899768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $23.53 USD
   - [White / 2XL](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225932536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $28.23 USD
   - [White / 3XL](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225965304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $31.13 USD
   - [White / 4XL](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902225998072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $32.80 USD
   - [White / 5XL](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee?variant=45902226030840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1754882595
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4084873645014784444_2048.jpg?v=1766243359
     Price: $32.80 USD
 - [Vibrant Baby Goat Sweatshirt Hoodie for Cozy Charm](https://oceanfrontproducts.com/products/3d-vibrant-baby-goat-sweatshirt-hoodie-a-unique-blend-of-comfort-and-whimsy-2): Step into a world of playful charm with our 3D Vibrant Baby Goat Sweatshirt / Hoodie.
   Updated: 2025-11-13T14:47:37Z
@@ -4811,7 +4811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/C0C838CF5B2764990175E0C08D9D14D8.jpg?v=1754882662
     Price: $54.02 USD
 - [Magnetic LED Fill Light for Video Conferencing](https://oceanfrontproducts.com/products/magnetic-fill-light-led-video-conference-phone-fill-light-camera-photography-live-broadcast-photography-pocket-light): XJ77 Magnetic Conference Light ABS Built in 2000mAh battery (actual 1500mAh) 64 cold lights + 64 warm lights Color White light 6500K~Warm light 3000K 10 levels for cold and warm light adjustment,
-  Updated: 2025-11-09T01:25:28Z
+  Updated: 2025-12-27T23:28:49Z
   Vendor: Oceanfront Products
   Product Type: Electronics
   Availability: Available
@@ -5819,18 +5819,18 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/Sfd832eee25864feea1f4b008e9017968r.webp?v=1736699448
     Price: $22.99 USD
 - [Sleek Digital Portable Scale for Easy Travel Weighing](https://oceanfrontproducts.com/products/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight): Sleek Digital Luggage Scale offers a portable scale digital design that weighs up to 110lb 50kg, ensuring convenience and accuracy for your travel needs.
-  Updated: 2025-11-09T01:25:34Z
+  Updated: 2025-12-22T15:10:07Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight-452.webp?v=1754882907
   - [silver](https://oceanfrontproducts.com/products/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight?variant=45932531876088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight-707.webp?v=1754882913
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight-707.webp?v=1766416206
     Price: $18.99 USD
   - [hook](https://oceanfrontproducts.com/products/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight?variant=45932531908856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight-742.webp?v=1754882914
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/110lb-50kg-portable-scale-digital-lcd-display-electronic-weight-742.webp?v=1766416206
     Price: $18.99 USD
 - [Men's Chest Bag for Outdoor Activities in Polyester](https://oceanfrontproducts.com/products/new-men-shoulder-bags-chest-bag-multifuncional-crossbody-bags-travel-sling-bag-mens-chest-bag-cross-body-chest-bag-for-men-bag): Brand Name other Origin Mainland China Hign-concerned Chemical none Main Material Nylon Style Casual Item Type WAIST PACKS Place Of Origin China (mainland) Material Composition POLYESTER Shape Pillow Gender unisex Choice yes • Fashionable and trendy The design of this ensures its simplicity and elegance,
   Updated: 2025-12-13T16:48:01Z
@@ -8472,7 +8472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/13307559575607475985_2048.jpg?v=1754883154
     Price: $50.87 USD
 - [Rose Petal Timeless Love Coffee Mug for Romantic Gifting](https://oceanfrontproducts.com/products/mug-rose-petal-timeless-love-accent-coffee-mug-11-15oz): This Rose petal timeless love mug exudes a romantic and elegant vibe, making it perfect for cozy mornings sipping coffee. Ideal for couples, anniversary gifts, Valentine's Day, or simply expressing love and affection. The vibrant colors and glossy finish add a touch of charm to any kitchen or office space.Product features- 11oz and 15oz sizes available- Safe for microwave and dishwasher use- Vibrant colors with eye-catching color contrast- Made of lead and BPA-free white ceramic- C-shaped handle for easy gripCare instructions- Clean in dishwasher or wash by hand with warm water and dish soap
-  Updated: 2025-11-09T01:25:41Z
+  Updated: 2025-12-20T03:27:14Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -9075,7 +9075,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/ChatGPTImageAug4_2025_05_13_19PM.png?v=1754883542
   Price: $19.00 USD
 - [Ultimate Travel Packing List for Electronics and Clothing](https://oceanfrontproducts.com/products/oceanfront-ultimate-packing-list-custom-for-your-trip): Never forget the essentials again. This isn’t a generic list — it’s a soft life packing experience, crafted just for you by your Oceanfront DreamConcierge. Your custom list will include: 🧳 Packing tailored by: Destination (beach, city, mountain, etc.) Trip type (faith retreat, romantic escape, family trip) Season & climate 👚 Categories: Clothing & weather gear Tech & essentials Kids’ must-haves (if traveling as a family) Faith-based items (optional) Oceanfront product suggestions for the journey 📦 Delivered instantly in chat + email (PDF format) Let peace start with what’s in your bag
-  Updated: 2025-11-09T01:25:44Z
+  Updated: 2025-12-24T07:34:23Z
   Vendor: Oceanfront Products
   Product Type: Digital product
   Availability: Available
@@ -16923,6 +16923,18 @@
     Updated: 2025-12-19T10:02:33Z
     Author: Oceanfront Products
     Tags: apparel, beach, coastal vacation ideas, nautical design, oceanfront getaway, resort, stylish swim trunks, sweatshirts, swimwear, travel essentials, travel planner, tshirts
+  - [Spritz the Oceanfront Serenity: Travel Essentials for Effortless Coastal Style with Refillable Luxury Atomizers](https://oceanfrontproducts.com/blogs/journal/spritz-the-oceanfront-serenity-travel-essentials-for-effortless-coastal-style-with-refillable-luxury-atomizers): Spritz the Oceanfront Serenity: Travel Essentials for Effortless Coastal Style with Refillable Luxury Atomizers
+    Updated: 2025-12-21T10:03:23Z
+    Author: Oceanfront Products
+    Tags: apparel, atomizers, beach essentials, coastal, effortless style, luxury packing, refillable perfume containers, seaside travel must-haves, sweatshirts, travel, travel essentials, travel planner, tshirts
+  - [Stellar Style Awaits: Elevate Your Travel Adventures with Oceanfront's Cosmic Elegance Sweatshirts and Planner Essentials](https://oceanfrontproducts.com/blogs/journal/stellar-style-awaits-elevate-your-travel-adventures-with-oceanfronts-cosmic-elegance-sweatshirts-and-planner-essentials): Stellar Style Awaits: Elevate Your Travel Adventures with Oceanfront's Cosmic Elegance Sweatshirts and Planner Essentials
+    Updated: 2025-12-22T10:11:17Z
+    Author: Oceanfront Products
+    Tags: adventure essentials, apparel, cosmic style, elevate your adventures, oceanfront clothing, planner, stylish travel gear, sweatshirts, travel, travel essentials, travel planner, tshirts
+  - [Embrace Freedom and Wellness on Your Travels with Chic Goat-Accent Leggings: Oceanfront Apparel Essentials](https://oceanfrontproducts.com/blogs/journal/embrace-freedom-and-wellness-on-your-travels-with-chic-goat-accent-leggings-oceanfront-apparel-essentials): Embrace Freedom and Wellness on Your Travels with Chic Goat-Accent Leggings: Oceanfront Apparel Essentials
+    Updated: 2025-12-26T10:02:01Z
+    Author: Oceanfront Products
+    Tags: apparel, chic goat, comfortable travel outfits, eco-friendly activewear, leggings, oceanfront apparel, stylish travelwear, sweatshirts, travel, travel essentials, travel planner, tshirts, wellness
 
 ## Store Pages
 
