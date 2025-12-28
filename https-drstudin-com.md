@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-01T14:02:49Z
 - Contact Email: drs@drstudin.com
-- Updated At: 2025-12-26T00:00:44.803Z
+- Updated At: 2025-12-28T00:00:35.133Z
 
 ## Collections
 
@@ -407,6 +407,9 @@
   - [Skinny BBL in NYC: What Patients Really Need to Know](https://drstudin.com/blogs/blog/skinny-bbl-in-nyc-what-patients-really-need-to-know)
     Updated: 2025-12-23T15:00:02Z
     Author: Javier Moraes
+  - [The Truth About Gummy Bear Implants: Feel, Look & Longevity](https://drstudin.com/blogs/blog/the-truth-about-gummy-bear-implants-feel-look-longevity)
+    Updated: 2025-12-26T15:00:00Z
+    Author: Javier Moraes
 - [News](https://drstudin.com/blogs/news)
   - [Understanding the Postoperative Journey: A Look Into Recovery After Surgery](https://drstudin.com/blogs/news/understanding-the-postoperative-journey-a-look-into-recovery-after-surgery)
     Updated: 2025-05-12T23:54:55Z
@@ -483,6 +486,8 @@
   Updated: 2024-12-29T18:58:48Z
 - [Pages - Dr Joel Studin Plastic Surgery](https://drstudin.com/pages/pages): 
   Updated: 2024-12-29T07:57:30Z
+- [Thank You](https://drstudin.com/pages/thank-you): gtag('event', 'conversion', { 'send_to': 'AW-17234001666/eOQQCJLK0dcbEIL-55lA', 'transaction_id': '' });
+  Updated: 2025-12-26T18:22:47Z
 
 ## Policies
 
