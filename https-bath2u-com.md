@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-25T00:00:46.124Z
+- Updated At: 2025-12-28T00:00:46.664Z
 
 ## Products
 
@@ -133,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A180SP.jpg?v=1672806581
   Price: RM 750.00 MYR
 - [DOCASA Squatting Pan come with Integral Tread Plates](https://bath2u.com/products/docasa-squatting-pan-come-with-integral-tread-plates): Material: Ceramic Length: 525mm Width: 410mm Height: 210mm Type: Squatting Pan come with direct trap and back inlet
-  Updated: 2024-04-18T15:03:04Z
+  Updated: 2025-12-26T01:44:53Z
   Vendor: DOCASA
   Product Type: Squatting Pan
   Availability: Available
@@ -329,7 +329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/K237.jpg?v=1673508881
   Price: RM 280.00 MYR
 - [DOCASA Flower Counter Top Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-flower-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-cap): Material: Ceramic Dimension: 400 (W) x 450 (L) x 180 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2024-04-18T15:04:05Z
+  Updated: 2025-12-26T08:34:48Z
   Vendor: DOCASA
   Product Type: Counter Top Basin
   Availability: Available
@@ -546,7 +546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTSH222620-GY.jpg?v=1673943239
   Price: RM 208.00 MYR
 - [SORENTO 254mm Brushed Brass Square Fixed ABS Rain Shower Head](https://bath2u.com/products/sorento-254mm-brushed-brass-square-fixed-abs-rain-shower-head): The Square 254 x 254mm brushed brass fixed shower head with it's chic minimalist design will bring a touch of sophistication to any bathroom. Our range of Shower heads are ideal for renewing the style of your bathroom.Specification : Size: 254 x 254 mm Style: Modern Colour/Finish: Brushed Brass Material: Stainless Steel Shape: Square ABS Rainfall Effect Shower Head Supplied with swivel joint Rub clean nozzles makes this item easy to clean and maintain Package Content : 1x Rain Shower Head
-  Updated: 2024-04-18T15:04:35Z
+  Updated: 2025-12-26T05:23:16Z
   Vendor: SORENTO
   Product Type: Shower Head
   Availability: Available
@@ -868,7 +868,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTSH22614-BL_new.jpg?v=1674622740
   Price: RM 110.00 MYR
 - [SORENTO 285mm Matte Black Square Fixed ABS Rain Shower Head](https://bath2u.com/products/sorento-285mm-matte-black-square-fixed-abs-rain-shower-head): The Square 285 x 185mm brushed brass fixed shower head with it's chic minimalist design will bring a touch of sophistication to any bathroom. Our range of Shower heads are ideal for renewing the style of your bathroom.Specification : Size: 285 x 185 mm Style: Modern Colour/Finish: Matte Black Material: Stainless Steel Shape: Square ABS Rainfall Effect Shower Head Supplied with swivel joint Rub clean nozzles makes this item easy to clean and maintain Package Content : 1x Rain Shower Head
-  Updated: 2024-04-18T15:05:49Z
+  Updated: 2025-12-25T09:19:09Z
   Vendor: SORENTO
   Product Type: Shower Head
   Availability: Available
@@ -1229,7 +1229,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-3535_a5a4e021-c697-44ca-9159-b6d9a2acaa85.png?v=1675134310
   Price: RM 98.00 MYR
 - [TAPI 35cm V Shape Safety Grab Bar (Nylon Anti Slip)](https://bath2u.com/products/tapi-35cm-v-shape-safety-grab-bar-nylon-anti-slip): Specifications : Dimension : 350 L x 90 W x 350 H (ø35 mm) SUS 304 S / Steel (Inner) / ABS White (Casing) Max. Loading Weight : 150kg
-  Updated: 2024-04-18T15:06:21Z
+  Updated: 2025-12-25T23:36:30Z
   Vendor: TAPI
   Product Type: Safety Bar
   Availability: Available
@@ -2235,7 +2235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/7_5715a5b0-01b9-4d70-a75b-c8ea5ceeb39e.png?v=1676623048
   Price: RM 500.00 MYR
 - [DOCASA 400mm Black Wall Hung Aluminum Basin Cabinet Set](https://bath2u.com/products/docasa-400mm-black-wall-hung-aluminum-basin-cabinet-set): Wall Hung basin vanity cabinet features a white ceramic basin top, with a one swing door water resistant Aluminium cabinet, brings a modern look to your bathroom. ​ The basin comes with an overflow and one tap hole. The contemporary design hides all unsightly pipework creating a neat clean look. ​ This modern looking bathroom basin vanity complements any rectangular bath or shower, creating a stunning modern bathroom. Vanity Cabinet Dimension: 400 (W) x 360 (L) x 400 (H) mm Colour: Black Finish: Glossy Material: Aluminium Number of Drawers: 1 Doors: Soft Closing Type: Wall Hung Shelf Dimension: 400 (W) x 120 (L) x 40 (H) mm Colour: Black Material: Aluminium Mirror Dimension: 400 (W) x 450 (H) mm Package Content 1x Basin with Cabinet 1x Shelf 1x Mirror 1x Matt Steel Tap 1x Popup Waste
-  Updated: 2025-02-13T05:34:53Z
+  Updated: 2025-12-26T02:53:09Z
   Vendor: DOCASA
   Product Type: Wall Hung Cabinet
   Availability: Available
