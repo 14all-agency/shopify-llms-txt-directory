@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-27T00:01:06.887Z
+- Updated At: 2025-12-28T00:01:05.823Z
 
 ## Products
 
@@ -15362,25 +15362,25 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-12-25T09:15:06Z
+  Updated: 2025-12-27T02:09:17Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/studio-shot-fuchsia-sleeveless-midi-dress.webp?v=1746237068
   - [Hot Pink / S](https://ursupermart.com/products/sleeveless-midi-dress-with-slit?variant=41840043032666)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/studio-shot-fuchsia-sleeveless-midi-dress.webp?v=1746237068
     Price: $44.95 USD
   - [Hot Pink / M](https://ursupermart.com/products/sleeveless-midi-dress-with-slit?variant=41840043065434)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/studio-shot-fuchsia-sleeveless-midi-dress.webp?v=1746237068
     Price: $44.95 USD
   - [Hot Pink / L](https://ursupermart.com/products/sleeveless-midi-dress-with-slit?variant=41840043098202)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/studio-shot-fuchsia-sleeveless-midi-dress.webp?v=1746237068
     Price: $44.95 USD
   - [Hot Pink / XL](https://ursupermart.com/products/sleeveless-midi-dress-with-slit?variant=41840043130970)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/studio-shot-fuchsia-sleeveless-midi-dress.webp?v=1746237068
     Price: $44.95 USD
   - [Black / S](https://ursupermart.com/products/sleeveless-midi-dress-with-slit?variant=41840043163738)
@@ -16591,7 +16591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dress-green-tiered-soft-feminine-look.webp?v=1751690925
     Price: $44.95 USD
 - [Midi Dress for Women Floral Ruffles](https://ursupermart.com/products/midi-dress-for-women-casual-elegant-party-wear-outfit-1): Find your perfect Midi Dress for summer with our collection of comfortable, easy-care smocked dresses featuring floral patterns and relaxed fits.
-  Updated: 2025-12-24T10:53:22Z
+  Updated: 2025-12-27T07:17:23Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Smocked Floral Midi Dress
   Availability: Available
@@ -17315,7 +17315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pet-water-dispenser-cat-drinking-indoor.webp?v=1752292758
   Price: $49.95 USD
 - [Decorative wax lamp for a calming, mesmerizing glow](https://ursupermart.com/products/decorative-wax-lamp-calming-mesmerizing-glow): Decorative wax lamp creates a mesmerizing, tranquil glow, transforming any space into a relaxing oasis with its unique, captivating display. Enhance your mood and decor; shop now!
-  Updated: 2025-12-26T20:25:27Z
+  Updated: 2025-12-27T04:25:31Z
   Vendor: S1B|Make | CJ
   Product Type: Decorative wax lamp
   Availability: Available
@@ -17725,7 +17725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/lifting-straps-pink-fashionable-functional-deadlifting-accessory-gift.webp?v=1751577668
     Price: $28.95 USD
 - [Pet Hair Remover - Easy Clean Up, Top Rated!](https://ursupermart.com/products/pet-hair-remover-for-furniture-and-clothing): Effortlessly remove pet hair from furniture, clothes & more!  Our Pet Hair Remover glove is gentle yet effective.  Shop now!
-  Updated: 2025-12-26T07:25:33Z
+  Updated: 2025-12-27T08:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Pet hair remover glove
   Availability: Available
@@ -18177,7 +18177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/knitted-dress-white-front-pose-style.webp?v=1752526793
     Price: $39.95 USD
 - [Glass Teapot - Brew Beautiful Tea Today!](https://ursupermart.com/products/glass-teapot-for-loose-leaf-tea-infuser): Brew loose leaf tea perfectly with our elegant glass teapot.  Easy-clean design & magnetic infuser for effortless tea time. Shop now!
-  Updated: 2025-12-24T10:56:59Z
+  Updated: 2025-12-27T21:25:28Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Glass Teapot with One-Click Magnetic Tea Infuser
   Availability: Available
@@ -19171,7 +19171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3-in-1-eye-device-side-profile.webp?v=1753489444
     Price: $72.95 USD
 - [Seamless Yoga Set - Sculpt & Support](https://ursupermart.com/products/seamless-yoga-set-for-women-activewear): Seamless yoga set: buttery-soft leggings & sports bra.  High-waisted, supportive, & perfect for yoga or the gym. Shop now!
-  Updated: 2025-12-24T11:00:05Z
+  Updated: 2025-12-27T19:26:42Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Three-piece seamless yoga set for women
   Availability: Available
@@ -19642,7 +19642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-knit-shirt-outfit.webp?v=1752590003
     Price: $25.95 USD
 - [Build Stronger Hands with Our Adjustable Hand Strengthener](https://ursupermart.com/products/hand-strengthener-exercise-equipment-for-finger-grip-strengthening): Boost hand strength and reduce pain! This adjustable hand strengthener is perfect for arthritis, tendonitis, and improving grip.  Durable, comfortable, and portable.
-  Updated: 2025-12-24T11:00:38Z
+  Updated: 2025-12-27T20:25:31Z
   Vendor: S1B|@Updated - CJ
   Product Type: Hand Strengthener
   Availability: Available
@@ -21464,7 +21464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-12-25T02:26:51Z
+  Updated: 2025-12-27T06:26:56Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -23090,7 +23090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/halloween-blood-coffin-earrings-dangle.webp?v=1757432259
   Price: $19.95 USD
 - [Skeleton Earrings: Edgy Skull Dangle for Unique Style](https://ursupermart.com/products/skeleton-earrings-edgy-skull-dangle-gothic-style): Skeleton earrings offer a unique, edgy gothic style with a cool two-part design that creates an illusion of piercing through your ear; get yours today!
-  Updated: 2025-12-24T11:08:40Z
+  Updated: 2025-12-27T17:27:01Z
   Vendor: S1B|S1|CJ
   Product Type: Earrings
   Availability: Available
@@ -23333,7 +23333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gym-duffel-bag-tan-camo-style.webp?v=1758555875
     Price: $39.95 USD
 - [Massage Gun for Deep Tissue Relief & Fast Recovery](https://ursupermart.com/products/deep-tissue-massage-gun-for-muscle-recovery): This massage gun provides deep tissue relief and muscle recovery, easing soreness with 8 heads and a 12-hour battery. Get yours for faster recovery!
-  Updated: 2025-12-24T11:09:10Z
+  Updated: 2025-12-27T14:25:36Z
   Vendor: S1B|S1|CJ
   Product Type: cordless massage gun
   Availability: Available
@@ -23476,7 +23476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fat-burning-massager-led-body-device.webp?v=1758759194
   Price: $64.95 USD
 - [RC Drone Fighter Jet for Kids Easy to Fly Durable Safe Fun](https://ursupermart.com/products/rc-drone-fighter-jet-easy-fly-durable-fun): This RC drone fighter jet offers thrilling outdoor fun for kids with easy controls, LED lights, and amazing 360-degree flips. Grab yours now!
-  Updated: 2025-12-25T08:26:31Z
+  Updated: 2025-12-27T13:27:01Z
   Vendor: S1B|S1|CJ
   Product Type: RC Drone Fighter Jet
   Availability: Available
@@ -25399,7 +25399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/jade-face-roller-spa.webp?v=1758549431
   Price: $22.95 USD
 - [Realistic Skull Mask Full Head Movable Jaw Halloween](https://ursupermart.com/products/realistic-skull-mask-movable-jaw-halloween-fun): Transform with this realistic Skull Mask featuring a movable jaw and clear vision for ultimate spooky fun; get yours for parties and scares today!
-  Updated: 2025-12-24T11:13:36Z
+  Updated: 2025-12-27T08:25:34Z
   Vendor: S1B|S1|CJ
   Product Type: Skull mask
   Availability: Available
@@ -26445,7 +26445,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-dinosaur-toy-three-sizes-shown.webp?v=1759602165
   Price: $19.95 USD
 - [Water Track Play Set for Kids Outdoor Fun & Learning](https://ursupermart.com/products/water-track-play-set-for-kids-outdoor-fun-learning): This water track play set offers endless outdoor fun for kids with a boat and crane, fostering imagination and motor skills; get yours today!
-  Updated: 2025-12-24T11:15:51Z
+  Updated: 2025-12-27T07:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: Water play set
   Availability: Available
@@ -26494,7 +26494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/kids-whiteboard-learning-organizer-in-use.webp?v=1759589733
   Price: $74.95 USD
 - [Fidget Toy Rotating Puzzle for Stress Relief & Focus](https://ursupermart.com/products/fidget-toy-rotating-puzzle-for-stress-relief-and): This fidget toy rotating puzzle offers stress relief and boosts focus with its smooth 360-degree spin and colorful beads. Sharpen your mind and find calm; get yours today!
-  Updated: 2025-12-24T11:16:00Z
+  Updated: 2025-12-27T06:27:01Z
   Vendor: @S1B|S1|CJ
   Product Type: Fidget Toy
   Availability: Available
@@ -29342,7 +29342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-air-freshener-spike-bulldog-vent-spinner.webp?v=1763156521
     Price: $9.95 USD
 - [Straightening Brushes: Cordless Travel Hair Brush for Smooth Hair](https://ursupermart.com/products/straightening-brushes-cordless-travel-hair-brush-for-smooth): Straightening brushes provide cordless freedom for quick touch-ups and travel, ensuring smooth, damage-free hair on the go; shop now for effortless style!
-  Updated: 2025-12-24T11:18:25Z
+  Updated: 2025-12-27T06:27:01Z
   Vendor: @S1B|S1|CJ
   Product Type: Cordless straightening brush
   Availability: Available
@@ -29862,7 +29862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-vest-with-collared-design-luxury-beige-front.webp?v=1764959362
     Price: $62.95 USD
 - [Women's Warm Quilted Jacket - Flexible Comfort & Style](https://ursupermart.com/products/womens-warm-quilted-jacket-flexible-comfort): This women's quilted jacket offers core warmth, flexible knitted sleeves, and a high collar for comfort. Adjust your style and find your perfect fit today!
-  Updated: 2025-12-24T11:19:50Z
+  Updated: 2025-12-27T05:27:01Z
   Vendor: S1B|S1|CJ
   Product Type: Quilted Jacket
   Availability: Available
@@ -30355,7 +30355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-off-shoulder-knit-top-white-outdoor.webp?v=1762293039
     Price: $34.95 USD
 - [Turtleneck Sweaters for Women - Soft Knit & Stylish](https://ursupermart.com/products/womens-cozy-knit-turtleneck-sweaters-for-fall): Turtleneck sweaters provide cozy warmth and versatile style for any occasion. Stay comfortable and look polished all season long; find your perfect fit today!
-  Updated: 2025-12-24T11:21:01Z
+  Updated: 2025-12-27T05:28:00Z
   Vendor: S1B|S1|CJ
   Product Type: turtleneck sweater
   Availability: Available
@@ -30886,7 +30886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/music-boxing-machine-smart-star-black.webp?v=1762393400
     Price: $134.95 USD
 - [Racing Phone Holders for Car Vent - Safe & Easy Install](https://ursupermart.com/products/car-phone-holders-for-vent-safe-easy-install): Secure your phone with our racing car phone holders, featuring adjustable clamps and a 360-degree swivel for safe, hands-free driving. Get yours today!
-  Updated: 2025-12-24T11:21:42Z
+  Updated: 2025-12-27T04:26:46Z
   Vendor: S1B|S1|CJ
   Product Type: car phone holder
   Availability: Available
@@ -33568,7 +33568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-small-size-compression.webp?v=1763336479
     Price: $23.95 USD
 - [Glow bears: Comforting light up teddy for kids sleep](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep): Glow bears offer soft, multi-colored comfort, perfect for kids afraid of the dark. Tap to light up this cuddly friend and bring home a soothing companion today!
-  Updated: 2025-12-24T11:28:17Z
+  Updated: 2025-12-27T02:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Light up teddy bear
   Availability: Available
@@ -33638,7 +33638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
     Price: $64.95 USD
 - [Women's Overcoats: Tailored Fit & Warm Winter Style](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style): Women's Overcoats deliver tailored style and cozy warmth for autumn and winter, perfect for any occasion. Elevate your look and feel confident; shop now!
-  Updated: 2025-12-24T11:29:08Z
+  Updated: 2025-12-27T00:28:12Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Overcoat
   Availability: Available
@@ -38293,7 +38293,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c327d19f-74dc-4d26-90d8-265c6f4444f1.jpg?v=1763756152
   Price: $1.00 USD
 - [Layered Anklet Set Trendy Gold Chains for Summer Style](https://ursupermart.com/products/layered-anklet-set-trendy-gold-chains-for-summer-style-anklets): This layered anklet set instantly elevates your style with five trendy gold chains, perfect for any occasion. Shop now to express your unique personality!
-  Updated: 2025-12-24T11:40:02Z
+  Updated: 2025-12-27T01:26:41Z
   Vendor: S1B|S1|CJ
   Product Type: anklet set
   Availability: Available
@@ -38868,7 +38868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/convertible-heart-necklace-gold-clover.webp?v=1764204379
     Price: $1.00 USD
 - [Trident Pendant Necklace - Show Your Style & Power](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol): This trident pendant necklace lets you express your unique style with a durable steel mythical symbol, available in three cool colors. Get yours today!
-  Updated: 2025-12-24T11:41:14Z
+  Updated: 2025-12-27T06:28:26Z
   Vendor: S1B|S1|CJ
   Product Type: Pendant Necklace
   Availability: Available
@@ -41265,7 +41265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hands-free-neck-massager-premium-green-relief-strap.webp?v=1765229483
   Price: $87.95 USD
 - [Women's Quilted Puffer Coat | Oversized with Hood & Pockets](https://ursupermart.com/products/womens-quilted-puffer-coat-sherpa): Shop our women's quilted puffer coat in 8 colors. Oversized fit, sherpa lining, functional pockets, and extended length. XS-XXXXL sizes available now.
-  Updated: 2025-12-24T11:44:45Z
+  Updated: 2025-12-27T12:27:47Z
   Vendor: CJ
   Product Type: women's quilted puffer coat
   Availability: Available
