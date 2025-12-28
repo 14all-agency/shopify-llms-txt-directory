@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-12-24T00:00:41.475Z
+- Updated At: 2025-12-28T00:00:42.367Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -408,7 +408,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/ceramic-mug-heart.jpg?v=1759081818
   Price: $9.95 USD
 - [Cozy Warmth Hoodie | Soft Durable Sweatshirt for Everyday Comfort](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore): Stay warm and stylish with this cozy unisex hoodie featuring a soft fabric blend roomy pocket and adjustable hood for comfort on chilly days.
-  Updated: 2025-11-27T18:08:58Z
+  Updated: 2025-12-26T00:39:34Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -709,7 +709,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $34.23 USD
 - [Colorful Love Letter Pillows | Stylish Room Decor](https://printexplore9.com/products/spun-polyester-square-pillow-2): Vibrant double-sided pillows with love-letter designs. 100% polyester, concealed zippers, and available in various sizes to enhance any room.
-  Updated: 2025-10-12T09:52:46Z
+  Updated: 2025-12-24T03:54:17Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -957,11 +957,11 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Organic_Canvas_Tote_Bag.jpg?v=1759081798
   Price: $34.83 USD
 - [Best women's Low-top Sneakers](https://printexplore9.com/products/best-womens-low-top-sneakers): Floral low-top sneakers with soft deodorant memory foam insoles and EVA shock-absorbing soles for all-day comfort and lightweight steps.
-  Updated: 2025-12-18T02:17:40Z
+  Updated: 2025-12-26T15:11:56Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women-s-low-top-sneakers_-flowers.jpg?v=1759082321
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women-s-low-top-sneakers_-flowers.jpg?v=1766761916
   - [US 5.5 / White sole](https://printexplore9.com/products/best-womens-low-top-sneakers?variant=45374462427403)
     Availability: Available
     Price: $49.95 USD
@@ -1947,8 +1947,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
   Updated: 2025-12-07T10:32:34Z
   Total Products: 12
-- [Organic Skincare Collection | Hydrating & Brightening Care](https://printexplore9.com/collections/organic-skincare): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
-  Updated: 2025-12-12T02:02:10Z
+- [Organic Skincare Collection | Hydrating & Brightening Care](https://printexplore9.com/collections/organic-skincare): Hydrate, smooth, and glow with our skincare collection featuring toners, serums, and cleansers.
+  Updated: 2025-12-26T10:41:08Z
   Total Products: 10
 
 ## Blogs
@@ -1995,6 +1995,12 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-11-01T11:01:18Z
 - [Featured on|Printexplore9](https://printexplore9.com/pages/featured-on-printexplore9): https://www.bignewsnetwork.com/news/278541498/your-complete-wellness-and-style-routine-hydrating-hyaluronic-acid-serum-and-eco-friendly-activewear ...
   Updated: 2025-12-08T20:26:59Z
+- [Materials & Sustainability| Bella+Canvas & Gildan Apparel](https://printexplore9.com/pages/materials-sustainability): Materials & Sustainability At PrintExplore, transparency matters. This page explains the materials used in our apparel, how they are constructed, a...
+  Updated: 2025-12-26T10:23:05Z
+- [Skincare Ingredients & Manufacturing](https://printexplore9.com/pages/skincare-ingredients-manufacturing): Skincare Ingredients & Manufacturing At Print Explore, we believe skincare transparency is essential. This page provides general information about ...
+  Updated: 2025-12-26T10:33:14Z
+- [Premium Collection & Craftsmanship | Print Explore](https://printexplore9.com/pages/premium-collection-craftsmanship-print-explore): Premium Collection & Craftsmanship Our Premium Collection features a small selection of elevated apparel designed for comfort, durability, and long...
+  Updated: 2025-12-26T10:55:15Z
 
 ## Policies
 
