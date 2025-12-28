@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2025-12-16T22:46:56Z
-- Updated At: 2025-12-26T00:00:25.384Z
+- Updated At: 2025-12-28T00:00:26.814Z
 
 ## Products
 
@@ -1891,6 +1891,9 @@
     Author: BB’s Baby Boutique
   - [10 Ways HeartGlow Brings Cute and Cozy Spark to Your Baby Essentials for a Fun and Happy Baby](https://bbsbabyboutique.myshopify.com/blogs/news/10-ways-heartglow-brings-cute-and-cozy-spark-to-your-baby-essentials-for-a-fun-and-happy-baby): 10 Ways HeartGlow Brings Cute and Cozy Spark to Your Baby Essentials for a Fun and Happy Baby
     Updated: 2025-12-24T07:02:16Z
+    Author: BB’s Baby Boutique
+  - [Blooming Beauty: The Cute Baby Dress Every Cozy and Happy Baby Needs In Their Fun Baby Essentials Wardrobe](https://bbsbabyboutique.myshopify.com/blogs/news/blooming-beauty-the-cute-baby-dress-every-cozy-and-happy-baby-needs-in-their-fun-baby-essentials-wardrobe): Blooming Beauty: The Cute Baby Dress Every Cozy and Happy Baby Needs In Their Fun Baby Essentials Wardrobe
+    Updated: 2025-12-26T07:01:27Z
     Author: BB’s Baby Boutique
 
 ## Store Pages
