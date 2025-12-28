@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-28T00:12:33.384Z
+- Updated At: 2025-12-28T02:22:42.096Z
 
 ## Products
 
@@ -31,7 +31,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/XECIfcIYKW.png?v=1766710659
   Price: $22.99 USD
 - [Dream Aftershave](https://www.ironforgebeardco.com/products/dream-aftershave): Our aftershave is the perfect embodiment of luxury and comfort. With a medicinal, fresh, woody, earthy and herbaceous scent, you'll never want to leave home without shaving with this soothing blend of natural and vegan ingredients. Our luxe concoction contains avocado, cupuacu butters as well as coconut, olive, castor, avocado and tea tree oil to give your skin the utmost protection from the elements.Not only does our aftershave provide intense moisture for an all-day calming feel, but it also conditions your skin with its perfect balance of nutrition and hydration. Feel like you've just stepped out of a barber's chair after each shave with the added bonus of protecting your skin from potential irritations or damage from razor burn.Say goodbye to dryness or discomfort. Our aftershave gives you that masculine look you desire with its creative touch. Treat yourself and your skin right with this must-have item in every man's grooming obsession!Net Wt. 4 oz / 113 g Ingredients: Persea Gratissima (Avacodo) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Glycerine, Persea Gratissima (Avacodo) Oil, Olea Europaea (Olive) Fruit Oil, Ricinus Communis (Castor) Seed Oil, Cocos Nucifera (Coconut) Oil, Phenoxyethanol, Melaleuca Alternifolia (Tea Tree) Leaf Oil
-  Updated: 2025-12-27T05:33:16Z
+  Updated: 2025-12-28T01:11:37Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -52,7 +52,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/KvLoZ13hHu.png?v=1766711089
   Price: $8.99 USD
 - [Beard Envy Bundle](https://www.ironforgebeardco.com/products/beard-envy-bundle): Beard itch? When you first start growing, your face may itch because the hair is robbing your face of nutrients to help it grow. Let's get you started before you shave. Did you know 80% of men shave? Let's increase that 20% bearded rate by keeping your beard healthy! This kit includes a Beard Oil for your skin and a Beard Balm or Butter for your hair.What's the difference between Beard Balm and Beard Butter?Balm has more wax, adds weight to the beard hair to help with flyways and allows you to style easier. Beard Butter is lighter and is perfect for nourishment, repair, and protection.What's included: (1) Beard Oil – 59 ml(1) Pump for Beard Oil (1) Beard Balm – 56 g(1) Beard Butter – 56 gBeard Oil Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Fragrance Beard Balm or Beard Butter Ingredients:Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance
-  Updated: 2025-12-26T05:00:22Z
+  Updated: 2025-12-28T01:11:37Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $97.99 USD
 - [The Ultimate Men's Grooming & Relaxation Bundle – Beard Care, Electric Shaver, and Massage Gun](https://www.ironforgebeardco.com/products/the-ultimate-mens-grooming-relaxation-bundle-beard-care-electric-shaver-and-massage-gun): Master the art of grooming and unwind in style with the Ultimate Men's Grooming & Relaxation Bundle. Featuring the Pursonic Beard Care Kit, Mario Lopez Men's Rechargeable Electric Shaver, and Pursonic 3-Speed Cordless Massage Gun, this bundle combines precision grooming with powerful relaxation tools to keep you looking and feeling your best. Perfect for self-care or as a thoughtful gift for any man who values both style and comfort. Bundle Includes: 1. Pursonic Beard Care Grooming Kit (4 Pieces) Achieve the perfect beard with this all-in-one set designed to nourish, style, and maintain your facial hair. Beard Oil (30ml): Deeply moisturizes and nourishes with vitamin E and golden jojoba oil for a smooth, healthy beard. Beard Balm (60g): Shapes and holds your beard while adding a natural shine for all-day style. Beard Serum (30ml): Cleanses and hydrates to prevent dryness, itching, and clogged pores. Beard Comb: Tame and style with ease for a polished look. 2. Pursonic – Mario Lopez Men’s Rechargeable Electric Shaver Upgrade your shaving routine with advanced technology for a close and comfortable shave. 3D Floating Blades: Adjust to facial contours for precise, irritation-free shaving. Double Ring Knife Net: Covers more surface area for efficient, faster shaving. 60-Minute Runtime & Quick Charge: Long-lasting performance with a 5-minute quick charge for last-minute touch-ups. Washable Blades: Easy to clean for hygiene and convenience. 3. Pursonic 3-Speed Cordless & Rechargeable Professional Massage Gun Relax and recover with targeted muscle relief using this versatile massage gun. 3 Speed Settings: Tailor your massage from gentle relaxation to deep tissue therapy. 3 Attachments: Round head for large muscles, bullet head for pinpoint targeting, and flat head for all-over relief. Quiet & Portable: Whisper-quiet motor and ergonomic design for use at home, the gym, or on the go. Rechargeable Battery: Long-lasting power for uninterrupted relaxation sessions. Why Choose the Ultimate Men’s Grooming & Relaxation Bundle? Complete Grooming & Wellness Solution: A comprehensive set for head-to-toe care. Premium Quality & Performance: High-grade materials and advanced features for lasting results. Perfect Gift Idea: Treat yourself or surprise a loved one with this thoughtfully curated bundle. Transform your grooming routine and recovery experience with this all-in-one package of style and relaxation. Order now and step into your best version of comfort and confidence.
-  Updated: 2025-12-26T07:22:21Z
+  Updated: 2025-12-28T00:33:26Z
   Vendor: Pursonic
   Product Type: Shaver
   Availability: Available
@@ -381,7 +381,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/3LLVlLp4uK.png?v=1766804615
   Price: $27.99 USD
 - [Bamboo Beard Boar Brush](https://www.ironforgebeardco.com/products/bamboo-beard-boar-brush): Introducing the Bamboo Beard Boar Brush - perfect for adding a little extra style and volume to all sorts of beards! This brush is made from‚ medium firm‚ boar hair that's lightly embedded into a sustainable bamboo handle. With its sleek design, this brush is both stylish and functional.Whether you're a man with facial hair seeking a perfectly groomed appearance or simply want to‚ detangle‚ your wild beard away, our brush has got you covered. The smooth boar bristles are great for reducing irritation when brushing through tangled strands. Get ready to level up your grooming routine with the most luxurious Boar Brush yet! Imperial = 2.25 in x 4.75 in / Metric = 57 x 120
-  Updated: 2025-12-27T05:36:47Z
+  Updated: 2025-12-28T00:52:14Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -402,14 +402,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/CASINOBEARDSOAP_ddb99401-f25e-4f7b-8f26-f456a4cc71f1.jpg?v=1766805252
   Price: $9.99 USD
 - [Lucky Beard Soap & Conditioner](https://www.ironforgebeardco.com/products/lucky-beard-soap-conditioner): Treat yourself to the luxurious clean of our beard soap and conditioner! Our soap is constructed with nature's finest ingredients, such as fatty acids, glycerin, cocoa butter, shea butter and mango plant butters. We also add African Black Soap chunks to give your skin an extra-special treatment. Trust us your beard (and your partners) will thank us later.This soap exudes a strikingly masculine scent, with notes of patchouli, vanilla, clove, and leather that are sure to draw attention from anyone. As for practicality? Check! This bar can last up to two months in even the thickest of beards giving you ultimate value without breaking the bank. Net Wt. 4 oz / 113g Ingredients: Aqua, Glycerin, Sorbitol, Sodium Stearate, Sodium Laurate, Propylene Glycol, Sodium Oleate, Sodium Myristate, Sodium Chloride, Glyceryl Mono Laurate, Cocamidopropyl Betaine, Teobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea Butter), Magnifera Indica (Mango) Seed Butter, Sodium Thiosulphate, Sodium Citrate, Titanium Dioxide, Citric Acid, Trisodium Sulfosuccinate, Pentasodium Pentatate, Tetrasodium Etidronate, African Black Soap (Sodium Shea Butterate, Sodium Cocoate, Sodium Palm Kernelate, Coconut Carbon), Fragrance, Blue 1
-  Updated: 2025-12-27T17:38:46Z
+  Updated: 2025-12-28T01:11:37Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/LUCKYBEARDSOAP_632f5584-153d-45ce-8ae3-972b987781ad.jpg?v=1766805263
   Price: $9.99 USD
 - [Ultra Soft Beard Wash](https://www.ironforgebeardco.com/products/ultra-soft-beard-wash): Gentlemen, it's time to treat your beard right! Our beard wash is the natural solution you've been looking for. No more harsh detergents, this wash will rid your facial hair of dirt and grime, but let all its natural oils stay intact.We've designed our Beard Wash with Soy Proteins and Provitamin B5 while utilizing natural chlorophyll for color, just the right combination of ingredients to give you strong, healthy growth so your beard looks better than ever before.Let's talk about that amazing scent: warm unharvested nightshade leaves mixed with a hint of citrus and bay leaves? You won't find anything like it! Plus we make each small batch with all the care you need for pampering, primping, and preening your lush beard. Let our beard wash be the essential ingredient in maintaining the mane of your dreams.8 fl oz / 236 ml Ingredients: Aqua, Sodium Cocoamphoacetate (and) Glycerin (and) Lauryl Glucoside (and) Sodium Cocoyl Glutamate (Sodium Lauryl Glucose Carboxylate, Decyl Glucoside, Cocoamidopropyl Betaine, Coco-Glucoside (and) Glyceryl Oleate, PEG-120 Methyl Glucose Dioleate, Hydrolyzed Soy Protein, Dicaprylyl Ether (and) Decyl GLucoside (and) Glyceryl Oleate, Aqua (and) Sodium Levulinate (and) Potassium Sorbate, Fragrance, Chlorophyllin
-  Updated: 2025-12-27T05:39:34Z
+  Updated: 2025-12-28T00:15:42Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -544,7 +544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MCZ_7094.jpg?v=1766810569
   Price: $8.46 USD
 - [Beard Care Grooming Kit](https://www.ironforgebeardco.com/products/beard-care-grooming-kit): Your beard will never look the same with our unique 4 piece gift set. Beard brush, oil, serum and Balm. All you need for the prefect beard. Features: Set includes: (1) Beard Comb, (1) Beard oil, (1) Beard balm, and (1) Beard serum Beard oil (30ml) - Deep moisturizing, smoothing, make the beard beautiful and black. Contains a variety of Vitamin E essences and golden jojoba oil. Beard oil can quickly penetrate deep into the skin to nourish the dehydrated skin and can also supply skin with moisture. It can regulate sebum's balance and help renew the beards texture. Beard balm (60g) - firm the shape of the beard with this beard's daily nursing balm and keep the beard shining for long term. Beard serum (30ml) - Beard serum can Deeply clean the beard and the skin or beard, effectively reducing oil on the skin of the beard. Uncttoke pores while hydrating to prevent dryness and itching of beard. Model Number: BCGS5
-  Updated: 2025-12-27T16:46:52Z
+  Updated: 2025-12-28T00:52:15Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -596,6 +596,10 @@
 
 - [Privacy Policy](https://www.ironforgebeardco.com/policies/privacy-policy)
   Updated: 2025-12-24T00:59:02-05:00
+
+## Alternate Currencies & Languages
+
+- [United States (en / USD)](https://www.ironforgebeardco.com/llms.txt?market=us)
 
 ## Optional
 
