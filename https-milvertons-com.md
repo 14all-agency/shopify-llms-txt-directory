@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-12-27T00:00:47.315Z
+- Updated At: 2025-12-28T00:00:50.088Z
 
 ## Products
 
@@ -2174,28 +2174,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-pencil-pants-for-women-533238.jpg?v=1715725535
     Price: $29.52 USD
-- [Boat Neck Lantern Sleeve Sweater Dress](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress): This Chic Boat Neck Lantern Sleeve Sweater Dress is perfect for any casual occasion.  Shop now at Milvertons and add a touch of sophistication to your wardrobe.
-  Updated: 2025-12-23T18:41:02Z
-  Vendor: Milvertons
-  Product Type: Women - Apparel - Dresses - Day to Night
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/boat-neck-lantern-sleeve-sweater-dress-427212.jpg?v=1715725371
-  - [Rose Pink / S](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress?variant=44117982511342)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/boat-neck-lantern-sleeve-sweater-dress-427212.jpg?v=1715725371
-    Price: $60.50 USD
-  - [Rose Pink / M](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress?variant=44117982544110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/boat-neck-lantern-sleeve-sweater-dress-427212.jpg?v=1715725371
-    Price: $60.50 USD
-  - [Rose Pink / L](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress?variant=44117982576878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/boat-neck-lantern-sleeve-sweater-dress-427212.jpg?v=1715725371
-    Price: $60.50 USD
-  - [Rose Pink / XL](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress?variant=44117982609646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/boat-neck-lantern-sleeve-sweater-dress-427212.jpg?v=1715725371
-    Price: $60.50 USD
 - [Tiered Flare Culottes with Drawstring Waist](https://milvertons.com/products/drawstring-waist-tiered-flare-culottes): These Tiered Flare Culottes with Drawstring Waist are perfect for a casual look. They are comfortable, stylish and the drawstring waist allows for a perfect fit
   Updated: 2025-12-23T18:41:05Z
   Vendor: Milvertons
@@ -11390,7 +11368,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women’s Shoes and Bags | Luxury Footwear & Matching Sets](https://milvertons.com/collections/women-shoes-bags): Women’s Shoes and Bags in luxury styles. Discover elegant footwear and matching sets for weddings, parties & special occasions. Shop timeless designs today.
-  Updated: 2025-12-26T06:28:04Z
+  Updated: 2025-12-27T06:26:40Z
   Total Products: 141
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -11405,7 +11383,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-12-26T06:27:21Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -11423,7 +11401,7 @@
   Updated: 2025-12-22T19:10:15Z
   Total Products: 106
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
-  Updated: 2025-10-22T14:36:24Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 171
 - [Fashion Boxes and Bags](https://milvertons.com/collections/fashion-boxes-and-bags): Fashion Boxes and Bags
   Updated: 2025-12-23T06:29:59Z
@@ -11438,7 +11416,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 167
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -11465,28 +11443,28 @@
   Updated: 2023-03-20T02:45:03Z
   Total Products: 0
 - [All Products - Published but OOS](https://milvertons.com/collections/all-products-oos): Out of Stock Products.
-  Updated: 2025-12-22T17:07:18Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 163
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 196
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
-  Updated: 2025-12-22T17:07:18Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 162
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 522
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 14
 - [Milvertons Facebook Shop](https://milvertons.com/collections/milvertons-facebook-shop): Milvertons Facebook Shop
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 105
 - [New Arrivals Collection - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
   Updated: 2025-12-24T16:30:37Z
   Total Products: 28
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
-  Updated: 2025-12-09T12:05:11Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 143
 - [Shirts and Blouses](https://milvertons.com/collections/shirts-and-blouses): Women's Apparel - Shirts and Blouses
   Updated: 2025-03-30T00:47:53Z
@@ -11498,7 +11476,7 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 9
 - [Dresses](https://milvertons.com/collections/dresses): Women's Apparel - Dresses
-  Updated: 2025-09-26T06:52:18Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 34
 - [Outfit Sets](https://milvertons.com/collections/outfit-sets): Women - Apparel - Clothing - Outfit Sets
   Updated: 2025-09-26T06:52:18Z
@@ -11513,7 +11491,7 @@
   Updated: 2025-12-23T06:23:16Z
   Total Products: 59
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 339
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
@@ -11531,10 +11509,10 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 0
 - [BFCM Sale Collection - Not On Sale - Pre-BFCM](https://milvertons.com/collections/not-sale-pre-bfcm): BFCM Sale Collection - Not On Sale - Pre-BFCM
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 157
 - [BFCM Sale Collection](https://milvertons.com/collections/on-sale-for-bfcm): BFCM Sale Collection
-  Updated: 2025-12-25T08:00:34Z
+  Updated: 2025-12-27T08:02:15Z
   Total Products: 157
 - [TikTok Trending Collection](https://milvertons.com/collections/tiktok-trending-collection): TikTok Trending Collection at Milvertons
   Updated: 2025-12-25T08:00:34Z
@@ -12347,9 +12325,12 @@
     Author: The Milvertons Store
     Tags: accessories guide, bags, clothing, dresses, fashion trends, matching accessory sets, matching shoes and bag for women, shoe and bag set for women, shoes, stylish outfits ideas, women's clothing, women's fashion, women's outfits, women's shoe and bag set
   - [Dresses Unveiled: Styling Secrets with Coordinated Shoes and Bags](https://milvertons.com/blogs/blog/dresses-unveiled-styling-secrets-with-coordinated-shoes-and-bags): Dresses Unveiled: Styling Secrets with Coordinated Shoes and Bags
-    Updated: 2025-12-26T09:03:03Z
+    Updated: 2025-12-27T06:09:13Z
     Author: The Milvertons Store
     Tags: bags, coordinated outfit ideas, dresses, fashion accessories, matching shoes and bag for women, matching shoes bags, outfit coordination, shoe and bag set for women, shoes, styling tips, women's clothing, women's fashion, women's shoe and bag set
+  - [Italian Shoes and Bags Set Guide Elevate Your Style | Milvertons](https://milvertons.com/blogs/blog/the-timeless-italian-shoe-and-bag-set-for-elegant-pairing): Italian Shoes and Bags Set Guide Elevate Your Style | Milvertons
+    Updated: 2025-12-27T15:00:14Z
+    Author: The Milvertons Store
 
 ## Store Pages
 
