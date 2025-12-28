@@ -6,21 +6,21 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-27T00:00:24.606Z
+- Updated At: 2025-12-28T00:00:24.809Z
 
 The New Age
 
 ## Products
 
 - [Pet Cat Tree Toys - Durable Cat Scratch Post & Interactive Climber for Cats](https://the-new-age-7647.myshopify.com/products/pet-cat-tree-toys-cat-scratch-post-pet-furniture-scratching-post-cats-claw-scratcher-double-sisal-balls-cat-accessories): Discover our Pet Cat Tree Toys, featuring a sturdy cat scratch post and interactive features to keep your cat active, healthy, and entertained at home.
-  Updated: 2025-12-24T10:10:39Z
+  Updated: 2025-12-27T06:07:44Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/53f04721-aa4d-4069-a24a-1ded338b0f06.jpg?v=1766444591
   Price: $55.00 USD
 - [Pets Dog Anti Barking Device - Humane Ultrasonic Bark Control Collars](https://the-new-age-7647.myshopify.com/products/pets-dog-anti-barking-device-pet-dog-ultrasonic-anti-barking-collars-repeller-outdoor-dogs-stop-no-bark-control-training-device-supplies): Pets Dog Anti Barking Device emits ultrasonic sounds to stop excessive barking safely within 50 feet. Perfect for indoor and outdoor use for dogs aged 6 months to 8 years.
-  Updated: 2025-12-24T10:53:40Z
+  Updated: 2025-12-27T06:07:44Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -90,7 +90,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/73633834-c2ae-482d-a5b2-fd8b27531196.jpg?v=1766445456
     Price: $32.99 USD
 - [Pet Automatic Feeder Large Capacity with APP Control & WiFi - Smart Dispenser](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo): Shop the Pet Automatic Feeder with large capacity, APP control, WiFi, voice recorder, and timer feeding. Keep your pet fed and healthy effortlessly.
-  Updated: 2025-12-24T15:49:31Z
+  Updated: 2025-12-27T06:07:44Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -280,7 +280,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1766445506
     Price: $127.99 USD
 - [Cat Brush Hair Remover - Pet Grooming Tool for Gentle Fur Care](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care): Find the best Cat Brush Hair Remover for effective pet grooming. Keeps fur healthy and shiny, with a 2-in-1 massage and de-shedding design.
-  Updated: 2025-12-24T12:02:21Z
+  Updated: 2025-12-27T06:07:44Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -294,7 +294,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0e49ce1f-3127-423a-8cca-09aa292ebc5f_trans.jpg?v=1766445530
     Price: $13.99 USD
 - [Electric Water Gun - Automatic High-Range Water Fight Toy for Summer](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys): Discover the Electric Water Gun with automatic reloading and long-range shoots up to 32 feet. Perfect for summer outdoor water fights and kids' fun activities.
-  Updated: 2025-12-24T05:55:26Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -328,7 +328,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/85de2bdd-e3cc-4bed-9d5b-c09f1be348e5_c28ec773-8bfc-4f2b-98b3-e56764b48f7f.jpg?v=1766467426
     Price: $45.99 USD
 - [New Busy Book Children's Busy Board for Learning & Sensory Development](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy): Discover the New Busy Book, a perfect sensory learning toy for children aged 1-5, helping develop practical skills through dressing and buttoning activities.
-  Updated: 2025-12-23T18:08:17Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -450,7 +450,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7968f3d6-ddbe-461a-ad96-c1c000ea5de1.jpg?v=1766467489
     Price: $31.99 USD
 - [Baby Toys Magnetic Stick Building Blocks - Fun & Educational Magnetic Toy](https://the-new-age-7647.myshopify.com/products/baby-toys-magnetic-stick-building-blocks-game-magnets-children-set-kids-magnets-for-children-magnetic-toy-bricks): Discover Baby Toys Magnetic Stick Building Blocks, designed to spark creativity, build motor skills, and teach magnetic principles with vibrant, safe materials.
-  Updated: 2025-12-23T18:39:12Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -472,7 +472,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9124643030124.jpg?v=1766467516
     Price: $51.99 USD
 - [2.4Ghz Remote Drift Control Car - High-Speed RC Racing Toy for Kids](https://the-new-age-7647.myshopify.com/products/2-4g-drift-rc-car-4wd-rc-drift-car-toy-remote-control-gtr-model-ae86-vehicle-car-rc-racing-car-toy-for-children-christmas-gifts): Discover the exciting 2.4Ghz Remote Drift Control Car with 4WD, fast speed up to 15KM/H, and cool lights. Perfect for boys aged 7-14 for fun and racing.
-  Updated: 2025-12-23T18:45:31Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -530,7 +530,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/882025af-bd91-48cd-9684-01d9f3510937.jpg?v=1766467558
     Price: $42.99 USD
 - [Domino Train Toys - Baby Toy Car Puzzle with Automatic Release & Building Blocks](https://the-new-age-7647.myshopify.com/products/domino-train-toys-baby-toys-car-puzzle-automatic-release-licensing-electric-building-blocks-train-toy): Discover the exciting Domino Train Toys, perfect for developing children's imagination, coordination, and recognition skills with an automatic domino releasing train.
-  Updated: 2025-12-25T12:49:27Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -556,7 +556,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/45fe612a-ece7-4bc9-a5c4-dec1bc888747.jpg?v=1766467589
     Price: $69.99 USD
 - [PerfectSleep Full Body Pillow - Comfortable Solid Design for Body & Bedding](https://the-new-age-7647.myshopify.com/products/perfectsleep-full-body-pillow): Discover the PerfectSleep Full Body Pillow featuring Polyester/Cotton filling, 300TC thread count, and a solid pattern, ideal for body and bedding use.
-  Updated: 2025-12-23T18:51:26Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Pillow
   Availability: Available
@@ -610,7 +610,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1459745470100.jpg?v=1766467660
     Price: $76.99 USD
 - [Pizza Blanket - Cozy & Warm Hooded Cloak for Autumn & Winter](https://the-new-age-7647.myshopify.com/products/pizza-blanket): Shop the Pizza blanket, a cozy hooded cloak made of polyester, perfect for keeping warm during autumn and winter with various patterns and styles available.
-  Updated: 2025-12-23T18:53:30Z
+  Updated: 2025-12-27T06:07:45Z
   Vendor: The New Age
   Product Type: Blanket
   Availability: Available
@@ -632,7 +632,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1423076936007_fb9ea11f-27c2-4971-a663-83ea11d64547.jpg?v=1766467688
     Price: $43.99 USD
 - [Pet dog plush mat - Comfortable Beige Pet Rest Mat for Dogs](https://the-new-age-7647.myshopify.com/products/pet-dog-plush-mat-beige-mat-pet-dog-rest): Shop the pet dog plush mat, a comfortable and soft beige pet rest mat available in multiple sizes for dogs up to 45 kg. Perfect for your pet's relaxing needs!
-  Updated: 2025-12-23T18:57:14Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -678,7 +678,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c45f9408-507d-44c9-8788-4be8fc22dd6a.jpg?v=1766467743
     Price: $21.99 USD
 - [Twill Cotton Bed Sheet - Soft, Durable & Elegant Bedding Solution](https://the-new-age-7647.myshopify.com/products/twill-cotton-bed-sheet): Shop the Twill cotton bed sheet, crafted with pure cotton and reactive printing, offering durability and softness for a comfortable sleep experience. Perfect for any bedroom décor.
-  Updated: 2025-12-23T18:58:48Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Sheets
   Availability: Available
@@ -712,7 +712,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2063908408866.jpg?v=1766467778
     Price: $84.99 USD
 - [Students Cotton Bed Sheets - Comfortable Fitted Sheets & Pillow Cases](https://the-new-age-7647.myshopify.com/products/students-cotton-bed-sheets-fitted-sheet-pillow-case): Discover high-quality Students Cotton Bed Sheets, including fitted sheets and pillow cases in various colors and sizes for a cozy sleep experience.
-  Updated: 2025-12-24T00:40:06Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Sheets
   Availability: Available
@@ -918,7 +918,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/35336437-6a6a-46ba-be6c-d9c7578122b2.jpg?v=1766467825
     Price: $14.99 USD
 - [Car Inflatable Bed - Universal, Ultra-Thick, Easy to Fold & Use, Better Comfort](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed): Discover the Car Inflatable Bed for a comfy travel experience. Easy to fold, very good quality, suitable for five-seater cars. Perfect for on-the-go comfort!
-  Updated: 2025-12-23T19:46:56Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Car
   Availability: Available
@@ -956,7 +956,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2520092847518.jpg?v=1766467858
     Price: $72.99 USD
 - [Fashion Casual Geneva Mens Watch - Elegant Quartz Stainless Steel Wristwatch](https://the-new-age-7647.myshopify.com/products/fashion-casual-geneva-mens-watch-quartz-stainless-steel-brand-wristwatch-analog-watches-wrist): Shop the Fashion Casual Geneva Mens Watch, a stylish quartz stainless steel wristwatch perfect for everyday wear. Durable, fashionable, and with a classic design.
-  Updated: 2025-12-23T19:56:37Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -974,7 +974,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619939161658.jpg?v=1766467894
     Price: $24.99 USD
 - [Double Calendar Automatic Mechanical Watch Men's Steel - Sports Style](https://the-new-age-7647.myshopify.com/products/double-calendar-automatic-mechanical-watch-mens-steel): Discover the Double Calendar watch featuring a mechanical movement, steel case, and pointer display. Perfect for adults seeking a stylish sports watch.
-  Updated: 2025-12-23T19:57:42Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -988,7 +988,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1ceffcd7-2d73-4e3f-b29a-8a8d2c548a78_b9df5afc-6384-4d8e-9bb2-00cefb859edb.jpg?v=1766467932
     Price: $59.99 USD
 - [Fashion Mens Watches Top Brand Luxury Silicone Sport Watch Men Quartz](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph): Shop Fashion Mens Watches featuring top brand luxury silicone sport watches, waterproof, with quartz movement, luminous dial, ideal for adults' sporty style.
-  Updated: 2025-12-23T22:02:48Z
+  Updated: 2025-12-27T06:07:46Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -1022,7 +1022,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f346ee3e-5b14-4d59-bf41-b04194637db7.jpg?v=1766467950
     Price: $39.99 USD
 - [Automatic Movement Watch Mens Vacuum Plating Wheels - Stylish & Durable](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels): Discover the best Automatic Movement Watch for men. Features quartz movement, screw crown, stylish vacuum plating wheels. Perfect for everyday wear.
-  Updated: 2025-12-23T22:05:01Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -1124,7 +1124,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/57279499-909d-47f0-ad31-bab6099f7f26_20f2281b-45f2-4cda-8437-729ca016c124.jpg?v=1766467977
     Price: $37.58 USD
 - [Fashion Sports Quartz Watch - Elegant Wooden Timepiece for Active Wear](https://the-new-age-7647.myshopify.com/products/fashion-sports-quartz-wooden-watch): Discover the stylish Fashion Sports Quartz Watch featuring a wooden strap, round dial, and sleek design. Perfect for sports and casual occasions.
-  Updated: 2025-12-23T22:06:50Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -1142,7 +1142,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/efca0393-84bc-4682-8066-a90c0888408b.jpg?v=1766468017
     Price: $49.99 USD
 - [Nylon LED Pet Collar - Bright, Adjustable, Night Safety Dog Leash](https://the-new-age-7647.myshopify.com/products/nylon-led-pet-dog-luminous-collar-night-safety-flashing-glow-in-dark-dog-cat-leash-adjustable-pet-supplies): Shop the innovative Nylon LED Pet Collar, perfect for night walks. Features adjustable fitting, bright LED modes, and waterproof design for pet safety.
-  Updated: 2025-12-25T16:48:15Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1348,7 +1348,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4154077744321.jpg?v=1766468072
     Price: $15.75 USD
 - [Pet Dog Shampoo - Gentle Cleansing & Massaging Silicone Brush](https://the-new-age-7647.myshopify.com/products/pet-dog-shampoo-massager-brush-cat-massage-comb-grooming-scrubber-shower-brush-for-bathing-short-hair-soft-silicone-brushes): Discover our Pet Dog Shampoo with a massaging silicone brush for a soothing bath. Perfect for short-haired pets, offering a thorough clean and skin massage.
-  Updated: 2025-12-23T22:37:44Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1366,7 +1366,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1858785247785914368.jpg?v=1766468115
     Price: $14.99 USD
 - [Dog Leash Retractable - Automatic Pet Traction Rope & Collar for Small Medium Dogs](https://the-new-age-7647.myshopify.com/products/dog-leash-retractable-leash-and-dog-collar-spotlight-automatic-pet-dog-cat-traction-rope-for-small-medium-dogs-pet-product): Shop the best Dog Leash Retractable with automatic telescopic design and lock button. Perfect for small to medium pets, offering comfort and control. Buy now!
-  Updated: 2025-12-23T22:41:00Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1420,14 +1420,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/be9bbc8c-9448-4817-b710-584a065cb32a.jpg?v=1766468142
     Price: $26.99 USD
 - [Gaming Mouse - High-Precision Wired Gaming Mouse with 5000 DPI](https://the-new-age-7647.myshopify.com/products/gaming-mouse): Discover our Gaming Mouse with 5000 DPI resolution, 9 buttons, adjustable resolution, and ergonomic support, perfect for desktop gaming. Buy now!
-  Updated: 2025-12-23T22:50:38Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/11627041745088.jpg?v=1766468219
   Price: $32.99 USD
 - [ErgonomicWired Gaming Keyboard with RGB Backlight and Phone Holder](https://the-new-age-7647.myshopify.com/products/ergonomicwired-gaming-keyboard-with-rgb-backlight-phone-holder): Discover the ErgonomicWired Gaming Keyboard with RGB backlight, phone holder, waterproof design, and plug-and-play compatibility for an enhanced gaming experience.
-  Updated: 2025-12-23T22:51:42Z
+  Updated: 2025-12-27T06:07:47Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -1441,14 +1441,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/55e4e149-9cbe-4479-a7a6-e7538b668314.jpg?v=1766468211
     Price: $67.99 USD
 - [5G Image Transmission ESC Camera With Long Battery Life | High-Quality Drone](https://the-new-age-7647.myshopify.com/products/5g-image-transmission-esc-camera-with-long-battery-life): Experience seamless 5G Image Transmission with our ESC Camera featuring a long battery life, GPS, follow mode, and HD wide-angle lens for top drone performance.
-  Updated: 2025-12-23T17:38:10Z
+  Updated: 2025-12-27T06:07:48Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/19477352069372.jpg?v=1766468267
   Price: $232.47 USD
 - [Aerial drone - High-Performance Quadcopter with 4K Camera & Long Battery Life](https://the-new-age-7647.myshopify.com/products/aerial-drone): Buy the best Aerial drone with optical flow, HD shooting, long battery life, and APP control. Perfect for all ages and offers excellent flight performance.
-  Updated: 2025-12-23T17:39:22Z
+  Updated: 2025-12-27T21:17:20Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -1456,51 +1456,51 @@ The New Age
   - [1080black 1](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411023641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7f7ef0a5-9231-4bda-8a6c-47302af3d9a7.jpg?v=1766468281
-    Price: $117.65 USD
+    Price: $109.99 USD
   - [1080black 2](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411056409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6e6f4ba3-8c18-4eb0-babf-35c6624fe499.jpg?v=1766468281
-    Price: $127.19 USD
+    Price: $114.99 USD
   - [1080black 3](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411089177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/30d20b71-f319-4f1b-b510-72b328a36a33.jpg?v=1766468281
-    Price: $136.76 USD
+    Price: $119.99 USD
   - [1080black white 2Battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411121945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6735674622626.jpg?v=1766468280
-    Price: $185.61 USD
+    Price: $169.99 USD
   - [1080pwhite 1](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411154713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7a22d0b1-0563-455d-9277-1e05ce1d294a.jpg?v=1766468280
-    Price: $117.65 USD
+    Price: $109.99 USD
   - [1080pwhite 2](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411187481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9b910420-97ce-4e86-8bc6-11b9be3c4924.jpg?v=1766468280
-    Price: $127.19 USD
+    Price: $114.99 USD
   - [1080pwhite 3](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411220249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ec82f2ca-79a9-4182-b84d-b5913ab07c55.jpg?v=1766468281
-    Price: $136.76 USD
+    Price: $119.99 USD
   - [1PC battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411253017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2045127905031.jpg?v=1766468281
-    Price: $59.23 USD
+    Price: $59.99 USD
   - [2PC battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411285785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/44835793-a980-47bd-a200-24e82d78216e.jpg?v=1766468280
-    Price: $68.80 USD
+    Price: $72.99 USD
   - [3PC battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411318553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6f3c0e1c-9d94-4337-8c85-2d3f95ff0ed0.jpg?v=1766468281
-    Price: $78.34 USD
+    Price: $84.99 USD
   - [4Kblack](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411351321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9ca3175a-31b7-40d2-a982-4b417803b085.jpg?v=1766468281
-    Price: $119.00 USD
+    Price: $109.99 USD
   - [4Kblack+2battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411384089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1451795588651.jpg?v=1766468281
-    Price: $126.58 USD
+    Price: $119.58 USD
   - [4Kblack+3battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411416857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/25b7bc63-9600-46a5-b117-a7563be41ead.jpg?v=1766468281
@@ -1508,11 +1508,11 @@ The New Age
   - [4Kwhite](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411449625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6805f750-4519-44ae-8a4a-1c071ae394a9.jpg?v=1766468281
-    Price: $119.00 USD
+    Price: $109.99 USD
   - [4Kwhite+2battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411482393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1969507437997.jpg?v=1766468281
-    Price: $191.27 USD
+    Price: $119.99 USD
   - [4Kwhite+3battery](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411515161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b8af442b-18dd-46cf-93e7-b354444781da.jpg?v=1766468281
@@ -1520,23 +1520,23 @@ The New Age
   - [720P Black](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411547929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2dd14ba4-2a98-4770-bfda-a2e6d7b82646.jpg?v=1766468280
-    Price: $93.08 USD
+    Price: $89.99 USD
   - [720P white](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411580697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df59c684-e68c-4259-8e47-00c665bba50f.jpg?v=1766468281
-    Price: $93.08 USD
+    Price: $89.99 USD
   - [720Pwhite 1](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411613465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4b230c62-c674-47cd-bf21-a0e7798b955c.jpg?v=1766468281
-    Price: $102.62 USD
+    Price: $92.99 USD
   - [720Pwhite 2](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411646233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/677c4743-017f-422d-9c00-4c8e752121f6.jpg?v=1766468281
-    Price: $112.20 USD
+    Price: $102.99 USD
   - [720Pwhite 3](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411679001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4f234178-5fd5-4325-8588-256b3251e4d4.jpg?v=1766468281
-    Price: $121.74 USD
+    Price: $109.99 USD
   - [720black 1](https://the-new-age-7647.myshopify.com/products/aerial-drone?variant=51796411711769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bffd4b2d-aa00-4c81-ae69-7509bdb77938.jpg?v=1766468281
@@ -1558,7 +1558,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8b713467-12a2-4bb1-bb50-706e0f7c0856.jpg?v=1766468281
     Price: $104.01 USD
 - [Mini folding drone - Compact High-Performance Quadcopter for Aerial Photography](https://the-new-age-7647.myshopify.com/products/mini-folding-drone): Discover the Mini folding drone, featuring foldable design, high-definition aerial photography, stable flight, and remote control within 165 characters.
-  Updated: 2025-12-23T22:56:11Z
+  Updated: 2025-12-27T06:07:48Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -1584,7 +1584,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1678983684723.jpg?v=1766468300
     Price: $34.47 USD
 - [Pet Water Bottle - Portable 3-in-1 Travel Feeder & Garbage Bag Station](https://the-new-age-7647.myshopify.com/products/pet-water-bottle-feeder-bowl-garbage-bag-storage-portable-pet-outdoor-travel-3-in-1-dog-water-bottle): Discover the Pet Water Bottle designed for easy pet hydration outdoors. Portable and multifunctional, ideal for travel and quick clean-ups.
-  Updated: 2025-12-23T22:43:10Z
+  Updated: 2025-12-27T06:07:48Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1790,7 +1790,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1376002110809.jpg?v=1766468342
     Price: $26.77 USD
 - [Metal Car Charger 100W Super Fast Charging Car Adapter for Cigarette Lighter](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter): Discover the Metal Car Charger with 100W super fast charging, adjustable head, and retractable design for efficient mobile device charging on the go.
-  Updated: 2025-12-23T23:09:59Z
+  Updated: 2025-12-27T06:07:48Z
   Vendor: The New Age
   Product Type: Car
   Availability: Available
@@ -1852,7 +1852,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/98df8b3f-761b-443f-a4b2-7a32d4c5cd48.jpg?v=1766468387
     Price: $28.99 USD
 - [3D LED Moon Night Light - Floating Levitating Rotating Lamp for Home Decor](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration): Explore the 3D LED Moon Night Light, a levitating and rotating lamp perfect for home, office, or gift. Modern design with trichromatic light, available in gold and black.
-  Updated: 2025-12-23T23:12:59Z
+  Updated: 2025-12-27T06:07:48Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -1890,7 +1890,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d70f50cf-9c49-4ed8-8ec5-a0d20fce2405.jpg?v=1766468425
     Price: $69.99 USD
 - [Round LED World Map Floating Globe Magnetic Levitation Light](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic): Discover the Round LED World Map floating globe with magnetic levitation and LED light feature, offering a cool, modern decor for your space. Perfect for gifting or home.
-  Updated: 2025-12-23T23:04:26Z
+  Updated: 2025-12-27T06:07:48Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -1976,7 +1976,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/40ac2596-d5ac-4258-b390-2760d912fede.jpg?v=1766468465
     Price: $52.99 USD
 - [4 In 1 Magnetic Wireless Charger - Fast Charging & RGB Atmosphere Light](https://the-new-age-7647.myshopify.com/products/4-in-1-magnetic-wireless-charger-fast-charging-for-smart-phone-atmosphere-light-charging-station-for-airpods-pro-i-phone-watch): Discover the 4 In 1 Magnetic Wireless Charger with fast charging, RGB lighting effects, and multiple protections for safe, convenient device charging. Perfect for Airpods Pro, iPhone, Watch.
-  Updated: 2025-12-23T23:14:09Z
+  Updated: 2025-12-27T06:07:49Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -1990,7 +1990,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8d075dfb-b75e-4563-81ee-7cc9eda85f3b.jpg?v=1766468502
     Price: $29.99 USD
 - [WiFi CAMERA 1080P Bulb with 4X Zoom, Home 5G WiFi Alarm Monitor](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor): Discover the WiFi CAMERA 1080P with night vision, motion alerts, and easy installation. Perfect for home security with 2.4GHz WiFi compatibility. Buy now!
-  Updated: 2025-12-23T23:17:18Z
+  Updated: 2025-12-27T06:07:49Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -2060,7 +2060,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d7542b36-81c0-4def-a864-000f468dfde7.jpg?v=1766468547
     Price: $234.23 USD
 - [Distance Measuring Instrument - High Precision Digital Ruler with LCD Screen](https://the-new-age-7647.myshopify.com/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool): Discover the benefits of our Distance Measuring Instrument, featuring high definition display, wide measurement range, and long battery life for precise measurements.
-  Updated: 2025-12-23T23:20:59Z
+  Updated: 2025-12-27T06:07:49Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -2082,7 +2082,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/62f06a16-7a7b-468d-bb05-d153d189ab85.jpg?v=1766468592
     Price: $75.99 USD
 - [Portable Projector Small Straight Home Use with 180° Projection & Auto Focus](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector): Discover the Portable Projector with 180-degree projection, auto focus, WiFi, Bluetooth, 4K support, and a large 130-inch screen for home entertainment.
-  Updated: 2025-12-23T23:23:15Z
+  Updated: 2025-12-27T06:07:49Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -2132,7 +2132,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_ed7a7097-748f-431b-bf2c-1a1583665c1b.jpg?v=1766468632
     Price: $89.99 USD
 - [Fitness Rally Elastic Rope - Durable Resistance Bands for Effective Workouts](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band): Discover the Fitness Rally Elastic Rope, made of eco-friendly latex. Perfect for toning legs, arms, and more. Fitness Rally Elastic Rope for all your fitness needs.
-  Updated: 2025-12-23T23:32:43Z
+  Updated: 2025-12-27T06:07:49Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2174,7 +2174,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/436092a9-ccf5-4707-837d-7a730d3129dc.jpg?v=1766468675
     Price: $45.74 USD
 - [Fitness Headband - Comfortable Cotton Sweatband for Workout and Running](https://the-new-age-7647.myshopify.com/products/fitness-headband): Shop the Fitness Headband made of soft cotton, perfect for workouts, running, or casual wear. One size fits all, combining comfort and style for your active days.
-  Updated: 2025-12-24T06:34:04Z
+  Updated: 2025-12-27T06:07:49Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2196,7 +2196,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/179201117030.jpg?v=1766468718
     Price: $7.79 USD
 - [Medical Clavicle Posture Corrector - Lower Back Support Strap for Better Posture](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap): Discover the Medical Clavicle Posture Corrector, designed to improve posture, support your lower back, and provide comfort with breathable materials and durable design.
-  Updated: 2025-12-24T20:49:35Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2242,7 +2242,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1766468758
     Price: $13.99 USD
 - [Men's Grip - Adjustable Hand Grip for Fitness & Strength Training](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger): Men's Grip is a versatile adjustable hand grip ideal for strengthening hands, wrists, and forearms. Perfect for all fitness levels, portable and easy to use.
-  Updated: 2025-12-24T06:30:14Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2296,7 +2296,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1928654625353.jpg?v=1766468797
     Price: $10.99 USD
 - [Water Dumbbell - Multi-Weight Fitness Water Bottle Dumbbell for Home Workout](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise): Discover the versatile Water Dumbbell, a water bottle fitness equipment that functions as a weight training tool, adjustable up to 1kg for effective home exercise.
-  Updated: 2025-12-24T07:06:45Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2310,7 +2310,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1618475813759.webp?v=1766468835
     Price: $11.99 USD
 - [Men Sneakers Breathable Mesh Sports Shoes - Stylish Youth Footwear](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes): Discover Men Sneakers designed for youth, featuring breathable mesh, lightweight comfort, and available in multiple colors. Perfect for sports and casual wear.
-  Updated: 2025-12-24T07:12:38Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -2388,7 +2388,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1766468865
     Price: $25.50 USD
 - [Portable Fitness Rally - Versatile Resistance Bands for Home & Gym](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally): Discover the Portable Fitness Rally with resistance bands for effective body sculpting, muscle strengthening, and fitness at home or on the go. Perfect for all levels!
-  Updated: 2025-12-24T07:03:16Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2418,7 +2418,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3424610165383.jpg?v=1766468901
     Price: $34.99 USD
 - [Muscle Trainer Wheel - Abdominal Roller Kit for Fitness at Home](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment): Discover the Muscle Trainer Wheel for effective abdominal workouts. Perfect for office or home use, enhance your fitness routine with this steel and PU roller kit.
-  Updated: 2025-12-24T07:24:15Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2444,7 +2444,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/174816537236.jpg?v=1766468936
     Price: $20.99 USD
 - [Lumbar Tractor Waist Traction Therapy for Back Pain Relief | Adjustable & Effective](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief): Discover Lumbar Tractor Waist Traction Therapy for effective back pain relief. Adjustable, lightweight design with magnetic points for targeted therapy.
-  Updated: 2025-12-24T07:18:55Z
+  Updated: 2025-12-27T06:07:50Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2622,7 +2622,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1500402074971.jpg?v=1766468991
     Price: $32.74 USD
 - [Double Wheel Abdominal Exerciser - Effective Fitness Equipment for Abs](https://the-new-age-7647.myshopify.com/products/double-wheel-abdominal-exerciser-women-men-automatic-rebound-ab-wheel-roller-waist-trainer-gym-sports-home-exercise-devices): Discover the Double Wheel Abdominal Exerciser for optimal core training. Easy to use, suitable for men and women, perfect for gym and home workouts.
-  Updated: 2025-12-23T18:38:32Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2644,21 +2644,21 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bb04f7be-0c9e-43d1-bb04-6adc8c0301fc.jpg?v=1766469040
     Price: $92.14 USD
 - [Grip Power Wrist - Adjustable Hand Grip for Forearm and Wrist Strength](https://the-new-age-7647.myshopify.com/products/grip-power-wrist-forearm-hand-grip-arm-trainer-adjustable-forearm-hand-wrist-exercises-force-trainer-power-strengthener-grip-fitness): Enhance your Grip Power Wrist with this adjustable hand grip exerciser. Perfect for forearm, wrist strength, and fitness training, lightweight and easy to use.
-  Updated: 2025-12-24T07:34:30Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d7cefc96-ac0b-4b98-b2a4-e09996f59aea.jpg?v=1766469067
   Price: $17.99 USD
 - [Electric Bike For Adults - 1000W Fat Tire Mountain Bicycle, 26x4.0](https://the-new-age-7647.myshopify.com/products/professional-electric-bike-for-adults-26-x-4-0-inches-fat-tire-electric-mountain-bicycle-1000w-motor-48v-15ah-ebike-for-trail-riding-excursion-and-commute-ul-and-gcc-certified): Shop the Electric Bike For Adults featuring a powerful 1000W motor, fat tires, large capacity lithium battery, and multiple riding modes. Perfect for trail riding, commuting, and off-road adventures.
-  Updated: 2025-12-24T07:22:17Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Outdoors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6c3cf535-45c5-46dc-b6d4-5ea322a4021d.jpg?v=1766469124
   Price: $949.99 USD
 - [Resistance Bands Sealing - Fitness Elastic Bands for Bodybuilding & Yoga](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga): Shop Resistance Bands Sealing, perfect for fitness, yoga, pilates, and body shaping. Durable, non-slip, and comes with colorful tension belts for effective workouts.
-  Updated: 2025-12-24T07:25:56Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2684,7 +2684,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dfc3a13-499c-45da-87fe-e1123749943d.jpg?v=1766469139
     Price: $12.99 USD
 - [Spine Bending Posture Corrector | Improve Your Back Posture](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector): Discover the Spine Bending Posture Corrector to improve posture, reduce back pain, and support spinal health. Ideal for scoliosis and slouching issues.
-  Updated: 2025-12-26T12:49:12Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2718,7 +2718,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1766469173
     Price: $17.99 USD
 - [EMS Abs & Muscle Trainer - Portable Muscle Toning Device with 6 Modes](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer): Discover the EMS Abs & Muscle Trainer for effective muscle training anytime, anywhere. Easy to use, portable, with 6 modes for targeted workout. Buy now!
-  Updated: 2025-12-26T06:46:52Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2852,7 +2852,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1140081655068.jpg?v=1766469232
     Price: $10.99 USD
 - [USB Rechargeable Electric Knife Sharpener - Fast & Adjustable Kitchen Tool](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets): Shop the USB Rechargeable Electric Knife Sharpener for quick, adjustable sharpening of knives, scissors, and grinders. Perfect for modern kitchens. Buy now!
-  Updated: 2025-12-24T07:05:36Z
+  Updated: 2025-12-27T06:07:51Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -2870,7 +2870,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5356907-dc5b-408b-a93c-118920982408.jpg?v=1766469281
     Price: $19.99 USD
 - [Winter Gloves Touch Screen - Waterproof Motorcycle Sports Gloves with Fleece](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Discover the best Winter Gloves Touch Screen featuring waterproof, touchscreen-compatible design. Perfect for riding, sports, and outdoor activities in cold weather.
-  Updated: 2025-12-26T21:49:48Z
+  Updated: 2025-12-27T06:07:52Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -3076,7 +3076,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9ecffd3-7ab4-4314-b3fd-d87be61f0644.jpg?v=1766469314
     Price: $29.99 USD
 - [Wireless Dancing Water Speaker - LED Light Fountain for Home & Parties](https://the-new-age-7647.myshopify.com/products/wireless-dancing-water-speaker-led-light-fountain-speaker-home-party): Experience vibrant sound and stunning water display with the Wireless Dancing Water Speaker. Perfect for home or party use with 3D audio and LED lighting features.
-  Updated: 2025-12-24T00:37:52Z
+  Updated: 2025-12-27T06:07:52Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -3090,7 +3090,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2076107127183.jpg?v=1766469346
     Price: $39.99 USD
 - [Wireless Bluetooth-compatible Headset - TWS with Digital Display & Breathing Light](https://the-new-age-7647.myshopify.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light): Discover the Wireless Bluetooth-compatible Headset with upgraded LED display, stable chip, fast charging, noise-cancelling mic, and long-lasting battery life.
-  Updated: 2025-12-23T23:19:31Z
+  Updated: 2025-12-27T06:07:52Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -3112,7 +3112,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1766469371
     Price: $6.36 USD
 - [E58 Folding Aerial Drone - Compact, Lightweight, 6-Channel Control & 1080P Camera](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone): Discover the E58 Folding Aerial Drone, suitable for all ages, with 6 channels, up to 120 meters flight height, and optional 1080P camera batteries. Shop now!
-  Updated: 2025-12-23T20:53:09Z
+  Updated: 2025-12-27T06:07:52Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3178,7 +3178,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/550160018561.jpg?v=1766476927
     Price: $8.52 USD
 - [Portable Mini Printer - Compact Bluetooth & WiFi Photo Printer for Phones](https://the-new-age-7647.myshopify.com/products/mini-printer-portable-mini-bluetooth-wifi-new-wrong-printer-mobile-phone-photo-title-note-hot-print-pocket-student-error-label-printer): Discover the Portable Mini Printer designed for quick, high-resolution prints from your phone via Bluetooth or WiFi. Perfect for notes, photos, and labels.
-  Updated: 2025-12-23T20:08:57Z
+  Updated: 2025-12-27T06:07:52Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -3240,7 +3240,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/643027a3-a8f9-4c3b-be93-6dc1150f5838.jpg?v=1766476982
     Price: $32.99 USD
 - [GTX300 Gaming CF Gaming Keyboard and Mouse Set with Backlight & Ergonomic Design](https://the-new-age-7647.myshopify.com/products/gtx300-gaming-cf-lol-gaming-keyboard-mouse-glowing-set): Discover the GTX300 Gaming CF gaming keyboard and mouse set featuring vibrant backlight, ergonomic curves, 1600 dpi resolution, USB wired connection, ideal for gaming and work.
-  Updated: 2025-12-24T10:53:28Z
+  Updated: 2025-12-27T16:24:16Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -3254,7 +3254,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2154876221516.jpg?v=1766530407
     Price: $32.99 USD
 - [Silicone Grip Device Finger Exercise Stretcher for Hand Rehabilitation](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain): Buy the Silicone Grip Device for finger exercise and rehabilitation. Effective hand grip trainer to relieve pain, suitable for all ages, durable and soft-touch.
-  Updated: 2025-12-24T19:39:31Z
+  Updated: 2025-12-27T16:43:22Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -3276,7 +3276,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4fce808f-8792-4aff-9a6c-01517be79768.jpg?v=1766561766
     Price: $14.99 USD
 - [Large Engineering Vehicle Dinosaur Children's Toy Car Set - Fun & Educational](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set): Discover the Large Engineering Vehicle dinosaur toy set, perfect for kids. Includes transport and storage vehicles, made of durable plastic. Get yours now!
-  Updated: 2025-12-25T18:15:34Z
+  Updated: 2025-12-27T16:42:47Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3290,14 +3290,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6eaf41ef-70b4-4547-938a-db36ecc6c954_trans.jpg?v=1766643333
     Price: $26.99 USD
 - [Robotime ROKR Marble Night City 3D Wooden Puzzle for Kids - Assembly Toy](https://the-new-age-7647.myshopify.com/products/robotime-rokr-marble-night-city-3d-wooden-puzzle-games-assembly-waterwheel-model-toys-for-children-kids-birthday-gift): Buy Robotime ROKR Marble Night City 3D Wooden Puzzle, a fun and educational assembly toy for children aged 8+. Perfect for birthday gifts and creative play.
-  Updated: 2025-12-25T18:16:22Z
+  Updated: 2025-12-27T16:42:11Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1950730733639438336.jpg?v=1766643423
   Price: $49.99 USD
 - [Resistance to shock Remote Control Car for High-Speed Competitions](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car): Experience the thrill with our Resistance to shock remote control car, designed for high-speed racing and durability. Perfect for competitive RC enthusiasts.
-  Updated: 2025-12-25T18:17:09Z
+  Updated: 2025-12-27T16:41:38Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3311,7 +3311,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3290973935597.jpg?v=1766643427
     Price: $26.99 USD
 - [Glider Fighter Model - Remote Control Fixed Wing Children's Toy, Outdoor](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys): Explore the Glider Fighter Model, a remote control fixed wing children's toy made of EVA with flashing function, battery-powered, perfect for outdoor fun.
-  Updated: 2025-12-25T18:18:26Z
+  Updated: 2025-12-27T16:40:31Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3341,7 +3341,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8a7eb1ae-90ea-45ba-aed4-83d266299ea2.jpg?v=1766643504
     Price: $33.99 USD
 - [Non-slip shopping shoes sneakers for women - Comfortable & Stable Design](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers): Shop the best non-slip shopping shoes sneakers for women, perfect for lifestyle activities, with breathable mesh, low insole, and enhanced stability for spring 2019.
-  Updated: 2025-12-25T18:22:35Z
+  Updated: 2025-12-27T16:38:37Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -3479,7 +3479,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1766643748
     Price: $17.99 USD
 - [LED Wall Hanging Neon Modeling Lights - Unique Alien Design for Interior Decor](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights): Discover the LED Wall Hanging neon modeling lights featuring alien designs. Perfect for interior decoration, energy-efficient, with multiple color options.
-  Updated: 2025-12-25T18:24:39Z
+  Updated: 2025-12-27T16:37:33Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -3505,7 +3505,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256144.jpg?v=1766643873
     Price: $16.99 USD
 - [3D Lamp Acrylic USB LED Night Light with Remote Control - Unique Xmas Decor](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts): Shop the versatile 3D Lamp Acrylic USB LED night light with remote control, perfect Xmas Christmas decorations for home, bedroom, birthday, and Valentine's Day gifts.
-  Updated: 2025-12-25T18:26:34Z
+  Updated: 2025-12-27T16:36:55Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -3559,7 +3559,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6e6bb3db-1fd6-4a8a-8a64-3ef1adf881c2.jpg?v=1766643974
     Price: $13.99 USD
 - [Modern Desk Lights USB Eye Protection LED Table Lamp for Cozy Spaces](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office): Discover the modern desk lights designed for eye protection with USB charging, adjustable brightness, and charming plant-shaped design. Perfect for living rooms and bedrooms.
-  Updated: 2025-12-25T18:26:58Z
+  Updated: 2025-12-27T16:35:37Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -3573,14 +3573,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1226973997194.jpg?v=1766644013
     Price: $19.99 USD
 - [Desktop Charging Magnetic Data Cable Organizer - Creative Gift Storage](https://the-new-age-7647.myshopify.com/products/desktop-charging-magnetic-data-cable-organizer-soft-plastic-creative-gift-storage-fixed-cable-organizer): Use the desktop charging magnetic data cable organizer for a neat desktop. Perfect for fixing cables and as a creative gift. Shop now for organization!
-  Updated: 2025-12-25T18:28:39Z
+  Updated: 2025-12-27T06:07:54Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619517081159.jpg?v=1766644124
   Price: $6.50 USD
 - [Super Fast Charging USB Data Cable for Mobile Phones - 1m & 3m Options](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable): Get the best Super Fast Charging USB data cable with 5A current, available in 1m and 3m lengths. Perfect for charging and data transmission, compatible with type-c devices.
-  Updated: 2025-12-25T18:28:34Z
+  Updated: 2025-12-27T16:34:08Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -3598,7 +3598,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1766644107
     Price: $7.25 USD
 - [Wireless Charger For iPhone Fast Charging Dock Station - 6 in 1 Wireless Charging Pad](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station): Discover the Wireless Charger for iPhone, a fast charging dock station with 6-in-1 functionality, perfect for phones, watches, and more. Fast and reliable charging solution.
-  Updated: 2025-12-25T18:30:40Z
+  Updated: 2025-12-27T16:33:03Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -3628,7 +3628,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9925af23-6ddd-4226-8ae4-e0746f5acb58.jpg?v=1766644223
     Price: $21.99 USD
 - [Trihedron Pet Toys Durable Food Dispensing Toys for Dogs](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys): Explore Trihedron Pet Toys, durable food dispensing toys that keep your dog mentally stimulated and entertained. Perfect for training and reducing boredom.
-  Updated: 2025-12-25T18:31:49Z
+  Updated: 2025-12-27T16:29:23Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -3650,7 +3650,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/46721848100.jpg?v=1766644260
     Price: $10.99 USD
 - [Chew Toys For Dog Teeth Cleaning - Durable, Safe & Effective Dental Play](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning): Discover the best chew toys for dog teeth cleaning featuring safe TPR material, effective plaque reduction, and fun design to keep your pet healthy and happy.
-  Updated: 2025-12-25T18:34:29Z
+  Updated: 2025-12-27T16:26:46Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -3668,7 +3668,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ef428d1-9947-4330-804d-15adfb2706bf.jpg?v=1766644300
     Price: $6.99 USD
 - [Dog Tumbler Toys - Interactive Pet Toy to Boost IQ & Slow Feeder](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products): Discover Dog Tumbler Toys, an engaging and durable pet toy to increase IQ, promote healthy feeding, and provide fun for small and medium dogs and cats.
-  Updated: 2025-12-25T18:32:53Z
+  Updated: 2025-12-27T16:26:12Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -3682,7 +3682,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9e9e44fc-d60f-4748-b8f5-d06e7dbcd8d1_dec63f59-1b1e-4003-b6a3-5dd459c42a49.jpg?v=1766644334
     Price: $14.99 USD
 - [Magic Organ Cat Scratch - Fun & Durable Cat Scratch Board for Cats](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy): Discover the Magic Organ Cat Scratch, a fun and durable cat scratch board made from paper in various cute designs. Perfect for keeping your cat entertained!
-  Updated: 2025-12-25T18:33:04Z
+  Updated: 2025-12-27T16:24:51Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -3704,28 +3704,28 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd0161a3-c37a-4f4c-b430-fe80f50c2ba2.jpg?v=1766644373
     Price: $15.99 USD
 - [Rainbow Cat Tunnel - Colorful Cat Climbing Frame & Litter | Shop Now](https://the-new-age-7647.myshopify.com/products/rainbow-cat-tunnel-color-cat-climbing-frame-cat-litter): Discover the Rainbow Cat Tunnel, a vibrant and fun cat climbing frame with litter. Perfect for giving your cat a playful space. Buy the Rainbow Cat Tunnel today!
-  Updated: 2025-12-25T18:33:22Z
+  Updated: 2025-12-27T06:07:55Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1613785335751.jpg?v=1766644400
   Price: $10.99 USD
 - [Windowsill Pets Toy Cat Track Ball - Engaging Pet Product in Grey](https://the-new-age-7647.myshopify.com/products/windowsill-pets-toy-cat-track-ball-pet-products): Shop the Windowsill Pets Toy Cat Track Ball, a fun and entertaining pet product made of plastic in grey, perfect for your cat's play and exercise needs.
-  Updated: 2025-12-25T18:38:04Z
+  Updated: 2025-12-27T06:07:55Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5adb3f02-32cb-40e2-8336-d33a6025e808.jpg?v=1766644431
   Price: $12.99 USD
 - [Machine Washable Three-in-one Multifunctional Cat And Dog Travel Car Mat](https://the-new-age-7647.myshopify.com/products/machine-washable-three-in-one-multifunctional-cat-and-dog-travel-car-mat): Product information : Material: Cloth Product Category: Seat Cushion Colour: Black Specification: 137*149 Packing list : Cushion×1
-  Updated: 2025-12-25T18:34:20Z
+  Updated: 2025-12-27T06:07:55Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff5a3ec8-c687-427f-ae57-0eeec3d4bc53.jpg?v=1766644455
   Price: $52.99 USD
 - [New Fashion Personalized Women's Quartz Watch](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch): Product information: Special function: decoration Display type: pointer Applicable people: general Waterproof: no Movement type: quartz Thickness: 8mm Dial diameter: 38mm Crown type: screw crown Base type: ordinary Mirror material: ordinary glass mirror Buckle style: pin buckle Buckle material: titanium Strap material: imitation leather Dial shape: round Case material: alloy Packing specifications: opp bag Color: white, red, black, cyan, pink, beige Packing list: Women's watch X1pcs Product Image:
-  Updated: 2025-12-25T18:35:27Z
+  Updated: 2025-12-27T06:07:56Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3755,7 +3755,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6dde8249-58f4-4e85-bf35-d5de67d083fb.jpg?v=1766644494
     Price: $12.99 USD
 - [Watch Retro Minority Watch Fashion Waterproof Quartz Watch High Sense Small Square Watch](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch): Product information: Color: 11K0214L01SK,11K0214L02SK,11K0214L03SK,11K0214L04SK Thickness: 7.5mm Applicable people: Female Style: Fashion Packing list: Watch x 1pc Product Image:
-  Updated: 2025-12-25T18:35:32Z
+  Updated: 2025-12-27T06:07:56Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3777,7 +3777,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b6612295-239c-4a4e-82aa-fbdb72699fe5_fine.jpg?v=1766644528
     Price: $14.99 USD
 - [Fashion Business Versatile Diamond-studded Starry Sky Quartz Watch Bracelet For Women](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women): Product information: Color: gold, rose gold, silver Thickness: 8 mm Packaging specifications: 1*500 Applicable people: women Thickness: 8mm Dial diameter: 27mm Crown type: flat top conical crown Case back type: ordinary mirror material Ordinary glass mirror: buckle style Pin buckle buckle material: rose gold Dial shape: round Strap material: alloy Case material: alloy Display type: pointer Packing list: Women's watch X1pcs Product Image:
-  Updated: 2025-12-25T18:36:03Z
+  Updated: 2025-12-27T06:07:56Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3795,7 +3795,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bce45eae-a879-4c60-bc4b-6ca7045e91f9.jpg?v=1766644558
     Price: $11.57 USD
 - [Fashion Simple Casual Student Watch](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch): Product information: Color: military green, khaki, red, yellow, black white case, black black case, white black, army camouflage, gray camouflage, black case green ring, black case red ring, black case blue ring, black case gold ring Battery capacity: button battery Case material: ABS Mirror material: resin Packing list: Watch *1 Product Image:
-  Updated: 2025-12-25T18:40:08Z
+  Updated: 2025-12-27T06:07:56Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3853,7 +3853,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/494865f7-c44e-42bd-a9ba-ae27e7a34570.jpg?v=1766644594
     Price: $12.99 USD
 - [Smart Bluetooth Calling Women's Sports Watch](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch): Product information: Colors: Black (foreign language), Pink (foreign language), Gold Steel Edition (comes with dual straps + silicone strap), Black Steel Edition (comes with dual straps + silicone strap) Operation Modes: Touchscreen + Buttons Screen Type: IPS Battery Life: Less than 7 days Features: Photo capture, step counting, heart rate monitoring, blood pressure measurement, social entertainment, Bluetooth calls, smart notifications, remote selfie control, sleep monitoring, blood oxygen detection Chip: JL7012 (single-chip dual-mode, supports single connection for both iOS and Android) Additional Features: Three UI menu styles, offline Alipay, breathing training, watch face push, stopwatch, brightness adjustment, Multiple sports modes, sleep tracking, heart rate, blood pressure, blood oxygen, messages, remote music control, remote photo capture, weather, Find phone (requires connection to a smartphone), calculator, split-screen display, quick-access widgets, weather forecast, workout trajectory, etc. APP Name: CO FIT Chip: JL7012 Supported Systems: Android 4.4 and above; iOS: Apple iOS 10.0 and above Heart Rate Sensor: VC30F (with live body detection) Bluetooth: Bluetooth 5.0 Water Resistance: IP67 Product Craftsmanship: Zinc alloy construction Net Weight: 21g Screen Size: 1.47-inch IPS full-view color screen (curved surface) Resolution: 172*320 Strap Length: 260mm Battery Capacity: 502020 pure cobalt cell + Seiko protection board, polymer 180mAh Battery Life: 7-10 days under normal connected use, 15-20 days in standby mode (actual usage time depends on individual usage habits) Charging Method: Battery Voltage: 3.7V, magnetic charging Charging Time: Approximately 2 hours Packing list: Watch*1+charging cable*1+machine*1+manual*1 Product Image:
-  Updated: 2025-12-25T18:37:03Z
+  Updated: 2025-12-27T06:07:56Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3867,7 +3867,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8e4aa268-e697-416e-b8f2-dfcaabdd863e.jpg?v=1766644619
     Price: $22.99 USD
 - [Valentine's Day Love Letter Hoodie Red](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red): Product information: Age appropriate：Infants and young children (1-3 years old, 80~100cm) Stitch spacing 12~14 stitches /3cm：is Main fabric component：Polyester fibre Main fabric composition content：65 (%) Safety level：Class B Color:red Suitable height:80cm,90cm,100cm,110cm,120cm Packing list: 1*Children's hoodie Product Image:
-  Updated: 2025-12-26T10:30:26Z
+  Updated: 2025-12-27T16:23:00Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3893,7 +3893,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
     Price: $13.01 USD
 - [Summer Girls Cute Cartoon Short Sleeve T Shirt](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt): @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Product information: Applicable gender: Female Whether hooded: Not hooded Sleeve length: Short sleeve Fabric technology: Soft treatment Pattern: Cartoon Fabric name: Knitted Main fabric composition: Cotton Main fabric ingredient content: 95 (%) Collar type: Round neck Function: Moisture wicking @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Size Information: Size: 2T 3T 4T 5T 6T 7T
-  Updated: 2025-12-26T12:23:43Z
+  Updated: 2025-12-27T06:07:57Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3947,7 +3947,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/597390917676.jpg?v=1766702027
     Price: $10.49 USD
 - [Kids Rugby Letters Print Pullover Long Sleeve Sweatshirt](https://the-new-age-7647.myshopify.com/products/kids-rugby-letters-print-pullover-long-sleeve-sweatshirt): Product information: Material: Cotton Style: fashion and simplicity Features:Printing Colour: Dad's, Mom's Size Information: Size/CM Length Bust/2 90 36 30 100 38.5 31.5 110 41 33 120 43.5 34.5 130 46 36 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt*1 Product Image:
-  Updated: 2025-12-26T10:35:33Z
+  Updated: 2025-12-27T16:21:55Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3993,7 +3993,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1766702134
     Price: $15.50 USD
 - [cotton children t-shirt short sleeve](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve): Applicable gender: neutral/male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable age: infants and children (1~3 years old, 80~100cm) For the season: Summer Fabric technology: soft treatment Pattern: Cartoon Flat car stitch distance 12~14 stitches/3cm Whether the hair/remnant thread ends are trimmed: The obvious parts have been trimmed Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Safety level: Class A Collar type: round neck Size(cm) Length bust Shoulder width height 73 33 50 22 66-73 80 36 52 24 73-80 90 39 56 26 80-90 100 42 60 28 90-100 110 45 64 30 100-110 120 46 66 30 110-120 130 48 68 30 120-130 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3 cmdifferences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T10:36:22Z
+  Updated: 2025-12-27T16:21:09Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4199,7 +4199,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1766702182
     Price: $7.60 USD
 - [Children's Spring Clothes Girls' Long Sleeve T-Shirt Baby Clothes](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes): Product information: Fabric Name: Cotton Main fabric composition: Cotton Main fabric content: 95% Size information: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T10:37:05Z
+  Updated: 2025-12-27T16:20:31Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4229,7 +4229,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1611902195084_1d2dce18-6310-4d59-82a3-880a68a35a32.jpg?v=1766702224
     Price: $9.99 USD
 - [Girls' Short Sleeved T shirt Children's Clothing](https://the-new-age-7647.myshopify.com/products/girls-short-sleeved-t-shirt-childrens-clothing): Specification: Fabric name: Cotton Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Size chart: SIZE LENGTH BUST 90 37 55 100 40 59 110 43 63 120 46 67 130 50 70 140 54 74 UNIT:CM 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images.
-  Updated: 2025-12-26T10:38:17Z
+  Updated: 2025-12-27T16:20:03Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4259,7 +4259,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1766702294
     Price: $8.49 USD
 - [Baby Bottoming Shirt Cartoon Autumn](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn): Product information: Color: ZMY249A,ZMY249B,ZMY249C Suitable height: 70, 80, 90, 100, 110 Main fabric composition: Cotton Function: keep warm Hooded or not: no Hooded Sleeve length: long sleeve Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top * 1 Product Image:
-  Updated: 2025-12-26T10:40:23Z
+  Updated: 2025-12-27T16:19:23Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4325,7 +4325,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ddf8f77-ea0a-41cc-8443-5a619ac0aebd.jpg?v=1766702425
     Price: $10.99 USD
 - [Girls' Cotton Short-sleeved T-shirt](https://the-new-age-7647.myshopify.com/products/girls-cotton-short-sleeved-t-shirt): Product information: Sleeve length: Short sleeves Fabric process: grinding wool Pattern: Cartoon Whether to trim lint or not: All should be trimmed clean Name of fabric: cotton Main fabric composition: cotton Main fabric component content: 100 (%) Safety level: Class A Collar: Round collar Function: moisture absorption and sweat elimination Size information : Size: 90 cm, 100 cm, 110 cm, 120 cm, 130 cm, 140 cm Precautions: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1X T-shirt
-  Updated: 2025-12-26T10:41:08Z
+  Updated: 2025-12-27T16:18:38Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4451,7 +4451,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1766702459
     Price: $9.03 USD
 - [Children's printed T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt): Source category: Spot Applicable gender: Neutral / men and women style: Casual sleeve length: short sleeve Suitable for ages: infants and young children (1 ~ 3 years old, 80 ~ 100cm) For the season: Summer Flat stitch pitch 12 ~ 14 stitches / 3cm: Yes Fabric name: knitted Main fabric composition: polyester fiber (polyester) Main fabric composition content: 80 (%) Colors: White, Black Suitable for height: S, M, L, XL, 2XL size age bust length S 0-12M 28 37 M 2-4Y 34 45 L 6-8Y 39 52 XL 10-12Y 43 58 2XL 14-16Y 45 63
-  Updated: 2025-12-26T10:42:51Z
+  Updated: 2025-12-27T16:18:10Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4497,7 +4497,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1766702573
     Price: $9.99 USD
 - [Children's Clothing Cartoon Knitted Heat Press Round Neck T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt): Product information: Style: Europe and America Sleeve length: short sleeve Fabric name: Knitted Main fabric composition: cotton Collar type: round neck Function : Moisture wicking Color : TTTG7 Size Information: Size: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm, 150cm, 160cm Size（Unit：cm） Length Bust 90 40 31 100 43 33 110 46 34 120 49 36 130 52 38 140 56 40 150 59 43 160 62 46 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: T-shirt*1 Product Image:
-  Updated: 2025-12-26T10:45:45Z
+  Updated: 2025-12-27T16:17:47Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4587,7 +4587,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1766702742
     Price: $14.49 USD
 - [Cartoon Irregular Top Short-sleeved Half-sleeve Big Kids' Trendy Clothes](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes): Product information: Applicable gender: female Style: Korean Suit type: pants suit Number of sets: two sets Gift box content: clothing Suitable age group: middle and large children (over 8 years old, over 140cm) Suitable season: summer, winter, spring, autumn sleeve length: short sleeve Pants length: five-point pants/pants Fabric technology: sanding, soft treatment, enzyme washing Thickness: General Patterns: solid colors, cartoons, letters, abstract Fabric name: Cotton Main fabric composition: cotton Main fabric ingredient content: 95 (%) Closed style: pullover Color: YW2030 black, 2109# gray gray Size Information: Suitable height: 120cm, 130cm, 140cm, 150cm, 160cm, 165cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve*1
-  Updated: 2025-12-26T10:47:23Z
+  Updated: 2025-12-27T16:17:05Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4641,7 +4641,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1624007052389.jpg?v=1766702842
     Price: $10.79 USD
 - [Love long-sleeved T-shirt children's bottoming shirt](https://the-new-age-7647.myshopify.com/products/love-long-sleeved-t-shirt-childrens-bottoming-shirt): Main fabric composition: cotton size length bust*2 sleeve 90CM 38 24 34 - 100CM 40 25 35 - 110CM 43 27 36 - 120CM 45 28 37 - 130CM 48 60 38 - 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. 1
-  Updated: 2025-12-26T11:24:02Z
+  Updated: 2025-12-27T16:16:26Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4747,7 +4747,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1766705043
     Price: $8.99 USD
 - [Baby Autumn Clothes Clothes  Girl Baby Sweater Girls Children's](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens): Product information: Supply category: spot Applicable gender: female Style: Korean Suitable age: Infants and children (1~3 years old, 80~100cm) Suitable for the season: autumn Fabric technology: soft treatment Pattern: Cartoon Thickness: General Size Information: Suitable height: 70cm, 80cm, 90cm, 100cm Size Length Bust Sleeve Shoulder 70 33 54 26 23 80 56 28 24 90 37 58 30 25 100 39 60 32 26 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1
-  Updated: 2025-12-26T11:25:51Z
+  Updated: 2025-12-27T16:16:02Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4785,7 +4785,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1766705150
     Price: $12.49 USD
 - [Crown King Family Wear Summer New Short-Sleeved T-Shirt Family Wear](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear): Product information: Applicable gender: general Parent-child wear category: T-shirt Applicable people: family wear For the season: Summer Main fabric composition: cotton Main fabric ingredient content: 100 (%) Size Information: Size: 80cm,90cm,100cm,110cm,120cm,130cm,140cm,150cm,66,73,80 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Children's short sleeve *1 Product Image: Full image:
-  Updated: 2025-12-26T11:26:23Z
+  Updated: 2025-12-27T16:15:22Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -4991,7 +4991,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1766705179
     Price: $12.17 USD
 - [Children's Short-sleeved T-shirt With Earplugs Pattern](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern): Product information: Sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment Pattern: Cartoon Main fabric composition: cotton Main fabric ingredient content: 90 (%) Collar type: round neck Function: Moisture wicking Color: white, yellow, gray Size Information: Suitable height: 90cm,100cm,110cm,120cm,130cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleevex1 Product Image: Full image:
-  Updated: 2025-12-26T11:28:18Z
+  Updated: 2025-12-27T16:14:23Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5057,7 +5057,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1766705292
     Price: $8.79 USD
 - [Children's short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt): Applicable gender: neutral/male and female Style: Korean sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment pattern: plain Elements: cartoon, cute, printing AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:30:18Z
+  Updated: 2025-12-27T16:13:26Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5087,7 +5087,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1766705418
     Price: $8.69 USD
 - [Boys Long Sleeve T-shirt Children's Clothing Baby Tops](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops): Product information: Style: Korean Sleeve length:Long sleeve Fabric technology: Soft treatment Pattern: Cartoon Whether the hair/excess thread ends are trimmed: All trimmed clean Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Collar type: Round neck Color: 3557 black Size Information: Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Precaution： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:31:21Z
+  Updated: 2025-12-27T16:12:49Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5117,7 +5117,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/835659153518_0fbbab21-600e-467b-a4db-6cfb8da6be34.jpg?v=1766705479
     Price: $9.49 USD
 - [Short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/short-sleeve-t-shirt): Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Security level: Class A Collar type: round neck Function: moisture wicking 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:35:02Z
+  Updated: 2025-12-27T16:12:20Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5199,7 +5199,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1412170406624.jpg?v=1766705693
     Price: $8.09 USD
 - [Summer Children's Short Sleeve T Shirt For Boys](https://the-new-age-7647.myshopify.com/products/summer-childrens-short-sleeve-t-shirt-for-boys): Product information: Fabric technology: soft treatment Pattern: Cartoon Fabric Name: Cotton Main fabric composition: cotton Suitable for age Middle and small children (3~8 years old, 100~140cm) Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve X1 Product Image:
-  Updated: 2025-12-26T11:35:42Z
+  Updated: 2025-12-27T16:11:40Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5277,7 +5277,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
     Price: $8.99 USD
 - [Dinosaurs in Big Kids Costume](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume): Whether to hooded: not hooded Sleeve length: long sleeve Fabric technology: soft treatment size Length bust Shoulder width Sleeve Length 110 46 63 27 38 120 49 69 28 41 130 52 72 30 44 140 54 74 32 46 150 56 77 34 48 160 58 80 35 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:36:11Z
+  Updated: 2025-12-27T06:07:59Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5379,7 +5379,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
     Price: $13.39 USD
 - [Child short sleeve t-shirt boy half sleeve](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve): Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: Animal Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9063A waterfall green, 9063B khaki, 9063C flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140 Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
-  Updated: 2025-12-26T12:09:12Z
+  Updated: 2025-12-27T06:08:00Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5457,7 +5457,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
     Price: $8.49 USD
 - [Children''s Wear Summer New Boys T-shirt, Short Sleeve Korean Children''s Clothing, Baby Clothing, A Ready-to-be Factory Direct Selling](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling): Applicable gender: neutral / male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: cartoon Element: Cartoon, Chao Fan Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9121 flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
-  Updated: 2025-12-26T12:20:51Z
+  Updated: 2025-12-27T06:08:00Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5487,7 +5487,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1766705867
     Price: $8.79 USD
 - [Printed t-shirt](https://the-new-age-7647.myshopify.com/products/printed-t-shirt): Material: Cotton 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:41:36Z
+  Updated: 2025-12-27T16:09:43Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5541,7 +5541,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1766706090
     Price: $11.29 USD
 - [Dinosaur Kids T-shirt](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt): sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) For the season: Summer Fabric technology: soft treatment Pattern: cartoon, animal, solid color Elements: cartoon, cute, sports AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:43:21Z
+  Updated: 2025-12-27T06:08:00Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5595,7 +5595,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1766706198
     Price: $10.54 USD
 - [Children's T-shirt Numbers 1-9 Birthday T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt): style: Casual sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Pattern: Cartoon Fabric: Polyester fiber (polyester) size Bust*2 Length S 30 38 M 32 41 L 34 44 XL 36 47 2XL 38 49 3XL 40 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-26T11:43:52Z
+  Updated: 2025-12-27T06:08:00Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5801,14 +5801,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2753375207714.jpg?v=1766706230
     Price: $11.38 USD
 - [Chopping block](https://the-new-age-7647.myshopify.com/products/chopping-block): Product Name: Chopping block Material: Bamboo
-  Updated: 2025-12-26T21:31:45Z
+  Updated: 2025-12-27T09:28:32Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1541860866631.jpg?v=1766784509
   Price: $13.99 USD
 - [Stainless Steel Kitchen Utensils Multifunctional Peeling Blade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade): Overview: Vegetable peeler features dual ultra sharp surgical stainless steel swivel double-edge blade Dual Stainless Steel blades stay ultra sharp and swivel for smooth, effortless peeling The handle is comfortable, even during repetitive strokes Built-in potato eye remover and orange peeler Dishwasher Safe Whatever the task, the peeler should handle bumps and curves with ease and without clogging or losing its edge. If that is what you ask from peelers then this amazing Peelers is made for you! Specification: Material:ABS+stainless steel Color: black,blue,red Size: Blue: 50 mm Black:58mm Red:50mm Package Content: 1x Black Peeler 1x Blue Peeler 1x Red Peeler
-  Updated: 2025-12-26T21:49:50Z
+  Updated: 2025-12-27T09:29:44Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5878,7 +5878,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374_25a962e3-ff3d-48a5-8d41-82e1628b0b35.jpg?v=1766784592
     Price: $7.32 USD
 - [Potato Chopper](https://the-new-age-7647.myshopify.com/products/potato-chopper): specification: brand new and high quality! Material: ABS + stainless steel color random Size: about 17 * 10 * 2cm / 6.63 * 3.9 * 0.78 inches occasion: kitchen Package Included: 1 x potato cutter Note: 1. Please allow 1-2mm error by tomanualmeasurement. Pls make sure they do not mind before they bid. 2. The color may show different as difference, pls understand.
-  Updated: 2025-12-26T21:49:47Z
+  Updated: 2025-12-27T09:30:42Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5900,7 +5900,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f1a5dc7a-dc81-4ab5-9560-5fe7db5415d2.jpg?v=1766784643
     Price: $6.99 USD
 - [Fruit & Veggie Cutting Holder](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder): Feature Made from high duty plastic material Creative design / Eco-friendly / non-toxic Quick & easy to use and clean. Specification 100% brand new and high quality Size:( 18.5*8)cm/(7.28*3.15)inch Material: Plastic Color: random delivery How to use Place a tomato into the slicer, simply cut between the gap.
-  Updated: 2025-12-26T21:49:47Z
+  Updated: 2025-12-27T09:31:24Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5914,7 +5914,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1579288289096_1466da15-2092-40e1-ace5-4c84d2e30a63.jpg?v=1766784683
     Price: $6.99 USD
 - [Door Handle Protective Pad Mute Household Anti-collision Silicone Artifact Punch-free](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free): Product information: Specifications: white, gray, black, blue, pink, yellow, green Material: PP food grade material Style: modern simplicity Structure: Standard type Packing list: Door handle protection pad x 1pc Product Image:
-  Updated: 2025-12-26T21:35:39Z
+  Updated: 2025-12-27T09:33:23Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5947,49 +5947,172 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/667c6903-8f82-4b00-8e73-3d0ae6330829.jpg?v=1766784805
     Price: $5.25 USD
-[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNjA5MDg2OTAxNywibGFzdF92YWx1ZSI6IjEwMjI2MDkwODY5MDE3In0=)
+- [3D Light Acrylic Panel Handwritten Message Board](https://the-new-age-7647.myshopify.com/products/3d-light-acrylic-panel-handwritten-message-board): Product information: Product function: switch button control/USB 5V charging touch switch/USB 5V charging touch switch+remote control switch USB 5V touch switch model: RGB seven color dimming (red/green/blue/yellow/green/purple/white), adjustable fixed one color/adjustable seven color gradient/adjustable seven color fast changing Power input: 85-265V/5V/battery input (DC/3 No. 5 rechargeable batteries or dry batteries Material: Acrylic Boundary dimension: 95 * 40 (mm) Packing list: Base * 1 Acrylic plate * 1 Instructions * 1 USB cable * 1 Marker * 1 Color box * 1
+  Updated: 2025-12-27T17:55:21Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/adf80d96-6ab8-4b8e-a9e0-f555f91a2c1a.jpg?v=1766814917
+  Price: $17.99 USD
+- [Computer Desktop Atmosphere Game Rhythm Light](https://the-new-age-7647.myshopify.com/products/computer-desktop-atmosphere-game-rhythm-light): Product information: Product Name: Desktop Ambient Light Working voltage: 5V Working current: 1A Rated power: 5W+0 5W Packing size: 315*110*50mm Lampshade material: PC Dimensions: 315*107*48(mm) Control method: app intelligent control/manual control Packing list: Desktop atmosphere light X2 USB cable, length 1.5m Desktop Ambient Light Manual Base X2
+  Updated: 2025-12-27T17:55:54Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aa5666ae-df4b-4693-b3df-4e6895701758.jpg?v=1766814950
+  Price: $36.99 USD
+- [Mechanical game wired mouse](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse): Type : Gaming Mouse Mouse size: Rat (≥120mm) Connection with computer: Wired Applicable models: desktop Photoelectric resolution: 1600dpi (dpi) Number of buttons: 6 (key) Interface: USB Wireless transmission frequency: 2.4GHz Whether to support ergonomics: support Adjustable resolution: four files Operating distance: 1.2 (m) Working method : Photoelectric Wheel direction: touch wheel Features: Gaming Mouse:, Ergonomics Line length: 1.2 (m)
+  Updated: 2025-12-27T17:56:36Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2894292835252.jpg?v=1766814992
+  - [Black](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806535942425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7c42d744-d19a-4428-b27a-8cd2cb91d3af.jpg?v=1766814997
+    Price: $11.49 USD
+  - [Blue](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806535975193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/35d07218-1755-42c0-bc74-4898004c511d.jpg?v=1766814997
+    Price: $11.49 USD
+  - [Gray](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806536007961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8914e34d-2815-4581-bd51-d36592d8f60a.jpg?v=1766814997
+    Price: $11.49 USD
+  - [White](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806536040729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/03a24eb2-1817-4c34-aeee-1691fbc6625e.jpg?v=1766814997
+    Price: $11.49 USD
+- [Wireless Professional Gaming Mouse](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse): Overview： Free shipping 6-key wireless professional gaming mouse colorful Specification： Model: 6-button wireless competitive mouse Colorful S1 Type: Optical mouse Mouse size: ordinary mouse (100-120mm) Applicable models: laptop Optical resolution:. (Dpi) Number of keys: 3.5 (keys) Interface: USB Wireless transmission frequency:. Whether to support ergonomics: support
+  Updated: 2025-12-27T17:57:16Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/467327723347.jpg?v=1766815029
+  - [Black](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse?variant=51806536171801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/914495886633.jpg?v=1766815033
+    Price: $8.99 USD
+  - [White](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse?variant=51806536204569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/467327723347_7c825f4d-3189-486f-9635-e417ff9a2b49.jpg?v=1766815033
+    Price: $8.99 USD
+- [Super cool metal keyboard wire mixed light mechanical game keyboard](https://the-new-age-7647.myshopify.com/products/super-cool-metal-keyboard-wire-mixed-light-mechanical-game-keyboard): Super cool metal keyboard wire mixed light mechanical game keyboard
+  Updated: 2025-12-27T17:58:00Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/487029983895.jpg?v=1766815074
+  Price: $62.99 USD
+- [Wireless mouse office computer mouse wholesale mouse](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse): Size: 100*60*35mm
+  Updated: 2025-12-27T17:58:39Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1567587306263.jpg?v=1766815114
+  - [black](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536499481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12859759336939.jpg?v=1766815120
+    Price: $7.99 USD
+  - [blue](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536532249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9610162941066.jpg?v=1766815120
+    Price: $7.99 USD
+  - [gray](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536565017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/319423129773.jpg?v=1766815120
+    Price: $7.99 USD
+  - [gules](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536597785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/605101846298.jpg?v=1766815120
+    Price: $7.99 USD
+  - [silvery](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536630553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2604313508605.jpg?v=1766815120
+    Price: $7.99 USD
+- [USB Wired Gaming Mouse 5500DPI Adjustable 7 Buttons LED Backlit Professional Gamer Mice Ergonomic Computer Mouse for PC Laptop](https://the-new-age-7647.myshopify.com/products/usb-wired-gaming-mouse-5500dpi-adjustable-7-buttons-led-backlit-professional-gamer-mice-ergonomic-computer-mouse-for-pc-laptop): Product information: Type: Wired mouse Mouse size: rat (≥120mm) Connection with computer: Wired Applicable models: desktop Optical resolution: 2400dpi (dpi) Number of keys: 6 (keys) Interface: USB Wireless transmission frequency: USB transmission Whether to support ergonomics: support Adjustable resolution: six gears Operating distance: 1.5 (m) Working method: photoelectric Wheel direction: four-way wheel Features: Gaming mouse, ergonomics Line length: 1.5 (meters) Product size: 134*84*40MM Product weight: 0.130 (KG) Packing list: Mouse*1
+  Updated: 2025-12-27T17:59:13Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2956b545-4b08-4807-9c14-b40ac16869bc.jpg?v=1766815148
+  Price: $10.99 USD
+- [Gaming Mouse Wired Silent Gaming Mechanical Computer Desktop Notebook Office](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office): Product information Mouse Name: Wired Gaming Mouse. Q7 key quantity: 7 buttons (wheel included). V6 key quantity: 6 buttons (wheel included). K1 key quantity: 4 buttons (including the wheel). DPI switch: 1200/1600/2400/3200 DPI adjustable. Key life: 10 million times. Size: 133 * 78 * 40mm. Weight: about 150g. Color: black and white. USB cable length: about 140cm. Respiratory light color: changeable (press “DPI” key and “front” side mouse key to turn on / off backlight) User for: high end gamers and professional gaming gamers for Dota, LOL, CSGO, etc. Warm tips: the "wheel" on the side of the mouse is just a decoration, could not turn. Thank you for your understanding. P acking list mouse*1
+  Updated: 2025-12-27T18:00:02Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465889.jpg?v=1766815191
+  - [Electroplating black / Audio version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537023769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890466182.jpg?v=1766815194
+    Price: $13.99 USD
+  - [Electroplating black / Silent version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537056537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890466182.jpg?v=1766815194
+    Price: $13.99 USD
+  - [Star black / Audio version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537089305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465883.jpg?v=1766815194
+    Price: $13.99 USD
+  - [Star black / Silent version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537122073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465883.jpg?v=1766815194
+    Price: $13.99 USD
+  - [White / Audio version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537154841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465891.jpg?v=1766815194
+    Price: $13.99 USD
+  - [White / Silent version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537187609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465891.jpg?v=1766815194
+    Price: $13.99 USD
+[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNjI1MDE1NDI2NSwibGFzdF92YWx1ZSI6IjEwMjI2MjUwMTU0MjY1In0=)
 
 ## Collections
 
 - [Discover Top Phone Accessories for Your Mobile Devices | Shop Now](https://the-new-age-7647.myshopify.com/collections/phone-accessories): Explore our wide range of Phone Accessories to enhance and protect your device. Shop high-quality Phone Accessories today for style and functionality.
-  Updated: 2025-12-25T06:30:25Z
+  Updated: 2025-12-27T06:07:44Z
   Total Products: 7
 - [Pet Accessories Collection - Stylish & Durable Accessories for Your Pets](https://the-new-age-7647.myshopify.com/collections/pet-accessories): Discover our Pet Accessories collection featuring stylish, durable pet accessories perfect for your furry friends. Shop now for quality Pet Accessories that suit every pet's style.
-  Updated: 2025-12-25T06:34:21Z
+  Updated: 2025-12-27T06:07:44Z
   Total Products: 16
 - [Explore Top Fitness Gear & Accessories - Enhance Your Fitness Journey](https://the-new-age-7647.myshopify.com/collections/fitness): Discover the best fitness equipment and accessories in our Fitness collection. Get motivated and achieve your health goals with our top-quality fitness products.
-  Updated: 2025-12-24T22:46:15Z
+  Updated: 2025-12-27T06:07:44Z
   Total Products: 14
 - [Explore Top Toys & Hobbies for All Ages | Wide Selection & Great Deals](https://the-new-age-7647.myshopify.com/collections/toys-hobbies): Discover the best Toys & Hobbies collection with a wide selection for all ages. Shop now for exciting toys, hobbies, and gifts at unbeatable prices.
-  Updated: 2025-12-25T06:18:26Z
+  Updated: 2025-12-27T21:17:21Z
   Total Products: 9
 - [Shop High-Quality Computer Accessories | Enhance Your Workspace](https://the-new-age-7647.myshopify.com/collections/computer-accessories): Discover our premium collection of Computer Accessories to boost productivity and efficiency. Shop now for high-quality peripherals and tech essentials.
-  Updated: 2025-12-24T22:56:45Z
-  Total Products: 3
+  Updated: 2025-12-27T06:07:44Z
+  Total Products: 11
 - [Lights & Home Security Collection | Enhance Your Home Safety & Design](https://the-new-age-7647.myshopify.com/collections/lights-home-security): Discover our Lights & Home Security collection to upgrade your home’s safety and ambiance. Find the perfect lighting and security solutions today.
-  Updated: 2025-12-25T06:26:54Z
+  Updated: 2025-12-27T06:07:44Z
   Total Products: 7
 - [Shop Premium Bedding Collection | Comfortable & Stylish Bedding Items](https://the-new-age-7647.myshopify.com/collections/bedding): Explore our Bedding collection for high-quality, comfortable, and stylish bedding. Perfect for a cozy home upgrade, featuring the best Bedding options.
-  Updated: 2025-12-24T22:54:24Z
+  Updated: 2025-12-27T06:07:44Z
   Total Products: 5
 - [Jewelry Collection | Unique and Elegant Jewelry Pieces for Every Occasion](https://the-new-age-7647.myshopify.com/collections/jewelry): Explore our exclusive jewelry collection featuring stunning, high-quality jewelry. Find the perfect jewelry piece to elevate your style today.
-  Updated: 2025-12-25T06:37:00Z
+  Updated: 2025-12-27T06:07:44Z
   Total Products: 10
 - [Shop Trendy Apparel Collection for Men and Women - Best Prices](https://the-new-age-7647.myshopify.com/collections/apparel): Explore our Apparel collection for stylish men and women. Find the latest trends and quality clothing at unbeatable prices. Shop now for your perfect Apparel!
   Updated: 2025-12-25T06:22:35Z
   Total Products: 1
 - [Boys Shirts](https://the-new-age-7647.myshopify.com/collections/boys-shirts)
-  Updated: 2025-12-26T06:55:26Z
+  Updated: 2025-12-27T06:07:45Z
   Total Products: 12
 - [Girls Shirts](https://the-new-age-7647.myshopify.com/collections/girls-shirts)
-  Updated: 2025-12-26T06:55:47Z
+  Updated: 2025-12-27T06:07:45Z
   Total Products: 13
 - [Best Sellers](https://the-new-age-7647.myshopify.com/collections/best-sellers)
-  Updated: 2025-12-26T17:18:41Z
+  Updated: 2025-12-27T21:17:21Z
   Total Products: 9
 - [Kitchen Accessories](https://the-new-age-7647.myshopify.com/collections/kitchen-accessories)
   Updated: 2025-12-26T21:33:27Z
   Total Products: 5
+- [Skin Care](https://the-new-age-7647.myshopify.com/collections/skin-care)
+  Updated: 2025-12-27T04:03:22Z
+  Total Products: 0
 
 ## Blogs
 
