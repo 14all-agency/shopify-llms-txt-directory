@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2025-12-27T00:00:33.099Z
+- Updated At: 2025-12-28T00:00:34.428Z
 
 ## Products
 
