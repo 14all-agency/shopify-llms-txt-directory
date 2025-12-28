@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-28T16:00:34.798Z
+- Updated At: 2025-12-28T20:00:34.567Z
 
 ## Products
 
@@ -1804,11 +1804,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Almond Macaron Original Candle](https://affinatiliving.com/products/almond-macaron-original-candle): Almond Macaron Original Candle – 10 oz Almond Macaron is soft, sweet, and elegant. Delicate almond blends with sugar and cream for a refined dessert-inspired scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sweet AlmondMiddle Notes: Sugar CookieBase Notes: Vanilla Cream Perfect for light, cozy indulgence without being overpowering. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2025-12-28T14:21:10Z
+  Updated: 2025-12-28T20:00:05Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/CFFA5EFA-274C-49F6-A27B-1A19F13EE024.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8651.png?v=1766952004
   - [Single Order](https://affinatiliving.com/products/almond-macaron-original-candle?variant=42443974934609)
     Availability: Available
     Price: $16.95 USD
@@ -1849,11 +1849,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Tobacco Original Candle](https://affinatiliving.com/products/tobacco-original-candle): Tobacco Original Candle – 10 oz Tobacco is bold, warm, and grounding. Rich tobacco leaf creates a deep, classic scent with a smooth finish. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tobacco LeafMiddle Notes: Warm SpiceBase Notes: Earthy Woods Perfect for evenings and cozy spaces that call for depth and character. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-28T14:21:10Z
+  Updated: 2025-12-28T19:54:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/47F9106C-FC02-4242-80F9-945BF3680A93.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8648.png?v=1766951695
   - [Single Order](https://affinatiliving.com/products/tobacco-original-candle?variant=42443974049873)
     Availability: Available
     Price: $16.95 USD
@@ -2014,11 +2014,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Sandalwood & Jasmine Original Candle](https://affinatiliving.com/products/sandalwood-jasmine-original-candle): Sandalwood & Jasmine Original Candle – 10 oz Sandalwood & Jasmine is warm, floral, and beautifully balanced. Creamy sandalwood blends with soft jasmine for a scent that feels calming, elegant, and refined. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Soft FloralsMiddle Notes: Jasmine PetalsBase Notes: Sandalwood, Warm Musk Perfect for relaxing evenings and serene spaces, this candle creates a peaceful, luxurious atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-28T14:21:11Z
+  Updated: 2025-12-28T19:51:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5E845DE7-FA8D-4AD0-A6DF-033FD371FFC5.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8645.png?v=1766951513
   - [Single Order](https://affinatiliving.com/products/sandalwood-jasmine-original-candle?variant=42443962515537)
     Availability: Available
     Price: $16.95 USD
@@ -2089,11 +2089,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Hazelnut Coffee Original Candle](https://affinatiliving.com/products/hazelnut-coffee-original-candle): Hazelnut Coffee Original Candle – 10 oz Hazelnut Coffee blends rich roasted coffee with smooth, nutty sweetness for a warm, comforting scent that feels indulgent and inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Roasted CoffeeMiddle Notes: Toasted HazelnutBase Notes: Vanilla Cream, Warm Sugar Perfect for cozy mornings and relaxed afternoons, this candle creates a welcoming café-style atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-28T14:21:12Z
+  Updated: 2025-12-28T19:46:07Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/757A576A-F243-4C35-8020-D39B0A8F765F.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8642.png?v=1766951139
   - [Single Order](https://affinatiliving.com/products/hazelnut-coffee-original-candle?variant=42443957633105)
     Availability: Available
     Price: $16.95 USD
