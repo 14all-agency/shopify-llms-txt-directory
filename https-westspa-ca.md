@@ -6,11 +6,11 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2025-12-27T03:41:48.618Z
+- Updated At: 2025-12-29T00:00:18.034Z
 
 ## Blogs
 
-- [Our Blog](https://westspa.ca/blogs/articles)
+- [West Spa Blog | Beauty, Wellness & Medical Aesthetics in Montreal](https://westspa.ca/blogs/articles): Explore expert insights on skincare, wellness, and medical aesthetics from West Spa in Montreal’s West Island. Tips, treatments, and beauty education.
   - [Advanced Skin Treatments in Montreal | Laser Genesis & IPL Lumecca – West Spa](https://westspa.ca/blogs/articles/advanced-skin-treatments-at-west-spa-laser-genesis-ipl-lumecca): Advanced Skin Treatments in Montreal | Laser Genesis & IPL Lumecca – West Spa
     Updated: 2025-08-28T21:42:49Z
     Author: Onixx Media
@@ -38,11 +38,14 @@
   - [West Spa Gift Certificates | The Perfect Gift for Wellness & Beauty](https://westspa.ca/blogs/articles/give-the-gift-of-wellness-why-a-west-spa-gift-certificate-is-the-perfect-present): West Spa Gift Certificates | The Perfect Gift for Wellness & Beauty
     Updated: 2025-12-16T19:23:44Z
     Author: Onixx Media
+  - [Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa Medical](https://westspa.ca/blogs/articles/sun-safety-actinic-keratosis-in-montreal-advanced-solutions-for-acne-acne-scars): Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa Medical
+    Updated: 2025-12-28T21:11:33Z
+    Author: Onixx Media
 
 ## Store Pages
 
-- [Contact](https://westspa.ca/pages/contact)
-  Updated: 2023-10-04T12:45:21Z
+- [Contact West Spa | Spa & Medical Aesthetics in DDO](https://westspa.ca/pages/contact): 
+  Updated: 2025-12-28T00:49:55Z
 - [Laser hair removal West Island Spa](https://westspa.ca/pages/laser-hair-removal-two): 
   Updated: 2024-05-07T17:16:16Z
 - [Manicure & Pedicure in Montreal | West Spa – Nail Care & Relaxation](https://westspa.ca/pages/manicure-pedicure): 
@@ -65,8 +68,8 @@
   Updated: 2025-10-01T16:10:27Z
 - [Laser Genesis / Spa West Island Montreal](https://westspa.ca/pages/laser-genesis): 
   Updated: 2024-05-08T21:50:10Z
-- [About](https://westspa.ca/pages/about)
-  Updated: 2023-11-02T20:08:52Z
+- [About West Spa | 20 Years of Wellness & Medical Aesthetics](https://westspa.ca/pages/about): 
+  Updated: 2025-12-28T00:24:59Z
 - [Manicure & Pedicure, Hand Treatments, Spa West Island](https://westspa.ca/pages/contact-1): 
   Updated: 2024-05-08T22:00:29Z
 - [IPL/Lumecca / Facial Technology / Skin Care](https://westspa.ca/pages/ipl-lumecca): 
@@ -123,8 +126,8 @@
   Updated: 2024-05-08T14:28:13Z
 - [Microneedling](https://westspa.ca/pages/microneedling)
   Updated: 2025-10-15T21:54:31Z
-- [Cellulite Reduction & Body Contouring](https://westspa.ca/pages/cellulite-reduction-body-contouring)
-  Updated: 2025-10-16T11:18:54Z
+- [Cellulite Reduction & Body Contouring | West Spa Montreal](https://westspa.ca/pages/cellulite-reduction-body-contouring): 
+  Updated: 2025-12-28T00:44:00Z
 - [Hair Restoration](https://westspa.ca/pages/hair-restoration)
   Updated: 2025-10-16T12:37:25Z
 - [Skin Rejuvenation](https://westspa.ca/pages/skin-rejuvenation)
@@ -135,8 +138,8 @@
   Updated: 2025-10-23T13:30:31Z
 - [Neuromodulators](https://westspa.ca/pages/neuromodulators)
   Updated: 2025-10-23T20:46:09Z
-- [Hyaluronic Acid Fillers & Dermal Fillers](https://westspa.ca/pages/hyaluronic-acid-fillers-dermal-fillers)
-  Updated: 2025-10-23T22:55:02Z
+- [Hyaluronic Acid Dermal Fillers | Natural Results at West Spa](https://westspa.ca/pages/hyaluronic-acid-fillers-dermal-fillers): 
+  Updated: 2025-12-28T00:39:10Z
 - [Laser Resurfacing](https://westspa.ca/pages/laser-resurfacing)
   Updated: 2025-10-24T19:22:53Z
 - [Plasma Resurfacing](https://westspa.ca/pages/plasma-resurfacing)
