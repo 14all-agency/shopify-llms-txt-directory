@@ -6,7 +6,7 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2025-12-28T00:00:24.809Z
+- Updated At: 2025-12-29T00:00:29.342Z
 
 The New Age
 
@@ -2684,7 +2684,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dfc3a13-499c-45da-87fe-e1123749943d.jpg?v=1766469139
     Price: $12.99 USD
 - [Spine Bending Posture Corrector | Improve Your Back Posture](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector): Discover the Spine Bending Posture Corrector to improve posture, reduce back pain, and support spinal health. Ideal for scoliosis and slouching issues.
-  Updated: 2025-12-27T06:07:51Z
+  Updated: 2025-12-28T06:48:02Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -3573,7 +3573,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1226973997194.jpg?v=1766644013
     Price: $19.99 USD
 - [Desktop Charging Magnetic Data Cable Organizer - Creative Gift Storage](https://the-new-age-7647.myshopify.com/products/desktop-charging-magnetic-data-cable-organizer-soft-plastic-creative-gift-storage-fixed-cable-organizer): Use the desktop charging magnetic data cable organizer for a neat desktop. Perfect for fixing cables and as a creative gift. Shop now for organization!
-  Updated: 2025-12-27T06:07:54Z
+  Updated: 2025-12-28T00:10:31Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -3598,7 +3598,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1766644107
     Price: $7.25 USD
 - [Wireless Charger For iPhone Fast Charging Dock Station - 6 in 1 Wireless Charging Pad](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station): Discover the Wireless Charger for iPhone, a fast charging dock station with 6-in-1 functionality, perfect for phones, watches, and more. Fast and reliable charging solution.
-  Updated: 2025-12-27T16:33:03Z
+  Updated: 2025-12-28T16:51:24Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -3893,7 +3893,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1766701824
     Price: $13.01 USD
 - [Summer Girls Cute Cartoon Short Sleeve T Shirt](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt): @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Product information: Applicable gender: Female Whether hooded: Not hooded Sleeve length: Short sleeve Fabric technology: Soft treatment Pattern: Cartoon Fabric name: Knitted Main fabric composition: Cotton Main fabric ingredient content: 95 (%) Collar type: Round neck Function: Moisture wicking @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Size Information: Size: 2T 3T 4T 5T 6T 7T
-  Updated: 2025-12-27T06:07:57Z
+  Updated: 2025-12-28T00:21:56Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5277,7 +5277,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1766705740
     Price: $8.99 USD
 - [Dinosaurs in Big Kids Costume](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume): Whether to hooded: not hooded Sleeve length: long sleeve Fabric technology: soft treatment size Length bust Shoulder width Sleeve Length 110 46 63 27 38 120 49 69 28 41 130 52 72 30 44 140 54 74 32 46 150 56 77 34 48 160 58 80 35 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-27T06:07:59Z
+  Updated: 2025-12-28T00:14:12Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5379,7 +5379,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1766705769
     Price: $13.39 USD
 - [Child short sleeve t-shirt boy half sleeve](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve): Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: Animal Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9063A waterfall green, 9063B khaki, 9063C flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140 Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
-  Updated: 2025-12-27T06:08:00Z
+  Updated: 2025-12-28T00:22:00Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5457,7 +5457,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1766705820
     Price: $8.49 USD
 - [Children''s Wear Summer New Boys T-shirt, Short Sleeve Korean Children''s Clothing, Baby Clothing, A Ready-to-be Factory Direct Selling](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling): Applicable gender: neutral / male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable for ages: small and medium children (3~8 years old, 100~140cm) For the season: Summer Fabric Technology: Soft treatment Pattern: cartoon Element: Cartoon, Chao Fan Fabric Name: Cotton Main fabric composition: cotton Main fabric component content: 100 (%) Security level: Class A Collar type: round neck Color: 9121 flower ash Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images
-  Updated: 2025-12-27T06:08:00Z
+  Updated: 2025-12-28T00:14:24Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5998,7 +5998,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/467327723347_7c825f4d-3189-486f-9635-e417ff9a2b49.jpg?v=1766815033
     Price: $8.99 USD
 - [Super cool metal keyboard wire mixed light mechanical game keyboard](https://the-new-age-7647.myshopify.com/products/super-cool-metal-keyboard-wire-mixed-light-mechanical-game-keyboard): Super cool metal keyboard wire mixed light mechanical game keyboard
-  Updated: 2025-12-27T17:58:00Z
+  Updated: 2025-12-28T16:52:40Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -6067,7 +6067,37 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465891.jpg?v=1766815194
     Price: $13.99 USD
-[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNjI1MDE1NDI2NSwibGFzdF92YWx1ZSI6IjEwMjI2MjUwMTU0MjY1In0=)
+- [Gaming mouse pad](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad): Wireless models: Thickness: 4mm Length: 800mm Material: Jiaji cloth + rubber Width: 300mm Power: 10W Type: wristband mouse pad Material: rubber Size: 800*300*5 (mm) Details: Lighting design in all four sides of the mouse pad, perfectly match with your mouse and LED keyboards, highlight the atmosphere and put you in a colorful world. Designed with a superfine fiber braided material, with a micro-textured and smooth surface, precise navigation and optimize your gaming experience. The size of 300x250x3mm will fit perfectly in your office and will offer a perfect movement space. Powered by USB, plug and play, no drivers needed, and a one-touch control designed to switch bright colors and turn off, very convenient to use. Rubber bottom with matt design, good anti-slip effect, which means it can be placed on the desktop firmly, applies to all types of keyboards and mice. Lighting mode: 1. red 2. Green 3. blue 4. violet 5. Cyan 6. yellow 7. white 8. Automatically switch to the color order above 9. fast flash colorful color 10. colored flash 11. Disable the backlight How to use: To switch off simply hold down the button a few seconds down; to change colors and lighting modes, press once; to change the brightness twice quickly, press Specification: Power: about 0.75 W Power: 5 V Size: 300x250x3mm / 780x300x4mm / 800x300x4mm / 900x400x4mm Note: Due to manual measurement, there may be small discrepancies.
+  Updated: 2025-12-28T17:48:02Z
+  Vendor: The New Age
+  Product Type: Computer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/488756616348.jpg?v=1766941305
+  - [A / 800×300×4mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808544981273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/488756616348_fba6c04e-6c18-4572-8e89-4cd224456de9.jpg?v=1766941309
+    Price: $29.99 USD
+  - [B / 350×250×3mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545014041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1539680550901.jpg?v=1766941309
+    Price: $19.99 USD
+  - [C / 800×300×4mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545046809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/617658788496.jpg?v=1766941309
+    Price: $29.99 USD
+  - [D / 900×400mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545079577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/25436557970429.jpg?v=1766941309
+    Price: $39.99 USD
+  - [E / 350X250mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545112345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/526133967547.jpg?v=1766941309
+    Price: $19.99 USD
+  - [Wireless black / 800X300mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545145113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2305901713177.jpg?v=1766941309
+    Price: $39.99 USD
+[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIyNjc3NTcyMDIxNywibGFzdF92YWx1ZSI6IjEwMjI2Nzc1NzIwMjE3In0=)
 
 ## Collections
 
@@ -6084,8 +6114,8 @@ The New Age
   Updated: 2025-12-27T21:17:21Z
   Total Products: 9
 - [Shop High-Quality Computer Accessories | Enhance Your Workspace](https://the-new-age-7647.myshopify.com/collections/computer-accessories): Discover our premium collection of Computer Accessories to boost productivity and efficiency. Shop now for high-quality peripherals and tech essentials.
-  Updated: 2025-12-27T06:07:44Z
-  Total Products: 11
+  Updated: 2025-12-28T17:01:51Z
+  Total Products: 12
 - [Lights & Home Security Collection | Enhance Your Home Safety & Design](https://the-new-age-7647.myshopify.com/collections/lights-home-security): Discover our Lights & Home Security collection to upgrade your home’s safety and ambiance. Find the perfect lighting and security solutions today.
   Updated: 2025-12-27T06:07:44Z
   Total Products: 7
@@ -6113,6 +6143,9 @@ The New Age
 - [Skin Care](https://the-new-age-7647.myshopify.com/collections/skin-care)
   Updated: 2025-12-27T04:03:22Z
   Total Products: 0
+- [Fast Seller](https://the-new-age-7647.myshopify.com/collections/fast-seller)
+  Updated: 2025-12-28T20:04:32Z
+  Total Products: 1
 
 ## Blogs
 
