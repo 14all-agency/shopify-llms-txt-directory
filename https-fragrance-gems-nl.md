@@ -6,68 +6,68 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-01T08:10:19Z
 - Contact Email: info@fragrance-gems.nl
-- Updated At: 2025-12-26T16:27:55.469Z
+- Updated At: 2025-12-29T00:00:20.011Z
 
 ## Products
 
-- [Rasasi Hawas Malibu 100ml – Tropisch Heren Parfum | FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-malibu-100ml-heren-parfum): Rasasi Hawas Malibu 100ml is een fris tropisch herenparfum met ananas en sinaasappel. Perfect voor zomer en vakantie. Snelle levering & scherpe prijs.
-  Updated: 2025-12-25T20:12:20Z
+- [Rasasi Hawas Malibu Parfum 100ml – Tropisch Herenparfum](https://fragrance-gems.nl/products/rasasi-hawas-malibu-100ml-heren-parfum): Rasasi Hawas Malibu parfum 100ml: fris, tropisch herenparfum met sinaasappel, ananas en muskus. Ontdek Rasasi Hawas Malibu For Him vandaag!
+  Updated: 2025-12-28T22:08:38Z
   Vendor: Rasasi
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rasasi-hawas-malibu-100-ml.webp?v=1766610275
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rasasi-hawas-malibu-geur-verpakking-en-fles.webp?v=1766916592
   Price: € 29,99 EUR
-- [French Avenue Aether Extrait 100ml Groene Herenparfum | Extrait](https://fragrance-gems.nl/products/french-avenue-aether-extrait-100ml): French Avenue Aether Extrait 100ml is een herenparfum met groene appel en cederhout. Krachtige extrait de parfum met goede houdbaarheid. Gratis verzending vanaf €60.
-  Updated: 2025-12-25T03:41:31Z
+- [French Avenue Aether Extrait Parfum 100ml - Herenparfum](https://fragrance-gems.nl/products/french-avenue-aether-extrait-100ml): French Avenue Aether Extrait parfum 100ml: frisse citrus en warme houttonen in een langdurige unisex geur. Ontdek French Avenue Aether Extrait vandaag!
+  Updated: 2025-12-28T17:38:01Z
   Vendor: French Avenue
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-aether-extrait-2488586_a50a162d-a7eb-4eb7-b5b3-14bd234a75f7.webp?v=1766175726
   Price: € 29,99 EUR
-- [Rayhaan Pacific Aura 100ml - Aquatische Heren Eau de Parfum](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Rayhaan Pacific Aura 100ml is een frisse aquatische herenparfum met oceaan- en citrusnoten. Langhoudende luxe geur voor elke dag. Gratis verzending vanaf €60.
-  Updated: 2025-12-26T09:11:42Z
+- [Rayhaan Pacific Aura Parfum 100ml – Aquatische Herengeur](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Rayhaan Pacific Aura parfum 100ml: een frisse, aquatische herenparfum met citrus en oceaannoten. Ontdek Rayhaan Pacific Aura vandaag!
+  Updated: 2025-12-28T16:07:07Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-pacific-aura-100ml-1245229_88eb5e20-35d2-405d-a6fe-edc603ed7cc6.webp?v=1766610262
   Price: € 24,99 EUR
-- [Rayhaan Tropical Vibe 100ml Tropisch Heren Parfum | Fris & Zomers](https://fragrance-gems.nl/products/rayhaan-tropical-vibe-100ml): Rayhaan Tropical Vibe 100ml is een tropisch en fruitig herenparfum met mango- en citrusnoten. Een frisse zomerse geur met goede houdbaarheid. Gratis verzending vanaf €60.
-  Updated: 2025-12-25T03:09:14Z
+- [Rayhaan Tropical Vibe Parfum 100ml – Tropisch Herenparfum](https://fragrance-gems.nl/products/rayhaan-tropical-vibe-100ml): Rayhaan Tropical Vibe parfum 100ml: tropisch, fruitig en fris herenparfum met mango, ananas en citrus. Ontdek Rayhaan Tropical Vibe vandaag!
+  Updated: 2025-12-27T21:46:00Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-tropical-vibe-100ml-2214941_e8dbd024-b632-4e46-9ddb-8f96eae6e4c7.webp?v=1766610252
   Price: € 22,99 EUR
-- [Rayhaan Nocturno 100ml Aromatisch Heren Parfum | Krachtig & Fris](https://fragrance-gems.nl/products/rayhaan-nocturno-100ml): Rayhaan Nocturno ✓ Krachtig aromatisch herenparfum ✓ Bergamot, lavendel & amberhout ✓ Verleidelijk fris met kruidige diepte ✓ 8–10u houdbaarheid ✓ 100ml
-  Updated: 2025-12-25T03:54:33Z
+- [Rayhaan Nocturno Parfum 100ml – Aromatisch Herenparfum](https://fragrance-gems.nl/products/rayhaan-nocturno-100ml): Rayhaan Nocturno parfum 100ml: fris, kruidig en aromatisch herenparfum met bergamot, lavendel en amberhout. Koop vandaag nog Rayhaan Nocturno!
+  Updated: 2025-12-28T17:37:46Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-nocturno-100ml-3109538_c9da7141-b07c-4829-815a-e55b89db2adf.webp?v=1766175819
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-nocturno-100ml-3109538_c9da7141-b07c-4829-815a-e55b89db2adf.webp?v=1766839582
   Price: € 24,99 EUR
-- [French Avenue Shmallow Fluff 100ml Zoet Damesparfum | Vanille](https://fragrance-gems.nl/products/french-avenue-shmallow-fluff-100ml): French Avenue Shmallow Fluff 100ml is een zoet en speels damesparfum met marshmallow, vanille en fruitige accenten. Licht, verslavend en langhoudend.
-  Updated: 2025-12-26T11:46:08Z
+- [French Avenue Shmallow Fluff 100ml Zoet Damesparfum | Vanille](https://fragrance-gems.nl/products/french-avenue-shmallow-fluff-100ml): French Avenue ShMallow Fluff 100ml: zoet, fruitig en romig damesparfum met marshmallow, vanille en praliné. Ontdek ShMallow Fluff vandaag!
+  Updated: 2025-12-28T17:37:37Z
   Vendor: FrenchAvenue
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-shmallow-fluff-1676845_a070ad95-ec40-4df5-a27c-796f422d235f.webp?v=1766175807
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-shmallow-fluff-1676845_a070ad95-ec40-4df5-a27c-796f422d235f.webp?v=1766839555
   Price: € 19,99 EUR
-- [Arabiyat Prestige Marwa 100ml Heren Parfum | Luxe Geur](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Arabiyat Prestige Marwa 100ml is een luxe herenparfum met een frisse, elegante geur. Nu scherp geprijsd. Gratis verzending vanaf €60. Bestel vandaag nog!
-  Updated: 2025-12-25T15:18:26Z
+- [Arabiyat Prestige Marwa Parfum 100ml – Luxe Herengeur](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Arabiyat Prestige Marwa parfum 100ml: frisse citrus, bergamot, neroli en kruidige tonen. Ontdek luxe Arabiyat Marwa en bestel vandaag nog.
+  Updated: 2025-12-28T17:37:26Z
   Vendor: MyPerfumes
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/Arabiyat_prestige_marwa_100_ml.webp?v=1766610232
   Price: € 42,99 EUR
-- [Arabiyat Prestige Marwa Eau de Parfum Sample 3ml – Men](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-eau-de-parfum-sample-3ml-men): Arabiyat Prestige Marwa 3ml parfum sample met frisse citrus, bergamot, citroen, neroli en kruidige tonen. Luxe eau de parfum voor dagelijks gebruik.
-  Updated: 2025-12-26T14:46:33Z
+- [Arabiyat Prestige Marwa Parfum 3ml – Sample voor Mannen](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-eau-de-parfum-sample-3ml-men): Arabiyat Prestige Marwa parfum sample 3ml: frisse citrus, bergamot, citroen, neroli en kruidige tonen. Ontdek nu luxe Arabiyat Marwa geur.
+  Updated: 2025-12-28T17:37:13Z
   Vendor: FragranceGems
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/marwasample_1214476f-6a13-4eb2-b63c-2dcdd4dbec34.webp?v=1766412926
   Price: € 1,99 EUR
-- [Rayhaan Elixir 100ml Oosters Houtachtig Herenparfum | Luxe Geur](https://fragrance-gems.nl/products/rayhaan-elixir-100ml-heren-parfum): Rayhaan Elixir 100ml is een oosterse houtachtige herenparfum met frisse munt en bergamot, een aromatisch lavendelhart en een warme vanille-tonkabasis. Luxe en sensueel.
-  Updated: 2025-12-26T10:27:18Z
+- [Rayhaan Elixir Parfum 100ml – Oosters Houtachtig Herenparfum](https://fragrance-gems.nl/products/rayhaan-elixir-100ml-heren-parfum): Rayhaan Elixir parfum 100ml voor hem: frisse munt, bergamot, lavendel en een warme vanille-tonkabasis. Luxe oosterse geur – Rayhaan Elixir kopen.
+  Updated: 2025-12-27T09:59:46Z
   Vendor: FragranceGems
   Product Type: Eaux de Parfum
   Availability: Available
@@ -76,15 +76,42 @@
 
 ## Collections
 
-- [Bestsellers](https://fragrance-gems.nl/collections/bestsellers)
-  Updated: 2025-12-26T12:18:56Z
+- [Bestseller Parfums | Populaire Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/bestsellers): Ontdek de bestsellers van FragranceGems. Populaire Arabische parfums zoals Rayhaan Elixir en Arabiyat Prestige. Snelle levering!
+  Updated: 2025-12-28T12:22:07Z
   Total Products: 9
-- [Op voorraade](https://fragrance-gems.nl/collections/op-voorraad): Ontdek luxe Arabische parfums van Rayhaan, Rasasi, French Avenue, Arabiyat Prestige, Maison Asrar en meer. Altijd op voorraad, snel geleverd in Nederland. Jouw nieuwe favoriete geur wacht op je.
-  Updated: 2025-12-26T12:18:56Z
+- [Parfums Op Voorraad | Luxe Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/op-voorraad): Parfums direct op voorraad bij FragranceGems. Luxe Arabische geuren van Rayhaan, Rasasi & Arabiyat Prestige. Snelle levering NL.
+  Updated: 2025-12-28T12:22:07Z
   Total Products: 9
-- [Belangrijk](https://fragrance-gems.nl/collections/belangrijk)
-  Updated: 2025-12-26T12:18:56Z
+- [Aanbevolen Parfums | Must-Have Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/belangrijk): Onze belangrijkste en meest aanbevolen parfums. Luxe Arabische geuren geselecteerd door FragranceGems. Perfect als eerste aankoop.
+  Updated: 2025-12-28T12:22:07Z
   Total Products: 7
+
+## Blogs
+
+- [Nieuws](https://fragrance-gems.nl/blogs/nieuws)
+  - [Top 5 Redenen Waarom Arabiyat Prestige Marwa Onmisbaar is voor Elke Man](https://fragrance-gems.nl/blogs/nieuws/arabiyat-prestige-marwa-5-redenen)
+    Updated: 2025-12-27T16:37:37Z
+    Author: FragranceGems
+  - [Ontdek de Frisse Sensatie van Rayhaan Pacific Aura 100ml Aquatische Heren Parfum](https://fragrance-gems.nl/blogs/nieuws/ontdek-de-frisse-sensatie-van-rayhaan-pacific-aura-100ml-aquatische-heren-parfum): Ontdek de Frisse Sensatie van Rayhaan Pacific Aura 100ml Aquatische Heren Parfum
+    Updated: 2025-12-28T10:01:21Z
+    Author: FragranceGems
+  - [Authentieke geuren ontdekken – subtiele, pure aroma's | FragranceGems](https://fragrance-gems.nl/blogs/nieuws/gids-voor-authentieke-geuren-ontdek-subtiele-parfumaccenten): Authentieke geuren ontdekken – subtiele, pure aroma's | FragranceGems
+    Updated: 2025-12-28T10:11:05Z
+    Author: FragranceGems
+  - [Arabische parfums – luxe geuren voor elke stijl | FragranceGems](https://fragrance-gems.nl/blogs/nieuws/arabische-parfums-kiezen-voor-een-langhoudende-geur): Arabische parfums – luxe geuren voor elke stijl | FragranceGems
+    Updated: 2025-12-28T10:11:03Z
+    Author: FragranceGems
+  - [Luxe parfums ontdekken - Ultieme geurervaring | FragranceGems](https://fragrance-gems.nl/blogs/nieuws/luxe-parfums-met-subtiele-geuren-en-blijvende-elegantie): Luxe parfums ontdekken - Ultieme geurervaring | FragranceGems
+    Updated: 2025-12-28T10:10:37Z
+    Author: FragranceGems
+  - [Unieke geuren in de Arabische parfummerk collectie van FragranceGems](https://fragrance-gems.nl/blogs/nieuws/unieke-geuren-in-de-arabische-parfummerk-collectie-van-fragrancegems): Unieke geuren in de Arabische parfummerk collectie van FragranceGems
+    Updated: 2025-12-28T10:14:33Z
+    Author: FragranceGems
+    Tags: arabische parfums, arabische parfums online kopen, arabiyat prestige marwa, fragrancegems, rayhaan elixir, rayhaan pacific aura
+  - [Rasasi Hawas Malibu: Ontdek deze frisse Arabische klassieker bij FragranceGems](https://fragrance-gems.nl/blogs/nieuws/rasasi-hawas-malibu-ontdek-deze-frisse-arabische-klassieker-bij-fragrancegems): Rasasi Hawas Malibu: Ontdek deze frisse Arabische klassieker bij FragranceGems
+    Updated: 2025-12-28T10:17:08Z
+    Author: FragranceGems
+    Tags: hawas malibu, malibu for him, rasasi hawas, rasasi hawas malibu, rasasi hawas malibu parfum, rasasi parfum
 
 ## Store Pages
 
