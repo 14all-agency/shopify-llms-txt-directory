@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-29T16:00:38.622Z
+- Updated At: 2025-12-29T20:00:38.547Z
 
 ## Products
 
@@ -1639,13 +1639,13 @@
     Availability: Available
     Price: £79.95 GBP
 - [Polar Skate Co Big Boy Jeans | Mid Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue): Buy the Polar Big Boys Jeans in Mid Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-26T02:09:21Z
+  Updated: 2025-12-29T17:38:32Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-jeans-polar-skate-co-big-boy-jeans-mid-blue-1183718411.png?v=1757230205
   - [Extra Extra Extra Small (XXXS)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=56003782541647)
-    Availability: Available
+    Availability: Not Available
     Price: £89.95 GBP
   - [Extra Extra Small (XXS)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790114639)
     Availability: Available
@@ -5257,13 +5257,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-socks-polar-skate-co-side-stripe-business-socks-black-1194680855.jpg?v=1758809282
   Price: £11.95 GBP
-- [Polar Skate Co Checkers Football Scarf | Blue](https://thevinessupply.co/products/polar-skate-co-checkers-football-scarf-blue): Buy the Polar Skate Co Checkers Football Scarf in Blue at The Vines, with fast, premium delivery & easy returns.
-  Updated: 2025-12-16T15:18:06Z
-  Vendor: Polar
-  Product Type: Scarves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-scarves-polar-skate-co-checkers-football-scarf-blue-1194837015.jpg?v=1758894848
-  Price: £24.95 GBP
 - [Polar Skate Co Checkers Football Scarf | Red](https://thevinessupply.co/products/polar-skate-co-checkers-football-scarf-red): Buy the Polar Skate Co Checkers Football Scarf in Red at The Vines, with fast, premium delivery & easy returns.
   Updated: 2025-12-15T11:15:37Z
   Vendor: Polar
@@ -6593,8 +6586,8 @@
   Updated: 2025-12-29T12:16:47Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-29T15:37:33Z
-  Total Products: 5737
+  Updated: 2025-12-29T19:24:41Z
+  Total Products: 5736
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-29T12:16:47Z
   Total Products: 68
@@ -6857,8 +6850,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-29T15:37:53Z
-  Total Products: 3218
+  Updated: 2025-12-29T19:24:41Z
+  Total Products: 3217
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-25T13:50:35Z
   Total Products: 110
