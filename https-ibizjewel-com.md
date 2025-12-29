@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-28T00:01:01.504Z
+- Updated At: 2025-12-29T00:01:01.035Z
 
 ## Products
 
@@ -15414,7 +15414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDE-08_1.jpg?v=1710221138
     Price: $1,499.00 USD
 - [Plain Gold Huggie Earring Valentine Gift](https://ibizjewel.com/products/plain-gold-huggie-earring-valentine-gift): Introducing Our Plain Gold Huggie Earring Valentine Gift - The Perfect Accessory For Your Loved One This Valentine's Day. Made From High-quality Gold Material, These Huggie Earrings Are Stylish, Versatile, And Comfortable To Wear. With Their Sleek Design And Perfect Fit, These Earrings Are Sure To Become A Staple In Any Jewelry Collection.
-  Updated: 2025-10-02T10:30:51Z
+  Updated: 2025-12-28T11:52:14Z
   Vendor: IBIZ Special
   Product Type: Natural Salt And Pepper Earring
   Availability: Available
@@ -17550,7 +17550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPBA-07_5.jpg?v=1710409224
     Price: $1,209.00 USD
 - [Natural Salt and Paper 0.18CT Pear Diamond Brutalist Top Rated Band](https://ibizjewel.com/products/natural-salt-and-paper-0-18ct-pear-diamond-brutalist-top-rated-band): Expertly Crafted, This Natural Salt And Paper 0.18ct Pear Diamond Brutalist Band Is A Top-rated Choice. The Unique Design Features A Pear-shaped Diamond Set In A Rustic, Yet Elegant Band. With A Touch Of Nature And A Touch Of Sophistication, This Band Is Perfect For Those Who Appreciate Quality And Style.
-  Updated: 2025-10-02T10:29:18Z
+  Updated: 2025-12-28T04:01:19Z
   Vendor: Natural Salt And Pepper Diamond Women's Bands
   Product Type: Natural Salt And Pepper Pear Diamond Band
   Availability: Available
