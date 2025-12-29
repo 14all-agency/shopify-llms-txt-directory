@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2025-12-28T00:00:21.294Z
+- Updated At: 2025-12-29T00:00:24.802Z
 
 ## Products
 
@@ -185,6 +185,28 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/image_ba5732b1-01a7-45d7-9eb9-3afb3eeb7080.png?v=1766283633
   Price: $25.99 USD
+- [Custom Acrylic Nightlight - Design Your Own](https://nat20lasercrafts.com/products/custom-acrylic-nightlight-design-your-own): Illuminate your space with our premium custom acrylic nightlights, perfect for gaming rooms, fantasy enthusiasts, and anyone who loves personalized décor. Each nightlight features laser-engraved designs that glow beautifully when lit, creating a warm, magical ambiance. Features: Premium laser-engraved acrylic with crisp, detailed designs Warm LED lighting for a cozy, atmospheric glow Available in multiple sizes and base options 4" models include remote control for easy operation Perfect for bedrooms, gaming setups, or display shelves Custom designs available - bring your fantasy world to life Available Options: 4" Plastic Base - $24.99: Compact and affordable with remote control, perfect for desks and shelves 4" Faux Wood Base - $24.99: Premium wooden base with remote control adds natural warmth and elegance 4" Natural Wood Base - $29.99: Enhanced wooden base option with premium features 6" Wooden Base Premium - $34.99: Large premium quality acrylic for maximum impact and detail Each nightlight is carefully crafted to showcase your custom design with stunning clarity. The warm glow creates the perfect atmosphere for late-night gaming sessions, bedtime reading, or simply adding a touch of magic to your space.
+  Updated: 2025-12-28T16:26:46Z
+  Vendor: Nat 20 Custom Laser Crafts
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/all-four-variants-with-product-photos.png?v=1766882027
+  - [4 inch plastic base](https://nat20lasercrafts.com/products/custom-acrylic-nightlight-design-your-own?variant=47229487743206)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/C9304AC3-3C34-49BB-9C0E-326D5B1AACB6.jpg?v=1766882657
+    Price: $24.99 USD
+  - [4 inch faux wood base](https://nat20lasercrafts.com/products/custom-acrylic-nightlight-design-your-own?variant=47229490430182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/C9304AC3-3C34-49BB-9C0E-326D5B1AACB6.jpg?v=1766882657
+    Price: $24.99 USD
+  - [4 inch natural wood base](https://nat20lasercrafts.com/products/custom-acrylic-nightlight-design-your-own?variant=47229490462950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/0096D65B-2669-4C99-8BE3-B7B1951988AB.jpg?v=1766882657
+    Price: $29.99 USD
+  - [6 inch premium wood base](https://nat20lasercrafts.com/products/custom-acrylic-nightlight-design-your-own?variant=47229490495718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/IMG-7783.heic?v=1766882657
+    Price: $34.99 USD
 
 ## Collections
 
@@ -213,8 +235,8 @@
   Updated: 2025-12-20T20:26:04Z
   Total Products: 10
 - [Custom Laser Engraving Orders - Any Size, Any Material | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/custom-orders-design-your-own): Design your own custom laser-engraved piece! Choose from wood, slate, acrylic, metal in any size. Upload your design or work with us. Premium craftsmanship for unique gifts & décor.
-  Updated: 2025-12-27T12:23:07Z
-  Total Products: 1
+  Updated: 2025-12-28T16:26:47Z
+  Total Products: 2
 - [Pop Culture Laser Engraved Art - Movies, Music, TV | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/pop-culture-icons): Celebrate your favorite pop culture icons with premium laser-engraved art. Movies, music, TV shows & more on wood, slate & metal. Perfect gifts for fans!
   Updated: 2025-12-19T21:42:39Z
   Total Products: 6
