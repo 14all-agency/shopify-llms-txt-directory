@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-29T08:00:29.665Z
+- Updated At: 2025-12-29T12:00:28.598Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -820,7 +820,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/WinterBlueGraySnowflakeAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686182067
   Price: $5.95 USD
 - [Winter Red Gray Snowflake Address Labels - Printable](https://printableplanning.com/products/winter-red-gray-snowflake-address-labels-printable): Printable 8.5" x 11" page of winter red gray snowflake address labels with a red, dark red, and gray snowflake design, and personalized with your return address in gray. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable winter red gray snowflake address labels.
-  Updated: 2025-07-21T19:20:33Z
+  Updated: 2025-12-29T09:21:04Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
@@ -1667,7 +1667,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CuteElephantBlueBackgroundAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686182077
   Price: $5.95 USD
 - [Cute Elephant Green Background Address Labels - Printable](https://printableplanning.com/products/cute-elephant-green-background-address-labels-printable): Printable 8.5" x 11" page of cute elephant green background address labels designed with an adorable gray elephant illustration in a white oval on the left and personalized with your return address in gray over a white area over a green colored background. These labels bring convenience to you by allowing you to update the address as you need (3 lines only), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 3 lines only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 3 address lines only. Edit one label and it updates every label. Print a new page every time you need more printable cute elephant green background address labels.
-  Updated: 2025-07-21T19:20:12Z
+  Updated: 2025-12-29T09:54:49Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
