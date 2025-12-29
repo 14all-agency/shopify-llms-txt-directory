@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-12-23T00:00:42.313Z
+- Updated At: 2025-12-29T00:00:42.600Z
 
 ## Products
 
 - [Jellyfish Mood Lamp LED Color Changing Night Light & Room Decor](https://fusionvibestore.com/products/jellyfish-mood-lamp-led-jellyfish-night-light-portable-jellyfish-lamp-jellyfish-decorations-smart-table-lamp-for-bedside-desk): Create a calming atmosphere! The Julyfish LED mood lamp projects a beautiful aquatic light, perfect for night lights, meditation, or modern home decor. Portable with multiple colors. Shop today. Product Information: Size: 85 * 166mm Specifications: hanging, hanging base Product Name: voice control jellyfish lamp Light color: full-color gradient. Jellyfish lamp number of touching feet: 9 (6 short and 3 long) Charging Interface: Type-C Charging duration: 1.5h Battery capacity: 1000mAh Operating voltage: 5V Packing List: 1*Jellyfish Lamp Product Image:
-  Updated: 2025-10-06T09:56:37Z
+  Updated: 2025-12-27T22:27:07Z
   Vendor: null
   Product Type: Gadgets
   Availability: Available
@@ -41,14 +41,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-12-21T04:43:41Z
+  Updated: 2025-12-27T14:31:14Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5043419837.jpg?v=1757492266
   Price: $12.38 USD
 - [Women's Long Sleeve Casual Dress | Fashion Everyday & Office Wear](https://fusionvibestore.com/products/womens-long-sleeve-fashion-casual-dress): Stay stylish and comfortable. This women's long sleeve casual dress is perfect for everyday wear, the office, or a day out. Flattering fit and versatile design. Shop the collection now. Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
-  Updated: 2025-10-06T09:56:37Z
+  Updated: 2025-12-27T14:27:34Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-12-21T12:28:36Z
+  Updated: 2025-12-28T05:25:56Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-12-09T06:28:32Z
+  Updated: 2025-12-27T14:17:59Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b08e3a55-0f55-442b-8355-85b43df714d4.jpg?v=1758013104
     Price: $47.78 USD
 - [YD03 Wireless Earbuds with Large Screen Case | Bluetooth 5.3 TWS Headphones](https://fusionvibestore.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light): Experience crystal-clear sound! The YD03 TWS earbuds feature a large display case, Bluetooth 5.3, and long battery life. Perfect for music, calls, and gaming. Order your wireless headset now. Specification: Item model number: Yd03 Battery life: 4~5 hours Bluetooth version: 5.3 Transmission distance: Within 10 meters Charging compartment size: 80.8*55*30.7 mm Headphone size: 24* 16.8* 14.5mm Packing list: Earphone*1+usb data cable*1+instruction manual*1
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-12-27T22:27:14Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -344,9 +344,9 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1758013249
     Price: $25.36 USD
 - [3-Piece Cozy Pajama & Lounge Set | Matching Winter Loungewear](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set): Ultimate comfort! This adorable 3-piece pajama set is perfect for lounging or sleeping. Soft, warm, and stylish. Get your matching winter loungewear set today with fast delivery. Specification: Style: a pants suit Top style: vest Top sleeve length: long sleeve Pants style: wide-leg pants Length: trousers Craft: Collage/Stitching Fabric Name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 30%-50% Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 100% Lining composition: polyester fiber (polyester) Lining ingredient content: 100% Color: white, pink, camel Size: S, M, L, XL Package content: 1 x Set 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size is between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose a size, please contact our customer service. 3. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-11-18T16:27:27Z
+  Updated: 2025-12-27T14:06:53Z
   Vendor: z60ja0-0n
-  Product Type: BAGS
+  Product Type: Women Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7e7ba1f9-d353-4868-833f-4cb95f1ca939.jpg?v=1758036889
   - [Black / L](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set?variant=45547605786823)
@@ -446,7 +446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f984af29-004b-4ad7-9cc1-863347f45a1c.jpg?v=1758036902
     Price: $40.46 USD
 - [High-Waisted Seamless Butt-Lifting Shorts | Sexy Ladies' Pants](https://fusionvibestore.com/products/high-waisted-ladies-triangle-seamless-waist-pants-sexy-shorts-with-raised-buttocks): Material information: Get the perfect lift! These high-waisted seamless shorts are designed to enhance your curves. Made with stretchy, comfortable fabric for a sexy, smooth look under any outfit. Free shipping. Size Information: Size: S, XXXL, M-L, XL-XXL S M~L XL~XXL 3XL Waist width 28.01 29.98 31.89 34.09 Waist 26.04 27.94 30.48 31.75 Total length 37.47 30.05 40.54 41.81 Foot circumference 21.36 22.93 24 25.47 Unit: cm 1.Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. P acking list: Waist pants*1
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-12-27T22:27:14Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -564,7 +564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1653352004645.jpg?v=1758038890
     Price: $18.98 USD
 - [Creative Q Sunrise Alarm Clock with Digital Display](https://fusionvibestore.com/products/creative-q-light-analog-sunrise-digital-display-alarm-clock-bluetooth-audio-intelligent-wake-up-q-colorful-atmosphere-light): Wake up naturally! The Creative Q Sunrise Alarm Clock combines a gentle light simulation with a clear digital display. Features a full-spectrum sunrise, FM radio, and customizable sounds. Shop now. Product Image:
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-12-27T22:27:14Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -594,7 +594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/01332ecd-7d2e-4cb5-b901-47edd90100cf.jpg?v=1758616058
     Price: $48.56 USD
 - [Men's And Women's Warm Running Beanie Biking Mountain Climbing Training Sports Cap](https://fusionvibestore.com/products/mens-and-womens-warm-running-beanie-biking-mountain-climbing-training-sports-cap): Product information: Pattern: solid color Applicable scenario: Running Color: black, white, dark gray, light gray, navy blue, sky blue, royal blue, army green, purple, Ocean green, red, Rose Red, camel, brown, orange, yellow, pink, fluorescent green, wine red, army green camouflage, black basketball grid, blue and white grid, red camouflage, blue and gray camouflage, orange camouflage, khaki green grid Fabric: Spandex/Lycra Application scenario: Outdoor Size: average size Applicable gender: neutral/both men and women Inventory Type: whole transaction Applicable age: Adult Style: Sports Packing list: Cap x Light Grey2pcs+Sapphire Blue2PCS+Black2PCS Product Image:
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-12-27T14:01:44Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -636,7 +636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/44aa0790-166e-4590-b544-0badfe026819_fine.jpg?v=1759126335
     Price: $13.78 USD
 - [Fusion Vibe Gift Card](https://fusionvibestore.com/products/fusion-vibe-gift-card): Give the gift of choice! 🎁The Fusion Vibe Gift Card lets your friends and loved ones pick their favorite gadgets and lifestyle products from our store.
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-12-26T08:43:58Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -654,7 +654,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Women Retro Sunglasses](https://fusionvibestore.com/products/women-retro-sunglasses): Product information: Frame material: metal Lens color: grey, tawny Frame color: gold, silver Polarization or not: No Glasses structure: frame Glasses style: round frame
-  Updated: 2025-10-21T16:30:13Z
+  Updated: 2025-12-27T14:00:34Z
   Vendor: FusionVibestore
   Product Type: Sunglasses
   Availability: Available
@@ -716,28 +716,21 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/725992634024.jpg?v=1759341546
     Price: $15.63 USD
 - [5-in-1 Electric Shaver for Men | Rechargeable Beard & Nose Trimmer](https://fusionvibestore.com/products/5-in-1-multifunctional-electric-shaver-5-blade-razor-for-men-shaved-head-rechargeable-shaving-machine-beard-nose-hair-trimmer): Overview： A waterproof design Can be used in the bathroom dry or wet shaving, You can use it with shaving cream, you can put it into the water to clean. Features: This trimmer is a 5-in-1 multifunctional electric shaver. The handle is comfortable to hold and easy to use. Adapt to the contours of your face and neck with a unique 4D rotating floating blade. The 5 floating blades have a larger contact surface and a tighter shaving experience. The appearance is more luxurious, and every shave becomes a perfect facial massage. IPX7 is waterproof and can be used with water, foam, or gel to make it smoother in the shower or even shaving. Comfortable, non-slip, detachable, easy to clean and maintain. USB fast charging, durable. The perfect razor is the best gift for a husband and father. Specification： Material: ABS Power mode:Rechargeable Cleaning method: Body wash Shaver charging time: 8 hours Shaver head: Other heads Maximum power: 3w Color: Black gold Specifications: 1 machine, 5 heads Accessories： Nose hair device head, cleansing instrument head, haircut head + caliper, brush Package Content: 1x Electric shaver CJXFZNZN00269-Black gold set=CJXFZNZN00269-Black gold+ CJXFZNZN00269-Accessories CJXFZNZN00269-Black gold EU Plug set =CJXFZNZN00269-Black gold EU plug + CJXFZNZN00269-Accessories
-  Updated: 2025-10-06T09:56:39Z
+  Updated: 2025-12-27T13:59:35Z
   Vendor: FusionVibestore
   Product Type: Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/756325f6-82dc-4d87-969d-2bd23a02a285.jpg?v=1759342037
   Price: $18.71 USD
-- [12V Kids Electric Ride-On UTV | Remote Control Off-Road Toy Car](https://fusionvibestore.com/products/12v-kids-off-road-utv-electric-ride-on-car-black-camouflage-high-roof-remote-control-lights-mp3-adventure-toys)
-  Updated: 2025-10-06T09:56:39Z
-  Vendor: FusionVibestore
-  Product Type: Toy
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3f8fe164-1b33-4eb3-862e-205b550ef387.jpg?v=1759342689
-  Price: $476.24 USD
 - [1 Set Bedside Table Lamp Touch Control Lamp With Clock Wireless Charging LED Desk Lamp Dimmable Nightstand Reading Lamp](https://fusionvibestore.com/products/1-set-bedside-table-lamp-touch-control-lamp-with-clock-wireless-charging-led-desk-lamp-dimmable-nightstand-reading-lamp): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only,the actual shipping carrier would be depended by the location,address,package dimension, product category, geographic location. *Features*: *Dimmable Touch Sensor Lamp*:Come with a sensitive touch sensor and a dimmer,our touch control lamp offers a much more generous target than a tiny toggle switch. Just tap anywhere on the aluminum frame to alter the light mode(white light–natural light-warm light)or long press the aluminum frame to adjust the brightness steplessly. *Wireless Charging & USB Charging Port*:This bedside table lamp doubles as a wireless charging dock as well as a light source,effectively reducing desktop clutter and keeping cord wrangling to a minimum.10W wireless fast charging greatly saves charging time and is fit for iPhone 13/13 mini/13 Pro/13 Pro Max/iPhone 12/12 mini/12 Pro/12 Pro Max/11/11 Pro/11 Pro Max/XS MAX/XR/XS/X/8/8 Plus and Samsung Galaxy S20/S10 plus and etc.. Besides,the extra 5V 1A charging port makes it compatible with more devices. *Digital Clock*:The digital clock design allows you to check time anytime you want during working,reading,and studying. You can also customize the backlight brightness of the clock according to your own habits. *Eye-friendly*:Flicker-free LED light source ensures visual comfort while reading at night,ideal for office,college dorm,reading room,living room,bedroom and bedside. *Minimalism Decoration*:The stripped-down design could be perfect for those who want to cut down on their desktop clutter or distractions,a sharp way to elevate your living room,bedroom,or office. *Specifications*: Product Type: Table Lamp Color: White + Wood Material: Wood + Aluminum Input: 9V 2A Output: 5V 1A Power: 10W Luminous Flux: 2701lm Color Temperature: 3000K-4500K-6000K Table Lamp Size: 29.8*16*7.8cm/11.7*6.3*3.1in Table Lamp Weight: 0.66lbs USB Charging Cable Length: 102cm/40.2in Package Size: 30.5x17x8.5cm/12x6.69x3.34in Package Weight: 522g/1.15lbs *Package Lists*: 1*Table Lamp 1* USB Charging Cable 1* User Manual
-  Updated: 2025-10-31T07:28:36Z
+  Updated: 2025-12-28T01:56:17Z
   Vendor: FusionVibestore
   Product Type: Gadgets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5be583a0-90fd-4eff-9f5a-86bcf689a869.jpg?v=1759342969
   Price: $50.07 USD
 - [Rechargeable Facial Steamer & Sprayer | At-Home Hydration](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer): Overview: 1.Nano technology: convert water into a large number of water molecules, water quickly penetrates into the bottom layer of the skin and replenishes the skin, make the skin smooth, elastic and tender. 2.Mini size and portable: fill water anytime, anywhere.Foreverlily Larger water tank, 38ML large visible water tank is convenient for water amount observation. 4.2 In 1 function: a facial mister, a skin tester, and a portable power bank. Note: 1. Due to the difference between different monitors, the picture may not reflect the actual color of the item. We guarantee the style is the same as shown in the pictures. 2. Please allow slight dimension differences due to different manual measurements. Specification: Model: v29.v27.v39 Gear position: 1 gear Spray heat: Cold spray Fog time: 121-180 seconds Color: (three in one) test card box white, (three in one) test card box pink, (two in one) V27 card box white, (two in one) V27 card box pink, (two in one) 1) V27 card box type green, (two in one) V27 card box type purple Use body parts: Face, eyes, whole body, nasal cavity Package Content: 1 * Facial Mister 1 * USB 1 * manual 1 * box
-  Updated: 2025-10-06T09:56:39Z
+  Updated: 2025-12-27T13:54:52Z
   Vendor: FusionVibestore
   Product Type: Gadgets
   Availability: Available
@@ -767,7 +760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2903836891585.jpg?v=1759343558
     Price: $15.69 USD
 - [V Back Scrunch Butt Leggings for Women | Seamless Gym & Yoga](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist): Temu platform sheet currently supports: USPS UPS FEDEX UNI Butt lift Leggings: sexy booty leggings for women butt lift, stretchy hips lifting leggings, push up your bum into a juicepeach, leg bottom leggings show your curve gorgeously. High Quality & Garment Care: 90%Polyamide 10%Elastane. Power stretch fit, Naturally breathable, Non see-through. It's made of high quality materials, Great for for your workout gym and casual. Machine wash cold, Do not bleach Stretchy Seamless Leggings: The fabric stretches in all directions, allowing you to move freely without any restrictions. From training to yoga, they are squat proof and truly stay in place during intense workout positions. Moisture wicking, Soft, Smooth, Low-friction and Long-lasting comfortable performance. High Waist: These yoga pants designed with high waistband and tummy control, contour your curves and give you a streamlined look. It offers all the support and compression for your tummy and butt to get back in its original shape. Ultra-supportive but less rubbing and chafing. Applicable Occasions:This leg workout pants can make you perfect for yoga, fitness, dancing, running, pilates, hiking and other sports. You can also use it in your daily life such as work, school, shopping, traveling, party and so on.
-  Updated: 2025-12-12T10:26:56Z
+  Updated: 2025-12-27T13:47:01Z
   Vendor: FusionVibestore
   Product Type: CLOTHING
   Availability: Available
@@ -817,7 +810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99_0a4d2bdb-34a4-452e-8d1d-d6815c056dd9.jpg?v=1759343804
     Price: $18.69 USD
 - [P9 Pro Max Wireless Over-Ear Headphones | Hi-Fi Stereo Bass, ENC Noise Cancelling, Bluetooth 5.4, Gaming & Sports Headset with Mic](https://fusionvibestore.com/products/p9-pro-max-wireless-over-ear-headphones-hi-fi-stereo-bass-enc-noise-cancelling-bluetooth-5-4-gaming-sports-headset-with-mic): Experience immersive sound and next-level comfort with the P9 Pro Max Wireless Headphones. Designed for music lovers and gamers alike, these over-ear headphones deliver Hi-Fi stereo audio with deep bass and Environmental Noise Cancellation (ENC) for clear calls and distraction-free listening. Featuring Bluetooth 5.4 for fast, stable connectivity and a low wireless delay, they are perfect for gaming, movies, and everyday use. With 10–15 hours of playtime and a quick Type-C fast charge (1–3 hours), you’ll enjoy all-day entertainment without interruptions. The touch + button controls, built-in microphone, and LED battery indicator make them easy to use, while the lightweight over-ear design ensures comfort during long listening sessions. ✅ Key Features: Over-ear Hi-Fi stereo headset with dynamic sound Powerful bass & ENC noise cancellation Bluetooth v5.4 with stable wireless connection 10–15 hours battery life, fast Type-C charging LED battery indicator & intuitive touch controls Built-in microphone for hands-free calls Perfect for music, gaming, and sports Upgrade your audio experience with the P9 Pro Max Wireless Headphones – where style meets performance.
-  Updated: 2025-10-06T09:56:39Z
+  Updated: 2025-12-27T13:43:47Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -835,21 +828,21 @@
     Availability: Available
     Price: $28.30 USD
 - [Kalobee SK45 Pro Smart Watch with 3 Straps | 1.53" HD IPS Screen, Waterproof IP68, Bluetooth Calling, Fitness & Health Tracker](https://fusionvibestore.com/products/kalobee-sk45-pro-smart-watch-with-3-straps-1-53-hd-ips-screen-waterproof-ip68-bluetooth-calling-fitness-health-tracker): Stay connected and track your health in style with the Kalobee SK45 Pro Smart Watch. Designed for both men and women, this high-performance smartwatch combines premium materials with advanced features, making it perfect for fitness, work, and everyday use. Equipped with a 1.53” IPS HD display (360×360 resolution), the SK45 Pro offers crystal-clear visuals and a customizable dial interface. With Bluetooth 3.0/5.3 support, you can enjoy hands-free calls, message reminders, and AI voice assistant access right from your wrist. The watch includes multiple health and fitness features such as heart rate monitoring, sleep tracking, calorie tracking, step counting, GPS motion trajectory (via app), and multiple sports modes. With its IP68 waterproof rating, it’s safe for daily use, workouts, and outdoor activities. Its 300mAh battery provides up to 4 days of usage on a single charge, and the magnetic wireless charging ensures quick and hassle-free power-ups. The package includes 3 interchangeable straps (silica gel) for versatile style and comfort. ✅ Key Features: 1.53” IPS HD screen, 360×360 resolution IP68 waterproof design for fitness & daily wear Bluetooth calling, message & notification reminders AI assistant, music control & camera remote Health tracking: heart rate, sleep monitor, calorie & step counter GPS sports tracking (via FitCloudPro app) 300mAh battery with wireless magnetic charging Includes 3 stylish interchangeable straps Supports 20+ languages including English, Hindi, Arabic, Spanish & more Upgrade your lifestyle with the Kalobee SK45 Pro Smart Watch – a perfect mix of fashion, fitness, and functionality.
-  Updated: 2025-10-06T09:56:40Z
+  Updated: 2025-12-27T13:43:06Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_148_H371464a5a4e448c8a843e92c608ae9ffs.jpg_350x350_c7547447-da18-4890-b075-9f435cd6e8d0.jpg?v=1759584396
   Price: $35.98 USD
 - [High-Quality Camouflage Wireless Headphones | Graffiti Style, Bluetooth 5.3, LED Battery Indicator, Gaming & Music Headset with Mic](https://fusionvibestore.com/products/high-quality-camouflage-wireless-headphones-graffiti-style-bluetooth-5-3-led-battery-indicator-gaming-music-headset-with-mic): Add bold style to your music and gaming sessions with the Camouflage Graffiti Wireless Headphones. Built for both performance and looks, these lightweight open-ear headphones deliver dynamic sound with powerful bass—perfect for mobile, PC, or gaming use. Featuring Bluetooth 5.3 for fast, stable connectivity and 30ms low latency, they ensure seamless audio whether you’re gaming, watching movies, or listening to music. With 5–10 hours of playtime, a 200–500mAh battery, and quick Type-C charging (1–3 hours), you’ll never miss a beat. Designed with IPX4 waterproof protection, LED battery indicator, and a stylish graffiti camouflage finish, they’re both durable and eye-catching. The built-in microphone lets you chat clearly during calls or online games, while the adjustable design provides comfort for extended use. ✅ Key Features: Stylish graffiti & camouflage design (5 color options) Bluetooth v5.3 with stable wireless connection 30ms low latency – ideal for gaming 5–10 hours battery life, 200–500mAh capacity LED battery indicator & quick 1–3 hour charging IPX4 waterproof for sweat & splash resistance Dynamic sound with built-in microphone Lightweight ABS construction, durable build Perfect for mobile, PC, and gaming Upgrade your audio style with the Camouflage Graffiti Wireless Headphones – where powerful sound meets street-inspired design.
-  Updated: 2025-10-06T09:56:40Z
+  Updated: 2025-12-28T01:41:48Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_371_H40574c3e309a4245a6a2b55cf679c175Y.png?v=1759594440
   Price: $35.26 USD
 - [Letter Printed Men's Casual Sweater Suit](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit): Product information: Pattern: letter printing Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: Loose Applicable scenarios: Leisure Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's top + pants *1 Product Image:
-  Updated: 2025-10-07T17:14:27Z
+  Updated: 2025-12-26T08:43:58Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -903,7 +896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
     Price: $28.48 USD
 - [Spring And Autumn Long-sleeved White Shirt Formal Wear Slim Fit Business Workwear](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear): Product information: Pattern: solid color Number of threads: 40 Color: gray, navy blue, slabstone gray, white, olive green, light blue, black, Burgundy, royal blue, brown, khaki Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: general Fabric name: four-sided elastic band Applicable scenarios: Leisure Main fabric composition: Cotton Style: light business Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shirt x1 Product Image:
-  Updated: 2025-10-07T17:01:41Z
+  Updated: 2025-12-26T08:43:58Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1109,14 +1102,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-12-22T12:44:52Z
+  Updated: 2025-12-28T15:12:31Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5952737729.jpg?v=1759815705
   Price: $11.00 USD
 - [LEING FST Virtual Laser Keyboard Bluetooth Wireless Projector Phone Keyboard For Computer Pad Laptop With Mouse Function](https://fusionvibestore.com/products/leing-fst-virtual-laser-keyboard-bluetooth-wireless-projector-phone-keyboard-for-computer-pad-laptop-with-mouse-function): Overview: Using a new independent research and development algorithm to deal with the chip A80, the A80 algorithm chip can effectively identify 7 different points at the same time, the change is to better improve the anti-interference of the keyboard, so that the sensitivity and accuracy of the keyboard input are compared. The previous generation has a significant improvement. At the same time, the mouse mode also supports the enlargement and reduction of the picture in the WINDOWS7 system and the recognition of the page turning gesture. Specification 1. White Keyboard name:KB630-M1 Keyboard size: 9cm*4.5cm*5cm Projection size: 10cm*25cm Connection method: USB cable, Bluetooth (imported Bluetooth chip) Battery capacity: 2500mAh(MAX)@3.7V Battery life: 6 hours Main functions: stand function, power bank function, USB cable Direct connection to computer, keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 2. Black Keyboard name: KB560S Keyboard size: 7.8cm*4cm*1.9cm Projection size: 10cm*24cm Connection method: Bluetooth (if there is no Bluetooth, a Bluetooth adapter is required) Battery capacity: 700mAh(MAX)@3.7V Battery life: 120 minutes Main function: keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Recognition rate: 350 words/min Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 Package Content : 1*Laser Keyboard
-  Updated: 2025-10-09T07:25:16Z
+  Updated: 2025-12-28T01:37:53Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
@@ -1142,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1207903256782.jpg?v=1759899171
     Price: $52.00 USD
 - [LED Night Light Folding Book Light USB Port Rechargeable Wooden Magnet  Lamp](https://fusionvibestore.com/products/led-night-light-folding-book-light-usb-port-rechargeable-wooden-magnet-lamp): Features: *Charging easily: Users can charge the book light easily with any USB port devices; *Book Design: The book design light is really a great decoration for home, desk, table, bookcase, ceiling, etc. *Open freely: 360 degree open design, users can open the book at preferred angle; Open-off to change color; *Good durability: DuPont Tyvek delivers unparalleled strength in an ultra-lightweight paper material. *Portable and small, just bring wireless book anywhere you like; *Tender and changing color light on and beautify your life; *Amazing gift for your families, friends, lover etc. NOTE: Open and Close the book to get Color Changing Specifications: Name: led wooden cover book lamp Color: white/warm white Working voltage: 300mA DC5V Battery voltage: 3.7V/2500mA Charge voltage: 5V/500mA Charging time: 5H Working time: 8H Charging status: red light means charging, blue color means done Material: walnut cover/white maple cover + Dupont tear-resistant paper of united states Dimmer: no Book size: 215 * 165* 30mm(L * W * H) Item weight: 375g Package list: 1 * LED Book Light 1 * USB Cable
-  Updated: 2025-10-09T18:56:33Z
+  Updated: 2025-12-27T13:35:19Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1155,86 +1148,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1311429722600.jpg?v=1759992992
     Price: $48.13 USD
-- [Wireless Charger Solar Portable Power Source](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source): Product information: Color: red and black, orange Black, Black green, blue black, black, 2401 orange Black, 2401 green black, 2401 Blue Black, 2401 Black Shell Material: Plastic Function: Solar energy Size: 173*89 * 28mm Packing list: Power Bank X1 Product Image:
-  Updated: 2025-10-09T19:57:35Z
-  Vendor: z60ja0-0n
-  Product Type: Gadgets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b7e58ac6-0fbf-4726-bc0d-72813bf017dc_trans.jpg?v=1759996641
-  - [2401 Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872715463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/08e92155-7fb2-4b37-b58f-b879e67185e3_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872748231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/08e92155-7fb2-4b37-b58f-b879e67185e3_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Blue And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872780999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c58baa54-d23c-4886-b9be-d18d3a5fc505_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Blue And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872813767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c58baa54-d23c-4886-b9be-d18d3a5fc505_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Green And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872846535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/236d5eb4-6c96-41db-86fb-faddfb1f1a90_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Green And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872879303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/236d5eb4-6c96-41db-86fb-faddfb1f1a90_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Orange Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872912071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7b8d2437-9ef3-4991-8263-cce12d988a92_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [2401 Orange Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872944839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7b8d2437-9ef3-4991-8263-cce12d988a92_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Black And Green / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872977607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f59f14dd-7198-42b7-8e62-4dffd0d64bdb_fine.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Black And Green / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873010375)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f59f14dd-7198-42b7-8e62-4dffd0d64bdb_fine.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873043143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/77db3b75-db28-45fd-91fc-65e30d86646e_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873075911)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/77db3b75-db28-45fd-91fc-65e30d86646e_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Blue And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873108679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dc7a207f-5ba7-47b7-acce-7f381df24e70_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Blue And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873141447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dc7a207f-5ba7-47b7-acce-7f381df24e70_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Orange Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873174215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e40cc5c5-f599-4ff8-b1bb-2cf0fcb8eb6e_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Orange Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873206983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e40cc5c5-f599-4ff8-b1bb-2cf0fcb8eb6e_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Red And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873239751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
-    Price: $28.30 USD
-  - [Red And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873272519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
-    Price: $28.30 USD
 - [Portable Mini Thermal Label Printer Home Photo Printer Student Wrong Question Printer Bluetooth-compatible Mini Label Printer Price Tag](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag): Overview: 1. Efficient learning, 200 million free genuine open question banks; The Phomemo T02 series is a mini pocket printer that does not require ink. The independently developed app is more suitable for foreign users' usage habits. The app supports 10 languages (Chinese, Traditional Chinese, English, Japanese, Korean, Thai, French, German, Spanish, Portuguese) suitable for foreign trade styles. Apple iOS, Android download app, mobile Bluetooth link, built-in high-quality lithium battery, easy to carry, capable of printing images, text, errors, and supporting various specifications of label printing Product information: Material: ABS Style: simple and stylish Features: Thermal paper printing Color: white, pink Product size: 87mm×90mm×40mm Connection method: Bluetooth Print type: inkless printing Printing technology: thermal printing Compatible system: Android 4.4/iOS8.0 and above Power supply mode: lithium battery Battery capacity: 1000mAh Model number: Green (including a roll of 1-meter 1 roll of sticky paper ) Pink (including a roll of 1-meter 1 roll of sticky paper) White(including a roll of 1-meter 1 roll of sticky paper) Blue (including a roll of 1-meter 1 roll of sticky paper) Yellow (including a roll of 1-meter 1 roll of sticky paper) All green(including a roll of 1-meter 1 roll of sticky paper) Transparent Printer paper: 3 rolls 50mm*3.5m20 year transparent black letter thermal adhesive Style A: 50mm * 3.5m 10-year white background with black lettering thermosensitive adhesive（ Sticky paper ） Style B: 53mm * 6.5m 5-year-old yellow, pink, and blue background with black lettering on regular thermal paper (nonadhesive) Style C: 50mm * 3.5m 20-year green, purple, orange with black lettering thermosensitive adhesive（Sticky paper） Blue set: Blue printer +4 rolls Sticky paper Green set: Green printer +4 rolls Sticky paper Pink set: Pink printer +4 rolls Sticky paper White set: White printer +4 rolls Sticky paper Yellow set: Yellow printer +4 rolls Sticky paper Size Information: Packing list: Printer*1 Product Image:
-  Updated: 2025-12-20T16:27:06Z
+  Updated: 2025-12-28T01:19:40Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1363,62 +1278,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0761bac7-3a07-49d0-93e3-fcc908da3a7a.jpg?v=1760114372
     Price: $38.89 USD
-- [Halloween Cloak Costumes Wizard Cloak For Children Hooded Capes Mantle Black Party Decoration](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration): Overview: 1. It is all around perfect and of good quality. 2. Unisex Christmas Halloween Witch Party Reversible Hooded Adult Vampire Cape Cloak. 3. Perfect for any dress-up, role play, Halloween photos, costume parties stage costumes, or playing shows. Product Information: Color: black, gold, purple Size: 90cm,120cm,140cm,150cm Material: Satin Craft: Sewing Packing List: Cloak X1 Product Image:
-  Updated: 2025-10-23T03:13:53Z
-  Vendor: z60ja0-0n
-  Product Type: BAGS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4b7adf52-f27b-4859-906b-323bf674a6a7.jpg?v=1760883362
-  - [Black / 120cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617601735)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Black / 140cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617634503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Black / 150cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617667271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Black / 90cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617700039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Gold / 120cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617732807)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Gold / 140cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617765575)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Gold / 150cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617798343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Gold / 90cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617831111)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Purple / 120cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617863879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Purple / 140cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617896647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Purple / 150cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617929415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
-    Price: $12.00 USD
-  - [Purple / 90cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617962183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
-    Price: $12.00 USD
 - [Slim-fitting Casual Suit Dress V-neck Long-sleeved Dresses Commuting Office Clothing For Women](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Fabric name: Chenille Color: Black, a white T-shirt Main fabric composition: Spandex Size: S,M,L,XL,XXL Applicable Gender: Female Applicable age group: Adult Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image:
-  Updated: 2025-10-22T20:55:42Z
+  Updated: 2025-12-28T00:33:25Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1592,7 +1453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-12-21T09:26:41Z
+  Updated: 2025-12-28T00:30:01Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -1642,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f264dab1-adde-45dd-b903-5bcf85f581db.jpg?v=1761758277
     Price: $20.00 USD
 - [2 Units Tank Top and Cami Shaper](https://fusionvibestore.com/products/2-units-tank-top-and-cami-shaper): Overview: The soft shaping effect flattens your tummy and slims your waist for a sleek look. The seamless finish is invisible even under close-fitting garments. Wear your own bra and panty feature that allows you to get the customized fit you want. With the addition of classic color nude, this could be essential basic undercloth. Pair it with pants or skirts for a chic modern women look. Composed of 80% nylon and 20% spandex, which brings more elasticity, durability and no distortion. Specification: Fabric Name: Spandex Main fabric composition: nylon / nylon The content of the main fabric component: 96 (%) Function: Body sculpting Whether or not the clothes are connected: No Length: waist Neckline shape: U-neck Thickness: General Color : khaki, black, white Size: S, M, L, XL, XXL, XXXL S Length 55 cm Suitable for upper bust 75-85 cm M clothing length 56 cm suitable for upper bust 86-95 cm L Length 57 cm Suitable for upper bust 96-102 cm XL garment length 58 cm suitable for upper bust 103-110 cm XXL garment length 61 cm suitable for upper bust 111-120 cm Package Content: 1*Shaper
-  Updated: 2025-12-17T22:09:07Z
+  Updated: 2025-12-27T12:27:50Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1668,14 +1529,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/722065577519.jpg?v=1761758782
     Price: $18.14 USD
 - [1Pc 150PSI Cordless Tire Inflator Digital Air Compressor With LED Light Emergency Power Bank For Cars Motorcycles Bicycles Balls](https://fusionvibestore.com/products/1pc-150psi-cordless-tire-inflator-digital-air-compressor-with-led-light-emergency-power-bank-for-cars-motorcycles-bicycles-balls): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only, the actual shipping carrier would be depended by the location, address, package dimension, product category, geographic location. *Features*: *Fast Inflation*: With a maximum pressure of 150PSI,it takes just a few minutes to pump up a flat tire with this tire inflator. Automatically stop working after completing the air inflation. *4 Inflation Modes*: Long press the Power Button to turn on the cordless tire inflator,short press Mode Button to select preferred modes(Car/Motorcycle/Bicycle/Ball),long press Mode Button to adjust different unit you need,like "PSI","BAR","KPA","KG /CM²" and press "+/-" to choose accurate pressure value. *Digital Display & LED Light*: Equipped with a clear display screen,you can easily check the tire pressure and preset the pressure value. The auto air pump also provides white light to support your inflating needs in low-light environment and red SOS light for seeking help. *Dual Power Supply & Power Bank*: Can be powered by car charger(Not Included) and any device with a USB port. Built-in 4000mAh rechargeable batteries,this portable air compressor can be functioned as an emergency bank to charge your phones,tablets,earphones etc.,which makes you less worried about the low battery condition. *Wide Application*: With 3 inflatable nozzles and 1 inflatable needle,this digital tire inflator is suitable for inflating the tires of cars,bikes,motorbikes,basketballs etc.. Also comes with a carry bag to store the air pump and other accessories. Friendly Reminder: 1.The tire inflator is not a toy,and it is forbidden for children to use it. Please keep a safe distance from children during use. 2.The built-in DC motor may generate electric sparks when working. Please do not use it in a flammable and explosive environment. 3.If abnormal noise or high temperature occurs during work,please turn off immediately. 4.Please confirm the correct measurement unit is selected,otherwise it may cause a tire burst. 5.Do not leave when inflating,and observe the inflation process to prevent the inflation pressure from being too high. 6.Keep the power cord plug away from water. *Specifications*: Product Type: Tire Inflator Material: ABS Color: Black Power Supply: Type-C Charging, Car Charger(Not Included) Built-in Battery: 2Pcs 2000mAh Rechargeable Batteries, 4000mAh In Total(Batteries are not for individual sale) Input: 7.4V/2A Power: 80W Cylinder Specification: 17mm Pressure Units: PSI, KPA, BAR, KG/CM2 Pressure Range: 0.2~10.3bar/3-150psi 4 Inflation Modes: Car, Motorcycle, Bicycle, Ball 3 Light Modes: White Light, Red & Blue Light Slow Flashing, Red Light Fast Flashing 3 Additional Functions: *Used As a 5V/1A Power Bank *Auto Shutoff After Full Air Inflation *Automatically Detect Tire Pressure Status Charging Time: 3-5Hrs Charging Cable Length: 49cm/19.29in Air Tube Length: 20cm/7.87in Carry Bag Size: 14.5×19cm/5.71×7.48in Item Size: 12×8.5×5cm /4.72×3.35×1.97in Item Weight: 379g/0.84 lbs Package Size: 20*20*6cm/7.87*7.87*2.36in Package Weight: 593g/1.31lbs *Package Lists*: 1 x Tire Inflator 1 x Air Tube 1 x Type-C USB Cable 3 x Inflatable Nozzles 1 x Inflatable Needle 1 x Carry Bag 1 x User Manual Actual Product Photo
-  Updated: 2025-11-28T07:27:09Z
+  Updated: 2025-12-27T22:31:11Z
   Vendor: z60ja0-0n
   Product Type: Car Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d572d297-d38d-4bfb-95bd-1c3b93cb674d.jpg?v=1761759074
   Price: $35.25 USD
 - [Irregular Turtleneck Sweater Winter Loose Long Sleeve Knitted Tops Leisure Warm Pullover Sweater Women's Clothing](https://fusionvibestore.com/products/irregular-turtleneck-sweater-winter-loose-long-sleeve-knitted-tops-leisure-warm-pullover-sweater-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Color: light khaki, dark blue Size: S,M,L,XL Version: Loose Style type: temperament commute Popular elements: Threads Style: pullover Thickness: medium Material: Polyester Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: long sleeve Style: intellectual style Process: high temperature stereotypes Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater x1 Product Image:
-  Updated: 2025-10-30T06:18:45Z
+  Updated: 2025-12-27T22:24:45Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1797,7 +1658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/31fb96c3-0fa4-4755-b9de-2c02f3b8d5e0.jpg?v=1761759617
     Price: $32.45 USD
 - [Winter Flowers Lambskin Sweatshirt With Big Pocket Casual Loose Zip-up Lapel Pullover Top Women's Clothing](https://fusionvibestore.com/products/winter-flowers-lambskin-sweatshirt-with-big-pocket-casual-loose-zip-up-lapel-pullover-top-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Flowers Size: S,M,L Style type: street fashion Popular elements: Pocket Style: pullover Sleeve type: conventional sleeve Sleeve length: long sleeve Style: Trendy Material: Polyester Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coatx 1pc Product Image:
-  Updated: 2025-10-30T06:18:34Z
+  Updated: 2025-12-27T22:05:57Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1911,7 +1772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb13ec30-1ed4-4b55-8e2e-89999f93fe9c.jpg?v=1761759818
     Price: $35.45 USD
 - [Winter Fleece Hooded Jacket Fashion Casual Zip-up Pockets Long Sweatshirt Warm Commuter Women's Clothing](https://fusionvibestore.com/products/winter-fleece-hooded-jacket-fashion-casual-zip-up-pockets-long-sweatshirt-warm-commuter-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: letters/numbers/text Color: pink, khaki, blue, green Size: M,L,XL,2XL,3XL Version: Regular Style type: Japanese and Korean casual Combination form: Single piece Popular elements: Other Thickness: thick Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Applicable Gender: Female Applicable age group: Adult Sleeve length: long sleeve Style: casual style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hoodie*1 Product Image:
-  Updated: 2025-12-15T10:27:23Z
+  Updated: 2025-12-27T22:00:59Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2009,7 +1870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3a168b5b-ad62-4fbd-8083-1ac80a50d030.jpg?v=1761760169
     Price: $35.56 USD
 - [Coffee Mug Warmer Warm Coaster Smart Heating Cup Thermal Insulation Constant Temperature Coaster Heating Pad Desktop](https://fusionvibestore.com/products/coffee-mug-warmer-warm-coaster-smart-heating-cup-thermal-insulation-constant-temperature-coaster-heating-pad-desktop): Overview: - Keep your coffee warm all morning long with this sleek coffee warmer plate. hot coffee, tea, hot cocoa, or even a hot mug of soup! - This lightweight warmer can be as a mug warmer for a desk, night table, kitchen island, or living room side table. It's lightweight and stays put on your desk. - Deliver heat than coffee cup warmer products- so your stays warm& amp; tasty. - This sleek mug warmer is THE BEST WAY to keep your drinks warm! Conversion plug SKU: CJSJ1000997 Product Information : Power supply mode: USB Product material: ABS+ metal+electronic components Rated voltage: 5 Rated power: 10W Color: M316 white (medium gauge plug 220V), M316 powder (medium gauge plug 220V), M316 green (medium gauge plug 220V). Note: The product is only a coaster, not a cup Size Information: Product size: 130*110*23mm Packing List: Heating pad *1, instruction manual *1
-  Updated: 2025-10-30T06:25:17Z
+  Updated: 2025-12-27T21:38:48Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -2051,7 +1912,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4a0458fd-94db-4454-b50b-110fa939e32b.jpg?v=1761760315
     Price: $19.39 USD
 - [Men's Long Sleeve Shirt With Button Casual Solid Color Tops For Spring Autumn](https://fusionvibestore.com/products/mens-long-sleeve-shirt-with-button-casual-solid-color-tops-for-spring-autumn): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product Information: Style: Cardigan Style details: color matching Main fabric component: cotton Size information: Size（cm） Bust Shoulder Length S 108 47.5 76 M 114 49 77 L 120 50.5 78.5 XL 126 52 80 2XL 134 54 81.5 3XL 142 56 83 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's shirt *1 Picture: Actual Product Photo
-  Updated: 2025-10-30T06:32:58Z
+  Updated: 2025-12-27T09:54:55Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2257,7 +2118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be842fd6-efa5-4c06-8327-3496d045024d.jpg?v=1761760873
     Price: $18.34 USD
 - [Ins Halter Split Long Dress Summer Slim Fit Backless Dresses Solid High-end Women's Clothing](https://fusionvibestore.com/products/ins-halter-split-long-dress-summer-slim-fit-backless-dresses-solid-high-end-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Skirt type: hip skirt Color: black, green Waist type: high waist Style type: private clothing socialite Combination form: Single piece Skirt length: long skirt Popular elements: zipper Style: Basic Fabric name: Polyester Sleeve type: sleeveless Main fabric composition: Polyester (polyester fiber) Sleeve length: sleeveless Skirt Category: Dress Style: Socialite style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress X1PC Product Image:
-  Updated: 2025-10-30T06:35:36Z
+  Updated: 2025-12-28T01:38:58Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2295,7 +2156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b60a7f71-4ffb-4765-ae01-cbadc8541209.jpg?v=1761760978
     Price: $20.34 USD
 - [Y2K Tube-top Short Dress Summer Sexy Pleated Tight Dresses For Womens Clothing](https://fusionvibestore.com/products/y2k-tube-top-short-dress-summer-sexy-pleated-tight-dresses-for-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: white, yellow, green, pink, black Elasticity: Micro elasticity Main fabric composition: viscose fiber Size: S,M,L,XL Skirt length: short skirt Craft: mercerizing Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: DressX1 Product Image:
-  Updated: 2025-10-30T07:18:01Z
+  Updated: 2025-12-28T00:27:17Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2380,8 +2241,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b5fb5d65-1ea7-449c-a6a7-842220ce39af.jpg?v=1761761239
     Price: $20.34 USD
-- [One-shoulder Ribbon Long Dress Ins Fashion Slim Sleeveless Dresses For Evening Party Club Clothing Women](https://fusionvibestore.com/products/one-shoulder-ribbon-long-dress-ins-fashion-slim-sleeveless-dresses-for-evening-party-club-clothing-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Skirt type: hip skirt Color: black, light apricot-colored Size: S,M,L Style type: private clothing socialite Popular elements: Ribbon Style: pullover Fabric name: Polyester Style: sexy style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's dress x1pc Product Image:
-  Updated: 2025-10-30T06:12:34Z
+- [One-Shoulder Ribbon Long Dress – Slim Fit Sleeveless Evening Party & Club Dress for Women](https://fusionvibestore.com/products/one-shoulder-ribbon-long-dress-ins-fashion-slim-sleeveless-dresses-for-evening-party-club-clothing-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Skirt type: hip skirt Color: black, light apricot-colored Size: S,M,L Style type: private clothing socialite Popular elements: Ribbon Style: pullover Fabric name: Polyester Style: sexy style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's dress x1pc Product Image:
+  Updated: 2025-12-28T02:27:18Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2574,8 +2435,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/479a20e7-042d-46b4-9574-6f721a728f4d.jpg?v=1761761562
     Price: $25.23 USD
-- [Summer V-neck Short-sleeved Dress Fashion Flowers Printed Slim Beach Dresses For Women Clothing](https://fusionvibestore.com/products/summer-v-neck-short-sleeved-dress-fashion-flowers-printed-slim-beach-dresses-for-women-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Printing Skirt-type: One-Step skirt Color: green Waist Type: Mid waist Size: S,M,L,XL,2XL,3XL Style type: temperament commute Combination form: Single piece Skirt length: mid-length skirt Popular elements: contrast color Style: Basic Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: short sleeve Skirt Category: Dress Style: Elegant style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image: Actual Product Photo
-  Updated: 2025-10-30T06:43:46Z
+- [Summer V-Neck Short Sleeve Floral Printed Slim Beach Dress for Women](https://fusionvibestore.com/products/summer-v-neck-short-sleeved-dress-fashion-flowers-printed-slim-beach-dresses-for-women-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Printing Skirt-type: One-Step skirt Color: green Waist Type: Mid waist Size: S,M,L,XL,2XL,3XL Style type: temperament commute Combination form: Single piece Skirt length: mid-length skirt Popular elements: contrast color Style: Basic Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: short sleeve Skirt Category: Dress Style: Elegant style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image: Actual Product Photo
+  Updated: 2025-12-28T02:27:18Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2653,7 +2514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/54277e40-6e72-42b1-ace1-fbbf488b4ed5.jpg?v=1761761675
     Price: $20.20 USD
 - [Summer V-neck Single-breasted Fly-sleeve Women's Shirt Dresses With Elegant Splicing Stripe Printing Beach Style Dress](https://fusionvibestore.com/products/summer-v-neck-single-breasted-fly-sleeve-womens-shirt-dresses-with-elegant-splicing-stripe-printing-beach-style-dress): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: black, yellow, green Waist type: high waist Size: S,M,L,XL Skirt length: short skirt Fabric name: Polyester Sleeve type: Flight sleeve Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Dress Product Image:
-  Updated: 2025-10-30T11:48:53Z
+  Updated: 2025-12-27T20:42:18Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2690,8 +2551,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6d028f52-13bd-47b8-b335-f2399d4a5f15.jpg?v=1761762339
     Price: $18.98 USD
-- [Elegant Women's Hollow Floor V-neck Long-sleeved Plant Dress Long Dresses Spring Summer Print V-neck Long Sleeve Dress](https://fusionvibestore.com/products/elegant-womens-hollow-floor-v-neck-long-sleeved-plant-dress-long-dresses-spring-summer-print-v-neck-long-sleeve-dress): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information： Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 71%-80% Main fabric composition 2 polyester fiber: (polyester) The content of main fabric ingredient 2: 10%-29% Lining composition: polyester fiber (polyester) Lining ingredient content: 10% or less Fabric name: Chiffon Size Information： Size：S, M, L, XL, XXL Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list ： skirt*1
-  Updated: 2025-10-30T07:39:12Z
+- [Elegant Women’s Hollow Floor-Length V-Neck Long Sleeve Printed Dress – Spring Summer Maxi Dress](https://fusionvibestore.com/products/elegant-womens-hollow-floor-v-neck-long-sleeved-plant-dress-long-dresses-spring-summer-print-v-neck-long-sleeve-dress): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information： Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 71%-80% Main fabric composition 2 polyester fiber: (polyester) The content of main fabric ingredient 2: 10%-29% Lining composition: polyester fiber (polyester) Lining ingredient content: 10% or less Fabric name: Chiffon Size Information： Size：S, M, L, XL, XXL Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list ： skirt*1
+  Updated: 2025-12-27T20:37:07Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2841,7 +2702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/af36928e-2389-4c85-9c40-c1de02c1516f.jpg?v=1761762441
     Price: $19.30 USD
 - [Irregular Long Dress With Belt Fashion And Elegant Button Lapel Long-sleeved Shirt Dresses Daily Office Commuting Clothing For Women](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Skirt type: asymmetric skirt Color: black, khaki, white, navy blue Waist type: high waist Skirt length: mid skirt Popular elements: folding and splicing Style: Basic Fabric name: Polyester Sleeve type: regular sleeve Sleeve length: long sleeve Skirt Category: Dress Style: Elegant style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-11-15T07:10:57Z
+  Updated: 2025-12-27T20:32:39Z
   Vendor: FusionVibeStore™
   Product Type: Women Clothing
   Availability: Available
@@ -2943,7 +2804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
     Price: $32.65 USD
 - [No Awkward Line Peach Butt Yoga Pants High Waist Tummy Control Running Sports Leggings](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings): 82.5 polyester 17.5 spandex
-  Updated: 2025-12-19T06:27:12Z
+  Updated: 2025-12-27T20:29:33Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2969,7 +2830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
     Price: $30.45 USD
 - [High-stretch Dresses, New Summer Nude Anti-walking Sports Dresses](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses): 82.5 polyester 17.5 spandex
-  Updated: 2025-11-29T09:28:30Z
+  Updated: 2025-12-27T20:20:46Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2994,8 +2855,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
     Price: $28.78 USD
-- [Sports Yoga Jumpsuit Sleeveless Quick-drying Thread Tight Fit Fitness One-piece Yoga Suit](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit): 90 nylon 10 spandex q
-  Updated: 2025-11-29T09:28:30Z
+- [Sports Yoga Jumpsuit Sleeveless Quick-Dry Tight Fit One-Piece Fitness Wear for Women](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit): Upgrade your workout wardrobe with this Sleeveless Sports Yoga Jumpsuit, designed to move with your body and keep you comfortable all day. Crafted from high-stretch, quick-dry fabric, this one-piece fitness suit offers a snug yet breathable fit that enhances your natural shape while providing maximum flexibility. Perfect for yoga, gym workouts, pilates, running, dance, or athleisure wear, the seamless threaded design ensures a smooth, sculpted look without irritation. The moisture-wicking technology keeps sweat away, making it ideal for high-intensity sessions or all-day comfort. Whether you’re stretching on the mat or styling it casually with sneakers and a jacket, this jumpsuit delivers performance, comfort, and style in one sleek outfit. ✨ Key Features Sleeveless design for full freedom of movement Quick-dry & sweat-wicking fabric Tight fit for a sculpted, flattering silhouette Soft, breathable & stretchable material One-piece design – no slipping or adjusting Ideal for yoga, gym, fitness, running & daily wear 📌 Material & Fit Fabric: Premium stretch blend Fit: Tight / Body-hugging Style: Athletic & modern Season: All-season wear 🎯 Why You’ll Love It ✔ Enhances curves✔ Comfortable for long workouts✔ Trendy athleisure look✔ Easy to style & maintain q
+  Updated: 2025-12-27T20:16:58Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3013,7 +2874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
     Price: $30.45 USD
 - [Ladies' Mid-length Solid Color Belt Coat, Casual Commuting Elegant Versatile Autumn And Winter Outerwear, Stand Collar Single-button Long Sleeve Coat.](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat): Composition:100.0% Polyester;
-  Updated: 2025-12-15T02:27:04Z
+  Updated: 2025-12-28T01:40:02Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3035,7 +2896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b314b35c-77ae-425b-a8d0-9e2950133966_9298f789-611a-4a95-afb2-4ee38cd91eb5.jpg?v=1763535390
     Price: $23.36 USD
 - [Ins French Lantern Sleeve Shirt Fashion Button Lapel Long Sleeved Tops Casual Women's Clothing](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Fabric name: Polyester Color: pink, white, black Version: Loose Style: Casual Size: S,M,L,XL,2XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Ladies' shirt *1 Product Image:
-  Updated: 2025-11-19T22:34:50Z
+  Updated: 2025-12-27T08:13:43Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3101,7 +2962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90e23bbe-a048-45ef-940e-31f69a2d2849.jpg?v=1763536741
     Price: $18.78 USD
 - [European and American new long-sleeved ruffled shirt](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt): Main fabric composition: polyester fiber (polyester) unit：cm 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know,the different computers display colors differently,the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-17T22:24:01Z
+  Updated: 2025-12-27T08:09:31Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3307,7 +3168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2043237951614.jpg?v=1763538051
     Price: $18.45 USD
 - [Flowers Lace Long Sleeve Top Y2K Fashion Slim Bottoming Shirt Top Women's Clothing](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: white, black Main fabric composition: Polyester (polyester fiber) Style: slim fit Applicable Gender: Female Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's top *1 Product Image:
-  Updated: 2025-11-19T19:50:14Z
+  Updated: 2025-12-27T08:03:11Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -3361,7 +3222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1d0b5ad8-b96e-4aa1-b000-7a30a5da3c6e.jpg?v=1763538614
     Price: $18.45 USD
 - [Fashion Long-sleeved Lapel Pullover Shirt Casual Loose Solid Color T-shirt Tops Women's Clothing](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Size: S,M,L,XL,XXL Version: Loose Style: pullover Main fabric composition: Cotton Sleeve length: 3/4 sleeve Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shirt X1pcs Product Image:
-  Updated: 2025-11-19T20:09:28Z
+  Updated: 2025-12-27T08:00:02Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -3495,7 +3356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
     Price: $18.45 USD
 - [Simple And Stylish, Elegant Commuting Jumpsuit, Long Sleeve Straight Jumpsuit, V-neck, Cross Pleated, Tie-up Casual Jumpsuit, For Everyday Wear.](https://fusionvibestore.com/products/simple-and-stylish-elegant-commuting-jumpsuit-long-sleeve-straight-jumpsuit-v-neck-cross-pleated-tie-up-casual-jumpsuit-for-everyday-wear): Composition:95% Polyester;5% Elastane;
-  Updated: 2025-12-15T02:26:59Z
+  Updated: 2025-12-27T07:57:44Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3509,7 +3370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d8bae5d7-ea21-4e6a-a55d-7d64566b6711_16d8eef1-2ad3-451b-91c0-0ad9031d0086.jpg?v=1763540115
     Price: $18.45 USD
 - [Drone F168 Brushless Optical Flow Obstacle Avoidance Aerial Photography Quadcopter Long-Endurance Remote Control](https://fusionvibestore.com/products/drone-f168-brushless-optical-flow-obstacle-avoidance-aerial-photography-quadcopter-long-endurance-remote-control): Drone F168 Brushless Optical Flow Obstacle Avoidance Aerial Photography Quadcopter Long-Endurance Remote Control Aircraft
-  Updated: 2025-12-17T18:17:29Z
+  Updated: 2025-12-27T07:56:33Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -3523,7 +3384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/238ef47c-4ced-4b80-b03d-02973ebc228e.jpg?v=1763541655
     Price: $45.60 USD
 - [S116 Brushless Drone With Four-Way Obstacle Avoidance, HD Aerial Photography, Optical Flow Positioning, Remote Control, Long Battery Life](https://fusionvibestore.com/products/s116-brushless-drone-with-four-way-obstacle-avoidance-hd-aerial-photography-optical-flow-positioning-remote-control-long-battery-life): S116 Brushless Drone with Four-Way Obstacle Avoidance, HD Aerial Photography, Optical Flow Positioning, Remote Control, Long Battery Life
-  Updated: 2025-11-19T23:30:19Z
+  Updated: 2025-12-27T07:55:36Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -3541,7 +3402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/71a29876-a740-4a88-9086-06dbe0426531.jpg?v=1763541850
     Price: $43.67 USD
 - [E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control](https://fusionvibestore.com/products/e99-drone-quadcopter-dual-camera-hd-aerial-photography-remote-control): E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control Aircraft
-  Updated: 2025-12-17T05:48:51Z
+  Updated: 2025-12-28T04:27:04Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
@@ -3555,14 +3416,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/896d501f-228d-4661-8804-6c446bbcd340.jpg?v=1763546149
     Price: $35.45 USD
 - [LU60 Drone First Choice For Entry-levelFearless Of Complex Scenes](https://fusionvibestore.com/products/lu60-drone-first-choice-for-entry-levelfearless-of-complex-scenes): First choice for entry-levelFearless of complex scenes
-  Updated: 2025-12-17T05:47:16Z
+  Updated: 2025-12-27T07:54:05Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e6795cc1-e529-4b8e-922d-0031a652b9e4.jpg?v=1763546282
   Price: $36.78 USD
 - [Women's Fashion Printed Short Sleeve Dress](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress): Product information: Fabric name: polyester Color: green Sleeve type: regular sleeve Main fabric composition: polyester (polyester fiber) Size: S, M, L, XL Skirt length: midi skirt Sleeve length: short sleeve Skirt category: dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
-  Updated: 2025-12-17T18:14:36Z
+  Updated: 2025-12-27T07:53:22Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3588,7 +3449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
     Price: $18.45 USD
 - [Elegant And Chic Women's Sequined Lapel Jumpsuit](https://fusionvibestore.com/products/elegant-and-chic-womens-sequined-lapel-jumpsuit): Product information: Color: Red, magenta, black, white, reddish-brown, blue Stretch: Non-stretch Size: S, M, L, XL, 2XL, 3XL Style Category: Elegant women's casual wear Fashion Element: Belt Style: A-line Thickness: Thin Fabric Name: Polyester Sleeve Style: Regular Target Audience: Teenagers, young adults, millennials, middle-aged individuals Main Fabric Composition: Polyester Pants Style: Straight-leg Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Jumpsuit x 1 Product Image:
-  Updated: 2025-12-17T05:18:37Z
+  Updated: 2025-12-27T07:52:24Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3738,7 +3599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/445ce9c1-8a04-4463-9ac2-dcb1f7f73dba_fine.jpg?v=1765376803
     Price: $30.35 USD
 - [Fashionable Price-adjusted Lace-up Slim-fit Printed Dress](https://fusionvibestore.com/products/fashionable-price-adjusted-lace-up-slim-fit-printed-dress): Product information: Skirt Style: A-line skirt Colors: Leopard print, black Waist Style: High waist Sizes: 1XL, 2XL, 3XL, 4XL, 5XL How to Style: Worn as a standalone piece Skirt Length: Mid-length Trendy Element: Lace-up details Design: Strapless Fabric Name: Knitted fabric Sleeve Style: Sleeveless Main Fabric Composition: Polyester fiber Sleeve Length: Sleeveless Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-12-17T05:18:10Z
+  Updated: 2025-12-27T07:48:19Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3764,7 +3625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b941731e-946b-4b08-985e-75e9a42f51bd.jpg?v=1765377789
     Price: $22.34 USD
 - [Solid-color Dress Halter-neck Midi Skirt](https://fusionvibestore.com/products/solid-color-dress-halter-neck-midi-skirt): Product information: Skirt Style: A-line skirt Waist Style: High waist Sizes: L, XL, 2XL, 3XL, 4XL How to Style: Worn as a standalone piece Skirt Length: Mid-length Design: Basic style Sleeve Style: Raglan sleeve Main Fabric Composition: Polyester fiber Sleeve Length: Short sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-12-17T18:06:14Z
+  Updated: 2025-12-27T07:47:02Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3870,7 +3731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/69b7f60c-3aa1-4aac-9c9a-053701f30b93.jpg?v=1765378507
     Price: $22.45 USD
 - [Women's Solid-Color Casual Elegant Slip Dress](https://fusionvibestore.com/products/womens-solid-color-casual-elegant-slip-dress): Product information: Pattern: Solid color Skirt style: Bodycon skirt Color: Burgundy Waist style: Mid-rise Sizes: S, M, L, XL Skirt length: Maxi length Material: Polyester Skirt category: Dress Style: Elegant Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1PC Product Image:
-  Updated: 2025-12-16T06:14:28Z
+  Updated: 2025-12-27T07:44:41Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3892,14 +3753,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
     Price: $22.34 USD
 - [Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool](https://fusionvibestore.com/products/electronic-cordless-pedicure-callus-dead-skin-remover-polishing-tool): Product Name: Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool Package Contains: It has 1 Pack of Electronic Pedicure ToolMaterial: PlasticSize: 19cm x 3.5cmColor: As Per Availability Combo: Pack of 1Weight: 400 gmAbout this item: Featuring remarkable polishing effect, this foot file is suitable for smoothing out rough skin and dead skin on the feet. Indisputable that it is easy to use because the product is with the adoption of minimalistic feature.
-  Updated: 2025-12-22T23:42:31Z
+  Updated: 2025-12-28T09:12:36Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5016979406.jpg?v=1765634993
   Price: $8.00 USD
 - [SK45 Pro Smart watch for Men Women High 3 Straps Screen Waterproof IP68 BT Call](https://fusionvibestore.com/products/sk45-pro-smart-watch-for-men-women-high-3-straps-screen-waterproof-ip68-bt-call): 📱 SK45 Pro – New Watch 5 Smart Smartwatch Upgrade your everyday lifestyle with the SK45 Pro New Watch 5 Smartwatch — a sleek, feature-packed wearable that blends style, health tracking, and connectivity in one premium device. 🔥 Key Features:• 1.53″ AMOLED/HD Touchscreen Display – Bright, vibrant visuals and easy navigation make every interaction smooth and intuitive. Manuals+• All-Day Health Monitoring – Track your heart rate, blood oxygen (SpO2), sleep quality, body temperature, and stress levels directly from your wrist. Manuals+• Fitness & Sports Tracking – Built-in activity tracking with steps, distance, calories and multiple sports modes helps you stay motivated and on track. Manuals+• Bluetooth Calling & Smart Alerts – Pair with your phone to make/receive calls, get notifications for messages and apps, and stay connected without reaching for your phone. Manuals+• GPS & Motion Tracking – Accurately track outdoor workouts and routes via GPS when connected to the companion app. Manuals+• Everyday Smart Tools – Includes music control, camera remote, alarm, calendar, compass and more for added convenience. Manuals+• IP68 Waterproof Rating – Durable enough for daily wear, workouts, and rainy conditions (not suitable for swimming). Manuals+• Long-Lasting Battery – Up to several days of battery life on a single charge keeps you going longer between charges. Manuals+ 🎨 Design & Comfort:Modern and stylish with a slim body design and interchangeable straps — the watch pairs effortlessly with both casual and formal looks. Manuals+ 📲 Compatibility:Works with most Android and iOS devices through the FitCloudPro app, bringing your health & fitness data together in one place. Manuals+
-  Updated: 2025-12-18T00:46:26Z
+  Updated: 2025-12-27T07:42:50Z
   Vendor: alibaba
   Product Type: watch
   Availability: Available
@@ -3913,7 +3774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/Hd77a8940706540e9bca25c5b07dbfd96b.jpg?v=1765974233
     Price: $29.25 USD
 - [VERSACE - Eros Flame Eau De Parfum Spray](https://fusionvibestore.com/products/versace-eros-flame-eau-de-parfum-spray): A woody spicy fragrance for self-confident menCrisp, sweet, warm, sensual, complex & alluringTop notes of Italian citruses, black pepper & rosemaryMiddle notes of pepperwood, geranium & rose Base notes of woods, tonka & vanillaLaunched in 2018Suitable for evening or colder seasons wear 8011003845330
-  Updated: 2025-12-22T18:10:52Z
+  Updated: 2025-12-27T07:40:53Z
   Vendor: Versace
   Product Type: Beauty & Health - Fragrances - Mens Cologne
   Availability: Available
@@ -3927,7 +3788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/25125086605_1z1scot.jpg?v=1766069256
     Price: $126.25 USD
 - [VERSACE - Eros Eau De Parfum Spray](https://fusionvibestore.com/products/versace-eros-eau-de-parfum-spray): A floral woody fragrance for contemporary womenCrisp, bright, sensual, feminine & voluptuousTop notes of Sicilian lemon, Calabrian bergamot & pomegranate accordsHeart notes of lemon, sambac jasmine absolute, jasmine & peonyBase notes of sandalwood, ambrox, musk & woody accords 8011003823529
-  Updated: 2025-12-20T06:09:48Z
+  Updated: 2025-12-27T07:37:49Z
   Vendor: Versace
   Product Type: Beauty & Health - Fragrances - Perfume
   Availability: Available
@@ -3944,6 +3805,332 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/19178886606_4YCdKcF.jpg?v=1766069259
     Price: $111.25 USD
+- [Love Hug Necklace Unisex Men Women Couple Jewelry Simple Temperament Clavicle Chain Valentines Day Lover Gift](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift): ❤️ Love Hug Necklace – Symbol of Affection & Togetherness Celebrate your connection with this Love Hug Necklace, a meaningful and stylish piece designed for couples, men, and women. Crafted with care and attention to detail, this unisex clavicle chain blends simplicity with heartfelt emotion — making it the perfect gift for Valentine’s Day, anniversaries, birthdays, or just because. CJdropshipping+1 ✨ Key Features: Symbolic “Hug” Design – The pendant depicts an embrace that represents love, warmth, and togetherness — a beautiful way to show how much you care. goeverz.com High-Quality Brass Material – Durable, lightweight, and comfortable for daily wear, with a lasting polished finish. CJdropshipping Unisex & Versatile – Simple, elegant style suitable for both men and women. Perfect for matching couple looks. goeverz.com Adjustable Fit – Features a 40 cm chain with a 5 cm extension, so it fits comfortably on a variety of neck sizes. CJdropshipping Ready to Gift – Individually packaged and available in multiple color options to suit personal style and preference. Afarly Product Specs: Material: Brass Pendant Height: Approx. 3 cm Chain Length: 40 + 5 cm (adjustable) Packaging: Individually packed Style: Simple, unisex, emotion-inspired design CJdropshipping Whether worn alone for everyday elegance or shared as matching couple jewelry, this necklace is a timeless reminder of affection — making it a meaningful addition to any jewelry collection. =
+  Updated: 2025-12-27T07:36:21Z
+  Vendor: z60ja0-0n
+  Product Type: Jwellery
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1852736627589.jpg?v=1766742461
+  - [Black](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910063303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/325562715341.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Gold](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910096071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/469828b5-4b04-4f19-bb3e-b18bbb1fd257.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Silver](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910128839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2534684883418.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black gold](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910161607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ee3b4752-c12d-4669-ad88-49d6083e0308.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black gold set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910194375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/96ff2653-a1e6-4eaa-a7bd-84254db9963d.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black gold set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910227143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/41dcdd70-0dc0-4b44-8b24-f99de34b67c3.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910259911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/812d0af6-6473-4d40-ac02-715779fc8803.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910292679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/334ac28d-578d-4e6e-8143-053bad3f5562.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black2](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910325447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/110383671240.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black2 set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910358215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66620cbd-74bf-499a-a942-5c3bbe02bfbc.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Black2 set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910390983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cd276774-f941-4fb4-b602-839b7c24406f.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Color](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910423751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/14af3664-31e9-4353-8111-ffba18a03f05.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Color set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910456519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cd9faedd-c119-42e0-96dd-e2856d0ac81d.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Color set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910489287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5f31ffeb-16c2-4f48-9787-80ae85c287e7.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Gold 2pcs](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910522055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4c873072-c71b-4e67-9980-ac5d544d34dc.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Gold 3pcs](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910554823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb72ce14-0e03-4e3e-a732-071493dee33d.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Gold Silver set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910587591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0c8c7f8f-ae79-4778-b05d-3d97149a1406.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Gold set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910620359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/380a3605-6d00-4314-aebd-fda84b1cb058.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Gold set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910653127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/722e4379-bff2-403a-b006-a3336f29aa57.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Rose gold](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910685895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/25558379-b2df-4c75-87fe-88f77219d4ff.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Rose gold set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910718663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e7ee9397-7ce0-4590-b6c6-1ca80b1aa21b.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Rose gold set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910751431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/df41e4f3-5bbe-4998-9cf6-d7002b9cad20.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Silver 2pcs](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910784199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/19aa9239-3ecd-4051-9a27-27e3de295a05.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Silver 3pcs](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910816967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6d263e88-c852-426a-a379-5a53b9575876.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Silver set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910849735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/beda93db-d5e5-4807-b810-41d72ef8efb4.jpg?v=1766742477
+    Price: $8.56 USD
+  - [Silver set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910882503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1dea1500-1192-4066-9c75-a8fd0ffb3bd1.jpg?v=1766742477
+    Price: $8.56 USD
+  - [White black](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910915271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35a17b7c-ab86-4a50-a34d-7abe02af0a2a.jpg?v=1766742477
+    Price: $8.56 USD
+  - [White black set](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910948039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/93dae03e-0a19-4c56-9e24-c83296eb1e8a.jpg?v=1766742477
+    Price: $8.56 USD
+  - [White black set1](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift?variant=45985910980807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1e927255-a3a5-4e5e-bbdc-6fcba79fabe2.jpg?v=1766742477
+    Price: $8.56 USD
+- [Loose Striped Pullover Sweater Fashion Versatile Long-sleeved Knitted Tops For Women Clothing](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing): Elevate your casual wardrobe with this stylish Loose Striped Pullover Sweater — the perfect blend of comfort and chic design. Featuring a relaxed, loose fit and timeless striped pattern, this long-sleeved knitted top offers both fashion and versatility. It’s made from soft, quality cloth that feels comfortable all day, with a pullover style that’s easy to wear and style. Available in blue, army green, gray, and pink with sizes S, M, and L to suit different body types. Ideal for everyday outings, work, or a cozy weekend look. Pattern: Stripes/Plaid Style: Pullover, Loose Fit Material: Soft knitted cloth (“Deer plush”) Colors: Blue, Army Green, Gray, Pink Sizes: S, M, L Perfect for: Casual wear, layering, cooler days Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater * 1 Product Image:
+  Updated: 2025-12-27T07:30:33Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f1892c6b-8412-4e09-bf64-126c53f97a4d.jpg?v=1766744261
+  - [Army Green / L](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936048327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6a09df03-74d6-4577-b9f2-8c5df1895e4d.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Army Green / M](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936081095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6a09df03-74d6-4577-b9f2-8c5df1895e4d.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Army Green / S](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936113863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6a09df03-74d6-4577-b9f2-8c5df1895e4d.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Blue / L](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936146631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3bb90a04-1263-4bfd-a949-c3e6457803cf.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Blue / M](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936179399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3bb90a04-1263-4bfd-a949-c3e6457803cf.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Blue / S](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936212167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3bb90a04-1263-4bfd-a949-c3e6457803cf.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Gray / L](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936244935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9a0cdd8e-3f8a-4975-aa0a-a432f027ac72.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Gray / M](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936277703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9a0cdd8e-3f8a-4975-aa0a-a432f027ac72.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Gray / S](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936310471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9a0cdd8e-3f8a-4975-aa0a-a432f027ac72.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Pink / L](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936343239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb98fc85-7573-45c3-94cd-33190deb641b.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Pink / M](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936376007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb98fc85-7573-45c3-94cd-33190deb641b.jpg?v=1766744267
+    Price: $20.45 USD
+  - [Pink / S](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing?variant=45985936408775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb98fc85-7573-45c3-94cd-33190deb641b.jpg?v=1766744267
+    Price: $20.45 USD
+- [Chic Split Knitted V-Neck Fleece Maxi Dress – Winter Party & Clubwear](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing): Elevate your winter wardrobe with this Chic Split Knitted V-Neck Fleece Maxi Dress — a perfect blend of cozy warmth and stylish elegance. Crafted from high-quality knit fabric with soft fleece lining, this long maxi dress offers both comfort and sophistication for evening parties, club nights, date nights, or any cold-weather event. Featuring a flattering V-neckline and stylish button details with a side split, it adds a touch of contemporary fashion to classic winter wear. Designed to hug your silhouette while giving you freedom of movement, this maxi dress promises a figure-flattering fit that’s perfect for showcasing with heels or boots. Whether you’re stepping out for a night on the town or styling it for everyday chic, this versatile piece is a winter wardrobe essential you’ll reach for again and again. Key Features:✔ Soft knitted material with fleece warmth✔ Elegant V-neck design for a flattering neckline✔ Button-front detail with stylish side split✔ Maxi length for a sleek winter silhouette✔ Perfect for parties, evening events, and club nights Style Tip: Pair with boots and bold accessories for an unforgettable winter look! Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: DRESS*1 Product Image:
+  Updated: 2025-12-27T16:11:47Z
+  Vendor: z60ja0-0n
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0b5b1595-2b8b-4a35-8358-07975a3cd3fe.jpg?v=1766808702
+  - [White / S](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987233824967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2d368bd6-7f2d-4af7-ac35-f124d3211696.jpg?v=1766808707
+    Price: $88.12 USD
+  - [White / M](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987233857735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2d368bd6-7f2d-4af7-ac35-f124d3211696.jpg?v=1766808707
+    Price: $88.12 USD
+  - [White / L](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987233890503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2d368bd6-7f2d-4af7-ac35-f124d3211696.jpg?v=1766808707
+    Price: $88.12 USD
+  - [White / XL](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987233923271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2d368bd6-7f2d-4af7-ac35-f124d3211696.jpg?v=1766808707
+    Price: $88.12 USD
+  - [White / XXL](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987233956039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2d368bd6-7f2d-4af7-ac35-f124d3211696.jpg?v=1766808707
+    Price: $88.12 USD
+  - [White / XXXL](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987233988807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2d368bd6-7f2d-4af7-ac35-f124d3211696.jpg?v=1766808707
+    Price: $88.12 USD
+  - [Pink / S](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987234021575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5542ca05-600f-4eee-87da-19f7447d2d06.jpg?v=1766808707
+    Price: $88.12 USD
+  - [Pink / M](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987234054343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5542ca05-600f-4eee-87da-19f7447d2d06.jpg?v=1766808707
+    Price: $88.12 USD
+  - [Pink / L](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987234087111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5542ca05-600f-4eee-87da-19f7447d2d06.jpg?v=1766808707
+    Price: $88.12 USD
+  - [Pink / XL](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987234119879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5542ca05-600f-4eee-87da-19f7447d2d06.jpg?v=1766808707
+    Price: $88.12 USD
+  - [Pink / XXL](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987234152647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5542ca05-600f-4eee-87da-19f7447d2d06.jpg?v=1766808707
+    Price: $88.12 USD
+  - [Pink / XXXL](https://fusionvibestore.com/products/chic-split-knitted-dress-with-buttons-design-winter-v-neck-fleece-maxi-dresses-evening-party-club-fashion-womens-clothing?variant=45987234185415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5542ca05-600f-4eee-87da-19f7447d2d06.jpg?v=1766808707
+    Price: $88.12 USD
+- [Portable Glass Alcohol Fireplace Lamp – Modern Indoor & Outdoor Decor](https://fusionvibestore.com/products/portable-glass-decorative-alcohol-fireplace-table-lamp-desktop-indoor-modern-metal-fireplaces-black-white-portable-real-fire-fireplace-lamp-outdoor): Ignite warmth and elegance in any room with this Portable Glass Decorative Alcohol Fireplace Table Lamp — a modern blend of ambiance and style that transforms ordinary spaces into cozy retreats. Crafted with high-quality glass and a sleek metal frame, this tabletop fireplace delivers a stunning real flame experience without smoke, soot, or complex installation. Perfect for living rooms, patios, desks, or outdoor gatherings, it adds style and comfort to every corner of your home. This compact fireplace lamp runs on clean-burning alcohol fuel, offering a mesmerizing flame that enhances evening dinners, chill nights with friends, or peaceful solo moments. Its portable design lets you take the charm anywhere — from indoor décor to outdoor evenings under the stars. Key Features:• Stylish glass & metal construction for modern décor• Real flame ambiance with clean-burning alcohol fuel (fuel not included)• Portable tabletop design for flexible placement• Ideal for indoor and outdoor use• Perfect gift or décor accent for homes, offices, patios Elevate your space with warmth, light, and contemporary elegance — no chimney or complex setup required. This fireplace lamp is the perfect fusion of form and function for modern living Product Image: Actual Product Photo
+  Updated: 2025-12-27T16:19:54Z
+  Vendor: z60ja0-0n
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/42ab28c7-d6cf-44fb-838e-26bd88defd62.jpg?v=1766809190
+  - [Black / 16x27cm](https://fusionvibestore.com/products/portable-glass-decorative-alcohol-fireplace-table-lamp-desktop-indoor-modern-metal-fireplaces-black-white-portable-real-fire-fireplace-lamp-outdoor?variant=45987252404423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d94d46b0-8e99-46b8-aebb-d6be61c13053.jpg?v=1766809196
+    Price: $35.67 USD
+  - [Black / Small](https://fusionvibestore.com/products/portable-glass-decorative-alcohol-fireplace-table-lamp-desktop-indoor-modern-metal-fireplaces-black-white-portable-real-fire-fireplace-lamp-outdoor?variant=45987252437191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90afc141-e3bd-4513-8332-8fa0a6d4adab.jpg?v=1766809196
+    Price: $35.67 USD
+  - [Black / large](https://fusionvibestore.com/products/portable-glass-decorative-alcohol-fireplace-table-lamp-desktop-indoor-modern-metal-fireplaces-black-white-portable-real-fire-fireplace-lamp-outdoor?variant=45987252469959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f100eb84-c7e4-41d1-b0c4-8675ea74e18e.jpg?v=1766809196
+    Price: $35.67 USD
+  - [White / Small](https://fusionvibestore.com/products/portable-glass-decorative-alcohol-fireplace-table-lamp-desktop-indoor-modern-metal-fireplaces-black-white-portable-real-fire-fireplace-lamp-outdoor?variant=45987252502727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b1f44d07-98fb-4356-87eb-c05ce4e19f58.jpg?v=1766809196
+    Price: $35.67 USD
+  - [White / large](https://fusionvibestore.com/products/portable-glass-decorative-alcohol-fireplace-table-lamp-desktop-indoor-modern-metal-fireplaces-black-white-portable-real-fire-fireplace-lamp-outdoor?variant=45987252535495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4903ca8-72b8-439e-a6ac-adad6e5aeca6.jpg?v=1766809196
+    Price: $35.67 USD
+- [Leopard Print Sweatshirt Fashion Casual V-neck Long-sleeved Pullover Top Women's Commuting Clothing](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product Information: Thickness: moderate Sweater Technology: Knitting Combination form: single-piece Style: lightly cooked Style: Hedging Edition type: Slim type Sleeve length: long sleeve Popular elements: leopard print, stitching Length of dress: ordinary style (50cm＜length of dress≤65cm) Craft: collage/splicing Size Information: Size: S, M, L, XL Precautions: 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images. Packing List: Long sleeve top*1 Product Image:
+  Updated: 2025-12-27T16:23:46Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304428.jpg?v=1766809412
+  - [Black / L](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258269895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304139.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Black / M](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258302663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304139.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Black / S](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258335431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304139.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Black / XL](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258368199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304139.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Blue / L](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258400967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304141.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Blue / M](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258433735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304141.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Blue / S](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258466503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304141.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Blue / XL](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258499271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304141.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Grey / L](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258532039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304135.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Grey / M](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258564807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304135.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Grey / S](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258597575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304135.jpg?v=1766809417
+    Price: $20.34 USD
+  - [Grey / XL](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258630343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304135.jpg?v=1766809417
+    Price: $20.34 USD
+  - [White / L](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258663111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304146.jpg?v=1766809417
+    Price: $20.34 USD
+  - [White / M](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258695879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304146.jpg?v=1766809417
+    Price: $20.34 USD
+  - [White / S](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258728647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304146.jpg?v=1766809417
+    Price: $20.34 USD
+  - [White / XL](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing?variant=45987258761415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304146.jpg?v=1766809417
+    Price: $20.34 USD
 
 ## Collections
 
@@ -3954,26 +4141,38 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-12-13T12:23:28Z
-  Total Products: 20
+  Updated: 2025-12-27T13:58:17Z
+  Total Products: 17
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
-  Updated: 2025-10-29T18:27:30Z
-  Total Products: 15
+  Updated: 2025-12-27T09:17:22Z
+  Total Products: 14
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-10-22T11:17:24Z
-  Total Products: 11
+  Updated: 2025-12-27T13:58:17Z
+  Total Products: 9
 - [Men](https://fusionvibestore.com/collections/men)
   Updated: 2025-10-29T17:11:35Z
   Total Products: 0
 - [Women](https://fusionvibestore.com/collections/women)
-  Updated: 2025-12-11T08:03:38Z
-  Total Products: 19
+  Updated: 2025-12-27T08:41:37Z
+  Total Products: 23
 - [car accessories](https://fusionvibestore.com/collections/car-accessories)
-  Updated: 2025-10-29T17:30:04Z
-  Total Products: 0
+  Updated: 2025-12-27T10:31:02Z
+  Total Products: 1
 - [SHOES](https://fusionvibestore.com/collections/shoes)
   Updated: 2025-12-18T15:31:07Z
   Total Products: 0
+- [Jewellery](https://fusionvibestore.com/collections/jewellery)
+  Updated: 2025-12-26T09:48:03Z
+  Total Products: 1
+- [Winter clothes](https://fusionvibestore.com/collections/winter-clothes)
+  Updated: 2025-12-27T07:04:37Z
+  Total Products: 2
+- [Watches](https://fusionvibestore.com/collections/watches)
+  Updated: 2025-12-26T11:15:27Z
+  Total Products: 1
+- [PERFUME FRAGRANCES](https://fusionvibestore.com/collections/perfume-fragrances)
+  Updated: 2025-12-27T07:39:43Z
+  Total Products: 1
 
 ## Store Pages
 
