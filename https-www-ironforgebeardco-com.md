@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-29T12:00:24.583Z
+- Updated At: 2025-12-29T16:00:24.877Z
 
 ## Products
 
@@ -147,7 +147,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/NPA02948.jpg?v=1766690783
   Price: $19.25 USD
 - [Beard Trimmer Wahl](https://www.ironforgebeardco.com/products/beard-trimmer-wahl): If you are looking for household appliances at the best prices, don't miss the Beard Trimmer Wahl and a wide selection of small household appliances! Type: Wireless Characteristics: On/Off switch LED in operation indicator Battery operated (2 x AA, not included) On/off interrupter LED indicator Battery operated (2 AA, included) Precision: Adjustable 9 levels 0,7 mm-1,2 cm Type of plug: Plug EU Product with plug: Yes Battery type: AA Colour: Black Silver Material: Steel Power supply: Battery Batteries included: Yes Rechargeable: No Weight: 240 g POWERFUL CUTTING: thanks to precision-ground self-sharpening high carbon-steel blade setIDEAL FOR TRAVELING: world-wide use due to battery operationACCESSORIES: 5 position variable attachment comb for cutting lengths from 2 to 12 mm and 3 attachment combs for stubble (1.5 mm), medium (3 mm) and full beard (4,5 mm)INCLUDING: nose and ear hair trimmer Product colour: Silver Number of length steps: 9 Minimum hair length: 0.7 mm Maximum hair length: 1.2 cm Cutter width: 3 cm On/off switch: Y LED indicators: Y Power source: AC/Battery Rechargeable: N
-  Updated: 2025-12-28T07:24:06Z
+  Updated: 2025-12-29T13:24:11Z
   Vendor: Wahl
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -196,12 +196,12 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/81731-BLNK-OE-05-07-BCS-BC1.webp?v=1766713207
   Price: $21.55 USD
 - [Beeswax Beard Balm](https://www.ironforgebeardco.com/products/beeswax-beard-balm): Beeswax Beard Balm with Lime and Bay Rum Oil: Nourish Your Beard, Tame the Wild🧔 Tame your majestic beard and embark on a journey of grooming excellence with our Beeswax Beard Balm enriched with the invigorating scents of lime and bay rum oil. Experience the perfect blend of nature's finest ingredients, crafted to moisturise your beard, replenish its natural oils, and ensure unrivalled softness and manageability.Key Ingredients for Beard Perfection:🐝 Premium Beeswax: The heart of our beard balm, beeswax, offers a firm yet flexible hold, taming unruly whiskers with ease. It seals in moisture, giving your beard a polished and well-groomed appearance.🍋 Lime Oil: Zesty and refreshing, lime oil invigorates your senses and leaves a subtle, uplifting aroma in your beard. Its astringent properties help cleanse the skin beneath your beard, preventing clogged pores and promoting a healthy beard foundation.🌴 Bay Rum Oil: Revel in the warm, exotic scent of bay rum oil, reminiscent of tropical shores. This aromatic oil not only provides an alluring fragrance but also contains natural antimicrobial properties, promoting a fresh and clean beard environment.🍃 Moisturising Butters and Oils: Rich shea butter and nourishing coconut oil combine to deeply moisturise and condition your beard, combating dryness and preventing itchiness.Benefits for Your Bearded Majesty:1. 💧 Intense Hydration: Our beeswax beard balm is a moisture powerhouse, effectively combating beard dryness, flakiness, and itchiness, leaving your beard irresistibly soft and touchable.2. 💈 Tame the Unruly: Embrace a well-groomed appearance with our balm's firm yet flexible hold. Tame flyaways and shape your beard effortlessly, all while maintaining a natural look.3. 🧔 Soothing and Nourishing: Say goodbye to beard itch and irritation. Our balm's natural ingredients soothe the skin beneath your beard, promoting a comfortable and healthy beard-growing experience.4. 🌿 Natural Oil Replacement: Beeswax, combined with shea butter and coconut oil, mimics the natural oils produced by your skin, replenishing what's lost during cleansing and beard care.5. 🍋 Zesty Freshness: The invigorating scent of lime oil refreshes your senses, providing a burst of energy to kickstart your day.6. 🌴 Exotic Appeal: Indulge in the alluring scent of bay rum oil, transporting your senses to sun-kissed tropical shores.Crafting the Ultimate Beard Balm:🌱 Our Beeswax Beard Balm is meticulously crafted with a commitment to quality and the finest natural ingredients. We ensure that every tin delivers the nourishment and grooming prowess your beard deserves.🐝 Ethical Sourcing: We take pride in ethically sourcing our beeswax, ensuring the well-being of bees and the environment.Embrace the Bearded Elegance:With our Beeswax Beard Balm, your beard will radiate a captivating charm, reflecting your dedication to grooming excellence. Unleash your beard's true potential as it becomes a testament to the power of nature's finest ingredients. Embrace the softness, the alluring scent, and the unrivalled manageability of a beard that's truly fit for a king. 👑🧔
-  Updated: 2025-12-28T14:15:30Z
+  Updated: 2025-12-29T14:15:16Z
   Vendor: More Bees Please
   Product Type: Aftershave Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/beard-balm.jpg?v=1766713306
-  Price: $10.41 USD
+  Price: $10.39 USD
 - [WOOD AND SPICE beard balm 300 ml](https://www.ironforgebeardco.com/products/wood-and-spice-beard-balm-300-ml): PRORASO's YELLOW beard balm is specially designed to alleviate the discomfort associated with the early stages of beard growth. It provides hydration and comfort as your beard develops. With an aromatic blend of cedar and guaiac wood, it also carries a gentle hint of amber. The soothing touch of vanilla adds to the enriching experience, ensuring your facial hair feels nurtured and cared for.Ingredientes: Aqua (Water/ Eau), Polysorbate 40, Dicaprylyl Ether, Glycerin, Polyquaternium-37, Parfum (Fragrance), Caprylyl Glycol, Phenoxyethanol, Benzyl Alcohol, Eucaplyptus globulus Leaf Oil, Ethylhexylglycerin, Menthol, Tocopheryl Acetate, Citric Acid, Alpha-Isomethyl Ionone, Limonene, Coumar.
   Updated: 2025-12-27T20:03:30Z
   Vendor: Proraso
