@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-29T00:00:42.048Z
+- Updated At: 2025-12-29T04:00:24.732Z
 
 ## Products
 
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $97.99 USD
 - [The Ultimate Men's Grooming & Relaxation Bundle – Beard Care, Electric Shaver, and Massage Gun](https://www.ironforgebeardco.com/products/the-ultimate-mens-grooming-relaxation-bundle-beard-care-electric-shaver-and-massage-gun): Master the art of grooming and unwind in style with the Ultimate Men's Grooming & Relaxation Bundle. Featuring the Pursonic Beard Care Kit, Mario Lopez Men's Rechargeable Electric Shaver, and Pursonic 3-Speed Cordless Massage Gun, this bundle combines precision grooming with powerful relaxation tools to keep you looking and feeling your best. Perfect for self-care or as a thoughtful gift for any man who values both style and comfort. Bundle Includes: 1. Pursonic Beard Care Grooming Kit (4 Pieces) Achieve the perfect beard with this all-in-one set designed to nourish, style, and maintain your facial hair. Beard Oil (30ml): Deeply moisturizes and nourishes with vitamin E and golden jojoba oil for a smooth, healthy beard. Beard Balm (60g): Shapes and holds your beard while adding a natural shine for all-day style. Beard Serum (30ml): Cleanses and hydrates to prevent dryness, itching, and clogged pores. Beard Comb: Tame and style with ease for a polished look. 2. Pursonic – Mario Lopez Men’s Rechargeable Electric Shaver Upgrade your shaving routine with advanced technology for a close and comfortable shave. 3D Floating Blades: Adjust to facial contours for precise, irritation-free shaving. Double Ring Knife Net: Covers more surface area for efficient, faster shaving. 60-Minute Runtime & Quick Charge: Long-lasting performance with a 5-minute quick charge for last-minute touch-ups. Washable Blades: Easy to clean for hygiene and convenience. 3. Pursonic 3-Speed Cordless & Rechargeable Professional Massage Gun Relax and recover with targeted muscle relief using this versatile massage gun. 3 Speed Settings: Tailor your massage from gentle relaxation to deep tissue therapy. 3 Attachments: Round head for large muscles, bullet head for pinpoint targeting, and flat head for all-over relief. Quiet & Portable: Whisper-quiet motor and ergonomic design for use at home, the gym, or on the go. Rechargeable Battery: Long-lasting power for uninterrupted relaxation sessions. Why Choose the Ultimate Men’s Grooming & Relaxation Bundle? Complete Grooming & Wellness Solution: A comprehensive set for head-to-toe care. Premium Quality & Performance: High-grade materials and advanced features for lasting results. Perfect Gift Idea: Treat yourself or surprise a loved one with this thoughtfully curated bundle. Transform your grooming routine and recovery experience with this all-in-one package of style and relaxation. Order now and step into your best version of comfort and confidence.
-  Updated: 2025-12-28T00:33:26Z
+  Updated: 2025-12-29T00:32:06Z
   Vendor: Pursonic
   Product Type: Shaver
   Availability: Available
@@ -346,7 +346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/fFzP2NeXGa.png?v=1766804460
   Price: $29.99 USD
 - [Authentic Beard Oil](https://www.ironforgebeardco.com/products/authentic-beard-oil): Keep your beard from feeling like fire by introducing our beard oil into your grooming routine. This perfect blend of herbaceous lavender and citrusy top notes gives you the warmth of a peppery and musky aroma. With a ginger, sweet orange-like woody base, this formula softens facial hair while relieving uncomfortable itchiness. Look fresh and feel confident when you embrace your beards full potential with our beard oil.As you grow, our special oil combinations feed your skin to supplement the important balance of nutrients that beard hair needs to grow. Dry patches? Solved. The amount of beard oil used will vary by length of beard, personal preference, diet / water intake as well as environmental conditions. If you feel dry, use some beard oil!2 fl oz / 59 ml Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Piper Nigrum (Black Pepper) Seed Oil, Boswellia Carterii (Frakincense) Oil, Citrus Paradisi (Grapefruit) Seed Extract, Lavandula Angustifolia (Lavender) Oil, Curcuma Longa (Turmeric) Root Oil
-  Updated: 2025-12-27T03:00:08Z
+  Updated: 2025-12-29T03:06:29Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -354,7 +354,7 @@
   - [Cap Only](https://www.ironforgebeardco.com/products/authentic-beard-oil?variant=47032340381949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/OCyALJw6BD.png?v=1766804407
-    Price: $27.99 USD
+    Price: $22.99 USD
   - [Cap & Pump](https://www.ironforgebeardco.com/products/authentic-beard-oil?variant=47032340414717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/3cd8tyALt2.png?v=1766804408
