@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-09-16T11:08:05Z
 - Contact Email: EleganceifyStore@outlook.com
-- Updated At: 2025-12-28T00:00:27.801Z
+- Updated At: 2025-12-29T00:00:28.160Z
 
 We offer a curated selection of jewelry, leather handbags, and jackets aimed at stylish modern woman who appreciate unique designs and artisanal quality.
 
@@ -7033,7 +7033,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/265843e3-1bb0-40ae-8963-759d43961109-Max-Origin.webp?v=1766074863
     Price: $29.98 USD
 - [Stylish Crisscross Cutout Striped One-Piece Swimwear](https://eleganceify.com/products/fam-fam-crisscross-cutout-striped-one-piece-swimwear): This stylish crisscross cutout striped one-piece swimwear is a must-have for any fashion-forward woman.
-  Updated: 2025-12-26T13:44:28Z
+  Updated: 2025-12-28T04:07:42Z
   Vendor: Eleganceify
   Product Type: Swimwear
   Availability: Available
@@ -7403,7 +7403,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/73b2c1e6-b450-46f4-b7ab-8373669295db-Max.webp?v=1766071911
     Price: $29.00 USD
 - [Double-Strap Tied : Swim Dress](https://eleganceify.com/products/double-strap-tied-swim-dress): One Piece Swimdress with ruched front panel slims the silhouette, helps define the waist, also shape your body and make you look more slimming.
-  Updated: 2025-12-25T08:52:21Z
+  Updated: 2025-12-28T07:07:51Z
   Vendor: Eleganceify
   Product Type: Swimwear
   Availability: Available
@@ -7441,7 +7441,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/a66f36066a114090a70f014160fd80e9-Max.jpg?v=1766071971
     Price: $39.00 USD
   - [Dark Navy / XL](https://eleganceify.com/products/double-strap-tied-swim-dress?variant=52693435744563)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/a66f36066a114090a70f014160fd80e9-Max.jpg?v=1766071971
     Price: $39.00 USD
   - [Dark Navy / 2XL](https://eleganceify.com/products/double-strap-tied-swim-dress?variant=52693435777331)
@@ -7603,7 +7603,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/72c1a5c175344199b83c17c753dfd72d-Max.jpg?v=1766072292
     Price: $23.00 USD
 - [Drawstring Ruched : Swim Shorts - ꫀꪶꫀᧁꪖꪀᥴꫀ ꠸ꪀᥴ..](https://eleganceify.com/products/drawstring-ruched-swim-shorts): Show Off Make a splash in these stylish Drawstring Ruched Swim Shorts! With a drawstring ruched waist, you'll look and feel bold and daring.
-  Updated: 2025-12-27T16:24:32Z
+  Updated: 2025-12-28T12:24:09Z
   Vendor: Eleganceify
   Product Type: Swimwear
   Availability: Available
@@ -7637,7 +7637,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/b316fd61578a4339bbeffd0a7182aa9e-Max.jpg?v=1766072376
     Price: $29.00 USD
   - [Black / L](https://eleganceify.com/products/drawstring-ruched-swim-shorts?variant=52693461565747)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/b316fd61578a4339bbeffd0a7182aa9e-Max.jpg?v=1766072376
     Price: $29.00 USD
   - [Black / XL](https://eleganceify.com/products/drawstring-ruched-swim-shorts?variant=52693461598515)
@@ -7803,7 +7803,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/40964db15a294c418de52953a96752f4-Max-Origin.webp?v=1766072612
     Price: $77.62 USD
 - [Patent Leather Platform : High Heel Boots - ꫀꪶꫀᧁꪖꪀᥴꫀ ꠸ꪀᥴ..](https://eleganceify.com/products/patent-leather-platform-high-heel-boots): Despite their high heel, Patent Leather Platform High Heel Boots are surprisingly comfortable to wear. The cushioned insole and platform heel provide support.
-  Updated: 2025-12-22T21:20:36Z
+  Updated: 2025-12-28T17:25:35Z
   Vendor: Eleganceify
   Product Type: High Heels
   Availability: Available
@@ -11818,7 +11818,7 @@ We offer a curated selection of jewelry, leather handbags, and jackets aimed at 
     Image: https://cdn.shopify.com/s/files/1/0832/6768/2611/files/2b6421f7-6e19-4364-bed5-d6df982ec30f-Max-Origin.webp?v=1766085108
     Price: $49.95 USD
 - [Smocked Printed : Wide Leg Jumpsuit](https://eleganceify.com/products/smocked-printed-wide-leg-jumpsuit): This smocked printed wide leg jumpsuit is the perfect combination of comfort and style. Made from soft and breathable fabric.
-  Updated: 2025-12-27T03:14:12Z
+  Updated: 2025-12-28T07:23:58Z
   Vendor: ꫀꪶꫀᧁꪖꪀᥴꫀ꠸ᠻꪗ..
   Product Type: Women's Fashion - Women's Clothing - Jumpsuits
   Availability: Available
