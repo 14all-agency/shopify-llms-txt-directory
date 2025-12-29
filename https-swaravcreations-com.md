@@ -8,38 +8,38 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-12-26T00:00:40.654Z
+- Updated At: 2025-12-29T00:00:40.449Z
 
 ## Products
 
 - [Eternal Love Knot Necklace - Timeless Jewelry by Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish): Eternal Love Knot Necklace in white or yellow gold finish. A timeless symbol of everlasting love, perfect for meaningful romantic gifting.
-  Updated: 2025-12-17T04:30:36Z
+  Updated: 2025-12-28T13:39:46Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4379_transformation_12044.png?v=1762182319
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Eternal_Love_Necklace_3.png?v=1766887419
   - [14K White Gold Finish / Standard Box](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish?variant=46961861361920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4379_transformation_12044.png?v=1762182319
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4379_transformation_12044.png?v=1766887331
     Price: $59.99 CAD
   - [18K Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish?variant=46961861427456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4378_transformation_12018.png?v=1762182357
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4378_transformation_12018.png?v=1766887331
     Price: $69.99 CAD
 - [Forever Love Necklace – Luxury Box | Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish): Forever Love Necklace in a luxury gift box with white or yellow gold finish. A timeless symbol of love, perfect for romantic gifting.
-  Updated: 2025-12-17T04:29:41Z
+  Updated: 2025-12-27T18:48:29Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989__1_review.png?v=1764454506
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Forever_Love_Necklace_1.png?v=1766818102
   - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish?variant=46963772948736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1764454506
-    Price: $84.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1766818102
+    Price: $74.99 CAD
   - [18k Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish?variant=46963773014272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1583_transformation_13451.png?v=1764454506
-    Price: $94.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1583_transformation_13451.png?v=1766818102
+    Price: $89.99 CAD
 - [🌸 Alluring Beauty Necklace | Standard Box | Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Alluring Beauty Necklace in white or yellow gold finish. A timeless, elegant piece that adds charm and sophistication to any outfit.
   Updated: 2025-12-17T04:28:38Z
   Vendor: Swarav Creations
@@ -97,18 +97,18 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4349_transformation_11645.png?v=1762183026
     Price: $64.99 CAD
 - [Interlocking Hearts Necklace – Timeless Gift of Eternal Love for Her](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love): Interlocking hearts necklace symbolizing eternal love and unbreakable bonds. A meaningful gift for anniversaries, birthdays, or romantic moments.
-  Updated: 2025-12-17T04:24:37Z
+  Updated: 2025-12-27T15:00:24Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4384_transformation_12046.png?v=1762183172
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/rn-image_picker_lib_temp_3df6db07-011f-41e2-8f84-dddb99712ac5.png?v=1766804414
   - [14k White Gold Finish / Standard Box](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love?variant=47034027966720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4384_transformation_12046.png?v=1762183172
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4384_transformation_12046.png?v=1766804414
     Price: $59.99 CAD
   - [18K Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love?variant=47034028032256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4383_transformation_12045.png?v=1762183193
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4383_transformation_12045.png?v=1766804414
     Price: $69.99 CAD
 - [Baby Feet Heart Necklace – Adorable Pendant to Cherish Every Step](https://swaravcreations.com/products/baby-feet-heart-necklace-shop-224701-2544): Baby feet heart necklace designed to celebrate precious milestones. A meaningful keepsake and heartfelt gift for new parents, baby showers, or anniversaries.
   Updated: 2025-12-17T04:23:32Z
@@ -220,101 +220,101 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4979_transformation_16643.png?v=1762183931
     Price: $69.99 CAD
 - [Personalized Zodiac Sign Necklace – Perfect Gift for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452): Personalized Zodiac Sign Necklace customized for every star sign. A meaningful astrology gift, perfect for birthdays, anniversaries, or special moments.
-  Updated: 2025-12-17T22:14:59Z
+  Updated: 2025-12-27T19:13:01Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_5975_transformation_18306.png?v=1762184393
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Zodiac_Necklace_-_Aries_1.png?v=1766819573
   - [Polished Stainless Steel / Standard Box / Aries](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893206272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_5975_transformation_18306.png?v=1762184393
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_5975_transformation_18306.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Taurus](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893271808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6507_transformation_18321.png?v=1762184515
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6507_transformation_18321.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Gemini](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893337344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6511_transformation_18311.png?v=1762184594
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6511_transformation_18311.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Cancer](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893402880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6515_transformation_18313.png?v=1762184679
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6515_transformation_18313.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Leo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893468416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6519_transformation_18305.png?v=1762184760
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6519_transformation_18305.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Virgo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893533952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6523_transformation_18338.png?v=1762184840
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6523_transformation_18338.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Libra](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893599488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6527_transformation_18318.png?v=1762184920
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6527_transformation_18318.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Scorpio](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893665024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6531_transformation_18340.png?v=1762185008
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6531_transformation_18340.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Sagittarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893730560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6535_transformation_18328.png?v=1762185105
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6535_transformation_18328.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Capricorn](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893796096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6539_transformation_18332.png?v=1762185184
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6539_transformation_18332.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Aquarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893861632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6543_transformation_18344.png?v=1762185261
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6543_transformation_18344.png?v=1766819573
     Price: $54.99 CAD
   - [Polished Stainless Steel / Standard Box / Pisces](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893927168)
     Availability: Available
     Price: $54.99 CAD
   - [Gold Finish / Standard Box / Aries](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053893992704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6505_transformation_18304.png?v=1762184457
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6505_transformation_18304.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Taurus](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894058240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6509_transformation_18309.png?v=1762184556
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6509_transformation_18309.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Gemini](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894123776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6513_transformation_18324.png?v=1762184636
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6513_transformation_18324.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Cancer](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894189312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6517_transformation_18326.png?v=1762184718
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6517_transformation_18326.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Leo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894254848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6521_transformation_18336.png?v=1762184802
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6521_transformation_18336.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Virgo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894320384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6525_transformation_18316.png?v=1762184878
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6525_transformation_18316.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Libra](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894385920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6529_transformation_18320.png?v=1762184966
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6529_transformation_18320.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Scorpio](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894451456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6533_transformation_18342.png?v=1762185049
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6533_transformation_18342.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Sagittarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894516992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6537_transformation_18330.png?v=1762185147
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6537_transformation_18330.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Capricorn](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894582528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6541_transformation_18334.png?v=1762185223
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6541_transformation_18334.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Aquarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894648064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6545_transformation_18348.png?v=1762185300
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6545_transformation_18348.png?v=1766819573
     Price: $69.99 CAD
   - [Gold Finish / Standard Box / Pisces](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894713600)
     Availability: Available
@@ -420,18 +420,18 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_explainer_1029_transformation_3015.png?v=1762186090
     Price: $79.99 CAD
 - [Love Knot Necklace & Earring Set – 14K White Gold | Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set): Love Knot Necklace & Earring Set in 14K white gold by Swarav Creations. A timeless, elegant jewelry gift that symbolizes love and connection.
-  Updated: 2025-12-17T21:38:34Z
+  Updated: 2025-12-28T12:38:29Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3745_transformation_10887.png?v=1762186112
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Love_Knot_Necklace_Earring_Set_1.png?v=1766882302
   Price: $84.99 CAD
 - [Forever Love Necklace & Earring Set – 14K White Gold | Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-earring-set): Forever Love Necklace & Earring Set in 14K white gold by Swarav Creations. A timeless, elegant jewelry gift perfect for everyday wear or special moments.
-  Updated: 2025-12-17T04:09:22Z
+  Updated: 2025-12-27T18:31:49Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4524_transformation_13946.png?v=1762186234
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Forever_love_necklace_and_earring_set_by_Swarav_Creations_21.png?v=1766817102
   Price: $64.99 CAD
 - [Eternal Hope Necklace & Earring Set | Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set): Discover elegance with the Eternal Hope Necklace & Earring Set in 14K White Gold by Swarav Creations. Elevate your style and embrace timeless beauty today!
   Updated: 2025-12-17T04:08:00Z
@@ -441,18 +441,18 @@
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4465_transformation_13566.png?v=1762186317
   Price: $64.99 CAD
 - [Eternal Love Knot Necklace with Luxury Gift Box | Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-swarav-creations-luxury-gift-box): Eternal Love Knot Necklace with a luxury gift box by Swarav Creations. A meaningful, elegant jewelry gift symbolizing everlasting love.
-  Updated: 2025-12-22T14:50:48Z
+  Updated: 2025-12-28T14:03:49Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4381_transformation_12061.png?v=1763588700
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Eternal_Love_Necklace_2.png?v=1766887419
   - [14K White Gold Finish / Luxury Box](https://swaravcreations.com/products/eternal-love-knot-necklace-swarav-creations-luxury-gift-box?variant=47283112804608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4381_transformation_12061.png?v=1763588700
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4381_transformation_12061.png?v=1766887419
     Price: $84.99 CAD
   - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/eternal-love-knot-necklace-swarav-creations-luxury-gift-box?variant=47283112870144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4380_transformation_12024.png?v=1763588706
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4380_transformation_12024.png?v=1766887419
     Price: $94.99 CAD
 - [Eternal Hope Necklace & Earring Set | Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): Discover elegance with the Eternal Hope Necklace & Earring Set in 14K White Gold by Swarav Creations. Elevate your style and embrace timeless beauty today!
   Updated: 2025-12-17T04:05:05Z
@@ -476,18 +476,18 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4366_transformation_12037.png?v=1764013640
     Price: $79.99 CAD
 - [Forever Love Necklace - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-standard-box-elegant-jewelry-by-swarav-creations): Forever Love Necklace by Swarav Creations symbolizing endless love. An elegant, meaningful jewelry gift perfect for anniversaries and special moments.
-  Updated: 2025-12-17T04:02:29Z
+  Updated: 2025-12-27T18:45:52Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1764118025
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Forever_Love_Necklace_2.png?v=1766818102
   - [14k White Gold Finish / Standard Box](https://swaravcreations.com/products/forever-love-necklace-standard-box-elegant-jewelry-by-swarav-creations?variant=47320428183808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1764118025
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1766817945
     Price: $64.99 CAD
   - [18k Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/forever-love-necklace-standard-box-elegant-jewelry-by-swarav-creations?variant=47320428249344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_783_transformation_10610.png?v=1764118051
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_783_transformation_10610.png?v=1766817945
     Price: $74.99 CAD
 - [Men's Cuban Link Chain Necklace - Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-luxury-gift-for-him): Men’s Cuban link chain necklace crafted with 18K gold finish and stainless steel. A bold, stylish luxury gift for him, perfect for any occasion.
   Updated: 2025-12-17T03:59:43Z
@@ -502,18 +502,18 @@
     Availability: Available
     Price: $89.99 CAD
 - [Interlocking Hearts Necklace - Timeless Gift of Eternal Love for Her](https://swaravcreations.com/products/interlocking-hearts-necklace-timeless-gift-of-eternal-love-luxury-box): Interlocking hearts necklace symbolizing eternal love and unbreakable bonds. A timeless, meaningful gift perfect for anniversaries and special moments.
-  Updated: 2025-12-17T03:58:10Z
+  Updated: 2025-12-27T14:57:45Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4386_transformation_12051.png?v=1765023896
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/rn-image_picker_lib_temp_3df6db07-011f-41e2-8f84-dddb99712ac5.png?v=1766804414
   - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/interlocking-hearts-necklace-timeless-gift-of-eternal-love-luxury-box?variant=47381088960768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4386_transformation_12051.png?v=1765023896
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4386_transformation_12051.png?v=1766804257
     Price: $84.99 CAD
   - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/interlocking-hearts-necklace-timeless-gift-of-eternal-love-luxury-box?variant=47381089026304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4385_transformation_12067.png?v=1765023907
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4385_transformation_12067.png?v=1766804257
     Price: $94.99 CAD
 - [Personalized Flower Name Necklace - Elegant Custom Jewelry for You](https://swaravcreations.com/products/personalized-flower-name-necklace-elegant-custom-jewelry-for-a-unique-touch-luxury-box): Personalized flower name necklace designed to reflect your unique style. An elegant custom jewelry gift, perfect for birthdays and special moments.
   Updated: 2025-12-17T03:55:42Z
@@ -614,118 +614,118 @@
     Availability: Available
     Price: $94.99 CAD
 - [Personalized Zodiac Sign Necklace - Perfect Gift for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box): Personalized Zodiac Sign Necklace crafted to celebrate every star sign. A meaningful, custom gift for birthdays, anniversaries, or special moments.
-  Updated: 2025-12-17T22:38:10Z
+  Updated: 2025-12-27T19:07:38Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6504_transformation_18308.png?v=1765025118
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Zodiac_Necklace_-_Aries_3.png?v=1766819573
   - [Polished Stainless Steel / Luxury Box / Aries](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381112946944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6504_transformation_18308.png?v=1765025118
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6504_transformation_18308.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Taurus](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113012480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6508_transformation_18322.png?v=1765025135
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6508_transformation_18322.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Gemini](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113078016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6512_transformation_18312.png?v=1765025144
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6512_transformation_18312.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Cancer](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113143552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6516_transformation_18314.png?v=1765025153
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6516_transformation_18314.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Leo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113209088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6520_transformation_18315.png?v=1765025163
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6520_transformation_18315.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Virgo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113274624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6524_transformation_18339.png?v=1765025172
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6524_transformation_18339.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Libra](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113340160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6528_transformation_18319.png?v=1765025181
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6528_transformation_18319.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Scorpio](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113405696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6532_transformation_18341.png?v=1765025191
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6532_transformation_18341.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Sagittarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113471232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6536_transformation_18329.png?v=1765025201
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6536_transformation_18329.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Capricorn](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113536768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6540_transformation_18333.png?v=1765025210
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6540_transformation_18333.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Aquarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113602304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6544_transformation_18345.png?v=1765025220
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6544_transformation_18345.png?v=1766819246
     Price: $79.99 CAD
   - [Polished Stainless Steel / Luxury Box / Pisces](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113667840)
     Availability: Available
     Price: $79.99 CAD
   - [Gold Finish / Luxury Box / Aries](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113733376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6506_transformation_18307.png?v=1765025130
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6506_transformation_18307.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Taurus](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113798912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6510_transformation_18310.png?v=1765025140
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6510_transformation_18310.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Gemini](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113864448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6514_transformation_18325.png?v=1765025149
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6514_transformation_18325.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Cancer](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113929984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6518_transformation_18327.png?v=1765025158
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6518_transformation_18327.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Leo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381113995520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6522_transformation_18337.png?v=1765025167
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6522_transformation_18337.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Virgo](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114061056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6526_transformation_18317.png?v=1765025176
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6526_transformation_18317.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Libra](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114126592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6530_transformation_18323.png?v=1765025186
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6530_transformation_18323.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Scorpio](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114192128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6534_transformation_18343.png?v=1765025196
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6534_transformation_18343.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Sagittarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114257664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6538_transformation_18331.png?v=1765025205
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6538_transformation_18331.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Capricorn](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114323200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6542_transformation_18335.png?v=1765025215
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6542_transformation_18335.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Aquarius](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114388736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6546_transformation_18349.png?v=1765025224
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_6546_transformation_18349.png?v=1766819246
     Price: $84.99 CAD
   - [Gold Finish / Luxury Box / Pisces](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-for-every-star-sign-luxury-box?variant=47381114454272)
     Availability: Available
     Price: $84.99 CAD
 - [Forever Love Necklace & Earring Set | 14K White Gold Gift](https://swaravcreations.com/products/forever-love-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): A timeless Forever Love necklace and earring set in 14K white gold, beautifully packaged in a luxury gift box—perfect for anniversaries and special moments.
-  Updated: 2025-12-22T02:46:26Z
+  Updated: 2025-12-27T18:27:55Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4525_transformation_13949.png?v=1765026589
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Forever_love_necklace_and_earring_set_by_Swarav_Creations_1.png?v=1766817102
   Price: $90.00 CAD
 - [Love Knot Necklace & Earring Set – 14K White Gold Gift | Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set-14k-white-gold): A timeless Love Knot jewelry gift in 14K white gold with luxury box — perfect for anniversaries, birthdays & meaningful surprises.
-  Updated: 2025-12-22T14:42:04Z
+  Updated: 2025-12-27T07:26:02Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3746_transformation_10888.png?v=1765027279
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/Love_Knot_Necklace_Earring_Set_14K_White_Gold_Standard_Box_Swarav_Creations.png?v=1766777156
   Price: $104.99 CAD
 
 ## Collections
@@ -734,29 +734,32 @@
   Updated: 2025-12-20T22:37:29Z
   Total Products: 9
 - [New Arrivals – Meaningful Gold Jewelry | Swarav Creations](https://swaravcreations.com/collections/new-arrivals): Explore new arrivals in meaningful gold jewelry by Swarav Creations. Discover the latest necklaces and gift-ready designs in 14K & 18K gold.
-  Updated: 2025-12-21T19:26:04Z
+  Updated: 2025-12-27T07:43:37Z
   Total Products: 28
 - [Best Seller Gold Necklaces | Swarav Creations](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations’ best seller gold necklaces—top-rated designs in 14K & 18K gold, gift-ready packaging, and customer-loved styles.
-  Updated: 2025-12-21T19:31:21Z
+  Updated: 2025-12-27T07:43:37Z
   Total Products: 22
 - [Affordable Jewelry Gifts Under $60 | Swarav Creations](https://swaravcreations.com/collections/gifts-under-60): Shop affordable jewelry gifts under $60 from Swarav Creations. Beautiful gold-finish necklaces perfect for everyday gifting.
   Updated: 2025-12-21T19:34:40Z
   Total Products: 11
 - [Gold Jewelry Gifts $60–$100 | Swarav Creations](https://swaravcreations.com/collections/gifts-60-100): Shop meaningful gold jewelry gifts priced $60–$100. Discover elegant necklaces and gift-ready designs in 14K & 18K gold by Swarav Creations.
-  Updated: 2025-12-21T19:28:36Z
+  Updated: 2025-12-27T07:43:37Z
   Total Products: 22
 - [Luxury Gold Jewelry Gifts Over $100 | Swarav Creations](https://swaravcreations.com/collections/gifts-over-100): Shop luxury gold jewelry gifts over $100, crafted for anniversaries, milestones, and special moments. Gift-ready designs in 14K & 18K gold by Swarav Creations.
   Updated: 2025-12-21T19:22:47Z
   Total Products: 2
 - [Meaningful Gold Necklaces | Gift-Ready Jewelry by Swarav Creations](https://swaravcreations.com/collections/necklaces-elegant-meaningful-jewelry-by-swarav-creations): Discover meaningful gold necklaces crafted for love, anniversaries, and special moments. Elegant, gift-ready jewelry in 14K & 18K gold by Swarav Creations.
-  Updated: 2025-12-21T19:07:27Z
+  Updated: 2025-12-27T07:43:37Z
   Total Products: 22
 - [Meaningful Gold Necklaces & Jewelry Sets | Swarav Creations](https://swaravcreations.com/collections/necklace-earring): Shop meaningful gold necklaces and elegant jewelry sets crafted for love, anniversaries, and special moments. Gift-ready designs in 14K & 18K gold by Swarav Creations.
-  Updated: 2025-12-21T19:18:30Z
+  Updated: 2025-12-27T07:43:37Z
   Total Products: 26
 - [Meaningful Gold Earrings | Gift-Ready Jewelry by Swarav Creations](https://swaravcreations.com/collections/earring): Explore meaningful gold earrings crafted for love, anniversaries, and special moments. Elegant, gift-ready jewelry in 14K & 18K gold by Swarav Creations.
   Updated: 2025-12-21T19:10:59Z
   Total Products: 4
+- [Love Necklaces for Her – Meaningful Jewelry Gifts | Swarav Creations - Swarav Creations](https://swaravcreations.com/collections/love-necklaces-for-her-meaningful-jewelry-gifts-swarav-creations): - Swarav Creations
+  Updated: 2025-12-27T07:43:37Z
+  Total Products: 14
 
 ## Blogs
 
@@ -849,6 +852,10 @@
     Updated: 2025-12-25T00:30:43Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, best jewelry for romantic occasions, gift for her, gift ideas, gifts, jewelry, love knot necklace, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized jewelry, romance, romantic gift for wife, romantic gift jewelry, romantic gifts, romantic jewelry gift, sentimental jewelry, timeless necklace, unique gift jewelry for her
+  - [Exploring Sentimental Jewelry: How Meaningful Gifts Can Touch Her Heart](https://swaravcreations.com/blogs/news/exploring-sentimental-jewelry-how-meaningful-gifts-can-touch-her-heart): Exploring Sentimental Jewelry: How Meaningful Gifts Can Touch Her Heart
+    Updated: 2025-12-28T00:30:59Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet necklace, gift for her, gifts, heartfelt gifts, jewelry, love knot necklace, meaningful jewelry, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized gifts, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental, sentimental jewelry, sentimental jewelry for her, timeless necklace, unique gift ideas for her
 
 ## Store Pages
 
