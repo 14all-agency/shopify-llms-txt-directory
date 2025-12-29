@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-29T04:00:27.998Z
+- Updated At: 2025-12-29T08:00:29.665Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1450,7 +1450,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedBaseballColorfulBookmarks5-up-PrintablePlanning.jpg?v=1686699890
   Price: $5.95 USD
 - [BUNDLE: Personalized Baseball Bookmarks - Printable](https://printableplanning.com/products/personalized-red-blue-purple-and-pink-baseball-bookmarks-printable): Fun BUNDLE of DIY printable personalized baseball bookmarks for your children or students that can be personalized with their names, and when printed on card stock makes for a durable reading gift. These fun sports themed bookmarks are designed with a baseball illustration paired with different solid colors of red, blue, purple, and pink for each bookmarks page, and the names are personalized in black. Parents and teachers love these affordable bookmarks because you can print as many as you need, changing the names as needed. Teachers can print these bookmarks for different occasions throughout the year and change the names to fit their classroom every year. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these bookmarks from these printable pages. PLEASE NOTE: Font size, style, and color is available only as shown. SPECIFICATIONS: (4) @ 8.5" x 11" printable PDF pages. Bookmarks measure approximately 7" x 2" each. Edit the names (every time you print). Colorful and fun for boys or girls. Print a new page of printable personalized baseball bookmarks every time you need more.
-  Updated: 2025-07-21T19:20:18Z
+  Updated: 2025-12-29T06:43:13Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
