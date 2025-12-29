@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-29T04:00:24.732Z
+- Updated At: 2025-12-29T08:00:25.267Z
 
 ## Products
 
@@ -52,17 +52,17 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/KvLoZ13hHu.png?v=1766711089
   Price: $8.99 USD
 - [Beard Envy Bundle](https://www.ironforgebeardco.com/products/beard-envy-bundle): Beard itch? When you first start growing, your face may itch because the hair is robbing your face of nutrients to help it grow. Let's get you started before you shave. Did you know 80% of men shave? Let's increase that 20% bearded rate by keeping your beard healthy! This kit includes a Beard Oil for your skin and a Beard Balm or Butter for your hair.What's the difference between Beard Balm and Beard Butter?Balm has more wax, adds weight to the beard hair to help with flyways and allows you to style easier. Beard Butter is lighter and is perfect for nourishment, repair, and protection.What's included: (1) Beard Oil – 59 ml(1) Pump for Beard Oil (1) Beard Balm – 56 g(1) Beard Butter – 56 gBeard Oil Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Fragrance Beard Balm or Beard Butter Ingredients:Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance
-  Updated: 2025-12-28T01:11:37Z
+  Updated: 2025-12-29T04:49:11Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MPN-BEB-BTCO.jpg?v=1766679129
   - [Casino](https://www.ironforgebeardco.com/products/beard-envy-bundle?variant=47028097515773)
     Availability: Available
-    Price: $59.99 USD
+    Price: $49.99 USD
   - [Crown](https://www.ironforgebeardco.com/products/beard-envy-bundle?variant=47028097548541)
     Availability: Available
-    Price: $59.99 USD
+    Price: $49.99 USD
   - [Gold](https://www.ironforgebeardco.com/products/beard-envy-bundle?variant=47028097581309)
     Availability: Available
     Price: $59.99 USD
@@ -297,12 +297,12 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/JnLmonth1delivery1-027-Edit_53ba91a1-2186-4c8f-bab4-24f01d4ec103.jpg?v=1766713517
   Price: $11.54 USD
 - [Beard Butter](https://www.ironforgebeardco.com/products/beard-butter): Nourish, style, and condition your beard with Crown Jewel Scentiments Beard Butter – Citrus Blend. Crafted with premium, all-natural ingredients, this luxurious beard butter softens coarse hair, tames frizz, and promotes a healthy, well-groomed look. Infused with a refreshing citrus blend, this butter delivers a clean, invigorating scent that lasts throughout the day, keeping your beard smelling fresh and feeling incredibly smooth. Its lightweight, non-greasy formula absorbs quickly, hydrating both your beard and the skin beneath to prevent dryness and irritation. Ingredients: Shea Butter, Mango Butter, Jojoba Oil, Coconut Oil, Fragrance, Tapioca Starch, BTMS -25
-  Updated: 2025-12-26T13:45:26Z
+  Updated: 2025-12-29T04:49:12Z
   Vendor: Crown Jewel Scentiments, llc
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/ChatGPT_Image_Apr_3_2025_07_00_44_PM.png?v=1766713522
-  Price: $12.31 USD
+  Price: $9.99 USD
 - [Pursonic Ultimate Beard Care Kit: Grooming Essentials for a Perfect Beard.](https://www.ironforgebeardco.com/products/pursonic-ultimate-beard-care-kit-grooming-essentials-for-a-perfect-beard): Beard Care and Grooming Set: Beard Comb and Brush Included: Comes with a beard comb and brush for effective grooming and styling of facial hair. Beard Oil (30 ml): Deep Moisturizing: Provides deep hydration to the beard, keeping it well-nourished. Smoothing Effect: Helps smooth out the beard texture for a refined appearance. Enriched Formula: Contains vitamin E essences and Golden Jojoba oil for added benefits. Sebum Balance: Regulates the balance of sebum on the skin, promoting a healthier beard. Beard Balm (60 g): Shape and Shine: Firms the shape of the beard while keeping it shining for a prolonged period. Multi-functional: Serves multiple purposes, including shaping, nurturing, and even for shaving. Beard Serum (30 ml): Deep Cleansing: Effectively cleans the beard and the skin underneath. Oil Reduction: Reduces excess oil on the skin, promoting a cleaner and refreshed feeling. Nose and Ear Hair Trimmer: Versatile Trimming: Comfortably removes nose, ear, and unwanted facial hair, while also detailing beard and eyebrows. Dual-Edge Blades: Curved Hypoallergenic Blades: The stainless-steel blades are curved for safe and clean cutting without irritating the skin or pulling hairs. Battery-Powered Convenience: Battery Requirement: Uses 1 x AAA battery (not included) with a power rating of 1.5 V for easy and convenient operation.
   Updated: 2025-12-26T13:49:10Z
   Vendor: Pursonic
@@ -444,14 +444,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/964Jnew.jpg?v=1766807504
   Price: $84.70 USD
 - [Argan & Marula Conditioning Beard Oil](https://www.ironforgebeardco.com/products/argan-marula-conditioning-beard-oil): NEW LOWER PRICING! This all-natural beard oil keeps facial hair (don't forget your mustache!) neat & healthy, adding some shine. These vegetable-based oils nourish and moisturize, and are easily absorbed without feeling greasy. 2 oz glass bottle (twice as much as the other guys). Please choose from our three essential oil blends: Cypress Lavender, Clove Geranium, Neroli Bergamot. Almost 100% organic. silky oil softens beard & adds shine conditions facial hair, as well as the skin underneath absorbs quickly no artificial perfumes or synthetic colors added 98% organic ingredients Live near our Oakland Studio? Bring in your empties to refill at a discount. INGREDIENTS: Helianthus annuus (sunflower) seed oil*, butyrospermum parkii (shea) nut oil, simmondsia chinensis (jojoba) seed oil*, ricinus communis (castor) seed oil*, argania spinosa (argan) kernel oil, sclerocarya birrea (marula) seed & adansonia digitata (baobab) seed oils, essential oils, tocopheryl (vitamin E). * denotes organic origin
-  Updated: 2025-12-27T15:52:52Z
+  Updated: 2025-12-29T04:49:14Z
   Vendor: Heliotrope San Francisco
   Product Type: Hair Styling
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/Argan---Marula_Conditioning-Beard-Oil_2oz-60mL.jpg?v=1766807568
   - [Clove Geranium](https://www.ironforgebeardco.com/products/argan-marula-conditioning-beard-oil?variant=47032404574461)
     Availability: Available
-    Price: $13.20 USD
+    Price: $10.99 USD
   - [Cypress Lavender](https://www.ironforgebeardco.com/products/argan-marula-conditioning-beard-oil?variant=47032404607229)
     Availability: Available
     Price: $13.20 USD
@@ -530,12 +530,12 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MCZ_7094.jpg?v=1766810569
   Price: $8.46 USD
 - [Beard Care Grooming Kit](https://www.ironforgebeardco.com/products/beard-care-grooming-kit): Your beard will never look the same with our unique 4 piece gift set. Beard brush, oil, serum and Balm. All you need for the prefect beard. Features: Set includes: (1) Beard Comb, (1) Beard oil, (1) Beard balm, and (1) Beard serum Beard oil (30ml) - Deep moisturizing, smoothing, make the beard beautiful and black. Contains a variety of Vitamin E essences and golden jojoba oil. Beard oil can quickly penetrate deep into the skin to nourish the dehydrated skin and can also supply skin with moisture. It can regulate sebum's balance and help renew the beards texture. Beard balm (60g) - firm the shape of the beard with this beard's daily nursing balm and keep the beard shining for long term. Beard serum (30ml) - Beard serum can Deeply clean the beard and the skin or beard, effectively reducing oil on the skin of the beard. Uncttoke pores while hydrating to prevent dryness and itching of beard. Model Number: BCGS5
-  Updated: 2025-12-28T00:52:15Z
+  Updated: 2025-12-29T04:49:13Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/PURSONICBCGS5HIRES5.jpg?v=1766810807
-  Price: $24.74 USD
+  Price: $19.99 USD
 - [Mario Lopez Rechargeable Men’s Grooming & Beard Care Bundle – Complete Hair, Beard, Nose, and Ear Kit](https://www.ironforgebeardco.com/products/mario-lopez-rechargeable-mens-grooming-beard-care-bundle-complete-hair-beard-nose-and-ear-kit): Achieve the ultimate grooming experience with the Mario Lopez Rechargeable Men’s Grooming & Beard Care Bundle. Designed for modern men who value precision, style, and convenience, this all-in-one grooming set covers every aspect of your routine from head to beard. Whether you’re maintaining a sharp haircut, shaping a stylish beard, or removing unwanted nose and ear hair, this bundle has you covered. Bundle Includes: 1. Mario Lopez Rechargeable Men’s Grooming Set Elevate your grooming game with this powerful and versatile grooming kit, featuring: Stainless Steel Precision Clipper: Delivers clean, precise haircuts with professional-grade performance. Beard & Mustache Trimmer: Provides sharp, defined shaping for a polished look. Ear, Nose, & Brow Trimmer Head: Ensures painless, efficient hair removal for a neat, well-groomed appearance. 6 Trim Guide Combs: Multiple length options for personalized styling of your hair, beard, and mustache. USB Rechargeable Design: Convenient USB charging makes it easy to stay groomed wherever you go. 2. Pursonic Beard Care Grooming Kit Complete your beard grooming routine with this deluxe 4-piece set for healthy, stylish facial hair: Beard Oil (30ml): Deeply moisturizes with Vitamin E and golden jojoba oil to soften, smooth, and nourish. Beard Balm (60g): Shapes and conditions your beard while adding shine and hold for a well-kept appearance. Beard Serum (30ml): Cleanses and hydrates to reduce itchiness, dryness, and clogged pores. Beard Comb: Perfect for detangling and evenly distributing grooming products for a sleek, finished look. Why Choose This Bundle? Complete Grooming Solution: Combines precision tools and premium beard care products for a fully tailored grooming experience. Premium Quality & Convenience: Designed for durability, ease of use, and professional-level results from home. Perfect Gift Idea: Ideal for birthdays, Father’s Day, or any occasion that calls for a touch of luxury and style. Upgrade your grooming routine today with the Mario Lopez Rechargeable Men’s Grooming & Beard Care Bundle—because looking your best starts with the right tools.
   Updated: 2025-12-27T16:47:07Z
   Vendor: Pursonic
@@ -576,6 +576,9 @@
 - [News](https://www.ironforgebeardco.com/blogs/news)
   - [Top 10 Essential Products for Ultimate Beard Care](https://www.ironforgebeardco.com/blogs/news/top-10-essential-products-for-ultimate-beard-care): Top 10 Essential Products for Ultimate Beard Care
     Updated: 2025-12-28T17:46:13Z
+    Author: Iron forge beard co
+  - [A Beginner's Guide to Beard Grooming Excellence](https://www.ironforgebeardco.com/blogs/news/a-beginners-guide-to-beard-grooming-excellence): A Beginner's Guide to Beard Grooming Excellence
+    Updated: 2025-12-29T05:35:37Z
     Author: Iron forge beard co
 
 ## Store Pages
