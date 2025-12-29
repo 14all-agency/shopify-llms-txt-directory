@@ -3,9 +3,9 @@
 - Domain: https://www.ironforgebeardco.com
 - Locale: en
 - Currency: USD
-- Timezone: America/New_York
+- Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-28T20:00:24.500Z
+- Updated At: 2025-12-29T00:00:42.048Z
 
 ## Products
 
