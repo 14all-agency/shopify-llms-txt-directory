@@ -6,12 +6,12 @@
 - Timezone: Asia/Karachi
 - Created At: 2025-12-04T17:43:31Z
 - Contact Email: greemnest@gmail.com
-- Updated At: 2025-12-26T00:00:20.546Z
+- Updated At: 2025-12-29T00:00:24.076Z
 
 ## Products
 
 - [woman bag-Woven Bag Seaside Beach Bag Portable Shoulder Bag](https://greemnest.store/products/woven-bag-seaside-beach-bag-portable-shoulder-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/97749007-0727-482b-9975-35fc0b09dd8b.jpg?v=1764966207
     Price: €52.32 EUR
 - [woman bag-woven bags](https://greemnest.store/products/hand-woven-bags): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/129719758271099.jpg?v=1765008060
     Price: €60.99 EUR
 - [small bags-Bag straw woven fashion women shoulder tote handmade bag summer leisure ladies knitting handbag Feminine beach bags bolsos mujer](https://greemnest.store/products/bag-straw-woven-fashion-women-shoulder-tote-handmade-bag-summer-leisure-ladies-knitting-handbag-feminine-beach-bags-bolsos-mujer): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -53,7 +53,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/238588153251_b1001842-5956-4793-911f-af69dbbc61f6.jpg?v=1765008225
     Price: €39.87 EUR
 - [Small Bags- Princess All-Match Coin Purse, Messenger Bag](https://greemnest.store/products/girls-small-bags-princess-all-match-coin-purse-hand-woven-childrens-mini-fruit-zipper-bag-messenger-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -87,7 +87,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1618972818990.jpg?v=1765008275
     Price: €35.99 EUR
 - [small bags-Woven Round Wooden Handle Casual women's Handbag](https://greemnest.store/products/woven-round-wooden-handle-casual-womens-handbag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/48f66f0f-d5a6-4517-bf89-49f19683f23f.jpg?v=1765008974
     Price: €60.99 EUR
 - [woman bags-Summer Stripe Straw Sholder Bags With Tassel Pendant Beach Bags](https://greemnest.store/products/summer-stripe-straw-sholder-bags-with-tassel-pendant-fashion-large-capacity-seaside-vacation-beach-bags): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:52Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -115,14 +115,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/3ad59a6e-a776-4188-8e6d-7125848cfe65.jpg?v=1765009896
     Price: €40.99 EUR
 - [woman bags-Eco-friendly Cork Crossbody Bag Portable Tote](https://greemnest.store/products/eco-friendly-cork-crossbody-bag-portable-tote): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:52Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/b93eb6ee-b063-4f71-b34b-ef77a6a3a130_trans.jpg?v=1765010012
   Price: €69.99 EUR
 - [woman bags- Premium Designer Eco Canvas Handbag](https://greemnest.store/products/jaci-premium-designer-eco-canvas-handbag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:52Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/480750618758_3c254d64-a015-4259-943a-eaeac9d4f0bb.jpg?v=1765010074
     Price: €40.00 EUR
 - [woman bags-Eco-friendly rattan clutch](https://greemnest.store/products/wooden-bead-portable-woven-bag-semi-circular-clutch-beach-bag-variety-of-rattan-bags): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:52Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: GREEMNEST
   Product Type: eco-friendly
   Availability: Available
@@ -154,7 +154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/d8c355cb-162c-410b-adba-e2e455957bb9_eee4d887-0a09-475f-9ff1-545723e2d9c9.jpg?v=1765020008
     Price: €120.99 EUR
 - [woman bags-Women Fashion Straw Handmade Woven Summer Vacation Beach Small Crossbody Bags](https://greemnest.store/products/women-fashion-straw-handmade-woven-summer-vacation-beach-small-crossbody-bags): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:52Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -176,21 +176,21 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1623057352493.jpg?v=1765010298
     Price: €90.99 EUR
 - [small bags-Handmade Crossbody bags Bohemian Straw Bags for Women Little Circle Beach Handbags Summer Vintage Rattan Bag](https://greemnest.store/products/ins-chic-handmade-crossbody-bags-bohemian-straw-bags-for-women-little-circle-beach-handbags-summer-vintage-rattan-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:52Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/83049784876643.jpg?v=1765010355
   Price: €140.99 EUR
 - [small bags-Rattan Woven Bag Semicircle Shoulder Bag Rattan Woven Bag Messenger Bag](https://greemnest.store/products/rattan-woven-bag-semicircle-shoulder-bag-rattan-woven-bag-messenger-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:53Z
+  Updated: 2025-12-26T22:39:26Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616487052571.jpg?v=1765010452
   Price: €100.99 EUR
 - [woman bags-shoulder Hand Bag Woven Bag Beach Bag Mori Series Straw Woven Bag Female Bag Trapezoidal Rattan Bag](https://greemnest.store/products/one-shoulder-hand-bag-woven-bag-beach-bag-mori-series-straw-woven-bag-female-bag-trapezoidal-rattan-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:53Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -204,7 +204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619329817044.jpg?v=1765010514
     Price: €70.99 EUR
 - [small bags-Shoulder Bag Casual Crossbody Bag Woven Bag Underarm Dumpling Bag](https://greemnest.store/products/shoulder-bag-casual-crossbody-bag-woven-bag-underarm-dumpling-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:53Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -218,7 +218,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/e737def9-c8b6-4a0b-8d93-5867758eb553.jpg?v=1765010561
     Price: €54.50 EUR
 - [small bags-Semicircle Straw Woven Bag, Rattan Bag, Shoulder Bag, Messenger Bag, Female Bag](https://greemnest.store/products/semicircle-straw-woven-bag-rattan-bag-shoulder-bag-messenger-bag-female-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2025-12-23T21:14:53Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -240,14 +240,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1615808967848.jpg?v=1765010609
     Price: €120.99 EUR
 - [woman bag-Bamboo bag bucket bag female bag small bag](https://greemnest.store/products/bamboo-bag-bucket-bag-female-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:53Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/3196274308918.jpg?v=1765010649
   Price: €60.99 EUR
 - [small bags-Leisure One Shoulder Straw Woven Bag](https://greemnest.store/products/leisure-one-shoulder-straw-woven-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:53Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -261,7 +261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616219332374.jpg?v=1765010689
     Price: €50.99 EUR
 - [shoulder bags-New Women's Summer Straw Woven Bag Shoulder Bag Paper Rope Bag](https://greemnest.store/products/new-womens-summer-straw-woven-bag-shoulder-bag-paper-rope-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:54Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -275,7 +275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616486652756.jpg?v=1765010724
     Price: €35.95 EUR
 - [shoulder bags-Antique straw woven bag messenger beach bag](https://greemnest.store/products/antique-straw-woven-bag-messenger-beach-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:54Z
+  Updated: 2025-12-26T22:39:27Z
   Vendor: null
   Product Type: eco friendly
   Availability: Available
@@ -304,7 +304,7 @@
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/logo.png?v=1765019958
   Price: €0.43 EUR
 - [shoulder bag-Rattan bag ins diagonal mini bag Sen basket basket tweezers retro literary hand-woven leather buckle bag](https://greemnest.store/products/rattan-bag-ins-diagonal-mini-bag-sen-basket-basket-tweezers-retro-literary-hand-woven-leather-buckle-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:54Z
+  Updated: 2025-12-26T22:39:28Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -334,21 +334,21 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1329125864834.jpg?v=1765304054
     Price: €73.99 EUR
 - [small bags-Round Hand Bamboo bag](https://greemnest.store/products/round-hand-bamboo-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:54Z
+  Updated: 2025-12-26T22:39:28Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1237628819868.jpg?v=1765304159
   Price: €70.99 EUR
 - [woman bags-woven bamboo basket handbag](https://greemnest.store/products/hand-woven-bamboo-basket-handbag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:54Z
+  Updated: 2025-12-26T22:39:28Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1687664445685.jpg?v=1765304263
   Price: €90.99 EUR
 - [small bags-Straw bag women handbag hand bag](https://greemnest.store/products/straw-bag-women-handbag-hand-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:54Z
+  Updated: 2025-12-26T22:39:28Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/3371799064587.jpg?v=1765304339
     Price: €100.99 EUR
 - [small bag-held hollow bag female small bag](https://greemnest.store/products/hand-held-hollow-bag-female-small-bag): wood Fabric texture: canvas Bag shape: round Luggage trend style: bamboo bag Opening method: cover type Popular elements: weaving Bag internal structure: zipper pocket A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:55Z
+  Updated: 2025-12-26T22:39:28Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -376,7 +376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/14ad553c-d964-40e3-9049-0def1be30de4.jpg?v=1765304418
     Price: €92.99 EUR
 - [shoulder bag-Held Shoulder Strap Woven Vegetable Basket Rattan-Fashion Woven Bag](https://greemnest.store/products/hand-held-shoulder-strap-woven-vegetable-basket-rattan-likerattan-bag-fashionwoven-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:55Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -390,7 +390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1615810753269.jpg?v=1765304498
     Price: €60.99 EUR
 - [shoulder bags-Woven Bag](https://greemnest.store/products/crossbody-straw-bag-hand-woven-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:55Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -404,7 +404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1618896440490_b7c9dfb4-7605-41a4-a3fb-1a89c65b560a.jpg?v=1765304559
     Price: €50.99 EUR
 - [shoulder bag-Held Women  Straw Bag](https://greemnest.store/products/grass-diagonal-hand-held-women-s-straw-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:55Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -418,21 +418,21 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1618916755055_77fad742-ee76-4c6e-8f4e-fff831bfa8d6.jpg?v=1765304615
     Price: €47.09 EUR
 - [shoulder bag-Woven Bag Pu Belt](https://greemnest.store/products/art-hand-woven-bag-pu-belt): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:55Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619148162122.jpg?v=1765304676
   Price: €70.57 EUR
 - [small bag -Mori Bowknot Beach Woven Hand-held Messenger Ladies Straw Bag](https://greemnest.store/products/mori-bowknot-beach-woven-hand-held-messenger-ladies-straw-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:56Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619344471545.jpg?v=1765304765
   Price: €80.99 EUR
 - [woman bag- Hand-Woven Pearl Hand-Held Small Square Bag Shoulder Messenger Bag](https://greemnest.store/products/trendy-fashion-hand-woven-pearl-hand-held-small-square-bag-shoulder-messenger-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:56Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -454,7 +454,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619436544396.jpg?v=1765304843
     Price: €59.90 EUR
 - [shoulder bag-Hand-Held Straw Woven Bag Paper Rope Woven Bag, Messenger Bag](https://greemnest.store/products/hand-held-straw-woven-bag-paper-rope-woven-bag-messenger-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:56Z
+  Updated: 2025-12-26T22:39:29Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -468,7 +468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1620885959059_6f70c331-d377-4d67-8400-41e1626e2966.jpg?v=1765304914
     Price: €37.27 EUR
 - [shoulder bag- Fashion Portable Saddle Bag Net Red Woven Hand Bag](https://greemnest.store/products/fashion-portable-saddle-bag-net-red-woven-hand-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:56Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -482,7 +482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1620892265557.jpg?v=1765304974
     Price: €60.92 EUR
 - [woman bag-Hand Woven Fashion Handbag With Metal Buckle](https://greemnest.store/products/hand-woven-fashion-handbag-with-metal-buckle): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:56Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -496,14 +496,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/864ae7de-7e37-428b-a996-f92ef141a6ff.jpg?v=1765305048
     Price: €62.55 EUR
 - [small bag -Retro Folds Hit Color Hand-held Square Bag All-match Diagonal Bag](https://greemnest.store/products/retro-folds-hit-color-hand-held-square-bag-all-match-diagonal-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:56Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/8b244bdd-c5b6-49e0-a545-81bfe8514a7d.jpg?v=1765305112
   Price: €78.99 EUR
 - [small bag- Homemade Hand-carried](https://greemnest.store/products/diy-homemade-hand-carried-coarse-hemp-yarn-material-package): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:57Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -545,7 +545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/674d63fe-22e6-4b80-9f6b-b5b1f253c1fa.jpg?v=1765305186
     Price: €56.99 EUR
 - [woman handbag-Hand Moon Bag Wooden Handle Straw](https://greemnest.store/products/hand-moon-bag-wooden-handle-straw): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:57Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -563,7 +563,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/fe1c8178-1490-4dea-bab0-c366a361f7d3.jpg?v=1765305244
     Price: €107.21 EUR
 - [woman bag-Bamboo Woven](https://greemnest.store/products/bamboo-woven-storage-bag-antique-literary-ladies-hand-held): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:57Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -601,7 +601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/343a7c39-c7e8-4a7d-9055-2b3835526a99.jpg?v=1765305343
     Price: €141.99 EUR
 - [small handbag](https://greemnest.store/products/hand-knitting-leisure-vacation-grocery-shopping-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2025-12-23T21:14:57Z
+  Updated: 2025-12-26T22:39:30Z
   Vendor: GREEMNEST
   Product Type: eco friendly
   Availability: Available
@@ -618,10 +618,10 @@
 ## Collections
 
 - [Greemnest - Stylish Small Bag Collection for Every Occasion](https://greemnest.store/collections/small-bag-collection): Discover our exclusive range of small bags at Greemnest. Shop now to find your perfect compact companion for every occasion.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Total Products: 1
 - [Eco Shoulder Bag Collection | Sustainable & Stylish Bags](https://greemnest.store/collections/eco-shoulder-bag-collection): Discover stylish and eco-friendly shoulder bags at Greemnest. Shop our sustainable collection now and find your perfect everyday shoulder bag.
-  Updated: 2025-12-23T21:14:51Z
+  Updated: 2025-12-26T22:39:25Z
   Total Products: 38
 - [Best Woman Handbag Collection | Greemnest AVADA Best Sellers](https://greemnest.store/collections/woman-handbag-best-sellers): Discover stylish woman handbags at Greemnest. Shop the AVADA Best Sellers collection now and find the perfect accessory to elevate your look.
   Updated: 2025-12-23T20:33:12Z
@@ -651,6 +651,10 @@
   - [Hand Moon Bag: Wooden Handle Eco-Friendly Straw Luxury](https://greemnest.store/blogs/latest-news-and-trending-stories/hand-moon-bag-wooden-handle-eco-friendly-straw-luxury)
     Updated: 2025-12-25T08:00:59Z
     Author: Clickfrom AI Agent
+- [Womwn bags](https://greemnest.store/blogs/womwn-bags)
+  - [Womwn bags](https://greemnest.store/blogs/womwn-bags/womwn-bags)
+    Updated: 2025-12-28T19:55:03Z
+    Author: My Store Admin
 
 ## Store Pages
 
