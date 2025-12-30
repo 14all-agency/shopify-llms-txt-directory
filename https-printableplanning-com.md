@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-30T08:00:29.957Z
+- Updated At: 2025-12-30T12:00:28.430Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -134,7 +134,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/GuestListRSVPOrganizer-EventPlanning-PrintablePlanning.jpg?v=1687885619
   Price: $5.95 USD
 - [Pink and Yellow Weekly Meal Planning Page with Grocery List - Printable](https://printableplanning.com/products/pink-yellow-weekly-meal-planning-page-with-grocery-list-printable): Convenient printable weekly meal planning pages designed with a pink and yellow color scheme. The days of the week are multicolored to visually separate them. Columns include planning for your breakfast, lunch, snacks, and dinner for each day. Stay on top of the week you're planning for with a place to write the date to which your weekly planner applies. We've provided a section on the right for a grocery list where you can write the foods and ingredients you'll need for the week. Simply (and carefully) cut the list off of the page to take with you to the Grocery Store and mark the little box on each line to check off the items as you put them in your grocery cart. SPECIFICATIONS: 8.5" x 11" printable PDF page. Days run Sunday through Saturday. Color coded: Pink and Yellow. Convenient grocery list section. Print a new page every week.
-  Updated: 2025-07-21T19:21:16Z
+  Updated: 2025-12-30T11:07:59Z
   Vendor: Artistically Invited
   Product Type: Meal Planning
   Availability: Available
@@ -519,7 +519,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthCalendar-6FullPages-PrintablePlanning.jpg?v=1687197371
   Price: $7.95 USD
 - [BUNDLE: Modern Blank Monthly Calendar - Rainbow Full Page and Yearly Dates to Remember - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-rainbow-full-page-printable-bundle): Printable BUNDLE: Modern Blank Monthly Calendar - Rainbow Full Page and Yearly Dates to Remember in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week represented with a different color of the rainbow, for bright and happy organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). This bundle listing includes a 3-page Yearly Dates to Remember printable. Write down your important monthly dates that you need to remember for easy reference. Use these pages when filling out your blank monthly calendar, so that you never miss an important date. Fill in the occasion, such as birthday, anniversary, or holiday, and the date of the month on which it occurs every year. Your printable PDF pages are compressed into (1) ZIP file. You will need to extract them after you purchase. SPECIFICATIONS: (4) 8.5" x 11" printable pages in (2) PDF files in (1) ZIP file. The 3-page Yearly Dates to Remember page is in (1) PDF file. Monthly pages. 7-colored rainbow calendar. Clean, modern, and professional design. Print new BUNDLE: Modern Blank Monthly Calendar - Rainbow Full Page and Yearly Dates to Remember pages every month or year, or as needed.
-  Updated: 2025-08-31T19:04:31Z
+  Updated: 2025-12-30T09:45:35Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
