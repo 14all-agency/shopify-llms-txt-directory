@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-12-22T00:00:44.619Z
+- Updated At: 2025-12-30T00:00:45.549Z
 
 ## Products
 
@@ -5530,7 +5530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Muscle_Embroidered_Shirt.jpg?v=1740363332
     Price: $39.50 USD
 - [Men's Embroidered Tri-Blend T-Shirt – Soft Premium Tee](https://baskandweave.com/products/mens-short-sleeve-embroidered-t-shirt-1): Men's embroidered tri-blend t-shirt crafted from premium tri-blend fabric for softness and durability. A stylish embroidered tee for everyday wear.
-  Updated: 2025-10-31T00:15:39Z
+  Updated: 2025-12-29T06:08:33Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -8953,7 +8953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burnt-orange-front-679539021c3cb.jpg?v=1737833332
     Price: $57.00 USD
 - [Men's Fleece Pullover – Warm, Stylish & Comfortable Wear](https://baskandweave.com/products/mens-fleece-pullover): Stay cozy with our Men's Fleece Pullover—crafted for warmth, comfort, and timeless style. Perfect for casual outings or chilly days outdoors.
-  Updated: 2025-12-07T09:57:41Z
+  Updated: 2025-12-29T16:44:42Z
   Vendor: Bask & Weave
   Product Type: Fleece Pullover
   Availability: Available
@@ -9011,7 +9011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-679539561029a.jpg?v=1737833391
     Price: $42.00 USD
   - [Carbon Grey / M](https://baskandweave.com/products/mens-fleece-pullover?variant=47078741213434)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-679539561029a.jpg?v=1737833391
     Price: $42.00 USD
   - [Carbon Grey / L](https://baskandweave.com/products/mens-fleece-pullover?variant=47078741246202)
@@ -10153,7 +10153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6795769b6f3fa.jpg?v=1737907898
     Price: $27.50 USD
 - [Oversized Women's Faded T-Shirt - Trendy Everyday Tee](https://baskandweave.com/products/womens-oversized-faded-t-shirt): Upgrade your casual style with our Oversized Women's Faded T-Shirt. Soft, breathable, and effortlessly trendy — perfect for relaxed everyday wear.
-  Updated: 2025-11-02T23:40:58Z
+  Updated: 2025-12-29T00:11:26Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -17093,7 +17093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-peach-front-6796a8eb821d4.jpg?v=1737941384
     Price: $56.50 USD
 - [Women's Premium Hoodie – Luxury Comfort & Style Wear](https://baskandweave.com/products/womens-premium-hoodie): Shop the women's premium hoodie for unmatched comfort and style. Crafted from high-quality fabric, this luxury hoodie adds warmth and elegance to your wardrobe.
-  Updated: 2025-11-07T15:15:15Z
+  Updated: 2025-12-29T04:11:10Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -19461,7 +19461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-white-front-67a689f168028.jpg?v=1738968298
     Price: $55.50 USD
 - [Women's Fleece Pullover - Cozy & Stylish Fleece Sweatshirt](https://baskandweave.com/products/womens-fleece-pullover): Stay warm and stylish with our women's fleece pullover. This cozy women's fleece pullover is perfect for layering and all-day comfort in any season.
-  Updated: 2025-12-07T09:57:40Z
+  Updated: 2025-12-29T16:44:41Z
   Vendor: Bask & Weave
   Product Type: Fleece Pullover
   Availability: Available
@@ -19519,7 +19519,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-2-67a68a761f683.jpg?v=1738968410
     Price: $42.00 USD
   - [Carbon Grey / M](https://baskandweave.com/products/womens-fleece-pullover?variant=47110890553594)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-2-67a68a761f683.jpg?v=1738968410
     Price: $42.00 USD
   - [Carbon Grey / L](https://baskandweave.com/products/womens-fleece-pullover?variant=47110890586362)
@@ -19933,7 +19933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-womens-joggers-white-front-67a69ac39fd6e.jpg?v=1738973440
     Price: $64.50 USD
 - [Women's Sweatpants - Pigment-Dyed Comfortable Joggers](https://baskandweave.com/products/womens-pigment-dyed-sweatpants): Discover our women's sweatpants, crafted with a unique pigment-dyed finish for a soft, vintage feel. Perfect for comfort, lounging, or casual outings.
-  Updated: 2025-12-21T23:35:45Z
+  Updated: 2025-12-22T11:35:52Z
   Vendor: Bask & Weave
   Product Type: Sweatpants
   Availability: Available
