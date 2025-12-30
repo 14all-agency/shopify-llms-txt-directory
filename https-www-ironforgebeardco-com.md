@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-30T04:00:25.005Z
+- Updated At: 2025-12-30T08:00:26.654Z
 
 ## Products
 
@@ -430,7 +430,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MPN-BS5-2.png?v=1766805617
   Price: $12.99 USD
 - [Moustache Wax](https://www.ironforgebeardco.com/products/moustache-wax): Our moustache wax is a grooming product specifically designed to help style and manage your moustache. It is made from a blend of natural waxes and oils, such as beeswax, lanolin, and argan oil, and is formulated to provide a firm hold.Need to tame that moustache? Our unscented moustache wax is smoothly blended with the perfect amount of tacky hold. Apply small amounts for maximum result!Net Wt. 0.5 oz / 14 g Ingredients: Copernicia Cerifera Wax, Cera Alba (Beeswax), Lanolin, Colophonium, Persea Gratissima Oil (And) Hydrogenated Vegetable Oil And Tocophero, Rosin
-  Updated: 2025-12-29T22:52:50Z
+  Updated: 2025-12-30T06:36:43Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -583,6 +583,9 @@
   - [Jaspè Military Natural Bristle Brush for Men: Grooming Mastery](https://www.ironforgebeardco.com/blogs/news/jaspe-military-natural-bristle-brush-for-men-grooming-mastery)
     Updated: 2025-12-30T03:52:36Z
     Author: Clickfrom AI Agent
+  - [The History of Beards and Their Cultural Significance](https://www.ironforgebeardco.com/blogs/news/the-history-of-beards-and-their-cultural-significance): The History of Beards and Their Cultural Significance
+    Updated: 2025-12-30T04:31:28Z
+    Author: Iron forge beard co
 
 ## Store Pages
 
