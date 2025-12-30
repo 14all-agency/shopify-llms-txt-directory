@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-28T00:00:34.310Z
+- Updated At: 2025-12-30T00:00:34.076Z
 
 ## Products
 
@@ -409,6 +409,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_a97c39d9-129b-4f25-9089-f66d13a71b8a.jpg?v=1766471561
   Price: $64.16 USD
+- [USB Bluetooth 5.4 Audio Receiver Adapter](https://starcopia.com/products/usb-bluetooth-5-4-audio-receiver-adapter): Wireless Play: No Driver Required & Automatic pairing device. Removing troubles of wired connection, through the wireless connection and transmission, the user can enjoy a high fidelity music at any place indoor by wireless control. Transmission Rate:3(Mbps) . Transmission Distance: up to 10m Easy To Operate: Simply connect your bluetooth speaker with our device, enjoy ease and ease, support multiple devices and enjoy stereo high-definition sound effects. immediately transform your speakers into a fashionable wireless bluetooth speaker HiFi Standard: APTX lossless transmission technology, High sampling 44.1KHz, clear sound quality, enjoy prue music from Headset, Computer, Mobile Phone, Speakers and Card audio devices with USB output function Portable Design: USB 2.0 with Mini size, the feature of portable can let you carry them to anywhere you want. Important note: Bluetooth mice, game controllers, data transmission including printers, mobile phones, tablets, headsets with TWS, OWS protocols or other unknown Bluetooth devices are not supported.
+  Updated: 2025-12-28T07:30:33Z
+  Vendor: starcopia
+  Product Type: bluetooth adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_0423af82-efbd-452c-a9a1-feb2f4dab692.jpg?v=1766906876
+  Price: $25.61 USD
 
 ## Collections
 
@@ -431,8 +438,8 @@
   Updated: 2025-12-26T12:35:17Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-12-26T12:35:17Z
-  Total Products: 8
+  Updated: 2025-12-28T07:30:28Z
+  Total Products: 9
 
 ## Store Pages
 
