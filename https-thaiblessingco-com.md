@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-06-21T22:40:19Z
 - Contact Email: thaiblessingco@thaiblessingco.com
-- Updated At: 2025-12-29T00:00:43.753Z
+- Updated At: 2025-12-30T00:00:45.520Z
 
 ## Products
 
@@ -1160,7 +1160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/tao-thanabodi-maharaj-first-edition-amulet-gold-front-closeup.jpg?v=1753331158
   Price: $96.00 USD
 - [Thai Heritage Talisman - Authentic Amulet for Spiritual Protection](https://thaiblessingco.com/products/authentic-thai-heritage-talisman-upakut): Enhance your spiritual journey with our Authentic Thai Heritage Talisman. This unique amulet offers spiritual protection and ancient wisdom, inviting peace and prosperity into your life.
-  Updated: 2025-12-28T04:09:25Z
+  Updated: 2025-12-29T04:09:34Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
@@ -1202,7 +1202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/thai-prai-metta-mahamongkol-charm-front-back-views.jpg?v=1760343885
   Price: $87.00 USD
 - [Phra Phong Upakut First Edition - Embrace Wisdom and Prosperity](https://thaiblessingco.com/products/kruba-kham-ai-first-edition-phra-phong-upakut): Discover the Phra Phong Upakut First Edition, crafted by Kruba Kham-Ai. Embrace wisdom, prosperity, and heritage in this unique collectible. Shop now!
-  Updated: 2025-12-28T04:09:25Z
+  Updated: 2025-12-29T04:09:34Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
