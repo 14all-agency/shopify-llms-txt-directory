@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-30T08:00:38.537Z
+- Updated At: 2025-12-30T12:00:40.232Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/glassy-sunglasses-black-glassy-morrison-polarized-black-blue-1183729517.jpg?v=1757439960
   Price: £31.95 GBP
 - [5 Way Ultimate T-Tool For Skateboard | Black](https://thevinessupply.co/products/5-way-ultimate-t-tool-for-skateboard-black): Buy skate tools at The Vines Skate Shop in Solihull or online at www.thevinessupply.co. The perfect accompaniment to any skate session, our 5 way T-Tool is vital for any skateboard adjustments. Works on axel nuts, trucks bolts and kingpin nuts. With fast, free delivery available at www.thevinessupply.co
-  Updated: 2025-12-28T12:43:11Z
+  Updated: 2025-12-30T11:38:56Z
   Vendor: G-Tool
   Product Type: Skate Tool
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/birdhouse-completes-birdhouse-stage-3-b-logo-complete-skateboard-8-1183728827.jpg?v=1757424729
   Price: £79.95 GBP
 - [Bones Reds Precision Skate Bearings | Pack of 8](https://thevinessupply.co/products/bones-reds-precision-skate-bearings-pack-of-8): Buy Bones Reds Precision Skate Bearings at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-28T12:43:11Z
+  Updated: 2025-12-30T11:08:25Z
   Vendor: Bones
   Product Type: Bearings
   Availability: Available
@@ -210,7 +210,7 @@
     Availability: Available
     Price: £58.95 GBP
 - [Jessup Grip Tape Black | Single Sheet](https://thevinessupply.co/products/jessup-grip-tape-black-single-sheet): Jessup Grip Tape Single Sheet
-  Updated: 2025-12-23T12:16:46Z
+  Updated: 2025-12-30T11:08:06Z
   Vendor: Jessup
   Product Type: Grip Tape
   Availability: Available
@@ -2200,21 +2200,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/anti-hero-decks-7-81-anti-hero-classic-eagle-skateboard-deck-7-81-1183716014.png?v=1757188324
   Price: £74.95 GBP
-- [Polar Skate Co Clubb Inc Long Sleeve T-Shirt | Lemon](https://thevinessupply.co/products/polar-skate-co-clubb-inc-long-sleeve-t-shirt-lemon): Buy the Polar Skate Co Clubb Long Sleeve T-Shirt in Lemon at The Vines, with fast, premium delivery and easy returns.
-  Updated: 2025-12-29T14:17:52Z
-  Vendor: Polar
-  Product Type: Tees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-tees-polar-skate-co-clubb-inc-long-sleeve-t-shirt-lemon-1183716000.png?v=1757188085
-  - [Medium](https://thevinessupply.co/products/polar-skate-co-clubb-inc-long-sleeve-t-shirt-lemon?variant=54519116661071)
-    Availability: Not Available
-    Price: £29.95 GBP
-  - [Large](https://thevinessupply.co/products/polar-skate-co-clubb-inc-long-sleeve-t-shirt-lemon?variant=54519116693839)
-    Availability: Available
-    Price: £29.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/polar-skate-co-clubb-inc-long-sleeve-t-shirt-lemon?variant=54519116726607)
-    Availability: Not Available
-    Price: £29.95 GBP
 - [Stance Americana 3 Pack Crew Socks | Multi](https://thevinessupply.co/products/stance-americana-3-pack-crew-socks-multi): Buy Stance Socks Americana three pack in multi at The Vines. With fast, free premium delivery and easy returns at www.thevinessupply.co
   Updated: 2025-09-18T09:37:33Z
   Vendor: Stance
@@ -3142,7 +3127,7 @@
     Availability: Not Available
     Price: £27.95 GBP
 - [Magenta Skateboards Plant T-Shirt | Graphite](https://thevinessupply.co/products/magenta-skateboards-plant-t-shirt-graphite): Buy the Magenta Skateboards Plant T-Shirt in Graphite at The Vines, with Fast, Premium Delivery and Easy Returns.
-  Updated: 2025-12-29T12:25:12Z
+  Updated: 2025-12-30T11:44:20Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
@@ -4473,7 +4458,7 @@
     Availability: Available
     Price: £94.95 GBP
 - [HUF 4 The Dawgs T-Shirt | White](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white): Buy the HUF 4 The Dawgs T-Shirt in white at The Vines. With fast, free delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-12-24T14:54:29Z
+  Updated: 2025-12-30T11:44:21Z
   Vendor: HUF
   Product Type: Tees
   Availability: Available
@@ -4488,7 +4473,7 @@
     Availability: Available
     Price: £31.95 GBP
   - [Extra Large](https://thevinessupply.co/products/huf-4-the-dawgs-t-shirt-white?variant=55958653534543)
-    Availability: Available
+    Availability: Not Available
     Price: £31.95 GBP
 - [HUF Bowery Side Bag | Realtree Camo](https://thevinessupply.co/products/huf-bowery-side-bag-realtree-camo): Buy the HUF Bowery Side Bag in Realtree camo at The Vines. Get best prices on HUF skate accessories and fast, premium delivery with easy returns.
   Updated: 2025-12-25T21:16:41Z
@@ -6101,13 +6086,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/oj-wheels-wheels-55mm-oj-boserio-little-devil-super-99a-skateboard-wheels-55mm-1209609256.jpg?v=1764618373
   Price: £49.95 GBP
-- [Spitfire Classics 99A Purple Skateboard Wheels | 58mm](https://thevinessupply.co/products/spitfire-classics-99a-blue-skateboard-wheels-58mm): Buy the Spitfire Classics 99A Blue Skateboard Wheels in 58mm, with fast, premium delivery and easy returns within 90 days.
-  Updated: 2025-12-03T22:32:19Z
-  Vendor: Spitfire Wheels
-  Product Type: Wheels
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/spitfire-wheels-wheels-58mm-spitfire-classics-99a-blue-skateboard-wheels-58mm-1209620260.jpg?v=1764625794
-  Price: £51.95 GBP
 - [Chocolate L8RGRL Doberman Carl Aikens G057 Skateboard Deck | 8.5"](https://thevinessupply.co/products/chocolate-l8rgrl-doberman-carl-aikens-g057-skateboard-deck-8-5): Buy the Chocolate L8RGRL Doberman Carl Aikens G057 Skateboard Deck in 8.5" at The Vines, with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-05T10:43:09Z
   Vendor: Chocolate
@@ -6559,8 +6537,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-29T13:42:21Z
-  Total Products: 138
+  Updated: 2025-12-30T09:55:56Z
+  Total Products: 137
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-29T12:16:47Z
   Total Products: 386
@@ -6850,8 +6828,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-29T19:24:41Z
-  Total Products: 3217
+  Updated: 2025-12-30T11:37:32Z
+  Total Products: 3216
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-25T13:50:35Z
   Total Products: 110
