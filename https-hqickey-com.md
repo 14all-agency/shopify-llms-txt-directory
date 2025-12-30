@@ -8,14 +8,14 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-29T00:00:26.935Z
+- Updated At: 2025-12-30T00:00:28.451Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
-  Updated: 2025-12-28T23:41:03Z
+  Updated: 2025-12-29T15:18:55Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
   Updated: 2025-12-14T08:11:15Z
@@ -23,8 +23,8 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
 - [Microprocessors](https://hqickey.com/collections/microprocessors): Microprocessors vs Microcontrollers: Compare CPU-focused ICs with external memory needs, multi-tasking OS support & industrial applications. Discover high-performance computing hardware designs.
   Updated: 2025-12-14T08:11:16Z
   Total Products: 5622
-- [System On Chip (SoC)](https://hqickey.com/collections/system-on-chip-soc): System-on-Chip (SoC) vs Discrete Components: Integrated computing systems combining microprocessors, FPGA co-processors & graphics controllers. Explore high-performance embedded designs with external storage interfaces for AI acceleration and edge computing.
-  Updated: 2025-12-28T23:12:16Z
+- [System On Chip SoC Integrated Circuits for AI & Edge Computing - HQICKEY](https://hqickey.com/collections/system-on-chip-soc): High-performance System-on-Chip (SoC) solutions combining microprocessors, FPGA co-processors & graphics controllers for AI acceleration and edge computing applications.
+  Updated: 2025-12-29T21:47:51Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
   Updated: 2025-12-14T08:11:18Z
@@ -131,8 +131,8 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
 - [Real-Time Clocks (RTCs) | Precision Timekeeping ICs for IoT, Industrial & Medical Devices](https://hqickey.com/collections/real-time-clocks): Ensure accurate time and date tracking across mission-critical systems with Real-Time Clock (RTC) ICs engineered for ultra-low power consumption, temperature compensation, and multi-protocol compatibility. These devices deliver precise timing for applications ranging from industrial automation to wearable tech, supporting memory configurations from 2B to 2MB and interfaces like I²C, SPI, and 1-Wire.
   Updated: 2025-12-14T08:12:07Z
   Total Products: 2039
-- [Specialized Analog-to-Digital Converters | [Brand Name] Data Conversion Solutions](https://hqickey.com/collections/adcs-dacs-special-purpose): High-performance analog-to-digital converters for ultrasound, automotive radar, & industrial systems. Integrated low-noise amps, galvanic isolation, & display drivers. Explore application-specific solutions
-  Updated: 2025-12-28T19:15:17Z
+- [High-Performance ADC DAC Special Purpose Converters for Ultrasound & Automotive - HQICKEY](https://hqickey.com/collections/adcs-dacs-special-purpose): Specialized analog-to-digital & digital-to-analog converters for ultrasound imaging, automotive radar & industrial applications. Integrated low-noise amplifiers, galvanic isolation & display drivers from authorized distributors.
+  Updated: 2025-12-29T23:26:12Z
   Total Products: 2640
 - [Analog Front-End (AFE) Semiconductors: High-Precision Signal Conditioning for Industrial, Automotive & IoT](https://hqickey.com/collections/analog-front-end-afe): Discover Analog Front-End (AFE) semiconductor solutions for advanced signal conditioning. Supports 8-42 bit resolution, 1-256 channels, and integrates amplifiers, filters, & ADC/DAC. Ideal for industrial sensors, automotive ECUs, medical devices, and IoT applications. Optimize sensor data accuracy with scalable AFE modules.
   Updated: 2025-12-14T08:12:09Z
@@ -222,7 +222,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:22Z
   Total Products: 244
 - [Memory Semiconductor Devices: Non-Volatile & Volatile Storage Solutions (64b – 6Tb)](https://hqickey.com/collections/memory): Discover Memory Semiconductor Devices including Non-Volatile (EEPROM, Flash) and Volatile (DRAM, SRAM) types. Features 64b–6Tb storage with I2C, SPI, and Parallel interfaces for integrated circuit applications.
-  Updated: 2025-12-28T21:31:51Z
+  Updated: 2025-12-29T22:04:04Z
   Total Products: 54444
 - [Specialized Integrated Circuits (ICs): Application-Specific Solutions for Automation, Security & Multimedia](https://hqickey.com/collections/specialized-ics): Explore specialized ICs for addressable switches, authentication, audio/video control, clock generation, and more. Discover how these purpose-built chips enable precision in industrial, consumer, and embedded systems.
   Updated: 2025-12-26T09:55:32Z
@@ -231,7 +231,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-20T05:20:44Z
   Total Products: 61
 - [AC to DC Power Conversion Devices | Component-Level Control & Isolation Solutions](https://hqickey.com/collections/ac-dc-converters-offline-switchers): Design robust AC to DC power systems with component-level control devices. Supports high voltage ratios, isolation, and integration with stock/custom SMPS transformers for efficient, flexible applications.
-  Updated: 2025-12-28T06:52:52Z
+  Updated: 2025-12-29T15:54:48Z
   Total Products: 4383
 - [Battery Charger PMICs | Multi-Cell & Chemistry Charge Management Solutions](https://hqickey.com/collections/battery-chargers): Optimize battery charging with PMICs for precision current/voltage regulation and monitoring. Supports diverse battery chemistries, multi-cell configurations, supercapacitors, and safe, integrated power management.
   Updated: 2025-12-14T08:13:28Z
@@ -326,6 +326,15 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
 - [XILINX-XC7A35T](https://hqickey.com/collections/xilinx-xc7a35t)
   Updated: 2025-12-14T08:14:08Z
   Total Products: 37
+- [NXP Semiconductors - Automotive Industrial IoT 5G Solutions | HQICKEY](https://hqickey.com/collections/nxp-usa-inc): Premium NXP semiconductor components: automotive ADAS, industrial MCUs, NFC secure elements, 5G RF power. Full specs, traceability, long lifecycle support.
+  Updated: 2025-12-29T11:28:05Z
+  Total Products: 21891
+- [Microchip Technology ICs - Atmel, Microsemi, Micrel Components | HQICKEY Authorized Distributor](https://hqickey.com/collections/microchip-technology): Authorized Microchip Technology distributor. Atmel MCUs, Microsemi FPGAs, Micrel power ICs, SMSC controllers, SST memory. RoHS compliant, full traceability, global shipping.
+  Updated: 2025-12-29T12:02:42Z
+  Total Products: 63462
+- [Renesas Electronics ICs - IDT & Celeno Semiconductors | HQICKEY](https://hqickey.com/collections/renesas): Premium Renesas semiconductors including IDT, Celeno & Renesas Electronics components. CPLDs, FPGAs, microcontrollers, memory & timing ICs with full traceability.
+  Updated: 2025-12-29T14:07:23Z
+  Total Products: 54207
 
 ## Blogs
 
