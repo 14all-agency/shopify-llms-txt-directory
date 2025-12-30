@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-09T08:18:27Z
 - Contact Email: care@nubokind.com
-- Updated At: 2025-12-30T05:40:07.892Z
+- Updated At: 2025-12-30T05:40:14.677Z
 
 ## About us
 nubokind (also known as nubo) creates premium silicone newborn teethers and teething toys.  
