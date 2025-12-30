@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-30T04:00:36.763Z
+- Updated At: 2025-12-30T08:00:38.537Z
 
 ## Products
 
@@ -217,7 +217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/jessup-grip-tape-black-jessup-grip-tape-black-single-sheet-1183718807.jpg?v=1757237404
   Price: £7.95 GBP
 - [Mob Grip Tape Black | Single Sheet](https://thevinessupply.co/products/mob-grip-tape-black-single-sheet): Mob Grip Tape Single Sheet
-  Updated: 2025-11-21T15:30:45Z
+  Updated: 2025-12-30T07:23:06Z
   Vendor: Mob
   Product Type: Grip Tape
   Availability: Available
