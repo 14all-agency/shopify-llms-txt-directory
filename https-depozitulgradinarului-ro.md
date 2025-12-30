@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-29T00:00:46.223Z
+- Updated At: 2025-12-30T00:00:46.190Z
 
 ## Products
 
@@ -4228,7 +4228,7 @@ Livrare rapidă!
   Updated: 2025-12-18T18:59:29Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-12-18T19:45:07Z
+  Updated: 2025-12-29T12:26:43Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
   Updated: 2025-12-18T18:52:24Z
@@ -4255,7 +4255,7 @@ Livrare rapidă!
   Updated: 2025-12-18T20:07:37Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-12-18T20:07:37Z
+  Updated: 2025-12-29T12:26:43Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
   Updated: 2025-12-19T12:32:00Z
@@ -4334,7 +4334,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:15:28Z
   Total Products: 8
 - [Pachete Tratament Grădină & Agricultură | Pomi Fructiferi, Legume, Vita de Vie, Gazon, Tuia, Flori](https://depozitulgradinarului.ro/collections/pachete-tratament): Alege pachete complete de tratament grădină & agricultură, pentru viță-de-vie, legume, pomi fructiferi, flori, gazon sau tuia. Soluții eficiente împotriva bolilor și dăunătorilor.
-  Updated: 2025-12-09T18:07:32Z
+  Updated: 2025-12-29T12:26:43Z
   Total Products: 12
 - [Produse BIO | Legume, Flori, Pomi, Gazon, Dezinfectant sol, Raticide](https://depozitulgradinarului.ro/collections/produse-bio): Gama completă de produse BIO: tratamente naturale pentru legume, pomi, flori, gazon, sol și combaterea rozătoarelor. Alege soluții ecologice!
   Updated: 2025-12-11T12:37:20Z
@@ -4349,7 +4349,7 @@ Livrare rapidă!
   Updated: 2025-11-30T13:28:56Z
   Total Products: 0
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
-  Updated: 2025-12-09T18:07:32Z
+  Updated: 2025-12-29T12:26:43Z
   Total Products: 4
 - [Pachete Tratament Viță de Vie – Protecție Completă pentru Culturi Sănătoase](https://depozitulgradinarului.ro/collections/pachete-tratament-vita-de-vie): Alege pachete tratament viță-de-vie pentru o protecție completă împotriva bolilor și dăunătorilor. Soluții profesionale pentru întreținerea și protejarea culturilor de viță de vie, de la butași la recolta finală.
   Updated: 2025-11-30T13:21:32Z
@@ -4400,7 +4400,7 @@ Livrare rapidă!
   Updated: 2025-10-21T14:52:08Z
   Total Products: 8
 - [Promoții](https://depozitulgradinarului.ro/collections/promoții)
-  Updated: 2025-12-20T15:19:47Z
+  Updated: 2025-12-29T12:26:43Z
   Total Products: 334
 
 ## Blogs
