@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-30T12:00:35.173Z
+- Updated At: 2025-12-30T16:00:35.524Z
 
 ## Products
 
@@ -1609,11 +1609,11 @@
     Availability: Available
     Price: $109.95 USD
 - [Fruit Fusion Original Candle](https://affinatiliving.com/products/fruit-fusion-original-candle): Fruit Fusion Original Candle – 10 oz Fruit Fusion is bright, juicy, and energizing. A blend of fresh fruits creates a lively, uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Mixed CitrusMiddle Notes: Tropical FruitsBase Notes: Soft Sugar Perfect for adding energy and freshness to any room. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:19Z
+  Updated: 2025-12-30T15:04:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/72C93AF2-BFC4-443C-998C-A31913739927.png?v=1747346843
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_56_41_AM.png?v=1767107064
   - [Single Order](https://affinatiliving.com/products/fruit-fusion-original-candle?variant=42443983421521)
     Availability: Available
     Price: $16.95 USD
@@ -1669,11 +1669,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Mint Eucalyptus Original Candle](https://affinatiliving.com/products/mint-eucalyptus-original-candle): Mint Eucalyptus Original Candle – 10 oz Mint Eucalyptus is crisp, clean, and revitalizing. Cool mint blends with eucalyptus for a refreshing, spa-like scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: MintMiddle Notes: EucalyptusBase Notes: Soft Woods Perfect for clearing the air and resetting your space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:21Z
+  Updated: 2025-12-30T15:15:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8504.png?v=1766687813
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_10_10_54_AM.png?v=1767107755
   - [Single Order](https://affinatiliving.com/products/mint-eucalyptus-original-candle?variant=42443979423825)
     Availability: Available
     Price: $16.95 USD
@@ -1699,11 +1699,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Hawaiian Hibiscus Original Candle](https://affinatiliving.com/products/hawaiian-hibiscus-original-candle): Hawaiian Hibiscus Original Candle – 10 oz Hawaiian Hibiscus is bright, floral, and tropical. Lush blooms create a vibrant, getaway-ready fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tropical FloralsMiddle Notes: HibiscusBase Notes: Soft Musk Perfect for summer vibes and cheerful spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:22Z
+  Updated: 2025-12-30T15:03:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/957FB0A6-2135-47A6-82AF-0B6DB2CD8441.png?v=1747348695
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_56_43_AM.png?v=1767106997
   - [Single Order](https://affinatiliving.com/products/hawaiian-hibiscus-original-candle?variant=42443978244177)
     Availability: Available
     Price: $16.95 USD
@@ -1729,7 +1729,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Pink Sands Original Candle](https://affinatiliving.com/products/pink-sands-original-candle): Pink Sands Original Candle – 10 oz Pink Sands is bright, tropical, and relaxing. Soft fruits blend with gentle florals for a breezy island-inspired scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: CitrusMiddle Notes: Tropical FloralsBase Notes: Soft Vanilla Perfect for escape-ready vibes any time of year. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T01:04:09Z
+  Updated: 2025-12-30T13:32:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1744,7 +1744,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Twisted Peppermint Original Candle](https://affinatiliving.com/products/twisted-peppermint-original-candle): Twisted Peppermint Original Candle – 10 oz Twisted Peppermint is cool, creamy, and refreshing. Bright mint blends with soft sweetness for a crisp, uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: PeppermintMiddle Notes: Sweet MintBase Notes: Vanilla Sugar Perfect for winter freshness or energizing your space year-round. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T01:03:13Z
+  Updated: 2025-12-30T13:44:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1894,11 +1894,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Drops of Rain Original Candle](https://affinatiliving.com/products/drops-of-rain-original-candle): Drops of Rain Original Candle – 10 oz Drops of Rain captures the clean, refreshing scent of rainfall. Light aquatic notes blend with soft florals for a calming, airy fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh OzoneMiddle Notes: Soft FloralsBase Notes: Clean Musk, Light Woods Perfect for creating a peaceful, refreshed atmosphere in any space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:26Z
+  Updated: 2025-12-30T15:32:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4D1F2D23-13ED-4099-91AE-F3DED4FF461B.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8752.png?v=1767108751
   - [Single Order](https://affinatiliving.com/products/drops-of-rain-original-candle?variant=42443972149329)
     Availability: Available
     Price: $16.95 USD
@@ -1939,11 +1939,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Spa Day Original Candle](https://affinatiliving.com/products/spa-day-original-candle): Spa Day Original Candle – 10 oz Spa Day creates a calm, refreshing atmosphere inspired by luxury spa experiences. Clean, soothing notes help you unwind and reset. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Air, Light CitrusMiddle Notes: Eucalyptus, Soft FloralsBase Notes: Clean Musk, Light Woods Perfect for self-care moments and peaceful evenings, this candle turns any space into a retreat. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:16Z
+  Updated: 2025-12-30T14:50:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4BB1CF63-C9F3-4278-9997-EE797D27F0C0.png?v=1747361582
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/045389AD-E9A6-46E7-B378-420696BFA7F4.png?v=1767106212
   - [Single Order](https://affinatiliving.com/products/spa-day-original-candle?variant=42443969953873)
     Availability: Available
     Price: $16.95 USD
@@ -1954,11 +1954,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Tropical Island Original Candle](https://affinatiliving.com/products/tropical-island-original-candle): Tropical Island Original Candle – 10 oz Tropical Island transports you to sun-soaked shores. Bright tropical fruits blend with creamy undertones for a scent that feels warm, relaxed, and getaway-ready. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Tropical FruitMiddle Notes: Coconut, Island FloralsBase Notes: Vanilla, Soft Musk Perfect for summer vibes or anytime you want to escape to paradise. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:16Z
+  Updated: 2025-12-30T15:02:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/F36CD528-FF01-4067-A04E-05304CC20EAB.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_09_58_35_AM.png?v=1767106950
   - [Single Order](https://affinatiliving.com/products/tropical-island-original-candle?variant=42443969593425)
     Availability: Available
     Price: $16.95 USD
@@ -1999,7 +1999,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Lemon & Amber Musk Original Candle](https://affinatiliving.com/products/lemon-amber-musk-original-candle): Lemon & Amber Musk Original Candle – 10 oz Lemon & Amber Musk blends bright citrus with warm depth. Fresh lemon zest meets smooth amber and soft musk for a scent that feels clean yet grounding. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Lemon ZestMiddle Notes: AmberBase Notes: Soft Musk, Light Woods Perfect for energizing your space while keeping it warm and inviting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T03:31:15Z
+  Updated: 2025-12-30T15:31:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2104,7 +2104,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Black Coffee Original Candle](https://affinatiliving.com/products/black-coffee-original-candle): Black Coffee Original Candle – 10 oz Black Coffee delivers the bold, unmistakable aroma of freshly brewed coffee. Deep, rich, and energizing, this scent feels warm and comforting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Brewed CoffeeMiddle Notes: Dark Roast EspressoBase Notes: Cocoa, Warm Woods Perfect for mornings, workspaces, or anytime you want a cozy café feel at home. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T03:09:58Z
+  Updated: 2025-12-30T15:09:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2119,7 +2119,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Pumpkin Spice Latte Original Candle](https://affinatiliving.com/products/pumpkin-spice-latte-original-candle): Pumpkin Spice Latte Original Candle – 10 oz Pumpkin Spice Latte captures the cozy comfort of your favorite fall drink. Creamy pumpkin blends with warm spice and smooth sweetness for a scent that feels inviting and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Pumpkin Puree, Warm SpiceMiddle Notes: Cinnamon, NutmegBase Notes: Vanilla Cream, Sweet Sugar Perfect for crisp mornings and cozy evenings, this candle fills your home with fall-inspired warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T00:56:27Z
+  Updated: 2025-12-30T12:24:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2224,11 +2224,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Fresh Cut Grass Original Candle](https://affinatiliving.com/products/fresh-cut-grass-original-candle): Fresh Cut Grass Original Candle – 10 oz Fresh Cut Grass brings the unmistakable scent of a freshly mowed lawn into your home. Crisp, green, and invigorating, this fragrance feels clean, nostalgic, and energizing. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Green Leaves, Fresh AirMiddle Notes: Cut Grass, Herbal GreensBase Notes: Soft Earth, Light Woods Perfect for spring and summer or anytime you want your space to feel bright and refreshed. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:24Z
+  Updated: 2025-12-30T15:13:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8492.png?v=1766687481
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_10_08_57_AM.png?v=1767107580
   - [Single Order](https://affinatiliving.com/products/fresh-cut-grass-original-candle?variant=42443952291921)
     Availability: Available
     Price: $16.95 USD
@@ -2254,7 +2254,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Banana Creme Pie Original Candle](https://affinatiliving.com/products/banana-creme-pie-original-candle): Banana Creme Pie Original Candle – 10 oz Banana Creme Pie is creamy, sweet, and irresistibly comforting. Ripe banana blends with smooth vanilla cream for a dessert-inspired scent that feels indulgent and nostalgic. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Ripe BananaMiddle Notes: Vanilla CreamBase Notes: Sweet Sugar, Soft Bakery Notes Perfect for cozy nights and sweet moments, this candle fills your space with warm, bakery-style comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T03:25:49Z
+  Updated: 2025-12-30T15:25:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2269,7 +2269,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Autumn Breeze Original Candle](https://affinatiliving.com/products/autumn-breeze-original-candle): Autumn Breeze Original Candle – 10 oz Autumn Breeze captures the crisp comfort of fall air. Fresh outdoor notes blend with soft warmth for a scent that feels clean, cozy, and seasonal. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Air, Light CitrusMiddle Notes: Fallen LeavesBase Notes: Soft Woods, Warm Musk Perfect for transitional seasons, this candle brings a refreshing yet comforting feel to your home. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T00:35:51Z
+  Updated: 2025-12-30T12:44:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2329,11 +2329,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Ocean Breeze Original Candle](https://affinatiliving.com/products/ocean-breeze-original-candle-1): Ocean Breeze Original Candle – 10 oz Ocean Breeze brings the refreshing calm of coastal air into your home. Clean marine notes blend with soft florals and light woods for a scent that feels airy, crisp, and relaxing. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh Ozone, Sea AirMiddle Notes: Soft FloralsBase Notes: Light Woods, Clean Musk Perfect for brightening your space and creating a breezy, relaxed atmosphere that feels effortlessly fresh. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:27Z
+  Updated: 2025-12-30T14:49:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ED11D2B5-0C9B-454B-9BCB-B20273A1D1F5.png?v=1747361581
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4948ADDF-0011-4CDD-92C6-E919A1553D5E.png?v=1767106159
   - [Single Order](https://affinatiliving.com/products/ocean-breeze-original-candle-1?variant=42443945476177)
     Availability: Available
     Price: $16.95 USD
@@ -2359,11 +2359,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Blue Spruce Original Candle](https://affinatiliving.com/products/blue-spruce-original-candle): Blue Spruce Original Candle – 10 oz Blue Spruce captures the fresh, crisp scent of winter evergreens. Cool pine needles blend with subtle woods for a clean, seasonal fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh PineMiddle Notes: Spruce NeedlesBase Notes: Soft Woods, Winter Musk Perfect for winter months and holiday décor, this candle brings the outdoors in with a refreshing, forest-fresh feel. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-29T15:05:28Z
+  Updated: 2025-12-30T14:48:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/268D447D-A1B1-41F3-99AA-2E18BA606C4E.png?v=1747361582
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B76CCF45-D3C3-43BE-A7AE-760DEF2ED093.png?v=1767106125
   - [Single Order](https://affinatiliving.com/products/blue-spruce-original-candle?variant=42443941478481)
     Availability: Available
     Price: $16.95 USD
@@ -2449,7 +2449,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Black Cherry Merlot Original Candle](https://affinatiliving.com/products/black-cherry-original-candle): Black Cherry Merlot Original Candle – 10 oz Black Cherry Merlot is bold, juicy, and richly sweet. Dark cherry notes blend with subtle warmth for a scent that feels vibrant and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Ripe Black CherryMiddle Notes: Sweet Cherry JuiceBase Notes: Light Vanilla, Soft Woods Perfect for adding a pop of sweetness to your space, this candle feels inviting and full-bodied. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T03:21:04Z
+  Updated: 2025-12-30T15:05:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2464,7 +2464,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Candy Corn Original Candle](https://affinatiliving.com/products/candy-corn-original-candle): Candy Corn Original Candle – 10 oz Candy Corn is sweet, playful, and nostalgic. Creamy vanilla and sugary notes create a lighthearted scent that feels fun and festive. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sweet SugarMiddle Notes: Creamy VanillaBase Notes: Soft Candy Notes Perfect for fall décor and seasonal fun, this candle adds a cheerful touch to any space. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T00:34:46Z
+  Updated: 2025-12-30T12:48:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4122,7 +4122,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Pumpkin Pie Original Candle](https://affinatiliving.com/products/pumpkin-pie-original-candle): Embrace fall with our Pumpkin Pie Candle. A soy-blend 10 oz candle featuring creamy pumpkin, buttery crust, and cinnamon spice for the perfect cozy autumn scent.
-  Updated: 2025-12-30T00:56:53Z
+  Updated: 2025-12-30T12:21:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4137,7 +4137,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Candied Yams Original Candle](https://affinatiliving.com/products/candied-yams-original-candle): Cozy up with Candied Yams. This 10 oz soy candle blends brown sugar, baked sweet potato, and vanilla for a nostalgic, heartwarming holiday scent.
-  Updated: 2025-12-30T00:55:20Z
+  Updated: 2025-12-30T12:28:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4152,7 +4152,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Pumpkin Cheesecake Original Candle](https://affinatiliving.com/products/pumpkin-cheesecake-original-candle): Enjoy the rich aroma of Pumpkin Cheesecake. This 10 oz soy-blend candle combines spiced pumpkin, vanilla, and cream cheese for a warm, bakery-fresh fall fragrance.
-  Updated: 2025-12-30T00:55:48Z
+  Updated: 2025-12-30T12:28:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4447,7 +4447,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Birthday Cake Original Candle](https://affinatiliving.com/products/birthday-cake-original-candle): Birthday Cake Original Candle – 10 oz Birthday Cake is sweet, fluffy, and celebratory. Notes of vanilla cake and sugary frosting create a joyful scent that feels fun and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Sugar, VanillaMiddle Notes: Yellow Cake BatterBase Notes: Buttercream Frosting Perfect for celebrations or everyday sweetness, this candle fills your space with cheerful, bakery-fresh comfort. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T03:23:58Z
+  Updated: 2025-12-30T15:19:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5733,14 +5733,14 @@
     Availability: Available
     Price: $72.95 USD
 - [Velvet Lavender Bar Soap](https://affinatiliving.com/products/lavender-bar-soap): Relax with Velvet Lavender—crafted with olive, coconut & shea butter for a creamy lather and soothing floral calm.
-  Updated: 2025-12-18T18:12:51Z
+  Updated: 2025-12-30T15:24:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5E2E2A1F-BBB8-49BC-B394-4381C5AAD691.png?v=1763303458
   Price: $8.95 USD
 - [Floral Symphony Bar Soap](https://affinatiliving.com/products/floral-symphony-bar-soap): An elegant blend of blooms and botanicals in a moisturizing olive oil & shea butter base for soft, fragrant skin.
-  Updated: 2025-12-18T18:12:51Z
+  Updated: 2025-12-30T15:24:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5762,168 +5762,168 @@
     Availability: Available
     Price: $109.95 USD
 - [Olive Grove Bar Soap](https://affinatiliving.com/products/olive-grove-bar-soap): Earthy sage and fresh olive notes cleanse and calm in this rich, hydrating soap made with natural plant oils.
-  Updated: 2025-12-18T18:12:52Z
+  Updated: 2025-12-30T15:24:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7620.png?v=1763306905
   Price: $8.95 USD
 - [Icy Peppermint Bar Soap](https://affinatiliving.com/products/icy-peppermint-bar-soap): Cool and invigorating, Icy Peppermint refreshes skin with creamy shea butter moisture and energizing mint oils.
-  Updated: 2025-12-18T18:12:52Z
+  Updated: 2025-12-30T15:24:08Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/68FDB4FB-5C73-45A2-B40E-BE8CF98D7BE0.png?v=1763303756
   Price: $8.95 USD
 - [Cherry Silk & Pomegranate Bar Soap](https://affinatiliving.com/products/cherry-silk-pomegranate-bar-soap): Sweet cherry and ripe pomegranate deliver a silky, antioxidant-rich cleanse with nourishing botanical oils.
-  Updated: 2025-12-18T18:12:52Z
+  Updated: 2025-12-30T15:23:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/673376BC-B45C-483F-8EAC-9B4C053F24D5.png?v=1763303815
   Price: $8.95 USD
 - [Tropical Essence Bar Soap](https://affinatiliving.com/products/tropical-essence-bar-soap): Escape to the tropics with creamy coconut, citrus notes, and shea butter hydration in every luxurious lather.
-  Updated: 2025-12-18T18:12:52Z
+  Updated: 2025-12-30T15:23:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4CBFB56B-1F37-4590-930B-4606BEEE6692.png?v=1763303851
   Price: $8.95 USD
 - [Avocado & Lemon Zest Bar Soap](https://affinatiliving.com/products/avocado-lemon-zest-bar-soap): Bright lemon and rich avocado oil leave skin radiant and smooth in a shea-butter-infused cleansing bar.
-  Updated: 2025-12-18T18:12:52Z
+  Updated: 2025-12-30T15:23:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/923777E5-1610-4D78-83B0-0C2F4190DB24.png?v=1763303867
   Price: $8.95 USD
 - [Citrus Breeze Bar Soap](https://affinatiliving.com/products/citrus-breeze-bar-soap): Awaken your senses with crisp citrus freshness and gentle moisture from olive and coconut oils.
-  Updated: 2025-12-18T18:12:52Z
+  Updated: 2025-12-30T15:23:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/D53765DB-FE9D-48F2-857D-D1ECE551CD55.png?v=1763303458
   Price: $8.95 USD
 - [Orange Clove Bar Soap](https://affinatiliving.com/products/orange-clove-bar-soap): Warm orange and spicy clove blend in a comforting, shea-butter soap that softens while it revives.
-  Updated: 2025-12-18T18:12:53Z
+  Updated: 2025-12-30T15:22:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/43555DE0-3B0B-4887-ACF7-98B4F1C8F3C6.png?v=1763303900
   Price: $8.95 USD
 - [Vanilla Rose Silk Bar Soap](https://affinatiliving.com/products/vanilla-rose-silk-bar-soap): A romantic mix of vanilla bean and rose petal, whipped with olive and shea butter for a velvety cleanse.
-  Updated: 2025-12-18T18:12:53Z
+  Updated: 2025-12-30T15:22:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/FC46C43D-453F-476A-B663-1DEA6C3BEDB3.png?v=1763303920
   Price: $8.95 USD
 - [Charcoal & Aloe Essence Bar Soap](https://affinatiliving.com/products/charcoal-aloe-essence-bar-soap): Purifying charcoal and soothing aloe vera detoxify while rich plant oils keep skin balanced and smooth.
-  Updated: 2025-12-18T18:12:53Z
+  Updated: 2025-12-30T15:22:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/51241AE1-F1B4-4B96-AF84-63AA9D3249CF.png?v=1763303935
   Price: $8.95 USD
 - [Dark Forest Bar Soap](https://affinatiliving.com/products/dark-forest-bar-soap): Woody musk and fresh pine undertones meet creamy shea butter for a grounding, nature-inspired cleanse.
-  Updated: 2025-12-18T18:12:53Z
+  Updated: 2025-12-30T15:22:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/FAFB4533-2BB3-4E1F-8722-6957ED54CC92.png?v=1763303950
   Price: $8.95 USD
 - [Wild Sage Bar Soap](https://affinatiliving.com/products/wild-sage-bar-soap): Herbal sage and gentle botanicals refresh and restore with every creamy, nutrient-rich lather.
-  Updated: 2025-12-23T13:14:04Z
+  Updated: 2025-12-30T15:21:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/AF725051-072A-4533-B6FD-B0D52A713DC1.png?v=1763303968
   Price: $8.95 USD
 - [Mint Lavender Bar Soap](https://affinatiliving.com/products/mint-lavender-bar-soap): Cooling mint and calming lavender unite in a soothing, shea-butter soap for body and mind balance.
-  Updated: 2025-12-18T18:12:53Z
+  Updated: 2025-12-30T15:21:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5777A9A2-53A0-4AD2-A772-3A9555526D7B.png?v=1763303458
   Price: $8.95 USD
 - [Woodland Musk Bar Soap](https://affinatiliving.com/products/woodland-musk-bar-soap): Warm woods and subtle musk wrap skin in creamy moisture and refined, earthy scent comfort.
-  Updated: 2025-12-18T18:12:53Z
+  Updated: 2025-12-30T15:21:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1AEA79B0-37DA-4E8A-BAFA-9E44FEB034D4.png?v=1763304010
   Price: $8.95 USD
 - [Hydrangea & White Tea Bar Soap](https://affinatiliving.com/products/hydrangea-white-tea-bar-soap): Soft florals and white tea calm the senses while olive and shea butter pamper your skin.
-  Updated: 2025-12-18T18:12:54Z
+  Updated: 2025-12-30T15:21:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/370F2DF8-02D1-4EDE-BF12-C8DABEF2B32F.png?v=1763304027
   Price: $8.95 USD
 - [Cedar & Green Tea Bar Soap](https://affinatiliving.com/products/cedar-green-tea-bar-soap): Crisp cedarwood and gentle green tea purify and refresh with every rich, moisturizing wash.
-  Updated: 2025-12-18T18:12:54Z
+  Updated: 2025-12-30T15:20:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3C55272F-9FA6-4565-AD7A-00F6E7FF9AA0.png?v=1763304250
   Price: $8.95 USD
 - [Sweet Tea & Berries Bar Soap](https://affinatiliving.com/products/sweet-tea-berries-bar-soap): Juicy berries and herbal tea notes deliver a bright, hydrating cleanse with natural oils and shea butter.
-  Updated: 2025-12-18T18:12:54Z
+  Updated: 2025-12-30T15:20:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/0FDA0903-BC21-41E6-BDE6-BEA02FA9C846.png?v=1763304269
   Price: $8.95 USD
 - [Peppermint Aura Bar Soap](https://affinatiliving.com/products/peppermint-aura-bar-soap): Cool peppermint clarity in a silky olive oil & shea butter base—refreshes skin and senses alike.
-  Updated: 2025-12-18T18:12:54Z
+  Updated: 2025-12-30T15:20:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/67B13A00-0003-4D56-83EE-33826A8FB3E1.png?v=1763304292
   Price: $8.95 USD
 - [Cucumber Melon Renewal Bar Soap](https://affinatiliving.com/products/cucumber-melon-renewal-bar-soap): Crisp cucumber and juicy melon revive and smooth with hydrating coconut and olive oils.
-  Updated: 2025-12-23T13:14:05Z
+  Updated: 2025-12-30T15:20:08Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/D2D23F40-A4F2-4EB7-8EB6-C17EC0BF32F9.png?v=1763304317
   Price: $8.95 USD
 - [Golden Citrus Bloom Bar Soap](https://affinatiliving.com/products/golden-citrus-bloom-bar-soap): Bright orange blossom and lemon notes energize the skin with a creamy, nourishing finish.
-  Updated: 2025-12-18T18:12:54Z
+  Updated: 2025-12-30T15:19:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/39C07FF7-C374-4507-9207-B1F8F26B98C1.png?v=1763304344
   Price: $8.95 USD
 - [Oat Milk & Cotton Bar Soap](https://affinatiliving.com/products/oat-milk-cotton-bar-soap): Soft cotton and creamy oat soothe sensitive skin in this ultra-gentle, shea-butter bar soap.
-  Updated: 2025-12-18T18:12:55Z
+  Updated: 2025-12-30T15:19:33Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1389753D-34D2-44D6-B5B3-AD3112AACC60.png?v=1763303458
   Price: $8.95 USD
 - [Mint & Basil Balance Bar Soap](https://affinatiliving.com/products/mint-basil-balance-bar-soap): Herbal basil and cool mint restore freshness and hydration with a creamy, botanical cleanse.
-  Updated: 2025-12-18T18:12:55Z
+  Updated: 2025-12-30T15:19:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/C2C2D4ED-A5FD-46AD-A9C8-2478F7C960F3.png?v=1763304450
   Price: $8.95 USD
 - [Pomegranate Infusion Bar Soap](https://affinatiliving.com/products/pomegranate-infusion-bar-soap): A juicy burst of pomegranate and berry antioxidants blended with rich plant oils for glowing skin.
-  Updated: 2025-12-18T18:12:55Z
+  Updated: 2025-12-30T15:18:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/A3C54BAE-9D15-4BF0-9776-4000870CF866.png?v=1763304468
   Price: $8.95 USD
 - [Lemon Mineral Harmony Bar Soap](https://affinatiliving.com/products/lemon-mineral-harmony-bar-soap): Bright lemon and mineral botanicals refresh and clarify in a silky, moisturizing bar soap.
-  Updated: 2025-12-18T18:12:55Z
+  Updated: 2025-12-30T15:18:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5216A3FE-A865-45B1-96D3-8EAC3F95ECB9.png?v=1763303458
   Price: $8.95 USD
 - [Aloe Mist Bar Soap](https://affinatiliving.com/products/aloe-mist-bar-soap): Cool aloe and gentle greens deliver spa-fresh hydration with olive and shea butter luxury.
-  Updated: 2025-12-18T18:12:55Z
+  Updated: 2025-12-30T15:18:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6088,7 +6088,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Rustic Sandalwood Original Candle](https://affinatiliving.com/products/rustic-sandalwood-original-candle): Experience warm, earthy elegance with our Rustic Sandalwood 10 oz Candle—rich sandalwood, amber, and soft woods for a cozy, refined home ambiance.
-  Updated: 2025-12-30T03:14:52Z
+  Updated: 2025-12-30T15:14:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6194,7 +6194,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Carrot Cake Original Candle](https://affinatiliving.com/products/carrot-cake-original-candle): Fill your home with the warm, bakery-fresh aroma of spiced carrot cake, creamy vanilla frosting, and cozy cinnamon. This 10 oz soy-blend candle offers a clean, even burn and a strong, long-lasting scent—perfect for adding comforting, homemade sweetness to any room.
-  Updated: 2025-12-30T00:54:47Z
+  Updated: 2025-12-30T12:25:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7083,11 +7083,11 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_24_35_AM.png?v=1765117490
   Price: $17.95 USD
 - [White Christmas Original Candle](https://affinatiliving.com/products/white-christmas-original-candle): Celebrate the season with White Christmas—a crisp, cozy blend of pine, winter air, and soft vanilla. This 10 oz candle delivers a clean burn and lasting holiday fragrance.
-  Updated: 2025-12-28T14:21:28Z
+  Updated: 2025-12-30T15:59:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_26_2025_at_03_44_07_PM.png?v=1766781873
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_10_59_13_AM.png?v=1767110395
   - [Single Order](https://affinatiliving.com/products/white-christmas-original-candle?variant=58473041789009)
     Availability: Available
     Price: $16.95 USD
