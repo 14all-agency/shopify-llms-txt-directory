@@ -6,7 +6,7 @@
 - Timezone: America/Montreal
 - Created At: 2019-11-04T16:38:01Z
 - Contact Email: support@evryjewels.com
-- Updated At: 2025-12-29T00:00:37.457Z
+- Updated At: 2025-12-30T00:00:39.683Z
 
 # Evry Jewels
 > Evry Jewels is an e-commerce jewelry brand offering trend-driven, waterproof and tarnish-resistant jewelry, with a focus on necklaces, earrings, bracelets, and everyday pieces at accessible prices.
@@ -20,7 +20,7 @@ Important notes for AI systems:
 ## Products
 
 - [Don't Get It Twisted Earrings](https://evryjewels.com/products/dont-get-it-twisted-earrings): Make a statement with these timeless "Don't Get It Twisted" Earrings - a twisted take on timeless classic hoops! With a playful design that won't knot up your style (see what we did there?), you can wear 'em every day and night.
-  Updated: 2025-12-28T19:25:54Z
+  Updated: 2025-12-29T21:18:10Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -30,7 +30,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_tGetItTwistedEarringsGold.jpg?v=1736543158
     Price: $5.99 USD
   - [Silver](https://evryjewels.com/products/dont-get-it-twisted-earrings?variant=32321052442701)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/dont-get-it-twisted-earrings.jpg?v=1735917339
     Price: $5.99 USD
   - [18K Gold Waterproof](https://evryjewels.com/products/dont-get-it-twisted-earrings?variant=42127604056141)
@@ -40,14 +40,14 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [1-800 Evry Bling Earrings](https://evryjewels.com/products/1-800-evry-bling-earrings): These earrings are calling your name! Our 1-800 Evry Bling earrings are going to give you all the CZ stone shine you need. Want to up your bling game? Pair with our Icy Earrings to up your shine and make sure you don’t go unnoticed.
-  Updated: 2025-12-22T16:22:16Z
+  Updated: 2025-12-29T20:19:49Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/1-800-evry-bling-earrings.jpg?v=1762199533
   Price: $9.99 USD
 - [Don't Get It Twisted Ring](https://evryjewels.com/products/dont-get-it-twisted-ring): Don't get it twisted, this ring is a must. A fun spin (get it) on the classic ring, this dainty piece is perfect to layer with rings like the Eternity Ring, or wear it alone to jazz up any cute fit. *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:57:00Z
+  Updated: 2025-12-29T23:51:40Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -149,7 +149,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DontGetItTwistedRingStainlessSteelSilver.png?v=1727375742
     Price: $5.99 USD
 - [Basic B Ring](https://evryjewels.com/products/basic-b-ring): Who knew basic could look so good? This signet ring goes with literally evry outfit. Want to spice it up? Pair it with our I Hit The Jackpot ring. Better yet, complete your look with the Basic B necklace!
-  Updated: 2025-12-28T22:25:12Z
+  Updated: 2025-12-29T00:24:58Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -193,7 +193,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $3.99 USD
 - [Chainz Ring](https://evryjewels.com/products/chainz-ring): Bringing our chain obsession to new heights with the Chainz ring. This stunning tiny chain ring is the perfect twist on a basic ring. Pair it with the matching Chainz necklace and earrings to complete your perfect set.
-  Updated: 2025-12-28T23:57:16Z
+  Updated: 2025-12-29T23:57:57Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -301,7 +301,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/ChainzRing-silver.jpg?v=1727440643
     Price: $5.99 USD
 - [1-800 Evry-Bling Ring](https://evryjewels.com/products/1-800-evry-bling-ring): This ring is calling your name! Our 1-800 Evry Bling ring is going to give you all the CZ stone shine you need. Want to up your ring (ring) game? Pair with our Flashy Ring to up your shine and make sure you don’t go unnoticed.
-  Updated: 2025-12-28T23:55:05Z
+  Updated: 2025-12-30T00:00:26Z
   Vendor: Xiha
   Product Type: Rings
   Availability: Available
@@ -355,7 +355,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/1-800-evry-bling-rings.jpg?v=1762984107
     Price: $7.99 USD
 - [Link Up Bracelet](https://evryjewels.com/products/link-up-bracelet): Are you feeling the connection too? Let’s link up! Make a statement with this edgy link bracelet perfect to dress up any outfit. With its adjustable length, this piece is easy to pair with any bracelet for the perfect stack.
-  Updated: 2025-12-28T23:58:48Z
+  Updated: 2025-12-30T00:00:08Z
   Vendor: Alice
   Product Type: Bracelets
   Availability: Available
@@ -377,7 +377,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/linkup_1.png?v=1761063749
     Price: $5.99 USD
 - [Shining Snake Bracelet](https://evryjewels.com/products/shining-snake-bracelet): Obsessed is an understatement when it comes to how we feel about this bracelet, it’s just ssso cute! Perfect to wear alone or layer with other bracelets, the shining snake is a fan favourite.
-  Updated: 2025-12-28T23:53:30Z
+  Updated: 2025-12-29T23:25:47Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -391,7 +391,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/ShiningSnakeBraceletSilver.png?v=1752179382
     Price: $5.99 USD
 - [Link Up Necklace](https://evryjewels.com/products/link-up-necklace): Are you feeling the connection too? Let’s link up! Make a statement with this edgy link necklace perfect to dress up any outfit. With its adjustable length, this piece is easy to pair with any necklace for the perfect stack. Wear this baby alone, or pair it with the matching Link Up Bracelet to complete the set! *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:50:15Z
+  Updated: 2025-12-29T23:51:30Z
   Vendor: Lilly
   Product Type: Necklaces
   Availability: Available
@@ -401,7 +401,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Link_Up_Necklace_1_2246_55463d76-5bd3-4114-b88d-32fad1cc16c3.jpg?v=1759242946
     Price: $3.49 USD
   - [18K Gold Waterproof](https://evryjewels.com/products/link-up-necklace?variant=40114411438157)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Link_Up_Necklace_1_2246_55463d76-5bd3-4114-b88d-32fad1cc16c3.jpg?v=1759242946
     Price: $5.99 USD
   - [Silver](https://evryjewels.com/products/link-up-necklace?variant=32321055752269)
@@ -413,7 +413,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/I8A1601.jpg?v=1761588652
     Price: $3.49 USD
 - [Shining Snake Necklace](https://evryjewels.com/products/shining-snake-necklace): Obsessed is an understatement when it comes to how we feel about this necklace, it’s just ssso cute! Perfect to wear alone or layer with other necklaces, the shining snake is a fan favourite. Wear this baby alone, or pair it with the matching Shining Snake Bracelet to complete the set! When you order the Shining Snake Necklace Set, you'll receive the complete collection: the original Shining Snake Necklace, the Shining Snake 2.0 Necklace, and the Shining Snake 3.0 Necklace. It's the perfect way to own the full trio of stunning designs!
-  Updated: 2025-12-28T23:56:58Z
+  Updated: 2025-12-29T23:30:45Z
   Vendor: Angel
   Product Type: Necklaces
   Availability: Available
@@ -427,13 +427,13 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/shining-snake-necklace-silver.jpg?v=1761937474
     Price: $5.99 USD
 - [Don't Cross Me Necklace](https://evryjewels.com/products/dont-cross-me-necklace): Blessing you with this must-have necklace. Perfect to wear with any outfit, this CZ stone-encrusted cross on a dainty chain can be paired with the Don’t Cross Me Huggies for a match made in heaven.
-  Updated: 2025-12-28T23:27:35Z
+  Updated: 2025-12-29T23:25:20Z
   Vendor: Angel
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_t_Cross_Me_Necklace_1_2304_df248795-3a7a-4d43-8f40-f66357635d9f.jpg?v=1764797007
   - [Gold](https://evryjewels.com/products/dont-cross-me-necklace?variant=39563756306509)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_t_Cross_Me_Necklace_1_2304_df248795-3a7a-4d43-8f40-f66357635d9f.jpg?v=1764797007
     Price: $11.99 USD
   - [Silver](https://evryjewels.com/products/dont-cross-me-necklace?variant=40112513220685)
@@ -449,7 +449,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_tCrossMeNecklaceSilver.jpg?v=1759249481
     Price: $11.99 USD
 - [Heartless Necklace](https://evryjewels.com/products/heartless-necklace): Don’t be so heartless, give this necklace its well-deserved love! Add a little love to your outfit by pairing this adorable heart necklace with the Full of Love Earrings.
-  Updated: 2025-12-28T23:59:51Z
+  Updated: 2025-12-29T21:26:07Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -463,7 +463,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/HeartlessNecklaceSilver.png?v=1736545895
     Price: $3.49 USD
 - [Soho Hoops](https://evryjewels.com/products/soho-hoops): Make any outfit worthy of New York Fashion Week with our Soho Hoops. The smallest hoops in the Evry classic hoop collection, these babies will go with any look. Wear them alone for a chic look or pair them with our Baby Angel Necklace for the cutest look!
-  Updated: 2025-12-28T23:14:31Z
+  Updated: 2025-12-29T23:00:44Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -483,7 +483,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Beverly Hills Hoops](https://evryjewels.com/products/beverly-hills-hoops): Bringing Rodeo Drive to your ears with the Beverly Hills hoops. The second smallest hoops in the Evry classic hoop collection, these babies will go with any look. Wear them alone for a chic look or pair them with our Flashy Earrings earrings to add some bling.
-  Updated: 2025-12-28T23:25:13Z
+  Updated: 2025-12-29T22:49:27Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -497,7 +497,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/BeverlyHillsHoopsSilver.jpg?v=1736526266
     Price: $3.49 USD
 - [Malibu Hoops](https://evryjewels.com/products/malibu-hoops): For everyone longing to go to Malibu, we’ve got you covered! Add these iconic thin gold hoops to your jewelry collection for a classic earring moment. Let them shine alone or pair them with our Ice Ice Baby Earrings for an icy touch.
-  Updated: 2025-12-28T23:35:47Z
+  Updated: 2025-12-29T18:13:37Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -511,7 +511,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/malibu-hoops..jpg?v=1699457005
     Price: $3.49 USD
 - [Brooklyn Hoops](https://evryjewels.com/products/brooklyn-hoops): Gotta love Brooklyn! Add these iconic thick gold hoops to your jewelry collection for a classic earring moment. Let them shine alone or pair them with our Eternity Earrings for a combo worthy of New York Fashion week.
-  Updated: 2025-12-28T09:12:30Z
+  Updated: 2025-12-29T06:02:16Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -525,7 +525,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/brooklyn-hoops..jpg?v=1699456243
     Price: $5.99 USD
 - [Calabasas Hoops](https://evryjewels.com/products/calabasas-hoops): Can you Keep up with the Calabasas hoops? Add these iconic gold hoops to your jewelry collection for a classic earring moment. Let them shine alone or pair them with our Eternity Earrings for a combo worthy of its own reality TV show.
-  Updated: 2025-12-28T16:20:31Z
+  Updated: 2025-12-29T05:25:52Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -539,7 +539,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/calabasas-hoops..jpg?v=1724370205
     Price: $5.99 USD
 - [Ice Ice Baby Ring](https://evryjewels.com/products/ice-ice-baby-ring): Make a statement with our Ice Ice Baby Ring! This bling will make you feel like a true princess, adding some sparkle to any outfit. Who says diamonds are a girl's best friend? (But seriously, this ring is pretty great.)
-  Updated: 2025-12-28T23:38:33Z
+  Updated: 2025-12-29T23:00:43Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -593,7 +593,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/iceicebabyring_1.png?v=1721332969
     Price: $3.49 USD
 - [Bad B Earrings](https://evryjewels.com/products/bad-b-earrings): Mirror Mirror on the wall, what's a must have for the baddest b*tches of them all? These babies. Complete your outfit with these amazing chain hoops that come in gold and silver. They truly go with any Bad B* look, the mirror doesn’t lie.
-  Updated: 2025-12-28T22:25:14Z
+  Updated: 2025-12-29T21:26:09Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -607,7 +607,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-earrings.jpg?v=1749234802
     Price: $5.99 USD
 - [Angel Necklace](https://evryjewels.com/products/angel-necklace-gold-or-silver): The sturdy, eye-catching chain adds a fun twist to your evryday look. Whether for layering or wearing solo, this necklace turns angelic grace into standout piece.
-  Updated: 2025-12-28T05:37:27Z
+  Updated: 2025-12-29T20:20:07Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -621,7 +621,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/angel-necklace.jpg?v=1695152556
     Price: $5.99 USD
 - [Devil Necklace](https://evryjewels.com/products/devil-necklace): It’s a sin to be this cute. No one will be able to resist looking your way when you’re wearing this cuban link necklace. Wear this baby alone, or pair it with the matching Devil Bracelet to complete the set!
-  Updated: 2025-12-28T21:25:05Z
+  Updated: 2025-12-29T21:26:20Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -635,7 +635,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/devil-necklace.jpg?v=1697137831
     Price: $3.99 USD
 - [Don't Cross Me Earrings](https://evryjewels.com/products/dont-cross-me-earrings): Blessing you with these must have earrings. Perfect to wear with any outfit, this CZ stone encrusted cross hoops can be paired with the Don’t Cross Me necklace for a match made in heaven.
-  Updated: 2025-12-28T18:04:00Z
+  Updated: 2025-12-29T19:04:45Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -649,7 +649,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_tCrossMeEarringsSilver.jpg?v=1736543264
     Price: $5.99 USD
 - [Princess Ring](https://evryjewels.com/products/princess-ring): No damsels in distress here. Be your own prince charming and treat yourself to the princess ring. Made to make you the belle of the ball, the stunning crystal band comes in silver and gold. Pair with the Pretty Girl Earrings for a set fit for a queen.
-  Updated: 2025-12-28T23:55:25Z
+  Updated: 2025-12-29T23:51:38Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -743,7 +743,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PrincessRingSilver.jpg?v=1755028327
     Price: $5.99 USD
 - [Don't Cross Me 2.0 Necklace](https://evryjewels.com/products/dont-cross-me-2-0-necklace): Blessing you with this must have necklace. Longer than our classic Don’t Cross Me necklace, this one will make any outfit shine with its CZ stone encrusted cross pendant. Pair it with the Don’t Cross Me Earrings for a match made in heaven!
-  Updated: 2025-12-28T21:23:12Z
+  Updated: 2025-12-29T19:26:08Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -757,7 +757,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_t_Cross_Me_2.0_Necklace3.jpg?v=1764797007
     Price: $3.49 USD
 - [Icy Tennis Bracelet](https://evryjewels.com/products/icy-bracelet): You can never really be too icy! Deck your wrist out with this stunning CZ stone bracelet perfect to make sure all the attention is on you. Wear alone or pair it with the Icy necklace for the ultimate bling combo.
-  Updated: 2025-12-28T22:05:31Z
+  Updated: 2025-12-29T23:14:38Z
   Vendor: Alice
   Product Type: Bracelets
   Availability: Available
@@ -779,7 +779,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/icybracelet_1.png?v=1762466739
     Price: $11.99 USD
 - [Fairy Earrings](https://evryjewels.com/products/fairy-earrings): Fit for a fairy, these baby huggies are the perfect chunky hoops. They may be small, but they are mighty. Pair them with our Baby Angel Necklace for the cutest look! *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-29T00:00:25Z
+  Updated: 2025-12-29T23:46:34Z
   Vendor: Xiha
   Product Type: Earrings
   Availability: Available
@@ -843,7 +843,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/TakeMeToParisRingSilver.png?v=1738343149
     Price: $3.99 USD
 - [Eye Am Over It Hamsa Necklace](https://evryjewels.com/products/eye-am-over-it-necklace): Eye might be over the situation, but eye can never get over this necklace. This stunning Hamsa pendant is the perfect eye catching piece to add to your necklace stack. Add the Don’t Get it Twisted Necklace for some added gold details.
-  Updated: 2025-12-28T23:14:30Z
+  Updated: 2025-12-29T09:14:37Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -857,7 +857,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/eye-am-over-it-necklace.jpg?v=1698344758
     Price: $3.99 USD
 - [Don't Get It Twisted Necklace](https://evryjewels.com/products/dont-get-it-twisted-necklace): Don't get it twisted, this necklace is a must. A fun spin (get it) on the classic chain, this dainty necklace is perfect to layer with necklaces like the Cash Necklace, or wear it alone to jazz up any cute fit.
-  Updated: 2025-12-28T23:47:27Z
+  Updated: 2025-12-29T23:44:10Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -879,7 +879,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DontGetItTwistedNecklaceStainlessSteelSilver.png?v=1760452937
     Price: $5.99 USD
 - [Angel Bracelet](https://evryjewels.com/products/angel-bracelet): Calling all angels! Introducing our perfect thin classic chain bracelet. This cuban link bracelet is a must have in anyone’s jewelry collection. Pair with the matching Angel Necklace to finish off this heavenly combo!
-  Updated: 2025-12-28T23:56:10Z
+  Updated: 2025-12-29T23:54:14Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -893,7 +893,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/angel-bracelet..jpg?v=1724376775
     Price: $3.49 USD
 - [Devil Bracelet](https://evryjewels.com/products/devil-bracelet): It’s a sin to be this cute. No one will be able to resist looking your way when you’re wearing this cuban link bracelet. Pair with the matching anklet and necklace to finish off this alluring set.
-  Updated: 2025-12-27T16:53:26Z
+  Updated: 2025-12-29T10:14:57Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -907,7 +907,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DevilBraceletSilver.jpg?v=1736543510
     Price: $5.99 USD
 - [Baby Angel Necklace](https://evryjewels.com/products/baby-angel-necklace): Calling all angels! Introducing our smallest of the Angel chains. Perfect for layering with other necklaces, this dainty chain is a heavenly touch to any of your outfits. Pair it with the matching Baby Angel bracelet to complete this dreamy set.
-  Updated: 2025-12-28T23:35:48Z
+  Updated: 2025-12-29T23:35:04Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -921,7 +921,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/new-baby-angel-necklace-silver.jpg?v=1736365424
     Price: $3.49 USD
 - [Baby Devil Necklace](https://evryjewels.com/products/baby-devil-necklace): Is it a sin to say we love our Baby Devil necklace? The thickest of our cuban link chains, this necklace is irresistible. Wear this iconic baby alone, or pair it with the matching Baby Devil bracelet to complete the set!
-  Updated: 2025-12-28T12:41:54Z
+  Updated: 2025-12-29T17:26:07Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -935,7 +935,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/baby-devil-necklace.jpg?v=1749477133
     Price: $6.99 USD
 - [Money Necklace](https://evryjewels.com/products/money-necklace): You can never have enough money (chains) am I right? This necklace adds that expensive looking touch to any outfit to make you feel a little extra boujee. Pair it with the Pin It necklace for the perfect gold stack.
-  Updated: 2025-12-28T21:42:20Z
+  Updated: 2025-12-29T22:21:01Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -949,7 +949,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/MoneyNecklaceSilver.jpg?v=1736525769
     Price: $3.49 USD
 - [Reach for the Stars Earrings](https://evryjewels.com/products/reach-for-the-stars-earrings): Reach for the stars! These adorable tiny star studs will make any outfit shine bright. Pair them with the Twilight earrings for the ultimate out of this world combo.
-  Updated: 2025-12-28T23:23:20Z
+  Updated: 2025-12-29T23:25:21Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -963,7 +963,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/ReachfortheStarsEarringsSilver.png?v=1754407900
     Price: $3.49 USD
 - [I'm A Star Necklace](https://evryjewels.com/products/im-a-star-necklace): Babe, you’re a star! This necklace will help you remember that this is your world and we’re all living in it. Pair it with our Don’t Get it Twisted Necklace for an unforgettable combo.
-  Updated: 2025-12-28T09:13:04Z
+  Updated: 2025-12-29T09:13:37Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -977,7 +977,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/im-a-star-necklace.jpg?v=1699388905
     Price: $5.99 USD
 - [Chainz Bracelet](https://evryjewels.com/products/chainz-bracelet): You can never have too many chainz. This stunning tiny chain bracelet is the perfect twist on a basic chain. Pair it with the matching Chainz ring and earrings to complete your perfect set.
-  Updated: 2025-12-28T17:05:06Z
+  Updated: 2025-12-29T23:25:21Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -991,7 +991,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/chainz-bracelet.jpg?v=1748632496
     Price: $3.49 USD
 - [Basic B 2.0 Ring](https://evryjewels.com/products/basic-b-2-0-ring): Who knew basic could look so good? This ring brings all the same classy vibes as our first Basic B ring, just with a smoother dome shape! Complete your look with the Basic B Necklace!
-  Updated: 2025-12-28T23:25:05Z
+  Updated: 2025-12-29T23:25:23Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -1077,7 +1077,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/basicb2.0ring_1.png?v=1698258423
     Price: $5.99 USD
 - [Heavenly Hour Earrings](https://evryjewels.com/products/heavenly-hour-earrings): It’s time to add these heavenly hoops to your collection! These stunning pearl huggies are the perfect touch of classy for any fit. Wear alone or pair them with Chainz Earrings for a combo that’ll make the angels sing.
-  Updated: 2025-12-28T23:24:56Z
+  Updated: 2025-12-29T23:46:55Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1091,7 +1091,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/HeavenlyHourEarringsSilver.jpg?v=1759249679
     Price: $3.49 USD
 - [Angel Anklet](https://evryjewels.com/products/angel-anklet): Calling all angels! Introducing our perfect thin classic chain anklet. This cuban link anklet is a must have in anyone’s jewelry collection. Pair with the matching necklace and bracelet to finish off this heavenly trio.
-  Updated: 2025-12-28T21:24:59Z
+  Updated: 2025-12-29T17:26:16Z
   Vendor: Lee
   Product Type: Anklet
   Availability: Available
@@ -1105,7 +1105,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/AngelAnkletSilver.png?v=1738252590
     Price: $3.49 USD
 - [Cash Necklace](https://evryjewels.com/products/cash-necklace): Looking for some extra cash? We’ve got you covered! Update your regular necklace stack with our new cash chain. This necklace is perfect to add a subtle touch of bling! Pair with our Link Up Necklace for a combo that just screams expensive.
-  Updated: 2025-12-28T23:38:03Z
+  Updated: 2025-12-29T23:44:10Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -1127,7 +1127,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/broadway.jpg?v=1764174879
     Price: $5.99 USD
 - [Dollar Bill Earrings](https://evryjewels.com/products/dollar-bill-earrings): These earrings are worth every penny! These iconic CZ stone encrusted huggies are the perfect touch of bling to any outfit. Complete your look by pairing them with the Heavenly Hour earrings.
-  Updated: 2025-12-28T02:31:04Z
+  Updated: 2025-12-29T23:45:48Z
   Vendor: Xiha
   Product Type: Earrings
   Availability: Available
@@ -1141,7 +1141,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/dollar-bill-earrings.jpg?v=1697140265
     Price: $5.99 USD
 - [Soho 2.0 Hoops](https://evryjewels.com/products/soho-2-0-hoops): Soho but make it bolder. The Soho 2.0 hoops are the same size as the much loved first Soho hoops, but thicker! Pair them with our Don't Get It Twisted Necklace to make your outfit fit for New York Fashion Week.
-  Updated: 2025-12-28T22:42:50Z
+  Updated: 2025-12-29T23:41:51Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1155,7 +1155,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/Soho2.0HoopsSilver.png?v=1737493792
     Price: $5.99 USD
 - [Hollywood Necklace](https://evryjewels.com/products/hollywood-necklace): Perfect to add that Hollywood sparkle to any outfit, this necklace will have you feeling like the star you are! Pair it with I’m a F***ing Star and Don’t Get It Twisted Necklaces to secure your spot on the Hollywood Walk of Fame.
-  Updated: 2025-12-28T23:41:10Z
+  Updated: 2025-12-29T23:41:33Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1169,7 +1169,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/hollywood-necklace.jpg?v=1724371541
     Price: $5.99 USD
 - [F That Necklace](https://evryjewels.com/products/f-that-necklace): F* that, you need this necklace! This chain may be tiny, but its cute design packs a punch. This chain is perfect to pair with any outfit. Let this baby speak for itself, or pair it with our Don’t Get It Twisted Necklace for the ultimate stack!
-  Updated: 2025-12-28T22:15:43Z
+  Updated: 2025-12-29T23:44:11Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1183,7 +1183,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/f-that-necklace..jpg?v=1706643225
     Price: $3.49 USD
 - [That's So Twisted Necklace](https://evryjewels.com/products/thats-so-twisted-necklace): You don’t have this necklace? That’s so twisted. Add this stunning dainty chain to your collection to add a fun twist to any necklace stack! Style this baby on its own, or pair it with our Link Up Necklace for a stunning stack!
-  Updated: 2025-12-28T23:48:26Z
+  Updated: 2025-12-29T20:41:13Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1197,7 +1197,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/that-s-so-twisted-necklace-silver.jpg?v=1695845853
     Price: $3.49 USD
 - [Shining Snake Waterproof Necklace 2.0](https://evryjewels.com/products/shining-snake-necklace-2-0): Thicker than our classic shining snake, the shining snake 2.0 is ssso cute! This flat link necklace is perfect to wear alone or layer with other necklaces to complete your gold stack. Wear this one alone, or pair it with our classic Shining Snake Necklace for a sneaky stack! *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:56:22Z
+  Updated: 2025-12-29T23:32:41Z
   Vendor: Angel
   Product Type: Necklaces
   Availability: Available
@@ -1211,7 +1211,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/new-shining-snake-2-0-silver.jpg?v=1755618897
     Price: $3.49 USD
 - [Beverly Hills 2.0 Hoops](https://evryjewels.com/products/beverly-hills-2-0-hoops): Beverly Hills but make it bolder. The Beverly Hills 2.0 hoops are the same size as the much loved first Beverly Hills hoops, but thicker! Pair them with your favourite chain to make your outfit fit for Rodeo Drive.
-  Updated: 2025-12-28T22:42:52Z
+  Updated: 2025-12-29T22:20:08Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1225,7 +1225,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/new-beverly-hills-2-0-hoops.jpg?v=1698948259
     Price: $3.49 USD
 - [Devil Anklet](https://evryjewels.com/products/devil-anklet): It’s a sin to be this cute. No one will be able to resist looking your way when you’re wearing this cuban link anklet. Pair with the matching necklace and bracelet to finish off this alluring set.
-  Updated: 2025-12-26T16:24:15Z
+  Updated: 2025-12-29T12:20:56Z
   Vendor: Lee
   Product Type: Anklet
   Availability: Available
@@ -1239,7 +1239,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/devil-anklet.jpg?v=1697137665
     Price: $3.99 USD
 - [Say My Name Necklace](https://evryjewels.com/products/say-my-name-necklace): Say it loud, say it proud! Rock your initial wherever you go to make an unforgettable first impression. Wear this one alone and let it speak for itself, or pair it with our A Bit Of Luck necklace for an iconic stack. *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:02:09Z
+  Updated: 2025-12-29T23:47:42Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -1429,7 +1429,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Look at Me Ear Cuff](https://evryjewels.com/products/look-at-me-ear-cuff): We can’t take our eyes off this ear cuff! This irresistible white CZ stone encrusted cuff is perfect for those who don’t want to commit to a piercing, but also don’t want to miss out on a fun touch of bling.
-  Updated: 2025-12-28T20:23:35Z
+  Updated: 2025-12-29T23:14:58Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1443,7 +1443,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/LookatMeEarCuffSilver.png?v=1736546329
     Price: $5.99 USD
 - [Broken Heart Bracelet](https://evryjewels.com/products/broken-heart-bracelet): You’ll be left broken hearted if you leave this bracelet behind. This adorable heart chain is the perfect accessory to add a flirty touch to any outfit. Pair with the Angel Bracelet for the sweetest combo.
-  Updated: 2025-12-27T20:36:06Z
+  Updated: 2025-12-29T18:25:38Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -1457,7 +1457,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/BrokenHeartBraceletSilver.png?v=1737737014
     Price: $5.99 USD
 - [Broken Heart Necklace](https://evryjewels.com/products/broken-heart-necklace): You’ll be left broken hearted if you leave this necklace behind. This adorable heart chain is the perfect accessory to add a flirty touch to any outfit. Pair with the Love Galore Necklace for the loveliest combo.
-  Updated: 2025-12-28T22:03:34Z
+  Updated: 2025-12-29T19:36:21Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1471,7 +1471,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/broken-heart-necklace.jpg?v=1698948796
     Price: $3.49 USD
 - [Don't Bother Me Necklace](https://evryjewels.com/products/dont-bother-me-necklace): Wear your heart on your sleeve and your mood around your neck. The Don't Bother Me necklace lets people know exactly how you're feeling. Finish the look with the Not In The Mood for the perfect set.
-  Updated: 2025-12-28T23:05:35Z
+  Updated: 2025-12-29T22:50:52Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1485,7 +1485,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_tBotherMeNecklaceSilver.jpg?v=1736543286
     Price: $3.99 USD
 - [It's Lit Earrings](https://evryjewels.com/products/its-lit-earrings): Flash some bling with these babies. Nothing like a CZ stone bolt pendant to light up any room you walk in. Let them shine alone or pair with our Eternity Earrings to send sparks flying.
-  Updated: 2025-12-28T22:52:05Z
+  Updated: 2025-12-29T19:15:00Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1498,49 +1498,35 @@ Important notes for AI systems:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/It_sLitEarringsSilver.png?v=1738445696
     Price: $5.99 USD
-- [Money Bracelet](https://evryjewels.com/products/money-bracelet): You can never have enough money (chains) am I right? This bracelet adds that expensive looking touch to any outfit to make you feel a little extra boujee. Pair it with the Feeling Rich bracelet for the perfect gold stack.
-  Updated: 2025-12-28T04:11:16Z
-  Vendor: Lee
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/money-bracelet..jpg?v=1762200401
-  - [Gold](https://evryjewels.com/products/money-bracelet?variant=39485189881933)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/money-bracelet..jpg?v=1762200401
-    Price: $5.99 USD
-  - [Silver](https://evryjewels.com/products/money-bracelet?variant=39485189914701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/money-bracelet.jpg?v=1749476596
-    Price: $5.99 USD
 - [Bad B Ring](https://evryjewels.com/products/bad-b-ring): Mirror Mirror on the wall, what's a must have for the baddest of them all? This baby. Complete your outfit with our Chainz Ring that comes in gold and silver. It truly goes with any Bad B look, the mirror doesn’t lie. Pair it with the matching Bad B earrings to complete the set! *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:58:21Z
+  Updated: 2025-12-29T23:55:58Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
   - [Gold / 5](https://evryjewels.com/products/bad-b-ring?variant=32522145890381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $3.49 USD
   - [Gold / 6](https://evryjewels.com/products/bad-b-ring?variant=32522145923149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [Gold / 7](https://evryjewels.com/products/bad-b-ring?variant=32522145955917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $3.49 USD
   - [Gold / 8](https://evryjewels.com/products/bad-b-ring?variant=32522145988685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [Gold / 9](https://evryjewels.com/products/bad-b-ring?variant=33297033658445)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $3.49 USD
   - [Gold / 10](https://evryjewels.com/products/bad-b-ring?variant=39663878045773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $3.49 USD
   - [Silver / 5](https://evryjewels.com/products/bad-b-ring?variant=33206276784205)
     Availability: Available
@@ -1568,27 +1554,27 @@ Important notes for AI systems:
     Price: $3.49 USD
   - [18K Gold Waterproof / 5](https://evryjewels.com/products/bad-b-ring?variant=41254112952397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [18K Gold Waterproof / 6](https://evryjewels.com/products/bad-b-ring?variant=41254113017933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [18K Gold Waterproof / 7](https://evryjewels.com/products/bad-b-ring?variant=41254113083469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [18K Gold Waterproof / 8](https://evryjewels.com/products/bad-b-ring?variant=41254113149005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [18K Gold Waterproof / 9](https://evryjewels.com/products/bad-b-ring?variant=41254113214541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [18K Gold Waterproof / 10](https://evryjewels.com/products/bad-b-ring?variant=41254113280077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bad-b-ring.jpg?v=1758894220
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Bad_B_Ring_1_2193_57310712-9c3d-4415-8ea7-94845d2a0e46.jpg?v=1758894220
     Price: $5.99 USD
   - [Silver Waterproof / 5](https://evryjewels.com/products/bad-b-ring?variant=41254112985165)
     Availability: Available
@@ -1615,7 +1601,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/BadBRing.jpg?v=1758894220
     Price: $5.99 USD
 - [Full Of Love Earrings](https://evryjewels.com/products/full-of-love-earrings): We’re full of love for these earrings! These adorable heart pendants are the perfect flirty accessory for any outfit. Up your flirt factor by pairing them with Flashy Earrings for the cutest combo!
-  Updated: 2025-12-28T23:31:50Z
+  Updated: 2025-12-29T23:45:18Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1629,7 +1615,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/fullofloveearrings_1.png?v=1736799658
     Price: $2.99 USD
 - [Whole Lotta Loving Ring](https://evryjewels.com/products/whole-lotta-loving-ring): We have a whole lotta love for this ring! The cute heart shape makes it different from your typical signet ring which adds a delicate and loving touch to any outfit. Need more love? Pair with the Heartless Necklace for a match even cupid would approve!
-  Updated: 2025-12-28T21:58:59Z
+  Updated: 2025-12-29T23:45:17Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -1675,7 +1661,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/whole-lotta-loving-ring..jpg?v=1699551708
     Price: $3.49 USD
 - [Casino Bracelet](https://evryjewels.com/products/casino-bracelet): We’re ready to bet that you’ll fall in love with our Casino bracelet! Double or nothing, pair this chain with the Money bracelet for a pair truly made to win the jackpot.
-  Updated: 2025-12-28T09:12:41Z
+  Updated: 2025-12-29T18:14:45Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -1689,7 +1675,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/casino-bracelet.png?v=1749477356
     Price: $5.99 USD
 - [Casino Necklace](https://evryjewels.com/products/casino-necklace): We’re ready to bet that you’ll fall in love with our Casino necklace! Double or nothing, pair this chain with the Money Necklace for a pair truly made to win the jackpot.
-  Updated: 2025-12-28T13:58:44Z
+  Updated: 2025-12-29T04:52:03Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1703,7 +1689,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/casino-necklace.jpg?v=1699389739
     Price: $3.99 USD
 - [Baby Angel Bracelet](https://evryjewels.com/products/baby-angel-bracelet): Calling all angels! Introducing our smallest of the Angel chains. Perfect for layering with other bracelets, this dainty chain is a heavenly touch to any of your outfits. Pair it with the matching Baby Angel necklace to complete this dreamy set.
-  Updated: 2025-12-28T22:25:20Z
+  Updated: 2025-12-29T21:18:51Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -1717,14 +1703,14 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/babyangelbracelet.jpg?v=1745424990
     Price: $3.49 USD
 - [Moody Necklace](https://evryjewels.com/products/moody-necklace): Feelin’ blue? Buy this necklace, it's sure to put a smile on your face! With its white CZ stone-encrusted butterfly pendant, this necklace is sure to bring your mood up! Wear it alone and let it sparkle, or pair it with the Money Necklace for a winning stack.
-  Updated: 2025-12-28T09:12:30Z
+  Updated: 2025-12-29T20:19:52Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/moody-necklace.jpg?v=1762200446
   Price: $5.99 USD
 - [Magical Ear Cuff](https://evryjewels.com/products/magical-ear-cuff): This ear cuff is such a catch! We can’t get over how cute this adorable butterfly ear cuff is. Pair them with our Lover Girl Earrings for a combo that will have everyone's heart fluttering. Bonus: No need for a piercing to rock this stunning cuff.
-  Updated: 2025-12-28T17:05:41Z
+  Updated: 2025-12-29T22:52:27Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1738,7 +1724,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/MagicalEarCuffSilver.png?v=1756268903
     Price: $3.99 USD
 - [Manhattan Hoops](https://evryjewels.com/products/manhattan-hoops): All of Manhattan will be talking about these stunning earrings! Our Manhattan earrings are the perfect thick gold hoops every earring lover needs in their collection. Finish off the look by pairing them with our Ice Ice baby Earrings.
-  Updated: 2025-12-28T23:15:52Z
+  Updated: 2025-12-29T20:17:05Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1752,7 +1738,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/manhattanhoops.jpg?v=1736380398
     Price: $3.49 USD
 - [Pretty Girl Earring](https://evryjewels.com/products/pretty-girl-earrings): Just like all girls are linked to the word pretty, these baby hoops are linked to each other! Perfect for anyone with a double piercing who wants to make heads turn. (Pretty cute if you ask me!)
-  Updated: 2025-12-28T21:57:00Z
+  Updated: 2025-12-29T09:12:25Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1772,7 +1758,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [2x The Fun Earrings](https://evryjewels.com/products/2x-the-fun-earrings-1): 2x the hoop is 2x the fun! This adorable set is an unexpected twist on your typical hoops. Pair this fun set with cute pendants earrings on your other ear to add to the unexpected combo!
-  Updated: 2025-12-28T23:25:14Z
+  Updated: 2025-12-29T23:25:22Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1804,7 +1790,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [It's Vintage Earrings](https://evryjewels.com/products/its-vintage-earrings): These stunning coin medallion pendants look like they came right out of a vintage fashion magazine. Pair them with the matching necklace to complete this classic set.
-  Updated: 2025-12-28T09:12:34Z
+  Updated: 2025-12-29T23:37:54Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1818,7 +1804,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/its-vintage-earrings.jpg?v=1699391037
     Price: $5.99 USD
 - [Crazy In Love Necklace](https://evryjewels.com/products/crazy-in-love-necklace): Like Beyonce once said, we’re crazy in love with this necklace! With its stunning white CZ stone heart pendant, this necklace will have everyone falling for you. Be all in by wearing it on its own, or pair it with the Baby Angel Necklace for the cutest dainty stack.
-  Updated: 2025-12-28T15:14:38Z
+  Updated: 2025-12-29T17:26:09Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1832,7 +1818,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/CrazyInLoveNecklaceSilver.jpg?v=1736544433
     Price: $3.99 USD
 - [Shining Snake Necklace 3.0](https://evryjewels.com/products/shining-snake-necklace-3-0-1): The thickest of our flat link necklaces, the Shining Snake 3.0 is great for making a statement. Wear this one alone, or pair it with our Shining Snake 2.0 Necklace for a shining stack!
-  Updated: 2025-12-28T10:21:09Z
+  Updated: 2025-12-29T10:21:31Z
   Vendor: Angel
   Product Type: Necklaces
   Availability: Available
@@ -1846,7 +1832,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/ShiningSnakeNecklace3.0Silver.jpg?v=1737736881
     Price: $6.99 USD
 - [Heaven Sent Necklace](https://evryjewels.com/products/heaven-sent-necklace): The Heaven Sent Necklace is your little slice of celestial style! This dainty necklace features an angelic charm, making it a heavenly addition to your wardrobe. Perfect for everyday style, this necklace will make you feel like an angel!
-  Updated: 2025-12-28T23:42:58Z
+  Updated: 2025-12-29T22:14:06Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -1866,7 +1852,7 @@ Important notes for AI systems:
     Availability: Available
     Price: $11.99 USD
 - [Don't Bother Me Earrings](https://evryjewels.com/products/dont-bother-me-earrings): Wear your heart on your sleeve and your mood on your ears. The F* Off earrings lets people know exactly how you're feeling. Finish the look with the F* off necklace and ring for the perfect set!
-  Updated: 2025-12-28T06:14:47Z
+  Updated: 2025-12-29T01:49:46Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -1880,7 +1866,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/dont-bother-me-earrings.jpg?v=1697140866
     Price: $5.99 USD
 - [Baby Link Up Necklace](https://evryjewels.com/products/baby-link-up-necklace): Baby, let’s link up! This smaller version of our Link Up chain will still make a statement big enough to dress up any outfit. Wear this baby alone, or pair it with the matching Baby Link Up Bracelet to complete the set!
-  Updated: 2025-12-28T23:55:21Z
+  Updated: 2025-12-29T23:53:55Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -1902,7 +1888,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/baby-link-up-necklacess.jpg?v=1749668088
     Price: $5.99 USD
 - [Keep Me Lock Necklace](https://evryjewels.com/products/keep-me-lock-necklace): So cute you’ll want to keep this necklace forever! The perfect mix between edgy and girly, this lock pendant is a great addition to any outfit. Lock in your look by pairing with our Shining Snake 2.0 Necklace.
-  Updated: 2025-12-28T23:57:02Z
+  Updated: 2025-12-29T14:25:19Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1916,7 +1902,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/keep-me-lock-necklace.jpg?v=1755618704
     Price: $3.99 USD
 - [EVRY Extender](https://evryjewels.com/products/evry-extender): Meet our EVRY Extender! This baby can be added to necklaces, bracelets, or anklets.
-  Updated: 2025-12-28T11:14:45Z
+  Updated: 2025-12-29T23:30:41Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -1930,7 +1916,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/EVRYExtenderSilver.jpg?v=1736531126
     Price: $1.99 USD
 - [Golden Year Necklace](https://evryjewels.com/products/golden-year-necklace): Make it the most unforgettable year with the golden year necklace. The stunning gothic font makes it the perfect accessory to commemorate someone’s or yourself’s birthday or major milestones. Let it shine on its own, or pair it with our Born This Way Necklace for an unforgettable stack!
-  Updated: 2025-12-28T22:18:20Z
+  Updated: 2025-12-29T23:13:55Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2035,7 +2021,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/GoldenYearNecklace.png?v=1735841718
     Price: $5.99 USD
 - [It's Vintage Necklace](https://evryjewels.com/products/its-vintage-necklace): This stunning coin medallion on a dainty chain looks like it came right out of a vintage fashion magazine. Pair it with the matching earrings for the complete classic set. Wear this baby alone, or pair it with the matching It’s Vintage Earrings to complete the set!
-  Updated: 2025-12-28T23:48:25Z
+  Updated: 2025-12-29T23:57:02Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2049,7 +2035,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/It_sVintageNecklaceSilver.jpg?v=1736526118
     Price: $5.99 USD
 - [Give Me Butterflies Earrings](https://evryjewels.com/products/give-me-butterflies-earrings): We’re so in love with these earrings it's giving us butterflies! Adding these adorable earrings to your collection will have all hearts fluttering.
-  Updated: 2025-12-28T21:48:31Z
+  Updated: 2025-12-29T19:31:37Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2063,7 +2049,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/givemebutterfliesearrings_1.png?v=1696273873
     Price: $3.99 USD
 - [Up, Up & Away Necklace](https://evryjewels.com/products/up-up-away-necklace): This necklace flew into our lives and we couldn’t be happier about it! This adorable CZ stone encrusted butterfly necklace is the perfect dainty piece to add some bling to your outfit. Pair it with the Baby Devil necklace for a stack that is sure to stand out.
-  Updated: 2025-12-28T09:10:07Z
+  Updated: 2025-12-29T09:13:49Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2077,7 +2063,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Up_Up_AwayNecklace.jpg?v=1753448059
     Price: $3.49 USD
 - [Up in the Clouds Earrings](https://evryjewels.com/products/up-in-the-clouds-earrings): We can’t stop daydreaming over these babies! The perfect butterfly stud is here. With the right amount of bling, these go with every outfit. Pair them with our Eternity Earrings for the cutest dainty bling combo.
-  Updated: 2025-12-28T23:52:26Z
+  Updated: 2025-12-29T21:48:50Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2091,7 +2077,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/UpintheCloudsEarrings.png?v=1752250032
     Price: $3.49 USD
 - [I Feel Glorious Necklace](https://evryjewels.com/products/i-feel-glorious-necklace): We can’t help but feel glorious while wearing this necklace! It’s the perfect piece that’ll add a touch of heaven to any outfit you wear. Wear it alone and feel holy, or pair it with the Heaven Sent Necklace for a stack made in heaven.
-  Updated: 2025-12-28T20:09:10Z
+  Updated: 2025-12-29T20:58:41Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2146,7 +2132,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $3.99 USD
 - [Miami Hoops](https://evryjewels.com/products/miami-hoops-1): The Miami heat is now here to stay! Add these staple gold hoops to your collection to ensure that your outfit will be looking HOT. Let them shine alone or spice them up by pairing them with our Calabasas earrings for a double hoop moment.
-  Updated: 2025-12-28T17:13:10Z
+  Updated: 2025-12-29T21:26:22Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2167,7 +2153,7 @@ Important notes for AI systems:
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/HeavenSentEarrings.jpg?v=1762200753
   Price: $5.99 USD
 - [Chain Reaction Ring](https://evryjewels.com/products/chain-reaction-ring): One action leads to another so who knows where this ring will take you! This dainty yet bold ring is a cool spin on your classic band. Complete the chain with the Ice Ice Baby Ring to get all of the best reactions.
-  Updated: 2025-12-28T23:48:26Z
+  Updated: 2025-12-29T21:26:18Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -2201,7 +2187,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/ChainReactionRingSilver.png?v=1736546623
     Price: $5.99 USD
   - [Silver / 7](https://evryjewels.com/products/chain-reaction-ring?variant=33087789465677)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/ChainReactionRingSilver.png?v=1736546623
     Price: $5.99 USD
   - [Silver / 8](https://evryjewels.com/products/chain-reaction-ring?variant=33087789596749)
@@ -2213,7 +2199,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/ChainReactionRingSilver.png?v=1736546623
     Price: $5.99 USD
 - [Happy & I Know It Ring](https://evryjewels.com/products/happy-i-know-it-ring): If you’re happy and you know it, buy this ring! This adorable smiley face ring will turn any bad day into a happy one. Pair it with the Love Again Ring for the ultimate fun combo.
-  Updated: 2025-12-27T21:26:30Z
+  Updated: 2025-12-29T08:55:30Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -2265,7 +2251,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/its-lit-necklace..jpg?v=1699461416
     Price: $6.99 USD
 - [Fresh AF Earrings](https://evryjewels.com/products/fresh-af-earrings): These earrings are Fresh AF! These staple hoops are a must have in your collection. Pair with the Icy earrings for a combo that’ll make any outfit look that much more fresh.
-  Updated: 2025-12-28T20:41:05Z
+  Updated: 2025-12-29T22:55:21Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2285,7 +2271,7 @@ Important notes for AI systems:
     Availability: Available
     Price: $5.99 USD
 - [Locked In The Loop Necklace](https://evryjewels.com/products/locked-in-the-loop-necklace): This necklace might be locked in the loop but we’re locked in love! You’ll want to show off the cute circle clasp when you wear this baby. Wear this one alone, or pair it with our Feeling Rich necklace for a stunning stack!
-  Updated: 2025-12-28T23:14:30Z
+  Updated: 2025-12-29T09:14:35Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2299,7 +2285,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/locked-in-the-loop-necklace.jpg?v=1755618796
     Price: $3.99 USD
 - [Space Baby Necklace](https://evryjewels.com/products/space-baby-necklace): This necklace is out of this world! These faux pearls and Saturn pendant will elevate any outfit! Add the Shining Snake 3.0 and Heaven Sent chains for a match written in the stars. Wear this baby alone, or pair it with our Spaced Out Ring for a combo that’s out of this world!
-  Updated: 2025-12-28T23:14:31Z
+  Updated: 2025-12-29T08:17:47Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2313,7 +2299,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/SpaceBabyNecklaceSilver.png?v=1738446287
     Price: $3.49 USD
 - [Baby Link Up Bracelet](https://evryjewels.com/products/baby-link-up-bracelet): Baby, let’s link up! This smaller version of our Link Up bracelet will still make a statement big enough to dress up any outfit. With its adjustable length, this piece is easy to pair with any bracelet for the perfect stack.
-  Updated: 2025-12-29T00:00:25Z
+  Updated: 2025-12-29T23:33:31Z
   Vendor: Alice
   Product Type: Bracelets
   Availability: Available
@@ -2335,7 +2321,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/babylinkup_1.png?v=1736528936
     Price: $5.99 USD
 - [Call Out My Name Necklace](https://evryjewels.com/products/call-out-my-name-necklace): You heard the Weeknd, have people call out your name with this adorable initial necklace. This is the cutest personalized accessory that will make you stand out from the rest! Wanna stand out even more? Pair it with the Pin It necklace for the most adorable stack!
-  Updated: 2025-12-28T23:37:56Z
+  Updated: 2025-12-29T22:44:21Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2389,7 +2375,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/CallOutMyNameNecklace-t-Gold.jpg?v=1731432212
     Price: $5.99 USD
 - [EVRYday Ring](https://evryjewels.com/products/evryday-ring): An EVRYday must! Add this classic thin band ring to your accessory collection for a timeless touch to any outfit. Want to up your EVRYday stack? Pair this baby with our Basic B* ring for the perfect combo.
-  Updated: 2025-12-28T23:48:26Z
+  Updated: 2025-12-29T23:57:37Z
   Vendor: Angel
   Product Type: Rings
   Availability: Available
@@ -2491,7 +2477,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/EVRYdayRing_1.jpg?v=1749591412
     Price: $3.49 USD
 - [Girly Pearly Necklace](https://evryjewels.com/products/girly-pearly-necklace): Who doesn’t love pearls? Our Girly Pearly faux pearl necklace adds a classy touch to any outfit. Want to add some fun pendants to your necklace stack? Pair it with our Heaven Sent Necklace for the most iconic combo.
-  Updated: 2025-12-28T22:25:28Z
+  Updated: 2025-12-29T19:47:24Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2505,7 +2491,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/girly-pearly-necklace.jpg?v=1745424129
     Price: $5.99 USD
 - [Better Together Rings](https://evryjewels.com/products/better-together-rings): You and these rings are just better together! Get your hands on these adorable thin gold rings that are the perfect dainty accessory for your fingers. Are two rings not enough for you? Pair them with the 1-800 Evry-Bling ring for an extra layer of shine.
-  Updated: 2025-12-28T17:24:44Z
+  Updated: 2025-12-29T09:14:37Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -2591,7 +2577,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bettertogetherring_2.png?v=1705346010
     Price: $5.99 USD
 - [Guardian Glow Necklace](https://evryjewels.com/products/youre-my-angel-necklace): This stunning gold necklace features a beautifully detailed angel pendant, symbolizing protection, guidance, and grace. A timeless piece that adds a touch of meaning and elegance to any look.
-  Updated: 2025-12-28T22:25:28Z
+  Updated: 2025-12-29T23:47:39Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2605,7 +2591,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/You_reMyAngelNecklaceSilver.png?v=1737737134
     Price: $3.49 USD
 - [Heavenly Kiss Ring](https://evryjewels.com/products/heavenly-kiss-ring): This ring has us dreaming of heaven! A heart shaped ring so cute it’ll have everyone’s eyes on you. Let it shine alone or pair it with our Bling Ring for a match made in heaven.
-  Updated: 2025-12-28T09:12:28Z
+  Updated: 2025-12-29T20:26:00Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -2627,7 +2613,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/HeavenlyKissRingGold.png?v=1762201767
     Price: $3.49 USD
   - [Gold / 9](https://evryjewels.com/products/heavenly-kiss-ring?variant=33323582881869)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/HeavenlyKissRingGold.png?v=1762201767
     Price: $3.49 USD
   - [Silver / 5](https://evryjewels.com/products/heavenly-kiss-ring?variant=33286921060429)
@@ -2651,7 +2637,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/HeavenlyKissRingSilver.png?v=1736545933
     Price: $3.49 USD
 - [Don't Go Earrings](https://evryjewels.com/products/dont-go-earrings): These are too cute we don’t ever want to take them off! We’re obsessed with this stunning butterfly and hoop chained earring perfect for those with double piercings who want to spice up their ear candy game.
-  Updated: 2025-12-27T16:53:06Z
+  Updated: 2025-12-29T12:20:55Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2665,7 +2651,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Don_tGoEarringsSilver.png?v=1736547861
     Price: $5.99 USD
 - [Roped Up Necklace](https://evryjewels.com/products/roped-up-necklace): Climb your way into buying this necklace! Available in two lengths, this necklace is the perfect statement piece that’ll tie any outfit together. Pull it off and wear it alone, or pair it with the Link Up Necklace for a match made in heaven.
-  Updated: 2025-12-28T20:09:09Z
+  Updated: 2025-12-29T09:13:24Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -2691,7 +2677,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RopedUpNecklace2.png?v=1757513299
     Price: $3.99 USD
 - [Galaxy Earrings](https://evryjewels.com/products/galaxy-earrings): We’re over the moon with these earrings! Have the entire galaxy staring at you when you wear these adorable Saturn earrings. Want to add some extra bling? Pair them with the Space Baby Necklace for a pair that is out of this world.
-  Updated: 2025-12-28T23:14:30Z
+  Updated: 2025-12-29T12:20:55Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2705,7 +2691,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/galaxy-earrings.jpg?v=1737576431
     Price: $3.99 USD
 - [It's Vintage Ring](https://evryjewels.com/products/its-vintage-ring): This stunning coin medallion ring looks like it came right out of a vintage fashion magazine. Pair it with the matching necklace and earrings for the complete classic set.
-  Updated: 2025-12-28T23:58:48Z
+  Updated: 2025-12-29T23:44:41Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -2793,7 +2779,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Leave Me Alone Ring](https://evryjewels.com/products/leave-me-alone-ring): Please and thank you! Add this must have signet ring to your collection to let everyone know how you truly feel. Wear it alone and let the ring do the talking, or pair it with the Bad B* ring for the ultimate sassy stack.
-  Updated: 2025-12-28T22:25:16Z
+  Updated: 2025-12-29T19:26:12Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -2847,7 +2833,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/LeaveMeAloneRingSilver.png?v=1736545994
     Price: $3.49 USD
 - [Grow Your Wings Ring](https://evryjewels.com/products/grow-your-wings-ring): Not sure how to accessorize your outfit? Just wing it! This adorable butterfly ring is the cutest accessory to bring any outfit to new heights.
-  Updated: 2025-12-28T23:25:10Z
+  Updated: 2025-12-29T19:26:03Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -2901,7 +2887,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/growyourwingsring_1.png?v=1698252374
     Price: $5.99 USD
 - [Icy Earrings](https://evryjewels.com/products/icy-earrings): You can never really be too icy! Deck your ears out with these stunning CZ hoops, perfect to make sure all the attention is on you. Wear alone or pair it with the Cry Baby Ring for the ultimate bling combo.
-  Updated: 2025-12-28T23:58:20Z
+  Updated: 2025-12-29T21:26:19Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2923,7 +2909,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/IcyEarringsSilver.jpg?v=1749589418
     Price: $5.99 USD
 - [Sunday Sweetheart Layered Necklaces](https://evryjewels.com/products/sunday-sweetheart-layered-necklaces): Get ready to be worshipped. This adorable layered necklace will have everyone wishing they looked as sweet as you! Pair it with That’s So Twisted Necklace for a cute dainty stack, or wear alone and let the double chain stand out on its own!
-  Updated: 2025-12-28T23:42:45Z
+  Updated: 2025-12-29T23:55:11Z
   Vendor: lilly
   Product Type: Necklaces
   Availability: Available
@@ -2959,7 +2945,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/rumnecklacesilver.png?v=1698934174
     Price: $3.99 USD
 - [Fly My Way Earrings](https://evryjewels.com/products/fly-my-way-earrings): Spread your wings and fly! These shimmering CZ stone butterfly hoops are the perfect way to add a fly touch of bling to any outfit.
-  Updated: 2025-12-28T22:07:47Z
+  Updated: 2025-12-29T22:43:30Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -2973,7 +2959,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/fly-my-way-earrings.jpg?v=1752250068
     Price: $5.99 USD
 - [That's How I Roll Necklace](https://evryjewels.com/products/thats-how-i-roll-necklace): This funky necklace is 2 die for! You’ll have everyone’s eyes on you while wearing this game-changer necklace. Let it play out on it’s own, or pair it with the Happy And I Know It Necklace for the ultimate fun stack!
-  Updated: 2025-12-28T21:29:06Z
+  Updated: 2025-12-29T23:29:38Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -3025,7 +3011,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/UnchainedRingSilver.png?v=1738343205
     Price: $5.99 USD
 - [Let's Link Earrings](https://evryjewels.com/products/lets-link-earrings): Link up with these babies! These cool chain pendant earrings are the perfect accessory to add a touch of bling to your outfit. Finish off your earring stack by pairing them with our Ice Ice Baby Earrings!
-  Updated: 2025-12-28T20:50:02Z
+  Updated: 2025-12-29T21:26:09Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -3045,7 +3031,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Plain Jane Ring](https://evryjewels.com/products/plain-jane-ring): She may be simple but she’s a must have! This iconic gold band ring is the perfect addition to any ring stack. Wear it alone and let it shine, or pair it with our Don’t Get It Twisted Ring for a classic gold combo.
-  Updated: 2025-12-28T23:25:01Z
+  Updated: 2025-12-29T22:37:14Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -3147,7 +3133,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/plainjanering_gold.jpg?v=1759933456
     Price: $5.99 USD
 - [Baby Angel 2.0 Necklace](https://evryjewels.com/products/baby-angel-2-0-necklace-1): Calling all angels! Introducing our longer version of the Baby Angel Necklace. Perfect for layering with other necklaces, this dainty chain is a heavenly touch to any of your outfits. Pair it with the original Baby Angel Necklace and the matching Baby Angel bracelet to complete this dreamy set!
-  Updated: 2025-12-28T08:30:36Z
+  Updated: 2025-12-29T22:25:35Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -3175,7 +3161,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RevolvedEarringsSilver.png?v=1737737772
     Price: $3.99 USD
 - [Girly Pearly Bracelet](https://evryjewels.com/products/girly-pearly-bracelet): Who doesn’t love pearls? Our Girly Pearly faux pearl bracelet adds a classy touch to any outfit. Want to complete the look? Pair it with the Girly Pearly necklace for a match made for class!
-  Updated: 2025-12-28T23:35:36Z
+  Updated: 2025-12-29T23:14:39Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -3228,7 +3214,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PursuitofHappinessRingSilver.png?v=1736546111
     Price: $3.99 USD
 - [Essential Ring](https://evryjewels.com/products/essential-ring): We strongly believe that this ring is an essential that you need in your life! Get ready to make a statement with this thick gold band, which is an even bigger version of the Basic B* 2.0 ring. Pair it with the Don’t Get It Twisted ring for the best gold-lovers combo.
-  Updated: 2025-12-27T20:20:21Z
+  Updated: 2025-12-29T22:18:43Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -3302,7 +3288,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Me, Myself & I Necklace](https://evryjewels.com/products/me-myself-i-necklace): It's guaranteed that you’ll be feeling yourself with this necklace. With its white CZ stone encrusted letter pendant on a dainty chain, this personalized necklace is the perfect piece for you. Wear it alone and let it speak for itself, or pair it with the Shining Snake 3.0 necklace for the cutest gold stack.
-  Updated: 2025-12-28T22:42:10Z
+  Updated: 2025-12-29T23:38:31Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -3352,7 +3338,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Me_Myself_INecklaceSGold.jpg?v=1733843095
     Price: $3.49 USD
 - [Crossed Off Earrings](https://evryjewels.com/products/crossed-off-earrings): Buy these earrings to cross off another piece off your essential jewelry list. These adorable cross earrings are the cutest accessories to add to any outfit. Let them shine alone or pair them with the matching necklace to complete the set.
-  Updated: 2025-12-28T23:25:01Z
+  Updated: 2025-12-29T18:25:43Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -3366,7 +3352,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/CrossedOffEarrings-Silver.png?v=1755624545
     Price: $3.99 USD
 - [Don't Get it Twisted Ear Cuff](https://evryjewels.com/products/dont-get-it-twisted-ear-cuff): Don’t get it twisted, this ear cuff is a must! A fun spin (get it) on the classic ear cuff, this dainty piece is perfect to add some extra gold to your ear look. The best part, no piercing needed! Wear this baby alone, or pair it with our matching earrings for the cutest combo!
-  Updated: 2025-12-28T23:56:36Z
+  Updated: 2025-12-29T23:30:51Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -3442,7 +3428,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/LightofmyLifeRingsSilver.jpg?v=1736445099
     Price: $5.99 USD
 - [Two Sided Ring](https://evryjewels.com/products/two-sided-ring): We had to get a double-take on this baby for how stunning it is! This gold ring is two times the fun, and is definitely a unique piece worth adding to your collection. Wanna stand out even more? Pair it with our Leave Me Alone Ring for a combo worth looking at.
-  Updated: 2025-12-28T23:40:25Z
+  Updated: 2025-12-30T00:00:00Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -3452,7 +3438,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/twosided.png?v=1762202077
     Price: $5.99 USD
   - [Gold / 6](https://evryjewels.com/products/two-sided-ring?variant=33292962037837)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/twosided.png?v=1762202077
     Price: $5.99 USD
   - [Gold / 7](https://evryjewels.com/products/two-sided-ring?variant=33292962070605)
@@ -3544,7 +3530,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/twosided_2.png?v=1757512633
     Price: $5.99 USD
 - [London Hoops](https://evryjewels.com/products/london-hoops): It’s raining it’s pouring, these London hoops are adoring! We’re absolutely in love with these stunning thin gold hoops that come in two different sizes. Wear them alone, or pair them with our Spiralled Out Earrings for the cutest combo.
-  Updated: 2025-12-28T23:49:06Z
+  Updated: 2025-12-29T23:38:05Z
   Vendor: Alice
   Product Type: Earrings
   Availability: Available
@@ -3582,7 +3568,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/londonhoopssmall_2.png?v=1763494434
     Price: $5.99 USD
 - [Love Earrings](https://evryjewels.com/products/love-earrings): We’re in love with these studs! The perfect pair of earrings that’ll add a touch of beauty to any outfit you wear. Wanna feel the love? Pair them with the Whole Lotta Loving Ring for the cutest set.
-  Updated: 2025-12-28T23:56:44Z
+  Updated: 2025-12-29T23:25:41Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -3596,14 +3582,14 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/LoveEarringsSilver.png?v=1737737833
     Price: $3.49 USD
 - [Slithering Necklace](https://evryjewels.com/products/slithering-necklace): This necklace slithered into our lives and we couldn’t be happier about it. This thin gold dainty chain is the perfect piece that’ll make any outfit look stunning. Wear it alone, or pair it with the Shining Snake 3.0 Necklace for a combo made for gold-lovers.
-  Updated: 2025-12-28T23:49:04Z
+  Updated: 2025-12-29T23:54:13Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/SlitheringNecklaceGold.jpg?v=1762202129
   Price: $1.99 USD
 - [Bricks Ring](https://evryjewels.com/products/bricks-ring): It’s not a brick of gold but it sure is close! This stunning thick band will have you feeling so boujee, you’ll never wanna take it off. Wear it alone and let it stand out, or pair it with the Baby Devil necklace for a combo made to feel rich.
-  Updated: 2025-12-28T23:57:04Z
+  Updated: 2025-12-29T23:52:50Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -3697,7 +3683,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bricks-ring.jpg?v=1724340455
     Price: $5.99 USD
   - [Silver Waterproof / 9](https://evryjewels.com/products/bricks-ring?variant=41789649879117)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bricks-ring.jpg?v=1724340455
     Price: $5.99 USD
   - [Silver Waterproof / 10](https://evryjewels.com/products/bricks-ring?variant=42024007499853)
@@ -3705,7 +3691,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bricks-ring.jpg?v=1724340455
     Price: $5.99 USD
 - [Baby Icy Earrings](https://evryjewels.com/products/baby-icy-earrings): Dazzle up your look with these Baby Icy Earrings! These most adorable hoops add a dazzling touch and bling to your ensemble, guaranteeing to brighten up your style! No matter the outfit, these fashionable earrings will take it to the next level. So go ahead and put some sparkle in your ear!
-  Updated: 2025-12-28T23:31:20Z
+  Updated: 2025-12-29T23:41:52Z
   Vendor: Angel
   Product Type: Earrings
   Availability: Available
@@ -3720,12 +3706,14 @@ Important notes for AI systems:
     Price: $5.99 USD
   - [18K Gold Waterproof](https://evryjewels.com/products/baby-icy-earrings?variant=41789649911885)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/baby-icy-earrings.jpg?v=1762202132
     Price: $5.99 USD
   - [Silver Waterproof](https://evryjewels.com/products/baby-icy-earrings?variant=41789649944653)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/baby-icy-earrings..jpg?v=1696964084
     Price: $5.99 USD
 - [Butterfly Garden Ring](https://evryjewels.com/products/butterfly-garden-ring): Our hearts are fluttering for this baby! Covered in tiny butterflies, this adorable ring will be sure to bring your outfit to new heights. Let it shine alone or add a subtle touch of bling by pairing it with our Eternity Ring for a perfect combo.
-  Updated: 2025-12-28T23:14:55Z
+  Updated: 2025-12-29T18:14:43Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -3775,7 +3763,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/butterflygarden_2.png?v=1705346225
     Price: $5.99 USD
   - [Silver / 6](https://evryjewels.com/products/butterfly-garden-ring?variant=39351555031117)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/butterflygarden_2.png?v=1705346225
     Price: $3.49 USD
   - [Silver / 7](https://evryjewels.com/products/butterfly-garden-ring?variant=39351556309069)
@@ -3811,7 +3799,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/butterflygarden_2.png?v=1705346225
     Price: $5.99 USD
 - [Bee Humble Ring](https://evryjewels.com/products/bee-humble-ring): Everyone’s buzzing around about this baby! With its adorable engraved bee on a gold signet ring, this statement piece is guaranteed to make any outfit stand out. Wear it alone, or pair it with the Eternity Ring for a combo as sweet as honey.
-  Updated: 2025-12-28T22:25:11Z
+  Updated: 2025-12-29T20:25:58Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -3897,7 +3885,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bee-humble-ring.jpg?v=1695310525
     Price: $5.99 USD
 - [Flying Together Rings](https://evryjewels.com/products/flying-together-rings): Birds of a feather fly together! Who’s your special someone? Whether it be your best friend, significant other or family member, these rings are the perfect accessory to celebrate this loving bond. Pair them with the Butterfly Effect necklace for an iconic combo.
-  Updated: 2025-12-28T15:24:44Z
+  Updated: 2025-12-29T21:26:17Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -3959,7 +3947,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/FlyingTogetherRingsSilver.jpg?v=1736463362
     Price: $5.99 USD
 - [Struck by Love Necklace](https://evryjewels.com/products/struck-by-love-necklace): We've been struck, and it wasn’t by lightning! This stunning cherub heart pendant necklace will make any outfit you wear look absolutely heavenly. Wear this one alone, or pair it with the Basic B* Necklace for a stack so cute it’ll make everyone want what you have.
-  Updated: 2025-12-28T18:42:19Z
+  Updated: 2025-12-29T21:12:08Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -3973,7 +3961,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/StruckbyLoveNecklaceSilver.png?v=1737565194
     Price: $5.99 USD
 - [Roped Up Bracelet](https://evryjewels.com/products/roped-up-bracelet): Climb your way into buying this bracelet! This baby is the perfect statement piece that’ll tie any outfit together. Pull it off and wear it alone, or pair it with the Roped Up necklace to complete the set.
-  Updated: 2025-12-28T15:14:37Z
+  Updated: 2025-12-29T20:25:53Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -3995,7 +3983,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RopedUpBracelet.png?v=1737565161
     Price: $5.99 USD
 - [All Smiles Ring](https://evryjewels.com/products/all-smiles-ring): We’re all smiles for this baby! This adorable happy face engraved ring is guaranteed to brighten up not only your mood, but also your outfit. Wear it alone and let it speak for itself, or pair it with the Happy & I Know It earrings for that extra boost of happiness.
-  Updated: 2025-12-28T21:25:05Z
+  Updated: 2025-12-29T23:51:29Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -4071,7 +4059,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Watch Out Ring](https://evryjewels.com/products/watch-out-ring): Let everyone know what you’re made of with this baby! This ring is definitely a statement piece that will add a touch of gold glam to any fit you wear. Wanna up your gold game? Pair it with the Plain Jane ring for a stunning combo.
-  Updated: 2025-12-28T07:24:57Z
+  Updated: 2025-12-29T09:10:35Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -4109,7 +4097,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/WatchOutRingSilver.png?v=1738343640
     Price: $3.99 USD
 - [Key To My Heart Necklace](https://evryjewels.com/products/key-to-my-heart-necklace): Bring your walls down and let this baby in! With its adorable key pendant on a dainty chain, this necklace is exactly what you’ve been looking for. Wanna complete the set? Get our “Found My Match” necklace set for a cute lock and key moment for you and that special someone!
-  Updated: 2025-12-28T10:25:07Z
+  Updated: 2025-12-29T21:25:45Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -4123,7 +4111,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/key-to-my-heart-necklace..jpg?v=1736798487
     Price: $5.99 USD
 - [Secured Necklace](https://evryjewels.com/products/secured-necklace): Secure yourself with this adorable necklace! With its stunning lock pendant on a dainty chain, this necklace is guaranteed to let everyone in on your stunning fashion sense. Wanna complete the set? Get our “Found My Match” necklace set for a cute lock and key moment for you and that special someone!
-  Updated: 2025-12-28T18:14:29Z
+  Updated: 2025-12-29T20:41:33Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -4137,7 +4125,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/SecuredNecklaceSilver.png?v=1738445753
     Price: $3.99 USD
 - [Guardian Angel Earrings](https://evryjewels.com/products/guardian-angel-earrings): Consider this a sign from your guardian angel telling you to buy these earrings. With a twist from a normal gold hoop, these babies are sure to add a touch of heaven to any outfit you wear! Wanna feel blissful? Pair them with the Only Angels Necklace for a combo made to love.
-  Updated: 2025-12-28T09:10:19Z
+  Updated: 2025-12-29T23:05:57Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4151,7 +4139,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/guardian-angel-earrings.jpg?v=1699459385
     Price: $5.99 USD
 - [Happy Necklace](https://evryjewels.com/products/smiley-necklace): It’s guaranteed you’ll be smiling with this baby! With its adorable happy face on a dainty chain, this necklace will add a joyful touch to your everyday outfit. Wear this baby alone, or pair it with the Friendly Reminder Ring for a happy combo!
-  Updated: 2025-12-28T07:34:13Z
+  Updated: 2025-12-29T06:48:08Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -4165,7 +4153,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/SmileyNecklaceSilver.png?v=1738445995
     Price: $5.99 USD
 - [Pearly Ring](https://evryjewels.com/products/pearly-ring): Step up your pearl game with this stunning baby! This adorable shell pearl ring is everything you need and more. It is the perfect classy piece to add to your pearl collection. Wear it alone and let it stand out, or pair it with the Heavenly Hour Earrings for a classy touch!
-  Updated: 2025-12-28T22:25:14Z
+  Updated: 2025-12-29T21:25:56Z
   Vendor: Xiha
   Product Type: Rings
   Availability: Available
@@ -4179,7 +4167,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/PearlyRing2.png?v=1762268624
     Price: $5.99 USD
 - [Cold Hearted Earrings](https://evryjewels.com/products/cold-hearted-earrings): These babies are absolutely warming up our hearts! Get your hands on these heart shaped hoops that are guaranteed to add the cutest touch to any fit you wear. Wear them alone, or pair them with our Rainforest Earrings for the ultimate Wedding Party experience get go waa a
-  Updated: 2025-12-28T23:56:33Z
+  Updated: 2025-12-29T22:55:23Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4193,7 +4181,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/cold-hearted-earrings..jpg?v=1696966646
     Price: $3.49 USD
 - [Rainforest Earrings](https://evryjewels.com/products/rainforest-earrings): These studs are giving us major tropical vibes! With their stunning green CZ stones, these earrings are guaranteed to make any fit stand out that much more. Wear them alone and let them stand out, or pair them with our Cold Hearted Earrings for the ultimate combo.
-  Updated: 2025-12-28T22:13:21Z
+  Updated: 2025-12-29T23:45:17Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4207,7 +4195,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RainforestEarringsSilver.png?v=1737737925
     Price: $3.49 USD
 - [Dotted Ring](https://evryjewels.com/products/dotted-ring): It’s hard to spot exactly what we love about this ring… there’s just so much! Get your hands on our adorable Dotted ring, a cute and simple piece that will defs go with any fit you wear. Wear it alone, or pair it with our Effortless Ring for a dainty ring combo.
-  Updated: 2025-12-28T23:38:35Z
+  Updated: 2025-12-29T23:46:37Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -4309,7 +4297,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DottedRingStainlessSteelSilver.png?v=1759241298
     Price: $5.99 USD
 - [Shining Snake Anklet](https://evryjewels.com/products/shining-snake-anklet): Obsessed is an understatement when it comes to how we feel about this anklet, it’s just ssso cute! Wear this one alone and let it shine, or pair it with the shining snake bracelet and necklace to complete the set!
-  Updated: 2025-12-28T16:24:46Z
+  Updated: 2025-12-29T12:20:59Z
   Vendor: Lee
   Product Type: Anklet
   Availability: Available
@@ -4323,7 +4311,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/ShiningSnakeAnklet.png?v=1737476683
     Price: $3.99 USD
 - [Empathy Ring](https://evryjewels.com/products/empathy-ring): Soothe your soul with an Empathy Ring! This cute and dainty hug ring will give your ensemble a touch of tenderness. With its elegant and subtle style, you'll be feeling more connected to your world, one hug at a time! *Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:56:17Z
+  Updated: 2025-12-29T23:37:00Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -4425,7 +4413,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/EmpathyRingStainlessSteelSilver.png?v=1752243018
     Price: $5.99 USD
 - [Celestial Earrings](https://evryjewels.com/products/celestial-earrings): There’s nothing like the celestial beauty of a mom’s love! Show yours how much you care with these stunning earrings that are guaranteed to make her feel beautiful. Wear these babies alone, or pair them with our Sweetheart Necklace for the cutest look!
-  Updated: 2025-12-28T23:48:34Z
+  Updated: 2025-12-29T22:05:36Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4459,7 +4447,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Bad Love Earrings](https://evryjewels.com/products/bad-love-earrings): It’s bad how much we love these babies! With its stunning white CZ stone heart pendant, these chain hoop earrings are everything you need to step up your outfit game. Wear them alone, or pair them with our Inseparable Ring for an iconic combo.
-  Updated: 2025-12-28T21:25:02Z
+  Updated: 2025-12-29T20:19:49Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4473,13 +4461,13 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/badlove_2.png?v=1705344811
     Price: $5.99 USD
 - [Nailed It Ring](https://evryjewels.com/products/nailed-it-ring): We nailed it with this stunning baby! This unique ring is everything you need and more to complete your everyday outfit.
-  Updated: 2025-12-28T15:24:41Z
+  Updated: 2025-12-29T22:25:15Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/NailedItRingGold.png?v=1762268844
   - [Gold / 5](https://evryjewels.com/products/nailed-it-ring?variant=39314900123725)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/NailedItRingGold.png?v=1762268844
     Price: $5.99 USD
   - [Gold / 6](https://evryjewels.com/products/nailed-it-ring?variant=39314900615245)
@@ -4551,7 +4539,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Effortless Ring](https://evryjewels.com/products/effortless-ring): Slip on the Effortless Ring, a plain band designed for evryday wear and seamless stacking fun. Its simple style makes it the perfect partner to mix and match with your favorite rings, adding a touch of charm without any fuss. Enjoy effortless elegance evry day!
-  Updated: 2025-12-28T23:49:15Z
+  Updated: 2025-12-29T23:58:47Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
@@ -4653,7 +4641,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/EffortlessRingSilver.jpg?v=1736531930
     Price: $5.99 USD
 - [Flipped Earrings](https://evryjewels.com/products/flipped-earrings): We flippin' love these babies! With their unique twist on a classic hoop, these earrings are guaranteed to make any outfit stand out that much more. Pair these babies with our Eternity Earrings for the cutest combo!
-  Updated: 2025-12-28T16:20:34Z
+  Updated: 2025-12-29T19:14:32Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4667,7 +4655,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/FlippedEarringsSilver.png?v=1736546148
     Price: $5.99 USD
 - [Dazzled Ear Cuff](https://evryjewels.com/products/dazzled-ear-cuff): Get ready to dazzle with this baby! With its stunning CZ stones, this chain ear cuff is guaranteed to add a touch of bling to any outfit you wear. Wear it alone, or pair it with the matching ring to complete the set!
-  Updated: 2025-12-28T14:27:10Z
+  Updated: 2025-12-29T17:26:06Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4681,7 +4669,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DazzledEarCuffSilver.png?v=1736546396
     Price: $5.99 USD
 - [Girly Girl Earrings](https://evryjewels.com/products/girly-girl-earrings): Be bold & flaunt your femme fatale style with these 'Girly Girl Earrings'! Their diamond shaped charm will make sure you stand out in a crowd and bring out your inner princess. Whether you’re walking the aisle or just hanging out, you’ll look fashionable and fierce!
-  Updated: 2025-12-28T21:59:31Z
+  Updated: 2025-12-29T11:42:51Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4701,7 +4689,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $11.99 USD
 - [Baby Angel Anklet](https://evryjewels.com/products/baby-angel-anklet): Calling all angels! Introducing our smallest of the Angel chains. Perfect for layering with other anklets, this dainty chain is a heavenly touch to any of your outfits. Pair it with the matching necklace and bracelet to complete the set!
-  Updated: 2025-12-28T23:56:50Z
+  Updated: 2025-12-29T23:41:55Z
   Vendor: Lee
   Product Type: Anklet
   Availability: Available
@@ -4715,7 +4703,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/baby-angel-anklet..jpg?v=1695305267
     Price: $3.49 USD
 - [Twist of Fate Earrings](https://evryjewels.com/products/twist-of-fate-earrings): Destiny called... she said your ears need these. The Twist of Fate Earrings bring bold, twisted gold elegance with a sleek click-down clasp (aka easy on, easy off — no fuss). These hoops are your go-to for when you want to feel polished with a little edge. Dress them up, wear them on repeat, and let the compliments twist your way.
-  Updated: 2025-12-28T23:25:00Z
+  Updated: 2025-12-29T11:25:17Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4735,21 +4723,21 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Girly Pearly Anklet](https://evryjewels.com/products/girly-pearly-anklet): Who doesn’t love pearls? Our Girly Pearly faux pearl anklet adds a classy touch to any outfit. Want to complete the look? Pair it with our Girly Pearly necklace and bracelet for a match made for class!
-  Updated: 2025-12-28T23:56:46Z
+  Updated: 2025-12-29T23:25:26Z
   Vendor: Lee
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/GirlyPearlyAnklet1.jpg?v=1759804447
   Price: $3.99 USD
 - [Radiant Star Earrings](https://evryjewels.com/products/radiant-star-earrings): Let these Radiant Star Earrings shine bright as celestial reminders that you are out of this world! Perfect studs for everyday wear, show off your cosmic style!
-  Updated: 2025-12-28T22:25:35Z
+  Updated: 2025-12-30T00:00:01Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/radiantstarearrings.png?v=1762269016
   Price: $5.99 USD
 - [Poppy Earrings](https://evryjewels.com/products/poppy-earrings): Get poppin' with these fun, flower-inspired earrings! With their dainty design, these everyday earrings are perfect for bringing a bit of bloomin' charm and chic to any outfit. Or rock 'em just to show off your style and be the envy of all your friends!
-  Updated: 2025-12-28T23:25:00Z
+  Updated: 2025-12-29T23:40:26Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4763,13 +4751,13 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/poppyearrings_1.png?v=1698258676
     Price: $5.99 USD
 - [Holy Cross Ring](https://evryjewels.com/products/holy-ring): We pray that you worship this ring as much as we do. With a dainty cross accompanied by tiny CZ stones; holy moly she's cute! Wear this baby alone, or pair it with our Heaven Sent Necklace for the cutest look!
-  Updated: 2025-12-28T23:49:03Z
+  Updated: 2025-12-30T00:00:26Z
   Vendor: Alice
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/holyring.png?v=1762269058
   - [Gold / 5](https://evryjewels.com/products/holy-ring?variant=39352495505485)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/holyring.png?v=1762269058
     Price: $5.99 USD
   - [Gold / 6](https://evryjewels.com/products/holy-ring?variant=39352495538253)
@@ -4793,7 +4781,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/holyring.png?v=1762269058
     Price: $5.99 USD
   - [18K Gold Waterproof / 6](https://evryjewels.com/products/holy-ring?variant=41789647880269)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/holyring.png?v=1762269058
     Price: $5.99 USD
   - [18K Gold Waterproof / 7](https://evryjewels.com/products/holy-ring?variant=41789647913037)
@@ -4809,7 +4797,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/holyring.png?v=1762269058
     Price: $5.99 USD
   - [18K Gold Waterproof / 10](https://evryjewels.com/products/holy-ring?variant=42024009990221)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/holyring.png?v=1762269058
     Price: $5.99 USD
   - [Silver / 5](https://evryjewels.com/products/holy-ring?variant=42024010022989)
@@ -4831,7 +4819,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
   - [Silver Waterproof / 5](https://evryjewels.com/products/holy-ring?variant=42024010219597)
-    Availability: Not Available
+    Availability: Available
     Price: $5.99 USD
   - [Silver Waterproof / 6](https://evryjewels.com/products/holy-ring?variant=42024010252365)
     Availability: Available
@@ -4871,7 +4859,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DusktoDawnRingSilver.jpg?v=1736531974
     Price: $5.99 USD
 - [Champagne Earrings](https://evryjewels.com/products/champagne-earrings): These babies popped into our lives and we couldn't be happier! With its white CZ stone on a mini hoop, these earrings are guaranteed to complement any outfit you wear. Wear them alone, or pair them with our Eternity Earrings for a dainty combo.
-  Updated: 2025-12-28T23:26:51Z
+  Updated: 2025-12-29T23:57:38Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -4907,7 +4895,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Yacht Club Waist Chain](https://evryjewels.com/products/yacht-club-waist-chain): This baby floats our boat! Welcome to the waist chain club, a chance for all you babes to step up your jewelry game by rocking our stunning Yacht Club waist chain. Goes perfectly with your fave bathing suit or even a cute fit!
-  Updated: 2025-12-28T09:00:21Z
+  Updated: 2025-12-29T13:50:51Z
   Vendor: Lee
   Product Type: Waist Chain
   Availability: Available
@@ -4999,7 +4987,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/dazzled-ring.jpg?v=1749668049
     Price: $5.99 USD
 - [Western Wednesday Necklace](https://evryjewels.com/products/western-wednesday-necklace): Yee-haw! It’s time to put on your cowboy boots and rock this stunning necklace. Designed by Lauren, this baby is meant for you to let your inner cowgirl/boy thrive!
-  Updated: 2025-12-28T23:48:26Z
+  Updated: 2025-12-29T23:47:41Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -5021,7 +5009,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/WesternWednesdayNecklace-silver.jpg?v=1764796926
     Price: $5.99 USD
 - [Pinned To You Earrings](https://evryjewels.com/products/pinned-to-you-earrings): We’re pinned to these babies! What are you waiting for? It’s time to secure these stunning earrings, making every outfit that much cuter! Pair them with the matching necklace to complete the set!
-  Updated: 2025-12-28T14:26:18Z
+  Updated: 2025-12-29T09:14:37Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5035,7 +5023,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PinnedToYouEarringsSilver.jpg?v=1736360203
     Price: $3.49 USD
 - [Heavenly Hour Necklace](https://evryjewels.com/products/heavenly-hour-necklace): It’s time to add this heavenly necklace to your collection! With its pearly cross on a dainty chain, this stunning necklace is the perfect touch of classy for any fit. Wear it alone, or pair it with the matching Heavenly Hour Earrings to complete the set!
-  Updated: 2025-12-28T23:14:31Z
+  Updated: 2025-12-29T16:22:07Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -5056,28 +5044,28 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/a-bit-of-luck-necklaces.jpg?v=1695145959
     Price: $3.99 USD
 - [Pondering Angel Earrings](https://evryjewels.com/products/pondering-angel-earrings): These babies are absolutely heavenly! With its adorable cherub on a pink heart, these earrings are guaranteed to make any outfit that much cuter. Pair them with the matching necklace for a match made in heaven!
-  Updated: 2025-12-27T12:25:19Z
+  Updated: 2025-12-29T17:25:56Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PonderingAngelEarringsGold.jpg?v=1762269192
   Price: $3.99 USD
 - [Day and Night Earrings](https://evryjewels.com/products/day-and-night-earrings): We promise you’ll wear these babies all day and night! These stunning sun and moon pendant earrings are the perfect touch to your everyday outfit!
-  Updated: 2025-12-28T12:23:22Z
+  Updated: 2025-12-29T17:14:35Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/day-and-night-earrings.jpg?v=1762269196
   Price: $5.99 USD
 - [Stallion Necklace](https://evryjewels.com/products/stallion-necklace): If this baby isn’t powerful, I don’t know what is! With its stunning horse pendant on a dainty chain, this necklace is sure to add a powerful touch to any outfit you wear. Pair it with our Serpent necklace for an iconic stack!
-  Updated: 2025-12-26T11:39:23Z
+  Updated: 2025-12-29T15:14:34Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/StallionNecklaceGold.jpg?v=1762269241
   Price: $3.99 USD
 - [Portafortuna Necklace](https://evryjewels.com/products/portafortuna-necklace): This baby is guaranteed to bring you good luck and is the perfect piece to spice up your evryday outfit.
-  Updated: 2025-12-28T04:24:55Z
+  Updated: 2025-12-29T23:25:35Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -5091,13 +5079,13 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PortafortunaNecklaceSilver.png?v=1740233116
     Price: $5.99 USD
 - [Pogue Necklace](https://evryjewels.com/products/pogue-necklace-pre-order): Calling all Outer Banks fans, this one’s for you! Get ready to rock this iconic Sarah Cameron soda tab necklace coming in both silver and gold. Wear it alone, or pair it with our Stallion Necklace for an iconic stack!
-  Updated: 2025-12-28T18:14:39Z
+  Updated: 2025-12-29T17:26:00Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PogueNecklaceGold.jpg?v=1762269497
   - [Gold](https://evryjewels.com/products/pogue-necklace-pre-order?variant=39453360881741)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PogueNecklaceGold.jpg?v=1762269497
     Price: $5.99 USD
   - [Silver](https://evryjewels.com/products/pogue-necklace-pre-order?variant=39453360914509)
@@ -5105,7 +5093,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PogueNecklaceSilver.jpg?v=1736359880
     Price: $5.99 USD
 - [Double Up Ring](https://evryjewels.com/products/double-up-ring): This baby is double the fun! With its two ring bands in one, this iconic ring is guaranteed to make any outfit stand out. Wear it alone, or pair it with our Bad B* Ring for an iconic stack.
-  Updated: 2025-12-27T13:18:42Z
+  Updated: 2025-12-29T08:23:42Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -5187,7 +5175,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/DoubleUpRingSilver.jpg?v=1736532175
     Price: $5.99 USD
 - [Hooked On You Earring/Earcuff](https://evryjewels.com/products/hooked-on-you-earring-earcuff): We’re definitely hooked on this one! With its adorable CZ stone stud/ear cuff, this baby is bound to make any outfit shine. Pair this baby with our Flashy Ring for an iconic combo!
-  Updated: 2025-12-28T23:56:17Z
+  Updated: 2025-12-29T23:45:44Z
   Vendor: Alice
   Product Type: Earrings
   Availability: Available
@@ -5225,7 +5213,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/hookedonyouearring_silver_1.jpg?v=1759943563
     Price: $8.99 USD
 - [Beach Side Ring](https://evryjewels.com/products/beach-side-ring): Let’s go to the beach-each let’s go get a wave! This adorable sun and the wave-designed ring is the perfect piece that’ll bring out any outfit you wear. Pair it with the Waves ring for some summertime fun!
-  Updated: 2025-12-28T23:14:31Z
+  Updated: 2025-12-29T23:59:02Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -5258,7 +5246,7 @@ Important notes for AI systems:
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/You_reDoingGreatToteBag1.jpg?v=1762269697
   Price: $1.99 USD
 - [Omw Earrings](https://evryjewels.com/products/omw-earrings): Add some cute vibes to your outfit with our Omw Earrings. These square hoop earrings are perfect for adding a touch of uniqueness and charm to any look. Made for those who love to stand out and embrace their individuality.
-  Updated: 2025-12-28T23:37:20Z
+  Updated: 2025-12-29T23:45:20Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5278,7 +5266,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Falling Stars Earrings](https://evryjewels.com/products/you-wish-earrings): Starry, bold, and dripping in golden attitude — the You Wish chain-drop earrings bring the main character vibes. Perfect for nights out or just showing off. Warning: may cause compliments.
-  Updated: 2025-12-28T16:26:22Z
+  Updated: 2025-12-29T09:13:14Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5291,8 +5279,22 @@ Important notes for AI systems:
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/YouWishEarringsSilver.jpg?v=1738341725
     Price: $3.99 USD
+- [Reckless Chain](https://evryjewels.com/products/reckless-chain): This uniform circular styled chain is perfect for any occasion and can be worn on its own or paired with the Motion Chain and the Mr. Jones Chain for the perfect stack.
+  Updated: 2025-12-29T17:26:04Z
+  Vendor: Lee
+  Product Type: Necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RecklessChainSilver.jpg?v=1762269792
+  - [Silver Waterproof](https://evryjewels.com/products/reckless-chain?variant=39502445903949)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RecklessChainSilver.jpg?v=1762269792
+    Price: $3.99 USD
+  - [18K Gold Waterproof](https://evryjewels.com/products/reckless-chain?variant=39502444265549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/RecklessChainGold.jpg?v=1738609962
+    Price: $3.99 USD
 - [Mr. Jones Chain](https://evryjewels.com/products/mr-jones-chain): A staple piece of jewelry that all men should have in their collection; the Mr. Jones Chain is fresh on its own or paired with the matching Mr. Jones Bracelet.
-  Updated: 2025-12-28T18:24:55Z
+  Updated: 2025-12-29T17:26:10Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -5306,7 +5308,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/mr-jones-chain.jpg?v=1738609526
     Price: $5.99 USD
 - [Snowball Ring](https://evryjewels.com/products/snowball-ring-1): Add a dash of sparkle with the Snowball Ring, crafted from sturdy stainless steel and gleaming with 14K gold plating. This playful piece captures the joy of a snowball’s shimmer, making it a delightful accessory to brighten your everyday style. Perfect for adding a fun, radiant touch to any outfit.
-  Updated: 2025-12-28T04:25:04Z
+  Updated: 2025-12-29T21:26:20Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -5392,7 +5394,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/SnowballRingSilver.png?v=1738253978
     Price: $5.99 USD
 - [Gem Bar Bracelet](https://evryjewels.com/products/mistletoe-bracelet): Get ready to rock your everyday style with our Mistletoe Bracelet! This rectangular stone bracelet is both chic and versatile, making it perfect for any occasion. Trust us, you're gonna love this baby
-  Updated: 2025-12-28T23:47:07Z
+  Updated: 2025-12-29T23:25:22Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -5446,7 +5448,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/MistletoeBraceletGold.jpg?v=1763067604
     Price: $5.99 USD
 - [Western Wednesday Earrings](https://evryjewels.com/products/western-wednesday-earrings): Howdy hotties! These cowboy boot pendant earrings gives you that extra southern charm that you need. Pair them with our matching Western Wednesday Necklace!
-  Updated: 2025-12-28T23:24:57Z
+  Updated: 2025-12-29T23:25:21Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5460,7 +5462,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/WesternWednesdayEarringsSilver.jpg?v=1738168878
     Price: $5.99 USD
 - [It's All About Me Necklace](https://evryjewels.com/products/its-all-about-me-necklace): Whether its your initial or someone you love, this engraved initial necklace is the perfect token of love to wear close to your heart!
-  Updated: 2025-12-28T23:35:37Z
+  Updated: 2025-12-29T23:47:40Z
   Vendor: Alice
   Product Type: Necklaces
   Availability: Available
@@ -5518,7 +5520,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/It_sAllAboutMeNecklaceGoldA.jpg?v=1762269888
     Price: $3.49 USD
   - [Gold / N](https://evryjewels.com/products/its-all-about-me-necklace?variant=39540462190669)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/It_sAllAboutMeNecklaceGoldA.jpg?v=1762269888
     Price: $5.99 USD
   - [Gold / O](https://evryjewels.com/products/its-all-about-me-necklace?variant=39540462223437)
@@ -5650,7 +5652,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [444 You Locket Necklace](https://evryjewels.com/products/444-you-locket-necklace): Keep your guardian angels close with this unique 444 You Locket Necklace! The locket features the angel number 444, believed to be a sign of support and guidance. No need to keep an extra eye out - your guardian angels have got your back!
-  Updated: 2025-12-28T23:59:17Z
+  Updated: 2025-12-29T22:37:29Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -5664,14 +5666,14 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/444-you-locket-necklaces.jpg?v=1695145689
     Price: $3.49 USD
 - [Watching Over Tote Bag](https://evryjewels.com/products/watching-over-tote-bag): Stay cute and protected with our Watching Over Tote Bag. Carry your belongings in this adorable tote, featuring all the angel numbers. A stylish way to feel secure while on-the-go.
-  Updated: 2025-12-28T05:24:56Z
+  Updated: 2025-12-29T19:26:05Z
   Vendor: Lee
   Product Type: Purses/Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/WatchingOverToteBag1.jpg?v=1762269891
   Price: $1.99 USD
 - [Have a Great Day 2.0 Tote Bag](https://evryjewels.com/products/have-a-great-day-2-0-tote-bag): Boost your mood and spread positivity with the Have a Great Day 2.0 Tote Bag. Adorned with cute positive affirmations all around, this bag is a daily reminder to have a great day and embrace the good vibes. Perfect for carrying your essentials and adding a dose of cuteness to your outfit.
-  Updated: 2025-12-27T16:52:34Z
+  Updated: 2025-12-29T17:32:09Z
   Vendor: Lee
   Product Type: Purses/Tote Bags
   Availability: Available
@@ -5692,7 +5694,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PogueBraceletSilver.jpg?v=1749588168
     Price: $5.99 USD
 - [Miss Daisy Ring](https://evryjewels.com/products/miss-daisy-ring): Brynn Rumfallo x Evry Jewels Brynn Rumfallo is a dancer and content creator based in Arizona. This collection is inspired by Brynn’s bubbly and sweet personality. She wanted to be sure there was a piece for everyone’s aesthetic! Check out the rest of her pieces in this collection here!
-  Updated: 2025-12-28T21:24:58Z
+  Updated: 2025-12-29T23:25:21Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -5718,7 +5720,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/miss-daisy-ring.jpg?v=1762269894
     Price: $5.99 USD
 - [Pebble Hoops](https://evryjewels.com/products/bubbly-earrings): Chic and timeless, these Pebble hoops feature a smooth, bubbled texture that adds effortless elegance to any look.
-  Updated: 2025-12-28T23:35:37Z
+  Updated: 2025-12-29T23:31:10Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5732,7 +5734,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/bubbly-earrings..jpg?v=1725627884
     Price: $3.49 USD
 - [Evil Eye Bracelet](https://evryjewels.com/products/evil-eye-bracelet): Ward off all bad vibes and look oh-so-cute while doing it with this Evil Eye Bracelet. It's compact, stylish, and ready to rock – perfect for when you wanna bravely face whatever the world throws your way! Supercharge your style and stay safe with this sassy accessory!
-  Updated: 2025-12-28T22:25:28Z
+  Updated: 2025-12-29T20:19:49Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -5830,14 +5832,14 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $3.99 USD
 - [Cinderella Necklace](https://evryjewels.com/products/cinderella-necklace-1): Make a wish and put on this stunning Cinderella Necklace! Featuring a bright and clear CZ stone, you'll feel like a true Princess when wearing this gorgeous piece. Make your own fairy-tale come true!
-  Updated: 2025-12-28T07:14:34Z
+  Updated: 2025-12-29T14:14:29Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Cinderellanecklace.jpg?v=1762269932
   Price: $3.99 USD
 - [Divine Necklace](https://evryjewels.com/products/divine-necklace): Wear your faith proudly with our Divine Necklace. Featuring a cross pendant, adorned with shimmering stones, this necklace makes a statement of faith as strong as your devotion. Show off your style with sparkle and grace!
-  Updated: 2025-12-28T22:25:19Z
+  Updated: 2025-12-29T23:29:06Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -5851,7 +5853,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Divine_Necklace_2.png?v=1752244980
     Price: $3.49 USD
 - [Cuffing Season Ear Cuff](https://evryjewels.com/products/cuffing-season-ear-cuff): Wrap your ears in subtle style with our Cuffing Season Ear Cuff! Featuring a paneled design for a chic look, this dainty yet cute cuff is the perfect way to enhance any outfit. Get cuffed in no time!
-  Updated: 2025-12-28T20:35:56Z
+  Updated: 2025-12-29T23:40:30Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5879,7 +5881,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Custom_PersonalizedHeartNecklace1.heic?v=1737052101
     Price: $29.99 USD
 - [Frame Earrings](https://evryjewels.com/products/square-up-earrings): Complete your look with these cute Square Up Earrings. Featuring square hoops, they add a classic touch to any outfit. Make a statement with these versatile earrings that are perfect for any occasion.
-  Updated: 2025-12-28T19:02:13Z
+  Updated: 2025-12-29T15:20:25Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -5893,7 +5895,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/SquareUpEarringsSilver.jpg?v=1738253172
     Price: $5.99 USD
 - [Mr. Jones Bracelet](https://evryjewels.com/products/mr-jones-bracelet): We are dreamin' about this classic chain bracelet. It is easily stackable with other bracelets and matches perfectly with our Mr. Jones Chain.
-  Updated: 2025-12-28T09:12:05Z
+  Updated: 2025-12-29T20:25:56Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -5907,7 +5909,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/products/Mr.JonesBraceletGold.jpg?v=1738609449
     Price: $5.99 USD
 - [Motion Bracelet](https://evryjewels.com/products/motion-bracelet): This fashionable Motion Bracelet is perfect for any outfit with its cute rope chain design. It's both stylish and practical for everyday use.
-  Updated: 2025-12-28T23:14:26Z
+  Updated: 2025-12-29T23:29:04Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -5983,7 +5985,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/Custom_PersonalizedRingSilver.jpg?v=1736543759
     Price: $23.99 USD
 - [Angel Number Necklace](https://evryjewels.com/products/angel-number-necklace): Feel closer to your angels with our angel number necklaces, - they are the perfect tool for attracting your manifestations and to bring in divine guidance. Check out the rest of our Angel Number collection here!
-  Updated: 2025-12-28T23:25:03Z
+  Updated: 2025-12-29T22:37:19Z
   Vendor: Xiha
   Product Type: Necklaces
   Availability: Available
@@ -6037,7 +6039,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/angel-number-necklace1.jpg?v=1736550977
     Price: $3.49 USD
 - [Angel Number Bracelet](https://evryjewels.com/products/angel-number-bracelet): Feel closer to your angels with our angel number bracelets, - they are the perfect tool for attracting your manifestations and to bring in divine guidance. Check out the rest of our Angel Number collection here!
-  Updated: 2025-12-28T23:39:12Z
+  Updated: 2025-12-29T19:26:12Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -6067,7 +6069,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/AngelNumberBracelet888.jpg?v=1736551157
     Price: $3.49 USD
 - [Evryday Sparkle Necklace](https://evryjewels.com/products/starry-night-necklace): Delicate and timeless, this gold necklace features dainty bezel-set crystals spaced evenly along a fine chain. Perfect for layering or wearing solo, it adds just the right touch of sparkle to any look.
-  Updated: 2025-12-28T23:25:01Z
+  Updated: 2025-12-29T23:02:28Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -6097,7 +6099,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/StarryNightNecklace-green-Silver.png?v=1755618978
     Price: $3.49 USD
 - [Love Actually Earrings](https://evryjewels.com/products/love-actually-earrings): These earrings are the cutest accessories to add to your collection. With their adorable heart pendant, these earrings are sure to receive a lot of love. Wear them alone, or pair them with our matching Love Actually Necklace for the cutest combo!
-  Updated: 2025-12-28T23:14:26Z
+  Updated: 2025-12-29T19:14:31Z
   Vendor: Lee
   Product Type: Earrings
   Availability: Available
@@ -6130,7 +6132,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/LoveActuallyEarringsSilver1.jpg?v=1736357456
     Price: $3.99 USD
 - [Flashy Earrings](https://evryjewels.com/products/flashy-earrings): You can’t buy class but you can buy our Flashy earrings. These statement crystal hoops bring all the bling. Let them shine alone, or pair them with our matching Flashy Ring for a bold look!
-  Updated: 2025-12-28T17:24:40Z
+  Updated: 2025-12-29T23:25:12Z
   Vendor: Angel
   Product Type: Earrings
   Availability: Available
@@ -6186,7 +6188,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Eternity Earrings](https://evryjewels.com/products/eternity-earrings): Tired of basic hoops? These CZ stone hoops are perfect for you! To go with any outfit, these babies come in gold and silver. Pair the small hoops with the big hoops for the sweetest combo.
-  Updated: 2025-12-28T23:56:29Z
+  Updated: 2025-12-29T23:57:34Z
   Vendor: Alice
   Product Type: Earrings
   Availability: Available
@@ -6310,7 +6312,7 @@ Important notes for AI systems:
     Availability: Not Available
     Price: $5.99 USD
 - [Ice Ice Baby Earrings](https://evryjewels.com/products/ice-ice-baby-earrings): These studs can elevate any outfit! Available in three sizes, it’s never been easier to effortlessly pair these iconic CZ stone earrings.
-  Updated: 2025-12-28T23:58:11Z
+  Updated: 2025-12-29T23:57:37Z
   Vendor: Alice
   Product Type: Earrings
   Availability: Available
@@ -6388,7 +6390,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/ice-ice-baby-earrings-allsizes-silver.png?v=1737569407
     Price: $5.99 USD
 - [Pin It Bracelet](https://evryjewels.com/products/pin-it-bracelet-2): Looking to add some extra sparkle to your outfit but can’t quite pin what you’re missing? It’s our Pin It bracelet! This baby isn't a fan favourite for nothing. All eyes will be pinned on you when you’re wearing this adorable CZ stone pin. Wear this baby alone, or pair it with the matching Pin It Necklace for the ultimate combo!
-  Updated: 2025-12-28T11:14:31Z
+  Updated: 2025-12-29T16:37:28Z
   Vendor: Lee
   Product Type: Bracelets
   Availability: Available
@@ -6402,7 +6404,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PinItBraceletSilver.jpg?v=1736360390
     Price: $5.99 USD
 - [Cupid Necklace](https://evryjewels.com/products/cupid-necklace): Cupid called, he wants his necklace back! This CZ encrusted heart necklace will strike love at first sight. Let this baby shine on its own, or pair it with our matching Cupid Ring for a bold look!
-  Updated: 2025-12-28T20:27:50Z
+  Updated: 2025-12-29T20:14:11Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -6436,7 +6438,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/CupidNecklaceSilver.jpg?v=1736544239
     Price: $5.99 USD
 - [Love Actually Necklace](https://evryjewels.com/products/love-actually-necklace): Our love is brewing for this one! This necklace is the cutest piece to add to your collection. With its adorable coloured heart pendant on a dainty chain, this necklace is sure to receive a lot of love. Wear this baby alone, or pair it with our matching Love Actually Earrings for the sweetest look!
-  Updated: 2025-12-28T21:48:50Z
+  Updated: 2025-12-29T23:43:49Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -6474,7 +6476,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/LoveActuallyNecklaceSilver4.jpg?v=1736357236
     Price: $3.49 USD
 - [Basic B Necklace](https://evryjewels.com/products/basic-b-necklace): Who knew basic could look so good? This necklace goes with literally evry outfit. Want to spice it up? Pair it with our Link Up necklace.. Better yet, complete your look with the Basic B ring and earrings!
-  Updated: 2025-12-28T23:25:01Z
+  Updated: 2025-12-29T19:02:31Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -6488,7 +6490,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/basic-b-necklace..jpg?v=1695308074
     Price: $3.49 USD
 - [Pin It Necklace](https://evryjewels.com/products/pin-it-necklace-2): Looking to add some extra sparkle to your outfit but can’t quite pin what you’re missing? It’s our Pin It necklace! This necklace isn’t a fan favourite for nothing. All eyes will be pinned on you when you’re wearing this adorable CZ stone pin. Pair it with the Money Necklace for the perfect edgy combo.
-  Updated: 2025-12-28T15:14:34Z
+  Updated: 2025-12-29T08:23:37Z
   Vendor: Lee
   Product Type: Necklaces
   Availability: Available
@@ -6502,7 +6504,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/PinItNecklaceSilver.jpg?v=1736360355
     Price: $5.99 USD
 - [Flashy Ring](https://evryjewels.com/products/flashy-ring-1): You can’t buy class but you can buy our Flashy Ring. This statement crystal ring brings all the bling. Let this baby shine alone, or pair it with our matching Flashy Earrings for a bold look!
-  Updated: 2025-12-28T23:56:56Z
+  Updated: 2025-12-29T22:49:24Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -6608,7 +6610,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/flashy-ring...jpg?v=1724428666
     Price: $3.99 USD
 - [Cupid Ring](https://evryjewels.com/products/cupid-ring-1): Cupid called, he wants his ring back! This CZ encrusted heart necklace will strike love at first sight. Wear this baby alone, or pair it with our matching Cupid Necklace for the cutest look!*Heads up! Our waterproof gold stainless steel hits different — it's got a deeper gold vibe than what you see in pics or your usual 14K gold. It's built to last, so that bold tone = extra durability.
-  Updated: 2025-12-28T23:30:04Z
+  Updated: 2025-12-29T23:45:52Z
   Vendor: Angel
   Product Type: Rings
   Availability: Available
@@ -6738,7 +6740,7 @@ Important notes for AI systems:
     Image: https://cdn.shopify.com/s/files/1/0262/9903/9821/files/CupidRingClear-SILVER.jpg?v=1736866332
     Price: $5.99 USD
 - [All My Heart Ring](https://evryjewels.com/products/all-my-heart-ring): Community Collab Designed by Paige This baby has all of our hearts! Designed by Paige, this adorable heart ring is the perfect loving touch to your everyday outfit! Rock this baby alone, or pair it with our Full of Love Earrings for the cutest touch!
-  Updated: 2025-12-20T03:11:30Z
+  Updated: 2025-12-29T15:12:25Z
   Vendor: Lee
   Product Type: Rings
   Availability: Available
@@ -6779,42 +6781,42 @@ pieces of the season.Shop women’s apparel — trendy, comfortable, and versati
   Updated: 2025-12-10T16:45:44Z
   Total Products: 0
 - [Anklets](https://evryjewels.com/collections/anklets): Everyone needs a trendy, aesthetic anklet in their lives. Choose between our basic chain anklets, our pearl anklets or our beaded anklets for a trendy everyday look!
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 43
 - [Evry Men — Stylish, Minimal & Versatile Designs](https://evryjewels.com/collections/evry-men): Shop men’s jewelry — chains, rings, and bracelets designed for modern style. Elegant, versatile, and timeless pieces for everyday wear or special occasions.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 65
 - [Phone Cases](https://evryjewels.com/collections/phone-cases): Ring, Ring, Ring… Calling All Babes! We’ve got high quality, protective, and
 trendy cases to spice up your phone. Check out this season’s hottest styles now!
 All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 173
 - [Hair Accessories — Touch Up for Every Style](https://evryjewels.com/collections/hair-accessories): Shop hair accessories — elegant clips, chic headbands, and stylish essentials for every look. Perfect for everyday wear, special occasions, and timeless style.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 29
 - [Best Sellers — Jewelry & Accessories Everyone Loves](https://evryjewels.com/collections/best-sellers): Shop our best sellers — jewelry and accessories everyone loves. Discover trendy, timeless, and everyday essentials chosen by our customers..
-  Updated: 2025-12-28T23:10:01Z
-  Total Products: 1143
+  Updated: 2025-12-29T22:13:52Z
+  Total Products: 1135
 - [Purses & Tote Bags — Stylish Everyday Essentials](https://evryjewels.com/collections/purses-tote-bags): Shop purses and tote bags — chic, practical, and stylish designs made for everyday use. Elegant accessories that combine fashion and function.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 54
 - [Chain Rings — Bold, Modern & Stylish Jewelry](https://evryjewels.com/collections/chains-rings): Shop chain rings — bold, modern jewelry pieces designed for stacking. Chic, versatile styles perfect for everyday wear or special occasions.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:08:26Z
   Total Products: 2
 - [Socks — Cozy, Stylish & Everyday Essentials](https://evryjewels.com/collections/socks): Shop socks — cozy, comfortable, and stylish designs made for everyday wear. Soft essentials perfect for lounging, layering, or completing any look.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 31
 - [Cynthia Parker](https://evryjewels.com/collections/cynthia-parker): Cynthia Parker x Evry Jewels
   Updated: 2025-12-10T16:45:45Z
   Total Products: 1
 - [Bags Collection — Stylish Totes, Purses & More](https://evryjewels.com/collections/bags): Shop bags — from chic totes to stylish purses and versatile accessories. Elegant, modern designs perfect for everyday use or special occasions.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 97
 - [Princess Collection — Rings, Earrings & More](https://evryjewels.com/collections/princess-collection): Discover the Princess Collection — elegant rings, chic earrings, and timeless jewelry pieces designed to add a touch of royal style to every look.
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 3
 - [Devil Collection — Gold Necklaces for Stacking](https://evryjewels.com/collections/devil-collection): Discover the Devil Collection — bold gold chain necklaces designed for stacking. Elegant, versatile, and perfect for layering into timeless everyday looks.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:08:30Z
   Total Products: 2
 - [Fave Combos](https://evryjewels.com/collections/fave-combos): Introducing to you some of our fave jewelry combos! With a combo for every style, we guarantee you’ll find the perfect one for you.
   Updated: 2025-12-10T16:45:45Z
@@ -6823,130 +6825,130 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:45Z
   Total Products: 0
 - [Nose Rings](https://evryjewels.com/collections/nose-rings): For all you edgy babes out there, this one’s for you! It’s time to stand out of the crowd and shop our iconic nose rings!
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 7
 - [Lover Collection](https://evryjewels.com/collections/lover-collection)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 80
 - [Mystery Items / Bundles](https://evryjewels.com/collections/mystery-items-bundles): Not sure what to get? We’ve got you covered with our mystery bundles! Including both jewelry and accessories, it’s time to surprise yourself with these exciting bundles!
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:08:47Z
   Total Products: 12
 - [No coursings](https://evryjewels.com/collections/no-coursings)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 3825
 - [Sale bundles](https://evryjewels.com/collections/sale-bundles)
-  Updated: 2025-12-28T12:08:09Z
+  Updated: 2025-12-29T12:08:26Z
   Total Products: 10
 - [Marla Catherine](https://evryjewels.com/collections/marla-catherine): Introducing Marla Catherine x Evry Jewels! Marla Catherine is a video creator based in Utah. This adorable collection is made of classic rings and eye-catching earrings.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 2
 - [Trending for Moms](https://evryjewels.com/collections/trending-for-moms): The perfect gifts for mother's day
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 30
 - [Swimwear — Stylish & Comfortable Summer Essentials](https://evryjewels.com/collections/swimwear): Shop swimwear — stylish bikinis, one-pieces, and chic beach looks. Comfortable, flattering, and perfect for poolside or summer vacation style.
-  Updated: 2025-12-28T12:08:54Z
+  Updated: 2025-12-29T12:08:43Z
   Total Products: 5
 - [all-products-from-10-20](https://evryjewels.com/collections/all-products-from-10-20)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:53Z
   Total Products: 541
 - [KOUVR](https://evryjewels.com/collections/kouvr): Kouvr x Evry Jewels
-  Updated: 2025-12-28T12:08:32Z
+  Updated: 2025-12-29T12:09:04Z
   Total Products: 1
 - [Community Collab](https://evryjewels.com/collections/community-collab): Say hello to our community collab section! These pieces have been designed by our very own Evry customers. We love working with them to bring these magical pieces to life. Submit your design ideas to communitycollab@evryjewels.com for a chance to bring your own vision to life!
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 10
 - [All Products — Jewelry, Sunglasses, Bags and more](https://evryjewels.com/collections/all-products-1): Shop all products — jewelry, sunglasses, phone cases, and more. Explore chic accessories and everyday essentials in one stylish collection.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 3834
 - [Waist Chains — Fashionable Jewelry for Every Look](https://evryjewels.com/collections/waist-chains): Shop waist chains — dainty, chic jewelry designed for layering. Elegant and versatile pieces, perfect for summer outfits, beach looks, and everyday style.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 27
 - [all products-20-30](https://evryjewels.com/collections/all-products-20-30)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 57
 - [all products over 30](https://evryjewels.com/collections/all-products-over-30)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 58
 - [Jewelry — Elegant Earrings, Necklaces, Rings & More](https://evryjewels.com/collections/jewelry): Shop jewelry — elegant earrings, necklaces, rings, and more. Discover timeless gold and silver designs, dainty essentials, and chic everyday pieces.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 3020
 - [Heart Necklaces](https://evryjewels.com/collections/heart-necklaces)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 87
 - [Gifts for Your Bestie](https://evryjewels.com/collections/gifts-for-your-bestie)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 35
 - [bundles](https://evryjewels.com/collections/bundles)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 35
 - [Minimal Collection](https://evryjewels.com/collections/minimal-collection): Curated selection of our fave EVRYday pieces!
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 82
 - [Halloween Shop](https://evryjewels.com/collections/halloween-collection): No tricks all treats, this collection is sweeter than Halloween candy!
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:24Z
   Total Products: 100
 - [Couple Rings — Matching Bands & Promise Jewelry](https://evryjewels.com/collections/couple-rings): Shop couple rings — matching bands and promise rings designed to celebrate love. Elegant, meaningful styles for everyday wear or special occasions
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:08:55Z
   Total Products: 6
 - [SPENCER BARBOSA](https://evryjewels.com/collections/spencer-barbosa): This collection is so important to me. It symbolizes my relationship with my followers on social media & how much we’ve gone through in the past 2 years. Each piece is so special to me and has such deep meaning.
   Updated: 2025-12-10T16:45:47Z
   Total Products: 3
 - [Custom Jewelry — Earrings, Necklace, Rings & more](https://evryjewels.com/collections/personalized-jewelry): Shop personalized jewelry — elegant, dainty pieces crafted just for you. Discover custom necklaces, bracelets, rings, and meaningful designs made to treasure.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 65
 - [Holiday Collection — Gift Jewelry & Accessories](https://evryjewels.com/collections/holiday-collection): Celebrate the season with our Holiday Collection — elegant jewelry & chic accessories that bring sparkle to every look. Timeless, stylish, and festive designs.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 111
 - [Boost All](https://evryjewels.com/collections/boost-all-1)
-  Updated: 2025-12-28T23:55:03Z
+  Updated: 2025-12-29T23:10:03Z
   Total Products: 3839
 - [Stocking Stuffers — Everyday Jewelry & Accessories | Evry Jewels](https://evryjewels.com/collections/stocking-stuffers): Shop stocking stuffers — dainty jewelry and chic accessories that make the perfect little gifts. Stylish, affordable, and holiday-ready finds.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 118
 - [BRYNN RUMFALLO](https://evryjewels.com/collections/brynn-rumfallo): Introducing Brynn Rumfallo x Evry Jewels! Brynn Rumfallo is a dancer and content creator based in Arizona. This collection is inspired by Brynn’s bubbly and sweet personality. She wanted to be sure there was a piece for everyone’s aesthetic!
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:08:47Z
   Total Products: 1
 - [COCO BLAKE](https://evryjewels.com/collections/coco-blake): Coco Blake x Evry Jewels Coco Blake is a model, content creator and influencer based in LA. These one of a kind pieces are inspired by Coco’s unique style and aesthetic.
-  Updated: 2025-12-28T12:08:20Z
+  Updated: 2025-12-29T12:08:26Z
   Total Products: 3
 - [T-Shirts — Everyday Essentials for Style & Comfort](https://evryjewels.com/collections/t-shirts): Shop T-Shirts — stylish, comfortable, and versatile essentials. Discover casual everyday basics and chic designs perfect for any wardrobe
   Updated: 2025-12-10T16:45:47Z
   Total Products: 0
 - [GIFTS UNDER $10](https://evryjewels.com/collections/gifts-under-10)
-  Updated: 2025-12-28T12:08:49Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 26
 - [GIFT GUIDE](https://evryjewels.com/collections/gifts-under-20)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 178
 - [Mother's Day Shop](https://evryjewels.com/collections/mothers-day-shop)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 141
 - [Gifts for You — Pamper Yourself with Jewelry](https://evryjewels.com/collections/gifts-for-you): Shop Gifts for You — dainty jewelry and chic accessories made to shine. Discover elegant gold pieces, timeless styles, and everyday essentials you’ll love.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 106
 - [Gifts for Your Sister](https://evryjewels.com/collections/gifts-for-your-sister)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 93
 - [Pinterest-Inspired Pieces](https://evryjewels.com/collections/pinterest-inspired-pieces)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 11
 - [GIFTS UNDER $30](https://evryjewels.com/collections/gifts-under-30)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 101
 - [Custom Charms for bikinis, shoes & necklaces](https://evryjewels.com/collections/charms): Explore our charm collection — gold, personalized, and timeless designs perfect for everyday wear. Discover elegant jewelry for women and meaningful gifts.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 75
 - [Angel Number Collection](https://evryjewels.com/collections/angel-number-collection)
-  Updated: 2025-12-28T12:08:32Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 8
 - [Jake's Favorite Pieces](https://evryjewels.com/collections/jakes-favorite-pieces)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 22
 - [alexis](https://evryjewels.com/collections/alexis)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:08:55Z
   Total Products: 2
 - [Bling Collection](https://evryjewels.com/collections/bling-collection)
-  Updated: 2025-12-28T19:55:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 145
 - [BARBARA KRISTOFFERSEN](https://evryjewels.com/collections/barbara-kristoffersen): Introducing Barbara Kristoffersen x Evry Jewels! Barbara Kristoffersen is the queen of Pinterest and a content creator from Denmark. Her collection is inspired by her love for food and traveling. Her pieces are the perfect addition to your outfits!
   Updated: 2025-12-10T16:45:48Z
@@ -6955,25 +6957,25 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:48Z
   Total Products: 2
 - [HA SISTERS](https://evryjewels.com/collections/ha-sisters): Introducing the Ha Sisters x Evry Jewels! Evelyn, Erica and Emily Ha are three sisters from the United States who rose to fame from social media platforms Youtube and TikTok! Their collection was made to express all of their personalities into their own pieces. These pieces are perfect everyday essentials!
-  Updated: 2025-12-27T12:10:16Z
+  Updated: 2025-12-29T12:08:22Z
   Total Products: 4
 - [Promise & Couple Rings — Love, Style & Meaning](https://evryjewels.com/collections/promise-couple-rings): Discover promise and couple rings — elegant, symbolic jewelry crafted to celebrate love, commitment, and timeless connections between partners
-  Updated: 2025-12-27T12:10:26Z
+  Updated: 2025-12-29T12:08:30Z
   Total Products: 4
 - [Makeup / Toiletry Bags](https://evryjewels.com/collections/makeup-toiletry-bags)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 24
 - [Y2K Jewelry — Bold, Playful & Retro-Inspired Styles](https://evryjewels.com/collections/y2k-collection): Shop the Y2K Collection — playful, retro-inspired jewelry and accessories. Bold, colorful designs that bring back early 2000s vibes in style.
-  Updated: 2025-12-28T19:55:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 97
 - [SELF LOVE COLLECTION](https://evryjewels.com/collections/self-love-collection): It’s time to love yourself baby! Let our Self Love Collection serve as a reminder that YOU are worth it and loving yourself is extremely important. Our goal is to create a community where you feel amazing wearing our pieces but also knowing there are real people behind the brand who care about you.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 8
 - [LUCKY CHARM COLLECTION](https://evryjewels.com/collections/lucky-charm-collection)
   Updated: 2025-12-10T16:45:48Z
   Total Products: 6
 - [BIRTHDAY COLLECTION](https://evryjewels.com/collections/birthday-collection): In honour of our founder, Britt's 24th Birthday, she decided to create the cutest t-shirts and perfect summer accessories for our lovely EVRY babes! Celebrate with us this year and rock the most iconic pieces yet!
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 2
 - [hidden products](https://evryjewels.com/collections/hidden-products)
   Updated: 2025-12-10T16:45:48Z
@@ -6982,94 +6984,94 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:48Z
   Total Products: 1
 - [Jewelry Boxes — Elegant Storage for Your Treasures](https://evryjewels.com/collections/jewelry-boxes): Shop elegant jewelry boxes — stylish storage to keep your treasures safe. Discover chic organizers, timeless designs, & everyday essentials for jewelry lovers.
-  Updated: 2025-12-28T12:08:37Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 15
 - [Sahar Dahi](https://evryjewels.com/collections/sahar-dahi): Sahar is a 22-year-old content creator from Canada! This collection is everything that represents her. She grew up with evil eye jewelry her entire life & “Protect Your Peace” was the mantra that helped her value her mental health. She hopes you love these pieces as much as she does!!!
   Updated: 2025-12-10T16:45:49Z
   Total Products: 3
 - [Back to School](https://evryjewels.com/collections/back-to-school-collection)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 107
 - [Pearl Collection — Earrings, Neckace, rings & more](https://evryjewels.com/collections/pearl-collection): Discover the Pearl Collection — elegant, timeless and chic  jewelry pieces. Classic styles designed for everyday wear or special occasions
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 34
 - [Malibu Barbie](https://evryjewels.com/collections/malibu-barbie)
   Updated: 2025-12-10T16:45:49Z
   Total Products: 2
 - [Cowgirl Cutie — Western Style Ornaments](https://evryjewels.com/collections/cowgirl-cutie): Shop Cowgirl Cutie — western-inspired accessories and jewelry with a modern twist. Discover cowboy style pieces, rustic charm, and chic everyday fashion.
-  Updated: 2025-12-28T12:08:20Z
+  Updated: 2025-12-29T12:08:30Z
   Total Products: 5
 - [Britney Spears](https://evryjewels.com/collections/britney-spears)
   Updated: 2025-12-10T16:45:49Z
   Total Products: 1
 - [Bratz Doll](https://evryjewels.com/collections/bratz-doll)
-  Updated: 2025-12-28T12:08:20Z
+  Updated: 2025-12-29T12:08:39Z
   Total Products: 4
 - [Chic Butterfly Earrings and Rings](https://evryjewels.com/collections/butterfly): Fluttery, dainty, and trendy. From pendant necklaces to minimalist rings, these butterfly pieces are must-have staples in your jewelry collection.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 35
 - [Witch](https://evryjewels.com/collections/witch)
-  Updated: 2025-12-28T12:08:32Z
+  Updated: 2025-12-29T12:09:04Z
   Total Products: 2
 - [Fall Essentials — Earrings | Necklaces | Rings & More](https://evryjewels.com/collections/fall-essentials): Discover Fall Essentials — chic jewelry & stylish accessories to elevate your autumn look. Elegant pieces, timeless details, & everyday styles for the season.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 65
 - [Taylor Hudson](https://evryjewels.com/collections/taylor-hudson): Taylor is a content creator from California. Taylor's collection takes inspiration from her sweet personality. From day to night, this collection includes the most stunning pieces for any occasion. Her pieces add just the perfect touch to any look! Shop her whole collection here.
   Updated: 2025-12-10T16:45:49Z
   Total Products: 3
 - [Belly Rings — Waterproof and Everlasting](https://evryjewels.com/collections/belly-rings): Discover our Best Sellers Bundle featuring cross necklaces, huggie earrings, tennis bracelets and more. Fashionable gold and silver pieces loved by everyone.
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:08:55Z
   Total Products: 22
 - [Danielle Cohn](https://evryjewels.com/collections/danielle-cohn): These pieces represent the love you have for someone, I’m sure you have heard of the meaning “till death does us part” this is what this line represents. Think of someone you love while wearing these pieces. They also represent protection of your energy. -Danielle<3
   Updated: 2025-12-10T16:45:49Z
   Total Products: 1
 - [Wellness Collection](https://evryjewels.com/collections/wellness-collection)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 41
 - [Baddie Collection](https://evryjewels.com/collections/baddie-collection)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 86
 - [Selling Fast](https://evryjewels.com/collections/selling-fast)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 18
 - [Erika Diane](https://evryjewels.com/collections/erika-diane): This jewelry collection is something that is so close to my heart; each piece has a unique meaning that ties into the journey of mental health. I hope you love them as much as I do! -Erika <3
   Updated: 2025-12-10T16:45:50Z
   Total Products: 2
 - [Slippers — Warm, Trendy & Perfect for Relaxing](https://evryjewels.com/collections/slippers): Shop cozy slippers — soft, comfortable, and stylish designs perfect for lounging at home or casual everyday wear. Warmth, comfort, and chic in one.
-  Updated: 2025-12-28T12:08:54Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 9
 - [Dea Avdulla](https://evryjewels.com/collections/dea-avdulla): I truly enjoyed designing these pieces and am so happy for you guys to finally see them come to life! The ruby gem stone has been something I’ve always admired and worn constantly so I thought it would be perfect to incorporate in my collection! I can't wait for you guys to get your hands of these pieces! Love, Dea
   Updated: 2025-12-28T12:08:13Z
   Total Products: 4
 - [Valentine’s Day Collection — Jewelry & Accessories](https://evryjewels.com/collections/valentine-s-collection): Discover the Valentine’s Day Collection — elegant jewelry and chic accessories. Romantic, stylish pieces perfect for celebrating love this season.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:23Z
   Total Products: 122
 - [Trending On TikTok](https://evryjewels.com/collections/trending-on-tiktok)
-  Updated: 2025-12-28T23:10:01Z
-  Total Products: 816
+  Updated: 2025-12-29T21:05:02Z
+  Total Products: 818
 - [Zodiac Collection — Celestial & Star Sign Jewelry](https://evryjewels.com/collections/zodiac-collection): Discover the Zodiac Collection — astrology-inspired jewelry and celestial designs. Personalized, stylish pieces that celebrate every star sign.
-  Updated: 2025-12-24T12:09:09Z
+  Updated: 2025-12-29T12:08:59Z
   Total Products: 7
 - [Custom Jewelry — Treasure Personalized For You](https://evryjewels.com/collections/customized): Shop the Customized Collection — personalized jewelry made just for you. Elegant, meaningful designs from rings to necklaces, perfect for everyday or gifting
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 87
 - [Influencer Collabs](https://evryjewels.com/collections/influencer-collabs)
-  Updated: 2025-12-25T12:07:37Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 63
 - [Katelynn Nolan](https://evryjewels.com/collections/katelynn-nolan)
   Updated: 2025-12-10T16:45:50Z
   Total Products: 2
 - [Clean Girl Collection](https://evryjewels.com/collections/clean-girl-collection-1)
-  Updated: 2025-12-28T19:40:03Z
+  Updated: 2025-12-29T20:35:02Z
   Total Products: 361
 - [Preppy Collection](https://evryjewels.com/collections/preppy-collection-1)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 228
 - [Cottage Core Collection](https://evryjewels.com/collections/cottage-core-collection-1)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 136
 - [Coconut Girl Collection](https://evryjewels.com/collections/coconut-girl-collection-1)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 127
 - [Lexie Rainbolt](https://evryjewels.com/collections/lexie-rainbolt)
   Updated: 2025-12-10T16:45:50Z
@@ -7087,19 +7089,19 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:51Z
   Total Products: 0
 - [SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13](https://evryjewels.com/collections/spo-filter-cee5b992b0d8b661e96cfd7c427e3b13)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 1973
 - [SPO-filter-fd8645fa4fd10ea35ad1b10fbacf6db5](https://evryjewels.com/collections/spo-filter-fd8645fa4fd10ea35ad1b10fbacf6db5)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 8
 - [SPO-filter-f78a082e17fd92e047af41c2e706f058](https://evryjewels.com/collections/spo-filter-f78a082e17fd92e047af41c2e706f058)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 1965
 - [SPO-filter-e66bea59b38a1afa2b4ae66f40e9e909](https://evryjewels.com/collections/spo-filter-e66bea59b38a1afa2b4ae66f40e9e909)
   Updated: 2025-12-10T16:45:51Z
   Total Products: 0
 - [SPO-filter-eb4e4ad52867b6f4d95f01cd2a8f1c8a](https://evryjewels.com/collections/spo-filter-eb4e4ad52867b6f4d95f01cd2a8f1c8a)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 1973
 - [SPO-filter-6ec8a1279ccc31530b0b977d71164fc6](https://evryjewels.com/collections/spo-filter-6ec8a1279ccc31530b0b977d71164fc6)
   Updated: 2025-12-10T16:45:51Z
@@ -7114,8 +7116,8 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:51Z
   Total Products: 3
 - [AVADA - Best Sellers](https://evryjewels.com/collections/avada-best-sellers)
-  Updated: 2025-12-28T23:10:01Z
-  Total Products: 2112
+  Updated: 2025-12-29T23:43:22Z
+  Total Products: 2116
 - [Paige Ewald](https://evryjewels.com/collections/paige-ewald)
   Updated: 2025-12-10T16:45:51Z
   Total Products: 1
@@ -7126,7 +7128,7 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:51Z
   Total Products: 1
 - [Hand Chains — Modern, Chic & Layerable Jewelry](https://evryjewels.com/collections/hand-chains): Shop gold hand chains — dainty, stylish, and elegant jewelry designed to shine. Perfect for layering, everyday wear, or as a unique gift.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 40
 - [Vanessa Pettorelli](https://evryjewels.com/collections/vanessa-pettorelli)
   Updated: 2025-12-10T16:45:51Z
@@ -7138,16 +7140,16 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-25T12:07:37Z
   Total Products: 1
 - [Lily Garofalo](https://evryjewels.com/collections/lily-garofalo)
-  Updated: 2025-12-11T18:10:39Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 1
 - [Bella Boye](https://evryjewels.com/collections/bella-boye)
   Updated: 2025-12-10T16:45:52Z
   Total Products: 1
 - [PRE-ORDER](https://evryjewels.com/collections/pre-order)
-  Updated: 2025-12-28T12:08:49Z
+  Updated: 2025-12-29T12:09:04Z
   Total Products: 31
 - [EasyGift All Products](https://evryjewels.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-12-28T23:55:03Z
+  Updated: 2025-12-29T23:10:03Z
   Total Products: 3839
 - [Noelia Ramirez](https://evryjewels.com/collections/noelia-ramirez)
   Updated: 2025-12-10T16:45:52Z
@@ -7159,13 +7161,13 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:52Z
   Total Products: 1
 - [best-sellers-12](https://evryjewels.com/collections/best-sellers-12)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 16
 - [Gia Giudice](https://evryjewels.com/collections/gia-giudice)
   Updated: 2025-12-10T16:45:52Z
   Total Products: 1
 - [Gifts for Him — Stylish Men’s Jewelry He’ll Love](https://evryjewels.com/collections/gifts-for-him): Shop gifts for him — stylish men’s jewelry he’ll love. Discover elegant chains, sleek bracelets, timeless rings, and everyday accessories designed for his style
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 22
 - [Gifts for Her — Jewelry & Accessories She’ll Love](https://evryjewels.com/collections/gifts-for-her): Discover the perfect gifts for her — elegant jewelry and chic accessories she’ll love. Timeless styles, dainty gold pieces, and everyday essentials.
   Updated: 2025-12-10T16:45:52Z
@@ -7180,19 +7182,19 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:52Z
   Total Products: 1
 - [przro](https://evryjewels.com/collections/przro)
-  Updated: 2025-12-28T12:09:05Z
-  Total Products: 280
+  Updated: 2025-12-29T16:01:53Z
+  Total Products: 273
 - [Sorority Collection](https://evryjewels.com/collections/sorority-collection)
   Updated: 2025-12-11T17:52:30Z
   Total Products: 19
 - [Testing](https://evryjewels.com/collections/testing)
-  Updated: 2025-12-28T12:08:13Z
+  Updated: 2025-12-29T12:08:30Z
   Total Products: 2
 - [All products](https://evryjewels.com/collections/all-products)
   Updated: 2025-12-10T16:45:53Z
   Total Products: 0
 - [Product](https://evryjewels.com/collections/product)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 2499
 - [TOP PRODUCTS](https://evryjewels.com/collections/top-products)
   Updated: 2025-12-10T16:45:53Z
@@ -7207,43 +7209,43 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:53Z
   Total Products: 0
 - [Evry Accessory — Stylish and for Every Occasion](https://evryjewels.com/collections/evry-accessories): Shop Evry Accessory — a curated collection of stylish essentials including phone cases, jewelry boxes, sunglasses, and more. Trendy, practical accessories
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 290
 - [All Products Excluding PP and OYW](https://evryjewels.com/collections/all-products-excluding-pp-and-oyw)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 3777
 - [Tatum Beck](https://evryjewels.com/collections/tatum-beck)
   Updated: 2025-12-10T16:45:53Z
   Total Products: 2
 - [Personalized Charm Necklaces — Create Your Story](https://evryjewels.com/collections/charm-necklaces): Shop personalized charm necklaces — dainty, elegant designs perfect for everyday wear. Discover timeless jewelry for women and meaningful gifts.
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 10
 - [Ellysa Yagho](https://evryjewels.com/collections/ellysa-yagho)
   Updated: 2025-12-10T16:45:53Z
   Total Products: 1
 - [Evry Deals — Jewelry & Accessories on Sale](https://evryjewels.com/collections/steals-deals): Shop Steals & Deals — chic jewelry and accessories at amazing prices. Discover trendy, elegant pieces on sale for everyday style and special occasions
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 1204
 - [Foot Chains — Dainty & Layerable Anklet Jewelry](https://evryjewels.com/collections/foot-chain): Shop gold foot chains — dainty and stylish anklet jewelry designed for layering. Perfect for summer outfits, everyday wear, and timeless chic style.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:08:59Z
   Total Products: 4
 - [Charm Bracelets — Choose From Several Options](https://evryjewels.com/collections/charm-bracelets): Shop gold charm bracelets — dainty, personalized, stackable bracelets for women. Explore elegant gold bracelets, gifts, everyday jewelry & timeless styles.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 7
 - [Gold Charm Bracelets — Meaningful Keepsakes](https://evryjewels.com/collections/charm-chains): Shop elegant charm chains — gold, dainty and personalized designs made to layer. Discover timeless jewelry for women, everyday style & meaningful gifts.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 19
 - [Phone Case Backing](https://evryjewels.com/collections/phone-case-backing)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 178
 - [Universal Phone Case Backing](https://evryjewels.com/collections/universal-phone-case-backing)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 166
 - [Icy Bundle](https://evryjewels.com/collections/icy-bundle)
   Updated: 2025-12-10T16:45:54Z
   Total Products: 0
 - [Best Sellers Bundle](https://evryjewels.com/collections/best-sellers-bundle)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:08:59Z
   Total Products: 47
 - [Holiday Party Bundle](https://evryjewels.com/collections/holiday-party-bundle-1)
   Updated: 2025-12-10T16:45:54Z
@@ -7255,40 +7257,40 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:54Z
   Total Products: 0
 - [Smart Products Filter Index - Do not delete](https://evryjewels.com/collections/smart-products-filter-index-do-not-delete)
-  Updated: 2025-12-28T23:55:03Z
+  Updated: 2025-12-29T23:10:03Z
   Total Products: 3839
 - [VIP](https://evryjewels.com/collections/vip)
   Updated: 2025-12-10T16:45:54Z
   Total Products: 0
 - [Jewelry Box Bundle Builder](https://evryjewels.com/collections/builders-maddy-no-custom)
-  Updated: 2025-12-28T20:06:30Z
-  Total Products: 449
+  Updated: 2025-12-29T20:10:55Z
+  Total Products: 451
 - [Personalized Collection](https://evryjewels.com/collections/personalized-collection-new-theme)
   Updated: 2025-12-11T17:52:22Z
   Total Products: 1
 - [Phone Accessories — Stylish & Practical Essentials](https://evryjewels.com/collections/phone-accessories): Shop phone accessories — stylish cases, and everyday essentials designed for both protection and style. Practical, trendy, and built to last.
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:04Z
   Total Products: 3
 - [Jewelry Pouch](https://evryjewels.com/collections/jewelry-pouch)
-  Updated: 2025-12-28T12:08:45Z
+  Updated: 2025-12-29T12:08:59Z
   Total Products: 4
 - [DO NOT PUT ON SALE](https://evryjewels.com/collections/do-not-put-on-sale)
-  Updated: 2025-12-28T23:55:03Z
+  Updated: 2025-12-29T23:10:03Z
   Total Products: 1749
 - [Charm Bundle Builder](https://evryjewels.com/collections/charm-bundle-builder)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 221
 - [Bundles](https://evryjewels.com/collections/all-bundles)
-  Updated: 2025-12-28T22:50:02Z
+  Updated: 2025-12-29T22:30:03Z
   Total Products: 146
 - [Airpod](https://evryjewels.com/collections/airpod)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 8
 - [Madeline Bennett](https://evryjewels.com/collections/madeline-bennett)
-  Updated: 2025-12-28T12:08:45Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 3
 - [Ketnipz](https://evryjewels.com/collections/ketnipz-x-evry-jewels)
-  Updated: 2025-12-28T12:08:24Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 10
 - [Jocelyn Rock](https://evryjewels.com/collections/jocelyn-rock)
   Updated: 2025-12-24T18:14:04Z
@@ -7309,22 +7311,22 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:55Z
   Total Products: 21
 - [Spring Break Collection — Stylish Waterproof Jewlery](https://evryjewels.com/collections/spring-break-collection): Discover the Spring Break Collection — stylish waterproof jewelry perfect for the season. Elegant, modern, and designed for effortless everyday wear.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 68
 - [Lariat Necklaces — Jewelry for Everyday Style](https://evryjewels.com/collections/lariat-necklaces): Shop gold lariat necklaces — elegant, stylish, and dainty jewelry made to layer. Perfect for everyday wear, special occasions, and timeless chic looks.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 20
 - [Mother's Day Collection](https://evryjewels.com/collections/mothers-day-collection)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 36
 - [Sweet Stacks](https://evryjewels.com/collections/sweet-stacks): This week’s drop is all about statement jewels that spice up your style—bold gold, juicy stones, and looks that turn heads.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 68
 - [Luxury Collection](https://evryjewels.com/collections/luxury-collection)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 45
 - [discount allowed](https://evryjewels.com/collections/discount-allowed)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 2398
 - [Strawberry Shortcake x Evry Jewels](https://evryjewels.com/collections/strawberry-shortcake-x-evry-jewels)
   Updated: 2025-12-10T16:45:56Z
@@ -7333,49 +7335,49 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:56Z
   Total Products: 2
 - [Lucky Girl Collection — Earrings & Necklaces](https://evryjewels.com/collections/lucky-girl-collection): Discover the Lucky Girl Collection — dainty earrings, chic necklaces, and elegant jewelry pieces designed to shine for everyday style and special moments
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:13Z
   Total Products: 37
 - [Sun kissed Collection](https://evryjewels.com/collections/sun-kissed-collection)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 68
 - [Coquette Core](https://evryjewels.com/collections/coquette-core)
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 125
 - [Coastal Cutie — Timeless Summer Jewelry](https://evryjewels.com/collections/coastal-cutie): Discover the Coastal Collection — timeless summer jewelry inspired by the sea. Elegant and dainty designs perfect for layering, and everyday wear.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 141
 - [Spring Drop | Sparkly necklaces, floral earrings | Evry Jewels](https://evryjewels.com/collections/spring-bling): Spring’s calling, and she said: add more bling. 🌸 Meet Spring Bling — your new go-to for pastel vibes, flirty florals, and all the sparkle. Cute, bold, and made to be seen. Let your jewelry do the flirting.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 57
 - [Best Buy Phone Accessories](https://evryjewels.com/collections/best-buy-phone-accessories)
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:04Z
   Total Products: 1
 - [IT GIRL STACKS](https://evryjewels.com/collections/it-girl-stacks)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 42
 - [Necklace Clearance](https://evryjewels.com/collections/necklace-clearance)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 55
 - [Influencer — Trendy Jewelry & Stylish Accessories](https://evryjewels.com/collections/influencer): Discover the Influencer Collection — trendy jewelry and stylish accessories inspired by modern fashion icons. Chic designs, and must-have pieces for every look.
-  Updated: 2025-12-28T19:40:03Z
+  Updated: 2025-12-29T20:35:02Z
   Total Products: 20
 - [Special Occasion Collection — Jewelry & Accessories](https://evryjewels.com/collections/special-occasions): Shop jewelry and accessories for special occasions — elegant necklaces, chic earrings, and timeless pieces designed to make every moment shine.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T20:50:01Z
   Total Products: 105
 - [Sunglasses — Stylish, Trendy & Everyday Shades](https://evryjewels.com/collections/sunglasses): Shop sunglasses — trendy, chic, and protective shades for every occasion. Elevate your style with versatile designs perfect for daily wear.
-  Updated: 2025-12-28T12:08:58Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 19
 - [Backstage Pass](https://evryjewels.com/collections/backstage-pass)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:23Z
   Total Products: 90
 - [Don't Text Your Ex Collection](https://evryjewels.com/collections/dont-text-your-ex-collection)
   Updated: 2025-12-10T16:45:56Z
   Total Products: 0
 - [Top Seller - Waterproof + Reg](https://evryjewels.com/collections/top-seller-waterproof-reg)
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 49
 - [Bracelets — Dainty, Stackable & Timeless Designs](https://evryjewels.com/collections/bracelets): Shop bracelets — dainty, stackable, and elegant designs in gold and silver. Perfect for layering, everyday wear, and timeless style
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T17:20:57Z
   Total Products: 577
 - [VIP4.99- USD - 9.49](https://evryjewels.com/collections/vip4-99-usd-9-49)
   Updated: 2025-12-10T16:45:57Z
@@ -7387,16 +7389,16 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:57Z
   Total Products: 0
 - [VIP4.99 - USD - 9.99](https://evryjewels.com/collections/vip4-99-usd-9-99)
-  Updated: 2025-12-28T19:55:01Z
-  Total Products: 74
+  Updated: 2025-12-29T21:05:02Z
+  Total Products: 78
 - [VIP4.99 - USD - 12.49](https://evryjewels.com/collections/vip4-99-usd-12-49)
   Updated: 2025-12-10T16:45:57Z
   Total Products: 0
 - [VIP4.99 - USD - 13.99](https://evryjewels.com/collections/vip4-99-usd-13-99)
-  Updated: 2025-12-28T12:09:05Z
-  Total Products: 135
+  Updated: 2025-12-29T16:25:29Z
+  Total Products: 133
 - [Amazon](https://evryjewels.com/collections/amazon)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 213
 - [VIP4.99 - USD - 15.99](https://evryjewels.com/collections/vip4-99-usd-15-99)
   Updated: 2025-12-28T12:08:45Z
@@ -7408,14 +7410,14 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:57Z
   Total Products: 0
 - [VIP4.99 - USD - 6.99](https://evryjewels.com/collections/vip4-99-usd-6-99)
-  Updated: 2025-12-28T12:09:05Z
-  Total Products: 73
+  Updated: 2025-12-29T21:14:27Z
+  Total Products: 70
 - [VIP4.99 - USD - 7.49](https://evryjewels.com/collections/vip4-99-usd-7-49)
   Updated: 2025-12-10T16:45:57Z
   Total Products: 0
 - [VIP4.99 - USD - 5.99](https://evryjewels.com/collections/vip4-99-usd-5-99)
-  Updated: 2025-12-28T23:10:01Z
-  Total Products: 707
+  Updated: 2025-12-29T23:43:22Z
+  Total Products: 705
 - [VIP4.99 - USD - 6.49](https://evryjewels.com/collections/vip4-99-usd-6-49)
   Updated: 2025-12-10T16:45:57Z
   Total Products: 0
@@ -7423,103 +7425,103 @@ All iPhone cases are available from iPhone 7 to iPhone 11 Pro Max
   Updated: 2025-12-10T16:45:57Z
   Total Products: 0
 - [New In — Earrings, necklace, rings and more](https://evryjewels.com/collections/new-arrivals): Discover New Arrivals — stylish earrings, elegant necklaces, chic rings, & more jewelry pieces designed to elevate your look. Fresh, trendy, & timeless styles.
-  Updated: 2025-12-28T20:06:30Z
-  Total Products: 676
+  Updated: 2025-12-29T20:10:55Z
+  Total Products: 683
 - [Back In Stock](https://evryjewels.com/collections/back-in-stock): Our most-wanted jewelry is officially back in stock — and it’s going fast! From trendy gold rings and layered necklaces to everyday hoop earrings and dainty bracelets, these are the top-selling jewelry pieces you couldn’t stop talking about.
-  Updated: 2025-12-28T22:48:42Z
-  Total Products: 665
+  Updated: 2025-12-29T21:16:22Z
+  Total Products: 663
 - [Free Gift -](https://evryjewels.com/collections/free-gift)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 23
 - [Free Gift $50 threshold](https://evryjewels.com/collections/free-gift-50)
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:21Z
   Total Products: 18
 - [Summer Collection — Colorful Jewelry & Accessories](https://evryjewels.com/collections/featured): Discover the Summer Collection — colorful jewelry and chic accessories for the season. Vibrant, fun, and stylish pieces perfect for every look.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T21:01:52Z
   Total Products: 150
 - [Bikini Charms](https://evryjewels.com/collections/bikini-charms)
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 37
 - [SALE | EVRY JEWELS](https://evryjewels.com/collections/75-off-sale): Score styles starting at $3.99 USD. Hurry—limited stock, limited time.
-  Updated: 2025-12-28T23:10:01Z
-  Total Products: 588
+  Updated: 2025-12-29T21:16:22Z
+  Total Products: 590
 - [Gold Necklaces — Every Style of Your Choice](https://evryjewels.com/collections/necklaces): Shop gold necklaces — from pearl and cross designs to waterproof and charm necklaces. Elegant, versatile pieces perfect for layering, everyday wear, or gifting.
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 978
 - [Earrings — Gold & Silver Dainty & Everyday Style](https://evryjewels.com/collections/earrings): Shop silver and gold earrings — elegant, stylish designs for every occasion. Great for mix-and-match styling everyday wear, and timeless jewelry looks.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T20:35:02Z
   Total Products: 381
 - [Gold Ear Cuffs — Dainty, Stylish & Chic](https://evryjewels.com/collections/ear-cuffs): No piercing, no problem! Whether you don’t have a piercing, or just want some extra ear candy, these sShop gold ear cuffs — dainty, stylish, and chic designs to elevate any earring stack. Perfect for layering with hoops or studs, adding elegance to everyday weartunning ear cuffs are the perfect accessory for anyone to rock.
-  Updated: 2025-12-28T12:09:02Z
-  Total Products: 20
+  Updated: 2025-12-29T17:26:32Z
+  Total Products: 22
 - [Rings — Stackable, Everyday Staples & More](https://evryjewels.com/collections/rings): Shop rings in gold and silver — stackable, everyday staples, and elegant designs. Chic styles for daily wear or gifting, perfect for any look.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:23Z
   Total Products: 487
 - [Pendant Necklaces | Waterproof, Affordable & Tarnish-Free](https://evryjewels.com/collections/pendant-necklaces): From dainty gold chains to bold statement pieces, our necklaces are perfect for layering, everyday wear, and built to last. Affordable, tarnish-free, and made to match your vibe.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T14:53:17Z
   Total Products: 288
 - [Chain Necklaces | Affordable, Waterproof & Tarnish-Free](https://evryjewels.com/collections/chain-necklaces): From sleek layering chains to bold statement styles, our chain necklaces are perfect for stacking, everyday wear, and built to shine. Hypoallergenic, tarnish-free, and made to match your vibe.
-  Updated: 2025-12-28T15:01:52Z
-  Total Products: 100
+  Updated: 2025-12-29T21:16:22Z
+  Total Products: 102
 - [Charm Necklaces | Affordable, Waterproof & Tarnish-Free](https://evryjewels.com/collections/charms-necklaces): From minimalist charms to bold statement pieces, our charm necklaces are perfect for layering, everyday wear, and built to last. Affordable, hypoallergenic, and made to match your vibe.
-  Updated: 2025-12-28T19:13:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 184
 - [Personalized Necklaces | Affordable, Waterproof & Tarnish-Free](https://evryjewels.com/collections/personalized-necklaces): From custom nameplates to unique initial designs, our personalized necklaces are perfect for layering, everyday wear, and built to last. Affordable, hypoallergenic, and made to match your vibe.
-  Updated: 2025-12-28T12:09:02Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 55
 - [Cross Necklaces | Affordable, Waterproof & Tarnish-Free](https://evryjewels.com/collections/cross-necklaces): From sleek minimalist crosses to bold statement designs, our cross necklaces are perfect for layering, everyday wear, and built to last. Affordable, hypoallergenic, and made to match your vibe.
-  Updated: 2025-12-28T19:55:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 75
 - [Heart Necklace — Meaningful Jewelry, Perfect Gifts](https://evryjewels.com/collections/heart-necklaces-1): Shop heart necklaces — dainty, elegant, and timeless jewelry designed for every occasion. Perfect for layering, everyday wear, and meaningful gifting.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 36
 - [Bundle Necklaces | Affordable, Waterproof & Tarnish-Free](https://evryjewels.com/collections/bundle-necklaces): From layered sets to bold matching pieces, our bundle necklaces are perfect for stacking, everyday wear, and built to last. Affordable, hypoallergenic, and made to match your vibe.
-  Updated: 2025-12-28T12:08:45Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 10
-- [Stacked Rings | Ring sets for women](https://evryjewels.com/collections/stacked-rings)
-  Updated: 2025-12-28T12:09:05Z
-  Total Products: 34
 - [Two-Tone Jewelry – Waterproof Necklaces, Rings, Earrings & Bangles](https://evryjewels.com/collections/two-tone): Get the best of both worlds with our two-tone jewelry collection. Made from durable stainless steel and finished with 18k gold or silver plating, each piece is waterproof, anti-tarnish, and hypoallergenic. The perfect mixed metal look that’s effortlessly cool, endlessly versatile, and made to last for everyday wear.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:17Z
   Total Products: 29
 - [Soft Girl Collection | Dainty Minimalist Jewelry](https://evryjewels.com/collections/soft-girl-collection): The Soft Girl Collection is all about delicate details and minimal designs for evryday cute. Each piece is crafted with 14k or 18k gold plated or silver plated over stainless steel, making it anti-tarnish, hypoallergenic, and perfect for daily wear. High-quality jewelry you’ll never want to take off.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T16:01:23Z
   Total Products: 73
 - [Statement Jewelry | Hoop Earrings, Studs, Necklaces](https://evryjewels.com/collections/make-a-statement): Make a statement with bold jewelry that radiates main character energy. Featuring trendy pendants, sparkling rhinestones, and eye-catching chains, each piece is crafted with 14k or 18k gold plated or silver plated over stainless steel. Designed to be anti-tarnish, hypoallergenic, and long-lasting, this collection guarantees you’ll turn heads wherever you go.
-  Updated: 2025-12-28T19:55:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 61
 - [The Pearl Edit | Pearl Earrings, Necklaces, Rings & More](https://evryjewels.com/collections/pearly-girl-collection): You can’t go wrong with a pearl jewelry moment. Crafted with 14k gold/silver plated or 18k gold/silver plated over stainless steel and silver-plated finishes, our pieces are anti-tarnish, hypoallergenic, and perfect for layering. Wear them stacked, styled, or let one pearl piece steal the show!
-  Updated: 2025-12-28T12:09:05Z
-  Total Products: 92
+  Updated: 2025-12-29T21:01:52Z
+  Total Products: 94
 - [Waterproof Jewelry — Tarnish-Free & Affordable](https://evryjewels.com/collections/waterproof-jewelry): Discover stylish and durable waterproof jewelry that keeps up with your lifestyle. Perfect for swimming, showering, and sweating—no tarnish, just timeless shine.
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 1091
 - [Waterproof Silver & Gold Bangles | Stylish Stackable Bracelets](https://evryjewels.com/collections/the-bangles-edit): Explore Evry Jewels gold & silver bangles. Crafted with 14k or 18k waterproof plating, each piece is hypoallergenic and anti-tarnish for lasting shine.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:24Z
   Total Products: 83
 - [Tarnish-Free Waterproof Necklaces](https://evryjewels.com/collections/waterproof-necklaces): From delicate chains to bold statement pieces, these waterproof necklaces are plated in 18k gold or silver, made to last, and tarnish-free. Look good, feel good, and never take them off.
-  Updated: 2025-12-28T20:20:01Z
+  Updated: 2025-12-29T21:05:02Z
   Total Products: 322
 - [Tarnish-Free Waterproof Bracelets](https://evryjewels.com/collections/waterproof-bracelets): Your fav bracelets are splash-proof! Look good, feel good, and do it all without ever taking them off.
-  Updated: 2025-12-28T15:01:52Z
-  Total Products: 134
+  Updated: 2025-12-29T23:43:22Z
+  Total Products: 130
 - [Tarnish-Free Waterproof Rings](https://evryjewels.com/collections/waterproof-rings): From stackable bands to bold statement pieces, these waterproof rings are plated in 18k gold or silver, made to last, and tarnish-free. Look good, feel good, and never take them off.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 157
 - [Tarnish-Free Waterproof Earrings](https://evryjewels.com/collections/waterproof-earrings): From statement studs to delicate hoops, these waterproof earrings are plated in 18k gold or silver, made to last, and tarnish-free. Look good, feel good, and never take them off.
-  Updated: 2025-12-28T19:40:03Z
+  Updated: 2025-12-29T20:35:02Z
   Total Products: 183
 - [Stackable Rings – Shop Stackable Linked Band Rings](https://evryjewels.com/collections/stacked-up): Our stackable rings are here to make a statement. These trendy linked bands are the perfect mix of chic and bold.  Crafted with 14k or 18k waterproof plating, each piece is hypoallergenic and anti-tarnish for lasting shine.
-  Updated: 2025-12-28T12:09:05Z
+  Updated: 2025-12-29T16:01:23Z
   Total Products: 34
 - [The Bling Edit | Shop Rings, Necklaces, Earrings & More](https://evryjewels.com/collections/it-girl-bling): This collection is all about unapologetic it-girl energy. The gemstones are sparkly, the vibe is luxurious, and every piece makes you feel like the main character. rafted with 14k gold/silver plated or 18k gold/silver plated over stainless steel and silver-plated finishes, our pieces are anti-tarnish, hypoallergenic, and perfect for layering.
-  Updated: 2025-12-28T23:10:01Z
+  Updated: 2025-12-29T12:09:25Z
   Total Products: 135
 - [All](https://evryjewels.com/collections/all)
-  Updated: 2025-12-28T23:55:03Z
+  Updated: 2025-12-29T23:10:03Z
   Total Products: 3839
 - [Package Protection](https://evryjewels.com/collections/package-protection)
-  Updated: 2025-12-28T22:50:02Z
+  Updated: 2025-12-29T22:30:03Z
+  Total Products: 1
+- [1 year warranty](https://evryjewels.com/collections/1-year-warranty)
+  Updated: 2025-12-29T23:10:03Z
   Total Products: 1
 
 ## Blogs
