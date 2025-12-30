@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-29T00:01:01.035Z
+- Updated At: 2025-12-30T00:00:59.317Z
 
 ## Products
 
@@ -15306,7 +15306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDE-06_1.jpg?v=1709986942
     Price: $1,467.00 USD
 - [Natural Salt And Pepper 0.31CT Kite Diamond Stud Earring](https://ibizjewel.com/products/natural-salt-and-pepper-0-31ct-kite-diamond-stud-earring): Upgrade Your Accessory Collection With These Natural Salt And Pepper 0.31ct Kite Diamond Stud Earrings. Handcrafted With Ethically Sourced Diamonds, This Pair Is Perfect For Both Casual And Formal Occasions. The Unique Kite Shape Adds A Touch Of Elegance To Your Ensemble. Enjoy 100% Natural, Unenhanced Diamonds With This Classic Piece.
-  Updated: 2025-10-02T10:30:50Z
+  Updated: 2025-12-29T04:50:57Z
   Vendor: Natural Salt And Pepper Diamond Earring
   Product Type: Natural Salt And Pepper Kite Diamond Earring
   Availability: Available
@@ -30602,7 +30602,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-38_3.jpg?v=1711617032
     Price: $2,189.00 USD
 - [Moissanite 2.00 CT Round Diamond Fashion Earring](https://ibizjewel.com/products/moissanite-2-00ct-round-diamond-fashion-earring): As A Product Expert In The Diamond Industry, I Can Confidently Assert That The Moissanite 2.0ct Round Diamond Fashion Earring Is A Stunning And Elegant Choice For Any Occasion. Crafted With A Sparkling Round-cut Moissanite Stone, This Earring Offers Both Luxury And Affordability. Perfect For Adding A Touch Of Sparkle To Any Outfit.
-  Updated: 2025-10-02T10:31:03Z
+  Updated: 2025-12-29T09:06:28Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
