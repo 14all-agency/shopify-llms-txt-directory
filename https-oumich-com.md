@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-12-29T00:00:21.407Z
+- Updated At: 2025-12-30T00:00:21.324Z
 
 ## Products
 
@@ -350,9 +350,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 
 ## Collections
 
-- [Hijab Accessoires | Magneten, Spelden & Bonnets | byOumich](https://oumich.com/collections/halal-accessoires-unieke-collectie-voor-moslims): Ontdek onze collectie hijab accessoires: magneten, spelden, bonnets en meer. Alles voor de perfecte hijab-look. Gratis verzending vanaf €50. Shop nu!
-  Updated: 2025-12-01T23:12:28Z
-  Total Products: 2
 - [Islamitische woondecoratie – spirituele decoratie | byOumich](https://oumich.com/collections/islam-woondecoratie): Creëer een serene sfeer thuis met islamitische decoratie: muurkunst, tapijten en decoratieve items. Snelle levering in België, Nederland & Frankrijk.
   Updated: 2025-12-01T21:21:52Z
   Total Products: 1
@@ -404,6 +401,12 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - [Hijab kopen online | Comfortabele hijabs in België | byOumich](https://oumich.com/collections/hijab-kopen-online): Vind jouw ideale hijab online: blijft goed zitten, zonder spelden of perfect voor beginners. Snelle levering in België. Bekijk onze selectie nu.
   Updated: 2025-12-24T12:34:06Z
   Total Products: 29
+- [Onder-Hijabs & Hijab Caps | Comfort & Perfecte Pasvorm](https://oumich.com/collections/onder-hijabs): Shop comfortabele onder-hijabs en hijab caps. Ademend, zacht en perfect passend. Ideaal voor dagelijks gebruik en elke hijabstijl.
+  Updated: 2025-12-29T23:55:30Z
+  Total Products: 1
+- [Hijab Accessoires | Magneten, Spelden & Bonnets | byOumich](https://oumich.com/collections/accessoires): Ontdek onze collectie hijab accessoires: magneten, spelden, bonnets en meer. Alles voor de perfecte hijab-look. Gratis verzending vanaf €30. Shop nu!
+  Updated: 2025-12-29T23:55:30Z
+  Total Products: 3
 
 ## Blogs
 
