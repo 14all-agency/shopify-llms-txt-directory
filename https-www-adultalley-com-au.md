@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-07-30T13:44:44Z
 - Contact Email: contact@adultalley.com.au
-- Updated At: 2025-12-27T04:11:57.504Z
+- Updated At: 2025-12-30T00:00:23.272Z
 
 ## Products
 
@@ -941,13 +941,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/BL-11015.jpg?v=1755128479
   Price: $32.95 AUD
-- [Anal Adventures Platinum Silicone Large Anal Beads](https://www.adultalley.com.au/products/bl-11115): Anal Adventures Platinum Large Anal Beads
-  Updated: 2025-12-15T03:57:30Z
-  Vendor: Blush Novelties
-  Product Type: ANAL TOYS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/BL-11115.jpg?v=1755128481
-  Price: $39.95 AUD
 - [Anal Adventures Platinum Vibrating Prostate Massager 01](https://www.adultalley.com.au/products/bl-11615): Anal Adventures Platinum Vibra Prostate Massager 1
   Updated: 2025-12-15T03:57:29Z
   Vendor: Blush Novelties
@@ -1760,7 +1753,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/GC021FLE.jpg?v=1755129190
   Price: $41.95 AUD
-[List Continued](https://www.adultalley.com.au/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDc2OTU0NjY5MDkzMiwibGFzdF92YWx1ZSI6IjE0NzY5NTQ2NjkwOTMyIn0=)
+- [Gender X GOLD DIGGER SET](https://www.adultalley.com.au/products/gx-bp-9154-2): Gender X GOLD DIGGER SET - 3 Pc Butt Plugs
+  Updated: 2025-12-15T03:57:39Z
+  Vendor: Gender X
+  Product Type: ANAL TOYS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/GX-BP-9154-2.jpg?v=1755129207
+  Price: $102.95 AUD
+[List Continued](https://www.adultalley.com.au/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDc2OTU0NzUxMDEzMiwibGFzdF92YWx1ZSI6IjE0NzY5NTQ3NTEwMTMyIn0=)
 
 ## Collections
 
@@ -1837,7 +1837,7 @@
   Updated: 2025-12-23T21:35:40Z
   Total Products: 832
 - [Anal Play Toys & Prostate Massagers Australia - Adult Alley](https://www.adultalley.com.au/collections/anal-play): Explore anal play with beginner to advanced toys. Plugs, beads & prostate massagers. Body-safe designs for comfort & pleasure. Australia.
-  Updated: 2025-12-22T21:35:24Z
+  Updated: 2025-12-29T21:35:35Z
   Total Products: 287
 - [Intimate Health & Wellness Products Australia - Adult Alley](https://www.adultalley.com.au/collections/health-wellness): Essential intimate wellness products for self-care. Lubricants, massage oils & body-safe accessories. Enhance comfort & confidence. Australia.
   Updated: 2025-12-23T21:35:39Z
@@ -1915,7 +1915,7 @@
   Updated: 2025-12-16T10:34:24Z
   Total Products: 9
 - [Anal Beads - Graduated Silicone, Glass & Metal - Adult Alley](https://www.adultalley.com.au/collections/anal-beads): Premium anal beads in graduated sizes. Silicone, glass, and metal options. Flexible and rigid designs, beginner to advanced. Discreet shipping.
-  Updated: 2025-12-19T23:17:56Z
+  Updated: 2025-12-29T21:35:35Z
   Total Products: 35
 - [Tail Butt Plugs - Animal & Fantasy Tail Plugs - Adult Alley](https://www.adultalley.com.au/collections/tail-butt-plugs): Premium tail butt plugs for pet play and roleplay. Fox, bunny, cat, and fantasy tails. Body-safe silicone bases, realistic fur. Discreet shipping.
   Updated: 2025-12-19T23:16:25Z
