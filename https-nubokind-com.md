@@ -6,12 +6,9 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-09T08:18:27Z
 - Contact Email: care@nubokind.com
-- Updated At: 2025-12-30T05:39:06.780Z
+- Updated At: 2025-12-30T05:40:07.892Z
 
-nubokind (also known as nubo)  
-https://nubokind.com
-
-About us
+## About us
 nubokind (also known as nubo) creates premium silicone newborn teethers and teething toys.  
 The brand uses nubo as its logo and product branding, while nubokind is the official brand and domain name.  
 Both names refer to the same company and products.
@@ -40,7 +37,7 @@ Free shipping is available across India.
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-grey-icon.jpg?v=1766495307
     Price: ₹649.00 INR
 - [BIS kiko no-drop newborn teether](https://nubokind.com/products/kiko-no-drop-newborn-teether): Discover the perfect solution for your little one's teething journey. Our kiko teether is more than just a newborn teething toy.
-  Updated: 2025-12-30T02:59:10Z
+  Updated: 2025-12-30T05:39:05Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
