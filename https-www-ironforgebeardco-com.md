@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-30T00:00:42.876Z
+- Updated At: 2025-12-30T04:00:25.005Z
 
 ## Products
 
@@ -31,7 +31,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/XECIfcIYKW.png?v=1766710659
   Price: $22.99 USD
 - [Dream Aftershave](https://www.ironforgebeardco.com/products/dream-aftershave): Our aftershave is the perfect embodiment of luxury and comfort. With a medicinal, fresh, woody, earthy and herbaceous scent, you'll never want to leave home without shaving with this soothing blend of natural and vegan ingredients. Our luxe concoction contains avocado, cupuacu butters as well as coconut, olive, castor, avocado and tea tree oil to give your skin the utmost protection from the elements.Not only does our aftershave provide intense moisture for an all-day calming feel, but it also conditions your skin with its perfect balance of nutrition and hydration. Feel like you've just stepped out of a barber's chair after each shave with the added bonus of protecting your skin from potential irritations or damage from razor burn.Say goodbye to dryness or discomfort. Our aftershave gives you that masculine look you desire with its creative touch. Treat yourself and your skin right with this must-have item in every man's grooming obsession!Net Wt. 4 oz / 113 g Ingredients: Persea Gratissima (Avacodo) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Glycerine, Persea Gratissima (Avacodo) Oil, Olea Europaea (Olive) Fruit Oil, Ricinus Communis (Castor) Seed Oil, Cocos Nucifera (Coconut) Oil, Phenoxyethanol, Melaleuca Alternifolia (Tea Tree) Leaf Oil
-  Updated: 2025-12-29T22:52:35Z
+  Updated: 2025-12-30T00:58:09Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -52,7 +52,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/KvLoZ13hHu.png?v=1766711089
   Price: $8.99 USD
 - [Beard Envy Bundle](https://www.ironforgebeardco.com/products/beard-envy-bundle): Beard itch? When you first start growing, your face may itch because the hair is robbing your face of nutrients to help it grow. Let's get you started before you shave. Did you know 80% of men shave? Let's increase that 20% bearded rate by keeping your beard healthy! This kit includes a Beard Oil for your skin and a Beard Balm or Butter for your hair.What's the difference between Beard Balm and Beard Butter?Balm has more wax, adds weight to the beard hair to help with flyways and allows you to style easier. Beard Butter is lighter and is perfect for nourishment, repair, and protection.What's included: (1) Beard Oil – 59 ml(1) Pump for Beard Oil (1) Beard Balm – 56 g(1) Beard Butter – 56 gBeard Oil Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Fragrance Beard Balm or Beard Butter Ingredients:Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance
-  Updated: 2025-12-29T22:52:36Z
+  Updated: 2025-12-30T00:58:09Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $97.99 USD
 - [The Ultimate Men's Grooming & Relaxation Bundle – Beard Care, Electric Shaver, and Massage Gun](https://www.ironforgebeardco.com/products/the-ultimate-mens-grooming-relaxation-bundle-beard-care-electric-shaver-and-massage-gun): Master the art of grooming and unwind in style with the Ultimate Men's Grooming & Relaxation Bundle. Featuring the Pursonic Beard Care Kit, Mario Lopez Men's Rechargeable Electric Shaver, and Pursonic 3-Speed Cordless Massage Gun, this bundle combines precision grooming with powerful relaxation tools to keep you looking and feeling your best. Perfect for self-care or as a thoughtful gift for any man who values both style and comfort. Bundle Includes: 1. Pursonic Beard Care Grooming Kit (4 Pieces) Achieve the perfect beard with this all-in-one set designed to nourish, style, and maintain your facial hair. Beard Oil (30ml): Deeply moisturizes and nourishes with vitamin E and golden jojoba oil for a smooth, healthy beard. Beard Balm (60g): Shapes and holds your beard while adding a natural shine for all-day style. Beard Serum (30ml): Cleanses and hydrates to prevent dryness, itching, and clogged pores. Beard Comb: Tame and style with ease for a polished look. 2. Pursonic – Mario Lopez Men’s Rechargeable Electric Shaver Upgrade your shaving routine with advanced technology for a close and comfortable shave. 3D Floating Blades: Adjust to facial contours for precise, irritation-free shaving. Double Ring Knife Net: Covers more surface area for efficient, faster shaving. 60-Minute Runtime & Quick Charge: Long-lasting performance with a 5-minute quick charge for last-minute touch-ups. Washable Blades: Easy to clean for hygiene and convenience. 3. Pursonic 3-Speed Cordless & Rechargeable Professional Massage Gun Relax and recover with targeted muscle relief using this versatile massage gun. 3 Speed Settings: Tailor your massage from gentle relaxation to deep tissue therapy. 3 Attachments: Round head for large muscles, bullet head for pinpoint targeting, and flat head for all-over relief. Quiet & Portable: Whisper-quiet motor and ergonomic design for use at home, the gym, or on the go. Rechargeable Battery: Long-lasting power for uninterrupted relaxation sessions. Why Choose the Ultimate Men’s Grooming & Relaxation Bundle? Complete Grooming & Wellness Solution: A comprehensive set for head-to-toe care. Premium Quality & Performance: High-grade materials and advanced features for lasting results. Perfect Gift Idea: Treat yourself or surprise a loved one with this thoughtfully curated bundle. Transform your grooming routine and recovery experience with this all-in-one package of style and relaxation. Order now and step into your best version of comfort and confidence.
-  Updated: 2025-12-29T22:52:37Z
+  Updated: 2025-12-30T00:31:06Z
   Vendor: Pursonic
   Product Type: Shaver
   Availability: Available
@@ -147,7 +147,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/NPA02948.jpg?v=1766690783
   Price: $19.25 USD
 - [Beard Trimmer Wahl](https://www.ironforgebeardco.com/products/beard-trimmer-wahl): If you are looking for household appliances at the best prices, don't miss the Beard Trimmer Wahl and a wide selection of small household appliances! Type: Wireless Characteristics: On/Off switch LED in operation indicator Battery operated (2 x AA, not included) On/off interrupter LED indicator Battery operated (2 AA, included) Precision: Adjustable 9 levels 0,7 mm-1,2 cm Type of plug: Plug EU Product with plug: Yes Battery type: AA Colour: Black Silver Material: Steel Power supply: Battery Batteries included: Yes Rechargeable: No Weight: 240 g POWERFUL CUTTING: thanks to precision-ground self-sharpening high carbon-steel blade setIDEAL FOR TRAVELING: world-wide use due to battery operationACCESSORIES: 5 position variable attachment comb for cutting lengths from 2 to 12 mm and 3 attachment combs for stubble (1.5 mm), medium (3 mm) and full beard (4,5 mm)INCLUDING: nose and ear hair trimmer Product colour: Silver Number of length steps: 9 Minimum hair length: 0.7 mm Maximum hair length: 1.2 cm Cutter width: 3 cm On/off switch: Y LED indicators: Y Power source: AC/Battery Rechargeable: N
-  Updated: 2025-12-29T22:52:39Z
+  Updated: 2025-12-30T03:24:25Z
   Vendor: Wahl
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -216,78 +216,78 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BFM_ProductImages_2000x2000_HHYD4_HairBeardHydrator_01.jpg?v=1766713361
   Price: $8.24 USD
-- [Beard Oil](https://www.ironforgebeardco.com/products/beard-oil): Our Beard Oil goes a long way, and you can use it from my head High-quality beard oil to help style and moisturize your hair. Top luxurious oils that are natural and safe for all skin types. Oils penetrate the skin to strengthen hair follicles for thicker and stronger growth. Pair it with our Beard Balm for a quick shine and nourishment. Ingredients: Grape seed oil, Jojoba Oil, Hemp seed oil, Melaleuca oil, Orange Oil, Bay Leaf Oil, Rosemary Oil, Thyme Oil, Cucumber Water, Melon, Lemon, Sweet Orange, and Peppermint essential oil. Material: Amber Glass Bottle and glass dropper Dimensions: 1.75in x 3in x3.75in h Size: 2 oz Check out this non-solicited testimonial from a very special Santa!
-  Updated: 2025-12-29T22:52:44Z
+- [High-quality beard oil for styling and nourishing your beard | 2 oz](https://www.ironforgebeardco.com/products/beard-oil): Experience the benefits of our high quality beard growth oil, designed to nourish, moisturize, and promote thicker beard growth with natural ingredients. Perfect for all skin types.
+  Updated: 2025-12-30T03:36:28Z
   Vendor: SJC Body Love Products
   Product Type: Skin Care
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/image_14ee6bb5-e684-45ef-81b6-224810d0eada.jpg?v=1766713442
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/image_14ee6bb5-e684-45ef-81b6-224810d0eada.jpg?v=1767065780
   Price: $17.81 USD
-- [Beard Oil (Duo)](https://www.ironforgebeardco.com/products/beard-oil-duo): Whether you're sporting rugged stubble or a full-grown masterpiece, our Beard Grooming Oil helps tame, soften, and hydrate any facial hairstyle. Made with a potent blend of natural oils, it nourishes the hair and skin underneath, supports healthy growth, and leaves your beard feeling smooth—not greasy. Just a few drops go a long way 🌿Choose from: Growth, Hydrate, or Strength formulas.Scents available: Cedarwood & Tea Tree 🌲, Cinnamon & Peppermint 🍂, Ylang Ylang & Clove 🌸, Lemongrass & Clove 🍋, or Naked (unscented).Net Wt: 1.0 oz | 30 mL
-  Updated: 2025-12-29T22:52:45Z
+- [Beard Oil (Duo) - Nourishing Beard Grooming Oils for Growth, Hydration & Strength](https://www.ironforgebeardco.com/products/beard-oil-duo): Discover Beard Oil (Duo) for taming, softening, and hydrating your beard with natural oils. Choose from growth, hydrate, or strength formulas for a healthy, smooth beard.
+  Updated: 2025-12-30T03:29:20Z
   Vendor: J&L Naturals
   Product Type: Beard Oil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CYYLifestyle_d0480706-d439-4db5-84c9-ee1426cdf1c0.jpg?v=1766713496
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CYYLifestyle_d0480706-d439-4db5-84c9-ee1426cdf1c0.jpg?v=1767065347
   - [Growth / Cedarwood & Tea Tree](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434501885)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-CTT_0bd44879-2919-4d2c-ad8d-f0913cfb0ba2.jpg?v=1766713499
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-CTT_0bd44879-2919-4d2c-ad8d-f0913cfb0ba2.jpg?v=1767065347
     Price: $25.02 USD
   - [Growth / Cinnamon & Peppermint](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434534653)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-CPP_8818579a-ebc9-4176-9513-af32a89c8aaa.jpg?v=1766713496
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-CPP_8818579a-ebc9-4176-9513-af32a89c8aaa.jpg?v=1767065347
     Price: $25.02 USD
   - [Growth / Ylang Ylang & Clove](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434567421)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-CYY_d98072f1-6571-4904-a197-a81aecdd9141.jpg?v=1766713498
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-CYY_d98072f1-6571-4904-a197-a81aecdd9141.jpg?v=1767065348
     Price: $25.02 USD
   - [Growth / Lemongrass & Clove](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434600189)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-LGC_fb35edd1-3097-4de7-ab75-70b2884c6457.jpg?v=1766713500
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-LGC_fb35edd1-3097-4de7-ab75-70b2884c6457.jpg?v=1767065348
     Price: $25.02 USD
   - [Growth / Naked](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434632957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-NAK_c3811a84-448f-4fbf-a778-dbd64adf818a.jpg?v=1766713500
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOG-NAK_c3811a84-448f-4fbf-a778-dbd64adf818a.jpg?v=1767065348
     Price: $25.02 USD
   - [Hydrate / Cedarwood & Tea Tree](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434665725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-CTT_149e8daa-2678-427e-919f-3b20af8e9375.jpg?v=1766713498
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-CTT_149e8daa-2678-427e-919f-3b20af8e9375.jpg?v=1767065348
     Price: $25.02 USD
   - [Hydrate / Cinnamon & Peppermint](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434698493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-CPP_158a2989-9141-4311-a2ca-0f70d03e3b24.jpg?v=1766713504
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-CPP_158a2989-9141-4311-a2ca-0f70d03e3b24.jpg?v=1767065348
     Price: $25.02 USD
   - [Hydrate / Ylang Ylang & Clove](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434731261)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-CYY_c9071c4a-c1a3-4462-a5ed-df11de28368e.jpg?v=1766713501
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-CYY_c9071c4a-c1a3-4462-a5ed-df11de28368e.jpg?v=1767065348
     Price: $25.02 USD
   - [Hydrate / Lemongrass & Clove](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434764029)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-LGC_9cab1c12-c321-4b18-ab88-c5fa53aa910a.jpg?v=1766713498
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-LGC_9cab1c12-c321-4b18-ab88-c5fa53aa910a.jpg?v=1767065348
     Price: $25.02 USD
   - [Hydrate / Naked](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434796797)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-NAK_79764ae0-4dfb-44b5-a8c7-d177b46de9f0.jpg?v=1766713505
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOH-NAK_79764ae0-4dfb-44b5-a8c7-d177b46de9f0.jpg?v=1767065348
     Price: $25.02 USD
   - [Strength / Cedarwood & Tea Tree](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434829565)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CTT_7dcf05a5-26de-4337-8e27-fb7c494f37bf.jpg?v=1766713499
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CTT_7dcf05a5-26de-4337-8e27-fb7c494f37bf.jpg?v=1767065348
     Price: $25.02 USD
   - [Strength / Cinnamon & Peppermint](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434862333)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CPP_2ff37b56-a902-42c6-908a-a04b919f8ba5.jpg?v=1766713496
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CPP_2ff37b56-a902-42c6-908a-a04b919f8ba5.jpg?v=1767065347
     Price: $25.02 USD
   - [Strength / Ylang Ylang & Clove](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434895101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CYY_947d89bc-69b7-4076-aaca-ca71d3b636b2.jpg?v=1766713497
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-CYY_947d89bc-69b7-4076-aaca-ca71d3b636b2.jpg?v=1767065347
     Price: $25.02 USD
   - [Strength / Lemongrass & Clove](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434927869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-LGC_e1b87a8c-3e81-498f-bdf8-964ebd08763a.jpg?v=1766713501
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-LGC_e1b87a8c-3e81-498f-bdf8-964ebd08763a.jpg?v=1767065348
     Price: $25.02 USD
   - [Strength / Naked](https://www.ironforgebeardco.com/products/beard-oil-duo?variant=47028434960637)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-NAK_9e196fae-2b4e-49e2-97f9-1e91d82e41d2.jpg?v=1766713501
+    Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-NAK_9e196fae-2b4e-49e2-97f9-1e91d82e41d2.jpg?v=1767065348
     Price: $25.02 USD
 - [Beard Brush](https://www.ironforgebeardco.com/products/beard-brush): Keep facial hair neat and tangle-free with our Beard Brush. Made with 100% natural sisal fibers and a durable bamboo handle, it’s a sustainable staple in any grooming kit. The wooden grip ensures a firm hold for easy brushing, while the fibers smooth out your strands, while removing debris and particles that may lead to itching, dandruff, or breakouts. Includes: (1) Beard Brush
   Updated: 2025-12-29T22:52:45Z
@@ -374,7 +374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/3LLVlLp4uK.png?v=1766804615
   Price: $27.99 USD
 - [Bamboo Beard Boar Brush](https://www.ironforgebeardco.com/products/bamboo-beard-boar-brush): Introducing the Bamboo Beard Boar Brush - perfect for adding a little extra style and volume to all sorts of beards! This brush is made from‚ medium firm‚ boar hair that's lightly embedded into a sustainable bamboo handle. With its sleek design, this brush is both stylish and functional.Whether you're a man with facial hair seeking a perfectly groomed appearance or simply want to‚ detangle‚ your wild beard away, our brush has got you covered. The smooth boar bristles are great for reducing irritation when brushing through tangled strands. Get ready to level up your grooming routine with the most luxurious Boar Brush yet! Imperial = 2.25 in x 4.75 in / Metric = 57 x 120
-  Updated: 2025-12-29T22:52:48Z
+  Updated: 2025-12-30T00:58:09Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -395,7 +395,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/CASINOBEARDSOAP_ddb99401-f25e-4f7b-8f26-f456a4cc71f1.jpg?v=1766805252
   Price: $9.99 USD
 - [Lucky Beard Soap & Conditioner](https://www.ironforgebeardco.com/products/lucky-beard-soap-conditioner): Treat yourself to the luxurious clean of our beard soap and conditioner! Our soap is constructed with nature's finest ingredients, such as fatty acids, glycerin, cocoa butter, shea butter and mango plant butters. We also add African Black Soap chunks to give your skin an extra-special treatment. Trust us your beard (and your partners) will thank us later.This soap exudes a strikingly masculine scent, with notes of patchouli, vanilla, clove, and leather that are sure to draw attention from anyone. As for practicality? Check! This bar can last up to two months in even the thickest of beards giving you ultimate value without breaking the bank. Net Wt. 4 oz / 113g Ingredients: Aqua, Glycerin, Sorbitol, Sodium Stearate, Sodium Laurate, Propylene Glycol, Sodium Oleate, Sodium Myristate, Sodium Chloride, Glyceryl Mono Laurate, Cocamidopropyl Betaine, Teobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea Butter), Magnifera Indica (Mango) Seed Butter, Sodium Thiosulphate, Sodium Citrate, Titanium Dioxide, Citric Acid, Trisodium Sulfosuccinate, Pentasodium Pentatate, Tetrasodium Etidronate, African Black Soap (Sodium Shea Butterate, Sodium Cocoate, Sodium Palm Kernelate, Coconut Carbon), Fragrance, Blue 1
-  Updated: 2025-12-29T22:52:49Z
+  Updated: 2025-12-30T00:58:09Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -416,7 +416,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/WEALTHBEARDSOAP_8cd9d81f-ace9-47a1-9403-4823910ce672.jpg?v=1766805316
   Price: $11.99 USD
 - [Africa Beard Comb](https://www.ironforgebeardco.com/products/africa-beard-comb): These combs are bench made, and we've been making them since 2016. You must be tired of weak combs and brushes that fluff. Detangle any beard. Super thick or super curly is no match for this gift to beard with very strong teeth, you won't snap this comb like you do wood or plastic. A once in a lifetime purchase and so well worth the buy. Hand polished at a bench using American Stainless, use this as a large EDC or keep it at home for the start of your daily routine. Imperial = 6.37in x 1.5in / Metric = 162 x 38
-  Updated: 2025-12-29T22:52:49Z
+  Updated: 2025-12-30T01:07:42Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -530,7 +530,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MCZ_7094.jpg?v=1766810569
   Price: $8.46 USD
 - [Beard Care Grooming Kit](https://www.ironforgebeardco.com/products/beard-care-grooming-kit): Your beard will never look the same with our unique 4 piece gift set. Beard brush, oil, serum and Balm. All you need for the prefect beard. Features: Set includes: (1) Beard Comb, (1) Beard oil, (1) Beard balm, and (1) Beard serum Beard oil (30ml) - Deep moisturizing, smoothing, make the beard beautiful and black. Contains a variety of Vitamin E essences and golden jojoba oil. Beard oil can quickly penetrate deep into the skin to nourish the dehydrated skin and can also supply skin with moisture. It can regulate sebum's balance and help renew the beards texture. Beard balm (60g) - firm the shape of the beard with this beard's daily nursing balm and keep the beard shining for long term. Beard serum (30ml) - Beard serum can Deeply clean the beard and the skin or beard, effectively reducing oil on the skin of the beard. Uncttoke pores while hydrating to prevent dryness and itching of beard. Model Number: BCGS5
-  Updated: 2025-12-29T22:52:54Z
+  Updated: 2025-12-30T00:58:09Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -578,8 +578,11 @@
     Updated: 2025-12-28T17:46:13Z
     Author: Iron forge beard co
   - [A Beginner's Guide to Beard Grooming Excellence](https://www.ironforgebeardco.com/blogs/news/a-beginners-guide-to-beard-grooming-excellence): A Beginner's Guide to Beard Grooming Excellence
-    Updated: 2025-12-29T05:35:37Z
+    Updated: 2025-12-30T03:53:01Z
     Author: Iron forge beard co
+  - [Jaspè Military Natural Bristle Brush for Men: Grooming Mastery](https://www.ironforgebeardco.com/blogs/news/jaspe-military-natural-bristle-brush-for-men-grooming-mastery)
+    Updated: 2025-12-30T03:52:36Z
+    Author: Clickfrom AI Agent
 
 ## Store Pages
 
