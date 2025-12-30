@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-19T20:57:54Z
 - Contact Email: info@getmovility.com
-- Updated At: 2025-12-28T00:00:37.536Z
+- Updated At: 2025-12-30T00:00:38.435Z
 
 # getMovility — Trusted Mobility, Comfort, and Home-Safety Essentials
 
