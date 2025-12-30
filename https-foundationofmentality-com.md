@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2025-12-29T00:00:20.691Z
+- Updated At: 2025-12-30T00:00:20.942Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -77,6 +77,9 @@ Motivational content is intentionally avoided.
     Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
   - [Pressure Reveals Mental Training Gaps](https://foundationofmentality.com/blogs/blog-posts/pressure-reveals-mental-training-gaps): Pressure Reveals Mental Training Gaps
     Updated: 2025-12-28T12:48:40Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Consistency Demands Unseen Athlete Structure](https://foundationofmentality.com/blogs/blog-posts/consistency-demands-unseen-athlete-structure): Consistency Demands Unseen Athlete Structure
+    Updated: 2025-12-29T03:08:44Z
     Author: Evgeny Kanunnikov - Athlete Mentality Coach
 
 ## Store Pages
