@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2025-12-29T00:00:24.802Z
+- Updated At: 2025-12-30T00:00:24.664Z
 
 ## Products
 
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/image_ba5732b1-01a7-45d7-9eb9-3afb3eeb7080.png?v=1766283633
   Price: $25.99 USD
 - [Custom Acrylic Nightlight - Design Your Own](https://nat20lasercrafts.com/products/custom-acrylic-nightlight-design-your-own): Illuminate your space with our premium custom acrylic nightlights, perfect for gaming rooms, fantasy enthusiasts, and anyone who loves personalized décor. Each nightlight features laser-engraved designs that glow beautifully when lit, creating a warm, magical ambiance. Features: Premium laser-engraved acrylic with crisp, detailed designs Warm LED lighting for a cozy, atmospheric glow Available in multiple sizes and base options 4" models include remote control for easy operation Perfect for bedrooms, gaming setups, or display shelves Custom designs available - bring your fantasy world to life Available Options: 4" Plastic Base - $24.99: Compact and affordable with remote control, perfect for desks and shelves 4" Faux Wood Base - $24.99: Premium wooden base with remote control adds natural warmth and elegance 4" Natural Wood Base - $29.99: Enhanced wooden base option with premium features 6" Wooden Base Premium - $34.99: Large premium quality acrylic for maximum impact and detail Each nightlight is carefully crafted to showcase your custom design with stunning clarity. The warm glow creates the perfect atmosphere for late-night gaming sessions, bedtime reading, or simply adding a touch of magic to your space.
-  Updated: 2025-12-28T16:26:46Z
+  Updated: 2025-12-29T22:08:21Z
   Vendor: Nat 20 Custom Laser Crafts
   Product Type: Home Decor
   Availability: Available
@@ -261,6 +261,9 @@
     Author: Nat 20 Custom Laser Crafts
   - [Elevating Your Gaming Room with Geometric Dice Sword Wall Art](https://nat20lasercrafts.com/blogs/news/elevating-your-gaming-room-with-geometric-dice-sword-wall-art): Elevating Your Gaming Room with Geometric Dice Sword Wall Art
     Updated: 2025-12-27T00:42:35Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Unlocking Your Creativity with Custom Jewelry Design How to Get Started](https://nat20lasercrafts.com/blogs/news/unlocking-your-creativity-with-custom-jewelry-design-how-to-get-started): Unlocking Your Creativity with Custom Jewelry Design How to Get Started
+    Updated: 2025-12-29T03:04:49Z
     Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
