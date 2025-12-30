@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-30T12:00:24.746Z
+- Updated At: 2025-12-30T16:00:24.883Z
 
 ## Products
 
@@ -31,7 +31,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/XECIfcIYKW.png?v=1766710659
   Price: $22.99 USD
 - [Dream Aftershave](https://www.ironforgebeardco.com/products/dream-aftershave): Our aftershave is the perfect embodiment of luxury and comfort. With a medicinal, fresh, woody, earthy and herbaceous scent, you'll never want to leave home without shaving with this soothing blend of natural and vegan ingredients. Our luxe concoction contains avocado, cupuacu butters as well as coconut, olive, castor, avocado and tea tree oil to give your skin the utmost protection from the elements.Not only does our aftershave provide intense moisture for an all-day calming feel, but it also conditions your skin with its perfect balance of nutrition and hydration. Feel like you've just stepped out of a barber's chair after each shave with the added bonus of protecting your skin from potential irritations or damage from razor burn.Say goodbye to dryness or discomfort. Our aftershave gives you that masculine look you desire with its creative touch. Treat yourself and your skin right with this must-have item in every man's grooming obsession!Net Wt. 4 oz / 113 g Ingredients: Persea Gratissima (Avacodo) Butter, Theobroma Grandiflorum (Cupuacu) Seed Butter, Glycerine, Persea Gratissima (Avacodo) Oil, Olea Europaea (Olive) Fruit Oil, Ricinus Communis (Castor) Seed Oil, Cocos Nucifera (Coconut) Oil, Phenoxyethanol, Melaleuca Alternifolia (Tea Tree) Leaf Oil
-  Updated: 2025-12-30T00:58:09Z
+  Updated: 2025-12-30T14:35:48Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -52,7 +52,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/KvLoZ13hHu.png?v=1766711089
   Price: $8.99 USD
 - [Beard Envy Bundle](https://www.ironforgebeardco.com/products/beard-envy-bundle): Beard itch? When you first start growing, your face may itch because the hair is robbing your face of nutrients to help it grow. Let's get you started before you shave. Did you know 80% of men shave? Let's increase that 20% bearded rate by keeping your beard healthy! This kit includes a Beard Oil for your skin and a Beard Balm or Butter for your hair.What's the difference between Beard Balm and Beard Butter?Balm has more wax, adds weight to the beard hair to help with flyways and allows you to style easier. Beard Butter is lighter and is perfect for nourishment, repair, and protection.What's included: (1) Beard Oil – 59 ml(1) Pump for Beard Oil (1) Beard Balm – 56 g(1) Beard Butter – 56 gBeard Oil Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Fragrance Beard Balm or Beard Butter Ingredients:Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance
-  Updated: 2025-12-30T00:58:09Z
+  Updated: 2025-12-30T14:35:48Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $97.99 USD
 - [The Ultimate Men's Grooming & Relaxation Bundle – Beard Care, Electric Shaver, and Massage Gun](https://www.ironforgebeardco.com/products/the-ultimate-mens-grooming-relaxation-bundle-beard-care-electric-shaver-and-massage-gun): Master the art of grooming and unwind in style with the Ultimate Men's Grooming & Relaxation Bundle. Featuring the Pursonic Beard Care Kit, Mario Lopez Men's Rechargeable Electric Shaver, and Pursonic 3-Speed Cordless Massage Gun, this bundle combines precision grooming with powerful relaxation tools to keep you looking and feeling your best. Perfect for self-care or as a thoughtful gift for any man who values both style and comfort. Bundle Includes: 1. Pursonic Beard Care Grooming Kit (4 Pieces) Achieve the perfect beard with this all-in-one set designed to nourish, style, and maintain your facial hair. Beard Oil (30ml): Deeply moisturizes and nourishes with vitamin E and golden jojoba oil for a smooth, healthy beard. Beard Balm (60g): Shapes and holds your beard while adding a natural shine for all-day style. Beard Serum (30ml): Cleanses and hydrates to prevent dryness, itching, and clogged pores. Beard Comb: Tame and style with ease for a polished look. 2. Pursonic – Mario Lopez Men’s Rechargeable Electric Shaver Upgrade your shaving routine with advanced technology for a close and comfortable shave. 3D Floating Blades: Adjust to facial contours for precise, irritation-free shaving. Double Ring Knife Net: Covers more surface area for efficient, faster shaving. 60-Minute Runtime & Quick Charge: Long-lasting performance with a 5-minute quick charge for last-minute touch-ups. Washable Blades: Easy to clean for hygiene and convenience. 3. Pursonic 3-Speed Cordless & Rechargeable Professional Massage Gun Relax and recover with targeted muscle relief using this versatile massage gun. 3 Speed Settings: Tailor your massage from gentle relaxation to deep tissue therapy. 3 Attachments: Round head for large muscles, bullet head for pinpoint targeting, and flat head for all-over relief. Quiet & Portable: Whisper-quiet motor and ergonomic design for use at home, the gym, or on the go. Rechargeable Battery: Long-lasting power for uninterrupted relaxation sessions. Why Choose the Ultimate Men’s Grooming & Relaxation Bundle? Complete Grooming & Wellness Solution: A comprehensive set for head-to-toe care. Premium Quality & Performance: High-grade materials and advanced features for lasting results. Perfect Gift Idea: Treat yourself or surprise a loved one with this thoughtfully curated bundle. Transform your grooming routine and recovery experience with this all-in-one package of style and relaxation. Order now and step into your best version of comfort and confidence.
-  Updated: 2025-12-30T00:31:06Z
+  Updated: 2025-12-30T14:35:48Z
   Vendor: Pursonic
   Product Type: Shaver
   Availability: Available
@@ -147,7 +147,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/NPA02948.jpg?v=1766690783
   Price: $19.25 USD
 - [Beard Trimmer Wahl](https://www.ironforgebeardco.com/products/beard-trimmer-wahl): If you are looking for household appliances at the best prices, don't miss the Beard Trimmer Wahl and a wide selection of small household appliances! Type: Wireless Characteristics: On/Off switch LED in operation indicator Battery operated (2 x AA, not included) On/off interrupter LED indicator Battery operated (2 AA, included) Precision: Adjustable 9 levels 0,7 mm-1,2 cm Type of plug: Plug EU Product with plug: Yes Battery type: AA Colour: Black Silver Material: Steel Power supply: Battery Batteries included: Yes Rechargeable: No Weight: 240 g POWERFUL CUTTING: thanks to precision-ground self-sharpening high carbon-steel blade setIDEAL FOR TRAVELING: world-wide use due to battery operationACCESSORIES: 5 position variable attachment comb for cutting lengths from 2 to 12 mm and 3 attachment combs for stubble (1.5 mm), medium (3 mm) and full beard (4,5 mm)INCLUDING: nose and ear hair trimmer Product colour: Silver Number of length steps: 9 Minimum hair length: 0.7 mm Maximum hair length: 1.2 cm Cutter width: 3 cm On/off switch: Y LED indicators: Y Power source: AC/Battery Rechargeable: N
-  Updated: 2025-12-30T03:24:25Z
+  Updated: 2025-12-30T14:35:49Z
   Vendor: Wahl
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -175,7 +175,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/V1708795_1733232578-remove-background1.jpg?v=1766690901
   Price: $18.91 USD
 - [Nose and Ear Hair Trimmer E650E Babyliss Black](https://www.ironforgebeardco.com/products/nose-and-ear-hair-trimmer-e650e-babyliss-black): The Nose and Ear Hair Trimmer E650E Babyliss Black is an exclusive, top-quality product for body care. If you are looking for the best personal hygiene products, the 100 % original Babyliss products are just what you’re looking for.The Babyliss E650E nose hair trimmer is a device specially designed for precision in personal care, aimed at the easy and safe removal of nose and ear hair. This trimmer stands out for its elegant black color and ergonomic design, created for comfortable and effective handling, suitable for users of any gender thanks to its unisex product status. Its structure includes stainless steel details that ensure durability and wear resistance, while its notable feature of being waterproof and resistant adds versatility for use and cleaning, allowing hygienic maintenance without hassle. Additionally, it operates on battery, providing cordless freedom and practical use both at home and while traveling. It is important to highlight that this product is not tested on animals, complying with ethical manufacturing standards. Its compact and functional design makes trimming safe and precise, avoiding pulling or common discomforts with such accessories. The Babyliss E650E combines quality materials and user-focused features, ideal for detailed and efficient personal care. In short, it is a technical and practical solution among trimmers for delicate areas like nose and ears, focusing on performance and ease of use. Gender: Unisex Operation: Batteries (not included) Type of plug: Plug EU Colour: Black Characteristics: Not tested on animals
-  Updated: 2025-12-30T10:27:06Z
+  Updated: 2025-12-30T14:35:49Z
   Vendor: Babyliss
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -196,12 +196,12 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/81731-BLNK-OE-05-07-BCS-BC1.webp?v=1766713207
   Price: $21.53 USD
 - [Beeswax Beard Balm](https://www.ironforgebeardco.com/products/beeswax-beard-balm): Beeswax Beard Balm with Lime and Bay Rum Oil: Nourish Your Beard, Tame the Wild🧔 Tame your majestic beard and embark on a journey of grooming excellence with our Beeswax Beard Balm enriched with the invigorating scents of lime and bay rum oil. Experience the perfect blend of nature's finest ingredients, crafted to moisturise your beard, replenish its natural oils, and ensure unrivalled softness and manageability.Key Ingredients for Beard Perfection:🐝 Premium Beeswax: The heart of our beard balm, beeswax, offers a firm yet flexible hold, taming unruly whiskers with ease. It seals in moisture, giving your beard a polished and well-groomed appearance.🍋 Lime Oil: Zesty and refreshing, lime oil invigorates your senses and leaves a subtle, uplifting aroma in your beard. Its astringent properties help cleanse the skin beneath your beard, preventing clogged pores and promoting a healthy beard foundation.🌴 Bay Rum Oil: Revel in the warm, exotic scent of bay rum oil, reminiscent of tropical shores. This aromatic oil not only provides an alluring fragrance but also contains natural antimicrobial properties, promoting a fresh and clean beard environment.🍃 Moisturising Butters and Oils: Rich shea butter and nourishing coconut oil combine to deeply moisturise and condition your beard, combating dryness and preventing itchiness.Benefits for Your Bearded Majesty:1. 💧 Intense Hydration: Our beeswax beard balm is a moisture powerhouse, effectively combating beard dryness, flakiness, and itchiness, leaving your beard irresistibly soft and touchable.2. 💈 Tame the Unruly: Embrace a well-groomed appearance with our balm's firm yet flexible hold. Tame flyaways and shape your beard effortlessly, all while maintaining a natural look.3. 🧔 Soothing and Nourishing: Say goodbye to beard itch and irritation. Our balm's natural ingredients soothe the skin beneath your beard, promoting a comfortable and healthy beard-growing experience.4. 🌿 Natural Oil Replacement: Beeswax, combined with shea butter and coconut oil, mimics the natural oils produced by your skin, replenishing what's lost during cleansing and beard care.5. 🍋 Zesty Freshness: The invigorating scent of lime oil refreshes your senses, providing a burst of energy to kickstart your day.6. 🌴 Exotic Appeal: Indulge in the alluring scent of bay rum oil, transporting your senses to sun-kissed tropical shores.Crafting the Ultimate Beard Balm:🌱 Our Beeswax Beard Balm is meticulously crafted with a commitment to quality and the finest natural ingredients. We ensure that every tin delivers the nourishment and grooming prowess your beard deserves.🐝 Ethical Sourcing: We take pride in ethically sourcing our beeswax, ensuring the well-being of bees and the environment.Embrace the Bearded Elegance:With our Beeswax Beard Balm, your beard will radiate a captivating charm, reflecting your dedication to grooming excellence. Unleash your beard's true potential as it becomes a testament to the power of nature's finest ingredients. Embrace the softness, the alluring scent, and the unrivalled manageability of a beard that's truly fit for a king. 👑🧔
-  Updated: 2025-12-29T22:52:43Z
+  Updated: 2025-12-30T14:35:50Z
   Vendor: More Bees Please
   Product Type: Aftershave Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/beard-balm.jpg?v=1766713306
-  Price: $10.39 USD
+  Price: $10.40 USD
 - [WOOD AND SPICE beard balm 300 ml](https://www.ironforgebeardco.com/products/wood-and-spice-beard-balm-300-ml): PRORASO's YELLOW beard balm is specially designed to alleviate the discomfort associated with the early stages of beard growth. It provides hydration and comfort as your beard develops. With an aromatic blend of cedar and guaiac wood, it also carries a gentle hint of amber. The soothing touch of vanilla adds to the enriching experience, ensuring your facial hair feels nurtured and cared for.Ingredientes: Aqua (Water/ Eau), Polysorbate 40, Dicaprylyl Ether, Glycerin, Polyquaternium-37, Parfum (Fragrance), Caprylyl Glycol, Phenoxyethanol, Benzyl Alcohol, Eucaplyptus globulus Leaf Oil, Ethylhexylglycerin, Menthol, Tocopheryl Acetate, Citric Acid, Alpha-Isomethyl Ionone, Limonene, Coumar.
   Updated: 2025-12-29T22:52:43Z
   Vendor: Proraso
@@ -217,14 +217,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BFM_ProductImages_2000x2000_HHYD4_HairBeardHydrator_01.jpg?v=1766713361
   Price: $8.24 USD
 - [High-quality beard oil for styling and nourishing your beard | 2 oz](https://www.ironforgebeardco.com/products/beard-oil): Experience the benefits of our high quality beard growth oil, designed to nourish, moisturize, and promote thicker beard growth with natural ingredients. Perfect for all skin types.
-  Updated: 2025-12-30T03:36:28Z
+  Updated: 2025-12-30T14:35:50Z
   Vendor: SJC Body Love Products
   Product Type: Skin Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/image_14ee6bb5-e684-45ef-81b6-224810d0eada.jpg?v=1767065780
   Price: $17.81 USD
 - [Beard Oil (Duo) - Nourishing Beard Grooming Oils for Growth, Hydration & Strength](https://www.ironforgebeardco.com/products/beard-oil-duo): Discover Beard Oil (Duo) for taming, softening, and hydrating your beard with natural oils. Choose from growth, hydrate, or strength formulas for a healthy, smooth beard.
-  Updated: 2025-12-30T03:29:20Z
+  Updated: 2025-12-30T14:35:51Z
   Vendor: J&L Naturals
   Product Type: Beard Oil
   Availability: Available
@@ -339,14 +339,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/SHAVING_BRUSH_GEO_GREY_7504558f-723d-46cb-a312-85305fdd47e4.png?v=1766803632
   Price: $29.99 USD
 - [Sandalwood Triple Butter Shaving Soap](https://www.ironforgebeardco.com/products/sandalwood-triple-butter-shaving-soap): Our Sandalwood Shaving Soap is designed specifically to provide optimal protection, and its natural properties make it ideal for happy, healthy skin, especially for razor burn. Our shaving soap is handmade with Bentonite Clay, Shea, Mango, as well as Cocoa Butter, that will leave your face looking and feeling better than ever before.Plus, there's no need for harsh chemicals, just simple ingredients that are kind to your face. The scent may be light, but it provides refreshed looking skin! And remember that this fabulous shaving soap pairs perfectly with our aftershaves for maximum shaved skin luxury.Net Wt. 8 oz / 226 g Ingredients: Aqua, Glycerin, Sorbitol, Sodium Stearate, Sodium Laurate, Propylene Glycol, Sodium Oleate, Sodium Myristate, Sodium Chloride, Sodium Myristate, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea Butter), Mangifera Indica (Mango) Seed Butter, Bentonite Powder, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Glyceryl Mono Laurate, Cocamidopropyl Betaine, Sodium Thiosulphate, Sodium Citrate, Titanium Dioxide, Citric Acid, Trisodium Sulfosuccinate, Pentasodium Pentatate, Tetrasodium Etidronate
-  Updated: 2025-12-29T22:52:47Z
+  Updated: 2025-12-30T14:58:11Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/fFzP2NeXGa.png?v=1766804460
   Price: $29.99 USD
 - [Authentic Beard Oil](https://www.ironforgebeardco.com/products/authentic-beard-oil): Keep your beard from feeling like fire by introducing our beard oil into your grooming routine. This perfect blend of herbaceous lavender and citrusy top notes gives you the warmth of a peppery and musky aroma. With a ginger, sweet orange-like woody base, this formula softens facial hair while relieving uncomfortable itchiness. Look fresh and feel confident when you embrace your beards full potential with our beard oil.As you grow, our special oil combinations feed your skin to supplement the important balance of nutrients that beard hair needs to grow. Dry patches? Solved. The amount of beard oil used will vary by length of beard, personal preference, diet / water intake as well as environmental conditions. If you feel dry, use some beard oil!2 fl oz / 59 ml Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Piper Nigrum (Black Pepper) Seed Oil, Boswellia Carterii (Frakincense) Oil, Citrus Paradisi (Grapefruit) Seed Extract, Lavandula Angustifolia (Lavender) Oil, Curcuma Longa (Turmeric) Root Oil
-  Updated: 2025-12-29T22:52:47Z
+  Updated: 2025-12-30T14:53:02Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -360,8 +360,8 @@
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/3cd8tyALt2.png?v=1766804408
     Price: $29.99 USD
 - [Casino Beard Balm](https://www.ironforgebeardco.com/products/casino-beard-balm): This fragrance is an enticing mix of cognac, beautiful Cuban dried leaves and new leather. Dabs of cedar wood, lemon zest and spicy nightshade. Our beard balm is a perfect way to help shape your beard!Control static, flyaways and the frizzes. Nourishing the hair to help prevent split ends is an essential bonus to this key beard care tool. A little dab melted in the palm, glaze the beard. Shape and done. Our beard balm is blended using the perfect balance of high-quality plant butter, select plant oils and beeswax. We also use the finest of fragrance oils to produce unique fragrances. Net Wt. 2 oz / 56 g Ingredients: Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance
-  Updated: 2025-12-29T22:52:48Z
-  Vendor: Unknown Vendor
+  Updated: 2025-12-30T14:52:02Z
+  Vendor: Hilman Reid
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/Ey2wa3yiLI.png?v=1766804698
@@ -374,7 +374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/3LLVlLp4uK.png?v=1766804615
   Price: $27.99 USD
 - [Bamboo Beard Boar Brush](https://www.ironforgebeardco.com/products/bamboo-beard-boar-brush): Introducing the Bamboo Beard Boar Brush - perfect for adding a little extra style and volume to all sorts of beards! This brush is made from‚ medium firm‚ boar hair that's lightly embedded into a sustainable bamboo handle. With its sleek design, this brush is both stylish and functional.Whether you're a man with facial hair seeking a perfectly groomed appearance or simply want to‚ detangle‚ your wild beard away, our brush has got you covered. The smooth boar bristles are great for reducing irritation when brushing through tangled strands. Get ready to level up your grooming routine with the most luxurious Boar Brush yet! Imperial = 2.25 in x 4.75 in / Metric = 57 x 120
-  Updated: 2025-12-30T00:58:09Z
+  Updated: 2025-12-30T14:35:51Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -395,7 +395,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/CASINOBEARDSOAP_ddb99401-f25e-4f7b-8f26-f456a4cc71f1.jpg?v=1766805252
   Price: $9.99 USD
 - [Lucky Beard Soap & Conditioner](https://www.ironforgebeardco.com/products/lucky-beard-soap-conditioner): Treat yourself to the luxurious clean of our beard soap and conditioner! Our soap is constructed with nature's finest ingredients, such as fatty acids, glycerin, cocoa butter, shea butter and mango plant butters. We also add African Black Soap chunks to give your skin an extra-special treatment. Trust us your beard (and your partners) will thank us later.This soap exudes a strikingly masculine scent, with notes of patchouli, vanilla, clove, and leather that are sure to draw attention from anyone. As for practicality? Check! This bar can last up to two months in even the thickest of beards giving you ultimate value without breaking the bank. Net Wt. 4 oz / 113g Ingredients: Aqua, Glycerin, Sorbitol, Sodium Stearate, Sodium Laurate, Propylene Glycol, Sodium Oleate, Sodium Myristate, Sodium Chloride, Glyceryl Mono Laurate, Cocamidopropyl Betaine, Teobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea Butter), Magnifera Indica (Mango) Seed Butter, Sodium Thiosulphate, Sodium Citrate, Titanium Dioxide, Citric Acid, Trisodium Sulfosuccinate, Pentasodium Pentatate, Tetrasodium Etidronate, African Black Soap (Sodium Shea Butterate, Sodium Cocoate, Sodium Palm Kernelate, Coconut Carbon), Fragrance, Blue 1
-  Updated: 2025-12-30T00:58:09Z
+  Updated: 2025-12-30T14:35:52Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -416,7 +416,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/WEALTHBEARDSOAP_8cd9d81f-ace9-47a1-9403-4823910ce672.jpg?v=1766805316
   Price: $11.99 USD
 - [Africa Beard Comb](https://www.ironforgebeardco.com/products/africa-beard-comb): These combs are bench made, and we've been making them since 2016. You must be tired of weak combs and brushes that fluff. Detangle any beard. Super thick or super curly is no match for this gift to beard with very strong teeth, you won't snap this comb like you do wood or plastic. A once in a lifetime purchase and so well worth the buy. Hand polished at a bench using American Stainless, use this as a large EDC or keep it at home for the start of your daily routine. Imperial = 6.37in x 1.5in / Metric = 162 x 38
-  Updated: 2025-12-30T01:07:42Z
+  Updated: 2025-12-30T14:35:52Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -430,7 +430,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MPN-BS5-2.png?v=1766805617
   Price: $12.99 USD
 - [Moustache Wax](https://www.ironforgebeardco.com/products/moustache-wax): Our moustache wax is a grooming product specifically designed to help style and manage your moustache. It is made from a blend of natural waxes and oils, such as beeswax, lanolin, and argan oil, and is formulated to provide a firm hold.Need to tame that moustache? Our unscented moustache wax is smoothly blended with the perfect amount of tacky hold. Apply small amounts for maximum result!Net Wt. 0.5 oz / 14 g Ingredients: Copernicia Cerifera Wax, Cera Alba (Beeswax), Lanolin, Colophonium, Persea Gratissima Oil (And) Hydrogenated Vegetable Oil And Tocophero, Rosin
-  Updated: 2025-12-30T06:36:43Z
+  Updated: 2025-12-30T14:56:11Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -530,7 +530,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MCZ_7094.jpg?v=1766810569
   Price: $8.46 USD
 - [Beard Care Grooming Kit](https://www.ironforgebeardco.com/products/beard-care-grooming-kit): Your beard will never look the same with our unique 4 piece gift set. Beard brush, oil, serum and Balm. All you need for the prefect beard. Features: Set includes: (1) Beard Comb, (1) Beard oil, (1) Beard balm, and (1) Beard serum Beard oil (30ml) - Deep moisturizing, smoothing, make the beard beautiful and black. Contains a variety of Vitamin E essences and golden jojoba oil. Beard oil can quickly penetrate deep into the skin to nourish the dehydrated skin and can also supply skin with moisture. It can regulate sebum's balance and help renew the beards texture. Beard balm (60g) - firm the shape of the beard with this beard's daily nursing balm and keep the beard shining for long term. Beard serum (30ml) - Beard serum can Deeply clean the beard and the skin or beard, effectively reducing oil on the skin of the beard. Uncttoke pores while hydrating to prevent dryness and itching of beard. Model Number: BCGS5
-  Updated: 2025-12-30T00:58:09Z
+  Updated: 2025-12-30T14:35:53Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -544,14 +544,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA36-BCGS51.jpg?v=1766810817
   Price: $41.24 USD
 - [Mario Lopez Grooming Essentials Bundle with 10-Piece Trimming Kit & 4-Piece Beard Care Set](https://www.ironforgebeardco.com/products/mario-lopez-grooming-essentials-bundle-with-10-piece-trimming-kit-4-piece-beard-care-set): Level up your grooming game with the Mario Lopez Grooming Essentials Bundle, a complete solution for head-to-toe styling. Whether you're maintaining your beard, trimming your hair, or cleaning up unwanted nose and ear hair, this powerful combo has you covered. Mario Lopez Men's 10-Piece Grooming Kit – For Hair, Beard, Nose & EarPrecision, power, and performance all in one sleek kit. Stainless Steel Precision Clipper: Built to last and engineered for clean, consistent cuts Adjustable Guide Combs (x4): Customize your grooming style with ease Ear/Nose/Brow Trimmer: Tackle hard-to-reach areas safely and comfortably Clipper Oil & Cleaning Brush: Keep your tools clean and operating smoothly Ergonomic design makes it easy to hold and maneuver Perfect for everyday grooming or quick touch-ups on the go. 4-Piece Beard Care Grooming Kit – Nourish, Shape & ShineComplete beard care made simple with premium oils and tools. Beard Oil (30ml): Infused with Vitamin E and golden jojoba oil to deeply hydrate, smooth, and enhance shine Beard Balm (60g): Shape and tame your beard while keeping it soft and healthy-looking Beard Serum (30ml): Gently cleanses and moisturizes to reduce dryness, itchiness, and excess oil Beard Comb: Distributes product evenly while detangling and styling This set ensures your beard stays clean, conditioned, and perfectly groomed day after day. Why Choose the Pursonic - Mario Lopez Grooming Essentials Bundle? All-in-one solution for trimming, styling, and beard maintenance High-quality tools paired with nourishing skincare formulas Ideal gift for men who take pride in their grooming routine Great for home use or travel Look sharp, feel confident, and stay polished with this complete grooming bundle from Pursonic and Mario Lopez—crafted for modern men who demand more from their daily routine. Let me know if you’d like this optimized for a specific platform or need visual layout ideas!
-  Updated: 2025-12-29T22:52:55Z
+  Updated: 2025-12-30T14:46:43Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA30-BCGS51.jpg?v=1766810836
   Price: $41.24 USD
 - [Jaspè Military Natural Bristle Brush - Men's Hair & Beard Grooming](https://www.ironforgebeardco.com/products/jaspe-military-natural-bristle-brush-mens-hair-beard-grooming): Master your grooming routine with the Jaspè Military Natural Bristle Brush, a classic Italian men's grooming tool designed to add volume, texture, and natural conditioning to hair and beards. Key Benefits: 100% natural bristles condition and add shine Smoothing action adds volume and texture to all hair types Reduces breakage and stimulates scalp circulation Perfect dual-purpose tool for hair and beard grooming Compact military-style design fits perfectly in your hand Why Military Style?The military brush design has been a men's grooming staple for generations. Its compact, palm-sized shape gives you complete control for precise styling, making it ideal for short to medium hair and beard grooming. The flat design allows you to work product through hair evenly while the firm natural bristles provide the perfect amount of grip. Natural Bristle Benefits:Natural bristles are the secret to healthy, well-groomed hair and beards. As you brush, they distribute your scalp's natural oils from root to tip, providing nature's own conditioning treatment. This adds incredible shine, reduces breakage, smooths the cuticle, and stimulates blood flow to your scalp for healthier growth. Perfect For:Men's short to medium hair, beard grooming and shaping, adding volume and texture, daily scalp stimulation, anyone seeking natural conditioning without products. Sizes Available: Small: 11 x 5 cm Large: 12 x 6 cm Each brush is handcrafted in Italy with premium natural bristles and Jaspè's signature tortoiseshell acetate construction - timeless quality for the modern gentleman.
-  Updated: 2025-12-29T22:52:55Z
+  Updated: 2025-12-30T14:35:54Z
   Vendor: KOH-I-NOOR Beauty USA
   Product Type: Hair Brushes
   Availability: Available
@@ -586,6 +586,9 @@
   - [The History of Beards and Their Cultural Significance](https://www.ironforgebeardco.com/blogs/news/the-history-of-beards-and-their-cultural-significance): The History of Beards and Their Cultural Significance
     Updated: 2025-12-30T10:03:10Z
     Author: Iron forge beard co
+  - [Mario Lopez Grooming Essentials Bundle: Hair, Beard & Nose Kit](https://www.ironforgebeardco.com/blogs/news/mario-lopez-grooming-essentials-bundle-hair-beard-nose-kit)
+    Updated: 2025-12-30T14:06:38Z
+    Author: Clickfrom AI Agent
 
 ## Store Pages
 
