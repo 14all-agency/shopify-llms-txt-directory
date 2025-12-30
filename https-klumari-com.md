@@ -6,7 +6,7 @@
 - Timezone: Europe/Vilnius
 - Created At: 2025-07-21T14:22:28Z
 - Contact Email: shunna913@gmail.com
-- Updated At: 2025-12-26T00:00:35.865Z
+- Updated At: 2025-12-30T00:00:37.013Z
 
 ## Products
 
@@ -804,6 +804,9 @@
     Author: Klumari
   - [LIZTOX 100 UNITS: The Ultimate Anti-Aging Skincare and Professional Aesthetic Supplies Journey](https://klumari.com/blogs/news/liztox-100-units-the-ultimate-anti-aging-skincare-and-professional-aesthetic-supplies-journey): LIZTOX 100 UNITS: The Ultimate Anti-Aging Skincare and Professional Aesthetic Supplies Journey
     Updated: 2025-12-25T01:03:10Z
+    Author: Klumari
+  - [Rejuvenate Your Eyes: Embrace Anti-Aging Skincare with Medical-Grade Eye Cream and Korean Beauty Secrets](https://klumari.com/blogs/news/rejuvenate-your-eyes-embrace-anti-aging-skincare-with-medical-grade-eye-cream-and-korean-beauty-secrets): Rejuvenate Your Eyes: Embrace Anti-Aging Skincare with Medical-Grade Eye Cream and Korean Beauty Secrets
+    Updated: 2025-12-28T00:34:51Z
     Author: Klumari
 
 ## Store Pages
