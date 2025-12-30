@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-09T08:18:27Z
 - Contact Email: care@nubokind.com
-- Updated At: 2025-12-30T05:38:52.686Z
+- Updated At: 2025-12-30T05:38:58.729Z
 
 nubokind (also known as nubo)  
 https://nubokind.com
