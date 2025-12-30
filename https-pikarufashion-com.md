@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-17T00:00:33.224Z
+- Updated At: 2025-12-30T00:00:36.614Z
 
 ## Products
 
@@ -4998,7 +4998,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/48_4.jpg?v=1764741170
   Price: $192.00 USD
 - [Blue Suzani Embroidered Wool Coat with Mongolian Fur Trim](https://pikarufashion.com/products/blue-suzani-embroidered-wool-coat-with-mongolian-fur-trim-1): Handcrafted Blue Suzani Embroidered Wool Coat with Mongolian Fur Trim This elegant Blue Suzani Embroidered Wool Coat blends traditional artisan embroidery
-  Updated: 2025-11-29T18:38:29Z
+  Updated: 2025-12-19T06:04:18Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
@@ -5006,13 +5006,13 @@
   - [1](https://pikarufashion.com/products/blue-suzani-embroidered-wool-coat-with-mongolian-fur-trim-1?variant=60837273239922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/45_1.jpg?v=1763619570
-    Price: $178.00 USD
+    Price: $249.00 USD
   - [2](https://pikarufashion.com/products/blue-suzani-embroidered-wool-coat-with-mongolian-fur-trim-1?variant=60837273272690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/46_5.jpg?v=1763619571
-    Price: $178.00 USD
+    Price: $249.00 USD
 - [Handcrafted Suzani Embroidered Long Coat – Boho Ethnic Winter Jacket](https://pikarufashion.com/products/handcrafted-suzani-embroidered-long-coat-boho-ethnic-jacket): Handcrafted Suzani Embroidered Long Coat – Boho Luxury Winter Wear Price: $139.00 USD Discover timeless elegance with our Handcrafted Suzani Embroidered Long Coat
-  Updated: 2025-11-29T18:36:55Z
+  Updated: 2025-12-19T06:04:18Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
@@ -5020,21 +5020,21 @@
   - [Pink](https://pikarufashion.com/products/handcrafted-suzani-embroidered-long-coat-boho-ethnic-jacket?variant=60838214336882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_2_a601e1e6-c09b-4042-91f1-c12a5384f828.jpg?v=1763619580
-    Price: $139.00 USD
+    Price: $99.00 USD
   - [Red](https://pikarufashion.com/products/handcrafted-suzani-embroidered-long-coat-boho-ethnic-jacket?variant=60838214369650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_5_3048f7df-4e6e-4c90-97d5-f3273e889639.jpg?v=1763619582
-    Price: $139.00 USD
+    Price: $99.00 USD
   - [Brown](https://pikarufashion.com/products/handcrafted-suzani-embroidered-long-coat-boho-ethnic-jacket?variant=60838214402418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_3_b7000923-300d-4945-a7df-0fdfbae0474b.jpg?v=1763619583
-    Price: $139.00 USD
+    Price: $99.00 USD
   - [Green](https://pikarufashion.com/products/handcrafted-suzani-embroidered-long-coat-boho-ethnic-jacket?variant=60838214435186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_1_26d2628e-a1a1-4f7a-8b48-67e45f3c68f6.jpg?v=1763619584
-    Price: $139.00 USD
+    Price: $99.00 USD
 - [Handcrafted Suzani Coat – Pink & Olive - PIKARU FASHION](https://pikarufashion.com/products/handcrafted-suzani-coat-pink-olive): Experience the Unique Charm of our handcrafted Suzani Coat, priced at $149.00 USD. Elevate your winter wardrobe with this exquisite, handcrafted long coat,
-  Updated: 2025-11-29T18:37:13Z
+  Updated: 2025-12-19T06:04:17Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
@@ -5042,20 +5042,20 @@
   - [Pink](https://pikarufashion.com/products/handcrafted-suzani-coat-pink-olive?variant=60838215025010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_10.jpg?v=1763619587
-    Price: $149.00 USD
+    Price: $81.00 USD
   - [Green](https://pikarufashion.com/products/handcrafted-suzani-coat-pink-olive?variant=60838215057778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/08_4_5e143492-2d49-4f4a-82b0-2f66cb4e149d.jpg?v=1763619589
-    Price: $149.00 USD
+    Price: $81.00 USD
 - [Blue White Embroidered Jacket – Floral Boho Handmade Jacket](https://pikarufashion.com/products/blue-white-embroidered-jacket-floral-boho-handmade-jacket): Blue White Embroidered Jacket – Handmade Boho Floral Jacket Price: $59 USDShipping: Free on orders over $50 • Standard shipping $10 (worldwide) Elevate your wardrobe
-  Updated: 2025-11-25T06:38:11Z
+  Updated: 2025-12-19T06:04:17Z
   Vendor: PIKARU FASHION
   Product Type: jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/09_1_8db9da86-64c6-4a84-8831-798aa1b57cfd.jpg?v=1763619598
-  Price: $59.00 USD
+  Price: $49.99 USD
 - [Suzani Embroidered Long Coat – Boho Ethnic Handmade Jacket](https://pikarufashion.com/products/suzani-embroidered-long-coat-boho-ethnic-handmade-jacket): Suzani Embroidered Long Coat – Handmade Boho Ethnic Jacket Price: $89 USDShipping: Free on orders above $50 • Standard worldwide shipping $10 Experience
-  Updated: 2025-11-25T05:29:56Z
+  Updated: 2025-12-19T06:04:16Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
@@ -5063,24 +5063,24 @@
   - [Green](https://pikarufashion.com/products/suzani-embroidered-long-coat-boho-ethnic-handmade-jacket?variant=60838233112946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/011_1_df5c3bee-19a9-442b-bce4-73c62565986f.jpg?v=1763619605
-    Price: $89.00 USD
+    Price: $99.00 USD
   - [Red](https://pikarufashion.com/products/suzani-embroidered-long-coat-boho-ethnic-handmade-jacket?variant=60838233145714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/012_1_dc273173-4b65-4a16-8afb-32e4a0112b03.jpg?v=1763619606
-    Price: $89.00 USD
+    Price: $99.00 USD
   - [Yellow](https://pikarufashion.com/products/suzani-embroidered-long-coat-boho-ethnic-handmade-jacket?variant=60838233178482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/010_4_267c7a44-5bf4-46a5-b046-dbd13e441999.jpg?v=1763619608
-    Price: $89.00 USD
+    Price: $99.00 USD
 - [Velvet Suzani Embroidered Coat – Handcrafted Boho Winter Jacket](https://pikarufashion.com/products/velvet-suzani-embroidered-coat-handcrafted-boho-jacket-1): Explore the Velvet Suzani Embroidered Coat Velvet Suzani Embroidered Coat Price: $89 USD | Shipping: Free worldwide shipping on orders above $50
-  Updated: 2025-11-29T18:34:53Z
+  Updated: 2025-12-19T06:04:16Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/014_2_42213d0b-808d-45cc-b7a7-3d76bad466dc.jpg?v=1763619615
-  Price: $89.00 USD
+  Price: $99.00 USD
 - [Velvet Suzani Embroidered Coat – Boho Floral Jacket - PIKARU FASHION](https://pikarufashion.com/products/velvet-suzani-embroidered-coat-boho-floral-jacket): Explore the Velvet Suzani Embroidered Coat. A luxurious winter jacket with bold orange and red floral motifs perfect for boho and festive looks.
-  Updated: 2025-11-29T18:35:04Z
+  Updated: 2025-12-19T06:04:15Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
@@ -5088,17 +5088,17 @@
   - [Green](https://pikarufashion.com/products/velvet-suzani-embroidered-coat-boho-floral-jacket?variant=60838261522802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/016_1_fe87ae0d-2929-4536-a2cb-45c3450b7ee0.jpg?v=1763619620
-    Price: $85.00 USD
+    Price: $99.00 USD
   - [Black](https://pikarufashion.com/products/velvet-suzani-embroidered-coat-boho-floral-jacket?variant=60838261555570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/015_1_89c807d9-f7fe-4c32-a6bc-a68b268ff7a3.jpg?v=1763619621
-    Price: $85.00 USD
+    Price: $99.00 USD
   - [Pink](https://pikarufashion.com/products/velvet-suzani-embroidered-coat-boho-floral-jacket?variant=60838261588338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/017_2.jpg?v=1763619622
-    Price: $85.00 USD
+    Price: $99.00 USD
 - [Handcrafted Suzani Coat – Boho Ethnic Long Jacket  - PIKARU FASHION](https://pikarufashion.com/products/handcrafted-suzani-coat-boho-ethnic-long-jacket): Handcrafted Suzani Coat A Unique Blend of Tradition and Style Handcrafted Suzani Coat 💰 Price $199 USD 🚚 Shipping Charges Express Shipping: $10 USD
-  Updated: 2025-11-28T05:37:05Z
+  Updated: 2025-12-19T06:04:15Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
@@ -5106,296 +5106,230 @@
   - [Red](https://pikarufashion.com/products/handcrafted-suzani-coat-boho-ethnic-long-jacket?variant=60838276825458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/018_7.jpg?v=1763619665
-    Price: $129.00 USD
+    Price: $121.00 USD
   - [Blue](https://pikarufashion.com/products/handcrafted-suzani-coat-boho-ethnic-long-jacket?variant=60838276858226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/019_6.jpg?v=1763619667
-    Price: $129.00 USD
+    Price: $121.00 USD
 - [Boho Fur Trim Long Coat – Vintage Western Style Jacket](https://pikarufashion.com/products/boho-fur-trim-long-coat-pikaru-fashion): Boho Fur Trim Long Coat with soft fur trim. Warm, stylish, and perfect for winter, travel, and statement fashion lovers. PIKARU FASHION exclusive.
-  Updated: 2025-12-03T20:16:17Z
+  Updated: 2025-12-19T06:04:15Z
   Vendor: PIKARU FASHION
   Product Type: COATS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/56E41757-3026-4503-BCC0-BD4FF51A9633-_1.webp?v=1764743097
-  Price: $333.00 USD
+  Price: $299.00 USD
 - [Olive Green Paisley Midi Dress| Balloon Sleeves](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back): Elegant olive green paisley Midi Dress with balloon sleeves and tassel back tie. Lightweight, comfortable, and perfect for everyday or travel wear.
-  Updated: 2025-11-29T00:41:27Z
+  Updated: 2025-12-19T06:04:22Z
   Vendor: PIKARU FASHION
   Product Type: PRINTED DRESS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at18.09.15_1.jpg?v=1764047183
   - [S](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back?variant=60854377251186)
     Availability: Available
-    Price: $29.20 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back?variant=60854377283954)
-    Availability: Not Available
-    Price: $29.20 USD
+    Availability: Available
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back?variant=60854377316722)
-    Availability: Not Available
-    Price: $29.20 USD
+    Availability: Available
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back?variant=60854377349490)
-    Availability: Not Available
-    Price: $29.20 USD
+    Availability: Available
+    Price: $19.99 USD
   - [2XL](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back?variant=60854377382258)
-    Availability: Not Available
-    Price: $32.11 USD
+    Availability: Available
+    Price: $19.99 USD
   - [3XL](https://pikarufashion.com/products/olive-green-paisley-midi-dress-with-balloon-sleeves-tassel-back?variant=60854377415026)
-    Availability: Not Available
-    Price: $35.00 USD
+    Availability: Available
+    Price: $19.99 USD
 - [Maxi Dress Turquoise Vine Print|Balloon Sleeves & Tassel Tie](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1): Vibrant turquoise cotton maxi dress with vine print, soft balloon sleeves, and tassel tie detail. Lightweight, stylish, and perfect for vacations or daily wear.
-  Updated: 2025-11-29T18:36:10Z
+  Updated: 2025-12-19T06:04:14Z
   Vendor: PIKARU FASHION
   Product Type: PRINTED DRESS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at18.04.47_3.jpg?v=1764047168
   - [S](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1?variant=60854379676018)
     Availability: Available
-    Price: $29.20 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1?variant=60854379708786)
     Availability: Available
-    Price: $29.20 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1?variant=60854379741554)
     Availability: Available
-    Price: $29.20 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1?variant=60854379774322)
     Availability: Available
-    Price: $29.20 USD
+    Price: $19.99 USD
   - [2XL](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1?variant=60854379807090)
     Availability: Available
-    Price: $33.00 USD
+    Price: $19.99 USD
   - [3XL](https://pikarufashion.com/products/maxi-dress-turquoise-vine-print-cotton-balloon-sleeves-1?variant=60854379839858)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
 - [Maxi - Magenta Ethnic Vine-Print Cotton with Balloon Sleeve](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1): Magenta Ethnic Vine-Print Cotton Maxi Dress with Balloon Sleeves & Tassel Tie Price: $35.00 USD | Shipping: Free Worldwide Shipping Delivery: 7–14 Business Days
-  Updated: 2025-11-29T18:34:24Z
+  Updated: 2025-12-19T06:04:14Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at18.01.53.jpg?v=1764047156
   - [S](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1?variant=60854383575410)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1?variant=60854383608178)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1?variant=60854383640946)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1?variant=60854383673714)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
   - [2XL](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1?variant=60854383706482)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
   - [3XL](https://pikarufashion.com/products/maxi-magenta-ethnic-vine-print-cotton-maxi-dress-1?variant=60854383739250)
     Availability: Available
-    Price: $35.00 USD
+    Price: $19.99 USD
 - [Shirt Red Ikat Panelled Cotton Shirt Dress with Button Front](https://pikarufashion.com/products/shirt-red-ikat-cotton-shirt-dress-with-button-front-1): Red Ikat Panelled Cotton Shirt Dress with Button Front & Side Slits Price: $49.99 USD | Shipping: Free Worldwide Shipping | Delivery: 7–14 Business Days
-  Updated: 2025-11-29T18:34:29Z
+  Updated: 2025-12-19T06:04:22Z
   Vendor: PIKARU FASHION
   Product Type: shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at12.26.33_1.jpg?v=1764047144
   - [S](https://pikarufashion.com/products/shirt-red-ikat-cotton-shirt-dress-with-button-front-1?variant=60854485614962)
     Availability: Available
-    Price: $49.99 USD
+    Price: $17.78 USD
   - [M](https://pikarufashion.com/products/shirt-red-ikat-cotton-shirt-dress-with-button-front-1?variant=60854485647730)
-    Availability: Not Available
-    Price: $49.99 USD
+    Availability: Available
+    Price: $17.78 USD
   - [L](https://pikarufashion.com/products/shirt-red-ikat-cotton-shirt-dress-with-button-front-1?variant=60854485680498)
-    Availability: Not Available
-    Price: $49.99 USD
+    Availability: Available
+    Price: $17.78 USD
   - [XL](https://pikarufashion.com/products/shirt-red-ikat-cotton-shirt-dress-with-button-front-1?variant=60854485713266)
-    Availability: Not Available
-    Price: $49.99 USD
+    Availability: Available
+    Price: $17.78 USD
 - [Shirt -Floral Cotton Shirt Dark Green Button Front & Pockets](https://pikarufashion.com/products/shirt-dark-green-floral-cotton-shirt-dress-with-side-pockets-1): Floral Cotton Shirt- Dark Green | Discover side pockets, perfect for office and casual wear. Made from soft cotton for all-day comfort.
-  Updated: 2025-11-29T18:35:20Z
+  Updated: 2025-12-19T06:04:14Z
   Vendor: PIKARU FASHION
   Product Type: shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at12.26.28_1.jpg?v=1764047127
   - [S](https://pikarufashion.com/products/shirt-dark-green-floral-cotton-shirt-dress-with-side-pockets-1?variant=60854491087218)
     Availability: Available
-    Price: $49.99 USD
+    Price: $17.78 USD
   - [M](https://pikarufashion.com/products/shirt-dark-green-floral-cotton-shirt-dress-with-side-pockets-1?variant=60854491119986)
     Availability: Available
-    Price: $49.99 USD
+    Price: $17.78 USD
   - [L](https://pikarufashion.com/products/shirt-dark-green-floral-cotton-shirt-dress-with-side-pockets-1?variant=60854491152754)
     Availability: Available
-    Price: $49.99 USD
+    Price: $17.78 USD
   - [XL](https://pikarufashion.com/products/shirt-dark-green-floral-cotton-shirt-dress-with-side-pockets-1?variant=60854491185522)
     Availability: Available
-    Price: $49.99 USD
+    Price: $17.78 USD
   - [2XL](https://pikarufashion.com/products/shirt-dark-green-floral-cotton-shirt-dress-with-side-pockets-1?variant=60854491218290)
     Availability: Available
-    Price: $49.99 USD
+    Price: $17.78 USD
 - [Black & White Ikat Maxi Dress | Boho Cotton Tassel Long Dress](https://pikarufashion.com/products/black-white-ikat-printed-maxi-dress-with-tassel-tie-boho-cotton-long-dress): Black and white Ikat printed maxi dress with tassel tie and relaxed sleeves. Soft, breathable, and perfect for casual, boho, beach, and everyday styling.
-  Updated: 2025-12-03T05:50:45Z
+  Updated: 2025-12-19T06:04:13Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at12.26.25_2.jpg?v=1764741035
   - [S](https://pikarufashion.com/products/black-white-ikat-printed-maxi-dress-with-tassel-tie-boho-cotton-long-dress?variant=60865757446514)
     Availability: Available
-    Price: $51.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/black-white-ikat-printed-maxi-dress-with-tassel-tie-boho-cotton-long-dress?variant=60865757479282)
     Availability: Available
-    Price: $51.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/black-white-ikat-printed-maxi-dress-with-tassel-tie-boho-cotton-long-dress?variant=60865757512050)
     Availability: Available
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/black-white-ikat-printed-maxi-dress-with-tassel-tie-boho-cotton-long-dress?variant=60865757544818)
     Availability: Available
-    Price: $60.00 USD
+    Price: $19.99 USD
   - [2XL](https://pikarufashion.com/products/black-white-ikat-printed-maxi-dress-with-tassel-tie-boho-cotton-long-dress?variant=60865757577586)
     Availability: Available
-    Price: $65.00 USD
+    Price: $19.99 USD
 - [Navy Blue Embroidered Maxi Dress | Sleeveless A-Line Summer Dress](https://pikarufashion.com/products/navy-blue-sleeveless-maxi-dress-with-white-floral-embroidery-elegant-a-line-dress): Elegant navy blue sleeveless maxi dress with white floral embroidery. Flowy, comfortable, and perfect for summer, parties, travel, and everyday chic wear.
-  Updated: 2025-11-29T09:56:52Z
+  Updated: 2025-12-19T06:04:13Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at12.26.25_1.jpg?v=1764410207
   - [S](https://pikarufashion.com/products/navy-blue-sleeveless-maxi-dress-with-white-floral-embroidery-elegant-a-line-dress?variant=60865757905266)
     Availability: Available
-    Price: $49.00 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/navy-blue-sleeveless-maxi-dress-with-white-floral-embroidery-elegant-a-line-dress?variant=60865757938034)
     Availability: Available
-    Price: $49.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/navy-blue-sleeveless-maxi-dress-with-white-floral-embroidery-elegant-a-line-dress?variant=60865757970802)
     Availability: Available
-    Price: $51.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/navy-blue-sleeveless-maxi-dress-with-white-floral-embroidery-elegant-a-line-dress?variant=60865758003570)
     Availability: Available
-    Price: $53.00 USD
+    Price: $18.99 USD
   - [2XL](https://pikarufashion.com/products/navy-blue-sleeveless-maxi-dress-with-white-floral-embroidery-elegant-a-line-dress?variant=60865758036338)
     Availability: Available
-    Price: $58.00 USD
+    Price: $18.99 USD
 - [Boho Patchwork Maxi Skirt | Handmade Cotton Gypsy Long Skirt](https://pikarufashion.com/products/multicolor-boho-patchwork-maxi-skirt-handmade-cotton-gypsy-long-skirt): Handmade multicolor patchwork maxi skirt with vibrant printed tiers. Lightweight, flowy, and perfect for boho, gypsy, beach, travel, and festival fashion.
-  Updated: 2025-11-29T09:56:44Z
+  Updated: 2025-12-19T06:04:13Z
   Vendor: PIKARU FASHION
   Product Type: skirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-20at12.26.24.jpg?v=1764410186
   - [S](https://pikarufashion.com/products/multicolor-boho-patchwork-maxi-skirt-handmade-cotton-gypsy-long-skirt?variant=60865761771890)
     Availability: Available
-    Price: $58.00 USD
+    Price: $27.68 USD
   - [M](https://pikarufashion.com/products/multicolor-boho-patchwork-maxi-skirt-handmade-cotton-gypsy-long-skirt?variant=60865761804658)
     Availability: Available
-    Price: $58.00 USD
+    Price: $27.68 USD
   - [L](https://pikarufashion.com/products/multicolor-boho-patchwork-maxi-skirt-handmade-cotton-gypsy-long-skirt?variant=60865761837426)
     Availability: Available
-    Price: $58.00 USD
+    Price: $27.68 USD
   - [XL](https://pikarufashion.com/products/multicolor-boho-patchwork-maxi-skirt-handmade-cotton-gypsy-long-skirt?variant=60865761870194)
     Availability: Available
-    Price: $58.00 USD
-- [Hand-Embroidered Quilted Floral Jacket | Vintage coat](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat): Hand-embroidered quilted floral jacket with botanical detailing. Warm, elegant, and vintage-inspired. Perfect for winter, layering, and statement boho styling.
-  Updated: 2025-11-29T21:52:28Z
-  Vendor: PIKARU FASHION
-  Product Type: jacket
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53_1.jpg?v=1764410174
-  - [S / Black](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992753522)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53_1.jpg?v=1764410174
-    Price: $120.00 USD
-  - [S / White](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992786290)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53.jpg?v=1764410176
-    Price: $120.00 USD
-  - [S / Beige](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992819058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.54.jpg?v=1764410182
-    Price: $120.00 USD
-  - [M / Black](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992851826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53_1.jpg?v=1764410174
-    Price: $120.00 USD
-  - [M / White](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992884594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53.jpg?v=1764410176
-    Price: $120.00 USD
-  - [M / Beige](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992917362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.54.jpg?v=1764410182
-    Price: $120.00 USD
-  - [L / Black](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992950130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53_1.jpg?v=1764410174
-    Price: $120.00 USD
-  - [L / White](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865992982898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53.jpg?v=1764410176
-    Price: $120.00 USD
-  - [L / Beige](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993015666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.54.jpg?v=1764410182
-    Price: $120.00 USD
-  - [XL / Black](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993048434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53_1.jpg?v=1764410174
-    Price: $120.00 USD
-  - [XL / White](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993081202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53.jpg?v=1764410176
-    Price: $120.00 USD
-  - [XL / Beige](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993113970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.54.jpg?v=1764410182
-    Price: $120.00 USD
-  - [2XL / Black](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993146738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53_1.jpg?v=1764410174
-    Price: $120.00 USD
-  - [2XL / White](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993179506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.53.jpg?v=1764410176
-    Price: $120.00 USD
-  - [2XL / Beige](https://pikarufashion.com/products/hand-embroidered-quilted-floral-jacket-women-s-vintage-botanical-coat?variant=60865993212274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-29at11.41.54.jpg?v=1764410182
-    Price: $120.00 USD
+    Price: $27.68 USD
 - [Maxi - Blue Boho Dress with Balloon Sleeves | Ethnic Cotton](https://pikarufashion.com/products/maxi-handcrafted-blue-boho-dress-with-balloon-sleeves-1): Handcrafted blue boho maxi dress with balloon sleeves, ethnic block print, and tassel tie neckline. Comfortable cotton and perfect for summer, travel, everyday.
-  Updated: 2025-11-29T21:49:55Z
+  Updated: 2025-12-19T06:04:13Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.27.18.jpg?v=1764410150
   - [S](https://pikarufashion.com/products/maxi-handcrafted-blue-boho-dress-with-balloon-sleeves-1?variant=60865995080050)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/maxi-handcrafted-blue-boho-dress-with-balloon-sleeves-1?variant=60865995112818)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/maxi-handcrafted-blue-boho-dress-with-balloon-sleeves-1?variant=60865995145586)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/maxi-handcrafted-blue-boho-dress-with-balloon-sleeves-1?variant=60865995178354)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [2XL](https://pikarufashion.com/products/maxi-handcrafted-blue-boho-dress-with-balloon-sleeves-1?variant=60865995211122)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
 - [maxi dress - Mint Green Boho Maxi Dress with Balloon Sleeves](https://pikarufashion.com/products/maxi-dress-mint-green-boho-dress-with-balloon-sleeves-1): Mint green boho maxi dress with geometric print, extra-voluminous balloon sleeves, and tassel tie neckline. Soft cotton, relaxed fit, perfect for summer
-  Updated: 2025-11-29T21:47:23Z
+  Updated: 2025-12-19T06:04:11Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.27.15.jpg?v=1764410138
   - [S](https://pikarufashion.com/products/maxi-dress-mint-green-boho-dress-with-balloon-sleeves-1?variant=60865996718450)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/maxi-dress-mint-green-boho-dress-with-balloon-sleeves-1?variant=60865996751218)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/maxi-dress-mint-green-boho-dress-with-balloon-sleeves-1?variant=60865996783986)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/maxi-dress-mint-green-boho-dress-with-balloon-sleeves-1?variant=60865996816754)
     Availability: Available
-    Price: $45.00 USD
+    Price: $19.99 USD
 - [Tribal Patchwork Boho Maxi Dress – Balloon Sleeve Cotton Maxi](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi): Black tribal patchwork boho maxi dress with balloon sleeves and ethnic prints. Lightweight cotton, relaxed fit, perfect for summer and travel.
-  Updated: 2025-12-03T06:34:10Z
+  Updated: 2025-12-19T06:04:11Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
@@ -5403,131 +5337,131 @@
   - [S / sky blue](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000224626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.22.jpg?v=1764410099
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [S / Yellow](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000257394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.25_1.jpg?v=1764410102
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [S / Black](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000290162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.24_2.jpg?v=1764410106
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [M / sky blue](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000322930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.22.jpg?v=1764410099
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [M / Yellow](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000355698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.25_1.jpg?v=1764410102
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [M / Black](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000388466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.24_2.jpg?v=1764410106
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [L / sky blue](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000421234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.22.jpg?v=1764410099
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [L / Yellow](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000454002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.25_1.jpg?v=1764410102
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [L / Black](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000486770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.24_2.jpg?v=1764410106
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [XL / sky blue](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000519538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.22.jpg?v=1764410099
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [XL / Yellow](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000552306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.25_1.jpg?v=1764410102
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [XL / Black](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000585074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.24_2.jpg?v=1764410106
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [2XL / sky blue](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000617842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.22.jpg?v=1764410099
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [2XL / Yellow](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000650610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.25_1.jpg?v=1764410102
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [2XL / Black](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000683378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.24_2.jpg?v=1764410106
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [3XL / sky blue](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000716146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.22.jpg?v=1764410099
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [3XL / Yellow](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000748914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.25_1.jpg?v=1764410102
-    Price: $49.99 USD
+    Price: $19.99 USD
   - [3XL / Black](https://pikarufashion.com/products/tribal-patchwork-boho-maxi-dress-balloon-sleeve-cotton-maxi?variant=60866000781682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at16.24.24_2.jpg?v=1764410106
-    Price: $49.99 USD
+    Price: $19.99 USD
 - [Indigo Bohemian Maxi Dress – Oversized Balloon Sleeves & Tassel](https://pikarufashion.com/products/indigo-bohemian-maxi-dress-oversized-balloon-sleeves-tassel-neckline): 🌿 Indigo Blue Boho Maxi Dress – Handcrafted Elegance & Everyday Comfort Step into effortless bohemian charm with this stunning Indigo Blue Block Print Maxi
-  Updated: 2025-12-03T06:34:09Z
+  Updated: 2025-12-19T06:04:11Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at13.04.06.jpg?v=1764410082
   - [S](https://pikarufashion.com/products/indigo-bohemian-maxi-dress-oversized-balloon-sleeves-tassel-neckline?variant=60866001764722)
     Availability: Available
-    Price: $42.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/indigo-bohemian-maxi-dress-oversized-balloon-sleeves-tassel-neckline?variant=60866001797490)
     Availability: Available
-    Price: $42.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/indigo-bohemian-maxi-dress-oversized-balloon-sleeves-tassel-neckline?variant=60866001830258)
     Availability: Available
-    Price: $42.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/indigo-bohemian-maxi-dress-oversized-balloon-sleeves-tassel-neckline?variant=60866001863026)
     Availability: Available
-    Price: $42.00 USD
+    Price: $19.99 USD
 - [Sunburst Mustard Boho Maxi Dress | Lightweight Cotton Maxi](https://pikarufashion.com/products/sunburst-mustard-boho-maxi-dress-puff-sleeve-cotton-maxi): Shop the Sunburst Mustard Boho Maxi Dress — airy cotton, statement puff sleeves, hand-block print vibes. Perfect for summer, travel & weekend . Free shipping
-  Updated: 2025-12-03T06:34:08Z
+  Updated: 2025-12-19T06:04:11Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at13.04.01.jpg?v=1764410063
   - [S](https://pikarufashion.com/products/sunburst-mustard-boho-maxi-dress-puff-sleeve-cotton-maxi?variant=60866005959026)
     Availability: Available
-    Price: $46.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/sunburst-mustard-boho-maxi-dress-puff-sleeve-cotton-maxi?variant=60866005991794)
     Availability: Available
-    Price: $46.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/sunburst-mustard-boho-maxi-dress-puff-sleeve-cotton-maxi?variant=60866006024562)
     Availability: Available
-    Price: $46.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/sunburst-mustard-boho-maxi-dress-puff-sleeve-cotton-maxi?variant=60866006057330)
     Availability: Available
-    Price: $46.00 USD
+    Price: $19.99 USD
 - [Red Striped Boho Maxi Dress with Balloon Sleeves & Tassel Tie Neck](https://pikarufashion.com/products/red-striped-boho-maxi-dress-with-balloon-sleeves-tassel-tie-neck): Boho red striped maxi dress with dramatic balloon sleeves and tassel tie neck. Lightweight cotton, relaxed fit, perfect for summer and vacations.
-  Updated: 2025-12-03T06:34:07Z
+  Updated: 2025-12-19T06:04:09Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at13.04.02.jpg?v=1764410049
   - [S](https://pikarufashion.com/products/red-striped-boho-maxi-dress-with-balloon-sleeves-tassel-tie-neck?variant=60866016936306)
     Availability: Available
-    Price: $49.00 USD
+    Price: $19.99 USD
   - [M](https://pikarufashion.com/products/red-striped-boho-maxi-dress-with-balloon-sleeves-tassel-tie-neck?variant=60866016969074)
     Availability: Available
-    Price: $49.00 USD
+    Price: $19.99 USD
   - [L](https://pikarufashion.com/products/red-striped-boho-maxi-dress-with-balloon-sleeves-tassel-tie-neck?variant=60866017001842)
     Availability: Available
-    Price: $49.00 USD
+    Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/red-striped-boho-maxi-dress-with-balloon-sleeves-tassel-tie-neck?variant=60866017034610)
     Availability: Available
-    Price: $49.00 USD
+    Price: $19.99 USD
 - [maxi dress Boho Printed Maxi Dress | Balloon Sleeves](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1): Beautiful red boho printed maxi dress with balloon sleeves, flowy silhouette, and tassel tie neckline. Perfect for casual, travel, and everyday wear.
-  Updated: 2025-11-30T18:03:40Z
+  Updated: 2025-12-19T06:04:10Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
@@ -5535,238 +5469,238 @@
   - [S / Blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866033942898)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at10.47.22.jpg?v=1764410006
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [S / Purple](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866033975666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.50.jpg?v=1764410009
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [S / Red](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034008434)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-18at15.54.34.jpg?v=1764410013
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [S / sky blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034041202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.48_1.jpg?v=1764410016
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [M / Blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034073970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at10.47.22.jpg?v=1764410006
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [M / Purple](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034106738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.50.jpg?v=1764410009
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [M / Red](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034139506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-18at15.54.34.jpg?v=1764410013
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [M / sky blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034172274)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.48_1.jpg?v=1764410016
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [L / Blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034205042)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at10.47.22.jpg?v=1764410006
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [L / Purple](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034237810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.50.jpg?v=1764410009
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [L / Red](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034270578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-18at15.54.34.jpg?v=1764410013
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [L / sky blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034303346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.48_1.jpg?v=1764410016
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [XL / Blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034336114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at10.47.22.jpg?v=1764410006
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [XL / Purple](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034368882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.50.jpg?v=1764410009
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [XL / Red](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034401650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-18at15.54.34.jpg?v=1764410013
-    Price: $55.00 USD
+    Price: $19.99 USD
   - [XL / sky blue](https://pikarufashion.com/products/maxi-dress-boho-printed-with-balloon-sleeves-tassel-neckline-1?variant=60866034434418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/WhatsAppImage2025-11-19at12.59.48_1.jpg?v=1764410016
-    Price: $55.00 USD
+    Price: $19.99 USD
 - [Handmade Suzani Embroidered Jacket | Boho Kimono Cardigan](https://pikarufashion.com/products/handmade-suzani-embroidered-jacket-bohemian-kimono-cardigan): ⭐Handmade Suzani embroidered jacket with tassels. Unique kimono cardigan for women. Perfect for layering, festivals, and artisanal fashion lovers.
-  Updated: 2025-12-02T08:50:16Z
+  Updated: 2025-12-19T06:04:09Z
   Vendor: PIKARU FASHION
   Product Type: jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/023_2.jpg?v=1764665406
   - [S](https://pikarufashion.com/products/handmade-suzani-embroidered-jacket-bohemian-kimono-cardigan?variant=61072580837746)
     Availability: Available
-    Price: $66.00 USD
+    Price: $49.99 USD
   - [M](https://pikarufashion.com/products/handmade-suzani-embroidered-jacket-bohemian-kimono-cardigan?variant=61072580870514)
     Availability: Available
-    Price: $66.00 USD
+    Price: $49.99 USD
   - [L](https://pikarufashion.com/products/handmade-suzani-embroidered-jacket-bohemian-kimono-cardigan?variant=61072580903282)
     Availability: Available
-    Price: $66.00 USD
+    Price: $49.99 USD
   - [XL](https://pikarufashion.com/products/handmade-suzani-embroidered-jacket-bohemian-kimono-cardigan?variant=61072580936050)
     Availability: Available
-    Price: $66.00 USD
+    Price: $49.99 USD
 - [Multicolor Suzani Embroidered Boho Jacket | Free Size](https://pikarufashion.com/products/multicolor-suzani-embroidered-boho-jacket-free-size): Vibrant Multicolor Suzani Embroidered Boho Jacket. Lightweight lined cotton, free-size kimono silhouette with detachable belt. Free shipping From INDIA.
-  Updated: 2025-12-02T08:50:04Z
+  Updated: 2025-12-19T06:04:09Z
   Vendor: PIKARU FASHION
   Product Type: jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/24_2.jpg?v=1764665398
-  Price: $88.00 USD
+  Price: $49.99 USD
 - [Handmade Embroidered Two-Piece Crop Top & Shorts | Boho Wear](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants): Handmade Embroidered Two-Piece crop top and shorts set in green or maroon leaf patterns. Breathable cotton, perfect summer co-ord. Free shipping across India.
-  Updated: 2025-12-02T08:49:57Z
+  Updated: 2025-12-19T20:14:16Z
   Vendor: PIKARU FASHION
   Product Type: two piece set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/002_3.jpg?v=1764665371
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/001_2.jpg?v=1766132047
   - [S / Green](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087140872562)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [S / Red](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087140905330)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [M / Green](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087140938098)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [M / Red](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087140970866)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [L / Green](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141003634)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [L / Red](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141036402)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [XL / Green](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141069170)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [XL / Red](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141101938)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [2XL / Green](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141134706)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [2XL / Red](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141167474)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [One size / Green](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141200242)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
   - [One size / Red](https://pikarufashion.com/products/handmade-embroidered-two-piece-crop-top-shorts-set-green-maroon-variants?variant=61087141233010)
     Availability: Available
-    Price: $99.00 USD
+    Price: $44.99 USD
 - [Red Embroidered Maxi Dress with Belt | Pikaru Fashion](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion): Discover this red embroidered maxi dress with belt from Pikaru Fashion – featuring full sleeves, a maxi length, and intricate detailing for festive occasions.
-  Updated: 2025-12-02T19:26:06Z
+  Updated: 2025-12-19T06:04:08Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/01_9.webp?v=1764665357
   - [S](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion?variant=61124247716210)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [M](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion?variant=61124247748978)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [L](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion?variant=61124247781746)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [XL](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion?variant=61124247814514)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [2XL](https://pikarufashion.com/products/red-embroidered-maxi-dress-with-belt-pikaru-fashion?variant=61124247847282)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
 - [Black & Red Embroidered Midi Dress – Boho Chic |](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt): Elevate your style with this black & red embroidered midi dress with tassel belt — boho chic, sheer sleeves & perfect for festive or evening wear. Shop now
-  Updated: 2025-12-16T07:07:02Z
+  Updated: 2025-12-19T06:04:08Z
   Vendor: PIKARU FASHION
   Product Type: midi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/il_794xN.6546377493_8k85.webp?v=1764741034
   - [S](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt?variant=61129752019314)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [M](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt?variant=61129752052082)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [L](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt?variant=61129752084850)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [XL](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt?variant=61129752117618)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
   - [2XL](https://pikarufashion.com/products/black-red-embroidered-midi-dress-with-tassel-belt?variant=61129752150386)
     Availability: Available
-    Price: $121.00 USD
+    Price: $110.11 USD
 - [Floral Night Suit for Women | Soft Cotton Printed Pajama Set](https://pikarufashion.com/products/products-floral-night-suit-for-women): Floral Night Suit for Women with soft breathable fabric, premium print and perfect comfort. Shop stylish printed pajama set for daily wear & gifting.
-  Updated: 2025-12-04T06:24:31Z
+  Updated: 2025-12-19T06:04:08Z
   Vendor: PIKARU FASHION
   Product Type: cord set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/012_5_a9fd036a-c0a3-48dc-82e1-42f4f4816434.jpg?v=1764829460
   - [S](https://pikarufashion.com/products/products-floral-night-suit-for-women?variant=61207468048754)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/products-floral-night-suit-for-women?variant=61207468081522)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/products-floral-night-suit-for-women?variant=61207468114290)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/products-floral-night-suit-for-women?variant=61207468147058)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [2XL](https://pikarufashion.com/products/products-floral-night-suit-for-women?variant=61207468179826)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
 - [Ikat Night Suit for Women | Soft Cotton Pajama Set](https://pikarufashion.com/products/products-ikat-night-suit-for-women): Ikat night suit for women in soft breathable cotton with premium navy & white print. Comfortable pajama set perfect for sleepwear and daily home wear.
-  Updated: 2025-12-04T06:24:25Z
+  Updated: 2025-12-19T06:04:07Z
   Vendor: PIKARU FASHION
   Product Type: cord set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/011_6.jpg?v=1764829452
   - [S](https://pikarufashion.com/products/products-ikat-night-suit-for-women?variant=61207476142450)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/products-ikat-night-suit-for-women?variant=61207476175218)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/products-ikat-night-suit-for-women?variant=61207476207986)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/products-ikat-night-suit-for-women?variant=61207476240754)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [2XL](https://pikarufashion.com/products/products-ikat-night-suit-for-women?variant=61207476273522)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
 - [Women’s Red Floral Cotton Night Suit–Soft Printed Nightwear](https://pikarufashion.com/products/women-s-red-floral-cotton-night-suit): Bright red floral print cotton Women’s Red Floral Cotton Night Suit. Soft, breathable, stylish pyjama set for everyday lounging and nightwear comfort.
-  Updated: 2025-12-04T06:24:12Z
+  Updated: 2025-12-19T06:04:07Z
   Vendor: PIKARU FASHION
   Product Type: cord set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/010_6.jpg?v=1764829438
   - [M](https://pikarufashion.com/products/women-s-red-floral-cotton-night-suit?variant=61207480271218)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/women-s-red-floral-cotton-night-suit?variant=61207480303986)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/women-s-red-floral-cotton-night-suit?variant=61207480336754)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
   - [2XL](https://pikarufashion.com/products/women-s-red-floral-cotton-night-suit?variant=61207480369522)
     Availability: Available
-    Price: $18.00 USD
+    Price: $18.99 USD
 - [Boho Tie-Dye Kimono Shrug for Women | Boho Beach Cover-Up](https://pikarufashion.com/products/boho-tie-dye-kimono-shrug-for-women): ✨ Lightweight boho tie-dye kimono for women. Perfect beach, travel & summer layering shrug with fringes. Free size. Premium soft fabric.
-  Updated: 2025-12-05T06:35:45Z
+  Updated: 2025-12-19T06:04:07Z
   Vendor: PIKARU FASHION
   Product Type: Tie Dye Kimono
   Availability: Available
@@ -5774,142 +5708,142 @@
   - [One size / Blue](https://pikarufashion.com/products/boho-tie-dye-kimono-shrug-for-women?variant=61207637033330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/il_1588xN.4681871808_jw9b.webp?v=1764829429
-    Price: $49.00 USD
+    Price: $47.76 USD
   - [One size / Brown](https://pikarufashion.com/products/boho-tie-dye-kimono-shrug-for-women?variant=61207637066098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/il_1588xN.4730096789_mn8t.webp?v=1764829434
-    Price: $49.00 USD
+    Price: $47.76 USD
 - [Cotton Printed Night Suit Set – Comfortable Button](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama): Cotton Printed Night Suit Set offers cozy comfort with its stylish button-down shirt & matching pyjama. Sleep peacefully in elegant design.
-  Updated: 2025-12-08T06:52:45Z
+  Updated: 2025-12-19T06:04:07Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/09_6_e7137529-fcdc-402a-826b-6bbe73259283.jpg?v=1765176745
   - [S](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama?variant=61234240422258)
     Availability: Not Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama?variant=61234240455026)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama?variant=61234240487794)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama?variant=61234240520562)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [2XL](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama?variant=61234240553330)
     Availability: Not Available
-    Price: $19.00 USD
+    Price: $18.99 USD
 - [Black Floral Cotton Pyjama Set – Soft & Breathable](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable): Shop the Women’s Black Floral Cotton Pyjama Set for soft, breathable comfort and stylish nighttime style that you will love.
-  Updated: 2025-12-08T06:52:31Z
+  Updated: 2025-12-19T06:04:07Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/08_5.jpg?v=1765176737
   - [S](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824230770)
-    Availability: Not Available
-    Price: $19.00 USD
+    Availability: Available
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824263538)
     Availability: Not Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824296306)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824329074)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [2XL](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824361842)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
 - [Pink Floral Cotton Quilted Pyjama Set — Women’s Loungewear](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print): Pink Floral Cotton Quilted Pyjama Set with vintage pink floral print, piped collar & pockets. Lightweight, breathable, true-to-size — perfect for lounging
-  Updated: 2025-12-08T18:44:00Z
+  Updated: 2025-12-19T06:04:05Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_6.jpg?v=1765176729
   - [S](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print?variant=61245988372850)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print?variant=61245988405618)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print?variant=61245988438386)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print?variant=61245988471154)
     Availability: Available
-    Price: $19.00 USD
+    Price: $18.99 USD
 - [Mustard Yellow Block-Print Cotton Pyjama Set](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set): Mustard Yellow Block-Print Cotton Pyjama Set: Stay cozy with this soft and lightweight 2-piece set. Perfect for lounging at home!
-  Updated: 2025-12-08T18:51:01Z
+  Updated: 2025-12-19T06:04:05Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/06_2_d6ce94e0-6b08-4ae6-b194-891246a580a3.jpg?v=1765176722
   - [S](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694785394)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694818162)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694850930)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694883698)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
 - [Cream & Purple Floral Cotton Pyjama Set](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set): Shop the Cream & Purple Floral Cotton pyjama Set for cozy nights. This 2-piece sleepwear is stylish and comfortable at just $19.99!
-  Updated: 2025-12-08T18:48:52Z
+  Updated: 2025-12-19T06:04:05Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/05_6_e8fa0c8a-b642-4e20-b20a-ecf6a6a2e1ca.jpg?v=1765176707
   - [L](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set?variant=61335028728178)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set?variant=61335028760946)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
 - [Purple Geometric Block-Print Cotton Pyjama Set](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set): Beautiful Purple Geometric Block-Print Cotton Pyjama Set with white geometric block-print, soft breathable fabric, button-down top & drawstring pants.
-  Updated: 2025-12-08T18:47:09Z
+  Updated: 2025-12-19T06:04:04Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/04_5.jpg?v=1765176699
   - [S](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030137202)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [M](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030169970)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [L](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030202738)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
   - [XL](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030235506)
     Availability: Available
-    Price: $19.99 USD
+    Price: $18.99 USD
 - [Black Kashmiri Aari Embroidered Long Jacket](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket): Elegant black Kashmiri Aari embroidered long jacket with rich multicoloured floral handwork. Premium winter ethnic wear for women. Perfect for parties.
-  Updated: 2025-12-12T21:01:32Z
+  Updated: 2025-12-19T06:04:03Z
   Vendor: PIKARU FASHION
   Product Type: jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Screenshot2025-12-08125811.jpg?v=1765196017
   - [S](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584070002)
     Availability: Available
-    Price: $150.00 USD
+    Price: $139.00 USD
   - [M](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584102770)
     Availability: Available
-    Price: $150.00 USD
+    Price: $139.00 USD
   - [L](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584135538)
     Availability: Available
-    Price: $150.00 USD
+    Price: $139.00 USD
   - [XL](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584168306)
     Availability: Available
-    Price: $150.00 USD
+    Price: $139.00 USD
   - [2XL](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584201074)
     Availability: Available
-    Price: $170.00 USD
+    Price: $139.00 USD
 - [Pink Ikat Boho Maxi Dress – Free Size| PIKARU FASHION](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress): 🌺 Pink Ikat Printed Boho Maxi Dress – Free Size | Balloon Sleeves | 100% Soft Cotton Step into effortless elegance with our Handmade Pink Ikat Boho Maxi Dress
-  Updated: 2025-12-10T10:46:45Z
+  Updated: 2025-12-19T06:04:10Z
   Vendor: PIKARU FASHION
   Product Type: maxi dress
   Availability: Available
@@ -5918,19 +5852,19 @@
     Availability: Available
     Price: $19.99 USD
   - [S](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323932018)
-    Availability: Not Available
+    Availability: Available
     Price: $19.99 USD
   - [M](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323964786)
-    Availability: Not Available
+    Availability: Available
     Price: $19.99 USD
   - [L](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349323997554)
-    Availability: Not Available
+    Availability: Available
     Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress?variant=61349324030322)
-    Availability: Not Available
+    Availability: Available
     Price: $19.99 USD
 - [Boho Tassel Midi Dress — Aqua Diamond Print | PIKARU FASHION](https://pikarufashion.com/products/boho-tassel-midi-dress-aqua-diamond-print-puff-sleeves): Shop the airy Boho Tassel Midi Dress in an aqua diamond print. Lightweight, puff sleeves, tassel tie neckline — perfect for summer, beach,, Available in S–XL.
-  Updated: 2025-12-09T19:01:43Z
+  Updated: 2025-12-19T06:04:03Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Midi Dresses
   Availability: Available
@@ -5948,7 +5882,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Crimson Floral Tassel Midi Dress—Puff Sleeves | PIKARU STORE](https://pikarufashion.com/products/crimson-floral-tassel-midi-dress): Discover the Crimson Floral Tassel Midi Dress — puff sleeves, gathered waist, and playful tassel ties. Lightweight and flattering for day or evening. SIZE S-XL.
-  Updated: 2025-12-09T19:03:18Z
+  Updated: 2025-12-19T06:04:02Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Midi Dresses / Boho Dresses
   Availability: Available
@@ -5966,7 +5900,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Multi-Colour Floral Boho Midi Dress — Puff Sleeves & Tassel](https://pikarufashion.com/products/multi-colour-floral-boho-midi-dress-puff-sleeves): Discover the charm of our Multi-Colour Floral Boho Midi Dress. Perfect puff sleeves enhance its vibrant, flowy design for any occasion.
-  Updated: 2025-12-09T19:35:50Z
+  Updated: 2025-12-19T06:04:02Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Floral / Midi
   Availability: Available
@@ -5984,7 +5918,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Handblock Floral Boho Midi Dress—Puff Sleeves](https://pikarufashion.com/products/handblock-floral-boho-midi-dress): A breezy Handblock Floral Boho Midi Dress, featuring puff sleeves, a gathered waist, and a tassel-tie neckline — perfect for everyday.
-  Updated: 2025-12-13T08:54:41Z
+  Updated: 2025-12-19T06:04:02Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Handblock / Midi
   Availability: Available
@@ -6002,7 +5936,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Navy Botanical Boho Midi Dress— Puff Sleeves & Tassel Neck](https://pikarufashion.com/products/navy-botanical-boho-midi-dress-multicolor-floral-print): Shop the Navy Botanical Boho Midi Dress with vibrant floral print, puff sleeves, and tassel tie neckline. Lightweight, stylish & perfect for outings or daily
-  Updated: 2025-12-13T08:54:12Z
+  Updated: 2025-12-19T06:04:02Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Floral / Midi
   Availability: Available
@@ -6020,7 +5954,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Boho Midi Dress -Floral Weave with Puff Sleeves & Tassel Tie](https://pikarufashion.com/products/ivory-jacquard-boho-midi-dress): Elevate your style with this Ivory Jacquard Boho Midi Dress featuring a textured floral weave, puff sleeves, and tassel tie neckline. Sizes S–XL.
-  Updated: 2025-12-16T07:08:57Z
+  Updated: 2025-12-19T06:04:01Z
   Vendor: PIKARU FASHION
   Product Type: Dresses → Boho / Jacquard / Midi
   Availability: Available
@@ -6038,126 +5972,120 @@
     Availability: Available
     Price: $19.99 USD
 - [Suzani Coat with Fur Collar & Cuffs–Handcrafted Boho Jacket](https://pikarufashion.com/products/suzani-coat-with-fur-collar-cuffs-handcrafted-boho-jacket): A luxurious handcrafted Suzani coat with multicolour floral detailing, curly fur collar, and fur cuffs. A statement artisanal boho outerwear
-  Updated: 2025-12-16T07:07:52Z
+  Updated: 2025-12-19T06:04:01Z
   Vendor: PIKARU FASHION
   Product Type: Outerwear → Jackets / Coats → Embroidered / Velvet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Suzanicoat.webp?v=1765615982
-  Price: $499.00 USD
+  Price: $222.15 USD
 - [hand-embroidered Sujani vest Sheepskin Trim - Artisan](https://pikarufashion.com/products/hand-embroidered-sujani-vest): Hand-embroidered Sujani vest with plush sheepskin trim. Ethnic motifs, cozy fit, pockets. Limited edition artisan piece — free domestic shipping.
-  Updated: 2025-12-13T21:07:55Z
+  Updated: 2025-12-19T06:04:01Z
   Vendor: PIKARU FASHION
   Product Type: Women’s Vests / Outerwear / Ethnic Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/sujani03.webp?v=1765615949
   - [S](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505901426)
     Availability: Available
-    Price: $399.00 USD
+    Price: $222.15 USD
   - [M](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505934194)
     Availability: Available
-    Price: $399.00 USD
+    Price: $222.15 USD
   - [L](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505966962)
     Availability: Available
-    Price: $399.00 USD
+    Price: $222.15 USD
   - [XL](https://pikarufashion.com/products/hand-embroidered-sujani-vest?variant=61352505999730)
     Availability: Available
-    Price: $399.00 USD
+    Price: $222.15 USD
 - [Puff Sleeve Midi Dress for Women](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women): : Shop elegant brown Puff Sleeve Midi Dress , V-neck design and textured jacquard fabric. Perfect for parties, dinners & casual chic looks.
-  Updated: 2025-12-16T07:06:07Z
+  Updated: 2025-12-20T06:12:33Z
   Vendor: PIKARU FASHION
   Product Type: Women’s Dress / Midi Dress
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/8176052b4ce5ee04dbfa14fca653a2c9.webp?v=1765863971
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/8176052b4ce5ee04dbfa14fca653a2c9.webp?v=1766211138
   - [S](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825842034)
     Availability: Available
-    Price: $79.99 USD
+    Price: $55.00 USD
   - [M](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825874802)
     Availability: Available
-    Price: $79.99 USD
+    Price: $55.00 USD
   - [L](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825907570)
     Availability: Available
-    Price: $79.99 USD
+    Price: $55.00 USD
   - [XL](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825940338)
     Availability: Available
-    Price: $79.99 USD
+    Price: $55.00 USD
   - [2XL](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380825973106)
     Availability: Available
-    Price: $79.99 USD
+    Price: $55.00 USD
   - [3XL](https://pikarufashion.com/products/puff-sleeve-midi-dress-for-women?variant=61380826005874)
     Availability: Available
-    Price: $79.99 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg2ODg2NjUzMTY5OCwibGFzdF92YWx1ZSI6IjE0ODY4ODY2NTMxNjk4In0=)
+    Price: $55.00 USD
+- [Blue Printed Kimono Jacket for Women | PIKARU FASHION](https://pikarufashion.com/products/blue-printed-kimono-jacket-women): Discover stylish blue printed kimono jacket for women at PIKARU FASHION. Lightweight, trendy & perfect for casual and everyday wear.
+  Updated: 2025-12-26T12:16:12Z
+  Vendor: PIKARU FASHION
+  Product Type: kimono jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/BlueIvoryJapaneseembroideredpineneedlekimono_3.webp?v=1766211105
+  - [S](https://pikarufashion.com/products/blue-printed-kimono-jacket-women?variant=61432278122866)
+    Availability: Available
+    Price: $79.00 USD
+  - [M](https://pikarufashion.com/products/blue-printed-kimono-jacket-women?variant=61432278155634)
+    Availability: Available
+    Price: $79.00 USD
+  - [L](https://pikarufashion.com/products/blue-printed-kimono-jacket-women?variant=61432278188402)
+    Availability: Available
+    Price: $79.00 USD
+  - [XL](https://pikarufashion.com/products/blue-printed-kimono-jacket-women?variant=61432278221170)
+    Availability: Available
+    Price: $79.00 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDkwMjkxNDM1MTQ3NCwibGFzdF92YWx1ZSI6IjE0OTAyOTE0MzUxNDc0In0=)
 
 ## Collections
 
-- [Kaftans - Flowing Designer Wear for You - by pikaru fashion](https://pikarufashion.com/collections/kaftan-stylish-flowing-premium-designer-wear): Discover stylish kaftans in premium designer wear. Perfect for any occasion and designed for comfort. Get your favorite today!
-  Updated: 2025-11-29T18:34:16Z
-  Total Products: 36
 - [Embroidery Dress – Elegant Designer Wear for Women |](https://pikarufashion.com/collections/embroidery-dress-premium-handcrafted-fashion): Shop premium Embroidery Dresses crafted with detailed handwork, beautiful designs, and elegant silhouettes. Perfect for festive wear, parties, and everyday .
-  Updated: 2025-12-02T13:13:17Z
+  Updated: 2025-12-19T06:04:14Z
   Total Products: 16
 - [Printed Dress | Trendy Women’s Printed Dresses for Everyday](https://pikarufashion.com/collections/printed-dress-trendy-vibrant-modern-fashion): Shop stylish Printed Dresses crafted with vibrant patterns, premium fabrics, and flattering fits. Perfect for casual outings, travel, and everyday use -
-  Updated: 2025-12-10T08:10:23Z
+  Updated: 2025-12-26T06:33:03Z
   Total Products: 43
 - [Maxi Dress | Trendy Women’s Long Dresses for Every Occasion](https://pikarufashion.com/collections/maxi-dress-by-pikaru-fashion): Shop stylish Maxi Dresses crafted with premium fabrics, flattering fits, and elegant long silhouettes. Perfect for vacations and daily wear- PIKARU FASHION
-  Updated: 2025-12-09T06:45:11Z
+  Updated: 2025-12-26T06:30:24Z
   Total Products: 71
 - [Boho Dress | Bohemian Women’s Dresses for Daily, & Travel](https://pikarufashion.com/collections/boho-dress-pikaru-fashion-store): Shop stylish Boho Dresses featuring flowy silhouettes, soft fabrics, and artistic bohemian designs. beach days, daily comfort, and festive occasions
-  Updated: 2025-12-10T11:06:17Z
+  Updated: 2025-12-19T06:04:14Z
   Total Products: 30
-- [Blouses | Designer Women’s Tops for Daily & Party Wear |](https://pikarufashion.com/collections/blouses-elegant-modern-trendy-women-s-tops): Shop stylish Blouses crafted with premium fabrics, elegant cuts, and modern designs. Perfect for work, parties, and everyday wear - PIKARU FASHION
-  Updated: 2025-11-29T18:34:33Z
-  Total Products: 7
 - [Embroidery Tops | Hand-Embroidered Women’s Tops & Blouses](https://pikarufashion.com/collections/embroidery-tops-elegant-handcrafted-stylish-women-s-wear): Shop premium Embroidery Tops crafted with delicate handwork, soft fabrics, and elegant designs. Perfect for casual wear, work outfits, and daily comfort.
-  Updated: 2025-11-29T18:36:14Z
-  Total Products: 10
+  Updated: 2025-12-26T04:40:42Z
+  Total Products: 8
 - [Mini Dresses for Women – Trendy, Elegant & Boho Styles | PIKARU FASHION](https://pikarufashion.com/collections/mini-dress): Discover stylish mini dresses for women in boho, chic and handcrafted designs. Perfect for parties, vacations & everyday wear. Shop premium-quality mini dresses at PIKARU FASHION.
-  Updated: 2025-12-02T10:16:50Z
+  Updated: 2025-12-26T05:09:50Z
   Total Products: 7
 - [Midi Dress | Stylish Women’s Mid-Length Dresses for Everyday](https://pikarufashion.com/collections/midi-dress-elegant-versatile-modern-women-s-fashion): Shop elegant Midi Dresses crafted with premium fabrics, flattering fits, and stylish mid-length silhouettes. Perfect for office wear, parties, travel
-  Updated: 2025-12-16T05:47:56Z
+  Updated: 2025-12-19T06:04:09Z
   Total Products: 24
-- [Long Sleeve Dress | Chic Women’s Dresses for Work, Casual](https://pikarufashion.com/collections/long-sleeve-dress-elegant-comfortable-stylish-women-s-fashion): Shop elegant long sleeve dresses crafted with premium fabrics, flattering silhouettes, and stylish designs. Perfect for parties, travel, and everyday comfort
-  Updated: 2025-11-29T18:34:14Z
-  Total Products: 36
-- [Puff Sleeve Dress | Trendy Women’s Dresses with Sleeves](https://pikarufashion.com/collections/puff-sleeve-dress-pikaru-fashion): Shop stylish Puff Sleeve Dresses featuring trendy silhouettes, premium fabrics, and feminine designs. brunch, travel, and everyday chic fashion - PIKARU FASHION
-  Updated: 2025-12-16T05:47:56Z
-  Total Products: 15
 - [Cord-Set |Trendy Women’s Co-Ord Sets for Daily & Party Wear](https://pikarufashion.com/collections/2-piece-set-stylish-matching-modern-co-ord-fashion): Shop stylish Cord-Sets featuring premium fabrics, trendy designs, and perfectly matching co-ord outfits. daily wear. Explore chic Cord-Sets at PIKARU Fashion
-  Updated: 2025-12-08T06:50:56Z
-  Total Products: 11
+  Updated: 2025-12-19T10:01:41Z
+  Total Products: 12
 - [Winter Sale | Up to 50% Off on Jackets, Dresses  |](https://pikarufashion.com/collections/winter-sale-big-discounts-on-seasonal-fashion): Winter sale: enjoy huge discounts on jackets, coats and more. Stylish, warm, and high-quality winter fashion at unbeatable prices — shop now and save big!
-  Updated: 2025-12-11T11:06:21Z
+  Updated: 2025-12-19T06:04:16Z
   Total Products: 18
 - [Buy 1 Get 1 Free | Limited-Time BOGO Offer on Fashion](https://pikarufashion.com/collections/buy-1-get-1-free-biggest-fashion-deal-of-the-season): Shop our Buy 1 Get 1 Free sale! Get double the style at zero extra cost. Limited-time BOGO offer on trendy fashion dresses shop now and save big!-PIKARU FASHION
   Updated: 2025-11-29T18:34:18Z
   Total Products: 28
-- [99 FIX Sale – Flat Price Fashion Deals | Limited-Time Offer](https://pikarufashion.com/collections/99-fix-sale-limited-time-offer-on-premium-services): Shop the 99 FIX Sale and grab premium fashion styles at a flat, unbeatable price. Limited-time offer on bestselling dresses, jackets, kimonos, kaftans, and more
-  Updated: 2025-12-01T11:06:06Z
-  Total Products: 7
 - [Suzzani Jacket | Hand-Embroidered Boho Jackets | PIKARU](https://pikarufashion.com/collections/suzzani-jacket-handcrafted-artistic-premium-outerwear): hop handcrafted Suzzani Jackets featuring detailed embroidery, bold motifs, and premium fabrics. Perfect for boho styling, festive wear, and chic winter looks
-  Updated: 2025-12-08T12:09:41Z
+  Updated: 2025-12-19T06:04:18Z
   Total Products: 21
-- [Embroidery Jacket – Premium Ethnic Layering for Women |](https://pikarufashion.com/collections/embroidery-jacket-handcrafted-stylish-premium-outerwear): Discover our Embroidery Jacket crafted with intricate threadwork, premium fabric, and stylish modern cuts. Perfect for festive styling, winter layering, partieS
-  Updated: 2025-12-08T12:09:41Z
-  Total Products: 14
-- [Valvet Jacket/Coats | Elegant Women’s Velvet Jackets & Coats](https://pikarufashion.com/collections/valvet-jacket-coats-luxurious-soft-premium-winter-fashion): Valvet Jacket crafted with soft velvet, rich colours, and elegant winter silhouettes. Perfect for festive wear, parties, and stylish winter outfits - PIKARU
-  Updated: 2025-11-29T18:40:48Z
-  Total Products: 10
-- [Suzzani Pent-Shirt | Hand-Embroidered Boho Pant-Shirt Sets |](https://pikarufashion.com/collections/suzzani-pent-shirt-handcrafted-stylish-boho-co-ord-set): Shop elegant Suzzani Pent-Shirt sets featuring handcrafted embroidery, premium fabrics, and coordinated boho styling - PIKARU FASHION
-  Updated: 2025-11-29T18:39:45Z
-  Total Products: 0
 - [Suzzani Furr Jacket | Premium Hand-Embroidered Winter stocks](https://pikarufashion.com/collections/suzzani-furr-jacket-luxury-warm-handcrafted-winter-fashion): Suzzani Furr Jackets featuring soft fur lining, detailed embroidery, and premium winter warmth. Perfect for festive wear, travel, and stylish winter outfits
-  Updated: 2025-12-11T11:06:21Z
+  Updated: 2025-12-19T06:04:19Z
   Total Products: 13
 - [Beachwear | Chic Women’s Beach Outfits, Kaftans & Cover-Ups](https://pikarufashion.com/collections/beachwear-stylish-comfortable-trendy-summer-fashion): Beachwear crafted with lightweight fabrics, vibrant prints, and breezy silhouettes. Perfect for vacations, beach days, pool parties, and resort fashion
-  Updated: 2025-11-29T18:36:56Z
+  Updated: 2025-12-26T04:40:10Z
   Total Products: 3
 - [Tie-Dye Kaftan – Boho Chic Resort Wear for Women | Free](https://pikarufashion.com/collections/tie-dye-kaftan-vibrant-flowy-boho-chic-women-s-wear): Elevate your look with our Tie-Dye Kaftan, crafted in soft, breathable fabric with vibrant patterns. Perfect for beachwear, vacations, lounging, or casual
   Updated: 2025-11-29T18:40:15Z
   Total Products: 1
 - [Tie-Dye Kimono – Boho Chic Women’s Kimono | Trendy Ethnic](https://pikarufashion.com/collections/tie-dye-kimono-vibrant-flowy-boho-layering-style): Discover the vibrant Tie-Dye Kimono, a stylish boho layering piece perfect for casual, beach, and festive looks. Soft fabric, bold patterns, and a relaxed fit
-  Updated: 2025-12-03T11:50:58Z
+  Updated: 2025-12-19T06:04:08Z
   Total Products: 1
 - [Tie-Dye Maxi | Colorful Women’s Long Dresses for daily wear](https://pikarufashion.com/collections/tie-dye-maxi-pikaru-fashion-store): stylish Tie-Dye Maxi dresses crafted with soft fabrics, vibrant colours, and flowy boho silhouettes. Perfect for travel, beach days, parties, and everyday
   Updated: 2025-12-02T10:13:16Z
@@ -6166,37 +6094,28 @@
   Updated: 2025-11-29T18:40:39Z
   Total Products: 0
 - [Winter Dresses | Elegant & Warm Women’s Winter Outfits |](https://pikarufashion.com/collections/winter-dresses-warm-stylish-cozy-women-s-fashion): Shop stylish Winter Dresses crafted with warm fabrics, elegant designs, and cosy fits.  everyday winter styling. Explore Winter Dresses at PIKARU Fashion
-  Updated: 2025-12-11T11:06:21Z
-  Total Products: 68
-- [Two Piece Stylish Two Piece Set for Modern Fashion](https://pikarufashion.com/collections/two-piece-set-stylish-modern-trendy-co-ord-fashion): Explore our trendy Two Piece Set collection. Stay fashionable and comfortable with these stylish outfits.
-  Updated: 2025-12-01T11:06:06Z
-  Total Products: 2
-- [Maxican Top | Hand-Embroidered Boho Mexican Tops for Women](https://pikarufashion.com/collections/maxican-top-vibrant-embroidered-boho-women-s-wear): Shop vibrant Maxican Tops featuring colorful embroidery, soft fabrics, and boho-inspired designs. Perfect for casual wear, travel, and festive styling.
-  Updated: 2025-11-29T18:34:16Z
-  Total Products: 1
+  Updated: 2025-12-26T06:33:18Z
+  Total Products: 67
 - [Embroidery Kaftan – Elegant Ethnic Wear for Women | Premium](https://pikarufashion.com/collections/embroidery-kaftan-elegant-handcrafted-flowy-designer-wear): Experience timeless elegance with our Embroidery Kaftan, crafted with intricate detailing, premium fabric, and a relaxed silhouette. Perfect for festive events.
-  Updated: 2025-11-29T18:35:21Z
-  Total Products: 4
+  Updated: 2025-12-19T08:01:17Z
+  Total Products: 9
 - [Dresses -for your fashion PIKARU FASHION](https://pikarufashion.com/collections/dresses-modern-stylish-trendy-fashion): Shop stylish Dresses crafted with premium fabrics, modern cuts, and elegant designs. Perfect for daily wear, parties, and special occasions— PIKARU FASHION
   Updated: 2025-11-29T18:36:51Z
   Total Products: 8
 - [Kimono Jacket – Stylish Boho Layering for Women | Modern](https://pikarufashion.com/collections/kimono-jacket-modern-boho-layering-outfit): Upgrade your wardrobe with our Kimono Jacket, featuring elegant cuts, soft fabric, and boho-inspired designs. Perfect for casual outings, festive looks.
-  Updated: 2025-11-29T18:34:14Z
-  Total Products: 13
+  Updated: 2025-12-25T11:18:36Z
+  Total Products: 14
 - [Embroidery Coats | Handcrafted Designer Winter Wear](https://pikarufashion.com/collections/embroidery-coats-handcrafted-designer-outerwear): Shop premium Embroidery Coats handcrafted with detailed threadwork, rich colours, and elegant designs. Discover luxurious handmade outerwear at PIKARU Fashion
-  Updated: 2025-11-29T18:34:18Z
+  Updated: 2025-12-19T06:04:19Z
   Total Products: 13
 - [shirts - Women's collection PIKARU FASHION](https://pikarufashion.com/collections/shirts-women-s-handmade-western-shirts-by-pikaru-fashion): Explore our exquisite range of women's shirts, perfect for any occasion. Find your ideal style and enjoy quality fabrics that enhance your look effortlessly.
-  Updated: 2025-11-29T18:40:04Z
+  Updated: 2025-12-19T06:04:15Z
   Total Products: 5
 - [Jumpsuits | Handmade & Western Jumpsuits Collection](https://pikarufashion.com/collections/jumpsuits-stylish-women-s-jumpsuits-by-pikaru-fashion): Explore PIKARU FASHION’s Women’s Jumpsuits collection featuring stylish, comfortable, and handcrafted designs. Premium fabrics, modern silhouettes.
   Updated: 2025-11-29T18:34:16Z
   Total Products: 1
-- [Suzzani Coats | Boho Embroidered Winter Jackets](https://pikarufashion.com/collections/suzzani-coats-boho-embroidered-winter-jackets): Explore our exquisite collection of handcrafted Suzzani Coats, featuring rich embroidery and traditional artisan designs.
-  Updated: 2025-12-11T11:06:21Z
-  Total Products: 20
 - [discount deals under 19.99 | SALE Under $19.99](https://pikarufashion.com/collections/discount-deals-under-19-99-best-budget-picks): Discount deals under 19.99 are here! Explore our SALE Under $19.99 for incredible savings on your favorite products.
-  Updated: 2025-12-10T10:13:38Z
+  Updated: 2025-12-19T06:04:16Z
   Total Products: 31
 
 ## Store Pages
