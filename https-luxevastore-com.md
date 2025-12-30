@@ -6,19 +6,19 @@
 - Timezone: Europe/London
 - Created At: 2024-11-10T12:13:34Z
 - Contact Email: info@luxevastore.com
-- Updated At: 2025-12-24T00:00:33.477Z
+- Updated At: 2025-12-30T00:00:34.291Z
 
 ## Products
 
 - [Argan Oil Hair Repair & Shine Ritual for Damaged Hair](https://luxevastore.com/products/luxeva-3-in-1-sulfate-free-argan-oil-shampoo-conditioner-serum-set): Shop LUXEVA's Argan Oil Hair Repair & Shine Ritual at a great price. Free shipping, seasonal offers, and limited stock; check it out now!
-  Updated: 2025-12-20T00:08:45Z
+  Updated: 2025-12-24T22:56:25Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/SulphateFreeHairShampoo_Conditioner1.png?v=1762019730
   Price: £34.95 GBP
 - [LUXEVA Biotin & Rosemary Hair Growth Shampoo & Conditioner](https://luxevastore.com/products/luxeva-3-in-1-biotin-rosemary-hair-growth-shampoo-conditioner): Shop LUXEVA's Biotin & Rosemary Mint Hair Revival Ritual—enjoy seasonal savings, free shipping, and great prices. Buy now and revitalize your hair today!
-  Updated: 2025-12-20T00:14:20Z
+  Updated: 2025-12-24T22:55:37Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0862/1962/0618/files/HairGrowthSerum_ScalpMassager1.png?v=1762086370
   Price: £34.95 GBP
 - [Argan Oil Heat Protection Spray & Serum Set | LUXEVA UK](https://luxevastore.com/products/argan-oil-heat-protection-repair-shine-set): Protect, repair & add shine with LUXEVA’s 2-in-1 Argan Oil Heat Protection Spray & Serum. Fights frizz, dryness & breakage. Sulfate-free. Shop now.
-  Updated: 2025-12-20T00:10:23Z
+  Updated: 2025-12-24T22:56:26Z
   Vendor: LUXEVA
   Product Type: Haircare
   Availability: Available
@@ -49,13 +49,13 @@
 ## Collections
 
 - [Sulphate Free Shampoo Sets: Elevate Your Haircare Ritual with LUXEVA](https://luxevastore.com/collections/frontpage): Discover sulfate-free shampoo by LUXEVA, blending plant-powered formulas to restore hair strength and soothe your scalp for a confident crown.
-  Updated: 2025-12-20T12:27:30Z
+  Updated: 2025-12-25T12:15:09Z
   Total Products: 6
 - [Scalp & Haircare Sets](https://luxevastore.com/collections/shampoo-and-conditioner-sets): Shop LUXEVA's natural shampoo and conditioner range, formulated to combat hair thinning, dryness, and breakage. Sulfate-free, vegan, and designed for scalp health and effortless repair.
-  Updated: 2025-12-20T12:27:30Z
+  Updated: 2025-12-25T12:15:09Z
   Total Products: 5
 - [Top Hair Growth Oils & Sprays: Conditioners, Detanglers, Protectants](https://luxevastore.com/collections/hair-oils-sprays): Discover top Hair Growth Oils, Heat Protection Sprays, Leave In Conditioner Sprays, and Detangling Spray for healthier, shinier hair. Explore now!
-  Updated: 2025-12-20T12:27:30Z
+  Updated: 2025-12-25T12:15:09Z
   Total Products: 2
 
 ## Blogs
@@ -125,10 +125,6 @@
     Updated: 2025-12-17T08:30:57Z
     Author: LUXEVA
     Tags: hair wellness habits
-  - [Top Natural Hair Treatments – Expert Comparison 2025](https://luxevastore.com/blogs/articles/top-natural-hair-treatments-comparison): Explore the top natural hair treatments with our expert comparison of 7 products to revitalise your hair in 2025.
-    Updated: 2025-12-18T08:08:41Z
-    Author: LUXEVA
-    Tags: top natural hair treatments
   - [How to Revive Damaged Hair Naturally for Luxurious Results](https://luxevastore.com/blogs/articles/how-to-revive-damaged-hair-naturally): Discover how to revive damaged hair naturally with premium products. Follow our step-by-step guide for restored, healthy hair and lasting radiance.
     Updated: 2025-12-19T11:50:26Z
     Author: LUXEVA
@@ -141,14 +137,38 @@
     Updated: 2025-12-21T08:49:12Z
     Author: LUXEVA
     Tags: what is paraben free shampoo
-  - [Top Sulfate-Free Shampoos – Expert Comparison 2025](https://luxevastore.com/blogs/articles/top-sulfate-free-shampoos-comparison): Discover the top sulfate-free shampoos in our comparison of 5 products, helping you choose the best for healthy hair in 2025.
-    Updated: 2025-12-22T08:20:36Z
-    Author: LUXEVA
-    Tags: top sulfate-free shampoos
   - [Best Hair Growth Shampoos UK – What Really Works?](https://luxevastore.com/blogs/articles/best-hair-growth-shampoos-uk): Best hair growth shampoos UK explained: key ingredients, science, natural vs synthetic formulas, top choices and user reviews for thicker, healthier hair.
     Updated: 2025-12-23T06:15:06Z
     Author: LUXEVA
     Tags: What are the best hair growth shampoos available online in the UK?
+  - [What Are Hair Serums? Transforming Your Daily Haircare](https://luxevastore.com/blogs/articles/what-are-hair-serums): Hair serums explained: learn how they tame frizz, boost shine, and offer targeted natural solutions. Discover types, benefits, and real-world applications.
+    Updated: 2025-12-25T07:52:32Z
+    Author: LUXEVA
+    Tags: what are hair serums
+  - [Best Biotin Shampoos for Hair Growth – Expert Comparison 2026](https://luxevastore.com/blogs/articles/best-biotin-shampoos-for-hair-growth-comparison): Discover the top 6 best biotin shampoos for hair growth in our expert comparison, perfect for boosting your hair health and growth.
+    Updated: 2025-12-25T09:56:02Z
+    Author: LUXEVA
+    Tags: best biotin shampoos for hair growth
+  - [Top Sulfate-Free Shampoos – Expert Comparison 2025](https://luxevastore.com/blogs/articles/top-sulfate-free-shampoos-comparison): Discover the top sulfate-free shampoos in our comparison of 5 products, helping you choose the best for healthy hair in 2025.
+    Updated: 2025-12-25T10:05:15Z
+    Author: LUXEVA
+    Tags: top sulfate-free shampoos
+  - [Top Natural Hair Treatments – Expert Comparison 2025](https://luxevastore.com/blogs/articles/top-natural-hair-treatments-comparison): Explore the top natural hair treatments with our expert comparison of 7 products to revitalise your hair in 2025.
+    Updated: 2025-12-25T10:04:43Z
+    Author: LUXEVA
+    Tags: top natural hair treatments
+  - [Hair Growth Serums: Revitalising Thinning Hair Naturally](https://luxevastore.com/blogs/articles/hair-growth-serums-thinning-hair): Hair growth serums for thinning hair: discover natural ingredients, serum types, effectiveness, risks, and key differences for healthier hair.
+    Updated: 2025-12-26T07:49:20Z
+    Author: LUXEVA
+    Tags: hair growth serums
+  - [7 Best Hair Growth Serums Naturally for Women in the UK](https://luxevastore.com/blogs/articles/best-hair-growth-serums-naturally): Discover the 7 best hair growth serums naturally with expert tips on choosing cruelty-free, plant-based treatments for healthy, beautiful hair revival.
+    Updated: 2025-12-28T07:46:15Z
+    Author: LUXEVA
+    Tags: best hair growth serums
+  - [7 Best-Rated Hair Growth Oils Available in the UK Explained](https://luxevastore.com/blogs/articles/best-rated-hair-growth-oils-available-in-the-uk): Discover the 7 best-rated hair growth oils available in the UK. Learn practical tips on choosing clean, cruelty-free, and effective hair oils for fuller hair.
+    Updated: 2025-12-28T16:23:54Z
+    Author: LUXEVA
+    Tags: Best-rated hair growth oils available in the UK
 
 ## Store Pages
 
