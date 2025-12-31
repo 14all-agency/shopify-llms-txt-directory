@@ -5,7 +5,7 @@
 - Currency: INR
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-17T09:43:32Z
-- Updated At: 2025-12-26T16:04:52.746Z
+- Updated At: 2025-12-31T00:00:22.724Z
 
 ## Products
 
@@ -24,7 +24,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/crimson-reverie-rose-bouquet-884587.jpg?v=1748150503
   Price: ₹349.00 INR
 - [Sweet Nostalgia | Cake Candle](https://candlesbymidnight.com/products/sweet-nostalgia-cake-candle): Sweet Nostalgia | Cake Candle: sweet, nostalgic scent of birthdays and first wishes. A soft flame for joy, reflection, and the moments that made you smile.
-  Updated: 2025-12-12T07:06:28Z
+  Updated: 2025-12-27T07:26:03Z
   Vendor: Candles By Midnight 
   Product Type: 
   Availability: Available
@@ -327,15 +327,8 @@ It’s the in-between where everything feels light again.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/lotus-pond-candle-2328816.png?v=1755217994
   Price: ₹599.00 INR
-- [Star Fish Candle](https://candlesbymidnight.com/products/starfish-candle): Star Fish Candle in India. A sculptural soy candle crafted for quiet moments and mindful modern spaces. Shop Now!
-  Updated: 2025-12-22T18:08:45Z
-  Vendor: Candles By Midnight
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/starfish-candle-4624368.jpg?v=1756129447
-  Price: ₹499.00 INR
 - [Conch Shell Candle](https://candlesbymidnight.com/products/conch-shell-candle): Conch Shell Candle in India. A sculptural soy candle crafted for quiet moments and mindful modern spaces. Shop Now!
-  Updated: 2025-12-22T12:15:52Z
+  Updated: 2025-12-28T06:33:00Z
   Vendor: Candles By Midnight
   Product Type: 
   Availability: Available
@@ -527,31 +520,31 @@ It’s the in-between where everything feels light again.
 ## Collections
 
 - [Home page](https://candlesbymidnight.com/collections/frontpage)
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 73
 - [AVADA - Best Sellers](https://candlesbymidnight.com/collections/avada-best-sellers)
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 77
 - [Jar Candles](https://candlesbymidnight.com/collections/jar-candles): Candles By Midnight’s refillable jar candles blend beauty and function. Elegant, reusable, and soothing—perfect for shelves, altars, or unwinding at day's end.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 25
 - [Gourmet Candles](https://candlesbymidnight.com/collections/gourmet-candles): Candles By Midnight’s gourmet candles blend sweet scents like cinnamon swirl & chocolate. A delicious way to make any space feel warm, rich, and indulgent.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-27T12:15:15Z
   Total Products: 25
 - [Floral Candles](https://candlesbymidnight.com/collections/floral-candles): Candles By Midnight’s floral candles evoke blooming gardens at golden hour—petal-rich scents for romantics, feelers, and souls who find beauty in stillness.
   Updated: 2025-12-25T12:12:01Z
   Total Products: 31
 - [Aesthetic Candles](https://candlesbymidnight.com/collections/aesthetic-candles): Candles By Midnight’s aesthetic candles are sculptural pieces with soft curves, dreamy tones & elegant scents—designed to elevate and define any space.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 44
 - [Gifts for Him](https://candlesbymidnight.com/collections/gifts-for-him): Candles By Midnight’s ultimate gift for him — a refillable dark stoneware candle with smoked cedar & leather. A grounding ritual for his quiet moments.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 34
 - [Gifts for Her](https://candlesbymidnight.com/collections/gifts-for-her): Candles By Midnight’s perfect gift for her, a refillable ceramic candle with wild jasmine, rosewater & fig. A soothing bloom of beauty, calm, and comfort.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 56
 - [Bestsellers](https://candlesbymidnight.com/collections/bestseller): Candles By Midnight’s bestselling soy candles feature soothing scents & elegant jars. Enjoy a clean, long-lasting burn perfect for gifting or home décor.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 73
 - [Festival Collection](https://candlesbymidnight.com/collections/festival-collection): More than light — they’re a celebration.Perfect for brightening your home, gifting loved ones, or marking the moments that matter.
   Updated: 2025-12-25T12:12:01Z
@@ -560,7 +553,7 @@ It’s the in-between where everything feels light again.
   Updated: 2025-12-15T06:30:44Z
   Total Products: 4
 - [Ocean Collection Candles | Serene & Stylish Candle Designs](https://candlesbymidnight.com/collections/ocean-collection-candles): Explore our Ocean Collection of candles, perfect for adding a serene and stylish touch to any space. Shop now for unique and elegant candle designs.
-  Updated: 2025-12-23T12:15:52Z
+  Updated: 2025-12-30T04:53:38Z
   Total Products: 17
 
 ## Blogs
@@ -584,6 +577,21 @@ It’s the in-between where everything feels light again.
   - [How Fragrance Enhances Your Guru Purab Experience](https://candlesbymidnight.com/blogs/news/scent-memory-how-fragrance-enhances-your-guru-purab-experience): How Fragrance Enhances Your Guru Purab Experience
     Updated: 2025-11-04T09:28:49Z
     Author: Candles by Midnight
+  - [10 Best Handmade Soy Wax Candles in India for 2026](https://candlesbymidnight.com/blogs/news/10-best-handmade-soy-wax-candles-in-india-for-2026)
+    Updated: 2025-12-30T04:37:07Z
+    Author: Candles By Midnight
+  - [Best Teddy Bear Rose Candles in India (2026 Expert Review)](https://candlesbymidnight.com/blogs/news/best-teddy-bear-rose-candles-in-india-2026-expert-review)
+    Updated: 2025-12-30T04:37:11Z
+    Author: Candles By Midnight
+  - [Ultimate Guide to Luxury Scented Candles in India (2026 Edition)](https://candlesbymidnight.com/blogs/news/ultimate-guide-to-luxury-scented-candles-in-india-2026-edition)
+    Updated: 2025-12-30T04:37:13Z
+    Author: Candles By Midnight
+  - [Ultimate Guide to Buying Fragrance Candles Online in India (2026)](https://candlesbymidnight.com/blogs/news/ultimate-guide-to-buying-fragrance-candles-online-in-india-2026)
+    Updated: 2025-12-30T04:37:17Z
+    Author: Candles By Midnight
+  - [Best Starfish Candles in India (2026): Expert Buying Guide &amp; Honest Comparison](https://candlesbymidnight.com/blogs/news/best-starfish-candles-in-india-2026-expert-buying-guide-amp-honest-comparison)
+    Updated: 2025-12-30T04:37:18Z
+    Author: Candles By Midnight
 
 ## Store Pages
 
