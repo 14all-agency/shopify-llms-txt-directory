@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-31T04:00:25.364Z
+- Updated At: 2025-12-31T08:00:24.994Z
 
 ## Products
 
@@ -147,7 +147,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/NPA02948.jpg?v=1767118941
   Price: $19.25 USD
 - [Beard Trimmer Wahl](https://www.ironforgebeardco.com/products/beard-trimmer-wahl): If you are looking for household appliances at the best prices, don't miss the Beard Trimmer Wahl and a wide selection of small household appliances! Type: Wireless Characteristics: On/Off switch LED in operation indicator Battery operated (2 x AA, not included) On/off interrupter LED indicator Battery operated (2 AA, included) Precision: Adjustable 9 levels 0,7 mm-1,2 cm Type of plug: Plug EU Product with plug: Yes Battery type: AA Colour: Black Silver Material: Steel Power supply: Battery Batteries included: Yes Rechargeable: No Weight: 240 g POWERFUL CUTTING: thanks to precision-ground self-sharpening high carbon-steel blade setIDEAL FOR TRAVELING: world-wide use due to battery operationACCESSORIES: 5 position variable attachment comb for cutting lengths from 2 to 12 mm and 3 attachment combs for stubble (1.5 mm), medium (3 mm) and full beard (4,5 mm)INCLUDING: nose and ear hair trimmer Product colour: Silver Number of length steps: 9 Minimum hair length: 0.7 mm Maximum hair length: 1.2 cm Cutter width: 3 cm On/off switch: Y LED indicators: Y Power source: AC/Battery Rechargeable: N
-  Updated: 2025-12-30T23:53:31Z
+  Updated: 2025-12-31T07:24:00Z
   Vendor: Wahl
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -224,7 +224,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/image_14ee6bb5-e684-45ef-81b6-224810d0eada.jpg?v=1767146121
   Price: $17.81 USD
 - [Beard Oil Duo - Nourishing Beard Care for Healthy, Well-Groomed Styles](https://www.ironforgebeardco.com/products/beard-grooming-oil-duo): Discover the power of our Beard Oil Duo for healthy, hydrated, and stylish beards. Perfect for nourishment, growth, and improved beard appearance daily. Shop now!
-  Updated: 2025-12-30T23:53:33Z
+  Updated: 2025-12-31T07:11:55Z
   Vendor: J&L Naturals
   Product Type: Beard Oil
   Availability: Available
@@ -290,7 +290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BOS-NAK_9e196fae-2b4e-49e2-97f9-1e91d82e41d2.jpg?v=1767128712
     Price: $25.02 USD
 - [Beard Brush](https://www.ironforgebeardco.com/products/beard-brush-natural-si): Discover the Beard Brush made with natural sisal fibers and bamboo handle. Keep facial hair neat, smooth, and debris-free for a polished look.
-  Updated: 2025-12-30T23:53:33Z
+  Updated: 2025-12-31T06:44:35Z
   Vendor: J&L Naturals
   Product Type: n/a
   Availability: Available
@@ -367,7 +367,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/Ey2wa3yiLI.png?v=1767119082
   Price: $24.99 USD
 - [Compelling Vegan Beard Balm](https://www.ironforgebeardco.com/products/compelling-vegan-beard-balm): Discover our vegan beard balm made with natural ingredients. Shape, control, and nourish your beard while enjoying a long-lasting fresh fragrance. Perfect for ethical grooming.
-  Updated: 2025-12-30T23:53:35Z
+  Updated: 2025-12-31T06:48:24Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -564,6 +564,85 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/8.jpg?v=1766810857
     Price: $69.30 USD
+- [Small Face Care Box](https://www.ironforgebeardco.com/products/small-face-care-box): It’s the little things that count. With this kit, we start with face serum filled with skin-friendly botanicals that promote healing and combat wrinkles – take your choice of Enzyme & Rosehip (nighttime), Cucumber & Botanical (healing) or Frankincense & Rose Geranium (oil serum). Then we added a face mask – your choice of Cucumber (hydrating), or Clay & Herbal (detoxifying). All are travel-friendly 2 oz. Customize this kit to make your face happy. Save more than 10% when buying this set. Heliotrope Travel Packs & Gift Sets are ideal for gift-giving or for treating yourself. These specially priced kits have been put together to cover all the bases - bath & body care, face care, hair care, shaving, massage - at a variety of price points. There’s something for everyone. Our samplers feature items with travel-safe sizes - which means you can bring them anywhere.
+  Updated: 2025-12-31T05:13:26Z
+  Vendor: Heliotrope San Francisco
+  Product Type: Box / Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/small_face_care_box.jpg?v=1767158003
+  - [Enzyme Nighttime Serum / Clay Detox Mask](https://www.ironforgebeardco.com/products/small-face-care-box?variant=47040893518077)
+    Availability: Available
+    Price: $43.45 USD
+  - [Enzyme Nighttime Serum / Cucumber Hydrating Mask](https://www.ironforgebeardco.com/products/small-face-care-box?variant=47040893550845)
+    Availability: Available
+    Price: $43.45 USD
+  - [Cucumber & Botanical Healing Serum / Clay Detox Mask](https://www.ironforgebeardco.com/products/small-face-care-box?variant=47040893583613)
+    Availability: Available
+    Price: $43.45 USD
+  - [Cucumber & Botanical Healing Serum / Cucumber Hydrating Mask](https://www.ironforgebeardco.com/products/small-face-care-box?variant=47040893616381)
+    Availability: Available
+    Price: $43.45 USD
+  - [Frankensense Oil Serum / Clay Detox Mask](https://www.ironforgebeardco.com/products/small-face-care-box?variant=47040893649149)
+    Availability: Available
+    Price: $43.45 USD
+  - [Frankensense Oil Serum / Cucumber Hydrating Mask](https://www.ironforgebeardco.com/products/small-face-care-box?variant=47040893681917)
+    Availability: Available
+    Price: $43.45 USD
+- [Beard Grooming Kit for Men Trimming & Care Set](https://www.ironforgebeardco.com/products/beard-grooming-kit-for-men-trimming-care-set): Upgrade your beard game with the all-in-one grooming kit—perfect for trimming, shaping, and softening any beard style. Specifications:Brand: Dimensions: Refer to the imageItem Form: OilApplicable People: MenProduct Attributes: HypoallergenicEffect: Volumizing Benefits:Softens and conditions facial hair for a smooth feelShapes and tames unruly beards with precisionPromotes healthy beard growth with nourishing oilMakes an ideal gift for dads, boyfriends, and husbandsIncludes all grooming essentials in one storage bag Product Description:The Beard Grooming Kit for Men is a complete set designed for men who want to maintain a clean, stylish, and healthy beard. This premium set includes beard oil, balm, a brush, comb, scissors, and a convenient storage bag—perfect for home or travel use. Each item is carefully chosen to enhance grooming precision and comfort while delivering volume and softness to facial hair.
+  Updated: 2025-12-31T05:15:27Z
+  Vendor: TM
+  Product Type: Health & Beauty > Personal Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/1688631068419-c90a023cec3c48c7a97675e083e65b38-goods.jpg?v=1767158114
+  Price: $70.69 USD
+- [Mario Lopez Wireless Body Hair Trimmer & Shaver and Beard Care Grooming Kit Bundle](https://www.ironforgebeardco.com/products/mario-lopez-wireless-body-hair-trimmer-shaver-and-beard-care-grooming-kit-bundle): Elevate your grooming routine with the Mario Lopez Wireless Body Hair Trimmer & Shaver and Beard Care Grooming Kit Bundle. This comprehensive set offers the ultimate grooming experience for men who prioritize style, precision, and sophistication. 1. Mario Lopez Wireless Body Hair Trimmer & Shaver: Experience the epitome of grooming excellence with the Mario Lopez Wireless Body Hair Trimmer & Shaver. This advanced grooming tool boasts cutting-edge features designed to deliver impeccable results with every use. Key Features: Cordless Charging Base: Enjoy the convenience of a cordless trimmer with the included charging base, ensuring your trimmer is always ready for action. LED Light for Precise Trimming: Achieve unparalleled precision with the built-in LED light, providing enhanced visibility for precise grooming. Precision Ceramic Blade: Glide effortlessly through thick and coarse body hair with the precision ceramic blade, ensuring a smooth and comfortable grooming experience. Waterproof Design: Use your trimmer in the shower with confidence, thanks to its waterproof design for hassle-free cleanup. Attachment Comb & USB Cord: Customize your grooming experience with the included attachment comb and charge your trimmer anywhere with the USB cord. 2. Beard Care Grooming Kit: Treat your beard to the care it deserves with our unique 4-piece grooming kit, designed to enhance and maintain your facial hair with style and sophistication. Key Features: Set Includes: Beard Comb, Beard Oil, Beard Balm, and Beard Serum. Beard Oil (30ml): Deeply moisturize and nourish your beard with a blend of Vitamin E essences and golden jojoba oil. Beard Balm (60g): Firm and shape your beard while keeping it shining for the long term. Beard Serum (30ml): Deeply cleanses and hydrates your beard and skin, reducing oiliness and preventing dryness and itching. With the Mario Lopez Wireless Body Hair Trimmer & Shaver and Beard Care Grooming Kit Bundle, you can achieve the perfect grooming results from head to toe. Embrace precision, sophistication, and style with Mario Lopez.
+  Updated: 2025-12-31T05:32:57Z
+  Vendor: Pursonic
+  Product Type: shaving
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA405.jpg?v=1767158135
+  Price: $41.24 USD
+- [Pursonic Beard Care Grooming Kit & Eco Friendly Razor + Toothbrushes Combo Pack](https://www.ironforgebeardco.com/products/pursonic-beard-care-grooming-kit-eco-friendly-razor-toothbrushes-combo-pack): Elevate your grooming routine with our exclusive bundle featuring the Pursonic Beard Care Grooming Kit and Eco Friendly Razor + Toothbrushes Combo Pack. This comprehensive set combines essential beard care products with eco-conscious grooming tools for a sustainable and stylish approach to self-care. Beard Care Grooming Kit: Transform your beard with our 4-piece gift set, including a Beard Comb, Beard Oil, Beard Balm, and Beard Serum. Each product is meticulously crafted to nourish, hydrate, and style your beard for a flawless look. Features: Set includes: Beard Comb, Beard Oil (30ml), Beard Balm (60g), and Beard Serum (30ml) Beard Oil: Deep moisturizing, smoothing, and blackening properties for a beautiful beard texture. Beard Balm: Firmly shapes the beard and adds long-lasting shine. Beard Serum: Deeply cleanses and hydrates the beard and skin, reducing oil and preventing dryness and itching. Nourishes dehydrated skin, regulates sebum balance, and renews beard texture. Eco Friendly Razor & Toothbrushes Combo Pack: Our sustainable grooming bundle features a Bamboo Razor with 5 triple-blade steel refills and two BPA-free Bamboo Toothbrushes. Experience eco-conscious grooming with precision and style. Key Features: Bamboo Razor with Precision: Sleek design with a precise 3-blade steel system for a smooth, irritation-free shave. Includes five refills for long-lasting use. BPA-Free Bamboo Toothbrushes (Set of 2): Stylish, sustainable, and gentle on the environment for an eco-friendly oral care routine. Sustainable bamboo construction for both razor and toothbrushes. Elevate your daily routine with conscious choices for sustainability and grooming excellence. Upgrade your grooming experience with the Pursonic Beard Care Grooming Kit & Eco Friendly Razor + Toothbrushes Combo Pack. Embrace sustainability while maintaining impeccable style and grooming standards.
+  Updated: 2025-12-31T05:15:59Z
+  Vendor: Pursonic
+  Product Type: Beauty & Personal Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BCGS5-EFRTB21.jpg?v=1767158153
+  Price: $28.87 USD
+- [Full-Range Men's Grooming: 4-Piece Beard Care Set, Beard and Body Trimmer, Nose Trimmer, & Assorted Face and Body Wipes](https://www.ironforgebeardco.com/products/full-range-mens-grooming-4-piece-beard-care-set-beard-and-body-trimmer-nose-trimmer-assorted-face-and-body-wipes): Elevate your style, from a perfectly sculpted beard to all-over freshness, with this curated collection of essential grooming tools and care products. 1. 4-Piece Beard Care Gift Set Achieve the perfect, healthy beard with this all-in-one moisturizing and shaping kit. It contains everything you need to maintain a stunning beard texture and shine. Beard Oil (30ml): Deeply moisturizes dehydrated skin and hair using Golden Jojoba Oil and Vitamin E essences. It penetrates quickly to regulate sebum and renew beard texture, leaving it smooth and black. Beard Balm (60g): A daily nursing balm that provides a firm hold to shape and style your beard, locking in shine for long-term health. Beard Serum (30ml): Deeply cleanses the hair and skin, reducing oil, unclogging pores, and preventing the common issues of dryness and itching. Bonus Comb: For effortless styling and maintenance. 2. Pursonic Beard and Body Trimmer (Adjustable Precision) The ultimate cordless tool for personalized styling and detailing. Engineered for versatility across your beard, mustache, and body hair. Precision Blades: Features ultra-sharp, self-sharpening stainless steel blades with a wide tip for clean, smooth cuts through even the toughest hair. Customizable Style: An Adjustable Trimmer Dial offers 10 precision settings (1mm to 10mm) to achieve your desired length, from stubble to a fuller beard. Cordless Power: Enjoy up to 45 minutes of use on a single charge thanks to the rechargeable lithium-ion battery. Perfect for travel! 3. Pursonic Micro-Vacuum Nose and Ear Trimmer Say goodbye to messy grooming! This powerful, compact trimmer makes quick work of unwanted nose, ear, and facial hair while keeping your sink spotless. Smart Vacuum System: Sucks up hair clippings as you trim, ensuring a clean, mess-free experience every time. Safe Trimming: Equipped with curved, hypoallergenic dual-edge blades that cut safely and comfortably without painful pulling. Portable: Battery-powered (1 AAA, not included) and highly convenient for home or travel use. 4. Pursonic Men's Assorted Face and Body Wipes (3-Pack) Stay invigorated and clean no matter where your day takes you. This bundle provides 150 refreshing, pH-balanced wipes formulated specifically for men's skin. Invigorating Scents: Includes 50 wipes each of Cedarwood, Tea Tree, and Eucalyptus for a naturally refreshing experience. On-the-Go Freshness: Perfect for a quick refresh after the gym, while traveling, or anytime you need a fast cleanse. Gentle Formula: pH-balanced and suitable for all skin types, ensuring a clean feeling without irritation.
+  Updated: 2025-12-31T05:16:28Z
+  Vendor: Pursonic
+  Product Type: Beauty & Personal Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/BCGS5-TCA3490-NT9190-MW150_main.jpg?v=1767158182
+  Price: $45.37 USD
+- [Mario Lopez Ultimate Grooming Set – 10-Piece Hair, Beard & Body Grooming Kit + Disposable Razors](https://www.ironforgebeardco.com/products/mario-lopez-ultimate-grooming-set-10-piece-hair-beard-body-grooming-kit-disposable-razors): Upgrade your grooming routine with the ultimate men's grooming bundle featuring the Mario Lopez Men's Grooming Kit and Mario Lopez Disposable Razors. Designed for precision and versatility, this comprehensive set offers everything you need for hair, beard, nose, and ear grooming, plus the convenience of high-quality disposable razors for an effortless shaving experience. Mario Lopez Men's Grooming Kit: This 10-piece kit provides professional-grade grooming tools tailored to meet all your grooming needs. Whether trimming your hair, beard, or dealing with unwanted nose and ear hair, this set guarantees precision and convenience. Stainless Steel Precision Clipper: A durable clipper designed for consistent results. Adjustable Guide Combs: Achieve the perfect length and style with four customizable guide combs. Ear, Nose, and Brow Trimmer: Remove unwanted hair safely and comfortably. Cleaning Brush & Clipper Oil: Keep your tools in top shape with these included accessories. Mario Lopez Disposable Razors: Elevate your shaving routine with advanced 3-blade shaving surface technology. These razors are designed to provide a smooth and close shave while minimizing irritation, making them perfect for daily use or travel. 3 Blade Shaving Surface Technology: Ensures an exceptionally close shave. Rubberized Handle: Offers superior grip and control, even when wet. Pivoting Head: Adapts to your facial contours for a safer shave. Lubricating Strip: Enhances glide and reduces friction for comfort. This bundle is perfect for achieving a fresh, polished look every day. Whether for grooming at home or while traveling, the Mario Lopez Men's Grooming Kit and Disposable Razors have you covered.
+  Updated: 2025-12-31T05:21:36Z
+  Vendor: Pursonic
+  Product Type: shaving
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA30-DR6BE1.jpg?v=1767158186
+  Price: $37.12 USD
+- [Mario Lopez Ultimate Grooming & Oral Care Bundle: Men's Grooming Kit, Triple-Head Electric Tooth Wizard, and USB Water Flosser](https://www.ironforgebeardco.com/products/mario-lopez-ultimate-grooming-oral-care-bundle-mens-grooming-kit-triple-head-electric-tooth-wizard-and-usb-water-flosser): Mario Lopez Men's Grooming Kit - 10 Piece Set for Hair, Beard, Nose & Ear GroomingElevate your grooming routine with the Mario Lopez Men's Grooming Kit, a 10-piece set designed to meet all your grooming needs with precision and versatility. Stainless Steel Precision Clipper: Built to last, providing consistent and precise results for any haircut. Adjustable Guide Combs: Four adjustable guide combs allow for customized styling. Ear/Nose/Brow Trimmer: Easily removes unwanted hair from ears, nose, and eyebrows. Maintenance Tools: Includes a cleaning brush and clipper oil for easy upkeep. Mario Lopez Triple-Head Electric Tooth Wizard - 30,000 Strokes Per MinuteAchieve a radiant smile with the Triple-Head Electric Tooth Wizard, featuring three brush heads and an impressive 30,000 strokes per minute. Triple-Headed Efficiency: Three synchronized brush heads deliver a comprehensive clean with 30,000 strokes per minute. Battery-Powered Convenience: Operates on a single AA battery, perfect for travel and on-the-go oral care. Waterproof Design: Safe to use in wet environments, making it easy to clean and maintain. Mario Lopez USB Water FlosserThe Mario Lopez USB Water Flosser offers an efficient, deep clean for your teeth and gums, ideal for a healthy smile. Ergonomic Handle & 360° Rotating Nozzle: Easily control water flow to reach all areas of the mouth. Soft Water Flosser for Sensitive Teeth: Three modes (soft, normal, pulse) for personalized oral care. Large Water Tank: Equipped with a 7.5 OZ high-volume capacity tank for less frequent refilling. USB Rechargeable: Comes with a USB charging cable for convenient recharging. Upgrade your grooming and oral care routine today with this complete Mario Lopez bundle!
+  Updated: 2025-12-31T05:17:14Z
+  Vendor: Pursonic
+  Product Type: Oral Care Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA30-MLTB20-MLOI131.jpg?v=1767158229
+  Price: $49.49 USD
+- [Cold Brew Beard Oil](https://www.ironforgebeardco.com/products/cold-brew-beard-oil): A coffee-scented facial hair oil for men's grooming made from organic Arabian coffee beans. Description Perk-up facial hair with the scent of an Arabian Brew. A great gift for your boyfriend or husband! This coffee-scented ALL ORGANIC, VEGAN beard oil quenches and softens even the roughest beards. Our natural Cold Brew Beard Oil benefits the hair with many conditioning properties derived from argan, apricot and crambe abyssinica seeds and kernels. Key Benefits Hydrates and softens rough facial hair, grooms untamed hair for a silky feel, and promotes healthy hair shine in men. Attractive fragrance. Pro-Tips from Dr. Walden Guys: your beard will grow to look healthy, strong and full, and smell nice for others to get close to! Herbs included: Argan, Avocado, Apricot, Coffee, Tonka, Shea, Primrose. Contains real coffee beans!
+  Updated: 2025-12-31T05:34:51Z
+  Vendor: Dr. Jennifer Walden
+  Product Type: Haircare
+  Availability: Available
+  Price: $18.05 USD
+- [Beard Nylon Brush | Vegan | Strong Bristles for Grooming, Detangling & Daily Beard Maintenance](https://www.ironforgebeardco.com/products/beard-nylon-brush-vegan-strong-bristles-for-grooming-detangling-daily-beard-maintenance): Shape, style, and detangle your beard with this durable, vegan Beard Nylon Brush. Made with strong, long bristles for maximum control, it removes dead skin, excess oils, and buildup while softening beard hair for a smooth, healthy look. Perfect for prepping your beard before applying oils, balms, or pomades. Description Give your beard the perfect groom with our Vegan Beard Nylon Brush, designed for men who value clean, polished, and healthy facial hair. This sturdy, compact brush offers superior control and effortless styling, making it ideal for daily beard maintenance. Featuring long, durable nylon bristles, it effectively detangles knots, lifts away dead skin cells, removes trapped oils and residue, and softens coarse beard hair — all in one smooth grooming motion. Whether you’re shaping your beard for the day or winding down at night, this brush keeps your beard looking fuller, neater, and healthier. Its ergonomic beech wood handle feels balanced in the hand, giving barbershop-level precision right at home. Use it as the essential first step before applying beard oils, balms, or pomades to ensure even product distribution and better beard conditioning. Perfect for short, medium, or long beards, this brush becomes a daily grooming staple you won’t want to replace anytime soon. Key Benefits Strong, High-Performance Bristles Softens, cleans, and detangles beard hair while lifting away residue and buildup. Sturdy, Compact Design Provides excellent grip and control for shaping and styling all beard lengths. Improves Beard Health Helps exfoliate the skin underneath by removing dead skin cells and reducing itchiness. Perfect Prep Before Beard Products Ideal for use before beard oils, balms, and pomades for even application and better absorption. Vegan-Friendly Construction Made with beech wood and polypropylene bristles — no animal hair used. Application Instructions (How To Apply) Use Daily: Brush your beard every day to maintain softness and prevent tangling. Best Times: Use before showering, before bed, or prior to applying beard oils or balms. Prep for Styling: Brush thoroughly before applying pomades or shaping products for a polished finish. Ingredients Beech Wood, Polypropylene Bristles
+  Updated: 2025-12-31T05:34:54Z
+  Vendor: Cad b
+  Product Type: Men's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/15469-BLNK-OE-05-07-BCS-BC2-e1690922540297.jpg?v=1767158287
+  Price: $15.84 USD
 
 ## Collections
 
@@ -571,8 +650,8 @@
   Updated: 2025-12-30T23:53:30Z
   Total Products: 6
 - [Best Sellers Collection - Top-Rated Products at](https://www.ironforgebeardco.com/collections/best-sellers-colec): Discover the best sellers collection at AVADA. Shop top-rated products and find popular items that suit your style. Free shipping on select orders.
-  Updated: 2025-12-30T19:31:21Z
-  Total Products: 55
+  Updated: 2025-12-31T05:18:35Z
+  Total Products: 64
 - [All Product](https://www.ironforgebeardco.com/collections/all-product)
   Updated: 2025-12-30T20:26:02Z
   Total Products: 55
@@ -608,7 +687,7 @@
     Updated: 2025-12-30T23:02:48Z
     Author: james powers
   - [Beard Care Grooming Kit: Healthier, Smoother Beard Daily](https://www.ironforgebeardco.com/blogs/news/beard-care-grooming-kit-healthier-smoother-beard-daily)
-    Updated: 2025-12-31T02:02:27Z
+    Updated: 2025-12-31T06:01:49Z
     Author: Clickfrom AI Agent
   - [Essential Steps for an Effective Beard Care Routine: Tips for Every Beard Type](https://www.ironforgebeardco.com/blogs/news/essential-steps-for-an-effective-beard-care-routine-tips-for-every-beard-type): Essential Steps for an Effective Beard Care Routine: Tips for Every Beard Type
     Updated: 2025-12-31T01:34:15Z
@@ -619,6 +698,9 @@
   - [How to Prevent and Repair Beard Split Ends: Essential Tips for a Healthy Beard](https://www.ironforgebeardco.com/blogs/news/how-to-prevent-and-repair-beard-split-ends-essential-tips-for-a-healthy-beard): How to Prevent and Repair Beard Split Ends: Essential Tips for a Healthy Beard
     Updated: 2025-12-31T01:43:45Z
     Author: james powers
+  - [Beard Nylon Brush: A Vegan Tool for Detangling & Grooming](https://www.ironforgebeardco.com/blogs/news/beard-nylon-brush-a-vegan-tool-for-detangling-grooming)
+    Updated: 2025-12-31T06:01:08Z
+    Author: Clickfrom AI Agent
 
 ## Store Pages
 
