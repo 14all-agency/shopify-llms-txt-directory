@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-31T12:00:36.086Z
+- Updated At: 2025-12-31T16:00:34.184Z
 
 ## Products
 
@@ -1528,11 +1528,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Honey Lavender Original Candle](https://affinatiliving.com/products/honey-lavender-original-candle): Honey Lavender Original Candle – 10 oz Honey Lavender blends calming lavender with soft sweetness for a soothing, comforting fragrance. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: LavenderMiddle Notes: HoneyBase Notes: Vanilla Perfect for winding down and restful moments. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:21Z
+  Updated: 2025-12-31T15:26:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8439.png?v=1766518635
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/D4E175EA-9FDE-4C5F-A92E-F698DED7FDAD.png?v=1767194811
   - [Single Order](https://affinatiliving.com/products/honey-lavender-original-candle?variant=42443982962769)
     Availability: Available
     Price: $16.95 USD
@@ -1588,7 +1588,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Butterscotch & Bourbon Original Candle](https://affinatiliving.com/products/butterscotch-bourbon-original-candle): Butterscotch & Bourbon Original Candle – 10 oz Butterscotch & Bourbon is rich, warm, and indulgent. Sweet butterscotch blends with smooth bourbon for a bold, cozy scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Melted ButterscotchMiddle Notes: BourbonBase Notes: Vanilla, Oak Perfect for evenings and comfort-forward spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup. Up to 55 hours of burn time.
-  Updated: 2025-12-31T03:07:26Z
+  Updated: 2025-12-31T14:54:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1663,11 +1663,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Vanilla Bean Original Candle](https://affinatiliving.com/products/vanilla-bean-original-candle): Vanilla Bean Original Candle – 10 oz Vanilla Bean is rich, smooth, and timeless. Pure vanilla creates a warm and comforting atmosphere. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla BeanMiddle Notes: Sweet CreamBase Notes: Warm Sugar Perfect for cozy nights and universal appeal. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:24Z
+  Updated: 2025-12-31T13:07:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8361.png?v=1766460767
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B2FDDB05-5936-4E73-BB58-F287EC3888BB.png?v=1767186445
   - [Single Order](https://affinatiliving.com/products/vanilla-bean-original-candle?variant=42443976081489)
     Availability: Available
     Price: $16.95 USD
@@ -1768,11 +1768,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Floral Breeze Original Candle](https://affinatiliving.com/products/floral-breeze-original-candle): Floral Breeze Original Candle – 10 oz Floral Breeze is light, elegant, and refreshing. Gentle florals blend with soft airiness for a graceful, uplifting scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Fresh FloralsMiddle Notes: Blooming PetalsBase Notes: Soft Musk Perfect for springtime vibes and light-filled spaces. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:27Z
+  Updated: 2025-12-31T13:09:27Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8426.png?v=1766512644
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/44E9209F-3DB6-4A1B-92BF-EDA416E5DDA4.png?v=1767186566
   - [Single Order](https://affinatiliving.com/products/floral-breeze-original-candle?variant=42443973820497)
     Availability: Available
     Price: $16.95 USD
@@ -1813,11 +1813,11 @@
     Availability: Available
     Price: $64.95 USD
 - [French Vanilla Original Candle](https://affinatiliving.com/products/french-vanilla-original-candle): French Vanilla Original Candle – 10 oz French Vanilla is smooth, creamy, and timeless. Rich vanilla blends with soft sweetness for a comforting scent that feels warm and inviting. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Vanilla BeanMiddle Notes: Sweet CreamBase Notes: Warm Sugar, Soft Musk Perfect for everyday comfort and cozy moments, this candle creates a familiar, soothing atmosphere. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:29Z
+  Updated: 2025-12-31T13:07:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_28_2025_at_09_03_30_AM.png?v=1766930631
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1B6595C4-F329-404B-88E2-76A834CDBC6A.png?v=1767186473
   - [Single Order](https://affinatiliving.com/products/french-vanilla-original-candle?variant=42443971756113)
     Availability: Available
     Price: $16.95 USD
@@ -1828,11 +1828,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Black Raspberry Vanilla Original Candle](https://affinatiliving.com/products/black-raspberry-vanilla-original-candle): Black Raspberry Vanilla Original Candle – 10 oz Black Raspberry Vanilla is sweet, smooth, and irresistibly rich. Juicy berries blend with creamy vanilla for a scent that feels warm and indulgent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Black RaspberryMiddle Notes: Sweet Berry BlendBase Notes: Vanilla Cream Perfect for adding warmth and sweetness to your space, this candle feels inviting and comforting. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:29Z
+  Updated: 2025-12-31T15:34:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8448.png?v=1766671273
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/924986DC-08A0-4B57-A8C4-32F8DAE43858.png?v=1767195250
   - [Single Order](https://affinatiliving.com/products/black-raspberry-vanilla-original-candle?variant=42443970674769)
     Availability: Available
     Price: $16.95 USD
@@ -2068,11 +2068,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Fire Roasted Marshmallow Original Candle](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle): Fire Roasted Marshmallow Original Candle – 10 oz Fire Roasted Marshmallow captures the cozy sweetness of toasted marshmallows by the fire. Creamy vanilla blends with subtle smoke for a warm, nostalgic scent. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Toasted SugarMiddle Notes: Marshmallow CreamBase Notes: Soft Smoke, Vanilla Perfect for winter nights and cozy evenings, this candle creates instant comfort and warmth. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:23Z
+  Updated: 2025-12-31T13:08:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8413.png?v=1766510674
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/22917E22-5A50-4FFF-8ADD-7C51301A3264.png?v=1767186508
   - [Single Order](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle?variant=42443954356305)
     Availability: Available
     Price: $16.95 USD
@@ -2278,11 +2278,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Cotton Candy Original Candle](https://affinatiliving.com/products/cotton-candy-original-candle): Cotton Candy Original Candle – 10 oz Cotton Candy is playful, sweet, and lighthearted. Sugary notes blend with soft vanilla for a fun scent that feels nostalgic and cheerful. Made with a clean-burning soy wax blend.Strongly scented. Top Notes: Spun SugarMiddle Notes: Sweet BerryBase Notes: Vanilla Cream Perfect for adding a playful touch to your space, this candle feels bright, fun, and irresistibly sweet. Pair it with our Affinati Matches & Wick Trimmer for the perfect burn every time—your candle’s best companion for clean flames, longer life, and a beautifully polished setup.Up to 55 hours of burn time.
-  Updated: 2025-12-30T17:13:28Z
+  Updated: 2025-12-31T12:43:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B478D76C-EE3F-4954-A9ED-09EF13EBDCEA.png?v=1747387942
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8784.png?v=1767184987
   - [Single Order](https://affinatiliving.com/products/cotton-candy-original-candle?variant=42443941347409)
     Availability: Available
     Price: $16.95 USD
@@ -5436,7 +5436,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [Whipped Pistachio Original Candle](https://affinatiliving.com/products/whipped-pistachio-original-candle): Experience the indulgent aroma of roasted pistachios and vanilla cream with our Whipped Pistachio Soy Candle. Warm, creamy, and luxuriously inviting.
-  Updated: 2025-12-31T02:51:03Z
+  Updated: 2025-12-31T14:51:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5729,7 +5729,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7599.png?v=1763167724
   Price: $17.95 USD
 - [Eucalyptus Pine Original Candle](https://affinatiliving.com/products/eucalyptus-pine-original-candle): Refresh your home with the crisp, natural aroma of our Eucalyptus Pine Original Candle. Hand-poured with a premium soy wax blend, this 10 oz candle delivers a clean, invigorating fragrance inspired by eucalyptus, pine needles, and cedar. Perfect for creating a calming, nature-inspired atmosphere. Burn time: 60–70 hours.
-  Updated: 2025-12-31T02:49:28Z
+  Updated: 2025-12-31T14:49:35Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5956,11 +5956,11 @@
     Availability: Available
     Price: $72.95 USD
 - [Lavender Vanilla Original Candle](https://affinatiliving.com/products/lavender-vanilla-original-candle): Relax your space with the soothing blend of fresh lavender and creamy vanilla. This 10 oz soy-blend candle delivers a clean, even burn and a strong, long-lasting scent that adds a peaceful, cozy ambiance to any room.
-  Updated: 2025-12-28T14:21:26Z
+  Updated: 2025-12-31T15:25:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8432.png?v=1766513526
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B6A730A5-4DB6-47F3-B24B-1C4D54C7F614.png?v=1767194700
   - [Single Order](https://affinatiliving.com/products/lavender-vanilla-original-candle?variant=58396375711825)
     Availability: Available
     Price: $16.95 USD
@@ -6008,7 +6008,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_20_2025_at_05_46_08_AM.png?v=1763635789
   Price: $16.95 USD
 - [Rosemary Mint Original Candle](https://affinatiliving.com/products/rosemary-mint-original-candle): Refresh any room with our Rosemary Mint 10 oz Candle—an invigorating blend of cool mint and herbal rosemary, hand-poured for a clean, long-lasting burn.
-  Updated: 2025-12-31T02:50:16Z
+  Updated: 2025-12-31T14:50:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6136,11 +6136,11 @@
     Availability: Available
     Price: $72.95 USD
 - [Blackberry Sage Original Candle](https://affinatiliving.com/products/blackberry-sage-original-candle): Brighten your home with our Blackberry Sage Original Candle—juicy blackberries and fresh sage create a vibrant, calming aroma with a clean, long-lasting burn.
-  Updated: 2025-12-28T14:21:26Z
+  Updated: 2025-12-31T15:28:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8436.png?v=1766517984
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/EAEEF0F6-2A9A-4D7D-8A83-C9BEE8F2E6E0.png?v=1767194910
   - [Single Order](https://affinatiliving.com/products/blackberry-sage-original-candle?variant=58405720883281)
     Availability: Available
     Price: $16.95 USD
@@ -6257,11 +6257,11 @@
     Availability: Available
     Price: $72.95 USD
 - [Blackberry Absinthe Original Candle](https://affinatiliving.com/products/blackberry-absinthe-original-candle): Indulge in luxury with our Blackberry Absinthe Original Candle. Dark berries, plum, and absinthe create a smooth, moody, long-lasting fragrance in any room.
-  Updated: 2025-12-28T14:21:27Z
+  Updated: 2025-12-31T15:25:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_26_2025_at_03_58_47_PM.png?v=1766782755
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/0AF0D97C-25F1-4845-ACAE-7FC446305EE3.png?v=1767194743
   - [Single Order](https://affinatiliving.com/products/blackberry-absinthe-original-candle?variant=58415750217809)
     Availability: Available
     Price: $16.95 USD
@@ -6941,11 +6941,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Eucalyptus Tea Original Candle](https://affinatiliving.com/products/eucalyptus-tea-original-candle): Refresh your space with our Eucalyptus Tea 10 oz Original Candle—clean eucalyptus, soft white tea, and gentle herbal notes for a calming, spa-like ambiance.
-  Updated: 2025-12-31T05:19:03Z
+  Updated: 2025-12-31T12:03:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_30_2025_at_12_12_34_PM.png?v=1767114792
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8783.png?v=1767182626
   - [Single Order](https://affinatiliving.com/products/eucalyptus-tea-original-candle?variant=58477634453585)
     Availability: Available
     Price: $16.95 USD
@@ -7767,7 +7767,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Matcha Latte Original Candle](https://affinatiliving.com/products/matcha-latte-original-candle): Create a calm, cozy atmosphere with our Matcha Latte Original Candle (10 oz). Earthy matcha, creamy milk, and soft vanilla in a clean-burning soy wax blend.
-  Updated: 2025-12-31T02:47:54Z
+  Updated: 2025-12-31T14:47:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7872,11 +7872,11 @@
     Availability: Available
     Price: $64.95 USD
 - [Creamy Buttercream Original Candle](https://affinatiliving.com/products/creamy-buttercream-original-candle): Indulge in the warm, comforting scent of Creamy Buttercream with this 10 oz soy candle. Whipped vanilla, sweet buttercream, and soft sugar create a cozy, bakery-inspired atmosphere.
-  Updated: 2025-12-31T05:00:34Z
+  Updated: 2025-12-31T13:08:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8756.png?v=1767114020
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ADF9D9D6-2C98-4926-9E87-7AA23F744F12.png?v=1767186536
   - [Single Order](https://affinatiliving.com/products/creamy-buttercream-original-candle?variant=58524638707793)
     Availability: Available
     Price: $16.95 USD
@@ -7929,7 +7929,7 @@
   Updated: 2025-12-18T18:11:45Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-12-30T21:05:30Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 93
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
   Updated: 2025-12-29T12:09:25Z
@@ -7959,7 +7959,7 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-30T21:05:30Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 354
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-29T12:09:25Z
@@ -7989,16 +7989,16 @@
   Updated: 2025-12-29T12:09:25Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 120
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
   Updated: 2025-12-30T21:05:30Z
   Total Products: 148
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 136
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 103
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
   Updated: 2025-12-30T21:05:27Z
@@ -8007,10 +8007,10 @@
   Updated: 2025-12-30T21:05:21Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 138
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-30T21:05:27Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 24
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
   Updated: 2025-12-30T21:05:29Z
@@ -8028,13 +8028,13 @@
   Updated: 2025-12-30T21:05:30Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 86
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 49
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
-  Updated: 2025-12-26T12:07:15Z
+  Updated: 2025-12-31T12:09:20Z
   Total Products: 3
 - [Scent Collection Bundles](https://affinatiliving.com/collections/scent-collection-bundles): Explore Affinati’s Scent Collection Bundles—each includes a 3-wick candle, room spray, and body lotion crafted in luxurious, signature fragrances.
   Updated: 2025-12-20T12:10:15Z
