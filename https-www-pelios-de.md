@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-26T00:00:39.154Z
+- Updated At: 2025-12-31T00:00:39.457Z
 
 ## Products
 
@@ -436,6 +436,26 @@
     Updated: 2025-12-25T04:20:20Z
     Author: Marek Stein
     Tags: kaminofen speckstein 8 kw
+  - [Kaminofen Abnahme Schornsteinfeger: Schritt‑für‑Schritt zur sicheren Prüfung](https://www.pelios.de/blogs/news/kaminofen-abnahme-schornsteinfeger-schritt-fur-schritt-zur-sicheren-prufung)
+    Updated: 2025-12-26T00:59:51Z
+    Author: Marek Stein
+    Tags: kaminofen abnahme schornsteinfeger
+  - [10 empfehlenswerte heizstrahler terrasse elektrisch für gemütliche Abende](https://www.pelios.de/blogs/news/10-empfehlenswerte-heizstrahler-terrasse-elektrisch-fur-gemutliche-abende)
+    Updated: 2025-12-27T01:04:11Z
+    Author: Marek Stein
+    Tags: heizstrahler terrasse elektrisch
+  - [Ethanol Kamin ohne Schornstein: Installation, Sicherheit und Auswahl leicht gemacht](https://www.pelios.de/blogs/news/ethanol-kamin-ohne-schornstein-installation-sicherheit-und-auswahl-leicht-gemacht)
+    Updated: 2025-12-28T01:01:15Z
+    Author: Marek Stein
+    Tags: ethanol kamin ohne schornstein
+  - [Kaminofen Ersatzteile Scheibe: Alles, was Sie für den Austausch wissen](https://www.pelios.de/blogs/news/kaminofen-ersatzteile-scheibe-alles-was-sie-fur-den-austausch-wissen)
+    Updated: 2025-12-29T05:42:46Z
+    Author: Marek Stein
+    Tags: kaminofen ersatzteile scheibe
+  - [Pelletofen mit Kanalisierung – 5 entscheidende Vorteile für effizientes Heizen](https://www.pelios.de/blogs/news/pelletofen-mit-kanalisierung-5-entscheidende-vorteile-fur-effizientes-heizen)
+    Updated: 2025-12-30T04:59:02Z
+    Author: Marek Stein
+    Tags: pelletofen mit kanalisierung
 
 ## Store Pages
 
