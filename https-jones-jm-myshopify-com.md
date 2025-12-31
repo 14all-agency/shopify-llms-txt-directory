@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-12-30T20:00:23.579Z
+- Updated At: 2025-12-31T04:00:23.749Z
 
 ## Products
 
@@ -797,6 +797,9 @@
     Author: User
   - [Trends in Snowboarding: What's Hot This Season](https://jones-jm.myshopify.com/blogs/news/trends-in-snowboarding-whats-hot-this-season): Trends in Snowboarding: What's Hot This Season
     Updated: 2025-12-30T00:01:19Z
+    Author: User
+  - [Comparing Snowboarding Destinations: Which Slopes Suit Your Style](https://jones-jm.myshopify.com/blogs/news/comparing-snowboarding-destinations-which-slopes-suit-your-style): Comparing Snowboarding Destinations: Which Slopes Suit Your Style
+    Updated: 2025-12-31T00:01:28Z
     Author: User
 
 ## Store Pages
