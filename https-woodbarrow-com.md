@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-12-26T00:00:44.149Z
+- Updated At: 2025-12-31T00:00:45.263Z
 
 ## Products
 
@@ -2169,18 +2169,12 @@
 
 ## Collections
 
-- [Hospitality Supplies in UAE - Premium Wooden Hospitality Products](https://woodbarrow.com/collections/hospitality-supplies-in-uae): Discover premium quality hospitality supplies in UAE. Our wooden hospitality supplies are expertly crafted to elevate your establishment. Shop now for exceptional durability and style!
-  Updated: 2025-10-23T14:38:52Z
-  Total Products: 2
 - [Hotel & Hospitality](https://woodbarrow.com/collections/hotel-hospitality)
   Updated: 2025-09-30T13:39:31Z
   Total Products: 227
 - [All Products](https://woodbarrow.com/collections/all-products)
   Updated: 2025-10-23T14:42:07Z
   Total Products: 215
-- [Signage](https://woodbarrow.com/collections/signage)
-  Updated: 2025-09-30T13:39:31Z
-  Total Products: 3
 - [Trophies](https://woodbarrow.com/collections/trophies)
   Updated: 2025-09-30T13:39:32Z
   Total Products: 77
@@ -2205,21 +2199,9 @@
 - [Hotel and Hospitality Accesories](https://woodbarrow.com/collections/hotel-and-hospitality-accesories)
   Updated: 2025-09-30T13:39:34Z
   Total Products: 219
-- [Award Plaques](https://woodbarrow.com/collections/award-plaques)
-  Updated: 2025-09-30T13:39:34Z
-  Total Products: 2
-- [Business & Industrial](https://woodbarrow.com/collections/business-industrial)
-  Updated: 2025-09-30T13:39:34Z
-  Total Products: 1
 - [Cutting Boards/ Pizza Tray](https://woodbarrow.com/collections/cutting-board)
   Updated: 2025-09-30T13:39:34Z
   Total Products: 25
-- [Retail & Sale signs](https://woodbarrow.com/collections/retail-sale-signs)
-  Updated: 2025-09-30T13:39:35Z
-  Total Products: 2
-- [Kitchen & Dining](https://woodbarrow.com/collections/kitchen-dining)
-  Updated: 2025-09-30T13:39:35Z
-  Total Products: 2
 - [Cutting Boards & Serving Trays](https://woodbarrow.com/collections/cutting-boards-serving-trays)
   Updated: 2025-06-18T14:18:28Z
   Total Products: 31
@@ -2256,15 +2238,15 @@
 - [Cutting Boards](https://woodbarrow.com/collections/cutting-boards)
   Updated: 2025-04-05T11:23:15Z
   Total Products: 34
-- [Gift Boxes & Tins](https://woodbarrow.com/collections/gift-boxes)
-  Updated: 2025-04-05T14:12:16Z
-  Total Products: 1
 - [Wooden Caddy/Cutlery Holder](https://woodbarrow.com/collections/wooden-caddy-cutlery-holder)
   Updated: 2025-09-30T13:39:36Z
   Total Products: 12
 - [Wooden Coaster](https://woodbarrow.com/collections/wooden-coaster)
   Updated: 2025-09-30T13:39:37Z
   Total Products: 5
+- [Wooden Platter & Serving Tray Wooden | Wooden Serving Platter](https://woodbarrow.com/collections/wooden-platter): Shop premium wooden platter designs — serving tray wooden, round wooden platter & wooden serving platter. Durable, food-safe, customizable, perfect for hospitality.
+  Updated: 2025-12-30T09:16:27Z
+  Total Products: 16
 
 ## Blogs
 
