@@ -8,14 +8,14 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2025-12-30T00:00:28.451Z
+- Updated At: 2025-12-31T00:00:27.517Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
-  Updated: 2025-12-29T15:18:55Z
+  Updated: 2025-12-30T11:22:19Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
   Updated: 2025-12-14T08:11:15Z
@@ -24,7 +24,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:11:16Z
   Total Products: 5622
 - [System On Chip SoC Integrated Circuits for AI & Edge Computing - HQICKEY](https://hqickey.com/collections/system-on-chip-soc): High-performance System-on-Chip (SoC) solutions combining microprocessors, FPGA co-processors & graphics controllers for AI acceleration and edge computing applications.
-  Updated: 2025-12-29T21:47:51Z
+  Updated: 2025-12-30T23:29:57Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
   Updated: 2025-12-14T08:11:18Z
@@ -222,7 +222,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:22Z
   Total Products: 244
 - [Memory Semiconductor Devices: Non-Volatile & Volatile Storage Solutions (64b – 6Tb)](https://hqickey.com/collections/memory): Discover Memory Semiconductor Devices including Non-Volatile (EEPROM, Flash) and Volatile (DRAM, SRAM) types. Features 64b–6Tb storage with I2C, SPI, and Parallel interfaces for integrated circuit applications.
-  Updated: 2025-12-29T22:04:04Z
+  Updated: 2025-12-30T03:54:40Z
   Total Products: 54444
 - [Specialized Integrated Circuits (ICs): Application-Specific Solutions for Automation, Security & Multimedia](https://hqickey.com/collections/specialized-ics): Explore specialized ICs for addressable switches, authentication, audio/video control, clock generation, and more. Discover how these purpose-built chips enable precision in industrial, consumer, and embedded systems.
   Updated: 2025-12-26T09:55:32Z
@@ -231,7 +231,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-20T05:20:44Z
   Total Products: 61
 - [AC to DC Power Conversion Devices | Component-Level Control & Isolation Solutions](https://hqickey.com/collections/ac-dc-converters-offline-switchers): Design robust AC to DC power systems with component-level control devices. Supports high voltage ratios, isolation, and integration with stock/custom SMPS transformers for efficient, flexible applications.
-  Updated: 2025-12-29T15:54:48Z
+  Updated: 2025-12-30T19:58:28Z
   Total Products: 4383
 - [Battery Charger PMICs | Multi-Cell & Chemistry Charge Management Solutions](https://hqickey.com/collections/battery-chargers): Optimize battery charging with PMICs for precision current/voltage regulation and monitoring. Supports diverse battery chemistries, multi-cell configurations, supercapacitors, and safe, integrated power management.
   Updated: 2025-12-14T08:13:28Z
@@ -330,11 +330,59 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-29T11:28:05Z
   Total Products: 21891
 - [Microchip Technology ICs - Atmel, Microsemi, Micrel Components | HQICKEY Authorized Distributor](https://hqickey.com/collections/microchip-technology): Authorized Microchip Technology distributor. Atmel MCUs, Microsemi FPGAs, Micrel power ICs, SMSC controllers, SST memory. RoHS compliant, full traceability, global shipping.
-  Updated: 2025-12-29T12:02:42Z
-  Total Products: 63462
+  Updated: 2025-12-30T08:09:45Z
+  Total Products: 63490
 - [Renesas Electronics ICs - IDT & Celeno Semiconductors | HQICKEY](https://hqickey.com/collections/renesas): Premium Renesas semiconductors including IDT, Celeno & Renesas Electronics components. CPLDs, FPGAs, microcontrollers, memory & timing ICs with full traceability.
   Updated: 2025-12-29T14:07:23Z
   Total Products: 54207
+- [Infineon Technologies ICs | Cypress Semiconductor & International Rectifier - HQICKEY](https://hqickey.com/collections/infineon-technologies): Authorized distributor of Infineon Technologies, Cypress Semiconductor Corp, and International Rectifier components. Full traceability, RoHS/REACH compliant power ICs, FPGAs, and memory solutions.
+  Updated: 2025-12-30T05:34:10Z
+  Total Products: 26035
+- [Cypress Semiconductor Corp Components by Infineon - HQICKEY](https://hqickey.com/collections/cypress-semiconductor-corp): Authorized distributor of Cypress Semiconductor Corp (Infineon) memory ICs, PSoC microcontrollers, USB controllers & power management solutions. RoHS compliant, full traceability.
+  Updated: 2025-12-30T05:32:15Z
+  Total Products: 3716
+- [International Rectifier Power Management ICs & Gate Drivers - HQICKEY](https://hqickey.com/collections/international-rectifier): Authorized distributor of International Rectifier (Infineon) MOSFETs, IGBTs, gate drivers & power management ICs. High-reliability components with full traceability.
+  Updated: 2025-12-30T05:40:44Z
+  Total Products: 81
+- [SST Silicon Storage Technology Flash Memory & NOR Flash ICs - HQICKEY](https://hqickey.com/collections/sst-silicon-storage-technology-inc): Authorized distributor of SST Silicon Storage Technology NOR Flash, parallel Flash, serial Flash & EEPROM memory ICs. RoHS compliant with full traceability.
+  Updated: 2025-12-30T06:18:12Z
+  Total Products: 5
+- [SMSC Semiconductor Components & Network Controllers - HQICKEY](https://hqickey.com/collections/smsc): Authorized SMSC distributor offering Ethernet controllers, USB hubs, LAN ICs & communication components. Full traceability, RoHS compliance, long lifecycle support.
+  Updated: 2025-12-30T06:27:42Z
+  Total Products: 310
+- [Micrel Inc. Power Management ICs & Voltage Regulators - HQICKEY](https://hqickey.com/collections/micrel-inc): Authorized Micrel Inc. distributor offering LDO regulators, power management ICs & analog components. Full traceability, RoHS compliance, long lifecycle support for industrial applications.
+  Updated: 2025-12-30T06:44:07Z
+  Total Products: 605
+- [Atmel Microcontrollers & Secure Authentication ICs - HQICKEY](https://hqickey.com/collections/atmel): Authorized Atmel distributor offering microcontrollers, crypto authentication ICs & secure memory devices. Full traceability, RoHS compliance, long lifecycle support for embedded systems.
+  Updated: 2025-12-30T06:51:07Z
+  Total Products: 307
+- [Microsemi Corporation FPGAs & Power Management ICs - HQICKEY](https://hqickey.com/collections/microsemi-corporation): Authorized Microsemi Corporation distributor offering FPGAs, power management ICs, timing solutions & analog components. Full traceability, MIL-STD compliance, long lifecycle support.
+  Updated: 2025-12-30T06:57:50Z
+  Total Products: 1383
+- [STMicroelectronics ICs & Semiconductors - Authorized Stock | HQICKEY](https://hqickey.com/collections/stmicroelectronics): Authorized distributor of STMicroelectronics components. Full traceability, RoHS/REACH compliant. Power management ICs, EEPROMs, automotive-grade semiconductors in stock.
+  Updated: 2025-12-30T07:13:11Z
+  Total Products: 16511
+- [ONSEMI Qorvo Fairchild Catalyst AMI Semiconductors - Authorized Distributor | HQICKEY](https://hqickey.com/collections/onsemi): Authorized distributor of ONSEMI, Qorvo, Fairchild, Catalyst & AMI semiconductors. Full traceability, RoHS/REACH compliant. Power ICs, RF components, memory solutions in stock.
+  Updated: 2025-12-30T07:44:33Z
+  Total Products: 31908
+- [VISHAY Components - Semiconductor, Opto & Passive Solutions | HQICKEY](https://hqickey.com/collections/vishay): Authorized VISHAY distributor offering Semiconductor Opto Division, Vitramon, Sprague, Siliconix & Sfernice components. Full traceability, RoHS compliance & lifecycle support.
+  Updated: 2025-12-30T13:58:30Z
+  Total Products: 1383
+- [Vishay Semiconductor Opto Division Components - Optocouplers & Photodiodes | HQICKEY](https://hqickey.com/collections/vishay-semiconductor-opto-division): Authorized distributor of Vishay Semiconductor Opto Division optocouplers, photodiodes, IR emitters & optical sensors. Full traceability, RoHS compliance & long lifecycle support.
+  Updated: 2025-12-30T14:09:08Z
+  Total Products: 5
+- [Vishay Vitramon Capacitors & Components - Authorized Distributor | HQICKEY](https://hqickey.com/collections/vishay-vitramon): Shop genuine Vishay Vitramon MLCCs, tantalum capacitors & precision components. Authorized distributor with full traceability, RoHS compliance & extended lifecycle support.
+  Updated: 2025-12-30T14:24:22Z
+  Total Products: 1
+- [Vishay Sprague Capacitors & Components - Authorized Distributor | HQICKEY](https://hqickey.com/collections/vishay-sprague): Shop authentic Vishay Sprague tantalum capacitors, aluminum electrolytic capacitors & high-reliability components. Authorized distributor with full traceability.
+  Updated: 2025-12-30T14:28:16Z
+  Total Products: 1
+- [Vishay Siliconix MOSFETs & Power ICs - Authorized Distributor | HQICKEY](https://hqickey.com/collections/vishay-siliconix): Shop authentic Vishay Siliconix power management ICs, MOSFETs & analog switches. Authorized distributor with full traceability, RoHS compliance & global shipping.
+  Updated: 2025-12-30T14:29:06Z
+  Total Products: 1375
+- [Vishay Sfernice Precision Resistors & Sensors | High-Reliability Components - HQICKEY](https://hqickey.com/collections/vishay-sfernice): Authorized distributor of Vishay Sfernice precision resistors, sensors, and high-reliability components. Full traceability, RoHS/REACH compliant. Shop genuine Vishay Sfernice products.
+  Updated: 2025-12-30T14:32:35Z
+  Total Products: 1
 
 ## Blogs
 
@@ -381,8 +429,8 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-06-30T22:35:39Z
 - [More Info](https://hqickey.com/pages/about-us): Global Marketplace In our extensive global network, our supply electorinc components list unsold inventory from trusted manufacturers and distribut...
   Updated: 2025-04-05T07:18:23Z
-- [Contact us](https://hqickey.com/pages/contact-us)
-  Updated: 2025-04-05T07:35:27Z
+- [Contact Us - HQICKEY | Semiconductor Component Supplier](https://hqickey.com/pages/contact-us): 
+  Updated: 2025-12-30T14:37:01Z
 - [sell on hqickey.com](https://hqickey.com/pages/sell-on-hqickey-com)
   Updated: 2025-04-22T16:02:35Z
 - [Sign up](https://hqickey.com/pages/sign-up)
