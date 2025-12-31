@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-31T12:00:25.154Z
+- Updated At: 2025-12-31T16:00:24.945Z
 
 ## Products
 
@@ -196,12 +196,12 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/81731-BLNK-OE-05-07-BCS-BC1.webp?v=1767145971
   Price: $21.53 USD
 - [Beeswax Beard Balm](https://www.ironforgebeardco.com/products/beeswax-beard-balm): Beeswax Beard Balm with Lime and Bay Rum Oil: Nourish Your Beard, Tame the Wild🧔 Tame your majestic beard and embark on a journey of grooming excellence with our Beeswax Beard Balm enriched with the invigorating scents of lime and bay rum oil. Experience the perfect blend of nature's finest ingredients, crafted to moisturise your beard, replenish its natural oils, and ensure unrivalled softness and manageability.Key Ingredients for Beard Perfection:🐝 Premium Beeswax: The heart of our beard balm, beeswax, offers a firm yet flexible hold, taming unruly whiskers with ease. It seals in moisture, giving your beard a polished and well-groomed appearance.🍋 Lime Oil: Zesty and refreshing, lime oil invigorates your senses and leaves a subtle, uplifting aroma in your beard. Its astringent properties help cleanse the skin beneath your beard, preventing clogged pores and promoting a healthy beard foundation.🌴 Bay Rum Oil: Revel in the warm, exotic scent of bay rum oil, reminiscent of tropical shores. This aromatic oil not only provides an alluring fragrance but also contains natural antimicrobial properties, promoting a fresh and clean beard environment.🍃 Moisturising Butters and Oils: Rich shea butter and nourishing coconut oil combine to deeply moisturise and condition your beard, combating dryness and preventing itchiness.Benefits for Your Bearded Majesty:1. 💧 Intense Hydration: Our beeswax beard balm is a moisture powerhouse, effectively combating beard dryness, flakiness, and itchiness, leaving your beard irresistibly soft and touchable.2. 💈 Tame the Unruly: Embrace a well-groomed appearance with our balm's firm yet flexible hold. Tame flyaways and shape your beard effortlessly, all while maintaining a natural look.3. 🧔 Soothing and Nourishing: Say goodbye to beard itch and irritation. Our balm's natural ingredients soothe the skin beneath your beard, promoting a comfortable and healthy beard-growing experience.4. 🌿 Natural Oil Replacement: Beeswax, combined with shea butter and coconut oil, mimics the natural oils produced by your skin, replenishing what's lost during cleansing and beard care.5. 🍋 Zesty Freshness: The invigorating scent of lime oil refreshes your senses, providing a burst of energy to kickstart your day.6. 🌴 Exotic Appeal: Indulge in the alluring scent of bay rum oil, transporting your senses to sun-kissed tropical shores.Crafting the Ultimate Beard Balm:🌱 Our Beeswax Beard Balm is meticulously crafted with a commitment to quality and the finest natural ingredients. We ensure that every tin delivers the nourishment and grooming prowess your beard deserves.🐝 Ethical Sourcing: We take pride in ethically sourcing our beeswax, ensuring the well-being of bees and the environment.Embrace the Bearded Elegance:With our Beeswax Beard Balm, your beard will radiate a captivating charm, reflecting your dedication to grooming excellence. Unleash your beard's true potential as it becomes a testament to the power of nature's finest ingredients. Embrace the softness, the alluring scent, and the unrivalled manageability of a beard that's truly fit for a king. 👑🧔
-  Updated: 2025-12-30T23:53:32Z
+  Updated: 2025-12-31T14:15:36Z
   Vendor: More Bees Please
   Product Type: Aftershave Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/beard-balm.jpg?v=1767118985
-  Price: $10.40 USD
+  Price: $10.37 USD
 - [WOOD AND SPICE beard balm 300 ml](https://www.ironforgebeardco.com/products/wood-and-spice-beard-balm-300-ml): PRORASO's YELLOW beard balm is specially designed to alleviate the discomfort associated with the early stages of beard growth. It provides hydration and comfort as your beard develops. With an aromatic blend of cedar and guaiac wood, it also carries a gentle hint of amber. The soothing touch of vanilla adds to the enriching experience, ensuring your facial hair feels nurtured and cared for.Ingredientes: Aqua (Water/ Eau), Polysorbate 40, Dicaprylyl Ether, Glycerin, Polyquaternium-37, Parfum (Fragrance), Caprylyl Glycol, Phenoxyethanol, Benzyl Alcohol, Eucaplyptus globulus Leaf Oil, Ethylhexylglycerin, Menthol, Tocopheryl Acetate, Citric Acid, Alpha-Isomethyl Ionone, Limonene, Coumar.
   Updated: 2025-12-30T23:53:33Z
   Vendor: Proraso
@@ -430,7 +430,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MPN-BS5-2.png?v=1766805617
   Price: $12.99 USD
 - [Moustache Wax](https://www.ironforgebeardco.com/products/moustache-wax): Discover our natural moustache wax for a firm hold and easy styling. Made with beeswax, lanolin, and argan oil for optimal grooming. Shop now!
-  Updated: 2025-12-30T23:53:36Z
+  Updated: 2025-12-31T12:29:09Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -650,13 +650,13 @@
   Updated: 2025-12-30T23:53:30Z
   Total Products: 6
 - [Best Sellers Collection - Top-Rated Products at](https://www.ironforgebeardco.com/collections/best-sellers-colec): Discover the best sellers collection at AVADA. Shop top-rated products and find popular items that suit your style. Free shipping on select orders.
-  Updated: 2025-12-31T05:18:35Z
+  Updated: 2025-12-31T14:15:37Z
   Total Products: 64
 - [All Product](https://www.ironforgebeardco.com/collections/all-product)
-  Updated: 2025-12-30T20:26:02Z
+  Updated: 2025-12-31T14:15:37Z
   Total Products: 55
 - [Optimize](https://www.ironforgebeardco.com/collections/optimize)
-  Updated: 2025-12-30T20:26:02Z
+  Updated: 2025-12-31T14:15:37Z
   Total Products: 55
 - [Empty](https://www.ironforgebeardco.com/collections/empty)
   Updated: 2025-12-30T20:25:19Z
@@ -699,7 +699,10 @@
     Updated: 2025-12-31T01:43:45Z
     Author: james powers
   - [Beard Nylon Brush: A Vegan Tool for Detangling & Grooming](https://www.ironforgebeardco.com/blogs/news/beard-nylon-brush-a-vegan-tool-for-detangling-grooming)
-    Updated: 2025-12-31T06:01:08Z
+    Updated: 2025-12-31T13:01:37Z
+    Author: Clickfrom AI Agent
+  - [Cold Brew Beard Oil: A Grooming Guide for Everyday Men](https://www.ironforgebeardco.com/blogs/news/cold-brew-beard-oil-a-grooming-guide-for-everyday-men)
+    Updated: 2025-12-31T13:01:07Z
     Author: Clickfrom AI Agent
 
 ## Store Pages
