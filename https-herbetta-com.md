@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-27T03:01:22Z
 - Contact Email: naturalstulsi@gmail.com
-- Updated At: 2025-12-29T00:00:31.541Z
+- Updated At: 2025-12-31T00:00:32.177Z
 
 ## Products
 
@@ -185,6 +185,18 @@
   - [200g](https://herbetta.com/products/herbetta-pure-rose-petal-powder-for-face-skin-care-100-natural-chemical-free?variant=51500766298394)
     Availability: Available
     Price: ₹269.00 INR
+- [Herbetta Triphala Churna for Digestion & Gut Health](https://herbetta.com/products/herbetta-triphala-powder-churna-for-digestion-gut-health-100-pure-natural-herbal-powder): Herbetta Triphala Churna is a pure herbal powder that supports digestion and gut comfort. Made from traditional herbs with no chemicals added.
+  Updated: 2025-12-30T04:16:27Z
+  Vendor: Herbetta
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0853/1482/files/triphala.png?v=1767068001
+  - [100g](https://herbetta.com/products/herbetta-triphala-powder-churna-for-digestion-gut-health-100-pure-natural-herbal-powder?variant=51506652807450)
+    Availability: Available
+    Price: ₹149.00 INR
+  - [200g](https://herbetta.com/products/herbetta-triphala-powder-churna-for-digestion-gut-health-100-pure-natural-herbal-powder?variant=51506652840218)
+    Availability: Available
+    Price: ₹239.00 INR
 
 ## Collections
 
@@ -201,11 +213,11 @@
   Updated: 2025-12-24T05:43:50Z
   Total Products: 1
 - [Health Care](https://herbetta.com/collections/health-care)
-  Updated: 2025-12-25T12:18:12Z
-  Total Products: 2
+  Updated: 2025-12-30T04:16:09Z
+  Total Products: 3
 - [AVADA - Best Sellers](https://herbetta.com/collections/avada-best-sellers)
-  Updated: 2025-12-28T12:21:18Z
-  Total Products: 15
+  Updated: 2025-12-30T04:16:26Z
+  Total Products: 16
 
 ## Store Pages
 
