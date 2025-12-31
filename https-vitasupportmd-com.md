@@ -11,54 +11,54 @@ This philosophy is what makes every VitasupportMD team member so special, and so
 - Contact Email: help@vitasupportmd.com
 - Contact Phone: 862-246-7877
 - Address: 205 Robin Road, Suite 120, Paramus, NJ 07652
-- Updated At: 2025-12-28T00:00:36.204Z
+- Updated At: 2025-12-31T00:00:35.933Z
 
 ## Products
 
 - [H Formula: Doctor-Formulated Hemorrhoidal Vein Support](https://vitasupportmd.com/products/hemorrhoid-formula-1000): Doctor-formulated: discover how walking outdoors may help boost mood, support vitamin D, and ease stress. Read more.
-  Updated: 2025-12-26T22:57:27Z
+  Updated: 2025-12-30T18:45:36Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/3_545d215c-cb10-4a43-a5b2-0c21cc636f47.png?v=1762963633
   Price: $49.95 USD
 - [Vein Formula 1000 | Diosmin & Hesperidin for Vein Support](https://vitasupportmd.com/products/vein-formula-1000): Our leading supplement, Vein Formula with 1000mg of diosmin and hesperidin, supports leg vein health and circulation. Happy legs await!
-  Updated: 2025-12-27T21:19:02Z
+  Updated: 2025-12-30T17:32:02Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/1_775e4f8a-8cfa-4d8f-b967-86622a5aee3e.png?v=1762963595
   Price: $49.95 USD
 - [Lymphatic Formula 1000 | Support for Lymphatic Health](https://vitasupportmd.com/products/lymphatic-formula-1000): Lymphatic Formula 1000 supports your lymphatic health. Its formula is based on micronized flavonoids, Vitamin D3 and Selenium. See prices and availability
-  Updated: 2025-12-27T20:48:02Z
+  Updated: 2025-12-30T17:00:57Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/2_f542a794-9ba6-416c-a1be-f2bd6ec164a4.png?v=1762963621
   Price: $49.95 USD
 - [Vein & H Formula Bundle: Doctor-Formulated Vein Support](https://vitasupportmd.com/products/vein-formula-1000-hemorrhoid-formula-1000-bundle): Doctor-formulated blend of MPFF and horse chestnut to help support healthy leg and hemorrhoidal veins. Made in the USA. Order now for wellness.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T03:24:21Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VH.png?v=1764848051
   Price: $89.95 USD
 - [Doctor-Formulated Bundle for Circulation Support](https://vitasupportmd.com/products/vein-formula-1000-lymphatic-formula-1000): Doctor-formulated support for healthy leg veins and lymphatic flow with MPFF-based supplements. Improve circulation—shop the bundle today.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T19:01:37Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VL.png?v=1764848032
   Price: $89.95 USD
 - [Lymphatic & H Formula Bundle – Doctor-Formulated Support](https://vitasupportmd.com/products/hemorrhoid-formula-1000-lymphatic-formula-1000-bundle): Doctor-formulated bundle to support your healthy lymphatic and hemorrhoidal veins. Trusted ingredients. Save on wellness—subscribe or order now.
-  Updated: 2025-12-27T03:23:47Z
+  Updated: 2025-12-30T03:24:14Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/HL.png?v=1764848008
   Price: $89.95 USD
 - [Family Health Bundle: Doctor-Formulated Circulation Support](https://vitasupportmd.com/products/family-health-bundle-all-formulas): Doctor-formulated bundle with MPFF, horse chestnut, vitamin D3 & selenium to support healthy veins, lymphatics & circulation. Shop now for wellness.
-  Updated: 2025-12-27T03:23:52Z
+  Updated: 2025-12-30T03:24:20Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
@@ -101,49 +101,49 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/WholesaleVeinFormula.png?v=1760357437
   Price: $269.00 USD
 - [Tri-Power Circulation Formula – Supports Healthy Veins](https://vitasupportmd.com/products/tri-power-formula): Doctor-approved Tri-Power Circulation Formula supports healthy veins and circulation. Order now for better vein health and enjoy free shipping!
-  Updated: 2025-12-27T14:00:58Z
+  Updated: 2025-12-30T03:24:17Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VitasupportMD_Product_Imagery_-_No_gaps_1.png?v=1762846112
   Price: $39.95 USD
 - [Wholesale Tri-Power Circulation Formula](https://vitasupportmd.com/products/wholesale-tri-power-circulation-formula): Discover the elegance of Tri-Power Circulation Formula, a premium supplement designed to support natural circulation and maintain healthy veins. This carefully curated blend of ingredients—Butcher's Broom, Hesperidin Methyl Chalcone, and Vitamin C—offers a refined approach to supporting the circulatory system.
-  Updated: 2025-12-27T03:23:51Z
+  Updated: 2025-12-30T03:24:17Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/WholesaleTri-PowerCirculationFormula.png?v=1760357412
   Price: $269.88 USD
 - [Vein & Lymphatic Formula Bundle | Micronized Flavonoid Support](https://vitasupportmd.com/products/vein-formula-lymphatic-formula-bundle-copy): Support healthy veins and lymphatic health with our Vein & Lymphatic Formula Bundle. Contains micronized flavonoids for superior absorption and effectiveness.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T03:24:21Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TV_605d1a4d-f1bd-404e-8d90-fc03760e4265.png?v=1764847969
   Price: $80.90 USD
 - [Vein & Lymphatic Formula Bundle | Micronized Flavonoid Support](https://vitasupportmd.com/products/tri-power-formula-vein-formula-bundle-copy): Support healthy veins and lymphatic health with our Vein & Lymphatic Formula Bundle. Contains micronized flavonoids for superior absorption and effectiveness.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T03:24:21Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TL_d05f603b-25c5-403a-b982-4d91496103a4.png?v=1764847953
   Price: $80.90 USD
 - [Vein & Lymphatic Formula Bundle | Micronized Flavonoid Support](https://vitasupportmd.com/products/tri-power-formula-lymphatic-formula-copy): Support healthy veins and lymphatic health with our Vein & Lymphatic Formula Bundle. Contains micronized flavonoids for superior absorption and effectiveness.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T03:24:21Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TH_cc72f0e3-b010-46d2-984a-f753c215cf71.png?v=1764847935
   Price: $80.91 USD
 - [Complete Family Circulation Support Bundle](https://vitasupportmd.com/products/complete-family-circulation-support-bundle): Products Included: Vein Formula + Lymphatic Formula + H Formula + Tri-Power Formula The Complete Family Circulation Support Bundle is designed to support the whole family’s wellness. With formulas that promote healthy veins, circulation, and lymphatic health, as well as immune function, this bundle offers essential support for active lifestyles. Ideal for families seeking to maintain a healthy and balanced approach to overall wellness, this bundle brings vitality to everyone.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T03:24:21Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/CompleteFamilyCirculationSupportBundle.png?v=1760356317
   Price: $170.82 USD
 - [Healthy Circulation Trio](https://vitasupportmd.com/products/healthy-circulation-trio): Products Included: Vein Formula + Lymphatic Formula + Tri-Power Formula The Healthy Circulation Trio offers a focused combination to support healthy veins and circulation, lymphatic function, and immune health. Designed for those who want to maintain an active lifestyle and promote overall wellness, this bundle combines three powerful formulas to keep you feeling your best, every step of the way.
-  Updated: 2025-12-27T03:23:55Z
+  Updated: 2025-12-30T03:24:23Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -157,7 +157,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/5_ba58f439-7df3-43fa-a2b8-78f45a6d9e79.png?v=1762963643
   Price: $69.95 USD
 - [Brochure – Tri-Power Circulation Formula 25pk](https://vitasupportmd.com/products/brochure-tri-power-circulation-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements This brochure introduces Tri-Power Circulation Formula, which combines Butcher’s Broom, Hesperidin Methyl Chalcone, and Vitamin C for comprehensive support of vein health and circulation. Designed for patients seeking targeted circulation support, this product is supported by clinical research and high-quality ingredients.
-  Updated: 2025-12-27T03:23:46Z
+  Updated: 2025-12-30T03:24:09Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TriPowerFormulainSpaniola.jpg?v=1760362003
     Price: $1.00 USD
 - [Brochure – H Formula 25pk](https://vitasupportmd.com/products/brochure-h-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements In this presentation brochure, discover H Formula—designed to support healthy hemorrhoidal vein function. Combining 1000 mg of MPFF with 300 mg of horse chestnut seed extract per 2-capsule serving, this formula is backed by research supporting healthy circulation. It’s an effective recommendation for patients looking to maintain vein health.
-  Updated: 2025-12-27T03:23:46Z
+  Updated: 2025-12-30T03:24:09Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -183,7 +183,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/HFormulainSpaniola.jpg?v=1760361981
     Price: $1.00 USD
 - [Brochure – Lymphatic Formula 25pk](https://vitasupportmd.com/products/brochure-lymphatic-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements This brochure presents Lymphatic Formula, a supplement crafted to support lymphatic and immune health. Each serving combines 1000 mg of MPFF, 2000 IU of Vitamin D3, and 200 mcg of Selenium to help maintain lymphatic health and detoxification processes. Backed by clinical research, it is ideal for patients looking to support their immune system and lymphatic function.
-  Updated: 2025-12-27T03:23:47Z
+  Updated: 2025-12-30T03:24:10Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -196,7 +196,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/LymphaticFormulainSpaniola.jpg?v=1760361959
     Price: $1.00 USD
 - [Brochure – Vein Formula 25pk](https://vitasupportmd.com/products/brochure-vein-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements This presentation brochure introduces Vein Formula, a physician-recommended supplement designed to support key aspects of vascular health. Each 2-capsule serving provides 1000 mg of micronized purified flavonoid fraction (MPFF), derived from citrus rind. With decades of research supporting its efficacy, this formula helps promote healthy vein function, making it a valuable addition to your patient care recommendations.
-  Updated: 2025-12-27T03:23:47Z
+  Updated: 2025-12-30T03:24:10Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
 ## Collections
 
 - [Home page](https://vitasupportmd.com/collections/frontpage)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 10
 - [Affiliate](https://vitasupportmd.com/collections/affiliate)
   Updated: 2025-12-03T11:52:03Z
@@ -227,7 +227,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-12-03T11:52:27Z
   Total Products: 0
 - [Retail](https://vitasupportmd.com/collections/retail)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 7
 - [Retail Subscription](https://vitasupportmd.com/collections/retail-subscription)
   Updated: 2025-12-03T11:52:37Z
@@ -242,16 +242,16 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-12-03T11:52:53Z
   Total Products: 0
 - [All](https://vitasupportmd.com/collections/all)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 5
 - [Sobey 20](https://vitasupportmd.com/collections/sobey-20)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 9
 - [Bundles - Collection](https://vitasupportmd.com/collections/bundles)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-29T12:03:41Z
   Total Products: 17
 - [Single Products](https://vitasupportmd.com/collections/single-products)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 6
 - [Daily Deals Limited-Time Offers](https://vitasupportmd.com/collections/daily-deals): Explore our Daily Deals for exclusive discounts on top-quality health supplements. Shop now for limited-time offers on products designed to support your wellness journey—don't miss out!" This keeps it concise and action-driven, perfect for engaging customers and boosting conversions. Let me know if you need any tweaks!
   Updated: 2025-12-03T11:53:01Z
@@ -260,10 +260,10 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-12-25T12:03:12Z
   Total Products: 5
 - [Products - No Wholesale](https://vitasupportmd.com/collections/products-no-wholesale)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 18
 - [2-Pack Bundles](https://vitasupportmd.com/collections/2-pack-bundles)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-29T12:03:41Z
   Total Products: 10
 - [3-Pack Bundles](https://vitasupportmd.com/collections/3-pack-bundles)
   Updated: 2025-12-20T12:04:16Z
@@ -272,16 +272,16 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-12-10T14:21:13Z
   Total Products: 1
 - [All Products - No Wholesale](https://vitasupportmd.com/collections/all-products-no-wholesale)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 23
 - [Our Formulas](https://vitasupportmd.com/collections/test-collection)
   Updated: 2025-12-03T11:53:09Z
   Total Products: 0
 - [Bundles Test](https://vitasupportmd.com/collections/bundles-test)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-29T12:03:41Z
   Total Products: 17
 - [Email Marketing - B2C Products](https://vitasupportmd.com/collections/email-marketing-b2c-products)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 23
 - [Email Marketing - B2B Products](https://vitasupportmd.com/collections/email-marketing-b2b-products)
   Updated: 2025-12-25T12:03:12Z
@@ -290,7 +290,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-12-11T13:13:59Z
   Total Products: 4
 - [Single Products 2](https://vitasupportmd.com/collections/single-products-2)
-  Updated: 2025-12-27T12:03:44Z
+  Updated: 2025-12-30T12:03:51Z
   Total Products: 6
 
 ## Blogs
@@ -349,7 +349,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Author: Vlad Petcu
     Tags: Tips and Tricks, Wellness
   - [Relax Without Screens – Natural Ways to Support Calm](https://vitasupportmd.com/blogs/drjohnchuback/relaxation-without-screentime): Relax Without Screens – Natural Ways to Support Calm
-    Updated: 2025-12-24T13:25:15Z
+    Updated: 2025-12-29T15:48:54Z
     Author: Corina Manea
     Tags: Tips and Tricks, Wellness
   - [How Much Protein Do You Need? A Wellness-Focused Guide](https://vitasupportmd.com/blogs/drjohnchuback/how-much-protein-do-i-need): How Much Protein Do You Need? A Wellness-Focused Guide
@@ -437,7 +437,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Updated: 2025-12-24T13:30:15Z
     Author: Corina Manea
   - [Horse Chestnut Benefits for Natural Circulatory Support](https://vitasupportmd.com/blogs/drjohnchuback/the-benefits-of-horse-chestnut-extract-supporting-your-circulatory-health-naturally): Horse Chestnut Benefits for Natural Circulatory Support
-    Updated: 2025-12-24T13:25:28Z
+    Updated: 2025-12-29T15:43:56Z
     Author: Vlad Petcu
   - [Managing Stress During National Stress Awareness Day for Vein and Lymphatic Health](https://vitasupportmd.com/blogs/drjohnchuback/managing-stress-during-national-stress-awareness-day-its-impact-on-vein-and-lymphatic-health): Managing Stress During National Stress Awareness Day for Vein and Lymphatic Health
     Updated: 2025-12-24T13:22:04Z
@@ -540,7 +540,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Updated: 2025-12-24T13:29:36Z
     Author: Georgiana Vieru
   - [4 Lifestyle Tips to Support Healthy Blood Pressure and Circulatory Health](https://vitasupportmd.com/blogs/drjohnchuback/4-lifestyle-tips-to-support-healthy-blood-pressure-and-circulatory-health)
-    Updated: 2025-12-24T13:29:27Z
+    Updated: 2025-12-29T15:29:52Z
     Author: Vlad Petcu
   - [How to Choose the Right Supplement for Vein Support](https://vitasupportmd.com/blogs/drjohnchuback/how-to-choose-the-right-supplement-for-vein-support-1): <p dir="ltr"><span>Discover the natural ingredients used in supplements, featuring fresh plant leaves preserved in glass vials. Explore the power of botanicals for supporting health and wellness.</span></p>
 <p> </p>
@@ -557,13 +557,13 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Updated: 2025-12-24T13:27:48Z
     Author: Georgiana Vieru
   - [Supporting Leg Comfort and Mobility with a Natural Circulation and Vein Health Supplement](https://vitasupportmd.com/blogs/drjohnchuback/supporting-leg-comfort-and-mobility-with-a-natural-circulation-and-vein-health-supplement)
-    Updated: 2025-12-24T13:27:46Z
+    Updated: 2025-12-29T15:28:25Z
     Author: Vlad Petcu
   - [Supplements to Support Healthy Circulation in Legs](https://vitasupportmd.com/blogs/drjohnchuback/boosting-circulation-naturally-supplements-to-support-healthy-blood-flow-in-legs): Supplements to Support Healthy Circulation in Legs
     Updated: 2025-12-24T13:23:41Z
     Author: Georgiana Vieru
   - [How Blood Health Impacts Overall Circulatory Function](https://vitasupportmd.com/blogs/drjohnchuback/how-blood-health-impacts-overall-circulatory-function)
-    Updated: 2025-12-24T13:27:51Z
+    Updated: 2025-12-29T15:27:41Z
     Author: Georgiana Vieru
   - [Boosting Energy and Circulation: Daily Habits for Men](https://vitasupportmd.com/blogs/drjohnchuback/boosting-energy-and-circulation-daily-habits-for-men): <p dir="ltr"><span>Discover effective daily habits to support healthy circulation and boost energy for men. Learn practical lifestyle tips and clinically studied ingredients to maintain normal fluid balance in the legs during Men’s Health Month.</span></p>
 <p> </p>
@@ -605,7 +605,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Updated: 2025-12-24T13:22:27Z
     Author: Georgiana Vieru
   - [7 Simple Habits for Supporting Healthy Circulation on a Busy Schedule](https://vitasupportmd.com/blogs/drjohnchuback/7-simple-habits-for-supporting-healthy-circulation-on-a-busy-schedule)
-    Updated: 2025-09-02T13:39:57Z
+    Updated: 2025-12-29T15:21:32Z
     Author: Vlad Petcu
   - [10 Common Natural Energy Boosters to Power You Through the Day](https://vitasupportmd.com/blogs/drjohnchuback/10-common-natural-energy-boosters-to-power-you-through-the-day)
     Updated: 2025-09-10T13:08:43Z
@@ -642,6 +642,9 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   - [Top Breakfast Ideas to Naturally Support Healthy Circulation](https://vitasupportmd.com/blogs/drjohnchuback/top-breakfast-ideas-to-naturally-support-healthy-circulation)
     Updated: 2025-12-24T12:20:55Z
     Author: Vlad Petcu
+  - [How to Enjoy Essential Oils as Part of a Relaxing Wellness Routine](https://vitasupportmd.com/blogs/drjohnchuback/how-to-enjoy-essential-oils-as-part-of-a-relaxing-wellness-routine)
+    Updated: 2025-12-30T19:06:31Z
+    Author: Dr. John Chuback's Team
 - [News](https://vitasupportmd.com/blogs/news-1)
   - [How to Maintain Healthy Circulation Amidst Holiday Feasts](https://vitasupportmd.com/blogs/news-1/preparing-for-thanksgiving-how-to-maintain-healthy-circulation-amidst-holiday-feasts): How to Maintain Healthy Circulation Amidst Holiday Feasts
     Updated: 2025-02-28T13:50:31Z
@@ -857,7 +860,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
 ## Policies
 
 - [Privacy Policy](https://vitasupportmd.com/policies/privacy-policy)
-  Updated: 2025-06-03T13:36:42-04:00
+  Updated: 2025-12-30T14:07:51-05:00
 - [Shipping Policy](https://vitasupportmd.com/policies/shipping-policy)
   Updated: 2022-03-22T13:15:02-04:00
 - [Refund Policy](https://vitasupportmd.com/policies/refund-policy)
