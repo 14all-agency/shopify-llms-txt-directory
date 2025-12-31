@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2025-12-31T08:00:24.994Z
+- Updated At: 2025-12-31T12:00:25.154Z
 
 ## Products
 
@@ -52,7 +52,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/KvLoZ13hHu.png?v=1767118942
   Price: $8.99 USD
 - [Beard Envy Bundle](https://www.ironforgebeardco.com/products/beard-envy-bundle): Beard itch? When you first start growing, your face may itch because the hair is robbing your face of nutrients to help it grow. Let's get you started before you shave. Did you know 80% of men shave? Let's increase that 20% bearded rate by keeping your beard healthy! This kit includes a Beard Oil for your skin and a Beard Balm or Butter for your hair.What's the difference between Beard Balm and Beard Butter?Balm has more wax, adds weight to the beard hair to help with flyways and allows you to style easier. Beard Butter is lighter and is perfect for nourishment, repair, and protection.What's included: (1) Beard Oil – 59 ml(1) Pump for Beard Oil (1) Beard Balm – 56 g(1) Beard Butter – 56 gBeard Oil Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Fragrance Beard Balm or Beard Butter Ingredients:Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance
-  Updated: 2025-12-30T23:53:31Z
+  Updated: 2025-12-31T10:09:36Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $59.99 USD
 - [Majestic Beard Bundle](https://www.ironforgebeardco.com/products/majestic-beard-bundle): Introducing our Majestic Beard Bundle, the epitome of luxury and care for the discerning beardsman committed to a cruelty-free grooming routine. This extraordinary collection features our one of kind handmade Beard Pick, premium Beard Oil, Beard Balm, and Beard Butter, enriched with nourishing plant-based ingredients. Elevate your grooming ritual with our Cold Process Beard Soap, infused with African Black soap for a deep cleanse that nurtures your skin and beard simultaneously. Embrace the elegance of our bundle, where style meets compassion. Order your Majestic Beard Bundle today and indulge in a grooming journey that aligns with your values while elevating your beard to majestic heights.Not sure about the difference between Beard Balm and Beard Butter? Allow us to clarify. Our Beard Balm is specially formulated with a higher wax content, providing weight and control to your beard hair. It's perfect for taming flyaways and shaping your beard with ease, giving you a polished, well-groomed look. On the other hand, our Beard Butter is lighter in consistency, designed primarily for nourishing, repairing, and protecting your beard. It deeply hydrates and softens your facial hair, leaving it healthy, manageable, and irresistibly smooth. With this dynamic duo in our Beard Care Bundle, you'll have the best of both worlds, addressing both styling and nourishment needs for your beard.What's included: (1) Beard Oil – 59 ml(1) Pump for Beard Oil (1) Beard Balm – 56 g(1) Beard Butter – 56 g(1) Stainless Steel & Tigerwood Beard CombBeard Oil Ingredients: Argania Spinosa (Argan) Kernel Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Canola Oil, Fragrance Beard Balm or Beard Butter Ingredients:Hydrolyzed Moringa Oleifera Seed Extract, Butyrospermum Parkii (Shea) Butter, Persea Gratissima (Avocado) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Cera Alba (Beeswax), Argania Spinosa (Argan) Kernel Oil, Fragrance Beard Soap Ingredients:Olea Europaea Fruit (Olive) Oil, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Ricinus Communis (Castor) Seed Oil, Sodium Shea Butterate, Sodium Cocoate, Sodium Palm Kernelate, Coconut Carbon, Fragrance, Titanium Dioxide, Indigo
-  Updated: 2025-12-30T23:53:31Z
+  Updated: 2025-12-31T10:09:45Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -175,7 +175,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/V1708795_1733232578-remove-background1.jpg?v=1767118970
   Price: $18.91 USD
 - [Nose and Ear Hair Trimmer E650E Babyliss Black](https://www.ironforgebeardco.com/products/nose-and-ear-hair-trimmer-e650e-babyliss-black): The Nose and Ear Hair Trimmer E650E Babyliss Black is an exclusive, top-quality product for body care. If you are looking for the best personal hygiene products, the 100 % original Babyliss products are just what you’re looking for.The Babyliss E650E nose hair trimmer is a device specially designed for precision in personal care, aimed at the easy and safe removal of nose and ear hair. This trimmer stands out for its elegant black color and ergonomic design, created for comfortable and effective handling, suitable for users of any gender thanks to its unisex product status. Its structure includes stainless steel details that ensure durability and wear resistance, while its notable feature of being waterproof and resistant adds versatility for use and cleaning, allowing hygienic maintenance without hassle. Additionally, it operates on battery, providing cordless freedom and practical use both at home and while traveling. It is important to highlight that this product is not tested on animals, complying with ethical manufacturing standards. Its compact and functional design makes trimming safe and precise, avoiding pulling or common discomforts with such accessories. The Babyliss E650E combines quality materials and user-focused features, ideal for detailed and efficient personal care. In short, it is a technical and practical solution among trimmers for delicate areas like nose and ears, focusing on performance and ease of use. Gender: Unisex Operation: Batteries (not included) Type of plug: Plug EU Colour: Black Characteristics: Not tested on animals
-  Updated: 2025-12-30T23:53:32Z
+  Updated: 2025-12-31T10:27:07Z
   Vendor: Babyliss
   Product Type: Health | Beauty > Hair Products > Hair Trimmers
   Availability: Available
@@ -346,7 +346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/fFzP2NeXGa.png?v=1767119099
   Price: $29.99 USD
 - [Authentic Beard Oil - Natural Beard Oil for Healthy Growth](https://www.ironforgebeardco.com/products/authentic-beard-oil): Discover our authentic beard oil, crafted with natural ingredients to soften, nourish, and promote healthy beard growth. Perfect for grooming and style.
-  Updated: 2025-12-30T23:53:34Z
+  Updated: 2025-12-31T11:38:31Z
   Vendor: Unknown Vendor
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/HR-BHB-1.png?v=1766804030
   Price: $11.99 USD
 - [Vegan Shaving Soap - Luxurious, Biodegradable & Moisturizing](https://www.ironforgebeardco.com/products/vegan-shaving-soap): Discover our vegan shaving soap, a biodegradable, glycerin-based product that offers a luxurious, moisturizing shave with a refreshing coastal fragrance. Perfect for your eco-friendly grooming routine.
-  Updated: 2025-12-30T23:53:35Z
+  Updated: 2025-12-31T08:40:48Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -395,14 +395,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/CASINOBEARDSOAP_ddb99401-f25e-4f7b-8f26-f456a4cc71f1.jpg?v=1766805252
   Price: $9.99 USD
 - [Lucky Beard Soap & Conditioner](https://www.ironforgebeardco.com/products/beard-soap-conditioner): Discover the luxurious Lucky Beard Soap & Conditioner, crafted with natural ingredients like shea butter and African Black Soap for healthy, masculine beard care.
-  Updated: 2025-12-30T23:53:35Z
+  Updated: 2025-12-31T08:51:06Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/LUCKYBEARDSOAP_632f5584-153d-45ce-8ae3-972b987781ad.jpg?v=1766805263
   Price: $9.99 USD
 - [Ultra Soft Beard Wash Natural for Healthy Beard Growth](https://www.ironforgebeardco.com/products/beard-wash-natural-eco): Discover Ultra Soft Beard Wash, a natural solution with soy proteins and provitamin B5 for healthy beard growth. Gentle, nourishing, and scented with a unique blend of nightshade leaves and citrus.
-  Updated: 2025-12-30T23:53:35Z
+  Updated: 2025-12-31T08:48:39Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -416,14 +416,14 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/WEALTHBEARDSOAP_8cd9d81f-ace9-47a1-9403-4823910ce672.jpg?v=1766805316
   Price: $11.99 USD
 - [Africa Beard Comb - Durable Beard Comb Stainless Steel](https://www.ironforgebeardco.com/products/beard-comb-stainless-3): Discover the durable beard comb stainless steel, hand polished for excellence. Perfect for all beard types, it's your reliable daily grooming tool. Shop now!
-  Updated: 2025-12-30T23:53:36Z
+  Updated: 2025-12-31T08:44:57Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/HRNC_TB3-14-1_c8cf7b45-214e-4c73-9ac6-882a33befb42.png?v=1766805583
   Price: $45.99 USD
 - [Best Beard Soap for Men - Handmade Face & Beard Cleanser](https://www.ironforgebeardco.com/products/beard-soap-for-men): Discover our premium beard soap for men, enriched with natural ingredients like African Black Soap and Dead Sea Salt for a clean, healthy, and nourished beard.
-  Updated: 2025-12-30T23:53:36Z
+  Updated: 2025-12-31T08:36:45Z
   Vendor: Hilman Reid
   Product Type: 
   Availability: Available
@@ -459,7 +459,7 @@
     Availability: Available
     Price: $13.20 USD
 - [Moonshine Beard and Mustache Oil](https://www.ironforgebeardco.com/products/moonshine-beard-and-mustache-oil): Many men struggle with coarse, dry, and unruly facial hair that feels rough to the touch and looks unkempt. This discomfort often leads to frustration, making everyday grooming a chore and causing confidence to dip when your beard or mustache doesn’t look or feel its best. Moonshine Beard and Mustache Oil is the perfect solution to these common beard care challenges. This lightweight grooming oil softens, smooths, and conditions facial hair while supporting healthy-looking hair and skin underneath. Its nourishing blend reduces dryness and tangles, helping your beard and mustache become more manageable and polished. Softens coarse beard and mustache hair for a sleeker, more comfortable feel Reduces dryness and rough texture, improving overall hair softness and manageability Adds a healthy-looking natural shine without any greasy residue, keeping facial hair vibrant Absorbs quickly for all-day comfort and grooming ease Many users rave about the oil’s immediate impact: it transforms rough, tangled hair into smooth, touchable facial hair that looks neat and well maintained. This daily-use oil’s powerful combination of plant oils and antioxidants — including apricot kernel oil, jojoba oil, avocado oil, and vitamin E — delivers deep nourishment while soothing skin beneath the beard for lasting comfort. Don’t let dry, coarse facial hair hold you back. Experience the difference of Moonshine Beard and Mustache Oil and enjoy a softer, shinier, and healthier beard every day. Invest in your grooming routine now to keep your facial hair looking and feeling its absolute best. Key features and benefits: Softens and smooths facial hair Helps reduce dryness and rough texture Adds natural shine without greasiness Supports skin comfort and health beneath the beard Absorbs easily for effortless daily grooming
-  Updated: 2025-12-30T23:53:36Z
+  Updated: 2025-12-31T08:24:24Z
   Vendor: Aniise
   Product Type: Beard Oil
   Availability: Available
@@ -473,14 +473,14 @@
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/moonshine-beard-and-mustache-oil-449225.jpg?v=1766807570
     Price: $14.52 USD
 - [BASS THE BEARD BRUSH ( 1 X 1 CT   )](https://www.ironforgebeardco.com/products/bass-the-beard-brush-1-x-1-ct): Struggling with a tangled, unruly beard can be frustrating and time-consuming. When your beard hairs are not properly brushed, it can lead to discomfort, itchiness, and an unkempt appearance that affects your confidence and daily grooming routine. This common issue disrupts your sense of personal care and can even leave you feeling self-conscious in social or professional settings. Without the right grooming tool, taming your beard can feel like an endless chore. Introducing the ultimate solution: the BASS THE BEARD BRUSH. Designed specifically for those with long beards, this brush provides firm bristles that effectively detangle and smooth your facial hair with ease. Here’s how it can transform your beard care: 100% premium natural bristle ensures gentle yet effective brushing that conditions and softens your beard. A contoured shape tailored to fit the face and neck for comfortable, precise grooming. A pure bamboo handle that offers durability and a natural grip for effortless use. One satisfied customer shared, "This beard brush has made a huge difference in managing my thick beard. The natural bristles feel great, and it’s the perfect size for daily use." Don’t let beard maintenance become a hassle. Upgrade your grooming routine with the BASS THE BEARD BRUSH and experience a softer, more manageable beard that looks and feels its best every day. Key features and benefits: Firm bristle for long beards, premium natural materials, ergonomic design for face and neck, and a durable bamboo handle for long-lasting use.
-  Updated: 2025-12-30T23:53:36Z
+  Updated: 2025-12-31T08:24:24Z
   Vendor: IronForgeBeardCo.com
   Product Type: BEAUTY TOOLS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/a7b69ff0-3b04-492a-854c-e77f08ffe41a_1.2563320ae806a83c96a7978e00de8d14__18167.1655127977.1280.1280.jpg?v=1766807754
   Price: $10.78 USD
 - [Beard Wash Bar Bundle (5-Pack)](https://www.ironforgebeardco.com/products/beard-wash-bar-bundle-5-pack): Struggling with a dry, itchy, or unruly beard can make your daily grooming routine frustrating and leave you feeling less confident. When your beard is rough or smells unpleasant, it can affect how you present yourself at work, social events, or even at home. This common issue often stems from using harsh, chemical-laden products that strip away natural oils, leaving your beard and skin irritated. The Beard Wash Bar Bundle (5-Pack) is the grooming essential you’ve been searching for to maintain a clean, soft, and fresh-smelling beard every day. This bundle offers a natural and effective solution that nourishes your beard without any harsh chemicals, making your beard care routine simple and enjoyable. Loaded with a refreshing blend of natural oils to soften and hydrate your beard Vegan-friendly and sustainable, supporting an eco-conscious grooming routine Each pack includes five 4.5oz beard wash bars, providing exceptional value and long-lasting use Customers rave about how this beard wash transforms their daily grooming. One user shared, “My beard feels softer and healthier than ever, and it smells amazing too. This bundle is worth every penny!” This real proof highlights the quality and effectiveness of the product. Take control of your beard care routine with the Beard Wash Bar Bundle and enjoy a softer, cleaner, and beautifully scented beard every day. Stock up now and experience the convenience and confidence that comes with a well-groomed beard!
-  Updated: 2025-12-30T23:53:37Z
+  Updated: 2025-12-31T08:24:27Z
   Vendor: J&L Naturals
   Product Type: n/a
   Availability: Available
@@ -497,7 +497,7 @@
     Availability: Available
     Price: $34.64 USD
 - [Aftershave Serum](https://www.ironforgebeardco.com/products/aftershave-serum): After a close shave, many men struggle with skin irritation, dryness, and redness that can make daily grooming uncomfortable. These common post-shave issues can leave your skin feeling tight, itchy, or even painful, affecting your confidence and overall skin health throughout the day. This discomfort often disrupts your routine, making it harder to face the day feeling fresh and comfortable. The need for a reliable solution to soothe and nourish your skin after shaving is clear—something fast-absorbing that doesn’t leave a greasy residue but delivers lasting hydration and comfort. Introducing the aftershave serum designed specifically to restore your skin’s natural balance post-shave. This lightweight serum features a silky, fast-absorbing oil texture that immediately soothes irritation while deeply nourishing your skin to prevent dryness. With a fresh, non-greasy finish, it locks in comfort and hydration, giving you that smooth, refreshed feeling you want after every shave. Soothes irritation and redness to calm sensitive skin Nourishes deeply to restore moisture and prevent dryness Silky, fast-absorbing oil texture that leaves skin feeling fresh and not greasy Many users have reported noticeable improvements in their post-shave experience, highlighting the serum’s ability to reduce irritation and maintain skin hydration throughout the day. Don’t settle for discomfort after shaving—lock in hydration and comfort with this effective aftershave serum. Choose your favorite scent and experience the lasting soothing benefits that keep your skin looking and feeling its best every day.
-  Updated: 2025-12-30T23:53:37Z
+  Updated: 2025-12-31T08:24:27Z
   Vendor: J&L Naturals
   Product Type: Aftershave
   Availability: Available
@@ -523,35 +523,35 @@
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/ASS-RCW.jpg?v=1766810519
     Price: $13.85 USD
 - [Bamboo Beard Comb](https://www.ironforgebeardco.com/products/bamboo-beard-comb): Dealing with tangled, frizzy beard hair can be frustrating and time-consuming, leaving you feeling less confident and polished throughout your day. This common problem affects your daily grooming routine and can even impact how you present yourself in both personal and professional settings. Our Bamboo Beard Comb is the perfect solution to keep your beard soft, smooth, and tangle-free with ease. Crafted from sustainably sourced, high-quality bamboo, this comb offers a natural and eco-friendly way to maintain your beard and hair. Smooth wooden finish helps reduce static and tame frizz for a sleek, polished look Double-sided design featuring wide and fine teeth makes it versatile for all hair and beard types and thicknesses Durable and lightweight, making it an essential grooming tool you can rely on every day Customers rave about how this bamboo comb has transformed their grooming routine, leaving their beards healthier and more manageable than ever before. Don’t let beard troubles hold you back—experience the natural care and quality of this bamboo beard comb, and enjoy a neat, refined appearance with minimal effort. Upgrade your grooming tools today and embrace the confidence that comes with a well-kept beard!
-  Updated: 2025-12-30T23:53:37Z
+  Updated: 2025-12-31T08:24:24Z
   Vendor: J&L Naturals
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MCZ_7094.jpg?v=1766810569
   Price: $8.46 USD
 - [Beard Care Grooming Kit](https://www.ironforgebeardco.com/products/beard-care-grooming-kit): Struggling with unruly, dry, or patchy beard hair can make daily grooming frustrating and time-consuming. When your beard feels rough, looks uneven, or irritates your skin, it not only affects your appearance but also your confidence throughout the day. This discomfort can derail your morning routine and leave you constantly adjusting your beard instead of focusing on what really matters. Dry skin beneath the beard can cause itching and flaking, making self-care an unpleasant experience rather than a boost to your style. Introducing the Beard Care Grooming Kit—the ultimate solution to transform your beard into a well-groomed, healthy, and attractive feature of your look. This all-in-one kit is designed to address every aspect of beard care: The beard oil deeply moisturizes and smooths your facial hair, enriching it with Vitamin E essences and golden jojoba oil for a naturally beautiful, darker beard. It quickly penetrates the skin, nourishing dehydrated areas and balancing sebum production to renew your beard’s texture. The beard balm firms your beard’s shape and provides a long-lasting shine to keep your daily look polished and neat. The beard serum deeply cleanses both beard and skin, reducing oiliness while unblocking pores, and hydrating to prevent dryness and itching. Thousands of satisfied customers have noticed a dramatic improvement in their beard’s appearance and health after just weeks of using this grooming set, praising its ability to tame even the toughest beards. Take control of your beard care routine with the Beard Care Grooming Kit and enjoy a smoother, more manageable, and eye-catching beard every day. Elevate your grooming experience and boost your confidence by making this essential kit part of your daily self-care. Key benefits and features: Complete 4-piece set: beard comb, beard oil (30ml), beard balm (60g), and beard serum (30ml) Deep moisturizing and nourishment with Vitamin E and jojoba oil Long-lasting beard shaping and shine Effective cleansing and hydration to reduce itchiness and skin oiliness Experience the difference with the Beard Care Grooming Kit—because your beard deserves the best.
-  Updated: 2025-12-30T23:53:37Z
+  Updated: 2025-12-31T08:24:25Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/PURSONICBCGS5HIRES5.jpg?v=1766810807
   Price: $19.99 USD
 - [Mario Lopez Rechargeable Men’s Grooming & Beard Care Bundle – Complete Hair, Beard, Nose, and Ear Kit](https://www.ironforgebeardco.com/products/mario-lopez-rechargeable-men-s-grooming-beard-care-bundle-complete-hair-beard-nose-and-ear-kit): Struggling to maintain a sharp, well-groomed appearance can be frustrating and time-consuming. Unruly hair, uneven beard edges, and hard-to-reach nose or ear hair can leave you feeling less confident and hinder your daily routine. These grooming challenges can make it difficult to present your best self, whether at work or social outings. The Mario Lopez Rechargeable Men’s Grooming & Beard Care Bundle is the perfect solution for men who want a comprehensive, all-in-one grooming kit. This bundle offers professional-quality tools and premium beard care products that simplify your routine and deliver precise results every time. Rechargeable grooming set with stainless steel precision clipper for clean haircuts Beard and mustache trimmer for sharp, defined styling Ear, nose, and brow trimmer head for painless hair removal Six trim guide combs for personalized hair and beard lengths USB rechargeable design for grooming convenience wherever you go Complete your grooming with the included Pursonic Beard Care Grooming Kit, featuring: Beard oil infused with Vitamin E and jojoba oil to soften and nourish your beard Beard balm that shapes, conditions, and adds shine with reliable hold Beard serum to cleanse, hydrate, and reduce itchiness and dryness Beard comb designed to detangle and evenly distribute grooming products for a sleek finish Users rave about how this grooming bundle combines durability, ease of use, and professional-level results all in one. It’s a favorite for everyday grooming and makes a perfect gift for any man who values style and convenience. Upgrade your grooming routine with the Mario Lopez Rechargeable Men’s Grooming & Beard Care Bundle and enjoy a sharp, polished look that boosts your confidence and saves time. Take control of your appearance today and experience the difference that the right tools can make.
-  Updated: 2025-12-30T23:53:37Z
+  Updated: 2025-12-31T08:24:35Z
   Vendor: Pursonic
   Product Type: shaving
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA36-BCGS51.jpg?v=1766810817
   Price: $41.24 USD
 - [Mario Lopez Grooming Essentials Bundle with 10-Piece Trimming Kit & 4-Piece Beard Care Set](https://www.ironforgebeardco.com/products/mario-lopez-grooming-essentials-bundle-with-10-piece-trimming-kit-4-piece-beard-care-set): Struggling with managing your daily grooming routine can lead to frustration and an untidy appearance. When your grooming tools are lacking or disorganized, it affects your confidence and how you present yourself throughout the day. Whether it’s an unruly beard, uneven hair length, or unwanted nose and ear hair, these issues can disrupt your polished look and leave you feeling less than your best. The Mario Lopez Grooming Essentials Bundle with 10-Piece Trimming Kit & 4-Piece Beard Care Set is the perfect solution to streamline and enhance your grooming regimen. This all-in-one bundle offers everything you need to stay sharp and refined from head to toe. The 10-Piece Trimming Kit includes a stainless steel precision clipper built for clean, consistent cuts, along with four adjustable guide combs that let you customize your style effortlessly. It also features a dedicated ear, nose, and brow trimmer designed for hard-to-reach areas and an ergonomic design for comfortable handling. Regular maintenance is easy with included clipper oil and a cleaning brush to keep your tools running smoothly. The 4-Piece Beard Care Set nourishes and shapes your beard with premium products. A 30ml beard oil infused with Vitamin E and jojoba oil deeply hydrates and adds shine, while the 60g beard balm helps tame and soften your beard for a healthy appearance. The 30ml beard serum gently cleanses and moisturizes, reducing dryness and itchiness. A beard comb is included to evenly distribute products and detangle for precise styling. Together, this bundle supports your grooming efforts, making daily upkeep simple and effective. Whether you’re getting ready for an important meeting or a weekend outing, the Mario Lopez Grooming Essentials Bundle keeps you looking polished and feeling confident. Countless users have praised this grooming set for its quality and convenience, transforming their routines and improving their overall look. Enjoy advanced grooming tools paired with nourishing beard care to elevate your style every day. Upgrade your grooming routine today with the Mario Lopez Grooming Essentials Bundle and experience the confidence of a well-maintained, sharp appearance. Take control of your look with this comprehensive, easy-to-use grooming solution designed specifically for men who value precision and quality.
-  Updated: 2025-12-30T23:53:37Z
+  Updated: 2025-12-31T08:24:26Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA30-BCGS51.jpg?v=1766810836
   Price: $41.24 USD
 - [Jaspè Military Natural Bristle Brush - Men's Hair & Beard Grooming](https://www.ironforgebeardco.com/products/jaspe-military-natural-bristle-brush-mens-hair-beard-grooming): Struggling with frizzy, lifeless hair or a beard that lacks shape and shine can be frustrating. This common issue often leaves men feeling less confident and spending extra time trying to fix their look every day. When your hair or beard doesn’t respond well to grooming, it disrupts your daily routine and can make maintaining a polished appearance more difficult. The Jaspè Military Natural Bristle Brush - Men’s Hair & Beard Grooming is designed to solve these grooming challenges effortlessly. This compact, military-style brush offers precise control for styling short to medium hair and beards, making it a perfect addition to your daily routine. Crafted with 100% natural bristles, the brush conditions hair and beard by distributing natural oils, adding a healthy shine without extra product use. Its smoothing action enhances volume and texture across all hair types, giving you a fuller, more youthful look. The brush also reduces breakage and stimulates scalp circulation, promoting healthier hair growth and stronger beard follicles. Many users have praised how this classic Italian grooming tool has transformed their hair and beard care, noting its durable construction and the natural feel it brings to everyday use. It’s a trusted choice for men dedicated to maintaining a sharp, well-groomed appearance. Upgrade your grooming game with the Jaspè Military Natural Bristle Brush and enjoy conditioned, voluminous hair and a well-shaped beard. This brush’s timeless design fits perfectly in your hand, allowing for effortless styling anytime, anywhere. Key features and benefits: 100% natural bristles condition and add shine Adds volume and texture to hair and beard Reduces breakage and boosts scalp circulation Compact military-style shape offers precise, ergonomic control Dual-purpose for hair and beard grooming and shaping Take control of your hair and beard health now, and experience the confidence that comes with a naturally polished look.
-  Updated: 2025-12-30T23:53:38Z
+  Updated: 2025-12-31T08:24:25Z
   Vendor: KOH-I-NOOR Beauty USA
   Product Type: Hair Brushes
   Availability: Available
