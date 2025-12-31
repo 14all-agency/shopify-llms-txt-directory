@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-31T08:00:37.629Z
+- Updated At: 2025-12-31T12:00:38.655Z
 
 ## Products
 
 - [Baker Brand Logo White Skateboard Deck](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red): Buy the Baker Brand Logo Skateboard Deck in white at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-19T09:02:41Z
+  Updated: 2025-12-31T10:30:17Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: £79.95 GBP
   - [8.25"](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red?variant=49034748330319)
-    Availability: Not Available
+    Availability: Available
     Price: £79.95 GBP
   - [8.5"](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red?variant=48311474487631)
     Availability: Not Available
@@ -6268,8 +6268,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/loosey-belts-belts-loosey-premium-buckle-belt-brown-1210912550.jpg?v=1765475046
   Price: £59.95 GBP
-- [Baker Jacopo Chrome Zone Skateboard Deck Twin Tail | 8.38"](https://thevinessupply.co/products/baker-jacopo-chrome-zone-skateboard-deck-twin-tail-8-38): Buy the Baker Jacopo Chrome Zone Skateboard Deck twin tail in 8.38" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-13T01:02:26Z
+- [Baker Jacopo Chrome Zone Twin Tail Skateboard Deck | 8.38"](https://thevinessupply.co/products/baker-jacopo-chrome-zone-skateboard-deck-twin-tail-8-38): Buy the Baker Jacopo Chrome Zone Skateboard Deck twin tail in 8.38" at The Vines, with fast, premium delivery & easy returns within 90 days.
+  Updated: 2025-12-31T11:39:21Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -6365,6 +6365,19 @@
   - [Extra Large](https://thevinessupply.co/products/yardsale-tartan-full-zip-hoodie-blue?variant=56694277800271)
     Availability: Available
     Price: £119.95 GBP
+- [Baker Theotis Fly Skateboard Deck | 8.25"](https://thevinessupply.co/products/baker-theotis-fly-skateboard-deck-8-25): Buy the Baker Theotis Fly Skateboard Deck twin tail in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
+  Updated: 2025-12-31T11:52:33Z
+  Vendor: Baker
+  Product Type: Decks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/1_1cf7bf88-d153-45b2-9f55-94bc126960a7.jpg?v=1767181605
+  Price: £79.95 GBP
+- [Baker T-Funk Whizz Skateboard Deck | 8.25"](https://thevinessupply.co/products/baker-t-funk-whizz-skateboard-deck-8-25): Buy the Baker Theotis Fly Skateboard Deck twin tail in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
+  Updated: 2025-12-31T12:00:00Z
+  Vendor: Baker
+  Product Type: Decks
+  Availability: Available
+  Price: £79.95 GBP
 
 ## Collections
 
@@ -6372,8 +6385,8 @@
   Updated: 2025-12-30T12:17:51Z
   Total Products: 1534
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
-  Updated: 2025-12-30T12:17:51Z
-  Total Products: 1088
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 1090
 - [Jackets | Skatewear Jackets | The Vines](https://thevinessupply.co/collections/jackets): Shop a collection of skatewear jackets at The Vines. Get Jackets & Coats from skateboard brands with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-09T12:22:05Z
   Total Products: 77
@@ -6417,8 +6430,8 @@
   Updated: 2025-05-22T17:17:34Z
   Total Products: 0
 - [Skateboard Decks | The Vines](https://thevinessupply.co/collections/skateboard-decks): Buy Skateboard Decks at The Vines. Browse a huge range of skate decks from international and UK brands. Get fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-29T12:16:47Z
-  Total Products: 982
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 984
 - [Isle Skateboards | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/isle-skateboards): Shop Isle Skateboards at The Vines. Isle Skateboards is a British-born skate brand brought to you by Paul Shier and Nick Jensen, born from the ashes of the Blueprint skate team. Combining skate and art to bring visually stunning decks and apparel. Check out the latest Isle collection now.
   Updated: 2025-09-12T10:49:37Z
   Total Products: 32
@@ -6564,8 +6577,8 @@
   Updated: 2025-12-30T12:17:51Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-30T12:17:51Z
-  Total Products: 5736
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 5738
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-29T12:16:47Z
   Total Products: 68
@@ -6612,8 +6625,8 @@
   Updated: 2025-12-28T12:16:41Z
   Total Products: 6
 - [Baker Skateboards | The Vines](https://thevinessupply.co/collections/baker-skateboards): Shop Baker Skateboards at The Vines. Baker Skateboards was founded in 1999 by professional skateboarder Andrew Reynolds. They are now a powerhouse brand in Skateboarding, boasting a massive roster of some of the best skaters in the world.
-  Updated: 2025-12-20T12:17:06Z
-  Total Products: 31
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 33
 - [Wallets | The Vines](https://thevinessupply.co/collections/wallets): Shop a selection of our skate brand wallets at The VInes, with money holders from Vans, Polar Skate Co, Dime MTL, Santa Cruz and more. Pay for a pint in style with a fresh cash holder.
   Updated: 2025-12-27T12:13:44Z
   Total Products: 48
@@ -6828,8 +6841,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-30T12:17:51Z
-  Total Products: 3216
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 3218
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-30T12:17:51Z
   Total Products: 110
@@ -6852,8 +6865,8 @@
   Updated: 2025-12-26T12:12:12Z
   Total Products: 11
 - [Baker Boys Distribution | Baker, Shake Junt & Deathwish Skateboards](https://thevinessupply.co/collections/baker-boys-distribution): Shop Baker Boys Distribution Brands: Baker, Deathwish and Shake Junt Griptape at The Vines. Shop skate clothing, skateboard decks and accessories.
-  Updated: 2025-12-26T12:12:12Z
-  Total Products: 56
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 58
 - [Jewellery | Skateboarding Brands | The Vines](https://thevinessupply.co/collections/jewellery): Shop Jewellery, such as Rings and Chains from the best skateboard brands at The Vines.
   Updated: 2025-09-17T21:32:28Z
   Total Products: 4
@@ -6930,8 +6943,8 @@
   Updated: 2025-12-26T12:12:12Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-30T12:17:51Z
-  Total Products: 2906
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 2908
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7059,8 +7072,8 @@
   Updated: 2025-12-20T12:17:06Z
   Total Products: 38
 - [8.25" Skateboard Decks](https://thevinessupply.co/collections/8-25-skateboard-decks)
-  Updated: 2025-12-25T13:51:10Z
-  Total Products: 191
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 193
 - [8.375" Skateboard Decks](https://thevinessupply.co/collections/8-375-skateboard-decks)
   Updated: 2025-12-11T11:26:23Z
   Total Products: 26
@@ -7077,17 +7090,17 @@
   Updated: 2025-11-06T17:21:58Z
   Total Products: 6
 - [Latest Skateboard Decks](https://thevinessupply.co/collections/latest-skateboard-decks): Shop our selection of the newest skateboard decks, including cruisers, pool shapes and more. A huge selection of skate decks from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more
-  Updated: 2025-12-29T12:16:47Z
-  Total Products: 982
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 984
 - [Best Selling Skateboard Decks](https://thevinessupply.co/collections/best-selling-skateboard-decks): Shop our best selling skateboard decks. A huge selection of popular shapes and sizes skate decks from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more
-  Updated: 2025-12-29T12:16:47Z
-  Total Products: 982
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 984
 - [Skateboard Decks Sale](https://thevinessupply.co/collections/skateboard-decks-sale): Shop our selection of sale skateboard decks, including cruisers, pool shapes and more. A huge selection of skate decks sale with discounts from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more.
   Updated: 2025-10-14T14:32:12Z
   Total Products: 155
 - [Latest Skateboarding Hardware](https://thevinessupply.co/collections/latest-skateboarding-hardware): Shop the newest skateboard hardware products, including skateboard trucks, skate decks, skateboard wheels and more. A huge selection of skate decks from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
-  Updated: 2025-12-30T12:17:51Z
-  Total Products: 1381
+  Updated: 2025-12-31T12:00:21Z
+  Total Products: 1383
 - [Skateboard Hardware Sale](https://thevinessupply.co/collections/skateboard-hardware-sale): Shop our skateboard hardware sale, including big discounts on skateboard trucks, skate decks, skateboard wheels and more. A huge selection of sale skate hardware from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
   Updated: 2025-12-25T13:54:58Z
   Total Products: 236
