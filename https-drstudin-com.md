@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-01T14:02:49Z
 - Contact Email: drs@drstudin.com
-- Updated At: 2025-12-28T00:00:35.133Z
+- Updated At: 2025-12-31T00:00:37.615Z
 
 ## Collections
 
@@ -409,6 +409,9 @@
     Author: Javier Moraes
   - [The Truth About Gummy Bear Implants: Feel, Look & Longevity](https://drstudin.com/blogs/blog/the-truth-about-gummy-bear-implants-feel-look-longevity)
     Updated: 2025-12-26T15:00:00Z
+    Author: Javier Moraes
+  - [Male Breast Reduction Surgery in NYC: Regain Confidence](https://drstudin.com/blogs/blog/male-breast-reduction-surgery-in-nyc-regain-confidence)
+    Updated: 2025-12-30T15:00:01Z
     Author: Javier Moraes
 - [News](https://drstudin.com/blogs/news)
   - [Understanding the Postoperative Journey: A Look Into Recovery After Surgery](https://drstudin.com/blogs/news/understanding-the-postoperative-journey-a-look-into-recovery-after-surgery)
