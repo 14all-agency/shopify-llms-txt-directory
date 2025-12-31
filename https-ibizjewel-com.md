@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-30T00:00:59.317Z
+- Updated At: 2025-12-31T00:01:01.069Z
 
 ## Products
 
@@ -6951,7 +6951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-72_1.jpg?v=1703830733
     Price: $2,699.00 USD
 - [Natural Salt And Pepper 1.90CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-90ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.90CT Hexagon Diamond Art Deco Unique Engagement Ring is sure to impress. Handmade with a 1.90CT hexagon diamond, this stunning piece is perfect for a special anniversary or as a meaningful engagement ring. Make a statement with this eye-catching ring.
-  Updated: 2025-10-02T10:30:43Z
+  Updated: 2025-12-30T09:59:45Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -32702,7 +32702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-12_6.jpg?v=1711183680
     Price: $777.00 USD
 - [Moissanite 1.0CT Cushion Diamond Stud Earring](https://ibizjewel.com/products/moissanite-1-0ct-cushion-diamond-stud-earring): Discover The Brilliance Of Moissanite With Our 1.0ct Cushion Diamond Stud Earrings. Crafted With Precision And Designed For Elegance, These Earrings Offer A Stunning Alternative To Traditional Diamonds. With A Cushion Cut And 1.0ct Size, They Are Perfect For Any Occasion. Bring A Touch Of Luxury To Your Collection.
-  Updated: 2025-10-02T10:31:06Z
+  Updated: 2025-12-30T07:44:42Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Cushion Diamond Earring
   Availability: Available
@@ -41318,7 +41318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-176_3.jpg?v=1715855280
     Price: $1,014.00 USD
 - [Moissanite 4.73 CT Princess Diamond Minimalist Anniversary Ring](https://ibizjewel.com/products/moissanite-4-73-ct-princess-diamond-minimalist-anniversary-ring): This Moissanite 4.73 Ct Princess Diamond Minimalist Anniversary Ring Is A Stunning Piece Of Jewelry That Combines Elegance And Simplicity. With A Total Carat Weight Of 4.73Ct, This Ring Is Perfect For Any Anniversary Celebration. Made With A Moissanite Diamond, This Ring Offers A High-quality Alternative To Traditional Diamonds With Its Brilliant Sparkle And Durability.
-  Updated: 2025-10-02T10:31:14Z
+  Updated: 2025-12-30T06:50:24Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Princess Diamond Ring
   Availability: Available
@@ -42884,7 +42884,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-229_7.jpg?v=1716284787
     Price: $973.00 USD
 - [Moissanite 2.91CT Pear Diamond Edwardian Engagement Ring](https://ibizjewel.com/products/moissanite-2-91ct-pear-diamond-edwardian-engagement-ring): Discover The Beauty And Brilliance Of Our Moissanite 2.91ct Pear Diamond Edwardian Engagement Ring. Expertly Crafted With The Finest Materials, This Ring Features A Stunning 2.91ct Moissanite&nbsp;Diamond In A Timeless Pear Shape. Perfect For Romantic Proposals Or To Add A Touch Of Elegance To Any Outfit.
-  Updated: 2025-10-02T10:30:10Z
+  Updated: 2025-12-30T23:27:57Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Pear Diamond Ring
   Availability: Available
