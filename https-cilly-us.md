@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-12-29T00:00:58.371Z
+- Updated At: 2025-12-31T00:00:58.541Z
 
 ## Products
 
@@ -14738,13 +14738,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5dc794e2-7fb7-4675-bde6-e4b6a1521565.jpg?v=1757274224
   Price: CHF 38.60 CHF
-- [MUlti-Hole Fun Cat Tunnel With Scratching Board And Game Pom Pom Cat Tunnel House, Interactive Cat Scratching House, Self-improvement Drilling Hole Teaser, Must-have For Multi-Cat Families](https://cilly.us/products/multi-hole-fun-cat-tunnel-with-scratching-board-and-game-pom-pom-cat-tunnel-house-interactive-cat-scratching-house-self-improvement-drilling-hole-teaser-must-have-for-multi-cat-families): Large Scratching Area: The PEQULTI Cat Scratcher Tunnel House features an expansive cat scratching board made from durable cardboard, providing your feline friends with ample space to satisfy their natural scratching instincts Creative Tunnel Design: This cat tunnel house with a scratching pad combines a fun, creative tunnel design with a functional scratching surface, making it a perfect hideaway and play area for indoor cats up to 25 lbs Interactive Equipment: Equipped with 2 playful pompoms, this cat scratching house offers interactive entertainment, keeping your cats engaged and active. What's more, there is a paw-shaped peek hole for your cats to play hide and seek in this cat scratcher tunnel Premium and Stable: This material offers both durability and safety, providing a long lifespan for a scratching pad while enabling cats to naturally trim their nails in a safe and effective manner. Additionally, this material can withstand daily use and abuse from active cats, making it a reliable and practical option for pet owners Easy to Assemble: This cat scratching board comes with straightforward instructions, ensuring a hassle-free setup. Enjoy peace of mind with our dedicated customer support, ready to assist with any questions about our item Package Size Length（in）: 39.37 Width（in）: 39.37 Height（in）: 11.81 Weight（pound）: 2.20
-  Updated: 2025-11-15T06:07:25Z
-  Vendor: Alles für deine Haustiere 
-  Product Type: Haustier bedarf
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/deda4f4d-9038-44c8-be3c-1d493789c89f.jpg?v=1757274333
-  Price: CHF 28.10 CHF
 - [Stainless Steel Cat Litter Box](https://cilly.us/products/stainless-steel-cat-litter-box)
   Updated: 2025-09-08T07:50:50Z
   Vendor: Alles für deine Haustiere 
@@ -15188,7 +15181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/932d9ac8-2093-4b71-bfe1-449fc26485cb_edfa75d2-e5c0-4617-9691-bb6c1acc0fdd.jpg?v=1757280785
     Price: CHF 77.10 CHF
 - [Luxus Hundebett Memory Foam - 13cm Dick mit Kunstfell Abnehmbar](https://cilly.us/products/luxury-faux-fur-5-inches-thick-super-soft-memory-foam-dog-bed-with-soft-removable-please-note-that-this-product-is-shipped-by-yourself-for-the-average-shipping-cost): Luxus Hundebett mit Memory Foam - 13cm DickDieses luxuriöse Hundebett mit 13cm dickem Memory Foam und weichem Kunstfell bietet ultimativen Komfort - mit abnehmbarem Bezug für die DACH-Region.Produktvorteile: Memory Foam: Passt sich perfekt an Körperform an 13cm dick: Extra dick für maximalen Komfort Kunstfell: Superweich und kuschelig Abnehmbar: Bezug leicht zu waschen Luxus-Qualität: Premium-Material Für Hunde: Verschiedene Größen Ideal für:Große Hunde, ältere Hunde, Gelenkprobleme, Luxus sowie für maximalen Komfort.Ultimativer Komfort mit Memory Foam!
-  Updated: 2025-10-22T09:51:47Z
+  Updated: 2025-12-30T07:09:50Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
