@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-12-24T00:00:37.360Z
+- Updated At: 2025-12-31T00:00:40.328Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1581,6 +1581,241 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_75.png?v=1766354841
     Price: 5,00 kr SEK
+- [Tiny Shops Klistermärke - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/tiny-shops-klistermarke): Premium klistermärke med dark aesthetic design. Väderbeständig vinyl med matt finish för laptop, telefon och mer. Diskret elegans för dina vardagliga essentials.
+  Updated: 2025-12-25T09:51:06Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Klistermärke
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_1.png?v=1766612940
+  - [1](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272416087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214627.686.png?v=1766613192
+    Price: 5,00 kr SEK
+  - [2](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272448855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214652.451.png?v=1766613207
+    Price: 5,00 kr SEK
+  - [3](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272481623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214723.274.png?v=1766613216
+    Price: 5,00 kr SEK
+  - [4](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272514391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214753.536.png?v=1766613228
+    Price: 5,00 kr SEK
+  - [5](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272547159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214841.601.png?v=1766613240
+    Price: 5,00 kr SEK
+  - [6](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272579927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214924.680.png?v=1766613254
+    Price: 5,00 kr SEK
+  - [7](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272612695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T214950.863.png?v=1766613264
+    Price: 5,00 kr SEK
+  - [8](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272645463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215034.527.png?v=1766613274
+    Price: 5,00 kr SEK
+  - [9](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272678231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215102.480.png?v=1766613284
+    Price: 5,00 kr SEK
+  - [10](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272710999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215134.247.png?v=1766613295
+    Price: 5,00 kr SEK
+  - [11](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272743767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215210.465.png?v=1766613304
+    Price: 5,00 kr SEK
+  - [12](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272776535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215232.827.png?v=1766613315
+    Price: 5,00 kr SEK
+  - [13](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272809303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215257.539.png?v=1766613326
+    Price: 5,00 kr SEK
+  - [14](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272842071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215321.491.png?v=1766613335
+    Price: 5,00 kr SEK
+  - [15](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272874839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215504.816.png?v=1766613346
+    Price: 5,00 kr SEK
+  - [16](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272907607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215536.896.png?v=1766613358
+    Price: 5,00 kr SEK
+  - [17](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272940375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T220533.533.png?v=1766613366
+    Price: 5,00 kr SEK
+  - [18](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410272973143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T220557.810.png?v=1766613378
+    Price: 5,00 kr SEK
+  - [19](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273005911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T220621.062.png?v=1766613387
+    Price: 5,00 kr SEK
+  - [20](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273038679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T220644.862.png?v=1766613400
+    Price: 5,00 kr SEK
+  - [21](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273071447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T220712.977.png?v=1766613413
+    Price: 5,00 kr SEK
+  - [22](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273104215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T220740.174.png?v=1766613422
+    Price: 5,00 kr SEK
+  - [23](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273136983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T221750.710.png?v=1766613433
+    Price: 5,00 kr SEK
+  - [24](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273169751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_1_1034e56d-67c0-4485-a511-e776e1c10c76.png?v=1766613443
+    Price: 5,00 kr SEK
+  - [25](https://darkaestheticstudio.se/products/tiny-shops-klistermarke?variant=52410273202519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_79863622-483c-4c6b-826f-d6d179354420.png?v=1766613455
+    Price: 5,00 kr SEK
+- [Mänskliga Fragment Klistermärke - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke): Premium klistermärke med dark aesthetic. Perfekt för att uttrycka din mörka stil på laptops, telefoner och mer.
+  Updated: 2025-12-25T10:17:22Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Klistermärke
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/1_1f82c39a-58ae-4915-9301-068cf65ecd49.png?v=1766614377
+  - [1](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293322071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_-_2025-12-21T215441.972.png?v=1766615017
+    Price: 5,00 kr SEK
+  - [2](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293354839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_2_8db82465-fa69-4811-8e91-60f9edd25b07.png?v=1766615025
+    Price: 5,00 kr SEK
+  - [3](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293387607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_3_c5b0ea6d-ae05-4280-a7b5-fdb06d87ef5d.png?v=1766615036
+    Price: 5,00 kr SEK
+  - [4](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293420375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_4_1e3432f9-8e38-4a1d-9169-5495901d2d57.png?v=1766615047
+    Price: 5,00 kr SEK
+  - [5](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293453143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_5_561a73ac-1472-4b1e-b994-eec071a684f3.png?v=1766615059
+    Price: 5,00 kr SEK
+  - [6](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293485911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_6_22eba5fb-96f7-4b7d-9da2-efb76f7416a6.png?v=1766615070
+    Price: 5,00 kr SEK
+  - [7](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293518679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_11_61b8aec1-987a-475d-812f-625d188b8494.png?v=1766615081
+    Price: 5,00 kr SEK
+  - [8](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293551447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_12_9facf811-2f8a-4fe2-8bc8-433a48fd07d0.png?v=1766615093
+    Price: 5,00 kr SEK
+  - [9](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293584215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_13_5ef4595d-1ab4-4e40-aded-f1b2a79810ec.png?v=1766615103
+    Price: 5,00 kr SEK
+  - [10](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293616983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_15_9507366b-5491-4291-ab9c-0e918b509c56.png?v=1766615114
+    Price: 5,00 kr SEK
+  - [11](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293649751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_16.png?v=1766615127
+    Price: 5,00 kr SEK
+  - [12](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293682519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_17.png?v=1766615138
+    Price: 5,00 kr SEK
+  - [13](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293715287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_18.png?v=1766615153
+    Price: 5,00 kr SEK
+  - [14](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293748055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_19.png?v=1766615166
+    Price: 5,00 kr SEK
+  - [15](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293780823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_76.png?v=1766615176
+    Price: 5,00 kr SEK
+  - [16](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293813591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_77.png?v=1766615188
+    Price: 5,00 kr SEK
+  - [17](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293846359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_78.png?v=1766615199
+    Price: 5,00 kr SEK
+  - [18](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293879127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_79.png?v=1766615209
+    Price: 5,00 kr SEK
+  - [19](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293911895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_80.png?v=1766615220
+    Price: 5,00 kr SEK
+  - [20](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293944663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_81.png?v=1766615230
+    Price: 5,00 kr SEK
+  - [21](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410293977431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_82.png?v=1766615240
+    Price: 5,00 kr SEK
+  - [22](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294010199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_83.png?v=1766615251
+    Price: 5,00 kr SEK
+  - [23](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294042967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_84.png?v=1766615261
+    Price: 5,00 kr SEK
+  - [24](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294075735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_85.png?v=1766615272
+    Price: 5,00 kr SEK
+  - [25](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294108503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_86.png?v=1766615285
+    Price: 5,00 kr SEK
+  - [26](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294141271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_87.png?v=1766615299
+    Price: 5,00 kr SEK
+  - [27](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294174039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_88.png?v=1766615310
+    Price: 5,00 kr SEK
+  - [28](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294206807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_89.png?v=1766615322
+    Price: 5,00 kr SEK
+  - [29](https://darkaestheticstudio.se/products/manskliga-fragment-klistermarke?variant=52410294239575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_91.png?v=1766615335
+    Price: 5,00 kr SEK
+- [Pay Me Like A White Man - Poster | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/pay-me-like-a-white-man-poster): Ladda ner denna mörka och stämningsfulla poster i högupplöst PNG-format. Perfekt för utskrift och inredning. Omedelbar nedladdning efter köp.
+  Updated: 2025-12-30T21:39:49Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Digital Art
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_1.jpg?v=1767129659
+  Price: 99,00 kr SEK
 
 ## Collections
 
@@ -1588,17 +1823,17 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.se/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2025-12-07T15:09:44Z
-  Total Products: 18
+  Updated: 2025-12-29T21:26:16Z
+  Total Products: 22
 - [Merch](https://darkaestheticstudio.se/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
   Updated: 2025-11-23T20:16:02Z
   Total Products: 1
 - [Hem](https://darkaestheticstudio.se/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-12-15T12:40:08Z
-  Total Products: 10
+  Updated: 2025-12-30T21:39:49Z
+  Total Products: 20
 - [Alla produkter](https://darkaestheticstudio.se/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-12-21T22:09:39Z
-  Total Products: 57
+  Updated: 2025-12-30T21:39:49Z
+  Total Products: 73
 - [Jul](https://darkaestheticstudio.se/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
   Updated: 2025-12-15T12:40:08Z
   Total Products: 14
@@ -1606,8 +1841,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-12-06T13:22:51Z
   Total Products: 7
 - [Skuggnytt🕯️](https://darkaestheticstudio.se/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2025-12-21T22:09:39Z
-  Total Products: 52
+  Updated: 2025-12-30T21:39:49Z
+  Total Products: 68
 - [Dark Aesthetic Skor - Gothic & Edgy Footwear | Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/skor): Upptäck vår kollektion av dark aesthetic skor. Platåsandaler, boots och mer med gotisk elegans och rebelliska detaljer. Premium kvalitet för din unika stil.
   Updated: 2025-11-23T19:31:21Z
   Total Products: 1
@@ -1618,8 +1853,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-29T19:21:38Z
   Total Products: 2
 - [Pyssel & DIY - Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/pyssel): Kreativa pyssel- och DIY-material med mörk estetik.
-  Updated: 2025-12-21T22:09:39Z
-  Total Products: 8
+  Updated: 2025-12-24T22:36:26Z
+  Total Products: 10
 
 ## Store Pages
 
@@ -1635,9 +1870,9 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
 - [Shipping Policy](https://darkaestheticstudio.se/policies/shipping-policy)
   Updated: 2025-12-06T14:22:38+01:00
 - [Refund Policy](https://darkaestheticstudio.se/policies/refund-policy)
-  Updated: 2025-10-21T20:07:03+02:00
+  Updated: 2025-12-30T22:23:26+01:00
 - [Terms of Service](https://darkaestheticstudio.se/policies/terms-of-service)
-  Updated: 2025-10-21T20:01:32+02:00
+  Updated: 2025-12-30T22:25:28+01:00
 - [Contact Information](https://darkaestheticstudio.se/policies/contact-information)
   Updated: 2025-10-21T20:02:34+02:00
 
