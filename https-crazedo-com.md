@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-30T00:00:35.325Z
+- Updated At: 2025-12-31T00:00:37.107Z
 
 ## Collections
 
@@ -94,7 +94,7 @@
     Author: Mohammed Hassen
     Tags: Anthony Joshua knockout, Anthony Joshua Round 6 KO, Anthony Joshua vs Jake Paul, Celebrity boxing trend, Jake Paul boxing news, Jake Paul broken jaw, Jake Paul fight results, Jake Paul Netflix fight, Jake Paul vs Anthony Joshua results, Who won Jake Paul fight
   - [Walmart Christmas Week 2025:10M+ Searches and Trend Analysis](https://crazedo.com/blogs/weekly-google-trends/walmart-christmas-week-2025-trending-searches): Walmart Christmas Week 2025:10M+ Searches and Trend Analysis
-    Updated: 2025-12-29T15:20:01Z
+    Updated: 2025-12-30T02:03:34Z
     Author: Mohammed Hassen
     Tags: AI shopping, Consumer behavior, Crazedo Weekly Trend, Holiday shopping, Inflation 2025, Post-holiday analysis, Retail trends, Walmart
 
