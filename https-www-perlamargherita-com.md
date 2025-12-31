@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-12-22T00:00:39.615Z
+- Updated At: 2025-12-31T00:00:40.825Z
 
 ## Products
 
@@ -199,13 +199,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0011.0.td_size_1_02cfcd2f-e3eb-4227-9858-ca22425521c4.webp?v=1763323205
   Price: $36.86 USD
-- [Candy Land Sweets - Delightful Treats for Every Sweet Tooth Delight](https://www.perlamargherita.com/products/candy-land): Indulge your cravings with Candy Land sweets! Discover delightful treats perfect for every sweet tooth. Experience the joy of our delicious confections today!
-  Updated: 2025-12-10T17:10:42Z
-  Vendor: Raul E New York
-  Product Type: Lipstick
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2787-Lipstick-8148.0.td_size_1.webp?v=1762873367
-  Price: $43.78 USD
 - [24k PM Night Cream with Retinol & Hyaluronic Acid for Youthful Glow](https://www.perlamargherita.com/products/recharging-24k-pm-night-cream-with-24k-gold-retinol-hyaluronic-acid): Revitalize your skin overnight with our 24k PM Night Cream, infused with 24k gold, retinol, and hyaluronic acid. Achieve a youthful glow and reduced fine lines with every use.
   Updated: 2025-12-10T17:10:42Z
   Vendor: GLO24K
@@ -410,13 +403,6 @@
   - [Really pretty / 1 / Really pretty](https://www.perlamargherita.com/products/polished-lip-plumping-gloss?variant=50237322789111)
     Availability: Available
     Price: $20.74 USD
-- [24K Facial Cleanser - Exfoliating Foam with Gold, Witch Hazel & Aloe](https://www.perlamargherita.com/products/24k-exfoliating-foaming-facial-cleanser-with-24k-gold-witch-hazel-and-aloe-vera): Revitalize your skin with our 24K Facial Cleanser. Infused with exfoliating foam, 24K gold, witch hazel, and aloe vera, this cleanser removes impurities while rejuvenating your complexion.
-  Updated: 2025-12-10T17:10:46Z
-  Vendor: GLO24K
-  Product Type: Cleansers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/1176-696505608225.0.td_size_1_eced9b29-e83c-4487-adac-0d64aca94fd9.webp?v=1762873469
-  Price: $31.68 USD
 - [Gentle Daily Cleanser - Nourish and Refresh Your Skin Daily](https://www.perlamargherita.com/products/gentle-daily-cleanser): Experience the ultimate refresh with our Gentle Daily Cleanser. Perfect for all skin types, it removes impurities while maintaining your skin's natural moisture. Cleanse gently today!
   Updated: 2025-12-10T17:10:46Z
   Vendor: R.D. Alchemy Natural Products
@@ -464,13 +450,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0022.0.td_size_1.webp?v=1763324477
   Price: $66.82 USD
-- [Anti-aging Eye Cream for Youthful Skin - Revitalize Your Eyes Today](https://www.perlamargherita.com/products/anti-aging-eye-cream): Revitalize your eyes with our anti-aging eye cream. Reduce fine lines, puffiness, and dark circles for a youthful glow. Discover smoother, firmer skin today!
-  Updated: 2025-12-10T17:10:47Z
-  Vendor: Raul E New York
-  Product Type: Eyes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2787-eye-cream-white.0.td_size_1.webp?v=1762873509
-  Price: $80.64 USD
 - [Age Defying System - Complete Age Defying System for Youthful Skin](https://www.perlamargherita.com/products/complete-age-defying-system): Unlock youthful skin with our Complete Age Defying System. This powerful age defying system revitalizes, smooths, and rejuvenates your skin for a glowing complexion.
   Updated: 2025-12-10T17:10:47Z
   Vendor: Z Skin
@@ -609,7 +588,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2727-rdalch0049.0.td_size_1.webp?v=1762873656
   Price: $57.60 USD
 - [24k Eye Cream - Rejuvenating Formula with 24k Gold, Hyaluronic Acid](https://www.perlamargherita.com/products/rejuvenating-24k-eye-cream-with-24k-gold-hyaluronic-acid-rosehip-oil): Revitalize your skin with our Rejuvenating 24k Eye Cream. Enriched with 24k gold, hyaluronic acid, and rosehip oil, it's your secret to youthful, bright eyes. Experience the glow!
-  Updated: 2025-12-10T17:10:51Z
+  Updated: 2025-12-25T19:15:52Z
   Vendor: GLO24K
   Product Type: Eyes
   Availability: Available
@@ -1741,8 +1720,8 @@
   Updated: 2025-12-10T17:08:24Z
   Total Products: 24
 - [Beauty - Explore Our Beauty Products for Every Occasion](https://www.perlamargherita.com/collections/beauty): Discover our Beauty: Enhance Your Radiance and Wellness with our beauty products. Elevate your skincare routine and embrace your natural glow today!
-  Updated: 2025-12-16T15:48:05Z
-  Total Products: 96
+  Updated: 2025-12-27T20:38:02Z
+  Total Products: 94
 - [Collection - Feature Clothing with Styles for Every Occasion](https://www.perlamargherita.com/collections/collection-feature-clothing): Discover our Feature Clothing Collections, showcasing stylish trends perfect for every occasion. Elevate your wardrobe with versatile pieces that make a statement!
   Updated: 2025-12-10T17:08:24Z
   Total Products: 15
@@ -1756,8 +1735,8 @@
   Updated: 2025-12-10T17:08:24Z
   Total Products: 28
 - [Collection - Feature Beauty Product for Radiant Skin and Stunning Look](https://www.perlamargherita.com/collections/feature-beauty-collections): Discover our curated collection of Feature Beauty Products Collection designed for radiant skin and stunning looks. Elevate your beauty routine today and shine with confidence!
-  Updated: 2025-12-10T17:08:24Z
-  Total Products: 16
+  Updated: 2025-12-27T20:38:01Z
+  Total Products: 15
 - [Collection - Designer Dresses for Elegance and Style](https://www.perlamargherita.com/collections/premium-dresses-collections): Discover our Designer Dresses Collection, a perfect blend of elegance and style. Shop stunning designs that elevate your wardrobe and make a statement at any occasion.
   Updated: 2025-12-10T17:08:25Z
   Total Products: 14
@@ -1768,8 +1747,8 @@
   Updated: 2025-12-10T17:08:24Z
   Total Products: 13
 - [Recommendation - Feature Beauty Products for Radiant Skin and Style](https://www.perlamargherita.com/collections/feature-recommendations_beauty): Discover our curated Feature Beauty Product Recommendations, featuring top-rated essentials for your skincare and makeup routine. Elevate your beauty game today!
-  Updated: 2025-12-10T17:08:24Z
-  Total Products: 5
+  Updated: 2025-12-27T20:38:01Z
+  Total Products: 4
 - [Recommendation - Everyday Clothing and Accessories](https://www.perlamargherita.com/collections/daily-recommendations_apparels-accessories): Discover our everyday clothing and accessories recommendations. Elevate your wardrobe with curated outfits that blend comfort and style. Shop now!
   Updated: 2025-12-10T17:08:24Z
   Total Products: 10
@@ -1786,8 +1765,8 @@
   Updated: 2025-12-10T17:08:25Z
   Total Products: 8
 - [Collection - Premium Beauty Products for Radiant Glow](https://www.perlamargherita.com/collections/premium-beauty-collections): Discover our Premium Beauty Products Collection for a radiant glow. Elevate your skincare routine with high-quality essentials designed for vibrant, beautiful skin. Shop now!
-  Updated: 2025-12-10T17:08:25Z
-  Total Products: 21
+  Updated: 2025-12-27T20:38:02Z
+  Total Products: 20
 - [Ultimate Apparels & Accessories Bundles - Perla Margherita](https://www.perlamargherita.com/collections/ultimate-apparels-accessories-bundles): - Perla Margherita
   Updated: 2025-12-10T17:08:25Z
   Total Products: 0
@@ -1861,11 +1840,23 @@
   - [Eco-Friendly Fabrics: Refresh Your Closet Style Sustainably Now](https://www.perlamargherita.com/blogs/blogs/eco-friendly-fabrics-to-refresh-your-closet-today): Eco-Friendly Fabrics: Refresh Your Closet Style Sustainably Now
     Updated: 2025-12-16T15:38:30Z
     Author: Perla Margherita
-  - [Step-by-Step Guide to Matching Accessories with Any Outfit](https://www.perlamargherita.com/blogs/blogs/step-by-step-guide-to-matching-accessories-with-any-outfit): Step-by-Step Guide to Matching Accessories with Any Outfit
-    Updated: 2025-12-17T00:12:19Z
+  - [Matching Accessories with Outfits: Your Step-by-Step Style Guide](https://www.perlamargherita.com/blogs/blogs/step-by-step-guide-to-matching-accessories-with-any-outfit): Matching Accessories with Outfits: Your Step-by-Step Style Guide
+    Updated: 2025-12-28T16:01:57Z
     Author: Perla Margherita
-  - [Common Skincare Problems and How to Solve Them](https://www.perlamargherita.com/blogs/blogs/common-skincare-problems-and-how-to-solve-them): Common Skincare Problems and How to Solve Them
-    Updated: 2025-12-19T00:06:03Z
+  - [Skincare Problems Solutions: Top Tips to Revitalize Your Skin Today](https://www.perlamargherita.com/blogs/blogs/common-skincare-problems-and-how-to-solve-them): Skincare Problems Solutions: Top Tips to Revitalize Your Skin Today
+    Updated: 2025-12-28T16:27:09Z
+    Author: Perla Margherita
+  - [Vintage Fashion vs Modern Trends: Discover the Ultimate Style Showdown](https://www.perlamargherita.com/blogs/blogs/comparing-vintage-fashion-with-modern-trends): Vintage Fashion vs Modern Trends: Discover the Ultimate Style Showdown
+    Updated: 2025-12-28T17:41:04Z
+    Author: Perla Margherita
+  - [Problems with Heels: Top 5 Issues and Effective Solutions](https://www.perlamargherita.com/blogs/blogs/top-5-problems-with-heels-and-how-to-solve-them): Problems with Heels: Top 5 Issues and Effective Solutions
+    Updated: 2025-12-28T17:43:18Z
+    Author: Perla Margherita
+  - [Top Makeup Brushes You Need and How to Care for Them](https://www.perlamargherita.com/blogs/blogs/top-makeup-brushes-you-need-and-how-to-care-for-them): Top Makeup Brushes You Need and How to Care for Them
+    Updated: 2025-12-26T00:04:04Z
+    Author: Perla Margherita
+  - [A Beginner's Guide to Understanding Men's Suit Fabrics](https://www.perlamargherita.com/blogs/blogs/a-beginners-guide-to-understanding-mens-suit-fabrics): A Beginner's Guide to Understanding Men's Suit Fabrics
+    Updated: 2025-12-29T00:10:34Z
     Author: Perla Margherita
 
 ## Store Pages
