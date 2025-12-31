@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-01T08:10:19Z
 - Contact Email: info@fragrance-gems.nl
-- Updated At: 2025-12-30T00:00:20.987Z
+- Updated At: 2025-12-31T00:00:21.056Z
 
 ## Products
 
-- [Rasasi Hawas Malibu 100ml kopen – Tropisch Herenparfum | FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-malibu-100ml-heren-parfum): Rasasi Hawas Malibu 100ml kopen? Fris en tropisch parfum met sinaasappel, ananas en muskus. 100% origineel & snel geleverd.
-  Updated: 2025-12-29T17:01:10Z
+- [Rasasi Hawas Malibu - 100ml kopen – Tropisch Herenparfum | FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-malibu-100ml-heren-parfum): Rasasi Hawas Malibu kopen? Fris en tropisch parfum met sinaasappel, ananas en muskus. 100% origineel & snel geleverd. Koop vandaag nog bij FragranceGems!
+  Updated: 2025-12-30T19:40:37Z
   Vendor: Rasasi
   Product Type: Eaux de Parfum
   Availability: Available
@@ -24,15 +24,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-aether-extrait-2488586_a50a162d-a7eb-4eb7-b5b3-14bd234a75f7.webp?v=1766175726
   Price: € 29,99 EUR
-- [Rayhaan Pacific Aura Parfum 100ml – Aquatische Herengeur](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Rayhaan Pacific Aura parfum 100ml: een frisse, aquatische herenparfum met citrus en oceaannoten. Ontdek Rayhaan Pacific Aura vandaag!
-  Updated: 2025-12-28T16:07:07Z
+- [Rayhaan Pacific Aura 100ml | Frisse Unisex Eau de Parfum | €24,99](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Pacific Aura 100ml: frisse citrus-aquatische unisex geur voor €24,99. 5-7u houdbaarheid. Vergelijkbaar met Cool Water. Op voorraad, gratis verzending €60+!
+  Updated: 2025-12-30T19:43:56Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-pacific-aura-100ml-1245229_88eb5e20-35d2-405d-a6fe-edc603ed7cc6.webp?v=1766610262
   Price: € 24,99 EUR
 - [Rayhaan Tropical Vibe Parfum 100ml – Tropisch Herenparfum](https://fragrance-gems.nl/products/rayhaan-tropical-vibe-100ml): Rayhaan Tropical Vibe parfum 100ml: tropisch, fruitig en fris herenparfum met mango, ananas en citrus. Ontdek Rayhaan Tropical Vibe vandaag!
-  Updated: 2025-12-27T21:46:00Z
+  Updated: 2025-12-30T15:41:58Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
@@ -52,31 +52,52 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-shmallow-fluff-1676845_a070ad95-ec40-4df5-a27c-796f422d235f.webp?v=1766839555
   Price: € 19,99 EUR
-- [Arabiyat Prestige Marwa Eau de Parfum 100ml – Luxe Herenparfum](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Ontdek Arabiyat Prestige Marwa Eau de Parfum 100ml: frisse citrus, neroli en kruidige tonen met luxueuze houtachtige basis. Bestel vandaag nog bij FragranceGems en ervaar de volledige geurbeleving.
-  Updated: 2025-12-29T20:03:52Z
-  Vendor: MyPerfumes
-  Product Type: Eaux de Parfum
+- [Marwa - Arabiyat Prestige](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Arabiyat Prestige Marwa: sprankelende citrus ontmoet oosterse mystiek. 8-12u houdbaarheid, unisex. Gratis verzending vanaf €60. Bestel nu bij FragranceGems!
+  Updated: 2025-12-30T23:38:44Z
+  Vendor: Arabiyat Prestige
+  Product Type: Arabische Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/Arabiyat_prestige_marwa_100_ml.webp?v=1766610232
   Price: € 42,99 EUR
 - [Rayhaan Elixir Parfum 100ml – Oosters Houtachtig Herenparfum](https://fragrance-gems.nl/products/rayhaan-elixir-100ml-heren-parfum): Rayhaan Elixir parfum 100ml voor hem: frisse munt, bergamot, lavendel en een warme vanille-tonkabasis. Luxe oosterse geur – Rayhaan Elixir kopen.
-  Updated: 2025-12-27T09:59:46Z
+  Updated: 2025-12-30T16:49:37Z
   Vendor: FragranceGems
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan_elixir.webp?v=1766610211
   Price: € 32,99 EUR
+- [Rayhaan Terra](https://fragrance-gems.nl/products/rayhaan-terra): Rayhaan Terra is een complexe, warme en kruidige geur met citrus, specerijen en een luxueuze amber-oud basis. Ontdek deze intrigerende parfumervaring bij FragranceGems. Zeer gewild op = op.
+  Updated: 2025-12-30T23:47:00Z
+  Vendor: Rayhaan
+  Product Type: Eaux de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/terra1.webp?v=1767095087
+  Price: € 39,99 EUR
+- [Rayhaan Obsidian - Pre-Order](https://fragrance-gems.nl/products/rayhaan-obsidian): Rayhaan Obsidian is een diepe, mysterieuze geur met citrus, specerijen en een luxueuze amber-oud basis. Ontdek deze intrigerende parfumervaring bij FragranceGems.
+  Updated: 2025-12-30T23:54:26Z
+  Vendor: Rayhaan
+  Product Type: Eaux de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/obsdidian1.webp?v=1767095487
+  Price: € 29,99 EUR
+- [Rayhaan Italia - Pre-Order](https://fragrance-gems.nl/products/rayhaan-italia): Rayhaan Italia is een oriental woody geur voor mannen met lavendel, honing, kaneel en tabak. Ontdek deze luxueuze parfumervaring bij FragranceGems.
+  Updated: 2025-12-30T11:59:48Z
+  Vendor: Rayhaan
+  Product Type: Eaux de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/italia1.jpg?v=1767095988
+  Price: € 27,50 EUR
 
 ## Collections
 
 - [Bestseller Parfums | Populaire Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/bestsellers): Ontdek de bestsellers van FragranceGems. Populaire Arabische parfums zoals Rayhaan Elixir en Arabiyat Prestige. Snelle levering!
-  Updated: 2025-12-29T20:00:41Z
-  Total Products: 8
+  Updated: 2025-12-30T19:37:39Z
+  Total Products: 11
 - [Parfums Op Voorraad | Luxe Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/op-voorraad): Parfums direct op voorraad bij FragranceGems. Luxe Arabische geuren van Rayhaan, Rasasi & Arabiyat Prestige. Snelle levering NL.
-  Updated: 2025-12-29T20:00:41Z
-  Total Products: 8
+  Updated: 2025-12-30T19:37:39Z
+  Total Products: 11
 - [Aanbevolen Parfums | Must-Have Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/belangrijk): Onze belangrijkste en meest aanbevolen parfums. Luxe Arabische geuren geselecteerd door FragranceGems. Perfect als eerste aankoop.
-  Updated: 2025-12-29T17:08:34Z
+  Updated: 2025-12-30T19:37:39Z
   Total Products: 7
 
 ## Blogs
