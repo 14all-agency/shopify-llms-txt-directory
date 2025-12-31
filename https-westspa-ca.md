@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2025-12-30T00:00:19.093Z
+- Updated At: 2025-12-31T00:00:18.282Z
 
 ## Blogs
 
@@ -39,7 +39,7 @@
     Updated: 2025-12-16T19:23:44Z
     Author: Onixx Media
   - [Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa Medical](https://westspa.ca/blogs/articles/sun-safety-actinic-keratosis-in-montreal-advanced-solutions-for-acne-acne-scars): Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa Medical
-    Updated: 2025-12-28T21:11:33Z
+    Updated: 2025-12-30T17:19:37Z
     Author: Onixx Media
 
 ## Store Pages
