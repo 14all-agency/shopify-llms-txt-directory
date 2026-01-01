@@ -6,18 +6,19 @@
 - Timezone: Australia/Perth
 - Created At: 2025-08-09T04:42:37Z
 - Contact Email: hello@welltechfinds.com
-- Updated At: 2025-12-28T13:37:35.304Z
+- Updated At: 2026-01-01T00:00:20.548Z
 
 ## Products
 
 - [InkyLess Go™ - Mini Thermal Printer](https://shop.welltechfinds.com/products/mini-thermal-printer): InkyLess Go™ Mini Thermal Printer — 50% OFF! Portable, ink-free printing for notes, labels & creative projects. 72h battery, 100 free pages included. Shop now!
-  Updated: 2025-12-28T13:24:00Z
+  Updated: 2025-12-31T23:10:31Z
   Vendor: WellTechFinds
   Product Type: 
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0718/3872/8355/files/Moonbeam_with_1_free_roll.png?v=1767179423
   - [Moonbeam](https://shop.welltechfinds.com/products/mini-thermal-printer?variant=46341618073763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0718/3872/8355/files/Moonbeam_with_1_free_roll.png?v=1766928173
+    Image: https://cdn.shopify.com/s/files/1/0718/3872/8355/files/Moonbeam_with_1_free_roll.png?v=1767179423
     Price: $99.90 AUD
   - [Blush Petal](https://shop.welltechfinds.com/products/mini-thermal-printer?variant=46341601231011)
     Availability: Available
