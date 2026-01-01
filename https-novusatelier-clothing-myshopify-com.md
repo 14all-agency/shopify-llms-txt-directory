@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-01T18:04:35Z
 - Contact Email: novus.atelier00@gmail.com
-- Updated At: 2026-01-01T12:08:37.199Z
+- Updated At: 2026-01-01T12:18:36.352Z
 
 ## Products
 
@@ -544,6 +544,9 @@
   Updated: 2025-12-14T15:43:48+05:30
 - [Contact Information](https://novusatelier-clothing.myshopify.com/policies/contact-information)
   Updated: 2025-12-14T15:46:31+05:30
+
+##-Insatgram
+-https://www.instagram.com/novusatelier_clothing?igsh=YnJjdjV6ODljdmUy
 
 ## Optional
 
