@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2025-12-28T00:00:32.126Z
+- Updated At: 2026-01-01T00:00:33.161Z
 
 ## Products
 
@@ -102,14 +102,14 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Cover_1.jpg?v=1765262127
   Price: $74.23 USD
 - [Retractable Pet Leash for Small/Medium Sized Dogs Cat](https://fabufabu.com/products/retractable-pet-leash-for-small-medium-sized-dogs-cat): Retractable dog leash, 3 meters (118 inches) in length, bearing less than 25kg, suitable for small and medium-sized dogs. 360° telescopic rotation without jamming, the rope will not be knotted and entangled, and you can freely control the direction of your gestures. Portable mini garbage bag box that can be put into small bags and taken out for use when needed. High-strength nylon webbing with impact-resistant ABS material on the outside for durability. The dog leash has reflective strips, Type-C charging interface, and LED lighting to avoid danger and provide safety for walking dogs at night. Explosion-proof Okinawa buckle, strong and firm. Soft rubber curved handle, comfortable to hold, light weight, your hands will not feel sore even if you walk for a long time. Flexible, durable inner coil spring, the spring does not rust, automatically expands and contracts. One push to lock, free to retract, very suitable for walking, running, jogging, training, camping, hiking, outing leisure activities, making dog walking more and more happy.
-  Updated: 2025-12-26T12:37:19Z
+  Updated: 2025-12-28T07:53:56Z
   Vendor: fabufabu design store
   Product Type: Pet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/retractable-pet-leash-for-smallmedium-sized-dogs-catpetfabufabu-design-storefabufabu-design-stores62cover-9118636.png?v=1765352047
   Price: $64.14 USD
 - [Stainless Steel Thermos Water Bottle](https://fabufabu.com/products/stainless-steel-thermos-water-bottle): Thermal Insulation: The bottle is designed with a heat-reflecting copper layer and vacuum insulation, which helps to maintain the temperature of your drinks. It is 500ml vacuum 304 stainless steel, double-layer structure can keep beverages cold for 24 hours and hot for 12 hours, providing extended temperature retention. Designed With Practicality In Mind: Leakproof Screw-Top Handle Lid: The bottle's lid is equipped with a screw-top handle, ensuring a secure and leakproof seal. This feature makes it convenient to carry the bottle without worrying about spills or leaks. Sleek and Portable Design: The bottle has a sleek body design and while on the go that allows it to fit in standard cup holders and backpack pockets. This makes it easy to carry and a weight of only 350g. Wide Opening Design: The wide opening of the bottle enables easy pouring of liquids and facilitates effortless cleaning. It allows for hassle-free filling and maintenance of the bottle. Flat angle design protects the base: The bottle is equipped with a protective flat angle desing base, which serves only one purposes. Firstly, it prevents the bottle from slipping on hard surfaces, providing stability. Bottle size: 500ml (16.9 oz). Height: 25cm (9.8 inches), mouth diameter: 6cm (2.4 inches), base diameter: 7cm (3.0 inches). Packaging size: 25.5cm (10 inches (height)) x 7.8cm (3 inches (width)) x 7.8cm (3 inches (length)) This product has a heat preservation function, but it is not recommended to provide children with hot drinking water
-  Updated: 2025-12-26T12:37:19Z
+  Updated: 2025-12-28T06:03:32Z
   Vendor: fabufabu design store
   Product Type: Bottle
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/925-sterling-silver-layered-zirconium-diamonds-star-braceletbraceletsfabufabu-design-storefabufabu-design-storesl0267cover-20549c1a-a533-4952-9900-e8929a59e538-6532043.jpg?v=1765434912
   Price: $24.42 USD
 - [Gold Plated Zircon Tennis Bracelet](https://fabufabu.com/products/gold-plated-zircon-tennis-bracelet): Fabufabu "Less is More” collection, Be a part of timeless luxury and elegance with this exquisite gold bracelet adorned with shimmering diamond-like gemstones. High Quality Material: This tennis bracelet is inlaid with sparkling cubic zirconia. The tennis bracelet Treatment process: diamond, electroplating gold plated bracelets, designed to keep its brilliance intact for a long time. Its high-quality handmade construction ensures it resists fading, no rusting, ensuring a long-lasting wearing experience. Adjustable Size: Drawstring bracelet is adjustable, you can slide the adjustable cord to adjust the size of the bracelet. The chain width is 4MM, the total length is 17CM/6.7IN and 22CM/8.6IN respectively, you can choose one that suits your wrist length. you can refer to the size chart for more details. Great Design: This tennis bracelet has a simple design with chic slide clasp, lightweight and very easy to put on and take off. The versatile design can be worn with both simple daywear and luxurious evening wear. Gift Choice: Jewelry is an eternal symbol of love and affection, this tennis bracelet comes with a beautiful gift box, making it an ideal gift. This bracelet set is perfect for wife, girlfriends, lovers, fianc es and friends, suitable for birthdays, Valentine's Day, Christmas, Mother's Day, holidays, proms, parties, anniversaries, proms, graduations and other occasions.
-  Updated: 2025-12-26T12:37:20Z
+  Updated: 2025-12-28T08:27:11Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
@@ -373,6 +373,34 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/11_692bdc7f-d70c-4b8e-97e8-a3fbad105d4e.jpg?v=1766658198
     Price: $32.28 USD
+- [RFID Zip cowhide Card Holder Wallet](https://fabufabu.com/products/rfid-zip-cowhide-card-holder-wallet): ★【SECURE STORAGE】A hidden storage slot keeps business card, while the RFID lining keeps everything safe from skimmers. ★【Perfect Size】The size of Fabufabu mens holder wallet is 8cmW x 2cmD x 11.5cmH. Fabufabu mens wallet is designed for ultra slim, so you can put this thin wallet into your front pocket or jeans pocket and our wallet can help you insert or take ID card, driver license and credit cards out quickly, suitable for travel, dating, shoppin a Litchi pattern leather card Holder, the use of invisible button to open, the card holder looks bright and shiny, simple and fashion. ★【Design & High Quality】Fabufabu leather men's wallet is made of cowhide. Cowhide is a better type of genuine leather, it has a clear texture, good elasticity and a soft tactility. RFID Protection, Zip closure keeps contents safe. We always insist on making wallets for you with high quality materials ! ★【FIT MORE IN LESS】Fabufabu men's wallet comes with Multi-function card, it can be placed ID card, driver's license, photos, etc. The internal structure of patchwork. There’s room for 11+ cards, cash, coins and even a SIM, and the easy zip closure keeps everything snugly in place. ★【2 Colors】2 color options, black and brown. 2 different colors combined with the exquisite craft of the wallet, forming 2 different styles, you can choose different color purses according to your style preferences. The color of the wallet is chosen by you, so is your life. Classic, noble and stylish appearance makes Fabufabu leather men wallet suitable for all occasions, such as Party, banquet, class reunion, wedding, work, school, travel, shopping, dating, etc. ★【Gift Box Packaging】We have carefully designed the gift box packaging for our men's wallet, so that our wallet can be a gift for grandfather, father, brother, boyfriend, husband, classmate, etc. It can also be used as a gift for Father's Day, Valentine's Day, New Year, Christmas, Wedding Anniversary, etc. An exquisite gift can make your family or friends feel your love for them and bring them happiness, don't be hesitate, buy it now !
+  Updated: 2025-12-28T07:24:01Z
+  Vendor: fabufabu design store
+  Product Type: wallet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_mattblack.png?v=1766906388
+  - [Black](https://fabufabu.com/products/rfid-zip-cowhide-card-holder-wallet?variant=45541378982085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_mattblack.png?v=1766906388
+    Price: $41.18 USD
+  - [Brown](https://fabufabu.com/products/rfid-zip-cowhide-card-holder-wallet?variant=45541379014853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_brown.png?v=1766906388
+    Price: $41.18 USD
+- [Blackhead Remover Tools Electric Pore Vacuum Extractor](https://fabufabu.com/products/blackhead-remover-tools-electric-pore-vacuum-extractor): 3 Suction Levels - Adopt innovative and upgraded vacuum absorption technology for powerful suction and deep cleaning ability. It will refresh your skin by effectively removing blackhead, makeup residue, pimple, whitehead, and dead skin. 3 suction levels are widely suitable for different skin types (oil/neutral/dry). 6 Suction Probes - Six replaceable suction heads Including microcrystalline tips, oval tips, mini round hole tips, small hole tips, medium hole tips and large hole tips. These suction probes work in various skin areas, and fully meet your pore cleaning needs. Easy to Use & Low Noise - You can easily turn on/off and switch the suction modes with two buttons. When using the blackhead remover vacuum, move the probe along the skin. DON'T STAY IN ONE AREA FOR MORE THAN 3 SECONDS TO AVOID REDNESS. The device has low noise effect for more enjoyable experience. Rechargeable & Portable - The blackhead vacuum cleanser has stable power performance. The built-in rechargeable battery can be powered by USB charging, which can be accessed through laptop, adapter, and power bank. Lightweight and portable design make it suitable for home and travel. Safe - Ergonomic handle design and high-quality ABS material allow comfortable and non-slip grip, which is durable for long-term use. Our blackhead removal vacuum with super suction effectively deep clean your skin without irritation and harm.
+  Updated: 2025-12-30T10:23:24Z
+  Vendor: fabufabu design store
+  Product Type: Blackhead Remover
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_404618bd-087a-4247-841a-6c39f47834f1.jpg?v=1767089965
+  Price: $51.40 USD
+- [Cordless Automatic Curling Iron Rechargeable Auto Curlers](https://fabufabu.com/products/cordless-automatic-curling-iron-rechargeable-auto-curlers): with 5 Temps & Timers, Heat Insulation Chamber, LCD Screen, Auto Shut-Off, Suitable for Short & Long Hair Styling Away From Hair Damage & Scald: curling iron adopts a unique ceramic coating to prevent hair damage during the rapid heating process of the curling iron. Professional ceramic technology can keep your hair smooth and shiny, and look more attractive after curling. The heat-isolating curl chamber has a heat insulation function, to protect your hands from any instant surface heat. One-Click Automatic Curling: Built-in rechargeable battery for 60 minutes working time with 3-4 Hours fully charged and tangle-free & rotating cord design, with 0.37kg product net weight and the extremely short heating up time, this hair curler makes the hair styling process very easy and fast. The patented automatic technology will allow you to wrap around your hair and create curls automatically within 8 seconds at home, or wherever you go. Automatically Curling & Keep Hair From Getting Tangled: Comb through to remove any tangles and divide the hair into sections, no more than 2cm/0.79in wide. Put the hair with 0.4 to 0.79 inch width into curler, automatically drawn into the curling iron, gently wrapped, held and heated from all directions, to make perfect curl; if you put in too much hair in the barrel, it will automatically stop and reverse the hair from getting tangled up. All Shown on LCD screen: The curler wand can be set freely according to different heat settings, timer settings and curve directions (left/right/mix), all is shown on the LCD screen, to achieve the effects you want, and it can be heated quickly. Compared with traditional curling irons, this curling tongs can produce waves according to your needs, thereby creating and enjoying more curly hairstyles. Temp set from 160℃, 170℃, 180℃, 190℃, 200℃; Time set from 6s, 8s, 10s, 12s, 14s. Intelligent Cordless Auto Curler: Built-in auto-off function and LCD buzzer indicator to inform you when you should loosen the curler, automatically turn off if not used for 10 minutes, protect your family from any incident. This is a new type of portable automatic curling iron styling tool.
+  Updated: 2025-12-30T10:41:55Z
+  Vendor: fabufabu design store
+  Product Type: curling iron
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_e34b40df-1446-45c1-95e3-712f9b5e0076.jpg?v=1767091046
+  Price: $73.11 USD
 
 ## Collections
 
@@ -392,8 +420,8 @@
   Updated: 2025-12-26T12:37:18Z
   Total Products: 1
 - [Beauty](https://fabufabu.com/collections/beauty)
-  Updated: 2025-12-26T12:37:18Z
-  Total Products: 1
+  Updated: 2025-12-30T10:40:25Z
+  Total Products: 3
 - [Rings](https://fabufabu.com/collections/rings)
   Updated: 2025-12-26T12:37:18Z
   Total Products: 1
@@ -410,8 +438,8 @@
   Updated: 2025-12-26T12:37:18Z
   Total Products: 5
 - [Man](https://fabufabu.com/collections/man-1)
-  Updated: 2025-12-26T12:37:18Z
-  Total Products: 1
+  Updated: 2025-12-28T07:23:23Z
+  Total Products: 2
 - [Outfits](https://fabufabu.com/collections/outfits-1)
   Updated: 2025-12-26T12:37:18Z
   Total Products: 4
