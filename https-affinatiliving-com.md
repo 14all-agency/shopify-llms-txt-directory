@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-01T12:00:36.122Z
+- Updated At: 2026-01-01T16:00:37.606Z
 
 ## Products
 
@@ -137,61 +137,61 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_06_10_26_PM.png?v=1762731128
   Price: $16.95 USD
 - [Honey Lavender Reed Diffuser](https://affinatiliving.com/products/honey-lavender-reed-diffuser): Relax with the soothing blend of sweet honey and soft lavender. A calming, floral scent that brings peace, comfort, and gentle warmth home.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2026-01-01T12:21:13Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_19_50_AM.png?v=1761916815
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Fresh Linen Reed Diffuser](https://affinatiliving.com/products/fresh-linen-reed-diffuser): Capture the crisp, clean scent of freshly washed linens. Bright and refreshing, it creates a pure, airy atmosphere that feels effortlessly cozy.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2026-01-01T13:16:57Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_16_15_AM.png?v=1761916614
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/24635041-6726-4A02-824A-2F3CB4A522E3.png?v=1767273398
+  Price: $22.95 USD
 - [Coffee Shop Reed Diffuser](https://affinatiliving.com/products/coffee-shop-reed-diffuser): Fill your home with the rich scent of freshly brewed coffee and roasted beans. A warm, comforting fragrance that feels like your favorite café.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2026-01-01T12:21:11Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_01_09_AM.png?v=1761916223
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Floral Breeze Reed Diffuser](https://affinatiliving.com/products/floral-breeze-reed-diffuser): Enjoy the soft, airy scent of blooming florals carried on a gentle breeze. Light, uplifting, and perfect for creating a serene, elegant space.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2026-01-01T12:21:11Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_08_45_AM.png?v=1761916225
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Fresh Cut Sage Reed Diffuser](https://affinatiliving.com/products/fresh-sage-reed-diffuser): Bring earthy calm to your home with the herbal aroma of fresh sage. A grounding, aromatic scent that promotes clarity and natural balance.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2026-01-01T13:23:44Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_07_18_AM.png?v=1761916223
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/0770C4B5-D683-46B9-93EC-C8B237B4A5F5.png?v=1767273810
+  Price: $22.95 USD
 - [Mint Eucalyptus Reed Diffuser](https://affinatiliving.com/products/eucalyptus-spearmint-reed-diffuser): Awaken your senses with cool mint and soothing eucalyptus. A spa-inspired scent that refreshes, relaxes, and clears the mind beautifully.
-  Updated: 2025-12-18T18:11:48Z
+  Updated: 2026-01-01T13:16:03Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_21_23_AM.png?v=1761916900
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5D50C141-587C-4AE0-9999-84FC217581F6.png?v=1767273361
+  Price: $22.95 USD
 - [Drops of Rain Reed Diffuser](https://affinatiliving.com/products/raindrop-reed-diffuser): Refresh your space with the clean, dewy scent of rainfall. A crisp, airy fragrance that brings calm, clarity, and pure serenity to any room.
-  Updated: 2025-12-18T18:11:49Z
+  Updated: 2026-01-01T13:22:38Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_12_08_AM.png?v=1761916351
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7846C297-D2BB-46BA-BDEF-8D807074BD52.png?v=1767273737
+  Price: $22.95 USD
 - [French Vanilla Reed Diffuser](https://affinatiliving.com/products/french-vanilla-reed-diffuser): Indulge in the smooth aroma of creamy vanilla bean. A warm, classic scent that fills your home with timeless sweetness and cozy sophistication.
-  Updated: 2025-12-18T18:11:49Z
+  Updated: 2026-01-01T13:14:03Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_16_2025_at_10_48_23_AM.png?v=1763308599
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/987A851B-27E2-45E2-8A71-EA26E45A6B43.png?v=1767273219
+  Price: $22.95 USD
 - [Fresh Linen Room Spray](https://affinatiliving.com/products/fresh-linen-room-spray): Fresh Linen Room & Linen Spray Brighten your space with the crisp, clean scent of our Fresh Linen Room & Linen Spray. Made with a non-toxic formula and concentrated fragrance, this 4 oz spray captures the essence of sun-dried sheets and cool breezes for an instantly refreshed feel in any room or on any fabric. Ideal for use on bedding, curtains, upholstery, or as a daily air freshener, it dries quickly and leaves a long-lasting, airy fragrance. Safe, clean, and powerfully scented—bringing the comfort of clean laundry to every spritz. Learn More Here: Best Non-Toxic Room Sprays for a Safer, Better-Smelling Home Why You Should Switch to Essential Oil Room Sprays Instead of Aerosols Where to Place Reed Diffusers for Maximum Scent Throw
   Updated: 2025-12-30T17:13:20Z
   Vendor: Affinati
@@ -558,7 +558,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Coffee Shop Signature Candle](https://affinatiliving.com/products/coffee-shop-signature-candle): Wake up to the aroma of your favorite café. Coffee Shop blends roasted beans, vanilla, and sweet cream in a cozy 10 oz soy wax candle.
-  Updated: 2025-12-30T17:13:27Z
+  Updated: 2026-01-01T14:42:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5026,75 +5026,75 @@
     Availability: Available
     Price: $109.95 USD
 - [Cinnamon Swirl Reed Diffuser](https://affinatiliving.com/products/cinnamon-swirl-reed-diffuser): Warm and inviting, our Cinnamon Swirl Reed Diffuser blends spiced cinnamon and sweet vanilla for a cozy, comforting aroma that fills your space with lasting fragrance.
-  Updated: 2025-12-18T18:12:44Z
+  Updated: 2026-01-01T12:21:10Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageOct31_2025at09_34_04AM.png?v=1761917848
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Champagne Toast Reed Diffuser](https://affinatiliving.com/products/champagne-toast-reed-diffuser): Bright and bubbly, our Champagne Toast Reed Diffuser blends effervescent champagne and sweet berries for a joyful, uplifting fragrance that fills your home with elegant warmth.
-  Updated: 2025-12-18T18:12:44Z
+  Updated: 2026-01-01T12:21:10Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_35_03_AM_d6801818-c73c-42f7-ba92-975a502ae517.png?v=1761918278
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Coconut Dream Reed Diffuser](https://affinatiliving.com/products/coconut-dream-reed-diffuser): Escape to paradise with our Coconut Dream Reed Diffuser—featuring a creamy blend of coconut and vanilla for a soft, soothing fragrance that brings island-inspired tranquility to your home.
-  Updated: 2025-12-18T18:12:44Z
+  Updated: 2026-01-01T12:21:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_36_07_AM.png?v=1761918297
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Fruit Fusion Reed Diffuser](https://affinatiliving.com/products/fruit-fusion-reed-diffuser): Bring your home to life with our Fruit Fusion Reed Diffuser—an uplifting blend of berries, peach, and citrus that fills your space with bright, refreshing fragrance.
-  Updated: 2025-12-18T18:12:44Z
+  Updated: 2026-01-01T12:21:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_36_21_AM.png?v=1761918417
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Cherry Noir Reed Diffuser](https://affinatiliving.com/products/cherry-noir-reed-diffuser): Indulge in the rich, sophisticated aroma of Cherry Noir. A deep blend of dark cherry, amber, and vanilla creates a warm, elegant fragrance that fills your home with timeless luxury.
-  Updated: 2025-12-18T18:12:44Z
+  Updated: 2026-01-01T12:21:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_10_31_AM.png?v=1761919865
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Amber Noir Reed Diffuser](https://affinatiliving.com/products/amber-noir-reed-diffuser): Experience the mysterious warmth of Amber Noir. This captivating blend of smooth amber, musk, and soft woods creates a cozy, sensual atmosphere perfect for any space.
-  Updated: 2025-12-18T18:12:44Z
+  Updated: 2026-01-01T12:21:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_14_08_AM.png?v=1761920100
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Christmas Tree Reed Diffuser](https://affinatiliving.com/products/christmas-tree-reed-diffuser): Bring the holidays home with the crisp, evergreen scent of Christmas Tree. Fresh pine, fir needles, and a touch of warm cedar fill your space with festive comfort and cheer.
-  Updated: 2025-12-18T18:12:45Z
+  Updated: 2026-01-01T13:18:33Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_14_11_AM.png?v=1761920198
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9977B383-1789-4BD0-ABC4-3568BEC56E0D.png?v=1767273512
+  Price: $22.95 USD
 - [Peppermint Swirl Reed Diffuser](https://affinatiliving.com/products/peppermint-swirl-reed-diffuser): Refresh your home with the cool, invigorating scent of Peppermint Swirl. A crisp blend of peppermint and sweet vanilla creates a bright, cheerful fragrance that awakens the senses.
-  Updated: 2025-12-18T18:12:45Z
+  Updated: 2026-01-01T12:21:06Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_14_14_AM.png?v=1761920345
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Almond Macaron Reed Diffuser](https://affinatiliving.com/products/almond-macaron-reed-diffuser): Indulge in the sweet, cozy aroma of our Almond Macaron Reed Diffuser. Featuring notes of almond, vanilla, and toasted sugar, this 7.0 fl oz diffuser fills your home with long-lasting, flame-free fragrance.
-  Updated: 2025-12-18T18:12:45Z
+  Updated: 2026-01-01T13:17:38Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_30_40_AM.png?v=1761921424
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1DD3A18C-A482-4672-ADAE-3984C0037F46.png?v=1767273446
+  Price: $22.95 USD
 - [Cactus & Sea Salt Reed Diffuser](https://affinatiliving.com/products/cactus-sea-salt-reed-diffuser): Bring a breath of coastal freshness to your home with our Cactus & Sea Salt Reed Diffuser. This 7.0 fl oz diffuser blends ocean air, cactus blossom, and soft florals for a clean, relaxing scent that lasts for weeks.
-  Updated: 2025-12-18T18:12:45Z
+  Updated: 2026-01-01T12:21:06Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_30_58_AM.png?v=1761921683
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [3-Wick Coconut Dream Candle](https://affinatiliving.com/products/3-wick-coconut-dream-candle): Immerse your home in tropical luxury with the Coconut Dream 3-Wick Candle. A creamy blend of coconut milk, vanilla, and soft musk creates a warm, relaxing island-inspired aroma that soothes and uplifts any space.
   Updated: 2025-12-30T21:05:03Z
   Vendor: Affinati
@@ -5171,26 +5171,26 @@
     Availability: Available
     Price: $109.95 USD
 - [Blue Spruce Reed Diffuser](https://affinatiliving.com/products/blue-spruce-reed-diffuser): Experience the crisp, woodsy aroma of our Blue Spruce Reed Diffuser. Crafted with a non-toxic formula, it fills your home with refreshing pine and forest notes for weeks of flame-free, long-lasting fragrance.
-  Updated: 2025-12-18T18:12:46Z
+  Updated: 2026-01-01T13:21:46Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7BF67DA5-7A3B-47D1-AAEF-D22F292D0ABE.png?v=1762089855
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2FA438E8-A031-438C-9DCD-C21C03411E85.png?v=1767273698
+  Price: $22.95 USD
 - [Apple Cinnamon Reed Diffuser](https://affinatiliving.com/products/apple-cinnamon-reed-diffuser): Fill your home with cozy warmth using the Affinati Apple Cinnamon Reed Diffuser. Crisp apple and warm cinnamon create a comforting, nostalgic fragrance that lasts for weeks—perfect for adding inviting seasonal charm to any space.
-  Updated: 2025-12-31T20:34:59Z
+  Updated: 2026-01-01T13:21:06Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/153F8886-FF47-48A4-970E-BEA47361FDAE.png?v=1762090379
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9B5F79F0-CE66-4010-B9FE-F35DC263BB4C.png?v=1767273665
+  Price: $22.95 USD
 - [Black Cherry Reed Diffuser](https://affinatiliving.com/products/black-cherry-reed-diffuser): Indulge in the rich, fruity aroma of our Black Cherry Reed Diffuser. Crafted with a non-toxic formula, it fills your home with the sweet scent of ripe cherries and berries for weeks of warm, flame-free fragrance.
-  Updated: 2025-12-18T18:12:46Z
+  Updated: 2026-01-01T12:21:05Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3611488E-F95A-45EC-BB11-64BF5E902185.png?v=1762090678
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Toasted Pumpkin Cream Original Candle](https://affinatiliving.com/products/toasted-pumpkin-cream-original-candle): Embrace the cozy aroma of our Toasted Pumpkin Cream Candle. Crafted with a premium soy wax blend, it fills your home with warm pumpkin, vanilla, and toasted spice for a comforting autumn ambiance.
   Updated: 2025-12-28T14:21:24Z
   Vendor: Affinati
@@ -5252,54 +5252,54 @@
     Availability: Available
     Price: $72.95 USD
 - [Saffron Cedarwood Reed Diffuser](https://affinatiliving.com/products/saffron-cedarwood-reed-diffuser): Fill your home with the warm, elegant scent of saffron and cedarwood. A rich, earthy diffuser for cozy, refined spaces.
-  Updated: 2025-12-18T18:12:47Z
+  Updated: 2026-01-01T12:21:05Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3473B00B-141B-47FC-B1B0-009F8B01E31B.png?v=1762303288
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Hazelnut Coffee Reed Diffuser](https://affinatiliving.com/products/hazelnut-coffee-reed-diffuser): Awaken your space with the inviting aroma of roasted coffee and creamy hazelnut. A cozy, café-inspired diffuser for daily comfort.
-  Updated: 2025-12-18T18:12:47Z
+  Updated: 2026-01-01T12:21:03Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1834E22B-6B69-4FC7-B218-4ECCA4C06081.png?v=1762303491
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Pumpkin Spice Latte Reed Diffuser](https://affinatiliving.com/products/pumpkin-spice-latte-reed-diffuser): Cozy up with creamy pumpkin, espresso, and warm spice. A rich fall diffuser that captures the essence of your favorite latte.
-  Updated: 2025-12-18T18:12:47Z
+  Updated: 2026-01-01T12:21:03Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E1FF6945-DD5C-4AD7-9B31-EB8FF8C04B8D.png?v=1762303632
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Fresh Cut Grass Reed Diffuser](https://affinatiliving.com/products/fresh-cut-grass-reed-diffuser): Bring the outdoors in with the crisp scent of freshly cut grass. A green, uplifting diffuser that feels clean and refreshing.
-  Updated: 2025-12-18T18:12:48Z
+  Updated: 2026-01-01T12:21:03Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E8E186E0-2BBD-47F7-9720-4C13D70A0F9B.png?v=1762303753
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Hawaiian Hibiscus Reed Diffuser](https://affinatiliving.com/products/hawaiian-hibiscus-reed-diffuser): Escape to paradise with tropical hibiscus and jasmine. A bright, floral diffuser that fills your space with island serenity.
-  Updated: 2025-12-18T18:12:48Z
+  Updated: 2026-01-01T13:20:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/C4BDFBC9-5C42-491D-90DB-EA6998927A70.png?v=1762303889
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/74C28DEF-5928-4113-B2A9-412BDCD0CB15.png?v=1767273606
+  Price: $22.95 USD
 - [Himalayan Bamboo Reed Diffuser](https://affinatiliving.com/products/himalayan-bamboo-reed-diffuser): Refresh your home with clean bamboo and soft musk. A soothing, spa-like diffuser that brings balance and natural tranquility.
-  Updated: 2025-12-18T18:12:48Z
+  Updated: 2026-01-01T12:21:02Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E1F795C4-DFC1-448E-BBB9-7F1AEE13457B.png?v=1762304081
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Butterscotch & Bourbon Reed Diffuser](https://affinatiliving.com/products/butterscotch-bourbon-reed-diffuser): Indulge in sweet butterscotch and aged bourbon. A bold, luxurious diffuser that adds warmth and sophistication to any room.
-  Updated: 2025-12-18T18:12:48Z
+  Updated: 2026-01-01T12:21:02Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/C17E162B-EC6C-4423-B3D7-DC1DCFE091E9_1337ccc1-b05c-4af4-9577-abd352b7b903.png?v=1762304111
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [3-Wick Strawberry Shortcake Candle](https://affinatiliving.com/products/3-wick-strawberry-shortcake-candle): Indulge in the sweet aroma of our Strawberry Shortcake 3-Wick Candle. Hand-poured with a premium soy wax blend, it fills your home with notes of ripe strawberries, vanilla cake, and whipped cream for a cozy, bakery-fresh scent that lasts.
   Updated: 2025-12-30T21:05:03Z
   Vendor: Affinati
@@ -5451,19 +5451,19 @@
     Availability: Available
     Price: $64.95 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
-  Updated: 2025-12-18T18:12:50Z
+  Updated: 2026-01-01T13:15:04Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_08_22_16_AM.png?v=1762694576
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2375B0DC-84B3-4639-80E8-763BDD1A3663.png?v=1767273293
+  Price: $22.95 USD
 - [Vanilla Bean Reed Diffuser](https://affinatiliving.com/products/vanilla-bean-reed-diffuser): Indulge in cozy elegance with Affinati’s Vanilla Bean Reed Diffuser. A creamy blend of vanilla bean, sweet cream, and caramelized sugar for a warm, long-lasting, flame-free fragrance experience.
-  Updated: 2025-12-18T18:12:50Z
+  Updated: 2026-01-01T13:13:03Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7481.png?v=1762695909
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2A3C7299-90EC-4D91-9E69-5FBE008234EA.png?v=1767273172
+  Price: $22.95 USD
 - [3-Wick Vanilla Sugar Candle](https://affinatiliving.com/products/3-wick-vanilla-sugar-candle): Savor the cozy sweetness of Affinati’s Vanilla Sugar 3-Wick Candle. A creamy blend of vanilla bean and warm sugar fills your home with rich, comforting fragrance and refined elegance.
   Updated: 2025-12-30T21:05:02Z
   Vendor: Affinati
@@ -5722,12 +5722,12 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4AB28387-47CA-4A09-B37C-8238E04E538A.png?v=1763304499
   Price: $8.95 USD
 - [Eucalyptus Pine Reed Diffuser](https://affinatiliving.com/products/eucalyptus-pine-reed-diffuser): Refresh your home with the Eucalyptus & Pine Reed Diffuser. Crisp eucalyptus and fresh pine create a clean, spa-like scent with long-lasting, flame-free fragrance.
-  Updated: 2025-12-18T18:12:55Z
+  Updated: 2026-01-01T12:21:00Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7599.png?v=1763167724
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Eucalyptus Pine Original Candle](https://affinatiliving.com/products/eucalyptus-pine-original-candle): Refresh your home with the crisp, natural aroma of our Eucalyptus Pine Original Candle. Hand-poured with a premium soy wax blend, this 10 oz candle delivers a clean, invigorating fragrance inspired by eucalyptus, pine needles, and cedar. Perfect for creating a calming, nature-inspired atmosphere. Burn time: 60–70 hours.
   Updated: 2025-12-31T14:49:35Z
   Vendor: Affinati
@@ -5774,12 +5774,12 @@
     Availability: Available
     Price: $109.95 USD
 - [Driftwood & Sea Salt Reed Diffuser](https://affinatiliving.com/products/driftwood-sea-salt-reed-diffuser): Fill your home with coastal freshness. Our 7 oz Driftwood & Sea Salt reed diffuser delivers a clean, long-lasting, non-toxic fragrance inspired by ocean air and driftwood.
-  Updated: 2025-12-18T18:12:56Z
+  Updated: 2026-01-01T13:19:15Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_15_2025_at_07_51_20_PM.png?v=1763254446
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E04D2B60-036E-477E-9B92-C05B7D1869D7_db67c520-f37a-49d7-ace6-12b3dd4b9848.png?v=1767273554
+  Price: $22.95 USD
 - [3-Wick Driftwood & Sea Salt Candle](https://affinatiliving.com/products/3-wick-driftwood-sea-salt-candle): Refresh your home with the clean, coastal aroma of our Driftwood & Sea Salt 3-Wick Candle. This 17 oz soy wax blend delivers an airy mix of sea salt, driftwood, and soft coastal woods for a long-lasting, clean burn and serene ocean-inspired fragrance.
   Updated: 2025-12-30T21:05:00Z
   Vendor: Affinati
@@ -5919,12 +5919,12 @@
     Availability: Available
     Price: $29.95 USD
 - [Lavender Vanilla Reed Diffuser](https://affinatiliving.com/products/lavender-vanilla-reed-diffuser): Create a calming, spa-like atmosphere with our Lavender Vanilla Reed Diffuser. This 7.0 fl oz non-toxic diffuser blends soothing lavender and creamy vanilla for a soft, long-lasting fragrance that brings comfort and tranquility to any room.
-  Updated: 2025-12-18T18:12:57Z
+  Updated: 2026-01-01T13:10:51Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7628.png?v=1763384417
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/97FB95CE-E834-4BB6-8823-5FCA63BA80C9.png?v=1767273050
+  Price: $22.95 USD
 - [3-Wick Lavender Vanilla Candle](https://affinatiliving.com/products/3-wick-lavender-vanilla-candle): Relax your home with the soothing scent of lavender and creamy vanilla. This 17 oz 3-wick soy-blend candle delivers a strong, long-lasting aroma that fills any room with calming, spa-like comfort. Perfect for creating a peaceful, inviting atmosphere.
   Updated: 2025-12-30T21:04:58Z
   Vendor: Affinati
@@ -6077,19 +6077,19 @@
     Availability: Available
     Price: $29.95 USD
 - [Rosemary Mint Reed Diffuser](https://affinatiliving.com/products/rosemary-mint-reed-diffuser): Refresh any room with our Rosemary Mint Reed Diffuser—an invigorating blend of cool mint and fresh rosemary for a clean, long-lasting, spa-like scent.
-  Updated: 2025-12-18T18:12:59Z
+  Updated: 2026-01-01T12:21:00Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_08_53_52_AM.png?v=1763906087
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Midnight Ember Reed Diffuser](https://affinatiliving.com/products/midnight-ember-reed-diffuser): Warm your space with our Midnight Ember Reed Diffuser—an inviting blend of amber, smoky woods, and vanilla embers for a long-lasting, luxurious atmosphere.
-  Updated: 2025-12-18T18:12:59Z
+  Updated: 2026-01-01T12:20:59Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_08_57_08_AM.png?v=1763906395
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Carrot Cake Signature Candle](https://affinatiliving.com/products/carrot-cake-signature-candle): Warm your home with our Carrot Cake Signature Candle—notes of spiced cake, creamy vanilla frosting, and brown sugar for a cozy, bakery-fresh aroma.
   Updated: 2025-12-28T14:21:26Z
   Vendor: Affinati
@@ -6175,12 +6175,12 @@
     Availability: Available
     Price: $29.95 USD
 - [Blackberry Sage Reed Diffuser](https://affinatiliving.com/products/blackberry-sage-reed-diffuser): Refresh your home with our Blackberry Sage Reed Diffuser—juicy berries and fresh sage create a vibrant, uplifting scent with long-lasting, flame-free fragrance.
-  Updated: 2025-12-18T18:13:00Z
+  Updated: 2026-01-01T12:20:59Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7752.png?v=1763917866
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Affinati Rosemary Mint Lotion – 10 OZ](https://affinatiliving.com/products/rosemary-mint-shea-butter-body-lotion-10-oz): Herbal rosemary and crisp mint create a refreshing, clean aroma. This 10 oz lotion hydrates deeply and leaves skin smooth and invigorated.
   Updated: 2025-12-30T18:07:06Z
   Vendor: Affinati
@@ -6220,12 +6220,12 @@
     Availability: Available
     Price: $29.95 USD
 - [Blackberry Absinthe Reed Diffuser](https://affinatiliving.com/products/blackberry-absinthe-reed-diffuser): A deep, luxurious home fragrance. Our Blackberry Absinthe Reed Diffuser blends dark berries and aromatic absinthe for a smooth, long-lasting, flame-free scent.
-  Updated: 2025-12-18T18:13:01Z
+  Updated: 2026-01-01T12:20:59Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_25_2025_at_05_53_43_PM.png?v=1764111730
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [3-Wick Blackberry Absinthe Candle](https://affinatiliving.com/products/3-wick-blackberry-absinthe-candle): A deep, luxurious scent. Our Blackberry Absinthe 3-Wick Candle blends dark berries, plum, and absinthe for a rich, smooth, long-lasting fragrance in any room.
   Updated: 2025-12-30T21:04:57Z
   Vendor: Affinati
@@ -6456,12 +6456,12 @@
     Availability: Available
     Price: $29.95 USD
 - [Ivory Woods Reed Diffuser](https://affinatiliving.com/products/ivory-woods-reed-diffuser): Elevate your home with our Ivory Woods Reed Diffuser. Warm sandalwood, cashmere woods, vanilla, and amber create a soft, elegant, long-lasting woody fragrance.
-  Updated: 2025-12-18T18:13:04Z
+  Updated: 2026-01-01T12:20:59Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/11360F79-A874-49F7-8ACB-DC386700AD52.png?v=1764259402
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Arctic Cedarwood Room Spray](https://affinatiliving.com/products/arctic-cedarwood-room-spray): Refresh any space with Arctic Cedarwood. A crisp blend of cool cedar, frosted woods, and clean musk creates a long-lasting, modern, and invigorating home fragrance.
   Updated: 2025-12-28T14:21:46Z
   Vendor: Affinati
@@ -6517,12 +6517,12 @@
     Availability: Available
     Price: $64.95 USD
 - [Arctic Cedarwood Reed Diffuser](https://affinatiliving.com/products/arctic-cedarwood-reed-diffuser): Refresh your home with Arctic Cedarwood. Cool cedar, frosted pine, and soft amber create a clean, invigorating, long-lasting fragrance in this 7.0 fl oz diffuser.
-  Updated: 2025-12-18T18:13:05Z
+  Updated: 2026-01-01T12:20:57Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_12_07_26_PM.png?v=1764263294
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Arctic Cedarwood Signature Candle](https://affinatiliving.com/products/arctic-cedarwood-signature-candle): A crisp, modern scent. Arctic Cedarwood blends cool cedar, frosted pine, amber, and icy musk for a clean, refreshing, long-lasting fragrance in any room.
   Updated: 2025-12-28T14:21:27Z
   Vendor: Affinati
@@ -6761,19 +6761,19 @@
     Availability: Available
     Price: $29.95 USD
 - [Vanilla Chai Reed Diffuser](https://affinatiliving.com/products/vanilla-chai-reed-diffuser): Warm and cozy Vanilla Chai reed diffuser with vanilla bean and chai spices. Long-lasting, non-toxic home fragrance that creates a soothing, aromatic retreat.
-  Updated: 2025-12-18T18:13:09Z
+  Updated: 2026-01-01T12:20:57Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_08_54_45_AM.png?v=1765115799
-  Price: $17.95 USD
+  Price: $22.95 USD
 - [Whiskey Reserve Reed Diffuser](https://affinatiliving.com/products/whiskey-reserve-reed-diffuser): Luxurious Whiskey Reserve reed diffuser with aged whiskey, oak, and vanilla. A non-toxic, long-lasting home fragrance that adds warm, refined sophistication.
-  Updated: 2025-12-18T18:13:09Z
+  Updated: 2026-01-01T14:19:28Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_08_59_50_AM.png?v=1765116012
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8879.png?v=1767276797
+  Price: $22.95 USD
 - [3-Wick Toasted Coconut Candle](https://affinatiliving.com/products/3-wick-toasted-coconut-candle): Indulge in warm, creamy island comfort with our Toasted Coconut 3-Wick Candle. A premium soy wax blend with rich notes of toasted sugar, vanilla cream, and fresh coconut. Smooth, even burn—perfect for adding tropical warmth to any room.
   Updated: 2025-12-30T21:04:55Z
   Vendor: Affinati
@@ -6844,12 +6844,12 @@
     Availability: Available
     Price: $29.95 USD
 - [Toasted Coconut Reed Diffuser](https://affinatiliving.com/products/toasted-coconut-reed-diffuser): Experience warm, cozy luxury with the Affinati Toasted Coconut Reed Diffuser. A non-toxic 7.0 fl oz blend of toasted coconut, vanilla, and soft woods for long-lasting, flame-free home fragrance.
-  Updated: 2025-12-18T18:13:10Z
+  Updated: 2026-01-01T13:10:05Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_24_35_AM.png?v=1765117490
-  Price: $17.95 USD
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/F41CB81B-6959-4929-8531-5B7E10EE2E89.png?v=1767272985
+  Price: $22.95 USD
 - [White Christmas Original Candle](https://affinatiliving.com/products/white-christmas-original-candle): Celebrate the season with White Christmas—a crisp, cozy blend of pine, winter air, and soft vanilla. This 10 oz candle delivers a clean burn and lasting holiday fragrance.
   Updated: 2025-12-31T04:00:09Z
   Vendor: Affinati
@@ -7989,16 +7989,16 @@
   Updated: 2025-12-18T18:11:45Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 97
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-12-29T12:09:25Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 80
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-21T01:39:51Z
   Total Products: 32
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
-  Updated: 2025-12-29T12:09:25Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 29
 - [Face Creams](https://affinatiliving.com/collections/face-creams)
   Updated: 2025-12-18T18:11:45Z
@@ -8007,7 +8007,7 @@
   Updated: 2025-12-28T12:08:49Z
   Total Products: 45
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
-  Updated: 2025-12-26T12:07:15Z
+  Updated: 2026-01-01T12:21:14Z
   Total Products: 42
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2025-12-23T00:54:39Z
@@ -8019,19 +8019,19 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 358
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-12-29T12:09:25Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 129
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-12-28T12:08:49Z
+  Updated: 2026-01-01T12:21:14Z
   Total Products: 87
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-12-18T18:11:46Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
-  Updated: 2025-12-29T12:09:25Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 27
 - [All Sale](https://affinatiliving.com/collections/all-sale)
   Updated: 2025-12-23T21:03:31Z
@@ -8043,34 +8043,34 @@
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-30T17:00:28Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 97
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-12-29T12:09:25Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 122
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 150
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-31T17:58:58Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 138
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 104
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-12-31T17:38:24Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 65
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-12-30T21:05:21Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-31T17:38:24Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 138
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-31T12:09:20Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 24
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
   Updated: 2025-12-30T21:05:29Z
@@ -8079,22 +8079,22 @@
   Updated: 2025-12-30T21:05:27Z
   Total Products: 9
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-12-31T17:38:24Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 50
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-12-30T21:05:30Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-31T17:48:44Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 87
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-31T12:09:20Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 49
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
-  Updated: 2025-12-31T12:09:20Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 3
 - [Scent Collection Bundles](https://affinatiliving.com/collections/scent-collection-bundles): Explore Affinati’s Scent Collection Bundles—each includes a 3-wick candle, room spray, and body lotion crafted in luxurious, signature fragrances.
   Updated: 2025-12-20T12:10:15Z
@@ -8103,13 +8103,13 @@
   Updated: 2025-12-18T18:11:49Z
   Total Products: 26
 - [New Years Candles](https://affinatiliving.com/collections/new-years-candles): Celebrate the New Year with luxurious candles crafted for midnight moments. Sparkling, warm, and elegant scents to welcome a fresh start.
-  Updated: 2025-12-31T18:06:51Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 66
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
-  Updated: 2025-12-29T12:09:25Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 27
 - [Floral Candle Scents](https://affinatiliving.com/collections/floral-candle-scents)
-  Updated: 2025-12-30T21:05:29Z
+  Updated: 2026-01-01T12:07:53Z
   Total Products: 50
 
 ## Blogs
@@ -8750,6 +8750,9 @@
     Author: Gerard Collins
   - [Dove Body Lotion – Creamy Hydration, Gentle Moisture & Clean Luxury Alternative](https://affinatiliving.com/blogs/news/dove-body-lotion-creamy-hydration-gentle-moisture-and-clean-luxury-alternative)
     Updated: 2025-11-29T15:25:39Z
+    Author: Gerard Collins
+  - [Maison Margiela Replica Reed Diffusers Review: Scents, Strength & Alternatives](https://affinatiliving.com/blogs/news/maison-margiela-replica-reed-diffusers-review-scents-strength-and-alternatives): Maison Margiela Replica Reed Diffusers Review: Scents, Strength & Alternatives
+    Updated: 2026-01-01T14:28:31Z
     Author: Gerard Collins
 - [Deep Analysis](https://affinatiliving.com/blogs/deep-analysis)
   - [Why Soy Candles Are Better for Your Health (and Your Home)](https://affinatiliving.com/blogs/deep-analysis/why-soy-candles-are-better-for-your-health-and-your-home)
@@ -9481,6 +9484,33 @@
     Author: Gerard Collins
   - [Single-Wick vs Multi-Wick Candles: UK Home Guide | Affinati](https://affinatiliving.com/blogs/deep-analysis/single-wick-vs-multi-wick-candles-uk-home-guide-affinati)
     Updated: 2025-12-30T16:22:16Z
+    Author: Gerard Collins
+  - [Are Nest New York Reed Diffusers Worth It? A Complete Review](https://affinatiliving.com/blogs/deep-analysis/are-nest-new-york-reed-diffusers-worth-it-a-complete-review)
+    Updated: 2026-01-01T14:25:12Z
+    Author: Gerard Collins
+  - [P.F. Candle Co. Reed Diffusers: Scents, Strength & Longevity](https://affinatiliving.com/blogs/deep-analysis/p-f-candle-co-reed-diffusers-scents-strength-longevity)
+    Updated: 2026-01-01T14:38:14Z
+    Author: Gerard Collins
+  - [Voluspa Reed Diffusers Review: Scents, Longevity & Best Alternatives](https://affinatiliving.com/blogs/deep-analysis/voluspa-reed-diffusers-review-scents-longevity-and-best-alternatives)
+    Updated: 2026-01-01T14:36:42Z
+    Author: Gerard Collins
+  - [Jo Malone Reed Diffusers Review: Scents, Longevity & Best Alternatives](https://affinatiliving.com/blogs/deep-analysis/jo-malone-reed-diffusers-review-scents-longevity-and-best-alternatives)
+    Updated: 2026-01-01T14:35:12Z
+    Author: Gerard Collins
+  - [Diptyque Reed Diffusers Review: Scents, Longevity & Best Alternatives](https://affinatiliving.com/blogs/deep-analysis/diptyque-reed-diffusers-review-scents-longevity-best-alternatives)
+    Updated: 2026-01-01T14:33:41Z
+    Author: Gerard Collins
+  - [Thymes Frasier Fir Reed Diffusers Review: Strength, Longevity & Alternatives](https://affinatiliving.com/blogs/deep-analysis/thymes-frasier-fir-reed-diffusers-review-strength-longevity-and-alternatives)
+    Updated: 2026-01-01T14:32:14Z
+    Author: Gerard Collins
+  - [Harlem Candle Company Reed Diffusers Review: Scents, Strength & Alternatives](https://affinatiliving.com/blogs/deep-analysis/harlem-candle-company-reed-diffusers-review-scents-strength-alternatives)
+    Updated: 2026-01-01T14:30:22Z
+    Author: Gerard Collins
+  - [Apotheke Reed Diffusers Review: Scents, Strength, Longevity & Alternatives](https://affinatiliving.com/blogs/deep-analysis/apotheke-reed-diffusers-review-scents-strength-longevity-alternatives)
+    Updated: 2026-01-01T14:26:33Z
+    Author: Gerard Collins
+  - [Neom Reed Diffusers Review: Scents, Strength, Longevity & Alternatives](https://affinatiliving.com/blogs/deep-analysis/neom-reed-diffusers-review-scents-strength-longevity-alternatives)
+    Updated: 2026-01-01T14:24:52Z
     Author: Gerard Collins
 - [Debates](https://affinatiliving.com/blogs/debates)
   - [Wooden Wicks vs Cotton Wicks: Best Candle Wicks in 2025](https://affinatiliving.com/blogs/debates/wooden-wicks-vs-cotton-wicks-best-candle-wicks)
