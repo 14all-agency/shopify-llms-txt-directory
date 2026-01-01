@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2025-12-30T00:00:34.076Z
+- Updated At: 2026-01-01T00:00:34.541Z
 
 ## Products
 
@@ -416,6 +416,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_0423af82-efbd-452c-a9a1-feb2f4dab692.jpg?v=1766906876
   Price: $25.61 USD
+- [Universal Travel Adapter with Plug](https://starcopia.com/products/universal-travel-adapter-with-plug): Universal Travel Adapter: This adapter is compact and comes with 8-pin positions, including a total of 4 USB ports - 2 x QC30W USB +2 2 x PD30W Type C Smart Charging Ports, which can power all your devices, Ideal for charging Phones, laptops, tablets, power banks, cameras, headsets, and more. Global Use: Go to more than 160 countries in the most traveled countries. The power plug adapter also fits the sockets in most countries. This international travel adapter is suitable for the United States, United Kingdom, European Union, South America, Canada, Australia, Asia, etc. **This product is not suitable for parts of Africa. ** Support most of your devices: including travel hair dryers, shavers, laptops, curling irons, digital cameras, tablets, Bluetooth speakers, headphones, etc. (Note: This is not a voltage converter, only compatible with dual voltage 100V to 250V wide voltage devices) Versatile AC Outlet : Accepts not only US plugs, but also various plugs from Europe (EU), the UK, Australia, and China. Important: Our adapter does NOT convert voltage. Please ensure the AC-powered device intended to use abroad supports dual voltage (the input spec reads "100-250V, 50/60Hz" on it). It is especially important to check the spec for devices like electric toothbrushes, shavers/trimmers, water flossers, garment steamers, hair straighteners, and CPAP machines before traveling. Smart Safety System: Extra fuse safety protection, Voltage: This product can handle AC 110-250V; Standard voltage, without transformer function Maximum load capacity: 2000W Portable size - 6.75 cm (2.66 in) W x 5 cm (1.97 in) x 5.5 cm (2.17 in) H & 0.12 kg (0.26 lbs); A must-have for anyone traveling for leisure or business. The compact size, no surge protection, and no wires make it completely cruise ship approved. Many are stocking up due to its smart features, slim design, and excellent performance. These products quickly became best-sellers after gaining attention from travel influencers, becoming a must-have travel accessory.
+  Updated: 2025-12-30T10:48:19Z
+  Vendor: starcopia
+  Product Type: Travel Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_dd0c1f9a-f1dd-44f9-b00b-4e132b19d32f.jpg?v=1767091524
+  Price: $28.27 USD
+- [Portable 20W PD Magnetic Wireless Power Bank with MagSafe Charger](https://starcopia.com/products/portable-20w-pd-magnetic-wireless-power-bank-with-magsafe-charger): ✅【Fully Compatible Magnetic Charge】Just snap and charge. Its built-in strong magnets offer a firm attachment to iPhone 12/13/14/15, or other smartphone and keep the phone in place while you charge.【Note: Magnetic charging function is ONLY compatible with iPhone 15/14/13/12 series ; Some model of Huawei, Samsung & Xiaomi.】 ✅【Snappy Way to Charge】Built-in strong magnets allow you to snap and charge compatible with MagSafe. While charging, you can take selfies with the pack sticking tight to your phone, freely and effortlessly. ✅【Twice the extra power】5,000mAh and 10,000mAh large capacities add 2x extra power to your iPhone, with LED display, the power is clear at a glance. Wireless charging of the iPhone 13 1.6 provides 40 hours of video playback time, while the other 5,000mAh battery drains quickly and cannot be fully charged. ✅【20𝐖 𝐒𝐩𝐞𝐞𝐝𝐲 𝐂𝐡𝐚𝐫𝐠𝐞】20W power bank combines the most advanced PD & IP input fast charging technologies—incredibly fast fuel your new iPhone from 0 to 100% in 2hr, nearly 2X faster than original 2.4A chargers. ✅【𝐂𝐨𝐦𝐩𝐚𝐜𝐭 𝐚𝐬 𝐀 𝐂𝐚𝐫𝐝】The body is thin and light, with a maximum thickness of only 9mm. Seiko material: Made of aluminum alloy and PU, 5000mAh size and weight: 68 x 104 x 10mm/145g; 10000mAh size and weight: 68 x 104 x 15mm/145g You can easily put it into any pocket without feeling bulky . ✅【PD 20W 2-way fast charging】The portable charger features Type-C input and output PD20W ports and Lighting input 12W port, making it a perfect fit for your new iPhone, iPad and all upcoming devices. ✅【Safe and Reliable】Complete safety guarantee: Overcharge protection, over-power protection, electromagnetic field protection, short-circuit protection and temperature protection, etc., comprehensive protection of safety.
+  Updated: 2025-12-30T10:58:29Z
+  Vendor: starcopia
+  Product Type: Power Bank
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_ed50d7ae-12ea-403a-a274-80db055acd70.jpg?v=1767092026
+  - [5000mAh](https://starcopia.com/products/portable-20w-pd-magnetic-wireless-power-bank-with-magsafe-charger?variant=47777484570849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_ed50d7ae-12ea-403a-a274-80db055acd70.jpg?v=1767092026
+    Price: $42.26 USD
+  - [10000mAh](https://starcopia.com/products/portable-20w-pd-magnetic-wireless-power-bank-with-magsafe-charger?variant=47777484603617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_ed50d7ae-12ea-403a-a274-80db055acd70.jpg?v=1767092026
+    Price: $42.26 USD
 
 ## Collections
 
@@ -438,8 +459,8 @@
   Updated: 2025-12-26T12:35:17Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2025-12-28T07:30:28Z
-  Total Products: 9
+  Updated: 2025-12-30T10:58:26Z
+  Total Products: 11
 
 ## Store Pages
 
