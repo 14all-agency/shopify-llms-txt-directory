@@ -10,7 +10,7 @@
 - Contact Email: reverbarberproducts@gmail.com
 - Contact Phone: 0767661863
 - Address: Paunesti, Vrancea, 077145 Vrancea, Romania
-- Updated At: 2025-12-29T00:00:39.085Z
+- Updated At: 2026-01-01T00:00:39.713Z
 
 ## Products
 
