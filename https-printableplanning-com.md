@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-01T12:00:29.302Z
+- Updated At: 2026-01-01T16:00:31.351Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -2839,16 +2839,16 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2025-12-30T12:00:56Z
+  Updated: 2026-01-01T12:00:41Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2025-12-24T12:01:45Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2025-12-30T12:00:56Z
+  Updated: 2026-01-01T12:00:41Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website password lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2025-12-21T12:02:10Z
+  Updated: 2026-01-01T12:00:41Z
   Total Products: 13
 - [Caregivers, Health, Housekeeping, and Pet forms at Printable Planning](https://printableplanning.com/collections/caregivers-health-housekeeping): A collection of printable forms designed for caregivers of both people and pets. Our comprehensive suite includes baby logs, nanny logs, health information sheets, and specialized forms for elderly and disability care. You'll also find a range of forms for housekeeping and cleaning tasks. Perfect for organizing and streamlining your caregiving responsibilities.
   Updated: 2025-12-30T12:00:56Z
