@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-30T00:01:05.440Z
+- Updated At: 2026-01-01T00:01:04.101Z
 
 ## Products
 
@@ -1954,7 +1954,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-12-29T16:19:46Z
+  Updated: 2025-12-31T14:00:15Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2040,7 +2040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $44.95 USD
   - [Peacock  Blue / XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043040858)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $49.95 USD
   - [Peacock  Blue / 2XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043073626)
@@ -5397,7 +5397,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-daisy-flower-drop-earrings-minimalist-jewelry.webp?v=1733615043
   Price: $24.95 USD
 - [Gold Layered Heart Pendant Necklace - Perfect Holiday Gift](https://ursupermart.com/products/gold-layered-heart-pendant-necklace-set): Shop the perfect gift ideas under $20! This 18K Gold-Plated Double Layered Heart Necklace is a dainty, colorful charm for any occasion.
-  Updated: 2025-12-29T05:51:58Z
+  Updated: 2025-12-30T06:24:41Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Necklace
   Availability: Available
@@ -15362,7 +15362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-12-29T06:16:18Z
+  Updated: 2025-12-31T01:30:41Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -15484,7 +15484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-dress-blue-bodycon-formal.webp?v=1744081852
     Price: $71.95 USD
 - [Stunning Blue Sequin Prom Dress | Bodycon Evening Formal](https://ursupermart.com/products/blue-sequin-prom-dress-high-slit): Make an unforgettable entrance in our blue sequin prom dress with thigh slit. Perfect for proms, weddings, and formal events. Size-inclusive XS-XL Free Shipping
-  Updated: 2025-12-29T06:16:26Z
+  Updated: 2025-12-30T16:25:15Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Prom Dress
   Availability: Available
@@ -19768,7 +19768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-ethnic-print-sleeveless.webp?v=1752532859
     Price: $41.95 USD
 - [Women's Dresses for Summer in Floral Prints](https://ursupermart.com/products/women-dresses-for-special-occasions-online-store-1): Shop women's dresses in tropical prints, maxi styles, and comfortable fits. Find the perfect V-neck cami dress or flowy summer dress with pockets.
-  Updated: 2025-12-29T06:26:13Z
+  Updated: 2025-12-31T23:32:06Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Women's Tropical Leaf Print Maxi Dress
   Availability: Available
@@ -23319,7 +23319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/callus-remover-kit-with-usb-cable.webp?v=1758555078
     Price: $37.95 USD
 - [Tactical bags: Durable 85L duffel for military & outdoor](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor): Tactical bags built for adventure! This 85L military duffel offers 3-way carry, durable 600D nylon, and organized storage for all your gear. Get yours today!
-  Updated: 2025-12-29T17:38:07Z
+  Updated: 2025-12-31T08:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: Tactical Duffel Bag
   Availability: Available
@@ -26494,7 +26494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/kids-whiteboard-learning-organizer-in-use.webp?v=1759589733
   Price: $74.95 USD
 - [Fidget Toy Rotating Puzzle for Stress Relief & Focus](https://ursupermart.com/products/fidget-toy-rotating-puzzle-for-stress-relief-and): This fidget toy rotating puzzle offers stress relief and boosts focus with its smooth 360-degree spin and colorful beads. Sharpen your mind and find calm; get yours today!
-  Updated: 2025-12-29T17:41:22Z
+  Updated: 2025-12-31T03:26:51Z
   Vendor: @S1B|S1|CJ
   Product Type: Fidget Toy
   Availability: Available
@@ -30036,7 +30036,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-jacket-premium-teal-knit-hybrid-warmth.webp?v=1765804740
     Price: $52.95 USD
 - [Plush Faux Fur Coat - Warm, Stylish & Ethical Outerwear](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women): Plush faux fur coat offers ethical warmth and chic style with its fluffy lapel and oversized collar; embrace luxurious fashion today!
-  Updated: 2025-12-29T17:46:29Z
+  Updated: 2025-12-31T15:26:57Z
   Vendor: S1B|S1|CJ
   Product Type: Faux fur coat
   Availability: Available
@@ -30355,7 +30355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-off-shoulder-knit-top-white-outdoor.webp?v=1762293039
     Price: $34.95 USD
 - [Turtleneck Sweaters for Women - Soft Knit & Stylish](https://ursupermart.com/products/womens-cozy-knit-turtleneck-sweaters-for-fall): Turtleneck sweaters provide cozy warmth and versatile style for any occasion. Stay comfortable and look polished all season long; find your perfect fit today!
-  Updated: 2025-12-29T17:47:00Z
+  Updated: 2025-12-31T16:26:46Z
   Vendor: S1B|S1|CJ
   Product Type: turtleneck sweater
   Availability: Available
@@ -30860,7 +30860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-blue-on-deck.webp?v=1762111090
     Price: $56.95 USD
 - [Music Boxing Machine Interactive Home Fitness Fun](https://ursupermart.com/products/music-boxing-machine-interactive-home-fitness-fun): Experience a dynamic music boxing workout at home with interactive lights and your favorite tunes, perfect for stress relief and boosting coordination. Get yours today!
-  Updated: 2025-12-29T17:47:26Z
+  Updated: 2025-12-31T22:29:56Z
   Vendor: S1B|S1|CJ
   Product Type: Music Boxing Machine
   Availability: Available
@@ -30886,7 +30886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/music-boxing-machine-smart-star-black.webp?v=1762393400
     Price: $134.95 USD
 - [Racing Phone Holders for Car Vent - Safe & Easy Install](https://ursupermart.com/products/car-phone-holders-for-vent-safe-easy-install): Secure your phone with our racing car phone holders, featuring adjustable clamps and a 360-degree swivel for safe, hands-free driving. Get yours today!
-  Updated: 2025-12-29T17:47:27Z
+  Updated: 2025-12-31T22:29:56Z
   Vendor: S1B|S1|CJ
   Product Type: car phone holder
   Availability: Available
@@ -31264,7 +31264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/654ab3e7-bdfa-4ebe-b4cf-e68b38ae26ea.jpg?v=1762443489
     Price: $124.95 USD
 - [Faux Fur Hooded Poncho - Warm & Stylish Outerwear](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho): This faux fur hooded poncho offers cozy warmth, stylish comfort, and practical pockets for any occasion; discover your perfect versatile layer today!
-  Updated: 2025-12-29T17:48:52Z
+  Updated: 2025-12-31T23:28:10Z
   Vendor: S1B|S1|CJ
   Product Type: Hooded poncho
   Availability: Available
@@ -32651,7 +32651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-12-29T17:51:04Z
+  Updated: 2025-12-31T13:27:02Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -33214,7 +33214,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-red-single-seat.webp?v=1763341891
     Price: $67.95 USD
 - [Teddy Coat for Women Plush Oversized Warm Stylish](https://ursupermart.com/products/womens-oversized-plush-warm-stylish-teddy-coat): Discover this cozy teddy coat, offering an oversized fit and warm style, perfect for layering and everyday comfort; find your favorite color and embrace warmth!
-  Updated: 2025-12-29T17:52:00Z
+  Updated: 2025-12-31T18:26:50Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Teddy Coat
   Availability: Available
@@ -34492,7 +34492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-loose-plush-multicolor-hooded-tan.png?v=1763260049
     Price: $49.95 USD
 - [Rain Coat for Women - Lightweight & Packable for Travel](https://ursupermart.com/products/women-lightweight-packable-travel-rain-coat): This lightweight rain coat for women keeps you dry and comfortable with its adjustable fit and handy pockets for essentials. Stay prepared, shop now!
-  Updated: 2025-12-29T17:54:13Z
+  Updated: 2025-12-31T01:27:00Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Raincoat
   Availability: Available
@@ -34598,7 +34598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/waterproof-raincoat-women-navy-windbreaker-jacket.webp?v=1763265349
     Price: $46.95 USD
 - [Biker Jacket Women Suede Edgy Style Flattering Fit](https://ursupermart.com/products/womens-suede-biker-jacket-edgy-fall-flattering-fit): Biker jacket for women: Elevate your style with this edgy, flattering jacket, perfect for fall and any occasion; discover your perfect fit today!
-  Updated: 2025-12-29T17:54:35Z
+  Updated: 2025-12-31T01:27:00Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Biker Jacket
   Availability: Available
@@ -35295,7 +35295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-triple-color-pack.webp?v=1762618481
     Price: $84.95 USD
 - [Womens Coats: Stylish Warm A-Line Winter Coat with Pockets](https://ursupermart.com/products/womens-coats-stylish-warm-winter-coat-pockets): Womens coats provide cozy warmth and unique style with this flattering A-line design, featuring knitted sleeves and handy pockets. Shop now for your perfect fit!
-  Updated: 2025-12-29T17:55:21Z
+  Updated: 2025-12-31T10:26:52Z
   Vendor: @S1B|S1|CJ
   Product Type: Womens Coat
   Availability: Available
@@ -35385,7 +35385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-trench-coat-red-knit-sleeves.png?v=1762472684
     Price: $54.95 USD
 - [Puffer Blazer Men's Warm Jacket - Stylish & Professional](https://ursupermart.com/products/mens-warm-waterproof-puffer-blazer-jacket): Puffer Blazer for men: Stay warm and look sharp in this stylish, waterproof, and windproof jacket. Perfect for any setting, shop now for ultimate comfort!
-  Updated: 2025-12-29T19:34:39Z
+  Updated: 2025-12-30T23:29:35Z
   Vendor: @S1B|S1|CJ
   Product Type: Puffer Blazer Jacket
   Availability: Available
@@ -36051,7 +36051,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/coat-buttons-red-classic-buttoned-overcoat.webp?v=1763245064
     Price: $64.95 USD
 - [Trench Coat for Women - Belted, Warm & Flattering Fit](https://ursupermart.com/products/womens-belted-warm-trench-coat-flattering-fit): Trench coat for women: stay warm and stylish with this versatile, belted overcoat that flatters your figure and protects your neck. Discover your perfect look!
-  Updated: 2025-12-29T17:56:44Z
+  Updated: 2025-12-30T23:29:36Z
   Vendor: S1B|S1|CJ
   Product Type: women's overcoat
   Availability: Available
@@ -36245,7 +36245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cardigan-large-coat-hot-pink-fashion.webp?v=1762982398
     Price: $62.95 USD
 - [Mens Cardigans: Knitted Zipper Style with Pockets](https://ursupermart.com/products/mens-knitted-zipper-cardigan-with-pockets): Mens cardigans provide versatile style and cozy warmth with a full zipper and handy pockets for essentials; find your perfect comfortable layer today.
-  Updated: 2025-12-29T17:56:56Z
+  Updated: 2025-12-31T12:26:46Z
   Vendor: S1B|S1|CJ
   Product Type: Mens knitted cardigan
   Availability: Available
@@ -36431,7 +36431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/knit-cardigan-olive-zip-casual-fit.webp?v=1762981123
     Price: $54.95 USD
 - [Mens Overcoat: Classic British Black Winter Style & Warmth](https://ursupermart.com/products/mens-overcoat-classic-british-black-winter-warmth): Mens overcoat: Enjoy tailored warmth and sophisticated style for any occasion. Stay comfortable and look polished all winter long; discover yours now!
-  Updated: 2025-12-29T17:57:06Z
+  Updated: 2025-12-31T11:26:50Z
   Vendor: S1B|S1|CJ
   Product Type: Mens Overcoat
   Availability: Available
@@ -36581,7 +36581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/lapel-trench-coat-charcoal-modern-formal.webp?v=1762979541
     Price: $63.95 USD
 - [Cape Jackets for Women - Belted & Warm Style](https://ursupermart.com/products/womens-belted-warm-cape-jackets-poncho-coat): Cape jackets provide a chic, warm outer layer, featuring a stand-up collar and a flattering belted waist for versatile styling. Shop for your perfect fit!
-  Updated: 2025-12-29T17:57:13Z
+  Updated: 2025-12-31T08:28:11Z
   Vendor: S1B|S1|CJ
   Product Type: Women's cape jacket
   Availability: Available
@@ -37047,7 +37047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/padded-puffer-jacket-pink-flat-view.webp?v=1762527796
     Price: $67.95 USD
 - [Nativity Scene Decor - Soft Glow Christmas Light](https://ursupermart.com/products/nativity-scene-decor-soft-glow-christmas-light): Nativity scene light: Add a modern, artistic touch to your home with this layered Christmas decor, featuring illuminated stars and a soft glow. Shop now!
-  Updated: 2025-12-29T17:57:47Z
+  Updated: 2025-12-31T07:27:46Z
   Vendor: @S1B|S1|CJ
   Product Type: Nativity scene decor
   Availability: Available
@@ -37187,7 +37187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-cardigan-sweater-maroon-black-pattern.webp?v=1763084502
     Price: $54.95 USD
 - [Winter Jackets for Men - Warm & Windproof for Cold](https://ursupermart.com/products/winter-jackets-for-men-warm-windproof-cold-weather): Winter jackets for men keep you warm and dry with a plush lining, adjustable hood, and multiple pockets; stay comfortable in any cold weather. Shop now!
-  Updated: 2025-12-29T17:58:19Z
+  Updated: 2025-12-31T05:26:41Z
   Vendor: S1B|S1|CJ
   Product Type: Men's Outdoor Jacket
   Availability: Available
@@ -37415,7 +37415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-red-velvet-dress-holiday-twirl.webp?v=1763520596
     Price: $54.95 USD
 - [Women's Wool Blend Hooded Coat - Warm Hooded Style with Pockets](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets): This women's  Wool Blend Hooded Coat offers warmth, style, and secure pockets for any occasion. Feel confident and shop this versatile hooded coat today!
-  Updated: 2025-12-29T17:58:50Z
+  Updated: 2025-12-31T03:28:05Z
   Vendor: S1B|S1|CJ
   Product Type: Women's coat
   Availability: Available
@@ -37811,7 +37811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-patterned-belt-white-cutout-floral-leather.webp?v=1763872443
     Price: $12.95 USD
 - [Gold Floral Stud Earrings Elegant Lightweight Versatile](https://ursupermart.com/products/gold-floral-stud-earrings-elegant-lightweight-versatile-style): Gold floral stud earrings offer elegant style and all-day comfort, perfect for any occasion, from work to special events. Elevate your look and shop now!
-  Updated: 2025-12-29T17:59:18Z
+  Updated: 2025-12-31T00:26:40Z
   Vendor: S1B|S1|CJ
   Product Type: Stud earrings
   Availability: Available
@@ -38365,7 +38365,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/key-and-locket-earrings-valentine-style.webp?v=1763860777
   Price: $21.95 USD
 - [Glow in Dark Jewelry Butterfly Necklace and Bracelet Set](https://ursupermart.com/products/glow-in-dark-jewelry-butterfly-necklace-bracelet-set-for-women): Glow in dark jewelry butterfly set helps you express your unique style and shine bright at any event. Grab this captivating set today!
-  Updated: 2025-12-29T18:00:06Z
+  Updated: 2025-12-30T22:28:17Z
   Vendor: S1B|S1|CJ
   Product Type: Jewelry set
   Availability: Available
@@ -41248,14 +41248,14 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-puffer-jacket-ultimate-two-tone-cold-weather.webp?v=1766612419
     Price: $74.95 USD
 - [Hands Free Neck Massager Deep Kneading Heat Relief](https://ursupermart.com/products/hands-free-neck-massager-deep-kneading-heat-relief): Hands free neck massager provides deep 4D kneading and soothing heat to melt away neck and shoulder tension. Experience relief and comfort; get yours today!
-  Updated: 2025-12-29T18:04:19Z
+  Updated: 2025-12-30T04:29:26Z
   Vendor: S1B|S1|CJ
   Product Type: neck massager
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hands-free-neck-massager-premium-green-relief-strap.webp?v=1765229483
   Price: $87.95 USD
 - [Women's Quilted Puffer Coat | Oversized with Hood & Pockets](https://ursupermart.com/products/womens-quilted-puffer-coat-sherpa): Shop our women's quilted puffer coat in 8 colors. Oversized fit, sherpa lining, functional pockets, and extended length. XS-XXXXL sizes available now.
-  Updated: 2025-12-29T18:04:52Z
+  Updated: 2025-12-31T03:28:05Z
   Vendor: CJ
   Product Type: women's quilted puffer coat
   Availability: Available
@@ -42919,20 +42919,64 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-faux-fur-coat-premium-beige-plush-warmth.webp?v=1766009768
   Price: $54.95 USD
-- [Mini 2 In 1 Sealer Heat Sealer Bag Opening Machine For Snacks Home USB Sealer Vacuum Sealer Snacks Plastic Bag Heat Sealer](https://ursupermart.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: White, Blue Specification: White Suitable Gifting Occasions: Holidays Style: Modern Minimalist Packing list: Sealing machine *1 set Product Image:
-  Updated: 2025-12-29T17:29:06Z
-  Vendor: S1B|S1|S1B|Make | Meta - Dsers**-UP + Blog
-  Product Type: Sealer
+- [Women's Oversized Sweater Dress With Slit | Soft & Stylish](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit): Shop our women's oversized sweater dress with slit. Soft knit, button front, pockets. Perfect for home, entertaining, and casual wear. Sizes S-3XL available.
+  Updated: 2025-12-30T12:51:59Z
+  Vendor: S1B|S1|CJ
+  Product Type: oversized sweater dress with slit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0d91ab0a-b6e6-439f-a037-6177b5e0a2f2_trans.jpg?v=1767029274
-  - [Blue](https://ursupermart.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer?variant=42710182559834)
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-color-options.webp?v=1767055716
+  - [Pink / S](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649541722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3fce1ccd-f7a0-45b7-8d96-f1e074c83eed_trans.jpg?v=1767029279
-    Price: $17.95 USD
-  - [White](https://ursupermart.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer?variant=42710182592602)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-soft-pink-knit.webp?v=1767055716
+    Price: $70.95 USD
+  - [Pink / M](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649508954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/44a7fbf4-2139-45aa-9210-1dba9366b521_trans.jpg?v=1767029279
-    Price: $17.95 USD
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-soft-pink-knit.webp?v=1767055716
+    Price: $70.95 USD
+  - [Pink / L](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649476186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-soft-pink-knit.webp?v=1767055716
+    Price: $70.95 USD
+  - [Pink / XL](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649574490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-soft-pink-knit.webp?v=1767055716
+    Price: $70.95 USD
+  - [Pink / XXL](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649607258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-soft-pink-knit.webp?v=1767055716
+    Price: $70.95 USD
+  - [Pink / XXXL](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649640026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-soft-pink-knit.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / XS](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649803866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / S](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649738330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / M](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649705562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / L](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649672794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / XL](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649771098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / XXL](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649836634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
+  - [White / XXXL](https://ursupermart.com/products/womens-oversized-sweater-dress-with-slit?variant=42708649869402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-sweater-dress-with-slit-minimal-winter-style.webp?v=1767055716
+    Price: $70.95 USD
 
 ## Collections
 
@@ -42946,16 +42990,16 @@
   Updated: 2025-12-12T01:33:15Z
   Total Products: 60
 - [Women's Clothing, Dresses, Outfits & Trendy Workout Wear](https://ursupermart.com/collections/womens-clothing-dresses-trendy-workout-wear): Discover stylish women's clothing, trendy workout wear, and elegant dresses. Shop the latest outfits for every occasion and stay fashionable and active daily.
-  Updated: 2025-12-28T19:25:48Z
+  Updated: 2025-12-30T00:54:52Z
   Total Products: 23
 - [Men's Fashion Accessories & Daily Essentials Collection](https://ursupermart.com/collections/mens-fashion): Shop men's watches, wallets, hoodies & accessories. Quality fashion pieces for everyday essentials. Free shipping, easy returns & great value pricing.
-  Updated: 2025-12-24T21:46:50Z
+  Updated: 2025-12-30T12:07:37Z
   Total Products: 25
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
   Updated: 2025-12-29T01:22:58Z
   Total Products: 40
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-12-29T17:28:00Z
+  Updated: 2025-12-30T12:53:23Z
   Total Products: 102
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
   Updated: 2025-12-29T23:42:56Z
