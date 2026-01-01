@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-31T20:00:35.570Z
+- Updated At: 2026-01-01T00:00:53.531Z
 
 ## Products
 
@@ -5178,7 +5178,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7BF67DA5-7A3B-47D1-AAEF-D22F292D0ABE.png?v=1762089855
   Price: $17.95 USD
 - [Apple Cinnamon Reed Diffuser](https://affinatiliving.com/products/apple-cinnamon-reed-diffuser): Fill your home with cozy warmth using the Affinati Apple Cinnamon Reed Diffuser. Crisp apple and warm cinnamon create a comforting, nostalgic fragrance that lasts for weeks—perfect for adding inviting seasonal charm to any space.
-  Updated: 2025-12-18T18:12:46Z
+  Updated: 2025-12-31T20:34:59Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
