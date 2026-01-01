@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-31T00:00:48.800Z
+- Updated At: 2026-01-01T00:00:47.177Z
 
 ## Products
 
