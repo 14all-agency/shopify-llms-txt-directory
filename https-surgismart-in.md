@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-12-28T00:00:43.951Z
+- Updated At: 2026-01-01T00:00:45.700Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Availability: Available
     Price: ₹1,220.00 INR
 - [Buy ​United Medicare UTech Lumbar Corset Chair Back Support (A-06) - Surgismart](https://surgismart.in/products/a-06): Key Features:Lumbar corset chair back support provides outstanding support and maximum comfort to the back. The lace pull mechanism provides independent top and bottom pressures with minimal force to provide big compression. High-quality and ventilated fabric for enhanced comfort, long functional life, and royal aesthetics. An anatomic design provides excellent fitting, rigid immobilisation, and posture correction. PU foam liner enhances comfort, and the front panel houses a rigid plate for enhanced decompression of IVF( lumbar intervertebral foramen) Direction of use: Wear it as directed by the label Safety information: Hand wash with cold water & mild detergent. Hand rinse to remove excess water. Dry at room temperature. Do not machine wash. UM U-Tech lumbar corset chair back support is used for lumbar spondylitis and postural fatigue. It provides outstanding support and maximum comfort to the back.Lumbar Corset Chair Back Support is used to provide noticeable therapeutic relief for the lumbar spine, support the back muscles, promote good posture, reduce stress on the back, and alleviate lower back pain. Your brace should be snug, but not so tight that it causes pain, bruising, or other issues, if you experience any of the following, please consult your doctor. The lumbar corset chair back supports lace pull mechanism provides independent top and bottom pressures with minimal force to provide optimum compression.UM Lumbar Corset Chair Back support is made of PU foam material, which enhances comfort, and the front panel houses a rigid plate for enhanced decompression of IVF.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:32Z
+  Updated: 2025-12-30T04:43:49Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
@@ -698,7 +698,7 @@
     Availability: Available
     Price: ₹1,230.00 INR
 - [Buy ​United Medicare Knee Support Open Patella (Drytex)(F-08) - Surgismart](https://surgismart.in/products/f-08): Key Features:UM drytex knee support is designed to provide mild to moderate support to relieve pain. Drytex fabric, which is stretchable in four directions, provides gentle compression with no buckling. The anterior wrap-around design works for lateral or medial patella subluxations. Facilitates rapid dispersion of sweat, greater elasticity, and a better fit fastening straps above and below the knee enable for simple application, adjustability, and proper fit Direction of use First, unfasten the straps. Wrap the UM knee support open patella so that the open patella region comes over your knee cap. Adjust the fastening straps to your comfort level. Make sure the straps are tight, but not too tight Safety information Hand washing with water and mild detergent No bleaching or ironing An open patella knee brace is a brace with a small hole in the front for the patella. This helps support the kneecap and maintain proper alignment.Yes, the drytex material is skin-friendly and it enables for greater airflow between your brace and skin, so your brace will not overheat your leg during sporting activities.UM Knee Support open patella is used to relieve knee pressure and extra knee cap support with proper movement and tracking. It also serves as a support for the knee and prevents injuries.Drytex improves airflow while still providing sufficient support and compression. People who live in warm areas and have neoprene allergies or irritations prefer it. Neoprene is a thicker material that resembles a wetsuit. It offers plenty of support and compression while also being a warmer alternativeUM knee support open patella is available in 2 sizes: one is universal and the other is XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:23Z
+  Updated: 2025-12-31T03:39:17Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
@@ -1291,7 +1291,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Rise1.jpg?v=1751478447
   Price: ₹2,000.00 INR
 - [Buy ​Lifeline Stethoscope L3-Titanium Pl - Surgismart](https://surgismart.in/products/lifeline-l3-titanium-pl): Stainless steel chest piece with a black gloss finish Dual diaphragm Combined non-chill snap on ring and sensitive floating diaphragm Superlative acoustics Patented 2 way tube with extra gloss finish 5 mm stainless steel headsets provides the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, paediatricians Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-10-15T09:37:52Z
+  Updated: 2025-12-29T09:44:17Z
   Vendor: Lifeline
   Product Type: Life-Line Flagship;Stethoscopes
   Availability: Available
@@ -1435,7 +1435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9_cc20c172-05e7-43ed-ad59-fc2d22c8bfd7.jpg?v=1751478422
     Price: ₹1,760.00 INR
 - [Buy ​Medvance Portable Folding Commode Stool, Round - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-stool-round-blue): The Medvance Portable Folding Commode Stool offers comfort and convenience for disabled or aging individuals. Made with high-quality virgin grade plastic, it provides a secure seating area for comfortable and safe use of the toilet. Ideal for both home and travel purposes. - Surgismart
-  Updated: 2025-10-15T09:37:33Z
+  Updated: 2025-12-28T13:32:32Z
   Vendor: Medvance Surgicals
   Product Type: Commode Stool
   Availability: Available
@@ -2225,7 +2225,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61q6fkijfel.jpg?v=1751478184
   Price: ₹9,526.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Pearl Pink Tube, 27 in, 5633 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-pearl-pink-tube-27-in-5633): - Surgismart
-  Updated: 2025-10-15T09:37:10Z
+  Updated: 2025-12-30T08:42:16Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
@@ -2735,7 +2735,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Trimmer_7d949ddc-121d-4300-ae6d-76fd5bdece99.jpg?v=1751478155
   Price: ₹739.00 INR
 - [Buy ​Vente Suck Yankaur Suction Set - Surgismart](https://surgismart.in/products/vente-suck-yankaur-suction-set): Surgical removal of secretion and body fluids Soft, flexible and kink-resistant tube A siliconised sleeve on the handle for smooth operation Ribs on the outer surface for better grasping Product Specifications: Brand Romsons Generic Name Yankaur Suction Handle with On-Off Controller Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000572 EAN 18907265511304 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:42Z
+  Updated: 2025-12-30T01:28:07Z
   Vendor: Romsons
   Product Type: Yankaur Suction Set
   Availability: Available
@@ -3173,7 +3173,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic New Gen Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-12-26T19:46:51Z
+  Updated: 2025-12-28T05:39:25Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3208,7 +3208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic New Gen Scrubsuit, Free Head Cap & Mask](https://surgismart.in/products/classic-new-gen-scrubsuit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. 🩺 Practical Storage: Designed for convenience, this set includes a total of 2 practical pockets Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-12-25T08:00:10Z
+  Updated: 2025-12-31T14:30:29Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-12-27T12:17:45Z
+  Updated: 2025-12-31T12:16:11Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-12-27T12:17:45Z
+  Updated: 2025-12-31T12:16:11Z
   Total Products: 5
 
 ## Blogs
