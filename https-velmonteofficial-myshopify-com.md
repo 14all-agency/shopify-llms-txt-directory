@@ -1,7 +1,7 @@
 # Velmonte (https://velmonteofficial.myshopify.com)
 
 - Contact Email: velmonte.store@gmail.com
-- Updated At: 2026-01-01T21:23:00.314Z
+- Updated At: 2026-01-01T21:42:56.488Z
 
 ## Products
 
@@ -1327,69 +1327,69 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/4_22cc5c10-c71a-4ff9-a766-59384fe9f603.webp?v=1767084968
     Price: ₪69.00 ILS
-- [Four-Season Straight-Leg Trousers](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons): Upgrade your wardrobe with these Men’s Four-Season Straight-Leg Casual Trousers — a versatile essential designed for comfort, style, and everyday wear. Crafted from a breathable, durable fabric with a modern straight-leg cut, these trousers blend timeless elegance with everyday practicality. Whether you’re dressing for a casual outing, a relaxed office day, or weekend plans, these pants deliver effortless style that pairs perfectly with shirts, knitwear, or loafers. Features: Classic straight-leg fit Comfortable and breathable fabric Designed for four-season wear Perfect for casual or smart-casual outfits Available in multiple versatile colors Style: Casual / Smart-CasualPerfect for: Daily wear, office, travel, outings
-  Updated: 2025-12-31T15:21:27Z
+- [Four-Season Straight-Leg Trousers](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers): Upgrade your wardrobe with these Men’s Four-Season Straight-Leg Casual Trousers — a versatile essential designed for comfort, style, and everyday wear. Crafted from a breathable, durable fabric with a modern straight-leg cut, these trousers blend timeless elegance with everyday practicality. Whether you’re dressing for a casual outing, a relaxed office day, or weekend plans, these pants deliver effortless style that pairs perfectly with shirts, knitwear, or loafers. Features: Classic straight-leg fit Comfortable and breathable fabric Designed for four-season wear Perfect for casual or smart-casual outfits Available in multiple versatile colors Style: Casual / Smart-CasualPerfect for: Daily wear, office, travel, outings
+  Updated: 2026-01-01T21:25:25Z
   Vendor: Velmonte
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/4b991f386c9e4c2887cf40ddc7afa970-goods.jpg?v=1767101074
-  - [28 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955156786)
+  - [28 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955156786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [30 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955189554)
+  - [30 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955189554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [31 / Black](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955222322)
+  - [31 / Black](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955222322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/208090905514fe3e5ee172e8a3f8f5d8_f60e1a6ef810.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [31 / Royal Blue](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955255090)
+  - [31 / Royal Blue](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955255090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/7fc049d33c66652524a0e7efda6e8798_9f48842bf792.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [31 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955287858)
+  - [31 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955287858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [32 / Black](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955320626)
+  - [32 / Black](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955320626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/208090905514fe3e5ee172e8a3f8f5d8_f60e1a6ef810.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [32 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955353394)
+  - [32 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955353394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [36 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955386162)
+  - [36 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955386162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [38 / Royal Blue](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955418930)
+  - [38 / Royal Blue](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955418930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/7fc049d33c66652524a0e7efda6e8798_9f48842bf792.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [38 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955451698)
+  - [38 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955451698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [40 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955484466)
+  - [40 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955484466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [40 / Light Grey](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955517234)
+  - [40 / Light Grey](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955517234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/19361f558a5e911d63c38d73e23e7dae_06150c0c5caf.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [42 / Khaki](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955550002)
+  - [42 / Khaki](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955550002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/0eb54cf3ea8e654e417087e4e5ccbf99_34b4d784cc6a.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [42 / Dark Gray](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955582770)
+  - [42 / Dark Gray](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955582770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/fb72c2ea6b1a0efa85fe5d6d9fa6c466_44063c807939.jpg?v=1767101074
     Price: ₪79.00 ILS
-  - [28 / Khaki](https://velmonteofficial.myshopify.com/products/1pc-mens-four-season-tummy-control-straight-leg-casual-pants-6-colors-black-blue-khaki-dark-gray-light-gray-blue-grey-suitable-for-daily-wear-and-all-seasons?variant=50764955615538)
+  - [28 / Khaki](https://velmonteofficial.myshopify.com/products/four-season-straight-leg-trousers?variant=50764955615538)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/2336/3378/files/0eb54cf3ea8e654e417087e4e5ccbf99_34b4d784cc6a.jpg?v=1767101074
     Price: ₪79.00 ILS
