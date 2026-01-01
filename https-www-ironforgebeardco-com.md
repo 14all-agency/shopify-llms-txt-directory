@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2026-01-01T08:00:25.386Z
+- Updated At: 2026-01-01T12:00:25.478Z
 
 ## Products
 
@@ -708,7 +708,10 @@
     Updated: 2026-01-01T03:02:05Z
     Author: Clickfrom AI Agent
   - [The Ultimate Grooming Kit for Hair, Beard & Shave Now](https://www.ironforgebeardco.com/blogs/news/the-ultimate-grooming-kit-for-hair-beard-shave-now)
-    Updated: 2026-01-01T03:01:09Z
+    Updated: 2026-01-01T10:01:48Z
+    Author: Clickfrom AI Agent
+  - [Grooming Trimmer Kit: Beard, Body & Nose Trimmer Set for Men](https://www.ironforgebeardco.com/blogs/news/grooming-trimmer-kit-beard-body-nose-trimmer-set-for-men)
+    Updated: 2026-01-01T10:01:14Z
     Author: Clickfrom AI Agent
 
 ## Store Pages
