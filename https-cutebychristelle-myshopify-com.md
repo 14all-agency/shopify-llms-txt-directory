@@ -5,12 +5,12 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-09-20T15:24:01Z
-- Updated At: 2025-12-28T00:00:36.979Z
+- Updated At: 2026-01-01T00:00:37.924Z
 
 ## Products
 
 - [Trendy White Casual Shoes - Fashion Forward Footwear](https://cutebychristelle.myshopify.com/products/trendy-white-casual-shoes-fashion): Trendy white casual shoes that blend comfort with style. Perfect for everyday wear and versatile enough for any outfit!
-  Updated: 2025-11-13T22:35:02Z
+  Updated: 2025-12-31T08:35:12Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/74A0F5748836B2436E73C6D795E2ED1B.jpg?v=1762534428
     Price: $40.70 USD
 - [Breathable Hiking Shoes for Big Sizes - Comfort & Style](https://cutebychristelle.myshopify.com/products/breathable-hiking-shoes-for-big-sizes): Discover breathable hiking shoes for big sizes, perfect for casual outings in spring and summer. Stay comfortable on your adventures!
-  Updated: 2025-11-09T19:06:43Z
+  Updated: 2025-12-31T08:35:30Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -250,7 +250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/60EF78B1850AC0D533B730EE2D21C734.jpg?v=1762534426
     Price: $56.14 USD
 - [Men's breathable canvas shoes board shoes casual shoes](https://cutebychristelle.myshopify.com/products/mens-breathable-canvas-shoes-board-shoes-casual-shoes): Shop Men's breathable canvas shoes board shoes casual shoes in Green, Red, and Black. Ideal for casual occasions, featuring a snug lace-up design.
-  Updated: 2025-11-09T19:13:52Z
+  Updated: 2025-12-31T08:35:31Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -324,7 +324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/D20BC92564E5720DBF2673C4C6E7CF83.jpg?v=1762534421
     Price: $36.84 USD
 - [Versatile Retro Casual Board Shoes - Trendy Comfort Footwear](https://cutebychristelle.myshopify.com/products/versatile-retro-casual-board-shoes): Explore versatile retro casual board shoes in vibrant Dexin Yellow and Green. Perfect for effortless style and comfort!
-  Updated: 2025-11-13T22:03:53Z
+  Updated: 2025-12-31T08:35:40Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -378,7 +378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/B025DF380D621FD11B0EF80DB8D2283F.jpg?v=1762534412
     Price: $32.46 USD
 - [Multicolour Jogging Sneakers - Stylish Comfort for All](https://cutebychristelle.myshopify.com/products/multicolour-jogging-sneakers-shoe): Shop Hot Sale Multicolour Jogging Sneakers Flat Shoes Women Casual Lace Up Plus Size Sport Shoes Man Luxury Trainers Run Shoes Unisex!
-  Updated: 2025-12-11T22:46:32Z
+  Updated: 2025-12-31T08:35:51Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -584,7 +584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/217DF4CE967DDE42AE9022DE2A2CDA06.jpg?v=1762534408
     Price: $263.60 USD
 - [Mobile Phone Shell iPhone 13 P+ – Slim, Shockproof & Stylish](https://cutebychristelle.myshopify.com/products/mobile-phone-shell-iphone-13-p): Protect your iPhone 13 with the Mobile Phone Shell iPhone 13 P+. Slim, shockproof, and scratch-resistant design for everyday use, offering style and reliable
-  Updated: 2025-11-09T19:45:36Z
+  Updated: 2025-12-31T08:35:58Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -622,7 +622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/fff56f9f66e1be9659ee20a093ff1b3d.jpg?v=1762534232
     Price: $14.08 USD
 - [iPhone 14 Pro Max TPU Phone Cover– Slim, Shock-Proof & Style](https://cutebychristelle.myshopify.com/products/iphone-14-pro-max-tpu-phone-cover): iPhone 14 Pro Max TPU phone cover – slim, shock-proof, anti-scratch, and stylish. Enjoy full drop protection and wireless charging compatibility.
-  Updated: 2025-11-09T19:26:19Z
+  Updated: 2025-12-31T08:36:31Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -828,21 +828,21 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/459F540925766AD81E8CDDB4878876E1.jpg?v=1762534229
     Price: $12.32 USD
 - [waterproof cycling gear accessories](https://cutebychristelle.myshopify.com/products/waterproof-cycling-gear-accessories): Waterproof cycling gear accessories designed to keep you dry and comfortable on your rides. Explore our collection for top-quality protection.
-  Updated: 2025-11-09T19:06:06Z
+  Updated: 2025-12-31T08:36:16Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/ED7CF6EFC69354598F0A5BCAD9406220.jpg?v=1762534214
   Price: $19.40 USD
 - [handmade daisy acrylic letter bag | Stylish Accessory](https://cutebychristelle.myshopify.com/products/handmade-daisy-acrylic-letter-bag): Handmade daisy acrylic letter bag is the perfect stylish accessory for any occasion, combining fashion and functionality effortlessly.
-  Updated: 2025-11-09T18:59:46Z
+  Updated: 2025-12-31T08:36:24Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/49667CE32DCF6004BF3E537D0054EAD7.jpg?v=1762534211
   Price: $13.42 USD
 - [Mobile Phone Holder with Grip - Secure and Stylish](https://cutebychristelle.myshopify.com/products/mobile-phone-holder-with-grip-case): Mobile phone holder with grip case provides secure support and easy access to your device for an enhanced experience on the go.
-  Updated: 2025-11-13T20:32:51Z
+  Updated: 2025-12-31T08:36:25Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -856,21 +856,21 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/E00E6331D74DF8797D53D73F187ADBE9.jpg?v=1762534208
     Price: $12.06 USD
 - [Ergonomic Vertical Mouse for Laptop - 3200 DPI Efficiency](https://cutebychristelle.myshopify.com/products/ergonomic-vertical-mouse-for-laptop): Discover the ergonomic vertical mouse for laptop with adjustable 3200 dpi, 6 keys, and a versatile 4-way roller for enhanced productivity.
-  Updated: 2025-11-14T10:38:07Z
+  Updated: 2025-12-31T08:36:21Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/0059D4CE29A7A3826D3EAE8F17BFFEC1.jpg?v=1762534185
   Price: $30.44 USD
 - [Foldable Laptop Stand - Ergonomic Computer Accessories](https://cutebychristelle.myshopify.com/products/foldable-laptop-stand-accessories): Discover our foldable laptop stand, designed for ultimate portability and ergonomic support. Perfect for work or play anywhere!
-  Updated: 2025-11-09T18:58:58Z
+  Updated: 2025-12-31T08:36:20Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/CD059A1E6118A7225254B5FA622168F9.jpg?v=1762534166
   Price: $45.30 USD
 - [anti-theft USB laptop backpack - Secure & Stylish](https://cutebychristelle.myshopify.com/products/anti-theft-usb-laptop-backpack): Discover the ultimate anti-theft USB laptop backpack, crafted from durable canvas, perfect for secure and stylish everyday use.
-  Updated: 2025-11-09T18:54:20Z
+  Updated: 2025-12-31T08:36:22Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -892,14 +892,14 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/women-bkackpcak.jpg_640x640_83b5b108-5380-4dd6-835d-b6ec12584a08.webp?v=1762534163
     Price: $30.74 USD
 - [Silent Chocolate Mini Keyboard – Comfort & Style for Work](https://cutebychristelle.myshopify.com/products/silent-chocolate-mini-keyboard): Silent Chocolate Mini Keyboard offers a stylish, compact design for silent typing. Upgrade your workspace for better comfort and efficiency!
-  Updated: 2025-11-14T10:25:17Z
+  Updated: 2025-12-31T08:36:21Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/2A217BE6CE91BD2B3EFED535D32BE2B3.jpg?v=1762534158
   Price: $21.70 USD
 - [Portable Laptop Stand Foldable Height Adjustable Support](https://cutebychristelle.myshopify.com/products/portable-laptop-stand): Portable Laptop Stand Foldable Height Adjustable Support Base Computer Cooling Stand Hollow Design Laptop Holder ensures stability and heat dissipation.
-  Updated: 2025-11-09T18:44:47Z
+  Updated: 2025-12-31T08:36:21Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -917,7 +917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/FE300EB15446A081B573196886A69EC8.jpg?v=1762534158
     Price: $21.26 USD
 - [Chainsaw Man Hooded Sweatshirt - Stylish & Comfortable](https://cutebychristelle.myshopify.com/products/chainsaw-man-hooded-sweatshirt): Discover the Chainsaw Man Hooded Sweatshirt in various colors. Perfect for casual wear. Available in sizes XS to XXXXL.
-  Updated: 2025-11-09T20:00:29Z
+  Updated: 2025-12-31T08:36:58Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1123,7 +1123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/239ADE224A501E17A0F812772D583E95.jpg?v=1762534146
     Price: $37.02 USD
 - [Summer Sport Tank Top with Zip Pocket - Activewear for Men](https://cutebychristelle.myshopify.com/products/summer-sport-tank-top-with-zip-pocket): Discover ultimate comfort with our summer sport tank top with zip pocket, perfect for workouts and casual outings this season.
-  Updated: 2025-11-09T18:34:08Z
+  Updated: 2025-12-31T08:37:05Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1177,7 +1177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/1CB130665BAC5509260801EE8C69D630.jpg?v=1762534138
     Price: $28.54 USD
 - [MRMT Brand New Casual Men's Trousers - Stretch Fit](https://cutebychristelle.myshopify.com/products/mrmt-brand-new-casual-mens-trousers): Discover MRMT Brand New Casual Men's Trousers Stretch Men Trousers Pants for Male Skinny Small Feet Man Trouser Pant Mens Clothing.
-  Updated: 2025-11-09T18:24:46Z
+  Updated: 2025-12-31T08:37:22Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1383,7 +1383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/C8FD15BC4FD743CE2B7D8C3A67496BBA.jpg?v=1762534133
     Price: $36.84 USD
 - [Men's Winter Lambs Wool Coats - Warm & Stylish Outerwear](https://cutebychristelle.myshopify.com/products/mens-winter-lambs-wool-coats-wear): Explore stylish men's winter lambs wool coats for ultimate warmth and comfort this season. Perfect for winter outings and layering.
-  Updated: 2025-12-04T06:12:20Z
+  Updated: 2025-12-31T08:37:24Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1437,7 +1437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/F850365FFEA816BABECDB26E4C51CFCB.jpg?v=1762534125
     Price: $86.46 USD
 - [Africa Clothing Men's Shirt Print Bazin African Dresses](https://cutebychristelle.myshopify.com/products/africa-clothing-mens-shirt-wear): Discover Africa Clothing Men's Shirt Print Bazin African Dresses for Man Long Sleeve Autumn Winter Traditional Fashion Clothes.
-  Updated: 2025-11-09T18:12:30Z
+  Updated: 2025-12-31T08:37:25Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1523,7 +1523,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/ABDB68D0CC54DB8697D0013AC651829B.jpg?v=1762534118
     Price: $44.06 USD
 - [High Waist Wide Leg Jeans With Pockets Women`s Button Fly](https://cutebychristelle.myshopify.com/products/high-waist-wide-leg-jeans-with-pockets-women-s-button-fly-straight-denim-pants): Shop our High Waist Wide Leg Jeans With Pockets Women`s Button Fly Straight Denim Pants for comfort and style in every outfit.
-  Updated: 2025-11-09T18:23:14Z
+  Updated: 2025-12-31T08:37:35Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1550,14 +1550,14 @@
     Availability: Available
     Price: $49.98 USD
 - [Geometric Triangle Necklace for Women - Chic Jewelry](https://cutebychristelle.myshopify.com/products/geometric-triangle-necklace-for-women): Explore the 925 Sterling Silver Geometric Triangle Necklace for Women Adjustable Clavicle Chain Necklace Jewelry Gifts S-N752, perfect for any occasion.
-  Updated: 2025-11-09T18:16:15Z
+  Updated: 2025-12-31T08:37:28Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/045BFE276AC022502AE9BD826169D31B.jpg?v=1758393597
   Price: $12.14 USD
 - [Casual Knitted Women 's Sweater Bandage Spliced Loose](https://cutebychristelle.myshopify.com/products/casual-knitted-women-s-sweater-bandage-spliced-loose-contrast-color-cardigan-fashion): Shop our Casual Knitted Women 's Sweater Bandage Spliced Loose Contrast Color Cardigan Fashion. Perfect for any style!
-  Updated: 2025-11-30T08:27:47Z
+  Updated: 2025-12-31T08:37:35Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1574,7 +1574,7 @@
     Availability: Available
     Price: $37.76 USD
 - [New T Shirt for Men Clothing Fashion Sport Hip Hop Tshirt](https://cutebychristelle.myshopify.com/products/new-t-shirt-for-men-clothing): New T Shirt for Men Clothing Fashion Sport Hip Hop Tshirt T-shirt Couple Clothes Gym T Shirts for Women Female S-6XL available now!
-  Updated: 2025-11-13T19:11:57Z
+  Updated: 2025-12-31T08:38:09Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1780,7 +1780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/341F6AB4A61D012A91247BE5D4E16C6F.jpg?v=1758393666
     Price: $25.10 USD
 - [Distressed Women's Streetwear Jeans for Trendy Style](https://cutebychristelle.myshopify.com/products/distressed-womens-streetwear-jeans): Explore our distressed women's streetwear jeans for a stylish and edgy look. Perfect for everyday outfits and standing out in the crowd!
-  Updated: 2025-12-27T06:25:16Z
+  Updated: 2025-12-31T08:38:15Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1807,7 +1807,7 @@
     Availability: Available
     Price: $49.22 USD
 - [Chainsaw Man Short sleeved Women's - Harajuku Style](https://cutebychristelle.myshopify.com/products/chainsaw-man-short-sleeved-womens): Shop the Chainsaw Man Short sleeved Women's top in various colors, perfect for a loose fit and trendy Harajuku style.
-  Updated: 2025-11-13T21:45:37Z
+  Updated: 2025-12-31T08:38:22Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2013,7 +2013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/16124DA9D5C6AAAB36FDAFEF2F4E15ED.jpg?v=1758393768
     Price: $26.04 USD
 - [Chainsaw Man short sleeved shirt - Stylish & Comfortable](https://cutebychristelle.myshopify.com/products/chainsaw-man-short-sleeved-shirt): Shop the Chainsaw Man short sleeved shirt in various colors and sizes. Perfect for a casual Harajuku style look!
-  Updated: 2025-11-13T05:36:40Z
+  Updated: 2025-12-31T08:38:44Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2219,7 +2219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/DE035458D3B70413EA98E7398755CD66.jpg?v=1758393783
     Price: $26.04 USD
 - [Chainsaw Man Aki Short SlCeeve – Bold Style & Comfort](https://cutebychristelle.myshopify.com/products/chainsaw-man-aki-short-slceeve): Discover the Chainsaw Man Aki Short SlCeeve tee. Perfect for fans seeking style and comfort in every wear. Shop now!
-  Updated: 2025-11-14T08:56:54Z
+  Updated: 2025-12-31T08:38:51Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2385,7 +2385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/D6869F043B704A241FD3FC7035C68A6B.jpg?v=1758393788
     Price: $26.04 USD
 - [Chainsaw Man Printed Hoodie Sweatshirt - Stylish Comfort](https://cutebychristelle.myshopify.com/products/chainsaw-man-printed-hoodie-sweatshirt): Shop the Chainsaw Man Printed Hoodie Sweatshirt in various colors. Perfect for casual outings, made from soft cotton for ultimate comfort!
-  Updated: 2025-11-12T09:51:26Z
+  Updated: 2025-12-31T08:39:09Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2591,7 +2591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/EDBB65C13CA9BA54B3E76F5FC9EDBA97.jpg?v=1758393822
     Price: $36.18 USD
 - [Chainsaw Man Printed Hooded - Trendy Harajuku Style](https://cutebychristelle.myshopify.com/products/chainsaw-man-printed-hooded): Shop the Chainsaw Man Printed Hooded, a loose fit casual hoodie in various colors and sizes. Perfect for any stylish occasion!
-  Updated: 2025-11-14T08:42:05Z
+  Updated: 2025-12-31T08:39:24Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2789,7 +2789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/CB6452111447672CBD96C9BFC6BCE7BF.jpg?v=1758393826
     Price: $36.18 USD
 - [Plus Size Women's Sport Pants for Ultimate Comfort](https://cutebychristelle.myshopify.com/products/plus-size-womens-sport-pants-wear): Discover plus size women's sport pants designed for ultimate comfort and flexibility. Perfect for workouts or casual wear, embrace every move!
-  Updated: 2025-11-09T18:00:35Z
+  Updated: 2025-12-31T08:39:30Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -2915,7 +2915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/B3C6255EAD5367581C99F9FEA48ABE9B.jpg?v=1762534073
     Price: $22.24 USD
 - [Fitness White O Neck Newest T Shirt for Men](https://cutebychristelle.myshopify.com/products/fitness-white-o-neck-newest-t-shirt): Fitness White O Neck Newest T Shirt for Men Clothing Man T-shirt For Male Oversized S-6XL New Men T-shirts Anime Goth Punk.
-  Updated: 2025-11-09T17:38:36Z
+  Updated: 2025-12-31T08:39:44Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3101,7 +3101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/13482456A7486F7F150A28C8D7B75542.jpg?v=1762534064
     Price: $17.50 USD
 - [Women's Light Yoga T-Shirts - Summer ONER Casual Tops](https://cutebychristelle.myshopify.com/products/womens-light-yoga-t-shirts-summer-oner-active-loose): Discover stylish women's light yoga t-shirts designed for comfort and street hip hop vibes. Perfect for casual wear and yoga sessions!
-  Updated: 2025-11-14T09:12:28Z
+  Updated: 2025-12-31T08:40:00Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3251,7 +3251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/7A9008ED1A0C2DEB4B2AA29948FA75CA.jpg?v=1762534057
     Price: $25.34 USD
 - [Women's Hip Hop T-Shirts | Stylish Streetwear Accessories](https://cutebychristelle.myshopify.com/products/womens-hip-hop-t-shirts): Shop trendy women's hip hop T-shirts with cotton fabric, round neck, and hooded styles. Perfect for streetwear lovers!
-  Updated: 2025-11-14T09:33:02Z
+  Updated: 2025-12-31T08:40:23Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3457,7 +3457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/ACCC640FADE1CB970A683018CB7F0271.jpg?v=1762534042
     Price: $25.34 USD
 - [Leopard Print Leggings for Women - Bold & Stylish Comfort](https://cutebychristelle.myshopify.com/products/leopard-print-leggings-for-women): Leopard print leggings for women are the perfect blend of comfort and style. Stand out with these trendy and chic leggings!
-  Updated: 2025-11-08T18:11:05Z
+  Updated: 2025-12-31T08:40:21Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3559,7 +3559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/EEEC72052A1A14F1FA0D2539CEBEA83C.jpg?v=1762534031
     Price: $19.64 USD
 - [samurai warrior mouse pad – Colorful & Washable Set](https://cutebychristelle.myshopify.com/products/samurai-warrior-mouse-pad-sets): Discover our Samurai Warrior Mouse Pad sets, featuring colorful designs that are washable, anti-skid, and easy to roll up for storage!
-  Updated: 2025-11-08T22:20:24Z
+  Updated: 2025-12-31T08:40:24Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3589,7 +3589,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/D40224E32903CF1054CF8D4E5C25C616.png?v=1762534022
     Price: $17.52 USD
 - [Large Persian Mouse Pad - Comfortable Gaming Accessories](https://cutebychristelle.myshopify.com/products/large-persian-mouse-pad-accessories): Discover our large Persian mouse pad, made of premium rubber and cloth for comfort and durability. Perfect for all mouse types!
-  Updated: 2025-11-14T11:25:33Z
+  Updated: 2025-12-31T08:40:29Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3699,14 +3699,14 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/A9FA42868B2E9C039C19A3F5E608EEEC.jpg?v=1762534015
     Price: $20.40 USD
 - [laptop cooling pad with fan and phone holder - Stay Cool!](https://cutebychristelle.myshopify.com/products/laptop-cooling-pad-with-fan-and-phone-holder): Discover the ultimate laptop cooling pad with fan and phone holder. Keep your laptop cool and your devices within reach while you work or game!
-  Updated: 2025-11-08T11:15:15Z
+  Updated: 2025-12-31T08:40:27Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/1C29C0E5F73F91D3224BBB6333C6A3FD.jpg?v=1762533976
   Price: $49.12 USD
 - [Men's waterproof laptop bags set | Stylish & Durable](https://cutebychristelle.myshopify.com/products/mens-waterproof-laptop-bags-set): Men's waterproof laptop bag offers durability, style, and a capacity of 20-35L for all your essentials. Perfect for all occasions!
-  Updated: 2025-11-13T20:59:36Z
+  Updated: 2025-12-31T08:40:27Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3720,7 +3720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/9DC0BED5D1F342D13CCFD0A4D8C59B29.jpg?v=1762533975
     Price: $66.74 USD
 - [Portable Laptop Stand Lightweight for Ergonomic Comfort](https://cutebychristelle.myshopify.com/products/portable-laptop-stand-lightweight): Discover the Portable Laptop Stand Lightweight that enhances your ergonomics and comfort wherever you go! Perfect for on-the-go professionals!
-  Updated: 2025-11-12T06:41:56Z
+  Updated: 2025-12-31T08:40:28Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3742,7 +3742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/1AFD86C5858DAD51F60EFE570D965DD2.jpg?v=1762533966
     Price: $41.72 USD
 - [Marble iPhone 12 phone case - Stylish Protection](https://cutebychristelle.myshopify.com/products/marble-iphone-12-phone-case-set): Marble iPhone 12 phone case for stylish protection. Crafted from PU, TPU, and copper for durability and elegance.
-  Updated: 2025-11-09T21:35:42Z
+  Updated: 2025-12-31T08:40:31Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3788,7 +3788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/1E8FDD72A2501E5D9D9391DDD0BDD490.jpg?v=1762533904
     Price: $10.60 USD
 - [Marble iPhone 12 Phone Case - Style & Protection Combined](https://cutebychristelle.myshopify.com/products/marble-iphone-12-phone-case): Marble iPhone 12 phone case: Style meets protection with a luxury marble design that keeps your phone safe and elegant.
-  Updated: 2025-11-12T04:01:04Z
+  Updated: 2025-12-31T08:40:32Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -3870,7 +3870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/DC9E14D53FF505362167C554CAE6CCB8.jpg?v=1762533880
     Price: $13.86 USD
 - [Soft Protective iPhone Case sets](https://cutebychristelle.myshopify.com/products/soft-protective-iphone-case-set): Soft Protective iPhone Case offers sleek defense against wear and tear. Enjoy style and comfort with our high-quality TPU design.
-  Updated: 2025-11-13T22:06:00Z
+  Updated: 2025-12-31T08:40:46Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4056,7 +4056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/5CE53C6ED588BFD3479E39499640A89C.jpg?v=1762533872
     Price: $12.66 USD
 - [Color Changing Phone Case Packs - Trendy & Fun Designs](https://cutebychristelle.myshopify.com/products/color-changing-phone-case-packs): Color changing phone case for unique style! Transform your phone's look with vibrant colors and trendy designs.
-  Updated: 2025-11-08T08:49:46Z
+  Updated: 2025-12-31T08:40:50Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4166,7 +4166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/603534AF894A7541A88724353BB4E0AA.jpg?v=1762533862
     Price: $13.76 USD
 - [Mobile phone case accessorieses](https://cutebychristelle.myshopify.com/products/mobile-phone-case): Mobile phone case accessories to protect and personalize your device. Discover stylish and durable options today!
-  Updated: 2025-11-13T08:54:09Z
+  Updated: 2025-12-31T08:40:55Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4332,7 +4332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/DD6EAFC6010AC2A6CAADF9E939C85212.png?v=1762533857
     Price: $13.04 USD
 - [CloudLoaf Sneakers shoe sports](https://cutebychristelle.myshopify.com/products/cloudloaf-sneakers-shoe-sports): Cloudloaf Sneakers shoe, Step into all-day comfort with CloudLoaf Sneakers — lightweight, breathable, and designed for effortless style and support.
-  Updated: 2025-11-12T07:38:21Z
+  Updated: 2025-12-31T08:41:03Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4410,7 +4410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/F81C085CE480FCA6F853B714D3C93D21.jpg?v=1762533841
     Price: $40.12 USD
 - [AeroStep Unisex Platform Sneakers - Trendy Casual Shoes](https://cutebychristelle.myshopify.com/products/aerostep-unisex-platform-sneakers): Shop AeroStep Unisex Platform Sneakers for style and comfort. Perfect fit and lightweight design for all-day wear. Order now!
-  Updated: 2025-11-17T07:34:01Z
+  Updated: 2025-12-31T08:41:25Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4616,7 +4616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/68366A0C7443B1376E8F8FB0BBFB4C9E.jpg?v=1762533837
     Price: $39.50 USD
 - [SoleFit Unisex Knit Boots - Stylish Sneaker Platform](https://cutebychristelle.myshopify.com/products/solefit-unisex-knit-boots): Shop SoleFit Unisex Knit Boots for comfy, stylish sneakers. Perfect for all sizes with a unique design for both men and women.
-  Updated: 2025-11-09T00:08:34Z
+  Updated: 2025-12-31T08:41:34Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4822,7 +4822,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/269105AAFCE4A432D32AD02EF451AA72.jpg?v=1762533823
     Price: $155.08 USD
 - [BreezeMax Elevate Comfort shoe](https://cutebychristelle.myshopify.com/products/breezemax-elevate-comfort-shoes): Stay cool and comfortable all day with BreezeMax Elevate comfort Shoes – versatile, lightweight, and designed to elevate your look and posture.
-  Updated: 2025-11-08T07:00:13Z
+  Updated: 2025-12-31T08:41:38Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -4972,7 +4972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0762/9419/3380/files/6EF8FC1B84CA290AB9710736FC4A6F63.jpg?v=1762533811
     Price: $34.48 USD
 - [StrideMax Elevate Trainers sets](https://cutebychristelle.myshopify.com/products/stridemax-elevate-trainers): StrideMax Elevate Trainers offer a stylish height boost while ensuring comfort and support for all-day wear. Elevate your step today!
-  Updated: 2025-11-11T19:20:08Z
+  Updated: 2025-12-31T08:41:38Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
