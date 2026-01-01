@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-01T08:00:37.704Z
+- Updated At: 2026-01-01T12:00:38.322Z
 
 ## Products
 
@@ -5300,7 +5300,7 @@
     Availability: Not Available
     Price: £99.95 GBP
 - [Village PM 1:30 PM Skate Shoes | Black and White](https://thevinessupply.co/products/village-pm-1-30-pm-canvas-skate-shoes-black-and-white): Buy Village PM 1:30 PM Skate Shoes in Black and White at The Vines, witht fast, premium delivery and easy returns within 90 days.
-  Updated: 2025-12-27T11:43:15Z
+  Updated: 2026-01-01T09:04:51Z
   Vendor: Village PM
   Product Type: Shoes
   Availability: Available
