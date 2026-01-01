@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2020-04-21T00:03:21Z
 - Contact Email: boutiqueblooms@rachelaclingen.com
-- Updated At: 2025-12-22T17:34:21.288Z
+- Updated At: 2026-01-01T00:00:26.288Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/happy-sympathy-flowers-vaughan-delivery.jpg?v=1761144981
     Price: $119.99 CAD
 - [Sweet Summertime](https://www.boutiqueblooms.ca/products/sweet-summertime): The bloom box is packed with stunning seasonal blooms bringing summer wherever it goes. Designed in our large signature bloom box using in-season blooms. Available in Bloom Box or Vase Floral and vase varieties may vary depending on availability.
-  Updated: 2025-12-12T18:06:23Z
+  Updated: 2025-12-23T01:25:01Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -115,7 +115,7 @@
     Availability: Available
     Price: $196.99 CAD
 - [Designer's Choice Bloom Box - Small](https://www.boutiqueblooms.ca/products/designers-choice-1): Order Designers Choice Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-22T03:18:36Z
+  Updated: 2025-12-30T14:59:17Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -133,7 +133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-vase-flowers-delivery.jpg?v=1737126711
     Price: $124.99 CAD
 - [Birthday Girl Bombshell](https://www.boutiqueblooms.ca/products/birthday-girl): The most vibrant combination of our premium blooms designed in our large signature box. The perfect birthday surprise! Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-14T19:36:46Z
+  Updated: 2025-12-23T18:34:51Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: $349.00 CAD
 - [White Modern Bloom Box - Small](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box): Order White Modern Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-16T14:47:46Z
+  Updated: 2025-12-29T15:29:20Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -173,7 +173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/modern-luxury-flower-delivery-gta.jpg?v=1742999891
     Price: $109.99 CAD
 - [Wild One](https://www.boutiqueblooms.ca/products/wild-one): Order Wild One, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-15T22:01:21Z
+  Updated: 2025-12-23T03:15:47Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -200,7 +200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/IMG_7070_jpg.jpg?v=1737743658
     Price: $165.99 CAD
 - [Stop It, I’m Blushing](https://www.boutiqueblooms.ca/products/sweetly-kissed): Blush tones & luxe blooms overflow in our Sweetly Kissed box. Perfect for any occasion. Order Toronto flower delivery today!
-  Updated: 2025-12-12T18:06:24Z
+  Updated: 2025-12-31T20:46:53Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -241,13 +241,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/Vaughan-delivery-flowers.jpg?v=1724340990
     Price: $169.99 CAD
-- [Baby It's Cold Outside](https://www.boutiqueblooms.ca/products/baby-its-cold-outside): Warm up some ones heart with this luxurious blend of blush and cream wintery blooms and berries mixed with fragrant greens. This stunning mix is arranged in our largest signature blush hat box and is loaded with bloom love. The perfect piece to brighten up long winter day or celebrate the holidays. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:25Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-winter-flower-arrangement.jpg?v=1609871787
-  Price: $197.99 CAD
 - [Luxury in Love](https://www.boutiqueblooms.ca/products/luxury-in-love): This absolutely stunning bloom box is the epitome of luxury. Layers and layers of premium roses overflowing from our signature blush hat box make for an overwhelming presentation. The perfect piece to tell someone you love them or to treat yourself! Floral varieties may vary based upon availability but we promise to make it beautiful! Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be guaranteed.
   Updated: 2025-12-12T18:06:25Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -256,18 +249,11 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/image_072ca435-6e59-4954-9079-53f7afad7836.jpg?v=1675025625
   Price: $399.99 CAD
 - [Peppermint Hot Chocolate](https://www.boutiqueblooms.ca/products/peppermint-hot-chocolate): This arrangement gives all the cozy vibes with peppermint hues, and fresh winter greens. A stunning blend of seasonal greens, ivory blooms, and just a touch of magnolia, ornaments, and pinecones. The most perfect arrangement all winter long! Arranged with love in our signature grey hat box. Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-19T17:56:50Z
+  Updated: 2025-12-29T17:19:26Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-christmas-flowers-toronto-delivery.jpg?v=1763152386
-  Price: $199.99 CAD
-- [Rose-y Cheeks](https://www.boutiqueblooms.ca/products/rose-y-cheeks): Who says winter cant be bright? This blushing and cheery box is packed with soft pink and cream blooms accented with fresh fragrant seasonal greens, magnolia, ornaments and one or two pinecones. The perfect piece for winter celebrations and for the blush lover! Floral and ornament varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:25Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/pink-christmas-flower-arrangement.jpg?v=1763155161
   Price: $199.99 CAD
 - [Lush Baby Love - Pink](https://www.boutiqueblooms.ca/products/lush-baby-love-pink): A luxurious blend of pink, blush, and ivory blooms mixed with soft seasonal greens. Designed with love in our large blush signature hat box finished with premium satin and "It's a Girl" ribbon. This bombshell box is the perfect gift to welcome a precious baby girl into the world! Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
   Updated: 2025-12-12T18:06:25Z
@@ -296,7 +282,7 @@
     Availability: Available
     Price: $205.99 CAD
 - [Merry and Bright](https://www.boutiqueblooms.ca/products/holly-jolly-christmas): The most fun winter arrangement yet! Festive ornaments, premium fresh flowers, and fragrant winter greens make this the perfect piece to brighten up your special someone's day! Arranged with love in our small signature white hatbox. Floral and ornament varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-19T18:47:04Z
+  Updated: 2025-12-24T03:49:15Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -323,13 +309,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/IMG_0252_jpg.jpg?v=1606510748
   Price: $138.99 CAD
-- [Happy Hanukkah](https://www.boutiqueblooms.ca/products/happy-chanukah): Happy Hanukkah! A beautiful, festive arrangement with whites, greens, and a touch of blue designed in our signature small white hat box. The perfect piece for your Hanukkah celebrations! Floral and ornament varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-15T19:20:12Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/hanukah-flower-arrangement-toronto.jpg?v=1763754063
-  Price: $139.99 CAD
 - [Kiss Me Softly](https://www.boutiqueblooms.ca/products/tender-love): Send Tender Love with a dozen soft pink roses, hand delivered across Toronto & GTA. Order now and make your loved one feel truly special.
   Updated: 2025-12-12T18:06:27Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -474,7 +453,7 @@
     Availability: Available
     Price: $76.99 CAD
 - [Pretty in Pink](https://www.boutiqueblooms.ca/products/pretty-in-pink): This bright bundle is the perfect blend of soft and deeper vibrant pinks. Balanced with some soft white and a touch of foliages. Fresh cut and packaged in our signature bloom bag ready to be transferred into your favourite vase or add-on one of our vases to your purchase! Pictured is our large bundle. Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-19T14:39:31Z
+  Updated: 2025-12-30T18:47:36Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Bag
   Availability: Available
@@ -500,7 +479,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/sympathy-funeral-standing-spray-flowers-woodbridge.jpg?v=1761143545
   Price: $599.99 CAD
 - [Send A Smile](https://www.boutiqueblooms.ca/products/send-a-smile): Order Send A Smile, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-16T01:29:19Z
+  Updated: 2025-12-30T15:22:36Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -628,7 +607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/fall-flowers-toronto-delivery.jpg?v=1728051755
     Price: $192.99 CAD
 - [Blushing Blooms](https://www.boutiqueblooms.ca/products/blushing-blooms): Order Blushing Blooms, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:32Z
+  Updated: 2025-12-25T22:50:10Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -640,7 +619,7 @@
     Availability: Available
     Price: $230.99 CAD
 - [White Chocolate](https://www.boutiqueblooms.ca/products/white-chocolate-long-lasting-arrangement): Designed in a modern, mounded style in combinations of whites and golds with touches of natural pinecones and rich green foliage. This is the perfect piece to give for the holidays or to dress up your entrance table. Available with or without florals. Ribbon and ornament varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-13T20:29:31Z
+  Updated: 2025-12-23T20:12:59Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -653,7 +632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-floral-gift-box-toronto.jpg?v=1639083671
     Price: $152.99 CAD
 - [Beautiful in Blue](https://www.boutiqueblooms.ca/products/beautiful-in-blue-long-lasting-arrangement): This stunning piece is designed with beautiful blues and silvers with the visual interest of deep green seasonal foliage. The perfect piece to give for Hanukkah, Christmas, or any seasonal celebration! Designed in our signature grey hat box. Ornament and ribbon varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-20T06:43:00Z
+  Updated: 2025-12-23T20:12:43Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -680,7 +659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/hanukkah-centrepiece-delivery-bathurst-lawernce-toronto.jpg?v=1637788365
     Price: $98.99 CAD
 - [Nutcracker Christmas](https://www.boutiqueblooms.ca/products/nutcracker-christmas): Beautiful mix of mint, silver, gold and neutrals designed with seasonal foliages. Also available in red and gold. Designed in our grey square hat box with love and with long lasting greenery, this piece will last you weeks! Ornament and ribbon varieties may vary based upon availability but we promise to make it beautiful! Please note the small size is designed in a vase and the large size is in a signature bloom box.
-  Updated: 2025-12-21T15:32:54Z
+  Updated: 2025-12-24T12:07:51Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -728,33 +707,19 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/winter-table-centrepiece-toronto.jpg?v=1639082810
   Price: $109.99 CAD
 - [All I Want for Christmas](https://www.boutiqueblooms.ca/products/all-i-want-for-christmas): Make this one your own! A beautiful centrepiece designed in a tray that can sit directly on your table dressed with a base of seasonal foliage and taper candles, your choice of, rose gold and pink, gold and red, or silver white and blue for the ornaments and blooms! Sure to make your table a special one this year.
-  Updated: 2025-12-22T13:30:02Z
+  Updated: 2025-12-23T22:43:32Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Centrepiece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/christmas-centerpiece-toronto-delivery.jpg?v=1734032526
   - [Neutral](https://www.boutiqueblooms.ca/products/all-i-want-for-christmas?variant=42220718424297)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/christmas-centerpiece-toronto-delivery.jpg?v=1734032526
     Price: $155.99 CAD
   - [Gold and Red](https://www.boutiqueblooms.ca/products/all-i-want-for-christmas?variant=42210413052137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/christmas-centerpiece-toronto-delivery-flowers.jpg?v=1734032560
     Price: $155.99 CAD
-- [Snowflakes and Pinecones](https://www.boutiqueblooms.ca/products/snowflakes-and-pinecones): A fresh and fragrant mix of white florals winter greens accented with pine cones and festive details. This beautiful hand tied arrangement is the perfect piece for a neutral lovers home. Wrapped in our luxury, signature tissue paper and delivered in our stylish bloom bag makes this a wonderful gift to someone special or maybe event to spoil yourself! Floral, pick, and foliage varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-16T18:59:26Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/best-holiday-flowers-toronto.jpg?v=1762959723
-  Price: $115.99 CAD
-- [Winter Fresh](https://www.boutiqueblooms.ca/products/winter-fresh): A beautiful blend of seasonal greens mixed with fresh roses, winter berries, velvety magnolia, and pine cones. A stunning traditional piece to complete your table for the Holidays. Please note that floral varieties may vary based on availability but we promise to make it beautiful! Other colour combinations are available, please inquire for details
-  Updated: 2025-12-12T18:06:33Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Centrepiece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/winter-centrepiece-toronto.jpg?v=1697743475
-  Price: $173.99 CAD
 - [Crazy In Love](https://www.boutiqueblooms.ca/products/crazy-in-love): Brighten their day with Crazy in Love, a vibrant mix in our blush box. Order now for same-day flower delivery in Toronto & GTA!
   Updated: 2025-12-12T18:06:34Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -946,7 +911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/White_Pedestal_Bowl.jpg?v=1728572973
     Price: $129.99 CAD
 - [Snow Cap Centerpiece](https://www.boutiqueblooms.ca/products/snow-cap-centerpiece): Dress up your table for the holidays with this wintery blend of fragrant fresh greens, white roses, berries and seasonal accents arranged in a festive metallic glass vase. Dinnerware is for staging purposes only. Floral and ornament varieties vary based on availability but we promise to make it beautiful.
-  Updated: 2025-12-22T15:25:38Z
+  Updated: 2025-12-30T20:50:35Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Centrepiece
   Availability: Available
@@ -958,7 +923,7 @@
     Availability: Available
     Price: $146.99 CAD
 - [Cranberry Spritz - Long Lasting Arrangement Bloom Box](https://www.boutiqueblooms.ca/products/cranberry-spritz-long-lasting-arrangement): Spoil the hostess this holiday season with our long lasting arrangement with fresh foliage and cheery cranberry colour accents in a glass metallic vase. Please note that ornament and foliage varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-21T15:39:49Z
+  Updated: 2025-12-22T20:13:12Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -984,7 +949,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/holiday-centrepiece-toronto-flower-shop.jpg?v=1762962678
   Price: $109.99 CAD
 - [White Garden Bloom Box](https://www.boutiqueblooms.ca/products/white-garden-bloom-box): This mix of beautiful white blooms is the perfect blend of modern and garden using a monochromatic palette and grouping the flowers within their varieties. Designed within our signature patterned bloom box - this is the perfect piece to decorate the neutral lovers home. Available in Bloom Box or Vase Please note that flower varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:37Z
+  Updated: 2025-12-30T19:06:16Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -1004,7 +969,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-baby-flowers.jpg?v=1744305684
   Price: $86.99 CAD
 - [Sweet Baby Girl](https://www.boutiqueblooms.ca/products/sweet-baby-girl): The sweetest arrangement to celebrate a precious girl to the world. Dusty pinks and creamy whites with fresh greens, all bundled together in a pink ceramic pot with a special baby girl ribbon. Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-22T15:35:08Z
+  Updated: 2025-12-23T17:51:12Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Vases
   Availability: Available
@@ -1101,7 +1066,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/mothers-day-bouquet-gta.jpg?v=1682708544
   Price: $99.99 CAD
 - [Just So Pretty](https://www.boutiqueblooms.ca/products/just-so-pretty): Order Just So Pretty, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-18T00:00:14Z
+  Updated: 2025-12-29T19:13:50Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -1115,7 +1080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pretty-colourful-flowers-bolton.jpg?v=1737127333
     Price: $120.99 CAD
 - [White Sangria](https://www.boutiqueblooms.ca/products/white-sangria): Order White Sangria, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-20T17:31:41Z
+  Updated: 2025-12-22T18:50:51Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -1161,13 +1126,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/Modern-glass-vase.jpg?v=1684951931
   Price: $14.99 CAD
-- [Fine Wine](https://www.boutiqueblooms.ca/products/dont-sweat-the-fall-stuff): Fine Wine flower arrangement pairs rich autumn tones with elegant blooms, perfect for Thanksgiving décor. Order today for quick delivery!
-  Updated: 2025-12-19T22:29:01Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Vases
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/fall-pot-arrangement-woodbridge.jpg?v=1693588417
-  Price: $95.99 CAD
 - [Pumpkin Chai](https://www.boutiqueblooms.ca/products/dont-even-chai): Sip autumn joy with our Pumpkin Chai bouquet, perfect for the Thanksgiving season. Order fresh flowers today and make moments special!
   Updated: 2025-12-12T18:06:40Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -1226,70 +1184,22 @@
   - [White Ceramic](https://www.boutiqueblooms.ca/products/a-pretty-party-centrepiece?variant=45813220016361)
     Availability: Available
     Price: $105.99 CAD
-- [Christmas Candy](https://www.boutiqueblooms.ca/products/pink-christmas): Soft and romantic — our Christmas Candy bloom box captures the beauty of the season with a feminine twist. Featuring a palette of blush and soft pink blooms, this arrangement combines roses, lisianthus, and chrysanthemums with winter greenery, pinecones, and rose-gold ornaments for a touch of festive shimmer. The lush foliage and warm tones create a perfect balance of modern luxury and cozy seasonal charm. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-18T15:19:05Z
+- [Mulled Wine](https://www.boutiqueblooms.ca/products/mulled-wine): Celebrate the beauty of the season with our Mulled Wine bloom box — an arrangement that blends rich festive tones with timeless beauty. Featuring deep red roses, gold ornaments, and bold burgundy blooms, this design is beautifully complemented by lush winter greenery, magnolia leaves, and elegant pinecones. Golden and champagne ornaments add a subtle shimmer, creating a perfect balance of natural texture and holiday sparkle. Floral varieties may vary based upon availability but we promise to make it beautiful!
+  Updated: 2025-12-23T20:05:26Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/christmas-pink-holiday-blooms-box-gta.jpg?v=1699630156
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/mulled-wine-box-red-rose-christmas.jpg?v=1699561922
   Price: $190.99 CAD
-- [Pralines & Cream](https://www.boutiqueblooms.ca/products/pralines-cream): This luxurious holiday bloom box is filled with premium white roses, button mums, snapdragons and completed with fresh winter greens! Our favorite part? The festive ornaments, pinecones, and gold ribbon added in!
-  Updated: 2025-12-21T16:05:51Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-winter-flower-arrangement-vaughan-delivery.jpg?v=1762960070
-  Price: $175.99 CAD
-- [Ginger Snap Centrepiece](https://www.boutiqueblooms.ca/products/centrepiece): Host your holiday guests in style with our Ginger Snap centerpiece! This elegant arrangement features white and toffee roses, fresh winter greens and a mix of silver and gold ornaments with a hint of pinecones. The perfect arrangement for your holiday table! Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-19T20:46:26Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Centrepiece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/festive-holiday-centrepiece-vaughan-delivery.jpg?v=1762960687
-  Price: $116.99 CAD
-- [Cozy In The Cabin](https://www.boutiqueblooms.ca/products/cozy-in-the-cabin): Our Cozy In The Cabin flower arrangement features premium roses in delicate cream and dusty rose tones, paired with textured pinecones and hints of warm magnolia foliage. Fresh sprigs of winter greenery add volume and a festive charm, creating a design that feels both timeless and inviting. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-21T14:25:41Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/winter-flower-arrangement-bolton.jpg?v=1763152618
-  Price: $155.99 CAD
-- [Hot Toddy](https://www.boutiqueblooms.ca/products/hot-toddy): Bring a touch of timeless elegance to your holiday table with our Hot Toddy centerpiece. This arrangement features a soft palette of ivory, blush, and champagne tones, accented with natural pinecones, golden foliage, and festive ornaments. Designed in a modern ceramic vessel, this centerpiece makes a striking addition to dining tables, consoles, or mantels — ideal for celebrating the season in effortless style. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-20T13:52:20Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Centrepiece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/winter-centerpiece-toronto-delivery.jpg?v=1762959037
-  - [Small (White Pot)](https://www.boutiqueblooms.ca/products/hot-toddy?variant=46014463541481)
-    Availability: Not Available
-    Price: $82.99 CAD
-  - [Medium (White Pot)](https://www.boutiqueblooms.ca/products/hot-toddy?variant=46014463574249)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/hot-toddy-vase-christmas-holiday-delivery-flowers.jpg?v=1734808114
-    Price: $139.99 CAD
-  - [Large (White Pot)](https://www.boutiqueblooms.ca/products/hot-toddy?variant=46014463607017)
-    Availability: Available
-    Price: $186.99 CAD
-  - [Small (Black Pot)](https://www.boutiqueblooms.ca/products/hot-toddy?variant=47987211698409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-christmas-centerpieces-vaughan.jpg?v=1764699565
-    Price: $82.99 CAD
-  - [Medium (Black Pot)](https://www.boutiqueblooms.ca/products/hot-toddy?variant=47987211960553)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/winter-centerpiece-toronto-delivery.jpg?v=1762959037
-    Price: $139.99 CAD
-  - [Large (Black Pot)](https://www.boutiqueblooms.ca/products/hot-toddy?variant=47987211993321)
-    Availability: Available
-    Price: $186.99 CAD
 - [Winter Designer's Choice - Signature Grey](https://www.boutiqueblooms.ca/products/winter-designers-choice-1): Leave this one up to our designers! Each piece is designed using premium blooms, fresh winter greens, and a hint of holiday fun which includes ornaments, ribbon, and glitter picks.
-  Updated: 2025-12-16T19:08:16Z
+  Updated: 2025-12-30T19:38:08Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Bloom Box
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/winter-designers-choice-toronto.jpg?v=1699564556
   Price: $172.99 CAD
 - [Winter Designer's Choice - Signature Pink](https://www.boutiqueblooms.ca/products/winter-designers-choice-signature-pink): Leave this one up to our designers! Each piece is carefully designed using premium blooms, winter greens, ornaments, festive ribbon, and a hint of pinecones!
-  Updated: 2025-12-22T03:52:41Z
+  Updated: 2025-12-29T17:37:46Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Bloom Box
   Availability: Available
@@ -1303,12 +1213,25 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/rose-gold-pink-flowers-vaughan.jpg?v=1700075148
     Price: $189.99 CAD
 - [Snow Globe Centrepiece](https://www.boutiqueblooms.ca/products/small-orchid-centrepiece): Bring a touch of winter elegance to your table with the Snow Globe Centerpiece. This refined arrangement features creamy white roses paired with blush-toned cymbidium orchids, creating a soft, romantic palette reminiscent of freshly fallen snow. Lush seasonal evergreens and vibrant foliage add texture and depth, giving the piece a natural, wintry feel. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-22T05:47:31Z
+  Updated: 2025-12-23T20:07:38Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Centrepiece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/snow-globe-centrepiece-vaughan-delivery.jpg?v=1763153897
   Price: $83.99 CAD
+- [Santa Baby Centrepiece](https://www.boutiqueblooms.ca/products/santa-baby-centrepiece): Bring beauty to your holiday table with our Santa Baby Centerpiece, a luxurious arrangement that captures the warmth and wonder of the season. Deep red and burgundy roses are designed next to beautiful burgundy cymbidium orchids with lush winter greenery, creating a rich mix of color and texture that feels both classic and contemporary. Floral varieties may vary based on availability but we promise to make it beautiful!
+  Updated: 2025-12-23T20:12:28Z
+  Vendor: Boutique Blooms by Rachel A. Clingen
+  Product Type: Centrepiece
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/classic-christmas-centerpiece.jpg?v=1763751490
+  - [Small](https://www.boutiqueblooms.ca/products/santa-baby-centrepiece?variant=49397423407337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/classic-christmas-centerpiece.jpg?v=1763751490
+    Price: $124.99 CAD
+  - [Large](https://www.boutiqueblooms.ca/products/santa-baby-centrepiece?variant=49397423440105)
+    Availability: Available
+    Price: $149.99 CAD
 - [Pretty Party Centrepiece - Elongated](https://www.boutiqueblooms.ca/products/pretty-party-centrepiece): Add charm with a Pretty Party Centrepiece. Fresh boutique blooms delivered for events. Order today for flawless floral décor.
   Updated: 2025-12-12T18:06:43Z
   Vendor: Boutique Blooms by Rachel A. Clingen
@@ -1388,14 +1311,14 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-flower-delivery-toronto-rose-box_f4383124-0b99-44bb-aa7b-0625bdee71de.jpg?v=1706119998
   Price: $302.99 CAD
 - [Vanilla Bean](https://www.boutiqueblooms.ca/products/vanilla-bean-1): Roses upon roses arranged with love. This collection of premium white roses is the best way to show someone you're thinking of them on a birthday, anniversary, or any occasion! This piece is designed with care in our new signature patterned bloom box. Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be guaranteed.
-  Updated: 2025-12-12T18:06:44Z
+  Updated: 2025-12-30T19:22:41Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/rose-bloom-box-delivery-vaughaun_8ca70015-7cd2-4583-ad7f-9d167a45ffe6.jpg?v=1706120322
   Price: $190.99 CAD
 - [Juliette](https://www.boutiqueblooms.ca/products/juliette): A luxurious mound of romantic red roses meaningfully arranged. This piece is the perfect gift to make someone feel special this Valentines day. Designed in our new signature blush square box and finished with satin ribbon. Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be guaranteed.
-  Updated: 2025-12-12T18:06:44Z
+  Updated: 2025-12-23T18:56:33Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -1420,7 +1343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-valentines-red-rose-toronto.jpg?v=1738080231
     Price: $165.99 CAD
 - [Loving Memories](https://www.boutiqueblooms.ca/products/loving-memories): Elegant sympathy arrangement featuring seasonal roses, cymbidium orchids, and snapdragons in a whitewashed wooden box. Order now!
-  Updated: 2025-12-12T18:06:45Z
+  Updated: 2025-12-23T00:52:31Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Flowers
   Availability: Available
@@ -1636,26 +1559,19 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/Flower-Workshop-toronto.jpg?v=1729192608
   Price: $0.00 CAD
 - [Winter White Centrepiece](https://www.boutiqueblooms.ca/products/needs-name-modern-white-christmas-centrepiece): Bring contemporary elegance to your holiday décor with our Winter White Christmas Centrepiece. Featuring modern groupings of creamy white roses, lisianthus, premium cymbidium orchids and winter foliages. Perfect for those who appreciate clean, stylish design, this centrepiece is ideal for creating a fresh and sophisticated ambiance in any space. Whether creating a stylish dining table or accenting a coffee table, or kitchen island, this centrepiece is a striking choice for contemporary holiday celebrations. *please note that exact floral varieties may vary based on availability, but we promise to make it beautiful!*
-  Updated: 2025-12-19T20:33:00Z
+  Updated: 2025-12-23T20:03:37Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Centrepiece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/christmas-centrepieces-toronto.jpg?v=1732834896
   Price: $138.99 CAD
 - [Cozy Cashmere Centrepiece](https://www.boutiqueblooms.ca/products/needs-name-white-botanical-centrepiece): Celebrate the season in style this year with our Cozy Cashmere Centrepiece. This timeless arrangement is designed with a delicate palette of creamy white blooms paired with lush seasonal foliage. Whether as a thoughtful gift or as a centrepiece for your own celebrations, this arrangement is a timeless addition to your festive traditions. *please note that exact floral varieties may vary based on availability, but we promise to make it beautiful!*
-  Updated: 2025-12-17T01:48:11Z
+  Updated: 2025-12-23T20:10:42Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Centrepiece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/holiday-centrepiece-white-delivery.jpg?v=1732835314
   Price: $135.99 CAD
-- [Crimson Christmas Centrepiece](https://www.boutiqueblooms.ca/products/needs-name-amnesia-botanical-centrepiece): Elevate your holiday decor with our Crimson Christmas Centrepiece. This beautiful arrangement blends rich, moody-toned blooms with lush seasonal foliage, setting the tone for cozy nights spent your nearest and dearest. Designed to be the focal point of your holiday gatherings, this centerpiece brings timeless charm to your dining table, mantle, or entryway. Curated with care by our talented team. Perfect for gifting or as a luxurious treat for your home this holiday season. Please note that exact floral varieties may vary based on availability, but we promise to make it beautiful!
-  Updated: 2025-12-22T15:00:04Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Centrepiece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/holiday-centrepiece-neutral.jpg?v=1732835552
-  Price: $160.99 CAD
 - [Boutique Blooms E-Gift Card](https://www.boutiqueblooms.ca/products/boutique-blooms-gift-card): Send a Boutique Blooms Gift Card and let them choose fresh flowers for any occasion. Buy now and deliver joy straight to their doorstep.
   Updated: 2025-12-12T18:06:48Z
   Vendor: Boutique Blooms by Rachel A. Clingen
@@ -1822,35 +1738,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_4308_jpg.jpg?v=1763751747
   Price: $109.99 CAD
-- [After Eight](https://www.boutiqueblooms.ca/products/after-eight): Elegant and modern, our After Eight arrangement is designed to bring a touch of winter and sophistication to any space. Premium white roses and soft-textured mums are designed with deep winter greens and magnolia foliage, creating a rich seasonal piece. Shimmering ornament accents in frosted mint add a festive glow, making this piece perfect for holiday gatherings, winter celebrations, or simply elevating your home décor. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-22T15:34:31Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Centrepiece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_4543_jpg.jpg?v=1764099129
-  Price: $105.99 CAD
-- [Pinecones and Petals](https://www.boutiqueblooms.ca/products/pinecones-and-petals): Our Pinecones and Petals arrangement blends the rustic charm of winter woodlands with the soft elegance of fresh blooms, creating a festive display for any holiday setting. Designed with premium roses, fresh evergreen sprigs, magnolia leaves, and accented by pinecones in a modern ribbed vase, this arrangement is perfect for holiday tables, entryway tables, or a hostess gift! Exact flower varieties may vary but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:51Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Centrepiece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-christmas-flower-arrangement-vaughan.jpg?v=1764173967
-  Price: $146.99 CAD
 [List Continued](https://www.boutiqueblooms.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTI4ODkyMTA0OTM3LCJsYXN0X3ZhbHVlIjoiOTEyODg5MjEwNDkzNyJ9)
 
 ## Collections
 
 - [Bloom Bag's](https://www.boutiqueblooms.ca/collections/bloom-bags)
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 27
 - [Romantic Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/romantic-flowers): Romantic flower arrangements designed to express love and connection, delivered across Toronto and the GTA.
-  Updated: 2025-12-20T12:04:51Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 66
 - [Signature Flower Collection](https://www.boutiqueblooms.ca/collections/signature-flower-collection): Explore our stunning summer flower collection. From vibrant roses to delicate daisies, find the perfect bloom boxes to brighten your day. Order now!
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 107
 - [Luxury Flowers Toronto | Boutique Blooms](https://www.boutiqueblooms.ca/collections/luxury-flower-boxes): Discover luxury floral arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-19T14:42:42Z
+  Updated: 2025-12-26T12:02:23Z
   Total Products: 30
 - [Petite Parties](https://www.boutiqueblooms.ca/collections/petite-parties): Beautiful celebrations can come in small packages. We've teamed teamed up with our industry friends at Plate Occasions, and table top experts to bring some curated packages to include everything you need to celebrate beautifully right at home. Combinations of plateware, cutlery and stemware, paired with our gorgeous blooms will provide everything you need for a stunning table setting. Please review the "FAQ" section below for a comprehensive explanation of what is included and how pick up/delivery/return of your Petite Party works. What does each package include? Each package includes the following (per person): a charger plate or mat, dinner plate, dessert plate, stemware, 4 piece cutlery set and a coordinating floral arrangement (or two based on package size). The vase(s) for the florals are yours to keep! May I add on additional rentals or flowers? Yes! After you purchase your Petite Party online, please forward your order confirmation to us along with a note indicating which rental items you would like to add on, or for additional floral arrangements, we are happy to quote you the relevant floral arrangement costs. Can I pick up my order? Do you offer delivery? Each customer has the option to pick up their Petite Party rentals package from the Plate Occasions warehouse in Woodbridge on the day prior to your event (typically Fridays for weekend events). There is no cost for this service. The rentals should be returned on the day after your event (typically Mondays for Friday and weekend events). Optional delivery of your Petite Parties package is available for most locations in the Greater Toronto Area. Delivery costs will be quoted based on postal code during the check-out process. PLEASE NOTE: regardless of choosing pick up or delivery, your floral arrangements will be delivered fresh on the day of your event at no extra cost within the Greater Toronto Area**. If your event is being hosted during the morning or afternoon, we recommend requesting delivery on the day prior to ensure the florals are received in time. All rentals will be delivered on the day prior to your event unless otherwise requested. Please note that orders for events taking place on Mondays will incur a surcharge and the florals would not be available for delivery any earlier than the afternoon. Please discuss with Plate Occasions prior to placing an order for a Monday event. Deliveries outside of the Greater Toronto Area require a minimum spend of $450.00 and delivery fees will be quoted prior to purchase. Availability: All packages are subject to availability and are not guaranteed. Should a package be sold out for your date, we will contact you to discuss options or provide a full refund within 3 business days. Floral arrangements may be affected by seasonal availability. Floral substitutions may occur, however, every attempt will be made for floral arrangements to resemble the photos provided as closely as possible. Please email us for details. Booking + Cancellation: All Petite Party orders must be placed at lease 7 days in advance. All orders are non-refundable. Orders that are cancelled at least 7 days in advance may be re-booked within 3 months without penalty. **Greater Toronto Standard Delivery Area: City of Toronto, City of Mississauga, All of York Region, Pickering, Ajax, Whitby, Caledon, Brampton, Bolton, Milton, Oakville (for deliveries outside of this area, please contact us for a quote)
   Updated: 2025-12-12T18:08:17Z
@@ -1859,13 +1761,13 @@
   Updated: 2025-12-20T12:04:51Z
   Total Products: 35
 - [Recommended products (Seguno)](https://www.boutiqueblooms.ca/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-22T14:55:00Z
-  Total Products: 379
+  Updated: 2025-12-31T12:03:57Z
+  Total Products: 367
 - [Holiday Flower Delivery Toronto | Christmas Flowers](https://www.boutiqueblooms.ca/collections/winter-collection): Shop Christmas and holiday flower arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 76
 - [New Baby Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/flowers-for-newborns): Celebrate a new arrival with beautiful new baby flowers, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 19
 - [Gift Bloom Boxes](https://www.boutiqueblooms.ca/collections/gift-bloom-boxes): Explore Boutique Blooms’ signature Gift Bloom Boxes, luxurious floral arrangements designed in elegant hat boxes & delivered across Toronto.
   Updated: 2025-12-12T18:08:17Z
@@ -1877,59 +1779,59 @@
   Updated: 2025-12-20T12:04:51Z
   Total Products: 54
 - [Signature Bloom Bags | Hand-Tied Flowers Toronto](https://www.boutiqueblooms.ca/collections/bloom-bags-1): Shop hand-tied Signature Bloom Bags, thoughtfully designed with seasonal flowers and delivered across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 23
 - [Funeral & Sympathy Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/sympathy-flowers): Thoughtfully designed funeral and sympathy flowers, delivered with care across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 27
 - [Birthday Blooms](https://www.boutiqueblooms.ca/collections/birthday-blooms): Celebrate their special day with Boutique Blooms’ birthday flowers — fresh, stunning arrangements delivered anywhere in Toronto.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 24
 - [Mother's Day Collection](https://www.boutiqueblooms.ca/collections/mothers-day-collection): Please note that deliveries on May 11th will occur between 9am - 5pm. We kindly ask that you consider ordering for Friday or Saturday if you would like to ensure she has them Sunday Morning!
-  Updated: 2025-12-18T12:04:41Z
+  Updated: 2025-12-30T12:04:16Z
   Total Products: 33
 - [Trending Summer Flower Box Collection - Boutique Blooms](https://www.boutiqueblooms.ca/collections/summer-collection): Brighten your summer with Boutique Blooms' Summer Flower Box Collection. Enjoy vibrant, seasonal blooms delivered right to your door.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-30T12:04:16Z
   Total Products: 31
 - [Flower Subscription Services in Toronto & GTA- Boutique Blooms](https://www.boutiqueblooms.ca/collections/subscriptions): Get Boutique Blooms flower subscriptions for every budget! Enjoy premium floral arrangements with affordable delivery across the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 15
 - [Hanukkah Collection](https://www.boutiqueblooms.ca/collections/hanukkah-collection): Beautiful collection of our most festive creations to make this holiday a memorable one.
-  Updated: 2025-12-20T12:04:51Z
+  Updated: 2025-12-24T12:05:04Z
   Total Products: 4
 - [Vase Arrangements](https://www.boutiqueblooms.ca/collections/vase-arrangements): Shop elegant vase arrangements at Boutique Blooms, featuring fresh, hand-designed flowers delivered in stylish vases across Toronto.
   Updated: 2025-12-19T15:33:09Z
   Total Products: 11
 - [Spring Flower Collection - Boutique Blooms by Rachel A. Clingen](https://www.boutiqueblooms.ca/collections/spring-flowers): Explore our vibrant Spring Flower Collection.
 Beautiful floral arrangements that make this time of year that much more beautiful. For all of your spring time gatherings or to accent your home, there is a stylish arrangement for you!
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-30T12:04:16Z
   Total Products: 30
 - [WHILE QUANTITIES LAST!](https://www.boutiqueblooms.ca/collections/designers-choice): Let Boutique Blooms’ designers craft a custom floral arrangement with fresh in-season blooms, delivered across Toronto with love.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 6
 - [Peony Hand Ties](https://www.boutiqueblooms.ca/collections/peony-hand-ties)
   Updated: 2025-12-12T18:08:18Z
   Total Products: 3
 - [Mellow Yellow](https://www.boutiqueblooms.ca/collections/mellow-yellow): Brighten any day with cheerful yellow floral arrangements from Boutique Blooms. Fresh delivery available across Toronto.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-25T12:03:37Z
   Total Products: 3
 - [Mellow Yellow](https://www.boutiqueblooms.ca/collections/mellow-yellow-1)
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-25T12:03:37Z
   Total Products: 2
 - [Toronto's Stylish Flower Delivery - Boutique Blooms](https://www.boutiqueblooms.ca/collections/blooms-flowers): Explore elegant, custom flower arrangements from Flower Delivery in Toronto, curated by The Rachel A.Clingen Team for all events. In-house delivery available across Toronto
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 69
 - [Boutique Party Flower Collection - Boutique Blooms by Rachel](https://www.boutiqueblooms.ca/collections/boutique-parties): Boutique centrepieces for the prettiest of parties! Elevate a birthday, baptism, communion, engagement, dinner party or any event you're hosting with our beautiful party flowers!
   Updated: 2025-12-12T18:08:18Z
   Total Products: 5
 - [Mauve Mix](https://www.boutiqueblooms.ca/collections/mauve-mix)
-  Updated: 2025-12-20T12:04:51Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 3
 - [Mother's Day Designer's Choice Collection](https://www.boutiqueblooms.ca/collections/designers-choice-1): Please note that deliveries on May 11th will occur between 9am - 5pm. We kindly ask that you consider ordering for Friday or Saturday if you would like to ensure she has them Sunday Morning!
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-30T12:04:16Z
   Total Products: 7
 - [Valentine's Flowers](https://www.boutiqueblooms.ca/collections/designers-choice-2): Just in the knick of time...shop blooms still available for Valentines Day and February 15th!
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 7
 - [Bloom Academy](https://www.boutiqueblooms.ca/collections/bloom-academy): Join Bloom Academy for a hands-on floral design class with Rachel Clingen. Sign up today and start creating stunning blooms with us!
   Updated: 2025-12-12T18:08:18Z
@@ -1941,7 +1843,7 @@ Beautiful floral arrangements that make this time of year that much more beautif
   Updated: 2025-12-16T12:05:33Z
   Total Products: 2
 - [Christmas and Holiday Arrangements](https://www.boutiqueblooms.ca/collections/winter-flowers)
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 15
 - [*NEW* Signature Collection](https://www.boutiqueblooms.ca/collections/new-signature-collection): Stylish Flower Arrangements for Delivery Across the GTADiscover our stunning, handcrafted flower arrangements perfect for every occasion—available for reliable delivery throughout the Greater Toronto Area (GTA). Whether you're celebrating a birthday, expressing sympathy, sending congratulations, or just brightening someone's day, Boutique Blooms Signature Collection offers fresh, modern floral designs made with premium blooms. Each bouquet is thoughtfully arranged by expert florists and delivered with care across Toronto, Mississauga, Brampton, Vaughan, Markham, and beyond. Shop now to find the perfect arrangement and enjoy same-day flower delivery in the GTA.
   Updated: 2025-12-12T18:08:19Z
@@ -1950,41 +1852,45 @@ Beautiful floral arrangements that make this time of year that much more beautif
   Updated: 2025-12-12T18:08:19Z
   Total Products: 18
 - [Designer's Choice](https://www.boutiqueblooms.ca/collections/designers-choice-3)
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 5
 - [Champagne Kisses](https://www.boutiqueblooms.ca/collections/champagne-kisses)
   Updated: 2025-12-12T18:08:19Z
   Total Products: 2
 - [Best Selling Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/best-sellers): Shop our best selling flower arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 19
 - [Flowers Under $100 | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/under-100): Shop beautiful, thoughtfully designed flowers under $100. Perfect for gifting or small gestures, delivered across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 189
 - [Birthday Flowers | Same-Day Delivery Toronto & GTA](https://www.boutiqueblooms.ca/collections/birthday-flowers): Shop birthday flowers in Toronto and the GTA. Thoughtfully designed arrangements with same-day delivery available.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 12
 - [Anniversary Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/anniversary-flowers): Shop anniversary flowers in Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 17
 - [Graduation Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/graduation-flowers): Celebrate their achievement with graduation flowers, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 8
 - [New - Our Stylish Flower Collection](https://www.boutiqueblooms.ca/collections/new-our-stylish-flower-collection)
   Updated: 2025-12-19T15:15:51Z
   Total Products: 0
 - [Thank You Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/thank-you-flowers): Send thank you flowers across Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 12
 - [Get Well Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/get-well-flowers): Send get well flowers across Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 8
 - [Just Because Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/just-because): Shop just because flowers in Toronto and the GTA. Thoughtfully designed arrangements, perfect for everyday moments.
-  Updated: 2025-12-20T12:04:51Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 12
 - [Winter Designer's Choice and Long Lasting Centerpieces](https://www.boutiqueblooms.ca/collections/winter-designers-choice-and-long-lasting-centerpieces)
-  Updated: 2025-12-22T12:03:50Z
+  Updated: 2025-12-31T12:03:57Z
   Total Products: 13
+- [New Year’s Flowers & Bouquets | Boutique Blooms Toronto](https://www.boutiqueblooms.ca/collections/new-years-flowers): Celebrate 2026 in style with luxury New Year’s bouquets. Fresh blooms, elegant designs, and same-day delivery across Toronto & GTA. Order now.
+Ring in the New Year beautifully. Premium flowers, modern arrangements
+  Updated: 2025-12-31T12:03:57Z
+  Total Products: 15
 
 ## Blogs
 
@@ -2065,6 +1971,9 @@ Beautiful floral arrangements that make this time of year that much more beautif
 <p data-start="142" data-end="319"> </p>
     Updated: 2025-12-19T18:25:06Z
     Author: Josiah Clingen
+  - [Ring in the New Year With Fresh Flowers](https://www.boutiqueblooms.ca/blogs/all-blogs/ring-in-the-new-year-with-fresh-flowers): <p>Why New Year's Flowers are important!</p>
+    Updated: 2025-12-29T16:25:43Z
+    Author: Boutique Blooms
 
 ## Store Pages
 
