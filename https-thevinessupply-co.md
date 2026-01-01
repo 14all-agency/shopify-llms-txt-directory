@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-01T00:00:56.466Z
+- Updated At: 2026-01-01T04:00:37.947Z
 
 ## Products
 
@@ -688,7 +688,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-backpacks-black-polar-packable-backpack-black-1183714667.jpg?v=1757161809
   Price: £59.95 GBP
 - [Shake Junt OG Spray Grip Tape | Single Sheet](https://thevinessupply.co/products/shake-junt-og-spray-grip-tape-single-sheet): Shop Shake Junt OG Spray Grip Tape at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-31T14:09:04Z
+  Updated: 2026-01-01T02:09:09Z
   Vendor: Shake Junt
   Product Type: Grip Tape
   Availability: Available
@@ -2996,21 +2996,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/vans-hip-bag-vans-ward-cross-body-bag-black-1183714350.png?v=1757154962
   Price: £34.95 GBP
-- [Baker Brand Logo Black & White Skateboard Deck](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck): Buy the Baker Brand Logo Black Skateboard Deck in various sizes at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-19T15:52:57Z
-  Vendor: Baker
-  Product Type: Decks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-baker-brand-logo-black-white-skateboard-deck-1183714520.png?v=1757157725
-  - [8"](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck?variant=55848853012815)
-    Availability: Available
-    Price: £79.95 GBP
-  - [8.125"](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck?variant=55608771805519)
-    Availability: Not Available
-    Price: £79.95 GBP
-  - [8.25"](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck?variant=56508483469647)
-    Availability: Not Available
-    Price: £79.95 GBP
 - [Vans Earthbound T-Shirt | Asphalt](https://thevinessupply.co/products/vans-earthbound-t-shirt-asphalt): Buy the Vans Major Type tee in black at The Vines Skate Shop. Get best prices, free delivery and easy returns at www.thevinessupply.co
   Updated: 2025-12-23T17:03:10Z
   Vendor: Vans
@@ -6345,42 +6330,42 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-8-25-baker-theotis-fly-skateboard-deck-8-25-1213896381.jpg?v=1767188769
   Price: £79.95 GBP
 - [Baker T-Funk Whizz Skateboard Deck | 8.25"](https://thevinessupply.co/products/baker-t-funk-whizz-skateboard-deck-8-25): Buy the Baker T-Funk Whizz Skateboard Deck in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T18:41:12Z
+  Updated: 2026-01-01T00:10:16Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-8-25-baker-t-funk-whizz-skateboard-deck-8-25-1213896375.jpg?v=1767188693
   Price: £79.95 GBP
 - [Baker Figgy Library Card Skateboard Deck | 8.475"](https://thevinessupply.co/products/baker-t-funk-figgy-library-card-skateboard-deck-8-475): Buy the Baker Figgy Library Card Skateboard Deck  in 8.475" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T19:05:07Z
+  Updated: 2026-01-01T00:28:29Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-8-475-baker-figgy-library-card-skateboard-deck-8-475-1213896370.jpg?v=1767188634
   Price: £79.95 GBP
 - [Baker Rowan Icon No Hitter Skateboard Deck | 8.25"](https://thevinessupply.co/products/baker-rowan-icon-no-hitter-skateboard-deck-8-25): Buy the Baker Rowan Icon No Hitter Skateboard Deck  in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T19:09:27Z
+  Updated: 2026-01-01T00:45:10Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-8-25-baker-rowan-icon-no-hitter-skateboard-deck-8-25-1213900088.jpg?v=1767196074
   Price: £79.95 GBP
 - [Baker Rowan Everybody Makes Mistakes Skateboard Deck | 8.5"](https://thevinessupply.co/products/baker-rowan-everybody-makes-mistakes-skateboard-deck-8-5): Buy the Baker Rowan Everybody Makes Mistakes Skateboard Deck in 8.5" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T19:10:58Z
+  Updated: 2026-01-01T00:50:06Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-8-5-baker-rowan-everybody-makes-mistakes-skateboard-deck-8-5-1213900078.jpg?v=1767195955
   Price: £79.95 GBP
 - [Baker Nuge Open Beer Skateboard Deck | 9.25"](https://thevinessupply.co/products/baker-nuge-open-beer-skateboard-deck-9-25): Buy the Baker Nuge Open Beer Skateboard Deck in 9.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T19:27:46Z
+  Updated: 2026-01-01T01:07:46Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-9-25-baker-nuge-open-beer-skateboard-deck-9-25-1213900073.jpg?v=1767195893
   Price: £79.95 GBP
 - [Baker T-Funk Desk Shrapnel Skateboard Deck | 8.25"](https://thevinessupply.co/products/baker-t-funk-desk-shrapnel-skateboard-deck-8-25): Buy the Baker T-Funk Desk Shrapnel Skateboard Deck in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T19:33:07Z
+  Updated: 2026-01-01T01:25:33Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -6849,8 +6834,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-31T22:23:11Z
-  Total Products: 3221
+  Updated: 2026-01-01T00:31:20Z
+  Total Products: 3220
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-30T12:17:51Z
   Total Products: 110
