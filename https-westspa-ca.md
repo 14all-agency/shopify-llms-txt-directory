@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2025-12-31T00:00:18.282Z
+- Updated At: 2026-01-01T00:00:19.048Z
 
 ## Blogs
 
