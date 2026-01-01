@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-12-31T00:00:42.233Z
+- Updated At: 2026-01-01T00:00:42.623Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -59,7 +59,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_hopper-extension_AHEM.jpg?v=1731968837
   Price: $199.00 USD
 - [Jetlamp Cleaning Kit |Patiofyre](https://www.patiofyre.com/products/jetlamp-cleaning-kit): Maintain your Jetlamp with our cleaning kit, designed to keep your wood pellet patio heater in top condition for optimal performance
-  Updated: 2025-12-17T00:28:41Z
+  Updated: 2025-12-31T19:11:51Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -87,25 +87,25 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_solo-glass-tube_PGTM.jpg?v=1731968837
   Price: $59.99 USD
 - [Metro Jetlamp Box 1 (Main)](https://www.patiofyre.com/products/metro-jetlamp-box-1-test): Includes Heater Assembly/Frame with Pellet Hopper Pellet Cartridge/Sled Airflow Damper/Door Jetlamp Stand/Post Clean out tool Propane Torch
-  Updated: 2025-12-16T18:14:31Z
+  Updated: 2025-12-31T22:48:05Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Metro Jetlamp Box 2 (Base & Top)](https://www.patiofyre.com/products/metro-jetlamp-box-2): Includes: Base Heat Reflector with Spark Arrestor
-  Updated: 2025-12-19T20:22:12Z
+  Updated: 2025-12-31T22:48:05Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Metro Jetlamp Box 3 (Glass Tube)](https://www.patiofyre.com/products/metro-jetlamp-box-3-glass-tube)
-  Updated: 2025-12-16T18:14:31Z
+  Updated: 2025-12-31T22:48:05Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Metro Jetlamp Bundle](https://www.patiofyre.com/products/metro-1): AGE OLD TRADITION MEETS BRAND NEW THINKING Our patent-pending Metro Jetlamp eclipses traditional patio heaters in every way. Starting with a sleek, modern design that emphasizes the natural beauty of fire, to the sustainable way it’s fueled, to the even and powerful heat distribution—it’s fire, transformed.
-  Updated: 2025-12-19T20:22:16Z
+  Updated: 2025-12-31T22:48:10Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
@@ -133,7 +133,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_wood-pellets_AWP40.jpg?v=1763836091
   Price: $14.99 USD
 - [Jetlamp Starter Kit | Patiofyre](https://www.patiofyre.com/products/jetlamp-starter-kit-with-pellets): Everything you need to get started with your Jetlamp, designed to keep your wood pellet patio heater in top condition for optimal performance.
-  Updated: 2025-12-30T06:14:57Z
+  Updated: 2025-12-31T18:48:31Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
