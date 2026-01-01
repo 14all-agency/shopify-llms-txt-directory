@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-31T00:01:01.069Z
+- Updated At: 2026-01-01T00:01:01.626Z
 
 ## Products
 
@@ -275,7 +275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-03_1.jpg?v=1691061395
     Price: $883.00 USD
 - [Moissanite 2.35CT Oval Diamond Art Deco Unique Engagement Ring](https://ibizjewel.com/products/moissanite-2-35ct-oval-diamond-art-deco-unique-engagement-ring): This Moissanite Engagement Ring Features A Stunning 2.35CT Oval Diamond In An Art Deco Style Setting For A Unique And Elegant Look. Made With Lab-Created Moissanite, It Offers All The Sparkle And Brilliance Of A Traditional Diamond At A More Affordable Price Point. Perfect For Those Seeking A Beautiful And Ethical Alternative To A Natural Diamond.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-12-31T12:14:41Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -329,7 +329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-07_1.jpg?v=1690456873
     Price: $899.00 USD
 - [Moissanite 1.90CT Oval Diamond Mid-Century Anniversary Ring](https://ibizjewel.com/products/moissanite-1-90ct-oval-diamond-mid-century-anniversary-ring): Expertly Crafted And Designed, This Moissanite 1.90CT Oval Diamond Mid-Century Anniversary Ring Is A Timeless Piece That Exudes Elegance And Sophistication. With Its Sparkling Moissanite Oval Diamond And Mid-Century Inspired Design, This Ring Is Sure To Impress. Perfect For Anniversaries Or Special Occasions, This Ring Is A Beautiful Symbol Of Love And Commitment.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-12-31T12:14:41Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-06_2.jpg?v=1690456500
     Price: $849.00 USD
 - [Moissanite 2.55CT Oval Diamond Unique Handmade Ring](https://ibizjewel.com/products/moissanite-2-55ct-oval-diamond-unique-handmade-ring): This Moissanite 2.55CT Oval Diamond Unique Handmade Ring Is A Stunning Piece Crafted With Expert Precision. Made With High-Quality Moissanite, It Boasts A Sparkling Oval Diamond That Captures The Light For A Brilliant Shine. Handmade With Care, This Ring Is A One-Of-A-Kind Piece That Exudes Elegance And Charm. Elevate Any Outfit With This Unique And Timeless Ring.
-  Updated: 2025-10-20T17:37:40Z
+  Updated: 2025-12-31T12:14:39Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -491,7 +491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-04_1.jpg?v=1690457260
     Price: $915.00 USD
 - [Moissanite 2.30CT Oval White Diamond Brutalist Engagement Ring](https://ibizjewel.com/products/moissanite-2-30ct-oval-white-diamond-brutalist-engagement-ring): Expertly Crafted And Designed For Timeless Appeal, This Moissanite 2.30CT Oval White Diamond Brutalist Engagement Ring Is The Perfect Symbol Of Your Love. Featuring A Brilliant 2.30CT Oval White Diamond, This Ring Will Capture Hearts With Its Bold, Contemporary Design. Experience The Lasting Beauty And Undeniable Quality Of This Stunning Engagement Ring.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-12-31T12:14:39Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -545,7 +545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-08_1.jpg?v=1690457302
     Price: $899.00 USD
 - [Moissanite 2.80CT Oval Diamond Gothic Engagement Ring](https://ibizjewel.com/products/moissanite-2-80ct-oval-diamond-gothic-engagement-ring): Expertly Crafted And Uniquely Designed, The Moissanite 2.80CT Oval Diamond Gothic Engagement Ring Is A Stunning Piece Of Jewelry For Any Special Occasion. Made From High-Quality Moissanite And Featuring A 2.80 Carat Oval Diamond, This Ring Offers Dazzling Brilliance And Timeless Elegance. Perfect For Engagements, Weddings, Or Any Celebration Of Love.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-12-31T12:14:39Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -647,7 +647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-09_1.jpg?v=1709546176
     Price: $1,069.00 USD
 - [Moissanite 1.85CT Oval Diamond Celtic Engagement Ring](https://ibizjewel.com/products/moissanite-1-85ct-oval-diamond-celtic-engagement-ring): Expertly Crafted And Uniquely Designed, The Moissanite 2.80CT Oval Diamond Celtic Engagement Ring Is A Stunning Piece Of Jewelry For Any Special Occasion. Made From High-Quality Moissanite And Featuring A 2.80 Carat Oval Diamond, This Ring Offers Dazzling Brilliance And Timeless Elegance. Perfect For Engagements, Weddings, Or Any Celebration Of Love.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-12-31T12:14:39Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -2763,7 +2763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-22_1.jpg?v=1690542708
     Price: $2,159.00 USD
 - [Natural Salt And Pepper 1.60CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-60ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.60CT Oval Diamond Art Deco Unique Engagement Ring is perfect for celebrating any special occasion. Featuring a beautiful handmade design, the ring holds a 1.60 carat oval diamond in its center, making it a truly unique symbol of love and devotion.
-  Updated: 2025-10-02T10:30:39Z
+  Updated: 2025-12-31T12:14:38Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -2871,7 +2871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-24_1.jpg?v=1690542923
     Price: $2,529.00 USD
 - [Natural Salt And Pepper 1.55CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-55ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This intricate Natural Salt and Pepper 1.55CT Oval Diamond Art Deco Unique Engagement Ring is handcrafted by skilled artisans. Featuring a stunning unique design, this stunning ring is perfect as an engagement, anniversary, or just a special-occasion accessory. The carefully crafted details and natural salt and pepper diamond will stand out on any finger.
-  Updated: 2025-10-02T10:30:39Z
+  Updated: 2025-12-31T12:14:38Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -3447,7 +3447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-32_1.jpg?v=1690543577
     Price: $2,529.00 USD
 - [Natural Salt And Pepper 1.65CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-65ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt and Pepper 1.65CT Oval Diamond Art Deco Engagement Ring is a perfect way to add a unique flair to your special day. Handmade with an eye-catching design, this gorgeous ring is sure to draw attention with its 1.65CT oval diamond centerpiece. An ideal choice for an anniversary or engagement, it's sure to be treasured.
-  Updated: 2025-10-02T10:30:40Z
+  Updated: 2025-12-31T12:14:38Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -3501,7 +3501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-33_1.jpg?v=1690543686
     Price: $2,599.00 USD
 - [2.20CT Salt & Pepper Pear Diamond Art - your special occasion](https://ibizjewel.com/products/natural-salt-and-pepper-2-20ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This timeless and elegant Natural Salt and Pepper 2.20CT Pear Diamond Art Deco Unique Engagement Ring is carefully handmade for lasting quality. The brilliant center stone is complemented with natural, untreated diamonds for a sparkling finish. Perfect for any special occasion or as an anniversary ring.
-  Updated: 2025-11-03T21:13:32Z
+  Updated: 2025-12-31T22:10:47Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -4119,7 +4119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-40_1.jpg?v=1703830731
     Price: $2,809.00 USD
 - [Natural Salt And Pepper 1.45CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-45ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.45CT Oval Diamond Art Deco Unique Engagement Ring is crafted by master jewelers. It features a rare 1.45CT oval diamond adorning its art deco-inspired design. Perfect for engagements, anniversaries, and special occasions, it is a timeless choice.
-  Updated: 2025-10-02T10:30:40Z
+  Updated: 2025-12-31T12:14:38Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -4581,7 +4581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-45_1.jpg?v=1690545548
     Price: $2,529.00 USD
 - [Natural Salt And Pepper 1.50CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-50ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt and Pepper 1.50CT Oval Diamond Art Deco Unique Engagement Ring is the perfect way to express your love and commitment. Designed with exquisite craftsmanship, this handmade ring features an eye-catching oval diamond and is sure to stand out. Perfect for an anniversary or engagement ring, it showcases a unique art deco style.
-  Updated: 2025-10-02T10:30:41Z
+  Updated: 2025-12-31T12:14:37Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -5043,7 +5043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-50_1.jpg?v=1703830746
     Price: $3,129.00 USD
 - [Natural Salt And Pepper 2.10CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-2-10ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 2.10CT Oval Diamond Art Deco Unique Engagement Ring makes a timeless statement. Handmade by a master jeweler, this beautiful anniversary ring is crafted from silver and set with a 2.10CT natural oval diamond for an elegant and sophisticated look.
-  Updated: 2025-10-02T10:30:41Z
+  Updated: 2025-12-31T12:14:37Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -5301,7 +5301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-53_1.jpg?v=1703830801
     Price: $2,599.00 USD
 - [Natural Salt And Pepper 1.75CT Oval  Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-75ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.75CT Oval Diamond Art Deco Unique Engagement Ring is masterfully handcrafted from high-grade natural diamonds for a beautiful, timeless look. The solitaire setting and unique design make it a special addition to any jewelry collection. The perfect choice for an anniversary or special occasion.
-  Updated: 2025-10-02T10:30:41Z
+  Updated: 2025-12-31T12:14:37Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -5973,7 +5973,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-61_1.jpg?v=1703830743
     Price: $2,699.00 USD
 - [Natural Salt And Pepper 1.80CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-80ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.80CT Oval Diamond Art Deco Unique Engagement Ring is perfect for a lifetime of love. Crafted with a timeless design, it features an oval-cut diamond weighing 1.80CT. Each part of this handmade ring is carefully crafted to commemorate your meaningful milestone.
-  Updated: 2025-12-08T06:22:24Z
+  Updated: 2025-12-31T12:14:37Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -6075,7 +6075,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-62_1.jpg?v=1703830954
     Price: $2,809.00 USD
 - [Natural Salt And Pepper 1.90CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-90ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This stunning engagement ring has a unique Art Deco design and features 1.90CT of natural salt and pepper oval diamonds. Handcrafted by expert artisans, this ring is perfect for anniversaries and engagements. Make a lasting impression with this timeless piece.
-  Updated: 2025-10-02T10:30:42Z
+  Updated: 2025-12-31T12:14:36Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -6849,7 +6849,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-71_1.jpg?v=1703830931
     Price: $2,999.00 USD
 - [Natural Salt And Pepper 1.70CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-3): This Natural Salt And Pepper 1.70CT Oval Diamond Art Deco Unique Engagement Ring is perfect for making a lasting impression. Handcrafted to the highest standards, this statement ring features a 1.70CT oval diamond and a stunning Art Deco design, making it a timeless symbol of love and commitment.
-  Updated: 2025-10-02T10:30:43Z
+  Updated: 2025-12-31T12:14:36Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -8355,7 +8355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-90_4.jpg?v=1703830656
     Price: $1,929.00 USD
 - [Natural Salt And Pepper 1.30CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-30ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.30CT Oval Diamond Art Deco Unique Engagement Ring is a luxurious and unique handmade ring. Crafted to perfection, it features an eye-catching 1.30CT oval diamond and an Art Deco design that will make an elegant statement. Perfect for anniversaries or special occasions.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2025-12-31T12:14:36Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -9351,7 +9351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/products/il_794xN.4783625160_ghho.jpg?v=1694599688
     Price: $2,539.00 USD
 - [Lab Grown 1.80CT Oval Cut Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/lab-grown-1-80ct-oval-cut-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This stunning Lab Grown 1.80CT Oval Cut Diamond Art Deco Unique Engagement Ring is meticulously handmade to create a timeless anniversary or engagement ring. Crafted from lab-grown diamond, it is ethically sourced and offers an exceptional sparkle.
-  Updated: 2025-10-02T10:30:45Z
+  Updated: 2025-12-31T12:14:36Z
   Vendor: Lab Grown Diamond Ring
   Product Type: Lab Grown Oval Diamond Ring
   Availability: Available
@@ -9405,7 +9405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/products/il_794xN.4768558184_8qt9.jpg?v=1694694824
     Price: $2,789.00 USD
 - [Lab Grown 1.85CT Oval Cut Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/lab-grown-1-85ct-oval-cut-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This beautiful Lab Grown 2.10CT Oval Cut Diamond Art Deco Unique Engagement Ring is a stunning anniversary or engagement ring handmade for the perfect romantic gesture. Its diamond has unparalleled clarity and sparkle, perfect for the special person in your life.
-  Updated: 2025-10-02T10:30:45Z
+  Updated: 2025-12-31T12:14:35Z
   Vendor: Lab Grown Diamond Ring
   Product Type: Lab Grown Oval Diamond Ring
   Availability: Available
@@ -9876,7 +9876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/3_7.jpg?v=1703134609
     Price: $995.00 USD
 - [Moissanite 2.45CT Oval Cut Diamond Art Deco Unique Engagement Ring](https://ibizjewel.com/products/moissanite-2-45ct-oval-cut-diamond-art-deco-unique-engagement-ring): This Moissanite Engagement Ring Features A Stunning 2.45CT Oval Cut Diamond Set In An Art Deco Design. Made With Rare And Durable Moissanite, This Ring Offers A Unique And Elegant Alternative To Traditional Engagement Rings. Its Timeless Style And Affordable Price Make It The Perfect Choice For Any Soon-To-Be Bride.
-  Updated: 2025-10-02T10:30:46Z
+  Updated: 2025-12-31T12:14:35Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
@@ -10038,7 +10038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/9_6.jpg?v=1703135841
     Price: $885.00 USD
 - [Moissanite 2.15CT Oval Cut Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/moissanite-2-15ct-oval-cut-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Moissanite 2.15CT Oval Cut Diamond Art Deco Unique Engagement Ring is a handmade masterpiece that exudes elegance and sophistication. With its stunning oval cut diamond and art deco design, this ring is the perfect symbol of love and commitment for any anniversary or engagement. Each piece is expertly crafted to perfection, making it a one-of-a-kind treasure. Invest in this timeless beauty today.
-  Updated: 2025-10-02T10:30:46Z
+  Updated: 2025-12-31T12:14:35Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -10200,7 +10200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-101_7.jpg?v=1705558984
     Price: $3,425.00 USD
 - [Moissanite 3.50CT Oval Diamond Art Deco Handmade Ring](https://ibizjewel.com/products/moissanite-3-50ct-oval-diamond-art-deco-anniversary-ring): Experience The Timeless Beauty Of Our Moissanite 3.50ct Oval Diamond Art Deco Anniversary Ring. Expertly Crafted With A Stunning Oval Cut, This Ring Combines Classic Elegance With A Modern Twist. With Its Superior Brilliance And Durability, It Is The Perfect Choice For Any Anniversary Or Special Occasion.
-  Updated: 2025-10-02T10:30:46Z
+  Updated: 2025-12-31T12:14:35Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -10566,7 +10566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-34_5.jpg?v=1709796147
     Price: $864.00 USD
 - [Moissanite 2.0CT Oval Diamond Avant Garde Anniversary Ring](https://ibizjewel.com/products/moissanite-2-0ct-oval-diamond-avant-garde-anniversary-ring): Crafted With A 2.0ct Oval Diamond And Avant-garde Design, This Anniversary Ring Exudes Elegance And Sophistication. Made With Moissanite, Known For Its Brilliance And Durability, It Offers A Sparkly Alternative To Traditional Diamonds. Perfect For Celebrating Your Special Milestone, This Ring Is A Statement Of Lasting Love And Style.
-  Updated: 2025-10-02T10:30:46Z
+  Updated: 2025-12-31T12:14:34Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -10932,7 +10932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-39_5.jpg?v=1709802854
     Price: $864.00 USD
 - [Moissanite 2.05CT Oval Diamond Gothic Wedding Ring](https://ibizjewel.com/products/moissanite-2-05ct-oval-diamond-gothic-wedding-ring): This Moissanite 2.05ct Oval Diamond Gothic Wedding Ring Is A Unique And Elegant Choice For Tying The Knot. Made With Lab-grown Diamonds, The Ring Boasts A Stunning 2.05 Carat Oval Cut That Is Expertly Crafted To Give Off A Gothic Vibe. Its Brilliant Sparkle And Bold Design Make For A Truly Special Piece That Will Last A Lifetime.
-  Updated: 2025-10-02T10:30:47Z
+  Updated: 2025-12-31T12:14:34Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -11244,7 +11244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-43_3.jpg?v=1709813416
     Price: $999.00 USD
 - [Moissanite 1.80CT Oval Diamond Minimalist Wedding Ring](https://ibizjewel.com/products/moissanite-1-80ct-oval-diamond-minimalist-wedding-ring): This Stunning Moissanite Wedding Ring Features A 1.80ct Oval Diamond, Perfect For Adding A Touch Of Glamour To Any Minimalistic Bride's Finger. The Durable And Brilliant Moissanite Stone Is A Budget-friendly Alternative To Traditional Diamonds, Without Compromising On Style Or Quality.
-  Updated: 2025-10-02T10:30:47Z
+  Updated: 2025-12-31T12:14:34Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -11862,7 +11862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-50_3.jpg?v=1709874748
     Price: $799.00 USD
 - [Moissanite 1.80CT Oval Diamond Gothic Anniversary Ring](https://ibizjewel.com/products/moissanite-1-80ct-oval-diamond-gothic-anniversary-ring): Introducing The Moissanite 1.80ct Oval Diamond Gothic Anniversary Ring - A Stunning And Elegant Addition To Any Jewelry Collection. With A Sparkling 1.80ct Oval Diamond, This Gothic-inspired Ring Is Sure To Catch The Eye. Made With Moissanite, A Rare And Brilliant Gemstone, This Ring Offers The Beauty And Durability Of A Diamond At A Fraction Of The Cost. Perfect For An Anniversary Or Any Special Occasion.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-12-31T12:14:34Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -12522,7 +12522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-56_1.jpg?v=1709877170
     Price: $1,068.00 USD
 - [Moissanite 1.50CT Oval Diamond Avant Garde Engagement Ring](https://ibizjewel.com/products/moissanite-1-50ct-oval-diamond-avant-garde-engagement-ring): Experience The Avant-garde Beauty Of This Moissanite 1.50ct Oval Diamond Engagement Ring. With Its Unique Design And Sparkling Moissanite Stone, This Ring Is A True Standout. Made For Those Who Want To Make A Statement, This Ring Is The Perfect Combination Of Style And Sophistication. Own A One-of-a-kind Piece That Will Leave A Lasting Impression.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-12-31T12:14:33Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -12780,7 +12780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-59_2.jpg?v=1709879485
     Price: $899.00 USD
 - [Moissanite 1.91CT Oval Diamond Celtic Wedding Ring](https://ibizjewel.com/products/moissanite-1-91ct-oval-diamond-celtic-wedding-ring): Experience The Timeless Elegance Of Our Moissanite 1.91ct Oval Diamond Celtic Wedding Ring. With Its Stunning Oval Diamond And Intricate Celtic Design, This Ring Is Expertly Crafted To Symbolize Everlasting Love. The Sparkling Moissanite Stone Adds A Touch Of Brilliance, Making It The Perfect Choice For Any Special Occasion.
-  Updated: 2025-10-26T11:55:08Z
+  Updated: 2025-12-31T12:14:33Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -13446,7 +13446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-66_1.jpg?v=1709888574
     Price: $879.00 USD
 - [Moissanite 3.40CT Oval Diamond Victorian Anniversary Ring](https://ibizjewel.com/products/moissanite-3-40ct-oval-diamond-victorian-anniversary-ring): Indulge In Timeless Elegance With Our Moissanite 3.40ct Oval Diamond Victorian Anniversary Ring. Crafted With A Stunning Oval Diamond And Victorian Inspired Design, This Ring Is The Perfect Symbol Of Everlasting Love. With Sparkling Moissanite, It's A Luxurious And Affordable Option For Your Special Day.
-  Updated: 2025-10-02T10:30:49Z
+  Updated: 2025-12-31T12:14:33Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -13608,7 +13608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-69_4.jpg?v=1709890331
     Price: $864.00 USD
 - [Moissanite 1.35CT Round Diamond Brutalist Handmade Ring](https://ibizjewel.com/products/moissanite-1-35ct-round-diamond-brutalist-handmade-ring): This Stunning Moissanite 1.35ct Round Diamond Brutalist Handmade Ring Combines Expert Craftsmanship With A Unique, Modern Design. Made With Superior Quality Moissanite And A Round Diamond, This Ring Boasts A One-of-a-kind Look That Is Sure To Turn Heads. Discover The Perfect Blend Of Luxury And Artistry With This Exquisite Piece.
-  Updated: 2025-10-02T10:30:49Z
+  Updated: 2025-12-31T01:12:24Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Round Diamond Ring
   Availability: Available
@@ -13896,7 +13896,7 @@
     Availability: Available
     Price: $959.00 USD
 - [Moissanite 1.60CT Emerald Diamond Art Deco Wedding Ring](https://ibizjewel.com/products/moissanite-1-60ct-emerald-diamond-art-deco-wedding-ring): Introducing Our Exquisite Moissanite 1.60ct Emerald Diamond Art Deco Wedding Ring. This Stunning Piece Features A 1.60 Carat Moissanite Stone Cut In An Elegant Emerald Shape, Surrounded By Sparkling Diamonds. With Its Art Deco Design And Unparalleled Brilliance, This Ring Is The Perfect Choice For Any Special Occasion.
-  Updated: 2025-10-02T10:30:49Z
+  Updated: 2025-12-31T05:54:02Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Emerald Diamond Ring
   Availability: Available
@@ -14112,7 +14112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-77_1.jpg?v=1709894522
     Price: $829.00 USD
 - [Moissanite 2.0ct Oval Diamond Brutalist Wedding Ring](https://ibizjewel.com/products/moissanite-2-0ct-oval-diamond-brutalist-wedding-ring): This Moissanite 2.0ct Oval Diamond Brutalist Wedding Ring Showcases A Stunning 2.0ct Oval Diamond, Exquisitely Cut For Maximum Brilliance. With Its Unique Brutalist Design, This Ring Is A Bold Statement Piece For Any Wedding Or Special Occasion. Crafted With The Highest Quality Moissanite, It Offers The Sparkle And Durability Of A Diamond At A Fraction Of The Cost. Elevate Your Style And Make A Lasting Impression With This Distinctive Ring.
-  Updated: 2025-10-02T10:30:49Z
+  Updated: 2025-12-31T12:14:33Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -14328,7 +14328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-81_4.jpg?v=1709896505
     Price: $809.00 USD
 - [Moissanite 2.05CT Oval Diamond Art Deco Wedding Ring](https://ibizjewel.com/products/moissanite-2-05ct-oval-diamond-art-deco-wedding-ring): Expertly Crafted With A 2.05ct Oval Moissanite Diamond, This Art Deco Wedding Ring Showcases Breathtaking Beauty And Durability. Made For Those Who Appreciate Elegance And Sophistication, This Ring Offers A Stunning And Affordable Alternative To Traditional Diamonds. Perfect For Any Special Occasion Or Everyday Wear.
-  Updated: 2025-10-02T10:30:50Z
+  Updated: 2025-12-31T12:14:32Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -14532,7 +14532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-83_6.jpg?v=1709897368
     Price: $1,015.00 USD
 - [Moissanite 4.0CT Oval Diamond Mid-Century Handmade Ring](https://ibizjewel.com/products/moissanite-4-0ct-oval-diamond-mid-century-handmade-ring): Expertly Crafted And Designed, This Moissanite 4.0ct Oval Diamond Mid-century Handmade Ring Exudes Timeless Elegance. With A Dazzling 4.0ct Oval Diamond And A Mid-century Inspired Design, This Ring Is A Definite Head-turner. Made From High-quality Materials, It Guarantees A Lifetime Of Beauty And Brilliance.
-  Updated: 2025-10-02T10:30:50Z
+  Updated: 2025-12-31T12:14:32Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -14688,7 +14688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-85_3.jpg?v=1712380027
     Price: $1,012.00 USD
 - [Moissanite 2.10CT Oval Diamond Victorian Wedding Ring](https://ibizjewel.com/products/moissanite-1-10ct-oval-diamond-victorian-wedding-ring): Crafted With A Stunning 2.10 CT Oval Diamond, This Victorian Wedding Ring Features A Dazzling Moissanite Stone That Exudes Elegance And Sophistication. With Its Timeless Design And Expert Craftsmanship, This Ring Is Sure To Make Any Bride Feel Like Royalty On Her Special Day.
-  Updated: 2025-10-02T10:30:50Z
+  Updated: 2025-12-31T12:14:32Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -14790,7 +14790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-86_1.jpg?v=1709898984
     Price: $955.00 USD
 - [Moissanite 4.50CT Oval Diamond Art Deco Anniversary Ring](https://ibizjewel.com/products/moissanite-4-50ct-oval-diamond-art-deco-anniversary-ring): Expertly Crafted With A Stunning 4.50ct Moissanite Oval Diamond, This Art Deco Anniversary Ring Exudes Timeless Elegance. Made With Precision And Expert Artistry, This Ring Is Perfect For Celebrating Your Special Milestones. Elevate Your Look With This Exquisite Piece.
-  Updated: 2025-10-02T10:30:50Z
+  Updated: 2025-12-31T12:14:32Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -18630,7 +18630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-104_4.jpg?v=1710497708
     Price: $876.00 USD
 - [Natural Salt And Pepper 1.51CT Oval Diamond Minimalist Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-51ct-oval-diamond-minimalist-handmade-ring): This Natural Salt And Pepper 1.51ct Oval Diamond Minimalist Handmade Ring Exudes Elegance And Simplicity. Made With A Natural 1.51ct Oval Diamond, This Handmade Ring Is A Beautiful And Unique Addition To Any Jewelry Collection. Its Minimalist Design Allows The Diamond To Shine, Making It A Perfect Choice For Any Occasion.
-  Updated: 2025-10-02T10:30:54Z
+  Updated: 2025-12-31T12:14:31Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -19038,7 +19038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-108_1.jpg?v=1710499454
     Price: $1,099.00 USD
 - [Natural Salt And Pepper 1.53CT Oval Diamond Brutalist Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-53ct-oval-diamond-brutalist-handmade-ring): This Handmade Ring Features A Beautifully Unique 1.53ct Oval Diamond, Showcasing Its Natural Salt And Pepper Characteristics. The Brutalist Design Adds A Touch Of Edgy Elegance. Perfect For Those Who Appreciate The Beauty Of Imperfection, This Ring Is A Statement Piece That Will Make Heads Turn.
-  Updated: 2025-10-02T10:30:54Z
+  Updated: 2025-12-31T12:14:31Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -24534,7 +24534,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-143_1.jpg?v=1710924120
     Price: $1,179.00 USD
 - [Natural Salt And Pepper 1.52CT Oval Diamond Avant Garde Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-52ct-oval-diamond-avant-garde-handmade-ring): Expertly Crafted From Natural Salt And Pepper Diamonds, This Avant-garde Handmade Ring Features A Stunning 1.52ct Oval Stone. With Its Unique And Rare Beauty, This Ring Will Make A Statement Of Style And Individuality. Embrace The Natural And Elegant With This One-of-a-kind Piece.
-  Updated: 2025-10-02T10:31:00Z
+  Updated: 2025-12-31T12:14:31Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -25758,7 +25758,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-139_1.jpg?v=1710930232
     Price: $971.00 USD
 - [Natural Salt And Pepper 1.48CT Oval Diamond Brutalist Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-48ct-oval-diamond-brutalist-handmade-ring): This Handcrafted Ring Features A Beautiful 1.48ct Oval Diamond With Unique Salt And Pepper Inclusions, Giving It A Bold And Raw Brutalist Aesthetic. Made With Natural Materials And Expert Craftsmanship, This Ring Is A One-of-a-kind Statement Piece That Adds A Touch Of Natural Beauty To Any Outfit.
-  Updated: 2025-10-02T10:29:34Z
+  Updated: 2025-12-31T12:14:31Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -31460,7 +31460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-32_5.jpg?v=1711170330
     Price: $752.00 USD
 - [Moissanite 0.37CT Round Diamond Fashion Earring](https://ibizjewel.com/products/moissanite-0-37ct-round-diamond-fashion-earring): Experience The Brilliance And Sparkle Of Moissanite With Our 0.37ct Round Diamond Fashion Earrings. Made With Moissanite Stones, These Earrings Offer The Same Fire And Radiance As Natural Diamonds At A Fraction Of The Cost. Elevate Your Style With These Stunning And Ethically-sourced Earrings.
-  Updated: 2025-10-02T10:31:04Z
+  Updated: 2025-12-31T04:05:44Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
@@ -33596,7 +33596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-98_13.jpg?v=1711450540
     Price: $1,041.00 USD
 - [Moissanite 3.0CT Oval Diamond Mid-Century Engagement Ring](https://ibizjewel.com/products/moissanite-3-0ct-oval-diamond-mid-century-engagement-ring): This Moissanite 3.0ct Oval Diamond Mid-century Engagement Ring Features A Stunning 3.0ct Oval Diamond, Providing A Sparkling And Eye-catching Display. With Its Mid-century Design, This Ring Is The Perfect Blend Of Classic And Modern, Making It A Timeless And Elegant Choice For Any Engagement.
-  Updated: 2025-10-02T10:31:07Z
+  Updated: 2025-12-31T12:14:28Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -33800,7 +33800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-100_1.jpg?v=1711450759
     Price: $1,079.00 USD
 - [Moissanite 2.70 CT Oval Diamond Victorian Anniversary Ring](https://ibizjewel.com/products/moissanite-2-70-ct-oval-diamond-victorian-anniversary-ring): Expertly Crafted And Designed To Last A Lifetime, The Moissanite 2.70 CT Oval Diamond Victorian Anniversary Ring Is The Perfect Symbol Of Your Enduring Love. With A Stunning Oval Cut Diamond And Intricate Victorian Design, This Ring Is A Timeless And Elegant Choice For Any Anniversary Celebration.
-  Updated: 2025-11-11T11:15:27Z
+  Updated: 2025-12-31T12:14:28Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -33902,7 +33902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-101_7.jpg?v=1711450606
     Price: $1,055.00 USD
 - [Moissanite 3.00CT Oval Diamond Avant Garde Wedding Ring](https://ibizjewel.com/products/moissanite-3-00ct-oval-diamond-avant-garde-wedding-ring): This Moissanite 3.00 CT Oval Diamond Avant Garde Wedding Ring Is The Perfect Statement Piece For Any Bride. With Its Stunning Oval Cut Diamond And Modern, Avant-garde Design, This Ring Exudes Elegance And Sophistication. Made With High-quality Moissanite, It Offers A Brilliant Sparkle That Is Sure To Catch Everyone's Attention. Upgrade Your Wedding Band With This Unique And Timeless Piece.
-  Updated: 2025-11-19T09:37:39Z
+  Updated: 2025-12-31T12:14:28Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -34004,7 +34004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-102_6.jpg?v=1711450418
     Price: $1,079.00 USD
 - [Moissanite 3.35 CT Oval Diamond Boho & Hippie Engagement Ring](https://ibizjewel.com/products/moissanite-3-35-ct-oval-diamond-boho-hippie-engagement-ring): This Meticulously Crafted Moissanite 3.35 CT Oval Diamond Boho & Hippie Engagement Ring Is The Perfect Blend Of Elegance And Bohemian Style. Featuring A Dazzling 3.35 CT Oval Diamond And A Unique Design, This Ring Is Sure To Make A Statement. Made With High Quality Materials, It Offers Timeless Beauty And Value For Your Special Occasion.
-  Updated: 2025-12-25T11:27:31Z
+  Updated: 2025-12-31T12:14:28Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -34268,7 +34268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBR-01_5.jpg?v=1711449641
     Price: $1,899.00 USD
 - [Moisaanite 2.50CT Cushion Diamond Victorian Handmade Ring](https://ibizjewel.com/products/moisaanite-2-50ct-cushion-diamond-victorian-handmade-ring): Introducing The Moisaanite 2.50ct Cushion Diamond Victorian Handmade Ring, A Timeless Blend Of Classic Victorian Design And Modern Moissanite Gemstone. This Ring Boasts A Stunning 2.50 Carat Cushion-cut Moissanite Diamond, Crafted By Hand For A Truly Unique And Luxurious Piece. Elevate Your Style With This Exquisite Ring.
-  Updated: 2025-10-02T10:31:07Z
+  Updated: 2025-12-31T12:14:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -34904,7 +34904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-44_1_b5ef998d-4416-4e38-8d8a-244bb68b67a3.jpg?v=1711518965
     Price: $905.00 USD
 - [Moisaanite 2.76 CT Oval Diamond Mid-Century Engagement Ring](https://ibizjewel.com/products/moisaanite-2-76-ct-oval-diamond-mid-century-engagement-ring): Expertly Crafted To Perfection, The Moisaanite 2.76 CT Oval Diamond Mid-century Engagement Ring Is A Stunning Piece That Exudes Timeless Elegance. Made With A Dazzling 2.76 CT Oval Diamond, This Ring Is A True Statement Of Luxury And Sophistication. Perfect For Any Occasion, It's The Ideal Symbol Of Everlasting Love And Commitment.
-  Updated: 2025-10-02T10:31:08Z
+  Updated: 2025-12-31T12:14:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -35438,7 +35438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-152_3.jpg?v=1711530374
     Price: $951.00 USD
 - [Moisaanite 2.60CT Oval Diamond Brutalist Handmade Ring](https://ibizjewel.com/products/moisaanite-2-60ct-oval-diamond-brutalist-handmade-ring): This Brilliantly Crafted Moisaanite 2.60ct Oval Diamond Brutalist Handmade Ring Showcases A Unique And Eye-catching Style. Combining The Stunning Sparkle Of Moissanite With A Bold And Edgy Handmade Design, This Ring Is Sure To Make A Statement. Add A Touch Of Modern Elegance To Your Jewelry Collection With This One-of-a-kind Piece.
-  Updated: 2025-10-23T08:44:51Z
+  Updated: 2025-12-31T12:14:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -35546,7 +35546,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-154_1.jpg?v=1711531242
     Price: $889.00 USD
 - [Moisaanite 2.85CT Oval Diamond Gothic Wedding Ring](https://ibizjewel.com/products/moisaanite-2-85ct-oval-diamond-gothic-wedding-ring): Discover The Unique And Stunning Moisaanite 2.85ct Oval Diamond Gothic Wedding Ring. With Its Intricate Gothic Design And 2.85ct Oval Diamond, This Ring Will Make A Bold And Elegant Statement On Your Special Day. Made With High-quality Moissanite, This Ring Is As Durable As It Is Beautiful.
-  Updated: 2025-10-02T10:31:09Z
+  Updated: 2025-12-31T12:14:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -35708,7 +35708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-150_2_202f775e-5a53-46a7-a7db-98555c755c65.jpg?v=1711532883
     Price: $905.00 USD
 - [Moissanite 2.90 CT Oval Diamond Mid-Century Engagement Ring](https://ibizjewel.com/products/moissanite-2-90-ct-oval-diamond-mid-century-engagement-ring): Expertly Crafted For A Mid-century Aesthetic, This Engagement Ring Features A Magnificent 2.90 Carat Oval Moissanite Diamond. The Brilliant Faceting And Stunning Clarity Of This Stone Will Captivate Any Eye, Making It A Truly Timeless And Elegant Choice For A Center Stone.
-  Updated: 2025-10-02T10:31:09Z
+  Updated: 2025-12-31T12:14:26Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -35810,7 +35810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-104_2.jpg?v=1711598945
     Price: $1,075.00 USD
 - [Moissanite 4.45 CT Oval Diamond Victorian Anniversary Ring](https://ibizjewel.com/products/moissanite-4-45-ct-oval-diamond-victorian-anniversary-ring): Expertly Designed For A Timeless Look, This Moissanite 4.45 CT Oval Diamond Victorian Anniversary Ring Exudes Elegance And Beauty. With Its High-quality Moissanite And Stunning Design, This Ring Is The Perfect Way To Celebrate Your Special Anniversary And Create Lasting Memories.
-  Updated: 2025-10-02T10:31:09Z
+  Updated: 2025-12-31T12:14:26Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -36014,7 +36014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-106_2.jpg?v=1711599881
     Price: $1,049.00 USD
 - [Moissanite 3.50 CT Oval Diamond Boho & Hippie Engagement Ring](https://ibizjewel.com/products/moissanite-3-50-ct-oval-diamond-boho-hippie-engagement-ring): Expertly Crafted With A Stunning Moissanite 3.50 Ct Oval Diamond, This Boho & Hippie Engagement Ring Exudes Elegance And Sophistication. The Perfect Choice For Those Who Desire A Unique And Timeless Piece, This Ring Is Sure To Capture Attention And Make A Statement. Elevate Your Style With This Exquisite Ring.
-  Updated: 2025-10-02T10:31:09Z
+  Updated: 2025-12-31T12:14:26Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -36524,7 +36524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-111_7.jpg?v=1711601974
     Price: $1,039.00 USD
 - [Moissanite 2.85 CT Oval Diamond Art Nouveau Anniversary Ring](https://ibizjewel.com/products/moissanite-2-85-ct-oval-diamond-art-nouveau-anniversary-ring): Discover A Beautifully Crafted Art Nouveau Anniversary Ring Featuring A Stunning 2.85 CT Oval Diamond. Made With Premium Quality Moissanite, This Ring Combines Classic Elegance And Modern Sophistication. Celebrate Your Love With A Timeless Piece That Will Be Cherished For Years To Come.
-  Updated: 2025-10-02T10:31:09Z
+  Updated: 2025-12-31T12:14:26Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -36932,7 +36932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-115_7.jpg?v=1711604873
     Price: $1,049.00 USD
 - [Moissanite 2.75 CT Oval Diamond Avant Garde Wedding Ring](https://ibizjewel.com/products/moissanite-2-75-ct-oval-diamond-avant-garde-wedding-ring): Expertly Crafted With A 2.75 CT Oval Diamond And A Modern Avant-garde Design, This Wedding Ring Is Sure To Make A Statement. Made With Moissanite, A Durable And Sparkling Alternative To Traditional Diamonds, It's A Perfect Choice For Those Looking For Both Elegance And Affordability.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-12-31T12:14:25Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -37034,7 +37034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-116_1.jpg?v=1711605313
     Price: $1,062.00 USD
 - [Moissanite 2.80 CT Oval Diamond Boho & Hippie Engagement Ring](https://ibizjewel.com/products/moissanite-2-80-ct-oval-diamond-boho-hippie-engagement-ring): This Moissanite Oval Diamond Engagement Ring Is Perfect For The Boho And Hippie At Heart. Featuring A 2.80 Carat Oval Cut Moissanite, This Ring Offers Excellent Brilliance And Fire. Crafted With A Unique Design, This Ring Is Sure To Stand Out And Make A Statement.
-  Updated: 2025-10-16T02:54:16Z
+  Updated: 2025-12-31T12:14:25Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -37238,7 +37238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-118_3.jpg?v=1711607516
     Price: $971.00 USD
 - [Moissanite 3.0 CT Oval Diamond Edwardian Anniversary Ring](https://ibizjewel.com/products/moissanite-3-0-ct-oval-diamond-edwardian-anniversary-ring): This Moissanite 3.0 Ct Oval Diamond Edwardian Anniversary Ring Is A Stunning And Elegant Choice For Your Special Occasion. Crafted With Precision And Featuring A Dazzling 3.0 Carat Oval Moissanite Diamond, This Ring Exudes Luxury And Sophistication. The Edwardian Design Adds A Touch Of Vintage Charm, Making It A Timeless Piece To Cherish For Years To Come.
-  Updated: 2025-10-03T17:13:54Z
+  Updated: 2025-12-31T12:14:25Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -37442,7 +37442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-120_9.jpg?v=1711608202
     Price: $1,075.00 USD
 - [Moissanite 2.30 CT Oval Diamond Art Nouveau Engagement Ring](https://ibizjewel.com/products/moissanite-2-30-ct-oval-diamond-art-nouveau-engagement-ring): Experience Everlasting Love With This Stunning Engagement Ring. Featuring A Striking 2.30 CT Oval Diamond, This Art Nouveau Ring Is Adorned With A Rare And Exquisite Moissanite Gemstone. Its Timeless Design And Unparalleled Brilliance Make It A Perfect Symbol Of Your Forever Love.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-12-31T12:14:25Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -37952,7 +37952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-125_2.jpg?v=1711610960
     Price: $1,119.00 USD
 - [Moissanite 3.30 CT Oval Diamond Boho & Hippie Handmade Ring](https://ibizjewel.com/products/moissanite-3-30-ct-oval-diamond-boho-hippie-handmade-ring): Indulge In The Unique Beauty Of Our Moissanite 3.30 CT Oval Diamond Boho &amp; Hippie Handmade Ring. Expertly Crafted With A 3.30 CT Oval Diamond, This Ring Exudes A Bohemian And Free-spirited Vibe. Made With Care And Precision, This Ring Is The Perfect Choice For Those Who Appreciate Handmade, One-of-a-kind Pieces Of Jewelry. Elevate Your Style And Add A Touch Of Individuality With This Stunning Ring.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-12-31T12:14:24Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -38054,7 +38054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-126_7.jpg?v=1711614902
     Price: $1,049.00 USD
 - [Moissanite 2.50 CT Oval Diamond Brutalist Anniversary Ring](https://ibizjewel.com/products/moissanite-2-50-ct-oval-diamond-brutalist-anniversary-ring): This Moissanite 2.50 Ct Oval Diamond Brutalist Anniversary Ring Is A Stunning And Unique Piece, Featuring A Beautifully Cut 2.50 Ct Oval Diamond In A Modern, Bold Setting. Made With Durable And High-quality Materials, This Ring Is Perfect For Celebrating Special Occasions And Will Dazzle For Years To Come.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-12-31T12:14:24Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -38360,7 +38360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-129_9.jpg?v=1711616045
     Price: $1,008.00 USD
 - [Moissanite 3.0 CT Oval Diamond Mid-Century Handmade Ring](https://ibizjewel.com/products/moissanite-3-0-ct-oval-diamond-mid-century-handmade-ring): This Moissanite 3.0 Ct Oval Diamond Mid-century Handmade Ring Is A Perfect Addition To Any Jewelry Collection. Featuring A Stunning 3.0 Ct Oval Diamond, This Ring Is Handmade With Precision And Attention To Detail. The Moissanite Stone Offers Brilliant Sparkle And Durability, Making It An Excellent Choice For Daily Wear. Experience The Timeless Elegance And Beauty Of This Mid-century Inspired Ring.
-  Updated: 2025-11-24T10:42:07Z
+  Updated: 2025-12-31T12:14:24Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -38462,7 +38462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-120_3_06051c75-7494-4a11-b166-14f6aa1345cc.jpg?v=1711616527
     Price: $1,079.00 USD
 - [Moissanite 3.50 CT Oval Diamond Minimalist Anniversary Ring](https://ibizjewel.com/products/moissanite-3-50-ct-oval-diamond-minimalist-anniversary-ring): Expertly Crafted, This Minimalist Anniversary Ring Boasts A Brilliant Moissanite Oval Diamond Of 3.50 Ct. With Its Exceptional Brilliance And Durability, This Ring Is An Ideal Choice For Celebrating Your Special Milestone. Experience The Beauty And Value Of A Diamond Without The High Price.
-  Updated: 2025-10-02T10:31:11Z
+  Updated: 2025-12-31T12:14:24Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -38870,7 +38870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-134_10.jpg?v=1711618712
     Price: $1,079.00 USD
 - [Moissanite 3.75 CT Oval Diamond Brutalist Anniversary Ring](https://ibizjewel.com/products/moissanite-3-75-ct-oval-diamond-brutalist-anniversary-ring): Expertly Crafted With A 3.75 CT Oval Diamond, This Brutalist Anniversary Ring Features The Brilliance And Durability Of Moissanite. Its Unique Design Showcases The Modern, Industrial Aesthetic Of The Brutalist Movement. A Stunning Choice For Celebrating A Special Milestone.
-  Updated: 2025-10-02T10:31:11Z
+  Updated: 2025-12-31T12:14:23Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -38972,7 +38972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-135_2.jpg?v=1711619194
     Price: $1,099.00 USD
 - [Moissanite 2.15 CT Oval Diamond Edwardian Wedding Ring](https://ibizjewel.com/products/moissanite-2-15-ct-oval-diamond-edwardian-wedding-ring): This Elegant 2.15 CT Oval Diamond Edwardian Wedding Ring Features A Stunning Moissanite Stone, Renowned For Its Brilliance And Durability. Expertly Crafted And Beautifully Designed, This Ring Is A Timeless Symbol Of Love And Commitment. The Perfect Choice For A Lifetime Of Cherished Moments.
-  Updated: 2025-10-02T10:31:11Z
+  Updated: 2025-12-31T12:14:23Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -39074,7 +39074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-136_8.jpg?v=1711619635
     Price: $1,015.00 USD
 - [Moissanite 3.50 CT Oval Diamond Gothic Engagement Ring](https://ibizjewel.com/products/moissanite-3-50-ct-oval-diamond-gothic-engagement-ring): This Moissanite Engagement Ring Features A Stunning 3.50 Carat Oval Diamond Surrounded By Intricate Gothic Designs. With Its Ethereal Sparkle And Unique Aesthetic, This Ring Is Sure To Make A Statement And Stand Out From Traditional Engagement Rings. Expertly Crafted And Durable, This Ring Is A Perfect Representation Of Your One-of-a-kind Love.
-  Updated: 2025-10-02T10:31:11Z
+  Updated: 2025-12-31T12:14:23Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -40406,7 +40406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-82_3.jpg?v=1712314995
     Price: $859.00 USD
 - [Moissanite 2.60CT Oval Diamond Unique Handmade Ring](https://ibizjewel.com/products/moissanite-2-60ct-oval-diamond-unique-handmade-ring): As a jewelry expert, I can confidently say that this unique handmade ring features a 2.60CT oval diamond, made from moissanite. With its beautiful design and high-quality materials, this ring is sure to make a stunning addition to any collection. Embrace the beauty and elegance of moissanite with this one-of-a-kind ring.
-  Updated: 2025-10-02T10:31:12Z
+  Updated: 2025-12-31T12:14:23Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -40778,7 +40778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-163_3.jpg?v=1712382450
     Price: $1,241.00 USD
 - [Natural Salt And Pepper 2.05CT Oval Diamond Art Deco Unique Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-2-05ct-oval-diamond-art-deco-unique-handmade-ring-anniversary-ring): Elevate your style with this unique handmade ring featuring a 2.05CT oval salt and pepper diamond. The Art Deco design adds a touch of glamour, making it perfect as an anniversary ring. Each diamond is natural and uniquely beautiful, making this ring truly one-of-a-kind.
-  Updated: 2025-10-02T10:31:13Z
+  Updated: 2025-12-31T12:14:21Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -41102,7 +41102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-173_4.jpg?v=1715840273
     Price: $972.00 USD
 - [Moissanite 3.80CT Oval Diamond Art Deco Wedding Ring With Band](https://ibizjewel.com/products/moissanite-3-80ct-oval-diamond-art-deco-wedding-ring-with-band): As A Product Expert, I Recommend The Moissanite 3.80ct Oval Diamond Art Deco Wedding Ring For Its Stunning Design And High-quality Materials. With A 3.04ct Oval Moissanite Diamond And An Art Deco Style, This Ring Is Sure To Make A Statement On Your Special Day. Crafted With Precision And Attention To Detail, It Is A Timeless And Elegant Choice For Anyone Looking For A Unique And Luxurious Wedding Ring.
-  Updated: 2025-10-02T10:31:13Z
+  Updated: 2025-12-31T12:14:21Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -43100,7 +43100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-237_1.png?v=1716290254
     Price: $1,035.00 USD
 - [Moissanite 4.96 CT Pear Diamond Art Nouveau Handmade Ring](https://ibizjewel.com/products/moissanite-4-96-ct-pear-diamond-art-nouveau-handmade-ring): Experience The Elegance And Beauty Of Our Handmade Moissanite 4.96 Ct Pear Diamond Art Nouveau Ring. With Its Exquisite Design And High-quality Materials, This Ring Is The Perfect Accessory For Any Occasion. Made With Precision, This Ring Will Add A Touch Of Sophistication To Your Outfit While Showcasing The Brilliance And Sparkle Of Moissanite Diamonds.
-  Updated: 2025-10-02T10:30:11Z
+  Updated: 2025-12-31T05:25:25Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Pear Diamond Ring
   Availability: Available
@@ -44421,14 +44421,14 @@
 - [Moissanite Baguette Diamond Ring](https://ibizjewel.com/collections/moissanite-baguette-diamond-ring)
   Updated: 2025-10-02T10:30:36Z
   Total Products: 1
-- [Wedding Band Ring](https://ibizjewel.com/collections/wedding-band-ring)
-  Updated: 2025-10-02T10:30:36Z
+- [Wedding Band Rings](https://ibizjewel.com/collections/wedding-band-rings)
+  Updated: 2025-12-31T05:39:51Z
   Total Products: 19
 - [Natural Salt And Pepper Kite Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-kite-diamond-ring)
   Updated: 2025-11-03T10:48:02Z
   Total Products: 37
 - [Buy Salt & Pepper Diamond Rings Online in the USA](https://ibizjewel.com/collections/natural-salt-and-pepper-diamond-ring): Shop for salt & pepper diamond rings online in the USA are affordable prices at Ibiz Jewels. Explore a huge variety of salt & pepper diamond rings online.
-  Updated: 2025-11-03T10:48:02Z
+  Updated: 2025-12-31T10:13:37Z
   Total Products: 155
 - [IBIZ Special](https://ibizjewel.com/collections/ibiz-special)
   Updated: 2025-10-02T10:30:37Z
@@ -44455,7 +44455,7 @@
   Updated: 2025-10-02T10:30:37Z
   Total Products: 42
 - [Natural Salt And Pepper Pear Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-pear-diamond-ring)
-  Updated: 2025-11-03T09:11:41Z
+  Updated: 2025-12-31T10:14:06Z
   Total Products: 38
 - [Natural Salt And Pepper Round Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-round-diamond-ring)
   Updated: 2025-10-02T10:30:37Z
@@ -44470,7 +44470,7 @@
   Updated: 2025-10-02T10:30:37Z
   Total Products: 5
 - [Shop the Best Selling Diamond Jewelry -  Buy it online in USA](https://ibizjewel.com/collections/best-selling): Explore our best-selling diamond jewelry collection. From classic rings to stunning necklaces, each piece blends exceptional craftsmanship and timeless elegance. Find your perfect sparkle today!
-  Updated: 2025-11-03T10:48:02Z
+  Updated: 2025-12-31T10:13:37Z
   Total Products: 122
 - [Lab Grown Emerald Diamond Ring](https://ibizjewel.com/collections/lab-grown-emerald-diamond-ring)
   Updated: 2025-10-02T10:30:37Z
@@ -44508,6 +44508,21 @@
 - [Moissanite Asscher Diamond Ring](https://ibizjewel.com/collections/moissanite-asscher-diamond-ring)
   Updated: 2025-10-02T10:30:37Z
   Total Products: 18
+- [Engagement Rings](https://ibizjewel.com/collections/engagement-rings)
+  Updated: 2025-12-31T05:37:10Z
+  Total Products: 207
+- [Earrings](https://ibizjewel.com/collections/earrings)
+  Updated: 2025-12-31T05:25:19Z
+  Total Products: 43
+- [Necklaces](https://ibizjewel.com/collections/necklaces)
+  Updated: 2025-12-31T05:36:51Z
+  Total Products: 47
+- [Natural Salt And Pepper Jewelry](https://ibizjewel.com/collections/natural-salt-and-pepper-jewelry)
+  Updated: 2025-12-31T10:13:37Z
+  Total Products: 194
+- [Moissanite Jewelry](https://ibizjewel.com/collections/moissanite-jewelry)
+  Updated: 2025-12-31T07:06:49Z
+  Total Products: 382
 
 ## Blogs
 
