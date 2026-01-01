@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2025-12-31T00:00:27.044Z
+- Updated At: 2026-01-01T00:00:28.131Z
 
 ## Products
 
@@ -264,6 +264,9 @@
     Author: Nat 20 Custom Laser Crafts
   - [Unlocking Your Creativity with Custom Jewelry Design How to Get Started](https://nat20lasercrafts.com/blogs/news/unlocking-your-creativity-with-custom-jewelry-design-how-to-get-started): Unlocking Your Creativity with Custom Jewelry Design How to Get Started
     Updated: 2025-12-29T03:04:49Z
+    Author: Nat 20 Custom Laser Crafts
+  - [D&D Condition Rings to Streamline Your Tabletop Gaming Experience](https://nat20lasercrafts.com/blogs/news/d-d-condition-rings-to-streamline-your-tabletop-gaming-experience): D&D Condition Rings to Streamline Your Tabletop Gaming Experience
+    Updated: 2025-12-31T02:38:45Z
     Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
