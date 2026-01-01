@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-12-31T00:00:46.069Z
+- Updated At: 2026-01-01T00:00:45.853Z
 
 ## Products
 
@@ -14399,7 +14399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1764176381
     Price: €119.99 EUR
 - [Tech Fleece Windrunner Zip Hoodie](https://mldrip.com/products/sport-style-full-zip-hoodie-tech-fleece-windrunner-design): Sport Performance Meets Street StyleElevate your athletic wardrobe with the Tech Fleece Windrunner Zip Hoodie - a sport-inspired piece that brings Nike-style innovation to everyday wear. This full-zip hoodie features the iconic windrunner design with modern tech fleece fabric for lightweight warmth and premium comfort.Performance Features: Tech fleece fabric - Lightweight warmth without bulk Full-zip design - Easy on/off and versatile styling Windrunner chevron pattern - Iconic athletic aesthetic Moisture-wicking technology - Keeps you dry during activity Zippered pockets - Secure storage for essentials Streamlined fit - Modern athletic silhouette Athletic Innovation:This hoodie represents the perfect marriage of sport and street. The tech fleece construction provides genuine warmth while staying incredibly lightweight, making it ideal for layering or wearing solo. The windrunner design adds that classic athletic look that never goes out of style. Whether you're hitting the gym, going for a run, or just want that sporty aesthetic for everyday wear, this hoodie delivers performance and style in equal measure.Perfect for: Athletes, fitness enthusiasts, and anyone who appreciates sport-inspired streetwear with real performance benefits.
-  Updated: 2025-12-30T21:58:14Z
+  Updated: 2025-12-31T09:58:21Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
