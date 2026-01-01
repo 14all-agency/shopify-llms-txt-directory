@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-01T04:00:35.111Z
+- Updated At: 2026-01-01T08:00:35.979Z
 
 ## Products
 
@@ -7923,7 +7923,7 @@
     Availability: Available
     Price: $500.00 USD
 - [3-Wick Coffee Shop Candle](https://affinatiliving.com/products/3-wick-coffee-shop-candle): Bring café comfort home with our Coffee Shop 3-Wick Candle. Fresh brewed coffee, warm woods, and amber in a clean-burning soy wax blend.
-  Updated: 2025-12-31T17:49:50Z
+  Updated: 2026-01-01T05:38:31Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7938,7 +7938,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Almond Biscotti Candle](https://affinatiliving.com/products/3-wick-almond-biscotti-candle-1): Fill your home with warm bakery-inspired comfort. The Almond Biscotti 3-Wick Candle features toasted almond, vanilla, and soft musk for a rich, cozy atmosphere.
-  Updated: 2025-12-31T17:48:47Z
+  Updated: 2026-01-01T05:43:58Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7953,7 +7953,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Citrus Basil Candle](https://affinatiliving.com/products/3-wick-citrus-basil-candle): The Citrus Basil 3-Wick Candle blends sparkling citrus and fresh basil for a crisp, modern fragrance that feels bright, refined, and effortlessly inviting.
-  Updated: 2025-12-31T18:17:49Z
+  Updated: 2026-01-01T05:59:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7968,7 +7968,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Balsam & Fir Candle](https://affinatiliving.com/products/3-wick-balsam-fir-candle): Fill your home with fresh balsam and fir. This 3-wick candle blends evergreen woods and soft musk for a clean, comforting scent.
-  Updated: 2025-12-31T18:06:55Z
+  Updated: 2026-01-01T06:06:58Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
