@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-31T20:00:39.254Z
+- Updated At: 2026-01-01T00:00:56.466Z
 
 ## Products
 
 - [Baker Brand Logo White Skateboard Deck](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red): Buy the Baker Brand Logo Skateboard Deck in white at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-31T14:06:32Z
+  Updated: 2025-12-31T23:37:06Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: £79.95 GBP
   - [8.25"](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red?variant=49034748330319)
-    Availability: Available
+    Availability: Not Available
     Price: £79.95 GBP
   - [8.5"](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red?variant=48311474487631)
     Availability: Available
@@ -2407,27 +2407,6 @@
   - [36W](https://thevinessupply.co/products/1990s-og-baggy-jeans-light-blue-wash?variant=54795093606735)
     Availability: Available
     Price: £49.95 GBP
-- [DC Shoes Lucien Skate Shoes | Brown & Tan](https://thevinessupply.co/products/dc-lucien-skate-shoes-brown-tan): Buy the DC Lucien Skate Shoes in Brown & Tan at The Vines. With fast, premium delivery & easy returns.
-  Updated: 2025-10-31T12:00:08Z
-  Vendor: DC Shoes
-  Product Type: Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dc-shoes-shoes-dc-lucien-skate-shoes-brown-tan-1183715531.png?v=1757177779
-  - [UK 7](https://thevinessupply.co/products/dc-lucien-skate-shoes-brown-tan?variant=54811126169935)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 7.5](https://thevinessupply.co/products/dc-lucien-skate-shoes-brown-tan?variant=54811126202703)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 8](https://thevinessupply.co/products/dc-lucien-skate-shoes-brown-tan?variant=54804613955919)
-    Availability: Available
-    Price: £59.95 GBP
-  - [UK 8.5](https://thevinessupply.co/products/dc-lucien-skate-shoes-brown-tan?variant=54804614021455)
-    Availability: Not Available
-    Price: £59.95 GBP
-  - [UK 9](https://thevinessupply.co/products/dc-lucien-skate-shoes-brown-tan?variant=54804613988687)
-    Availability: Not Available
-    Price: £59.95 GBP
 - [Butter Goods Climber Shorts | Army Green](https://thevinessupply.co/products/butter-goods-climber-shorts-army-green): Buy the Butter Goods Climber Shorts in army green at The Vines Skate Shop. With best price and satisfaction guarantee. Available with fast, free delivery.
   Updated: 2025-12-18T17:49:42Z
   Vendor: Butter Goods
@@ -6262,7 +6241,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/loosey-belts-belts-loosey-premium-buckle-belt-brown-1210912550.jpg?v=1765475046
   Price: £59.95 GBP
 - [Baker Jacopo Chrome Zone Twin Tail Skateboard Deck | 8.38"](https://thevinessupply.co/products/baker-jacopo-chrome-zone-skateboard-deck-twin-tail-8-38): Buy the Baker Jacopo Chrome Zone Skateboard Deck twin tail in 8.38" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T13:28:23Z
+  Updated: 2025-12-31T23:39:22Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -6359,7 +6338,7 @@
     Availability: Available
     Price: £119.95 GBP
 - [Baker Theotis Fly Skateboard Deck | 8.25"](https://thevinessupply.co/products/baker-theotis-fly-skateboard-deck-8-25): Buy the Baker Theotis Fly Skateboard Deck twin tail in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-31T18:14:47Z
+  Updated: 2025-12-31T23:52:39Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -6579,8 +6558,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-12-31T12:17:03Z
-  Total Products: 137
+  Updated: 2025-12-31T22:23:10Z
+  Total Products: 136
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-31T12:17:03Z
   Total Products: 386
@@ -6870,8 +6849,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-31T14:32:20Z
-  Total Products: 3222
+  Updated: 2025-12-31T22:23:11Z
+  Total Products: 3221
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-30T12:17:51Z
   Total Products: 110
@@ -6912,8 +6891,8 @@
   Updated: 2025-12-30T12:17:51Z
   Total Products: 25
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-29T14:28:21Z
-  Total Products: 21
+  Updated: 2025-12-31T22:23:11Z
+  Total Products: 20
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-30T12:17:51Z
   Total Products: 19
