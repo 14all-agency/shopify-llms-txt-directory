@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-01T18:04:35Z
 - Contact Email: novus.atelier00@gmail.com
-- Updated At: 2025-12-30T13:46:19.941Z
+- Updated At: 2026-01-01T12:05:00.365Z
 
 ## Products
 
@@ -432,6 +432,66 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/8345637606.jpg?v=1766163136
   Price: ₹451.00 INR
+- [Female Cropped Hoodie](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1): Fabric: 100% cotton, 320 GSM – thick, soft, and warm with a premium feel perfect for cooler days.Fit: Cropped silhouette – modern, relaxed, and designed to elevate your everyday look.Details: Finished with Derby rib hem and cuffs for a structured fit that holds its shape and adds that extra edge.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-31T05:07:44Z
+  Vendor: Novus Atelier 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_25.jpg?v=1767113938
+  - [Maroon / S](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639700201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_25.jpg?v=1767113938
+    Price: ₹2,499.00 INR
+  - [Maroon / M](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639732969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_25.jpg?v=1767113938
+    Price: ₹2,499.00 INR
+  - [Maroon / L](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639765737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_25.jpg?v=1767113938
+    Price: ₹2,499.00 INR
+  - [Maroon / XL](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639798505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_25.jpg?v=1767113938
+    Price: ₹2,499.00 INR
+  - [Light Baby Pink / S](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639831273)
+    Availability: Available
+    Price: ₹2,499.00 INR
+  - [Light Baby Pink / M](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639864041)
+    Availability: Available
+    Price: ₹2,499.00 INR
+  - [Light Baby Pink / L](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639896809)
+    Availability: Available
+    Price: ₹2,499.00 INR
+  - [Light Baby Pink / XL](https://novusatelier-clothing.myshopify.com/products/female-cropped-hoodie-1?variant=49970639929577)
+    Availability: Available
+    Price: ₹2,499.00 INR
+- [Unisex Acid Washed Hoodie](https://novusatelier-clothing.myshopify.com/products/unisex-acid-washed-hoodie): Fabric: 100% cotton with 300 GSM heavyweight coziness with a lived-in acid wash finish.Fit: Oversized silhouette – dropped shoulders, roomy hood, and extended sleeves for streetwear appeal.Design: Unique acid wash effect – each piece has subtle variations for a one-of-a-kind look.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-31T04:59:05Z
+  Vendor: Novus Atelier 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_2_08ca980f-b151-44ca-881d-321d6c90932c.jpg?v=1767113939
+  - [Black / S](https://novusatelier-clothing.myshopify.com/products/unisex-acid-washed-hoodie?variant=49970639962345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_2_08ca980f-b151-44ca-881d-321d6c90932c.jpg?v=1767113939
+    Price: ₹2,199.00 INR
+  - [Black / M](https://novusatelier-clothing.myshopify.com/products/unisex-acid-washed-hoodie?variant=49970639995113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_2_08ca980f-b151-44ca-881d-321d6c90932c.jpg?v=1767113939
+    Price: ₹2,199.00 INR
+  - [Black / L](https://novusatelier-clothing.myshopify.com/products/unisex-acid-washed-hoodie?variant=49970640027881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_2_08ca980f-b151-44ca-881d-321d6c90932c.jpg?v=1767113939
+    Price: ₹2,199.00 INR
+  - [Black / XL](https://novusatelier-clothing.myshopify.com/products/unisex-acid-washed-hoodie?variant=49970640060649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_2_08ca980f-b151-44ca-881d-321d6c90932c.jpg?v=1767113939
+    Price: ₹2,199.00 INR
+  - [Black / XXL](https://novusatelier-clothing.myshopify.com/products/unisex-acid-washed-hoodie?variant=49970640093417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0780/7690/3657/files/Front_1_c_2_08ca980f-b151-44ca-881d-321d6c90932c.jpg?v=1767113939
+    Price: ₹2,199.00 INR
 
 ## Collections
 
@@ -445,11 +505,11 @@
   Updated: 2025-12-29T11:17:55Z
   Total Products: 11
 - [NOVUS Winter Collection](https://novusatelier-clothing.myshopify.com/collections/novus-winter-collection)
-  Updated: 2025-12-29T11:17:55Z
-  Total Products: 2
-- [Other example products](https://novusatelier-clothing.myshopify.com/collections/other-example-products)
-  Updated: 2025-12-25T08:05:07Z
+  Updated: 2025-12-30T17:03:24Z
   Total Products: 4
+- [Other example products](https://novusatelier-clothing.myshopify.com/collections/other-example-products)
+  Updated: 2025-12-30T16:59:44Z
+  Total Products: 0
 
 ## Blogs
 
@@ -458,6 +518,10 @@
     Updated: 2025-12-30T13:36:52Z
     Author: Novusk
     Tags: 2025 design, contemporary trends, fashion, future fashion predictions, innovative style ideas, modern style, style, trends
+  - [5 Essential Tips for Mastering Your Personal Style](https://novusatelier-clothing.myshopify.com/blogs/news/5-essential-tips-for-mastering-your-personal-style): 5 Essential Tips for Mastering Your Personal Style
+    Updated: 2025-12-31T10:10:26Z
+    Author: Novusk
+    Tags: elegance, fashion, how to style outfits, mastering personal style, outfit inspiration, personal style tips, style, wardrobe essentials
 
 ## Store Pages
 
