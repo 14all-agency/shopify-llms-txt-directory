@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-28T00:00:47.506Z
+- Updated At: 2026-01-01T00:00:48.597Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -734,13 +734,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_2ea3d2e8-c2dc-4951-94f9-9749e98b48ae.jpg?v=1748017559
   Price: 229,00 € EUR
-- [HMS Sestetto MK III HighEnd HiFi XLR Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/hms-sestetto-mk-iii-highend-hifi-xlr-kabel-gebraucht-kaufen): HMS Sestetto MK III HighEnd HiFi XLR Kabel gebraucht kaufen ✅ Geprüfte Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-12-13T10:34:04Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_96954db5-4fa7-47d5-9978-2476b19426df.jpg?v=1748017122
-  Price: 316,00 € EUR
 - [Wilbrand Acoustics Lautsprecherkabel 8Si Silber Solid gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/wilbrand-acoustics-lautsprecherkabel-8si-silber-solid-gebraucht-kaufen): Wilbrand Acoustics Lautsprecherkabel 8Si Silber Solid gebraucht kaufen ✅ Hochwertige Lautsprecherkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:57Z
   Vendor: WorldWideHifi
@@ -2396,19 +2389,19 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-12-27T12:22:40Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 63
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-12-21T15:52:21Z
   Total Products: 5
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-26T13:29:53Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 101
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
-  Updated: 2025-12-25T12:08:24Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 19
 - [Vorverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/vorverstaerker-gebraucht-kaufen): Vorverstärker gebraucht kaufen ✓ Vorverstärker / gebrauchte Vorstufen im Top-Zustand! ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-12-26T12:54:25Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 33
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-12-26T12:58:38Z
@@ -2435,13 +2428,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-12-26T12:56:41Z
   Total Products: 8
 - [HiFi Tuner gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/netzwerkplayer-gebraucht-kaufen): HiFi Tuner gebraucht kaufen ✓ Netzwerkplayer, HiFi-Tuner, HiFi-Streamer & mehr im Top-Zustand ✓ Weltweit sicherer Versand ✓ Preiswertes High-End HiFi bestellen
-  Updated: 2025-12-26T13:31:47Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 15
 - [HiFi Möbel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-moebel-gebraucht-kaufen): HiFi Möbel gebraucht kaufen ✓ Gebrauchte HiFi Möbel & HiFi Racks im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-12-26T12:56:39Z
   Total Products: 4
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-27T12:22:40Z
+  Updated: 2025-12-30T12:23:17Z
   Total Products: 184
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-12-26T12:48:06Z
@@ -2453,17 +2446,17 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-12-26T12:58:39Z
   Total Products: 4
 - [Leermedien online bestellen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/leermedien-online-bestellen): Leermedien online bestellen ✓ Schallplatten, Audiokassetten, Tonbänder & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
-  Updated: 2025-12-26T13:24:54Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 1
 - [Gebrauchtes HiFi Zubehör & HiFi Komponenten kaufen - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchtes-hifi-zubehoer-kaufen): Gebrauchtes HiFi Zubehör ✓ HiFi Komponenten & HiFi Zubehör im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-26T13:24:54Z
+  Updated: 2025-12-28T12:21:20Z
   Total Products: 5
 - [Vorgestellte Produkte](https://worldwidehifi.shop/collections/featured)
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-12-27T23:26:16Z
-  Total Products: 165
+  Updated: 2025-12-30T12:23:17Z
+  Total Products: 166
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-12-21T15:41:01Z
   Total Products: 26
