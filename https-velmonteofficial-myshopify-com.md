@@ -1,12 +1,7 @@
 # Velmonte (https://velmonteofficial.myshopify.com)
 
-- Domain: https://velmonteofficial.myshopify.com
-- Locale: en
-- Currency: ILS
-- Timezone: Asia/Jerusalem
-- Created At: 2025-12-08T19:24:23Z
 - Contact Email: velmonte.store@gmail.com
-- Updated At: 2026-01-01T21:21:03.885Z
+- Updated At: 2026-01-01T21:21:55.345Z
 
 ## Products
 
