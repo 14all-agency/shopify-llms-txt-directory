@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Amsterdam
 - Created At: 2025-12-26T21:30:07Z
-- Updated At: 2025-12-31T00:00:20.552Z
+- Updated At: 2026-01-01T00:00:21.130Z
 
 ## Products
 
@@ -167,7 +167,7 @@
 ## Collections
 
 - [Homepage](https://vendorkingofficial.myshopify.com/collections/frontpage)
-  Updated: 2025-12-30T13:29:09Z
+  Updated: 2025-12-31T12:38:14Z
   Total Products: 1
 
 ## Blogs
