@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-02T08:00:35.763Z
+- Updated At: 2026-01-02T12:00:35.797Z
 
 ## Products
 
@@ -5266,14 +5266,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1834E22B-6B69-4FC7-B218-4ECCA4C06081.png?v=1762303491
   Price: $22.95 USD
 - [Pumpkin Spice Latte Reed Diffuser](https://affinatiliving.com/products/pumpkin-spice-latte-reed-diffuser): Cozy up with creamy pumpkin, espresso, and warm spice. A rich fall diffuser that captures the essence of your favorite latte.
-  Updated: 2026-01-01T22:02:17Z
+  Updated: 2026-01-02T10:00:34Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/A196DB21-B062-4449-BDE3-9B8C85ABFEBD.png?v=1767304936
   Price: $22.95 USD
 - [Fresh Cut Grass Reed Diffuser](https://affinatiliving.com/products/fresh-cut-grass-reed-diffuser): Bring the outdoors in with the crisp scent of freshly cut grass. A green, uplifting diffuser that feels clean and refreshing.
-  Updated: 2026-01-01T22:00:08Z
+  Updated: 2026-01-02T10:00:12Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5287,14 +5287,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/74C28DEF-5928-4113-B2A9-412BDCD0CB15.png?v=1767273606
   Price: $22.95 USD
 - [Himalayan Bamboo Reed Diffuser](https://affinatiliving.com/products/himalayan-bamboo-reed-diffuser): Refresh your home with clean bamboo and soft musk. A soothing, spa-like diffuser that brings balance and natural tranquility.
-  Updated: 2026-01-01T21:58:43Z
+  Updated: 2026-01-02T09:58:44Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5AB8C976-EACA-47CD-B828-4A697D501318.png?v=1767304722
   Price: $22.95 USD
 - [Butterscotch & Bourbon Reed Diffuser](https://affinatiliving.com/products/butterscotch-bourbon-reed-diffuser): Indulge in sweet butterscotch and aged bourbon. A bold, luxurious diffuser that adds warmth and sophistication to any room.
-  Updated: 2026-01-01T21:57:41Z
+  Updated: 2026-01-02T09:57:43Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
