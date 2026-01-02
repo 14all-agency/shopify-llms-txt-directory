@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-01T20:00:37.708Z
+- Updated At: 2026-01-02T00:00:54.744Z
 
 ## Products
 
@@ -5266,18 +5266,18 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1834E22B-6B69-4FC7-B218-4ECCA4C06081.png?v=1762303491
   Price: $22.95 USD
 - [Pumpkin Spice Latte Reed Diffuser](https://affinatiliving.com/products/pumpkin-spice-latte-reed-diffuser): Cozy up with creamy pumpkin, espresso, and warm spice. A rich fall diffuser that captures the essence of your favorite latte.
-  Updated: 2026-01-01T12:21:03Z
+  Updated: 2026-01-01T22:02:17Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E1FF6945-DD5C-4AD7-9B31-EB8FF8C04B8D.png?v=1762303632
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/A196DB21-B062-4449-BDE3-9B8C85ABFEBD.png?v=1767304936
   Price: $22.95 USD
 - [Fresh Cut Grass Reed Diffuser](https://affinatiliving.com/products/fresh-cut-grass-reed-diffuser): Bring the outdoors in with the crisp scent of freshly cut grass. A green, uplifting diffuser that feels clean and refreshing.
-  Updated: 2026-01-01T12:21:03Z
+  Updated: 2026-01-01T22:00:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E8E186E0-2BBD-47F7-9720-4C13D70A0F9B.png?v=1762303753
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E0DB22C7-C064-401A-9C00-A495D54E2429.png?v=1767304807
   Price: $22.95 USD
 - [Hawaiian Hibiscus Reed Diffuser](https://affinatiliving.com/products/hawaiian-hibiscus-reed-diffuser): Escape to paradise with tropical hibiscus and jasmine. A bright, floral diffuser that fills your space with island serenity.
   Updated: 2026-01-01T13:20:08Z
@@ -5287,18 +5287,18 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/74C28DEF-5928-4113-B2A9-412BDCD0CB15.png?v=1767273606
   Price: $22.95 USD
 - [Himalayan Bamboo Reed Diffuser](https://affinatiliving.com/products/himalayan-bamboo-reed-diffuser): Refresh your home with clean bamboo and soft musk. A soothing, spa-like diffuser that brings balance and natural tranquility.
-  Updated: 2026-01-01T12:21:02Z
+  Updated: 2026-01-01T21:58:43Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E1F795C4-DFC1-448E-BBB9-7F1AEE13457B.png?v=1762304081
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5AB8C976-EACA-47CD-B828-4A697D501318.png?v=1767304722
   Price: $22.95 USD
 - [Butterscotch & Bourbon Reed Diffuser](https://affinatiliving.com/products/butterscotch-bourbon-reed-diffuser): Indulge in sweet butterscotch and aged bourbon. A bold, luxurious diffuser that adds warmth and sophistication to any room.
-  Updated: 2026-01-01T12:21:02Z
+  Updated: 2026-01-01T21:57:41Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/C17E162B-EC6C-4423-B3D7-DC1DCFE091E9_1337ccc1-b05c-4af4-9577-abd352b7b903.png?v=1762304111
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E612C4F5-4C0C-4E70-BEE7-39751D9F2F24.png?v=1767304659
   Price: $22.95 USD
 - [3-Wick Strawberry Shortcake Candle](https://affinatiliving.com/products/3-wick-strawberry-shortcake-candle): Indulge in the sweet aroma of our Strawberry Shortcake 3-Wick Candle. Hand-poured with a premium soy wax blend, it fills your home with notes of ripe strawberries, vanilla cake, and whipped cream for a cozy, bakery-fresh scent that lasts.
   Updated: 2025-12-30T21:05:03Z
