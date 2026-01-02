@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2026-01-01T00:01:04.101Z
+- Updated At: 2026-01-02T00:01:06.088Z
 
 ## Products
 
@@ -1909,7 +1909,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-bracelet-diamond-wristwear.webp?v=1736043334
   Price: $74.95 USD
 - [Cozy Thick Bottom Fur Trim Slippers for Winter](https://ursupermart.com/products/weeboo-thick-bottom-fur-trim-snow-slippers-1): Discover ultimate comfort with our Thick Bottom Fur Trim Snow Slippers. Perfect for lounging or errands, these stylish slippers keep your feet warm.
-  Updated: 2025-12-29T05:43:34Z
+  Updated: 2026-01-01T02:00:15Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Slippers
   Availability: Available
@@ -29473,7 +29473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-snowflake-necklace-earring-set-silver-crystal.webp?v=1764718671
     Price: $14.95 USD
 - [Women's Trench Coat Flattering Warm Wool Blend](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style): Our women's trench coat offers versatile style, warmth, and a flattering silhouette for any occasion, boosting your confidence. Get yours today!
-  Updated: 2025-12-29T17:44:11Z
+  Updated: 2026-01-01T21:26:55Z
   Vendor: S1B|S1|CJ
   Product Type: Women's trench coat
   Availability: Available
@@ -29764,7 +29764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-burgundy.webp?v=1764803244
     Price: $47.95 USD
 - [Faux Fur Vest Women - Stylish & Warm Sleeveless Design](https://ursupermart.com/products/faux-fur-vest-women-stylish-warm-sleeveless-design-for-autumn): Faux fur vest women: Elevate your style with luxurious warmth, a sleek sleeveless design, and chic leather-like trim. Discover yours today!
-  Updated: 2025-12-29T17:45:36Z
+  Updated: 2026-01-01T10:27:02Z
   Vendor: S1B|S1|CJ
   Product Type: Faux fur vest
   Availability: Available
@@ -31889,7 +31889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-soft-peach-fitted-look.webp?v=1764261135
     Price: $34.95 USD
 - [Men's Biodegradable Coat Lightweight Wrinkle-Free Style](https://ursupermart.com/products/mens-biodegradable-coat-lightweight-wrinkle-free-style-for-men): Men's biodegradable coat offers a slim-fit, wrinkle-resistant style for a sharp, eco-conscious look. Discover your perfect sustainable overcoat today!
-  Updated: 2025-12-29T17:50:05Z
+  Updated: 2026-01-01T03:26:36Z
   Vendor: S1B|S1|CJ
   Product Type: Men's overcoat
   Availability: Available
@@ -32821,7 +32821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-parka-coat-red-fur-hood.webp?v=1763267005
     Price: $84.95 USD
 - [Phone Stand - Foldable & Portable for Hands-Free Viewing](https://ursupermart.com/products/phone-stand-foldable-portable-for-hands-free-viewing): This phone stand offers hands-free viewing for any device, folding flat for easy portability. Enjoy comfortable videos and calls anywhere; grab yours for ultimate convenience!
-  Updated: 2025-12-29T17:51:04Z
+  Updated: 2026-01-01T08:28:10Z
   Vendor: S1B|S1|CJ
   Product Type: Phone Stand
   Availability: Available
@@ -33034,7 +33034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-faux-fur-jacket-pink-relaxed.webp?v=1763247881
     Price: $42.95 USD
 - [Winter Jacket for Women - Warm & Stylish Parka](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka): Winter jacket for women: stay warm and stylish with this cozy parka featuring a faux fur hood and secure pockets. Shop now for ultimate comfort!
-  Updated: 2025-12-29T17:51:43Z
+  Updated: 2026-01-01T07:27:56Z
   Vendor: S1B|S1|CJ
   Product Type: winter parka
   Availability: Available
@@ -33490,7 +33490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
     Price: $94.95 USD
 - [Arthritis Gloves Copper for Hand Pain Relief & Swelling](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling): Arthritis gloves provide soothing warmth and compression for hand pain, swelling, and stiffness. Regain comfort and tackle daily tasks with ease—shop now!
-  Updated: 2025-12-29T17:52:14Z
+  Updated: 2026-01-01T08:28:10Z
   Vendor: S1B|S1|CJ
   Product Type: Arthritis gloves
   Availability: Available
