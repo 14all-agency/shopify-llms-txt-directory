@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-02T16:00:37.044Z
+- Updated At: 2026-01-02T20:00:37.536Z
 
 ## Products
 
@@ -3732,27 +3732,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-caps-dime-mtl-heritage-low-cap-black-contrast-1192361431.png?v=1757605929
   Price: £34.95 GBP
-- [Butter Goods Scribble Denim Jeans | Washed Black](https://thevinessupply.co/products/butter-goods-scribble-denim-jeans-washed-black): Buy the Butter Goods Scribble Denim Jeans in Washed Black at The Vines, with premium, fast delivery & easy 90 day returns.
-  Updated: 2025-11-23T20:52:12Z
-  Vendor: Butter Goods
-  Product Type: Jeans
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/butter-goods-jeans-butter-goods-scribble-denim-jeans-washed-black-1192379947.png?v=1757613378
-  - [28W](https://thevinessupply.co/products/butter-goods-scribble-denim-jeans-washed-black?variant=55919406809423)
-    Availability: Not Available
-    Price: £99.95 GBP
-  - [30W](https://thevinessupply.co/products/butter-goods-scribble-denim-jeans-washed-black?variant=55919406842191)
-    Availability: Not Available
-    Price: £99.95 GBP
-  - [32W](https://thevinessupply.co/products/butter-goods-scribble-denim-jeans-washed-black?variant=55919406874959)
-    Availability: Not Available
-    Price: £99.95 GBP
-  - [34W](https://thevinessupply.co/products/butter-goods-scribble-denim-jeans-washed-black?variant=55919406907727)
-    Availability: Not Available
-    Price: £99.95 GBP
-  - [36W](https://thevinessupply.co/products/butter-goods-scribble-denim-jeans-washed-black?variant=55919406940495)
-    Availability: Available
-    Price: £99.95 GBP
 - [Butter Goods Express Side Bag | Black](https://thevinessupply.co/products/butter-goods-express-side-bag-black): Buy the Butter Goods Express Side Bag in black at The Vines Skate Shop in Solihull. With fast, free delivery and easy, 90 day returns.
   Updated: 2025-12-06T15:04:36Z
   Vendor: Butter Goods
@@ -4857,38 +4836,38 @@
     Availability: Not Available
     Price: £64.95 GBP
 - [Adidas Skateboarding Puig Indoor Skate Shoes | Shadow Olive & Off White](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white): Buy the Adidas Skateboarding Puig Indoor Skate Shoes in Shadow Olive & Off White at The Vines. Get fast, free delivery and easy 90 day returns.
-  Updated: 2025-12-16T07:36:11Z
+  Updated: 2026-01-02T16:53:25Z
   Vendor: Adidas Skateboarding
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/adidas-skateboarding-shoes-adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white-1193896279.png?v=1758448333
   - [UK 7](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981240385871)
     Availability: Not Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 7.5](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981245563215)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 8](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981240418639)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 8.5](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981245595983)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 9](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981240451407)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 9.5](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981245628751)
     Availability: Not Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 10](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981240484175)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 10.5](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981245661519)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
   - [UK 11](https://thevinessupply.co/products/adidas-skateboarding-puig-indoor-skate-shoes-shadow-olive-off-white?variant=55981240516943)
     Availability: Available
-    Price: £64.95 GBP
+    Price: £59.95 GBP
 - [Pass~Port Glyph T-Shirt | Acid Black](https://thevinessupply.co/products/pass-port-glyph-t-shirt-acid-black): Buy the Pass~Port Glyph T-Shirt in Acid Black at The Vines, With Fast, Premium Delivery & Easy Returns.
   Updated: 2026-01-02T15:37:40Z
   Vendor: Pass~Port
@@ -6489,13 +6468,13 @@
   Updated: 2025-12-25T13:50:28Z
   Total Products: 56
 - [Adidas Skateboarding | Adidas Skate Shoes | The Vines](https://thevinessupply.co/collections/adidas-skateboarding): Shop the latest Adidas Skate shoes and apparel at The Vines Supply Co. Find high-performance footwear and stylish skate wear by Adidas Skateboarding. Fast, free shipping at www.thevinessupply.co
-  Updated: 2025-12-29T12:11:47Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 64
 - [Royal Trucks](https://thevinessupply.co/collections/royal-trucks): Royal Trucks was founded in 1997 by Rudy Johnson and Guy Mariano under the umbrella of Girl Skateboards. With a huge range or trucks, tools, set up kits, bearings, t-shirts and hats, shop Royal at the Vines.
   Updated: 2025-11-22T12:21:05Z
   Total Products: 5
 - [Skate Shoes and Insoles | Skate Footwear | The Vines](https://thevinessupply.co/collections/skateboard-footwear-skate-shoes-insoles): Shop Skate Footwear at The Vines - Skate Shoes, and Insoles - with fast, premium delivery & easy returns within 90 days
-  Updated: 2026-01-02T12:15:07Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 318
 - [Thrasher | The Vines](https://thevinessupply.co/collections/thrasher): Buy Thrasher at The Vines. Thrasher magazine is the world's longest running skate periodical and since its inception it has turned into a well respected skateboarding mecca. Shop Thrasher t-shirts, hoodies, jackets and caps at The Vines and show your Thrasher Skate Mag allegiance.
   Updated: 2025-05-08T18:45:26Z
@@ -6519,7 +6498,7 @@
   Updated: 2025-10-18T12:27:57Z
   Total Products: 16
 - [Skate Shoes | The Vines](https://thevinessupply.co/collections/skate-shoes): Shop Skateboarding Shoes at The Vines. Skate shoes from your favourite brands such as Vans, Adidas Skateboarding, New Balance and Last Resort AB. Buy Skate Shoes now.
-  Updated: 2026-01-02T12:15:07Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 265
 - [Hélas | Helas | The Vines](https://thevinessupply.co/collections/helas): Shop Hélas Skate Clothing at The Vines. Shop Helas Caps with Fast, Premium Delivery & Easy Returns.
   Updated: 2026-01-02T12:15:07Z
@@ -6537,7 +6516,7 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2026-01-02T15:30:51Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 136
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-12-31T12:17:03Z
@@ -6564,7 +6543,7 @@
   Updated: 2026-01-02T12:15:07Z
   Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2026-01-02T15:30:03Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 5743
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-29T12:16:47Z
@@ -6741,7 +6720,7 @@
   Updated: 2025-05-30T10:51:58Z
   Total Products: 5
 - [Adidas Skate Shoes | The Vines](https://thevinessupply.co/collections/adidas-skate-shoes): Shop Adidas Skate Shoes at The Vines, featuring designs for peak performance. Shop the best from Adidas Skateboarding range, such as the innovative Busenitz and Tyshawn models.
-  Updated: 2025-12-29T12:11:47Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 37
 - [Vans Skate Shoes | Vans Skateboard Footwear | The Vines](https://thevinessupply.co/collections/vans-skate-shoes): Shop our range of Vans Skate Shoes at The Vines. Browse Vans' latest styles and classics for your next shoe, whether you're looking for a skate shoe for the skatepark or a casual shoe for the pub, we've got you covered.
   Updated: 2025-10-15T09:48:47Z
@@ -6828,7 +6807,7 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2026-01-02T15:30:03Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 3218
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-30T12:17:51Z
@@ -6867,19 +6846,19 @@
   Updated: 2025-12-30T12:17:51Z
   Total Products: 112
 - [UK 7 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-7-skate-shoes): Shop our curated selection of Skate Shoes in UK 7 at The VInes. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2026-01-02T12:15:07Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 25
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2026-01-02T12:15:07Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 20
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2026-01-02T12:15:07Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 19
 - [UK 10 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-10-skate-shoes): Shop our curated selection of Skate Shoes. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-29T12:16:47Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 11
 - [UK 11 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-11-skate-shoes): Shop our curated selection of Skate Shoes at The Vines. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-30T12:17:51Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 11
 - [Mob Griptape | Skateboard Griptape | The Vines](https://thevinessupply.co/collections/mob-griptape): Grab a fresh sheet of MOB Griptape at The Vines, ready for a freshie or a regrip if you're skateboard deck has been through the wars.
   Updated: 2025-12-30T12:17:51Z
@@ -7107,7 +7086,7 @@
   Updated: 2026-01-01T12:11:25Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2026-01-02T15:30:03Z
+  Updated: 2026-01-02T16:53:26Z
   Total Products: 3119
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-12-29T12:16:47Z
