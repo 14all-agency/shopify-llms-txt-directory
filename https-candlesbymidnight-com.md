@@ -5,7 +5,7 @@
 - Currency: INR
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-17T09:43:32Z
-- Updated At: 2025-12-31T00:00:22.724Z
+- Updated At: 2026-01-02T00:00:25.118Z
 
 ## Products
 
@@ -307,7 +307,7 @@ It’s the in-between where everything feels light again.
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/lotus-tea-light-candle-pack-of-8-7990442.jpg?v=1760094212
   Price: ₹299.00 INR
 - [Lotus Candle (Pack of 2)](https://candlesbymidnight.com/products/lotus-candle-pack-of-2): Lotus Candle—lavender, rose & mogra in a calm, elegant blend. For quiet warriors whose strength blooms softly and gracefully in every storm.
-  Updated: 2025-12-12T06:35:06Z
+  Updated: 2025-12-31T05:45:00Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -356,7 +356,7 @@ It’s the in-between where everything feels light again.
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/bubble-tray-2554302.jpg?v=1756717944
   Price: ₹199.00 INR
 - [Lotus Urli Candle](https://candlesbymidnight.com/products/lotus-urli-candle): Lotus Pond Candle—lavender, rose & mogra in a calm, elegant blend. For quiet warriors whose strength blooms softly and gracefully in every storm.
-  Updated: 2025-12-12T06:32:20Z
+  Updated: 2025-12-31T05:45:04Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -520,10 +520,10 @@ It’s the in-between where everything feels light again.
 ## Collections
 
 - [Home page](https://candlesbymidnight.com/collections/frontpage)
-  Updated: 2025-12-30T04:53:38Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 73
 - [AVADA - Best Sellers](https://candlesbymidnight.com/collections/avada-best-sellers)
-  Updated: 2025-12-30T04:53:38Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 77
 - [Jar Candles](https://candlesbymidnight.com/collections/jar-candles): Candles By Midnight’s refillable jar candles blend beauty and function. Elegant, reusable, and soothing—perfect for shelves, altars, or unwinding at day's end.
   Updated: 2025-12-30T04:53:38Z
@@ -532,28 +532,28 @@ It’s the in-between where everything feels light again.
   Updated: 2025-12-27T12:15:15Z
   Total Products: 25
 - [Floral Candles](https://candlesbymidnight.com/collections/floral-candles): Candles By Midnight’s floral candles evoke blooming gardens at golden hour—petal-rich scents for romantics, feelers, and souls who find beauty in stillness.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 31
 - [Aesthetic Candles](https://candlesbymidnight.com/collections/aesthetic-candles): Candles By Midnight’s aesthetic candles are sculptural pieces with soft curves, dreamy tones & elegant scents—designed to elevate and define any space.
-  Updated: 2025-12-30T04:53:38Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 44
 - [Gifts for Him](https://candlesbymidnight.com/collections/gifts-for-him): Candles By Midnight’s ultimate gift for him — a refillable dark stoneware candle with smoked cedar & leather. A grounding ritual for his quiet moments.
   Updated: 2025-12-30T04:53:38Z
   Total Products: 34
 - [Gifts for Her](https://candlesbymidnight.com/collections/gifts-for-her): Candles By Midnight’s perfect gift for her, a refillable ceramic candle with wild jasmine, rosewater & fig. A soothing bloom of beauty, calm, and comfort.
-  Updated: 2025-12-30T04:53:38Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 56
 - [Bestsellers](https://candlesbymidnight.com/collections/bestseller): Candles By Midnight’s bestselling soy candles feature soothing scents & elegant jars. Enjoy a clean, long-lasting burn perfect for gifting or home décor.
-  Updated: 2025-12-30T04:53:38Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 73
 - [Festival Collection](https://candlesbymidnight.com/collections/festival-collection): More than light — they’re a celebration.Perfect for brightening your home, gifting loved ones, or marking the moments that matter.
-  Updated: 2025-12-25T12:12:01Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 33
 - [Concrete Collection](https://candlesbymidnight.com/collections/concrete-collection): These concrete pieces hold texture, memory, and quiet strength in every curve — for the dreamers, the creators, the souls who find beauty in raw form and timeless simplicity.
   Updated: 2025-12-15T06:30:44Z
   Total Products: 4
 - [Ocean Collection Candles | Serene & Stylish Candle Designs](https://candlesbymidnight.com/collections/ocean-collection-candles): Explore our Ocean Collection of candles, perfect for adding a serene and stylish touch to any space. Shop now for unique and elegant candle designs.
-  Updated: 2025-12-30T04:53:38Z
+  Updated: 2025-12-31T12:16:45Z
   Total Products: 17
 
 ## Blogs
