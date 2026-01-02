@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-02T04:00:40.740Z
+- Updated At: 2026-01-02T08:00:37.987Z
 
 ## Products
 
@@ -2904,13 +2904,13 @@
     Availability: Not Available
     Price: £47.95 GBP
 - [Polar Skate Co 92! Jeans | Silver Black](https://thevinessupply.co/products/polar-skate-co-92-jeans-silver-black): Buy the Polar 92! Denim Jeans in Silver Black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-25T11:38:41Z
+  Updated: 2026-01-02T04:28:45Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-jeans-polar-skate-co-92-jeans-silver-black-1183714689.png?v=1757162764
   - [28W x 30L](https://thevinessupply.co/products/polar-skate-co-92-jeans-silver-black?variant=55375197471055)
-    Availability: Available
+    Availability: Not Available
     Price: £69.95 GBP
   - [28W x 32L](https://thevinessupply.co/products/polar-skate-co-92-jeans-silver-black?variant=55375197503823)
     Availability: Available
