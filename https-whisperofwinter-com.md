@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2026-01-01T00:00:32.074Z
+- Updated At: 2026-01-02T00:00:32.781Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
@@ -142,7 +142,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/white-ceramic-mug-with-color-inside-black-15-oz-front-69279fd36e098.jpg?v=1765750996
     Price: $24.99 USD
 - [Frostmark Rune – Embroidered Champion Packable Jacket](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket): Explore the Frostmark Rune – Embroidered Champion Packable Jacket for a winter aesthetic with Nordic inspired design. Perfect gift for fantasy lovers!
-  Updated: 2025-12-23T00:21:31Z
+  Updated: 2026-01-01T18:33:42Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
@@ -196,7 +196,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-royal-blue-front-6929d944b4981.jpg?v=1765750960
     Price: $84.99 USD
   - [Royal Blue / L](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540313140)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-royal-blue-front-6929d944b4981.jpg?v=1765750960
     Price: $84.99 USD
   - [Royal Blue / XL](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540345908)
