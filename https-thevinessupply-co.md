@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-02T08:00:37.987Z
+- Updated At: 2026-01-02T12:00:38.609Z
 
 ## Products
 
 - [Baker Brand Logo White Skateboard Deck](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red): Buy the Baker Brand Logo Skateboard Deck in white at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-31T23:37:06Z
+  Updated: 2026-01-02T10:45:18Z
   Vendor: Baker
   Product Type: Decks
   Availability: Available
@@ -26,7 +26,7 @@
     Availability: Not Available
     Price: £79.95 GBP
   - [8.5"](https://thevinessupply.co/products/baker-brand-logo-white-skateboard-deck-red?variant=48311474487631)
-    Availability: Available
+    Availability: Not Available
     Price: £79.95 GBP
 - [Gift Card](https://thevinessupply.co/products/gift-card): Shopping for someone else but not sure what to give them? Give them the gift of choice with a Gift Card for The Vines Supply Co.
   Updated: 2025-08-12T14:14:47Z
