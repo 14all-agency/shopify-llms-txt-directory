@@ -16,7 +16,7 @@ Frontals for complete coverage
 - Timezone: America/Chicago
 - Created At: 2025-12-11T16:47:37Z
 - Contact Email: info@wavychicbundles.com
-- Updated At: 2026-01-01T00:00:23.276Z
+- Updated At: 2026-01-02T00:00:26.525Z
 
 ## Products
 
@@ -121,7 +121,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $338.99 USD
 - [Body Wave Hair - 100% Virgin Human Hair Bundles](https://wavychicbundles.com/products/brazilian-body-wave): Explore our premium body wave hair bundles made from 100% virgin human hair for a wavy and chic look.
-  Updated: 2025-12-31T21:27:12Z
+  Updated: 2026-01-01T23:27:21Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $209.99 USD
 - [Body Wave Hair - 613 Blonde Body Wave Single Bundles Colored Hair](https://wavychicbundles.com/products/body-wave-hair-613-blonde-body-wave-single): Stunning 613 blonde colored hair bundles. Premium body wave hair with soft waves, 100% virgin human hair. Perfect platinum blonde body wave extensions.
-  Updated: 2025-12-31T17:27:06Z
+  Updated: 2026-01-01T17:25:46Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -229,7 +229,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $461.99 USD
 - [Kinky Straight Hair - 100% Virgin Human Hair Shop Now!](https://wavychicbundles.com/products/kinky-straight-hair100virginhumanhair): Discover our Kinky Straight Hair made from 100% virgin human hair. Perfect for a wavy and chic look that enhances your beauty.
-  Updated: 2025-12-31T01:26:56Z
+  Updated: 2026-01-01T18:27:08Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -360,7 +360,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $220.99 USD
 - [Body Wave Hair Bundles for Stylish Looks](https://wavychicbundles.com/products/brazilian-body-wave-bundle-deals): Shop our Brazilian body wave hair bundles for a chic and wavy style. Get three luxurious bundles for a trendy transformation today!
-  Updated: 2025-12-30T16:28:22Z
+  Updated: 2026-01-01T09:25:41Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -396,7 +396,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $361.99 USD
 - [Deep Wave Hair - Brazilian Deep Wave Bundle Deals 3 Bundles | Wavy &](https://wavychicbundles.com/products/deep-wave-hair-3-bundlesdeal): Premium deep wave hair bundle deals with 3 virgin Brazilian bundles. Rich, defined deep wave texture with bold volume. 10-32" lengths. 300g total!
-  Updated: 2025-12-30T16:33:34Z
+  Updated: 2026-01-01T19:27:05Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -493,7 +493,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/spbqqfonlyyxfst7e69n.jpg?v=1766217774
   Price: $11.99 USD
 - [Claire 3D Mink Lashes - Luxurious Lashes for Every Occasion](https://wavychicbundles.com/products/claire-3d-mink-lashes): Discover Claire 3D Mink Lashes. Experience luxurious, beautiful eyelashes that enhance your look effortlessly. Perfect for any occasion!
-  Updated: 2025-12-31T03:30:41Z
+  Updated: 2026-01-01T04:04:00Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -528,7 +528,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/pink-flat-iron-titanium-plates.jpg?v=1766217836
   Price: $75.99 USD
 - [Beach Wave Hair - 4x4 Lace Wig-Transparent Lace Closure Wig](https://wavychicbundles.com/products/beach-wave-hair-4x4-transparent-lace-wig): Discover the enchanting beach wave hair 4x4 lace wig for a chic and wavy look. Perfect for any occasion! Made with 100% virgin human hair.
-  Updated: 2025-12-26T19:05:00Z
+  Updated: 2026-01-01T20:25:41Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -725,7 +725,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $525.99 USD
 - [Loose Wave Hair 13x4 Lace Front Wig|100% Virgin Human Hair|Wavy & Chic](https://wavychicbundles.com/products/premium-loose-wave-hair-13x4-lace-front-wig): Premium loose wave hair 13x4 lace front wig by Wavy & Chic. Invisible lace, pre-plucked hairline, natural waves. 100% virgin human hair.
-  Updated: 2025-12-26T20:05:09Z
+  Updated: 2026-01-01T21:27:00Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $284.99 USD
 - [Deep Wave Hair - Brazilian Deep Wave Hair Extensions | Wavy & Chic](https://wavychicbundles.com/products/deep-wave-hair-single-bundle): Premium deep wave hair single bundles made from 100% virgin Brazilian human hair. Bold, bouncy deep wave bundles with lush volume. 10-32" lengths available!
-  Updated: 2025-12-30T15:27:11Z
+  Updated: 2026-01-01T19:27:05Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -984,7 +984,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $304.99 USD
 - [Raw Indian Curly Hair Bundle Deal-3 Virgin Human Hair Bundles | Wavy](https://wavychicbundles.com/products/raw-indian-curly-hair-bundle-deal): Premium raw Indian curly hair bundle deal with 3 virgin Remy human hair bundles. Naturally curly, full volume, durable wefts. Lifts to #613 blonde. 12-16" lengths!
-  Updated: 2025-12-29T10:27:01Z
+  Updated: 2026-01-01T05:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1152,7 +1152,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $72.99 USD
 - [Loose Wave Hair Bundle -100% Virgin Brazilian Human Hair | Wavy & Chic](https://wavychicbundles.com/products/loose-wave-hair-bundle): Premium loose wave hair single bundles crafted from 100% virgin Brazilian human hair. Soft, bouncy curls with natural movement. 10-32" lengths. Style, color & customize!
-  Updated: 2025-12-29T22:35:11Z
+  Updated: 2026-01-01T19:27:06Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
