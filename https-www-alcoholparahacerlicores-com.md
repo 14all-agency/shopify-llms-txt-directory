@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2024-09-22T21:03:11Z
 - Contact Email: nohaner@gmail.com
-- Updated At: 2026-01-01T00:00:29.247Z
+- Updated At: 2026-01-02T00:00:27.842Z
 
 ## Products
 
