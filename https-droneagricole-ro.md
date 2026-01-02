@@ -5,7 +5,7 @@
 - Currency: RON
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
-- Updated At: 2025-12-28T00:00:40.192Z
+- Updated At: 2026-01-02T00:00:41.137Z
 
 ## Products
 
@@ -73,7 +73,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/olej-silnikowy-repsol-4t-moto-sport-10w40-1l-ma2-polsyntetyczny_2.webp?v=1733126402
   Price: 55,50 lei RON
 - [Bujie NKG](https://droneagricole.ro/products/bujie-nkg): Bujie NKG pentru generator Könner & Söhnen 15-1E ATSR.
-  Updated: 2025-10-01T14:58:32Z
+  Updated: 2025-12-30T11:14:09Z
   Vendor: Könner & Söhnen
   Product Type: Piese de schimb
   Availability: Available
@@ -1255,7 +1255,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/DJI_AGRAS_T25_Fly_More_Combo_Total.jpg?v=1735558063
   Price: 93.052,50 lei RON
 - [Drona Agricolă - DJI Agras T25 FLY MORE COMBO TOTAL+](https://droneagricole.ro/products/drona-agricola-dji-agras-t25-fly-more-combo-total-1): DJI Agras T25 este o dronă agricolă compactă, ideală pentru fermierii cu suprafețe mai mici sau parcele fragmentate, oferind totuși aceleași performanțe și tehnologii avansate ca modelul T50. Concepută pentru a răspunde nevoilor fermelor de dimensiuni reduse, DJI Agras T25 este ușor de manevrat, versatilă și excelentă pentru aplicarea precisă a tratamentelor fitosanitare chiar și în zonele mai greu accesibile. Cu o capacitate de încărcare de 25 kg, T25 se adaptează perfect pe suprafețe mai mici, fără a face compromisuri în ceea ce privește eficiența. Acoperind până la 12 hectare pe oră, această dronă agricolă optimizează aplicarea pesticidelor, erbicidelor și îngrășămintelor lichide, oferind o distribuție uniformă și un control de înaltă precizie. Tehnologia avansată RTK (Real-Time Kinematic) și sistemul radar inteligent permit DJI Agras T25 să opereze cu o precizie excelentă, asigurând evitarea obstacolelor și o navigare sigură chiar și în teren dificil. De asemenea, DJI Agras T25 dispune de un design modular, fiind ușor de transportat și întreținut, un aspect esențial pentru fermierii care au nevoie de flexibilitate în utilizare. Sistemul inteligent de management al bateriei contribuie la o operare continuă și eficientă, reducând timpii de inactivitate și asigurând o utilizare optimizată a resurselor. Special creată pentru fermieri care își doresc un echilibru perfect între performanță și manevrabilitate, DJI Agras T25 este alegerea ideală pentru gestionarea rapidă și precisă a tratamentelor pe terenuri mai mici și fragmentate. În plus, drona păstrează toate funcțiile avansate de monitorizare și analiză a datelor, oferindu-le agricultorilor instrumentele necesare pentru o agricultură inteligentă și eficientă.
-  Updated: 2025-10-09T07:04:49Z
+  Updated: 2025-12-28T08:38:47Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
@@ -1304,7 +1304,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/DJI_AGRAS_T50_Fly_More_Combo_Mavic_3_Multispectral.jpg?v=1735559538
   Price: 146.265,04 lei RON
 - [Drona Agricolă - DJI Agras T50 Perform Mix](https://droneagricole.ro/products/drona-agricola-dji-agras-t50-perform-mix): DJI Agras T50 este o dronă agricolă de ultimă generație, concepută special pentru fermierii și specialiștii în agricultură care își doresc o eficiență sporită în aplicarea tratamentelor fitosanitare și gestionarea culturilor. Această dronă pentru tratamente se remarcă prin tehnologiile sale avansate de pulverizare și cartografiere a terenurilor agricole, oferind o soluție completă pentru fermierii moderni care doresc o productivitate ridicată și o acoperire precisă a suprafețelor cultivate. Cu DJI Agras T50, pulverizarea devine un proces eficient și sigur, datorită capacității sale de încărcare de până la 50 de litri, permițând o acoperire de până la 21 de hectare pe oră. Drona de erbicidat Agras T50 utilizează un sistem de pulverizare avansat și precis, care economisește timp și resurse, maximizând efectul tratamentelor aplicate pe culturi. Dotată cu un radar cu detecție în timp real, această dronă agricolă poate naviga cu ușurință în orice condiții de teren, evitând obstacolele și asigurând un nivel ridicat de siguranță în operare. Funcția de poziționare RTK (Real-Time Kinematic) asigură aplicarea uniformă și controlul optim al distribuției soluțiilor de erbicidat, pesticid și îngrășământ lichid, ceea ce transformă DJI Agras T50 într-un echipament esențial pentru fermieri și agricultori. Această dronă de pulverizare este extrem de versatilă și poate fi configurată rapid pentru a răspunde cerințelor diverselor culturi, făcând-o ideală pentru toate tipurile de ferme. DJI Agras T50 dispune, de asemenea, de un sistem inteligent de management al bateriei și un design modular, ceea ce îi asigură o întreținere ușoară și o durată de utilizare extinsă. Prin funcțiile sale avansate de analiză a datelor și management al terenurilor, drona agricolă Agras T50 contribuie la optimizarea și monitorizarea constantă a culturilor, oferindu-le fermierilor informații esențiale pentru luarea celor mai bune decizii în vederea creșterii randamentului și reducerii costurilor. Experimentează performanța revoluționară și eficiența remarcabilă a DJI Agras T50 – drona pentru tratamente agricole, erbicidat și pulverizare, care îți schimbă complet modul de îngrijire a culturilor și contribuie la dezvoltarea unei agriculturi sustenabile!
-  Updated: 2025-10-09T07:16:18Z
+  Updated: 2025-12-31T04:03:08Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
@@ -1360,7 +1360,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/riagro_piese14.png?v=1744361792
   Price: 822,80 lei RON
 - [Drona DJI Agras T30 Second Hand](https://droneagricole.ro/products/drona-dji-agras-t30-second-hand-2): DJI Agras T30 – Dronă Agricolă Second-Hand într-o Stare Excelentă Această dronă agricolă DJI Agras T30, activată pe 04.03.2024, este o alegere ideală pentru fermierii care doresc un echipament de încredere și performant. Cu 77 de ore de zbor și 510 de hectare acoperite, drona a fost utilizată exclusiv într-o fermă mică, ceea ce înseamnă că nu a fost supusă uzurii intense din prestările de servicii. Stare tehnică și avantaje: Stare excelentă, întreținută corespunzător și verificată cu atenție înainte de vânzare; Aceasta vine cu stația de încărcare și 2 acumulatori, primul având 128 cicluri de încărcare, iar al doilea 315 cicluri de încărcare; Acumulatorii sunt în stare foarte bună și încă beneficiază de garanție activă din partea producătorului până în data de 10.04.2025; Oferim garanție extinsă pentru sistemul de pulverizare conform recomandărilor DJI. Pachet complet inclus: Drona DJI Agras T30; Stație de încărcare C8000; Telecomandă cu toate accesoriile; 2 acumulatori; Cabluri necesare pentru stația de încărcare.
-  Updated: 2025-08-21T14:13:35Z
+  Updated: 2025-12-29T03:34:14Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
