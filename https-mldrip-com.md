@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2026-01-01T00:00:45.853Z
+- Updated At: 2026-01-02T00:00:45.291Z
 
 ## Products
 
@@ -13792,7 +13792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1961_48d34dec-4fab-4232-bc4b-a036f41f2a13.png?v=1764176272
     Price: €90.00 EUR
 - [Polo Jacket Premium](https://mldrip.com/products/polo-jackets): Preppy Style, Modern ConfidenceLevel up your outerwear game with the Polo Jacket - a perfect fusion of classic preppy aesthetics and modern streetwear energy. This premium jacket brings that clean, sophisticated Polo look with signature detailing and versatile styling that works for any occasion.Premium Features: Premium fabric blend - Soft, durable, and built for all-day comfort Classic Polo aesthetic - Sleek silhouette with signature detailing Versatile fit - Perfect for layering over hoodies, tees, or shirts All-season design - Lightweight enough for spring, warm enough for fall Quality construction - Reinforced stitching and premium finishes Timeless style - Preppy look that never goes out of fashion Preppy Meets Street:This jacket represents the perfect balance between classic prep school style and contemporary streetwear. The Polo-inspired design brings that refined, put-together look while remaining comfortable and easy to wear. Layer it over your favorite hoodies for a smart-casual vibe, or wear it with button-downs for a more polished aesthetic. From casual days to night outings, this jacket keeps your look sharp, simple, and effortlessly fresh.Perfect for: Preppy style lovers, versatile dressers, and anyone who appreciates classic American fashion with modern appeal.
-  Updated: 2025-12-26T01:19:01Z
+  Updated: 2026-01-01T16:37:36Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
