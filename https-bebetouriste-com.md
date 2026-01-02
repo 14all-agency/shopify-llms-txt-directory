@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-01-02T01:16:17.433Z
+- Updated At: 2026-01-02T01:16:56.481Z
 
 ## Products
 
