@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-02T04:00:35.860Z
+- Updated At: 2026-01-02T08:00:35.763Z
 
 ## Products
 
@@ -5722,7 +5722,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4AB28387-47CA-4A09-B37C-8238E04E538A.png?v=1763304499
   Price: $8.95 USD
 - [Eucalyptus Pine Reed Diffuser](https://affinatiliving.com/products/eucalyptus-pine-reed-diffuser): Refresh your home with the Eucalyptus & Pine Reed Diffuser. Crisp eucalyptus and fresh pine create a clean, spa-like scent with long-lasting, flame-free fragrance.
-  Updated: 2026-01-01T18:47:08Z
+  Updated: 2026-01-02T06:47:07Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6077,14 +6077,14 @@
     Availability: Available
     Price: $29.95 USD
 - [Rosemary Mint Reed Diffuser](https://affinatiliving.com/products/rosemary-mint-reed-diffuser): Refresh any room with our Rosemary Mint Reed Diffuser—an invigorating blend of cool mint and fresh rosemary for a clean, long-lasting, spa-like scent.
-  Updated: 2026-01-01T18:45:24Z
+  Updated: 2026-01-02T06:45:28Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/40DD4F3D-C258-4120-9634-F51E2603404B.png?v=1767293118
   Price: $22.95 USD
 - [Midnight Ember Reed Diffuser](https://affinatiliving.com/products/midnight-ember-reed-diffuser): Warm your space with our Midnight Ember Reed Diffuser—an inviting blend of amber, smoky woods, and vanilla embers for a long-lasting, luxurious atmosphere.
-  Updated: 2026-01-01T18:42:57Z
+  Updated: 2026-01-02T06:43:02Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6175,7 +6175,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Blackberry Sage Reed Diffuser](https://affinatiliving.com/products/blackberry-sage-reed-diffuser): Refresh your home with our Blackberry Sage Reed Diffuser—juicy berries and fresh sage create a vibrant, uplifting scent with long-lasting, flame-free fragrance.
-  Updated: 2026-01-01T18:43:42Z
+  Updated: 2026-01-02T06:43:43Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6220,7 +6220,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Blackberry Absinthe Reed Diffuser](https://affinatiliving.com/products/blackberry-absinthe-reed-diffuser): A deep, luxurious home fragrance. Our Blackberry Absinthe Reed Diffuser blends dark berries and aromatic absinthe for a smooth, long-lasting, flame-free scent.
-  Updated: 2026-01-01T18:46:26Z
+  Updated: 2026-01-02T06:46:37Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6456,7 +6456,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Ivory Woods Reed Diffuser](https://affinatiliving.com/products/ivory-woods-reed-diffuser): Elevate your home with our Ivory Woods Reed Diffuser. Warm sandalwood, cashmere woods, vanilla, and amber create a soft, elegant, long-lasting woody fragrance.
-  Updated: 2026-01-01T18:49:38Z
+  Updated: 2026-01-02T06:49:31Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6517,7 +6517,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Arctic Cedarwood Reed Diffuser](https://affinatiliving.com/products/arctic-cedarwood-reed-diffuser): Refresh your home with Arctic Cedarwood. Cool cedar, frosted pine, and soft amber create a clean, invigorating, long-lasting fragrance in this 7.0 fl oz diffuser.
-  Updated: 2026-01-01T18:50:08Z
+  Updated: 2026-01-02T06:50:11Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -8106,7 +8106,7 @@
   Updated: 2026-01-01T12:07:53Z
   Total Products: 66
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
-  Updated: 2026-01-01T12:07:53Z
+  Updated: 2026-01-02T04:42:25Z
   Total Products: 27
 - [Floral Candle Scents](https://affinatiliving.com/collections/floral-candle-scents)
   Updated: 2026-01-01T12:07:53Z
