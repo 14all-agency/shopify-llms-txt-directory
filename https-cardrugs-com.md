@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2025-12-30T00:00:36.803Z
+- Updated At: 2026-01-02T00:00:37.694Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0103/8204/9380/products/IMG_0265.jpg?v=1759445123
   Price: $8.88 USD
 - [Samurai Kitty](https://cardrugs.com/products/samurai-kitty): PEEKER RELEASEFinish: GlossyTranslation: N/ASize: 4.5" wideGuarantee: 6 Years Outside / 10 Years InsideSafe for any surface including car paint / windowsDesign by Denlin (CarDrugs) ---Shipping ---United States First Class / Free Shipping / NO TRACKING / 5-10 DAYSFirst Class / Protect Box $4 / WITH TRACKING / 5-7 DAYSPriority Protect Box $7 / WITH TRACKING / 2-3 DAYS---WorldwideFirst Class Slaps or Decals / $2 Protected Envelope / 7-12 DaysTracked for All other Items that will not fit into an envelope as follows$12 anywhere in the world for Flight Tags, Clothing, Plates, Mirrors, Skateboards, etc
-  Updated: 2025-11-06T20:10:45Z
+  Updated: 2025-12-30T09:25:05Z
   Vendor: CarDrugs.com
   Product Type: 
   Availability: Available
@@ -183,7 +183,7 @@
   Updated: 2025-12-01T12:13:27Z
   Total Products: 87
 - [Apparel](https://cardrugs.com/collections/apparel)
-  Updated: 2025-12-29T12:08:04Z
+  Updated: 2026-01-01T12:08:02Z
   Total Products: 254
 - [Lanyards](https://cardrugs.com/collections/lanyards)
   Updated: 2024-12-29T00:39:19Z
@@ -192,7 +192,7 @@
   Updated: 2024-06-05T23:09:48Z
   Total Products: 1
 - [All Slaps & Decals](https://cardrugs.com/collections/slaps-printed-decals)
-  Updated: 2025-12-29T12:08:04Z
+  Updated: 2026-01-01T12:08:02Z
   Total Products: 269
 - [Plates & Overlays](https://cardrugs.com/collections/plates-overlays)
   Updated: 2024-07-20T01:20:12Z
@@ -315,7 +315,7 @@
   Updated: 2025-02-12T00:20:35Z
   Total Products: 1
 - [Hoodies](https://cardrugs.com/collections/hooded-sweatshirts)
-  Updated: 2025-12-29T12:08:04Z
+  Updated: 2026-01-01T12:08:02Z
   Total Products: 74
 - [Hats](https://cardrugs.com/collections/hats)
   Updated: 2025-12-28T12:08:44Z
@@ -336,7 +336,7 @@
   Updated: 2025-02-12T00:20:34Z
   Total Products: 0
 - [Newest!](https://cardrugs.com/collections/featured)
-  Updated: 2025-12-29T12:08:04Z
+  Updated: 2026-01-01T12:08:02Z
   Total Products: 180
 - [Series 32 Part 3](https://cardrugs.com/collections/series-32-part-3)
   Updated: 2025-02-12T00:18:16Z
@@ -378,7 +378,7 @@
   Updated: 2025-11-08T12:10:11Z
   Total Products: 25
 - [Jackets](https://cardrugs.com/collections/クラブ-jackets)
-  Updated: 2025-12-26T12:07:15Z
+  Updated: 2026-01-01T12:08:02Z
   Total Products: 14
 - [Mystery Slap Pack: Base Set](https://cardrugs.com/collections/mystery-slap-packs-1)
   Updated: 2023-11-13T18:55:51Z
@@ -528,7 +528,7 @@
   Updated: 2025-12-29T12:08:04Z
   Total Products: 5
 - [Series 56](https://cardrugs.com/collections/series-56)
-  Updated: 2025-12-29T12:08:04Z
+  Updated: 2026-01-01T12:08:02Z
   Total Products: 42
 
 ## Store Pages
