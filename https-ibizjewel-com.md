@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2026-01-01T00:01:01.626Z
+- Updated At: 2026-01-02T00:01:01.766Z
 
 ## Products
 
@@ -10566,7 +10566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-34_5.jpg?v=1709796147
     Price: $864.00 USD
 - [Moissanite 2.0CT Oval Diamond Avant Garde Anniversary Ring](https://ibizjewel.com/products/moissanite-2-0ct-oval-diamond-avant-garde-anniversary-ring): Crafted With A 2.0ct Oval Diamond And Avant-garde Design, This Anniversary Ring Exudes Elegance And Sophistication. Made With Moissanite, Known For Its Brilliance And Durability, It Offers A Sparkly Alternative To Traditional Diamonds. Perfect For Celebrating Your Special Milestone, This Ring Is A Statement Of Lasting Love And Style.
-  Updated: 2025-12-31T12:14:34Z
+  Updated: 2026-01-01T07:29:42Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -16200,7 +16200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-06_1.jpg?v=1710330758
     Price: $709.00 USD
 - [Moissanite 0.56CT Baguette Diamond Avant Garde Vintage Style Band](https://ibizjewel.com/products/moissanite-0-56ct-baguette-diamond-avant-garde-vintage-style): Elevate Your Look With Our Moissanite 0.56ct Baguette Diamond Avant Garde Vintage Style Ring. Featuring A Stunning 0.56ct Baguette Diamond, This Avant-garde Design Is A Vintage-inspired Showstopper. Crafted With Moissanite, This Ring Offers All The Brilliance And Durability Of A Diamond At A Fraction Of The Cost.
-  Updated: 2025-10-02T10:30:52Z
+  Updated: 2026-01-01T01:05:57Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Baguette Diamond Band
   Availability: Available
