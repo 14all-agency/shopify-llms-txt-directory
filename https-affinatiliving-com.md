@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-02T00:00:54.744Z
+- Updated At: 2026-01-02T04:00:35.860Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_19_50_AM.png?v=1761916815
   Price: $22.95 USD
 - [Fresh Linen Reed Diffuser](https://affinatiliving.com/products/fresh-linen-reed-diffuser): Capture the crisp, clean scent of freshly washed linens. Bright and refreshing, it creates a pure, airy atmosphere that feels effortlessly cozy.
-  Updated: 2026-01-01T13:16:57Z
+  Updated: 2026-01-02T01:17:01Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -165,28 +165,28 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_08_45_AM.png?v=1761916225
   Price: $22.95 USD
 - [Fresh Cut Sage Reed Diffuser](https://affinatiliving.com/products/fresh-sage-reed-diffuser): Bring earthy calm to your home with the herbal aroma of fresh sage. A grounding, aromatic scent that promotes clarity and natural balance.
-  Updated: 2026-01-01T13:23:44Z
+  Updated: 2026-01-02T01:23:11Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/0770C4B5-D683-46B9-93EC-C8B237B4A5F5.png?v=1767273810
   Price: $22.95 USD
 - [Mint Eucalyptus Reed Diffuser](https://affinatiliving.com/products/eucalyptus-spearmint-reed-diffuser): Awaken your senses with cool mint and soothing eucalyptus. A spa-inspired scent that refreshes, relaxes, and clears the mind beautifully.
-  Updated: 2026-01-01T13:16:03Z
+  Updated: 2026-01-02T01:16:04Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5D50C141-587C-4AE0-9999-84FC217581F6.png?v=1767273361
   Price: $22.95 USD
 - [Drops of Rain Reed Diffuser](https://affinatiliving.com/products/raindrop-reed-diffuser): Refresh your space with the clean, dewy scent of rainfall. A crisp, airy fragrance that brings calm, clarity, and pure serenity to any room.
-  Updated: 2026-01-01T13:22:38Z
+  Updated: 2026-01-02T01:22:42Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7846C297-D2BB-46BA-BDEF-8D807074BD52.png?v=1767273737
   Price: $22.95 USD
 - [French Vanilla Reed Diffuser](https://affinatiliving.com/products/french-vanilla-reed-diffuser): Indulge in the smooth aroma of creamy vanilla bean. A warm, classic scent that fills your home with timeless sweetness and cozy sophistication.
-  Updated: 2026-01-01T13:14:03Z
+  Updated: 2026-01-02T01:14:06Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5068,7 +5068,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_14_08_AM.png?v=1761920100
   Price: $22.95 USD
 - [Christmas Tree Reed Diffuser](https://affinatiliving.com/products/christmas-tree-reed-diffuser): Bring the holidays home with the crisp, evergreen scent of Christmas Tree. Fresh pine, fir needles, and a touch of warm cedar fill your space with festive comfort and cheer.
-  Updated: 2026-01-01T13:18:33Z
+  Updated: 2026-01-02T01:18:48Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5082,7 +5082,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_14_14_AM.png?v=1761920345
   Price: $22.95 USD
 - [Almond Macaron Reed Diffuser](https://affinatiliving.com/products/almond-macaron-reed-diffuser): Indulge in the sweet, cozy aroma of our Almond Macaron Reed Diffuser. Featuring notes of almond, vanilla, and toasted sugar, this 7.0 fl oz diffuser fills your home with long-lasting, flame-free fragrance.
-  Updated: 2026-01-01T13:17:38Z
+  Updated: 2026-01-02T01:17:43Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5171,14 +5171,14 @@
     Availability: Available
     Price: $109.95 USD
 - [Blue Spruce Reed Diffuser](https://affinatiliving.com/products/blue-spruce-reed-diffuser): Experience the crisp, woodsy aroma of our Blue Spruce Reed Diffuser. Crafted with a non-toxic formula, it fills your home with refreshing pine and forest notes for weeks of flame-free, long-lasting fragrance.
-  Updated: 2026-01-01T13:21:46Z
+  Updated: 2026-01-02T01:21:50Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2FA438E8-A031-438C-9DCD-C21C03411E85.png?v=1767273698
   Price: $22.95 USD
 - [Apple Cinnamon Reed Diffuser](https://affinatiliving.com/products/apple-cinnamon-reed-diffuser): Fill your home with cozy warmth using the Affinati Apple Cinnamon Reed Diffuser. Crisp apple and warm cinnamon create a comforting, nostalgic fragrance that lasts for weeks—perfect for adding inviting seasonal charm to any space.
-  Updated: 2026-01-01T13:21:06Z
+  Updated: 2026-01-02T01:21:13Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5280,7 +5280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E0DB22C7-C064-401A-9C00-A495D54E2429.png?v=1767304807
   Price: $22.95 USD
 - [Hawaiian Hibiscus Reed Diffuser](https://affinatiliving.com/products/hawaiian-hibiscus-reed-diffuser): Escape to paradise with tropical hibiscus and jasmine. A bright, floral diffuser that fills your space with island serenity.
-  Updated: 2026-01-01T13:20:08Z
+  Updated: 2026-01-02T01:20:10Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5451,14 +5451,14 @@
     Availability: Available
     Price: $64.95 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
-  Updated: 2026-01-01T13:15:04Z
+  Updated: 2026-01-02T01:15:10Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2375B0DC-84B3-4639-80E8-763BDD1A3663.png?v=1767273293
   Price: $22.95 USD
 - [Vanilla Bean Reed Diffuser](https://affinatiliving.com/products/vanilla-bean-reed-diffuser): Indulge in cozy elegance with Affinati’s Vanilla Bean Reed Diffuser. A creamy blend of vanilla bean, sweet cream, and caramelized sugar for a warm, long-lasting, flame-free fragrance experience.
-  Updated: 2026-01-01T13:13:03Z
+  Updated: 2026-01-02T01:13:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5774,7 +5774,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Driftwood & Sea Salt Reed Diffuser](https://affinatiliving.com/products/driftwood-sea-salt-reed-diffuser): Fill your home with coastal freshness. Our 7 oz Driftwood & Sea Salt reed diffuser delivers a clean, long-lasting, non-toxic fragrance inspired by ocean air and driftwood.
-  Updated: 2026-01-01T13:19:15Z
+  Updated: 2026-01-02T01:12:29Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5919,7 +5919,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Lavender Vanilla Reed Diffuser](https://affinatiliving.com/products/lavender-vanilla-reed-diffuser): Create a calming, spa-like atmosphere with our Lavender Vanilla Reed Diffuser. This 7.0 fl oz non-toxic diffuser blends soothing lavender and creamy vanilla for a soft, long-lasting fragrance that brings comfort and tranquility to any room.
-  Updated: 2026-01-01T13:10:51Z
+  Updated: 2026-01-02T01:10:53Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6768,7 +6768,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/04F00F27-AED3-429B-A427-6FA02C0022FE.png?v=1767293072
   Price: $22.95 USD
 - [Whiskey Reserve Reed Diffuser](https://affinatiliving.com/products/whiskey-reserve-reed-diffuser): Luxurious Whiskey Reserve reed diffuser with aged whiskey, oak, and vanilla. A non-toxic, long-lasting home fragrance that adds warm, refined sophistication.
-  Updated: 2026-01-01T14:19:28Z
+  Updated: 2026-01-02T02:19:34Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6844,7 +6844,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Toasted Coconut Reed Diffuser](https://affinatiliving.com/products/toasted-coconut-reed-diffuser): Experience warm, cozy luxury with the Affinati Toasted Coconut Reed Diffuser. A non-toxic 7.0 fl oz blend of toasted coconut, vanilla, and soft woods for long-lasting, flame-free home fragrance.
-  Updated: 2026-01-01T13:10:05Z
+  Updated: 2026-01-02T01:09:51Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
