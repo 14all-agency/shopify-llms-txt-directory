@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-12-27T00:00:36.357Z
+- Updated At: 2026-01-02T00:00:38.174Z
 
 ## Products
 
@@ -1166,22 +1166,22 @@
   Updated: 2025-12-25T12:11:05Z
   Total Products: 13
 - [Alphonse Mucha](https://andcici.com/collections/alphonse-mucha): Alfons Maria Mucha known internationally as Alphonse Mucha, was a Czech painter, illustrator, and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, as well as designs, which became among the best-known images of the period.
-  Updated: 2025-12-10T12:22:57Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 8
 - [Henri Matisse](https://andcici.com/collections/henri-matisse): Henri Émile Benoît Matisse (31 December 1869 – 3 November 1954) was a French visual artist, known for both his use of colour and his fluid and original draughtsmanship. He is one of the artists who best helped to define the revolutionary developments in the visual arts throughout the opening decades of the twentieth century, responsible for significant developments in painting and sculpture. The intense colourism of the works he painted between 1900 and 1905 brought him notoriety as one of the Fauves (French for "wild beasts").
   Updated: 2025-12-06T12:18:19Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
   Updated: 2025-12-25T12:11:05Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
-  Updated: 2025-12-09T12:20:20Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
   Updated: 2025-12-15T12:24:20Z
@@ -1196,13 +1196,13 @@
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-12-06T12:18:19Z
@@ -1220,7 +1220,7 @@
   Updated: 2025-05-18T09:52:02Z
   Total Products: 3
 - [Abbott Fuller Graves](https://andcici.com/collections/abbott-fuller-graves): Abbott Fuller Graves (1859–1936) was an American painter known for his vibrant floral still lifes and picturesque garden scenes. Born in Massachusetts, Graves studied in Boston and later in Paris, where he was influenced by the French Impressionists. His work is characterised by bright, natural light, loose brushwork, and a strong sense of colour, often featuring blooming gardens, women in sunlit settings, and charming outdoor spaces. Graves was also a respected teacher and illustrator, contributing to the popularity of Impressionism in America. His paintings celebrate the beauty of nature and everyday life with warmth and elegance.
-  Updated: 2025-11-12T12:18:48Z
+  Updated: 2025-12-31T12:16:44Z
   Total Products: 2
 - [Hermann Hesse](https://andcici.com/collections/hermann-hesse): Hermann Hesse (1877–1962) was a German-Swiss author, poet, and painter best known for his philosophical novels exploring themes of self-discovery, spirituality, and individuality. His most famous works include Siddhartha (1922), Steppenwolf (1927), and The Glass Bead Game (1943), which earned him the Nobel Prize in Literature in 1946. Deeply influenced by Eastern philosophy, psychoanalysis, and his own life experiences, Hesse’s writing resonated with readers seeking meaning and inner peace, particularly during the 20th century’s social upheavals.
   Updated: 2025-05-18T09:53:24Z
