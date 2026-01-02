@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-31T00:00:46.705Z
+- Updated At: 2026-01-02T00:00:48.160Z
 
 ## Products
 
@@ -945,7 +945,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRT3361-3-BL_2.jpg?v=1674739263
   Price: RM 69.00 MYR
 - [SORENTO Matte Black Five Robe Hook Bar](https://bath2u.com/products/sorento-matte-black-five-robe-hook-bar): This robe hook is constructed from matte black and features concealed fixings. Suitable for domestic and commercial installations.Product Details Material: Stainless Steel 304 Finish: Matte Black Concealed fixings Type: Wall mounted Package Content 1x Five Robe Hook
-  Updated: 2024-04-18T15:05:59Z
+  Updated: 2026-01-01T04:06:42Z
   Vendor: SORENTO
   Product Type: Hook Bar
   Availability: Available
@@ -1110,7 +1110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT7433-BL.jpg?v=1675053042
   Price: RM 228.00 MYR
 - [SORENTO Oval Concealed Manual Shower Valve with Diverter - Matte Black](https://bath2u.com/products/sorento-oval-concealed-manual-shower-valve-with-diverter-matte-black): The modern brushed brass single lever concealed manual shower valve with diverter, characterised by its stylish round handle which controls temperature and flow. Simply lift lever to introduce flow, adjust left or right to set temperature.The ideal solution for those updating their shower and bath on a budget, this sleek valve with a high performance diverter doesn’t compromise on style or function. Operate a bath with shower or a showering area with two outlets.Specifications : Style: Modern Single Lever Type: Manual Concealed Shower Valve With Diverter Round Rectangular Back Plate Colour/Finish: Matte Black Material: Durable Brass Water Outlets: 2 Technical Information : Operating pressure 0.5 bar up to 5 bar Ceramic disc control for smooth action and no drips Simple lever operation for flow and temperature Built-in diverter - Knob allows the user to divert the water between 2 outlets Hot water temperature 55 to 85 Degrees
-  Updated: 2024-04-18T15:06:18Z
+  Updated: 2025-12-31T05:11:15Z
   Vendor: SORENTO
   Product Type: Concealed Shower
   Availability: Available
