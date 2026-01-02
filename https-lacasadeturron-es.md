@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2024-08-30T12:01:52Z
 - Contact Email: info@lacasadeturron.es
-- Updated At: 2026-01-01T00:00:25.176Z
+- Updated At: 2026-01-02T00:00:27.966Z
 
 ## Products
 
@@ -510,7 +510,7 @@
   Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/Aquasoft_frente.png?v=1742648571
   Price: 16,90 € EUR
 - [Comedero elevado doble Nordic](https://lacasadeturron.es/products/comedero-elevado-doble-nordic): El comedero Nordic ha sido diseñado por La Casa de Turrón, pensando en ellos, pero sin renunciar al estilo y la elegancia. Este comedero cuenta con una base hecha de madera de roble, pudiendo elegir entre dos diferentes alturas, para que tu perro no tenga que agacharse y mantenerse encorvado mientras come o bebe agua, mejorando la postura de tu perro, aliviando la tensión en el cuello y facilitando una digestión más saludable. El comedero Nordic incluye dos comederos de acero inoxidable de 946 ml cada uno. Al ser de acero inoxidable no contienen microplásticos ni sustancias que puedan llegar a ser tóxicas para tu perro. Son muy fáciles de lavar y se pueden meter en el lavavajillas. Cuentan con una base antideslizante evitando que puedan moverse. Características: Diseño exclusivo: estructura de madera de roble diseñado por La Casa de Turrón. Beneficios ergonómicos: altura adecuada para una alimentación más cómoda y segura. Materiales resistentes: cuencos de acero inoxidable extraíbles. Se recomienda lavar a mano. Capacidad de los cuencos: cada comedero tiene una capacidad de 946 ml. Altura de la base: elige entre dos tamaños disponibles para la base de madera. Elige los colores que mejor se adapten a vosotros: comederos disponibles en color aguamarina, azul cielo, rosa palo o blanco. En caso de que queráis combinar dos colores, incluidlo en Instrucciones especiales del pedido a la hora de finalizar la compra o escribidnos para confirmar disponibilidad. Altura de la base de madera: 26 cm: recomendado para razas medianas y grandes 34 cm: recomendado para razas altas Ten en cuenta que la altura total del comedero será la atura de la base (26 o 34 cm) y 4,3 cm adicionales, los que sobresale el comedero, de modo que las dos alturas totales serán: 30,3 cm: si quieres esta altura, elige la base de madera de 26 cm. 38,3 cm: si quieres esta altura, elige la base de madera de 34 cm. Tamaño: Alto: 30,3 cm (base de 26 cm) y 38,3 cm (base de 34 cm) Largo: 44 cm Ancho: 27 cm
-  Updated: 2025-12-30T12:31:31Z
+  Updated: 2026-01-01T11:15:38Z
   Vendor: La Casa de Turrón
   Product Type: Accesorio
   Availability: Available
@@ -556,7 +556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/2_alturas_disponibles_25.png?v=1762731579
     Price: 59,90 € EUR
 - [Cuenco de acero inoxidable Nordic](https://lacasadeturron.es/products/comedero-de-acero-inoxidable): Comedero de acero inoxidable para mascotas, libre de BPA. Resistente al óxido y a la corrosión. Es resistente a los olores y muy fácil de limpiar. Tiene una capacidad de 946 ml, perfecto para perros medianos y grandes. Cuenta con una base antideslizante gracias al anillo de caucho termoplástico que tiene, evitando que se deslice y provoque ruido o marcas en el suelo. Al ser de acero inoxidable mantiene la comida y el agua durante más tiempo a la temperatura ideal. Es una alternativa ideal al plástico. Se recomienda lavar a mano. No es apto para microondas. Tamaño: 16,3 cm de diámetro y 7 cm de alto. Capacidad de 946 ml. Colores: Disponible en 5 colores: verde aguamarina, azul cielo, azul marino, rosa y blanco. Te recomendamos que le eches un ojo a nuestro comedero elevado doble Nordic, se trata de un comedero elevado con la base de madera e incluye 2 comederos de acero inoxidable. Gracias a su base de madera elevada tu mascota tendrá una digestión más fácil y sana.
-  Updated: 2025-12-30T12:23:15Z
+  Updated: 2026-01-01T18:21:09Z
   Vendor: La Casa de Turrón
   Product Type: Accesorio
   Availability: Available
@@ -616,13 +616,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/huella.png?v=1739375291
   Price: 15,50 € EUR
-- [Base antivoracidad para comedero](https://lacasadeturron.es/products/base-antivoracidad): ¿Tu perro come demasiado rápido? ¿Cuando le dejas la comida va corriendo y es demasiado ansioso? ¿La devora en apenas 30 segundos? ¡Tenemos la solución! La base de silicona para comedero antivoracidad es la solución perfecta para mejorar la alimentación de tu perro. Este accesorio transforma cualquier cuenco en un comedero antivoracidad, haciendo que las comidas sean más lentas y seguras. Características: Reduce la ansiedad al comer: Su diseño con relieves y obstáculos fomenta que tu mascota coma más despacio, evitando atragantamientos y problemas digestivos. Alarga el tiempo de la comida: Mantiene a tu perro entretenido por más tiempo. Material seguro: Fabricada en silicona de grado alimenticio, es suave con el hocico de tu perro y resistente al uso diario. Fácil de usar y práctica: Se adhiere fácilmente a cualquier comedero gracias a sus ventosas, sin importar su tamaño (diámetro mínimo del comedero 11 cm). Totalmente adaptable: En las aletas cuentan con líneas que pueden ser recortadas en caso de que nuestro cuenco sea más pequeño ¡Convierte cualquier plato en uno antivoracidad en segundos! Higiénica: Fácil de lavar a mano o en lavavajillas. Recomendación de uso: Recomendamos añadir la base antivoracidad al comedero Nordic para que tu pequeño pueda disfrutar de los beneficios del comedero elevado sin renunciar a los comederos antivoracidad que garantizar una comida más lenta. Medidas: Diámetro de la base circular: 11 cm Diámetro total: 21 cm Alto de la aleta: 4,5 cm
-  Updated: 2025-12-29T08:40:27Z
-  Vendor: La Casa de Turrón
-  Product Type: Accesorio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/basedesilicona.png?v=1738626643
-  Price: 4,90 € EUR
 - [Pack Premium](https://lacasadeturron.es/products/pack-bienvenida): Si quieres asegurarte de que a tu cachorro no le falte absolutamente nada, el Pack Premium es para ti. Pensado para los papás y mamás de perritos que buscan comodidad, calidad y un extra de mimos, este pack incluye todo lo del Pack Cachorro más algunos complementos muy especiales. ¿Qué tiene de especial el Pack Premium? Al igual que el Pack Cachorro, el Pack Premium te ofrece la posibilidad de elegir 2 arneses de diferentes tallas, asegurando que tu peludo tenga el ajuste perfecto tanto al principio como cuando hayan pasado unos meses y haya crecido. Ademas, podrás disfrutar de la comida con estos cuencos cerámicos aptos para lavavajillas. 📦 ¿Qué incluye este pack? Kit Paseo Adventure: Arnés y correa a juego para ser el más elegante desde el primer día 🐩 2º arnés Adventure: Sabemos que tu pequeño va a crecer y posiblemente en unos meses necesite una talla mayor, así que aprovecha el Pack Cachorro para llevarte un 2º arnés al 50% (este arnés deberá ser una talla diferente) 🐾 Comedero cerámico doble: Mucho más higiénico, resistente y apto para lavavajillas (elige el color que más te guste) 🍽️ Cepillo con autolimpiado: Mantén su pelo sano y libre de enredos 🪮 Pack de 48 rollos de bolsas de caca: ¡Que nunca falten! 💩 Peluche para cachorro: Su primer compañero de juegos y siestas 🧸 Cinturón para coche: Mantén a tu pequeño seguro en todos los trayectos acostumbrándolo a ir en coche desde el primer día 🚙 Regalo sorpresa: Para el más mimado de la casa 🎁 💡¿Echas en falta algo? No te preocupes... ¡Personalízalo a tu gusto!Sabemos que cada cachorro es único y tú también. Por eso, puedes añadir productos adicionales para crear un pack completamente adaptado a las necesidades de tu peludo amigo y ahorrar al mismo tiempo. Este pack no solo es una compra, es preparar tu casa, tu tiempo y espacio a un nuevo miembro de tu familia 🫂. Es la mejor manera de empezar esta increíble aventura juntos, con todo listo para que nada les falte.
   Updated: 2025-12-10T19:02:48Z
   Vendor: La Casa de Turrón
@@ -833,10 +826,10 @@
   Updated: 2025-12-31T12:20:57Z
   Total Products: 11
 - [Comederos Cerámicos](https://lacasadeturron.es/collections/comederos-ceramicos)
-  Updated: 2025-12-30T12:19:06Z
+  Updated: 2026-01-01T12:13:37Z
   Total Products: 6
 - [Accesorios](https://lacasadeturron.es/collections/accesorios)
-  Updated: 2025-12-29T12:18:05Z
+  Updated: 2026-01-01T12:13:37Z
   Total Products: 15
 - [Juguetes](https://lacasadeturron.es/collections/juguetes): Juguetes para Perros - Diversión y Estimulación para tu Mascota Encuentra los mejores juguetes para perros en nuestra tienda online. Ofrecemos una amplia selección de juguetes interactivos, resistentes y seguros, diseñados para mantener a tu perro entretenido, activo y mentalmente estimulado. Desde mordedores duraderos hasta juguetes de peluche suaves, nuestros productos son ideales para todas las razas y tamaños. Los juguetes no solo proporcionan horas de diversión, sino que también ayudan a mejorar el bienestar de tu mascota, evitando el aburrimiento y fomentando hábitos saludables. ¡Explora nuestra categoría de juguetes y encuentra el compañero perfecto de juego para tu perro!
   Updated: 2025-12-10T19:02:43Z
@@ -845,10 +838,10 @@
   Updated: 2025-12-31T12:20:57Z
   Total Products: 16
 - [Best Selling Products](https://lacasadeturron.es/collections/best-selling-products)
-  Updated: 2025-12-31T12:20:57Z
+  Updated: 2026-01-01T12:13:37Z
   Total Products: 68
 - [Newest Products](https://lacasadeturron.es/collections/newest-products)
-  Updated: 2025-12-31T12:20:57Z
+  Updated: 2026-01-01T12:13:37Z
   Total Products: 68
 - [Juguetes Mordedores](https://lacasadeturron.es/collections/juguetes-mordedores): Descubre nuestra selección de juguetes mordedores para perros, diseñados para satisfacer el instinto natural de masticar mientras cuidan su salud bucal. Fabricados con materiales resistentes y seguros, nuestros juguetes mordedores son ideales para aliviar el estrés, combatir el aburrimiento y fortalecer los dientes y encías de tu mascota. Desde anillos de goma hasta figuras interactivas, encontrarás opciones perfectas para perros de todas las razas y tamaños. Beneficios de los Juguetes Mordedores para Perros: Cuidado dental: Ayudan a reducir el sarro y la placa gracias a sus texturas únicas. Resistencia asegurada: Materiales duraderos para mordidas fuertes y prolongadas. Entretenimiento garantizado: Mantienen a tu perro activo, feliz y mentalmente estimulado. Variedad de diseños: Juguetes funcionales que combinan diversión y beneficios para la salud. Dale a tu perro la diversión que se merece con nuestros juguetes mordedores de alta calidad. Navega por nuestra categoría y elige el compañero de juego perfecto para mantener a tu amigo de cuatro patas entretenido y saludable. ¡Tu perro te lo agradecerá!
   Updated: 2025-12-10T19:02:43Z
@@ -881,7 +874,7 @@
   Updated: 2025-12-11T12:24:20Z
   Total Products: 7
 - [Nuevas Colecciones](https://lacasadeturron.es/collections/nuevas-colecciones)
-  Updated: 2025-12-31T12:20:57Z
+  Updated: 2026-01-01T12:13:37Z
   Total Products: 7
 - [Colección para humanos](https://lacasadeturron.es/collections/coleccion-para-humanos): Descubre nuestra exclusiva colección de accesorios para humanos inspirada en el amor por los perros. Diseñada para aquellos que quieren llevar su pasión por los animales siempre consigo, esta línea incluye joyas, llaveros y complementos únicos que combinan estilo, calidad y un toque entrañable. Cada pieza está fabricada con materiales de alta calidad, como plata de ley 925 o acero inoxidable, madera y cuero, asegurando durabilidad y comodidad. Los diseños, desde figuras de perritos hasta huellas y detalles minimalistas, son ideales para regalar o darte un capricho especial. ✨ Características destacadas: Accesorios versátiles y elegantes. Diseños únicos inspirados en perros. Materiales resistentes e hipoalergénicos. Perfectos para amantes de los perros y regalos personalizados. Haz que tu estilo hable por ti con esta colección entrañable y sofisticada. ¡Explora ahora y encuentra el accesorio que mejor te representa!
   Updated: 2025-12-28T12:19:23Z
@@ -899,7 +892,7 @@
   Updated: 2025-12-10T19:02:44Z
   Total Products: 3
 - [Comederos](https://lacasadeturron.es/collections/comederos): Comederos para perros: diseño, comodidad y durabilidad en cada detalle. En La Casa de Turrón encontrarás comedores diseñados para mejorar la experiencia de tu perro y aportar un toque elegante a tu hogar. Nuestra colección incluye desde comedores elevados, que favorecen una postura más cómoda y saludable, hasta comedores de cerámica, ideales por su higiene y facilidad de limpieza. Si buscas un estilo moderno y cálido, los comedores Nordic combinan madera natural y líneas minimalistas, inspiradas en el diseño escandinavo. Todos nuestros comederos están fabricados con materiales de alta calidad, resistentes y fáciles de limpiar, y disponibles en diferentes tamaños y colores para adaptarse a cada perro y tipo de hogar.
-  Updated: 2025-12-30T12:19:06Z
+  Updated: 2026-01-01T12:13:37Z
   Total Products: 8
 
 ## Blogs
