@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2026-01-02T08:00:25.044Z
+- Updated At: 2026-01-02T12:00:25.430Z
 
 ## Products
 
@@ -637,7 +637,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/15469-BLNK-OE-05-07-BCS-BC2-e1690922540297.jpg?v=1767290844
   Price: $15.84 USD
 - [Shipping Protection](https://www.ironforgebeardco.com/products/shipping-protection): Protect your order from damage, loss, or theft...
-  Updated: 2026-01-01T20:07:13Z
+  Updated: 2026-01-02T08:07:15Z
   Vendor: IronForgeBeardCo.com
   Product Type: Atlas - Shipping Protection
   Availability: Available
