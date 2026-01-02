@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2026-01-01T08:48:34.942Z
+- Updated At: 2026-01-02T14:52:44.238Z
 
 ## Products
 
@@ -2082,7 +2082,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/no-tip-card-simplify-gratuity-decisions-1.webp?v=1766272707
   Price: £14.99 GBP
 - [The Connoisseur's Set - Reserve Glass Edition | Premium Glassware Set](https://meepleworx.fun/products/the-connoisseurs-set-reserve-glass-edition-444897102): Elevate your drinking experience with The Connoisseur's Set - Reserve Glass Edition. Perfect for enthusiasts, this elegant set enhances flavor and presentation.
-  Updated: 2025-12-31T14:58:16Z
+  Updated: 2026-01-01T16:04:20Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2123,7 +2123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/hidden-book-safe-discreet-storage-for-valuables-1.webp?v=1766272675
   Price: £18.99 GBP
 - [The Original Rocks - Premium Quality Natural Whisky Stones for Chill](https://meepleworx.fun/products/the-original-rocks-1756183694): Experience the purest taste with The Original Rocks - Premium Quality Natural Whisky Stones. Chill your whisky without dilution. Perfect for connoisseurs.
-  Updated: 2026-01-01T07:57:05Z
+  Updated: 2026-01-02T14:24:51Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2144,7 +2144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/secret-safe-indoor-outdoor-thermometer-1.webp?v=1766272665
   Price: £11.99 GBP
 - [The Gentleman's Set - Cigar Aficionado: Sophisticated Essentials](https://meepleworx.fun/products/whiskey-stones-gift-set-with-cigar-cutter-cigar-ashtray-6-handcrafted-round-stones-presentation-storage-tray-luxurious-whiskey-cigar-accessories-gold-foil-gift-box-by-r-o-c-k-s-844829114): Discover sophistication with The Gentleman's Set - Cigar Aficionado. This premium collection enhances your cigar experience. Elevate your style today!
-  Updated: 2026-01-01T00:26:51Z
+  Updated: 2026-01-02T13:47:15Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2752,7 +2752,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/draughts-classic-board-game-timeless-fun-for-all-ages-default-title-board-games-classic-board-game-draughts-game-family-fun-games-strategy-board-game-LD3.webp?v=1766236588
   Price: £7.00 GBP
 - [Santa's Driving Licence - Magical Christmas Accessory](https://meepleworx.fun/products/santas-driving-licence): Get your very own Santa's Driving Licence! This magical Christmas accessory adds festive fun to your holiday celebrations. Perfect for gifts or festive decor.
-  Updated: 2025-12-31T04:18:42Z
+  Updated: 2026-01-01T16:05:45Z
   Vendor: PoundFun
   Product Type: Christmas
   Availability: Available
@@ -2957,7 +2957,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/traditional-chess-game-classic-family-game-for-2-players-1.webp?v=1766272460
   Price: £7.99 GBP
 - [3 in 1 Backgammon/Chess Set - Perfect Travel Game & Christmas Gift](https://meepleworx.fun/products/3-in-1-backgammon-chess-set-new-design-travel-chess-set-board-material-entertainment-christmas-gift-i64): Enhance your game nights with our 3 in 1 Backgammon/Chess Set. This new travel design makes it perfect for entertainment and an ideal Christmas gift. Shop now!
-  Updated: 2025-12-31T04:19:16Z
+  Updated: 2026-01-02T12:42:10Z
   Vendor: Michan Direct
   Product Type: 0
   Availability: Available
@@ -3535,7 +3535,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/ink-board-game-unleash-your-creativity-with-strategic-fun-default-title-family-fun-game-ink-board-game-interactive-game-strategy-board-game-sbA.webp?v=1766245876
   Price: £40.00 GBP
 - [Traditional Catapult - Classic Design for Ultimate Outdoor Play](https://meepleworx.fun/products/traditional-catapult): Experience the thrill of outdoor fun with our Traditional Catapult. This classic design is perfect for play, offering endless hours of excitement for all ages.
-  Updated: 2025-12-31T04:20:49Z
+  Updated: 2026-01-02T11:07:26Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -3751,13 +3751,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/monopoly-naruto-1.webp?v=1766273317
   Price: £35.00 GBP
-- [Disney Villains Puzzle - 1000 Piece Adventure for Fans and Collectors](https://meepleworx.fun/products/disney-villains-puzzle): Unleash your inner villain with our Disney Villains Puzzle! This 1000-piece challenge is perfect for fans who love a fun and captivating puzzle experience.
-  Updated: 2025-12-31T04:21:22Z
-  Vendor: Snaps
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/disney-villains-1000-piece-puzzle-meeple-worx-ltd-gMw.webp?v=1766249184
-  Price: £13.00 GBP
 - [Harry Potter Wizard Chess Set - The Noble Collection's Magical Game](https://meepleworx.fun/products/the-noble-collection-harry-potter-wizard-chess-set-1): Experience the magic of the Harry Potter Wizard Chess Set from The Noble Collection. Perfect for fans, this stunning set brings enchanting battles to your home.
   Updated: 2025-12-31T04:21:23Z
   Vendor: Snaps
@@ -3998,7 +3991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/five-nights-at-freddys-night-of-frights-game-1.webp?v=1766271658
   Price: £28.97 GBP
 - [Coloured Dice for All Your Gaming Needs - Perfect for Every Player](https://meepleworx.fun/products/coloured-dice): Elevate your gaming experience with our vibrant coloured dice. Perfect for tabletop games, D&D, and more, these dice will add a splash of color to every roll!
-  Updated: 2025-12-31T04:22:04Z
+  Updated: 2026-01-02T02:46:00Z
   Vendor: PoundFun
   Product Type: Toys and Games
   Availability: Available
@@ -4334,7 +4327,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/colourology-party-game-fun-family-colour-matching-game-1.webp?v=1766271421
   Price: £11.49 GBP
 - [Christmas Ornament Toy Dart Board for Festive Fun - Perfect Gift](https://meepleworx.fun/products/christmas-ornament-toy-ball-dart-board): Celebrate the festive season with our Christmas ornament toy dart board! Perfect for holiday fun, this unique decoration adds joy to your festivities.
-  Updated: 2025-12-31T04:23:09Z
+  Updated: 2026-01-02T12:40:01Z
   Vendor: Michan Direct
   Product Type: 0
   Availability: Available
@@ -4906,7 +4899,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/lego-friends-surfing-dogs-scooter-adventure-default-title-n0t.webp?v=1767008810
   Price: £12.99 GBP
 - [Lego City Off-Road 4x4 Mountain Truck - Adventure Awaits Today!](https://meepleworx.fun/products/lego-city-off-road-4x4-mountain-truck): Explore the rugged terrain with the Lego City Off-Road 4x4 Mountain Truck! This exciting set offers adventure and creativity for builders of all ages.
-  Updated: 2025-12-31T04:27:11Z
+  Updated: 2026-01-02T10:39:45Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
   Availability: Available
@@ -4919,13 +4912,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/lego-friends-guinea-pig-playground-default-title-zO2.webp?v=1767008778
   Price: £8.99 GBP
-- [Lego City Emergency Ambulance - Quick Response Fun for Young Heroes](https://meepleworx.fun/products/lego-city-emergency-ambulance): Get ready for action with the Lego City Emergency Ambulance! This detailed set features an ambulance, paramedics, and accessories for exciting rescue missions.
-  Updated: 2025-12-31T04:27:13Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/lego-city-emergency-ambulance-default-title-5qB.webp?v=1767008764
-  Price: £17.99 GBP
 - [Lego Friends Dog-Grooming Car - Fun Pet Care Adventure Set](https://meepleworx.fun/products/lego-friends-dog-grooming-car): Discover the fun with the Lego Friends Dog-Grooming Car! This colorful set features grooming tools and adorable dog characters. Perfect for creative play.
   Updated: 2025-12-31T04:27:27Z
   Vendor: Curious Minds
@@ -5140,7 +5126,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/LIBMYST2501_1.webp?v=1766385583
   Price: £37.00 GBP
 - [Azul Board Game - Fun Strategy Game for Family Game Night](https://meepleworx.fun/products/azul-board-game): Discover the captivating Azul board game, a strategic tile-laying experience perfect for family game nights. Join the fun and enhance your collection today!
-  Updated: 2025-12-31T04:29:33Z
+  Updated: 2026-01-02T12:13:31Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -5314,7 +5300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/il_fullxfull.5180909293_bp7v_5da209ee-03e6-465b-bad8-6c6052603a75.webp?v=1766405310
   Price: £190.13 GBP
 - [Ice Cubes for Chilling Drinks and Refreshing Cocktails - Buy Now!](https://meepleworx.fun/products/ice-cubes-set-chilling-stones-whiskey-cooling-cube): Keep your drinks perfectly chilled with our premium ice cubes! Ideal for refreshing cocktails and everyday beverages. Elevate your hydration game today!
-  Updated: 2025-12-31T04:30:06Z
+  Updated: 2026-01-02T12:42:12Z
   Vendor: Michan Direct
   Product Type: 0
   Availability: Available
@@ -5666,6 +5652,9 @@
     Author: Meeple Worx Ltd
   - [Sports Analytics: Unlocking Game Insights for Winning Strategies](https://meepleworx.fun/blogs/the-missing-meeple/unlocking-sports-analytics-decoding-numbers): Sports Analytics: Unlocking Game Insights for Winning Strategies
     Updated: 2026-01-01T08:35:25Z
+    Author: Meeple Worx Ltd
+  - [Strategy Card Games: Unravelling the World of Competitive Gameplay](https://meepleworx.fun/blogs/the-missing-meeple/unravelling-the-world-of-strategy-card-games): Strategy Card Games: Unravelling the World of Competitive Gameplay
+    Updated: 2026-01-02T12:29:28Z
     Author: Meeple Worx Ltd
 
 ## Store Pages
