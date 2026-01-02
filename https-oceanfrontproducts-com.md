@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-12-31T21:01:53.385Z
+- Updated At: 2026-01-02T00:00:49.070Z
 
 ## Products
 
@@ -888,7 +888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1457208506641824603_2048.jpg?v=1754880573
     Price: $101.20 USD
 - [Playful Dog Illustration Coffee Cup for Dog Lovers](https://oceanfrontproducts.com/products/playful-dog-illustration-coffee-cup-a-heartwarming-choice-for-dog-lovers): Celebrate your love for dogs with every sip from our Playful Dog Illustration Coffee Cup. This delightful cup is designed especially for dog enthusiasts, featuring a variety of charming dog illustrations that capture the joy and affection of our furry friends.
-  Updated: 2025-11-09T01:25:15Z
+  Updated: 2026-01-01T10:36:13Z
   Vendor: Oceanfront Products
   Product Type: Mug
   Availability: Available
@@ -16969,9 +16969,9 @@
 - [Search Results](https://oceanfrontproducts.com/pages/ssr-search-results): #shopify-section-footer { display: none; } var FAST_SIMON_STORE_ID = "72569028856"; const createHTMLDocument=()=>document.implementation.createHTML...
   Updated: 2025-10-17T22:25:36Z
 - [Search Results](https://oceanfrontproducts.com/pages/search-results-v-next): #shopify-section-footer { display: none; } .compare { margin-left: 10px; } .filters-container { border-right: none !important; } .divider { display...
-  Updated: 2025-10-17T22:25:36Z
+  Updated: 2025-12-31T21:06:37Z
 - [Search Results](https://oceanfrontproducts.com/pages/search-results): #shopify-section-footer { display: none; } .compare { margin-left: 10px; } .filters-container { border-right: none !important; } .divider { display...
-  Updated: 2025-10-17T22:25:37Z
+  Updated: 2025-12-31T21:04:35Z
 - [Black Friday 2025 Sale](https://oceanfrontproducts.com/pages/black-friday-2025-sale): /* Remove theme header gap for custom landing pages */ .template-page .shopify-section:first-of-type, #MainContent { padding-top: 0 !important; mar...
   Updated: 2025-11-12T19:45:08Z
 
