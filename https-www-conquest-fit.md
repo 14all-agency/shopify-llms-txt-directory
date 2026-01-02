@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-12-31T00:00:41.411Z
+- Updated At: 2026-01-02T00:00:41.614Z
 
 ## Products
 
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC923.png?v=1753632392
   Price: $19.99 USD
 - [Skin Flex Collagen Gummies - 60 Ct for Youthful Skin & Joint Support](https://www.conquest.fit/products/skin-flex-collagen-gummies-60-gummies): Enhance your youthfulness with Skin Flex Collagen Gummies! This 60-count formula supports radiant skin and joint health, helping you feel vibrant and active every day.
-  Updated: 2025-12-30T23:50:37Z
+  Updated: 2025-12-31T11:50:44Z
   Vendor: Premium Gummies
   Product Type: 
   Availability: Available
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC121.png?v=1753631893
   Price: $19.99 USD
 - [Shred Matrix Thermogenic Burn - 60 Capsules - Conquest Nutrition](https://www.conquest.fit/products/shred-matrix-thermogenic-burn-60-capsules): Unlock your fat-burning potential with Shred Matrix Thermogenic Burn! Each bottle contains 60 capsules designed for effective fat loss. Start your transformation today!
-  Updated: 2025-12-30T23:33:46Z
+  Updated: 2025-12-31T04:18:37Z
   Vendor: Weight Loss & Detox
   Product Type: 
   Availability: Available
@@ -564,7 +564,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC110M.png?v=1761870805
   Price: $34.99 USD
 - [Skin Flex Collagen Type 1 & 3 - Grass Fed for Healthy Skin 35 Servings](https://www.conquest.fit/products/skin-flex-collagen-type-1-3-grass-fed-35-servings): Boost your beauty routine with Skin Flex Collagen Type 1 & 3. Grass-fed and packed with 35 servings, it promotes healthy skin and vitality. Discover radiant skin today!
-  Updated: 2025-10-31T00:34:15Z
+  Updated: 2026-01-01T23:29:47Z
   Vendor: General Health
   Product Type: 
   Availability: Available
@@ -1178,6 +1178,9 @@
     Author: Conquest Nutrition
   - [Trendy Fitness Tips Supported by Current Nutritional Science](https://www.conquest.fit/blogs/news/trendy-fitness-tips-supported-by-current-nutritional-science): Trendy Fitness Tips Supported by Current Nutritional Science
     Updated: 2025-12-29T07:04:40Z
+    Author: Conquest Nutrition
+  - [Common Exercise and Nutrition Issues and How to Overcome Them](https://www.conquest.fit/blogs/news/common-exercise-and-nutrition-issues-and-how-to-overcome-them): Common Exercise and Nutrition Issues and How to Overcome Them
+    Updated: 2025-12-31T07:04:29Z
     Author: Conquest Nutrition
 
 ## Store Pages
@@ -2042,6 +2045,72 @@
   Updated: 2025-09-17T23:41:14Z
 - [Podcasts](https://www.conquest.fit/pages/podcasts): A Acid Balance HCL Activator Balance Adrena Boost - Adrenal Suppport Complex Allipure Allicin Complex Formula Alpha Male Multivitamin Plus Apple Ci...
   Updated: 2025-10-29T20:41:40Z
+- [COA's](https://www.conquest.fit/pages/coas): A Apple Cider Vinegar Extra Strength Formula Ashwagandha Extra Strength Formula B B Boost Plus B-12 Drops 2oz Bio Balance Pro Probiotic - 40 Billio...
+  Updated: 2025-12-31T17:50:48Z
+- [Vital Fuel All-In-1 Superfood Immune Complex Mixed Berry Flavor](https://www.conquest.fit/pages/vital-fuel-all-in-1-superfood-immune-complex-mixed-berry-flavor)
+  Updated: 2025-12-31T15:21:19Z
+- [Nature's Java Organic Mushroom Coffee Blend](https://www.conquest.fit/pages/natures-java-organic-mushroom-coffee-blend)
+  Updated: 2025-12-31T15:36:42Z
+- [Vital C Glow Vitamin C](https://www.conquest.fit/pages/vitalc-glow-vitamin-c)
+  Updated: 2025-12-31T16:55:31Z
+- [Skin Flex Plus Collagen (Full Spectrum)](https://www.conquest.fit/pages/skin-flex-plus-collagen-full-spectrum)
+  Updated: 2025-12-31T16:52:50Z
+- [Pure Serenity Anxiety Formula](https://www.conquest.fit/pages/pure-serenity-anxiety-formula)
+  Updated: 2025-12-31T16:53:36Z
+- [B Boost Plus B-12 Drops 2oz](https://www.conquest.fit/pages/b-boost-plus-b-12-drops-2oz)
+  Updated: 2025-12-31T16:54:18Z
+- [Gluco Vitality Blood Sugar Balance Complex](https://www.conquest.fit/pages/gluco-vitality-blood-sugar-balance-complex)
+  Updated: 2025-12-31T16:55:20Z
+- [High Strength CoQ10 Ubiquinone](https://www.conquest.fit/pages/high-strength-coq10-ubiquinone)
+  Updated: 2025-12-31T16:56:22Z
+- [Vital Flex Joint Complex Formula](https://www.conquest.fit/pages/vital-flex-joint-complex-formula)
+  Updated: 2025-12-31T16:57:14Z
+- [Polar Pure Krill Oil](https://www.conquest.fit/pages/polar-pure-krill-oil)
+  Updated: 2025-12-31T16:58:26Z
+- [Neuro Surge Nootropic Brain and Focus Complex](https://www.conquest.fit/pages/neuro-surge-nootropic-brain-and-focus-complex)
+  Updated: 2025-12-31T16:59:21Z
+- [Vital Omega Plus Omega 3 Fish Oil](https://www.conquest.fit/pages/vital-omega-plus-omega-3-fish-oil)
+  Updated: 2025-12-31T17:00:25Z
+- [Bio Balance Pro Probiotic - 40 Billion CFU](https://www.conquest.fit/pages/bio-balance-pro-probiotic-40-billion-cfu)
+  Updated: 2025-12-31T17:01:15Z
+- [Zenergy Optimal Sleep Formula](https://www.conquest.fit/pages/zenergy-optimal-sleep-formula)
+  Updated: 2025-12-31T17:01:55Z
+- [Bio Turmeric Pro Turmeric with BioPerine - 650mg](https://www.conquest.fit/pages/bio-turmeric-pro-turmeric-with-bioperine-650mg)
+  Updated: 2025-12-31T17:03:23Z
+- [Apple Cider Vinegar Extra Strength Formula](https://www.conquest.fit/pages/apple-cider-vinegar-extra-strength-formula)
+  Updated: 2025-12-31T17:04:19Z
+- [Ashwagandha Extra Strength Formula](https://www.conquest.fit/pages/ashwagandha-extra-strength-formula)
+  Updated: 2025-12-31T17:05:15Z
+- [Turmeric and Ginger with Bioperine](https://www.conquest.fit/pages/turmeric-and-ginger-with-bioperine)
+  Updated: 2025-12-31T17:06:26Z
+- [Magnesium Glycinate Extra Strength](https://www.conquest.fit/pages/magnesium-glycinate-extra-strength)
+  Updated: 2025-12-31T17:07:15Z
+- [Inner Calm 5 - HTP](https://www.conquest.fit/pages/inner-calm-5-htp)
+  Updated: 2025-12-31T17:08:12Z
+- [Vital Flex Platinum Turmeric Joint Support Plus](https://www.conquest.fit/pages/vital-flex-platinum-turmeric-joint-support-plus)
+  Updated: 2025-12-31T17:08:56Z
+- [Vitamin K2 + D3 Plus Bioperine](https://www.conquest.fit/pages/vitamin-k2-d3-plus-bioperine)
+  Updated: 2025-12-31T17:09:47Z
+- [Pure Defense Elderberry Immune Support  with Vitamin C](https://www.conquest.fit/pages/pure-defense-elderberry-immune-support-with-vitamin-c)
+  Updated: 2025-12-31T17:10:29Z
+- [Organic Irish Sea Moss Plus Capsules](https://www.conquest.fit/pages/organic-irish-sea-moss-plus-capsules)
+  Updated: 2025-12-31T17:11:06Z
+- [Organic Beetroot Capsules](https://www.conquest.fit/pages/organic-beetroot-capsules)
+  Updated: 2025-12-31T17:11:41Z
+- [Mushroom Defense Plus Immune Booster Complex](https://www.conquest.fit/pages/mushroom-defense-plus-immune-booster-complex)
+  Updated: 2025-12-31T17:12:29Z
+- [Flow Defense D-Mannose and Cranberry UTI Formula](https://www.conquest.fit/pages/flow-defense-d-mannose-and-cranberry-uti-formula)
+  Updated: 2025-12-31T17:13:15Z
+- [Organic Ceylon Cinnamon Extra Strength](https://www.conquest.fit/pages/organic-ceylon-cinnamon-extra-strength)
+  Updated: 2025-12-31T17:13:52Z
+- [Life Vine Resveratrol Extract](https://www.conquest.fit/pages/life-vine-resveratrol-extract)
+  Updated: 2025-12-31T17:14:43Z
+- [Keto Burn Plus MCT Oil](https://www.conquest.fit/pages/keto-burn-plus-mct-oil)
+  Updated: 2025-12-31T17:15:24Z
+- [Vital Fuel Organic Super Greens-Watermelon](https://www.conquest.fit/pages/vital-fuel-organic-super-greens-watermelon)
+  Updated: 2025-12-31T17:16:38Z
+- [Vital Fuel Superfood - Elderberry Immunity with Zinc & Vitamin C](https://www.conquest.fit/pages/vital-fuel-superfood-elderberry-immunity-with-zinc-vitamin-c)
+  Updated: 2025-12-31T17:17:46Z
 
 ## Policies
 
