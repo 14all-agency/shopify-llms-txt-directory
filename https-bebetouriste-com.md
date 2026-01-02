@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-01-01T17:20:07.290Z
+- Updated At: 2026-01-02T01:16:17.433Z
 
 ## Products
 
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-poussette-strollerfootmuff-verte-725968.webp?v=1734791828
     Price: 74,90 € EUR
 - [Bidet Portable - PortableBidet™](https://bebetouriste.com/products/bidet-portable): Découvrez le bidet portable, solution innovante pour l'hygiène des mamans post-partum et des bébés. Confort, praticité, propreté optimale à la maison et en voyage.
-  Updated: 2025-12-22T15:06:25Z
+  Updated: 2026-01-01T22:13:10Z
   Vendor: Bébé Touriste
   Product Type: mutual
   Availability: Available
@@ -299,11 +299,11 @@
   - [Rose](https://bebetouriste.com/products/bidet-portable?variant=44021964963897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bidet-portable-portablebidet-374678.webp?v=1752336137
-    Price: 13,90 € EUR
+    Price: 15,00 € EUR
   - [Bleu vert](https://bebetouriste.com/products/bidet-portable?variant=44021964996665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bidet-portable-portablebidet-pour-enfants.webp?v=1752336137
-    Price: 13,90 € EUR
+    Price: 15,00 € EUR
 - [CALE TÊTE POUR BÉBÉ - BabyCarSeatHeadSupport™](https://bebetouriste.com/products/cale-tete-bebe-voiture): 😊🎁La cale tête pour bébé: confort et sécurité optimaux pour votre enfant. La solution idéale pour un sommeil paisible, position idéale en voiture.❤️
   Updated: 2025-12-20T00:29:17Z
   Vendor: mutualdropshopping
@@ -5190,10 +5190,10 @@
 ## Collections
 
 - [ALL](https://bebetouriste.com/collections/all): 👶🧳 Découvrez notre collection complète d'accessoires de voyage pour votre bébé ! Produits de qualité pour le confort et le bien-être quotidien de votre enfant! 🎁
-  Updated: 2025-12-30T04:57:55Z
+  Updated: 2026-01-01T22:13:11Z
   Total Products: 223
 - [NOS MEILLEURES VENTES](https://bebetouriste.com/collections/nos-meilleures-ventes): 👶 Découvrez nos meilleures ventes pour bébé ! Accessoires pratiques et essentiels pour simplifier votre quotidien de parent et voyager sereinement.
-  Updated: 2025-12-27T14:08:54Z
+  Updated: 2026-01-01T22:13:11Z
   Total Products: 79
 - [SAC A LANGER](https://bebetouriste.com/collections/sac-a-langer-babybag): 👜🧸 Notre gamme de sacs à langer: pratiques et élégants, pour répondre aux besoins des parents modernes. Trouvez le modèle parfait pour vos sorties avec bébé !
   Updated: 2025-12-30T04:57:55Z
@@ -5214,10 +5214,10 @@
   Updated: 2025-11-09T13:49:27Z
   Total Products: 11
 - [ACCESSOIRES](https://bebetouriste.com/collections/accessoires): 👶 Découvrez nos accessoires pour bébé pratiques et durables. Simplifiez votre quotidien avec des solutions innovantes pour le confort de votre petit !
-  Updated: 2025-12-22T03:06:47Z
+  Updated: 2026-01-01T22:13:11Z
   Total Products: 23
 - [ACTIVITÉS](https://bebetouriste.com/collections/activites): 📚📚📚🧳👶Offrez à votre enfant des activités enrichissantes, agréables et utiles, pendant vos voyages ou à la maison! Venez les découvrir!
-  Updated: 2025-12-29T18:21:10Z
+  Updated: 2026-01-01T21:20:26Z
   Total Products: 20
 - [SAC À DOS À LANGER](https://bebetouriste.com/collections/sac-a-dos-a-langer): 🎒SAC À DOS À LANGER : L'allié idéal pour les parents actifs. Avec style et fonctionnalité, ils offrent une grande capacité de rangement et un confort optimal.
   Updated: 2025-12-27T14:08:54Z
