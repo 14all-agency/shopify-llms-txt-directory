@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-24T05:58:51Z
-- Updated At: 2026-01-01T20:00:27.761Z
+- Updated At: 2026-01-02T04:00:26.621Z
 
 ## Products
 
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $97.99 USD
 - [Men's Grooming Bundle with Electric Shaver and Massage Gun](https://www.ironforgebeardco.com/products/the-ultimate-men-s-grooming-relaxation-bundle-beard-care-electric-shaver-and-m): Upgrade your routine with electric shaver and massage gun for precision grooming and muscle relief. Perfect for men's self-care or gifting.
-  Updated: 2026-01-01T18:28:45Z
+  Updated: 2026-01-02T00:32:21Z
   Vendor: Pursonic
   Product Type: Shaver
   Availability: Available
@@ -196,7 +196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/beard-balm.jpg?v=1767290078
   Price: $10.35 USD
 - [WOOD AND SPICE Beard Balm 300 ml - Hydrate & Soothe](https://www.ironforgebeardco.com/products/wood-and-spice-beard-balm-300-ml): Discover WOOD AND SPICE beard balm for hydration and comfort during beard growth. Enjoy the aromatic blend of cedar, amber, and soothing vanilla.
-  Updated: 2026-01-01T18:28:46Z
+  Updated: 2026-01-01T20:03:46Z
   Vendor: Proraso
   Product Type: Facial Cosmetics - Man
   Availability: Available
@@ -466,7 +466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/moonshine-beard-and-mustache-oil-449225.jpg?v=1767290863
     Price: $14.52 USD
 - [BASS Beard Brush – Natural Bristle Beard Grooming Tool, 1 CT](https://www.ironforgebeardco.com/products/bass-the-beard-brush-1-x-1-ct): BASS beard brush tames and softens long beards with natural bristles, ergonomic design, and a durable bamboo handle for easy grooming.
-  Updated: 2026-01-01T18:28:49Z
+  Updated: 2026-01-02T03:36:51Z
   Vendor: IronForgeBeardCo.com
   Product Type: BEAUTY TOOLS
   Availability: Available
@@ -596,7 +596,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA405.jpg?v=1767290197
   Price: $41.24 USD
 - [Pursonic Beard Care Grooming Kit & Eco Razor Combo](https://www.ironforgebeardco.com/products/pursonic-beard-care-grooming-kit-eco-friendly-razor-toothbrushes-combo-pack): Transform your grooming routine with the Beard Care Grooming Kit featuring essential products and an eco-friendly razor for a stylish, sustainable approach.
-  Updated: 2026-01-01T17:56:46Z
+  Updated: 2026-01-02T00:32:22Z
   Vendor: Pursonic
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -617,7 +617,7 @@
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/MLTCA30-DR6BE1.jpg?v=1767290192
   Price: $37.12 USD
 - [Mario Lopez Grooming Kit: Ultimate Men's Grooming Set](https://www.ironforgebeardco.com/products/mario-lopez-ultimate-grooming-oral-care-bundle-men-s-grooming-kit-triple-head-elec): Discover the Mario Lopez grooming kit, a 10-piece set for hair and oral care. Achieve precision grooming and a radiant smile effortlessly!
-  Updated: 2026-01-01T18:10:44Z
+  Updated: 2026-01-02T00:32:22Z
   Vendor: Pursonic
   Product Type: Oral Care Bundle
   Availability: Available
@@ -636,17 +636,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/15469-BLNK-OE-05-07-BCS-BC2-e1690922540297.jpg?v=1767290844
   Price: $15.84 USD
+- [Shipping Protection](https://www.ironforgebeardco.com/products/shipping-protection): Protect your order from damage, loss, or theft...
+  Updated: 2026-01-01T20:07:13Z
+  Vendor: IronForgeBeardCo.com
+  Product Type: Atlas - Shipping Protection
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0795/6837/1965/files/shield.png?v=1767298032
+  Price: $2.50 USD
 
 ## Collections
 
-- [Home Page - Explore Our Curated Product Collection](https://www.ironforgebeardco.com/collections/curated-product-col): Discover our curated product collection on the Home page. Explore a variety of products and offers tailored to your preferences today.
-  Updated: 2026-01-01T17:52:46Z
+- [Product Collection | Home Page - Browse Curated Items](https://www.ironforgebeardco.com/collections/curated-product-col): Discover a diverse range of products in our curated collection on the Home Page. Explore unique items for every need. Buy with confidence."
+  Updated: 2026-01-01T20:17:27Z
   Total Products: 6
 - [Best Sellers Collection - Top-Rated Products at](https://www.ironforgebeardco.com/collections/best-sellers-cc): Discover the best sellers collection at AVADA. Shop top-rated products and find popular items that suit your style. Free shipping on select orders.
-  Updated: 2026-01-01T16:16:30Z
-  Total Products: 64
-- [Shop the Best Product Collection Online for All Your Needs](https://www.ironforgebeardco.com/collections/product-collection): Discover our extensive product collection online, featuring high-quality items to suit every need. Shop now for great deals and exceptional service.
-  Updated: 2026-01-01T16:16:30Z
+  Updated: 2026-01-01T20:07:40Z
+  Total Products: 65
+- [Best Online Product Collection for Every Need | (Keywords)](https://www.ironforgebeardco.com/collections/product-collection): Browse our diverse online collection for a variety of products that meet all your needs. Shop the best product selection at your convenience
+  Updated: 2026-01-01T20:19:43Z
   Total Products: 55
 - [Optimize Your Collection Page SEO for Better Rankings](https://www.ironforgebeardco.com/collections/collection-page-seo): Optimize your collection page with valuable content, relevant keywords, and SEO best practices to improve search engine rankings and visibility.
   Updated: 2026-01-01T16:16:30Z
@@ -707,7 +714,10 @@
     Updated: 2026-01-01T17:02:11Z
     Author: Clickfrom AI Agent
   - [Pursonic Beard Care Kit & Eco Razor: Grooming Essentials](https://www.ironforgebeardco.com/blogs/news/pursonic-beard-care-kit-eco-razor-grooming-essentials)
-    Updated: 2026-01-01T17:01:26Z
+    Updated: 2026-01-02T00:01:57Z
+    Author: Clickfrom AI Agent
+  - [Shipping Protection: Secure Your Beard Care Deliveries](https://www.ironforgebeardco.com/blogs/news/shipping-protection-secure-your-beard-care-deliveries)
+    Updated: 2026-01-02T00:01:17Z
     Author: Clickfrom AI Agent
 
 ## Store Pages
