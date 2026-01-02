@@ -6,12 +6,12 @@
 - Timezone: Australia/Perth
 - Created At: 2025-08-09T04:42:37Z
 - Contact Email: hello@welltechfinds.com
-- Updated At: 2026-01-01T00:00:20.548Z
+- Updated At: 2026-01-02T00:00:24.029Z
 
 ## Products
 
-- [InkyLess Go™ - Mini Thermal Printer](https://shop.welltechfinds.com/products/mini-thermal-printer): InkyLess Go™ Mini Thermal Printer — 50% OFF! Portable, ink-free printing for notes, labels & creative projects. 72h battery, 100 free pages included. Shop now!
-  Updated: 2025-12-31T23:10:31Z
+- [InkyLess Go™ | The Original Inkless Pocket Printer](https://shop.welltechfinds.com/products/mini-thermal-printer): InkyLess Go™ Mini Thermal Printer — 50% OFF! Portable, ink-free printing for notes, labels & creative projects. 72h battery, 100 free pages included. Shop now!
+  Updated: 2026-01-01T23:51:42Z
   Vendor: WellTechFinds
   Product Type: 
   Availability: Available
@@ -124,10 +124,10 @@
 ## Collections
 
 - [Home page](https://shop.welltechfinds.com/collections/frontpage)
-  Updated: 2025-12-28T07:51:45Z
+  Updated: 2026-01-01T11:51:36Z
   Total Products: 1
 - [Best-Sellers](https://shop.welltechfinds.com/collections/best-sellers)
-  Updated: 2025-12-28T07:51:45Z
+  Updated: 2026-01-01T11:51:36Z
   Total Products: 13
 
 ## Store Pages
