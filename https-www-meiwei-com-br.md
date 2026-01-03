@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-03T16:01:09.789Z
+- Updated At: 2026-01-03T20:01:19.057Z
 
 ## Products
 
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Capturadetela2022-09-20172852.jpg?v=1663705856
   Price: R$ 28,90 BRL
 - [Molho de pimenta (Chilli In Oil 老干妈油辣椒) - Lao Gan Ma 275g](https://www.meiwei.com.br/products/oleo-de-pimenta-chines-chilli-in-oil-lao-gan-ma-275g): Após o sucesso do molho de pimenta chinesa Lao Gan Ma tradicional, a marca resolveu criar uma linha de milhos complesta com sabores diversos que agradam até os que tem o paladar mais exigente. E o molho de pimenta Lao Gan Ma Chilli in Oil faz parte dessa família, este molho tem sabor único, perfeito para realçar o sabor dos mais diversos pratos. Este molho de pimenta não é tão picante. INGREDIENTES: Óleo, pimenta, amendoim, glutamato monossódico (INS621), sal, açúcar branco, pimenta. NÃO CONTÉM GLÚTEN ALÉRGICOS: CONTÉM AMENDOIM E DERIVADOS DE SOJA. Mantenha em local fresco e seco, evite luz solar direta. INFORMAÇÃO NUTRICIONAL Porção 5g (1 colher chá) Quantidade por porção %VD (*) Valor Energético 33 Kcal - 137 Kj 2% Carboidratos 0g 0% Proteínas 0,3g 0% Gorduras Totais 3,4g 6% Gorduras Saturadas 0g 0% Gorduras Trans 0g ** Fibra Alimentar 0g 0% Sódio 1296mg 5% *Valores Diários com base em uma dieta de 2000kcal ou 8400kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.**VD não estabelecido. Origem: China
-  Updated: 2025-12-30T07:36:30Z
+  Updated: 2026-01-03T17:17:16Z
   Vendor: Lao Gan Ma
   Product Type: Molho de Pimenta
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-shoyu-molho-de-soja-escuro-haitian-classic-500ml.png?v=1766339486
   Price: R$ 39,90 BRL
 - [Shoyu Molho de soja Delicioso (海天酱油鲜味生抽) - Haday 500ml](https://www.meiwei.com.br/products/haday-soy-sauce-classic-delicious-light-soy-sauce-foshanshi-500ml): Haday Molho de Soja Saboroso INGREDIENTES: Água, soja não-OGM, sal, trigo, glutamato de sódio (INS621), farinha de trigo, nucleotideo dissódico 5, ácido 5´- inosínico dissódico(INS631), cor de caramelo(INS150a), benzoato de sódio (INS211). CONTÉM GLÚTEN ALÉRGICOS: CONTÉM DERIVADO DE TRIGO E SOJA. Manter armazenado a temperatura ambiente, após aberto manter sob refrigeração.
-  Updated: 2025-12-23T22:38:05Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Haday
   Product Type: Molho de Soja
   Availability: Available
@@ -540,7 +540,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/ad0637359be74fb2a2dcdd21ba4f65b8.jpg?v=1668611729
   Price: R$ 49,99 BRL
 - [Macarrão vermicelli de feijão verde (Harussame) - Lungkow 250g](https://www.meiwei.com.br/products/macarrao-de-feijao-harussame-vermicelli-lungkow-250g): O macarrão Harusame possui origem chinesa, sendo também muito consumido na Indonésia, Malásia, Filipinas, Coreias e Japão. É um macarrão leve e transparente feito à base de feijão verde (Moyashi), indicado para cozidos, refogados, saladas e sunomono (salada em vinagre doce). INGREDIENTES: Feijão verde (moyashi), ervilha, água. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 80g (1 prato raso) Quantidade por Porção %VD(*) Valor Energético 225Kcal = 1071Kj 13% Carboidratos 64g 21% Proteínas 1,44g 2% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g ** Fibras 0g 0% Sódio 18mg 1% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada, e em local seco. Origem: China Contém 250g
-  Updated: 2025-12-23T17:34:00Z
+  Updated: 2026-01-03T17:17:16Z
   Vendor: Lungkow
   Product Type: Massa
   Availability: Available
@@ -834,7 +834,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/15348edcd28bddba2b4ac5a08fb59323.jpg?v=1669127626
   Price: R$ 78,90 BRL
 - [Alga marinha Kombu fatiada desidratada -  Kaxing 200g](https://www.meiwei.com.br/products/alga-marinha-kombu-fatiado-kaxing-200g): Descubra o segredo por trás da excelência culinária com a Alga Marinha 紫菜 Kombu. Originária do Japão, essa alga versátil eleva o sabor de suas receitas a um novo patamar. Com um perfil nutricional rico em minerais essenciais, a Kombu é a escolha perfeita para adicionar um toque de saúde aos seus pratos.Sua utilização é descomplicada: experimente preparar um caldo dashi, uma base sofisticada para sopas e ensopados, simplesmente deixando a Kombu de molho. Ou, adicione pedaços desta alga aos pedaços durante o cozimento para intensificar o sabor e facilitar a digestão.Além disso, a Kombu é uma aliada valiosa em culinárias vegetarianas e veganas, trazendo umami inigualável a saladas, wraps e pratos à base de vegetais. Transforme suas refeições diárias em experiências gastronômicas memoráveis com a Alga Marinha Kombu - a chave para um sabor autêntico e uma nutrição extraordinária. Experimente agora e descubra como essa pequena alga pode fazer grandes maravilhas em sua cozinha. INGREDIENTES: Alga marinha Kombu INFORMAÇÃO NUTRICIONAL Porção de 20g Quantidade por Porção %VD(*) Valor Energético 12 Kcal = 50 Kj 1% Carboidratos 2g 1% Proteínas 1g 1% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g ** Fibras 0,5g 2% Sódio 50mg 2% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China Contém 200g Clique aqui e navegue pela nossa seleção de algas marinhas!
-  Updated: 2025-12-06T15:36:00Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Zhongshan Kaxing
   Product Type: Alga
   Availability: Available
@@ -1748,7 +1748,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/11.png?v=1680024672
   Price: R$ 11,00 BRL
 - [Macarrão instantâneo (Lamen) sabor Kimchi - Nongshim 120g](https://www.meiwei.com.br/products/macarrao-instantaneo-sabor-kimchi-nongshim-120g): Macarrão tipo lámen. Sabor kimchi, uma conserva típica coreana feita de legumes, vegetais e muita pimenta vermelha. Ideal para apreciadores de pimenta forte. INGREDIENTES: Macarrão: farinha de trigo, óleo de palma, amido de batata, sal, molho de soja, alho, amido de trigo, extrato de chá verde, extrato de levedura, carbonato de sódio (INS00i), tocoferol (INS307), lecitina (INS322), ácido cítrico (INS330), riboflavina (INS101i). Tempero: maltodextrina, proteína de soja e milho hidrolisada, trigo, sal, anchova, extrato de levedura, óleo de mostarda, açúcar, glicose, pimenta vermelha, pimenta do reino, alho, vegetais secos, flocos de kimchi, acelga, cenoura, cebolinha, caramelo, guanilato de sódio (INS627), inosinato dissódico (INS631) CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 415 Kcal = 2112 Kj 21% Carboidratos 69 g 23% Proteínas 7,7 g 10% Gorduras Totais 12 g 22% Gorduras Saturadas 6,7 g 29% Gorduras Trans 0 g ** Fibras alimentares 0 g 0% Sódio 1920 mg 80% Armazenar em local fresco seco. Origem: Coreia do Sul.
-  Updated: 2025-12-23T17:34:35Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Nongshim
   Product Type: Massa
   Availability: Available
@@ -2042,7 +2042,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/9873b286e4e102a4508474f18ce44561.jpg?v=1691075924
   Price: R$ 35,28 BRL
 - [Molho de Ostra Vegetariano com cogumelo - Wan Ja Shan 1L](https://www.meiwei.com.br/products/molho-ostra-vegetariano-feito-com-cogumelo-1l-whan-ja-shan): O Molho de Ostra Vegetariano feito com cogumelo é uma alternativa deliciosa e saudável ao tradicional molho ostra, adequado para aqueles que seguem uma dieta vegetariana ou vegana. Feito com cogumelos frescos e outros ingredientes naturais, este molho oferece um sabor rico e umami, sem a necessidade de produtos de origem animal. Além de adicionar profundidade e complexidade aos pratos, o molho ostra vegetariano realça o sabor dos vegetais, tofu, seitan e outros ingredientes vegetarianos, tornando-os mais saborosos e apetitosos. Versátil e fácil de usar, é perfeito para marinadas, refogados, stir-fries e mergulhos. Experimente este molho ostra vegetariano feito com cogumelo para uma experiência culinária que é ao mesmo tempo saudável e saborosa. INGREDIENTES: Água, açúcar líquido, soja não-geneticamente modificada (flocos de proteinas), trigo, sal, agente de viscosidade (goma de açúcar de milho, amido acetilado adípico), extrato de levedura, benzoato de sódio (conservantes), pó de cogumelo. CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA E TRIGO INFORMAÇÃO NUTRICIONAL Porção: 20ml (1 colher de sopa) Quantidade por porção %VD(*) Valor Energético 25Kcal/83,6Kj 1 Carboidratos 5g 2 Proteínas 1g 1 Gorduras Totais 0g 0 Gorduras Saturadas 0g 0 Gorduras Trans 0g (**) Fibra Alimentar 0g 0 Sódio 1000mg 42 (*) Valores diários com base em uma dieta de 2000kcal. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. (**) Valor Diário não estabelecida Após aberto, conservar a embalagem bem fechada e refrigerado Origem: Taiwan Contém 1 litro Clique aqui e veja outros molhos vegetarianos!
-  Updated: 2025-12-26T17:24:19Z
+  Updated: 2026-01-03T17:17:16Z
   Vendor: Whan Ja Shan
   Product Type: Molho de Ostra
   Availability: Available
@@ -2203,7 +2203,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-de-carne-assada.jpg?v=1690572047
   Price: R$ 15,99 BRL
 - [Macarrão instantâneo (Lamen) sabor carne picante - Master Kong 100g](https://www.meiwei.com.br/products/lamen-instantaneo-sabor-carne-picante): Macarrão instantâneo (Lamen) sabor carne picante é perfeito para quem busca praticidade sem abrir mão de um sabor marcante e encorpado. Os fios de massa absorvem bem o caldo, que combina o sabor da carne com um toque apimentado na medida certa. Ideal para uma refeição rápida e reconfortante, basta adicionar água quente e em poucos minutos você tem um prato delicioso com aquele gostinho de comida feita na hora. INGREDIENTES: Farinha de Trigo Premium, óleo de colza, sebo bovino, carne bovina, ovo, pimenta, pimenta verde, vegetais desidratados, sal e açúcar. ALÉRGICOS CONTÉM TRIGO CONTÉM GLÚTEN Origem: China Contém 100g
-  Updated: 2025-12-23T17:34:16Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Master Kong
   Product Type: Massa
   Availability: Available
@@ -3120,7 +3120,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/2ce610daaae66d919b7ca1870eb84253.jpg?v=1694802429
   Price: R$ 38,90 BRL
 - [Suco de lichia com nata de coco - Chin Chin 315ml](https://www.meiwei.com.br/products/suco-lichia-c-nata-de-coco-chin-chin-315ml): Refrescante e tropical, combina o sabor adocicado da lichia com pedacinhos macios de nata de coco, oferecendo uma bebida leve, aromática e com uma textura surpreendente. Ideal para consumir bem gelado. INGREDIENTES: Água, açúcar, suco de lichia, ácido citrico, nata de coco, polifosfáto de sódio, carboximeticelulose. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 315 ml (1 Lata) Quantidade por Porção %VD(*) Valor Energético 120 Kcal / 503 Kj 6% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Colesterol 0mg 0% Sódio 29mg 1% Carboidratos 29g 10% Fibras 0g 0% Açúcar 28g 3% Proteínas 0g 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em ambiente fresco e arejado.
-  Updated: 2025-12-06T15:37:22Z
+  Updated: 2026-01-03T19:19:42Z
   Vendor: Chin Chin
   Product Type: Bebida
   Availability: Available
@@ -3260,7 +3260,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/56f29bbfa9921ada4c93f4b533e07f0f_1.jpg?v=1695322612
   Price: R$ 29,99 BRL
 - [Macarrão vermicelli de feijão (harussame) - ZhaoYuan 300g](https://www.meiwei.com.br/products/macarrao-de-feijao-harussame-vermicelli-rosa-lungkou-300g): O harusame é um macarrão leve e translúcido, indicado para cozidos, refogados, saladas e sunomono (salada em vinagre doce). INGREDIENTES: Farinha de trigo, água e feijão moyashi. NÃO CONTÉM GLÚTEN NÃO CONTÉM LACTOSE ALÉRGICOS CONTÉM DERIVADO DE TRIGO E OVO INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1377 Kcal 16% Carboidratos 75g 25% Proteínas 7,0g 12% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g ** Fibras 0g 0% Sódio 0g 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Origem: China Contém 300g
-  Updated: 2025-12-23T17:34:02Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: ZhaoYuan
   Product Type: Massa
   Availability: Available
@@ -4170,7 +4170,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-preta-aixi.jpg?v=1719334272
   Price: R$ 28,90 BRL
 - [Sal e pimenta em pó - Aixi 50g](https://www.meiwei.com.br/products/sal-e-pimenta-em-po-aixi-50g): Adequado para fazer camarão salgado e apimentado, fritar e grelhar carnes em casa e em restaurantes! Sal e Pimenta em Pó é um tempero clássico da culinária asiática, feito com uma combinação equilibrada de sal, pimenta e um toque de especiarias tostadas. Ideal para polvilhar sobre frango frito, frutos do mar, tofu ou batatas crocantes, realça os sabores com um toque levemente picante e muito saboroso. INGREDIENTES: Pimenta, gergelim, sal comestível, açúcar branco, MSG. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1382kJ 16% Carboidratos 41,1g 14% Proteínas 14,5g 24% Gorduras Totais 8,5g 14% Sódio 9500mg 475% Manter em local fresco e arejado Origem: China Contém 50g
-  Updated: 2025-12-23T17:34:00Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Aixi
   Product Type: Tempero
   Availability: Available
@@ -5255,7 +5255,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bebida-leite-amendoim_9123e213-70c0-44f8-943b-5af5ab40f9e8.jpg?v=1724166658
   Price: R$ 20,99 BRL
 - [Bebida de iogurte de frutas - Wahaha 500ml](https://www.meiwei.com.br/products/bebida-de-iogurte-de-frutas-wahaha-500ml): A bebida de iogurte de frutas é uma combinação refrescante e cremosa que une o sabor natural das frutas com a suavidade do iogurte. Perfeita para consumir a qualquer hora do dia, essa bebida oferece uma explosão de sabor frutado em cada gole, sendo uma escolha ideal para quem procura uma opção deliciosa e saudável para se refrescar. INGREDIENTES: água, açúcar granulado branco, leite em pó, carboximetilcelulose de sódio, ácido cítrico, ácido láctico, tripolifosfato de sódio, citrato de sódio, goma guar, polidextrose, aspartamo contendo alanina, acesulfame, goma de xantana, vitamina E, nisina, suco de maçã concentrado, leite desnatado em pó, proteína de trigo concentrada em pó, suco de fruta concentrado, essencia alimentar, citrato de zinco, nicotinamida e probióticos. CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 100ml Valor Calórico 190kJ 2% Carboidratos totais 6,5g 2% Proteínas 1g 2% Gorduras totais 0,9g 2% Cálcio 25mg 3% Sódio 15mg * Agite bem antes de beber e beba imediatamente após abrir. Origem: China Contém 500ml
-  Updated: 2025-12-23T17:34:37Z
+  Updated: 2026-01-03T19:19:42Z
   Vendor: Wahaha
   Product Type: Bebida
   Availability: Available
@@ -5871,7 +5871,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/toban-djan-1kg.jpg?v=1726507529
   Price: R$ 69,99 BRL
 - [Macarrão artesanal sabor carne - Mailaoda 900g](https://www.meiwei.com.br/products/macarrao-artesanal-sabor-carne-zhong-shan-900g): O macarrão artesanal sabor carne é uma opção deliciosa e prática, combinando a textura suave e firme do macarrão com um sabor rico de carne. Perfeito para quem procura uma refeição rápida, mas cheia de sabor. Ele pode ser preparado facilmente e apreciado tanto em sopas quanto em pratos secos. Modo de preparo: Convencional: Ferva a água, coloque o macarrão na panela e ferva por 3 a 4 minutos. Macarrão com Sopa: Ferva bem a sopa de seu sabor preferido; coloque o macarrão na panela para cozinhar por 3-4 minutos depois que a água estiver fervendo. Macarrão frito: Refogue os condimentos, coloque o macarrão e os condimentos restantes na panela e frite por 3 a 4 minutos, adicione o molho de tomate preparado de acordo com a preferência pessoal antes de servir e sirva em seguida. INGREDIENTES: farinha de trigo, água potável, sal comestível, carne bovina em pó (0,1%), aditivos alimentares (carboximetilcelulose sódica, poliacrilato de sódio, carbonato de sódio, curcumina). Ingrediente: Farinha de Trigo, Água, Sal, Carne em pó (0,1%), Aditivos alimentares (carboximetilcelulose de sódio, poliacrilato de sódio, carbonato de sódio, curcumina). INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1492kJ 18 Proteínas 9,3g 16 Gorduras Totais 0,8g 1 Carboidratos 76,7g 26 Sódio 695mg 35 Colocar em local ventilado, fresco, seco e sem odores. Origem: China Contém 900g
-  Updated: 2025-12-23T17:34:02Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Mailaoda
   Product Type: Massa
   Availability: Available
@@ -5955,7 +5955,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lamen-costela-suina_1.jpg?v=1726771369
   Price: R$ 19,99 BRL
 - [Macarrão instantâneo sabor carne bovina e pimenta - ChenCun 100g](https://www.meiwei.com.br/products/macarrao-instantaneo-sabor-carne-bovina-e-pimenta-chencun-100g): O macarrão instantâneo (lámen) sabor carne bovina e pimenta combina o sabor robusto da carne bovina com um toque picante de pimenta, criando uma refeição rápida e cheia de sabor. Modo de preparo: Após ferver a água (400-500ml), cozinhe o macarrão por 4-6 minutos e misture os ingredientes. INGREDIENTES: Macarrão de arroz: arroz, amido; Pacote de molho: óleo de palma, chalota, alho, molho de soja fermentado, água, açúcar, intensificador de sabor E621, sal, amido, especiarias, pasta de feijão Pixian (cílios vermelhos, grãos de fava, sal, água, farinha de trigo, conservante E202), pimenta em pó, sal, açúcar, gengibre em pó, intensificador de sabor E621, vitamina E, corante E160c; Pacote de tempero em pó: sal, açúcar, maltodextrina, extrato de levedura, intensificador de sabor E621, sal, pimenta-do-reino, alho em pó, cebola em pó, pimenta de Sichuan em pó, especiarias, coentro desidratado, aditivos alimentares E635, E364(ii), E150a, E551. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO, SOJA, GERGELIM INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção Valor Energético 338kcal 14% Proteínas 6g 8% Gorduras Totais 10g 15% Carboidratos 56g 19% Fibra Alimentar 1g 4% Sódio 2890mg 112% Colocar em local fresco e seco Origem: China Contém 100g
-  Updated: 2025-12-07T15:35:48Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: ChenCun
   Product Type: Massa
   Availability: Available
@@ -5990,7 +5990,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lamen-azedo-picante.jpg?v=1726783118
   Price: R$ 19,90 BRL
 - [Macarrão instantâneo sabor carne e tomate - Master Kong 119g](https://www.meiwei.com.br/products/macarrao-instantaneo-sabor-carne-e-tomate-master-kong-119g): O macarrão instantâneo (lámen) sabor carne e tomate traz uma combinação clássica e reconfortante, unindo o sabor suculento da carne com a acidez e doçura do tomate, criando uma refeição rápida e saborosa para qualquer momento. Modo de preparo: Acrescente água fervente até cobrir o macarrão, acrescente o sachê com o tempero. INGREDIENTES: Macarrão: Farinha de trigo, Óleo de palma, Amido, Amido acetato, Sal, Glúten de trigo, Regulador de acidez (ES01, E500, E4521, E339, E451), Espessante (E450, E466), Intensificador de sabor (E627, E635), Espessante (Proteína de soja, E415, E401, Amido de milho), Corante alimentício (E101), Vitamina E. Pacote de tempero: Sabor de tempero, Água, Sal, Óleo vegetal, Óleo de pimenta, Pasta de fava Pixian Chilli, Sal, Pimenta moída, Açúcar, MSG, Alho, Molho de soja fermentado, Corante caramelo, Cebola, Especiarias, Intensificador de sabor (E635), Vitamina E. Pacote de óleo de tempero: Óleo de palma refinado, Óleo de gergelim, Aromatizante alimentício, Corante alimentício (E160c), Vitamina E. Pacote de tempero: Vegetal desidratado, Repolho desidratado, proteína de soja desidratada, gergelim, coentro desidratado, pimenta moída desidratada. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO, SOJA, GERGELIM INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção Valor Energético 1749kJ 21% Proteínas 6,5g 11% Gorduras Totais 21,3g 36% Carboidratos 50g 17% Sódio 2102mg 105% Colocar em local fresco e seco Origem: China Contém 119g
-  Updated: 2025-12-07T15:35:50Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Master Kong
   Product Type: Massa
   Availability: Available
@@ -6018,7 +6018,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/caule-mostarda-conserva.jpg?v=1726854257
   Price: R$ 54,99 BRL
 - [Cogumelo Orelha‑de‑Pau Crocante em Conserva 280g - 饭扫光 爽脆木耳](https://www.meiwei.com.br/products/cogumelo-orelha-de-pau-temperado-fansaoguang-280g): O Cogumelo Orelha‑de‑Pau Crocante em Conserva 280g 饭扫光 爽脆木耳 é um acompanhamento clássico da culinária chinesa, pronto para servir. Produzido na China pela marca 饭扫光, traz fatias de cogumelo orelha‑de‑pau (wood ear / black fungus) marinadas em molho levemente picante, ácido e aromático. A textura é crocante e gelatinosa ao mesmo tempo, ideal para ser servido como: acompanhamento frio (liangcai) com arroz ou noodles topping para lámen e sopas recheio de wraps, guiozas e panquecas chinesas entrada em mesas de petiscos orientais Diferenciais Produto pronto para consumo – basta abrir o pote e servir. Textura bem crocante (爽脆), típica do cogumelo orelha‑de‑pau. Sabor equilibrado entre ácido, levemente picante e umami. Excelente para quem quer trazer autenticidade de boteco chinês para casa ou para o restaurante. Embalagem de vidro, que preserva sabor e aroma. INGREDIENTES: Óleo vegetal, orelha de pau, pimenta, mostarda salgada (mostarda, sal), gengibre, alho poró, cebola, sal, glutamato monossídico (INS621), açúcar branco, extrato de levedura, especiarias, 5'-Ribonucleotídeo dissódico (INS 635), sorbato de potássio (INS 202). NÃO CONTÉM GLÚTEN ALÉRGICOS PODE CONTER SOJA, GERGELIM E AMENDOIM INFORMAÇÕES NUTRICIONAISPorção de 20g (1 colher de sopa) Valor Calórico 68kcal 3% Carboidratos 1g 0% Açúcares totais 0g 0% Proteínas 0,5g 1% Gorduras totais 7,3g 13% Sódio 289mg 11% Receita usando o produto Salada Fria Oriental com Cogumelo Orelha‑de‑Pau Crocante Ingredientes (2 porções) 4 colheres (sopa) de Cogumelo Orelha‑de‑Pau Crocante 饭扫光 爽脆木耳 1 pepino japonês em tiras finas 1 cenoura pequena em tiras finas 1 colher (sopa) de cebolinha picada 1 colher (chá) de óleo de gergelim torrado 1 colher (chá) de molho de soja 1 colher (chá) de vinagre de arroz ou vinagre comum Gergelim torrado a gosto Modo de preparo Em uma tigela, misture o pepino e a cenoura em tiras. Adicione o cogumelo orelha‑de‑pau em conserva e misture levemente. Tempere com óleo de gergelim, molho de soja e vinagre. Ajuste sal se necessário. Finalize com cebolinha e gergelim torrado. Sirva gelado ou em temperatura ambiente como entrada ou acompanhamento para arroz, lámen ou pratos chineses. Instruções de armazenamento Antes de abrir: conservar em local seco, fresco e ao abrigo da luz solar direta. Após aberto: manter refrigerado entre 1 °C e 8 °C, sempre com a tampa bem fechada. Consumir preferencialmente em até 7–10 dias após a abertura ou conforme instruções do rótulo. Usar sempre utensílio limpo e seco para retirar o produto, evitando contaminação.
-  Updated: 2025-12-24T07:12:20Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: FanSaoGuang
   Product Type: Condimento
   Availability: Available
@@ -7397,7 +7397,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/noodle-inst-frango.jpg?v=1733253468
   Price: R$ 16,90 BRL
 - [Macarrão instantâneo sabor costela suína assada - ChenCun 85g](https://www.meiwei.com.br/products/macarrao-instantaneo-sabor-costela-de-porco-assada-chencun-85g): Macarrão Instantâneo Sabor Costela de Porco Assada traz o sabor profundo e defumado de costelas de porco perfeitamente assadas em um caldo rico e levemente temperado. Sua textura firme e macia combina perfeitamente com o caldo encorpado, proporcionando uma experiência gastronômica autêntica e reconfortante. Ideal para quem busca uma refeição prática e deliciosa, pode ser complementado com cebolinha fresca, legumes ou um ovo cozido para um toque extra de sabor e sofisticação. INGREDIENTES: Saco de macarrão: amido. Saco de molho de tempero: óleo de palma, óleo de gergelim, cebola roxa, extrato artificial de costela de porco (produto de soja, molho de soja, água, açúcar, E621, sal, amido, especiarias), pasta de feijão amarelo salgado (soja, farinha de trigo, água, sal, E202), pasta de feijão pixian (feijão vermelho com pimenta, sal, água, farinha de trigo, É202), ketchup, pimenta em pó, especiarias, sal, açúcar, E621, E170, E307. Saco de tempero em pó: sal, açúcar, extrato de fermento. pó de molho de soja (molho de soja, E965), tempero artificial de costela de porco (produto de soja, açúcar, E965, extrato de fermento, E621, sal, especiarias), pimenta, alho em pó, pimenta de Sichuan, cebola em pó, especiarias, E621, E635, E150a, E228. Saco de vegetais: pakchoi verde desidratado, repolho desidratado, cenoura desidratada, extrato artificial de frango (produto de soja, amido, óleo de milho, açúcar, E160a), coentro desidratado, cebolinha desidratada. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China Contém 85g
-  Updated: 2025-12-23T17:34:00Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: ChenCun
   Product Type: Massa
   Availability: Available
@@ -9343,7 +9343,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-folhas-bambu.jpg?v=1744061941
   Price: R$ 79,99 BRL
 - [Suco de lichia com pedaços - Zhenzhen 490g](https://www.meiwei.com.br/products/suco-de-lichia-zhenzhen-490g): O suco de lichia com pedaços traz ainda mais autenticidade e sabor: além do líquido refrescante e levemente floral da fruta, vem com pedacinhos da polpa para uma experiência mais rica e deliciosa. Ideal para quem ama bebidas com textura, é ótimo para ser consumido gelado ou como base para coquetéis tropicais. INGREDIENTES: Fibra de fruta, açúcar branco, xarope de frutose-glicose, suco concentrado de lichia, suco concentrado de maçã, ácido cítrico, sódio, carboximetilcelulose de sódio, sucralose, acessulfame de potássio, sorbato de potássio e sabores comestíveis. Conteúdo total de suco ≥10% (incluindo 4% de fibra de coco e 5% de suco de lichia) INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 112kJ 1 Proteínas 0g 0 Gorduras Totais 0g 0 Carboidratos 6,6g 2 Sódio 20mg 1 Agite bem antes de beber. Este produto contém partículas de fibra de coco. As crianças devem beber em pequenos goles, sob a supervisão de um adulto! Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 460g
-  Updated: 2025-12-06T15:41:25Z
+  Updated: 2026-01-03T19:19:42Z
   Vendor: Zhenzhen
   Product Type: Bebida
   Availability: Available
@@ -9630,7 +9630,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cogumelo-agulha-170g.jpg?v=1745589077
   Price: R$ 39,99 BRL
 - [Tempero de cogumelo Matsutake granulado - Xijiale 120g](https://www.meiwei.com.br/products/tempero-de-cogumelo-matsutake-granulado-xijiale-120g): Feito a partir do aromático cogumelo Matsutake, esse tempero granulado traz um sabor intenso, terroso e levemente amadeirado, típico da alta gastronomia japonesa. Ideal para realçar caldos, sopas, arroz, noodles e pratos quentes, adicionando um toque umami sofisticado com praticidade. Um ingrediente versátil para elevar o sabor das suas receitas do dia a dia com um toque gourmet. INGREDIENTES: MSG, sal, amido de milho, açúcar, maltodextrina, pó de matsutake, pó de hericium erinaceus, pó de cogumelo ostra-rei, pó de cogumelo, pó de cogumelo shiitake, pó de cenoura, pó de tomate, pó de gergelim, pó de repolho, 5'-ribonucleotídeo dissódico. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 404kJ 5% Proteína 1,6g 3% Gorduras Totais 5,3g 9% Carboidratos 10,6g 4% Açúcares Totais 3,8g * Sódio 20588g 1029% Validade: 18 meses Origem: China Contém 120g
-  Updated: 2025-12-23T17:34:01Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Xijiale
   Product Type: Tempero
   Availability: Available
@@ -10260,7 +10260,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-escuro-soja-exclusivo.jpg?v=1748982756
   Price: R$ 49,99 BRL
 - [Shoyu Molho de soja light Golden Label - Lee Kum Kee 1.9L](https://www.meiwei.com.br/products/molho-de-soja-light-golden-label-lee-kum-kee-1-9l): Feito com grãos selecionados e fermentação tradicional, o Molho de Soja Light Golden Label é mais claro e suave, mas com um sabor profundo e marcante. Ideal para pratos que exigem delicadeza, como frutos do mar, vegetais salteados, frango ou molhos leves, ele realça o sabor dos ingredientes sem escurecê-los. Seu selo dourado representa a excelência na produção e o padrão mais alto da linha light. Um toque de autenticidade e elegância na sua cozinha oriental. Manter em local seco e arejado. Origem: China Contém 1.9L
-  Updated: 2025-12-22T08:07:15Z
+  Updated: 2026-01-03T19:29:02Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
@@ -11765,14 +11765,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/doce-espinheiro-original.jpg?v=1755025954
   Price: R$ 28,90 BRL
 - [Cogumelo Orelha de pau (Black Fungus) - Huaseed 100g](https://www.meiwei.com.br/products/cogumelo-orelha-de-pau-black-fungus-huaseed-100g): O cogumelo orelha-de-pau preto, também conhecido como black fungus, é um ingrediente tradicional da culinária asiática, famoso por sua textura crocante e sabor suave. Rico em fibras, minerais e antioxidantes, é ideal para saladas, sopas, refogados e pratos orientais, absorvendo os temperos e realçando o sabor das receitas. Fácil de hidratar, basta deixá-lo de molho antes do preparo. Produto de alta qualidade, perfeito para quem busca autenticidade e benefícios nutritivos na cozinha. INGREDIENTES: Fungo preto desidratado NÃO CONTÉM GLÚTEN Armazenar em local fresco e seco. Validade: 18 meses Origem: China Contém 100g
-  Updated: 2025-12-06T15:42:43Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Huaseed
   Product Type: Cogumelo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/orelha-pau-100g.jpg?v=1755102808
   Price: R$ 69,99 BRL
 - [Shoyu Molho de soja escuro com cogumelo - DongGu 500ml](https://www.meiwei.com.br/products/molho-de-soja-escuro-com-cogumelo-donggu-500ml): Um condimento premium que une a intensidade do molho de soja escuro ao aroma e sabor marcante dos cogumelos, criando uma combinação perfeita para realçar pratos orientais e gourmets. Ideal para marinadas, salteados, sopas e molhos, confere cor profunda, umami intenso e um toque terroso irresistível. Rico em sabor, é indispensável para receitas autênticas chinesas, japonesas e fusion. INGREDIENTES: Água, soja não transgênica, sal, corante caramelo, farinha de trigo, glutamato monossódico, cogumelos de palha, 5'-ribonucleotídeos dissódicos, sucralose, sorbato de potássio. INFORMAÇÕES NUTRICIONAIS Porção de 15ml Valor Calórico 62kJ 1% Proteína 1,1g 2% Gorduras Totais 0g 0% Carboidratos 2,5g 1% Sódio 1231mg 62% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Validade: 18 meses Contém 500ml
-  Updated: 2025-12-22T08:33:27Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: DongGu
   Product Type: Molho de Soja
   Availability: Available
@@ -12276,7 +12276,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/picante-mostarda-60g.jpg?v=1757004383
   Price: R$ 9,99 BRL
 - [Ameixa em conserva adocicada - Ka Xing 70g](https://www.meiwei.com.br/products/ameixa-conserva-adocicada-ka-xing-70g): Descubra o sabor irresistível da nossa ameixa em conserva, cuidadosamente selecionada e adoçada na medida certa para realçar sua textura macia e suculenta. Perfeita para sobremesas, lanches, drinks ou como toque especial em receitas doces e salgadas, ela combina praticidade e sabor em um único produto. Uma delícia que transforma qualquer prato em uma experiência gourmet. INGREDIENTES: Ameixa, açúcar, sal, alcaçuz, aspartame (contém fenilalanina). Ácido cítrico. Sulfitos. INFORMAÇÕES NUTRICIONAIS Porção de 10g (1 unidade) Valor Calórico 9kcal 0% Proteína 0g 0% Gorduras Totais 0g 0% Carboidratos 2g 1% Sódio 3120mg 130% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Contém 70g
-  Updated: 2025-12-23T17:34:33Z
+  Updated: 2026-01-03T19:29:02Z
   Vendor: Ka Xing
   Product Type: Doce
   Availability: Available
@@ -14117,7 +14117,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tiras-gluten-trigo-frango-apimentado-jinmofang-120g-mei-wei_5dad087e-27f8-41d0-9a46-b8de507f1e5b.png?v=1765118434
   Price: R$ 19,90 BRL
 - [Snack Chinês de Massa de Trigo Apimentado Lafuren 72g - 辣夫人 老式辣片 香辣味](https://www.meiwei.com.br/products/snack-chines-de-massa-de-trigo-apimentado-lafuren-72g): O Snack de Massa de Trigo Apimentado Lafuren 辣夫人 老式辣片 香辣味 é um clássico petisco de rua da China, conhecido como 辣片 (làpiàn) – lâminas finas de massa de trigo bem temperadas e levemente oleosas, com sabor marcante de pimenta e especiarias. Produzido na China, pela marca 辣夫人 (Lafuren), esse snack é perfeito para quem gosta de lanches picantes com textura mastigável e muito aroma. Características: Base de farinha de trigo com óleo vegetal e especiarias Sabor 香辣味 – picante e aromático, típico de snacks chineses Textura em lâminas finas, fáceis de cortar em tiras ou cubinhos Ideal para beliscar puro, acompanhar bebida, misturar em miojo ou usar como topping em pratos asiáticos Lista de ingredientes Ingredientes: Farinha de trigo, água, óleo vegetal (soja ou colza), proteína vegetal de soja, sal, açúcar, molho de soja, pimenta chilli, alho, gergelim, condimento em pó (glutamato monossódico, maltodextrina, extrato de levedura), reguladores de acidez (como ácido cítrico), conservadores (como sorbato de potássio, benzoato de sódio) e aromatizantes. Alergênicos: contém trigo (glúten) e pode conter soja e gergelim. Tabela nutricional (porção sugerida e por 100g ) Quantidade por 100g : Valor energético: ≈ 1950 kJ (≈ 465 kcal) Carboidratos: ≈ 60 g Proteínas: ≈ 8–10 g Gorduras totais: ≈ 20–25 g Gorduras saturadas: ≈ 4–6 g Sódio: ≈ 1800–2600 mg Ideia de receita / modo de uso Miojo “Street Food” com Lápian Picante Ingredientes: 1 pacote de macarrão instantâneo (sem tempero ou com pouco tempero) 1/2 pacote de Snack de Massa de Trigo Apimentado Lafuren 辣夫人 老式辣片 香辣味 1 colher (sopa) de cebolinha fatiada 1 ovo cozido ou pochê (opcional) Gergelim torrado a gosto (opcional) Modo de preparo: Cozinhe o macarrão instantâneo conforme as instruções da embalagem e escorra (deixe um pouco de caldo se quiser mais “sopa”). Pique o lápian em tiras finas ou quadradinhos e misture ao macarrão ainda quente. Ajuste o sal/tempero (pode usar só parte do sachê do miojo, se quiser). Finalize com cebolinha, ovo e gergelim por cima. Sirva imediatamente – o lápiàn vai perfumar o prato e deixar o caldo mais picante. Outra ideia simples: usar o snack picado como topping para arroz frito, macarrão frito ou até em salada de repolho para dar crocância e picância. Como armazenar Conservar em local seco, fresco e ao abrigo da luz solar direta. Manter a embalagem sempre bem fechada. Após aberto, consumir de preferência em até 3 dias, mantendo em recipiente fechado ou na geladeira para melhor conservação. Não consumir se a embalagem estiver estufada, rasgada ou com o produto com odor/ aparência alterados.
-  Updated: 2026-01-01T19:45:08Z
+  Updated: 2026-01-03T19:29:03Z
   Vendor: Lafuren (辣夫人)
   Product Type: Aperitivo
   Availability: Available
