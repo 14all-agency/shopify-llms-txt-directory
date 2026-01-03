@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-03T12:01:23.226Z
+- Updated At: 2026-01-03T15:31:02.359Z
 
 ## Products
 
@@ -14383,14 +14383,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cabecas-de-pato-picantes-xianlugongshe-gan-guo-ya-tou-300g.png?v=1767398490
   Price: R$ 69,99 BRL
 - [Cartilagem de Pato Seca Picante Zhouxiaojian 70g - 风干鸭锁骨 香辣味](https://www.meiwei.com.br/products/cartilagem-de-pato-seca-picante-zhouxiaojian-70g): A cartilagem de pato seca picante Zhouxiaojian 风干鸭锁骨 香辣味 é um snack típico da culinária chinesa, produzido com ossinhos/cartilagem de pato previamente cozidos e depois secos e temperados com molho picante. A embalagem em vermelho vibrante destaca os pedaços de cartilagem com cobertura brilhante, reforçando a ideia de petisco intenso, rico em umami e com boa picância. Com textura firme e mastigável, é ideal para quem gosta de snacks diferentes, perfeitos para acompanhar bebidas, montar tábuas de petiscos ou servir como aperitivo em refeições de inspiração asiática. A embalagem de 70 g é prática para consumo individual ou para dividir em pequenas porções. Lista de ingredientes Cartilagem de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, açúcar, pimenta vermelha, pimenta Sichuan, alho, gengibre, especiarias (como anis‑estrelado e pimenta‑do‑reino), vinho de cozinha, realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, aromas naturais de especiarias. Alérgicos: contém soja e trigo. Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 1/3 da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 550 mg 23% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Valores aproximados. Sugestão de uso / receita Petisco direto da embalagem: consumir a cartilagem de pato em temperatura ambiente, diretamente do pacote, como snack picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir a cartilagem em um prato ou tábua, combinando com amendoim torrado, chips de algas, conservas picantes e legumes em palitos. Topping para arroz ou macarrão: aquecer rapidamente o conteúdo em frigideira ou banho‑maria e usar como cobertura de arroz branco, arroz frito ou macarrão oriental, misturando bem para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou guardar o conteúdo remanescente em recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-03T00:44:53Z
+  Updated: 2026-01-03T12:16:31Z
   Vendor: Xianlugongshe 干锅鸭头
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cartilagem-de-pato-seca-picante-zhouxiaojian-feng-gan-ya-suo-gu-70g.png?v=1767399462
   Price: R$ 49,99 BRL
 - [Cartilagem de Pato Seca Picante Zhouxiaojian 70g - 风干鸭锁骨](https://www.meiwei.com.br/products/cartilagem-de-pato-seca-picante-zhouxiaojian-70g-1): Descrição completa A cartilagem de pato seca picante Zhouxiaojian 风干鸭锁骨 é um snack típico da culinária chinesa, produzido com ossinhos/cartilagem de pato previamente cozidos e depois secos e temperados com molho condimentado. A embalagem verde vibrante destaca os pedaços de cartilagem com cobertura brilhante, reforçando a ideia de petisco intenso, rico em umami e com picância moderada. Com textura firme e mastigável, é ideal para quem gosta de snacks diferentes, perfeitos para acompanhar bebidas, montar tábuas de petiscos ou servir como aperitivo em refeições de inspiração asiática. A embalagem de 70 g é prática para consumo individual ou para dividir em pequenas porções. Lista de ingredientes Cartilagem de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, açúcar, pimenta vermelha, pimenta Sichuan, alho, gengibre, especiarias (como anis‑estrelado e pimenta‑do‑reino), vinho de cozinha, realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, aromas naturais de especiarias. Alérgicos: contém soja e trigo. Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 1/3 da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 550 mg 23% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Petisco direto da embalagem: consumir a cartilagem de pato em temperatura ambiente, diretamente do pacote, como snack picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir a cartilagem em um prato ou tábua, combinando com amendoim torrado, chips de algas, conservas picantes e legumes em palitos. Topping para arroz ou macarrão: aquecer rapidamente o conteúdo em frigideira ou banho‑maria e usar como cobertura de arroz branco, arroz frito ou macarrão oriental, misturando bem para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou guardar o conteúdo remanescente em recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-03T01:21:42Z
+  Updated: 2026-01-03T13:06:40Z
   Vendor: Xianlugongshe 干锅鸭头
   Product Type: Aperitivo
   Availability: Available
@@ -14403,6 +14403,34 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cartilagem-de-pato-doce-e-picante-ya-ruan-gu-80g.png?v=1767403603
   Price: R$ 49,99 BRL
+- [Lâminas de Carne Suína Picante Sichuan Baicaowei 50g - 百草味 川香猪肉片](https://www.meiwei.com.br/products/laminas-de-carne-suina-picante-sichuan-baicaowei-50g): As lâminas de carne suína picante Sichuan Baicaowei 百草味 川香猪肉片 são um snack típico de inspiração chinesa, preparado com fatias finas de carne suína temperadas e cozidas até atingir textura firme, mastigável e cheia de sabor. As lâminas aparecem bem cobertas por um molho vermelho brilhante, com pedacinhos visíveis de pimenta e sementes, sugerindo picância moderada e forte presença de umami. Lista de ingredientes Carne suína, água, açúcar, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, pimenta vermelha, alho, gengibre, sementes (como gergelim), amido modificado, condimento em pó à base de especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, antioxidante e aromas naturais. Alérgicos: contém soja e trigo. Pode conter gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de metade da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 115 kcal = 482 kJ 6% Carboidratos 4 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 500 mg 21% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Snack direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como petisco de carne suína picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as lâminas de carne em um prato ou tábua, combinando com amendoim torrado, chips de algas, legumes em palitos e outros snacks asiáticos. Acompanhamento de arroz ou macarrão: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
+  Updated: 2026-01-03T13:05:09Z
+  Vendor: Xianlugongshe 干锅鸭头
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/laminas-de-carne-suina-picante-sichuan-baicaowei-chuan-xiang-zhu-rou-pian-50g.png?v=1767445169
+  Price: R$ 49,99 BRL
+- [Coxinha de Frango Picante Baicaowei 62g - 百草味 香卤小鸡腿](https://www.meiwei.com.br/products/coxinha-de-frango-picante-baicaowei-62g): A coxinha de frango picante Baicaowei 百草味 香卤小鸡腿 é um snack típico da culinária chinesa, preparado com pequenos cortes de coxa/asa de frango (tipo drumette) cozidos, temperados e envoltos em molho vermelho brilhante com pedacinhos de pimenta. A embalagem azul destaca a imagem de coxinhas bem glaceadas, reforçando a ideia de petisco intenso, suculento e com picância marcante. É uma opção prática para quem gosta de snacks diferentes à base de carne, perfeita para acompanhar bebidas, montar tábuas de petiscos ou complementar refeições de inspiração asiática. A porção de 62 g é ideal para consumo individual ou para compartilhar em pequenas porções. Lista de ingredientes Coxa/asa de frango, água, açúcar, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, pimenta vermelha, alho, gengibre, amido modificado, condimento em pó à base de especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, antioxidante e aromas naturais. Alérgicos: contém soja e trigo. Pode conter gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 2/5 da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 120 kcal = 504 kJ 6% Carboidratos 4 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 480 mg 20% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Snack direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como petisco de frango picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as coxinhas em um prato ou tábua, combinando com amendoim torrado, chips de algas, legumes em palitos e outros snacks asiáticos. Acompanhamento de arroz ou macarrão: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
+  Updated: 2026-01-03T13:24:28Z
+  Vendor: Xianlugongshe 干锅鸭头
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/coxinha-de-frango-picante-baicaowei-xiang-lu-xiao-ji-tui-62g.png?v=1767446147
+  Price: R$ 49,99 BRL
+- [Moela de Pato Doce e Picante Duck's Gizzard 48g - 酱烧鸭胗](https://www.meiwei.com.br/products/moela-de-pato-doce-e-picante-ducks-gizzard-48g): A Moela de Pato Doce e Picante Duck's Gizzard 酱烧鸭胗 48g é um snack típico da culinária chinesa, preparado com moelas de pato cozidas e envolvidas em um molho espesso, de cor âmbar/avermelhada, que equilibra doçura e picância. A embalagem mostra pedaços generosos de moela bem glaceados, sugerindo textura macia por fora e mais firme por dentro, com muito umami. Produzido na China, é um petisco pronto para consumo, ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou servir como acompanhamento rápido de arroz branco e noodles. A porção de 48 g é prática para consumo individual ou degustação compartilhada em pequenas porções. Destaques do produto: Snack chinês de moela de pato ao molho doce e picante. Textura firme e mastigável, com cobertura de molho brilhante. Peso líquido 48 g, embalagem tipo pouch, prática para o dia a dia. Perfeito para petiscar, acompanhar bebidas ou complementar refeições orientais. Produto de origem chinesa, com sabor marcante e aromático. Lista de ingredientes Moela de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Moela de pato doce e picante como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de moela de pato com sabor doce e picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir a moela em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente o conteúdo em frigideira ou banho‑maria e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver bem no molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Não expor a altas temperaturas por longos períodos. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para recipiente limpo e bem fechado, mantendo sob refrigeração e consumindo preferencialmente em até 1–2 dias. Não consumir se a embalagem estiver violada, estufada ou com odor/coloração fora do padrão. Peso líquido: 48 g Origem: China
+  Updated: 2026-01-03T13:41:48Z
+  Vendor: Xianlugongshe 干锅鸭头
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/moela-de-pato-doce-e-picante-ducks-gizzard-jiang-shao-ya-zhen-48g.png?v=1767447424
+  Price: R$ 49,99 BRL
+- [Moela de Pato Picante 136g - 玖久Y 香辣鸭胗](https://www.meiwei.com.br/products/moela-de-pato-picante-136g-y): A Moela de Pato Picante 玖久Y 香辣鸭胗 136g é um snack típico da culinária chinesa, preparado com moelas de pato cozidas e envolvidas em um molho vermelho brilhante, de sabor intenso e picante. A embalagem amarela destaca pedaços generosos de moela bem glaceados, sugerindo textura firme e mastigável, com muito umami. Produzido na China, é um petisco pronto para consumo, ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou servir como acompanhamento rápido de arroz branco e noodles. A porção de 136 g é prática para consumo individual reforçado ou para compartilhar em pequenas porções. Destaques do produto: Snack chinês de moela de pato picante. Textura firme e mastigável, com cobertura de molho brilhante. Peso líquido 136 g, embalagem tipo pouch com design chamativo em amarelo. Ótimo para petiscar com bebidas ou complementar refeições orientais. Produto de origem chinesa, com sabor marcante, aromático e picante. Lista de ingredientes Moela de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Moela de pato picante como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de moela de pato picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir a moela em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho.
+  Updated: 2026-01-03T15:09:22Z
+  Vendor: Xianlugongshe 干锅鸭头
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-moela-de-pato-picante-jiu-jiu-xiang-la-ya-zhen-136g.png?v=1767452577
+  Price: R$ 94,99 BRL
 
 ## Collections
 
@@ -14419,37 +14447,37 @@
   Updated: 2025-12-23T17:58:58Z
   Total Products: 21
 - [Bebida Alcóolica](https://www.meiwei.com.br/collections/bebida-alcoolica)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 230
 - [Chá Funcional](https://www.meiwei.com.br/collections/cha-funcional)
   Updated: 2025-12-28T15:09:18Z
   Total Products: 11
 - [Chá](https://www.meiwei.com.br/collections/cha)
-  Updated: 2026-01-02T12:02:22Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 297
 - [Conserva](https://www.meiwei.com.br/collections/conserva)
-  Updated: 2026-01-02T21:52:05Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 241
 - [Ameixa em Conserva - Umeboshi](https://www.meiwei.com.br/collections/ameixa-em-conserva)
   Updated: 2025-12-23T17:58:50Z
   Total Products: 9
 - [Curry Estilo Tailandês](https://www.meiwei.com.br/collections/curry-tailandes)
-  Updated: 2026-01-01T10:36:59Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-03T10:39:44Z
-  Total Products: 1507
+  Updated: 2026-01-03T15:22:03Z
+  Total Products: 1512
 - [Molho](https://www.meiwei.com.br/collections/molho)
-  Updated: 2026-01-03T10:39:44Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 544
 - [Molho de Ostra](https://www.meiwei.com.br/collections/molho-de-ostra)
   Updated: 2025-12-30T10:52:47Z
   Total Products: 63
 - [Outro Molho](https://www.meiwei.com.br/collections/outro-molho)
-  Updated: 2026-01-03T10:39:44Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 243
 - [Massa](https://www.meiwei.com.br/collections/massa)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 193
 - [Massa de Arroz](https://www.meiwei.com.br/collections/massa-de-arroz)
   Updated: 2025-12-29T10:29:44Z
@@ -14485,16 +14513,16 @@
   Updated: 2026-01-02T10:01:02Z
   Total Products: 159
 - [Farinha & Grão](https://www.meiwei.com.br/collections/farinha-grao)
-  Updated: 2026-01-01T22:58:49Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 132
 - [Farinha](https://www.meiwei.com.br/collections/farinha)
   Updated: 2026-01-01T22:58:49Z
   Total Products: 99
 - [Arroz](https://www.meiwei.com.br/collections/arroz)
-  Updated: 2025-12-29T02:47:56Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 22
 - [Shoyu - Molho de Soja](https://www.meiwei.com.br/collections/shoyu-molho-de-soja)
-  Updated: 2026-01-02T10:25:11Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 161
 - [Alga](https://www.meiwei.com.br/collections/alga)
   Updated: 2025-12-23T17:58:48Z
@@ -14506,7 +14534,7 @@
   Updated: 2025-12-06T16:08:11Z
   Total Products: 0
 - [Vinho de Arroz](https://www.meiwei.com.br/collections/vinho-de-arroz)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 60
 - [Pimenta Seca](https://www.meiwei.com.br/collections/pimenta-seca)
   Updated: 2025-12-06T16:08:11Z
@@ -14521,16 +14549,16 @@
   Updated: 2025-12-23T17:58:52Z
   Total Products: 4
 - [Vinagre](https://www.meiwei.com.br/collections/vinagre)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 47
 - [Bebida Alcóolica Vegetariano](https://www.meiwei.com.br/collections/bebida-alcoolica-vegetariano)
   Updated: 2025-12-06T16:08:12Z
   Total Products: 0
 - [Suco](https://www.meiwei.com.br/collections/suco)
-  Updated: 2025-12-28T12:03:14Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 60
 - [Bebida Não Alcóolica](https://www.meiwei.com.br/collections/bebida-nao-alcoolica)
-  Updated: 2026-01-02T12:02:22Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 370
 - [Bebida Não Alcóolica Vegetariana](https://www.meiwei.com.br/collections/bebida-nao-alcoolica-vegetariana)
   Updated: 2025-12-06T16:08:12Z
@@ -14578,7 +14606,7 @@
   Updated: 2025-12-23T17:59:00Z
   Total Products: 40
 - [Yakissoba](https://www.meiwei.com.br/collections/yakissoba)
-  Updated: 2026-01-01T22:46:07Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 200
 - [Lamen](https://www.meiwei.com.br/collections/lamen)
   Updated: 2025-12-23T17:51:23Z
@@ -14611,7 +14639,7 @@
   Updated: 2025-12-31T10:17:25Z
   Total Products: 175
 - [Curry](https://www.meiwei.com.br/collections/curry)
-  Updated: 2026-01-01T10:36:59Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 50
 - [Outro Condimento e Tempero](https://www.meiwei.com.br/collections/outro-condimento-tempero)
   Updated: 2026-01-02T10:01:02Z
@@ -14662,7 +14690,7 @@
   Updated: 2025-12-28T15:43:50Z
   Total Products: 17
 - [Macarrão de Trigo](https://www.meiwei.com.br/collections/macarrao-de-trigo)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 64
 - [Macarrão Yakisoba](https://www.meiwei.com.br/collections/macarrao-yakisoba)
   Updated: 2025-12-29T12:02:25Z
@@ -14680,8 +14708,8 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-03T10:39:44Z
-  Total Products: 2230
+  Updated: 2026-01-03T15:22:03Z
+  Total Products: 2235
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
   Total Products: 3
@@ -14692,8 +14720,8 @@
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-01-03T10:32:10Z
-  Total Products: 801
+  Updated: 2026-01-03T15:22:03Z
+  Total Products: 806
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
   Updated: 2025-12-31T12:02:57Z
   Total Products: 37
@@ -14704,31 +14732,31 @@
   Updated: 2026-01-03T10:32:10Z
   Total Products: 17
 - [Bebida](https://www.meiwei.com.br/collections/bebida)
-  Updated: 2026-01-02T12:02:22Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 458
 - [Licor](https://www.meiwei.com.br/collections/licor)
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-03T10:39:44Z
-  Total Products: 3686
+  Updated: 2026-01-03T15:22:03Z
+  Total Products: 3691
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
-  Updated: 2026-01-03T10:37:26Z
-  Total Products: 635
+  Updated: 2026-01-03T15:22:32Z
+  Total Products: 636
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-03T10:39:44Z
-  Total Products: 3053
+  Updated: 2026-01-03T15:22:32Z
+  Total Products: 3057
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-03T10:39:44Z
-  Total Products: 3686
+  Updated: 2026-01-03T15:22:03Z
+  Total Products: 3691
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-01-03T10:39:44Z
-  Total Products: 2053
+  Updated: 2026-01-03T15:30:36Z
+  Total Products: 2058
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
   Updated: 2025-12-30T12:02:37Z
   Total Products: 103
 - [Promoção (特惠促销）](https://www.meiwei.com.br/collections/promocao): Mei Wei: ofertas especiais em molhos, temperos e snacks asiáticos autênticos. Promoções exclusivas com entrega para todo o Brasil. Confira!
-  Updated: 2026-01-01T10:31:00Z
+  Updated: 2026-01-03T12:02:46Z
   Total Products: 9
 
 ## Blogs
