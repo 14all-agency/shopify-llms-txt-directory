@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2026-01-01T00:00:33.161Z
+- Updated At: 2026-01-03T00:00:33.893Z
 
 ## Products
 
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/hemp-cords-ethnic-tribal-braceletsbraceletsfabufabufabufabu-design-storesl0265cover-b8cd2d77-7af7-487b-a702-84ae7dbfbe87-8222161.jpg?v=1765257969
   Price: $25.57 USD
 - [Sterling Silver 4-leaf clover Charm Bracelet](https://fabufabu.com/products/sterling-silver-4-leaf-clover-charm-bracelet): PURE DESIGN: less is more from FABUFABU’s theme, exquisite craftsmanship, using 5A synthetic colored zirconium oxide, 360 all-round polishing,
-  Updated: 2025-12-27T08:30:33Z
+  Updated: 2026-01-01T08:00:15Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
