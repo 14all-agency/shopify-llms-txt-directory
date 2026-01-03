@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2025-12-28T00:00:30.238Z
+- Updated At: 2026-01-03T00:00:33.501Z
 
 ## Products
 
 - [PickleUp Pro Shot - Pineapple](https://pickleupshot.com/products/pro-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret weapon that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2025-12-26T11:45:46Z
+  Updated: 2025-12-30T14:54:53Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -39,10 +39,10 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2025-12-26T12:14:48Z
+  Updated: 2025-12-30T12:23:37Z
   Total Products: 3
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2025-12-26T12:14:48Z
+  Updated: 2025-12-30T12:23:37Z
   Total Products: 3
 
 ## Blogs
@@ -80,6 +80,9 @@
     Author: Oliver Donohue
   - [PickleUp Has Landed: The UK’s First Smart Pickle Juice Shot for Muscle Cramps](https://pickleupshot.com/blogs/news/pickleup-has-landed-the-uk-s-first-smart-pickle-juice-shot-for-muscle-cramp-relief)
     Updated: 2025-09-19T12:52:51Z
+    Author: Oliver Donohue
+  - [Beating the Wall: How Pickle Juice Can Help Marathon Runners Prevent and Relieve Muscle Cramps](https://pickleupshot.com/blogs/news/beating-the-wall-how-pickle-juice-can-help-marathon-runners-prevent-and-relieve-muscle-cramps)
+    Updated: 2025-12-29T19:03:00Z
     Author: Oliver Donohue
   - [Pickle Juice for Cramps](https://pickleupshot.com/blogs/news/pickle-juice-for-cramps)
     Updated: 2025-10-10T13:18:08Z
