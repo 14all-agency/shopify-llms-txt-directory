@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2026-01-02T00:00:42.778Z
+- Updated At: 2026-01-03T00:00:43.078Z
 
 ## Products
 
