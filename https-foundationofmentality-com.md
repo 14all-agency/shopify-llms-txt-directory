@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2026-01-02T00:00:24.389Z
+- Updated At: 2026-01-03T00:00:27.370Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -63,7 +63,7 @@ Motivational content is intentionally avoided.
 ## Collections
 
 - [Elite Athlete Mentality](https://foundationofmentality.com/collections/elite-athlete-mentality)
-  Updated: 2025-12-25T12:17:50Z
+  Updated: 2026-01-02T12:23:06Z
   Total Products: 4
 
 ## Blogs
