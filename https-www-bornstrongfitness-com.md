@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-11-08T09:58:15Z
 - Contact Email: bornstrongsupplents@gmail.com
-- Updated At: 2026-01-03T18:03:58.068Z
+- Updated At: 2026-01-03T18:04:33.013Z
 
 ## Products
 
