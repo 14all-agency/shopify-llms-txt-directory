@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2026-01-02T00:00:32.781Z
+- Updated At: 2026-01-03T00:00:32.790Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
