@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-03T00:00:54.659Z
+- Updated At: 2026-01-03T04:00:36.136Z
 
 ## Products
 
@@ -6820,7 +6820,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Toasted Coconut Room Spray](https://affinatiliving.com/products/toasted-coconut-room-spray): Warm, sweet, and beachy. Toasted Coconut room & linen spray blends creamy coconut milk and toasted coconut flakes for a long-lasting, comforting home fragrance.
-  Updated: 2025-12-28T14:21:47Z
+  Updated: 2026-01-03T01:30:23Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -7208,7 +7208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8178.png?v=1766075529
   Price: $6.95 USD
 - [Blackberry Sage Mini Candle](https://affinatiliving.com/products/blackberry-sage-mini-candle): Mini Blackberry Sage Candle | 3 oz. Sweet berries with herbal sage. Strongly scented and hand-poured with soy wax.
-  Updated: 2025-12-28T14:21:30Z
+  Updated: 2026-01-03T00:28:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7222,7 +7222,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8179.png?v=1766075501
   Price: $6.95 USD
 - [Black Raspberry Vanilla Mini Candle](https://affinatiliving.com/products/black-raspberry-vanilla-mini-candle): Mini Black Raspberry Vanilla Candle | 3 oz. Juicy berries with sweet vanilla. Strongly scented for a bold, fruity aroma.
-  Updated: 2025-12-28T14:21:30Z
+  Updated: 2026-01-03T00:25:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7271,21 +7271,21 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8186.png?v=1766075407
   Price: $6.95 USD
 - [Ocean Breeze Mini Candle](https://affinatiliving.com/products/ocean-breeze-mini-candle): Mini Ocean Breeze Candle | 3 oz. Fresh sea air with soft florals. Strong throw, clean and airy scent for any space.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T00:35:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8188.png?v=1766075390
   Price: $6.95 USD
 - [Hawaiian Hibiscus Mini Candle](https://affinatiliving.com/products/hawaiian-hibiscus-mini-candle): Mini Hawaiian Hibiscus Candle | 3 oz. Exotic hibiscus and tropical fruits. Strongly scented and hand-poured with soy wax.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T00:32:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8190.png?v=1766075377
   Price: $6.95 USD
 - [Blue Spruce Mini Candle](https://affinatiliving.com/products/blue-spruce-mini-candle): Mini Blue Spruce Candle | 3 oz. Crisp spruce and fir with cedarwood. Strong throw, forest-inspired, clean-burning.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T00:30:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -8004,7 +8004,7 @@
   Updated: 2025-12-18T18:11:45Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-12-28T12:08:49Z
+  Updated: 2026-01-03T01:30:24Z
   Total Products: 45
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
   Updated: 2026-01-01T18:38:01Z
@@ -8025,7 +8025,7 @@
   Updated: 2026-01-01T12:07:53Z
   Total Products: 129
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2026-01-01T12:21:14Z
+  Updated: 2026-01-03T01:30:24Z
   Total Products: 87
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-12-18T18:11:46Z
