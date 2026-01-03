@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-01-13T11:56:16Z
 - Contact Email: hello@idun-life.com
-- Updated At: 2026-01-02T00:00:36.381Z
+- Updated At: 2026-01-03T00:00:36.044Z
 
 ## Products
 
