@@ -6,98 +6,129 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-01T08:10:19Z
 - Contact Email: info@fragrance-gems.nl
-- Updated At: 2025-12-31T00:00:21.056Z
+- Updated At: 2026-01-03T00:00:27.017Z
 
 ## Products
 
-- [Rasasi Hawas Malibu - 100ml kopen – Tropisch Herenparfum | FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-malibu-100ml-heren-parfum): Rasasi Hawas Malibu kopen? Fris en tropisch parfum met sinaasappel, ananas en muskus. 100% origineel & snel geleverd. Koop vandaag nog bij FragranceGems!
-  Updated: 2025-12-30T19:40:37Z
+- [Rasasi Hawas Malibu - Luxe Herenparfum](https://fragrance-gems.nl/products/rasasi-hawas-malibu-100ml-heren-parfum): Ontdek Rasasi Hawas Malibu, een verfijnde Eaux de Parfum voor heren. Geniet van een unieke geurervaring in elke spuit.
+  Updated: 2026-01-02T13:10:25Z
   Vendor: Rasasi
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rasasi-hawas-malibu-geur-verpakking-en-fles.webp?v=1766916592
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rasasi-hawas-malibu-geur-verpakking-en-fles.webp?v=1767295534
   Price: € 29,99 EUR
-- [French Avenue Aether Extrait Parfum 100ml - Herenparfum](https://fragrance-gems.nl/products/french-avenue-aether-extrait-100ml): French Avenue Aether Extrait parfum 100ml: frisse citrus en warme houttonen in een langdurige unisex geur. Ontdek French Avenue Aether Extrait vandaag!
-  Updated: 2025-12-29T05:38:05Z
+- [French Avenue Aether Extrait - Ether Extract voor Heren](https://fragrance-gems.nl/products/french-avenue-aether-extrait-100ml): Ontdek de allure van French Avenue Aether Extrait 100ml, een luxe herenparfum met ether extract voor een verfijnde geurervaring.
+  Updated: 2026-01-02T14:12:14Z
   Vendor: French Avenue
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-aether-extrait-2488586_a50a162d-a7eb-4eb7-b5b3-14bd234a75f7.webp?v=1766175726
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/aether1.webp?v=1767363127
   Price: € 29,99 EUR
-- [Rayhaan Pacific Aura 100ml | Frisse Unisex Eau de Parfum | €24,99](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Pacific Aura 100ml: frisse citrus-aquatische unisex geur voor €24,99. 5-7u houdbaarheid. Vergelijkbaar met Cool Water. Op voorraad, gratis verzending €60+!
-  Updated: 2025-12-30T19:43:56Z
+- [Rayhaan Pacific Aura - Aquatische Heren Parfum](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Ontdek de Rayhaan Pacific Aura, een aquatische heren parfum dat frisheid en elegantie biedt. Perfect voor elke gelegenheid!
+  Updated: 2026-01-02T14:12:19Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-pacific-aura-100ml-1245229_88eb5e20-35d2-405d-a6fe-edc603ed7cc6.webp?v=1766610262
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/pacific1.webp?v=1767363136
   Price: € 24,99 EUR
 - [Rayhaan Tropical Vibe Parfum 100ml – Tropisch Herenparfum](https://fragrance-gems.nl/products/rayhaan-tropical-vibe-100ml): Rayhaan Tropical Vibe parfum 100ml: tropisch, fruitig en fris herenparfum met mango, ananas en citrus. Ontdek Rayhaan Tropical Vibe vandaag!
-  Updated: 2025-12-30T15:41:58Z
+  Updated: 2026-01-02T14:12:22Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-tropical-vibe-100ml-2214941_e8dbd024-b632-4e46-9ddb-8f96eae6e4c7.webp?v=1766610252
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/tropical1.webp?v=1767363138
   Price: € 22,99 EUR
 - [Rayhaan Nocturno Parfum 100ml – Aromatisch Herenparfum](https://fragrance-gems.nl/products/rayhaan-nocturno-100ml): Rayhaan Nocturno parfum 100ml: fris, kruidig en aromatisch herenparfum met bergamot, lavendel en amberhout. Koop vandaag nog Rayhaan Nocturno!
-  Updated: 2025-12-29T05:37:51Z
+  Updated: 2026-01-02T14:12:27Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan-nocturno-100ml-3109538_c9da7141-b07c-4829-815a-e55b89db2adf.webp?v=1766839582
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/nocturno1.webp?v=1767363142
   Price: € 24,99 EUR
 - [French Avenue Shmallow Fluff 100ml Zoet Damesparfum | Vanille](https://fragrance-gems.nl/products/french-avenue-shmallow-fluff-100ml): French Avenue ShMallow Fluff 100ml: zoet, fruitig en romig damesparfum met marshmallow, vanille en praliné. Ontdek ShMallow Fluff vandaag!
-  Updated: 2025-12-29T05:37:41Z
+  Updated: 2026-01-02T14:14:30Z
   Vendor: FrenchAvenue
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/french-avenue-shmallow-fluff-1676845_a070ad95-ec40-4df5-a27c-796f422d235f.webp?v=1766839555
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/shmallo1.webp?v=1767363266
   Price: € 19,99 EUR
-- [Marwa - Arabiyat Prestige](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Arabiyat Prestige Marwa: sprankelende citrus ontmoet oosterse mystiek. 8-12u houdbaarheid, unisex. Gratis verzending vanaf €60. Bestel nu bij FragranceGems!
-  Updated: 2025-12-30T23:38:44Z
+- [Arabiyat Prestige Marwa - Luxe Arabische Eau de Parfum](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Ontdek Arabiyat Prestige Marwa, een luxe Arabische Eau de Parfum, perfect voor elke gelegenheid. Een geur die je een betoverende uitstraling geeft.
+  Updated: 2026-01-02T13:38:03Z
   Vendor: Arabiyat Prestige
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/Arabiyat_prestige_marwa_100_ml.webp?v=1766610232
-  Price: € 42,99 EUR
-- [Rayhaan Elixir Parfum 100ml – Oosters Houtachtig Herenparfum](https://fragrance-gems.nl/products/rayhaan-elixir-100ml-heren-parfum): Rayhaan Elixir parfum 100ml voor hem: frisse munt, bergamot, lavendel en een warme vanille-tonkabasis. Luxe oosterse geur – Rayhaan Elixir kopen.
-  Updated: 2025-12-30T16:49:37Z
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/Arabiyat_prestige_marwa_100_ml.webp?v=1767295685
+  Price: € 41,99 EUR
+- [Rayhaan Elixir – Elixer van Geluk voor Heren](https://fragrance-gems.nl/products/rayhaan-elixir-100ml-heren-parfum): Ontdek de Rayhaan Elixir 100ml, een oosters houtachtig herenparfum dat je een gevoel van geluk geeft.
+  Updated: 2026-01-02T14:12:34Z
   Vendor: FragranceGems
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/rayhaan_elixir.webp?v=1766610211
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/elixirr1.webp?v=1767363148
   Price: € 32,99 EUR
-- [Rayhaan Terra](https://fragrance-gems.nl/products/rayhaan-terra): Rayhaan Terra is een complexe, warme en kruidige geur met citrus, specerijen en een luxueuze amber-oud basis. Ontdek deze intrigerende parfumervaring bij FragranceGems. Zeer gewild op = op.
-  Updated: 2025-12-30T23:47:00Z
+- [Rayhaan Terra Parfum 100ml – Unisex Kruidige & Warme Geur |](https://fragrance-gems.nl/products/rayhaan-terra): Op zoek naar Rayhaan Terra Parfum 100ml? Ontdek deze warme, kruidige unisex geur voor dames en heren. Bestel nu veilig en geniet snel van uw nieuwe favoriete geur!
+  Updated: 2026-01-02T22:36:31Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/terra1.webp?v=1767095087
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/terra1.webp?v=1767295706
   Price: € 39,99 EUR
-- [Rayhaan Obsidian - Pre-Order](https://fragrance-gems.nl/products/rayhaan-obsidian): Rayhaan Obsidian is een diepe, mysterieuze geur met citrus, specerijen en een luxueuze amber-oud basis. Ontdek deze intrigerende parfumervaring bij FragranceGems.
-  Updated: 2025-12-30T23:54:26Z
+- [Rayhaan Obsidian - Pre-order - FragranceGems](https://fragrance-gems.nl/products/rayhaan-obsidian): Rayhaan Obsidian: Een Luxe Eaux de Parfum Rayhaan Obsidian is een diepe, mysterieuze en verfijnde  - FragranceGems
+  Updated: 2026-01-02T14:43:27Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/obsdidian1.webp?v=1767095487
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/obsdidian1.webp?v=1767295714
   Price: € 29,99 EUR
-- [Rayhaan Italia - Pre-Order](https://fragrance-gems.nl/products/rayhaan-italia): Rayhaan Italia is een oriental woody geur voor mannen met lavendel, honing, kaneel en tabak. Ontdek deze luxueuze parfumervaring bij FragranceGems.
-  Updated: 2025-12-30T11:59:48Z
+- [Rayhaan Italië Eaux de Parfum - Voorbestelling](https://fragrance-gems.nl/products/rayhaan-italia): Ontdek Rayhaan Italië Eaux de Parfum. Bestel nu en ervaar de frisse en verfijnde geur. Voor het perfecte parfum!
+  Updated: 2026-01-02T23:18:38Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/italia1.jpg?v=1767095988
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/italia1.webp?v=1767363153
   Price: € 27,50 EUR
+- [Rayhaan Valhalla: Ontdek de Aromatische Geur](https://fragrance-gems.nl/products/rayhaan-valhalla): Ervaar de krachtige en fruitige aroma's van Rayhaan Valhalla, een meesterwerk in de wereld van parfums.
+  Updated: 2026-01-02T21:53:51Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/valhalla1_d984a0bd-8152-4c71-82f6-3fad22a0c38a.webp?v=1767349129
+  Price: € 32,99 EUR
+- [Rayhaan Tiger - Kruidig Meesterwerk Parfum](https://fragrance-gems.nl/products/rayhaan-tiger): Ontdek Rayhaan Tiger, een krachtig en kruidig meesterwerk dat je zintuigen prikkelt. Perfect voor elke gelegenheid.
+  Updated: 2026-01-02T22:13:48Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/tiger1.webp?v=1767349142
+  Price: € 29,99 EUR
+- [Rayhaan Lion: Krachtige Aroma en Leiderschap](https://fragrance-gems.nl/products/rayhaan-lion): Ontdek de krachtige aroma van Rayhaan Lion, een symbool van leiderschap dat u inspiratie biedt.
+  Updated: 2026-01-02T22:16:27Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/lion1.webp?v=1767349152
+  Price: € 29,99 EUR
+- [Rayhaan Adonis Icarus - Tijdloos Citroenparfum](https://fragrance-gems.nl/products/rayhaan-adonis-icarus): Ontdek Rayhaan Adonis Icarus, een citrus-aromatisch meesterwerk dat tijdloos is. Perfect voor elke gelegenheid!
+  Updated: 2026-01-02T22:08:41Z
+  Vendor: FragranceGems
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/adonis1.webp?v=1767349162
+  Price: € 29,99 EUR
 
 ## Collections
 
 - [Bestseller Parfums | Populaire Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/bestsellers): Ontdek de bestsellers van FragranceGems. Populaire Arabische parfums zoals Rayhaan Elixir en Arabiyat Prestige. Snelle levering!
-  Updated: 2025-12-30T19:37:39Z
-  Total Products: 11
+  Updated: 2026-01-02T13:38:04Z
+  Total Products: 15
 - [Parfums Op Voorraad | Luxe Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/op-voorraad): Parfums direct op voorraad bij FragranceGems. Luxe Arabische geuren van Rayhaan, Rasasi & Arabiyat Prestige. Snelle levering NL.
-  Updated: 2025-12-30T19:37:39Z
-  Total Products: 11
-- [Aanbevolen Parfums | Must-Have Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/belangrijk): Onze belangrijkste en meest aanbevolen parfums. Luxe Arabische geuren geselecteerd door FragranceGems. Perfect als eerste aankoop.
-  Updated: 2025-12-30T19:37:39Z
+  Updated: 2026-01-02T13:38:04Z
+  Total Products: 15
+- [Aanbevolen Parfums | Must-Have Arabische Geuren –  -](https://fragrance-gems.nl/collections/belangrijk): Onze belangrijkste en meest aanbevolen parfums. Luxe Arabische geuren geselecteerd door FragranceGems. Perfect als eerste aankoop.
+  Updated: 2026-01-02T13:38:04Z
+  Total Products: 7
+- [Rayhaan Parfums - FragranceGems](https://fragrance-gems.nl/collections/rayhaan-parfums): FragranceGems biedt verschillende Rayhaan Parfums aan zoals Rayhaan Terra, Rayhaan Obsidian, Rayhaan Pacific Aura, Rayhaan Elixir en nog veel meer Rayhaan Parfums!
+  Updated: 2026-01-02T12:23:45Z
   Total Products: 7
 
 ## Blogs
@@ -113,48 +144,74 @@
     Updated: 2025-12-28T10:10:37Z
     Author: FragranceGems
   - [Unieke geuren in de Arabische parfummerk collectie van FragranceGems](https://fragrance-gems.nl/blogs/nieuws/unieke-geuren-in-de-arabische-parfummerk-collectie-van-fragrancegems): Unieke geuren in de Arabische parfummerk collectie van FragranceGems
-    Updated: 2025-12-28T10:14:33Z
+    Updated: 2026-01-02T10:43:43Z
     Author: FragranceGems
     Tags: arabische parfums, arabische parfums online kopen, arabiyat prestige marwa, fragrancegems, rayhaan elixir, rayhaan pacific aura
+  - [Top Parfumtrends van Dit Jaar Die Je Moet Kennen](https://fragrance-gems.nl/blogs/nieuws/top-parfumtrends-van-dit-jaar-die-je-moet-kennen): Top Parfumtrends van Dit Jaar Die Je Moet Kennen
+    Updated: 2026-01-01T19:52:03Z
+    Author: FragranceGems
+  - [Beste parfum mannen: 10 onweerstaanbare geuren voor elke stijl](https://fragrance-gems.nl/blogs/nieuws/beste-parfum-mannen-10-onweerstaanbare-geuren-voor-elke-stijl-1559-62): Beste parfum mannen: 10 onweerstaanbare geuren voor elke stijl
+    Updated: 2026-01-02T17:08:17Z
+    Author: Arya Punwasi
+  - [Top 5 Beste Arabische Parfums voor Heren in 2026: Ultieme Koopgids](https://fragrance-gems.nl/blogs/nieuws/top-5-beste-arabische-parfums-voor-heren-in-2026-ultieme-koopgids-1563-22)
+    Updated: 2026-01-02T17:08:51Z
+    Author: Arya Punwasi
+  - [Waarom Arabische Parfums Langer Blijven Hangen (en hoe je dit test) effectief](https://fragrance-gems.nl/blogs/nieuws/waarom-arabische-parfums-langer-blijven-hangen-en-hoe-je-dit-test-effectief-1564-99): Waarom Arabische Parfums Langer Blijven Hangen (en hoe je dit test) effectief
+    Updated: 2026-01-02T20:43:11Z
+    Author: Arya Punwasi
+- [SEO News](https://fragrance-gems.nl/blogs/seo-news)
+  - [Arabische parfum: Complete gids voor de beste geuren en tips](https://fragrance-gems.nl/blogs/seo-news/arabische-parfum-complete-gids-voor-de-beste-geuren-en-tips-1531-62): Arabische parfum: Complete gids voor de beste geuren en tips
+    Updated: 2026-01-02T10:36:42Z
+    Author: Arya Punwasi
 
 ## Store Pages
 
-- [Contact](https://fragrance-gems.nl/pages/contact): Laatste update: 12 december 2025 Website name: FragranceGemsCompany name: ROMA ServiceAddress: IJsselstroom 33, Zoetermeer, 2721AW, NederlandE-Mail...
-  Updated: 2025-12-25T11:29:05Z
-- [Over ons](https://fragrance-gems.nl/pages/over-ons): Premium Arabische Parfums tegen Eerlijke Prijzen Welkom bij FragranceGems – jouw online bestemming voor authentieke Arabische parfums. Onze Missie ...
-  Updated: 2025-12-24T16:29:31Z
-- [RETOURBELEID & HERROEPINGSRECHT](https://fragrance-gems.nl/pages/retourbeleid): Laatste update: 12 december 2025 Bedankt dat u bij FragranceGems winkelt. Ons retour- en terugbetalingsbeleid is bedoeld om een soepele en transpar...
-  Updated: 2025-12-25T11:48:19Z
-- [VERZENDBELEID](https://fragrance-gems.nl/pages/verzending): Laatste update: 12 december 2025 Welkom bij het verzendbeleid van FragranceGems. Hieronder vindt u alle informatie over verwerkingstijden, levertij...
-  Updated: 2025-12-24T16:49:02Z
-- [Privacyverklaring / Privacy (GDPR)](https://fragrance-gems.nl/pages/privacyverklaring): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-12-25T11:36:39Z
-- [Algemene voorwaarden FRAGRANCEGEMS](https://fragrance-gems.nl/pages/algemene-voorwaarden): Laatst bijgewerkt: 15 december 2025 BEDRIJFSGEGEVENS ROMA Service (handelsnaam: FragranceGems)KvK-nummer: 97698334BTW-nummer: NL005283094B75Adres: ...
-  Updated: 2025-12-24T17:08:50Z
-- [Authenticiteit](https://fragrance-gems.nl/pages/authenticiteit): Authenticiteit & Herkomst Bij FragranceGems garanderen wij dat al onze parfums origineel, ongeopend en verzegeld zijn. Onze producten worden ingeko...
-  Updated: 2025-12-12T16:59:16Z
-- [Veelgestelde Vragen (FAQ)](https://fragrance-gems.nl/pages/veelgestelde-vragen-faq): Verzending & Levering Hoe lang duurt de verzending?Bestellingen worden binnen 1-2 werkdagen verwerkt en verzonden binnen 2-4 werkdagen via PostNL m...
-  Updated: 2025-12-24T16:41:56Z
-- [Betaalmethoden](https://fragrance-gems.nl/pages/betaalmethoden): Bij FragranceGems waarderen wij uw veiligheid en gemak. Wij bieden verschillende betaalmethoden aan die niet alleen eenvoudig in gebruik zijn, maar...
-  Updated: 2025-12-24T16:23:24Z
-- [Cookie beleid](https://fragrance-gems.nl/pages/cookie-beleid): Laatste update: 12 december 2025 Dit is het cookiebeleid van Fragrance Gems (hierna: “wij”, “ons” of “onze”), bereikbaar via fragrance-gems.nl. Wij...
-  Updated: 2025-12-18T07:40:41Z
-- [GDPR Privacy Policy](https://fragrance-gems.nl/pages/gdpr-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-12-12T20:13:26Z
-- [GDPR](https://fragrance-gems.nl/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
-  Updated: 2025-12-13T10:54:06Z
-- [Product Sitemap](https://fragrance-gems.nl/pages/product-sitemap): Product Rasasi Hawas Malibu For Him 100ml French Avenue Aether Extrait 100ml Rayhaan Pacific Aura 100ml Rayhaan Tropical Vibe 100ml Rayhaan Nocturn...
-  Updated: 2025-12-19T20:29:57Z
-- [Collection Sitemap](https://fragrance-gems.nl/pages/collection-sitemap): Collection Bestsellers Op voorraad Belangrijk
-  Updated: 2025-12-19T20:29:57Z
-- [Blog Sitemap](https://fragrance-gems.nl/pages/blog-sitemap): Blog Nieuws
-  Updated: 2025-12-19T20:29:58Z
-- [Article Sitemap](https://fragrance-gems.nl/pages/article-sitemap): ArticleNo Article Found
-  Updated: 2025-12-19T20:29:58Z
-- [Page Sitemap](https://fragrance-gems.nl/pages/page-sitemap): Page Contact Over ons RETOURBELEID & HERROEPINGSRECHT VERZENDBELEID Privacyverklaring / Privacy (GDPR) Algemene voorwaarden FRAGRANCEGEMS Authentic...
-  Updated: 2025-12-19T20:30:10Z
-- [Sitemap](https://fragrance-gems.nl/pages/sitemap): Product Rasasi Hawas Malibu For Him 100ml French Avenue Aether Extrait 100ml Rayhaan Pacific Aura 100ml Rayhaan Tropical Vibe 100ml Rayhaan Nocturn...
-  Updated: 2025-12-19T20:30:10Z
+- [Contact & Klantenservice | Stel je Vragen aan FragranceGems](https://fragrance-gems.nl/pages/contact): Laatste update: 12 december 2025 Contact Website name: FragranceGemsCompany name: ROMA ServiceAddress: IJsselstroom 33, Zoetermeer, 2721AW, Nederla...
+  Updated: 2026-01-02T14:19:57Z
+- [Over FragranceGems | Jouw Expert in Arabische Parfums](https://fragrance-gems.nl/pages/over-ons): Premium Arabische Parfums tegen Eerlijke Prijzen Welkom bij FragranceGems – jouw online bestemming voor authentieke Arabische parfums. Onze Missie ...
+  Updated: 2026-01-02T11:09:25Z
+- [Retourbeleid & Herroepingsrecht | FragranceGems Parfumshop](https://fragrance-gems.nl/pages/retourbeleid): Laatste update: 12 december 2025 Bedankt dat u bij FragranceGems winkelt. Ons retour- en terugbetalingsbeleid is bedoeld om een soepele en transpar...
+  Updated: 2026-01-02T11:08:48Z
+- [Verzendbeleid & Levertijden van FragranceGems | Snel & Veilig](https://fragrance-gems.nl/pages/verzending): Laatste update: 12 december 2025 Welkom bij het verzendbeleid van FragranceGems. Hieronder vindt u alle informatie over verwerkingstijden, levertij...
+  Updated: 2026-01-02T11:08:14Z
+- [Privacyverklaring van FragranceGems | Uw Data Veilig Beheerd](https://fragrance-gems.nl/pages/privacyverklaring): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2026-01-02T11:11:38Z
+- [Algemene Voorwaarden van FragranceGems | Veilig Winkelen](https://fragrance-gems.nl/pages/algemene-voorwaarden): Algemene voorwaarden FRAGRANCEGEMS Laatst bijgewerkt: 15 december 2025 BEDRIJFSGEGEVENS ROMA Service (handelsnaam: FragranceGems)KvK-nummer: 976983...
+  Updated: 2026-01-02T13:07:09Z
+- [100% Originele Parfums & Authenticiteit | FragranceGems](https://fragrance-gems.nl/pages/authenticiteit): Authenticiteit & Herkomst Bij FragranceGems garanderen wij dat al onze parfums origineel, ongeopend en verzegeld zijn. Onze producten worden ingeko...
+  Updated: 2026-01-02T11:06:31Z
+- [Veelgestelde Vragen & Klantenservice | FragranceGems FAQ](https://fragrance-gems.nl/pages/veelgestelde-vragen-faq): Verzending & Levering Hoe lang duurt de verzending?Bestellingen worden binnen 1-2 werkdagen verwerkt en verzonden binnen 2-4 werkdagen via PostNL m...
+  Updated: 2026-01-02T11:05:58Z
+- [Veilig Betalen bij FragranceGems | iDEAL, Klarna & Creditcard](https://fragrance-gems.nl/pages/betaalmethoden): Bij FragranceGems waarderen wij uw veiligheid en gemak. Wij bieden verschillende betaalmethoden aan die niet alleen eenvoudig in gebruik zijn, maar...
+  Updated: 2026-01-02T11:05:25Z
+- [Cookiebeleid van FragranceGems | Transparantie & Privacy](https://fragrance-gems.nl/pages/cookie-beleid): Laatste update: 12 december 2025 Dit is het cookiebeleid van Fragrance Gems (hierna: “wij”, “ons” of “onze”), bereikbaar via fragrance-gems.nl. Wij...
+  Updated: 2026-01-02T10:55:33Z
+- [GDPR Privacy Policy van FragranceGems | Uw Privacy Gewaarborgd](https://fragrance-gems.nl/pages/gdpr-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2026-01-02T11:04:25Z
+- [GDPR & Privacy Rechten | Beheer uw Data bij FragranceGems](https://fragrance-gems.nl/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
+  Updated: 2026-01-02T11:03:48Z
+- [Parfum Collecties & Categorieën Overzicht | FragranceGems Sitemap](https://fragrance-gems.nl/pages/collection-sitemap): Collection Bestsellers Op voorraad Belangrijk
+  Updated: 2026-01-02T11:00:56Z
+- [Blog Overzicht & Categorieën Sitemap | FragranceGems](https://fragrance-gems.nl/pages/blog-sitemap): Blog Nieuws
+  Updated: 2026-01-02T11:00:24Z
+- [Overzicht van alle Parfum Artikelen | FragranceGems Article Sitemap](https://fragrance-gems.nl/pages/article-sitemap): Article No Article Found
+  Updated: 2026-01-02T10:59:56Z
+- [Informatie & Klantenservice Overzicht | FragranceGems Sitemap](https://fragrance-gems.nl/pages/page-sitemap): Page Contact Over ons RETOURBELEID & HERROEPINGSRECHT VERZENDBELEID Privacyverklaring / Privacy (GDPR) Algemene voorwaarden FRAGRANCEGEMS Authentic...
+  Updated: 2026-01-02T10:59:20Z
+- [Sitemap FragranceGems | Overzicht Producten & Informatie](https://fragrance-gems.nl/pages/sitemap): Product Rasasi Hawas Malibu For Him 100ml French Avenue Aether Extrait 100ml Rayhaan Pacific Aura 100ml Rayhaan Tropical Vibe 100ml Rayhaan Nocturn...
+  Updated: 2026-01-02T10:57:41Z
+- [html sitemap products](https://fragrance-gems.nl/pages/html-sitemap-products): Products Rasasi Hawas Malibu (100ml) – ... French Avenue Aether Extrait 1... Rayhaan Pacific Aura (100ml) –... Rayhaan Tropical Vibe 100ml – ... Ra...
+  Updated: 2026-01-01T19:45:43Z
+- [html sitemap collections](https://fragrance-gems.nl/pages/html-sitemap-collections): Collections Bestsellers Op voorraad Aanbevolen Parfums | Must-Have... Rayhaan Parfums .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-h...
+  Updated: 2026-01-01T19:45:45Z
+- [Overzicht van alle Parfum Blogs & Nieuws | FragranceGems Sitemap](https://fragrance-gems.nl/pages/html-sitemap-blogs): Blogs Nieuws SEO News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row >...
+  Updated: 2026-01-02T10:56:48Z
+- [html sitemap articles](https://fragrance-gems.nl/pages/html-sitemap-articles): Blog Posts Gids voor authentieke geuren o... Arabische parfums kiezen voor ... Luxe parfums met subtiele geur... Unieke geuren in de Arabische ... ...
+  Updated: 2026-01-01T19:45:48Z
+- [html sitemap pages](https://fragrance-gems.nl/pages/html-sitemap-pages): Pages Contact Over ons RETOURBELEID & HERROEPINGSRECH... VERZENDBELEID Privacyverklaring / Privacy (G... Algemene voorwaarden FRAGRANCE... Authenti...
+  Updated: 2026-01-01T19:45:50Z
+- [html sitemap](https://fragrance-gems.nl/pages/html-sitemap): Products Rasasi Hawas Malibu (100ml) – ... French Avenue Aether Extrait 1... Rayhaan Pacific Aura (100ml) –... Rayhaan Tropical Vibe 100ml – ... Ra...
+  Updated: 2026-01-01T19:45:51Z
 
 ## Policies
 
