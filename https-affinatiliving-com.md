@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-03T04:00:36.136Z
+- Updated At: 2026-01-03T08:00:35.963Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_06_10_26_PM.png?v=1762731128
   Price: $16.95 USD
 - [Honey Lavender Reed Diffuser](https://affinatiliving.com/products/honey-lavender-reed-diffuser): Relax with the soothing blend of sweet honey and soft lavender. A calming, floral scent that brings peace, comfort, and gentle warmth home.
-  Updated: 2026-01-02T19:30:14Z
+  Updated: 2026-01-03T07:30:18Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -151,14 +151,14 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/24635041-6726-4A02-824A-2F3CB4A522E3.png?v=1767273398
   Price: $22.95 USD
 - [Coffee Shop Reed Diffuser](https://affinatiliving.com/products/coffee-shop-reed-diffuser): Fill your home with the rich scent of freshly brewed coffee and roasted beans. A warm, comforting fragrance that feels like your favorite café.
-  Updated: 2026-01-02T19:36:00Z
+  Updated: 2026-01-03T07:36:02Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/81A5CAAF-798F-4E02-A4A6-A3CE73C63AB8.png?v=1767382558
   Price: $22.95 USD
 - [Floral Breeze Reed Diffuser](https://affinatiliving.com/products/floral-breeze-reed-diffuser): Enjoy the soft, airy scent of blooming florals carried on a gentle breeze. Light, uplifting, and perfect for creating a serene, elegant space.
-  Updated: 2026-01-02T19:30:54Z
+  Updated: 2026-01-03T07:30:58Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5026,42 +5026,42 @@
     Availability: Available
     Price: $109.95 USD
 - [Cinnamon Swirl Reed Diffuser](https://affinatiliving.com/products/cinnamon-swirl-reed-diffuser): Warm and inviting, our Cinnamon Swirl Reed Diffuser blends spiced cinnamon and sweet vanilla for a cozy, comforting aroma that fills your space with lasting fragrance.
-  Updated: 2026-01-02T19:28:03Z
+  Updated: 2026-01-03T07:28:08Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/399D2EA5-3CB3-4D21-B733-F9BD962D4ADD.png?v=1767382069
   Price: $22.95 USD
 - [Champagne Toast Reed Diffuser](https://affinatiliving.com/products/champagne-toast-reed-diffuser): Bright and bubbly, our Champagne Toast Reed Diffuser blends effervescent champagne and sweet berries for a joyful, uplifting fragrance that fills your home with elegant warmth.
-  Updated: 2026-01-02T19:13:03Z
+  Updated: 2026-01-03T07:13:07Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/DBD92124-62BE-4684-A30F-35319E51DC91.png?v=1767381181
   Price: $22.95 USD
 - [Coconut Dream Reed Diffuser](https://affinatiliving.com/products/coconut-dream-reed-diffuser): Escape to paradise with our Coconut Dream Reed Diffuser—featuring a creamy blend of coconut and vanilla for a soft, soothing fragrance that brings island-inspired tranquility to your home.
-  Updated: 2026-01-02T19:11:06Z
+  Updated: 2026-01-03T07:11:10Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5679724A-CDD9-449F-8F7E-D746D5D0D189.png?v=1767381056
   Price: $22.95 USD
 - [Fruit Fusion Reed Diffuser](https://affinatiliving.com/products/fruit-fusion-reed-diffuser): Bring your home to life with our Fruit Fusion Reed Diffuser—an uplifting blend of berries, peach, and citrus that fills your space with bright, refreshing fragrance.
-  Updated: 2026-01-02T19:10:31Z
+  Updated: 2026-01-03T07:10:32Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/891B676E-32A9-4A41-B0F5-393AC95CBDC4.png?v=1767381029
   Price: $22.95 USD
 - [Cherry Noir Reed Diffuser](https://affinatiliving.com/products/cherry-noir-reed-diffuser): Indulge in the rich, sophisticated aroma of Cherry Noir. A deep blend of dark cherry, amber, and vanilla creates a warm, elegant fragrance that fills your home with timeless luxury.
-  Updated: 2026-01-02T17:55:03Z
+  Updated: 2026-01-03T05:55:11Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/EBF108BB-74A5-4154-9964-36CF0D467DED.png?v=1767376489
   Price: $22.95 USD
 - [Amber Noir Reed Diffuser](https://affinatiliving.com/products/amber-noir-reed-diffuser): Experience the mysterious warmth of Amber Noir. This captivating blend of smooth amber, musk, and soft woods creates a cozy, sensual atmosphere perfect for any space.
-  Updated: 2026-01-02T17:54:18Z
+  Updated: 2026-01-03T05:54:40Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5075,7 +5075,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9977B383-1789-4BD0-ABC4-3568BEC56E0D.png?v=1767273512
   Price: $22.95 USD
 - [Peppermint Swirl Reed Diffuser](https://affinatiliving.com/products/peppermint-swirl-reed-diffuser): Refresh your home with the cool, invigorating scent of Peppermint Swirl. A crisp blend of peppermint and sweet vanilla creates a bright, cheerful fragrance that awakens the senses.
-  Updated: 2026-01-02T17:52:48Z
+  Updated: 2026-01-03T05:52:53Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5089,7 +5089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1DD3A18C-A482-4672-ADAE-3984C0037F46.png?v=1767273446
   Price: $22.95 USD
 - [Cactus & Sea Salt Reed Diffuser](https://affinatiliving.com/products/cactus-sea-salt-reed-diffuser): Bring a breath of coastal freshness to your home with our Cactus & Sea Salt Reed Diffuser. This 7.0 fl oz diffuser blends ocean air, cactus blossom, and soft florals for a clean, relaxing scent that lasts for weeks.
-  Updated: 2026-01-02T17:51:29Z
+  Updated: 2026-01-03T05:50:19Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5185,7 +5185,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9B5F79F0-CE66-4010-B9FE-F35DC263BB4C.png?v=1767273665
   Price: $22.95 USD
 - [Black Cherry Reed Diffuser](https://affinatiliving.com/products/black-cherry-reed-diffuser): Indulge in the rich, fruity aroma of our Black Cherry Reed Diffuser. Crafted with a non-toxic formula, it fills your home with the sweet scent of ripe cherries and berries for weeks of warm, flame-free fragrance.
-  Updated: 2026-01-02T17:49:39Z
+  Updated: 2026-01-03T05:49:40Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -5252,14 +5252,14 @@
     Availability: Available
     Price: $72.95 USD
 - [Saffron Cedarwood Reed Diffuser](https://affinatiliving.com/products/saffron-cedarwood-reed-diffuser): Fill your home with the warm, elegant scent of saffron and cedarwood. A rich, earthy diffuser for cozy, refined spaces.
-  Updated: 2026-01-02T17:48:55Z
+  Updated: 2026-01-03T05:48:58Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3FE11F51-F567-4384-905D-7E8736479CAF.png?v=1767376134
   Price: $22.95 USD
 - [Hazelnut Coffee Reed Diffuser](https://affinatiliving.com/products/hazelnut-coffee-reed-diffuser): Awaken your space with the inviting aroma of roasted coffee and creamy hazelnut. A cozy, café-inspired diffuser for daily comfort.
-  Updated: 2026-01-02T17:48:05Z
+  Updated: 2026-01-03T05:48:10Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
