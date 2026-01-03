@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-03T15:31:02.359Z
+- Updated At: 2026-01-03T16:01:09.789Z
 
 ## Products
 
@@ -14431,6 +14431,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-moela-de-pato-picante-jiu-jiu-xiang-la-ya-zhen-136g.png?v=1767452577
   Price: R$ 94,99 BRL
+- [Pescoço de Pato Doce e Picante Jiu Jiu 110g - Y 玖久Y 甜辣鸭脖](https://www.meiwei.com.br/products/pescoco-de-pato-doce-e-picante-jiu-jiu-110g-y-y): O Pescoço de Pato Doce e Picante Jiu Jiu Y 玖久Y 甜辣鸭脖 110g é um snack típico da culinária chinesa, preparado com pedaços de pescoço de pato cozidos e envolvidos em um molho vermelho brilhante que combina dulçor e picância. A embalagem roxa com faixa preta destaca porções generosas de pescoço de pato bem glaceadas, sugerindo textura firme, mastigável e cheia de umami. Produzido na China, é um petisco pronto para consumo, ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou servir como acompanhamento rápido de arroz branco e noodles. A porção de 110 g é prática para consumo individual reforçado ou para compartilhar em pequenas porções. Lista de ingredientes Pescoço de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% % Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Pescoço de pato doce e picante como petisco ou acompanhamento Snack direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como petisco de pescoço de pato doce e picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir os pedaços de pescoço de pato em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
+  Updated: 2026-01-03T15:31:28Z
+  Vendor: Jiu Jiu Y 玖久Y
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pescoco-de-pato-doce-e-picante-jiu-jiu-y-110g.png?v=1767453647
+  Price: R$ 94,99 BRL
 
 ## Collections
 
@@ -14465,7 +14472,7 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-03T15:22:03Z
+  Updated: 2026-01-03T15:31:28Z
   Total Products: 1512
 - [Molho](https://www.meiwei.com.br/collections/molho)
   Updated: 2026-01-03T12:02:46Z
@@ -14708,7 +14715,7 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-03T15:22:03Z
+  Updated: 2026-01-03T15:31:28Z
   Total Products: 2235
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
@@ -14720,7 +14727,7 @@
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-01-03T15:22:03Z
+  Updated: 2026-01-03T15:31:28Z
   Total Products: 806
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
   Updated: 2025-12-31T12:02:57Z
@@ -14738,19 +14745,19 @@
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-03T15:22:03Z
+  Updated: 2026-01-03T15:31:28Z
   Total Products: 3691
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
-  Updated: 2026-01-03T15:22:32Z
-  Total Products: 636
+  Updated: 2026-01-03T15:31:41Z
+  Total Products: 637
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-03T15:22:32Z
-  Total Products: 3057
+  Updated: 2026-01-03T15:31:41Z
+  Total Products: 3056
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-03T15:22:03Z
+  Updated: 2026-01-03T15:31:28Z
   Total Products: 3691
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-01-03T15:30:36Z
+  Updated: 2026-01-03T15:31:28Z
   Total Products: 2058
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
   Updated: 2025-12-30T12:02:37Z
