@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2020-04-21T00:03:21Z
 - Contact Email: boutiqueblooms@rachelaclingen.com
-- Updated At: 2026-01-01T00:00:26.288Z
+- Updated At: 2026-01-03T00:00:29.903Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-sympathy-flowers-toronto.jpg?v=1744825082
     Price: $289.99 CAD
 - [White Modern Bloom Box - Large](https://www.boutiqueblooms.ca/products/white-modern-large-bloom-box): Order White Modern Bloom Box - Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-17T18:44:41Z
+  Updated: 2026-01-02T14:02:10Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: $349.00 CAD
 - [White Modern Bloom Box - Small](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box): Order White Modern Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-29T15:29:20Z
+  Updated: 2026-01-01T17:13:56Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -453,7 +453,7 @@
     Availability: Available
     Price: $76.99 CAD
 - [Pretty in Pink](https://www.boutiqueblooms.ca/products/pretty-in-pink): This bright bundle is the perfect blend of soft and deeper vibrant pinks. Balanced with some soft white and a touch of foliages. Fresh cut and packaged in our signature bloom bag ready to be transferred into your favourite vase or add-on one of our vases to your purchase! Pictured is our large bundle. Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-30T18:47:36Z
+  Updated: 2026-01-02T16:50:52Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Bag
   Availability: Available
@@ -720,6 +720,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/christmas-centerpiece-toronto-delivery-flowers.jpg?v=1734032560
     Price: $155.99 CAD
+- [Snowflakes and Pinecones](https://www.boutiqueblooms.ca/products/snowflakes-and-pinecones): A fresh and fragrant mix of white florals winter greens accented with pine cones and festive details. This beautiful hand tied arrangement is the perfect piece for a neutral lovers home. Wrapped in our luxury, signature tissue paper and delivered in our stylish bloom bag makes this a wonderful gift to someone special or maybe event to spoil yourself! Floral, pick, and foliage varieties may vary based on availability but we promise to make it beautiful!
+  Updated: 2026-01-02T21:03:27Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Bloom Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/best-holiday-flowers-toronto.jpg?v=1762959723
+  Price: $115.99 CAD
+- [Winter Fresh](https://www.boutiqueblooms.ca/products/winter-fresh): A beautiful blend of seasonal greens mixed with fresh roses, winter berries, velvety magnolia, and pine cones. A stunning traditional piece to complete your table for the Holidays. Please note that floral varieties may vary based on availability but we promise to make it beautiful! Other colour combinations are available, please inquire for details
+  Updated: 2026-01-02T21:03:51Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Centrepiece
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/winter-centrepiece-toronto.jpg?v=1697743475
+  Price: $173.99 CAD
 - [Crazy In Love](https://www.boutiqueblooms.ca/products/crazy-in-love): Brighten their day with Crazy in Love, a vibrant mix in our blush box. Order now for same-day flower delivery in Toronto & GTA!
   Updated: 2025-12-12T18:06:34Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -1066,7 +1080,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/mothers-day-bouquet-gta.jpg?v=1682708544
   Price: $99.99 CAD
 - [Just So Pretty](https://www.boutiqueblooms.ca/products/just-so-pretty): Order Just So Pretty, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-29T19:13:50Z
+  Updated: 2026-01-01T19:08:06Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -1297,7 +1311,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-rose-box-pink-white-toronto_288ec5d7-b74e-4684-85f2-1c35db0ddaf9.jpg?v=1706119003
   Price: $179.99 CAD
 - [Petite Rose Bloom Box](https://www.boutiqueblooms.ca/products/petite-rose-bloom-box-1): Order Petite Rose Bloom Box, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-14T07:15:46Z
+  Updated: 2026-01-02T13:47:12Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -1609,7 +1623,7 @@
     Availability: Available
     Price: $350.00 CAD
 - [White Modern Bloom Box - Extra Large](https://www.boutiqueblooms.ca/products/white-modern-bloom-box-extra-large): Order the White Modern Bloom Box, featuring premium white roses & tulips in a luxurious design. Perfect for any occasion. Order now!
-  Updated: 2025-12-12T18:06:48Z
+  Updated: 2026-01-02T17:17:41Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
@@ -1738,6 +1752,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_4308_jpg.jpg?v=1763751747
   Price: $109.99 CAD
+- [After Eight](https://www.boutiqueblooms.ca/products/after-eight): Elegant and modern, our After Eight arrangement is designed to bring a touch of winter and sophistication to any space. Premium white roses and soft-textured mums are designed with deep winter greens and magnolia foliage, creating a rich seasonal piece. Shimmering ornament accents in frosted mint add a festive glow, making this piece perfect for holiday gatherings, winter celebrations, or simply elevating your home décor. Floral varieties may vary based upon availability but we promise to make it beautiful!
+  Updated: 2026-01-02T21:04:21Z
+  Vendor: Boutique Blooms by Rachel A. Clingen
+  Product Type: Centrepiece
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_4543_jpg.jpg?v=1764099129
+  Price: $105.99 CAD
 [List Continued](https://www.boutiqueblooms.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTI4ODkyMTA0OTM3LCJsYXN0X3ZhbHVlIjoiOTEyODg5MjEwNDkzNyJ9)
 
 ## Collections
@@ -1749,7 +1770,7 @@
   Updated: 2025-12-31T12:03:57Z
   Total Products: 66
 - [Signature Flower Collection](https://www.boutiqueblooms.ca/collections/signature-flower-collection): Explore our stunning summer flower collection. From vibrant roses to delicate daisies, find the perfect bloom boxes to brighten your day. Order now!
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 107
 - [Luxury Flowers Toronto | Boutique Blooms](https://www.boutiqueblooms.ca/collections/luxury-flower-boxes): Discover luxury floral arrangements, thoughtfully designed and delivered across Toronto and the GTA.
   Updated: 2025-12-26T12:02:23Z
@@ -1761,13 +1782,13 @@
   Updated: 2025-12-20T12:04:51Z
   Total Products: 35
 - [Recommended products (Seguno)](https://www.boutiqueblooms.ca/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-31T12:03:57Z
-  Total Products: 367
+  Updated: 2026-01-02T21:04:51Z
+  Total Products: 370
 - [Holiday Flower Delivery Toronto | Christmas Flowers](https://www.boutiqueblooms.ca/collections/winter-collection): Shop Christmas and holiday flower arrangements, thoughtfully designed and delivered across Toronto and the GTA.
   Updated: 2025-12-31T12:03:57Z
   Total Products: 76
 - [New Baby Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/flowers-for-newborns): Celebrate a new arrival with beautiful new baby flowers, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 19
 - [Gift Bloom Boxes](https://www.boutiqueblooms.ca/collections/gift-bloom-boxes): Explore Boutique Blooms’ signature Gift Bloom Boxes, luxurious floral arrangements designed in elegant hat boxes & delivered across Toronto.
   Updated: 2025-12-12T18:08:17Z
@@ -1782,19 +1803,19 @@
   Updated: 2025-12-31T12:03:57Z
   Total Products: 23
 - [Funeral & Sympathy Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/sympathy-flowers): Thoughtfully designed funeral and sympathy flowers, delivered with care across Toronto and the GTA.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 27
 - [Birthday Blooms](https://www.boutiqueblooms.ca/collections/birthday-blooms): Celebrate their special day with Boutique Blooms’ birthday flowers — fresh, stunning arrangements delivered anywhere in Toronto.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 24
 - [Mother's Day Collection](https://www.boutiqueblooms.ca/collections/mothers-day-collection): Please note that deliveries on May 11th will occur between 9am - 5pm. We kindly ask that you consider ordering for Friday or Saturday if you would like to ensure she has them Sunday Morning!
-  Updated: 2025-12-30T12:04:16Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 33
 - [Trending Summer Flower Box Collection - Boutique Blooms](https://www.boutiqueblooms.ca/collections/summer-collection): Brighten your summer with Boutique Blooms' Summer Flower Box Collection. Enjoy vibrant, seasonal blooms delivered right to your door.
-  Updated: 2025-12-30T12:04:16Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 31
 - [Flower Subscription Services in Toronto & GTA- Boutique Blooms](https://www.boutiqueblooms.ca/collections/subscriptions): Get Boutique Blooms flower subscriptions for every budget! Enjoy premium floral arrangements with affordable delivery across the GTA.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 15
 - [Hanukkah Collection](https://www.boutiqueblooms.ca/collections/hanukkah-collection): Beautiful collection of our most festive creations to make this holiday a memorable one.
   Updated: 2025-12-24T12:05:04Z
@@ -1804,7 +1825,7 @@
   Total Products: 11
 - [Spring Flower Collection - Boutique Blooms by Rachel A. Clingen](https://www.boutiqueblooms.ca/collections/spring-flowers): Explore our vibrant Spring Flower Collection.
 Beautiful floral arrangements that make this time of year that much more beautiful. For all of your spring time gatherings or to accent your home, there is a stylish arrangement for you!
-  Updated: 2025-12-30T12:04:16Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 30
 - [WHILE QUANTITIES LAST!](https://www.boutiqueblooms.ca/collections/designers-choice): Let Boutique Blooms’ designers craft a custom floral arrangement with fresh in-season blooms, delivered across Toronto with love.
   Updated: 2025-12-31T12:03:57Z
@@ -1813,13 +1834,13 @@ Beautiful floral arrangements that make this time of year that much more beautif
   Updated: 2025-12-12T18:08:18Z
   Total Products: 3
 - [Mellow Yellow](https://www.boutiqueblooms.ca/collections/mellow-yellow): Brighten any day with cheerful yellow floral arrangements from Boutique Blooms. Fresh delivery available across Toronto.
-  Updated: 2025-12-25T12:03:37Z
+  Updated: 2026-01-01T12:03:53Z
   Total Products: 3
 - [Mellow Yellow](https://www.boutiqueblooms.ca/collections/mellow-yellow-1)
-  Updated: 2025-12-25T12:03:37Z
+  Updated: 2026-01-01T12:03:53Z
   Total Products: 2
 - [Toronto's Stylish Flower Delivery - Boutique Blooms](https://www.boutiqueblooms.ca/collections/blooms-flowers): Explore elegant, custom flower arrangements from Flower Delivery in Toronto, curated by The Rachel A.Clingen Team for all events. In-house delivery available across Toronto
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 69
 - [Boutique Party Flower Collection - Boutique Blooms by Rachel](https://www.boutiqueblooms.ca/collections/boutique-parties): Boutique centrepieces for the prettiest of parties! Elevate a birthday, baptism, communion, engagement, dinner party or any event you're hosting with our beautiful party flowers!
   Updated: 2025-12-12T18:08:18Z
@@ -1858,31 +1879,31 @@ Beautiful floral arrangements that make this time of year that much more beautif
   Updated: 2025-12-12T18:08:19Z
   Total Products: 2
 - [Best Selling Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/best-sellers): Shop our best selling flower arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 19
 - [Flowers Under $100 | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/under-100): Shop beautiful, thoughtfully designed flowers under $100. Perfect for gifting or small gestures, delivered across Toronto and the GTA.
   Updated: 2025-12-31T12:03:57Z
   Total Products: 189
 - [Birthday Flowers | Same-Day Delivery Toronto & GTA](https://www.boutiqueblooms.ca/collections/birthday-flowers): Shop birthday flowers in Toronto and the GTA. Thoughtfully designed arrangements with same-day delivery available.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 12
 - [Anniversary Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/anniversary-flowers): Shop anniversary flowers in Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 17
 - [Graduation Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/graduation-flowers): Celebrate their achievement with graduation flowers, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-01T12:03:53Z
   Total Products: 8
 - [New - Our Stylish Flower Collection](https://www.boutiqueblooms.ca/collections/new-our-stylish-flower-collection)
   Updated: 2025-12-19T15:15:51Z
   Total Products: 0
 - [Thank You Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/thank-you-flowers): Send thank you flowers across Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 12
 - [Get Well Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/get-well-flowers): Send get well flowers across Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 8
 - [Just Because Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/just-because): Shop just because flowers in Toronto and the GTA. Thoughtfully designed arrangements, perfect for everyday moments.
-  Updated: 2025-12-31T12:03:57Z
+  Updated: 2026-01-02T12:03:09Z
   Total Products: 12
 - [Winter Designer's Choice and Long Lasting Centerpieces](https://www.boutiqueblooms.ca/collections/winter-designers-choice-and-long-lasting-centerpieces)
   Updated: 2025-12-31T12:03:57Z
@@ -1891,6 +1912,9 @@ Beautiful floral arrangements that make this time of year that much more beautif
 Ring in the New Year beautifully. Premium flowers, modern arrangements
   Updated: 2025-12-31T12:03:57Z
   Total Products: 15
+- [WinterWinter Flowers & Bouquets | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/winter-collection-jan-march-2026): Discover refined winter floral arrangements handcrafted with premium stems. Modern bouquets with delivery across Toronto & the GTA.
+  Updated: 2026-01-02T13:37:07Z
+  Total Products: 11
 
 ## Blogs
 
