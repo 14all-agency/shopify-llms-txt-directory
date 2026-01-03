@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-24T00:00:33.571Z
+- Updated At: 2026-01-03T00:00:36.444Z
 
 ## Products
 
@@ -420,7 +420,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1718891203120074752.jpg?v=1763869183
   Price: $39.39 USD
 - [LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™H](https://www.urban-buy.store/products/rose-flowers-led-light-bluetooth-compatible-speaker-valentines-day-gift): LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™C
-  Updated: 2025-12-19T05:46:42Z
+  Updated: 2025-12-27T14:46:41Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -535,20 +535,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8874db16-4e75-4f0b-95b4-22b45acdfadf.jpg?v=1763869265
     Price: $16.21 USD
-- [LED Festive Gift Box Set | Urban Buy](https://www.urban-buy.store/products/set-of-3-led-lighted-christmas-gift-boxes): LED Festive Gift Box Set - Warm White Light
-  Updated: 2025-12-20T02:46:35Z
-  Vendor: CJ
-  Product Type: Christmas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/744c0f6e-9098-4788-a53f-1baffd448d38.jpg?v=1763869266
-  - [Deer](https://www.urban-buy.store/products/set-of-3-led-lighted-christmas-gift-boxes?variant=52425296052540)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/7ae61857-7a60-41b0-8d35-af298949d02a.jpg?v=1763869276
-    Price: $39.34 USD
-  - [Star](https://www.urban-buy.store/products/set-of-3-led-lighted-christmas-gift-boxes?variant=52425296085308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/edf0437e-6b09-41f1-8781-1097f975ed6e.jpg?v=1763869278
-    Price: $39.34 USD
 - [LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™](https://www.urban-buy.store/products/led-green-leaf-copper-wire-lighting-chain-indoor-room-decoration): LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™JH
   Updated: 2025-12-03T11:00:02Z
   Vendor: Renfen
@@ -656,7 +642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-23T04:48:06Z
+  Updated: 2025-12-29T09:48:00Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -1539,6 +1525,22 @@
     Updated: 2025-12-23T09:02:35Z
     Author: Urban BUY
     Tags: best christmas gifts, christmas, christmas 2025, christmas gift ideas, christmas gifts, cozy, festive home vibes, gift ideas, gifts, gifts for christmas, gifts ideas, holiday presents, home gifts
+  - [Top Christmas Gift Ideas for His Wishlist](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/top-christmas-gift-ideas-for-his-wishlist): Top Christmas Gift Ideas for His Wishlist
+    Updated: 2025-12-25T09:04:17Z
+    Author: Urban BUY
+    Tags: best gift suggestions, christmas 2025, christmas gift ideas, christmas gifts, gifts, gifts for christmas, gifts ideas, holiday ideas, presents, thoughtful gift ideas, unique gifts, wishlist
+  - [Discover the Best Gifts for Christmas 2025](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/discover-the-best-gifts-for-christmas-2025): Discover the Best Gifts for Christmas 2025
+    Updated: 2025-12-27T09:04:50Z
+    Author: Urban BUY
+    Tags: best christmas gifts 2025, christmas, christmas 2025, christmas gift ideas, christmas gifts, creative gift ideas for christmas, gift inspiration, gifts, gifts for christmas, gifts ideas, holiday presents, ideas, unique gifts
+  - [Unique Christmas Gift Ideas for Mom](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/unique-christmas-gift-ideas-for-mom): Unique Christmas Gift Ideas for Mom
+    Updated: 2025-12-30T09:02:18Z
+    Author: Urban BUY
+    Tags: christmas 2025, christmas gift ideas, christmas gifts, creative christmas gift suggestions for, gift, gifts for christmas, gifts ideas, holiday presents, mommy, special gifts, thoughtful gift ideas for mom, unique
+  - [Perfect Christmas Gift Ideas for Your Kids](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/perfect-christmas-gift-ideas-for-your-kids): Perfect Christmas Gift Ideas for Your Kids
+    Updated: 2026-01-01T09:01:37Z
+    Author: Urban BUY
+    Tags: children, christmas 2025, christmas gift ideas, christmas gifts, gift ideas, gifts, gifts for christmas, gifts ideas, kids presents, perfect christmas gifts for kids, toys, unique gifts for children
 
 ## Store Pages
 
