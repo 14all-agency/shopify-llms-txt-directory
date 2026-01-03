@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-03T08:01:09.437Z
+- Updated At: 2026-01-03T12:01:23.226Z
 
 ## Products
 
@@ -284,12 +284,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/shoyu.jpg?v=1666295973
   Price: R$ 39,99 BRL
 - [Biscoito salgado de arroz com alga marinha - Want Want 136g](https://www.meiwei.com.br/products/biscoito-salgado-de-arroz-com-alga-marinha-want-want-136g): Biscoito à base de arroz com cobertura de glacê fino de açúcar. Tem consistência aerada, muito leve. Ótimo acompanhamento para chás e cafés. A embalagem contém 10 pacotes com 2 biscoitos em cada. Contém um sachê "dessecante" dentro do saco não comestível. INGREDIENTES: Arroz, açúcar, óleo de palma, sal, gelatina, glutamato monossódico (E621), inosinato dissódico (E631) e guanilato dissódico (E627). NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 12g (1 pacote com 2 unidades) Quantidade por Porção %VD(*) Valor Energético 60 Kcal 3% Carboidratos 10g 3% Proteínas 1g 1% Gorduras Totais 2,5g 4% Gorduras Saturadas 1g 5% Gorduras Trans 0g 0% Fibra Alimentar 0g 0% Sódio 55mg 2% *Valores Diários de referência, com base em uma dieta de 2000 Kcal ou 8400Kj. Manter em ambiente seco e arejado. Origem: China
-  Updated: 2026-01-02T10:23:19Z
+  Updated: 2026-01-03T10:32:08Z
   Vendor: Want Want
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/CapturadeTela2022-10-21as16.39.10.png?v=1666381246
-  Price: R$ 33,20 BRL
+  Price: R$ 33,90 BRL
 - [Macarrão de arroz 10mm (Ho Fun) - KuiShuPai 250g](https://www.meiwei.com.br/products/macarrao-de-arroz-sha-ho-fun-hofen-250g-espessura-larga): O Macarrão de arroz 10mm, também conhecido como Ho Fun (ou Hor Fun), é um tipo tradicional de massa larga e achatada, muito usado na culinária cantonesa e em pratos asiáticos como stir fry, sopas e o clássico Chow Fun. Feito com arroz, é naturalmente sem glúten e possui textura macia e leve, absorvendo bem os sabores dos molhos e temperos. Ideal para receitas rápidas na wok ou para preparar pratos como o famoso "Beef Ho Fun", com tiras de carne e legumes salteados. INGREDIENTES: Arroz, amido e água. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 80g (1 Prato Raso) Quantidade por Porção %VD(*) Valor Energético 283 Kcal/ 1187 Kj 10 Carboidratos 34g 15 Proteína 3,2g 8 Gorduras Totais 0g 0 Gorduras Saturadas 0g 0 Gorduras Trans 0g (**) Fibra Alimentar 2g 8 Sódio 0mg 0 (*) Valores Diários de referência com base em uma dieta de 2000 Kcal. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. (**) Valor Diário não estabelecido Após aberto manter a embalagem fechada em local seco e fresco. Origem: China Contém 250g
   Updated: 2025-12-23T17:34:29Z
   Vendor: Kui Shu Pai
@@ -771,7 +771,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/203e57c0370473d416571c0ddf57bc31.jpg?v=1668780401
   Price: R$ 73,99 BRL
 - [Shoyu Molho de soja escuro com cogumelo (Mushroom Dark Soy Sauce) - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/molho-shoyu-soja-dark-c-cogumelo-lee-kum-kee-500ml): Este molho combina o sabor rico e umami da soja fermentada com a complexidade terrosa dos cogumelos, criando um condimento versátil e saboroso. Ideal para stir-fries, marinadas, sopas e molhos. INGREDIENTES: Molho de soja (água, soja em grão, sal e farinha de trigo), corante caramelo I, glutamato monossódico, inosinato dissódico, guanilato dissódico, sorbato de potássio, extrato de cogumelo. CONTÉM GLUTÉN ALÉRGICOS CONTÉM SOJA E FARINHA DE TRIGO INFORMAÇÃO NUTRICIONAL Porção de 100g (1 Colher de sopa rasa) Quantidade por Porção Valor Energético 235 Kcal = 988 Kj Gorduras Saturadas < 0,5 g Açúcares 57 g Proteínas 1,7 g *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto manter sob refrigeração. Origem: China Contém 500ml
-  Updated: 2025-12-29T20:16:39Z
+  Updated: 2026-01-03T11:50:04Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
@@ -1020,12 +1020,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeprodutos2.0.jpg?v=1671029754
   Price: R$ 36,81 BRL
 - [Pasta de tamarindo - Pantai 454g](https://www.meiwei.com.br/products/pasta-de-tamarindo-pantai-454g): O tamarindo é uma fruta utilizada para dar um toque ácido às preparações tailandesas. Complementa perfeitamente o sabor dos pratos asiáticos, é utilizado em molhos, marinadas, chitneys, bebidas e sobremesas. INGREDIENTES: Tamarindo (56%), água, ácido acético (E330). NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 14g (1 colher de sopa) Quantidade por Porção %VD(*) Valor Energético 15 Kcal = 63 Kj 1% Carboidratos 4 g 1% Proteínas 0 g 0% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras <1 g 2% Sódio 5 mg 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia
-  Updated: 2026-01-02T10:25:13Z
+  Updated: 2026-01-03T10:39:43Z
   Vendor: Pantai
   Product Type: Tamarindo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/0899ebaa4bed0623fdfe3d65663e8f93.png?v=1673439002
-  Price: R$ 54,40 BRL
+  Price: R$ 53,70 BRL
 - [Pasta de Tamarindo concentrado em barra - Cock Brand 375g](https://www.meiwei.com.br/products/pasta-de-tamarindo-concentrado-em-barra-cock-brand-375gr): A Pasta de Tamarindo concentrado em barra é um ingrediente versátil e essencial na culinária asiática e indiana. Com seu sabor agridoce característico, é ideal para temperar molhos, marinadas, sopas e pratos de frutos do mar, realçando o sabor com um toque exótico e refrescante. INGREDIENTES: Tamarindo 100% NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 256 Kcal 12,6% Carboidratos 57 g 19% Proteínas 3 g 4% Gorduras Totais 0,6 g 1,1% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 5,1 g 20,4% Sódio 0 mg 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia
   Updated: 2025-12-23T17:34:22Z
   Vendor: Cock Brand
@@ -2028,12 +2028,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tauci-cebola-pequeno.png?v=1683159848
   Price: R$ 35,99 BRL
 - [Faca Japonesa para Sushi e Sashimi](https://www.meiwei.com.br/products/1-faca-sushi-sashimi-origem-japao): Os japoneses consideram o ato de cortar os alimentos uma arte e por isso têm o cuidado de preparar seus pratos culinários com facas de altíssima qualidade. Reconhecida no mercado internacional pelo alto padrão de qualidade dos cortes de suas facas e diferenciado acabamento, ela foi desenhada especiamente com um fio em apenas um de seus lados para proporcionar um corte delicado e preciso de sashimis e sushis. Sua lamina, quase reta, fina e pontiaguda, é indicada para fatiar o peixe sem espinhas, cortar os makis e fazer guarnições., tais como leque de pepinos entre muitas outras coisas. CARACTERISTICAS: Lâmina com corte unilateral orientada para destros. DIMENSÕES: 34,5cm (comprimento: lâmina + cabo) x 3,1cm (largura: lâmina). Lâmina com comprimento 21 cm. MATERIAL: Lâmina de aço inox com alto teor de carbono High carbon steel (0,6 a 0,99% de carbono em sua composição) e cabo de madeira. Esta faca não pe recomendada para corte duros, como ossos e espinhas, apenas para cortes leves e delicados. Manter a faca sempre seca após o uso. Recomendação que use pedra para amolar #650. Origem: Japão
-  Updated: 2026-01-02T10:24:55Z
+  Updated: 2026-01-03T10:37:25Z
   Vendor: Japão
   Product Type: faca
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/faca-japonesa.png?v=1683161704
-  Price: R$ 233,46 BRL
+  Price: R$ 233,30 BRL
 - [Bala gelatinosa sabor Lichia (Lychee Gummy) - Kasugai 102g](https://www.meiwei.com.br/products/bala-gelatinosa-sabor-lichia-kasugai-gummy-102g): Bala gelatinosa sabor lichia, com textura super macia e consistente e produzida a partir de suco de uva. Cada uma vem embalada individualmente para selar seu sabor e aroma. INGREDIENTES: Xarope de glicose, açúcar, sorbitol, suco de maçã e lichia, ácido cítrico, pectina, aromatizante, amido, cera de carnaúba, emulsificante (lectina de soja). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA E GOMA CARNAÚBA. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: Japão Contém 102g
   Updated: 2025-12-06T15:36:44Z
   Vendor: Kasugai
@@ -3498,12 +3498,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bbd656b657f07d04d333f852303fbcb3.jpg?v=1698439168
   Price: R$ 18,90 BRL
 - [Bala explosiva Rock Roll Popping sabor sortido - Baida 30g](https://www.meiwei.com.br/products/bala-explosiva-rock-roll-popping-sabor-sortido-baida-30g): Com efeito explosivo na boca, essa bala tipo pop rocks transforma cada mordida em uma experiência divertida e surpreendente. Uma explosão de sabor e diversão para todas as idades! INGREDIENTES: Açúcar, lactose, xarope de maltose, aromatizante alimentar, aditivos alimentares, dióxidos de carbono, ácido DL-málico e corante amarelo tartrazina (INS 102), vermelho allura AC e azul brilhante FCF. NÃO CONTÉM GLÚTEN CONTÉM LACTOSE E AROMATIZANTE INFORMAÇÕES NUTRICIONAISPorção de 30g Valor Calórico 120kcal 6% Carboidratos totais 30g 10% Açúcares totais 29g * Açúcares adicionados 29g 58% Proteínas 0g 0% Gorduras totais 0g 0% Sódio 0mg 0% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Manter em ambiente seco e fresco. Origem: China Validade: 24 meses Contém 30g
-  Updated: 2025-12-29T10:25:55Z
+  Updated: 2026-01-03T10:12:17Z
   Vendor: Baida
   Product Type: Bala
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/285c5515b4ddcdf0ebe4a8a8bd642419.jpg?v=1698439243
-  Price: R$ 13,54 BRL
+  Price: R$ 13,63 BRL
 - [Chá Oolong (sem açúcar) - Suntory 500ml](https://www.meiwei.com.br/products/cha-oolong-sem-acucar-suntory-500ml): O Chá Oolong Suntory é uma bebida premium sem açúcar, perfeita para quem busca um sabor equilibrado entre o frescor do chá verde e a profundidade do chá preto. Com um aroma sofisticado e notas levemente tostadas, ele oferece uma experiência autêntica e revigorante, ideal para acompanhar refeições ou ser apreciado sozinho a qualquer momento do dia. Naturalmente rico em antioxidantes e com zero calorias, é a escolha ideal para quem deseja uma bebida saudável, refrescante e sem adoçantes artificiais, mantendo o puro sabor do chá Oolong em sua forma mais autêntica. INGREDIENTES: Água (90%), Folhas de Chá Oolong (6%), Chá Oolong em Pó (3%), Aditivos Alimentares (Regulador de Acidez (E500ii), Antioxidante (E300)). INFORMAÇÕES NUTRICIONAISPorção de 200ml Valor Calórico 0kcal 0% Carboidratos 0g 0% Açúcares totais 0g 0% Proteínas 0g 0% Gorduras totais 0g 0% Sódio 0,019g 0% Armazenar em local seco e fresco, evitando luz solar direta. Origem: China Contem 500ml
   Updated: 2025-12-06T15:37:35Z
   Vendor: Suntory
@@ -3785,7 +3785,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/soja-molho-haday.jpg?v=1708531689
   Price: R$ 36,99 BRL
 - [Shoyu Molho de soja light premium (zero aditivos) - Haday 500ml](https://www.meiwei.com.br/products/molho-de-soja-light-premium-zero-aditivo-haday-500ml): O Molho de Soja Light Premium Zero Aditivo oferece um sabor autêntico e suave, ideal para quem busca uma opção mais natural em suas receitas. Sem conservantes ou aditivos, ele mantém a pureza do molho de soja tradicional, sendo perfeito para marinar, temperar ou finalizar pratos com um toque saudável e delicioso. INGREDIENTES: Água, soja não transgênica, sal, farinha de trigo, açúcar branco, extrato de levedura. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 15ml Valor Calórico 17kcal 1% Carboidratos 2g 1% Proteínas 1,8g 2% Gorduras Totais 0g 0% Gorduras Trans 944g 0% Sódio 930mg 34% Origem: China Contém 500ml
-  Updated: 2025-12-23T17:34:02Z
+  Updated: 2026-01-03T11:50:04Z
   Vendor: Haday
   Product Type: Molho de Soja
   Availability: Available
@@ -14348,35 +14348,35 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-tempero-liquido-cogumelo-rei-linghua-100g.png?v=1766511623
   Price: R$ 44,99 BRL
 - [Conserva de Mostarda Picante Lao Gan Ma 60g - 香辣菜](https://www.meiwei.com.br/products/conserva-de-mostarda-picante-lao-gan-ma-60g): A conserva de mostarda picante Lao Gan Ma 香辣菜 é um clássico acompanhamento da culinária chinesa, produzido pela famosa marca Lao Gan Ma. Feita à base de talos de mostarda em conserva combinados com óleo de soja, pimenta e temperos aromáticos, oferece sabor intenso, levemente ácido e bem picante. Ideal para servir como acompanhamento de arroz, macarrão, sopas, mingaus salgados ou para incrementar refogados e lanches. A embalagem de 60g é prática para experimentar o produto ou usar como porção individual. Lista de ingredientes Óleo de soja, mostarda em conserva (mostarda, sal), pimenta vermelha, amendoim, proteína de soja (tofu seco), sal, açúcar, realçador de sabor glutamato monossódico, especiarias. Alérgicos: contém soja e amendoim. Pode conter traços de trigo, gergelim e outros grãos. Informação nutricional – porção de 20 g (cerca de 1 colher de sopa cheia) Informação nutricional Porção de 20 g %VD* Valor energético 140 kcal = 588 kJ 7% Carboidratos 2 g 1% Proteínas 1 g 1% Gorduras totais 14 g 25% Gorduras saturadas 1 g 5% Gorduras trans 0 g - Fibra alimentar 1 g 4% Sódio 180 mg 8% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Valores aproximados. Sugestão de uso / receita Acompanhamento rápido: sirva 1–2 colheres de sopa de Lao Gan Ma 香辣菜 como acompanhamento de arroz branco, arroz frito ou macarrão oriental. Refogado picante de legumes: aqueça um fio de óleo em uma frigideira, acrescente legumes em tiras (cenoura, repolho, pimentão, broto de bambu etc.) e salteie em fogo alto. No final, acrescente 1–2 colheres de sopa da conserva de mostarda picante, misture bem e ajuste o sal. Topping para lamen ou sopas: use 1 colher de sopa como topping para lamen, sopa de macarrão de arroz ou caldos asiáticos, adicionando sabor picante e textura crocante. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, transferir o conteúdo remanescente para um recipiente limpo com tampa ou fechar bem a própria embalagem, conservar sob refrigeração e consumir preferencialmente em até 7 dias.
-  Updated: 2026-01-02T21:52:06Z
+  Updated: 2026-01-03T09:40:38Z
   Vendor: Lao Gan Ma 香辣菜
   Product Type: Conserva
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/conserva-mostarda-picante-lao-gan-ma-xiang-la-cai-60g.png?v=1767390150
   Price: R$ 14,90 BRL
 - [Pés de Pato ao Molho Picante Xianlugongshe 118g - 老卤鸭掌 香辣味](https://www.meiwei.com.br/products/pes-de-pato-ao-molho-picante-xianlugongshe-118g): Os pés de pato ao molho picante Xianlugongshe 老卤鸭掌 香辣味 são um snack típico da culinária chinesa, preparado em molho de temperos aromáticos e pimenta. Os pés de pato são cozidos e marinados em caldo bem temperado, depois embalados a vácuo, prontos para consumo. O sabor é intenso, salgado e picante, com textura firme e mastigável, ideal para quem gosta de petiscos diferentes e cheios de personalidade. A embalagem de 118g é perfeita para compartilhar, servir como aperitivo, acompanhamento de refeições ou consumir como snack com bebida. Lista de ingredientes Pés de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, açúcar, pimenta vermelha, pimenta Sichuan, alho, gengibre, vinho de cozinha, realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, aromas naturais de especiarias. Alérgicos: contém soja e trigo. Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 1/5 da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 70 kcal = 294 kJ 4% Carboidratos 2 g 1% Proteínas 5 g 7% Gorduras totais 5 g 9% Gorduras saturadas 1,5 g 7% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 480 mg 20% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Valores aproximados. Sugestão de uso / receita Petisco direto da embalagem: consumir os pés de pato frios, diretamente da embalagem, como snack picante para acompanhar cerveja, refrigerante ou chá gelado. Acompanhamento de arroz ou macarrão: servir os pés de pato aquecidos rapidamente em água quente ou em banho-maria e usar como acompanhamento de arroz branco, arroz frito ou macarrão oriental. Prato frio ao estilo chinês: cortar os pés de pato em pedaços menores e misturar com coentro picado, cebolinha, gergelim torrado e um fio de óleo de pimenta para servir como entrada fria. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou guardar o conteúdo remanescente em recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-02T22:07:00Z
+  Updated: 2026-01-03T09:55:30Z
   Vendor: Piao Ling Da Shu (飘零大叔)
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pes-de-pato-picantes-xianlugongshe-lao-lu-ya-zhang-118g.png?v=1767390977
   Price: R$ 49,99 BRL
 - [Pés de Pato ao Molho Tradicional Xianlugongshe 118g - 老卤鸭掌 卤香味](https://www.meiwei.com.br/products/pes-de-pato-ao-molho-tradicional-xianlugongshe-118g): Os pés de pato ao molho tradicional Xianlugongshe 老卤鸭掌 卤香味 são um snack típico da culinária chinesa, preparado em molho de temperos aromáticos ao estilo “láo lǔ” (老卤), ou seja, uma marinada de caldo bem temperado e reduzido. Os pés de pato são cozidos e marinados nesse molho concentrado, ganhando sabor intenso, salgado e cheio de umami, porém com foco mais no aroma da marinada do que na picância. A textura é firme e mastigável, ideal para quem gosta de petiscos mais diferenciados. A embalagem de 118g é perfeita para servir como aperitivo, acompanhamento de refeições ou consumir como snack com bebida. Lista de ingredientes Pés de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, açúcar, alho, gengibre, especiarias (anis-estrelado, canela, pimenta-do-reino, folhas de louro), vinho de cozinha, realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, aromas naturais de especiarias. Alérgicos: contém soja e trigo. Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 1/5 da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 75 kcal = 315 kJ 4% Carboidratos 1 g 0% Proteínas 6 g 8% Gorduras totais 5 g 9% Gorduras saturadas 1,5 g 7% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 500 mg 21% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Valores aproximados. Sugestão de uso / receita Petisco direto da embalagem: consumir os pés de pato frios, diretamente da embalagem, como snack de sabor marcante para acompanhar cerveja, refrigerante ou chá gelado. Acompanhamento de arroz ou macarrão: aquecer rapidamente os pés de pato em água quente ou banho-maria e servir como acompanhamento de arroz branco, arroz frito ou macarrão oriental. Prato frio ao estilo chinês: cortar os pés de pato em pedaços menores e misturar com coentro picado, cebolinha, gergelim torrado e um fio de óleo de gergelim ou óleo aromatizado, servindo como entrada fria. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou guardar o conteúdo remanescente em recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-02T22:33:37Z
+  Updated: 2026-01-03T10:23:45Z
   Vendor: Piao Ling Da Shu (飘零大叔)
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pes-de-pato-ao-molho-tradicional-xianlugongshe-lao-lu-ya-zhang-lu-xiang-wei-118g.png?v=1767392671
   Price: R$ 49,99 BRL
 - [Cartilagem de Pato Picante Chao You Wei YA SUO GU 100g - 吮指鸭软骨](https://www.meiwei.com.br/products/cartilagem-de-pato-picante-chao-you-wei-ya-suo-gu-100g): A cartilagem de pato picante Chao You Wei 吮指鸭软骨 YA SUO GU é um snack típico da culinária chinesa, preparado com pedaços de cartilagem de pato cozidos e envolvidos em molho picante e aromático. A embalagem destaca o apelo de "snack de pato" com textura crocante‑mastigável, pensada para petiscar diretamente do pacote. Com sabor intenso, rico em umami e bem condimentado, combina notas de pimenta, especiarias e molho de soja. É ideal para quem gosta de snacks diferentes e marcantes, perfeito para acompanhar bebidas, compor tábuas de petiscos ou servir como aperitivo em refeições de inspiração asiática. A porção de 100 g é prática para compartilhar ou para uma experiência completa de snack individual. Lista de ingredientes Cartilagem de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, açúcar, pimenta vermelha, alho, gengibre, especiarias (como anis‑estrelado e pimenta‑do‑reino), realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, aromas naturais de especiarias. Alérgicos: contém soja e trigo. Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 1/4 da embalagem) (tabela nutricional por 100 g) Informação nutricional Porção de 25 g %VD* Valor energético 100 kcal = 420 kJ 5% Carboidratos 2,0 g 1% Proteínas 10,5 g 14% Gorduras totais 5,6 g 10% Gorduras saturadas 1,5 g 7% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 415 mg 17% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Petisco direto da embalagem: consumir a cartilagem de pato fria ou em temperatura ambiente, diretamente do pacote, como snack picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir a cartilagem de pato em um prato ou tábua, combinando com amendoim torrado, chips de algas, conservas picantes e legumes em palitos. Acompanhamento de arroz ou macarrão: aquecer rapidamente o conteúdo em banho‑maria ou frigideira antiaderente e servir como topping de arroz branco, arroz frito ou macarrão oriental, misturando bem para envolver o molho picante.
-  Updated: 2026-01-02T22:53:46Z
+  Updated: 2026-01-03T10:45:24Z
   Vendor: You Wei YA SUO GU 吮指鸭软骨
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cartilagem-de-pato-picante-chao-you-wei-ya-suo-gu-100g.png?v=1767394076
   Price: R$ 49,99 BRL
 - [Cabeças de Pato Picantes Xianlugongshe 300g - 干锅鸭头](https://www.meiwei.com.br/products/cabecas-de-pato-picantes-xianlugongshe-300g): As cabeças de pato picantes Xianlugongshe 干锅鸭头 são um snack típico da culinária chinesa, preparado no estilo “dry pot” (干锅), em que as cabeças de pato são cozidas e depois envolvidas em molho bem temperado, com pimenta e especiarias. A embalagem destaca três cabeças de pato inteiras, com aparência brilhante e apetitosa, sugerindo sabor intenso, rico em umami e picante na medida. É um petisco pensado para quem gosta de sabores fortes e diferentes, ideal para acompanhar bebidas, compor tábuas de petiscos ou servir como aperitivo em refeições de inspiração asiática. A embalagem de 300 g é adequada para compartilhar entre amigos ou para consumo fracionado. Lista de ingredientes Cabeças de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), sal, açúcar, pimenta vermelha, pimenta Sichuan, alho, gengibre, especiarias (como anis‑estrelado e pimenta‑do‑reino), vinho de cozinha, realçador de sabor glutamato monossódico, regulador de acidez, conservante benzoato de sódio, aromas naturais de especiarias. Alérgicos: contém soja e trigo. Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g (cerca de 1/12 da embalagem) Informação nutricional Porção de 25 g %VD* Valor energético 95 kcal = 399 kJ 5% Carboidratos 2 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2 g 9% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 600 mg 25% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Petisco direto da embalagem: consumir as cabeças de pato frias ou em temperatura ambiente, diretamente do pacote, como snack picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as cabeças de pato em uma tábua junto com amendoim torrado, chips de algas, conservas picantes e legumes em palitos. Acompanhamento de arroz ou macarrão: aquecer as cabeças de pato rapidamente em vapor ou forno baixo e servir como acompanhamento de arroz branco, arroz frito ou macarrão oriental, deixando o molho escorrer sobre o prato. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou guardar o conteúdo remanescente em recipiente limpo, bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-03T00:04:32Z
+  Updated: 2026-01-03T11:58:10Z
   Vendor: Xianlugongshe 干锅鸭头
   Product Type: Aperitivo
   Availability: Available
@@ -14437,16 +14437,16 @@
   Updated: 2026-01-01T10:36:59Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-03T01:57:11Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 1507
 - [Molho](https://www.meiwei.com.br/collections/molho)
-  Updated: 2026-01-02T10:25:14Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 544
 - [Molho de Ostra](https://www.meiwei.com.br/collections/molho-de-ostra)
   Updated: 2025-12-30T10:52:47Z
   Total Products: 63
 - [Outro Molho](https://www.meiwei.com.br/collections/outro-molho)
-  Updated: 2026-01-02T10:25:14Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 243
 - [Massa](https://www.meiwei.com.br/collections/massa)
   Updated: 2025-12-30T12:02:37Z
@@ -14464,10 +14464,10 @@
   Updated: 2025-12-25T12:03:14Z
   Total Products: 19
 - [Doce](https://www.meiwei.com.br/collections/doce)
-  Updated: 2026-01-02T10:25:15Z
+  Updated: 2026-01-03T10:12:18Z
   Total Products: 700
 - [Bala](https://www.meiwei.com.br/collections/bala)
-  Updated: 2026-01-02T10:25:15Z
+  Updated: 2026-01-03T10:12:18Z
   Total Products: 305
 - [Molho Vegetariano](https://www.meiwei.com.br/collections/molho-de-pimenta-vegetariano)
   Updated: 2025-12-27T12:04:02Z
@@ -14476,7 +14476,7 @@
   Updated: 2025-12-23T17:58:39Z
   Total Products: 11
 - [Utensílio](https://www.meiwei.com.br/collections/utensilio)
-  Updated: 2026-01-02T10:24:56Z
+  Updated: 2026-01-03T10:37:26Z
   Total Products: 76
 - [Curry Estilo Japonês](https://www.meiwei.com.br/collections/curry-japones)
   Updated: 2025-12-23T17:58:42Z
@@ -14512,7 +14512,7 @@
   Updated: 2025-12-06T16:08:11Z
   Total Products: 0
 - [Utensílio de Cozinha](https://www.meiwei.com.br/collections/utensilio-de-cozinha)
-  Updated: 2026-01-02T10:24:56Z
+  Updated: 2026-01-03T10:37:26Z
   Total Products: 55
 - [Cogumelo](https://www.meiwei.com.br/collections/cogumelo)
   Updated: 2025-12-28T14:56:25Z
@@ -14551,7 +14551,7 @@
   Updated: 2025-12-23T17:54:23Z
   Total Products: 2
 - [Produtos Sem Glúten](https://www.meiwei.com.br/collections/produtos-sem-gluten)
-  Updated: 2026-01-02T10:25:15Z
+  Updated: 2026-01-03T10:12:18Z
   Total Products: 240
 - [Conserva Sem Glúten](https://www.meiwei.com.br/collections/conserva-sem-gluten)
   Updated: 2025-12-23T17:58:22Z
@@ -14572,7 +14572,7 @@
   Updated: 2025-12-06T16:08:13Z
   Total Products: 0
 - [Massa Sem Glúten](https://www.meiwei.com.br/collections/massa-sem-gluten)
-  Updated: 2026-01-02T10:25:15Z
+  Updated: 2026-01-03T10:12:18Z
   Total Products: 240
 - [Molho Sem Glúten](https://www.meiwei.com.br/collections/molho-1)
   Updated: 2025-12-23T17:59:00Z
@@ -14593,7 +14593,7 @@
   Updated: 2025-12-29T12:02:25Z
   Total Products: 12
 - [Pasta de Tamarindo](https://www.meiwei.com.br/collections/pasta-de-tamarindo)
-  Updated: 2026-01-02T10:25:14Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 9
 - [Confeitaria](https://www.meiwei.com.br/collections/confeitaria)
   Updated: 2025-12-06T16:08:13Z
@@ -14680,7 +14680,7 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-03T01:57:11Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 2230
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
@@ -14692,7 +14692,7 @@
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-01-03T01:57:11Z
+  Updated: 2026-01-03T10:32:10Z
   Total Products: 801
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
   Updated: 2025-12-31T12:02:57Z
@@ -14701,7 +14701,7 @@
   Updated: 2025-12-30T10:37:24Z
   Total Products: 11
 - [Salgadinho](https://www.meiwei.com.br/collections/salgadinho)
-  Updated: 2026-01-02T10:23:21Z
+  Updated: 2026-01-03T10:32:10Z
   Total Products: 17
 - [Bebida](https://www.meiwei.com.br/collections/bebida)
   Updated: 2026-01-02T12:02:22Z
@@ -14710,19 +14710,19 @@
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-03T01:57:11Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 3686
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
-  Updated: 2026-01-02T10:24:56Z
+  Updated: 2026-01-03T10:37:26Z
   Total Products: 635
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-03T01:57:11Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 3053
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-03T03:05:32Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 3686
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-01-03T01:57:25Z
+  Updated: 2026-01-03T10:39:44Z
   Total Products: 2053
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
   Updated: 2025-12-30T12:02:37Z
