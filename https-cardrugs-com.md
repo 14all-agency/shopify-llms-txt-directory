@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2026-01-02T00:00:37.694Z
+- Updated At: 2026-01-03T00:00:38.000Z
 
 ## Products
 
@@ -354,7 +354,7 @@
   Updated: 2025-12-27T12:10:09Z
   Total Products: 169
 - [Bags & Wallets](https://cardrugs.com/collections/bags)
-  Updated: 2025-12-27T12:10:09Z
+  Updated: 2026-01-02T12:08:11Z
   Total Products: 80
 - [Series 34](https://cardrugs.com/collections/series-34)
   Updated: 2025-02-12T00:16:07Z
