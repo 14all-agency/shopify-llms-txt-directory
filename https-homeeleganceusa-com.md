@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2026-01-02T00:03:17.272Z
+- Updated At: 2026-01-03T00:03:16.513Z
 
 ## Products
 
@@ -886,8 +886,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:12:53Z
   Price: $2,341.99 USD
 - [Artmax AD1010-FL Dancing Woman Floor Lamp – Bronze, Bouquet Shade](https://homeeleganceusa.com/products/ad1010-fl-floor-lamp): The Artmax AD1010-FL Floor Lamp features a dancing bronze woman figure with a resin bouquet shade, hand-painted detailing, and dimmer lighting for luxury interiors.
-  Updated: 2025-12-28T04:12:54Z
-  Price: $2,004.99 USD
+  Updated: 2026-01-02T16:44:48Z
+  Price: $2,155.99 USD
 - [Artmax 8395-FLF Sculptural Floor Lamp – Bronze Figure & Glass Hat Shade](https://homeeleganceusa.com/products/8395-flf-floor-lamp): The Artmax 8395-FLF Floor Lamp features a sculptural bronze-gold figure wearing an illuminated hat-style glass shade, with dimmer, resin-metal design, and wood base.
   Updated: 2025-12-28T04:12:55Z
   Price: $2,198.99 USD
@@ -901,11 +901,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:12:59Z
   Price: $2,982.99 USD — $3,795.99 USD
 - [Cabinet 1986-S with Optional 42" Round Wall Mirror - Luxury Gold Storage with Mirror Option](https://homeeleganceusa.com/products/cabinet-1986-s-with-wall-mirror-artmax): Shop the Cabinet 1986-S with Optional 42" Round Wall Mirror. Featuring a luxurious gold finish and spacious storage, this piece offers the option of a stunning round mirror to enhance your room.
-  Updated: 2025-12-28T04:13:00Z
-  Price: $2,497.99 USD — $3,179.99 USD
+  Updated: 2026-01-02T16:32:32Z
+  Price: $2,597.99 USD — $3,179.99 USD
 - [Artmax 2911-S Gold & Silver Wash Cabinet – Luxury Accent Storage | Home Elegance USA](https://homeeleganceusa.com/products/old-world-gold-combined-with-soft-silver-gold-wash-cabinet-2911-s-by-artmax-furniture): Shop the Artmax 2911-S Cabinet in Old World Gold with Silver Gold Wash finish. Elegant storage with timeless craftsmanship for dining, living, or entry spaces.
-  Updated: 2025-12-28T04:13:02Z
-  Price: $2,874.99 USD
+  Updated: 2026-01-02T15:39:36Z
+  Price: $2,395.52 USD
 - [Russian Hill Double Pedestal Dining Set in Cherry & Gold – Homelegance](https://homeeleganceusa.com/products/russian-hill-dining-room-set-by-homelegance): The Russian Hill Dining Set by Homelegance features a cherry & gold finish, double pedestal base, jacquard chairs, and Old World carved detailing.
   Updated: 2025-12-28T04:13:06Z
   Price: $3,629.99 USD — $7,699.99 USD
@@ -1810,10 +1810,10 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:19:32Z
   Price: $1,329.99 USD
 - [Divani Casa Dexter Transitional White Full Italian Leather Sofa Vgca114-Fl-Wht](https://homeeleganceusa.com/products/vig-furniture-divani-casa-dexter-transitional-white-full-italian-leather-sofa-vgca114-fl-wht): Divani Casa Dexter Transitional White Full Italian Leather Sofa - VGCA114-FL-WHT | VIGDescription:A massive showcase of luxurious comfort, the Divani Casa
-  Updated: 2025-12-28T04:19:33Z
+  Updated: 2026-01-02T22:26:40Z
   Price: $5,774.99 USD
 - [Modrest Holly Modern Black & Gold Round Dining Table Vgfh-Fdt7012-Blk](https://homeeleganceusa.com/products/vig-furniture-modrest-holly-modern-black-gold-round-dining-table-vgfh-fdt7012-blk): Modrest Holly Modern Black & Gold Round Dining Table - VGFH-FDT7012-BLK | VIGDescription:Get an industrial dining room style with the Modrest Holly Modern Black
-  Updated: 2025-12-28T04:19:35Z
+  Updated: 2026-01-02T22:25:58Z
   Price: $842.99 USD
 - [Modrest Token Modern Smoked Grey Glass & Rosegold Dining Table Vgvct816](https://homeeleganceusa.com/products/vig-furniture-modrest-token-modern-smoked-grey-glass-rosegold-dining-table-vgvct816): Modrest Token Modern Smoked Grey Glass & Rosegold Dining Table - VGVCT816 | VIGDescription:The Modrest Token Dining Table features an eye-catching design. A
   Updated: 2025-12-28T04:19:35Z
@@ -1909,7 +1909,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-31T22:16:13Z
   Price: $829.99 USD
 - [Divani Casa Dexter Transitional White Full Italian Leather Sofa-Loveseat Vgca114-Wht-S](https://homeeleganceusa.com/products/vig-furniture-divani-casa-dexter-transitional-white-full-italian-leather-sofa-loveseat-vgca114-wht-s): Divani Casa Dexter - Transitional White Full Italian Leather Sofa - VGCA114-WHT-S | VIGDescription:The Dexter Sofa is a contemporary twist on a traditional
-  Updated: 2026-01-01T21:13:23Z
+  Updated: 2026-01-02T22:21:11Z
   Price: $3,859.99 USD
 - [Modrest Jolene Modern Grey Mirror Vgbbmr1710Mi-Gry-Mir](https://homeeleganceusa.com/products/vig-furniture-modrest-jolene-modern-grey-mirror-vgbbmr1710mi-gry-mir): Modrest Jolene - Modern Grey Mirror - VGBBMR1710MI-GRY-MIR | VIGDescription:Clean and Minimalistic Modern Square Mirror in Grey Metal Frame. Will go perfectly
   Updated: 2025-12-31T22:16:13Z
@@ -2311,7 +2311,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:22:51Z
   Price: $1,158.99 USD
 - [Nova Domus Soria Modern Grey Wash Bedroom Set Vgma-Br-32-Gry-Set](https://homeeleganceusa.com/products/vig-furniture-nova-domus-soria-modern-grey-wash-bedroom-set-vgma-br-32-gry-set): Nova Domus Soria Modern Grey Wash Bedroom Set - VGMA-BR-32-GRY-SET | VIGDescription:Simplicity at its best is the character that the Nova Domus Soria Modern
-  Updated: 2025-12-28T04:22:53Z
+  Updated: 2026-01-02T22:26:04Z
   Price: $3,136.99 USD — $3,388.99 USD
 - [Nova Domus Lorenzo Italian Modern Light Oak Bed Vgaclorenzo-Bed](https://homeeleganceusa.com/products/vig-furniture-nova-domus-lorenzo-italian-modern-light-oak-bed-vgaclorenzo-bed): Nova Domus Lorenzo Italian Modern Light Oak Bed - VGACLORENZO-BED | VIG Description: Clean-lined minimalism best describes the Nova Domus Lorenzo Italian Modern
   Updated: 2025-12-28T06:38:55Z
@@ -2716,8 +2716,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:25:24Z
   Price: $2,741.99 USD
 - [Divani Casa Dexter Transitional White Full Italian Leather Lounge Chair Vgca114-Wht-Ch](https://homeeleganceusa.com/products/vig-furniture-divani-casa-dexter-transitional-white-full-italian-leather-lounge-chair-vgca114-wht-ch-1): Divani Casa Dexter - Transitional White Full Italian Leather Lounge Chair - VGCA114-WHT-CH | VIGDescription:The Dexter Chair is a contemporary twist on a
-  Updated: 2025-12-28T04:25:25Z
-  Price: $2,528.99 USD
+  Updated: 2026-01-02T22:28:28Z
+  Price: $2,878.99 USD
 - [Modrest Patrick Modern White Leather Bed Vgkkb-75X-Bed](https://homeeleganceusa.com/products/vig-furniture-modrest-patrick-modern-white-leather-bed-vgkkb-75x-bed-1): Modrest Patrick - Modern White Leather Bed - VGKKB-75X-BED | VIGDescription:The Patrick Bed by Modrest is the ultimate bed for your modern home. A gorgeous
   Updated: 2025-12-28T06:39:07Z
   Price: $3,136.99 USD — $3,388.99 USD
@@ -3397,7 +3397,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:29:41Z
   Price: $1,149.99 USD
 - [Modrest Bethel Modern Green Velvet Accent Chair Vgrh-Rhs-Ac-502-B-Grn](https://homeeleganceusa.com/products/vig-furniture-modrest-bethel-modern-green-velvet-accent-chair-vgrh-rhs-ac-502-b-grn-1): Modrest Bethel Modern Green Velvet Accent Chair - VGRH-RHS-AC-502-B-GRN | VIGDescription:Giving off loads of elegant charm is the flamboyant Modrest Bethel
-  Updated: 2025-12-28T04:29:42Z
+  Updated: 2026-01-02T22:26:19Z
   Price: $1,189.99 USD
 - [Taranto Modern Brown Leather Lounge Chair Vgwcm511Y-Gry](https://homeeleganceusa.com/products/vig-furniture-taranto-modern-brown-leather-lounge-chair-vgwcm511y-gry-1): Divani Casa Taranto - Modern Grey Eco-Leather Lounge Chair - VGWCM511Y-GRY | VIGDescription:Designed with minimalism in mind, the Taranto Lounge Chair displays
   Updated: 2025-12-26T08:52:42Z
@@ -3775,7 +3775,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:31:52Z
   Price: $1,165.99 USD
 - [Modrest Walker Modern Concrete & Metal Console Table Vglbrokycs-113](https://homeeleganceusa.com/products/vig-furniture-modrest-walker-modern-concrete-metal-console-table-vglbrokycs-113): Modrest Walker Modern Concrete & Metal Console Table - VGLBROKYCS-113 | VIGDescription:Design your home in a cool fashion with the Modrest Walker Modern
-  Updated: 2025-12-28T04:31:54Z
+  Updated: 2026-01-02T22:26:24Z
   Price: $1,360.99 USD
 - [Nova Domus Cartier Modern Black & Rosegold Console Table Vgvck-A002](https://homeeleganceusa.com/products/vig-furniture-nova-domus-cartier-modern-black-rosegold-console-table-vgvck-a002): Nova Domus Cartier Modern Black & Rosegold Console Table - VGVCK-A002 | VIGDescription:Showcasing a tailored design, the Nova Domus Cartier Modern Black & Rose
   Updated: 2025-12-28T04:31:55Z
@@ -3808,7 +3808,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:04Z
   Price: $3,606.99 USD
 - [Modrest Cabaret Modern White Round Dining Table Vgvct1799](https://homeeleganceusa.com/products/vig-furniture-modrest-cabaret-modern-white-round-dining-table-vgvct1799): Modrest Cabaret Modern White Round Dining Table - VGVCT1799 | VIGDescription:Highlight the modern dÌ©cor of your dining room with the Modrest Cabaret Modern
-  Updated: 2025-12-28T04:32:06Z
+  Updated: 2026-01-02T22:26:25Z
   Price: $2,406.99 USD
 - [Modrest Marston Modern White Marble & Stainless Steel Dining Table Vgvct8919-M-Stl](https://homeeleganceusa.com/products/vig-furniture-modrest-marston-modern-white-marble-stainless-steel-dining-table-vgvct8919-m-stl): Modrest Marston Modern White Marble & Stainless Steel Dining Table - VGVCT8919-M-STL | VIGDescription:Exhibiting glam and style, the Modrest Marston Modern
   Updated: 2025-12-27T06:10:56Z
@@ -3817,7 +3817,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:06Z
   Price: $931.99 USD
 - [Modrest Faye Modern White Concrete & Antique Brass Dining Table Vglbchar-Dt220](https://homeeleganceusa.com/products/vig-furniture-modrest-faye-modern-white-concrete-antique-brass-dining-table-vglbchar-dt220): Modrest Faye Modern White Concrete & Antique Brass Dining Table - VGLBCHAR-DT220 | VIGDescription:Sending waves of modernity is the intricately designed Modrest
-  Updated: 2025-12-28T04:32:08Z
+  Updated: 2026-01-02T22:26:26Z
   Price: $2,793.99 USD
 - [Modrest Natalie Modern Black Acacia & Antique Brass Dining Table Vglbgats-Dt220-03](https://homeeleganceusa.com/products/vig-furniture-modrest-natalie-modern-black-acacia-antique-brass-dining-table-vglbgats-dt220-03): Modrest Natalie Modern Black Acacia & Antique Brass Dining Table - VGLBGATS-DT220-03 | VIGDescription:Create an impression via the Modrest Natalie Modern Black
   Updated: 2025-12-28T04:32:09Z
@@ -3859,7 +3859,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:23Z
   Price: $1,504.99 USD
 - [Modrest Leroy Modern Ebony & Rosegold Console Table Vghb280X-Ebn](https://homeeleganceusa.com/products/vig-furniture-modrest-leroy-modern-ebony-rosegold-console-table-vghb280x-ebn): Modrest Leroy Modern Ebony & Rosegold Console Table - VGHB280X-EBN | VIGDescription:Completing your living room dÌ©cor is the Modrest Leroy Modern Ebony & Rose
-  Updated: 2025-12-28T04:32:24Z
+  Updated: 2026-01-02T22:26:27Z
   Price: $1,319.99 USD
 - [Modrest Legend Modern Grey Fabric & Gold Dining Chair (Set Of 2) Vgvcb012-Grygld](https://homeeleganceusa.com/products/vig-furniture-modrest-legend-modern-grey-fabric-gold-dining-chair-set-of-2-vgvcb012-grygld): Modrest Legend Modern Grey Fabric & Gold Dining Chair (Set of 2) - VGVCB012-GRYGLD | VIGDescription:Comfortable luxury is one way to describe the Legend Dining
   Updated: 2025-12-28T04:32:25Z
@@ -3874,7 +3874,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:28Z
   Price: $1,273.99 USD
 - [Modrest Duval Modern White & Grey Dining Chair Vgvcb8766A-Whtgry](https://homeeleganceusa.com/products/vig-furniture-modrest-duval-modern-white-grey-dining-chair-vgvcb8766a-whtgry): Modrest Duval Modern White & Grey Dining Chair - VGVCB8766A-WHTGRY | VIGDescription:For a truly elegant dining experience, this wonderfully modern stylish
-  Updated: 2025-12-28T04:32:29Z
+  Updated: 2026-01-02T22:26:29Z
   Price: $1,099.99 USD
 - [Modrest Chadwick Modern Ebony & Rosegold Dining Table Vghb297T3-Ebn](https://homeeleganceusa.com/products/vig-furniture-modrest-chadwick-modern-ebony-rosegold-dining-table-vghb297t3-ebn): Modrest Chadwick Modern Ebony & Rosegold Dining Table - VGHB297T3-EBN | VIGDescription:Classy is the best word to describe the Modrest Chadwick Modern Ebony &
   Updated: 2025-12-28T04:32:29Z
@@ -3901,7 +3901,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:37Z
   Price: $955.99 USD
 - [Nova Domus Cartier Modern Black & Rosegold Buffet Vgvcg-A002](https://homeeleganceusa.com/products/vig-furniture-nova-domus-cartier-modern-black-rosegold-buffet-vgvcg-a002): Nova Domus Cartier Modern Black & Rosegold Buffet - VGVCG-A002 | VIGDescription:With its deep gloss finish and practical storage, this Cartier buffet is the
-  Updated: 2025-12-28T04:32:38Z
+  Updated: 2026-01-02T22:26:29Z
   Price: $2,297.99 USD
 - [Nova Domus Valencia Contemporary White Dresser Vgmabr-76-Drs](https://homeeleganceusa.com/products/vig-furniture-nova-domus-valencia-contemporary-white-dresser-vgmabr-76-drs): Nova Domus Valencia Contemporary White Dresser - VGMABR-76-DRS | VIGDescription:Answering your need for orderly storage is the Nova Domus Valencia Contemporary
   Updated: 2025-12-28T04:32:39Z
@@ -3931,7 +3931,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:49Z
   Price: $1,325.99 USD
 - [Modrest Reklaw Modern Smoked Glass & Rosegold End Table Vgvcet836](https://homeeleganceusa.com/products/vig-furniture-modrest-reklaw-modern-smoked-glass-rosegold-end-table-vgvcet836): Modrest Reklaw Modern Smoked Glass & Rosegold End Table - VGVCET836 | VIGDescription:Exuding a refined style, the Modrest Reklaw Modern Smoked Glass & Rose gold
-  Updated: 2025-12-28T04:32:50Z
+  Updated: 2026-01-02T22:26:31Z
   Price: $1,372.99 USD
 - [Modrest Legend Modern White & Gold Tv Stand Vgvctv8111-Whtgld](https://homeeleganceusa.com/products/vig-furniture-modrest-legend-modern-white-gold-tv-stand-vgvctv8111-whtgld): Modrest Legend Modern White & Gold 79" TV Stand - VGVCTV8111-WHTGLD | VIGDescription:The Modrest Legend TV Stand comes in a dramatic and bold shade of white in
   Updated: 2025-12-28T04:32:50Z
@@ -14211,9 +14211,6 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
 - [Ghost Velvet Queen Bed In Black - Ghostblack-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-ghost-velvet-queen-bed-in-black-ghostblack-q): Meridian Furniture - Ghost Velvet Queen Bed in Black - GhostBlack-Q There's nothing scary about the Ghost cream velvet king size bed, with its plush cushioned
   Updated: 2025-12-28T06:44:39Z
   Price: $2,079.99 USD
-- [Ghost Velvet King Bed In Cream - Ghostcream-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-ghost-velvet-king-bed-in-cream-ghostcream-k): Meridian Furniture - Ghost Velvet King Bed in Cream - GhostCream-K There's nothing scary about the Ghost cream velvet king size bed, with its plush cushioned
-  Updated: 2025-12-28T06:44:40Z
-  Price: $2,303.99 USD
 - [Geri Velvet Queen Bed In Grey - Gerigrey-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-geri-velvet-queen-bed-in-grey-gerigrey-q): Meridian Furniture - Geri Velvet Queen Bed in Grey - GeriGrey-Q Provide yourself with a few options when you choose the sleek Geri black velvet queen size bed.
   Updated: 2025-12-31T02:51:32Z
   Price: $1,100.99 USD
@@ -29033,33 +29030,36 @@ Weight: 216.1 pounds
 - [Four Hands Perry Coffee Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-perry-coffee-table): Bring on the drama. A deep brown oak top is cut in a starburst texture, framed by deep ebony sides,
   Updated: 2025-12-28T06:55:18Z
   Price: $1,822.99 USD
-[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTg1NDAxNDIzLCJsYXN0X3ZhbHVlIjoiNjk4ODk4NTQwMTQyMyJ9)
+- [Four Hands Ryan Coffee Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-ryan-coffee-table): The zen of this tentionally simple half-sphere can anchor an entire room. Natural imperfections
+  Updated: 2025-12-28T06:55:19Z
+  Price: $3,507.99 USD
+[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTg1NDY2OTU5LCJsYXN0X3ZhbHVlIjoiNjk4ODk4NTQ2Njk1OSJ9)
 
 ## Collections
 
 - [Bedroom Furniture Sets, Beds & Storage | Home Elegance Furniture](https://homeeleganceusa.com/collections/bedroom-furniture): Discover luxury bedroom furniture with coordinated beds, bedroom sets, dressers & nightstands. Free nationwide shipping + in-room assembly on select items.
-  Updated: 2026-01-01T19:39:33Z
+  Updated: 2026-01-02T17:37:16Z
   Total Products: 9308
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2026-01-01T16:51:14Z
+  Updated: 2026-01-02T22:28:27Z
   Total Products: 13225
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2026-01-01T09:02:25Z
+  Updated: 2026-01-02T19:07:47Z
   Total Products: 6548
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
-  Updated: 2026-01-01T09:02:45Z
+  Updated: 2026-01-02T09:02:57Z
   Total Products: 518
 - [Kids Furniture – Beds, Dressers, Desks & Bunk Beds | Home Elegance USA](https://homeeleganceusa.com/collections/kids): Shop kids furniture for bedrooms and playrooms. Beds, bunk beds, dressers, and desks built for safety, storage, and fun. Fast shipping at Home Elegance USA.
-  Updated: 2026-01-01T09:02:00Z
+  Updated: 2026-01-02T09:02:04Z
   Total Products: 355
 - [Shop Sofas Online – Leather, Fabric, Sectionals & Recliners](https://homeeleganceusa.com/collections/sofas): Discover premium sofas at Home Elegance USA. Curated leather, fabric, and sectional sofas designed for comfort, style, and lasting quality in your living space.
-  Updated: 2026-01-01T16:51:14Z
+  Updated: 2026-01-02T12:11:35Z
   Total Products: 5070
 - [Loveseats – Stylish & Comfortable Two-Seater Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/loveseats): Discover our Loveseats collection featuring leather and fabric two-seater sofas. Perfect for modern, traditional, and contemporary living rooms, offering style, comfort, and premium durability for everyday use.
-  Updated: 2026-01-01T16:51:13Z
+  Updated: 2026-01-02T09:01:15Z
   Total Products: 844
 - [Sectionals – Luxury Modular & L-Shaped Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/sectionals): Explore our Sectionals collection featuring modular, L-shaped, and U-shaped sofas in leather and fabric. Perfect for modern, contemporary, and traditional living rooms, offering versatile seating, premium comfort, and lasting durability.
-  Updated: 2026-01-01T09:02:24Z
+  Updated: 2026-01-02T09:03:07Z
   Total Products: 2834
 - [Sleepers – Convertible Sofa Beds & Pull-Out Couches | Home Elegance USA](https://homeeleganceusa.com/collections/sleepers): Explore our Sleepers collection featuring high-quality sofa beds, pull-out couches, and convertible sleepers in leather and fabric. Perfect for modern and traditional living rooms, guest rooms, and multifunctional spaces—offering comfort, style, and durability.
   Updated: 2025-12-30T20:57:19Z
@@ -29068,7 +29068,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T21:11:53Z
   Total Products: 367
 - [Accent Chairs – Modern, Contemporary & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-chairs): Shop accent chairs in modern, traditional, and contemporary styles. Perfect for living rooms, bedrooms, and offices—stylish seating with comfort and durability.
-  Updated: 2026-01-01T16:51:13Z
+  Updated: 2026-01-02T22:28:27Z
   Total Products: 1597
 - [Sofa Tables – Modern & Classic Console Tables | Home Elegance USA](https://homeeleganceusa.com/collections/sofa-tables): Shop sofa tables in modern, contemporary, and traditional styles. Elegant console tables perfect for living rooms, entryways, and hallways with versatile storage and style.
   Updated: 2025-12-30T21:01:49Z
@@ -29080,13 +29080,13 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:40:37Z
   Total Products: 22
 - [Shop Living Room Sets – Modern & Classic Sofa Sets | Home Elegance USA](https://homeeleganceusa.com/collections/living-room-sets): Shop living room sets with curated sofas, loveseats. Available in modern, classic, and contemporary styles and lasting quality.
-  Updated: 2026-01-01T16:51:14Z
+  Updated: 2026-01-02T09:01:10Z
   Total Products: 1097
 - [Beds | King, Queen & California King Frames – Home Elegance](https://homeeleganceusa.com/collections/beds): Shop beds in King, Queen & California King sizes. Upholstered, wood, and panel designs in modern, classic & luxury styles. Durable frames with timeless appeal.
-  Updated: 2026-01-01T19:39:33Z
+  Updated: 2026-01-02T17:37:16Z
   Total Products: 2625
 - [Bedroom Sets – Beds & Complete Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-sets): Shop luxury bedroom sets with coordinated beds, dressers, mirrors, and nightstands. Choose modern, traditional, or rustic styles for a complete bedroom upgrade.
-  Updated: 2025-12-30T21:44:42Z
+  Updated: 2026-01-02T09:00:52Z
   Total Products: 3815
 - [Nightstands & Bedside Tables – Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/nightstands): Shop nightstands and bedside tables in modern, traditional, and glam designs. Elegant storage solutions with drawers, shelves, and premium finishes. Free U.S. shipping.
   Updated: 2026-01-01T09:01:05Z
@@ -29101,25 +29101,25 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T12:28:57Z
   Total Products: 7
 - [Dining Room Sets – Shop Modern, Rustic & Luxury Styles | Home Elegance USA](https://homeeleganceusa.com/collections/dining-room-sets): Shop dining room sets in wood, glass, and marble finishes. Available in 5-piece, 7-piece, and 9-piece options. Perfect for family dining, entertaining, and modern living.
-  Updated: 2026-01-01T09:02:25Z
+  Updated: 2026-01-02T12:11:35Z
   Total Products: 2052
 - [Dining Tables – Shop Modern, Rustic & Traditional | Home Elegance USA](https://homeeleganceusa.com/collections/dining-tables): Discover dining tables in wood, glass, and marble finishes. Shop round, rectangular, and extendable tables perfect for family dining, entertaining, and modern living.
-  Updated: 2026-01-01T09:02:17Z
+  Updated: 2026-01-02T19:07:47Z
   Total Products: 1067
 - [Dining Chairs | Modern, Classic & Luxury Seating – Home Elegance](https://homeeleganceusa.com/collections/dining-chairs): Shop dining chairs in modern, classic, and luxury styles. Upholstered, wood, and metal seating for dining rooms. Elegant comfort, durable design, free shipping.
   Updated: 2026-01-01T09:01:49Z
   Total Products: 1950
 - [Counter Height Dining Sets – Shop Modern & Rustic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/counter-height-dining-sets): Shop counter height dining sets in wood, glass, and marble finishes. Perfect for kitchens, dining rooms, and casual entertaining. Modern, rustic, and traditional designs.
-  Updated: 2026-01-01T09:02:07Z
+  Updated: 2026-01-02T09:03:02Z
   Total Products: 83
 - [Counter Height Dining Tables – Square, Round & Storage | Home Elegance USA](https://homeeleganceusa.com/collections/counter-height-tables): Shop counter height dining tables in square, round & rectangular styles. Modern, rustic & storage options. Fast shipping from Home Elegance USA.
-  Updated: 2025-12-30T09:07:59Z
+  Updated: 2026-01-02T19:07:47Z
   Total Products: 66
 - [Counter Height Chairs & Bar Stools – Kitchen & Dining Seating | Home Elegance USA](https://homeeleganceusa.com/collections/counter-height-chairs-and-bar-stools): Shop counter height chairs and bar stools in modern, rustic, and traditional styles. Perfect for kitchens, islands, and dining rooms with comfort and style.
   Updated: 2025-12-30T21:12:15Z
   Total Products: 329
 - [Dining Servers & Buffets – Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/dining-servers-and-buffets): Shop dining servers and buffets for elegant dining room storage. Perfect for hosting, entertaining, and organizing tableware in traditional or modern designs.
-  Updated: 2025-12-30T21:08:41Z
+  Updated: 2026-01-02T16:42:09Z
   Total Products: 699
 - [China Cabinets – Elegant Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/china-cabinets): Shop china cabinets in glass-front, hutch, and buffet styles. Perfect for dining rooms or kitchens. Elegant storage, fast shipping at Home Elegance USA.
   Updated: 2025-12-29T20:24:56Z
@@ -29131,10 +29131,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-27T18:30:32Z
   Total Products: 20
 - [Youth Bedroom Sets – Kids & Teen Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bunk-beds): Shop youth bedroom sets for kids and teens. Explore modern, classic, and space-saving designs with beds, dressers, and nightstands. Stylish, functional, and durable.
-  Updated: 2026-01-01T09:02:00Z
+  Updated: 2026-01-02T09:02:04Z
   Total Products: 306
 - [Youth Beds for Kids & Teens – Modern & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/youth-beds): Shop youth beds for kids and teens. Explore twin, full, and storage beds in modern and classic designs. Durable, stylish, and perfect for growing bedrooms.
-  Updated: 2026-01-01T19:39:33Z
+  Updated: 2026-01-02T09:02:07Z
   Total Products: 78
 - [Youth Bedroom Sets – Kids & Teen Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/youth-bedroom-sets): Shop youth bedroom sets for kids and teens. Explore modern, classic, and space-saving designs with beds, dressers, and nightstands. Stylish, functional, and durable.
   Updated: 2025-12-25T16:29:07Z
@@ -29149,13 +29149,13 @@ Weight: 216.1 pounds
   Updated: 2024-11-06T16:06:20Z
   Total Products: 0
 - [Table Lamps | Modern, Bedside & LED Lighting](https://homeeleganceusa.com/collections/table-lamps): Shop table lamps at Home Elegance. Find modern, traditional, bedside, and LED table lamps in ceramic, glass, and metal designs. Free shipping available.
-  Updated: 2025-12-29T20:10:33Z
+  Updated: 2026-01-02T16:44:16Z
   Total Products: 629
 - [Floor Lamps – Arc, Tripod, Task & Ambient Lighting | Home Elegance USA](https://homeeleganceusa.com/collections/floor-lamps): Shop floor lamps for modern, farmhouse & classic interiors. Arc, tripod & torchiere styles for living rooms, bedrooms & more. Fast shipping from Home Elegance USA.
-  Updated: 2025-12-29T20:04:40Z
+  Updated: 2026-01-02T16:44:49Z
   Total Products: 219
 - [Office Desks – Executive & Modern Desks for Home Office | Home Elegance USA](https://homeeleganceusa.com/collections/office-desks): Shop office desks in executive, writing, and modern styles. Crafted in wood, glass, and metal for home offices and workspaces. Functional, stylish, and durable.
-  Updated: 2025-12-30T21:44:46Z
+  Updated: 2026-01-02T09:02:38Z
   Total Products: 558
 - [Office Chairs – Ergonomic & Executive Seating | Home Elegance USA](https://homeeleganceusa.com/collections/office-chairs): Shop ergonomic and executive office chairs in leather, fabric, and mesh. Designed for comfort, productivity, and style in any home office or workspace.
   Updated: 2025-12-30T21:18:23Z
@@ -29182,10 +29182,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T21:44:26Z
   Total Products: 735
 - [Accent Furniture | Decorative Cabinets, Tables & Benches – Home Elegance](https://homeeleganceusa.com/collections/accent-furniture): Shop accent furniture including cabinets, tables, benches, and decor. Modern, glam, rustic, and traditional pieces designed to add storage, style, and personality to any room.
-  Updated: 2025-12-31T12:18:09Z
+  Updated: 2026-01-02T18:00:14Z
   Total Products: 3120
 - [Dressers – Bedroom Storage Solutions | Home Elegance USA](https://homeeleganceusa.com/collections/dressers-1): Shop dressers in modern, rustic, glam, and traditional styles. Spacious storage, durable finishes, and elegant design for bedrooms. Free U.S. nationwide shipping.
-  Updated: 2025-12-30T21:08:45Z
+  Updated: 2026-01-02T09:02:27Z
   Total Products: 1391
 - [Bar Cabinets & Tables – Wine Storage & Entertaining Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bar-tables-and-cabinets): Shop bar cabinets & tables with wine storage, shelves, & footrests. Perfect for home bars, game rooms & dining spaces. Fast shipping from Home Elegance USA.
   Updated: 2025-12-25T20:43:21Z
@@ -29206,7 +29206,7 @@ Weight: 216.1 pounds
   Updated: 2026-01-01T09:01:37Z
   Total Products: 41
 - [Outdoor Sectionals Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-sectionals): Outdoor Sectionals on sale now at Home Elegance USA! Find the perfect seating for your patio or deck at amazing prices. Shop now!
-  Updated: 2026-01-01T09:01:39Z
+  Updated: 2026-01-02T09:03:15Z
   Total Products: 35
 - [Outdoor Sofas - Stylish and Comfortable Patio Seating](https://homeeleganceusa.com/collections/outdoor-sofas): Shop outdoor sofas at Home Elegance USA. Enjoy stylish, comfortable, and durable patio seating perfect for any outdoor space. Free shipping on all orders!
   Updated: 2025-12-30T21:17:10Z
@@ -29224,16 +29224,16 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T21:17:11Z
   Total Products: 70
 - [Outdoor Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor): - Home Elegance USA
-  Updated: 2026-01-01T09:01:39Z
+  Updated: 2026-01-02T09:03:15Z
   Total Products: 284
 - [Chaise Lounges – Modern & Classic Loungers | Home Elegance USA](https://homeeleganceusa.com/collections/chaise-lounges): Shop chaise lounges in modern and traditional styles. Elegant loungers with comfort and style—perfect for living rooms, bedrooms, and luxury interiors.
-  Updated: 2025-12-30T20:55:11Z
+  Updated: 2026-01-02T09:03:01Z
   Total Products: 110
 - [Office Furniture | Ergonomic Chairs, Desks & Storage](https://homeeleganceusa.com/collections/office-furniture): Shop office furniture at Home Elegance! Find ergonomic chairs, office desks, workstations, and storage solutions for home or corporate offices. Free shipping!
-  Updated: 2025-12-30T21:44:46Z
+  Updated: 2026-01-02T09:02:38Z
   Total Products: 1045
 - [Accent Cabinets & Credenzas – Modern & Classic Storage | Home Elegance](https://homeeleganceusa.com/collections/accent-cabinets-and-credenzas): Shop accent cabinets and credenzas in modern and traditional styles. Elegant storage solutions for living rooms, dining areas, and entryways—style meets functionality.
-  Updated: 2025-12-31T12:18:09Z
+  Updated: 2026-01-02T18:00:14Z
   Total Products: 829
 - [Ashley Furniture Industries – Living, Bedroom & Dining | Home Elegance Furniture](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture Industries for living room, bedroom, dining, office, and outdoor furniture. Free nationwide shipping + assembly on qualifying items.
   Updated: 2025-12-28T14:54:54Z
@@ -29245,7 +29245,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-28T17:43:30Z
   Total Products: 3290
 - [Acme Furniture – Bedroom, Living & Dining | Home Elegance Furniture](https://homeeleganceusa.com/collections/acme-furniture): Shop Acme Furniture for bedroom, living room, dining, and youth spaces. Stylish, functional designs with free nationwide shipping and assembly on qualifying items.
-  Updated: 2026-01-01T19:39:33Z
+  Updated: 2026-01-02T19:07:47Z
   Total Products: 2894
 - [Cosmos Furniture - Luxurious Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/cosmos-furniture): Discover Cosmos Furniture at Home Elegance USA: Exquisite bedroom, dining, & living room collections that blend international design with modern craftsmanship. Shop at Home Elegance USA
   Updated: 2025-12-25T13:45:50Z
@@ -29263,7 +29263,7 @@ Weight: 216.1 pounds
   Updated: 2026-01-01T16:51:14Z
   Total Products: 2137
 - [Artmax Furniture, Wall Art & Decor | Home Elegance Furniture](https://homeeleganceusa.com/collections/artmax-furniture): Shop Artmax Furniture for artistic statement pieces, wall art, mirrors, and décor. Sculptural designs with free nationwide shipping and assembly on qualifying items.
-  Updated: 2025-12-31T21:37:30Z
+  Updated: 2026-01-02T16:44:49Z
   Total Products: 119
 - [ELK Home Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/elk-home): Shop stylish ELK Home products on sale at Home Elegance USA. Find the perfect pieces to complement your home decor.
   Updated: 2025-02-12T18:13:50Z
@@ -29284,13 +29284,13 @@ Weight: 216.1 pounds
   Updated: 2025-02-12T18:21:07Z
   Total Products: 4
 - [Meridian Furniture - Luxurious & Affordable Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/meridian-furniture): Explore Meridian Furniture at Home Elegance USA: Luxurious designs, top-quality craftsmanship, and affordable prices to elevate your home's style.
-  Updated: 2025-12-30T15:33:32Z
+  Updated: 2026-01-02T17:37:16Z
   Total Products: 2664
 - [Polrey Furniture - Homeeleganceusa.com](https://homeeleganceusa.com/collections/polrey-furniture): POLREY Furniture was conceived with the ambitious idea of reproducing these unique styles using new technology that offers greater strength, comfort and durability.
   Updated: 2024-11-06T16:06:24Z
   Total Products: 0
 - [VIG Furniture - European-Inspired Modern & Contemporary Designs](https://homeeleganceusa.com/collections/vig-furniture): Explore VIG Furniture at Home Elegance USA: European-inspired modern and contemporary furniture for living, dining, bedroom, and office spaces. | Home Elegance USA
-  Updated: 2025-12-30T21:44:49Z
+  Updated: 2026-01-02T22:28:27Z
   Total Products: 1884
 - [AICO Furniture by Michael Amini – Luxury Bedroom, Dining & Living](https://homeeleganceusa.com/collections/aico-furniture): Shop AICO Furniture by Michael Amini. Designer bedroom sets, dining, living & office furniture crafted with glamour, detail, and timeless luxury.
   Updated: 2025-12-27T23:06:57Z
@@ -29305,7 +29305,7 @@ Weight: 216.1 pounds
   Updated: 2025-04-20T15:02:35Z
   Total Products: 1406
 - [Arteriors Lighting, Furniture & Decor | Home Elegance Furniture](https://homeeleganceusa.com/collections/arteriors-furniture): Shop Arteriors for luxury lighting, designer furniture, mirrors, and décor accessories. Free nationwide shipping + in-room assembly on qualifying items.
-  Updated: 2025-12-31T12:18:09Z
+  Updated: 2026-01-02T18:00:14Z
   Total Products: 538
 - [Four Hands Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/four-hands): Shop the distinctive style of Four Hands Furniture on sale at Home Elegance USA. Find unique and design-forward pieces.
   Updated: 2025-09-27T16:02:01Z
@@ -29338,7 +29338,7 @@ Weight: 216.1 pounds
   Updated: 2025-07-26T17:24:48Z
   Total Products: 375
 - [Chandeliers | Crystal, Modern & Rustic Lighting](https://homeeleganceusa.com/collections/chandeliers): Shop chandeliers at Home Elegance! Find modern, crystal, farmhouse & vintage chandeliers for dining rooms, bedrooms & foyers. Free shipping available!
-  Updated: 2025-12-30T09:07:46Z
+  Updated: 2026-01-02T09:02:39Z
   Total Products: 782
 - [ILVE Get it now - Home Elegance Furniture](https://homeeleganceusa.com/collections/ilve): - Home Elegance Furniture
   Updated: 2025-07-20T16:22:58Z
@@ -29374,7 +29374,7 @@ Weight: 216.1 pounds
   Updated: 2025-01-26T20:22:51Z
   Total Products: 464
 - [Lighting | Chandeliers, Floor & Table Lamps – Home Elegance](https://homeeleganceusa.com/collections/lighting): Shop lighting including chandeliers, floor lamps, table lamps, and wall fixtures. Modern, glam, and classic designs crafted to brighten and elevate any room.
-  Updated: 2025-12-30T09:07:46Z
+  Updated: 2026-01-02T16:44:49Z
   Total Products: 2204
 - [Fitness & Sports Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/fitness-sports): - Home Elegance USA
   Updated: 2024-11-06T16:06:26Z
@@ -29392,7 +29392,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T21:44:24Z
   Total Products: 259
 - [Trampolines – Safe & Durable Backyard Fun](https://homeeleganceusa.com/collections/trampolines): Discover trampolines built for safety and durability. Perfect for backyard fun, with sturdy frames and weather-resistant materials for all ages. Shop now!
-  Updated: 2025-12-30T09:05:49Z
+  Updated: 2026-01-02T09:03:13Z
   Total Products: 2
 - [Top-Notch Treadmills for Fitness Enthusiasts – Stay Fit](https://homeeleganceusa.com/collections/treadmills): Exciting range of high-performance treadmills, specially designed for fitness-conscious individuals. Improve your stamina with our top-selling treadmills.
   Updated: 2025-05-08T21:51:22Z
@@ -29401,10 +29401,10 @@ Weight: 216.1 pounds
   Updated: 2025-07-15T09:11:30Z
   Total Products: 2
 - [Canopies & Gazebos | Pop-Up & Hardtop Outdoor Shelters](https://homeeleganceusa.com/collections/canopies-gazebos): Shop canopies & gazebos at Home Elegance! Find pop-up, hardtop, screened & waterproof gazebos for patios, weddings & outdoor events. Free shipping available!
-  Updated: 2026-01-01T09:01:40Z
+  Updated: 2026-01-02T09:03:17Z
   Total Products: 21
 - [Outdoor Heating & Accessories Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-heating): Shop Outdoor Heating & Accessories on sale at Home Elegance USA. Extend your outdoor season with heaters, fire pits, and more.
-  Updated: 2025-12-30T09:06:08Z
+  Updated: 2026-01-02T09:00:33Z
   Total Products: 8
 - [Pots & Planters Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/garden-pots-planters): Save on stylish pots and planters to elevate your garden or patio. Shop the Home Elegance USA sale today and discover a wide selection of designs and sizes.
   Updated: 2025-11-22T16:04:02Z
@@ -29422,7 +29422,7 @@ Weight: 216.1 pounds
   Updated: 2026-01-01T09:01:33Z
   Total Products: 1
 - [Home Decor | Wall Art, Lighting & Accent Furniture](https://homeeleganceusa.com/collections/decor): Shop home decor at Home Elegance! Find wall art, decorative mirrors, accent furniture, rugs & lighting to elevate your space. Free shipping available!
-  Updated: 2026-01-01T09:01:40Z
+  Updated: 2026-01-02T16:44:49Z
   Total Products: 2077
 - [Wall Arts | Buy Beautiful Wall Arts Online](https://homeeleganceusa.com/collections/wall-art): Browse a wide selection of beautiful wall arts online. Shop now and refresh your space!
   Updated: 2025-12-30T20:55:05Z
@@ -29431,10 +29431,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:36:14Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2026-01-01T09:02:45Z
+  Updated: 2026-01-02T09:03:17Z
   Total Products: 1307
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
-  Updated: 2025-12-30T09:06:22Z
+  Updated: 2026-01-02T09:01:18Z
   Total Products: 9
 - [Stylish & Versatile Daybeds – Space-Saving Comfort](https://homeeleganceusa.com/collections/daybeds): Shop daybeds at Home Elegance USA. Explore upholstered, wood, and metal styles with trundles or storage. Perfect for guest rooms and small spaces.
   Updated: 2025-12-25T20:41:42Z
@@ -29446,10 +29446,10 @@ Weight: 216.1 pounds
   Updated: 2025-11-22T16:04:23Z
   Total Products: 4
 - [Wine Racks – Elegant Storage for Your Wine Collection | Home Elegance USA](https://homeeleganceusa.com/collections/wine-racks): Store and display your wine collection in style with our selection of elegant wine racks. Find functional and decorative designs to suit any space at Home Elegance USA.
-  Updated: 2025-12-30T09:05:38Z
+  Updated: 2026-01-02T09:03:02Z
   Total Products: 8
 - [Bathroom Vanities – Single & Double Sink Cabinets | Home Elegance USA](https://homeeleganceusa.com/collections/bathroom-vanities): Shop bathroom vanities with single or double sinks, storage drawers, and modern finishes. Perfect for master baths, powder rooms, and remodels at Home Elegance USA.
-  Updated: 2026-01-01T09:01:34Z
+  Updated: 2026-01-02T09:03:11Z
   Total Products: 21
 - [Bathroom Mirrors – Framed, Modern & LED Styles | Home Elegance USA](https://homeeleganceusa.com/collections/bathroom-mirrors): Shop bathroom mirrors in framed, modern, and LED-lit styles. Perfect for vanities, powder rooms, and master baths. Elegant, functional designs at Home Elegance USA.
   Updated: 2026-01-01T09:01:40Z
@@ -29515,13 +29515,13 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T20:56:07Z
   Total Products: 36
 - [Home Saunas – Traditional & Infrared for Ultimate Wellness](https://homeeleganceusa.com/collections/infrared-saunas): Relax and rejuvenate with our home saunas. Shop traditional steam & infrared saunas designed for stress relief, detox, and muscle relaxation.
-  Updated: 2025-12-30T09:08:44Z
+  Updated: 2026-01-02T09:02:18Z
   Total Products: 91
 - [Flash Deals Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/flash-deals): Limited time only! Discover amazing deals on a wide selection of home decor during our Flash Sale at Home Elegance USA. Shop now before they're gone.
   Updated: 2025-12-25T13:33:54Z
   Total Products: 16
 - [Swivel Chairs – Modern & Contemporary Accent Seating | Home Elegance USA](https://homeeleganceusa.com/collections/swivel-chairs): Shop swivel chairs in modern, contemporary, and classic styles at Home Elegance USA. Perfect for living rooms, bedrooms, and offices—stylish rotating seating with comfort and versatility.
-  Updated: 2025-12-30T21:06:51Z
+  Updated: 2026-01-02T09:02:58Z
   Total Products: 260
 - [TV Entertainment Centers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/tv-entertainment-centers): Shop TV Entertainment Centers on sale at Home Elegance USA. Find the perfect entertainment center for your living room or family room.
   Updated: 2025-12-25T20:36:50Z
@@ -29530,16 +29530,16 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:36:54Z
   Total Products: 5
 - [Living Room Chairs | Accent & Recliner Seating – Home Elegance](https://homeeleganceusa.com/collections/living-room-chairs): Shop living room chairs in modern, classic & luxury styles. Accent chairs, recliners, and lounge chairs crafted for comfort, durability, and timeless design.
-  Updated: 2026-01-01T16:51:13Z
+  Updated: 2026-01-02T22:28:27Z
   Total Products: 2280
 - [Platform Beds – Modern & Upholstered Low-Profile Frames | Home Elegance USA](https://homeeleganceusa.com/collections/platform-beds): Shop platform beds with sleek low profiles, storage options, and upholstered finishes. Perfect for modern bedrooms. Free shipping nationwide.
-  Updated: 2025-12-30T09:07:17Z
+  Updated: 2026-01-02T09:02:08Z
   Total Products: 352
 - [Storage Beds – Modern, Upholstered & Platform Options | Home Elegance USA](https://homeeleganceusa.com/collections/storage-beds): Shop storage beds with built-in drawers and hidden compartments. Modern, upholstered, and platform designs that maximize bedroom space and style. Free shipping.
   Updated: 2026-01-01T09:01:46Z
   Total Products: 211
 - [Upholstered Beds – Fabric, Leather & Tufted Frames | Home Elegance USA](https://homeeleganceusa.com/collections/upholstered-beds): Shop upholstered beds in fabric, leather, and tufted styles. Modern, glam, rustic, and classic bed frames designed for comfort and luxury. Free nationwide shipping.
-  Updated: 2026-01-01T09:01:46Z
+  Updated: 2026-01-02T17:37:16Z
   Total Products: 613
 - [Sleigh Beds – Elegant Wood & Upholstered Designs | Home Elegance USA](https://homeeleganceusa.com/collections/sleigh-beds): Shop sleigh beds in wood, leather, and upholstered finishes. Classic curved headboards and timeless styles for traditional and modern bedrooms. Free shipping.
   Updated: 2025-12-29T20:25:53Z
@@ -29557,22 +29557,22 @@ Weight: 216.1 pounds
   Updated: 2025-10-27T16:43:02Z
   Total Products: 2
 - [Loft Beds – Space-Saving Twin, Full & Loft Bunk Beds with Storage](https://homeeleganceusa.com/collections/loft-beds): Shop Loft Beds for kids, teens, and adults. Twin and full-size beds with desks, storage, or open space underneath. Modern, metal, and wood styles available.
-  Updated: 2026-01-01T09:02:00Z
+  Updated: 2026-01-02T09:00:54Z
   Total Products: 32
 - [Rectangular Dining Tables in Wood, Marble & Extendable Styles](https://homeeleganceusa.com/collections/rectangular-dining-tables): Shop rectangular dining tables in solid wood, glass, and marble tops. Extendable and fixed styles for 4–10 guests. Perfect for any dining room or kitchen.
   Updated: 2025-12-30T21:44:49Z
   Total Products: 694
 - [Round Dining Tables for Small Spaces, Kitchens & Modern Dining Rooms](https://homeeleganceusa.com/collections/round-dining-tables): Shop round dining tables for small spaces, kitchens, and open dining rooms. Fixed and extendable styles in wood, glass, and marble—ideal for 2 to 6 guests.
-  Updated: 2026-01-01T09:02:17Z
+  Updated: 2026-01-02T09:02:52Z
   Total Products: 288
 - [Square Dining Tables Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/square-dining-tables): Find the perfect Square Dining Table for your space. Shop our sale now at Home Elegance USA and enjoy stylish dining experiences.
   Updated: 2025-12-30T21:44:30Z
   Total Products: 4
 - [Formal Dining Sets – 5 to 9 Piece Elegant Sets | Home Elegance USA](https://homeeleganceusa.com/collections/formal-dining-sets): Shop formal dining sets in classic wood, modern marble, or transitional styles. Complete 5, 7, and 9-piece sets with chairs, tables, and storage.
-  Updated: 2025-12-30T09:07:48Z
+  Updated: 2026-01-02T09:02:41Z
   Total Products: 634
 - [Casual Dining Sets – 3 to 7-Piece Tables & Chairs for Everyday Dining](https://homeeleganceusa.com/collections/casual-dining-sets): Shop Casual Dining Sets in 3 to 7-piece options. Perfect for everyday meals, apartments, and breakfast nooks. Styles include modern, rustic, and farmhouse.
-  Updated: 2026-01-01T09:01:41Z
+  Updated: 2026-01-02T09:03:01Z
   Total Products: 417
 - [Standard Height Dining Chairs Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/standard-height-dining-chairs): Shop Standard Height Dining Chairs on sale at Home Elegance USA. Find comfortable and stylish standard height dining chairs for your dining room.
   Updated: 2025-12-30T21:44:32Z
@@ -29623,7 +29623,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-28T14:54:26Z
   Total Products: 57
 - [Stationary Sofas – Modern, Traditional & Contemporary Living Room](https://homeeleganceusa.com/collections/stationary-sofas): Shop premium stationary sofas for your living room at Home Elegance USA. Leather & fabric options, modern and traditional styles, designed for comfort, luxury, and long-lasting durability.
-  Updated: 2026-01-01T16:51:14Z
+  Updated: 2026-01-02T12:11:35Z
   Total Products: 880
 - [Floor Mirrors – Full-Length, Arched & Leaning Mirrors for Every Room](https://homeeleganceusa.com/collections/floor-mirrors): Shop Floor Mirrors in arched, full-length, leaning, and modern styles. Perfect for bedrooms, entryways, and dressing rooms. Fast free shipping.
   Updated: 2025-12-30T21:18:44Z
@@ -29647,10 +29647,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:25:50Z
   Total Products: 87
 - [Memory Foam Mattresses – Supportive Beds for Better Sleep | Home Elegance USA](https://homeeleganceusa.com/collections/memory-foam-mattresses): Shop memory foam mattresses with pressure relief, cooling comfort, and motion isolation. Perfect for restful nights in every bedroom.
-  Updated: 2026-01-01T09:02:34Z
+  Updated: 2026-01-02T09:01:16Z
   Total Products: 109
 - [Hybrid Mattresses – Memory Foam & Innerspring Beds | Home Elegance USA](https://homeeleganceusa.com/collections/hybrid-mattresses): Shop hybrid mattresses with cooling gel memory foam and supportive innerspring coils. Perfect balance of comfort and durability for restful sleep.
-  Updated: 2026-01-01T09:02:43Z
+  Updated: 2026-01-02T09:02:57Z
   Total Products: 200
 - [Power Lift Recliners – Comfortable & Accessible Chairs | Home Elegance](https://homeeleganceusa.com/collections/power-lift-recliners): Shop power lift recliners with motorized lift and recline functions at Home Elegance USA. Comfortable and supportive chairs designed for living rooms, bedrooms, and mobility-friendly spaces.
   Updated: 2025-12-25T20:50:29Z
@@ -29662,10 +29662,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:36:14Z
   Total Products: 13
 - [Kitchen Furniture | Dining Sets, Islands & Storage – Home Elegance](https://homeeleganceusa.com/collections/kitchen): Shop kitchen furniture including dining sets, kitchen islands, and storage cabinets. Modern, rustic, and luxury designs built for everyday cooking and dining spaces.
-  Updated: 2026-01-01T09:01:33Z
+  Updated: 2026-01-02T09:03:02Z
   Total Products: 60
 - [Kitchen and Bath Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/kitchen-and-bath): Shop Kitchen and Bath items on sale at Home Elegance USA. Find everything you need to furnish and equip your dream kitchen and bathroom.
-  Updated: 2026-01-01T09:01:40Z
+  Updated: 2026-01-02T09:03:11Z
   Total Products: 53
 - [PolRey Furniture - Exquisite French & Victorian Reproductions | Home Elegance USA](https://homeeleganceusa.com/collections/polrey-international-furniture): Discover PolRey Furniture at Home Elegance USA: Handcrafted French and Victorian-style furniture featuring intricate carvings and fine textiles.
   Updated: 2025-12-25T17:01:49Z
@@ -29707,10 +29707,10 @@ Weight: 216.1 pounds
   Updated: 2026-01-01T09:01:47Z
   Total Products: 7
 - [Youth Platform & Panel Beds Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/youth-platform-panel-beds): Youth Platform & Panel Beds on sale at Home Elegance USA. Shop now for a stylish and space-saving solution for your child's room.
-  Updated: 2026-01-01T19:39:33Z
+  Updated: 2026-01-02T09:02:07Z
   Total Products: 37
 - [Bedroom Storage | Dressers, Chests & Armoires – Home Elegance](https://homeeleganceusa.com/collections/bedroom-storage): Shop bedroom storage furniture including dressers, chests, armoires, and nightstands. Modern, classic, and luxury designs with durable finishes and smart organization.
-  Updated: 2026-01-01T09:01:05Z
+  Updated: 2026-01-02T09:02:27Z
   Total Products: 6429
 - [Bedroom Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-seating): Bedroom Seating on sale at Home Elegance USA. Shop now for stylish and comfortable seating.
   Updated: 2025-12-29T23:40:50Z
@@ -29737,7 +29737,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-31T19:16:38Z
   Total Products: 792
 - [Outdoor Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-seating): Shop Outdoor Seating on sale now at Home Elegance USA. Find the perfect stylish and comfortable furniture for your patio or deck at discounted prices.
-  Updated: 2026-01-01T09:01:39Z
+  Updated: 2026-01-02T09:03:15Z
   Total Products: 118
 - [Sunloungers – Relax in Style & Comfort](https://homeeleganceusa.com/collections/outdoor-sunloungers): Unwind with sunloungers designed for ultimate relaxation. Perfect for patios, poolsides, and gardens with weather-resistant, stylish designs. Shop now!
   Updated: 2025-12-25T12:40:32Z
@@ -29764,22 +29764,22 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T13:13:24Z
   Total Products: 5
 - [Outdoor Structures Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-structures): Create a stylish and inviting outdoor space with Outdoor Structures on sale at Home Elegance USA. Shop now while supplies last!
-  Updated: 2026-01-01T09:01:40Z
+  Updated: 2026-01-02T09:03:17Z
   Total Products: 22
 - [Exercise Equipment Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/exercise-equipment): Save big on exercise equipment at Home Elegance USA! Shop our sale now and get fit without breaking the bank.
   Updated: 2025-07-04T09:02:25Z
   Total Products: 1
 - [Pool & Spa – Relaxing Home Spa & Pool Essentials](https://homeeleganceusa.com/collections/pool-spa): Upgrade your pool & spa experience with premium essentials. From luxury hot tubs to saunas, create a relaxing retreat at home. Shop now!
-  Updated: 2025-12-30T09:08:44Z
+  Updated: 2026-01-02T09:02:18Z
   Total Products: 91
 - [Air Quality & Comfort Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/air-quality-comfort): Shop Air Quality & Comfort on sale now at Home Elegance USA. Create a healthier and more comfortable home at discounted prices.
   Updated: 2025-07-26T17:24:48Z
   Total Products: 375
 - [Sports & Outdoors Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/sports-outdoors): Shop Sports & Outdoors on sale now at Home Elegance USA. Find the perfect equipment for your outdoor adventures at discounted prices.
-  Updated: 2025-12-30T09:05:49Z
+  Updated: 2026-01-02T09:03:13Z
   Total Products: 4
 - [Bathroom Furniture | Vanities, Cabinets & Storage – Home Elegance](https://homeeleganceusa.com/collections/bathroom): Shop bathroom furniture including vanities, cabinets, and storage solutions. Modern, traditional, and luxury designs built for style, durability, and everyday function.
-  Updated: 2026-01-01T09:01:40Z
+  Updated: 2026-01-02T09:03:11Z
   Total Products: 52
 - [Wall Mirrors – Enhance Your Home Décor | Home Elegance USA](https://homeeleganceusa.com/collections/wall-mirrors): Browse our collection of stylish wall mirrors at Home Elegance USA. Perfect for brightening any space while adding elegance and function. Shop now for the best deals!
   Updated: 2025-12-30T21:44:26Z
@@ -29800,16 +29800,16 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:35:12Z
   Total Products: 22
 - [Entertainment Centers & TV Stands – Stylish Media Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/entertainment-centers-and-tv-stands): Shop entertainment centers and TV stands in modern and classic styles. Functional media furniture with storage, cable management, and stylish finishes.
-  Updated: 2026-01-01T09:00:43Z
+  Updated: 2026-01-02T09:02:41Z
   Total Products: 682
 - [Game Room Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/game-room-furniture): Game Room Furniture on sale now at Home Elegance USA! Find the perfect pieces for your game room at amazing prices.
   Updated: 2025-12-25T20:39:09Z
   Total Products: 19
 - [test collection test](https://homeeleganceusa.com/collections/test-collection-test)
-  Updated: 2025-12-25T20:43:49Z
+  Updated: 2026-01-02T16:37:45Z
   Total Products: 85
 - [Entertainment Furniture | TV Stands, Consoles & Media Centers – Home Elegance](https://homeeleganceusa.com/collections/entertainment-furniture): Shop entertainment furniture including TV stands, media consoles, and home theater seating. Modern, classic, and luxury styles with storage, display, and durability.
-  Updated: 2026-01-01T09:00:43Z
+  Updated: 2026-01-02T09:02:41Z
   Total Products: 711
 - [Fireplace TV Stands – Media Consoles with Fireplaces | Home Elegance USA](https://homeeleganceusa.com/collections/fireplace-tv-stands): Shop fireplace TV stands with built-in electric fireplaces, media storage, and LED features. Perfect for living rooms and entertainment spaces with cozy ambiance.
   Updated: 2025-12-25T12:37:01Z
@@ -29821,7 +29821,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T21:44:26Z
   Total Products: 672
 - [Outdoor Seating Furniture – Stylish & Weather-Resistant](https://homeeleganceusa.com/collections/outdoor-seating-furniture): Upgrade your patio with outdoor seating furniture. Shop sofas, sectionals, lounge chairs, and modular sets in weather-resistant designs for any space.
-  Updated: 2026-01-01T09:01:39Z
+  Updated: 2026-01-02T09:03:15Z
   Total Products: 160
 - [Staff-Picked Bedroom Sets | Home Elegance USA](https://homeeleganceusa.com/collections/staff-picked-bedroom-sets): Discover our team's favorite bedroom sets! Shop hand-selected collections for a stylish and comfortable sleep sanctuary.
   Updated: 2025-12-25T18:02:59Z
@@ -30053,10 +30053,10 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-25T20:17:02Z
   Total Products: 3
 - [Couches & Sofa Sets | Modern & Luxury Living Room Seating – Home Elegance](https://homeeleganceusa.com/collections/couches-sofa-sets): Shop couches & sofa sets in modern, traditional & luxury designs. Leather, fabric & sectional seating for living rooms. Stylish comfort with free nationwide shipping.
-  Updated: 2026-01-01T16:51:14Z
+  Updated: 2026-01-02T12:11:35Z
   Total Products: 5967
 - [Tall Display Cabinets – Glass & Wood Display Cases | Home Elegance](https://homeeleganceusa.com/collections/tall-display-cabinets): Shop tall display cabinets in glass, wood, and modern finishes. Perfect for showcasing décor, china, or collectibles in dining rooms, living rooms, and offices.
-  Updated: 2025-12-25T20:40:28Z
+  Updated: 2026-01-02T16:37:45Z
   Total Products: 77
 - [Entryway Benches | Seating, Storage & Upholstered](https://homeeleganceusa.com/collections/entryway-benches): Shop entryway benches at Home Elegance. Find storage benches, upholstered seating in modern and rustic styles. Free shipping available.
   Updated: 2025-12-25T18:14:21Z
@@ -30065,7 +30065,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-25T20:40:45Z
   Total Products: 30
 - [Panel Beds – Traditional & Modern Framed Bed Styles | Home Elegance USA](https://homeeleganceusa.com/collections/panel-beds): Shop panel beds with framed headboards, wood and upholstered finishes, and timeless styles. Perfect for any bedroom. Free nationwide shipping.
-  Updated: 2025-12-30T21:08:40Z
+  Updated: 2026-01-02T09:02:19Z
   Total Products: 791
 - [Metal Beds: Durable & Stylish Frames for Every Bedroom](https://homeeleganceusa.com/collections/metal-beds): Shop our selection of durable metal beds. Explore a variety of styles, from modern to classic. Find the perfect metal bed frame for your bedroom.
   Updated: 2025-12-25T20:34:19Z
@@ -30074,34 +30074,34 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-25T20:47:52Z
   Total Products: 181
 - [King Size Beds – Modern & Traditional Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/king-size-beds): Shop King Size Beds in wood, upholstered, and storage styles. Perfect for master bedrooms with elegant comfort and bold design. Free nationwide shipping.
-  Updated: 2025-12-30T15:33:21Z
+  Updated: 2026-01-02T17:37:16Z
   Total Products: 760
 - [Executive Desks – Modern, Traditional & Luxury Styles | Home Elegance USA](https://homeeleganceusa.com/collections/executive-desks): Shop executive desks in wood, glass, and leather finishes. Available in modern, traditional, and luxury styles—perfect for home offices and professional workspaces.
   Updated: 2025-12-25T20:39:05Z
   Total Products: 47
 - [Queen Size Beds – Modern & Traditional Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/queen-size-bed): Shop queen size beds in wood, upholstered, and storage designs. Modern, rustic, glam, and classic styles built for comfort and durability. Free U.S. nationwide shipping.
-  Updated: 2026-01-01T09:01:46Z
+  Updated: 2026-01-02T09:02:08Z
   Total Products: 1120
 - [BH Design](https://homeeleganceusa.com/collections/bh-design): Elevate your home with BH Design’s modern, a premier designer and manufacturer of high-quality contemporary furniture—stylish sectionals, sofas, bedroom sets, and dining pieces crafted for comfort & durability.
   Updated: 2025-09-12T16:26:13Z
   Total Products: 4
 - [Artmax Chairs | Luxury Accent & Dining Chairs](https://homeeleganceusa.com/collections/artmax-chairs): Shop Artmax chairs featuring sculptural design, premium finishes, and statement style. Perfect for dining rooms, living spaces, and luxury interiors.
-  Updated: 2025-12-30T16:12:01Z
+  Updated: 2026-01-02T16:41:21Z
   Total Products: 4
 - [Artmax Console Tables | Luxury Accent & Entryway Tables](https://homeeleganceusa.com/collections/artmax-console-tables): Shop Artmax console tables featuring sculptural design and premium finishes. Ideal for entryways, living rooms, dining spaces, and hallways.
   Updated: 2025-12-30T16:11:34Z
   Total Products: 1
 - [Artmax Cabinets & Credenzas | Luxury Storage Furniture](https://homeeleganceusa.com/collections/artmax-cabinets-credenzas): Shop Artmax cabinets and credenzas featuring sculptural design, premium finishes, and refined storage for dining, living, and office spaces.
-  Updated: 2025-12-30T16:11:12Z
+  Updated: 2026-01-02T16:42:09Z
   Total Products: 71
 - [Artmax Curios & Etageres | Luxury Display Cabinets](https://homeeleganceusa.com/collections/artmax-curios-etageres): Shop Artmax curios and etageres featuring sculptural design and premium finishes—perfect for displaying décor, collectibles, and statement pieces.
-  Updated: 2025-12-30T16:10:24Z
+  Updated: 2026-01-02T16:37:45Z
   Total Products: 10
 - [Artmax Floor Lamps | Luxury Designer Lighting](https://homeeleganceusa.com/collections/artmax-floor-lamps): Shop Artmax floor lamps featuring sculptural forms and premium finishes. Ideal for living rooms, bedrooms, and luxury interior lighting.
-  Updated: 2025-12-30T16:10:49Z
+  Updated: 2026-01-02T16:44:49Z
   Total Products: 28
 - [Artmax Table Lamps | Luxury Designer Lighting](https://homeeleganceusa.com/collections/artmax-table-lamps): Shop Artmax table lamps featuring sculptural design and premium finishes—perfect for living rooms, bedrooms, and refined interior lighting.
-  Updated: 2025-12-30T16:09:58Z
+  Updated: 2026-01-02T16:44:16Z
   Total Products: 3
 - [Artmax Mirrors | Luxury Wall & Floor Mirrors](https://homeeleganceusa.com/collections/artmax-mirrors): Shop Artmax mirrors featuring sculptural design and premium finishes. Includes wall and floor mirrors for luxury interiors.
   Updated: 2025-12-30T16:09:15Z
@@ -30109,6 +30109,9 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
 - [Artmax Sculpture | Luxury Decorative Art Pieces](https://homeeleganceusa.com/collections/artmax-sculpture): Shop Artmax sculpture featuring bold forms and premium finishes. Includes tabletop and floor sculptures designed for luxury interiors.
   Updated: 2025-12-30T16:08:35Z
   Total Products: 1
+- [Home Elegance USA](https://homeeleganceusa.com/collections/home-elegance-usa)
+  Updated: 2026-01-02T18:47:54Z
+  Total Products: 3478
 
 ## Blogs
 
