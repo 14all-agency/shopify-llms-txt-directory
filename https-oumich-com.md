@@ -10,12 +10,12 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-12-30T00:00:21.324Z
+- Updated At: 2026-01-03T00:00:24.379Z
 
 ## Products
 
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/no-snag-hijab-clip-een-set-van-vier): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-01T23:19:37Z
+  Updated: 2026-01-02T11:06:55Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -95,13 +95,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_46_42.png?v=1763742161
-  Price: € 14,95 EUR
-- [Hijab Zwart - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-1-zwart): Hijab zwart ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-21T18:21:33Z
-  Vendor: byOumich
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_model.jpg?v=1763741969
   Price: € 14,95 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-2-wit): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
   Updated: 2025-12-21T18:21:33Z
@@ -216,7 +209,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_model.jpg?v=1763744811
   Price: € 14,95 EUR
 - [Hijab Dennenappel - Hoofddoek | byOumich](https://oumich.com/products/maxi-jersey-hijab-dennenappel): Hijab dennenappel ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2025-12-21T18:21:30Z
+  Updated: 2025-12-30T19:02:11Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
@@ -310,7 +303,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_10.avif?v=1764629338
     Price: € 5,00 EUR
 - [Instant Hijab met Knopen | Ready-to-Wear Hoofddoek | byOumich](https://oumich.com/products/instant-hijab-met-knopen): Koop de instant hijab met knopen. Ademend, comfortabel en makkelijk te dragen zonder spelden. Gratis verzending. Bestel nu bij byOumich
-  Updated: 2025-12-28T09:50:18Z
+  Updated: 2025-12-30T18:51:31Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -347,6 +340,44 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorRT.avif?v=1766872213
     Price: € 14,95 EUR
+- [Gekruiste Onder-Hijab | Comfortabele Hijab Cap](https://oumich.com/products/gekruiste-onder-hijab): Shop een comfortabele gekruiste onder-hijab. Zacht, ademend en perfect passend. De ideale hijab cap voor dagelijks gebruik.
+  Updated: 2025-12-31T03:59:48Z
+  Vendor: byOumich
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPTImage29dec2025_22_21_39.png?v=1767051686
+  - [Chocalate Brown](https://oumich.com/products/gekruiste-onder-hijab?variant=56172483936636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Light_Mocha.avif?v=1767104406
+    Price: € 5,00 EUR
+  - [Cool Grey](https://oumich.com/products/gekruiste-onder-hijab?variant=56172483969404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Cool_Grey.avif?v=1767104355
+    Price: € 5,00 EUR
+  - [Dark Navy](https://oumich.com/products/gekruiste-onder-hijab?variant=56172484002172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dark_Navy.avif?v=1767104384
+    Price: € 5,00 EUR
+  - [Light Mocha](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492783996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Chocolate_Brown.avif?v=1767104326
+    Price: € 5,00 EUR
+  - [Pearl White](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492816764)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pearl_White.avif?v=1767113959
+    Price: € 5,00 EUR
+  - [Soft Black](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492849532)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Soft_Black.avif?v=1767104300
+    Price: € 5,00 EUR
+  - [Soft Taupe](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492882300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Soft_Taupe.avif?v=1767104433
+    Price: € 5,00 EUR
+  - [Warm Nude](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492915068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Warm_Nude_Beige.avif?v=1767113823
+    Price: € 5,00 EUR
 
 ## Collections
 
@@ -360,7 +391,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-12-01T20:17:07Z
   Total Products: 0
 - [Premium Jersey Hijabs Kopen](https://oumich.com/collections/premium-jersey-hijabs): Ontdek onze premium jersey hijabs. Zacht, stretchy en kreukvrij. Gratis verzending vanaf €50. ✓ 30 dagen retour ✓ Snelle levering in BE & NL
-  Updated: 2025-12-21T18:23:32Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 20
 - [Decoratieve hijabs & sjaals](https://oumich.com/collections/decoratief-laat-je-zien)
   Updated: 2025-12-24T12:34:06Z
@@ -369,7 +400,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-12-21T18:24:10Z
   Total Products: 1
 - [Instant Hijabs Kopen](https://oumich.com/collections/instant-hijabs): Instant hijabs voor snelle styling. Klaar om te dragen in seconden. Ideaal voor drukke dagen. Shop de collectie bij byOumich.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2025-12-31T12:42:04Z
   Total Products: 2
 - [Luxe Jersey Hijabs](https://oumich.com/collections/luxe-jersey-hijabs): Luxe jersey hijabs met elegante afwerking. Premium kwaliteit voor dagelijks gebruik én speciale gelegenheden. Shop nu bij byOumich.
   Updated: 2025-12-21T18:23:32Z
@@ -378,34 +409,34 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-12-24T12:34:06Z
   Total Products: 8
 - [Hijab Pins & Magneten](https://oumich.com/collections/hijab-pins-magneten): Sterke hijab magneten en pins voor perfecte grip. Geen beschadiging aan je stof. Bestel accessoires bij byOumich.
-  Updated: 2025-12-08T19:23:30Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 2
 - [Hijabs voor beginners | Makkelijk om te starten](https://oumich.com/collections/hijabs-voor-beginners): Net begonnen met hijab dragen? Ontdek hijabs die eenvoudig te dragen zijn en ideaal voor beginners.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 20
 - [Hijabs die goed blijven zitten | Comfort zonder afzakken](https://oumich.com/collections/hijabs-die-goed-blijven-zitten): Ontdek hijabs die goed blijven zitten en comfortabel zijn om de hele dag te dragen. Ideaal voor dagelijks gebruik, werk of school.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 21
 - [Hijabs zonder spelden | Makkelijk & comfortabel](https://oumich.com/collections/hijabs-zonder-spelden): Geen spelden nodig. Ontdek hijabs die makkelijk te dragen zijn en goed blijven zitten, ideaal voor dagelijks gebruik.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 20
 - [Hijabs voor dagelijks gebruik | Comfort elke dag](https://oumich.com/collections/hijabs-dagelijks-gebruik): Comfortabele hijabs voor dagelijks gebruik. Zacht voor de huid en aangenaam om de hele dag te dragen.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 21
 - [Hijabs voor werk en school | Praktisch & comfortabel](https://oumich.com/collections/hijabs-werk-school): Ontdek hijabs die geschikt zijn voor werk en school. Discreet, comfortabel en betrouwbaar tijdens lange dagen.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 21
 - [Decoratieve hijabs | Elegante hoofddoeken](https://oumich.com/collections/decoratieve-hijabs): Ontdek decoratieve hijabs voor een elegante uitstraling of speciale gelegenheden. Minder gericht op dagelijks gebruik.
   Updated: 2025-12-24T12:34:06Z
   Total Products: 7
 - [Hijab kopen online | Comfortabele hijabs in België | byOumich](https://oumich.com/collections/hijab-kopen-online): Vind jouw ideale hijab online: blijft goed zitten, zonder spelden of perfect voor beginners. Snelle levering in België. Bekijk onze selectie nu.
-  Updated: 2025-12-24T12:34:06Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 29
 - [Onder-Hijabs & Hijab Caps | Comfort & Perfecte Pasvorm](https://oumich.com/collections/onder-hijabs): Shop comfortabele onder-hijabs en hijab caps. Ademend, zacht en perfect passend. Ideaal voor dagelijks gebruik en elke hijabstijl.
-  Updated: 2025-12-29T23:55:30Z
+  Updated: 2025-12-30T16:28:33Z
   Total Products: 1
 - [Hijab Accessoires | Magneten, Spelden & Bonnets | byOumich](https://oumich.com/collections/accessoires): Ontdek onze collectie hijab accessoires: magneten, spelden, bonnets en meer. Alles voor de perfecte hijab-look. Gratis verzending vanaf €30. Shop nu!
-  Updated: 2025-12-29T23:55:30Z
+  Updated: 2026-01-02T12:36:15Z
   Total Products: 3
 
 ## Blogs
