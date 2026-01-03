@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-03T16:00:35.294Z
+- Updated At: 2026-01-03T20:00:35.933Z
 
 ## Products
 
@@ -7229,42 +7229,42 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8181.png?v=1766075486
   Price: $6.95 USD
 - [Cinnamon Twist Mini Candle](https://affinatiliving.com/products/cinnamon-twist-mini-candle): Mini Cinnamon Twist Candle | 3 oz. Warm cinnamon and spices. Strong throw, cozy and perfect for autumn vibes.
-  Updated: 2025-12-28T14:21:30Z
+  Updated: 2026-01-03T18:14:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8182.png?v=1766075471
   Price: $6.95 USD
 - [Saffron Cedarwood Mini Candle](https://affinatiliving.com/products/saffron-cedarwood-mini-candle): Mini Saffron Cedarwood Candle | 3 oz. Exotic saffron with cedarwood. Strongly scented, clean-burning, sophisticated aroma.
-  Updated: 2025-12-28T14:21:30Z
+  Updated: 2026-01-03T18:12:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8184.png?v=1766075458
   Price: $6.95 USD
 - [Almond Macaron Mini Candle](https://affinatiliving.com/products/almond-macaron-mini-candle): Mini Almond Macaron Candle | 3 oz. Toasted almond with vanilla cream. Strong throw and long-lasting dessert-inspired scent.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T18:15:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8183.png?v=1766075445
   Price: $6.95 USD
 - [Lemon Meringue Mini Candle](https://affinatiliving.com/products/lemon-meringue-mini-candle): Mini Lemon Meringue Candle | 3 oz. Tangy lemon with sweet meringue. Strongly scented, bright and fresh fragrance.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T17:33:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8185.png?v=1766075431
   Price: $6.95 USD
 - [Pineapple Margarita's Mini Candle](https://affinatiliving.com/products/pineapple-margaritas-mini-candle): Mini Pineapple Margarita Candle | 3 oz. Juicy pineapple with lime zest. Strong throw, tropical and fun fragrance.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T17:31:28Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8187.png?v=1766075421
   Price: $6.95 USD
 - [Pina Colada Mini Candle](https://affinatiliving.com/products/pina-colada-mini-candle): Mini Pina Colada Candle | 3 oz. Creamy coconut and pineapple. Strongly scented, tropical, and hand-poured with soy wax.
-  Updated: 2025-12-28T14:21:31Z
+  Updated: 2026-01-03T17:30:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7313,21 +7313,21 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8192.png?v=1766075279
   Price: $6.95 USD
 - [Pumpkin Cheesecake Mini Candle](https://affinatiliving.com/products/pumpkin-cheesecake-mini-candle): Mini Pumpkin Cheesecake Candle | 3 oz. Spiced pumpkin with creamy cheesecake. Strong throw, cozy autumn scent.
-  Updated: 2025-12-28T14:21:32Z
+  Updated: 2026-01-03T18:09:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8194.png?v=1766075267
   Price: $6.95 USD
 - [Pumpkin Spice Latte Mini Candle](https://affinatiliving.com/products/pumpkin-spice-latte-mini-candle): Mini Pumpkin Spice Latte Candle | 3 oz. Pumpkin, cinnamon, and coffee blend. Strongly scented, warm seasonal fragrance.
-  Updated: 2025-12-28T14:21:32Z
+  Updated: 2026-01-03T18:09:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-8195.png?v=1766075256
   Price: $6.95 USD
 - [Autumn Breeze Mini Candle](https://affinatiliving.com/products/autumn-breeze-mini-candle): Mini Autumn Breeze Candle | 3 oz. Crisp apple and cinnamon spices. Strong throw, cozy fall-inspired scent.
-  Updated: 2025-12-28T14:21:32Z
+  Updated: 2026-01-03T17:34:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7982,6 +7982,36 @@
   - [Pack of 5](https://affinatiliving.com/products/3-wick-balsam-fir-candle?variant=58559391858769)
     Availability: Available
     Price: $109.95 USD
+- [Almond Biscotti Signature Candle](https://affinatiliving.com/products/almond-biscotti-signature-candle): Warm, nutty, and inviting—Affinati Almond Biscotti Signature Candle blends toasted almond, sweet biscotti, and vanilla cream in a premium soy wax candle with up to 55 hours of burn time.
+  Updated: 2026-01-03T18:28:32Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_3_2026_at_01_18_05_PM.png?v=1767464911
+  - [Single Order](https://affinatiliving.com/products/almond-biscotti-signature-candle?variant=58574170914897)
+    Availability: Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/almond-biscotti-signature-candle?variant=58574170947665)
+    Availability: Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/almond-biscotti-signature-candle?variant=58574170980433)
+    Availability: Available
+    Price: $72.95 USD
+- [Balsam & Fir Original Candle](https://affinatiliving.com/products/balsam-fir-original-candle): Balsam & Fir fills your home with fresh evergreen, crisp fir, and soft woods. A clean-burning, strongly scented soy-blend candle for calm, cozy spaces.
+  Updated: 2026-01-03T18:42:11Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_3_2026_at_01_41_47_PM.png?v=1767465730
+  - [Single Order](https://affinatiliving.com/products/balsam-fir-original-candle?variant=58574188544081)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/balsam-fir-original-candle?variant=58574188576849)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/balsam-fir-original-candle?variant=58574188609617)
+    Availability: Available
+    Price: $64.95 USD
 
 ## Collections
 
@@ -7992,8 +8022,8 @@
   Updated: 2026-01-03T12:09:43Z
   Total Products: 97
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2026-01-03T12:09:42Z
-  Total Products: 80
+  Updated: 2026-01-03T18:42:41Z
+  Total Products: 82
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-21T01:39:51Z
   Total Products: 32
@@ -8019,8 +8049,8 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2026-01-03T12:09:43Z
-  Total Products: 358
+  Updated: 2026-01-03T18:42:41Z
+  Total Products: 361
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2026-01-01T12:07:53Z
   Total Products: 129
@@ -8043,32 +8073,32 @@
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2026-01-02T12:08:25Z
-  Total Products: 97
+  Updated: 2026-01-03T18:42:07Z
+  Total Products: 98
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2026-01-02T12:08:25Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2026-01-02T12:08:25Z
+  Updated: 2026-01-03T18:44:52Z
   Total Products: 122
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2026-01-03T12:09:43Z
-  Total Products: 150
+  Updated: 2026-01-03T18:42:41Z
+  Total Products: 153
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2026-01-02T12:08:25Z
-  Total Products: 138
+  Updated: 2026-01-03T18:42:06Z
+  Total Products: 139
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
   Updated: 2026-01-03T12:09:42Z
   Total Products: 104
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2026-01-02T12:08:25Z
+  Updated: 2026-01-03T18:24:43Z
   Total Products: 65
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
   Updated: 2026-01-03T12:09:42Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2026-01-02T12:08:25Z
-  Total Products: 138
+  Updated: 2026-01-03T18:45:03Z
+  Total Products: 140
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
   Updated: 2026-01-02T12:08:25Z
   Total Products: 24
@@ -8076,19 +8106,19 @@
   Updated: 2026-01-02T12:08:25Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
-  Updated: 2026-01-02T12:08:25Z
+  Updated: 2026-01-03T18:44:52Z
   Total Products: 9
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2026-01-02T12:08:25Z
+  Updated: 2026-01-03T18:24:43Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2026-01-03T12:09:43Z
-  Total Products: 50
+  Updated: 2026-01-03T18:44:52Z
+  Total Products: 52
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2026-01-02T12:08:25Z
+  Updated: 2026-01-03T18:24:43Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2026-01-03T12:09:43Z
+  Updated: 2026-01-03T18:44:52Z
   Total Products: 87
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
   Updated: 2026-01-03T12:09:43Z
@@ -8103,7 +8133,7 @@
   Updated: 2025-12-18T18:11:49Z
   Total Products: 26
 - [New Years Candles](https://affinatiliving.com/collections/new-years-candles): Celebrate the New Year with luxurious candles crafted for midnight moments. Sparkling, warm, and elegant scents to welcome a fresh start.
-  Updated: 2026-01-03T12:09:42Z
+  Updated: 2026-01-03T18:44:52Z
   Total Products: 66
 - [Mini Candles](https://affinatiliving.com/collections/mini-candles): Mini candle with a powerful fragrance throw and up to 18 hours of burn time. Perfect for sampling scents or adding cozy ambiance anywhere.
   Updated: 2026-01-02T12:08:25Z
@@ -8161,7 +8191,7 @@
     Updated: 2025-11-02T14:22:10Z
     Author: Gerard Collins
   - [Are 3-Wick Candles Worth It? What You Need to Know](https://affinatiliving.com/blogs/news/are-3-wick-candles-worth-it-what-you-need-to-know)
-    Updated: 2025-09-04T18:48:06Z
+    Updated: 2026-01-03T19:57:15Z
     Author: Gerard Collins
   - [5 Benefits of Using Body Lotion Right After a Shower](https://affinatiliving.com/blogs/news/5-benefits-of-using-body-lotion-right-after-a-shower)
     Updated: 2025-10-11T01:09:30Z
@@ -8263,7 +8293,7 @@
     Updated: 2025-09-10T01:38:21Z
     Author: Gerard Collins
   - [Top 3 Best Candle Scents for September 2025 | Affinati 3-Wick Collection](https://affinatiliving.com/blogs/news/top-3-best-candle-scents-for-september-affinati-3-wick-collection)
-    Updated: 2025-09-04T18:42:33Z
+    Updated: 2026-01-03T19:44:11Z
     Author: Gerard Collins
   - [Best Scents to Help You Sleep Better at Night | Lavender, Sage & Vanilla Candles](https://affinatiliving.com/blogs/news/best-scents-to-help-you-sleep-better-at-night-lavender-sage-vanilla-candles)
     Updated: 2025-09-06T02:28:22Z
@@ -8773,9 +8803,6 @@
   - [Soy Candle Burn Time Explained | How Long Do Soy Candles Last?](https://affinatiliving.com/blogs/deep-analysis/what-is-the-burn-time-of-a-soy-candle-everything-you-need-to-know)
     Updated: 2025-10-07T23:59:03Z
     Author: Gerard Collins
-  - [Why You Should Not Buy Yankee Candles: A Cleaner Candle Alternative](https://affinatiliving.com/blogs/deep-analysis/why-you-should-not-buy-yankee-candles-a-cleaner-candle-alternative)
-    Updated: 2025-09-04T19:22:46Z
-    Author: Gerard Collins
   - [Why You Should Not Buy Bath and Body Works Candles: A Clean Living Perspective](https://affinatiliving.com/blogs/deep-analysis/why-you-should-not-buy-bath-and-body-works-candles-a-clean-living-perspective)
     Updated: 2025-09-04T19:33:08Z
     Author: Gerard Collins
@@ -8891,9 +8918,6 @@
   - [Goose Creek vs Affinati | Best Luxury Soy Candles for Every Home](https://affinatiliving.com/blogs/deep-analysis/goose-creek-candles-vs-affinati-candles-best-luxury-3-wick-candles)
     Updated: 2025-11-09T15:07:40Z
     Author: Gerard Collins
-  - [What Are Soy Candles? Benefits, Burn Time & Bestsellers | Affinati](https://affinatiliving.com/blogs/deep-analysis/what-are-soy-candles-benefits-burn-time-bestsellers-affinati)
-    Updated: 2025-09-04T18:40:38Z
-    Author: Gerard Collins
   - [Best Body Scrubs for Women 2025: Smooth, Glow, and Treat Strawberry Legs](https://affinatiliving.com/blogs/deep-analysis/best-body-scrubs-for-women-smooth-glow-and-treat-strawberry-legs)
     Updated: 2025-09-05T18:21:57Z
     Author: Gerard Collins
@@ -8991,7 +9015,7 @@
     Updated: 2025-11-02T14:03:16Z
     Author: Gerard Collins
   - [Strongest Candle Brands | Bold, Room-Filling Scents](https://affinatiliving.com/blogs/deep-analysis/strongest-candle-brands-bold-room-filling-scents): Strongest Candle Brands | Bold, Room-Filling Scents
-    Updated: 2025-12-30T18:41:30Z
+    Updated: 2026-01-03T17:19:24Z
     Author: Gerard Collins
   - [Candle Brands Better Than Goose Creek | Alternatives](https://affinatiliving.com/blogs/deep-analysis/candle-brands-better-than-goose-creek-alternatives)
     Updated: 2025-12-30T20:54:06Z
@@ -9438,7 +9462,7 @@
     Updated: 2025-12-28T12:58:23Z
     Author: Gerard Collins
   - [Natural vs Paraffin Candles: What Canadians Prefer & Why](https://affinatiliving.com/blogs/deep-analysis/natural-vs-paraffin-candles-what-canadians-prefer-why)
-    Updated: 2025-12-28T12:50:52Z
+    Updated: 2026-01-03T17:29:22Z
     Author: Gerard Collins
   - [Cozy Home Scents Canadians Prefer | Warm Candle Scents for Every Home](https://affinatiliving.com/blogs/deep-analysis/cozy-home-scents-canadians-prefer-warm-candle-scents-for-every-home)
     Updated: 2025-12-28T12:48:46Z
