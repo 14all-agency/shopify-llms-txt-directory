@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-03T04:41:14.561Z
+- Updated At: 2026-01-03T04:42:11.179Z
 
 ## Products
 
