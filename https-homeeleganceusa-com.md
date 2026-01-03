@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2026-01-03T00:03:16.513Z
+- Updated At: 2026-01-03T14:24:04.778Z
 
 ## Products
 
@@ -49,7 +49,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:04:08Z
   Price: $1,886.99 USD — $3,502.99 USD
 - [Counter Height Dining Set Gabriel 100438 | Coaster](https://homeeleganceusa.com/products/gabriel-counter-height-dining-set-by-coaster-home-furnishings-cappuccino-and-tan): Coaster  Description The Rich Cappuccino Counter Height Dinette by Coaster is manufactured in contemporary style. It features the convenient counter height...
-  Updated: 2025-12-30T06:11:08Z
+  Updated: 2026-01-03T06:05:35Z
   Price: $1,539.99 USD — $1,681.99 USD
 - [Server With Faux Marble Top In Brown ‎Russian Hill 1808-40](https://homeeleganceusa.com/products/russian-hill-server-in-brown-by-homelegance): Blending the classic aesthetic of traditional design is the Russian Hill Collection. The nod to Old World styling comes in elements such as dental, rope ...
   Updated: 2025-12-28T04:04:10Z
@@ -670,7 +670,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:11:22Z
   Price: $867.99 USD
 - [Platform Jeremaine Upholstered Bed In White Color | Coaster](https://homeeleganceusa.com/products/jeremaine-bed-in-white-by-coaster-furniture): The padded headboard provides a place to place accent pillows against or for you to lean on to read a good book or wind down with a movie. Add this bed to make a statement about your style.
-  Updated: 2025-12-30T06:11:03Z
+  Updated: 2026-01-03T06:05:37Z
   Price: $880.99 USD — $1,130.99 USD
 - [Riley Upholstered Silver Bed with Crystal Tufting – Global](https://homeeleganceusa.com/products/riley-upholstered-bed-in-silver-color-by-global-furniture): Riley Silver Upholstered Bed by Global with crystal-tufted headboard, mirror trim, and elegant champagne finish. Available in Full, Queen, and King.
   Updated: 2025-12-28T06:38:31Z
@@ -1810,10 +1810,10 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:19:32Z
   Price: $1,329.99 USD
 - [Divani Casa Dexter Transitional White Full Italian Leather Sofa Vgca114-Fl-Wht](https://homeeleganceusa.com/products/vig-furniture-divani-casa-dexter-transitional-white-full-italian-leather-sofa-vgca114-fl-wht): Divani Casa Dexter Transitional White Full Italian Leather Sofa - VGCA114-FL-WHT | VIGDescription:A massive showcase of luxurious comfort, the Divani Casa
-  Updated: 2026-01-02T22:26:40Z
+  Updated: 2026-01-03T10:26:01Z
   Price: $5,774.99 USD
 - [Modrest Holly Modern Black & Gold Round Dining Table Vgfh-Fdt7012-Blk](https://homeeleganceusa.com/products/vig-furniture-modrest-holly-modern-black-gold-round-dining-table-vgfh-fdt7012-blk): Modrest Holly Modern Black & Gold Round Dining Table - VGFH-FDT7012-BLK | VIGDescription:Get an industrial dining room style with the Modrest Holly Modern Black
-  Updated: 2026-01-02T22:25:58Z
+  Updated: 2026-01-03T10:26:03Z
   Price: $842.99 USD
 - [Modrest Token Modern Smoked Grey Glass & Rosegold Dining Table Vgvct816](https://homeeleganceusa.com/products/vig-furniture-modrest-token-modern-smoked-grey-glass-rosegold-dining-table-vgvct816): Modrest Token Modern Smoked Grey Glass & Rosegold Dining Table - VGVCT816 | VIGDescription:The Modrest Token Dining Table features an eye-catching design. A
   Updated: 2025-12-28T04:19:35Z
@@ -1909,7 +1909,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-31T22:16:13Z
   Price: $829.99 USD
 - [Divani Casa Dexter Transitional White Full Italian Leather Sofa-Loveseat Vgca114-Wht-S](https://homeeleganceusa.com/products/vig-furniture-divani-casa-dexter-transitional-white-full-italian-leather-sofa-loveseat-vgca114-wht-s): Divani Casa Dexter - Transitional White Full Italian Leather Sofa - VGCA114-WHT-S | VIGDescription:The Dexter Sofa is a contemporary twist on a traditional
-  Updated: 2026-01-02T22:21:11Z
+  Updated: 2026-01-03T10:21:22Z
   Price: $3,859.99 USD
 - [Modrest Jolene Modern Grey Mirror Vgbbmr1710Mi-Gry-Mir](https://homeeleganceusa.com/products/vig-furniture-modrest-jolene-modern-grey-mirror-vgbbmr1710mi-gry-mir): Modrest Jolene - Modern Grey Mirror - VGBBMR1710MI-GRY-MIR | VIGDescription:Clean and Minimalistic Modern Square Mirror in Grey Metal Frame. Will go perfectly
   Updated: 2025-12-31T22:16:13Z
@@ -2311,7 +2311,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:22:51Z
   Price: $1,158.99 USD
 - [Nova Domus Soria Modern Grey Wash Bedroom Set Vgma-Br-32-Gry-Set](https://homeeleganceusa.com/products/vig-furniture-nova-domus-soria-modern-grey-wash-bedroom-set-vgma-br-32-gry-set): Nova Domus Soria Modern Grey Wash Bedroom Set - VGMA-BR-32-GRY-SET | VIGDescription:Simplicity at its best is the character that the Nova Domus Soria Modern
-  Updated: 2026-01-02T22:26:04Z
+  Updated: 2026-01-03T10:26:10Z
   Price: $3,136.99 USD — $3,388.99 USD
 - [Nova Domus Lorenzo Italian Modern Light Oak Bed Vgaclorenzo-Bed](https://homeeleganceusa.com/products/vig-furniture-nova-domus-lorenzo-italian-modern-light-oak-bed-vgaclorenzo-bed): Nova Domus Lorenzo Italian Modern Light Oak Bed - VGACLORENZO-BED | VIG Description: Clean-lined minimalism best describes the Nova Domus Lorenzo Italian Modern
   Updated: 2025-12-28T06:38:55Z
@@ -2716,7 +2716,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:25:24Z
   Price: $2,741.99 USD
 - [Divani Casa Dexter Transitional White Full Italian Leather Lounge Chair Vgca114-Wht-Ch](https://homeeleganceusa.com/products/vig-furniture-divani-casa-dexter-transitional-white-full-italian-leather-lounge-chair-vgca114-wht-ch-1): Divani Casa Dexter - Transitional White Full Italian Leather Lounge Chair - VGCA114-WHT-CH | VIGDescription:The Dexter Chair is a contemporary twist on a
-  Updated: 2026-01-02T22:28:28Z
+  Updated: 2026-01-03T10:28:32Z
   Price: $2,878.99 USD
 - [Modrest Patrick Modern White Leather Bed Vgkkb-75X-Bed](https://homeeleganceusa.com/products/vig-furniture-modrest-patrick-modern-white-leather-bed-vgkkb-75x-bed-1): Modrest Patrick - Modern White Leather Bed - VGKKB-75X-BED | VIGDescription:The Patrick Bed by Modrest is the ultimate bed for your modern home. A gorgeous
   Updated: 2025-12-28T06:39:07Z
@@ -3397,7 +3397,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:29:41Z
   Price: $1,149.99 USD
 - [Modrest Bethel Modern Green Velvet Accent Chair Vgrh-Rhs-Ac-502-B-Grn](https://homeeleganceusa.com/products/vig-furniture-modrest-bethel-modern-green-velvet-accent-chair-vgrh-rhs-ac-502-b-grn-1): Modrest Bethel Modern Green Velvet Accent Chair - VGRH-RHS-AC-502-B-GRN | VIGDescription:Giving off loads of elegant charm is the flamboyant Modrest Bethel
-  Updated: 2026-01-02T22:26:19Z
+  Updated: 2026-01-03T10:26:23Z
   Price: $1,189.99 USD
 - [Taranto Modern Brown Leather Lounge Chair Vgwcm511Y-Gry](https://homeeleganceusa.com/products/vig-furniture-taranto-modern-brown-leather-lounge-chair-vgwcm511y-gry-1): Divani Casa Taranto - Modern Grey Eco-Leather Lounge Chair - VGWCM511Y-GRY | VIGDescription:Designed with minimalism in mind, the Taranto Lounge Chair displays
   Updated: 2025-12-26T08:52:42Z
@@ -3775,7 +3775,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:31:52Z
   Price: $1,165.99 USD
 - [Modrest Walker Modern Concrete & Metal Console Table Vglbrokycs-113](https://homeeleganceusa.com/products/vig-furniture-modrest-walker-modern-concrete-metal-console-table-vglbrokycs-113): Modrest Walker Modern Concrete & Metal Console Table - VGLBROKYCS-113 | VIGDescription:Design your home in a cool fashion with the Modrest Walker Modern
-  Updated: 2026-01-02T22:26:24Z
+  Updated: 2026-01-03T10:26:29Z
   Price: $1,360.99 USD
 - [Nova Domus Cartier Modern Black & Rosegold Console Table Vgvck-A002](https://homeeleganceusa.com/products/vig-furniture-nova-domus-cartier-modern-black-rosegold-console-table-vgvck-a002): Nova Domus Cartier Modern Black & Rosegold Console Table - VGVCK-A002 | VIGDescription:Showcasing a tailored design, the Nova Domus Cartier Modern Black & Rose
   Updated: 2025-12-28T04:31:55Z
@@ -3808,7 +3808,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:04Z
   Price: $3,606.99 USD
 - [Modrest Cabaret Modern White Round Dining Table Vgvct1799](https://homeeleganceusa.com/products/vig-furniture-modrest-cabaret-modern-white-round-dining-table-vgvct1799): Modrest Cabaret Modern White Round Dining Table - VGVCT1799 | VIGDescription:Highlight the modern dÌ©cor of your dining room with the Modrest Cabaret Modern
-  Updated: 2026-01-02T22:26:25Z
+  Updated: 2026-01-03T10:26:30Z
   Price: $2,406.99 USD
 - [Modrest Marston Modern White Marble & Stainless Steel Dining Table Vgvct8919-M-Stl](https://homeeleganceusa.com/products/vig-furniture-modrest-marston-modern-white-marble-stainless-steel-dining-table-vgvct8919-m-stl): Modrest Marston Modern White Marble & Stainless Steel Dining Table - VGVCT8919-M-STL | VIGDescription:Exhibiting glam and style, the Modrest Marston Modern
   Updated: 2025-12-27T06:10:56Z
@@ -3817,7 +3817,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:06Z
   Price: $931.99 USD
 - [Modrest Faye Modern White Concrete & Antique Brass Dining Table Vglbchar-Dt220](https://homeeleganceusa.com/products/vig-furniture-modrest-faye-modern-white-concrete-antique-brass-dining-table-vglbchar-dt220): Modrest Faye Modern White Concrete & Antique Brass Dining Table - VGLBCHAR-DT220 | VIGDescription:Sending waves of modernity is the intricately designed Modrest
-  Updated: 2026-01-02T22:26:26Z
+  Updated: 2026-01-03T10:26:30Z
   Price: $2,793.99 USD
 - [Modrest Natalie Modern Black Acacia & Antique Brass Dining Table Vglbgats-Dt220-03](https://homeeleganceusa.com/products/vig-furniture-modrest-natalie-modern-black-acacia-antique-brass-dining-table-vglbgats-dt220-03): Modrest Natalie Modern Black Acacia & Antique Brass Dining Table - VGLBGATS-DT220-03 | VIGDescription:Create an impression via the Modrest Natalie Modern Black
   Updated: 2025-12-28T04:32:09Z
@@ -3859,7 +3859,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:23Z
   Price: $1,504.99 USD
 - [Modrest Leroy Modern Ebony & Rosegold Console Table Vghb280X-Ebn](https://homeeleganceusa.com/products/vig-furniture-modrest-leroy-modern-ebony-rosegold-console-table-vghb280x-ebn): Modrest Leroy Modern Ebony & Rosegold Console Table - VGHB280X-EBN | VIGDescription:Completing your living room dÌ©cor is the Modrest Leroy Modern Ebony & Rose
-  Updated: 2026-01-02T22:26:27Z
+  Updated: 2026-01-03T10:26:32Z
   Price: $1,319.99 USD
 - [Modrest Legend Modern Grey Fabric & Gold Dining Chair (Set Of 2) Vgvcb012-Grygld](https://homeeleganceusa.com/products/vig-furniture-modrest-legend-modern-grey-fabric-gold-dining-chair-set-of-2-vgvcb012-grygld): Modrest Legend Modern Grey Fabric & Gold Dining Chair (Set of 2) - VGVCB012-GRYGLD | VIGDescription:Comfortable luxury is one way to describe the Legend Dining
   Updated: 2025-12-28T04:32:25Z
@@ -3874,7 +3874,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:28Z
   Price: $1,273.99 USD
 - [Modrest Duval Modern White & Grey Dining Chair Vgvcb8766A-Whtgry](https://homeeleganceusa.com/products/vig-furniture-modrest-duval-modern-white-grey-dining-chair-vgvcb8766a-whtgry): Modrest Duval Modern White & Grey Dining Chair - VGVCB8766A-WHTGRY | VIGDescription:For a truly elegant dining experience, this wonderfully modern stylish
-  Updated: 2026-01-02T22:26:29Z
+  Updated: 2026-01-03T10:26:33Z
   Price: $1,099.99 USD
 - [Modrest Chadwick Modern Ebony & Rosegold Dining Table Vghb297T3-Ebn](https://homeeleganceusa.com/products/vig-furniture-modrest-chadwick-modern-ebony-rosegold-dining-table-vghb297t3-ebn): Modrest Chadwick Modern Ebony & Rosegold Dining Table - VGHB297T3-EBN | VIGDescription:Classy is the best word to describe the Modrest Chadwick Modern Ebony &
   Updated: 2025-12-28T04:32:29Z
@@ -3901,7 +3901,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:37Z
   Price: $955.99 USD
 - [Nova Domus Cartier Modern Black & Rosegold Buffet Vgvcg-A002](https://homeeleganceusa.com/products/vig-furniture-nova-domus-cartier-modern-black-rosegold-buffet-vgvcg-a002): Nova Domus Cartier Modern Black & Rosegold Buffet - VGVCG-A002 | VIGDescription:With its deep gloss finish and practical storage, this Cartier buffet is the
-  Updated: 2026-01-02T22:26:29Z
+  Updated: 2026-01-03T10:26:34Z
   Price: $2,297.99 USD
 - [Nova Domus Valencia Contemporary White Dresser Vgmabr-76-Drs](https://homeeleganceusa.com/products/vig-furniture-nova-domus-valencia-contemporary-white-dresser-vgmabr-76-drs): Nova Domus Valencia Contemporary White Dresser - VGMABR-76-DRS | VIGDescription:Answering your need for orderly storage is the Nova Domus Valencia Contemporary
   Updated: 2025-12-28T04:32:39Z
@@ -3931,7 +3931,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-28T04:32:49Z
   Price: $1,325.99 USD
 - [Modrest Reklaw Modern Smoked Glass & Rosegold End Table Vgvcet836](https://homeeleganceusa.com/products/vig-furniture-modrest-reklaw-modern-smoked-glass-rosegold-end-table-vgvcet836): Modrest Reklaw Modern Smoked Glass & Rosegold End Table - VGVCET836 | VIGDescription:Exuding a refined style, the Modrest Reklaw Modern Smoked Glass & Rose gold
-  Updated: 2026-01-02T22:26:31Z
+  Updated: 2026-01-03T10:26:35Z
   Price: $1,372.99 USD
 - [Modrest Legend Modern White & Gold Tv Stand Vgvctv8111-Whtgld](https://homeeleganceusa.com/products/vig-furniture-modrest-legend-modern-white-gold-tv-stand-vgvctv8111-whtgld): Modrest Legend Modern White & Gold 79" TV Stand - VGVCTV8111-WHTGLD | VIGDescription:The Modrest Legend TV Stand comes in a dramatic and bold shade of white in
   Updated: 2025-12-28T04:32:50Z
@@ -29041,7 +29041,7 @@ Weight: 216.1 pounds
   Updated: 2026-01-02T17:37:16Z
   Total Products: 9308
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2026-01-02T22:28:27Z
+  Updated: 2026-01-03T12:18:08Z
   Total Products: 13225
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
   Updated: 2026-01-02T19:07:47Z
@@ -29065,7 +29065,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-30T20:57:19Z
   Total Products: 76
 - [Reclining Chairs – Modern & Classic Recliners | Home Elegance USA](https://homeeleganceusa.com/collections/reclining-chairs): Shop reclining chairs in leather and fabric. Power and manual recliners designed for living rooms, home theaters, and offices—comfort and style built to last.
-  Updated: 2025-12-30T21:11:53Z
+  Updated: 2026-01-03T12:18:08Z
   Total Products: 367
 - [Accent Chairs – Modern, Contemporary & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-chairs): Shop accent chairs in modern, traditional, and contemporary styles. Perfect for living rooms, bedrooms, and offices—stylish seating with comfort and durability.
   Updated: 2026-01-02T22:28:27Z
@@ -29431,7 +29431,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:36:14Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2026-01-02T09:03:17Z
+  Updated: 2026-01-03T12:18:08Z
   Total Products: 1307
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
   Updated: 2026-01-02T09:01:18Z
@@ -29530,7 +29530,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-25T20:36:54Z
   Total Products: 5
 - [Living Room Chairs | Accent & Recliner Seating – Home Elegance](https://homeeleganceusa.com/collections/living-room-chairs): Shop living room chairs in modern, classic & luxury styles. Accent chairs, recliners, and lounge chairs crafted for comfort, durability, and timeless design.
-  Updated: 2026-01-02T22:28:27Z
+  Updated: 2026-01-03T12:18:08Z
   Total Products: 2280
 - [Platform Beds – Modern & Upholstered Low-Profile Frames | Home Elegance USA](https://homeeleganceusa.com/collections/platform-beds): Shop platform beds with sleek low profiles, storage options, and upholstered finishes. Perfect for modern bedrooms. Free shipping nationwide.
   Updated: 2026-01-02T09:02:08Z
@@ -29653,7 +29653,7 @@ Weight: 216.1 pounds
   Updated: 2026-01-02T09:02:57Z
   Total Products: 200
 - [Power Lift Recliners – Comfortable & Accessible Chairs | Home Elegance](https://homeeleganceusa.com/collections/power-lift-recliners): Shop power lift recliners with motorized lift and recline functions at Home Elegance USA. Comfortable and supportive chairs designed for living rooms, bedrooms, and mobility-friendly spaces.
-  Updated: 2025-12-25T20:50:29Z
+  Updated: 2026-01-03T12:18:08Z
   Total Products: 34
 - [Armoires & Wardrobes – Bedroom Storage Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/armoires-wardrobes): Shop armoires and wardrobes with shelves, drawers, and hanging space. Stylish bedroom storage in modern, traditional, and glam designs with free U.S. shipping.
   Updated: 2025-12-25T16:35:27Z
@@ -30110,7 +30110,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-30T16:08:35Z
   Total Products: 1
 - [Home Elegance USA](https://homeeleganceusa.com/collections/home-elegance-usa)
-  Updated: 2026-01-02T18:47:54Z
+  Updated: 2026-01-03T12:18:08Z
   Total Products: 3478
 
 ## Blogs
