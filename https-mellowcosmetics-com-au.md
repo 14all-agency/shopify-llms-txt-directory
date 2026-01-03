@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2026-01-02T00:00:33.374Z
+- Updated At: 2026-01-03T00:00:34.587Z
 
 ## Products
 
@@ -20,8 +20,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Tokyo_Lip_Swatch_600x600_36a5d984-7239-4d5a-bc34-c3e3ee6b328f.jpg?v=1736429293
   Price: $24.00 AUD
-- [Brown Nude Creamy Matte Lipstick Posh - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-posh): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Posh is a brown nude matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-01T12:29:37Z
+- [Brownish Beige Nude Creamy Matte Lipstick Posh - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-posh): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Posh is a Brownish Beige nude matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T19:17:07Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
@@ -161,7 +161,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/brow-powder-duo-auburn_f2235455-aa20-4bac-9bb9-3e584a526f17.png?v=1541043827
   Price: $26.00 AUD
 - [Brow Powder Duo - Blonde](https://mellowcosmetics.com.au/products/brow-powder-duo-blonde): A two shade brow powder compact which can be customised to create the ideal shade to create naturally beautiful eyebrows. The formula is smudge proof, resistant to humidity and offers long lasting wear.
-  Updated: 2026-01-01T12:30:49Z
+  Updated: 2026-01-02T14:34:21Z
   Vendor: Mellow Cosmetics
   Product Type: Brow Powder
   Availability: Available
@@ -195,64 +195,64 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/tinted_brow_gel_Lgt_Brn_group_ae8b9710-e849-46f6-b3ca-2179739190da.png?v=1569421277
   Price: $24.50 AUD
-- [Creamy Matte Lipstick - Blossom](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-blossom): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:29:38Z
+- [Orangey Red Creamy Matte Lipstick Blossom - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-blossom): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Blossom is a Orangey Red matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:12:51Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Blossom_Lip_Swatch_x1080_a05e4f64-965d-4658-b6f5-e5279930774e.jpg?v=1737192473
   Price: $24.00 AUD
-- [Pink Matte Lipstick - Candy Floss - Creamy and Long waring](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-candy-floss): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Candy Floss is a bright pink matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-01T12:29:38Z
+- [Bright Pink Matte Lipstick - Candy Floss - Creamy and Long waring](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-candy-floss): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Candy Floss is a bright pink matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T18:15:26Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Candy_Floss_Lip_Swatch_x1080.jpg?v=1747732955
   Price: $24.00 AUD
-- [Creamy Matte Lipstick - Chocolate](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-chocolate): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:30:21Z
+- [Dark Chocolate Creamy Matte Lipstick - Chocolate - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-chocolate): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Chocolate is a Dark Chocolate matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:29:44Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Chocolate_Lip_Swatch_x1080_8f310542-245d-4b05-ab9e-2071295d651e.jpg?v=1737454199
   Price: $24.00 AUD
-- [Creamy Matte Lipstick - Danger Zone](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-danger-zone): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:29:37Z
+- [Pinkish Red Creamy Matte Lipstick Danger Zone - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-danger-zone): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Danger Zone is a Pinkish Red matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:42:31Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Danger_Zone_Lip_Swatch_x1080_c8605bc6-5b38-483a-8772-945063ac8f54.jpg?v=1736602542
   Price: $24.00 AUD
-- [Creamy Matte Lipstick - Electro](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-electro): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:29:38Z
+- [Orange Creamy Matte Lipstick Electro - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-electro): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Electro is a Orange matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:48:25Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Electro_Lip_Swatch_x1080_eb7bf866-93e6-4bc0-a82e-fcc1fae7fda9.jpg?v=1736746225
   Price: $24.00 AUD
-- [Creamy Matte Lipstick - Madness](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-madness): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:29:37Z
+- [Red Creamy Matte Lipstick Madness - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-madness): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Madness is a Red matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:05:27Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/MadnessNew.png?v=1706107198
   Price: $24.00 AUD
-- [Creamy Matte Lipstick - New York](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-new-york): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:30:21Z
+- [Wine Creamy Matte Lipstick New York - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-new-york): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. New York is a Wine matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:22:30Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/New_York_Lip_Swatch_x1080_21a134e0-f02c-4465-8daa-71bbc30f6378.jpg?v=1737454157
   Price: $24.00 AUD
 - [Pink Nude Creamy Matte Lipstick - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-nude): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Nude is a pink nude matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-01T12:29:37Z
+  Updated: 2026-01-02T19:02:20Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Nude_Light_Lipstick.jpg?v=1765212646
   Price: $24.00 AUD
-- [Creamy Matte Lipstick - Passion](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-passion): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2026-01-01T12:29:37Z
+- [Pink Creamy Matte Lipstick Passion - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-passion): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Passion is a Pink matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-02T17:45:32Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
@@ -553,7 +553,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/ScreenShot2021-02-11at9.38.56AM.png?v=1613000382
   Price: $22.00 AUD
 - [Auto Twist Eyeliner | Vegan Friendly Makeup Products | Mellow Cosmetics](https://mellowcosmetics.com.au/products/mineral-eyeliner-chocolate-chip): We provide long-lasting, non-flaking auto twist eyeliners that glide easily & stay smooth. The natural-based formula works on even the most sensitive eyes. Order now!
-  Updated: 2026-01-01T12:30:21Z
+  Updated: 2026-01-02T14:34:12Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeliner
   Availability: Available
