@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2026-01-03T00:00:34.587Z
+- Updated At: 2026-01-03T09:54:52.203Z
 
 ## Products
 
@@ -21,7 +21,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Tokyo_Lip_Swatch_600x600_36a5d984-7239-4d5a-bc34-c3e3ee6b328f.jpg?v=1736429293
   Price: $24.00 AUD
 - [Brownish Beige Nude Creamy Matte Lipstick Posh - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-posh): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Posh is a Brownish Beige nude matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T19:17:07Z
+  Updated: 2026-01-03T08:29:55Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/lip_pencil_ruby_swatch.png?v=1569383635
   Price: $20.00 AUD
 - [MELLOW COSMETICS | Sinopia Eyeshadow Palette](https://mellowcosmetics.com.au/products/sinopia-palette): Create a fiery orange, striking blue or simple neutral shimmer look using the SINOPIA eyeshadow palette from Mellow Cosmetics.
-  Updated: 2026-01-01T12:29:37Z
+  Updated: 2026-01-03T00:02:57Z
   Vendor: Mellow Cosmetics
   Product Type: Eyeshadow
   Availability: Available
@@ -196,63 +196,63 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/tinted_brow_gel_Lgt_Brn_group_ae8b9710-e849-46f6-b3ca-2179739190da.png?v=1569421277
   Price: $24.50 AUD
 - [Orangey Red Creamy Matte Lipstick Blossom - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-blossom): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Blossom is a Orangey Red matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:12:51Z
+  Updated: 2026-01-03T09:50:08Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Blossom_Lip_Swatch_x1080_a05e4f64-965d-4658-b6f5-e5279930774e.jpg?v=1737192473
   Price: $24.00 AUD
 - [Bright Pink Matte Lipstick - Candy Floss - Creamy and Long waring](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-candy-floss): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Candy Floss is a bright pink matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T18:15:26Z
+  Updated: 2026-01-03T06:09:53Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Candy_Floss_Lip_Swatch_x1080.jpg?v=1747732955
   Price: $24.00 AUD
 - [Dark Chocolate Creamy Matte Lipstick - Chocolate - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-chocolate): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Chocolate is a Dark Chocolate matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:29:44Z
+  Updated: 2026-01-03T09:53:08Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Chocolate_Lip_Swatch_x1080_8f310542-245d-4b05-ab9e-2071295d651e.jpg?v=1737454199
   Price: $24.00 AUD
 - [Pinkish Red Creamy Matte Lipstick Danger Zone - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-danger-zone): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Danger Zone is a Pinkish Red matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:42:31Z
+  Updated: 2026-01-03T09:53:35Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Danger_Zone_Lip_Swatch_x1080_c8605bc6-5b38-483a-8772-945063ac8f54.jpg?v=1736602542
   Price: $24.00 AUD
 - [Orange Creamy Matte Lipstick Electro - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-electro): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Electro is a Orange matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:48:25Z
+  Updated: 2026-01-03T09:54:34Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Electro_Lip_Swatch_x1080_eb7bf866-93e6-4bc0-a82e-fcc1fae7fda9.jpg?v=1736746225
   Price: $24.00 AUD
 - [Red Creamy Matte Lipstick Madness - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-madness): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Madness is a Red matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:05:27Z
+  Updated: 2026-01-03T08:31:09Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/MadnessNew.png?v=1706107198
   Price: $24.00 AUD
 - [Wine Creamy Matte Lipstick New York - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-new-york): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. New York is a Wine matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:22:30Z
+  Updated: 2026-01-03T09:52:07Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/New_York_Lip_Swatch_x1080_21a134e0-f02c-4465-8daa-71bbc30f6378.jpg?v=1737454157
   Price: $24.00 AUD
 - [Pink Nude Creamy Matte Lipstick - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-nude): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Nude is a pink nude matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T19:02:20Z
+  Updated: 2026-01-03T08:29:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Nude_Light_Lipstick.jpg?v=1765212646
   Price: $24.00 AUD
 - [Pink Creamy Matte Lipstick Passion - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-passion): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Passion is a Pink matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-02T17:45:32Z
+  Updated: 2026-01-03T09:54:04Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
@@ -651,7 +651,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/8_af19b239-9550-4395-905c-b8ae1c7af653.png?v=1675998773
   Price: $72.00 AUD
 - [Everyday Essentials Skin Bundle Value Pack| Stuf. Skin AU](https://mellowcosmetics.com.au/products/everyday-essentials): Not sure which products to pick? We've done the work for you with our Everyday Essentials bundle...and you save some money too!
-  Updated: 2025-11-20T11:27:01Z
+  Updated: 2026-01-03T00:02:56Z
   Vendor: stufskin.com
   Product Type: Skincare
   Availability: Available
