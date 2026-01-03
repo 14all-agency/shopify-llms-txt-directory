@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2025-12-31T08:41:55.676Z
+- Updated At: 2026-01-03T00:00:35.638Z
 
 ## Products
 
@@ -141,7 +141,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/EveryCup_Original_60-pack_capsules.png?v=1753262392
   Price: $69.66 USD
 - [FrostFire - Dark Cold Brew](https://www.brewtheblend.com/products/frostfire-dark): FrostFire is a specialty-grade blend designed specifically for cold brewing. It delivers a consistently smooth and satisfying cup. Featuring a dark French roast and coarse grounds, it produces a low-acidity coffee with a rich, full-bodied flavor perfect for cold brew enthusiasts. As with Brew the Blend's offerings, FrostFire is made with 100% specialty-grade coffee, ensuring a pure, high-quality coffee experience with no additives or artificial ingredients. This expertly crafted blend highlights the care and precision of creating a refreshing, bold, and naturally delicious cold brew. Whether served over ice or as a chilled concentrate, FrostFire delivers the ultimate cold brew experience every time.
-  Updated: 2025-12-31T04:06:21Z
+  Updated: 2026-01-02T16:05:20Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -231,7 +231,7 @@
     Availability: Available
     Price: $102.00 USD
 - [Chillspire – Cold Brew Coffee with Chocolate & Toffee | Brew the Blend](https://www.brewtheblend.com/products/chillspire): Smooth and refreshing, Chillspire is a specialty cold brew with chocolate, toffee, and floral notes. Silken, balanced, and crafted to uplift every sip.
-  Updated: 2025-12-04T21:56:50Z
+  Updated: 2026-01-02T08:21:17Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/MangoDelight.jpg?v=1746692744
   Price: $16.80 USD
 - [Buy Authentic Masala Chai Tea | Spiced & Flavorful Blend](https://www.brewtheblend.com/products/sassy-chai): Looking for the best masala chai tea? Get rich, aromatic flavors delivered to your door—no need to search for masala chai near me. Order now!
-  Updated: 2025-12-30T21:25:48Z
+  Updated: 2026-01-02T18:06:40Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
@@ -539,22 +539,26 @@
     Availability: Available
     Price: $102.00 USD
 - [Suntrail Roast](https://www.brewtheblend.com/products/suntrail-roast): A Taste of Paradise - Experience the essence of Colombia with every sip of Suntrail Roast coffee. Grown in the high-altitude regions of Colombia, this coffee captures the vibrant spirit of its homeland. Suntrail Roast brings clarity, brightness, and smooth complexity to your cup. This medium roast showcases citrusy liveliness, light cocoa undertones, and a polished finish — all while honoring the farms and elevations that lend it its character. It’s a coffee that shines with every pour and speaks to the journey behind every bean. ☀️⛰️ Perfect For – Suntrail Roast · Those who enjoy a smooth, well-rounded cup with character · Morning coffee moments or refined afternoon breaks · Pairing with buttery pastries, citrus desserts, or a light brunch · Brewing via drip, Chemex, or AeroPress · Coffee lovers who appreciate a clean, vibrant Colombian roast Join the ranks of satisfied coffee lovers and elevate your coffee experience with Suntrail Roast.
-  Updated: 2025-12-26T07:32:33Z
+  Updated: 2026-01-02T08:36:58Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Drip_black_-_12oz.jpg?v=1764908036
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138333436)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Drip_black_-_12oz.jpg?v=1764908036
     Price: $22.50 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138300668)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Whole_black_-_12oz.jpg?v=1764908036
     Price: $22.50 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138562812)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Drip_black_-_2lb.jpg?v=1764908036
     Price: $52.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138530044)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Suntrail_-_Whole_black_-_2lb.jpg?v=1764908036
     Price: $52.00 USD
   - [5 LB / Drip Grind](https://www.brewtheblend.com/products/suntrail-roast?variant=46162138693884)
     Availability: Available
@@ -563,7 +567,7 @@
     Availability: Available
     Price: $99.00 USD
 - [SolWhisper Mexican Coffee | Rich & Bold Aztec Coffee Blend](https://www.brewtheblend.com/products/solwhisper): Get SolWhisper offers premium flavored coffee beans with rich, bold coffee flavors. Perfect for anyone seeking a truly unique coffee experience.
-  Updated: 2025-12-05T18:01:00Z
+  Updated: 2026-01-02T08:40:20Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -642,7 +646,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Hibiscus_Curran_Tea.png?v=1757495613
   Price: $16.80 USD
 - [Sumadrift](https://www.brewtheblend.com/products/sumadrift): Sumadrift brings bold flavor, herbal depth, and nuanced chocolate and spice notes into one satisfying roast, paying tribute to Sumatra’s untamed landscapes.
-  Updated: 2025-12-04T21:04:00Z
+  Updated: 2026-01-02T07:55:51Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -670,7 +674,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Western Pals Blend](https://www.brewtheblend.com/products/western-pals-blend): Meet your daily companion: Western Pals Blend is a medium roast that blends rustic charm with timeless flavor. Each cup of this 'Cowboy Blend' offers a bold and robust experience reminiscent of traditional campfire coffee.
-  Updated: 2025-12-30T22:58:21Z
+  Updated: 2026-01-02T18:06:46Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -856,7 +860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Butterfly_3_-_Ellie.jpg?v=1759110197
     Price: $16.99 USD
 - [FOR THE MONTH](https://www.brewtheblend.com/products/for-the-month)
-  Updated: 2025-12-02T21:57:04Z
+  Updated: 2026-01-02T19:42:23Z
   Vendor: Brew the Blend
   Product Type: 
   Availability: Available
@@ -949,7 +953,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_106_transformation_673_23cfba91-3909-48dc-8607-b9f674feebee.jpg?v=1766123046
   Price: $22.97 USD
 - [RejuvaPeptide - Advanced Multi-Peptide + Copper Peptide Complex Serum](https://www.brewtheblend.com/products/rejuvapeptide-copper-peptide-complex-serum): A comprehensive, lightweight serum formulated to deeply hydrate and visibly rejuvenate the skin. Suitable for all skin types and designed to integrate seamlessly into any routine.
-  Updated: 2025-12-31T05:20:15Z
+  Updated: 2026-01-02T19:14:40Z
   Vendor: Pure Ethereal
   Product Type: Peptide Hydration Serum
   Availability: Available
@@ -971,25 +975,25 @@
   Updated: 2025-12-06T12:27:55Z
   Total Products: 2
 - ["Buy Medium Roast Coffee Beans | Bold & Smooth Flavors"](https://www.brewtheblend.com/collections/medium-roast): Explore our collection of medium roast or medium-dark roast whole bean coffee. Perfect for coffee lovers who enjoy rich, balanced flavors in every cup."
-  Updated: 2025-12-17T05:44:57Z
-  Total Products: 9
+  Updated: 2026-01-02T07:41:29Z
+  Total Products: 10
 - [Shop Medium Dark Roast Coffee | Perfect Balance of Flavor"](https://www.brewtheblend.com/collections/medium-dark-roast): "Enjoy our Medium Dark Roast coffee, known for its robust, rich flavor profile. Ideal for coffee drinkers seeking a deep, satisfying brew with every cup."
-  Updated: 2025-12-12T12:31:23Z
-  Total Products: 4
+  Updated: 2026-01-02T07:52:03Z
+  Total Products: 3
 - [Get Single Origin Coffee | Pure, Authentic Flavor"](https://www.brewtheblend.com/collections/single-origin): Explore single origin coffee beans for rich, authentic flavors. Shop the best single origin coffee sourced from top regions around the world." at Brew The Blend
-  Updated: 2025-12-06T12:27:55Z
+  Updated: 2026-01-02T07:52:03Z
   Total Products: 11
 - [Buy Premium Blended Coffee | Specialty Blends for Coffee Lovers"](https://www.brewtheblend.com/collections/specialty-blends): Find the perfect specialty blend coffee in our collection. From bold to smooth, our blend coffee offers rich flavors for every coffee lover." at Brew The Blend!
-  Updated: 2025-12-17T05:44:56Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 8
 - [Buy Specialty Grade Coffee | Unmatched Flavor"](https://www.brewtheblend.com/collections/coffee): Shop our collection of specialty-grade coffee beans. Discover premium specialty coffee and specialty coffee beans for a rich, flavorful experience.
   Updated: 2025-12-17T05:45:55Z
   Total Products: 0
 - [Shop the Best Dark Roast Coffee | Taste Bold Perfection"](https://www.brewtheblend.com/collections/dark-roast): Enjoy deep flavors and intense aroma with our top rated dark roast coffee. Explore bold dark roast blends perfect for your morning brew or an afternoon kick."
-  Updated: 2025-09-10T04:41:57Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 2
 - [Buy Single Serving | Flavors to Match Every Preference](https://www.brewtheblend.com/collections/single-serving): Shop premium single-serving capsules for rich, flavorful brews. Pair them with the best K Cup coffee maker and enjoy your favorite coffee capsule at home or on the go."
-  Updated: 2025-12-12T12:31:23Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 8
 - [SELECTED BY ROAST](https://www.brewtheblend.com/collections/selected-by-roast)
   Updated: 2025-09-05T07:54:51Z
@@ -998,10 +1002,10 @@
   Updated: 2025-09-08T06:50:14Z
   Total Products: 1
 - [Order Masala Chai Near Me | Traditional Spiced Chai Tea](https://www.brewtheblend.com/collections/tea): Shop rich tea flavors, including chai masala and chai tea flavors. Perfect for tea enthusiasts looking to enjoy bold and aromatic flavors every day."
-  Updated: 2025-10-06T21:33:45Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 8
 - [Pure Ether | Shop Luxury Beauty Products for a Radiant Glow](https://www.brewtheblend.com/collections/pure-ethereal): Looking for the best beauty products? Try our coconut lip balm and best lip balm for deep hydration and nourishment. Shop Pure Ethereal now!
-  Updated: 2025-12-30T17:54:14Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 13
 - [SOAPS](https://www.brewtheblend.com/collections/body-beauty-soap): Brew the Blend Soap, our new line of products. Hand Made - Bee Free - Palm Free - Dye Free - Essential Oils - Vegan.
   Updated: 2025-10-13T23:26:38Z
@@ -1016,7 +1020,7 @@
   Updated: 2025-11-21T07:25:26Z
   Total Products: 6
 - [SKIN CARE](https://www.brewtheblend.com/collections/skincare)
-  Updated: 2025-12-30T17:54:14Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 12
 - [DEODORANTS](https://www.brewtheblend.com/collections/deodorants): Pure Protect Deodorant—One key benefit of our Vegetable-Based Natural Deodorant is its ability to build bacteria that combat odor. It is a healthy alternative that allows our body to work as it should while effectively fighting odor. Unlike conventional deodorants that aim to kill bacteria indiscriminately, our vegetable-based formula promotes the growth of beneficial bacteria that naturally reside on our skin, helping neutralize odor-causing bacteria and leaving us feeling fresh and confident throughout the day.
   Updated: 2025-12-19T05:53:06Z
@@ -1025,19 +1029,19 @@
   Updated: 2025-07-27T03:26:03Z
   Total Products: 0
 - [TRISAVOR SUBSCRIPTION](https://www.brewtheblend.com/collections/product-of-the-month)
-  Updated: 2025-12-02T09:57:34Z
+  Updated: 2026-01-02T07:52:03Z
   Total Products: 2
 - [ONLINE ONLY](https://www.brewtheblend.com/collections/online-only)
-  Updated: 2025-12-20T12:32:57Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 9
 - [COFFEE & TEA SPECIALS FOR THE SEASON](https://www.brewtheblend.com/collections/coffee-tea-specials-for-the-season)
-  Updated: 2025-12-20T12:32:57Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 12
 - [BREW'S SWEET ESCAPE](https://www.brewtheblend.com/collections/brews-sweet-escape): BREW'S SWEET ESCAPE Avellanut - Combines the richness of coffee with the warm, sweet taste of hazelnuts. Caralisse - All-natural medium-roasted coffee with caramelized sugar, fantastic alone or as the base for blended drinks. CinnaCharm - No added sugar or calories; enjoy the great taste of your favorite iced cinnamon roll. Hazarella - A smooth, rich taste makes this medium-roasted coffee a delightfully mellow cup. MochaFlare - Rich chocolate flavor infused into a medium-roasted specialty-grade arabica bean. Vanilure - A smooth and rich flavor enhanced by natural vanilla extracts.
   Updated: 2025-12-14T12:31:27Z
   Total Products: 7
 - [BREW'S RIDERS COLLECTION](https://www.brewtheblend.com/collections/brews-riders-collection): BREW'S RIDERS COLLECTION SolWhisper - Explore the light and nuanced flavors of Mexican coffee. Morniva - Crafted from a blend of South American coffee beans. Western Pals Blend Experience this firm, full-bodied blend inspired by traditional campfire coffee. Six-Bean Standoff - A complex and rich dark roast ideal for espresso. Peruvian Elegance - Provides a refreshing, uplifting, satisfying experience. LavaLoom - Full-bodied, smooth, and slightly sweet taste with a pleasant acidity.
-  Updated: 2025-12-12T12:31:23Z
+  Updated: 2025-12-31T12:30:18Z
   Total Products: 7
 - [BREW’S PASSPORT PACK](https://www.brewtheblend.com/collections/brew-s-passport-pack): BREW’S PASSPORT PACK ☕ BLUEBERRY SERENADE RESERVEMedium-Light / Lush. Floral. Wine-Kissed. (Ethiopia) ☕ BRAZELA Medium / Smooth. Nutty. Toasted-Cocoa. (Brazil) ☕ BRILLABERRY Medium-Light / Vibrant. Berry-Rich. Bright-Toned. (Tanzania) ☕ DULCE ALTURA SIGNATUREMedium / Sweet. Creamy. Velvety. (Costa Rica) ☕ HONDURAN DRIFTMedium / Round. Cocoa-Forward. Balanced. (Honduras) ☕ SUNTRAIL ROASTMedium / Juicy. Cocoa-Tinged. Citrus. (Colombia)
   Updated: 2025-12-06T12:27:55Z
