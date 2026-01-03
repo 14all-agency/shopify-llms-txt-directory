@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-02-12T13:57:24Z
 - Contact Email: info@barelystylish.com
-- Updated At: 2026-01-03T16:11:44.989Z
+- Updated At: 2026-01-03T16:12:05.296Z
 
 BarelyStylish® — Minimal Style. Maximum Impact.
 
