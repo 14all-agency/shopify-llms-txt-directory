@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-04T00:00:46.866Z
+- Updated At: 2026-01-04T04:00:30.051Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -2437,7 +2437,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/PersonalizedSnowflakeGiftTags-Pink-EXAMPLE-PrintablePlanning.jpg?v=1686173931
   Price: $5.95 USD
 - [Snowflake Personalized Gift Tags in Purple - Printable](https://printableplanning.com/products/snowflake-personalized-gift-tags-in-purple-printable): Printable Snowflake Personalized Gift Tags in Purple that you personalize with both the 'to' and 'from' names individually. Each snowflake design is made with a two-tone purple color design paired with gray. These gift tags are ticket-shaped, and are best when printed on thick card stock paper. These tags are DIY and are to be cut out by you and use a hole punch on the gray outlined circle indicator guide at the top of each tag. The names in purple are the editable part of this page. NOTE: This is an editable PDF page, so you can put in the names by yourself, as needed. These gift tags are a DIY project. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these gift tags from these printable pages. ► You cannot change the font or the size of the font for the names, so please use good judgement based on the examples shown to determine if your child's name will fit. SPECIFICATIONS: 8.5" x 11" printable PDF page. 9 tags per page. Tags measure 2" x 3". Snowflake color: Purple. Edit the names on each tag (every time you print). Print a new page every time you need more. Use these printable Snowflake Personalized Gift Tags in Purple every year!
-  Updated: 2025-07-21T19:19:28Z
+  Updated: 2026-01-04T00:44:20Z
   Vendor: Artistically Invited
   Product Type: Holiday and Occasion
   Availability: Available
