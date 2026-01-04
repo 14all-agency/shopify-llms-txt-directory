@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-04T16:00:39.307Z
+- Updated At: 2026-01-04T20:00:36.303Z
 
 ## Products
 
@@ -136,13 +136,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/glassy-sunglasses-black-glassy-morrison-polarized-black-blue-1183729517.jpg?v=1757439960
   Price: £31.95 GBP
-- [5 Way Ultimate T-Tool For Skateboard | Black](https://thevinessupply.co/products/5-way-ultimate-t-tool-for-skateboard-black): Buy skate tools at The Vines Skate Shop in Solihull or online at www.thevinessupply.co. The perfect accompaniment to any skate session, our 5 way T-Tool is vital for any skateboard adjustments. Works on axel nuts, trucks bolts and kingpin nuts. With fast, free delivery available at www.thevinessupply.co
-  Updated: 2026-01-02T14:08:50Z
-  Vendor: G-Tool
-  Product Type: Skate Tool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/g-tool-skate-tool-5-way-ultimate-t-tool-for-skateboard-black-1183718809.jpg?v=1757237410
-  Price: £5.95 GBP
 - [Ripcare Shoe Repair Glue](https://thevinessupply.co/products/ripcare-shoe-repair-glue): Buy Ripcare Shoe Repair Glue at The Vines. Buy Rip Care skate shoe glue online and repair your skateboard shoes to make them last longer. The Shoe Repair Glue from Ripcare, for skateboarders by skateboarders
   Updated: 2025-09-19T03:12:26Z
   Vendor: Ripcare
@@ -804,7 +797,7 @@
     Availability: Available
     Price: £39.95 GBP
 - [Vans Spicoli 4 Shades Sunglasses | Black](https://thevinessupply.co/products/vans-spicoli-4-shades-sunglasses-black-1): Buy the Vans Spicoli 4 Shades Sunglasses in Black at The Vines Skate Shop. Shop Vans sunglasses with fast, free delivery and easy returns.
-  Updated: 2025-12-21T08:13:05Z
+  Updated: 2026-01-04T16:32:26Z
   Vendor: Vans
   Product Type: Sunglasses
   Availability: Available
@@ -4778,7 +4771,7 @@
     Availability: Available
     Price: £39.95 GBP
 - [Pass~Port Needlework T-Shirt | White](https://thevinessupply.co/products/pass-port-needlework-t-shirt-white): Buy the Pass~Port Needlework T-Shirt in White at The Vines, With Fast, Premium Delivery & Easy Returns.
-  Updated: 2026-01-02T15:30:20Z
+  Updated: 2026-01-04T19:54:03Z
   Vendor: Pass~Port
   Product Type: Tees
   Availability: Available
@@ -6502,8 +6495,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2026-01-04T12:16:57Z
-  Total Products: 135
+  Updated: 2026-01-04T19:54:33Z
+  Total Products: 134
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2026-01-03T12:18:08Z
   Total Products: 386
@@ -6793,8 +6786,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2026-01-04T12:16:57Z
-  Total Products: 3216
+  Updated: 2026-01-04T19:26:41Z
+  Total Products: 3215
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-30T12:17:51Z
   Total Products: 110
@@ -6895,8 +6888,8 @@
   Updated: 2025-12-26T12:12:12Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2026-01-04T12:16:57Z
-  Total Products: 2913
+  Updated: 2026-01-04T19:54:33Z
+  Total Products: 2914
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7072,8 +7065,8 @@
   Updated: 2026-01-04T12:16:57Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2026-01-04T12:16:57Z
-  Total Products: 3119
+  Updated: 2026-01-04T19:54:33Z
+  Total Products: 3118
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-12-29T12:16:47Z
   Total Products: 67
