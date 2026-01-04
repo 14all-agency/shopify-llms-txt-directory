@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2026-01-03T09:54:52.203Z
+- Updated At: 2026-01-04T00:00:33.988Z
 
 ## Products
 
@@ -84,14 +84,14 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Sinopia.jpg?v=1622438719
   Price: $42.00 AUD
 - [MELLOW COSMETICS | Dazzled Lip Trio Set](https://mellowcosmetics.com.au/products/dazzled-lip-trio-set): Get ready for the spotlight as you light up the room with our Dazzled Lip Paint Trio featuring our best selling shades Ibiza, Berlin and Milan. Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free
-  Updated: 2026-01-01T12:29:38Z
+  Updated: 2026-01-03T13:03:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Dazzled-Trip.jpg?v=1571104291
   Price: $60.00 AUD
 - [MELLOW COSMETICS | Scarlett Lip Trio Set](https://mellowcosmetics.com.au/products/scarlett-lip-trio-set): Find the perfect shade for any occasion with our Scarlett Lip Paint Trio featuring our best selling shades Rome, Paris and London. Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free
-  Updated: 2026-01-01T12:29:38Z
+  Updated: 2026-01-03T12:01:53Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -196,7 +196,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/tinted_brow_gel_Lgt_Brn_group_ae8b9710-e849-46f6-b3ca-2179739190da.png?v=1569421277
   Price: $24.50 AUD
 - [Orangey Red Creamy Matte Lipstick Blossom - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-blossom): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Blossom is a Orangey Red matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T09:50:08Z
+  Updated: 2026-01-03T20:41:03Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
@@ -210,49 +210,49 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Candy_Floss_Lip_Swatch_x1080.jpg?v=1747732955
   Price: $24.00 AUD
 - [Dark Chocolate Creamy Matte Lipstick - Chocolate - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-chocolate): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Chocolate is a Dark Chocolate matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T09:53:08Z
+  Updated: 2026-01-03T20:48:05Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Chocolate_Lip_Swatch_x1080_8f310542-245d-4b05-ab9e-2071295d651e.jpg?v=1737454199
   Price: $24.00 AUD
 - [Pinkish Red Creamy Matte Lipstick Danger Zone - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-danger-zone): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Danger Zone is a Pinkish Red matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T09:53:35Z
+  Updated: 2026-01-03T21:53:40Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Danger_Zone_Lip_Swatch_x1080_c8605bc6-5b38-483a-8772-945063ac8f54.jpg?v=1736602542
   Price: $24.00 AUD
 - [Orange Creamy Matte Lipstick Electro - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-electro): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Electro is a Orange matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T09:54:34Z
+  Updated: 2026-01-03T21:54:38Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Electro_Lip_Swatch_x1080_eb7bf866-93e6-4bc0-a82e-fcc1fae7fda9.jpg?v=1736746225
   Price: $24.00 AUD
 - [Red Creamy Matte Lipstick Madness - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-madness): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Madness is a Red matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T08:31:09Z
+  Updated: 2026-01-03T20:31:16Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/MadnessNew.png?v=1706107198
   Price: $24.00 AUD
 - [Wine Creamy Matte Lipstick New York - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-new-york): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. New York is a Wine matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T09:52:07Z
+  Updated: 2026-01-03T20:42:45Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/New_York_Lip_Swatch_x1080_21a134e0-f02c-4465-8daa-71bbc30f6378.jpg?v=1737454157
   Price: $24.00 AUD
-- [Pink Nude Creamy Matte Lipstick - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-nude): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Nude is a pink nude matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T08:29:16Z
+- [Rose Pink Nude Creamy Matte Lipstick - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-nude): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Nude is a Rose Pink nude matte lipstick. Cruelty-free, paraben-free, Vegan!
+  Updated: 2026-01-03T20:29:23Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/Nude_Light_Lipstick.jpg?v=1765212646
   Price: $24.00 AUD
 - [Pink Creamy Matte Lipstick Passion - Long Wearing](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-passion): Mellow Creamy Matte Lipsticks are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Passion is a Pink matte lipstick. Cruelty-free, paraben-free, Vegan!
-  Updated: 2026-01-03T09:54:04Z
+  Updated: 2026-01-03T21:54:12Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
@@ -335,15 +335,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/IbizaNewDarkLip_ceb152fd-0e2f-4a45-957f-a2b457cf378f.jpg?v=1711975531
   Price: $24.00 AUD
-- [Liquid Lip Paint - London](https://mellowcosmetics.com.au/products/liquid-lip-paint-london): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2026-01-01T12:29:37Z
+- [Berry Pink Matte Lip Paint London - Long Wearing](https://mellowcosmetics.com.au/products/liquid-lip-paint-london): Mellow Matte Lip Paints are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. London is a Berry Pink matte lip paint. Cruelty-free, paraben-free, vegan!
+  Updated: 2026-01-03T12:42:22Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/London-600x600_c877d326-bb3e-4df8-afcf-e93ea8466060.jpg?v=1745042971
   Price: $24.00 AUD
-- [Liquid Lip Paint - Milan](https://mellowcosmetics.com.au/products/liquid-lip-paint-milan): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2026-01-01T12:29:37Z
+- [Rose Pink Matte Lip Paint Milan - Long Wearing](https://mellowcosmetics.com.au/products/liquid-lip-paint-milan): Mellow Matte Lip Paints are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Milan is a Rose Pink matte lip paint. Cruelty-free, paraben-free, vegan!
+  Updated: 2026-01-03T13:04:46Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -356,8 +356,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/New-York-Lip-600x600_31f2e920-a56c-4afb-acb1-88c7908a677a.jpg?v=1569421655
   Price: $24.00 AUD
-- [Liquid Lip Paint - Paris](https://mellowcosmetics.com.au/products/liquid-lip-paint-paris): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2026-01-01T12:29:38Z
+- [Red Matte Lip Paint Paris- Long Wearing](https://mellowcosmetics.com.au/products/liquid-lip-paint-paris): Mellow Matte Lip Paints are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Paris is a Red matte lip paint. Cruelty-free, paraben-free, vegan!
+  Updated: 2026-01-03T12:21:13Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -370,8 +370,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/Puerto-Rico-Lip-Swatch-x1080-600x600_de128452-f946-40f9-9050-eabd10847b6d.jpg?v=1626065617
   Price: $24.00 AUD
-- [Liquid Lip Paint - Rome](https://mellowcosmetics.com.au/products/liquid-lip-paint-rome): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2026-01-01T12:30:21Z
+- [Baby Pink Matte Lip Paint Rome - Long Wearing](https://mellowcosmetics.com.au/products/liquid-lip-paint-rome): Mellow Matte Lip Paints are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Rome is a Baby Pink matte lip paint. Cruelty-free, paraben-free, vegan!
+  Updated: 2026-01-03T12:17:07Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -398,15 +398,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/1_a6b773e9-e963-4cae-bd8d-c7a3aa9c84c0.png?v=1613532446
   Price: $25.00 AUD
-- [Liquid Lip Paint - Mykonos](https://mellowcosmetics.com.au/products/liquid-lip-paint-mykonos): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Mykonos - a sexy, vibrant red matte liquid lip paint Our exciting collaboration with mega babe and influencer Pia Muehlenbeck is inspired by some of the world's most famous sunsets. This is the shade Mykonos from the 3 shades we launched in collaboration with Pia. Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2026-01-01T12:30:21Z
+- [Bright Red Matte Lip Paint Mykonos - Long Wearing](https://mellowcosmetics.com.au/products/liquid-lip-paint-mykonos): Mellow Matte Lip Paints are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Mykonos is a Bright Red matte lip paint. Cruelty-free, paraben-free, vegan!
+  Updated: 2026-01-03T12:33:24Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/MYKONOS.jpg?v=1737125834
   Price: $24.00 AUD
-- [Liquid Lip Paint - Capri](https://mellowcosmetics.com.au/products/liquid-lip-paint-capri): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Capri - a glamorous dark burgundy matte liquid lip paint Our exciting collaboration with mega babe and influencer Pia Muehlenbeck is inspired by some of the world's most famous sunsets. This is the shade Capri from the 3 shades we launched in collaboration with Pia. Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2026-01-01T12:29:37Z
+- [Dark Red Matte Lip Paint Capri- Long Wearing](https://mellowcosmetics.com.au/products/liquid-lip-paint-capri): Mellow Matte Lip Paints are long-wearing & highly pigmented. Enriched with Vitamin E to provide a non-drying matte finish. Formula glides on smoothly, leaving a velvety, moisturizing look. Capri is a Dark Red matte lip paint. Cruelty-free, paraben-free, vegan!
+  Updated: 2026-01-03T12:27:50Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -511,7 +511,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/TAHITIedit.jpg?v=1596168754
   Price: $24.00 AUD
 - [Glamorous makeup bundle > Mellow Muse Bundle](https://mellowcosmetics.com.au/products/mellow-muse-bundle): Glamorous makeup bundle. Includes: makeup essentials: Glitter Eyeshadow, Liquid Lip Paint, Lip Pencil, Pink Blush, Eyeshadow Quad. This makeup bundle is the perfect gift for any makeup lover!
-  Updated: 2026-01-01T12:29:37Z
+  Updated: 2026-01-03T13:03:39Z
   Vendor: Mellow Cosmetics
   Product Type: makeup
   Availability: Available
