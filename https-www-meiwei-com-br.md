@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-04T12:01:22.227Z
+- Updated At: 2026-01-04T16:01:10.286Z
 
 ## Products
 
@@ -659,7 +659,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/0db2c49752458b906a47581faeb8bbf5.jpg?v=1668624001
   Price: R$ 157,00 BRL
 - [Molho de ostra Tailandês - Maekrua 600ml](https://www.meiwei.com.br/products/molho-de-ostra-tailandes-maekrua-600ml): O molho de ostra é típico da culinária oriental e pode ser utilizado em diferentes pratos e receitas, como em frangos, carnes, peixes, vegetais, massas, cogumelos, arroz, sopas, frutos do mar, entre outros. Pode ser utilizado para marinar, temperar, como base para molhos. INGREDIENTES: Extrato de ostra, molho de feijão de soja (soja, farinha e sal), água, açúcar, sal (sal iodado), amido modificado, amido de milho, latona delta de glucono, regulador de acidez (E575), benzoato de sódio, conservante (E211). CONTÉM GLÚTEN. INFORMAÇÃO NUTRICIONAL Porção de 100ml Quantidade por Porção Valor Energético 280 Kj Gorduras Totais 0 g Carboidratos 16 g Fibras 0 g Proteínas 0,7 g Sódio 7,6 g *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia
-  Updated: 2025-12-20T10:25:11Z
+  Updated: 2026-01-04T15:36:11Z
   Vendor: MaeKrua
   Product Type: Molho de Ostra
   Availability: Available
@@ -911,7 +911,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/192.jpg?v=1670440942
   Price: R$ 33,23 BRL
 - [Vinagre preto de arroz (Zhenjiang) - HengShun 500ml](https://www.meiwei.com.br/products/vinagre-preto-chines-de-arroz-500ml-zhenjiang): Vinagre preto chinês a base de arroz, típico do sul da china. Também conhecido como Zhenjiang Vinegar ou Chinkiang, leva o nome da cidade de Zhenjiang, na província de Jiangsu. Possui uma colocaração escura, e sabor característico levemente adocicado. É tipicamente utilizado na culinária chinesa para marinadas e como base para sopas. INGREDIENTES: Água, arroz glutinoso, farelo de trigo, cevada, sal, açúcar branco. CONTÉM GLÚTEN ALÉRGICOS CONTÉM CEVADA E TRIGO. Manter em local seco e arejado. Origem: China
-  Updated: 2026-01-02T18:55:22Z
+  Updated: 2026-01-04T15:36:11Z
   Vendor: HengShun
   Product Type: Vinagre
   Availability: Available
@@ -1202,7 +1202,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pegador-salada.jpg?v=1695748659
   Price: R$ 32,90 BRL
 - [Pimenta Chilli Crispy - Lao Gan Ma 210g](https://www.meiwei.com.br/products/pimenta-lao-gan-ma-chilli-crispy-210g): Transforme suas refeições em um espetáculo de sabores com a Pimenta Lao Gan Ma Chilli Crispy. Uma explosão crocante de picância que vai conquistar seu paladar. Torne seus pratos extraordinários, adicionando a magia do crocante e o calor irresistível desta pimenta única. Adquira a Pimenta Lao Gan Ma Chilli Crispy agora e descubra como elevar sua culinária a um novo patamar. Seja ousado e faça da sua cozinha um palco para experiências memoráveis. Não perca tempo, garanta o seu toque de ousadia e crocância hoje mesmo! Pimenta Chilli Crispy, é utilizado como molho para bolinhos, ou como base de molho para macarrão, arroz ou verduras fritas. Utilizado também para mergulhar petiscos e frituras. INGREDIENTES: Óleo de soja, pimenta, cebola, amendoim, glutamato monossódico, pó de cinza espinhosa, açúcar, sal, dióxido de enxofre, sulfito de sódio. NÃO CONTÉM GLÚTEN CONTÉM DERIVADOS DE TRIGO, SOJA E AMENDOIM NÃO CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 60g Quantidade por Porção %VD(*) Valor Energético 422 Kcal Carboidratos 6 g 2% Proteínas 4 g 1% Gorduras Totais 41 g 63% Gorduras Saturadas 4 g 20% Gorduras Trans 0 g ** Fibras 5 g 20% Sódio 550 mg 23% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local fresco e seco, após aberto conservar sob refrigeração Origem: China Contém 210g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
-  Updated: 2025-12-29T20:16:20Z
+  Updated: 2026-01-04T15:36:11Z
   Vendor: Lao Gan Ma
   Product Type: Molho de Pimenta
   Availability: Available
@@ -2770,7 +2770,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/1cafec626bbb8cc962ad35ae97e90991.jpg?v=1693426428
   Price: R$ 73,90 BRL
 - [Vinagre de arroz de Taiwan (Rice Vinegar) - Kong Yen 600ml](https://www.meiwei.com.br/products/vinagre-de-arroz-rice-vinegar-taiwan-600ml): Vinagre de arroz, produzido em Taiwan, é um ingrediente essencial para dar um toque autêntico à culinária asiática. Com sabor suave e levemente adocicado, é ideal para preparar pratos como sushi, marinadas, molhos e saladas. Sua qualidade premium e fermentação natural garantem um tempero equilibrado, perfeito para realçar o sabor dos alimentos. Versátil e saudável, é uma escolha indispensável para trazer tradição e sabor às suas receitas. INGREDIENTES: Água, arroz. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Taiwan
-  Updated: 2025-12-23T17:34:23Z
+  Updated: 2026-01-04T13:38:00Z
   Vendor: Kong Yen
   Product Type: Vinagre
   Availability: Available
@@ -8622,7 +8622,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/acucar-mulheres.jpg?v=1740146296
   Price: R$ 39,99 BRL
 - [Raiz de Kudzu em pó (Puerarin powder) - Shi Guan Shi Pin 500g](https://www.meiwei.com.br/products/raiz-de-kudzu-em-po-puerarin-powder-shi-guan-shi-pin-500g): O pó de puerarin é um extrato concentrado derivado da raiz de Kudzu (Pueraria lobata), rico no composto ativo puerarina. Tradicionalmente utilizado na medicina asiática, ele é estudado por seus possíveis benefícios para a circulação sanguínea, equilíbrio hormonal e saúde cardiovascular. Além disso, é conhecido por suas propriedades antioxidantes e por auxiliar no bem-estar feminino. Pode ser consumido dissolvido em água morna ou adicionado a suplementos e bebidas funcionais. INGREDIENTES: Raiz de Pueraria, amido. INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1527kJ 18 Proteínas 0,6g 1 Gorduras Totais 0g 0 Carboidratos 89,2g 30 Sódio 0mg 0 Manter em local seco e arejado. Origem: China Contém 500g
-  Updated: 2025-12-24T10:43:03Z
+  Updated: 2026-01-04T13:38:00Z
   Vendor: Shi Guan Shi Pin
   Product Type: Farinha
   Availability: Available
@@ -14439,35 +14439,35 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pescoco-de-pato-doce-e-picante-jiu-jiu-y-110g.png?v=1767453647
   Price: R$ 94,99 BRL
 - [Clavícula de Pato Sabor Pato Preto Zhou Xiaojian 70g - 周小贱](https://www.meiwei.com.br/products/clavicula-de-pato-sabor-pato-preto-zhou-xiaojian-70g): A Clavícula de Pato Sabor Pato Preto Zhou Xiaojian 周小贱 70g é um snack chinês à base de ossos de clavícula de pato, cobertos por um molho avermelhado brilhante, de sabor intenso e levemente picante. A embalagem azul com detalhes em preto e dourado destaca pedaços generosos de carne e osso, sugerindo textura firme e bem mastigável, com muito umami. É um petisco pronto para consumo, ideal para acompanhar bebidas, montar tábuas de petiscos orientais ou complementar refeições à base de arroz e noodles. A embalagem tipo pouch é prática para levar na bolsa ou mochila. Lista de ingredientes Clavícula de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Clavícula de pato sabor pato preto como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de clavícula de pato de sabor intenso para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir os pedaços em um prato ou tábua, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Não expor a altas temperaturas por longos períodos. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para um recipiente limpo e bem fechado, mantendo sob refrigeração e consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-04T00:11:42Z
+  Updated: 2026-01-04T12:55:11Z
   Vendor: Zhou Xiaojian 周小贱
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/clavicula-de-pato-sabor-pato-preto-zhou-xiaojian-zhou-xiao-jian-70g.png?v=1767484495
   Price: R$ 49,99 BRL
 - [Asa de Pato Seca Picante Zhouxiaojian 52g - 周小贱 凤干鸭翅中](https://www.meiwei.com.br/products/asa-de-pato-seca-picante-zhouxiaojian-52g): A Asa de Pato Seca Picante Zhouxiaojian 周小贱 凤干鸭翅中 52g é um snack típico chinês à base de meio da asa de pato (翅中), preparado em estilo seco, coberto por um molho vermelho brilhante de sabor intenso e picante. A embalagem preta e branca em estilo “explosão” destaca as asas bem glaceadas, sugerindo textura firme, mastigável e cheia de umami. É um petisco pronto para consumo, ideal para acompanhar bebidas, montar tábuas de petiscos orientais ou complementar refeições à base de arroz branco e noodles. A embalagem tipo pouch é prática para levar na bolsa/mochila e consumir em qualquer momento do dia. Lista de ingredientes Asa de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Asa de pato seca picante como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de asa de pato seca picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as asas em um prato ou tábua, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho da asa. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Não expor a altas temperaturas por longos períodos. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para recipiente limpo e bem fechado, mantendo sob refrigeração e consumindo preferencialmente em até 1–2 dias. Não consumir se a embalagem estiver violada, estufada ou com odor/coloração fora do padrão.
-  Updated: 2026-01-04T00:41:37Z
+  Updated: 2026-01-04T12:36:59Z
   Vendor: Zhou Xiaojian 周小贱
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-asa-de-pato-seca-picante-zhouxiaojian-feng-gan-ya-chizhong-52g.png?v=1767486526
   Price: R$ 49,99 BRL
 - [Língua de Pato Doce e Apimentada Bestore 40g - 良品铺子](https://www.meiwei.com.br/products/lingua-de-pato-doce-e-apimentada-bestore-40g): A Língua de Pato Doce e Apimentada Bestore 良品铺子 40g é um snack típico da culinária chinesa, preparado com línguas de pato cozidas e envolvidas em um molho vermelho brilhante que combina dulçor e picância. A embalagem rosa destaca as línguas de pato bem glaceadas, sugerindo textura firme, mastigável e cheia de umami. É um petisco pronto para consumo, ideal para acompanhar bebidas, montar tábuas de petiscos orientais ou complementar refeições à base de arroz branco e noodles. A embalagem tipo pouch é prática para levar na bolsa/mochila e consumir em qualquer momento do dia. Lista de ingredientes Língua de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Língua de pato doce e apimentada como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de língua de pato doce e apimentada para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as línguas de pato em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Não expor a altas temperaturas por longos períodos. Após aberto, consumir em curto prazo. Se não consumir tudo de uma vez, transferir o conteúdo restante para um recipiente limpo e bem fechado, conservar sob refrigeração e consumir em até 24–48 horas.
-  Updated: 2026-01-04T01:01:34Z
+  Updated: 2026-01-04T12:52:32Z
   Vendor: Bestore 良品铺子
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/SALCH165.png?v=1767487821
   Price: R$ 78,99 BRL
 - [Língua de Pato Wenzhou ao Molho de Soja Bestore 40g - 良品铺子](https://www.meiwei.com.br/products/lingua-de-pato-wenzhou-ao-molho-de-soja-bestore-40g): A Língua de Pato Wenzhou ao Molho de Soja Bestore 良品铺子 40g é um snack típico da culinária chinesa, preparado com línguas de pato macias, cozidas e marinadas em um molho de soja aromático, no estilo tradicional de Wenzhou. A embalagem em tom rosado/terroso mostra as línguas de pato bem glaceadas, em tom vermelho‑âmbar, sugerindo textura firme, mastigável e cheia de umami. É um petisco pronto para consumo, ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou complementar refeições à base de arroz branco e noodles. A proposta é de um snack com aroma intenso de molho de soja, leve dulçor e bastante sabor de pato, no estilo de lanchinhos chineses de conveniência. Lista de ingredientes Língua de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Língua de pato Wenzhou ao molho de soja como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de língua de pato ao molho de soja para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as línguas de pato em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Não expor a altas temperaturas por longos períodos. Após aberto, consumir em curto prazo. Se não consumir tudo de uma vez, transferir o conteúdo restante para um recipiente limpo e bem fechado, conservar sob refrigeração e consumir em até 24–48.
-  Updated: 2026-01-04T01:17:04Z
+  Updated: 2026-01-04T13:12:46Z
   Vendor: Bestore 良品铺子
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lingua-de-pato-wenzhou-ao-molho-de-soja-bestore-40g.png?v=1767489201
   Price: R$ 78,99 BRL
 - [Cabeça de Pato Picante Xian Lu Gong She 300g -  现卤公社 干锅鸭头](https://www.meiwei.com.br/products/cabeca-de-pato-picante-xian-lu-gong-she-300g): A Cabeça de Pato Picante Xian Lu Gong She 现卤公社 干锅鸭头 300g é um snack típico chinês preparado com cabeças de pato inteiras, cozidas e envolvidas em um molho vermelho brilhante em estilo “panela seca” (干锅), com bastante aroma de especiarias e picância moderada. A embalagem em tom cobre, com fundo que lembra madeira escura e pimentas vermelhas secas, destaca três cabeças de pato bem glaceadas, sugerindo textura firme, mastigável e intensa em umami. É um petisco ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou complementar refeições à base de arroz branco e noodles. A proposta é de um snack de sabor marcante, com bastante molho e especiarias, no estilo típico de lanchinhos chineses de conveniência. Lista de ingredientes Cabeça de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Cabeça de pato picante estilo panela seca como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de cabeça de pato picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as cabeças de pato em um prato ou tábua, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, aproveitando o molho concentrado do produto. Toque extra de frescor: finalizar com cebolinha picada, coentro e gergelim torrado para equilibrar a gordura e a picância. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberta, consumir imediatamente ou armazenar sob refrigeração e consumir em curto prazo, conforme orientação do rótulo oficial. Não consumir o produto se a embalagem estiver danificada, estufada ou com sinais de violação.
-  Updated: 2026-01-04T01:33:09Z
+  Updated: 2026-01-04T13:25:49Z
   Vendor: Xian Lu Gong She 现卤公社
   Product Type: Aperitivo
   Availability: Available
@@ -14494,17 +14494,31 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lingua-de-pato-doce-e-picante-jiu-jiu-ya-_-70g.png?v=1767527151
   Price: R$ 118,99 BRL
+- [Língua de Pato ao Molho de Soja Bibizan 32g - 鸭舌酱香味](https://www.meiwei.com.br/products/lingua-de-pato-ao-molho-de-soja-bibizan-32g): Descubra o autêntico sabor oriental com a Língua de Pato ao Molho de Soja Bibizan (鸭舌酱香味). Importada da China, essa iguaria é perfeita para quem busca experiências gastronômicas diferenciadas, combinando tradição e qualidade. Ideal como petisco, acompanhamento ou ingrediente em receitas criativas. Lista de ingredientes Língua de pato, água, molho de soja (soja, trigo, sal), açúcar, sal, especiarias (anis estrelado, pimenta, gengibre, alho), realçador de sabor (glutamato monossódico), conservantes (E202, E211). Tabela nutricional (porção de 32g) Informação Nutricional Porção de 32g %VD* Valor energético 100 kcal 5% Carboidratos 2,0 g 1% Proteínas 7,0 g 9% Gorduras totais 6,0 g 11% Gorduras saturadas 2,0 g 9% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 500 mg 21% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Salada Oriental com Língua de Pato Ingredientes: 1 embalagem de Língua de Pato ao Molho de Soja Bibizan (32g) 1 pepino japonês em tiras finas 1 cenoura ralada Folhas de coentro a gosto 1 colher (sopa) de óleo de gergelim 1 colher (sopa) de molho de soja Gergelim torrado para finalizar Modo de preparo: Corte a língua de pato em tiras. Misture com o pepino, cenoura e coentro. Tempere com óleo de gergelim e molho de soja. Finalize com gergelim torrado e sirva como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-01-04T14:11:51Z
+  Vendor: Jiu Jiu Ya 久久丫
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-duck-tongue-soy-flavor-bibizan-ya-she-jiang-xiang-wei.png?v=1767535378
+  Price: R$ 74,99 BRL
+- [Stinky Tofu Picante Aroma Marcante Lao Changsha 88g - 老长沙臭豆腐 香辣味](https://www.meiwei.com.br/products/stinky-tofu-picante-aroma-marcante-lao-changsha-88g): Experimente o autêntico Stinky Tofu Picante Lao Changsha (老长沙臭豆腐 香辣味), um clássico da culinária de rua chinesa agora disponível para você! Este tofu fermentado, famoso pelo aroma marcante e sabor intenso, é preparado com especiarias selecionadas e pimenta, proporcionando uma experiência única para quem aprecia sabores exóticos e tradicionais. Ideal para petiscar, servir como entrada ou incrementar receitas orientais. Lista de ingredientes Tofu (soja, água, coagulante), óleo vegetal, molho de soja (soja, trigo, sal), açúcar, sal, pimenta, especiarias, realçador de sabor (glutamato monossódico), conservantes (E202, E211). Tabela nutricional (porção de 88g) Informação Nutricional Porção de 88g %VD* Valor energético 188 kcal 9% Carboidratos 7,6 g 3% Proteínas 8,8 g 12% Gorduras totais 13,2 g 24% Gorduras saturadas 2,2 g 10% Gorduras trans 0 g -- Fibra alimentar 0,8 g 3% Sódio 1.588 mg 66% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Stinky Tofu Picante com Legumes Salteados Ingredientes: 1 embalagem de Stinky Tofu Picante Lao Changsha (88g) 1 cenoura em tiras finas 1 pimentão vermelho em tiras 1 cebola roxa em fatias 1 colher (sopa) de óleo de gergelim Cebolinha picada a gosto Modo de preparo: Corte o stinky tofu em cubos. Em uma frigideira, aqueça o óleo de gergelim e refogue a cebola, cenoura e pimentão até ficarem macios. Adicione o stinky tofu e salteie por 2-3 minutos. Finalize com cebolinha picada e sirva como acompanhamento ou prato principal. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-01-04T14:27:21Z
+  Vendor: Lao Changsha
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-stinky-tofu-xianglawi-lao-changsha-chou-doufu.png?v=1767536395
+  Price: R$ 39,99 BRL
 
 ## Collections
 
 - [Molho de Pimenta](https://www.meiwei.com.br/collections/molho-de-pimenta)
-  Updated: 2026-01-04T10:23:55Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 115
 - [Produtos Vegetarianos](https://www.meiwei.com.br/collections/produtos-vegetarianos)
   Updated: 2025-12-23T17:56:31Z
   Total Products: 6
 - [Leite](https://www.meiwei.com.br/collections/leite)
-  Updated: 2025-12-24T10:23:38Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 34
 - [Soju](https://www.meiwei.com.br/collections/soju)
   Updated: 2025-12-23T17:58:58Z
@@ -14519,7 +14533,7 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 297
 - [Conserva](https://www.meiwei.com.br/collections/conserva)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 241
 - [Ameixa em Conserva - Umeboshi](https://www.meiwei.com.br/collections/ameixa-em-conserva)
   Updated: 2025-12-23T17:58:50Z
@@ -14528,19 +14542,19 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-04T11:51:16Z
-  Total Products: 1520
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 1522
 - [Molho](https://www.meiwei.com.br/collections/molho)
-  Updated: 2026-01-04T10:55:48Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 544
 - [Molho de Ostra](https://www.meiwei.com.br/collections/molho-de-ostra)
-  Updated: 2025-12-30T10:52:47Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 63
 - [Outro Molho](https://www.meiwei.com.br/collections/outro-molho)
   Updated: 2026-01-04T10:55:48Z
   Total Products: 243
 - [Massa](https://www.meiwei.com.br/collections/massa)
-  Updated: 2026-01-04T10:56:10Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 193
 - [Massa de Arroz](https://www.meiwei.com.br/collections/massa-de-arroz)
   Updated: 2025-12-29T10:29:44Z
@@ -14555,13 +14569,13 @@
   Updated: 2025-12-25T12:03:14Z
   Total Products: 19
 - [Doce](https://www.meiwei.com.br/collections/doce)
-  Updated: 2026-01-04T10:55:44Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 700
 - [Bala](https://www.meiwei.com.br/collections/bala)
   Updated: 2026-01-04T10:54:17Z
   Total Products: 305
 - [Molho Vegetariano](https://www.meiwei.com.br/collections/molho-de-pimenta-vegetariano)
-  Updated: 2025-12-27T12:04:02Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 12
 - [Descartável](https://www.meiwei.com.br/collections/descartavel)
   Updated: 2025-12-23T17:58:39Z
@@ -14573,25 +14587,25 @@
   Updated: 2025-12-23T17:58:42Z
   Total Products: 9
 - [Tempero para Aves](https://www.meiwei.com.br/collections/tempero-para-frango)
-  Updated: 2026-01-02T10:01:02Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 159
 - [Farinha & Grão](https://www.meiwei.com.br/collections/farinha-grao)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 132
 - [Farinha](https://www.meiwei.com.br/collections/farinha)
-  Updated: 2026-01-01T22:58:49Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 99
 - [Arroz](https://www.meiwei.com.br/collections/arroz)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 22
 - [Shoyu - Molho de Soja](https://www.meiwei.com.br/collections/shoyu-molho-de-soja)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 161
 - [Alga](https://www.meiwei.com.br/collections/alga)
-  Updated: 2025-12-23T17:58:48Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 43
 - [Desidratado](https://www.meiwei.com.br/collections/desidratado)
-  Updated: 2025-12-29T12:02:25Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 306
 - [Óleo de Cozinha](https://www.meiwei.com.br/collections/oleo-de-cozinha)
   Updated: 2025-12-06T16:08:11Z
@@ -14606,7 +14620,7 @@
   Updated: 2026-01-04T10:14:41Z
   Total Products: 55
 - [Cogumelo](https://www.meiwei.com.br/collections/cogumelo)
-  Updated: 2025-12-28T14:56:25Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 76
 - [Gergelim](https://www.meiwei.com.br/collections/gergelim)
   Updated: 2025-12-23T17:58:52Z
@@ -14618,10 +14632,10 @@
   Updated: 2025-12-06T16:08:12Z
   Total Products: 0
 - [Suco](https://www.meiwei.com.br/collections/suco)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 60
 - [Bebida Não Alcóolica](https://www.meiwei.com.br/collections/bebida-nao-alcoolica)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 370
 - [Bebida Não Alcóolica Vegetariana](https://www.meiwei.com.br/collections/bebida-nao-alcoolica-vegetariana)
   Updated: 2025-12-06T16:08:12Z
@@ -14642,7 +14656,7 @@
   Updated: 2025-12-23T17:54:23Z
   Total Products: 2
 - [Produtos Sem Glúten](https://www.meiwei.com.br/collections/produtos-sem-gluten)
-  Updated: 2026-01-04T10:56:10Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 240
 - [Conserva Sem Glúten](https://www.meiwei.com.br/collections/conserva-sem-gluten)
   Updated: 2025-12-23T17:58:22Z
@@ -14663,16 +14677,16 @@
   Updated: 2025-12-06T16:08:13Z
   Total Products: 0
 - [Massa Sem Glúten](https://www.meiwei.com.br/collections/massa-sem-gluten)
-  Updated: 2026-01-04T10:56:10Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 240
 - [Molho Sem Glúten](https://www.meiwei.com.br/collections/molho-1)
-  Updated: 2025-12-23T17:59:00Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 40
 - [Yakissoba](https://www.meiwei.com.br/collections/yakissoba)
-  Updated: 2026-01-04T10:56:10Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 200
 - [Lamen](https://www.meiwei.com.br/collections/lamen)
-  Updated: 2025-12-23T17:51:23Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 35
 - [Dangmyeon](https://www.meiwei.com.br/collections/dangmyeon)
   Updated: 2025-12-28T15:43:50Z
@@ -14699,7 +14713,7 @@
   Updated: 2025-12-06T16:08:13Z
   Total Products: 0
 - [Tempero Apimentado](https://www.meiwei.com.br/collections/tempero-apimentado)
-  Updated: 2025-12-31T10:17:25Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 175
 - [Curry](https://www.meiwei.com.br/collections/curry)
   Updated: 2026-01-03T12:02:46Z
@@ -14708,10 +14722,10 @@
   Updated: 2026-01-02T10:01:02Z
   Total Products: 98
 - [Tempero para Carne](https://www.meiwei.com.br/collections/tempero-para-carne)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 148
 - [Tempero para Porco](https://www.meiwei.com.br/collections/tempero-para-porco)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 137
 - [Especiaria](https://www.meiwei.com.br/collections/especiaria)
   Updated: 2025-12-23T17:57:02Z
@@ -14726,7 +14740,7 @@
   Updated: 2025-12-23T17:57:00Z
   Total Products: 9
 - [Tempero para Peixe e Fruto do Mar](https://www.meiwei.com.br/collections/tempero-para-peixe-e-fruto-do-mar)
-  Updated: 2025-12-30T12:02:37Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 136
 - [Wasabi](https://www.meiwei.com.br/collections/wasabi)
   Updated: 2025-12-23T17:57:43Z
@@ -14747,13 +14761,13 @@
   Updated: 2025-12-06T16:08:14Z
   Total Products: 0
 - [Harussame](https://www.meiwei.com.br/collections/harussame)
-  Updated: 2026-01-04T10:56:10Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 5
 - [Macarrão de Batata Doce](https://www.meiwei.com.br/collections/macarrao-de-batata-doce)
   Updated: 2025-12-28T15:43:50Z
   Total Products: 17
 - [Macarrão de Trigo](https://www.meiwei.com.br/collections/macarrao-de-trigo)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 64
 - [Macarrão Yakisoba](https://www.meiwei.com.br/collections/macarrao-yakisoba)
   Updated: 2025-12-29T12:02:25Z
@@ -14771,20 +14785,20 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-04T11:51:16Z
-  Total Products: 2243
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 2245
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
   Total Products: 3
 - [Conserva de Vegetais](https://www.meiwei.com.br/collections/conserva-de-vegetais)
-  Updated: 2026-01-02T21:52:05Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 125
 - [Congelado](https://www.meiwei.com.br/collections/congelado)
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-01-04T11:51:16Z
-  Total Products: 814
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 816
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
   Updated: 2025-12-31T12:02:57Z
   Total Products: 37
@@ -14795,32 +14809,35 @@
   Updated: 2026-01-03T10:32:10Z
   Total Products: 17
 - [Bebida](https://www.meiwei.com.br/collections/bebida)
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 458
 - [Licor](https://www.meiwei.com.br/collections/licor)
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-04T11:51:16Z
-  Total Products: 3699
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 3701
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
-  Updated: 2026-01-04T11:51:16Z
+  Updated: 2026-01-04T14:06:39Z
   Total Products: 638
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-04T11:47:37Z
-  Total Products: 3063
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 3065
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-04T11:51:16Z
-  Total Products: 3699
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 3701
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-01-04T11:51:17Z
-  Total Products: 2066
+  Updated: 2026-01-04T14:27:20Z
+  Total Products: 2068
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
-  Updated: 2026-01-04T10:56:10Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 103
 - [Promoção (特惠促销）](https://www.meiwei.com.br/collections/promocao): Mei Wei: ofertas especiais em molhos, temperos e snacks asiáticos autênticos. Promoções exclusivas com entrega para todo o Brasil. Confira!
-  Updated: 2026-01-03T12:02:46Z
+  Updated: 2026-01-04T12:03:30Z
   Total Products: 9
+- [Lee Kum Kee](https://www.meiwei.com.br/collections/lee-kum-kee)
+  Updated: 2026-01-04T14:15:03Z
+  Total Products: 71
 
 ## Blogs
 
@@ -15053,6 +15070,10 @@
     Updated: 2025-12-05T04:13:08Z
     Author: Nathalia Leote
     Tags: chá, cultura, curiosidade, saúde, tradição
+- [News](https://www.meiwei.com.br/blogs/news)
+  - [Produtos asiáticos – novidades | Mei Wei](https://www.meiwei.com.br/blogs/news/guia-pratico-de-produtos-asiaticos-para-lojas-online): Produtos asiáticos – novidades | Mei Wei
+    Updated: 2026-01-04T13:00:02Z
+    Author: Mei Wei
 
 ## Store Pages
 
