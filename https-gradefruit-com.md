@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2025-12-29T00:00:32.917Z
+- Updated At: 2026-01-04T00:00:34.735Z
 
 ## Products
 
@@ -433,7 +433,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Vintage Film – Authentic, Nostalgic Film Look](https://gradefruit.com/products/vintage-film): Infuse your footage with the faded colors aged vintage film stock, creating an authentic, nostalgic atmosphere.
-  Updated: 2025-11-06T11:30:49Z
+  Updated: 2025-12-31T23:41:11Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
