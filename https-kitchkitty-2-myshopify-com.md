@@ -6,92 +6,92 @@
 - Timezone: America/Denver
 - Created At: 2025-12-18T13:49:41Z
 - Contact Email: kitchkittyslc@gmail.com
-- Updated At: 2026-01-01T00:00:22.729Z
+- Updated At: 2026-01-04T00:00:28.674Z
 
 ## Products
 
 - [Canvas Diaper Bag Travel Backpack](https://kitchkitty-2.myshopify.com/products/canvas-diaper-bag-travel-backpack): the ultimate in diaper backpack convenience with our Canvas Diaper Backpack Shorts. Stylish, functional, and gender-neutral, this bag is crafted with premium materials, including vegan leather accents. Its ergonomic design, breathable straps, and stroller compatibility make it perfect for on-the-go parents. With 15 pockets, including insulated bottle holders and a laptop compartment, it's the ideal travel companion. Choose from four trendy colors. Lightweight at just 2 pounds, this backpack ensures comfort and ease for every adventure. Stylish & Functional Design 15 Pockets, Insulated Bottle Holders Lightweight & Stroller-Read 16.5x6.3x11 inches
-  Updated: 2025-12-25T20:42:35Z
+  Updated: 2026-01-01T11:41:47Z
   Vendor: KitchKitty Apparel and More
   Product Type: Diaper Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/data_dfe1197f-60e1-4c45-ab0a-79145a6a8eec.jpg?v=1766083957
   - [navy](https://kitchkitty-2.myshopify.com/products/canvas-diaper-bag-travel-backpack?variant=43990380380271)
     Availability: Not Available
-    Price: $59.99 USD
+    Price: $75.00 USD
   - [pink](https://kitchkitty-2.myshopify.com/products/canvas-diaper-bag-travel-backpack?variant=43990380413039)
     Availability: Available
-    Price: $59.99 USD
+    Price: $75.00 USD
   - [brown](https://kitchkitty-2.myshopify.com/products/canvas-diaper-bag-travel-backpack?variant=43990380445807)
     Availability: Available
-    Price: $59.99 USD
+    Price: $75.00 USD
   - [gray](https://kitchkitty-2.myshopify.com/products/canvas-diaper-bag-travel-backpack?variant=43990380478575)
     Availability: Available
-    Price: $59.99 USD
+    Price: $75.00 USD
 - [The Trumps - Heart - Alice's Adventure in Wonderland - Infant Bodysuit](https://kitchkitty-2.myshopify.com/products/the-trumps-heart-alices-adventure-in-wonderland-infant-bodysuit): Ready to take your little one down the rabbit hole to visit the wonderland! åÊThe Trumps areåÊready foråÊyou guys!I cut out felt pieces and they are appliqu̩d to the bodysuit. This infant bodysuit is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
-  Updated: 2025-12-25T20:42:35Z
+  Updated: 2026-01-01T11:41:28Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/Trump-man-red-bodysuit.jpg?v=1766084092
   - [Newborn](https://kitchkitty-2.myshopify.com/products/the-trumps-heart-alices-adventure-in-wonderland-infant-bodysuit?variant=43990383198319)
     Availability: Available
-    Price: $25.20 USD
+    Price: $37.00 USD
   - [12m](https://kitchkitty-2.myshopify.com/products/the-trumps-heart-alices-adventure-in-wonderland-infant-bodysuit?variant=43990383231087)
     Availability: Available
-    Price: $25.20 USD
+    Price: $37.00 USD
   - [18m](https://kitchkitty-2.myshopify.com/products/the-trumps-heart-alices-adventure-in-wonderland-infant-bodysuit?variant=43990383263855)
     Availability: Available
-    Price: $25.20 USD
+    Price: $37.00 USD
   - [6m](https://kitchkitty-2.myshopify.com/products/the-trumps-heart-alices-adventure-in-wonderland-infant-bodysuit?variant=43990383296623)
     Availability: Available
-    Price: $25.20 USD
+    Price: $37.00 USD
 - [The Ultimate 88-Piece Baby Shower Gift Set (Newborn to 24 Months) - Girl](https://kitchkitty-2.myshopify.com/products/girl-88-piece-baby-starter-set-box): Be the hero of the baby shower. This isn't just a gift; it's peace of mind in a box. With 88 essential pieces covering everything from Bath Time to Bedtime, you are giving the new mom a complete wardrobe for her little girl's first two years.What's Inside The Ultimate Box?🌙 Sleep & Snuggle EssentialsIncludes cozy Sleep & Plays, Gowns, and Soft Blankets to keep her warm all night.🛁 Bath & Care KitEverything she needs for splash time: Hooded Towels, Washcloths, and Bibs.👕 Everyday WardrobeA massive collection of Bodysuits, T-shirts, Caps, and Mittens for daily outfit changes.📦 The Magic BoxComes in a reusable box with a mattress that can serve as a safe, portable bassinet or keepsake storage.Includes safety publications and brochures for new parents.
-  Updated: 2025-12-26T01:56:49Z
+  Updated: 2026-01-01T11:40:59Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/Girl_399.jpg?v=1766084677
-  Price: $200.00 USD
+  Price: $320.00 USD
 - [Primrose Indigo Cotton Muslin Crib Sheet](https://kitchkitty-2.myshopify.com/products/primrose-indigo-cotton-muslin-crib-sheet): This soft breathable and comfy crib sheet stays cool in the summer and warm in the winter and gets softer with every wash. Tailored to fit snugly on standard crib mattresses. Sweet dreams for all. Size: 28"x52" (71cm x 132cm) Material: 100% Natural Cotton Muslin
-  Updated: 2025-12-31T19:35:37Z
+  Updated: 2026-01-01T07:35:56Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/SKU716_PRIMROSE_INDIGO_CRIB_SHEET_COTTON_IMAGE3_LR.jpg?v=1766084804
   Price: $12.00 USD
 - [Willie the Music Man - Infant Bodysuit](https://kitchkitty-2.myshopify.com/products/willie-the-music-man-infant-bodysuit): Alice is ready for an adventure and so is your little one! ;) I cut out felt pieces and they are appliqu̩d to the bodysuit. This infant bodysuit is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
-  Updated: 2025-12-25T20:42:36Z
+  Updated: 2026-01-01T11:40:17Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/micielo-willie-1000x1000.jpg?v=1766084869
   - [Newborn](https://kitchkitty-2.myshopify.com/products/willie-the-music-man-infant-bodysuit?variant=43990445457519)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [12m](https://kitchkitty-2.myshopify.com/products/willie-the-music-man-infant-bodysuit?variant=43990445490287)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [18m](https://kitchkitty-2.myshopify.com/products/willie-the-music-man-infant-bodysuit?variant=43990445523055)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [6m](https://kitchkitty-2.myshopify.com/products/willie-the-music-man-infant-bodysuit?variant=43990445555823)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
 - [Houndstooth Diaper Backpack](https://kitchkitty-2.myshopify.com/products/houndstooth-diaper-backpack): Our Houndstooth Diaper Backpack is designed to take your parenting experience to a new level of excellence. Crafted with water-resistant canvas and vegan leather accents, this bag exudes durability and sophistication. The timeless Houndstooth pattern and unisex color combination flatter both men and women. With assorted storage compartments, such as insulated bottle holders, a laptop pocket and convenient organizational pockets, this bag ensures you are prepared for the unexpected. Comfortably wear it as a backpack or attach it to your stroller for unmatched versatility. Complete with a changing pad and luggage strap, this bag is a must-have for hands-free parenting. Redefine parenting with this superior diaper bag solution. Spot clean only. Houndstooth Design Breathable Back Water-resistant Product Size: 14x13x5 Inches
-  Updated: 2025-12-25T20:42:36Z
+  Updated: 2026-01-01T11:39:59Z
   Vendor: KitchKitty Apparel and More
   Product Type: Diaper bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/data_f822f8cf-90fa-44dc-8b0a-9cf9675843b7.jpg?v=1766085611
   - [Black](https://kitchkitty-2.myshopify.com/products/houndstooth-diaper-backpack?variant=43990513909871)
     Availability: Available
-    Price: $48.79 USD
+    Price: $75.00 USD
   - [Khaki](https://kitchkitty-2.myshopify.com/products/houndstooth-diaper-backpack?variant=43990513942639)
     Availability: Available
-    Price: $47.19 USD
+    Price: $75.00 USD
 - [Removable Roof Plush Pet House](https://kitchkitty-2.myshopify.com/products/removable-roof-plush-pet-house): Our Plush Pet House features a removable roof, easy to clean materials, and superior insulation. Each house is designed to provide your pet with a safe and snug place to rest and relax.¬† Specifications: Color: Gray, Brown Material: Plush Fabric Size: S, M, L S:¬†15.35" x 12.59" x 13.38" M:¬†17.32" x 14.17" x 15.35" L:¬†19.29" x 15.34" x 18.11"
-  Updated: 2025-12-31T19:33:02Z
+  Updated: 2026-01-01T07:33:04Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
@@ -121,71 +121,71 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/S7559c87617b24f27a03ca07544e1103df_0d5cb30e-fbd0-4d7e-ad73-9ab205201c88.jpg?v=1766085640
     Price: $46.99 USD
 - [Merry Christmas - M and M's Baby Bodysuit Combo - Red & Green](https://kitchkitty-2.myshopify.com/products/merry-christmas-m-and-ms-baby-bodysuit-combo-red-green): Check out this cutest M&M's combo (red & green)! They will make a perfect gift for the little ones too! :) *This listing is for 2 M&M's baby bodysuits only. No hat is included. All shirts are unique. I cut out 100% recycled felt pieces and they are appliquéd to the shirt. All of our bodysuits and shirts are 100% cotton. This item is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
-  Updated: 2025-12-25T20:42:36Z
+  Updated: 2026-01-01T11:39:19Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/M_M-Xmas_elfhat2.jpg?v=1766085666
   - [NB](https://kitchkitty-2.myshopify.com/products/merry-christmas-m-and-ms-baby-bodysuit-combo-red-green?variant=43990516662383)
     Availability: Available
-    Price: $50.40 USD
+    Price: $75.00 USD
   - [6m](https://kitchkitty-2.myshopify.com/products/merry-christmas-m-and-ms-baby-bodysuit-combo-red-green?variant=43990516695151)
     Availability: Available
-    Price: $50.40 USD
+    Price: $75.00 USD
   - [12m](https://kitchkitty-2.myshopify.com/products/merry-christmas-m-and-ms-baby-bodysuit-combo-red-green?variant=43990516727919)
     Availability: Available
-    Price: $50.40 USD
+    Price: $75.00 USD
   - [18m](https://kitchkitty-2.myshopify.com/products/merry-christmas-m-and-ms-baby-bodysuit-combo-red-green?variant=43990516760687)
     Availability: Available
-    Price: $50.40 USD
+    Price: $75.00 USD
 - [Armadillo T-shirt - We Love Texas!](https://kitchkitty-2.myshopify.com/products/armadillo-t-shirt-we-love-texas): Proud to be made in Austin, Texas! mi cielo is introducing a Texas theme collection! This unique armadillo shirt will make a perfect gift too! :) I cut out felt pieces and they are appliqu̩d to the shirt. This infant bodysuit is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
-  Updated: 2025-12-25T20:42:36Z
+  Updated: 2026-01-01T11:39:02Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/Texas-Armadillo-toddler-1000x1000.jpg?v=1766085723
   - [Heather Gray / 2T](https://kitchkitty-2.myshopify.com/products/armadillo-t-shirt-we-love-texas?variant=43990518366319)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [Heather Gray / 3T](https://kitchkitty-2.myshopify.com/products/armadillo-t-shirt-we-love-texas?variant=43990518399087)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [Heather Gray / 4T](https://kitchkitty-2.myshopify.com/products/armadillo-t-shirt-we-love-texas?variant=43990518431855)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [Heather Gray / 5/6T](https://kitchkitty-2.myshopify.com/products/armadillo-t-shirt-we-love-texas?variant=43990518464623)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [Heather Gray / 18mT](https://kitchkitty-2.myshopify.com/products/armadillo-t-shirt-we-love-texas?variant=43990518497391)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
 - [Alice - Alice's Adventure in Wonderland - Infant Bodysuit](https://kitchkitty-2.myshopify.com/products/alice-alices-adventure-in-wonderland-infant-bodysuit): Alice is ready for an adventure and so is your little one! ;) I cut out felt pieces and they are appliqu̩d to the bodysuit. This infant bodysuit is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
-  Updated: 2025-12-25T20:42:36Z
+  Updated: 2026-01-01T11:38:47Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/Alice-infant.jpg?v=1766085763
   - [6m](https://kitchkitty-2.myshopify.com/products/alice-alices-adventure-in-wonderland-infant-bodysuit?variant=43990521249903)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [12m](https://kitchkitty-2.myshopify.com/products/alice-alices-adventure-in-wonderland-infant-bodysuit?variant=43990521282671)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [Newborn](https://kitchkitty-2.myshopify.com/products/alice-alices-adventure-in-wonderland-infant-bodysuit?variant=43990521315439)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
   - [18m](https://kitchkitty-2.myshopify.com/products/alice-alices-adventure-in-wonderland-infant-bodysuit?variant=43990521348207)
     Availability: Available
-    Price: $26.60 USD
+    Price: $37.00 USD
 - [Newcastle Classics - Nordic Cross Swaddle](https://kitchkitty-2.myshopify.com/products/newcastle-classics-nordic-cross-swaddle): Soft as silk, breathable, pre-washed, muslin swaddle made from our natural bamboo fibers. Use this swaddle as a stroller or nursing cover, changing pad cover, burp cloth, tummy time blanket and more. The breathable fabric helps reduce the risk of overheating while the generous size makes swaddling a breeze. Size: 47" x 47" (120cm x 120cm) Material: 100% Natural Bamboo Muslin
-  Updated: 2025-12-31T19:22:33Z
+  Updated: 2026-01-01T07:22:38Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/1541830537.jpg?v=1766085795
   Price: $18.99 USD
 - [Hot Air Balloon & Pencil Stripe Bamboo Blankie Teether](https://kitchkitty-2.myshopify.com/products/hot-air-balloon-pencil-stripe-bamboo-blankie-teether): The Newcastle Teether is made from our popular 100% Bamboo mini blankies, with a removable beach wood ring for easy cleaning. Wood has natural antibacterial and antimicrobial properties, making wood a superior teether choice. Our teether and blankie combo provides little ones gum relief along with a soothing square to snuggle.
-  Updated: 2025-12-31T19:21:55Z
+  Updated: 2026-01-01T07:22:31Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
@@ -286,7 +286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/Sage_Knotted_Bow_22f6f045-f50c-49a2-a709-c52fc7373fa3.jpg?v=1766085891
     Price: $14.99 USD
 - [Tooth Box Thooy InnovaGoods](https://kitchkitty-2.myshopify.com/products/tooth-box-thooy-innovagoods): If you are passionate about the world of gadgets, InnovaGoods offers you the best and most original new items for the home, car, travel, children, technology, entertainment, etc.! Discover a wide range of high-quality products that stand out thanks to their functionality, efficiency and innovative design, such as the Tooth Box Thooy InnovaGoods! An endearing small box that is ideal for storing a baby's milk teeth, umbilical cord and lanugo. A creative way to store memories from early infancy. Material: Pine Colour: Wood Type of fastening: metal Original design: Modern design Type: Children's Gender: For girls and boys Ornamental: Ideal as a gift Characteristics: Lid with space to write down information about the baby Interior details: Interior with space to put the baby's teeth, umbilical cord and lanugo Easy to use: Convenient and easy to use Compact: Takes up a small amount of space Light and manageable: Easy to transport and store Approx. dimensions: 13 x 3 x 12 cm Packaging in 24 languages: English, French, Spanish, German, Italian, Portuguese, Dutch, Polish, Hungarian, Romanian, Danish, Swedish, Finnish, Lithuanian, Norwegian, Slovenian, Greek, Czech, Bulgarian, Croatian, Slovakian, Estonian, Russian and Latvian
-  Updated: 2025-12-31T19:35:13Z
+  Updated: 2026-01-01T07:35:27Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
@@ -298,7 +298,7 @@
     Availability: Available
     Price: $8.99 USD
 - [Romper Short Long Sleeve -](https://kitchkitty-2.myshopify.com/products/romper-short-long-sleeve): S SHURI Brand designs NICU Friendly Baby Clothing for Small Preemie up to 24 Months Hospital Clothes. Condition is New with tags. 100% soft cotton designed for practicality and comfort. Perfect for babies in the hospital NICU, PICU or at home. Snaps to accommodates IV tubing, G-tube /feeding tube, Monitoring leads/wires/ tubes, etc.
-  Updated: 2025-12-31T19:30:25Z
+  Updated: 2026-01-01T07:30:53Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
@@ -452,19 +452,19 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/Sage_Knotted_Hat_e1e31230-bdc8-4694-98dd-5b885a03d1dd.jpg?v=1766086029
     Price: $14.99 USD
 - [Newborn Baby Boys 9 Pc Layette Baby Shower Gift](https://kitchkitty-2.myshopify.com/products/newborn-baby-boys-9-pc-layette-baby-shower-gift): Bambini layette set perfect for any newborn baby made from soft and cozy cotton baby clothes keeping the little ones comfortable. This set makes the perfect baby shower present for any soon-to-be momma!• Made From Soft Cotton Fabric for Comfort and Breathability• Expandable Shoulder Neckline to Help Pull Garment Over Baby's Head Much More Easily• Bottom Snap Closure Is Conveniently Positioned in the Front for Fast Changing• Ribbed Leg Opening Makes for a Perfect Fit• Machine Wash/tumble DrySet Includes:Boys Baby Gift Set (100% Cotton)NOTE: Patterns shown are for illustration purposes only.You may receive a different pattern in the color you select.
-  Updated: 2025-12-31T19:12:54Z
+  Updated: 2026-01-01T07:12:59Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/500_116B_911UB_3211B.jpg?v=1766086140
   Price: $24.99 USD
 - [Newborn Baby Girl 5 Pc Layette Baby Shower Gift](https://kitchkitty-2.myshopify.com/products/newborn-baby-girl-5-pc-layette-baby-shower-gift): Bambini layette set perfect for any newborn baby made from soft and cozy cotton baby clothes keeping the little ones comfortable. This set makes the perfect baby shower present for any soon-to-be momma!• Made From Soft Cotton Fabric for Comfort and Breathability• Expandable Shoulder Neckline to Help Pull Garment Over Baby's Head Much More Easily• Bottom Snap Closure Is Conveniently Positioned in the Front for Fast Changing• Ribbed Leg Opening Makes for a Perfect Fit• Machine Wash/tumble DrySet Includes:Short Sleeve Onezie Bodysuits (100% Cotton)NOTE: Patterns shown are for illustration purposes only.You may receive a different pattern in the color you select.
-  Updated: 2025-12-25T20:42:38Z
+  Updated: 2026-01-01T11:37:50Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/001B_003B_1100P_116P_3200P.jpg?v=1766086168
-  Price: $10.55 USD
+  Price: $21.00 USD
 - [Frida Infant Bodysuit - Gray and Pink](https://kitchkitty-2.myshopify.com/products/frida-infant-bodysuit-gray-and-pink): Frida is such an inspiration! Love love lover her!! ;) I cut out felt pieces and they are appliqu̩d to the shirt. This infant bodysuit is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
   Updated: 2025-12-31T19:55:30Z
   Vendor: KitchKitty Apparel and More
@@ -514,57 +514,57 @@
     Availability: Available
     Price: $37.99 USD
 - [Football Baby](https://kitchkitty-2.myshopify.com/products/football-baby): Specs Includes baby cocoon swaddle, matching headpiece and newborn announcement card. Made of soft, quality fabric - 95% cotton / 5% Lycra Fits newborns up to 15 pounds or 3 to 4 months Machine washable Designed and produced in New York, USA AboutBABYjoe Cocoon swaddling is designed to gently hug baby for cocoon-like snugness. Baby snuggles happily inside stretchy cotton that hugs. Soft stretchy cotton creates womb-like experience that holds baby close and calms startle reflex. Nothing to wrap or snap, no velcro, no zippers and no fuss. So easy to put on baby, slips on like a sock. Made of soft, quality fabric consisting of 95% cotton / 5% Lycra. Perfect for everyday use to keep baby cozy and comfy.Attractively packaged in sustainable kraft box packaging, these items make great baby shower gifts!Create Memorable MomentsOur aim is to design products that help create special moments for you and your newborn. With included announcement card parents can write baby’s name on card to take memorable announcement photos. Share fun, creative pictures with Family, Friends and on Social Media!BABYjoe products are designed and produced in New York, USA
-  Updated: 2025-12-25T20:42:38Z
+  Updated: 2026-01-01T11:37:23Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/football-baby-and-card-white-background.jpg?v=1766086324
-  Price: $22.49 USD
+  Price: $44.00 USD
 - [One Pack Terry Sleep & Play (Pack of 2)](https://kitchkitty-2.myshopify.com/products/one-pack-terry-sleep-play-pack-of-2): Sleep and Play Baby Grow Print Closed-Toe Long Johns are a necessity for keeping your little one comfy and cozy at night. Bundle your little one in this pair of long johns after a bath and watch them drift to sleep, basking in warmth and love 80% Cotton / 20% PolyesterSizes: S, M, LColors: Assorted Prints2 Per PackSize Chart : Small = 3 MonthsMedium = 6 MonthsLarge = 12 MonthsNOTE: Patterns shown are for illustration purposes only. You may receive a different pattern in the color you select.
-  Updated: 2025-12-25T20:42:38Z
+  Updated: 2026-01-01T11:37:00Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/515B2.jpg?v=1766086369
   - [White / Large](https://kitchkitty-2.myshopify.com/products/one-pack-terry-sleep-play-pack-of-2?variant=43990536224879)
     Availability: Available
-    Price: $6.20 USD
+    Price: $12.00 USD
   - [White / Small](https://kitchkitty-2.myshopify.com/products/one-pack-terry-sleep-play-pack-of-2?variant=43990536257647)
     Availability: Available
-    Price: $6.20 USD
+    Price: $12.00 USD
   - [White / Medium](https://kitchkitty-2.myshopify.com/products/one-pack-terry-sleep-play-pack-of-2?variant=43990536290415)
     Availability: Available
-    Price: $6.20 USD
+    Price: $12.00 USD
 - [Quilted Diaper Baby Backpack](https://kitchkitty-2.myshopify.com/products/quilted-diaper-baby-backpack): Stylish & handy, Quilted Diaper Bag Backpack has 13 storage pockets, foil insulation, a back pocket, and extra wide opening. Durable oxford fabric, a large base, plus padded straps & handles provide complete functionality for parents on the go. Hang on the stroller with 2 D-ring buckles for hands-free carrying & access items easily from the zippered back pocket. This bag is perfect for parents who want a reliable, comfortable option when they're out with their little ones. It's designed for convenience and flexibility, and its stylish design ensures you'll look great no matter where you go. Durable, easy to clean, and wear resistant. It is stronger than common fabrics, plus waterproof, dustproof, scratch-resistant, and tear-resistant. Material: Premium Oxford Fabric Product Size: 9.5 x 10.6 x 27 in Care Instructions: Machine wash the product, do not dry clean.
-  Updated: 2025-12-25T20:42:38Z
+  Updated: 2026-01-01T11:36:33Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/data_e80f46ec-3afe-4f84-9e48-fa472a2bdff6.jpg?v=1766086424
   - [Black](https://kitchkitty-2.myshopify.com/products/quilted-diaper-baby-backpack?variant=43990536650863)
     Availability: Not Available
-    Price: $30.79 USD
+    Price: $59.99 USD
   - [Blue](https://kitchkitty-2.myshopify.com/products/quilted-diaper-baby-backpack?variant=43990536683631)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/HTB1Clz3VVzqK1RjSZFvq6AB7VXad.jpg?v=1766086425
-    Price: $30.79 USD
+    Price: $59.99 USD
   - [Pink](https://kitchkitty-2.myshopify.com/products/quilted-diaper-baby-backpack?variant=43990536716399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/HTB1Y3rCbdjvK1RjSspiq6AEqXXa3.jpg?v=1766086425
-    Price: $30.79 USD
+    Price: $59.99 USD
   - [Gray](https://kitchkitty-2.myshopify.com/products/quilted-diaper-baby-backpack?variant=43990536749167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/HTB16vO1bh_rK1RkHFqDq6yJAFXaR.jpg?v=1766086426
-    Price: $30.79 USD
+    Price: $59.99 USD
 - [Bambini Newborn Baby Girls 3 Pc Layette Set (Gown, Robe, Fleece](https://kitchkitty-2.myshopify.com/products/bambini-newborn-baby-girls-3-pc-layette-set-gown-robe-fleece): Bambini layette set perfect for any newborn baby made from soft and cozy cotton baby clothes keeping the little ones comfortable. This set makes the perfect baby shower present for any soon-to-be momma!• Made From Soft Cotton Fabric for Comfort and Breathability• Expandable Shoulder Neckline to Help Pull Garment Over Baby's Head Much More Easily• Bottom Snap Closure Is Conveniently Positioned in the Front for Fast Changing• Ribbed Leg Opening Makes for a Perfect Fit• Machine Wash/tumble DrySet Includes:White Infant Gown (100% Cotton), Pink Fleece Robe With Hoodie (Polyester), Pink Polarfleece Blanket (100% Cotton)
-  Updated: 2025-12-25T20:42:38Z
+  Updated: 2026-01-01T11:36:09Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/913W_965P_3600P.jpg?v=1766086485
-  Price: $28.99 USD
+  Price: $34.99 USD
 - [The Trumps - Spade - Alice's Adventure in Wonderland - Infant Bodysuit](https://kitchkitty-2.myshopify.com/products/the-trumps-spade-alices-adventure-in-wonderland-infant-bodysuit): Ready to take your little one down the rabbit hole to visit the wonderland! åÊThe Trumps areåÊready foråÊyou guys!I cut out felt pieces and they are appliqu̩d to the bodysuit. This infant bodysuit is made to order. It is handmade & hand-stitched with 100% love by me in Paradise!
-  Updated: 2025-12-31T19:36:48Z
+  Updated: 2026-01-01T07:37:14Z
   Vendor: KitchKitty Apparel and More
   Product Type: Baby
   Availability: Available
@@ -607,7 +607,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Organic Baby Moisturizer and Sprinkle ( talc free)baby powder set.](https://kitchkitty-2.myshopify.com/products/organic-baby-moisturizer-and-sprinkle-talc-freebaby-powder-set): Organic Baby Body Butter and Talc Free powder set
-  Updated: 2025-12-31T19:18:57Z
+  Updated: 2026-01-01T07:19:02Z
   Vendor: KitchKitty Baby
   Product Type: 
   Availability: Available
@@ -791,25 +791,25 @@
     Availability: Available
     Price: $13.95 USD
 - [Bambini Short Sleeve One Piece 5 Pack](https://kitchkitty-2.myshopify.com/products/bambini-short-sleeve-one-piece-5-pack): Bambini Sleeve One Pieces made from 100% cotton rib knit fabric, these soft and cozy white short sleeve onezies are an absolute necessity for keeping mommy's precious little one mobile and comfortable.• 100% Cotton Rib Knit Material for Comfort and Breathability• Expandable Shoulder Neckline to Help Pull Garment Over Baby's Head Much More Easily• Bottom Snap Closure Is Conveniently Positioned in the Front for Fast Changing• Ribbed Leg Opening Makes for a Perfect Fit• Machine Wash/tumble Drybull; Available Sizes: NB, S, M, L
-  Updated: 2025-12-25T20:42:39Z
+  Updated: 2026-01-01T11:34:38Z
   Vendor: KitchKitty Baby
   Product Type: Baby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/5_Onezies_WYAAGiraffe.jpg?v=1766160339
   - [White / Newborn](https://kitchkitty-2.myshopify.com/products/bambini-short-sleeve-one-piece-5-pack?variant=43992471142511)
     Availability: Available
-    Price: $17.99 USD
+    Price: $34.99 USD
   - [White / Small](https://kitchkitty-2.myshopify.com/products/bambini-short-sleeve-one-piece-5-pack?variant=43992471175279)
     Availability: Available
-    Price: $17.99 USD
+    Price: $34.99 USD
   - [White / Medium](https://kitchkitty-2.myshopify.com/products/bambini-short-sleeve-one-piece-5-pack?variant=43992471208047)
     Availability: Available
-    Price: $17.99 USD
+    Price: $34.99 USD
   - [White / Large](https://kitchkitty-2.myshopify.com/products/bambini-short-sleeve-one-piece-5-pack?variant=43992471240815)
     Availability: Available
-    Price: $17.99 USD
+    Price: $34.99 USD
 - [My Papa Fix Black Cute Baby Bodysuit Unique](https://kitchkitty-2.myshopify.com/products/my-papa-fix-black-cute-baby-bodysuit-unique): Attention all soon-to-be moms, new dads, aunts, and grandmothers! At 365 In Love/365 Printing Inc, we offer unique designs for the baby Bodysuit that is made of high quality 100% ring-spun cotton. It comes with super easy snap fasteners that make it easy for you to put on and off your little one. We have various unique, cute, funny, and laughable designs for your cutie pie coming out to this world that will make your baby even more adorable. This cute design baby bodysuits will be a perfect go-to gift for baby showers and birthdays for your friends, family, and coworkers. Stop looking. Start Shopping at 365 In Love/365 Printing Inc Made of 100% Cotton, high quality, enzyme washed lightweight material, 1 shirt per order Refer ONLY to 365 Printing Size Chart for more accurate fitting as marketplace size chart doe NOT provide correct measurements Wash inside out in cold water, Natural-air drying is recommended, water base printing ink, eco-friendly quality that ensures safety, high quality Due to different computer monitors/calibrations, colors may vary slightly from photos *BEWARE OF COUNTERFEITS* 365 In Love is the brand owner of 365 Printing Inc. 365 In Love products are designed/printed/shipped ONLY in the USA. Please make sure you buy our AUTHENTIC products from us-365 In Love/365 Printing Inc.
-  Updated: 2025-12-31T19:16:02Z
+  Updated: 2026-01-01T07:16:09Z
   Vendor: KitchKitty Baby
   Product Type: 
   Availability: Available
@@ -827,14 +827,14 @@
     Availability: Available
     Price: $14.99 USD
 - [Grey Baby Bibs (Pack of 5)](https://kitchkitty-2.myshopify.com/products/grey-baby-bibs-pack-of-5): These Bambini Baby Bibs are, without a doubt, one of the biggest necessities of raising a baby. They are going to be a little drool machine, spill machine, and spit-up machine- so why not be prepared with this 5-pack of infant bibs.Velkrow ClosureColors: Red, White, Blue, Navy, Heather GreySize: 12 1/4 long x 7 1/2 wide5 Per Pack
-  Updated: 2025-12-25T20:42:40Z
+  Updated: 2026-01-01T11:47:11Z
   Vendor: KitchKitty Baby
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/1023-B-W-R-N-G-5.jpg?v=1766615699
-  Price: $5.50 USD
+  Price: $9.50 USD
 - [Baby Bear Shape Food Training Silicone Bowl With Spoon Tableware](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware): Treat your little one to mealtimes they'll love with this Baby Bear Shape Food Training Silicone Bowl! With its adorable bear-shaped design and soft spoon, it's the perfect way to introduce solid foods in a fun, safe environment. Is your little one ready to embark on a delicious journey of exploration? Start today! COLOR Pink, Light Pink, Navy Blue (Dark Blue), Blue, Light Blue, Green, Light Green, Yellow, Grey, Khaki, Orange, Beige GENDER Baby Girl, Baby Boy, Girl, Boy, Unisex MATERIAL Silica Gel PATTERN Plain (Solid) SEASON Spring, Summer, Autumn, Winter SIZE (AGE) Average Size (0-8Y）
-  Updated: 2025-12-25T20:42:40Z
+  Updated: 2026-01-01T11:47:34Z
   Vendor: KitchKitty Baby
   Product Type: 
   Availability: Available
@@ -842,60 +842,60 @@
   - [Pink / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783280751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_5_be86045a-8040-436f-ba58-cc7718515ac6.jpg?v=1766615703
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Light Pink / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783313519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_12_cd998e29-ad77-417a-950e-bad22a4754eb.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Navy Blue (Dark Blue) / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783346287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_4_f064080f-2424-4260-9c48-d7c9d1e15223.jpg?v=1766615703
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Blue / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783379055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_11_a3e1b3fc-3e54-44ff-b9ab-853b028e49a4.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Light Blue / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783411823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_6_a790882d-1152-4884-b305-85fb0b2238e4.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Green / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783444591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_8_303864a9-6ca7-4dde-a8cf-46d2ae679c4f.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Khaki / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783477359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_10_67dcd482-913c-451e-8f65-3e1ec3217de1.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Orange / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783510127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_3_40ec906e-94dc-4176-b16c-10bcfde2bcd1.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Beige / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783542895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_7_c34ed0b4-0dcb-4c48-964b-1fcfccdbd5fe.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Light Green / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783575663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_13_51b55b21-6ebb-41b2-9d89-1f31d8f310bf.jpg?v=1766615703
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Yellow / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783608431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_2_33601fb5-062f-4e15-97fa-338fce4cad5c.jpg?v=1766615704
-    Price: $22.79 USD
+    Price: $44.00 USD
   - [Grey / Average Size (0-8Y)](https://kitchkitty-2.myshopify.com/products/baby-bear-shape-food-training-silicone-bowl-with-spoon-tableware?variant=44015783641199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/product_image_9_7a407454-2880-4b6c-9614-484b7d14fa87.jpg?v=1766615703
-    Price: $22.79 USD
+    Price: $44.00 USD
 - [QToys Australia (USA) Montessori dics post box](https://kitchkitty-2.myshopify.com/products/qtoys-australia-usa-montessori-dics-post-box): One of the best and simplest ways to let your little ones learn about the concept of object permanence. The Montessori Discs Post Box requires your child to place a coconut disc in the slot of the post box. Your child will discover the coconut disc 'still exists' once they remove the drawer from the box. This act develops object permanence. The Montessori Discs Post Box develops concentration, fine motor skills including pincer grip and hand-eye coordination.
-  Updated: 2025-12-26T01:42:26Z
+  Updated: 2026-01-01T11:46:24Z
   Vendor: KitchKitty Baby
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/data.webp?v=1766670141
-  Price: $26.99 USD
+  Price: $37.00 USD
 - [Montessori Light Panel 60x60 cms. EC Certificacted, hand made](https://kitchkitty-2.myshopify.com/products/montessori-light-panel-60x60-cms-ec-certificacted-hand-made): Our hand made Montessori light panel is made out of pine wood and it is CE certified. It helps developing plastic expression, free play, experimentation and storytelling. It is a very important material when working sensory stimulation, contrasts, optical games, colors ... This panel is made of solid pine wood and methacrylate 4 mm. They are portable and safe for kids, making it the perfect gift. It is a totally safe and durable over time. You can choose between 3 different remote control options. The musical one, which ables you to make color transitions change by sounds, the RGBW remote control with a large number of different colors and automatic transitions, or Bluetooth to be able to multiply options.
-  Updated: 2025-12-31T19:11:48Z
+  Updated: 2026-01-01T07:11:53Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -952,7 +952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/montessori-table-and-chair-set-kidodido-4_4c083bf0-09f7-41fb-a484-4da18b76cf73.jpg?v=1766670179
     Price: $210.00 USD
 - [2 in 1 Brown Kitchen helper/table](https://kitchkitty-2.myshopify.com/products/2-in-1-brown-kitchen-helper-table): The Bilauf Brown Foldable Kitchen Helper is a must-have for any family with young children. It is a two-in-one piece of furniture that combines a step stool and a table, making it perfect for any kitchen. Whether you need to help your little one reach the counter to help you bake cookies or just want to provide them with a safe place to sit and coloring, this piece of furniture is the perfect solution. When folded, the Kitchen Helper is a stable, two-step stool, allowing your child to easily reach the counter, sink, or other items in your kitchen. It also features a handrail helping your child feel safe and secure. When unfolded, the same stool turns into a small play table for your child, providing an ideal spot for them to do arts and crafts or enjoy a snack. The table also features an adjustable height, making it great for toddlers, preschoolers, and even school-aged children. Its lightweight and compact design make it easy to move around, so it can easily be tucked away when not in use. The Bilauf Foldable Kitchen Helper is a must-have for any family with young children. It provides a safe, secure, and versatile piece of furniture that will give your little ones a place to play, learn, and explore.All wooden parts is hand selected, sanded and sharp edges are rounded off for added safety. All of our products are made by hand in our own shop and we make each and every unit as if it is for our own children!(This is a natural wood product, some knots and other minor imperfections will add to the overall character of your unit).# Baltic birch plywood parts are coated with water base lacquer, non toxic# Ash rung coated with bee wax# for connections we use special M6 furniture connector boltsADULT SUPERVISION IS REQUIRED AT ALL TIMES, NEVER LEAVE A CHILD UNATTENDED IN THEIR LEARNING TOWERProduct is intended for children that have a strong standing ability, Recommended Ages 2+.Dimension:Overall height - 90cm (35 in)Base - 40 x 40 cm (15 3/4 in)Platform height - 45cm (17 3/4 in)DESK44cm (17.3'') high70cm (27.6'') length40 cm (15.8'') wide25cm (9.8'') bench height from ground
-  Updated: 2025-12-31T19:10:28Z
+  Updated: 2026-01-01T07:11:50Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -991,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/cbc40d238dd05c71821ddcf7d8e32d6b.jpg?v=1766670219
   Price: $195.74 USD
 - [Montessori Climbing Triangle Cube with Reversible Ramp](https://kitchkitty-2.myshopify.com/products/montessori-climbing-triangle-cube-with-reversible-ramp): Montessori Cube for Toddler, Transformable Climbing Triangle, and Reversible Ramp, Montessori Furniture for Children, Home Gym for Kids World Wide Free and Express Shipping on all orders. Please DON'T FORGET to add your phone number at checkout for smooth delivery. Phone numbers are used by the carrier company during the delivery process. Shipping Details: 3-5 business days delivery for USA & Canada. 3-4 business days delivery for Europe 3-6 business days delivery for the Rest of the World. Dimensions Transfromable Climbing Cube-Triangle - 112cm length x 55cm height x 70cm width / 44" length x 21.5" height x 27.5" width The sliding/ climbing ramp - 110cm length x 1,8cm height x 35cm width / 43.5" length x 0.7" height x 13.8" width This Transformable Climbing set is made of the highest quality natural birch plywood and linden tree. This adjustable Montessori cube set is very durable and easy to install. The process of folding is effortless and it holds very small space in your house. This Montessori furniture set is a perfect tool for your kids' balance skills, awareness, gross motor skills, coordination, and learning development. Your little ones will be ready to play with the Home Gym for Kids while they crawl and when they start to walk. It is a perfect gift for toddlers and first birthday gift, baby shower gift, Christmas gift, Easter gift.
-  Updated: 2025-12-31T19:20:55Z
+  Updated: 2026-01-01T07:21:01Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -1013,7 +1013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/transformable-climbing-triangle-cube-set-kidodido-1_55745f27-0ad5-4dc7-b60e-cff821908988.jpg?v=1766670230
     Price: $235.00 USD
 - [Montessori Climber Set 6 Pieces | Indoor Playground Set](https://kitchkitty-2.myshopify.com/products/montessori-climber-set-6-pieces-indoor-playground-set): Description: Elevate Your Child's Playtime with Our 6-Piece Montessori Climber Set! 🌟" Are you looking for the perfect indoor playground to foster your child's development and provide endless fun? Our Montessori Climber Set (6 pieces) is the ultimate choice for parents who value high-quality, sustainable, and educational toys. Finding the right play furniture that combines fun, safety, and developmental benefits can be challenging. Many products fail to meet the needs of growing children, lacking durability and educational value. Without engaging and educational toys, your child's development may be hindered. Many playsets do not provide the necessary support for enhancing balance, coordination, and learning. Our Montessori Climber Set (6 pieces) offers a comprehensive solution. This set includes a Climbing Triangle, Climbing Arch, Transformable Cube, Climbing Ramps, and an XL Pillow. Each piece is crafted from the highest quality natural birch plywood and linden tree, ensuring safety, durability, and endless fun. Benefits:🌿 High-Quality Materials: Made of the highest quality natural birch plywood and linden tree. The set is chemical-free, smooth, and splinter-free, ensuring a safe play environment.🛠 Easy to Install: The kids' furniture set is very durable and easy to install. The folding process for the triangle climber is effortless and saves space in your home.🧠 Supports Development: Perfect for your kids' balance, awareness, gross motor skills, coordination, and learning development. Your little ones will be ready to play with the climbing furniture set while they crawl and start walking.🌈 Stylish and Comfortable: The pillow is made of 100% organic cotton washable fabric, available in 9 unique designs.🏠 Versatile Use: This indoor playground set is designed for versatile use, functioning as a balance beam, bridge, balance board, or stepping stones. Key Features:Highest quality natural birch plywood and linden treeChemical-free, smooth, and splinter-freeHandcrafted perfection with no rough edgesVery durable and easy to installTotally natural and safe for your kids100% organic cotton washable pillow with 9 unique designs Dimensions:Climbing Triangle: 92cm length x 88cm height x 70 cm width (36" length x 34.5" height x 27.5" width)Climbing Arch: 112cm length x 55cm height x 70cm width (44" length x 21.5" height x 27.5" width)Transformable Cube: 55cm length x 55cm height x 70cm width (21.5" length x 21.5" height x 27.5" width)Pillow: 145cm length x 8cm height x 68cm width (57" length x 3.2" height x 26.8" width)Ladder/Slider Ramp: 110cm length x 1.8cm height x 35cm width (43.5" length x 0.7" height x 13.8" width)Rockwall/Slider Ramp: 110cm length x 1.8cm height x 35cm width (43.5" length x 0.7" height x 13.8" width)Thickness: 1.8cm (0.7") We offer a 1-year guarantee and a 30-day return policy for your peace of mind. Enjoy safe worldwide shipping with free and express options available. 🚚🌍 Provide your child with the perfect balance of play and learning. Order our Montessori Climber Set (6 pieces) today and watch your child's skills and confidence soar! 🎁👶 Shipping Details:READY TO SHIP IN 1 DAY!3-5 business days delivery for USA & Canada3-4 business days delivery for Europe3-6 business days delivery for the Rest of the WorldWorld Wide Free and Express Shipping on all orders
-  Updated: 2025-12-31T19:42:37Z
+  Updated: 2026-01-01T07:40:45Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -1067,14 +1067,14 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/pillow-for-climbing-arch-kidodido-1_f3f33e74-5dae-4af5-a923-3010984c000c.jpg?v=1766670240
     Price: $467.08 USD
 - [Montessori Toys Discover the Benefits of Climbing Arches and Ramps](https://kitchkitty-2.myshopify.com/products/montessori-toys-discover-the-benefits-of-climbing-arches-and-ramps): Best montessori toys for 1 year olds. This 3-piece Climbing Set with two ramps is designed to be the perfect Montessori-friendly toy for your 1-year-old. Crafted from natural materials, the arch and rocker offer a safe and stimulating environment to explore, while the ramps provide a safe transition from one surface to another. This simple yet purpose-driven set helps your baby develop fundamental skills, while offering an open-ended playtime. About this item 3 Pieces Climbing Set - There’s one other thing to remember when choosing Montessori-friendly toys for your baby: less is more. Instead of stocking your little one’s playroom with tons of toys, choose only a few. Focus on toys that will go the distance and that are appropriate for whatever developmental stage your little one is in at the moment. Fewer toys will enable your baby to focus more on the task at hand—and there’ll be less for you to clean up at the end of a long day. Montessori toys are simple and typically made of natural materials and are rooted in reality (so think butterflies instead of fairies). Best Montessori toys for 1 year old, are designed to help your child learn and expand their world through open-ended play. Created to address specific developmental milestones and skills, these toys are purpose-driven, but still provide plenty of fun.
-  Updated: 2025-12-31T19:25:58Z
+  Updated: 2026-01-01T07:26:10Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/KID013-1.jpg?v=1766670248
   Price: $275.00 USD
 - [Montessori Light Panel 50x40 cms. EC Certificacted, hand made](https://kitchkitty-2.myshopify.com/products/montessori-light-panel-50x40-cms-ec-certificacted-hand-made): Our hand made Montessori light panel is made out of pine wood and it is CE certified. It helps developing plastic expression, free play, experimentation and storytelling. It is a very important material when working sensory stimulation, contrasts, optical games, colors ... This panel is made of solid pine wood and methacrylate 4 mm. They are portable and safe for kids, making it the perfect gift. It is a totally safe and durable over time. You can choose between 3 different remote control options. The musical one, which ables you to make color transitions change by sounds, the RGBW remote control with a large number of different colors and automatic transitions, or Bluetooth to be able to multiply options.
-  Updated: 2025-12-31T19:14:04Z
+  Updated: 2026-01-01T07:14:08Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -1150,7 +1150,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/KID014-1.jpg?v=1766670287
   Price: $235.00 USD
 - [Montessori Baby Gym & Hanging Toys Set | Wooden Play Gym for Babies](https://kitchkitty-2.myshopify.com/products/montessori-baby-gym-hanging-toys-set-wooden-play-gym-for-babies): Foldable Baby Gym and Hanging Toys This baby gym is the perfect companion for growing minds. Featuring a foldable baby gym and four hanging toys, this product offers entertainment and stimulation as baby develops motor skills. The gym is easily assembled and encourages an active lifestyle. Perfect for active babies, this baby gym and hanging toys will keep them engaged, entertained and learning.
-  Updated: 2025-12-31T19:17:39Z
+  Updated: 2026-01-01T07:17:48Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -1190,7 +1190,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/data_f67839dc-935b-41d6-af27-0b8c5e49796f.jpg?v=1766670328
   Price: $20.00 USD
 - [Double or Single Size Montessori Toddler Tower](https://kitchkitty-2.myshopify.com/products/double-or-single-size-montessori-toddler-tower): 🌟 Introducing our premium quality Foldable and Adjustable Kitchen Helper Tower, which comes in two different size options: Double Size Toddler Tower (Twins Helper Tower- for 2 kids) and Single Size Toddler Tower (for 1 kid). This toddler tower is designed with Montessori principles to promote independence building, motor skills, and self-confidence in your little ones. Our foldable helping tower allows your kids to safely explore their surroundings and learn essential life skills like cooking, washing dishes, and brushing their teeth on their own. With the double size helper tower, two kids can play together and share the learning experience. This toddler tower is adjustable to two different sizes and it is also foldable. It is easy to install, disassembled, and comes with a detailed instruction paper for smooth assembly. Crafted from the highest quality natural birch plywood and linden tree, our Montessori Toddler Tower is sanded to perfection, making it not only durable but also aesthetically pleasing. It makes for a perfect 1st birthday gift, baby boy gift, baby girl gift, or Christmas gift for toddlers. 🎁 Get yours today and witness your little ones' learning and growth firsthand! 🌱 Shipping Details: (SHIPS NEXT DAY) 3-5 business days delivery for USA & Canada. 3-4 business days delivery for Europe 3-6 business days delivery for the Rest of the World. World Wide Free and Express Shipping on all orders. Please DON'T FORGET to add your phone number at checkout for smooth delivery. The carrier company uses phone numbers during the delivery process. Dimensions: Single Size Montessori Tower: 92cm height x 45cm width x 55cm length 36.2 inch height x 17.7 inch width x 21.6 inch length It can carry up to 60kg (132lb) Double Size Montessori Tower 92cm height x 65cm width x 55cm length 36.2 inch height x 25.5 inch width x 21.6 inch length It can carry up to 75kg (132lb)
-  Updated: 2025-12-31T19:25:12Z
+  Updated: 2026-01-01T07:25:28Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -1244,7 +1244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2257/2911/files/3-pieces-montessori-climbing-set-climbing-triangle-and-climbing-archrocker-and-rockwallslider-ramp-or-ladder-slider-ramp-kidodido-6.jpg?v=1766670393
     Price: $395.00 USD
 - [Madeleine, the Montessori wooden library for children](https://kitchkitty-2.myshopify.com/products/madeleine-the-montessori-wooden-library-for-children): Madeleine is a beautiful solid wood bookcase for children and babies inspired by the Montessori pedagogy. It can be fixed to the wall or placed on the floor against a wall. The child will appreciate being able to choose his books freely. What are the dimensions and important information of the bookcase? Height: 75cm Width: 75cm Depth: 9,5cm at the top and 15cm at the bottom Depth of the shelves (from top to bottom): 8,5cm, 11cm and 13,5cm Thickness of the shelves: 2cm Weight : 6,6 kg The three large spaces available are designed for both large A4 books on the bottom of the shelf, as well as for small and medium-sized books. All corners and edges are rounded to ensure maximum safety for the child. This bookcase is made of very good quality wood, namely natural varnished solid beechwood which will not be harmful to the child. The finished product is therefore very robust and solid. Very easy to assemble, instructions provided with all the information for the assembly.
-  Updated: 2025-12-31T19:33:59Z
+  Updated: 2026-01-01T07:34:10Z
   Vendor: KitchKitty Baby
   Product Type: Montessori
   Availability: Available
@@ -1376,7 +1376,7 @@
     Availability: Available
     Price: $51.99 USD
 - [Circular Wooden Balance Beam Set | Montessori](https://kitchkitty-2.myshopify.com/products/circular-wooden-balance-beam-set-montessori): Toddler Balance Beam Balance Beams for kid provides safe, wooden outdoor and indoor toys for kids to promote physical development. Through gross motor equipment such as stepping stones and balance boards, children can cultivate balance, coordination, and gymnastics skills. These furniture pieces are perfect for montessori and motor activities, providing a fun and educational experience. 2 pieces Balance Beams (136cm - 53inch)3 pieces Balance Beams (204cm - 80inch)4 pieces Balance Beams (274cm - 107inch)5 pieces Balance Beams (340cm - 133inch)6 pieces Balance Beams (408cm - 160inch)7 pieces Balance Beams (476cm - 187inch)8 pieces Balance Beams (544cm - 214inch) About this item ❗❗ Wooden balance beam age grade : 3-8 years old ❗❗ 📐One wood balance beam is 59x7x1.2cm (23.2 x 2.8 x 0.5 inch) 📐The height available from the ground about 3 cm !!!! In each set of 3 are included 2 single and 2 double beam connecter.!! SET OF 6 Include 6 balance beams,4 single and 4 double beam connecter SET OF 9 - 9 balance beams, 6 single and 6 double connecter SET OF 12 - 12 beams,8 single and 8 double conectors SET OF 15 - 15 beams, 10 single and 10 double conectors ⚖️Maximum load up to 50 kg (110 lbs) 🛠️ Toddler Balance Beam is supplied unassembled. Simple assembly of the connector with beams is required. 🌱Balance beam kids is safe. Indoor balance beam made of plywood that does not contain toxic substances and is absolutely safe for children 🚀We accept returns in 14 days after delivery. If the product isn’t damaged and everything is correct the return cost must be paid by the customer. We can offer our shipping service to get a better price.
-  Updated: 2025-12-31T19:23:06Z
+  Updated: 2026-01-01T07:03:34Z
   Vendor: KitchKitty Baby
   Product Type: 
   Availability: Available
@@ -1386,19 +1386,19 @@
 ## Collections
 
 - [Home page](https://kitchkitty-2.myshopify.com/collections/frontpage)
-  Updated: 2025-12-25T20:42:35Z
+  Updated: 2026-01-01T11:41:48Z
   Total Products: 1
 - [Baby and Toddler Apparel example products](https://kitchkitty-2.myshopify.com/collections/baby-and-toddler-apparel-example-products)
   Updated: 2025-12-25T20:42:35Z
   Total Products: 0
 - [Baby](https://kitchkitty-2.myshopify.com/collections/baby): Anything baby related
-  Updated: 2025-12-31T19:56:47Z
+  Updated: 2026-01-01T11:39:21Z
   Total Products: 21
 - [Montessori Favorites](https://kitchkitty-2.myshopify.com/collections/montessori-favorites)
-  Updated: 2025-12-31T19:25:59Z
+  Updated: 2026-01-01T11:46:25Z
   Total Products: 25
 - [Montessori](https://kitchkitty-2.myshopify.com/collections/montessori)
-  Updated: 2025-12-31T19:25:59Z
+  Updated: 2026-01-01T11:46:25Z
   Total Products: 25
 
 ## Blogs
