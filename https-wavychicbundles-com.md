@@ -16,7 +16,7 @@ Frontals for complete coverage
 - Timezone: America/Chicago
 - Created At: 2025-12-11T16:47:37Z
 - Contact Email: info@wavychicbundles.com
-- Updated At: 2026-01-02T00:00:26.525Z
+- Updated At: 2026-01-04T00:00:36.642Z
 
 ## Products
 
@@ -103,7 +103,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/5dMinkSasha.jpg?v=1766217601
   Price: $9.99 USD
 - [Body Wave Hair - #27 Honey Blonde Bundles Shop Now!](https://wavychicbundles.com/products/body-wave-hair-27-honey-blonde): Discover premium body wave hair in #27 honey blonde. Shop our bundle deals for chic, wavy styles today! 100% human hair. New year, new you! Shop Now!
-  Updated: 2025-12-29T22:35:06Z
+  Updated: 2026-01-02T23:25:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $338.99 USD
 - [Body Wave Hair - 100% Virgin Human Hair Bundles](https://wavychicbundles.com/products/brazilian-body-wave): Explore our premium body wave hair bundles made from 100% virgin human hair for a wavy and chic look.
-  Updated: 2026-01-01T23:27:21Z
+  Updated: 2026-01-03T22:28:36Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $209.99 USD
 - [Body Wave Hair - 613 Blonde Body Wave Single Bundles Colored Hair](https://wavychicbundles.com/products/body-wave-hair-613-blonde-body-wave-single): Stunning 613 blonde colored hair bundles. Premium body wave hair with soft waves, 100% virgin human hair. Perfect platinum blonde body wave extensions.
-  Updated: 2026-01-01T17:25:46Z
+  Updated: 2026-01-02T23:25:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -193,7 +193,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $122.99 USD
 - [Loose Wave Hair - Loose Wave 3 Bundles Deal for Wavy Hairstyle](https://wavychicbundles.com/products/loose-wave-hair-3-bundles): Premium loose wave hair 3 Bundle Deal. Soft, flowing waves for effortless wavy hairstyles. 10-32" lengths. 300g total! 100% Virgin Human Hair. Shop now!
-  Updated: 2025-12-29T22:35:07Z
+  Updated: 2026-01-02T23:25:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -229,7 +229,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $461.99 USD
 - [Kinky Straight Hair - 100% Virgin Human Hair Shop Now!](https://wavychicbundles.com/products/kinky-straight-hair100virginhumanhair): Discover our Kinky Straight Hair made from 100% virgin human hair. Perfect for a wavy and chic look that enhances your beauty.
-  Updated: 2026-01-01T18:27:08Z
+  Updated: 2026-01-03T04:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -324,7 +324,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $6.99 USD
 - [Edge Control - Wavy & Chic Bundles](https://wavychicbundles.com/products/edge-control): Shipment processing will take between 1-2 business days to ship out. Awesome edge control to keep your edges tamed.Our Edge Control promotes growth  - Wavy & Chic Bundles
-  Updated: 2025-12-23T21:06:49Z
+  Updated: 2026-01-02T19:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -336,7 +336,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $13.99 USD
 - [Body Wave Hair Malaysian Body Wave Bundle Deals|100% Virgin Hair|Wavy](https://wavychicbundles.com/products/body-wave-hair-malaysian3bundledeal): Premium Malaysian body wave hair bundle deals. Soft, flowing body wave texture. 100% virgin human hair bundles. 3 bundles for natural volume.
-  Updated: 2025-12-29T22:35:07Z
+  Updated: 2026-01-02T03:27:06Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -360,7 +360,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $220.99 USD
 - [Body Wave Hair Bundles for Stylish Looks](https://wavychicbundles.com/products/brazilian-body-wave-bundle-deals): Shop our Brazilian body wave hair bundles for a chic and wavy style. Get three luxurious bundles for a trendy transformation today!
-  Updated: 2026-01-01T09:25:41Z
+  Updated: 2026-01-03T22:28:36Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -396,7 +396,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $361.99 USD
 - [Deep Wave Hair - Brazilian Deep Wave Bundle Deals 3 Bundles | Wavy &](https://wavychicbundles.com/products/deep-wave-hair-3-bundlesdeal): Premium deep wave hair bundle deals with 3 virgin Brazilian bundles. Rich, defined deep wave texture with bold volume. 10-32" lengths. 300g total!
-  Updated: 2026-01-01T19:27:05Z
+  Updated: 2026-01-03T23:28:15Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -450,7 +450,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $360.99 USD
 - [Kinky Curly Hair - Brazilian Kinky Curly 3 Bundle Deals | Wavy & Chic](https://wavychicbundles.com/products/kinky-curly-hair-3-bundles-deal): Premium kinky curly bundle deals with 3 virgin Brazilian kinky curly hair bundles. Tight, defined coils with bold volume. 10-32" lengths. 300g total!
-  Updated: 2025-12-31T12:25:47Z
+  Updated: 2026-01-03T04:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -493,7 +493,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/spbqqfonlyyxfst7e69n.jpg?v=1766217774
   Price: $11.99 USD
 - [Claire 3D Mink Lashes - Luxurious Lashes for Every Occasion](https://wavychicbundles.com/products/claire-3d-mink-lashes): Discover Claire 3D Mink Lashes. Experience luxurious, beautiful eyelashes that enhance your look effortlessly. Perfect for any occasion!
-  Updated: 2026-01-01T04:04:00Z
+  Updated: 2026-01-03T06:18:04Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -528,7 +528,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/pink-flat-iron-titanium-plates.jpg?v=1766217836
   Price: $75.99 USD
 - [Beach Wave Hair - 4x4 Lace Wig-Transparent Lace Closure Wig](https://wavychicbundles.com/products/beach-wave-hair-4x4-transparent-lace-wig): Discover the enchanting beach wave hair 4x4 lace wig for a chic and wavy look. Perfect for any occasion! Made with 100% virgin human hair.
-  Updated: 2026-01-01T20:25:41Z
+  Updated: 2026-01-03T15:28:27Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -537,7 +537,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $184.99 USD
   - [18"](https://wavychicbundles.com/products/beach-wave-hair-4x4-transparent-lace-wig?variant=42746830258281)
-    Availability: Available
+    Availability: Not Available
     Price: $236.99 USD
   - [22"](https://wavychicbundles.com/products/beach-wave-hair-4x4-transparent-lace-wig?variant=42746830291049)
     Availability: Not Available
@@ -618,7 +618,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $310.99 USD
 - [Curly Hair 4x4 Lace Closure Wig | Lace Closure Wig|Wavy & Chic](https://wavychicbundles.com/products/curly-hair-4x4-lace-closure-wig): Premium curly hair 4x4 lace closure wig with transparent lace closure. Pre-plucked hairline, natural curls. 100% virgin human hair closure wig. 180% Density
-  Updated: 2025-12-23T21:06:52Z
+  Updated: 2026-01-03T15:28:26Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -683,7 +683,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/october.jpg?v=1766217899
   Price: $13.99 USD
 - [Body Wave Hair 13x4 Lace Frontal Wig| 100% Virgin Hair|Wavy & Chic](https://wavychicbundles.com/products/body-wave-hair-13x4-lace-frontal-wig): Premium body wave hair 13x4 lace frontal wig with transparent lace front. Pre-plucked hairline, natural waves. 100% virgin human hair lace front wig.
-  Updated: 2025-12-30T22:28:47Z
+  Updated: 2026-01-03T18:30:10Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -716,7 +716,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $290.99 USD
   - [22" / 180%](https://wavychicbundles.com/products/body-wave-hair-13x4-lace-frontal-wig?variant=42746840842345)
-    Availability: Available
+    Availability: Not Available
     Price: $354.99 USD
   - [26" / 180%](https://wavychicbundles.com/products/body-wave-hair-13x4-lace-frontal-wig?variant=42746840875113)
     Availability: Available
@@ -756,7 +756,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/july.jpg?v=1766217965
   Price: $14.99 USD
 - [Lace Closure - 5x5 HD Jet Black Body Wave Hair](https://wavychicbundles.com/products/jet-black-body-wave-5x5-hd-closure): Explore our premium 5x5 HD lace closure featuring beautiful jet black body wave hair. Perfect for a natural look and easy installation.
-  Updated: 2025-12-30T15:27:11Z
+  Updated: 2026-01-02T19:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -834,7 +834,7 @@ Frontals for complete coverage
   Image: https://cdn.shopify.com/s/files/1/0662/9208/8937/files/august.jpg?v=1766218058
   Price: $12.99 USD
 - [Glueless Wig: 100% Virgin Human Hair | Chic & Easy](https://wavychicbundles.com/products/straight-headband-wig): Discover the glueless wig with 100% virgin human hair, featuring straight and wavy styles. Perfect for effortless beauty and comfort.
-  Updated: 2025-12-30T22:28:48Z
+  Updated: 2026-01-03T22:28:36Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -849,7 +849,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $268.99 USD
 - [Glueless Wig - Chic Body Wave Headband Wig for Effortless Style](https://wavychicbundles.com/products/glueless-wig-body-wave-hair-headbandwig): Discover our Glueless Wig - Body Wave Headband Wig made of 100% virgin human hair for a chic, effortless look. Perfect for any occasion.
-  Updated: 2025-12-30T22:28:48Z
+  Updated: 2026-01-02T23:25:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -864,7 +864,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $224.99 USD
 - [Glueless Wig - Stylish Deep Wave Headband for Beginners](https://wavychicbundles.com/products/deep-wave-headband-wig): Discover the glueless wig with deep wave texture! Perfect for beginners, easy to wear, and designed for a chic look.
-  Updated: 2025-12-31T07:12:46Z
+  Updated: 2026-01-03T22:28:36Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $284.99 USD
 - [Deep Wave Hair - Brazilian Deep Wave Hair Extensions | Wavy & Chic](https://wavychicbundles.com/products/deep-wave-hair-single-bundle): Premium deep wave hair single bundles made from 100% virgin Brazilian human hair. Bold, bouncy deep wave bundles with lush volume. 10-32" lengths available!
-  Updated: 2026-01-01T19:27:05Z
+  Updated: 2026-01-03T23:28:18Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -966,7 +966,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $142.99 USD
 - [Body Wave Hair - Jet Black Bundle Deals Premium 100% Virgin Human Hair](https://wavychicbundles.com/products/body-wave-hair-jet-black-bundle-deals): Discover our jet black body wave hair bundles. Enjoy luxurious, wavy styles with 3 bundle deals perfect for versatile looks.
-  Updated: 2025-12-30T15:27:11Z
+  Updated: 2026-01-02T19:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1023,7 +1023,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $223.99 USD
 - [Straight Hair Bundles - Malaysian Silky Straight Hair Extensions |](https://wavychicbundles.com/products/malaysian-silky-straight-bundle-deals): Premium straight hair bundles crafted from 100% virgin human hair. Three smooth, sleek Malaysian hair extensions with durable wefts for flawless, long-lasting styles.
-  Updated: 2025-12-30T15:27:12Z
+  Updated: 2026-01-02T19:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1047,7 +1047,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $248.99 USD
 - [Body Wave Hair - Malaysian Body Wave Bundles 10-24" |  & Chic -](https://wavychicbundles.com/products/malaysian-body-wave): Premium body wave hair bundles crafted from 100% virgin Malaysian hair. Soft, flowing texture with natural volume and bounce. Available in lengths 10-24" for effortless glamour.
-  Updated: 2025-12-29T22:35:12Z
+  Updated: 2026-01-02T20:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1092,7 +1092,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $124.99 USD
 - [Premium Straight Hair Bundles - Brazilian Silky Quality](https://wavychicbundles.com/products/brazilian-silky-straight-bundles): Discover our Brazilian silky straight hair bundles for stunning extensions. Perfect for a chic new look with easy styling options.
-  Updated: 2025-12-31T06:27:11Z
+  Updated: 2026-01-03T20:26:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1152,7 +1152,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $72.99 USD
 - [Loose Wave Hair Bundle -100% Virgin Brazilian Human Hair | Wavy & Chic](https://wavychicbundles.com/products/loose-wave-hair-bundle): Premium loose wave hair single bundles crafted from 100% virgin Brazilian human hair. Soft, bouncy curls with natural movement. 10-32" lengths. Style, color & customize!
-  Updated: 2026-01-01T19:27:06Z
+  Updated: 2026-01-02T23:25:52Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1272,7 +1272,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $109.99 USD
 - [Kinky Curly Bundles 100% Virgin Brazilian Human Hair](https://wavychicbundles.com/products/brazilian-kinky-curly): Premium kinky curly bundles in 100% virgin Brazilian human hair. Tight coils, natural volume, lengths 10-32 inches. Style, straighten or color today.
-  Updated: 2025-12-31T12:25:52Z
+  Updated: 2026-01-03T02:29:51Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1350,7 +1350,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $279.99 USD
 - [Body Wave Hair Wig - 100% Virgin | Wavy & Chic](https://wavychicbundles.com/products/brazilian-body-wave-u-part-wig): Explore our Body Wave Hair Wig made from 100% virgin human hair. Chic and stylish, perfect for any occasion.
-  Updated: 2025-12-30T22:28:48Z
+  Updated: 2026-01-03T15:28:31Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1398,7 +1398,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $124.99 USD
 - [Deep Wave Hair |13x4 HD Lace Frontal Wig | Wavy & Chic - Wavy & Chic](https://wavychicbundles.com/products/deep-wave-hair-13x4-hd-lace-frontal): Deep Wave Hair 13x4 Lace Front Wig. Dive into bold, beautiful style with our HD Deep Wave Hair 13x4 Lace Front Wig, crafted from 100% virgin human hair. Shop Now!
-  Updated: 2025-12-30T22:28:46Z
+  Updated: 2026-01-03T15:28:31Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
@@ -1416,7 +1416,7 @@ Frontals for complete coverage
     Availability: Available
     Price: $359.99 USD
 - [Hair Growth Serum for Fuller Hair](https://wavychicbundles.com/products/new-life-hair-growth-serum): Revitalize your hair with New Life Hair Growth Serum. Experience fuller, healthier hair with natural ingredients designed for optimal results.
-  Updated: 2025-12-30T17:31:11Z
+  Updated: 2026-01-02T19:26:52Z
   Vendor: Wavy & Chic Bundles
   Product Type: 
   Availability: Available
