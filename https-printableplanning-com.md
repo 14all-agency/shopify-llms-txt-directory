@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-03T20:00:29.656Z
+- Updated At: 2026-01-04T00:00:46.866Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1464,7 +1464,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedCuteHoneycombBeeBookmarks5-up-PrintablePlanning.jpg?v=1686328195
   Price: $5.95 USD
 - [Name Labels for School Supplies on White BUNDLE - Printable](https://printableplanning.com/products/name-labels-for-school-supplies-on-white-bundle-printable): A bundle of printable 8.5" x 11" pages of Name Labels for School Supplies on White designed with red, blue, purple, and pink with gray text color schemes over white, personalized with your first and last name. These name labels are perfect for putting your children's name on school supplies for back to school. These pages were programmed that when you update the names on one label, the rest then all update for that page. These pages match Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: (4) @ 8.5" x 11" printable PDF pages. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Edit one label on a page and it updates every label. Print new pages from this printable Name Labels for School Supplies on White BUNDLE every time you need more back-to-school (or other use) name labels.
-  Updated: 2025-07-21T19:20:17Z
+  Updated: 2026-01-03T23:50:22Z
   Vendor: Artistically Invited
   Product Type: Name Labels
   Availability: Available
