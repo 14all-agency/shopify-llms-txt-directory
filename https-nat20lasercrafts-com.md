@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2026-01-02T00:00:29.250Z
+- Updated At: 2026-01-04T00:00:32.408Z
 
 ## Products
 
@@ -267,6 +267,9 @@
     Author: Nat 20 Custom Laser Crafts
   - [D&D Condition Rings to Streamline Your Tabletop Gaming Experience](https://nat20lasercrafts.com/blogs/news/d-d-condition-rings-to-streamline-your-tabletop-gaming-experience): D&D Condition Rings to Streamline Your Tabletop Gaming Experience
     Updated: 2025-12-31T02:38:45Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Enhance Your Gaming Sanctuary with the 12 Inch Laser Cut Geometric Dice Sword](https://nat20lasercrafts.com/blogs/news/enhance-your-gaming-sanctuary-with-the-12-inch-laser-cut-geometric-dice-sword): Enhance Your Gaming Sanctuary with the 12 Inch Laser Cut Geometric Dice Sword
+    Updated: 2026-01-03T01:01:17Z
     Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
