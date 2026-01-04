@@ -8,7 +8,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2026-01-03T00:00:31.385Z
+- Updated At: 2026-01-04T00:00:31.348Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
@@ -222,7 +222,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:22Z
   Total Products: 244
 - [Memory Semiconductor Devices: Non-Volatile & Volatile Storage Solutions (64b – 6Tb)](https://hqickey.com/collections/memory): Discover Memory Semiconductor Devices including Non-Volatile (EEPROM, Flash) and Volatile (DRAM, SRAM) types. Features 64b–6Tb storage with I2C, SPI, and Parallel interfaces for integrated circuit applications.
-  Updated: 2026-01-02T00:38:57Z
+  Updated: 2026-01-03T16:03:28Z
   Total Products: 54444
 - [Specialized Integrated Circuits (ICs): Application-Specific Solutions for Automation, Security & Multimedia](https://hqickey.com/collections/specialized-ics): Explore specialized ICs for addressable switches, authentication, audio/video control, clock generation, and more. Discover how these purpose-built chips enable precision in industrial, consumer, and embedded systems.
   Updated: 2026-01-02T06:05:33Z
@@ -336,7 +336,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-01-02T11:12:10Z
   Total Products: 54207
 - [Infineon Technologies ICs | Cypress Semiconductor & International Rectifier - HQICKEY](https://hqickey.com/collections/infineon-technologies): Authorized distributor of Infineon Technologies, Cypress Semiconductor Corp, and International Rectifier components. Full traceability, RoHS/REACH compliant power ICs, FPGAs, and memory solutions.
-  Updated: 2026-01-01T07:45:35Z
+  Updated: 2026-01-03T10:37:11Z
   Total Products: 26035
 - [Cypress Semiconductor Corp Components by Infineon - HQICKEY](https://hqickey.com/collections/cypress-semiconductor-corp): Authorized distributor of Cypress Semiconductor Corp (Infineon) memory ICs, PSoC microcontrollers, USB controllers & power management solutions. RoHS compliant, full traceability.
   Updated: 2026-01-02T11:14:59Z
