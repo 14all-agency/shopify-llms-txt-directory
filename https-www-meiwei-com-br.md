@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-03T20:01:19.057Z
+- Updated At: 2026-01-04T00:01:34.102Z
 
 ## Products
 
@@ -9427,7 +9427,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/ovos-pata-conserva_1.jpg?v=1744145131
   Price: R$ 59,99 BRL
 - [Ovos de pata em conserva (Century Egg) - Yiliuxiang 330g](https://www.meiwei.com.br/products/ovos-de-pata-em-conserva-century-egg-yiliuxiang-330g): Também conhecidos como “ovos centenários”, são uma iguaria tradicional chinesa feita com ovos de pata preservados em uma mistura especial por semanas. O processo transforma a clara em um gel translúcido e escuro, enquanto a gema ganha uma textura cremosa e um sabor intenso e marcante. Ideal para servir com tofu gelado, mingau de arroz (congee) ou como petisco para paladares curiosos e exigentes. INGREDIENTES: Ovos de pato, água potável, sal comestível, chá verde. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 650kJ 8% Proteína 12,5g 21% Gorduras Totais 11g 18% Carboidratos 1,8g 1% Sódio 515mg 26% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 330g (6 unidades)
-  Updated: 2025-12-31T01:06:11Z
+  Updated: 2026-01-03T21:30:50Z
   Vendor: Yiliuxiang
   Product Type: Condimento
   Availability: Available
@@ -12885,7 +12885,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-mistura-de-graos-chineses-para-mingau-feijao-verde-lirio-lvdou-baihe-zhou-xijiale-350g-embalagem.jpg?v=1766976351
   Price: R$ 48,90 BRL
 - [Mistura de Grãos Chineses para Mingau  Xijiale 350g - 香糯八宝粥 五谷杂粮](https://www.meiwei.com.br/products/mistura-de-graos-chineses-para-mingau-xiangnuo-babaozhou-xijiale-350g): Uma mistura tradicional de grãos selecionados para preparar mingaus nutritivos e cheios de sabor. Combina diferentes tipos de arroz, feijões e cereais, proporcionando equilíbrio entre energia, fibras e leveza. Ideal para o dia a dia, é uma refeição saudável que pode ser apreciada no café da manhã ou em qualquer momento, trazendo os benefícios dos grãos integrais em uma receita prática e deliciosa. INGREDIENTES: Arroz, arroz preto, feijão vermelho, feijão verde (mung bean), arroz glutinoso, milho, coix (Job’s tears) e aveia. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1446kJ 17% Proteína 7,3g 12% Gorduras Totais 2,5g 9% Carboidratos 67,3g 22% Sódio 28mg 1% Manter em local seco e fresco. Validade: 18 meses Origem: China Contém 350g
-  Updated: 2025-12-29T14:43:52Z
+  Updated: 2026-01-03T21:30:50Z
   Vendor: Xijiale
   Product Type: Arroz
   Availability: Available
@@ -13123,7 +13123,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-salgadinho-de-tofu-em-tiras-dois-sabores-wu-xiang-xiang-la-chao-a-dou-niu-68g.jpg?v=1766944233
   Price: R$ 9,99 BRL
 - [Brotos de bambu em óleo de soja Master Sauce 340g - 辣油香筍](https://www.meiwei.com.br/products/brotos-de-bambu-em-oleo-de-soja-master-sauce-340g): Os Brotos de Bambu em Óleo de Soja são um ingrediente versátil e pronto para uso, ideal para adicionar sabor e textura crocante a saladas, refogados, stir-fries e pratos asiáticos. Conservados em óleo de soja, mantêm seu frescor, aroma delicado e praticidade no preparo, oferecendo uma opção rápida e nutritiva para o dia a dia. Perfeito para quem busca praticidade sem abrir mão do sabor autêntico da culinária oriental. INGREDIENTES: Broto de bambu, óleo de soja, açúcar, sal, pimenta e ácido láctico. INFORMAÇÕES NUTRICIONAISPorção de 15g (1 colher de sopa) Valor Calórico 46kcal 2% Proteínas 0g 0% Gorduras Totais 4,5g 7% Carboidratos 0,9g 0% Açúcares Totais 0,8g * Açúcares Adicionados 0,6g 1% Sódio 134mg 7% Armazenar em local fresco e seco, longe da luz solar direta. Validade: 6 meses Origem: China Contém 340g
-  Updated: 2025-12-29T05:41:50Z
+  Updated: 2026-01-03T21:30:50Z
   Vendor: Master Sauce
   Product Type: Conserva
   Availability: Available
@@ -13319,7 +13319,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/DESCH107.png?v=1759365043
   Price: R$ 59,99 BRL
 - [Bastões de Tofu Desidratada (Dried Bean Curd Sticks) – 340 g](https://www.meiwei.com.br/products/bastoes-de-tofu-desidratada-dried-bean-curd-sheets-340g): Bastões de tofu desidratadas feitas de soja selecionada. Textura firme e elástica após hidratar, ideal para refogados, sopas, hot pot, salteados e grelhados. Versátil, com alto teor de proteína vegetal e baixo teor de carboidratos. Basta hidratar em água morna por 20–30 minutos antes do preparo. Peso líquido aproximado: 350 g. Produto da China. INGREDIENTES: Soja (grão de soja), água e aditivo alimentar: pirosulfito de sódio (metabissulfito de sódio com baixo teor de SO2).. CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 10g Valor Calórico 514kcal Carboidratos 28,5g 0% Proteínas 46,8g Gorduras totais 23,6g 1% Gorduras saturadas 0g 0% Sódio 275mg 18% Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: China Contém 340g
-  Updated: 2025-12-06T15:43:31Z
+  Updated: 2026-01-03T21:30:50Z
   Vendor: Condimen Cracker
   Product Type: Condimento
   Availability: Available
@@ -13865,7 +13865,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-chines-pera-xiongbenxiong-320ml.png?v=1763168408
   Price: R$ 77,99 BRL
 - [Tofu Fermentado Branco Haitan 288g - 海天腐乳](https://www.meiwei.com.br/products/tofu-fermentado-branco-haitan-288g): O Tofu Fermentado Branco Haitan (海天腐乳) é um clássico da culinária chinesa, conhecido por seu sabor marcante, textura cremosa e aroma característico. Produzido pela tradicional marca Haitan, este tofu fermentado é ideal para ser usado como acompanhamento, tempero para molhos, refogados, caldos ou até mesmo puro, acompanhado de arroz. Muito apreciado em receitas típicas do sul da China, especialmente em Guangdong. Origem: China Como armazenar: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 15 dias. Lista de ingredientes: Soja, água, sal, álcool, óleo vegetal, açúcar, pimenta, especiarias, fermento, conservante (benzoato de sódio). Tabela nutricional (porção de 100g): Componente Quantidade VD%* Energia 431 kJ 5% Proteínas 8,8 g 15% Gorduras totais 6,4 g 11% Carboidratos 2,6 g 1% Sódio 2993 mg 150% *Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Molho de Tofu Fermentado para Vegetais Salteados Ingredientes: 1 cubo de Tofu Fermentado Branco Haitan (海天腐乳) 1 colher de sopa de óleo de gergelim 1 dente de alho picado 1 colher de sopa de água Legumes variados (brócolis, couve-flor, cenoura) Modo de preparo: Amasse o tofu fermentado com o alho e o óleo de gergelim até formar um creme. Acrescente a água e misture bem. Salteie os legumes em uma frigideira e adicione o molho de tofu fermentado. Misture até os legumes ficarem bem envolvidos e sirva quente.
-  Updated: 2025-12-29T10:30:21Z
+  Updated: 2026-01-03T21:30:50Z
   Vendor: Haday（海天）
   Product Type: Molhos Diversos
   Availability: Available
@@ -14472,8 +14472,8 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-03T15:31:28Z
-  Total Products: 1512
+  Updated: 2026-01-03T23:50:28Z
+  Total Products: 1513
 - [Molho](https://www.meiwei.com.br/collections/molho)
   Updated: 2026-01-03T12:02:46Z
   Total Products: 544
@@ -14715,8 +14715,8 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-03T15:31:28Z
-  Total Products: 2235
+  Updated: 2026-01-03T23:50:28Z
+  Total Products: 2236
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
   Total Products: 3
@@ -14727,8 +14727,8 @@
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-01-03T15:31:28Z
-  Total Products: 806
+  Updated: 2026-01-03T23:50:29Z
+  Total Products: 807
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
   Updated: 2025-12-31T12:02:57Z
   Total Products: 37
@@ -14745,17 +14745,17 @@
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-03T15:31:28Z
-  Total Products: 3691
+  Updated: 2026-01-03T23:50:29Z
+  Total Products: 3692
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
   Updated: 2026-01-03T15:31:41Z
   Total Products: 637
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-03T15:31:41Z
-  Total Products: 3056
+  Updated: 2026-01-03T23:50:29Z
+  Total Products: 3057
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-03T15:31:28Z
-  Total Products: 3691
+  Updated: 2026-01-03T23:50:29Z
+  Total Products: 3692
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
   Updated: 2026-01-03T15:31:28Z
   Total Products: 2058
