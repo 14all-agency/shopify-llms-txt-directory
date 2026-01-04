@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-04T04:01:16.735Z
+- Updated At: 2026-01-04T08:01:08.501Z
 
 ## Products
 
@@ -4079,7 +4079,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bubble-tea-peach-pessego.jpg?v=1716310049
   Price: R$ 18,90 BRL
 - [Chá gelado sabor maçã (Bubble Tea) - Madam Hong 320ml](https://www.meiwei.com.br/products/cha-gelado-bubble-tea-sabor-maca-madam-hong-320ml): O chá gelado Bubble Tea sabor maçã combina o frescor do chá gelado com o sabor frutado e levemente doce da maçã. Com as tradicionais bolinhas de tapioca, que oferecem uma textura mastigável e divertida, essa bebida é refrescante e perfeita para qualquer momento do dia. O sabor de maçã traz um toque suave e equilibrado, tornando-a uma opção deliciosa para quem busca algo diferente e saboroso. INGREDIENTES: Água, 20% suco de maçã do concentrado, 6% bolha de explosão (água, frutose, 6% suco de maçã do concentrado, regulador de acidez: lactato de cálcio; espessantes: goma xantana, amido acetilado, alginato de sódio; conservante: málico ácido; antioxidante: ácido ascórbico; cor: licopeno), açúcar, 0,3% extrato de chá preto, regulador de acidez: ácido cítrico; aromatizante; antioxidante: ácido ascórbico; adoçante: sucralose. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto, conservar refrigerado. Origem: Taiwan Contem 320ml
-  Updated: 2025-12-23T17:49:51Z
+  Updated: 2026-01-04T06:27:14Z
   Vendor: Madam Hong
   Product Type: Chá
   Availability: Available
@@ -5108,7 +5108,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-Maoxuewnag-qiaotou.jpg?v=1722959327
   Price: R$ 39,99 BRL
 - [Tempero para pato sabor apimentado - QiaoTou 150g](https://www.meiwei.com.br/products/tempero-p-pato-sabor-apimentado-qiaotou-150g): O Tempero para Pato Sabor Apimentado é perfeito para quem deseja dar um toque picante e saboroso ao preparo de pato. Este tempero combina especiarias selecionadas para realçar o sabor da carne, oferecendo um equilíbrio entre picância e aroma que torna o prato ainda mais irresistível. INGREDIENTES: Óleo vegetal, pasta de soja, pimenta, sal, alho, gengibre, glutamato monossódico (INS621), caldo de galinha, pimenta Sichuan, cebolinha, soja preta fermentada, extrato de levedura, especiarias, glicose, tempero de frango, aditivo alimentar (essência alimentar, 5'-Ribonucleotídeo dissídio (INS 635)), sabor alimentar. NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 20g (1 colher de sopa) Valor Calórico 68kcal 3% Carboidratos totais 0g 0% Açúcares totais 0g 0% Proteínas 0,5g 1% Gorduras totais 7,4g 13% Sódio 1173mg 49% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 150g
-  Updated: 2025-12-06T15:38:26Z
+  Updated: 2026-01-04T05:08:03Z
   Vendor: QiaoTou
   Product Type: Condimento
   Availability: Available
@@ -9882,7 +9882,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-shoyu-molho-de-soja-master-wei-ji-xian-18l.jpg?v=1766340892
   Price: R$ 109,99 BRL
 - [Pedaços de água viva super picante - MinYang 150g](https://www.meiwei.com.br/products/pedacos-de-agua-viva-com-tempero-picante-minyang-150g): Pedaços de água viva (ou medusa) prontos para consumo, com textura crocante e leve sabor do mar. Acompanha saquinhos de tempero picante separados, permitindo ajustar o nível de ardência ao seu gosto. Ideal como entrada fria, petisco ou acompanhamento em refeições orientais. Basta escorrer, temperar e servir. INGREDIENTES: Saco de água-viva: pedaços de água-viva salgados (pedaços de água-viva, água, sal comestível, aditivos alimentares (sulfato de alumínio e potássio)), água, sal comestível, aditivos alimentares (sorbato de potássio). Saco de molho: água, óleo vegetal, pimenta, alho, vinagre, açúcar, sal, glutamato monossódico, tempero para frango, óleo picante de Sichuan (óleo vegetal, pimenta, pimenta, especiarias), pimenta em pó, gergelim, aditivos alimentares (goma xantana, sementes de gergelim). Saco de óleo de gergelim temperado: óleo de gergelim, óleo vegetal, especiarias. Saco de tempero em pó: glutamato monossódico, açúcar, tempero para frango, gergelim, cebolinha desidratada (alimento irradiado), aditivos alimentares (ribonucleotídeo dissódico de sabor 5'). Armazenar em local fresco e seco, longe da luz solar direta. Validade: 9 meses Origem: China Contém 150g
-  Updated: 2025-12-06T15:41:44Z
+  Updated: 2026-01-04T06:20:20Z
   Vendor: MinYang
   Product Type: Condimento
   Availability: Available
@@ -10085,14 +10085,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cubos-carne-cinco-especiarias.jpg?v=1748537953
   Price: R$ 19,99 BRL
 - [Lagosta-mantis picante - Fujiayifang 71g](https://www.meiwei.com.br/products/lagosta-mantis-picante-fujiayifang-71g): A Lagosta-Mantis Picante é um snack exótico e irresistível, perfeito para quem busca sabores autênticos e ousados da culinária asiática. Conhecida também como camarão-mantis, essa iguaria é um crustáceo marinho de carne firme e sabor marcante, envolvido em um tempero aromático com pimenta, gergelim e especiarias tradicionais. Pronta para consumo, ela é ideal como petisco, acompanhamento ou até como ingrediente em receitas criativas. Um produto premium, surpreendente e cheio de personalidade para quem ama explorar novos sabores! INGREDIENTES: Lagosta-mantis, xarope de maltose, óleo de soja comestível, açúcar branco, gergelim, pimenta, sal comestível, especiarias, glutamato monossódico, aditivos alimentares (sorbato de potássio). INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1386kJ 17 Proteínas 19,5g 33 Gorduras Totais 8,7g 15 Carboidratos 43,1g 14 Sódio 1897mg 95 Armazenar em local fresco e arejado. Evite luz solar direta e altas temperaturas. ATENÇÃO: não engula de uma só vez. Idosos e crianças devem consumir o alimento sob supervisão! Validade: 8 meses Origem: China Contém 71g
-  Updated: 2025-12-23T17:34:36Z
+  Updated: 2026-01-04T06:20:20Z
   Vendor: Fujiayifang
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/camarao-pipa-apimentado.jpg?v=1748624014
   Price: R$ 29,99 BRL
 - [Caranguejo picante - Fujiayifang 61g](https://www.meiwei.com.br/products/caranguejo-picante-fujiayifang-61g): Um petisco surpreendente feito com pequenos pedaços de caranguejo crocante e temperado com uma mistura irresistível de pimenta, soja, gergelim e especiarias tradicionais asiáticas. Um snack pronto para consumo, perfeito para quem aprecia ingredientes exóticos e quer elevar a experiência gastronômica com um toque picante e autêntico da culinária oriental. Ideal para saborear sozinho, servir como aperitivo ou até complementar receitas criativas. Sabor intenso, textura crocante e personalidade forte em cada mordida! INGREDIENTES: Caranguejo, xarope de maltose, óleo de soja, açúcar, gergelim, pimenta, sal, especiarias, glutamato monossódico, aditivos alimentares (sorbato de potássio). INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1338kJ 16 Proteínas 21,6g 36 Gorduras Totais 10,4g 17 Carboidratos 34,5g 12 Sódio 1420mg 71 Armazenar em local fresco e arejado. Evite luz solar direta e altas temperaturas. ATENÇÃO: não engula de uma só vez. Idosos e crianças devem consumir o alimento sob supervisão! Validade: 8 meses Origem: China Contém 61g
-  Updated: 2026-01-01T19:45:09Z
+  Updated: 2026-01-04T06:20:20Z
   Vendor: Fujiayifang
   Product Type: Aperitivo
   Availability: Available
@@ -13760,7 +13760,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mini-salsicha-tradicional-hanshi-heshi-meiwei-chang-18g.png?v=1762628725
   Price: R$ 11,99 BRL
 - [Ovo Cozido Chinês Cinco Especiarias 兴利乡香传五香蛋](https://www.meiwei.com.br/products/ovo-cozido-chines-cinco-especiarias): O Ovo Cozido Chinês Cinco Especiarias (五香蛋) da marca 兴利乡香传 é um snack tradicional da culinária de Wenzhou, China. Este ovo é cozido lentamente em um caldo aromático com cinco especiarias, absorvendo sabores marcantes e uma cor escura característica. Pronto para consumo, é perfeito para lanches rápidos, marmitas, piqueniques ou para compor pratos orientais autênticos. Lista de ingredientes: Ovo de galinha, água, molho de soja, sal, açúcar, especiarias (anis estrelado, canela, pimenta do reino, cravo, erva-doce), glutamato monossódico (MSG), corante caramelo, conservantes (benzoato de sódio, sorbato de potássio). Tabela nutricional (porção de 60g - 1 ovo): Componente Quantidade VD%* Energia 350 kJ 4% Proteínas 7,0 g 12% Gorduras totais 5,0 g 8% Carboidratos 3,0 g 1% Sódio 500 mg 25% *Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Ovo Chinês com Cinco Especiarias no Lamen Ingredientes: 1 Ovo Cozido Chinês Cinco Especiarias (五香蛋) 1 porção de macarrão lamen cozido Caldo de sua preferência Cebolinha picada Broto de bambu e alga nori (opcional) Modo de preparo: Prepare o lamen conforme instruções da embalagem. Aqueça o ovo cinco especiarias em água quente por 2 minutos. Corte o ovo ao meio e coloque sobre o lamen pronto. Finalize com cebolinha, broto de bambu e alga nori Origem: Fabricado em Wenzhou, China, região famosa por snacks tradicionais e receitas autênticas. Como armazenar: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 24 horas.
-  Updated: 2025-12-31T01:06:10Z
+  Updated: 2026-01-04T06:20:20Z
   Vendor: Wenzhou
   Product Type: Condimento
   Availability: Available
