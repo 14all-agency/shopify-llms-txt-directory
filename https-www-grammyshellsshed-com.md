@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2026-01-03T00:00:34.645Z
+- Updated At: 2026-01-04T00:00:34.503Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -496,11 +496,11 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_3a29940f-5e6f-4152-b6d0-28ea4fe559ee.png?v=1756346663
   Price: $14.85 USD
 - [Jones New York Signature - Floral  Blouse](https://www.grammyshellsshed.com/products/jones-new-york-signature-floral-top-blouse): Shop the Jones New York Signature See Through Floral Top Blouse. Stylish, lightweight, and perfect for any occasion. Available in size Small.
-  Updated: 2026-01-02T02:19:14Z
+  Updated: 2026-01-03T18:14:01Z
   Vendor: Jones New York
   Product Type: ladies blouse
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/pink.webp?v=1757911779
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/pink.webp?v=1767463973
   Price: $16.75 USD
 - [Hand Painted Summertime Dinner Set | Unique Chinese Art](https://www.grammyshellsshed.com/products/hand-painted-summertime-dinner-set-plates-cups): Discover our Hand Painted Summertime Dinner Set featuring elegant plates and cups with unique Chinese art. Perfect for any occasion!
   Updated: 2026-01-02T02:19:14Z
@@ -1672,10 +1672,10 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Updated: 2026-01-02T02:35:07Z
   Total Products: 18
 - [Ladies clothing shoes and accessories](https://www.grammyshellsshed.com/collections/ladies-clothing): Ladies Apparel Dresses, tops, skirts pants, blouses, shoes, and accessories
-  Updated: 2026-01-02T02:35:07Z
+  Updated: 2026-01-03T18:16:07Z
   Total Products: 24
 - [PLATTERS](https://www.grammyshellsshed.com/collections/platters): Elegant platters & cake stands -to present your beautiful baking and scrumptious meals for your family and friends
-  Updated: 2026-01-02T02:35:07Z
+  Updated: 2026-01-03T18:05:26Z
   Total Products: 14
 - [Extraordinary selection of Pitchers & Tea pots](https://www.grammyshellsshed.com/collections/extraordinary-selection-of-pitchers-glass-pottery)
   Updated: 2026-01-02T02:35:07Z
@@ -1705,6 +1705,9 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
     Author: Grammy Shell
   - [The Evolution of Vintage Fashion Through the Decades](https://www.grammyshellsshed.com/blogs/news/the-evolution-of-vintage-fashion-through-the-decades): The Evolution of Vintage Fashion Through the Decades
     Updated: 2025-12-31T02:33:57Z
+    Author: Grammy Shell
+  - [Must-Know Tips for Shopping Second Hand Online](https://www.grammyshellsshed.com/blogs/news/must-know-tips-for-shopping-second-hand-online): Must-Know Tips for Shopping Second Hand Online
+    Updated: 2026-01-03T00:39:01Z
     Author: Grammy Shell
 
 ## Store Pages
