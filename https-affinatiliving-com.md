@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-04T00:00:53.402Z
+- Updated At: 2026-01-04T04:00:36.345Z
 
 ## Products
 
@@ -2548,7 +2548,7 @@
     Availability: Available
     Price: $64.95 USD
 - [3-Wick Champagne Toast Candle](https://affinatiliving.com/products/3-wick-champagne-toast-candle): Celebrate any moment with the bubbly, fruity scent of Champagne Toast. This 3-wick candle blends sparkling citrus and berries for a bright, uplifting burn.
-  Updated: 2025-12-30T21:05:19Z
+  Updated: 2026-01-04T02:12:29Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4794,7 +4794,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Refined warmth meets orchard elegance. The 10 oz Applewood Luxe Candle by Affinati blends apple, cedar, and amber in a soy-blend wax with a crackling wooden wick for cozy sophistication.
-  Updated: 2025-12-28T14:21:22Z
+  Updated: 2026-01-04T00:30:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4809,7 +4809,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Warm, smooth, and sophisticated. The 13 oz Applewood Luxe Candle by Affinati blends applewood, pear, and amber in a soy-blend wax with a soothing crackling wooden wick.
-  Updated: 2025-12-30T17:13:29Z
+  Updated: 2026-01-04T00:27:42Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4824,7 +4824,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Immerse your home in luxury with the 21 oz Applewood Luxe Candle by Affinati. A soy-blend candle with apple, amber, and oak notes plus a crackling wooden wick for elevated warmth and refinement.
-  Updated: 2025-12-28T14:21:22Z
+  Updated: 2026-01-04T00:24:29Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -8012,6 +8012,51 @@
   - [Pack of 5](https://affinatiliving.com/products/balsam-fir-original-candle?variant=58574188609617)
     Availability: Available
     Price: $64.95 USD
+- [Balsam & Fir Signature Candle](https://affinatiliving.com/products/balsam-fir-signature-candle): Fill your space with fresh fir, balsam, and soft woods. This Balsam & Fir soy-blend candle offers a clean burn and a calm, forest-inspired scent.
+  Updated: 2026-01-04T01:13:17Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_3_2026_at_01_50_38_PM.png?v=1767466435
+  - [Single Order](https://affinatiliving.com/products/balsam-fir-signature-candle?variant=58574189428817)
+    Availability: Not Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/balsam-fir-signature-candle?variant=58574189461585)
+    Availability: Not Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/balsam-fir-signature-candle?variant=58574189494353)
+    Availability: Not Available
+    Price: $72.95 USD
+- [Citrus Basil Original Candle](https://affinatiliving.com/products/citrus-basil-original-candle): Bright and refreshing, the Citrus Basil Original Candle blends fresh citrus, aromatic basil, and soft woods in a clean-burning soy wax candle with a strong scent and long-lasting burn.
+  Updated: 2026-01-04T00:43:22Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_3_2026_at_07_38_15_PM.png?v=1767487178
+  - [Single Order](https://affinatiliving.com/products/citrus-basil-original-candle?variant=58574839578705)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/citrus-basil-original-candle?variant=58574839611473)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/citrus-basil-original-candle?variant=58574839644241)
+    Availability: Available
+    Price: $64.95 USD
+- [Citrus Basil Signature Candle](https://affinatiliving.com/products/citrus-basil-signature-candle): Fresh and invigorating, the Affinati Citrus Basil Signature Candle blends bright citrus, aromatic basil, and soft woods in a premium soy wax candle with up to 55 hours of clean burn time.
+  Updated: 2026-01-04T01:21:51Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Jan_3_2026_at_08_20_01_PM.png?v=1767489644
+  - [Single Order](https://affinatiliving.com/products/citrus-basil-signature-candle?variant=58574850719825)
+    Availability: Not Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/citrus-basil-signature-candle?variant=58574850752593)
+    Availability: Not Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/citrus-basil-signature-candle?variant=58574850785361)
+    Availability: Not Available
+    Price: $72.95 USD
 
 ## Collections
 
@@ -8022,8 +8067,8 @@
   Updated: 2026-01-03T12:09:43Z
   Total Products: 97
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2026-01-03T18:42:41Z
-  Total Products: 82
+  Updated: 2026-01-04T01:20:40Z
+  Total Products: 83
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-21T01:39:51Z
   Total Products: 32
@@ -8049,8 +8094,8 @@
   Updated: 2025-12-18T18:11:46Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2026-01-03T18:42:41Z
-  Total Products: 361
+  Updated: 2026-01-04T01:20:40Z
+  Total Products: 363
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2026-01-01T12:07:53Z
   Total Products: 129
@@ -8073,23 +8118,23 @@
   Updated: 2025-12-18T18:11:47Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2026-01-03T18:42:07Z
-  Total Products: 98
+  Updated: 2026-01-04T00:39:35Z
+  Total Products: 99
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2026-01-02T12:08:25Z
   Total Products: 54
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2026-01-03T18:44:52Z
-  Total Products: 122
+  Updated: 2026-01-04T01:21:03Z
+  Total Products: 124
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2026-01-03T18:42:41Z
+  Updated: 2026-01-04T01:21:03Z
   Total Products: 153
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
   Updated: 2026-01-03T18:42:06Z
   Total Products: 139
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2026-01-03T12:09:42Z
-  Total Products: 104
+  Updated: 2026-01-04T01:21:03Z
+  Total Products: 106
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
   Updated: 2026-01-03T18:24:43Z
   Total Products: 65
@@ -8097,8 +8142,8 @@
   Updated: 2026-01-03T12:09:42Z
   Total Products: 68
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2026-01-03T18:45:03Z
-  Total Products: 140
+  Updated: 2026-01-04T01:21:20Z
+  Total Products: 143
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
   Updated: 2026-01-02T12:08:25Z
   Total Products: 24
@@ -8112,7 +8157,7 @@
   Updated: 2026-01-03T18:24:43Z
   Total Products: 53
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2026-01-03T18:44:52Z
+  Updated: 2026-01-04T01:21:03Z
   Total Products: 52
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
   Updated: 2026-01-03T18:24:43Z
@@ -8803,6 +8848,9 @@
   - [Soy Candle Burn Time Explained | How Long Do Soy Candles Last?](https://affinatiliving.com/blogs/deep-analysis/what-is-the-burn-time-of-a-soy-candle-everything-you-need-to-know)
     Updated: 2025-10-07T23:59:03Z
     Author: Gerard Collins
+  - [Why You Should Not Buy Yankee Candles: A Cleaner Candle Alternative](https://affinatiliving.com/blogs/deep-analysis/why-you-should-not-buy-yankee-candles-a-cleaner-candle-alternative)
+    Updated: 2026-01-04T00:10:38Z
+    Author: Gerard Collins
   - [Why You Should Not Buy Bath and Body Works Candles: A Clean Living Perspective](https://affinatiliving.com/blogs/deep-analysis/why-you-should-not-buy-bath-and-body-works-candles-a-clean-living-perspective)
     Updated: 2025-09-04T19:33:08Z
     Author: Gerard Collins
@@ -8917,6 +8965,9 @@
     Author: Gerard Collins
   - [Goose Creek vs Affinati | Best Luxury Soy Candles for Every Home](https://affinatiliving.com/blogs/deep-analysis/goose-creek-candles-vs-affinati-candles-best-luxury-3-wick-candles)
     Updated: 2025-11-09T15:07:40Z
+    Author: Gerard Collins
+  - [What Are Soy Candles? Benefits, Burn Time & Bestsellers | Affinati](https://affinatiliving.com/blogs/deep-analysis/what-are-soy-candles-benefits-burn-time-bestsellers-affinati)
+    Updated: 2026-01-04T00:14:33Z
     Author: Gerard Collins
   - [Best Body Scrubs for Women 2025: Smooth, Glow, and Treat Strawberry Legs](https://affinatiliving.com/blogs/deep-analysis/best-body-scrubs-for-women-smooth-glow-and-treat-strawberry-legs)
     Updated: 2025-09-05T18:21:57Z
@@ -9569,6 +9620,27 @@
   - [Alcohol-Based vs Oil-Based Reed Diffusers: What’s the Difference?](https://affinatiliving.com/blogs/deep-analysis/alcohol-based-vs-oil-based-reed-diffusers-what-s-the-difference)
     Updated: 2026-01-02T21:01:15Z
     Author: Gerard Collins
+  - [What Is Fragrance Load in Candles? Why It Matters for Scent Throw, Burn Quality & Performance](https://affinatiliving.com/blogs/deep-analysis/what-is-fragrance-load-in-candles-why-it-matters-for-scent-throw-burn-quality-and-performance)
+    Updated: 2026-01-04T00:11:34Z
+    Author: Gerard Collins
+  - [Are Essential Oil Candles Better Than Fragrance Oil Candles? The Truth About Scent, Safety & Performance](https://affinatiliving.com/blogs/deep-analysis/are-essential-oil-candles-better-than-fragrance-oil-candles-the-truth-about-scent-safety-performance)
+    Updated: 2026-01-04T00:12:19Z
+    Author: Gerard Collins
+  - [Why Affinati Uses Soy-Blend Wax Instead of 100% Soy (Cleaner Burn, Better Scent & Performance)](https://affinatiliving.com/blogs/deep-analysis/why-affinati-uses-soy-blend-wax-instead-of-100-soy-cleaner-burn-better-scent-and-performance)
+    Updated: 2026-01-04T00:10:00Z
+    Author: Gerard Collins
+  - [Are Expensive Candles Worth It? Honest Cost vs Quality Breakdown](https://affinatiliving.com/blogs/deep-analysis/are-expensive-candles-worth-it-honest-cost-vs-quality-breakdown)
+    Updated: 2026-01-04T00:13:22Z
+    Author: Gerard Collins
+  - [Do Reed Diffusers Expire? Shelf Life Explained (Plus How to Make Yours Last Longer)](https://affinatiliving.com/blogs/deep-analysis/do-reed-diffusers-expire-shelf-life-explained-plus-how-to-make-yours-last-longer)
+    Updated: 2026-01-04T00:08:41Z
+    Author: Gerard Collins
+  - [Best Reed Diffusers for UK Homes & Flats (2026 Guide)](https://affinatiliving.com/blogs/deep-analysis/best-reed-diffusers-for-uk-homes-flats-guide)
+    Updated: 2026-01-04T00:09:42Z
+    Author: Gerard Collins
+  - [Best Reed Diffusers for Canadian Homes (2026 Guide) | Affinati](https://affinatiliving.com/blogs/deep-analysis/best-reed-diffusers-for-canadian-homes-guide-affinati)
+    Updated: 2026-01-04T00:09:00Z
+    Author: Gerard Collins
 - [Debates](https://affinatiliving.com/blogs/debates)
   - [Wooden Wicks vs Cotton Wicks: Best Candle Wicks in 2025](https://affinatiliving.com/blogs/debates/wooden-wicks-vs-cotton-wicks-best-candle-wicks)
     Updated: 2025-09-10T01:34:29Z
@@ -10064,6 +10136,12 @@
     Author: Gerard Collins
   - [Vaseline vs Hempz: Best Body Lotion for Daily Moisture?](https://affinatiliving.com/blogs/debates/vaseline-vs-hempz-best-body-lotion-for-daily-moisture)
     Updated: 2025-12-21T00:31:12Z
+    Author: Gerard Collins
+  - [Best 3-Wick Candles for Strong Scent Throw (2026 Guide): Affinati vs Bath & Body Works + Top Brands](https://affinatiliving.com/blogs/debates/best-3-wick-candles-for-strong-scent-throw-2026-guide-affinati-vs-bath-body-works-top-brands)
+    Updated: 2026-01-04T00:11:07Z
+    Author: Gerard Collins
+  - [Luxury Candles vs Mass-Market Candles: Are They Worth It?](https://affinatiliving.com/blogs/debates/luxury-candles-vs-mass-market-candles-are-they-worth-it)
+    Updated: 2026-01-04T00:07:42Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
