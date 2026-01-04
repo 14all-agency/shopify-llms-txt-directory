@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2026-01-03T00:00:44.601Z
+- Updated At: 2026-01-04T00:00:43.457Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -997,11 +997,11 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/suitcase-printandexplore-3.jpg?v=1759082563
   Price: $223.88 USD
 - [Oversized Cotton Shirt | Comfort and Relaxed Fit](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore): Embrace comfort with our oversized boxy tees designed for relaxed fit. perfrect for lounging or casual outings. style meets ease effortlessly.
-  Updated: 2025-11-09T06:17:45Z
+  Updated: 2026-01-03T16:36:35Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
   - [Black / S](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969750283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-2.jpg?v=1759081442
@@ -1015,7 +1015,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Cypress / S](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739175691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
     Price: $26.95 USD
   - [Athletic Heather / M](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969881355)
     Availability: Available
@@ -1026,7 +1026,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Cypress / M](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739208459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
     Price: $26.95 USD
   - [Eucalyptus / M](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739241227)
     Availability: Available
@@ -1041,7 +1041,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Cypress / L](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739273995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
     Price: $26.95 USD
   - [Eucalyptus / L](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739306763)
     Availability: Available
@@ -1056,7 +1056,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Cypress / XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739339531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
     Price: $26.95 USD
   - [Eucalyptus / XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739372299)
     Availability: Available
@@ -1075,7 +1075,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Cypress / 2XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739405067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
     Price: $26.95 USD
   - [Eucalyptus / 2XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739437835)
     Availability: Available
@@ -1086,7 +1086,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Cypress / 3XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739470603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1759081883
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee.jpg?v=1767458195
     Price: $26.95 USD
   - [Eucalyptus / 3XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739503371)
     Availability: Available
@@ -1454,7 +1454,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_t-shirt_performance_meets_sustainability.jpg?v=1759082379
     Price: $64.15 USD
 - [Premium Fleece Hoodies - Warm and comfortable wear](https://printexplore9.com/products/luxury-fleece-hoodies): Stay warm in elevated comfort with this premium luxury fleece hoodie. Soft interior, relaxed fit, and timeless style — ideal for everyday wear.
-  Updated: 2025-12-08T04:24:09Z
+  Updated: 2026-01-03T16:29:58Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -1923,9 +1923,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 - [Kids Clothing for Little Ones | Comfortable & Stylish Picks](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
   Updated: 2025-12-11T13:07:55Z
   Total Products: 7
-- [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
-  Updated: 2025-12-10T14:27:43Z
-  Total Products: 11
+- [Premium Apparel for Men & Women | Printexplore](https://printexplore9.com/collections/premium-sustainable-apparel-for-men-women): Discover premium apparel for men and women, including high-quality t-shirts, hoodies, and sweatshirts designed for comfort, sustainability, and everyday style.
+  Updated: 2026-01-03T16:33:07Z
+  Total Products: 15
 - [Relaxing Soy Candle for Stress Relief and Peace](https://printexplore9.com/collections/candles): Turn any room into a calming escape with our relaxing soy candle. Long-lasting fragrance and clean soy wax help you unwind at home or in the office.
   Updated: 2025-12-12T02:02:10Z
   Total Products: 3
@@ -1948,7 +1948,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-12-07T10:32:34Z
   Total Products: 12
 - [Organic Skincare Collection | Hydrating & Brightening Care](https://printexplore9.com/collections/organic-skincare): Hydrate, smooth, and glow with our skincare collection featuring toners, serums, and cleansers.
-  Updated: 2025-12-26T10:41:08Z
+  Updated: 2026-01-03T17:10:03Z
   Total Products: 10
 
 ## Blogs
@@ -1993,12 +1993,12 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-08-12T11:41:30Z
 - [Subscribe to Printexplore Insights](https://printexplore9.com/pages/subscribe-to-printexplore-insights): Get smart, actionable ideas on Brand protection and growth! “Don’t just shop — grow with us!” Join us for brand strategies, creative stories, and i...
   Updated: 2025-11-01T11:01:18Z
-- [Featured on|Printexplore9](https://printexplore9.com/pages/featured-on-printexplore9): https://www.bignewsnetwork.com/news/278541498/your-complete-wellness-and-style-routine-hydrating-hyaluronic-acid-serum-and-eco-friendly-activewear ...
-  Updated: 2025-12-08T20:26:59Z
+- [Featured in the Media | Printexplore9](https://printexplore9.com/pages/featured-on-printexplore9): Media Features Printexplore9 has been featured in leading lifestyle, fashion, wellness, and sustainability publications. These features highlight o...
+  Updated: 2026-01-03T14:48:58Z
 - [Materials & Sustainability| Bella+Canvas & Gildan Apparel](https://printexplore9.com/pages/materials-sustainability): Materials & Sustainability At PrintExplore, transparency matters. This page explains the materials used in our apparel, how they are constructed, a...
   Updated: 2025-12-26T10:23:05Z
 - [Skincare Ingredients & Manufacturing](https://printexplore9.com/pages/skincare-ingredients-manufacturing): Skincare Ingredients & Manufacturing At Print Explore, we believe skincare transparency is essential. This page provides general information about ...
-  Updated: 2025-12-26T10:33:14Z
+  Updated: 2026-01-03T17:21:03Z
 - [Premium Collection & Craftsmanship | Print Explore](https://printexplore9.com/pages/premium-collection-craftsmanship-print-explore): Premium Collection & Craftsmanship Our Premium Collection features a small selection of elevated apparel designed for comfort, durability, and long...
   Updated: 2025-12-26T10:55:15Z
 
