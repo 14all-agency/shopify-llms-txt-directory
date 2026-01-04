@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-22T19:55:19Z
 - Contact Email: bervinshaulllc@gmail.com
-- Updated At: 2026-01-03T00:00:29.963Z
+- Updated At: 2026-01-04T00:00:24.694Z
 
 ## Products
 
@@ -164,13 +164,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/9c383c645c33f917071233743d04a855.jpg?v=1749662154
   Price: $49.99 USD
-- [Narrow Console Table Buffet Sideboard Side Desk Entryway Table with 4 Storage Shelves & 2 Hooks, Rustic](https://www.bervinshaulllc.com/products/narrow-console-table-buffet-sideboard-side-desk-entryway-table-with-4-storage-shelves-2-hooks-rustic): This narrow rustic sofa table has a quality wood grain with a sturdy black tubular steel frame. Bestier behind sofa and entryway table is a versatile table for living room, reception room, bedroom, entryway, etc. The moderate size is convenient for you to place in different spaces, you can use it as a sofa table for living room decorations, as a display table for flowers, photos, and aromatherapy, or as an entry table for keys, slippers, etc. Features: Industrial Sofa table: This narrow hallway table combines a desktop with a vintage wood grain finish and a metal frame coated by black paint and adds unique elements to your room. Applies to the entryway, hallway, living room, foyer, kitchen, study room, or office. The table can hold up to 75 lbs of things. Unique Design: Minimalist and Y-shaped design make it suitable for any style of decoration of your room, and also adds elegant elements to your living room. The foyer sofa table is a perfect combination with your other furniture accessory. Concise Style: The rustic entryway table does not distinguish between front and back, and the front and back are symmetrical. The thoughtful open base creates a perfect space for further storage with the addition of decorative bins or baskets, as finding space to store our everyday items can be a struggle. Multiple Function: You can use it as a console table, side table, couch table, end table, entryway/hallway table, bookshelf, or even TV stand. The simple industrial design makes it fit in any space, and keep your home/office clean and tidy. Easy Assembly and Bestier Customer Service: It only takes about 2 people for half an hour to assemble. And follow the instructions step by step you can enjoy the process with your friends or family. Specification: Dimension: 39.5" W x 11.75" D x 30" H Material: CARB P2 Wood + Steel Frame Table Load Tabletop Bearing: 5 lbs Storage shelf Load Bearing: 25 lbs Package includes: 1 x console table, 1 x assemble manual
-  Updated: 2025-12-29T20:00:27Z
-  Vendor: Unbranded
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/3a57aca046c3e5e92c1af732d31054dc.jpg?v=1749662154
-  Price: $110.99 USD
 - [Wooden Kitchen Utensils Set (12 Pack)](https://www.bervinshaulllc.com/products/wooden-kitchen-utensils-set-12-pack): At BOKALAKA, we specialize in crafting high-quality wooden kitchen utensils and pride ourselves on being your personal kitchenware expert. Our teak wooden cooking utensils are made from natural, fine teak wood, offering a strong, natural, and rustic style that's sure to inspire your passion for cooking. These utensils aren't just a set of tools but also serve as a link between your life and nature, adding a touch of warmth and comfort to your kitchen experience. They’re loved by many for their quality craftsmanship and natural beauty. BOKALAKA Wooden Kitchen Utensils Set (12 Pack) 12-Piece Wooden Spoon Set: Includes wok spatula, slotted spatula, frying spatula, filter spoon, soup spoon, seasoning spoon, salad fork, rice spoon, oil spoon, spaghetti spoon, large spurtle, and slotted spurtle Heat Resistant, Suitable for Non-Stick Pan: Excellent heat resistance ensures utensils won't melt in boiling soup or scratch non-stick pans, protecting your kitchenware. Provides good insulation to prevent hand burns, unlike rubber kitchen utensils First-Class Craftsmanship: Made from whole wood, hand-polished for a smooth surface without cracks or splicing marks. No rough edges or dents, offering a silky and delicate touch, superior to low-end kitchen utensils Easy to Clean and Store: Effortless cleaning by rinsing with water and wiping with a sponge or rag. Each utensil features a round hole for easy hanging storage, saving space in your kitchen Each utensil serves a unique function for flipping food, making sauces, or serving dishes, catering to both professionals and beginners
   Updated: 2025-12-29T20:00:27Z
   Vendor: Unbranded
@@ -241,24 +234,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/d501f212ad71c1b8f4008355044cf81a.jpg?v=1749857499
   Price: $63.99 USD
-- [Titanium Cutting Board Double-Sided Stainless Steel Chopping Board for Kitchen](https://www.bervinshaulllc.com/products/titanium-cutting-board-double-sided-stainless-steel-chopping-board-for-kitchen): eBay Maryam-mmeng Your dream home is here DESCRIPTION PAYMENT SHIPPING RETURN POLICY CONTACT US Shop Category Hot Item New List Item Help & Info Payment Policy Shipping Policy Return Policy FAQ About Us Titanium Cutting Board Double-Sided Stainless Steel Chopping Board for Kitchen Camping Feature: Ideal Cutting Solution: Our Stainless Steel Cutting Board measures have 3 size, this board provides ample space to accommodate all your cutting needs. The front side is perfect for slicing fruits and vegetables, while the back is ideal for meats, avoiding cross-use. It's versatile, solid, and a kitchen must-have for all home cooks and professional chefs. Heavy-Duty Resilience: Made from a solid 1.5mm thick stainless steel titanium alloy, this Titanium Cutting Board ensures heavy-duty chopping and slicing, making it reusable and sturdy for long-term use. Improved Efficiency & Portable: Crafted for the modern kitchen, this titanium cutting board boasts a lightweight design that's easy to carry, simplifies cleaning with a simple water wipe, and enhances portability, ensuring your culinary tasks are performed with utmost efficiency. Modernized Kitchen Organization: Our titanium cutting board is a clean and tidy solution to reduce kitchen clutter. Easily suspend it up when not in use for a touch of elegance in your space, simplifying your life and enhancing your home. Multi Application: This cutting board is perfect for various cooking tasks. Whether you're rolling out pie dough, kneading bread, or cutting fruits, vegetables, and bread, our board is up to the task. It's also great for processing vegetables, making sandwiches and more. Specification: Product Name: Stainless Steel Cutting Board Material: Stainless Steel Color: Silver Size: Small: 29*20cm/ 11.4*7.9in Medium: 36*25cm/ 14.2*9.8in Extra Large: 46*30cm/ 18.1*11.8in Thickness: 1.5mm Package Includes: 1 x Stainless Steel Cutting Board Note: 1. Due to manual measurement, please allow a difference of 1-5g/1-2cm. 2. Due to different displays and different lighting, the picture may not reflect the actual color of the item. Thank you for your understanding. Item Specifics Brand : Unbranded Type : Stainless Steel Cutting Board Material : Stainless Steel Colour : Silver Payment Payment: We accept paypal only. Shipping Shipment: Items shipped within 1 working days after payment received. No Shipment to PO boxes. Ship to the 48 continuous states only,Hawaii,Alaska & Puerto Rico excluded. Returns We only accept following returns: Items demaged on the way Items received not as describe Items broke within 7 days upon arrival Contact Us Your overall rating feedback is highly appreicated. Pls do not leave us neutral or negative feedback before contact us. we will give you a best solution. All rights reserved.
-  Updated: 2025-12-29T20:00:28Z
-  Vendor: Unbranded
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/1cf0324b13e11d89d59beb4433049d2a.jpg?v=1751147930
-  - [S  29X20Cm](https://www.bervinshaulllc.com/products/titanium-cutting-board-double-sided-stainless-steel-chopping-board-for-kitchen?variant=42654052745425)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/1cf0324b13e11d89d59beb4433049d2a.jpg?v=1751147930
-    Price: $20.10 USD
-  - [M  36X25Cm](https://www.bervinshaulllc.com/products/titanium-cutting-board-double-sided-stainless-steel-chopping-board-for-kitchen?variant=42654052778193)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/1cf0324b13e11d89d59beb4433049d2a.jpg?v=1751147930
-    Price: $33.78 USD
-  - [Xl  46X30Cm](https://www.bervinshaulllc.com/products/titanium-cutting-board-double-sided-stainless-steel-chopping-board-for-kitchen?variant=42654052810961)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/1cf0324b13e11d89d59beb4433049d2a.jpg?v=1751147930
-    Price: $36.90 USD
 - [Commercial Chopper Commercial Vegetable Chopper with 4 Blades Fruits Dicer](https://www.bervinshaulllc.com/products/vevor-commercial-chopper-commercial-vegetable-chopper-with-4-blades-fruits-dicer): Commercial Vegetable Fruit Chopper w/ 4 Blades The commercial vegetable chopper is made of heavy-duty stainless steel and aluminum alloy materials, equipped with four blades: 1/2, 3/8, 1/4 inch, and a 6-wedge corer. The ergonomic handle is labor-saving, and non-slip feet ensure stable operation. The blades and push blocks are both removable and washable. This commercial vegetable fruit chopper is very suitable for restaurants and home kitchens. Stainless Steel & Aluminum 4 Blades Available Ergonomic Handle Good Stability & Easy Cleaning Premium Tough Quality Incredibly Low Prices Fast & Secure Delivery 30-Day Free Returns 24/7 Attentive Service VEVOR is a leading brand that specializes in equipment and tools. Along with thousands of motivated employees, VEVOR is dedicated to providing our customers with tough equipment & tools at incredibly low prices. Today, VEVOR has occupied markets of more than 200 countries with 10 million plus global members. Why Choose VEVOR? Premium Tough Quality Incredibly Low Prices Fast & Secure Delivery 30-Day Free Returns 24/7 Attentive Service @media screen and (max-width: 750px) { #h5 { display: block; overflow-x: hidden; font-family: Roboto, Open Sans, Helvetica, Arial, sans-serif; } #pc { display: none; } } @media (min-width: 750px) { #h5 { display: none; } #pc { display: block; font-family: Open sans, Arial, Helvetica, sans-serif; } } .flex-item-content { margin-left: 16px; } .flex-item-content-item-describe { width: 100%; height: auto; } .flex-item-txt { margin-top: 14px; } .pcdescribe-uls { background: #f3f3f3; border-radius: 8px; padding: 18px 22px; margin-top: 11px; border: 1px solid #ddd; } .pcdescribe-uls-li { list-style: none !important; margin: 0 !important; padding: 0 !important; } .pcdescribe-uls-lis { color: #000; font-size: 14px; list-style: none; text-align: left; } .pcdescribe-uls-lis-circle { display: inline-block; background: #000; border-radius: 50%; margin-right: 8px; width: 6px; height: 6px; vertical-align: middle; } .flex-item-txt-title-describete { color: #000; font-size: 14px; font-weight: bold; } .pcdescribe-title { font-size: 14px; color: #000; font-weight: bold; margin-top: 14px; } /* #h5 { font-size: 100px; } */ .description2 { text-align: center; margin-top: 1.33em; padding: 0 0.15em; } .description-img2 { height: auto; width: 100%; } .description-title2 { color: #000; font-size: 0.26em; font-weight: bold; margin-top: 4.5em; text-align: center; } .description-txt { color: #000; font-size: 0.24em; margin-top: 0.667em; } .description-title { color: #000; font-size: 0.26em; font-weight: bold; margin-top: 0.885em; } .describe-uls { margin-top: 0.26em; background: #f0f2f2; padding: 0.14em 0.16em; border-radius: 0.06em; } .describe-uls-li { list-style: none; padding: 0 !important; margin: 0 !important; } .describe-uls-lis { position: relative; list-style: none; font-size: 0.24em; color: #000; line-height: 1.5; } .describe-uls-circle { width: 0.333em; height: 0.333em; border-radius: 50%; background: #000; display: inline-block; vertical-align: middle; margin-right: 0.292em; } Heavy-Duty Structure The commercial vegetable chopper adopts heavy-duty aluminum alloy and reliable stainless steel material with one-time die-casting craftsmanship. The chopper body is sustained, solid, and odorless. 4 Interchangeable Blades The commercial chopper contains 4 interchangeable blades, including three 1/2-inch, 1/4-inch, and 3/8-inch cutting blades, as well as a 6-wedge-shaped slicing blade. You can cut vegetables and fruits into broad kinds of shapes according to your needs. Labor-Saving Handle The elongated long-arm handle features an ergonomic design, the principle of leverage, and a rubber grip sleeve to make operation easy-breezy and offer you comfort. Non-Slip Feet For the stability of the commercial vegetable cutter, the chopper is equipped with four non-slip feet, which strengthens your force direction and minimizes skidding and shaking to make the operation more labor-saving. Hassle-Free Cleaning Due to the food-grade design, all blades and push blocks are simple to assemble and disassemble and trouble-free to clean with water. You don¡¯t need to worry about washing and rusting. Multi-functional Cutter It is a tedious and time-consuming task to cut potatoes and fruits manually. Still, everything becomes simple and easy with this commercial chopper. It is very suitable for making French fries and salads, etc. Specifications Model: QTJ-J002X Color: Silver Material: Aluminum Alloy + Stainless Steel Blades Size: 1/2''; 3/8''; 1/4'' / 1.27 cm; 0.95 cm; 0.64 cm Product Size: 8.66 x 8.66 x 19.69'' / 22 x 22 x 50 cm Weight: 9.92 lbs / 4.5 kg Package Content 1 x Commercial Chopper 1 x 1/2'' Blade 1 x 3/8'' Blade 1 x 1/4'' Blade 1 x 6-wedge Corer 6 x Spare Blades 1 x Handle 1 x Pair of Gloves 1 x Brush 1 x Product Manual VEVOR is a leading brand that specializes in equipment and tools. Along with thousands of motivated employees, VEVOR is dedicated to providing our customers with tough equipment & tools at incredibly low prices. Today, VEVOR has occupied markets of more than 200 countries with 10 million plus global members. Why Choose VEVOR? Premium Tough Quality Incredibly Low Prices Fast & Secure Delivery 30-Day Free Returns 24/7 Attentive Service @media screen and (max-width: 750px) { #h5 { display: block; overflow-x: hidden; font-family: Roboto, Open Sans, Helvetica, Arial, sans-serif; } #pc { display: none; } } @media (min-width: 750px) { #h5 { display: none; } #pc { display: block; font-family: Open sans, Arial, Helvetica, sans-serif; } } .flex-item-content { margin-left: 16px; } .flex-item-content-item-describe { width: 100%; height: auto; } .flex-item-txt { margin-top: 14px; } .pcdescribe-uls { background: #f3f3f3; border-radius: 8px; padding: 18px 22px; margin-top: 11px; border: 1px solid #ddd; } .pcdescribe-uls-li { list-style: none !important; margin: 0 !important; padding: 0 !important; } .pcdescribe-uls-lis { color: #000; font-size: 14px; list-style: none; text-align: left; } .pcdescribe-uls-lis-circle { display: inline-block; background: #000; border-radius: 50%; margin-right: 8px; width: 6px; height: 6px; vertical-align: middle; } .flex-item-txt-title-describete { color: #000; font-size: 14px; font-weight: bold; } .pcdescribe-title { font-size: 14px; color: #000; font-weight: bold; margin-top: 14px; } /* #h5 { font-size: 100px; } */ .description2 { text-align: center; margin-top: 1.33em; padding: 0 0.15em; } .description-img2 { height: auto; width: 100%; } .description-title2 { color: #000; font-size: 0.26em; font-weight: bold; margin-top: 4.5em; text-align: center; } .description-txt { color: #000; font-size: 0.24em; margin-top: 0.667em; } .description-title { color: #000; font-size: 0.26em; font-weight: bold; margin-top: 0.885em; } .describe-uls { margin-top: 0.26em; background: #f0f2f2; padding: 0.14em 0.16em; border-radius: 0.06em; } .describe-uls-li { list-style: none; padding: 0 !important; margin: 0 !important; } .describe-uls-lis { position: relative; list-style: none; font-size: 0.24em; color: #000; line-height: 1.5; } .describe-uls-circle { width: 0.333em; height: 0.333em; border-radius: 50%; background: #000; display: inline-block; vertical-align: middle; margin-right: 0.292em; } Commercial Vegetable Fruit Chopper w/ 4 Blades The commercial vegetable chopper is made of heavy-duty stainless steel and aluminum alloy materials, equipped with four blades: 1/2, 3/8, 1/4 inch, and a 6-wedge corer. The ergonomic handle is labor-saving, and non-slip feet ensure stable operation. The blades and push blocks are both removable and washable. This commercial vegetable fruit chopper is very suitable for restaurants and home kitchens. Stainless Steel & Aluminum 4 Blades Available Ergonomic Handle Good Stability & Easy Cleaning Heavy-Duty Structure The commercial vegetable chopper adopts heavy-duty aluminum alloy and reliable stainless steel material with one-time die-casting craftsmanship. The chopper body is sustained, solid, and odorless. 4 Interchangeable Blades The commercial chopper contains 4 interchangeable blades, including three 1/2-inch, 1/4-inch, and 3/8-inch cutting blades, as well as a 6-wedge-shaped slicing blade. You can cut vegetables and fruits into broad kinds of shapes according to your needs. Labor-Saving Handle The elongated long-arm handle features an ergonomic design, the principle of leverage, and a rubber grip sleeve to make operation easy-breezy and offer you comfort. Non-Slip Feet For the stability of the commercial vegetable cutter, the chopper is equipped with four non-slip feet, which strengthens your force direction and minimizes skidding and shaking to make the operation more labor-saving. Hassle-Free Cleaning Due to the food-grade design, all blades and push blocks are simple to assemble and disassemble and trouble-free to clean with water. You don¡¯t need to worry about washing and rusting. Multi-functional Cutter It is a tedious and time-consuming task to cut potatoes and fruits manually. Still, everything becomes simple and easy with this commercial chopper. It is very suitable for making French fries and salads, etc.
   Updated: 2025-12-29T20:00:28Z
   Vendor: Unbranded
@@ -722,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/3Tier1.jpg?v=1762477657
   Price: $58.99 USD
 - [6 Inch Cast Iron Skillet, Frying Pan with Drip-Spouts, Pre-Seasoned Oven Safe Cookware, Camping Indoor and Outdoor Cooking, Grill Safe, Restaurant Chef Quality](https://www.bervinshaulllc.com/products/6-inch-cast-iron-skillet-frying-pan-with-drip-spouts-pre-seasoned-oven-safe-cookware-camping-indoor-and-outdoor-cooking-grill-safe-restaurant-chef-quality): Precise heat distribution: the cast iron pan has better retention and distribution of heat. Even heat distribution for improved cooking and frying even on grills, stoves or induction hobs. HEALTHY FOR YOU The mini pan is seasoned with 100% vegetable oil, no synthetic coatings or chemicals for a natural, trace amounts of iron are naturally released when cooking with a seasoned cast iron skillet, enhancing the mineral in your diet. EASY TO CLEAN After using cast iron cookware, use a natural fiber cleaning brush to remove loose food and residue. Rinse the pan and gently scrub the surface and side walls with a Chain Mail Scrubber. Heat pan on stove until dry. Apply a swab of spice oil with a cloth or paper towel and rub on all surfaces inside and outside. Wipe off excess oil to SUITABLE FOR ALL STOVES The stone pan is suitable for induction, gas, ceramic, electric, halogen and solid fuel stoves. But not suitable for the oven. International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions. Product description Cooking with well-seasoned cast iron cookware is one of the more satisfying experiences for both beginner and experienced chefs. Cast iron cookware is reliable, long lasting, nontoxic, nonstick, and full of character. Your cast iron cookware can be used to sear a juicy filet mignon for dinner and then bake gooey chocolate chip cookies for dessert. Cast iron skillets can be intimidating to those who have heard the many warnings and fables about cast iron – “don’t wash with soap, don’t get your skillet wet, don’t do this, don’t do that!” The truth is, as long as your cast iron is seasoned well and free of rust, you’ll be able to cook a wide variety of flavorful, delicious foods for many years to come. This is where cast iron really shines, no other cookware comes close. It’s suitable for so many cooking methods. Bare cast iron can be used for: Frying – not only is cast-iron great for pan frying fish fillets, but also deep-fried chicken comes out a lovely golden color. Baking – cornbread comes to mind first. However, pastries, desserts and bread come out wonderfully. Searing – your steaks remain juicy in the center and have a lovely, caramelized outside to enhance flavors. Roasting – you won’t need a dedicated roasting pan to make scrumptious roast chicken. A skillet or Dutch oven is going to do just as well. Slow cooking – a French/Dutch oven is wonderful for slow cooking, it heats up slowly and can be left on at a low temperature, either on the stove top or in the oven. Sauteed vegetables – I’m thinking corn with a little piece of butter then served directly on the table for family and friends to help themselves, they just love it. Outdoor or camping trips – it’s so much fun, and everything tastes better when cooked outdoors. Benefits of cast iron cookware: Well-seasoned cast iron cookware is easier to clean than stainless steel Cast iron has great thermal density. It remains hotter for longer Cooking in cast iron can naturally add iron into meals Long lasting. I mean there are some really old pieces still in use today Cast iron is extremely versatile Iron Skillet Technical Specs: Skillet Style: Circle / Round Pans Max Temperature: 500° Fahrenheit (260° Celsius) Construction Material: Cast Iron Metal Coating: Plant Oil Body thickness: 4.0mm Material Metal Hardness: 7 HB 6’’ Skillet Size (L x W x H): 9.84’’ x 6.11’’ x 1.18’’ 8’’ Skillet Size (L x W x H): 12.33’’ x 8’’ x 1.57’’ 10’’ Skillet Size (L x W x H): 16.14’’ x 10.23’’ x 2.16’’ 12’’ Skillet Size (L x W x H): 18.11’’ x 12.04’’ x 2.36’’ Unparalleled heat retention and consistent heat distribution make cast iron the go-to for professional chefs. Cook often and follow these steps when cleaning up to keep your cast iron skillet in excellent non-stick condition: After using cast iron cookware, use a Natural Fiber Cleaning Brush to remove loose food and residue. Rinse the pan and gently scuff the surface and sidewalls with a Chain Mail Scrubber. Heat the pan on the stovetop until dry. Using a cloth or paper towel, apply a dab (about ¼ teaspoon) of Field Company Seasoning Oil and rub on all surfaces, inside and out. Wipe away excess oil to leave a dry, matte finish. Repeat every time you cook. The Skillet is suitable for cooking in, induction, ceramic, campfire, grill, oven, & more. You'll find more passion for cooking and better flavors in your food! Even made fried eggs without bursting the yolk, they were so non-stick! I would highly recommend this set to anyone looking for a good-quality product that's very affordable. I would definitely purchase these again or even as a gift. I made my chili in the cast iron pot, and I couldn't believe that there were no sticking and a very easy cleanup. I now even reheat the chili in the skillet/lid. I am so happy I purchased this. Cast iron gets better, stronger and more non-stick the more it is used, making it a healthier and safer cooking utensil.
-  Updated: 2026-01-02T12:28:47Z
+  Updated: 2026-01-03T00:28:53Z
   Vendor: Unbranded
   Product Type: 
   Availability: Available
@@ -936,7 +911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/ycnbbeoxi887arh2ywht.jpg?v=1765292622
     Price: $99.99 USD
 - [Cotton Border-Stitched 6-Piece Towel Set - Valery Collection](https://www.bervinshaulllc.com/products/cotton-border-stitched-6-piece-towel-set-valery-collection): Wrap yourself in effortless comfort with our lightweight, ultra-soft cotton towels. Made from premium zero-twist, combed cotton, they offer a plush yet breathable feel that’s both durable and gentle on your skin. The woven, top-stitched border adds a subtle textured detail, bringing a relaxed, boho-inspired touch to your space. Designed for both function and style, these towels are highly absorbent, quick-drying, and perfect for everyday use. Thoughtfully made for modern living, they stay fresh, dry fast, and bring a laid-back elegance to your bathroom.
-  Updated: 2026-01-02T19:44:22Z
+  Updated: 2026-01-03T18:01:31Z
   Vendor: Great Bay Home
   Product Type: Bath Towels & Washcloths
   Availability: Available
@@ -1168,7 +1143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/jgsmk779e78rn49t9pra.jpg?v=1765292623
     Price: $99.99 USD
 - [Turkish Cotton Flannel Sheet Set - Plaid & Stripe Collection](https://www.bervinshaulllc.com/products/turkish-cotton-flannel-sheet-set-plaid-stripe-collection): Fall to sleep in ultra-soft, breathable, and quality Turkish cotton flannel sheets. This collection features plaids and stripes that will add a subtle update to your bedroom for fall and winter. These 100% cotton sheets are double-brushed for softness and durability to ensure you have a set that offers comfort every night. Flannel sheets offer warmth for even the coldest of nights, so add these luxurious cotton flannel sheets to your bed and experience true comfort. Products that look good, feel good, and are made well, so you can trust you're getting high-quality products. These cotton flannel sheets are Standard 100 Certified by OEKO-TEX®.
-  Updated: 2026-01-02T19:44:10Z
+  Updated: 2026-01-03T03:39:51Z
   Vendor: Great Bay Home
   Product Type: Bed Sheets
   Availability: Available
@@ -1274,7 +1249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/rav298yjv3lhbhzfkbpn.jpg?v=1765292622
     Price: $74.99 USD
 - [Cotton Terry Bath Towel Set - Cooper Collection](https://www.bervinshaulllc.com/products/cotton-terry-bath-towel-set-cooper-collection): These cotton bath towels are super soft, quick-drying, and lightweight. They're woven with long cotton fibers using feather spun technology resulting in softness, comfort, and durability in these towels. The lightweight style of these towels makes them perfect for everyday use, and their durability makes them perfect for kids and pets. They're easy to care for, machine washable, and get fluffier with every spin in the dryer. The classic bordered style and unique color palette are the perfect addition to your bathroom decor and will match your aesthetic effortlessly.
-  Updated: 2026-01-02T22:54:31Z
+  Updated: 2026-01-03T22:19:31Z
   Vendor: Great Bay Home
   Product Type: 
   Availability: Available
@@ -1526,7 +1501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/to52dmaptxmsveygiuzt.jpg?v=1765292625
     Price: $34.99 USD
 - [Luxury Cotton Towels - Karina Collection](https://www.bervinshaulllc.com/products/luxury-cotton-towels-karina-collection): Bring luxury and comfort to your bathroom with combed cotton bath towels with a modern ribbed texture. These towels are perfect for busy individuals that love to style their bathroom with ease. They are lightweight, absorbent, and quick-drying due to the long, durable cotton fibers. These towels are crafted for softness, absorbency, durability, and style. These versatile ribbed texture bath towels are available in a wide array of solid colors that are sure to effortlessly match your bathroom aesthetic.
-  Updated: 2026-01-02T19:45:22Z
+  Updated: 2026-01-03T23:54:31Z
   Vendor: Great Bay Home
   Product Type: Bath Towels & Washcloths
   Availability: Available
@@ -1854,7 +1829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/b1gkejdtbobabbbo6elu.jpg?v=1765292625
     Price: $64.99 USD
 - [Cotton Diamond Waffle Weave Bath Towel Set - Grayson Collection](https://www.bervinshaulllc.com/products/cotton-diamond-waffle-weave-bath-towel-set-grayson-collection): Renew your bathroom's decorative appeal with ultra-soft, textured bath towels. These towels are made from low-twist, two-ply cotton fibers, meaning they are plush, incredibly soft and absorbent, and durable. Made to last you many washes and get softer with each use - perfect for kids and pets. The diamond waffle texture creates a unique visual interest, these bath towels are both functional and decorative. The core colors are versatile and sure to match your bathroom aesthetic with ease.
-  Updated: 2026-01-02T21:40:36Z
+  Updated: 2026-01-03T00:33:31Z
   Vendor: Great Bay Home
   Product Type: 
   Availability: Available
@@ -2464,28 +2439,28 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/tu9qfapumzmpwh1evh4k_d3193791-6bd9-43b6-9358-ece506c80378.jpg?v=1765292631
     Price: $49.99 USD
 - [Maestro Saucepan with Lid — 2 QT.](https://www.bervinshaulllc.com/products/maestro-saucepan-with-lid-2-qt): Non-toxic cookware engineered for fast, even, worry-free cooking. Features Lightning-Fast Heat Distribution: Belgian-designed aluminum core eliminates hot spots. 10-Second Cleanup: Reinforced ceramic surface releases everything instantly. Just wipe and done. The Perfect 2-Quart Size: Ideal for morning oatmeal, quick pasta, warming soup, or simmering sauces. Universal Compatibility: Works on gas, electric, ceramic, and induction. Details & Specs Material: Aluminum core with reinforced ceramic nonstick Interior: PFAS, PFOA, lead, and cadmium-free ceramic coating Exterior: Durable matte finish, oven-safe up to 400°F (204°C) Handle: Stay-cool stainless steel with ergonomic grip Pour Rim: Flared edge for drip-free pouring Base: Induction-compatible; works on gas, electric, and ceramic Care & Cleaning Medium heat is all you need for flawless results. Just a little oil or butter keeps food gliding. Preheat for a minute and you’re ready to cook. Warm water + a gentle sponge is all it takes (dishwasher safe when you need it). Visit our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T23:24:17Z
+  Updated: 2026-01-03T07:06:52Z
   Vendor: Alva Cookware
   Product Type: Stock Pots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-2-qt-nonstick-saucepan-1917026.png?v=1765296525
   Price: $159.00 USD
 - [Maestro Stock Pot with Lid — 4.5-QT.](https://www.bervinshaulllc.com/products/maestro-stock-pot-with-lid-4-5-qt): Non-toxic cookware engineered for fast, even, worry-free cooking. Features Effortless Cleanup: Food releases cleanly because the nonstick actually works. Most nights, a quick wipe is all you need. Works on Every Stovetop: Gas, electric, ceramic, induction—this set does it all. Oven-Safe to 400°F: Sear on the stovetop, finish in the oven. Nonstick that lasts. Reinforced ceramic coating. Details & Specs Material: Aluminum core, ceramic nonstick Ceramic Nonstick Coating: Made without PTFE, PFOA, PFAS, lead, or cadmium. Stovetops: Gas, electric, ceramic, induction Handles: Stay-cool stainless steel Lids: Tempered glass with stainless rims Oven Safe: Up to 400°F (204°C) Care & Use Cook on low-to-medium heat Hand wash when you can Use silicone or wood utensils Skip cooking sprays (just use oil or butter) Check out our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T18:06:47Z
+  Updated: 2026-01-03T23:08:21Z
   Vendor: Alva Cookware
   Product Type: Stock Pots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-stock-pot-with-lid-45-qt-nonstick-5532394.png?v=1765296525
   Price: $209.00 USD
 - [Maestro Sauté Pan with Lid — 4-QT.](https://www.bervinshaulllc.com/products/maestro-saute-pan-with-lid-4-qt): Belgian-designed aluminum with toxic-free nonstick—lightweight, fast-heating, and built to last with professional performance. Features Toxin-Free Ceramic Coating: Safe, slick, and wipes clean effortlessly. Aluminum Core: Unmatched heat control for flawless sears and sauces. Tall, 4 Qt. Capacity: Ideal for one-pan meals, stews, or sautés. Oven-Safe to 400°F: Seamless stove-to-oven cooking. Tempered Glass Lid Included: Lock in flavor, monitor progress easily. Compatible with All Stovetops: Including induction. Design & Specs Material: Aluminum core, ceramic nonstick Ceramic Nonstick Coating: Made without PTFE, PFOA, PFAS, lead, or cadmium. Stovetops: Gas, electric, ceramic, induction Handles: Stay-cool stainless steel Lids: Tempered glass with stainless rims Oven Safe: Up to 400°F (204°C) Care & Use Cook on low-to-medium heat Hand wash when you can (dishwasher-safe when needed) Use silicone or wood utensils Skip cooking sprays (just use oil or butter) Check out our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T22:06:46Z
+  Updated: 2026-01-03T07:16:47Z
   Vendor: Alva Cookware
   Product Type: Skillets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-4-qt-nonstick-saute-pan-7939713.png?v=1765296525
   Price: $209.00 USD
 - [Maestro Frying Pan — Stainless](https://www.bervinshaulllc.com/products/maestro-frying-pan-stainless): Professional Searing Meets Easy Cleanup — Stainless Steel Power, Toxic-Free Nonstick, Built for Life. Features Perfect sear. Every time. 5-ply stainless steel delivers restaurant-grade browning. Your steaks. Your skill. No excuses. Lightning recovery. Heat bounces back instantly between dishes. Cook faster. Never wait. Stay in control. Cleanup in 30 seconds. Toxic-free ceramic nonstick wipes clean. No soaking. No scrubbing. Just done. Never worry about durability. Sealed rims. Dual rivets. Built to last decades. You buy this once. Cook with confidence. Lab-tested toxic-free coating. No PFAS. No chemicals. Just healthy food for your family. Details & Specs Material: 5-ply stainless steel with aluminum core Ceramic Nonstick Coating: Made without PTFE, PFOA, PFAS, lead, or cadmium. Stovetops: Gas, electric, ceramic, induction Handles: Stay-cool stainless steel Lids: Tempered glass with stainless rims Oven Safe: Up to 400°F (204°C) Sizes: 8", 9.5", 11" Dishwasher: Yes (hand wash recommended for longevity) Cleaning & Use Cook on low-to-medium heat Hand wash recommended — wipes clean in seconds Wood, silicone, or nylon utensils only — keeps the surface like new Let it cool before washing (protects the coating and core) Skip cooking sprays (just use oil or butter) Visit our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T19:06:52Z
+  Updated: 2026-01-03T23:21:47Z
   Vendor: Alva Cookware
   Product Type: Frying Pans
   Availability: Available
@@ -2505,14 +2480,14 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-frying-pan-stainless-9480559.png?v=1765296526
     Price: $399.00 USD
 - [Mobi 8-Piece Cookware Set](https://www.bervinshaulllc.com/products/mobi-8-piece-cookware-set): Everyday Cookware That Actually Works — Fast Heat, Zero Toxins, Cleanup in Seconds. Features Lightweight aluminum. Heats evenly. No cold spots. No burnt edges. Toxic-free ceramic nonstick. No PFAS, PTFE, lead, or cadmium. Lab-tested. Food releases effortlessly. Even eggs and sticky sauces. Just wipe clean—no soaking, no scrubbing. Reinforced coating. Won't warp, scratch, or flake like cheap nonstick. Stovetop to oven. 400°F versatility. One-pan cooking, beautiful serving. What's Included 8-inch Fry Pan with Lid 11-inch Fry Pan with Lid 2 Qt. Saucepan with Lid 2.5 Qt. Sauté Pan with Lid 4 Qt. Stock Pot with Lid Details & Specs Material: Aluminum core, ceramic nonstick Ceramic Nonstick Coating: Made without PTFE, PFOA, PFAS, lead, or cadmium. Stovetops: Gas, electric, ceramic, induction Handles: Stay-cool stainless steel Lids: Tempered glass with stainless rims Oven Safe: Up to 400°F (204°C) Care & Use Cook on low-to-medium heat Hand wash when you can (dishwasher-safe when needed) Use silicone or wood utensils Skip cooking sprays (just use oil or butter) 👉Visit our Care & Cleaning Guide for more details.
-  Updated: 2026-01-02T22:06:46Z
+  Updated: 2026-01-03T20:16:42Z
   Vendor: Alva Cookware
   Product Type: Cookware sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/mobi-8-piece-cookware-set-1480766.png?v=1765296530
   Price: $299.00 USD
 - [Nori Grill Pan — 11"](https://www.bervinshaulllc.com/products/nori-grill-pan-11): This professional-grade cast iron grill pan delivers authentic grill marks and smoky flavor right on your stovetop - 365 days a year. Features Deep, Flavor-Locked Searing: Precision ridges give you that steakhouse crust and smoky grill marks on any stovetop. Pure Cast Iron. Zero Toxins.: No PFAS, PTFE, lead, or chemical coatings—just clean, safe cooking at high heat. From Stove to Oven to Table: Sear, roast, and serve—all in one pan. Works on gas, induction, electric, and oven. Built to Outlast Cheap Cookware: The enamel cast iron gets better over time—no peeling, no warping, no nonsense. Effortless Cleanup: No sticking. No scrubbing. Just rinse and dry. Naturally nonstick when seasoned with use. Details & Specs Pan Diameter: 11” Weight: 8 lbs. Dimensions: 14.6" x 11" x 2.15" Compatible with: Gas, Electric, Induction, Oven Material: Enameled Cast Iron Safety: Certified PFAS-, PTFE-, Lead-, and Cadmium-Free Master Indoor Grilling in 4 Simple Steps Preheat Properly: Heat grill pan on medium-high for 3-5 minutes until water sizzles on contact. Oil & Season: Brush food (not pan) with oil. Season proteins 30 minutes before cooking. Perfect Placement: Place food at 45° angle to ridges. Don't move for 3-4 minutes for perfect marks. Flip & Finish: Rotate 90° and flip for diamond pattern. Cast iron retains heat for even cooking. Care & Cleaning Rinse and wipe clean—no soap needed Avoid soaking or metal scouring pads Re-oil occasionally for peak performance Safe for metal utensils Visit our Care & Cleaning Guide for more tips. 💡 The more you use it, the better it gets.
-  Updated: 2026-01-02T18:06:46Z
+  Updated: 2026-01-03T21:08:11Z
   Vendor: Alva Cookware
   Product Type: Grill Pans
   Availability: Available
@@ -2526,28 +2501,28 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-6-piece-cookware-set-2752973.png?v=1765296531
   Price: $499.00 USD
 - [Nori Roasting Pan — 12x8”](https://www.bervinshaulllc.com/products/nori-roasting-pan-12x8): Crafted from premium cast iron with our signature enameled coating. Features Superior Heat Retention for Perfect Results: Roasts evenly from edge to center, no cold spots. Aluminum pans can't match the browning. Lifetime Durability: While cheap roasting pans warp, scratch, and need replacing every few years, this cast iron beauty improves with age. Effortless Cleanup with No Seasoning Required (Yes, Really!) From Stovetop to Oven to Table: Clean aesthetic, sturdy handles—serve without transferring. No-Toxins - Fully enameled, non-toxic surface. Capacity: 4 Qt. / 7.7 lbs. • Dimensions: 12″ × 8″ rectangle Care & Cleaning Wash with warm water and mild detergent. Hand-dry completely—prevents spotting. (Optional) Light oil rub after drying for feel if desired. Store dry. Visit our Care & Cleaning Guide for more information. Enamel eliminates traditional seasoning upkeep
-  Updated: 2026-01-02T13:35:37Z
+  Updated: 2026-01-03T22:56:36Z
   Vendor: Alva Cookware
   Product Type: Casserole Dish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/nori-12x8-cast-iron-roasting-pan-3791459.png?v=1765296530
   Price: $189.00 USD
 - [Nori Leather Grips](https://www.bervinshaulllc.com/products/nori-leather-grips): Lift hot cast-iron items of the Nori collection (or other cookware) without effort with this set of 2 leather grips. Details Hand wash recommended. Two (2) leather grips 1 year warranty Features & Materials Heat Resistant: Crafted with recycled pre-consumer leather and natural rubber for safe handling of hot cookware. Comfortable Grip: Padded inside for optimal comfort when transporting pots and pans. Versatile Design: Sleek, all-black design complements any kitchen and fits most cookware.
-  Updated: 2026-01-02T20:06:51Z
+  Updated: 2026-01-03T07:16:46Z
   Vendor: Alva Cookware
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/nori-leather-grips-6930144.jpg?v=1765296530
   Price: $59.00 USD
 - [Nori Cocotte — 2.5 QT with Steamer Inserts](https://www.bervinshaulllc.com/products/nori-cocotte-2-5-qt-with-steamer-inserts): This professional-grade enameled cast iron cocotte with steamer basket delivers superior results while becoming a treasured family heirloom. Features Unmatched Heat Retention for Perfect Slow Cooking - Cast iron holds and distributes heat better than any other material. Your braises and stews cook evenly at low temperatures while developing rich, complex flavors. Generational Durability (Improves with Age) - While cheaper Dutch ovens chip, stain, and need replacing, this Belgian masterpiece becomes more beautiful with each use. Safe Enamel Surface (No Toxic Coatings) - Premium enamel provides naturally non-stick properties without PFAS, PTFE, or chemical coatings. Included Steamer Basket - The precision-fitted steamer basket transforms your cocotte into a professional steaming system. Steam vegetables, dumplings, seafood, and more. Easy Cleanup & Maintenance - The smooth enamel surface releases food effortlessly and cleans beautifully. Dutch Oven & Steamer Size 12.8 lbs. | 11.55" x 8" x 9.9" Simple Care for Lifetime Performance Enameled cast iron care is incredibly simple! Just wash with warm soapy water, dry thoroughly, and store. The premium enamel coating eliminates seasoning requirements while maintaining all the superior cooking properties of traditional cast iron. Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T18:06:48Z
+  Updated: 2026-01-03T07:16:46Z
   Vendor: Alva Cookware
   Product Type: Dutch Ovens
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/nori-cast-iron-cocotte-with-steamer-inserts-9904793.png?v=1765296530
   Price: $229.00 USD
 - [Maestro Stock Pot with Lid](https://www.bervinshaulllc.com/products/maestro-stock-pot-with-lid): Built for flavor that develops low and slow, the Maestro stock pot locks in heat and moisture for tender roasts and hearty stews. Features No More Hot Spots: Tri-ply induction base heats evenly and consistently — no burning, no babysitting Pure Flavor, No Reactions: 18/10 stainless steel resists acidic foods like tomato and wine — flavors stay fresh and clean. Ultra-Durable, Ultra-Sanitary: Welded handles eliminate grime traps and won’t loosen over time like riveted pots. Mess-Free Lid Control: Precision lid vents reduce boil-overs and let you simmer with confidence One Pot, Every Cooktop: Compatible with induction, gas, electric, and ceramic — oven-safe too Strong Yet Lightweight: Ergonomic design makes it easy to lift, even full of boiling water or broth Product Dimensions 4 Qt. Stock Pot: Total Height: 7.1" Total Length: 11.8” Total Diameter: 8.46” Weight: 3.64 lbs. 8 Qt. Stock Pot: Total Height: 9.65" Total Length: 13.4” Total Diameter: 10.24” Weight: 4.5 lbs. Care & Cleaning Use your pans at medium heat for optimal cooking. Add 1 tablespoon of oil or butter to coat the pan's surface. Allow the pan to preheat for 1 minute before adding food. Maintain your pans in top condition with a gentle scrub, saving both time and water. Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T18:06:46Z
+  Updated: 2026-01-03T07:16:46Z
   Vendor: Alva Cookware
   Product Type: Stock Pots
   Availability: Available
@@ -2559,14 +2534,14 @@
     Availability: Available
     Price: $199.00 USD
 - [Nori Moroccan Tagine — 3 QT.](https://www.bervinshaulllc.com/products/nori-moroccan-tagine-3-qt): This authentic cast iron tagine uses ancient Berber design principles combined with modern Belgian design to create the most tender, flavorful slow-cooked meals. Features Perfect Steam Circulation: The conical lid creates ideal steam circulation that continuously bastes your food. Unmatched Heat Retention for Slow Cooking: Cast iron holds consistent low heat for hours, essential for authentic tagine cooking. Lifetime Durability (Never Cracks Like Ceramic): Traditional ceramic tagines crack, chip, and break. Safe Enamel Interior (No Lead Concerns): Premium enamel provides naturally non-stick properties without toxic coatings. Stovetop to Oven Versatility: Start your tagine on the stovetop for initial browning, then transfer to the oven for slow cooking. Easy Cleanup & Maintenance: The smooth enamel surface releases Moroccan spice pastes and sticky ingredients effortlessly. No special seasoning required. Size: 11-inch/ 3 Qt.: 16.1 lbs. | Perfect or 4-6 people, ideal for family gatherings Care & Use Caring for your cast iron tagine is simple! Unlike ceramic tagines that require special soaking and seasoning, just wash with warm soapy water, dry thoroughly, and store. The enamel coating eliminates traditional clay preparation while maintaining authentic Moroccan cooking results. Visit our Care & Cleaning Guide for more information. Remember: With proper care, your black cast iron cookware can last a lifetime and improve with use.
-  Updated: 2026-01-02T16:16:47Z
+  Updated: 2026-01-03T07:16:46Z
   Vendor: Alva Cookware
   Product Type: Tagine Pots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/nori-authentic-cast-iron-moroccan-tagine-2425544.png?v=1765296530
   Price: $259.00 USD
 - [Neat 5-Piece Nesting Set](https://www.bervinshaulllc.com/products/neat-5-piece-nesting-set): Complete Cookware That Actually Fits in Your Kitchen — Smart Nesting, Zero Toxins, Perfect Heat. Features Five pans. One compact space. Stacks into a single pot footprint. Apartment-friendly. Toxic-free ceramic nonstick. No PFAS, PTFE, PFOA, lead, or cadmium. Lab-tested. Fast, even heat. Thick, durable base. No cold spots. Cooks beautifully on any stovetop. Cleanup in seconds. Food glides off. Just wipe with a damp cloth. Details & Specs Material: Aluminum core, ceramic nonstick Ceramic Nonstick Coating: Made without PTFE, PFOA, PFAS, lead, or cadmium. Stovetops: Gas, electric, ceramic, induction Handles: Stay-cool stainless steel Lids: Tempered glass with stainless rims Oven Safe: Up to 400°F (204°C) All pieces nest together perfectly - no wasted space, no lost lids. Care & Use Cook on low-to-medium heat Hand wash when you can (dishwasher-safe when needed) Use silicone or wood utensils Skip cooking sprays (just use oil or butter) Check out our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T23:26:48Z
+  Updated: 2026-01-03T07:06:51Z
   Vendor: Alva Cookware
   Product Type: 
   Availability: Available
@@ -2584,7 +2559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/neat-5-piece-nesting-set-5873344.png?v=1765296530
     Price: $199.00 USD
 - [Maestro Frying Pan](https://www.bervinshaulllc.com/products/maestro-frying-pan): Professional stainless steel built with 125 years of Belgian heritage and toxic-free safety—sear like the experts, cook with confidence. Features Faster Heat, Better Results: 5-ply aluminum core heats faster and more evenly than cheap tri-ply. Won’t Warp, Flake, or Fail: Built with reinforced steel and a lifetime warranty. No bending, no discoloration, no short lifespan. Chef-Grade Feel, Everyday Usability: Balanced and comfortable. Designed to stay flat and stable on any cooktop. Handles Every Burner & Recipe Gas, induction, electric. Oven-safe up to 500°F. From crispy salmon to one-pan pasta—it handles it all. Product Dimensions 8-inch: Total Height: 2.6" Total Length: 15.55” Total Diameter: 8.6” Weight: 2.04 lbs. 9.5-inch: Total Height: 2.76" Total Length: 17.13” Total Diameter: 10.16” Weight: 2.76 lbs. 11-inch: Total Height: 2.83" Total Length: 21.06” Total Diameter: 11.69” Weight: 3.69 lbs. Care & Cleaning Preheat on medium. Add oil. Listen for a gentle sizzle. That’s the secret to golden sears and no sticking. Wipe clean while warm. No scrubbing needed. A little soap and water is all it takes. Dry right after for spotless shine. Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T18:06:48Z
+  Updated: 2026-01-03T07:16:47Z
   Vendor: Alva Cookware
   Product Type: Frying Pans
   Availability: Available
@@ -2618,14 +2593,14 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/modern-farmhouse-wood-riser-600x600-1_1.jpg?v=1765322655
   Price: $34.99 USD
 - [Tall Lifelike Potted Tree](https://www.bervinshaulllc.com/products/tall-lifelike-potted-tree): This super tall lifelike potted tree is truly a dream! Welcome family and friends by placing it in your entryway, or use it to brighten up your bathroom, bedroom, living room, kitchen, office—or all of the above! After all, who wouldn’t want to fill their home with natural texture, warmth, and life? We love the realistic look and feel of the leaves, and did you see the real moss inside the pot? This lifelike potted tree offers all the beauty of real elements without the hassle! Best of all, since it’s faux, it won’t wilt or need any maintenance. Key Features: Realistic leaves for a natural look that adds warmth and life to any space. Real moss in the pot for an authentic touch. No maintenance required—it stays fresh and green year-round. Versatile décor for the entryway, bedroom, living room, bathroom, kitchen, or office. 5 feet tall, making it a statement piece for any room. Don't wait! This gorgeous 5-foot-tall lifelike potted tree won't last long. Plus, enjoy our amazing $5 shipping rate!
-  Updated: 2026-01-02T20:26:51Z
+  Updated: 2026-01-03T16:47:56Z
   Vendor: Decor Steals
   Product Type: General
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Lifelike-Potted-Tree-600x600-1_e5fc4492-5820-47fa-9b63-3a8dc2b24949.jpg?v=1765322655
   Price: $69.99 USD
 - [Whitewashed Woven Metal Baskets, Set of 2](https://www.bervinshaulllc.com/products/whitewashed-woven-metal-baskets-set-of-2): The Whitewashed Woven Metal Baskets, Set of 2, are back by popular demand! These charming baskets bring a perfect blend of style and functionality to your decor without breaking the bank. Whether you’re organizing your space or creating seasonal displays, these baskets are here to help you do it all, effortlessly and affordably. Don’t let this deal slip away—once they’re gone, they’re gone! Set of two: Provides versatile decor options for any room. Whitewashed finish: Offers a neutral color and unique texture that fit seamlessly into any decor space. Multi-functional: Ideal for displaying lavender stems, wildflowers, holly, and garlands. Seasonal appeal: Great for creating a warm, festive feel during the holidays. Affordable price: Offers style without the guilt. Declutter with ease: Helps keep your space tidy while adding a decorative touch. Live plants: Require a liner to prevent water damage and ensure longevity. These Whitewashed Woven Metal Baskets are a perfect blend of style and functionality, making decorating easy and affordable. Their elegant design and practical size make them an excellent addition to any decor space. Whether you're looking to add a burst of color with dried flowers or a festive touch with holiday greens, these baskets have got you covered. If you choose to use them with live plants, remember to add a liner to prevent water damage and ensure their longevity. Don’t miss out on this perfect deal that offers both charm and value! Thank you to @_simplyandrews_ for the photos and video of the Woven Metal Baskets
-  Updated: 2026-01-02T05:02:20Z
+  Updated: 2026-01-03T05:01:52Z
   Vendor: Decor Steals
   Product Type: Last Chance
   Availability: Available
@@ -2646,14 +2621,14 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/orange-tree-600x600-5.jpg?v=1765322656
     Price: $69.99 USD
 - [Ornate Golden Floral Rectangular Mirror](https://www.bervinshaulllc.com/products/ornate-golden-floral-rectangular-mirror): Step back in time and embrace the grandeur of the 17th century France with the Ornate Golden Floral Rectangular Mirror, a true masterpiece that exudes old-world charm. With its sumptuous, highly decorative frame and exquisite floral detailing, this mirror transcends mere function to become a breathtaking work of art. It's the perfect way to infuse your space with the elegance and opulence that defined the Baroque era. The intricate designs and rich antique gold finish transport you to a time of extravagance and splendor, where every detail tells a story of artistry and craftsmanship. Exquisite Antique Gold Finish – Crafted from metal with a luxurious aged gold finish that enhances its vintage appeal. Intricate Floral Motifs – The top features a beautifully symmetrical floral design, reminiscent of Baroque and Rococo influences, adding a regal touch. Classic Beaded Border – The sides of the frame are adorned with repeated bead-like patterns, enhancing its elegant and refined look. Versatile Display – Whether placed in an entryway, above a mantel, or as part of a gallery wall, this mirror effortlessly complements classic, vintage, or French-inspired decor. Unbeatable Value – Comparable mirrors often sell for twice the price, making this a steal for such an ornate, high-quality design. Give your home a touch of old-world luxury without breaking the bank. This mirror’s rich detailing and antique charm make it the perfect centerpiece for any elegant interior. Thank you to @rusticwildarrow for the photos and video of the Ornate Golden Floral Rectangular Mirror
-  Updated: 2026-01-02T14:44:10Z
+  Updated: 2026-01-03T18:34:01Z
   Vendor: Decor Steals
   Product Type: Sale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/mirror-600x600-3_4499422c-4d89-4da1-bd6a-a4fc93b20fd7.jpg?v=1765322655
   Price: $59.99 USD
 - [Woven Rattan Wooden Bench](https://www.bervinshaulllc.com/products/woven-rattan-wooden-bench): This striking Woven Rattan Wooden Bench blends the warmth of natural wood with the cozy, textured allure of woven rattan, creating a seating option that’s as inviting as it is stylish. Whether it’s adding character to a bay window nook or serving as the centerpiece of your garden patio, this bench exudes rustic elegance and inviting style. With limited quantities available, don’t wait to make this timeless piece yours—it’s the perfect blend of beauty and functionality that won’t last long! Features: Premium Materials: Crafted from high-quality wood and intricately woven rattan, this bench offers both durability and aesthetic appeal. Elegant Design: The Woven Rattan Wooden Bench features a classic design with clean lines and a natural finish, effortlessly complementing any decor style. Comfortable Seating: The bench provides a comfortable seating experience with a spacious seat, making it perfect for relaxing alone or with company. Versatile Use: This bench is a versatile addition to your home, perfect for entryways, covered porches, or as extra seating in your living areas. While this bench typically costs $700 at other online shops, you can save significantly by purchasing with us. We offer the same high-quality Woven Rattan Wooden Bench at a more affordable price, providing exceptional value for a piece of this quality. Not only will you enjoy the elegant design and durable materials, but you'll also appreciate the savings. Shop with us to experience the perfect blend of style, comfort, and affordability. Thank you to @rusticwildarrow for the photos and video of the Wooden Bench
-  Updated: 2026-01-02T22:00:16Z
+  Updated: 2026-01-03T05:01:51Z
   Vendor: Decor Steals
   Product Type: Sale
   Availability: Available
@@ -2674,7 +2649,7 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/lanterns-600x600-1_13221a15-aa9a-4aff-ba06-9bb2c6ddcf65.jpg?v=1765322656
   Price: $44.99 USD
 - [Striped Upholstered Stool Ottoman](https://www.bervinshaulllc.com/products/striped-upholstered-stool-ottoman): Say hello to a small piece with big design impact—our Striped Upholstered Stool Ottoman is where cozy meets cool. With its plush, neutral-toned striped upholstery and uniquely sculptural base made of rounded wooden ball feet, this piece is equal parts function and conversation starter. Perfect for Scandinavian-inspired spaces, this ottoman’s minimalist lines and natural textures make it a dreamy addition to any modern, cozy corner. Use it as a footrest, extra seating, or even a stylish side table (just add a tray!)—all without blowing your budget. This is the kind of design you’d expect to see in a high-end boutique… but you just scored it at a steal. Why You’ll Love It: 🪵 One-of-a-Kind Base: Features a whimsical and bold wood ball footed design you won’t find everywhere 🪵 Scandinavian-Inspired Style: Clean lines, soft tones, and a focus on natural materials 🪵 Versatile Function: Use it as a footstool, accent piece, or extra seating anywhere in your home 🪵 Statement Look, Steal Price: Get the look of designer decor without the designer price tag 🪵 Instant Texture: Adds visual interest and cozy vibes to living rooms, bedrooms, or reading nooks ✨ Style Tip: Pair it with a chunky knit throw and a sleek accent chair for the ultimate Scandinavian lounge moment. 👉 Craving more clean, cozy style? Click here to explore our full collection of Scandinavian-inspired decor. PS - Check out how our friend @ashley_thepinkcottageco used hers in the pics above!
-  Updated: 2026-01-02T15:48:05Z
+  Updated: 2026-01-03T14:59:10Z
   Vendor: Decor Steals
   Product Type: General
   Availability: Available
@@ -2702,7 +2677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/stools-600x600-1_3bdab73b-5cb8-4fb2-a142-54ce0fe792fd.gif?v=1765322656
   Price: $174.99 USD
 - [Rustic Cream Mushroom Embossed Metal Buckets, Set of Two](https://www.bervinshaulllc.com/products/rustic-cream-mushroom-embossed-metal-buckets-set-of-two): Say hello to your new favorite storage sidekicks—now with an Early Black Friday price drop that’s too good to pass up! These embossed metal buckets are giving total garden-goddess energy with their charming mushroom details, and the wood handles bring that irresistible cottage-core warmth we all love. With this brand-new low price, they’re officially the sweetest (and smartest!) steal of the season. Two sizes, endless possibilities – Use the large one to corral throw blankets or outdoor pillows, tuck away gardening gloves and tools in the small one, or add a potted plant and give your porch or sunroom that effortlessly curated look. For indoor or covered outdoor use only. Embossed floral magic – The dainty mushrooms bring a soft, whimsical touch to whatever room they're in. Neutral + boho dreamy – That creamy color blends beautifully with any décor, from rustic farmhouse to boho. Easy to carry – Lightweight with wood handles, these buckets move from room to room without a fuss. Instant organizer – Entryway mess? Handled. Bathroom clutter? Gone. Makeup overflow? Yep, handled too. Whether you're into boho, farmhouse, or just want a prettier way to store your stuff, these embossed metal buckets bring the charm and the function. You’re gonna want a set (or two).Thank you to @downshilohroad for the photos and video of the Embossed Metal Buckets
-  Updated: 2026-01-02T23:11:51Z
+  Updated: 2026-01-03T19:57:07Z
   Vendor: Decor Steals
   Product Type: Sale
   Availability: Available
@@ -2716,7 +2691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/lamp-600x600-3_e811640e-da10-4eff-ac6d-3bd28b9bd679.jpg?v=1765322656
   Price: $59.99 USD
 - [Cotton Piping Design Bed Sheet Set](https://www.bervinshaulllc.com/products/cotton-piping-design-bed-sheet-set): Crisp, soft and luxurious cotton sheets, with a fine line of grey, blue piping (white sheets) or brown (natural sheets) for added elegance, will give you a great night's sleep, keeping you cool in the summer and warm in winter. 100% USA-grown, spun, woven and sewn.
-  Updated: 2026-01-02T21:44:51Z
+  Updated: 2026-01-03T09:53:16Z
   Vendor: American Blossom Linens
   Product Type: Bed Sheets
   Availability: Available
@@ -2758,7 +2733,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/sheet_natural_brownpiping_1_83c628b2-45da-467a-9687-10aa98fee7d7.jpg?v=1765397879
     Price: $399.00 USD
 - [Chevron Pattern Soft Wool Throw Size Blanket](https://www.bervinshaulllc.com/products/chevron-pattern-soft-wool-throw-size-blanket): Our super soft throw has a Chevron pattern and is made from 100% USA Climate Beneficial wool.
-  Updated: 2025-12-29T20:00:38Z
+  Updated: 2026-01-03T19:07:36Z
   Vendor: American Blossom Linens
   Product Type: Blankets
   Availability: Available
@@ -2776,7 +2751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/ABL_WoolThrows-GreyCU_2048x1363p.jpg?v=1765397942
     Price: $279.00 USD
 - [Cotton Percale Bed Sheet Set](https://www.bervinshaulllc.com/products/cotton-percale-bed-sheet-set): Crisp, soft and luxurious cotton sheets will give you a great night's sleep, keeping you cool in the summer and warm in winter—100% USA grown, spun, woven and sewn.
-  Updated: 2026-01-02T21:17:56Z
+  Updated: 2026-01-03T20:44:11Z
   Vendor: American Blossom Linens
   Product Type: Bed Sheets
   Availability: Available
@@ -2992,7 +2967,7 @@
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/16376.jpg?v=1765483394
   Price: $125.03 USD
 - [Luna Electric Kettle Pro](https://www.bervinshaulllc.com/products/luna-electric-kettle-pro): We all know that the perfect cup of tea or coffee is only as good as the water it's made with. And while most of us are content to let our trusty kettle do its job, sometimes we crave something a little extra. That's where the Luna Electric Tea Kettle comes in. This sleek, stylish electric tea kettle not only looks great on your countertop, but it also knows the ideal temperature settings to bring out the optimal taste of your favorite teas or coffees. With 7 one-touch preset programs for Black, Green, White, Oolong, Herbal Tea, and French press coffee, you can always choose the perfect setting for your beverage of choice. Or, if you're in the mood for something else entirely, you can quickly boil water for any other needs.
-  Updated: 2026-01-02T23:53:05Z
+  Updated: 2026-01-03T22:56:21Z
   Vendor: SAKI
   Product Type: Electric Kettles
   Availability: Available
@@ -3014,7 +2989,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Saki_Luna_CopperSlate2.png?v=1765505677
     Price: $169.95 USD
 - [Turkish Tea Maker Pro](https://www.bervinshaulllc.com/products/turkish-tea-maker-pro): The Saki Turkish Tea Maker Pro reimagines the art of brewing tea through intelligent design and precision engineering. Inspired by the timeless double-pot ritual, it brings heritage into the modern home with every thoughtful detail. A dynamic full-color LCD display, altitude calibration, and advanced temperature control ensure perfect brewing anywhere you are. With six curated presets from Saki Classic to Mediterranean each inspired by regions, moods, and traditions, every cup tells a story. Its hybrid glass-and-metal base delivers performance and elegance in equal measure, while adjustable hold time keeps your tea at the perfect temperature for as long as you need. Designed for those who seek balance between tradition and technology, the Tea Maker Pro makes every brew an experience.
-  Updated: 2026-01-02T19:40:51Z
+  Updated: 2026-01-03T19:41:16Z
   Vendor: SAKI
   Product Type: Tea Makers
   Availability: Available
@@ -3072,14 +3047,14 @@
     Availability: Available
     Price: $489.00 USD
 - [Pour-Over Glass Coffee Maker](https://www.bervinshaulllc.com/products/pour-over-glass-coffee-maker): Experience coffee in its purest form with the Saki Pour-Over Glass Coffee Maker. Crafted for precision and balance, it captures every note of flavor while keeping bitterness and sediment out of your cup. The heat-resistant glass body and stainless-steel mesh filter preserve clarity and aroma, creating a clean, full-bodied brew every time. Designed for those who appreciate control and craftsmanship, it transforms your daily coffee ritual into a moment of intention.
-  Updated: 2025-12-31T06:13:33Z
+  Updated: 2026-01-03T21:30:46Z
   Vendor: SAKI
   Product Type: Coffee Makers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Pour-OverGlassCoffeeMaker.png?v=1765505922
   Price: $30.00 USD
 - [Natural Colored Cotton Bed Sheet Set](https://www.bervinshaulllc.com/products/natural-colored-cotton-bed-sheet-set): Made with USA cotton and Foxfibre® coyote brown Heirloom Cotton which is grown in a rich color integral to the fiber itself. Not a drop of artificial dyes is needed to make these bed sheets beautiful.
-  Updated: 2026-01-02T20:50:26Z
+  Updated: 2026-01-03T04:21:41Z
   Vendor: American Blossom Linens
   Product Type: Bed Sheets
   Availability: Available
@@ -3100,7 +3075,7 @@
     Availability: Not Available
     Price: $529.00 USD
 - [Cotton Single [Separate] Fitted Bed Sheet](https://www.bervinshaulllc.com/products/cotton-single-separate-fitted-bed-sheet): Crisp, soft and luxurious cotton sheets will give you a great night's sleep, keeping you cool in the summer and warm in winter. 100% USA grown, spun, woven and sewn.
-  Updated: 2026-01-02T19:05:46Z
+  Updated: 2026-01-03T17:26:05Z
   Vendor: American Blossom Linens
   Product Type: Bed Sheets
   Availability: Available
@@ -3172,14 +3147,14 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Washcloths_in_Basket_Color_Natural_Bathroom_Washcloths_Luxury_Natural_Cotton_Made_in_USA.jpg?v=1765505922
     Price: $59.00 USD
 - [Cotton Knitted Baby Blanket](https://www.bervinshaulllc.com/products/cotton-knitted-baby-blanket): Knitted to create a touchable texture, perfect for the crib, stroller or a trip to the park.
-  Updated: 2025-12-29T20:00:40Z
+  Updated: 2026-01-03T10:26:36Z
   Vendor: American Blossom Linens
   Product Type: Blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Folded_Knitted_Baby_Blanket_100_Cotton_Made_in_USA.jpg?v=1765505921
   Price: $129.00 USD
 - [Energy Griddle Pan — 11"](https://www.bervinshaulllc.com/products/energy-griddle-pan-11): Designed for effortless, family-style cooking. The Energy Griddle Pan delivers fast, even heat across an extra-large surface — perfect for pancakes, eggs, bacon, or tortillas for the whole table. Features Cook with Confidence – No chemical ceramic coating means no toxic chemicals—just pure, safe cooking for your family. Faster, Even Heat – Recycled aluminum core heats up to 30% quicker than standard pans for precise, consistent cooking. Nonstick That Lasts – Ceramic-reinforced surface ensures flawless release with minimal oil—delicate fish, eggs, and cheese glide off with ease. Durability You Can Trust – Scratch- and utensil-resistant coating built to handle daily cooking without chipping or wearing out. Versatile Performance – Works on gas, electric, ceramic, and induction stovetops, plus oven safe for added flexibility. Product Dimension Total Height: 2.36" Total Length: 18.7” Total Diameter: 11.8” Cooking surface: 11” Weight: 2.2 lbs. Care & Cleaning Not suitable for metal utensils - Use silicone or wood tools only Avoid high heat - Medium heat delivers best results and extends coating life No cooking sprays - They can build up and reduce nonstick performance Let cool before washing - Thermal shock can damage the coating Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T23:22:34Z
+  Updated: 2026-01-03T18:53:06Z
   Vendor: Alva Cookware
   Product Type: Pancake Pans
   Availability: Available
@@ -3205,14 +3180,14 @@
     Availability: Available
     Price: $279.00 USD
 - [Nori Round Dutch Oven — 5 QT.](https://www.bervinshaulllc.com/products/nori-round-dutch-oven-5-qt): This 5-quart Belgian masterpiece handles everything from Sunday roasts for 6-8 people to weekly meal prep for busy families. Features Perfect Capacity - 6-8 Servings: Not too big, not too small - this size handles family dinners, meal prep, and entertaining without being unwieldy. Superior Heat Retention: Cast iron holds consistent heat perfectly for large batches. Your family stews, chili, and roasts cook evenly from edge to center while developing rich, complex flavors. Family-Safe Enamel Surface: Premium enamel provides naturally non-stick properties without PFAS, PTFE, or chemical coatings. Perfect for Bread Baking & Sourdough: The 5-quart size creates ideal conditions for artisan bread baking. Heavy lid provides perfect steam while the size accommodates large sourdough loaves: Easy Cleanup: Smooth enamel surface releases food effortlessly, even after cooking for large groups. No special seasoning required. Dutch Oven Size 5 Qt.: 17.4 lbs. | 16.5" x 10.2" x 5.55" Care & Cleaning The premium enamel coating makes cleanup effortless, even after cooking large family meals. Just wash with warm soapy water, dry thoroughly, and store. No seasoning required - more time with family, less time on maintenance. Visit our Care & Cleaning Guide for more information. Remember: With proper care, your black cast iron cookware can last a lifetime and improve with use.
-  Updated: 2026-01-02T18:06:48Z
+  Updated: 2026-01-03T07:06:46Z
   Vendor: Alva Cookware
   Product Type: Dutch Ovens
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/nori-5-qt-dutch-oven-4948923.png?v=1765505922
   Price: $249.00 USD
 - [Forest Frying Pan](https://www.bervinshaulllc.com/products/forest-frying-pan): The Forest Carbon Steel Frying Pan delivers cast iron–level searing, without the weight. Naturally nonstick, chemical-free, and built to improve with every use, this pan outperforms cheap nonstick and lasts for generations. Features Restaurant Sear, Without the Weight – Golden crusts + caramelized edges like cast iron, but 30% lighter. Naturally Nonstick, Zero Coatings – No PFAS, no PFOA, no toxins—just a slick, evolving surface. Seasoned to Go – Pre-seasoned so you can start cooking right away—no hours of prep needed. Sustainable Craftsmanship – Solar-powered manufacturing, plastic-free packaging, and heirloom quality. Beautifully Balanced – Elegant wood handle stays cool + makes flipping effortless. Chef-Tested. Kitchen-Approved – Trusted in Michelin-starred kitchens, built to last a lifetime. Product Dimensions 8-inch: Total Height: 2.95" Total Length: 16.26” Total Diameter: 8.43” Cooking surface: 8” Weight: 1.4 lbs. 9.5-inch: Total Height: 3" Total Length: 17.76” Total Diameter: 9.88” Cooking surface: 9.5” Weight: 1.84 lbs. 11-inch: Total Height: 3.35" Total Length: 19.33” Total Diameter: 11.46” Cooking surface: 11” Weight: 2.3 lbs. Important: Carbon Steel Care Expectation Not dishwasher safe - Hand wash only to protect seasoning Needs light oil after washing - Prevents rust and maintains seasoning Gets better with use - Initial sticking is normal and improves quickly May develop patina - Natural color changes are normal and desired Visit our Care & Cleaning Guide for more information. If you want zero-maintenance cooking, consider our ceramic nonstick Maestro line instead.
-  Updated: 2026-01-02T21:06:41Z
+  Updated: 2026-01-03T21:56:41Z
   Vendor: Alva Cookware
   Product Type: Frying Pans
   Availability: Available
@@ -3231,7 +3206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/forest-frying-pan-3196355.png?v=1765505922
     Price: $189.00 USD
 - [Forest Wok — 12"](https://www.bervinshaulllc.com/products/forest-wok-12): Finally, a wok that cooks like the pros without the hassle. Forget flat-bottom “wannabe woks” and hours of messy seasoning. The Forest Carbon Steel Wok delivers authentic smoky wok hei, comes pre-seasoned and ready to use, and is 30% lighter than cast iron for effortless tossing. Pure, non-toxic, built to last — this is the only wok your kitchen will ever need. Features True Wok Performance – Carbon steel delivers instant sear + smoky wok hei flavor no flat-bottom “woks” can achieve. Cook Tonight, No Fuss – Pre-seasoned and naturally nonstick, so you skip the hours of burn-in and seasoning rituals. Safe & Clean Cooking – No PFAS, PFOA, or toxic coatings — just pure carbon steel that improves with every use. Ergonomic Acacia Handle – Natural wood grip with antibacterial properties; comfortable, stylish, and secure. Built Strong, Without the Weight – As tough as cast iron but 30% lighter, so tossing and flipping is easy. From Stir-Fry to Dinner Parties – Handles quick weeknight meals or big gatherings with ease. Important: Carbon Steel Care Expectation Not dishwasher safe - Hand wash only to protect seasoning Needs light oil after washing - Prevents rust and maintains seasoning Gets better with use - Initial sticking is normal and improves quickly May develop patina - Natural color changes are normal and desired Visit our Care & Cleaning Guide for more information. If you want zero-maintenance cooking, consider our ceramic nonstick Maestro line instead.
-  Updated: 2026-01-02T17:06:51Z
+  Updated: 2026-01-03T18:53:06Z
   Vendor: Alva Cookware
   Product Type: Wok Pans
   Availability: Available
@@ -3250,7 +3225,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Cotton Single [Separate] Flat Bed Sheet](https://www.bervinshaulllc.com/products/cotton-single-separate-flat-bed-sheet): Crisp, soft and luxurious cotton sheets will give you a great night's sleep, keeping you cool in the summer and warm in winter. 100% USA grown, spun, woven and sewn.
-  Updated: 2026-01-01T11:14:17Z
+  Updated: 2026-01-03T17:26:05Z
   Vendor: American Blossom Linens
   Product Type: Bed Sheets
   Availability: Available
@@ -3306,7 +3281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/greatbayhome-quilts-3-piece-striped-quilt-set-bryce-collection-35584484376751.jpg?v=1765505922
     Price: $64.99 USD
 - [Maestro Saucepan with Lid — 1.7 QT.](https://www.bervinshaulllc.com/products/maestro-saucepan-with-lid-1-7-qt): Designed for effortless, healthy cooking. Maestro delivers pro-level searing with the ease of true nonstick — no toxins, no fuss. Three stainless layers heat fast and evenly; our ceramic interior wipes clean and lasts for years. Whisk, simmer, or reduce — the Maestro Saucepan is precision engineered for silky sauces and everyday soups. The flared pour rim ensures drip-free serving, while the stay-cool handle keeps control in your hands. Features Fast, Even Heating – Tri-ply build with an aluminum core so food cooks consistently (no hot spots!) Easy Pour Spouts on Both Sides – No more drips or messes—designed for left- or right-handed use Just-Right Size (1.7 Qt.) – Perfect for sauces, grains, small soups, or heating leftovers Works On Any Stove – Induction, gas, electric, ceramic—you’re covered Oven & Dishwasher Safe – Handles heat up to 500°F and cleans up effortlessly No Toxic Coatings – PFAS, PTFE, and lead-free—cook safely every time Product Dimensions Total Height: 4.3" Total Length: 14” Total Diameter: 7.5” Cooking surface: 6.3” Weight: 2.1 lbs. Care & Cleaning Preheat on medium, add 1–2 Tbsp oil/butter, wait for a gentle sizzle Wash warm with mild soap; tough residue? Add water, simmer, then rinse Dry immediately to preserve the shine. Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T18:06:47Z
+  Updated: 2026-01-03T07:16:46Z
   Vendor: Alva Cookware
   Product Type: Saucepans
   Availability: Available
@@ -3331,7 +3306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/bwgshy4arc3xyhiasvjn.jpg?v=1765505922
     Price: $79.99 USD
 - [Energy Frying Pan](https://www.bervinshaulllc.com/products/energy-frying-pan): Transform your cooking experience today with the pan professional chefs are raving about. Our premium cast aluminum frying pan with ceramic-reinforced non-stick coating isn't just another kitchen tool—it's your gateway to quicker, healthier, and more enjoyable meals every single day. Features Cook with Confidence – No chemical ceramic coating means no toxic chemicals—just pure, safe cooking for your family. Faster, Even Heat – Recycled aluminum core heats up to 30% quicker than standard pans for precise, consistent cooking. Nonstick That Lasts – Ceramic-reinforced surface ensures flawless release with minimal oil—delicate fish, eggs, and cheese glide off with ease. Durability You Can Trust – Scratch- and utensil-resistant coating built to handle daily cooking without chipping or wearing out. Versatile Performance – Works on gas, electric, ceramic, and induction stovetops, plus oven safe for added flexibility. Product Dimensions 8-inch Pan: Total Height: 2.95" Total Length: 16.26” Total Diameter: 8.4” Cooking surface: 8” Weight: 1.4 lbs. 9.5-inch Pan: Total Height: 4.3" Total Length: 17.76” Total Diameter: 9.88” Cooking surface: 9.5” Weight: 1.84 lbs. 11-inch Pan: Total Height: 3.35" Total Length: 19.33” Total Diameter: 11.46” Cooking surface: 11” Weight: 2.31 lbs. 12.6-inch Pan: Total Height: 3.74" Total Length: 21.97” Total Diameter: 13.15” Cooking surface: 12.6” Weight: 3.23 lbs. Care & Cleaning Not suitable for metal utensils - Use silicone or wood tools only Avoid high heat - Medium heat delivers best results and extends coating life No cooking sprays - They can build up and reduce nonstick performance Let cool before washing - Thermal shock can damage the coating Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T20:06:46Z
+  Updated: 2026-01-03T19:36:42Z
   Vendor: Alva Cookware
   Product Type: Frying Pans
   Availability: Available
@@ -3410,7 +3385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/artist-frying-pan-4399053.png?v=1765505922
     Price: $279.00 USD
 - [Cotton Quilted Bedspread](https://www.bervinshaulllc.com/products/cotton-quilted-bedspread): Transform your bedroom into a sanctuary of comfort with our Cotton Quilted Bedspread. Crafted from our best-selling fabric, this bedspread offers a perfect blend of warmth, softness and eco-friendly luxury. 100% USA grown, spun, woven and sewn.
-  Updated: 2026-01-02T19:16:31Z
+  Updated: 2026-01-03T20:02:31Z
   Vendor: American Blossom Linens
   Product Type: Quilt & shams
   Availability: Available
@@ -3452,7 +3427,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Herringbone Weave Cotton Blanket](https://www.bervinshaulllc.com/products/herringbone-weave-cotton-blanket): Our perfect weight, super soft herringbone blanket makes a cozy layer for the sofa or the bed, no matter the season. Heirloom Quality that you can snuggle in for many years.
-  Updated: 2026-01-01T21:13:46Z
+  Updated: 2026-01-03T16:48:00Z
   Vendor: American Blossom Linens
   Product Type: Blankets
   Availability: Available
@@ -3518,7 +3493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Folded_Blanket_Green_Herringbone_Weave_Cotton_Made_in_USA.jpg?v=1765505922
     Price: $419.00 USD
 - [Maestro Frying Pan](https://www.bervinshaulllc.com/products/maestro-frying-pan-1): Our Maestro Frying Pan features genuine Belgian design — even heating, lasting ceramic nonstick, and zero PFAS/PTFE. Features Toxic-Free Ceramic Nonstick: Cook confidently with a coating that’s completely free from toxins — made without PFAS, PTFE, lead, or cadmium. Effortless Release, Zero Scrubbing: Food slides off easily — even eggs and sticky sauces. Just wipe clean, no soaking required. Fast, Even Heat: A durable aluminum core ensures quick heating and consistent results across every surface. No hot spots, no burnt edges. Stronger Than Ordinary Ceramic: Reinforced for daily use — won’t warp, scratch, or flake like cheaper nonstick pans. Made for Real Life: Designed for healthy, stress-free cooking that lasts — meal after meal, year after year. Details & Specs Material: Aluminum Core with Premium PFAS-Free Ceramic Nonstick Coating Exterior Finish: Black, scratch-resistant Interior Finish: Smooth black ceramic coating Oven Safe: Up to 400°F (204°C) Stovetop Compatibility: Gas, electric, glass-ceramic, and induction Handles: Stay-cool stainless steel, riveted for comfort and control Dishwasher Safe: Yes (hand wash recommended for longevity) Dimensions 8-Inch — Total Height: 2.95" Total Length: 15.55” Total Diameter: 8.3” Cooking surface: 8” Weight: 1.75 lbs. 9.5-Inch — Total Height: 3.15" Total Length: 17.13” Total Diameter: 9.85” Cooking surface: 9.5” Weight: 2.43 lbs. 11-Inch — Total Height: 3.35" Total Length: 17.13” Total Diameter: 11.4” Cooking surface: 11” Weight: 2.43 lbs. Care & Use Cook on low to medium heat for best results. Not suitable for metal utensils - Use silicone or wood tools only. Let cool before washing Skip the cooking sprays Hand-wash for longest life (dishwasher safe when you need it). Check out our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T18:06:57Z
+  Updated: 2026-01-03T23:08:21Z
   Vendor: Alva Cookware
   Product Type: Frying Pans
   Availability: Available
@@ -3540,21 +3515,21 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-frying-pan-4984591.png?v=1765505922
     Price: $369.00 USD
 - [Energy Whole Fish Pan](https://www.bervinshaulllc.com/products/energy-whole-fish-pan): Stop settling for fish fillets when whole fish delivers superior flavor, nutrition, and presentation. This professional-grade pan lets you cook restaurant-quality whole fish at home - crispy skin, moist flesh, and dramatic presentation that impresses every guest. Features Cook with Confidence – No chemical ceramic coating means no toxic chemicals—just pure, safe cooking for your family. Faster, Even Heat – Recycled aluminum core heats up to 30% quicker than standard pans for precise, consistent cooking. Nonstick That Lasts – Ceramic-reinforced surface ensures flawless release with minimal oil—delicate fish, eggs, and cheese glide off with ease. Durability You Can Trust – Scratch- and utensil-resistant coating built to handle daily cooking without chipping or wearing out. Versatile Performance – Works on gas, electric, ceramic, and induction stovetops, plus oven safe for added flexibility. Product Dimensions Total Height: 2.72" Total Length: 17.5” Total Diameter: 13.9” Weight: 2.24 lbs. Care & Cleaning Not suitable for metal utensils - Use silicone or wood tools only Avoid high heat - Medium heat delivers best results and extends coating life No cooking sprays - They can build up and reduce nonstick performance Let cool before washing - Thermal shock can damage the coating Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T16:06:50Z
+  Updated: 2026-01-03T18:53:06Z
   Vendor: Alva Cookware
   Product Type: Fish Pans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/energy-nonstick-whole-fish-pan-8909829.png?v=1765505922
   Price: $109.00 USD
 - [Maestro Sauté Pan with Lid — 3.5-QT.](https://www.bervinshaulllc.com/products/maestro-saute-pan-with-lid-3-5-qt): Designed for effortless, healthy cooking. Maestro delivers pro-level searing with the ease of true nonstick — no toxins, no fuss. Three layers heat fast and evenly; our ceramic interior wipes clean and lasts for years. Features Instant Heat Control, No Guesswork: Reacts 3x faster than typical stainless pans—so you’re always in control of the heat. Sear, sauté, or simmer without delays or burned food. Nonstick That Actually Lasts: Ceramic-reinforced, toxin-free coating delivers years of smooth, effortless cooking—no toxins, no flakes, no stress. Even Browning, Zero Burn Spots: Heat spreads edge-to-edge for uniform cooking. Your veggies, proteins, and sauces come out balanced and beautiful—every time. One Pan to Rule the Kitchen: Sauté, sear, braise, bake. Built for stovetop and oven with a tight-sealing lid—perfect for one-pan meals that go from flame to finish. Dimensions Total Height: 4.72" Total Length: 14” Total Diameter: 10.24” Cooking surface: 9.5” Weight: 3.86 lbs. Care & Use Cook on low to medium heat for best results. Not suitable for metal utensils - Use silicone or wood tools only. Let cool before washing Skip the cooking sprays Hand-wash for longest life (dishwasher safe when you need it). Check out our Care & Cleaning Guide for more tips.
-  Updated: 2026-01-02T23:35:06Z
+  Updated: 2026-01-03T07:16:46Z
   Vendor: Alva Cookware
   Product Type: Skillets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/maestro-35-qt-nonstick-saute-pan-with-lid-6525769.png?v=1765505922
   Price: $169.00 USD
 - [Black Angus Frying Pan](https://www.bervinshaulllc.com/products/black-angus-frying-pan): The Black Angus Carbon Steel Frying Pan isn’t just cookware—it’s a professional-grade weapon trusted by chefs for steakhouse sears, crisp edges, and bold flavor. Pre-seasoned and precision-engineered for rapid response, this pan gives you instant control, effortless nonstick performance, and the kind of character that only improves over decades. Features Searing, Browning, Crisping—Mastered: Professional-grade blue carbon steel delivers rapid heat conductivity and unbeatable temperature control. Naturally Nonstick, No Toxins: Pre-seasoned with organic flaxseed oil for a safe, chemical-free cooking surface that improves with every use. Stovetop to Oven, No Limits: Works flawlessly on gas, electric, glass, and induction. Oven-safe to 600°F. Pro Comfort Handle: Ergonomic cast stainless steel stays cooler and offers control during high-heat searing and tossing. Built to Last Generations: Forget pans that peel and chip. This heirloom-quality steel builds its nonstick naturally and keeps getting better. Chef-Tested Size & Balance: Choose 9.5" for couples or everyday meals, or 11" for entertaining and serious skillet work. Important: Carbon Steel Care Expectation Not dishwasher safe - Hand wash only to protect seasoning Needs light oil after washing - Prevents rust and maintains seasoning Gets better with use - Initial sticking is normal and improves quickly May develop patina - Natural color changes are normal and desired Visit our Care & Cleaning Guide for more information. If you want zero-maintenance cooking, consider our ceramic nonstick Maestro line instead.
-  Updated: 2026-01-02T22:06:46Z
+  Updated: 2026-01-03T18:06:47Z
   Vendor: Alva Cookware
   Product Type: Frying Pans
   Availability: Available
@@ -3707,7 +3682,7 @@
     Availability: Available
     Price: $879.00 USD
 - [Electric Samovar](https://www.bervinshaulllc.com/products/electric-samovar): Tradition meets technology for warm, fresh, bitterness-free tea. Premium porcelain, stainless steel, 4L capacity, 'keep warm' and drip-free functions for unforgettable tea times.
-  Updated: 2026-01-02T16:03:03Z
+  Updated: 2026-01-03T23:20:22Z
   Vendor: SAKI
   Product Type: Samovars
   Availability: Available
@@ -3957,7 +3932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/s9zjbxzxiy3rhjhsgj1g_aed12137-18c2-4c3b-9a0d-3791070b9da8.jpg?v=1765505923
     Price: $84.99 USD
 - [Energy Wok — 12”](https://www.bervinshaulllc.com/products/energy-wok-12): Tired of heavy woks that rust, stick, or leach chemicals into your food? The Energy Nonstick Wok gives you the best of both worlds — authentic high-heat wok cooking with a safe, toxin-free ceramic coating that wipes clean in seconds. Engineered for serious flavor and everyday convenience. Features Healthier Cooking: Toxin-free ceramic coating — no toxins, just safe, clean meals. Restaurant-Quality Flavor: Achieve that smoky “wok hei” taste at home. Even High-Heat Performance: Recycled aluminum core heats fast, no cold spots. Family-Sized: 12" capacity cooks stir-fries for 4–6 in one go. Light & Durable: Lighter than cast iron, built to last through years of use. Versatile Cooking: Perfect for stir-frying, deep-frying, braising, or steaming. Effortless Cleanup: Wipes clean after high-heat cooking — no scrubbing. Product Dimensions Total Height: 4.13" Total Length: 22.2” Total Diameter: 12.3” Cooking surface: 12” Weight: 2.29 lbs. Care & Cleaning Not suitable for metal utensils - Use silicone or wood tools only. Avoid high heat - Medium heat delivers best results and extends coating life No cooking sprays - They can build up and reduce nonstick performance Let cool before washing - Thermal shock can damage the coating Visit our Care & Cleaning Guide for more information.
-  Updated: 2026-01-02T23:22:00Z
+  Updated: 2026-01-03T18:36:47Z
   Vendor: Alva Cookware
   Product Type: Wok Pans
   Availability: Available
@@ -4406,7 +4381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/jyz5hnmelkyheccv0ntg.jpg?v=1765505924
     Price: $84.99 USD
 - [Natural Cotton Bed Pillowcases](https://www.bervinshaulllc.com/products/natural-cotton-bed-pillowcases): Crisp, soft and luxurious cotton pillowcases will give you a great night's sleep, keeping you cool in the summer and warm in winter. 100% USA grown, spun, woven and sewn.
-  Updated: 2026-01-02T19:03:06Z
+  Updated: 2026-01-03T16:41:06Z
   Vendor: American Blossom Linens
   Product Type: Pillows & Pillowcases
   Availability: Available
@@ -4444,7 +4419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/Blue_Pillowcase.jpg?v=1765505928
     Price: $99.00 USD
 - [Cotton Duvet Cover Set](https://www.bervinshaulllc.com/products/cotton-duvet-cover-set): Our extensive 122-year history creating bed linens for hotels and dedication to quality construction have made our luxury duvet covers durable, breathable, cozy and comfortable.
-  Updated: 2026-01-01T15:02:22Z
+  Updated: 2026-01-03T09:53:16Z
   Vendor: American Blossom Linens
   Product Type: Duvet Covers
   Availability: Available
@@ -4630,7 +4605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/great-bay-home-sheets-4-piece-flannel-jersey-sheet-cozy-flex-collection-33059475849391.jpg?v=1765505929
     Price: $54.99 USD
 - [3-Piece Lodge Quilt - Yosemite Collection](https://www.bervinshaulllc.com/products/3-piece-lodge-quilt-yosemite-collection): Bring the calming tones of nature into your home with this 3-piece set quilt from our Yosemite Collection. From the mountain ranges, the fish and the moose you won't miss out on any part of nature when you're wrapped up in this reversible quilt set. Perfect coziness for all year round.
-  Updated: 2026-01-02T19:47:56Z
+  Updated: 2026-01-03T03:41:56Z
   Vendor: Great Bay Home
   Product Type: Quilts & Comforters
   Availability: Available
@@ -4732,7 +4707,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6577/9409/files/yifulgs2yaezmjwu6s6i_33ec2998-8f38-433a-bd42-44a6a6b21c12.jpg?v=1765505930
     Price: $79.99 USD
 - [4-Piece Jersey Sheet - Carmen Collection](https://www.bervinshaulllc.com/products/4-piece-jersey-sheet-carmen-collection): Wrap yourself in comfort with our heathered jersey knit sheets—just like your favorite worn-in T-shirt, but for your bed. Made from a soft and breathable cotton polyester blend, these sheets get even cozier with every wash. They naturally adapt to the seasons, keeping you cool when it’s warm and warm when it’s cool. The heathered melange finish adds a laid-back, effortlessly stylish touch to your space, while the slight stretch ensures a perfect, snug fit on your mattress. Easygoing, ultra-soft, and always inviting—these are the sheets you’ll never want to leave.
-  Updated: 2026-01-02T19:49:01Z
+  Updated: 2026-01-03T19:40:36Z
   Vendor: Great Bay Home
   Product Type: Sheets
   Availability: Available
@@ -5788,7 +5763,7 @@
   Updated: 2025-12-21T12:34:25Z
   Total Products: 0
 - [AVADA - Best Sellers](https://www.bervinshaulllc.com/collections/avada-best-sellers)
-  Updated: 2026-01-02T15:21:56Z
+  Updated: 2026-01-03T20:13:02Z
   Total Products: 314
 - [Product Network Home Decor & Lighting - Affiliate Products - Bervins Haul LLC](https://www.bervinshaulllc.com/collections/product-network-affiliate-eligible): Discover our curated collection of premium home decor and designer lighting from Shopify Product Network, available for affiliate partners to promote.
   Updated: 2025-12-27T12:04:01Z
