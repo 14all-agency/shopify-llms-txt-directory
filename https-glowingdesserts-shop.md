@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-10T04:21:25Z
 - Contact Email: glowingdesserts@gmail.com
-- Updated At: 2026-01-01T22:28:57.030Z
+- Updated At: 2026-01-04T00:00:22.423Z
 
 ## Products
 
@@ -485,7 +485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/Ed08aYnAKqW4yrMPi-__sAU_3_gps_generated.png?v=1765596530
   Price: $30.00 USD
 - [Christmas Candle Cinnamon Scented in beautiful Wine Glass](https://glowingdesserts.shop/products/christmas-candle-cinnamon-scented-in-beautiful-wine-glass): Experience the festive holiday season with our Christmas Candle. This elegantly crafted Wine Glass holds a delightful Cinnamon scent, perfect for creating a warm and welcoming atmosphere. With its long-lasting burn time, it's sure to enhance your celebration. Transform your home into a cozy winter wonderland with our Christmas Candle.
-  Updated: 2025-12-18T22:02:19Z
+  Updated: 2026-01-03T16:21:17Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
@@ -613,35 +613,71 @@
   - [Vanilla](https://glowingdesserts.shop/products/morning-treat-fruity-donut-scented-candle?variant=50468020027678)
     Availability: Available
     Price: $13.99 USD
+- [Cotton Candy Birthday Bash Candle](https://glowingdesserts.shop/products/cotton-candy-birthday-bash-candle): Introducing our Cotton Candy Birthday Bash Candle - a 19OZ, 100% Soy Wax candle that will surely make your birthday celebration more fun! With cute topping pieces, including a cupcake with a wick, and a sprinkling of sparkles, this candle is a great conversation starter. Plus, it's non-toxic and safe to burn. Party on with our candle!
+  Updated: 2026-01-03T16:21:17Z
+  Vendor: Glowing Desserts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8862.png?v=1767405565
+  Price: $45.00 USD
+- [Sweethearts Delight Candle](https://glowingdesserts.shop/products/sweethearts-delight-candle): Indulge your sweetheart with our Sweethearts Delight Candle, specially crafted for Valentine's Day. With a romantic scent of Vanilla and charming details like white roses and a decorative heart, this soy wax candle is sure to set the mood. Non-toxic and perfectly delightful.
+  Updated: 2026-01-03T16:21:17Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/NHxYaYboJr6TmtUPiOWR2Ag_1_gps_generated.png?v=1767406736
+  Price: $30.00 USD
+- [Pink Party Shake Dessert Candle](https://glowingdesserts.shop/products/pink-party-shake-dessert-candle): Infuse your space with the delectable scent of vanilla with our Pink Party Shake Dessert Candle. Perfect for any occasion, this candle comes in a Sundae-inspired glass and features a wax heart and cute wax melts topped with sprinkles. Experience divine relaxation with every burn.
+  Updated: 2026-01-03T16:21:17Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8863.png?v=1767406771
+  Price: $15.99 USD
+- [Love Candle](https://glowingdesserts.shop/products/love-candle): Experience the sweet scent of love with our Love Candle. Featuring a fruity candy fragrance and fun heart sprinkles, this small and cute Valentine's candle comes in two beautiful colors. Get ready to set the mood for a romantic evening.
+  Updated: 2026-01-03T16:21:18Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8867.png?v=1767407245
+  Price: $8.99 USD
+- [Valentines Snap Bars ( Vanilla, Cotton Candy fragrances](https://glowingdesserts.shop/products/valentines-snap-bars-vanilla-cotton-candy-fragrances): Elevate your Valentine's Day experience with our charming Valentines Snap Bars. Infused with delightful Vanilla and Cotton Candy fragrances, these super cute wax melts not only set the mood, but also fill your home with irresistible scents. Indulge in the perfect blend of romance and sweetness. These are super cute snap bar wax melts for Valentines Day !!! These come in Vanilla and Cotton Candy.
+  Updated: 2026-01-03T16:21:18Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8868.png?v=1767407793
+  Price: $5.99 USD
+[List Continued](https://glowingdesserts.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTYxMzA0MjI4MTI2LCJsYXN0X3ZhbHVlIjoiOTk2MTMwNDIyODEyNiJ9)
 
 ## Collections
 
 - [Home page](https://glowingdesserts.shop/collections/frontpage): Welcome to Glowing Desserts Candles. Handmade soy wax dessert candles for any occasion.
-  Updated: 2025-12-31T20:55:49Z
+  Updated: 2026-01-03T16:21:16Z
   Total Products: 1
 - [Holiday Candles](https://glowingdesserts.shop/collections/holiday-candles): These holiday themed candles have a great scent and a one of a kind look.
-  Updated: 2025-12-31T20:55:49Z
+  Updated: 2026-01-03T16:21:16Z
   Total Products: 12
 - [Wax tarts](https://glowingdesserts.shop/collections/wax-tarts): Shop these wonderfully scented wax tarts
-  Updated: 2025-12-31T20:55:49Z
+  Updated: 2026-01-03T16:21:16Z
   Total Products: 9
 - [Birthday Candles](https://glowingdesserts.shop/collections/birthday-candles): Birthday dessert candles
-  Updated: 2025-12-31T20:55:49Z
+  Updated: 2026-01-03T16:21:17Z
   Total Products: 7
 - [All Products (ChatGPT-AI Product Description)](https://glowingdesserts.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-31T16:08:34Z
-  Total Products: 96
+  Updated: 2026-01-03T02:51:58Z
+  Total Products: 101
 - [Candles example products](https://glowingdesserts.shop/collections/candles-example-products)
-  Updated: 2025-12-31T20:55:49Z
+  Updated: 2026-01-03T16:21:17Z
   Total Products: 0
 - [Orderly Emails - Recommended Products](https://glowingdesserts.shop/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-12-31T16:08:34Z
-  Total Products: 84
+  Updated: 2026-01-03T02:52:18Z
+  Total Products: 89
 - [New! Shopify performance sharing is now turned on](https://glowingdesserts.shop/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-31T16:08:34Z
-  Total Products: 96
+  Updated: 2026-01-03T02:51:58Z
+  Total Products: 101
 - [Featured Collection](https://glowingdesserts.shop/collections/featured-collection): Featured Collection
-  Updated: 2025-12-31T20:55:49Z
+  Updated: 2026-01-03T16:21:17Z
   Total Products: 8
 
 ## Blogs
