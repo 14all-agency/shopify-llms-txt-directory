@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-10-15T15:54:52Z
 - Contact Email: support@kazehane.com
-- Updated At: 2026-01-04T00:00:23.047Z
+- Updated At: 2026-01-04T16:31:48.475Z
 
 KAZEHANE is a curated multi-brand platform offering selected designer and premium fashion from leading and emerging labels. Our focus is on quality, rarity, and a seamless shopping experience—connecting discerning customers with exclusive pieces across Europe.and United States
 
@@ -779,7 +779,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/TB0A6BW5-EBD-g.jpg?v=1765588342
     Price: €79.95 EUR
 - [Nike Air Force 1](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001): The Nike Air Force 1 is an iconic basketball sneaker that transcends sport and style. Featuring a clean leather upper, responsive cushioning, and a durable rubber sole, this timeless silhouette delivers comfort for everyday wear. Its versatile design pairs effortlessly with any wardrobe, from casual to elevated looks. A true classic that has defined sneaker culture for decades.
-  Updated: 2025-12-30T23:00:13Z
+  Updated: 2026-01-04T11:47:33Z
   Vendor: Brandstyle24
   Product Type: Unisex > Sneaker
   Availability: Available
@@ -889,7 +889,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/FZ4110-001-g.jpg?v=1765588341
     Price: €164.95 EUR
 - [DR. MARTENS](https://kazehane.com/products/dr-doc-martens-1460-smooth-boots-stiefel-leder-schwarz-11822006): The iconic Dr. Martens 1460 in smooth black leather—a timeless boot built for durability and style. Featuring the signature air-cushioned sole and reinforced stitching, these boots offer comfort that improves with wear. Perfect for those seeking a versatile, long-lasting staple that transitions effortlessly from casual to refined looks.
-  Updated: 2026-01-02T22:58:57Z
+  Updated: 2026-01-04T15:50:21Z
   Vendor: Brandstyle24
   Product Type: Unisex > Stiefel
   Availability: Available
@@ -943,7 +943,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/11822006-g.jpg?v=1765588341
     Price: €159.95 EUR
 - [Salomon Speedcross Peak GTX - GORE-TEX](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538): Salomon Speedcross Peak GTX delivers trail-ready performance with GORE-TEX waterproofing and advanced grip technology. Engineered for demanding terrain, these men's running shoes combine lightweight responsiveness with protective cushioning. The aggressive tread pattern ensures traction on wet and loose surfaces, while the durable construction handles rugged conditions. Ideal for serious trail runners seeking reliable protection and speed.
-  Updated: 2025-12-30T22:50:32Z
+  Updated: 2026-01-04T03:41:41Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -973,7 +973,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
   - [EU 44 2/3 UK 10](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538?variant=52577825325395)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
   - [EU 45 1/3 UK 10.5](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538?variant=52577825358163)
@@ -989,7 +989,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
 - [Nike Dunk](https://kazehane.com/products/nike-dunk-high-university-chenille-swoosh-herren-sneakers-schuhe-leder-dr8805-002): Nike Dunk High University in classic black leather with distinctive chenille Swoosh detailing. Premium construction combines heritage basketball aesthetics with modern comfort. The DR8805-002 delivers timeless style for sneaker enthusiasts who appreciate quality craftsmanship and iconic design. Perfect for casual wear or collecting.
-  Updated: 2026-01-03T23:38:30Z
+  Updated: 2026-01-04T05:43:49Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2399,7 +2399,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ3439-101-g.jpg?v=1767119907
     Price: €157.95 EUR
 - [Mizuno](https://kazehane.com/products/mizuno-wave-prophecy-12-herren-sneakers-laufschuhe-schwarz-j1gc238333): Mizuno Engineered for performance, Mizuno delivers precision and reliability across every product. Built with meticulous attention to detail, our collection combines advanced technology with refined craftsmanship. Whether you're seeking superior comfort, durability, or competitive edge, Mizuno products are designed to elevate your experience. Trusted by professionals worldwide, each piece reflects our commitment to excellence and innovation.
-  Updated: 2026-01-01T20:31:45Z
+  Updated: 2026-01-04T07:44:31Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2597,7 +2597,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/ID1708-g.jpg?v=1767119907
     Price: €179.95 EUR
 - [Nike Air Max](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03): Nike Air Max sneakers deliver iconic style with engineered comfort. Featuring responsive cushioning and a sleek silhouette, these shoes blend performance with everyday versatility. Perfect for those who demand both aesthetic appeal and reliable support in a timeless design.
-  Updated: 2026-01-02T23:20:26Z
+  Updated: 2026-01-04T15:50:21Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
