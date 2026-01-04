@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2026-01-03T00:01:07.697Z
+- Updated At: 2026-01-04T00:01:08.346Z
 
 ## Products
 
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-leather-designer-tote-front-view.webp?v=1736822487
     Price: $43.95 USD
 - [Women Handbags: Structured Faux Leather, Organized Style](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote): Women handbags: Discover our structured faux leather bag, perfect for work or style, offering secure storage and versatile carrying. Elevate your look today!
-  Updated: 2026-01-02T22:38:06Z
+  Updated: 2026-01-03T04:39:31Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's structured faux leather handbag
   Availability: Available
@@ -17294,7 +17294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1881963053667586048.jpg?v=1746988563
   Price: $29.95 USD
 - [360 ultrasonic pest repellent for safe home pest control](https://ursupermart.com/products/360-ultrasonic-pest-repellent-safe-home-control): 360 ultrasonic pest repellent offers safe, chemical-free pest control for your home, protecting up to 3229 sq ft. Get yours today for peace of mind!
-  Updated: 2025-12-29T17:32:27Z
+  Updated: 2026-01-03T09:26:46Z
   Vendor: S1B|Make | CJ
   Product Type: Ultrasonic pest repellent
   Availability: Available
@@ -17351,7 +17351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/halterneck-fan-ivory-white-color.webp?v=1755274187
     Price: $19.95 USD
 - [Espresso Machine for Home Use Under $500](https://ursupermart.com/products/espresso-machine-automatic-coffee-maker-brewer-device): Experience the perfect shot with our 20 bar Espresso Machine, ideal for home baristas, featuring a built-in milk frother for lattes and cappuccinos.
-  Updated: 2025-12-29T17:32:29Z
+  Updated: 2026-01-03T09:26:46Z
   Vendor: S1B|Updated - CJ
   Product Type: Espresso Machine
   Availability: Available
@@ -17725,7 +17725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/lifting-straps-pink-fashionable-functional-deadlifting-accessory-gift.webp?v=1751577668
     Price: $28.95 USD
 - [Pet Hair Remover - Easy Clean Up, Top Rated!](https://ursupermart.com/products/pet-hair-remover-for-furniture-and-clothing): Effortlessly remove pet hair from furniture, clothes & more!  Our Pet Hair Remover glove is gentle yet effective.  Shop now!
-  Updated: 2025-12-29T17:32:45Z
+  Updated: 2026-01-03T04:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Pet hair remover glove
   Availability: Available
@@ -17807,7 +17807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/magnetic-car-phone-holder-strong-clamp.webp?v=1753909730
     Price: $32.95 USD
 - [Backless Dress: Shop Chic Styles & Look Amazing](https://ursupermart.com/products/backless-summer-dress-for-women-elegant-style): Stunning backless dress, perfect for parties!  Find your perfect fit & style with our customizable options. Shop now!
-  Updated: 2025-12-29T17:33:13Z
+  Updated: 2026-01-03T07:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Multiway Dress
   Availability: Available
@@ -18013,7 +18013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multiway-dress-light-blue-halter-style.webp?v=1752518992
     Price: $47.95 USD
 - [Magnetic Phone Mount - Secure & Easy Car Use](https://ursupermart.com/products/magnetic-phone-mount-car-dashboard-holder): Secure your phone with our top-rated magnetic car phone mount.  Enjoy hands-free navigation & easy installation – no more shaky drives!
-  Updated: 2025-12-29T17:33:14Z
+  Updated: 2026-01-03T08:26:47Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Foldable Magnetic Car Phone Mount
   Availability: Available
@@ -18035,7 +18035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-magnetic-phone-holder-white-accessory.webp?v=1753896986
     Price: $29.95 USD
 - [Colombian Shapewear - Sculpt & Slim Instantly!](https://ursupermart.com/products/best-colombian-shapewear-body-shapers): Shop Colombian shapewear for ultimate tummy control.  Our fajas offer post-surgery support & a flattering silhouette.  Buy now!
-  Updated: 2025-12-29T17:33:17Z
+  Updated: 2026-01-03T04:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Colombian Shapewear (Fajas, Body Shaper, Tummy Control Shapewear, Post-Surgery Shapewear, Butt Lifter Shapewear, Melibelt Bodysuit)
   Availability: Available
@@ -18177,7 +18177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/knitted-dress-white-front-pose-style.webp?v=1752526793
     Price: $39.95 USD
 - [Glass Teapot - Brew Beautiful Tea Today!](https://ursupermart.com/products/glass-teapot-for-loose-leaf-tea-infuser): Brew loose leaf tea perfectly with our elegant glass teapot.  Easy-clean design & magnetic infuser for effortless tea time. Shop now!
-  Updated: 2025-12-29T17:33:24Z
+  Updated: 2026-01-03T05:26:31Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Glass Teapot with One-Click Magnetic Tea Infuser
   Availability: Available
@@ -18261,7 +18261,7 @@
   Availability: Available
   Price: $26.95 USD
 - [Vacation Dress - Style & Comfort for Your Getaway!](https://ursupermart.com/products/vacation-dress-for-women-summer-style): Stylish & comfortable vacation dress. Perfect for beach holidays & dinners. Shop our best resort dresses now!
-  Updated: 2025-12-29T17:33:34Z
+  Updated: 2026-01-03T04:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Women's one-shoulder long-sleeve knitted vacation dress
   Availability: Available
@@ -19377,7 +19377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-set-women-black-blue-style.webp?v=1750287681
     Price: $74.95 USD
 - [Rotating Kitchen Faucet - Flexible Sink Tap!](https://ursupermart.com/products/rotating-kitchen-faucet-with-sprayer-360): Upgrade your kitchen with our 360° rotating kitchen faucet!  Enjoy effortless sink access & a stylish, splash-proof design. Shop now!
-  Updated: 2025-12-29T17:35:10Z
+  Updated: 2026-01-03T08:26:47Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Multifunctional kitchen faucet attachment
   Availability: Available
@@ -19407,7 +19407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multi-use-faucet-rotatable-head.webp?v=1749303466
     Price: $59.95 USD
 - [Laptop Lunch Bag for Women - Insulated & Stylish](https://ursupermart.com/products/womens-insulated-lunch-bag-laptop-pocket): Stylish women's insulated lunch bag with laptop pocket!  Large capacity, leak-proof, & perfect for work. Shop now!
-  Updated: 2025-12-29T17:35:12Z
+  Updated: 2026-01-03T03:26:57Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Stylish insulated laptop lunch bag for women.
   Availability: Available
@@ -19448,7 +19448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/white-noise-speaker-nature-sound-tuner.webp?v=1750273842
   Price: $69.95 USD
 - [Needle Threader: Quick & Easy Sewing Starts Here!](https://ursupermart.com/products/easy-needle-threader-tool-for-sewing-projects): Effortlessly thread needles with our easy needle threader!  Perfect for sewing machines & hand sewing, even with arthritis or poor eyesight. Shop now!
-  Updated: 2025-12-29T17:35:14Z
+  Updated: 2026-01-03T04:25:26Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Needle threader
   Availability: Available
@@ -19642,7 +19642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-knit-shirt-outfit.webp?v=1752590003
     Price: $25.95 USD
 - [Build Stronger Hands with Our Adjustable Hand Strengthener](https://ursupermart.com/products/hand-strengthener-exercise-equipment-for-finger-grip-strengthening): Boost hand strength and reduce pain! This adjustable hand strengthener is perfect for arthritis, tendonitis, and improving grip.  Durable, comfortable, and portable.
-  Updated: 2025-12-29T17:35:21Z
+  Updated: 2026-01-03T04:25:26Z
   Vendor: S1B|@Updated - CJ
   Product Type: Hand Strengthener
   Availability: Available
@@ -21830,7 +21830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-size-polo-shirts-yellow-front.webp?v=1752789156
     Price: $26.95 USD
 - [Men's Shorts Comfortable Drawstring Waist Relaxed Fit](https://ursupermart.com/products/plus-size-corduroy-shorts-for-men-comfortable-drawstring-waist): Comfortable plus size men's corduroy shorts with drawstring pockets and adjustable waist for a relaxed fit.
-  Updated: 2025-12-29T17:36:43Z
+  Updated: 2026-01-03T00:26:31Z
   Vendor: S1B|@Updated - CJ
   Product Type: Plus Size Men's Corduroy Shorts
   Availability: Available
