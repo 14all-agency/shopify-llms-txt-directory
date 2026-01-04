@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-12-06T16:19:59Z
 - Contact Email: thapcamtv@proton.me
-- Updated At: 2026-01-01T00:00:35.211Z
+- Updated At: 2026-01-04T00:00:35.576Z
 
 ## Products
 
@@ -4083,6 +4083,10 @@
   Updated: 2025-12-06T16:20:02Z
 - [Mix and Match](https://5n0xcu-us.myshopify.com/pages/collection-bundle)
   Updated: 2025-12-13T08:06:15Z
+- [FAQs](https://5n0xcu-us.myshopify.com/pages/main-faqs)
+  Updated: 2026-01-02T15:10:46Z
+- [Frequently Asked Questions](https://5n0xcu-us.myshopify.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
+  Updated: 2026-01-02T15:32:21Z
 
 ## Policies
 
