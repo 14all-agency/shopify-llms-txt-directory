@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2026-01-03T00:01:02.095Z
+- Updated At: 2026-01-04T00:01:03.940Z
 
 ## Products
 
@@ -7995,7 +7995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-86_1.jpg?v=1690622677
     Price: $2,219.00 USD
 - [Natural Salt And Pepper 1.45CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-45ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-2): A one-of-a-kind design, this handmade Natural Salt and Pepper Diamond Art Deco Engagement Ring is the perfect way to celebrate an anniversary. The 1.45CT Hexagon Diamond stands out in a unique setting, creating a special look for an unforgettable moment.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2026-01-03T23:42:08Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
