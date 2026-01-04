@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-01-01T00:00:39.833Z
+- Updated At: 2026-01-04T00:00:42.177Z
 
 ## Products
 
@@ -8612,15 +8612,85 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/33a29b3d0eb1bedfad8d14fd6086f488.jpg?v=1767049103
     Price: $54.99 USD
-[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDkzNzE0MDg0MDkzLCJsYXN0X3ZhbHVlIjoiOTA5MzcxNDA4NDA5MyJ9)
+- [Cozy Luxe Slouchy Pullover](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover): Elevate your fall and winter wardrobe with our Cozy Luxe Slouchy Pullover, the epitome of relaxed elegance. Perfect for layering or lounging, this top offers a chic, effortlessly stylish look while keeping you snug and comfortable.Key Features:Premium Fabric Blend: Crafted from a soft, high-quality blend of cotton and acrylic, this pullover provides a plush, cozy feel against the skin, ensuring warmth without sacrificing breathability.Relaxed Fit: Designed with a slouchy, oversized silhouette, this pullover offers a laid-back vibe that's perfect for casual outings or lounging at home.Round Neck Design: The classic round neckline adds a timeless touch while providing ample space for layering with scarves or necklaces.Solid Color Palette: Available in a range of versatile, solid colors, this pullover is easy to mix and match with your favorite jeans, leggings, or skirts.Ribbed Details: Subtle ribbed detailing on the cuffs and hem enhances the overall design and ensures a snug fit that keeps its shape wash after wash.Easy Care: Machine washable and designed to hold its shape, this pullover is as practical as it is stylish.Embrace effortless style and ultimate comfort with the Cozy Luxe Slouchy Pullover—your new go-to for the colder months.
+  Updated: 2026-01-02T06:48:30Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/oxlvxheOEMdIqk4rLGSC.webp?v=1767293303
+  - [Beige / S](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333732093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/oxlvxheOEMdIqk4rLGSC.webp?v=1767293303
+    Price: $72.73 USD
+  - [Beige / M](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333764861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/oxlvxheOEMdIqk4rLGSC_e69cedec-cda5-4b16-8190-1437e0abdfcb.webp?v=1767293417
+    Price: $72.75 USD
+  - [Beige / L](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333797629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/oxlvxheOEMdIqk4rLGSC_9a025a0d-bbdd-43f5-b506-a98b34f9d0ae.webp?v=1767293439
+    Price: $73.41 USD
+  - [Beige / XL](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333830397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/oxlvxheOEMdIqk4rLGSC_2b64492f-508f-4c35-84f8-931f7059a4eb.webp?v=1767293358
+    Price: $74.07 USD
+  - [Black / S](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333863165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/cqzgAwBfSJfVcm9f08Cp_6460a3ba-d748-45f4-94a4-0d6e8d34f77d.webp?v=1767293450
+    Price: $72.09 USD
+  - [Black / M](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333895933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/cqzgAwBfSJfVcm9f08Cp_c6fa9fad-e26a-4a18-b771-7cffdc3100ac.webp?v=1767293460
+    Price: $72.75 USD
+  - [Black / L](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333928701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/cqzgAwBfSJfVcm9f08Cp_57d130de-08bf-454e-9f11-16a8a0212061.webp?v=1767293492
+    Price: $73.41 USD
+  - [Black / XL](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333961469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/cqzgAwBfSJfVcm9f08Cp_5c4c23b6-0413-4e09-a51f-c2744b5b492a.webp?v=1767293370
+    Price: $74.07 USD
+  - [Camel / S](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044333994237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/CdlYlKUpI5gTl60cM2tY_9aee4531-3cc2-4006-a5e5-96138b91b301.webp?v=1767293338
+    Price: $72.09 USD
+  - [Camel / M](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334027005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/CdlYlKUpI5gTl60cM2tY_f2d67cce-986b-4501-9c88-b7fd5457147c.webp?v=1767293428
+    Price: $72.75 USD
+  - [Camel / L](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334059773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/CdlYlKUpI5gTl60cM2tY.webp?v=1767293327
+    Price: $73.41 USD
+  - [Camel / XL](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334092541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/CdlYlKUpI5gTl60cM2tY_eb8b6ecc-cbcf-4953-a26b-73adc92abe19.webp?v=1767293481
+    Price: $74.07 USD
+  - [Grey / S](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334125309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/365buHBJUwNKARJMwRpv_73c48b20-9abc-4c66-af09-4893612649dc.webp?v=1767293393
+    Price: $72.09 USD
+  - [Grey / M](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334158077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/365buHBJUwNKARJMwRpv.webp?v=1767293315
+    Price: $72.75 USD
+  - [Grey / L](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334190845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/365buHBJUwNKARJMwRpv_91daf3f2-f0f6-444d-a886-9e0e5b13d2e4.webp?v=1767293348
+    Price: $73.41 USD
+  - [Grey / XL](https://hypesinventory.com/products/cozy-luxe-slouchy-pullover?variant=47044334223613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/365buHBJUwNKARJMwRpv_1cfcc57d-9abe-45a0-bd3c-0a2ed06816c1.webp?v=1767293502
+    Price: $74.07 USD
+[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk3NzY0MTc2MTI1LCJsYXN0X3ZhbHVlIjoiOTA5Nzc2NDE3NjEyNSJ9)
 
 ## Collections
 
 - [PHOFAY Collection](https://hypesinventory.com/collections/phofay): PHOFAY Brand Selection
   Updated: 2025-12-25T23:36:18Z
   Total Products: 15
-- [Flairé™ collection](https://hypesinventory.com/collections/flaire™-collection)
-  Updated: 2025-12-25T23:16:59Z
+- [Flairé™ collection](https://hypesinventory.com/collections/flaire™-collection): Designed to sculpt, support, and move with you.The Flairé™ Collection delivers sleek, body-contouring activewear that enhances your shape while keeping you comfortable, confident, and effortlessly stylish—from workouts to everyday wear.
+  Updated: 2026-01-01T22:55:51Z
   Total Products: 8
 - [Health & Beauty](https://hypesinventory.com/collections/health-beauty)
   Updated: 2025-12-25T23:36:18Z
@@ -8634,9 +8704,12 @@
 - [Featured Collection](https://hypesinventory.com/collections/featured-collection-yl5rv)
   Updated: 2025-12-30T18:48:18Z
   Total Products: 23
-- [LÁVINE™ Essentials](https://hypesinventory.com/collections/lavine™-essentials)
-  Updated: 2025-12-31T08:34:50Z
+- [LÁVINE™ Essentials](https://hypesinventory.com/collections/lavine™-essentials): Effortless luxury, designed for everyday elegance.The LÁVINE™ Collection features ultra-soft, elevated essentials made to flatter, move, and feel indulgent—perfect for lounging, stepping out, or owning every moment in comfort and style.
+  Updated: 2026-01-01T22:36:53Z
   Total Products: 6
+- [Clothing](https://hypesinventory.com/collections/clothing)
+  Updated: 2026-01-01T18:48:28Z
+  Total Products: 1
 
 ## Blogs
 
