@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2025-12-26T00:00:33.332Z
+- Updated At: 2026-01-04T00:00:35.978Z
 
 ## Products
 
@@ -634,7 +634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1762408044
     Price: £50.00 GBP
 - [Montenégra Champion tie-dye hoodie](https://montenegra-london.com/products/montenegra-champion-tie-dye-hoodie): We’ve partnered with Champion If you're looking for a trendy, one-of-a-kind clothing item, this Champion tie-dye hoodie is the one! It's almost impossible to create two similar items during the garment-dyeing process, so every piece has a unique touch to it. • 82% cotton, 18% poly fleece • Fabric weight: 12 oz/yd² (406.9 g/m²) • Unique scrunch-dye, tie-dye pattern • Reverse Weave® cross-grain cut resists shrinkage • Two-ply hood with matching drawcords • 1×1 rib knit side panels, sleeve cuffs, and bottom hem • Front pouch pocket • Woven label at the back of the neck • Embroidered "C" logo on left sleeve • Blank product sourced from El Salvador This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, bisphenols and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) M 27 22 35 ¼ L 28 24 36 XL 29 26 36 ¾
-  Updated: 2025-11-21T17:58:16Z
+  Updated: 2025-12-28T04:11:02Z
   Vendor: Montenegra
   Product Type: 
   Availability: Available
@@ -648,7 +648,7 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-champion-tie-dye-hoodie-black-front-690d80115e6af.jpg?v=1762492452
     Price: £110.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-champion-tie-dye-hoodie?variant=56138807181687)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-champion-tie-dye-hoodie-black-front-690d80115e6af.jpg?v=1762492452
     Price: £110.00 GBP
 - [Montenégra Embroidered Champion packable Jacket - Premium Black and White](https://montenegra-london.com/products/montenegra-embroidered-champion-packable-jacket-premium-black): The Montenégra Embroidered Champion Packable Jacket — Premium Black & White redefines essential outerwear with thoughtful functionality and refined simplicity. Designed for those who move with purpose and value versatile layering, this packable jacket blends structured performance with modern minimalism — perfect for unpredictable weather, travel, and everyday urban wardrobes. Crafted from 100% polyester micro poplin, this wind and rain resistant jacket delivers lightweight comfort with dependable protection. Its half-zip pullover design with integrated hood gives a clean, intentional silhouette, while the embroidered “C” logo on the sleeve brings subtle visual presence that aligns with Montenégra’s signature aesthetic. Built for adaptability, this piece features a large front kangaroo pocket and a hidden zipped pouch pocket that transforms the jacket into its own compact carrying form — ideal for travel, commuting, or on-the-go city life. Adjustable bungee cord at the hood and hem, plus elastic cuffs, help seal out the elements and refine proportion without excess. Key Features Wind & rain resistant polyester micro poplin — protection with lightweight comfort Half-zip pullover with practical hood — simple, versatile layering Front kangaroo pocket & hidden zipped pouch pocket — everyday storage + packable design Adjustable bungee drawcords at hood & hem for tailored fit Elastic cuffs for secure comfort Embroidered Champion “C” logo — quiet branding with classic detail Premium Black & White palette — versatile, minimalist, Montenégra signature Engineered for everyday adaptability and quiet confidence, the Montenégra Embroidered Champion Packable Jacket is a refined essential — outerwear with purpose, presence without excess. Size guide BODY LENGTH (inches) BODY WIDTH (inches) SLEEVE LENGTH (FROM CENTER BACK) (inches) S 27 ¼ 21 ¼ 34 ¼ M 28 22 ¾ 35 L 28 ¾ 24 ¼ 36 XL 29 ½ 25 ¾ 36 ¾ 2XL 30 ¼ 27 ¼ 37 ½ Other compliance information: Meets the European REACH chemical requirements.In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
@@ -2018,6 +2018,506 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2882920_montenegra-monoglasses_0_89b4ceae-c197-4163-8661-a0e9b2468561.jpg?v=1766600585
   Price: £42.45 GBP
+- [Montenégra Essential Boxy Darted Sleeve Hoodie - Premium Black and White](https://montenegra-london.com/products/essential-boxy-darted-sleeve-hoodie): Item Number:RW0069Gender:UnisexModel:OversizedFabric:68% polyester, 32% cottonFabric Weight:10.3 oz/yd² (350 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Cotton Blend, Pocket, Long Sleeve, Drop Shoulder, Hooded, Crop, Oversized, Spring, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch inch inch inch inch Chest 26.4 27.2 28.0 28.7 29.5 Length 24.0 24.8 25.6 26.4 27.2 Shoulder 24.6 25.4 26.2 27.0 27.8 Sleeve length 22.4 22.8 23.2 23.6 24.0 gid://shopify/Product/15299009282423
+  Updated: 2025-12-28T12:30:42Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/4b7a0f2814984288a5ac868406ba8d99.png?v=1766869613
+  - [Black / S](https://montenegra-london.com/products/essential-boxy-darted-sleeve-hoodie?variant=56426079158647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/4b7a0f2814984288a5ac868406ba8d99.png?v=1766869613
+    Price: £50.00 GBP
+  - [Black / M](https://montenegra-london.com/products/essential-boxy-darted-sleeve-hoodie?variant=56426079191415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/4b7a0f2814984288a5ac868406ba8d99.png?v=1766869613
+    Price: £50.00 GBP
+  - [Black / L](https://montenegra-london.com/products/essential-boxy-darted-sleeve-hoodie?variant=56426079224183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/4b7a0f2814984288a5ac868406ba8d99.png?v=1766869613
+    Price: £50.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/essential-boxy-darted-sleeve-hoodie?variant=56426079256951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/4b7a0f2814984288a5ac868406ba8d99.png?v=1766869613
+    Price: £50.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/essential-boxy-darted-sleeve-hoodie?variant=56426079289719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/4b7a0f2814984288a5ac868406ba8d99.png?v=1766869613
+    Price: £50.00 GBP
+- [Montenégra Boxy Button Placket Hoodie - Premium Black and White](https://montenegra-london.com/products/montenegra-boxy-button-placket-hoodie-premium-black-and-white): Item Number:RQ0033Gender:UnisexModel:LooseFabric:Main Fabric: 60% cotton, 40% low-elastic fiber; Contrast Fabric: 100% polyesterFabric Weight:9.4 oz/yd² (320 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Daily Casual, Outdoor, Running, School, Office, Cotton Blend, Button, Drawstring, Long Sleeve, Drop Shoulder, Hooded, Crop, Oversized, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 22.8 58 23.6 60 24.4 62 25.2 64 26.0 66 Length 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Shoulder 22.8 58 23.4 59.5 24.0 61 24.6 62.5 25.2 64 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/15299031826807
+  Updated: 2025-12-29T00:30:36Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/23e571295f914edf839610abc82c140f.png?v=1766872298
+  - [Black / S](https://montenegra-london.com/products/montenegra-boxy-button-placket-hoodie-premium-black-and-white?variant=56426174218615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/23e571295f914edf839610abc82c140f.png?v=1766872298
+    Price: £60.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-boxy-button-placket-hoodie-premium-black-and-white?variant=56426174251383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/23e571295f914edf839610abc82c140f.png?v=1766872298
+    Price: £60.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-boxy-button-placket-hoodie-premium-black-and-white?variant=56426174284151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/23e571295f914edf839610abc82c140f.png?v=1766872298
+    Price: £60.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-boxy-button-placket-hoodie-premium-black-and-white?variant=56426174316919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/23e571295f914edf839610abc82c140f.png?v=1766872298
+    Price: £60.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/montenegra-boxy-button-placket-hoodie-premium-black-and-white?variant=56426174349687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/23e571295f914edf839610abc82c140f.png?v=1766872298
+    Price: £60.00 GBP
+- [Montenégra Wide Leg Drawstring Sweatpants - Premium Black and White](https://montenegra-london.com/products/wide-leg-drawstring-sweatpants): Item Number:RK0072Gender:UnisexModel:LooseFabric:54.7% polyester, 39.8% cotton, 5.5% spandexFabric Weight:11.2 oz/yd² (380 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Daily Casual, Holiday, Outdoor, School, Office, Cotton Blend, Pleated, Pocket, Drawstring, Regular, Wide Leg, Mid Waist, Spring, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 41.7 106 42.1 107 42.5 108 42.9 109 43.3 110 Waist 13.4 34 14.2 36 15.0 38 15.7 40 16.5 42 Hip 20.5 52 21.3 54 22.0 56 22.8 58 23.6 60 gid://shopify/Product/15299039592823
+  Updated: 2025-12-29T00:31:06Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/24ef0f611d954991a8476283e5b1a995.png?v=1766874653
+  - [Black / S](https://montenegra-london.com/products/wide-leg-drawstring-sweatpants?variant=56426204627319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/24ef0f611d954991a8476283e5b1a995.png?v=1766874653
+    Price: £50.00 GBP
+  - [Black / M](https://montenegra-london.com/products/wide-leg-drawstring-sweatpants?variant=56426204660087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/24ef0f611d954991a8476283e5b1a995.png?v=1766874653
+    Price: £50.00 GBP
+  - [Black / L](https://montenegra-london.com/products/wide-leg-drawstring-sweatpants?variant=56426204692855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/24ef0f611d954991a8476283e5b1a995.png?v=1766874653
+    Price: £50.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/wide-leg-drawstring-sweatpants?variant=56426204725623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/24ef0f611d954991a8476283e5b1a995.png?v=1766874653
+    Price: £50.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/wide-leg-drawstring-sweatpants?variant=56426204758391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/24ef0f611d954991a8476283e5b1a995.png?v=1766874653
+    Price: £50.00 GBP
+- [Montenégra Mineral Wash Oversized Sweater](https://montenegra-london.com/products/montenegra-mineral-wash-oversized-sweater): Item Number:RM0003Gender:MenModel:LooseFabric:100% cottonFabric Weight:8.4 oz/yd² (285 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Street, Daily Casual, Holiday, Outdoor, School, Office, Pure Cotton, Snow Wash, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 Length 25.2 64 26.0 66 26.8 68 27.6 70 Shoulder 18.5 47 19.3 49 20.1 51 20.9 53 Sleeve length 25.2 64 25.6 65 26.0 66 26.4 67 gid://shopify/Product/15299043426679
+  Updated: 2025-12-29T00:30:09Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8517e15b76ab42c7a94c156be523f8dc.png?v=1766875448
+  - [Black / S](https://montenegra-london.com/products/montenegra-mineral-wash-oversized-sweater?variant=56426246734199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8517e15b76ab42c7a94c156be523f8dc.png?v=1766875448
+    Price: £50.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-mineral-wash-oversized-sweater?variant=56426246766967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8517e15b76ab42c7a94c156be523f8dc.png?v=1766875448
+    Price: £50.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-mineral-wash-oversized-sweater?variant=56426246799735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8517e15b76ab42c7a94c156be523f8dc.png?v=1766875448
+    Price: £50.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-mineral-wash-oversized-sweater?variant=56426246832503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8517e15b76ab42c7a94c156be523f8dc.png?v=1766875448
+    Price: £50.00 GBP
+- [Montenégra Essential Cropped Hoodie - Silky White and Black](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie): Item Number:WW0021Gender:WomenModel:OversizedFabric:80% cotton, 20% polyesterFabric Weight:9.1 oz/yd² (310 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Gym, Outdoor, Running, Sport, Office, Cotton Blend, Drawstring, Long Sleeve, Drop Shoulder, Hooded, Crop, Loose, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 Length 18.5 47 18.9 48 19.3 49 19.7 50 Shoulder 25.0 63.5 25.8 65.5 26.6 67.5 27.4 69.5 Sleeve length 22.2 56.5 22.5 57.1 22.8 57.8 23.0 58.5 gid://shopify/Product/15299044835703
+  Updated: 2025-12-28T12:29:40Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9a94f126727141dcadd3167a128a35d5.png?v=1766876093
+  - [White / S](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie?variant=56426260922743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9a94f126727141dcadd3167a128a35d5.png?v=1766876093
+    Price: £35.00 GBP
+  - [White / M](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie?variant=56426260955511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9a94f126727141dcadd3167a128a35d5.png?v=1766876093
+    Price: £35.00 GBP
+  - [White / L](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie?variant=56426260988279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9a94f126727141dcadd3167a128a35d5.png?v=1766876093
+    Price: £35.00 GBP
+  - [White / XL](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie?variant=56426261021047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9a94f126727141dcadd3167a128a35d5.png?v=1766876093
+    Price: £35.00 GBP
+- [Montenégra Essential Cropped Hoodie - Premium Black and White](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie-1): Item Number:WW0021Gender:WomenModel:OversizedFabric:80% cotton, 20% polyesterFabric Weight:9.1 oz/yd² (310 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Gym, Outdoor, Running, Sport, Office, Cotton Blend, Drawstring, Long Sleeve, Drop Shoulder, Hooded, Crop, Loose, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 Length 18.5 47 18.9 48 19.3 49 19.7 50 Shoulder 25.0 63.5 25.8 65.5 26.6 67.5 27.4 69.5 Sleeve length 22.2 56.5 22.5 57.1 22.8 57.8 23.0 58.5 gid://shopify/Product/15299046048119
+  Updated: 2025-12-28T12:29:23Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7a41e3919a224a028ac3114b74741bd4.png?v=1766876439
+  - [Black / S](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie-1?variant=56426268557687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7a41e3919a224a028ac3114b74741bd4.png?v=1766876439
+    Price: £35.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie-1?variant=56426268590455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7a41e3919a224a028ac3114b74741bd4.png?v=1766876439
+    Price: £35.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie-1?variant=56426268623223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7a41e3919a224a028ac3114b74741bd4.png?v=1766876439
+    Price: £35.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-essential-cropped-hoodie-1?variant=56426268655991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7a41e3919a224a028ac3114b74741bd4.png?v=1766876439
+    Price: £35.00 GBP
+- [Montenégra Essential Straight-Leg Sweatpants - Premium Black and White](https://montenegra-london.com/products/monteegra-essential-straight-leg-sweatpants): Item Number:WK0009Gender:WomenModel:LooseFabric:80% cotton, 20% polyesterFabric Weight:9.1 oz/yd² (310 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Outdoor, Running, Gym, Sport, Cotton Blend, Elastic Waist, Drawstring, Regular, Wide Leg, Mid Waist, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart XS S M L inch cm inch cm inch cm inch cm Length 40.9 104 41.3 105 41.7 106 42.1 107 Waist 11.8 30 12.6 32 13.4 34 14.6 37 Hip 19.3 49 20.1 51 20.9 53 22.0 56 gid://shopify/Product/15299046343031
+  Updated: 2025-12-28T12:29:10Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/260c561a21864a21b2c3970bffb23c01.png?v=1766876723
+  - [Black / XS](https://montenegra-london.com/products/monteegra-essential-straight-leg-sweatpants?variant=56426270228855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/260c561a21864a21b2c3970bffb23c01.png?v=1766876723
+    Price: £40.00 GBP
+  - [Black / S](https://montenegra-london.com/products/monteegra-essential-straight-leg-sweatpants?variant=56426270261623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/260c561a21864a21b2c3970bffb23c01.png?v=1766876723
+    Price: £40.00 GBP
+  - [Black / M](https://montenegra-london.com/products/monteegra-essential-straight-leg-sweatpants?variant=56426270294391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/260c561a21864a21b2c3970bffb23c01.png?v=1766876723
+    Price: £40.00 GBP
+  - [Black / L](https://montenegra-london.com/products/monteegra-essential-straight-leg-sweatpants?variant=56426270327159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/260c561a21864a21b2c3970bffb23c01.png?v=1766876723
+    Price: £40.00 GBP
+- [Montenégra Essential Straight-Leg Sweatpants - Silky White and Black](https://montenegra-london.com/products/essential-straight-leg-sweatpants): Item Number:WK0009Gender:WomenModel:LooseFabric:80% cotton, 20% polyesterFabric Weight:9.1 oz/yd² (310 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Outdoor, Running, Gym, Sport, Cotton Blend, Elastic Waist, Drawstring, Regular, Wide Leg, Mid Waist, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart XS S M L inch cm inch cm inch cm inch cm Length 40.9 104 41.3 105 41.7 106 42.1 107 Waist 11.8 30 12.6 32 13.4 34 14.6 37 Hip 19.3 49 20.1 51 20.9 53 22.0 56 gid://shopify/Product/15299047817591
+  Updated: 2025-12-28T11:17:21Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/87695e2a77be474f972048cc405171c9.png?v=1766877428
+  - [White / XS](https://montenegra-london.com/products/essential-straight-leg-sweatpants?variant=56426273145207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/87695e2a77be474f972048cc405171c9.png?v=1766877428
+    Price: £40.00 GBP
+  - [White / S](https://montenegra-london.com/products/essential-straight-leg-sweatpants?variant=56426273177975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/87695e2a77be474f972048cc405171c9.png?v=1766877428
+    Price: £40.00 GBP
+  - [White / M](https://montenegra-london.com/products/essential-straight-leg-sweatpants?variant=56426273210743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/87695e2a77be474f972048cc405171c9.png?v=1766877428
+    Price: £40.00 GBP
+  - [White / L](https://montenegra-london.com/products/essential-straight-leg-sweatpants?variant=56426273243511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/87695e2a77be474f972048cc405171c9.png?v=1766877428
+    Price: £40.00 GBP
+- [Montenégra Heavyweight Cotton Straight-Leg Pants - Premium Black and White](https://montenegra-london.com/products/heavyweight-cotton-straight-leg-pants): Item Number:RK0002Gender:MenModel:RegularFabric:100% cottonFabric Weight:10.6 oz/yd² (360 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Home, Outdoor, Business, School, Office, Pure Cotton, Long, Regular, Spring, Summer, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Length 40.2 102 40.7 103.5 41.3 105 41.9 106.5 Waist 14.6 37 15.4 39 16.1 41 16.9 43 Hip 18.5 47 19.3 49 20.1 51 20.9 53 gid://shopify/Product/15299048014199
+  Updated: 2025-12-28T12:10:00Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/84ca05d6f0904045adfbe6124b93ae77.png?v=1766877668
+  - [Black / S](https://montenegra-london.com/products/heavyweight-cotton-straight-leg-pants?variant=56426273702263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/84ca05d6f0904045adfbe6124b93ae77.png?v=1766877668
+    Price: £45.00 GBP
+  - [Black / M](https://montenegra-london.com/products/heavyweight-cotton-straight-leg-pants?variant=56426273735031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/84ca05d6f0904045adfbe6124b93ae77.png?v=1766877668
+    Price: £45.00 GBP
+  - [Black / L](https://montenegra-london.com/products/heavyweight-cotton-straight-leg-pants?variant=56426273767799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/84ca05d6f0904045adfbe6124b93ae77.png?v=1766877668
+    Price: £45.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/heavyweight-cotton-straight-leg-pants?variant=56426273800567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/84ca05d6f0904045adfbe6124b93ae77.png?v=1766877668
+    Price: £45.00 GBP
+- [Montenégra Essential Heavyweight Pocket Hoodie - Premium Black and White](https://montenegra-london.com/products/essential-heavyweight-pocket-hoodie): Item Number:RQ0020Gender:UnisexModel:LooseFabric:Main Fabric: 61% cotton, 39% polyester; Contrast Fabric: 100% polyesterFabric Weight:12.4 oz/yd² (420 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Outdoor, Running, Sport, Office, Cotton Blend, Zipper, Pocket, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Length 26.8 68 27.6 70 28.3 72 29.1 74 29.9 76 Shoulder 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Sleeve length 21.5 54.5 21.9 55.5 22.2 56.5 22.6 57.5 23.0 58.5 gid://shopify/Product/15299058598263
+  Updated: 2025-12-28T11:59:43Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5880551ed49842c7b9913b62de4277fc.png?v=1766879979
+  - [Black / S](https://montenegra-london.com/products/essential-heavyweight-pocket-hoodie?variant=56426322755959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0a6e9a94028e40a987c11b10904700aa.png?v=1766879978
+    Price: £65.00 GBP
+  - [Black / M](https://montenegra-london.com/products/essential-heavyweight-pocket-hoodie?variant=56426322788727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0a6e9a94028e40a987c11b10904700aa.png?v=1766879978
+    Price: £65.00 GBP
+  - [Black / L](https://montenegra-london.com/products/essential-heavyweight-pocket-hoodie?variant=56426322821495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0a6e9a94028e40a987c11b10904700aa.png?v=1766879978
+    Price: £65.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/essential-heavyweight-pocket-hoodie?variant=56426322854263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0a6e9a94028e40a987c11b10904700aa.png?v=1766879978
+    Price: £65.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/essential-heavyweight-pocket-hoodie?variant=56426322887031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0a6e9a94028e40a987c11b10904700aa.png?v=1766879978
+    Price: £65.00 GBP
+- [Montenégra French Terry Boxy Tank Top - Premium Black and White](https://montenegra-london.com/products/montenegra-french-terry-boxy-tank-top): Item Number:RB0003Gender:UnisexModel:RegularFabric:87% cotton, 13% polyesterFabric Weight:10.0 oz/yd² (340 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Black, Grey, Basics, Casual, Street, Daily Casual, Outdoor, School, Office, Cotton Blend, Frayed, Sleeveless, Regular Sleeve, Round Neck / O-Neck, Regular, Regular, Mid Waist, Summer, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 23.0 58.5 24.0 61 25.0 63.5 26.0 66 27.0 68.5 Length 22.6 57.5 23.6 60 24.6 62.5 25.6 65 26.6 67.5 Shoulder 21.3 54 22.0 56 22.8 58 23.6 60 24.4 62 gid://shopify/Product/15299059188087
+  Updated: 2025-12-28T12:05:58Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/3d9cb5245c1d4d0ca809bb12ac543bb6.png?v=1766880356
+  - [Black / S](https://montenegra-london.com/products/montenegra-french-terry-boxy-tank-top?variant=56426327867767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f6053d8ed70c4b62a118b45c41e0ae71.png?v=1766880353
+    Price: £45.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-french-terry-boxy-tank-top?variant=56426327900535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f6053d8ed70c4b62a118b45c41e0ae71.png?v=1766880353
+    Price: £45.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-french-terry-boxy-tank-top?variant=56426327933303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f6053d8ed70c4b62a118b45c41e0ae71.png?v=1766880353
+    Price: £45.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-french-terry-boxy-tank-top?variant=56426327966071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f6053d8ed70c4b62a118b45c41e0ae71.png?v=1766880353
+    Price: £45.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/montenegra-french-terry-boxy-tank-top?variant=56426327998839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f6053d8ed70c4b62a118b45c41e0ae71.png?v=1766880353
+    Price: £45.00 GBP
+- [Montenégra Vintage Wash Boxy Distressed Hem T-Shirt - Washed Black and White](https://montenegra-london.com/products/vintage-wash-boxy-distressed-hem-t-shirt): Item Number:RT0077Gender:UnisexModel:RegularFabric:100% cottonFabric Weight:7.1 oz/yd² (240 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Vintage, Daily Casual, Holiday, Outdoor, Party, Pure Cotton, Washed, Frayed, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, SummerPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Due to the hand-cut raw hem design, slight variations in length may occur. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Length 24.0 61 25.2 64 26.4 67 27.6 70 28.7 73 Shoulder 21.7 55 22.2 56.5 22.8 58 23.4 59.5 24.0 61 Sleeve length 7.9 20 8.1 20.5 8.3 21 8.5 21.5 8.7 22 gid://shopify/Product/15299059548535
+  Updated: 2025-12-28T12:14:04Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0be027639e644316a2eb558d3b98b025.png?v=1766880729
+  - [Black / S](https://montenegra-london.com/products/vintage-wash-boxy-distressed-hem-t-shirt?variant=56426332586359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0be027639e644316a2eb558d3b98b025.png?v=1766880729
+    Price: £45.00 GBP
+  - [Black / M](https://montenegra-london.com/products/vintage-wash-boxy-distressed-hem-t-shirt?variant=56426332619127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0be027639e644316a2eb558d3b98b025.png?v=1766880729
+    Price: £45.00 GBP
+  - [Black / L](https://montenegra-london.com/products/vintage-wash-boxy-distressed-hem-t-shirt?variant=56426332651895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0be027639e644316a2eb558d3b98b025.png?v=1766880729
+    Price: £45.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/vintage-wash-boxy-distressed-hem-t-shirt?variant=56426332684663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0be027639e644316a2eb558d3b98b025.png?v=1766880729
+    Price: £45.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/vintage-wash-boxy-distressed-hem-t-shirt?variant=56426332717431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/0be027639e644316a2eb558d3b98b025.png?v=1766880729
+    Price: £45.00 GBP
+- [Montenégra Essential Heavyweight Vest - Premium Black and White](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest): Item Number:RB0016Gender:UnisexModel:LooseFabric:Main Fabric: 61.9% cotton, 38.1% polyester; Contrast Fabric: 100% polyesterFabric Weight:11.2 oz/yd² (380 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Zipper, Sleeveless, Sleeveless, Stand Collar, Regular, Loose, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 22.0 56 22.8 58 23.6 60 24.4 62 25.2 64 26.0 66 Length 25.4 64.5 26.2 66.5 27.0 68.5 27.8 70.5 28.5 72.5 29.3 74.5 Shoulder 17.3 44 17.7 45 18.1 46 18.5 47 18.9 48 19.3 49 gid://shopify/Product/15299060236663
+  Updated: 2025-12-28T12:18:37Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+  - [Black / XS](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest?variant=56426337010039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+    Price: £65.00 GBP
+  - [Black / S](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest?variant=56426337042807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+    Price: £65.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest?variant=56426337075575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+    Price: £65.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest?variant=56426337108343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+    Price: £65.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest?variant=56426337141111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+    Price: £65.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/montenegra-essential-heavyweight-vest?variant=56426337173879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/03b8197288224a3ca874aa832e830d28.png?v=1766881104
+    Price: £65.00 GBP
+- [Montenégra Snow Wash Drawstring Cotton Pants](https://montenegra-london.com/products/montenegra-snow-wash-drawstring-cotton-pants): Item Number:RK0040Gender:UnisexModel:LooseFabric:100% cottonFabric Weight:7.1 oz/yd² (240 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, School, Sport, Office, Pure Cotton, Washed, Drawstring, Pocket, Regular, Loose, Mid Waist, Spring, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 41.7 106 42.5 108 43.3 110 44.1 112 44.9 114 Waist 14.2 36 15.0 38 15.7 40 16.5 42 16.9 43 Hip 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 gid://shopify/Product/15299061285239
+  Updated: 2025-12-28T12:40:39Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/61af189ed18c49ada87053b9954c4cd8.png?v=1766881658
+  - [Black / S](https://montenegra-london.com/products/montenegra-snow-wash-drawstring-cotton-pants?variant=56426339926391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/fc799db5edc64cfe9aecedd0b98541de.png?v=1766881658
+    Price: £45.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-snow-wash-drawstring-cotton-pants?variant=56426339959159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/fc799db5edc64cfe9aecedd0b98541de.png?v=1766881658
+    Price: £45.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-snow-wash-drawstring-cotton-pants?variant=56426339991927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/fc799db5edc64cfe9aecedd0b98541de.png?v=1766881658
+    Price: £45.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-snow-wash-drawstring-cotton-pants?variant=56426340024695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/fc799db5edc64cfe9aecedd0b98541de.png?v=1766881658
+    Price: £45.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/montenegra-snow-wash-drawstring-cotton-pants?variant=56426340057463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/fc799db5edc64cfe9aecedd0b98541de.png?v=1766881658
+    Price: £45.00 GBP
+- [Montenégra Curved Panel Raglan Hoodie - Double Black](https://montenegra-london.com/products/montenegra-curved-panel-raglan-hoodie): Item Number:RW0070Gender:UnisexModel:OversizedFabric:68% polyester, 32% cottonFabric Weight:10.3 oz/yd² (350 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Zipper, Pocket, Patchwork, Long Sleeve, Raglan Sleeve, Hooded, Crop, Oversized, Spring, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 26.4 67 27.2 69 28.0 71 28.7 73 29.5 75 Length 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Sleeve length 31.3 79.5 32.1 81.5 32.9 83.5 33.7 85.5 34.4 87.5 gid://shopify/Product/15299063644535
+  Updated: 2025-12-28T12:40:00Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/b4d87fce940240ef9e11712c46e1e380.png?v=1766882392
+  - [Black / S](https://montenegra-london.com/products/montenegra-curved-panel-raglan-hoodie?variant=56426354835831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/b4d87fce940240ef9e11712c46e1e380.png?v=1766882392
+    Price: £50.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-curved-panel-raglan-hoodie?variant=56426354868599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/b4d87fce940240ef9e11712c46e1e380.png?v=1766882392
+    Price: £50.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-curved-panel-raglan-hoodie?variant=56426354901367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/b4d87fce940240ef9e11712c46e1e380.png?v=1766882392
+    Price: £50.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-curved-panel-raglan-hoodie?variant=56426354934135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/b4d87fce940240ef9e11712c46e1e380.png?v=1766882392
+    Price: £50.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/montenegra-curved-panel-raglan-hoodie?variant=56426354966903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/b4d87fce940240ef9e11712c46e1e380.png?v=1766882392
+    Price: £50.00 GBP
+- [Montenégra Quarter-Zip Drop Shoulder Sweatshirt - Premium Black and white](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt): Item Number:RW0063Gender:UnisexModel:LooseFabric:85% cotton, 15% polyesterFabric Weight:9.4 oz/yd² (320 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Zipper, Pocket, Long Sleeve, Drop Shoulder, Lapel Collar, Regular, Loose, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL 3XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 23.6 60 24.4 62 25.2 64 26.0 66 26.8 68 27.6 70 Length 26.4 67 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 Shoulder 22.8 58 23.4 59.5 24.0 61 24.6 62.5 25.2 64 25.8 65.5 Sleeve length 21.7 55 22.0 56 22.4 57 22.8 58 23.2 59 23.6 60 gid://shopify/Product/15299064234359
+  Updated: 2025-12-28T12:44:58Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+  - [Black / S](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt?variant=56426359521655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+    Price: £60.00 GBP
+  - [Black / M](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt?variant=56426359554423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+    Price: £60.00 GBP
+  - [Black / L](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt?variant=56426359587191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+    Price: £60.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt?variant=56426359619959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+    Price: £60.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt?variant=56426359652727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+    Price: £60.00 GBP
+  - [Black / 3XL](https://montenegra-london.com/products/monteegra-quarter-zip-drop-shoulder-sweatshirt?variant=56426359685495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/e7fc84fe4c7443568e10d3daf4b1b0ee.png?v=1766882693
+    Price: £60.00 GBP
+- [Monetnégra Vintage lace-up pumps](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps): Effortless style combined with everyday versatility. Thanks to the breathable lining and soft insole, these men’s lace-up canvas shoes will withstand even the wildest nights with friends. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Breathable lining • Padded collar and tongue • Removable insole • Soles and laces in matching colors • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide US MEN UK EUROPE FOOT LENGTH (inches) JAPAN OUTSOLE LENGTH (inches) 5 5 4 37.5 9 ⅛ 23 10.00 5.5 5.5 4.5 38 9 ¼ 23.5 10.00 6 6 5 38.5 9 ½ 24 10 ¼ 6.5 6.5 5.5 39 9 ⅝ 24.5 10 ¼ 7 7 6 40 9 ¾ 25 10 ⅝ 7.5 7.5 6.5 40.5 10.00 25.5 10 ¾ 8 8 7 41 10 ⅛ 26 10 ¾ 8.5 8.5 7.5 42 10 ¼ 26.5 11 ⅛ 9 9 8 42.5 10 ½ 27 11 ⅜ 9.5 9.5 8.5 43 10 ⅝ 27.5 11 ⅜ 10 10 9 44 10 ¾ 28 11 ⅝ 10.5 10.5 9.5 44.5 11.00 28.5 12.00 11 11 10 45 11 ¼ 29 12.00 11.5 11.5 10.5 46 11 ½ 29.5 12 ⅛ 12 12 11 46.5 11 ¾ 30 12 ½ 12.5 12.5 11.5 47 11 ⅞ 30.5 12 ½ 13 13 12 47.5 12 31 12 ¾ US MEN UK EUROPE FOOT LENGTH (cm) JAPAN OUTSOLE LENGTH (cm) 5 5 4 37.5 23.2 23 25.4 5.5 5.5 4.5 38 23.5 23.5 25.4 6 6 5 38.5 24.1 24 26.2 6.5 6.5 5.5 39 24.5 24.5 26.2 7 7 6 40 24.8 25 27 7.5 7.5 6.5 40.5 25.4 25.5 27.3 8 8 7 41 25.7 26 27.3 8.5 8.5 7.5 42 26 26.5 28.3 9 9 8 42.5 26.7 27 29 9.5 9.5 8.5 43 27 27.5 29 10 10 9 44 27.3 28 29.5 10.5 10.5 9.5 44.5 28 28.5 30.5 11 11 10 45 28.6 29 30.5 11.5 11.5 10.5 46 29.2 29.5 30.8 12 12 11 46.5 29.9 30 31.8 12.5 12.5 11.5 47 30.2 30.5 31.8 13 13 12 47.5 30.6 31 32.4
+  Updated: 2025-12-28T16:01:48Z
+  Vendor: Montenégra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+  - [5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483777911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [5.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483810679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [6](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483843447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [6.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483876215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [7](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483908983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [7.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483941751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [8](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426483974519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [8.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484007287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [9](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484040055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [9.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484072823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [10](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484105591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [10.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484138359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [11](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484171127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [11.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484203895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [12](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484236663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [12.5](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484269431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+  - [13](https://montenegra-london.com/products/monetnegra-vintage-lace-up-pumps?variant=56426484302199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-lace-up-canvas-shoes-white-right-front-6950ab92ec933.jpg?v=1766894504
+    Price: £45.00 GBP
+- [Montenégra Organic cotton baby bodysuit](https://montenegra-london.com/products/montenegra-organic-cotton-baby-bodysuit-1): Made from 100% certified organic cotton, this comfy bodysuit will be the right step towards a more sustainable lifestyle. With its extra soft and stretchy fabric and envelope neckline, it’ll be the perfect choice for all active babies. • 100% certified organic cotton • Soft and stretchy fabric • 3 self-colored nickel-free poppers at the crotch • Envelope neckline • Fabric weight: 5.9 oz/yd² (200 g/m²) • Binding at neck, arms, and legs for shape retention Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the EU REACH requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide CHEST (inches) LENGTH (inches) BABY HEIGHT (inches) 3-6M 8 ⅝ 16 ¾ 23 ⅝-26 6-12M 9 ½ 18 ⅛ 26 -29 ⅞ 12-18M 10 19 ¾ 29 ⅞-33 ⅞ CHEST (cm) LENGTH (cm) BABY HEIGHT (cm) 3-6M 22 42.5 60-66 6-12M 24 46 66-76 12-18M 25.5 50 76-86
+  Updated: 2025-12-28T16:42:15Z
+  Vendor: Montenégra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/organic-cotton-baby-bodysuit-black-front-6950b5166437e.jpg?v=1766896931
+  - [3-6m](https://montenegra-london.com/products/montenegra-organic-cotton-baby-bodysuit-1?variant=56426487710071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/organic-cotton-baby-bodysuit-black-front-6950b5166437e.jpg?v=1766896931
+    Price: £40.00 GBP
+  - [6-12m](https://montenegra-london.com/products/montenegra-organic-cotton-baby-bodysuit-1?variant=56426487742839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/organic-cotton-baby-bodysuit-black-front-6950b5166437e.jpg?v=1766896931
+    Price: £40.00 GBP
+  - [12-18m](https://montenegra-london.com/products/montenegra-organic-cotton-baby-bodysuit-1?variant=56426487775607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/organic-cotton-baby-bodysuit-black-front-6950b5166437e.jpg?v=1766896931
+    Price: £40.00 GBP
+- [Montenégra Foam trucker hat](https://montenegra-london.com/products/montenegra-foam-trucker-hat): Stand out from the crowd with this trendy foam trucker hat! This head accessory is made with high-quality polyester and foam that guarantees a premium look and feel. The foam trucker hat has an adjustable snap that ensures a comfortable fit, and the mesh back provides great breathability. The matching color braid gives the hat an extra oomph. Style it with your favorite outfit any time of the day. • 100% polyester front • 100% polyester mesh back • Thicker and heavier fabric, laminated with high-density, non-toxic foam • Structured, 5-panel cap, high-profile • 8 rows of stitching on a pre-curved visor • Seamless foam front panel with lining • Matching fabric undervisor • Matching color braid and sweatband • Adjustable plastic snap • One size fits most • Blank product sourced from China or Myanmar Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide A (inches) B (inches) C (inches) D (inches) One size 24 - 26 6 3 8 ⅝ A (cm) B (cm) C (cm) D (cm) One size 61-66 15.2 7.6 21.8
+  Updated: 2025-12-28T16:58:53Z
+  Vendor: Montenégra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/foam-trucker-hat-black-one-size-front-6950b8faa9785.jpg?v=1766897930
+  Price: £50.00 GBP
+[List Continued](https://montenegra-london.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTI5OTE0NjE1NDM1OSwibGFzdF92YWx1ZSI6IjE1Mjk5MTQ2MTU0MzU5In0=)
 
 ## Collections
 
@@ -2028,14 +2528,14 @@
   Updated: 2025-11-21T17:58:13Z
   Total Products: 0
 - [Garments](https://montenegra-london.com/collections/general-clothes-example-products)
-  Updated: 2025-12-12T15:29:09Z
-  Total Products: 42
+  Updated: 2025-12-28T12:02:18Z
+  Total Products: 60
 - [Music.](https://montenegra-london.com/collections/music)
   Updated: 2025-12-12T12:56:24Z
   Total Products: 8
 - [Recommended products (Seguno)](https://montenegra-london.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-22T15:56:46Z
-  Total Products: 96
+  Updated: 2025-12-28T12:02:18Z
+  Total Products: 115
 
 ## Blogs
 
@@ -2082,6 +2582,22 @@
   - [Common Minimalism Challenges and Solutions Found in Montenégra](https://montenegra-london.com/blogs/news/common-minimalism-challenges-and-solutions-found-in-montenegra): Common Minimalism Challenges and Solutions Found in Montenégra
     Updated: 2025-12-24T08:00:26Z
     Author: Montenégra
+  - [The Ultimate Guide to Styling the Monténegra Santa Hat for Christmas](https://montenegra-london.com/blogs/news/the-ultimate-guide-to-styling-the-montenegra-santa-hat-for-christmas): The Ultimate Guide to Styling the Monténegra Santa Hat for Christmas
+    Updated: 2025-12-26T17:03:34Z
+    Author: Montenégra
+  - [Exploring the Style and Versatility of the First Edition Premium Black 5 Panel Cap](https://montenegra-london.com/blogs/news/exploring-the-style-and-versatility-of-the-first-edition-premium-black-5-panel-cap): Exploring the Style and Versatility of the First Edition Premium Black 5 Panel Cap
+    Updated: 2025-12-30T23:00:26Z
+    Author: Montenégra
+  - [A Beginner's Guide to Practicing Minimalism in Montenegra](https://montenegra-london.com/blogs/news/a-beginners-guide-to-practicing-minimalism-in-montenegra): A Beginner's Guide to Practicing Minimalism in Montenegra
+    Updated: 2025-12-31T08:00:27Z
+    Author: Montenégra
+  - [Unveiling the Charm of Monténegra Santa Hat for a Sophisticated Holiday Look](https://montenegra-london.com/blogs/news/unveiling-the-charm-of-montenegra-santa-hat-for-a-sophisticated-holiday-look): Unveiling the Charm of Monténegra Santa Hat for a Sophisticated Holiday Look
+    Updated: 2026-01-02T17:00:49Z
+    Author: Montenégra
+- [SEO News](https://montenegra-london.com/blogs/seo-news)
+  - [Cropped Hoodie Style Guide: How to Wear Trendy Hoodies for Any Look](https://montenegra-london.com/blogs/seo-news/cropped-hoodie-style-guide-how-to-wear-trendy-hoodies-for-any-look-1591-28): Cropped Hoodie Style Guide: How to Wear Trendy Hoodies for Any Look
+    Updated: 2026-01-03T04:37:59Z
+    Author: Tinuke Lawal
 
 ## Store Pages
 
