@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-04T04:00:36.345Z
+- Updated At: 2026-01-04T08:00:35.804Z
 
 ## Products
 
@@ -7983,7 +7983,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Almond Biscotti Signature Candle](https://affinatiliving.com/products/almond-biscotti-signature-candle): Warm, nutty, and inviting—Affinati Almond Biscotti Signature Candle blends toasted almond, sweet biscotti, and vanilla cream in a premium soy wax candle with up to 55 hours of burn time.
-  Updated: 2026-01-03T18:28:32Z
+  Updated: 2026-01-04T06:24:53Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7998,7 +7998,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Balsam & Fir Original Candle](https://affinatiliving.com/products/balsam-fir-original-candle): Balsam & Fir fills your home with fresh evergreen, crisp fir, and soft woods. A clean-burning, strongly scented soy-blend candle for calm, cozy spaces.
-  Updated: 2026-01-03T18:42:11Z
+  Updated: 2026-01-04T07:10:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -8013,7 +8013,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Balsam & Fir Signature Candle](https://affinatiliving.com/products/balsam-fir-signature-candle): Fill your space with fresh fir, balsam, and soft woods. This Balsam & Fir soy-blend candle offers a clean burn and a calm, forest-inspired scent.
-  Updated: 2026-01-04T01:13:17Z
+  Updated: 2026-01-04T06:44:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
