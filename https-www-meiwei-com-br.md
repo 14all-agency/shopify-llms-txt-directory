@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-04T01:40:16.413Z
+- Updated At: 2026-01-04T04:01:16.735Z
 
 ## Products
 
@@ -7852,7 +7852,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/rabanete-conserva-picante.jpg?v=1736880790
   Price: R$ 17,99 BRL
 - [Mostarda em conserva - Lulu 150g](https://www.meiwei.com.br/products/mostarda-em-conserva-lulu-150g): Possui um sabor original e único, refrescante e apetitoso. Pode ser consumido imediatamente, refogado ou transformado em sopa de diversas maneiras, podendo ser utilizado como ingrediente em peixes, camarões, carnes e outros pratos. INGREDIENTES: Mostarda, sal comestível, água, óleo vegetal comestível, açúcar, glutamato monossódico, sorbato de potássio, aspartame (contém fenilalanina). INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 285kJ 3% Carboidratos 9,4g 3% Proteínas 1,7g 3% Gorduras Totais 2,5g 4% Sódio 1800mg 92% Armazenar em local fresco e seco, longe da luz solar direta. Após aberto, manter refrigerado. Origem: China Contém 150g
-  Updated: 2025-12-29T23:44:34Z
+  Updated: 2026-01-04T03:18:18Z
   Vendor: Lulu
   Product Type: Conserva
   Availability: Available
@@ -8377,7 +8377,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vela-vermelha-adoracao.jpg?v=1738605093
   Price: R$ 99,99 BRL
 - [Ovos de pata em conserva (Century Egg) - Yasao 360g](https://www.meiwei.com.br/products/ovos-conservados-de-pata-yasao-360g): Ovos de pata em conserva (Century Egg) – Também conhecido como ovo de mil anos, esse clássico da culinária chinesa é feito por meio de um processo de conservação com argila, cinzas, sal e cal, que transforma a clara em um gel translúcido de cor âmbar e a gema em uma pasta cremosa de sabor profundo e levemente terroso. Pode ser servido em fatias com tofu frio, mingau de arroz (congee) ou em pratos frios. Uma iguaria exótica para os amantes da gastronomia tradicional chinesa! INGREDIENTES: Ovo de pata, sal, água, folhas de chá, carbonato de sódio. Origem: China Contém 360g (6 unidades)
-  Updated: 2025-12-31T01:06:10Z
+  Updated: 2026-01-04T02:16:14Z
   Vendor: Yasao
   Product Type: Condimento
   Availability: Available
@@ -14425,14 +14425,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/moela-de-pato-doce-e-picante-ducks-gizzard-jiang-shao-ya-zhen-48g.png?v=1767447424
   Price: R$ 49,99 BRL
 - [Moela de Pato Picante 136g - 玖久Y 香辣鸭胗](https://www.meiwei.com.br/products/moela-de-pato-picante-136g-y): A Moela de Pato Picante 玖久Y 香辣鸭胗 136g é um snack típico da culinária chinesa, preparado com moelas de pato cozidas e envolvidas em um molho vermelho brilhante, de sabor intenso e picante. A embalagem amarela destaca pedaços generosos de moela bem glaceados, sugerindo textura firme e mastigável, com muito umami. Produzido na China, é um petisco pronto para consumo, ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou servir como acompanhamento rápido de arroz branco e noodles. A porção de 136 g é prática para consumo individual reforçado ou para compartilhar em pequenas porções. Destaques do produto: Snack chinês de moela de pato picante. Textura firme e mastigável, com cobertura de molho brilhante. Peso líquido 136 g, embalagem tipo pouch com design chamativo em amarelo. Ótimo para petiscar com bebidas ou complementar refeições orientais. Produto de origem chinesa, com sabor marcante, aromático e picante. Lista de ingredientes Moela de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Moela de pato picante como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de moela de pato picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir a moela em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho.
-  Updated: 2026-01-03T15:09:22Z
+  Updated: 2026-01-04T02:56:17Z
   Vendor: Xianlugongshe 干锅鸭头
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-moela-de-pato-picante-jiu-jiu-xiang-la-ya-zhen-136g.png?v=1767452577
   Price: R$ 94,99 BRL
 - [Pescoço de Pato Doce e Picante Jiu Jiu 110g - Y 玖久Y 甜辣鸭脖](https://www.meiwei.com.br/products/pescoco-de-pato-doce-e-picante-jiu-jiu-110g-y-y): O Pescoço de Pato Doce e Picante Jiu Jiu Y 玖久Y 甜辣鸭脖 110g é um snack típico da culinária chinesa, preparado com pedaços de pescoço de pato cozidos e envolvidos em um molho vermelho brilhante que combina dulçor e picância. A embalagem roxa com faixa preta destaca porções generosas de pescoço de pato bem glaceadas, sugerindo textura firme, mastigável e cheia de umami. Produzido na China, é um petisco pronto para consumo, ideal para acompanhar bebidas, compor tábuas de petiscos orientais ou servir como acompanhamento rápido de arroz branco e noodles. A porção de 110 g é prática para consumo individual reforçado ou para compartilhar em pequenas porções. Lista de ingredientes Pescoço de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 105 kcal = 441 kJ 5% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 7 g 13% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% % Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Pescoço de pato doce e picante como petisco ou acompanhamento Snack direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como petisco de pescoço de pato doce e picante para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir os pedaços de pescoço de pato em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Acompanhamento de arroz ou noodles: aquecer rapidamente em frigideira ou no vapor e servir por cima de arroz branco, arroz frito ou macarrão oriental, misturando para envolver o molho. Instruções de armazenamento Manter a embalagem fechada em local fresco, seco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou transferir o conteúdo remanescente para recipiente limpo e bem fechado, sob refrigeração, consumindo preferencialmente em até 1–2 dias.
-  Updated: 2026-01-03T15:31:28Z
+  Updated: 2026-01-04T03:19:47Z
   Vendor: Jiu Jiu Y 玖久Y
   Product Type: Aperitivo
   Availability: Available
@@ -14789,7 +14789,7 @@
   Updated: 2026-01-04T01:33:08Z
   Total Products: 3061
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-04T01:33:08Z
+  Updated: 2026-01-04T03:05:41Z
   Total Products: 3696
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
   Updated: 2026-01-04T01:33:08Z
