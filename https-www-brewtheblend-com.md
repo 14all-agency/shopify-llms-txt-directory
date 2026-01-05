@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-01-03T00:00:35.638Z
+- Updated At: 2026-01-05T00:00:36.137Z
 
 ## Products
 
@@ -674,7 +674,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Western Pals Blend](https://www.brewtheblend.com/products/western-pals-blend): Meet your daily companion: Western Pals Blend is a medium roast that blends rustic charm with timeless flavor. Each cup of this 'Cowboy Blend' offers a bold and robust experience reminiscent of traditional campfire coffee.
-  Updated: 2026-01-02T18:06:46Z
+  Updated: 2026-01-03T17:56:25Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -866,7 +866,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Ethereal Rusa | Handcrafted Rose Soap Bar by Pure Ethereal](https://www.brewtheblend.com/products/ethereal-rusa): Ethereal Rusa – a handmade rose soap infused with coconut oil, shea, and rose petals. Gentle cleansing, radiant skin, and natural floral luxury. 🌹
-  Updated: 2025-11-27T15:55:27Z
+  Updated: 2026-01-04T03:04:02Z
   Vendor: Brew the Blend
   Product Type: Rose Soap
   Availability: Available
@@ -882,7 +882,7 @@
   - [3 Rusas *](https://www.brewtheblend.com/products/ethereal-rusa?variant=48235209130236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/RoseHandmadeSoap.png?v=1760393471
-    Price: $30.00 USD
+    Price: $28.00 USD
   - [4 Rusas *](https://www.brewtheblend.com/products/ethereal-rusa?variant=48235209163004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/RoseHandmadeSoap2.png?v=1760393471
