@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-05T04:01:08.843Z
+- Updated At: 2026-01-05T08:01:09.260Z
 
 ## Products
 
@@ -2581,7 +2581,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/f439fb6629c75bdfd0e70704dd2ef178.jpg?v=1692637132
   Price: R$ 685,00 BRL
 - [Licor Moutai 42% Jiang Zhi Lan 500ml](https://www.meiwei.com.br/products/licor-moutai-42-jiang-zhi-lan-500ml): INGREDIENTES: Água, trigo, cevada, sorgo, ervilhas ALÉRGICOS CONTÉM TRIGO E CEVADA Condições de armazenamento: local seco, ventilado, fresco Álcool 42% vol Origem: China Contém 500ml
-  Updated: 2025-12-06T15:37:03Z
+  Updated: 2026-01-05T06:32:58Z
   Vendor: Jiang Zhi Lan
   Product Type: Bebida Alcóolica
   Availability: Available
