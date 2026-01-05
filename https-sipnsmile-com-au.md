@@ -9,7 +9,7 @@
 - Created At: 2025-04-22T19:47:51Z
 - Contact Email: sales@sipnsmile.com.au
 - Contact Phone: 0425708369
-- Updated At: 2026-01-01T00:00:21.974Z
+- Updated At: 2026-01-05T00:00:23.158Z
 
 "Sip N Smile is your go-to destination for premium coffee and professional coffee equipment. From artisan beans to barista-quality machines, we help you brew the perfect cup every time. Visit us at sipnsmile.com.au for all your coffee needs!"
 
