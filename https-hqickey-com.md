@@ -8,47 +8,47 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2026-01-04T00:00:31.348Z
+- Updated At: 2026-01-05T00:00:31.732Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs Field Programmable Gate Array ICs - HQICKEY](https://hqickey.com/collections/fpgas-field-programmable-gate-array): Buy FPGAs (Field Programmable Gate Array) for high-speed data processing, real-time control & hardware customization. Telecom, industrial & embedded systems.
-  Updated: 2025-12-30T11:22:19Z
+  Updated: 2026-01-04T09:20:52Z
   Total Products: 23139
 - [Microcontrollers](https://hqickey.com/collections/microcontrollers): Microcontrollers (MCUs) vs Microprocessors: Integrated memory, mixed-signal peripherals & real-time control for embedded systems. Discover key differences, power-efficient designs & IoT/industrial applications.
-  Updated: 2025-12-14T08:11:15Z
+  Updated: 2026-01-04T13:05:08Z
   Total Products: 81575
 - [Microprocessors](https://hqickey.com/collections/microprocessors): Microprocessors vs Microcontrollers: Compare CPU-focused ICs with external memory needs, multi-tasking OS support & industrial applications. Discover high-performance computing hardware designs.
-  Updated: 2025-12-14T08:11:16Z
+  Updated: 2026-01-04T10:10:09Z
   Total Products: 5622
 - [System On Chip SoC Integrated Circuits for AI & Edge Computing - HQICKEY](https://hqickey.com/collections/system-on-chip-soc): High-performance System-on-Chip (SoC) solutions combining microprocessors, FPGA co-processors & graphics controllers for AI acceleration and edge computing applications.
-  Updated: 2026-01-02T04:31:44Z
+  Updated: 2026-01-04T09:12:17Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices)](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): CPLDs vs FPGAs: Non-volatile programmable logic devices with mid-density logic gates for industrial control. Discover on-chip configuration memory advantages, instant boot & low-power embedded systems.
-  Updated: 2025-12-14T08:11:18Z
+  Updated: 2026-01-04T09:31:09Z
   Total Products: 4001
 - [DSP (Digital Signal Processors)](https://hqickey.com/collections/dsp-digital-signal-processors): DSPs vs Microprocessors: Hardware-optimized for real-time signal processing with multiply-accumulate (MAC) units. Discover low-latency audio/video systems, telecom infrastructure & embedded control applications.
-  Updated: 2025-12-14T08:11:19Z
+  Updated: 2026-01-04T09:39:26Z
   Total Products: 3361
 - [Application Specific Microcontrollers](https://hqickey.com/collections/application-specific-microcontrollers): Application-Specific Microcontrollers: Integrated processors with on-chip memory & mixed-signal peripherals for automotive, IoT & industrial systems. Explore embedded security, BLDC control & custom hardware accelerators.
-  Updated: 2025-12-14T08:11:21Z
+  Updated: 2026-01-04T09:33:09Z
   Total Products: 1917
 - [Microcontrollers, Microprocessor, FPGA Modules](https://hqickey.com/collections/microcontrollers-microprocessor-fpga-modules-1): Modular Embedded Processors: Pre-integrated SoM solutions with MCU/FPGA/DSP cores, power management & memory. Accelerate IoT/robotics development without advanced hardware design expertise.
-  Updated: 2025-12-14T08:11:23Z
+  Updated: 2026-01-04T09:25:56Z
   Total Products: 1652
 - [PLDs (Programmable Logic Device)](https://hqickey.com/collections/plds-programmable-logic-device): Programmable Logic Devices (PLDs): Non-volatile configurable ICs with AND/OR logic for industrial automation. Simplify circuit design with on-chip memory & reduced component counts for rapid prototyping.
-  Updated: 2025-12-14T08:11:24Z
+  Updated: 2026-01-04T09:52:50Z
   Total Products: 1096
 - [Analog Switches - Special Purpose](https://hqickey.com/collections/analog-switches-special-purpose): Special Purpose Analog Switches: Application-specific ICs for precision signal routing in medical/industrial systems. Optimized for low distortion, high bandwidth & enhanced reliability vs general-purpose switches.
-  Updated: 2025-12-14T08:11:24Z
+  Updated: 2026-01-04T09:58:01Z
   Total Products: 1941
 - [Analog Switches, Multiplexers, Demultiplexers](https://hqickey.com/collections/analog-switches-multiplexers-demultiplexers): Solid-State Analog Switches: Low-noise ICs with electronic control for precision signal routing. Achieve longer lifespan vs electromechanical switches in industrial/medical systems, optimized for signal integrity.
-  Updated: 2025-12-14T08:11:26Z
+  Updated: 2026-01-04T10:11:15Z
   Total Products: 10927
 - [CODECS](https://hqickey.com/collections/codecs): CODECs: 32-bit resolution audio/data compression ICs with Sigma-Delta modulation & multi-interface support (I2S, USB, SPI). Optimized for pro audio systems, industrial ADAS & high-fidelity storage solutions.
-  Updated: 2025-12-14T08:11:28Z
+  Updated: 2026-01-04T09:41:27Z
   Total Products: 1450
 - [Controllers](https://hqickey.com/collections/controllers): Protocol Bridge ICs: Multi-interface converters for I2C/UART/SPI/USB/Ethernet. Enable industrial IoT & edge device connectivity with protocol translation and USB hub integration.
   Updated: 2025-12-14T08:11:29Z
@@ -180,13 +180,13 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:03Z
   Total Products: 1650
 - [FIFO Memory Devices: Sequential Data Storage, Buffering & Cross-Device Communication](https://hqickey.com/collections/fifos-memory): Learn how FIFO (First-In, First-Out) memory enables ordered data retrieval, synchronizes mismatched rates, and facilitates seamless communication between systems. Explore applications in buffering and queue management.
-  Updated: 2025-12-14T08:13:05Z
+  Updated: 2026-01-04T09:29:06Z
   Total Products: 2786
 - [Flip-Flop Circuits: Digital Memory Devices for Logic State Storage & Edge-Sensitive Timing](https://hqickey.com/collections/flip-flops): Explore flip-flop types (D, SR, JK) and their role in storing single-bit data, synchronizing clock signals, and enabling edge-sensitive logic functions. Learn how they differ from latches in digital systems.
-  Updated: 2025-12-14T08:13:08Z
+  Updated: 2026-01-04T09:43:23Z
   Total Products: 5446
 - [Logic Gates & Inverters: Basic Logic Operations & Real-Time Signal Processing](https://hqickey.com/collections/gates-and-inverters): Discover logic gates and inverters, which perform fundamental operations (AND, NOT, OR) instantly without data storage. Learn their role in real-time processing and why discrete gates remain relevant for simple logic tasks.
-  Updated: 2025-12-14T08:13:10Z
+  Updated: 2026-01-04T09:47:42Z
   Total Products: 13212
 - [Configurable Logic Gates: Flexible Multi-Function Operations & Customizable Circuit Design](https://hqickey.com/collections/gates-and-inverters-multi-function-configurable): Discover configurable logic gates that adapt beyond fixed functions (AND, NAND) through input selection and unused input management. Learn how their reconfigurable internal logic enables versatile solutions for dynamic digital circuit applications.
   Updated: 2025-12-14T08:13:12Z
@@ -201,7 +201,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:14Z
   Total Products: 152
 - [Shift Registers: Serial-Parallel Conversion, Data Bit Shifting & I/O Expansion Solutions](https://hqickey.com/collections/shift-registers): Explore how shift registers convert data between serial/parallel formats, shift digital bits, and enable I/O expansion. Learn their role in integrated systems and discrete applications using flip-flop arrays.
-  Updated: 2025-12-14T08:13:14Z
+  Updated: 2026-01-04T09:37:06Z
   Total Products: 1995
 - [Digital Signal Routing & Selection: Logic Switches, Multiplexers, and Encoder ICs Explained](https://hqickey.com/collections/signal-switches-multiplexers-decoders): Explore how logic signal switches, multiplexers, and encoder ICs route digital signals using binary states for precise data selection. Learn their role in preserving digital integrity vs. analog alternatives.
   Updated: 2025-12-14T08:13:16Z
@@ -216,28 +216,28 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:22Z
   Total Products: 429
 - [Configuration PROMs: FPGA Configuration Storage, Re-Writable Memory & Power-Down Retention](https://hqickey.com/collections/configuration-proms-for-fpgas): Learn how Configuration PROMs store FPGA settings during power-off, featuring electrically erasable memory for updates. Explore their role in system integrity beyond traditional read-only limitations.
-  Updated: 2025-12-14T08:13:22Z
+  Updated: 2026-01-04T08:52:21Z
   Total Products: 561
 - [Memory Controllers: USB-NAND Bridging & Volatile/Non-Volatile Conversion Solutions](https://hqickey.com/collections/controllers-1): Discover how memory controllers mediate microcontroller-storage interactions, enabling volatile/non-volatile conversion, USB-NAND bridging, and power management for reliable data systems.
-  Updated: 2025-12-14T08:13:22Z
+  Updated: 2026-01-04T09:18:00Z
   Total Products: 244
 - [Memory Semiconductor Devices: Non-Volatile & Volatile Storage Solutions (64b – 6Tb)](https://hqickey.com/collections/memory): Discover Memory Semiconductor Devices including Non-Volatile (EEPROM, Flash) and Volatile (DRAM, SRAM) types. Features 64b–6Tb storage with I2C, SPI, and Parallel interfaces for integrated circuit applications.
-  Updated: 2026-01-03T16:03:28Z
+  Updated: 2026-01-04T18:41:07Z
   Total Products: 54444
 - [Specialized Integrated Circuits (ICs): Application-Specific Solutions for Automation, Security & Multimedia](https://hqickey.com/collections/specialized-ics): Explore specialized ICs for addressable switches, authentication, audio/video control, clock generation, and more. Discover how these purpose-built chips enable precision in industrial, consumer, and embedded systems.
   Updated: 2026-01-02T06:05:33Z
   Total Products: 2630
 - [FPGA Technology Explained: Configurable Logic Blocks, ARM9 Cores & ASIC Comparisons](https://hqickey.com/collections/fpgas-field-programmable-gate-array-with-microcontrollers): Explore FPGA technology with configurable logic blocks (CLBs), programmable interconnects, and core types like 8-bit AVR and 32-bit ARM9. Learn how FPGAs differ from ASICs and their applications in digital circuits.
-  Updated: 2025-12-20T05:20:44Z
+  Updated: 2026-01-04T08:55:42Z
   Total Products: 61
 - [AC to DC Power Conversion Devices | Component-Level Control & Isolation Solutions](https://hqickey.com/collections/ac-dc-converters-offline-switchers): Design robust AC to DC power systems with component-level control devices. Supports high voltage ratios, isolation, and integration with stock/custom SMPS transformers for efficient, flexible applications.
   Updated: 2026-01-02T11:22:19Z
   Total Products: 4383
 - [Battery Charger PMICs | Multi-Cell & Chemistry Charge Management Solutions](https://hqickey.com/collections/battery-chargers): Optimize battery charging with PMICs for precision current/voltage regulation and monitoring. Supports diverse battery chemistries, multi-cell configurations, supercapacitors, and safe, integrated power management.
-  Updated: 2025-12-14T08:13:28Z
+  Updated: 2026-01-04T10:05:51Z
   Total Products: 3114
 - [Battery Management PMICs | Cell Balancing, Protection & Monitoring Solutions](https://hqickey.com/collections/battery-management): Enhance battery safety with Battery Management PMICs offering authentication, cell balancing, fuel gauging, and critical protections. Ensure reliable monitoring and control for multi-cell systems.
-  Updated: 2025-12-14T08:13:29Z
+  Updated: 2026-01-04T09:23:23Z
   Total Products: 4808
 - [Current Regulation & Management ICs | 100µA–50A Precision Control Solutions](https://hqickey.com/collections/current-regulation-management): Achieve precise current regulation with ICs offering limiting, monitoring, and electronic fuses. Adjustable 100µA–50A output ensures robust protection and stability for versatile applications.
   Updated: 2025-12-14T08:13:31Z
@@ -264,13 +264,13 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:13:40Z
   Total Products: 413
 - [LED Driver PMICs | High-Efficiency Dimming & Current Regulation Solutions](https://hqickey.com/collections/led-drivers): Achieve precise LED current regulation with high-efficiency LED Driver PMICs. Featuring dimming control, low feedback voltage, and external operating point adjustment for optimized lighting systems.
-  Updated: 2025-12-16T10:41:48Z
+  Updated: 2026-01-04T09:49:30Z
   Total Products: 6827
 - [Non-LED Lighting Control ICs | Fluorescent, HID & Electroluminescent Regulation](https://hqickey.com/collections/lighting-ballast-controllers): Optimize performance of fluorescent, HID, and electroluminescent lamps with Non-LED Lighting Control ICs. Featuring adaptable regulation and configurable power control for precise operation in diverse lighting applications.
   Updated: 2025-12-14T08:13:42Z
   Total Products: 377
 - [Motor Driver & Controller PMICs | Brushed to Stepper Motor Control Solutions](https://hqickey.com/collections/motor-drivers-controllers): Enable precise control of brushed and stepper motors with Motor Driver & Controller PMICs. From open-loop speed regulation to advanced closed-loop motion systems for electromechanical actuators.
-  Updated: 2025-12-17T08:44:05Z
+  Updated: 2026-01-04T10:04:30Z
   Total Products: 3752
 - [Ideal Diode & OR'ing Controllers | Low-Loss Reverse-Flow Protection Solutions](https://hqickey.com/collections/or-controllers-ideal-diodes): Implement efficient reverse-flow protection with Ideal Diode/OR'ing Controllers. Reduce conduction loss via FET control for redundant power systems and parallel-connected supplies.
   Updated: 2025-12-17T09:39:52Z
@@ -297,16 +297,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-22T04:42:47Z
   Total Products: 4151
 - [Advanced PMIC Supervisors for Voltage Rail Monitoring, Control & Microcontroller Integration](https://hqickey.com/collections/supervisors): Optimize circuit reliability with PMIC Supervisors—monitor & control voltage rails, manage power limits, and interface with microcontrollers. Solutions include Battery Backup, Watchdog Circuits, Multi-Voltage Monitoring, and more.
-  Updated: 2025-12-24T05:51:03Z
+  Updated: 2026-01-04T08:44:54Z
   Total Products: 39494
 - [Precision Thermal Management ICs for Extreme-Temperature Circuit Monitoring & Control](https://hqickey.com/collections/thermal-management): Achieve precise thermal regulation (-260°C to +1800°C) with Thermal Management ICs. Features Fan Control, Thermocouple Conditioning, PWM/SPI/I2C outputs, and Hardware Monitoring for industrial systems.
-  Updated: 2025-12-24T12:03:58Z
+  Updated: 2026-01-04T10:02:53Z
   Total Products: 452
 - [Precision Voltage-to-Frequency & Frequency-to-Voltage ICs for Automotive, Industrial & Signal Conversion](https://hqickey.com/collections/v-f-and-f-v-converters): Enable ratiometric signal conversion with Voltage-to-Frequency (VFC) and Frequency-to-Voltage (FVC) ICs. Ideal for automotive sensing, battery monitoring, tachometers, analog-to-digital systems, and industrial instrumentation.
   Updated: 2025-12-24T12:10:19Z
   Total Products: 127
 - [Integrated DC-DC Switching Regulator PMICs for Voltage Stabilization & High-Efficiency Conversion](https://hqickey.com/collections/voltage-regulators-dc-dc-switching-regulators): Discover DC-DC switching regulator PMICs with integrated switching elements for precise voltage stabilization, transformation, and compact power solutions. Ideal for industrial, automotive, and embedded systems.
-  Updated: 2025-12-26T08:38:44Z
+  Updated: 2026-01-04T09:35:26Z
   Total Products: 35024
 - [Hybrid DC-DC Voltage Regulators: Switch-Mode Efficiency & Linear Low-Noise Integration](https://hqickey.com/collections/voltage-regulators-linear-switching): Engineer efficient, low-noise DC-DC conversion with hybrid regulators combining switch-mode efficiency and linear precision. Ideal for industrial, automotive, and telecom systems.
   Updated: 2025-12-26T09:21:23Z
@@ -315,19 +315,19 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2025-12-14T08:14:04Z
   Total Products: 283
 - [Low-Noise Linear Voltage Regulators & LDOs for Stable Power in Noise-Sensitive Systems](https://hqickey.com/collections/voltage-regulators-linear-low-drop-out-ldo-regulators): Ensure stable, low-noise voltage output with linear regulators and LDOs—ideal for precision applications sensitive to EMI. Balance thermal efficiency and reliability in medical, telecom, and industrial designs.
-  Updated: 2026-01-02T06:07:12Z
+  Updated: 2026-01-04T10:00:37Z
   Total Products: 65607
 - [Voltage Reference](https://hqickey.com/collections/voltage-reference-1): Ensure stable, low-noise voltage references for critical measurement, control, and calibration applications. Ideal for industrial automation, test equipment, and sensor systems—designed for accuracy, not power regulation.
-  Updated: 2025-12-24T13:49:36Z
+  Updated: 2026-01-04T09:55:14Z
   Total Products: 8033
 - [Xilinx-XC7A](https://hqickey.com/collections/xilinx)
-  Updated: 2025-12-14T08:14:07Z
+  Updated: 2026-01-04T10:08:29Z
   Total Products: 242
 - [XILINX-XC7A35T](https://hqickey.com/collections/xilinx-xc7a35t)
   Updated: 2025-12-14T08:14:08Z
   Total Products: 37
 - [NXP Semiconductors - Automotive Industrial IoT 5G Solutions | HQICKEY](https://hqickey.com/collections/nxp-usa-inc): Premium NXP semiconductor components: automotive ADAS, industrial MCUs, NFC secure elements, 5G RF power. Full specs, traceability, long lifecycle support.
-  Updated: 2025-12-29T11:28:05Z
+  Updated: 2026-01-04T04:21:09Z
   Total Products: 21891
 - [Microchip Technology ICs - Atmel, Microsemi, Micrel Components | HQICKEY Authorized Distributor](https://hqickey.com/collections/microchip-technology): Authorized Microchip Technology distributor. Atmel MCUs, Microsemi FPGAs, Micrel power ICs, SMSC controllers, SST memory. RoHS compliant, full traceability, global shipping.
   Updated: 2026-01-02T06:07:12Z
