@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-05T04:00:35.574Z
+- Updated At: 2026-01-05T08:00:35.219Z
 
 ## Products
 
@@ -8058,7 +8058,7 @@
     Availability: Not Available
     Price: $72.95 USD
 - [3-Wick Love Spell Candle](https://affinatiliving.com/products/3-wick-love-spell-candle): A Love Spell–inspired 3-wick candle with juicy peach, soft florals, and creamy vanilla. Clean-burning soy wax with a strong, room-filling scent.
-  Updated: 2026-01-04T16:44:47Z
+  Updated: 2026-01-05T04:44:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
