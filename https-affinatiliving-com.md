@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-01-04T20:00:35.051Z
+- Updated At: 2026-01-05T00:00:53.026Z
 
 ## Products
 
@@ -2623,7 +2623,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Fresh Peaches Candle](https://affinatiliving.com/products/3-wick-fresh-peaches-candle): Fill your space with the sweet, juicy aroma of ripe peaches. This 3-wick Fresh Peaches candle offers a long-lasting, clean burn and vibrant summer scent.
-  Updated: 2025-12-30T21:05:17Z
+  Updated: 2026-01-04T23:47:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -10160,7 +10160,7 @@
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
-    Updated: 2025-09-09T02:15:06Z
+    Updated: 2026-01-04T23:47:25Z
     Author: Gerard Collins
   - [Affinati French Vanilla Shea Butter Lotion | Product Spotlight](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-french-vanilla-shea-butter-lotion-product-spotlight)
     Updated: 2025-10-11T01:04:40Z
@@ -10174,8 +10174,8 @@
   - [Honey Lavender Room Spray | Luxury Calming Fragrance for Every Room](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/honey-lavender-room-spray-luxury-calming-fragrance-for-every-room)
     Updated: 2025-09-11T00:55:05Z
     Author: Gerard Collins
-  - [French Vanilla Candle | Affinati Luxury 3-Wick Spotlight](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/french-vanilla-candle-2025-affinati-luxury-3-wick-spotlight): French Vanilla Candle | Affinati Luxury 3-Wick Spotlight
-    Updated: 2025-09-11T14:43:35Z
+  - [French Vanilla Candle | Affinati Luxury 3-Wick Spotlight](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/french-vanilla-candle-2025-affinati-luxury-3-wick-spotlight)
+    Updated: 2026-01-04T23:42:52Z
     Author: Gerard Collins
   - [Midnight Ember Face Cream | Affordable Luxury Skincare by Affinati](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/midnight-ember-face-cream-affordable-luxury-skincare-by-affinati)
     Updated: 2025-09-07T22:33:02Z
@@ -10189,17 +10189,17 @@
   - [Mahogany Teakwood 3-Wick Candle | Bold Luxury Aroma](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/mahogany-teakwood-3-wick-candle-bold-luxury-aroma)
     Updated: 2025-09-12T16:45:04Z
     Author: Gerard Collins
-  - [Lemon Meringue 3-Wick Candle | Bakery-Inspired Citrus Candle 2025](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/lemon-meringue-3-wick-candle-bakery-inspired-citrus-candle)
-    Updated: 2025-09-16T01:25:06Z
+  - [Lemon Meringue 3-Wick Candle | Bakery-Inspired Citrus Candle](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/lemon-meringue-3-wick-candle-bakery-inspired-citrus-candle)
+    Updated: 2026-01-04T23:40:35Z
     Author: Gerard Collins
   - [Banana Nut Bread Candles – Bakery Comfort in a Jar](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/banana-nut-bread-candles-bakery-comfort-in-a-jar)
-    Updated: 2025-09-14T11:59:26Z
+    Updated: 2026-01-04T23:39:34Z
     Author: Gerard Collins
   - [Cocoa Butter Cashmere Body Lotion – Luxury Hydration & Lasting Fragrance](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/cocoa-butter-cashmere-body-lotion-luxury-hydration-lasting-fragrance)
     Updated: 2025-10-11T01:03:22Z
     Author: Gerard Collins
   - [Cherry Noir 3-Wick Candle – Luxurious Fruity Elegance | Affinati](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/cherry-noir-3-wick-candle-luxurious-fruity-elegance-affinati)
-    Updated: 2025-09-19T14:38:58Z
+    Updated: 2026-01-04T23:41:13Z
     Author: Gerard Collins
   - [Smoked Vanilla 3-Wick Candle | Best Soy Wax Luxury Candle 2025](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/smoked-vanilla-3-wick-candle-best-soy-wax-luxury-candle)
     Updated: 2025-11-02T14:06:22Z
@@ -10217,13 +10217,13 @@
     Updated: 2025-10-02T00:43:09Z
     Author: Gerard Collins
   - [Black Cherry Merlot 3-Wick Candle | Luxury Soy Wax Candle – Affinati](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/black-cherry-merlot-3-wick-candle-luxury-soy-wax-candle-affinati)
-    Updated: 2025-11-02T13:54:54Z
+    Updated: 2026-01-04T23:43:52Z
     Author: Gerard Collins
   - [Cherry Noir 3-Wick Candle | Luxury Soy Wax Fruity Candle – Affinati](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/cherry-noir-3-wick-candle-luxury-soy-wax-fruity-candle-affinati)
     Updated: 2025-11-02T13:55:20Z
     Author: Gerard Collins
   - [Toasted Pumpkin Cream 3-Wick Candle | Luxury Fall Soy Candle – Affinati](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/toasted-pumpkin-cream-3-wick-candle-luxury-fall-soy-candle-affinati)
-    Updated: 2025-10-02T00:44:48Z
+    Updated: 2026-01-04T23:39:02Z
     Author: Gerard Collins
   - [Peppermint Swirl Candle Spotlight | Best Peppermint Candle for Holidays & Home](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/peppermint-swirl-candle-spotlight-best-peppermint-candle-for-holidays-home)
     Updated: 2025-12-30T20:24:07Z
