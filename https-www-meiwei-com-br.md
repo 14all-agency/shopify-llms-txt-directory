@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-05T00:01:26.424Z
+- Updated At: 2026-01-05T04:01:08.843Z
 
 ## Products
 
@@ -7628,7 +7628,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarino-yunhatu.jpg?v=1735931123
   Price: R$ 69,99 BRL
 - [Maçarico/acendedor portátil a gás - Master Torch](https://www.meiwei.com.br/products/macarico-acendedor-portatil-a-gas-master-torch): Perfeito para quem busca versatilidade e precisão na cozinha, este maçarico portátil a gás é ideal para caramelizar, tostar, selar carnes e finalizar sobremesas como o crème brûlée. Compacto e fácil de usar, permite um controle preciso da chama, garantindo resultados profissionais. Pode ser utilizado também para outras finalidades como acender churrasqueiras e fogueiras, tornando-se uma ferramenta prática e indispensável em sua cozinha ou ao ar livre. CUIDADO: partes acessíveis podem estar muito quentes. Mantenha crianças pequenas longe do aparelho. Tenha cuidado com o fenômeno de alargamento que pode ocorrer durante o período de aquecimento de dois minutos e no qual o aparelho não deve estar em ângulos maiores que 15 graus da posição vertical e ereta. O aparelho pode ser usado em qualquer ângulo sem alargamento após 2 minutos do período de aquecimento. IDEAL PARA: Cozinhar e servir Flambar, caramelizar, dourar, adicionar cor e textura aos alimentos, formar bolhas e pele, finalizar os alimentos para apresentação e adicionar drama ao servir. Acender churrascos e fogueiras. Descongelar e descongelar canos de água congelados. ESPECIFICAÇÕES: Nome: Tocha Mestre Modelo: NO.:516C Tamanho: 205x40x73mm Calibre do bico: 22mm Potência máxima de fogo: 1300 °C Consumo de gás: 150g/h Tipo de gás: Butano Categoria do aparelho: Pressão de vapor-butano Método de ignição: ignição piezoelétrica automática GÁS NÃO INCLUSO Origem: China
-  Updated: 2025-12-06T15:39:55Z
+  Updated: 2026-01-05T02:04:53Z
   Vendor: Master Torch
   Product Type: Utensílio
   Availability: Available
@@ -8951,7 +8951,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/leite-taro.jpg?v=1742909138
   Price: R$ 18,00 BRL
 - [Flor Osmanthus desidratado - D.M.D Bridge 60g](https://www.meiwei.com.br/products/flor-osmanthus-desidratado-d-m-d-bridge-60g): A osmanthus desidratada é uma flor aromática amplamente usada na culinária asiática, especialmente em chás, sobremesas e infusões. Seu sabor levemente adocicado e floral adiciona um toque delicado a bebidas e pratos, podendo ser combinada com chá verde, chá preto ou até mesmo utilizada no preparo de geleias e doces. Além do aroma encantador, é conhecida por suas propriedades antioxidantes e digestivas, tornando-se uma escolha sofisticada e benéfica para o dia a dia. INGREDIENTES: Osmanthus, sulfitos. Armazenar em local seco e fresco. Origem: China Contém 60g
-  Updated: 2025-12-06T15:41:06Z
+  Updated: 2026-01-05T01:42:16Z
   Vendor: D.M.D Bridge Brand
   Product Type: Chá
   Availability: Available
@@ -10071,7 +10071,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cubos-carne-pimenta.jpg?v=1748537020
   Price: R$ 19,99 BRL
 - [Cubos de carne bovina sabor satay - Dabaishi 52g](https://www.meiwei.com.br/products/cubos-de-carne-bovina-sabor-satay-dabaishi-52g): Este é um petisco chinês de carne bovina cortada em cubos pequenos, com sabor satay, um tempero típico do sudeste asiático que combina amendoim, especiarias e um toque levemente adocicado. Os cubos são embalados individualmente, ideais como lanche salgado ou acompanhamento. INGREDIENTES: Carne moída, proteína de soja em pó, açúcar branco, maltose, óleo de cozinha (óleo vegetal comestível, banha), especiarias, glutamato monossódico, tempero para frango, sal comestível, aditivos alimentares (sabores e especiarias comestíveis, diacetato de sódio, desidroacetato de sódio, arroz vermelho fermentado, páprica vermelha). Modo de consumo: Abra o sachê e retire a membrana antes de consumir. Armazenar em local fresco e arejado. Evite luz solar direta e altas temperaturas. Validade: 12 meses Origem: China Contém 52g
-  Updated: 2025-12-06T15:41:51Z
+  Updated: 2026-01-05T02:00:25Z
   Vendor: Dabaishi
   Product Type: Aperitivo
   Availability: Available
@@ -14495,14 +14495,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lingua-de-pato-doce-e-picante-jiu-jiu-ya-_-70g.png?v=1767527151
   Price: R$ 118,99 BRL
 - [Língua de Pato ao Molho de Soja Bibizan 32g - 鸭舌酱香味](https://www.meiwei.com.br/products/lingua-de-pato-ao-molho-de-soja-bibizan-32g): Descubra o autêntico sabor oriental com a Língua de Pato ao Molho de Soja Bibizan (鸭舌酱香味). Importada da China, essa iguaria é perfeita para quem busca experiências gastronômicas diferenciadas, combinando tradição e qualidade. Ideal como petisco, acompanhamento ou ingrediente em receitas criativas. Lista de ingredientes Língua de pato, água, molho de soja (soja, trigo, sal), açúcar, sal, especiarias (anis estrelado, pimenta, gengibre, alho), realçador de sabor (glutamato monossódico), conservantes (E202, E211). Tabela nutricional (porção de 32g) Informação Nutricional Porção de 32g %VD* Valor energético 100 kcal 5% Carboidratos 2,0 g 1% Proteínas 7,0 g 9% Gorduras totais 6,0 g 11% Gorduras saturadas 2,0 g 9% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 500 mg 21% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Salada Oriental com Língua de Pato Ingredientes: 1 embalagem de Língua de Pato ao Molho de Soja Bibizan (32g) 1 pepino japonês em tiras finas 1 cenoura ralada Folhas de coentro a gosto 1 colher (sopa) de óleo de gergelim 1 colher (sopa) de molho de soja Gergelim torrado para finalizar Modo de preparo: Corte a língua de pato em tiras. Misture com o pepino, cenoura e coentro. Tempere com óleo de gergelim e molho de soja. Finalize com gergelim torrado e sirva como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
-  Updated: 2026-01-04T14:11:51Z
+  Updated: 2026-01-05T02:06:15Z
   Vendor: Jiu Jiu Ya 久久丫
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-duck-tongue-soy-flavor-bibizan-ya-she-jiang-xiang-wei.png?v=1767535378
   Price: R$ 74,99 BRL
 - [Stinky Tofu Picante Aroma Marcante Lao Changsha 88g - 老长沙臭豆腐 香辣味](https://www.meiwei.com.br/products/stinky-tofu-picante-aroma-marcante-lao-changsha-88g): Experimente o autêntico Stinky Tofu Picante Lao Changsha (老长沙臭豆腐 香辣味), um clássico da culinária de rua chinesa agora disponível para você! Este tofu fermentado, famoso pelo aroma marcante e sabor intenso, é preparado com especiarias selecionadas e pimenta, proporcionando uma experiência única para quem aprecia sabores exóticos e tradicionais. Ideal para petiscar, servir como entrada ou incrementar receitas orientais. Lista de ingredientes Tofu (soja, água, coagulante), óleo vegetal, molho de soja (soja, trigo, sal), açúcar, sal, pimenta, especiarias, realçador de sabor (glutamato monossódico), conservantes (E202, E211). Tabela nutricional (porção de 88g) Informação Nutricional Porção de 88g %VD* Valor energético 188 kcal 9% Carboidratos 7,6 g 3% Proteínas 8,8 g 12% Gorduras totais 13,2 g 24% Gorduras saturadas 2,2 g 10% Gorduras trans 0 g -- Fibra alimentar 0,8 g 3% Sódio 1.588 mg 66% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Stinky Tofu Picante com Legumes Salteados Ingredientes: 1 embalagem de Stinky Tofu Picante Lao Changsha (88g) 1 cenoura em tiras finas 1 pimentão vermelho em tiras 1 cebola roxa em fatias 1 colher (sopa) de óleo de gergelim Cebolinha picada a gosto Modo de preparo: Corte o stinky tofu em cubos. Em uma frigideira, aqueça o óleo de gergelim e refogue a cebola, cenoura e pimentão até ficarem macios. Adicione o stinky tofu e salteie por 2-3 minutos. Finalize com cebolinha picada e sirva como acompanhamento ou prato principal. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
-  Updated: 2026-01-04T14:27:21Z
+  Updated: 2026-01-05T02:20:48Z
   Vendor: Lao Changsha
   Product Type: Aperitivo
   Availability: Available
