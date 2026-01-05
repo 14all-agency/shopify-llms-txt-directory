@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-05T08:00:38.786Z
+- Updated At: 2026-01-05T12:00:39.369Z
 
 ## Products
 
@@ -2095,7 +2095,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/gvnmnt-clothing-co-caps-gvnmnt-clothing-co-g-way-cap-l-cream-red-1183716211.png?v=1757192285
   Price: £34.95 GBP
 - [GVNMNT Clothing Co Old English Beanie l Black & Red](https://thevinessupply.co/products/gvnmnt-clothing-co-old-english-beanie-l-black-red): Buy the GVNMNT Clothing Co Old English Beanie in Black & Red at The Vines, featuring a stitched old english logo
-  Updated: 2025-10-16T12:12:31Z
+  Updated: 2026-01-05T11:17:31Z
   Vendor: GVNMNT Clothing Co
   Product Type: Beanies
   Availability: Available
