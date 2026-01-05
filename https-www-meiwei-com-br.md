@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-05T08:01:09.260Z
+- Updated At: 2026-01-05T12:01:06.438Z
 
 ## Products
 
@@ -3834,7 +3834,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cordyceps-500g_1.jpg?v=1710871262
   Price: R$ 299,99 BRL
 - [Amolador De Faca Japones Importado (knife Sharpener) Echo](https://www.meiwei.com.br/products/amolador-de-faca-japones-importado-knife-sharpener-echo): Amolador de Faca (Knife Sharpener) Echo Kinzoku Fácil e prático de manuear, não é escorregadio. Feito de plástico Origem: China
-  Updated: 2025-12-06T15:37:45Z
+  Updated: 2026-01-05T10:50:52Z
   Vendor: Echo Kinzoku
   Product Type: Utensílio
   Availability: Available
@@ -5409,7 +5409,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-frutas-tropicais.jpg?v=1724865448
   Price: R$ 24,99 BRL
 - [Chá preto com limão - Chin Chin 530ml](https://www.meiwei.com.br/products/cha-preto-c-limao-chin-chin-530ml): O Chá Preto com Limão é uma bebida clássica e revigorante, que combina a intensidade do chá preto com a acidez refrescante do limão. Ideal para os dias quentes, ele proporciona uma explosão de sabor que é ao mesmo tempo energizante e refrescante, perfeito para acompanhar refeições ou para ser desfrutado como uma bebida refrescante ao longo do dia. INGREDIENTES: Água, cana de açúcar, extrato de chá preto, regulador de acidez - ácido cítrico (INS330), citrato monossódico (INS331), chá preto em só, sabor. NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 200ml Valor Calórico 72kcal 4% Carboidratos totais 18g 6% Açúcares totais 17,1g Açúcares adicionados 17,1g 35% Proteínas 0g 0% Gorduras totais 0g 0% Sódio 0mg 0% Manter em local seco e arejado. Após aberto, conservar refrigerado. Origem: Taiwan Contem 530ml
-  Updated: 2025-12-06T15:38:37Z
+  Updated: 2026-01-05T08:09:30Z
   Vendor: Chin Chin
   Product Type: Bebida
   Availability: Available
@@ -14512,7 +14512,7 @@
 ## Collections
 
 - [Molho de Pimenta](https://www.meiwei.com.br/collections/molho-de-pimenta)
-  Updated: 2026-01-04T12:03:30Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 115
 - [Produtos Vegetarianos](https://www.meiwei.com.br/collections/produtos-vegetarianos)
   Updated: 2025-12-23T17:56:31Z
@@ -14542,10 +14542,10 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-04T14:27:20Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 1522
 - [Molho](https://www.meiwei.com.br/collections/molho)
-  Updated: 2026-01-04T12:03:30Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 544
 - [Molho de Ostra](https://www.meiwei.com.br/collections/molho-de-ostra)
   Updated: 2026-01-04T12:03:30Z
@@ -14683,7 +14683,7 @@
   Updated: 2026-01-04T12:03:30Z
   Total Products: 40
 - [Yakissoba](https://www.meiwei.com.br/collections/yakissoba)
-  Updated: 2026-01-04T12:03:30Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 200
 - [Lamen](https://www.meiwei.com.br/collections/lamen)
   Updated: 2026-01-04T12:03:30Z
@@ -14785,7 +14785,7 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-04T14:27:20Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 2245
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
@@ -14815,19 +14815,19 @@
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-04T14:27:20Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 3701
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
   Updated: 2026-01-04T14:06:39Z
   Total Products: 638
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-04T14:27:20Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 3065
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-04T14:27:20Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 3701
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-01-04T14:27:20Z
+  Updated: 2026-01-05T12:00:59Z
   Total Products: 2068
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
   Updated: 2026-01-04T12:03:30Z
