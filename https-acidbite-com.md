@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2026-01-03T01:23:39.629Z
+- Updated At: 2026-01-05T00:00:35.029Z
 
 ## Products
 
@@ -351,40 +351,40 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
-  Updated: 2025-12-29T12:07:15Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2025-12-30T12:08:25Z
+  Updated: 2026-01-03T12:08:10Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-03T12:08:10Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
   Updated: 2025-12-13T12:10:28Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2026-01-02T12:07:05Z
+  Updated: 2026-01-04T12:07:39Z
   Total Products: 114
 
 ## Policies
