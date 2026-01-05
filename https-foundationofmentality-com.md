@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2026-01-03T00:00:27.370Z
+- Updated At: 2026-01-05T00:00:31.337Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -63,7 +63,7 @@ Motivational content is intentionally avoided.
 ## Collections
 
 - [Elite Athlete Mentality](https://foundationofmentality.com/collections/elite-athlete-mentality)
-  Updated: 2026-01-02T12:23:06Z
+  Updated: 2026-01-04T12:26:10Z
   Total Products: 4
 
 ## Blogs
@@ -84,6 +84,9 @@ Motivational content is intentionally avoided.
   - [Mental Training Under Pressure and Athlete Limitations](https://foundationofmentality.com/blogs/blog-posts/mental-training-under-pressure-and-athlete-limitations): Mental Training Under Pressure and Athlete Limitations
     Updated: 2025-12-31T00:32:47Z
     Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
+  - [Structured Confidence Underpins Athlete Mentality](https://foundationofmentality.com/blogs/blog-posts/structured-confidence-underpins-athlete-mentality): Structured Confidence Underpins Athlete Mentality
+    Updated: 2026-01-03T00:07:01Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
 
 ## Store Pages
 
