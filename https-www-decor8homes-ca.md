@@ -6,12 +6,12 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-01-04T00:00:30.228Z
+- Updated At: 2026-01-05T00:00:29.192Z
 
 ## Products
 
 - [Dance Figurines Couple Sculpture Couple Dancing Abstract Statue w/Smooth Finish & Rectangular Base for Desktop Bedroom Ballroom Dancers Ballet Lovers Resin Ornament](https://www.decor8homes.ca/products/elegant-abstract-black-sculpture-modern-art-piece-for-home-decor): The Lovers’ EmbraceA timeless symbol of connection and grace, the Eternal Embrace Sculpture captures the elegant motion of two souls intertwined in harmony. Crafted with a matte black finish and accented in silver, this abstract art piece adds modern sophistication to any space — from a chic living room to an upscale office. Its fluid lines and minimalist form evoke love, unity, and the beauty of togetherness. Key Features:• Elegant abstract sculpture• Fluid, minimalist design• Matte black with silver accents• Symbolizes love and unity Care & Maintenance:• Wipe with soft dry cloth; avoid harsh chemicals or water.
-  Updated: 2025-12-22T17:14:42Z
+  Updated: 2026-01-04T20:20:45Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
