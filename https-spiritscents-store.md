@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2022-07-25T06:11:29Z
-- Updated At: 2026-01-03T04:05:48.202Z
+- Updated At: 2026-01-05T00:00:22.472Z
 
 ## Products
 
