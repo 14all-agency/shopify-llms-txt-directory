@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-01-03T00:16:02.209Z
+- Updated At: 2026-01-05T00:00:23.572Z
 
 ## Products
 
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/glucose-D.png?v=1758922791
   Price: $11.99 USD
 - [Hollandia Yoghurt - Plain, Strawberry, and Vanilla Yogurt Flavors](https://nexxtmart.com/products/hollandia-yoghurt): Buy Hollandia Yoghurt available in Plain, Strawberry, and Vanilla Yogurt Flavors – Creamy, Refreshing and Nutritious Drink. Delivers a rich, smooth taste with every sip
-  Updated: 2025-12-20T16:46:57Z
+  Updated: 2026-01-03T01:51:16Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -1140,7 +1140,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Fish Seasoning – Natural Exotic Spice Blend for Fish Dishes](https://nexxtmart.com/products/fish-seasoning): Buy Fish Seasoning – 100% natural spice blend that elevates fish dishes with bold, unforgettable flavor. No additives, salt, sugar, or MSG.
-  Updated: 2026-01-02T17:07:37Z
+  Updated: 2026-01-03T05:07:45Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1619,7 +1619,7 @@
     Availability: Available
     Price: $90.00 USD
 - [Complan Milk – Complete Meal in a Drink 450g | Full Nutrition Boost](https://nexxtmart.com/products/complan-milk-complete-meal-drink-450g): Complan Milk provides a complete meal in a drink with protein, vitamins, and minerals. Enjoy balanced nutrition, energy support, and daily vitality in every serving.
-  Updated: 2025-12-18T13:52:26Z
+  Updated: 2026-01-04T18:51:06Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1640,7 +1640,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nigerian_white_beans_quality_whole_grains.png?v=1764014614
   Price: $26.00 USD
 - [Bay Leaf - Dried natural aromatic spice for african foods](https://nexxtmart.com/products/bay-leaf-dried-natural-aromatic-spice): Bay Leaf delivers rich aroma and flavor for soups, stews, sauces, and rice dishes. African dried leaves, gluten-free, vegan, and 100% natural. Essential for everyday cooking.
-  Updated: 2025-11-24T20:30:17Z
+  Updated: 2026-01-04T18:47:02Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1677,7 +1677,7 @@
     Availability: Available
     Price: $75.89 USD
 - [Hibiscus Flowers – Sweet Sahel - Sun-Dried Zobo Leaves - Nexxtmart](https://nexxtmart.com/products/hibiscus-flowers-dried-zobo-leaves): Hibiscus Flowers 250g: Premium sun-dried Nigerian Zobo Leaves, rich in antioxidants and caffeine-free. Ideal for hot tea, cold brew, Agua de Jamaica, and refreshing herbal drinks.
-  Updated: 2025-12-21T21:10:46Z
+  Updated: 2026-01-04T18:45:57Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1696,16 +1696,16 @@
 ## Collections
 
 - [Food Stuffs - Nexxtmart](https://nexxtmart.com/collections/food-stuffs): Stock up on high-quality foodstuffs at Nexxtmart! From pantry staples like rice, pasta, and flour to  - Nexxtmart
-  Updated: 2025-12-29T12:12:43Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 74
 - [New Arrivals - Nexxtmart](https://nexxtmart.com/collections/new-arrivals): Stay ahead with Nexxtmart’s New Arrivals! Discover the latest and freshest products, from pantry  - Nexxtmart
   Updated: 2025-12-31T12:11:50Z
   Total Products: 30
 - [Featured Items - Nexxtmart](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2025-12-31T22:31:29Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 150
 - [Best Sellers - Nexxtmart](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
-  Updated: 2025-12-29T12:12:43Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 56
 - [cooking oil - Nexxtmart](https://nexxtmart.com/collections/cooking-oil): Discover high-quality cooking oils at Nexxtmart. From healthy vegetable oils to rich palm and  - Nexxtmart
   Updated: 2025-09-26T23:00:35Z
@@ -1714,10 +1714,10 @@
   Updated: 2025-09-28T22:14:15Z
   Total Products: 4
 - [Spices - Nexxtmart](https://nexxtmart.com/collections/spices): Discover Nexxtmart Spices for Every Kitchen Spices are the heart of every dish, adding depth, aroma,  - Nexxtmart
-  Updated: 2025-12-29T12:12:43Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 45
 - [Drinks - Nexxtmart](https://nexxtmart.com/collections/drinks): Refreshing Drinks for Every Occasion Drinks bring people together, whether it’s a chilled soda on a  - Nexxtmart
-  Updated: 2025-11-24T21:05:41Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 17
 - [Condiments - Nexxtmart](https://nexxtmart.com/collections/condiments): Elevate your cooking with Nexxtmart’s premium selection of condiments. From rich sauces and  - Nexxtmart
   Updated: 2025-11-24T20:43:39Z
@@ -1729,10 +1729,10 @@
   Updated: 2025-11-24T21:05:41Z
   Total Products: 6
 - [Grains & Legumes - Nexxtmart](https://nexxtmart.com/collections/grains-legumes): - Nexxtmart
-  Updated: 2025-11-24T21:05:41Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 10
 - [Best Selling Products, Buy Quality and Tasty African food items.](https://nexxtmart.com/collections/best-selling-products): Discover the best selling products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
-  Updated: 2025-12-31T22:31:29Z
+  Updated: 2026-01-03T12:12:40Z
   Total Products: 152
 - [Digital Goods VAT Tax - Nexxtmart](https://nexxtmart.com/collections/digital-goods-vat-tax): - Nexxtmart
   Updated: 2025-09-26T22:02:18Z
