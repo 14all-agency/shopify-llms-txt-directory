@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-04T20:01:07.654Z
+- Updated At: 2026-01-05T00:01:26.424Z
 
 ## Products
 
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Capturadetela2022-09-21114031_58fb7f10-9be4-4794-b53f-d4b2d4ef9772.png?v=1763645588
   Price: R$ 179,99 BRL
 - [Molho de ostra（海天上等蚝油）- Haday 520g](https://www.meiwei.com.br/products/molho-de-ostra-chines-haday-520g): Molho de ostra preparado com base de extrato de ostra natural. Tem sabor agradável e aroma de ostra, cor caramelo e consistência espessa, dá ao alimento um sabor salgado. Pode ser utilizado combinado com pratos de carnes e legumes. Excelente aditivo para arroz, macarrão, sopas, dim-sans (bolinhos) e tofu. O molho de ostra, assim como o molho de soja, muitas vezes é utilizado como um substituto para o sal no preparo de receitas. INGREDIENTES: Água, extrato de ostras, açúcar, sal, glutamato monossódico, caramelo, trigo, nucleotideo dissódico, goma xantana, ácido cítrico, sorbato de potássio. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM TRIGO E DERIVADOS DE OSTRA NÃO CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 15g (1 Colher de chá) Quantidade por porção %VD Valor Energético 11 Kcal 46KJ 1% Carboidratos 2,2g 1% Carboidratos 0,5g 1% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g 0% Fibras 0mg 0% Sódio 655mg 27% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.%VD não estabelecido. Manter em local seco e fresco. Origem: China Contém 520g
-  Updated: 2025-12-29T20:16:56Z
+  Updated: 2026-01-04T22:09:17Z
   Vendor: Haday
   Product Type: Molho de Ostra
   Availability: Available
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/NOODLESABORLAGOSTAZHONGSHAN400G.jpg?v=1665671591
   Price: R$ 24,09 BRL
 - [Molho de soja escuro (Dark Soy Sauce) - Haday 1.9L](https://www.meiwei.com.br/products/haday-soy-sauce-dark-soy-sauce-foshanshi-1-9-litros): Molho de soja concentrado, para uso geral. Utilizado principalmente para adicionar cor e sabor aos pratos. É mais rico, ligeiramente mais espesso e menos salgado do que outros tipos de molho de soja. O molho de soja escuro é frequentemente usado em ensopados, molhos e marinadas. Contém intensificadores de sabor e conservantes. INGREDIENTES: Água, soja não transgênica, sal, trigo, farinha de trigo, glutamato de sódio (INS 621), corante caramelo (INS 150a), nucleotídeo dissódico 5, inosinato dissódico 5 (INS 631), benzoato de sódio (INS 211). NÃO CONTÉM GLÚTEN ALÉRGICOS: CONTÉM DERIVADO DE TRIGO E SOJA. INFORMAÇÃO NUTRICIONAL Porção 15 ml (1 colher de sopa) Quantidade por Porção %VD(*) Valor Energético 23 Kcal - 97 Kj 1% Proteínas 1g 1% Sódio 1273mg 53% Valores Diários com base em uma dieta de 2000 Kcal ou 8400 Kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Não contém quantidade significativa de carboidratos, gorduras totais, gorduras saturadas e gorduras trans, fibra alimentar. Armazenar em temperatura ambiente. Após aberto, manter sob refrigeração. Origem: China Contém 1,9L
-  Updated: 2025-12-11T10:32:12Z
+  Updated: 2026-01-04T22:34:51Z
   Vendor: Haday
   Product Type: Molho de Soja
   Availability: Available
@@ -1202,7 +1202,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pegador-salada.jpg?v=1695748659
   Price: R$ 32,90 BRL
 - [Pimenta Chilli Crispy - Lao Gan Ma 210g](https://www.meiwei.com.br/products/pimenta-lao-gan-ma-chilli-crispy-210g): Transforme suas refeições em um espetáculo de sabores com a Pimenta Lao Gan Ma Chilli Crispy. Uma explosão crocante de picância que vai conquistar seu paladar. Torne seus pratos extraordinários, adicionando a magia do crocante e o calor irresistível desta pimenta única. Adquira a Pimenta Lao Gan Ma Chilli Crispy agora e descubra como elevar sua culinária a um novo patamar. Seja ousado e faça da sua cozinha um palco para experiências memoráveis. Não perca tempo, garanta o seu toque de ousadia e crocância hoje mesmo! Pimenta Chilli Crispy, é utilizado como molho para bolinhos, ou como base de molho para macarrão, arroz ou verduras fritas. Utilizado também para mergulhar petiscos e frituras. INGREDIENTES: Óleo de soja, pimenta, cebola, amendoim, glutamato monossódico, pó de cinza espinhosa, açúcar, sal, dióxido de enxofre, sulfito de sódio. NÃO CONTÉM GLÚTEN CONTÉM DERIVADOS DE TRIGO, SOJA E AMENDOIM NÃO CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 60g Quantidade por Porção %VD(*) Valor Energético 422 Kcal Carboidratos 6 g 2% Proteínas 4 g 1% Gorduras Totais 41 g 63% Gorduras Saturadas 4 g 20% Gorduras Trans 0 g ** Fibras 5 g 20% Sódio 550 mg 23% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local fresco e seco, após aberto conservar sob refrigeração Origem: China Contém 210g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
-  Updated: 2026-01-04T15:36:11Z
+  Updated: 2026-01-04T22:09:16Z
   Vendor: Lao Gan Ma
   Product Type: Molho de Pimenta
   Availability: Available
@@ -1657,7 +1657,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/hashi-descartavel-100un.jpg?v=1718636883
   Price: R$ 17,50 BRL
 - [Vinho de arroz (Shaoxing) - Zhejiang Grain 600ml](https://www.meiwei.com.br/products/shaoxing-vinho-de-arroz-chines-zhejiang-grain-600ml): O vinho Shaoxing, é feito à base de arroz e seu sabor é similar ao saquê japonês, embora mais adocicado, Indicado para temperar carnes e enriquecer marinados, mas também pode ser consumido como bebida. INGREDIENTES: Água, arroz glutinoso, trigo, corante caramelo. TEOR ALCOÓLICO: 13%. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM TRIGO E CORANTE ARTIFICIAL Após aberto, conservar a embalagem fechada em local fresco e arejado.Origem: China.
-  Updated: 2025-12-23T17:34:31Z
+  Updated: 2026-01-04T20:31:31Z
   Vendor: Zhejiang Grain
   Product Type: Vinho de arroz
   Availability: Available
@@ -2196,7 +2196,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Macarrao-de-arroz-fino.jpg?v=1690571897
   Price: R$ 29,99 BRL
 - [Macarrão instantâneo (Lamen) sabor carne assada - Master Kong 100g](https://www.meiwei.com.br/products/lamen-instantaneo-sabor-carne-assada): Este prato é uma combinação tentadora de pedaços macios de carne, cozidos lentamente com perfeição em um caldo rico e saboroso e servidos sobre uma cama de macarrão grosso e mastigável. INGREDIENTES: Farinha de trigo, óleo de palma refinado, amido, ácido acético, alimentos, glúten, fosfato de potássio, hexafosfato, dihidrogenofosfato de sódio tripolifosfato de sódio. (goma xatahm, com isolado de proteína, amido (farinha de Konjac, ovo inteiro em pó), metilcelulose de sódio, corante composto (núcleo amarelo gardênia: vitamina E ALÉRGICOS CONTÉM TRIGO CONTÉM GLÚTEN Origem: China
-  Updated: 2025-12-23T17:34:02Z
+  Updated: 2026-01-04T22:09:18Z
   Vendor: Master Kong
   Product Type: Massa
   Availability: Available
@@ -2280,7 +2280,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-artesanal-ovos-cogumelos.jpg?v=1691009942
   Price: R$ 39,99 BRL
 - [Macarrão DanDan - Hua Lian 900g](https://www.meiwei.com.br/products/macarrao-dandan-noodles-hua-lian-900g): O macarrão Dandan, também conhecido como Dan Dan Noodles, é um prato tradicional da culinária chinesa, originário da região de Sichuan. É feito com macarrão cozido, geralmente de trigo ou arroz, servido com um molho saboroso à base de pasta de amendoim, molho de soja, vinagre de arroz, óleo de gergelim, alho, gengibre e pimenta. O prato é tipicamente acompanhado de carne moída, como porco ou carne bovina, além de verduras. INGREDIENTES: Farinha de trigo, água, sal, aditivo alimentar (carboximetilcelulose de sódio (UNS 466), poliacriato de sódio, carbonato de sódio (INS 500 i), curcumina (INS 100)). ALÉRGICOS CONTÉM DERIVADO DE TRIGO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 80g (um prato raso) Quantidade por Porção %VD(*) Valor Energético 284g 14 Proteínas 7,4g 10 Açúcares Totais 0 0 Açúcares adicionados 0 0 Gorduras Totais 0,6g 1 Gorduras saturadas 0 0 Gorduras Trans 0 ** Carboidratos 61g 20 Fibra Alimentar 0 0 Sódio 556mg 23 Validade: 18 meses Origem: China Contém 900g
-  Updated: 2025-12-29T23:44:34Z
+  Updated: 2026-01-04T22:09:16Z
   Vendor: Hua Lian
   Product Type: Massa
   Availability: Available
@@ -3379,7 +3379,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-peixe.jpg?v=1696015798
   Price: R$ 34,99 BRL
 - [Tahine de amendoim - HaiDiLao 120g](https://www.meiwei.com.br/products/tahine-de-amendoim-haidilao-120g): Tradicional na culinária chinesa, este molho de amendoim da renomada marca Haidilao traz sabor cremoso, levemente adocicado e com toque tostado. Ideal para hot pot, noodles frios, saladas ou molhos para carnes. Pronto para uso e super versátil na cozinha oriental! INGREDIENTES: Água, manteiga de amendoim, tempero de suco de flor de cebolinha (flor de cebolinha, água, sal comestível, pasta de gergelim, açúcar branco, tempero de frango em pó, sal comestível, tempero de coalhada fermentada em pó (coalhada fermentada, maltodextrina, sal comestível), ostra molho, MSG, sabor alimentar, aromatizante nucleotídeo goma xantana dissódica, desidroacetato de sódio, nisina. ALÉRGICOS CONTÉM AMENDOIM, SOJA, TRIGO E OVOS INFORMAÇÕES NUTRICIONAISPorção de 100g %VD* Valor Calórico 651kJ 8% Carboidratos 12,8g 4% Proteínas 4g 7% Gorduras Totais 9,9g 17% Sódio 4541mg 227% Manter em local seco e fresco Origem: China Contém 120g
-  Updated: 2025-12-23T17:34:01Z
+  Updated: 2026-01-04T22:09:17Z
   Vendor: HaiDiLao
   Product Type: Condimento
   Availability: Available
@@ -6046,7 +6046,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/baida-popping-maca-verde.jpg?v=1727104735
   Price: R$ 16,90 BRL
 - [Óleo de Gergelim 100% Puro - Lee Kum Kee 207ml](https://www.meiwei.com.br/products/oleo-de-gergelim-100-puro-lee-kum-kee-207ml): Perfeito para uso doméstico, o óleo de gergelim 100% puro da Lee Kum Kee, em embalagem de 207ml, combina qualidade e praticidade para aprimorar suas receitas. Com um sabor autêntico e aroma marcante, é ideal para stir-fries, saladas, molhos e marinadas. Além disso, é uma fonte rica de antioxidantes e ácidos graxos, contribuindo para uma alimentação saudável e equilibrada. INGREDIENTES: Óleo de gergelim puro Contém 207ml Origem: China
-  Updated: 2025-12-26T16:23:32Z
+  Updated: 2026-01-04T22:09:16Z
   Vendor: Lee Kum Kee
   Product Type: Óleo
   Availability: Available
@@ -11114,7 +11114,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-apimentado-hotpot.jpg?v=1753202772
   Price: R$ 28,99 BRL
 - [Óleo de gergelim 100% puro - Haday 250ml](https://www.meiwei.com.br/products/oleo-gergelim-100-puro-haday-250ml): Óleo de gergelim puro e torrado, ideal para realçar o sabor da culinária asiática com seu aroma marcante e sabor levemente defumado. Muito utilizado em receitas coreanas, chinesas e japonesas, é perfeito para dar o toque final em saladas, noodles, vegetais salteados, arroz frito, sopas e marinadas. Rico em antioxidantes naturais e ácidos graxos saudáveis. INGREDIENTES: Óleo de gergelim INFORMAÇÕES NUTRICIONAIS Porção de 15ml (1 colher de sopa) Valor Calórico 126kcal 6% Proteína 0g 0% Gorduras Totais 14g 22% Gorduras Saturadas 2g 10% Gorduras Trans 0,1g 5% Carboidratos 0g 0% Sódio 0mg 0% Manter em local seco e arejado. Origem: China Validade: 18 meses Contém 250ml
-  Updated: 2025-12-24T21:12:26Z
+  Updated: 2026-01-04T22:34:51Z
   Vendor: Haday（海天）
   Product Type: Óleo
   Availability: Available
@@ -11583,7 +11583,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pes-frango-pele-tigre.jpg?v=1754321663
   Price: R$ 59,99 BRL
 - [Gergelim preto torrado - D.M.D Bridge 100g](https://www.meiwei.com.br/products/gergelim-preto-d-m-d-bridge-100g): Com sabor intenso e aroma tostado, o gergelim preto torrado (roasted black sesame) é um ingrediente clássico da culinária asiática. Perfeito para finalizar pratos como sushi, noodles, saladas e doces orientais, adiciona crocância e um toque exótico. Também é rico em fibras, minerais e antioxidantes. INGREDIENTES: Gergelim preto torrado INFORMAÇÕES NUTRICIONAIS Porção de 10g Valor Calórico 20kcal 0% Proteína 0g 0% Gorduras Totais 0g 0% Carboidratos 0g 0% Sódio 80mg 3% Manter em local seco e arejado. Origem: China Contém 100g
-  Updated: 2025-12-23T17:34:23Z
+  Updated: 2026-01-04T22:09:17Z
   Vendor: D.M.D Bridge Brand
   Product Type: Tempero
   Availability: Available
@@ -14474,21 +14474,21 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cabeca-de-pato-picante-xian-lu-gong-she-gan-guo-ya-tou-300g.png?v=1767490119
   Price: R$ 78,99 BRL
 - [Pedaços de Pato Yummy B.B.Q Jancor 208g - 慢烤鸭脖](https://www.meiwei.com.br/products/pedacos-de-pato-yummy-b-b-q-jancor-208g): Os Pedaços de Pato Yummy B.B.Q Jancor 慢烤鸭脖 208g são um snack chinês pronto para consumo, com pedaços de pato glaceados em molho barbecue ao estilo asiático, lembrando assado/“slow roast” (慢烤). A embalagem em vermelho e cobre metálico destaca os pedaços de pato bem dourados sobre uma grelha, transmitindo a ideia de sabor defumado, caramelização e bastante umami. É um petisco ideal para acompanhar bebidas, montar tábuas de petiscos orientais ou complementar refeições com arroz branco, noodles ou legumes salteados. A embalagem tipo pouch é prática para levar na bolsa/mochila e consumir em qualquer momento do dia. Carne de pato (pedaços com osso), água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Pedaços de pato Yummy B.B.Q 慢烤鸭脖 como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de pato sabor barbecue para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos orientais: servir os pedaços de pato em um prato ou bowl, combinando com amendoim torrado, chips de algas, conservas e legumes frescos em palitos. Refeição rápida com arroz ou noodles: aquecer levemente os pedaços de pato (em frigideira, air fryer rápida ou banho‑maria no próprio saquinho fechado) e servir sobre arroz branco, noodles ou yakisoba, aproveitando o molho para temperar. Toque em salteados: adicionar alguns pedaços já prontos em legumes salteados na wok, para trazer sabor defumado e umami extra. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz solar direta. Após aberto, manter a embalagem bem fechada, de preferência sob refrigeração, e consumir em poucos dias, conforme orientação do rótulo em português. Não consumir se a embalagem estiver violada, estufada ou com sinais de vazamento.
-  Updated: 2026-01-04T10:32:03Z
+  Updated: 2026-01-04T22:25:48Z
   Vendor: Jancor 慢烤鸭脖
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pedacos-de-pato-yummy-bbq-jancor-man-kao-ya-bo-208g.png?v=1767522497
   Price: R$ 78,99 BRL
 - [Asa de Pato Picante Lao Li 115g 老李 MAN LU YA CHI GEN 慢卤鸭翅根](https://www.meiwei.com.br/products/asa-de-pato-picante-lao-li-115g-man-lu-ya-chi-gen): A Asa de Pato Picante Lao Li 老李 MAN LU YA CHI GEN 慢卤鸭翅根 115g é um snack típico chinês feito com a parte da asa/raiz da asa de pato, lentamente cozida e marinada em molho vermelho brilhante, no estilo “man lu” (慢卤) – cozimento lento em marinada bem temperada. A embalagem branca com faixa vermelha no topo destaca a marca Lao Li 老李 e o nome em pinyin MAN LU YA CHI GEN, com a foto de uma asa de pato bem dourada e glaceada, sugerindo textura macia por dentro, levemente crocante por fora e sabor picante marcante. É um petisco perfeito para acompanhar bebidas, montar tábuas de petiscos orientais ou complementar bowls rápidos com arroz branco, noodles e legumes salteados. A proposta é de um snack de conveniência com bastante umami, textura mastigável e picância evidente, bem no estilo dos lanchinhos chineses prontos para comer. Lista de ingredientes Asa de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Asa de Pato Picante Lao Li 老李 MAN LU YA CHI GEN 慢卤鸭翅根 como petisco ou acompanhamento Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de asa de pato picante para acompanhar cerveja, chope, refrigerante ou chá gelado. Tábua de petiscos orientais: servir as asas de pato em um prato ou tábua junto com amendoim temperado, pepino em conserva, kimchi ou outros snacks asiáticos, criando uma experiência de boteco chinês em casa. Bowl rápido com arroz: aquecer levemente as asas de pato e servir sobre arroz branco, finalizando com cebolinha picada e gergelim torrado. Topping para noodles: fatiar a carne ao redor do osso e usar como topping de noodles chineses ou lámen, trazendo mais proteína e sabor picante ao caldo. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz solar direta. Após aberto, consumir imediatamente ou manter bem fechado sob refrigeração e consumir em até 24–48 horas, conforme indicação do rótulo oficial. Não consumir se a embalagem estiver rompida, estufada ou com odor/sabor alterado.
-  Updated: 2026-01-04T11:01:00Z
+  Updated: 2026-01-04T22:44:42Z
   Vendor: Lao Li 老李
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/asa-de-pato-picante-lao-li-man-lu-ya-chi-gen-115g.png?v=1767523518
   Price: R$ 48,99 BRL
 - [Língua de Pato Doce e Picante Jiu Jiu Ya 70g - 久久丫 甜辣鸭舌](https://www.meiwei.com.br/products/lingua-de-pato-doce-e-picante-jiu-jiu-ya-70g): A Língua de Pato Doce e Picante Jiu Jiu Ya 久久丫 甜辣鸭舌 70g é um snack chinês pronto para consumo, feito com línguas de pato inteiras, cozidas e marinadas em um molho doce e apimentado. A embalagem laranja com faixa preta destaca a foto das línguas de pato glaceadas, brilhantes e bem avermelhadas, acompanhadas de pimenta vermelha em flocos, sugerindo bastante umami, leve doçura e picância marcante. É um petisco típico da culinária chinesa, muito associado a bares, karaokês e momentos informais, ideal para acompanhar cerveja, refrigerante ou chá gelado. Também funciona bem em tábuas de petiscos orientais, ao lado de amendoins, outros snacks de pato e frango e legumes em conserva. Lista de ingredientes Língua de pato, água, molho de soja (água, soja, trigo, sal), óleo vegetal (soja/colza), açúcar, sal, pimenta vermelha, pimenta de Sichuan, alho, gengibre, especiarias (incluindo pimenta‑do‑reino e anis‑estrelado), amido modificado, realçador de sabor glutamato monossódico (INS 621), 5’‑ribonucleotídeos de sódio (INS 635), regulador de acidez (ácido cítrico – INS 330), conservador (benzoato de sódio – INS 211) e aromas naturais de especiarias. Alérgicos: contém soja e trigo/glúten (via molho de soja). Pode conter traços de gergelim e amendoim. Informação nutricional – porção de 25 g Informação nutricional Porção de 25 g %VD* Valor energético 110 kcal = 462 kJ 6% Carboidratos 3 g 1% Proteínas 7 g 9% Gorduras totais 8 g 15% Gorduras saturadas 2,5 g 11% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 520 mg 22% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de uso / receita Língua de pato doce e picante como petisco oriental Petisco direto da embalagem: consumir em temperatura ambiente, diretamente do pacote, como snack de língua de pato doce e apimentada para acompanhar cerveja, refrigerante ou chá gelado. Tábua de petiscos asiáticos: servir as línguas de pato em uma tábua ou prato, junto com amendoins orientais, chips de algas, snacks de frango e legumes em conserva. Acompanhamento para arroz ou noodles: aquecer levemente as línguas de pato e usar como topping para arroz branco, macarrão instantâneo ou lámen, adicionando cebolinha picada e mais pimenta a gosto. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz solar direta. Após aberto, manter bem fechado, consumir em curto prazo e, se indicado no rótulo, armazenar sob refrigeração.
-  Updated: 2026-01-04T11:51:17Z
+  Updated: 2026-01-04T23:47:49Z
   Vendor: Jiu Jiu Ya 久久丫
   Product Type: Aperitivo
   Availability: Available
