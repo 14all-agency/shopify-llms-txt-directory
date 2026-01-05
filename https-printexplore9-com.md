@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2026-01-04T00:00:43.457Z
+- Updated At: 2026-01-05T00:00:44.060Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -1912,19 +1912,19 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-12-20T13:46:40Z
   Total Products: 40
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
-  Updated: 2025-12-07T17:18:44Z
+  Updated: 2026-01-04T18:29:24Z
   Total Products: 9
 - [Sustainable Women's  T-Shirts & Sweatshirts](https://printexplore9.com/collections/womens): Eco friendly womens t-shirts and sweatshirts made from organic cotton. Customize your style with sustainable apparel made for you.
-  Updated: 2025-12-10T14:27:43Z
-  Total Products: 23
+  Updated: 2026-01-04T18:14:49Z
+  Total Products: 18
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-12-13T16:39:44Z
+  Updated: 2026-01-04T18:28:20Z
   Total Products: 29
 - [Kids Clothing for Little Ones | Comfortable & Stylish Picks](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
   Updated: 2025-12-11T13:07:55Z
   Total Products: 7
 - [Premium Apparel for Men & Women | Printexplore](https://printexplore9.com/collections/premium-sustainable-apparel-for-men-women): Discover premium apparel for men and women, including high-quality t-shirts, hoodies, and sweatshirts designed for comfort, sustainability, and everyday style.
-  Updated: 2026-01-03T16:33:07Z
+  Updated: 2026-01-04T03:06:10Z
   Total Products: 15
 - [Relaxing Soy Candle for Stress Relief and Peace](https://printexplore9.com/collections/candles): Turn any room into a calming escape with our relaxing soy candle. Long-lasting fragrance and clean soy wax help you unwind at home or in the office.
   Updated: 2025-12-12T02:02:10Z
