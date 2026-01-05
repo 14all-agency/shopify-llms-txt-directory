@@ -10,7 +10,7 @@
 - Contact Email: Apexgym369@gmail.com
 - Contact Phone: +27 68 763 4990 
 - Address: 01 johannesburg
-- Updated At: 2026-01-05T13:48:43.394Z
+- Updated At: 2026-01-05T13:48:50.752Z
 
 Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
 
