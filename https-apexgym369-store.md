@@ -1,12 +1,16 @@
-# ApexGym (https://apexgym369.store)
+# ApexGym369 (https://apexgym369.store)
+
+> ALL GYM PRODUCTS AND EQUIPMENT 
 
 - Domain: https://apexgym369.store
 - Locale: en
 - Currency: ZAR
 - Timezone: Africa/Johannesburg
 - Created At: 2025-12-29T22:02:10Z
-- Contact Email: shereenandreas55@gmail.com
-- Updated At: 2026-01-05T13:45:14.326Z
+- Contact Email: Apexgym369@gmail.com
+- Contact Phone: +27 68 763 4990 
+- Address: 01 johannesburg
+- Updated At: 2026-01-05T13:48:43.394Z
 
 Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
 
