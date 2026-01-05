@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-03-27T12:54:05Z
 - Contact Email: hello@comfyheadbands.com
-- Updated At: 2026-01-02T00:00:33.963Z
+- Updated At: 2026-01-05T00:00:35.331Z
 
 ## Products
 
