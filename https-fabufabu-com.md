@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2026-01-03T00:00:33.893Z
+- Updated At: 2026-01-05T00:00:34.646Z
 
 ## Products
 
@@ -94,13 +94,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/s925-sterling-silver-stars-braceletbraceletsfabufabufabufabu-design-storesl0261-silversilver1-56cf3612-6d23-4970-9db7-71c2bd887624-4824293.jpg?v=1765257970
     Price: $25.57 USD
-- [Men Bracelet Raw Brass Cuff](https://fabufabu.com/products/men-bracelet-raw-brass-cuff): Men's taste accessories: Retro BLISS open texture, polished brass widening design, the bracelet is specially engraved with blessings, bringing you a low-key and delicate, and adding embellishments to life, it is very suitable for daily wear. RAW BRASS: The brass bracelet will change according to the user and the environment. Long-term use can develop a unique mark belonging to the user. The surface of the bracelet is only aged, without special processing, revealing the simple beauty of pure brass material. Spotted and slightly scratched, that's what makes brass so attractive. MINIMALIST STYLE: This flat bracelet measures 0.55” (1.4cm) wide. Our cuffs are very wearable for both women and men. The open design allows for easy adjustment to accommodate most wrist sizes. Fashion Jewelry Gifts: Fabufabu retro bracelets bring elegance and luxury to the modern man & woman, perfect as a gift for mom, wife, or friends on Mother's Day, Valentine's Day, Christmas and Anniversary. The color shown in the photo may deviate from the actual product due to the photography and post-processing by the photographer. The final product shall be subject to receipt.
-  Updated: 2025-12-26T12:37:19Z
-  Vendor: fabufabu design store
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Cover_1.jpg?v=1765262127
-  Price: $74.23 USD
 - [Retractable Pet Leash for Small/Medium Sized Dogs Cat](https://fabufabu.com/products/retractable-pet-leash-for-small-medium-sized-dogs-cat): Retractable dog leash, 3 meters (118 inches) in length, bearing less than 25kg, suitable for small and medium-sized dogs. 360° telescopic rotation without jamming, the rope will not be knotted and entangled, and you can freely control the direction of your gestures. Portable mini garbage bag box that can be put into small bags and taken out for use when needed. High-strength nylon webbing with impact-resistant ABS material on the outside for durability. The dog leash has reflective strips, Type-C charging interface, and LED lighting to avoid danger and provide safety for walking dogs at night. Explosion-proof Okinawa buckle, strong and firm. Soft rubber curved handle, comfortable to hold, light weight, your hands will not feel sore even if you walk for a long time. Flexible, durable inner coil spring, the spring does not rust, automatically expands and contracts. One push to lock, free to retract, very suitable for walking, running, jogging, training, camping, hiking, outing leisure activities, making dog walking more and more happy.
   Updated: 2025-12-28T07:53:56Z
   Vendor: fabufabu design store
@@ -116,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover.jpg?v=1765263311
   Price: $19.29 USD
 - [925 Sterling Silver Layered Zirconium Diamonds Star Bracelet](https://fabufabu.com/products/925-sterling-silver-layered-zirconium-diamonds-star-bracelet): Fabufabu "Less is More” collection, The star-sharp bracelet implies the story of the starry sky, sincere love, and unwavering. Material : high-quality multi-layer electroplating process, small star zirconium diamonds are exquisite and elegant, rich in layers and not monotonous, bright and shiny. Design : The double-layer silver bracelet is matched with small balls and 1 main star with 1 main star zirconium diamonds star, patterns which is vivid and very beautiful and charming Size : The length of this star bracelet is adjustable, Size: Chain length about 15+5cm (15cm x 0.1 x 0.1cm) is the extendable length. Approximate weight: 0.01cm Thoughtful Present : Wearing this star bracelet will make you more charming and unique.It is a thoughtful gift for mother, wife, daughters, girlfriend and friends to express your wishes. Care Instructions : Do not pull or squeeze to avoid damage. Wash, sleep, soak in hot springs or sea water need to be unloaded. Regular cleaning and maintenance can last a long time. Silver jewelry is oxidized to metallic properties, so clean it and store it in a sealed bag when not wearing it. Avoid wearing jewelry to do heavy work, as it is easy to scratch and damage the surface of the jewelry. Do not touch perfume, vinegar, fruit juice, bleach to reduce the occurrence of erosion. For natural stones, crystals and pearls, please wash them with clean water and then wipe them with a soft cloth. Silver jewelry can be maintained by wiping with the attached silver cloth.
-  Updated: 2025-12-26T12:37:19Z
+  Updated: 2026-01-04T04:17:35Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
@@ -165,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_1c186e94-2ed1-4204-bdc0-4d93cbd58a01.jpg?v=1765461883
   Price: $19.28 USD
 - [Cowhide leather gold ball chain handbag](https://fabufabu.com/products/cowhide-leather-gold-ball-chain-handbag): FASHIONABLE DESIGN ---how people with fashionable design, the design is made of cow leather, with gold ball chains and gold zippers add style. The handbags are equipped with internal zipper compartments and two separate compartments, which are convenient for sorting mobile phones, banknotes, cosmetics, etc., and are matched with golden hanging chains. They are suitable for anniversary parties, thank you banquets, and daily carrying. The design is light and easy to carry, shoulder carry Side back is okay. The design pays special attention to versatility and fashion, so that it can show style. PERFECT PURSE FOR A NICE DATE NIGHT!---Quilted exterior with THICK CHAIN shoulder strap.This designer clutch purse from Montana West is bold without being over the top. It's a classic piece that will look good with practically everything already hanging in your closet. SMALL & COMPACT PHONE PURSE !--- 22cm(L) x 15 cm(H) x 7cm(W) : the interior side pocket is convenient for quick access to your cell phone. There is ample room for your small wallet, lipstick and tissue. Magnetic flap closure will keep your belongings safe and secure. Perfect for a night out or a special event! STURDY & DELICATE& SPACIOUS GOING OUT BAG!---This stylish purse comes in classic black & white. Just pick one of the colorways that match your everyday style best and fill it with your most beloved essentials. Buying more than one will get you everyone's approval. QUALITY MADE ! GREAT GIFT IDEA！--- The exterior is made of durable FAUX LEATHER, comes with wear resistant fabric lining and superior golden hardware accessories. Quality made quilted shoulder bags， It is also a nice gift choice for your families and friends. DETAIL---Cow leather; Golden Ball; Gold zipper; Two separate compartments; Inside zip pocket; Shoulder Straps: Adjustable; Dimensions: 22cm (L), 15 cm (H), 7cm (W); Color: White, Black
-  Updated: 2025-12-26T12:37:21Z
+  Updated: 2026-01-03T11:37:29Z
   Vendor: fabufabu design store
   Product Type: Hangbag
   Availability: Available
@@ -401,6 +394,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_e34b40df-1446-45c1-95e3-712f9b5e0076.jpg?v=1767091046
   Price: $73.11 USD
+- [Platinum-plated Genuine Silver Bracelet](https://fabufabu.com/products/platinum-plated-genuine-silver-bracelet): 【MATCHING BRACELETS】Our silver bracelet is 7cm. The understated yet distinctive design of this chain bracelet for men & lady serves as an ideal accessory for all, making it a flawless option for both festive holiday gatherings and heartfelt gifting occasions. 【PREMIUM CRAFTSMANSHIP】Elevate your style with our men & lady bracelet, meticulously crafted from platinum-plated genuine silver. with a silver chain, the men & lady silver bracelet is not only visually appealing but also lead-free, nickel-free, and hypoallergenic. 【Trendy'S JEWELRY】Embrace the essence of understated elegance with our silver bracelet for all. This braclets effortlessly captures the essence of silver's style, showcasing simplicity and masculinity with a touch of refined charm. 【INSPIRATIONAL GIFTS FOR ALL】 An ideal choice for birthdays, parties, Valentine's Day, Thanksgiving, and Christmas. Whether it's your best friend, groom, husband, dad , this sterling silver trendy chain will make them feel your heart. **The color of the photo in the picture is slightly different from the actual product due to the environment. The actual product at the time of receipt shall prevail.** ●Maintenance knowledge 1. All jewelry, no matter what kind of material, is afraid of moisture, especially rain, sweat, perfume, bathing hot springs, chemical products, etc., will seriously damage the jewelry and produce oxidation, so it should be avoided and stayed away as much as possible. 2. Jewelry is recommended to be worn frequently, body oil can make jewelry produce a natural, warm and beautiful luster. 3. The jewelry will be oxidized over time and vulcanized or oxidized to turn yellow and black. You can use a moist soft toothbrush with toothpaste or dentifrice to gently brush the surface, or wipe with a silver or copper cloth to restore the original Metallic luster. 4. If you are worried that the chemical emulsion of silver wiping cloth and copper wiping cloth will cause skin allergies, you can rinse with water and wipe dry before wearing. 6. When not wearing it, put it in a sealed bag cleanly to reduce the oxidation rate. 8. Do not put all kinds of jewelry in the same jewelry box. Different hardness of the jewelry will rub against each other and cause wear. 9. Never use any other tools to clean your jewelry, which will leave scratches on the surface of the jewelry. If using a brush is necessary, please use a clean or very soft brush to scrub your jewelry.
+  Updated: 2026-01-04T08:08:25Z
+  Vendor: fabufabu design store
+  Product Type: Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_39e0f037-2771-46e8-b12f-a839e5afcdf3.jpg?v=1767513818
+  Price: $25.67 USD
+- [Men Raw Brass Open Bangle](https://fabufabu.com/products/men-raw-brass-open-bangle): Men's taste accessories: Retro BLISS open texture, polished brass widening design, the bracelet is specially engraved with blessings, bringing you a low-key and delicate, and adding embellishments to life, it is very suitable for daily wear. RAW BRASS: The brass bracelet will change according to the user and the environment. Long-term use can develop a unique mark belonging to the user. The surface of the bracelet is only aged, without special processing, revealing the simple beauty of pure brass material. Spotted and slightly scratched, that's what makes brass so attractive. MINIMALIST STYLE: This flat bracelet measures 0.55” (1.4cm) wide. Our cuffs are very wearable for both women and men. The open design allows for easy adjustment to accommodate most wrist sizes. Fashion Jewelry Gifts: Fabufabu retro bracelets bring elegance and luxury to the modern man & woman, perfect as a gift for mom, wife, or friends on Mother's Day, Valentine's Day, Christmas and Anniversary. The color shown in the photo may deviate from the actual product due to the photography and post-processing by the photographer. The final product shall be subject to receipt.
+  Updated: 2026-01-04T09:26:49Z
+  Vendor: fabufabu design store
+  Product Type: Bangle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_1a0372f8-dfb2-4cfb-b252-a5047ead2762.jpg?v=1767518554
+  Price: $51.34 USD
 
 ## Collections
 
@@ -408,8 +415,8 @@
   Updated: 2025-12-26T12:37:17Z
   Total Products: 0
 - [Bracelets](https://fabufabu.com/collections/bracelets-1)
-  Updated: 2025-12-26T12:37:18Z
-  Total Products: 11
+  Updated: 2026-01-04T08:05:47Z
+  Total Products: 12
 - [Earrings](https://fabufabu.com/collections/earrings)
   Updated: 2025-12-26T12:37:18Z
   Total Products: 3
@@ -438,7 +445,7 @@
   Updated: 2025-12-26T12:37:18Z
   Total Products: 5
 - [Man](https://fabufabu.com/collections/man-1)
-  Updated: 2025-12-28T07:23:23Z
+  Updated: 2026-01-04T09:35:26Z
   Total Products: 2
 - [Outfits](https://fabufabu.com/collections/outfits-1)
   Updated: 2025-12-26T12:37:18Z
