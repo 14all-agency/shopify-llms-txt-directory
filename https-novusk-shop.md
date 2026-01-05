@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-01T18:04:35Z
 - Contact Email: novus.atelier00@gmail.com
-- Updated At: 2026-01-03T00:00:26.719Z
+- Updated At: 2026-01-05T00:00:22.228Z
 
 ## Products
 
@@ -522,6 +522,10 @@
     Updated: 2025-12-31T10:10:26Z
     Author: Novusk
     Tags: elegance, fashion, how to style outfits, mastering personal style, outfit inspiration, personal style tips, style, wardrobe essentials
+  - [Ultimate Style Guide: Building a Capsule Wardrobe](https://novusk.shop/blogs/news/ultimate-style-guide-building-a-capsule-wardrobe): Ultimate Style Guide: Building a Capsule Wardrobe
+    Updated: 2026-01-03T10:02:56Z
+    Author: Novusk
+    Tags: capsule wardrobe, fashion, fashion essentials for every season, how to build a capsule wardrobe, minimalist style, outfit ideas, style, wardrobe
 
 ## Store Pages
 
