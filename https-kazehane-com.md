@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-10-15T15:54:52Z
 - Contact Email: support@kazehane.com
-- Updated At: 2026-01-04T16:31:48.475Z
+- Updated At: 2026-01-05T00:00:23.153Z
 
 KAZEHANE is a curated multi-brand platform offering selected designer and premium fashion from leading and emerging labels. Our focus is on quality, rarity, and a seamless shopping experience—connecting discerning customers with exclusive pieces across Europe.and United States
 
@@ -192,7 +192,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
   Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/all-over-print-backpack-white-front-693475fd6506e.jpg?v=1767093828
   Price: €49.90 EUR
 - [adidas Originals Superstar](https://kazehane.com/products/adidas-originals-superstar-ii-damen-sneakers-schuhe-schwarz-weiss-jh9977): The adidas Originals Superstar is an iconic sneaker that transcends generations. Featuring the signature shell toe, clean leather upper, and timeless three stripes, this classic delivers understated sophistication with every step. Built for both court and street, it combines heritage craftsmanship with everyday versatility. A wardrobe essential that pairs effortlessly with any outfit.
-  Updated: 2025-12-30T23:47:11Z
+  Updated: 2026-01-04T23:56:55Z
   Vendor: Brandstyle24
   Product Type: Damen > Sneaker
   Availability: Available
@@ -889,7 +889,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/FZ4110-001-g.jpg?v=1765588341
     Price: €164.95 EUR
 - [DR. MARTENS](https://kazehane.com/products/dr-doc-martens-1460-smooth-boots-stiefel-leder-schwarz-11822006): The iconic Dr. Martens 1460 in smooth black leather—a timeless boot built for durability and style. Featuring the signature air-cushioned sole and reinforced stitching, these boots offer comfort that improves with wear. Perfect for those seeking a versatile, long-lasting staple that transitions effortlessly from casual to refined looks.
-  Updated: 2026-01-04T15:50:21Z
+  Updated: 2026-01-04T23:56:56Z
   Vendor: Brandstyle24
   Product Type: Unisex > Stiefel
   Availability: Available
@@ -899,7 +899,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/11822006-g.jpg?v=1765588341
     Price: €159.95 EUR
   - [Schwarz / EU 37 UK 4](https://kazehane.com/products/dr-doc-martens-1460-smooth-boots-stiefel-leder-schwarz-11822006?variant=52577826734419)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/11822006-g.jpg?v=1765588341
     Price: €159.95 EUR
   - [Schwarz / EU 38 UK 5](https://kazehane.com/products/dr-doc-martens-1460-smooth-boots-stiefel-leder-schwarz-11822006?variant=52577826767187)
@@ -1501,7 +1501,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HP3131-g.jpg?v=1765588342
     Price: €107.95 EUR
 - [Nike x Wu-Tang Clan](https://kazehane.com/products/nike-x-wu-tang-clan-dunk-high-retro-herren-sneakers-premium-schuhe-gelb-schwarz-hj4320-001): Nike x Wu-Tang Clan Dunk High Retro—a landmark collaboration merging hip-hop heritage with basketball iconography. This limited-edition silhouette features the legendary Wu-Tang aesthetic integrated into Nike's classic Dunk High platform, delivering distinctive design elements that resonate with both sneaker enthusiasts and cultural aficionados. Premium construction ensures durability, while the bold visual identity makes an unmistakable statement. A collector's piece that transcends footwear, embodying the intersection of sport, music, and street culture.
-  Updated: 2025-12-31T02:36:03Z
+  Updated: 2026-01-04T19:53:30Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -1531,7 +1531,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HJ4320-001-g.jpg?v=1765588351
     Price: €194.95 EUR
   - [EU 44 US 10](https://kazehane.com/products/nike-x-wu-tang-clan-dunk-high-retro-herren-sneakers-premium-schuhe-gelb-schwarz-hj4320-001?variant=52577835811155)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HJ4320-001-g.jpg?v=1765588351
     Price: €194.95 EUR
   - [EU 44.5 US 10.5](https://kazehane.com/products/nike-x-wu-tang-clan-dunk-high-retro-herren-sneakers-premium-schuhe-gelb-schwarz-hj4320-001?variant=52577835843923)
@@ -2437,7 +2437,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/J1GC238333-g.jpg?v=1767119907
     Price: €159.95 EUR
 - [Tommy Hilfiger](https://kazehane.com/products/tommy-hilfiger-retro-basket-essential-herren-sneakers-schuhe-leder-weiss-em0em01395-dw4): De Classic American style meets refined craftsmanship with this Tommy Hilfiger piece. Designed for the discerning individual who values timeless elegance and quality construction, it seamlessly transitions from casual to polished settings. The signature attention to detail reflects the brand's heritage of sophisticated, wearable luxury. An investment in enduring style that transcends seasonal trends.
-  Updated: 2026-01-01T20:35:37Z
+  Updated: 2026-01-04T23:56:50Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2597,7 +2597,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/ID1708-g.jpg?v=1767119907
     Price: €179.95 EUR
 - [Nike Air Max](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03): Nike Air Max sneakers deliver iconic style with engineered comfort. Featuring responsive cushioning and a sleek silhouette, these shoes blend performance with everyday versatility. Perfect for those who demand both aesthetic appeal and reliable support in a timeless design.
-  Updated: 2026-01-04T15:50:21Z
+  Updated: 2026-01-04T23:56:55Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2643,7 +2643,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
     Price: €118.95 EUR
 - [VANS](https://kazehane.com/products/vans-rowley-classic-herren-sneakers-schuhe-leder-schwarz-vn0a4bttorl1): VANS Iconic footwear brand delivering timeless style and durability. Known for authentic skate culture heritage and versatile designs that transition seamlessly from street to casual wear. Premium construction ensures comfort and longevity. A staple choice for those seeking quality sneakers with genuine cultural credibility.
-  Updated: 2026-01-02T02:02:06Z
+  Updated: 2026-01-04T23:56:57Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
