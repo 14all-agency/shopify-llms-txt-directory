@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-10-20T20:10:32Z
 - Contact Email: ismailouss46@gmail.com
-- Updated At: 2026-01-05T08:00:27.617Z
+- Updated At: 2026-01-05T12:00:26.820Z
 
 ## Products
 
@@ -1099,7 +1099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0669/4581/0599/files/226e548e-51a4-47e8-a3d6-a2397eafac85.jpg?v=1729950326
     Price: $1,500.00 USD
 - [Men's Velvet Hooded Cardigan Jacket](https://cypto-os.myshopify.com/products/mens-casual-cardigan-jacket-new-men-plus-velvet-warm-gold-velvet-hooded-sweater-suit-men): Discover our Men's Velvet Hooded Jacket, perfect for winter warmth. Available in gray, black, and dark blue, sizes M to 3XL. Comfortable and stylish!
-  Updated: 2025-12-30T20:06:32Z
+  Updated: 2026-01-05T08:38:34Z
   Vendor: Cypto-OS
   Product Type: 
   Availability: Available
@@ -2794,7 +2794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0669/4581/0599/files/51FWf_esWHL.jpg?v=1730888337
     Price: $1,500.00 USD
 - [Black Friday Zip Hoodie Sale 2024](https://cypto-os.myshopify.com/products/zip-hoodie): Don't miss our 2024 Black Friday Zip Hoodie promotion! Shop now for stylish comfort at unbeatable prices.
-  Updated: 2025-12-30T20:06:39Z
+  Updated: 2026-01-05T11:03:18Z
   Vendor: Cypto-OS
   Product Type: 
   Availability: Available
