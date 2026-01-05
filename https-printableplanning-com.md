@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-05T00:00:47.683Z
+- Updated At: 2026-01-05T04:00:28.909Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1289,7 +1289,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsOrangeandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497602
   Price: $4.95 USD
 - [Name Labels Red and Gray for School Supplies - Printable](https://printableplanning.com/products/name-labels-red-and-gray-for-school-supplies-printable): Printable 8.5" x 11" page of Name Labels Red and Gray for School Supplies designed in a red and gray on white color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Red and gray colors. Edit one label and it updates every label. Print a new printable Name Labels Red and Gray for School Supplies page every time you need more back-to-school (or other use) name labels.
-  Updated: 2025-07-21T19:20:22Z
+  Updated: 2026-01-05T01:37:29Z
   Vendor: Artistically Invited
   Product Type: Name Labels
   Availability: Available
@@ -1639,7 +1639,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PinkBorderNameLabelsforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687401016
   Price: $4.95 USD
 - [Purple Border Name Labels for School Supplies - Printable](https://printableplanning.com/products/purple-border-name-labels-for-school-supplies-printable): Printable 8.5" x 11" page of Purple Border Name Labels for School Supplies personalized with your name in dark gray in a white area in the center over a purple background color that borders the name area. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the name on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the name (every time you print). 1 name line. Edit one label and it updates every label. Print a new printable Purple Border Name Labels for School Supplies page every time you need more back-to-school name labels (or other use).
-  Updated: 2025-07-21T19:20:13Z
+  Updated: 2026-01-05T00:41:11Z
   Vendor: Artistically Invited
   Product Type: Name Labels
   Availability: Available
