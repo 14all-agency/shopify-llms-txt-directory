@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-05T08:00:29.604Z
+- Updated At: 2026-01-05T12:00:28.049Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -449,7 +449,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/TeamBowlingBlueScoreSheet-PrintablePlanning.jpg?v=1687301498
   Price: $5.95 USD
 - [Seashell Turquoise Tan Beach Address Labels - Printable](https://printableplanning.com/products/seashell-turquoise-tan-beach-address-labels-printable): Printable 8.5" x 11" page of seashell turquoise tan beach address labels designed with a turquoise and tan seashells and personalized with your return address in dark tan. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable seashell turquoise tan beach address labels.
-  Updated: 2025-07-21T19:21:08Z
+  Updated: 2026-01-05T08:08:44Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
@@ -680,7 +680,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PinsandBallBowlingAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686234027
   Price: $5.95 USD
 - [Adorable Gray Elephant Address Labels - Printable](https://printableplanning.com/products/adorable-gray-elephant-address-labels-printable): Printable 8.5" x 11" page of adorable gray elephant address labels designed with a cute and adorable little gray elephant and personalized with your address in black. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable adorable gray elephant address labels.
-  Updated: 2025-07-21T19:21:01Z
+  Updated: 2026-01-05T09:23:13Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
@@ -806,7 +806,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/WinterPurpleGraySnowflakeAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686234104
   Price: $5.95 USD
 - [Winter Pink Gray Snowflake Address Labels - Printable](https://printableplanning.com/products/winter-pink-gray-snowflake-address-labels-printable): Printable 8.5" x 11" page of winter pink gray snowflake address labels with a pink and gray snowflake design, and personalized with your return address in gray. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable winter pink gray snowflake address labels.
-  Updated: 2025-07-21T19:20:34Z
+  Updated: 2026-01-05T09:42:18Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
