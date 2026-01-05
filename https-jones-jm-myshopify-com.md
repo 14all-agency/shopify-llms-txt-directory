@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-01-04T20:00:23.956Z
+- Updated At: 2026-01-05T04:00:24.066Z
 
 ## Products
 
@@ -800,6 +800,9 @@
     Author: User
   - [Comparing Snowboarding Destinations: Which Slopes Suit Your Style](https://jones-jm.myshopify.com/blogs/news/comparing-snowboarding-destinations-which-slopes-suit-your-style): Comparing Snowboarding Destinations: Which Slopes Suit Your Style
     Updated: 2025-12-31T00:01:28Z
+    Author: User
+  - [Top Snowboarding Destinations You Need to Visit](https://jones-jm.myshopify.com/blogs/news/top-snowboarding-destinations-you-need-to-visit): Top Snowboarding Destinations You Need to Visit
+    Updated: 2026-01-05T00:01:16Z
     Author: User
 
 ## Store Pages
