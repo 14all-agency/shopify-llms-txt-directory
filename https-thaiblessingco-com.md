@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-06-21T22:40:19Z
 - Contact Email: thaiblessingco@thaiblessingco.com
-- Updated At: 2026-01-03T00:00:46.177Z
+- Updated At: 2026-01-05T00:00:46.442Z
 
 ## Products
 
@@ -1160,7 +1160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/tao-thanabodi-maharaj-first-edition-amulet-gold-front-closeup.jpg?v=1753331158
   Price: $96.00 USD
 - [Thai Heritage Talisman - Authentic Amulet for Spiritual Protection](https://thaiblessingco.com/products/authentic-thai-heritage-talisman-upakut): Enhance your spiritual journey with our Authentic Thai Heritage Talisman. This unique amulet offers spiritual protection and ancient wisdom, inviting peace and prosperity into your life.
-  Updated: 2026-01-02T04:10:32Z
+  Updated: 2026-01-04T04:10:54Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
@@ -1202,7 +1202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0930/7439/1344/files/thai-prai-metta-mahamongkol-charm-front-back-views.jpg?v=1760343885
   Price: $87.00 USD
 - [Phra Phong Upakut First Edition - Embrace Wisdom and Prosperity](https://thaiblessingco.com/products/kruba-kham-ai-first-edition-phra-phong-upakut): Discover the Phra Phong Upakut First Edition, crafted by Kruba Kham-Ai. Embrace wisdom, prosperity, and heritage in this unique collectible. Shop now!
-  Updated: 2026-01-02T04:10:32Z
+  Updated: 2026-01-04T04:10:54Z
   Vendor: One-Sake.com
   Product Type: เครื่องใช้ในบ้าน/สินค้าเกี่ยวกับฮวงจุ้ยและศาสนา
   Availability: Available
@@ -4441,8 +4441,8 @@
 ## Collections
 
 - [Thai Amulet & Talisman - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/buddhist-lucky-charms-thailand-sacred)
-  Updated: 2025-12-31T02:45:58Z
-  Total Products: 2121
+  Updated: 2026-01-04T19:08:44Z
+  Total Products: 2126
 - [Authentic Thai Traditional Clothing - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-traditional-clothing): "Discover the elegance of Thai traditional fashion with this authentic and stylish collection. Handcrafted with care, each piece blends timeless cultural heritage with modern style – perfect for collectors, fashion enthusiasts, and unique wardrobe pieces."
   Updated: 2025-11-19T05:31:00Z
   Total Products: 155
@@ -4453,17 +4453,17 @@
   Updated: 2025-11-18T01:53:31Z
   Total Products: 97
 - [Magnetic Attraction Amulets - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/thai-attraction-charms)
-  Updated: 2025-12-31T01:53:15Z
-  Total Products: 1216
+  Updated: 2026-01-04T12:27:03Z
+  Total Products: 1217
 - [Fortune & Prosperity Collection - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/prosperity-talismans-for-wealth)
-  Updated: 2025-12-31T02:45:58Z
-  Total Products: 2080
+  Updated: 2026-01-04T19:08:44Z
+  Total Products: 2085
 - [Divine Protection Collection - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/authentic-thai-safety-talismans-protection): "Discover the elegance of Thai craftsmanship – a unique collection of authentic artisan creations, blending timeless heritage with modern style. Perfect for collectors, home décor, and meaningful gifts."
-  Updated: 2025-12-31T02:45:58Z
-  Total Products: 1600
+  Updated: 2026-01-04T19:08:44Z
+  Total Products: 1605
 - [Authentic Thai Amulets  Best Sellers - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/authentic-thai-amulets-for-sale)
-  Updated: 2025-12-31T02:45:58Z
-  Total Products: 4331
+  Updated: 2026-01-04T19:08:44Z
+  Total Products: 4330
 - [Feng Shui Home Decor - Thai Blessing Co By RURUECHA](https://thaiblessingco.com/collections/feng-shui-home-decor): Elevate your space for home decor needs. Harmonize energy and attract prosperity with Feng Shui accents. Shop now to bring peace and abundance.
   Updated: 2025-11-30T00:50:30Z
   Total Products: 207
@@ -4480,8 +4480,8 @@
   Updated: 2025-12-08T20:00:02Z
   Total Products: 80
 - [All Products (ChatGPT-AI Product Description)](https://thaiblessingco.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-31T02:45:58Z
-  Total Products: 4332
+  Updated: 2026-01-04T19:08:44Z
+  Total Products: 4331
 - [Partner Products](https://thaiblessingco.com/collections/partner-products)
   Updated: 2025-12-25T04:17:07Z
   Total Products: 0
