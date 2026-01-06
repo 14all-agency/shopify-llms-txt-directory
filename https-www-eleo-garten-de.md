@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-01-06T12:00:26.634Z
+- Updated At: 2026-01-06T16:00:28.669Z
 
 ## Products
 
@@ -3059,10 +3059,10 @@
   Updated: 2026-01-02T12:07:31Z
   Total Products: 9
 - [Metall Rankgitter jetzt online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallrankgitter): Rankgitter für Ihre Hauswand ✓ massives Metall ✓ langlebig ✓ dekorativ ✓ verschiedene Beschichtungen ✓ inkl. Wandhalterung ➤ Jetzt bestellen!
-  Updated: 2025-12-02T05:46:50Z
+  Updated: 2026-01-06T12:08:25Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-01-05T12:08:09Z
+  Updated: 2026-01-06T12:08:25Z
   Total Products: 107
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
   Updated: 2025-12-18T12:10:55Z
@@ -3074,7 +3074,7 @@
   Updated: 2026-01-02T06:49:31Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-01-05T12:08:09Z
+  Updated: 2026-01-06T12:08:25Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2025-12-18T12:10:55Z
