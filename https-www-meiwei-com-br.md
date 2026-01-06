@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-06T12:01:09.356Z
+- Updated At: 2026-01-06T16:01:08.563Z
 
 ## Products
 
@@ -393,7 +393,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Designsemnome.jpg?v=1668601169
   Price: R$ 39,90 BRL
 - [Chá De Crisântemo - Zhongshan 100g](https://www.meiwei.com.br/products/cha-de-crisantemo-importado-zhongshan-100g): O crisântemo é uma erva tradicional chinesa, maravilhosa que é comumente utilizada na culinária asiática. É normalmente utilizada para fazer chás, mas também pode ser consumido cru ou cozido em sopas. 100% natural, preservado em sua forma seca e pode ser armazenado por um longo tempo. INGREDIENTES: Crisântemo seco Manter em local seco e fresco, longe da luz solar direta. Origem: China Contém 100g
-  Updated: 2025-12-23T17:34:41Z
+  Updated: 2026-01-06T12:03:13Z
   Vendor: Zheng Feng Brand
   Product Type: Chá
   Availability: Available
@@ -1517,7 +1517,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/47e300be36d0818e2bb3507d32156ad8.png?v=1678964826
   Price: R$ 16,90 BRL
 - [Suco Chinês de Aloe Vera - Jianqiao 500ml](https://www.meiwei.com.br/products/suco-chines-de-aloe-vera-jianqiao-500ml): Deliciosa bebida a base de suco de aloe vera pronto para consumo. Pode ser consumida em temperatura ambiente ou gelada. INGREDIENTES: Água, gelatina de aloe vera, xarope de frutose, açúcar branco, lactato de cálcio, aditivo alimentar, goma de gelana, carboximetilcelulose de sódio, malto dextrina, citrato de sódio, vitamina C, sorbato de potássio, D-Eritorbato de Sódio, sabor alimentar. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO E DERIVADOS INFORMAÇÃO NUTRICIONAL Porção de 100 ml Quantidade por Porção %VD(*) Valor Energético 155 Kj 2% Proteínas 0 g 0% Gorduras Totais 0 g 0% Carboidratos 9,1 g 3% Sódio 13 mg 1% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Conservar em local seco e arejado. Origem: China
-  Updated: 2026-01-05T12:14:47Z
+  Updated: 2026-01-06T14:15:37Z
   Vendor: Jianqiao
   Product Type: Bebida
   Availability: Available
@@ -3477,7 +3477,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/7c54a26ffe7f47395251b90bccc6d815.jpg?v=1698858694
   Price: R$ 19,99 BRL
 - [Chá Oolong (menos açúcar) - Suntory 500ml](https://www.meiwei.com.br/products/cha-oolong-menos-acucar-suntory-500ml): Chá Oolong (menos açúcar) é uma versão equilibrada do tradicional chá Oolong, que preserva seu sabor complexo e notas tostadas, mas com uma doçura sutil e reduzida. Ideal para quem busca apreciar a sofisticação do oolong de forma mais leve, sem abrir mão de seu perfil aromático e revigorante. INGREDIENTES: Água (90%), Açúcar, Folhas de Chá Oolong (5%), Aditivos Alimentares (Antioxidante (E300), Regulador de Acidez (E500)), Chá Oolong em Pó (3%). INFORMAÇÕES NUTRICIONAISPorção de 100ml Valor Calórico 8kcal 0% Carboidratos 2g 1% Açúcares totais 2g * Proteínas 0g 0% Gorduras totais 0g 0% Sódio 4g 1% Armazenar em local seco e fresco, evitando luz solar direta. Origem: China Contem 500ml
-  Updated: 2025-12-06T15:37:36Z
+  Updated: 2026-01-06T14:15:47Z
   Vendor: Suntory
   Product Type: Chá
   Availability: Available
@@ -6515,14 +6515,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-chocolate-branco.jpg?v=1729086075
   Price: R$ 18,13 BRL
 - [Biscoito palito sabor chocolate Pokémon 52g](https://www.meiwei.com.br/products/biscoito-palito-sabor-chocolate-pokemon-52g): O biscoito palito sabor chocolate Pokémon combina a crocância de um biscoito fino com uma deliciosa cobertura de chocolate ao leite, oferecendo um lanche divertido e saboroso. Inspirado na franquia Pokémon, é perfeito para fãs de todas as idades, trazendo um toque doce e indulgente ao dia a dia. Ideal para lanches rápidos ou sobremesas, proporciona uma experiência deliciosa com o equilíbrio perfeito entre a crocância do biscoito e o sabor intenso do chocolate. INGREDIENTES: Farinha de trigo, açúcar, manteiga de cacau, óleo vegetal, cacau em pó, leite em pó, xarope de maltose, soro de leite em pó, aditivos alimentares, bicarbonato de amonio, lecitina de soja, sal, sabores alimentares. CONTÉM GLÚTEN Conservar em local seco e arejado. Origem: China Contém 52g
-  Updated: 2025-12-30T10:37:23Z
+  Updated: 2026-01-06T14:15:33Z
   Vendor: Lotte
   Product Type: Doce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-chocolate-palitos.jpg?v=1729086786
   Price: R$ 21,50 BRL
 - [Biscoito ao leite recheado sabor morango Pokémon 52g](https://www.meiwei.com.br/products/biscoito-ao-leite-recheado-sabor-morango-pokemon-52g): O biscoito ao leite recheado sabor morango Pokémon é um lanche irresistível que combina a suavidade de um biscoito ao leite com um recheio cremoso de morango. Com a temática divertida dos personagens Pokémon, esse biscoito é ideal para crianças e adultos que adoram um toque frutado e doce. Perfeito para lanches rápidos ou sobremesas, ele oferece uma experiência saborosa com o equilíbrio entre a cremosidade do recheio de morango e a leveza do biscoito. INGREDIENTES: Farinha de trigo, açúcar, óleo vegetal, leite em pó, soro de leite, morango em pó, sal, sabor alimentar, aditivos alimentares. CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2055kJ 24% Carboidratos totais 69,5g 23% Proteínas 6,1g 10% Gorduras totais 20,8g 35% Sódio 120mg 6% Conservar em local seco e arejado. Origem: China Contém 52g
-  Updated: 2025-12-06T15:39:11Z
+  Updated: 2026-01-06T14:15:33Z
   Vendor: Lotte
   Product Type: Doce
   Availability: Available
@@ -8265,7 +8265,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-leite-uva-jasmim.jpg?v=1738177396
   Price: R$ 24,99 BRL
 - [Chá de leite sabor original - Uni President 450ml](https://www.meiwei.com.br/products/cha-de-leite-sabor-original-uni-president-450ml): Clássico e reconfortante, o chá de leite sabor original traz a combinação perfeita entre a suavidade do leite e a riqueza do chá preto. Cremoso e equilibrado, é ideal para qualquer momento do dia, é escolha perfeita para quem aprecia um sabor tradicional e aconchegante! INGREDIENTES: Água, Açúcar, Creme Não Lácteo (Xarope de Glicose, Óleo de Palma Hidrogenado, Caseinato de Sódio (Leite), Leite em Pó, Estabilizador [E340{ii}], Emulsionante [E471], Antiaglomerante [E551], Regulador de Acidez [E331], Estabilizador [E452i, Emulsionante [E472e], Leite em Pó Desnatado [1,6%]), Chá Preto (0,7%), Aromatizante, Emulsionante (E471, E472e), Regulador de Acidez (E500 [ii]), Estabilizador (E451[i]), Regulador de Acidez (E331), Antioxidante (E300). Agite bem antes de beber e beba imediatamente após abrir. Origem: China Contém 450ml
-  Updated: 2025-12-23T17:34:00Z
+  Updated: 2026-01-06T14:15:46Z
   Vendor: Uni President
   Product Type: Bebida
   Availability: Available
@@ -10617,7 +10617,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-ameixa.jpg?v=1752167745
   Price: R$ 31,03 BRL
 - [Bala de casca de laranja - Hongyuan 355g](https://www.meiwei.com.br/products/bala-de-casca-de-laranja-hongyuan-355g): Feita com extrato de casca de laranja, essa bala traz um sabor cítrico mais profundo, com leve amargor natural e aroma intenso. Ideal para quem gosta de doces diferenciados, refrescantes e com um toque sofisticado. INGREDIENTES: açúcar branco, xarope de glicose, pó de casca de laranja (pasta) > 2,5%, aditivos alimentares de óleo vegetal (ácido cítrico), sal comestível, aromas e especiarias comestíveis. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1675kJ 20% Proteína 1g 2% Gorduras Totais 2g 3% Carboidratos 93,2g 31% Sódio 648mg 32% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 355g
-  Updated: 2025-12-23T17:34:28Z
+  Updated: 2026-01-06T13:26:04Z
   Vendor: Hongyuan
   Product Type: Bala
   Availability: Available
@@ -14281,7 +14281,7 @@
 ## Collections
 
 - [Molho de Pimenta](https://www.meiwei.com.br/collections/molho-de-pimenta)
-  Updated: 2026-01-06T10:34:38Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 115
 - [Produtos Vegetarianos](https://www.meiwei.com.br/collections/produtos-vegetarianos)
   Updated: 2025-12-23T17:56:31Z
@@ -14293,13 +14293,13 @@
   Updated: 2025-12-23T17:58:58Z
   Total Products: 21
 - [Bebida Alcóolica](https://www.meiwei.com.br/collections/bebida-alcoolica)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 230
 - [Chá Funcional](https://www.meiwei.com.br/collections/cha-funcional)
   Updated: 2025-12-28T15:09:18Z
   Total Products: 11
 - [Chá](https://www.meiwei.com.br/collections/cha)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 297
 - [Conserva](https://www.meiwei.com.br/collections/conserva)
   Updated: 2026-01-05T18:38:14Z
@@ -14311,22 +14311,22 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-01-06T10:35:38Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 1522
 - [Molho](https://www.meiwei.com.br/collections/molho)
-  Updated: 2026-01-06T10:35:38Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 544
 - [Molho de Ostra](https://www.meiwei.com.br/collections/molho-de-ostra)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 63
 - [Outro Molho](https://www.meiwei.com.br/collections/outro-molho)
   Updated: 2026-01-06T10:35:38Z
   Total Products: 243
 - [Massa](https://www.meiwei.com.br/collections/massa)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 193
 - [Massa de Arroz](https://www.meiwei.com.br/collections/massa-de-arroz)
-  Updated: 2025-12-29T10:29:44Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 31
 - [Tamarindo](https://www.meiwei.com.br/collections/tamarindo)
   Updated: 2026-01-04T10:55:48Z
@@ -14338,10 +14338,10 @@
   Updated: 2026-01-05T12:02:13Z
   Total Products: 19
 - [Doce](https://www.meiwei.com.br/collections/doce)
-  Updated: 2026-01-06T10:34:17Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 700
 - [Bala](https://www.meiwei.com.br/collections/bala)
-  Updated: 2026-01-06T10:34:17Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 305
 - [Molho Vegetariano](https://www.meiwei.com.br/collections/molho-de-pimenta-vegetariano)
   Updated: 2026-01-04T12:03:30Z
@@ -14356,7 +14356,7 @@
   Updated: 2025-12-23T17:58:42Z
   Total Products: 9
 - [Tempero para Aves](https://www.meiwei.com.br/collections/tempero-para-frango)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 159
 - [Farinha & Grão](https://www.meiwei.com.br/collections/farinha-grao)
   Updated: 2026-01-05T12:02:13Z
@@ -14368,19 +14368,19 @@
   Updated: 2026-01-04T12:03:30Z
   Total Products: 22
 - [Shoyu - Molho de Soja](https://www.meiwei.com.br/collections/shoyu-molho-de-soja)
-  Updated: 2026-01-06T10:33:53Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 161
 - [Alga](https://www.meiwei.com.br/collections/alga)
   Updated: 2026-01-04T12:03:30Z
   Total Products: 43
 - [Desidratado](https://www.meiwei.com.br/collections/desidratado)
-  Updated: 2026-01-06T10:36:08Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 306
 - [Óleo de Cozinha](https://www.meiwei.com.br/collections/oleo-de-cozinha)
   Updated: 2025-12-06T16:08:11Z
   Total Products: 0
 - [Vinho de Arroz](https://www.meiwei.com.br/collections/vinho-de-arroz)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 60
 - [Pimenta Seca](https://www.meiwei.com.br/collections/pimenta-seca)
   Updated: 2025-12-06T16:08:11Z
@@ -14404,7 +14404,7 @@
   Updated: 2026-01-05T17:33:44Z
   Total Products: 60
 - [Bebida Não Alcóolica](https://www.meiwei.com.br/collections/bebida-nao-alcoolica)
-  Updated: 2026-01-05T17:33:44Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 370
 - [Bebida Não Alcóolica Vegetariana](https://www.meiwei.com.br/collections/bebida-nao-alcoolica-vegetariana)
   Updated: 2025-12-06T16:08:12Z
@@ -14425,7 +14425,7 @@
   Updated: 2025-12-23T17:54:23Z
   Total Products: 2
 - [Produtos Sem Glúten](https://www.meiwei.com.br/collections/produtos-sem-gluten)
-  Updated: 2026-01-06T10:34:38Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 240
 - [Conserva Sem Glúten](https://www.meiwei.com.br/collections/conserva-sem-gluten)
   Updated: 2025-12-23T17:58:22Z
@@ -14446,13 +14446,13 @@
   Updated: 2025-12-06T16:08:13Z
   Total Products: 0
 - [Massa Sem Glúten](https://www.meiwei.com.br/collections/massa-sem-gluten)
-  Updated: 2026-01-06T10:34:38Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 240
 - [Molho Sem Glúten](https://www.meiwei.com.br/collections/molho-1)
   Updated: 2026-01-06T10:34:38Z
   Total Products: 40
 - [Yakissoba](https://www.meiwei.com.br/collections/yakissoba)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 200
 - [Lamen](https://www.meiwei.com.br/collections/lamen)
   Updated: 2026-01-05T12:02:13Z
@@ -14461,7 +14461,7 @@
   Updated: 2025-12-28T15:43:50Z
   Total Products: 17
 - [Hofen](https://www.meiwei.com.br/collections/hofen)
-  Updated: 2025-12-23T17:56:47Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 4
 - [Molho de Peixe](https://www.meiwei.com.br/collections/molho-de-peixe)
   Updated: 2025-12-29T12:02:25Z
@@ -14476,7 +14476,7 @@
   Updated: 2025-12-23T17:55:46Z
   Total Products: 3
 - [Base de Hot Pot](https://www.meiwei.com.br/collections/base-de-hot-pot)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 81
 - [Tempero Estilo Tailandês](https://www.meiwei.com.br/collections/tempero-estilo-tailandes)
   Updated: 2025-12-06T16:08:13Z
@@ -14488,13 +14488,13 @@
   Updated: 2026-01-03T12:02:46Z
   Total Products: 50
 - [Outro Condimento e Tempero](https://www.meiwei.com.br/collections/outro-condimento-tempero)
-  Updated: 2026-01-06T10:34:39Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 98
 - [Tempero para Carne](https://www.meiwei.com.br/collections/tempero-para-carne)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 148
 - [Tempero para Porco](https://www.meiwei.com.br/collections/tempero-para-porco)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 137
 - [Especiaria](https://www.meiwei.com.br/collections/especiaria)
   Updated: 2025-12-23T17:57:02Z
@@ -14536,7 +14536,7 @@
   Updated: 2025-12-28T15:43:50Z
   Total Products: 17
 - [Macarrão de Trigo](https://www.meiwei.com.br/collections/macarrao-de-trigo)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 64
 - [Macarrão Yakisoba](https://www.meiwei.com.br/collections/macarrao-yakisoba)
   Updated: 2025-12-29T12:02:25Z
@@ -14554,7 +14554,7 @@
   Updated: 2025-12-23T17:58:13Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-01-06T10:36:08Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 2245
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
@@ -14566,7 +14566,7 @@
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-01-06T10:34:17Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 816
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
   Updated: 2025-12-31T12:02:57Z
@@ -14578,34 +14578,34 @@
   Updated: 2026-01-06T10:34:03Z
   Total Products: 17
 - [Bebida](https://www.meiwei.com.br/collections/bebida)
-  Updated: 2026-01-05T17:33:44Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 458
 - [Licor](https://www.meiwei.com.br/collections/licor)
   Updated: 2025-12-26T12:01:52Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-01-06T10:36:08Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 3701
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 638
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-01-06T10:36:08Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 3065
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-01-06T10:36:08Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 3701
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-01-06T10:36:08Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 2035
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 103
 - [Promoção (特惠促销）](https://www.meiwei.com.br/collections/promocao): Mei Wei: ofertas especiais em molhos, temperos e snacks asiáticos autênticos. Promoções exclusivas com entrega para todo o Brasil. Confira!
-  Updated: 2026-01-05T12:02:13Z
+  Updated: 2026-01-06T12:03:15Z
   Total Products: 9
 - [Lee Kum Kee](https://www.meiwei.com.br/collections/lee-kum-kee)
-  Updated: 2026-01-06T10:33:53Z
+  Updated: 2026-01-06T12:03:14Z
   Total Products: 71
 
 ## Blogs
