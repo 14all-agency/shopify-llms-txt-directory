@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2026-01-06T16:00:38.327Z
+- Updated At: 2026-01-06T20:00:35.151Z
 
 ## Products
 
@@ -779,7 +779,7 @@
     Availability: Available
     Price: £39.95 GBP
 - [Vans Spicoli 4 Shades Sunglasses | Black](https://thevinessupply.co/products/vans-spicoli-4-shades-sunglasses-black-1): Buy the Vans Spicoli 4 Shades Sunglasses in Black at The Vines Skate Shop. Shop Vans sunglasses with fast, free delivery and easy returns.
-  Updated: 2026-01-04T16:32:26Z
+  Updated: 2026-01-06T19:33:07Z
   Vendor: Vans
   Product Type: Sunglasses
   Availability: Available
@@ -8193,6 +8193,10 @@
     Author: Paul Vale
   - [Heard It On The Great Vines | Skateboarding News | 17.11.25](https://thevinessupply.co/blogs/thevinessupplyco/heard-it-on-the-great-vines-skateboarding-news-171125): Heard It On The Great Vines | Skateboarding News | 17.11.25
     Updated: 2025-11-17T13:41:11Z
+    Author: Connor Upton
+    Tags: Heard It On The Great Vines
+  - [Heard It On The Great Vines | Skateboarding News |  December 2025](https://thevinessupply.co/blogs/thevinessupplyco/heard-it-on-the-great-vines-skateboarding-news-december-2025): Heard It On The Great Vines | Skateboarding News |  December 2025
+    Updated: 2026-01-06T18:15:45Z
     Author: Connor Upton
     Tags: Heard It On The Great Vines
 - [The Vines Skateboard Events](https://thevinessupply.co/blogs/the-vines-skateboard-events): Skateboard events in Birmingham, Solihull and the West Midlands. Check out our latest skate events, skate jams, skate contests and more.
