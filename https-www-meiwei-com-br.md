@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-06T16:01:08.563Z
+- Updated At: 2026-01-06T19:19:00.938Z
 
 ## Products
 
@@ -1265,7 +1265,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/76a539c87cb17fa04b06e8851d9f4153.png?v=1674830069
   Price: R$ 48,00 BRL
 - [Baijiu Chinês Red Star Erguotou 500ml - 红星二锅头 纯粮清香型白酒](https://www.meiwei.com.br/products/vinho-chines-er-wo-tou-estrela-vermelha-hong-xing-500ml): O Red Star Erguotou 52% 红星二锅头 纯粮清香型白酒 é um dos baijius mais tradicionais da China e um ícone de Pequim. Produzido com grãos selecionados e destilação em pot still, ele pertence ao estilo “qīngxiāng” (清香型) – aroma leve e limpo. Origem: Pequim, China Marca: 红星 (Red Star), uma das destilarias mais famosas e antigas da capital Teor alcoólico: 52% vol Tipo: Baijiu (destilado chinês de grãos) Perfil sensorial: aroma nítido de grãos e leve toque floral sabor seco, intenso e quente, com final longo ideal para ser apreciado em shots, em temperatura ambiente ou levemente resfriado Perfeito para: harmonizar com churrascos, comida chinesa gordurosa ou bem temperada usar em drinks de autor com inspiração asiática colecionadores e curiosos do mundo dos destilados tradicionais. Lista de ingredientes Água Sorgo Trigo e/ou cevada* Ervilha* Leveduras e culturas microbianas para fermentação Tabela nutricional Informação nutricional Por porção 50 ml % VD* Valor energético 345 kcal (1445 kJ) 17% Carboidratos 0 g 0% Proteínas 0 g 0% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 0 mg 0% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Sugestão de receita usando o produto Drink “Baijiu Citrus Highball” Ingredientes (1 drink): 50 ml de Red Star Erguotou 52% 120–150 ml de água com gás bem gelada 20 ml de suco de limão‑siciliano ou tahiti 10–15 ml de xarope de açúcar (a gosto) Gelo em cubos 1 fatia de limão para decorar Modo de preparo: Encha um copo alto com gelo. Adicione o baijiu, o suco de limão e o xarope. Complete com água com gás e mexa suavemente. Decore com a fatia de limão e sirva imediatamente. Drink refrescante que suaviza a potência do baijiu, ótimo para introduzir o destilado a quem não conhece. Como armazenar Conservar em local fresco, seco e ao abrigo da luz solar direta. Manter a garrafa bem fechada quando não estiver em uso. Após aberto, não necessita refrigeração, mas conservar em posição vertical e consumir preferencialmente em até 12 meses para melhor qualidade aromática. Mantenha fora do alcance de crianças.
-  Updated: 2025-12-11T08:58:36Z
+  Updated: 2026-01-06T17:20:51Z
   Vendor: Estrela Vermelha
   Product Type: Bebida Alcóolica
   Availability: Available
