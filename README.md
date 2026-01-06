@@ -28,8 +28,9 @@ This repository contains the llms.txt file contents of Shopify stores that have 
 
 ## Disclaimer
 
-This directory is provided for informational and research purposes only.  
-Inclusion in this list does **not** imply endorsement of any store or its content.
+- This directory is provided for informational and research purposes only.  
+- Inclusion in this list does **not** imply endorsement of any store or its content.
+- We may censor words or links, or remove files, we deem objectionable or at risk of violating GitHub or Shopify's Terms of Service. 
 
 ---
 
