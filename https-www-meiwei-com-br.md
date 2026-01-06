@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-01-06T19:19:00.938Z
+- Updated At: 2026-01-06T20:01:00.518Z
 
 ## Products
 
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/molho-ostra-680g-lkk.png?v=1664212175
   Price: R$ 43,90 BRL
 - [Vinho de Arroz Lao Cai Chen（老才臣料酒）-500ml](https://www.meiwei.com.br/products/vinho-de-arroz-culinario-chines-lao-cai-chen-500ml): Vinho de Arroz Culinário Chinês Lao Cai Chen - 500ml O vinho de arroz culinário chinês Lao Cai Chen é feito com especiarias selecionadas que torna seu sabor puro e um condimento ideal para cozinhar, temperar, refogar, estufar frango, pato, preparo de peixes, etc. Teor alcoólico: 10% INGREDIENTES: Água, álcool comestível, vinho de arroz, sal, especiarias (anis estrelado, canela, pimenta sichuan, cominho, amomum), ácido glutâmico, sódio, cor caramelo. Manter em ambiente seco e arejado.
-  Updated: 2025-12-29T19:42:20Z
+  Updated: 2026-01-06T19:37:18Z
   Vendor: Lao Cai Chen
   Product Type: Bebida Alcóolica
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-shoyu-molho-de-soja-escuro-haitian-classic-500ml.png?v=1766339486
   Price: R$ 39,90 BRL
 - [Shoyu Molho de soja Delicioso (海天酱油鲜味生抽) - Haday 500ml](https://www.meiwei.com.br/products/haday-soy-sauce-classic-delicious-light-soy-sauce-foshanshi-500ml): Haday Molho de Soja Saboroso INGREDIENTES: Água, soja não-OGM, sal, trigo, glutamato de sódio (INS621), farinha de trigo, nucleotideo dissódico 5, ácido 5´- inosínico dissódico(INS631), cor de caramelo(INS150a), benzoato de sódio (INS211). CONTÉM GLÚTEN ALÉRGICOS: CONTÉM DERIVADO DE TRIGO E SOJA. Manter armazenado a temperatura ambiente, após aberto manter sob refrigeração.
-  Updated: 2026-01-03T19:29:03Z
+  Updated: 2026-01-06T19:37:14Z
   Vendor: Haday
   Product Type: Molho de Soja
   Availability: Available
@@ -855,7 +855,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/ad29fc741b52ec15386c0c7d45c88207.jpg?v=1669227493
   Price: R$ 27,99 BRL
 - [Caldo de Galinha Chinês em Pó - Totole 1kg](https://www.meiwei.com.br/products/caldo-de-galinha-chines-em-po-totole-1kg): Desvende o segredo por trás do sabor autêntico do caldo de galinha chinês em pó Totole e transforme suas refeições em verdadeiras obras-primas culinárias! Com sua fórmula tradicional e aroma irresistível, este tempero é indispensável na sua cozinha. Descubra como realçar o sabor dos seus pratos favoritos com apenas uma pitada deste ingrediente versátil e prático. De sopas reconfortantes a stir-fries cheios de sabor, o caldo de galinha chinês em pó Totole eleva o nível da sua culinária. Não perca mais tempo, adquira agora mesmo e experimente a diferença que um toque autêntico pode fazer! INGREDIENTES: Glutamato monossódico (INS621), sal, arroz, açúcar, carne de frango, aditivos alimentares (nucleotidio dissódico 5, riboflavina (INS101i), ovo líquido, curry em pó, cebola, alho. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE OVO INFORMAÇÃO NUTRICIONAL Porção de 5g (1 colher de chá) Quantidade por Porção %VD(*) Valor Energético 47 Kj 1% Proteínas 1,1 g 2% Gorduras Totais 0,2 g 0% Carboidratos 1,2 g 0% Sódio 1000 mg 50% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China Contém 1kg
-  Updated: 2025-12-06T15:36:01Z
+  Updated: 2026-01-06T19:26:37Z
   Vendor: Totole
   Product Type: Tempero
   Availability: Available
@@ -4324,7 +4324,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/amido-trigo-450.jpg?v=1720716568
   Price: R$ 42,99 BRL
 - [Tempero essência de frango granulado - Shuangqiao 900g](https://www.meiwei.com.br/products/tempero-de-essencia-de-frango-granulado-shuangqiao-900g): Mais fresco, mais puro e mais saudável, utilizado no preparo de massas e recheios. INGREDIENTES: Glutamato de sódio, sal comestível, amido, açúcar branco, sabor comestível, molho sabor frango (frango, sal comestível, água, glutamato de sódio, açúcar branco, amido, sabor alimentar, glicose, 5 nucleotídeo dissódico, sorbato de potássio), maltodextrina, nucleotídeo 5'-verde dissódico, sebo de frango, hidroxianisol butilado, ácido propil gálico (Ésteres), especiarias. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE TRIGO CONTÉM AROMATIZANTES SINTÉTICOS INFORMAÇÕES NUTRICIONAISPorção de 5g (1 colher de chá) Valor Calórico 11kcal 0% Carboidratos totais 1g 0% Proteínas 1g 2% Gorduras totais 0g 0% Sódio 901mg 45% Manter em local seco e fresco Origem: China Contém 900g
-  Updated: 2025-12-06T15:38:02Z
+  Updated: 2026-01-06T19:37:13Z
   Vendor: Shuangqiao
   Product Type: Tempero
   Availability: Available
