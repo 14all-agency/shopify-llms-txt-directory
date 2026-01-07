@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-31T00:00:39.457Z
+- Updated At: 2026-01-07T00:00:40.054Z
 
 ## Products
 
@@ -55,12 +55,12 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.894,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-11-14T14:43:56Z
+  Updated: 2026-01-06T06:01:12Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_450_front_flame.webp?v=1753873598
-  Price: 1.485,00 € EUR
+  Price: 1.385,00 € EUR
 - [Ethanol Wandkamin schwarz kaufen☝hier günstig im Shop](https://www.pelios.de/products/nevada-bio-wandkamin): Ethanol Wandkamin schwarz ★ Bio-Ethanol-Wandkamin mit Glas Frontscheibe ✓ Brenndauer von bis zu 6 Stunden ✓ Wärmeleistung 2,2 kW ✓ von ScandiFlames
   Updated: 2025-11-09T12:18:49Z
   Vendor: ScandiFlames
@@ -264,7 +264,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-12-10T12:35:53Z
+  Updated: 2026-01-06T06:01:13Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-11-11T15:58:21Z
@@ -291,7 +291,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [bis 150 qm](https://www.pelios.de/collections/bis-150-qm)
-  Updated: 2025-11-14T14:43:57Z
+  Updated: 2026-01-06T06:01:13Z
   Total Products: 2
 - [bis 200 qm](https://www.pelios.de/collections/bis-200-qm)
   Updated: 2025-12-10T12:35:53Z
@@ -309,7 +309,7 @@
   Updated: 2025-11-20T18:39:54Z
   Total Products: 14
 - [ohne Strom](https://www.pelios.de/collections/ohne-strom)
-  Updated: 2025-12-10T12:35:53Z
+  Updated: 2026-01-06T06:01:13Z
   Total Products: 11
 - [Infrarot](https://www.pelios.de/collections/infrarot)
   Updated: 2025-11-11T15:58:22Z
@@ -456,6 +456,26 @@
     Updated: 2025-12-30T04:59:02Z
     Author: Marek Stein
     Tags: pelletofen mit kanalisierung
+  - [Elektrokamin Wandmontage 213 cm mit Thermostat: Schritt‑für‑Schritt‑Installation und Tipps](https://www.pelios.de/blogs/news/elektrokamin-wandmontage-213-cm-mit-thermostat-schritt-fur-schritt-installation-und-tipps)
+    Updated: 2025-12-31T00:53:04Z
+    Author: Marek Stein
+    Tags: elektrokamin wandmontage 213 cm mit thermostat
+  - [Infrarot Terrassenheizer mit WiFi und Fernbedienung: Die Top 6 Modelle im Überblick](https://www.pelios.de/blogs/news/infrarot-terrassenheizer-mit-wifi-und-fernbedienung-die-top-6-modelle-im-uberblick)
+    Updated: 2026-01-01T01:11:18Z
+    Author: Marek Stein
+    Tags: infrarot terrassenheizer mit wifi und fernbedienung
+  - [kaminofen raumteiler doppelseitig modern stahl: Der umfassende Leitfaden für Design, Installation und Pflege](https://www.pelios.de/blogs/news/kaminofen-raumteiler-doppelseitig-modern-stahl-der-umfassende-leitfaden-fur-design-installation-und-pflege)
+    Updated: 2026-01-02T00:57:05Z
+    Author: Marek Stein
+    Tags: kaminofen raumteiler doppelseitig modern stahl
+  - [Elektrokamin mit Wasserdampf 3D Flamme Einbau: Schritt-für-Schritt Anleitung für Installation & Wartung](https://www.pelios.de/blogs/news/elektrokamin-mit-wasserdampf-3d-flamme-einbau-schritt-fur-schritt-anleitung-fur-installation-wartung)
+    Updated: 2026-01-03T00:30:30Z
+    Author: Marek Stein
+    Tags: elektrokamin mit wasserdampf 3d flamme einbau
+  - [Bioethanol Kamin mit Wärmeleistung ohne Rauch – Praxisnahes Handbuch](https://www.pelios.de/blogs/news/bioethanol-kamin-mit-warmeleistung-ohne-rauch-praxisnahes-handbuch)
+    Updated: 2026-01-04T01:02:39Z
+    Author: Marek Stein
+    Tags: bioethanol kamin mit wärmeleistung ohne rauch
 
 ## Store Pages
 
