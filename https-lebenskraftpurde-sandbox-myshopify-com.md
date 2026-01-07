@@ -137,7 +137,7 @@ Contact and Engagement
 - [Newsletter](https://www.lebenskraftpur.de/pages/lebenskraftpur-newsletter): Sign up for updates and news from Lebenskraftpur.
 - [Meldebogen Produkterfahrungen](https://forms.gle/x6UY1oVm2iuwwRSk6): Share your product experiences.
 - [Webinare](https://webinar.lebenskraftpur.de/): Information on upcoming webinars.
-- [Affiliate werden](https://www.lebenskraftpur.de/pages/affiliate-werden): Join the affiliate program.
+- [ werden](https://www.lebenskraftpur.de/pages/-werden): Join the  program.
 - [Händler werden](https://www.lebenskraftpur.de/pages/haendler-werden): Information for potential retailers.
 - [Karriere](https://lebenskraftpur.recruitee.com/): Career opportunities at Lebenskraftpur.
 - [Presse](https://www.lebenskraftpur.de/pages/presse): Press inquiries and media resources.
