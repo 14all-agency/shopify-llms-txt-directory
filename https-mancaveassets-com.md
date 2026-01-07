@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2025-12-24T00:00:29.241Z
+- Updated At: 2026-01-07T00:00:36.556Z
 
 ## Products
 
@@ -176,7 +176,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/FNCTIiv4JXW1H9d.webp?v=1739264049
   Price: $149.99 USD
-- [Luxury Down Jacket Phone Case](https://mancaveassets.com/products/luxury-down-jacket-phone-case): Wrap Your Phone in Cozy Elegance with a Luxury Down Jacket CaseIndulge your phone in the ultimate combination of style and protection. Our luxury down jacket phone case wraps your device in a plush, padded layer that feels as good as it looks, ensuring it stays safe from bumps and scratches while turning heads with its sophisticated design.Experience Unmatched Protection and Chic Comfort for Your PhoneElevate your phone's security with a case that's as fashionable as it is functional. The luxury down jacket phone case provides superior cushioning, absorbing impacts effortlessly while its sleek, quilted exterior adds a touch of chic comfort to your everyday carry.Transform Your Phone into a Fashion Statement with a Down Jacket CaseMake a bold style statement with every call and text. Our luxury down jacket phone case transforms your device into a fashionable accessory, seamlessly blending high-end fashion with practical protection. It's the perfect blend of luxury and utility for those who want their phone to stand out.Give Your Phone the VIP Treatment with a Luxury Down Jacket CasePamper your phone with the VIP treatment it deserves. This premium down jacket case envelops your device in a layer of luxurious down, providing both exceptional protection and a tactile experience that's second to none. Your phone will thank you for the stylish and secure upgrade.
+- [Luxury Down Jacket Phone Case](https://mancaveassets.com/products/luxury-down-jacket-phone-case): Wrap Your Phone in Cozy Elegance with a Luxury Down Jacket CaseIndulge your phone in the ultimate combination of style and protection. Our luxury down jacket phone case wraps your device in a plush, padded layer that feels as good as it looks, ensuring it stays safe from bumps and scratches while turning heads with its sophisticated design.Experience Unmatched Protection and Chic Comfort for Your PhoneElevate your phone's security with a case that's as fashionable as it is functional. The luxury down jacket phone case provides superior cushioning, absorbing impacts effortlessly while its sleek, quilted exterior adds a touch of chic comfort to your everyday carry.Transform Your Phone into a Fashion Statement with a Down Jacket CaseMake a bold style statement with every call and text. Our luxury down jacket phone case transforms your device into a fashionable accessory, seamlessly blending high-end fashion with practical protection. It's the perfect blend of luxury and utility for those who want their phone to stand out.Give Your Phone the VIP  with a Luxury Down Jacket CasePamper your phone with the VIP  it deserves. This premium down jacket case envelops your device in a layer of luxurious down, providing both exceptional protection and a tactile experience that's second to none. Your phone will thank you for the stylish and secure upgrade.
   Updated: 2025-12-02T10:54:40Z
   Vendor: Man Cave Assets
   Product Type: 
@@ -1443,7 +1443,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Freedom Sound Earbuds](https://mancaveassets.com/products/freedom-sound-earbuds): Experience seamless, wireless audio wherever you go.
-  Updated: 2025-07-27T05:11:03Z
+  Updated: 2026-01-06T04:35:17Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1698,7 +1698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_719_1744785521293-91044208-6856859-80662142_0.jpg?v=1744785605
   Price: $759.99 USD
 - [Cigar Oasis Humidor Cabinet](https://mancaveassets.com/products/cigar-oasis-humidor-cabinet): Preserve your cigars' flavor and longevity with optimal temperature and humidity control.
-  Updated: 2025-07-27T05:11:11Z
+  Updated: 2025-12-28T00:50:39Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1719,7 +1719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_120_1744786340995-58116453-26048821-37106278_0.jpg?v=1744786417
   Price: $89.99 USD
 - [Smart Cigar Cooling Cabinet](https://mancaveassets.com/products/smart-cigar-cooling-cabinet): Enjoy perfectly preserved cigars with advanced cooling technology that maintains freshness and flavor.
-  Updated: 2025-07-27T05:11:12Z
+  Updated: 2025-12-24T05:18:25Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1768,14 +1768,14 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_23_1745147137989-79760926-1087386-56736637_0.jpg?v=1745147230
   Price: $169.99 USD
 - [Cigar Keeper Deluxe Humidor](https://mancaveassets.com/products/cigar-keeper-deluxe-humidor): Keep cigars fresh and flavorful with precise humidity control and a tight-sealing door.
-  Updated: 2025-07-27T05:11:13Z
+  Updated: 2025-12-28T12:45:14Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_517_1745147382770-67278949-15880915-98348953_0.jpg?v=1745147470
   Price: $525.99 USD
 - [Elegant Cedar Cigar Sanctuary](https://mancaveassets.com/products/elegant-cedar-cigar-sanctuary): Effortlessly organize and preserve your cigars in perfect condition with precision humidity control and secure storage.
-  Updated: 2025-07-27T05:11:14Z
+  Updated: 2026-01-05T05:13:28Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -2140,7 +2140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_999_1745663673930-82402907-20674346-25556652_0.jpg?v=1745663742
   Price: $24.99 USD
 - [Calm Spin Serenity Ring](https://mancaveassets.com/products/calm-spin-serenity-ring): Relieve stress and find peace with a simple spin, anytime, anywhere.
-  Updated: 2025-07-27T05:11:22Z
+  Updated: 2026-01-05T07:30:27Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -2290,7 +2290,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Capture Magic Camcorder](https://mancaveassets.com/products/capture-magic-camcorder-1): Effortlessly create unforgettable memories with stunning clarity and ease.
-  Updated: 2025-07-27T05:11:23Z
+  Updated: 2026-01-04T11:13:02Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -2314,7 +2314,7 @@
     Availability: Available
     Price: $69.99 USD
 - [Chic Frost Hydration Bottle](https://mancaveassets.com/products/chic-frost-hydration-bottle): Stay stylishly refreshed while reducing spills and improving hydration on the go.
-  Updated: 2025-07-27T05:11:23Z
+  Updated: 2025-12-29T12:54:24Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -2368,7 +2368,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Chill Breeze Cooling Fan](https://mancaveassets.com/products/chill-breeze-cooling-fan): Stay cool and comfortable during hot days with a refreshing breeze that makes home life more enjoyable.
-  Updated: 2025-07-27T05:11:23Z
+  Updated: 2025-12-29T07:31:53Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -3591,8 +3591,8 @@
   Updated: 2025-07-27T05:10:29Z
   Total Products: 27
 - [Wallets](https://mancaveassets.com/collections/wallets)
-  Updated: 2025-12-20T11:42:01Z
-  Total Products: 54
+  Updated: 2026-01-04T23:00:16Z
+  Total Products: 56
 - [The destination for all things Bluetooth.](https://mancaveassets.com/collections/bluetooth-items-1): Step into the future with wireless audio solutions. Shop for Bluetooth speaker, headphones, smartwatches, and more. Explore the freedom of wireless living.
   Updated: 2025-11-15T01:07:32Z
   Total Products: 99
@@ -3656,7 +3656,7 @@
 - [Legendary Crew](https://mancaveassets.com/collections/legendary-crew): 90s Vintage T-shirts. Retro t shirt's mens. buy now.  Vintage 80s T-shirts Mens. Retro T-shirts from the 70s. Retro t-shirts sports. nostalgic shirts.
   Updated: 2025-08-18T00:18:20Z
   Total Products: 98
-- [Dragon Ball Collectibles.](https://mancaveassets.com/collections/dragon-ball-collectibles): Dragon Ball Z figurines, collectibles available for sale. Goku, Vegta, Gohan, Bulma, Cell, Freiza, and more DBZ are in this collection. Bandai Super Saiyan DBZ.
+- [Dragon Ball Collectibles.](https://mancaveassets.com/collections/dragon-ball-collectibles): Dragon Ball Z figurines, collectibles available for . Goku, Vegta, Gohan, Bulma, Cell, Freiza, and more DBZ are in this collection. Bandai Super Saiyan DBZ.
   Updated: 2025-09-13T10:29:46Z
   Total Products: 186
 - [Naruto Merch Has Arrived.](https://mancaveassets.com/collections/naruto-merch-has-arrived): Step Into The Hidden Leaf Village with our icredible selection of Naruto merchandise. Naruto Action Figures, Hoodies. Kids Naruto merch. Men Naruto merch.
@@ -3671,6 +3671,9 @@
 - [Video](https://mancaveassets.com/collections/video)
   Updated: 2025-11-15T01:07:32Z
   Total Products: 7
+- [Luggage & Bags](https://mancaveassets.com/collections/luggage-bags)
+  Updated: 2026-01-04T22:58:48Z
+  Total Products: 1
 
 ## Blogs
 
