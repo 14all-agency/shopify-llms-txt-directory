@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2024-01-17T06:20:01Z
 - Contact Email: raymondwildlife@gmail.com
-- Updated At: 2025-12-26T00:00:38.192Z
+- Updated At: 2026-01-07T00:00:39.213Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   - [Medium](https://raymondcoffee.online/products/example-t-shirt?variant=47935424168246)
     Availability: Not Available
     Price: ৳19.99 BDT
-- [The Scout Skincare Kit – Raymond Coffee](https://raymondcoffee.online/products/the-scout-skincare-kit): This is a demonstration store. You can purchase products like this from United By Blue. A collection of the best Ursa Major has to offer! "The Scout" kit contains travel sizes of their best selling skin care items including: Face Wash (2 fl oz) Shave Cream (2 fl oz) Face Balm (0.5 fl oz) 5 tonic-infused bamboo Face Wip
+- [The Scout Skincare Kit – Raymond Coffee](https://raymondcoffee.online/products/the-scout-skincare-kit): This is a demonstration store. You can purchase products like this from United By Blue. A collection of the best Ursa Major has to offer! "The Scout" kit contains travel sizes of their best  skin care items including: Face Wash (2 fl oz) Shave Cream (2 fl oz) Face Balm (0.5 fl oz) 5 tonic-infused bamboo Face Wip
   Updated: 2025-10-08T23:07:53Z
   Vendor: Ursa Major
   Product Type: Accessories
@@ -145,25 +145,25 @@
   - [Cream Melange / XL](https://raymondcoffee.online/products/chevron?variant=47972020715830)
     Availability: Not Available
     Price: ৳36.00 BDT
-- [Guaranteed – Raymond Coffee](https://raymondcoffee.online/products/guaranteed): This is a demonstration store. You can purchase products like this from United By Blue. 100% organic cotton, stone washed slub knit 6 oz jersey fabric Made in Ca
+- [ – Raymond Coffee](https://raymondcoffee.online/products/): This is a demonstration store. You can purchase products like this from United By Blue. 100% organic cotton, stone washed slub knit 6 oz jersey fabric Made in Ca
   Updated: 2025-10-28T08:01:28Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/guaranteed-925484.jpg?v=1722167991
-  - [Navy / XS](https://raymondcoffee.online/products/guaranteed?variant=47972020748598)
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/-925484.jpg?v=1722167991
+  - [Navy / XS](https://raymondcoffee.online/products/?variant=47972020748598)
     Availability: Not Available
     Price: ৳36.00 BDT
-  - [Navy / S](https://raymondcoffee.online/products/guaranteed?variant=47972020781366)
+  - [Navy / S](https://raymondcoffee.online/products/?variant=47972020781366)
     Availability: Available
     Price: ৳36.00 BDT
-  - [Navy / M](https://raymondcoffee.online/products/guaranteed?variant=47972020814134)
+  - [Navy / M](https://raymondcoffee.online/products/?variant=47972020814134)
     Availability: Not Available
     Price: ৳36.00 BDT
-  - [Navy / L](https://raymondcoffee.online/products/guaranteed?variant=47972020846902)
+  - [Navy / L](https://raymondcoffee.online/products/?variant=47972020846902)
     Availability: Not Available
     Price: ৳36.00 BDT
-  - [Navy / XL](https://raymondcoffee.online/products/guaranteed?variant=47972020879670)
+  - [Navy / XL](https://raymondcoffee.online/products/?variant=47972020879670)
     Availability: Not Available
     Price: ৳36.00 BDT
 - [Moon Cycle – Raymond Coffee](https://raymondcoffee.online/products/lunar-cirque): This is a demonstration store. You can purchase products like this from United By Blue. 100% Organic Cotton Stone Washed Slub Knit 6 oz Jersey Fabric Made in California Julie is 5'8" and wearing a size small
@@ -336,7 +336,7 @@
     Availability: Not Available
     Price: ৳310.00 BDT
 - [Long Sleeve Swing Shirt - Relaxed Fit and Organic Cotton](https://raymondcoffee.online/products/long-sleeve-swing): Discover the Long Sleeve Swing Shirt made from 100% organic cotton with a relaxed fit for ultimate comfort. Perfect for everyday wear at United By Blue.
-  Updated: 2025-10-28T08:01:04Z
+  Updated: 2026-01-04T11:10:51Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
@@ -470,7 +470,7 @@
     Updated: 2024-09-05T07:04:48Z
     Author: Raymond Wildlife
   - [Elevate Your Style with Raymond Coffie: Trendy Clothing and Backpacks for Every Occasion](https://raymondcoffee.online/blogs/news/elevate-your-style-with-raymond-coffie-trendy-clothing-and-backpacks-for-every-occasion)
-    Updated: 2025-06-04T05:47:50Z
+    Updated: 2026-01-06T21:31:14Z
     Author: Store SEO
   - [Discover the Latest Trends in Clothing and Backpacks at Raymond Coffie](https://raymondcoffee.online/blogs/news/discover-the-latest-trends-in-clothing-and-backpacks-at-raymond-coffie)
     Updated: 2024-10-09T09:13:15Z
