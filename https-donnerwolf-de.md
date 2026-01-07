@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-04-24T12:00:01Z
 - Contact Email: donnerwolforiginal@gmail.com
-- Updated At: 2025-12-27T00:00:31.684Z
+- Updated At: 2026-01-07T00:00:41.615Z
 
 Donnerwolf ist dein Shop für authentische Wikinger-Mode und nordische Apparel. Wir bieten Premium T-Shirts, Hoodies, Tank-Tops und Accessoires mit kraftvollen Wikinger-Motiven, humorvollen Sprüchen und nordischer Mythologie. Alle Produkte aus nachhaltiger Bio-Baumwolle. Kostenloser Versand ab 50€ in Deutschland.
 
@@ -681,7 +681,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/raid-or-die-premium-snapback-red-green-one-size-kappen-muetzen-151.webp?v=1733757683
     Price: 24,95 € EUR
 - [Berserker Midgard Warrior T-Shirt - Deine Donnerwolf Mode](https://donnerwolf.de/products/berserker-midgard-warrior-tshirt): Werde zum Berserker mit unserem Midgard Warrior T-Shirt von Donnerwolf! Zeige deine Stärke mit diesem Premium Shirt – jetzt entdecken & Abenteuer erleben!
-  Updated: 2025-07-30T05:29:23Z
+  Updated: 2026-01-06T19:15:05Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -4163,7 +4163,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/ich-bin-der-schildwall-unisex-hoodie-hot-chocolate-s-hoodies-483.webp?v=1733759770
     Price: 54,95 € EUR
 - [Ich bin der Schildwall - Premium Shirt](https://donnerwolf.de/products/ich-bin-der-schildwall-premium-shirt): Dein Team von Donnerwolf.
-  Updated: 2025-11-15T05:25:30Z
+  Updated: 2025-12-30T10:43:31Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -4681,7 +4681,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/n-scheiss-basic-sweatshirt-hot-chocolate-s-sweatshirts-306.webp?v=1733759869
     Price: 44,95 € EUR
 - [ICH BIN HEIDE - Premium Shirt](https://donnerwolf.de/products/ich-bin-heide-premium-shirt): Hochwertig bedruckt in Europa Erstklassige Qualitätsstandards Deine Top-Adresse für Wikinger- und Nordische Mythologie Hast du Odins Ruf vernommen? Träumst du von Valhalla?
-  Updated: 2025-11-15T05:25:30Z
+  Updated: 2025-12-30T12:55:23Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -4973,7 +4973,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/seiner-feinde-premium-shirt-brown-s-unisex-shirts-556.webp?v=1733759991
     Price: 24,95 € EUR
 - [Toleranteste  - Premium Shirt](https://donnerwolf.de/products/toleranteste-premium-shirt): Hochwertig bedruckt in Europa Erstklassige Qualitätsstandards Deine Top-Adresse für Wikinger- und Nordische Mythologie Hast du Odins Ruf vernommen? Träumst du von Valhalla?
-  Updated: 2025-11-05T13:25:30Z
+  Updated: 2026-01-04T11:15:22Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -7747,7 +7747,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/victory-of-valhalla-unisex-hoodie-beidseitiger-druck-hot-164.webp?v=1733760782
     Price: 54,95 € EUR
 - [I will go to valhalla - Premium Shirt](https://donnerwolf.de/products/i-will-go-to-valhalla-premium-shirt): Hochwertig bedruckt in Europa Erstklassige Qualitätsstandards Deine Top-Adresse für Wikinger- und Nordische Mythologie Hast du Odins Ruf vernommen? Träumst du von Valhalla?
-  Updated: 2025-11-15T05:30:23Z
+  Updated: 2025-12-29T07:27:51Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -9802,7 +9802,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/his-viking-tasse-glossy-white-330ml-trinkgefaesse-180.webp?v=1733762258
   Price: 19,95 € EUR
 - [his Shieldmaiden - Tasse glossy](https://donnerwolf.de/products/his-shieldmaiden-tasse-glossy): his Shieldmaiden - Tasse glossy
-  Updated: 2025-09-08T12:29:45Z
+  Updated: 2025-12-29T05:35:41Z
   Vendor: Donnerwolf
   Product Type: Trinkgefäße
   Availability: Available
@@ -14458,7 +14458,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/too-many-idiots-damen-shirt-navy-xs-lady-shirts-775.png?v=1735829679
     Price: 24,95 € EUR
 - [Too many idiots - Basic Sweatshirt](https://donnerwolf.de/products/too-many-idiots-basic-sweatshirt): Material: 80% Baumwolle, 20% Polyester (Black Smoke: 70% Baumwolle / 30% Polyester) Grammatur: 280 g/m² Schnitt: Regular Fit (normale Passform) Set-In-Ärmel Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-07-15T12:44:14Z
+  Updated: 2025-12-30T03:25:56Z
   Vendor: Donnerwolf
   Product Type: Sweatshirts
   Availability: Available
@@ -15142,7 +15142,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/skull-viking-unisex-hoodie-hot-chocolate-xs-hoodies-944.png?v=1736000470
     Price: 54,95 € EUR
 - [Wir sehen uns in Valhalla - Premium Shirt](https://donnerwolf.de/products/wir-sehen-uns-in-valhalla-premium-shirt): Material: 100 % Baumwolle (ringgesponnen) / Ausnahme Ash: 99 % Baumwolle, 1 % Viskose / Ausnahme Sport Grey: 85 % Baumwolle, 15 % Polyester Grammatur: 185 g/m² Schnitt: Regular (normale Passform) Rundhalsausschnitt in 1x1-Rippstrick Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-07-15T12:33:07Z
+  Updated: 2026-01-04T10:03:53Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -16114,7 +16114,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/lieber-mit-odin-herren-shirt-black-xs-unisex-shirts-147.png?v=1736521766
     Price: 24,95 € EUR
 - [Lieber mit Odin - Basic Unisex Hoodie](https://donnerwolf.de/products/lieber-mit-odin-basic-unisex-hoodie): Material: 80 % Baumwolle, 20 % Polyester Grammatur: 280 g/m² Schnitt: normale Passform Doppelnahtverarbeitung Innen angeraut Kapuzenkordel in identischer Farbe Doppellagige Kapuze Kängurutasche an Vorderseite Strick-Bündchen an Ärmeln und Saum Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-10-16T06:31:12Z
+  Updated: 2026-01-05T00:04:27Z
   Vendor: Donnerwolf
   Product Type: Hoodies
   Availability: Available
@@ -16866,7 +16866,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/echte-maenner-werte-unisex-sweatshirt-hot-chocolate-xs-sweatshirts-819.png?v=1736782023
     Price: 44,95 € EUR
 - [Männer ohne Bart  - Premium Shirt](https://donnerwolf.de/products/manner-ohne-bart-premium-shirt): Material: 100 % Baumwolle (ringgesponnen) / Ausnahme Ash: 99 % Baumwolle, 1 % Viskose / Ausnahme Sport Grey: 85 % Baumwolle, 15 % Polyester Grammatur: 185 g/m² Schnitt: Regular (normale Passform) Rundhalsausschnitt in 1x1-Rippstrick Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-11-15T05:35:37Z
+  Updated: 2026-01-04T10:43:59Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -19436,7 +19436,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
 ## Collections
 
 - [Wikinger T-Shirt Herren: Premium Nordische Shirts | Donnerwolf](https://donnerwolf.de/collections/wikinger-t-shirts-herren): Wikinger T-Shirt Herren in Premium-Qualität. Nordische Symbole, Odin, Mjölnir & Runen-Designs. Bio-Baumwolle, starke Statements. Jetzt bei Donnerwolf bestellen!
-  Updated: 2025-12-21T12:12:58Z
+  Updated: 2026-01-05T12:17:06Z
   Total Products: 143
 - [Wikinger T-Shirt Damen: Premium Nordische Shirts für Frauen | Donnerwolf](https://donnerwolf.de/collections/wikinger-t-shirts-damen): Wikinger T-Shirt Damen in Premium-Qualität. Nordische Symbole, Walküren, Runen & Göttin-Designs. Starke Shirts für starke Frauen. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-18T12:18:59Z
@@ -19451,7 +19451,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-17T16:08:56Z
   Total Products: 33
 - [Neu im Shop](https://donnerwolf.de/collections/neu-im-shop): Neu im Shop bietet trendige Herren T-Shirts und stylische oversized Hoodies für jeden Anlass, ideal für lässige Looks und maximalen Komfort.
-  Updated: 2025-12-21T12:12:58Z
+  Updated: 2026-01-05T12:17:06Z
   Total Products: 34
 - [Wikinger Tassen: Nordische Kaffeetassen & Becher | Donnerwolf](https://donnerwolf.de/collections/tassen): Wikinger Tassen mit nordischen Symbolen: Mjölnir, Runen, Odin & mehr. Premium Kaffeetassen & Becher für Wikinger-Fans. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-17T16:06:20Z
@@ -19469,9 +19469,9 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-19T12:39:34Z
   Total Products: 8
 - [Alle Produkte](https://donnerwolf.de/collections/alle-produkte)
-  Updated: 2025-12-22T12:15:13Z
+  Updated: 2026-01-05T12:17:06Z
   Total Products: 359
-- [Sale Wikinger Kleidung - Reduzierte T-Shirts & Hoodies | Donnerwolf](https://donnerwolf.de/collections/sale): Spare jetzt bei hochwertiger Wikinger-Kleidung! Reduzierte T-Shirts, Hoodies & mehr mit nordischen Motiven. Premium-Qualität, limitierte Stückzahl. Jetzt zuschlagen!
+- [ Wikinger Kleidung - Reduzierte T-Shirts & Hoodies | Donnerwolf](https://donnerwolf.de/collections/): Spare jetzt bei hochwertiger Wikinger-Kleidung! Reduzierte T-Shirts, Hoodies & mehr mit nordischen Motiven. Premium-Qualität, limitierte Stückzahl. Jetzt zuschlagen!
   Updated: 2025-12-17T16:35:37Z
   Total Products: 14
 
@@ -19530,6 +19530,18 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Updated: 2025-12-18T01:04:16Z
     Author: Donnerwolf Team
     Tags: bedeutung von nordischen göttern, germanen, götter, göttersymbole, legenden der nordischen mythologie, mythologie, nordische, nordische götter, nordische kultur, nordische symbole, nordischer lifestyle, odin, runen, skandinavisches design, thor, valhalla, viking style, wikinger, wikinger religion
+  - [Die Bedeutung der Wikinger Symbole in der nordischen Kultur](https://donnerwolf.de/blogs/news/die-bedeutung-der-wikinger-symbole-in-der-nordischen-kultur): Die Bedeutung der Wikinger Symbole in der nordischen Kultur
+    Updated: 2026-01-03T18:15:32Z
+    Author: Donnerwolf Team
+    Tags: bedeutung der symbole, germanen, kulturelle bedeutung der wikinger, mythologie, nordische, nordische kultur, nordische symbole, nordischer lifestyle, odin, runen, skandinavisches design, symbole der wikinger, thor, valhalla, viking style, wikinger, wikinger symbole
+  - [Odin der Allvater Geheimnisse und Mythen enthüllt](https://donnerwolf.de/blogs/news/odin-der-allvater-geheimnisse-und-mythen-enthullt): Odin der Allvater Geheimnisse und Mythen enthüllt
+    Updated: 2026-01-03T18:16:13Z
+    Author: Donnerwolf Team
+    Tags: allvater mythen, geheimnisse der nordischen mythologie, germanen, mythen, mythologie, nordische, nordische gottheit, nordische kultur, nordische symbole, nordischer lifestyle, odin, odin geheimnisse, odin und seine legenden, runen, skandinavisches design, thor, valhalla, viking style, wikinger
+  - [Valhalla verstehen Einblicke in die nordische Mythologie](https://donnerwolf.de/blogs/news/valhalla-verstehen-einblicke-in-die-nordische-mythologie): Valhalla verstehen Einblicke in die nordische Mythologie
+    Updated: 2026-01-03T18:16:47Z
+    Author: Donnerwolf Team
+    Tags: germanen, götterwelt, legenden der isländer, mythologie, nordische, nordische gottheiten und ihre geschichte, nordische kultur, nordische symbole, nordischer lifestyle, odin, runen, schicksalsgöttin nornen, skandinavisches design, thor, valhalla, viking style, wikinger, wikinger mythen
 
 ## Store Pages
 
