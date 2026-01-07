@@ -5,19 +5,19 @@
 - Currency: EUR
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
-- Updated At: 2025-12-30T00:00:41.734Z
+- Updated At: 2026-01-07T00:00:41.363Z
 
 ## Products
 
 - [Ultimate AI Blueprint Generator - Design Made Easy](https://gamedevcore.com/products/ultimate-blueprint-generator-ai): Discover the power of our AI blueprint generator. It's never been easier to make games in Unreal Engine even as a beginner. Try it today!
-  Updated: 2025-10-25T09:06:18Z
+  Updated: 2026-01-06T13:49:00Z
   Vendor: GameDevCore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/thumbnail.png?v=1761261449
-  Price: €140.00 EUR
+  Price: €180.00 EUR
 - [Ultimate Difficulty Scaling in Game Design](https://gamedevcore.com/products/ultimate-difficulty-scaling): Discover the importance of difficulty scaling in game design. Learn how it enhances player experience and keeps engagement high.
-  Updated: 2025-09-28T11:59:07Z
+  Updated: 2026-01-06T13:49:00Z
   Vendor: GameDevCore
   Product Type: 
   Availability: Available
@@ -27,7 +27,7 @@
 ## Collections
 
 - [Welcome to Our Home - Explore and Discover](https://gamedevcore.com/collections/frontpage): Visit our home page to explore various resources and discover what we offer. Your journey starts here!
-  Updated: 2025-09-27T17:23:12Z
+  Updated: 2026-01-06T13:49:00Z
   Total Products: 1
 
 ## Blogs
