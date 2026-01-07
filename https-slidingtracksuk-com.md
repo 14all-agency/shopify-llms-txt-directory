@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2024-02-11T16:58:13Z
 - Contact Email: stevenrb_uk@yahoo.co.uk
-- Updated At: 2025-12-30T00:00:23.787Z
+- Updated At: 2026-01-07T00:00:32.591Z
 
 ## Products
 
 - [Clip On Vivarium Track set Black Suit 15mm Board, 4mm Glass Free Mainland Delivery](https://slidingtracksuk.com/products/4-1220mm-clip-on-vivarium-track-set-black-suit-15mm-board-4mm-glass): Clip On Vivarium Track Top And Bottom Track Included Black suits 15mm Board (18mm available) 4mm glass Other sizes are available or we can cut them exactly to the right length, perfect clean cut! Any questions just ask Clip On Double Tracks, also known as Vivarium Glass Runners, are commonly used for building cabinets and reptile tanks where easy installation is an advantage. The Double Tracks clip directly onto 15mm board, removing the need for lots of adhesive, covering the cut end of the board for a neat finish.Vivarium Runners feature a straight centre leg, so that the glass sheets pass close to each other, preventing either the reptile or the insects it might eat from escaping. Top and Bottom tracks enable you to fit and remove the glass panels after building the vivarium or cabinet, and small raised runners in the Bottoms assist sliding if any grit or dirt gets into them.
-  Updated: 2025-12-22T19:47:36Z
+  Updated: 2026-01-06T12:03:31Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: £64.95 GBP
 - [18mm Sliding Door Track Set White Free Mainland Delivery](https://slidingtracksuk.com/products/18mm-sliding-door-track-set-white): 18mm Sliding Door Track White. Other colours available see our other items Top track and bottom track as pictured, Other lengths available Collection is welcome from us in Preston Any questions just ask These Double Tracks have a wide centre leg in order to space the boards, doors or panels that run within them. This means that cupboard or wardrobe doors, which typically have protruding fittings from handles or locks, can run unobstructed in the channels. With the deeper Top track and shallower Bottom track, these Double Tracks can be fitted before installing the doors or panels. Note that there are no metal fittings for these Double Tracks, such as wheels or internal guides - they rely on the doors sliding on the low friction PVC.
-  Updated: 2025-12-22T19:47:36Z
+  Updated: 2026-01-05T13:02:30Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
@@ -692,7 +692,7 @@
   Updated: 2025-12-22T19:47:36Z
   Total Products: 1
 - [Sliding Door Track Kits](https://slidingtracksuk.com/collections/sliding-door-track-kits)
-  Updated: 2025-12-28T12:21:00Z
+  Updated: 2026-01-06T12:24:10Z
   Total Products: 13
 
 ## Store Pages
