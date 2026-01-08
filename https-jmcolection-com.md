@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T15:55:06Z
 - Contact Email: jeanmaymerline1996@gmail.com
-- Updated At: 2026-01-01T00:00:34.372Z
+- Updated At: 2026-01-08T00:00:35.887Z
 
 ## Products
 
@@ -123,7 +123,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/f1d09ab8-bd82-4092-bdad-c61079092809.jpg?v=1761349937
     Price: $27.00 USD
-- [Camera, Dash Cam For Cars](https://jmcolection.com/products/podofo-1080p-dual-camera-dash-cam-for-cars-front-and-inside-car-camera-with-ir-night-vision-loop-recording-wide-angle-car-dvr-camera-with-3-16-inch-ips-screen-dual-lens-car-dashboard-video-cam): Capture Every Moment on the Road with Crystal-Clear ClarityExperience peace of mind with the PODOFO 1080P Dual Camera Dash Cam, your reliable witness on every journey. This advanced dual-lens system records both the road ahead and your vehicle's interior simultaneously, providing comprehensive coverage when you need it most.Key Features Dual Camera Protection: Front-facing and interior cameras work together to capture every angle, perfect for rideshare drivers, families, and safety-conscious drivers Full HD 1080P Resolution: Record crisp, detailed footage in stunning high definition that captures license plates, road signs, and important details IR Night Vision: Advanced infrared technology ensures clear recording even in low-light conditions and complete darkness Wide-Angle Lens: Expansive field of view captures more of the road and surroundings, minimizing blind spots Loop Recording: Automatically overwrites oldest footage when storage is full, so you're always recording without manual intervention 3.16" IPS Screen: Large, vibrant display lets you review footage instantly and adjust settings with ease Why You'll Love ItWhether you're documenting a scenic road trip, protecting yourself from insurance fraud, or monitoring teen drivers, this dash cam delivers reliable performance day and night. The compact design mounts discreetly on your windshield, while the intuitive interface makes setup a breeze. Drive with confidence knowing you have a trustworthy co-pilot recording every mile.
+- [Camera, Dash Cam For Cars](https://jmcolection.com/products/podofo-1080p-dual-camera-dash-cam-for-cars-front-and-inside-car-camera-with-ir-night-vision-loop-recording-wide-angle-car-dvr-camera-with-3-16-inch-ips-screen-dual-lens-car-dashboard-video-cam): Capture Every Moment on the Road with Crystal-Clear ClarityExperience peace of mind with the PODOFO 1080P Dual Camera Dash Cam, your reliable witness on every journey. This advanced dual-lens system records both the road ahead and your vehicle's interior simultaneously, providing comprehensive coverage when you need it most.Key Features Dual Camera Protection: Front-facing and interior cameras work together to capture every angle, perfect for rideshare drivers, families, and safety-conscious drivers Full HD 1080P Resolution: Record crisp, detailed footage in stunning high definition that captures license plates, road signs, and important details IR Night Vision: Advanced infrared technology ensures clear recording even in low-light conditions and complete darkness Wide-Angle Lens: Expansive field of view captures more of the road and surroundings, minimizing blind spots Loop Recording: Automatically overwrites oldest footage when storage is full, so you're always recording without manual intervention 3.16" IPS Screen: Large, vibrant display lets you review footage instantly and adjust settings with ease Why You'll Love ItWhether you're documenting a scenic road trip, protecting yourself from insurance , or monitoring teen drivers, this dash cam delivers reliable performance day and night. The compact design mounts discreetly on your windshield, while the intuitive interface makes setup a breeze. Drive with confidence knowing you have a trustworthy co-pilot recording every mile.
   Updated: 2025-10-25T11:59:35Z
   Vendor: JM
   Product Type: 
@@ -263,7 +263,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/8826519727152649525_2048.jpg?v=1761951833
     Price: $35.90 USD
-- [Positive Energy Sweatshirt](https://jmcolection.com/products/positive-energy-sweatshirt): This Positive Energy Sweatshirt exudes comfort and positivity, perfect for cozying up at home or adding a cheerful touch to your outfit. Designed for adults seeking a relaxed and uplifting vibe, this sweatshirt is ideal for casual wear on weekends, holidays, or anytime you need a boost of good vibes.Product features- Built for comfort and durability- Ethically sourced cotton with OEKO-TEX certified dyes- Ribbed knit collar for shape retention- Suitable for adult wear- Available in various embroidery decoration optionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
+- [Positive Energy Sweatshirt](https://jmcolection.com/products/positive-energy-sweatshirt): This Positive Energy Sweatshirt exudes comfort and positivity, perfect for cozying up at home or adding a cheerful touch to your outfit. Designed for adults seeking a relaxed and uplifting vibe, this sweatshirt is ideal for casual wear on weekends, holidays, or anytime you need a boost of good vibes.Product features- Built for comfort and durability- Ethically sourced cotton with OEKO-TEX  dyes- Ribbed knit collar for shape retention- Suitable for  wear- Available in various embroidery decoration optionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
   Updated: 2025-11-01T12:36:45Z
   Vendor: Printify
   Product Type: Sweatshirt
@@ -1496,7 +1496,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/be1986a5-8041-4728-9f93-00bee105d6c4.jpg?v=1763512177
     Price: $25.68 USD
-  - [Warm Sale Black](https://jmcolection.com/products/2025-hot-round-model-2-01-large-screen-smart-watch-with-wireless-call-answer-make-reject-calls-for-and-women-with-100-sports-modes-sleep-monitor-with-game-weather-calculator-pedometer-for-android-iphone-a-must?variant=51012734550337)
+  - [Warm  Black](https://jmcolection.com/products/2025-hot-round-model-2-01-large-screen-smart-watch-with-wireless-call-answer-make-reject-calls-for-and-women-with-100-sports-modes-sleep-monitor-with-game-weather-calculator-pedometer-for-android-iphone-a-must?variant=51012734550337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/d4cada7f-c567-40c4-b9c0-59ea7f65794a.jpg?v=1763512177
     Price: $25.50 USD
@@ -2089,7 +2089,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/8191886d-831c-497a-8d6c-4d1afb8d8f8d.jpg?v=1764470593
     Price: $39.90 USD
-- [Glycolic Acid 7% Toner - Acne Treatment & Exfoliating Essence](https://jmcolection.com/products/glycolic-acid-7-toner-nourishing-gentle-glycolic-acid-toner-remove-acne-fade-acne-fruit-acid-essence-ordinary-acne-remove): Gentle glycolic acid toner with 7% AHA. Removes acne, fades blemishes, and exfoliates for smoother skin. Nourishing fruit acid essence for clearer complexion.
+- [Glycolic Acid 7% Toner - Acne  & Exfoliating Essence](https://jmcolection.com/products/glycolic-acid-7-toner-nourishing-gentle-glycolic-acid-toner-remove-acne-fade-acne-fruit-acid-essence-ordinary-acne-remove): Gentle glycolic acid toner with 7% AHA. Removes acne, fades blemishes, and exfoliates for smoother skin. Nourishing fruit acid essence for clearer complexion.
   Updated: 2025-11-30T16:17:17Z
   Vendor: J&M
   Product Type: 
@@ -2247,7 +2247,7 @@
 - [Premium Cup Tumblers - Insulated Travel Drinkware | JM](https://jmcolection.com/collections/cup-tumbler): Shop our collection of premium insulated cup tumblers. Keep drinks hot or cold for hours with durable, leak-proof designs perfect for daily use and travel.
   Updated: 2025-10-19T17:04:34Z
   Total Products: 1
-- [Best Selling](https://jmcolection.com/collections/best-selling)
+- [Best ](https://jmcolection.com/collections/best-)
   Updated: 2025-12-27T20:27:25Z
   Total Products: 29
 - [Beauty & Cosmetics - Premium Skincare & Makeup | J&M](https://jmcolection.com/collections/beauty-cosmetics): Shop our curated collection of premium beauty and cosmetic products. Quality skincare, makeup essentials, and self-care luxuries for every routine.
