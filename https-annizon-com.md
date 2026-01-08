@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-08-11T07:36:26Z
 - Contact Email: info@annizon.com
-- Updated At: 2025-12-27T00:00:28.134Z
+- Updated At: 2026-01-08T00:00:39.821Z
 
 ## Products
 
@@ -1107,7 +1107,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1611308265.jpg?v=1628669353
     Price: $31.84 USD
-- [Thick for Living Room Plush Rug freeshipping - Annizon Home Essentials](https://annizon.com/products/thick-for-living-room-plush-rug): Origin: CN(Origin) Style: Modern Technics: Machine Made Shape: Rectangle Use: Home Use: HOTEL Use: Bedroom Use: Decorative Design: Rug is_customized: No Wash Style: Hand Wash Wash Style: Mechanical Wash Model Number: Plush Carpet Decoration Style: Modern simplicity Pattern Type: Solid Place: Living Room Material: 100% Polyester Modes of Sale: Retail/Dropshipping Use: Plush Thick
+- [Thick for Living Room Plush Rug freeshipping - Annizon Home Essentials](https://annizon.com/products/thick-for-living-room-plush-rug): Origin: CN(Origin) Style: Modern Technics: Machine Made Shape: Rectangle Use: Home Use: HOTEL Use: Bedroom Use: Decorative Design: Rug is_customized: No Wash Style: Hand Wash Wash Style: Mechanical Wash Model Number: Plush Carpet Decoration Style: Modern simplicity Pattern Type: Solid Place: Living Room Material: 100% Polyester Modes of : Retail/Dropshipping Use: Plush Thick
   Updated: 2025-12-24T23:12:32Z
   Vendor: Wanderlust Decors
   Product Type: Home Textile
@@ -3441,14 +3441,14 @@
   - [Black](https://annizon.com/products/rgb-decoration-wall-lamp-bedroom-beside-wall-light-music-clef-shape-night-light-home-indoor-living-room-decoration-ac90-260v?variant=40863497257119)
     Availability: Available
     Price: $73.70 USD
-- [Waterfall Wallpaper Art freeshipping - Annizon Home Essentials](https://annizon.com/products/waterfall-wallpaper-art): Brand Name: Annizon Home Decor Certification: NONE Origin: CN(Origin) Charge Unit: Usd/Roll Material: Wood fiber wallpaper Surface Treatment: PRINTED Style: Chinese Style Type: Textile Wallpapers Textile Wallpaper Material: Non-Woven Use: Elders' Room Use: living room Use: Kids' Room Use: KİTCHEN Use: Study Use: Bedding Room Use: Wedding House Pattern: Waterfall Landscape Feature:
+- [Waterfall Wallpaper Art freeshipping - Annizon Home Essentials](https://annizon.com/products/waterfall-wallpaper-art): Brand Name: Annizon Home Decor Certification: NONE Origin: CN(Origin) Charge Unit: Usd/Roll Material: Wood fiber wallpaper Surface : PRINTED Style: Chinese Style Type: Textile Wallpapers Textile Wallpaper Material: Non-Woven Use: Elders' Room Use: living room Use: Kids' Room Use: KİTCHEN Use: Study Use: Bedding Room Use: Wedding House Pattern: Waterfall Landscape Feature:
   Updated: 2025-12-24T23:12:43Z
   Vendor: Annizon Home Decor
   Product Type: Household Merchandises
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-729746848.jpg?v=1631976924
   Price: $15.98 USD
-- [Modern Wallpaper Art freeshipping - Annizon Home Essentials](https://annizon.com/products/modern-wallpaper-art): Brand Name: Annizon Home Decor Certification: NONE Origin: CN(Origin) Charge Unit: Usd/Roll Material: PLANT Surface Treatment: Straw Style: Modern Type: Textile Wallpapers Textile Wallpaper Material: Non-Woven Use: Elders' Room Use: living room Use: Kids' Room Use: KİTCHEN Use: Study Use: Bedding Room Use: Wedding House Pattern: Abstract Feature: 3D Feature: Mildew Resistant Feature:
+- [Modern Wallpaper Art freeshipping - Annizon Home Essentials](https://annizon.com/products/modern-wallpaper-art): Brand Name: Annizon Home Decor Certification: NONE Origin: CN(Origin) Charge Unit: Usd/Roll Material: PLANT Surface : Straw Style: Modern Type: Textile Wallpapers Textile Wallpaper Material: Non-Woven Use: Elders' Room Use: living room Use: Kids' Room Use: KİTCHEN Use: Study Use: Bedding Room Use: Wedding House Pattern: Abstract Feature: 3D Feature: Mildew Resistant Feature:
   Updated: 2025-12-24T23:12:43Z
   Vendor: Annizon Home Decor
   Product Type: Household Merchandises
@@ -4189,7 +4189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1788191572.jpg?v=1631470942
     Price: $13.98 USD
 - [Creative Cocktail Glasses freeshipping - Annizon Home Essentials](https://annizon.com/products/creative-cocktail-glasses): Durable Double Glasses is a modern, lightweight design with blown borosilicate glass. It is perfect for your favorite coffee, Pinot Noir, Bordeaux, Chardonnay, Merlot, Moscato, or any other wine, great for champagne, cocktails, juices, drinks, sodas, beer, and other drinks that come to mind.
-  Updated: 2025-04-21T06:51:20Z
+  Updated: 2025-12-31T08:19:20Z
   Vendor: Annizon Home Essentials
   Product Type: Dinnerware
   Availability: Available
@@ -4483,7 +4483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/63103bbb3fe413df3a1d31b65852e669_5b959ed1-6cca-437b-acb4-38b98b95b229.jpg?v=1637305505
     Price: $56.99 USD
 - [Pink Floyd - Metal Wall Art freeshipping - Annizon Home Essentials](https://annizon.com/products/pink-floyd-metal-wall-art-1384739158): Northshire - Metal DecorDimensions: 40cm x 60cm ( 15.7'' x 23.6'' Inches)Material: 1.5 mm steelColor: Textured, Black PaintPacking: Sturdy box suitable for transport and gift.The product stands 1 cm from the wall (suitable for indoor &amp; outdoor).Easy to install: Simply hang each of the two pieces of the product with a single nail from the hanging attachment on the back. Northshire
-  Updated: 2025-12-24T23:12:51Z
+  Updated: 2025-12-29T07:56:50Z
   Vendor: Silver Ares
   Product Type: Home & Garden
   Availability: Available
@@ -4599,7 +4599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/sublimation-flip-flops-white-front-left-618b24a209d46.jpg?v=1636508839
     Price: $25.00 USD
 - [Coffee Cat Mug Designed by Annizon freeshipping - Annizon Home Essentials](https://annizon.com/products/mug-with-color-inside): Add a splash of color to your morning coffee or tea ritual! These ceramic mugs not only have a beautiful design on them, but also a colorful rim, handle, and inside, so the mug is bound to spice up your mug rack. • Ceramic • Height: 3.85″ (9.8 cm) • Diameter: 3.35″ (8.5 cm) • White print area • Color rim, inside, and handle • Dishwasher and microwave safe best
-  Updated: 2025-12-24T23:12:53Z
+  Updated: 2026-01-03T23:24:21Z
   Vendor: Annizon Home Essentials
   Product Type: 
   Availability: Available
@@ -5615,7 +5615,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/IVYSIHON-Plastic-Mini-Grinding-Grater-Planer-Slicer-Cutter-Kitchen-Tool-Supplies-Garlic-Press-Multi-functional-Stainless.jpg_640x640_145f2fc6-b701-4a76-ad8b-7b86f8e98e09.jpg?v=1636787603
     Price: $25.74 USD
-- [Grey Stone - Organic Swaddle Blanket freeshipping - Annizon Home Essentials](https://annizon.com/products/swaddle-blanket-grey-dip-dyed-dream-13715029): DLK Dip Dyed Dream Swaddle in GREY STONE  Made with the softest, pre-washed 100% GOTS (Global Organic Textile Standard) Certified Organic Cotton Muslin that continues to get softer after every wash. All of our swaddles are lightweight and breathable. Dimensions: a generous 47” x 47” to keep your little llama snug as a bug in a rug. Due to the custom nature of our dip dyed
+- [Grey Stone - Organic Swaddle Blanket freeshipping - Annizon Home Essentials](https://annizon.com/products/swaddle-blanket-grey-dip-dyed-dream-13715029): DLK Dip Dyed Dream Swaddle in GREY STONE  Made with the softest, pre-washed 100% GOTS (Global Organic Textile Standard)  Organic Cotton Muslin that continues to get softer after every wash. All of our swaddles are lightweight and breathable. Dimensions: a generous 47” x 47” to keep your little llama snug as a bug in a rug. Due to the custom nature of our dip dyed
   Updated: 2025-12-24T23:12:58Z
   Vendor: Blue Thalassa
   Product Type: Baby Clothing
@@ -5709,7 +5709,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/colorful-DIY-Dumplings-Tool-Top-Good-Quality-Dumpling-Jiaozi-Maker-Device-Easy-Dumpling-Mold-Clips-Cozinha.jpg?v=1636787637
   Price: $8.10 USD
 - [Baby PU Leather Baby Boy Girl Baby Moccasins Moccs Shoes Bow Fringe So freeshipping - Annizon Home Essentials](https://annizon.com/products/baby-pu-leather-baby-boy-girl-baby-moccasins-moccs-shoes-bow-fringe-soft-soled-non-slip-footwear-crib-shoes-1281993315): Brand Name: MUPLY Origin: CN(Origin) Upper Material: PU Fashion Element: Butterfly-knot Season: All seasons Closure Type: Slip-On Pattern Type: Heart-Shaped Department Name: baby Gender: Baby Girl Item Type: First Walkers Outsole Material: PU Fit: Fits true to size, take your normal size Design: 100% Brand New &amp; High Quality Product Category: Wedding party Princess Shoes Material:
-  Updated: 2025-12-24T23:12:59Z
+  Updated: 2025-12-29T12:51:36Z
   Vendor: Chocolate Caeneus
   Product Type: Baby Clothing
   Availability: Available
@@ -5987,7 +5987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/Toddler-Baby-Kids-Boys-Cartoon-Dog-Tops-Short-Pants-Casual-Outfits-Set-Baby-Boy-Clothes-Hot.jpg_640x640_8e0c8120-725e-4ab9-9953-b8be4763b561.jpg?v=1636787659
     Price: $30.00 USD
 - [Tabletop Zen Garden Kit freeshipping - Annizon Home Essentials](https://annizon.com/products/tabletop-zen-garden-kit-1438506135): Enjoy your own private Zen garden, even if youre short on space! Nifty tabletop box contains every essential sand, rocks, candleholder and rake to create a serenely scenic escape from the everyday. UPC Number: 849179010447 Material(s): WOOD STONE CEMENT SAND Weight 1.5 pounds Dimensions 7" x 6.25" x 2.25" We do not ship to Alaska, Hawaii, POBOX and FPO addresses  best Home & Garden
-  Updated: 2025-12-24T23:13:00Z
+  Updated: 2026-01-05T04:36:15Z
   Vendor: Violet Leto
   Product Type: Home & Garden
   Availability: Available
@@ -6496,7 +6496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/Ins-Nordic-Leather-Tissue-Box-Paper-Box-Living-Room-Home-Creative-Tissue-Paper-Bag-Paper-Bag.jpg_640x640_a960cfcd-5d80-4bef-86ee-050b2e7fae9f.jpg?v=1636787725
     Price: $21.14 USD
 - [Green Teddy Onesie freeshipping - Annizon Home Essentials](https://annizon.com/products/copy-of-irish-pride-onesie-363967497): ALL-DAY COMFORT   The Onesie is made out of butter soft fabric, and will keep your baby comfortable all day.  It also has  has crotch-snap closures, so changing and dressing your little one will be a breeze. Disclaimer:  Design varies we cannot guarantee that it will match up or look identical to another pair. BENEFITS Bottom Closure Snaps Comfortable fit Made in USA FABRIC
-  Updated: 2025-12-24T23:13:03Z
+  Updated: 2025-12-29T07:27:43Z
   Vendor: Orange Poppy
   Product Type: Women's Clothing
   Availability: Available
@@ -6670,7 +6670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/DSC_1182.jpg?v=1637303009
   Price: $85.00 USD
 - [Eat, Drink, and Be Married Wine Bag freeshipping - Annizon Home Essentials](https://annizon.com/products/eat-drink-and-be-married-wine-bag-27860987): These linen wine bags are designed and made in Cranbury, NJ. Everyone needs a pretty little bag to carry their wine around in and these guys make the perfect hostess gift 100% Natural, Organic linen with twine drawstrings to tie the bag closed Measures 14in x 6in Machine wash cold and air dry. Iron as needed All of our products are made with eco-friendly, water-based inks Our designs
-  Updated: 2025-12-24T23:13:04Z
+  Updated: 2026-01-06T07:37:25Z
   Vendor: Magenta Chloe
   Product Type: Home & Garden
   Availability: Available
@@ -6819,14 +6819,14 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/136112766_396612778272338_1517174948978043078_n.jpg?v=1637302997
   Price: $12.93 USD
 - [Chocolate Mocha Bath Bomb freeshipping - Annizon Home Essentials](https://annizon.com/products/chocolate-mocha-bath-bomb-1535289093): Natural Chocolate Mocha Bath BombMade with real chocolate and smoothing organic coffee.One Huge 4 oz ballIngredients: Baking Soda, Citric Acid, Cacao Butter, Cacao Powder, Coffee  best Bath & Beauty from Orchid Misty - Annizon Home Essentials
-  Updated: 2025-12-24T23:13:08Z
+  Updated: 2025-12-28T05:55:47Z
   Vendor: Orchid Misty
   Product Type: Bath & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/data_dc05c4e2-8afb-4cdb-8d25-affb68a68bd3.jpg?v=1637305846
   Price: $8.24 USD
 - [Electric Beard Hair Straightener Wet & Dry freeshipping - Annizon Home Essentials](https://annizon.com/products/straight-hair-comb-ceramic-shape-comb-1343163024): Product Category : Hair Straightener Applicable hair: wet and dry Thermal conductor material: tourmaline ceramic Thermal conductor diameter:: 16MM-20MM Temperature control adjustment: 10 segments Best modeling time: 3-5 minutes Use of straight hair combs: 1 Apply the same scalp as the normal comb, and make the hair smooth and shiny. 2 After use, please put the combs up or directly
-  Updated: 2025-04-21T07:20:13Z
+  Updated: 2026-01-06T02:12:46Z
   Vendor: Gold Bellerophon
   Product Type: Accessories
   Availability: Available
@@ -7105,7 +7105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/enhanced-matte-paper-poster-_in_-8x10-transparent-61967a6b2bb18.jpg?v=1637251694
   Price: $20.00 USD
 - [Small Square Pattern Knitted Sofa Cover Full Cover Furniture textiles freeshipping - Annizon Home Essentials](https://annizon.com/products/small-square-pattern-knitted-sofa-cover-full-cover-furniture-textiles-sp-340231174): Featrue: Keep it in place Our sofa covers easily fall on your shoulders and are non-slip. The bottom is elastic, which can provide all-round protection for your sofa and ensure that the sofa cover is firmly fixed in place. High-quality fabrics Our fabrics are made of natural and environmentally friendly fabrics, which are more elastic and durable, and provide a variety of solid
-  Updated: 2025-12-24T23:13:10Z
+  Updated: 2026-01-04T23:20:53Z
   Vendor: Pink Iolaus
   Product Type: Home & Garden
   Availability: Available
@@ -7246,7 +7246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/dost_yellow_front_44b94c04-8a13-478e-8fea-629674dfc473.jpg?v=1637300157
     Price: $1,500.00 USD
 - [5.0 Wireless Bluetooth Sleep Eye Mask Music and Ultra Thin Speakers SP freeshipping - Annizon Home Essentials](https://annizon.com/products/5-0-wireless-bluetooth-sleep-eye-mask-music-and-ultra-thin-speakers-896230767): Description： Sleeping Headphones: Insomnia will be in your past,as you allow your natural melatonin to flow and drift to sleep.Blindfolds that mold to the shape of your face allowing you to enjoy total darkness day or night.Air travel can be a breeze with this luxury relaxing sleep mask allowing you to fall asleep fast,stay asleep and have a sweet dream, total blackout.Perfect
-  Updated: 2025-12-24T23:13:13Z
+  Updated: 2025-12-28T11:35:28Z
   Vendor: Pink Iolaus
   Product Type: Audio & Video
   Availability: Available
@@ -7492,8 +7492,8 @@
   Updated: 2025-12-25T20:04:40Z
   Total Products: 5
 - [Kids & Babies](https://annizon.com/collections/kids-and-babies)
-  Updated: 2025-12-25T20:04:40Z
-  Total Products: 527
+  Updated: 2025-12-30T02:44:47Z
+  Total Products: 526
 - [View All New Items](https://annizon.com/collections/all-new-items)
   Updated: 2025-12-25T20:04:40Z
   Total Products: 116
@@ -7504,11 +7504,11 @@
   Updated: 2025-12-25T20:04:40Z
   Total Products: 17
 - [Rugs](https://annizon.com/collections/rugs)
-  Updated: 2025-12-25T20:04:40Z
-  Total Products: 34
+  Updated: 2025-12-30T02:44:42Z
+  Total Products: 33
 - [Annizon Food](https://annizon.com/collections/annizon-food)
-  Updated: 2025-12-25T20:04:40Z
-  Total Products: 14
+  Updated: 2025-12-30T02:44:31Z
+  Total Products: 13
 - [Wall Art](https://annizon.com/collections/wall-art)
   Updated: 2025-12-25T20:04:40Z
   Total Products: 23
@@ -7530,15 +7530,15 @@
 - [Bathroom](https://annizon.com/collections/bathroom)
   Updated: 2025-12-26T08:01:23Z
   Total Products: 34
-- [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-26T13:16:01Z
-  Total Products: 5898
+- [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
+  Updated: 2026-01-07T10:03:42Z
+  Total Products: 6150
 - [Candles](https://annizon.com/collections/candles)
   Updated: 2025-12-25T20:04:40Z
   Total Products: 3
 - [Tobi Collection](https://annizon.com/collections/tobi-collection)
-  Updated: 2025-12-26T08:01:39Z
-  Total Products: 13753
+  Updated: 2026-01-06T07:21:12Z
+  Total Products: 14033
 - [Made with Wood](https://annizon.com/collections/made-with-wood)
   Updated: 2025-12-25T20:04:40Z
   Total Products: 10
@@ -7587,12 +7587,12 @@
 - [Framed](https://annizon.com/collections/framed)
   Updated: 2025-12-25T20:04:41Z
   Total Products: 1
-- [Best Selling Products](https://annizon.com/collections/best-selling-products)
-  Updated: 2025-12-26T08:01:39Z
-  Total Products: 13769
+- [Best  Products](https://annizon.com/collections/best--products)
+  Updated: 2026-01-06T07:21:12Z
+  Total Products: 14050
 - [Newest Products](https://annizon.com/collections/newest-products)
-  Updated: 2025-12-26T08:01:39Z
-  Total Products: 13769
+  Updated: 2026-01-06T07:21:12Z
+  Total Products: 14050
 - [Bedding](https://annizon.com/collections/bedding)
   Updated: 2025-12-25T20:04:42Z
   Total Products: 9
@@ -7627,8 +7627,8 @@
   Updated: 2025-12-25T20:04:42Z
   Total Products: 3
 - [Home Office](https://annizon.com/collections/home-office)
-  Updated: 2025-12-25T20:04:42Z
-  Total Products: 18
+  Updated: 2025-12-30T02:39:11Z
+  Total Products: 17
 - [Shoes](https://annizon.com/collections/shoes)
   Updated: 2025-12-25T20:04:42Z
   Total Products: 226
@@ -7636,29 +7636,29 @@
   Updated: 2025-12-25T20:04:42Z
   Total Products: 28
 - [Gadgets](https://annizon.com/collections/gedgets)
-  Updated: 2025-12-25T20:04:42Z
-  Total Products: 3
+  Updated: 2025-12-30T02:44:45Z
+  Total Products: 2
 - [Pets](https://annizon.com/collections/pets)
   Updated: 2025-12-25T20:04:43Z
   Total Products: 7
 - [Health & Beauty](https://annizon.com/collections/health-beauty)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 73
-- [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-1): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-12-26T13:16:01Z
-  Total Products: 5894
+  Updated: 2025-12-30T02:44:34Z
+  Total Products: 72
+- [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-1): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
+  Updated: 2026-01-07T10:03:42Z
+  Total Products: 6146
 - [Baby Girl](https://annizon.com/collections/baby-girl)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 41
+  Updated: 2025-12-30T02:44:41Z
+  Total Products: 40
 - [Baby Boy](https://annizon.com/collections/baby-boy)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 13
+  Updated: 2026-01-06T03:05:18Z
+  Total Products: 12
 - [Women](https://annizon.com/collections/women)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 1002
+  Updated: 2026-01-01T20:48:22Z
+  Total Products: 1038
 - [Men](https://annizon.com/collections/men)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 409
+  Updated: 2026-01-01T20:44:44Z
+  Total Products: 429
 - [Digital Products](https://annizon.com/collections/digital-products)
   Updated: 2025-12-25T20:04:43Z
   Total Products: 6
@@ -7669,35 +7669,35 @@
   Updated: 2025-12-25T20:04:43Z
   Total Products: 8
 - [Ship to US Only](https://annizon.com/collections/ship-to-us-only)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 1861
+  Updated: 2026-01-06T06:36:46Z
+  Total Products: 1854
 - [Digital Art](https://annizon.com/collections/digital-art)
   Updated: 2025-12-25T20:04:43Z
   Total Products: 1
 - [Trending](https://annizon.com/collections/trending)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 62
+  Updated: 2025-12-30T02:45:41Z
+  Total Products: 46
 - [AVADA Email Marketing - Newest Products](https://annizon.com/collections/avada-email-marketing-newest-products)
-  Updated: 2025-12-26T13:16:01Z
-  Total Products: 5894
+  Updated: 2026-01-07T10:03:42Z
+  Total Products: 6146
 - [AVADA Email Marketing - Best Sellers](https://annizon.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2025-12-26T13:16:01Z
-  Total Products: 5894
+  Updated: 2026-01-07T10:03:42Z
+  Total Products: 6146
 - [tinyEinstein_best_selling](https://annizon.com/collections/tinyeinstein_best_selling)
-  Updated: 2025-12-26T13:16:01Z
-  Total Products: 5894
+  Updated: 2026-01-07T10:03:42Z
+  Total Products: 6146
 - [tinyEinstein_new_arrival](https://annizon.com/collections/tinyeinstein_new_arrival)
-  Updated: 2025-12-26T13:16:01Z
-  Total Products: 5894
+  Updated: 2026-01-07T10:03:42Z
+  Total Products: 6146
 - [Home & Kitchen](https://annizon.com/collections/home-kitchen)
   Updated: 2025-12-25T20:04:43Z
   Total Products: 2
 - [Annizon Made Me Buy It!](https://annizon.com/collections/amazon-must-have)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 12
+  Updated: 2025-12-30T02:45:50Z
+  Total Products: 11
 - [Rings](https://annizon.com/collections/rings)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 401
+  Updated: 2026-01-05T12:12:10Z
+  Total Products: 616
 - [Sunglasses](https://annizon.com/collections/sunglasses)
   Updated: 2025-12-25T20:04:44Z
   Total Products: 53
@@ -7705,8 +7705,8 @@
   Updated: 2025-12-25T20:04:44Z
   Total Products: 2
 - [Bags](https://annizon.com/collections/bags)
-  Updated: 2025-12-25T20:04:44Z
-  Total Products: 359
+  Updated: 2026-01-05T04:37:42Z
+  Total Products: 412
 - [Jewelry](https://annizon.com/collections/jewelry)
   Updated: 2025-12-25T21:54:02Z
   Total Products: 2
@@ -8139,7 +8139,7 @@
   Updated: 2021-11-19T06:46:22Z
 - [HTML sitemap for blogs](https://annizon.com/pages/avada-sitemap-blogs): Blogs News .avada-sitemap-row { margin-bottom: 2rem; } .avada-sitemap-row a { color: inherit; } .avada-sitemap-row > h3 { margin-bottom: 10px; } .a...
   Updated: 2021-11-19T06:46:21Z
-- [Affiliate Empty Page](https://annizon.com/pages/sca-affiliate-empty-page)
+- [ Empty Page](https://annizon.com/pages/sca--empty-page)
   Updated: 2021-12-06T15:30:37Z
 - [About Us](https://annizon.com/pages/about-us): Inspired by great design and informed by the needs of everyday living, our store is a comprehensive source for home furnishings and decor items. Ou...
   Updated: 2022-01-25T04:24:51Z
@@ -8167,11 +8167,13 @@
   Updated: 2024-08-24T15:37:54Z
 - [Official Rules – Home Giveaway](https://annizon.com/pages/official-rules-home-giveaway): Official Rules – Home Giveaway NO PURCHASE NECESSARY TO ENTER OR WIN. VOID WHERE PROHIBITED.Participation constitutes entrant’s full and unconditio...
   Updated: 2025-08-27T04:28:16Z
+- [Your privacy choices](https://annizon.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-01-01T20:04:02Z
 
 ## Policies
 
 - [Privacy Policy](https://annizon.com/policies/privacy-policy)
-  Updated: 2024-07-29T00:57:58-04:00
+  Updated: 2026-01-01T15:04:02-05:00
 - [Shipping Policy](https://annizon.com/policies/shipping-policy)
   Updated: 2022-02-16T21:44:44-05:00
 - [Refund Policy](https://annizon.com/policies/refund-policy)
