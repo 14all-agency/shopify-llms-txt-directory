@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-12-29T00:00:37.725Z
+- Updated At: 2026-01-08T00:00:40.520Z
 
 ## Products
 
@@ -48,8 +48,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main.jpg?v=1760949920
   Price: $885.95 USD
-- [High-Performance Snowboard for Ultimate Winter Adventures by Rankz](https://rankz-test-2.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2025-10-29T05:14:06Z
+- [High-Performance Snowboard for All Levels - Rankz Ride Confidently](https://rankz-test-2.myshopify.com/products/the-compare-at-price-snowboard): ```htmlProduct OverviewExperience the thrill of winter like never before with the High-Performance Snowboard for All Levels by Rankz. This expertly crafted snowboard is designed to elevate your winter adventures, whether you're a beginner finding your footing or a seasoned pro perfecting your tricks. With this snowboard, you’ll ride with confidence, making every run exhilarating and unforgettable.Key Features Durable Construction: Built to withstand the toughest winter conditions. Lightweight Design: Effortlessly maneuver through powder and park. Versatile Performance: Ideal for carving down slopes or mastering aerial tricks. All-Season Ready: Engineered for performance in various snow conditions. Who It's ForThis snowboard is perfect for anyone who loves winter sports. Whether you’re just starting out or have years of experience, the High-Performance Snowboard by Rankz caters to all skill levels. Families, friends, or solo adventurers will find joy in hitting the slopes.Benefits/Value PropositionSay goodbye to worries about equipment holding you back! This snowboard solves common problems like instability and lack of control, allowing you to focus on enjoying your ride. Its lightweight design means less fatigue, so you can spend more time on the mountain. Plus, with its durable build, you can trust it to last season after season.With the High-Performance Snowboard by Rankz, you'll not only enhance your skills but also create lasting memories on the slopes. Embrace the winter and ride with confidence!```
+  Updated: 2026-01-06T10:57:44Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
@@ -62,21 +62,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1760949920
   Price: $749.95 USD
-- [Selling Plans Ski Wax](https://rankz-test-2.myshopify.com/products/selling-plans-ski-wax)
+- [ Plans Ski Wax](https://rankz-test-2.myshopify.com/products/-plans-ski-wax)
   Updated: 2025-10-22T13:37:49Z
   Vendor: rankz-test
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/snowboard_wax.png?v=1760949921
-  - [Selling Plans Ski Wax](https://rankz-test-2.myshopify.com/products/selling-plans-ski-wax?variant=43057185292366)
+  - [ Plans Ski Wax](https://rankz-test-2.myshopify.com/products/-plans-ski-wax?variant=43057185292366)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/snowboard_wax.png?v=1760949921
     Price: $24.95 USD
-  - [Special Selling Plans Ski Wax](https://rankz-test-2.myshopify.com/products/selling-plans-ski-wax?variant=43057185357902)
+  - [Special  Plans Ski Wax](https://rankz-test-2.myshopify.com/products/-plans-ski-wax?variant=43057185357902)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/wax-special.png?v=1760949920
     Price: $49.95 USD
-  - [Sample Selling Plans Ski Wax](https://rankz-test-2.myshopify.com/products/selling-plans-ski-wax?variant=43057185390670)
+  - [Sample  Plans Ski Wax](https://rankz-test-2.myshopify.com/products/-plans-ski-wax?variant=43057185390670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/sample-normal-wax.png?v=1760949920
     Price: $9.95 USD
@@ -162,7 +162,7 @@
   Updated: 2025-10-27T20:31:36Z
   Total Products: 1
 - [Automated Collection](https://rankz-test-2.myshopify.com/collections/automated-collection)
-  Updated: 2025-12-10T09:46:48Z
+  Updated: 2025-12-29T16:12:22Z
   Total Products: 8
 - [Hydrogen](https://rankz-test-2.myshopify.com/collections/hydrogen)
   Updated: 2025-10-27T18:37:04Z
